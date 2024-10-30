@@ -31,8 +31,686 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Cuenca suspende cortes de luz en ciertos sectores durante el feriado
-====================================================================
+Quito envía un mensaje a sus vecinos para el feriado
+====================================================
+
+Quito es una opción para visitar y pasear en los cinco días del feriado de noviembre.
+-------------------------------------------------------------------------------------
+
+![La Mitad del Mundo es uno de los sitios más visitados en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/turismo-editorial.jpg)
+
+Pudiera sonar trillado decir que **Quito** es una buena opción para hacer **turismo**, pero es una alternativa real para salir de casa en estos cinco largos días de feriado, si no va a viajar a otros destinos.
+
+Indudablemente, es difícil afrontar los **cortes de luz**; por ello, la ciudad es una opción, ya que tiene varias zonas para visitar, pasear, comer o disfrutar el aire libre de los parques o los sitios rurales de Quito.
+
+Con cinco largos días de descanso es indispensable que el **Municipio de Quito, la Policía** y otras autoridades garanticen la seguridad, transporte público y los servicios turísticos.
+
+> El **Municipio de Quito** debe brindar las facilidades para que los quiteños se sientan seguros de hacer turismo en la ciudad.
+
+Lo más fácil y a la mano son los **parques** de la ciudad, que ayudarán a expulsar el estrés, cansancio o ansiedad.
+
+Los **parques La Carolina, Metropolitano en el norte y sur, el Bicentenario** y otros espacios están cerca. En el centro norte de la ciudad está el **Jardín Botánico**, que es un refugio cálido y vistoso para recorrerlo.
+
+Si eso no convence, el **Centro Histórico** es único e irrepetible. Aunque haya ido otras veces, siempre encontrará algo nuevo por descubrir. Inclusive, tiene la oportunidad de subir a terrazas para tener una mirada de Quito desde lo alto. 
+
+Y también encontrará muchas opciones para comer; es decir, tiene todo para dar un paseo histórico por el **Patrimonio Cultural de la Humanidad**.
+
+En este lugar es necesario reforzar la seguridad con la Policía, para que los hijos de Quito se sientan seguros y a gusto. 
+
+Solo basta tomar el **Metro de Quito** para llegar rápido, sin congestión y seguro. El Municipio ha garantizado el servicio para los cinco días del **asueto**.
+
+Los otros sistemas de transporte también estarán disponibles, pero, tome en cuenta que se modificaron los horarios para esos días[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+Si el Centro Histórico no convence, el **noroccidente de Quito** tiene la famosa **Mitad del Mundo**. Considere ir a las parroquias rurales, que también tienen sus atractivos y una oferta gastronómica tradicional.
+
+Es posible que salga renovado y, posiblemente, motivado, el mensaje que Quito quiere enviar a sus hijos y vecinos en este feriado de noviembre.
+
+Populismo rencoroso (II)
+========================
+
+La historia es de guerras, invasiones, batallas y conquistas, que han cambiado el mapa político del mundo.
+----------------------------------------------------------------------------------------------------------
+
+![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
+
+La presidenta electa **Claudia Sheinbaum**, como era de esperarse, refuerza con más pasión la retórica populista de López Obrador. Tensa más las relaciones con el **reino** de **España**; y, nos insiste, en la obscena exigencia de pedir el **salvoconducto** para un delincuente (Glas) mutándolo a **perseguido político**. México da lástima por su **descomposición institucional**.
+
+La **obsesión** del **populismo** es inventar enemigos. Leamos lo que escribe el destacado teórico del neo **constitucionalismo**, Luigi Ferrajoli, sobre la fijación **populista** de crear enemigos: «_es el **mecanismo típico** de la **demagogia populista**: se construyen enemigos potenciales (…) el embotellamiento de las **conciencias** y de las **inteligencias** con espectáculos estúpidos y vulgares_». Lo dice en su libro _poderes salvajes._
+
+La **historia** es de **guerras**, invasiones, **batallas** y conquistas, que han cambiado el **mapa político** del mundo. Se han erigido **civilizaciones** e imperios, unos en **apogeo** y otros en declive. Desde la época primitiva, donde se peleaba con piedras, palos, luego lanzas, cuchillos; y ahora, blindados, tanques, armas químicas, misiles, drones, **tecnologías de alta precisión** y hasta la **Inteligencia Artificial** o el indeseable arsenal nuclear. Los **populismos** simplifican todo y no comprenden la naturaleza de la **historia**.
+
+Quinientos años después, requerir a España que pida perdón a los **pueblos originarios**, es un monumental disparate. Larguísima sería la lista de agravios e indulgencias que deberían hacerse, unos y otros. Solo cito tres casos: 1) Que Lula da Silva, presidente del Brasil, demande del **gobierno** de la República Portuguesa, perdón por la **colonización** de hace más de quinientos años, e igual a los gobiernos de Francia y Holanda.  2)  Que la India, Turquía, Siria, Egipto, y Afganistán, soliciten al **gobierno griego** perdón por las guerras de conquista de **Alejandro Magno**, sucedidas 300 años antes de Cristo.
+
+Y, 3) Que los **mestizos** de **América Latina** reclamemos a los actuales líderes de las **comunidades indígenas** nos pidan perdón, ya que, en el mundo **precolombino**, aztecas, mayas e incas, realizaban **prácticas** sacrifícales y ofrendas de vidas humanas, que incluía a niños, en **ceremonias** ofrecidas a sus dioses, «violando» DD. HH.
+
+¡Ah!  Me olvidaba: que Sheinbaum, requiera a los descendientes de los mayas, perdón por los juegos de pelotas, como rito, con descabezamientos en Chichén Itzá.  El populismo es, por demás rústico.
+
+10;8;6;4;14
+===========
+
+Cambios en cortes de energía erosionan la credibilidad del gobierno; se ve la reelección de Noboa como oportunidad de reformas.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Francisco Rosales Ramos, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Francisco-Rosales-Ramos.jpg)
+
+El desconcierto en el **gobierno** parece haber llegado a extremos inusitados: el jueves 17 de octubre el **presidente de la República** anunció que los **cortes de energía** se reducirían a 8, 6 y 4 horas diarias en las 3 semanas siguientes. El jueves 24 la ministra de Energía encargada informó que debido a la situación del complejo Paute, y siguiendo **instrucciones** del presidente al flamante Comité de Energía, los **cortes** serán de 14 horas diarias a partir del viernes 25.
+
+La **credibilidad** del **jefe de Estado** debe preservarse por sobre otros intereses. Si se la pierde, la compleja **responsabilidad** que implica la **presidencia** se vuelve mucho más difícil porque la **ciudadanía** desconfía de su palabra.
+
+Para anunciar la **reducción** de los cortes de 10 a 4 horas diarias, se debe asumir que el presidente de la República contó con **informes** de la **ministra de Energía** y su equipo, que aseguraban los nuevos períodos, más soportables que los descomunales de 14 horas. Y esas **responsabilidades** deben exigirse a los autores del error o, peor aún, si hubo mala fe.
+
+No es aceptable que se hubiere confiado en los anticipos del **organismo** que vigila el tiempo, pues, por **naturaleza**, no son seguros. Es importante dar **anuncios positivos**, especialmente cuando se trata del presidente-candidato, pero será indispensable evaluar su **certeza** para que el efecto no sea contrario al buscado. Aquello de que “el viento le ha jugado una mala pasada” está bien para alumnos de kindergarten o de los primeros cursos de escuela primaria, pero no para los **ciudadanos** que depositarán su voto en menos de 100 días.
+
+Al **gobierno de Noboa** no se le puede **responsabilizar** de la **caótica situación actual** de la **generación eléctrica**, pero sí de haber perdido  precioso tiempo luego de la ley “No más apagones”, para ahora someter al país a cortes inéditos de 14 horas diarias y buscar angustiosamente soluciones de última hora.
+
+Más allá de los desaciertos del gobierno, al país le conviene la **reelección** de Noboa, en la expectativa de que con un panorama de 4 años implemente las **reformas sustanciales** que requiere el país para liberarse de **Montecristi** y sus secuelas.
+
+Colada morada y guaguas de pan, tradición ecuatoriana
+=====================================================
+
+Símbolos de la tradición ecuatoriana, uniendo sabores y memorias en el Día de los Difuntos.
+-------------------------------------------------------------------------------------------
+
+![La tradición ecuatoriana que une sabores ancestrales.](https://www.elcomercio.com/wp-content/uploads/2024/10/1-1-1.jpg)
+
+La **colada** **morada** y las **guaguas** de **pan** son dos **elementos icónicos** que representan la rica herencia **cultural** de **Ecuador**, especialmente durante el **Día** de los **Difuntos**, celebrado cada 2 de noviembre. Esta **festividad** es un momento para recordar a los seres queridos que han partido, y la **gastronomía** juega un papel fundamental en la **conmemoración**.
+
+La **colada morada** es una **bebida espesa** hecha a base de maíz morado, **frutas** y especias, que simboliza la conexión entre los vivos y los muertos. Su color morado representa el luto y la **espiritualidad**, mientras que su **sabor** **dulce** y especiado evoca la calidez del **hogar**. Las **guaguas de pan** han evolucionado a lo largo del tiempo. Originalmente conocidas como “**pan de finados**“, eran **figuras sencillas**, sin adornos ni azúcar. Con el paso de los años, especialmente en la **década** de **1980**, comenzaron a **decorarse** con **colores vibrantes** y a rellenarse con dulces como **chocolate** o **manjar** de **leche**. ¡Anímate a preparar estas deliciosas recetas!
+
+Ingredientes para la colada morada
+----------------------------------
+
+4 litros de agua
+
+250 g de harina de maíz morado
+
+500 g de mortiño
+
+250 g de mora
+
+1 piña fresca (cortada en cubos)
+
+8 naranjillas
+
+1 lb (450 g) de fresas (cortadas)
+
+1 babaco (cortado)
+
+5 clavos de olor
+
+5 ishpingo (o anís estrellado)
+
+4 palitos de canela
+
+2 tazas de azúcar (ajustar al gusto)
+
+2 hojas de naranja
+
+Pimienta dulce al gusto
+
+Hierba luisa o cedrón (opcional)
+
+* * *
+
+> La preparación de la colada morada junto con las guaguas de pan es una actividad que une a las familias ecuatorianas cada año.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/3-3-1024x1024.jpg)
+
+La colada morada y las guaguas son un legado cultural que sigue presente en cada hogar ecuatoriano durante esta significativa celebración.
+
+Preparación de la colada morada
+-------------------------------
+
+* En una olla grande, **hervir** 4 litros de agua junto con las especias: clavos de olor, canela, ishpingo, pimienta dulce, hojas de naranja y hierba luisa. **Dejar** hervir durante unos 20 minutos para que se infusionen bien los sabores.
+* En un recipiente aparte, **mezclar** la harina de maíz morado con aproximadamente 300 ml de agua hasta obtener una pasta homogénea. Esto ayudará a evitar grumos al integrarla más tarde.
+* En otra olla, **colocar** los trozos de piña y babaco con un poco de azúcar y cocinar a fuego medio hasta que estén tiernos. Reservar.
+* **Licuar** el mortiño, las moras y las naranjillas hasta obtener un puré. Cernir para separar el jugo.
+* Una vez que el agua aromática ha hervido, cuela para retirar las especias sólidas y vuelve a poner el líquido en la olla.
+* **Agregar** lentamente el puré obtenido en el paso anterior al agua caliente mientras revuelves constantemente.
+* Utiliza un colador o tamiz, **añadir** lentamente la harina hidratada al líquido caliente mientras sigues revolviendo para evitar grumos.
+* **Cocinar** a fuego lento durante unos 20 minutos o hasta que espese adecuadamente.
+* Finalmente, **incorporar** las frutas cocidas (piña y babaco) junto con las fresas cortadas. Cocinar por unos minutos adicionales para permitir que todos los sabores se integren.
+* **Ajustar** el dulzor añadiendo más azúcar o panela según tu preferencia.
+* **Servir** caliente en tazas y disfruta acompañado con guaguas de pan.
+
+Ingredientes para la receta guaguas de pan
+------------------------------------------
+
+1 cucharada sopera de levadura de pan
+
+½ taza de leche tibia
+
+½ taza de azúcar
+
+2 cucharaditas de sal
+
+4 tazas de harina
+
+1 cucharadita de canela en polvo
+
+4 cucharadas de mantequilla sin sal
+
+4 rellenos opcionales: chocolate, dulce de leche o mermelada
+
+2 yemas de huevo (batidas) para pintar las guaguas
+
+Glaseado colorido y decoraciones al gusto
+
+Preparación de la receta de guaguas de pan
+------------------------------------------
+
+* **Disolver** la levadura en la leche tibia.
+* **Agregar** ½ taza de harina para formar una masa liviana.
+* Dejar **reposar** durante al menos 45 minutos hasta que crezca.
+* En un bol grande, **añadir** los huevos, el azúcar, la canela, la sal y el resto de la harina a la mezcla inicial. **Mezclar** bien.
+* **Incorporar** la mantequilla y amasar hasta obtener una masa suave. Ajustar con más harina o leche según sea necesario.
+* **Formar** una bola con la masa, cubrirla y dejar leudar en un lugar cálido durante aproximadamente 2 horas o hasta que duplique su tamaño.
+* **Estirar** la masa sobre una superficie enharinada. Formar una bola para la cabeza y un óvalo más grande para el cuerpo.
+* **Rellenar** con chocolate o dulce al gusto antes de cerrar las figuras.
+* **Colocar** las figuras en una bandeja para hornear ligeramente engrasada. Dejar leudar nuevamente durante unos 15 minutos.
+* **Precalentar** el horno a 175 °C (350 °F).
+* **Pintar** las figuras con las yemas batidas para dar brillo.
+* **Hornear** durante 15 a 20 minutos o hasta que estén doradas.
+* **Dejar** enfriar completamente antes de decorar con glaseado colorido y grageas.
+
+Ambos **alimentos** no solo son parte del menú del **Día** de los **Difuntos**, sino que también reflejan la identidad **cultural ecuatoriana**. Las **familias** se reúnen para preparar estas delicias, transmitiendo **recetas** y **tradiciones** de generación en generación. La **colada morada** y las **guaguas** de **pan** han llegado a ser un símbolo de unidad **familiar** y **comunidad**.
+
+Cartas a Quito / 30 de octubre de 2024
+======================================
+
+Estas son las cartas a Quito de este miércoles 30 de octubre de 2024
+--------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+¿La reelección de Daniel Noboa es la única opción?
+
+De acuerdo a quienes las agrupaciones políticas han lanzado sus candidatos,  pienso que la única opción que nos queda es la reelección de Daniel Noboa para Presidente del  Ecuador. Se necesita la unidad de todos los ecuatorianos para que la reelección sea contundente y no admita mañoserías o metidas de la mano en el Tribunal Electoral. Aunque ahora ya Corina Machado nos enseñó cómo hacer, para descubrir el fraude que se teje tras la voluntad de un pueblo.
+
+Se necesita la unidad de todos los ecuatorianos para poder alcanzar mayoría en la Asamblea Nacional y de esta forma permitir al Presidente que haga los cambios de algunos artículos que en la constitución de Montecristi que nos metieron por la ventana.
+
+Es hora de desterrar de una vez y para siempre, ese fantasma del correismo, chavismo, Lula de Silva, Ortega,  que a la final se guían bajo ese sistema socialista del siglo XXI,  disfrazados de honestos, de hacedor de obras, personaje irascible el innombrable, porque de honrado no tiene nada, aunque justifiquen que por la justicia amañada no se ha dado paso al descubrimiento cierto y real de los recursos que saquearon al país. Que una  voz, valiente, fuerte y firme, como la Fiscal General del Estado, los ha puesto a correr y permanecer amparados por gobiernos de la misma línea política que los mantiene en calidad de perseguidos políticos.
+
+No podemos seguirles el juego. Ellos quieren que tú dividas tu voto.  Tú por el socialcristiano, tú por Suma,  tú por Pachakutik, el otro por la izquierda Democrática. Entonces nosotros todos votamos por Alianza y así somos mayoría, nuevamente.  NO. Eso es lo que buscan y esa es la consigna Si queremos desterrar al narcotráfico, una mayor acción contra la inseguridad, exterminar la extorsión que es el peor mal que nos está sucediendo; tener un país con futuro y para que pueda continuar con el buen manejo de los recursos del estado y pueda contar con la fuerza para llamar a nueva constituyente, para reformar lo que reformaron; lo único que nos queda es votar para Presidente y Asambleístas todo por Daniel Noboa. Así quieren llegar (divide y ganarás). Ellos calculan ganar, aunque la mayoría venga a ser solo el 25% o sea la tercera parte de los ecuatorianos.
+
+No soy afiliado a ningún partido político. Mi opinión va encaminada a buscar la salida a este dilema en el que nos encontramos y estoy convencido de que lo mejor en estos momentos para el Ecuador es el Sr. Daniel Noboa.
+
+Por un país que esperamos que nunca más, vamos a confiar en el que ha demostrado que lo único que le interesa es regresar para quemar en la hoguera a la oposición y en especial a la Fiscal General del Estrado. Que lo tiene sin dormir.
+
+Lionel Efraín Romero Reyes
+
+Torrenciales lluvias en España dejan muertos, desaparecidos e inundaciones
+==========================================================================
+
+Las provincias de Valencia y Albacete fueron las más afectadas por las intensas lluvias en España.
+--------------------------------------------------------------------------------------------------
+
+![Las lluvias en el este de España han causado decenas de damnificados, en especial, en Valencia](https://www.elcomercio.com/wp-content/uploads/2024/10/lluvias-espana-inundaciones.jpg)
+
+Las **inundaciones** en **España** dejan una cifra desconocida de muertos y desaparecidos en **Valencia**; y de decenas de **damnificados** en **Albacete**, según el primer balance del Gobierno tras las fuertes **lluvias** registradas en el sur y este del país **europeo**.
+
+### Más noticias
+
+* [Al menos cuatro empresas privadas de Colombia, interesadas en venderle energía a Ecuador](https://www.elcomercio.com/actualidad/negocios/ecuador-compra-energia-sector-privado-colombia.html "Al menos cuatro empresas privadas de Colombia, interesadas en venderle energía a Ecuador")
+* [Kamala Harris lanza un anuncio para Puerto Rico](https://www.elcomercio.com/actualidad/mundo/kamala-harris-lanza-anuncio-puertorriquenos-insultos-trump.html "Kamala Harris lanza un anuncio para Puerto Rico")
+* [Donald Trump eleva el tono en la semana final de campaña](https://www.elcomercio.com/actualidad/mundo/donald-trump-eleva-tono-semana-final-campana.html "Donald Trump eleva el tono en la semana final de campaña")
+
+Las **autoridades** de **Valencia** confirmaron la noche de este martes 29 de octubre de 2024, el hallazgo de varias **víctimas** mortales; aunque no se precisó ni la ubicación ni la cifra provisional.
+
+A esta confirmación se une el número de al menos siete **desaparecidos**, uno en **Valencia** y seis en **Letur** (**Albacete**), localidad que vivió intensas **precipitaciones** que arrastraron a dos **trabajadores** municipales en un vehículo que todavía no se ha encontrado[.](https://efe.com/espana/2024-10-29/alerta-temporal-lluvia-viento-mala-mar-tormentas/ "https://efe.com/espana/2024-10-29/alerta-temporal-lluvia-viento-mala-mar-tormentas/")
+
+Decenas de damnificados
+-----------------------
+
+En otros puntos de las provincias, decenas de **personas** se encuentran bajo el agua, cubriéndose en **centros** comerciales, vehículos, tejados o **árboles**.
+
+Las **lluvias** torrenciales y las **tormentas** eléctricas provocaron este martes una situación “excepcional” que afectó especialmente en el sur, centro y este de la **península** ibérica, llamando a que las **autoridades** decreten la alerta roja en **Valencia**.
+
+Estas **lluvias** son las más fuertes en esta **región** desde el 11 de septiembre de 1966; acumulando un total frente de 445,4 litros por m².
+
+Ante la **emergencia**, el **Gobierno** formó un comité de crisis en el litoral **mediterráneo** y **Albacete**.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBuxbFdh6Ti/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DBuxbFdh6Ti/?utm_source=ig_embed&utm_campaign=loading)
+
+Vías cerradas y clases suspendidas en Valencia
+----------------------------------------------
+
+El **Ministerio** de **Transporte** español informó esta madrugada a través de la red social X que este miércoles no habrá servicio de **Cercanías** en **Valencia** hasta que las condiciones meteorológicas lo permitan.
+
+Durante toda la jornada, hubo varios **cierres** de vías por la acumulación de agua y se produjeron dos **volcamientos** de camiones.
+
+Por su parte, la **autoridad** aeroportuaria señaló que ya son doce los **vuelos** desviados y diez los **cancelados** en el aeropuerto de **Valencia**, mientras que vídeos reportados en las redes sociales mostraban unas pistas **inundadas**.
+
+También la **capital** y diversos municipios de la provincia de **Valencia** han suspendido las **clases** para este miércoles 30 de octubre, debido a la situación meteorológica.
+
+Búsqueda de desaparecidos en **Albacete**
+-----------------------------------------
+
+El otro foco de preocupación se encuentra en la provincia de **Albacete**, donde esta noche la **Guardia** Civil continúa buscando a las seis **personas** que están sin localizar en **Letur**.
+
+Los **uniformados** patrullarán en vehículos y también con **drones** el lugar, para detectar focos de **calor**.
+
+Otras provincias afectadas por las fuertes **lluvias** son **Málaga**, **Granada** y **Almería**, donde se registran alertas de viviendas, sótanos, **garajes** y vías **inundadas**.
+
+La entidad a cargo del **clima** prevé que este miércoles continúen las **precipitaciones**. La **agencia** no descartó que los **chubascos** alcancen intensidad torrencial, acompañados de **granizo** y fuerte **viento** a la madrugada. Con información de **EFE**.
+
+Meteórico aumento de la compra de generadores eléctricos en Ecuador
+===================================================================
+
+La crisis energética en Ecuador impulsa un incremento notable en la importación de generadores eléctricos, principalmente desde China.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Locales comerciales buscan adquirir sus propios generadores eléctricos.](https://www.elcomercio.com/wp-content/uploads/2024/10/GENERADORES-ELECTRICOS-1.jpg)
+
+Cada vez más ecuatorianos buscan **generadores eléctricos,** debido a la crisis energética que atraviesa el país. La prolongada sequía y el déficit de **1 080 megavatios** (MW) obligan a las autoridades a programar cortes de luz hasta 14 horas diarias en todo Ecuador. Esta situación amplió la necesidad de autoabastecimiento eléctrico[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Bancos privados en Ecuador ofrecen diferir créditos por cortes de luz, ¿en qué consiste?](https://www.elcomercio.com/actualidad/negocios/bancos-privados-en-ecuador-ofrecen-diferir-creditos-por-cortes-de-luz-en-que-consiste.html "Bancos privados en Ecuador ofrecen diferir créditos por cortes de luz, ¿en qué consiste?")
+* [En casa o en la calle siga estos tips de seguridad por los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/consejos-seguridad-para-contemplar-durante-cortes-luz.html "En casa o en la calle siga estos tips de seguridad por los cortes de luz")
+* [Daniel Noboa explicó las razones de los cortes de luz a Ecuador](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-explica-razones-cortes-luz-ecuador.html "Daniel Noboa explicó las razones de los cortes de luz a Ecuador")
+
+Según datos del **Banco Central del Ecuador**, entre enero y agosto de este 2024 se importaron 5 990 toneladas de **generadores eléctricos**. El monto representa un crecimiento del 209% en comparación con lo importando en el mismo período del 2023. Asimismo, si se compara con los primeros ocho meses de 2022, el crecimiento es de 164%.
+
+En valor, el monto importado entre enero y agosto del 2024 asciende a 43,6 millones de dólares. La cifra representa un incremento del 133%, en comparación con lo comprado en los primeros ocho meses del 2023.
+
+El principal país de donde provienen estos equipos son de **China**. El país asiático entregó el 71% de los generadores eléctricos que llegó al Ecuador entre enero y agosto de 2024. Mientras que en 2023, representaba el 33%.
+
+El segundo país de donde vienen los generadores eléctricos es **Perú**, con el 9%. A este le siguen **Estados Unidos, India y Colombia.**
+
+**Julio José Prado**, exministro de Producción, señaló que es notable el crecimiento de las importaciones de estos equipos en los primeros ocho meses del año, incluso antes de que el gobierno redujera los aranceles. “Las familias parecían anticiparse a lo que estaba por venir. Esto sugiere que en los próximos meses el incremento de importaciones será aún mayor”, dijo.
+
+Reducción de los aranceles e impuestos a los generadores
+--------------------------------------------------------
+
+Las cifras de importación de generadores eléctricos entre enero y agosto de 2024 aún no registran la reducción del **impuesto al valor agregado** (IVA) y de **aranceles** que decretó el gobierno de **Daniel Noboa** a inicios de octubre de 2024.
+
+El presidente **Noboa** dispuso que los generadores eléctricos paguen 0% por IVA y 0% por la importación de estos equipos.
+
+**Prado** también señaló que la reducción de aranceles para los generadores eléctricos beneficia **parcialmente la importación** de estos equipos, ya que la mayoría de los generadores vendidos en Ecuador provienen de China y Europa, con los que ya se tiene acuerdos comerciales y el arancel es de 0%.
+
+Esta medida favorece principalmente a productos de origen estadounidense y de otros países sin TLC vigente, agregó.
+
+Compra de generadores
+---------------------
+
+Actualmente, los generadores eléctricos están agotados en el país. Por ejemplo, en un **importador de Quito** no hay generadores pequeños de 1KW a 6KW, está previsto que los equipos lleguen las próximas semanas. Los últimos generadores de esta potencia se comercializaron entre 400 dólares a 1 200 dólares. Los mismos que deberían bajar con la reducción de impuestos y aranceles.
+
+Los generadores de 1KW a 6KW pueden satisfacer las necesidades de un local pequeño o una vivienda, señaló **Giovanny Núñez**, especialista eléctrico.
+
+Asimismo, agregó que para una tienda que tenga nevera o refrigeradoras se necesita un generador de 10KW o más, el costo de estos equipos sobrepasa los 3 000 dólares.
+
+Mientras que un equipo para un edificio de unos 10 pisos o industrias grandes, se requiere equipos más potentes de más de 130KW. Estos equipos son muy costosos.
+
+Los generadores eléctricos trabajan con gasolina o diésel, el consumo depende de la capacidad del generador. Por ejemplo, el generador de 130KW consume 6,25 galones de diésel por cada hora de generación.
+
+Quito tiene intersecciones conflictivas durante los cortes de luz
+=================================================================
+
+Los cortes de luz provocan que algunos semáforos de Quito presenten novedades y complican el tránsito en las intersecciones.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz complican el tránsito de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Cortes-de-luz-transito-Quito.jpg)
+
+Los cortes de luz complican la movilidad en **Quito**. Tras 43 días de apagones, la Agencia Metropolitana de Tránsito (**AMT**) identificó las intersecciones viales más conflictivas de la ciudad[.](https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico#:~:text=Un%20apag%C3%B3n%20el%C3%A9ctrico%20o%20corte,Gr%C3%A1fica%20de%20una%20falla%20transitoria. "https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico#:~:text=Un%20apag%C3%B3n%20el%C3%A9ctrico%20o%20corte,Gr%C3%A1fica%20de%20una%20falla%20transitoria.")
+
+Más noticias
+------------
+
+* [Cortes de luz en Quito este miércoles 30 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-miercoles-30-octubre.html "Cortes de luz en Quito este miércoles 30 de octubre")
+* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
+* [Cortes de luz se reducen por mejoras en caudal este 28 de octubre](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-se-reducen-por-mejoras-en-caudal.html "Cortes de luz se reducen por mejoras en caudal este 28 de octubre")
+
+La **AMT** informó que, con los cortes de luz de 10 a 14 horas anunciados por el **Gobierno** **Nacional**, se priorizan los controles en las vías con mayor circulación.
+
+Intersecciones más conflictivas en Quito por cortes de luz
+----------------------------------------------------------
+
+Washington Martínez, director de la **AMT**, señaló que las calles más congestionadas durante los cortes de luz son aquellas de cuatro carriles de circulación, como la avenida **Amazonas**, **América**, **6 de** **Diciembre** y **Shyris**. En estas avenidas hay hasta tres agentes de tránsito para gestionar el flujo vehicular.
+
+En el sur de **Quito**, vías como la **Mariscal** **Sucre**, desde el colegio **Paulo VI hasta Chillogallo**, presentan dificultades, al igual que otras avenidas como la Eloy Alfaro, 10 de Agosto, Patria, Colón, Napo, Alonso de Angulo, Rodrigo de Chávez, Teniente Hugo Ortiz y Quitumbe Ñan.
+
+Por otro lado, los redondeles que presentan mayores desafíos son los del **Ciclista**, **Zámbiza** y **El** **Condado**.
+
+La **AMT** indicó que en estos sectores toda la carga vehicular diaria coincide con los cortes de 17:00 a 20:00, lo cual afecta el tránsito desde el **hipercentro** hacia los valles y hacia la ciudad.
+
+Afirma que la situación se complica porque no hay una disminución del uso del vehículo privado hacia el **transporte** **público**, lo cual sobrecarga todas las vías.
+
+Horarios más complicados de movilidad en Quito por cortes de luz
+----------------------------------------------------------------
+
+Martínez señaló que los cortes de luz más complicados para la movilidad son entre las 11:00 y las 15:00, y en la noche, de 17:00 a 20:00.
+
+En cuanto a la cantidad de agentes que gestionan el tráfico en **Quito**, informó que se destinan 500 efectivos en la mañana, 505 en la tarde y 235 en horas de la madrugada.
+
+Incendio forestal en la Reserva del Antisana fue controlado luego de 14 horas
+=============================================================================
+
+El incendio forestal en el Antisana se registró en la madrugada de este martes 29 de octubre.
+---------------------------------------------------------------------------------------------
+
+![Personeros del Cuerpo de Bomberos de Quito y del Fonag trabajan en el incendio forestal](https://www.elcomercio.com/wp-content/uploads/2024/10/incendio-forestal-antisana.jpg)
+
+Un incendio forestal se registró en el sector del **Antisana**, al sureste de Quito, desde la madrugada de este martes 29 de octubre.
+
+### Más noticias
+
+* [Tres lugares en donde probar una buena colada morada en Quito durante el feriado](https://www.elcomercio.com/actualidad/colada-morada-agustinas-mercado-inaquito-santa-clara.html "Tres lugares en donde probar una buena colada morada en Quito durante el feriado")
+* [Rutas de buses cambian por obras viales, en Quito](https://www.elcomercio.com/actualidad/quito/rutas-de-buses-cambian-por-obras-viales-quito.html "Rutas de buses cambian por obras viales, en Quito")
+* [El abandono es crueldad animal y se sanciona en Quito](https://www.elcomercio.com/narices-frias/abandono-crueldad-animal-quito-sancion-multa.html "El abandono es crueldad animal y se sanciona en Quito")
+
+Según detalló el Cuerpo de Bomberos de la ciudad, el fuego tuvo lugar en la hacienda Guaytara, en Pintag, en la **Reserva Ecológica** **Antisana**.
+
+**18 guardapáramos** del Fondo para la Protección del Agua (Fonag) y **47 bomberos** trabajaron en el control del fuego en el sitio; además de 14 unidades contraincendios y logísticas.
+
+También se utilizó drones para realizar el monitoreo termográfico en el lugar y ubicar las rutas de acceso más seguras.
+
+En imágenes difundidas por usuarios en redes sociales se observó como el **humo**, producto de la quema de la vegetación seca, cubrió el aire en los sectores cercanos al incendio.
+
+Incendio forestal fue controlado la noche de este martes
+--------------------------------------------------------
+
+La emergencia inicial registró llamas en dos flancos aproximadamente **tres kilómetros**; hasta las **17:45**, el fuego estaba controlado en un **80%**, restando una línea de vegetación de **dos kilómetros**.
+
+Finalmente, los ‘casacas rojas’ informaron que el incendio fue totalmente controlado y liquidado pasadas las 20:00 de este martes 29 de octubre.
+
+Por ello, el personal a cargo se desmovilizó de la zona, mientras los monitoreos continuiarán durante la noche para evitar reinicios de puntos de calor.
+
+“Al momento se presenta una pequeña llovizna la cual favorece a bajar la temperatura en el sector”, enfatizó la entidad.
+
+> 🔄 [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Incendio forestal en el sector del Antisana.  
+>   
+> 🧑‍🚒 Con 47 efectivos y 14 vehículos continuamos nuestras operaciones de control y extinción del fuego.  
+>   
+> 🛰️ Sobrevolamos el sitio con nuestras aeronaves no tripuladas (drones), para determinar zonas de acceso, y… [https://t.co/nMxTXaiyyd](https://t.co/nMxTXaiyyd) [pic.twitter.com/dFcKtnBoRM](https://t.co/dFcKtnBoRM)
+> 
+> — Bomberos Quito (@BomberosQuito) [October 30, 2024](https://twitter.com/BomberosQuito/status/1851415550976782790?ref_src=twsrc%5Etfw)
+
+Reserva del Antisana
+--------------------
+
+En la Reserva del Antisana se encuentra el **volcán** del mismo nombre. El volcán Antisana mide **5 758 metros**, siendo el cuarto más grande de Ecuador por detrás del Chimborazo, Cotopaxi y Cayambe.
+
+Se ubica en la Cordillera Oriental de los Andes, a unos **50 kilómetros** al sureste de Quito. Si bien es un volcán potencialmente activo, no ha registrado erupciones significativas en tiempos históricos.
+
+Se presume que han ocurrido al menos 4 erupciones en el Antisana: **1590-1600, 1760, 1773 y 1802**; pero la única comprobada es la primera.
+
+Debido a la situación remota del volcán no existen relatos detallados de las otras erupciones. Las de 1760 y 1773, por ejemplo, al parecer fueron solo flujos de lava que se asocian la Caldera de Chacana y no al Antisana propiamente dicho.
+
+La supuesta erupción de 1802 corresponde a un relato de **Alexander von Humboldt** que refería la presencia de humo cerca del volcán; sin embargo, no existe otra confirmación de este fenómeno.
+
+Actualmente, no se observa ningún tipo de actividad eruptiva en el Antisana, aunque algunos montañistas han reportado **olor a azufre** en las partes altas.
+
+Al menos cuatro empresas privadas de Colombia, interesadas en venderle energía a Ecuador
+========================================================================================
+
+Ecuador busca opciones de compra en el sector privado de Colombia y fortalece relaciones con tres empresas de ese país.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Inés Manzano anunció que Ecuador analiza comprar energía al sector privado de Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador-compra-energia-sector-privado-colombia-1.jpg)
+
+Tras la negativa del Gobierno de **Colombia** para reactivar la venta de **energía**, **Ecuador** baraja opciones para **comprar** al **sector privado** de ese país.
+
+### Más noticias:
+
+* [Colombia no reanudará la venta de energía a Ecuador, dice Inés Manzano](https://www.elcomercio.com/actualidad/negocios/colombia-venta-energia-ecuador-ines-manzano-cortes-luz.html "Colombia no reanudará la venta de energía a Ecuador, dice Inés Manzano")
+* [Inés Manzano habla sobre los cortes de luz; dijo que dialogará con ministro colombiano](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-promesa-reducir-cortes-de-luz-hasta-cuando.html "Inés Manzano habla sobre los cortes de luz; dijo que dialogará con ministro colombiano")
+
+La ministra de Energía encargada, **Inés Manzano**, confirmó que su par colombiano se negó a la posibilidad de vender, “**pese a que sus embalses están llenos**“, este martes 29 de octubre de 2024.
+
+“Lamentablemente, el ministro de Minas, Andrés Camacho dijo que, aunque hay toda la disponibilidad y voluntad política por parte del presidente de **Colombia**, no pueden vender lo que necesitamos de energía, así que estamos viendo la parte privada”, puntualizó la Ministra.
+
+Ecuador baraja opciones para comprar energía al sector privado de Colombia
+--------------------------------------------------------------------------
+
+Inés Manzano mencionó que esperan que se agilicen los procesos para que la **transacción** pueda hacerse con el sector privado.
+
+“Le dije que desde el 18 de octubre él tiene el borrador de regulación de Ecuador para habilitar la compra al privado de Colombia”, agregó la funcionaria, quien destacó que **Andrés Camacho** le dijo que iban a elaborar la normativa.
+
+Por eso Ecuador ahora está analizando la “**compra directa** a la empresa privada colombiana”.
+
+“Estamos viendo que nos hagan las **ofertas**, que ya hemos tenido algunas. Es interesante porque el mercado energético de Colombia es completamente diferente al ecuatoriano, aquí (Colombia) es casi el **100 % privado**“, señaló.
+
+La ministra resaltó que ambos países han sido por años **socios estratégicos** en temas de energía.
+
+Por esta razón, existen ya las conexiones adecuadas para que el **plan privado** funcione.
+
+“No hay prohibición por parte de Colombia y lo que esperamos es conseguir estos **contratos**“, indicó.
+
+“Creemos que con la declaración del presidente de Colombia diciendo al mundo entero que hay que ayudar a los países que tienen **déficit hídrico**, entre esos está Ecuador, eso lo tomamos como una buena voluntad y no hay un tema ideológico de por medio”, agregó Manzano.
+
+La Ministra hizo pública la negativa del **Gobierno colombiano** a retomar de momento el suministro de electricidad a Ecuador en declaraciones a **Caracol**.
+
+El presidente **Daniel Noboa,** Manzano y la canciller Gabriela Sommerfeld participaron en la **Conferencia de las Naciones Unidas sobre Biodiversidad (COP16)**, realizada en Cali.
+
+Empresas privadas dispuestas a vender energía a Ecuador
+-------------------------------------------------------
+
+De acuerdo con la Ministra, Ecuador espera llegar a acuerdos con algunas empresas privadas de energía.
+
+Entre las compañías que hicieron sus ofertas al país están: **Imasd, Ciudadanos de China, la Empresa Eléctrica de Medellín, Termovalle y Termocali**.
+
+Estas dos primeras habrían ofrecido entregar 100 MW y 200 MW respectivamente. Mientras que Termovalle y Termocali no tendrían problema, ya que no forman parte del mix energético de Colombia.
+
+En total, Ecuador planea reponer al menos 300 MW, déficit que no se ha podido completar con las ventas menores de Colombia en los últimos meses.
+
+“Colombia nos vendía unos 450 MW, pero desde septiembre esto ha bajado, en algunas ocasiones nos han entregado 180 o 200 MW; la última vez, el 9 de octubre nos vendieron 25 MW”, explicó Manzano.
+
+Acciones de Ecuador para la compra de energía a privados en Colombia
+--------------------------------------------------------------------
+
+En un video en Instagram, la tarde de este martes, la ministra Inés Manzano manifestó que la visita a Colombia ha generado que se **avance** a la compra de energía a privados.
+
+En los últimos tres días, se ha actualizado la **normativa ecuatoriana** para comprar a privados.
+
+Además, se ha trabajado con su par colombiano para que este país **actualice su normativa** y la empresa privada pueda vender energía a Ecuador.
+
+Manzano aseguró que se ha fortalecido las relaciones comerciales con **tres empresas privadas colombianas** para que vendan energía a Ecuador.
+
+Finalmente, ayer, se aprobaron las **tarifas de energía no convencional**, que le permiten la venta al Estado ecuatoriano y con eso se permite diversificar el sistema energético.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBuRYaGJmRb/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Inés María Manzano Díaz (@inesmariamanzano)](https://www.instagram.com/reel/DBuRYaGJmRb/?utm_source=ig_embed&utm_campaign=loading)
+
+SRI abre convocatoria de trabajo para cubrir 54 vacantes
+========================================================
+
+Las vacantes de trabajo del Servicio de Rentas Internas incluyen remuneraciones que van desde los 622 hasta los 1 760 dólares.
+------------------------------------------------------------------------------------------------------------------------------
+
+![Los seleccionados cubrirán vacantes en Quito, Guayaquil y San Miguel de Bolívar](https://www.elcomercio.com/wp-content/uploads/2024/10/trabajo-vacantes-sri.jpg)
+
+El Servicio de Rentas Internas (**SRI**) abrió la convocatoria de trabajo para cubrir **54 vacantes** a través de un concurso de méritos y oposición, este martes 29 de octubre de 2024.
+
+### Más noticias
+
+* [Descubre la magia del turismo rural en Pichincha y Cotopaxi durante el próximo feriado](https://www.elcomercio.com/tendencias/turismo/haciendas-pichincha-cotopaxi-feriado-vacaciones.html "Descubre la magia del turismo rural en Pichincha y Cotopaxi durante el próximo feriado")
+* [Ministerio de Trabajo emitió acuerdo para modificación de jornada laboral por cortes de luz](https://www.elcomercio.com/actualidad/negocios/modificacion-jornada-laboral-cortes-luz.html "Ministerio de Trabajo emitió acuerdo para modificación de jornada laboral por cortes de luz")
+* [Gobierno toma una decisión sobre la jornada laboral y las clases del jueves 31 de octubre](https://www.elcomercio.com/actualidad/ecuador/gobierno-daniel-noboa-decision-jornada-laboral-jueves-31-octubre.html "Gobierno toma una decisión sobre la jornada laboral y las clases del jueves 31 de octubre")
+
+El proceso de convocatoria incluye **puestos laborales** con remuneraciones que van desde los 622 hasta los **1 760 dólares**.
+
+Las vacantes del SRI están destinadas a trabajos para especialistas, analistas, asistentes, técnicos y agentes **tributarios** en distintas áreas.
+
+La convocatoria comprende: 37 plazas para **Guayaquil** (Zona 8), 10 para **Quito** (Zona 9) y 7 para **San Miguel de Bolívar**.
+
+Sin embargo, a este concurso se puede aplicar desde cualquier ciudad del Ecuador, hasta el **martes 5 de noviembre de 2024**.
+
+54 Empleos disponibles para el SRI
+----------------------------------
+
+### Vacantes en Quito
+
+Los sueldos mensuales para las **10 vacantes** en Quito oscilan entre los **817 a los 1 760 dólares**. Los puestos son:
+
+* Especialista de asistencia al ciudadano
+* Analista 2 tributario (2 vacantes)
+* Analista nacional de inteligencia tributaria (2 vacantes)
+* Especialista de recaudación (2 vacantes)
+* Especialista nacional de asistencia al ciudadano
+* Especialista nacional de control tributario
+* Especialista nacional de inteligencia tributaria
+
+### Vacantes en Guayaquil
+
+Los sueldos mensuales para las **37 vacantes** en Guayaquil oscilan entre los **817 a los 1 760 dólares**. Los puestos son:
+
+* Agente tributario (3 vacantes)
+* Analista 1 tributario (9 vacantes)
+* Analista 2 de reclamos (4 vacantes)
+* Asistente técnico (6 vacantes)
+* Especialista de asistencia, gestión y cobro de grandes contribuyentes (4 vacantes)
+* Especialista de fiscalización de grandes contribuyentes (4 vacantes)
+* Especialista de gestión tributaria (3 vacantes)
+* Perito de grandes contribuyentes (4 vacantes)
+
+### Vacantes en San Miguel de Bolívar
+
+Los sueldos mensuales para las **7 vacantes** en San Miguel de Bolívar oscilan entre los **622 a los 901 dólares**. Los puestos son:
+
+* Asistente de avalúos y catastros
+* Asistente de la unidad de cultura
+* Asistente de tesorería
+* Secretario recaudador
+* Técnico de obras públicas
+* Técnico de rentas
+* Técnico de seguridad y salud ocupacional
+
+Pasos para participar en la convocatoria
+----------------------------------------
+
+Para participar en la convocatoria primero deberás **crearte una cuenta** en el portal de [Encuentra Empleo](https://encuentraempleo.trabajo.gob.ec/socioEmpleo-war/paginas/registro/aspirante/registroAspirante.jsf "https://encuentraempleo.trabajo.gob.ec/socioEmpleo-war/paginas/registro/aspirante/registroAspirante.jsf") del **Ministerio de Trabajo**.
+
+Dentro de sitio web tendrás que completar tu **hoja de vida** con: información personal, experiencia laboral, estudios académicos, cursos y referencias. Recuerda que estos datos no podrás modificarlos cuando ya tengas una postulación abierta.
+
+Una vez tengas tu acceso, dirígete al **menú principal** de la [pagina web](https://encuentraempleo.trabajo.gob.ec/) del concurso de méritos y oposición.
+
+Busca y selecciona la opción ‘**Ofertas del sector público**‘; ahí encontrarás las vacantes abiertas por el SRI.
+
+> 🚀 ¡El SRI habilita más de 50 vacantes en todo el país!  
+>   
+> ✅ Aplica a los concursos de mérito y oposición desde la plataforma [https://t.co/R0HgtjQVbe](https://t.co/R0HgtjQVbe).[#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Wz1zHZ4rVQ](https://t.co/Wz1zHZ4rVQ)
+> 
+> — SRI Ecuador (@SRIoficialEc) [October 29, 2024](https://twitter.com/SRIoficialEc/status/1851336069050212458?ref_src=twsrc%5Etfw)
+
+Criterios de selección de los postulantes
+-----------------------------------------
+
+Los postulantes que cumplan con el perfil pera las vacantes serán notificados para que rindan las **pruebas psicométricas**. Esta parte del proceso tiene una cuantificación del **40 %**.
+
+Los candidatos que alcancen 80 puntos o más pasarán al siguiente nivel, las **pruebas técnicas**, que equivalen al **50 %** de la nota del concurso.
+
+Finalmente, las tres personas con los mejores puntajes accederán a una **entrevista**, donde serán calificados con el **10 %**.
+
+Si cumples con alguno de los siguientes criterios podrás acumular un **puntaje adicional**:
+
+* Persona retornada al Ecuador (2 puntos)
+* Autodenominación a alguna etnia o nacionalidad (2 puntos)
+* Héroes y heroínas (10 puntos)
+* Excombatiente (5 puntos)
+* Residente en alguna vacante fronteriza (2 puntos)
+
+Si no apareces en el listado de los seleccionados puedes **apelar** máximo un día después de la publicación de los resultados, en cualquier parte del proceso.
+
+CNE hizo cambios para el debate presidencial 2025
+=================================================
+
+El debate presidencial 2025 se realizará con cambios aprobados por el Pleno del CNE.
+------------------------------------------------------------------------------------
+
+![El CNE sesionó para hacer cambios al debate presidencial de 2025.](https://www.elcomercio.com/wp-content/uploads/2024/10/cne-cambios-debate-presidencial.jpg)
+
+El **Consejo Nacional Electoral (CNE)** hizo cambios para el **debate presidencial** 2025, este martes 29 de octubre de 2024.
+
+El Pleno del CNE reformó el **Reglamento y Manual** del debate presidencial obligatorio 2025.
+
+### Más noticias:
+
+* [CNE negó inscripción de la lista para asambleístas nacionales a cuatro organizaciones políticas](https://www.elcomercio.com/actualidad/politica/cne-nego-inscripcion-lista-asambleistas-nacionales.html "CNE negó inscripción de la lista para asambleístas nacionales a cuatro organizaciones políticas")
+* [288 policías y 64 vehículos se destinan para seguridad de binomios presidenciales](https://www.elcomercio.com/actualidad/politica/288-policias-64-vehiculos-seguridad-binomios-presidenciales.html "288 policías y 64 vehículos se destinan para  seguridad de binomios presidenciales")
+
+Los cambios del CNE para el debate presidencial 2025
+----------------------------------------------------
+
+Actualmente, 15 de los 16 **binomios** que se inscribieron en el Consejo Nacional Electoral (CNE) tienen la denominación en firme.
+
+La **lista definitiva** para las elecciones generales se conocerá el 30 de diciembre de este 2024.
+
+En tanto, el Consejo Nacional Electoral (CNE) continúa con el proceso electoral previo al día de los **comicios** del 9 de febrero de 2025.
+
+El Pleno del CNE aprobó las reformas al **Reglamento y Manual** del debate presidencial obligatorio 2025.
+
+Entre las modificaciones de la normativa, se propiciará una dinámica de **interacción** de un candidato con dos e, incluso, con más candidatos, en cada eje temático.
+
+El debate presidencial de la **primera vuelta electoral** está previsto para **19 de enero**.
+
+Según los cambio del organismo electoral, este primer debate será un solo programa con una duración aproximada de tres horas, dividido en **dos franjas horarias**.
+
+El debate de primera vuelta iniciará a las 19:00 y se dividirá en **dos franjas horarias**, de haber más de ocho candidatos.
+
+Cada franja tendrá una duración aproximada de hasta **noventa minutos**.
+
+### Segunda vuelta
+
+De existir **segunda vuelta electoral**, el debate se realizará el **23 de marzo**. Durará, aproximadamente, dos horas.
+
+“Esta estructura busca garantizar que los candidatos a la Presidencia de la República presenten sus planes de gobierno en **igualdad de condiciones**“, informó el organismo.
+
+Para el desarrollo del debate se deberá contar con una planta eléctrica ante posibles fallas del fluido de energía o con un **generador eléctrico**, con una autonomía mínima de 10 horas.
+
+Los candidatos contarán con 25 segundos para realizar su **presentación** y no podrán hacer referencia o alusión a otros participantes.
+
+La apertura y presentación de los candidatos tendrá una **duración** de 4 minutos y 50 segundos.
+
+Estas reformas fueron elaboradas con la asistencia de **Argentina** y la cooperación del **Instituto Nacional Demócrata (NDI).**
+
+El próximo 9 de febrero de 2025, los ecuatorianos eligen: **Presidente y Vicepresidente** de la República, **asambleístas** nacionales, provinciales y del exterior, y **parlamentarios andinos**.
+
+Todas estas dignidades para el período **2025-2029**.
+
+José Pileggi renuncia a su cargo como presidente de Emelec
+==========================================================
+
+José Pileggi, presidente de Emelec, abandona la institución en medio de una tensa crisis económica y deportiva.
+---------------------------------------------------------------------------------------------------------------
+
+![José Pileggi durante su periodo como presidente de Emelec.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-29T204925.196.jpg)
+
+La crisis deportiva y administrativa en **Emelec** se agudiza y sumó un nuevo capítulo para el club. La tarde de este martes 29 de octubre del 2024, su presidente **José Pileggi** presentó su renuncia como presidente del club.
+
+El titular de la escuadra guayaquileña se reunió con miembros de la directiva de la escuadra guayaquileña en la fecha mencionada. Tras aquel encuentro, el máximo dirigente del ‘**Bombillo**‘ tomó y manifestó su decisión de no seguir al mando de la institución.
+
+### Más noticias:
+
+* [Gilmar Napa, jugador de Emelec, involucrado en siniestro de tránsito](https://www.elcomercio.com/deportes/futbol/gilmar-napa-emelec-siniestro-transito.html "Gilmar Napa, jugador de Emelec, involucrado en siniestro de tránsito")
+* [Emelec sufre otra derrota y se hunde en la tabla de la Liga Pro](https://www.elcomercio.com/deportes/futbol/emelec-derrota-catolica-gol-moreno.html "Emelec sufre otra derrota y se hunde en la tabla de la Liga Pro")
+* [José Pileggi se plantea renunciar a la presidencia de Emelec](https://www.elcomercio.com/deportes/jose-pileggi-se-plantea-renunciar-a-la-presidencia-de-emelec.html "José Pileggi se plantea renunciar a la presidencia de Emelec")
+
+**María José Gavilanes**, periodista de El Canal del Fútbol, fue quien brindó detalles en torno al hecho. De acuerdo a ella, la directiva se ha dividido entre otorgar el cargo al vicepresidente César Avilés y convocar a una elección.
+
+Hasta que se dirima el futuro del plantel millonario, Avilés deberá asumir como presidente de manera transitoria. A raíz del hecho, ni los azules ni **José Pileggi** han emitido un pronunciamiento oficial ni se han referido a lo sucedido.
+
+Emelec, contra las cuerdas en la Liga Pro
+-----------------------------------------
+
+Durante la temporada 2024, **Emelec** ha contado con más de un inconveniente y limitación. Aquello se ha hecho presente tanto a nivel administrativo como futbolístico y ambos ámbitos y su presente han tenido influencia entre sí.
+
+Dentro de la **Liga Pro**, el cuadro azul se encuentra en la penúltima posición de la tabla de la segunda etapa con siete unidades. A pesar de que ha ganado en tres oportunidades, empatado en una y perdido en siete durante la ronda, el equipo cuenta con tres puntos menos de los correspondientes debido a una sanción causada por deudas.
+
+En la tabla acumulada, Emelec ocupa el noveno puesto con **32 puntos** y se aferra a la esperanza de clasificar a la Copa Sudamericana. Al torneo internacional ingresan los equipos ubicados desde el quinto al octavo puesto.
+
+Emelec, con deudas y sin poder fichar
+-------------------------------------
+
+En días previos a la renuncia de Pileggi, el jugador **Alexander González** se refirió a que en Emelec le habían manifestado a la plantilla que “no hay dinero”. “**No es un tema de salarios solamente, es un tema de impago de primeras, pasajes aéreos**“, manifestó el futbolista.
+
+A lo manifestado por el miembro de la escuadra eléctrica, **Emelec** le suma una prohibición de la FIFA para fichar jugadores de cara a la siguiente temporada. Aquello se dio debido a la infracción de una sanción previa desde el ente rector del fútbol.
+
+Cortes de luz se suspenden en ciertos sectores de Cuenca durante el feriado
+===========================================================================
 
 El Gobernador de Azuay, Luis Malo, detalló los cambios que tendrá la programación de cortes de luz en Cuenca para el feriado.
 -----------------------------------------------------------------------------------------------------------------------------
@@ -398,572 +1076,3 @@ Estadio: Reales Tamarindos – Portoviejo
 
 No te pierdas – El Confesionario
 --------------------------------
-
-Bomberos y guardapáramos combaten incendio forestal en el Antisana
-==================================================================
-
-El incendio forestal en el Antisana se registró en la tarde de este lunes 28 de octubre.
-----------------------------------------------------------------------------------------
-
-![Personeros del Cuerpo de Bomberos de Quito y del Fonag trabajan en el incendio forestal](https://www.elcomercio.com/wp-content/uploads/2024/10/incendio-forestal-antisana.jpg)
-
-Un incendio forestal se registra en el sector del **Antisana**, al sureste de Quito, desde la tarde de este lunes 28 de octubre de 2024.
-
-### Más noticias
-
-* [Tres lugares en donde probar una buena colada morada en Quito durante el feriado](https://www.elcomercio.com/actualidad/colada-morada-agustinas-mercado-inaquito-santa-clara.html "Tres lugares en donde probar una buena colada morada en Quito durante el feriado")
-* [Rutas de buses cambian por obras viales, en Quito](https://www.elcomercio.com/actualidad/quito/rutas-de-buses-cambian-por-obras-viales-quito.html "Rutas de buses cambian por obras viales, en Quito")
-* [El abandono es crueldad animal y se sanciona en Quito](https://www.elcomercio.com/narices-frias/abandono-crueldad-animal-quito-sancion-multa.html "El abandono es crueldad animal y se sanciona en Quito")
-
-Según detalló el Cuerpo de Bomberos de la ciudad, el fuego tiene lugar en la hacienda Guaytara, en Pintag, en la **Reserva Ecológica** **Antisana**.
-
-**18 guardapáramos** del Fondo para la Protección del Agua (Fonag) y **47 bomberos** trabajan en el control del fuego en el sitio; además de 14 unidades contraincendios y logísticas.
-
-También se utiliza drones para realizar el monitoreo termográfico en el lugar y ubicar las rutas de acceso más seguras.
-
-80 % del incendio forestal ha sido controlado
----------------------------------------------
-
-Los Bomberos indicaron que cuando llegaron a cubrir la emergencia se registraron dos flancos de fuego de aproximadamente tres kilómetros; hasta las **17:45** informaron, que el fuego fue **controlado en un 80%**.
-
-Las llamas todavía mantienen una línea de fuego de alrededor de **dos kilómetros**.
-
-“A primeras horas de la mañana del miércoles, de acuerdo con la necesidad, se sumará persona de la **Brigada de Refuerzo de Incendios Forestales** (BRIF)”, afirmó el Cuerpo de Bomberos de Quito.
-
-En imágenes difundidas por usuarios en redes sociales se observa como el **humo**, producto de la quema de la vegetación seca, cubre el aire en los sectores cercanos al incendio.
-
-> Desde la madrugada combatimos un incendio en la hacienda Guaytara, sector Antisana, con 18 guardapáramos y 25 miembros de [@BomberosQuito](https://twitter.com/BomberosQuito?ref_src=twsrc%5Etfw) . [pic.twitter.com/SK9aKt5hbe](https://t.co/SK9aKt5hbe)
-> 
-> — FONAG (@fonag) [October 29, 2024](https://twitter.com/fonag/status/1851245901332804043?ref_src=twsrc%5Etfw)
-
-Reserva del Antisana
---------------------
-
-En la Reserva del Antisana se encuentra el **volcán** del mismo nombre. El volcán Antisana mide **5 758 metros**, siendo el cuarto más grande de Ecuador por detrás del Chimborazo, Cotopaxi y Cayambe.
-
-Se ubica en la Cordillera Oriental de los Andes, a unos **50 kilómetros** al sureste de Quito. Si bien es un volcán potencialmente activo, no ha registrado erupciones significativas en tiempos históricos.
-
-Se presume que han ocurrido al menos 4 erupciones en el Antisana: **1590-1600, 1760, 1773 y 1802**; pero la única comprobada es la primera.
-
-Debido a la situación remota del volcán no existen relatos detallados de las otras erupciones. Las de 1760 y 1773, por ejemplo, al parecer fueron solo flujos de lava que se asocian la Caldera de Chacana y no al Antisana propiamente dicho.
-
-La supuesta erupción de 1802 corresponde a un relato de **Alexander von Humboldt** que refería la presencia de humo cerca del volcán; sin embargo, no existe otra confirmación de este fenómeno.
-
-Actualmente, no se observa ningún tipo de actividad eruptiva en el Antisana, aunque algunos montañistas han reportado **olor a azufre** en las partes altas.
-
-Piero Hincapié avanza en la Copa de Alemania con el Leverkusen
-==============================================================
-
-El Bayer Leverkusen triunfó sin Piero Hincapié en la segunda ronda de la Copa de Alemania por goleada ante el SV Elversberg.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Aleix García celebra un gol con el Bayer Leverkusen de Piero Hincapié en la Copa de Alemania.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-29T152157.521.jpg)
-
-El **Bayer Leverkusen** mantiene su buen presente y volvió a dar una muestra de ello en la segunda ronda de la Copa de Alemania. Con un equipo alterno, por lo que Piero Hincapié estuvo en el banco de suplentes, este se impuso por 3-0 ante el SV Elversberg.
-
-El **DT Xabi Alonso** decidió dar descanso a Hincapié en el partido y consiguió la clasificación hacia los octavos de final. A los nueve minutos, la escuadra ya anunció lo que se sería el cotejo ante sus rivales de la Segunda División.
-
-### Más noticias:
-
-* [Piero Hincapié se destaca en Bayer Leverkusen ante Werder Bremen](https://www.elcomercio.com/deportes/futbol/piero-hincapie-bayer-leverkusen-werder-bremen-resultado.html "Piero Hincapié se destaca en Bayer Leverkusen ante Werder Bremen")
-* [Bayer Leverkusen de Piero Hincapié empata en Champions con el Brest](https://www.elcomercio.com/deportes/bayer-leverkusen-piero-hincapie-champions-brest.html "Bayer Leverkusen de Piero Hincapié empata en Champions con el Brest")
-* [Piero Hincapié y el Leverkusen remontan al Frankfurt en Alemania](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-eintracht-frankfurt-remontada.html "Piero Hincapié y el Leverkusen remontan al Frankfurt en Alemania")
-
-Fiel reflejo de la trepidante puesta en escena del conjunto renano, que, pese a introducir ocho cambios con relación al equipo que empató el pasado sábado 2-2 en el campo del **Werder Bremen**, salió dispuesto a resolver cuanto antes la eliminatoria.
-
-Especialmente activo se mostró el delantero checo **Patrik Schik**, que en el minuto 2, prácticamente en el primer balón que toco, anotó el 1-0 tras un centro del nigeriano Nathan Tella.
-
-Patrik Schick comandó al Bayer Leverkusen de Piero Hincapié
------------------------------------------------------------
-
-Un gol que no aplacó la voracidad de **Schik**, que cuatro minutos más tarde estuvo a punto de doblar la ventaja local con un cabezazo que obligó a lucirse al guardameta del Elversbeg.
-
-Pero nada pudo impedir que el atacante checo firmase a los 9 minutos el 2-0 para el **Bayer Leverkusen** tras aprovechar un balón suelto en el área tras un rechace del portero visitante, que despejó como pudo un centro desde la línea de fondo de **Jonas Hofmann**.
-
-Dos goles que noquearon a un **Elversberg** que nada más empezar se quedó sin ninguna opción de repetir la sorpresa que protagonizó hace dos temporadas cuando eliminó de la competición al **Leverkusen** en la segunda ronda.
-
-Aleix García sentenció el partido en Alemania
----------------------------------------------
-
-Fue la última derrota del equipo ‘farmaceutico’ en el torneo copero, en el que los de Xabi Alonso quieren volver a brillar este curso, como dejó claro el español **Aleix García**, que estableció a los 36 minutos el 3-0 con un sensacional lanzamiento de falta.
-
-El **Bayer Leverkusen** pareció dar por concluida la contienda con ese resultado, como quedó claro en la segunda parte, en la que los locales parecieron pensar más en sus próximos compromisos con el Stuttgart, en la Bundesliga, y el Liverpool, en la Liga de Campeones, que en ampliar su ventaja. 
-
-Cortes de luz en Quito este miércoles 30 de octubre
-===================================================
-
-Los cortes de luz en Quito este miércoles 30 de octubre se mantienen con hasta 14 horas de duración, en dos franjas.
---------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Quito para este miércoles 30 de octubre son en dos franjas horarias.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-quito-miercoles-30-octubre.jpg)
-
-**Quito** atraviesa su quinto día con **cortes de luz** de hasta 14 horas, este **miércoles 30 de octubre** de 2024.
-
-La **Empresa Eléctrica de Quito** informó sobre la programación de la suspensión del servicio de energía eléctrica para mañana.
-
-### Más noticias:
-
-* [Telefónicas anuncian medidas a sus usuarios por cortes de luz](https://www.elcomercio.com/actualidad/negocios/telefonicas-medidas-cortes-luz.html "Telefónicas anuncian medidas a sus usuarios por cortes de luz")
-* [Ecuador baraja opciones para comprar energía al sector privado de Colombia](https://www.elcomercio.com/actualidad/negocios/ecuador-compra-energia-sector-privado-colombia.html "Ecuador baraja opciones para comprar energía al sector privado de Colombia")
-
-Cortes de luz en Quito este miércoles 30 de octubre
----------------------------------------------------
-
-Este lunes 28 de octubre, el **Cenace** informó sobre una reducción en los horarios de los cortes de luz a escala nacional.
-
-La medida respondió a la mejoría en la situación de **Coca Codo Sinclair**, abastecida por varios ríos de la Amazonía, región donde se presentaron fuertes lluvias.
-
-Este martes, esa **reducción** también se registró en algunos sectores de la capital.
-
-En lugares donde el servicio se suspendía a las 07:00, el corte **tardó** hasta las 10:00.
-
-Los cortes de luz de hasta 14 horas se dan, mientras el presidente Daniel Noboa y la ministra de Energía encargada**, Inés Manzano,** buscan soluciones en Colombia.
-
-A propósito de una cumbre ambiental, Noboa y Manzano buscó acercamientos con autoridades de los sectores público y privado **colombianos** para la compra de energía.
-
-Meses atrás, el Gobierno de **Gustavo Petro** decidió suspender la **venta** de energía a Ecuador por la grave sequía que también registraba el país vecino.
-
-Petro se solidarizó con la grave crisis energética que atraviesa Ecuador en sus redes sociales.
-
-Y, en una entrevista televisiva, el presidente Noboa le tomó la palabra e insistió en que Colombia **reactive** la venta de energía a Ecuador.
-
-Tras el encuentro, Manzano informó que el Gobierno de Colombia no reactivará la venta de energía a Ecuador y que se buscan opciones en el **sector privado**.
-
-Mientras la **compra** de energía y los proyectos alternativos a la energía hidroeléctrica se concretan, Quito y el resto del país continuarán con cortes de luz **prolongados**.
-
-Esta situación ha afectado los horarios de varias actividades cotidianas de los ecuatorianos, entre estas, la jornada nocturna de **clases** que será virtual.
-
-Así, los cortes de luz en la capital, para mañana, se mantienen en horarios de **hasta 14 horas** en dos franjas.
-
-A continuación, los cortes de luz en **Quito** este miércoles 30 de octubre:
-
-Horarios del transporte público y revisión vehicular en Quito por el feriado
-============================================================================
-
-Durante el feriado por el Día de Difuntos, Independencia de Cuenca y emergencia eléctrica, el sistema de transporte público y la Revisión Vehícular modificaron sus horarios.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El transporte público de Quito modificó sus horarios por el feriado.](https://www.elcomercio.com/wp-content/uploads/2024/10/Transporte-Quito-feriado.jpg)
-
-Ecuador tendrá un largo feriado. El Gobierno de **Daniel Noboa** decretó el 31 de octubre como día de descanso obligatorio. A esto se suman los descansos del 1 noviembre por Día de Difuntos y del 4 por la Independencia de Cuenca[.](https://es.wikipedia.org/wiki/D%C3%ADa_festivo#:~:text=El%20d%C3%ADa%20festivo%20o%20d%C3%ADa,influidos%20por%20la%20cultura%20isl%C3%A1mica)%2C "https://es.wikipedia.org/wiki/D%C3%ADa_festivo#:~:text=El%20d%C3%ADa%20festivo%20o%20d%C3%ADa,influidos%20por%20la%20cultura%20isl%C3%A1mica)%2C")
-
-Más noticias
-------------
-
-* [Feriado de difuntos, una celebración de orígenes ancestrales](https://www.elcomercio.com/actualidad/ecuador/feriado-difuntos-celebracion-origenes-ancestrales.html "Feriado de difuntos, una celebración de orígenes ancestrales")
-* [Así funcionará el Metro de Quito durante el feriado](https://www.elcomercio.com/actualidad/quito/asi-funcionara-metro-de-quito-durante-feriado.html "Así funcionará el Metro de Quito durante el feriado")
-* [Tres lugares en donde probar una buena colada morada en Quito durante el feriado](https://www.elcomercio.com/actualidad/colada-morada-agustinas-mercado-inaquito-santa-clara.html "Tres lugares en donde probar una buena colada morada en Quito durante el feriado")
-
-Ante esto, el **Municipio de Quito** informó sobre el funcionamiento de la **Revisión** Técnica **Vehicular**, el **Trolebús**, la **Ecovía** y el **Metro** durante los días de feriado.
-
-Revisión Técnica Vehicular y matriculación
-------------------------------------------
-
-La Agencia Metropolitana de Tránsito (**AMT**) comunicó que los Centros de Matriculación y Revisión Técnica Vehicular (**RTV**) no operarán el 31 de octubre debido al feriado energético decretado por el Gobierno de **Daniel Noboa**, así como durante el feriado del **Día de los Difuntos** y la **Independencia** de **Cuenca**.
-
-Los propietarios de vehículos con placas terminadas en 9, que tenían cita para el 31 de octubre, no recibirán multa por incumplir el calendario de revisión.
-
-El sábado 2 de noviembre, los seis centros de revisión atenderán de manera habitual, de 08:00 a 12:00, e incluirán la liberación de vehículos en los **Centros de Retención Vehicular.**
-
-Horarios del Trolebús y Ecovía
-------------------------------
-
-La Empresa Pública Metropolitana de **Transporte** de Pasajeros de **Quito** anunció modificaciones en los horarios de operación del **Trolebús** y la **Ecovía** durante el feriado:
-
-* **Jueves** 31 de octubre: troncales operarán de 06:00 a 21:00, alimentadores de 06:00 a 21:30.
-* 1, 2 y 3 de noviembre: troncales operarán de 06:00 a 20:00, alimentadores de 06:00 a 20:30.
-* **Lunes** 4 de noviembre: troncales operarán de 06:00 a 21:00, alimentadores de 06:00 a 21:30.
-
-El **Trolebús** no operará en el circuito Morán Valverde – El Labrador (C2), mientras que la **Ecovía** no prestará servicio en los circuitos Guamaní – Universidades (E1), Quitumbe – Río Coca (E2) y Guamaní – El Ejido (E8).
-
-Funcionamiento del Metro de Quito
----------------------------------
-
-El **Metro de Quito** también modificó sus horarios para el **feriado**. El 31 de octubre atenderá de 05:30 a 23:00; el 1 de noviembre, de 07:00 a 22:00; el 2 de noviembre, de 07:00 a 23:00; el 3 de noviembre, de 07:00 a 22:00; y el 4 de noviembre, de 07:00 a 22:00.
-
-Con estas medidas, el **Municipio de Quito** busca garantizar la movilidad y atención ciudadana durante los días de descanso obligatorios.
-
-Leones FC ganó y condenó a Vargas Torres al descenso
-====================================================
-
-Leones FC permanecerá un año más en la Serie B. Se salvó en las fechas finales.
--------------------------------------------------------------------------------
-
-![Jugadores de Leones FC en la Serie B en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/leones_fc_1.jpg)
-
-La Liga Pro Serie B de Ecuador llegó a su fin. En la fecha de cierre sirvió para certificar la salvación de **Leones FC (Imbabura)** y el descenso de Vargas Torres (Esmeraldas) a la Segunda Categoría provincial.
-
-La tarde de este martes 29 de octubre de 2024, desde las 15:00, **se jugó la fecha 36 de la Serie B con lo que una nueva edición** llegó a su cierre, con los dos ascendidos a la Serie A y los dos que perdieron la categoría.
-
-### Más noticias:
-
-* [Bayron Guamá llega a la Vuelta a Ecuador con una etapa en Guatemala](https://www.elcomercio.com/deportes/bayron-guama-vuelta-guatemala-ecuador.html "Bayron Guamá llega a la Vuelta a Ecuador con una etapa en Guatemala")
-* [Aitana Bonmatí y un doblete el Balón de Oro Femenino](https://www.elcomercio.com/deportes/aitana-bonmat-segundo-balon-oro.html "Aitana Bonmatí y un doblete el Balón de Oro Femenino")
-* [Los 46 ganadores del Balón de Oro desde su creación en 1956](https://www.elcomercio.com/deportes/futbol/palmares-ganadores-balon-oro-lista.html "Los 46 ganadores del Balón de Oro desde su creación en 1956")
-
-La Liga Pro determinó que la **fecha final se lleve a cabo en horario unificado** para establecer la posición definitiva de los 10 equipos en la tabla de posiciones, que arrancó en marzo con la primera etapa.
-
-En la parte alta, Cuniburo fue el merecido campeón con una campaña regular que lo certificó como el mejor equipo de todos, **mientras que Manta es el segundo ascendido** y jugará en la Serie A luego de cuatro años de ausencia.
-
-Para equipos como **Guayaquil City y Gualaceo**, los recién descendidos, firmaron un año irregular y  
-siempre permanecieron en la mitad de la tabla de posiciones, con resultados que nunca los pusieron  
-con serios candidatos a recuperar la categoría.
-
-Independiente Juniors se mantuvo todo el año como uno de los animadores, pero el **impedimento de ascender por ser filial** de Independiente del Valle, le resta protagonismo, especialmente en el cierre del torneo.
-
-San Antonio tuvo un estreno sobresaliente. En su primer año en la B le costó lograr estabilidad en el primer semestre, **aspecto que se modificó en el segundo y sumó los puntos necesarios** para alejar el fantasma del descenso que en algún momento estuvo rondando su entorno.
-
-Los dos descendidos
--------------------
-
-Chacaritas fue el primer equipo en **descender a la Segunda División**. Tras cinco temporadas consecutivas en la Serie B, se despidió con una campaña en la que alcanzó 28 puntos tras seis victorias, 10 empates y 20 derrotas.
-
-Vargas Torres es el segundo descendido. Los esmeraldeños se despidieron con un empate 1-1 en el Folke Anderson ante San Antonio, con lo que **completaron 33 puntos y un gol diferencia negativo** de -19.
-
-Leones FC, proyecto liderado por Esteban Paz, expresidente de la Comisión Especial de Fútbol de Liga de Quito, salvó la categoría con un cierre final que estuvo marcado por la obtención de puntos trascendentales en momentos decisivos.
-
-En el **Olímpico de Ibarra le ganaron 2-0 a Chacaritas** con un doblete de Martín Caramuto, delantero argentino que llegó como refuerzo en el segundo semestre y fue una de los pilares de esta salvación.
-
-Los 37 puntos de los **imbabureños fueron suficientes**. En el año ganaron ocho encuentros, empataron 13 y perdieron 15. Marcaron 30 tantos y recibieron 38 para tener un gol diferencia negativo de -8.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Audiencias programadas para presuntos responsables incendios forestales en Quito
-================================================================================
-
-El Procurador del Municipio de Quito informó sobre la situación legal de los responsables de los incendios forestales.
-----------------------------------------------------------------------------------------------------------------------
-
-![Andrés Segovia, procurador del Municipio, detalló la situación de los presuntos responsables de los incendios forestales de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Incendios-forestales-Quito.jpg)
-
-Durante la temporada seca, los incendios forestales impactaron fuertemente a Quito, y se registraron 317 incidentes. El más crítico hasta el 29 de octubre se produjo en **Guápulo**, donde el fuego afectó varias viviendas[.](https://es.wikipedia.org/wiki/Incendio_forestal "https://es.wikipedia.org/wiki/Incendio_forestal")
-
-Más noticias
-------------
-
-* [Quito registró dos incendios forestales este sábado 26 de octubre](https://www.elcomercio.com/actualidad/quito-registro-dos-incendios-forestales-este-sabado-26-de-octubre.html "Quito registró dos incendios forestales este sábado 26 de octubre")
-* [Por estas razones hubo incendios forestales en Ecuador](https://www.elcomercio.com/actualidad/ecuador/incendios-forestales-humanos-ecuador-riesgos.html "Por estas razones hubo incendios forestales en Ecuador")
-* [La sequía activa los incendios forestales en Ecuador](https://www.elcomercio.com/actualidad/ecuador/incendios-forestales-ecuador-danos-autoridades.html "La sequía activa los incendios forestales en Ecuador")
-
-Según las autoridades, la mayoría de los incendios es provocado intencionalmente. El procurador municipal, Andrés Segovia, detalló cómo avanzan los procesos legales contra los presuntos responsables y las acciones que el Municipio tomó al respecto.
-
-Avances legales contra presuntos responsables
----------------------------------------------
-
-En la reunión del **Concejo Metropolitano** del 29 de octubre, Segovia informó sobre los avances de los 18 procesos legales en curso en Quito. De estos, 15 fueron impulsados por la **Procuraduría del Municipio** y el resto por el **Cuerpo de Bomberos**. Actualmente, hay nueve sospechosos y cuatro personas detenidas.
-
-Uno de los casos más llamativos es el de un taxista captado por cámaras mientras comenzaba un incendio. Un juez le impuso medidas sustitutivas, como la prohibición de salida del país y el uso de un grillete electrónico. La **Fiscalía** está por concluir la instrucción fiscal y se espera el juicio en 90 días.
-
-Los detenidos con **prisión preventiva** están vinculados a los incendios de los sectores de **Eloy Alfaro**, **Guápulo**, **El Panecillo** y el río **Chiche**.
-
-En **Eloy Alfaro**, la audiencia de procedimiento directo se realizará el 6 de noviembre, mientras que para **Guápulo** se espera la reanudación de la audiencia. **En** **El** **Panecillo**, la audiencia está pendiente por diferimiento, y para el caso del río **Chiche**, la audiencia está programada para el 12 de noviembre.
-
-Un informe de la **Secretaría de Ambiente** y el **Cuerpo de Bomberos** estima que los daños por los incendios ascienden a medio millón de dólares, monto que deberá ser cubierto por los responsables, según el Municipio.
-
-Normativa y acciones preventivas
---------------------------------
-
-El artículo 246 del Código Orgánico Integral Penal (**COIP**) establece penas de uno a tres años de prisión para quienes provoquen incendios en bosques.
-
-En caso de que el incendio se produzca en áreas protegidas o ecosistemas vulnerables y cause daños ambientales, la pena aumenta en un tercio.
-
-Para prevenir y atender de manera coordinada los incendios forestales, **Segovia** anunció la conformación de una mesa de trabajo interinstitucional entre el **Municipio de Quito**, el Ministerio de **Ambiente**, el Cuerpo de **Bomberos** y la **Fiscalía General del Estado**. “Esto permitirá que todas las instituciones involucradas conozcan sus roles y actúen con rapidez, para procesar a los sospechosos detenidos en flagrancia en menos de 24 horas”, destacó Segovia.
-
-Además, la **Procuraduría** y el **Cuerpo de Bomberos de Quito** presentaron 18 denuncias, y lograron la detención de cuatro personas con prisión preventiva y otra con grillete electrónico. “Esto asegura que los hechos no quedarán en la impunidad. La **justicia** **ecuatoriana** ya reunió los elementos necesarios, y esperamos las audiencias para determinar responsabilidades”, afirmó el procurador.
-
-Por último, Segovia indicó que, por solicitud del alcalde **Pabel** **Muñoz**, se está trabaja en una propuesta para reformar el artículo 246 del **COIP**, con el objetivo de endurecer las penas para quienes provoquen incendios forestales, debido a los graves **daños ambientales** y a la salud pública que ocasionan.
-
-Telefónicas anuncian medidas a sus usuarios por cortes de luz
-=============================================================
-
-Las telefónicas anuncian medidas sobre los cortes de luz, tras un exhorto de la Comisión de Fiscalización de la Asamblea.
--------------------------------------------------------------------------------------------------------------------------
-
-![Las telefónicas móviles se pronuncian sobre las medidas que tomarán por los cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/10/telefonicas-moviles-medidas-cortes-luz.jpg)
-
-Las **telefónicas** de **Ecuador** anunciaron **medidas** a sus usuarios por los **cortes de luz**, este martes 29 de octubre de 2024.
-
-La **Asociación de Empresas de Telecomunicaciones (Asetel)** se pronunció, tras un exhorto de la **Comisión de Fiscalización** de la **Asamblea Nacional**.
-
-### Más noticias:
-
-* [Comisión de la Asamblea fiscalizará las fallas del servicio de telefonía celular](https://www.elcomercio.com/actualidad/ecuador/comision-asamblea-fiscalizacion-fallas-telefonia-celular-claro-movistar.html "Comisión de la Asamblea fiscalizará las fallas del servicio de telefonía celular")
-* [Cortes de luz afectarán las redes de telefonía móvil e Internet de esta manera](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-afectara-redes-telefonia-movil-internet-ecuador.html "Cortes de luz afectarán las redes de telefonía móvil e Internet de esta manera")
-
-Medidas de las telefónicas móviles por cortes de luz
-----------------------------------------------------
-
-Ayer, lunes 28 de octubre, la **Comisión de Fiscalización** de la Asamblea exhortó a los prestadores de servicios telefónicos, tanto públicos como privados, que **reestructuren sus tarifas de cobro.**
-
-La Comisión hizo este pedido porque no están prestando el **tiempo efectivo** de uso del servicio por parte de la ciudadanía.
-
-Esto, debido a los problemas de **desconexión** producidos por los racionamientos de energía eléctrica que se aplican en todo el país.
-
-Este martes, **Asetel** señaló que el suministro de energía eléctrica es fundamental para el funcionamiento del país e indispensable para mantener la **conectividad.**
-
-“Es un enorme desafió prestar el servicio en condiciones de fuerza mayor extrema para nuestro sector y al mismo tiempo trabajar para **mitigar** la insatisfacción de los usuarios”, señaló la Asociación.
-
-Asetel señaló que el sector de telecomunicaciones, **móvil y fijo**, cumple con los más altos estándares internacionales en sus sistemas de respaldo de energía para **emergencias**, “que en ningún caso pueden técnicamente sustituir a la energía eléctrica pública”.
-
-“El sector está siendo **seriamente impactado** por la falta de servicio de energía eléctrica, afectando la imagen ante nuestros clientes, debido a los cortes de energía prolongados”, agregó.
-
-En ese contexto, la Asetel señaló que buscan aportar con **soluciones** para mantener la conectividad en el país.
-
-### Tres medidas de las telefónicas por cortes de luz
-
-Así, el sector de telecomunicaciones plantea tres **alternativas** “de apoyo a los usuarios”:
-
-* Habilitar mecanismos de **acuerdos de pago** para aquellos usuarios de planes postpago, cuya situación económica se haya visto afectada por los cortes de energía, analizando caso a caso.
-* Asignar, sin costo alguno, un **paquete de mensajes de texto (SMS)** a todos los clientes del servicio móvil. El SMS es el servicio técnicamente más adecuado para la comunicación urgente o en situaciones de emergencia.
-* Una vez normalizado el suministro eléctrico, **ejecutar planes de remediación de servicios con nuestros usuarios de servicios móviles y servicios fijos**.
-
-Policía despliega efectivos para seguridad de candidatos presidenciales
-=======================================================================
-
-La Policía brindará seguridad a candidatos. Uno habría recibido una amenaza.
-----------------------------------------------------------------------------
-
-![Policía y CNE presentaron a los servidores que cuidarán a los candidatos presidenciales, el pasado 21 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/10/seguridad-candidatos-2.jpg)
-
-La **Policía** informó que desplegó servidores para la seguridad de los candidatos presidenciales rumbo a las elecciones 2025 en Ecuador. El anuncio se dio tras la presunta amenaza a uno de los postulantes[.](https://es.wikipedia.org/wiki/Ecuador)
-
-**Víctor Hugo Zárate**, comandante general de Policía, informó los detalles de las labores y los pasos luego de un mensaje que habría recibido uno de los presidenciables.
-
-### Más noticias
-
-* [288 policías y 64 vehículos se destinan para seguridad de binomios presidenciales](https://www.elcomercio.com/actualidad/politica/288-policias-64-vehiculos-seguridad-binomios-presidenciales.html "288 policías y 64 vehículos se destinan para  seguridad de binomios presidenciales")
-* [Plan de recompensas por la inseguridad llegó a 1 millón de dólares, ¿cómo funciona?](https://www.elcomercio.com/actualidad/seguridad/plan-recompensas-inseguridad-llego-millon-dolares-como-funciona.html "Plan de recompensas por la inseguridad llegó a 1 millón de dólares, ¿cómo funciona?")
-* [Cinco ataques a funcionarios del SNAI se registraron en Quito en tres años](https://www.elcomercio.com/actualidad/seguridad/cinco-ataques-funcionarios-snai-quito-tres-anos.html "Cinco ataques a funcionarios del SNAI se registraron en Quito en tres años")
-
-> 🛡️ATENCIÓN | En el ambito de nuestras competencias y de la permanente articulación interinstitucional para las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw), 🇪🇨 nuestra presidenta [@DianaAtamaint](https://twitter.com/DianaAtamaint?ref_src=twsrc%5Etfw), participó en la ceremonia de presentación de los servidores 👮🏽‍♂️👮🏻‍♀️ de la [@PoliciaEcuador](https://twitter.com/PoliciaEcuador?ref_src=twsrc%5Etfw), que brindarán seguridad… [pic.twitter.com/pvky05Bao3](https://t.co/pvky05Bao3)
-> 
-> — cnegobec (@cnegobec) [October 21, 2024](https://twitter.com/cnegobec/status/1848425622428631372?ref_src=twsrc%5Etfw)
-
-Seguridad a candidatos presidenciales
--------------------------------------
-
-El candidato por Suma, **Jan Topic**, habría recibido un mensaje con intimidaciones. Según el General, se realizó el parte policial respectivo y se puso en conocimiento de la **Fiscalía General del Estado**.
-
-Además, Zárate solicitó a Topic que entregue su **dispositivo móvil** a la entidad de justicia para que realice las pericias respectivas.
-
-A su vez, el titular de la Policía, a través de un video en la red social X, llamó a la comunidad a poner en conocimiento de las autoridades cualquier tipo de amenaza para “terminar con la impunidad”.
-
-Según el Comandante, la institución destinó **171 policías** para la seguridad de los postulantes.
-
-Procesos en curso
------------------
-
-La Policía se refirió a lo manifestado por **Jan** **Topic**. Él, a través de su cuenta de X, indicó: “Ahora agregan amenazas de muerte. Estos ataques no son solo contra nosotros, sino contra nuestra democracia y el derecho de decidir en las urnas”.
-
-Hasta la tarde de este 29 de octubre de 2024, Jan Topic esperaba la respuesta del **Tribunal Contencioso Electoral (TCE)** para que su candidatura estuviera en firme, pues recibió impugnaciones.
-
-Actualmente, 15 de los 16 binomios que se inscribieron en el **Consejo Nacional Electoral (CNE)** tienen la denominación en firme.
-
-La lista definitiva para las **elecciones generales** se conocerá el 30 de diciembre de este 2024.
-
-Proceso para proteger a los binomios
-------------------------------------
-
-El pasado 21 de octubre de 2024, la **Policía** presentó a los servidores que asumirán la tarea de resguardar a los presidenciables.
-
-En el evento se indicó que son **288 agentes de protección**, quienes cumplieron 144 horas de especialización. Contarán con chalecos antibalas.
-
-Se indicó que los binomios presidenciales tendrán una cápsula de seguridad de nueve servidores, dependiendo del **nivel de riesgo**.
-
-Gilmar Napa, jugador de Emelec, involucrado en siniestro de tránsito
-====================================================================
-
-Gilmar Napa, jugador de CS Emelec, estuvo involucrado en un siniestro de tránsito en Guayaquil, pero no presentó lesiones.
---------------------------------------------------------------------------------------------------------------------------
-
-![Gilmar Napa, futbolista de Emelec, en un partido con las divisiones juveniles de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-29T155934.408.jpg)
-
-La mañana de este martes 29 de octubre del 2024, **Gilmar Napa** estuvo involucrado en un siniestro de tránsito en la Vía Perimetra de Guayaquil. El futbolista de **Emelec**, sin embargo, no presentó lesiones a raíz del suceso.
-
-Cuando el guardameta del **conjunto eléctrico** se encontraba en su automóvil, este fue impactado por otro, lo cual causó que se produzca un choque hacia otro vehículo. Así lo mencionó SportCapital, agencia de representación del jugador.
-
-### Más noticias:
-
-* [Sebastián Beccacece ‘borró’ nueve jugadores de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/sebastian-beccacece-convocatoria-jugadores-ausentes.html "Sebastián Beccacece ‘borró’ nueve jugadores de la Selección de Ecuador")
-* [Gonzalo Valle, del banco de Liga de Quito a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/gonzao-valle-seleccion-ecuador-convocado.html "Gonzalo Valle, del banco de Liga de Quito a la Selección de Ecuador")
-* [Pink Floyd vende su música y sus derechos por 400 millones de dólares](https://www.elcomercio.com/afull/pink-floyd-vende-musica-derechos-400-millones-dolares.html "Pink Floyd vende su música y sus derechos por 400 millones de dólares")
-
-De acuerdo a la entidad, **Gilmar Napa** se contactó con las autoridades para denunciar lo sucedido. Asimismo, al jugador se le realizó una prueba de alcoholemia, que tuvo un resultado negativo, y tras ello se encuentra en su domicilio y en buenas condiciones.
-
-**Emelec** no se ha pronunciado con respecto al hecho ni a cómo se encuentra su futbolista. Asimismo, el jugador tampoco ha realizado apariciones ni declaraciones públicas, salvo por la emitida desde su agencia de representación[.](https://en.wikipedia.org/wiki/C.S._Emelec "https://en.wikipedia.org/wiki/C.S._Emelec")
-
-Gilmar Napa con Emelec en 2024
-------------------------------
-
-**Gilmar Napa** se desempeña como el segundo arquero de Emelec por detrás de Pedro Ortiz, quien ocupa el rol titular. En lo que va del año, el golero ha disputado tres compromisos con los azules dentro de la Liga Pro.
-
-En el total de duelo que ha disputado el guardameta, este ha encajado tres tantos. Durante el último compromiso del campeonato nacional, que fue derrota para los eléctricos ante **Universidad Católica**, este saltó a la cancha como titular.
-
-Dentro de la temporada 2024, Napa también ha formado parte de la Selección de Ecuador. Este fue llamado por **Sebastián Beccacece** para las fechas ante Brasil y Perú en las eliminatorias rumbo al Mundial 2026.
-
-¿Cómo se encuentran Emelec y Gilmar Napa en la Liga Pro?
---------------------------------------------------------
-
-**Emelec** y su arquero se ubican en la penúltima posición de la segunda etapa de la **Liga Pro** con siete unidades. Tal lugar lo ocupan a raíz de siete derrotas, un empate y tres victorias, pues tres puntos les fueron sustraídos debido a una sanción.
-
-Dentro de la tabla acumulada se ubica en la novena posición con **32 unidades** y se aferra a la esperanza de ingresar a torneos internacionales. Dentro de la vigente temporada, el club aún tiene cuatro partidos por disputar.
-
-Bad Bunny muestra su apoyo a Kamala Harris 
-===========================================
-
-Bad Bunny publicó el video con el que Harris precisa su estrategia para ayudar a combatir el alto desempleo.
-------------------------------------------------------------------------------------------------------------
-
-![Fotografía de archivo del artista puertorriqueño Bad Bunny.](https://www.elcomercio.com/wp-content/uploads/2024/10/Bad-bunny-efe.jpg)
-
-El **artista puertorriqueño** [Bad Bunny](https://www.elcomercio.com/afull/bad-bunny-musica-entrevista-puerto-rico.html "https://www.elcomercio.com/afull/bad-bunny-musica-entrevista-puerto-rico.html") mostró su apoyo a la vicepresidenta de EE.UU., Kamala Harris. Ocurrió el mismo día en que la candidata demócrata presentó su **plan para Puerto Rico**, enfocado en mejorar la **economía de la isla.**
-
-### Más noticias
-
-* [Lionel Messi, Bad Bunny y un emocionante encuentro](https://www.elcomercio.com/deportes/lionel-messi-bad-bunny-zapatos-encuentro.html "Lionel Messi, Bad Bunny y un emocionante encuentro")
-* [Kamala Harris lanza un anuncio para Puerto Rico](https://www.elcomercio.com/actualidad/mundo/kamala-harris-lanza-anuncio-puertorriquenos-insultos-trump.html "Kamala Harris lanza un anuncio para Puerto Rico")
-* [Tony Hinchcliffe se burló de Puerto Rico; dijo, es ‘una isla flotante de basura’](https://www.elcomercio.com/actualidad/mundo/donald-trump-puerto-rico-mantienen-relacion-convulsa-plagada-desprecios.html "Tony Hinchcliffe se burló de Puerto Rico; dijo, es ‘una isla flotante de basura’")
-
-En su cuenta de Instagram, donde posee cerca de **46 millones de seguidores**, Bad Bunny publicó el video con el que **Harris precisa su estrategia** para ayudar a combatir el **alto desempleo** y la emigración masiva por falta de oportunidades, entre otras propuestas.
-
-El artista también compartió en repetidas ocasiones un video de la vicepresidenta hablando sobre la **mala respuesta** del Gobierno del expresidente Donald Trump a la **devastación** que sufrió la isla tras los huracanes **María e Irma**, que azotaron a Puerto Rico en 2018.
-
-“No ofreció nada más que **toallas de papel e insultos**”, sentencia Harris en la crítica al manejo del exmandatario a las emergencias que dejaron casi **3 000 personas fallecidas en la isla**.
-
-Apoyo de Benito Antonio Martínez
---------------------------------
-
-La campaña de Harris hizo eco del respaldo de **Benito Antonio Martínez** y subrayó los beneficios del plan para reconstruir **Puerto Rico** presentado hoy por la demócrata en el barrio de Fairhill, en Filadelfia, epicentro de la **comunidad boricua** desde hace más de medio siglo en Pensilvania.
-
-“Estos 9 días son clave; **nuestro objetivo es ganar** y, en el proceso, construir comunidad, formar coaliciones y recordar a todos que estamos juntos en esto”, dijo la candidata a la comunidad puertorriqueña que acudió a la cita.
-
-Los votantes latinos se convirtieron en un **botín apetecido por los dos candidatos**, que podría definir la contienda en los estados claves como **Arizona, Nevada, Georgia o Pensilvania,** donde se encuentran prácticamente empatados.
-
-Marc Anthony apoya a Kamala Harris
-----------------------------------
-
-El respaldo de Bad Bunny a Harris se suma al de Marc Anthony, que la semana pasada lanzó un anuncio publicitario donde dijo a los latinos lo “divisivo” que fue el **mandato de Trump.**
-
-El nombre de **Puerto Rico** salió a relucir este domingo en el mitín del republicano en el Madison Square Garden de Nueva York, donde el comediante **Tony Hinchcliffe** dijo que Puerto Rico era una “isla flotante de basura en medio del océano”. 
-
-Israel no permitirá la apertura de nuevos consulados en Jerusalén
-=================================================================
-
-El proyecto, además, impediría a Estados Unidos reabrir su consulado en Jerusalén.
-----------------------------------------------------------------------------------
-
-![Bandera de Israel.](https://www.elcomercio.com/wp-content/uploads/2024/10/israel-wikipedia.jpg)
-
-[Israel](https://www.elcomercio.com/actualidad/mundo/israelies-protestan-contra-reforma-judicial-netanyahu.html "https://www.elcomercio.com/actualidad/mundo/israelies-protestan-contra-reforma-judicial-netanyahu.html") ya no permitirá la apertura de **nuevos consulados** en Jerusalén para fomentar así las embajadas tras la aprobación este martes, 29 de octubre de 2024, en la Knéset (el Parlamento israelí) de un nuevo proyecto de ley. Contó con **29 votos a favor y 7 en contra**, recoge el medio israelí **The Times of Israel.**
-
-### Más noticias
-
-* [Ataques israelíes contra un mercado en Ciudad de Gaza](https://www.elcomercio.com/actualidad/mundo/ataques-israelies-mercado-ciudad-gaza.html "Ataques israelíes contra un mercado en Ciudad de Gaza")
-* [Israel lanzó ataque de represalia contra Irán](https://www.elcomercio.com/actualidad/mundo/israel-iran-ataque-represalia-muertos-soldados.html "Israel lanzó ataque de represalia contra Irán")
-* [La muerte de Sinwar será una inspiración para la resistencia contra Israel](https://www.elcomercio.com/actualidad/mundo/muerte-sinwar-inspiracion-resistencia-israel.html "La muerte de Sinwar será una inspiración para la resistencia contra Israel")
-
-Se trata de una enmienda a la ‘**Ley Básica: Jerusalén, capital de Israel’** impulsada por los diputados Dan Illouz del Likud -el partido de **Benjamín Netanyahu- y Zeev Elkin de Nueva Esperanza**, aliado del mandatario israelí, que busca fomentar que los países establezcan sus embajadas en la ciudad.
-
-“La nueva ley deja claro de una vez por todas que **Jerusalén es nuestra** y que no está a la venta. Es una ley histórica que se suma a otras **leyes aprobadas en los últimos días**“, dijo Illouz en aparente referencia a los dos proyectos de ley aprobados este lunes. Prohíben a la agencia de la ONU para los refugiados palestinos (UNRWA) operar en Israel.
-
-El proyecto, además, **impediría a Estados Unidos reabrir su consulado en Jerusalén**, una promesa de campaña del actual presidente, Joe Biden, que nunca llegó a cumplirse.
-
-**Israel considera Jerusalén** (incluida su parte este, ocupada en 1967 y anexionada unilateralmente en 1980) como su capital única e indivisible, algo que no reconoce la mayor parte de la comunidad internacional.
-
-Solo **Estados Unidos**, que **trasladó su embajada** durante la presidencia de Donald Trump (2017-2021), Guatemala, Honduras, Kosovo y Papúa Nueva Guinea mantienen su embajada en Jerusalén.
-
-Países mantienen su embajada en Tel Aviv
-----------------------------------------
-
-La mayoría de países mantienen su **embajada en Tel Aviv** y cuentan en su lugar con oficinas o consulados en Jerusalén, algunos de los cuales, como el de España, fueron establecidos antes del nacimiento del Estado de Israel, y sirven también para dar servicio a los **palestinos residentes en la ciudad** y en el territorio ocupado de Cisjordania.
-
-La nueva ley no afectará al **estatus de los consulados** ya existentes en Jerusalén.
-
-El tránsito se complica en la Orellana y Colón por obras en la Ecovía de Quito
-==============================================================================
-
-Muchos quiteños amanecieron el 27 de octubre con la novedad que se cerraron los cruces por las avenidas Orellana y Colón.
--------------------------------------------------------------------------------------------------------------------------
-
-![En la noche del 27 de octubre del 2024, comenzaron los trabajos en los carriles de la Ecovía, a la altura de las avenidas Orellana y Colón.](https://www.elcomercio.com/wp-content/uploads/2024/10/orellana.jpg)
-
-Las obras en la **Ecovía** de **Quito** no ha dejado de complicar el **tránsito**. Sin embargo, muchos quiteños se sorprendieron al ver que se había cerrado los cruces por la avenida **Seis de Diciembre** en la avenida **Orellana** y la avenida **Colón**, desde la noche del domingo 27 de octubre del 2024.
-
-### Más noticias
-
-* [En Quito se consume más agua de lo debido](https://www.elcomercio.com/actualidad/quito-consumo-agua-excesivo-promedio.html "En Quito se consume más agua de lo debido")
-* [Tres lugares en donde probar una buena colada morada en Quito durante el feriado](https://www.elcomercio.com/actualidad/colada-morada-agustinas-mercado-inaquito-santa-clara.html "Tres lugares en donde probar una buena colada morada en Quito durante el feriado")
-* [El abandono es crueldad animal y se sanciona en Quito](https://www.elcomercio.com/narices-frias/abandono-crueldad-animal-quito-sancion-multa.html "El abandono es crueldad animal y se sanciona en Quito")
-
-Tránsito complicado por obras en Ecovía
----------------------------------------
-
-Si bien la rehabilitación de los carriles exclusivos de la **Ecovía** es una obra que todo conductor en **Quito** debe conocer, no es menos cierto que hubo cierta sorpresa por el corte a la altura de las avenidas **Colón** y **Orellana**, dos vías importantes en esta zona del centro-norte de la ciudad por ser las **rutas de varias líneas de buses.**
-
-La comunicación oficial llegó a las redes sociales se divulgó en la cuenta de X (anterior Twitter) de la **Empresa Pública Metropolitana de Movilidad y Obras Públicas**, a las **20:54 del domingo 27 de octubre del 2024**.
-
-En cambio, en la **Agencia Metropolitana de Tránsito** (AMT), se divulgó el operativo a llevarse a cabo, para el desvío de los vehículos, el lunes 28 de octubre del 2024 a las 07:11.
-
-Sin embargo, desde las distintas instituciones de la ciudad afirman que la información se conocía desde el viernes 25 de octubre. A pesar de ello, no hay rastro de una publicación previa a las fechas anteriormente dichas.
-
-Otra comunicación de las obras en Ecovía
-----------------------------------------
-
-Los tramos intervenidos han tenido como tiempo de terminación 10 días. Sin embargo, se han adelantado, como fue en el caso de la **Plaza Argentina**, por donde se accede al túnel **Guayasamín**, donde se abrió el tránsito tres días antes de lo previsto.
-
-En el caso de los cruces de las avenidas Repúblicas y Whymper, se tenía previsto habilitarlos desde el 30 de octubre. Pero ya para el lunes 28 de octubre, se encontraban abiertas. En las cuentas de X de la Empresa Metropolitana de Movilidad y Obras Públicas (**Epmmop**) ni en la de la **Agencia Metropolitana de Tránsito (AMT),** no se anunció su apertura[.](https://www.epmmop.gob.ec/ "https://www.epmmop.gob.ec/")
-
-Sin embargo, en la página oficial de la **Epmmop** sí se comunica el cierre de las avenidas **Orellana** y **Colón**, el 24 de octubre, aunque no de la apertura de la Whymper y República.
-
-La consecuencia fue el que el **lunes 28 de octubre del 2024**, el tránsito estuvo colapsado en estas dos arterias clave del centro norte de Quito, mientras **había poco flujo de tránsito** en la Whymper y la República, según constató EL COMERCIO.
-
-De cualquier modo, hay que tener presente las **rutas alternas** para evitar pasar por la **Colón** y la **Orellana**.
-
-EL COMERCIO intentó comunicarse con le Epmmop, pero no obtuvo respuesta.
-
-> 🫶🏾 [#QuitoQuedaPapelito](https://twitter.com/hashtag/QuitoQuedaPapelito?src=hash&ref_src=twsrc%5Etfw) |  
->   
-> 🚍 El transporte público modifica sus rutas para disminuir el flujo vehicular en el sector.  
-> 🚧 Por la repavimentación que realiza [@ObrasQuito](https://twitter.com/ObrasQuito?ref_src=twsrc%5Etfw) en el carril exclusivo de la Ecovía.  
-> Toma nota y planifica con tiempo tu destino.  
->   
-> 🤝 Con empatía  
-> ☀️[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/TdGgbKc04L](https://t.co/TdGgbKc04L)
-> 
-> — AMTQuito (@AMT\_Quito) [October 29, 2024](https://twitter.com/AMT_Quito/status/1851051543417798710?ref_src=twsrc%5Etfw)
-
-Gonzalo Plata está apadrinado por un crack brasileño en el Flamengo
-===================================================================
-
-El ecuatoriano cuenta con un excelente guía, con amplia trayectoria, durante su estancia en el fútbol brasileño.
-----------------------------------------------------------------------------------------------------------------
-
-![Gonzalo Plata celebrando su primer gol con el Flamengo.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-43.jpg)
-
-**Gonzalo** **Plata** se unió al **Flamengo** de Brasil en agosto de 2024, después de una temporada en Catar, donde el nivel de competencia le quedó corto. Su cambio de aires hacia una liga más competitiva buscó no solo un reto deportivo, sino también su regreso a la selección de Ecuador.
-
-En casi dos meses en el ‘**Mengão**‘, el ecuatoriano ha sumado varios minutos, alternando entre titularidades al inicio y un rol más como revulsivo en el equipo tras la salida del DT Tite, quien lo había fichado.
-
-### Más noticias:
-
-* [La alegría de Flamengo tras el primer gol de Gonzalo Plata](https://www.elcomercio.com/deportes/futbol/gonzalo-plata-gol-flamengo-hinchas-video.html "La alegría de Flamengo tras el primer gol de Gonzalo Plata")
-* [Filipe Luis nuevo técnico de Gonzalo Plata en Flamengo](https://www.elcomercio.com/deportes/futbol/filipe-luis-gonzalo-plata-flamengo.html "Filipe Luis nuevo técnico de Gonzalo Plata en Flamengo")
-* [Flamengo y un apagado Gonzalo Plata se eliminan de Copa Libertadores](https://www.elcomercio.com/deportes/flamengo-gonzalo-plata-eliminacion-copa-libertadores.html "Flamengo y un apagado Gonzalo Plata se eliminan de Copa Libertadores")
-
-A pesar de algunos retos, **Gonzalo Plata ya gritó su primer gol con Flamengo**, anotado en la victoria 4-2 sobre Juventude el pasado 26 de octubre, en la fecha 31 del Brasileirão, después de nueve partidos.
-
-Un crack apadrina a Gonzalo Plata
----------------------------------
-
-Después de su primer gol con Flamengo, **Gonzalo Plata** fue invitado especial a un programa de entrevistas en las redes sociales del club, llamado _Resumen de juego_, donde se analizó el último partido y Plata compartió sus experiencias en el equipo.
-
-Durante la conversación, el ecuatoriano habló de la i**mportancia de su go**l, del ambiente del club, de su relación con el equipo y mencionó quiénes le brindan consejos.
-
-Para sorpresa de muchos, Gonzalo Plata reveló que David Luiz, jugador con una larga y exitosa carrera, sobre todo en Europa, lo ha ayudado a adaptarse y se ha convertido en un verdadero mentor desde su llegada al ‘Mengão’.
-
-“El grupo me ayuda mucho en todo. David Luiz habla mucho conmigo, **me da consejos para mejorar; está siendo muy importante para mi adaptación**”, comentó el ecuatoriano.
-
-En cuanto a su mejor amigo en Flamengo, Plata mencionó que es el argentino Charlie Alcaraz, quien llegó al equipo junto con él.
-
-“Es un payaso. Siempre estamos juntos, hablando y bromeando. **Nos mandamos muchos videos y memes** para reírnos en el teléfono”, agregó Plata.
