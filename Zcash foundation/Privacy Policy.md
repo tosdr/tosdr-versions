@@ -263,6 +263,12 @@ Please contact ZF at [**privacy@zfnd.org**](mailto:privacy@zfnd.org) with any qu
 **Subscribe to our newsletter!**
 --------------------------------
 
+   
+
+Email 
+
+Keep me updated
+
 **Follow us:**
 --------------
 
@@ -312,6 +318,12 @@ submit
 
 **Subscribe to our newsletter!**
 --------------------------------
+
+   
+
+Email 
+
+Keep me updated
 
 [Z.cash](https://z.cash/)
 
