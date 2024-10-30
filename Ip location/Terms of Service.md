@@ -175,7 +175,7 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 * [Entertainment (14)](https://www.iplocation.net/blog/category/entertainment)
 * [Fashion (2)](https://www.iplocation.net/blog/category/fashion)
 * [Finance (71)](https://www.iplocation.net/blog/category/finance)
-* [Games (57)](https://www.iplocation.net/blog/category/games)
+* [Games (58)](https://www.iplocation.net/blog/category/games)
 * [Healthcare (25)](https://www.iplocation.net/blog/category/healthcare)
 * [Internet of Things (22)](https://www.iplocation.net/blog/category/iot)
 * [IP Address (66)](https://www.iplocation.net/blog/category/ip-address)
@@ -202,11 +202,11 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 * [Technology (54)](https://www.iplocation.net/blog/category/technology)
 * [Information Technology (9)](https://www.iplocation.net/blog/category/information-technology)
 * [Electronics (1)](https://www.iplocation.net/blog/category/electronics)
-* [Travel (16)](https://www.iplocation.net/blog/category/travel)
-* [World Wide Web (159)](https://www.iplocation.net/blog/category/web)
+* [Travel (17)](https://www.iplocation.net/blog/category/travel)
+* [World Wide Web (160)](https://www.iplocation.net/blog/category/web)
 * [Search Engine Optimization (58)](https://www.iplocation.net/blog/category/seo)
 * [Web Hosting (26)](https://www.iplocation.net/blog/category/web-hosting)
-* [Web Design (14)](https://www.iplocation.net/blog/category/web-design)
+* [Web Design (15)](https://www.iplocation.net/blog/category/web-design)
 
 ### About Us
 
