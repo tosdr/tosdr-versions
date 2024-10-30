@@ -203,50 +203,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Jannie Schutte - myFinance-Online.co.za
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=9d6826364afbd8bfc6c5d7a8de6fc6b86000911e75a222982692f74cd57c3b2f&c=113529437)  
-Desygn
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=47028158)  
+Oukraal Merino's
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=9d6826364afbd8bfc6c5d7a8de6fc6b86000911e75a222982692f74cd57c3b2f&c=74383244)  
-Cape Adventure Zone
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=114889798)  
+Safe Train Mokgethwa (PTY) Ltd
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=9d6826364afbd8bfc6c5d7a8de6fc6b86000911e75a222982692f74cd57c3b2f&c=24141758)  
-Durbanville Classifieds (Pty) Ltd
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=69280115)  
+Digifax (Pty) Ltd T/A SecurityHyper
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=9d6826364afbd8bfc6c5d7a8de6fc6b86000911e75a222982692f74cd57c3b2f&c=183294136)  
-Tagline Brands
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=44983520)  
+webb it services
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=9d6826364afbd8bfc6c5d7a8de6fc6b86000911e75a222982692f74cd57c3b2f&c=140459639)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=73838685)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=9d6826364afbd8bfc6c5d7a8de6fc6b86000911e75a222982692f74cd57c3b2f&c=68899982)  
-Creative Characters
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=14698658)  
+Redlum Group (Pty) Ltd
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=9d6826364afbd8bfc6c5d7a8de6fc6b86000911e75a222982692f74cd57c3b2f&c=169246034)  
-Digifax Pty) Ltd t/a Findfish
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=86530961)  
+Goju Ryu Karate Centre
 
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=9d6826364afbd8bfc6c5d7a8de6fc6b86000911e75a222982692f74cd57c3b2f&c=213542730)  
-Wiselink Broadband Vryheid
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=174195565)  
+Echo Recording Studio cc
 
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=9d6826364afbd8bfc6c5d7a8de6fc6b86000911e75a222982692f74cd57c3b2f&c=124764969)  
-Frameless Fanatix (Pty) Ltd.
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=202875107)  
+Goju-Ryu Pretoria East
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=9d6826364afbd8bfc6c5d7a8de6fc6b86000911e75a222982692f74cd57c3b2f&c=115568852)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=19801475)  
+Forgotten Goods (Pty) Ltd
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=9d6826364afbd8bfc6c5d7a8de6fc6b86000911e75a222982692f74cd57c3b2f&c=54093904)  
-Depot Diesel (Pty) Ltd
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=46480604)  
+Mtunzini Group
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=9d6826364afbd8bfc6c5d7a8de6fc6b86000911e75a222982692f74cd57c3b2f&c=114824121)  
-LEONARD
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=46137475)  
+CLEVER STUDENTS
 
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=9d6826364afbd8bfc6c5d7a8de6fc6b86000911e75a222982692f74cd57c3b2f&c=196545985)  
-Bchange Online CC
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=210429083)  
+Hydroworld T/A Milliqua
 
-![valued client Sportspro Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=9d6826364afbd8bfc6c5d7a8de6fc6b86000911e75a222982692f74cd57c3b2f&c=94560568)  
-Sportspro Group (Pty) Ltd
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=28770475)  
+Iurus Inc
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=9d6826364afbd8bfc6c5d7a8de6fc6b86000911e75a222982692f74cd57c3b2f&c=7950265)  
-#DiGi3 Marketing & Design
+![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=151733308)  
+MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
