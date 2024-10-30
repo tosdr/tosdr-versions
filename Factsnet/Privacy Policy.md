@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About Dysautonomia ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2291%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-dysautonomia/)
+[![35 Facts About The History Of Technology ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22104%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/technology/35-facts-about-the-history-of-technology/)
 
-Health Science
+Technology
 
-29 Oct 2024
+30 Oct 2024
 
-[50 Facts About Dysautonomia](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-dysautonomia/)
+[35 Facts About The History Of Technology](https://facts.net/science/technology/35-facts-about-the-history-of-technology/)
 
-[![30 Facts About Banking In Colombia ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/30-facts-about-banking-in-colombia/)
+[![15 Facts About The Benefits Of Mindfulness ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/15-facts-about-the-benefits-of-mindfulness/)
 
-Society & Social Sciences
+Fitness & Wellbeing
 
-29 Oct 2024
+30 Oct 2024
 
-[30 Facts About Banking In Colombia](https://facts.net/society-and-social-sciences/30-facts-about-banking-in-colombia/)
+[15 Facts About The Benefits Of Mindfulness](https://facts.net/fitness-and-wellbeing/15-facts-about-the-benefits-of-mindfulness/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
