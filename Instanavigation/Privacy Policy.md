@@ -1,6 +1,6 @@
 ![](https://mc.yandex.ru/watch/98468737)
 
-[![logo.png](/assets/img/png/logo-new.png)
+[![new logo](/images/logo-new-sn.png)
 
 StoryNavigation](https://storynavigation.com/)
 
@@ -559,9 +559,9 @@ StoryNavigation [\[email protected\]](https://instanavigation.com/cdn-cgi/l/ema
 
 You have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a [data subject access request](https://app.termly.io/notify/c16da6f2-3c86-430d-acb4-9fcf59d5d66f).
 
-![logo.png](/assets/img/png/logo-new.png)
+![footer logo](/images/logo-new-sn.png)
 
-The site is a fan page. StoryNavigation.com is not connected with Instagram. All content belongs to the content authors. Download is available for informational purposes only.
+StoryNavigation.com is not connected with Instagram. All content belongs to the content authors. Download is available for informational purposes only.
 
 * [About us](https://storynavigation.com/about-project)
 * [Blog](https://storynavigation.com/blog)
@@ -578,9 +578,9 @@ en
 * [it](http://storynavigation.com/it/privacy-policy)
 * [ru](http://storynavigation.com/ru/privacy-policy)
 
-![logo.png](/assets/img/png/logo-new.png)
+![footer logo](/images/logo-new-sn.png)
 
-The site is a fan page. StoryNavigation.com is not connected with Instagram. All content belongs to the content authors. Download is available for informational purposes only.
+StoryNavigation.com is not connected with Instagram. All content belongs to the content authors. Download is available for informational purposes only.
 
 © 2024 StoryNavigation. All rights reserved.
 
