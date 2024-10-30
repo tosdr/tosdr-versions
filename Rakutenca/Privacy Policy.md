@@ -291,9 +291,9 @@ FR
         
         15% Cash Back](https://www.rakuten.ca/simba-sleep-canada)[Wayfair
         
-        2% Cash Back](https://www.rakuten.ca/wayfair)[Well.ca
+        2% Cash Back](https://www.rakuten.ca/wayfair)[TEMU
         
-        2% Cash Back](https://www.rakuten.ca/well)
+        10% Cash Back](https://www.rakuten.ca/temu)
         
         Featured Shops & Deals
         
@@ -301,11 +301,11 @@ FR
         
         [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
         
-        ![](//static.rakuten.ca/img/campaign_entity/291863/en-right-rail_cat_drop_300x250_temu-3.jpg)
+        ![](//static.rakuten.ca/img/campaign_entity/299540/en-right-rail_cat_drop_300x250_bounclair.jpg)
         
-        TEMU
+        Bouclair
         
-        10% Cash Back](https://www.rakuten.ca/ticket/campaign/11CategoryFeaturedStores/store/temu?sourceName=nav-menu)
+        2% Cash Back](https://www.rakuten.ca/ticket/campaign/11CategoryFeaturedStores/store/bouclair.com?sourceName=nav-menu)
         
     * [Luxury](https://www.rakuten.ca/stores/luxury "Luxury Promo Codes and Coupons")
         
