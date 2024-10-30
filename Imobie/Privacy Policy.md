@@ -80,7 +80,7 @@ We keep your personal data only as long as we need it for legitimate business pu
 
 iMobie may share or disclose your personal information to third parties to the extent described below and not beyond.
 
-At times iMobie may make certain personal information available to third-party credit card processors to fulfill customer orders and deliver products. Such as Paddle, MyCommerce, Share-it and other 3rd party credit card processors that encrypt all the customer's personal information before it is sent to us, including name, address, credit card number, credit card expiration date, etc. Encryption works to prevent any malicious use of your personal information. Your credit card information is only used for online transactions.
+At times iMobie may make certain personal information available to third-party credit card processors to fulfill customer orders and deliver products. Such as Paddle, Stripe, MyCommerce, Share-it and other 3rd party credit card processors that encrypt all the customer's personal information before it is sent to us, including name, address, credit card number, credit card expiration date, etc. Encryption works to prevent any malicious use of your personal information. Your credit card information is only used for online transactions.
 
 We may also share your personal information with companies that help us to run our business by processing personal information on behalf of us for the purposes identified above. Such companies include email delivery service providers which can help us deliver promotion emails to you, server companies we hire to provide service to you, social medias, third party online forums, and other marketing platforms and service providers.
 
