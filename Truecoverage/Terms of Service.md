@@ -56,7 +56,6 @@
     * [Company History](https://truecoverage.com/about-best-insurance-agency/#aboutus-ourstory)
     * [Mission](https://truecoverage.com/about-best-insurance-agency/#mission-value)
     * [Our Team](https://truecoverage.com/about-best-insurance-agency/#team)
-    * [Our Agents](https://truecoverage.com/lorians-lopez/)
     * [Thrive Agent Training Program](https://truecoverage.com/thrive-agent-training-program/)
     * [Client Testimonial](https://truecoverage.com/about-best-insurance-agency/#testimonial)
     * [Careers](https://truecoverage.com/careers/)
@@ -307,7 +306,7 @@ CLOSE
     
 * ![](https://api.trustedform.com/ns.gif)
     
-* Email
+* Name
     
     This field is for validation purposes and should be left unchanged.
     
