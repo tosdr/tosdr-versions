@@ -52,7 +52,7 @@ Search
 
  
 
-[![Home](images/logos/21/logo_colored.jpg?v=1712063613653 "Home")](https://www.derrynow.com/)
+[![Home](images/logos/21/logo_colored.jpg?v=1730298982847 "Home")](https://www.derrynow.com/)
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
@@ -259,26 +259,12 @@ Advertise with Us
 
 Most Popular
 
-[![PICTURES: Ladies football stars get suited and booted for glamorous Croke Park awards gala](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Ladies football stars get suited and booted for glamorous Croke Park awards gala")](https://www.derrynow.com/news/national-news/1642168/pictures-ladies-football-stars-get-suited-and-booted-for-glamorous-croke-park-awards-gala.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[PICTURES: Ladies football stars get suited and booted for glamorous Croke Park awards gala](https://www.derrynow.com/news/national-news/1642168/pictures-ladies-football-stars-get-suited-and-booted-for-glamorous-croke-park-awards-gala.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![PICTURES: All smiles as Noel McFeely's 70th birthday party](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles as Noel McFeely's 70th birthday party")](https://www.derrynow.com/news/pictures---videos/1642064/pictures-all-smiles-at-noel-mcfeely-s-70th-birthday-party.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
 [PICTURES: All smiles as Noel McFeely's 70th birthday party](https://www.derrynow.com/news/pictures---videos/1642064/pictures-all-smiles-at-noel-mcfeely-s-70th-birthday-party.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man remanded for 'serious sexual assault' on a female in Derry's Lecky Road area](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man remanded for 'serious sexual assault' on a female in Derry's Lecky Road area")](https://www.derrynow.com/news/local-news/1642244/man-remanded-for-serious-sexual-assault-on-a-female-in-derry-s-lecky-road-area.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man remanded for 'serious sexual assault' on a female in Derry's Lecky Road area](https://www.derrynow.com/news/local-news/1642244/man-remanded-for-serious-sexual-assault-on-a-female-in-derry-s-lecky-road-area.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Woman (36) arrested in connection with sexual assault in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman (36) arrested in connection with sexual assault in Derry")](https://www.derrynow.com/news/local-news/1642955/woman-36-arrested-in-connection-with-sexual-assault-in-derry-s-lecky-road-area.html)
 
@@ -310,34 +296,67 @@ The Maguire Family
 [Maguire family commemorate Thomas on his 20th anniversary](https://www.derrynow.com/news/county-derry-post/1642024/maguire-family-commemorate-thomas-on-his-20th-anniversary.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Chapel Road PS pupils in the Halloween spirit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Chapel Road PS pupils in the Halloween spirit")](https://www.derrynow.com/story-telling/pictures---videos/1641288/in-pictures-chapel-road-ps-pupils-in-the-halloween-spirit.html)
+[![Derry man admits theft of cigarettes valued at more than £8,000](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man admits theft of cigarettes valued at more than £8,000")](https://www.derrynow.com/news/crime---courts/1643005/derry-man-admits-theft-of-cigarettes-valued-at-more-than-8-000.html)
+
+[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
+
+[Derry man admits theft of cigarettes valued at more than £8,000](https://www.derrynow.com/news/crime---courts/1643005/derry-man-admits-theft-of-cigarettes-valued-at-more-than-8-000.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man admits theft of clothing from Derry store](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man admits theft of clothing from Derry store")](https://www.derrynow.com/news/crime---courts/1643004/man-admits-theft-of-clothing-from-derry-store.html)
+
+[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
+
+[Man admits theft of clothing from Derry store](https://www.derrynow.com/news/crime---courts/1643004/man-admits-theft-of-clothing-from-derry-store.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Irish car enthusiasts on alert as rare classic and sports cars going to auction](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Irish car enthusiasts on alert as rare classic and sports cars going to auction")](https://www.derrynow.com/news/national-news/1643054/pictures-irish-car-enthusiasts-on-alert-as-rare-classic-and-sports-cars-going-to-auction.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[PICTURES: Irish car enthusiasts on alert as rare classic and sports cars going to auction](https://www.derrynow.com/news/national-news/1643054/pictures-irish-car-enthusiasts-on-alert-as-rare-classic-and-sports-cars-going-to-auction.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: The Elemental Garden at Ebrington Square](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: The Elemental Garden at Ebrington Square")](https://www.derrynow.com/news/pictures---videos/1643204/pictures-the-elemental-garden-at-ebrington-square.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[IN PICTURES: Chapel Road PS pupils in the Halloween spirit](https://www.derrynow.com/story-telling/pictures---videos/1641288/in-pictures-chapel-road-ps-pupils-in-the-halloween-spirit.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PICTURES: The Elemental Garden at Ebrington Square](https://www.derrynow.com/news/pictures---videos/1643204/pictures-the-elemental-garden-at-ebrington-square.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry mother and baby wellness classes starting soon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry mother and baby wellness classes starting soon")](https://www.derrynow.com/news/local-news/1641561/derry-mother-and-baby-wellness-classes-starting-soon.html)
+[![Derry principal calls on minister to protect “the joy of childhood” – away from mobile phones](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry principal calls on minister to protect “the joy of childhood” – away from mobile phones")](https://www.derrynow.com/news/local-news/1642485/derry-principal-calls-on-ministerto-protect-the-joy-of-childhood-away-from-mobile-phones.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry mother and baby wellness classes starting soon](https://www.derrynow.com/news/local-news/1641561/derry-mother-and-baby-wellness-classes-starting-soon.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Dungiven Men's Shed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dungiven Men's Shed")](https://www.derrynow.com/news/county-derry-post/1642000/dungiven-men-s-shed-to-host-5k-walk-run-fundraiser.html)
-
-Dungiven Men's Shed
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Dungiven Men's Shed to host 5k walk/run fundraiser](https://www.derrynow.com/news/county-derry-post/1642000/dungiven-men-s-shed-to-host-5k-walk-run-fundraiser.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry principal calls on minister to protect “the joy of childhood” – away from mobile phones](https://www.derrynow.com/news/local-news/1642485/derry-principal-calls-on-ministerto-protect-the-joy-of-childhood-away-from-mobile-phones.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![PICTURES: Derry Halloween cross community supper dance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Derry Halloween cross community supper dance")](https://www.derrynow.com/news/pictures---videos/1643188/pictures-derry-halloween-cross-community-supper-dance.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Derry Halloween cross community supper dance](https://www.derrynow.com/news/pictures---videos/1643188/pictures-derry-halloween-cross-community-supper-dance.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: The Elemental Garden at Ebrington Square](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: The Elemental Garden at Ebrington Square")](https://www.derrynow.com/news/pictures---videos/1643204/pictures-the-elemental-garden-at-ebrington-square.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: The Elemental Garden at Ebrington Square](https://www.derrynow.com/news/pictures---videos/1643204/pictures-the-elemental-garden-at-ebrington-square.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: SPOOKTACULAR children’s Hallowe’en workshops in Swatragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: SPOOKTACULAR children’s Hallowe’en workshops in Swatragh")](https://www.derrynow.com/news/pictures---videos/1642135/pictures-spooktacular-childrens-halloween-workshops-in-swatragh.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: SPOOKTACULAR children’s Hallowe’en workshops in Swatragh](https://www.derrynow.com/news/pictures---videos/1642135/pictures-spooktacular-childrens-halloween-workshops-in-swatragh.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: All smiles as Noel McFeely's 70th birthday party](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles as Noel McFeely's 70th birthday party")](https://www.derrynow.com/news/pictures---videos/1642064/pictures-all-smiles-at-noel-mcfeely-s-70th-birthday-party.html)
 
@@ -387,27 +406,6 @@ Multimedia
 
 [Throwback Tuesday: Out and About @ Suicide Awareness fundraiser Bellaghy GAC (2014)](https://www.derrynow.com/story-telling/pictures---videos/1639815/throwback-tuesday-out-and-about-suicide-awareness-fundraiser-bellaghy-gac-2014.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Miss Northern Ireland visits local patients in Derry's Altnagelvin Renal Unit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Miss Northern Ireland visits local patients in Derry's Altnagelvin Renal Unit")](https://www.derrynow.com/story-telling/pictures---videos/1641660/in-pictures-miss-northern-ireland-visits-local-patients-in-derry-s-altnagelvin-renal-unit.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Miss Northern Ireland visits local patients in Derry's Altnagelvin Renal Unit](https://www.derrynow.com/story-telling/pictures---videos/1641660/in-pictures-miss-northern-ireland-visits-local-patients-in-derry-s-altnagelvin-renal-unit.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Translink Halloween pumpkin surprise delights Derry passengers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Translink Halloween pumpkin surprise delights Derry passengers")](https://www.derrynow.com/story-telling/pictures---videos/1641575/in-pictures-translink-halloween-pumpkin-surprise-delights-derry-passengers.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Translink Halloween pumpkin surprise delights Derry passengers](https://www.derrynow.com/story-telling/pictures---videos/1641575/in-pictures-translink-halloween-pumpkin-surprise-delights-derry-passengers.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry Halloween garden bringing joy to local community](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Halloween garden bringing joy to local community")](https://www.derrynow.com/story-telling/pictures---videos/1641527/in-pictures-derry-halloween-garden-bringing-joy-to-local-community.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry Halloween garden bringing joy to local community](https://www.derrynow.com/story-telling/pictures---videos/1641527/in-pictures-derry-halloween-garden-bringing-joy-to-local-community.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -509,55 +507,51 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Team Ireland at ISKA World Championship in Austria](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Team Ireland at ISKA World Championship in Austria")](https://www.derrynow.com/news/derry-sport/1643165/derry-welcome-home-four-medalists-from-the-iska-world-championships-in-austria.html)
-
-Team Ireland at ISKA World Championship in Austria
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry welcome home four medalists from the ISKA World Championships in Austria](https://www.derrynow.com/news/derry-sport/1643165/derry-welcome-home-four-medalists-from-the-iska-world-championships-in-austria.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Mid Ulster LMP Multiply Workshops continue in November](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mid Ulster LMP Multiply Workshops continue in November")](https://www.derrynow.com/news/home/1642989/mid-ulster-lmp-multiply-workshops-continue-in-november.html)
-
-Financial Wellness Advisors who will be supporting the Multiply initiative at the November workshops.
-
-[Home](https://www.derrynow.com/)
-
-[Mid Ulster LMP Multiply Workshops continue in November](https://www.derrynow.com/news/home/1642989/mid-ulster-lmp-multiply-workshops-continue-in-november.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man admits theft of cigarettes valued at more than £8,000](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry man admits theft of cigarettes valued at more than £8,000")](https://www.derrynow.com/news/crime---courts/1643005/derry-man-admits-theft-of-cigarettes-valued-at-more-than-8-000.html)
-
-[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
-
-[Derry man admits theft of cigarettes valued at more than £8,000](https://www.derrynow.com/news/crime---courts/1643005/derry-man-admits-theft-of-cigarettes-valued-at-more-than-8-000.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Mayor Lillian Seenoi-Barr with children asking questions about Gaza](https://www.derrynow.com/resizer/165/93/true/2024_10_30/original-07378309-D68B-43B3-9C43-9ED5D988E8CE-1730284587876.jpeg--.jpeg?1730284588377 "Mayor Lillian Seenoi-Barr with children asking questions about Gaza")](https://www.derrynow.com/news/derry-news/1642950/derry-children-bring-their-concerns-about-palestine-to-a-press-conference-with-the-mayor.html)
-
-Mayor Lillian Seenoi-Barr with children asking questions about Gaza
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry children bring their concerns about Palestine to a press conference with the Mayor](https://www.derrynow.com/news/derry-news/1642950/derry-children-bring-their-concerns-about-palestine-to-a-press-conference-with-the-mayor.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Woman (36) arrested in connection with sexual assault in Derry](https://www.derrynow.com/resizer/165/93/true/2024_10_30/PSNI_Derry2-1730284966424.jpg--.jpg?1730284966443 "Woman (36) arrested in connection with sexual assault in Derry")](https://www.derrynow.com/news/local-news/1642955/woman-36-arrested-in-connection-with-sexual-assault-in-derry-s-lecky-road-area.html)
+[![Man arrested in connection with sexual assault in Derry released on bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in connection with sexual assault in Derry released on bail")](https://www.derrynow.com/news/local-news/1643617/man-arrested-in-connection-with-sexual-assault-in-derry-released-on-bail.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Woman (36) arrested in connection with sexual assault in Derry's Lecky Road area](https://www.derrynow.com/news/local-news/1642955/woman-36-arrested-in-connection-with-sexual-assault-in-derry-s-lecky-road-area.html)
+[Man arrested in connection with sexual assault in Derry released on bail](https://www.derrynow.com/news/local-news/1643617/man-arrested-in-connection-with-sexual-assault-in-derry-released-on-bail.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Beware what goes bump in the Limavady Halloween Night](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Beware what goes bump in the Limavady Halloween Night")](https://www.derrynow.com/news/arts---entertainment/1642946/pictures-beware-what-goes-bump-in-the-limavady-halloween-night.html)
+
+[Arts & Entertainment](https://www.derrynow.com/section/2211/arts-entertainment)
+
+[PICTURES: Beware what goes bump in the Limavady Halloween Night](https://www.derrynow.com/news/arts---entertainment/1642946/pictures-beware-what-goes-bump-in-the-limavady-halloween-night.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Patsy McGlone MLA](https://www.derrynow.com/resizer/165/93/true/1620136874386.jpg--.jpg?1620136874000 "Patsy McGlone MLA")](https://www.derrynow.com/news/mid-ulster-district-council/1643296/mcglone-welcomes-commitment-on-mid-south-west-growth-deal.html)
+
+[Mid Ulster District Council](https://www.derrynow.com/section/2724/mid-ulster-district-council)
+
+[McGlone Welcomes Commitment on Mid South West Growth Deal](https://www.derrynow.com/news/mid-ulster-district-council/1643296/mcglone-welcomes-commitment-on-mid-south-west-growth-deal.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Causeway Coast and Glens Council & Mid Ulster District Council](https://www.derrynow.com/resizer/165/93/true/2024_10_30/MSWCCG-1730302667293.JPG--.JPG?1730302668405 "Causeway Coast and Glens Council & Mid Ulster District Council")](https://www.derrynow.com/news/causeway-coast-and-glens-borough-council/1643394/green-light-for-causeway-coast-and-mid-south-west-deals-welcomed.html)
+
+Causeway Coast and Glens Council & Mid Ulster District Council
+
+[Causeway Coast and Glens Borough Council](https://www.derrynow.com/section/2723/causeway-coast-and-glens-borough-council)
+
+[Green light for Causeway Coast and Mid South West deals welcomed](https://www.derrynow.com/news/causeway-coast-and-glens-borough-council/1643394/green-light-for-causeway-coast-and-mid-south-west-deals-welcomed.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Drumahoe’s YMCA hosting a craft fair and coffee morning raising funds for local care home](https://www.derrynow.com/resizer/165/93/true/2024_10_29/a-1730207644904.PNG--.PNG?1730207644945 "Drumahoe’s YMCA hosting a craft fair and coffee morning raising funds for local care home")](https://www.derrynow.com/news/derry-news/1642230/drumahoes-ymca-hosting-a-craft-fair-and-coffee-morning-raising-funds-for-local-care-home.html)
+[![Concerns over police credibility cause Derry man's conviction to be referred to Court of Appeal](https://www.derrynow.com/resizer/165/93/true/2024_07_25/Scales_of_Justice_24472783-1695742476505.jpg--castlebar_court_to_be_disrupted_by_barrister_strike-1721913110758.jpg--.jpg?1721913110777 "Concerns over police credibility cause Derry man's conviction to be referred to Court of Appeal")](https://www.derrynow.com/news/crime---courts/1643517/concerns-over-police-credibility-cause-derry-man-s-conviction-to-be-referred-to-court-of-appeal.html)
 
-Ardlough Care home
+[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
 
-[Derry News](https://www.derrynow.com/section/999/derry-news)
+[Concerns over police credibility cause Derry man's conviction to be referred to Court of Appeal](https://www.derrynow.com/news/crime---courts/1643517/concerns-over-police-credibility-cause-derry-man-s-conviction-to-be-referred-to-court-of-appeal.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Drumahoe’s YMCA hosting a craft fair and coffee morning raising funds for local care home](https://www.derrynow.com/news/derry-news/1642230/drumahoes-ymca-hosting-a-craft-fair-and-coffee-morning-raising-funds-for-local-care-home.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Causeway Coast and Glens & Mid Ulster](https://www.derrynow.com/resizer/165/93/true/2024_10_30/MSWCCG-1730297778530.JPG--.JPG?1730297779664 "Causeway Coast and Glens & Mid Ulster")](https://www.derrynow.com/news/causeway-coast-and-glens-borough-council/1643279/mid-south-west-region-and-causeway-coast-and-glens-borough-council-statement-following-announcement-on-growth-deals-funding.html)
+
+Causeway Coast and Glens & Mid Ulster
+
+[Causeway Coast and Glens Borough Council](https://www.derrynow.com/section/2723/causeway-coast-and-glens-borough-council)
+
+[Mid South West Region and Causeway Coast and Glens Borough Council statement following announcement on Growth Deals funding](https://www.derrynow.com/news/causeway-coast-and-glens-borough-council/1643279/mid-south-west-region-and-causeway-coast-and-glens-borough-council-statement-following-announcement-on-growth-deals-funding.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
