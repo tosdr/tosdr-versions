@@ -85,21 +85,21 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 282 1
+0 291 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/izzy-moonbow-directed-by-ponystalker/)
+[](https://yiff-party.com/yiff/biscuit-and-tomi-created-by-fek/)
 
-[izzy moonbow directed by ponystalker](https://yiff-party.com/yiff-ai-premium/izzy-moonbow-directed-by-ponystalker/)
+[biscuit and tomi created by fek](https://yiff-party.com/yiff/biscuit-and-tomi-created-by-fek/)
 
-0 47 0
+0 147 0
 
 September 30, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/natani-directed-by-anontk-3/)
+[](https://yiff-party.com/yiff/jewel-blue-sky-studios-and-etc-created-by-shredded-wheat/)
 
-[natani directed by anontk](https://yiff-party.com/yiff-ai-premium/natani-directed-by-anontk-3/)
+[jewel (blue sky studios and etc) created by shredded wheat](https://yiff-party.com/yiff/jewel-blue-sky-studios-and-etc-created-by-shredded-wheat/)
 
 0 2 0
 
