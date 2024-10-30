@@ -18,7 +18,7 @@
 * [my bookmarks](https://darebee.com/bookmarks.html)
 * [support](https://darebee.com/support.html)
 
-[![](/images/promo/alerts/hh2024.jpg)](https://www.community.darebee.com/threads/haunted-hive-2024.2023/)
+[![](/images/promo/alerts/hh2024c.jpg)](https://www.community.darebee.com/threads/haunted-hive-2024.2023/)
 
 Terms of Use
 ============
