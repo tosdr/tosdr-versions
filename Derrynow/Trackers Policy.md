@@ -259,54 +259,12 @@ Advertise with Us
 
 Most Popular
 
-[![IN PICTURES: Derry Halloween kicks off with 'Awakening the Walled City Trail'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Halloween kicks off with 'Awakening the Walled City Trail'")](https://www.derrynow.com/story-telling/pictures---videos/1642218/in-pictures-derry-halloween-kicks-off-with-awakening-the-walled-city-trail.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry Halloween kicks off with 'Awakening the Walled City Trail'](https://www.derrynow.com/story-telling/pictures---videos/1642218/in-pictures-derry-halloween-kicks-off-with-awakening-the-walled-city-trail.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![PICTURES: Ladies football stars get suited and booted for glamorous Croke Park awards gala](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Ladies football stars get suited and booted for glamorous Croke Park awards gala")](https://www.derrynow.com/news/national-news/1642168/pictures-ladies-football-stars-get-suited-and-booted-for-glamorous-croke-park-awards-gala.html)
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
 
 [PICTURES: Ladies football stars get suited and booted for glamorous Croke Park awards gala](https://www.derrynow.com/news/national-news/1642168/pictures-ladies-football-stars-get-suited-and-booted-for-glamorous-croke-park-awards-gala.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Tuesday: Out and About @ Suicide Awareness fundraiser Bellaghy GAC (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Suicide Awareness fundraiser Bellaghy GAC (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1639815/throwback-tuesday-out-and-about-suicide-awareness-fundraiser-bellaghy-gac-2014.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Out and About @ Suicide Awareness fundraiser Bellaghy GAC (2014)](https://www.derrynow.com/story-telling/pictures---videos/1639815/throwback-tuesday-out-and-about-suicide-awareness-fundraiser-bellaghy-gac-2014.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Woman in late teens left 'traumatised' following sexual assault in Derry city centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman in late teens left 'traumatised' following sexual assault in Derry city centre")](https://www.derrynow.com/news/local-news/1642241/woman-in-late-teens-left-traumatised-following-sexual-assault-in-derry-city-centre.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Woman in late teens left 'traumatised' following sexual assault in Derry city centre](https://www.derrynow.com/news/local-news/1642241/woman-in-late-teens-left-traumatised-following-sexual-assault-in-derry-city-centre.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man remanded for 'serious sexual assault' on a female in Derry's Lecky Road area](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man remanded for 'serious sexual assault' on a female in Derry's Lecky Road area")](https://www.derrynow.com/news/local-news/1642244/man-remanded-for-serious-sexual-assault-on-a-female-in-derry-s-lecky-road-area.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man remanded for 'serious sexual assault' on a female in Derry's Lecky Road area](https://www.derrynow.com/news/local-news/1642244/man-remanded-for-serious-sexual-assault-on-a-female-in-derry-s-lecky-road-area.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man breached bail prohibiting him from being intoxicated in public](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man breached bail prohibiting him from being intoxicated in public")](https://www.derrynow.com/news/local-news/1642123/man-breached-bail-prohibiting-him-from-being-intoxicated-in-public.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man breached bail prohibiting him from being intoxicated in public](https://www.derrynow.com/news/local-news/1642123/man-breached-bail-prohibiting-him-from-being-intoxicated-in-public.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry Halloween gets off to a spooktacular start](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Halloween gets off to a spooktacular start")](https://www.derrynow.com/story-telling/pictures---videos/1642166/in-pictures-derry-halloween-gets-off-to-a-spooktacular-start.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry Halloween gets off to a spooktacular start](https://www.derrynow.com/story-telling/pictures---videos/1642166/in-pictures-derry-halloween-gets-off-to-a-spooktacular-start.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: All smiles as Noel McFeely's 70th birthday party](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles as Noel McFeely's 70th birthday party")](https://www.derrynow.com/news/pictures---videos/1642064/pictures-all-smiles-at-noel-mcfeely-s-70th-birthday-party.html)
 
@@ -315,19 +273,65 @@ Most Popular
 [PICTURES: All smiles as Noel McFeely's 70th birthday party](https://www.derrynow.com/news/pictures---videos/1642064/pictures-all-smiles-at-noel-mcfeely-s-70th-birthday-party.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![£300 fine for Derry man who caused criminal damage to items in his mother's house](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£300 fine for Derry man who caused criminal damage to items in his mother's house")](https://www.derrynow.com/news/local-news/1642080/300-fine-for-derry-man-who-caused-criminal-damage-to-items-in-his-mother-s-house.html)
+[![Man remanded for 'serious sexual assault' on a female in Derry's Lecky Road area](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man remanded for 'serious sexual assault' on a female in Derry's Lecky Road area")](https://www.derrynow.com/news/local-news/1642244/man-remanded-for-serious-sexual-assault-on-a-female-in-derry-s-lecky-road-area.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[£300 fine for Derry man who caused criminal damage to items in his mother's house](https://www.derrynow.com/news/local-news/1642080/300-fine-for-derry-man-who-caused-criminal-damage-to-items-in-his-mother-s-house.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man remanded for 'serious sexual assault' on a female in Derry's Lecky Road area](https://www.derrynow.com/news/local-news/1642244/man-remanded-for-serious-sexual-assault-on-a-female-in-derry-s-lecky-road-area.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: BBHF Open Night, Spooky Family Dander and Healthy Supper](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: BBHF Open Night, Spooky Family Dander and Healthy Supper")](https://www.derrynow.com/story-telling/pictures---videos/1642219/in-pictures-bbhf-open-night-spooky-family-dander-and-healthy-supper.html)
+[![Woman (36) arrested in connection with sexual assault in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman (36) arrested in connection with sexual assault in Derry")](https://www.derrynow.com/news/local-news/1642955/woman-36-arrested-in-connection-with-sexual-assault-in-derry-s-lecky-road-area.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Woman (36) arrested in connection with sexual assault in Derry's Lecky Road area](https://www.derrynow.com/news/local-news/1642955/woman-36-arrested-in-connection-with-sexual-assault-in-derry-s-lecky-road-area.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man (24) arrested on suspicion of rape in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (24) arrested on suspicion of rape in Derry")](https://www.derrynow.com/news/local-news/1642863/man-24-arrested-on-suspicion-of-rape-in-derry.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man (24) arrested on suspicion of rape in Derry](https://www.derrynow.com/news/local-news/1642863/man-24-arrested-on-suspicion-of-rape-in-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1641960/derry-death-notices-wednesday-october-30-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, October 30 2024](https://www.derrynow.com/news/deaths/1641960/derry-death-notices-wednesday-october-30-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![The Maguire Family](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "The Maguire Family")](https://www.derrynow.com/news/county-derry-post/1642024/maguire-family-commemorate-thomas-on-his-20th-anniversary.html)
+
+The Maguire Family
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Maguire family commemorate Thomas on his 20th anniversary](https://www.derrynow.com/news/county-derry-post/1642024/maguire-family-commemorate-thomas-on-his-20th-anniversary.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Chapel Road PS pupils in the Halloween spirit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Chapel Road PS pupils in the Halloween spirit")](https://www.derrynow.com/story-telling/pictures---videos/1641288/in-pictures-chapel-road-ps-pupils-in-the-halloween-spirit.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[IN PICTURES: BBHF Open Night, Spooky Family Dander and Healthy Supper](https://www.derrynow.com/story-telling/pictures---videos/1642219/in-pictures-bbhf-open-night-spooky-family-dander-and-healthy-supper.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Chapel Road PS pupils in the Halloween spirit](https://www.derrynow.com/story-telling/pictures---videos/1641288/in-pictures-chapel-road-ps-pupils-in-the-halloween-spirit.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry mother and baby wellness classes starting soon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry mother and baby wellness classes starting soon")](https://www.derrynow.com/news/local-news/1641561/derry-mother-and-baby-wellness-classes-starting-soon.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry mother and baby wellness classes starting soon](https://www.derrynow.com/news/local-news/1641561/derry-mother-and-baby-wellness-classes-starting-soon.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Dungiven Men's Shed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dungiven Men's Shed")](https://www.derrynow.com/news/county-derry-post/1642000/dungiven-men-s-shed-to-host-5k-walk-run-fundraiser.html)
+
+Dungiven Men's Shed
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Dungiven Men's Shed to host 5k walk/run fundraiser](https://www.derrynow.com/news/county-derry-post/1642000/dungiven-men-s-shed-to-host-5k-walk-run-fundraiser.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -505,55 +509,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1641960/derry-death-notices-wednesday-october-30-2024.html)
+[![Team Ireland at ISKA World Championship in Austria](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Team Ireland at ISKA World Championship in Austria")](https://www.derrynow.com/news/derry-sport/1643165/derry-welcome-home-four-medalists-from-the-iska-world-championships-in-austria.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, October 30 2024](https://www.derrynow.com/news/deaths/1641960/derry-death-notices-wednesday-october-30-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![The Maguire Family](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "The Maguire Family")](https://www.derrynow.com/news/county-derry-post/1642024/maguire-family-commemorate-thomas-on-his-20th-anniversary.html)
-
-The Maguire Family
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Maguire family commemorate Thomas on his 20th anniversary](https://www.derrynow.com/news/county-derry-post/1642024/maguire-family-commemorate-thomas-on-his-20th-anniversary.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![DuPont Maydown Hosts MakeMe Visit](https://www.derrynow.com/resizer/165/93/true/2024_10_29/AAA-1730198411084.PNG--.PNG?1730198411213 "DuPont Maydown Hosts MakeMe Visit")](https://www.derrynow.com/news/derry-news/1642051/dupont-maydown-hosts-makeme-visit.html)
-
-DuPont Maydown Hosts MakeMe Visit
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[DuPont Maydown Hosts MakeMe Visit](https://www.derrynow.com/news/derry-news/1642051/dupont-maydown-hosts-makeme-visit.html)
-----------------------------------------------------------------------------------------------------------------------------
-
-[![Derry mother and baby wellness classes starting soon](https://www.derrynow.com/resizer/165/93/true/2024_10_28/Screenshot_%28185%29-1730125922324_1730125948.png--.png?1730125948637 "Derry mother and baby wellness classes starting soon")](https://www.derrynow.com/news/local-news/1641561/derry-mother-and-baby-wellness-classes-starting-soon.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry mother and baby wellness classes starting soon](https://www.derrynow.com/news/local-news/1641561/derry-mother-and-baby-wellness-classes-starting-soon.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Oakleaf ABC](https://www.derrynow.com/resizer/165/93/true/2024_10_29/Oakleaf_ABC_boxer_Carleigh_Irving_silver_medal_1-1730220853699.jpg--.jpg?1730220855328 "Oakleaf ABC")](https://www.derrynow.com/news/derry-sport/1642488/oakleaf-s-carleigh-irving-hailed-after-silver-medal-success-in-sofia.html)
-
-Carleigh received a hero's welcome on her return to Oakleaf last week. Pic by Tom Heaney, nwpresspics
+Team Ireland at ISKA World Championship in Austria
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Oakleaf's Carleigh Irving hailed after silver medal success in Sofia](https://www.derrynow.com/news/derry-sport/1642488/oakleaf-s-carleigh-irving-hailed-after-silver-medal-success-in-sofia.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry welcome home four medalists from the ISKA World Championships in Austria](https://www.derrynow.com/news/derry-sport/1643165/derry-welcome-home-four-medalists-from-the-iska-world-championships-in-austria.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Fireworks seized from Bellaghy](https://www.derrynow.com/resizer/165/93/true/2024_10_29/Fireworks281024-1730216878667.jpg--.jpg?1730216879349 "Fireworks seized from Bellaghy")](https://www.derrynow.com/news/county-derry-post/1642406/police-in-magherafelt-have-recovered-a-large-quantity-of-fireworks-that-were-being-sold-illegally.html)
+[![Mid Ulster LMP Multiply Workshops continue in November](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mid Ulster LMP Multiply Workshops continue in November")](https://www.derrynow.com/news/home/1642989/mid-ulster-lmp-multiply-workshops-continue-in-november.html)
 
-Fireworks seized from Bellaghy
+Financial Wellness Advisors who will be supporting the Multiply initiative at the November workshops.
 
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+[Home](https://www.derrynow.com/)
 
-[Police in Magherafelt have recovered a large quantity of fireworks that were being sold illegally.](https://www.derrynow.com/news/county-derry-post/1642406/police-in-magherafelt-have-recovered-a-large-quantity-of-fireworks-that-were-being-sold-illegally.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Mid Ulster LMP Multiply Workshops continue in November](https://www.derrynow.com/news/home/1642989/mid-ulster-lmp-multiply-workshops-continue-in-november.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man admits theft of cigarettes valued at more than £8,000](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry man admits theft of cigarettes valued at more than £8,000")](https://www.derrynow.com/news/crime---courts/1643005/derry-man-admits-theft-of-cigarettes-valued-at-more-than-8-000.html)
+
+[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
+
+[Derry man admits theft of cigarettes valued at more than £8,000](https://www.derrynow.com/news/crime---courts/1643005/derry-man-admits-theft-of-cigarettes-valued-at-more-than-8-000.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Mayor Lillian Seenoi-Barr with children asking questions about Gaza](https://www.derrynow.com/resizer/165/93/true/2024_10_30/original-07378309-D68B-43B3-9C43-9ED5D988E8CE-1730284587876.jpeg--.jpeg?1730284588377 "Mayor Lillian Seenoi-Barr with children asking questions about Gaza")](https://www.derrynow.com/news/derry-news/1642950/derry-children-bring-their-concerns-about-palestine-to-a-press-conference-with-the-mayor.html)
+
+Mayor Lillian Seenoi-Barr with children asking questions about Gaza
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry children bring their concerns about Palestine to a press conference with the Mayor](https://www.derrynow.com/news/derry-news/1642950/derry-children-bring-their-concerns-about-palestine-to-a-press-conference-with-the-mayor.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Woman (36) arrested in connection with sexual assault in Derry](https://www.derrynow.com/resizer/165/93/true/2024_10_30/PSNI_Derry2-1730284966424.jpg--.jpg?1730284966443 "Woman (36) arrested in connection with sexual assault in Derry")](https://www.derrynow.com/news/local-news/1642955/woman-36-arrested-in-connection-with-sexual-assault-in-derry-s-lecky-road-area.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Woman (36) arrested in connection with sexual assault in Derry's Lecky Road area](https://www.derrynow.com/news/local-news/1642955/woman-36-arrested-in-connection-with-sexual-assault-in-derry-s-lecky-road-area.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Drumahoe’s YMCA hosting a craft fair and coffee morning raising funds for local care home](https://www.derrynow.com/resizer/165/93/true/2024_10_29/a-1730207644904.PNG--.PNG?1730207644945 "Drumahoe’s YMCA hosting a craft fair and coffee morning raising funds for local care home")](https://www.derrynow.com/news/derry-news/1642230/drumahoes-ymca-hosting-a-craft-fair-and-coffee-morning-raising-funds-for-local-care-home.html)
+
+Ardlough Care home
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Drumahoe’s YMCA hosting a craft fair and coffee morning raising funds for local care home](https://www.derrynow.com/news/derry-news/1642230/drumahoes-ymca-hosting-a-craft-fair-and-coffee-morning-raising-funds-for-local-care-home.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
