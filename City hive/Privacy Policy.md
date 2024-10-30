@@ -98,7 +98,14 @@
     
     [Get a Demo](https://www.cityhive.net/suppliers/get-a-demo)
     
-* [Partners](https://www.cityhive.net/partners/)
+* [Partners](https://www.cityhive.net/partners)
+    
+    Partners
+    --------
+    
+    * [Partner Program](https://www.cityhive.net/partners/)
+    * [Affiliate Program](https://www.cityhive.net/affiliate-program/)
+    
 * [City Hive](https://www.cityhive.net/)
     
     City Hive
@@ -247,9 +254,9 @@ legal@cityhive.net
 
 ### Partners
 
-* [Become a City Hive Partner](https://www.cityhive.net/partners)
+* [Partner Program](https://www.cityhive.net/partners)
 
-* [Partner Program Details](https://www.cityhive.net/partner-program)
+* [Affiliate Program](https://www.cityhive.net/partner-program)
 
 ### City Hive
 
