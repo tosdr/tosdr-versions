@@ -549,7 +549,7 @@ Tel: +1 (415) 610-5166
 
 Clearco Platform
 
-[Funding Platform](https://clear.co/ecommerce-funding)[**Upload Invoice**](http://my.clearbanc.com/signup)
+[How it works](https://clear.co/ecommerce-funding)[Invoice Funding](https://clear.co/platform/fund-ecommerce-vendor-invoices)[Receipt Funding](https://clear.co/platform/fund-ecommerce-vendor-receipt)[BFCM Funding](https://my.clearbanc.com/?initialScreen=signUp&cb-ex=ex-bfcm2024--)[**Get Funded**](http://my.clearbanc.com/signup)
 
 Ecommerce Funding
 
