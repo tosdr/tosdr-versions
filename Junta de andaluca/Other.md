@@ -68,7 +68,7 @@
     * [Ofertas de empleo](https://ws054.juntadeandalucia.es/eureka2/eureka-demandantes/busquedaOfertas.do?seleccionado=/es/empleo/ofertasEmpleo/ "Ofertas de empleo")
     * [Sistema de Provisión de Interinidades (SIPRI)](https://www.juntadeandalucia.es/educacion/sipri/inicio/ "Sistema de Provisión de Interinidades (SIPRI)")
     * [Cursos de formación estatal para el empleo](https://juntadeandalucia.es/organismos/sae/servicios/cursos-fpe-estatal.html "Cursos de formación estatal para el empleo")
-    * [Procesos selectivos convocados (IAAP)](https://www.juntadeandalucia.es/organismos/iaap/areas/empleo-publico/procesos-selectivos.html?f%5B0%5D=estado%3A13585 "Procesos selectivos convocados (IAAP)")
+    * [Procesos selectivos convocados (IAAP)](https://juntadeandalucia.es/organismos/iaap/areas/empleo-publico/procesos-selectivos.html "Procesos selectivos convocados (IAAP)")
     
 * [Tu salud](https://www.juntadeandalucia.es/temas/salud.html "Tu salud")
     
