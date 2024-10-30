@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/390/power_of_god.jpg "Who Is Luce? The Vatican's New Blue-Haired 'Anime' Mascot Explained")
+* [!['I'll Build My Own Wall' Comic Gets Lampooned In Memes](https://i.kym-cdn.com/featured_items/icons/wide/000/026/408/wall.jpg "'I'll Build My Own Wall' Comic Gets Lampooned In Memes")
     
-    Who Is Luce? The Vatican's New Blue-Haired 'Anime' Mascot Explained](https://knowyourmeme.com/editorials/guides/who-is-luce-the-vaticans-new-blue-haired-anime-mascot-explained)
+    'I'll Build My Own Wall' Comic Gets Lampooned In Memes](https://knowyourmeme.com/memes/ill-build-my-own-wall)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/389/napocover3.jpg "What Is The 'Napoleo' Meme And Where Did It Come From? The Viral Misspelled 'Napoleon' Memes Explained")
+* [![Sabrina Carpenter Creates New TikTok Trend With Her Live Performance Of 'Juno"](https://i.kym-cdn.com/featured_items/icons/wide/000/026/407/1729953428301.png "Sabrina Carpenter Creates New TikTok Trend With Her Live Performance Of 'Juno"")
     
-    What Is The 'Napoleo' Meme And Where Did It Come From? The Viral Misspelled 'Napoleon' Memes Explained](https://knowyourmeme.com/editorials/guides/what-is-the-napoleo-meme-and-where-did-it-come-from-the-viral-misspelled-napoleon-memes-explained)
+    Sabrina Carpenter Creates New TikTok Trend With Her Live Performance Of 'Juno"](https://knowyourmeme.com/memes/sabrina-carpenter-juno-positions-trend)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/388/shirley-temple.jpg "What's The 'Shirley Temple Little Darling DVD Collection' Copypasta? The Cartoon Network Commercial That Became A Meme Explained")
+* [![The Nettspend Rhonda Situation, also known as I Got Racks Now Rhonda, refers to a DM conversation allegedly held between rapper Nettspend and a girl named Rhonda Moore who goes by @rhondagdk on Instagram. In October 2024, Rhonda posted an Instagram story that was a screen recording allegedly of her messages with Nettspend from his official account. The two were seemingly flirting and, at one point, Nettspend messaged her, "I got racks now Rhonda." Rhonda's story was later reposted to Twitter / X along with photos from her Instagram. Fans of Nettspend and underground rap found the ordeal funny because of Rhonda's appearance. Many thought that Nettspend was out of Rhonda's league and the idea of the two being romantically involved at some point seemed absurd. Others joked about how Rhonda texted which involved intentional misspellings like how she replaced vowels with the letter "X" (like using "dxddy" instead of "daddy") or spelled "you" like "yhu." As the story developed, Nettspend started to embrace the situation by tweeting, "I got racks now Rhonda" and saying the catchphrase on stage at a concert.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/406/NETTSPEND-RHONDA.jpg "Rapper Nettspend's Alleged Side Chick Exposed Their Messages In Which He Told Her, 'I Got Racks Now Rhonda'")
     
-    What's The 'Shirley Temple Little Darling DVD Collection' Copypasta? The Cartoon Network Commercial That Became A Meme Explained](https://knowyourmeme.com/editorials/guides/whats-the-shirley-temple-little-darling-dvd-collection-copypasta-the-cartoon-network-commercial-that-became-a-meme-explained)
+    Rapper Nettspend's Alleged Side Chick Exposed Their Messages In Which He Told Her, 'I Got Racks Now Rhonda'](https://knowyourmeme.com/memes/events/nettspend-rhonda-situation-i-got-racks-now-rhonda)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/387/socrazycover.jpg "What Is The 'She's So Crazzzzzzzy Love Her' Meme? The Viral Woman With Chips On Her Head Explained")
+* [![White Man In A Kimono also known as *WMAF In Kimonos* refers to an image of a white man and an Asian woman posing together at a shrine in Japan while wearing Japanese-style kimonos. The image is often used to joke about Japanophiles or weebs, mocking their decision to use Japanese terms for certain anime and manga, and otherwise display their knowledge of Japanese culture.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/405/white_man_japanese_wife.jpg "This White Guy Is A Kimono Has Somehow Become The Posterboy For The Pretentious Japanophile")
     
-    What Is The 'She's So Crazzzzzzzy Love Her' Meme? The Viral Woman With Chips On Her Head Explained](https://knowyourmeme.com/editorials/guides/what-is-the-shes-so-crazy-love-her-meme-the-viral-woman-with-chips-on-her-head-explained)
+    This White Guy Is A Kimono Has Somehow Become The Posterboy For The Pretentious Japanophile](https://knowyourmeme.com/memes/white-man-in-a-kimono)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/386/temp_42c6b1d3-8ab3-4028-b8bf-78f7b92dede9.jpg "Man Cheats On Girlfriend, Says Altitude Made Him Gay In Wild /r/AITAH Post")
+* [![Napoleo meme next to Matt Rose tweet](https://i.kym-cdn.com/featured_items/icons/wide/000/026/404/522.jpg "YouTuber 'Matt Rose' Forces The 'Napoleo' Meme For His Latest video")
     
-    Man Cheats On Girlfriend, Says Altitude Made Him Gay In Wild /r/AITAH Post](https://knowyourmeme.com/news/man-cheats-on-girlfriend-says-altitude-made-him-gay-in-wild-raitah-post)
+    YouTuber 'Matt Rose' Forces The 'Napoleo' Meme For His Latest video](https://knowyourmeme.com/memes/napoleo)
     
 
 ##### Also Trending:
 
-[Dragon Age Veilguard Reviews Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-reviews-controversy "Dragon Age Veilguard Reviews Controversy") [Tim Walz's "Secret Fling" in China](https://knowyourmeme.com/memes/tim-walzs-secret-fling-with-a-chinese-communists-daughter "Tim Walz's "Secret Fling" in China") [Luce the Vatican's Anime Mascot](https://knowyourmeme.com/memes/luce-the-vaticans-anime-mascot "Luce the Vatican's Anime Mascot") [India Poop War (Pidakala War)](https://knowyourmeme.com/memes/events/india-poop-war-pidakala-war "India Poop War (Pidakala War)")
+[Man, HRT Sure Is Amazing](https://knowyourmeme.com/memes/man-hrt-sure-is-amazing "Man, HRT Sure Is Amazing") [Dragon Age Veilguard Reviews Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-reviews-controversy "Dragon Age Veilguard Reviews Controversy") [India Cow Poop War](https://knowyourmeme.com/memes/events/india-poop-war-pidakala-war "India Cow Poop War") [Luce the Vatican's Anime Mascot](https://knowyourmeme.com/memes/luce-the-vaticans-anime-mascot "Luce the Vatican's Anime Mascot")
 
 Privacy Policy
 ==============
@@ -318,7 +318,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hi! You must login or signup first!
+### Namaste! You must login or signup first!
 
 |     |     |
 | --- | --- |
