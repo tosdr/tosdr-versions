@@ -174,9 +174,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Overcoming the privacy pitfalls of GenAI](https://www.onetrust.com/resources/overcoming-the-privacy-pitfalls-of-genai-webinar/)
 * [Revisiting IAPP DPC 2024: Top trends on the latest data protection developments](https://www.onetrust.com/resources/revisiting-iapp-dpc-2024-top-trends-on-the-latest-data-protection-developments-webinar/)
 * [Staying equipped for compliance: A global recap of emerging privacy laws](https://www.onetrust.com/resources/staying-equipped-for-compliance-a-global-recap-of-emerging-privacy-laws-webinar/)
-* [How the EU AI Act and recent FTC enforcements for AI shape data governance](https://www.onetrust.com/resources/how-the-eu-ai-act-and-recent-ftc-enforcements-for-ai-shape-data-governance-white-paper/)
 
 ### Platform
 
@@ -195,9 +195,9 @@ On-demand webinar coming soon...
 
 ### Latest News
 
-* [OneTrust Recognized as Leader in Snowflake’s Modern Marketing Data Stack Report](https://www.onetrust.com/news/onetrust-recognized-as-leader-in-snowflakes-modern-marketing-data-stack-report/)
-* [OneTrust unveils the next generation of DataGuidance Regulatory Research](https://www.onetrust.com/news/onetrust-unveils-the-next-generation-of-dataguidance-regulatory-research/)
-* [OneTrust Automates DORA ICT Risk Management and Compliance](https://www.onetrust.com/news/onetrust-automates-dora-ict-risk-management-and-compliance/)
+* [DBTA Readers Choice Awards](https://www.dbta.com/Editorial/Trends-and-Applications/DBTA-Readers-Choice-Award-Winners-2024-165316.aspx?PageNum=3)
+* [CFO Dive | To drive AI efficiency, CFOs must focus on its ‘fuel’: OneTrust](https://www.cfodive.com/news/drive-ai-efficiency-cfo-focus-onetrust-data-dataprivacy-management-risk/724443/)
+* [Forbes | Bridging ethics, trust, and inclusivity: Three organizations are shaping the future Of responsible AI](https://www.forbes.com/sites/hessiejones/2024/08/28/bridging-ethics-trust-and-inclusivity-three-organizations-are-shaping-the-future-of-responsible-ai/)
 
 ### Contact Us
 
