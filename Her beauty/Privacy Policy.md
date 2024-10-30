@@ -111,11 +111,11 @@ If you have any questions or suggestions regarding this privacy policy, please f
 
 Advertisements
 
+[6 Zodiac Pairings That Just Can’t Live Together (But the Chemistry Is Off the Charts) ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/10/1-4.webp)](https://herbeauty.co/relationships/6-zodiac-pairings-that-just-can-t-live-together-but-the-chemistry-is-off-the-charts/) 
+
 [Lizzo’s Startling Weight Loss Transformation Drops Jaws ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/10/1-3.webp)](https://herbeauty.co/entertainment/lizzo-s-startling-weight-loss-transformation-drops-jaws/) 
 
 [This Kate Middleton Fashion Sparked Inspired A Plastic Surgery Craze ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/10/6-8.jpg)](https://herbeauty.co/entertainment/this-kate-middleton-fashion-sparked-inspired-a-plastic-surgery-craze/) 
-
-[7 Ways To Be More Spontaneous With Your Partner ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/10/3-6.jpg)](https://herbeauty.co/relationships/7-ways-to-be-more-spontaneous-with-your-partner/) 
 
 Advertisements
 
