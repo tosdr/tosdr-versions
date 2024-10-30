@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Tuesday, October 29 2024
+Wednesday, October 30 2024
 
 Latest
 
-* [How to see what’s taking up space on a hard drive on Windows 10](https://digitpatrox.com/how-to-see-whats-taking-up-space-on-a-hard-drive-on-windows-10/)
-* [QLED vs. OLED (and QD-OLED): Which TV Tech Is Right for You?](https://digitpatrox.com/qled-vs-oled-and-qd-oled-which-tv-tech-is-right-for-you/)
-* [Volvo and Polestar EVs Can Now Use Tesla’s Superchargers](https://digitpatrox.com/volvo-and-polestar-evs-can-now-use-teslas-superchargers/)
-* [Microsoft slams Google’s ‘shadow campaigns’ as feud over cloud regulation escalates](https://digitpatrox.com/microsoft-slams-googles-shadow-campaigns-as-feud-over-cloud-regulation-escalates/)
-* [9 Cold Calling Tips That Close Deals Like Clockwork](https://digitpatrox.com/9-cold-calling-tips-that-close-deals-like-clockwork/)
-* [7 best Disney Channel Original Movies for Halloween](https://digitpatrox.com/7-best-disney-channel-original-movies-for-halloween/)
-* [QNAP fixes NAS backup software zero-day exploited at Pwn2Own](https://digitpatrox.com/qnap-fixes-nas-backup-software-zero-day-exploited-at-pwn2own/)
-* [Sony’s noise-canceling XM5s have dropped to one of their best prices yet](https://digitpatrox.com/sonys-noise-canceling-xm5s-have-dropped-to-one-of-their-best-prices-yet/)
-* [Apple Launches Smaller Mac mini with M4 Chips, 64GB RAM, and Thunderbolt 5](https://digitpatrox.com/apple-launches-smaller-mac-mini-with-m4-chips-64gb-ram-and-thunderbolt-5/)
-* [Vendor Spotlight: Fortra](https://digitpatrox.com/vendor-spotlight-fortra/)
+* [Leave the Internet Archive alone! – Computerworld](https://digitpatrox.com/leave-the-internet-archive-alone-computerworld/)
+* [Who is Baba Vanga and Did They Predict the World Is Ending in 2025?](https://digitpatrox.com/who-is-baba-vanga-and-did-they-predict-the-world-is-ending-in-2025/)
+* [How to create Windows 11 bootable USB to bypass requirements with Rufus](https://digitpatrox.com/how-to-create-windows-11-bootable-usb-to-bypass-requirements-with-rufus/)
+* [Household Cleaning Tools: How to Clean and When to Replace](https://digitpatrox.com/household-cleaning-tools-how-to-clean-and-when-to-replace/)
+* [Chrome’s Memory Saver Is Getting Upgraded](https://digitpatrox.com/chromes-memory-saver-is-getting-upgraded/)
+* [Apple is offering rewards of up to $1 million to find critical flaws in its private AI cloud systems](https://digitpatrox.com/apple-is-offering-rewards-of-up-to-1-million-to-find-critical-flaws-in-its-private-ai-cloud-systems/)
+* [A Complete Guide for 2024](https://digitpatrox.com/a-complete-guide-for-2024-2/)
+* [NYT Connections today hints and answers — Wednesday, October 30 (#507)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-wednesday-october-30-507/)
+* [New Windows Themes zero-day gets free, unofficial patches](https://digitpatrox.com/new-windows-themes-zero-day-gets-free-unofficial-patches/)
+* [Reddit is profitable for the first time ever, with nearly 100 million daily users](https://digitpatrox.com/reddit-is-profitable-for-the-first-time-ever-with-nearly-100-million-daily-users/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://pureinfotech.com/wp-content/uploads/2024/02/windows-10-storage-stats-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-see-whats-taking-up-space-on-a-hard-drive-on-windows-10/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3593110-0-96171900-1730208332-1-streaming-archiveorg-100786177-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/leave-the-internet-archive-alone-computerworld/)
     
-    [How to see what’s taking up space on a hard drive on Windows 10](https://digitpatrox.com/how-to-see-whats-taking-up-space-on-a-hard-drive-on-windows-10/)
+    [Leave the Internet Archive alone! – Computerworld](https://digitpatrox.com/leave-the-internet-archive-alone-computerworld/)
     
-    2 mins ago
+    10 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1653001195/prod/content/dam/CRO-Images-2022/Electronics/05May/CR-Tech-InlineHero-TV-Tech-OLED-vs-QLED-0522)](https://digitpatrox.com/qled-vs-oled-and-qd-oled-which-tv-tech-is-right-for-you/)
+* [![](https://lifehacker.com/imagery/articles/01JBB6RGKKKW0296Y19GYRBD1T/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/who-is-baba-vanga-and-did-they-predict-the-world-is-ending-in-2025/)
     
-    [QLED vs. OLED (and QD-OLED): Which TV Tech Is Right for You?](https://digitpatrox.com/qled-vs-oled-and-qd-oled-which-tv-tech-is-right-for-you/)
+    [Who is Baba Vanga and Did They Predict the World Is Ending in 2025?](https://digitpatrox.com/who-is-baba-vanga-and-did-they-predict-the-world-is-ending-in-2025/)
     
-    12 mins ago
+    37 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/26.jpg)](https://digitpatrox.com/volvo-and-polestar-evs-can-now-use-teslas-superchargers/)
+* [![](https://pureinfotech.com/wp-content/uploads/2023/06/rufus-bypass-settings-windows-11-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-create-windows-11-bootable-usb-to-bypass-requirements-with-rufus/)
     
-    [Volvo and Polestar EVs Can Now Use Tesla’s Superchargers](https://digitpatrox.com/volvo-and-polestar-evs-can-now-use-teslas-superchargers/)
+    [How to create Windows 11 bootable USB to bypass requirements with Rufus](https://digitpatrox.com/how-to-create-windows-11-bootable-usb-to-bypass-requirements-with-rufus/)
     
-    15 mins ago
+    58 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/2ZqQxnwLWmkdKsZoNBtY6e-1200-80.jpg)](https://digitpatrox.com/microsoft-slams-googles-shadow-campaigns-as-feud-over-cloud-regulation-escalates/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729707235/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-RR-InlineHero-How-Often-to-Replace-Cleaning-Supplies-1024)](https://digitpatrox.com/household-cleaning-tools-how-to-clean-and-when-to-replace/)
     
-    [Microsoft slams Google’s ‘shadow campaigns’ as feud over cloud regulation escalates](https://digitpatrox.com/microsoft-slams-googles-shadow-campaigns-as-feud-over-cloud-regulation-escalates/)
+    [Household Cleaning Tools: How to Clean and When to Replace](https://digitpatrox.com/household-cleaning-tools-how-to-clean-and-when-to-replace/)
     
     1 hour ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/10/cold-calling-tips-featured-image1-10282024-min.png)](https://digitpatrox.com/9-cold-calling-tips-that-close-deals-like-clockwork/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/chrome2.jpg)](https://digitpatrox.com/chromes-memory-saver-is-getting-upgraded/)
     
-    [9 Cold Calling Tips That Close Deals Like Clockwork](https://digitpatrox.com/9-cold-calling-tips-that-close-deals-like-clockwork/)
+    [Chrome’s Memory Saver Is Getting Upgraded](https://digitpatrox.com/chromes-memory-saver-is-getting-upgraded/)
     
     1 hour ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [2 mins ago
+* [10 mins ago
     
-    ### How to see what’s taking up space on a hard drive on Windows 10](https://digitpatrox.com/how-to-see-whats-taking-up-space-on-a-hard-drive-on-windows-10/)
-* [12 mins ago
+    ### Leave the Internet Archive alone! – Computerworld](https://digitpatrox.com/leave-the-internet-archive-alone-computerworld/)
+* [37 mins ago
     
-    ### QLED vs. OLED (and QD-OLED): Which TV Tech Is Right for You?](https://digitpatrox.com/qled-vs-oled-and-qd-oled-which-tv-tech-is-right-for-you/)
-* [15 mins ago
+    ### Who is Baba Vanga and Did They Predict the World Is Ending in 2025?](https://digitpatrox.com/who-is-baba-vanga-and-did-they-predict-the-world-is-ending-in-2025/)
+* [58 mins ago
     
-    ### Volvo and Polestar EVs Can Now Use Tesla’s Superchargers](https://digitpatrox.com/volvo-and-polestar-evs-can-now-use-teslas-superchargers/)
+    ### How to create Windows 11 bootable USB to bypass requirements with Rufus](https://digitpatrox.com/how-to-create-windows-11-bootable-usb-to-bypass-requirements-with-rufus/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [September 5, 2024
     
-    ### What is Cursor AI, the ChatGPT Replacement for Coding](https://digitpatrox.com/what-is-cursor-ai-the-chatgpt-replacement-for-coding/)
-* [September 20, 2024
+    ### A cyber criminal group behind an MFA bypass operation promised hackers “profit within minutes” – they’re now facing lengthy jail sentences](https://digitpatrox.com/a-cyber-criminal-group-behind-an-mfa-bypass-operation-promised-hackers-profit-within-minutes-theyre-now-facing-lengthy-jail-sentences/)
+* [1 week ago
     
-    ### High wire acts, Microsoft Clippy, and DIY AI at Dreamforce 2024](https://digitpatrox.com/high-wire-acts-microsoft-clippy-and-diy-ai-at-dreamforce-2024/)
-* [7 days ago
+    ### Cruise lost $435 million this quarter, even with its robotaxis on hiatus](https://digitpatrox.com/cruise-lost-435-million-this-quarter-even-with-its-robotaxis-on-hiatus/)
+* [2 weeks ago
     
-    ### My Favorite Way to Motivate Myself to Clean a Bit Every Day](https://digitpatrox.com/my-favorite-way-to-motivate-myself-to-clean-a-bit-every-day/)
+    ### These Sonos Speakers Are Still on Sale at Prime Day Prices](https://digitpatrox.com/these-sonos-speakers-are-still-on-sale-at-prime-day-prices/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### QNAP fixes NAS backup software zero-day exploited at Pwn2Own](https://digitpatrox.com/qnap-fixes-nas-backup-software-zero-day-exploited-at-pwn2own/)
+    ### A Complete Guide for 2024](https://digitpatrox.com/a-complete-guide-for-2024-2/)
 * [2 hours ago
     
-    ### Sony’s noise-canceling XM5s have dropped to one of their best prices yet](https://digitpatrox.com/sonys-noise-canceling-xm5s-have-dropped-to-one-of-their-best-prices-yet/)
-* [2 hours ago
+    ### NYT Connections today hints and answers — Wednesday, October 30 (#507)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-wednesday-october-30-507/)
+* [3 hours ago
     
-    ### Apple Launches Smaller Mac mini with M4 Chips, 64GB RAM, and Thunderbolt 5](https://digitpatrox.com/apple-launches-smaller-mac-mini-with-m4-chips-64gb-ram-and-thunderbolt-5/)
+    ### New Windows Themes zero-day gets free, unofficial patches](https://digitpatrox.com/new-windows-themes-zero-day-gets-free-unofficial-patches/)
 
 Most Viewed Topics
 
-* [August 11, 2024
+* [August 12, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 13, 2024
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+* [August 28, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
