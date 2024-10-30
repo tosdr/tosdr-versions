@@ -36,18 +36,18 @@
         
         Windows 11 24H2: The hardware and software blocking the new update](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-the-hardware-and-software-blocking-the-new-update/)
     
-    * [![Save nearly $199 on this refurbished 2024 Lenovo touchscreen laptop](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Get $20 off Microsoft Office 2024 and ditch those monthly subscriptions](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Save nearly $199 on this refurbished 2024 Lenovo touchscreen laptop](https://www.bleepingcomputer.com/offer/deals/save-nearly-199-on-this-refurbished-2024-lenovo-touchscreen-laptop/)
-    * [![New Windows Themes zero-day gets free, unofficial patches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Get $20 off Microsoft Office 2024 and ditch those monthly subscriptions](https://www.bleepingcomputer.com/offer/deals/get-20-off-microsoft-office-2024-and-ditch-those-monthly-subscriptions/)
+    * [![QNAP patches second zero-day exploited at Pwn2Own to get root](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        New Windows Themes zero-day gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/new-windows-themes-zero-day-gets-free-unofficial-patches/)
-    * [![Massive PSAUX ransomware attack targets 22,000 CyberPanel instances](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        QNAP patches second zero-day exploited at Pwn2Own to get root](https://www.bleepingcomputer.com/news/security/qnap-patches-second-zero-day-exploited-at-pwn2own-to-get-root/)
+    * [![North Korean govt hackers linked to Play ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Massive PSAUX ransomware attack targets 22,000 CyberPanel instances](https://www.bleepingcomputer.com/news/security/massive-psaux-ransomware-attack-targets-22-000-cyberpanel-instances/)
-    * [![This $50 course helps prepare you for four in-demand IT certifications](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        North Korean govt hackers linked to Play ransomware attack](https://www.bleepingcomputer.com/news/security/north-korean-govt-hackers-linked-to-play-ransomware-attack/)
+    * [![Android malware ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        This $50 course helps prepare you for four in-demand IT certifications](https://www.bleepingcomputer.com/offer/deals/this-50-course-helps-prepare-you-for-four-in-demand-it-certifications/)
+        Android malware "FakeCall" now reroutes bank calls to attackers](https://www.bleepingcomputer.com/news/security/android-malware-fakecall-now-reroutes-bank-calls-to-attackers/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -307,12 +307,12 @@ Popular Stories
 * [![SonicWall](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Fog ransomware targets SonicWall VPNs to breach corporate networks](https://www.bleepingcomputer.com/news/security/fog-ransomware-targets-sonicwall-vpns-to-breach-corporate-networks/)
+* [![Windows red](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    New Windows Themes zero-day gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/new-windows-themes-zero-day-gets-free-unofficial-patches/)
 * [![Exchange Online](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Exchange Online adds Inbound DANE with DNSSEC for everyone](https://www.bleepingcomputer.com/news/microsoft/exchange-online-adds-inbound-dane-with-dnssec-for-everyone/)
-* [![free](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Free, France’s second largest ISP, confirms data breach after leak](https://www.bleepingcomputer.com/news/security/free-frances-second-largest-isp-confirms-data-breach-after-leak/)
 
 ##### Follow us:
 
