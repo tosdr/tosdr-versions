@@ -83,7 +83,7 @@ City Business Information
   
 [Start a Business](http://www.readingpa.gov/index.php/starting-a-business) [Permits, Apps, Licenses](http://www.readingpa.gov/index.php/permits-applications-licenses) [PMI AND Codes](http://www.readingpa.gov/index.php/codes-property-maintenance-and-enforcement) [Building & Trades Codes](http://www.readingpa.gov/index.php/building-and-trades-codes-enforcement) [Zoning and Planning](http://www.readingpa.gov/index.php/zoning-and-planning) [Tax Rates and Forms](https://www.readingpa.gov/index.php/tax-rates-forms-and-instructions) [Historical Preservation](http://www.readingpa.gov/index.php/histortic-preservation) [PA 1 CALL](https://www.pa1call.org/)
 
-Search ...    
+SearchSearch ...    
 
 [![](/images/cor21small.png)](https://www.readingpa.gov/)
 
