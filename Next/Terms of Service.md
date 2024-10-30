@@ -1,6 +1,6 @@
 5.39.2
 
-1730299220970
+1730320418517
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.16.0
 
-1730299950113
+1730320497492
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1730300529234
+1730320866584
 
 You need to enable JavaScript to run this app.
 
@@ -482,11 +482,11 @@ The taking of payment from you by Next under any of the means set out above or i
 
  Credit Account Terms and Conditions
 
-### Nextpay Credit Account
+### nextpay Credit Account
 
 **Representative 24.9% APR variable.**
 
-[Click here](https://xcdn.next.co.uk/pdfs/Directory-Card-Credit-Agreement.04.21.pdf) for the current unpersonalised terms and conditions. These terms are correct at today’s date and are subject to change. You will be presented with a credit agreement containing full terms and conditions if you apply for a Nextpay Credit Account. If you require copies of previous terms, please call our contact centre on 0333 777 8247#.
+[Click here](https://xcdn.next.co.uk/pdfs/Directory-Card-Credit-Agreement.04.21.pdf) for the current unpersonalised terms and conditions. These terms are correct at today’s date and are subject to change. You will be presented with a credit agreement containing full terms and conditions if you apply for a nextpay Credit Account. If you require copies of previous terms, please call our contact centre on 0333 777 8247#.
 
 ### pay in 3 Credit Account
 
@@ -516,7 +516,7 @@ Online
 
 **nextpay**
 
-You can use a Nextpay credit account online through the following retailers websites:
+You can use a nextpay credit account online through the following retailers websites:
 
 \- Next.co.uk
 
@@ -544,7 +544,7 @@ You can use a pay in 3 credit account online through the following retailers web
 
 **In store**
 
-The use of a Nextpay card (formally known as Directory Card) or the Nextpay in-app digi card is available to use exclusively at Next Retail Ltd stores.
+The use of a nextpay card (formally known as Directory Card) or the nextpay in-app digi card is available to use exclusively at Next Retail Ltd stores.
 
 Please note the redemption of the 10% welcome offer to credit applies only to Next.co.uk.
 
@@ -655,16 +655,6 @@ Item will be added to basket at discounted price.
 
 Offer available while stocks last.
 
-### £44 off Selected GHD Promotion
-
-Up to £44 off on selected GHD products.
-
-Discounted price visible on product listing page and product already includes saving.
-
-Item will be added to basket at discounted price.
-
-Offer available while stocks last.
-
 ### Viktor & Rolf Promotion
 
 The Viktor & Rolf Gift will be automatically added to bag when you buy any selected Viktor & Rolf Fragrance. The Viktor & Rolf Gift contains:
@@ -698,16 +688,6 @@ The promotion can only be used by the account holder and you must be logged in t
 This offer is not available to staff.
 
 Offer applies while stocks last.
-
-### 3 Wick Candles for £20 Selected Bath and Body Works Promotion
-
-Selected Bath and Body Works 3 wick candles for £20.
-
-Discounted price visible on product listing page and product already includes saving.
-
-Item will be added to basket at discounted price.
-
-Offer available while stocks last.
 
 ### Estée Lauder Promotion
 
@@ -1681,7 +1661,7 @@ Details of the competition winner will be available for 14 days after the compet
 
 The full subscription will be activated on sign up. At the time of subscription, the charge for the 1st box will be taken at checkout.
 
-The cost of the 2nd and 3rd boxes will be automatically charged to your credit account at the time of dispatch and will show on your statement as a separate charge. If you do not pay the full balance on your NextPay account by the date set out in your statement (or such later date as we may allow) you will be charged interest at the Standard rate, on each item, from the day after we expect you to receive said items. If you do not have sufficient available credit on your account your subscription will be cancelled and no further boxes will be received.
+The cost of the 2nd and 3rd boxes will be automatically charged to your credit account at the time of dispatch and will show on your statement as a separate charge. If you do not pay the full balance on your nextpay account by the date set out in your statement (or such later date as we may allow) you will be charged interest at the Standard rate, on each item, from the day after we expect you to receive said items. If you do not have sufficient available credit on your account your subscription will be cancelled and no further boxes will be received.
 
 You can cancel your subscription of box 2 and 3 within the first 14 days of purchase by contacting our call centre on 0333 777 8000. After this time, cancellation of the subscription will not be possible. If you are unhappy with the products for any reason you can return for a full refund subject to the limitations set out in our standard T&Cs [www.next.co.uk/terms](https://www.next.co.uk/terms)
 
@@ -2674,7 +2654,7 @@ You need to enable JavaScript to run this app.
 
 3.16.0
 
-1730299779898
+1730321131177
 
 ### Our Social Networks
 
