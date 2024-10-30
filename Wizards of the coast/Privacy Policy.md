@@ -485,7 +485,6 @@ Legal
 * [Code of Conduct](https://company.wizards.com/en/legal/code-conduct)
 * [Privacy Policy](https://company.wizards.com/en/legal/wizards-coasts-privacy-policy)
 * [Customer Support](https://support.wizards.com/)
-* [Cookies](https://company.wizards.com/en/legal/cookie)
 * [Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy)
 * [DO NOT SELL OR SHARE MY PERSONAL INFORMATION](https://company.wizards.com/legal/wizards-coasts-privacy-policy#donotsell)
 * [Affiliate Program Disclosure](https://company.wizards.com/en/affiliate-program-disclosure)
@@ -493,7 +492,3 @@ Legal
 [](https://shop.hasbro.com/)[](https://www.esrb.org/EPCConfirm/916/)
 
 © 1993-2024 Wizards of the Coast LLC, a subsidiary of Hasbro, Inc. All Rights Reserved.
-
-We use necessary cookies to allow our site to function correctly and collect anonymous session data. Necessary cookies can be opted out through your browser settings. We also use optional cookies to personalize content and ads, provide social medial features and analyze web traffic. By clicking “OK, I agree,” you consent to optional cookies. ([Learn more about cookies](http://company.wizards.com/en/legal/cookie))
-
-Ok, I agree No, thanks
