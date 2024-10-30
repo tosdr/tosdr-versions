@@ -1,11 +1,5 @@
 [Zu Inhalt springen](#site-main)
 
-[](https://www.twitch.tv/talkpointgmbh)
-
-Live Preisvergleich heute 9 Uhr - einschalten lohnt sich!
-
-Live Preisvergleich heute 9 Uhr - einschalten lohnt sich!
-
 Menü
 
 [![Talk-Point Logo Transparent](//talk-point.de/cdn/shop/files/tplogo1_1016x150.png?v=1637826898)](https://talk-point.de/)
