@@ -133,9 +133,9 @@
             
             video
             
-            ##### LevelBlue. Cybersecurity. Simplified.
+            ##### LevelBlue Managed Detection and Response
             
-            [Learn more](https://cybersecurity.att.com/resource-center/videos/levelblue-cybersecurity-simplified)
+            [Learn more](https://cybersecurity.att.com/resource-center/videos/levelblue-managed-detection-and-response)
             
             [View all Videos](https://www.alienvault.com/resource-center#content_video)
             
