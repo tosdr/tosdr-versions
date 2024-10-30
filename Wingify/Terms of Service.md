@@ -23,9 +23,7 @@
     Capabilities
     
     * Testing
-        
     * Behavior Analytics
-        
     
     * [Personalization](https://vwo.com/personalization/)
     * [Web Rollouts](https://vwo.com/deploy/)
