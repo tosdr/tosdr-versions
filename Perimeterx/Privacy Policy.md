@@ -148,6 +148,12 @@ X
             
             [Videos and content about HUMAN expertise and industry intelligence](https://www.humansecurity.com/learn/webinars)
             
+        * [Glossary
+            
+            Explore terms and topics to better support and protect your business.](https://www.humansecurity.com/glossary)
+            
+            [Explore terms and topics to better support and protect your business.](https://www.humansecurity.com/glossary)
+            
     * * [Resource Center
             
             Blogs, whitepapers, research, videos, articles—all in one place](https://www.humansecurity.com/learn/resources)
@@ -177,74 +183,6 @@ X
             Get the insights you need to protect your business from bots](https://www.humansecurity.com/products/human-insights/bot-insights-services)
             
             [Get the insights you need to protect your business from bots](https://www.humansecurity.com/products/human-insights/bot-insights-services)
-            
-    * * [Account Takeover](https://www.humansecurity.com/learn/topics/what-is-account-takeover)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-account-takeover)
-            
-        * [Ad Fraud](https://www.humansecurity.com/topics/what-is-ad-fraud)
-            
-            [](https://www.humansecurity.com/topics/what-is-ad-fraud)
-            
-        * [Application Security](https://www.humansecurity.com/learn/topics/what-is-application-security)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-application-security)
-            
-        * [Blocking Bots](https://www.humansecurity.com/learn/topics/what-is-bot-traffic)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-bot-traffic)
-            
-        * [Bots](https://www.humansecurity.com/learn/topics/what-is-a-bot)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-a-bot)
-            
-        * [Bot Detection](https://www.humansecurity.com/learn/topics/what-is-bot-detection)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-bot-detection)
-            
-        * [Brute Force Attack](https://www.humansecurity.com/learn/topics/what-is-a-brute-force-attack)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-a-brute-force-attack)
-            
-        * [Captcha](https://www.humansecurity.com/learn/topics/what-is-a-captcha)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-a-captcha)
-            
-        * [Carding](https://www.humansecurity.com/learn/topics/what-is-carding)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-carding)
-            
-        * [Credential Stuffing](https://www.humansecurity.com/learn/topics/what-is-credential-stuffing)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-credential-stuffing)
-            
-        * [E-commerce Security](https://www.humansecurity.com/learn/topics/what-is-e-commerce-security)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-e-commerce-security)
-            
-        * [Fake Account Creation](https://www.humansecurity.com/learn/topics/what-is-fake-account-creation)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-fake-account-creation)
-            
-        * [PCI DSS Compliance](https://www.humansecurity.com/learn/topics/what-is-pci-dss-compliance)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-pci-dss-compliance)
-            
-        * [PII Harvesting](https://www.humansecurity.com/learn/topics/what-is-pii-harvesting)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-pii-harvesting)
-            
-        * [Shadow Code](https://www.humansecurity.com/learn/topics/what-is-shadow-code)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-shadow-code)
-            
-        * [Supply Chain Attack](https://www.humansecurity.com/learn/topics/what-are-supply-chain-attacks)
-            
-            [](https://www.humansecurity.com/learn/topics/what-are-supply-chain-attacks)
-            
-        * [Web Scraping](https://www.humansecurity.com/learn/topics/what-is-scraping)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-scraping)
             
     
 * Company
@@ -470,6 +408,12 @@ X
             
             [Videos and content about HUMAN expertise and industry intelligence](https://www.humansecurity.com/learn/webinars)
             
+        * [Glossary
+            
+            Explore terms and topics to better support and protect your business.](https://www.humansecurity.com/glossary)
+            
+            [Explore terms and topics to better support and protect your business.](https://www.humansecurity.com/glossary)
+            
     * * [Resource Center
             
             Blogs, whitepapers, research, videos, articles—all in one place](https://www.humansecurity.com/learn/resources)
@@ -499,74 +443,6 @@ X
             Get the insights you need to protect your business from bots](https://www.humansecurity.com/products/human-insights/bot-insights-services)
             
             [Get the insights you need to protect your business from bots](https://www.humansecurity.com/products/human-insights/bot-insights-services)
-            
-    * * [Account Takeover](https://www.humansecurity.com/learn/topics/what-is-account-takeover)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-account-takeover)
-            
-        * [Ad Fraud](https://www.humansecurity.com/topics/what-is-ad-fraud)
-            
-            [](https://www.humansecurity.com/topics/what-is-ad-fraud)
-            
-        * [Application Security](https://www.humansecurity.com/learn/topics/what-is-application-security)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-application-security)
-            
-        * [Blocking Bots](https://www.humansecurity.com/learn/topics/what-is-bot-traffic)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-bot-traffic)
-            
-        * [Bots](https://www.humansecurity.com/learn/topics/what-is-a-bot)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-a-bot)
-            
-        * [Bot Detection](https://www.humansecurity.com/learn/topics/what-is-bot-detection)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-bot-detection)
-            
-        * [Brute Force Attack](https://www.humansecurity.com/learn/topics/what-is-a-brute-force-attack)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-a-brute-force-attack)
-            
-        * [Captcha](https://www.humansecurity.com/learn/topics/what-is-a-captcha)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-a-captcha)
-            
-        * [Carding](https://www.humansecurity.com/learn/topics/what-is-carding)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-carding)
-            
-        * [Credential Stuffing](https://www.humansecurity.com/learn/topics/what-is-credential-stuffing)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-credential-stuffing)
-            
-        * [E-commerce Security](https://www.humansecurity.com/learn/topics/what-is-e-commerce-security)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-e-commerce-security)
-            
-        * [Fake Account Creation](https://www.humansecurity.com/learn/topics/what-is-fake-account-creation)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-fake-account-creation)
-            
-        * [PCI DSS Compliance](https://www.humansecurity.com/learn/topics/what-is-pci-dss-compliance)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-pci-dss-compliance)
-            
-        * [PII Harvesting](https://www.humansecurity.com/learn/topics/what-is-pii-harvesting)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-pii-harvesting)
-            
-        * [Shadow Code](https://www.humansecurity.com/learn/topics/what-is-shadow-code)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-shadow-code)
-            
-        * [Supply Chain Attack](https://www.humansecurity.com/learn/topics/what-are-supply-chain-attacks)
-            
-            [](https://www.humansecurity.com/learn/topics/what-are-supply-chain-attacks)
-            
-        * [Web Scraping](https://www.humansecurity.com/learn/topics/what-is-scraping)
-            
-            [](https://www.humansecurity.com/learn/topics/what-is-scraping)
             
     
 * Company
