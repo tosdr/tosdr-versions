@@ -93,7 +93,7 @@ Submit
     
     Industries
     
-    * [Ecommerce & Retail](https://newrelic.com/solutions/industry/retail-and-ecommerce-monitoring)
+    * [Retail & Ecommerce](https://newrelic.com/solutions/industry/retail-and-ecommerce-monitoring)
     * [Healthcare](https://newrelic.com/solutions/industry/healthcare)
     * [Media & Entertainment](https://newrelic.com/solutions/industry/digital-media-monitoring)
     * [New Relic for Startups](https://newrelic.com/solutions/industry/startups)
@@ -109,17 +109,17 @@ Submit
     * [Prometheus Monitoring](https://newrelic.com/solutions/prometheus-monitoring)
     * [SAP Monitoring](https://newrelic.com/solutions/sap)
     
+    [![gartner mq 2024 icon](/sites/default/files/2024-10/gartner-report-icon.svg)
+    
+    Named a Leader
+    
+    Learn why in the 2024 Gartner® Magic Quadrant™ for Digital Experience Monitoring (DEM).](https://newrelic.com/resources/gartner-magic-quadrant-dem)
+    
     [![o11y 2024  icon](/sites/default/files/2024-10/o11y2024-icon.svg)
     
     2024 Observability Forecast
     
     Power your decisions with invaluable observability insights! Read the report.](https://newrelic.com/resources/report/observability-forecast/2024)
-    
-    [![Kubernetes icon](/sites/default/files/2024-04/kubernates.svg)
-    
-    Scale with Ease
-    
-    Discover how Achievers boosted Kubernetes performance 4x for improved scalability and throughput with New Relic.](https://newrelic.com/blog/how-to-relic/load-testing-kubernetes-achievers)
     
     [![nr now white](/sites/default/files/2024-09/LOGO-white.svg)
     
@@ -171,7 +171,7 @@ Submit
     
     [View All Docs View All Docs](https://docs.newrelic.com/)
     
-    750+ Integrations
+    775+ Integrations
     
     Start now for free.
     
@@ -260,11 +260,11 @@ Submit
     
     The future of observability is coming. Get a sneak peek on 10/31. RSVP now.](https://newrelic.com/event/new-relic-now)
     
-    [![Infrastructure](/sites/default/files/2024-04/2-infrastructure.svg)
+    [![gartner mq 2024 icon](/sites/default/files/2024-10/gartner-report-icon.svg)
     
-    Consolidate Monitoring
+    New Relic is furthest in vision.
     
-    Learn how a unified platform for APM and infrastructure monitoring can streamline operations and reduce costs.](https://newrelic.com/resources/ebooks/single-platform-infrastructure-monitoring-apm)
+    Download the 2024 Gartner® Magic Quadrant™ for Digital Experience Monitoring (DEM).](https://newrelic.com/resources/gartner-magic-quadrant-dem)
     
     1
     
