@@ -1,5 +1,3 @@
-Our Livonia Newburgh ATM is currently unavailable. Please visit ZealCU.org/Locations to locate the closest Zeal and network ATMs.
-
 * [Careers](https://www.zealcu.org/careers/ "Careers")
 
 Routing Number: 272477694
@@ -549,10 +547,6 @@ Phone: [(800) 321-8570 Ext. 7400](tel:8003218570.7400)
 
 E-mail: [\[email protected\]](https://www.zealcu.org/cdn-cgi/l/email-protection)
 
-##### Our Newburgh location ATM is currently unavailable.
-
-Our Livonia Newburgh ATM is currently unavailable. Please visit ZealCU.org/Locations to locate the closest Zeal and network ATMs.
-
 ##### Leaving This Site
 
 You are now leaving the Zeal Credit Union web site. Zeal Credit Union is not responsible for the content or privacy practices of those websites that it does not operate and our Internet Privacy Policy does not apply to those websites. To remain at our site, click CLOSE. To leave our site for the link you selected, click ACCEPT. Thank you for visiting our site.
@@ -599,7 +593,7 @@ Help us personalize our site for you!
 * First Name 
 * Location
     
-    Choose your branch Allen Park Allen Park Drive-Thru Dearborn Detroit Livonia - Middlebelt Rd. Livonia - Newburgh Rd. Lyon Crossing | Coming Soon! Southfield Southgate Taylor Walled Lake Westland Woodhaven
+    Choose your branch Allen Park Allen Park Drive-Thru Dearborn Detroit Livonia - Middlebelt Rd. Livonia - Newburgh Rd. Lyon Crossing | Now Open! Southfield Southgate Taylor Walled Lake Westland Woodhaven
     
 * What are you here for?
     
