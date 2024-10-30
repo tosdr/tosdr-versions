@@ -56,11 +56,11 @@ Original Submission Date Received: .
 
 You seem to have javascript disabled. Please note that many of the page functionalities won't work as expected without javascript enabled.
 
-[![](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1729763647 "MDPI Open Access Journals")](https://www.mdpi.com/)
+[![](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1729780257 "MDPI Open Access Journals")](https://www.mdpi.com/)
 
 [_clear_](#) [_zoom\_out\_map_](https://www.mdpi.com/toggle_desktop_layout_cookie "Toggle desktop layout") [_search_](#) [_menu_](# "MDPI main page")
 
-[![](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1729763647 "MDPI Open Access Journals")](https://www.mdpi.com/)
+[![](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1729780257 "MDPI Open Access Journals")](https://www.mdpi.com/)
 
 * [Journals](https://www.mdpi.com/about/journals)
     * * [Active Journals](https://www.mdpi.com/about/journals)
@@ -329,11 +329,19 @@ You can withdraw your consent to the sending of the newsletter at any time and u
 
 We pass on at least some of your data that we collect in accordance with the aforementioned paragraphs to processors. These process your data only on our instructions and not for their own purposes (Art. 28, 19, GDPR). These are companies that can be assigned to the following categories:
 
-\- Third party online databases, or platforms or indexing & abstracting services to share article data as published on mdpi.com
-
-\- Affiliates of MDPI to fulfill MDPI’s services and contractual obligations
-
 5.2
+
+Third party tools, websites, and providers of tools or services engaged by MDPI to sup-port submission checks and processing, peer-review, the editorial process, integrity in-vestigations and/or scientific communication
+
+5.3
+
+Third party online databases, or platforms or indexing & abstracting services to share article data as published on mdpi.com
+
+5.4
+
+Affiliates of MDPI to fulfill MDPI’s services and contractual obligations
+
+5.5
 
 If we transfer data to recipients in a third country (located outside the European Economic Area, “EEA”), we will only do so if there is an adequate data protection level in accordance with Art. 44 - 50 GDPR. Some third countries are certified by the European Commission through so-called adequacy decisions as having a data protection standard that is comparable to the level in the European Economic Area. You can find a list of these countries at https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions\_en. If a country does not have a comparable data protection standard, we ensure that data protection is sufficiently guaranteed by other measures. This is possible, for example, through binding corporate rules, standard contractual clauses of the European Commission for the protection of personal data, certificates or recognised codes of conduct. Otherwise, we do not transfer your personal data to countries outside the EU or the EEA or to international organisations, unless expressly stated otherwise in this privacy policy.
 
@@ -362,7 +370,7 @@ Please send your written request to MDPI AG, Grosspeteranlage 5, 4052 Basel, Swi
 
 You also have the right to complain to a data protection supervisory authority about our processing of your personal data.
 
-This Privacy Policy was last updated on 18 July 2024.
+This Privacy Policy was last updated on 30 October 2024.
 
 ### Further Information
 
@@ -380,7 +388,7 @@ This Privacy Policy was last updated on 18 July 2024.
 
 [LinkedIn](https://www.linkedin.com/company/mdpi) [Facebook](https://www.facebook.com/MDPIOpenAccessPublishing) [Twitter](https://twitter.com/MDPIOpenAccess)
 
-![MDPI](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-white-small.png?71d18e5f805839ab?1729763647 "MDPI Open Access Journals")
+![MDPI](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-white-small.png?71d18e5f805839ab?1729780257 "MDPI Open Access Journals")
 
 Subscribe to receive issue release notifications and newsletters from MDPI journals
 
