@@ -128,39 +128,39 @@ Advertisement
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
-* [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
+* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
     
-    Diary of a Porn Virgin
+    The Beginning and the End of the Universe
     
-    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
+    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
 
 ###### Throwback Documentaries
 
-* [![I Love My Bicycle](/wp-content/thumbnails/5560-100x70.jpg?x53432)
+* [![The U.S. vs. John Lennon](/wp-content/thumbnails/2888-100x70.jpg?x53432)
     
-    I Love My Bicycle
+    The U.S. vs. John Lennon
     
-    17-year-old Steve Crandall started a company called Fat Bald Men (FBM). It began as selling t-shirts type of thing and later turned into one of the most respected DIY bike companies in existence. This](https://documentaryheaven.com/i-love-my-bicycle/ "I Love My Bicycle")
-* [![Why You Do This](/wp-content/thumbnails/6341-100x70.jpg?x53432)
+    A fascinating account of a relatively unknown piece of political history. Before the Iraq war and the Bush Administration, there was John Lennon, who used his fame and fortune to protest the Vietnam W](https://documentaryheaven.com/the-u-s-vs-john-lennon/ "The U.S. vs. John Lennon")
+* [![Children’s Past Lives](/wp-content/thumbnails/14656-100x70.jpg?x53432)
     
-    Why You Do This
+    Children’s Past Lives
     
-    This documentary is a personal story told from the perspective of satellite engineer and vocalist Michael Dafferner, who is a member of an unknown "math-core" metal band called Car Bomb. In 2007 Micha](https://documentaryheaven.com/why-you-do-this/ "Why You Do This")
-* [![After the Virus](/wp-content/thumbnails/16451-100x70.jpg?x53432)
+    Around the world children from different backgrounds and religions have described a life they have lived before. The belief in the survival of the soul in an ancient one but the fact that these childr](https://documentaryheaven.com/childrens-past-lives/ "Children’s Past Lives")
+* [![Money, Banking, and The Federal Reserve System](/wp-content/thumbnails/2172-100x70.jpg?x53432)
     
-    After the Virus
+    Money, Banking, and The Federal Reserve System
     
-    Humanity is going through the largest health crises in more than a century as the coronavirus (Covid-19) has killed nearly 2 million people globally, brought turmoil to the world economy, and caused](https://documentaryheaven.com/after-the-virus/ "After the Virus")
-* [![The Secret Life of Elliot Rodger](/wp-content/thumbnails/12675-100x70.jpg?x53432)
+    Thomas Jefferson and Andrew Jackson understood “The Monster”. But to most Americans today, Federal Reserve is just a name on the dollar bill. They have no idea of what the central bank does to the eco](https://documentaryheaven.com/money-banking-and-the-federal-reserve-system/ "Money, Banking, and The Federal Reserve System")
+* [![The Greatest Raid of All](/wp-content/thumbnails/7822-100x70.jpg?x53432)
     
-    The Secret Life of Elliot Rodger
+    The Greatest Raid of All
     
-    On May 23, 2014, in Isla Vista, California, a young man named Elliot Rodger took it upon himself to kill 6 people and injure 14 more near the campus of University of California, Santa B](https://documentaryheaven.com/secret-life-of-elliot-rodger/ "The Secret Life of Elliot Rodger")
-* [![Millau Sky Bridge](/wp-content/thumbnails/6416-100x70.jpg?x53432)
+    What a story it is, straight out of a Commando comic book." the guardian Jeremy Clarkson tells the story of one of the most daring operations of World War II, the Commando raid on the German occupied](https://documentaryheaven.com/greatest-raid/ "The Greatest Raid of All")
+* [![Streets of Plenty](/wp-content/thumbnails/4210-100x70.jpg?x53432)
     
-    Millau Sky Bridge
+    Streets of Plenty
     
-    Richard Hammond reveals the engineering inspirations behind the tallest road bridge in the world – the Millau Viaduct in France.He fires three quarters of a million volts from his fingertips to se](https://documentaryheaven.com/millau-sky-bridge/ "Millau Sky Bridge")
+    An unprecedented look into the underworld of Vancouver’s downtown east-side ghetto. This 65 minute documentary follows one man’s 30 day experiment of joining the thousands of homeless, ill, and addict](https://documentaryheaven.com/streets-of-plenty/ "Streets of Plenty")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
