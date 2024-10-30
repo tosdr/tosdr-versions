@@ -13,7 +13,7 @@
     
     #### What’s Right for Me?
     
-    [Digitize Any Videotapes](https://www.capture.com/products/video-conversion-service) [Videotape Conversion Resources](https://www.capture.com/blogs/video) [Get a Free Instant Quote](https://www.capture.com/pages//free-quote)  
+    [Digitize Any Videotapes](https://www.capture.com/products/video-conversion-service) [Videotape Conversion Resources](https://www.capture.com/blogs/video) [Get a Free Instant Quote](https://www.capture.com/pages/free-quote)  
     [Shop All Video Formats](https://www.capture.com/pages/video-transfer-service)
     
     #### Popular Formats
@@ -22,7 +22,7 @@
     
     #### What’s Right for Me?
     
-    [Digitize Any Videotapes](https://www.capture.com/products/video-conversion-service) [Videotape Conversion Resources](https://www.capture.com/blogs/video) [Get a Free Instant Quote](https://www.capture.com/pages//free-quote)  
+    [Digitize Any Videotapes](https://www.capture.com/products/video-conversion-service) [Videotape Conversion Resources](https://www.capture.com/blogs/video) [Get a Free Instant Quote](https://www.capture.com/pages/free-quote)  
     [Start an Order](https://www.capture.com/products/video-conversion-service)
     
     ![](//www.capture.com/cdn/shop/files/MegaMenu_video2x.jpg?v=1709060786&width=400)
@@ -43,7 +43,7 @@
     
     #### What’s Right for Me?
     
-    [Digitize Any Films](https://www.capture.com/products/film-transfer) [Film Transfer Resources](https://www.capture.com/blogs/film) [Get a Free Instant Quote](https://www.capture.com/pages//free-quote)  
+    [Digitize Any Films](https://www.capture.com/products/film-transfer) [Film Transfer Resources](https://www.capture.com/blogs/film) [Get a Free Instant Quote](https://www.capture.com/pages/free-quote)  
       
       
     [Shop All Film Formats](https://www.capture.com/pages/transfer-film-to-digital)
@@ -54,7 +54,7 @@
     
     #### What's Right For Me?
     
-    [Digitize Any Films](https://www.capture.com/products/film-transfer) [View All Film Formats](https://www.capture.com/pages/transfer-film-to-digital) [Film Transfer Resources](https://www.capture.com/blogs/film) [Get a Free Instant Quote](https://www.capture.com/pages//free-quote)  
+    [Digitize Any Films](https://www.capture.com/products/film-transfer) [View All Film Formats](https://www.capture.com/pages/transfer-film-to-digital) [Film Transfer Resources](https://www.capture.com/blogs/film) [Get a Free Instant Quote](https://www.capture.com/pages/free-quote)  
     [Start an Order](https://www.capture.com/products/film-transfer)
     
     ![](//www.capture.com/cdn/shop/files/MegaMenu_Film2x.jpg?v=1681842932&width=400)
@@ -75,7 +75,7 @@
     
     #### What’s Right for Me?
     
-    [Digitize Any Photos](https://www.capture.com/products/photo-digitization) [Photo Digitization Resources](https://www.capture.com/blogs/photo) [Get a Free Instant Quote](https://www.capture.com/pages//free-quote)  
+    [Digitize Any Photos](https://www.capture.com/products/photo-digitization) [Photo Digitization Resources](https://www.capture.com/blogs/photo) [Get a Free Instant Quote](https://www.capture.com/pages/free-quote)  
     [Shop All Photo Formats](https://www.capture.com/pages/scan-photos-to-digital)
     
     #### Popular Formats
@@ -84,7 +84,7 @@
     
     #### What’s Right for Me?
     
-    [Digitize Any Photos](https://www.capture.com/products/photo-digitization) [View All Photo Formats](https://www.capture.com/pages/scan-photos-to-digital) [photo Digitization Resources](https://www.capture.com/blogs/photo) [Get a Free Instant Quote](https://www.capture.com/pages//free-quote)  
+    [Digitize Any Photos](https://www.capture.com/products/photo-digitization) [View All Photo Formats](https://www.capture.com/pages/scan-photos-to-digital) [photo Digitization Resources](https://www.capture.com/blogs/photo) [Get a Free Instant Quote](https://www.capture.com/pages/free-quote)  
     [Start an Order](https://www.capture.com/products/photo-digitization)
     
     ![](//www.capture.com/cdn/shop/files/MegaMenu_Photo2x.jpg?v=1681842923&width=400)
@@ -105,7 +105,7 @@
     
     #### What’s Right for Me?
     
-    [Digitize Any Digital Device](https://www.capture.com/products/digital-scanning) [Digital Devices Digitization Resources](https://www.capture.com/blogs/insights) [Get a Free Instant Quote](https://www.capture.com/pages//free-quote)  
+    [Digitize Any Digital Device](https://www.capture.com/products/digital-scanning) [Digital Devices Digitization Resources](https://www.capture.com/blogs/insights) [Get a Free Instant Quote](https://www.capture.com/pages/free-quote)  
       
       
     [Shop All Digital Devices Formats](https://www.capture.com/pages/digital-scanning-service)
@@ -116,7 +116,7 @@
     
     #### What’s Right for Me?
     
-    [Digitize Any Digital Device](https://www.capture.com/products/digital-scanning) [View All Digital Devices Formats](https://www.capture.com/pages/digital-scanning-service) [Digital Devices Digitization Resources](https://www.capture.com/blogs/insights) [Get a Free Instant Quote](https://www.capture.com/pages//free-quote)  
+    [Digitize Any Digital Device](https://www.capture.com/products/digital-scanning) [View All Digital Devices Formats](https://www.capture.com/pages/digital-scanning-service) [Digital Devices Digitization Resources](https://www.capture.com/blogs/insights) [Get a Free Instant Quote](https://www.capture.com/pages/free-quote)  
     [Start an Order](https://www.capture.com/products/digital-scanning)
     
     ![](//www.capture.com/cdn/shop/files/MegaMenu_DM2x.jpg?v=1681842895&width=400)
@@ -132,7 +132,7 @@
     #### Touchless Album Scanning
     
     [Explore Album Scanning](https://www.capture.com/pages/scan-photo-album) This service scans the entire album to transfer physical photos to downloadable formats, without the need to remove photos.  
-    [Get a Free Instant Quote](https://www.capture.com/pages//free-quote)
+    [Get a Free Instant Quote](https://www.capture.com/pages/free-quote)
     
     [Shop Album Scanning](https://www.capture.com/products/photo-album-scanning-service)
     
@@ -171,7 +171,7 @@
     
     #### What’s Right for Me?
     
-    [Digitize Any Videotapes](https://www.capture.com/products/video-conversion-service) [Videotape Conversion Resources](https://www.capture.com/blogs/video) [Get a Free Instant Quote](https://www.capture.com/pages//free-quote)  
+    [Digitize Any Videotapes](https://www.capture.com/products/video-conversion-service) [Videotape Conversion Resources](https://www.capture.com/blogs/video) [Get a Free Instant Quote](https://www.capture.com/pages/free-quote)  
     [Shop All Video Formats](https://www.capture.com/pages/video-transfer-service)
     
     #### Popular Formats
@@ -180,7 +180,7 @@
     
     #### What’s Right for Me?
     
-    [Digitize Any Videotapes](https://www.capture.com/products/video-conversion-service) [Videotape Conversion Resources](https://www.capture.com/blogs/video) [Get a Free Instant Quote](https://www.capture.com/pages//free-quote)  
+    [Digitize Any Videotapes](https://www.capture.com/products/video-conversion-service) [Videotape Conversion Resources](https://www.capture.com/blogs/video) [Get a Free Instant Quote](https://www.capture.com/pages/free-quote)  
     [Start an Order](https://www.capture.com/products/video-conversion-service)
     
     ![](//www.capture.com/cdn/shop/files/MegaMenu_video2x.jpg?v=1709060786&width=400)
@@ -199,7 +199,7 @@
     
     #### What’s Right for Me?
     
-    [Digitize Any Films](https://www.capture.com/products/film-transfer) [Film Transfer Resources](https://www.capture.com/blogs/film) [Get a Free Instant Quote](https://www.capture.com/pages//free-quote)  
+    [Digitize Any Films](https://www.capture.com/products/film-transfer) [Film Transfer Resources](https://www.capture.com/blogs/film) [Get a Free Instant Quote](https://www.capture.com/pages/free-quote)  
       
       
     [Shop All Film Formats](https://www.capture.com/pages/transfer-film-to-digital)
@@ -210,7 +210,7 @@
     
     #### What's Right For Me?
     
-    [Digitize Any Films](https://www.capture.com/products/film-transfer) [View All Film Formats](https://www.capture.com/pages/transfer-film-to-digital) [Film Transfer Resources](https://www.capture.com/blogs/film) [Get a Free Instant Quote](https://www.capture.com/pages//free-quote)  
+    [Digitize Any Films](https://www.capture.com/products/film-transfer) [View All Film Formats](https://www.capture.com/pages/transfer-film-to-digital) [Film Transfer Resources](https://www.capture.com/blogs/film) [Get a Free Instant Quote](https://www.capture.com/pages/free-quote)  
     [Start an Order](https://www.capture.com/products/film-transfer)
     
     ![](//www.capture.com/cdn/shop/files/MegaMenu_Film2x.jpg?v=1681842932&width=400)
@@ -229,7 +229,7 @@
     
     #### What’s Right for Me?
     
-    [Digitize Any Photos](https://www.capture.com/products/photo-digitization) [Photo Digitization Resources](https://www.capture.com/blogs/photo) [Get a Free Instant Quote](https://www.capture.com/pages//free-quote)  
+    [Digitize Any Photos](https://www.capture.com/products/photo-digitization) [Photo Digitization Resources](https://www.capture.com/blogs/photo) [Get a Free Instant Quote](https://www.capture.com/pages/free-quote)  
     [Shop All Photo Formats](https://www.capture.com/pages/scan-photos-to-digital)
     
     #### Popular Formats
@@ -238,7 +238,7 @@
     
     #### What’s Right for Me?
     
-    [Digitize Any Photos](https://www.capture.com/products/photo-digitization) [View All Photo Formats](https://www.capture.com/pages/scan-photos-to-digital) [photo Digitization Resources](https://www.capture.com/blogs/photo) [Get a Free Instant Quote](https://www.capture.com/pages//free-quote)  
+    [Digitize Any Photos](https://www.capture.com/products/photo-digitization) [View All Photo Formats](https://www.capture.com/pages/scan-photos-to-digital) [photo Digitization Resources](https://www.capture.com/blogs/photo) [Get a Free Instant Quote](https://www.capture.com/pages/free-quote)  
     [Start an Order](https://www.capture.com/products/photo-digitization)
     
     ![](//www.capture.com/cdn/shop/files/MegaMenu_Photo2x.jpg?v=1681842923&width=400)
@@ -257,7 +257,7 @@
     
     #### What’s Right for Me?
     
-    [Digitize Any Digital Device](https://www.capture.com/products/digital-scanning) [Digital Devices Digitization Resources](https://www.capture.com/blogs/insights) [Get a Free Instant Quote](https://www.capture.com/pages//free-quote)  
+    [Digitize Any Digital Device](https://www.capture.com/products/digital-scanning) [Digital Devices Digitization Resources](https://www.capture.com/blogs/insights) [Get a Free Instant Quote](https://www.capture.com/pages/free-quote)  
       
       
     [Shop All Digital Devices Formats](https://www.capture.com/pages/digital-scanning-service)
@@ -268,7 +268,7 @@
     
     #### What’s Right for Me?
     
-    [Digitize Any Digital Device](https://www.capture.com/products/digital-scanning) [View All Digital Devices Formats](https://www.capture.com/pages/digital-scanning-service) [Digital Devices Digitization Resources](https://www.capture.com/blogs/insights) [Get a Free Instant Quote](https://www.capture.com/pages//free-quote)  
+    [Digitize Any Digital Device](https://www.capture.com/products/digital-scanning) [View All Digital Devices Formats](https://www.capture.com/pages/digital-scanning-service) [Digital Devices Digitization Resources](https://www.capture.com/blogs/insights) [Get a Free Instant Quote](https://www.capture.com/pages/free-quote)  
     [Start an Order](https://www.capture.com/products/digital-scanning)
     
     ![](//www.capture.com/cdn/shop/files/MegaMenu_DM2x.jpg?v=1681842895&width=400)
@@ -282,7 +282,7 @@
     #### Touchless Album Scanning
     
     [Explore Album Scanning](https://www.capture.com/pages/scan-photo-album) This service scans the entire album to transfer physical photos to downloadable formats, without the need to remove photos.  
-    [Get a Free Instant Quote](https://www.capture.com/pages//free-quote)
+    [Get a Free Instant Quote](https://www.capture.com/pages/free-quote)
     
     [Shop Album Scanning](https://www.capture.com/products/photo-album-scanning-service)
     
