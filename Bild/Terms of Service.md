@@ -205,6 +205,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+Flut-Katastrophe in Spanien: Schon mehr als 60 Tote ++ Regierung: Nie dagewesene Katastrophe
+
+Flut-Katastrophe in Spanien: Schon mehr als 60 Tote ++ Regierung: Nie dagewesene Katastrophe
+
+Flut-Katastrophe in Spanien: Schon mehr als 60 Tote ++ Regierung: Nie dagewesene Katastrophe
+
+Flut-Katastrophe in Spanien: Schon mehr als 60 Tote ++ Regierung: Nie dagewesene Katastrophe
+
+Flut-Katastrophe in Spanien: Schon mehr als 60 Tote ++ Regierung: Nie dagewesene Katastrophe
+
+Flut-Katastrophe in Spanien: Schon mehr als 60 Tote ++ Regierung: Nie dagewesene Katastrophe
+
+Flut-Katastrophe in Spanien: Schon mehr als 60 Tote ++ Regierung: Nie dagewesene Katastrophe
+
+Flut-Katastrophe in Spanien: Schon mehr als 60 Tote ++ Regierung: Nie dagewesene Katastrophe
+
+Flut-Katastrophe in Spanien: Schon mehr als 60 Tote ++ Regierung: Nie dagewesene Katastrophe
+
+Flut-Katastrophe in Spanien: Schon mehr als 60 Tote ++ Regierung: Nie dagewesene Katastrophe](https://www.bild.de/news/ausland/katastrophe-in-spanien-zahl-der-flut-toten-auf-63-gestiegen-6722186cb54ff317ce96af6c)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
