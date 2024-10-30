@@ -130,7 +130,7 @@ Careers
 
 We're Hiring!
 
-Careers overview and current job openings](https://getdivvy.com/about-us/careers)
+Careers overview and current job openings](https://getdivvy.com/careers)
 
 About BILL
 
