@@ -402,23 +402,11 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![SeaQuest in Fort Worth shuts down amid animal cruelty investigation](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/icarus-achilles-1-e1730224486961.jpg?ve=1&tl=1)
+ [![Convicted stalker from Plano accused of harassing more SMU female students](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/ian-smith-dallas-co-prior-mugs.jpg?ve=1&tl=1)
 
- ![SeaQuest in Fort Worth shuts down amid animal cruelty investigation](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/icarus-achilles-1-e1730224486961.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/seaquest-fort-worth-shuts-down-animal-cruelty-investigation)
+ ![Convicted stalker from Plano accused of harassing more SMU female students](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/ian-smith-dallas-co-prior-mugs.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ian-smith-smu-student-harrassment)
 
-### [SeaQuest in Fort Worth shuts down amid animal cruelty investigation](https://www.fox4news.com/news/seaquest-fort-worth-shuts-down-animal-cruelty-investigation)
-
- [![Comedy icon Teri Garr, known for roles in 'Young Frankenstein' and 'Tootsie,' dies](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-179821573-a.jpg?ve=1&tl=1)
-
- ![Comedy icon Teri Garr, known for roles in 'Young Frankenstein' and 'Tootsie,' dies](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-179821573-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/comedy-icon-teri-garr-known-roles-young-frankenstein-tootsie-dies)
-
-### [Comedy icon Teri Garr, known for roles in 'Young Frankenstein' and 'Tootsie,' dies](https://www.fox4news.com/news/comedy-icon-teri-garr-known-roles-young-frankenstein-tootsie-dies)
-
- [![12 arrested in Texas, 6 kilos of cocaine seized in bust](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/12-charged-in-lubbock-cocaine-bust.jpg?ve=1&tl=1)
-
- ![12 arrested in Texas, 6 kilos of cocaine seized in bust](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/12-charged-in-lubbock-cocaine-bust.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/12-arrested-texas-6-kilos-cocaine-seized-bust)
-
-### [12 arrested in Texas, 6 kilos of cocaine seized in bust](https://www.fox4news.com/news/12-arrested-texas-6-kilos-cocaine-seized-bust)
+### [Convicted stalker from Plano accused of harassing more SMU female students](https://www.fox4news.com/news/ian-smith-smu-student-harrassment)
 
  [![1 week until Election Day: Here's how Harris, Trump are making their final pitches](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/trump-harris-2.jpg?ve=1&tl=1)
 
@@ -426,11 +414,23 @@ Please note that, in some instances, we may decline to honor your request where,
 
 ### [1 week until Election Day: Here's how Harris, Trump are making their final pitches](https://www.fox4news.com/news/1-week-until-election-day-harris-trump-pitches)
 
- [![Infant care costs roughly 10% of a family's annual income in nearly all states, study finds](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/day-care-center.jpg?ve=1&tl=1)
+ [![Why Election Day is on a Tuesday in November: A look at US voting tradition](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1057350054.jpg?ve=1&tl=1)
 
- ![Infant care costs roughly 10% of a family's annual income in nearly all states, study finds](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/day-care-center.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/infant-care-costs-family-annual-income)
+ ![Why Election Day is on a Tuesday in November: A look at US voting tradition](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1057350054.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/why-election-day-is-on-a-tuesday)
 
-### [Infant care costs roughly 10% of a family's annual income in nearly all states, study finds](https://www.fox4news.com/news/infant-care-costs-family-annual-income)
+### [Why Election Day is on a Tuesday in November: A look at US voting tradition](https://www.fox4news.com/news/why-election-day-is-on-a-tuesday)
+
+ [![First week of early voting turnout in North Texas more favorable to Republicans, expert says](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/s-dial-early-voting-trends-4p_00.00.44.46.jpg?ve=1&tl=1)
+
+ ![First week of early voting turnout in North Texas more favorable to Republicans, expert says](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/s-dial-early-voting-trends-4p_00.00.44.46.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/early-voting-trends-more-favorable-republicans-expert-says)
+
+### [First week of early voting turnout in North Texas more favorable to Republicans, expert says](https://www.fox4news.com/news/early-voting-trends-more-favorable-republicans-expert-says)
+
+ [![Newly engaged woman killed in Fort Worth wrong-way crash; fiance was lone survivor](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-dionne-nw-loop-820-fatal-wrong-way-crash_00.00.10.54.jpg?ve=1&tl=1)
+
+ ![Newly engaged woman killed in Fort Worth wrong-way crash; fiance was lone survivor](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-dionne-nw-loop-820-fatal-wrong-way-crash_00.00.10.54.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/chelsea-cook-evan-ranallo-nw-loop-820-wrong-way-crash-october-27)
+
+### [Newly engaged woman killed in Fort Worth wrong-way crash; fiance was lone survivor](https://www.fox4news.com/news/chelsea-cook-evan-ranallo-nw-loop-820-wrong-way-crash-october-27)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
