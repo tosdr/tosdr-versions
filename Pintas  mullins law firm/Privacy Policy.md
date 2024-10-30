@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How much money is left in the asbestos trust fund?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-how-much-money-is-left-in-the-asbestos-trust-fund.jpg "How Much Money Is Left in the Asbestos Trust Fund?")](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund "How Much Money Is Left in the Asbestos Trust Fund?")
+[![Is talcum powder a carcinogen?](https://www.pintas.com/wp-content/uploads/2020/07/shutterstock_447728962-scaled.jpg "Is Talcum Powder A Carcinogen?")](https://www.pintas.com/lung-cancer/is-talcum-powder-a-carcinogen/ "Is Talcum Powder A Carcinogen?")
 
-[#### How Much Money Is Left in the Asbestos Trust Fund?](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund)
+[#### Is Talcum Powder A Carcinogen?](https://www.pintas.com/lung-cancer/is-talcum-powder-a-carcinogen/)
 
-[![Proving cancer from talcum: legal insights](https://www.pintas.com/wp-content/uploads/2020/06/talcum-powder-how-can-an-ovarian-cancer-lawyer-prove-that-my-cancer-came-from-talcum-powder.jpg "Proving Cancer from Talcum: Legal Insights")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/how-to-prove-cancer-came-from-talcum-powder "Proving Cancer from Talcum: Legal Insights")
+[![Are falls a sign of assisted living neglect?](https://www.pintas.com/wp-content/uploads/2021/03/elderly-lady-sitting-on-floor-300x200.jpg "Are Falls a Sign of Assisted Living Neglect?")](https://www.pintas.com/faq/are-falls-a-sign-of-assisted-living-neglect/ "Are Falls a Sign of Assisted Living Neglect?")
 
-[#### Proving Cancer from Talcum: Legal Insights](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/how-to-prove-cancer-came-from-talcum-powder)
+[#### Are Falls a Sign of Assisted Living Neglect?](https://www.pintas.com/faq/are-falls-a-sign-of-assisted-living-neglect/)
 
-[![Is asbestos harmful to skin?](https://www.pintas.com/wp-content/uploads/2020/11/lung-cancer-lawyer-is-asbestos-harmful-to-skin.jpg "Is Asbestos Harmful to Skin?")](https://www.pintas.com/practice-areas/lung-cancer/is-asbestos-harmful-to-skin/ "Is Asbestos Harmful to Skin?")
+[![What is early stage lung cancer?](https://www.pintas.com/wp-content/uploads/2020/09/chicago-personal-injury-lawyer-what-is-early-stage-lung-cancer-scaled.jpg "What Is Early Stage Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/early-stage-lung-cancer "What Is Early Stage Lung Cancer?")
 
-[#### Is Asbestos Harmful to Skin?](https://www.pintas.com/practice-areas/lung-cancer/is-asbestos-harmful-to-skin/)
+[#### What Is Early Stage Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/early-stage-lung-cancer)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
