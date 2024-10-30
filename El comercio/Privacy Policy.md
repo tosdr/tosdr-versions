@@ -31,6 +31,239 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cajero automático de una farmacia fue extraído con explosivos
+=============================================================
+
+La Policía realiza investigaciones para dar con los responsables del robo suscitado este miércoles 30 de octubre.
+-----------------------------------------------------------------------------------------------------------------
+
+![Un robo con explosivos se registró en el sector de las 4 Esquinas, en Llano Grande.](https://www.elcomercio.com/wp-content/uploads/2024/10/Llano-Grande.jpg)
+
+En redes sociales se conoció del **robo de un cajero automático** durante la madrugada de este miércoles 30 de octubre, en Quito.
+
+### Más noticias
+
+* [Pico y placa se suspende en Quito por cinco días](https://www.elcomercio.com/actualidad/quito/pico-y-placa-se-suspende-en-quito-por-cinco-dias.html "Pico y placa se suspende en Quito por cinco días")
+* [Dos ríos están desbordados y siete, en crecimiento](https://www.elcomercio.com/actualidad/dos-rios-estan-desbordados-y-siete-en-crecimiento.html "Dos ríos están desbordados y siete, en crecimiento")
+* [Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito](https://www.elcomercio.com/actualidad/quito/trafico-quito-nuevos-cierres-av-6-de-diciembre-colon-orellana.html "Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito")
+
+El atraco con explosivos
+------------------------
+
+Vecinos de Llano Grande, **norte de Quito,** se alarmaron por el estallido que escucharon alrededor de las 03:15 de hoy, en el barrio 4 Esquinas.
+
+Al salir a revisar constataron que la explosión había ocurrido **en una farmacia del sector.** Las puertas de lánfor se encontraban desprendidas y destruidas en las afueras del local.
+
+El propósito del estallido fue sacar un **cajero automático** que se encontraba en el interior. Así lo consiguieron y se llevaron el artefacto electrónico.
+
+Los moradores se mostraron preocupados por la **inseguridad que se vive en Quito,** donde ya es fácil robar un cajero automático y llevárselo con tranquilidad.
+
+Los vecinos piden más resguardo policial en las **calles de la ciudad,** más aún con la oscuridad que se vive con los cortes de luz.
+
+La Policía Nacional investiga el hecho
+--------------------------------------
+
+La **Policía Nacional** acudió de inmediato a brindar asistencia y a realizar pericias investigativas que permitan esclarecer el hecho delictivo.
+
+Según la versión de los moradores, sujetos se llevaron el artefacto en una camioneta negra.
+
+El interior de la farmacia quedó destruido y lleno de escombros.
+
+El coronel Giovani Maldonado, jefe del **Distrito de la Policía Calderón**, señaló que no se conoce cuál es el monto aproximado que contenía el cajero. Los antisociales se llevaron la bóveda completa.
+
+Mediante labores investigativas, la Policía **dio con la camioneta negra** en la que se trasladaban los sujetos ,pero no hallaron a los [ocupantes.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+Los uniformados buscan a los **implicados en este delito**.
+
+Según información preliminar, **no se registraron personas heridas** ni fallecidas en el incidente.
+
+Alan Franco y su regreso triunfal al Atlético Mineiro con la final de la Libertadores
+=====================================================================================
+
+Después de casi una década, un jugador ecuatoriano volverá a disputar una final de la Copa Libertadores.
+--------------------------------------------------------------------------------------------------------
+
+![Alan Franco clasificó a la final de la Copa Libertadores 2024 con el Atlético Mineiro.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-44.jpg)
+
+**Alan** **Franco** logró su revancha con **Atlético Mineiro**. Tras fichar con el ‘Galo’ en 2020, donde comenzó con buen pie, pero luego perdió protagonismo, Franco tuvo que salir cedido. Sin embargo, su regreso ha sido triunfal: es ahora una de las figuras del equipo que clasificó a la final de la **Copa Libertadores.**
+
+La noche del martes 29 de octubre, **Franco** aseguró su lugar en el partido por el título del torneo más importante del continente. Atlético Mineiro **eliminó a River Plat**e tras golear 3-0 en casa y empatar sin goles en el Estadio Monumental de Buenos Aires.
+
+### Más noticias:
+
+* [Alan Franco está a las puertas de una final de Copa Libertadores](https://www.elcomercio.com/deportes/futbol/alan-franco-esta-a-las-puertas-de-una-final-de-copa-libertadores.html "Alan Franco está a las puertas de una final de Copa Libertadores")
+* [(Video) Alan Franco tuvo un tierno gesto en la Copa Libertadores](https://www.elcomercio.com/deportes/futbol/alan-franco-tuvo-un-tierno-gesto-en-la-copa-libertadores.html "(Video) Alan Franco tuvo un tierno gesto en la Copa Libertadores")
+* [Alan Franco y Atlético Mineiro golean a River Plate en la Copa Libertadores](https://www.elcomercio.com/deportes/futbol/alan-franco-atletico-mineiro-golean-river-plate-copa-libertadores.html "Alan Franco y Atlético Mineiro golean a River Plate en la Copa Libertadores")
+
+Con este logro, Atlético Mineiro alcanzó su objetivo principal de la temporada y cerró un mes de octubre lleno de éxitos. Además de su clasificación a la final de la **Libertadores**, el equipo también obtuvo un lugar en la final de la **Copa de Brasil**, el torneo más lucrativo del país, con Franco como una pieza clave.
+
+La revancha de Alan Franco en Atlético Mineiro
+----------------------------------------------
+
+**Alan Steven Franco Palma** nació el 21 de agosto de 1998 en Alfredo Baquerizo, provincia del Guayas. Desde los 16 años se unió a **Independiente del Valle**, donde se formó y debutó en 2016. En 2018 se consolidó en el primer equipo, siendo figura en la primera Copa Sudamericana ganada por el club, lo que le valió su transferencia a Atlético Mineiro, uno de los grandes de Sudamérica.
+
+Su **aventura en el ‘Galo’ empezó con éxito en 2020**. A sus 22 años se ganó la titularidad y anotó tres goles, pero para la temporada siguiente, a pesar de los éxitos colectivos al ganar la liga y la Copa, Franco **perdió espacio en el equipo.**
+
+![Alan Franco celebra su primer gol con Talleres de Córdoba. Foto: Twitter @CATalleresdecba.](https://www.elcomercio.com/wp-content/uploads/2022/06/10-10-700x391.jpg)
+
+Al no ser indispensable, fue cedido primero al Charlotte FC de la MLS, donde solo permaneció seis meses, y luego a **Talleres** de Argentina. Con la ‘T’, Franco demostró su calidad, se ganó la titularidad y dejó una gran impresión, lo que le permitió regresar a Brasil a mediados de 2023 en busca de su revancha.
+
+En 2023, **Franco jugó 18 partidos para Atlético Mineiro**, alternando entre titularidades y suplencias bajo las órdenes de Luiz Felipe Scolari. Pero su verdadera revancha llegó en 2024 con la llegada de **Gabriel** **Milito** al banquillo. El técnico argentino le devolvió la titularidad, y el **ecuatoriano respondió en la cancha**, convirtiéndose en un pilar fundamental y ganándose el aprecio de la afición.
+
+Este 2024 se ha consolidado como uno de los jugadores clave de Mineiro, con **45 partidos en el año**, la mayoría como titular, y la oportunidad de disputar las finales de la Copa de Brasil y la **Libertadores**.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/08/ENDRICK-PALMEIRAS-2024-08-20T213041.427.jpg)
+
+Alan Franco en la Copa Libertadores
+-----------------------------------
+
+**Franco ha sido fundamental para Atlético Mineiro** en esta Copa Libertadores, disputando los 11 partidos y siendo titular en 10 de ellos. Solo se ausentó en la última fecha de la fase de grupos, cuando el equipo ya estaba clasificado para los octavos de final.
+
+En cuanto a sus estadísticas, Franco tiene una precisión de pases del 89%, ha realizado seis pases clave y ha contribuido notablemente en defensa. Sus logros **incluyen ocho intercepciones, 12 entradas, más de 41 balones recuperados** y un 48% de duelos ganados. Su calificación general en el torneo es de 6.82, según SofaScore.
+
+Ya son 62 los fallecidos por las inundaciones en Valencia, España
+=================================================================
+
+La cifra de fallecidos es aún provisional. El rey Felipe VI ha mostrado su pésame y ha pedido precaución a la ciudadanía.
+-------------------------------------------------------------------------------------------------------------------------
+
+![Varias personas transitan por la CV-36 entre Valencia y Paiporta cuando el tráfico se encuentra cortado en gran parte de las carreteras de la provincia.](https://www.elcomercio.com/wp-content/uploads/2024/10/inundaciones-Valencia.jpg)
+
+La cifra de **personas fallecidas** en las **inundaciones de Valencia** asciende ya a 62, según el último balance ofrecido por el Centro de Coordinación de Emergencias este miércoles 30 de octubre de 2024.
+
+### Más noticias
+
+* [Torrenciales lluvias en España dejan muertos, desaparecidos e inundaciones](https://www.elcomercio.com/actualidad/torrenciales-lluvias-en-espana-dejan-muertos-desaparecidos-e-inundaciones.html "Torrenciales lluvias en España dejan muertos, desaparecidos e inundaciones")
+* [España incauta el mayor cargamento de droga de su historia](https://www.elcomercio.com/actualidad/mundo/espana-mayor-cargamento-droga-ecuador.html "España incauta el mayor cargamento de droga de su historia")
+* [ONU acusa al Gobierno de Venezuela de crímenes de lesa humanidad en elecciones 2024](https://www.elcomercio.com/actualidad/mundo/onu-acusa-gobierno-venezolano-de-crimenes-de-lesa-humanidad-en-elecciones-2024.html "ONU acusa al Gobierno de Venezuela de crímenes de lesa humanidad en elecciones 2024")
+
+La cifra de fallecidos es provisional
+-------------------------------------
+
+Las mismas fuentes han precisado que se trata de **una cifra provisional**, dentro del balance efectuado con la información recibida de los distintos cuerpos y fuerzas de seguridad y emergencias. Estos son los servicios de auxilio que están participando en atender **los efectos de esta catástrofe**.
+
+El proceso de levantamiento **e identificación de las personas fallecida**s continúa y está activado desde este martes por la noche el Procedimiento de Múltiples Víctimas. Esto ante la previsión de que las inundaciones ocasionadas por la Dana dejaran **varias víctimas mortales**.
+
+Poco a poco se van conociendo más detalles de los **devastadores efectos** de este episodio de lluvias, ante la que el presidente del Gobierno de España, Pedro Sánchez, ha garantizado que no se va a “dejar solos” a los afectados. El **rey Felipe VI ha mostrado su pésame** y ha pedido precaución a la ciudadanía.
+
+La cifra de fallecidos es aún provisional
+-----------------------------------------
+
+Por ejemplo, el desbordamiento del **barranco del Poyo** a su paso por **Aldaia** causó la muerte de tres personas que residían en viviendas de planta baja colindantes al barranco. Esto según ha explicado el alcalde, Enrique Luján, que afirmó que la avenida de agua fue como **“un tsunami”.**
+
+La alcaldesa de Paiporta, **Maribel Albalat**, aseguró que podrían tener **“decenas” de personas fallecidas** a consecuencia de la Dana. También indicó que la localidad, ubicada a diez kilómetros de Valencia, está **totalmente incomunicad**a y no funciona nada.
+
+La **cifra provisional de fallecidos** supera a la que ocasionó la rotura de la presa de Tous (Valencia) en 1982, cuando hubo 38 fallecidos. Mientras, **los servicios de emergencias** se afanan para poder llegar a las zonas más afectadas, que [permanecen incomunicadas](https://es.wikipedia.org/wiki/Espa%C3%B1a "https://es.wikipedia.org/wiki/Espa%C3%B1a") desde ayer.
+
+En Ecuador, los mecánicos celebran un día dedicado a su profesión 
+==================================================================
+
+El Día del Mecánico se celebra el 30 de octubre en Ecuador.
+-----------------------------------------------------------
+
+![Los mecánicos en Ecuador son fundamentales para el progreso de las empresas. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-Mecanico-Ecuador.jpg)
+
+El **Día del Mecánico**, de acuerdo con la página [MyCarReady](https://mycaready.com/taller/blog/24-de-febrero-el-dia-del-mecanico "https://mycaready.com/taller/blog/24-de-febrero-el-dia-del-mecanico"), se estableció el 24 de febrero de 1947, gracias a una solicitud del secretario del Sindicato de Mecánicos de Argentina, **Adolfo García**. Actualmente, esta efeméride se celebra en varios países de América Latina. En Ecuador, el día escogido para festejar a estos profesionales es el **30 de octubre de cada año**. 
+
+### Más noticias
+
+* [Un año sin Matthew Perry y Jennifer Aniston y Courteney Cox reviven momentos inolvidables](https://www.elcomercio.com/tendencias/entretenimiento/matthew-perry-jennifer-aniston-courteney-cox.html "https://www.elcomercio.com/tendencias/entretenimiento/matthew-perry-jennifer-aniston-courteney-cox.html")
+* [Sean ‘Diddy’ Combs suma otra denuncia aterradora](https://www.elcomercio.com/tendencias/entretenimiento/diddy-combs-agresiones-escalofriantes-denuncia-nueva.html "https://www.elcomercio.com/tendencias/entretenimiento/diddy-combs-agresiones-escalofriantes-denuncia-nueva.html")
+
+**Importancia del Día del Mecánico Ecuatoriano** 
+-------------------------------------------------
+
+El **Día del Mecánico Ecuatoriano**, para **Gorky Reyes**, coordinador Académico de la Escuela de Ingeniería Automotriz UIDE, es una ocasión que **rinde tributo a los expertos responsables de asegurar el adecuado funcionamiento de equipos y maquinaria** en distintos sectores industriales. 
+
+**Contribución a la industria** 
+--------------------------------
+
+Esta labor, crucial para el **progreso y la competitividad de las empresas**, abarca desde el mantenimiento de vehículos y maquinarias hasta la **automatización y optimización de procesos en la industria manufacturera**. En Ecuador, siguiendo con Reyes, donde la eficiencia industrial y tecnológica es fundamental para la matriz productiva, l**os mecánicos desempeñan un papel clave**. 
+
+**Formación profesional en Ecuador** 
+-------------------------------------
+
+Varias instituciones educativas en Ecuador ofrecen **programas relacionados con el ámbito industrial**. Esto sirve para formar profesionales que puedan **desarrollar habilidades técnicas**, innovadoras y de resolución de problemas. La educación brindada en estas instituciones permite a los **futuros mecánicos** adquirir conocimientos avanzados en diseño, análisis estructural, termodinámica y sistemas automatizados, preparándolos para enfrentar los retos de la industria contemporánea, según Reyes.  
+
+**Diversificación de la matriz productiva** 
+--------------------------------------------
+
+La **matriz productiva ecuatoriana**, para Reyes, busca **diversificar la economía**. Se pretende reducir la **dependencia del petróleo** y fortalecer otros sectores como la agricultura, la industria y el turismo.
+
+Los **mecánicos en Ecuador** contribuyen a esta visión mediante la **innovación tecnológica**, la optimización de procesos y el **mantenimiento preventivo de maquinaria** que respalda la producción en diversas áreas. Al fomentar el desarrollo de sectores como la manufactura y la industria agropecuaria, los mecánicos ecuatorianos apoyan directamente el fortalecimiento de una economía más diversificada y resiliente. 
+
+**Valoración de los mecánicos** 
+--------------------------------
+
+El **Día del Mecánico en Ecuador** representa una oportunidad para valorar el aporte de estos profesionales a la sociedad. Su formación les permite trabajar en múltiples áreas industriales, lo que respalda así el **crecimiento económico del país** y su integración en la economía global. 
+
+Así funciona el Pico y placa en Quito este miércoles 30 de octubre
+==================================================================
+
+Cuatro contraflujos se realizan como medidas simultáneas para controlar el flujo vehicular, además del Pico y placa
+-------------------------------------------------------------------------------------------------------------------
+
+![Los agentes metropolitanos vigilan el cumplimiento de la medida en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Pico-foto.jpg)
+
+El **Municipio de Quito** implementó la medida de **Pico y placa en Quito** para controlar el flujo vehicular dentro de la ciudad.
+
+### Más noticias
+
+* [Así funcionará el Metro de Quito durante el feriado](https://www.elcomercio.com/actualidad/quito/asi-funcionara-metro-de-quito-durante-feriado.html "Así funcionará el Metro de Quito durante el feriado")
+* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
+* [Dos ríos están desbordados y siete, en crecimiento](https://www.elcomercio.com/actualidad/dos-rios-estan-desbordados-y-siete-en-crecimiento.html "Dos ríos están desbordados y siete, en crecimiento")
+
+¿Cómo se aplica el Pico y placa?
+--------------------------------
+
+La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
+
+La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
+
+Este **miércoles,** no pueden circular los autos con **placas terminadas en dígitos 5 y 6.**
+
+Contraflujos y Pico y placa en Quito
+------------------------------------
+
+Como medida adicional **al Pico y placa**, para que el tránsito tenga mayor fluidez en horas pico, la Agencia Metropolitana de Tránsito (AMT) también aplica **cuatro contraflujos en Quito**, estos son:
+
+–**Avenida Mariscal Sucre:** desde el cementerio de San Diego hasta la avenida Universitaria.
+
+Mañana: 06:30 a 07:00 y de 07:30 a 08:00
+
+Tarde: 16:30 a 17:00 y 17:30 a 18:00
+
+–**Autopista General Rumiñahui:** desde la av. Pichincha, en El Trébol, hasta el sector de Cuscungo, en la autopista.
+
+Mañana: 06:30 a 07:30 y de 08:00 a 08:30
+
+Tarde: 16:30 a 19:30
+
+–**Avenida Velasco Ibarra** (Oriental): en la mañana desde la avenida Napo hasta la av. Velasco Ibarra (La Tola). En la tarde, desde el coliseo Rumiñahui hasta La Tola.
+
+Mañana: 06:00 a 08:30
+
+Tarde: 17:00 a 19:00
+
+– **Túnel Guayasamín:** desde la av. Guayasamín y av. Simón Bolívar hasta la av. 6 de Diciembre y av. Oswaldo Guayasamín y viceversa en la tarde.
+
+Mañana: 07:00 a 08:30
+
+Tarde: de 16:00 a 19:30
+
+Mantente atento a estos contraflujos y a los **horarios de Pico y placa** en Quito y [evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+> ⏰ Conoce los horarios y los tramos de los contraflujos que hay en la ciudad.  
+>   
+> 👮‍♂️ Conduce con precaución, respeta las normas y llega seguro a tu destino.  
+>   
+> 🤝 Juntos llegamos sin contratiempos.  
+>   
+> ☀️[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/nfehiI0uUO](https://t.co/nfehiI0uUO)
+> 
+> — AMTQuito (@AMT\_Quito) [October 22, 2024](https://twitter.com/AMT_Quito/status/1848669582912897155?ref_src=twsrc%5Etfw)
+
 Quito envía un mensaje a sus vecinos para el feriado
 ====================================================
 
@@ -65,6 +298,26 @@ Si el Centro Histórico no convence, el **noroccidente de Quito** tiene la famos
 
 Es posible que salga renovado y, posiblemente, motivado, el mensaje que Quito quiere enviar a sus hijos y vecinos en este feriado de noviembre.
 
+10;8;6;4;14
+===========
+
+Cambios en cortes de energía erosionan la credibilidad del gobierno; se ve la reelección de Noboa como oportunidad de reformas.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Francisco Rosales Ramos, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Francisco-Rosales-Ramos.jpg)
+
+El desconcierto en el **gobierno** parece haber llegado a extremos inusitados: el jueves 17 de octubre el **presidente de la República** anunció que los **cortes de energía** se reducirían a 8, 6 y 4 horas diarias en las 3 semanas siguientes. El jueves 24 la ministra de Energía encargada informó que debido a la situación del complejo Paute, y siguiendo **instrucciones** del presidente al flamante Comité de Energía, los **cortes** serán de 14 horas diarias a partir del viernes 25.
+
+La **credibilidad** del **jefe de Estado** debe preservarse por sobre otros intereses. Si se la pierde, la compleja **responsabilidad** que implica la **presidencia** se vuelve mucho más difícil porque la **ciudadanía** desconfía de su palabra.
+
+Para anunciar la **reducción** de los cortes de 10 a 4 horas diarias, se debe asumir que el presidente de la República contó con **informes** de la **ministra de Energía** y su equipo, que aseguraban los nuevos períodos, más soportables que los descomunales de 14 horas. Y esas **responsabilidades** deben exigirse a los autores del error o, peor aún, si hubo mala fe.
+
+No es aceptable que se hubiere confiado en los anticipos del **organismo** que vigila el tiempo, pues, por **naturaleza**, no son seguros. Es importante dar **anuncios positivos**, especialmente cuando se trata del presidente-candidato, pero será indispensable evaluar su **certeza** para que el efecto no sea contrario al buscado. Aquello de que “el viento le ha jugado una mala pasada” está bien para alumnos de kindergarten o de los primeros cursos de escuela primaria, pero no para los **ciudadanos** que depositarán su voto en menos de 100 días.
+
+Al **gobierno de Noboa** no se le puede **responsabilizar** de la **caótica situación actual** de la **generación eléctrica**, pero sí de haber perdido  precioso tiempo luego de la ley “No más apagones”, para ahora someter al país a cortes inéditos de 14 horas diarias y buscar angustiosamente soluciones de última hora.
+
+Más allá de los desaciertos del gobierno, al país le conviene la **reelección** de Noboa, en la expectativa de que con un panorama de 4 años implemente las **reformas sustanciales** que requiere el país para liberarse de **Montecristi** y sus secuelas.
+
 Populismo rencoroso (II)
 ========================
 
@@ -85,25 +338,29 @@ Y, 3) Que los **mestizos** de **América Latina** reclamemos a los actuales líd
 
 ¡Ah!  Me olvidaba: que Sheinbaum, requiera a los descendientes de los mayas, perdón por los juegos de pelotas, como rito, con descabezamientos en Chichén Itzá.  El populismo es, por demás rústico.
 
-10;8;6;4;14
-===========
+Cartas a Quito / 30 de octubre de 2024
+======================================
 
-Cambios en cortes de energía erosionan la credibilidad del gobierno; se ve la reelección de Noboa como oportunidad de reformas.
--------------------------------------------------------------------------------------------------------------------------------
+Estas son las cartas a Quito de este miércoles 30 de octubre de 2024
+--------------------------------------------------------------------
 
-![Francisco Rosales Ramos, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Francisco-Rosales-Ramos.jpg)
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
 
-El desconcierto en el **gobierno** parece haber llegado a extremos inusitados: el jueves 17 de octubre el **presidente de la República** anunció que los **cortes de energía** se reducirían a 8, 6 y 4 horas diarias en las 3 semanas siguientes. El jueves 24 la ministra de Energía encargada informó que debido a la situación del complejo Paute, y siguiendo **instrucciones** del presidente al flamante Comité de Energía, los **cortes** serán de 14 horas diarias a partir del viernes 25.
+¿La reelección de Daniel Noboa es la única opción?
 
-La **credibilidad** del **jefe de Estado** debe preservarse por sobre otros intereses. Si se la pierde, la compleja **responsabilidad** que implica la **presidencia** se vuelve mucho más difícil porque la **ciudadanía** desconfía de su palabra.
+De acuerdo a quienes las agrupaciones políticas han lanzado sus candidatos,  pienso que la única opción que nos queda es la reelección de Daniel Noboa para Presidente del  Ecuador. Se necesita la unidad de todos los ecuatorianos para que la reelección sea contundente y no admita mañoserías o metidas de la mano en el Tribunal Electoral. Aunque ahora ya Corina Machado nos enseñó cómo hacer, para descubrir el fraude que se teje tras la voluntad de un pueblo.
 
-Para anunciar la **reducción** de los cortes de 10 a 4 horas diarias, se debe asumir que el presidente de la República contó con **informes** de la **ministra de Energía** y su equipo, que aseguraban los nuevos períodos, más soportables que los descomunales de 14 horas. Y esas **responsabilidades** deben exigirse a los autores del error o, peor aún, si hubo mala fe.
+Se necesita la unidad de todos los ecuatorianos para poder alcanzar mayoría en la Asamblea Nacional y de esta forma permitir al Presidente que haga los cambios de algunos artículos que en la constitución de Montecristi que nos metieron por la ventana.
 
-No es aceptable que se hubiere confiado en los anticipos del **organismo** que vigila el tiempo, pues, por **naturaleza**, no son seguros. Es importante dar **anuncios positivos**, especialmente cuando se trata del presidente-candidato, pero será indispensable evaluar su **certeza** para que el efecto no sea contrario al buscado. Aquello de que “el viento le ha jugado una mala pasada” está bien para alumnos de kindergarten o de los primeros cursos de escuela primaria, pero no para los **ciudadanos** que depositarán su voto en menos de 100 días.
+Es hora de desterrar de una vez y para siempre, ese fantasma del correismo, chavismo, Lula de Silva, Ortega,  que a la final se guían bajo ese sistema socialista del siglo XXI,  disfrazados de honestos, de hacedor de obras, personaje irascible el innombrable, porque de honrado no tiene nada, aunque justifiquen que por la justicia amañada no se ha dado paso al descubrimiento cierto y real de los recursos que saquearon al país. Que una  voz, valiente, fuerte y firme, como la Fiscal General del Estado, los ha puesto a correr y permanecer amparados por gobiernos de la misma línea política que los mantiene en calidad de perseguidos políticos.
 
-Al **gobierno de Noboa** no se le puede **responsabilizar** de la **caótica situación actual** de la **generación eléctrica**, pero sí de haber perdido  precioso tiempo luego de la ley “No más apagones”, para ahora someter al país a cortes inéditos de 14 horas diarias y buscar angustiosamente soluciones de última hora.
+No podemos seguirles el juego. Ellos quieren que tú dividas tu voto.  Tú por el socialcristiano, tú por Suma,  tú por Pachakutik, el otro por la izquierda Democrática. Entonces nosotros todos votamos por Alianza y así somos mayoría, nuevamente.  NO. Eso es lo que buscan y esa es la consigna Si queremos desterrar al narcotráfico, una mayor acción contra la inseguridad, exterminar la extorsión que es el peor mal que nos está sucediendo; tener un país con futuro y para que pueda continuar con el buen manejo de los recursos del estado y pueda contar con la fuerza para llamar a nueva constituyente, para reformar lo que reformaron; lo único que nos queda es votar para Presidente y Asambleístas todo por Daniel Noboa. Así quieren llegar (divide y ganarás). Ellos calculan ganar, aunque la mayoría venga a ser solo el 25% o sea la tercera parte de los ecuatorianos.
 
-Más allá de los desaciertos del gobierno, al país le conviene la **reelección** de Noboa, en la expectativa de que con un panorama de 4 años implemente las **reformas sustanciales** que requiere el país para liberarse de **Montecristi** y sus secuelas.
+No soy afiliado a ningún partido político. Mi opinión va encaminada a buscar la salida a este dilema en el que nos encontramos y estoy convencido de que lo mejor en estos momentos para el Ecuador es el Sr. Daniel Noboa.
+
+Por un país que esperamos que nunca más, vamos a confiar en el que ha demostrado que lo único que le interesa es regresar para quemar en la hoguera a la oposición y en especial a la Fiscal General del Estrado. Que lo tiene sin dormir.
+
+Lionel Efraín Romero Reyes
 
 Colada morada y guaguas de pan, tradición ecuatoriana
 =====================================================
@@ -215,30 +472,6 @@ Preparación de la receta de guaguas de pan
 
 Ambos **alimentos** no solo son parte del menú del **Día** de los **Difuntos**, sino que también reflejan la identidad **cultural ecuatoriana**. Las **familias** se reúnen para preparar estas delicias, transmitiendo **recetas** y **tradiciones** de generación en generación. La **colada morada** y las **guaguas** de **pan** han llegado a ser un símbolo de unidad **familiar** y **comunidad**.
 
-Cartas a Quito / 30 de octubre de 2024
-======================================
-
-Estas son las cartas a Quito de este miércoles 30 de octubre de 2024
---------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-¿La reelección de Daniel Noboa es la única opción?
-
-De acuerdo a quienes las agrupaciones políticas han lanzado sus candidatos,  pienso que la única opción que nos queda es la reelección de Daniel Noboa para Presidente del  Ecuador. Se necesita la unidad de todos los ecuatorianos para que la reelección sea contundente y no admita mañoserías o metidas de la mano en el Tribunal Electoral. Aunque ahora ya Corina Machado nos enseñó cómo hacer, para descubrir el fraude que se teje tras la voluntad de un pueblo.
-
-Se necesita la unidad de todos los ecuatorianos para poder alcanzar mayoría en la Asamblea Nacional y de esta forma permitir al Presidente que haga los cambios de algunos artículos que en la constitución de Montecristi que nos metieron por la ventana.
-
-Es hora de desterrar de una vez y para siempre, ese fantasma del correismo, chavismo, Lula de Silva, Ortega,  que a la final se guían bajo ese sistema socialista del siglo XXI,  disfrazados de honestos, de hacedor de obras, personaje irascible el innombrable, porque de honrado no tiene nada, aunque justifiquen que por la justicia amañada no se ha dado paso al descubrimiento cierto y real de los recursos que saquearon al país. Que una  voz, valiente, fuerte y firme, como la Fiscal General del Estado, los ha puesto a correr y permanecer amparados por gobiernos de la misma línea política que los mantiene en calidad de perseguidos políticos.
-
-No podemos seguirles el juego. Ellos quieren que tú dividas tu voto.  Tú por el socialcristiano, tú por Suma,  tú por Pachakutik, el otro por la izquierda Democrática. Entonces nosotros todos votamos por Alianza y así somos mayoría, nuevamente.  NO. Eso es lo que buscan y esa es la consigna Si queremos desterrar al narcotráfico, una mayor acción contra la inseguridad, exterminar la extorsión que es el peor mal que nos está sucediendo; tener un país con futuro y para que pueda continuar con el buen manejo de los recursos del estado y pueda contar con la fuerza para llamar a nueva constituyente, para reformar lo que reformaron; lo único que nos queda es votar para Presidente y Asambleístas todo por Daniel Noboa. Así quieren llegar (divide y ganarás). Ellos calculan ganar, aunque la mayoría venga a ser solo el 25% o sea la tercera parte de los ecuatorianos.
-
-No soy afiliado a ningún partido político. Mi opinión va encaminada a buscar la salida a este dilema en el que nos encontramos y estoy convencido de que lo mejor en estos momentos para el Ecuador es el Sr. Daniel Noboa.
-
-Por un país que esperamos que nunca más, vamos a confiar en el que ha demostrado que lo único que le interesa es regresar para quemar en la hoguera a la oposición y en especial a la Fiscal General del Estrado. Que lo tiene sin dormir.
-
-Lionel Efraín Romero Reyes
-
 Torrenciales lluvias en España dejan muertos, desaparecidos e inundaciones
 ==========================================================================
 
@@ -296,6 +529,45 @@ Otras provincias afectadas por las fuertes **lluvias** son **Málaga**, **Granad
 
 La entidad a cargo del **clima** prevé que este miércoles continúen las **precipitaciones**. La **agencia** no descartó que los **chubascos** alcancen intensidad torrencial, acompañados de **granizo** y fuerte **viento** a la madrugada. Con información de **EFE**.
 
+Quito tiene intersecciones conflictivas durante los cortes de luz
+=================================================================
+
+Los cortes de luz provocan que algunos semáforos de Quito presenten novedades y complican el tránsito en las intersecciones.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz complican el tránsito de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Cortes-de-luz-transito-Quito.jpg)
+
+Los cortes de luz complican la movilidad en **Quito**. Tras 43 días de apagones, la Agencia Metropolitana de Tránsito (**AMT**) identificó las intersecciones viales más conflictivas de la ciudad[.](https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico#:~:text=Un%20apag%C3%B3n%20el%C3%A9ctrico%20o%20corte,Gr%C3%A1fica%20de%20una%20falla%20transitoria. "https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico#:~:text=Un%20apag%C3%B3n%20el%C3%A9ctrico%20o%20corte,Gr%C3%A1fica%20de%20una%20falla%20transitoria.")
+
+Más noticias
+------------
+
+* [Cortes de luz en Quito este miércoles 30 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-miercoles-30-octubre.html "Cortes de luz en Quito este miércoles 30 de octubre")
+* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
+* [Cortes de luz se reducen por mejoras en caudal este 28 de octubre](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-se-reducen-por-mejoras-en-caudal.html "Cortes de luz se reducen por mejoras en caudal este 28 de octubre")
+
+La **AMT** informó que, con los cortes de luz de 10 a 14 horas anunciados por el **Gobierno** **Nacional**, se priorizan los controles en las vías con mayor circulación.
+
+Intersecciones más conflictivas en Quito por cortes de luz
+----------------------------------------------------------
+
+Washington Martínez, director de la **AMT**, señaló que las calles más congestionadas durante los cortes de luz son aquellas de cuatro carriles de circulación, como la avenida **Amazonas**, **América**, **6 de** **Diciembre** y **Shyris**. En estas avenidas hay hasta tres agentes de tránsito para gestionar el flujo vehicular.
+
+En el sur de **Quito**, vías como la **Mariscal** **Sucre**, desde el colegio **Paulo VI hasta Chillogallo**, presentan dificultades, al igual que otras avenidas como la Eloy Alfaro, 10 de Agosto, Patria, Colón, Napo, Alonso de Angulo, Rodrigo de Chávez, Teniente Hugo Ortiz y Quitumbe Ñan.
+
+Por otro lado, los redondeles que presentan mayores desafíos son los del **Ciclista**, **Zámbiza** y **El** **Condado**.
+
+La **AMT** indicó que en estos sectores toda la carga vehicular diaria coincide con los cortes de 17:00 a 20:00, lo cual afecta el tránsito desde el **hipercentro** hacia los valles y hacia la ciudad.
+
+Afirma que la situación se complica porque no hay una disminución del uso del vehículo privado hacia el **transporte** **público**, lo cual sobrecarga todas las vías.
+
+Horarios más complicados de movilidad en Quito por cortes de luz
+----------------------------------------------------------------
+
+Martínez señaló que los cortes de luz más complicados para la movilidad son entre las 11:00 y las 15:00, y en la noche, de 17:00 a 20:00.
+
+En cuanto a la cantidad de agentes que gestionan el tráfico en **Quito**, informó que se destinan 500 efectivos en la mañana, 505 en la tarde y 235 en horas de la madrugada.
+
 Meteórico aumento de la compra de generadores eléctricos en Ecuador
 ===================================================================
 
@@ -345,45 +617,6 @@ Asimismo, agregó que para una tienda que tenga nevera o refrigeradoras se neces
 Mientras que un equipo para un edificio de unos 10 pisos o industrias grandes, se requiere equipos más potentes de más de 130KW. Estos equipos son muy costosos.
 
 Los generadores eléctricos trabajan con gasolina o diésel, el consumo depende de la capacidad del generador. Por ejemplo, el generador de 130KW consume 6,25 galones de diésel por cada hora de generación.
-
-Quito tiene intersecciones conflictivas durante los cortes de luz
-=================================================================
-
-Los cortes de luz provocan que algunos semáforos de Quito presenten novedades y complican el tránsito en las intersecciones.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz complican el tránsito de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Cortes-de-luz-transito-Quito.jpg)
-
-Los cortes de luz complican la movilidad en **Quito**. Tras 43 días de apagones, la Agencia Metropolitana de Tránsito (**AMT**) identificó las intersecciones viales más conflictivas de la ciudad[.](https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico#:~:text=Un%20apag%C3%B3n%20el%C3%A9ctrico%20o%20corte,Gr%C3%A1fica%20de%20una%20falla%20transitoria. "https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico#:~:text=Un%20apag%C3%B3n%20el%C3%A9ctrico%20o%20corte,Gr%C3%A1fica%20de%20una%20falla%20transitoria.")
-
-Más noticias
-------------
-
-* [Cortes de luz en Quito este miércoles 30 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-miercoles-30-octubre.html "Cortes de luz en Quito este miércoles 30 de octubre")
-* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
-* [Cortes de luz se reducen por mejoras en caudal este 28 de octubre](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-se-reducen-por-mejoras-en-caudal.html "Cortes de luz se reducen por mejoras en caudal este 28 de octubre")
-
-La **AMT** informó que, con los cortes de luz de 10 a 14 horas anunciados por el **Gobierno** **Nacional**, se priorizan los controles en las vías con mayor circulación.
-
-Intersecciones más conflictivas en Quito por cortes de luz
-----------------------------------------------------------
-
-Washington Martínez, director de la **AMT**, señaló que las calles más congestionadas durante los cortes de luz son aquellas de cuatro carriles de circulación, como la avenida **Amazonas**, **América**, **6 de** **Diciembre** y **Shyris**. En estas avenidas hay hasta tres agentes de tránsito para gestionar el flujo vehicular.
-
-En el sur de **Quito**, vías como la **Mariscal** **Sucre**, desde el colegio **Paulo VI hasta Chillogallo**, presentan dificultades, al igual que otras avenidas como la Eloy Alfaro, 10 de Agosto, Patria, Colón, Napo, Alonso de Angulo, Rodrigo de Chávez, Teniente Hugo Ortiz y Quitumbe Ñan.
-
-Por otro lado, los redondeles que presentan mayores desafíos son los del **Ciclista**, **Zámbiza** y **El** **Condado**.
-
-La **AMT** indicó que en estos sectores toda la carga vehicular diaria coincide con los cortes de 17:00 a 20:00, lo cual afecta el tránsito desde el **hipercentro** hacia los valles y hacia la ciudad.
-
-Afirma que la situación se complica porque no hay una disminución del uso del vehículo privado hacia el **transporte** **público**, lo cual sobrecarga todas las vías.
-
-Horarios más complicados de movilidad en Quito por cortes de luz
-----------------------------------------------------------------
-
-Martínez señaló que los cortes de luz más complicados para la movilidad son entre las 11:00 y las 15:00, y en la noche, de 17:00 a 20:00.
-
-En cuanto a la cantidad de agentes que gestionan el tráfico en **Quito**, informó que se destinan 500 efectivos en la mañana, 505 en la tarde y 235 en horas de la madrugada.
 
 Incendio forestal en la Reserva del Antisana fue controlado luego de 14 horas
 =============================================================================
@@ -809,270 +1042,6 @@ El partido de ida de los octavos de final será el domingo 3 de noviembre de 202
 ![Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/10/primero_mayo_2-1024x683.jpg)
 
 Foto: Cortesía.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Pronósticos de radiación y lluvias en Ecuador entre el 30 de octubre y el 1 de noviembre
-========================================================================================
-
-El Inamhi pronosticó la radiación y las lluvias para los próximos tres días en Ecuador.
----------------------------------------------------------------------------------------
-
-![La radiación y las lluvias en Ecuador se presentarán en diferentes horas del día, tarde y noche.](https://www.elcomercio.com/wp-content/uploads/2024/10/radiacion-lluvias-ecuador.jpg)
-
-El **Instituto Nacional de Metereología e Hidrología (Inamhi)** pronosticó la **radiación** y las **lluvias** en **Ecuador**, entre el 30 de octubre y el 1 de noviembre.
-
-Los **pronósticos** cubren todas las regiones del Ecuador continental.
-
-### Más noticias:
-
-* [Lluvias se registran en varias zonas de Ecuador, ¿cuál es su impacto?](https://www.elcomercio.com/actualidad/ecuador/lluvias-varios-puntos-ecuador-que-se-viene.html "Lluvias se registran en varias zonas de Ecuador, ¿cuál es su impacto?")
-* [Cuenca cumplió 105 días de sequía y con altas temperaturas](https://www.elcomercio.com/actualidad/ecuador/cuenca-cumplio-sequia-altas-temperaturas.html "Cuenca cumplió 105 días de sequía y con altas temperaturas")
-
-Radiación y lluvias en Ecuador pronosticadas por el Inamhi entre el 30 de octubre y el 1 de noviembre
------------------------------------------------------------------------------------------------------
-
-El **clima** en Ecuador empieza a cambiar.
-
-Algunas zonas del país ya presentan **precipitaciones** considerables.
-
-Varios **ríos** en la Amazonía están desbordados o en crecimiento.
-
-El incremento de las lluvias favorece al caudal de los ríos y esto al buen funcionamiento de las **hidroeléctricas**.
-
-Sin embargo, estos niveles hídricos aún no son suficientes para superar la **sequía** y la **crisis energética** que atraviesa el país.
-
-Así, el Inamhi informó que, entre el 30 de octubre y 1 de noviembre, habrá un **incremento de temperaturas y radiación ultravioleta**, en el día.
-
-Las regiones que soportarán estos **altos índices** de radiación son: la Amazonía, Interandina, y la zona centro – sur del Litoral.
-
-Los días con mayor temperatura y radiación son el **31 de octubre y 1 de noviembre**.
-
-Pese a este pronóstico en el día, el Inamhi también señaló que es probable que en las tardes se presenten **lluvias de variable intensidad** con **tormentas dispersas**.
-
-Esto ocurrirá en la zona norte del Litoral, cordillera de la Amazonia y, de manera ocasional, al norte de la Sierra.
-
-La tarde de este martes 29 de octubre, se reportaron **ligeras lluvias** en varios sectores de **Quito**.
-
-En la **Amazonía**, el río Upano está desbordado y otros ríos están en crecimiento.
-
-Mientras que, en **Cuenca**, Etapa informó que los ríos Tomebamba, Machángara y Yanuncay están en estado bajo y el río Tarqui en estado de estiaje.
-
-**Etapa** contabilizó 109 días de sequía hidrológica y 46% de probabilidad de lluvia, la mañana de este martes.
-
-> [#AdvertenciaMeteorológica](https://twitter.com/hashtag/AdvertenciaMeteorol%C3%B3gica?src=hash&ref_src=twsrc%5Etfw) #56 l Entre el 30 de octubre y 1 de noviembre incrementará la Temperaturas y Radiación Ultravioleta en el día en la región Amazónica, Interandina, y zona centro – sur del Litoral.  
->   
-> 🟠Los días con mayor temperatura y radiación son el 31 y 1. 🌤️🌡️🥵 [pic.twitter.com/3opvLGUTDR](https://t.co/3opvLGUTDR)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 29, 2024](https://twitter.com/inamhi_ec/status/1851375876484559041?ref_src=twsrc%5Etfw)
-
-Independiente del Valle es finalista de la Copa Ecuador
-=======================================================
-
-Aunque cayó, Independiente del Valle eliminó como local a Universidad Católica en la Copa Ecuador gracias a los penales.
-------------------------------------------------------------------------------------------------------------------------
-
-![Jugadores de Universidad Católica e Independiente del Valle en las semifinales de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/20241029134889-fbl-copa-ecuador-independiente-valle-catolica-scaled.jpg)
-
-Independiente del Valle y Universidad Católica definieron su pase a la final de la Copa Ecuador desde los doce pasos del área. Tras salir de la serie con un marcador global de 2-2, las escuadras fueron a los penales, donde el ‘Trencito Azul’ triunfó por -4.
-
-El Estadio de Independiente del Valle fue el encargado de albergar el compromiso entre negriazules y camarattas durante este martes 29 de octubre del 2024. A las 16:00, el pitazo de Augusto Aragón dio inicio al cotejo de la semifinal de vuelta.
-
-### Más noticias:
-
-* [¿A qué hora se inician las semifinales de vuelta de Copa Ecuador?](https://www.elcomercio.com/deportes/horario-semifinal-vuelta-copa-ecuador.html "¿A qué hora se inician las semifinales de vuelta de Copa Ecuador?")
-* [El Nacional vence a Mushuc Runa en brusca semifinal de Copa Ecuador](https://www.elcomercio.com/deportes/el-nacional-mushuc-runa-copa-ecuador.html "El Nacional vence a Mushuc Runa en brusca semifinal de Copa Ecuador")
-* [¿A qué hora juega El Nacional semifinales de Copa Ecuador?](https://www.elcomercio.com/deportes/semifinal-el-nacional-mushuc-runa-copa-ecuador.html "¿A qué hora juega El Nacional semifinales de Copa Ecuador?")
-
-Para el choque, los rayados llegaban con ventaja y los celestes con el objetivo de dar vuelta al resultado previo. En el partido de ida, Independiente del Valle había ganado en el Estadio Rodrigo Paz Delgado como visitante.
-
-El resultado del compromiso previo fue de 1-0 a favor de Independiente gracias a un gol de Michael Hoyos. Aquello obligaba a que en la revancha, donde el conjunto de Sangolquí sería local, los celestes venzan por dos tantos de diferencia para pasar a la final o uno para forzar los penales.
-
-Universidad Católica sorprendió a Independiente del Valle
----------------------------------------------------------
-
-El primer tiempo encontró a Independiente del Valle asombrado de su propia acción y de la de los contrarios. Los locales luchaban por encontrar la forma que habían mostrado en el compromiso previo, mientras que sus rivales dominaban a placer.
-
-El buen desempeño de Universidad Católica le llevó a que ser el primero en abrir el marcador y emocionarse. Antes de su primer tanto, la ‘Chatoleí’ ya había generado chances e, inclusive, se le había anulado un gol.
-
-La anotación inaugural llegó gracias a José Fajardo a los 28 minutos, quien conectó un centro de Ismael Díaz. Aquel tanto invitó a los visitantes a buscar más y no pasó demasiado para el segundo tanto. Los goles a favor del ‘Trencito Azul’ fueron seguiditos[.](https://es.wikipedia.org/wiki/Club_Deportivo_de_la_Universidad_Cat%C3%B3lica_(Ecuador) "https://es.wikipedia.org/wiki/Club_Deportivo_de_la_Universidad_Cat%C3%B3lica_(Ecuador)")
-
-120 segundos después del primer gol, Fajardo volvió a aparecer. El panameño le ganó las espaldas a Richard Schunke y, tras recibir un pelotazo a raíz de un tiro libre, este controló el balón y lo mandó a guardar.
-
-Los rayados se salvaron con lo justo
-------------------------------------
-
-Para la segunda mitad del compromiso, el dominio y poderío de Universidad Católica seguía creciendo, pero Independiente del Valle consiguió un tanto azaroso que le dio la tranquilidad. A los 60 minutos, Michael Hoyos volvió a ser determinante como en el duelo previo.
-
-Hoyos controló la pelota y, tras amagar al defensor, sacó un remate de volea que fue a la esquina del arco. Con la igualdad en la serie, el resultado se mantuvo hasta el final del partido y todo se definió por penales.
-
-Los penales de Independiente del Valle y U. Católica en la Copa Ecuador
------------------------------------------------------------------------
-
-Independiente del Valle: o-x-o-o-o-o-o
-
-Universidad Católica: o-o-o-o-x-o-x
-
-El embalse de Mazar se recupera casi dos metros este 29 de octubre
-==================================================================
-
-Cuenca registra 109 días de sequía hidrológica. El caudal de ingreso a Mazar aumentó.
--------------------------------------------------------------------------------------
-
-![La capacidad total del embalse de Mazar es de 410 millones de metros cúbicos. Está ubicado en los límites de Azuay y Cañar. Cortesía: Presidente de Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/05/Mazar-Ecuador-cortes-de-luz.jpg)
-
-El embalse de la **central hidroeléctrica Mazar** se recupera lentamente. Dos factores inciden en el crecimiento, que se registra desde el 25 de octubre de 2024.
-
-El caudal de ingreso al embalse mejoró. El promedio diario subió de 11,40 a 45,7 metros cúbicos por segundo, en los últimos cuatro días.
-
-La causa principal es el aumento de los caudales que se registran en el río **Santa Bárbara,** que está ubicado en la zona oriental de **Azuay**.
-
-Este río junto con el **Tomebamba, Yanuncay, Tarqui, Machángara, Burgay, Paute y San Francisco** alimentan el embalse de **Mazar**.
-
-La **cota de Mazar** se ubica en los 2 113, 46 metros sobre el nivel del mar. Son casi dos metros más que el último fin de semana.
-
-### Más noticias
-
-* [Inés Manzano se pronunció sobre el estado del embalse de Mazar](https://www.elcomercio.com/actualidad/negocios/ines-manzano-mejoria-mazar.html "Inés Manzano se pronunció sobre el estado del embalse de Mazar")
-* [¿Qué pasó con Mazar con las lluvias registradas en Cuenca?](https://www.elcomercio.com/actualidad/negocios/mazar-lluvias-registradas-cuenca.html "¿Qué pasó con Mazar con las lluvias registradas en Cuenca?")
-* [Cortes de luz en Guayaquil este miércoles 30 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-miercoles-30-octubre.html "Cortes de luz en Guayaquil este miércoles 30 de octubre")
-
-La operación de Mazar está paralizada
--------------------------------------
-
-Las dos turbinas de la central hidroeléctrica Mazar están apagadas desde las 07:00 del 25 de octubre. Esa es la segunda razón para la recuperación del **embalse de Mazar.**
-
-En la cuenca del río Paute solo las centrales **Paute-Molino y Sopladora** laboran por horas dependiendo de las necesidades de demanda en Ecuador. Este 29 de octubre, por ejemplo, **Paute y Sopladora** generaron energía solo hasta las 05:00, con tres y una turbina, respectivamente.
-
-La sequía en Cuenca
--------------------
-
-La **Red Hidrometereológica de Cuenca** contabiliza 109 días de sequía hidrológica. Está cerca de lo registrado a finales de 2023 cuando fueron 117 días.
-
-Los caudales de los **ríos Yanuncay, Tomebamba y Machángara** están en niveles bajos. El Tarqui está en condiciones de estiaje con 0,86 metros cúbicos por segundo. 
-
-Cortes de luz en Guayaquil este miércoles 30 de octubre
-=======================================================
-
-Los cortes de luz en Guayaquil para este miércoles 30 de octubre se realizan en tres franjas horarias.
-------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil este miércoles 30 de octubre se mantienen en 14 horas de duración.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-guayaquil-miercoles-30-octubre.jpg)
-
-**Guayaquil** atraviesa su quinto día con **cortes de luz** de hasta 14 horas, este **miércoles 30 de octubre** de 2024.
-
-**CNEL** informó sobre la programación de la suspensión del servicio de energía eléctrica para mañana.
-
-### Más noticias:
-
-* [Telefónicas anuncian medidas a sus usuarios por cortes de luz](https://www.elcomercio.com/actualidad/negocios/telefonicas-medidas-cortes-luz.html "Telefónicas anuncian medidas a sus usuarios por cortes de luz")
-* [Ecuador baraja opciones para comprar energía al sector privado de Colombia](https://www.elcomercio.com/actualidad/negocios/ecuador-compra-energia-sector-privado-colombia.html "Ecuador baraja opciones para comprar energía al sector privado de Colombia")
-
-Cortes de luz en Guayaquil este miércoles 30 de octubre
--------------------------------------------------------
-
-Este lunes 28 de octubre, el **Cenace** informó sobre una reducción en los horarios de los cortes de luz a escala nacional.
-
-La medida respondió a la mejoría en la situación de **Coca Codo Sinclair**, abastecida por varios ríos de la Amazonía, región donde se presentaron fuertes lluvias.
-
-Este martes, esa **reducción** también se registró en algunos sectores de la capital.
-
-En lugares donde el servicio se suspendía a las 07:00, el corte **tardó** hasta las 10:00.
-
-Los cortes de luz de hasta 14 horas se dan, mientras el presidente Daniel Noboa y la ministra de Energía encargada**, Inés Manzano,** buscan soluciones en **Colombia**.
-
-A propósito de una cumbre ambiental, Noboa y Manzano buscó acercamientos con autoridades de los sectores público y privado **colombianos** para la compra de energía.
-
-Meses atrás, el Gobierno de **Gustavo Petro** decidió suspender la **venta** de energía a Ecuador por la grave sequía que también registraba el país vecino.
-
-Petro se solidarizó con la grave crisis energética que atraviesa Ecuador en sus redes sociales.
-
-Y, en una entrevista televisiva, el presidente Noboa le tomó la palabra e insistió en que Colombia **reactive** la venta de energía a Ecuador.
-
-Tras el encuentro, Manzano informó que el Gobierno de Colombia no reactivará la venta de energía a Ecuador y que se buscan opciones en el **sector privado**.
-
-Mientras la **compra** de energía y los proyectos alternativos a la energía hidroeléctrica se concretan, Guayaquil y el resto del país continuarán con cortes de luz **prolongados**.
-
-Esta situación ha afectado los horarios de varias actividades cotidianas de los ecuatorianos, entre estas, la jornada nocturna de **clases** que será virtual.
-
-Así, los cortes de luz en Guayaquil, para mañana, se mantienen en horarios de **hasta 14 horas** en tres franjas.
-
-A continuación, los cortes de luz en **Guayaquil** este miércoles 30 de octubre:
-
-¿Cuándo juega el Deportivo Quito contra Toreros FC?
-===================================================
-
-Deportivo Quito es uno de los favoritos para ascender a la Liga Pro Serie B en el 2025.
----------------------------------------------------------------------------------------
-
-![Hinchas del Deportivo Quito en el estadio Gonzalo Pozo Ripalda en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/akd_1.jpg)
-
-La tarde de este martes 29 de octubre de 2024 se confirmaron los horarios de los partidos de ida  
-de los **octavos de final del Ascenso Nacional**, torneo organizado por la Federación Ecuatoriana de  
-Fútbol (FEF).
-
-Los octavos de final del **Ascenso Nacional se jugará a partidos de ida y vuelta** entre el sábado 2  
-y domingo 3 de noviembre en ocho estadios de seis ciudades de las regiones Costa, Sierra y Amazonía.
-
-### Más noticias:
-
-* [Así fue como Marco Angulo aterrizó en Liga de Quito](https://www.elcomercio.com/deportes/futbol/asi-fue-como-marco-angulo-aterrizo-en-liga-de-quito.html "Así fue como Marco Angulo aterrizó en Liga de Quito")
-* [Vinícius Júnior no entró en la lista de Balones de Oro del Real Madrid](https://www.elcomercio.com/deportes/futbol/vinicius-junior-no-entro-en-la-lista-de-balones-de-oro-del-real-madrid.html "Vinícius Júnior no entró en la lista de Balones de Oro del Real Madrid")
-* [Alan Franco está a las puertas de una final de Copa Libertadores](https://www.elcomercio.com/deportes/futbol/alan-franco-esta-a-las-puertas-de-una-final-de-copa-libertadores.html "Alan Franco está a las puertas de una final de Copa Libertadores")
-
-El premio para los equipos que siguen en competencia es obtener uno de los dos cupos para jugar en el 2025 en la Liga Pro Serie B. Reemplazarán a **Chacaritas (Tungurahua) y Vargas Torres (Esmeraldas)**, los flamantes descendidos.
-
-Uno de los partidos más destacados de la jornada es el del Deportivo Quito vs. Toreros FC, **cuadro que  
-es filial de Barcelona Sporting Club**, en un ida y vuelta que se jugará primero en Guayaquil, y sé  
-cerrará en la capital ecuatoriana.
-
-La ‘AKD’ intenta regresar a la B luego de ocho años de transitar la Segunda Categoría y el Torneo  
-Amateur de Pichincha, en un largo camino que el cuadro de la ‘Plaza del Teatro’ tiene en el fútbol de ascenso.
-
-Por su parte, Toreros FC intenta llegar por primera vez a la Serie B y fortalecer el proceso de **formación  
-de jugadores con los que cuenta Barcelona SC**, a los que les da rodaje en la Segunda Categoría de Guayas y en el Ascenso Nacional.
-
-Los octavos de final se completarán con siete partidos más, en donde también interviene equipos tradicionales y populares como Liga de Portoviejo (Manabí) y Deportivo Quevedo (Los Ríos).
-
-Octavos de final – ida
-----------------------
-
-### Sábado 2/11
-
-**11:30 La Unión vs. Patria**
-
-Estadio: El Horno – Pujilí
-
-**13:00 Toreros FC vs. Deportivo Quito**
-
-Estadio: Alejandro Ponce Noboa – Guayaquil
-
-**13:00 La Paz vs. Mineros**
-
-Estadio: Reales Tamarindos – Portoviejo
-
-**15:00 Huancavilca vs. 22 de Julio**
-
-Estadio: Alberto Spencer – Guayaquil
-
-**15:30 La Troncal vs. Cuenca Jrs.**
-
-Estadio: Municipal – La Troncal
-
-### Domingo 3/11
-
-**Atlético Vinotinto vs. Deportivo Quevedo**
-
-Estadio: Olímpico Atahualpa – Quito
-
-**15:00 Primero de Mayo vs. Aviced FC**
-
-Estadio: Municipal San Pedro – Yantzaza
-
-**15:00 Liga de Portoviejo vs. Naranja Mekánica**
-
-Estadio: Reales Tamarindos – Portoviejo
 
 No te pierdas – El Confesionario
 --------------------------------
