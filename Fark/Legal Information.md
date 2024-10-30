@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want the rest of the Farking story? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+Come check out what's behind the curtain.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Photoshop these trunks](https://www.fark.com/goto/13438866) ( [cnn.com](https://www.fark.com/goto/13438866) ) » [(13 comments)](https://www.fark.com/comments/13438866/Photoshop-these-trunks) |
-| [Discussion](https://www.fark.com/discussion/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13444604) ( [fark.com](https://www.fark.com/goto/13444604) ) » [(15 comments)](https://www.fark.com/comments/13444604/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
-| [Sports](https://www.fark.com/sports/) | [Would you like to smell Odell Beckham's jock strap? There's a candle for that](https://www.fark.com/goto/13445484) ( [miaminewtimes.com](https://www.fark.com/goto/13445484) ) » [(0 comments)](https://www.fark.com/comments/13445484/Would-you-like-to-smell-Odell-Beckhams-jock-strap-Theres-a-candle-for-that) |
-| [Business](https://www.fark.com/business/) | [Old and busted: AI will accelerate climate change due to its massive thirst for electricity. New hotness: used AI hardware will bury the planet in a mountain of E-waste](https://www.fark.com/goto/13445268) ( [forums.theregister.com](https://www.fark.com/goto/13445268) ) » [(5 comments)](https://www.fark.com/comments/13445268/Old-busted-AI-will-accelerate-climate-change-due-to-its-massive-thirst-for-electricity-New-hotness-used-AI-hardware-will-bury-planet-in-a-mountain-of-E-waste) |
-| [STEM](https://www.fark.com/stem/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13444604) ( [fark.com](https://www.fark.com/goto/13444604) ) » [(15 comments)](https://www.fark.com/comments/13444604/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
-| [Entertainment](https://www.fark.com/entertainment/) | [After years of speculation, Shawn Mendes reveals his true orientation: "Standing. Definitely standing, maybe sometimes reclining"](https://www.fark.com/goto/13444778) ( [boredpanda.com](https://www.fark.com/goto/13444778) ) » [(17 comments)](https://www.fark.com/comments/13444778/After-years-of-speculation-Shawn-Mendes-reveals-his-true-orientation-Standing-Definitely-standing-maybe-sometimes-reclining) |
-| [Fandom](https://www.fark.com/fandom/) | [Submitted for your approval: What's more "unkillable?" Frankenstein or The Walking Dead?](https://www.fark.com/goto/13444906) ( [avclub.com](https://www.fark.com/goto/13444906) ) » [(9 comments)](https://www.fark.com/comments/13444906/Submitted-for-your-approval-Whats-more-unkillable-Frankenstein-The-Walking-Dead) |
-| [D'awww](https://www.fark.com/dawww/) | [Ugly-ass baby mountain bongo born in safari park. No news on mountain congas](https://www.fark.com/goto/13444684) ( [bbc.com](https://www.fark.com/goto/13444684) ) » [(1 comment)](https://www.fark.com/comments/13444684/Ugly-ass-baby-mountain-bongo-born-in-safari-park-No-news-on-mountain-congas) |
-| [Food](https://www.fark.com/food/) | [Cowboy Kent Rollins shows you how to make a beautiful crispy onion ring with doggo tax](https://www.fark.com/goto/13445186) ( [youtube.com](https://www.fark.com/goto/13445186) ) » [(3 comments)](https://www.fark.com/comments/13445186/Cowboy-Kent-Rollins-shows-you-how-to-make-a-beautiful-crispy-onion-ring-with-doggo-tax) |
-| [Politics](https://www.fark.com/politics/) | [Can we fire off the Cannon?](https://www.fark.com/goto/13445090) ( [newsweek.com](https://www.fark.com/goto/13445090) ) » [(26 comments)](https://www.fark.com/comments/13445090/Can-we-fire-off-Cannon) |
+| [Main](https://www.fark.com/) | [Don't you miss the good old days when you could take a dump in a hotel bathroom and there was an actual, traditional, physical door you could close?](https://www.fark.com/goto/13445728) ( [yahoo.com](https://www.fark.com/goto/13445728) ) » [(3 comments)](https://www.fark.com/comments/13445728/Dont-you-miss-good-old-days-when-you-could-take-a-dump-in-a-hotel-bathroom-there-was-an-actual-traditional-physical-door-you-could-close) |
+| [Discussion](https://www.fark.com/discussion/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13444604) ( [fark.com](https://www.fark.com/goto/13444604) ) » [(98 comments)](https://www.fark.com/comments/13444604/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
+| [Sports](https://www.fark.com/sports/) | [Senna](https://www.fark.com/goto/13445592) ( [youtube.com](https://www.fark.com/goto/13445592) ) » [(0 comments)](https://www.fark.com/comments/13445592/Senna) |
+| [Business](https://www.fark.com/business/) | [Boston restaurant owner sentenced to prison for upholding Boston values](https://www.fark.com/goto/13445334) ( [apnews.com](https://www.fark.com/goto/13445334) ) » [(5 comments)](https://www.fark.com/comments/13445334/Boston-restaurant-owner-sentenced-to-prison-for-upholding-Boston-values) |
+| [STEM](https://www.fark.com/stem/) | [Move over, Machu Picchu There's a new ancient city in town, and it's got lasers. And probably better Wi-Fi. Survey tag, abducted](https://www.fark.com/goto/13445396) ( [thehill.com](https://www.fark.com/goto/13445396) ) » [(6 comments)](https://www.fark.com/comments/13445396/Move-over-Machu-Picchu-Theres-a-new-ancient-city-in-town-its-got-lasers-And-probably-better-Wi-Fi-Survey-tag-abducted) |
+| [Entertainment](https://www.fark.com/entertainment/) | [After years of speculation, Shawn Mendes reveals his true orientation: "Standing. Definitely standing, maybe sometimes reclining"](https://www.fark.com/goto/13444778) ( [boredpanda.com](https://www.fark.com/goto/13444778) ) » [(25 comments)](https://www.fark.com/comments/13444778/After-years-of-speculation-Shawn-Mendes-reveals-his-true-orientation-Standing-Definitely-standing-maybe-sometimes-reclining) |
+| [Fandom](https://www.fark.com/fandom/) | [British brass bands were invented by military musicians returning from Napoleonic Wars, not by civilian coal miners trying to cope with harshness of Industrial Revolution in the North. Scottish pipe bands of course were invented by Satan](https://www.fark.com/goto/13445576) ( [phys.org](https://www.fark.com/goto/13445576) ) » [(3 comments)](https://www.fark.com/comments/13445576/British-brass-bands-were-invented-by-military-musicians-returning-from-Napoleonic-Wars-not-by-civilian-coal-miners-trying-to-cope-with-harshness-of-Industrial-Revolution-in-North-Scottish-pipe-bands-of-course-were-invented-by-Satan) |
+| [D'awww](https://www.fark.com/dawww/) | [Ugly-ass baby mountain bongo born in safari park. No news on mountain congas](https://www.fark.com/goto/13444684) ( [bbc.com](https://www.fark.com/goto/13444684) ) » [(2 comments)](https://www.fark.com/comments/13444684/Ugly-ass-baby-mountain-bongo-born-in-safari-park-No-news-on-mountain-congas) |
+| [Food](https://www.fark.com/food/) | [There is bad pizza, very bad pizza...and then there is this Seattle pizza joint which is so bad that it got its own "worst of" online photo gallery of questionable pizza that customers received from them](https://www.fark.com/goto/13445564) ( [capitolhillseattle.com](https://www.fark.com/goto/13445564) ) » [(5 comments)](https://www.fark.com/comments/13445564/There-is-bad-pizza-very-bad-pizzaand-then-there-is-this-Seattle-pizza-joint-which-is-so-bad-that-it-got-its-own-worst-of-online-photo-gallery-of-questionable-pizza-that-customers-received-from-them) |
+| [Politics](https://www.fark.com/politics/) | [Sitting on $3 billion of Saudi money with Jared?](https://www.fark.com/goto/13445422) ( [boston.com](https://www.fark.com/goto/13445422) ) » [(2 comments)](https://www.fark.com/comments/13445422/Sitting-on-$3-billion-of-Saudi-money-with-Jared) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 29 2024 21:42:12  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 30 2024 03:42:24  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
