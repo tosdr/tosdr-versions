@@ -68,6 +68,8 @@ Secure and private. By design.
 
 We understand the importance of keeping your personal and financial information secure and private. From making sure you get what you pay for, to fraud monitoring and data encryption, we’re here to make sure you can always shop and pay with peace of mind.
 
+[Privacy request form](https://www.klarna.com/us/privacy/#privacy-request)
+
 Your data, your call
 --------------------
 
