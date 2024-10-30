@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Israeli strike in northern Gaza kills at least 60, officials say](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-29-2024-befe1b42ef25599539198fa04e089f04)
+    * [Israeli strikes in northern Gaza kill at least 88, officials say](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-29-2024-befe1b42ef25599539198fa04e089f04)
     * [As Israel strikes deeper into Lebanon, fear rises in communities where the displaced took refuge](https://apnews.com/article/lebanon-israel-war-displacement-hezbollah-395ccfd8ff7e230b474867b13e594b1b)
-    * [What to know about Israel's new laws banning UNRWA](https://apnews.com/article/israel-palestinians-hamas-war-un-aid-refugees-16bc0524adc947b95abe25d7d9eca038)
+    * [Israel must step in if it bans the UN agency that is a lifeline for Gaza, UN says](https://apnews.com/article/un-unrwa-israel-palestinians-gaza-refugees-laws-6cc2518b83eaecd3f813df59588b539f)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris reaches for a big moment in her closing argument for 'turning the page' on Trump](https://apnews.com/article/harris-trump-closing-argument-ellipse-washington-139a7b390dc30ceab85d9ac56fcc521d)
+    * [Harris to promise to 'put country above party and above self' in closing argument against Trump](https://apnews.com/article/harris-trump-closing-argument-ellipse-washington-139a7b390dc30ceab85d9ac56fcc521d)
     * [Ballot drop box fires highlight concerns that election conspiracy theories are making them a target](https://apnews.com/article/ballot-drop-boxes-explainer-2024-portland-vancouver-ff3023c566fcc0282eb8ee84de297bf9)
-    * [For the US election, the AP performs the world's single largest act of journalism](https://apnews.com/article/associated-press-election-race-calls-ap-1e3151554eecc16a26ac318bd3627d17)
+    * [Man who attacked Nancy Pelosi’s husband gets life in prison](https://apnews.com/article/david-depape-nancy-pelosi-husband-paul-attacked-454cbde088fcae22a356f1f8dd0e9eba)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [The first presidential election since the Jan. 6 attack will test new guardrails from Congress](https://apnews.com/article/congress-jan-6-electoral-count-challenges-64b1ceeeacff133731ca4af01425a7c9)
-    * [Ballot drop box fires highlight concerns that election conspiracy theories are making them a target](https://apnews.com/article/ballot-drop-boxes-explainer-2024-portland-vancouver-ff3023c566fcc0282eb8ee84de297bf9)
-    * [Here's what to watch in the final full week of the presidential campaign](https://apnews.com/article/election-2024-what-to-watch-4de963c6474ff7a0b4044d6a23cf8ad7)
+    * [Harris to promise to 'put country above party and above self' in closing argument against Trump](https://apnews.com/article/harris-trump-closing-argument-ellipse-washington-139a7b390dc30ceab85d9ac56fcc521d)
+    * [Trump says his New York rally marked by crude and racist insults was 'an absolute lovefest'](https://apnews.com/article/trump-harris-lovefest-rally-puerto-rico-6e079e7894a7e1db5dd4be76cccb452a)
+    * [Newspaper non-endorsements at Washington Post, LA Times fit a trend, but their readers aren't happy](https://apnews.com/article/post-newspaper-endorsements-trump-harris-44efcb29d0b27c039a9b0b259ec255d7)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Trump says his New York rally marked by crude and racist insults 'was like a lovefest'](https://apnews.com/article/trump-harris-lovefest-rally-puerto-rico-6e079e7894a7e1db5dd4be76cccb452a)
-    * [Harris reaches for a big moment in her closing argument for 'turning the page' on Trump](https://apnews.com/article/harris-trump-closing-argument-ellipse-washington-139a7b390dc30ceab85d9ac56fcc521d)
-    * [The ability to cast a ballot isn’t always guaranteed in Alaska’s far-flung Native villages](https://apnews.com/article/alaska-native-voting-disenfranchisement-6b160888c8f847c390db042cd9569063)
+    * [Trump says his New York rally marked by crude and racist insults was 'an absolute lovefest'](https://apnews.com/article/trump-harris-lovefest-rally-puerto-rico-6e079e7894a7e1db5dd4be76cccb452a)
+    * [Harris to promise to 'put country above party and above self' in closing argument against Trump](https://apnews.com/article/harris-trump-closing-argument-ellipse-washington-139a7b390dc30ceab85d9ac56fcc521d)
+    * [A clumsy early voting option has backed up election offices in Pennsylvania and frustrated voters](https://apnews.com/article/pennsylvania-early-voting-problems-bucks-county-bdc20bfb2c82e29d8698c1a22feb0eae)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Shohei Ohtani's rural hometown honors its superstar son — from city hall to the hair salons](https://apnews.com/article/world-series-japan-ohtanis-hometown-e3cad030c39f7546a2f7bd100fa6e3b9)
-    * [Sorry came easy for Tyrique Stevenson but his Hail Mary gaffe sends the Bears on much rougher road](https://apnews.com/article/commanders-bears-stevenson-daniels-rodgers-jets-7b8f39b79552c0d1df09a33513bc13b3)
-    * [Analysis: NBA and WNBA coaching jobs 'don’t have a long shelf life.' Lately that's been 1 to 3 years](https://apnews.com/article/nba-coaches-wnba-3937dec61cc0efe1bba167b1370c2c42)
+    * [Colts benching Anthony Richardson to start Joe Flacco at quarterback vs. Vikings, AP sources say](https://apnews.com/article/anthony-richardson-joe-flacco-indianapolis-colts-73ed51cc802241fbabf65fc030246a57)
+    * [Texans wide receiver Stefon Diggs out for season after tearing right ACL](https://apnews.com/article/houston-texans-stefon-diggs-injured-37a73f1491732bad18f2a9c8ac883a53)
+    * [Panthers send WR Diontae Johnson, 6th-round pick to Ravens, get back 5th-rounder, AP source says](https://apnews.com/article/diontae-johnson-ravens-trade-518324e504686e0f39ca649762dd9731)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
+    * [In 'Ibelin' and 'Grand Theft Hamlet,' video game realms draw filmmakers with virtual cameras](https://apnews.com/article/video-game-documentaries-ibelin-grand-theft-hamlet-305dda63022951b18b04b7dab954f107)
+    * [Teri Garr, the offbeat comic actor of 'Young Frankenstein' and 'Tootsie,' has died](https://apnews.com/article/teri-garr-dies-be39482a60724c5bb81bbd8f34dfaf2d)
     * [The ‘Juror #2’ cast still can’t believe they got to work with Clint Eastwood](https://apnews.com/article/clint-eastwood-juror-2-movie-nicholas-hoult-e481412b89da33949ef4317d645edc9e)
-    * [Movie Review: An unmoving camera and de-aging technology make 'Here' with Tom Hanks painful to watch](https://apnews.com/article/here-movie-review-tom-hanks-5b25c54561db642238dc883bcae48435)
-    * [Newspaper non-endorsements at Washington Post, LA Times fit a trend, but their readers aren't happy](https://apnews.com/article/post-newspaper-endorsements-trump-harris-44efcb29d0b27c039a9b0b259ec255d7)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
+    * [Google's moneymaking machine still pumping out massive profits despite multiple threats](https://apnews.com/article/google-alphabet-earnings-artificial-intelligence-antitrust-30a75937bfbd9a4dfcee91cd4594cd59)
+    * [Stock market today: Rising tech stocks send Nasdaq to a record as most of Wall Street stumbles](https://apnews.com/article/financial-markets-oil-prices-tech-stocks-1f348c34204ce132997defdd9a15a31a)
     * [US job openings fell in September to a 3 1/2-year low](https://apnews.com/article/job-openings-economy-unemployment-inflation-federal-reserve-8d33da575578641b91adc98258b68f5a)
-    * [Newspaper non-endorsements at Washington Post, LA Times fit a trend, but their readers aren't happy](https://apnews.com/article/post-newspaper-endorsements-trump-harris-44efcb29d0b27c039a9b0b259ec255d7)
-    * [Owner Jeff Bezos defends Washington Post's decision not to endorse as the right, 'principled' one](https://apnews.com/article/washington-post-subscriptions-endorsement-07d752d987dbb64b68da63d9ac37b7e8)
     
 * [Science](https://apnews.com/science)
     
@@ -146,23 +146,23 @@ Menu
     
     TOP STORIES
     
+    * [FACT FOCUS: A look at false and misleading claims surrounding the 2024 election](https://apnews.com/article/fact-check-misinformation-houston-rally-confrontation-99af1f80eb43d31966cae8e68dbc3415)
     * [FACT FOCUS: Trump repeated election lies in his interview with Joe Rogan. Here are the facts](https://apnews.com/article/trump-election-lies-rogan-interview-ballots-voting-c8c06eb608c1b1ae8ca0e93ec1022b02)
     * [FACT FOCUS: A look at false and misleading claims surrounding the 2024 election](https://apnews.com/article/misinformation-fact-check-2024-election-voting-2c3931aab2ff2e8caa9d3737d8f1cc81)
     * [Election officials are fighting a tsunami of voting conspiracy theories](https://apnews.com/article/election-2024-conspiracy-theories-misinformation-trump-musk-0e5a84b1d9e6cd63cd8ca22ee9900387)
     * [FACT FOCUS: Inactive voters on Michigan's rolls are misrepresented in suggestions of fraud](https://apnews.com/article/michigan-voter-rolls-fraud-fact-check-misinformation-3075e2cb1f7d69c27a5181a7e4ea7251)
     * [FACT FOCUS: A look at the false information around Hurricanes Helene and Milton](https://apnews.com/article/election-hurricanes-false-info-helene-milton-a4c2df2463b69c1f2e3eb6846e3b37ae)
-    * [FACT FOCUS: Online posts make unfounded claims about a helicopter delivering aid in North Carolina](https://apnews.com/article/fact-check-helicopter-north-carolina-helene-d44fb04825337e8a7ca69e9f616621f7)
     
 * [Oddities](https://apnews.com/oddities)
     
     TOP STORIES
     
-    * [At 7 feet, 9 inches, Olivier Rioux is the world's tallest teen and an intriguing basketball project](https://apnews.com/article/worlds-tallest-teenager-d1c918fb54100a09a9c7db648c4ef71d)
+    * [In a first since 1938, Des Moines, Iowa, kids will trick-or-treat on Halloween](https://apnews.com/article/beggars-night-des-moines-iowa-halloween-26710c8e3564d461b6868313f7f71425)
+    * [He's the world’s tallest teen — and an intriguing basketball prospect](https://apnews.com/article/worlds-tallest-teenager-d1c918fb54100a09a9c7db648c4ef71d)
     * [Rare dime bought by Ohio farm family and hidden for decades fetches $500,000 at auction](https://apnews.com/article/rare-dime-sold-c757327ec6540bf9e5132fdadc292886)
     * [Timothée Chalamet crashes his own look-alike contest after police shut down crowded event](https://apnews.com/article/timothee-chalamet-lookalike-dune-7acc6bda7612cb72eca31d2cc0106028)
     * [British chef Jamie Oliver urges followers to help solve the 'grate cheese robbery'](https://apnews.com/article/great-cheese-theft-london-cheddar-jamie-oliver-fbaf6d697cd5c7e00de1c95d33837d52)
     * [Aaron Boone's watches tell time -- and who's pitching for the Yankees each day](https://apnews.com/article/world-series-manager-watches-boone-roberts-6b2cba03aece9d8cd780414de22a9a5f)
-    * [Artisan cheese seller in a pickle after thieves made off with massive cheddar haul](https://apnews.com/article/cheddar-cheese-theft-london-neals-yard-dairy-e482c4ea63305493797c75eb103221e7)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -235,19 +235,19 @@ Menu
     TOP STORIES
     
     * ['All I can think about is hotter days.' Voter campaigns target Latinas worried about climate change](https://apnews.com/article/climate-change-election-2024-harris-trump-latinas-45b381be45eb4966636e13ffc4b3e025)
-    * [Slight progress in global biodiversity protection efforts but some species decline, new reports find](https://apnews.com/article/biodiversity-trees-decline-un-hedgehog-species-report-pledges-ocean-land-370da9d6ce7e1e9f4c1f918f99e2bb1e)
-    * [On Navajo Nation, a push to electrify more homes on the vast reservation](https://apnews.com/article/navajo-nation-electricity-tribal-lands-reservation-infrastructure-poverty-76f4515d3211a31cdff503c6082e3590)
+    * [UN chief calls for more pledges, private sector input to save global biodiversity at Colombia summit](https://apnews.com/article/colombia-cop16-biodiversity-united-nations-guterres-conference-cali-5dd5d08fda1dc35d5c12d989adef1b1f)
+    * [Where has all the rain gone? Bone-dry October strikes much of US](https://apnews.com/article/drought-dry-wildfire-climate-change-october-united-states-3f137270a2271a1baff7badb1d506aa4)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [Teen fights kidney failure after eating McDonald's Quarter Pounders](https://apnews.com/article/mcdonalds-e-coli-food-poisoning-acb6d87f6182b42295d16625480525b0)
     * [People opt out of organ donation programs after reports of a man mistakenly declared dead](https://apnews.com/article/organ-donor-transplant-kentucky-8f42ad402445a91e981327abb009906c)
     * [Apple AirPods Pro's new hearing aid feature could help people face a problem they'd rather ignore](https://apnews.com/article/hearing-aids-airpods-apple-android-fsa-hsa-e0f243bcaff9b4c5b5068b546012b338)
     * [Why cars might be the scariest thing this Halloween](https://apnews.com/article/halloween-safety-traffic-pedestrians-trick-or-treat-e0d0687736ae0facc455873ed963fb19)
     * [At least 75 people are sickened as the deadly McDonald's E. coli outbreak expands](https://apnews.com/article/mcdonalds-e-coli-outbreak-quarter-pounder-a1ec3dc14636f5e713b15b32aedcd524)
-    * [McDonald's says onions from California-based produce company linked to deadly E. coli outbreak](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-2bc3fc2d4198d9a5bad52c0028316165)
-    * [Pakistan begins another vaccination campaign after a worrying surge in polio cases](https://apnews.com/article/pakistan-polio-vaccination-campaign-12507014e31c5b233d62f8dc1c787c87)
+    * [8 million people were infected with TB in 2023. WHO says that's the highest it has seen](https://apnews.com/article/tb-who-tuberculosis-covid-c0fd5cc6542e7f9135833366b71546d2)
     
 * [Tech](https://apnews.com/technology)
     
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
-    * [Apple launches the iPhone into the AI era with free software update](https://apnews.com/article/apple-iphone-16-artificial-intelligence-software-update-d46b627cebfab90173a059c81bfeac1a)
-    * [British man sentenced to 18 years for using AI to make child sexual abuse imagery](https://apnews.com/article/ai-deepfakes-child-sexual-abuse-6b73afb86e95068a2a444f299fd7ca30)
-    * [Fitness app Strava gives away location of Biden, Trump and other leaders, French newspaper says](https://apnews.com/article/biden-trump-macron-bodyguards-security-strava-0a48afca09c7aa74d703e72833dcaf72)
+    * [Google's moneymaking machine still pumping out massive profits despite multiple threats](https://apnews.com/article/google-alphabet-earnings-artificial-intelligence-antitrust-30a75937bfbd9a4dfcee91cd4594cd59)
+    * [Trump's social media company is now worth more than Musk's X after recent surge in stock price](https://apnews.com/article/trump-media-stock-musk-x-social-5328feb1a782cc65bd05b7e30756b8db)
+    * [Robert Downey Jr. says he 'intends to sue' all future executives who use his AI replica](https://apnews.com/article/robert-downey-jr-ai-kara-swisher-742c6f2610b4ab89f81e1ca3e692a9de)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
-    * [Planting bulbs? Here's how to protect them from critters and the cold](https://apnews.com/article/planting-bulbs-protect-hay-wire-c3ebf13756ae9d12fda738bde5c58c87)
-    * [Care for a sweet treat during Mexico's Day of the Dead? Have a bite of 'pan de muerto'](https://apnews.com/article/mexico-day-of-dead-bread-pan-de-muerto-fb1b57baaeb7f4b3fb5d74e0ebd4d610)
-    * [As Halloween approaches, tourists visit a home with a gruesome past and tunnels said to be haunted](https://apnews.com/article/halloween-haunting-ghosts-lizzie-borden-shanghai-tunnels-0d61aace4a137d059cb6dfdb29ecd29e)
+    * [Court approves Tupperware's sale to lenders, paving way for brand's exit from bankruptcy](https://apnews.com/article/tupperware-bankruptcy-sale-approved-f26d780a71d5978f30e7464a1cb4d642)
+    * [In 'Ibelin' and 'Grand Theft Hamlet,' video game realms draw filmmakers with virtual cameras](https://apnews.com/article/video-game-documentaries-ibelin-grand-theft-hamlet-305dda63022951b18b04b7dab954f107)
+    * [Teen fights kidney failure after eating McDonald's Quarter Pounders](https://apnews.com/article/mcdonalds-e-coli-food-poisoning-acb6d87f6182b42295d16625480525b0)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * ['Not an act of God.' How the Rev. Richard Joyner became a farmer, then a climate activist](https://apnews.com/article/climate-change-farmer-activist-north-carolina-pastor-hurricanes-0af7037f8b527e1772e5ce181ad17447)
     * [Care for a sweet treat during Mexico's Day of the Dead? Have a bite of 'pan de muerto'](https://apnews.com/article/mexico-day-of-dead-bread-pan-de-muerto-fb1b57baaeb7f4b3fb5d74e0ebd4d610)
     * [Candidates’ supporters seek Pennsylvania's Catholic voters, whose votes may be crucial](https://apnews.com/article/pennsylvania-catholics-vote-presidential-election-trump-harris-ab5aa3ca70ce64dae3e307e3eb97bcb4)
-    * [Pope's child protection board urges transparency from Vatican sex abuse office and compensation](https://apnews.com/article/vatican-sex-abuse-report-catholic-pope-f87c5e22b48a96b37179c244ccfa8032)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Ataque israelí mata a 60 en norte de Gaza, según funcionarios, y Hezbollah anuncia nuevo líder](https://apnews.com/article/israel-palestinos-hamas-guerra-libano-hezbollah-iran-ddd3aa89d98c84103e5f5144d3d4cc50)
+    * [Ataque israelí en el norte de la Franja de Gaza deja al menos 88 muertos, informan funcionarios](https://apnews.com/article/israel-palestinos-hamas-guerra-libano-hezbollah-iran-ddd3aa89d98c84103e5f5144d3d4cc50)
     * [Zelenskyy dice que la guerra con Rusia se está extendiendo “más allá de las fronteras”](https://apnews.com/article/ucrania-rusia-guerra-kiev-jarkiv-ataques-146dc6536747b506e7d7c73b76c7b8e2)
     * [Para las elecciones de EEUU, la AP realiza el mayor acto periodístico del mundo](https://apnews.com/article/associated-press-elecciones-eeuu-ap-3bdea75f456e86820d01e1d12ea88831)
-    * ["Sólo puedo pensar en días tan calurosos". El cambio climático entra en campaña para mujeres latinas](https://apnews.com/world-news/general-news-88cf66f798c1e712c9284d3eabf8c16d)
-    * [Tranvía se descarrila y choca contra una tienda en Oslo; hay 4 heridos](https://apnews.com/article/noruega-tranvia-accidente-oslo-e2f5b791f7dbfda9971ba66ddbfa8f4c)
-    * [Aumenta el temor en comunidades libanesas que reciben a desplazados](https://apnews.com/article/libano-israel-hezbollah-beirut-22bae7c962a050cb97810aa73e3319df)
+    * [Trump dice que su mitin en NY, marcado por insultos, "fue una fiesta de amor"](https://apnews.com/article/trump-harris-elecciones-pensilvania-68c442fe7d4d72b5239276e0fb358bc8)
+    * ["Me preocupan los días más calurosos". El cambio climático es tema importante para votantes latinas](https://apnews.com/world-news/general-news-88cf66f798c1e712c9284d3eabf8c16d)
+    * [El derecho al voto no siempre está garantizado para los pueblos originarios de Alaska](https://apnews.com/article/alaska-pueblos-originarios-derecho-al-voto-eef9cbc1347ce6a1e0041961bc16f598)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -460,9 +460,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Israeli strike in northern Gaza kills at least 60, officials say](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-29-2024-befe1b42ef25599539198fa04e089f04)
+    * [Israeli strikes in northern Gaza kill at least 88, officials say](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-29-2024-befe1b42ef25599539198fa04e089f04)
     * [As Israel strikes deeper into Lebanon, fear rises in communities where the displaced took refuge](https://apnews.com/article/lebanon-israel-war-displacement-hezbollah-395ccfd8ff7e230b474867b13e594b1b)
-    * [What to know about Israel's new laws banning UNRWA](https://apnews.com/article/israel-palestinians-hamas-war-un-aid-refugees-16bc0524adc947b95abe25d7d9eca038)
+    * [Israel must step in if it bans the UN agency that is a lifeline for Gaza, UN says](https://apnews.com/article/un-unrwa-israel-palestinians-gaza-refugees-laws-6cc2518b83eaecd3f813df59588b539f)
     
     Newsletters
     
@@ -478,9 +478,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris reaches for a big moment in her closing argument for 'turning the page' on Trump](https://apnews.com/article/harris-trump-closing-argument-ellipse-washington-139a7b390dc30ceab85d9ac56fcc521d)
+    * [Harris to promise to 'put country above party and above self' in closing argument against Trump](https://apnews.com/article/harris-trump-closing-argument-ellipse-washington-139a7b390dc30ceab85d9ac56fcc521d)
     * [Ballot drop box fires highlight concerns that election conspiracy theories are making them a target](https://apnews.com/article/ballot-drop-boxes-explainer-2024-portland-vancouver-ff3023c566fcc0282eb8ee84de297bf9)
-    * [For the US election, the AP performs the world's single largest act of journalism](https://apnews.com/article/associated-press-election-race-calls-ap-1e3151554eecc16a26ac318bd3627d17)
+    * [Man who attacked Nancy Pelosi’s husband gets life in prison](https://apnews.com/article/david-depape-nancy-pelosi-husband-paul-attacked-454cbde088fcae22a356f1f8dd0e9eba)
     
     Newsletters
     
@@ -507,9 +507,9 @@ Submit Search
     
     TOP STORIES
     
-    * [The first presidential election since the Jan. 6 attack will test new guardrails from Congress](https://apnews.com/article/congress-jan-6-electoral-count-challenges-64b1ceeeacff133731ca4af01425a7c9)
-    * [Ballot drop box fires highlight concerns that election conspiracy theories are making them a target](https://apnews.com/article/ballot-drop-boxes-explainer-2024-portland-vancouver-ff3023c566fcc0282eb8ee84de297bf9)
-    * [Here's what to watch in the final full week of the presidential campaign](https://apnews.com/article/election-2024-what-to-watch-4de963c6474ff7a0b4044d6a23cf8ad7)
+    * [Harris to promise to 'put country above party and above self' in closing argument against Trump](https://apnews.com/article/harris-trump-closing-argument-ellipse-washington-139a7b390dc30ceab85d9ac56fcc521d)
+    * [Trump says his New York rally marked by crude and racist insults was 'an absolute lovefest'](https://apnews.com/article/trump-harris-lovefest-rally-puerto-rico-6e079e7894a7e1db5dd4be76cccb452a)
+    * [Newspaper non-endorsements at Washington Post, LA Times fit a trend, but their readers aren't happy](https://apnews.com/article/post-newspaper-endorsements-trump-harris-44efcb29d0b27c039a9b0b259ec255d7)
     
     Newsletters
     
@@ -532,9 +532,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Trump says his New York rally marked by crude and racist insults 'was like a lovefest'](https://apnews.com/article/trump-harris-lovefest-rally-puerto-rico-6e079e7894a7e1db5dd4be76cccb452a)
-    * [Harris reaches for a big moment in her closing argument for 'turning the page' on Trump](https://apnews.com/article/harris-trump-closing-argument-ellipse-washington-139a7b390dc30ceab85d9ac56fcc521d)
-    * [The ability to cast a ballot isn’t always guaranteed in Alaska’s far-flung Native villages](https://apnews.com/article/alaska-native-voting-disenfranchisement-6b160888c8f847c390db042cd9569063)
+    * [Trump says his New York rally marked by crude and racist insults was 'an absolute lovefest'](https://apnews.com/article/trump-harris-lovefest-rally-puerto-rico-6e079e7894a7e1db5dd4be76cccb452a)
+    * [Harris to promise to 'put country above party and above self' in closing argument against Trump](https://apnews.com/article/harris-trump-closing-argument-ellipse-washington-139a7b390dc30ceab85d9ac56fcc521d)
+    * [A clumsy early voting option has backed up election offices in Pennsylvania and frustrated voters](https://apnews.com/article/pennsylvania-early-voting-problems-bucks-county-bdc20bfb2c82e29d8698c1a22feb0eae)
     
     Newsletters
     
@@ -562,9 +562,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Shohei Ohtani's rural hometown honors its superstar son — from city hall to the hair salons](https://apnews.com/article/world-series-japan-ohtanis-hometown-e3cad030c39f7546a2f7bd100fa6e3b9)
-    * [Sorry came easy for Tyrique Stevenson but his Hail Mary gaffe sends the Bears on much rougher road](https://apnews.com/article/commanders-bears-stevenson-daniels-rodgers-jets-7b8f39b79552c0d1df09a33513bc13b3)
-    * [Analysis: NBA and WNBA coaching jobs 'don’t have a long shelf life.' Lately that's been 1 to 3 years](https://apnews.com/article/nba-coaches-wnba-3937dec61cc0efe1bba167b1370c2c42)
+    * [Colts benching Anthony Richardson to start Joe Flacco at quarterback vs. Vikings, AP sources say](https://apnews.com/article/anthony-richardson-joe-flacco-indianapolis-colts-73ed51cc802241fbabf65fc030246a57)
+    * [Texans wide receiver Stefon Diggs out for season after tearing right ACL](https://apnews.com/article/houston-texans-stefon-diggs-injured-37a73f1491732bad18f2a9c8ac883a53)
+    * [Panthers send WR Diontae Johnson, 6th-round pick to Ravens, get back 5th-rounder, AP source says](https://apnews.com/article/diontae-johnson-ravens-trade-518324e504686e0f39ca649762dd9731)
     
     Newsletters
     
@@ -591,9 +591,9 @@ Submit Search
     
     TOP STORIES
     
+    * [In 'Ibelin' and 'Grand Theft Hamlet,' video game realms draw filmmakers with virtual cameras](https://apnews.com/article/video-game-documentaries-ibelin-grand-theft-hamlet-305dda63022951b18b04b7dab954f107)
+    * [Teri Garr, the offbeat comic actor of 'Young Frankenstein' and 'Tootsie,' has died](https://apnews.com/article/teri-garr-dies-be39482a60724c5bb81bbd8f34dfaf2d)
     * [The ‘Juror #2’ cast still can’t believe they got to work with Clint Eastwood](https://apnews.com/article/clint-eastwood-juror-2-movie-nicholas-hoult-e481412b89da33949ef4317d645edc9e)
-    * [Movie Review: An unmoving camera and de-aging technology make 'Here' with Tom Hanks painful to watch](https://apnews.com/article/here-movie-review-tom-hanks-5b25c54561db642238dc883bcae48435)
-    * [Newspaper non-endorsements at Washington Post, LA Times fit a trend, but their readers aren't happy](https://apnews.com/article/post-newspaper-endorsements-trump-harris-44efcb29d0b27c039a9b0b259ec255d7)
     
 * [Business](https://apnews.com/business)
     
@@ -608,9 +608,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Google's moneymaking machine still pumping out massive profits despite multiple threats](https://apnews.com/article/google-alphabet-earnings-artificial-intelligence-antitrust-30a75937bfbd9a4dfcee91cd4594cd59)
+    * [Stock market today: Rising tech stocks send Nasdaq to a record as most of Wall Street stumbles](https://apnews.com/article/financial-markets-oil-prices-tech-stocks-1f348c34204ce132997defdd9a15a31a)
     * [US job openings fell in September to a 3 1/2-year low](https://apnews.com/article/job-openings-economy-unemployment-inflation-federal-reserve-8d33da575578641b91adc98258b68f5a)
-    * [Newspaper non-endorsements at Washington Post, LA Times fit a trend, but their readers aren't happy](https://apnews.com/article/post-newspaper-endorsements-trump-harris-44efcb29d0b27c039a9b0b259ec255d7)
-    * [Owner Jeff Bezos defends Washington Post's decision not to endorse as the right, 'principled' one](https://apnews.com/article/washington-post-subscriptions-endorsement-07d752d987dbb64b68da63d9ac37b7e8)
     
 * [Science](https://apnews.com/science)
     
@@ -634,23 +634,23 @@ Submit Search
     
     TOP STORIES
     
+    * [FACT FOCUS: A look at false and misleading claims surrounding the 2024 election](https://apnews.com/article/fact-check-misinformation-houston-rally-confrontation-99af1f80eb43d31966cae8e68dbc3415)
     * [FACT FOCUS: Trump repeated election lies in his interview with Joe Rogan. Here are the facts](https://apnews.com/article/trump-election-lies-rogan-interview-ballots-voting-c8c06eb608c1b1ae8ca0e93ec1022b02)
     * [FACT FOCUS: A look at false and misleading claims surrounding the 2024 election](https://apnews.com/article/misinformation-fact-check-2024-election-voting-2c3931aab2ff2e8caa9d3737d8f1cc81)
     * [Election officials are fighting a tsunami of voting conspiracy theories](https://apnews.com/article/election-2024-conspiracy-theories-misinformation-trump-musk-0e5a84b1d9e6cd63cd8ca22ee9900387)
     * [FACT FOCUS: Inactive voters on Michigan's rolls are misrepresented in suggestions of fraud](https://apnews.com/article/michigan-voter-rolls-fraud-fact-check-misinformation-3075e2cb1f7d69c27a5181a7e4ea7251)
     * [FACT FOCUS: A look at the false information around Hurricanes Helene and Milton](https://apnews.com/article/election-hurricanes-false-info-helene-milton-a4c2df2463b69c1f2e3eb6846e3b37ae)
-    * [FACT FOCUS: Online posts make unfounded claims about a helicopter delivering aid in North Carolina](https://apnews.com/article/fact-check-helicopter-north-carolina-helene-d44fb04825337e8a7ca69e9f616621f7)
     
 * [Oddities](https://apnews.com/oddities)
     
     TOP STORIES
     
-    * [At 7 feet, 9 inches, Olivier Rioux is the world's tallest teen and an intriguing basketball project](https://apnews.com/article/worlds-tallest-teenager-d1c918fb54100a09a9c7db648c4ef71d)
+    * [In a first since 1938, Des Moines, Iowa, kids will trick-or-treat on Halloween](https://apnews.com/article/beggars-night-des-moines-iowa-halloween-26710c8e3564d461b6868313f7f71425)
+    * [He's the world’s tallest teen — and an intriguing basketball prospect](https://apnews.com/article/worlds-tallest-teenager-d1c918fb54100a09a9c7db648c4ef71d)
     * [Rare dime bought by Ohio farm family and hidden for decades fetches $500,000 at auction](https://apnews.com/article/rare-dime-sold-c757327ec6540bf9e5132fdadc292886)
     * [Timothée Chalamet crashes his own look-alike contest after police shut down crowded event](https://apnews.com/article/timothee-chalamet-lookalike-dune-7acc6bda7612cb72eca31d2cc0106028)
     * [British chef Jamie Oliver urges followers to help solve the 'grate cheese robbery'](https://apnews.com/article/great-cheese-theft-london-cheddar-jamie-oliver-fbaf6d697cd5c7e00de1c95d33837d52)
     * [Aaron Boone's watches tell time -- and who's pitching for the Yankees each day](https://apnews.com/article/world-series-manager-watches-boone-roberts-6b2cba03aece9d8cd780414de22a9a5f)
-    * [Artisan cheese seller in a pickle after thieves made off with massive cheddar haul](https://apnews.com/article/cheddar-cheese-theft-london-neals-yard-dairy-e482c4ea63305493797c75eb103221e7)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -732,19 +732,19 @@ Submit Search
     TOP STORIES
     
     * ['All I can think about is hotter days.' Voter campaigns target Latinas worried about climate change](https://apnews.com/article/climate-change-election-2024-harris-trump-latinas-45b381be45eb4966636e13ffc4b3e025)
-    * [Slight progress in global biodiversity protection efforts but some species decline, new reports find](https://apnews.com/article/biodiversity-trees-decline-un-hedgehog-species-report-pledges-ocean-land-370da9d6ce7e1e9f4c1f918f99e2bb1e)
-    * [On Navajo Nation, a push to electrify more homes on the vast reservation](https://apnews.com/article/navajo-nation-electricity-tribal-lands-reservation-infrastructure-poverty-76f4515d3211a31cdff503c6082e3590)
+    * [UN chief calls for more pledges, private sector input to save global biodiversity at Colombia summit](https://apnews.com/article/colombia-cop16-biodiversity-united-nations-guterres-conference-cali-5dd5d08fda1dc35d5c12d989adef1b1f)
+    * [Where has all the rain gone? Bone-dry October strikes much of US](https://apnews.com/article/drought-dry-wildfire-climate-change-october-united-states-3f137270a2271a1baff7badb1d506aa4)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [Teen fights kidney failure after eating McDonald's Quarter Pounders](https://apnews.com/article/mcdonalds-e-coli-food-poisoning-acb6d87f6182b42295d16625480525b0)
     * [People opt out of organ donation programs after reports of a man mistakenly declared dead](https://apnews.com/article/organ-donor-transplant-kentucky-8f42ad402445a91e981327abb009906c)
     * [Apple AirPods Pro's new hearing aid feature could help people face a problem they'd rather ignore](https://apnews.com/article/hearing-aids-airpods-apple-android-fsa-hsa-e0f243bcaff9b4c5b5068b546012b338)
     * [Why cars might be the scariest thing this Halloween](https://apnews.com/article/halloween-safety-traffic-pedestrians-trick-or-treat-e0d0687736ae0facc455873ed963fb19)
     * [At least 75 people are sickened as the deadly McDonald's E. coli outbreak expands](https://apnews.com/article/mcdonalds-e-coli-outbreak-quarter-pounder-a1ec3dc14636f5e713b15b32aedcd524)
-    * [McDonald's says onions from California-based produce company linked to deadly E. coli outbreak](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-2bc3fc2d4198d9a5bad52c0028316165)
-    * [Pakistan begins another vaccination campaign after a worrying surge in polio cases](https://apnews.com/article/pakistan-polio-vaccination-campaign-12507014e31c5b233d62f8dc1c787c87)
+    * [8 million people were infected with TB in 2023. WHO says that's the highest it has seen](https://apnews.com/article/tb-who-tuberculosis-covid-c0fd5cc6542e7f9135833366b71546d2)
     
 * [Tech](https://apnews.com/technology)
     
@@ -757,9 +757,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Apple launches the iPhone into the AI era with free software update](https://apnews.com/article/apple-iphone-16-artificial-intelligence-software-update-d46b627cebfab90173a059c81bfeac1a)
-    * [British man sentenced to 18 years for using AI to make child sexual abuse imagery](https://apnews.com/article/ai-deepfakes-child-sexual-abuse-6b73afb86e95068a2a444f299fd7ca30)
-    * [Fitness app Strava gives away location of Biden, Trump and other leaders, French newspaper says](https://apnews.com/article/biden-trump-macron-bodyguards-security-strava-0a48afca09c7aa74d703e72833dcaf72)
+    * [Google's moneymaking machine still pumping out massive profits despite multiple threats](https://apnews.com/article/google-alphabet-earnings-artificial-intelligence-antitrust-30a75937bfbd9a4dfcee91cd4594cd59)
+    * [Trump's social media company is now worth more than Musk's X after recent surge in stock price](https://apnews.com/article/trump-media-stock-musk-x-social-5328feb1a782cc65bd05b7e30756b8db)
+    * [Robert Downey Jr. says he 'intends to sue' all future executives who use his AI replica](https://apnews.com/article/robert-downey-jr-ai-kara-swisher-742c6f2610b4ab89f81e1ca3e692a9de)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -777,17 +777,17 @@ Submit Search
     
     TOP STORIES
     
-    * [Planting bulbs? Here's how to protect them from critters and the cold](https://apnews.com/article/planting-bulbs-protect-hay-wire-c3ebf13756ae9d12fda738bde5c58c87)
-    * [Care for a sweet treat during Mexico's Day of the Dead? Have a bite of 'pan de muerto'](https://apnews.com/article/mexico-day-of-dead-bread-pan-de-muerto-fb1b57baaeb7f4b3fb5d74e0ebd4d610)
-    * [As Halloween approaches, tourists visit a home with a gruesome past and tunnels said to be haunted](https://apnews.com/article/halloween-haunting-ghosts-lizzie-borden-shanghai-tunnels-0d61aace4a137d059cb6dfdb29ecd29e)
+    * [Court approves Tupperware's sale to lenders, paving way for brand's exit from bankruptcy](https://apnews.com/article/tupperware-bankruptcy-sale-approved-f26d780a71d5978f30e7464a1cb4d642)
+    * [In 'Ibelin' and 'Grand Theft Hamlet,' video game realms draw filmmakers with virtual cameras](https://apnews.com/article/video-game-documentaries-ibelin-grand-theft-hamlet-305dda63022951b18b04b7dab954f107)
+    * [Teen fights kidney failure after eating McDonald's Quarter Pounders](https://apnews.com/article/mcdonalds-e-coli-food-poisoning-acb6d87f6182b42295d16625480525b0)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * ['Not an act of God.' How the Rev. Richard Joyner became a farmer, then a climate activist](https://apnews.com/article/climate-change-farmer-activist-north-carolina-pastor-hurricanes-0af7037f8b527e1772e5ce181ad17447)
     * [Care for a sweet treat during Mexico's Day of the Dead? Have a bite of 'pan de muerto'](https://apnews.com/article/mexico-day-of-dead-bread-pan-de-muerto-fb1b57baaeb7f4b3fb5d74e0ebd4d610)
     * [Candidates’ supporters seek Pennsylvania's Catholic voters, whose votes may be crucial](https://apnews.com/article/pennsylvania-catholics-vote-presidential-election-trump-harris-ab5aa3ca70ce64dae3e307e3eb97bcb4)
-    * [Pope's child protection board urges transparency from Vatican sex abuse office and compensation](https://apnews.com/article/vatican-sex-abuse-report-catholic-pope-f87c5e22b48a96b37179c244ccfa8032)
     
     Newsletters
     
@@ -801,12 +801,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Ataque israelí mata a 60 en norte de Gaza, según funcionarios, y Hezbollah anuncia nuevo líder](https://apnews.com/article/israel-palestinos-hamas-guerra-libano-hezbollah-iran-ddd3aa89d98c84103e5f5144d3d4cc50)
+    * [Ataque israelí en el norte de la Franja de Gaza deja al menos 88 muertos, informan funcionarios](https://apnews.com/article/israel-palestinos-hamas-guerra-libano-hezbollah-iran-ddd3aa89d98c84103e5f5144d3d4cc50)
     * [Zelenskyy dice que la guerra con Rusia se está extendiendo “más allá de las fronteras”](https://apnews.com/article/ucrania-rusia-guerra-kiev-jarkiv-ataques-146dc6536747b506e7d7c73b76c7b8e2)
     * [Para las elecciones de EEUU, la AP realiza el mayor acto periodístico del mundo](https://apnews.com/article/associated-press-elecciones-eeuu-ap-3bdea75f456e86820d01e1d12ea88831)
-    * ["Sólo puedo pensar en días tan calurosos". El cambio climático entra en campaña para mujeres latinas](https://apnews.com/world-news/general-news-88cf66f798c1e712c9284d3eabf8c16d)
-    * [Tranvía se descarrila y choca contra una tienda en Oslo; hay 4 heridos](https://apnews.com/article/noruega-tranvia-accidente-oslo-e2f5b791f7dbfda9971ba66ddbfa8f4c)
-    * [Aumenta el temor en comunidades libanesas que reciben a desplazados](https://apnews.com/article/libano-israel-hezbollah-beirut-22bae7c962a050cb97810aa73e3319df)
+    * [Trump dice que su mitin en NY, marcado por insultos, "fue una fiesta de amor"](https://apnews.com/article/trump-harris-elecciones-pensilvania-68c442fe7d4d72b5239276e0fb358bc8)
+    * ["Me preocupan los días más calurosos". El cambio climático es tema importante para votantes latinas](https://apnews.com/world-news/general-news-88cf66f798c1e712c9284d3eabf8c16d)
+    * [El derecho al voto no siempre está garantizado para los pueblos originarios de Alaska](https://apnews.com/article/alaska-pueblos-originarios-derecho-al-voto-eef9cbc1347ce6a1e0041961bc16f598)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
