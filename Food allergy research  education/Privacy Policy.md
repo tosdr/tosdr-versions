@@ -58,7 +58,6 @@ Close Alert Banner
 * [How to Advocate](https://www.foodallergy.org/take-action/how-advocate)
 * [Know Your Rights](https://www.foodallergy.org/our-initiatives/advocacy/know-your-rights)
 * [Courage at Congress](https://www.foodallergy.org/our-initiatives/advocacy/food-allergy-issues/courage-congress)
-* [FARE Neighborhoods Initiative](https://www.foodallergy.org/our-initiatives/advocacy/fare-neighborhoods-initiative)
 * Education Programs & Training
     
 * [FARE Training - Food Allergy Academy](https://www.foodallergy.org/our-initiatives/education-programs-training/fare-training)
@@ -66,6 +65,7 @@ Close Alert Banner
 * [FARE Food Allergy College Search](https://www.foodallergy.org/our-initiatives/education-programs-training/fare-food-allergy-college-program)
 * [FARE Webinars](https://www.foodallergy.org/our-initiatives/education-programs-training/fare-webinars)
 * [Attend an Event](https://www.foodallergy.org/our-initiatives/education-programs-training/special-events)
+* [FARE Neighborhoods Initiative](https://www.foodallergy.org/our-initiatives/education-programs-training/fare-neighborhoods-initiative)
 * Awareness Campaigns
     
 * [Back to School Headquarters](https://www.foodallergy.org/living-food-allergies/food-allergy-essentials/back-school-resource-hub)
@@ -192,7 +192,6 @@ You can help improve the lives of 85 million Americans impacted by food allergie
     * [How to Advocate](https://www.foodallergy.org/take-action/how-advocate)
     * [Know Your Rights](https://www.foodallergy.org/our-initiatives/advocacy/know-your-rights)
     * [Courage at Congress](https://www.foodallergy.org/our-initiatives/advocacy/food-allergy-issues/courage-congress)
-    * [FARE Neighborhoods Initiative](https://www.foodallergy.org/our-initiatives/advocacy/fare-neighborhoods-initiative)
     
     Education Programs & Training
     
@@ -201,6 +200,7 @@ You can help improve the lives of 85 million Americans impacted by food allergie
     * [FARE Food Allergy College Search](https://www.foodallergy.org/our-initiatives/education-programs-training/fare-food-allergy-college-program)
     * [FARE Webinars](https://www.foodallergy.org/our-initiatives/education-programs-training/fare-webinars)
     * [Attend an Event](https://www.foodallergy.org/our-initiatives/education-programs-training/special-events)
+    * [FARE Neighborhoods Initiative](https://www.foodallergy.org/our-initiatives/education-programs-training/fare-neighborhoods-initiative)
     
     Awareness Campaigns
     
