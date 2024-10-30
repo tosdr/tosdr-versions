@@ -1,5 +1,7 @@
 The site's javascripts are blocked. This disables some functionality on the site.
 
+[Our Halloween Contest stories are available for reading and voting](https://storiesonline.net/contest/halloween-2024) Enjoy! \[ [Dismiss](javascript:hn();) \]
+
 [Home](https://storiesonline.net/)
 
 **Posted:**
