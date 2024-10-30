@@ -4,6 +4,12 @@
 
 #### Other Helpful Links
 
+* [Master Terms of Use](https://www.eosworldwide.com/terms-conditions/)
+* [Privacy Policy](https://www.eosworldwide.com/privacy-policy/)
+* [California Applicant Privacy Notice](https://www.eosworldwide.com/privacy-policy/california)
+* [Cookie Policy](https://www.eosworldwide.com/cookie-policy/)
+* [Your Privacy Choices](#)
+
 #### Last Updated: October 28, 2024
 
 EOS Worldwide Privacy Notice
