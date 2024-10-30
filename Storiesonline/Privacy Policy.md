@@ -1,7 +1,5 @@
 The site's javascripts are blocked. This disables some functionality on the site.
 
-The clock is ticking! hurry and submit your entry into our[Halloween Writing Contest](https://storiesonline.net/contest/halloween-2024) \[ [Dismiss](javascript:hn();) \]
-
 [Home](https://storiesonline.net/)
 
 **Posted:**
