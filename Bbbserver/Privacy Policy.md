@@ -15,16 +15,16 @@ Datenschutzerklärung
 1                Vorwort
 ========================
 
-Das Gesamtsystem "bbbserver.de" wird auf den beiden Hauptsdomains "bbbserver.de" (überwiegend für Nutzer aus Deutschland) und "bbbserver.eu" (überwiegend für Nutzer aus anderen Ländern) betrieben. Um das Dokument einfach und verständlich zu halten, verwendet dieses Dokument überall nur "bbbserver.de", wo es nicht zwingend technisch Notwendig ist, beide Domains zu nennen.
+Das Gesamtsystem "bbbserver.de" wird auf den beiden Hauptsdomains "bbbserver.de" (überwiegend für Nutzer aus Deutschland) und "bbbserver.com" bzw. "bbbserver.eu" (überwiegend für Nutzer aus anderen Ländern) betrieben. Um das Dokument einfach und verständlich zu halten, verwendet dieses Dokument überall nur "bbbserver.de", wo es nicht zwingend technisch Notwendig ist, beide Domains zu nennen.
 
 1.1            Schutzebenen
 ---------------------------
 
 Das Gesamtsystem "bbbserver.de" teilt sich in drei Bereiche auf, welche in der nachfolgenden Datenschutzerklärung gemeinsam als "Webseite" bezeichnet werden. Für die Bereiche sehen wir in unserem Datenschutzkonzept unterschiedlichen Sicherheitsanforderungen vor. Die drei Bereiche umfassen:
 
-·       Die **Webseite** (zu erkennen an den Domains "bbbserver.de" oder "bbbserver.eu"), auf der keine Registrierung möglich ist und auf der keine personenbezogenen Daten in Form von Onlineformularen abgefragt werden
+·       Die **Webseite** (zu erkennen an den Domains "bbbserver.de", "bbbserver.com" oder "bbbserver.eu"), auf der keine Registrierung möglich ist und auf der keine personenbezogenen Daten in Form von Onlineformularen abgefragt werden
 
-·       Das **Plattform-System** (zu erkennen an den Domains "app.bbbserver.de" oder "app.bbbserver.eu"), welches den Benutzerlogin uns sämtliche Programmfunktionen zur Verwaltung & Bezahlung von Videokonferenzen anbietet
+·       Das **Plattform-System** (zu erkennen an den Domains "app.bbbserver.de", "app.bbbserver.com" oder "app.bbbserver.eu"), welches den Benutzerlogin uns sämtliche Programmfunktionen zur Verwaltung & Bezahlung von Videokonferenzen anbietet
 
 ·       Die **Videokonferenz-Server** (zu erkennen an der Domain "\*.s.bbbserver.de") welche die konkreten Videokonferenzen und den damit verbundenen Datentransfer abwickeln
 
