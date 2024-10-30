@@ -129,7 +129,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Liberty Band Emergency Solar Weather NOAA Radio
         
-        186 reviews](https://4patriots.com/products/liberty-band-emergency-solar-radios)
+        187 reviews](https://4patriots.com/products/liberty-band-emergency-solar-radios)
         
         [![ HaloXT Tactical Solar Flashlight 1 pack as featured on fox & friends](//shop.4patriots.com/cdn/shop/products/HXT-1PACK-STOREFRONT-ARRAY_360x.jpg?v=1718629734)
         
