@@ -139,7 +139,7 @@ By submitting personal information through our websites, Applications or Service
 **A Note to Users Outside of the United States**  
 If you are a non-U.S. user of our websites, by visiting the websites and providing us with data, you acknowledge and agree that your personal information may be processed for the purposes listed in this Privacy Policy. In addition, your personal information may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of personal information may be less stringent than the laws in your country. By providing your data, you consent to such transfer.
 
-Anonyome Labs, Inc. complies with the EU-U.S. Data Privacy Framework (including the the UK Extension) and the Swiss-U.S. Data Privacy Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information transferred from the European Union and the United Kingdom, and/or Switzerland to the United States, respectively. Anonyome Labs’ Data Privacy Framework statement is available [here](https://mysudo.com/data-privacy-framework-statement).
+Anonyome Labs, Inc. complies with the EU-U.S. Data Privacy Framework (including the UK Extension) and the Swiss-U.S. Data Privacy Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information transferred from the European Union and the United Kingdom, and/or Switzerland to the United States, respectively. Anonyome Labs’ Data Privacy Framework statement is available [here](https://mysudo.com/data-privacy-framework-statement).
 
 The Information We Collect
 --------------------------
