@@ -139,6 +139,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Prime Minister Shigeru Ishiba speaks during a news conference a day after the Lower House election, at the Liberal Democratic Party's headquarters in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430619.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks during a news conference a day after the Lower House election, at the Liberal Democratic Party's headquarters in Tokyo on Monday.")](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/postelection-analysis-ishiba/ "Questions swirl over Ishiba’s future after torrid first month as PM")
 
+[Passenger's photos from Hokkaido boat accident retrieved 2½ years on](https://www.japantimes.co.jp/news/2024/10/28/japan/crime-legal/kazu-i-photos-restoration/ "Passenger's photos from Hokkaido boat accident retrieved 2½ years on")
+
+  [![A digital camera found near the tip of the Shiretoko Peninsula in August was identified as belonging to Yu Nudeshima, a passenger of the Kazu I tour boat that sank on April 23, 2022, with 26 people on board.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430528.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A digital camera found near the tip of the Shiretoko Peninsula in August was identified as belonging to Yu Nudeshima, a passenger of the Kazu I tour boat that sank on April 23, 2022, with 26 people on board.")](https://www.japantimes.co.jp/news/2024/10/28/japan/crime-legal/kazu-i-photos-restoration/ "Passenger's photos from Hokkaido boat accident retrieved 2½ years on")
+
 [Record number of women elected to Japan's Lower House](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/women-elected-lower-house/ "Record number of women elected to Japan's Lower House")
 
   [![Liberal Democratic Party lawmaker Chisato Morishita bows to reporters on Sunday in Ishinomaki, Miyagi Prefecture, after she was projected to win a seat in the Lower House election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430604.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Liberal Democratic Party lawmaker Chisato Morishita bows to reporters on Sunday in Ishinomaki, Miyagi Prefecture, after she was projected to win a seat in the Lower House election.")](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/women-elected-lower-house/ "Record number of women elected to Japan's Lower House")
@@ -146,10 +150,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 [The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’](https://www.japantimes.co.jp/culture/2024/10/27/film/studio-ghibli-hayao-miyazaki-visby-sweden/ "The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’")
 
   [![Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430026.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.")](https://www.japantimes.co.jp/culture/2024/10/27/film/studio-ghibli-hayao-miyazaki-visby-sweden/ "The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’")
-
-[Delay in Mount Fuji snowcap formation breaks record](https://www.japantimes.co.jp/news/2024/10/28/japan/mount-fuji-snowcap-delay/ "Delay in Mount Fuji snowcap formation breaks record")
-
-  [![The volcano's snowcap begins forming on Oct. 2 on average, and last year snow was first detected there on Oct. 5.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430685.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The volcano's snowcap begins forming on Oct. 2 on average, and last year snow was first detected there on Oct. 5.")](https://www.japantimes.co.jp/news/2024/10/28/japan/mount-fuji-snowcap-delay/ "Delay in Mount Fuji snowcap formation breaks record")
 
 Editors' Picks
 --------------
@@ -170,6 +170,12 @@ By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-niniva
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
+[Passenger's photos from Hokkaido boat accident retrieved 2½ years on](https://www.japantimes.co.jp/news/2024/10/28/japan/crime-legal/kazu-i-photos-restoration/ "Passenger's photos from Hokkaido boat accident retrieved 2½ years on")
+
+  [![A digital camera found near the tip of the Shiretoko Peninsula in August was identified as belonging to Yu Nudeshima, a passenger of the Kazu I tour boat that sank on April 23, 2022, with 26 people on board.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430528.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A digital camera found near the tip of the Shiretoko Peninsula in August was identified as belonging to Yu Nudeshima, a passenger of the Kazu I tour boat that sank on April 23, 2022, with 26 people on board.")](https://www.japantimes.co.jp/news/2024/10/28/japan/crime-legal/kazu-i-photos-restoration/ "Passenger's photos from Hokkaido boat accident retrieved 2½ years on")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 [Record number of women elected to Japan's Lower House](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/women-elected-lower-house/ "Record number of women elected to Japan's Lower House")
 
 By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
@@ -183,12 +189,6 @@ By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Franci
 By [Erik Augustin Palm](https://www.japantimes.co.jp/author/4872/erik-augustin-palm/ "Erik Augustin Palm")  
 
   [![Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430026.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.")](https://www.japantimes.co.jp/culture/2024/10/27/film/studio-ghibli-hayao-miyazaki-visby-sweden/ "The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Delay in Mount Fuji snowcap formation breaks record](https://www.japantimes.co.jp/news/2024/10/28/japan/mount-fuji-snowcap-delay/ "Delay in Mount Fuji snowcap formation breaks record")
-
-  [![The volcano's snowcap begins forming on Oct. 2 on average, and last year snow was first detected there on Oct. 5.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430685.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The volcano's snowcap begins forming on Oct. 2 on average, and last year snow was first detected there on Oct. 5.")](https://www.japantimes.co.jp/news/2024/10/28/japan/mount-fuji-snowcap-delay/ "Delay in Mount Fuji snowcap formation breaks record")
 
 Podcast
 -------
@@ -209,9 +209,9 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,23 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Georgia and Moldova votes show challenges of EU enlargement push](https://www.japantimes.co.jp/news/2024/10/29/world/politics/eu-enlargement-push-hurdles/ "Georgia and Moldova votes show challenges of EU enlargement push")
+[A lack of workers threatens Japan's nuclear power revival](https://www.japantimes.co.jp/news/2024/10/30/japan/nuclear-power-lack-of-workers/ "A lack of workers threatens Japan's nuclear power revival")
 
-9 hours ago
+11 mins ago
 
-[Hezbollah names Naim Qassem as its new leader](https://www.japantimes.co.jp/news/2024/10/29/world/hezbollah-new-leader/ "Hezbollah names Naim Qassem as its new leader")
+[Ex-Goldman banker-turned-billionaire takes on South Korea’s chaebol](https://www.japantimes.co.jp/business/2024/10/30/companies/goldman-billionaire-korea-chaebol/ "Ex-Goldman banker-turned-billionaire takes on South Korea’s chaebol")
 
-9 hours ago
+48 mins ago
 
-[Japan posts record number of heatstroke patients in five-month period](https://www.japantimes.co.jp/news/2024/10/29/japan/japan-heatstroke-five-month-record/ "Japan posts record number of heatstroke patients in five-month period")
+[As U.S. election nears, Europe worries over impact on Ukraine war and NATO](https://www.japantimes.co.jp/news/2024/10/30/world/politics/us-election-europe-ukraine-nato/ "As U.S. election nears, Europe worries over impact on Ukraine war and NATO")
 
-10 hours ago
+1 hours ago
 
-[Japan continues to see moderate recovery but cuts factory output view](https://www.japantimes.co.jp/business/2024/10/29/economy/japan-moderate-economic-recovery/ "Japan continues to see moderate recovery but cuts factory output view")
+[U.S. serviceman detained after wife found dead in Fukuoka hotel](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/us-serviceman-wife-found-dead-fukuoka/ "U.S. serviceman detained after wife found dead in Fukuoka hotel")
 
-10 hours ago
+1 hours ago
 
-[Japan's rail fans disapprove of new Seishun 18 tickets](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
+[Church must act faster against abusive priests, papal commission says](https://www.japantimes.co.jp/news/2024/10/30/world/society/abusive-priests-papal-commission/ "Church must act faster against abusive priests, papal commission says")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
