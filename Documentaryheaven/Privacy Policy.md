@@ -128,39 +128,39 @@ Advertisement
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
-* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
+* [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
     
-    The Beginning and the End of the Universe
+    Diary of a Porn Virgin
     
-    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
+    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
 
 ###### Throwback Documentaries
 
-* [![A Universe From Nothing (Lecture)](/wp-content/thumbnails/2511-100x70.jpg?x53432)
+* [![I Love My Bicycle](/wp-content/thumbnails/5560-100x70.jpg?x53432)
     
-    A Universe From Nothing (Lecture)
+    I Love My Bicycle
     
-    Lawrence Krauss gives a talk on our current picture of the universe, how it will end, and how it could have come from nothing.Krauss is the author of many bestselling books on Physics and Cosmolog](https://documentaryheaven.com/a-universe-from-nothing-lecture/ "A Universe From Nothing (Lecture)")
-* [![Great White Shark: A Living Legend](/wp-content/thumbnails/8038-100x70.jpg?x53432)
+    17-year-old Steve Crandall started a company called Fat Bald Men (FBM). It began as selling t-shirts type of thing and later turned into one of the most respected DIY bike companies in existence. This](https://documentaryheaven.com/i-love-my-bicycle/ "I Love My Bicycle")
+* [![Why You Do This](/wp-content/thumbnails/6341-100x70.jpg?x53432)
     
-    Great White Shark: A Living Legend
+    Why You Do This
     
-    Wildlife film. South African naturalist Mike Rutzen is crazy about great white sharks. He never saw Jaws, so he doesn't share the terror that has made these sharks the world's most feared predator.](https://documentaryheaven.com/great-white-shark-a-living-legend/ "Great White Shark: A Living Legend")
-* [![Lessons in Hate and Violence](/wp-content/thumbnails/5507-100x70.jpg?x53432)
+    This documentary is a personal story told from the perspective of satellite engineer and vocalist Michael Dafferner, who is a member of an unknown "math-core" metal band called Car Bomb. In 2007 Micha](https://documentaryheaven.com/why-you-do-this/ "Why You Do This")
+* [![After the Virus](/wp-content/thumbnails/16451-100x70.jpg?x53432)
     
-    Lessons in Hate and Violence
+    After the Virus
     
-    Dispatches goes undercover to investigate allegations that teachers regularly assault young children in some of the 2,000 Muslim schools in Britain run by Islamic organizations.The programme also fo](https://documentaryheaven.com/lessons-in-hate-and-violence/ "Lessons in Hate and Violence")
-* [![The Perfect Vagina](/wp-content/thumbnails/2910-100x70.jpg?x53432)
+    Humanity is going through the largest health crises in more than a century as the coronavirus (Covid-19) has killed nearly 2 million people globally, brought turmoil to the world economy, and caused](https://documentaryheaven.com/after-the-virus/ "After the Virus")
+* [![The Secret Life of Elliot Rodger](/wp-content/thumbnails/12675-100x70.jpg?x53432)
     
-    The Perfect Vagina
+    The Secret Life of Elliot Rodger
     
-    After having watched Penis Size Insecurity By Men, it's now time to move on to lesson two and have a look at womens insecurities: The Perfect Vagina.Fronted by Lisa Rogers, this documentary focuse](https://documentaryheaven.com/the-perfect-vagina/ "The Perfect Vagina")
-* [![Ed Gein](/wp-content/thumbnails/6967-100x70.jpg?x53432)
+    On May 23, 2014, in Isla Vista, California, a young man named Elliot Rodger took it upon himself to kill 6 people and injure 14 more near the campus of University of California, Santa B](https://documentaryheaven.com/secret-life-of-elliot-rodger/ "The Secret Life of Elliot Rodger")
+* [![Millau Sky Bridge](/wp-content/thumbnails/6416-100x70.jpg?x53432)
     
-    Ed Gein
+    Millau Sky Bridge
     
-    Edward Theodore "Ed" Gein was an American murderer and body snatcher. His crimes, committed around his hometown of Plainfield, Wisconsin, gathered widespread notoriety after authorities discovered Gei](https://documentaryheaven.com/ed-gein/ "Ed Gein")
+    Richard Hammond reveals the engineering inspirations behind the tallest road bridge in the world – the Millau Viaduct in France.He fires three quarters of a million volts from his fingertips to se](https://documentaryheaven.com/millau-sky-bridge/ "Millau Sky Bridge")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
