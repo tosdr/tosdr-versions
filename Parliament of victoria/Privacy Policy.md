@@ -30,6 +30,20 @@ Main menu
     
     #### Latest Icon time
     
+    * [**Legislative Council**  
+        Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-974425065-28589)
+        
+        Icon calendar 30 October 2024
+        
+        Proof
+        
+    * [**Legislative Assembly**  
+        Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-2145855009-28210)
+        
+        Icon calendar 30 October 2024
+        
+        Proof
+        
     * [**Legislative Assembly**  
         Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-2145855009-28107)
         
@@ -43,20 +57,6 @@ Main menu
         Icon calendar 29 October 2024
         
         Proof
-        
-    * [**Legislative Council**  
-        Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-974425065-28415)
-        
-        Icon calendar 17 October 2024
-        
-        Final
-        
-    * [**Legislative Assembly**  
-        Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-2145855009-27993)
-        
-        Icon calendar 17 October 2024
-        
-        Final
         
     
 * [Get involved](https://parliament.vic.gov.au/get-involved/)Expand Get involved
