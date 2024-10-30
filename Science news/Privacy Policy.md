@@ -91,13 +91,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Using AI, historians track how astronomy ideas spread in the 16th century](https://www.sciencenews.org/article/artificial-intelligence-astronomy-ai)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")45 mins ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")7 hours ago
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
             ### [A race to save Indigenous trails may change the face of archaeology](https://www.sciencenews.org/article/indigenous-trails-change-archaeology)
             
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")24 hours ago
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")October 29, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Animals](https://www.sciencenews.org/topic/animals)
+    * * [Paleontology](https://www.sciencenews.org/topic/paleontology)
+            
+            ### [‘Uncovering Dinosaur Behavior’ unearths paleontology’s biases](https://www.sciencenews.org/article/uncovering-dinosaur-book-review)
+            
+            By [Aaron Tremper](https://www.sciencenews.org/author/aaron-tremper "Posts by Aaron Tremper")3 hours ago
+            
+        * [Life](https://www.sciencenews.org/topic/life)
+            
+            ### [The oldest known fossil tadpole was a big baby](https://www.sciencenews.org/article/oldest-known-tadpole-fossil-big-baby)
+            
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")5 hours ago
+            
+        * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [These hornets may be the alcohol-detox champs of the animal world](https://www.sciencenews.org/article/hornets-alcohol-detox-champs)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")3 hours ago
-            
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [Giant rats could soon help sniff out illegally smuggled goods](https://www.sciencenews.org/article/giant-rats-sniff-smuggled-goods)
-            
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")10 hours ago
-            
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [A common kitchen tool could help koala conservation](https://www.sciencenews.org/article/common-kitchen-tool-koala-conservation)
-            
-            By [Kristel Tjandra](https://www.sciencenews.org/author/kristel-tjandra "Posts by Kristel Tjandra")October 28, 2024
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")9 hours ago
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Using AI, historians track how astronomy ideas spread in the 16th century](https://www.sciencenews.org/article/artificial-intelligence-astronomy-ai)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")45 mins ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")7 hours ago
             
         * [Space](https://www.sciencenews.org/topic/space)
             
