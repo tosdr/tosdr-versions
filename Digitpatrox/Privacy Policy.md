@@ -20,16 +20,16 @@ Wednesday, October 30 2024
 
 Latest
 
-* [Alexa, where’s my Star Trek Computer?](https://digitpatrox.com/alexa-wheres-my-star-trek-computer/)
-* [iQOO 13 Goes Official With Snapdragon 8 Elite](https://digitpatrox.com/iqoo-13-goes-official-with-snapdragon-8-elite/)
-* [How to Identify and Fix Hypervisor Errors 2024](https://digitpatrox.com/how-to-identify-and-fix-hypervisor-errors-2024/)
-* [UK organizations scrambling to divert funds for NIS2 compliance spending](https://digitpatrox.com/uk-organizations-scrambling-to-divert-funds-for-nis2-compliance-spending/)
-* [Goodbye bromance, hello open warfare – Computerworld](https://digitpatrox.com/goodbye-bromance-hello-open-warfare-computerworld/)
-* [Apple Is Bringing Apple Intelligence to the EU iPhones After All](https://digitpatrox.com/apple-is-bringing-apple-intelligence-to-the-eu-iphones-after-all/)
-* [Cloud Hypervisor Guide 2024](https://digitpatrox.com/cloud-hypervisor-guide-2024/)
-* [The Truth About Blood Tests for Cancer](https://digitpatrox.com/the-truth-about-blood-tests-for-cancer/)
-* [You Don’t Have to Pay a Lot for a Premium Android Tablet](https://digitpatrox.com/you-dont-have-to-pay-a-lot-for-a-premium-android-tablet/)
-* [“You must do better”: Information Commissioner John Edwards calls on firms to beef up support for data breach victims](https://digitpatrox.com/you-must-do-better-information-commissioner-john-edwards-calls-on-firms-to-beef-up-support-for-data-breach-victims/)
+* [Samsung Galaxy Tab S10 Ultra review](https://digitpatrox.com/samsung-galaxy-tab-s10-ultra-review/)
+* [Google Cloud Expands AI Infrastructure With Sixth-Gen TPUs](https://digitpatrox.com/google-cloud-expands-ai-infrastructure-with-sixth-gen-tpus/)
+* [New on Netflix in November 2024 — all the new shows and movies you need to watch](https://digitpatrox.com/new-on-netflix-in-november-2024-all-the-new-shows-and-movies-you-need-to-watch/)
+* [QNAP patches second zero-day exploited at Pwn2Own to get root](https://digitpatrox.com/qnap-patches-second-zero-day-exploited-at-pwn2own-to-get-root/)
+* [Here’s where you can preorder the new MacBook Pro, iMac, and Mac Mini](https://digitpatrox.com/heres-where-you-can-preorder-the-new-macbook-pro-imac-and-mac-mini/)
+* [Apple Upgrades M2 and M3 MacBook Air With 16GB RAM In Base Models With No Price Hikes](https://digitpatrox.com/apple-upgrades-m2-and-m3-macbook-air-with-16gb-ram-in-base-models-with-no-price-hikes/)
+* [How to check browsing history on a WiFi router](https://digitpatrox.com/how-to-check-browsing-history-on-a-wifi-router/)
+* [Huawei empowers SMEs through digital and intelligent transformation](https://digitpatrox.com/huawei-empowers-smes-through-digital-and-intelligent-transformation/)
+* [OpenAI bets on its own AI chips by 2026 – Computerworld](https://digitpatrox.com/openai-bets-on-its-own-ai-chips-by-2026-computerworld/)
+* [I Tested Four AI Essay-Writing Tools, and Here’s What I Found](https://digitpatrox.com/i-tested-four-ai-essay-writing-tools-and-heres-what-i-found/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/uRfJkwl5hqcu5R-ErN-7kmIGQ98=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25696571/247324_10_years_of_Alexa_MWang__0003_TREK.jpg)](https://digitpatrox.com/alexa-wheres-my-star-trek-computer/)
+* [![](https://cdn.mos.cms.futurecdn.net/WT2uFXsupQ6FdJ2HUPmGcE-1200-80.jpg)](https://digitpatrox.com/samsung-galaxy-tab-s10-ultra-review/)
     
-    [Alexa, where’s my Star Trek Computer?](https://digitpatrox.com/alexa-wheres-my-star-trek-computer/)
+    [Samsung Galaxy Tab S10 Ultra review](https://digitpatrox.com/samsung-galaxy-tab-s10-ultra-review/)
     
-    9 mins ago
+    3 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/10/iQOO-13-launched-in-China.jpg)](https://digitpatrox.com/iqoo-13-goes-official-with-snapdragon-8-elite/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241030-google-cloud–trillium-nvidia-ai-infrastructure.jpg)](https://digitpatrox.com/google-cloud-expands-ai-infrastructure-with-sixth-gen-tpus/)
     
-    [iQOO 13 Goes Official With Snapdragon 8 Elite](https://digitpatrox.com/iqoo-13-goes-official-with-snapdragon-8-elite/)
+    [Google Cloud Expands AI Infrastructure With Sixth-Gen TPUs](https://digitpatrox.com/google-cloud-expands-ai-infrastructure-with-sixth-gen-tpus/)
     
-    24 mins ago
+    6 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/How-to-Identify-and-Fix-a-Hypervisor-Error.jpeg)](https://digitpatrox.com/how-to-identify-and-fix-hypervisor-errors-2024/)
+* [![](https://cdn.mos.cms.futurecdn.net/m5SmrWhJpHoHuAHjpyAFRe-1200-80.jpg)](https://digitpatrox.com/new-on-netflix-in-november-2024-all-the-new-shows-and-movies-you-need-to-watch/)
     
-    [How to Identify and Fix Hypervisor Errors 2024](https://digitpatrox.com/how-to-identify-and-fix-hypervisor-errors-2024/)
+    [New on Netflix in November 2024 — all the new shows and movies you need to watch](https://digitpatrox.com/new-on-netflix-in-november-2024-all-the-new-shows-and-movies-you-need-to-watch/)
+    
+    22 mins ago
+    
+* [![](https://www.bleepstatic.com/content/hl-images/2022/04/27/QNAP__headpic.jpg)](https://digitpatrox.com/qnap-patches-second-zero-day-exploited-at-pwn2own-to-get-root/)
+    
+    [QNAP patches second zero-day exploited at Pwn2Own to get root](https://digitpatrox.com/qnap-patches-second-zero-day-exploited-at-pwn2own-to-get-root/)
+    
+    49 mins ago
+    
+* [![](https://cdn.vox-cdn.com/thumbor/o46PgP9TDj_WqAPIEHZk0JYS8y0=/0x0:1688x1125/1200x628/filters:focal(844x563:845x564)/cdn.vox-cdn.com/uploads/chorus_asset/file/25706770/Apple_MacBook_Pro_M4_lifestyle_01.jpg)](https://digitpatrox.com/heres-where-you-can-preorder-the-new-macbook-pro-imac-and-mac-mini/)
+    
+    [Here’s where you can preorder the new MacBook Pro, iMac, and Mac Mini](https://digitpatrox.com/heres-where-you-can-preorder-the-new-macbook-pro-imac-and-mac-mini/)
     
     1 hour ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/NgvM4KdVpZsuvgFcRx7xCf-1200-80.jpg)](https://digitpatrox.com/uk-organizations-scrambling-to-divert-funds-for-nis2-compliance-spending/)
-    
-    [UK organizations scrambling to divert funds for NIS2 compliance spending](https://digitpatrox.com/uk-organizations-scrambling-to-divert-funds-for-nis2-compliance-spending/)
-    
-    2 hours ago
-    
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3593206-0-47614900-1730282571-fight-shadow-100787429-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/goodbye-bromance-hello-open-warfare-computerworld/)
-    
-    [Goodbye bromance, hello open warfare – Computerworld](https://digitpatrox.com/goodbye-bromance-hello-open-warfare-computerworld/)
-    
-    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [9 mins ago
+* [3 mins ago
     
-    ### Alexa, where’s my Star Trek Computer?](https://digitpatrox.com/alexa-wheres-my-star-trek-computer/)
-* [24 mins ago
+    ### Samsung Galaxy Tab S10 Ultra review](https://digitpatrox.com/samsung-galaxy-tab-s10-ultra-review/)
+* [6 mins ago
     
-    ### iQOO 13 Goes Official With Snapdragon 8 Elite](https://digitpatrox.com/iqoo-13-goes-official-with-snapdragon-8-elite/)
-* [1 hour ago
+    ### Google Cloud Expands AI Infrastructure With Sixth-Gen TPUs](https://digitpatrox.com/google-cloud-expands-ai-infrastructure-with-sixth-gen-tpus/)
+* [22 mins ago
     
-    ### How to Identify and Fix Hypervisor Errors 2024](https://digitpatrox.com/how-to-identify-and-fix-hypervisor-errors-2024/)
+    ### New on Netflix in November 2024 — all the new shows and movies you need to watch](https://digitpatrox.com/new-on-netflix-in-november-2024-all-the-new-shows-and-movies-you-need-to-watch/)
 
 Most Popular Topics
 
-* [September 13, 2024
-    
-    ### OpenAI seeks $6.5 billion investment as costs continue to mount](https://digitpatrox.com/openai-seeks-6-5-billion-investment-as-costs-continue-to-mount/)
 * [2 weeks ago
     
-    ### What Is Private Space on Android 15 and How to Use It](https://digitpatrox.com/what-is-private-space-on-android-15-and-how-to-use-it/)
-* [September 23, 2024
+    ### What’s New on Disney+ in November 2024](https://digitpatrox.com/whats-new-on-disney-in-november-2024/)
+* [3 weeks ago
     
-    ### How to Customize iOS 18’s Revamped Photos App](https://digitpatrox.com/how-to-customize-ios-18s-revamped-photos-app/)
+    ### The Best Network Monitoring Solutions of 2024](https://digitpatrox.com/the-best-network-monitoring-solutions-of-2024/)
+* [3 weeks ago
+    
+    ### Why Baby Walkers Are Unsafe](https://digitpatrox.com/why-baby-walkers-are-unsafe/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### How to check browsing history on a WiFi router](https://digitpatrox.com/how-to-check-browsing-history-on-a-wifi-router/)
 * [3 hours ago
     
-    ### Cloud Hypervisor Guide 2024](https://digitpatrox.com/cloud-hypervisor-guide-2024/)
+    ### Huawei empowers SMEs through digital and intelligent transformation](https://digitpatrox.com/huawei-empowers-smes-through-digital-and-intelligent-transformation/)
 * [3 hours ago
     
-    ### The Truth About Blood Tests for Cancer](https://digitpatrox.com/the-truth-about-blood-tests-for-cancer/)
-* [3 hours ago
-    
-    ### You Don’t Have to Pay a Lot for a Premium Android Tablet](https://digitpatrox.com/you-dont-have-to-pay-a-lot-for-a-premium-android-tablet/)
+    ### OpenAI bets on its own AI chips by 2026 – Computerworld](https://digitpatrox.com/openai-bets-on-its-own-ai-chips-by-2026-computerworld/)
 
 Most Viewed Topics
 
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 13, 2024
+* [August 28, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
