@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Two sexual assaults reported in TCU dorms, police issue safety alert](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/c2936af9-TCU_1441984823868_194237_ver1.0_640_360.jpg?ve=1&tl=1)
+ [![Rabid bat found in Plano](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/09/32/18/GettyImages-1204227869.jpg?ve=1&tl=1)
 
- ![Two sexual assaults reported in TCU dorms, police issue safety alert](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/c2936af9-TCU_1441984823868_194237_ver1.0_640_360.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/two-sexual-assaults-reported-tcu-dorms-campus-safety-alert)
+ ![Rabid bat found in Plano](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/09/32/18/592/333/GettyImages-1204227869.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/rabid-bat-found-plano)
 
-### [Two sexual assaults reported in TCU dorms, police issue safety alert](https://www.fox4news.com/news/two-sexual-assaults-reported-tcu-dorms-campus-safety-alert)
+### [Rabid bat found in Plano](https://www.fox4news.com/news/rabid-bat-found-plano)
 
- [![Victim in Fort Worth shooting shot 'five or six' times: Police](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/kdfwu20_3559_mxf_01.01.48.24.jpg?ve=1&tl=1)
+ [![No Democrat has won a statewide office in Texas since 1994](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/08/32/18/GettyImages-1354285743.jpg?ve=1&tl=1)
 
- ![Victim in Fort Worth shooting shot 'five or six' times: Police](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/kdfwu20_3559_mxf_01.01.48.24.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/victim-fort-worth-shooting-shot-five-six-times-police)
+ ![No Democrat has won a statewide office in Texas since 1994](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/08/32/18/592/333/GettyImages-1354285743.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/texas-democrat-statewide-senate-president)
 
-### [Victim in Fort Worth shooting shot 'five or six' times: Police](https://www.fox4news.com/news/victim-fort-worth-shooting-shot-five-six-times-police)
+### [No Democrat has won a statewide office in Texas since 1994](https://www.fox4news.com/election/texas-democrat-statewide-senate-president)
 
- [![Would a 4-day work week work in the US? CEOs are split](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/construction.jpg?ve=1&tl=1)
+ [![Asheville students return to school one month after Helene devastated city](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2175025288-a.jpg?ve=1&tl=1)
 
- ![Would a 4-day work week work in the US? CEOs are split](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/construction.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/would-4-day-work-week-work-us-ceos-split)
+ ![Asheville students return to school one month after Helene devastated city](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2175025288-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/asheville-students-return-school-one-month-after-helene-devastated-city)
 
-### [Would a 4-day work week work in the US? CEOs are split](https://www.fox4news.com/news/would-4-day-work-week-work-us-ceos-split)
+### [Asheville students return to school one month after Helene devastated city](https://www.fox4news.com/weather/asheville-students-return-school-one-month-after-helene-devastated-city)
 
- [![Midtown Four Seasons Hotel armed, barricaded suspect apprehended](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/arms-up.jpg?ve=1&tl=1)
+ [![CEO makes bold prediction on housing market as trend signals positive outlook](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/home-on-the-market.jpg?ve=1&tl=1)
 
- ![Midtown Four Seasons Hotel armed, barricaded suspect apprehended](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/592/333/arms-up.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/atlanta-four-seasons-armed-person-barricaded)
+ ![CEO makes bold prediction on housing market as trend signals positive outlook](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/home-on-the-market.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ceo-prediction-housing-market-outlook)
 
-### [Midtown Four Seasons Hotel armed, barricaded suspect apprehended](https://www.fox4news.com/news/atlanta-four-seasons-armed-person-barricaded)
+### [CEO makes bold prediction on housing market as trend signals positive outlook](https://www.fox4news.com/news/ceo-prediction-housing-market-outlook)
 
- [![Dodgers can't complete sweep, drop Game 4 to Yankees](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/gettyimages-2181819101.jpg?ve=1&tl=1)
+ [![18-year-olds sentenced for robbing USPS workers across DFW](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/P-AMELIA-USPS-LETTER-CARRIER-ROBBERY-PLEAS-9P_00.00.07.40.jpg?ve=1&tl=1)
 
- ![Dodgers can't complete sweep, drop Game 4 to Yankees](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/gettyimages-2181819101.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dodgers-cant-complete-sweep-drop-game-4-yankees)
+ ![18-year-olds sentenced for robbing USPS workers across DFW](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/P-AMELIA-USPS-LETTER-CARRIER-ROBBERY-PLEAS-9P_00.00.07.40.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/18-year-olds-sentenced-robbing-usps-workers-across-dfw)
 
-### [Dodgers can't complete sweep, drop Game 4 to Yankees](https://www.fox4news.com/news/dodgers-cant-complete-sweep-drop-game-4-yankees)
+### [18-year-olds sentenced for robbing USPS workers across DFW](https://www.fox4news.com/news/18-year-olds-sentenced-robbing-usps-workers-across-dfw)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
