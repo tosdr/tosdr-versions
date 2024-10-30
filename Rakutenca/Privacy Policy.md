@@ -1,3 +1,7 @@
+[TEMU: Early Black Friday sale: up to 80% off! Extra 30% off for new users + 10% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/temu?store=temu&sourceName=sitewide-sticky-header)
+
 [](https://www.rakuten.ca/)
 
 EN
@@ -253,7 +257,7 @@ FR
         
         4% Cash Back](https://www.rakuten.ca/ray-ban)[Aveda
         
-        10% Cash Back](https://www.rakuten.ca/aveda)[Clearly
+        3% Cash Back](https://www.rakuten.ca/aveda)[Clearly
         
         up to 15% Cash Back](https://www.rakuten.ca/clearly)[Estee Lauder Canada
         
