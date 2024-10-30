@@ -10,8 +10,8 @@
     * [Linux](https://www.xfire.com/game-platform/linux/)
     * [Android](https://www.xfire.com/game-platform/android/)
     * [iOS](https://www.xfire.com/game-platform/ios/)
-* [Game Pass / PS Plus](https://www.xfire.com/signup/)
-    * [Email Alerts](https://www.xfire.com/signup/)
+* [Game Pass / PS Plus](https://www.xfire.com/?page_id=436710)
+    * [Email Alerts](https://www.xfire.com/#signup)
     * [Game Search](https://www.xfire.com/search-game-subscriptions/)
     * [Game Pass Calendar](https://www.xfire.com/xbox-game-subscriptions/)
     * [PlayStation Plus Calendar](https://www.xfire.com/playstation-game-subscriptions/)
@@ -46,7 +46,7 @@ About Xfire
 
 [![Xfire](https://www.xfire.com/wp-content/uploads/2020/11/xfire-red-logo.png)](https://www.xfire.com/)
 
-[](https://www.xfire.com/signup/)
+[](https://www.xfire.com/#signup)
 
 [](#)
 
