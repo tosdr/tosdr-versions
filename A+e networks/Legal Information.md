@@ -70,6 +70,12 @@ Latest news
 
 [All articles](https://www.aenetworks.tv/news)
 
+    [![Beau Greaves during the WDF World Darts Championship 2023, ](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-10/Blaze%20on%20Darts%20-%20Beau%20Greaves%20WDF%20Darts%20CD%20new.jpg?VersionId=yuzjaOalwuuJQ8g3_lvy5dfupzT8jo3W&itok=UPQzN4Q0)
+
+30 October 2024
+
+### BLAZE®TO AIR THE 2024 LAKESIDE WORLD DARTS CHAMPIONSHIPS LIVE AND EXCLUSIVE](https://www.aenetworks.tv/news/uk/blazerto-air-2024-lakeside-world-darts-championships-live-and-exclusive)
+
     [![GEMA Awards Win Cosmo](/s3/files/styles/card_tablet/public/2024-10/THE-BASE_GEMA_Premios%20CD%201.jpg?itok=O9NWEP82)
 
 18 October 2024
@@ -87,12 +93,6 @@ Latest news
 24 September 2024
 
 ### HEARST NETWORKS UK EARNS GREAT PLACE TO WORK CERTIFICATION™ FOR 3rd YEAR IN A ROW](https://www.aenetworks.tv/news/uk/hearst-networks-uk-earns-great-place-work-certificationtm-3rd-year-row)
-
-    [![evision x Hearst Networks](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-09/Hearst%20Networks%20x%20evision%20Release%20Image%20jpg.jpg?VersionId=Mtoz2g1VJs6YYa_ltCb7MxO8ToDZ2iHS&itok=WzUXiTWz)
-
-17 September 2024
-
-### EVISION AND HEARST NETWORKS EMEA FORM STRATEGIC PARTNERSHIP TO ENRICH VIEWER EXPERIENCE](https://www.aenetworks.tv/news/evision-and-hearst-networks-emea-form-strategic-partnership-enrich-viewer-experience)
 
 Corporate
 ---------
