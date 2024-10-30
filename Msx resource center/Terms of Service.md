@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -140,10 +140,10 @@ MSX Music player
 
 Latest reactions
 
+* [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
+* [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
 * [Nextor 2.1.2 released](https://www.msx.org/news/en/nextor-212-released "Nextor 2.1.2 released")
-* [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
-* [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/news/hardware/en/msx-pico-cartridge "MSX Pico - multi Flash ROM cartridge")
 * [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
 * [MGLOAD](https://www.msx.org/downloads/mgload-0 "MGLOAD")
@@ -153,10 +153,10 @@ Latest reactions
 
 Latest forum posts
 
-* [A new MSX (3?) for 2022 ?](https://www.msx.org/forum/msx-talk/general-discussion/a-new-msx-3-for-2022?page=30 "A new MSX (3?) for 2022 ?")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=122 "Please help testing upcoming openMSX release!")
-* [On magnified sprites, OR function and 1px offset](https://www.msx.org/forum/msx-talk/development/on-magnified-sprites-or-function-and-1px-offset "On magnified sprites, OR function and 1px offset")
+* [A new MSX (3?) for 2022 ?](https://www.msx.org/forum/msx-talk/general-discussion/a-new-msx-3-for-2022?page=31 "A new MSX (3?) for 2022 ?")
 * [Tetris 2 - Special Edition on Blue MSX](https://www.msx.org/forum/msx-talk/software-and-gaming/tetris-2-special-edition-blue-msx?page=3 "Tetris 2 - Special Edition on Blue MSX")
+* [On magnified sprites, OR function and 1px offset](https://www.msx.org/forum/msx-talk/development/on-magnified-sprites-or-function-and-1px-offset "On magnified sprites, OR function and 1px offset")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=73 "WonderTANG! Who wants to juice up your MSX?")
 * [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=223 "Wiki editing discussion")
 * [Morderne mouse replacement](https://www.msx.org/forum/msx-talk/hardware/morderne-mouse-replacement "Morderne mouse replacement")
