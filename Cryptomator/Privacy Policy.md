@@ -62,6 +62,7 @@ This privacy policy consists of the following sections:
 7. [Disclosure of Personal Data to Third Parties](https://cryptomator.org/privacy/#thirdparty)
 8. [Using the Cryptomator Application](https://cryptomator.org/privacy/#app)
 9. [Rights of the Affected Person](https://cryptomator.org/privacy/#rights)
+10. [Use of Analytics](https://cryptomator.org/privacy/#analytics)
 
 1\. Name and address of the responsible company
 -----------------------------------------------
@@ -403,6 +404,17 @@ Without prejudice to any other administrative or judicial remedy, you shall have
 
 The supervisory authority to which the complaint has been submitted shall inform the complainant of the status and results of the complaint, including the possibility of a judicial remedy pursuant to Article 78 of the GDPR.
 
+10\. Use of Analytics
+---------------------
+
+For internal audience measurement, we use a privacy-preserving, self-hosted analytics service that uses cross-page user recognition technology to analyze behavior.
+
+We collect various information (e.g., anonymized IP address, referrer URL, browser and operating system used) and measure certain visitor actions (e.g., clicks, purchases, etc.).
+
+No “cookies” are stored on your device, and no information is retrieved from your device for analysis. Where personal data (e.g. IP addresses) is collected, it is stored in a completely anonymized form.
+
+The legal basis for the processing of your data is Art. 6 para. 1 lit. a GDPR in connection with § 25 para. 1 TDDDG, as the website operator has a legitimate interest in the anonymous analysis of user behavior in order to optimize its online services.
+
 #### Cryptomator
 
 * [Blog](https://cryptomator.org/blog/)
@@ -423,8 +435,8 @@ The supervisory authority to which the complaint has been submitted shall inform
 
 #### Follow Us
 
-* [Fediverse](https://mastodon.online/@cryptomator)
-* [Twitter](https://twitter.com/Cryptomator)
+* [Mastodon](https://mastodon.online/@cryptomator)
+* [LinkedIn](https://linkedin.com/company/skymatic)
 * [RSS Feed](https://cryptomator.org/feed.xml)
 
 #### Legal
