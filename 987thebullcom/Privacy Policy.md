@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Watermelon MoonshineLainey Wilson<br><br>4:57am |
-| Single AgainJosh Ross<br><br>4:54am |
-| Eyes On YouChase Rice<br><br>4:51am |
-| Everything I NeedChayce Beckham<br><br>4:48am |
-| Where The Wild Things AreLuke Combs<br><br>4:40am |
+| Tennessee OrangeMegan Moroney<br><br>11:36am |
+| Beautiful As YouThomas Rhett<br><br>11:34am |
+| I Am Not OkayJelly Roll<br><br>11:30am |
+| Watching YouRodney Atkins<br><br>11:26am |
+| Ain'T No Love In OklahomaLuke Combs<br><br>11:23am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
