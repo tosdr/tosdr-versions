@@ -20,16 +20,16 @@ Wednesday, October 30 2024
 
 Latest
 
-* [US finalizes curbs on investment in AI and critical technology in China – Computerworld](https://digitpatrox.com/us-finalizes-curbs-on-investment-in-ai-and-critical-technology-in-china-computerworld/)
-* [The Gladys iOS App Is the Perfect Digital Junk Drawer to Save Files for Later](https://digitpatrox.com/the-gladys-ios-app-is-the-perfect-digital-junk-drawer-to-save-files-for-later/)
-* [Best Furniture Anchor Kits to Prevent Furniture Tip-Overs](https://digitpatrox.com/best-furniture-anchor-kits-to-prevent-furniture-tip-overs/)
-* [8 Tips to Organize Apps on Your Android Phone](https://digitpatrox.com/8-tips-to-organize-apps-on-your-android-phone/)
-* [Standalone Mac Mini Will Include M4 Chip, Price Starts at $599](https://digitpatrox.com/standalone-mac-mini-will-include-m4-chip-price-starts-at-599/)
-* [No more Galaxy? — Samsung just tipped to rebrand its flagship phones](https://digitpatrox.com/no-more-galaxy-samsung-just-tipped-to-rebrand-its-flagship-phones/)
-* [Massive PSAUX ransomware attack targets 22,000 CyberPanel instances](https://digitpatrox.com/massive-psaux-ransomware-attack-targets-22000-cyberpanel-instances/)
-* [AMD confirms its next-gen RDNA 4 GPUs will launch in early 2025](https://digitpatrox.com/amd-confirms-its-next-gen-rdna-4-gpus-will-launch-in-early-2025/)
-* [Today’s Wordle Answer and Hints (October 30, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-30-2024/)
-* [Leave the Internet Archive alone! – Computerworld](https://digitpatrox.com/leave-the-internet-archive-alone-computerworld/)
+* [Alexa, where’s my Star Trek Computer?](https://digitpatrox.com/alexa-wheres-my-star-trek-computer/)
+* [iQOO 13 Goes Official With Snapdragon 8 Elite](https://digitpatrox.com/iqoo-13-goes-official-with-snapdragon-8-elite/)
+* [How to Identify and Fix Hypervisor Errors 2024](https://digitpatrox.com/how-to-identify-and-fix-hypervisor-errors-2024/)
+* [UK organizations scrambling to divert funds for NIS2 compliance spending](https://digitpatrox.com/uk-organizations-scrambling-to-divert-funds-for-nis2-compliance-spending/)
+* [Goodbye bromance, hello open warfare – Computerworld](https://digitpatrox.com/goodbye-bromance-hello-open-warfare-computerworld/)
+* [Apple Is Bringing Apple Intelligence to the EU iPhones After All](https://digitpatrox.com/apple-is-bringing-apple-intelligence-to-the-eu-iphones-after-all/)
+* [Cloud Hypervisor Guide 2024](https://digitpatrox.com/cloud-hypervisor-guide-2024/)
+* [The Truth About Blood Tests for Cancer](https://digitpatrox.com/the-truth-about-blood-tests-for-cancer/)
+* [You Don’t Have to Pay a Lot for a Premium Android Tablet](https://digitpatrox.com/you-dont-have-to-pay-a-lot-for-a-premium-android-tablet/)
+* [“You must do better”: Information Commissioner John Edwards calls on firms to beef up support for data breach victims](https://digitpatrox.com/you-must-do-better-information-commissioner-john-edwards-calls-on-firms-to-beef-up-support-for-data-breach-victims/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3593646-0-96911100-1730195155-china_us_chip_semiconductor-100944587-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/us-finalizes-curbs-on-investment-in-ai-and-critical-technology-in-china-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/uRfJkwl5hqcu5R-ErN-7kmIGQ98=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25696571/247324_10_years_of_Alexa_MWang__0003_TREK.jpg)](https://digitpatrox.com/alexa-wheres-my-star-trek-computer/)
     
-    [US finalizes curbs on investment in AI and critical technology in China – Computerworld](https://digitpatrox.com/us-finalizes-curbs-on-investment-in-ai-and-critical-technology-in-china-computerworld/)
+    [Alexa, where’s my Star Trek Computer?](https://digitpatrox.com/alexa-wheres-my-star-trek-computer/)
+    
+    9 mins ago
+    
+* [![](https://beebom.com/wp-content/uploads/2024/10/iQOO-13-launched-in-China.jpg)](https://digitpatrox.com/iqoo-13-goes-official-with-snapdragon-8-elite/)
+    
+    [iQOO 13 Goes Official With Snapdragon 8 Elite](https://digitpatrox.com/iqoo-13-goes-official-with-snapdragon-8-elite/)
+    
+    24 mins ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/How-to-Identify-and-Fix-a-Hypervisor-Error.jpeg)](https://digitpatrox.com/how-to-identify-and-fix-hypervisor-errors-2024/)
+    
+    [How to Identify and Fix Hypervisor Errors 2024](https://digitpatrox.com/how-to-identify-and-fix-hypervisor-errors-2024/)
     
     1 hour ago
     
-* [![](https://lifehacker.com/imagery/articles/01JBCQ4SER9SMDB45NQ21QSF7V/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-gladys-ios-app-is-the-perfect-digital-junk-drawer-to-save-files-for-later/)
+* [![](https://cdn.mos.cms.futurecdn.net/NgvM4KdVpZsuvgFcRx7xCf-1200-80.jpg)](https://digitpatrox.com/uk-organizations-scrambling-to-divert-funds-for-nis2-compliance-spending/)
     
-    [The Gladys iOS App Is the Perfect Digital Junk Drawer to Save Files for Later](https://digitpatrox.com/the-gladys-ios-app-is-the-perfect-digital-junk-drawer-to-save-files-for-later/)
-    
-    2 hours ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729789364/prod/content/dam/CRO-Images-2024/Special-Products/CR-SP-InlineHero-Best-and-Worst-Anchor-Kits-1024)](https://digitpatrox.com/best-furniture-anchor-kits-to-prevent-furniture-tip-overs/)
-    
-    [Best Furniture Anchor Kits to Prevent Furniture Tip-Overs](https://digitpatrox.com/best-furniture-anchor-kits-to-prevent-furniture-tip-overs/)
+    [UK organizations scrambling to divert funds for NIS2 compliance spending](https://digitpatrox.com/uk-organizations-scrambling-to-divert-funds-for-nis2-compliance-spending/)
     
     2 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/person-holding-the-samsung-galaxy-z-fold-6-closed-showing-the-app-drawer-on-the-cover-display.jpg)](https://digitpatrox.com/8-tips-to-organize-apps-on-your-android-phone/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3593206-0-47614900-1730282571-fight-shadow-100787429-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/goodbye-bromance-hello-open-warfare-computerworld/)
     
-    [8 Tips to Organize Apps on Your Android Phone](https://digitpatrox.com/8-tips-to-organize-apps-on-your-android-phone/)
+    [Goodbye bromance, hello open warfare – Computerworld](https://digitpatrox.com/goodbye-bromance-hello-open-warfare-computerworld/)
     
     2 hours ago
-    
-* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241029-apple-mac-mini-m4-launch.jpg)](https://digitpatrox.com/standalone-mac-mini-will-include-m4-chip-price-starts-at-599/)
-    
-    [Standalone Mac Mini Will Include M4 Chip, Price Starts at $599](https://digitpatrox.com/standalone-mac-mini-will-include-m4-chip-price-starts-at-599/)
-    
-    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
+* [9 mins ago
+    
+    ### Alexa, where’s my Star Trek Computer?](https://digitpatrox.com/alexa-wheres-my-star-trek-computer/)
+* [24 mins ago
+    
+    ### iQOO 13 Goes Official With Snapdragon 8 Elite](https://digitpatrox.com/iqoo-13-goes-official-with-snapdragon-8-elite/)
 * [1 hour ago
     
-    ### US finalizes curbs on investment in AI and critical technology in China – Computerworld](https://digitpatrox.com/us-finalizes-curbs-on-investment-in-ai-and-critical-technology-in-china-computerworld/)
-* [2 hours ago
-    
-    ### The Gladys iOS App Is the Perfect Digital Junk Drawer to Save Files for Later](https://digitpatrox.com/the-gladys-ios-app-is-the-perfect-digital-junk-drawer-to-save-files-for-later/)
-* [2 hours ago
-    
-    ### Best Furniture Anchor Kits to Prevent Furniture Tip-Overs](https://digitpatrox.com/best-furniture-anchor-kits-to-prevent-furniture-tip-overs/)
+    ### How to Identify and Fix Hypervisor Errors 2024](https://digitpatrox.com/how-to-identify-and-fix-hypervisor-errors-2024/)
 
 Most Popular Topics
 
-* [September 9, 2024
+* [September 13, 2024
     
-    ### How-To Geek’s A to Z of Key Microsoft Excel Jargon](https://digitpatrox.com/how-to-geeks-a-to-z-of-key-microsoft-excel-jargon/)
+    ### OpenAI seeks $6.5 billion investment as costs continue to mount](https://digitpatrox.com/openai-seeks-6-5-billion-investment-as-costs-continue-to-mount/)
 * [2 weeks ago
     
-    ### OpenAI confirms threat actors use ChatGPT to write malware](https://digitpatrox.com/openai-confirms-threat-actors-use-chatgpt-to-write-malware/)
-* [August 13, 2024
+    ### What Is Private Space on Android 15 and How to Use It](https://digitpatrox.com/what-is-private-space-on-android-15-and-how-to-use-it/)
+* [September 23, 2024
     
-    ### We played Valve’s secret new shooter: Deadlock](https://digitpatrox.com/we-played-valves-secret-new-shooter-deadlock/)
+    ### How to Customize iOS 18’s Revamped Photos App](https://digitpatrox.com/how-to-customize-ios-18s-revamped-photos-app/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [3 hours ago
     
-    ### Massive PSAUX ransomware attack targets 22,000 CyberPanel instances](https://digitpatrox.com/massive-psaux-ransomware-attack-targets-22000-cyberpanel-instances/)
-* [4 hours ago
+    ### Cloud Hypervisor Guide 2024](https://digitpatrox.com/cloud-hypervisor-guide-2024/)
+* [3 hours ago
     
-    ### AMD confirms its next-gen RDNA 4 GPUs will launch in early 2025](https://digitpatrox.com/amd-confirms-its-next-gen-rdna-4-gpus-will-launch-in-early-2025/)
-* [4 hours ago
+    ### The Truth About Blood Tests for Cancer](https://digitpatrox.com/the-truth-about-blood-tests-for-cancer/)
+* [3 hours ago
     
-    ### Today’s Wordle Answer and Hints (October 30, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-30-2024/)
+    ### You Don’t Have to Pay a Lot for a Premium Android Tablet](https://digitpatrox.com/you-dont-have-to-pay-a-lot-for-a-premium-android-tablet/)
 
 Most Viewed Topics
 
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 11, 2024
+* [August 13, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
