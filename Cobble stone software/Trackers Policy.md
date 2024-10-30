@@ -251,6 +251,7 @@ Copyright 2024 CobbleStone Software. All rights reserved. [Privacy Policy.](http
     * [Data Sheets](https://www.cobblestonesoftware.com/resources/datasheets)
     * [Whitepapers](https://www.cobblestonesoftware.com/resources/whitepapers)
     * [Videos](https://www.cobblestonesoftware.com/videos)
+    * [Contract Templates](https://www.cobblestonesoftware.com/resources/contract-templates)
     * [Other Resources](https://www.cobblestonesoftware.com/other-resources)
         * [CLM Quiz](https://www.cobblestonesoftware.com/quiz)
         * [Contract Management  
