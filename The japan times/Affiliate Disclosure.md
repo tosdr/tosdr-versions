@@ -253,23 +253,17 @@ Latest News
 
 [Spain races to save victims as floods kill more than 60](https://www.japantimes.co.jp/news/2024/10/30/world/spain-floods-deaths/ "Spain races to save victims as floods kill more than 60")
 
-3 hours ago
+9 hours ago
 
 [Taiwan battens down for Super Typhoon Kong-rey](https://www.japantimes.co.jp/news/2024/10/30/asia-pacific/taiwan-super-typhoon/ "Taiwan battens down for Super Typhoon Kong-rey")
 
-3 hours ago
+9 hours ago
 
 [All eyes on DPP ahead of prime minister vote in Lower House](https://www.japantimes.co.jp/news/2024/10/30/japan/politics/dpp-opposition-parties-politics/ "All eyes on DPP ahead of prime minister vote in Lower House")
 
-6 hours ago
-
 [Ishiba Cabinet's approval rating sinks to around 30%](https://www.japantimes.co.jp/news/2024/10/30/japan/politics/ishiba-ratings-plunge/ "Ishiba Cabinet's approval rating sinks to around 30%")
 
-7 hours ago
-
 [Tokyo High Court rules same-sex marriage ban is unconstitutional](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/same-sex-ruling-unconstitutional/ "Tokyo High Court rules same-sex marriage ban is unconstitutional")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
