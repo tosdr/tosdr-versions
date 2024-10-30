@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
+
 [Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
 
-[Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
-
-[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
+[Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
-
-[Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
-
 [Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
+
+[Detectors](https://www.sciencedaily.com/news/matter_energy/detectors/)
+
+[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
-[Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
+[Mice](https://www.sciencedaily.com/news/plants_animals/mice/)
 
-[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
+[Zoology](https://www.sciencedaily.com/news/plants_animals/zoology/)
 
   
 
