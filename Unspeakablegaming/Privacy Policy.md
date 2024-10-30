@@ -44,6 +44,9 @@ Header - Shapes Theme
     * [![GREY T-SHIRT WITH BLUE FONT](//www.unspeakable.com/cdn/shop/files/DSC_1088.jpg?v=1729534063&width=700)
         
         GREY T-SHIRT WITH BLUE FONT](https://www.unspeakable.com/products/unisex-t-shirt)
+    * [![2024 ORNAMENT](//www.unspeakable.com/cdn/shop/files/DSC_1050.jpg?v=1727797820&width=700)
+        
+        2024 ORNAMENT](https://www.unspeakable.com/products/2024-ornament)
     * [![GUUBER DECO CUBE](//www.unspeakable.com/cdn/shop/files/DSC_1069.jpg?v=1729006371&width=700)
         
         GUUBER DECO CUBE](https://www.unspeakable.com/products/guuber-deco-cube)
@@ -56,9 +59,6 @@ Header - Shapes Theme
     * [![UNSPEAKABLE ICON BLANKET](//www.unspeakable.com/cdn/shop/files/DSC03064_1.jpg?v=1727707389&width=700)
         
         UNSPEAKABLE ICON BLANKET](https://www.unspeakable.com/products/unspeakable-icon-blanket)
-    * [![HOLIDAY LIGHTS T-SHIRT](//www.unspeakable.com/cdn/shop/files/DSC_1091.jpg?v=1729533865&width=700)
-        
-        HOLIDAY LIGHTS T-SHIRT](https://www.unspeakable.com/products/holiday-lights-t-shirt)
     
     [View All](https://www.unspeakable.com/collections/merch)
     
