@@ -1,6 +1,6 @@
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
 
-what you don't know can hurt you
+exploit the possibilities
 
 [Register](https://packetstormsecurity.com/account/register/) | [Login](https://packetstormsecurity.com/account/login/)
 
@@ -53,16 +53,16 @@ Any claim relating to Packet Storm Security's web site shall be governed by the 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 225 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 65 files
-* [indoushka](https://packetstormsecurity.com/files/authors/7697) 59 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 25 files
-* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 20 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 250 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 67 files
+* [indoushka](https://packetstormsecurity.com/files/authors/7697) 52 files
+* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 28 files
+* [Debian](https://packetstormsecurity.com/files/authors/2821) 22 files
 * [Apple](https://packetstormsecurity.com/files/authors/2397) 9 files
 * [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 8 files
-* [Gentoo](https://packetstormsecurity.com/files/authors/3417) 7 files
 * [Seth Jenkins](https://packetstormsecurity.com/files/authors/16492) 4 files
 * [Emiliano Febbi](https://packetstormsecurity.com/files/authors/16637) 4 files
+* [Valentin Lobstein](https://packetstormsecurity.com/files/authors/16024) 3 files
 
 Recent News
 -----------
@@ -76,6 +76,38 @@ Posted [Oct 29, 2024](https://packetstormsecurity.com/news/date/2024-10-29/ "15:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36532/) | [View](https://www.securityweek.com/first-chatgpt-jailbreak-disclosed-via-mozillas-new-ai-bug-bounty-program/)
+
+[Kremlin-Backed Hackers Have New Windows And Android Malware To Foist On Ukrainian Foes](https://packetstormsecurity.com/news/view/36531/Kremlin-Backed-Hackers-Have-New-Windows-And-Android-Malware-To-Foist-On-Ukrainian-Foes.html)
+
+Posted [Oct 29, 2024](https://packetstormsecurity.com/news/date/2024-10-29/ "15:07:04 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [malware](https://packetstormsecurity.com/news/tags/malware), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [phone](https://packetstormsecurity.com/news/tags/phone), [russia](https://packetstormsecurity.com/news/tags/russia), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [google](https://packetstormsecurity.com/news/tags/google), [military](https://packetstormsecurity.com/news/tags/military), [ukraine](https://packetstormsecurity.com/news/tags/ukraine)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36531/) | [View](https://arstechnica.com/security/2024/10/kremlin-backed-hackers-have-new-windows-and-android-to-foist-on-ukrainian-foes/)
+
+[Windows Update Takeover Lets An Attacker Revive A Patched Vuln](https://packetstormsecurity.com/news/view/36530/Windows-Update-Takeover-Lets-An-Attacker-Revive-A-Patched-Vuln.html)
+
+Posted [Oct 29, 2024](https://packetstormsecurity.com/news/date/2024-10-29/ "15:06:49 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36530/) | [View](https://www.scworld.com/news/windows-update-takeovers-lets-attackers-revive-a-patched-flaw)
+
+[Five Eyes Agencies Offer Security Advice For Small Businesses](https://packetstormsecurity.com/news/view/36529/Five-Eyes-Agencies-Offer-Security-Advice-For-Small-Businesses.html)
+
+Posted [Oct 29, 2024](https://packetstormsecurity.com/news/date/2024-10-29/ "15:06:36 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [canada](https://packetstormsecurity.com/news/tags/canada), [britain](https://packetstormsecurity.com/news/tags/britain), [australia](https://packetstormsecurity.com/news/tags/australia), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [new zealand](https://packetstormsecurity.com/news/tags/new_zealand)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36529/) | [View](https://www.scworld.com/news/five-eyes-agencies-offers-security-advice-for-small-businesses)
+
+[Admins Better Spring Into Action Over Latest Critical Vuln](https://packetstormsecurity.com/news/view/36528/Admins-Better-Spring-Into-Action-Over-Latest-Critical-Vuln.html)
+
+Posted [Oct 29, 2024](https://packetstormsecurity.com/news/date/2024-10-29/ "15:06:30 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [apache](https://packetstormsecurity.com/news/tags/apache)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36528/) | [View](https://www.theregister.com/2024/10/29/admins_spring_into_action_over/)
 
 [The Failure That Started The Internet](https://packetstormsecurity.com/news/view/36527/The-Failure-That-Started-The-Internet.html)
 
@@ -116,38 +148,6 @@ Posted [Oct 28, 2024](https://packetstormsecurity.com/news/date/2024-10-28/ "13:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [russia](https://packetstormsecurity.com/news/tags/russia), [amazon](https://packetstormsecurity.com/news/tags/amazon), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [phish](https://packetstormsecurity.com/news/tags/phish)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36523/) | [View](https://www.scworld.com/news/aws-breaks-up-massive-russian-phishing-operation)
-
-[Dildog On Building Privacy And What Makes Hackers Unique](https://packetstormsecurity.com/news/view/36522/Dildog-On-Building-Privacy-And-What-Makes-Hackers-Unique.html)
-
-Posted [Oct 28, 2024](https://packetstormsecurity.com/news/date/2024-10-28/ "13:59:09 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36522/) | [View](https://www.securityweek.com/rising-tides-christien-dildog-rioux-on-building-privacy-and-what-makes-hackers-unique/)
-
-[Chinese Hackers Collected Audio From A Trump Advisor's Call](https://packetstormsecurity.com/news/view/36521/Chinese-Hackers-Collected-Audio-From-A-Trump-Advisors-Call.html)
-
-Posted [Oct 28, 2024](https://packetstormsecurity.com/news/date/2024-10-28/ "13:59:03 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [phone](https://packetstormsecurity.com/news/tags/phone), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [spyware](https://packetstormsecurity.com/news/tags/spyware)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36521/) | [View](https://www.theguardian.com/us-news/2024/oct/27/chinese-hackers-trump-campaign-adviser-audio)
-
-[100 Million Impacted By Change Healthcare Attack](https://packetstormsecurity.com/news/view/36520/100-Million-Impacted-By-Change-Healthcare-Attack.html)
-
-Posted [Oct 25, 2024](https://packetstormsecurity.com/news/date/2024-10-25/ "15:02:41 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36520/) | [View](https://www.securityweek.com/change-healthcare-ransomware-attack-impacts-100-million-people/)
-
-[AWS Cloud Development Kit Flaw Exposed Accounts To Full Takeover](https://packetstormsecurity.com/news/view/36519/AWS-Cloud-Development-Kit-Flaw-Exposed-Accounts-To-Full-Takeover.html)
-
-Posted [Oct 25, 2024](https://packetstormsecurity.com/news/date/2024-10-25/ "15:02:36 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [amazon](https://packetstormsecurity.com/news/tags/amazon), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [flaw](https://packetstormsecurity.com/news/tags/flaw), [password](https://packetstormsecurity.com/news/tags/password)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36519/) | [View](https://www.theregister.com/2024/10/24/aws_cloud_development_kit_flaw/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2721270885&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2721270885.1730301350.1730301350.1730301350.1%3B%2B__utmz%3D32867617.1730301350.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1787459011&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1787459011.1730322791.1730322791.1730322791.1%3B%2B__utmz%3D32867617.1730322791.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
