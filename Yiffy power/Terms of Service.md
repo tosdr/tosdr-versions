@@ -107,21 +107,21 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 291 1
+0 304 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/biscuit-and-tomi-created-by-fek/)
+[](https://yiff-party.com/yiff/duaran-xbox-game-studios-and-etc-created-by-voidpastelchalk/)
 
-[biscuit and tomi created by fek](https://yiff-party.com/yiff/biscuit-and-tomi-created-by-fek/)
+[duaran (xbox game studios and etc) created by voidpastelchalk](https://yiff-party.com/yiff/duaran-xbox-game-studios-and-etc-created-by-voidpastelchalk/)
 
-0 147 0
+0 152 0
 
 September 30, 2024
 
-[](https://yiff-party.com/yiff/jewel-blue-sky-studios-and-etc-created-by-shredded-wheat/)
+[](https://yiff-party.com/yiff/hiona-mythology-created-by-sterr/)
 
-[jewel (blue sky studios and etc) created by shredded wheat](https://yiff-party.com/yiff/jewel-blue-sky-studios-and-etc-created-by-shredded-wheat/)
+[hiona (mythology) created by sterr](https://yiff-party.com/yiff/hiona-mythology-created-by-sterr/)
 
 0 2 0
 
