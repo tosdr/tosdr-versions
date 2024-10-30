@@ -134,13 +134,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [‘Labor big spenders’ myth can finally be laid to rest](https://independentaustralia.net/article-display/labor-big-spenders-myth-can-finally-be-laid-to-rest,19110 "Permanent Link : ‘Labor big spenders’ myth can finally be laid to rest")
+* [Evidence debunks 'contemptible' climate lies](https://independentaustralia.net/article-display/evidence-debunks-contemptible-climate-lies,19121 "Permanent Link : Evidence debunks 'contemptible' climate lies")
+* [EDITORIAL: School lunches, royal tours, foreign wars and the myth of Australia’s classless society](https://independentaustralia.net/article-display/editorial-school-lunches-royal-tours-foreign-wars-and-the-myth-of-australias-classless-society,19123 "Permanent Link : EDITORIAL: School lunches, royal tours, foreign wars and the myth of Australia’s classless society")
+* [Claims of morality do not reconcile with utter savagery](https://independentaustralia.net/article-display/claims-of-morality-do-not-reconcile-with-utter-savagery,19115 "Permanent Link : Claims of morality do not reconcile with utter savagery")
 * [Australia's Greens not so green anymore](https://independentaustralia.net/article-display/australias-greens-not-so-green-anymore,19120 "Permanent Link : Australia's Greens not so green anymore")
 * [Apple’s Vision Pro: A potential path toward vision impairment care](https://independentaustralia.net/article-display/apples-vision-pro-a-potential-path-toward-vision-impairment-care,19119 "Permanent Link : Apple’s Vision Pro: A potential path toward vision impairment care")
 * [Truth about Queensland youth crime won't sell papers or promote LNP](https://independentaustralia.net/article-display/truth-about-queensland-youth-crime-wont-sell-papers-or-promote-lnp,19118 "Permanent Link : Truth about Queensland youth crime won't sell papers or promote LNP")
 * [Jason Clare wrong on net migration and student caps](https://independentaustralia.net/article-display/jason-clare-wrong-on-net-migration-and-student-caps,19117 "Permanent Link : Jason Clare wrong on net migration and student caps")
-* [Global youth justice methods a lesson for Australia](https://independentaustralia.net/article-display/global-youth-justice-methods-a-lesson-for-australia,19116 "Permanent Link : Global youth justice methods a lesson for Australia")
-* [Trump can be lawless — Kamala must be flawless](https://independentaustralia.net/article-display/trump-can-be-lawless-kamala-must-be-flawless,19112 "Permanent Link : Trump can be lawless — Kamala must be flawless")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
