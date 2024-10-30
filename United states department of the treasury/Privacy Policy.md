@@ -574,15 +574,15 @@ MENU MENU
     
     October 29, 2024
     
+    [Virtual Remarks by Secretary of the Treasury Janet L. Yellen at the National Congress of American Indians Annual Convention and Marketplace](https://home.treasury.gov/news/press-releases/jy2702)
+    
+    October 29, 2024
+    
     [Remarks by Secretary of the Treasury Janet L. Yellen at the American Bankers Association Annual Convention](https://home.treasury.gov/news/press-releases/jy2694)
     
-    October 25, 2024
+    October 28, 2024
     
-    [Remarks by Acting Under Secretary for Terrorism and Financial Intelligence Brad Smith at a Roundtable with the Pacific Banking Forum and the Government of Australia](https://home.treasury.gov/news/press-releases/jy2686)
-    
-    October 25, 2024
-    
-    [FATF Completes Fourth Round of Mutual Evaluations, Advances Work to Curb Terrorist and Proliferation Finance](https://home.treasury.gov/news/press-releases/jy2678)
+    [Virtual Remarks by Secretary of the Treasury Janet L. Yellen at the Convention on Biological Diversity COP16 in Cali, Colombia](https://home.treasury.gov/news/press-releases/jy2701)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
