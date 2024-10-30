@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/df94917c-808c-41a5-89d1-111b4cb813ff/20241029T193643/df94917c-808c-41a5-89d1-111b4cb813ff_16x9.jpg) ![](https://media.king5.com/assets/KING/images/df94917c-808c-41a5-89d1-111b4cb813ff/20241029T193643/df94917c-808c-41a5-89d1-111b4cb813ff_360x203.jpg)](https://www.king5.com/article/news/local/bellingham/new-beach-areas-boulevard-park/281-f6c285cd-9dc9-4dc7-a6c0-49594bb38cc5)
-        
-        #### [Bellingham to remove rock armor, add plantings at new beaches](https://www.king5.com/article/news/local/bellingham/new-beach-areas-boulevard-park/281-f6c285cd-9dc9-4dc7-a6c0-49594bb38cc5)
-        
     *  [![](https://media.king5.com/assets/KING/images/ac9f440c-45d4-44fa-a3fb-763ebc713e1a/20241029T174805/ac9f440c-45d4-44fa-a3fb-763ebc713e1a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ac9f440c-45d4-44fa-a3fb-763ebc713e1a/20241029T174805/ac9f440c-45d4-44fa-a3fb-763ebc713e1a_360x203.jpg)](https://www.king5.com/article/news/crime/fife-police-calls-out-juvenile-detention-center/281-5b7899cc-a350-43e2-8ae2-24d8837afdc5)
         
         #### ['Egregious': Fife police chief calls out juvenile detention center after 'refusal' to book teen](https://www.king5.com/article/news/crime/fife-police-calls-out-juvenile-detention-center/281-5b7899cc-a350-43e2-8ae2-24d8837afdc5)
+        
+    *  [![](https://media.king5.com/assets/KING/images/6a429101-7dfd-4c72-b76b-06e19fbb2f2f/20241030T002717/6a429101-7dfd-4c72-b76b-06e19fbb2f2f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/6a429101-7dfd-4c72-b76b-06e19fbb2f2f/20241030T002717/6a429101-7dfd-4c72-b76b-06e19fbb2f2f_360x203.jpg)](https://www.king5.com/article/news/crime/defense-attorneys-fall-city-quintuple-homicide-spend-day-at-crime-scene/281-f01c6317-5381-4ce1-8a8e-45165e6dc55f)
+        
+        #### [Defense attorneys in Fall City quintuple homicide spend day at crime scene](https://www.king5.com/article/news/crime/defense-attorneys-fall-city-quintuple-homicide-spend-day-at-crime-scene/281-f01c6317-5381-4ce1-8a8e-45165e6dc55f)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c4447662-8f74-44cc-aeab-65f017a9f152/20241029T115745/c4447662-8f74-44cc-aeab-65f017a9f152_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c4447662-8f74-44cc-aeab-65f017a9f152/20241029T115745/c4447662-8f74-44cc-aeab-65f017a9f152_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/0c71103e-f429-4abc-9ea7-1b6e41352bed/20241030T011326/0c71103e-f429-4abc-9ea7-1b6e41352bed_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0c71103e-f429-4abc-9ea7-1b6e41352bed/20241030T011326/0c71103e-f429-4abc-9ea7-1b6e41352bed_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/KING/images/a2a7cc94-fc25-4904-a9f9-0bfa56b9d67a/20241028T192536/a2a7cc94-fc25-4904-a9f9-0bfa56b9d67a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a2a7cc94-fc25-4904-a9f9-0bfa56b9d67a/20241028T192536/a2a7cc94-fc25-4904-a9f9-0bfa56b9d67a_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/puget-sound-rainfall-october-26-27/281-27556e93-d424-4f6f-a80e-f5ad95020c4d)
+    *  [![](https://media.king5.com/assets/KENS/images/c7ac5c7a-b987-4f2b-80ae-f409ec7f8579/20241029T205308/c7ac5c7a-b987-4f2b-80ae-f409ec7f8579_16x9.jpg) ![](https://media.king5.com/assets/KENS/images/c7ac5c7a-b987-4f2b-80ae-f409ec7f8579/20241029T205308/c7ac5c7a-b987-4f2b-80ae-f409ec7f8579_360x203.jpg)](https://www.king5.com/article/weather/weather-on-halloween-2024-weatern-washington/281-29407c7a-b3d5-44e4-a84e-5caf85dfc6b5)
         
-        #### [Bellingham breaks rainfall record](https://www.king5.com/article/weather/weather-blog/puget-sound-rainfall-october-26-27/281-27556e93-d424-4f6f-a80e-f5ad95020c4d)
+        #### [Latest forecast shows weather on Halloween could be mostly good for trick-or-treaters](https://www.king5.com/article/weather/weather-on-halloween-2024-weatern-washington/281-29407c7a-b3d5-44e4-a84e-5caf85dfc6b5)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-54°
+49°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
