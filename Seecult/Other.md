@@ -402,11 +402,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/mrd-bajic/x2-portret-mrdjan-bajic.jpg?itok=B429HWA2)](http://seecult.org/galerija/galerija-umetnika/mrdan-bajic)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zampa-di-leone/zampa-di-leone-u-ub-quotsvetozar-markovicquot-47-192008/zampa-ub-sm5.jpg?itok=NdsB30OH)](http://seecult.org/galerija/galerija-umetnika/zampa-di-leone/zampa-di-leone-u-ub-svetozar-markovic-47-192008)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/damo.jpg?itok=cX6PH2lf)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/dzulijet.jpg?itok=Q0TvuPVs)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -422,6 +422,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [21\. Čembalo, živa umetnost](http://seecult.org/vest/21-cembalo-ziva-umetnost)
 * [Izolacija – šta je stvarnost, a šta manipulacija](http://seecult.org/vest/izolacija-sta-je-stvarnost-sta-manipulacija)
 * [Tatjani Mandić Rigonat nagrada Bojan Stupica za 2024.](http://seecult.org/vest/tatjani-mandic-rigonat-nagrada-bojan-stupica-za-2024)
 * [Legat Bate Stojkovića u Jugoslovenskoj kinoteci](http://seecult.org/vest/legat-bate-stojkovica-u-jugoslovenskoj-kinoteci)
@@ -431,7 +432,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Razgovor sa Šijanom i Jutro u ružičastom](http://seecult.org/vest/razgovor-sa-sijanom-i-jutro-u-ruzicastom)
 * [Mihalkov o slobodi, istini, novcu, ratu, starim i novim vrednostima...](http://seecult.org/vest/mihalkov-o-slobodi-istini-novcu-ratu-starim-i-novim-vrednostima)
 * [Zafranović na 18. KRAF-u](http://seecult.org/vest/zafranovic-na-18-kraf-u)
-* [Nova stalna postavka Galerije Matice srpske](http://seecult.org/vest/nova-stalna-postavka-galerije-matice-srpske)
 
 * [Konkursi](#tab1_1)
 
