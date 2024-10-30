@@ -14,99 +14,9 @@
 
 [Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Maceió")
 
-Últimas de Maceió
-
-[Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
-
-   [![Homem furta azulejos da obra de revitalização de mirante e dá prejuízo de R$ 60 mil ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/9/csm_homem-furto-materiais-obras-reproducao_052963807d.png)
-
-EM MACEIÓ
-
-Homem furta azulejos da obra de revitalização de mirante e dá prejuízo de R$ 60 mil](https://www.tnh1.com.br/noticia/nid/homem-furta-azulejos-da-obra-de-revitalizacao-de-mirante-e-da-prejuizo-de-r-60-mil/ "Homem furta azulejos da obra de revitalização de mirante e dá prejuízo de R$ 60 mil ")   [![MP-AL apura denúncia sobre vendas de semijoias e bijuterias com metais que podem provocar câncer](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/0/csm_bijuterias_e_semijoias__metais_pesados_-_foto_Reproducao_Governo_Federal_Inmetro_4ee7f6378f.jpeg)
-
-cádmio e chumbo
-
-MP-AL apura denúncia sobre vendas de semijoias e bijuterias com metais que podem provocar câncer](https://www.tnh1.com.br/noticia/nid/mp-al-apura-denuncia-sobre-vendas-de-semijoias-e-bijuterias-com-metais-que-podem-provocar-cancer/ "MP-AL apura denúncia sobre vendas de semijoias e bijuterias com metais que podem provocar câncer")   [![Ponto de Entrega Voluntária instalado no Corredor Vera Arruda é incendiado por vândalos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/5/csm_Ponto_de_Entrega_Voluntaria_instalado_no_Corredor_Vera_Arruda_e_incendiado_por_vandalos_Foto_Cristalya_Tavares_Ascom_Alurb_905f5d2b8a.jpeg)
-
-Maceió
-
-Ponto de Entrega Voluntária instalado no Corredor Vera Arruda é incendiado por vândalos](https://www.tnh1.com.br/noticia/nid/ponto-de-entrega-voluntaria-instalado-no-corredor-vera-arruda-e-incendiado-por-vandalos/ "Ponto de Entrega Voluntária instalado no Corredor Vera Arruda é incendiado por vândalos")   [![Vídeo: criança é atingida por cavalo na areia da Praia de Pajuçara](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_crianca_atingida_por_cavalo_5ed9daeef6.jpg)
-
-SUSTO
-
-Vídeo: criança é atingida por cavalo na areia da Praia de Pajuçara](https://www.tnh1.com.br/noticia/nid/video-crianca-e-atingida-por-cavalo-na-areia-da-praia-de-pajucara/ "Vídeo: criança é atingida por cavalo na areia da Praia de Pajuçara")   [![Ambulatórios no Benedito e Levada vão suspender atendimentos; veja onde buscar serviços](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/6/csm_ambulatorio_denilma_07044945e3.png)
-
-fechados por um ano
-
-Ambulatórios no Benedito e Levada vão suspender atendimentos; veja onde buscar serviços](https://www.tnh1.com.br/noticia/nid/ambulatorios-no-benedito-e-levada-vao-suspender-atendimentos-veja-onde-buscar-servicos/ "Ambulatórios no Benedito e Levada vão suspender atendimentos; veja onde buscar serviços")   [![Vídeo: homem se passa por cliente e assalta pet shop à mão armada em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/8/csm_assalto_mcz_pet_shop_e3b8c1dcf9.png)
-
-parte alta
-
-Vídeo: homem se passa por cliente e assalta pet shop à mão armada em Maceió](https://www.tnh1.com.br/noticia/nid/video-homem-se-passa-por-cliente-e-assalta-pet-shop-a-mao-armada-em-maceio/ "Vídeo: homem se passa por cliente e assalta pet shop à mão armada em Maceió")
-
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
-Últimas de Alagoas
-
-[Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
-
-   [![Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/f/csm_detran-alagoas-abre-1-800-vagas-extras-para-candidatos-retardatarios-a-1-carteira-de-habilitacao_-_foto_Felipe_Yuri_-_Ascom_Detran_23a301c9b1.jpg)
-
-Alagoas
-
-Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação](https://www.tnh1.com.br/noticia/nid/detran-abre-1800-vagas-extras-para-candidatos-retardatarios-a-1a-carteira-de-habilitacao/ "Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação")   [![Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/4/csm_bombeiros_praia_f83e90bc23.png)
-
-Alagoas
-
-Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/bombeiros-salvam-dois-turistas-vitimas-de-afogamento-na-praia-do-frances/ "Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês")   [![Inmet alerta para baixa umidade em 11 cidades de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/d/csm_csm_csm_CALOR-Pixabay_31e7dfd61d_25ebb1510f__2__af39c3df30.jpg)
-
-Veja instruções
-
-Inmet alerta para baixa umidade em 11 cidades de Alagoas](https://www.tnh1.com.br/noticia/nid/inmet-alerta-para-baixa-umidade-em-11-cidades-de-alagoas/ "Inmet alerta para baixa umidade em 11 cidades de Alagoas")   [![Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo Santana ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_arapiraca_divulgacao_aeba48f94e.jpeg)
-
-centenário
-
-Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo Santana](https://www.tnh1.com.br/noticia/nid/arapiraca-celebra-100-anos-com-grande-programacao-shows-terao-alok-e-leo-santana/ "Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo Santana ")   [![Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/3/csm_Semarh-previsao-reproducao_1f817958fe.png)
-
-Meteorologia
-
-Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-alagoas-nesta-terca-feira-29/ "Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)")   [![Jovem alagoano vai receber prêmio e representar o Brasil em evento da ONU na Europa](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/7/csm_odilon_gomes_2d68708a31.jpeg)
-
-Alagoas
-
-Jovem alagoano vai receber prêmio e representar o Brasil em evento da ONU na Europa](https://www.tnh1.com.br/noticia/nid/jovem-alagoano-vai-receber-premio-e-representar-o-brasil-em-evento-da-onu-na-europa/ "Jovem alagoano vai receber prêmio e representar o Brasil em evento da ONU na Europa")
-
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
-
-Últimas de Polícia
-
-[Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
-
-   [![Polícia abre inquérito para investigar empresa por crime ambiental na área de mangue em Jacarecica ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/b/csm_mangue_metralha_5e3194f6ef.jpeg)
-
-área de proteção
-
-Polícia abre inquérito para investigar empresa por crime ambiental na área de mangue em Jacarecica](https://www.tnh1.com.br/noticia/nid/policia-abre-inquerito-para-investigar-empresa-por-crime-ambiental-na-area-de-mangue-em-jacarecica/ "Polícia abre inquérito para investigar empresa por crime ambiental na área de mangue em Jacarecica ")   [![Corpo de homem é encontrado em córrego com quatro marcas de tiros e chave de moto na mão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/c/csm_csm_csm_Viatura_Policia_Militar_-_Foto_Cortesia_ao_TNH1__Bruno_Protasio_4e80112b48_630098ddc8_72b789d7a0.jpeg)
-
-em Maceió
-
-Corpo de homem é encontrado em córrego com quatro marcas de tiros e chave de moto na mão](https://www.tnh1.com.br/noticia/nid/corpo-de-homem-e-encontrado-em-corrego-com-quatro-marcas-de-tiros-e-chave-de-moto-na-mao/ "Corpo de homem é encontrado em córrego com quatro marcas de tiros e chave de moto na mão")   [![Saiba quem é a família que será levada a júri popular por morte de auditor fiscal em Maceió ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/6/csm_csm_csm_Joao_Assis_-_Cortesia_79ae52536d_c0c591fd83_6a42903227.jpg)
-
-cinco pessoas
-
-Saiba quem é a família que será levada a júri popular por morte de auditor fiscal em Maceió](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-a-familia-que-sera-levada-a-juri-popular-por-morte-de-auditor-fiscal-em-maceio/ "Saiba quem é a família que será levada a júri popular por morte de auditor fiscal em Maceió ")   [![Com uso de drone, polícia prende foragido de Pernambuco no Centro de Maceió; assista](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/9/csm_Com_uso_de_drone__policia_prende_foragido_de_Pernambuco_no_Centro_de_Maceio_-_foto_Reproducao_PCAL_a2058b33ae.jpg)
-
-54 anos
-
-Com uso de drone, polícia prende foragido de Pernambuco no Centro de Maceió; assista](https://www.tnh1.com.br/noticia/nid/com-uso-de-drone-policia-prende-foragido-de-pernambuco-no-centro-de-maceio-assista/ "Com uso de drone, polícia prende foragido de Pernambuco no Centro de Maceió; assista")   [![Homem dá entrada em hospital após ser baleado e termina preso em Cajueiro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/e/csm_Policia_Militar_algema_82745f32e3.jpeg)
-
-Polícia
-
-Homem dá entrada em hospital após ser baleado e termina preso em Cajueiro](https://www.tnh1.com.br/noticia/nid/homem-da-entrada-em-hospital-apos-ser-baleado-e-termina-preso-em-cajueiro/ "Homem dá entrada em hospital após ser baleado e termina preso em Cajueiro")   [![Homem é atingido por oito tiros e morre no Vergel do Lago](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/c/csm_homicidio_vergel_6187edde1a.jpg)
-
-Autoria desconhecida
-
-Homem é atingido por oito tiros e morre no Vergel do Lago](https://www.tnh1.com.br/noticia/nid/homem-e-atingido-por-oito-tiros-e-morre-no-vergel-do-lago/ "Homem é atingido por oito tiros e morre no Vergel do Lago")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -188,15 +98,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/2/csm_camila-com-os-filhos-gravidez-gemeos-destaque-01_e91df0f954.jpg)
-
-EM SC
-
-EM SC
-
-Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas
-
-Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas](https://www.tnh1.com.br/noticia/nid/apos-vasectomia-do-marido-mae-de-4-descobre-gravidez-de-gemeas/ "Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas")[![Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/e/csm_OPERACAO_SONEGACAO_FISCAL_ascom_ec6708694d.jpg)
+[![Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/e/csm_OPERACAO_SONEGACAO_FISCAL_ascom_ec6708694d.jpg)
 
 EM OITO ESTADOS
 
@@ -204,15 +106,7 @@ EM OITO ESTADOS
 
 Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal
 
-Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal](https://www.tnh1.com.br/noticia/nid/notas-fiscais-falsas-e-prejuizo-milionario-empresas-sao-alvo-de-operacao-contra-sonegacao-fiscal/ "Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal")[![Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/6/csm_pix_0411202555_b722645db8.jpg)
-
-novo serviço
-
-novo serviço
-
-Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona
-
-Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona](https://www.tnh1.com.br/noticia/nid/pix-agendado-passa-a-ser-obrigatorio-a-partir-desta-segunda-feira-entenda-como-funciona/ "Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona ")[![Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/a/csm_cruzados-encontrados-filhos-heranca-reproducao-TV-Anhanguera_b6443c5ab4.jpg)
+Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal](https://www.tnh1.com.br/noticia/nid/notas-fiscais-falsas-e-prejuizo-milionario-empresas-sao-alvo-de-operacao-contra-sonegacao-fiscal/ "Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal")[![Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/a/csm_cruzados-encontrados-filhos-heranca-reproducao-TV-Anhanguera_b6443c5ab4.jpg)
 
 No Tocantins
 
@@ -220,7 +114,23 @@ No Tocantins
 
 Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai
 
-Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai](https://www.tnh1.com.br/noticia/nid/irmaos-encontram-heranca-de-32-milhoes-em-cruzados-apos-morte-do-pai/ "Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai")
+Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai](https://www.tnh1.com.br/noticia/nid/irmaos-encontram-heranca-de-32-milhoes-em-cruzados-apos-morte-do-pai/ "Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai")[![Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/e/csm_bebe-gigante-minas-gerais-arquivo-pessoal_f7ed6af6b9.jpg)
+
+Viralizou
+
+Viralizou
+
+Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho
+
+Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho](https://www.tnh1.com.br/noticia/nid/video-bebe-gigante-de-10-meses-impressiona-web-pelo-tamanho/ "Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho")[![Idosa de 107 anos desperta atenção por 'chifre' crescendo na testa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/a/csm_idosa-chifre-testa-destaque-reproducao_6ddb6140a7.jpg)
+
+Na China
+
+Na China
+
+Idosa de 107 anos desperta atenção por 'chifre' crescendo na testa
+
+Idosa de 107 anos desperta atenção por 'chifre' crescendo na testa](https://www.tnh1.com.br/noticia/nid/idosa-de-107-anos-desperta-atencao-por-chifre-crescendo-na-testa/ "Idosa de 107 anos desperta atenção por 'chifre' crescendo na testa")
 
 [![Bitcoin atinge máxima histórica em real com apostas sobre vitória de Trump em eleição dos EUA](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/7/csm_Bitcoin_-_Foto_Pixabay_c85c5670a2.jpg)
 
