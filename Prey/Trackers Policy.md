@@ -118,13 +118,13 @@ Blog
 
 Latest updates & insights about security](https://preyproject.com/blog)
 
-[![Implementing effective IT asset lifecycle strategies](https://cdn.prod.website-files.com/664e6b29f3ed49c2317db2f2/67192f1ecb62173660c365f9_Implementing-effective-IT-asset-lifecycle-strategies.webp)
+[![MDM for Healthcare: how MDM helps for HIPAA compliance](https://cdn.prod.website-files.com/664e6b29f3ed49c2317db2f2/67228e7e9870c4e7ed47ceb1_MDM-for-Healthcare-how-MDM-helps-for-HIPAA-compliance.png)
 
 Editor's Pick
 
-Implementing effective IT asset lifecycle strategies
+MDM for Healthcare: how MDM helps for HIPAA compliance
 
-Discover how to maximize efficiency with IT asset lifecycle strategies. Learn tips for planning, acquisition, deployment, and disposal of your assets.](https://preyproject.com/blog/implementing-effective-it-asset-lifecycle-strategies)
+Choosing the right MDM solution is key for healthcare organizations to stay HIPAA compliant and protect patient data](https://preyproject.com/blog/mdm-for-healthcare-how-mdm-helps-for-hipaa-compliance)
 
 Menu icon
 
