@@ -181,16 +181,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [The New DeSantis Pocket Partner Holster](https://www.thegunpage.com/the-new-desantis-pocket-partner-holster/10611559)
+* [Kung Fu Grip Review: Is It The Best Reduced Angle AR-15 Grip?](https://www.thegunpage.com/kung-fu-grip-review-is-it-the-best-reduced-angle-ar-15-grip/10611556)
+* [Davidson's Launches Two Exclusive Beretta 92XI Models](https://www.thegunpage.com/davidsons-launches-two-exclusive-beretta-92xi-models/10611560)
+* [Guardian Touts Trump Credentials While Trying To Bolster Kamala](https://www.thegunpage.com/guardian-touts-trump-credentials-while-trying-to-bolster-kamala/10611553)
+* [Heritage Coachwhip: Riding Shotgun](https://www.thegunpage.com/heritage-coachwhip-riding-shotgun/10611554)
+* [USA Clay Target League 2024 Fall Season Participation Eclipses 2023 Mark](https://www.thegunpage.com/usa-clay-target-league-2024-fall-season-participation-eclipses-2023-mark/10611558)
 * [NYC’s Subway AI Weapons Scanners Fail to Find a Single Gun](https://www.thegunpage.com/nycs-subway-ai-weapons-scanners-fail-to-find-a-single-gun/10611552)
 * [‘Ghost Guns’ Or Unchecked Agency Power?](https://www.thegunpage.com/ghost-guns-or-unchecked-agency-power/10611551)
+* [Brandon Powell Wins 2024 NSCA National Championship High Over All Title](https://www.thegunpage.com/brandon-powell-wins-2024-nsca-national-championship-high-over-all-title/10611555)
 * [These boots saved me, twice.](https://www.thegunpage.com/these-boots-saved-me-twice/10611549)
-* [Competitors’ Corner: November 2024](https://www.thegunpage.com/competitors-corner-november-2024/10611548)
-* [Blast From The Past: The LWRC IC PDW](https://www.thegunpage.com/blast-from-the-past-the-lwrc-ic-pdw/10611540)
-* [POTD: Raine Peltokoski With His Suomi Submachine Gun](https://www.thegunpage.com/potd-raine-peltokoski-with-his-suomi-submachine-gun/10611541)
-* [HOT GAT or FUDD CRAP? Pocket Magnum or Accident Waiting to Happen?](https://www.thegunpage.com/hot-gat-or-fudd-crap-pocket-magnum-or-accident-waiting-to-happen/10611542)
-* [Taurus Releases The 608 Competition 8-Shot 357 Magnum Revolver](https://www.thegunpage.com/taurus-releases-the-608-competition-8-shot-357-magnum-revolver/10611534)
-* [Mass. Governor on a Power Trip; Landmark Carry Case Liberated Some States While Others Posed to Destroy the Status Quo](https://www.thegunpage.com/mass-governor-on-a-power-trip-landmark-carry-case-liberated-some-states-while-others-posed-to-destroy-the-status-quo/10611531)
-* [TFB Review: Meprolight MEPRO FT Bullseye Front & Rear Sights](https://www.thegunpage.com/tfb-review-meprolight-mepro-ft-bullseye-front-rear-sights/10611532)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [Virginia Asks Supreme Court To Let It Remove Noncitizens From Voter Rolls](https://www.conservativedailynews.com/2024/10/virginia-asks-supreme-court-to-let-it-remove-noncitizens-from-voter-rolls/#comment-782949)
 * Stanley Warner on [The Democrats Are Done. They Are Out Of Gas And Ideas](https://www.conservativedailynews.com/2024/10/the-democrats-are-done-they-are-out-of-gas-and-ideas/#comment-782948)
 * charles wilkins on [New York Voter Delivers Two-Word Response When MSNBC Asks If ‘Threat To Democracy’ Attack On Trump Resonates](https://www.conservativedailynews.com/2024/10/new-york-voter-delivers-two-word-response-when-msnbc-asks-if-threat-to-democracy-attack-on-trump-resonates/#comment-782944)
 * Stanley Warner on [The Closing Arguments Could Not Be More Different](https://www.conservativedailynews.com/2024/10/the-closing-arguments-could-not-be-more-different/#comment-782936)
@@ -240,7 +241,6 @@ Recent Comments
 * Jeff L. on [Sorry Democrats, the Fascist Shoe Really is on the Other (Democrat) Foot](https://www.conservativedailynews.com/2024/10/sorry-democrats-the-fascist-shoe-really-is-on-the-other-democrat-foot/#comment-782914)  
 * TREY on [Looks Like America May Not Know Who Won The Election For Days Again](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/#comment-782904)
 * Stanley Warner on [Kamala Harris Said It Out Loud](https://www.conservativedailynews.com/2024/10/kamala-harris-said-it-out-loud/#comment-782902)
-* Stanley Warner on [Kamala Harris Has Already Failed In Her Constitutional Duty](https://www.conservativedailynews.com/2024/10/kamala-harris-has-already-failed-in-her-constitutional-duty/#comment-782901)
 
 [Close](#)
 
