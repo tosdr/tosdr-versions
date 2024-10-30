@@ -494,38 +494,42 @@ Footer
 
 ### About
 
-* [About us](https://www.talkwalker.com/about)
-* [Customers](https://www.talkwalker.com/customers)
 * [Why Hootsuite](https://www.talkwalker.com/why-hootsuite)
-* [Pricing](https://www.talkwalker.com/plans)
-* [Leadership](https://www.talkwalker.com/about/leadership)
-* [Diversity, equity, & inclusion](https://www.talkwalker.com/diversity-equity-and-inclusion)
-* [Social Impact](https://www.talkwalker.com/social-impact)
-* [Newsroom](https://www.talkwalker.com/newsroom)
+* [About us](https://www.talkwalker.com/about)
 * [Careers](https://careers.hootsuite.com/)
+* [Leadership](https://www.talkwalker.com/about/leadership)
+* [Customers](https://www.talkwalker.com/customers)
+* [Newsroom](https://www.talkwalker.com/newsroom)
+* [Social impact and DEI](https://www.talkwalker.com/social-impact)
 
-### Product
+### Plans
 
-* [Publish and schedule](https://www.talkwalker.com/platform/publishing)
-* [Engage customers](https://www.talkwalker.com/platform/engagement)
-* [Monitor activity](https://www.talkwalker.com/platform/listening)
-* [Advertise content](https://www.talkwalker.com/platform/advertising)
-* [Analyze results](https://www.talkwalker.com/platform/analytics)
-* [Integrations](https://www.talkwalker.com/platform/integrations)
-* [OwlyWriter AI](https://www.talkwalker.com/platform/owly-writer-ai)
-* [Free tools](https://www.talkwalker.com/social-media-tools)
+* [Pricing](https://www.talkwalker.com/plans)
+* [Professional](https://www.talkwalker.com/plans/professional)
+* [Team](https://www.talkwalker.com/plans/team)
+* [Enterprise](https://www.talkwalker.com/plans/enterprise)
+* [Features](https://www.talkwalker.com/platform)
 
-### Industries
+### Guides
 
-* [Government](https://www.talkwalker.com/industries/government)
-* [Health care](https://www.talkwalker.com/industries/healthcare)
-* [Financial services](https://www.talkwalker.com/industries/financial-services)
-* [Education](https://www.talkwalker.com/industries/higher-education)
-* [Real estate](https://www.talkwalker.com/industries/real-estate)
-* [Legal](https://www.talkwalker.com/industries/legal)
-* [Professional services](https://www.talkwalker.com/industries/professional-services)
-* [Agencies](https://www.talkwalker.com/industries/agencies)
-* [Nonprofits](https://www.talkwalker.com/about/hootgiving)
+* [Social media strategy](https://blog.hootsuite.com/social-media-marketing-strategy/)
+* [Social media analytics](https://blog.hootsuite.com/social-media-analytics/)
+* [Social listening](https://blog.hootsuite.com/social-listening-business/)
+* [Best times to post](https://blog.hootsuite.com/best-time-to-post-on-social-media/)
+* [Social media calendar](https://blog.hootsuite.com/social-media-calendar/)
+* [Social media engagement](https://blog.hootsuite.com/social-media-engagement/)
+* [Employee advocacy](https://blog.hootsuite.com/employee-advocacy/)
+* [Social media monitoring](https://blog.hootsuite.com/social-media-monitoring/)
+* [Social media advertising](https://blog.hootsuite.com/social-media-advertising/)
+
+### Free tools
+
+* [AI caption generator](https://www.talkwalker.com/social-media-tools/ai-caption-generator-social-media)
+* [YouTube name generator](https://www.talkwalker.com/social-media-tools/youtube-name-generator)
+* [YouTube channel description generator](https://www.talkwalker.com/social-media-tools/youtube-channel-description-generator)
+* [Instagram username generator](https://www.talkwalker.com/social-media-tools/instagram-name-generator)
+* [Social media username generator](https://www.talkwalker.com/social-media-tools/username-generator)
+* [Instagram hashtag generator](https://www.talkwalker.com/social-media-tools/instagram-hashtag-generator)
 
 ### Resources
 
@@ -535,8 +539,13 @@ Footer
 * [Resource library](https://www.talkwalker.com/resources)
 * [Webinars](https://www.talkwalker.com/webinars)
 * [App directory](https://apps.hootsuite.com/)
-* [Become an Affiliate](https://www.talkwalker.com/affiliate-program)
-* [Become a Partner](https://www.talkwalker.com/partners)
+* [Become an affiliate](https://www.talkwalker.com/affiliate-program)
+
+### Support
+
+* [Need help?](https://www.talkwalker.com/help)
+* [Product updates](https://www.talkwalker.com/whats-new)
+* [Contact sales](https://www.talkwalker.com/about/contact-us)
 
 Language selectorEnglish
 
