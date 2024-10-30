@@ -186,11 +186,11 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (93)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (91)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (32)](https://www.smithbrothersfarms.com/on-special)
         
-    * [Fall Flavors (45)](https://www.smithbrothersfarms.com/fall-favorites)
+    * [Fall Flavors (44)](https://www.smithbrothersfarms.com/fall-favorites)
         
     * [Milk & Cream (55)](https://www.smithbrothersfarms.com/milk-cream)
         
@@ -216,12 +216,12 @@ Hi
         * [Whipping Cream (5)](https://www.smithbrothersfarms.com/whipping-cream)
             
         
-    * [Yogurt (74)](https://www.smithbrothersfarms.com/yogurt)
+    * [Yogurt (73)](https://www.smithbrothersfarms.com/yogurt)
         
         * BACK
         * [Greek Yogurt (52)](https://www.smithbrothersfarms.com/greek)
             
-        * [Traditional Yogurt (20)](https://www.smithbrothersfarms.com/traditional)
+        * [Traditional Yogurt (19)](https://www.smithbrothersfarms.com/traditional)
             
         
     * [Eggs & Butter (10)](https://www.smithbrothersfarms.com/eggs-butter)
@@ -250,12 +250,12 @@ Hi
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (88)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (87)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
             
-        * [Fruit (27)](https://www.smithbrothersfarms.com/fruit)
+        * [Fruit (26)](https://www.smithbrothersfarms.com/fruit)
             
         * [Vegetables (30)](https://www.smithbrothersfarms.com/vegetables)
             
@@ -264,7 +264,7 @@ Hi
         * [Prepared Produce (5)](https://www.smithbrothersfarms.com/prepped)
             
         
-    * [Bakery (91)](https://www.smithbrothersfarms.com/bakery)
+    * [Bakery (90)](https://www.smithbrothersfarms.com/bakery)
         
         * BACK
         * [Bread & Buns (32)](https://www.smithbrothersfarms.com/bread)
@@ -273,7 +273,7 @@ Hi
             
         * [Bagels (16)](https://www.smithbrothersfarms.com/bagels)
             
-        * [Breakfast Treats (18)](https://www.smithbrothersfarms.com/breakfast-treats)
+        * [Breakfast Treats (17)](https://www.smithbrothersfarms.com/breakfast-treats)
             
         * [Muffins & Scones (7)](https://www.smithbrothersfarms.com/muffins)
             
@@ -306,10 +306,10 @@ Hi
         * [Sauces (6)](https://www.smithbrothersfarms.com/sauces-and-soups)
             
         
-    * [Coffee, Juice & Tea (49)](https://www.smithbrothersfarms.com/coffee-juice-tea)
+    * [Coffee, Juice & Tea (48)](https://www.smithbrothersfarms.com/coffee-juice-tea)
         
         * BACK
-        * [Juice & Tea (24)](https://www.smithbrothersfarms.com/juice-3)
+        * [Juice & Tea (23)](https://www.smithbrothersfarms.com/juice-3)
             
         * [Coffee (25)](https://www.smithbrothersfarms.com/coffee-2)
             
