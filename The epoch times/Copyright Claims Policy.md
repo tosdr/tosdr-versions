@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [North Carolina Appeals Court Rules Against Republican National Committee](https://www.theepochtimes.com/us/north-carolina-appeals-court-rules-against-republican-national-committee-5750412)
-    
-    NEW By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![North Carolina Appeals Court Rules Against Republican National Committee](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![North Carolina Appeals Court Rules Against Republican National Committee](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750420-GettyImages-2171844038-205x123.jpg.webp)](https://www.theepochtimes.com/us/north-carolina-appeals-court-rules-against-republican-national-committee-5750412)
-* [Trump’s Truth Social Is Worth More Than Elon Musk’s X Amid Stock Price Surge](https://www.theepochtimes.com/us/trumps-truth-social-is-worth-more-than-elon-musks-x-amid-stock-price-surge-5750494)
+* [Suspect in Oregon, Washington Ballot Box Fires Likely an Experienced Metalworker: Officials](https://www.theepochtimes.com/us/suspect-in-oregon-washington-ballot-box-fires-likely-an-experienced-metalworker-officials-5751068)
     
     NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Trump’s Truth Social Is Worth More Than Elon Musk’s X Amid Stock Price Surge](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Suspect in Oregon, Washington Ballot Box Fires Likely an Experienced Metalworker: Officials](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump’s Truth Social Is Worth More Than Elon Musk’s X Amid Stock Price Surge](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736784-DSC08215-butler-trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/trumps-truth-social-is-worth-more-than-elon-musks-x-amid-stock-price-surge-5750494)
-* [Gold Registers Record High Price Amid Geopolitical Tensions, US Election](https://www.theepochtimes.com/business/gold-registers-record-high-price-amid-geopolitical-tensions-us-election-5750491)
+    ![Suspect in Oregon, Washington Ballot Box Fires Likely an Experienced Metalworker: Officials](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750398-Ballot-Drop-Box-Fire-Washington-State-205x123.jpg.webp)](https://www.theepochtimes.com/us/suspect-in-oregon-washington-ballot-box-fires-likely-an-experienced-metalworker-officials-5751068)
+* [Age-Proof Power: 5 Exercises That Make Sense in Your 60s](https://www.theepochtimes.com/health/age-proof-power-5-exercises-that-make-sense-in-your-60s-5696178)
     
-    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    NEW By [Kevin Shelley](https://www.theepochtimes.com/expert/kevin-shelley)
     
-    [![Gold Registers Record High Price Amid Geopolitical Tensions, US Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Age-Proof Power: 5 Exercises That Make Sense in Your 60s](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Gold Registers Record High Price Amid Geopolitical Tensions, US Election](https://img.theepochtimes.com/assets/uploads/2023/08/15/id5467763-GettyImages-1227918017_2-205x123.jpg.webp)](https://www.theepochtimes.com/business/gold-registers-record-high-price-amid-geopolitical-tensions-us-election-5750491)
-* [Harris Promises to ‘Represent All Americans’ After Biden’s ‘Garbage’ Remark](https://www.theepochtimes.com/us/harris-promises-to-represent-all-americans-after-bidens-garbage-remark-5750516)
+    ![Age-Proof Power: 5 Exercises That Make Sense in Your 60s](https://img.theepochtimes.com/assets/uploads/2024/10/18/id5743485-GettyImages-490617876-205x123.jpg.webp)](https://www.theepochtimes.com/health/age-proof-power-5-exercises-that-make-sense-in-your-60s-5696178)
+* [Private Sector Job Gains Beat Forecasts but Manufacturing Weakness Persists](https://www.theepochtimes.com/us/private-sector-job-gains-beat-forecasts-but-manufacturing-weakness-persists-5750774)
     
-    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Harris Promises to ‘Represent All Americans’ After Biden’s ‘Garbage’ Remark](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Private Sector Job Gains Beat Forecasts but Manufacturing Weakness Persists](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris Promises to ‘Represent All Americans’ After Biden’s ‘Garbage’ Remark](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750621-GettyImages-2181184262-Kamala-Harris-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-promises-to-represent-all-americans-after-bidens-garbage-remark-5750516)
-* [Supreme Court Allows Virginia to Remove Noncitizens From Voter Rolls](https://www.theepochtimes.com/us/supreme-court-allows-virginia-to-remove-noncitizens-from-voter-rolls-5750570)
+    ![Private Sector Job Gains Beat Forecasts but Manufacturing Weakness Persists](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746664-GettyImages-1810375379-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/private-sector-job-gains-beat-forecasts-but-manufacturing-weakness-persists-5750774)
+* [Why Sleep Is So Important After a Heart Attack](https://www.theepochtimes.com/health/why-sleep-is-so-important-after-a-heart-attack-5750598)
     
-    2hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    NEW By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
     
-    [![Supreme Court Allows Virginia to Remove Noncitizens From Voter Rolls](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Why Sleep Is So Important After a Heart Attack](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Supreme Court Allows Virginia to Remove Noncitizens From Voter Rolls](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746872-10232024-DSC06716-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-allows-virginia-to-remove-noncitizens-from-voter-rolls-5750570)
-* [US Economy Grows in 3rd Quarter, Driven by Surge in Consumer, Government Spending](https://www.theepochtimes.com/us/us-economy-grows-in-3rd-quarter-driven-by-surge-in-consumer-government-spending-5750493)
+    ![Why Sleep Is So Important After a Heart Attack](https://img.theepochtimes.com/assets/uploads/2023/12/15/id5547951-shutterstock_2057931104-205x123.jpg.webp)](https://www.theepochtimes.com/health/why-sleep-is-so-important-after-a-heart-attack-5750598)
+* [9 Senate Races to Watch in November](https://www.theepochtimes.com/article/9-senate-races-to-watch-in-november-5740962)
     
-    2hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    NEW By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
     
-    [![US Economy Grows in 3rd Quarter, Driven by Surge in Consumer, Government Spending](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![9 Senate Races to Watch in November](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Economy Grows in 3rd Quarter, Driven by Surge in Consumer, Government Spending](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750596-USA-shopping-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-economy-grows-in-3rd-quarter-driven-by-surge-in-consumer-government-spending-5750493)
-* [At Least 63 Dead as Flash Floods Devastate Southern Spain](https://www.theepochtimes.com/world/at-least-63-dead-as-flash-floods-devastate-southern-spain-5750416)
+    ![9 Senate Races to Watch in November](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750772-lead_final4-205x123.jpg.webp)](https://www.theepochtimes.com/article/9-senate-races-to-watch-in-november-5740962)
+* [Some Voters in Pennsylvania Haven’t Received Mail Ballots, Prompting Lawsuit](https://www.theepochtimes.com/us/some-voters-in-pennsylvania-havent-received-mail-ballots-prompting-lawsuit-5750890)
     
-    2hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    1hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![At Least 63 Dead as Flash Floods Devastate Southern Spain](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Some Voters in Pennsylvania Haven’t Received Mail Ballots, Prompting Lawsuit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![At Least 63 Dead as Flash Floods Devastate Southern Spain](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750419-AP24304278186021-205x123.jpg.webp)](https://www.theepochtimes.com/world/at-least-63-dead-as-flash-floods-devastate-southern-spain-5750416)
-* [Trump Leans Into Border Security Message in Final Week of Campaign](https://www.theepochtimes.com/us/trump-leans-into-border-security-message-in-final-week-of-campaign-5750322)
+    ![Some Voters in Pennsylvania Haven’t Received Mail Ballots, Prompting Lawsuit](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5751053-mail-in-ballots-GettyImages-2180066278-205x123.jpg.webp)](https://www.theepochtimes.com/us/some-voters-in-pennsylvania-havent-received-mail-ballots-prompting-lawsuit-5750890)
+* [Just Half the Leases Sold for Offshore Wind Development in Gulf of Maine](https://www.theepochtimes.com/us/just-half-the-leases-sold-for-offshore-wind-development-in-gulf-of-maine-5750722)
     
-    6hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    1hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Trump Leans Into Border Security Message in Final Week of Campaign](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Just Half the Leases Sold for Offshore Wind Development in Gulf of Maine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Leans Into Border Security Message in Final Week of Campaign](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750481-Trump-Santiago-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-leans-into-border-security-message-in-final-week-of-campaign-5750322)
-* [Uncertainty Surrounds Alleged Assassination Attempt on Former Bolivian President](https://www.theepochtimes.com/world/uncertainty-surrounds-alleged-assassination-attempt-on-former-bolivian-president-5750027)
+    ![Just Half the Leases Sold for Offshore Wind Development in Gulf of Maine](https://img.theepochtimes.com/assets/uploads/2024/06/10/id5666005-GettyImages-1407548865-205x123.jpg.webp)](https://www.theepochtimes.com/us/just-half-the-leases-sold-for-offshore-wind-development-in-gulf-of-maine-5750722)
+* [Prosecutors Seek 17-Year Sentence for Air Guardsman Over Ukraine War Leaks](https://www.theepochtimes.com/us/prosecutors-seek-17-year-sentence-for-air-guardsman-over-ukraine-war-leaks-5750689)
     
-    7hr By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
+    2hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![Uncertainty Surrounds Alleged Assassination Attempt on Former Bolivian President](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Prosecutors Seek 17-Year Sentence for Air Guardsman Over Ukraine War Leaks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Uncertainty Surrounds Alleged Assassination Attempt on Former Bolivian President](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750482-GettyImages-2172668658-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/uncertainty-surrounds-alleged-assassination-attempt-on-former-bolivian-president-5750027)
-* [Three-Term Montana Sen. Jon Tester Becomes the Underdog](https://www.theepochtimes.com/us/three-term-montana-sen-jon-tester-becomes-the-underdog-5745319)
+    ![Prosecutors Seek 17-Year Sentence for Air Guardsman Over Ukraine War Leaks](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750887-Jack-Teixeira-GettyImages-1251791849-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/prosecutors-seek-17-year-sentence-for-air-guardsman-over-ukraine-war-leaks-5750689)
+* [Voter Registration Investigations Launched in Pennsylvania County Amid Claims of Possible Fraud](https://www.theepochtimes.com/us/voter-registration-investigations-launched-in-pennsylvania-county-amid-claims-of-possible-fraud-5750696)
     
-    7hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Three-Term Montana Sen. Jon Tester Becomes the Underdog](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Voter Registration Investigations Launched in Pennsylvania County Amid Claims of Possible Fraud](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Three-Term Montana Sen. Jon Tester Becomes the Underdog](https://img.theepochtimes.com/assets/uploads/2023/06/01/id5306484-06012023-DSC07169-Senator-Tester-205x123.jpg.webp)](https://www.theepochtimes.com/us/three-term-montana-sen-jon-tester-becomes-the-underdog-5745319)
+    ![Voter Registration Investigations Launched in Pennsylvania County Amid Claims of Possible Fraud](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5751078-mail-in-ballots-GettyImages-2181259690-205x123.jpg)](https://www.theepochtimes.com/us/voter-registration-investigations-launched-in-pennsylvania-county-amid-claims-of-possible-fraud-5750696)
+* [Senators Urge Treasury, Homeland Security to End Trade Loophole, Stop Fentanyl Smuggling](https://www.theepochtimes.com/us/senators-urge-treasury-homeland-security-to-end-trade-loophole-stop-fentanyl-smuggling-5750656)
+    
+    2hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    
+    [![Senators Urge Treasury, Homeland Security to End Trade Loophole, Stop Fentanyl Smuggling](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Senators Urge Treasury, Homeland Security to End Trade Loophole, Stop Fentanyl Smuggling](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750891-GettyImages-1176399205-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/senators-urge-treasury-homeland-security-to-end-trade-loophole-stop-fentanyl-smuggling-5750656)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
