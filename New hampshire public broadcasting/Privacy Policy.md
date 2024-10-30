@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**Solar System: Wandering Worlds** | NOVA](https://video.nhpbs.org/video/solar-system-wandering-worlds-pkjevv?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**The Mirror and the Light Preview** | Wolf Hall](https://video.nhpbs.org/video/the-mirror-and-the-light-preview-cevwvk?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Conclave** | Flicks](https://video.nhpbs.org/video/conclave-fprn3z?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Solar System: Wandering Worlds** | NOVA](https://video.nhpbs.org/video/solar-system-wandering-worlds-pkjevv?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**October 29, 2024** | Amanpour and Company](https://video.nhpbs.org/video/october-29-2024-nvvrhu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Brad Lomax: Creating Communities of Care \[ASL + OC\]** | American Masters](https://video.nhpbs.org/video/brad-lomax-creating-communities-of-care-asl-oc-cjkz0g?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**American Voices 2024** | FRONTLINE](https://video.nhpbs.org/video/american-voices-2024-l71ysy?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**October 29, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-29-2024-pbs-news-hour-full-episode-1730174401?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**SCIENCE episode preview** | Craft in America](https://video.nhpbs.org/video/science-episode-preview-feldyl?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 2 Scene** | The Marlow Murder Club](https://video.nhpbs.org/video/episode-2-scene-vkiqnk?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Extraordinary Finds 3 Sneak Peek** | Antiques Roadshow](https://video.nhpbs.org/video/preview-extraordinary-finds-3-tjzeig?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
