@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/homeopathie-een-wetenschappelijk-congres/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/nordstream-aanslagen-de-dader-meldde-zich-al/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
