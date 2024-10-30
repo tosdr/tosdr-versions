@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Fairness
+
+### Ahead of Tanzania’s election, Maasai fight to stay put](https://www.csmonitor.com/World/Africa/2024/1030/maasai-ngorongoro-evictions-tanzania-election "Ahead of Tanzania’s election, Maasai fight to stay put")
+
 [Hope
 
 ### UN schools in Gaza shaped our reporter’s childhood. She worries for the future.](https://www.csmonitor.com/World/Middle-East/2024/1029/israeli-ban-unrwa-education-future "UN schools in Gaza shaped our reporter’s childhood. She worries for the future.")
@@ -99,10 +103,6 @@ Recent Stories
 [Safety
 
 ### In Israel-Hezbollah war, a rising cry from Lebanese: Why were we bombed?](https://www.csmonitor.com/World/Middle-East/2024/1029/lebanon-israel-civilian-bombing-casualties "In Israel-Hezbollah war, a rising cry from Lebanese: Why were we bombed?")
-
-[Trust
-
-### American politics at its best](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1029/American-politics-at-its-best "American politics at its best")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Ahead of Tanzania’s election, Maasai fight to stay put](https://www.csmonitor.com/World/Africa/2024/1030/maasai-ngorongoro-evictions-tanzania-election "Ahead of Tanzania’s election, Maasai fight to stay put")
+
 [### UN schools in Gaza shaped our reporter’s childhood. She worries for the future.](https://www.csmonitor.com/World/Middle-East/2024/1029/israeli-ban-unrwa-education-future "UN schools in Gaza shaped our reporter’s childhood. She worries for the future.")
 
 [### In Israel-Hezbollah war, a rising cry from Lebanese: Why were we bombed?](https://www.csmonitor.com/World/Middle-East/2024/1029/lebanon-israel-civilian-bombing-casualties "In Israel-Hezbollah war, a rising cry from Lebanese: Why were we bombed?")
-
-[### Israeli strikes inside Iran cross a threshold. How will Iran respond?](https://www.csmonitor.com/World/Middle-East/2024/1028/iran-israel-airstrike-deterrence-hezbollah-gaza "Israeli strikes inside Iran cross a threshold. How will Iran respond?")
 
 * * *
 
