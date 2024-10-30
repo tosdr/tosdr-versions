@@ -399,11 +399,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [8 Best Affiliate Marketing Courses for 2024](https://www.classcentral.com/report/best-affiliate-marketing-courses/)
-2. [10 Best Docker Courses for 2024](https://www.classcentral.com/report/best-docker-courses/)
-3. [\[2024\] 100 Top Pluralsight Courses of All Time](https://www.classcentral.com/report/pluralsight-top-courses/)
-4. [5 Best Botany Courses for 2024](https://www.classcentral.com/report/best-botany-courses/)
-5. [5 Best Canva Courses for 2024: Elevate Your Designs](https://www.classcentral.com/report/best-canva-courses/)
+1. [7 Best Email Marketing Courses for 2024](https://www.classcentral.com/report/best-email-marketing-courses/)
+2. [\[2024\] TOEFL Test Preparation with 80+ Online Resources](https://www.classcentral.com/report/toefl-preparation/)
+3. [\[2024\] 80+ GMAT Exam Preparation Resources](https://www.classcentral.com/report/gmat-preparation/)
+4. [8 Best Affiliate Marketing Courses for 2024](https://www.classcentral.com/report/best-affiliate-marketing-courses/)
+5. [10 Best Docker Courses for 2024](https://www.classcentral.com/report/best-docker-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. data science
+1. hacking
     
-2. web development
+2. law
     
-3. html
+3. flutter
     
 
 Popular subjects
 ----------------
 
-1. [Data Analysis
+1. [Artificial Intelligence
     
-    8,448 courses](https://www.classcentral.com/subject/data-analysis)
-2. [Computer Science
+    12,835 courses](https://www.classcentral.com/subject/ai)
+2. [Web Development
     
-    40,170 courses](https://www.classcentral.com/subject/cs)
-3. [Artificial Intelligence
+    13,350 courses](https://www.classcentral.com/subject/web-development)
+3. [Cybersecurity
     
-    12,690 courses](https://www.classcentral.com/subject/ai)
+    16,193 courses](https://www.classcentral.com/subject/cybersecurity)
 
 Popular courses
 ---------------
 
-1. [Astrobiology and the Search for Extraterrestrial Life
+1. [Introduction to Programming with MATLAB
     
-    University of Edinburgh](https://www.classcentral.com/course/astrobio-415)
-2. [Introduction to Philosophy
+    Vanderbilt University](https://www.classcentral.com/course/matlab-3396)
+2. [Introduction to Complexity
     
-    University of Edinburgh](https://www.classcentral.com/course/introphil-418)
-3. [Computing in Python I: Fundamentals and Procedural Programming
+    Santa Fe Institute](https://www.classcentral.com/course/complexity-explorer-introduction-to-complexity-557)
+3. [Working with Translation: Theory and Practice
     
-    Georgia Institute of Technology](https://www.classcentral.com/course/python-the-georgia-institute-of-technology-comput-11469)
+    Cardiff University](https://www.classcentral.com/course/working-with-translation-6981)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
