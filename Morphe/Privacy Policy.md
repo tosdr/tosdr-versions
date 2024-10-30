@@ -59,13 +59,13 @@ Main navigation
     
     #### Totally Fall For These Morphe Makeup Favorites
     
-    Oct 29, 24
+    Oct 30, 24
     
     ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 6 min. read](https://www.morphe.com/blogs/artistry-diaries/totally-fall-for-these-morphe-makeup-favorites)[![How to Incorporate Glitter Into Your Holiday Glam](//www.morphe.com/cdn/shop/articles/Morphe-2024-September-Blog-Thumbail-Glitter-1020x580_600x.jpg?v=1730234288)
     
     #### How to Incorporate Glitter Into Your Holiday Glam
     
-    Oct 29, 24
+    Oct 30, 24
     
     ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-incorporate-glitter-into-your-holiday-glam)
     
@@ -91,7 +91,7 @@ Main navigation
     
     #### Totally Fall For These Morphe Makeup Favorites
     
-    Oct 29, 24
+    Oct 30, 24
     
     ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 6 min. read](https://www.morphe.com/blogs/artistry-diaries/totally-fall-for-these-morphe-makeup-favorites)
     
@@ -113,13 +113,13 @@ Main navigation
     
     #### Totally Fall For These Morphe Makeup Favorites
     
-    Oct 29, 24
+    Oct 30, 24
     
     ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 6 min. read](https://www.morphe.com/blogs/artistry-diaries/totally-fall-for-these-morphe-makeup-favorites)[![How to Incorporate Glitter Into Your Holiday Glam](//www.morphe.com/cdn/shop/articles/Morphe-2024-September-Blog-Thumbail-Glitter-1020x580_600x.jpg?v=1730234288)
     
     #### How to Incorporate Glitter Into Your Holiday Glam
     
-    Oct 29, 24
+    Oct 30, 24
     
     ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-incorporate-glitter-into-your-holiday-glam)
     
@@ -137,13 +137,13 @@ Main navigation
     
     #### Totally Fall For These Morphe Makeup Favorites
     
-    Oct 29, 24
+    Oct 30, 24
     
     ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 6 min. read](https://www.morphe.com/blogs/artistry-diaries/totally-fall-for-these-morphe-makeup-favorites)[![How to Incorporate Glitter Into Your Holiday Glam](//www.morphe.com/cdn/shop/articles/Morphe-2024-September-Blog-Thumbail-Glitter-1020x580_600x.jpg?v=1730234288)
     
     #### How to Incorporate Glitter Into Your Holiday Glam
     
-    Oct 29, 24
+    Oct 30, 24
     
     ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-incorporate-glitter-into-your-holiday-glam)
     
@@ -169,7 +169,7 @@ Main navigation
     
     #### Totally Fall For These Morphe Makeup Favorites
     
-    Oct 29, 24
+    Oct 30, 24
     
     ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 6 min. read](https://www.morphe.com/blogs/artistry-diaries/totally-fall-for-these-morphe-makeup-favorites)
     
