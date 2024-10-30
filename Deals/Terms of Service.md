@@ -30,11 +30,11 @@ Light Dark
 
 * [Sign in](https://gg.deals/login/)
 
-![](https://img.gg.deals/a2/04/a5bf7f379658e61a9986658e1422158b91c7_1272cr200_Q100.jpg)
+![](https://img.gg.deals/4a/27/c5bad84ba443f672b6253490061d6c575a9c_1272cr200_Q100.jpg)
 
-![](https://img.gg.deals/d8/64/2bc10574de9afb2fa4c119e16e8fe1ebcfa2_2560xt1440_Q100.jpg)
+![](https://img.gg.deals/81/1b/4f312a47f76ee3c51126f4f30a7f3bc06dca_2560xt1440_Q100.jpg)
 
-[](https://gg.deals/us/redirect/7d9b8efbcb46473162bff0f8af3dd70ce45a6425/?utm_campaign=main-banner&utm_source=page%2Fpage)[](https://gg.deals/us/redirect/7d9b8efbcb46473162bff0f8af3dd70ce45a6425/?utm_campaign=main-left&utm_source=page%2Fpage)[](https://gg.deals/us/redirect/7d9b8efbcb46473162bff0f8af3dd70ce45a6425/?utm_campaign=main-right&utm_source=page%2Fpage)
+[](https://gg.deals/us/redirect/58ed1682673fbd26ac63d9e8058bb2020549350d/?utm_campaign=main-banner&utm_source=page%2Fpage)[](https://gg.deals/us/redirect/58ed1682673fbd26ac63d9e8058bb2020549350d/?utm_campaign=main-left&utm_source=page%2Fpage)[](https://gg.deals/us/redirect/58ed1682673fbd26ac63d9e8058bb2020549350d/?utm_campaign=main-right&utm_source=page%2Fpage)
 
 * [Home](https://gg.deals/) 
 * [Terms & conditions](https://gg.deals/terms/) 
