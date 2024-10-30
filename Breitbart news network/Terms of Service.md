@@ -55,6 +55,7 @@
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
 * [Breitbart Fight Club](https://web.breitbart.com/fight-club)
+* [Biden: MAGA Garbage!](https://www.breitbart.com/politics/2024/10/29/biden-trashes-voters-in-closing-argument-calls-trump-supporters-garbage/)
 * [2024 Election](https://www.breitbart.com/tag/2024-presidential-election/)
 * [WaPo Meltdown](https://www.breitbart.com/tag/washington-post/)
 * [Israel vs Iran](https://www.breitbart.com/tag/israel/)
