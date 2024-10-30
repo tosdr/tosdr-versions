@@ -56,13 +56,11 @@ triangle borderless
     
     Wireless Security Solutions arrow bottom
     
-    [![](//www.lorex.com/cdn/shop/collections/B451AJ-L2_e9ccaa52-5294-4423-81cd-e3ead363321a_80x.png?v=1693511092)
+    [![](//www.lorex.com/cdn/shop/collections/Wi-FI-cameras-L1_80x.png?v=1727730105)
     
-    Video Doorbells](https://www.lorex.com/collections/doorbells)[![](//www.lorex.com/cdn/shop/collections/F461A-L1_80x.png?v=1708623203)
+    Wireless (Wi-Fi) Cameras](https://www.lorex.com/collections/wi-fi-security-cameras)[![](//www.lorex.com/cdn/shop/collections/B451AJ-L2_e9ccaa52-5294-4423-81cd-e3ead363321a_80x.png?v=1693511092)
     
-    Outdoor Cameras](https://www.lorex.com/collections/outdoor-security-cameras/wi-fi-security-cameras)[![](//www.lorex.com/cdn/shop/collections/W461ASC-L1_80x.png?v=1708623179)
-    
-    Indoor Cameras](https://www.lorex.com/collections/indoor-security-cameras)[![](//www.lorex.com/cdn/shop/collections/V261LCD-L1_336ab9bc-8242-4802-a991-a83e3f35c3bc_80x.png?v=1686081603)
+    Video Doorbells](https://www.lorex.com/collections/doorbells)[![](//www.lorex.com/cdn/shop/collections/V261LCD-L1_336ab9bc-8242-4802-a991-a83e3f35c3bc_80x.png?v=1686081603)
     
     Floodlight Cameras](https://www.lorex.com/collections/floodlights)[![](//www.lorex.com/cdn/shop/collections/H871T6D-4BA2-L1_80x.png?v=1693510802)
     
@@ -193,9 +191,8 @@ arrow left Back
 arrow left Back
 
 * [Wireless Security Solutions](https://www.lorex.com/collections/wireless-security-solutions)
+* [Wireless (Wi-Fi) Cameras](https://www.lorex.com/collections/wi-fi-security-cameras)
 * [Video Doorbells](https://www.lorex.com/collections/doorbells)
-* [Outdoor Cameras](https://www.lorex.com/collections/outdoor-security-cameras/wi-fi-security-cameras)
-* [Indoor Cameras](https://www.lorex.com/collections/indoor-security-cameras)
 * [Floodlight Cameras](https://www.lorex.com/collections/floodlights)
 * [Battery-Operated Systems and Cameras](https://www.lorex.com/collections/wire-free-security-systems)
 * [Sensors](https://www.lorex.com/collections/sensors)
@@ -406,6 +403,17 @@ Your cart is empty
     
     [**Shop All >**](https://www.lorex.com/collections/accessories-security-system)
     
+    [![](//www.lorex.com/cdn/shop/collections/Wi-FI-cameras-L1_x150.png?v=1727730105)
+    
+    Wireless (Wi-Fi) Cameras
+    
+    Easy smart home security cameras to monitor and protect](https://www.lorex.com/collections/wi-fi-security-cameras)
+    
+    * [Indoor Security Cameras](https://www.lorex.com/collections/indoor-security-cameras)
+    * [Outdoor Wireless Cameras](https://www.lorex.com/collections/outdoor-wireless-cameras)
+    
+    [**Shop All >**](https://www.lorex.com/collections/wi-fi-security-cameras)
+    
     [![](//www.lorex.com/cdn/shop/collections/B451AJ-L2_e9ccaa52-5294-4423-81cd-e3ead363321a_x150.png?v=1693511092)
     
     Video Doorbells
@@ -416,31 +424,6 @@ Your cart is empty
     * [Wired Doorbells](https://www.lorex.com/collections/wired-doorbells)
     
     [**Shop All >**](https://www.lorex.com/collections/doorbells)
-    
-    [![](//www.lorex.com/cdn/shop/collections/F461A-L1_x150.png?v=1708623203)
-    
-    Outdoor Cameras
-    
-    Weatherproof cameras for exteriors](https://www.lorex.com/collections/outdoor-security-cameras/wi-fi-security-cameras)
-    
-    * [Smart Deterrence Wi-Fi Series](https://www.lorex.com/collections/halo-series-outdoor-wi-fi-cameras)
-    * [Outdoor Pan-Tilt Wi-Fi Cameras](https://www.lorex.com/collections/outdoor-pan-tilt-wi-fi-cameras)
-    * [Wireless Security Cameras](https://www.lorex.com/collections/wi-fi-security-cameras)
-    
-    [**Shop All >**](https://www.lorex.com/collections/outdoor-security-cameras/wi-fi-security-cameras)
-    
-    [![](//www.lorex.com/cdn/shop/collections/W461ASC-L1_x150.png?v=1708623179)
-    
-    Indoor Cameras
-    
-    Plug and play cameras for interiors](https://www.lorex.com/collections/indoor-security-cameras)
-    
-    * [2K Pan-Tilt Security Camer...](https://www.lorex.com/products/2k-pan-tilt-indoor-wi-fi-security-camera)
-    * [2K Security Camera](https://www.lorex.com/products/2k-indoor-wi-fi-security-camera)
-    
-    * [Wireless Security Cameras](https://www.lorex.com/collections/wi-fi-security-cameras)
-    
-    [**Shop All >**](https://www.lorex.com/collections/indoor-security-cameras)
     
     [![](//www.lorex.com/cdn/shop/collections/V261LCD-L1_336ab9bc-8242-4802-a991-a83e3f35c3bc_x150.png?v=1686081603)
     
