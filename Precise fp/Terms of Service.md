@@ -165,7 +165,7 @@ Subscribe
 
 [Sign Up](https://app.precisefp.com/signup)
 
-![](https://precisefp.com/wp-content/uploads/2024/03/logo-footer.svg "logo-footer")
+![logo-footer](https://precisefp.com/wp-content/uploads/2024/03/logo-footer.svg "logo-footer")
 
 © 2024 Docupace Technologies
 
