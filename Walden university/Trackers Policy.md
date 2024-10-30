@@ -686,7 +686,7 @@ Call Us: [**8556465286**](tel:8556465286)
             * [Graduate Certificate in Business Management](https://www.waldenu.edu/online-certificates-programs/business-management "Graduate Certificate in Business Management")
             * [Graduate Certificate in Human Resource Management](https://www.waldenu.edu/online-certificates-programs/human-resource-management "Graduate Certificate in Human Resource Management")
             * [Graduate Certificate in Leadership](https://www.waldenu.edu/online-certificate-programs/leadership "Graduate Certificate in Leadership")
-            * [Post-Doctoral Bridge to Business Administration Certificate](https://www.waldenu.edu/online-certificates-programs/business-administration-post-doctoral-bridge "Post-Doctoral Bridge to Business Administration Certificate")
+            * [Post-Doctoral Bridge to Business Administration Certificate](https://www.waldenu.edu/online-certificate-programs/post-doctoral-bridge-to-business-administration "Post-Doctoral Bridge to Business Administration Certificate")
             * [Post-Doctoral Bridge to Management Certificate](https://www.waldenu.edu/online-certificates-programs/management-post-doctoral-bridge "Post-Doctoral Bridge to Management Certificate")
             * [All Business and Management Programs](https://www.waldenu.edu/programs/business "All Business and Management Programs")
             
