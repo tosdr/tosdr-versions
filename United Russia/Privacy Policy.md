@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Дарья Лантратова предложила масштабировать новгородский проект «Единой России» «Академия молодых политиков»](https://cdn.er.ru/media/news/October2024/hqvXTyF58KArlz9ULqFO-small.jpg)](https://er.ru/activity/news/darya-lantratova-predlozhila-masshtabirovat-novgorodskij-proekt-edinoj-rossii-akademiya-molodyh-politikov)
+
+[Дарья Лантратова предложила масштабировать новгородский проект «Единой России» «Академия молодых политиков»](https://er.ru/activity/news/darya-lantratova-predlozhila-masshtabirovat-novgorodskij-proekt-edinoj-rossii-akademiya-molodyh-politikov)
+
+[#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Святенко](https://er.ru/activity/news?tags%5B0%5D=44335) [#Тверская область](https://er.ru/activity/news?tags%5B0%5D=439) [#Новогородская область](https://er.ru/activity/news?tags%5B0%5D=122661) [#наставничество](https://er.ru/activity/news?tags%5B0%5D=72627) [#академия](https://er.ru/activity/news?tags%5B0%5D=4873) [#ВПШ](https://er.ru/activity/news?tags%5B0%5D=36818)
+
+Сегодня 17:15
+
+[![«Молодая Гвардия Единой России» помогает устранять последствия обстрела жилых домов в Луганске](https://cdn.er.ru/media/news/October2024/CSYYmkafoOrCD9j20Oet-small.JPG)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-pomogaet-ustranyat-posledstviya-obstrela-zhilyh-domov-v-luganske)
+
+[«Молодая Гвардия Единой России» помогает устранять последствия обстрела жилых домов в Луганске](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-pomogaet-ustranyat-posledstviya-obstrela-zhilyh-domov-v-luganske)
+
+[#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Голубович](https://er.ru/activity/news?tags%5B0%5D=1093502) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247) [#помощьпострадавшим](https://er.ru/activity/news?tags%5B0%5D=117504)
+
+Сегодня 16:33
+
 [![Владимир Якушев: «Единая Россия» вместе с Правительством завершают подготовку программы модернизации коммунальной инфраструктуры](https://cdn.er.ru/media/news/October2024/eqN3K2UWGJOIKAqFqsMf-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-vmeste-s-pravitelstvom-zavershayut-podgotovku-programmy-modernizacii-kommunalnoj-infrastruktury)
 
 [Владимир Якушев: «Единая Россия» вместе с Правительством завершают подготовку программы модернизации коммунальной инфраструктуры](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-vmeste-s-pravitelstvom-zavershayut-podgotovku-programmy-modernizacii-kommunalnoj-infrastruktury)
@@ -328,22 +344,6 @@
 [Госдума единогласно одобрила в первом чтении законопроект «Единой России» о развитии мобильной связи вдоль дорог](https://er.ru/activity/news/gosduma-edinoglasno-odobrila-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-razvitii-mobilnoj-svyazi-vdol-dorog)
 
 [#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#мобильнаясвязь](https://er.ru/activity/news?tags%5B0%5D=152855) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-29.10.24
-
-[![Госдума поддержала инициированный «Единой Россией» законопроект, освобождающий участников СВО от взыскания исполнительского сбора в период их участия в боевых действиях](https://cdn.er.ru/media/news/October2024/QQ41rComsDJuIr5kwuQc-small.jfif)](https://er.ru/activity/news/gosduma-podderzhala-iniciirovannyj-edinoj-rossiej-zakonoproekt-osvobozhdayushij-uchastnikov-svo-ot-vzyskaniya-ispolnitelskogo-sbora-v-period-ih-uchastiya-v-boevyh-dejstviyah)
-
-[Госдума поддержала инициированный «Единой Россией» законопроект, освобождающий участников СВО от взыскания исполнительского сбора в период их участия в боевых действиях](https://er.ru/activity/news/gosduma-podderzhala-iniciirovannyj-edinoj-rossiej-zakonoproekt-osvobozhdayushij-uchastnikov-svo-ot-vzyskaniya-ispolnitelskogo-sbora-v-period-ih-uchastiya-v-boevyh-dejstviyah)
-
-[#Пискарев](https://er.ru/activity/news?tags%5B0%5D=17151) [#Вяткин](https://er.ru/activity/news?tags%5B0%5D=1653) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555) [#мораторий](https://er.ru/activity/news?tags%5B0%5D=3384) [#исполнительноепроизводство](https://er.ru/activity/news?tags%5B0%5D=127038) [#должники](https://er.ru/activity/news?tags%5B0%5D=38980)
-
-29.10.24
-
-[![«Единая Россия» обеспечила гарантии наставникам на производстве](https://cdn.er.ru/media/news/October2024/4VRjxhgiVXHfaORWH3aY-small.jpeg)](https://er.ru/activity/news/edinaya-rossiya-obespechila-garantii-nastavnikam-na-proizvodstve)
-
-[«Единая Россия» обеспечила гарантии наставникам на производстве](https://er.ru/activity/news/edinaya-rossiya-obespechila-garantii-nastavnikam-na-proizvodstve)
-
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#наставничество](https://er.ru/activity/news?tags%5B0%5D=72627) [#Родина](https://er.ru/activity/news?tags%5B0%5D=2682) [#трудоустройство](https://er.ru/activity/news?tags%5B0%5D=1642) [#работодатель](https://er.ru/activity/news?tags%5B0%5D=5541)
 
 29.10.24
 
