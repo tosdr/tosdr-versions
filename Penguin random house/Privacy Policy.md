@@ -14,11 +14,11 @@ Recommendations
 
 Audio
 
-* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/10181536/PRH_Site_1200x628_OCT2024.jpg)
     
-    Browse All Our Lists, Essays, and Interviews
+    New Releases
     
-    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
 
 * * *
 
