@@ -196,63 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Kobus Venter
+Hugo van Sittert
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=6138242)  
-Mountain Lion Properties
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=2bdcae4b05fea5a3a8e1050aaaed860f173d88ecb9a73b6e485552c831bac675&c=34338995)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=101470204)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=2bdcae4b05fea5a3a8e1050aaaed860f173d88ecb9a73b6e485552c831bac675&c=208274328)  
+Bchange Online CC
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=179182249)  
-webb it services
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=2bdcae4b05fea5a3a8e1050aaaed860f173d88ecb9a73b6e485552c831bac675&c=80163895)  
+Blue Bulls Rugby Coaches Association
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=142518424)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=2bdcae4b05fea5a3a8e1050aaaed860f173d88ecb9a73b6e485552c831bac675&c=135292232)  
+SAUL ATHOL ACRES RENTAL
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=78358032)  
-Lizzy Pop PTY(Ltd)
+![valued client Sportspro Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=2bdcae4b05fea5a3a8e1050aaaed860f173d88ecb9a73b6e485552c831bac675&c=54011142)  
+Sportspro Group (Pty) Ltd
 
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=65181083)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=2bdcae4b05fea5a3a8e1050aaaed860f173d88ecb9a73b6e485552c831bac675&c=56788530)  
+Network Grey (Pty) Ltd
 
-![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=107428369)  
-Turnkey Innovations
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=2bdcae4b05fea5a3a8e1050aaaed860f173d88ecb9a73b6e485552c831bac675&c=114140597)  
+ELLIE'S CLEANING CHICKS
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=144404751)  
-Hydroworld T/A Milliqua
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=2bdcae4b05fea5a3a8e1050aaaed860f173d88ecb9a73b6e485552c831bac675&c=124569521)  
+Xpress Designs
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=112239159)  
-McKaynine Mobility
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=2bdcae4b05fea5a3a8e1050aaaed860f173d88ecb9a73b6e485552c831bac675&c=92360494)  
+CGHK Enterprises (PTY) LTD
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=71932947)  
-National Elite Security Services (PTY) LTD
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=2bdcae4b05fea5a3a8e1050aaaed860f173d88ecb9a73b6e485552c831bac675&c=35737537)  
+Nogana Events and Decor
 
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=200950167)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=2bdcae4b05fea5a3a8e1050aaaed860f173d88ecb9a73b6e485552c831bac675&c=62093375)  
+Meyer Towing & Recovery
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=166127262)  
-Well Hung Art
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=2bdcae4b05fea5a3a8e1050aaaed860f173d88ecb9a73b6e485552c831bac675&c=148955547)  
+Calonet
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=133322902)  
-Website Café (PTY) LTD
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=2bdcae4b05fea5a3a8e1050aaaed860f173d88ecb9a73b6e485552c831bac675&c=80721052)  
+NIMAWELL
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=95337973)  
-IYD
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=2bdcae4b05fea5a3a8e1050aaaed860f173d88ecb9a73b6e485552c831bac675&c=70046935)  
+Chiron Medical Solutions
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=57093263)  
-Itroniq (Pty) Ltd
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=2bdcae4b05fea5a3a8e1050aaaed860f173d88ecb9a73b6e485552c831bac675&c=94987141)  
+Dr V Naik Consult
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
