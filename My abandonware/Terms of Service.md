@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Mario Lemieux Hockey](https://www.myabandonware.com/game/mario-lemieux-hockey-89p)
+* [Parlour Games](https://www.myabandonware.com/game/parlour-games-aog)
+* [Backyard Football 2002](https://www.myabandonware.com/game/backyard-football-2002-cpd)
+* [Plantasia](https://www.myabandonware.com/game/plantasia-so9)
 * [Summer Challenge: Athletics Tournament](https://www.myabandonware.com/game/summer-challenge-athletics-tournament-tcs)
-* [Un Juego de Huevos](https://www.myabandonware.com/game/un-juego-de-huevos-t41)
-* [Ultimate Chess 3D](https://www.myabandonware.com/game/ultimate-chess-3d-t40)
-* [Turma da Mônica em Vamos Brincar nº 1](https://www.myabandonware.com/game/turma-da-monica-em-vamos-brincar-no-1-t3z)
-* [Toy Raid](https://www.myabandonware.com/game/toy-raid-t3y)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
