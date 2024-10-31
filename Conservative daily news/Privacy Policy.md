@@ -181,16 +181,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [The Best Cheap AR-15](https://www.thegunpage.com/the-best-cheap-ar-15/10611566)
+* [POTD: FN M249S – The Machine Gun That Doesn’t Machine](https://www.thegunpage.com/potd-fn-m249s-the-machine-gun-that-doesnt-machine/10611567)
+* [Wheelgun Wednesday: 18th-Century Flintlock Revolving Shotgun](https://www.thegunpage.com/wheelgun-wednesday-18th-century-flintlock-revolving-shotgun/10611568)
+* [D’oh! Some Airports on Pace to Break TSA Records on Catching Guns in Carry-Ons this Year](https://www.thegunpage.com/doh-some-airports-on-pace-to-break-tsa-records-on-catching-guns-in-carry-ons-this-year/10611562)
+* [Kamala Gets Desperate, Abandons Her “Campaign of Joy,” Goes All Out on Nazi Propaganda](https://www.thegunpage.com/kamala-gets-desperate-abandons-her-campaign-of-joy-goes-all-out-on-nazi-propaganda/10611561)
+* [LaserMax Introduces New GS-Max9-G Laser Sight for Ruger Max-9 Pistols](https://www.thegunpage.com/lasermax-introduces-new-gs-max9-g-laser-sight-for-ruger-max-9-pistols/10611564)
 * [The New DeSantis Pocket Partner Holster](https://www.thegunpage.com/the-new-desantis-pocket-partner-holster/10611559)
 * [Kung Fu Grip Review: Is It The Best Reduced Angle AR-15 Grip?](https://www.thegunpage.com/kung-fu-grip-review-is-it-the-best-reduced-angle-ar-15-grip/10611556)
 * [Davidson's Launches Two Exclusive Beretta 92XI Models](https://www.thegunpage.com/davidsons-launches-two-exclusive-beretta-92xi-models/10611560)
 * [Guardian Touts Trump Credentials While Trying To Bolster Kamala](https://www.thegunpage.com/guardian-touts-trump-credentials-while-trying-to-bolster-kamala/10611553)
-* [Heritage Coachwhip: Riding Shotgun](https://www.thegunpage.com/heritage-coachwhip-riding-shotgun/10611554)
-* [USA Clay Target League 2024 Fall Season Participation Eclipses 2023 Mark](https://www.thegunpage.com/usa-clay-target-league-2024-fall-season-participation-eclipses-2023-mark/10611558)
-* [NYC’s Subway AI Weapons Scanners Fail to Find a Single Gun](https://www.thegunpage.com/nycs-subway-ai-weapons-scanners-fail-to-find-a-single-gun/10611552)
-* [‘Ghost Guns’ Or Unchecked Agency Power?](https://www.thegunpage.com/ghost-guns-or-unchecked-agency-power/10611551)
-* [Brandon Powell Wins 2024 NSCA National Championship High Over All Title](https://www.thegunpage.com/brandon-powell-wins-2024-nsca-national-championship-high-over-all-title/10611555)
-* [These boots saved me, twice.](https://www.thegunpage.com/these-boots-saved-me-twice/10611549)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* michael mohn on [Realistically Simple Ways to Make Your Car (Virtually) Unstealable](https://www.conservativedailynews.com/2024/10/realistically-simple-ways-to-make-your-car-virtually-unstealable/#comment-782951)
 * Stanley Warner on [Virginia Asks Supreme Court To Let It Remove Noncitizens From Voter Rolls](https://www.conservativedailynews.com/2024/10/virginia-asks-supreme-court-to-let-it-remove-noncitizens-from-voter-rolls/#comment-782949)
 * Stanley Warner on [The Democrats Are Done. They Are Out Of Gas And Ideas](https://www.conservativedailynews.com/2024/10/the-democrats-are-done-they-are-out-of-gas-and-ideas/#comment-782948)
 * charles wilkins on [New York Voter Delivers Two-Word Response When MSNBC Asks If ‘Threat To Democracy’ Attack On Trump Resonates](https://www.conservativedailynews.com/2024/10/new-york-voter-delivers-two-word-response-when-msnbc-asks-if-threat-to-democracy-attack-on-trump-resonates/#comment-782944)
@@ -240,7 +241,6 @@ Recent Comments
 * Deb on [CEOs Need To Stand Up For Capitalism And Common Sense](https://www.conservativedailynews.com/2024/10/ceos-need-to-stand-up-for-capitalism-and-common-sense/#comment-782921)
 * Jeff L. on [Sorry Democrats, the Fascist Shoe Really is on the Other (Democrat) Foot](https://www.conservativedailynews.com/2024/10/sorry-democrats-the-fascist-shoe-really-is-on-the-other-democrat-foot/#comment-782914)  
 * TREY on [Looks Like America May Not Know Who Won The Election For Days Again](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/#comment-782904)
-* Stanley Warner on [Kamala Harris Said It Out Loud](https://www.conservativedailynews.com/2024/10/kamala-harris-said-it-out-loud/#comment-782902)
 
 [Close](#)
 
