@@ -18,7 +18,7 @@ Surprise me
 
 English
 
-[enEnglish](https://www.gamepix.com/privacy-cookie) [itItaliano](https://www.gamepix.com/it/privacy-cookie)
+[enEnglish](https://www.gamepix.com/privacy-cookie) [frFrançais](https://www.gamepix.com/fr/privacy-cookie) [itItaliano](https://www.gamepix.com/it/privacy-cookie)
 
 [About us](https://partners.gamepix.com/ "About us")[Contact us](https://partners.gamepix.com/contact "Contact us")[Privacy](https://company.gamepix.com/privacy-cookie "Privacy")
 
