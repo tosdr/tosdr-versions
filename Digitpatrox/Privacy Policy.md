@@ -20,16 +20,16 @@ Thursday, October 31 2024
 
 Latest
 
-* [How to Check for Viruses on Windows 10](https://digitpatrox.com/how-to-check-for-viruses-on-windows-10/)
-* [Get-back-to-your-desk mandates spark office refill revolution – Computerworld](https://digitpatrox.com/get-back-to-your-desk-mandates-spark-office-refill-revolution-computerworld/)
-* [How to Plant Leeks and Onions](https://digitpatrox.com/how-to-plant-leeks-and-onions/)
-* [Buying an SMTP Server 2024: A Comprehensive Guide](https://digitpatrox.com/buying-an-smtp-server-2024-a-comprehensive-guide/)
-* [How to completely uninstall Chrome on Windows 11, 10](https://digitpatrox.com/how-to-completely-uninstall-chrome-on-windows-11-10/)
-* [GB Pockit+ All-Terrain Stroller Review](https://digitpatrox.com/gb-pockit-all-terrain-stroller-review/)
-* [5 Ghost Hunting Gadgets (And Why They Don’t Work)](https://digitpatrox.com/5-ghost-hunting-gadgets-and-why-they-dont-work/)
-* [VMware needs to win back trust – and VMware Explore Barcelona 2024 is its chance to do so](https://digitpatrox.com/vmware-needs-to-win-back-trust-and-vmware-explore-barcelona-2024-is-its-chance-to-do-so/)
-* [New MacBook Pro Features Apple’s M4 AI Chip](https://digitpatrox.com/new-macbook-pro-features-apples-m4-ai-chip/)
-* [The Samsung Galaxy Watch Ultra just hit its lowest ever price with this early Black Friday deal](https://digitpatrox.com/the-samsung-galaxy-watch-ultra-just-hit-its-lowest-ever-price-with-this-early-black-friday-deal/)
+* [Anthropic’s Claude AI chatbot now has a desktop app](https://digitpatrox.com/anthropics-claude-ai-chatbot-now-has-a-desktop-app/)
+* [NYT Connections Today: Hints and Answers for November 1, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-1-2024/)
+* [How to use a VPN with Starlink: The best VPNs for Starlink](https://digitpatrox.com/how-to-use-a-vpn-with-starlink-the-best-vpns-for-starlink/)
+* [“Missed expectations” are driving the cloud repatriation trend – but it’s not as bad as you might think](https://digitpatrox.com/missed-expectations-are-driving-the-cloud-repatriation-trend-but-its-not-as-bad-as-you-might-think/)
+* [Microsoft reports better-than-expected results; AI products show record growth – Computerworld](https://digitpatrox.com/microsoft-reports-better-than-expected-results-ai-products-show-record-growth-computerworld/)
+* [Why Getting Your Neighborhood Declared a Historic District Is a Bad Idea](https://digitpatrox.com/why-getting-your-neighborhood-declared-a-historic-district-is-a-bad-idea/)
+* [Vendor Spotlight: Opmantek](https://digitpatrox.com/vendor-spotlight-opmantek/)
+* [How to install Linux GUI apps on Windows 11, 10](https://digitpatrox.com/how-to-install-linux-gui-apps-on-windows-11-10/)
+* [Best Portable Carpet Cleaners of 2024](https://digitpatrox.com/best-portable-carpet-cleaners-of-2024/)
+* [The New Mac Mini Is Great, but Apple Needs to Make This for It](https://digitpatrox.com/the-new-mac-mini-is-great-but-apple-needs-to-make-this-for-it/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/How-to-check-for-viruses-on-Windows-10.jpg)](https://digitpatrox.com/how-to-check-for-viruses-on-windows-10/)
+* [![](https://cdn.vox-cdn.com/thumbor/UMBzTIDhPEBx1ObYAmlzwXsra9Q=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25263505/STK_414_AI_C.jpg)](https://digitpatrox.com/anthropics-claude-ai-chatbot-now-has-a-desktop-app/)
     
-    [How to Check for Viruses on Windows 10](https://digitpatrox.com/how-to-check-for-viruses-on-windows-10/)
+    [Anthropic’s Claude AI chatbot now has a desktop app](https://digitpatrox.com/anthropics-claude-ai-chatbot-now-has-a-desktop-app/)
     
-    10 mins ago
+    9 seconds ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3595608-0-95897100-1730377654-shutterstock_2482562197.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/get-back-to-your-desk-mandates-spark-office-refill-revolution-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/07/NYT-Connections-Today-Featured.jpg?w=1250&quality=75)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-1-2024/)
     
-    [Get-back-to-your-desk mandates spark office refill revolution – Computerworld](https://digitpatrox.com/get-back-to-your-desk-mandates-spark-office-refill-revolution-computerworld/)
+    [NYT Connections Today: Hints and Answers for November 1, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-1-2024/)
+    
+    15 mins ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Best-VPN-for-Starlink.jpg)](https://digitpatrox.com/how-to-use-a-vpn-with-starlink-the-best-vpns-for-starlink/)
+    
+    [How to use a VPN with Starlink: The best VPNs for Starlink](https://digitpatrox.com/how-to-use-a-vpn-with-starlink-the-best-vpns-for-starlink/)
     
     1 hour ago
     
-* [![](https://lifehacker.com/imagery/articles/01JBE2RYFSP2ABVDME1TCPNNE8/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-plant-leeks-and-onions/)
+* [![](https://cdn.mos.cms.futurecdn.net/d4Q6FKh9ofCeeEtELW6vFm-1200-80.jpg)](https://digitpatrox.com/missed-expectations-are-driving-the-cloud-repatriation-trend-but-its-not-as-bad-as-you-might-think/)
     
-    [How to Plant Leeks and Onions](https://digitpatrox.com/how-to-plant-leeks-and-onions/)
-    
-    1 hour ago
-    
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Buying-an-SMTP-Server.jpeg)](https://digitpatrox.com/buying-an-smtp-server-2024-a-comprehensive-guide/)
-    
-    [Buying an SMTP Server 2024: A Comprehensive Guide](https://digitpatrox.com/buying-an-smtp-server-2024-a-comprehensive-guide/)
+    [“Missed expectations” are driving the cloud repatriation trend – but it’s not as bad as you might think](https://digitpatrox.com/missed-expectations-are-driving-the-cloud-repatriation-trend-but-its-not-as-bad-as-you-might-think/)
     
     2 hours ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2019/04/windows-uninstall-chrome-completely-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-completely-uninstall-chrome-on-windows-11-10/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3596210-0-16389000-1730394270-Microsift.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/microsoft-reports-better-than-expected-results-ai-products-show-record-growth-computerworld/)
     
-    [How to completely uninstall Chrome on Windows 11, 10](https://digitpatrox.com/how-to-completely-uninstall-chrome-on-windows-11-10/)
+    [Microsoft reports better-than-expected results; AI products show record growth – Computerworld](https://digitpatrox.com/microsoft-reports-better-than-expected-results-ai-products-show-record-growth-computerworld/)
     
     2 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [10 mins ago
+* [9 seconds ago
     
-    ### How to Check for Viruses on Windows 10](https://digitpatrox.com/how-to-check-for-viruses-on-windows-10/)
+    ### Anthropic’s Claude AI chatbot now has a desktop app](https://digitpatrox.com/anthropics-claude-ai-chatbot-now-has-a-desktop-app/)
+* [15 mins ago
+    
+    ### NYT Connections Today: Hints and Answers for November 1, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-1-2024/)
 * [1 hour ago
     
-    ### Get-back-to-your-desk mandates spark office refill revolution – Computerworld](https://digitpatrox.com/get-back-to-your-desk-mandates-spark-office-refill-revolution-computerworld/)
-* [1 hour ago
-    
-    ### How to Plant Leeks and Onions](https://digitpatrox.com/how-to-plant-leeks-and-onions/)
+    ### How to use a VPN with Starlink: The best VPNs for Starlink](https://digitpatrox.com/how-to-use-a-vpn-with-starlink-the-best-vpns-for-starlink/)
 
 Most Popular Topics
 
-* [August 18, 2024
+* [August 21, 2024
     
-    ### A Googler’s guide to getting things done](https://digitpatrox.com/a-googlers-guide-to-getting-things-done/)
-* [3 weeks ago
+    ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
+* [August 14, 2024
     
-    ### NYT Connections Today: Hints and Answers for October 14, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-14-2024/)
-* [5 days ago
+    ### Convenience has a cost, privacy has iPhone – Computerworld](https://digitpatrox.com/convenience-has-a-cost-privacy-has-iphone-computerworld/)
+* [September 14, 2024
     
-    ### UK government says new data bill will free up millions of hours of public sector time](https://digitpatrox.com/uk-government-says-new-data-bill-will-free-up-millions-of-hours-of-public-sector-time/)
+    ### 5 Best Retail Accounting Software for 2024](https://digitpatrox.com/5-best-retail-accounting-software-for-2024/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### 5 Ghost Hunting Gadgets (And Why They Don’t Work)](https://digitpatrox.com/5-ghost-hunting-gadgets-and-why-they-dont-work/)
 * [3 hours ago
     
-    ### VMware needs to win back trust – and VMware Explore Barcelona 2024 is its chance to do so](https://digitpatrox.com/vmware-needs-to-win-back-trust-and-vmware-explore-barcelona-2024-is-its-chance-to-do-so/)
+    ### Vendor Spotlight: Opmantek](https://digitpatrox.com/vendor-spotlight-opmantek/)
 * [3 hours ago
     
-    ### New MacBook Pro Features Apple’s M4 AI Chip](https://digitpatrox.com/new-macbook-pro-features-apples-m4-ai-chip/)
+    ### How to install Linux GUI apps on Windows 11, 10](https://digitpatrox.com/how-to-install-linux-gui-apps-on-windows-11-10/)
+* [3 hours ago
+    
+    ### Best Portable Carpet Cleaners of 2024](https://digitpatrox.com/best-portable-carpet-cleaners-of-2024/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 13, 2024
-    
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
