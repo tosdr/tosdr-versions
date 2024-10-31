@@ -20,41 +20,42 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Tony Macklin died on 6 November 2015.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_6539-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
+    
+    ### [Minute’s applause at Millwall game to honour lifelong fan who died of cancer](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
+    
+    [![Jake Cooper after Millwall's 1-0 win against Plymouth Argyle. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_6640-2024-10-24T15_30_14.972-360x180.jpg)](https://southwarknews.co.uk/news/they-seem-hungry-cooper-praises-millwall-youngsters-fire/)
+    
+    ### [‘They seem hungry’ – Cooper praises Millwall youngsters’ fire](https://southwarknews.co.uk/news/they-seem-hungry-cooper-praises-millwall-youngsters-fire/)
+    
+    [![Lower Road pictured a month after Cycleway 4 was unveiled](https://southwarknews.co.uk/wp-content/uploads/2024/10/blurred-3-e1730298302905-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
+    
+    ### [Exclusive: Collisions have almost tripled on Lower Road since cycle lane was installed, data suggests](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
+    
+    [![From (L-R) Oliver Smith, Murray Kemp, Kerrica Kendall, Beatrice Davidson and Jacob Gower pose for photos outside Stratford Magistrates Court and Family Court. Photo by Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-protesters-360x180.jpg)](https://southwarknews.co.uk/area/peckham/protesters-who-blocked-a-coach-in-peckham-taking-asylum-seekers-to-bibby-stockholm-barge-cleared/)
+    
+    ### [Protesters who blocked a coach in Peckham taking asylum seekers to Bibby Stockholm barge cleared](https://southwarknews.co.uk/area/peckham/protesters-who-blocked-a-coach-in-peckham-taking-asylum-seekers-to-bibby-stockholm-barge-cleared/)
+    
+    [![Chair Martin Boyd with Southwark’s Cheryl Russell, director of landlord services and Councillor Sarah King,cabinet member for council homes at the Southwark HomeOwners conference](https://southwarknews.co.uk/wp-content/uploads/2024/10/MBSarahKingCherylRussell-1024x683-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
+    
+    ### [Exclusive: Director of resident services resigns from Southwark Council](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
+    
+    [![Lemar Urqhart (left) and Guilherme Messias Da Silva (right)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lemar-Urqhart-left-and-Guilherme-Messias-Da-Silva-right-360x180.png)](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
+    
+    ### [Family of man shot dead in Herne Hill says ‘time is not a healer’ in heartbreaking appeal for witnesses](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
+    
+    [![Dirty Blonde Club in Clapham been shut down by Lambeth Council. 
+    CREDIT: Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/10/Dirty-Blonde-Club-in-Clapham-360x180.jpg)](https://southwarknews.co.uk/news/crime/south-london-club-has-been-shut-down-after-a-24-year-old-man-was-killed-in-a-fight-outside-the-venue/)
+    
+    ### [South London club has been shut down after a 24-year-old man was killed in a ‘fight outside the venue’](https://southwarknews.co.uk/news/crime/south-london-club-has-been-shut-down-after-a-24-year-old-man-was-killed-in-a-fight-outside-the-venue/)
+    
+    [![Firefighter stock image. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2023/11/Firefighter-stock-image.-Credit-LFB-scaled-e1698858872829-360x180.jpeg)](https://southwarknews.co.uk/area/london/firefighters-will-no-longer-attend-automatic-alarms-in-most-non-residential-buildings-from-this-week/)
+    
+    ### [Firefighters will no longer attend automatic alarms in most non-residential buildings from this week](https://southwarknews.co.uk/area/london/firefighters-will-no-longer-attend-automatic-alarms-in-most-non-residential-buildings-from-this-week/)
+    
     [![Tom Burton with his 1963 Dandy edition](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tom-Burton-IMG_5912-e1730203462284-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
     
     ### [Bermondsey boy reunited with 60-year-old Dandy comic he starred in](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
-    
-    [![Southwark Council wants 20,000 new homes to be built around the Old Kent Road over the next 18 years. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/Old-Kent-Road-360x180.jpg)](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
-    
-    ### [Old Kent Road: What are people’s views on plans for 20,000 new homes?](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
-    
-    [![(photo: London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-29-10-2024-at-10.03-360x180.jpg)](https://southwarknews.co.uk/area/peckham/fire-at-suspected-cannabis-factory-in-peckham/)
-    
-    ### [Fire at suspected cannabis factory in Peckham](https://southwarknews.co.uk/area/peckham/fire-at-suspected-cannabis-factory-in-peckham/)
-    
-    [![Photo of ambulances near the scene on Tuesday 29 October (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/5fe12dca-656e-40ff-ba07-788bc2d4740f-360x180.jpg)](https://southwarknews.co.uk/area/borough/man-dies-after-falling-from-height-in-borough/)
-    
-    ### [Man dies after ‘falling from height’ in Borough](https://southwarknews.co.uk/area/borough/man-dies-after-falling-from-height-in-borough/)
-    
-    [![The crime scene has now been lifted (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/854499bc-cc33-4774-a60b-c375552a69f6-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
-    
-    ### [Two people stabbed in broad daylight in Bermondsey](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
-    
-    [![A new station box at Elephant and Castle London Underground station (Image: TfL)](https://southwarknews.co.uk/wp-content/uploads/2024/10/0_AT_040924_ElephantandCastlestationboxJPG-360x180.webp)](https://southwarknews.co.uk/news/news-plus/analysis-will-the-budget-unleash-the-bakerloo-line-extension/)
-    
-    ### [Analysis: Will the Budget unleash the Bakerloo Line extension?](https://southwarknews.co.uk/news/news-plus/analysis-will-the-budget-unleash-the-bakerloo-line-extension/)
-    
-    [![Southwark Homeowners Conference](https://southwarknews.co.uk/wp-content/uploads/2024/10/image004-360x180.jpg)](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
-    
-    ### [‘Many grievances were aired’: A view on the Southwark leaseholders’ conference](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
-    
-    [![A previous Rotherhithe Voices event. Image provided by Alison Clayburn](https://southwarknews.co.uk/wp-content/uploads/2024/10/1000003833-e1730113844494-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-voices-brings-community-performances-to-albion-street-next-month/)
-    
-    ### [Rotherhithe Voices brings community performances to Albion Street next month](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-voices-brings-community-performances-to-albion-street-next-month/)
-    
-    [![The council's offices on Tooley Street](https://southwarknews.co.uk/wp-content/uploads/2024/09/160-Tooley-Street-exterior-5-360x180.jpg)](https://southwarknews.co.uk/area/southwark/budget-is-once-in-a-generation-opportunity-for-council-housing-revolution-southwark-labour-leader-says/)
-    
-    ### [Budget is ‘once-in-a-generation’ opportunity for ‘council housing revolution’, Southwark Labour Leader says](https://southwarknews.co.uk/area/southwark/budget-is-once-in-a-generation-opportunity-for-council-housing-revolution-southwark-labour-leader-says/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,41 +106,42 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Tony Macklin died on 6 November 2015.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_6539-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
+    
+    ### [Minute’s applause at Millwall game to honour lifelong fan who died of cancer](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
+    
+    [![Jake Cooper after Millwall's 1-0 win against Plymouth Argyle. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_6640-2024-10-24T15_30_14.972-360x180.jpg)](https://southwarknews.co.uk/news/they-seem-hungry-cooper-praises-millwall-youngsters-fire/)
+    
+    ### [‘They seem hungry’ – Cooper praises Millwall youngsters’ fire](https://southwarknews.co.uk/news/they-seem-hungry-cooper-praises-millwall-youngsters-fire/)
+    
+    [![Lower Road pictured a month after Cycleway 4 was unveiled](https://southwarknews.co.uk/wp-content/uploads/2024/10/blurred-3-e1730298302905-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
+    
+    ### [Exclusive: Collisions have almost tripled on Lower Road since cycle lane was installed, data suggests](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
+    
+    [![From (L-R) Oliver Smith, Murray Kemp, Kerrica Kendall, Beatrice Davidson and Jacob Gower pose for photos outside Stratford Magistrates Court and Family Court. Photo by Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-protesters-360x180.jpg)](https://southwarknews.co.uk/area/peckham/protesters-who-blocked-a-coach-in-peckham-taking-asylum-seekers-to-bibby-stockholm-barge-cleared/)
+    
+    ### [Protesters who blocked a coach in Peckham taking asylum seekers to Bibby Stockholm barge cleared](https://southwarknews.co.uk/area/peckham/protesters-who-blocked-a-coach-in-peckham-taking-asylum-seekers-to-bibby-stockholm-barge-cleared/)
+    
+    [![Chair Martin Boyd with Southwark’s Cheryl Russell, director of landlord services and Councillor Sarah King,cabinet member for council homes at the Southwark HomeOwners conference](https://southwarknews.co.uk/wp-content/uploads/2024/10/MBSarahKingCherylRussell-1024x683-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
+    
+    ### [Exclusive: Director of resident services resigns from Southwark Council](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
+    
+    [![Lemar Urqhart (left) and Guilherme Messias Da Silva (right)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lemar-Urqhart-left-and-Guilherme-Messias-Da-Silva-right-360x180.png)](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
+    
+    ### [Family of man shot dead in Herne Hill says ‘time is not a healer’ in heartbreaking appeal for witnesses](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
+    
+    [![Dirty Blonde Club in Clapham been shut down by Lambeth Council. 
+    CREDIT: Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/10/Dirty-Blonde-Club-in-Clapham-360x180.jpg)](https://southwarknews.co.uk/news/crime/south-london-club-has-been-shut-down-after-a-24-year-old-man-was-killed-in-a-fight-outside-the-venue/)
+    
+    ### [South London club has been shut down after a 24-year-old man was killed in a ‘fight outside the venue’](https://southwarknews.co.uk/news/crime/south-london-club-has-been-shut-down-after-a-24-year-old-man-was-killed-in-a-fight-outside-the-venue/)
+    
+    [![Firefighter stock image. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2023/11/Firefighter-stock-image.-Credit-LFB-scaled-e1698858872829-360x180.jpeg)](https://southwarknews.co.uk/area/london/firefighters-will-no-longer-attend-automatic-alarms-in-most-non-residential-buildings-from-this-week/)
+    
+    ### [Firefighters will no longer attend automatic alarms in most non-residential buildings from this week](https://southwarknews.co.uk/area/london/firefighters-will-no-longer-attend-automatic-alarms-in-most-non-residential-buildings-from-this-week/)
+    
     [![Tom Burton with his 1963 Dandy edition](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tom-Burton-IMG_5912-e1730203462284-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
     
     ### [Bermondsey boy reunited with 60-year-old Dandy comic he starred in](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
-    
-    [![Southwark Council wants 20,000 new homes to be built around the Old Kent Road over the next 18 years. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/Old-Kent-Road-360x180.jpg)](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
-    
-    ### [Old Kent Road: What are people’s views on plans for 20,000 new homes?](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
-    
-    [![(photo: London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-29-10-2024-at-10.03-360x180.jpg)](https://southwarknews.co.uk/area/peckham/fire-at-suspected-cannabis-factory-in-peckham/)
-    
-    ### [Fire at suspected cannabis factory in Peckham](https://southwarknews.co.uk/area/peckham/fire-at-suspected-cannabis-factory-in-peckham/)
-    
-    [![Photo of ambulances near the scene on Tuesday 29 October (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/5fe12dca-656e-40ff-ba07-788bc2d4740f-360x180.jpg)](https://southwarknews.co.uk/area/borough/man-dies-after-falling-from-height-in-borough/)
-    
-    ### [Man dies after ‘falling from height’ in Borough](https://southwarknews.co.uk/area/borough/man-dies-after-falling-from-height-in-borough/)
-    
-    [![The crime scene has now been lifted (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/854499bc-cc33-4774-a60b-c375552a69f6-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
-    
-    ### [Two people stabbed in broad daylight in Bermondsey](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
-    
-    [![A new station box at Elephant and Castle London Underground station (Image: TfL)](https://southwarknews.co.uk/wp-content/uploads/2024/10/0_AT_040924_ElephantandCastlestationboxJPG-360x180.webp)](https://southwarknews.co.uk/news/news-plus/analysis-will-the-budget-unleash-the-bakerloo-line-extension/)
-    
-    ### [Analysis: Will the Budget unleash the Bakerloo Line extension?](https://southwarknews.co.uk/news/news-plus/analysis-will-the-budget-unleash-the-bakerloo-line-extension/)
-    
-    [![Southwark Homeowners Conference](https://southwarknews.co.uk/wp-content/uploads/2024/10/image004-360x180.jpg)](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
-    
-    ### [‘Many grievances were aired’: A view on the Southwark leaseholders’ conference](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
-    
-    [![A previous Rotherhithe Voices event. Image provided by Alison Clayburn](https://southwarknews.co.uk/wp-content/uploads/2024/10/1000003833-e1730113844494-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-voices-brings-community-performances-to-albion-street-next-month/)
-    
-    ### [Rotherhithe Voices brings community performances to Albion Street next month](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-voices-brings-community-performances-to-albion-street-next-month/)
-    
-    [![The council's offices on Tooley Street](https://southwarknews.co.uk/wp-content/uploads/2024/09/160-Tooley-Street-exterior-5-360x180.jpg)](https://southwarknews.co.uk/area/southwark/budget-is-once-in-a-generation-opportunity-for-council-housing-revolution-southwark-labour-leader-says/)
-    
-    ### [Budget is ‘once-in-a-generation’ opportunity for ‘council housing revolution’, Southwark Labour Leader says](https://southwarknews.co.uk/area/southwark/budget-is-once-in-a-generation-opportunity-for-council-housing-revolution-southwark-labour-leader-says/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -243,6 +245,30 @@ Terms of Use
 
 ### Featured Articles
 
+[![Tony Macklin died on 6 November 2015.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_6539-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
+
+### [Minute’s applause at Millwall game to honour lifelong fan who died of cancer](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
+
+[31st October 2024](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
+
+[![From (L-R) Oliver Smith, Murray Kemp, Kerrica Kendall, Beatrice Davidson and Jacob Gower pose for photos outside Stratford Magistrates Court and Family Court. Photo by Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-protesters-120x86.jpg)](https://southwarknews.co.uk/area/peckham/protesters-who-blocked-a-coach-in-peckham-taking-asylum-seekers-to-bibby-stockholm-barge-cleared/)
+
+### [Protesters who blocked a coach in Peckham taking asylum seekers to Bibby Stockholm barge cleared](https://southwarknews.co.uk/area/peckham/protesters-who-blocked-a-coach-in-peckham-taking-asylum-seekers-to-bibby-stockholm-barge-cleared/)
+
+[30th October 2024](https://southwarknews.co.uk/area/peckham/protesters-who-blocked-a-coach-in-peckham-taking-asylum-seekers-to-bibby-stockholm-barge-cleared/)
+
+[![Chair Martin Boyd with Southwark’s Cheryl Russell, director of landlord services and Councillor Sarah King,cabinet member for council homes at the Southwark HomeOwners conference](https://southwarknews.co.uk/wp-content/uploads/2024/10/MBSarahKingCherylRussell-1024x683-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
+
+### [Exclusive: Director of resident services resigns from Southwark Council](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
+
+[30th October 2024](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
+
+[![Lemar Urqhart (left) and Guilherme Messias Da Silva (right)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lemar-Urqhart-left-and-Guilherme-Messias-Da-Silva-right-120x86.png)](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
+
+### [Family of man shot dead in Herne Hill says ‘time is not a healer’ in heartbreaking appeal for witnesses](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
+
+[30th October 2024](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
+
 [![Tom Burton with his 1963 Dandy edition](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tom-Burton-IMG_5912-e1730203462284-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
 
 ### [Bermondsey boy reunited with 60-year-old Dandy comic he starred in](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
@@ -254,30 +280,6 @@ Terms of Use
 ### [Old Kent Road: What are people’s views on plans for 20,000 new homes?](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
 
 [29th October 2024](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
-
-[![(photo: London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-29-10-2024-at-10.03-120x86.jpg)](https://southwarknews.co.uk/area/peckham/fire-at-suspected-cannabis-factory-in-peckham/)
-
-### [Fire at suspected cannabis factory in Peckham](https://southwarknews.co.uk/area/peckham/fire-at-suspected-cannabis-factory-in-peckham/)
-
-[29th October 2024](https://southwarknews.co.uk/area/peckham/fire-at-suspected-cannabis-factory-in-peckham/)
-
-[![The crime scene has now been lifted (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/854499bc-cc33-4774-a60b-c375552a69f6-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
-
-### [Two people stabbed in broad daylight in Bermondsey](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
-
-[29th October 2024](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
-
-[![Southwark Homeowners Conference](https://southwarknews.co.uk/wp-content/uploads/2024/10/image004-120x86.jpg)](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
-
-### [‘Many grievances were aired’: A view on the Southwark leaseholders’ conference](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
-
-[28th October 2024](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
-
-[![(photo: Network Rail)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-28-10-2024-at-11.25-120x86.jpg)](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
-
-### [Major rail disruptions hit south London with no trains at key stations all week](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
-
-[28th October 2024](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
 
 ### USEFUL PAGES
 
