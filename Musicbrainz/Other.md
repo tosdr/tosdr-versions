@@ -28,7 +28,7 @@ Social Contract
 
 This social contract defines the spirit underpinning MetaBrainz' projects and its community. This contract is not a legally binding contract; for legal information regarding products (including the MetaBrainz's Databases), please consult the license pages of the specific project.
 
-1. **MetaBrainz's projects will remain 100% free**: The development process will be open to the public by using our community forum, meetings open to interested parties, and open IRC channels. The client and server software will remain free and accessible under generally accepted open licenses. The factual database content will be in the public domain and the non-factual database content will be released under Creative Commons licenses.
+1. **MetaBrainz's projects will remain 100% free**: The development process will be open to the public by using our community forum, meetings open to interested parties, and open chat channels. The client and server software will remain free and accessible under generally accepted open licenses. The factual database content will be in the public domain and the non-factual database content will be released under Creative Commons licenses.
 2. **We will give back to the web and free software community**: When we add extensions to MetaBrainz projects we will license them as free software or content. We will make the best system we can, so that our open data projects will be widely distributed and used. We will feed back bug-fixes, improvements, user requests, etc. using our normal public communication channels.
 3. **We won't hide problems and policies**: We will keep all MetaBrainz related discussions open for public view at all times, regardless of their content. All problems and policies related to MetaBrainz will be visible to all.
 4. **Our priorities are our users, free content, and free software**: We will be guided by the needs of our users, free content and software community. We will place their interests first in our priorities. We won't object to commercial use of our content, companies can use the work of our volunteers without any charge, but charging for the content itself is forbidden. We aim to follow the GPL in that "You may charge a fee for the physical act of transferring a copy, and you may at your option offer warranty protection in exchange for a fee."
@@ -68,6 +68,7 @@ Each project may also define a Social Contract of its own that builds on the Met
 [Contact us](https://metabrainz.org/contact)
 
 * [Blog](https://blog.metabrainz.org/category/metabrainz/)
+* [Chat](https://musicbrainz.org/doc/Communication/ChatBrainz)
 * [Twitter/X](https://twitter.com/MetaBrainz)
 * [Mastodon](https://mastodon.social/@metabrainz)
 * [Bluesky](https://bsky.app/profile/metabrainz.org)
