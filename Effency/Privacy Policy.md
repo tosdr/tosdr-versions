@@ -298,7 +298,7 @@ team@effency.fr
 
 07 61 43 61 70
 
-[<span data-metadata=""><span data-buffer="">55 Rue la Boétie, 75008 Paris](https://goo.gl/maps/FG8v5keiCbHJXxig6)
+Paris
 
 [Linkedin](https://www.linkedin.com/company/effency/?originalSubdomain=fr) [Twitter](https://twitter.com/effency_) [Youtube](https://www.youtube.com/channel/UCYWqhJ3gFmZzDrNo0w4d-SQ)
 
