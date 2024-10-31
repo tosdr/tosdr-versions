@@ -143,6 +143,12 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+10/31/2024 10:25 AM EST
+
+### Check your inboxes it's newsletter day!
+
+Two special creates are yours to collect.
+
 10/23/2024 8:30 AM EST
 
 ### Gift Exchange sign-ups open in less than a month.
@@ -161,62 +167,6 @@ Our gift exchange is one of the most fun times of the year, but you must have pa
 
 You can now purchase the exact herd helper you are looking for with golden tokens!
 ----------------------------------------------------------------------------------
-
-10/15/2024 9:30 AM EST
-
-[SWITCH UP! It's the 15th and Random Gene Sale switch has activated. Until the 1st of the month you can now pick up:](https://hj2.huntandjump.com/upgrade.php#tabs-5)  
-**Mushroom**  
-![](https://www.huntandjump.com/images/grsExamples/mush.png)  
-**Axiom Green**  
-![](https://www.huntandjump.com/images/grsExamples/axG.png)  
-**Onyx**  
-![](https://www.huntandjump.com/images/grsExamples/onyx.png)  
-**Phantom Bats**  
-![](https://www.huntandjump.com/images/grsExamples/phbts.png)  
-**Phantom Ghosts**  
-![](https://www.huntandjump.com/images/grsExamples/phgho.png)  
-**Phantom Spiders**  
-![](https://www.huntandjump.com/images/grsExamples/phspi.png)  
-**Phantom Skulls**  
-![](https://www.huntandjump.com/images/grsExamples/phsku.png)  
-**Phantom Pumpkins**  
-![](https://www.huntandjump.com/images/grsExamples/phpmk.png)  
-**Phantom Autumn**  
-![](https://www.huntandjump.com/images/grsExamples/phatmn.png)  
-**Phantom Lace**  
-![](https://www.huntandjump.com/images/grsExamples/phlace.png)  
-**Phantom Diamond Sparkle**  
-![](https://www.huntandjump.com/images/grsExamples/phdmsp.png)  
-**Phantom Jellyfish**  
-![](https://www.huntandjump.com/images/grsExamples/phjlyf.png)  
-**Phantom Apple Picking**  
-![](https://www.huntandjump.com/images/grsExamples/apple.png)  
-**Phantom Cobweb**  
-![](https://www.huntandjump.com/images/grsExamples/phweb.png)  
-**Phantom Heart**  
-![](https://www.huntandjump.com/images/grsExamples/phheart.png)  
-**Phantom Shamrock**  
-![](https://www.huntandjump.com/images/grsExamples/phshm.png)  
-**Phantom Will-O-Wisp**  
-![](https://www.huntandjump.com/images/grsExamples/phnwisp.png)  
-**Phantom Roses**  
-![](https://www.huntandjump.com/images/grsExamples/phrose.png)  
-**Phantom Bouquet**  
-![](https://www.huntandjump.com/images/grsExamples/phflower.png)  
-**Phantom Sun Runes**  
-![](https://www.huntandjump.com/images/grsExamples/phsun.png)  
-**Phantom Star Runes**  
-![](https://www.huntandjump.com/images/grsExamples/phstar.png)  
-**Phantom Critter Tracks**  
-![](https://www.huntandjump.com/images/grsExamples/phpaw.png)  
-**Phantom Bird Tracks**  
-![](https://www.huntandjump.com/images/grsExamples/phbird.png)  
-**Phantom Muddy Puddles**  
-![](https://www.huntandjump.com/images/grsExamples/phsplash.png)  
-**PDR Belton Spotting**  
-![](https://www.huntandjump.com/images/grsExamples/belton.png)  
-**Jewel Box**  
-![](https://www.huntandjump.com/images/grsExamples/tmjb.png)
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
