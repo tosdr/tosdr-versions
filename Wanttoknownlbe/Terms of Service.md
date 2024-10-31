@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/drunvalos-boodschap-voor-jou/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/optimisme-versterkt-je-immuunsysteem/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
