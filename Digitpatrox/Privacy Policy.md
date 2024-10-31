@@ -20,16 +20,16 @@ Thursday, October 31 2024
 
 Latest
 
-* [5 Best Wall Oven-Microwave Combos](https://digitpatrox.com/5-best-wall-oven-microwave-combos/)
-* [Apple’s New M4 Chips Give Intel and AMD a Run for Their Money](https://digitpatrox.com/apples-new-m4-chips-give-intel-and-amd-a-run-for-their-money/)
-* [800,000 users exposed in Landmark Admin data breach](https://digitpatrox.com/800000-users-exposed-in-landmark-admin-data-breach/)
-* [Samsung One UI 7 just revealed in huge leak — here’s all the new features](https://digitpatrox.com/samsung-one-ui-7-just-revealed-in-huge-leak-heres-all-the-new-features/)
-* [Interbank confirms data breach following failed extortion, data leak](https://digitpatrox.com/interbank-confirms-data-breach-following-failed-extortion-data-leak/)
-* [How to create and save Chrome tab groups](https://digitpatrox.com/how-to-create-and-save-chrome-tab-groups/)
-* [Meta is working with US government to use Llama AI](https://digitpatrox.com/meta-is-working-with-us-government-to-use-llama-ai/)
-* [Today’s Wordle Answer and Hints (October 31, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-31-2024/)
-* [Considering an RTO policy? Think again. Firms with remote working options record better financial performance](https://digitpatrox.com/considering-an-rto-policy-think-again-firms-with-remote-working-options-record-better-financial-performance/)
-* [signs of a rapid evolution – Computerworld](https://digitpatrox.com/signs-of-a-rapid-evolution-computerworld/)
+* [Slack adds templates to help users kick off projects quicker – Computerworld](https://digitpatrox.com/slack-adds-templates-to-help-users-kick-off-projects-quicker-computerworld/)
+* [This Hidden Safari Feature Makes Browsing a Lot Faster](https://digitpatrox.com/this-hidden-safari-feature-makes-browsing-a-lot-faster/)
+* [Best and Worst Hearing Aid Brands](https://digitpatrox.com/best-and-worst-hearing-aid-brands/)
+* [Boston Dynamics’ New Atlas Picks and Packs a Peck of Auto Parts](https://digitpatrox.com/boston-dynamics-new-atlas-picks-and-packs-a-peck-of-auto-parts/)
+* [Does anyone care if you use AI? Fiverr doesn’t think so](https://digitpatrox.com/does-anyone-care-if-you-use-ai-fiverr-doesnt-think-so/)
+* [11 Marketing Strategy Templates You Can Download for Free](https://digitpatrox.com/11-marketing-strategy-templates-you-can-download-for-free/)
+* [No, not planks! Use this 5-minute standing abs workout to build core strength and and improve your posture instead](https://digitpatrox.com/no-not-planks-use-this-5-minute-standing-abs-workout-to-build-core-strength-and-and-improve-your-posture-instead/)
+* [Microsoft Entra “security defaults” to make MFA setup mandatory](https://digitpatrox.com/microsoft-entra-security-defaults-to-make-mfa-setup-mandatory/)
+* [Know the price-matching policies for Best Buy, Walmart, Amazon, and others](https://digitpatrox.com/know-the-price-matching-policies-for-best-buy-walmart-amazon-and-others/)
+* [NYT Strands Today: Hints, Answers & Spangram for October 31](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-31/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1674164173/prod/content/dam/CRO-Images-2023/01January/Appliances/CR-Appliances-InlineHero-Best-Combo-Wall-Ovens-0123)](https://digitpatrox.com/5-best-wall-oven-microwave-combos/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3595255-0-74546200-1730293411-Screenshot-2024-10-30-at-12.17.00.png?w=1024)](https://digitpatrox.com/slack-adds-templates-to-help-users-kick-off-projects-quicker-computerworld/)
     
-    [5 Best Wall Oven-Microwave Combos](https://digitpatrox.com/5-best-wall-oven-microwave-combos/)
+    [Slack adds templates to help users kick off projects quicker – Computerworld](https://digitpatrox.com/slack-adds-templates-to-help-users-kick-off-projects-quicker-computerworld/)
     
     2 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/new-project.jpg)](https://digitpatrox.com/apples-new-m4-chips-give-intel-and-amd-a-run-for-their-money/)
+* [![](https://lifehacker.com/imagery/articles/01JBF7M5RVYP7ZFTXD3TABGWZB/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/this-hidden-safari-feature-makes-browsing-a-lot-faster/)
     
-    [Apple’s New M4 Chips Give Intel and AMD a Run for Their Money](https://digitpatrox.com/apples-new-m4-chips-give-intel-and-amd-a-run-for-their-money/)
+    [This Hidden Safari Feature Makes Browsing a Lot Faster](https://digitpatrox.com/this-hidden-safari-feature-makes-browsing-a-lot-faster/)
     
-    5 mins ago
+    29 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/rcgqGm2k9qbr9K4kHhEmvU-1200-80.jpg)](https://digitpatrox.com/800000-users-exposed-in-landmark-admin-data-breach/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1679497099/prod/content/dam/CRO-Images-2023/03March/Health/CR-Health-InlineHero-Best-Worst-Hearing-Aid-Brands-Retaliers-0323)](https://digitpatrox.com/best-and-worst-hearing-aid-brands/)
     
-    [800,000 users exposed in Landmark Admin data breach](https://digitpatrox.com/800000-users-exposed-in-landmark-admin-data-breach/)
+    [Best and Worst Hearing Aid Brands](https://digitpatrox.com/best-and-worst-hearing-aid-brands/)
     
     60 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/UJwNfXjRrJDj4ABfqCNnMU-1200-80.png)](https://digitpatrox.com/samsung-one-ui-7-just-revealed-in-huge-leak-heres-all-the-new-features/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/screenshot-2024-10-30-11-12-50-am.png)](https://digitpatrox.com/boston-dynamics-new-atlas-picks-and-packs-a-peck-of-auto-parts/)
     
-    [Samsung One UI 7 just revealed in huge leak — here’s all the new features](https://digitpatrox.com/samsung-one-ui-7-just-revealed-in-huge-leak-heres-all-the-new-features/)
+    [Boston Dynamics’ New Atlas Picks and Packs a Peck of Auto Parts](https://digitpatrox.com/boston-dynamics-new-atlas-picks-and-packs-a-peck-of-auto-parts/)
     
     1 hour ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/10/30/Interbank-headpic.jpg)](https://digitpatrox.com/interbank-confirms-data-breach-following-failed-extortion-data-leak/)
+* [![](https://cdn.mos.cms.futurecdn.net/vjtAfbfTtBYeguFNyPNqHj-1200-80.jpg)](https://digitpatrox.com/does-anyone-care-if-you-use-ai-fiverr-doesnt-think-so/)
     
-    [Interbank confirms data breach following failed extortion, data leak](https://digitpatrox.com/interbank-confirms-data-breach-following-failed-extortion-data-leak/)
+    [Does anyone care if you use AI? Fiverr doesn’t think so](https://digitpatrox.com/does-anyone-care-if-you-use-ai-fiverr-doesnt-think-so/)
     
     2 hours ago
     
@@ -210,46 +210,46 @@ Recent Topics
 
 * [2 mins ago
     
-    ### 5 Best Wall Oven-Microwave Combos](https://digitpatrox.com/5-best-wall-oven-microwave-combos/)
-* [5 mins ago
+    ### Slack adds templates to help users kick off projects quicker – Computerworld](https://digitpatrox.com/slack-adds-templates-to-help-users-kick-off-projects-quicker-computerworld/)
+* [29 mins ago
     
-    ### Apple’s New M4 Chips Give Intel and AMD a Run for Their Money](https://digitpatrox.com/apples-new-m4-chips-give-intel-and-amd-a-run-for-their-money/)
+    ### This Hidden Safari Feature Makes Browsing a Lot Faster](https://digitpatrox.com/this-hidden-safari-feature-makes-browsing-a-lot-faster/)
 * [60 mins ago
     
-    ### 800,000 users exposed in Landmark Admin data breach](https://digitpatrox.com/800000-users-exposed-in-landmark-admin-data-breach/)
+    ### Best and Worst Hearing Aid Brands](https://digitpatrox.com/best-and-worst-hearing-aid-brands/)
 
 Most Popular Topics
 
-* [4 weeks ago
+* [11 hours ago
     
-    ### Not everyone working from home is procrastinating – but I miss doing it in the office](https://digitpatrox.com/not-everyone-working-from-home-is-procrastinating-but-i-miss-doing-it-in-the-office/)
-* [August 28, 2024
+    ### 30 of the Best Easy Last-Minute Halloween Costume Ideas for 2024](https://digitpatrox.com/30-of-the-best-easy-last-minute-halloween-costume-ideas-for-2024/)
+* [September 10, 2024
     
-    ### OpenAI, Microsoft, and Adobe Back California’s AI Watermarking Bill](https://digitpatrox.com/openai-microsoft-and-adobe-back-californias-ai-watermarking-bill/)
-* [September 5, 2024
+    ### Gen Z is tired of working from home — stunted career growth and limited training opportunities mean they’re willing to brave the commute](https://digitpatrox.com/gen-z-is-tired-of-working-from-home-stunted-career-growth-and-limited-training-opportunities-mean-theyre-willing-to-brave-the-commute/)
+* [2 weeks ago
     
-    ### Mortal Kombat 1: Reptile Moves and Combos Guide](https://digitpatrox.com/mortal-kombat-1-reptile-moves-and-combos-guide/)
+    ### Best Antivirus for Social Media Protection in 2024](https://digitpatrox.com/best-antivirus-for-social-media-protection-in-2024/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### Meta is working with US government to use Llama AI](https://digitpatrox.com/meta-is-working-with-us-government-to-use-llama-ai/)
-* [2 hours ago
+    ### No, not planks! Use this 5-minute standing abs workout to build core strength and and improve your posture instead](https://digitpatrox.com/no-not-planks-use-this-5-minute-standing-abs-workout-to-build-core-strength-and-and-improve-your-posture-instead/)
+* [3 hours ago
     
-    ### Today’s Wordle Answer and Hints (October 31, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-31-2024/)
-* [4 hours ago
+    ### Microsoft Entra “security defaults” to make MFA setup mandatory](https://digitpatrox.com/microsoft-entra-security-defaults-to-make-mfa-setup-mandatory/)
+* [3 hours ago
     
-    ### Considering an RTO policy? Think again. Firms with remote working options record better financial performance](https://digitpatrox.com/considering-an-rto-policy-think-again-firms-with-remote-working-options-record-better-financial-performance/)
+    ### Know the price-matching policies for Best Buy, Walmart, Amazon, and others](https://digitpatrox.com/know-the-price-matching-policies-for-best-buy-walmart-amazon-and-others/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 28, 2024
-    
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
