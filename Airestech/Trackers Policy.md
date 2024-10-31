@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[Free ONE with $300 Purchase Use Code: FREEONE Free ONE with $300 Purchase Use Code: FREEONE](https://www.airestech.com/pages/store)
+[Free ONE with $300 Purchase Use Code: FREEONE \*Must add One to cart. Free ONE with $300 Purchase Use Code: FREEONE \*Must add One to cart.](https://www.airestech.com/pages/store)
 
     
 
