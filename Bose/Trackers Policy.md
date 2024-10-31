@@ -173,7 +173,7 @@ NEW QUIETCOMFORT EARBUDS
 Cookies Notice
 ==============
 
-Effective date: December 22, 2022
+Effective date: October 31, 2024
 
 [Introduction](#Introduction) [What are cookies?](#What_are_cookies?) [The information collected and reasons for collection](#The_information_collected_and_reasons_for_collection) [Types of cookies we use](#Types_of_cookies_we_use) [Duration of storage of cookies on your device](#Duration_of_storage_of_cookies_on_your_device) [Cookie management](#Cookie_management) [Consequences of deactivation of all cookies](#Consequences_of_deactivation_of_all_cookies) [Changes to our Cookies Notice](#Changes_to_our_Cookies_Notice) [Bose contact information](#Bose_contact_information) [Glossary](#Glossary)
 
@@ -181,7 +181,7 @@ Effective date: December 22, 2022
 
 Introduction
 
-At Bose, we respect your concerns about privacy and value the relationship that we have with you. This Cookies Notice explains how we use cookies and other similar technology to recognize you when you visit our websites that link to this Cookies Notice (the “**Site**”). It explains what these technologies are and why we use them, as well as your rights to control our use of them.
+At Bose, we respect your concerns about privacy and value the relationship that we have with you. This Cookies Notice explains how we use cookies and other similar technology to recognize you when you visit our websites that link to this Cookies Notice (the “Site”). It explains what these technologies are and why we use them, as well as your rights to control our use of them.
 
 When we use the terms “Bose,” “we,” or “us” in this Cookies Notice, we’re referring to the Bose family of companies, which means Bose Corporation and its affiliated entities under common ownership and control. Your information is controlled by one of these entities.
 
@@ -191,7 +191,7 @@ What are cookies?
 
 Cookies are text files that are downloaded to your computer or mobile device when you visit a website and store certain information about Site usage. They are useful because they allow websites to recognize a user's device. They are then returned to the original website on each subsequent visit or to any other website that recognizes them.
 
-The term “**cookie**” is used in this Cookies Notice in the broad sense to include all similar techniques and technologies, including web beacons and log files. For more information on these additional tools, see our “[Glossary](#Glossary)” section below.
+The term “cookie” is used in this Cookies Notice in the broad sense to include all similar techniques and technologies, including web beacons and log files. For more information on these additional tools, see our “[Glossary](#Glossary)” section below.
 
 [Back to top](#maincontent)
 
