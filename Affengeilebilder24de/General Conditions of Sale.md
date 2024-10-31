@@ -418,22 +418,63 @@ Produktion und Versand benötigen 3-5 Werktage (Deutschland), nachdem Sie ihre B
 Bei Zahlungen mit Klarna (Sofortüberweisung), kann es aufgrund der Zuordnung der Zahlungen von Klarna zu einer zusätzlichen Bearbeitungszeit kommen.  
   
 **\>>** **Versanddetails:**  
-  
 
-* Poster und Leinwandbilder
+* **Deutschland (3-5 Werktage)**
 
-* 3-5   Werktage (Deutschland) - 6,95€  
-* 4-7   Werktage (Österreich) - 11,95€
-* 7-12 Werktage (EU) - 15,90€
-* 7-12 Werktage (Schweiz) - 27,90€  
-      
-    
+* Poster und Leinwandbilder: **6,95€**
+* Sperrgut / Leinwandbilder über 120cm: **6,95€**
+* AluDibond + GalleryPrint: **11,95€**
+* **über 150€ kostenfreier Versand!**
 
-* AluDibond + GalleryPrint
-
-* 10-12 Werktage (Deutschland) - 11,95€
-* 12-14 Werktage (Österreich) - 15,90€
-* 14-16 Werktage (EU + Schweiz) - 27,90€
+* **Österreich (4-7 Werktage)**  
+    * Poster und Leinwandbilder: **11,95€**
+    * Sperrgut / Leinwandbilder über 120cm: **11,95€**
+    * AluDibond + GalleryPrint: **15,90€**
+    * **über 150€ kostenfreier Versand!**
+* **Schweiz (7-12 Werktage)**  
+    * Poster und Leinwandbilder: **9,95€**
+    * Sperrgut / Leinwandbilder über 120cm: **27,90€**
+    * AluDibond + GalleryPrint: **27,90€**
+* **Frankreich (7-12 Werktage)**
+    * Poster und Leinwandbilder: **9,95€**
+    * Sperrgut / Leinwandbilder über 120cm: **27,90€**
+    * AluDibond + GalleryPrint: **9,95€**
+* **Niederlande (7-12 Werktage)**
+    * Poster und Leinwandbilder: **9,95€**
+    * Sperrgut / Leinwandbilder über 120cm: **27,90€**
+    * AluDibond + GalleryPrint: **9,95€**
+* **Luxemburg (7-12 Werktage)**
+    * Poster und Leinwandbilder: **12,95€**
+    * Sperrgut / Leinwandbilder über 120cm: **27,90€**
+    * AluDibond + GalleryPrint: **12,95€**
+* **Dänemark (7-12 Werktage)**
+    * Poster und Leinwandbilder: **12,95€**
+    * Sperrgut / Leinwandbilder über 120cm: **27,90€**
+    * AluDibond + GalleryPrint: **12,95€**
+* **Polen (7-12 Werktage)**
+    * Poster und Leinwandbilder: **12,95€**
+    * Sperrgut / Leinwandbilder über 120cm: **27,90€**
+    * AluDibond + GalleryPrint: **12,95€**
+* **Belgien (7-12 Werktage)**
+    * Poster und Leinwandbilder: **12,95€**
+    * Sperrgut / Leinwandbilder über 120cm: **27,90€**
+    * AluDibond + GalleryPrint: **12,95€**
+* **Tschechien (7-12 Werktage)**
+    * Poster und Leinwandbilder: **12,95€**
+    * Sperrgut / Leinwandbilder über 120cm: **44,90€**
+    * AluDibond + GalleryPrint: **12,95€**
+* **Ungarn (7-12 Werktage)**
+    * Poster und Leinwandbilder: **12,95€**
+    * Sperrgut / Leinwandbilder über 120cm: **44,90€**
+    * AluDibond + GalleryPrint: **12,95€**
+* **Italien (7-12 Werktage)**
+    * Poster und Leinwandbilder: **12,95€**
+    * Sperrgut / Leinwandbilder über 120cm: **44,90€**
+    * AluDibond + GalleryPrint: **12,95€**
+* **Slowakei (7-12 Werktage)**
+    * Poster und Leinwandbilder: **12,95€**
+    * Sperrgut / Leinwandbilder über 120cm: **44,90€**
+    * AluDibond + GalleryPrint: **12,95€**
 
 **Von wo wird meine Bestellung verschickt?**
 
