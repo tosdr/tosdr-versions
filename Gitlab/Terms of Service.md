@@ -1320,6 +1320,7 @@
             * [ ]  [Snowflake Guide](https://handbook.gitlab.com/handbook/enterprise-data/platform/snowflake/)
                 * [ ]  [Clustering in Snowflake](https://handbook.gitlab.com/handbook/enterprise-data/platform/snowflake/clustering/)
                 * [ ]  [Snowflake SNS integration for Snowflake SnowPipe and task for failure](https://handbook.gitlab.com/handbook/enterprise-data/platform/snowflake/snowpipe/)
+            * [ ]  [Snowflake warehouse optimization](https://handbook.gitlab.com/handbook/enterprise-data/platform/snowflake-warehouse-optimization/)
             * [ ]  [Snowplow](https://handbook.gitlab.com/handbook/enterprise-data/platform/snowplow/)
             * [ ]  [SQL Style Guide](https://handbook.gitlab.com/handbook/enterprise-data/platform/sql-style-guide/)
             * [ ]  [Tableau](https://handbook.gitlab.com/handbook/enterprise-data/platform/tableau/)
