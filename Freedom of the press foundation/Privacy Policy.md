@@ -233,10 +233,10 @@ Brooklyn, NY 11217
 
 © Copyright Freedom of the Press Foundation
 
-[Privacy Policy](https://freedom.press/privacy-policy/)
+[Privacy Policy](https://freedom.press/privacy-policy/) [Accessibility](https://freedom.press/accessibility/)
 
 [Facebook](https://facebook.com/FreedomofthePressFoundation) [X](https://x.com/freedomofpress) [Mastodon](https://newsie.social/@freedomofpress)
 
-Licensed under [Creative Commons CC-BY 4.0](https://freedom.press/privacy-policy/'https://creativecommons.org/licenses/by/4.0/) where not otherwise indicated.
+Licensed under [Creative Commons CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) where not otherwise indicated.
 
 ![](https://analytics.freedom.press/piwik.php?idsite=1)
