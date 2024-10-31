@@ -72,7 +72,7 @@ Hardware
     
     [Alan-1](https://atari.com/products/atari-asteroids-recharged-arcademachine)
     
-    [MyArcade](https://www.atari.com/collections/myarcade)
+    [My Arcade](https://www.atari.com/collections/myarcade)
     
     [Retro Arcade](https://atari.com/collections/reproduction-pcbs)
     
@@ -116,7 +116,7 @@ COLLECTIONS
     
     [Alan-1](https://atari.com/products/atari-asteroids-recharged-arcademachine)
     
-    [MyArcade](https://www.atari.com/collections/myarcade)
+    [My Arcade](https://www.atari.com/collections/myarcade)
     
     [Retro Arcade](https://atari.com/collections/reproduction-pcbs)
     
@@ -264,6 +264,8 @@ Apparel & Collectibles
     
     [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
     
+    [Atari x Blue Kazoo](https://www.atari.com/collections/blue-kazoo-puzzles)
+    
     [PONG](https://www.atari.com/collections/pong-collection)
     
     [RollerCoaster Tycoon](https://www.atari.com/collections/rollercoaster-tycoon)
@@ -311,6 +313,8 @@ COLLECTIONS
     [Atari x Artovision](https://www.atari.com/collections/artovision-dimensional-artworks)
     
     [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
+    
+    [Atari x Blue Kazoo](https://www.atari.com/collections/blue-kazoo-puzzles)
     
     [PONG](https://www.atari.com/collections/pong-collection)
     
@@ -486,7 +490,7 @@ Regular price $169.95
 
 Unit price /  per](https://www.atari.com/products/atari-2600-controller-mega-bundle) 
 
-[![Atari Joystick Decanter Set](files/DecanterSet_WB_Front_PDP.jpg)
+[![Atari Joystick Decanter Set](files/ThumbsUp_-ATAORGDECSET-Image1-291024-Dalia.jpg)
 
 ![Atari Joystick Decanter Set](files/ThumbsUp_-ATAORGDECSET-Image5-160835-Daniel.jpg)
 
