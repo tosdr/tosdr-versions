@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can you request a second opinion for an autopsy?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-you-request-a-second-opinion-for-an-autopsy.jpg "Can You Request a Second Opinion For an Autopsy?")](https://www.pintas.com/faq/can-you-request-a-second-opinion-for-an-autopsy/ "Can You Request a Second Opinion For an Autopsy?")
+[![How do you get mesothelioma lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-how-do-you-get-mesothelioma-lung-cancer.jpg "How Do You Get Mesothelioma Lung Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-mesothelioma-lung-cancer/ "How Do You Get Mesothelioma Lung Cancer?")
 
-[#### Can You Request a Second Opinion For an Autopsy?](https://www.pintas.com/faq/can-you-request-a-second-opinion-for-an-autopsy/)
+[#### How Do You Get Mesothelioma Lung Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-mesothelioma-lung-cancer/)
 
-[![What do i do if i witness nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-do-i-do-if-i-witness-nursing-home-abuse-lawyer-scaled.jpg "What Do I Do if I Witness Nursing Home Abuse?")](https://www.pintas.com/faq/what-do-i-do-if-i-witness-nursing-home-abuse-lawyer/ "What Do I Do if I Witness Nursing Home Abuse?")
+[![What cancers can asbestos cause?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-what-cancers-can-asbestos-cause.jpg "What Cancers Can Asbestos Cause?")](https://www.pintas.com/lung-cancer/what-cancers-can-asbestos-cause/ "What Cancers Can Asbestos Cause?")
 
-[#### What Do I Do if I Witness Nursing Home Abuse?](https://www.pintas.com/faq/what-do-i-do-if-i-witness-nursing-home-abuse-lawyer/)
+[#### What Cancers Can Asbestos Cause?](https://www.pintas.com/lung-cancer/what-cancers-can-asbestos-cause/)
 
-[![Can you sue a nursing home for wrongful death?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-you-sue-a-nursing-home-for-wrongful-death-scaled.jpg "Can You Sue a Nursing Home for Wrongful Death?")](https://www.pintas.com/faq/can-you-sue-a-nursing-home-for-wrongful-death/ "Can You Sue a Nursing Home for Wrongful Death?")
+[![What are the main causes of dog bites?](https://www.pintas.com/wp-content/uploads/2023/06/Dog-with-owner-002-300x200.jpeg "What Are the Main Causes of Dog Bites?")](https://www.pintas.com/practice-areas/dog-bite-lawyer/what-are-the-main-causes-of-dog-bites/ "What Are the Main Causes of Dog Bites?")
 
-[#### Can You Sue a Nursing Home for Wrongful Death?](https://www.pintas.com/faq/can-you-sue-a-nursing-home-for-wrongful-death/)
+[#### What Are the Main Causes of Dog Bites?](https://www.pintas.com/practice-areas/dog-bite-lawyer/what-are-the-main-causes-of-dog-bites/)
 
 ### Injured?  
 Tell Us What Happened.
