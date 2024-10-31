@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you so much for your help – excellent as always.
+I think your tool is awesome!
 
-Chris McRaib
+Masa Ruduy
