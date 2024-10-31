@@ -95,6 +95,94 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
+More Global Catastrophic Model
+
+[![](/i/Main%20Stage%20-%201400x1050/Carboniferous_Forest_1400x1050.jpg)](https://www.icr.org/article/destruction-of-plants-fits-flood-narrative)
+
+[Destruction of Plants Fits Flood Narrative](https://www.icr.org/article/destruction-of-plants-fits-flood-narrative/)
+
+A recent study has found that the destruction of plants preceded the destruction of many forms of animal life in the rock record.1 This is exactly...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+[![](/i/wide/Red_Butte_2_wide.jpg)](https://www.icr.org/article/red-butte-remnant-flood)
+
+[Red Butte: Remnant of the Flood](https://www.icr.org/article/red-butte-remnant-flood/)
+
+Sixteen miles from Grand Canyon's south rim, a cone-shaped butte rises like a lone sentinel 1,000 feet above the Coconino Plateau floor. Thousands...
+
+BY: [WILLIAM A. HOESCH, M.S.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=58)
+
+[![](/i/stage_248/taf_strata1_248.jpg)](https://www.icr.org/article/how-long-did-it-take-deposit-geologic-strata)
+
+[How Long Did It Take to Deposit the Geologic Strata?](https://www.icr.org/article/how-long-did-it-take-deposit-geologic-strata/)
+
+The alleged great age of earth's geologic strata has been characterized by evolutionists as representing millions of years of accumulation of sediments...
+
+BY: [JOHN D. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=26)
+
+More Creation Science Update
+
+[![](/i/Main%20Stage%20-%201400x1050/bronzeageskeleton-1400x1050)](https://www.icr.org/article/bronze-age-tsunami-flood)
+
+[Bronze Age Tsunami Reminiscent of the Flood](https://www.icr.org/article/bronze-age-tsunami-flood/)
+
+Evolutionary scientists discovered an ancient tsunami victim and a dog skeleton at ÇeÅŸme-BaÄŸlararasÄ±, a settlement on the coast of Turkey.1...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+[![](/i/Main%20Stage%20-%201400x1050/stoneagesurgery-1400x1050)](https://www.icr.org/article/stone-age-surgery-mankind)
+
+["Stone Age" Surgery](https://www.icr.org/article/stone-age-surgery-mankind/)
+
+The creation model states that humans were created by God about six thousand years ago—as opposed to evolution that says we came from apes over millions...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/Inside_December_2021_AF.jpg)](https://www.icr.org/article/inside-december-2021-acts-facts)
+
+[Inside December 2021 Acts & Facts](https://www.icr.org/article/inside-december-2021-acts-facts/)
+
+How can we understand Christ’s role as our mediator from a scientific perspective? Why was ICR's first dinosaur excavation significant for...
+
+BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/11930827/file.jpg)
+
+Pack: Big Plans for Henry](https://store.icr.org/pack-big-plans-for-henry.html)
+
+$15.99
+
+$21.98
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/56200791/file.jpg)
+
+Carved in Stone eBook](https://store.icr.org/carved-in-stone-ebook.html)
+
+$19.99
+
+$39.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474371/file.jpg)
+
+Dinosaurs: Marvels of God's Design](https://store.icr.org/dr-timothy-clarey-dinosaurs-marvels-of-gods-design.html)
+
+$24.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/19343319/file.jpg)
+
+Carved in Stone](https://store.icr.org/carved-in-stone-geological-evidence-of-the-worldwi.html)
+
+$39.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9058527/file.jpg)
+
+Big Plans for Henry](https://store.icr.org/big-plans-for-henry.html)
+
+$8.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
