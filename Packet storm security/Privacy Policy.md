@@ -1,6 +1,6 @@
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
 
-what you don't know can hurt you
+exploit the possibilities
 
 [Register](https://packetstormsecurity.com/account/register/) | [Login](https://packetstormsecurity.com/account/login/)
 
@@ -44,6 +44,62 @@ Recent News
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
 
+[FakeCall Malware Menaces Android Devices](https://packetstormsecurity.com/news/view/36543/FakeCall-Malware-Menaces-Android-Devices.html)
+
+Posted [Oct 31, 2024](https://packetstormsecurity.com/news/date/2024-10-31/ "13:54:22 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [phone](https://packetstormsecurity.com/news/tags/phone), [google](https://packetstormsecurity.com/news/tags/google)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36543/) | [View](https://www.scworld.com/news/fakecall-malware-menaces-android-devices)
+
+[Chinese Attackers Accessed Canadian Government Networks For Five Years](https://packetstormsecurity.com/news/view/36542/Chinese-Attackers-Accessed-Canadian-Government-Networks-For-Five-Years.html)
+
+Posted [Oct 31, 2024](https://packetstormsecurity.com/news/date/2024-10-31/ "13:54:20 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [canada](https://packetstormsecurity.com/news/tags/canada), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [spyware](https://packetstormsecurity.com/news/tags/spyware)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36542/) | [View](https://www.theregister.com/2024/10/31/canada_cybersec_threats/)
+
+[LottieFiles Supply Chain Attack Exposes Users To Wallet Drainer](https://packetstormsecurity.com/news/view/36537/LottieFiles-Supply-Chain-Attack-Exposes-Users-To-Wallet-Drainer.html)
+
+Posted [Oct 31, 2024](https://packetstormsecurity.com/news/date/2024-10-31/ "13:53:32 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [malware](https://packetstormsecurity.com/news/tags/malware), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36537/) | [View](https://www.theregister.com/2024/10/31/lottiefiles_supply_chain_attack/)
+
+[Intel And AMD Chips Still Vulnerable To Spectre Flaw](https://packetstormsecurity.com/news/view/36536/Intel-And-AMD-Chips-Still-Vulnerable-To-Spectre-Flaw.html)
+
+Posted [Oct 30, 2024](https://packetstormsecurity.com/news/date/2024-10-30/ "15:12:17 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [intel](https://packetstormsecurity.com/news/tags/intel)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36536/) | [View](https://www.scworld.com/news/intel-and-amd-chips-still-vulnerable-to-spectre-flaw)
+
+[AI Bug Bounty Program Yields 34 Flaws In Open Source Tools](https://packetstormsecurity.com/news/view/36535/AI-Bug-Bounty-Program-Yields-34-Flaws-In-Open-Source-Tools.html)
+
+Posted [Oct 30, 2024](https://packetstormsecurity.com/news/date/2024-10-30/ "15:12:13 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [botnet](https://packetstormsecurity.com/news/tags/botnet), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36535/) | [View](https://www.scworld.com/news/ai-bug-bounty-program-yields-34-flaws-in-open-source-tools)
+
+[Here's The Paper No One Read Before Declaring The Demise Of Modern Cryptography](https://packetstormsecurity.com/news/view/36534/Heres-The-Paper-No-One-Read-Before-Declaring-The-Demise-Of-Modern-Cryptography.html)
+
+Posted [Oct 30, 2024](https://packetstormsecurity.com/news/date/2024-10-30/ "15:12:07 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36534/) | [View](https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/)
+
+[Russian Spies Use RDP Files In Unusual Mass Phishing Drive](https://packetstormsecurity.com/news/view/36533/Russian-Spies-Use-RDP-Files-In-Unusual-Mass-Phishing-Drive.html)
+
+Posted [Oct 30, 2024](https://packetstormsecurity.com/news/date/2024-10-30/ "15:11:58 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [russia](https://packetstormsecurity.com/news/tags/russia), [password](https://packetstormsecurity.com/news/tags/password), [spyware](https://packetstormsecurity.com/news/tags/spyware), [phish](https://packetstormsecurity.com/news/tags/phish)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36533/) | [View](https://www.theregister.com/2024/10/30/russia_wrangles_rdp_files_in/)
+
 [ChatGPT Jailbreak: Researchers Bypass AI Safeguards Using Hexadecimal Encoding And Emojis](https://packetstormsecurity.com/news/view/36532/ChatGPT-Jailbreak-Researchers-Bypass-AI-Safeguards-Using-Hexadecimal-Encoding-And-Emojis.html)
 
 Posted [Oct 29, 2024](https://packetstormsecurity.com/news/date/2024-10-29/ "15:07:06 UTC")
@@ -67,62 +123,6 @@ Posted [Oct 29, 2024](https://packetstormsecurity.com/news/date/2024-10-29/ "15:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [flaw](https://packetstormsecurity.com/news/tags/flaw)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36530/) | [View](https://www.scworld.com/news/windows-update-takeovers-lets-attackers-revive-a-patched-flaw)
-
-[Five Eyes Agencies Offer Security Advice For Small Businesses](https://packetstormsecurity.com/news/view/36529/Five-Eyes-Agencies-Offer-Security-Advice-For-Small-Businesses.html)
-
-Posted [Oct 29, 2024](https://packetstormsecurity.com/news/date/2024-10-29/ "15:06:36 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [canada](https://packetstormsecurity.com/news/tags/canada), [britain](https://packetstormsecurity.com/news/tags/britain), [australia](https://packetstormsecurity.com/news/tags/australia), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [new zealand](https://packetstormsecurity.com/news/tags/new_zealand)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36529/) | [View](https://www.scworld.com/news/five-eyes-agencies-offers-security-advice-for-small-businesses)
-
-[Admins Better Spring Into Action Over Latest Critical Vuln](https://packetstormsecurity.com/news/view/36528/Admins-Better-Spring-Into-Action-Over-Latest-Critical-Vuln.html)
-
-Posted [Oct 29, 2024](https://packetstormsecurity.com/news/date/2024-10-29/ "15:06:30 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [apache](https://packetstormsecurity.com/news/tags/apache)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36528/) | [View](https://www.theregister.com/2024/10/29/admins_spring_into_action_over/)
-
-[The Failure That Started The Internet](https://packetstormsecurity.com/news/view/36527/The-Failure-That-Started-The-Internet.html)
-
-Posted [Oct 29, 2024](https://packetstormsecurity.com/news/date/2024-10-29/ "15:06:25 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [science](https://packetstormsecurity.com/news/tags/science)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36527/) | [View](https://www.bbc.com/future/article/20241028-the-failure-that-started-the-internet)
-
-[Dutch Cops Pwn The Redline And Meta Infostealers, Leak VIP Aliases](https://packetstormsecurity.com/news/view/36526/Dutch-Cops-Pwn-The-Redline-And-Meta-Infostealers-Leak-VIP-Aliases.html)
-
-Posted [Oct 28, 2024](https://packetstormsecurity.com/news/date/2024-10-28/ "13:59:33 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [netherlands](https://packetstormsecurity.com/news/tags/netherlands)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36526/) | [View](https://www.theregister.com/2024/10/28/dutch_cops_pwn_the_redline/)
-
-[Worker Surveillance Must Comply With Credit Reporting Rules](https://packetstormsecurity.com/news/view/36525/Worker-Surveillance-Must-Comply-With-Credit-Reporting-Rules.html)
-
-Posted [Oct 28, 2024](https://packetstormsecurity.com/news/date/2024-10-28/ "13:59:31 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [spyware](https://packetstormsecurity.com/news/tags/spyware)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36525/) | [View](https://www.theregister.com/2024/10/26/worker_surveillance_credit_reporting_privacy_requirement/)
-
-[Senator Accuses Sloppy Domain Registrars Of Aiding Russian Disinfo Campaigns](https://packetstormsecurity.com/news/view/36524/Senator-Accuses-Sloppy-Domain-Registrars-Of-Aiding-Russian-Disinfo-Campaigns.html)
-
-Posted [Oct 28, 2024](https://packetstormsecurity.com/news/date/2024-10-28/ "13:59:24 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [russia](https://packetstormsecurity.com/news/tags/russia), [dns](https://packetstormsecurity.com/news/tags/dns), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36524/) | [View](https://www.theregister.com/2024/10/27/senator_domain_registrars_russia_disinfo/)
-
-[AWS Breaks Up Massive Russian Phishing Operation](https://packetstormsecurity.com/news/view/36523/AWS-Breaks-Up-Massive-Russian-Phishing-Operation.html)
-
-Posted [Oct 28, 2024](https://packetstormsecurity.com/news/date/2024-10-28/ "13:59:15 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [russia](https://packetstormsecurity.com/news/tags/russia), [amazon](https://packetstormsecurity.com/news/tags/amazon), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [phish](https://packetstormsecurity.com/news/tags/phish)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36523/) | [View](https://www.scworld.com/news/aws-breaks-up-massive-russian-phishing-operation)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -168,4 +168,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1217575424&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1217575424.1730387271.1730387271.1730387271.1%3B%2B__utmz%3D32867617.1730387271.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1738852202&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1738852202.1730408766.1730408766.1730408766.1%3B%2B__utmz%3D32867617.1730408766.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
