@@ -88,7 +88,7 @@ Ok](https://www.emp-online.com/home?forceThisShop=1)
     
 * [Brands](https://www.emp.de/markenkleidung/)
     
-* [Entertainment](https://www.emp.de/fan-merch/)
+* [Entertainment](https://www.emp.de/entertainment/)
     
 * [Lifestyle](https://www.emp.de/fun-lifestyle/wohnen/)
     
@@ -154,7 +154,7 @@ Katalog durchsuchen  löschen Packstation suchen
 
 [](https://www.emp.de/autumn-must-haves/)
 
-Gratis Versand ab 40€!
+Gratis Versand ab 99€!
 
 [Schlag zu!](https://www.emp.de/autumn-must-haves/ "Schlag zu!")
 
@@ -491,7 +491,7 @@ Anmelden
 
 Unser Kundenservice ist für dich da
 
-Ja, unser Kundenservice ist heute wieder erreichbar von 08:00 Uhr bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
+Wir sind wieder erreichbar: Freitag von 08:00 Uhr bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
 
 Live-Chat starten
 
@@ -530,8 +530,6 @@ Angebote für dich
 [Nachhaltigkeit](https://www.emp.de/magazin/nachhaltigkeit/)
 
 [Jobs bei EMP](https://www.emp.de/jobs)
-
-[Presse](https://www.emp.de/press.html)
 
 Community
 
