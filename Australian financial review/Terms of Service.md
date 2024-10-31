@@ -338,7 +338,7 @@ Advertise
 
 ### [Property downturn nips into Walker Group profit](https://www.afr.com/property/commercial/property-downturn-nips-into-walker-group-profit-20241030-p5kmqb)
 
-* 12 mins ago
+* Nick Lenaghan
 
 * ### [Rich Lister Nick Politis lobs $77m takeover bid for Qld pub owner](https://www.afr.com/property/commercial/rich-lister-nick-politis-lobs-77m-takeover-bid-for-qld-pub-owner-20241030-p5kmj3)
     
