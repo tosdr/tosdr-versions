@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZyKMdAoAAVEAAABcIOk)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZyLgcwoAAVEAAABcmC0)
 
 Es noticia
 
@@ -11,11 +11,13 @@ Es noticia
 * [Jaydy Michel](https://www.elmundo.es/loc/famosos/2024/10/29/6720cc5ae85ece193d8b4590.html)
 * [Tomás Muniesa](https://www.elmundo.es/economia/empresas/2024/10/30/6721d882fdddffc1408b45c9.html)
 * [Adara Molinero](https://www.elmundo.es/loc/famosos/2024/10/30/67222e4fe9cf4aab5a8b456d.html)
-* [Supermercado Puerta Sol](https://www.elmundo.es/madrid/2024/10/30/672119a2e85ece1a0a8b4592.html)
+* [Letur](https://www.elmundo.es/espana/2024/10/30/672284a0fdddff2abf8b4590.html)
 * [Impuesto energético PSOE](https://www.elmundo.es/economia/empresas/2024/10/30/6722667521efa048068b456f.html)
 * [Mango Outlet](https://www.elmundo.es/yodona/moda/2024/10/30/67220628e9cf4a38288b45bc.html)
 * [Alcaraz](https://www.elmundo.es/como/2024/10/30/6722084c21efa0de468b459d.html)
+* [Supermercado Puerta Sol](https://www.elmundo.es/madrid/2024/10/30/672119a2e85ece1a0a8b4592.html)
 * [Renfe Madrid](https://www.elmundo.es/madrid/2024/10/30/67223462e9cf4aed578b45c8.html)
+* [Mar Lucas](https://www.elmundo.es/loc/famosos/2024/10/30/6722708ae85ecee9448b4591.html)
 * [Precio luz](https://www.elmundo.es/como/2024/10/30/67226145e9cf4a740a8b456f.html)
 * [Sueños de libertad](https://www.elmundo.es/television/series/2024/10/29/671f75c7e85ece78148b458f.html)
 * [Carreteras cortadas](https://www.elmundo.es/como/2024/10/30/6721ee0be9cf4a75128b45bd.html)
