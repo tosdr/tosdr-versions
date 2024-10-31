@@ -186,11 +186,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Theresa Kelsay](https://cdn.returningveterans.org/images/honor/6_T_Kelsay_Navy.png)  
+![HMCM (SS/SW) Craig R. Soleim Jr](https://cdn.returningveterans.org/images/honor/Soleim.JPG)  
 
-**In Honor of Theresa Kelsay**  
+**In Honor of HMCM (SS/SW) Craig R. Soleim Jr**  
 United States Navy  
-Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+Submitted by Craig and Robin Soleim](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -233,5 +233,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/30/24 - 2:31:47  
+Printed 10/30/24 - 8:25:36  
 © 2024 Returning Veterans Project
