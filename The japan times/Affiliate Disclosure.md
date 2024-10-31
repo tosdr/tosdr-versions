@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 31, 2024](https://www.japantimes.co.jp/archive/2024/10/31/ "archive page")
+[November 01, 2024](https://www.japantimes.co.jp/archive/2024/11/01/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,36 +131,36 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Japan's rail fans disapprove of new Seishun 18 tickets](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
+[North Korea fires off ICBM with longest flight time yet](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
 
-  [![A man waits for a train at Ebisu Station in Tokyo on Oct. 4.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430906.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man waits for a train at Ebisu Station in Tokyo on Oct. 4.")](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
+  [![A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431287.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.")](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
 
 [Taiwan battens down for Super Typhoon Kong-rey](https://www.japantimes.co.jp/news/2024/10/30/asia-pacific/taiwan-super-typhoon/ "Taiwan battens down for Super Typhoon Kong-rey")
 
   [![People ride scooters in heavy rain as Typhoon Kong-rey approaches Taiwan, in Yilan County on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431235.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People ride scooters in heavy rain as Typhoon Kong-rey approaches Taiwan, in Yilan County on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/30/asia-pacific/taiwan-super-typhoon/ "Taiwan battens down for Super Typhoon Kong-rey")
 
-[Bank of Japan set to stay course with Ueda seen sticking to script](https://www.japantimes.co.jp/business/2024/10/30/markets/boj-meeting-preview/ "Bank of Japan set to stay course with Ueda seen sticking to script")
-
-  [![After a two-day meeting of the Bank of Japan policy board ends on Thursday, Gov. Kazuo Ueda is likely to stick to the script and repeat almost verbatim his previous remarks.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431092.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "After a two-day meeting of the Bank of Japan policy board ends on Thursday, Gov. Kazuo Ueda is likely to stick to the script and repeat almost verbatim his previous remarks.")](https://www.japantimes.co.jp/business/2024/10/30/markets/boj-meeting-preview/ "Bank of Japan set to stay course with Ueda seen sticking to script")
-
 [Tokyo High Court rules same-sex marriage ban is unconstitutional](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/same-sex-ruling-unconstitutional/ "Tokyo High Court rules same-sex marriage ban is unconstitutional")
 
   [![Plaintiffs seeking the right for same-sex couples to marry react Wednesday to the Tokyo High Court's ruling that Japan's ban on such marriages is unconstitutional.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431123.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Plaintiffs seeking the right for same-sex couples to marry react Wednesday to the Tokyo High Court's ruling that Japan's ban on such marriages is unconstitutional.")](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/same-sex-ruling-unconstitutional/ "Tokyo High Court rules same-sex marriage ban is unconstitutional")
 
-['Peak Japan' is now, so seize the moment, Japan](https://www.japantimes.co.jp/commentary/2024/10/30/japan/peak-japan-now/ "'Peak Japan' is now, so seize the moment, Japan")
+[Japan's rail fans disapprove of new Seishun 18 tickets](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
 
-  [![Anna Sawai and Hiroyuki Sanada won the outstanding lead actress and actor awards in a drama series, respectively, for "Shogun" at the 76th Primetime Emmy Awards in Los Angeles on Sept. 15.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431099.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Anna Sawai and Hiroyuki Sanada won the outstanding lead actress and actor awards in a drama series, respectively, for "Shogun" at the 76th Primetime Emmy Awards in Los Angeles on Sept. 15.")](https://www.japantimes.co.jp/commentary/2024/10/30/japan/peak-japan-now/ "'Peak Japan' is now, so seize the moment, Japan")
+  [![A man waits for a train at Ebisu Station in Tokyo on Oct. 4.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430906.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man waits for a train at Ebisu Station in Tokyo on Oct. 4.")](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
+
+[Miyagi Prefecture to introduce four-day workweek for all employees](https://www.japantimes.co.jp/news/2024/10/30/japan/miyagi-four-day-workweek/ "Miyagi Prefecture to introduce four-day workweek for all employees")
+
+  [![The Miyagi Prefectural Government Building in Sendai. The prefecture plans to expand the option for a four-day workweek to all prefectural employees from fiscal 2026.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431004.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Miyagi Prefectural Government Building in Sendai. The prefecture plans to expand the option for a four-day workweek to all prefectural employees from fiscal 2026.")](https://www.japantimes.co.jp/news/2024/10/30/japan/miyagi-four-day-workweek/ "Miyagi Prefecture to introduce four-day workweek for all employees")
 
 Editors' Picks
 --------------
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
-[Japan's rail fans disapprove of new Seishun 18 tickets](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
+[North Korea fires off ICBM with longest flight time yet](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
 
-  [![A man waits for a train at Ebisu Station in Tokyo on Oct. 4.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430906.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man waits for a train at Ebisu Station in Tokyo on Oct. 4.")](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
+  [![A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431287.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.")](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
 
 [ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
@@ -170,14 +170,6 @@ By [Akio Wang](https://www.japantimes.co.jp/author/6148/akio-wang/ "Akio Wang") 
 
   [![People ride scooters in heavy rain as Typhoon Kong-rey approaches Taiwan, in Yilan County on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431235.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People ride scooters in heavy rain as Typhoon Kong-rey approaches Taiwan, in Yilan County on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/30/asia-pacific/taiwan-super-typhoon/ "Taiwan battens down for Super Typhoon Kong-rey")
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Bank of Japan set to stay course with Ueda seen sticking to script](https://www.japantimes.co.jp/business/2024/10/30/markets/boj-meeting-preview/ "Bank of Japan set to stay course with Ueda seen sticking to script")
-
-By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beattie/ "Elizabeth Beattie")  
-
-  [![After a two-day meeting of the Bank of Japan policy board ends on Thursday, Gov. Kazuo Ueda is likely to stick to the script and repeat almost verbatim his previous remarks.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431092.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "After a two-day meeting of the Bank of Japan policy board ends on Thursday, Gov. Kazuo Ueda is likely to stick to the script and repeat almost verbatim his previous remarks.")](https://www.japantimes.co.jp/business/2024/10/30/markets/boj-meeting-preview/ "Bank of Japan set to stay course with Ueda seen sticking to script")
-
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
 [Tokyo High Court rules same-sex marriage ban is unconstitutional](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/same-sex-ruling-unconstitutional/ "Tokyo High Court rules same-sex marriage ban is unconstitutional")
@@ -186,13 +178,21 @@ By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin 
 
   [![Plaintiffs seeking the right for same-sex couples to marry react Wednesday to the Tokyo High Court's ruling that Japan's ban on such marriages is unconstitutional.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431123.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Plaintiffs seeking the right for same-sex couples to marry react Wednesday to the Tokyo High Court's ruling that Japan's ban on such marriages is unconstitutional.")](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/same-sex-ruling-unconstitutional/ "Tokyo High Court rules same-sex marriage ban is unconstitutional")
 
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-['Peak Japan' is now, so seize the moment, Japan](https://www.japantimes.co.jp/commentary/2024/10/30/japan/peak-japan-now/ "'Peak Japan' is now, so seize the moment, Japan")
+[Japan's rail fans disapprove of new Seishun 18 tickets](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
 
-By [Joshua W. Walker](https://www.japantimes.co.jp/author/316/joshua-w-walker/ "Joshua W. Walker")  
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
-  [![Anna Sawai and Hiroyuki Sanada won the outstanding lead actress and actor awards in a drama series, respectively, for "Shogun" at the 76th Primetime Emmy Awards in Los Angeles on Sept. 15.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431099.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Anna Sawai and Hiroyuki Sanada won the outstanding lead actress and actor awards in a drama series, respectively, for "Shogun" at the 76th Primetime Emmy Awards in Los Angeles on Sept. 15.")](https://www.japantimes.co.jp/commentary/2024/10/30/japan/peak-japan-now/ "'Peak Japan' is now, so seize the moment, Japan")
+  [![A man waits for a train at Ebisu Station in Tokyo on Oct. 4.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430906.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man waits for a train at Ebisu Station in Tokyo on Oct. 4.")](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Miyagi Prefecture to introduce four-day workweek for all employees](https://www.japantimes.co.jp/news/2024/10/30/japan/miyagi-four-day-workweek/ "Miyagi Prefecture to introduce four-day workweek for all employees")
+
+By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
+
+  [![The Miyagi Prefectural Government Building in Sendai. The prefecture plans to expand the option for a four-day workweek to all prefectural employees from fiscal 2026.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431004.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Miyagi Prefectural Government Building in Sendai. The prefecture plans to expand the option for a four-day workweek to all prefectural employees from fiscal 2026.")](https://www.japantimes.co.jp/news/2024/10/30/japan/miyagi-four-day-workweek/ "Miyagi Prefecture to introduce four-day workweek for all employees")
 
 Podcast
 -------
@@ -213,9 +213,9 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,25 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Japan's Takeda raises full-year profit forecast amid restructuring](https://www.japantimes.co.jp/business/2024/10/31/takeda-raises-full-year-profit-forecast/ "Japan's Takeda raises full-year profit forecast amid restructuring")
+
+4 hours ago
+
+[Truancy hits record high in Japan in fiscal 2023](https://www.japantimes.co.jp/news/2024/10/31/japan/truancy-record-high-fiscal-2023/ "Truancy hits record high in Japan in fiscal 2023")
+
+5 hours ago
+
 [Komeito leader Keiichi Ishii announces resignation after party lost seats](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/komeito-leader-resignation/ "Komeito leader Keiichi Ishii announces resignation after party lost seats")
 
-41 mins ago
+6 hours ago
 
 [Bank of Japan keeps policy rate steady at 0.25%, as expected](https://www.japantimes.co.jp/business/2024/10/31/economy/boj-policy-rate/ "Bank of Japan keeps policy rate steady at 0.25%, as expected")
 
-56 mins ago
+6 hours ago
 
 [Campaigning kicks off for Hyogo gubernatorial election](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/hyogo-governor-election/ "Campaigning kicks off for Hyogo gubernatorial election")
 
-1 hours ago
-
-[Nomura fined by Japan regulator for bond market manipulation](https://www.japantimes.co.jp/business/2024/10/31/companies/nomura-bond-manipulation-fine/ "Nomura fined by Japan regulator for bond market manipulation")
-
-1 hours ago
-
-[Okinawa's Shuri Castle marks five years since devastating fire](https://www.japantimes.co.jp/news/2024/10/31/japan/shuri-castle-five-years/ "Okinawa's Shuri Castle marks five years since devastating fire")
-
-2 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
