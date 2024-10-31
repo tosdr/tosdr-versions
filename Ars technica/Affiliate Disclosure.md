@@ -87,13 +87,13 @@ Most Read
     
     1. [The New Glenn rocket’s first stage is real, and it’s spectacular](https://arstechnica.com/space/2024/10/new-glenn-rolls-to-the-launch-pad-as-end-of-year-deadline-approaches/?itm_source=parsely-api)
     
-2. 2. [Here’s the paper no one read before declaring the demise of modern cryptography](https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/?itm_source=parsely-api)
+2. 2. [Person accidentally poisoned 46 coworkers with toxin-loaded homemade lunch](https://arstechnica.com/health/2024/10/when-you-make-lunch-for-your-coworkers-and-accidentally-cause-a-mass-poisoning/?itm_source=parsely-api)
     
-3. 3. [Person accidentally poisoned 46 coworkers with toxin-loaded homemade lunch](https://arstechnica.com/health/2024/10/when-you-make-lunch-for-your-coworkers-and-accidentally-cause-a-mass-poisoning/?itm_source=parsely-api)
+3. 3. [Here’s the paper no one read before declaring the demise of modern cryptography](https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/?itm_source=parsely-api)
     
-4. 4. [“Impact printing” is a cement-free alternative to 3D-printed structures](https://arstechnica.com/science/2024/10/impact-printing-is-a-cement-free-alternative-to-3d-printed-structures/?itm_source=parsely-api)
+4. 4. [Apple’s M4, M4 Pro, and M4 Max compared to past generations, and to each other](https://arstechnica.com/apple/2024/10/apples-m4-m4-pro-and-m4-max-compared-to-past-generations-and-to-each-other/?itm_source=parsely-api)
     
-5. 5. [Apple’s M4, M4 Pro, and M4 Max compared to past generations, and to each other](https://arstechnica.com/apple/2024/10/apples-m4-m4-pro-and-m4-max-compared-to-past-generations-and-to-each-other/?itm_source=parsely-api)
+5. 5. [AT&T praises itself after getting caught taking too much money from FCC program](https://arstechnica.com/tech-policy/2024/10/att-praises-itself-after-getting-caught-taking-too-much-money-from-fcc-program/?itm_source=parsely-api)
     
 
 Customize
