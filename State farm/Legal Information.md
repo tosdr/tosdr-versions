@@ -136,8 +136,6 @@ This Notice applies to the companies, except as noted below[footnote\*](#footnot
 \*This Notice also does not apply to 4EightyFive, LLC as they have their own privacy notice.  
 \*This Notice also does not apply to GAINSCO, Inc., MGA Insurance Company, Inc., and other subsidiaries of GAINSCO, Inc., as these entities have their own privacy notice.
 
- [](#footnote-ref-dss-asterisk)
-
 Information for Internet, Mobile, Application and Social Media Users
 --------------------------------------------------------------------
 
