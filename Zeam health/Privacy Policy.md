@@ -34,6 +34,7 @@ Request an Appointment
     * [Injectables](https://www.zeamhealth.com/aesthetics/injectables/)
         * [Botox Injections](https://www.zeamhealth.com/aesthetics/botox/)
         * [Dermal Fillers](https://www.zeamhealth.com/aesthetics/dermal-fillers/)
+        * [Xeomin®](https://www.zeamhealth.com/aesthetics/xeomin/)
     * [Microneedling](https://www.zeamhealth.com/aesthetics/microneedling/)
     * [Chemical Peels](https://www.zeamhealth.com/aesthetics/chemical-peels/)
     * [Skincare](https://www.zeamhealth.com/aesthetics/skincare/)
