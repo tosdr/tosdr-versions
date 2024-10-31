@@ -37,7 +37,7 @@ From $199.99](https://www.arlo.com/en-us/security-system/arlo-security-system.ht
 Starter Kits
 
 Save up to 50% & get a  
-free yard sign!](https://www.arlo.com/en-us/build-your-bundle-main.html "bundle builder")
+free yard sign!](https://www.arlo.com/en-us/security-bundles "starter kits")
 
 ### Cameras
 
