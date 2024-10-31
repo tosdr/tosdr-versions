@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/illustration-rokas-aleliunas-feature.jpg)
+
+[](https://theinspirationgrid.com/vibrant-illustrated-portraits-by-rokas-aleliunas/)
+
+### Vibrant Illustrated Portraits by Rokas Aleliunas
+
+![](https://inspgr.id/app/uploads/2024/10/murals-ben-johnston-24-feature.jpg)
+
+[](https://theinspirationgrid.com/amazing-lettering-creations-by-ben-johnston/)
+
+### Amazing Lettering Creations by Ben Johnston
+
 ![](https://inspgr.id/app/uploads/2024/10/photography-mohammed-zainal-feature.jpg)
 
 [](https://theinspirationgrid.com/1971-desert-fish-plymouth-cuda-striking-photos-by-mohammed-zainal/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/ethereal-illustrations-by-xi-zhang/)
 
 ### Ethereal Illustrations by Xi Zhang
-
-![](https://inspgr.id/app/uploads/2024/10/photography-christin-dim-feature.jpg)
-
-[](https://theinspirationgrid.com/the-art-of-saree-making-photos-by-christin-dim/)
-
-### The Art of Saree Making: Photos by Christin Dim
-
-![](https://inspgr.id/app/uploads/2024/10/branding-seventy-feature.jpg)
-
-[](https://theinspirationgrid.com/seventy-studios-branding-by-vask/)
-
-### Seventy Studios Branding by VASK
 
 Awesome products for creatives
 ------------------------------
