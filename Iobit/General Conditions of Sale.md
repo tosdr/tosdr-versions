@@ -2,7 +2,6 @@
 
 PC Health Solution](https://www.iobit.com/en/index.php)
 
-*  [![SALE](../tpl/images/2023hsale/2023hsale_nav_icon_en_style1.png) ![SALE](../tpl/images/2023hsale/2023hsale_nav_icon_hover_en_style1.png)](https://purchase.iobit.com/en/sale/halloween2024.php?ref=navi_icon)
 * [Partner](https://www.iobit.com/en/partnersolutions.php)
 * Support
     
@@ -149,4 +148,13 @@ PC Health Solution](https://www.iobit.com/en/index.php)
     
 * Store
     
-    [**Get It Now** ![83% OFF](../tpl/images/2024halloween/header_store_banner_en.png)](https://purchase.iobit.com/en/sale/halloween2024.php?ref=store_menu)
+    [](https://www.iobit.com/en/store.php)
+    
+    ![](../tpl/images/product-icons/shop.svg)
+    
+    ### IObit Shop
+    
+    Up to 87% OFF
+    
+    Complete Solutions for PC  
+    Problems & Threats.
