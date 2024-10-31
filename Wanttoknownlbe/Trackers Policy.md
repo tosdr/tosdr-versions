@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/antwoorden-van-ab-klink-over-de-griepvaccinaties/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/n-kleine-stap-naar-heling-het-spijt-me-ik-hou-van-je/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
