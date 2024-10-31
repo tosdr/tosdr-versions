@@ -98,9 +98,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Rex Linn Surprises Reba McEntire With...](https://classiccountrymusic.com/rex-linn-surprises-reba-mcentire-with-spooky-halloween-costume/)
 * [91-Year-Old Willie Nelson Shares The Pain...](https://classiccountrymusic.com/91-year-old-willie-nelson-shares-the-pain-of-outliving-his-friends-family/)
 * [Kelly Clarkson Offers Her Take On...](https://classiccountrymusic.com/kelly-clarkson-offers-her-take-on-a-dwight-yoakam-classic-aint-that-lonely-yet/)
-* [Reba Thanks Fans After “Happy’s Place”...](https://classiccountrymusic.com/reba-thanks-fans-after-happys-place-pilot-reaches-10-million-cross-platform-viewers/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
