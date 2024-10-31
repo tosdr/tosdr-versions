@@ -106,11 +106,13 @@ We may make changes to these terms with no less than 2 weeks notice. Notice of c
 
 ### About this wiki
 
-commit [93f98ec8f78010de4f1ef9edc6b89c11afce9216](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/93f98ec8f78010de4f1ef9edc6b89c11afce9216)
-Author: Conrad Hoffmann <ch@bitfehler.net>
-Date:   2024-09-24T17:03:25+02:00
+commit [2363e949b197aaf3ed8c591cf029ae9bd6e56574](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/2363e949b197aaf3ed8c591cf029ae9bd6e56574)
+Author: Gary Kim <gary@garykim.dev>
+Date:   2024-10-29T15:22:30-04:00
 
-ops: remove stale links to topology page
+Update fedora supported versions
+
+Signed-off-by: Gary Kim <gary@garykim.dev>
 
 **Clone this wiki**
 
