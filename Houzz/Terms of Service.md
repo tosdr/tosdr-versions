@@ -477,8 +477,8 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Christmas Tree Stands](https://www.houzz.com/products/christmas-tree-stands)
 
 * [Outdoor Decor](https://www.houzz.com/products/outdoor-holiday-decorations)
-* [Outdoor Halloween Decorations](https://www.houzz.com/products/outdoor-holiday-decorations/holiday_name--Halloween)
-* [Outdoor Halloween Lights](https://www.houzz.com/products/holiday-lighting/holiday_name--Halloween)
+* [Outdoor Christmas Decorations](https://www.houzz.com/products/outdoor-holiday-decorations/holiday_name--Christmas)
+* [Outdoor Christmas Lights](https://www.houzz.com/products/holiday-lighting/holiday_name--Christmas)
 * [Outdoor Holiday Lighting](https://www.houzz.com/products/holiday-lighting)
 * [Holiday Doormats](https://www.houzz.com/products/doormats/theme_name--Holiday)
 * [Wreaths & Garlands](https://www.houzz.com/products/wreaths-and-garlands)
@@ -557,7 +557,7 @@ UP TO 65% OFF
 
 Chandeliers With Free Shipping](https://www.houzz.com/ideabooks/178459454) 
 
-[![Shop Promo Banner](https://st.hzcdn.com/fimgs/bcb138d0071a187d_3456-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/sales) 
+[![Shop Promo Banner](https://st.hzcdn.com/fimgs/27a1f7f707236bbd_5547-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/sales) 
 
 [0](https://www.houzz.com/viewCart)
 
