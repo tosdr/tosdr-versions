@@ -8,7 +8,7 @@ Free - Google Play
 
 [Get it](https://play.google.com/store/apps/details?id=com.freshbooks.andromeda&utm_source=)
 
-[****Fall in love with FreshBooks 🍂**** 50% off for 6 months. **Buy Now & Save**
+[****Offer extended: Fall in love with FreshBooks 🍂**** 50% off for 6 months. **Buy Now & Save**
 
 📣 Only
 
@@ -514,6 +514,7 @@ privacy@FreshBooks.com
 * [Accessibility](https://www.freshbooks.com/accessibility)
 * [Accounting Partner Program](https://www.freshbooks.com/policies/accountant-program-terms)
 * [](https://www.freshbooks.com/policies/accountant-program-terms)[Terms and Conditions of FreshBooks’ Referral Program](https://www.freshbooks.com/policies/terms-and-conditions-of-freshbooks-referral-program)
+* [Instant Payouts Hyperlink](https://www.freshbooks.com/policies/instant-payouts-hyperlink)
 
 [![Freshbooks Logo](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/logos/freshbooks-logo.svg)](https://www.freshbooks.com/)
 
@@ -561,7 +562,6 @@ English
     * [Professional Services](https://www.freshbooks.com/accounting-software/professional-services)
 * Partners
     * [Integrations](https://appstore.freshbooks.com/)
-    * [Education](https://www.freshbooks.com/education)
     * [Referral Program](https://www.freshbooks.com/referral-program)
     * [Affiliate Program](https://www.freshbooks.com/affiliate-program)
     * [Reseller Program](https://www.freshbooks.com/partner)
@@ -578,7 +578,7 @@ English
     * [Tools](https://www.freshbooks.com/tools)
 * Policies
     * [Accessibility](https://www.freshbooks.com/accessibility)
-    * [Privacy Policy](https://www.freshbooks.com/policies/privacy)
+    * [Privacy](https://www.freshbooks.com/policies/privacy)
     * [Terms of Service](https://www.freshbooks.com/policies/terms-of-service)
     * [Security Safeguards](https://www.freshbooks.com/policies/security-safeguards)
 
