@@ -46,7 +46,7 @@
 * [About us](https://www.jobcloud.ch/c/en/about/)
 * [Press Releases](https://www.jobcloud.ch/c/en/press-releases/)
 
-[Log in](https://www.jobcloud.ch/c/en/login/) [Hire Now](https://www.jobcloud.ch/c/en/pricing/)
+[Employer login](https://www.jobcloud.ch/c/en/login/) [Hire Now](https://www.jobcloud.ch/c/en/pricing/)
 
 Data privacy notice
 ===================
