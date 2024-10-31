@@ -186,11 +186,10 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![John E. Kitting](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
+![Erine Quatier](https://cdn.returningveterans.org/images/honor/7_Erine_Quatier__O.png)  
 
-**In Memory of John E. Kitting**  
-United States Navy  
-Submitted by Barbara Huggins](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Erine Quatier**  
+Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -233,5 +232,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/31/24 - 2:22:03  
+Printed 10/31/24 - 8:25:56  
 © 2024 Returning Veterans Project
