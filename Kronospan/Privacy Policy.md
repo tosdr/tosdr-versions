@@ -2,15 +2,195 @@
 
 [![Kronospan logo](/public/images/logo.svg)](https://www.kronospan-worldwide.com/en_EN)
 
-[Products](https://www.kronospan-worldwide.com/privacy/?action=index&controller=products&lang=0&action=index&controller=products "Products")
+[products](https://kronospan.com/en_EN/products "Products")
 
-[Decors](https://www.kronospan-worldwide.com/privacy/?action=index&controller=decors&lang=0&action=index&controller=decors "Decors")
+[decors](https://kronospan.com/en_EN/express-services "Decors")
 
-[Express Services](https://www.kronospan-worldwide.com/privacy/?action=index&controller=express_services&lang=0&action=index&controller=express_services "Express Services")
+[express services](https://kronospan.com/en_EN/express-services/index "Express Services")
 
-[Highlights](https://www.kronospan-worldwide.com/new_highlights/index "Highlights")
+[highlights](https://kronospan.com/en_EN/highlights/index "Highlights")
 
-[Organization](https://www.kronospan-worldwide.com/privacy/?action=kronospan&controller=company&lang=0&action=kronospan&controller=company "Organization")
+[organization](https://kronospan.com/en_EN/company "Organization")
+
+##### [Decorative Interior Products](https://kronospan.com/en_EN/products/by_category/kronodesign)
+
+[![](/public/files/common/logos/kronodesign-logo_b.png)](https://kronospan.com/en_EN/products/by_category/kronodesign "Decorative Interior Products")
+
+* [MF Boards](https://kronospan.com/en_EN/products/by_category/kronodesign/mf-boards "MF Boards")
+* [Avant-garde](https://kronospan.com/en_EN/products/by_category/kronodesign/avant-garde "Avant-garde")
+* [PET Laminated MDF](https://kronospan.com/en_EN/products/by_category/kronodesign/pet-laminated-mdf "PET Laminated MDF")
+* [HPL Bonded MDF](https://kronospan.com/en_EN/products/view/kronodesign/hpl-bonded-mdf/invisible-touch-hpl-bonded-mdf/invisible-touch-hpl-bonded-mdf-728 "HPL Bonded MDF")
+* [Worktops](https://kronospan.com/en_EN/products/by_category/kronodesign/worktops "Worktops")
+* [Kitchen Splashbacks](https://kronospan.com/en_EN/products/view/kronodesign/kitchen-splashbacks/kitchen-splashbacks-sub/kitchen-splashbacks-692 "Kitchen Splashbacks")
+* [Compact Interior](https://kronospan.com/en_EN/products/view/kronodesign/compact-interior/compact-interior-12 "Compact Interior")
+* [LHDF](https://kronospan.com/en_EN/products/view/kronodesign/lhdf/lhdf-13 "LHDF")
+* [HPL](https://kronospan.com/en_EN/products/by_category/kronodesign/hpl "HPL")
+* [Edgebanding](https://kronospan.com/en_EN/products/view/kronodesign/edgebanding/edgebanding-15 "Edgebanding")
+* [Foils](https://kronospan.com/en_EN/products/by_category/kronodesign/foils "Foils")
+* [Lightweight Panels](https://kronospan.com/en_EN/products/view/kronodesign/lightweight-panels/lightweight-panels-740 "Lightweight Panels")
+* [Solid Wood Panels](https://kronospan.com/en_EN/products/by_category/kronodesign/solid-wood-panels "Solid Wood Panels")
+
+##### [Construction Materials](https://kronospan.com/en_EN/products/by_category/kronobuild)
+
+[![](/public/files/common/logos/kronobuild-logo_b.png)](https://kronospan.com/en_EN/products/by_category/kronobuild "Construction Materials")
+
+* [Particleboard](https://kronospan.com/en_EN/products/by_category/kronobuild/particleboard "Particleboard")
+* [Fiberboard](https://kronospan.com/en_EN/products/by_category/kronobuild/fiberboard "Fiberboard")
+* [OSB](https://kronospan.com/en_EN/products/by_category/kronobuild/osb "OSB")
+
+##### [Exterior Facades](https://kronospan.com/en_EN/products/view/kronoart/kronoart-cat/kronoart-368)
+
+[![](/public/files/common/logos/kronoart-logo_b.png)](https://kronospan.com/en_EN/products/view/kronoart/kronoart-cat/kronoart-368 "Exterior Facades")
+
+* [Kronoart](https://kronospan.com/en_EN/products/view/kronoart/kronoart-cat/kronoart-368 "Kronoart")
+
+##### [Flooring and Wall Panels](https://kronospan.com/en_EN/products/kronoflooring)
+
+[![](/public/files/KronoOriginal.svg)](https://kronospan.com/en_EN/products/kronoflooring "Flooring and Wall Panels")
+
+* [SPC Wall Panels](https://kronospan.com/en_EN/products/view/flooring-and-wall-panels/spc-wall-panels/spc-wall-panels-737 "SPC Wall Panels")
+* [Veneer Parquet](https://kronospan.com/en_EN/products/view/flooring-and-wall-panels/veneer-parquet/organic-veneer-parquet/organic-veneer-parquet-741 "Veneer Parquet")
+* [SPC Flooring](https://kronospan.com/en_EN/products/by_category/flooring-and-wall-panels/spc-flooring "SPC Flooring")
+* [O.R.C.A. Flooring](https://kronospan.com/en_EN/products/by_category/flooring-and-wall-panels/o-r-c-a-flooring "O.R.C.A. Flooring")
+* [mo.re! Laminate Flooring](https://kronospan.com/en_EN/products/by_category/flooring-and-wall-panels/mo-re-laminate-flooring "mo.re! Laminate Flooring")
+* [Classic Laminate Flooring](https://kronospan.com/en_EN/products/by_category/flooring-and-wall-panels/classic-laminate-flooring "Classic Laminate Flooring")
+* [SPC Flooring](https://rocko-spc.com/ "SPC Flooring")
+* [Kronostep](https://www.kronostep.com/ "Kronostep")
+* [My Style](https://www.mystyle-flooring.com/ "My Style")
+* [KronoOriginal](https://www.krono-original.com/en-de "KronoOriginal")
+* [Eurohome](https://www.euro-home.com/ "Eurohome")
+
+##### [Kronodesign](https://kronospan.com/en_EN/decors/by_collection/kronodesign)
+
+* [Cremona Oak](https://kronospan.com/en_EN/decors/by_collection/kronodesign/cremona-oak?c=142 "Cremona Oak")
+* [Trends Origin Stories](https://kronospan.com/en_EN/decors/by_collection/kronodesign/trends-origin-stories?c=121 "Trends Origin Stories")
+* [Most Preferred](https://kronospan.com/en_EN/decors/by_collection/kronodesign/most-preferred?c=127 "Most Preferred")
+* [Acrylic Matt](https://kronospan.com/en_EN/decors/by_collection/kronodesign/acrylic-matt?c=96 "Acrylic Matt")
+* [Acrylic Gloss](https://kronospan.com/en_EN/decors/by_collection/kronodesign/acrylic-gloss?c=14 "Acrylic Gloss")
+* [Feelness Ultra Matt](https://kronospan.com/en_EN/decors/by_collection/kronodesign/feelness-ultra-matt?c=116 "Feelness Ultra Matt")
+* [Feelness Ultra Matt Plus](https://kronospan.com/en_EN/decors/by_collection/kronodesign/feelness-ultra-matt-plus?c=124 "Feelness Ultra Matt Plus")
+* [Feelness High Gloss](https://kronospan.com/en_EN/decors/by_collection/kronodesign/feelness-high-gloss?c=117 "Feelness High Gloss")
+* [Feelness Invisible Touch](https://kronospan.com/en_EN/decors/by_collection/kronodesign/feelness-invisible-touch?c=118 "Feelness Invisible Touch")
+* [Mirror Gloss](https://kronospan.com/en_EN/decors/by_collection/kronodesign/mirror-gloss?c=12 "Mirror Gloss")
+* [Metal](https://kronospan.com/en_EN/decors/by_collection/kronodesign/metal?c=89 "Metal")
+* [Color](https://kronospan.com/en_EN/decors/by_collection/kronodesign/color?c=6 "Color")
+* [Harmony](https://kronospan.com/en_EN/decors/by_collection/kronodesign/harmony?c=122 "Harmony")
+* [Contempo](https://kronospan.com/en_EN/decors/by_collection/kronodesign/contempo?c=9 "Contempo")
+* [Standard](https://kronospan.com/en_EN/decors/by_collection/kronodesign/standard?c=7 "Standard")
+* [Worktops Round Edge](https://kronospan.com/en_EN/decors/by_collection/kronodesign/worktops-round-edge?c=97 "Worktops Round Edge")
+* [Worktops Square Edge](https://kronospan.com/en_EN/decors/by_collection/kronodesign/worktops-square-edge?c=98 "Worktops Square Edge")
+* [Worktops Slim Line Plus](https://kronospan.com/en_EN/decors/by_collection/kronodesign/worktops-slim-line-plus?c=99 "Worktops Slim Line Plus")
+* [Kitchen Splashbacks](https://kronospan.com/en_EN/decors/by_collection/kronodesign/kitchen-splashbacks?c=102 "Kitchen Splashbacks")
+* [HPL Invisible Touch](https://kronospan.com/en_EN/decors/by_collection/kronodesign/hpl-invisible-touch?c=114 "HPL Invisible Touch")
+* [Door Laminates](https://kronospan.com/en_EN/decors/by_collection/kronodesign/door-laminates?c=123 "Door Laminates")
+* [Compact Interior](https://kronospan.com/en_EN/decors/by_collection/kronodesign/compact-interior?c=17 "Compact Interior")
+* [LHDF](https://kronospan.com/en_EN/decors/by_collection/kronodesign/lhdf?c=18 "LHDF")
+* [Lisocore lightweight panels](https://kronospan.com/en_EN/decors/by_collection/kronodesign/lisocore-lightweight-panels?c=126 "Lisocore lightweight panels")
+* [Solid Wood](https://kronospan.com/en_EN/decors/by_collection/kronodesign/solid-wood?c=104 "Solid Wood")
+
+##### [Kronoart](https://kronospan.com/en_EN/decors/by_collection/kronoart)
+
+* [Color](https://kronospan.com/en_EN/decors/by_collection/kronoart/kronoart-color?c=84 "Color")
+* [Elements](https://kronospan.com/en_EN/decors/by_collection/kronoart/elements?c=85 "Elements")
+* [Fundamentals](https://kronospan.com/en_EN/decors/by_collection/kronoart/fundamentals?c=86 "Fundamentals")
+
+##### [Flooring and Wall Panels](https://kronospan.com/en_EN/products/kronoflooring)
+
+* [Rocko Tiles](https://kronospan.com/en_EN/decors/by_collection/krono-original/rocko-tiles?c=125 "Rocko Tiles")
+* [Organic VENEER PARQUET](https://kronospan.com/en_EN/decors/by_collection/krono-original/organic-veneer-parquet?c=128 "Organic VENEER PARQUET")
+* [ROCKO 5+1mm PerfectPad®IXPE](https://kronospan.com/en_EN/decors/by_collection/krono-original/rocko-5-1-mm-perfect-pad-ixpe?c=129 "ROCKO 5+1mm PerfectPad®IXPE")
+* [ROCKO 5mm](https://kronospan.com/en_EN/decors/by_collection/krono-original/rocko-5-mm?c=141 "ROCKO 5mm")
+* [Organic FLEX](https://kronospan.com/en_EN/decors/by_collection/krono-original/organic-flex?c=130 "Organic FLEX")
+* [Organic LONG](https://kronospan.com/en_EN/decors/by_collection/krono-original/organic-long?c=131 "Organic LONG")
+* [Organic CLASSIC](https://kronospan.com/en_EN/decors/by_collection/krono-original/organic-classic?c=132 "Organic CLASSIC")
+* [Organic CLEVER SILENT 6+1mm PS pad](https://kronospan.com/en_EN/decors/by_collection/krono-original/organic-clever-silent-6-1-mm-ps-pad?c=133 "Organic CLEVER SILENT 6+1mm PS pad")
+* [HERRINGBONE 8](https://kronospan.com/en_EN/decors/by_collection/krono-original/herringbone-8?c=134 "HERRINGBONE 8")
+* [ALTITUDE](https://kronospan.com/en_EN/decors/by_collection/krono-original/altitude?c=135 "ALTITUDE")
+* [ATLANTIC 12](https://kronospan.com/en_EN/decors/by_collection/krono-original/atlantic-12?c=136 "ATLANTIC 12")
+* [ATLANTIC 10](https://kronospan.com/en_EN/decors/by_collection/krono-original/atlantic-10?c=137 "ATLANTIC 10")
+* [ATLANTIC 8](https://kronospan.com/en_EN/decors/by_collection/krono-original/atlantic-8?c=138 "ATLANTIC 8")
+* [SUPER NATURAL](https://kronospan.com/en_EN/decors/by_collection/krono-original/super-natural?c=139 "SUPER NATURAL")
+* [CASTELLO](https://kronospan.com/en_EN/decors/by_collection/krono-original/castello?c=140 "CASTELLO")
+* [SPC Flooring](https://rocko-spc.com/ "SPC Flooring")
+* [Kronostep](https://www.kronostep.com/ "Kronostep")
+* [My Style](https://www.mystyle-flooring.com/ "My Style")
+* [KronoOriginal](https://www.krono-original.com/en-de "KronoOriginal")
+* [Eurohome](https://www.euro-home.com/ "Eurohome")
+
+##### [Stock Availability](https://kronospan.com/en_EN/express-services/index)
+
+* [Kronodesign](https://kronospan.com/en_EN/express-services/program/kronodesign "Kronodesign")
+* [Kronobuild](https://kronospan.com/en_EN/express-services/program/kronobuild "Kronobuild")
+* [Kronoart](https://kronospan.com/en_EN/express-services/program/kronobuild "Kronoart")
+* [Flooring and Wall Panels](https://kronospan.com/en_EN/express-services/program/flooring-and-wall-panels "Flooring and Wall Panels")
+
+##### [Downloads](https://kronospan.com/en_EN/express-services/downloads)
+
+* [Downloads](https://kronospan.com/en_EN/express-services/downloads "Downloads")
+
+##### [My Krono](https://kronospan.com/en_EN/projects)
+
+* [My Krono](https://kronospan.com/en_EN/projects "My Krono")
+
+##### Highlights
+
+* [Cremona Oak](https://kronospan.com/en_EN/highlights/cremona_oak "Cremona Oak")
+* [Rocko Tiles](https://kronospan.com/en_EN/highlights/rocko_tiles "Rocko Tiles")
+* [Most Preferred](https://kronospan.com/en_EN/highlights/most_preferred "Most Preferred")
+* [Harmony Collection](https://kronospan.com/en_EN/highlights/harmony_collection "Harmony Collection")
+* [Trends Origin Stories](https://kronospan.com/en_EN/highlights/trends_origin_stories "Trends Origin Stories")
+* [Global Collection 3.0](https://kronospan.com/en_EN/highlights/kronodesign_global_collection_3 "Global Collection 3.0")
+* [Feelness](https://kronospan.com/en_EN/highlights/feelness "Feelness")
+* [Antibacterial surfaces](https://kronospan.com/en_EN/highlights/antibacterial_surfaces "Antibacterial surfaces")
+* [Slim Line Worktops Plus](https://kronospan.com/en_EN/highlights/slim-line-worktops "Slim Line Worktops Plus")
+* [Kronoart](https://kronospan.com/en_EN/highlights/kronoart "Kronoart")
+* [Acrylic Gloss & Acrylic Matt boards](https://kronospan.com/en_EN/highlights/acrylic_matt_and_acrylic_gloss_boards "Acrylic Gloss & Acrylic Matt boards")
+* [Worktops Collection](https://kronospan.com/en_EN/highlights/worktops_collection "Worktops Collection")
+* [Metal Boards](https://kronospan.com/en_EN/highlights/metal_boards "Metal Boards")
+* [3D Foils](https://kronospan.com/en_EN/highlights/thermoplastic-3D-foils "3D Foils")
+* [Coordinated Solution](https://kronospan.com/en_EN/highlights/coordinated_solution "Coordinated Solution")
+
+##### Events
+
+* [Fairs and events](https://kronospan.com/en_EN/my_krono/krono_events "Fairs and events")
+
+##### Projects
+
+* [Projects](https://kronospan.com/en_EN/projects "Projects")
+
+##### [About us](https://kronospan.com/en_EN/company/kronospan)
+
+[![](/public/thumbs/244x143/company/header-images/organisation_244x143_fit_478b24840a.jpg)](https://kronospan.com/en_EN/company/kronospan "About us")
+
+* [Organisation](https://kronospan.com/en_EN/company/organisation "Organisation")
+* [Kronospan’s vision](https://kronospan.com/en_EN/company/kronospan-s-vision "Kronospan’s vision")
+* [Kronospan’s principles](https://kronospan.com/en_EN/company/kronospan-s-principles "Kronospan’s principles")
+* [Product range](https://kronospan.com/en_EN/company/product-range "Product range")
+* [Kronology](https://kronospan.com/en_EN/company/kronology "Kronology")
+
+##### [Sustainability](https://kronospan.com/en_EN/company/sustainability)
+
+[![](/public/thumbs/244x143/company/assets/sustainability/sustainability-support_244x143_fit_478b24840a.jpg)](https://kronospan.com/en_EN/company/sustainability "Sustainability")
+
+* [Our commitment](https://kronospan.com/en_EN/company/sustainability#!#our-commitment "Our commitment")
+* [Sustainable production](https://kronospan.com/en_EN/company/sustainability#!#sustainable-production "Sustainable production")
+* [People & eco friendly](https://kronospan.com/en_EN/company/sustainability#!#people-eco-friendly "People & eco friendly")
+* [Sustainable forestry & Certification](https://kronospan.com/en_EN/company/sustainability#!#sustainable-forestry-certification "Sustainable forestry & Certification")
+* [Sustainability Reports](https://kronospan.com/en_EN/company/sustainability#!#sustainability-reports "Sustainability Reports")
+
+##### [News](https://kronospan.com/en_EN/company/news)
+
+[![](/public/thumbs/244x143/company/assets/news-shortcut_244x143_fit_478b24840a.jpg)](https://kronospan.com/en_EN/company/news "News")
+
+##### [Careers](https://kronospan.com/en_EN/company/careers)
+
+[![](/public/thumbs/244x143/company/assets/careers_244x143_fit_478b24840a.png)](https://kronospan.com/en_EN/company/careers "Careers")
+
+* [Job Offers](https://kronospan-candidate.talent-soft.com/homepage.aspx?LCID=2057 "Job Offers")
+* [Future Leaders](https://kronospan.com/public/futureleaders/ "Future Leaders")
+* [Career stories](https://kronospan.com/en_EN/company/career-stories "Career stories")
+
+ [![Krono SHOP](https://kronospan.com/public/files/common/logos/krono-shop.svg)](https://krono-shop.com/ "Krono SHOP")[![Krono DC](https://kronospan.com/public/files/common/logos/design-center.svg)](https://krono-dc.com/ "Krono DC")[![Kronospan Foundation](https://kronospan.com/public/files/common/logos/kronospan-foundation.svg)](https://kronospanfoundation.org/ "Kronospan Foundation")
 
 [International](#) [en](https://www.kronospan-worldwide.com/en_EN)
 
@@ -25,197 +205,6 @@
 [![profile icon](/public/krono/img/icons/avatar.png)](javascript:;)
 
 [Sign in](https://www.kronospan-worldwide.com/en_EN/my_krono)
-
-##### 
-
-Decorative Interior Products
-
-[![Kronodesign](/public/files/common/logos/kronodesign-logo_b.png)](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign "Kronodesign")
-
-* [MF Boards](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/mf-boards "MF Boards")
-* [Avant-garde](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/avant-garde "Avant-garde")
-* [PET Laminated MDF](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/pet-laminated-mdf "PET Laminated MDF")
-* [HPL Bonded MDF](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/hpl-bonded-mdf "HPL Bonded MDF")
-* [Worktops](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/worktops "Worktops")
-* [Kitchen Splashbacks](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/kitchen-splashbacks "Kitchen Splashbacks")
-* [Compact Interior](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/compact-interior "Compact Interior")
-* [LHDF](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/lhdf "LHDF")
-* [HPL](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/hpl "HPL")
-* [Edgebanding](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/edgebanding "Edgebanding")
-* [Foils](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/foils "Foils")
-* [Lightweight Panels](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/lightweight-panels "Lightweight Panels")
-* [Solid Wood Panels](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/solid-wood-panels "Solid Wood Panels")
-
-##### 
-
-Construction Materials
-
-[![Kronobuild](/public/files/common/logos/kronobuild-logo_b.png)](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronobuild "Kronobuild")
-
-* [Particleboard](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronobuild/particleboard "Particleboard")
-* [Fiberboard](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronobuild/fiberboard "Fiberboard")
-* [OSB](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronobuild/osb "OSB")
-
-##### 
-
-Exterior Facades
-
-[![Kronoart](/public/files/common/logos/kronoart-logo_b.png)](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronoart "Kronoart")
-
-* [Kronoart](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronoart/kronoart-cat "Kronoart")
-
-##### 
-
-Flooring and Wall Panels
-
-[Flooring and Wall Panels](https://www.kronospan-worldwide.com/en_EN/products/kronoflooring "<span>Flooring and Wall Panels</span>")
-
-* [SPC Wall Panels](https://www.kronospan-worldwide.com/en_EN/products/by_category/flooring-and-wall-panels/spc-wall-panels "SPC Wall Panels")
-* [VENEER PARQUET](https://www.kronospan-worldwide.com/en_EN/products/by_category/flooring-and-wall-panels/veneer-parquet "VENEER PARQUET")
-* [SPC Flooring](https://www.kronospan-worldwide.com/en_EN/products/by_category/flooring-and-wall-panels/spc-flooring "SPC Flooring")
-* [O.R.C.A. Flooring](https://www.kronospan-worldwide.com/en_EN/products/by_category/flooring-and-wall-panels/o-r-c-a-flooring "O.R.C.A. Flooring")
-* [mo.re! Laminate Flooring](https://www.kronospan-worldwide.com/en_EN/products/by_category/flooring-and-wall-panels/mo-re-laminate-flooring "mo.re! Laminate Flooring")
-* [Classic Laminate Flooring](https://www.kronospan-worldwide.com/en_EN/products/by_category/flooring-and-wall-panels/classic-laminate-flooring "Classic Laminate Flooring")
-* [SPC Flooring](https://www.rocko-vinyl.com/ "SPC Flooring")
-* [Kronostep](https://www.kronostep.com/ "Kronostep")
-* [My Style](https://www.mystyle-flooring.com/ "My Style")
-* [KronoOriginal](https://www.krono-original.com/ "KronoOriginal")
-* [Eurohome](https://www.euro-home.com/ "Eurohome")
-
-##### [Kronodesign](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign "Kronodesign")
-
-* [Cremona Oak](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/cremona-oak?c=142 "Cremona Oak")
-* [Trends Origin Stories](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/trends-origin-stories?c=121 "Trends Origin Stories")
-* [Most Preferred](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/most-preferred?c=127 "Most Preferred")
-* [Acrylic Matt](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/acrylic-matt?c=96 "Acrylic Matt")
-* [Acrylic Gloss](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/acrylic-gloss?c=14 "Acrylic Gloss")
-* [Feelness Ultra Matt](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/feelness-ultra-matt?c=116 "Feelness Ultra Matt")
-* [Feelness Ultra Matt Plus](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/feelness-ultra-matt-plus?c=124 "Feelness Ultra Matt Plus")
-* [Feelness High Gloss](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/feelness-high-gloss?c=117 "Feelness High Gloss")
-* [Feelness Invisible Touch](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/feelness-invisible-touch?c=118 "Feelness Invisible Touch")
-* [Mirror Gloss](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/mirror-gloss?c=12 "Mirror Gloss")
-* [Metal](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/metal?c=89 "Metal")
-* [Color](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/color?c=6 "Color")
-
-* [Harmony](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/harmony?c=122 "Harmony")
-* [Contempo](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/contempo?c=9 "Contempo")
-* [Standard](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/standard?c=7 "Standard")
-* [Worktops Round Edge](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/worktops-round-edge?c=97 "Worktops Round Edge")
-* [Worktops Square Edge](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/worktops-square-edge?c=98 "Worktops Square Edge")
-* [Worktops Slim Line Plus](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/worktops-slim-line-plus?c=99 "Worktops Slim Line Plus")
-* [Kitchen Splashbacks](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/kitchen-splashbacks?c=102 "Kitchen Splashbacks")
-* [HPL Invisible Touch](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/hpl-invisible-touch?c=114 "HPL Invisible Touch")
-* [Door Laminates](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/door-laminates?c=123 "Door Laminates")
-* [Compact Interior](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/compact-interior?c=17 "Compact Interior")
-* [LHDF](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/lhdf?c=18 "LHDF")
-* [Lisocore lightweight panels](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/lisocore-lightweight-panels?c=126 "Lisocore lightweight panels")
-* [Solid Wood](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/solid-wood?c=104 "Solid Wood")
-
-##### [Kronoart](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronoart "Kronoart")
-
-* [Color](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronoart/kronoart-color?c=84 "Color")
-* [Elements](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronoart/elements?c=85 "Elements")
-* [Fundamentals](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronoart/fundamentals?c=86 "Fundamentals")
-
-##### [Flooring and Wall Panels](https://www.kronospan-worldwide.com/en_EN/products/kronoflooring " Flooring and Wall Panels ")
-
-* [Rocko Tiles](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/rocko-tiles?c=125 "Rocko Tiles")
-* [Organic VENEER PARQUET](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/organic-veneer-parquet?c=128 "Organic VENEER PARQUET")
-* [ROCKO 5+1 mm PerfectPad®IXPE](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/rocko-5-1-mm-perfect-pad-ixpe?c=129 "ROCKO 5+1 mm PerfectPad®IXPE")
-* [ROCKO 5 mm](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/rocko-5-mm?c=141 "ROCKO 5 mm")
-* [Organic FLEX](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/organic-flex?c=130 "Organic FLEX")
-* [Organic LONG](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/organic-long?c=131 "Organic LONG")
-* [Organic CLASSIC](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/organic-classic?c=132 "Organic CLASSIC")
-* [Organic CLEVER SILENT 6+1 mm PS pad](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/organic-clever-silent-6-1-mm-ps-pad?c=133 "Organic CLEVER SILENT 6+1 mm PS pad")
-* [HERRINGBONE 8](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/herringbone-8?c=134 "HERRINGBONE 8")
-* [ALTITUDE](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/altitude?c=135 "ALTITUDE")
-
-* [ATLANTIC 12](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/atlantic-12?c=136 "ATLANTIC 12")
-* [ATLANTIC 10](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/atlantic-10?c=137 "ATLANTIC 10")
-* [ATLANTIC 8](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/atlantic-8?c=138 "ATLANTIC 8")
-* [SUPER NATURAL](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/super-natural?c=139 "SUPER NATURAL")
-* [CASTELLO](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/castello?c=140 "CASTELLO")
-* [SPC Flooring](https://www.rocko-vinyl.com/ "SPC Flooring")
-* [Kronostep](https://www.kronostep.com/ "Kronostep")
-* [My Style](https://www.mystyle-flooring.com/ "My Style")
-* [KronoOriginal](https://www.krono-original.com/ "KronoOriginal")
-* [Eurohome](https://www.euro-home.com/ "Eurohome")
-
-##### [Stock Availability](https://www.kronospan-worldwide.com/privacy/?action=index&controller=express_services&lang=0&action=index&controller=express_services "Stock Availability")
-
-* [![Kronodesign](/public//images/express/6-express.png)](https://www.kronospan-worldwide.com/en_EN/express-services/program/kronodesign "Kronodesign")
-* [![Kronobuild](/public//images/express/5-express.png)](https://www.kronospan-worldwide.com/en_EN/express-services/program/kronobuild "Kronobuild")
-* [![Kronoart](/public//images/express/1292-express.png)](https://www.kronospan-worldwide.com/en_EN/express-services/program/kronoart "Kronoart")
-* [Flooring and Wall Panels](https://www.kronospan-worldwide.com/en_EN/express-services/program/flooring-and-wall-panels "Flooring and Wall Panels")
-
-##### [Downloads](https://www.kronospan-worldwide.com/en_EN/express-services/downloads)
-
-* [Downloads](https://www.kronospan-worldwide.com/en_EN/express-services/downloads)
-
-##### [My Krono](https://www.kronospan-worldwide.com/en_EN/my_krono)
-
-* [My Krono](https://www.kronospan-worldwide.com/en_EN/my_krono)
-
-##### Highlights
-
-* [Cremona Oak](https://www.kronospan-worldwide.com/en_EN/highlights/cremona_oak)
-* [Rocko Tiles](https://www.kronospan-worldwide.com/en_EN/highlights/rocko_tiles)
-* [Most Preferred](https://www.kronospan-worldwide.com/en_EN/highlights/most_preferred)
-* [Harmony Collection](https://www.kronospan-worldwide.com/en_EN/highlights/harmony_collection)
-* [Trends Origin Stories](https://www.kronospan-worldwide.com/en_EN/highlights/trends_origin_stories)
-* [Global Collection 3.0](https://www.kronospan-worldwide.com/en_EN/highlights/kronodesign_global_collection_3)
-* [Feelness](https://www.kronospan-worldwide.com/en_EN/highlights/feelness)
-* [Antibacterial surfaces](https://www.kronospan-worldwide.com/en_EN/highlights/antibacterial_surfaces)
-
-* [Slim Line Worktops Plus](https://www.kronospan-worldwide.com/en_EN/highlights/slim-line-worktops)
-* [Kronoart](https://www.kronospan-worldwide.com/en_EN/highlights/kronoart)
-* [Acrylic Gloss & Acrylic Matt boards](https://www.kronospan-worldwide.com/en_EN/highlights/acrylic_matt_and_acrylic_gloss_boards)
-* [Worktops Collection](https://www.kronospan-worldwide.com/en_EN/highlights/worktops_collection)
-* [Metal Boards](https://www.kronospan-worldwide.com/en_EN/highlights/metal_boards)
-* [3D Foils](https://www.kronospan-worldwide.com/en_EN/highlights/thermoplastic-3D-foils)
-* [Coordinated Solution](https://www.kronospan-worldwide.com/en_EN/highlights/coordinated_solution)
-
-##### Events
-
-* [Fairs and events](https://www.kronospan-worldwide.com/en_EN/my_krono/krono_events)
-
-##### Projects
-
-* [Projects](https://www.kronospan-worldwide.com/en_EN/projects)
-
-[##### About Us](https://www.kronospan-worldwide.com/en_EN/company/kronospan "About Us")Excellence in transforming wood
-
-[![organisation_350x150_crop_478b24840a](/public/thumbs/350x150/company/header-images/organisation_350x150_crop_478b24840a.jpg)](https://www.kronospan-worldwide.com/en_EN/company/kronospan "About Us")
-
-* [Organisation](https://www.kronospan-worldwide.com/en_EN/company/organisation "Organisation")
-* [Kronospan’s vision](https://www.kronospan-worldwide.com/en_EN/company/kronospan-s-vision "Kronospan’s vision")
-* [Kronospan’s principles](https://www.kronospan-worldwide.com/en_EN/company/kronospan-s-principles "Kronospan’s principles")
-* [Product range](https://www.kronospan-worldwide.com/en_EN/company/product-range "Product range")
-* [Kronology](https://www.kronospan-worldwide.com/en_EN/company/kronology "Kronology")
-
-[##### Sustainability](https://www.kronospan-worldwide.com/en_EN/company/sustainability "Sustainability")Sustainability
-
-[![Web_In – 2_350x150_crop_478b24840a](/public/thumbs/350x150/company/header-images/Web_In – 2_350x150_crop_478b24840a.jpg)](https://www.kronospan-worldwide.com/en_EN/company/sustainability "Sustainability")
-
-* [Our commitment](https://www.kronospan-worldwide.com/en_EN/company/sustainability#our-commitment "Our commitment")
-* [Sustainable production](https://www.kronospan-worldwide.com/en_EN/company/sustainability#sustainable-production "Sustainable production")
-* [People & eco friendly](https://www.kronospan-worldwide.com/en_EN/company/sustainability#people-eco-friendly "People & eco friendly")
-* [Sustainable forestry & Certification](https://www.kronospan-worldwide.com/en_EN/company/sustainability#sustainable-forestry-certification "Sustainable forestry & Certification")
-* [Sustainability Reports](https://www.kronospan-worldwide.com/en_EN/company/sustainability#sustainability-reports "Sustainability Reports")
-
-[##### News](https://www.kronospan-worldwide.com/en_EN/company/news "News")Always be up to date
-
-[![news_350x150_crop_478b24840a](/public/thumbs/350x150/company/header-images/news_350x150_crop_478b24840a.jpg)](https://www.kronospan-worldwide.com/en_EN/company/news "News")
-
-[##### Careers](https://www.kronospan-worldwide.com/en_EN/company/careers "Careers")Kronospan Opportunities
-
-[![Careers-1920x520_350x150_crop_478b24840a](/public/thumbs/350x150/company/header-images/Careers-1920x520_350x150_crop_478b24840a.jpg)](https://www.kronospan-worldwide.com/en_EN/company/careers "Careers")
-
-* [Job Offers](https://kronospan-candidate.talent-soft.com/homepage.aspx?LCID=2057 "Job Offers")
-* [Future Leaders](https://kronospan.com/public/futureleaders/ "Future Leaders")
-* [Career stories](https://www.kronospan-worldwide.com/en_EN/company/career-stories "Career stories")
-
- [![Krono SHOP](/public/files/common/logos/krono-shop.svg)](https://krono-shop.com/ "Krono SHOP")[![Kronospan Design Centers](/public/files/common/logos/design-center.svg)](https://krono-dc.com/ "Krono SHOP")[![Kronospan Foundation](/public/files/common/logos/kronospan-foundation.svg)](https://kronospanfoundation.org/ "Kronospan Foundation")
 
 [{{country.title}}](https://www.kronospan-worldwide.com/%7B%7Bcountry.default_language%7D%7D "{{country.title}}")[{{country.title}}](https://{{country.domain}}/%7B%7Bcountry.default_language%7D%7D "{{country.title}}")
 
@@ -262,7 +251,7 @@ Location and Language
 
 Location
 
-International Albania Algeria Andorra Argentina Armenia Australia Austria Bahrain Belarus Belgium Bolivia Bosnia and Herzegovina Brazil Bulgaria Canada Chile China Colombia Costa Rica Croatia Cyprus Czech Republic Denmark Dominican Republic Ecuador Egypt El Salvador Estonia Finland France Georgia Germany Ghana Greece Greenland Guadeloupe Guyana Hungary Iceland Ireland Italy Ivory Coast Kazakhstan Kuwait Kyrgyzstan Latvia Liechtenstein Lithuania Luxembourg Macedonia Malta Martinique Mexico Moldova Monaco Montenegro Netherlands Norway Oman Panama Paraguay Peru Poland Portugal Qatar Romania Russia San Marino Saudi Arabia Serbia Slovakia Slovenia Spain Sweden Switzerland Tajikistan Togo Trinidad and Tobago Turkey Turkmenistan UAE Ukraine United Kingdom Uruguay USA Uzbekistan Venezuela Yemen
+International Albania Algeria Andorra Argentina Armenia Australia Austria Bahrain Belgium Bolivia Bosnia and Herzegovina Brazil Bulgaria Canada Chile China Colombia Costa Rica Croatia Cyprus Czech Republic Denmark Dominican Republic Ecuador Egypt El Salvador Estonia Finland France Georgia Germany Ghana Greece Greenland Guadeloupe Guyana Hungary Iceland Ireland Italy Ivory Coast Kazakhstan Kuwait Kyrgyzstan Latvia Liechtenstein Lithuania Luxembourg Macedonia Malta Martinique Mexico Moldova Monaco Montenegro Netherlands Norway Oman Panama Paraguay Peru Poland Portugal Qatar Romania San Marino Saudi Arabia Serbia Slovakia Slovenia Spain Sweden Switzerland Tajikistan Togo Trinidad and Tobago Turkey Turkmenistan UAE Ukraine United Kingdom Uruguay USA Uzbekistan Venezuela Yemen
 
 Language
 
@@ -294,205 +283,6 @@ sales.sebes@kronospan.ro](mailto:sales.sebes@kronospan.ro)![email](/public/krono
 View on map
 
 ×
-
-##### [Organization](# "Organization") ![up](/public/krono/img/icons/up.png) 
-
-[##### About Us](https://www.kronospan-worldwide.com/en_EN/company/kronospan "About Us")Excellence in transforming wood
-
-[![organisation_350x150_crop_478b24840a](/public/thumbs/350x150/company/header-images/organisation_350x150_crop_478b24840a.jpg)](https://www.kronospan-worldwide.com/en_EN/company/kronospan "About Us")
-
-* [Organisation](https://www.kronospan-worldwide.com/en_EN/company/organisation "Organisation")
-* [Kronospan’s vision](https://www.kronospan-worldwide.com/en_EN/company/kronospan-s-vision "Kronospan’s vision")
-* [Kronospan’s principles](https://www.kronospan-worldwide.com/en_EN/company/kronospan-s-principles "Kronospan’s principles")
-* [Product range](https://www.kronospan-worldwide.com/en_EN/company/product-range "Product range")
-* [Kronology](https://www.kronospan-worldwide.com/en_EN/company/kronology "Kronology")
-
-[##### Sustainability](https://www.kronospan-worldwide.com/en_EN/company/sustainability "Sustainability")Sustainability
-
-[![Web_In – 2_350x150_crop_478b24840a](/public/thumbs/350x150/company/header-images/Web_In – 2_350x150_crop_478b24840a.jpg)](https://www.kronospan-worldwide.com/en_EN/company/sustainability "Sustainability")
-
-* [Our commitment](https://www.kronospan-worldwide.com/en_EN/company/sustainability#our-commitment "Our commitment")
-* [Sustainable production](https://www.kronospan-worldwide.com/en_EN/company/sustainability#sustainable-production "Sustainable production")
-* [People & eco friendly](https://www.kronospan-worldwide.com/en_EN/company/sustainability#people-eco-friendly "People & eco friendly")
-* [Sustainable forestry & Certification](https://www.kronospan-worldwide.com/en_EN/company/sustainability#sustainable-forestry-certification "Sustainable forestry & Certification")
-* [Sustainability Reports](https://www.kronospan-worldwide.com/en_EN/company/sustainability#sustainability-reports "Sustainability Reports")
-
-[##### News](https://www.kronospan-worldwide.com/en_EN/company/news "News")Always be up to date
-
-[![news_350x150_crop_478b24840a](/public/thumbs/350x150/company/header-images/news_350x150_crop_478b24840a.jpg)](https://www.kronospan-worldwide.com/en_EN/company/news "News")
-
-[##### Careers](https://www.kronospan-worldwide.com/en_EN/company/careers "Careers")Kronospan Opportunities
-
-[![Careers-1920x520_350x150_crop_478b24840a](/public/thumbs/350x150/company/header-images/Careers-1920x520_350x150_crop_478b24840a.jpg)](https://www.kronospan-worldwide.com/en_EN/company/careers "Careers")
-
-* [Job Offers](https://kronospan-candidate.talent-soft.com/homepage.aspx?LCID=2057 "Job Offers")
-* [Future Leaders](https://kronospan.com/public/futureleaders/ "Future Leaders")
-* [Career stories](https://www.kronospan-worldwide.com/en_EN/company/career-stories "Career stories")
-
-*  [![Krono SHOP](/public/files/common/logos/krono-shop.svg)](https://krono-shop.com/ "Krono SHOP")[![Kronospan Design Centers](/public/files/common/logos/design-center.svg)](https://krono-dc.com/ "Kronospan Design Centers")
-* [![Kronospan Foundation](/public/files/common/logos/kronospan-foundation.svg)](https://kronospanfoundation.org/ "Kronospan Foundation")
-
-##### [Products](# "Products") ![up](/public/krono/img/icons/up.png) 
-
-##### 
-
-Decorative Interior Products
-
-[![Kronodesign](/public/files/common/logos/kronodesign-logo_b.png)](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign "Kronodesign")
-
-* [MF Boards](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/mf-boards "MF Boards")
-* [Avant-garde](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/avant-garde "Avant-garde")
-* [PET Laminated MDF](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/pet-laminated-mdf "PET Laminated MDF")
-* [HPL Bonded MDF](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/hpl-bonded-mdf "HPL Bonded MDF")
-* [Worktops](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/worktops "Worktops")
-* [Kitchen Splashbacks](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/kitchen-splashbacks "Kitchen Splashbacks")
-* [Compact Interior](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/compact-interior "Compact Interior")
-* [LHDF](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/lhdf "LHDF")
-* [HPL](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/hpl "HPL")
-* [Edgebanding](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/edgebanding "Edgebanding")
-* [Foils](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/foils "Foils")
-* [Lightweight Panels](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/lightweight-panels "Lightweight Panels")
-* [Solid Wood Panels](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronodesign/solid-wood-panels "Solid Wood Panels")
-
-##### 
-
-Construction Materials
-
-[![Kronobuild](/public/files/common/logos/kronobuild-logo_b.png)](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronobuild "Kronobuild")
-
-* [Particleboard](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronobuild/particleboard "Particleboard")
-* [Fiberboard](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronobuild/fiberboard "Fiberboard")
-* [OSB](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronobuild/osb "OSB")
-
-##### 
-
-Exterior Facades
-
-[![Kronoart](/public/files/common/logos/kronoart-logo_b.png)](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronoart "Kronoart")
-
-* [Kronoart](https://www.kronospan-worldwide.com/en_EN/products/by_category/kronoart/kronoart-cat "Kronoart")
-
-##### 
-
-Flooring and Wall Panels
-
-[Flooring and Wall Panels](https://www.kronospan-worldwide.com/en_EN/products/kronoflooring "<span>Flooring and Wall Panels</span>")
-
-* [SPC Wall Panels](https://www.kronospan-worldwide.com/en_EN/products/by_category/flooring-and-wall-panels/spc-wall-panels "SPC Wall Panels")
-* [VENEER PARQUET](https://www.kronospan-worldwide.com/en_EN/products/by_category/flooring-and-wall-panels/veneer-parquet "VENEER PARQUET")
-* [SPC Flooring](https://www.kronospan-worldwide.com/en_EN/products/by_category/flooring-and-wall-panels/spc-flooring "SPC Flooring")
-* [O.R.C.A. Flooring](https://www.kronospan-worldwide.com/en_EN/products/by_category/flooring-and-wall-panels/o-r-c-a-flooring "O.R.C.A. Flooring")
-* [mo.re! Laminate Flooring](https://www.kronospan-worldwide.com/en_EN/products/by_category/flooring-and-wall-panels/mo-re-laminate-flooring "mo.re! Laminate Flooring")
-* [Classic Laminate Flooring](https://www.kronospan-worldwide.com/en_EN/products/by_category/flooring-and-wall-panels/classic-laminate-flooring "Classic Laminate Flooring")
-* [SPC Flooring](https://www.rocko-vinyl.com/ "SPC Flooring")
-* [Kronostep](https://www.kronostep.com/ "Kronostep")
-* [My Style](https://www.mystyle-flooring.com/ "My Style")
-* [KronoOriginal](https://www.krono-original.com/ "KronoOriginal")
-* [Eurohome](https://www.euro-home.com/ "Eurohome")
-
-##### [Decors](# "Decors") ![up](/public/krono/img/icons/up.png) 
-
-##### [Kronodesign](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign "Kronodesign")
-
-* [Cremona Oak](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/cremona-oak?c=142 "Cremona Oak")
-* [Trends Origin Stories](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/trends-origin-stories?c=121 "Trends Origin Stories")
-* [Most Preferred](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/most-preferred?c=127 "Most Preferred")
-* [Acrylic Matt](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/acrylic-matt?c=96 "Acrylic Matt")
-* [Acrylic Gloss](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/acrylic-gloss?c=14 "Acrylic Gloss")
-* [Feelness Ultra Matt](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/feelness-ultra-matt?c=116 "Feelness Ultra Matt")
-* [Feelness Ultra Matt Plus](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/feelness-ultra-matt-plus?c=124 "Feelness Ultra Matt Plus")
-* [Feelness High Gloss](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/feelness-high-gloss?c=117 "Feelness High Gloss")
-* [Feelness Invisible Touch](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/feelness-invisible-touch?c=118 "Feelness Invisible Touch")
-* [Mirror Gloss](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/mirror-gloss?c=12 "Mirror Gloss")
-* [Metal](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/metal?c=89 "Metal")
-* [Color](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/color?c=6 "Color")
-
-* [Harmony](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/harmony?c=122 "Harmony")
-* [Contempo](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/contempo?c=9 "Contempo")
-* [Standard](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/standard?c=7 "Standard")
-* [Worktops Round Edge](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/worktops-round-edge?c=97 "Worktops Round Edge")
-* [Worktops Square Edge](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/worktops-square-edge?c=98 "Worktops Square Edge")
-* [Worktops Slim Line Plus](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/worktops-slim-line-plus?c=99 "Worktops Slim Line Plus")
-* [Kitchen Splashbacks](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/kitchen-splashbacks?c=102 "Kitchen Splashbacks")
-* [HPL Invisible Touch](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/hpl-invisible-touch?c=114 "HPL Invisible Touch")
-* [Door Laminates](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/door-laminates?c=123 "Door Laminates")
-* [Compact Interior](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/compact-interior?c=17 "Compact Interior")
-* [LHDF](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/lhdf?c=18 "LHDF")
-* [Lisocore lightweight panels](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/lisocore-lightweight-panels?c=126 "Lisocore lightweight panels")
-* [Solid Wood](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/solid-wood?c=104 "Solid Wood")
-
-##### [Kronoart](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronoart "Kronoart")
-
-* [Color](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronoart/kronoart-color?c=84 "Color")
-* [Elements](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronoart/elements?c=85 "Elements")
-* [Fundamentals](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronoart/fundamentals?c=86 "Fundamentals")
-
-##### [Flooring and Wall Panels](https://www.kronospan-worldwide.com/en_EN/products/kronoflooring " Flooring and Wall Panels ")
-
-* [Rocko Tiles](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/rocko-tiles?c=125 "Rocko Tiles")
-* [Organic VENEER PARQUET](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/organic-veneer-parquet?c=128 "Organic VENEER PARQUET")
-* [ROCKO 5+1 mm PerfectPad®IXPE](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/rocko-5-1-mm-perfect-pad-ixpe?c=129 "ROCKO 5+1 mm PerfectPad®IXPE")
-* [ROCKO 5 mm](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/rocko-5-mm?c=141 "ROCKO 5 mm")
-* [Organic FLEX](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/organic-flex?c=130 "Organic FLEX")
-* [Organic LONG](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/organic-long?c=131 "Organic LONG")
-* [Organic CLASSIC](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/organic-classic?c=132 "Organic CLASSIC")
-* [Organic CLEVER SILENT 6+1 mm PS pad](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/organic-clever-silent-6-1-mm-ps-pad?c=133 "Organic CLEVER SILENT 6+1 mm PS pad")
-* [HERRINGBONE 8](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/herringbone-8?c=134 "HERRINGBONE 8")
-* [ALTITUDE](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/altitude?c=135 "ALTITUDE")
-
-* [ATLANTIC 12](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/atlantic-12?c=136 "ATLANTIC 12")
-* [ATLANTIC 10](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/atlantic-10?c=137 "ATLANTIC 10")
-* [ATLANTIC 8](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/atlantic-8?c=138 "ATLANTIC 8")
-* [SUPER NATURAL](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/super-natural?c=139 "SUPER NATURAL")
-* [CASTELLO](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/krono-original/castello?c=140 "CASTELLO")
-* [SPC Flooring](https://www.rocko-vinyl.com/ "SPC Flooring")
-* [Kronostep](https://www.kronostep.com/ "Kronostep")
-* [My Style](https://www.mystyle-flooring.com/ "My Style")
-* [KronoOriginal](https://www.krono-original.com/ "KronoOriginal")
-* [Eurohome](https://www.euro-home.com/ "Eurohome")
-
-##### [Express Services](# "Express Services") ![up](/public/krono/img/icons/up.png) 
-
-* [Express program Kronodesign](https://www.kronospan-worldwide.com/privacy/?action=program&controller=express_services&type=kronodesign&lang=0&action=program&controller=express_services&type=kronodesign "Express program Kronodesign")
-* [Express program Kronobuild](https://www.kronospan-worldwide.com/privacy/?action=program&controller=express_services&type=kronobuild&lang=0&action=program&controller=express_services&type=kronobuild "Express program Kronobuild")
-* [Express program Kronoart](https://www.kronospan-worldwide.com/privacy/?action=program&controller=express_services&type=kronoart&lang=0&action=program&controller=express_services&type=kronoart "Express program Kronoart")
-* [Express program Flooring and Wall Panels](https://www.kronospan-worldwide.com/privacy/?action=program&controller=express_services&type=flooring-and-wall-panels&lang=0&action=program&controller=express_services&type=flooring-and-wall-panels "Express program Flooring and Wall Panels")
-
-##### [Downloads](https://www.kronospan-worldwide.com/privacy/?action=downloads&controller=express_services&type=downloads&lang=0&action=downloads&controller=express_services&type=downloads "Downloads")
-
-* [Downloads](https://www.kronospan-worldwide.com/privacy/?action=downloads&controller=express_services&type=downloads&lang=0&action=downloads&controller=express_services&type=downloads "Downloads")
-
-##### [My Krono](https://www.kronospan-worldwide.com/en_EN/my_krono "My Krono")
-
-* [My Krono](https://www.kronospan-worldwide.com/en_EN/my_krono "My Krono")
-
-##### [Highlights](# "Highlights") ![up](/public/krono/img/icons/up.png) 
-
-##### [Highlights](https://www.kronospan-worldwide.com/en_EN/highlights "Highlights")
-
-* [Cremona Oak](https://www.kronospan-worldwide.com/en_EN/highlights/cremona_oak "cremona_oak")
-* [Rocko Tiles](https://www.kronospan-worldwide.com/en_EN/highlights/rocko_tiles "rocko_tiles")
-* [Most Preferred](https://www.kronospan-worldwide.com/en_EN/highlights/most_preferred "most_preferred")
-* [Harmony Collection](https://www.kronospan-worldwide.com/en_EN/highlights/harmony_collection "harmony_collection")
-* [Trends Origin Stories](https://www.kronospan-worldwide.com/en_EN/highlights/trends_origin_stories "trends_origin_stories")
-* [Global Collection 3.0](https://www.kronospan-worldwide.com/en_EN/highlights/kronodesign_global_collection_3 "kronodesign_global_collection_3")
-* [Feelness](https://www.kronospan-worldwide.com/en_EN/highlights/feelness "feelness")
-* [Antibacterial surfaces](https://www.kronospan-worldwide.com/en_EN/highlights/antibacterial_surfaces "antibacterial_surfaces")
-* [Slim Line Worktops Plus](https://www.kronospan-worldwide.com/en_EN/highlights/slim-line-worktops "slim-line-worktops")
-* [Kronoart](https://www.kronospan-worldwide.com/en_EN/highlights/kronoart "kronoart")
-* [Acrylic Gloss & Acrylic Matt boards](https://www.kronospan-worldwide.com/en_EN/highlights/acrylic_matt_and_acrylic_gloss_boards "acrylic_matt_and_acrylic_gloss_boards")
-* [Worktops Collection](https://www.kronospan-worldwide.com/en_EN/highlights/worktops_collection "worktops_collection")
-* [Metal Boards](https://www.kronospan-worldwide.com/en_EN/highlights/metal_boards "metal_boards")
-* [3D Foils](https://www.kronospan-worldwide.com/en_EN/highlights/thermoplastic-3D-foils "thermoplastic-3D-foils")
-* [Coordinated Solution](https://www.kronospan-worldwide.com/en_EN/highlights/coordinated_solution "coordinated_solution")
-
-##### [Events](https://www.kronospan-worldwide.com/en_EN/my_krono/krono_events "Events")
-
-* [Fairs and events](https://www.kronospan-worldwide.com/en_EN/my_krono/krono_events "Fairs and events")
-
-##### [Projects](https://www.kronospan-worldwide.com/en_EN/projects "Projects")
-
-* [Projects](https://www.kronospan-worldwide.com/en_EN/projects "Projects")
 
 [home](https://www.kronospan-worldwide.com/privacy/?controller=application&action=index&lang=0&module=public&controller=application&action=index "home")
 
@@ -570,7 +360,7 @@ I acknowledge and agree to Kronospan’s [**Terms and Conditions**](https://kron
 
  
 
-Country \* Albania Algeria Andorra Argentina Armenia Australia Austria Bahrain Belarus Belgium Bolivia Bosnia and Herzegovina Brazil Bulgaria Cameroon Canada Chile China Colombia Congo Costa Rica Croatia Cyprus Czech Republic Denmark Dominican Republic Ecuador Egypt El Salvador Estonia Fiji Finland France Gabon Georgia Germany Ghana Greece Greenland Guadeloupe Guinea Guyana Hong Kong Hungary Iceland India Indonesia Iran Ireland Israel Italy Japan Jordan Kazakhstan Kenya Kosovo Kuwait Kyrgyzstan Latvia Lebanon Libya Lichtenstein Lithuania Luxembourg Macau Macedonia Madagascar Malaysia Malta Martinique Mauritius Mexico Moldova Monaco Montenegro Morocco Netherlands New Caledonia New Zealand Nigeria Norway Oman Pakistan Panama Papua New Guinea Paraguay Peru Philippines Poland Portugal Qatar Reunion Island Romania Russia San Marino Saudi Arabia Senegal Serbia Seychelles Singapore Slovakia Slovenia Spain Sweden Switzerland Turkey UAE Ukraine United Kingdom USA Yemen
+Country \* Albania Algeria Andorra Argentina Armenia Australia Austria Bahrain Belarus Belgium Bolivia Bosnia and Herzegovina Brazil Bulgaria Cameroon Canada Chile China Colombia Congo Costa Rica Croatia Cyprus Czech Republic Denmark Dominican Republic Ecuador Egypt El Salvador Estonia Fiji Finland France Gabon Georgia Germany Ghana Greece Greenland Guadeloupe Guinea Guyana Hong Kong Hungary Iceland India Indonesia Iran Ireland Israel Italy Japan Jordan Kazakhstan Kenya Kosovo Kuwait Kyrgyzstan Latvia Lebanon Libya Lichtenstein Lithuania Luxembourg Macau Macedonia Madagascar Malaysia Malta Martinique Mauritius Mexico Moldova Monaco Montenegro Morocco Netherlands New Caledonia New Zealand Nigeria Norway Oman Pakistan Panama Papua New Guinea Paraguay Peru Philippines Poland Portugal Qatar Reunion Island Romania San Marino Saudi Arabia Senegal Serbia Seychelles Singapore Slovakia Slovenia Spain Sweden Switzerland Turkey UAE Ukraine United Kingdom USA Yemen
 
  ![Kronodesign App](/public/images/KronodesignApp-L.svg)
 
