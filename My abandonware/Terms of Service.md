@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
-* [Mega Man: Battle Chip Challenge](https://www.myabandonware.com/game/mega-man-battle-chip-challenge-t3p)
-* [Last Alive](https://www.myabandonware.com/game/last-alive-t3o)
-* [Kinnikuman Nisei: Dream Tag Match](https://www.myabandonware.com/game/kinnikuman-nisei-dream-tag-match-t3n)
-* [Kinnikuman Nisei: Chōjin Seisenshi](https://www.myabandonware.com/game/kinnikuman-nisei-chojin-seisenshi-t3m)
-* [Judgement Silversword: Rebirth Edition](https://www.myabandonware.com/game/judgement-silversword-rebirth-edition-t3l)
+* [Summer Challenge: Athletics Tournament](https://www.myabandonware.com/game/summer-challenge-athletics-tournament-tcs)
+* [Un Juego de Huevos](https://www.myabandonware.com/game/un-juego-de-huevos-t41)
+* [Ultimate Chess 3D](https://www.myabandonware.com/game/ultimate-chess-3d-t40)
+* [Turma da Mônica em Vamos Brincar nº 1](https://www.myabandonware.com/game/turma-da-monica-em-vamos-brincar-no-1-t3z)
+* [Toy Raid](https://www.myabandonware.com/game/toy-raid-t3y)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
