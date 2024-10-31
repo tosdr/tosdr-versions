@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [F for Friendetta](https://www.somethingawful.com/news/neil-gaiman-friends/)
-* [I Hate You Page 04](https://www.somethingawful.com/cliff-yablonski/i-hate-you-04/)
-* [Sin Cinema](https://www.somethingawful.com/photoshop-phriday/sin-cinema/1/)
-* [Captioned Simpsons .gifs!](https://www.somethingawful.com/photoshop-phriday/simpsons-frinkiac-animated/)
-* [Democratic National Committee](https://www.somethingawful.com/awful-links/awful-link-1172/)
+* [Halloween in Middle-Earth](https://www.somethingawful.com/photoshop-phriday/halloween-in-middleearth/1/)
+* [Moving tips](https://www.somethingawful.com/photoshop-phriday/moving-tips/1/)
+* [Peekaru!](https://www.somethingawful.com/photoshop-phriday/peekaru/1/)
+* [The Corpse-Grinders 2](https://www.somethingawful.com/movie-reviews/the-corpsegrinders-2/1/)
+* [Just Mindy (Thanks, hello binga!)](https://www.somethingawful.com/awful-links/just-mindy-asl/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-lovecum.gif) [Im trying to write a new generation timecube](http://forums.somethingawful.com/showthread.php?threadid=4073928 "Im trying to write a new generation timecube")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/tv.png) [Did Captain Planet fail?](http://forums.somethingawful.com/showthread.php?threadid=4073918 "Did Captain Planet fail?")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-lovecum.gif) [Im trying to write a new generation timecube](http://forums.somethingawful.com/showthread.php?threadid=4073928 "Im trying to write a new generation timecube")
 
 ### Random Articles
 
-* [LOOKS LIKE I'M DEPUTY SECRETARY IN CHARGE OF BATTERIES NOW](https://www.somethingawful.com/news/levi-energy-secretary/)
-* [Something Special](https://www.somethingawful.com/news/something-special/)
-* [Baba Sword](https://www.somethingawful.com/awful-links/awful-link-4329/)
-* [I Hate You Page 143](https://www.somethingawful.com/cliff-yablonski/i-hate-you-143/)
-* [Slipping The Surly Bonds](https://www.somethingawful.com/news/endeavour-shuttle-launch/)
+* [State Og Update: 09.18.04](https://www.somethingawful.com/state-og/state-og-update-83/)
+* [State Og Update: 06.14.03](https://www.somethingawful.com/state-og/state-og-update-28/)
+* [I Hate You Page 95](https://www.somethingawful.com/cliff-yablonski/i-hate-you-95/)
+* [State Og Update: 09.04.04](https://www.somethingawful.com/state-og/state-og-update-82/)
+* [Throw Me to the Lions](https://www.somethingawful.com/news/throw-me-lions/)
 
 [Random!](https://www.somethingawful.com/random/)
 
