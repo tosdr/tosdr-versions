@@ -2,14 +2,14 @@ Thursday, October 31 2024
 
 Breaking News
 
+* [President Joe Biden’s Schedule for Thursday, October 31, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-31-2024/)
+* [Chinese Student Accused Of Voting Illegally — And His Vote Will Reportedly Count](https://www.conservativedailynews.com/2024/10/chinese-student-accused-of-voting-illegally-and-his-vote-will-reportedly-count/)
+* [The Democrat Party’s Hypocritical Deliberate Hate Strategy](https://www.conservativedailynews.com/2024/10/the-democrat-partys-hypocritical-deliberate-hate-strategy/)
+* [Key Swing State Could See Repeat Of 2020’s Ballot-Counting Chaos Thanks To Court Ruling](https://www.conservativedailynews.com/2024/10/key-swing-state-could-see-repeat-of-2020s-ballot-counting-chaos-thanks-to-court-ruling/)
+* [Trump Claps Back At Biden’s ‘Garbage’ Jab, Hosts Press Conference From Garbage Truck |](https://www.conservativedailynews.com/2024/10/trump-claps-back-at-bidens-garbage-jab-hosts-press-conference-from-garbage-truck/)
+* [Republicans Outpacing Democrats In Early In-Person Voting In Blue State](https://www.conservativedailynews.com/2024/10/republicans-outpacing-democrats-in-early-in-person-voting-in-blue-state/)
+* [Biden Reportedly Struggling To Raise Enough Cash For Presidential Library](https://www.conservativedailynews.com/2024/10/biden-reportedly-struggling-to-raise-enough-cash-for-presidential-library/)
 * [Harris Will Reunite The Country, But First She Must Throw Out The Garbage](https://www.conservativedailynews.com/2024/10/harris-will-reunite-the-country-but-first-she-must-throw-out-the-garbage/)
-* [Republican Who Tanked Trump’s Chance To Net Extra Electoral College Vote Endorses Campaign To Deny GOP Senate Control](https://www.conservativedailynews.com/2024/10/republican-who-tanked-trumps-chance-to-net-extra-electoral-college-vote-endorses-campaign-to-deny-gop-senate-control/)
-* [Kamala Doesn’t Understand That The Presidency Is About Protecting The Liberties Of Citizens, Not About Dictating To Them](https://www.conservativedailynews.com/2024/10/kamala-doesnt-understand-that-the-presidency-is-about-protecting-the-liberties-of-citizens-not-about-dictating-to-them/)
-* [America In The Age Of Stupidity: This Election Boils Down To Real Vs Fake, Strong Vs. Weak](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-this-election-boils-down-to-real-vs-fake-strong-vs-weak/)
-* [Supreme Court Denies RFK Jr.’s Bid To Be Removed From Ballots In Two Key Swing States](https://www.conservativedailynews.com/2024/10/supreme-court-denies-rfk-jr-s-bid-to-be-removed-from-ballots-in-two-key-swing-states/)
-* [‘Ghost Guns’ Or Unchecked Agency Power?](https://www.conservativedailynews.com/2024/10/ghost-guns-or-unchecked-agency-power/)
-* [President Joe Biden’s Schedule for Wednesday, October 30, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-30-2024/)
-* [The Closing Argument Of A MAGA Supporter](https://www.conservativedailynews.com/2024/10/the-closing-argument-of-a-maga-supporter/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -115,72 +115,75 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
-* [![Kamala Harris division Trump is Hitler](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/new-york-voter-delivers-two-word-response-when-msnbc-asks-if-threat-to-democracy-attack-on-trump-resonates/)
-    
-    [New York Voter Delivers Two-Word Response When MSNBC Asks If ‘Threat To Democracy’ Attack On Trump Resonates](https://www.conservativedailynews.com/2024/10/new-york-voter-delivers-two-word-response-when-msnbc-asks-if-threat-to-democracy-attack-on-trump-resonates/)
-    
-    October 29, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Donald-Trump-Joe-Rogan-220x150.jpg)](https://www.conservativedailynews.com/2024/10/trump-reveals-why-he-didnt-declassify-jfk-assassination-files-in-interview-with-joe-rogan/)
-    
-    [Trump Reveals Why He Didn’t Declassify JFK Assassination Files In Interview With Joe Rogan](https://www.conservativedailynews.com/2024/10/trump-reveals-why-he-didnt-declassify-jfk-assassination-files-in-interview-with-joe-rogan/)
-    
-    October 27, 2024
-    
-
-Recent Posts
-
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/10/in-2024-dont-vote-for-the-empty-suit/)
-    
-    [In 2024, Don’t Vote for the Empty Suit](https://www.conservativedailynews.com/2024/10/in-2024-dont-vote-for-the-empty-suit/)
-    
-    October 31, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz103124dAPR-1-220x150.jpg)](https://www.conservativedailynews.com/2024/10/more-trick-than-treat/)
-    
-    [More Trick than Treat](https://www.conservativedailynews.com/2024/10/more-trick-than-treat/)
-    
-    October 31, 2024
-    
-* [![Joe Biden Trump supporters garbage](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg103124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/not-everyones-president/)
-    
-    [Not Everyone’s President](https://www.conservativedailynews.com/2024/10/not-everyones-president/)
-    
-    October 31, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5708-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/harris-will-reunite-the-country-but-first-she-must-throw-out-the-garbage/)
-    
-    [Harris Will Reunite The Country, But First She Must Throw Out The Garbage](https://www.conservativedailynews.com/2024/10/harris-will-reunite-the-country-but-first-she-must-throw-out-the-garbage/)
-    
-    October 30, 2024
-    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Child-shocked.png)](https://www.conservativedailynews.com/2024/10/republican-who-tanked-trumps-chance-to-net-extra-electoral-college-vote-endorses-campaign-to-deny-gop-senate-control/)
     
     [Republican Who Tanked Trump’s Chance To Net Extra Electoral College Vote Endorses Campaign To Deny GOP Senate Control](https://www.conservativedailynews.com/2024/10/republican-who-tanked-trumps-chance-to-net-extra-electoral-college-vote-endorses-campaign-to-deny-gop-senate-control/)
     
     October 30, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Screenshot_20241029_175926-220x150.jpg)](https://www.conservativedailynews.com/2024/10/kamala-doesnt-understand-that-the-presidency-is-about-protecting-the-liberties-of-citizens-not-about-dictating-to-them/)
+* [![Kamala Harris division Trump is Hitler](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/new-york-voter-delivers-two-word-response-when-msnbc-asks-if-threat-to-democracy-attack-on-trump-resonates/)
     
-    [Kamala Doesn’t Understand That The Presidency Is About Protecting The Liberties Of Citizens, Not About Dictating To Them](https://www.conservativedailynews.com/2024/10/kamala-doesnt-understand-that-the-presidency-is-about-protecting-the-liberties-of-citizens-not-about-dictating-to-them/)
+    [New York Voter Delivers Two-Word Response When MSNBC Asks If ‘Threat To Democracy’ Attack On Trump Resonates](https://www.conservativedailynews.com/2024/10/new-york-voter-delivers-two-word-response-when-msnbc-asks-if-threat-to-democracy-attack-on-trump-resonates/)
     
-    October 30, 2024
+    October 29, 2024
     
-* [![Kamala Harris avoiding Joe Biden](https://www.conservativedailynews.com/wp-content/uploads/2024/10/gv103024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/ewwww-that-smell/)
+
+Recent Posts
+
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/02/Depositphotos_321187310_S-220x150.jpg)](https://www.conservativedailynews.com/2024/10/tasty-ways-to-stretch-your-budget-with-thrifty-meals/)
     
-    [Ewwww That Smell…](https://www.conservativedailynews.com/2024/10/ewwww-that-smell/)
+    [Tasty Ways to Stretch Your Budget with Thrifty Meals](https://www.conservativedailynews.com/2024/10/tasty-ways-to-stretch-your-budget-with-thrifty-meals/)
     
-    October 30, 2024
+    October 31, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/10/the-final-argument/)
+* [![Biden Sleeping who running the country](https://www.conservativedailynews.com/wp-content/uploads/2024/08/06-runnincoun-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-31-2024/)
     
-    [The Final Argument](https://www.conservativedailynews.com/2024/10/the-final-argument/)
+    [President Joe Biden’s Schedule for Thursday, October 31, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-31-2024/)
     
-    October 30, 2024
+    October 31, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/12/caution-democrat-voter-fraud-ahead-corrupt-treasonous-democrats-hope-to-cheat-election-220x150.jpg)](https://www.conservativedailynews.com/2024/10/chinese-student-accused-of-voting-illegally-and-his-vote-will-reportedly-count/)
+    
+    [Chinese Student Accused Of Voting Illegally — And His Vote Will Reportedly Count](https://www.conservativedailynews.com/2024/10/chinese-student-accused-of-voting-illegally-and-his-vote-will-reportedly-count/)
+    
+    October 31, 2024
+    
+* [![Kamala Harris division Trump is Hitler](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-democrat-partys-hypocritical-deliberate-hate-strategy/)
+    
+    [The Democrat Party’s Hypocritical Deliberate Hate Strategy](https://www.conservativedailynews.com/2024/10/the-democrat-partys-hypocritical-deliberate-hate-strategy/)
+    
+    October 31, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/11/Counting-ballots-220x150.jpg)](https://www.conservativedailynews.com/2024/10/key-swing-state-could-see-repeat-of-2020s-ballot-counting-chaos-thanks-to-court-ruling/)
+    
+    [Key Swing State Could See Repeat Of 2020’s Ballot-Counting Chaos Thanks To Court Ruling](https://www.conservativedailynews.com/2024/10/key-swing-state-could-see-repeat-of-2020s-ballot-counting-chaos-thanks-to-court-ruling/)
+    
+    October 31, 2024
+    
+* [![Donald Trump Kamala Harris 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/10/08-trictreat-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/a-time-for-choosing-2/)
+    
+    [A Time For Choosing](https://www.conservativedailynews.com/2024/10/a-time-for-choosing-2/)
+    
+    October 31, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Donald-Trump-garbage-truck-press-conference-220x150.jpg)](https://www.conservativedailynews.com/2024/10/trump-claps-back-at-bidens-garbage-jab-hosts-press-conference-from-garbage-truck/)
+    
+    [Trump Claps Back At Biden’s ‘Garbage’ Jab, Hosts Press Conference From Garbage Truck |](https://www.conservativedailynews.com/2024/10/trump-claps-back-at-bidens-garbage-jab-hosts-press-conference-from-garbage-truck/)
+    
+    October 31, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/06/votehere-600-x-401.jpg)](https://www.conservativedailynews.com/2024/10/republicans-outpacing-democrats-in-early-in-person-voting-in-blue-state/)
+    
+    [Republicans Outpacing Democrats In Early In-Person Voting In Blue State](https://www.conservativedailynews.com/2024/10/republicans-outpacing-democrats-in-early-in-person-voting-in-blue-state/)
+    
+    October 31, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [SAF Celebrates 50 Years of Gun Rights Advocacy with Video Release](https://www.thegunpage.com/saf-celebrates-50-years-of-gun-rights-advocacy-with-video-release/10611583)
+* [FPC Challenges Texas Carry Bans](https://www.thegunpage.com/fpc-challenges-texas-carry-bans/10611579)
+* [Trump rewrites Biden's 'garbage' remarks](https://www.thegunpage.com/trump-rewrites-bidens-garbage-remarks/10611580)
 * [Media Portrays Dead Teen as Shooting Victim, Only to Learn He was the Aggressor](https://www.thegunpage.com/media-portrays-dead-teen-as-shooting-victim-only-to-learn-he-was-the-aggressor/10611577)
 * [Modern Technology Implemented To Surmount Logistical Hurdles: 1958 National Matches](https://www.thegunpage.com/modern-technology-implemented-to-surmount-logistical-hurdles-1958-national-matches/10611576)
 * [The Best Cheap AR-15](https://www.thegunpage.com/the-best-cheap-ar-15/10611566)
@@ -188,9 +191,6 @@ Recent Posts
 * [Wheelgun Wednesday: 18th-Century Flintlock Revolving Shotgun](https://www.thegunpage.com/wheelgun-wednesday-18th-century-flintlock-revolving-shotgun/10611568)
 * [D’oh! Some Airports on Pace to Break TSA Records on Catching Guns in Carry-Ons this Year](https://www.thegunpage.com/doh-some-airports-on-pace-to-break-tsa-records-on-catching-guns-in-carry-ons-this-year/10611562)
 * [Kamala Gets Desperate, Abandons Her “Campaign of Joy,” Goes All Out on Nazi Propaganda](https://www.thegunpage.com/kamala-gets-desperate-abandons-her-campaign-of-joy-goes-all-out-on-nazi-propaganda/10611561)
-* [LaserMax Introduces New GS-Max9-G Laser Sight for Ruger Max-9 Pistols](https://www.thegunpage.com/lasermax-introduces-new-gs-max9-g-laser-sight-for-ruger-max-9-pistols/10611564)
-* [The New DeSantis Pocket Partner Holster](https://www.thegunpage.com/the-new-desantis-pocket-partner-holster/10611559)
-* [Kung Fu Grip Review: Is It The Best Reduced Angle AR-15 Grip?](https://www.thegunpage.com/kung-fu-grip-review-is-it-the-best-reduced-angle-ar-15-grip/10611556)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
