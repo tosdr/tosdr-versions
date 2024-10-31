@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [With 5 Days to Go, More Americans Have Voted Early In-Person Than by Mail](https://www.theepochtimes.com/us/with-5-days-to-go-more-americans-have-voted-early-in-person-than-by-mail-5751365)
+* [Trump Gains Among Black Voters Could ‘Tip the Scales’ in His Favor: Poll Analysis](https://www.theepochtimes.com/us/trump-gains-among-black-voters-could-tip-the-scales-in-his-favor-poll-analysis-5751619)
     
     NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![With 5 Days to Go, More Americans Have Voted Early In-Person Than by Mail](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Gains Among Black Voters Could ‘Tip the Scales’ in His Favor: Poll Analysis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![With 5 Days to Go, More Americans Have Voted Early In-Person Than by Mail](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747994-Kamala-Harris-Donald-Trump-6-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/with-5-days-to-go-more-americans-have-voted-early-in-person-than-by-mail-5751365)
-* [Starbucks to Stop Charging Extra for Nondairy Milk, Beginning November](https://www.theepochtimes.com/business/starbucks-to-stop-charging-extra-for-nondairy-milk-beginning-november-5751233)
+    ![Trump Gains Among Black Voters Could ‘Tip the Scales’ in His Favor: Poll Analysis](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749144-Trump-Harris-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-gains-among-black-voters-could-tip-the-scales-in-his-favor-poll-analysis-5751619)
+* [Virginia Governor Says His State Is ‘Far More Competitive’ During 2024 Election](https://www.theepochtimes.com/us/virginia-governor-says-his-state-is-far-more-competitive-during-2024-election-5751519)
     
-    1hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Starbucks to Stop Charging Extra for Nondairy Milk, Beginning November](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Virginia Governor Says His State Is ‘Far More Competitive’ During 2024 Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Starbucks to Stop Charging Extra for Nondairy Milk, Beginning November](https://img.theepochtimes.com/assets/uploads/2022/04/1.tagreuters.com2022binary_LYNXNPEI330B4-FILEDIMAGE-205x123.jpg.webp)](https://www.theepochtimes.com/business/starbucks-to-stop-charging-extra-for-nondairy-milk-beginning-november-5751233)
-* [Mail Ballots Without Dates Must Be Counted: Pennsylvania Court](https://www.theepochtimes.com/us/mail-ballots-without-dates-must-be-counted-pennsylvania-court-5751289)
+    ![Virginia Governor Says His State Is ‘Far More Competitive’ During 2024 Election](https://img.theepochtimes.com/assets/uploads/2024/06/29/id5677686-Glenn-Youngkin-GettyImages-2159732410-205x123.jpg.webp)](https://www.theepochtimes.com/us/virginia-governor-says-his-state-is-far-more-competitive-during-2024-election-5751519)
+* [Key Takeaways From Vance’s 3-Hour Interview With Joe Rogan](https://www.theepochtimes.com/us/key-takeaways-from-vances-3-hour-interview-with-joe-rogan-5751539)
     
-    2hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    NEW By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![Mail Ballots Without Dates Must Be Counted: Pennsylvania Court](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Key Takeaways From Vance’s 3-Hour Interview With Joe Rogan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Mail Ballots Without Dates Must Be Counted: Pennsylvania Court](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5749537-Ballot-205x123.jpg.webp)](https://www.theepochtimes.com/us/mail-ballots-without-dates-must-be-counted-pennsylvania-court-5751289)
-* [Fed Inches Closer to 2 Percent Inflation Target in September PCE Report](https://www.theepochtimes.com/business/fed-inches-closer-to-2-percent-inflation-target-in-september-pce-report-5750785)
+    ![Key Takeaways From Vance’s 3-Hour Interview With Joe Rogan](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751712-JD-Vance-Joe-Rogan-205x123.jpg.webp)](https://www.theepochtimes.com/us/key-takeaways-from-vances-3-hour-interview-with-joe-rogan-5751539)
+* [California Court Cites Federal Cannabis Ban in Blocking State-Issued Grow Permit](https://www.theepochtimes.com/us/california-court-cites-federal-cannabis-ban-in-blocking-state-issued-grow-permit-5751507)
+    
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![California Court Cites Federal Cannabis Ban in Blocking State-Issued Grow Permit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![California Court Cites Federal Cannabis Ban in Blocking State-Issued Grow Permit](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751661-Marijuana-Cannabis-workers-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-court-cites-federal-cannabis-ban-in-blocking-state-issued-grow-permit-5751507)
+* [What Comes Next for the Yankees After World Series Loss?](https://www.theepochtimes.com/sports/what-comes-next-for-the-yankees-after-world-series-loss-5751415)
+    
+    2hr By [Tab Bamford](https://www.theepochtimes.com/author/tab-bamford)
+    
+    [![What Comes Next for the Yankees After World Series Loss?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![What Comes Next for the Yankees After World Series Loss?](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751431-GettyImages-2181624302-205x123.jpg.webp)](https://www.theepochtimes.com/sports/what-comes-next-for-the-yankees-after-world-series-loss-5751415)
+* [30-Year Mortgage Rate Edges Toward 7 Percent: Freddie Mac](https://www.theepochtimes.com/business/30-year-mortgage-rate-edges-toward-7-percent-freddie-mac-5751520)
     
     2hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![Fed Inches Closer to 2 Percent Inflation Target in September PCE Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![30-Year Mortgage Rate Edges Toward 7 Percent: Freddie Mac](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Fed Inches Closer to 2 Percent Inflation Target in September PCE Report](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739185-GettyImages-1537694096KO-205x123.jpg.webp)](https://www.theepochtimes.com/business/fed-inches-closer-to-2-percent-inflation-target-in-september-pce-report-5750785)
-* [Trump’s Potential Treasury Pick Vows Spending Cuts in Partnership With Musk](https://www.theepochtimes.com/business/trumps-potential-treasury-pick-vows-spending-cuts-in-partnership-with-musk-5751239)
+    ![30-Year Mortgage Rate Edges Toward 7 Percent: Freddie Mac](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731745-IMG_5598-sale-205x123.jpg.webp)](https://www.theepochtimes.com/business/30-year-mortgage-rate-edges-toward-7-percent-freddie-mac-5751520)
+* [WHO: Global Tuberculosis Cases Hit Highest Number Since Monitoring Began in 1995](https://www.theepochtimes.com/us/who-global-tuberculosis-cases-hit-highest-number-since-monitoring-began-in-1995-post-5751473)
     
-    4hr By [Mary Man](https://www.theepochtimes.com/author/mary-man)
+    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Trump’s Potential Treasury Pick Vows Spending Cuts in Partnership With Musk](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![WHO: Global Tuberculosis Cases Hit Highest Number Since Monitoring Began in 1995](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump’s Potential Treasury Pick Vows Spending Cuts in Partnership With Musk](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751330-John-Paulson-GettyImages-2172701134.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/trumps-potential-treasury-pick-vows-spending-cuts-in-partnership-with-musk-5751239)
-* [North Korea Launches ICBM in First Test in Nearly a Year](https://www.theepochtimes.com/world/north-korea-launches-icbm-in-first-test-in-nearly-a-year-5751210)
+    ![WHO: Global Tuberculosis Cases Hit Highest Number Since Monitoring Began in 1995](https://img.theepochtimes.com/assets/uploads/2016/01/20/1667722-205x123.jpg.webp)](https://www.theepochtimes.com/us/who-global-tuberculosis-cases-hit-highest-number-since-monitoring-began-in-1995-post-5751473)
+* [New National Polling Shows Trump Holds Slight Edge Over Harris Among Registered Voters](https://www.theepochtimes.com/us/new-national-polling-shows-trump-holds-slight-edge-over-harris-among-registered-voters-5751468)
     
-    5hr By [Stephen Katte](https://www.theepochtimes.com/author/stephen-katte)
+    3hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
     
-    [![North Korea Launches ICBM in First Test in Nearly a Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![New National Polling Shows Trump Holds Slight Edge Over Harris Among Registered Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![North Korea Launches ICBM in First Test in Nearly a Year](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750535-2024-10-30T095625Z_1_LYNXMPEK9T0CK_RTROPTP_4_NORTHKOREA-MISSILES-205x123.jpg.webp)](https://www.theepochtimes.com/world/north-korea-launches-icbm-in-first-test-in-nearly-a-year-5751210)
-* [US Government Invests Over $2.4 Billion in State Railroad, Bridge Improvements](https://www.theepochtimes.com/us/us-government-invests-over-2-4-billion-in-state-railroad-bridge-improvements-5750847)
+    ![New National Polling Shows Trump Holds Slight Edge Over Harris Among Registered Voters](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5749936-Kamala-Harris-Donald-Trump-8-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-national-polling-shows-trump-holds-slight-edge-over-harris-among-registered-voters-5751468)
+* [Georgia Man Pleads Guilty in Money Laundering Scheme Involving Mexican Drug Cartels](https://www.theepochtimes.com/china/georgia-man-pleads-guilty-in-money-laundering-scheme-involving-mexican-drug-cartels-5751475)
     
-    7hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    3hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
     
-    [![US Government Invests Over $2.4 Billion in State Railroad, Bridge Improvements](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Georgia Man Pleads Guilty in Money Laundering Scheme Involving Mexican Drug Cartels](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Government Invests Over $2.4 Billion in State Railroad, Bridge Improvements](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751332-AP24303694908480.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-government-invests-over-2-4-billion-in-state-railroad-bridge-improvements-5750847)
-* [High Gaza Death Toll Figures Generate Controversy](https://www.theepochtimes.com/world/high-gaza-death-toll-figures-generate-controversy-5749986)
+    ![Georgia Man Pleads Guilty in Money Laundering Scheme Involving Mexican Drug Cartels](https://img.theepochtimes.com/assets/uploads/2024/08/14/id5705621-07292024-DSC09128-DOJ-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/georgia-man-pleads-guilty-in-money-laundering-scheme-involving-mexican-drug-cartels-5751475)
+* [Vance Confirms Chinese Hackers Breached His Phone](https://www.theepochtimes.com/us/vance-confirms-chinese-hackers-breached-his-phone-5751523)
     
-    7hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    3hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
     
-    [![High Gaza Death Toll Figures Generate Controversy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Vance Confirms Chinese Hackers Breached His Phone](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![High Gaza Death Toll Figures Generate Controversy](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751331-gaza-.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/high-gaza-death-toll-figures-generate-controversy-5749986)
-* [Wave of New Performance Numbers Still Has Some Economists Unsure What’s Ahead for US Economy](https://www.theepochtimes.com/business/wave-of-new-performance-numbers-still-has-some-economists-unsure-whats-ahead-for-us-economy-5750868)
-    
-    11hr By [Mark Gilman](https://www.theepochtimes.com/author/mark-gilman)
-    
-    [![Wave of New Performance Numbers Still Has Some Economists Unsure What’s Ahead for US Economy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Wave of New Performance Numbers Still Has Some Economists Unsure What’s Ahead for US Economy](https://img.theepochtimes.com/assets/uploads/2024/05/10/id5647752-jobless-claim-AP21308456773930-1200x800-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/wave-of-new-performance-numbers-still-has-some-economists-unsure-whats-ahead-for-us-economy-5750868)
-* [Police Crack Down on Street Takeovers With High-Tech Surveillance as 4th Amendment Battles Loom](https://www.theepochtimes.com/us/police-crack-down-on-street-takeovers-with-high-tech-surveillance-as-4th-amendment-battles-loom-5749497)
-    
-    14hr By [Beige Luciano-Adams](https://www.theepochtimes.com/author/beige-luciano-adams)
-    
-    [![Police Crack Down on Street Takeovers With High-Tech Surveillance as 4th Amendment Battles Loom](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Police Crack Down on Street Takeovers With High-Tech Surveillance as 4th Amendment Battles Loom](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5751140-License-Plate-Reader-205x123.jpg.webp)](https://www.theepochtimes.com/us/police-crack-down-on-street-takeovers-with-high-tech-surveillance-as-4th-amendment-battles-loom-5749497)
+    ![Vance Confirms Chinese Hackers Breached His Phone](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738667-JD-Vance-5_JF_10092024-205x123.jpg.webp)](https://www.theepochtimes.com/us/vance-confirms-chinese-hackers-breached-his-phone-5751523)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
