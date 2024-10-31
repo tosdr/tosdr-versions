@@ -24,7 +24,7 @@ Popular Games
 Latest game news
 
 * [DEATH NOTES Killer Within coming to PlayStation and PC on November 5](https://en.bandainamcoent.eu/death-note/news/death-notes-killer-within-coming-playstation-and-pc-november-5)
-* [Sword Art Online Fractured Daydream – Weekly Anime Tie-In Codes and How to Redeem Them](https://en.bandainamcoent.eu/sword-art-online/news/sword-art-online-fractured-daydream-weekly-anime-tie-codes-and-how-redeem)
+* [Little Nightmares Goes Trick-or-Treating in the Candy Factory for Halloween](https://en.bandainamcoent.eu/little-nightmares/news/little-nightmares-goes-trick-or-treating-the-candy-factory-halloween)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
