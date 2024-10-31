@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/0a44722a-de4b-47ff-b96c-433c3d6cb6e4/20241030T224833/0a44722a-de4b-47ff-b96c-433c3d6cb6e4_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0a44722a-de4b-47ff-b96c-433c3d6cb6e4/20241030T224833/0a44722a-de4b-47ff-b96c-433c3d6cb6e4_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/faf5b6b8-7fee-4176-ae68-645e83891005/20241031T112520/faf5b6b8-7fee-4176-ae68-645e83891005_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/faf5b6b8-7fee-4176-ae68-645e83891005/20241031T112520/faf5b6b8-7fee-4176-ae68-645e83891005_360x203.jpg)](https://www.wqad.com/article/news/nation-world/spain-deadly-floods-search-begins/507-3b3159bb-0045-460d-82e4-4cae79b0dafe)
         
-        #### [Thunderstorms set to move in this evening.](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [At least 95 dead in worst natural disaster to hit Spain this century](https://www.wqad.com/article/news/nation-world/spain-deadly-floods-search-begins/507-3b3159bb-0045-460d-82e4-4cae79b0dafe)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/e8c19660-454e-4f07-b3e9-8206b0b87755/20241030T124229/e8c19660-454e-4f07-b3e9-8206b0b87755_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/e8c19660-454e-4f07-b3e9-8206b0b87755/20241030T124229/e8c19660-454e-4f07-b3e9-8206b0b87755_360x203.jpg)](https://www.wqad.com/article/news/nation-world/at-least-63-people-die-in-flash-floods-spain/507-2c918b06-6d9d-459b-95b9-0fa059096b55)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/8336e65b-66b4-4a93-bc9b-59aca38d68dc/20241031T122654/8336e65b-66b4-4a93-bc9b-59aca38d68dc_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8336e65b-66b4-4a93-bc9b-59aca38d68dc/20241031T122654/8336e65b-66b4-4a93-bc9b-59aca38d68dc_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [At least 72 people die in devastating flash floods in eastern Spain](https://www.wqad.com/article/news/nation-world/at-least-63-people-die-in-flash-floods-spain/507-2c918b06-6d9d-459b-95b9-0fa059096b55)
+        #### [Showers move out, windy and cooler temperature pattern move in](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-59°
+53°
 
-![Cloudy/Wind](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy/Wind](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
