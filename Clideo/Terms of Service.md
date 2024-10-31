@@ -33,7 +33,7 @@ Sign up
 Terms of Use
 ============
 
-Effective as of May 06, 2024
+Effective as of Oct 31, 2024
 
 Welcome to the Clideo Limited (the "Service"). The following Terms of Use apply when you view or use the Service located at: https://clideo.com. Please review the following terms carefully. By accessing or using the Service, you signify your agreement to these Terms of Use. If you do not agree to these Terms of Use, you may not access or use the Service.
 
@@ -174,6 +174,8 @@ _\*AI features subject to monitoring include those that heavily rely on GPU proc
 You agree not to bypass this use policy by any means, including, but not limited to creating multiple accounts, ordering multiple premium plans, or using a single premium plan on an enormous number of devices.
 
 Taking into account our processing capabilities, with a high degree of probability, you might never be subject to this acceptable use policy, but if in doubt, please contact the support team, describing your particular use case.
+
+Unlimited\* refers to providing services with usage conditions that ensure service stability and meet the needs of all users. This plan is structured to cover the needs of the vast majority of our clients, which allows us to confidently position it as "Unlimited". To achieve this, a daily usage limit is applied.
 
 Refunds
 -------
