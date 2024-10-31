@@ -236,7 +236,7 @@ Footer navigation
 * [Policies and Links](https://www.usda.gov/policies-and-links)
 * [Our Performance](https://www.usda.gov/our-agency/about-usda/performance)
 * [Careers](https://www.usda.gov/our-agency/careers)
-* [Report Fraud on USDA Contracts](https://usdaoig.oversight.gov/resources/contractor-fraud)
+* [Report Fraud, Waste, and Abuse in USDA Programs](https://usdaoig.oversight.gov/resources/hotline-information)
 * [Inspector General](https://usdaoig.oversight.gov/)
 * [Plain Language Writing in USDA](https://www.usda.gov/plain-writing)
 * [Open](https://www.usda.gov/open)
