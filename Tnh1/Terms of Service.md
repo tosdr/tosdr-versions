@@ -188,15 +188,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/e/csm_OPERACAO_SONEGACAO_FISCAL_ascom_ec6708694d.jpg)
-
-EM OITO ESTADOS
-
-EM OITO ESTADOS
-
-Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal
-
-Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal](https://www.tnh1.com.br/noticia/nid/notas-fiscais-falsas-e-prejuizo-milionario-empresas-sao-alvo-de-operacao-contra-sonegacao-fiscal/ "Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal")[![Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/a/csm_cruzados-encontrados-filhos-heranca-reproducao-TV-Anhanguera_b6443c5ab4.jpg)
+[![Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/a/csm_cruzados-encontrados-filhos-heranca-reproducao-TV-Anhanguera_b6443c5ab4.jpg)
 
 No Tocantins
 
@@ -204,15 +196,7 @@ No Tocantins
 
 Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai
 
-Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai](https://www.tnh1.com.br/noticia/nid/irmaos-encontram-heranca-de-32-milhoes-em-cruzados-apos-morte-do-pai/ "Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai")[![Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/e/csm_bebe-gigante-minas-gerais-arquivo-pessoal_f7ed6af6b9.jpg)
-
-Viralizou
-
-Viralizou
-
-Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho
-
-Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho](https://www.tnh1.com.br/noticia/nid/video-bebe-gigante-de-10-meses-impressiona-web-pelo-tamanho/ "Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho")[![Idosa de 107 anos desperta atenção por 'chifre' crescendo na testa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/a/csm_idosa-chifre-testa-destaque-reproducao_6ddb6140a7.jpg)
+Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai](https://www.tnh1.com.br/noticia/nid/irmaos-encontram-heranca-de-32-milhoes-em-cruzados-apos-morte-do-pai/ "Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai")[![Idosa de 107 anos desperta atenção por 'chifre' crescendo na testa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/a/csm_idosa-chifre-testa-destaque-reproducao_6ddb6140a7.jpg)
 
 Na China
 
@@ -220,41 +204,57 @@ Na China
 
 Idosa de 107 anos desperta atenção por 'chifre' crescendo na testa
 
-Idosa de 107 anos desperta atenção por 'chifre' crescendo na testa](https://www.tnh1.com.br/noticia/nid/idosa-de-107-anos-desperta-atencao-por-chifre-crescendo-na-testa/ "Idosa de 107 anos desperta atenção por 'chifre' crescendo na testa")
+Idosa de 107 anos desperta atenção por 'chifre' crescendo na testa](https://www.tnh1.com.br/noticia/nid/idosa-de-107-anos-desperta-atencao-por-chifre-crescendo-na-testa/ "Idosa de 107 anos desperta atenção por 'chifre' crescendo na testa")[![Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/e/csm_bebe-gigante-minas-gerais-arquivo-pessoal_f7ed6af6b9.jpg)
 
-[![Restaurante é criticado após chef exibir preparo de carne de R$ 700; assista ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/5/csm_restaurante-canadense-criticado-redes-sociais_16b991cbd9.jpg)
+Viralizou
 
-"cozinhou muito"
+Viralizou
 
-"cozinhou muito"
+Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho
 
-Restaurante é criticado após chef exibir preparo de carne de R$ 700; assista
+Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho](https://www.tnh1.com.br/noticia/nid/video-bebe-gigante-de-10-meses-impressiona-web-pelo-tamanho/ "Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho")[![Por que Rei Charles é instruído a não atender aos telefonemas de Harry](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/a/csm_charles-e-harry-1-reproducao_9a4a4ad096.jpg)
 
-Restaurante é criticado após chef exibir preparo de carne de R$ 700; assista](https://www.tnh1.com.br/noticia/nid/restaurante-e-criticado-apos-chef-exibir-preparo-de-carne-de-r-700-assista/ "Restaurante é criticado após chef exibir preparo de carne de R$ 700; assista ")[![Aprovado projeto de lei de prevenção a obesidade infatil](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/4/csm_Sessao_ALE_762e9f6270.jpeg)
+Família Real
 
-Política
+Família Real
 
-Política
+Por que Rei Charles é instruído a não atender aos telefonemas de Harry
 
-Aprovado projeto de lei de prevenção a obesidade infatil
+Por que Rei Charles é instruído a não atender aos telefonemas de Harry](https://www.tnh1.com.br/noticia/nid/por-que-rei-charles-e-instruido-a-nao-atender-aos-telefonemas-de-harry/ "Por que Rei Charles é instruído a não atender aos telefonemas de Harry")
 
-Aprovado projeto de lei de prevenção a obesidade infatil](https://www.tnh1.com.br/noticia/nid/aprovado-projeto-de-lei-de-prevencao-a-obesidade-infatil/ "Aprovado projeto de lei de prevenção a obesidade infatil")[![Veja o que falta para a polícia concluir inquérito sobre perseguição e morte de adolescentes em Colônia Leopoldina](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/3/csm_csm_adolescentes-mortos-perseguicao-reproducao-arquivo-pessoal_f95a84687a_6228830233.jpg)
+[![Rogério de Andrade é suspeito de ter ordenado morte de filho e genro de Castor de Andrade](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/a/csm_rogerio_de_andrade1-reproducao-redes-sociais_4683f45b13.jpg)
 
-Investigações
+bicheiro carioca
 
-Investigações
+bicheiro carioca
 
-Veja o que falta para a polícia concluir inquérito sobre perseguição e morte de adolescentes em Colônia Leopoldina
+Rogério de Andrade é suspeito de ter ordenado morte de filho e genro de Castor de Andrade
 
-Veja o que falta para a polícia concluir inquérito sobre perseguição e morte de adolescentes em Colônia Leopoldina](https://www.tnh1.com.br/noticia/nid/veja-o-que-falta-para-a-policia-concluir-inquerito-sobre-perseguicao-e-morte-de-adolescentes-em-colonia-leopoldina/ "Veja o que falta para a polícia concluir inquérito sobre perseguição e morte de adolescentes em Colônia Leopoldina")[![Técnico de enfermagem gravou estupros a pacientes inconscientes no PR](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/a/csm_Tecnico_de_enfermagem_gravou_estupros_a_pacientes_inconscientes_no_PR_-_foto_Divulgacao_PCPR_7245c7fbe3.jpg)
+Rogério de Andrade é suspeito de ter ordenado morte de filho e genro de Castor de Andrade](https://www.tnh1.com.br/noticia/nid/rogerio-de-andrade-e-suspeito-de-ter-ordenado-morte-de-filho-e-genro-de-castor-de-andrade/ "Rogério de Andrade é suspeito de ter ordenado morte de filho e genro de Castor de Andrade")[![Homem faz 'casa' em árvore em movimentada avenida de BH e é resgatado após seis horas ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/0/csm_homem-faz-casa-arvore-avenida-reproducao-Estado-de-Minas__1__bcfe42cc0b.jpg)
 
-Curitiba
+EM MG
 
-Curitiba
+EM MG
 
-Técnico de enfermagem gravou estupros a pacientes inconscientes no PR
+Homem faz 'casa' em árvore em movimentada avenida de BH e é resgatado após seis horas
 
-Técnico de enfermagem gravou estupros a pacientes inconscientes no PR](https://www.tnh1.com.br/noticia/nid/tecnico-de-enfermagem-gravou-estupros-a-pacientes-inconscientes-no-pr/ "Técnico de enfermagem gravou estupros a pacientes inconscientes no PR")
+Homem faz 'casa' em árvore em movimentada avenida de BH e é resgatado após seis horas](https://www.tnh1.com.br/noticia/nid/homem-faz-casa-em-arvore-em-movimentada-avenida-de-bh-e-e-resgatado-apos-seis-horas/ "Homem faz 'casa' em árvore em movimentada avenida de BH e é resgatado após seis horas ")[![Kate Middleton envia mensagem comovente para atriz que sobreviveu a câncer agressivo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/d/csm_kate-mensagem-cancer-reproducao_8b735e4ff6.jpg)
+
+estrela indiana
+
+estrela indiana
+
+Kate Middleton envia mensagem comovente para atriz que sobreviveu a câncer agressivo
+
+Kate Middleton envia mensagem comovente para atriz que sobreviveu a câncer agressivo](https://www.tnh1.com.br/noticia/nid/kate-middleton-envia-mensagem-comovente-para-atriz-que-sobreviveu-a-cancer-agressivo/ "Kate Middleton envia mensagem comovente para atriz que sobreviveu a câncer agressivo")[![Parto em casa é seguro? Veja possíveis riscos e cuidados necessários](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/e/csm_gisele-gravida-professor-luta-reproducao-redes-sociais_c1b7cd5936.png)
+
+local acolhedor
+
+local acolhedor
+
+Parto em casa é seguro? Veja possíveis riscos e cuidados necessários
+
+Parto em casa é seguro? Veja possíveis riscos e cuidados necessários](https://www.tnh1.com.br/noticia/nid/parto-em-casa-e-seguro-veja-possiveis-riscos-e-cuidados-necessarios/ "Parto em casa é seguro? Veja possíveis riscos e cuidados necessários")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
