@@ -85,23 +85,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 331 1
+0 342 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/cerberus-walnut-and-wendell-european-mythology-and-etc-created-by-mofu-gays/)
+[](https://yiff-party.com/yiff/fennix-epic-games-and-etc-created-by-i-luv-breadowo/)
 
-[cerberus, walnut, and wendell (european mythology and etc) created by mofu gays](https://yiff-party.com/yiff/cerberus-walnut-and-wendell-european-mythology-and-etc-created-by-mofu-gays/)
+[fennix (epic games and etc) created by i luv breadowo](https://yiff-party.com/yiff/fennix-epic-games-and-etc-created-by-i-luv-breadowo/)
 
-0 126 0
+0 60 0
 
 October 1, 2024
 
-[](https://yiff-party.com/yiff/netflix-created-by-mewgle/)
+[](https://yiff-party.com/yiff/halloween-and-etc-created-by-gudlmok99/)
 
-[netflix created by mewgle](https://yiff-party.com/yiff/netflix-created-by-mewgle/)
+[halloween and etc created by gudlmok99](https://yiff-party.com/yiff/halloween-and-etc-created-by-gudlmok99/)
 
-0 2 0
+0 1 0
 
 October 31, 2024
 
