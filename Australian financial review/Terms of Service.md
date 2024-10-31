@@ -308,9 +308,8 @@ Advertise
 
 [![Netflix co-CEO Greg Peters spent months with an executive coach to train him to co-lead the world’s biggest entertainment company.](https://static.ffx.io/images/$zoom_0.7646%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1284%2C$y_215/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6dd8ee855290ab0e8f37888fa40cb4c217207ea6)](https://www.afr.com/companies/media-and-marketing/netflix-s-co-ceo-says-its-impossible-to-run-the-500b-giant-alone-20241014-p5ki1v)
 
-### [Netflix’s co-CEO says its ‘impossible’ to run the $500b giant alone](https://www.afr.com/companies/media-and-marketing/netflix-s-co-ceo-says-its-impossible-to-run-the-500b-giant-alone-20241014-p5ki1v)
+### [Netflix’s co-CEO says it’s ‘impossible’ to run the $500b giant alone](https://www.afr.com/companies/media-and-marketing/netflix-s-co-ceo-says-its-impossible-to-run-the-500b-giant-alone-20241014-p5ki1v)
 
-* 56 mins ago
 * Sam Buckingham-Jones
 
 * ### [Inside the contest to succeed Ken MacKenzie at the top of BHP](https://www.afr.com/companies/mining/inside-the-contest-to-succeed-ken-mackenzie-at-the-top-of-bhp-20241028-p5klzv)
@@ -325,7 +324,6 @@ Advertise
 
 ### [Ever heard of a beer farm? This paddock-to-pint brewery is onto something](https://www.afr.com/life-and-luxury/food-and-wine/ever-heard-of-a-beer-farm-this-paddock-to-pint-brewery-is-onto-something-20241023-p5kkrk)
 
-* 56 mins ago
 * Max Allen
 
 * ### [Mahjong is finding favour with a new generation](https://www.afr.com/life-and-luxury/health-and-wellness/mahjong-is-finding-favour-with-a-new-generation-20241022-p5kk7y)
