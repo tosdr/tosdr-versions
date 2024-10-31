@@ -82,7 +82,7 @@ Main Navigation[Zurück](#)
 
 1. [Lidl PlusÖffnen](https://www.lidl.de/c/lidl-plus/s10007388)
 2. [Wie funktioniert Lidl Plus](https://www.lidl.de/c/wie-funktioniert-lidl-plus/s10011363)
-3. [Lidl Babyboxen](https://www.lidl.de/c/lidl-babyboxen/s10011221)
+3. [Lidl Junge Familie](https://www.lidl.de/c/lidl-junge-familie/s10011221)
 4. [Service & Hilfe](https://kundenservice.lidl.de/SelfServiceDE/s/)
 
 1. [ThemenweltenÖffnen](https://www.lidl.de/c/themenwelten/s10007142)
