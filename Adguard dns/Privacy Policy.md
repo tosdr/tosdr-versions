@@ -364,7 +364,7 @@ We may change this Privacy Policy from time to time and inform you of the import
 
 Other documents:
 
-[Data Processing Agreement](https://adguard-dns.io/en/data-processing-agreement.html) [EULA](https://adguard-dns.io/en/eula.html) [Privacy policy of AdGuard websites](https://adguard.com/website-privacy.html) [Terms and conditions](https://adguard.com/terms-and-conditions.html) [Terms of sale](https://adguard-dns.io/en/terms-of-sale.html)
+[Data Processing Agreement](https://adguard.com/data-processing-agreement.html) [EULA](https://adguard-dns.io/en/eula.html) [Privacy policy of AdGuard websites](https://adguard.com/website-privacy.html) [Terms and conditions](https://adguard.com/terms-and-conditions.html) [Terms of sale](https://adguard-dns.io/en/terms-of-sale.html)
 
 © 2016–2024 AdGuard DNS
 
