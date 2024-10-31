@@ -173,7 +173,7 @@ New York, NY 10017
 
 [Download](https://copilot.money/download)
 
-For Mac and iPhone
+For Mac, iPhone, and iPad
 
 [##### Developer Spotlight
 
