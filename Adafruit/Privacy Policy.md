@@ -75,6 +75,10 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Angled shot of rectangular breakout board with green, 4-pin terminal blocks.](https://cdn-shop.adafruit.com/230x173/6066-00.jpg)[Adafruit Pixel Shifter - For Addressable LEDs
+    
+    $4.50](https://www.adafruit.com/product/6066)
+    
     ![Angled shot of unplugged soldering iron.](https://cdn-shop.adafruit.com/230x173/6045-08.jpg)[iFixit FixHub - Power Series Smart Soldering Iron
     
     $79.95](https://www.adafruit.com/product/6045)
@@ -86,10 +90,6 @@ Search
     ![Angled shot of rectangular breakout board with three 2-pin terminal blocks.](https://cdn-shop.adafruit.com/230x173/6062-00.jpg)[Adafruit INA3221 - Triple 0-26 VDC, ±3.2 Amp Power Monitor
     
     $10.95](https://www.adafruit.com/product/6062)
-    
-    ![Overhead shot of barrel-jack-to-USB-C-socket right angle adapter, showing 19.5V.](https://cdn-shop.adafruit.com/230x173/6033-05.jpg)[USB Type C PD to 5.5mm/2.1mm Barrel Jack Adapter - 20V
-    
-    $2.25](https://www.adafruit.com/product/6033)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Prepare for what is difficult when it is easy”
+“ Anything not saved will be lost”
 
-[Lao Tzu](https://en.wikipedia.org/wiki/Laozi)
+[Nintendo Wii 'Quit Screen'](https://en.wikipedia.org/wiki/Everything_Not_Saved_Will_Be_Lost_%E2%80%93_Part_1#Album_artwork_and_title)
 
 [](https://www.adafruit.com/about)
 
