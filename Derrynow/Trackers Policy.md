@@ -280,12 +280,12 @@ Most Popular
 [PICTURES: Irish car enthusiasts on alert as rare classic and sports cars going to auction](https://www.derrynow.com/news/national-news/1643054/pictures-irish-car-enthusiasts-on-alert-as-rare-classic-and-sports-cars-going-to-auction.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1641960/derry-death-notices-wednesday-october-30-2024.html)
+[![Man arrested in connection with sexual assault in Derry released on bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in connection with sexual assault in Derry released on bail")](https://www.derrynow.com/news/local-news/1643617/man-arrested-in-connection-with-sexual-assault-in-derry-released-on-bail.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Death Notices - Wednesday, October 30 2024](https://www.derrynow.com/news/deaths/1641960/derry-death-notices-wednesday-october-30-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------------
+[Man arrested in connection with sexual assault in Derry released on bail](https://www.derrynow.com/news/local-news/1643617/man-arrested-in-connection-with-sexual-assault-in-derry-released-on-bail.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man admits theft of cigarettes valued at more than £8,000](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man admits theft of cigarettes valued at more than £8,000")](https://www.derrynow.com/news/crime---courts/1643005/derry-man-admits-theft-of-cigarettes-valued-at-more-than-8-000.html)
 
@@ -294,12 +294,12 @@ Most Popular
 [Derry man admits theft of cigarettes valued at more than £8,000](https://www.derrynow.com/news/crime---courts/1643005/derry-man-admits-theft-of-cigarettes-valued-at-more-than-8-000.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man arrested in connection with sexual assault in Derry released on bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in connection with sexual assault in Derry released on bail")](https://www.derrynow.com/news/local-news/1643617/man-arrested-in-connection-with-sexual-assault-in-derry-released-on-bail.html)
+[![Man (31) arrested and £34,000 drugs and illegal fireworks seized in Derry search](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (31) arrested and £34,000 drugs and illegal fireworks seized in Derry search")](https://www.derrynow.com/news/local-news/1643662/man-31-arrested-and-34-000-drugs-and-illegal-fireworks-seized-in-derry-search.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man arrested in connection with sexual assault in Derry released on bail](https://www.derrynow.com/news/local-news/1643617/man-arrested-in-connection-with-sexual-assault-in-derry-released-on-bail.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man (31) arrested and £34,000 drugs and illegal fireworks seized in Derry search](https://www.derrynow.com/news/local-news/1643662/man-31-arrested-and-34-000-drugs-and-illegal-fireworks-seized-in-derry-search.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man admits theft of clothing from Derry store](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man admits theft of clothing from Derry store")](https://www.derrynow.com/news/crime---courts/1643004/man-admits-theft-of-clothing-from-derry-store.html)
 
@@ -307,13 +307,6 @@ Most Popular
 
 [Man admits theft of clothing from Derry store](https://www.derrynow.com/news/crime---courts/1643004/man-admits-theft-of-clothing-from-derry-store.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man (31) arrested and £34,000 drugs and illegal fireworks seized in Derry search](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (31) arrested and £34,000 drugs and illegal fireworks seized in Derry search")](https://www.derrynow.com/news/local-news/1643662/man-31-arrested-and-34-000-drugs-and-illegal-fireworks-seized-in-derry-search.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man (31) arrested and £34,000 drugs and illegal fireworks seized in Derry search](https://www.derrynow.com/news/local-news/1643662/man-31-arrested-and-34-000-drugs-and-illegal-fireworks-seized-in-derry-search.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![County Derry man (57) convicted of sexually assaulting two women while on his Christmas work night out](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man (57) convicted of sexually assaulting two women while on his Christmas work night out")](https://www.derrynow.com/news/home/1643609/county-derry-man-57-convicted-of-sexually-assaulting-two-women-while-on-his-christmas-work-night-out.html)
 
@@ -330,6 +323,13 @@ The incident happened in Limavady last December.
 
 [Derry principal calls on minister to protect “the joy of childhood” – away from mobile phones](https://www.derrynow.com/news/local-news/1642485/derry-principal-calls-on-ministerto-protect-the-joy-of-childhood-away-from-mobile-phones.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Concerns over police credibility cause Derry man's conviction to be referred to Court of Appeal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Concerns over police credibility cause Derry man's conviction to be referred to Court of Appeal")](https://www.derrynow.com/news/crime---courts/1643517/concerns-over-police-credibility-cause-derry-man-s-conviction-to-be-referred-to-court-of-appeal.html)
+
+[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
+
+[Concerns over police credibility cause Derry man's conviction to be referred to Court of Appeal](https://www.derrynow.com/news/crime---courts/1643517/concerns-over-police-credibility-cause-derry-man-s-conviction-to-be-referred-to-court-of-appeal.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -507,6 +507,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1643521/derry-death-notices-thursday-october-31-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Thursday, October 31, 2024](https://www.derrynow.com/news/deaths/1643521/derry-death-notices-thursday-october-31-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Renowned Derry artist to lead Belfast TradFest St Patrick's Day 2025](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Renowned Derry artist to lead Belfast TradFest St Patrick's Day 2025")](https://www.derrynow.com/news/arts---entertainment/1643166/renowned-derry-artist-to-lead-belfast-tradfest-st-patrick-s-day-2025.html)
 
 [Arts & Entertainment](https://www.derrynow.com/section/2211/arts-entertainment)
@@ -514,7 +521,7 @@ Advertise with Us
 [Renowned Derry artist to lead Belfast TradFest St Patrick's Day 2025](https://www.derrynow.com/news/arts---entertainment/1643166/renowned-derry-artist-to-lead-belfast-tradfest-st-patrick-s-day-2025.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Greysteel Massacre 31 years ago](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Greysteel Massacre 31 years ago")](https://www.derrynow.com/news/county-derry-post/1643326/trick-or-treat-social-media-image-described-as-disgraceful-in-the-lead-up-to-greysteel-massacre-anniversary.html)
+[![Greysteel Massacre 31 years ago](https://www.derrynow.com/resizer/165/93/true/2023_10_30/_70787360_greysteel_massacre_1993_3-1698668204117.jpg--.jpg?1698668204137 "Greysteel Massacre 31 years ago")](https://www.derrynow.com/news/county-derry-post/1643326/trick-or-treat-social-media-image-described-as-disgraceful-in-the-lead-up-to-greysteel-massacre-anniversary.html)
 
 Greysteel Massacre 31 years ago
 
@@ -545,13 +552,6 @@ The incident happened in Limavady last December.
 
 [Féile Derry's 'Scary Derry' publishes work of award-winning pupils](https://www.derrynow.com/news/local-news/1643266/feile-derry-s-scary-derry-publishes-work-of-award-winning-pupils.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man arrested in connection with sexual assault in Derry released on bail](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Man arrested in connection with sexual assault in Derry released on bail")](https://www.derrynow.com/news/local-news/1643617/man-arrested-in-connection-with-sexual-assault-in-derry-released-on-bail.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man arrested in connection with sexual assault in Derry released on bail](https://www.derrynow.com/news/local-news/1643617/man-arrested-in-connection-with-sexual-assault-in-derry-released-on-bail.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
