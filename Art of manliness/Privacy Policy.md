@@ -131,6 +131,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [Bro Splits: Are They Right For You?](https://www.artofmanliness.com/health-fitness/fitness/bro-splits/)
 
+[![Four of the best protein bars—Peak Protein, David Protein Bar, MET-Rx, and KIND Protein—are artfully displayed against a neutral background, showcasing their appeal as top choices for protein supplements.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/the-4-best-protein-bars/)
+
+[The 4 Best Protein Bars](https://www.artofmanliness.com/health-fitness/the-4-best-protein-bars/)
+
 [![Skeleton in a relaxed pose sitting at a cluttered desk with fast food waste, symbolizing excessive screen time and neglect of health, as discussed in Podcast #941: Avoid Death by Comfort.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-941-how-to-avoid-death-by-comfort/)
 
 [Podcast #941: How to Avoid Death by Comfort](https://www.artofmanliness.com/health-fitness/health/podcast-941-how-to-avoid-death-by-comfort/)
@@ -142,10 +146,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![A hand holds a scoop of protein powder, hovering above an open blue container, with a hint of creatine ready to boost your workout mix.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-1024-the-safe-effective-supplement-that-can-improve-your-body-and-brain/)
 
 [Podcast #1,024: The Safe, Effective Supplement That Can Improve Your Body and Brain](https://www.artofmanliness.com/health-fitness/health/podcast-1024-the-safe-effective-supplement-that-can-improve-your-body-and-brain/)
-
-[![Chalk drawing of a human head with a clock face inside, surrounded by arrows, a crescent moon, and a sun on a black background, symbolizing circadian rhythm and its role in health and better sleep.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-1016-unlock-better-sleep-and-health-by-harnessing-your-circadian-rhythm/)
-
-[Podcast #1,016: Unlock Better Sleep and Health by Harnessing Your Circadian Rhythm](https://www.artofmanliness.com/health-fitness/health/podcast-1016-unlock-better-sleep-and-health-by-harnessing-your-circadian-rhythm/)
 
 [![A group of men in swim trunks standing in a line participate in History's Hardest P.E. Program.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/program-review/the-insanely-difficult-standards-of-historys-hardest-p-e-program/)
 
