@@ -788,6 +788,7 @@ If you feel that we are not abiding by this privacy policy, or if you would like
         * [USA Wide Moving](https://www.roadwaymoving.com/long-distance-movers/)
     * West Coast Moving
         * [Los Angeles](https://www.roadwaymoving.com/locations/california/los-angeles/)
+        * [Northridge](https://www.roadwaymoving.com/locations/california/los-angeles/northridge/)
         * [Beverly Hills](https://www.roadwaymoving.com/locations/california/los-angeles/beverly-hills/)
         * [Santa Monica](https://www.roadwaymoving.com/locations/california/los-angeles/santa-monica/)
         * [Malibu](https://www.roadwaymoving.com/locations/california/los-angeles/malibu/)
@@ -858,10 +859,10 @@ If you feel that we are not abiding by this privacy policy, or if you would like
         * [Moving 101](https://www.roadwaymoving.com/moving-101/)
         * [Tipping Guide](https://www.roadwaymoving.com/tipping-guide/)
         * [Moving FAQ](https://www.roadwaymoving.com/moving-faq/)
-        * [Blog](https://www.roadwaymoving.com/blog/)
-        * [Video](https://www.roadwaymoving.com/video/)
     * Media
+        * [Blog](https://www.roadwaymoving.com/blog/)
         * [Press and News](https://www.roadwaymoving.com/news-press/)
+        * [Video](https://www.roadwaymoving.com/video/)
     * Community
         * [Roadway Gives Back](https://www.roadwaymoving.com/community/)
         * [Events](https://www.roadwaymoving.com/events/)
