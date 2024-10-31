@@ -326,7 +326,7 @@ Search![X icon](https://www.yubico.com/wp-content/themes/yubicool/img/icons/clos
     
     THE TERMS AND CONDITIONS OF THIS SALES AND LICENSE AGREEMENT AND THE YUBICO ORDERING DOCUMENT YOU EXECUTED OR AGREED TO (“ORDER FORM”) (THIS SALES AND LICENSE AGREEMENT AND THE ORDER FORM, COLLECTIVELY THE “AGREEMENT”) ARE AN AGREEMENT BETWEEN YOU AND YUBICO AND GOVERN YOUR USAGE OF PRODUCTS UNLESS YOU AND YUBICO HAVE EXECUTED A SEPARATE WRITTEN AGREEMENT GOVERNING YOUR USE OF PRODUCTS
     
-    “YUBICO” MEANS: YUBICO, INC., 5201 GREAT AMERICA PARKWAY, SUITE 122, SANTA CLARA, CA 95054, U.S.A. IF YOU ARE ACQUIRING THE PRODUCTS IN THE AMERICAS; AND YUBICO AB, KUNGSGATAN 44 2ND FLOOR. 111 35 STOCKHOLM, SWEDEN, IF YOU ARE ACQUIRING THE PRODUCTS OUTSIDE OF THE AMERICAS. REFERENCES HEREIN TO THE “PARTIES” OR A “PARTY” SHALL MEAN YOU AND YUBICO, AS APPLICABLE.
+    “YUBICO” MEANS: YUBICO, INC., 5201 GREAT AMERICA PARKWAY, SUITE 122, SANTA CLARA, CA 95054, U.S.A. IF YOU ARE ACQUIRING THE PRODUCTS IN THE AMERICAS; AND YUBICO AB, GAVLEGATAN 22 113 30 STOCKHOLM, SWEDEN, IF YOU ARE ACQUIRING THE PRODUCTS OUTSIDE OF THE AMERICAS. REFERENCES HEREIN TO THE “PARTIES” OR A “PARTY” SHALL MEAN YOU AND YUBICO, AS APPLICABLE.
     
     This is a legally binding agreement between you and Yubico. By using Products or clicking “Agree”, as applicable, you are stating that you fully understand, agree to be bound by and accept all the terms and conditions of this Agreement. If you are accepting this Agreement on behalf of a company, you represent that you are authorized to do so. If you purchased Products as a private person (“Consumer Purchaser”) directly from Yubico’s online webstore and do not accept the terms of this Agreement, then you may not use the Products, and you may return such unused Products to Yubico, at your expense, within 30 days of the date of delivery (with the Order Form and all original unopened packaging and documentation) for a full refund of the purchase price. If you are a Consumer Purchaser that purchased from other third-party vendors, including retail stores, please contact those vendors directly for more information about their refund policies.
     
@@ -422,7 +422,7 @@ Search![X icon](https://www.yubico.com/wp-content/themes/yubicool/img/icons/clos
     Your responsibility to pay any AAA filing, administrative and arbitrator fees will be solely as set forth in the AAA Rules. However, if your claim for damages does not exceed $75,000, Yubico will pay all such fees unless the arbitrator finds that either the substance of your claim or the relief sought in your Demand for Arbitration was frivolous or was brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)).
     
 
-[![Yubico Text Logo](https://www.yubico.com//wp-content/themes/yubicool/img/logos/logo.svg)](https://www.yubico.com/)
+[![Yubico Text Logo](https://www.yubico.com/wp-content/themes/yubicool/img/logos/logo.svg)](https://www.yubico.com/)
 
 * [RSS](https://www.yubico.com/rss/)
 * [X](https://x.com/Yubico)
