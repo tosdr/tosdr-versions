@@ -549,7 +549,7 @@ Footer (ERC)
 * Why ERC
     * [Comprehensive Care](https://www.eatingrecoverycenter.com/eating-disorder-therapy)
     * [Stories of Hope](https://www.eatingrecoverycenter.com/alumni/success-stories)
-    * [Research & Publications](https://www.eatingrecoverycenter.com/research-publications)
+    * [Research & Publications](https://www.eatingrecoverycenter.com/research)
 * Resources
     * [FAQs](https://www.eatingrecoverycenter.com/frequently-asked-questions)
     * [Podcasts](https://www.eatingrecoverycenter.com/mental-note-podcast)
