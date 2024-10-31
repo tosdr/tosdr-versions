@@ -132,17 +132,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Product Updates
+[Salesforce
 
-What’s New In Own: Release Highlights For Q3 ‘24](https://www.ownbackup.com/blog/whats-new-in-own-release-highlights-for-q3-24)
+How Often Does Salesforce Back Up My Data?](https://www.ownbackup.com/blog/how-often-does-salesforce-back-up-my-data)
 
-[Compliance
+[Salesforce
 
-Ensuring Compliance: Manage ‘Right to Be Forgotten’ Requests Across All Salesforce Data Storage Locations](https://www.ownbackup.com/blog/ensuring-compliance-manage-right-to-be-forgotten-requests-across-all-salesforce-data-storage-locations)
+Who Is Responsible for Backing Up Salesforce Data?](https://www.ownbackup.com/blog/who-is-responsible-for-backing-up-salesforce-data)
 
-[Compliance
+[Salesforce
 
-NYDFS Emphasizes Data Protection and Business Continuity in Updated 23 NYCRR 500 Cybersecurity Regulation](https://www.ownbackup.com/blog/23-nycrr-500-regulation)
+How Do I Recover Lost Data in Salesforce?](https://www.ownbackup.com/blog/how-do-i-recover-lost-data-in-salesforce)
 
 Company
 
@@ -360,17 +360,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Product Updates
+[Salesforce
 
-What’s New In Own: Release Highlights For Q3 ‘24](https://www.ownbackup.com/blog/whats-new-in-own-release-highlights-for-q3-24)
+How Often Does Salesforce Back Up My Data?](https://www.ownbackup.com/blog/how-often-does-salesforce-back-up-my-data)
 
-[Compliance
+[Salesforce
 
-Ensuring Compliance: Manage ‘Right to Be Forgotten’ Requests Across All Salesforce Data Storage Locations](https://www.ownbackup.com/blog/ensuring-compliance-manage-right-to-be-forgotten-requests-across-all-salesforce-data-storage-locations)
+Who Is Responsible for Backing Up Salesforce Data?](https://www.ownbackup.com/blog/who-is-responsible-for-backing-up-salesforce-data)
 
-[Compliance
+[Salesforce
 
-NYDFS Emphasizes Data Protection and Business Continuity in Updated 23 NYCRR 500 Cybersecurity Regulation](https://www.ownbackup.com/blog/23-nycrr-500-regulation)
+How Do I Recover Lost Data in Salesforce?](https://www.ownbackup.com/blog/how-do-i-recover-lost-data-in-salesforce)
 
 Company
 
