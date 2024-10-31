@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/laat-je-verleden-achter-je/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/de-legende-van-de-13-kristallen-schedels/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
