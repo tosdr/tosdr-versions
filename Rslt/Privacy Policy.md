@@ -4,55 +4,25 @@
 
 ![](https://rslt.io/wp-content/uploads/2021/06/rslt_white_logo.svg)](https://rslt.io/homepage)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20200'%3E%3C/svg%3E)
-
-![](https://rslt.io/wp-content/uploads/2021/06/rslt_white_logo.svg)](https://rslt.io/homepage)
-
-* [Solutions](#)
+* Solutions
+    
+    Close Solutions Open Solutions
+    
     * [rslt tv](https://rslt.io/rslt-tv/)
     * [rslt podcast](https://rslt.io/rslt-podcast/)
     * [rslt mmm](https://rslt.io/rslt-mmm/)
     * [rslt mta](https://rslt.io/rslt-mta/)
+    
 * [Insights](https://rslt.io/insights/)
+    
 * [About](https://rslt.io/about/)
+    
 * [FAQ](https://rslt.io/faq/)
+    
 * [Contact Us](https://rslt.io/contact-us/)
-
-Menu
-
-* [Solutions](#)
-    * [rslt tv](https://rslt.io/rslt-tv/)
-    * [rslt podcast](https://rslt.io/rslt-podcast/)
-    * [rslt mmm](https://rslt.io/rslt-mmm/)
-    * [rslt mta](https://rslt.io/rslt-mta/)
-* [Insights](https://rslt.io/insights/)
-* [About](https://rslt.io/about/)
-* [FAQ](https://rslt.io/faq/)
-* [Contact Us](https://rslt.io/contact-us/)
-
-* [Solutions](#)
-    * [rslt tv](https://rslt.io/rslt-tv/)
-    * [rslt podcast](https://rslt.io/rslt-podcast/)
-    * [rslt mmm](https://rslt.io/rslt-mmm/)
-    * [rslt mta](https://rslt.io/rslt-mta/)
-* [Insights](https://rslt.io/insights/)
-* [About](https://rslt.io/about/)
-* [FAQ](https://rslt.io/faq/)
-* [Contact Us](https://rslt.io/contact-us/)
+    
 * [Book a Demo](https://rslt.io/book-a-demo/)
-
-Menu
-
-* [Solutions](#)
-    * [rslt tv](https://rslt.io/rslt-tv/)
-    * [rslt podcast](https://rslt.io/rslt-podcast/)
-    * [rslt mmm](https://rslt.io/rslt-mmm/)
-    * [rslt mta](https://rslt.io/rslt-mta/)
-* [Insights](https://rslt.io/insights/)
-* [About](https://rslt.io/about/)
-* [FAQ](https://rslt.io/faq/)
-* [Contact Us](https://rslt.io/contact-us/)
-* [Book a Demo](https://rslt.io/book-a-demo/)
+    
 
 [Book a Demo](https://rslt.io/book-a-demo)
 
