@@ -402,6 +402,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Street celebrations break out after Dodgers World Series win](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/downtownladodgerslongbeach.jpg?ve=1&tl=1)
+
+ ![Street celebrations break out after Dodgers World Series win](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/downtownladodgerslongbeach.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dodgers-yankees-world-series-game-5)
+
+### [Street celebrations break out after Dodgers World Series win](https://www.fox4news.com/news/dodgers-yankees-world-series-game-5)
+
+ [![Newly-formed appeals court hears arguments for release of Uvalde school shooting state records](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/06/32/18/Uvalde-memorial-at-school.jpg?ve=1&tl=1)
+
+ ![Newly-formed appeals court hears arguments for release of Uvalde school shooting state records](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/06/32/18/592/333/Uvalde-memorial-at-school.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-15th-court-of-appeals-oct-30-hearing-uvalde-texas-school-shooting-state-documents)
+
+### [Newly-formed appeals court hears arguments for release of Uvalde school shooting state records](https://www.fox4news.com/news/texas-15th-court-of-appeals-oct-30-hearing-uvalde-texas-school-shooting-state-documents)
+
+ [![Mesquite teacher accused of grooming student, 14, spending the night with her at school](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/10302024-rr-pkg-david-mesquite-isd-teacher-arreste_00.00.04.42.jpg?ve=1&tl=1)
+
+ ![Mesquite teacher accused of grooming student, 14, spending the night with her at school](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/10302024-rr-pkg-david-mesquite-isd-teacher-arreste_00.00.04.42.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sergio-gonzalez-child-grooming-arrest-a-c-new-middle-school-teacher-mesquite-isd)
+
+### [Mesquite teacher accused of grooming student, 14, spending the night with her at school](https://www.fox4news.com/news/sergio-gonzalez-child-grooming-arrest-a-c-new-middle-school-teacher-mesquite-isd)
+
  [![Federal government offering grants to U.S. businesses in effort to reshore manufacturing](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-boyer-cornyn-texas-technology-investments_00.00.46.26.jpg?ve=1&tl=1)
 
  ![Federal government offering grants to U.S. businesses in effort to reshore manufacturing](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-boyer-cornyn-texas-technology-investments_00.00.46.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/federal-government-offering-grants-u-s-businesses-effort-reshore-manufacturing)
@@ -413,24 +431,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Woman jumped into Niagara Falls with 2 kids, police say](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2179264504.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/niagara-falls-mother-children-tragedy)
 
 ### [Woman jumped into Niagara Falls with 2 kids, police say](https://www.fox4news.com/news/niagara-falls-mother-children-tragedy)
-
- [![Trackdown: Help find the Fort Worth Dutch Bros armed robber](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-rabb-trackdown-dutch-bros-robbery-530p_00.00.41.16.jpg?ve=1&tl=1)
-
- ![Trackdown: Help find the Fort Worth Dutch Bros armed robber](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-rabb-trackdown-dutch-bros-robbery-530p_00.00.41.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dutch-bros-coffee-shop-robbery-west-billy-boswell-old-decatur-road-october-25)
-
-### [Trackdown: Help find the Fort Worth Dutch Bros armed robber](https://www.fox4news.com/news/dutch-bros-coffee-shop-robbery-west-billy-boswell-old-decatur-road-october-25)
-
- [![Starbucks will stop charging extra for non-dairy milk substitutes](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/starbucks-milk.jpg?ve=1&tl=1)
-
- ![Starbucks will stop charging extra for non-dairy milk substitutes](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/starbucks-milk.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/starbucks-will-stop-charging-extra-non-dairy-milk-substitutes-2024)
-
-### [Starbucks will stop charging extra for non-dairy milk substitutes](https://www.fox4news.com/news/starbucks-will-stop-charging-extra-non-dairy-milk-substitutes-2024)
-
- [![Crystal Mason's Tarrant County illegal voting case moves to state's highest criminal court](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/kst-crystal-mason-pkg_kdfwf2b4_186_mp4_00.00.07.16.jpg?ve=1&tl=1)
-
- ![Crystal Mason's Tarrant County illegal voting case moves to state's highest criminal court](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/kst-crystal-mason-pkg_kdfwf2b4_186_mp4_00.00.07.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/crystal-mason-tarrant-county-illegal-voting-case-aquittal)
-
-### [Crystal Mason's Tarrant County illegal voting case moves to state's highest criminal court](https://www.fox4news.com/news/crystal-mason-tarrant-county-illegal-voting-case-aquittal)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
