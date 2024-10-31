@@ -1,6 +1,6 @@
 [Skip to content](#skip-content-target-id)
 
-[Get 20% off cosy home with code DAY6](https://www.notonthehighstreet.com/themes/lifestyle/hibernation)
+[Get 15% off £35 with code SURPRISE15](https://www.notonthehighstreet.com/christmas/view-all-christmas)
 
 [![Not on the high street logo](https://static-files.notonthehighstreet.com/webapps/shared/img/logo/NOTHS_logo.svg)](https://www.notonthehighstreet.com/)
 
