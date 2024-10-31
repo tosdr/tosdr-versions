@@ -190,7 +190,7 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**Episode 2 Preview** | The Marlow Murder Club](https://video.nhpbs.org/video/episode-2-preview-izexus?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**The Mirror and the Light Preview** | Wolf Hall](https://video.nhpbs.org/video/the-mirror-and-the-light-preview-cevwvk?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Conclave** | Flicks](https://video.nhpbs.org/video/conclave-fprn3z?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Harris, Trump campaign in N.C. with less than a week to go** | PBS News Hour](https://video.nhpbs.org/video/vote-2024-1730322863?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Races that will determine the balance of power in Congress** | PBS News Hour](https://video.nhpbs.org/video/vote-2024-capitol-1730322914?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**TTC Extra: ''Househusbands'' on Wall Street** | To The Contrary](https://video.nhpbs.org/video/ttc-extra-househusbands-on-wall-street-mzha0k?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Say 'Hy' to the Hyades November 25 - December 1** | Star Gazers](https://video.nhpbs.org/video/say-hy-to-the-hyades-november-25-december-1-qfkdfr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
