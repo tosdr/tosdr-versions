@@ -1141,7 +1141,7 @@ Marken der Woche
 
 [\-60% auf Beauty, Bad & Körperpflege
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/info/c/iherb-brands?specialtyFilters=1)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/iherb-brands?specialtyFilters=1)
 
       
 
