@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Cemitérios de Maceió terão programação religiosa durante o Dia de Finados](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/0/csm_02-11-22-Finados-cemiterio-Nossa-Senhora-da-Piedade-e-Sao-Jose-SUDES-foto-Barbara-Wanderley-01_c07b76d377.jpg)
+   [![Parque Shopping Maceió celebra 11 anos com sucesso consolidado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/3/csm_Parque_Shopping_367a9b125c.jpeg)
 
-próximo sábado
+Maceió
 
-Cemitérios de Maceió terão programação religiosa durante o Dia de Finados](https://www.tnh1.com.br/noticia/nid/cemiterios-de-maceio-terao-programacao-religiosa-durante-o-dia-de-finados/ "Cemitérios de Maceió terão programação religiosa durante o Dia de Finados")   [![Homem é preso após agredir vizinho na cabeça com uma barra de ferro durante discussão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/a/csm_csm_fachada_DHPP_d3081f9902__1__6cdcc18f4c.jpeg)
+Parque Shopping Maceió celebra 11 anos com sucesso consolidado](https://www.tnh1.com.br/noticia/nid/parque-shopping-maceio-celebra-11-anos-com-sucesso-consolidado/ "Parque Shopping Maceió celebra 11 anos com sucesso consolidado")   [![Maceió retoma vacinação contra Covid-19 após reabastecimento](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/7/csm_Maceio_retoma_vacinacao_contra_Covid-19_apos_reabastecimento_-_foto_Jonathan_Lins_-_Secom_Maceio_6f74382526.jpg)
 
-No Tabuleiro
+imunização
 
-Homem é preso após agredir vizinho na cabeça com uma barra de ferro durante discussão](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-agredir-vizinho-na-cabeca-com-uma-barra-de-ferro-durante-discussao/ "Homem é preso após agredir vizinho na cabeça com uma barra de ferro durante discussão")   [![Vídeos: incêndio de grandes proporções é registrado em vegetação na Ladeira do Bonfim](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/7/csm_incendio_ladeira_do_bonfim_88605217ab.jpg)
+Maceió retoma vacinação contra Covid-19 após reabastecimento](https://www.tnh1.com.br/noticia/nid/maceio-retoma-vacinacao-contra-covid-19-apos-reabastecimento/ "Maceió retoma vacinação contra Covid-19 após reabastecimento")   [![Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/8/csm_escola-estadual-maceio-confusao-google-maps_75e17683c8.png)
 
 EM MACEIÓ
 
-Vídeos: incêndio de grandes proporções é registrado em vegetação na Ladeira do Bonfim](https://www.tnh1.com.br/noticia/nid/videos-incendio-de-grandes-proporcoes-e-registrado-em-vegetacao-na-ladeira-do-bonfim/ "Vídeos: incêndio de grandes proporções é registrado em vegetação na Ladeira do Bonfim")   [![Motorista de caminhão de lixo que atropelou gari é indiciado por homicídio culposo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/8/csm_gari_foi_atropelado_morre_em_maceio_-_foto_reproducao_video_fa81bfb410.jpg)
+Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont](https://www.tnh1.com.br/noticia/nid/confusao-causa-panico-e-correria-durante-jogos-internos-em-escola-no-santos-dumont/ "Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont ")   [![Grande proporção e perda total, diz Corpo de Bombeiros sobre incêndio em Ponta Verde](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/4/csm_Incendio_apartamento_Ponta_Verde_-_foto_Reproducao_Redes_sociais_07632ec718.jpeg)
 
-caso de julho
+sétimo andar
 
-Motorista de caminhão de lixo que atropelou gari é indiciado por homicídio culposo](https://www.tnh1.com.br/noticia/nid/motorista-de-caminhao-de-lixo-que-atropelou-gari-e-indiciado-por-homicidio-culposo/ "Motorista de caminhão de lixo que atropelou gari é indiciado por homicídio culposo")   [![Sexta edição da Feira Minha Casa Própria tem imóveis a partir de R$ 196 mil](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/8/csm_Casa_Propria_8522c1dabc.jpg)
+Grande proporção e perda total, diz Corpo de Bombeiros sobre incêndio em Ponta Verde](https://www.tnh1.com.br/noticia/nid/grande-proporcao-e-perda-total-diz-corpo-de-bombeiros-sobre-incendio-em-ponta-verde/ "Grande proporção e perda total, diz Corpo de Bombeiros sobre incêndio em Ponta Verde")   [![Antigo lixão vai virar parque com mirante e fazenda de flores; entenda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/d/csm_Parque_do_Amanha_e749a8b3f4.jpg)
 
-série de vantagens
+Maceió
 
-Sexta edição da Feira Minha Casa Própria tem imóveis a partir de R$ 196 mil](https://www.tnh1.com.br/noticia/nid/sexta-edicao-da-feira-minha-casa-propria-tem-imoveis-a-partir-de-r-196-mil/ "Sexta edição da Feira Minha Casa Própria tem imóveis a partir de R$ 196 mil")   [![Furto de cabos paralisa abastecimento d'água no Farol e três outros bairros de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/5/csm_Furto_de_cabos_paralisa_abastecimento_do_Farol_e_tres_outros_bairros_de_Maceio_-_foto_Casal_622da3b2db.jpeg)
+Antigo lixão vai virar parque com mirante e fazenda de flores; entenda](https://www.tnh1.com.br/noticia/nid/antigo-lixao-vai-virar-parque-com-mirante-e-fazenda-de-flores-entenda/ "Antigo lixão vai virar parque com mirante e fazenda de flores; entenda")   [![Incêndio atinge apartamento em prédio na Ponta Verde; veja imagens](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/d/csm_Incendio_em_apartamento_na_Ponta_Verde_-_foto_Reproducao_5a221f8762.jpeg)
 
-vandalismo
+Maceió
 
-Furto de cabos paralisa abastecimento d'água no Farol e três outros bairros de Maceió](https://www.tnh1.com.br/noticia/nid/furto-de-cabos-paralisa-abastecimento-dagua-no-farol-e-tres-outros-bairros-de-maceio/ "Furto de cabos paralisa abastecimento d'água no Farol e três outros bairros de Maceió")
+Incêndio atinge apartamento em prédio na Ponta Verde; veja imagens](https://www.tnh1.com.br/noticia/nid/incendio-atinge-apartamento-em-predio-na-ponta-verde-veja-imagens/ "Incêndio atinge apartamento em prédio na Ponta Verde; veja imagens")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Furto de cabos paralisa abastecimento d'água no Farol e três outros bairros de
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/3/csm_BKR_cafe__1__d8f6b6c1ba.jpeg)
+   [![Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/7/csm_paulo-dantas-envia-projeto-de-lei-a-assembleia-que-indeniza-viuva-do-auditor-fiscal-joao-de-assis_087606c821.jpg)
+
+governador
+
+Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis](https://www.tnh1.com.br/noticia/nid/paulo-dantas-envia-projeto-de-lei-a-assembleia-que-indeniza-viuva-do-auditor-fiscal-joao-de-assis/ "Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis")   [![Primeira-dama de Maceió prestigia a cultura popular alagoana durante visita à Ilha do Ferro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/a/csm_marina_ilha_ferro_fdfa1a953b.jpeg)
+
+em Pão de Açúcar
+
+Primeira-dama de Maceió prestigia a cultura popular alagoana durante visita à Ilha do Ferro](https://www.tnh1.com.br/noticia/nid/primeira-dama-de-maceio-prestigia-a-cultura-popular-alagoana-durante-visita-a-ilha-do-ferro/ "Primeira-dama de Maceió prestigia a cultura popular alagoana durante visita à Ilha do Ferro")   [![BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/3/csm_BKR_cafe__1__d8f6b6c1ba.jpeg)
 
 Alagoas
 
-BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região](https://www.tnh1.com.br/noticia/nid/brk-reune-jornalistas-para-apresentar-dados-sobre-saneamento-em-maceio-e-regiao/ "BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região ")   [![Governador de Alagoas anuncia antecipação dos salários de outubro para esta quarta-feira (30) ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_governador-anuncia-antecipacao-dos-salarios-de-outubro-para-esta-quarta-feira_4dc8dbd6a8.jpg)
+BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região](https://www.tnh1.com.br/noticia/nid/brk-reune-jornalistas-para-apresentar-dados-sobre-saneamento-em-maceio-e-regiao/ "BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região ")   [![Governador de Alagoas anuncia antecipação dos salários de outubro para esta quarta-feira (30) ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_governador-anuncia-antecipacao-dos-salarios-de-outubro-para-esta-quarta-feira_4dc8dbd6a8.jpg)
 
 Atenção, Servidores
 
-Governador de Alagoas anuncia antecipação dos salários de outubro para esta quarta-feira (30)](https://www.tnh1.com.br/noticia/nid/governador-de-alagoas-anuncia-antecipacao-dos-salarios-de-outubro-para-esta-quarta-feira-30/ "Governador de Alagoas anuncia antecipação dos salários de outubro para esta quarta-feira (30) ")   [![Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/f/csm_detran-alagoas-abre-1-800-vagas-extras-para-candidatos-retardatarios-a-1-carteira-de-habilitacao_-_foto_Felipe_Yuri_-_Ascom_Detran_23a301c9b1.jpg)
+Governador de Alagoas anuncia antecipação dos salários de outubro para esta quarta-feira (30)](https://www.tnh1.com.br/noticia/nid/governador-de-alagoas-anuncia-antecipacao-dos-salarios-de-outubro-para-esta-quarta-feira-30/ "Governador de Alagoas anuncia antecipação dos salários de outubro para esta quarta-feira (30) ")   [![Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/f/csm_detran-alagoas-abre-1-800-vagas-extras-para-candidatos-retardatarios-a-1-carteira-de-habilitacao_-_foto_Felipe_Yuri_-_Ascom_Detran_23a301c9b1.jpg)
 
 Alagoas
 
-Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação](https://www.tnh1.com.br/noticia/nid/detran-abre-1800-vagas-extras-para-candidatos-retardatarios-a-1a-carteira-de-habilitacao/ "Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação")   [![Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/4/csm_bombeiros_praia_f83e90bc23.png)
+Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação](https://www.tnh1.com.br/noticia/nid/detran-abre-1800-vagas-extras-para-candidatos-retardatarios-a-1a-carteira-de-habilitacao/ "Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação")   [![Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/4/csm_bombeiros_praia_f83e90bc23.png)
 
 Alagoas
 
-Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/bombeiros-salvam-dois-turistas-vitimas-de-afogamento-na-praia-do-frances/ "Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês")   [![Inmet alerta para baixa umidade em 11 cidades de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/d/csm_csm_csm_CALOR-Pixabay_31e7dfd61d_25ebb1510f__2__af39c3df30.jpg)
-
-Veja instruções
-
-Inmet alerta para baixa umidade em 11 cidades de Alagoas](https://www.tnh1.com.br/noticia/nid/inmet-alerta-para-baixa-umidade-em-11-cidades-de-alagoas/ "Inmet alerta para baixa umidade em 11 cidades de Alagoas")   [![Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo Santana ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/0/csm_arapiraca_divulgacao_aeba48f94e.jpeg)
-
-centenário
-
-Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo Santana](https://www.tnh1.com.br/noticia/nid/arapiraca-celebra-100-anos-com-grande-programacao-shows-terao-alok-e-leo-santana/ "Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo Santana ")
+Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/bombeiros-salvam-dois-turistas-vitimas-de-afogamento-na-praia-do-frances/ "Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo San
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Morador de Maceió suspeito de fazer sexo com cadelas e galinhas é denunciado à justiça ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/d/csm_galinha_freepik_591ba85589.png)
+   [![Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/8/csm_escola-estadual-maceio-confusao-google-maps_75e17683c8.png)
 
-crime de zoofilia
+EM MACEIÓ
 
-Morador de Maceió suspeito de fazer sexo com cadelas e galinhas é denunciado à justiça](https://www.tnh1.com.br/noticia/nid/morador-de-maceio-suspeito-de-fazer-sexo-com-cadelas-e-galinhas-e-denunciado-a-justica/ "Morador de Maceió suspeito de fazer sexo com cadelas e galinhas é denunciado à justiça ")   [![Irmãs foragidas suspeitas de tentar roubo em van são presas no Sertão alagoano](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/2/csm_irmas_do_crime_5f3826264e.png)
+Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont](https://www.tnh1.com.br/noticia/nid/confusao-causa-panico-e-correria-durante-jogos-internos-em-escola-no-santos-dumont/ "Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont ")   [![PM vai realizar simulação de assalto com reféns no Centro de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/4/csm_Simulacao_SSP_AL_7ed659a7b6.jpg)
 
 Polícia
 
-Irmãs foragidas suspeitas de tentar roubo em van são presas no Sertão alagoano](https://www.tnh1.com.br/noticia/nid/irmas-foragidas-suspeitas-de-tentar-roubo-em-van-sao-presas-no-sertao-alagoano/ "Irmãs foragidas suspeitas de tentar roubo em van são presas no Sertão alagoano")   [![Homem é preso após agredir vizinho na cabeça com uma barra de ferro durante discussão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/a/csm_csm_fachada_DHPP_d3081f9902__1__6cdcc18f4c.jpeg)
+PM vai realizar simulação de assalto com reféns no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/pm-vai-realizar-simulacao-de-assalto-com-refens-no-centro-de-maceio/ "PM vai realizar simulação de assalto com reféns no Centro de Maceió")   [![Dono de açougue é preso com 28 quilos de maconha dentro de casa, em Massagueira](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/e/csm_drogas-apreendida-massagueira-policia-maconha-cortesia_89cd972431.jpeg)
 
-No Tabuleiro
+Polícia
 
-Homem é preso após agredir vizinho na cabeça com uma barra de ferro durante discussão](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-agredir-vizinho-na-cabeca-com-uma-barra-de-ferro-durante-discussao/ "Homem é preso após agredir vizinho na cabeça com uma barra de ferro durante discussão")   [![Vídeo: mulher sofre tentativa de estupro e é agredida com série de socos na porta de casa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/f/csm_mulher-agredida-tentativa-estupro-jacintinho_03a50416af.jpg)
+Dono de açougue é preso com 28 quilos de maconha dentro de casa, em Massagueira](https://www.tnh1.com.br/noticia/nid/dono-de-acougue-e-preso-com-28-quilos-de-maconha-dentro-de-casa-em-massagueira/ "Dono de açougue é preso com 28 quilos de maconha dentro de casa, em Massagueira")   [![Vídeo: polícia prende suspeito de praticar dez assaltos em sequência em Penedo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/4/csm_assalto-penedo-prisao-suspeito_64e7799afb.png)
 
-no jacintinho
+No interior
 
-Vídeo: mulher sofre tentativa de estupro e é agredida com série de socos na porta de casa](https://www.tnh1.com.br/noticia/nid/video-mulher-sofre-tentativa-de-estupro-e-e-agredida-com-serie-de-socos-na-porta-de-casa/ "Vídeo: mulher sofre tentativa de estupro e é agredida com série de socos na porta de casa")   [![Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/4/csm_jovem_21_anos_corpo_encontrado_10fe79724c.jpg)
+Vídeo: polícia prende suspeito de praticar dez assaltos em sequência em Penedo](https://www.tnh1.com.br/noticia/nid/video-policia-prende-suspeito-de-praticar-dez-assaltos-em-sequencia-em-penedo/ "Vídeo: polícia prende suspeito de praticar dez assaltos em sequência em Penedo")   [![Morador de Maceió suspeito de fazer sexo com cadelas e galinhas é denunciado à Justiça ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/d/csm_galinha_freepik_591ba85589.png)
 
-NO VERGEL
+crime de zoofilia
 
-Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros](https://www.tnh1.com.br/noticia/nid/corpo-de-jovem-de-21-anos-desaparecida-ha-quatro-dias-e-encontrado-com-marcas-de-tiros/ "Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros")   [![Motorista de caminhão de lixo que atropelou gari é indiciado por homicídio culposo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/8/csm_gari_foi_atropelado_morre_em_maceio_-_foto_reproducao_video_fa81bfb410.jpg)
+Morador de Maceió suspeito de fazer sexo com cadelas e galinhas é denunciado à Justiça](https://www.tnh1.com.br/noticia/nid/morador-de-maceio-suspeito-de-fazer-sexo-com-cadelas-e-galinhas-e-denunciado-a-justica/ "Morador de Maceió suspeito de fazer sexo com cadelas e galinhas é denunciado à Justiça ")   [![Irmãs foragidas suspeitas de tentar roubo em van são presas no Sertão alagoano](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/2/csm_irmas_do_crime_5f3826264e.png)
 
-caso de julho
+Polícia
 
-Motorista de caminhão de lixo que atropelou gari é indiciado por homicídio culposo](https://www.tnh1.com.br/noticia/nid/motorista-de-caminhao-de-lixo-que-atropelou-gari-e-indiciado-por-homicidio-culposo/ "Motorista de caminhão de lixo que atropelou gari é indiciado por homicídio culposo")
+Irmãs foragidas suspeitas de tentar roubo em van são presas no Sertão alagoano](https://www.tnh1.com.br/noticia/nid/irmas-foragidas-suspeitas-de-tentar-roubo-em-van-sao-presas-no-sertao-alagoano/ "Irmãs foragidas suspeitas de tentar roubo em van são presas no Sertão alagoano")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -236,39 +236,39 @@ Dono de pizzaria é preso após agarrar funcionária e tocá-la com a parte ínt
 
 Dono de pizzaria é preso após agarrar funcionária e tocá-la com a parte íntima](https://www.tnh1.com.br/noticia/nid/dono-de-pizzaria-e-preso-apos-agarrar-funcionaria-e-toca-la-com-a-parte-intima/ "Dono de pizzaria é preso após agarrar funcionária e tocá-la com a parte íntima")
 
-[![Morador de Maceió suspeito de fazer sexo com cadelas e galinhas é denunciado à justiça ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/d/csm_galinha_freepik_82ccef6fe6.png)
+[![Ronnie Lessa e Élcio Queiroz são condenados por matar Marielle Franco e Anderson Gomes](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/f/csm_Acusados_Marielle_b515b6bb44.jpg)
 
-crime de zoofilia
+Brasil
 
-crime de zoofilia
+Brasil
 
-Morador de Maceió suspeito de fazer sexo com cadelas e galinhas é denunciado à justiça
+Ronnie Lessa e Élcio Queiroz são condenados por matar Marielle Franco e Anderson Gomes
 
-Morador de Maceió suspeito de fazer sexo com cadelas e galinhas é denunciado à justiça](https://www.tnh1.com.br/noticia/nid/morador-de-maceio-suspeito-de-fazer-sexo-com-cadelas-e-galinhas-e-denunciado-a-justica/ "Morador de Maceió suspeito de fazer sexo com cadelas e galinhas é denunciado à justiça ")[![Ex-galã de Malhação deixa as ruas e mostra obra de novo bar](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/f/csm_ex-gala_malhacao_Instagram-Daniel_Erthal_438d20e8bf.jpg)
+Ronnie Lessa e Élcio Queiroz são condenados por matar Marielle Franco e Anderson Gomes](https://www.tnh1.com.br/noticia/nid/ronnie-lessa-e-elcio-queiroz-sao-condenados-por-matar-marielle-franco-e-anderson-gomes/ "Ronnie Lessa e Élcio Queiroz são condenados por matar Marielle Franco e Anderson Gomes")[![Maceió retoma vacinação contra Covid-19 após reabastecimento](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/7/csm_Maceio_retoma_vacinacao_contra_Covid-19_apos_reabastecimento_-_foto_Jonathan_Lins_-_Secom_Maceio_b925eb58ea.jpg)
 
-veja quem é
+imunização
 
-veja quem é
+imunização
 
-Ex-galã de Malhação deixa as ruas e mostra obra de novo bar
+Maceió retoma vacinação contra Covid-19 após reabastecimento
 
-Ex-galã de Malhação deixa as ruas e mostra obra de novo bar](https://www.tnh1.com.br/noticia/nid/ex-gala-de-malhacao-deixa-as-ruas-e-mostra-obra-de-novo-bar/ "Ex-galã de Malhação deixa as ruas e mostra obra de novo bar")[![Irmãs foragidas suspeitas de tentar roubo em van são presas no Sertão alagoano](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/2/csm_irmas_do_crime_75df1f2937.png)
+Maceió retoma vacinação contra Covid-19 após reabastecimento](https://www.tnh1.com.br/noticia/nid/maceio-retoma-vacinacao-contra-covid-19-apos-reabastecimento/ "Maceió retoma vacinação contra Covid-19 após reabastecimento")[![Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/7/csm_paulo-dantas-envia-projeto-de-lei-a-assembleia-que-indeniza-viuva-do-auditor-fiscal-joao-de-assis_6acff8ef5f.jpg)
 
-Polícia
+governador
 
-Polícia
+governador
 
-Irmãs foragidas suspeitas de tentar roubo em van são presas no Sertão alagoano
+Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis
 
-Irmãs foragidas suspeitas de tentar roubo em van são presas no Sertão alagoano](https://www.tnh1.com.br/noticia/nid/irmas-foragidas-suspeitas-de-tentar-roubo-em-van-sao-presas-no-sertao-alagoano/ "Irmãs foragidas suspeitas de tentar roubo em van são presas no Sertão alagoano")[![“Megalópolis” e terror sangrento são as estreias da semana, nesta quinta-feira de Halloween](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/3/csm_megalopolis-terrifier-3-slide_d9ae9ca71f.jpg)
+Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis](https://www.tnh1.com.br/noticia/nid/paulo-dantas-envia-projeto-de-lei-a-assembleia-que-indeniza-viuva-do-auditor-fiscal-joao-de-assis/ "Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis")[![Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/8/csm_escola-estadual-maceio-confusao-google-maps_00b0c6c833.png)
 
-Cinema
+EM MACEIÓ
 
-Cinema
+EM MACEIÓ
 
-“Megalópolis” e terror sangrento são as estreias da semana, nesta quinta-feira de Halloween
+Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont
 
-“Megalópolis” e terror sangrento são as estreias da semana, nesta quinta-feira de Halloween](https://www.tnh1.com.br/noticia/nid/megalopolis-e-terror-sangrento-sao-as-estreias-da-semana-nesta-quinta-feira-de-halloween/ "“Megalópolis” e terror sangrento são as estreias da semana, nesta quinta-feira de Halloween")
+Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont](https://www.tnh1.com.br/noticia/nid/confusao-causa-panico-e-correria-durante-jogos-internos-em-escola-no-santos-dumont/ "Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont ")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
