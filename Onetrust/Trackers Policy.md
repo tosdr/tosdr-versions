@@ -197,9 +197,9 @@ On-demand webinar coming soon...
 
 ### Latest News
 
-* [Forbes | Bridging ethics, trust, and inclusivity: Three organizations are shaping the future Of responsible AI](https://www.forbes.com/sites/hessiejones/2024/08/28/bridging-ethics-trust-and-inclusivity-three-organizations-are-shaping-the-future-of-responsible-ai/)
-* [Compliance Week | Control and delete: How regulators can shutdown companies’ AI investments](https://www.complianceweek.com/technology/control-and-delete-how-regulators-can-shutdown-companies-ai-investments/35485.article)
-* [Channel Insider | OneTrust launches AI-powered compliance automation platform](https://www.channelinsider.com/news-and-trends/us/onetrust-compliance-automation/)
+* [Forbes Cloud 100](https://www.forbes.com/lists/cloud100/)
+* [DBTA Readers Choice Awards](https://www.dbta.com/Editorial/Trends-and-Applications/DBTA-Readers-Choice-Award-Winners-2024-165316.aspx?PageNum=3)
+* [CFO Dive | To drive AI efficiency, CFOs must focus on its ‘fuel’: OneTrust](https://www.cfodive.com/news/drive-ai-efficiency-cfo-focus-onetrust-data-dataprivacy-management-risk/724443/)
 
 ### Contact Us
 
