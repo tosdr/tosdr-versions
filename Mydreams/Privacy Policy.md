@@ -85,6 +85,7 @@ Košík je prázdný
     * [Software pro lékaře a ordinace](https://www.mydreams.cz/cz/saas-servery/software-pro-lekare-a-ordinace.html)
     * [NightScout diabetes hosting](https://www.mydreams.cz/cz/saas-servery/nightscout-diabetes-hosting.html)
     * [Firebird VPS hosting](https://www.mydreams.cz/cz/firebird-vps-hosting.html)
+    * [Node.js VPS hosting](https://www.mydreams.cz/cz/saas-servery/nodejs-vps-hosting.html)
     
 * [IT služby](https://www.mydreams.cz/cz/dalsi-sluzby.html)
     
