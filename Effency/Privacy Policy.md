@@ -9,6 +9,7 @@ Menu
 * [Nos offres](https://www.effency.fr/nos-offres/)
     
     * [Cybersécurité](https://www.effency.fr/cybersecurite/)
+    * [RSE](https://www.effency.fr/rse/)
     * [Formation](https://www.effency.fr/formation-effency-2/)
     * [Transformation](https://www.effency.fr/transformation/)
     * [Onboarding / Offboarding](https://www.effency.fr/onboarding-offboarding/)
