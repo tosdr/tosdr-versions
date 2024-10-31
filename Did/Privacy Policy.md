@@ -1,4 +1,4 @@
-[Enter the](https://creators.d-id.com/?utm_source=website&utm_medium=banner)  [AI Dreams Creator Competition](https://creators.d-id.com/) for your chance to win $10,000! >>
+Leading Marketers Are Benefitting From **[D-ID’s Marketing Suite >>](https://www.d-id.com/marketing-solutions/)**
 
 [![](https://www.d-id.com/wp-content/uploads/2023/11/d-id-logo.svg)](https://www.d-id.com/)
 
@@ -6,12 +6,13 @@
     * [Creative Reality™ Studio](https://www.d-id.com/creative-reality-studio/)
     * [Video Translate](https://www.d-id.com/video-translate/)
     * [Video Campaigns](https://www.d-id.com/video-campaigns/)
+    * [Personal Avatars](https://www.d-id.com/personal-avatars)
     * [AI Agents](https://www.d-id.com/ai-agents/)
     * [Mobile App](https://www.d-id.com/creative-reality-studio-mobile-app/)
     * [API](https://www.d-id.com/api/)
     * [Integrations](https://www.d-id.com/integrations/)
 * Solutions
-    * [Marketing Solutions](https://www.d-id.com/marketing-solutions/)
+    * [Marketing Suite](https://www.d-id.com/marketing-suite/)
     * [Sales Solutions](https://www.d-id.com/sales-solutions/)
     * [Customer Experience](https://www.d-id.com/customer-experience/)
     * [Learning & Development](https://www.d-id.com/elearning-and-corporate-training-talking-heads/)
@@ -294,11 +295,12 @@ If you have any questions, concerns or complaints regarding our compliance with 
     * [Video Translate](https://www.d-id.com/video-translate/)
     * [Video Campaigns](https://www.d-id.com/video-campaigns/)
     * [AI Agents](https://www.d-id.com/ai-agents/)
+    * [Personal Avatars](https://www.d-id.com/personal-avatars)
     * [API for Developers](https://www.d-id.com/api/)
     * [Mobile App](https://www.d-id.com/creative-reality-studio-mobile-app/)
     * [Integrations](https://www.d-id.com/integrations/)
 * Solutions
-    * [Marketing Solutions](https://www.d-id.com/marketing-solutions/)
+    * [Marketing Suite](https://www.d-id.com/marketing-suite/)
     * [Sales Solutions](https://www.d-id.com/sales-solutions/)
     * [Customer Experience](https://www.d-id.com/customer-experience/)
     * [Natural User Interface](https://www.d-id.com/natural-user-interface/)
