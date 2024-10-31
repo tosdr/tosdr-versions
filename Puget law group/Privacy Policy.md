@@ -29,11 +29,6 @@ Call For a Free Consultation **•** Available 24/7 [253-627-4696](tel:+12536274
         * [Dept of Licensing (DOL)](https://www.pugetlawgroup.com/washington/dept-of-licensing-dol-lawyer/)
         * [Deferred Prosecution](https://www.pugetlawgroup.com/washington/deferred-prosecution-lawyer/)
         * [Felony DUI Charges](https://www.pugetlawgroup.com/washington/felony-dui-charges-lawyer/)
-        * [Seattle DUI Lawyers](https://www.pugetlawgroup.com/seattle-wa/dui-lawyer/)
-        * [Kent DUI Lawyers](https://www.pugetlawgroup.com/kent-wa/dui-lawyer/)
-        * [King County DUI Lawyers](https://www.pugetlawgroup.com/washington/king-county-dui-lawyer/)
-        * [Pierce County DUI Lawyers](https://www.pugetlawgroup.com/washington/pierce-county-dui-lawyer/)
-        * [Thurston County DUI Lawyers](https://www.pugetlawgroup.com/washington/thurston-county-dui-lawyer/)
         * [DUI in Mason, Lewis, Snohomish, and Grays Harbor County](https://www.pugetlawgroup.com/washington/district-courts-lawyer/)
     * [Personal Injury](https://www.pugetlawgroup.com/seattle-wa/personal-injury-lawyer/)
         * [Pedestrian Accidents](https://www.pugetlawgroup.com/washington/pedestrian-accidents-lawyer/)
@@ -60,6 +55,16 @@ Call For a Free Consultation **•** Available 24/7 [253-627-4696](tel:+12536274
     * [Olympia](https://www.pugetlawgroup.com/olympia-wa/criminal-defense-lawyer/)
     * [Tacoma](https://www.pugetlawgroup.com/tacoma-wa/criminal-defense-lawyer/)
     * [View All Areas We Serve](https://www.pugetlawgroup.com/areas-we-serve/)
+* [DUI Defense](#)
+    * [Seattle DUI Lawyers](https://www.pugetlawgroup.com/seattle-wa/dui-lawyer/)
+    * [Bellevue Criminal Defense Lawyers](https://www.pugetlawgroup.com/bellevue-wa/criminal-defense-lawyer/)
+    * [Kirkland Criminal Defense Lawyers](https://www.pugetlawgroup.com/kirkland-wa/criminal-defense-lawyer/)
+    * [Redmond Criminal Defense Lawyers](https://www.pugetlawgroup.com/redmond-wa/criminal-defense-lawyer/)
+    * [Tacoma Criminal Defense Lawyers](https://www.pugetlawgroup.com/tacoma-wa/criminal-defense-lawyer/)
+    * [King County DUI Lawyers](https://www.pugetlawgroup.com/washington/king-county-dui-lawyer/)
+    * [Pierce County DUI Lawyers](https://www.pugetlawgroup.com/washington/pierce-county-dui-lawyer/)
+    * [Thurston County DUI Lawyers](https://www.pugetlawgroup.com/washington/thurston-county-dui-lawyer/)
+    * [Kent DUI Lawyers](https://www.pugetlawgroup.com/kent-wa/dui-lawyer/)
 * [Resources](#)
     * [Make A Payment](https://www.pugetlawgroup.com/online-payments/)
     * [Media/News](https://www.pugetlawgroup.com/in-the-news/)
@@ -167,7 +172,7 @@ Whatever your situation – DUI, Criminal Charge, or Personal Injury – PLG is 
     
     By checking this box I agree to receive communication from Puget Law Group and agree to our [Privacy Policy](https://www.pugetlawgroup.com/privacy-policy/) and [Terms of Use](https://www.pugetlawgroup.com/terms-of-use/).
     
-* Name
+* Comments
     
     This field is for validation purposes and should be left unchanged.
     
@@ -195,11 +200,6 @@ Olympia, WA 98502
 
 817 Sidney Avenue, Suite 1  
 Port Orchard, WA 98366
-
-[PLG KENT](https://www.pugetlawgroup.com/kent-wa/criminal-defense-lawyer/ "PLG KENT")
-
-6703 S 234th St., Suite 130  
-Kent, WA 98032
 
 [253-627-4696](tel:+12536274696 "Call to Puget Law Group") [![Puget Law Group](https://cdn.powa.com/www.pugetlawgroup.com/images/wp-content/themes/hd-puget/assets/app/svg/logotype-216-critical-desktop.svg.webp "Puget Law Group")](https://www.pugetlawgroup.com/ "Puget Law Group")
 
