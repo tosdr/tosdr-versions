@@ -4,7 +4,7 @@ Celebrate! Iconic Converse shoes are back in stock. [Shop Converse](https://www
 
 Stocking Stuffer Shoes [Shop The Guide](https://www.zappos.com/c/stocking-stuffer-shoes)
 
-Top 10 Giftable Shoes [Shop the Guide](https://www.zappos.com/c/top-10-gifts-shoes)
+Cozy Crocs for chilly weather! [Shop The Guide](https://www.zappos.com/c/crocs-fuzzy-edition-2024)
 
 [![Welcome! Go to the Zappos homepage!](https://m.media-amazon.com/images/G/01/Zappos/25th-birthday-logo/Zappos-25-Years-Logo-Site.svg)](https://www.zappos.com/)
 
