@@ -31,6 +31,119 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Además de Halloween y el Día del Escudo, esto se celebra el 31 de octubre 
+==========================================================================
+
+El 31 de octubre marca varias efemérides que seguramente no conocías.
+---------------------------------------------------------------------
+
+![El 31 de octubre se conmemoran importantes efemérides, desde Halloween hasta el Día del Escudo Nacional en Ecuador. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/31-de-octubre-efemperides.jpg)
+
+El **31 de octubre** se conmemoran diversas **efemérides a nivel mundial y nacional** que destacan su importancia cultural y social. Halloween, con raíces celtas y romanas, se celebra hoy como una fiesta de disfraces y calabazas, adaptada por la Iglesia como Día de Todos los Santos.
+
+### Más noticias
+
+* [31 de octubre es el Día del Escudo Nacional. Conoce su historia](https://www.elcomercio.com/tendencias/cultura/31-octubre-celebra-ecuador-dia-escudo-nacional.html "https://www.elcomercio.com/tendencias/cultura/31-octubre-celebra-ecuador-dia-escudo-nacional.html")
+* [¿Qué significa Halloween?](https://www.elcomercio.com/tendencias/entretenimiento/halloween-significado-disfraces-celebracion-muertos-espiritus.html "https://www.elcomercio.com/tendencias/entretenimiento/halloween-significado-disfraces-celebracion-muertos-espiritus.html")
+
+En Ecuador, esta fecha también honra el Día del Escudo Nacional, establecido en 1900, y el Día del Médico Veterinario, que reconoce la labor de estos profesionales en la salud animal. Además, se recuerda la cantonización de Samborondón en 1955 y la fundación de Otavalo como ciudad en 1829, eventos que enriquecen el patrimonio cultural del país. 
+
+**Efemérides del 31 de octubre**  
+----------------------------------
+
+### **Halloween** 
+
+**Halloween**, a decir de [National Geographic](https://historia.nationalgeographic.com.es/a/halloween-origen-celta-fiesta-universal_7740 "https://historia.nationalgeographic.com.es/a/halloween-origen-celta-fiesta-universal_7740"), es una **festividad de origen celta y romano**, ha evolucionado gracias a la influencia de la **cultura popular estadounidense** en un evento global, que combina elementos antiguos y modernos. Originalmente, el **‘samhain’** celta y el **‘mundus patet’** romano **honraban a los muerto**s y celebraban el **fin de la cosecha**.  
+
+La Iglesia cristiana adaptó estas tradiciones al instituir el **Día de Todos los Santos el 1 de noviembre**, al buscar **reemplazar las festividades paganas**. Halloween, que deriva de “All Hallows Eve,” mezcla el **recuerdo de los difuntos y las cosechas de otoño** con actividades modernas como el “truco o trato” y la fascinación por monstruos populares, celebrándose hoy como una divertida **fiesta de disfraces, calabazas y tradiciones** en todo el mundo. 
+
+### **Día del Escudo** 
+
+En Ecuador, el 31 de octubre se celebra el **Día del Escudo Nacional**, una fecha establecida oficialmente por el Congreso en el año 1900 durante la presidencia del general **Eloy Alfaro**. El diseño del escudo, creado por **Pedro Pablo Traversari** en 1916, fue aprobado en esa misma fecha por el **Ministerio de Instrucción Pública**. 
+
+### **Día Mundial del Ahorro**  
+
+En 1924, a decir de la página [Día Internacional De](https://www.diainternacionalde.com/ficha/dia-mundial-ahorro "https://www.diainternacionalde.com/ficha/dia-mundial-ahorro"), se celebró el **Primer Congreso del Ahorro en Milán**, Italia, donde delegados de varios países se congregaron para discutir la **organización y regulación de las Cajas de Ahorro**. Las sesiones concluyeron el 31 de octubre, fecha en la que el profesor **Filippo Ravizza** propuso establecer el **Día Universal del Ahorro**. 
+
+### **Día Mundial de las Ciudades** 
+
+El **Día Mundial de las Ciudades** se celebra cada 31 de octubre para **impulsar el desarrollo urbano sostenible** y fomentar la **cooperación internacional**. Instituido por la **ONU** en la resolución A/RES/68/239 en 2013, esta fecha busca sensibilizar a gobiernos, organizaciones y la sociedad sobre la **importancia de una urbanización equilibrada y sostenible**, con un enfoque especial en la **colaboración a nivel global**, de acuerdo con la web [Telefónica](https://www.telefonica.com/es/sala-comunicacion/blog/31-octubre-dia-ciudades/ "https://www.telefonica.com/es/sala-comunicacion/blog/31-octubre-dia-ciudades/").  
+
+### **Día del Médico Veterinario** 
+
+Según [Quito Informa](https://www.quitoinforma.gob.ec/2021/10/31/dia-del-medico-veterinario-se-conmemora-en-ecuador/ "https://www.quitoinforma.gob.ec/2021/10/31/dia-del-medico-veterinario-se-conmemora-en-ecuador/"), el 31 de octubre se celebra el **Día del Médico Veterinario** en Ecuador. Efeméride que busca **honrar a los profesionales veterinarios del país** por su contribución científica y médica. Se destaca su **labor técnica en el control de la sobrepoblación animal** y su dedicación en la recuperación física y emocional de perros y gatos en situación crítica. 
+
+### **Cantonización de Samborondón**  
+
+El 31 de octubre de 1955, **Samborondón**, en la provincia de Guayas, **fue declarado cantón gracias al coronel José de Lino López**, jefe de bomberos de la localidad. Su influencia social facilitó la recolección de firmas necesarias. Luego fueron presentadas en acta al **Congreso Nacional**, que aprobó oficialmente la **cantonización** en esa fecha, a decir de la web [Hazte Ver Ecuador](https://hazteverecuador.com/samborondon-consiguio-cantonizarse-un-31-de-octubre-de-1955/#google_vignette "https://hazteverecuador.com/samborondon-consiguio-cantonizarse-un-31-de-octubre-de-1955/#google_vignette").  
+
+### **Fundación de la ciudad de Otavalo** 
+
+Según la [Alcaldía de la ciudad de Otavalo](https://www.otavalo.gob.ec/gestoresculturales/fundacion-de-la-ciudad-de-otavalo-ereccion-de-villa-a-ciudad/#:~:text=El%2031%20de%20Octubre%20de,Congreso%20de%20la%20Gran%20Colombia. "https://www.otavalo.gob.ec/gestoresculturales/fundacion-de-la-ciudad-de-otavalo-ereccion-de-villa-a-ciudad/#:~:text=El%2031%20de%20Octubre%20de,Congreso%20de%20la%20Gran%20Colombia."), el 31 de octubre de 1829, **Simón Bolívar elevó a Otavalo a la categoría de ciudad** mediante un decreto. El hecho fue confirmado luego por el **Congreso de la Gran Colombia**. Esta fecha se celebra con una sesión solemne, ofrendas y eventos culturales. A inicios de noviembre se realiza un colorido **desfile cívico**, en el que participan instituciones educativas y públicas. 
+
+Así funciona el Pico y placa en Quito este jueves 31 de octubre, en feriado
+===========================================================================
+
+Recuerda que en octubre deben matricular autos con placas terminadas en 9. Revisa los horarios del Pico y placa y evita multas
+------------------------------------------------------------------------------------------------------------------------------
+
+![El Pico y placa no se aplica los fines de semana ni feriados.](https://www.elcomercio.com/wp-content/uploads/2024/10/feriado-movilidad.jpg)
+
+El **pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+### Más noticias
+
+* [Pico y placa se suspende en Quito por cinco días](https://www.elcomercio.com/actualidad/quito/pico-y-placa-se-suspende-en-quito-por-cinco-dias.html "Pico y placa se suspende en Quito por cinco días")
+* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
+* [Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito](https://www.elcomercio.com/actualidad/quito/paradas-de-la-ecovia-registran-nuevos-cierres-por-trabajos-en-quito.html "Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito")
+
+El **Pico y placa no afecta a vehículos de personas de la tercera edad o** con discapacidad. Tampoco a vehículos oficiales o de servicios de salud.
+
+El **horario de aplicación** de Pico y placa es en la mañana de **06:00 a 09:30** y en la tarde de 16:00 a 20:00.
+
+El esquema de aplicación:
+-------------------------
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes:** los que finalizan en 3 y 4.
+* **Miércoles:** los de dígitos 5 y 6.
+* **Jueves:** los que tengan 7 y 8.
+* **Viernes:** las placas 9 y 0.
+
+Así, los jueves no pueden circular las **placas terminadas en 7 y 8.**
+
+Multas por infringir Pico y placa
+---------------------------------
+
+La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
+
+Si incumples por tercera vez, **la multa asciende** al 50% de un salario básico, es decir, 230 dólares.
+
+Además, los agentes de tránsito se pueden llevar tu auto retenido. La estancia de tu auto en los parqueaderos municipales genera **costos diarios**.
+
+Revisa antes de salir de casa la placa de tu auto y si eres distraído, coloca una alarma en tu celular los días de Pico y placa.
+
+Matriculación vehicular
+-----------------------
+
+Recuerda que debes tener licencia y **matrícula vigentes** para poder circular. El mes de octubre los automotores con placa terminada en 9 deben cumplir con el proceso de matriculación.
+
+También pueden adelantar el trámite los que tienen placa terminada en 0. [Evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+Por decreto presidencial, el **jueves 31 de octubre** también fue declarado feriado nacional (recuperable) para incentivar el turismo interno.
+
+De acuerdo con la normativa del Pico y placa, **este jueves 31 de octubre habrá libre movilidad** en el Distrito Metropolitano de Quito, pues la medida [no se aplica los feriados.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 🚗Este 31 de octubre no regirá la medida “Pico y Placa” debido a la ⛔️ suspensión de la jornada laboral dispuesta por el Gobierno Nacional .  
+>   
+> 👍Además, habrá libre movilidad hasta el lunes 4 de noviembre 🚘.  
+>   
+> 🫶 Con información oportuna [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/kslrbGztLE](https://t.co/kslrbGztLE)
+> 
+> — AMTQuito (@AMT\_Quito) [October 30, 2024](https://twitter.com/AMT_Quito/status/1851630564303851712?ref_src=twsrc%5Etfw)
+
 Siete lugares para visitar en Cuenca durante el feriado de Difuntos
 ===================================================================
 
@@ -189,6 +302,28 @@ La lucha contra el VIH/SIDA no es solo una cuestión médica; es un desafío soc
 
 Ecuador tiene que avanzar a que todos tengan acceso a la atención oportuna y necesaria sin miedo ni prejuicio. La responsabilidad es de todos: informémonos, eduquemos a quienes nos rodean y apoyemos a quienes enfrentan este estigma. La salud y la dignidad de cada persona merecen ser protegidas.
 
+La muerte institucionalizada
+============================
+
+La muerte, inevitable y universal, ha sido ritualizada y comercializada en distintas culturas.
+----------------------------------------------------------------------------------------------
+
+![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
+
+**La muerte es una realidad como la vida.** **Todas las culturas han creado símbolos,** tumbas, tolas, pirámides, monumentos y entierros para solemnizar y perennizar el paso a lo desconocido, y **vínculos reales o imaginarios con el inframundo.**
+
+**La literatura está llena de historias sobre la muerte y sus matices,** en las que se retratan las dimensiones humanas de la decrepitud, la enfermedad, el dolor, la soledad y el arcano.
+
+**La ciencia ha intentado explicar este fenómeno al proponer la “eterna juventud”,** la cura de las enfermedades catastróficas y opciones para sobrevivir después del ocaso. **¡Todos sus esfuerzos han sido vanos!** Ricos y pobres, letrados e iletrados, hombres, mujeres, niños, jóvenes y personas de la tercera edad seguimos el mismo destino.
+
+**Las religiones interpretan, a su modo, la realidad de la muerte, para hacer apacible la existencia terrenal, y optar por la trascendencia**. “Eres polvo y en polvo te convertirás”, dice la cita bíblica. **Y en ese tráfago, la muerte es el signo más democrático porque iguala a todos:** creyentes, no creyentes, ateos o agnósticos, morimos y regresamos a la tierra que nos dio cobijo. **¡La muerte no perdona!**
+
+**En la modernidad la muerte se ha institucionalizado.** Los servicios funerarios -oro, plata o bronce- forman parte del mercado, que han convertido al finado y sus deudos en **clientes**. Los seguros sociales y empresariales ofrecen **descansos eternos, en sitios confortables y ecológicos,** con misas cantadas, de cuerpo presente, en nichos, crematorios, bajo un árbol florido, videos, y transmisión en tiempo real por Facebook live. **¡La muerte es ahora virtual!**
+
+**El mundo de la muerte está normalizado por las asistencias exequiales**, que garantizan todo, salvo un pequeño detalle: **¡no hay garantía para ir al cielo!** ¡Sálvese quien pueda es la consigna no escrita!
+
+**Europa, en cambio, ha dado pasos más sensatos:** cuando alguien se siente cerca del olvido -enfermo, pero en sus cabales-, decide despedirse de sus familiares y amigos, con un encuentro sereno y gratificante, sin lloros ni lamentos. **Y así, la despedida se torna agradable, edificante y austera;** las discusiones sobre las herencias quedan congeladas. **¡Se ha cumplido así el derecho a morir en paz, y el deber de cumplirlo con resignación!**
+
 Cartas a Quito / 31 de octubre de 2024
 ======================================
 
@@ -215,28 +350,6 @@ Yo me pregunto: ¿puede alguien que así actúa en su país, pretender ser el cr
 Maduro debe empezar por independizarse de la enfermiza dependencia dogmática que tiene, para demostrar que es un mandatario soberano. Mientras eso no ocurra, sus críticas son vacías ni siquiera deberían ser publicadas por la prensa. No se diga con los resultados electorales que hasta hoy no tienen el sustento de las actas publicadas oficialmente.
 
 José M. Jalil Haas
-
-La muerte institucionalizada
-============================
-
-La muerte, inevitable y universal, ha sido ritualizada y comercializada en distintas culturas.
-----------------------------------------------------------------------------------------------
-
-![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
-
-**La muerte es una realidad como la vida.** **Todas las culturas han creado símbolos,** tumbas, tolas, pirámides, monumentos y entierros para solemnizar y perennizar el paso a lo desconocido, y **vínculos reales o imaginarios con el inframundo.**
-
-**La literatura está llena de historias sobre la muerte y sus matices,** en las que se retratan las dimensiones humanas de la decrepitud, la enfermedad, el dolor, la soledad y el arcano.
-
-**La ciencia ha intentado explicar este fenómeno al proponer la “eterna juventud”,** la cura de las enfermedades catastróficas y opciones para sobrevivir después del ocaso. **¡Todos sus esfuerzos han sido vanos!** Ricos y pobres, letrados e iletrados, hombres, mujeres, niños, jóvenes y personas de la tercera edad seguimos el mismo destino.
-
-**Las religiones interpretan, a su modo, la realidad de la muerte, para hacer apacible la existencia terrenal, y optar por la trascendencia**. “Eres polvo y en polvo te convertirás”, dice la cita bíblica. **Y en ese tráfago, la muerte es el signo más democrático porque iguala a todos:** creyentes, no creyentes, ateos o agnósticos, morimos y regresamos a la tierra que nos dio cobijo. **¡La muerte no perdona!**
-
-**En la modernidad la muerte se ha institucionalizado.** Los servicios funerarios -oro, plata o bronce- forman parte del mercado, que han convertido al finado y sus deudos en **clientes**. Los seguros sociales y empresariales ofrecen **descansos eternos, en sitios confortables y ecológicos,** con misas cantadas, de cuerpo presente, en nichos, crematorios, bajo un árbol florido, videos, y transmisión en tiempo real por Facebook live. **¡La muerte es ahora virtual!**
-
-**El mundo de la muerte está normalizado por las asistencias exequiales**, que garantizan todo, salvo un pequeño detalle: **¡no hay garantía para ir al cielo!** ¡Sálvese quien pueda es la consigna no escrita!
-
-**Europa, en cambio, ha dado pasos más sensatos:** cuando alguien se siente cerca del olvido -enfermo, pero en sus cabales-, decide despedirse de sus familiares y amigos, con un encuentro sereno y gratificante, sin lloros ni lamentos. **Y así, la despedida se torna agradable, edificante y austera;** las discusiones sobre las herencias quedan congeladas. **¡Se ha cumplido así el derecho a morir en paz, y el deber de cumplirlo con resignación!**
 
 Guía sobre generadores eléctricos, UPS y power banks en Ecuador
 ===============================================================
@@ -1005,94 +1118,3 @@ Hasta hoy, la programación de cortes de luz para los feriados del Día de los D
 Entre las últimas acciones del Gobierno están las negociaciones para la compra de energía a empresas privadas en **Colombia**.
 
 Esto, luego de que el Gobierno de **Gustavo Petro** se negara definitivamente a reactivar la venta de energía para Ecuador.
-
-Cuniburo fue coronado como campeón de la Serie B
-================================================
-
-Cuniburo (campeón) y Manta (vicecampeón) jugarán en el 2025 en la Liga Pro Serie A.
------------------------------------------------------------------------------------
-
-![Jugadores de Cuniburo con el trofeo de campeón de la Serie B 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/cuniburo_campeon_1.jpg)
-
-¡Es oficial! **Cuniburo fue coronado como el flamante campeón** de la Liga Pro Serie B de Ecuador en el estadio Olímpico Atahualpa. La ceremonia se realizó la tarde de este miércoles 30 de octubre de 2024.
-
-Antes de la fiesta del campeón de la Serie B, se **tuvo que jugar el último partido**. Recibió a Independiente Juniors y le ganó por 3-2, con lo que cerró una año en el que demostró ser el mejor equipo de los 10 que compitieron.
-
-### Más noticias:
-
-* [Leones FC ganó y condenó a Vargas Torres al descenso](https://www.elcomercio.com/deportes/futbol/leones-fc-serieb-ecuador-vargas-torres.html "Leones FC ganó y condenó a Vargas Torres al descenso")
-* [Piero Hincapié avanza en la Copa de Alemania con el Leverkusen](https://www.elcomercio.com/deportes/bayer-leverkusen-copa-alemania-piero-hincapie-elversberg.html "Piero Hincapié avanza en la Copa de Alemania con el Leverkusen")
-* [¿Cuándo juega el Deportivo Quito contra Toreros FC?](https://www.elcomercio.com/deportes/futbol/deportivo-quito-horario-toreros-guayaquil.html "¿Cuándo juega el Deportivo Quito contra Toreros FC?")
-
-Los pichinchanos anotaron por intermedio del ecuatoriano José Lugo, el **experimentado argentino Sergio López**, campeón de la Serie A con Delfín (2019) y Aucas (2022); y de su compatriota Rafael Monti.
-
-El experimentado **Jonathan De La Cruz y el joven Mario Solís**, ambos ecuatorianos, descontaron para la visita y cerraron un año en el que fueron uno de los equipos animadores de la Serie B, pero que no pueden ascender por ser filial de Independiente del Valle.
-
-La tabla de posiciones se cerró con **Cuniburo con 69 puntos**. Su campaña registra 21 victorias, seis empates y nueve derrotas. Anotaron 64 goles y recibieron 37 para un gol diferencia positivo de +27.
-
-Con este título, Cuniburo se convirtió en el campeón número 43 de la B, sumando su primera corona.
-
-Cuniburo y Manta a la A
------------------------
-
-Manta, el otro ascendido a la **Serie A, fue el segundo mejor equipo**. Sus 60 puntos los alcanzó con 17 victorias, nueve empates y 10 derrotas. Anotaron 45 goles y recibieron 39 para un gol diferencia positivo de +6.
-
-Guayaquil City (59), **Independiente Juniors (57), 9 de Octubre (47)**, Gualaceo (47), San Antonio (44) y Leones FC (37), son los seis equipos que para el 2025 continuarán en la Serie B en busca de ascender.
-
-Vargas Torres de Esmeraldas y **Chacaritas de Tungurahua se despidieron** de la B y descendieron a la  
-Segunda Categoría de sus respectivas provincias.
-
-![José Lugo, delantero de Cuniburo.](https://www.elcomercio.com/wp-content/uploads/2024/10/cuniburo_campeon_2-1024x683.jpg)
-
-José Lugo, delantero de Cuniburo.
-
-Palmarés de la Serie B
-----------------------
-
-No te pierdas - El Confesionario
---------------------------------
-
-Lluvias aumentan y Coca Codo Sinclair entrega más energía en Ecuador
-====================================================================
-
-Las lluvias en el norte de Ecuador han aumentado el caudal de los ríos, mejorando la generación hidroeléctrica. Coca Codo Sinclair aportó el 52% de la producción energética este miércoles.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Coca Codo Sinclair es la central hidroeléctrica más grande del país, con 1 500 MW de potencia instalada.](https://www.elcomercio.com/wp-content/uploads/2024/10/coca-codosinclair.jpg)
-
-Desde el 28 de octubre de 2024 se registran **lluvias en la zona norte del Ecuador.** Las precipitaciones incrementaron los caudales de los ríos mejorando la entrega de energía de algunas hidroeléctricas[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Gobierno acordó con telefónicas medidas de compensación por los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/gobierno-medidas-compensacion-telefonicas-cortes-luz.html "Gobierno acordó con telefónicas medidas de compensación por los cortes de luz")
-* [Coca Codo Sinclair entregó el 54% de electricidad este 28 de octubre](https://www.elcomercio.com/actualidad/negocios/coca-codo-sinclair-entrego-54-energia-este-28-octubre.html "Coca Codo Sinclair entregó el 54% de electricidad  este 28 de octubre")
-* [El embalse de Mazar se recupera casi dos metros este 29 de octubre](https://www.elcomercio.com/actualidad/negocios/embalse-mazar-recupera-casi-metros.html "El embalse de Mazar se recupera casi dos metros este 29 de octubre")
-
-Según el reporte en tiempo real de la **Operador Nacional de Electricidad** (**Cenace**), hasta las 17:00 de este miércoles 30 de octubre de 2024 **Ecuador** generó 46 102 megavatios-hora (MWh), el 63% de esa energía provino de las hidroeléctricas.
-
-La central que más produjo fue **Coca Codo Sinclair** (CCS), ubicada en el límite provincial de Napo y Sucumbíos. Esta **hidroeléctrica** entregó el 52% del monto producido en el país este miércoles.
-
-Según el reporte del Cenace, CCS entregó un promedio de 946 megavatios (MWh) entre las 00:00 y las 17:00 de este miércoles. Esto es más del doble de energía que entregó la semana pasada, que fue un promedio de 400 MWh.
-
-El incremento de la generación de energía de esta central se debe al aumento del caudal del río Coca, que alimenta a **Coca Codo Sinclair**, debido a las lluvias de los últimos días.
-
-Según la Corporación Eléctrica del Ecuador (Celec), el caudal del afluente llegó a 1 052 metros cúbicos por segundo (m³/s) durante el lunes 28 de octubre. Mientras que el martes 29 de octubre el volumen de agua fue de 930 m³/s. Este miércoles el caudal supera los 200 m³/s.
-
-La semana del 21 al 27 de octubre del 2024, el promedio del caudal fue del 20 m³/s.
-
-Otras centrales que entregaron energía este miércoles fueron Agoyán, ubicada en la cuenca del río Pastaza, la central Delsitanisagua, en Zamora Chinchipe, entre otras.
-
-Coca Codo Sinclair, la central más grande del país
---------------------------------------------------
-
-Coca Codo Sinclair es la hidroeléctrica más grande del país, con una capacidad instalada de 1 500 megavatios (MW).
-
-Esta central es de pasada, ya que no tiene un **gran reservorio de agua**, y produce energía de acuerdo con la fuerza del caudal del **río Coca**, que alimenta a esta hidroeléctrica.
-
-Según el Instituto Nacional de Meteorología e Hidrología (Inamhi), las lluvias de esta semana se concentraron en cuatro provincias. Estas son Sucumbíos, Orellana, Pastaza y Morona Santiago.
-
-Está previsto que las lluvias fuertes y tormentas eléctricas continúen hasta el miércoles 30 de octubre de 2024. Desde este jueves 31 de octubre al 1 de noviembre se esperan altas temperaturas durante el día y lluvias dispersas en el norte del país durante la tarde.
-
-En la zona sur del país, que comprende las provincias de El Oro, Cañar, Azuay, Loja y Zamora Chinchipe, se esperan lluvias ocasionales. En zona del Austro se encuentra el Complejo Hidroeléctrico Paute, con tres hidroeléctricas: Mazar, Paute-Molino y Sopladora, que actualmente no están operando.
-
-Sin embargo, se registra una recuperación de la cota del embalse Mazar, que a las 18:00 de este miércoles se ubica en 2 114,24 metros sobre el nivel del mar.
