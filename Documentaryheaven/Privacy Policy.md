@@ -128,39 +128,39 @@ Advertisement
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
-* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
+* [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
     
-    The Beginning and the End of the Universe
+    Diary of a Porn Virgin
     
-    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
+    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
 
 ###### Throwback Documentaries
 
-* [![Catching A Monster: Peter Scully, Australia’s Most Evil Predator](/wp-content/thumbnails/10172-100x70.jpg?x53432)
+* [![PT2 Ross Kemp: Battle for the Amazon](/wp-content/thumbnails/3371-100x70.jpg?x53432)
     
-    Catching A Monster: Peter Scully, Australia’s Most Evil Predator
+    PT2 Ross Kemp: Battle for the Amazon
     
-    Peter Scully was on the run for four years and considered Austrailia's most evil predator. He was the mastermind behind a worldwide pedophile ring which he ran from a remote corner of the Philippines,](https://documentaryheaven.com/catching-a-monster-peter-scully-australias-most-evil-predator/ "Catching A Monster: Peter Scully, Australia’s Most Evil Predator")
-* [![EP 3/6 The Private Life of Plants](/wp-content/thumbnails/2491-100x70.jpg?x53432)
+    Ross Kemp - Battle For The Amazon will look into the socio-economic and environmental pressures facing the Amazon regions of Brazil and Ecuador. The shows will explore the legacy of devastation create](https://documentaryheaven.com/battle-for-the-amazon-2/ "PT2 Ross Kemp: Battle for the Amazon")
+* [![Megafactories: Toyota Australia](/wp-content/thumbnails/7242-100x70.jpg?x53432)
     
-    EP 3/6 The Private Life of Plants
+    Megafactories: Toyota Australia
     
-    Broadcast 19 January 1995, the next instalment is devoted to the ways in which plants reproduce. Pollen and a stigma are the two components needed for fertilisation. Most plants carry both these withi](https://documentaryheaven.com/the-private-life-of-plants-3/ "EP 3/6 The Private Life of Plants")
-* [![Guys and Dolls](/wp-content/thumbnails/692-100x70.png?x53432)
+    Megafactories reveals the technology and stories behind some of the most innovative factories in the world. After manufacturing vehicles in Australia for 50 years, it’s no surprise Toyota has grown to](https://documentaryheaven.com/megafactories-toyota-australia/ "Megafactories: Toyota Australia")
+* [![J is for Junkie](/wp-content/thumbnails/6187-100x70.jpg?x53432)
     
-    Guys and Dolls
+    J is for Junkie
     
-    10 years ago, a small company in California started making real life like dolls for sale. These dolls are more than a sex doll for some of the man who bought them, they develop feelings for these doll](https://documentaryheaven.com/guys-and-dolls/ "Guys and Dolls")
-* [![Generation OS13: The new culture of resistance](/wp-content/thumbnails/6101-100x70.jpg?x53432)
+    J is for Junkie comes as a hard-hitting and beautifully shot documentary on crack and being homeless. Filmed in “The Living Room” in Atlanta, a small cove tucked in behind a Texaco gas station, the do](https://documentaryheaven.com/j-is-for-junkie/ "J is for Junkie")
+* [![Great Military Blunders](/wp-content/thumbnails/13145-100x70.jpg?x53432)
     
-    Generation OS13: The new culture of resistance
+    Great Military Blunders
     
-    Generation OS13 is an explosive insight into the attack on civil liberties occurring in western democracies and how artists, musicians, journalists and authors encourage the peoples right to resist ag](https://documentaryheaven.com/generation-os13-the-new-culture-of-resistance/ "Generation OS13: The new culture of resistance")
-* [![Secrets of the First Emperor](/wp-content/thumbnails/2076-100x70.jpg?x53432)
+    Great Military Blunders is a six part documentary series which was originally aired in 2000, the series itself provides a fascinating examination of the key factors which lead to some of the greatest](https://documentaryheaven.com/great-military-blunders/ "Great Military Blunders")
+* [![anOther Story Of Progress](/wp-content/thumbnails/6654-100x70.jpg?x53432)
     
-    Secrets of the First Emperor
+    anOther Story Of Progress
     
-    In the early years of anno domini, China experienced one of its most formidable and brilliant rulers in the personage of Qin Shi Huang, or 'The First Emperor of Qin.' By all accounts a visionary, Huan](https://documentaryheaven.com/secrets-of-the-first-emperor/ "Secrets of the First Emperor")
+    anOther Story Of Progress covers various issues, such as environmental destruction, indigenous resistance and insurrection - from a primitivist perspective. It also features primitivist thinkers such](https://documentaryheaven.com/another-story-of-progress/ "anOther Story Of Progress")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
