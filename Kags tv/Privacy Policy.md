@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KCEN/images/cfd17b8a-4c1b-42db-83f5-b44631fca5bb/20241031T155059/cfd17b8a-4c1b-42db-83f5-b44631fca5bb_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/cfd17b8a-4c1b-42db-83f5-b44631fca5bb/20241031T155059/cfd17b8a-4c1b-42db-83f5-b44631fca5bb_360x203.jpg)](https://www.kagstv.com/article/news/local/college-station-oldenburg-lane-crash-oct-31-2024/500-1aec6ce6-ff24-4c83-9847-19e3c99971fd)
+        
+        #### [Car crashes into College Station home through backyard, dog killed](https://www.kagstv.com/article/news/local/college-station-oldenburg-lane-crash-oct-31-2024/500-1aec6ce6-ff24-4c83-9847-19e3c99971fd)
+        
     *  [![](https://media.kagstv.com/assets/KARE/images/d2ecc3f3-8680-4a14-972b-b2be2378a963/20240930T144336/d2ecc3f3-8680-4a14-972b-b2be2378a963_16x9.jpg) ![](https://media.kagstv.com/assets/KARE/images/d2ecc3f3-8680-4a14-972b-b2be2378a963/20240930T144336/d2ecc3f3-8680-4a14-972b-b2be2378a963_360x203.jpg)](https://www.kagstv.com/article/news/local/central-texas-man-arrested-high-speed-chase-montgomery-county-harris-county/500-477a68f3-96a5-452e-9975-a30e8580718b)
         
         #### [Central Texas man arrested after high-speed chase through Montgomery County, Harris County](https://www.kagstv.com/article/news/local/central-texas-man-arrested-high-speed-chase-montgomery-county-harris-county/500-477a68f3-96a5-452e-9975-a30e8580718b)
-        
-    *  [![](https://media.kagstv.com/assets/KCEN/images/dfe958bc-9365-4a7c-a631-48c95c77c56a/20241029T160514/dfe958bc-9365-4a7c-a631-48c95c77c56a_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/dfe958bc-9365-4a7c-a631-48c95c77c56a/20241029T160514/dfe958bc-9365-4a7c-a631-48c95c77c56a_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-in-college-station-on-oct-26-2024/500-9561bf9d-5059-4806-b0c0-31562cf56b54)
-        
-        #### [Authorities seeking information on missing 14-year-old last seen on Oct. 26 in College Station](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-in-college-station-on-oct-26-2024/500-9561bf9d-5059-4806-b0c0-31562cf56b54)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-77°
+89°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
