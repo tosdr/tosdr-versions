@@ -188,39 +188,39 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/a/csm_cruzados-encontrados-filhos-heranca-reproducao-TV-Anhanguera_b6443c5ab4.jpg)
+[![Mulher pelada invade Palácio do Planalto](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/0/csm_mulher_pelada_palacio_planalto_Lauro_Jardim_5954d8856b.png)
 
-No Tocantins
+Brasil
 
-No Tocantins
+Brasil
 
-Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai
+Mulher pelada invade Palácio do Planalto
 
-Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai](https://www.tnh1.com.br/noticia/nid/irmaos-encontram-heranca-de-32-milhoes-em-cruzados-apos-morte-do-pai/ "Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai")[![Idosa de 107 anos desperta atenção por 'chifre' crescendo na testa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/a/csm_idosa-chifre-testa-destaque-reproducao_6ddb6140a7.jpg)
+Mulher pelada invade Palácio do Planalto](https://www.tnh1.com.br/noticia/nid/mulher-pelada-invade-palacio-do-planalto/ "Mulher pelada invade Palácio do Planalto")[![Dentista relata que perdeu a visão após tomar banho sem tirar a lente de contato](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/f/csm_dentista-perde-visao-tomou-banho-lente-contato-arquivo-pessoal_125aae2e11.jpg)
 
-Na China
+27 anos
 
-Na China
+27 anos
 
-Idosa de 107 anos desperta atenção por 'chifre' crescendo na testa
+Dentista relata que perdeu a visão após tomar banho sem tirar a lente de contato
 
-Idosa de 107 anos desperta atenção por 'chifre' crescendo na testa](https://www.tnh1.com.br/noticia/nid/idosa-de-107-anos-desperta-atencao-por-chifre-crescendo-na-testa/ "Idosa de 107 anos desperta atenção por 'chifre' crescendo na testa")[![Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/e/csm_bebe-gigante-minas-gerais-arquivo-pessoal_f7ed6af6b9.jpg)
+Dentista relata que perdeu a visão após tomar banho sem tirar a lente de contato](https://www.tnh1.com.br/noticia/nid/dentista-relata-que-perdeu-a-visao-apos-tomar-banho-sem-tirar-a-lente-de-contato/ "Dentista relata que perdeu a visão após tomar banho sem tirar a lente de contato")[![Dono de pizzaria é preso após agarrar funcionária e tocá-la com a parte íntima](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/2/csm_assedio_ilustracao_pexels_d18660fd4a.jpg)
 
-Viralizou
+No Antares
 
-Viralizou
+No Antares
 
-Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho
+Dono de pizzaria é preso após agarrar funcionária e tocá-la com a parte íntima
 
-Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho](https://www.tnh1.com.br/noticia/nid/video-bebe-gigante-de-10-meses-impressiona-web-pelo-tamanho/ "Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho")[![Por que Rei Charles é instruído a não atender aos telefonemas de Harry](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/a/csm_charles-e-harry-1-reproducao_9a4a4ad096.jpg)
+Dono de pizzaria é preso após agarrar funcionária e tocá-la com a parte íntima](https://www.tnh1.com.br/noticia/nid/dono-de-pizzaria-e-preso-apos-agarrar-funcionaria-e-toca-la-com-a-parte-intima/ "Dono de pizzaria é preso após agarrar funcionária e tocá-la com a parte íntima")[![Suspeito de matar a ex-namorada é localizado e preso em ilha na Lagoa Mundaú](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/1/csm_prisao_ilha_suspeito_matar_namorada_21b2b77e21.jpg)
 
-Família Real
+ESTAVA FORAGIDO
 
-Família Real
+ESTAVA FORAGIDO
 
-Por que Rei Charles é instruído a não atender aos telefonemas de Harry
+Suspeito de matar a ex-namorada é localizado e preso em ilha na Lagoa Mundaú
 
-Por que Rei Charles é instruído a não atender aos telefonemas de Harry](https://www.tnh1.com.br/noticia/nid/por-que-rei-charles-e-instruido-a-nao-atender-aos-telefonemas-de-harry/ "Por que Rei Charles é instruído a não atender aos telefonemas de Harry")
+Suspeito de matar a ex-namorada é localizado e preso em ilha na Lagoa Mundaú](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-a-ex-namorada-e-localizado-e-preso-em-ilha-na-lagoa-mundau/ "Suspeito de matar a ex-namorada é localizado e preso em ilha na Lagoa Mundaú")
 
 [![Rogério de Andrade é suspeito de ter ordenado morte de filho e genro de Castor de Andrade](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/a/csm_rogerio_de_andrade1-reproducao-redes-sociais_4683f45b13.jpg)
 
