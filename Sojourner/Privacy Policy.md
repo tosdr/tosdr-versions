@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7482c9a813bd93b47d7edf392ab189bb
+12af9484e3c002b817b60187e6ff3f65
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![18 mm round gold glitter beads](https://www.sojourner.biz/images/cache/glass/GL0047.200.jpg)](https://www.sojourner.biz/beads/glass/18-mm-round-gold-glitter-beads.html "18 mm round gold glitter beads")
+[![4 mm by 6 mm black onyx faceted rondelles](https://www.sojourner.biz/images/cache/stone/ON0007.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/onyx/4-mm-by-6-mm-black-onyx-faceted-rondelles.html "4 mm by 6 mm black onyx faceted rondelles")
 
-#### [18 mm round gold glitter beads](https://www.sojourner.biz/beads/glass/18-mm-round-gold-glitter-beads.html "18 mm round gold glitter beads")
+#### [4 mm by 6 mm black onyx faceted rondelles](https://www.sojourner.biz/beads/stone-m-z/onyx/4-mm-by-6-mm-black-onyx-faceted-rondelles.html "4 mm by 6 mm black onyx faceted rondelles")
 
-$50.00
+$26.00
 
 ### Best Sellers
 
