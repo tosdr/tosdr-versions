@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/waarom-je-niet-moet-geloven-wat-er-in-de-krant-staat/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/antwoorden-van-ab-klink-over-de-griepvaccinaties/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
