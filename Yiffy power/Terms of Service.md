@@ -107,21 +107,21 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 351 1
+0 372 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/pebble-directed-by-yiffybee/)
+[](https://yiff-party.com/yiff/alkaline-and-squish-team-skull-and-etc-created-by-tofuuu/)
 
-[pebble directed by yiffybee](https://yiff-party.com/yiff-ai-premium/pebble-directed-by-yiffybee/)
+[alkaline and squish (team skull and etc) created by tofuuu](https://yiff-party.com/yiff/alkaline-and-squish-team-skull-and-etc-created-by-tofuuu/)
 
-0 46 0
+0 105 0
 
-October 1, 2024
+October 2, 2024
 
-[](https://yiff-party.com/yiff/evalyn-and-kitos-nintendo-and-etc-created-by-eto-ya/)
+[](https://yiff-party.com/yiff-ai-premium/directed-by-zannos-2/)
 
-[evalyn and kitos (nintendo and etc) created by eto ya](https://yiff-party.com/yiff/evalyn-and-kitos-nintendo-and-etc-created-by-eto-ya/)
+[directed by zannos](https://yiff-party.com/yiff-ai-premium/directed-by-zannos-2/)
 
 0 2 0
 
