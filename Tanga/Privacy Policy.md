@@ -12,11 +12,11 @@
 
 out of 5 based on
 
-74748
+74749
 
 reviews ![Tanga Reviews](https://assets.reviews.io/img/all-global-assets/logo/reviewsio-logo.svg)](http://www.reviews.io/company-reviews/store/tanga.com?utm_source=tanga.com&utm_medium=widget&utm_campaign=text-banner) 
 
-[All Categories](https://www.tanga.com/categories/all) [Fall Apparel](https://www.tanga.com/deals/fall-apparel) [Top Sellers](https://www.tanga.com/deals/top-sellers) [Clearance](https://www.tanga.com/deals/clearance) [Men](https://www.tanga.com/departments/men) [Women](https://www.tanga.com/departments/women) [Electronics](https://www.tanga.com/departments/electronics) [Home](https://www.tanga.com/departments/home) [Jewelry](https://www.tanga.com/departments/jewelry) [Health & Beauty](https://www.tanga.com/departments/health-beauty-e)
+[All Categories](https://www.tanga.com/categories/all) [Holiday Gift Guide](https://www.tanga.com/deals/holiday-gift-guides) [Top Sellers](https://www.tanga.com/deals/top-sellers) [Clearance](https://www.tanga.com/deals/clearance) [Men](https://www.tanga.com/departments/men) [Women](https://www.tanga.com/departments/women) [Electronics](https://www.tanga.com/departments/electronics) [Home](https://www.tanga.com/departments/home) [Jewelry](https://www.tanga.com/departments/jewelry) [Health & Beauty](https://www.tanga.com/departments/health-beauty-e)
 
 Tanga's Privacy Policy
 ======================
@@ -186,7 +186,7 @@ Work With Us
 
 Legal
 
-[Privacy Policy](https://www.tanga.com/pages/privacy-policy) [Terms of Use](https://www.tanga.com/pages/terms-and-conditions) [target="#blank"> Loyalty Terms of Use](https://www.tanga.com/pages/loyalty-terms)
+[Privacy Policy](https://www.tanga.com/pages/privacy-policy) [Terms of Use](https://www.tanga.com/pages/terms-and-conditions) [Loyalty Terms of Use](https://www.tanga.com/pages/loyalty-terms)
 
 ![](https://assetcdn2.tanga.com/assets/v2/footer/us-flag-2e056fd6114d869159b80fac542090e5e0a0f168624dd3ea2906d0d46193c327.svg)
 
