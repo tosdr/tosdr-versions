@@ -224,9 +224,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Wednesday, October 30, 2024**
+**Thursday, October 31, 2024**
 
-**...High Pressure Over Eastern U.S. to Dominate Statewide...Onshore Winds To Bring IsolatedShowers Onshore Along Florida East Coast; Isolated Thunderstorms Possible During Afternoon and Evening...Seasonable to Above Normal Temperatures This Afternoon...Breezy Winds Persist Across Peninsula Throughout Afternoon and Evening...Patchy Fog Possible Tonight or Early Thursday Along Panhandle and Big Bend...High Risk for Rip Currents Persist Along East Coast; High Risk for Rip Currents Developing Along Panhandle...Instances of Minor Coastal Flooding Moderate to Major Riverine Flooding Along Withlacoochee; Minor to Moderate Flooding Along St. Johns...NHC Continues to Monitor Potential Disturbance (40%) Development Over Southwestern Caribbean Sea Over Next 7 Days...**
+**...Frontal Boundary To the West To Weaken High Pressure Over the State; However, Mostly Dry Conditions Will Persist Across the State...Breezy Onshore Winds to Bring Isolated Showers Along the East Coast and Keys...Isolated Shower and Thunderstorm or Two Possible In the Western Panhandle Ahead of The Frontal Boundary...Abnormally Dry to Moderate Drought Conditions Return Along the Florida Panhandle; Locally Sensitive Wildfire Conditions Possible Today...Breezy Easterly to Southeasterly Winds With Gusts Upwards of 15-25 MPH Along Peninsula and Keys...High Risk for Rip Currents Along Florida Panhandle and East Coast...Red Tide Observed At Background to High Concentrations Along Florida's Gulf Coast...Minor Coastal Flooding Along Portions of The St. Johns River Basin Near and At Times of High Tide...Moderate to Major Coastal Flooding Continues Along the Withlacoochee River With Minor to Moderate Flooding Along the St. Johns River...NHC Continues to Monitor A Potential Disturbance Over the Southwestern Caribbean Sea (50%)...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
