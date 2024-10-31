@@ -91,7 +91,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Using AI, historians track how astronomy ideas spread in the 16th century](https://www.sciencenews.org/article/artificial-intelligence-astronomy-ai)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")19 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")October 30, 2024
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Paleontology](https://www.sciencenews.org/topic/paleontology)
+    * * [Animals](https://www.sciencenews.org/topic/animals)
+            
+            ### [This marine biologist discovered a unique blue whale population in Sri Lanka](https://www.sciencenews.org/article/asha-de-vos-sri-lanka-blue-whales)
+            
+            By [Sandy Ong](https://www.sciencenews.org/author/sandy-ong "Posts by Sandy Ong")2 hours ago
+            
+        * [Paleontology](https://www.sciencenews.org/topic/paleontology)
             
             ### [‘Uncovering Dinosaur Behavior’ unearths paleontology’s biases](https://www.sciencenews.org/article/uncovering-dinosaur-book-review)
             
-            By [Aaron Tremper](https://www.sciencenews.org/author/aaron-tremper "Posts by Aaron Tremper")15 hours ago
+            By [Aaron Tremper](https://www.sciencenews.org/author/aaron-tremper "Posts by Aaron Tremper")21 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
             ### [The oldest known fossil tadpole was a big baby](https://www.sciencenews.org/article/oldest-known-tadpole-fossil-big-baby)
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")17 hours ago
-            
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [These hornets may be the alcohol-detox champs of the animal world](https://www.sciencenews.org/article/hornets-alcohol-detox-champs)
-            
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")21 hours ago
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")23 hours ago
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -138,7 +138,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Climate](https://www.sciencenews.org/topic/climate)
+    * * [Animals](https://www.sciencenews.org/topic/animals)
+            
+            ### [This marine biologist discovered a unique blue whale population in Sri Lanka](https://www.sciencenews.org/article/asha-de-vos-sri-lanka-blue-whales)
+            
+            By [Sandy Ong](https://www.sciencenews.org/author/sandy-ong "Posts by Sandy Ong")2 hours ago
+            
+        * [Climate](https://www.sciencenews.org/topic/climate)
             
             ### [Fans may not keep older adults cool during heat waves](https://www.sciencenews.org/article/fans-not-cool-older-adults-heat-waves)
             
@@ -149,12 +155,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [An idea to save Mexico’s oyamel forests could help monarch butterflies too](https://www.sciencenews.org/article/mexicos-forests-monarch-butterflies)
             
             By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")October 18, 2024
-            
-        * [Oceans](https://www.sciencenews.org/topic/oceans)
-            
-            ### [How tiny phytoplankton trek long distances upward in the ocean](https://www.sciencenews.org/article/phytoplankton-trek-upward-ocean)
-            
-            By [Gennaro Tomma](https://www.sciencenews.org/author/gennaro-tomma "Posts by Gennaro Tomma")October 17, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Using AI, historians track how astronomy ideas spread in the 16th century](https://www.sciencenews.org/article/artificial-intelligence-astronomy-ai)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")19 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")October 30, 2024
             
         * [Space](https://www.sciencenews.org/topic/space)
             
