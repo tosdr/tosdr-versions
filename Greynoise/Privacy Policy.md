@@ -1,8 +1,8 @@
-Don't miss our Quarterly Roadmap Showcase
+View exploit activity on the CVEs related to Pacific Rim
 
-[Watch on demand
+[View CVEs
 
-![](https://cdn.prod.website-files.com/667dd40ebb8095e89f275639/667dd40ebb8095e89f275b5d_arrow-right-icon-black.svg)](https://info.greynoise.io/webinar/quarterly-product-showcase-q4-2024)
+![](https://cdn.prod.website-files.com/667dd40ebb8095e89f275639/667dd40ebb8095e89f275b5d_arrow-right-icon-black.svg)](https://viz.greynoise.io/cves?campaign=pacific-rim)
 
 [![](https://cdn.prod.website-files.com/667dd40ebb8095e89f275639/667dd40ebb8095e89f275b5c_x-icon-black.svg)](#)
 
