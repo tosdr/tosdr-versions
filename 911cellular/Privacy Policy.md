@@ -30,6 +30,8 @@
     
     * [Campus safety](https://www.911cellular.com/campus-safety)
     
+    * [Critical incident managment](https://www.911cellular.com/critical-incident-management)
+    
     * [Workplace violence](https://www.911cellular.com/workplace-violence)
     
     * [Partnerships](https://www.911cellular.com/partnerships)
@@ -51,6 +53,7 @@
     
     * [Alyssa's Law](https://www.911cellular.com/alyssas-law)
     * [Campus safety](https://www.911cellular.com/campus-safety)
+    * [Critical incident management](https://www.911cellular.com/critical-incident-management)
     * [Workplace violence](https://www.911cellular.com/workplace-violence)
     * [Partnerships](https://www.911cellular.com/partnerships)
 * Industries
@@ -274,6 +277,7 @@ Stay informed on the latest in critical incident management:
 
 * [Alyssa's Law](https://www.911cellular.com/alyssas-law)
 * [Campus safety](https://www.911cellular.com/campus-safety)
+* [Critical incident management](https://www.911cellular.com/critical-incident-management)
 * [Workplace violence](https://www.911cellular.com/workplace-violence)
 * [Partnerships](https://www.911cellular.com/partnerships)
 * [Blog](https://www.911cellular.com/blog)
