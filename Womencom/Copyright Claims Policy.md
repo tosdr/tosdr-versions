@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Oprah Winfrey smiling](https://www.women.com/img/gallery/why-oprah-is-unapologetically-childless-by-choice/intro-1730134315.jpg)](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
+*  [![Ariana Grande on the red carpet](https://www.women.com/img/gallery/ariana-grande-songs-that-beautifully-explore-grief-and-loss/intro-1730293079.jpg)](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
     
-    [Living](https://www.women.com/category/living/)
+    [Wellness](https://www.women.com/category/wellness/)
     
-    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+    [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
     
-    [Why Oprah Is Unapologetically Childless By Choice](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
-    ==================================================================================================================================
+    [Ariana Grande Songs That Beautifully Explore Grief And Loss](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
+    ====================================================================================================================================
     
-    There are plenty of celebrities who prove you can be unapologetically child free, with Hollywood icon Oprah Winfrey leading the charge.
+    Ariana Grande knows exactly what it means to channel pain through music. We're revisiting the singer's most healing tracks of all time.
     
-    By Madison Emily Whisenand [Read More](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
+    By Emily Hutchinson [Read More](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
     
-* *  [![Brittany Mahomes posing](https://www.women.com/img/gallery/brittany-mahomes-makeup-mistakes-that-totally-ruined-her-look/intro-1730138140.jpg)](https://www.women.com/1699294/brittany-mahomes-makeup-mistakes-totally-ruined-look/)
+* *  [![Oprah Winfrey smiling](https://www.women.com/img/gallery/why-oprah-is-unapologetically-childless-by-choice/intro-1730134315.jpg)](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
+        
+        [Living](https://www.women.com/category/living/)
+        
+        [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+        
+        ### [Why Oprah Is Unapologetically Childless By Choice](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
+        
+        There are plenty of celebrities who prove you can be unapologetically child free, with Hollywood icon Oprah Winfrey leading the charge.
+        
+        By Madison Emily Whisenand [Read More](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
+        
+    *  [![Brittany Mahomes posing](https://www.women.com/img/gallery/brittany-mahomes-makeup-mistakes-that-totally-ruined-her-look/intro-1730138140.jpg)](https://www.women.com/1699294/brittany-mahomes-makeup-mistakes-totally-ruined-look/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
@@ -65,18 +77,6 @@
         Brittany Mahomes is a makeup girl. But unfortunately, there were a few times when experimenting with makeup totally ruined her look.
         
         By Emily Hutchinson [Read More](https://www.women.com/1699294/brittany-mahomes-makeup-mistakes-totally-ruined-look/)
-        
-    *  [![Nicole Kidman wearing sunglasses](https://www.women.com/img/gallery/outdated-trends-nicole-kidman-has-been-caught-wearing/intro-1730128490.jpg)](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-        
-        ### [Outdated Trends Nicole Kidman Has Been Caught Wearing](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
-        
-        Nicole Kidman loves pushing boundaries when it comes to fashion, even if it puts her at greater risk of making a blunder.
-        
-        By Bernadette Roe [Read More](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
         
 
 More Stories
@@ -93,6 +93,18 @@ More Stories
     Fuzzy, faux fur hat company SpiritHoods was trending everywhere in the 2010s. Today, despite an unsuccessful appearance on Shark Tank, it's still going strong.
     
     By Emily Hutchinson [Read More](https://www.women.com/1699179/what-went-down-spirithoods-after-shark-tank/)
+    
+*  [![Nicole Kidman wearing sunglasses](https://www.women.com/img/gallery/outdated-trends-nicole-kidman-has-been-caught-wearing/intro-1730128490.jpg)](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    
+    ### [Outdated Trends Nicole Kidman Has Been Caught Wearing](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
+    
+    Nicole Kidman loves pushing boundaries when it comes to fashion, even if it puts her at greater risk of making a blunder.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
     
 *  [![Kylie Jenner at a WSJ Magazine event](https://www.women.com/img/gallery/kylie-jenners-best-nail-looks-of-all-time/intro-1730120154.jpg)](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
     
@@ -393,18 +405,6 @@ More Stories
     When it comes to Ariana Grande's "Wicked" fashion, it's all about pink-u-lar. Here are the best Good Witch outfits we've seen on the star in 2024.
     
     By Emily Hutchinson [Read More](https://www.women.com/1688575/glinda-coded-outfits-ariana-grande-wicked/)
-    
-*  [![Julia Roberts speaking](https://www.women.com/img/gallery/5-celebrities-who-have-advocated-for-reproductive-rights-ahead-of-the-2024-election/intro-1729007494.jpg)](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
-    
-    [Politics](https://www.women.com/category/politics/)
-    
-    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
-    
-    ### [5 Celebrities Who Have Advocated For Reproductive Rights Ahead Of The 2024 Election](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
-    
-    Although many things are at stake with this upcoming presidential election, reproductive rights is one of the most important.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
     
 
 Back
