@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [Low-Level Lead Poisoning Is Still Pervasive](https://www.sciencedaily.com/releases/2024/10/241030171917.htm)
+* [Quantum Network Link Between Cities](https://www.sciencedaily.com/releases/2024/10/241030145638.htm)
+* [Why Elephants Never Forget](https://www.sciencedaily.com/releases/2024/10/241031124448.htm)
+* [Fastest-Spinning Star in the Universe?](https://www.sciencedaily.com/releases/2024/10/241030150425.htm)
+* [Meltwater Accumulation Within Greenland Ice ...](https://www.sciencedaily.com/releases/2024/10/241030145900.htm)
 * [Natural Regrowth of Tropical Forests: Huge ...](https://www.sciencedaily.com/releases/2024/10/241030150020.htm)
 * ['Black Box' of Stem Cell Transplants Opened](https://www.sciencedaily.com/releases/2024/10/241030145819.htm)
 * [How Sleeping Sickness Parasite Outsmarts ...](https://www.sciencedaily.com/releases/2024/10/241030145811.htm)
 * [Britain's Brass Bands in Napoleonic Wars](https://www.sciencedaily.com/releases/2024/10/241029203005.htm)
 * [Why Crocs Never Became Deep Divers: Sinuses](https://www.sciencedaily.com/releases/2024/10/241029203003.htm)
-* [Shakespeare Typing Monkeys? Universe Too Short](https://www.sciencedaily.com/releases/2024/10/241030150811.htm)
-* [Alcohol Consumption Among Non-Human Animals](https://www.sciencedaily.com/releases/2024/10/241030150809.htm)
-* [Solar-Powered Animal Cells](https://www.sciencedaily.com/releases/2024/10/241030150215.htm)
-* [Ancient DNA and History of Iconic Aurochs](https://www.sciencedaily.com/releases/2024/10/241030145858.htm)
-* [Farewell Frost! Preventing Frost Without Heat](https://www.sciencedaily.com/releases/2024/10/241030145719.htm)
 
 Trending Topics
 ---------------
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
-
 [Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
 
-[Infectious Diseases](https://www.sciencedaily.com/news/health_medicine/infectious_diseases/)
+[Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
+
+[Wounds and Healing](https://www.sciencedaily.com/news/health_medicine/wounds_and_healing/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+[Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
 
-[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
+[Solar Energy](https://www.sciencedaily.com/news/matter_energy/solar_energy/)
 
-[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
+[Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
-[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
+[Wild Animals](https://www.sciencedaily.com/news/plants_animals/wild_animals/)
 
-[Evolutionary Biology](https://www.sciencedaily.com/news/plants_animals/evolution/)
+[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
 
   
 
