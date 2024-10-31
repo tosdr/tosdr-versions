@@ -37,7 +37,7 @@ Region-specific Disclosures[#](#region-specific-disclosures)
 ------------------------------------------------------------
 
 * **California - Your California Privacy Rights:** If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of personal information to third parties for their direct marketing purposes during the immediately preceding calendar year. Note we do not share your personal information with third parties for their own marketing purposes.
-* **Nevada:** Chapter 603A of the Nevada Revised Statutes permits a Nevada resident to opt out of future sales of certain covered information that a website operator has collected or will collect about the resident. Note we do not sell your personal information within the meaning of Chapter 603A. However, if you would still like to submit such a request, please contact us at [\[email protected\]](https://supabase.io/cdn-cgi/l/email-protection).
+* **Nevada:** Chapter 603A of the Nevada Revised Statutes permits a Nevada resident to opt out of future sales of certain covered information that a website operator has collected or will collect about the resident. Note we do not sell your personal information within the meaning of Chapter 603A. However, if you would still like to submit such a request, please contact us at [support@supabase.com](mailto:support@supabase.com).
 * **European Economic Area, United Kingdom or Switzerland:** If you are located in the European Economic Area ("**_EEA_**"), United Kingdom or Switzerland, or otherwise engage with Supabase’s European operations, please see the **[Privacy Disclosures for the European Economic Area, United Kingdom and Switzerland](#privacy-disclosures-for-the-european-economic-area-united-kingdom-and-switzerland)** for additional European-specific privacy disclosures, including the lawful bases we rely on to process your personal information, how we use cookies when you access our Sites from the EEA, UK or Switzerland and your rights in respect of your personal information.
 
 **Note for International Visitors:** Personal information may be transferred to, stored and processed in a country other than the one in which it was collected. For example, the Sites are primarily hosted in and provided from the United States. Please note the country to which personal data is transferred may not provide the same level of protection for personal information as the country from which it was transferred.
@@ -151,7 +151,7 @@ For your convenience, our Site may provide links to third-party websites or serv
 7\. Children’s Privacy[#](#7-childrens-privacy)
 -----------------------------------------------
 
-Our services are not intended for children under the age of 13. We do not knowingly solicit or collect personal information from children under the age of 13. If we learn that any personal information has been collected inadvertently from a child under 13, we will delete the information as soon as possible. If you believe that we might have collected information from a child under 13, please contact us at [\[email protected\]](https://supabase.io/cdn-cgi/l/email-protection).
+Our services are not intended for children under the age of 13. We do not knowingly solicit or collect personal information from children under the age of 13. If we learn that any personal information has been collected inadvertently from a child under 13, we will delete the information as soon as possible. If you believe that we might have collected information from a child under 13, please contact us at [privacy@supabase.com](mailto:privacy@supabase.com).
 
 8\. Changes to Privacy Notice[#](#8-changes-to-privacy-notice)
 --------------------------------------------------------------
@@ -161,7 +161,7 @@ We reserve the right to change this Privacy Notice from time to time in our sole
 9\. Contact Us[#](#9-contact-us)
 --------------------------------
 
-For additional inquiries about this Privacy Notice, please send us an email at [\[email protected\]](https://supabase.io/cdn-cgi/l/email-protection).
+For additional inquiries about this Privacy Notice, please send us an email at [privacy@supabase.com](mailto:privacy@supabase.com).
 
 Privacy disclosures for the European economic area, United Kingdom, and Switzerland.[#](#privacy-disclosures-for-the-european-economic-area-united-kingdom-and-switzerland)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
