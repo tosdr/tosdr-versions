@@ -7,11 +7,11 @@
 * [English](https://www.jamf.com/terms-of-use/)
 * [Deutsch (German)](https://www.jamf.com/de/terms-of-use/)
 * [Français (French)](https://www.jamf.com/fr/terms-of-use/)
-* [Español (Spanish)](https://www.jamf.com/es/condiciones-de-uso/)
 * [日本語 (Japanese)](https://www.jamf.com/ja/terms-of-use/)
 * [简体中文 (Simplified Chinese)](https://www.jamf.com/zh-cn/terms-of-use/)
 * [繁體中文 (Traditional Chinese)](https://www.jamf.com/zh-tw/terms-of-use/)
 * [Nederlands (Dutch)](https://www.jamf.com/nl/gebruiksvoorwaarden/)
+* [Español (Spanish)](https://www.jamf.com/es/condiciones-de-uso/)
 
 [Jamf Home](https://www.jamf.com/)
 
@@ -240,11 +240,11 @@ Jamf English
 * [English](https://www.jamf.com/terms-of-use/)
 * [Deutsch (German)](https://www.jamf.com/de/terms-of-use/)
 * [Français (French)](https://www.jamf.com/fr/terms-of-use/)
-* [Español (Spanish)](https://www.jamf.com/es/condiciones-de-uso/)
 * [日本語 (Japanese)](https://www.jamf.com/ja/terms-of-use/)
 * [简体中文 (Simplified Chinese)](https://www.jamf.com/zh-cn/terms-of-use/)
 * [繁體中文 (Traditional Chinese)](https://www.jamf.com/zh-tw/terms-of-use/)
 * [Nederlands (Dutch)](https://www.jamf.com/nl/gebruiksvoorwaarden/)
+* [Español (Spanish)](https://www.jamf.com/es/condiciones-de-uso/)
 
 Jamf’s purpose is to simplify work by helping organizations manage and secure an Apple experience that end users love and organizations trust. Jamf is the only company in the world that provides a complete management and security solution for an Apple-first environment that is enterprise secure, consumer simple and protects personal privacy. [Learn about Jamf](https://www.jamf.com/about/).
 
@@ -350,11 +350,11 @@ English
 * [English](https://www.jamf.com/terms-of-use/)
 * [Deutsch (German)](https://www.jamf.com/de/terms-of-use/)
 * [Français (French)](https://www.jamf.com/fr/terms-of-use/)
-* [Español (Spanish)](https://www.jamf.com/es/condiciones-de-uso/)
 * [日本語 (Japanese)](https://www.jamf.com/ja/terms-of-use/)
 * [简体中文 (Simplified Chinese)](https://www.jamf.com/zh-cn/terms-of-use/)
 * [繁體中文 (Traditional Chinese)](https://www.jamf.com/zh-tw/terms-of-use/)
 * [Nederlands (Dutch)](https://www.jamf.com/nl/gebruiksvoorwaarden/)
+* [Español (Spanish)](https://www.jamf.com/es/condiciones-de-uso/)
 
 All contents © copyright 2002-2024 Jamf. All rights reserved.
 
