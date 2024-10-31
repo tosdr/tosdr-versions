@@ -514,7 +514,7 @@ Say hello to Medela’s smallest and first wearable hands-free double electric b
 
 [Find out more](https://breastfeedingsupply.com/product/020451441641)
 
-![](/050-lactation-professionals/4725/image-thumb__4725__text-image-basic/lactation-professionals.c7fd6b74.jpg)
+![Woman holding a baby and talking with a lactation professional](/050-lactation-professionals/4725/image-thumb__4725__text-image-basic/lactation-professionals.c7fd6b74.jpg)
 
 Lactation Professionals
 -----------------------
