@@ -1,8 +1,8 @@
-[Note linking & at rest encryption is here! Check out what's new in v3.0.0](https://blog.notesnook.com/introducing-notesnook-v3/)
-
 [![](/logo.svg)](https://notesnook.com/)
 
-Notesnook Privacy for everyone
+##### Notesnook
+
+Privacy for everyone
 
 [Pricing](https://notesnook.com/pricing)[Downloads](https://notesnook.com/downloads)[Blog](https://blog.notesnook.com/)[Github](https://github.com/streetwriters/notesnook)[Community](https://discord.com/invite/zQBK97EE22)
 
@@ -128,9 +128,18 @@ Change log
 3. Added the [https://app.notesnook.com/](https://app.notesnook.com/) web app to the list of Services.
 4. Clarified where our servers are located in **6\. Transfer of Data**.
 
+Get started for free
+--------------------
+
+Your notes deserve better privacy, start today.
+
+[Try Notesnook](https://app.notesnook.com/signup)[Plans & pricing](https://notesnook.com/pricing)
+
 [![](/logo.svg)](https://notesnook.com/)
 
-NotesnookPrivacy for everyone
+### Notesnook
+
+Privacy for everyone
 
 [](https://twitter.com/notesnook)[](https://www.reddit.com/r/notesnook)[](https://t.me/notesnook)[](https://discord.com/invite/zQBK97EE22)[](https://fosstodon.org/@notesnook)[](https://blog.notesnook.com/feed.xml)
 
