@@ -586,17 +586,17 @@ Resources
 
 Popular Courses
 
- [FMVA® Prep Course 3.5h Excel Fundamentals - Formulas for Finance](https://corporatefinanceinstitute.com/course/excel-fundamentals-formulas-for-finance/)
+ [FMVA® Prep Course 8035h Excel Fundamentals - Formulas for Finance](https://corporatefinanceinstitute.com/course/excel-fundamentals-formulas-for-finance/)
 
- [FMVA® Required 6.5h 3-Statement Modeling](https://corporatefinanceinstitute.com/course/3-statement-modeling/)
+ [FMVA® Required 11717h 3-Statement Modeling](https://corporatefinanceinstitute.com/course/3-statement-modeling/)
 
- [FMVA® Required 6h Introduction to Business Valuation](https://corporatefinanceinstitute.com/course/intro-business-valuation/)
+ [FMVA® Required 11313h Introduction to Business Valuation](https://corporatefinanceinstitute.com/course/intro-business-valuation/)
 
- [FMVA® Required 2.5h Scenario & Sensitivity Analysis in Excel](https://corporatefinanceinstitute.com/course/sensitivity-analysis-financial-modeling/)
+ [FMVA® Required 3356h Scenario & Sensitivity Analysis in Excel](https://corporatefinanceinstitute.com/course/sensitivity-analysis-financial-modeling/)
 
- [FMVA® Required 6h Dashboards & Data Visualization](https://corporatefinanceinstitute.com/course/excel-dashboard-and-data-visualization-course-onlineexcel-dashboard-and-data-visualization-course-online/)
+ [FMVA® Required 8663h Dashboards & Data Visualization](https://corporatefinanceinstitute.com/course/excel-dashboard-and-data-visualization-course-onlineexcel-dashboard-and-data-visualization-course-online/)
 
- [FMVA® Electives 15h Leveraged Buyout (LBO) Modeling](https://corporatefinanceinstitute.com/course/leveraged-buyout-lbo-modeling/)
+ [FMVA® Electives 19885h Leveraged Buyout (LBO) Modeling](https://corporatefinanceinstitute.com/course/leveraged-buyout-lbo-modeling/)
 
 [See All Courses See All](https://corporatefinanceinstitute.com/collections/)
 
