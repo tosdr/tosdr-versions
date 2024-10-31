@@ -5,9 +5,9 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Hallowheel 2024
 
-Tricks? Treats? Take a spin and find out.
+You have until midnight to spin—and win
 
-SPIN TO WIN
+SPIN NOW
 
 _keyboard\_arrow\_right_](https://drop.com/featured/hallowheel-2024)
 
