@@ -64,7 +64,7 @@ triangle borderless
     
     Floodlight Cameras](https://www.lorex.com/collections/floodlights)[![](//www.lorex.com/cdn/shop/collections/H871T6D-4BA2-L1_80x.png?v=1693510802)
     
-    Battery-Operated Systems and Cameras](https://www.lorex.com/collections/wire-free-security-systems)[![](//www.lorex.com/cdn/shop/collections/AY41TR-KTK2-MTK1-L1_80x.png?v=1686081704)
+    Battery-Operated Systems and Cameras](https://www.lorex.com/collections/battery-operated-security-systems)[![](//www.lorex.com/cdn/shop/collections/AY41TR-KTK2-MTK1-L1_80x.png?v=1686081704)
     
     Sensors](https://www.lorex.com/collections/sensors)[![](//www.lorex.com/cdn/shop/collections/LK100-L2_80x.png?v=1691693837)
     
@@ -194,7 +194,7 @@ arrow left Back
 * [Wireless (Wi-Fi) Cameras](https://www.lorex.com/collections/wi-fi-security-cameras)
 * [Video Doorbells](https://www.lorex.com/collections/doorbells)
 * [Floodlight Cameras](https://www.lorex.com/collections/floodlights)
-* [Battery-Operated Systems and Cameras](https://www.lorex.com/collections/wire-free-security-systems)
+* [Battery-Operated Systems and Cameras](https://www.lorex.com/collections/battery-operated-security-systems)
 * [Sensors](https://www.lorex.com/collections/sensors)
 * [Smart Locks](https://www.lorex.com/collections/smart-locks)
 * [Accessories](https://www.lorex.com/collections/accessories-smart-home)
@@ -440,12 +440,12 @@ Your cart is empty
     
     Battery-Operated Systems and Cameras
     
-    Rechargeable security cameras that wirelessly connect to a recorder](https://www.lorex.com/collections/wire-free-security-systems)
+    Rechargeable security cameras that wirelessly connect to a recorder](https://www.lorex.com/collections/battery-operated-security-systems)
     
-    * [Battery-Operated Security System...](https://www.lorex.com/collections/wire-free-security-systems)
+    * [Battery-Operated Security System...](https://www.lorex.com/collections/battery-operated-security-systems)
     * [Battery-Operated Security Cameras](https://www.lorex.com/collections/battery-operated-security-cameras)
     
-    [**Shop All >**](https://www.lorex.com/collections/wire-free-security-systems)
+    [**Shop All >**](https://www.lorex.com/collections/battery-operated-security-systems)
     
     [![](//www.lorex.com/cdn/shop/collections/AY41TR-KTK2-MTK1-L1_x150.png?v=1686081704)
     
