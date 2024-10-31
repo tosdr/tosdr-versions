@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/411/dumb-ahh-pumpkin-explainer.jpg "What's The 'Dumb Ahh Pumpkin' Meme? The Silly TikTok Jack-O'-Lanterns You're Bound To See On Halloween Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/412/creepychan.jpg "Where Are They Now? Here's What Allison Harvard, AKA 'Creepy Chan,' Has Been Up To Since Her Early Internet Fame")
     
-    What's The 'Dumb Ahh Pumpkin' Meme? The Silly TikTok Jack-O'-Lanterns You're Bound To See On Halloween Explained](https://knowyourmeme.com/editorials/guides/whats-the-dumb-ahh-pumpkin-meme-the-silly-tiktok-jack-o-lanterns-youre-bound-to-see-on-halloween-explained)
+    Where Are They Now? Here's What Allison Harvard, AKA 'Creepy Chan,' Has Been Up To Since Her Early Internet Fame](https://knowyourmeme.com/editorials/guides/where-are-they-now-heres-what-allison-harvard-aka-creepy-chan-has-been-up-to-since-her-early-internet-fame-and-americas-next-top-model)
     
 * [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/410/fbe.jpg "What's The Correct Answer For The 6÷2(1+2) Equation? The Viral 'Math Bait' Meme Explained")
     
     What's The Correct Answer For The 6÷2(1+2) Equation? The Viral 'Math Bait' Meme Explained](https://knowyourmeme.com/editorials/guides/whats-the-correct-answer-for-the-6212-equation-the-viral-math-bait-meme-explained)
     
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/411/dumb-ahh-pumpkin-explainer.jpg "What's The 'Dumb Ahh Pumpkin' Meme? The Silly TikTok Jack-O'-Lanterns You're Bound To See On Halloween Explained")
+    
+    What's The 'Dumb Ahh Pumpkin' Meme? The Silly TikTok Jack-O'-Lanterns You're Bound To See On Halloween Explained](https://knowyourmeme.com/editorials/guides/whats-the-dumb-ahh-pumpkin-meme-the-silly-tiktok-jack-o-lanterns-youre-bound-to-see-on-halloween-explained)
+    
 * [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/409/maxresdefault.jpg "Who Are 'Jinky Minus' And 'Gaper Bingzoid'? A Pair Of Bizarre New 'Star Wars' Characters Explained")
     
     Who Are 'Jinky Minus' And 'Gaper Bingzoid'? A Pair Of Bizarre New 'Star Wars' Characters Explained](https://knowyourmeme.com/editorials/guides/who-are-jinky-minus-and-gaper-bingzoid-a-pair-of-bizarre-new-star-wars-characters-explained)
     
-* [!['I'll Build My Own Wall' Comic Gets Lampooned In Memes](https://i.kym-cdn.com/featured_items/icons/wide/000/026/408/wall.jpg "'I'll Build My Own Wall' Comic Gets Lampooned In Memes")
+* [![The Meme History Of 'No Capes,' One Of The Most Iconic Lines From 'The Incredibles'](https://i.kym-cdn.com/featured_items/icons/wide/000/026/428/no-capes.gif "The Meme History Of 'No Capes,' One Of The Most Iconic Lines From 'The Incredibles'")
     
-    'I'll Build My Own Wall' Comic Gets Lampooned In Memes](https://knowyourmeme.com/memes/ill-build-my-own-wall)
-    
-* [![Sabrina Carpenter Creates New TikTok Trend With Her Live Performance Of 'Juno"](https://i.kym-cdn.com/featured_items/icons/wide/000/026/407/1729953428301.png "Sabrina Carpenter Creates New TikTok Trend With Her Live Performance Of 'Juno"")
-    
-    Sabrina Carpenter Creates New TikTok Trend With Her Live Performance Of 'Juno"](https://knowyourmeme.com/memes/sabrina-carpenter-juno-positions-trend)
+    The Meme History Of 'No Capes,' One Of The Most Iconic Lines From 'The Incredibles'](https://knowyourmeme.com/memes/no-capes)
     
 
 ##### Also Trending:
 
-[Derp](https://knowyourmeme.com/memes/derp)
+[Trump Riding in Garbage Truck](https://knowyourmeme.com/memes/events/donald-trump-riding-in-a-garbage-truck "Trump Riding in Garbage Truck") [Russian Court $20 Decillion Google Fine](https://knowyourmeme.com/memes/events/russian-court-20000000000000000000000000000000000-fine-against-google "Russian Court $20 Decillion Google Fine") [Cancel Out Vote Trend](https://knowyourmeme.com/memes/cancel-out-a-vote-trend "Cancel Out Vote Trend") [Solar Flare (P vs Z)](https://knowyourmeme.com/memes/solar-flare-plants-vs-zombies "Solar Flare (P vs Z)") [Maia Poet 'Lazy Eye' Controversy](https://knowyourmeme.com/memes/events/maia-poet-left-and-joined-team-maga-lazy-eye-controversy "Maia Poet 'Lazy Eye' Controversy") [Too Many Cooks](https://knowyourmeme.com/memes/too-many-cooks "Too Many Cooks")
 
 Terms of Service and Use
 ========================
@@ -263,7 +263,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hi! You must login or signup first!
+### Hey! You must login or signup first!
 
 |     |     |
 | --- | --- |
