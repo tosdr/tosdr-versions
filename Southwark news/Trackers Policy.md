@@ -20,6 +20,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Tony Macklin died on 6 November 2015.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_6539-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
+    
+    ### [Minute’s applause at Millwall game to honour lifelong fan who died of cancer](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
+    
+    [![Jake Cooper after Millwall's 1-0 win against Plymouth Argyle. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_6640-2024-10-24T15_30_14.972-360x180.jpg)](https://southwarknews.co.uk/news/they-seem-hungry-cooper-praises-millwall-youngsters-fire/)
+    
+    ### [‘They seem hungry’ – Cooper praises Millwall youngsters’ fire](https://southwarknews.co.uk/news/they-seem-hungry-cooper-praises-millwall-youngsters-fire/)
+    
     [![Lower Road pictured a month after Cycleway 4 was unveiled](https://southwarknews.co.uk/wp-content/uploads/2024/10/blurred-3-e1730298302905-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
     
     ### [Exclusive: Collisions have almost tripled on Lower Road since cycle lane was installed, data suggests](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
@@ -48,14 +56,6 @@
     [![Tom Burton with his 1963 Dandy edition](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tom-Burton-IMG_5912-e1730203462284-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
     
     ### [Bermondsey boy reunited with 60-year-old Dandy comic he starred in](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
-    
-    [![Southwark Council wants 20,000 new homes to be built around the Old Kent Road over the next 18 years. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/Old-Kent-Road-360x180.jpg)](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
-    
-    ### [Old Kent Road: What are people’s views on plans for 20,000 new homes?](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
-    
-    [![(photo: London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-29-10-2024-at-10.03-360x180.jpg)](https://southwarknews.co.uk/area/peckham/fire-at-suspected-cannabis-factory-in-peckham/)
-    
-    ### [Fire at suspected cannabis factory in Peckham](https://southwarknews.co.uk/area/peckham/fire-at-suspected-cannabis-factory-in-peckham/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Tony Macklin died on 6 November 2015.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_6539-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
+    
+    ### [Minute’s applause at Millwall game to honour lifelong fan who died of cancer](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
+    
+    [![Jake Cooper after Millwall's 1-0 win against Plymouth Argyle. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_6640-2024-10-24T15_30_14.972-360x180.jpg)](https://southwarknews.co.uk/news/they-seem-hungry-cooper-praises-millwall-youngsters-fire/)
+    
+    ### [‘They seem hungry’ – Cooper praises Millwall youngsters’ fire](https://southwarknews.co.uk/news/they-seem-hungry-cooper-praises-millwall-youngsters-fire/)
+    
     [![Lower Road pictured a month after Cycleway 4 was unveiled](https://southwarknews.co.uk/wp-content/uploads/2024/10/blurred-3-e1730298302905-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
     
     ### [Exclusive: Collisions have almost tripled on Lower Road since cycle lane was installed, data suggests](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
@@ -134,14 +142,6 @@ View All Result
     [![Tom Burton with his 1963 Dandy edition](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tom-Burton-IMG_5912-e1730203462284-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
     
     ### [Bermondsey boy reunited with 60-year-old Dandy comic he starred in](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
-    
-    [![Southwark Council wants 20,000 new homes to be built around the Old Kent Road over the next 18 years. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/Old-Kent-Road-360x180.jpg)](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
-    
-    ### [Old Kent Road: What are people’s views on plans for 20,000 new homes?](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
-    
-    [![(photo: London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-29-10-2024-at-10.03-360x180.jpg)](https://southwarknews.co.uk/area/peckham/fire-at-suspected-cannabis-factory-in-peckham/)
-    
-    ### [Fire at suspected cannabis factory in Peckham](https://southwarknews.co.uk/area/peckham/fire-at-suspected-cannabis-factory-in-peckham/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -241,6 +241,12 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Featured Articles
 
+[![Tony Macklin died on 6 November 2015.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_6539-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
+
+### [Minute’s applause at Millwall game to honour lifelong fan who died of cancer](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
+
+[31st October 2024](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
+
 [![From (L-R) Oliver Smith, Murray Kemp, Kerrica Kendall, Beatrice Davidson and Jacob Gower pose for photos outside Stratford Magistrates Court and Family Court. Photo by Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-protesters-120x86.jpg)](https://southwarknews.co.uk/area/peckham/protesters-who-blocked-a-coach-in-peckham-taking-asylum-seekers-to-bibby-stockholm-barge-cleared/)
 
 ### [Protesters who blocked a coach in Peckham taking asylum seekers to Bibby Stockholm barge cleared](https://southwarknews.co.uk/area/peckham/protesters-who-blocked-a-coach-in-peckham-taking-asylum-seekers-to-bibby-stockholm-barge-cleared/)
@@ -270,12 +276,6 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [Old Kent Road: What are people’s views on plans for 20,000 new homes?](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
 
 [29th October 2024](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
-
-[![(photo: London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-29-10-2024-at-10.03-120x86.jpg)](https://southwarknews.co.uk/area/peckham/fire-at-suspected-cannabis-factory-in-peckham/)
-
-### [Fire at suspected cannabis factory in Peckham](https://southwarknews.co.uk/area/peckham/fire-at-suspected-cannabis-factory-in-peckham/)
-
-[29th October 2024](https://southwarknews.co.uk/area/peckham/fire-at-suspected-cannabis-factory-in-peckham/)
 
 ### USEFUL PAGES
 
