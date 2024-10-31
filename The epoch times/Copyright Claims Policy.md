@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [With 5 Days to Go, More Americans Have Voted Early In-Person Than by Mail](https://www.theepochtimes.com/us/with-5-days-to-go-more-americans-have-voted-early-in-person-than-by-mail-5751365)
+    
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![With 5 Days to Go, More Americans Have Voted Early In-Person Than by Mail](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![With 5 Days to Go, More Americans Have Voted Early In-Person Than by Mail](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747994-Kamala-Harris-Donald-Trump-6-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/with-5-days-to-go-more-americans-have-voted-early-in-person-than-by-mail-5751365)
+* [Starbucks to Stop Charging Extra for Nondairy Milk, Beginning November](https://www.theepochtimes.com/business/starbucks-to-stop-charging-extra-for-nondairy-milk-beginning-november-5751233)
+    
+    1hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    
+    [![Starbucks to Stop Charging Extra for Nondairy Milk, Beginning November](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Starbucks to Stop Charging Extra for Nondairy Milk, Beginning November](https://img.theepochtimes.com/assets/uploads/2022/04/1.tagreuters.com2022binary_LYNXNPEI330B4-FILEDIMAGE-205x123.jpg.webp)](https://www.theepochtimes.com/business/starbucks-to-stop-charging-extra-for-nondairy-milk-beginning-november-5751233)
+* [Mail Ballots Without Dates Must Be Counted: Pennsylvania Court](https://www.theepochtimes.com/us/mail-ballots-without-dates-must-be-counted-pennsylvania-court-5751289)
+    
+    2hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Mail Ballots Without Dates Must Be Counted: Pennsylvania Court](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Mail Ballots Without Dates Must Be Counted: Pennsylvania Court](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5749537-Ballot-205x123.jpg.webp)](https://www.theepochtimes.com/us/mail-ballots-without-dates-must-be-counted-pennsylvania-court-5751289)
+* [Fed Inches Closer to 2 Percent Inflation Target in September PCE Report](https://www.theepochtimes.com/business/fed-inches-closer-to-2-percent-inflation-target-in-september-pce-report-5750785)
+    
+    2hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![Fed Inches Closer to 2 Percent Inflation Target in September PCE Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Fed Inches Closer to 2 Percent Inflation Target in September PCE Report](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739185-GettyImages-1537694096KO-205x123.jpg.webp)](https://www.theepochtimes.com/business/fed-inches-closer-to-2-percent-inflation-target-in-september-pce-report-5750785)
+* [Trump’s Potential Treasury Pick Vows Spending Cuts in Partnership With Musk](https://www.theepochtimes.com/business/trumps-potential-treasury-pick-vows-spending-cuts-in-partnership-with-musk-5751239)
+    
+    4hr By [Mary Man](https://www.theepochtimes.com/author/mary-man)
+    
+    [![Trump’s Potential Treasury Pick Vows Spending Cuts in Partnership With Musk](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump’s Potential Treasury Pick Vows Spending Cuts in Partnership With Musk](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751330-John-Paulson-GettyImages-2172701134.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/trumps-potential-treasury-pick-vows-spending-cuts-in-partnership-with-musk-5751239)
+* [North Korea Launches ICBM in First Test in Nearly a Year](https://www.theepochtimes.com/world/north-korea-launches-icbm-in-first-test-in-nearly-a-year-5751210)
+    
+    5hr By [Stephen Katte](https://www.theepochtimes.com/author/stephen-katte)
+    
+    [![North Korea Launches ICBM in First Test in Nearly a Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![North Korea Launches ICBM in First Test in Nearly a Year](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750535-2024-10-30T095625Z_1_LYNXMPEK9T0CK_RTROPTP_4_NORTHKOREA-MISSILES-205x123.jpg.webp)](https://www.theepochtimes.com/world/north-korea-launches-icbm-in-first-test-in-nearly-a-year-5751210)
 * [US Government Invests Over $2.4 Billion in State Railroad, Bridge Improvements](https://www.theepochtimes.com/us/us-government-invests-over-2-4-billion-in-state-railroad-bridge-improvements-5750847)
     
-    NEW By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    7hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
     
     [![US Government Invests Over $2.4 Billion in State Railroad, Bridge Improvements](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Government Invests Over $2.4 Billion in State Railroad, Bridge Improvements](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750853-AP24303694908480-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-government-invests-over-2-4-billion-in-state-railroad-bridge-improvements-5750847)
+    ![US Government Invests Over $2.4 Billion in State Railroad, Bridge Improvements](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751332-AP24303694908480.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-government-invests-over-2-4-billion-in-state-railroad-bridge-improvements-5750847)
 * [High Gaza Death Toll Figures Generate Controversy](https://www.theepochtimes.com/world/high-gaza-death-toll-figures-generate-controversy-5749986)
     
-    NEW By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    7hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
     
     [![High Gaza Death Toll Figures Generate Controversy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![High Gaza Death Toll Figures Generate Controversy](https://img.theepochtimes.com/assets/uploads/2023/10/24/id5515810-gaza--205x123.jpg.webp)](https://www.theepochtimes.com/world/high-gaza-death-toll-figures-generate-controversy-5749986)
+    ![High Gaza Death Toll Figures Generate Controversy](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751331-gaza-.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/high-gaza-death-toll-figures-generate-controversy-5749986)
 * [Wave of New Performance Numbers Still Has Some Economists Unsure What’s Ahead for US Economy](https://www.theepochtimes.com/business/wave-of-new-performance-numbers-still-has-some-economists-unsure-whats-ahead-for-us-economy-5750868)
     
-    5hr By [Mark Gilman](https://www.theepochtimes.com/author/mark-gilman)
+    11hr By [Mark Gilman](https://www.theepochtimes.com/author/mark-gilman)
     
     [![Wave of New Performance Numbers Still Has Some Economists Unsure What’s Ahead for US Economy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Wave of New Performance Numbers Still Has Some Economists Unsure What’s Ahead for US Economy](https://img.theepochtimes.com/assets/uploads/2024/05/10/id5647752-jobless-claim-AP21308456773930-1200x800-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/wave-of-new-performance-numbers-still-has-some-economists-unsure-whats-ahead-for-us-economy-5750868)
-* [Dodgers Win World Series in 5 Games, Overcome 5-run Deficit With Help of Errors to Beat Yankees 7–6](https://www.theepochtimes.com/sports/dodgers-win-world-series-in-5-games-overcome-5-run-deficit-with-help-of-errors-to-beat-yankees-7-6-post-5751218)
-    
-    6hr By [The Associated Press](https://www.theepochtimes.com/author/associated-press)
-    
-    [![Dodgers Win World Series in 5 Games, Overcome 5-run Deficit With Help of Errors to Beat Yankees 7–6](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Dodgers Win World Series in 5 Games, Overcome 5-run Deficit With Help of Errors to Beat Yankees 7–6](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751236-World-Series-AP24305168508290-205x123.jpg.webp)](https://www.theepochtimes.com/sports/dodgers-win-world-series-in-5-games-overcome-5-run-deficit-with-help-of-errors-to-beat-yankees-7-6-post-5751218)
 * [Police Crack Down on Street Takeovers With High-Tech Surveillance as 4th Amendment Battles Loom](https://www.theepochtimes.com/us/police-crack-down-on-street-takeovers-with-high-tech-surveillance-as-4th-amendment-battles-loom-5749497)
     
-    8hr By [Beige Luciano-Adams](https://www.theepochtimes.com/author/beige-luciano-adams)
+    14hr By [Beige Luciano-Adams](https://www.theepochtimes.com/author/beige-luciano-adams)
     
     [![Police Crack Down on Street Takeovers With High-Tech Surveillance as 4th Amendment Battles Loom](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Police Crack Down on Street Takeovers With High-Tech Surveillance as 4th Amendment Battles Loom](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5751140-License-Plate-Reader-205x123.jpg.webp)](https://www.theepochtimes.com/us/police-crack-down-on-street-takeovers-with-high-tech-surveillance-as-4th-amendment-battles-loom-5749497)
-* [Day in Photos: Severe Flash Floods, Murder Trials, and Honoring Victims of Communism](https://www.theepochtimes.com/article/day-in-photos-severe-flash-floods-murder-trials-and-honoring-victims-of-communism-5750546)
-    
-    9hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Severe Flash Floods, Murder Trials, and Honoring Victims of Communism](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Severe Flash Floods, Murder Trials, and Honoring Victims of Communism](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5751011-GettyImages-2181244616-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-severe-flash-floods-murder-trials-and-honoring-victims-of-communism-5750546)
-* [Trump Speaks to Press From Garbage Truck Amid Fallout From Biden ‘Garbage’ Comment](https://www.theepochtimes.com/us/trump-wears-hi-viz-vest-rides-in-garbage-truck-at-wisconsin-rally-5751144)
-    
-    10hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
-    
-    [![Trump Speaks to Press From Garbage Truck Amid Fallout From Biden ‘Garbage’ Comment](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Speaks to Press From Garbage Truck Amid Fallout From Biden ‘Garbage’ Comment](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5751143-GettyImages-2181995575_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-wears-hi-viz-vest-rides-in-garbage-truck-at-wisconsin-rally-5751144)
-* [Trump, Harris Hold Dueling Rallies in North Carolina](https://www.theepochtimes.com/us/trump-harris-hold-dueling-rallies-in-north-carolina-5750896)
-    
-    10hr By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
-    
-    [![Trump, Harris Hold Dueling Rallies in North Carolina](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump, Harris Hold Dueling Rallies in North Carolina](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750980-harris-raleigh-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-harris-hold-dueling-rallies-in-north-carolina-5750896)
-* [Pennsylvania ABC Affiliate Station Apologizes for Airing ‘Test’ 2024 Election Results](https://www.theepochtimes.com/us/pennsylvania-abc-affiliate-station-apologizes-for-airing-test-2024-election-results-5751072)
-    
-    11hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Pennsylvania ABC Affiliate Station Apologizes for Airing ‘Test’ 2024 Election Results](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Pennsylvania ABC Affiliate Station Apologizes for Airing ‘Test’ 2024 Election Results](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5750162-GettyImages-2181070330-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-abc-affiliate-station-apologizes-for-airing-test-2024-election-results-5751072)
-* [Noncitizen Chinese Student Charged With Voting Illegally in Michigan](https://www.theepochtimes.com/us/noncitizen-charged-with-vote-fraud-in-michigan-5751029)
-    
-    11hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang) and [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
-    
-    [![Noncitizen Chinese Student Charged With Voting Illegally in Michigan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Noncitizen Chinese Student Charged With Voting Illegally in Michigan](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748846-Michigan-Early-Voting-_JF_10262024-205x123.jpg.webp)](https://www.theepochtimes.com/us/noncitizen-charged-with-vote-fraud-in-michigan-5751029)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
