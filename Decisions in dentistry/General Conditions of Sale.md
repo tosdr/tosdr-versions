@@ -138,6 +138,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Graduates of Wake Tech’s Dental Hygiene Program ![Graduates of Wake Tech’s Dental Hygiene Program can now pursue a bachelor’s degree online through a new articulation agreement with Old Dominion University. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBwDgqBv3im/) 
+
 [In this episode of The Art of Dental Finance and M ![In this episode of The Art of Dental Finance and Management,” Art is joined by Laura Nelson, founder of Front Office Rocks. Laura has drawn on firsthand experience as a front office manager to help practices nationwide elevate their culture and advance growth. Now, she’s sharing her insights with our listeners, discussing the critical role of customer service systems, the value of a positive work environment, and the importance of structured training for new employees. Tune in to learn how training a rockstar front office team can transform your dental practice! Listen now via the link in bio.⁠
 ⁠
 ⁠
@@ -174,13 +181,6 @@ By Liliana Aranguren, DDS, MDSc ⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBjSX1tNfKx/) 
-
-[Sherry Priami, RDH, BA, a dental hygienist and Int ![Sherry Priami, RDH, BA, a dental hygienist and International Federation of Bodybuilding and Fitness professional bodybuilder, showcases an inspiring balance between her career, motherhood, and passion for bodybuilding. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBgmt5pt5rk/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
