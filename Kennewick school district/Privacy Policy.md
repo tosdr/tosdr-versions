@@ -47,7 +47,6 @@
 * [Programs](https://www.ksd.org/programs)
     
     * [READY! for Kindergarten](https://www.ksd.org/programs/ready-for-kindergarten)
-    * [Transition to Kindergarten](https://www.ksd.org/programs/transition-to-kindergarten)
     
 * [Students & Families](https://www.ksd.org/students-families)
     
@@ -178,7 +177,6 @@ toggle mobile menu
 * [Programs](https://www.ksd.org/programs)
     
     * [READY! for Kindergarten](https://www.ksd.org/programs/ready-for-kindergarten)
-    * [Transition to Kindergarten](https://www.ksd.org/programs/transition-to-kindergarten)
     
 * [Students & Families](https://www.ksd.org/students-families)
     
