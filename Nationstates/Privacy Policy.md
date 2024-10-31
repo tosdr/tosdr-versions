@@ -1,6 +1,6 @@
 [![Switch to best theme for screen-readers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Switch to best theme for screen-readers")](https://antiquity.nationstates.net/)
 
-[![NationStates](/images/bannertitle5.png)](https://www.nationstates.net/)
+[![NationStates Z](/images/banner3greenZ.png)](https://www.nationstates.net/)
 
 [NEW NATION](https://www.nationstates.net/page=create_nation)
 
@@ -34,13 +34,15 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Will AN research a cure, exterminate,… (27)](https://forum.nationstates.net/viewtopic.php?t=557725&f=33&view=unread#unread ""Will AN research a cure, exterminate, or back the horde?" (27 posts)")
-* [Create A HOI4 Name List for AN (108)](https://forum.nationstates.net/viewtopic.php?t=556510&f=25&view=unread#unread ""Create A HOI4 Name List for AN" (108 posts)")
-* [What music are you listening to? v19 (80)](https://forum.nationstates.net/viewtopic.php?t=557533&f=19&view=unread#unread ""What music are you listening to? v19" (80 posts)")
-* [2023-24 Israel-Iran proxy conflict (708)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (708 posts)")
-* [American Politics: The Final Week (5,515)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: The Final Week" (5,515 posts)")
+* [Will AN research a cure, exterminate,… (55)](https://forum.nationstates.net/viewtopic.php?t=557725&f=33&view=unread#unread ""Will AN research a cure, exterminate, or back the horde?" (55 posts)")
+* [A Flicker of Light -- OOC Thread (By… (11)](https://forum.nationstates.net/viewtopic.php?t=557669&f=5&view=unread#unread ""A Flicker of Light -- OOC Thread (By Invitation)" (11 posts)")
+* [YN's Final Broadcast or Message in Z-Day (23)](https://forum.nationstates.net/viewtopic.php?t=557733&f=33&view=unread#unread ""YN's Final Broadcast or Message in Z-Day" (23 posts)")
+* [Using the AN's flag, how do they deal… (8,565)](https://forum.nationstates.net/viewtopic.php?t=508055&f=25&view=unread#unread ""Using the AN's flag, how do they deal with traitors? III" (8,565 posts)")
+* [American Politics: The Final Week (5,687)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: The Final Week" (5,687 posts)")
 
 Advertisement
+
+[Z-DayMost Dead](https://www.nationstates.net/page=zday_tally#dtotal)[1the Rejected Realms](https://www.nationstates.net/region=the_rejected_realms) [2the West Pacific](https://www.nationstates.net/region=the_west_pacific) [3The Order of the Grey Wardens](https://www.nationstates.net/region=the_order_of_the_grey_wardens) [4Barbaria](https://www.nationstates.net/region=barbaria) [5Greater Dienstad](https://www.nationstates.net/region=greater_dienstad) [6Europe](https://www.nationstates.net/region=europe) [7Lazarus](https://www.nationstates.net/region=lazarus) [8The North Pacific](https://www.nationstates.net/region=the_north_pacific) [9Osiris](https://www.nationstates.net/region=osiris) [10The East Pacific](https://www.nationstates.net/region=the_east_pacific) [11The Equator](https://www.nationstates.net/region=the_equator) [12Vatican](https://www.nationstates.net/region=vatican) [13the South Pacific](https://www.nationstates.net/region=the_south_pacific) [14Blue Chevron](https://www.nationstates.net/region=blue_chevron) [1510000 Islands](https://www.nationstates.net/region=10000_islands)
 
 Privacy Policy
 ==============
