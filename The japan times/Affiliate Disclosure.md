@@ -143,13 +143,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Haruna Kojima in Tokyo in April 2017 following her last show as a member of the AKB48 pop group](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430895.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Haruna Kojima in Tokyo in April 2017 following her last show as a member of the AKB48 pop group")](https://www.japantimes.co.jp/news/2024/10/29/japan/crime-legal/japanese-celebrity-haruna-kojima-assault/ "Man held for allegedly assaulting Japanese celebrity Haruna Kojima")
 
+[Make a one-of-a-kind mechanical keyboard at this Akihabara shop](https://www.japantimes.co.jp/business/2024/10/29/companies/akihabara-keyboard-shop/ "Make a one-of-a-kind mechanical keyboard at this Akihabara shop")
+
+  [![A custom-made split keyboard at Yusha Kobo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430841.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A custom-made split keyboard at Yusha Kobo.")](https://www.japantimes.co.jp/business/2024/10/29/companies/akihabara-keyboard-shop/ "Make a one-of-a-kind mechanical keyboard at this Akihabara shop")
+
 [Japan’s struggle with youth suicide sparks government initiatives](https://www.japantimes.co.jp/news/2024/10/29/japan/science-health/suicide-stats-2023-children/ "Japan’s struggle with youth suicide sparks government initiatives")
 
   [![The health ministry’s report shows that the number of elementary, junior high and high school students who took their own lives in 2023 stood at 513, one fewer than last year's record of 514.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430916.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The health ministry’s report shows that the number of elementary, junior high and high school students who took their own lives in 2023 stood at 513, one fewer than last year's record of 514.")](https://www.japantimes.co.jp/news/2024/10/29/japan/science-health/suicide-stats-2023-children/ "Japan’s struggle with youth suicide sparks government initiatives")
-
-[Government adopts order allowing use of My Number card as driver's license](https://www.japantimes.co.jp/news/2024/10/29/japan/my-number-card-drivers-license/ "Government adopts order allowing use of My Number card as driver's license")
-
-  [![The My Number card will function as a driver's license after information such as the type of license is recorded on the integrated circuit chip embedded in the card.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430788.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The My Number card will function as a driver's license after information such as the type of license is recorded on the integrated circuit chip embedded in the card.")](https://www.japantimes.co.jp/news/2024/10/29/japan/my-number-card-drivers-license/ "Government adopts order allowing use of My Number card as driver's license")
 
 Editors' Picks
 --------------
@@ -176,6 +176,14 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 
   [![Haruna Kojima in Tokyo in April 2017 following her last show as a member of the AKB48 pop group](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430895.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Haruna Kojima in Tokyo in April 2017 following her last show as a member of the AKB48 pop group")](https://www.japantimes.co.jp/news/2024/10/29/japan/crime-legal/japanese-celebrity-haruna-kojima-assault/ "Man held for allegedly assaulting Japanese celebrity Haruna Kojima")
 
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Make a one-of-a-kind mechanical keyboard at this Akihabara shop](https://www.japantimes.co.jp/business/2024/10/29/companies/akihabara-keyboard-shop/ "Make a one-of-a-kind mechanical keyboard at this Akihabara shop")
+
+By [Sam Byford](https://www.japantimes.co.jp/author/6003/sam-byford/ "Sam Byford")  
+
+  [![A custom-made split keyboard at Yusha Kobo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430841.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A custom-made split keyboard at Yusha Kobo.")](https://www.japantimes.co.jp/business/2024/10/29/companies/akihabara-keyboard-shop/ "Make a one-of-a-kind mechanical keyboard at this Akihabara shop")
+
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
 [Japan’s struggle with youth suicide sparks government initiatives](https://www.japantimes.co.jp/news/2024/10/29/japan/science-health/suicide-stats-2023-children/ "Japan’s struggle with youth suicide sparks government initiatives")
@@ -183,12 +191,6 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
   [![The health ministry’s report shows that the number of elementary, junior high and high school students who took their own lives in 2023 stood at 513, one fewer than last year's record of 514.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430916.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The health ministry’s report shows that the number of elementary, junior high and high school students who took their own lives in 2023 stood at 513, one fewer than last year's record of 514.")](https://www.japantimes.co.jp/news/2024/10/29/japan/science-health/suicide-stats-2023-children/ "Japan’s struggle with youth suicide sparks government initiatives")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Government adopts order allowing use of My Number card as driver's license](https://www.japantimes.co.jp/news/2024/10/29/japan/my-number-card-drivers-license/ "Government adopts order allowing use of My Number card as driver's license")
-
-  [![The My Number card will function as a driver's license after information such as the type of license is recorded on the integrated circuit chip embedded in the card.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430788.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The My Number card will function as a driver's license after information such as the type of license is recorded on the integrated circuit chip embedded in the card.")](https://www.japantimes.co.jp/news/2024/10/29/japan/my-number-card-drivers-license/ "Government adopts order allowing use of My Number card as driver's license")
 
 Podcast
 -------
@@ -209,9 +211,9 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,19 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Spain races to save victims as floods kill more than 60](https://www.japantimes.co.jp/news/2024/10/30/world/spain-floods-deaths/ "Spain races to save victims as floods kill more than 60")
+[Two more teens arrested in death of Hokkaido college student](https://www.japantimes.co.jp/news/2024/10/31/japan/crime-legal/hokkaido-murder-two-more-arrests/ "Two more teens arrested in death of Hokkaido college student")
 
-9 hours ago
+28 mins ago
 
-[Taiwan battens down for Super Typhoon Kong-rey](https://www.japantimes.co.jp/news/2024/10/30/asia-pacific/taiwan-super-typhoon/ "Taiwan battens down for Super Typhoon Kong-rey")
+[North Korea fires off ‘ICBM-class’ weapon with longest flight time yet](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ‘ICBM-class’ weapon with longest flight time yet")
 
-9 hours ago
+28 mins ago
 
-[All eyes on DPP ahead of prime minister vote in Lower House](https://www.japantimes.co.jp/news/2024/10/30/japan/politics/dpp-opposition-parties-politics/ "All eyes on DPP ahead of prime minister vote in Lower House")
+[AI’s $1.3 trillion future increasingly hinges on Taiwan](https://www.japantimes.co.jp/business/2024/10/31/tech/ai-trillion-future-taiwan/ "AI’s $1.3 trillion future increasingly hinges on Taiwan")
 
-[Ishiba Cabinet's approval rating sinks to around 30%](https://www.japantimes.co.jp/news/2024/10/30/japan/politics/ishiba-ratings-plunge/ "Ishiba Cabinet's approval rating sinks to around 30%")
+51 mins ago
 
-[Tokyo High Court rules same-sex marriage ban is unconstitutional](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/same-sex-ruling-unconstitutional/ "Tokyo High Court rules same-sex marriage ban is unconstitutional")
+[U.S. sanctions entities India, China and Turkey over Russia war supplies](https://www.japantimes.co.jp/news/2024/10/31/world/politics/us-sanctions-suppliers-russia-war/ "U.S. sanctions entities India, China and Turkey over Russia war supplies")
+
+52 mins ago
+
+[Trump factor bringing uncertainty to Asian firms' U.S. investment outlook](https://www.japantimes.co.jp/business/2024/10/31/markets/trump-biden-industrial-policy-asian/ "Trump factor bringing uncertainty to Asian firms' U.S. investment outlook")
+
+57 mins ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
