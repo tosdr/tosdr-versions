@@ -307,6 +307,22 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-UFA expands in Hungary](/.galleries/images/Ute-Biernat-Emese-Acs_16-9.jpg?__scale=undefined&description=)
+    
+    UFA expands in Hungary
+    
+    31.10.2024
+    
+    UFA renames its Hungarian production unit to UFA Produkció and appoints Emese Ács and Ute Biernat as Co-Managing Directors.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/UFA-expands-in-Hungary/)
+    
+* [![slide-Fremantle sells <i>Nightsleeper</i> in 147 territories](/.galleries/images/Nightsleeper_16-9.jpg?__scale=undefined&description=)
+    
+    Fremantle sells _Nightsleeper_ in 147 territories
+    
+    31.10.2024
+    
+    After becoming a big hit on the BBC, real-time thriller _Nightsleeper_ from Fremantle’s Euston Films will launch in 147 territories worldwide.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Fremantle-sells-Nightsleeper-in-147-territories/)
+    
 * [![slide-A new chapter for <i>Stern</i>](/.galleries/images/Relaunch-Stern-v2_16-9.jpg?__scale=undefined&description=)
     
     A new chapter for _Stern_
@@ -330,38 +346,6 @@ Europe's leading entertainment brand
     25.10.2024
     
     Productions from RTL Deutschland and UFA have been honoured at the 2024 Blauer Panther TV & Streaming Awards.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Four-Blauer-Panther-Awards-for-UFA-and-RTL-Deutschland/)
-    
-* [![slide-RTL Deutschland announces a new live event show](/.galleries/images/Stefan-Raab-2024_16-9.jpg?__scale=undefined&description=)
-    
-    RTL Deutschland announces a new live event show
-    
-    25.10.2024
-    
-    RTL Deutschland announces a new game show with two of Germany’s greatest entertainers: Stefan Raab and comedian Michael "Bully" Herbig.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Deutschland-announces-a-new-live-event-show/)
-    
-* [![slide- 32 Eyes & Ears Awards for RTL Deutschland](/.galleries/images/Eyes-Ears-2024_16-9.jpg?__scale=undefined&description=)
-    
-    32 Eyes & Ears Awards for RTL Deutschland
-    
-    23.10.2024
-    
-    14 Gold, nine Silver, eight Bronze and one Special Award: RTL Deutschland and its partners were recognised a total of 32 times at the 2024 Eyes & Ears Awards.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/32-Eyes-Ears-Awards-for-RTL-Deutschland/)
-    
-* [![slide-We Are Era educates young people on AI](/.galleries/images/WAE_AI-campaign_16-9.jpg?__scale=undefined&description=)
-    
-    We Are Era educates young people on AI
-    
-    23.10.2024
-    
-    We Are Era’s Mesh Collective partners with the Vodafone Foundation in Germany for the cross-country campaign #MeMyselfandAI.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/We-Are-Era-educates-young-people-on-AI/)
-    
-* [![slide-Digitalising <i>Stern</i>](/.galleries/images/Stern_16-9.png?__scale=undefined&description=)
-    
-    Digitalising _Stern_
-    
-    17.10.2024
-    
-    Stunning visuals, user-centric features and clear navigation: RTL Deutschland is launching a new website and a completely redeveloped app for its leading current affairs magazine _Stern_.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Digitalising-Stern/)
     
 
 [![image-0](/.galleries/images/rtl-group/Career-at-RTL_Photoshooting.jpg)](https://jobsearch.createyourowncareer.com/RTL/?locale=en_US)
