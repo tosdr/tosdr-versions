@@ -83,17 +83,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. ![Listing image for first story in Most Read: Apple’s first Mac mini redesign in 14 years looks like a big aluminum Apple TV](https://cdn.arstechnica.net/wp-content/uploads/2024/10/Apple-Mac-mini-hero-768x432.jpeg)
+1. ![Listing image for first story in Most Read: The New Glenn rocket’s first stage is real, and it’s spectacular](https://cdn.arstechnica.net/wp-content/uploads/2024/10/1730267028707-768x432.jpg)
     
-    1. [Apple’s first Mac mini redesign in 14 years looks like a big aluminum Apple TV](https://arstechnica.com/apple/2024/10/apples-first-mac-mini-redesign-in-14-years-looks-like-a-big-aluminum-apple-tv/?itm_source=parsely-api)
+    1. [The New Glenn rocket’s first stage is real, and it’s spectacular](https://arstechnica.com/space/2024/10/new-glenn-rolls-to-the-launch-pad-as-end-of-year-deadline-approaches/?itm_source=parsely-api)
     
-2. 2. [“Impact printing” is a cement-free alternative to 3D-printed structures](https://arstechnica.com/science/2024/10/impact-printing-is-a-cement-free-alternative-to-3d-printed-structures/?itm_source=parsely-api)
+2. 2. [Here’s the paper no one read before declaring the demise of modern cryptography](https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/?itm_source=parsely-api)
     
-3. 3. [The sad, bizarre tale of hype fanning fears modern cryptography was slain](https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/?itm_source=parsely-api)
+3. 3. [“Impact printing” is a cement-free alternative to 3D-printed structures](https://arstechnica.com/science/2024/10/impact-printing-is-a-cement-free-alternative-to-3d-printed-structures/?itm_source=parsely-api)
     
-4. 4. [New Glenn rolls to the launch pad as end-of-year deadline approaches](https://arstechnica.com/space/2024/10/new-glenn-rolls-to-the-launch-pad-as-end-of-year-deadline-approaches/?itm_source=parsely-api)
+4. 4. [Apple’s first Mac mini redesign in 14 years looks like a big aluminum Apple TV](https://arstechnica.com/apple/2024/10/apples-first-mac-mini-redesign-in-14-years-looks-like-a-big-aluminum-apple-tv/?itm_source=parsely-api)
     
-5. 5. [Ban on Chinese tech so broad, US-made cars would be blocked, Polestar says](https://arstechnica.com/cars/2024/10/ban-on-chinese-tech-so-broad-us-made-cars-would-be-blocked-polestar-says/?itm_source=parsely-api)
+5. 5. [When you make lunch for your coworkers—and accidentally cause a mass poisoning](https://arstechnica.com/health/2024/10/when-you-make-lunch-for-your-coworkers-and-accidentally-cause-a-mass-poisoning/?itm_source=parsely-api)
     
 
 Customize
