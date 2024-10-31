@@ -69,7 +69,7 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 Companion Applications[](#companion-applications)
 -------------------------------------------------
 
-All information collected by the applications is sent directly to your hosted instance of Home Assistant. This includes, but is not limited to, sensor data and location data, which at times is sent while the application is in the background. At no point is this data logged or given to a 3rd party.
+All information collected by the applications is sent directly to your hosted instance of Home Assistant. This includes, but is not limited to, sensor, health, and location data, which at times is sent while the application is in the background. At no point is this data logged or given to a 3rd party.
 
 Privacy Policy Changes[](#privacy-policy-changes)
 -------------------------------------------------
@@ -80,6 +80,7 @@ Although most changes are likely to be minor, Home Assistant may change its Priv
 
 * October 19, 2017: Initial version
 * October 19, 2020: Add information about Companion Applications
+* October 30, 2024: Add health data to Companion Applications
 
 _This privacy policy has been adapted from the [Automattic privacy policy](https://automattic.com/privacy/) and is licensed [Creative Commons ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/)._
 
