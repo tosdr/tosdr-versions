@@ -534,6 +534,8 @@ In compliance with the EU-U.S. DPF, Adjust Inc. commits to resolve DPF Principle
 
 If you are an EU individual, where we transfer your personal data to third party servicer providers (see below) who perform services for us or on our behalf, we are responsible for the processing of that data by them and shall remain liable if they process your personal data in a manner inconsistent with the DPF Principles, unless we are not responsible for the event giving rise to the damage.
 
+Choice: If personal data covered by this Privacy Policy is to be used for a new purpose that is materially different from that for which the personal data was originally collected or subsequently authorized, or is to be disclosed to a non-agent third party in a manner not specified in this Policy, Adjust will provide you with an opportunity to choose whether to have your personal data so used or disclosed. Requests to opt out of such uses or disclosures of Personal Data should be sent to us at [privacy@adjust.com](mailto:privacy@adjust.com)
+
 ### **2\. Tracking Technologies on our Website**
 
 _Google Analytics_
