@@ -1187,7 +1187,7 @@ CONTACT SPLUNK
 
 CONTACT SPLUNK
 
-* [Contact Sales](https://www.splunk.com/en_us/about-splunk/contact-us.html#sales)
+* [Contact Sales](https://www.splunk.com/en_us/about-splunk/contact-us.html)
     
 * [Contact Support](https://www.splunk.com/en_us/about-splunk/contact-us.html#customer-support)
     
