@@ -113,12 +113,12 @@ Hauptmenü
     * [Da­ten­ver­ar­bei­tung](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Datenverarbeitung/Datenverarbeitung-node.html)
     * [Tech­ni­sche An­wen­dun­gen](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Technische-Anwendungen/Technische-Anwendungen_node.html)
     * [In­ter­na­tio­na­le Da­ten­über­mitt­lung](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Internationaler-Datentransfer/Internationaler-Datentransfer-node.html "Internationale Datenübermittlung")
-    * [Te­le­kom­mu­ni­ka­ti­on & Te­le­me­di­en](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Telekommunikation-Telemedien/Telekommunikation-Telemedien_node.html)
+    * [Di­gi­ta­le Diens­te](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Telekommunikation-Telemedien/Telekommunikation-Telemedien_node.html)
     
     [Ein­zelthe­men](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Themen-Positionen_node.html)
     ------------------------------------------------------------------------------------------------------
     
-    * [Te­le­kom­mu­ni­ka­ti­on & Te­le­me­di­en](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Telekommunikation/Telekommunikation_node.html "Telekommunikation & Telemedien")
+    * [Te­le­kom­mu­ni­ka­ti­on](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Telekommunikation/Telekommunikation_node.html "Telekommunikation")
     * [Ener­gie­wen­de](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Energiewende/Energiewende-node.html "Energiewende")
     * [De-Mail](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/De-Mail/De-Mail-node.html "De-Mail")
     
@@ -292,9 +292,9 @@ Schließen
         * [Da­ten­ver­ar­bei­tung](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Datenverarbeitung/Datenverarbeitung-node.html)
         * [Tech­ni­sche An­wen­dun­gen](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Technische-Anwendungen/Technische-Anwendungen_node.html)
         * [In­ter­na­tio­na­le Da­ten­über­mitt­lung](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Internationaler-Datentransfer/Internationaler-Datentransfer-node.html "Internationale Datenübermittlung")
-        * [Te­le­kom­mu­ni­ka­ti­on & Te­le­me­di­en](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Telekommunikation-Telemedien/Telekommunikation-Telemedien_node.html)
+        * [Di­gi­ta­le Diens­te](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/Telekommunikation-Telemedien/Telekommunikation-Telemedien_node.html)
     * Einzelthemen
-        * [Te­le­kom­mu­ni­ka­ti­on & Te­le­me­di­en](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Telekommunikation/Telekommunikation_node.html "Telekommunikation & Telemedien")
+        * [Te­le­kom­mu­ni­ka­ti­on](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Telekommunikation/Telekommunikation_node.html "Telekommunikation")
         * [Ener­gie­wen­de](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Energiewende/Energiewende-node.html "Energiewende")
         * [De-Mail](https://www.bfdi.bund.de/DE/Fachthemen/Datenschutzpraxis/De-Mail/De-Mail-node.html "De-Mail")
     * Sicherheit
