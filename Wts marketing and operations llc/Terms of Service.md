@@ -40,7 +40,7 @@ Company/Individual/Website Name \*
 
 Field is required
 
-Website/Social/Media \*
+Website/Social Media \*
 
 http(s)://
 
