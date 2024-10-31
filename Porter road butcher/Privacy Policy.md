@@ -2,11 +2,11 @@
 
 Flat Rate Shipping on Orders $125+ [details](#)
 
-Invest in Porter Road [Learn more](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=tippy&utm_campaign=launch)
+15% off smoking cuts [save](https://porterroad.com/collections/smoker)
 
 Flat Rate Shipping on Orders $125+ [details](#)
 
-Invest in Porter Road [Learn more](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=tippy&utm_campaign=launch)
+15% off smoking cuts [save](https://porterroad.com/collections/smoker)
 
 ![close button](//porterroad.com/cdn/shop/t/145/assets/x.svg?v=149134315310457235151695148459)
 
