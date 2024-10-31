@@ -122,7 +122,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Dragon Age Veilguard Reviews Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-reviews-controversy "Dragon Age Veilguard Reviews Controversy") [India Cow Poop War](https://knowyourmeme.com/memes/events/india-poop-war-pidakala-war "India Cow Poop War") [Luce the Vatican's Anime Mascot](https://knowyourmeme.com/memes/luce-the-vaticans-anime-mascot "Luce the Vatican's Anime Mascot") [P---s Gnome](https://knowyourmeme.com/memes/penis-gnome "P---s Gnome")
+[Dragon Age Veilguard Reviews Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-reviews-controversy "Dragon Age Veilguard Reviews Controversy")
 
 Privacy Policy
 ==============
