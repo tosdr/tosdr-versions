@@ -297,17 +297,17 @@ _By_ [Jordana Cepelewicz](https://www.quantamagazine.org/authors/jordana-cepelew
 
 _By_ [Ben Brubaker](https://www.quantamagazine.org/authors/brubaker_ben)
 
-[![Two white dots orbiting each other against a black background with purple material streaming onto them.](https://www.quantamagazine.org/wp-content/uploads/2024/10/FinalParsecProblem-crLucianoCombi_etal_2022_ApJ_928_187-Thumbnail.jpg)](https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/)
-
-[#### How Do Merging Supermassive Black Holes Pass the Final Parsec?](https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/)
-
-_By_ [Jonathan O'Callaghan](https://www.quantamagazine.org/authors/jonathan-ocallaghan)
-
 [![An illustration shows zero lit by spotlight; it flickers in a cave that looks like a brain.](https://www.quantamagazine.org/wp-content/uploads/2024/10/ZeroNeurosciene_crMaggieChiang_Thumbnail.webp)](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
 
 [#### How the Human Brain Contends With the Strangeness of Zero](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
 
 _By_ [Yasemin Saplakoglu](https://www.quantamagazine.org/authors/yasemin-saplakoglu)
+
+[![Two white dots orbiting each other against a black background with purple material streaming onto them.](https://www.quantamagazine.org/wp-content/uploads/2024/10/FinalParsecProblem-crLucianoCombi_etal_2022_ApJ_928_187-Thumbnail.jpg)](https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/)
+
+[#### How Do Merging Supermassive Black Holes Pass the Final Parsec?](https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/)
+
+_By_ [Jonathan O'Callaghan](https://www.quantamagazine.org/authors/jonathan-ocallaghan)
 
 The Quanta Newsletter
 
