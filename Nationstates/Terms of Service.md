@@ -34,15 +34,15 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What music are you listening to? v19 (92)](https://forum.nationstates.net/viewtopic.php?t=557533&f=19&view=unread#unread ""What music are you listening to? v19" (92 posts)")
-* [Ukrainian War VII: Everything has a p… (8,219)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (8,219 posts)")
-* [Celebrating the Stars Above (OOC, OPEN) (143)](https://forum.nationstates.net/viewtopic.php?t=555013&f=4&view=unread#unread ""Celebrating the Stars Above (OOC, OPEN)" (143 posts)")
-* [Celebrating the Stars Above (IC, OPEN) (39)](https://forum.nationstates.net/viewtopic.php?t=555645&f=4&view=unread#unread ""Celebrating the Stars Above (IC, OPEN)" (39 posts)")
-* [What is the last movie you've seen? P… (6,396)](https://forum.nationstates.net/viewtopic.php?t=346244&f=19&view=unread#unread ""What is the last movie you've seen? Part 2" (6,396 posts)")
+* [American Politics: The Final Week (5,784)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: The Final Week" (5,784 posts)")
+* [Islamic Discussion Thread ٥: Free Taj… (11,871)](https://forum.nationstates.net/viewtopic.php?t=462608&f=20&view=unread#unread ""Islamic Discussion Thread ٥: Free Tajweed, Absolutely Halaal" (11,871 posts)")
+* [Zombies in your land? Commie Hunters… (5)](https://forum.nationstates.net/viewtopic.php?t=557775&f=33&view=unread#unread ""Zombies in your land? Commie Hunters have a cure!" (5 posts)")
+* [Transformers: Electric Trepidation (10,668)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (10,668 posts)")
+* [Geography Game II (10,888)](https://forum.nationstates.net/viewtopic.php?t=529733&f=25&view=unread#unread ""Geography Game II" (10,888 posts)")
 
 Advertisement
 
-[Z-DayMost Survivors](https://www.nationstates.net/page=zday_tally#stotal)[1NationStates](https://www.nationstates.net/region=nationstates) [2Chicken overlords](https://www.nationstates.net/region=chicken_overlords) [3Equilism](https://www.nationstates.net/region=equilism) [4Balder](https://www.nationstates.net/region=balder) [5Lazarus](https://www.nationstates.net/region=lazarus) [6Osiris](https://www.nationstates.net/region=osiris) [7Cities](https://www.nationstates.net/region=cities) [8the West Pacific](https://www.nationstates.net/region=the_west_pacific) [9the South Pacific](https://www.nationstates.net/region=the_south_pacific) [10Alliance of Supreme Powers](https://www.nationstates.net/region=alliance_of_supreme_powers) [11ainulindale](https://www.nationstates.net/region=ainulindale) [12The North Pacific](https://www.nationstates.net/region=the_north_pacific) [13Concord](https://www.nationstates.net/region=concord) [14Department Store](https://www.nationstates.net/region=department_store) [15Terranova](https://www.nationstates.net/region=terranova)
+[Z-DayMost Survivors + No Quarantine](https://www.nationstates.net/page=zday_tally#qtotal)[1Equilism](https://www.nationstates.net/region=equilism) [2Chicken overlords](https://www.nationstates.net/region=chicken_overlords) [3Lazarus](https://www.nationstates.net/region=lazarus) [4Balder](https://www.nationstates.net/region=balder) [5Osiris](https://www.nationstates.net/region=osiris) [6Concord](https://www.nationstates.net/region=concord) [7the Rejected Realms](https://www.nationstates.net/region=the_rejected_realms) [8The Order of the Grey Wardens](https://www.nationstates.net/region=the_order_of_the_grey_wardens) [9Artificial Solar System](https://www.nationstates.net/region=artificial_solar_system) [10Suspicious](https://www.nationstates.net/region=suspicious) [11The Sasquatch Republic](https://www.nationstates.net/region=the_sasquatch_republic) [12Two](https://www.nationstates.net/region=two) [13Australia](https://www.nationstates.net/region=australia) [14Libertium](https://www.nationstates.net/region=libertium) [15The East Pacific](https://www.nationstates.net/region=the_east_pacific)
 
 Terms & Conditions of Use
 =========================
