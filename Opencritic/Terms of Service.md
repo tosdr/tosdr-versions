@@ -116,7 +116,7 @@ OpenCritic reserves the right, in its sole discretion, to change the Terms under
 
 ### Contact Us
 
-OpenCritic welcomes your questions or comments regarding the Terms. Email us at [\[email protected\]](https://opencritic.com/cdn-cgi/l/email-protection).
+OpenCritic welcomes your questions or comments regarding the Terms. Email us at [admin@opencritic.com](mailto:admin@opencritic.com).
 
 ##### Affiliate Disclosure
 
