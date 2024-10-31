@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [At least 95 people die in devastating flash floods in Spain](https://apnews.com/article/spain-floods-valencia-weather-ef0dffabe1a106a05c239dca4dfec1ae)
-    * [North Korea launches a new intercontinental ballistic missile designed to threaten US](https://apnews.com/article/north-korea-missile-launch-377c07eac46ad41bda0d4445df6f51d5)
-    * [Ukrainian front-line school system goes underground to protect against bombs and radiation](https://apnews.com/article/russia-ukraine-nuclear-shelter-bunker-schools-chernobyl-zaporizhzhia-246975f9ac147ff4e8e6e60961f6f5e5)
+    * [North Korea's long-range missile test signals its improved, potential capability to attack US](https://apnews.com/article/north-korea-missile-launch-377c07eac46ad41bda0d4445df6f51d5)
+    * [Locked in Mideast wars and battered by sanctions, Iran is wary over US presidential election](https://apnews.com/article/iran-us-election-mideast-wars-israel-nuclear-deal-2d749543470a5cd7df6c6ece863b4732)
+    * [Spain searches for bodies after flood of the century claims at least 95 lives](https://apnews.com/article/flash-floods-spain-valencia-climate-change-30c6ef59ddf27598c691c89d0ba41442)
     
     Newsletters
     
@@ -31,8 +31,8 @@ Menu
     TOP STORIES
     
     * [Opponents use parental rights and anti-trans messages to fight abortion ballot measures](https://apnews.com/article/abortion-ballot-election-2024-transgender-e07e91d436744ad1634fe676dfbda687)
-    * [Supreme Court's conservative justices leave in place Virginia's purge of voter registrations](https://apnews.com/article/supreme-court-virginia-voter-registration-purge-ba3d785d9d2d169d9c02207a42893757)
-    * [Americans are anxious and frustrated about the presidential campaign, an AP-NORC poll finds](https://apnews.com/article/poll-trump-harris-election-president-anxiety-frustration-a95fc81fae305728968b30ced4a2dc53)
+    * [Ping! Harris and Trump are blowing up your phones with political texts in campaign's last days](https://apnews.com/article/harris-trump-fundraising-texts-2024-campaign-6af8cde19cd5ba9a0bcbd536e45281d6)
+    * [Police say the man behind ballot box fires has metalworking experience and might plan more attacks](https://apnews.com/article/ballot-drop-box-fires-portland-vancouver-60fea753ceb761624e6aba49f0e9dd99)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
+    * [Ping! Harris and Trump are blowing up your phones with political texts in campaign's last days](https://apnews.com/article/harris-trump-fundraising-texts-2024-campaign-6af8cde19cd5ba9a0bcbd536e45281d6)
     * [Americans are anxious and frustrated about the presidential campaign, an AP-NORC poll finds](https://apnews.com/article/poll-trump-harris-election-president-anxiety-frustration-a95fc81fae305728968b30ced4a2dc53)
     * [Opponents use parental rights and anti-trans messages to fight abortion ballot measures](https://apnews.com/article/abortion-ballot-election-2024-transgender-e07e91d436744ad1634fe676dfbda687)
-    * [US voters hear a stark message in the presidential race: The country's fate is on the line](https://apnews.com/article/election-2024-democracy-harris-trump-charlottesville-17a9fcaf68ab8c1b7d12552d973937d3)
     
     Newsletters
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
+    * [New York semiconductor site picked for $825 million in funding](https://apnews.com/article/new-york-semiconductor-nanotech-lab-albany-42ee39316c32718c729e526354254724)
     * [Jobs report on eve of election will be among the most muddled in years](https://apnews.com/article/jobs-election-economy-hurricane-hiring-unemployment-rate-c19551c5ffbff5e0f8d06e1fcee2370e)
     * [US economy grew at a solid 2.8% pace last quarter on strength of consumer spending](https://apnews.com/article/economy-growth-inflation-gdp-consumers-federal-reserve-6a3fbfb5790b07434d656a95865b7435)
-    * [Microsoft reports quarterly sales up 16% to $65.6 billion as investors ask if AI spending worth it](https://apnews.com/article/microsoft-earnings-ai-azure-copilot-7d11b44d6c0eecae11bdbb4327ae85f5)
     
 * [Science](https://apnews.com/science)
     
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
+    * [New York semiconductor site picked for $825 million in funding](https://apnews.com/article/new-york-semiconductor-nanotech-lab-albany-42ee39316c32718c729e526354254724)
+    * [Ping! Harris and Trump are blowing up your phones with political texts in campaign's last days](https://apnews.com/article/harris-trump-fundraising-texts-2024-campaign-6af8cde19cd5ba9a0bcbd536e45281d6)
     * [Microsoft reports quarterly sales up 16% to $65.6 billion as investors ask if AI spending worth it](https://apnews.com/article/microsoft-earnings-ai-azure-copilot-7d11b44d6c0eecae11bdbb4327ae85f5)
-    * [Reddit's explosive user growth and AI tools help it soar to its first profit as a public company](https://apnews.com/article/reddit-third-quarter-profit-5a9e32159a947094ae801ab107c950da)
-    * [Meta's third-quarter profit surges 35% reflecting strong ad revenue and its AI push](https://apnews.com/article/meta-facebook-instagram-earnings-revenue-86d359d248d67f2e67e16122facabb52)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -277,9 +277,9 @@ Menu
     
     TOP STORIES
     
+    * [AP PHOTOS: Ayodhya in northern India celebrates the night before Diwali with pomp and pageantry](https://apnews.com/article/ayodhya-diwali-festival-photo-gallery-india-201b3c2a33e2f7b5eedfc703eebabd9f)
     * [Use of smoke-emitting firecrackers renews air pollution debate in India's capital ahead of Diwali](https://apnews.com/article/india-diwali-firecrackers-pollution-eb40566af63845f139fa1de64822296c)
     * [Man who killed eagles and trafficked their parts faces sentencing Thursday](https://apnews.com/article/eagles-killed-black-market-sentencing-montana-c5cff8a46e941bb39e3dc7d4c297bdf4)
-    * [Vatican tribunal explains conviction of cardinal and others in 'trial of the century'](https://apnews.com/article/vatican-tribunal-cardinal-fraud-luxury-trial-e59d12bb4cbaa8b96e8224c96c78469b)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
+    * [España busca más víctimas tras unas inundaciones históricas que dejaron al menos 95 muertos](https://apnews.com/article/espana-valencia-inundaciones-muertos-tormenta-84dab89c07dbc6cd1a7b9823802737fe)
     * [AP EXPLICA: qué significan las protestas de las universidades públicas argentinas en contra de Milei](https://apnews.com/article/argentina-protestas-milei-universidades-recortes-presupuesto-7f6141dde49f996b883cb073235f0afb)
-    * [Corea del Norte lanza un nuevo misil balístico intercontinental que amenaza a EEUU](https://apnews.com/article/coreas-norcorea-surcorea-mbic-misil-intercontinental-eeuu-60733e7702a69e605571989f5899daab)
+    * [El ensayo de misil intercontinental de Corea del apunta a avances en su capacidad para atacar a EEUU](https://apnews.com/article/coreas-norcorea-surcorea-mbic-misil-intercontinental-eeuu-60733e7702a69e605571989f5899daab)
     * [Hezbollah resistirá en su guerra con Israel el tiempo necesario, dice su nuevo líder](https://apnews.com/article/hezbollah-kassem-libano-israel-f3dc5863c2cfd0fb418bd75f6d23e525)
-    * [Taiwán cierra escuelas y oficinas ante la llegada del tifón Kong-rey](https://apnews.com/article/taiwan-tifon-filipinas-taipei-kongrey-924e748c0ef70ae008b651548b2b1d39)
-    * [Al menos 95 muertos en devastadoras inundaciones en España](https://apnews.com/article/espana-inundaciones-valencia-clima-27a1a281e1dc0a2e5e3ddced0e4a2568)
-    * [Primer caso de gripe aviar en un cerdo en EEUU despierta temor de posible amenaza a la salud humana](https://apnews.com/article/eeuu-gripe-aviar-cerdos-58adb3515b5c4e31ee415dab68532d4e)
+    * [Un muerto en Taiwán tras el impacto del tifón Kong-rey](https://apnews.com/article/taiwan-tifon-filipinas-taipei-kongrey-924e748c0ef70ae008b651548b2b1d39)
+    * [Prohibir UNRWA generará un vacío y más sufrimiento para los palestinos, afirma el jefe de la agencia](https://apnews.com/article/palestinos-gaza-israel-unrwa-onu-ec0004f7b8c203372ad4ed5a9ee66c51)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -460,9 +460,9 @@ Submit Search
     
     TOP STORIES
     
-    * [At least 95 people die in devastating flash floods in Spain](https://apnews.com/article/spain-floods-valencia-weather-ef0dffabe1a106a05c239dca4dfec1ae)
-    * [North Korea launches a new intercontinental ballistic missile designed to threaten US](https://apnews.com/article/north-korea-missile-launch-377c07eac46ad41bda0d4445df6f51d5)
-    * [Ukrainian front-line school system goes underground to protect against bombs and radiation](https://apnews.com/article/russia-ukraine-nuclear-shelter-bunker-schools-chernobyl-zaporizhzhia-246975f9ac147ff4e8e6e60961f6f5e5)
+    * [North Korea's long-range missile test signals its improved, potential capability to attack US](https://apnews.com/article/north-korea-missile-launch-377c07eac46ad41bda0d4445df6f51d5)
+    * [Locked in Mideast wars and battered by sanctions, Iran is wary over US presidential election](https://apnews.com/article/iran-us-election-mideast-wars-israel-nuclear-deal-2d749543470a5cd7df6c6ece863b4732)
+    * [Spain searches for bodies after flood of the century claims at least 95 lives](https://apnews.com/article/flash-floods-spain-valencia-climate-change-30c6ef59ddf27598c691c89d0ba41442)
     
     Newsletters
     
@@ -479,8 +479,8 @@ Submit Search
     TOP STORIES
     
     * [Opponents use parental rights and anti-trans messages to fight abortion ballot measures](https://apnews.com/article/abortion-ballot-election-2024-transgender-e07e91d436744ad1634fe676dfbda687)
-    * [Supreme Court's conservative justices leave in place Virginia's purge of voter registrations](https://apnews.com/article/supreme-court-virginia-voter-registration-purge-ba3d785d9d2d169d9c02207a42893757)
-    * [Americans are anxious and frustrated about the presidential campaign, an AP-NORC poll finds](https://apnews.com/article/poll-trump-harris-election-president-anxiety-frustration-a95fc81fae305728968b30ced4a2dc53)
+    * [Ping! Harris and Trump are blowing up your phones with political texts in campaign's last days](https://apnews.com/article/harris-trump-fundraising-texts-2024-campaign-6af8cde19cd5ba9a0bcbd536e45281d6)
+    * [Police say the man behind ballot box fires has metalworking experience and might plan more attacks](https://apnews.com/article/ballot-drop-box-fires-portland-vancouver-60fea753ceb761624e6aba49f0e9dd99)
     
     Newsletters
     
@@ -532,9 +532,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Ping! Harris and Trump are blowing up your phones with political texts in campaign's last days](https://apnews.com/article/harris-trump-fundraising-texts-2024-campaign-6af8cde19cd5ba9a0bcbd536e45281d6)
     * [Americans are anxious and frustrated about the presidential campaign, an AP-NORC poll finds](https://apnews.com/article/poll-trump-harris-election-president-anxiety-frustration-a95fc81fae305728968b30ced4a2dc53)
     * [Opponents use parental rights and anti-trans messages to fight abortion ballot measures](https://apnews.com/article/abortion-ballot-election-2024-transgender-e07e91d436744ad1634fe676dfbda687)
-    * [US voters hear a stark message in the presidential race: The country's fate is on the line](https://apnews.com/article/election-2024-democracy-harris-trump-charlottesville-17a9fcaf68ab8c1b7d12552d973937d3)
     
     Newsletters
     
@@ -608,9 +608,9 @@ Submit Search
     
     TOP STORIES
     
+    * [New York semiconductor site picked for $825 million in funding](https://apnews.com/article/new-york-semiconductor-nanotech-lab-albany-42ee39316c32718c729e526354254724)
     * [Jobs report on eve of election will be among the most muddled in years](https://apnews.com/article/jobs-election-economy-hurricane-hiring-unemployment-rate-c19551c5ffbff5e0f8d06e1fcee2370e)
     * [US economy grew at a solid 2.8% pace last quarter on strength of consumer spending](https://apnews.com/article/economy-growth-inflation-gdp-consumers-federal-reserve-6a3fbfb5790b07434d656a95865b7435)
-    * [Microsoft reports quarterly sales up 16% to $65.6 billion as investors ask if AI spending worth it](https://apnews.com/article/microsoft-earnings-ai-azure-copilot-7d11b44d6c0eecae11bdbb4327ae85f5)
     
 * [Science](https://apnews.com/science)
     
@@ -757,9 +757,9 @@ Submit Search
     
     TOP STORIES
     
+    * [New York semiconductor site picked for $825 million in funding](https://apnews.com/article/new-york-semiconductor-nanotech-lab-albany-42ee39316c32718c729e526354254724)
+    * [Ping! Harris and Trump are blowing up your phones with political texts in campaign's last days](https://apnews.com/article/harris-trump-fundraising-texts-2024-campaign-6af8cde19cd5ba9a0bcbd536e45281d6)
     * [Microsoft reports quarterly sales up 16% to $65.6 billion as investors ask if AI spending worth it](https://apnews.com/article/microsoft-earnings-ai-azure-copilot-7d11b44d6c0eecae11bdbb4327ae85f5)
-    * [Reddit's explosive user growth and AI tools help it soar to its first profit as a public company](https://apnews.com/article/reddit-third-quarter-profit-5a9e32159a947094ae801ab107c950da)
-    * [Meta's third-quarter profit surges 35% reflecting strong ad revenue and its AI push](https://apnews.com/article/meta-facebook-instagram-earnings-revenue-86d359d248d67f2e67e16122facabb52)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -785,9 +785,9 @@ Submit Search
     
     TOP STORIES
     
+    * [AP PHOTOS: Ayodhya in northern India celebrates the night before Diwali with pomp and pageantry](https://apnews.com/article/ayodhya-diwali-festival-photo-gallery-india-201b3c2a33e2f7b5eedfc703eebabd9f)
     * [Use of smoke-emitting firecrackers renews air pollution debate in India's capital ahead of Diwali](https://apnews.com/article/india-diwali-firecrackers-pollution-eb40566af63845f139fa1de64822296c)
     * [Man who killed eagles and trafficked their parts faces sentencing Thursday](https://apnews.com/article/eagles-killed-black-market-sentencing-montana-c5cff8a46e941bb39e3dc7d4c297bdf4)
-    * [Vatican tribunal explains conviction of cardinal and others in 'trial of the century'](https://apnews.com/article/vatican-tribunal-cardinal-fraud-luxury-trial-e59d12bb4cbaa8b96e8224c96c78469b)
     
     Newsletters
     
@@ -801,12 +801,12 @@ Submit Search
     
     TOP STORIES
     
+    * [España busca más víctimas tras unas inundaciones históricas que dejaron al menos 95 muertos](https://apnews.com/article/espana-valencia-inundaciones-muertos-tormenta-84dab89c07dbc6cd1a7b9823802737fe)
     * [AP EXPLICA: qué significan las protestas de las universidades públicas argentinas en contra de Milei](https://apnews.com/article/argentina-protestas-milei-universidades-recortes-presupuesto-7f6141dde49f996b883cb073235f0afb)
-    * [Corea del Norte lanza un nuevo misil balístico intercontinental que amenaza a EEUU](https://apnews.com/article/coreas-norcorea-surcorea-mbic-misil-intercontinental-eeuu-60733e7702a69e605571989f5899daab)
+    * [El ensayo de misil intercontinental de Corea del apunta a avances en su capacidad para atacar a EEUU](https://apnews.com/article/coreas-norcorea-surcorea-mbic-misil-intercontinental-eeuu-60733e7702a69e605571989f5899daab)
     * [Hezbollah resistirá en su guerra con Israel el tiempo necesario, dice su nuevo líder](https://apnews.com/article/hezbollah-kassem-libano-israel-f3dc5863c2cfd0fb418bd75f6d23e525)
-    * [Taiwán cierra escuelas y oficinas ante la llegada del tifón Kong-rey](https://apnews.com/article/taiwan-tifon-filipinas-taipei-kongrey-924e748c0ef70ae008b651548b2b1d39)
-    * [Al menos 95 muertos en devastadoras inundaciones en España](https://apnews.com/article/espana-inundaciones-valencia-clima-27a1a281e1dc0a2e5e3ddced0e4a2568)
-    * [Primer caso de gripe aviar en un cerdo en EEUU despierta temor de posible amenaza a la salud humana](https://apnews.com/article/eeuu-gripe-aviar-cerdos-58adb3515b5c4e31ee415dab68532d4e)
+    * [Un muerto en Taiwán tras el impacto del tifón Kong-rey](https://apnews.com/article/taiwan-tifon-filipinas-taipei-kongrey-924e748c0ef70ae008b651548b2b1d39)
+    * [Prohibir UNRWA generará un vacío y más sufrimiento para los palestinos, afirma el jefe de la agencia](https://apnews.com/article/palestinos-gaza-israel-unrwa-onu-ec0004f7b8c203372ad4ed5a9ee66c51)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
