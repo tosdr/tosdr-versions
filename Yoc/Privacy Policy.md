@@ -292,7 +292,7 @@ and printed out.
 * [Annual Shareholder Meeting](https://yoc.com/annual-shareholders-meeting)
 * [Financial Calendar](https://yoc.com/financial-calender)
 
-![YOC logo white](https://yoc.com/media/yoc_2017_RGB_white-1.svg)
+![logo-dark](https://yoc.com/media/yoc logo-1.svg)
 
 [Privacy Policy](https://yoc.com/privacy)[Contact](https://yoc.com/contact)[Imprint](https://yoc.com/imprint)[Login](https://hub.yoc.com/)
 
@@ -300,7 +300,7 @@ and printed out.
 
 Newsletter
 
-[![YOC logo white](https://yoc.com/media/yoc_2017_RGB_white-1.svg)](https://yoc.com/en)
+[![logo-dark](https://yoc.com/media/yoc logo-1.svg)](https://yoc.com/en)
 
 ### Our Products
 
