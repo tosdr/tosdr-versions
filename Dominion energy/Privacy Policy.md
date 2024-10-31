@@ -106,7 +106,7 @@ Alerts
 Privacy
 =======
 
-Last Updated on May 31, 2024
+Last updated on October 30, 2024.
 
 Dominion Energy's Privacy Notice
 --------------------------------
@@ -282,39 +282,6 @@ South Carolina Residents
 ------------------------
 
 Dominion Energy South Carolina residential customers may request a copy of their personal data held by DESC in its “customer information system” and request a correction of any inaccuracies of their information. To submit such request, please complete the following form: [South Carolina Request to Know](https://privacyportal.onetrust.com/webform/56b6f3b4-38a2-45ec-9e30-c30c358b0a3e/821ab0d8-bec5-4675-9ea6-acbcfa95ff63).
-
-Utah Residents
---------------
-
-This section provides information specific to Utah Residents.
-
-As of June 1, 2024, Enbridge acquired Dominion Energy Utah, now known as Enbridge Gas Utah.
-
-#### Privacy Requests
-
-If you are a Utah resident, Enbridge Gas Utah's Consumer Rights Requests are available via the links below, and you may request the following:
-
-* Confirmation from Enbridge Gas Utah that we hold personal information about you; to submit such request, please complete the following form: [Utah Request to Confirm](https://privacyportal.onetrust.com/webform/56b6f3b4-38a2-45ec-9e30-c30c358b0a3e/a74073fe-aae4-482b-810c-c17f8be196a0).
-* A copy of your personal information you provided to Enbridge Gas Utah; to submit such a request, please complete the following form: [Utah Request to Access](https://privacyportal.onetrust.com/webform/56b6f3b4-38a2-45ec-9e30-c30c358b0a3e/cb6c0a0e-e94e-4672-a882-e6115b463468).
-* A deletion of your personal information held by Enbridge Gas Utah; to submit such request, please complete the following form: [Utah Request to Delete](https://privacyportal.onetrust.com/webform/56b6f3b4-38a2-45ec-9e30-c30c358b0a3e/8c9610ee-1792-477e-ad2a-1fd8074211f0).
-
-#### Sale of Personal Data
-
-Enbridge does not sell personal data as defined by Utah law.
-
-#### Sensitive Data
-
-As described in this Privacy Notice, Enbridge Gas Utah may process certain personal information that is considered “Sensitive Data” as defined by Utah law. Processing of sensitive data only occurs when you knowingly take affirmative action to provide such information to us for processing.
-
-#### Targeted Advertising
-
-As described under the “Communications Preferences” section of this Privacy Notice, Enbridge Gas Utah may share your personal information with social media sites for the purpose of providing you with customized ads through targeted advertising as defined by Utah law. To opt-out of Targeted Advertising, please complete the following form: [Utah Request to Opt Out of Targeted Advertising](https://privacyportal.onetrust.com/webform/56b6f3b4-38a2-45ec-9e30-c30c358b0a3e/a421f3d8-dd09-407b-a395-d38af66f96ea).
-
-As described under the “Cookies & Online Advertising” section of this Privacy Notice, some of Dominion Energy websites and mobile applications use cookies, web beacons and other similar tracking technologies to enable essential features, or for data analytics and marketing purposes. You may opt-out of these technologies by modifying your cookie preferences in our “Privacy Preference Center” located by clicking the “cookie” shaped icon on our website.
-
-Utah Inquiries: If you are a Utah resident and have questions about the Privacy Notice, you may reach us as follows:
-
-* **Email:** [UtahPrivacy@DominionEnergy.com](mailto:utahprivacy@dominionenergy.com)
 
 Virginia Residents
 ------------------
