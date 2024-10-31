@@ -60,9 +60,9 @@
         Augmented Reality
         
     
-* School success
+* School Success
     
-    Close School success Open School success
+    Close School Success Open School Success
     
     * [](https://www.discoveryeducation.co.uk/success-webinars/)
         
@@ -82,7 +82,7 @@
         FAQs
         
     
-* [Try for free](https://www.discoveryeducation.co.uk/consultation-booking/)
+* [Try for Free](https://www.discoveryeducation.co.uk/consultation-booking/)
     
 
 [Login](https://app.discoveryeducation.co.uk/)
@@ -92,8 +92,6 @@
 [![](https://www.discoveryeducation.co.uk/wp-content/uploads/2024/10/de-logo-desktop-dark.png)](https://www.discoveryeducation.co.uk/)
 
 [Login](https://app.discoveryeducation.co.uk/)
-
-[Contact Us](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjU1MTQwIiwidG9nZ2xlIjpmYWxzZX0%3D)
 
 * Solutions
     
@@ -153,9 +151,9 @@
         Augmented Reality
         
     
-* School success
+* School Success
     
-    Close School success Open School success
+    Close School Success Open School Success
     
     * [](https://www.discoveryeducation.co.uk/success-webinars/)
         
@@ -175,7 +173,7 @@
         FAQs
         
     
-* [Try for free](https://www.discoveryeducation.co.uk/consultation-booking/)
+* [Try for Free](https://www.discoveryeducation.co.uk/consultation-booking/)
     
 
   
@@ -304,29 +302,29 @@ For questions about our Cookie Policy, please contact us by using the following 
 
 ###### Help
 
-* [Contact us](#popup-get-started "Contact us")
+* [Contact Us](#popup-get-started)
 * [Help Centre](https://www.discoveryeducation.co.uk/help)
-* [Technical requirements](https://www.discoveryeducation.co.uk/minimum-requirements)
+* [Technical Requirements](https://www.discoveryeducation.co.uk/minimum-requirements)
 
-* [Contact us](#popup-get-started "Contact us")
+* [Contact Us](#popup-get-started)
 * [Help Centre](https://www.discoveryeducation.co.uk/help)
-* [Technical requirements](https://www.discoveryeducation.co.uk/minimum-requirements)
+* [Technical Requirements](https://www.discoveryeducation.co.uk/minimum-requirements)
 
 [Facebook](https://www.facebook.com/discoveryeduk) [X-twitter](https://twitter.com/discoveryeduk) [Youtube](https://www.youtube.com/c/discoveryeducationuk) [Linkedin](https://www.linkedin.com/company/discoveryeducationuk/) [Instagram](https://www.instagram.com/discoveryeduk/)
 
-* [Terms of use](https://www.discoveryeducation.co.uk/terms-of-use/)
-* [Privacy policy](https://www.discoveryeducation.co.uk/privacy-policy/)
+* [Terms of Use](https://www.discoveryeducation.co.uk/terms-of-use/)
+* [Privacy Policy](https://www.discoveryeducation.co.uk/privacy-policy/)
 * [DPA](https://www.discoveryeducation.co.uk/data-processing-addendum/)
 * [Sub-processors](https://www.discoveryeducation.co.uk/subprocessor/)
 * [Sitemap](https://www.discoveryeducation.co.uk/sitemap/)
-* [Cookie settings](#)
+* [Cookie Settings](#)
 
-* [Terms of use](https://www.discoveryeducation.co.uk/terms-of-use/)
-* [Privacy policy](https://www.discoveryeducation.co.uk/privacy-policy/)
+* [Terms of Use](https://www.discoveryeducation.co.uk/terms-of-use/)
+* [Privacy Policy](https://www.discoveryeducation.co.uk/privacy-policy/)
 * [DPA](https://www.discoveryeducation.co.uk/data-processing-addendum/)
 * [Sub-processors](https://www.discoveryeducation.co.uk/subprocessor/)
 * [Sitemap](https://www.discoveryeducation.co.uk/sitemap/)
-* [Cookie settings](#)
+* [Cookie Settings](#)
 
 ****Copyright © 2024 Discovery Education. All rights reserved Discovery Education, Inc**.**  
 Discovery Education’s UK operating entity is Discovery Education Europe Limited, a company registered in England and Wales under Company Number: 03261277. Registered office: 9 Palace Yard Mews, Bath BA1 2NH. VAT number: GB 887 9082 56.
