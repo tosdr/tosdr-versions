@@ -6,11 +6,13 @@
     
     One platform for digital transformation](https://boomi.com/platform/)[###### Why Boomi
     
-    See why ~ 20,000 customers choose Boomi](https://boomi.com/why-boomi/)[###### iPaaS pricing & editions
+    See why ~ 20,000 customers choose Boomi](https://boomi.com/why-boomi/)[###### Pricing
     
     Flexible pricing for SMBs to enterprise](https://boomi.com/pricing/)[###### Security & compliance
     
-    Ensure regulatory and industry standards](https://boomi.com/compliance/)
+    Ensure regulatory and industry standards](https://boomi.com/compliance/)[###### Innovation
+    
+    How we’re reshaping the future of integration](https://boomi.com/innovation/)
     
     ###### Capabilities
     
@@ -30,17 +32,17 @@
     
     ###### DataHub
     
-    The foundation for trusted data](https://boomi.com/platform/datahub/)
-    
-    [![Flow - Menu Icon](https://boomi.com/wp-content/uploads/Flow-Menu-Icon.svg)
+    The foundation for trusted data](https://boomi.com/platform/datahub/)[![Flow - Menu Icon](https://boomi.com/wp-content/uploads/Flow-Menu-Icon.svg)
     
     ###### Flow
     
-    Build and automate workflows with low-code](https://boomi.com/platform/flow/)[![Event Streams - Menu Icon](https://boomi.com/wp-content/uploads/Event-Streams-Menu-Icon.svg)
+    Build and automate workflows with low-code](https://boomi.com/platform/flow/)
+    
+    [![Event Streams - Menu Icon](https://boomi.com/wp-content/uploads/Event-Streams-Menu-Icon.svg)
     
     ###### Events streams
     
-    Create real-time, event-driven integrations](https://boomi.com/platform/events-streams/)[![EDI - Menu Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    Create real-time, event-driven integrations](https://boomi.com/platform/event-streams/)[![EDI - Menu Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
     
     ![EDI - Menu Icon](https://boomi.com/wp-content/uploads/EDI-Menu-Icon.svg)
     
@@ -80,7 +82,15 @@
     
 * Case studies
     
-    [![case-study-icon](https://boomi.com/wp-content/uploads/case-study-icon.svg)](https://boomi.com/customers/)[![Australian Red Cross - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Australian-Red-Cross-Menu-Case-Study-Logo.svg)](https://boomi.com/customer/australian-red-cross/)[![American Cancer Society - Menu Case Study Logo](https://boomi.com/wp-content/uploads/American-Cancer-Society-Menu-Case-Study-Logo.svg)](https://boomi.com/customer/american-cancer-society/)[![23andMe - Menu Case Study Logo](https://boomi.com/wp-content/uploads/23andMe-Menu-Case-Study-Logo.svg)](https://boomi.com/customer/23andme/)[![Dropbox Logo Color](https://boomi.com/wp-content/uploads/Dropbox-Logo-Color.svg)](https://boomi.com/customer/dropbox/)[![1200px-Cloudflare_logo](https://boomi.com/wp-content/uploads/1200px-Cloudflare_logo.png)](https://boomi.com/customer/cloudflare/)[![Sky - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Sky-Menu-Case-Study-Logo.png)](https://boomi.com/customer/sky/)[![Origin - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Origin-Menu-Case-Study-Logo.svg)](https://boomi.com/customer/origin-energy/)
+    [![Australian Red Cross - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Australian-Red-Cross-Menu-Case-Study-Logo.svg)](https://boomi.com/customer/australian-red-cross/)[![American Cancer Society - Menu Case Study Logo](https://boomi.com/wp-content/uploads/American-Cancer-Society-Menu-Case-Study-Logo.svg)](https://boomi.com/customer/american-cancer-society/)[![linkedin-logo-customers](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![linkedin-logo-customers](https://boomi.com/wp-content/uploads/linkedin-logo-customers.png)](https://boomi.com/customer/linkedin/)[![Sky - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Sky-Menu-Case-Study-Logo.png)](https://boomi.com/customer/sky/)[![23andMe - Menu Case Study Logo](https://boomi.com/wp-content/uploads/23andMe-Menu-Case-Study-Logo.svg)](https://boomi.com/customer/23andme/)[![Marketo - Menu Case Study Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Marketo - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Marketo-Menu-Case-Study-Logo.svg)](https://boomi.com/customer/marketo/)[![Nutanix - Menu Case Study Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Nutanix - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Nutanix-Menu-Case-Study-Logo.svg)](https://boomi.com/customer/nutanix/)[![All-case-studies-image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![All-case-studies-image](https://boomi.com/wp-content/uploads/All-case-studies-image.png)](https://boomi.com/customers/)
     
     [Explore all case studies](https://boomi.com/customers/)
     
@@ -164,12 +174,15 @@
     * [###### Why Boomi
         
         See why ~ 20,000 customers choose Boomi](https://boomi.com/why-boomi/)
-    * [###### iPaaS pricing & editions
+    * [###### Pricing
         
         Flexible pricing for SMBs to enterprise](https://boomi.com/pricing/)
     * [###### Security & compliance
         
         Ensure regulatory and industry standards](https://boomi.com/compliance/)
+    * [###### Innovation
+        
+        How we’re reshaping the future of integration](https://boomi.com/innovation/)
     
     Capabilities
     
@@ -193,17 +206,17 @@
         ###### DataHub
         
         The foundation for trusted data](https://boomi.com/platform/datahub/)
-    
     * [![Flow - Menu Icon](https://boomi.com/wp-content/uploads/Flow-Menu-Icon.svg)
         
         ###### Flow
         
         Build and automate workflows with low-code](https://boomi.com/platform/flow/)
+    
     * [![Event Streams - Menu Icon](https://boomi.com/wp-content/uploads/Event-Streams-Menu-Icon.svg)
         
         ###### Events streams
         
-        Create real-time, event-driven integrations](https://boomi.com/platform/events-streams/)
+        Create real-time, event-driven integrations](https://boomi.com/platform/event-streams/)
     * [![EDI - Menu Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
         ![EDI - Menu Icon](https://boomi.com/wp-content/uploads/EDI-Menu-Icon.svg)
@@ -221,7 +234,7 @@
     
     * [Start free trial](https://boomi.com/form/trial/)
     * [Request a demo](https://boomi.com/custom-demo-request/)
-    * [Pricing](https://boomi.com/pricing/)
+    * [Boomi Discover](https://discover.boomi.com/)
     
 * Solutions
     
@@ -276,10 +289,6 @@
     
     [Explore all case studies](https://boomi.com/customers/)
     
-    [![case-study-icon](https://boomi.com/wp-content/uploads/case-study-icon.svg)
-    
-    ###### Explore all](https://boomi.com/customers/)
-    
     [![Australian Red Cross - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Australian-Red-Cross-Menu-Case-Study-Logo.svg)
     
     ###### Australian Red Cross](https://boomi.com/customer/australian-red-cross/)
@@ -288,25 +297,37 @@
     
     ###### American Cancer Society](https://boomi.com/customer/american-cancer-society/)
     
-    [![23andMe - Menu Case Study Logo](https://boomi.com/wp-content/uploads/23andMe-Menu-Case-Study-Logo.svg)
+    [![linkedin-logo-customers](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
     
-    ###### 23andMe](https://boomi.com/customer/23andme/)
+    ![linkedin-logo-customers](https://boomi.com/wp-content/uploads/linkedin-logo-customers.png)
     
-    [![Dropbox Logo Color](https://boomi.com/wp-content/uploads/Dropbox-Logo-Color.svg)
-    
-    ###### Dropbox](https://boomi.com/customer/dropbox/)
-    
-    [![1200px-Cloudflare_logo](https://boomi.com/wp-content/uploads/1200px-Cloudflare_logo.png)
-    
-    ###### Cloudflare](https://boomi.com/customer/cloudflare/)
+    ###### Linkedin](https://boomi.com/customer/linkedin/)
     
     [![Sky - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Sky-Menu-Case-Study-Logo.png)
     
     ###### Sky](https://boomi.com/customer/sky/)
     
-    [![Origin - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Origin-Menu-Case-Study-Logo.svg)
+    [![23andMe - Menu Case Study Logo](https://boomi.com/wp-content/uploads/23andMe-Menu-Case-Study-Logo.svg)
     
-    ###### Origin](https://boomi.com/customer/origin-energy/)
+    ###### 23andMe](https://boomi.com/customer/23andme/)
+    
+    [![Marketo - Menu Case Study Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Marketo - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Marketo-Menu-Case-Study-Logo.svg)
+    
+    ###### Marketo](https://boomi.com/customer/marketo/)
+    
+    [![Nutanix - Menu Case Study Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Nutanix - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Nutanix-Menu-Case-Study-Logo.svg)
+    
+    ###### Nutanix](https://boomi.com/customer/nutanix/)
+    
+    [![All-case-studies-image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![All-case-studies-image](https://boomi.com/wp-content/uploads/All-case-studies-image.png)
+    
+    ###### Explore all](https://boomi.com/customers/)
     
     * [Start free trial](https://boomi.com/form/trial/)
     * [Request a demo](https://boomi.com/custom-demo-request/)
@@ -696,14 +717,13 @@ The #1 intelligent iPaaS for digital transformation.
     * [AWS](https://boomi.com/solutions/application/aws/)
     * [All connectors](https://boomi.com/connectors/)
 * [Resources](https://boomi.com/resources)
-    * [Blog](https://boomi.com/blog/)
     * [Events & webinars](https://boomi.com/company/events/)
-    * [Analyst Reports](https://boomi.com/resources/?content_type=analyst-report)
-    * [Ebooks](https://boomi.com/resources/?content_type=ebook)
+    * [Blog](https://boomi.com/blog/)
     * [Case studies](https://boomi.com/customers/)
     * [Training](https://boomi.com/services/training/)
     * [Community](https://community.boomi.com/s/)
     * [Documentation](https://help.boomi.com/)
+    * [All resources](https://boomi.com/resources/)
 * [Company](https://boomi.com/company/)
     * [About](https://boomi.com/company/)
     * [Careers](https://boomi.com/company/careers/)
