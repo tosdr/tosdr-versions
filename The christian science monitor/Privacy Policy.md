@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Honesty
+
+### The light in Cuba](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1031/The-light-in-Cuba "The light in Cuba")
+
+[Prosperity
+
+### Intel is coming. Ohio community colleges say the state’s workers will be ready.](https://www.csmonitor.com/USA/Education/2024/1031/intel-ohio-community-college-career-and-technical-education "Intel is coming. Ohio community colleges say the state’s workers will be ready.")
+
 [Innovation
 
 ### Creativity as a small nation’s defense](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1030/Creativity-as-a-small-nation-s-defense "Creativity as a small nation’s defense")
-
-[Cooperation
-
-### The Trump-Harris worldview divide: Fly solo, or with allies?](https://www.csmonitor.com/USA/Foreign-Policy/2024/1030/elections-trump-harris-foreign-policy "The Trump-Harris worldview divide: Fly solo, or with allies?")
-
-[Fairness
-
-### Ahead of Tanzania’s election, Maasai fight to stay put](https://www.csmonitor.com/World/Africa/2024/1030/maasai-ngorongoro-evictions-tanzania-election "Ahead of Tanzania’s election, Maasai fight to stay put")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 30, 2024
+October 31, 2024
 
-Facts and feelings
+Integrity at the polls
 
-In his article on the swing state of Pennsylvania, Simon Montlake includes a link to this article in The Economist: “The American economy has left other rich countries in the dust.” Is that how things feel? Not for many. That’s Simon’s point.His article underlines that people generally vote based on what they feel, not impartial facts. That’s natural. But it can also lead to warped or incomplete views of the economy, government, or one another. And it’s a reminder that a broader worldview can reveal that how we feel isn’t the only – or often the best – lens.
+The front-line facilitators of democracy, poll workers are trained problem-solvers. They’re strict followers of procedure, staying quiet about their own politics and keeping the line moving. More than ever, their work calls for maintaining a sense of integrity that can shore up respect and help soothe any voter who seeks to do more than humbly engage in the electoral process. (Some poll workers receive deescalation training.)Today, Sophie Hills and Caitlin Babcock help us understand a critical, sometimes underappreciated election-time role in the United States. Also: Don’t miss our online guide to the U.S. presidential candidates’ policy stances. It’s highly shareable.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Moon base to deep space: How China seeks to close gap with US](https://www.csmonitor.com/World/Asia-Pacific/2024/1030/China-space-program-manned-launch "Moon base to deep space: How China seeks to close gap with US")
+[### Putin has ruled Russia for 25 years. How did he last so long?](https://www.csmonitor.com/World/Europe/2024/1031/vladimir-putin-russia-kremlin-25-years-ukraine-war "Putin has ruled Russia for 25 years. How did he last so long?")
 
-[### Ahead of Tanzania’s election, Maasai fight to stay put](https://www.csmonitor.com/World/Africa/2024/1030/maasai-ngorongoro-evictions-tanzania-election "Ahead of Tanzania’s election, Maasai fight to stay put")
+[### US seeks to counter Chinese influence in the Global South. Is it too late?](https://www.csmonitor.com/World/2024/1031/us-china-russia-brics-global-south "US seeks to counter Chinese influence in the Global South. Is it too late?")
 
-[### UN schools in Gaza shaped our reporter’s childhood. She worries for the future.](https://www.csmonitor.com/World/Middle-East/2024/1029/israeli-ban-unrwa-education-future "UN schools in Gaza shaped our reporter’s childhood. She worries for the future.")
+[### How Harris and Trump both put family issues front and center, from IVF to schools](https://www.csmonitor.com/USA/Society/2024/1031/IVF-schools-child-tax-credit "How Harris and Trump both put family issues front and center, from IVF to schools")
 
 * * *
 
