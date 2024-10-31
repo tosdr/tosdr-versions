@@ -46,16 +46,7 @@
     
 * [Programs](https://www.ksd.org/programs)
     
-    * [Action Team for Partnerships](https://www.ksd.org/programs/action-team-for-partnerships)
-    * [Career and College Readiness](https://www.ksd.org/programs/career-college-readiness)
-    * [Community & Employment Transition](https://www.ksd.org/programs/cet)
-    * [Community Education Online](https://www.ksd.org/programs/community-education)
-    * [Dual Language](https://www.ksd.org/programs/dual-language)
-    * [Highly Capable Program](https://www.ksd.org/programs/highly-capable-program)
-    * [Migrant & Multilingual](https://www.ksd.org/programs/migrant-multilingual)
     * [READY! for Kindergarten](https://www.ksd.org/programs/ready-for-kindergarten)
-    * [Students In Transition (Homeless)](https://www.ksd.org/programs/students-in-transition)
-    * [Summer School](https://www.ksd.org/programs/summer-school)
     * [Transition to Kindergarten](https://www.ksd.org/programs/transition-to-kindergarten)
     
 * [Students & Families](https://www.ksd.org/students-families)
@@ -85,7 +76,7 @@
     
 * [Community](https://www.ksd.org/community)
     
-    * [Community Education(opens in new window/tab)](https://www.ksd.org/programs/community-education)
+    * [Community Education(opens in new window/tab)](https://www.ksd.org/departments/communications-public-relations/community-education)
     * [Community News](https://www.ksd.org/community/community-news)
     * [Community Resources](https://www.ksd.org/students-families/community-resources)
     * [E-Flyer Requests (Peachjar)](https://www.ksd.org/community/e-flyers)
@@ -186,16 +177,7 @@ toggle mobile menu
     
 * [Programs](https://www.ksd.org/programs)
     
-    * [Action Team for Partnerships](https://www.ksd.org/programs/action-team-for-partnerships)
-    * [Career and College Readiness](https://www.ksd.org/programs/career-college-readiness)
-    * [Community & Employment Transition](https://www.ksd.org/programs/cet)
-    * [Community Education Online](https://www.ksd.org/programs/community-education)
-    * [Dual Language](https://www.ksd.org/programs/dual-language)
-    * [Highly Capable Program](https://www.ksd.org/programs/highly-capable-program)
-    * [Migrant & Multilingual](https://www.ksd.org/programs/migrant-multilingual)
     * [READY! for Kindergarten](https://www.ksd.org/programs/ready-for-kindergarten)
-    * [Students In Transition (Homeless)](https://www.ksd.org/programs/students-in-transition)
-    * [Summer School](https://www.ksd.org/programs/summer-school)
     * [Transition to Kindergarten](https://www.ksd.org/programs/transition-to-kindergarten)
     
 * [Students & Families](https://www.ksd.org/students-families)
@@ -225,7 +207,7 @@ toggle mobile menu
     
 * [Community](https://www.ksd.org/community)
     
-    * [Community Education(opens in new window/tab)](https://www.ksd.org/programs/community-education)
+    * [Community Education(opens in new window/tab)](https://www.ksd.org/departments/communications-public-relations/community-education)
     * [Community News](https://www.ksd.org/community/community-news)
     * [Community Resources](https://www.ksd.org/students-families/community-resources)
     * [E-Flyer Requests (Peachjar)](https://www.ksd.org/community/e-flyers)
