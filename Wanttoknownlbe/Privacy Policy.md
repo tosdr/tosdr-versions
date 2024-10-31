@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/uit-het-systeem-stappen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/john-maynard-keynes-omgekeerde-economische-wereld/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
