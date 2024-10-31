@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-968da4bf69b820385a7ce000526f5619
+b373b80a0b877e2534686542bfefa859
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![4 mm double diamond beads](https://www.sojourner.biz/images/cache/glass/GL0310.200.jpg)](https://www.sojourner.biz/beads/glass/4-mm-double-diamond-beads.html "4 mm double diamond beads")
+[![12 mm by 8 mm top-drilled vintage frosted blue-green glass leaves](https://www.sojourner.biz/images/cache/glass/GL0215strand.200.jpg)](https://www.sojourner.biz/beads/glass/12-mm-by-8-mm-top-drilled-vintage-frosted-blue-green-glass-leaves.html "12 mm by 8 mm top-drilled vintage frosted blue-green glass leaves")
 
-#### [4 mm double diamond beads](https://www.sojourner.biz/beads/glass/4-mm-double-diamond-beads.html "4 mm double diamond beads")
+#### [12 mm by 8 mm top-drilled vintage frosted blue-green glass leaves](https://www.sojourner.biz/beads/glass/12-mm-by-8-mm-top-drilled-vintage-frosted-blue-green-glass-leaves.html "12 mm by 8 mm top-drilled vintage frosted blue-green glass leaves")
 
-$2.00
+$6.00
 
 ### Best Sellers
 
