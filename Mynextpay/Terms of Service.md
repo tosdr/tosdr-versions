@@ -3,7 +3,7 @@
 * [BLOG](https://mynextpay.ca/blog/)
 * [FRANÇAIS](https://mynextpay.ca/fr)
 
-[![Mynextpay](https://b3252150.smushcdn.com/3252150/wp-content/uploads/2020/12/mynextpay-logoret2.png?lossy=1&strip=1&webp=1)](https://mynextpay.ca/)
+[![Mynextpay](https://mynextpay.ca/wp-content/uploads/2020/12/mynextpay-logoret2.png)](https://mynextpay.ca/)
 
 * [SERVICES](#)
     * [PAYDAY LOANS](https://mynextpay.ca/payday-loans-in-canada/)
@@ -48,7 +48,7 @@ Electronic Signature/Verbal Consent – By agreeing to this application, you und
 
 ![Mynextpay](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Mynextpay")
 
-![Mynextpay](https://b3252150.smushcdn.com/3252150/wp-content/uploads/2020/12/mynextpay-logoret2.png?lossy=1&strip=1&webp=1 "Mynextpay")
+![Mynextpay](https://mynextpay.ca/wp-content/uploads/2020/12/mynextpay-logoret2.png "Mynextpay")
 
 With over 12 years of experience, Mynextpay, provides quick financial solutions to its Canadian clients. Our quick cash loan program is quick and convenient. Even if your previous credit history is not perfect, My Next Pay strives to provide every customer with a short term cash loan that is suitable for your budget.
 
@@ -98,4 +98,4 @@ Copyright © 2021 – Mynextpay. All Right Reserved
 
 [![Mexxus Media Agency](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Mexxus Media Agency")
 
-![Mexxus Media Agency](https://b3252150.smushcdn.com/3252150/wp-content/uploads/2020/12/Mexxus-white-news.png?lossy=1&strip=1&webp=1 "Mexxus Media Agency")](https://mexxusmedia.com/?mynextpay)
+![Mexxus Media Agency](https://mynextpay.ca/wp-content/uploads/2020/12/Mexxus-white-news.png "Mexxus Media Agency")](https://mexxusmedia.com/?mynextpay)
