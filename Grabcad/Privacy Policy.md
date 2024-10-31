@@ -327,6 +327,8 @@ Print
 
 [Origin](https://grabcad.com/print/p3)
 
+[GrabCAD Print for Neo](https://grabcad.com/print/sla)
+
 Shop
 
 [Overview](https://grabcad.com/shop)
