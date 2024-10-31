@@ -275,13 +275,6 @@ Don't Miss:
 
   [![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-bright.svg) ![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-sky.svg)Donate](https://www.gpb.org/give-now "Donate to Georgia Public Broadcasting")
 
-![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live.svg)
-
-WATCH: Secretary of State Early Voting Briefing at 10:00am
-----------------------------------------------------------
-
-[WATCH LIVE!](https://www.gpb.org/events/news/2024/10/30/secretary-of-state-early-voting-update)
-
 Messages
 --------
 
