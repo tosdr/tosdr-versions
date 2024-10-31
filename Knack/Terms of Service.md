@@ -131,7 +131,7 @@
             
             ![Integrations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
             
-            ![Integrations](https://www.knack.com/wp-content/uploads/2023/08/nativeintegration-icon-purple.svg)](https://www.knack.com/tour/extend/)
+            ![Integrations](https://www.knack.com/wp-content/uploads/2023/08/nativeintegration-icon-purple.svg)](https://www.knack.com/tour/integrations/)
         * [User Access![User Access](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
             
             ![User Access](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -347,7 +347,7 @@
             
             ![Integrations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
             
-            ![Integrations](https://www.knack.com/wp-content/uploads/2023/08/nativeintegration-icon-purple.svg)](https://www.knack.com/tour/extend/)
+            ![Integrations](https://www.knack.com/wp-content/uploads/2023/08/nativeintegration-icon-purple.svg)](https://www.knack.com/tour/integrations/)
         * [User Access![User Access](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
             
             ![User Access](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -541,7 +541,7 @@ Built a a HIPAA-Compliant Start-Up and saved $250k+ saved/year.
         
     * [Integrations![Integrations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        ![Integrations](https://www.knack.com/wp-content/uploads/2023/11/Integrations.svg)](https://www.knack.com/tour/extend/)
+        ![Integrations](https://www.knack.com/wp-content/uploads/2023/11/Integrations.svg)](https://www.knack.com/tour/integrations/)
         
         Integrate data and workflows to enhance productivity and expand functionality effortlessly.
         
@@ -770,7 +770,7 @@ PLATFORM
 * [Data Management](https://www.knack.com/tour/database/)
 * [E-commerce](https://www.knack.com/tour/ecommerce/)
 * [Interface](https://www.knack.com/tour/interface/)
-* [Integrations](https://www.knack.com/tour/extend/)
+* [Integrations](https://www.knack.com/tour/integrations/)
 * [Reports](https://www.knack.com/tour/reports/)
 * [Security](https://www.knack.com/tour/security/)
 * [User Access](https://www.knack.com/tour/user-access/)
