@@ -270,7 +270,7 @@ If you wish to exercise any of your rights, you can make this known via [support
 Email opt-out
 -------------
 
-cally.com can send invitations and other communication about the date pickers. We do this primarily per email. To completely opt-out of receiving any email from us, you can choose to do so [here](https://cally.com/account/unblockemail). If you’d like to opt-out of a specific type of email, you can do so in your [account](https://cally.com/account/index).
+cally.com can send invitations and other communication about the date pickers. We do this primarily per email. To completely opt-out of receiving any email from us, you can choose to do so [here](https://cally.com/account/blockemail). If you’d like to opt-out of a specific type of email, you can do so in your [account](https://cally.com/account/index).
 
 Changes to this privacy and cookie statement
 --------------------------------------------
