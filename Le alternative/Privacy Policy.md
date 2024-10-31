@@ -80,7 +80,7 @@ Menu Chiudi
 
 [Menù e ricerca per No JavaScript](https://www.lealternative.net/menu/)
 
-Unisciti alle comunità di Le Alternative: [![Logo di Feddit](/wp-content/uploads/2024/05/feddit5.webp.pagespeed.ce.TTpf2nUF0p.webp)](https://feddit.it/c/lealternative) [![Logo di Signal](/wp-content/uploads/2024/05/logosignal.webp)](https://fedd.it/signal) [![Logo di SimpleX Chat](/wp-content/uploads/2024/09/simplex-ok.png)](https://fedd.it/simplex) [![Logo di Telegram](/wp-content/uploads/2024/05/telegram.webp)](https://t.me/LeAlternativeGruppoUfficiale) [![Logo di Matrix](/wp-content/uploads/2024/05/matrix3.webp)](https://matrix.to/#/#lealternative-spazio:matrix.org) [![Logo di WhatsApp](/wp-content/uploads/2024/05/Digital_Glyph_Green.webp)](https://whatsapp.com/channel/0029VaDwOJX89inqY9gDap1L)
+Unisciti alle comunità di Le Alternative: [![Logo di Feddit](/wp-content/uploads/2024/05/feddit5.webp)](https://feddit.it/c/lealternative) [![Logo di Signal](/wp-content/uploads/2024/05/logosignal.webp)](https://fedd.it/signal) [![Logo di SimpleX Chat](/wp-content/uploads/2024/09/simplex-ok.png.pagespeed.ce.MCM22kwwTV.png)](https://fedd.it/simplex) [![Logo di Telegram](/wp-content/uploads/2024/05/telegram.webp)](https://t.me/LeAlternativeGruppoUfficiale) [![Logo di Matrix](/wp-content/uploads/2024/05/matrix3.webp)](https://matrix.to/#/#lealternative-spazio:matrix.org) [![Logo di WhatsApp](/wp-content/uploads/2024/05/Digital_Glyph_Green.webp)](https://whatsapp.com/channel/0029VaDwOJX89inqY9gDap1L)
 
 Privacy Policy completa
 =======================
@@ -90,8 +90,6 @@ Se non hai JavaScript attivato questa funzione non ti andrà, copia e incolla ma
 [Condividi](javascript:shareURL())
 
 [🩵 donazioni](https://www.lealternative.net/donazioni/)
-
-Impossibile recuperare i dati da Mastodon.
 
 **Informativa ai sensi dell’art. 13 del Codice della Privacy**
 
