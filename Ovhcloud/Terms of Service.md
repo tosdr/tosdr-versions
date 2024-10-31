@@ -122,7 +122,7 @@ Log in to order, manage your products and services, and track your orders.
             
             * [Rise Servers](https://www.ovhcloud.com/en-ie/bare-metal/rise/) The most affordable bare-metal servers offered by OVHcloud
             * [Advance Servers New](https://www.ovhcloud.com/en-ie/bare-metal/advance/) Versatile servers for small and medium businesses.
-            * [Game Servers](https://www.ovhcloud.com/en-ie/bare-metal/game/) For video games and streaming platforms.
+            * [Game Servers New](https://www.ovhcloud.com/en-ie/bare-metal/game/) For video games and streaming platforms.
             * [Storage Servers](https://www.ovhcloud.com/en-ie/bare-metal/storage/) Servers for archiving, backup, and distributed storage.
             * [Scale Servers New](https://www.ovhcloud.com/en-ie/bare-metal/scale/) Specifically designed for complex, high-resilience infrastructures.
             * [High Grade Servers New](https://www.ovhcloud.com/en-ie/bare-metal/high-grade/) The most powerful servers, optimised for critical loads.
