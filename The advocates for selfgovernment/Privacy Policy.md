@@ -61,9 +61,7 @@ Enable Dark Mode
     
     Most Popular
     
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](https://www.theadvocates.org/wp-content/uploads/2024/05/asg-whitehouse-resized.jpeg)
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/05/asg-whitehouse-resized.jpeg)
         
         ### The World’s Smallest Political Quiz
         
@@ -78,9 +76,7 @@ Enable Dark Mode
         
         2.5 Min](https://www.theadvocates.org/qep/the-worlds-smallest-political-quiz/)
         
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](https://www.theadvocates.org/wp-content/uploads/2023/06/gun-control-resized.jpeg)
+    * [![](https://www.theadvocates.org/wp-content/uploads/2023/06/gun-control-resized.jpeg)
         
         ### Gun Control Survey
         
@@ -95,9 +91,7 @@ Enable Dark Mode
         
         7 Min](https://www.theadvocates.org/qep/gun-control-survey/)
         
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](https://www.theadvocates.org/wp-content/uploads/2022/12/AdobeStock_68336479-scaled-resized.jpeg)
+    * [![](https://www.theadvocates.org/wp-content/uploads/2022/12/AdobeStock_68336479-scaled-resized.jpeg)
         
         ### Federal Spending Survey
         
@@ -112,9 +106,7 @@ Enable Dark Mode
         
         4.5 Min](https://www.theadvocates.org/qep/federal-spending-survey/)
         
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](https://www.theadvocates.org/wp-content/uploads/2024/06/national-security-and-foreign-policy-resized.jpeg)
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/national-security-and-foreign-policy-resized.jpeg)
         
         ### National Security And Foreign Policy
         
@@ -129,9 +121,7 @@ Enable Dark Mode
         
         4 Min](https://www.theadvocates.org/qep/national-security-survey/)
         
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](https://www.theadvocates.org/wp-content/uploads/2024/06/government-debt-resized.jpeg)
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/government-debt-resized.jpeg)
         
         ### Government Debt, Money, and Monetary Policy
         
@@ -146,9 +136,7 @@ Enable Dark Mode
         
         3 Min](https://www.theadvocates.org/qep/government-debt-money-and-monetary-policy/)
         
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](https://www.theadvocates.org/wp-content/uploads/2024/06/worlds-smallest-quiz-resized.jpeg)
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/worlds-smallest-quiz-resized.jpeg)
         
         ### Identity Politics and Political Correctness
         
@@ -163,9 +151,7 @@ Enable Dark Mode
         
         4 Min](https://www.theadvocates.org/qep/identity-politics-and-political-correctness/)
         
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](https://www.theadvocates.org/wp-content/uploads/2024/06/do-you-understand-self-government-resized.jpeg)
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/do-you-understand-self-government-resized.jpeg)
         
         ### Censorship and Free Speech
         
@@ -180,9 +166,7 @@ Enable Dark Mode
         
         4.5 Min](https://www.theadvocates.org/qep/censorship-and-free-speech/)
         
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](https://www.theadvocates.org/wp-content/uploads/2024/06/election-integrity-survey-resized.jpeg)
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/election-integrity-survey-resized.jpeg)
         
         ### Election Integrity Survey
         
@@ -197,9 +181,7 @@ Enable Dark Mode
         
         3 Min](https://www.theadvocates.org/qep/election-integrity-survey/)
         
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](https://www.theadvocates.org/wp-content/uploads/2024/06/single-issue-surveys-resized.jpeg)
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/single-issue-surveys-resized.jpeg)
         
         ### Pandemic Survey
         
@@ -214,9 +196,7 @@ Enable Dark Mode
         
         4 Min](https://www.theadvocates.org/qep/pandemic-survey/)
         
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](https://www.theadvocates.org/wp-content/uploads/2024/06/police-accountability-resized.jpeg)
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/police-accountability-resized.jpeg)
         
         ### Police Accountability
         
@@ -270,61 +250,31 @@ Enable Dark Mode
     
     Political Types
     
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/df/DALL%C2%B7E-2024-06-12-15.25.44-A-utopian-scene-expressing-libertarian-ideas_-a-vibrant-self-sustaining-community-with-eco-friendly-buildings-and-lush-green-spaces.-People-are-engag-1-df959f8d.webp)
-        
-        ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/df/DALL%C2%B7E-2024-06-12-15.25.44-A-utopian-scene-expressing-libertarian-ideas_-a-vibrant-self-sustaining-community-with-eco-friendly-buildings-and-lush-green-spaces.-People-are-engag-1-df959f8d.webp)
+    *  [![](/wp-content/themes/yootheme/cache/df/DALL%C2%B7E-2024-06-12-15.25.44-A-utopian-scene-expressing-libertarian-ideas_-a-vibrant-self-sustaining-community-with-eco-friendly-buildings-and-lush-green-spaces.-People-are-engag-1-df959f8d.webp) ![](/wp-content/themes/yootheme/cache/df/DALL%C2%B7E-2024-06-12-15.25.44-A-utopian-scene-expressing-libertarian-ideas_-a-vibrant-self-sustaining-community-with-eco-friendly-buildings-and-lush-green-spaces.-People-are-engag-1-df959f8d.webp)
         
         Libertarian
         
         Read more](https://www.theadvocates.org/libertarian/)
         
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/40/DALL%C2%B7E-2024-06-26-11.36.47-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-405f3713.webp)
-        
-        ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/40/DALL%C2%B7E-2024-06-26-11.36.47-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-405f3713.webp)
+    *  [![](/wp-content/themes/yootheme/cache/40/DALL%C2%B7E-2024-06-26-11.36.47-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-405f3713.webp) ![](/wp-content/themes/yootheme/cache/40/DALL%C2%B7E-2024-06-26-11.36.47-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-405f3713.webp)
         
         Conservative
         
         Read more](https://www.theadvocates.org/conservative/)
         
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/8c/DALL%C2%B7E-2024-06-12-15.25.32-A-utopian-scene-expressing-progressive-ideals_-a-dynamic-and-inclusive-community-with-innovative-architecture-renewable-energy-and-diverse-cultural--8c450c0c.webp)
-        
-        ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/8c/DALL%C2%B7E-2024-06-12-15.25.32-A-utopian-scene-expressing-progressive-ideals_-a-dynamic-and-inclusive-community-with-innovative-architecture-renewable-energy-and-diverse-cultural--8c450c0c.webp)
+    *  [![](/wp-content/themes/yootheme/cache/8c/DALL%C2%B7E-2024-06-12-15.25.32-A-utopian-scene-expressing-progressive-ideals_-a-dynamic-and-inclusive-community-with-innovative-architecture-renewable-energy-and-diverse-cultural--8c450c0c.webp) ![](/wp-content/themes/yootheme/cache/8c/DALL%C2%B7E-2024-06-12-15.25.32-A-utopian-scene-expressing-progressive-ideals_-a-dynamic-and-inclusive-community-with-innovative-architecture-renewable-energy-and-diverse-cultural--8c450c0c.webp)
         
         Progressive
         
         Read more](https://www.theadvocates.org/liberal/)
         
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/db/DALL%C2%B7E-2024-06-26-11.37.57-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-dbd22718.webp)
-        
-        ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/db/DALL%C2%B7E-2024-06-26-11.37.57-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-dbd22718.webp)
+    *  [![](/wp-content/themes/yootheme/cache/db/DALL%C2%B7E-2024-06-26-11.37.57-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-dbd22718.webp) ![](/wp-content/themes/yootheme/cache/db/DALL%C2%B7E-2024-06-26-11.37.57-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-dbd22718.webp)
         
         Moderate
         
         Read more](https://www.theadvocates.org/moderate/)
         
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/81/DALL%C2%B7E-2024-06-26-11.32.05-A-utopian-scene-expressing-authoritarian-ideals_-a-highly-organized-and-controlled-community-with-grand-imposing-architecture-and-a-clear-hierarchy.--815d94b9.webp)
-        
-        ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/81/DALL%C2%B7E-2024-06-26-11.32.05-A-utopian-scene-expressing-authoritarian-ideals_-a-highly-organized-and-controlled-community-with-grand-imposing-architecture-and-a-clear-hierarchy.--815d94b9.webp)
+    *  [![](/wp-content/themes/yootheme/cache/81/DALL%C2%B7E-2024-06-26-11.32.05-A-utopian-scene-expressing-authoritarian-ideals_-a-highly-organized-and-controlled-community-with-grand-imposing-architecture-and-a-clear-hierarchy.--815d94b9.webp) ![](/wp-content/themes/yootheme/cache/81/DALL%C2%B7E-2024-06-26-11.32.05-A-utopian-scene-expressing-authoritarian-ideals_-a-highly-organized-and-controlled-community-with-grand-imposing-architecture-and-a-clear-hierarchy.--815d94b9.webp)
         
         Authoritarian
         
@@ -363,11 +313,7 @@ Enable Dark Mode
     
     Latest Articles
     
-    *   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/f4/Stress-1-f4553d5d.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/f4/Stress-1-f4553d5d.jpeg)
+    *    [![](/wp-content/themes/yootheme/cache/92/Screenshot-2024-10-29-at-1.40.32%E2%80%AFPM-9273e4aa.png) ![](/wp-content/themes/yootheme/cache/92/Screenshot-2024-10-29-at-1.40.32%E2%80%AFPM-9273e4aa.png)
         
         Underthrow Series
         
@@ -377,11 +323,7 @@ Enable Dark Mode
         
         Read more](https://www.theadvocates.org/the-great-fiscal-conundrum/)
         
-    *   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/3a/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-3af73766.png) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/3a/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-3af73766.png)
+    *    [![](/wp-content/themes/yootheme/cache/3a/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-3af73766.png) ![](/wp-content/themes/yootheme/cache/3a/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-3af73766.png)
         
         Underthrow Series
         
@@ -391,11 +333,7 @@ Enable Dark Mode
         
         Read more](https://www.theadvocates.org/we-have-to-clean-up-the-mess-ourselves/)
         
-    *   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/52/Clouds-2.7-52e68f12.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/52/Clouds-2.7-52e68f12.jpeg)
+    *    [![](/wp-content/themes/yootheme/cache/52/Clouds-2.7-52e68f12.jpeg) ![](/wp-content/themes/yootheme/cache/52/Clouds-2.7-52e68f12.jpeg)
         
         Underthrow Series
         
@@ -403,11 +341,7 @@ Enable Dark Mode
         
         Read more](https://www.theadvocates.org/in-the-ashes-of-the-apparatus/)
         
-    *   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/d6/Screenshot-2024-09-30-at-1.48.22%E2%80%AFPM-d61bef34.png) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/d6/Screenshot-2024-09-30-at-1.48.22%E2%80%AFPM-d61bef34.png)
+    *    [![](/wp-content/themes/yootheme/cache/d6/Screenshot-2024-09-30-at-1.48.22%E2%80%AFPM-d61bef34.png) ![](/wp-content/themes/yootheme/cache/d6/Screenshot-2024-09-30-at-1.48.22%E2%80%AFPM-d61bef34.png)
         
         Underthrow Series
         
@@ -417,11 +351,7 @@ Enable Dark Mode
         
         Read more](https://www.theadvocates.org/bug-bites-and-bureaucrats/)
         
-    *   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/59/Mule-on-out-scaled-1-590b5575.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/59/Mule-on-out-scaled-1-590b5575.jpeg)
+    *    [![](/wp-content/themes/yootheme/cache/59/Mule-on-out-scaled-1-590b5575.jpeg) ![](/wp-content/themes/yootheme/cache/59/Mule-on-out-scaled-1-590b5575.jpeg)
         
         Underthrow Series
         
@@ -431,11 +361,7 @@ Enable Dark Mode
         
         Read more](https://www.theadvocates.org/old-man-mountain-weeps/)
         
-    *   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/59/Update-1-593b7e57.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/59/Update-1-593b7e57.jpeg)
+    *    [![](/wp-content/themes/yootheme/cache/59/Update-1-593b7e57.jpeg) ![](/wp-content/themes/yootheme/cache/59/Update-1-593b7e57.jpeg)
         
         Underthrow Series
         
@@ -445,11 +371,7 @@ Enable Dark Mode
         
         Read more](https://www.theadvocates.org/the-a-word-gasp-anarchy/)
         
-    *   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/d9/edit-copy-d98a0a84.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/d9/edit-copy-d98a0a84.jpeg)
+    *    [![](/wp-content/themes/yootheme/cache/d9/edit-copy-d98a0a84.jpeg) ![](/wp-content/themes/yootheme/cache/d9/edit-copy-d98a0a84.jpeg)
         
         Underthrow Series
         
@@ -459,11 +381,7 @@ Enable Dark Mode
         
         Read more](https://www.theadvocates.org/makers-and-takers/)
         
-    *   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/c9/Screenshot-2024-09-09-at-11.09.05%E2%80%AFAM-c9a35ccc.png) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/c9/Screenshot-2024-09-09-at-11.09.05%E2%80%AFAM-c9a35ccc.png)
+    *    [![](/wp-content/themes/yootheme/cache/c9/Screenshot-2024-09-09-at-11.09.05%E2%80%AFAM-c9a35ccc.png) ![](/wp-content/themes/yootheme/cache/c9/Screenshot-2024-09-09-at-11.09.05%E2%80%AFAM-c9a35ccc.png)
         
         Underthrow Series
         
@@ -473,11 +391,7 @@ Enable Dark Mode
         
         Read more](https://www.theadvocates.org/blinking-lights-heroes-of-underthrow/)
         
-    *   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/83/Screenshot-2024-09-04-at-8.16.45%E2%80%AFAM-83e85594.png) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/83/Screenshot-2024-09-04-at-8.16.45%E2%80%AFAM-83e85594.png)
+    *    [![](/wp-content/themes/yootheme/cache/83/Screenshot-2024-09-04-at-8.16.45%E2%80%AFAM-83e85594.png) ![](/wp-content/themes/yootheme/cache/83/Screenshot-2024-09-04-at-8.16.45%E2%80%AFAM-83e85594.png)
         
         Underthrow Series
         
@@ -487,11 +401,7 @@ Enable Dark Mode
         
         Read more](https://www.theadvocates.org/anything-peaceful/)
         
-    *   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/13/Screenshot-2024-08-27-at-12.26.38%E2%80%AFPM-132f9227.png) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/13/Screenshot-2024-08-27-at-12.26.38%E2%80%AFPM-132f9227.png)
+    *    [![](/wp-content/themes/yootheme/cache/13/Screenshot-2024-08-27-at-12.26.38%E2%80%AFPM-132f9227.png) ![](/wp-content/themes/yootheme/cache/13/Screenshot-2024-08-27-at-12.26.38%E2%80%AFPM-132f9227.png)
         
         Underthrow Series
         
@@ -534,41 +444,25 @@ Enable Dark Mode
     
     More Links
     
-    *   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/74/pexels-lilartsy-1925536-746124ba.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/74/pexels-lilartsy-1925536-746124ba.jpeg)
+    *    [![](/wp-content/themes/yootheme/cache/74/pexels-lilartsy-1925536-746124ba.jpeg) ![](/wp-content/themes/yootheme/cache/74/pexels-lilartsy-1925536-746124ba.jpeg)
         
         Our Mission
         
         Read more](https://www.theadvocates.org/libertarian/)
         
-    *   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/cd/pexels-photo-271168-cdd03a3c.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/cd/pexels-photo-271168-cdd03a3c.jpeg)
+    *    [![](/wp-content/themes/yootheme/cache/cd/pexels-photo-271168-cdd03a3c.jpeg) ![](/wp-content/themes/yootheme/cache/cd/pexels-photo-271168-cdd03a3c.jpeg)
         
         Donate
         
         Read more](https://www.theadvocates.org/donate/)
         
-    *   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/76/photo-1521790797524-b2497295b8a0-scaled-76910735.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/76/photo-1521790797524-b2497295b8a0-scaled-76910735.jpeg)
+    *    [![](/wp-content/themes/yootheme/cache/76/photo-1521790797524-b2497295b8a0-scaled-76910735.jpeg) ![](/wp-content/themes/yootheme/cache/76/photo-1521790797524-b2497295b8a0-scaled-76910735.jpeg)
         
         Be A Patron
         
         Read more](https://www.theadvocates.org/liberal/)
         
-    *   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/89/pexels-photo-4855351-scaled-8995c3bb.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/89/pexels-photo-4855351-scaled-8995c3bb.jpeg)
+    *    [![](/wp-content/themes/yootheme/cache/89/pexels-photo-4855351-scaled-8995c3bb.jpeg) ![](/wp-content/themes/yootheme/cache/89/pexels-photo-4855351-scaled-8995c3bb.jpeg)
         
         Shop
         
@@ -585,8 +479,6 @@ Enable Dark Mode
 [](#tm-dialog)
 
 [![Advocates For Self-Government](/wp-content/uploads/2024/05/asg-logo-transparent.svg)](https://www.theadvocates.org/)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20140%20123'%3E%3C/svg%3E)
 
 ![](/wp-content/uploads/2024/05/asg-logo-transparent.svg)
 
@@ -607,11 +499,7 @@ Enable Dark Mode
 Quizzes & Apps
 --------------
 
-*   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/be/pexels-lara-jameson-8899196-scaled-beec0f66.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/be/pexels-lara-jameson-8899196-scaled-beec0f66.jpeg)
+*    [![](/wp-content/themes/yootheme/cache/be/pexels-lara-jameson-8899196-scaled-beec0f66.jpeg) ![](/wp-content/themes/yootheme/cache/be/pexels-lara-jameson-8899196-scaled-beec0f66.jpeg)
     
     ### Freedom of Speech & Expression
     
@@ -628,11 +516,7 @@ Quizzes & Apps
     
     3 Min](https://www.theadvocates.org/qep/freedom-of-speech-and-expression/)
     
-*   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/2f/pexels-a-darmel-7710200-scaled-2f7560b0.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/2f/pexels-a-darmel-7710200-scaled-2f7560b0.jpeg)
+*    [![](/wp-content/themes/yootheme/cache/2f/pexels-a-darmel-7710200-scaled-2f7560b0.jpeg) ![](/wp-content/themes/yootheme/cache/2f/pexels-a-darmel-7710200-scaled-2f7560b0.jpeg)
     
     ### Freedom of Association
     
@@ -649,11 +533,7 @@ Quizzes & Apps
     
     3 Min](https://www.theadvocates.org/qep/freedom-of-association/)
     
-*   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/2e/pexels-francesco-ungaro-97509-2e83fd6f.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/2e/pexels-francesco-ungaro-97509-2e83fd6f.jpeg)
+*    [![](/wp-content/themes/yootheme/cache/2e/pexels-francesco-ungaro-97509-2e83fd6f.jpeg) ![](/wp-content/themes/yootheme/cache/2e/pexels-francesco-ungaro-97509-2e83fd6f.jpeg)
     
     ### Freedom of Privacy
     
@@ -670,11 +550,7 @@ Quizzes & Apps
     
     3 Min](https://www.theadvocates.org/qep/freedom-of-privacy/)
     
-*   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/77/pexels-emily-ranquist-493228-1205651-77c9dc0a.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/77/pexels-emily-ranquist-493228-1205651-77c9dc0a.jpeg)
+*    [![](/wp-content/themes/yootheme/cache/77/pexels-emily-ranquist-493228-1205651-77c9dc0a.jpeg) ![](/wp-content/themes/yootheme/cache/77/pexels-emily-ranquist-493228-1205651-77c9dc0a.jpeg)
     
     ### Education Freedom Respect
     
@@ -691,11 +567,7 @@ Quizzes & Apps
     
     3 Min](https://www.theadvocates.org/qep/education-freedom/)
     
-*   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/a4/pexels-rethaferguson-3825586-scaled-a4fa40d1.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/a4/pexels-rethaferguson-3825586-scaled-a4fa40d1.jpeg)
+*    [![](/wp-content/themes/yootheme/cache/a4/pexels-rethaferguson-3825586-scaled-a4fa40d1.jpeg) ![](/wp-content/themes/yootheme/cache/a4/pexels-rethaferguson-3825586-scaled-a4fa40d1.jpeg)
     
     ### Healthcare Respect
     
@@ -712,11 +584,7 @@ Quizzes & Apps
     
     3 Min](https://www.theadvocates.org/qep/freedom-of-bodily-autonomy-copy-copy/)
     
-*   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/12/pexels-pixabay-532001-125c1315.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/12/pexels-pixabay-532001-125c1315.jpeg)
+*    [![](/wp-content/themes/yootheme/cache/12/pexels-pixabay-532001-125c1315.jpeg) ![](/wp-content/themes/yootheme/cache/12/pexels-pixabay-532001-125c1315.jpeg)
     
     ### Personal Choice & Victimless Crimes
     
@@ -737,11 +605,7 @@ Quizzes & Apps
 Articles
 --------
 
-*   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/f4/Stress-1-f4553d5d.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/f4/Stress-1-f4553d5d.jpeg)
+*    [![](/wp-content/themes/yootheme/cache/92/Screenshot-2024-10-29-at-1.40.32%E2%80%AFPM-9273e4aa.png) ![](/wp-content/themes/yootheme/cache/92/Screenshot-2024-10-29-at-1.40.32%E2%80%AFPM-9273e4aa.png)
     
     Underthrow Series
     
@@ -751,11 +615,7 @@ Articles
     
     Read more](https://www.theadvocates.org/the-great-fiscal-conundrum/)
     
-*   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/3a/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-3af73766.png) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/3a/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-3af73766.png)
+*    [![](/wp-content/themes/yootheme/cache/3a/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-3af73766.png) ![](/wp-content/themes/yootheme/cache/3a/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-3af73766.png)
     
     Underthrow Series
     
@@ -765,11 +625,7 @@ Articles
     
     Read more](https://www.theadvocates.org/we-have-to-clean-up-the-mess-ourselves/)
     
-*   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/52/Clouds-2.7-52e68f12.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/52/Clouds-2.7-52e68f12.jpeg)
+*    [![](/wp-content/themes/yootheme/cache/52/Clouds-2.7-52e68f12.jpeg) ![](/wp-content/themes/yootheme/cache/52/Clouds-2.7-52e68f12.jpeg)
     
     Underthrow Series
     
@@ -777,11 +633,7 @@ Articles
     
     Read more](https://www.theadvocates.org/in-the-ashes-of-the-apparatus/)
     
-*   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/d6/Screenshot-2024-09-30-at-1.48.22%E2%80%AFPM-d61bef34.png) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/d6/Screenshot-2024-09-30-at-1.48.22%E2%80%AFPM-d61bef34.png)
+*    [![](/wp-content/themes/yootheme/cache/d6/Screenshot-2024-09-30-at-1.48.22%E2%80%AFPM-d61bef34.png) ![](/wp-content/themes/yootheme/cache/d6/Screenshot-2024-09-30-at-1.48.22%E2%80%AFPM-d61bef34.png)
     
     Underthrow Series
     
@@ -791,11 +643,7 @@ Articles
     
     Read more](https://www.theadvocates.org/bug-bites-and-bureaucrats/)
     
-*   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/59/Mule-on-out-scaled-1-590b5575.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/59/Mule-on-out-scaled-1-590b5575.jpeg)
+*    [![](/wp-content/themes/yootheme/cache/59/Mule-on-out-scaled-1-590b5575.jpeg) ![](/wp-content/themes/yootheme/cache/59/Mule-on-out-scaled-1-590b5575.jpeg)
     
     Underthrow Series
     
@@ -805,11 +653,7 @@ Articles
     
     Read more](https://www.theadvocates.org/old-man-mountain-weeps/)
     
-*   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/59/Update-1-593b7e57.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/59/Update-1-593b7e57.jpeg)
+*    [![](/wp-content/themes/yootheme/cache/59/Update-1-593b7e57.jpeg) ![](/wp-content/themes/yootheme/cache/59/Update-1-593b7e57.jpeg)
     
     Underthrow Series
     
@@ -819,11 +663,7 @@ Articles
     
     Read more](https://www.theadvocates.org/the-a-word-gasp-anarchy/)
     
-*   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/d9/edit-copy-d98a0a84.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/d9/edit-copy-d98a0a84.jpeg)
+*    [![](/wp-content/themes/yootheme/cache/d9/edit-copy-d98a0a84.jpeg) ![](/wp-content/themes/yootheme/cache/d9/edit-copy-d98a0a84.jpeg)
     
     Underthrow Series
     
@@ -833,11 +673,7 @@ Articles
     
     Read more](https://www.theadvocates.org/makers-and-takers/)
     
-*   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/c9/Screenshot-2024-09-09-at-11.09.05%E2%80%AFAM-c9a35ccc.png) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/c9/Screenshot-2024-09-09-at-11.09.05%E2%80%AFAM-c9a35ccc.png)
+*    [![](/wp-content/themes/yootheme/cache/c9/Screenshot-2024-09-09-at-11.09.05%E2%80%AFAM-c9a35ccc.png) ![](/wp-content/themes/yootheme/cache/c9/Screenshot-2024-09-09-at-11.09.05%E2%80%AFAM-c9a35ccc.png)
     
     Underthrow Series
     
@@ -847,11 +683,7 @@ Articles
     
     Read more](https://www.theadvocates.org/blinking-lights-heroes-of-underthrow/)
     
-*   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/83/Screenshot-2024-09-04-at-8.16.45%E2%80%AFAM-83e85594.png) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/83/Screenshot-2024-09-04-at-8.16.45%E2%80%AFAM-83e85594.png)
+*    [![](/wp-content/themes/yootheme/cache/83/Screenshot-2024-09-04-at-8.16.45%E2%80%AFAM-83e85594.png) ![](/wp-content/themes/yootheme/cache/83/Screenshot-2024-09-04-at-8.16.45%E2%80%AFAM-83e85594.png)
     
     Underthrow Series
     
@@ -861,11 +693,7 @@ Articles
     
     Read more](https://www.theadvocates.org/anything-peaceful/)
     
-*   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/13/Screenshot-2024-08-27-at-12.26.38%E2%80%AFPM-132f9227.png) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/13/Screenshot-2024-08-27-at-12.26.38%E2%80%AFPM-132f9227.png)
+*    [![](/wp-content/themes/yootheme/cache/13/Screenshot-2024-08-27-at-12.26.38%E2%80%AFPM-132f9227.png) ![](/wp-content/themes/yootheme/cache/13/Screenshot-2024-08-27-at-12.26.38%E2%80%AFPM-132f9227.png)
     
     Underthrow Series
     
@@ -1014,8 +842,6 @@ Already have your results? [Log in.](#loginbox)
 
 [Compare Political Types](https://www.theadvocates.org/political-type-comparison/)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20266%2052'%3E%3C/svg%3E)
-
 ![](/wp-content/uploads/2024/05/asg-logo-inv.svg)
 
 [Need Help?](https://www.theadvocates.org/contact-us/)
@@ -1068,8 +894,6 @@ Your Account
 * [](https://www.youtube.com/user/AdvocatesSelfGov)
 * [](https://www.instagram.com/theadvocates/)
 
-![The Advocates logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2088'%3E%3C/svg%3E)
-
 ![The Advocates logo](https://www.theadvocates.org/wp-content/uploads/2024/05/asg-logo-transparent.svg)
 
 #### Sign Up with Email
@@ -1085,8 +909,6 @@ Save your results & progress. It’s Free, forever.
 Don't have an account yet? [Create one!](#)
 
 Click “Sign Up” to agree to The Advocate’s For Self Governments’ [Terms of Service](https://www.www.theadvocates.org/terms-conditions/) and acknowledge that The Advocate’s [Privacy Policy](https://www.www.theadvocates.org/privacy-policy/) applies to you. You also consent to receive our email newsletter which you can opt out of at any time.
-
-![The Advocates logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2088'%3E%3C/svg%3E)
 
 ![The Advocates logo](https://www.theadvocates.org/wp-content/uploads/2024/05/asg-logo-transparent.svg)
 
@@ -1104,8 +926,6 @@ Already have an account? [Login](#)
 
 Click “Sign Up” to agree to The Advocate’s For Self Governments’ [Terms of Service](https://www.www.theadvocates.org/terms-conditions/) and acknowledge that The Advocate’s [Privacy Policy](https://www.www.theadvocates.org/privacy-policy/) applies to you. You also consent to receive our email newsletter which you can opt out of at any time.
 
-![The Advocates logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2088'%3E%3C/svg%3E)
-
 ![The Advocates logo](https://www.theadvocates.org/wp-content/uploads/2024/05/asg-logo-transparent.svg)
 
 #### Sign in with email.
@@ -1121,8 +941,6 @@ Password
 [Forgot your password?](https://www.theadvocates.org/wp-login.php?action=lostpassword)
 
 [Other sign in options](#)
-
-![The Advocates logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2088'%3E%3C/svg%3E)
 
 ![The Advocates logo](https://www.theadvocates.org/wp-content/uploads/2024/05/asg-logo-transparent.svg)
 
@@ -1140,9 +958,7 @@ Note: Your password will be generated automatically and emailed to the email add
 
 [Articles](https://www.theadvocates.org/articles/)
 
-[![ASG Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2035'%3E%3C/svg%3E)
-
-![ASG Logo](https://www.theadvocates.org/wp-content/uploads/2024/05/asg-logo-transparent.svg)
+[![ASG Logo](https://www.theadvocates.org/wp-content/uploads/2024/05/asg-logo-transparent.svg)
 
 My Journey](https://www.theadvocates.org/)
 
