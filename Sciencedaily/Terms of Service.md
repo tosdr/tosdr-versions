@@ -229,16 +229,16 @@ this hour
 
 * * *
 
-* [10 Million Fish Eaten by Cod in One Fell Swoop](https://www.sciencedaily.com/releases/2024/10/241029120944.htm)
-* [Cyanobacteria May Help Sequester Carbon](https://www.sciencedaily.com/releases/2024/10/241029120800.htm)
-* ['Gold' Fossilized Bugs](https://www.sciencedaily.com/releases/2024/10/241029120652.htm)
-* [Dinosaurs Thrived After Ice, Not Fire](https://www.sciencedaily.com/releases/2024/10/241028164257.htm)
-* [More Social Species Live Longer](https://www.sciencedaily.com/releases/2024/10/241027205842.htm)
-* [Major Maya Cities Waiting to Be Unearthed](https://www.sciencedaily.com/releases/2024/10/241029121056.htm)
-* [Extreme Diving of Weddell Seals in Antarctic](https://www.sciencedaily.com/releases/2024/10/241029120755.htm)
-* [What Animal Societies Can Teach Us About Aging](https://www.sciencedaily.com/releases/2024/10/241028211432.htm)
-* [Why Langurs Drink Salt Water](https://www.sciencedaily.com/releases/2024/10/241028131601.htm)
-* [Scientists Reverse Brain Aging in Fruit Flies](https://www.sciencedaily.com/releases/2024/10/241028164423.htm)
+* [Natural Regrowth of Tropical Forests: Huge ...](https://www.sciencedaily.com/releases/2024/10/241030150020.htm)
+* ['Black Box' of Stem Cell Transplants Opened](https://www.sciencedaily.com/releases/2024/10/241030145819.htm)
+* [How Sleeping Sickness Parasite Outsmarts ...](https://www.sciencedaily.com/releases/2024/10/241030145811.htm)
+* [Britain's Brass Bands in Napoleonic Wars](https://www.sciencedaily.com/releases/2024/10/241029203005.htm)
+* [Why Crocs Never Became Deep Divers: Sinuses](https://www.sciencedaily.com/releases/2024/10/241029203003.htm)
+* [Shakespeare Typing Monkeys? Universe Too Short](https://www.sciencedaily.com/releases/2024/10/241030150811.htm)
+* [Alcohol Consumption Among Non-Human Animals](https://www.sciencedaily.com/releases/2024/10/241030150809.htm)
+* [Solar-Powered Animal Cells](https://www.sciencedaily.com/releases/2024/10/241030150215.htm)
+* [Ancient DNA and History of Iconic Aurochs](https://www.sciencedaily.com/releases/2024/10/241030145858.htm)
+* [Farewell Frost! Preventing Frost Without Heat](https://www.sciencedaily.com/releases/2024/10/241030145719.htm)
 
 Trending Topics
 ---------------
@@ -251,17 +251,17 @@ this week
 
 [Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
 
-[Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
-
 [Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
+
+[Wounds and Healing](https://www.sciencedaily.com/news/health_medicine/wounds_and_healing/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+
 [Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
-[Detectors](https://www.sciencedaily.com/news/matter_energy/detectors/)
-
-[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
+[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
