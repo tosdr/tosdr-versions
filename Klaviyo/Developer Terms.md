@@ -51,11 +51,11 @@
             Build personalized experiences that scale](https://developers.klaviyo.com/en)
     * Spotlight
         
-        * [![](/wp-content/uploads/2024/08/WhatsNew-Spotlight.png)
+        * [![](/wp-content/uploads/2024/10/q4-2024-release-whatsnew-spotlight.png)
             
             Explore the newest features
             
-            Discover new ways to power smarter digital relationships](https://www.klaviyo.com/product/whats-new)
+            Discover new ways to power smarter digital relationships](https://www.klaviyo.com/product/whats-new/2024-q4)
     
     * * [Tour the Klaviyo platform
             
@@ -180,11 +180,11 @@
             Build personalized experiences that scale](https://developers.klaviyo.com/en)
     * Spotlight
         
-        * [![](/wp-content/uploads/2024/08/WhatsNew-Spotlight.png)
+        * [![](/wp-content/uploads/2024/10/q4-2024-release-whatsnew-spotlight.png)
             
             Explore the newest features
             
-            Discover new ways to power smarter digital relationships](https://www.klaviyo.com/product/whats-new)
+            Discover new ways to power smarter digital relationships](https://www.klaviyo.com/product/whats-new/2024-q4)
     
     * * [Tour the Klaviyo platform
             
