@@ -122,17 +122,17 @@ Close mobile sub-navigation
     
     [Newsletter](https://www.greenhouse.com/newsletter)
     
-    Event
+    Webinar
     
-    ![Woman wearing patterned blouse in office setting with silo leaf motif marigold HR Techology logo nav](https://sharp.services.greenhouse.io/production/Woman-wearing-patterned-blouse-in-office-setting-with-silo-leaf-motif-marigold-HR-Techology-logo_nav.png?auto=format&fit=max&lossless=true&q=90&w=600&s=763f88ef2ce8c410fa9a1347c0ed238c137ccb99f02f9023eb3f7a1efbe9f6d7)
+    ![Nav Image Two People Smiling With A UI Element And Chart](https://sharp.services.greenhouse.io/production/Nav-Image-Two-People-Smiling-With-A-UI-Element-And-Chart_2024-10-31-172309_oujo.jpg?auto=format&fit=max&lossless=true&q=90&w=426&s=32d9ea82bbf5644db038d8febccd46f24e5a50cb844e9903e330b9a11344982e)
     
-    Event
+    Webinar
     
-    HR Technology Conference
+    Optimizing the candidate experience at scale
     
-    Discover all the trends, tools, technology and insight to take HR strategies beyond best practice.
+    Learn how to create a positive interview experience for every candidate even when you’re contending with high volumes of applications.
     
-    [Learn more](https://www.greenhouse.com/events/greenhouse-at-hr-tech-conference-2024)  
+    [Register now](https://www.greenhouse.com/events/optimizing-the-candidate-experience-at-scale)  
     
 
 [Request a demo](https://www.greenhouse.io/demo) [Sign in](https://app.greenhouse.io/users/sign_in)
@@ -417,7 +417,7 @@ Learn more about Greenhouse
 
 [Our company](https://www.greenhouse.com/company)
 
-be\_ixf;ym\_202410 d\_25; ct\_50
+be\_ixf;ym\_202410 d\_31; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26.1
 * https://greenhouse-production.herokuapp.com/privacy-policy
