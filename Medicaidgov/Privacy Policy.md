@@ -183,7 +183,7 @@ MainMenu
         
         * [Medicaid & CHIP Eligibility Levels](https://www.medicaid.gov/medicaid/national-medicaid-chip-program-information/medicaid-childrens-health-insurance-program-basic-health-program-eligibility-levels/index.html)
         * [Medicaid & CHIP Enrollment Data](https://www.medicaid.gov/medicaid/national-medicaid-chip-program-information/medicaid-chip-enrollment-data/index.html)
-            * [June 2024 Medicaid & CHIP Enrollment Data Highlights](https://www.medicaid.gov/medicaid/program-information/medicaid-and-chip-enrollment-data/report-highlights/index.html)
+            * [July 2024 Medicaid & CHIP Enrollment Data Highlights](https://www.medicaid.gov/medicaid/program-information/medicaid-and-chip-enrollment-data/report-highlights/index.html)
             * [Monthly Reports](https://www.medicaid.gov/medicaid/national-medicaid-chip-program-information/medicaid-chip-enrollment-data/monthly-medicaid-chip-application-eligibility-determination-and-enrollment-reports-data/index.html)
             * [Medicaid and CHIP Enrollment Snapshot](https://www.medicaid.gov/medicaid/program-information/medicaid-chip-enrollment-data/medicaid-and-chip-enrollment-trend-snapshot/index.html)
             * [Report Methodology](https://www.medicaid.gov/medicaid/national-medicaid-chip-program-information/medicaid-chip-enrollment-data/methodology-about-medicaid-chip-enrollment-report/index.html)
@@ -519,7 +519,7 @@ MainMenu Desktop
         
         * [Medicaid & CHIP Eligibility Levels](https://www.medicaid.gov/medicaid/national-medicaid-chip-program-information/medicaid-childrens-health-insurance-program-basic-health-program-eligibility-levels/index.html)
         * [Medicaid & CHIP Enrollment Data](https://www.medicaid.gov/medicaid/national-medicaid-chip-program-information/medicaid-chip-enrollment-data/index.html)
-            * [June 2024 Medicaid & CHIP Enrollment Data Highlights](https://www.medicaid.gov/medicaid/program-information/medicaid-and-chip-enrollment-data/report-highlights/index.html)
+            * [July 2024 Medicaid & CHIP Enrollment Data Highlights](https://www.medicaid.gov/medicaid/program-information/medicaid-and-chip-enrollment-data/report-highlights/index.html)
             * [Monthly Reports](https://www.medicaid.gov/medicaid/national-medicaid-chip-program-information/medicaid-chip-enrollment-data/monthly-medicaid-chip-application-eligibility-determination-and-enrollment-reports-data/index.html)
             * [Medicaid and CHIP Enrollment Snapshot](https://www.medicaid.gov/medicaid/program-information/medicaid-chip-enrollment-data/medicaid-and-chip-enrollment-trend-snapshot/index.html)
             * [Report Methodology](https://www.medicaid.gov/medicaid/national-medicaid-chip-program-information/medicaid-chip-enrollment-data/methodology-about-medicaid-chip-enrollment-report/index.html)
@@ -929,6 +929,8 @@ Additional privacy information
 ------------------------------
 
 [Get more information about CMS privacy policies.](https://www.cms.gov/Research-Statistics-Data-and-Systems/Computer-Data-and-Systems/Privacy "CMS Privacy Home Page")
+
+* * *
 
 [Back to Top](#)
 
