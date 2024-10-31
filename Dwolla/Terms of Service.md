@@ -159,20 +159,20 @@ LEGAL DOCUMENTATION
 
 Account Terms of Service
 
-Summary of Changes to the Dwolla Account Terms of Service - July 31, 2024  
-We are updating the Dwolla Account Terms of Service, which applies to your use of the Dwolla Account, Dwolla-Enabled Services and/or Dwolla Platform. The following provides a summary of the changes to the Dwolla Account Terms of Service. To see all of the changes, please read the full Dwolla Account Terms of Service.
-
-1. Under the header, we updated the Last Updated date to July 31, 2024.
-2. In Section 5.2 we changed Financial Institution Partner to Financial Institution Partners, added a reference to Veridian Credit Union's Notice of Your Financial Privacy Rights, and changed the Real-Time Payments record retention requirement to 7 years.
-3. We updated a section reference in Section 7.3.
-4. In the About Our Financial Institution Partners page, we added language that Real-Time Payments are performed by Veridian Credit Union.
-
+**Summary of Changes to the Dwolla Account Terms of Service - October 30, 2024**  
+We are updating the Dwolla Account Terms of Service, which applies to your use of the Dwolla Account, Dwolla-Enabled Services and/or Dwolla Platform. The following provides a summary of the changes to the Dwolla Account Terms of Service. To see all of the changes, please read the full Dwolla Account Terms of Service.  
   
+
+1. Under the header, we updated the Last Updated date to October 30, 2024.
+2. We updated the heading of Section 1 to the following:  Dwolla Platform and Open Banking Services.
+3. We added new subsection 1.2 that provides a link to the Open Banking Services End User Terms and Conditions for those end users that are accessing or using Dwolla’s new Open Banking Services.  
+      
+    
 
 Dwolla Account Terms of Service
 -------------------------------
 
-Last Updated: July 31, 2024
+Last Updated: October 30, 2024
 
 These Dwolla Account Terms of Service (“TOS”) are a legally binding agreement between you, Dwolla, Inc. (“Dwolla”) and our financial institution partners, each a party insofar as you will access one of the services they provide (“Financial Institution Partner”). This TOS applies to your creation and use of a Dwolla Account (“Account”) provided to you through one of Dwolla’s clients. Dwolla offers a payment software platform (the “Dwolla Platform”) to its clients, who use the Dwolla Platform to provide services to consumers and/or businesses like you. The Dwolla Platform permits users to initiate and send payment instructions to one or more of our Financial Institution Partners, who will provide the funds transfer services based on those instructions.
 
@@ -182,9 +182,10 @@ It is important that you read and understand this TOS, as it governs your use of
 
 We may amend this TOS at any time by posting a revised version on dwolla.com or any other website we maintain for purposes of providing the Dwolla Platform or Dwolla Accounts. Amendments to the TOS are effective at the time we post them and your continued use of your Dwolla Account constitutes acceptance of any amendments.
 
-1. ### Dwolla Platform.
+1. ### Dwolla Platform and Open Banking Services.
     
     1. The Dwolla Platform is provided to one or more clients of Dwolla that provide you with access to services enabled by the Dwolla Platform, including the ability to create a Dwolla Account in the client’s application and to transmit instructions to initiate payments between you and such Dwolla client or another end user of the client’s application. These services are the “Dwolla-Enabled Services.”
+    2. In the event you use or access digital money management tools, including balance check or instant account verification, that one or more of Dwolla’s clients may provide to you and that access third party account information (“Open Banking Services”), such use or access  is subject to and governed by the Open Banking Services End User Terms and Conditions found at [https://www.dwolla.com/legal/open-banking-end-user-terms](https://www.dwolla.com/legal/open-banking-end-user-terms) (“EULA”).   It is important that you read and understand this EULA.  By accessing or using the Open Banking Services, you accept and agree to be bound by the EULA.  If you do not agree to the terms and conditions in the EULA or no longer wish to use or access the Open Banking Services, you must notify the Dwolla client who is providing you access to the Open Banking Services that you wish to revoke your consent by removing the associated account from the Dwolla client’s application.
 2. ### About Dwolla Accounts and the Dwolla-Enabled Services.
     
     1. Your Dwolla Account can only be accessed through the Dwolla-Enabled Services in the Dwolla client’s application. Dwolla is not a money transmitter and does not perform money transmission or money transfer or payment services. All payments made based on the instructions transmitted to Dwolla through the Dwolla-Enabled Services are processed and disbursed by our Financial Institution Partners, who are regulated financial institutions. To the extent that your Dwolla Account permits you to hold a stored value of funds associated with your Dwolla Account (a “Dwolla Balance”), any funds recorded as held in your Dwolla Balance are held by our Financial Institution Partners in one or more pooled holding accounts. FUNDS HELD IN SUCH HOLDING ACCOUNTS MAY NOT BE ELIGIBLE FOR SHARE INSURANCE OFFERED BY THE NATIONAL CREDIT UNION SHARE INSURANCE FUND AND ARE NOT ELIGIBLE FOR INSURANCE SPONSORED BY THE FEDERAL DEPOSIT INSURANCE CORPORATION. IN THE EVENT OF A FINANCIAL INSTITUTION PARTNER RECEIVERSHIP, YOU MAY LOSE VALUE.
