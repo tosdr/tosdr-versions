@@ -1,33 +1,21 @@
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b2034933.smushcdn.com/2034933/wp-content/uploads/fly-images/58444/CP-Logo-Dark-0x0.png?lossy=2&strip=1&webp=1)](https://client-portal.io/)
+[![](https://client-portal.io/wp-content/uploads/fly-images/58444/CP-Logo-Dark-0x0.png)](https://client-portal.io/)
 
 * [Who we help](#)
     * Who we help [View pricing](https://client-portal.io/pricing)
         
-        * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-            
-            ![](https://client-portal.io/wp-content/uploads/2022/10/card-icon01.svg)
+        * [![](https://client-portal.io/wp-content/uploads/2022/10/card-icon01.svg)
             
             Agencies See how Client Portal can help give your agency the edge.](https://client-portal.io/example-web-agency)
-        * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-            
-            ![](https://client-portal.io/wp-content/uploads/2022/10/card-icon04.svg)
+        * [![](https://client-portal.io/wp-content/uploads/2022/10/card-icon04.svg)
             
             Accountants See how accountants and CPA’s use Client Portal to keep everything together.](https://client-portal.io/example-accounting/)
-        * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-            
-            ![](https://client-portal.io/wp-content/uploads/2022/10/card-icon02.svg)
+        * [![](https://client-portal.io/wp-content/uploads/2022/10/card-icon02.svg)
             
             Schools Client Portal helps schools give parents their own portal](https://client-portal.io/school-portal)
-        * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-            
-            ![](https://client-portal.io/wp-content/uploads/2022/10/card-icon05.svg)
+        * [![](https://client-portal.io/wp-content/uploads/2022/10/card-icon05.svg)
             
             Coaches From lifestyle coaching to business consulting, keep your clients on track.](https://client-portal.io/example-coaching/)
-        * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-            
-            ![](https://client-portal.io/wp-content/uploads/2022/10/card-icon03.svg)
+        * [![](https://client-portal.io/wp-content/uploads/2022/10/card-icon03.svg)
             
             Law firms Keep all your digital paperwork in one, easily accessible place in your law firm.](https://client-portal.io/example-law-firm/)
         * [See all our use cases →](https://client-portal.io/industries)
@@ -154,9 +142,7 @@ If we make a significant change to this privacy policy, for example changing a l
 
 This policy is effective as of 25 June 2018.
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b2034933.smushcdn.com/2034933/wp-content/uploads/fly-images/54795/logo-dark-footer01@2x-0x0.png?lossy=2&strip=1&webp=1)](https://client-portal.io/)A super simple way to store your clients' deliverables
+ [![](https://client-portal.io/wp-content/uploads/fly-images/54795/logo-dark-footer01@2x-0x0.png)](https://client-portal.io/)A super simple way to store your clients' deliverables
 
 * ##### INDUSTRIES
     
