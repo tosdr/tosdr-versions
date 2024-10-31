@@ -523,9 +523,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Notfalls müssen wir auf dem Abzug US-amerikanischer Truppen aus Deutschland bestehen, …](https://www.nachdenkseiten.de/wp-content/uploads/2023/03/230303-Gespraech-Oskar-Lafontaine-mit-Albrecht-Mueller-NDS-CoverKasten.jpg "Notfalls müssen wir auf dem Abzug US-amerikanischer Truppen aus Deutschland bestehen, …")](https://www.nachdenkseiten.de/?p=94575)
+[![Dirk Pohlmann im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/wp-content/uploads/2020/11/Dirk-Pohlmann-im-Gespraech-mit-Albrecht-Mueller-e1605795684574.png "Dirk Pohlmann im Gespräch mit Albrecht Müller")](https://www.youtube.com/watch?v=rJ70DFKjy3U&list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA&index=2)
 
-* [Notfalls müssen wir auf dem Abzug US-amerikanischer Truppen aus Deutschland bestehen, …](https://www.nachdenkseiten.de/?p=94575)
+* [Dirk Pohlmann im Gespräch mit Albrecht Müller](https://www.youtube.com/watch?v=rJ70DFKjy3U&list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA&index=2)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
@@ -540,12 +540,12 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### Wichtige Artikel
 
-* [Unseren Medien fiel es erkennbar schwer, über den BRICS-Gipfel sachlich zu berichten](https://www.nachdenkseiten.de/?p=123655)
-* [Verteidigungsministerium und NATO verstricken sich in immer mehr Widersprüche zu CTF BALTIC in Rostock](https://www.nachdenkseiten.de/?p=123602)
-* [Teilt Baerbock Einschätzung von EU-Partnern, dass Israel Kriegsverbrechen im Libanon begeht?](https://www.nachdenkseiten.de/?p=123652)
-* [Die Hetzkampagnen von Politikern und Journalisten gegen Sahra Wagenknecht](https://www.nachdenkseiten.de/?p=123486)
-* [Die Folgen der deutschen Corona- und Außenpolitik](https://www.nachdenkseiten.de/?p=123573)
-* [Die Werte der Christlich-Demokratischen Union Deutschlands](https://www.nachdenkseiten.de/?p=123533)
+* [General a. D. Harald Kujat: „Selenskyjs Drohung hätte eine harte Reaktion des Westens erfordert“](https://www.nachdenkseiten.de/?p=123938)
+* [Aufrüstung: Arsenal für die Auslöschung](https://www.nachdenkseiten.de/?p=123870)
+* [Transport von RDX-Sprengstoff nach Israel durch deutsches Schiff sorgt international für Empörung](https://www.nachdenkseiten.de/?p=123861)
+* [BSW-Machtkampf: „Auf dem besten Weg, das BSW zu einer Partei zu machen, von der es nicht noch eine braucht“](https://www.nachdenkseiten.de/?p=123920)
+* [Boomer gegen Millennials? Wir haben keinen Generationen-, sondern einen Klassenkonflikt](https://www.nachdenkseiten.de/?p=123889)
+* [Wie bestellt: Das BAföG ist und bleibt in schlechter Verfassung](https://www.nachdenkseiten.de/?p=124016)
 
 ### Audioangebot
 
