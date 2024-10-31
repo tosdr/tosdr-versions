@@ -1,6 +1,4 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)      Privacy Policy – Omax Health - Omax Health               
-
-     
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)              Privacy Policy – Omax Health - Omax Health                      
 
                 
 
@@ -305,13 +303,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3404 reviews](https://omaxhealth.com/pages/reviews)
+[3405 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3083)
+(3084)
 
 5%
 
@@ -329,7 +327,17 @@ Go to product page
 
 (53)
 
-2200
+2201
+
+L
+
+[Cellmax](https://omaxhealth.com/products/cellmax#judgeme_product_reviews)
+
+Lisa
+
+**Great product!**
+
+My husband had rotator cuff surgery a little over a year ago. He’s 65 and very active (he’s been a triathlete for over 30 years). After the surgery and recovery, he continued to have nagging aches but CellMax has been a game changer for him! The shoulder feels good and he is able to work out at the level he needs/wants to continue to race! Thank you Omax Health … keep up the good work on delivering great products!
 
 A
 
@@ -352,15 +360,5 @@ Katie H.
 Not to be dramatic but I would die for these socks.
 
 They are warm without making my feet sweaty, soft, supportive, and they hold up incredibly well. They are honestly the only socks I have that I enjoy wearing. The fact that they are just sort of a side product on a supplement website is baffling to me.
-
-M
-
-[CryoFreeze® Hemp CBD Roll-On | Regular](https://omaxhealth.com/products/omax-cryofreeze-cbd-roll-on#judgeme_product_reviews)
-
-Mary G.
-
-**Great product**
-
-This does exactly what it says I have had neck issues for a while now and it helps with the pain and inflammation
 
 Load More
