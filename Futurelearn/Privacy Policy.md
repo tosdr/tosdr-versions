@@ -282,7 +282,7 @@ Featured
     
     [For Universities](https://www.futurelearn.com/promo/futurelearn-for-universities)[For Businesses](https://www.futurelearn.com/promo/futurelearn-for-business)[For Government](https://www.futurelearn.com/promo/futurelearn-for-government)[For Schools](https://www.futurelearn.com/promo/futurelearn-for-schools)
 
-Search  Search
+Search 
 
 [](https://www.futurelearn.com/search "Search online courses")[Menu](# "Main navigation") [Sign in](https://www.futurelearn.com/sign-in) [Register](https://www.futurelearn.com/register)
 
