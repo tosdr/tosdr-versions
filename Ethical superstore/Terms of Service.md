@@ -142,9 +142,9 @@ Customer Services Helpline
             
         * [Bin Bags & Foils](https://www.ethicalsuperstore.com/category/cleaning-and-household/bin-bags-and-foils/)
             
-        * [Tissues & Towels](https://www.ethicalsuperstore.com/category/cleaning-and-household/tissues-and-towels/)
-            
         * [Utility & DIY](https://www.ethicalsuperstore.com/category/cleaning-and-household/diy/)
+            
+        * [Tissues & Towels](https://www.ethicalsuperstore.com/category/cleaning-and-household/tissues-and-towels/)
             
         * [Shopping & Storage Bags](https://www.ethicalsuperstore.com/category/cleaning-and-household/shopping-and-storage-bags/)
             
@@ -170,8 +170,8 @@ Customer Services Helpline
         
         * [Mens](https://www.ethicalsuperstore.com/category/fashion/mens/)
             * [Tops & T-Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/t_shirts/)
-            * [Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/shirts/)
             * [Graphic Tees](https://www.ethicalsuperstore.com/category/fashion/mens/graphic-tees/)
+            * [Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/shirts/)
             * [Trousers & Shorts](https://www.ethicalsuperstore.com/category/fashion/mens/trousers-and-shorts/)
             * [Jackets & Jumpers](https://www.ethicalsuperstore.com/category/fashion/mens/jackets-and-jumpers/)
             * [Pyjamas & Underwear](https://www.ethicalsuperstore.com/category/fashion/mens/underwear/)
@@ -340,8 +340,8 @@ Customer Services Helpline
         * [Plastic Free Gifts](https://www.ethicalsuperstore.com/ethical-gifts/plastic-free-gifts/)
         * [Calendars, Cards & Wrap](https://www.ethicalsuperstore.com/ethical-gifts/cards-and-wrap/)
         
-        * [Christmas](https://www.ethicalsuperstore.com/ethical-gifts/christmas/)
         * [Advent Calendars](https://www.ethicalsuperstore.com/ethical-gifts/advent-calendars/)
+        * [Christmas](https://www.ethicalsuperstore.com/ethical-gifts/christmas/)
         * [Christmas Cards & Wrap](https://www.ethicalsuperstore.com/ethical-gifts/christmas-gift-wrap/)
         * [Festive Food](https://www.ethicalsuperstore.com/ethical-gifts/festive-food/)
         * [Stocking Fillers](https://www.ethicalsuperstore.com/ethical-gifts/stocking-fillers/)
