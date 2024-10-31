@@ -120,7 +120,7 @@ Products
 
 Help
 
-[How to](https://www.4kdownload.com/help/14#howto)[Video Guides](https://www.4kdownload.com/help/14#videos)[FAQ](https://www.4kdownload.com/help/14#faq)[Troubleshooting](https://www.4kdownload.com/help/14#troubleshooting)[License retrieval](https://www.4kdownload.com/retrieve-key/2)[Feedback](https://www.4kdownload.com/help/14#feedback-bottom)
+[How to](https://www.4kdownload.com/help/14#howto)[Video Guides](https://www.4kdownload.com/help/14#videos)[FAQ](https://www.4kdownload.com/help/14#faq)[Troubleshooting](https://www.4kdownload.com/help/14#troubleshooting)[License retrieval](https://www.4kdownload.com/retrieve-key/2)[Feedback](https://www.4kdownload.com/help/14#feedback)
 
 Legal info
 
