@@ -262,12 +262,12 @@ Customer Services Helpline
         * [Make-Up](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/)
             * [Face](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/face/)
             * [Eyes](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/eyes/)
-            * [Nail Polish](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/nail-polish/)
             * [Tools](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/tools/)
+            * [Nail Polish](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/nail-polish/)
         * [For Men](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/)
             * [Shaving](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/shaving/)
-            * [Bath & Shower](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/bath-and-shower/)
             * [Skin Care](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/skin-care/)
+            * [Bath & Shower](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/bath-and-shower/)
         
         * [Dental Care](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/dental-care/)
             * [Toothbrushes](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/dental-care/toothbrushes/)
@@ -324,7 +324,7 @@ Customer Services Helpline
             * [Children's Books](https://www.ethicalsuperstore.com/category/baby-child-and-toys/toys/childrens-books/)
             * [Wooden Toys](https://www.ethicalsuperstore.com/category/baby-child-and-toys/toys/wooden-toys/)
         
-* [Gifts](https://www.ethicalsuperstore.com/ethical-gifts/)
+* [Christmas Gifts](https://www.ethicalsuperstore.com/ethical-gifts/)
     * * [Gifts Below £10](https://www.ethicalsuperstore.com/ethical-gifts/gifts-below-10/)
         * [Gifts Below £20](https://www.ethicalsuperstore.com/ethical-gifts/gifts-below-20/)
         * [Gifts Below £30](https://www.ethicalsuperstore.com/ethical-gifts/gifts-below-30/)
@@ -340,8 +340,8 @@ Customer Services Helpline
         * [Plastic Free Gifts](https://www.ethicalsuperstore.com/ethical-gifts/plastic-free-gifts/)
         * [Calendars, Cards & Wrap](https://www.ethicalsuperstore.com/ethical-gifts/cards-and-wrap/)
         
-        * [Advent Calendars](https://www.ethicalsuperstore.com/ethical-gifts/advent-calendars/)
         * [Christmas](https://www.ethicalsuperstore.com/ethical-gifts/christmas/)
+        * [Advent Calendars](https://www.ethicalsuperstore.com/ethical-gifts/advent-calendars/)
         * [Christmas Cards & Wrap](https://www.ethicalsuperstore.com/ethical-gifts/christmas-gift-wrap/)
         * [Festive Food](https://www.ethicalsuperstore.com/ethical-gifts/festive-food/)
         * [Stocking Fillers](https://www.ethicalsuperstore.com/ethical-gifts/stocking-fillers/)
