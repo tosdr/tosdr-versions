@@ -138,7 +138,7 @@ View profile
 Cookies Notice
 ==============
 
-**Last updated: June 30, 2020**
+**Last updated: October 30, 2024**
 
 We use cookies, pixels, and other technologies (collectively, “cookies”) to recognize your browser or device, learn more about your interests, and provide you with essential features and services and for additional purposes, including:
 
@@ -156,6 +156,8 @@ Goodreads cookies allow you to take advantage of some of our essential features.
 Approved third parties may also set cookies when you interact with our services. Third parties include search engines, providers of measurement and analytics services, social media networks, and advertising companies. Third parties use cookies in the process of delivering content, including ads relevant to your interests, to measure the effectiveness of their ads, and to perform services on our behalf.
 
 You can manage browser cookies through your browser settings. The ‘Help’ feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, how to block cookies, and when cookies will expire. If you block all cookies on your browser, neither we nor third parties will transfer cookies to your browser. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some features and services may not work.
+
+Some mobile operating systems may further limit the use of cookies and similar technologies; your choices do not override those more limited settings on such mobile devices.
 
 See our [Privacy Notice](https://www.goodreads.com/about/privacy) for more information about the types of information we gather.
 
