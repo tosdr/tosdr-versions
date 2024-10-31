@@ -45,6 +45,7 @@
     * [Medical Malpractice](https://www.forthepeople.com/practice-areas/medical-malpractice-attorney/)
     * [Workers' Compensation](https://www.forthepeople.com/practice-areas/workers-compensation-lawyers/)
     * [View All](https://www.forthepeople.com/practice-areas/)
+    * [Nursing Home Abuse](https://www.forthepeople.com/practice-areas/elder-abuse-attorneys/nursing-home-abuse-attorneys/)
 * [Attorneys](https://www.forthepeople.com/attorneys/)
 * [Our Results](https://www.forthepeople.com/verdicts-and-settlements/)
 * About
