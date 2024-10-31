@@ -100,6 +100,8 @@ To learn more about how we provide our weather information to other companies wh
 
 This Privacy Policy is effective as of October 28, 2024. The previous version of this Privacy Policy is available [here](#previous-privacy-policy).
 
+inVehicleSectionReference
+
 The Weather Company, LLC, the provider of The Weather Channel, Weather Underground, and Storm Radar digital services (sometimes, "we" or "us"), is committed to protecting your privacy. This Privacy Policy (“Policy”) is important, and we encourage you to carefully read it.
 
 This Policy discloses how we collect, use, and share data that we gather related to your interaction with the weather.com and www.wunderground.com websites (the "Sites") and mobile and in-vehicle applications (collectively, “Apps”), and other websites and digital services that reference or link to this Policy (together, the "Services"). The Services do not include websites, mobile applications, or other services that link to another privacy policy. This Policy also describes the choices you have regarding our use of your data and your ability to access, correct, or delete your data. By using the Services, you accept the terms of this Policy, and agree to the data collection, use, and sharing described in this Policy. We may seek your consent by other means such as by asking you to click on a button or to change a setting. Where we do so, we will also offer you a way to revoke your consent.
