@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-30 Oct 2024
+31 Oct 2024
 
 * [Home
     
@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![PICTURES: All smiles as Noel McFeely's 70th birthday party](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles as Noel McFeely's 70th birthday party")](https://www.derrynow.com/news/pictures---videos/1642064/pictures-all-smiles-at-noel-mcfeely-s-70th-birthday-party.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: All smiles as Noel McFeely's 70th birthday party](https://www.derrynow.com/news/pictures---videos/1642064/pictures-all-smiles-at-noel-mcfeely-s-70th-birthday-party.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Woman (36) arrested in connection with sexual assault in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman (36) arrested in connection with sexual assault in Derry")](https://www.derrynow.com/news/local-news/1642955/woman-36-arrested-in-connection-with-sexual-assault-in-derry-s-lecky-road-area.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -280,21 +273,19 @@ Most Popular
 [Man (24) arrested on suspicion of rape in Derry](https://www.derrynow.com/news/local-news/1642863/man-24-arrested-on-suspicion-of-rape-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![PICTURES: Irish car enthusiasts on alert as rare classic and sports cars going to auction](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Irish car enthusiasts on alert as rare classic and sports cars going to auction")](https://www.derrynow.com/news/national-news/1643054/pictures-irish-car-enthusiasts-on-alert-as-rare-classic-and-sports-cars-going-to-auction.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[PICTURES: Irish car enthusiasts on alert as rare classic and sports cars going to auction](https://www.derrynow.com/news/national-news/1643054/pictures-irish-car-enthusiasts-on-alert-as-rare-classic-and-sports-cars-going-to-auction.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1641960/derry-death-notices-wednesday-october-30-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Wednesday, October 30 2024](https://www.derrynow.com/news/deaths/1641960/derry-death-notices-wednesday-october-30-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![The Maguire Family](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "The Maguire Family")](https://www.derrynow.com/news/county-derry-post/1642024/maguire-family-commemorate-thomas-on-his-20th-anniversary.html)
-
-The Maguire Family
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Maguire family commemorate Thomas on his 20th anniversary](https://www.derrynow.com/news/county-derry-post/1642024/maguire-family-commemorate-thomas-on-his-20th-anniversary.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man admits theft of cigarettes valued at more than £8,000](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man admits theft of cigarettes valued at more than £8,000")](https://www.derrynow.com/news/crime---courts/1643005/derry-man-admits-theft-of-cigarettes-valued-at-more-than-8-000.html)
 
@@ -303,6 +294,13 @@ The Maguire Family
 [Derry man admits theft of cigarettes valued at more than £8,000](https://www.derrynow.com/news/crime---courts/1643005/derry-man-admits-theft-of-cigarettes-valued-at-more-than-8-000.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Man arrested in connection with sexual assault in Derry released on bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in connection with sexual assault in Derry released on bail")](https://www.derrynow.com/news/local-news/1643617/man-arrested-in-connection-with-sexual-assault-in-derry-released-on-bail.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man arrested in connection with sexual assault in Derry released on bail](https://www.derrynow.com/news/local-news/1643617/man-arrested-in-connection-with-sexual-assault-in-derry-released-on-bail.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Man admits theft of clothing from Derry store](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man admits theft of clothing from Derry store")](https://www.derrynow.com/news/crime---courts/1643004/man-admits-theft-of-clothing-from-derry-store.html)
 
 [Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
@@ -310,19 +308,21 @@ The Maguire Family
 [Man admits theft of clothing from Derry store](https://www.derrynow.com/news/crime---courts/1643004/man-admits-theft-of-clothing-from-derry-store.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: Irish car enthusiasts on alert as rare classic and sports cars going to auction](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Irish car enthusiasts on alert as rare classic and sports cars going to auction")](https://www.derrynow.com/news/national-news/1643054/pictures-irish-car-enthusiasts-on-alert-as-rare-classic-and-sports-cars-going-to-auction.html)
+[![Man (31) arrested and £34,000 drugs and illegal fireworks seized in Derry search](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (31) arrested and £34,000 drugs and illegal fireworks seized in Derry search")](https://www.derrynow.com/news/local-news/1643662/man-31-arrested-and-34-000-drugs-and-illegal-fireworks-seized-in-derry-search.html)
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[PICTURES: Irish car enthusiasts on alert as rare classic and sports cars going to auction](https://www.derrynow.com/news/national-news/1643054/pictures-irish-car-enthusiasts-on-alert-as-rare-classic-and-sports-cars-going-to-auction.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man (31) arrested and £34,000 drugs and illegal fireworks seized in Derry search](https://www.derrynow.com/news/local-news/1643662/man-31-arrested-and-34-000-drugs-and-illegal-fireworks-seized-in-derry-search.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: The Elemental Garden at Ebrington Square](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: The Elemental Garden at Ebrington Square")](https://www.derrynow.com/news/pictures---videos/1643204/pictures-the-elemental-garden-at-ebrington-square.html)
+[![County Derry man (57) convicted of sexually assaulting two women while on his Christmas work night out](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man (57) convicted of sexually assaulting two women while on his Christmas work night out")](https://www.derrynow.com/news/home/1643609/county-derry-man-57-convicted-of-sexually-assaulting-two-women-while-on-his-christmas-work-night-out.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+The incident happened in Limavady last December.
 
-[PICTURES: The Elemental Garden at Ebrington Square](https://www.derrynow.com/news/pictures---videos/1643204/pictures-the-elemental-garden-at-ebrington-square.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Home](https://www.derrynow.com/)
+
+[County Derry man (57) convicted of sexually assaulting two women while on his Christmas work night out](https://www.derrynow.com/news/home/1643609/county-derry-man-57-convicted-of-sexually-assaulting-two-women-while-on-his-christmas-work-night-out.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry principal calls on minister to protect “the joy of childhood” – away from mobile phones](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry principal calls on minister to protect “the joy of childhood” – away from mobile phones")](https://www.derrynow.com/news/local-news/1642485/derry-principal-calls-on-ministerto-protect-the-joy-of-childhood-away-from-mobile-phones.html)
 
@@ -507,51 +507,51 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Man arrested in connection with sexual assault in Derry released on bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in connection with sexual assault in Derry released on bail")](https://www.derrynow.com/news/local-news/1643617/man-arrested-in-connection-with-sexual-assault-in-derry-released-on-bail.html)
+[![Renowned Derry artist to lead Belfast TradFest St Patrick's Day 2025](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Renowned Derry artist to lead Belfast TradFest St Patrick's Day 2025")](https://www.derrynow.com/news/arts---entertainment/1643166/renowned-derry-artist-to-lead-belfast-tradfest-st-patrick-s-day-2025.html)
+
+[Arts & Entertainment](https://www.derrynow.com/section/2211/arts-entertainment)
+
+[Renowned Derry artist to lead Belfast TradFest St Patrick's Day 2025](https://www.derrynow.com/news/arts---entertainment/1643166/renowned-derry-artist-to-lead-belfast-tradfest-st-patrick-s-day-2025.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Greysteel Massacre 31 years ago](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Greysteel Massacre 31 years ago")](https://www.derrynow.com/news/county-derry-post/1643326/trick-or-treat-social-media-image-described-as-disgraceful-in-the-lead-up-to-greysteel-massacre-anniversary.html)
+
+Greysteel Massacre 31 years ago
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[“Trick or Treat” social media image described as “disgraceful” in the lead up to Greysteel massacre anniversary](https://www.derrynow.com/news/county-derry-post/1643326/trick-or-treat-social-media-image-described-as-disgraceful-in-the-lead-up-to-greysteel-massacre-anniversary.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man (31) arrested and £34,000 drugs and illegal fireworks seized in Derry search](https://www.derrynow.com/resizer/165/93/true/2024_10_30/DCS_drugs-1730320750057_1730320795.png--.png?1730320795973 "Man (31) arrested and £34,000 drugs and illegal fireworks seized in Derry search")](https://www.derrynow.com/news/local-news/1643662/man-31-arrested-and-34-000-drugs-and-illegal-fireworks-seized-in-derry-search.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man (31) arrested and £34,000 drugs and illegal fireworks seized in Derry search](https://www.derrynow.com/news/local-news/1643662/man-31-arrested-and-34-000-drugs-and-illegal-fireworks-seized-in-derry-search.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![County Derry man (57) convicted of sexually assaulting two women while on his Christmas work night out](https://www.derrynow.com/resizer/165/93/true/2024_10_30/Scales_of_Justice_24472783-1695742476505.jpg--castlebar_court_to_be_disrupted_by_barrister_strike-1721913110758.jpg---1730313728509.jpg--.jpg?1730313728534 "County Derry man (57) convicted of sexually assaulting two women while on his Christmas work night out")](https://www.derrynow.com/news/home/1643609/county-derry-man-57-convicted-of-sexually-assaulting-two-women-while-on-his-christmas-work-night-out.html)
+
+The incident happened in Limavady last December.
+
+[Home](https://www.derrynow.com/)
+
+[County Derry man (57) convicted of sexually assaulting two women while on his Christmas work night out](https://www.derrynow.com/news/home/1643609/county-derry-man-57-convicted-of-sexually-assaulting-two-women-while-on-his-christmas-work-night-out.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Féile Derry's 'Scary Derry' publishes work of award-winning pupils](https://www.derrynow.com/resizer/165/93/true/2024_10_30/MixCollage-30-Oct-2024-01-51-PM-9911-1730296297552.jpg--.jpg?1730296297621 "Féile Derry's 'Scary Derry' publishes work of award-winning pupils")](https://www.derrynow.com/news/local-news/1643266/feile-derry-s-scary-derry-publishes-work-of-award-winning-pupils.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Féile Derry's 'Scary Derry' publishes work of award-winning pupils](https://www.derrynow.com/news/local-news/1643266/feile-derry-s-scary-derry-publishes-work-of-award-winning-pupils.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man arrested in connection with sexual assault in Derry released on bail](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Man arrested in connection with sexual assault in Derry released on bail")](https://www.derrynow.com/news/local-news/1643617/man-arrested-in-connection-with-sexual-assault-in-derry-released-on-bail.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Man arrested in connection with sexual assault in Derry released on bail](https://www.derrynow.com/news/local-news/1643617/man-arrested-in-connection-with-sexual-assault-in-derry-released-on-bail.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Beware what goes bump in the Limavady Halloween Night](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Beware what goes bump in the Limavady Halloween Night")](https://www.derrynow.com/news/arts---entertainment/1642946/pictures-beware-what-goes-bump-in-the-limavady-halloween-night.html)
-
-[Arts & Entertainment](https://www.derrynow.com/section/2211/arts-entertainment)
-
-[PICTURES: Beware what goes bump in the Limavady Halloween Night](https://www.derrynow.com/news/arts---entertainment/1642946/pictures-beware-what-goes-bump-in-the-limavady-halloween-night.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Patsy McGlone MLA](https://www.derrynow.com/resizer/165/93/true/1620136874386.jpg--.jpg?1620136874000 "Patsy McGlone MLA")](https://www.derrynow.com/news/mid-ulster-district-council/1643296/mcglone-welcomes-commitment-on-mid-south-west-growth-deal.html)
-
-[Mid Ulster District Council](https://www.derrynow.com/section/2724/mid-ulster-district-council)
-
-[McGlone Welcomes Commitment on Mid South West Growth Deal](https://www.derrynow.com/news/mid-ulster-district-council/1643296/mcglone-welcomes-commitment-on-mid-south-west-growth-deal.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Causeway Coast and Glens Council & Mid Ulster District Council](https://www.derrynow.com/resizer/165/93/true/2024_10_30/MSWCCG-1730302667293.JPG--.JPG?1730302668405 "Causeway Coast and Glens Council & Mid Ulster District Council")](https://www.derrynow.com/news/causeway-coast-and-glens-borough-council/1643394/green-light-for-causeway-coast-and-mid-south-west-deals-welcomed.html)
-
-Causeway Coast and Glens Council & Mid Ulster District Council
-
-[Causeway Coast and Glens Borough Council](https://www.derrynow.com/section/2723/causeway-coast-and-glens-borough-council)
-
-[Green light for Causeway Coast and Mid South West deals welcomed](https://www.derrynow.com/news/causeway-coast-and-glens-borough-council/1643394/green-light-for-causeway-coast-and-mid-south-west-deals-welcomed.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Concerns over police credibility cause Derry man's conviction to be referred to Court of Appeal](https://www.derrynow.com/resizer/165/93/true/2024_07_25/Scales_of_Justice_24472783-1695742476505.jpg--castlebar_court_to_be_disrupted_by_barrister_strike-1721913110758.jpg--.jpg?1721913110777 "Concerns over police credibility cause Derry man's conviction to be referred to Court of Appeal")](https://www.derrynow.com/news/crime---courts/1643517/concerns-over-police-credibility-cause-derry-man-s-conviction-to-be-referred-to-court-of-appeal.html)
-
-[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
-
-[Concerns over police credibility cause Derry man's conviction to be referred to Court of Appeal](https://www.derrynow.com/news/crime---courts/1643517/concerns-over-police-credibility-cause-derry-man-s-conviction-to-be-referred-to-court-of-appeal.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Causeway Coast and Glens & Mid Ulster](https://www.derrynow.com/resizer/165/93/true/2024_10_30/MSWCCG-1730297778530.JPG--.JPG?1730297779664 "Causeway Coast and Glens & Mid Ulster")](https://www.derrynow.com/news/causeway-coast-and-glens-borough-council/1643279/mid-south-west-region-and-causeway-coast-and-glens-borough-council-statement-following-announcement-on-growth-deals-funding.html)
-
-Causeway Coast and Glens & Mid Ulster
-
-[Causeway Coast and Glens Borough Council](https://www.derrynow.com/section/2723/causeway-coast-and-glens-borough-council)
-
-[Mid South West Region and Causeway Coast and Glens Borough Council statement following announcement on Growth Deals funding](https://www.derrynow.com/news/causeway-coast-and-glens-borough-council/1643279/mid-south-west-region-and-causeway-coast-and-glens-borough-council-statement-following-announcement-on-growth-deals-funding.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
