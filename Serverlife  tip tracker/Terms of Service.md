@@ -361,7 +361,3 @@ Any User qualifying as a natural person who accesses goods or services for perso
 Latest update: January 09, 2023
 
 [iubenda](https://www.iubenda.com/en/terms-and-conditions-generator "iubenda - Terms and Conditions generator") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
-
-Terms and Conditions generated with [![iubenda](https://www.iubenda.com/images/site/logo_min_2.png)](https://www.iubenda.com/ "iubenda")
-
-[Generate yours](https://www.iubenda.com/en/terms-and-conditions-generator "Generate terms and conditions")
