@@ -892,8 +892,7 @@ Should you have other questions or concerns about this Cookie Policy, contact us
 
 ![""](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-02/programs-graphic-for-redesign.png?itok=R8SlOXwx)
 
-Whatever your question is, we’ve got you covered.
--------------------------------------------------
+##### Whatever your question is, we’ve got you covered.
 
 Walden’s Enrollment Specialists are trained to help you research, plan, and get started on your academic journey. We can:
 
