@@ -22,19 +22,19 @@ Audio
 
 * * *
 
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/10181536/PRH_Site_1200x628_OCT2024.jpg)
-    
-    New Releases
-    
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
-
-* * *
-
 * [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
     
     Audiobooks for Kids
     
     Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
+
+* * *
+
+* [![33 Halloween Books for Little Pumpkins](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/09/24124648/halloween-pumpkins-readdown-1200x628-2024.jpg)
+    
+    33 Halloween Books for Little Pumpkins
+    
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/not-so-scary-picture-books-for-halloween/)
 
 * <
     
@@ -795,8 +795,6 @@ Penguin Random House
 New York, NY 10019
 
 Because electronic communications are not always secure, please do not include credit card or other sensitive information in your communications with us.
-
-[Back to Top](#top)
 
 [BECOME A BOOK EXPERT 📚](https://www.penguinrandomhouse.com/subscribe/)
 
