@@ -97,11 +97,11 @@ Find
     * [Network Project Activity](https://www.thebluebook.com/network-activity.html)
     
 
-[888-720-1710](tel:+18887201710)
-
 [Close Search](#) [Sign In](https://www.thebluebook.com/net/) [Join](https://www.thebluebook.com/register.html)
 
 [Send ITB](https://www.thebluebook.com/send-bid-invitation.html)
+
+[888-720-1710](tel:+18887201710)
 
 * [Home](https://www.thebluebook.com/)
 
