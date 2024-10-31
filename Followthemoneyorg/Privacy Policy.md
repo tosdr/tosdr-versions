@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Successful challengers vs. losing incumbents in the US House](/assets/Uploads/cfi1.png)](https://www.followthemoney.org/research/blog/massive-amounts-were-spent-by-the-candidates-and-independent-spenders-in-the-races-that-decided-the-2018-midterms)
+[![high court 09-10](/assets/logos/HighCourtRaces.png)](http://www.followthemoney.org/research/institute-research/money-in-judicial-elections-2009-2010)
 
-Successful challengers vs. losing incumbents in the US House of Representatives, 2006-2018.
+Is the judiciary “above politics”? See high court races.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
