@@ -60,6 +60,8 @@
     
     [AI Writing Assistant](https://www.mycase.com/features/ai-legal-writing-assistant/)
     
+    [Legal Document AI](https://www.mycase.com/features/legal-document-ai/)
+    
     ![Financial Management](https://www.mycase.com/wp-content/uploads/2024/05/chart-pie-simple-sharp-light.svg) [Financial Management](https://www.mycase.com/products/law-firm-financial-management/)
     
     [Spend Management](https://www.mycase.com/features/legal-spend-management-software/)
