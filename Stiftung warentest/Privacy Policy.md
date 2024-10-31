@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Winterliche Heiß­getränke: Glüh-Gin macht Glüh­wein Konkurrenz](https://www.test.de/Winterliche-Heissgetraenke-Glueh-Gin-macht-Gluehwein-Konkurrenz-5933646-0/ "Winterliche Heißgetränke - Glüh-Gin macht Glühwein Konkurrenz")
-* [Ärger mit der Post: „Verfehlungen sollten finanzielle Konsequenzen haben“](https://www.test.de/Aerger-mit-der-Post-Verfehlungen-sollten-finanzielle-Konsequenzen-haben-5979613-0/ "Ärger mit der Post - „Verfehlungen sollten finanzielle Konsequenzen haben“")
-* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
-* [Mariniertes Schweine­fleisch im Test: Gutes für den Grill](https://www.test.de/grillfleisch-im-test-6019853-0/ "Mariniertes Schweinefleisch im Test - Gutes für den Grill")
-* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
+* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
+* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
+* [Kühl-Gefrier-Kombis: Spart der Urlaubs­modus wirk­lich Strom?](https://www.test.de/Kuehl-Gefrier-Kombis-Spart-der-Urlaubsmodus-wirklich-Strom-6133115-0/ "Kühl-Gefrier-Kombis - Spart der Urlaubsmodus wirklich Strom?")
+* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Winterliche Heiß­getränke: Glüh-Gin macht Glüh­wein Konkurrenz](https://www.test.de/Winterliche-Heissgetraenke-Glueh-Gin-macht-Gluehwein-Konkurrenz-5933646-0/ "Winterliche Heißgetränke - Glüh-Gin macht Glühwein Konkurrenz")
-* [Ärger mit der Post: „Verfehlungen sollten finanzielle Konsequenzen haben“](https://www.test.de/Aerger-mit-der-Post-Verfehlungen-sollten-finanzielle-Konsequenzen-haben-5979613-0/ "Ärger mit der Post - „Verfehlungen sollten finanzielle Konsequenzen haben“")
-* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
-* [Mariniertes Schweine­fleisch im Test: Gutes für den Grill](https://www.test.de/grillfleisch-im-test-6019853-0/ "Mariniertes Schweinefleisch im Test - Gutes für den Grill")
-* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
+* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
+* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
+* [Kühl-Gefrier-Kombis: Spart der Urlaubs­modus wirk­lich Strom?](https://www.test.de/Kuehl-Gefrier-Kombis-Spart-der-Urlaubsmodus-wirklich-Strom-6133115-0/ "Kühl-Gefrier-Kombis - Spart der Urlaubsmodus wirklich Strom?")
+* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Winterliche Heiß­getränke: Glüh-Gin macht Glüh­wein Konkurrenz](https://www.test.de/Winterliche-Heissgetraenke-Glueh-Gin-macht-Gluehwein-Konkurrenz-5933646-0/ "Winterliche Heißgetränke - Glüh-Gin macht Glühwein Konkurrenz")
-* [Ärger mit der Post: „Verfehlungen sollten finanzielle Konsequenzen haben“](https://www.test.de/Aerger-mit-der-Post-Verfehlungen-sollten-finanzielle-Konsequenzen-haben-5979613-0/ "Ärger mit der Post - „Verfehlungen sollten finanzielle Konsequenzen haben“")
-* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
-* [Mariniertes Schweine­fleisch im Test: Gutes für den Grill](https://www.test.de/grillfleisch-im-test-6019853-0/ "Mariniertes Schweinefleisch im Test - Gutes für den Grill")
-* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
+* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
+* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
+* [Kühl-Gefrier-Kombis: Spart der Urlaubs­modus wirk­lich Strom?](https://www.test.de/Kuehl-Gefrier-Kombis-Spart-der-Urlaubsmodus-wirklich-Strom-6133115-0/ "Kühl-Gefrier-Kombis - Spart der Urlaubsmodus wirklich Strom?")
+* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Winterliche Heiß­getränke: Glüh-Gin macht Glüh­wein Konkurrenz](https://www.test.de/Winterliche-Heissgetraenke-Glueh-Gin-macht-Gluehwein-Konkurrenz-5933646-0/ "Winterliche Heißgetränke - Glüh-Gin macht Glühwein Konkurrenz")
-* [Ärger mit der Post: „Verfehlungen sollten finanzielle Konsequenzen haben“](https://www.test.de/Aerger-mit-der-Post-Verfehlungen-sollten-finanzielle-Konsequenzen-haben-5979613-0/ "Ärger mit der Post - „Verfehlungen sollten finanzielle Konsequenzen haben“")
-* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
-* [Mariniertes Schweine­fleisch im Test: Gutes für den Grill](https://www.test.de/grillfleisch-im-test-6019853-0/ "Mariniertes Schweinefleisch im Test - Gutes für den Grill")
-* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
+* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
+* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
+* [Kühl-Gefrier-Kombis: Spart der Urlaubs­modus wirk­lich Strom?](https://www.test.de/Kuehl-Gefrier-Kombis-Spart-der-Urlaubsmodus-wirklich-Strom-6133115-0/ "Kühl-Gefrier-Kombis - Spart der Urlaubsmodus wirklich Strom?")
+* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
 
 Service Stiftung Warentest
 
