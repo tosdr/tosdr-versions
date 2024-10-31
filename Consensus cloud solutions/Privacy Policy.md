@@ -91,6 +91,15 @@
     Featured Post Container
     
     * Featured
+        
+        [![featured event](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20980%20220'%3E%3C/svg%3E)
+        
+        ![featured event](https://www.consensus.com/wp-content/uploads/2024/10/HIMSS.svg)](https://gc3conference.com/)
+        
+        [HIMSS Gulf Coast Chapters Conference
+        
+        Learn More](https://gc3conference.com/)
+        
     
 * Learn
     
