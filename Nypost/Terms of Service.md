@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### World Series mayhem
-
-[LA erupts after Dodgers victory as ‘hostile’ mob burns bus, looters raid Nike store](https://nypost.com/2024/10/31/sports/la-erupts-into-chaos-following-dodgers-world-series-win/)
-
 Terms Of Use
 ============
 
