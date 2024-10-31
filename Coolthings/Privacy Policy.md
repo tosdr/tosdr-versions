@@ -15,20 +15,20 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/vizio-micme-soundbar-subwoofer-two-mics-karaoke-machine/)
+    
+    [Vizio MicMe Transforms from Soundbar to Karaoke Machine](https://www.coolthings.com/vizio-micme-soundbar-subwoofer-two-mics-karaoke-machine/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------
+    
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/sennheiser-profile-wireless-combines-tabletop-handheld-clip-on-mics-all-in-one-system/)
+    
+    [Sennheiser Profile Wireless Combines Tabletop Mic, Handheld Mic, and Clip-On Mics in One Setup](https://www.coolthings.com/sennheiser-profile-wireless-combines-tabletop-handheld-clip-on-mics-all-in-one-system/)
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-2-in-1-laptops-for-seamless-switching-between-pc-and-tablet/)
     
     [The Best 2-in-1 Laptops for Seamless Switching Between PC and Tablet](https://www.coolthings.com/the-best-2-in-1-laptops-for-seamless-switching-between-pc-and-tablet/)
     ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/ecoflow-power-hat-solar-charging-cells-beach-hat/)
-    
-    [EcoFlow Power Hat Puts Solar Cells in a Sun Hat for Charging on the Go](https://www.coolthings.com/ecoflow-power-hat-solar-charging-cells-beach-hat/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/amazon-kindle-colorsoft-color-e-reader-fast-page-turns-32gb/)
-    
-    [Amazon Kindle Colorsoft Brings Color to the E-Reader Line Without Sacrificing Speed](https://www.coolthings.com/amazon-kindle-colorsoft-color-e-reader-fast-page-turns-32gb/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
