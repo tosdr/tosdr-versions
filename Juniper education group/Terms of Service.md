@@ -27,7 +27,7 @@
 
 *  [![menu01](https://junipereducation.org/hubfs/Juniper%20-%20Theme/menu01.svg)Classroom solutions Assessment, Curriculum, Parent Engagement, Benchmarking, and more.](https://junipereducation.org/classroom-primary/?hsLang=en)
     * [Primary](https://junipereducation.org/classroom-primary/?hsLang=en)
-        * [Progress and outcomes](https://junipereducation.org/classroom-primary/progress-and-outcomes/?hsLang=en)
+        * [Progress and outcomes](https://junipereducation.org/classroom-primary/sonar-tracker?hsLang=en)
         * [MAT insights and data](https://junipereducation.org/classroom-primary/mat-insights-and-data?hsLang=en)
         * [Rewards and recognition](https://junipereducation.org/classroom-primary/rewards-and-recognition/?hsLang=en)
         * [Essential training](https://junipereducation.org/classroom-primary/supporting-teachers/?hsLang=en)
@@ -82,7 +82,7 @@
 * [MAT websites and marketing services](https://websites.junipereducation.org/multi-academy-trusts)
 * [Parent engagement app](https://junipereducation.org/parental-engagement/?hsLang=en)
 
-* [Progress and outcomes](https://junipereducation.org/classroom-primary/progress-and-outcomes/?hsLang=en)
+* [Progress and outcomes](https://junipereducation.org/classroom-primary/sonar-tracker?hsLang=en)
 * [MAT insights and data](https://junipereducation.org/classroom-primary/mat-insights-and-data?hsLang=en)
 * [Rewards and recognition](https://junipereducation.org/classroom-primary/rewards-and-recognition/?hsLang=en)
 * [Essential training](https://junipereducation.org/classroom-primary/supporting-teachers/?hsLang=en)
@@ -975,7 +975,9 @@ Each party irrevocably agrees that the courts of England and Wales shall have ex
 * [Careers](https://careers.junipereducation.org/)
 * [Contact us](https://junipereducation.org/contact-us)
 
-[![besa](https://junipereducation.org/hubfs/Juniper%20-%20Theme/besa.svg)](https://junipereducation.org/terms/?hsLang=en)
+[![besa](https://junipereducation.org/hubfs/Juniper%20-%20Theme/besa.svg)](https://www.besa.org.uk/)
+
+[![BSME-Partner-Logo---White---400px](https://junipereducation.org/hs-fs/hubfs/BSME-Partner-Logo---White---400px.png?width=400&height=89&name=BSME-Partner-Logo---White---400px.png)](https://www.bsme.org.uk/)
 
 * © 2024 Juniper Education
 * Registered in England & Wales No: 11992947
