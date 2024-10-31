@@ -2,7 +2,7 @@
 
 Terms & Conditions – Omax Health - Omax Health                      
 
-                
+              
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -329,6 +329,16 @@ Go to product page
 
 2200
 
+A
+
+[3 Pack CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-extra-strength#judgeme_product_reviews)
+
+Anonymous
+
+**Roll on relief**
+
+The most effective roll on for pain relief I have ever used also lasts for quite a while 👍👍👍👍👍
+
 K
 
 [Omax® CircuMax Sport Socks 3 Pack](https://omaxhealth.com/products/omax-circumax-sport-socks-3-pack#judgeme_product_reviews)
@@ -350,15 +360,5 @@ Mary G.
 **Great product**
 
 This does exactly what it says I have had neck issues for a while now and it helps with the pain and inflammation
-
-J
-
-[CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
-
-J.E.
-
-**Freaking unbelievable**
-
-I’ve had leg muscle pain (burning) since childhood. Only remedy was Ibuprofen but I don’t like taking meds so I’d suffer through the pain most of the time unless it was unbearable. This extra strength roll on takes the pain away!!! I’m so happy with this!!!!
 
 Load More
