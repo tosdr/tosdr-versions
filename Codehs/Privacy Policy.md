@@ -363,7 +363,7 @@ To ask questions or comment on this Privacy Policy and our privacy practices, co
 
 #### Use Cases
 
-* [District](https://codehs.com/info/districts)
+* [District](https://codehs.com/districts)
 * [Schools](https://codehs.com/schools)
 * [Teachers](https://codehs.com/teachers)
 
@@ -376,6 +376,7 @@ To ask questions or comment on this Privacy Policy and our privacy practices, co
 * [Write Code](https://codehs.com/explore/sandbox)
 * [Integrations](https://codehs.com/integrations)
 * [AI Tools](https://codehs.com/ai_tools)
+* [Academic Integrity](https://codehs.com/academic_integrity)
 
 #### [Curriculum](https://codehs.com/curriculum)
 
@@ -386,7 +387,7 @@ To ask questions or comment on this Privacy Policy and our privacy practices, co
 * [Elementary](https://codehs.com/curriculum/elementary)
 * [State Courses](https://codehs.com/states)
 * [Spanish Courses](https://codehs.com/curriculum/spanish)
-* [Standards](https://codehs.com/info/standards)
+* [Standards](https://codehs.com/curriculum/standards)
 * [Hour of Code](https://codehs.com/hourofcode)
 * [Practice](https://codehs.com/practice)
 * [Tutorials](https://codehs.com/tutorials)
@@ -417,11 +418,11 @@ To ask questions or comment on this Privacy Policy and our privacy practices, co
 
 #### Resources
 
-* [Case Studies](https://codehs.com/info/stories)
+* [Case Studies](https://codehs.com/stories)
 * [States](https://codehs.com/states)
 * [Testimonials](https://codehs.com/testimonials)
 * [Tweets](https://codehs.com/tweets)
-* [Read Write Code Blog](https://readwritecode.blog/)
+* [Read Write Code Blog](https://codehs.com/blog)
 * [Read Write Code Book](https://geni.us/ReadWriteCode)
 * [Knowledge Base](https://help.codehs.com/)
 * [Webinars](https://codehs.com/webinars)
@@ -444,19 +445,20 @@ To ask questions or comment on this Privacy Policy and our privacy practices, co
 * [Coding LMS](https://codehs.com/lms)
 * [Online IDE](https://codehs.com/ide)
 * [CodeHS Pro](https://codehs.com/pro)
-* [Computer Science Curriculum](https://codehs.com/info/curriculum)
+* [Computer Science Curriculum](https://codehs.com/curriculum)
 * [Certifications](https://codehs.com/info/certifications)
 * [Professional Development](https://codehs.com/pd)
 
 #### Platform
 
-* [Assignments](https://codehs.com/info/platform/gradebook)
-* [Classroom](https://codehs.com/info/platform/rostering)
-* [Grading](https://codehs.com/info/platform/gradebook)
-* [Data](https://codehs.com/info/platform/progress_tracking)
+* [Assignments](https://codehs.com/assignments)
+* [Classroom](https://codehs.com/classroom_management)
+* [Grading](https://codehs.com/grading)
+* [Data](https://codehs.com/progress_tracking)
 * [Write Code](https://codehs.com/explore/sandbox)
 * [Integrations](https://codehs.com/integrations)
 * [AI Tools](https://codehs.com/ai)
+* [Academic Integrity](https://codehs.com/academic_integrity)
 
 #### [PD](https://codehs.com/pd)
 
@@ -468,11 +470,11 @@ To ask questions or comment on this Privacy Policy and our privacy practices, co
 
 #### Resources
 
-* [Case Studies](https://codehs.com/info/stories)
+* [Case Studies](https://codehs.com/stories)
 * [States](https://codehs.com/states)
 * [Testimonials](https://codehs.com/testimonials)
 * [Tweets](https://codehs.com/tweets)
-* [Read Write Code Blog](https://readwritecode.blog/)
+* [Read Write Code Blog](https://codehs.com/blog)
 * [Read Write Code Book](https://geni.us/ReadWriteCode)
 * [Knowledge Base](https://help.codehs.com/)
 * [Webinars](https://codehs.com/webinars)
@@ -481,7 +483,7 @@ To ask questions or comment on this Privacy Policy and our privacy practices, co
 
 #### Use Cases
 
-* [District](https://codehs.com/info/districts)
+* [District](https://codehs.com/districts)
 * [Schools](https://codehs.com/schools)
 * [Teachers](https://codehs.com/teachers)
 
@@ -521,4 +523,4 @@ To ask questions or comment on this Privacy Policy and our privacy practices, co
 * [Security](https://codehs.com/security)
 * [Accessibility](https://codehs.com/accessibility)
 
-[CodeHS Certified Educators](https://codehs.com/info/certified_educators) [CodeHS Educator Facebook Group](https://www.facebook.com/groups/codehseducators) [CodeHS Store](https://store.codehs.com/)
+[CodeHS Certified Educators](https://codehs.com/certifiededucator) [CodeHS Educator Facebook Group](https://www.facebook.com/groups/codehseducators) [CodeHS Store](https://store.codehs.com/)
