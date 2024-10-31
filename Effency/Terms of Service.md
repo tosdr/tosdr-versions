@@ -34,6 +34,9 @@ Siège social : 78 avenue de Flandre – 75019 Paris
 
 **Date d’entrée en vigueur :** 22/09/2021
 
+  
+**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
+
 1
 
 ### Objet
@@ -62,6 +65,9 @@ Elles constituent, avec les éventuels Devis et conditions particulières, ainsi
 
 Le Contrat prévaut sur toutes autres conditions générales ou particulières non expressément agréées par Effency.
 
+  
+**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
+
 2
 
 ### Acceptation des conditions générales
@@ -79,6 +85,9 @@ Toute validation du Devis, emporte acceptation sans réserve des présentes cond
 * **Dispositions communes**
 
 L’acceptation des présentes conditions générales ne peut être que pleine et entière. Toute adhésion sous réserve est considérée comme nulle et non avenue. L’Utilisateur qui n’accepte pas d’être lié par les présentes conditions générales ne doit pas utiliser les Services.
+
+  
+**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
 
 3
 
@@ -146,6 +155,9 @@ Ces Services sont fournis sur Devis, celui-ci indiquant alors l’objet et les m
 
 Effency pourra proposer tout autre Service qu’elle jugera utile, sous une forme et selon les fonctionnalités et moyens techniques, notamment techniques, qu’elle estimera les plus appropriés, lequel fera l’objet d’un devis présenté au Client.
 
+  
+**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
+
 4
 
 ### Conditions financières
@@ -178,6 +190,9 @@ L’Utilisateur est informé et accepte expressément que tout retard de paiemen
 
 * la facturation au profit d’Effency d’un intérêt de retard au taux de 3 fois (trois) le taux de l’intérêt légal, assis sur le montant de l’intégralité des sommes dues par l’Utilisateur et d’une indemnité forfaitaire de 40 (quarante) € au titre des frais de recouvrement, sans préjudice d’une indemnisation complémentaire si les frais de recouvrement effectivement exposés sont supérieurs à ce montant.
 
+  
+**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
+
 5
 
 ### Convention de preuve
@@ -189,6 +204,9 @@ L’Utilisateur reconnaît et accepte expressément :
 * que ces données constituent le principal mode de preuve admis entre les parties, notamment pour le calcul des sommes dues à Effency.
 
 Les parties conviennent en outre qu’en cas de litige, les documents électroniques échangés entre elles (emails, messages textes ou i-messages) seront admissibles devant les tribunaux et feront preuve des données et des faits qu’ils contiennent.
+
+  
+**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
 
 6
 
@@ -223,6 +241,9 @@ Ils doivent répondre aux questions de manière sincère, exacte et exhaustive.
 
 * L’Utilisateur reconnaît que les Services lui offrent une solution supplémentaire, non alternative, de tester et d’améliorer la collaboration entre les individus dans le cadre du travail en équipe et qu’ils ne sauraient se substituer aux autres moyens dont l’Utilisateur peut disposer par ailleurs pour atteindre le même objectif.
 
+  
+**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
+
 7
 
 ### Responsabilité et garantie de l’Utilisateur
@@ -232,6 +253,9 @@ L’Utilisateur garantit Effency contre toutes plaintes, réclamations, actions 
 Le recours au Service fourni par TeamGether et son JetPack nécessite que les outils de travail collaboratif des Utilisateurs, en ce compris notamment Slack, Teams, Citadel ou la suite Google, soient spécifiquement configurés par le Client ou le Client Final. A cet effet, EFFENCY a établi et met à disposition des Utilisateurs un guide de configuration technique pour chacun des outils de travail collaboratif supportant TeamGether et son JetPack (ci-après : « **Guide de Configuration Technique**»), lequel figure en Annexe 7.2 des présentes conditions générales. La configuration technique et la sécurité sont de la responsabilité du Client ou du Client Final, le cas échéant, qui doit respecter les instructions contenues dans le Guide de Configuration Technique afin d’assurer le bon fonctionnement de l’application développée par EFFENCY, de telle sorte que ce dernier ne saurait être tenu pour responsable du non-fonctionnement de TeamGether et/ou de son JetPack en cas de non-respect par l’Utilisateur des instructions fournies.
 
 Enfin, l’Utilisateur est seul responsable des contenus créés et partagés via TeamGether et son JetPack. L’outil mis à disposition par EFFENCY a vocation à faciliter la création et simplifier la diffusion de ces contenus, sans pour autant permettre à EFFENCY de contrôler lesdits contenus, de telle sorte qu’EFFENCY ne saurait ainsi être tenu pour responsable du contenu des parcours de formation créés par ses Utilisateurs et Clients, stockés dans leur bibliothèque digitale et diffusés aux Membres de leur Equipe et Clients Finaux, le cas échéant.
+
+  
+**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
 
 8
 
@@ -259,6 +283,9 @@ S’agissant du Service d’Analyse d’Equipe, elle s’engage à ce que le rap
 
 * En tout état de cause, la responsabilité susceptible d’être encourue par Effency au titre des présentes est expressément limitée aux seuls dommages directs avérés subis par l’Utilisateur.
 
+  
+**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
+
 9
 
 ### Propriété intellectuelle
@@ -266,6 +293,9 @@ S’agissant du Service d’Analyse d’Equipe, elle s’engage à ce que le rap
 Les parcours de formation, Test, systèmes, logiciels, structures, infrastructures, bases de données et contenus de toute nature (textes, images, visuels, musiques, logos, marques, base de données, etc …) exploités par Effency sont protégés par tous droits de propriété intellectuelle ou droits des producteurs de bases de données en vigueur. Tous désassemblages, décompilations, décryptages, extractions, réutilisations, copies et plus généralement, tous actes de reproduction, représentation, diffusion et utilisation de l’un quelconque de ces éléments, en tout ou partie, sans l’autorisation d’Effency sont strictement interdits et pourront faire l’objet de poursuites judiciaires.
 
 En revanche, l’Utilisateur sera seul titulaire de tous droits de propriété intellectuelle relatifs aux contenus et parcours de formation créés par lui à l’aide de l’outil TeamGether et son JetPack.
+
+  
+**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
 
 10
 
@@ -279,11 +309,17 @@ Effency pratique une politique de protection des données personnelles dont les 
 
 L’Utilisateur est informé et accepte qu’Effency se réserve le droit d’utiliser les données issues des Tests, après les avoir anonymisées, à des fins de recherches ainsi qu’à des fins statistiques.
 
+  
+**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
+
 11
 
 ### Publicité
 
 Effency se réserve la faculté d’insérer sur toute page du Site et dans toute communication aux Utilisateurs tous messages publicitaires ou promotionnels sous une forme et dans des conditions dont Effency sera seule juge.
+
+  
+**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
 
 12
 
@@ -295,11 +331,17 @@ Effency n’endosse aucune responsabilité au titre des contenus, publicités, p
 
 Effency n’est pas non plus responsable des transactions intervenues entre l’Utilisateur et un quelconque annonceur, professionnel ou commerçant (y compris ses éventuels partenaires en ce compris notamment Teams, Slack, Citadel ou la suite Google) vers lequel l’Utilisateur serait orienté par l’intermédiaire du Site et ne saurait en aucun cas être partie à quelques litiges éventuels que ce soit avec ces tiers concernant notamment la livraison de produits et/ou services, les garanties, déclarations et autres obligations quelconques auxquelles ces tiers sont tenus.
 
+  
+**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
+
 13
 
 ### Références commerciales
 
 Le Client autorise expressément Effency à le citer et à utiliser le cas échéant la reproduction de sa marque ou de son logo à titre de références commerciales, notamment lors de manifestations ou d’événements, dans ses documents commerciaux et sur son site internet, sous quelque forme que ce soit.
+
+  
+**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
 
 14
 
@@ -307,11 +349,17 @@ Le Client autorise expressément Effency à le citer et à utiliser le cas éch�
 
 Le Contrat prend effet à la date d’acceptation des conditions générales définie à l’article 2, pour la durée nécessaire à l’exécution des Services concernés.
 
+  
+**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
+
 15
 
 ### Résolution pour manquement
 
 En cas de manquement par l’une des parties à l’une quelconque de ses obligations au titre du Contrat, celui-ci sera résolu de plein droit 15 (quinze) jours après réception par la partie défaillante d’une mise en demeure, restée sans effet, par lettre recommandée avec accusé de réception, mentionnant l’intention de faire application de la présente clause, sans préjudice de tous dommages et intérêts qui pourront être réclamés à la Partie défaillante.
+
+  
+**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
 
 16
 
@@ -402,7 +450,7 @@ team@effency.fr
 
 07 61 43 61 70
 
-[55 Rue la Boétie, 75008 Paris](https://goo.gl/maps/FG8v5keiCbHJXxig6)
+Paris
 
 [Linkedin](https://www.linkedin.com/company/effency/?originalSubdomain=fr) [Twitter](https://twitter.com/effency_) [Youtube](https://www.youtube.com/channel/UCYWqhJ3gFmZzDrNo0w4d-SQ)
 
