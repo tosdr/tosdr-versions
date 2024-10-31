@@ -78,7 +78,7 @@ Ok](https://www.emp-online.com/?forceThisShop=1)
     
 * [Brands](https://www.emp-online.com/clothing-brands/)
     
-* [Entertainment](https://www.emp-online.com/fan-merch/)
+* [Entertainment](https://www.emp-online.com/entertainment/)
     
 * [Lifestyle](https://www.emp-online.com/fun-lifestyle/homeware/)
     
@@ -319,7 +319,7 @@ Subscribe
 
 Our customer services are here for you
 
-Today our customer service is available from 9:00 AM am to 5:30 PM pm. [More Info](https://www.emp-online.com/contact)
+You can reach us by phone tomorrow from 9:00 AM until 5:30 PM on {2}. [More Info](https://www.emp-online.com/contact)
 
 Start chat
 
