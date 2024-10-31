@@ -14,7 +14,7 @@
     * [Why Mailbird?](https://www.getmailbird.com/why-choose-mailbird/)
     * [Community](https://www.facebook.com/groups/261799174696895)
     * [Early adopters](https://www.getmailbird.com/alpha-testers/)
-* free\_download
+* Get Mailbird Free
 *  [![Currently seeing the website in English](/assets/flagicons/flags/4x3/us.svg) English](https://www.getmailbird.com/license-agreement/ "English")
     * [![Switch to German](/assets/flagicons/flags/4x3/de.svg)German](https://www.getmailbird.com/de/license-agreement/ "German")
     * [![Switch to Spanish](/assets/flagicons/flags/4x3/es.svg)Spanish](https://www.getmailbird.com/es/license-agreement/ "Spanish")
