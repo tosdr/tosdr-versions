@@ -813,6 +813,7 @@ If you feel that we are not abiding by this privacy policy, or if you would like
         * [NYC to Connecticut](https://www.roadwaymoving.com/nyc-to-ct-movers/)
         * [NYC to Chicago](https://www.roadwaymoving.com/nyc-to-chicago-movers/)
         * [NYC to Los Angeles](https://www.roadwaymoving.com/nyc-to-la-movers/)
+        * [New York to Florida](https://www.roadwaymoving.com/ny-to-florida-movers/)
         * [NYC to Washington DC](https://www.roadwaymoving.com/nyc-to-washington-movers/)
         * [NYC to Texas](https://www.roadwaymoving.com/nyc-to-texas-movers/)
         * [Los Angeles to NYC](https://www.roadwaymoving.com/la-to-nyc-movers/)
