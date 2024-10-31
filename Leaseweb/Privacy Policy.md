@@ -1,7 +1,5 @@
 Skip to Header Skip to Main Content Skip to Footer
 
-[Prep for Peak Season with our Dedicated Server Sale! Shop sale](https://www.leaseweb.com/en/c/peak-season-sale-2024?utm_source=website&utm_medium=ribbon&utm_campaign=PeakSeasonSale&utm_content=Global)
-
 [Blog](https://blog.leaseweb.com/)[Knowledge Base](https://kb.leaseweb.com/)[Developer API](http://developer.leaseweb.com/)[Status](https://www.leasewebstatus.com/)[Customer Portal](https://secure.leaseweb.com/)
 
 [![](https://shop-api.leaseweb.com/medias/new-logo-2-.svg?context=bWFzdGVyfGltYWdlc3w0MDAzfGltYWdlL3N2Zyt4bWx8YUdaaEwyaGxNQzg0T1RZM09UWTNOak0zTlRNMEwyNWxkeTFzYjJkdklDZ3lLUzV6ZG1jfDg5Y2E5ZDY2NDRjYTc4NTBjNmU2NDNiMTg5NzJmZmVkNTIyZjNkYmM3Zjg0NTg1ZGZhZWVlZWZiMDI0OTk4Nzk)](https://www.leaseweb.com/en/)
