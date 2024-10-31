@@ -447,10 +447,14 @@ Hamburger Menu
     
     * Shop
         
-        [Shop all Education](https://www.lenovo.com/us/en/student/) [Students Discounts](https://www.lenovo.com/us/en/landingpage/students-and-teachers/) [Laptops by Major](https://www.lenovo.com/us/en/d/laptops-for-college/) [Laptops by Grade](https://www.lenovo.com/us/en/d/student-laptops/shop-by-grade/) [Need Help? Find Your PC](https://www.lenovo.com/us/en/pf/education/) [Student Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/students/) [Student Creator](https://www.lenovo.com/us/en/creator/pcs-for-digital-content-creators/)
+        [Shop all Education](https://www.lenovo.com/us/en/student/) [Students Discounts](https://www.lenovo.com/us/en/landingpage/students-and-teachers/) [Laptops by Major](https://www.lenovo.com/us/en/d/laptops-for-college/) [Laptops by Grade](https://www.lenovo.com/us/en/d/student-laptops/shop-by-grade/) [Student Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/students/)
+        
+        Quick Links
+        
+        [Need Help? Find Your PC](https://www.lenovo.com/us/en/pf/education/) [Lenovo EDU Community](https://education.lenovo.com/about) [Student Content Creators](https://www.lenovo.com/us/en/creator/pcs-for-digital-content-creators/) [Lenovo Internships](https://jobs.lenovo.com/en_US/careers/Internship#) [More in Education](https://www.lenovo.com/us/en/education/)
     * Best Selling Laptops
         
-        [ThinkPad X1 Carbon Gen 12](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-carbon-gen-12-14-inch-intel/len101t0083) [Legion Pro 5i Gaming](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-5-series/legion-pro-5i-gen-9-(16-inch-intel)/len101g0033) [Yoga 7 2-in-1](https://www.lenovo.com/us/en/p/laptops/yoga/yoga-2-in-1-series/lenovo-yoga-7-2-in-1-gen-9-(14-inch-amd)/len101y0046) [IdeaPad Pro 5i](https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-2-in-1-series/lenovo-ideapad-5i-2-in-1-gen-9-(14-inch-intel)/len101i0102) [ThinkBook 16 Gen 7](https://www.lenovo.com/us/en/p/laptops/thinkbook/thinkbook-series/lenovo-thinkbook-16-gen-7-16-inch-intel/len101b0045)
+        [Yoga 7 2-in-1](https://www.lenovo.com/us/en/p/laptops/yoga/yoga-2-in-1-series/lenovo-yoga-7-2-in-1-gen-9-(16-inch-amd)/len101y0045) [Legion Slim 5 Gen 9](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-slim-series-laptops/lenovo-legion-slim-5-gen-9-16-inch-amd/len101g0036) [IdeaPad 5 2-in-1](https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-2-in-1-series/lenovo-ideapad-5-2-in-1-gen-9-14-inch-amd/len101i0105) [LOQ with RTX 4050](https://www.lenovo.com/us/en/p/laptops/loq-laptops/lenovo-loq-15ahp9/len101q0008) [ThinkPad E16 Gen 1](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpade/thinkpad-e16-16-inch-intel/len101t0066) [ThinkPad X1 Carbon Gen 12](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-carbon-gen-12-14-inch-intel/len101t0083)
     
 * [Gaming](https://www.lenovo.com/us/en/gaming/store/)
     
@@ -463,7 +467,7 @@ Hamburger Menu
         
         Quick Links
         
-        [Legion Gaming Community](https://gaming.lenovo.com/us/) [Legion Ultimate Support](https://www.lenovo.com/us/en/legion-support/)
+        [Legion Gaming Community](https://gaming.lenovo.com/us/) [Legion Ultimate Support](https://www.lenovo.com/us/en/legion-support/) [Gaming Content Creators](https://www.lenovo.com/us/en/creator/pcs-for-digital-content-creators/) [More in Gaming](https://www.lenovo.com/us/en/gaming/)
     
 
 ![Lenovo](https://p3-ofp.static.pub/fes/cms/2023/03/22/8hjmcte754uauw07ypikjkjtx0m5ib450914.svg)
@@ -820,7 +824,7 @@ skip to main content
         [Legion Gaming](https://www.lenovo.com/us/en/legion) [LOQ Gaming](https://www.lenovo.com/us/en/c/lenovo-loq/?visibleDatas=1014%3ADesktops) [ThinkCentre](https://www.lenovo.com/us/en/c/desktops/thinkcentre/) [IdeaCentre](https://www.lenovo.com/us/en/c/desktops/ideacentre) [ThinkStation](https://www.lenovo.com/us/en/c/workstations/thinkstation-p-series)
     * Best Selling Desktops
         
-        [ThinkCentre Neo 50s Gen 4 (Intel)](https://www.lenovo.com/us/en/p/desktops/thinkcentre/thinkcentre-neo-series/thinkcentre-neo-50s-gen-4-intel-sff/len102c0031) [ThinkCentre M75q Gen2](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/thinkcentre-m75q-gen-2/11tc1mtm7g2) [ThinkCentre Neo 50a Gen 5 (24″ Intel) AIO](https://www.lenovo.com/us/en/p/desktops/thinkcentre/thinkcentre-neo-series/thinkcentre-neo-50a-gen-5-24-inch-intel/len102c0043) [ThinkCentre M70q Gen 4 Tiny (Intel)](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/thinkcentre-m70q-gen-4-tiny-(intel)/len102c0034) [IdeaCentre Mini (1L Intel) Desktop](https://www.lenovo.com/us/en/p/desktops/ideacentre/500-series/ideacentre-mini-gen-8-(1l-intel)/len102d0032) [Legion Tower 7i Gaming (Intel)](https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/legion-tower-7i-gen-8-(intel)/len102g0007) [ThinkCentre M90q Tiny (Intel)](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/lenovo-thinkcentre-m90q-gen-5-(intel)-tiny-pc/len102c0054)
+        [ThinkCentre Neo 50s Gen 4 (Intel)](https://www.lenovo.com/us/en/p/desktops/thinkcentre/thinkcentre-neo-series/thinkcentre-neo-50s-gen-4-intel-sff/len102c0031) [ThinkCentre M75q Gen2](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/thinkcentre-m75q-gen-2/11tc1mtm7g2) [ThinkCentre Neo 50a Gen 5 (24″ Intel) AIO](https://www.lenovo.com/us/en/p/desktops/thinkcentre/thinkcentre-neo-series/thinkcentre-neo-50a-gen-5-24-inch-intel/len102c0043) [ThinkCentre M70q Gen 5](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/lenovo-thinkcentre-m70q-gen-5-tiny-intel/len102c0052) [IdeaCentre Mini (1L Intel) Desktop](https://www.lenovo.com/us/en/p/desktops/ideacentre/500-series/ideacentre-mini-gen-8-(1l-intel)/len102d0032) [Legion Tower 7i Gaming (Intel)](https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/legion-tower-7i-gen-8-(intel)/len102g0007) [ThinkCentre M90q Tiny (Intel)](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/lenovo-thinkcentre-m90q-gen-5-(intel)-tiny-pc/len102c0054)
         
         Quick Links
         
