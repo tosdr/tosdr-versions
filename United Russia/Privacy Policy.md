@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![При поддержке «Единой России» в Сегеже в Карелии открыли Бульвар Поколений](https://cdn.er.ru/media/news/October2024/URRScSEXYC3Bt4zHBqOq-small.JPG)](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-v-segezhe-v-karelii-otkryli-bulvar-pokolenij)
+[![Владимир Якушев: При поддержке «Единой России» в бюджете заложено 180 миллиардов рублей на развитие комфортной горсреды](https://cdn.er.ru/media/news/October2024/2oZNJDyi6RwiSYW8ka0N-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-pri-podderzhke-edinoj-rossii-v-byudzhete-zalozheno-180-milliardov-rublej-na-razvitie-komfortnoj-gorsredy)
 
-[При поддержке «Единой России» в Сегеже в Карелии открыли Бульвар Поколений](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-v-segezhe-v-karelii-otkryli-bulvar-pokolenij)
+[Владимир Якушев: При поддержке «Единой России» в бюджете заложено 180 миллиардов рублей на развитие комфортной горсреды](https://er.ru/activity/news/vladimir-yakushev-pri-podderzhke-edinoj-rossii-v-byudzhete-zalozheno-180-milliardov-rublej-na-razvitie-komfortnoj-gorsredy)
 
-[#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Ересько](https://er.ru/activity/news?tags%5B0%5D=1093212) [#Республика Карелия](https://er.ru/activity/news?tags%5B0%5D=1090918) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ГородскаяСреда](https://er.ru/activity/news?tags%5B0%5D=1090022) [#бульвар](https://er.ru/activity/news?tags%5B0%5D=46939) [#благоустройство](https://er.ru/activity/news?tags%5B0%5D=3871) [#общественноепространство](https://er.ru/activity/news?tags%5B0%5D=112647)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Ересько](https://er.ru/activity/news?tags%5B0%5D=1093212) [#формированиекомфортнойгородскойсреды](https://er.ru/activity/news?tags%5B0%5D=144989) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#городскаясреда](https://er.ru/activity/news?tags%5B0%5D=122060) [#общественныепространства](https://er.ru/activity/news?tags%5B0%5D=122879) [#благоустройство](https://er.ru/activity/news?tags%5B0%5D=3871) [#памятники](https://er.ru/activity/news?tags%5B0%5D=330) [#дворы](https://er.ru/activity/news?tags%5B0%5D=3930) [#Минстрой](https://er.ru/activity/news?tags%5B0%5D=44979)
 
-30.10.24
+Сегодня 18:40
 
-[![Дарья Лантратова предложила масштабировать новгородский проект «Единой России» «Академия молодых политиков»](https://cdn.er.ru/media/news/October2024/hqvXTyF58KArlz9ULqFO-small.jpg)](https://er.ru/activity/news/darya-lantratova-predlozhila-masshtabirovat-novgorodskij-proekt-edinoj-rossii-akademiya-molodyh-politikov)
+[![Владимир Якушев высоко оценил проект по производству дронов «Тамбовский рой»](https://cdn.er.ru/media/news/October2024/jLHX7cZozW6LsuW7iaRB-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-vysoko-ocenil-proekt-po-proizvodstvu-dronov-tambovskij-roj)
 
-[Дарья Лантратова предложила масштабировать новгородский проект «Единой России» «Академия молодых политиков»](https://er.ru/activity/news/darya-lantratova-predlozhila-masshtabirovat-novgorodskij-proekt-edinoj-rossii-akademiya-molodyh-politikov)
+[Владимир Якушев высоко оценил проект по производству дронов «Тамбовский рой»](https://er.ru/activity/news/vladimir-yakushev-vysoko-ocenil-proekt-po-proizvodstvu-dronov-tambovskij-roj)
 
-[#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Святенко](https://er.ru/activity/news?tags%5B0%5D=44335) [#Тверская область](https://er.ru/activity/news?tags%5B0%5D=439) [#Новогородская область](https://er.ru/activity/news?tags%5B0%5D=122661) [#наставничество](https://er.ru/activity/news?tags%5B0%5D=72627) [#академия](https://er.ru/activity/news?tags%5B0%5D=4873) [#ВПШ](https://er.ru/activity/news?tags%5B0%5D=36818)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#Егоров](https://er.ru/activity/news?tags%5B0%5D=17445) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#БПЛА](https://er.ru/activity/news?tags%5B0%5D=1094194) [#производство](https://er.ru/activity/news?tags%5B0%5D=4516)
 
-30.10.24
+Сегодня 18:06
 
-[![«Молодая Гвардия Единой России» помогает устранять последствия обстрела жилых домов в Луганске](https://cdn.er.ru/media/news/October2024/CSYYmkafoOrCD9j20Oet-small.JPG)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-pomogaet-ustranyat-posledstviya-obstrela-zhilyh-domov-v-luganske)
+[![Алексей Ересько: Контроль «Единой России» за благоустройством общественных пространств и дворов улучшил качество работ на объектах](https://cdn.er.ru/media/news/October2024/IuHOOGRjDuxICsFgWgUL-small.jpg)](https://er.ru/activity/news/aleksej-eresko-kontrol-edinoj-rossii-za-blagoustrojstvom-obshestvennyh-prostranstv-i-dvorov-uluchshil-kachestvo-rabot-na-obektah)
 
-[«Молодая Гвардия Единой России» помогает устранять последствия обстрела жилых домов в Луганске](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-pomogaet-ustranyat-posledstviya-obstrela-zhilyh-domov-v-luganske)
+[Алексей Ересько: Контроль «Единой России» за благоустройством общественных пространств и дворов улучшил качество работ на объектах](https://er.ru/activity/news/aleksej-eresko-kontrol-edinoj-rossii-za-blagoustrojstvom-obshestvennyh-prostranstv-i-dvorov-uluchshil-kachestvo-rabot-na-obektah)
 
-[#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Голубович](https://er.ru/activity/news?tags%5B0%5D=1093502) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247) [#помощьпострадавшим](https://er.ru/activity/news?tags%5B0%5D=117504)
+[#Ересько](https://er.ru/activity/news?tags%5B0%5D=1093212) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ГородскаяСреда](https://er.ru/activity/news?tags%5B0%5D=1090022) [#формированиекомфортнойгородскойсреды](https://er.ru/activity/news?tags%5B0%5D=144989) [#ФКГС](https://er.ru/activity/news?tags%5B0%5D=121187) [#общественныепространства](https://er.ru/activity/news?tags%5B0%5D=122879) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-30.10.24
+Сегодня 16:55
 
-[![Владимир Якушев: «Единая Россия» вместе с Правительством завершают подготовку программы модернизации коммунальной инфраструктуры](https://cdn.er.ru/media/news/October2024/eqN3K2UWGJOIKAqFqsMf-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-vmeste-s-pravitelstvom-zavershayut-podgotovku-programmy-modernizacii-kommunalnoj-infrastruktury)
+[![Владимир Якушев: В Тамбовской области хорошо налажена работа с обращениями граждан](https://cdn.er.ru/media/news/October2024/KvsZD2L1xYPaTn2frc9x-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-v-tambovskoj-oblasti-horosho-nalazhena-rabota-s-obrasheniyami-grazhdan)
 
-[Владимир Якушев: «Единая Россия» вместе с Правительством завершают подготовку программы модернизации коммунальной инфраструктуры](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-vmeste-s-pravitelstvom-zavershayut-podgotovku-programmy-modernizacii-kommunalnoj-infrastruktury)
+[Владимир Якушев: В Тамбовской области хорошо налажена работа с обращениями граждан](https://er.ru/activity/news/vladimir-yakushev-v-tambovskoj-oblasti-horosho-nalazhena-rabota-s-obrasheniyami-grazhdan)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#модернизация](https://er.ru/activity/news?tags%5B0%5D=169) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#Егоров](https://er.ru/activity/news?tags%5B0%5D=17445) [#приемграждан](https://er.ru/activity/news?tags%5B0%5D=103849) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640)
 
-30.10.24
+Сегодня 16:51
 
-[![О рекомендациях Правительству при подготовке федерального бюджета. Статья Андрея Исаева](https://cdn.er.ru/media/news/October2024/MwDP5riSKuht8xvTN5XQ-small.JPG)](https://er.ru/activity/news/o-rekomendaciyah-pravitelstvu-pri-podgotovke-federalnogo-byudzheta-statya-andreya-isaeva)
+[![Александр Сидякин: Количество участников голосования «Единой России» и Минстроя за объекты благоустройства выросло в два раза](https://cdn.er.ru/media/news/October2024/2awVgynvhW1Xncos3a3a-small.jpg)](https://er.ru/activity/news/aleksandr-sidyakin-kolichestvo-uchastnikov-golosovaniya-edinoj-rossii-i-minstroya-za-obekty-blagoustrojstva-vyroslo-v-dva-raza)
 
-[О рекомендациях Правительству при подготовке федерального бюджета. Статья Андрея Исаева](https://er.ru/activity/news/o-rekomendaciyah-pravitelstvu-pri-podgotovke-federalnogo-byudzheta-statya-andreya-isaeva)
+[Александр Сидякин: Количество участников голосования «Единой России» и Минстроя за объекты благоустройства выросло в два раза](https://er.ru/activity/news/aleksandr-sidyakin-kolichestvo-uchastnikov-golosovaniya-edinoj-rossii-i-minstroya-za-obekty-blagoustrojstva-vyroslo-v-dva-raza)
 
-[#Исаев](https://er.ru/activity/news?tags%5B0%5D=113007) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#рекомендации](https://er.ru/activity/news?tags%5B0%5D=6026)
+[#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#формированиекомфортнойгородскойсреды](https://er.ru/activity/news?tags%5B0%5D=144989) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ГородскаяСреда](https://er.ru/activity/news?tags%5B0%5D=1090022) [#благоустройство](https://er.ru/activity/news?tags%5B0%5D=3871) [#общественныепространства](https://er.ru/activity/news?tags%5B0%5D=122879) [#дворы](https://er.ru/activity/news?tags%5B0%5D=3930) [#Минстрой](https://er.ru/activity/news?tags%5B0%5D=44979)
 
-30.10.24
+Сегодня 16:33
 
-[![«Единая Россия» и МГЕР наградили лучших волонтеров Подмосковья](https://cdn.er.ru/media/news/October2024/b45o1Iae68LrR0wv8Pjo-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-mger-nagradili-luchshih-volonterov-podmoskovya)
+[![«Единая Россия» проводит обсуждение положения о первичных отделениях партии в регионах](https://cdn.er.ru/media/news/October2024/qmmjNKWUC8HRqMcIHzzB-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provodit-obsuzhdenie-polozheniya-o-pervichnyh-otdeleniyah-partii-v-regionah)
 
-[«Единая Россия» и МГЕР наградили лучших волонтеров Подмосковья](https://er.ru/activity/news/edinaya-rossiya-i-mger-nagradili-luchshih-volonterov-podmoskovya)
+[«Единая Россия» проводит обсуждение положения о первичных отделениях партии в регионах](https://er.ru/activity/news/edinaya-rossiya-provodit-obsuzhdenie-polozheniya-o-pervichnyh-otdeleniyah-partii-v-regionah)
 
-[#Московская область](https://er.ru/activity/news?tags%5B0%5D=765) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Брынцалов](https://er.ru/activity/news?tags%5B0%5D=7786) [#Алумянц](https://er.ru/activity/news?tags%5B0%5D=111357) [#Деньдобровольца](https://er.ru/activity/news?tags%5B0%5D=142249) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#первички](https://er.ru/activity/news?tags%5B0%5D=127619) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123)
 
-30.10.24
+Сегодня 15:24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
