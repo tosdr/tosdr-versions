@@ -10,7 +10,7 @@ learn more
 
 plans and pricing
 
-[standard](https://keys.casa/standard)[premium](https://keys.casa/premium)[private client](https://keys.casa/private-client)[ENTERPRISE](http://contact.casa.io/institutional)[compare pricing](https://keys.casa/pricing)
+[standard](https://keys.casa/standard)[premium](https://keys.casa/premium)[private client](https://keys.casa/private-client)[ENTERPRISE](https://keys.casa/enterprise)[compare pricing](https://keys.casa/pricing)
 
 RESOURCES
 
