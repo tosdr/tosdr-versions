@@ -419,8 +419,6 @@ More Ways to Shop
 * [Pinterest Tempur-pedic Pinterest](https://www.pinterest.com/TempurPedic/ "Pinterest")
 * [Instagram Tempur-pedic Instagram](https://www.instagram.com/tempurpedic/ "Instagram")
 
-_+_ _For J.D. Power 2023 U.S. award information, visit_  [jdpower.com/awards](https://www.jdpower.com/business/ratings-and-awards)
-
 | At a joint press conference on May 6, 1998, NASA recognized Tempur-Pedic's outstanding achievements in adapting their original technology for everyday use and improving the quality of life for humankind.
 
 \* 2021-2023 Tempur Sealy Brand Tracker Surveys. Likelihood to Recommend was scored on a 0 to 10 scale and Tempur-Pedic had the highest proportion of 8, 9 or 10.
