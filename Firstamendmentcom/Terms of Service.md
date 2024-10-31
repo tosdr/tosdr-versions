@@ -164,15 +164,17 @@ Lawyers and free speech advocates. IP, gaming, adult, and First Amendment law.
 
 ![WaltersLawGroup](https://pbs.twimg.com/profile_images/1639690830/40482_141262409241305_114671631900383_269027_5869480_n_normal.jpg)](https://twitter.com/WaltersLawGroup/ "@WaltersLawGroup")
 
-[![walterslawgroup](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2048%2048'%3E%3C/svg%3E)
+[Retweet on Twitter](https://twitter.com/intent/user?screen_name=WaltersLawGroup) [Walters Law Group Retweeted](https://twitter.com/walterslawgroup)
 
-![walterslawgroup](https://pbs.twimg.com/profile_images/1639690830/40482_141262409241305_114671631900383_269027_5869480_n_normal.jpg)](https://twitter.com/walterslawgroup)[Walters Law Group](https://twitter.com/walterslawgroup) [@walterslawgroup](https://twitter.com/walterslawgroup) ·
+[![myadultattorney](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2048%2048'%3E%3C/svg%3E)
 
-[18 Oct](https://twitter.com/walterslawgroup/status/1847088128072270200)
+![myadultattorney](https://pbs.twimg.com/profile_images/713488698357248000/QrY7LxXt_normal.jpg)](https://twitter.com/myadultattorney)[Corey D. Silverstein, Esq.](https://twitter.com/myadultattorney) [@myadultattorney](https://twitter.com/myadultattorney) ·
 
-French Court Orders Block of Adult Sites
+[17h](https://twitter.com/myadultattorney/status/1851762989990547644)
 
-[Reply on Twitter 1847088128072270200](https://twitter.com/intent/tweet?in_reply_to=1847088128072270200&related=walterslawgroup) [Retweet on Twitter 1847088128072270200 1](https://twitter.com/intent/retweet?tweet_id=1847088128072270200&related=walterslawgroup) [Like on Twitter 1847088128072270200](https://twitter.com/intent/like?tweet_id=1847088128072270200&related=walterslawgroup) [Twitter 1847088128072270200](https://twitter.com/walterslawgroup/status/1847088128072270200)
+We are about to have a new US President! So get your ticket to my newest legal impact webinar, sponsored by and join @WaltersLawGroup , @SavannahSly, @AlisonBodenFSC, @TheClaraKitty and I on November 12th at 4 PM EST here: https://www.eventbrite.com/e/we-have-a-new-us-president-legal-and-community-implications-tickets-1061785191089
+
+[Reply on Twitter 1851762989990547644](https://twitter.com/intent/tweet?in_reply_to=1851762989990547644&related=myadultattorney) [Retweet on Twitter 1851762989990547644 2](https://twitter.com/intent/retweet?tweet_id=1851762989990547644&related=myadultattorney) [Like on Twitter 1851762989990547644 5](https://twitter.com/intent/like?tweet_id=1851762989990547644&related=myadultattorney) [Twitter 1851762989990547644](https://twitter.com/myadultattorney/status/1851762989990547644)
 
 [Load More](javascript:void(0);)
 
