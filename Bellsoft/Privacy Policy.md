@@ -256,6 +256,34 @@ I agree with [Terms](https://bell-sw.com/terms-of-use/) and [Privacy](https://be
 
 Contact us
 
+Request Liberica JDK Performance Edition for Testing!
+
+Fill out the form below to request binaries of Liberica JDK Performance Edition for testing.
+
+Full Name \*
+
+Work Email \*
+
+Company
+
+Phone Number
+
+Select Type
+
+Choose JDK Version
+
+Choose Architecture
+
+Select Library
+
+Select Package
+
+Request Demo
+
+I agree with [Terms](https://bell-sw.com/terms-of-use/) and [Privacy](https://bell-sw.com/privacy-policy/)
+
+\* Required field.
+
 Contact sales
 
 ##### Get in touch with our sales managers to get the best offer on support.
