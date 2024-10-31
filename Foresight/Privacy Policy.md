@@ -14,14 +14,13 @@ Popular products
 * [See all templates, courses, and services](https://foresight.is/products/)
 
 * [78k+ Downloads](https://foresight.is/users/)
-* [Updates 7](#)
+* [Updates 6](#)
     
     * [Changelog](https://foresight.is/changelog/)
     * [New manual portfolio construction method](https://foresight.is/changelog/#2024-10-29-manual-venture-capital)
     * [Last Cap Table Masterclass cohort for 2024](https://foresight.is/changelog/#2024-10-17-nov-2024-masterclass)
     * [Ecommerce Forecasting Tool, now with Cohorts](https://foresight.is/changelog/#2024-10-17-ecommerce-cohorts)
     * [Standard Financial Model](https://foresight.is/changelog/#2024-10-16-standard-standard)
-    * [Read 1 more update >](https://foresight.is/changelog/)
     * [Docs](https://foresight.is/docs/)
     * [Cohorts](https://foresight.is/docs/cohort-modeling/)
     * [Virality](https://foresight.is/docs/virality/)
@@ -54,7 +53,7 @@ Close
 
 [Templates](https://foresight.is/templates) [Courses](https://foresight.is/courses) [Services](https://foresight.is/services)
 
-[About](https://foresight.is/hello/) [78k+ Downloads](https://foresight.is/users/) [Blog](https://foresight.is/blog/) [Changelog 4](https://foresight.is/changelog/) [Documentation 2](https://foresight.is/docs/) [Help](https://foresight.is/help/) [Talent](https://foresight.is/talent/) [Contact](https://foresight.is/contact/) [Home](https://foresight.is/)
+[About](https://foresight.is/hello/) [78k+ Downloads](https://foresight.is/users/) [Blog](https://foresight.is/blog/) [Changelog 3](https://foresight.is/changelog/) [Documentation 1](https://foresight.is/docs/) [Help](https://foresight.is/help/) [Talent](https://foresight.is/talent/) [Contact](https://foresight.is/contact/) [Home](https://foresight.is/)
 
 [Legal](https://foresight.is/legal/)
 
@@ -85,7 +84,7 @@ How this site collects and uses data [#](#how-this-site-collects-and-uses-data)
 
 This site uses a few services to manage this site and its services:
 
-* Purchases and Downloads. We use Gumroad to process purchases, downloads, and transactions, including taking payment for the products sold through this site. All transactions are processed through Gumroad, and no payment details are stored by us. All of your payment information is tokenized and encrypted in a PCI compliant ecosystem through Gumroad, and you can learn more what that means [here](https://customers.gumroad.com/article/189-safe-gumroad-buying.html). We also use Gumroad to send emails, including your receipts and invoices, and updates on your product. Gumroad stores our customer lists, and our records of who has downloaded or purchased which products. Any information Gumroad collects when you visit my site is not available to me, and you can contact Gumroad to view or delete any information that they have. You can contact me to request details of the information I have available to me about you on Gumroad, which is limited to the information you provided at download or purchase. You are not required to create an account to purchase. I am able to delete records of free transactions. I am required to store records of your paid transactions to be able to offer you ongoing downloads of the products you purchase.
+* Purchases and Downloads. We use Gumroad to process purchases, downloads, and transactions, including taking payment for the products sold through this site. All transactions are processed through Gumroad, and no payment details are stored by us. All of your payment information is tokenized and encrypted in a PCI compliant ecosystem through Gumroad. We also use Gumroad to send emails, including your receipts and invoices, and updates on your product. Gumroad stores our customer lists, and our records of who has downloaded or purchased which products. Any information Gumroad collects when you visit my site is not available to me, and you can contact Gumroad to view or delete any information that they have. You can contact me to request details of the information I have available to me about you on Gumroad, which is limited to the information you provided at download or purchase. You are not required to create an account to purchase. I am able to delete records of free transactions. I am required to store records of your paid transactions to be able to offer you ongoing downloads of the products you purchase.
 * Email collection forms. I use Netlify to collect to collect email addresses through the signup forms on this site, and if you submit your email address on this site, it will be added to my list to send you emails from time to time. I do not sell or share your email addresses or any personal information about you. I use EmailOctopus to send emails to the email addresses collected through the signup forms powered by Netlify on this site. You may unsubscribe or edit your profile, via the link in any email, or [contact me](https://foresight.is/hello/) anytime.
 * Mailing list. We currently use Gumroad for our mailing list and email newsletters, and if you submit your email address on this site, it will be added to my list to send you emails from time to time. You may unsubscribe from emails sent through Gumroad by clicking on the unsubscribe link in any email or editing your settings on [Gumroad](https://gumroad.com/settings). You can also [contact me](https://foresight.is/contact/) anytime.
 * Analytics. I use Fathom Analytics to understand the usage of this website. This data is collected in a GDPR-compliant way and I cannot access or use this information in any personally-identifiable way.
