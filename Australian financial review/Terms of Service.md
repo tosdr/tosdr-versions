@@ -334,15 +334,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![The Eumundi portfolio includes the Plough Inn on Brisbane’s South Bank.](https://static.ffx.io/images/$zoom_0.2773%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_100/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/26bc6451e094abef2cb014084e06dc308729ad5c)](https://www.afr.com/property/commercial/rich-lister-nick-politis-lobs-77m-takeover-bid-for-qld-pub-owner-20241030-p5kmj3)
+[![ ](https://static.ffx.io/images/$zoom_0.1546%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/eb02abf38a59856ad0b356454e7e0c8e4d8edcf8)](https://www.afr.com/property/commercial/property-downturn-nips-into-walker-group-profit-20241030-p5kmqb)
 
-### [Rich Lister Nick Politis lobs $77m takeover bid for Qld pub owner](https://www.afr.com/property/commercial/rich-lister-nick-politis-lobs-77m-takeover-bid-for-qld-pub-owner-20241030-p5kmj3)
+### [Property downturn nips into Walker Group profit](https://www.afr.com/property/commercial/property-downturn-nips-into-walker-group-profit-20241030-p5kmqb)
 
-* Larry Schlesinger
+* 12 mins ago
 
-* ### [Travel surge cements Young Rich Lister’s new billionaire status](https://www.afr.com/young-rich/travel-surge-cements-young-rich-lister-s-new-billionaire-status-20241030-p5kmiu)
+* ### [Rich Lister Nick Politis lobs $77m takeover bid for Qld pub owner](https://www.afr.com/property/commercial/rich-lister-nick-politis-lobs-77m-takeover-bid-for-qld-pub-owner-20241030-p5kmj3)
     
-* ### [Packer in $120m payday as big bets on Nvidia, Meta pay off](https://www.afr.com/companies/media-and-marketing/packer-in-120m-payday-as-big-bets-on-nvidia-meta-pay-off-20241028-p5km2p)
+* ### [Travel surge cements Young Rich Lister’s new billionaire status](https://www.afr.com/young-rich/travel-surge-cements-young-rich-lister-s-new-billionaire-status-20241030-p5kmiu)
     
 
 [The Australian Financial Review](https://www.afr.com/)
