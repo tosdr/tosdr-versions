@@ -71,6 +71,7 @@ ABOUT US
 * [Our Blog](https://www.aspiration.com/resources)
 * [Press](https://www.aspiration.com/press)
 * [Mission Financial Partners](https://www.aspiration.com/mission-financial-partners)
+* [Partner with Us](https://www.aspiration.com/partners)
 
 LEGAL
 
