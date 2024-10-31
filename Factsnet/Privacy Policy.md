@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![35 Facts About The History Of Technology ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22104%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/technology/35-facts-about-the-history-of-technology/)
+[![26 Facts About Rapid Prototyping ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/tech-and-sciences/26-facts-about-rapid-prototyping/)
 
-Technology
+Tech & Sciences
 
-30 Oct 2024
+31 Oct 2024
 
-[35 Facts About The History Of Technology](https://facts.net/science/technology/35-facts-about-the-history-of-technology/)
+[26 Facts About Rapid Prototyping](https://facts.net/tech-and-sciences/26-facts-about-rapid-prototyping/)
 
-[![15 Facts About The Benefits Of Mindfulness ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/15-facts-about-the-benefits-of-mindfulness/)
+[![35 Facts About The Power Of Dreams ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22115%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/psychology/35-facts-about-the-power-of-dreams/)
 
-Fitness & Wellbeing
+Psychology
 
-30 Oct 2024
+31 Oct 2024
 
-[15 Facts About The Benefits Of Mindfulness](https://facts.net/fitness-and-wellbeing/15-facts-about-the-benefits-of-mindfulness/)
+[35 Facts About The Power Of Dreams](https://facts.net/fitness-and-wellbeing/psychology/35-facts-about-the-power-of-dreams/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
@@ -478,7 +478,6 @@ If you have questions or comments about this policy, email us at **contact@facts
 * [Privacy Policy](https://facts.net/privacy-policy/)
 * [Submit Facts](https://facts.net/fact-submission-page/)
 * [More Facts](https://facts.net/more-category/)
-* [Shop Facts.net Merchandise](https://shop.facts.net/)
 * [🇩🇪 Fakten auf Deutsch](https://de.facts.net/)
 * [🇫🇷 Faits en français](https://fr.facts.net/)
 * [🇪🇸 Hechos en Español](https://es.facts.net/)
