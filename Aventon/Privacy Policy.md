@@ -79,7 +79,7 @@ YOUR OFFERS
         
     * ![Abound SR Cobalt SKUs: 1E054-0023803](//www.aventon.com/cdn/shop/files/01_Abound-SR_Cobalt-Blue_Side_1-bike.jpg?v=1726696006&width=288)
         
-        Cargo NEW
+        Cargo & Utility NEW
         
         Hauls what most won’t.
         
@@ -396,7 +396,7 @@ Open menu
         Saddle up with ease.](https://www.aventon.com/collections/step-through-electric-bike)
     * [![Abound SR Cobalt SKUs: 1E054-0023803](//www.aventon.com/cdn/shop/files/01_Abound-SR_Cobalt-Blue_Side_1-bike.jpg?v=1726696006&width=288)
         
-        Cargo NEW
+        Cargo & Utility NEW
         
         Hauls what most won’t.](https://www.aventon.com/collections/cargo-ebikes)
     * [![Light weight ebike](//www.aventon.com/cdn/shop/files/light-weight-ebike-nav.jpg?v=1692137504&width=288)
