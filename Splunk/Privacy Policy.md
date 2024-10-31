@@ -208,8 +208,6 @@ false
         
     * [Cisco + Splunk](https://www.splunk.com/en_us/cisco-splunk-better-together.html)
         
-    * [AppDynamics joins Splunk](https://www.splunk.com/en_us/appdynamics-joins-splunk.html)
-        
     
 * [Resources](#)
     
@@ -570,8 +568,6 @@ Better Together
 [Customer Success](https://www.splunk.com/en_us/customer-success.html)
 
 [Cisco + Splunk](https://www.splunk.com/en_us/cisco-splunk-better-together.html)
-
-[AppDynamics joins Splunk](https://www.splunk.com/en_us/appdynamics-joins-splunk.html)
 
 ![header-resources](/content/dam/splunk2/en_us/images/icon-library/navigation/header-resources.svg)
 
@@ -1081,7 +1077,7 @@ Our Offerings may contain links to, or facilitate access to, other websites or o
 * For App Developers listed on [Splunkbase](https://splunkbase.splunk.com/)
 * For other marketplaces where Splunk Apps may be found
 * For [industry content providers](https://www.splunk.com/en_us/resources.html) (such as providers of research, white papers, etc.)
-* For [industry award providers](https://www.splunk.com/en_us/about-us/awards.htmlrds) (such as those listed on Splunk.com)
+* For [industry award providers](https://www.splunk.com/en_us/about-us/awards.html) (such as those listed on Splunk.com)
 * For other resources (such as source code repositories, sample data sources, customers, etc.) mentioned in [blogs and press releases](https://www.splunk.com/en_us/newsroom.html)
 * For other providers, sponsors, or speakers at [events](https://www.splunk.com/en_us/about-us/events.html) in which Splunk is involved
 * For social media platform providers (such as [Twitter](https://twitter.com/en/privacy), [GitHub](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement/), [Twitch](https://www.twitch.tv/p/legal/privacy-notice/), [LinkedIn](https://www.linkedin.com/legal/privacy-policy), [YouTube](https://policies.google.com/privacy?hl=en), or [Facebook](https://www.facebook.com/about/privacy))
