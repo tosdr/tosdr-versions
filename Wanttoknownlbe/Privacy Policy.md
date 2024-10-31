@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/mind-control-bij-jeugdzorg-en-het-onderwijssysteem/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/geheimen-uit-ons-universum-2/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
