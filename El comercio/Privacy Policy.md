@@ -31,912 +31,928 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-En el feriado de Difuntos habrá operativos con 52 786 policías
-==============================================================
-
-El feriado de Difuntos tendrá un despliegue policial en vías, cementerios, eventos, etc.
-----------------------------------------------------------------------------------------
-
-![Policías en Salitre, durante la entrega de vehículos para la institución.](https://www.elcomercio.com/wp-content/uploads/2024/10/policias-feriado.jpg)
-
-La **Policía Nacional** desplegará efectivos en Ecuador por los cinco días del feriado de Difuntos e **Independencia de Cuenca**.
-
-Las autoridades de la institución dieron detalles sobre las acciones para la **seguridad** de la comunidad y los **turistas**.
-
-### Más noticias
-
-* [Cortes de luz se suspenden en ciertos sectores de Cuenca durante el feriado](https://www.elcomercio.com/actualidad/cuenca/cuenca-cortes-luz-sectores-feriado.html "Cortes de luz se suspenden en ciertos sectores de Cuenca durante el feriado")
-* [Horarios del transporte público y revisión vehicular en Quito por el feriado](https://www.elcomercio.com/actualidad/quito/feriado-quito-metro-trole-ecovia-revision-vehicular.html "Horarios del transporte público y revisión vehicular en Quito por el feriado")
-* [Así funcionará el Metro de Quito durante el feriado](https://www.elcomercio.com/actualidad/quito/asi-funcionara-metro-de-quito-durante-feriado.html "Así funcionará el Metro de Quito durante el feriado")
-
-Operativos de seguridad en el feriado de Difuntos
--------------------------------------------------
-
-El dispositivo de seguridad empezó a las 12:00 de este miércoles, 30 de octubre, y se extenderá hasta las 06:00 del martes, 5 de noviembre de 2024.
-
-El general de Distrito, Freddy Goyes, detalló que **52 786 servidores policiales** estarán desplegados en Ecuador, sobre todo, en ciudades con mayor afluencia.
-
-En el equipo policial estarán **7659 efectivos** del área investigativa, 1964 de inteligencia y 43 163 de la sección preventiva, así como 32 170 de seguridad ciudadana, entre otros.
-
-Playas, iglesias, cementerios y ejes viales son puntos que tendrán refuerzos durante el feriado. A la presencia policial se suma equipos, como motocicletas, aeronaves y ambulancias.
-
-Puntos de cuidado
------------------
-
-Guayaquil, Quito, Cuenca y Machala están entre los sitios con mayor número de eventos, como ferias y conciertos.
-
-En esos y otros lugares habrá operativos focalizados y antidelincuenciales. La Policía también brindará el servicio de traslado de valores y el cuidado de domicilio, a través del denominado botón de seguridad.
-
-El general **Henry Tapia**, comandante del Distrito Metropolitano de Quito, señaló que los operativos están coordinados con el Ecu 911, Secretaría de Gestión de Riesgos, Agencia Metropolitana de Tránsito, Agencia Nacional de Tránsito, entre otras instancias.
-
-En el caso de Quito, los policías estarán con énfasis en ejes viales, centros comerciales, cementerios e iglesias. En estos espacios se desplegarán 800 servidores.
-
-Cuenca apunta superar el 90% de ocupación hotelera en feriado de Difuntos e Independencia
-=========================================================================================
-
-El feriado de Difuntos e Independencia de Cuenca se prevé como impulso al turismo.
-----------------------------------------------------------------------------------
-
-![Cuenca tiene sitios turísticos, como edificaciones históricas.](https://www.elcomercio.com/wp-content/uploads/2024/10/cuenca-2.jpg)
-
-**Cuenca** tiene doble motivación para visitar en los cinco días de descanso, del 31 de octubre al 4 de noviembre de 2024. Se trata del feriado de difuntos y por la Independencia de la ciudad[.](https://es.wikipedia.org/wiki/Cuenca_(Ecuador))
-
-Hay eventos y la ocupación hotelera ya empieza a despuntar, a puertas del período de asueto. Este incluye un día adicional definido por el **Gobierno**.
-
-### Más noticias
-
-* [Quito envía un mensaje a sus vecinos para el feriado](https://www.elcomercio.com/opinion/editorial/quito-envia-mensaje-sus-hijos-feriado-turismo.html "Quito envía un mensaje a sus vecinos para el feriado")
-* [Cortes de luz se suspenden en ciertos sectores de Cuenca durante el feriado](https://www.elcomercio.com/actualidad/cuenca/cuenca-cortes-luz-sectores-feriado.html "Cortes de luz se suspenden en ciertos sectores de Cuenca durante el feriado")
-* [Cuenca tiene dos momentos para proyectar su economía y cultura](https://www.elcomercio.com/opinion/editorial/cuenca-tiene-momentos-proyectar-economia-cultura.html "Cuenca tiene dos momentos para proyectar su economía y cultura")
-
-Cuenca y el turismo por el feriado de Difuntos
-----------------------------------------------
-
-Los cortes de luz se suspendieron en sectores turísticos, como el **Centro Histórico**. A la par, en los lugares en donde se organizan 57 eventos especiales por las festividades de Difuntos e **Independencia de Cuenca**.
-
-Los **cortes de luz** se mantendrán en el resto de la ciudad, de acuerdo con el cronograma establecido por **Centrosur**.
-
-Los **apagones** serán de seis y 14 horas en los días del feriado, en dos y tres franjas horarias.
-
-> ¡Listos para brindarte seguridad en este feriado, donde [#CuencaLoTieneTodo](https://twitter.com/hashtag/CuencaLoTieneTodo?src=hash&ref_src=twsrc%5Etfw)! ❤️💛  
->   
-> Te presentamos el Plan de Contingencia que se ejecutará durante el feriado por los 204 años de Independencia de Cuenca.  
->   
-> Disfrutamos de Cuenca siendo [#LaCiudadMásSeguraDelPaís](https://twitter.com/hashtag/LaCiudadM%C3%A1sSeguraDelPa%C3%ADs?src=hash&ref_src=twsrc%5Etfw) 🇪🇨 [pic.twitter.com/NaQgM3Hcki](https://t.co/NaQgM3Hcki)
-> 
-> — Municipio Cuenca (@MunicipioCuenca) [October 29, 2024](https://twitter.com/MunicipioCuenca/status/1851350970170474981?ref_src=twsrc%5Etfw)
-
-Las acciones para impulsar el turismo
--------------------------------------
-
-**Juan Pablo Vanegas**, presidente de la **Cámara de Turismo del Azuay**, informó que para el viernes y sábado, el sector hotelero ya completó el 65% de reservas confirmadas.
-
-**Cuenca** cuenta con 360 hoteles, que incluyen **10 000 plazas**. Según el directivo, el sector le apunta a, incluso, superar el 90% de la ocupación en los establecimientos.
-
-El gremio del turismo trabaja de la mano con la **Policía** para generar protocolos de seguridad y reactivar las visitas. Esto no únicamente por el feriado de difuntos y la Independencia de **Cuenca**.
-
-No obstante, para los días de descanso hay un plan de contingencia, que incluye **253 guardias ciudadanos**, equipados con equipos tecnológicos.
-
-Las fiestas de Independencia de Cuenca
---------------------------------------
-
-La [agenda](https://www.cuenca.gob.ec/sites/default/files/archivos/agenda_noviembre_2024.pdf?fbclid=IwY2xjawGDkDBleHRuA2FlbQIxMAABHVBqw4VuK-3dknwA6gXFTd-gA2CojZXt8qw4Rdb0TDjw2rD0m_v2U6KtSg_aem_Ncjx5sc2TBXaH884oprdNA) de festividades por la Independencia de **Cuenta** incluye actividades artísticas y culturales. Esta empezó el 22 de octubre y se extenderá más allá del feriado, hasta el 5 de diciembre.
-
-Hasta el 10 de noviembre, los visitantes y moradores de la capital azuaya podrán recorrer la ruta de la **colada morada**. Esta es por los mercados de la ciudad: 27 de Febrero, 12 de Abril, 10 de Agosto, 9 de Octubre, 3 de Noviembre, 4 de Noviembre y El Arenal.
-
-ANT anunció cómo atenderá el jueves 31 de octubre
-=================================================
-
-Agencia Nacional de Tránsito (ANT) detalló cómo serán los horarios de atención al público durante el feriado extraordinario.
-----------------------------------------------------------------------------------------------------------------------------
-
-![La ANT se encarga de regular el transporte terrestre, tránsito y seguridad vial en Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/10/atencion-feriado-ant.jpg)
-
-La Agencia Nacional de Tránsito (**ANT**) informó cómo atenderá este jueves 31 de octubre de 2024, día en el que se celebrará un **feriado** extraordinario a nivel nacional.
-
-### Más noticias
-
-* [¿Desde cuándo comienza el feriado en Ecuador?](https://www.elcomercio.com/actualidad/ecuador/desde-cuando-comienza-el-feriado-ecuador.html "¿Desde cuándo comienza el feriado en Ecuador?")
-* [Así será la atención en los bancos durante el feriado de cinco días](https://www.elcomercio.com/actualidad/negocios/asi-sera-atencion-bancos-feriado-cinco-dias.html "Así será la atención en los bancos durante el feriado de cinco días")
-* [Quito envía un mensaje a sus vecinos para el feriado](https://www.elcomercio.com/opinion/editorial/quito-envia-mensaje-sus-hijos-feriado-turismo.html "Quito envía un mensaje a sus vecinos para el feriado")
-
-El asueto extraordinario fue decretado por el presidente Daniel Noboa con **carácter** obligatorio tanto para los **trabajadores** públicos como privados.
-
-El objetivo de este descanso es “fortalecer la actividad **económica** y beneficiar al sector **turístico**“, señaló Presidencia[.](https://www.ant.gob.ec/ "https://www.ant.gob.ec/")
-
-Así, el 31 de octubre se suma a los feriados de **Difuntos e independencia de Cuenca**, que se festejan entre el viernes 1, sábado 2, domingo 3 y lunes 4 de noviembre.
-
-El **feriado extraordinario** será recuperable, mientras que los otros dos no lo serán.
-
-Atención en agencias de la ANT
-------------------------------
-
-La ANT Informamos a la ciudadanía que, este jueves 31 de octubre, atenderá con **normalidad** en todas las **agencias a nivel nacional**.
-
-Sin embargo, la entidad detalló que debido a los **cortes de luz**, cada agencia tendrá horarios distintos. Por ello, recomendó “revisar la programación de apagones para evitar movilizaciones y esperas innecesarias”.
-
-La atención se realizará para los ciudadanos que previamente **agendaron sus turnos**, y para aquellos que no fueron recibidos por apagones programados.
-
-Los turnos deben ser **impresos** y no se requiere agendar una **segunda vez** las citas, aclaró la ANT.
-
-Pico y placa durante el feriado
--------------------------------
-
-Durante los cinco días de feriado, entre el jueves 31 de octubre al lunes 4 de noviembre, la medida del **Pico y placa** no aplicará en el Distrito Metropolitano de Quito.
-
-Esta medida de restricción vehicular se implementa los cinco días a la semana, de **lunes a viernes**, de **06:00 a 09:30** y de **16:00 a 20:00**.
-
-Según el **último dígito de la placa**, el cronograma es el siguiente:
-
-* **Lunes:** placas terminadas en 1 y 2.
-* **Martes**: placas terminadas en 3 y 4.
-* **Miércoles**: placas terminadas en 5 y 6.
-* **Jueves**: placas terminadas en 7 y 8.
-* **Viernes:** placas terminadas en 9 y 0.
-
-> 📄 COMUNICADO | Informamos a la ciudadanía que, este jueves 31 de octubre atenderemos con normalidad en todas nuestras agencias a nivel nacional.[#LaNuevaANTEnAcción](https://twitter.com/hashtag/LaNuevaANTEnAcci%C3%B3n?src=hash&ref_src=twsrc%5Etfw)[#ElNuevoEcuadorResuelve](https://twitter.com/hashtag/ElNuevoEcuadorResuelve?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/XiJSKVuBZb](https://t.co/XiJSKVuBZb)
-> 
-> — ANT Ecuador (@ANT\_ECUADOR) [October 30, 2024](https://twitter.com/ANT_ECUADOR/status/1851620289148301501?ref_src=twsrc%5Etfw)
-
-España decreta tres días de luto oficial por la DANA en Valencia que deja 70 fallecidos
-=======================================================================================
-
-Ministro de Política Territorial advierte a los ciudadanos que residen zonas hacia donde avanza el temporal a no salir de sus casas.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![Vehículos amontonados en una calle tras las intensas lluvias de la fuerte dana que afecta especialmente el sur y el este de la península ibérica, este miércoles en Sedaví (Valencia).](https://www.elcomercio.com/wp-content/uploads/2024/10/dana-espana-efe-autos.jpg)
-
-El Gobierno español, que elevó a **70 la cifra de** fallecidos por la Depresión Aislada en Niveles Altos [(DANA)](https://www.elcomercio.com/actualidad/mundo/ya-son-62-los-fallecidos-por-inundaciones-en-valencia-espana.html "https://www.elcomercio.com/actualidad/mundo/ya-son-62-los-fallecidos-por-inundaciones-en-valencia-espana.html") decidió decretar **tres días de luto oficial** por la tragedia provocada por este fenómeno meteorológico. Además, el Consejo de Ministros aprobará la declaración de zona catastrófica para las áreas afectadas.
-
-### Más noticias
-
-* [¿Qué significa DANA el fenómeno que impactó a Valencia?](https://www.elcomercio.com/actualidad/mundo/significa-dana-fenomeno-impacto-valencia.html "¿Qué significa DANA el fenómeno que impactó a Valencia?")
-* [Ya son 62 los fallecidos por las inundaciones en Valencia, España](https://www.elcomercio.com/actualidad/mundo/ya-son-62-los-fallecidos-por-inundaciones-en-valencia-espana.html "Ya son 62 los fallecidos por las inundaciones en Valencia, España")
-* [Torrenciales lluvias en España dejan muertos, desaparecidos e inundaciones](https://www.elcomercio.com/actualidad/torrenciales-lluvias-en-espana-dejan-muertos-desaparecidos-e-inundaciones.html "Torrenciales lluvias en España dejan muertos, desaparecidos e inundaciones")
-
-Así lo anunció el **ministro de Política Territorial, Angel Víctor Torres,** a la vez que adelantó que el presidente del Gobierno, **Pedro Sánchez,** visitará mañana Valencia (este).
-
- Torres instó a los ciudadanos que residen en las zonas hacia donde avanza el temporal a **no salir de sus casas** y **no utilizar las carreteras**, muchas de las cuales están cortadas y anegadas, según un primer balance que hizo el **comité de crisis** activado en Moncloa (Presidencia) y del cual dio cuenta el ministro en una rueda de prensa este miércoles.
-
-El jefe del Ejecutivo presidió la **segunda reunión del comité de crisis** para el seguimiento de los efectos de la dana y el titular de Política Territorial. Afirmó además que el Ejecutivo no puede dar datos de **personas desaparecidas**, eludió en todo momento **responder a las críticas vertidas** por la oposición, si bien ha avisado que habrá tiempo para ello.
-
-Torres informó de que Sánchez habló este mediodía con el rey para decretar luto en todo el país mañana y los días 1 y 2 de noviembre, algo que también habló con los **presidentes regionales valenciano,** Carlos Mazón, y castellanomanchego, Emiliano García Page.
-
-Europa se solidariza con España
--------------------------------
-
-“**Europa está lista para ayudar**“, dijo este miércoles, 30 de octubre de 2024, la presidenta de la Comisión Europea, **Ursula von der Leyen**, quien ofreció a España activar el **mecanismo de protección civil** de la UE, bajo el que se ampara la ayuda que pueden proporcionar otros países de la UE.
-
-“Lo que **estamos viendo es devastador.** Localidades enteras están cubiertas de barro, la gente está buscando refugio en árboles y coches han sido barridos por la furia de las aguas”, recordó Von der Leyen.
-
-El presidente del Consejo Europeo, Charles Michel, aseguró que la Unión Europea “está lista para brindar su apoyo” a España y la **presidenta del Parlamento Europeo, Roberta Metsola,** también dijo que “Europa está dispuesta a ayudar” ante las “catastróficas” consecuencias de las inundaciones en el sur y este del país.
-
-Apoyo de Alemania
------------------
-
-El canciller alemán, Olaf Scholz, dijo a través de la **redes sociales que su gobierno estaba “en diálogo** con el gobierno español sobre posibles ayudas”, lo que fue corroborado por su ministra de Asuntos Exteriores, Annalena Baerbock.
-
-“Los arroyos se convierten en torrentes, la **gente pierde su casa,** algunos incluso la vida. Nuestros pensamientos están con nuestros amigos españoles afectados por las devastadoras inundaciones, Europa se mantiene unida. **Alemania está dispuesta a ayudar en lo que sea necesario**“, dijo la ministra.
-
-El primer ministro de Portugal, el conservador Luís Montenegro, expresó su solidaridad con España y ofreció “toda la ayuda necesaria”.
-
-Apoyo del Gobierno de Portugal
-------------------------------
-
-“El Gobierno portugués expresa el **mayor pesar por el elevado número de víctimas** de las inundaciones registrado en España, muestra solidaridad a todo el pueblo español y al Gobierno y está dispuesto para toda la ayuda necesaria”, escribió el jefe del Ejecutivo en su perfil en la red social X.
-
-Apoyo de Italia
----------------
-
-El **ministro italiano de Asuntos Exteriores, Antonio Tajani,** reveló que, hasta el momento, no tienen noticias de que haya italianos entre los fallecidos, en una zona con gran número de ciudadanos de ese país, unos 12 000, solo superados por los colombianos.
-
-“Quiero expresar **mi solidaridad con las familias de las víctimas** afectadas por las inundaciones en España. Rezo por la salud de los desaparecidos”, escribió Antonio Tajani, ministro de Exteriores y vicepresidente del Gobierno italiano, en su cuenta de la red social X.
-
-El presidente colombiano, Gustavo Petro, donde estos días se reúne la Conferencia las Naciones Unidas sobre Biodiversidad (COP16), achacó en la madrugada del martes al “colapso climático” las inundaciones en Valencia.
-
-“El colapso climático en España. Esto pasa **por no detener la economía fósil**. Sabemos que el consumo de petróleo, carbón y gas pueden exterminar la vida en el corto plazo, pero no le importa a los poderes del mundo, hasta que la humanidad reaccione”, expresó el mandatario en un mensaje publicado en la red social X.
-
-La **Embajada de Israel en España** también expresó su solidaridad: “Desde la Embajada de Israel en España, queremos expresar **nuestra más profunda solidaridad** con las personas en Valencia y con todos los españoles ante la devastadora dana que ha afectado a la Comunidad Valenciana, dejando víctimas y grandes daños materiales”.
-
-¿Desde cuándo comienza el feriado en Ecuador?
-=============================================
-
-Ecuador está próximo a disfrutar un feriado extenso nacional por Difuntos e independencia de Cuenca.
-----------------------------------------------------------------------------------------------------
-
-![Los ecuatorianos tendrán cinco días para descansar y viajar](https://www.elcomercio.com/wp-content/uploads/2024/10/feriado-extendo-noviembre.jpg)
-
-Ecuador está próximo a tener **cinco días de descanso obligatorio**. A los asuetos por **Difuntos** e independencia de **Cuenca** se le suma un feriado extraordinario decretado por el Gobierno.
-
-### Más noticias
-
-* [Quito envía un mensaje a sus vecinos para el feriado](https://www.elcomercio.com/opinion/editorial/quito-envia-mensaje-sus-hijos-feriado-turismo.html "Quito envía un mensaje a sus vecinos para el feriado")
-* [Cortes de luz se suspenden en ciertos sectores de Cuenca durante el feriado](https://www.elcomercio.com/actualidad/cuenca/cuenca-cortes-luz-sectores-feriado.html "Cortes de luz se suspenden en ciertos sectores de Cuenca durante el feriado")
-* [Descubre la magia del turismo rural en Pichincha y Cotopaxi durante el próximo feriado](https://www.elcomercio.com/tendencias/turismo/haciendas-pichincha-cotopaxi-feriado-vacaciones.html "Descubre la magia del turismo rural en Pichincha y Cotopaxi durante el próximo feriado")
-
-De acuerdo con el **calendario** del Ministerio de Turismo, el país tiene **10 feriados** cada año, de estos, se han cumplido siete.
-
-Feriados de Difuntos e independencia de Cuenca
-----------------------------------------------
-
-El Feriado de Difuntos se celebra el **2 de noviembre**, pero al caer en sábado este 2024, la fecha de descanso pasará al viernes 1[.](https://www.turismo.gob.ec/ "https://www.turismo.gob.ec/")
-
-En esta festividad se fusionan tradiciones indígenas y católicas. Este feriado nacional permite a las familias rendir **homenaje** a sus seres queridos fallecidos a través de diversas actividades y rituales.
-
-Una de las tradiciones propias de Difuntos es preparar y consumir en familia la **colada morada**. Esta bebida es espesa, hecha con maíz negro, frutas como mora y mortiño, y especies; se la acompaña con **guaguas de pan**, una masa en forma de muñecos rellenos.
-
-Mientras que la independencia de Cuenca se conmemora cada **3 de noviembre**. Al coincidir este año en domingo, el descanso se lo trasladó al **lunes 4**.
-
-Esta fecha celebra el inicio de la emancipación de la **capital de Azuay** en 1820. El proceso fue inspirado por la independencia de **Guayaquil**, el 9 de octubre del mismo año.
-
-Cuenca festeja su independencia con **desfiles cívicos y militares**, sesiones solemnes y actividades culturales.
-
-Feriado extraordinario del jueves 31 de octubre
------------------------------------------------
-
-La medida del feriado extraordinario fue decretada por el presidente Daniel Noboa con **carácter** obligatorio tanto para los **trabajadores** públicos como privados.
-
-El objetivo de este descanso es “fortalecer la actividad **económica** y beneficiar al sector **turístico**“, señaló Presidencia.
-
-Este asueto excepcional que se añade a Difuntos e independencia de Cuenca deberá **devolverse** en los próximos días.
-
-> Cada feriado es una oportunidad única para descubrir nuevos destinos. Estamos a pocos días de otro feriado, el más largo del año, y queremos invitarte a explorar lo mejor de nuestro país. ¡La Costa, Andes, Amazonía y las Galápagos te esperan!  
->   
-> Recuerda que si bien los días de… [pic.twitter.com/b35bCJiQ4w](https://t.co/b35bCJiQ4w)
-> 
-> — Mateo Estrella (@mateoestrella) [October 29, 2024](https://twitter.com/mateoestrella/status/1851274159260651818?ref_src=twsrc%5Etfw)
-
-¿Desde cuándo comienza el feriado?
-----------------------------------
-
-En conclusión, los ecuatorianos gozarán de cinco días de **descanso obligatorio**.
-
-Comenzando el **jueves 31 de octubre** y extendiéndose al viernes 1, sábado 2, domingo 3 y lunes 4 de noviembre.
-
-Luego de este extenso feriado, el único **asueto** que resta en el año es el de **Navidad**, el 25 de diciembre.
-
-Estacionamientos del Centro Histórico de Quito amplían horarios por feriado de noviembre
-========================================================================================
-
-Quienes permanezcan en Quito durante el feriado y vayan al Centro Histórico, tendrán una buena oferta para estacionar sus autos.
---------------------------------------------------------------------------------------------------------------------------------
-
-![El estacionamiento Cadisan permanecerá abierto las 24 horas durante el feriado de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/10/cadisan.jpg)
-
-Para el feriado por el **Día de Todos los Fieles Difuntos** y por la **Independencia de Cuenca**, los **estacionamientos** del **Centro Histórico** han decidido **ampliar su horario de atención.** De esta manera, buscan que los quiteños puedan llegar en sus vehículos y participar de las diversas actividades que se ofrecerán en este sitio emblemático de **Quito**.
-
-### Más noticias
-
-* [¿Habrá Pico y placa en Quito el jueves 31 de octubre?](https://www.elcomercio.com/actualidad/quito/habra-pico-y-placa-en-quito-jueves-31-de-octubre.html "¿Habrá Pico y placa en Quito el jueves 31 de octubre?")
-* [Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito](https://www.elcomercio.com/actualidad/quito/paradas-de-la-ecovia-registran-nuevos-cierres-por-trabajos-en-quito.html "Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito")
-* [Quito envía un mensaje a sus vecinos para el feriado](https://www.elcomercio.com/opinion/editorial/quito-envia-mensaje-sus-hijos-feriado-turismo.html "Quito envía un mensaje a sus vecinos para el feriado")
-
-Los estacionamientos que amplían sus horarios
----------------------------------------------
-
-Un total de **1 924 plazas** estarán habilitadas en el **Centro Histórico de Quito**. La ampliación de los horarios se llevarán a cabo entre el **miércoles 30 de marzo y el domingo 3 de noviembre del 2024**. Cuatro estacionamientos extenderán la atención, mientras dos mantendrán la habitual. Así lo informó la **Empresa Pública Metropolitana de Movilidad y Obras Públicas** (Epmmop).
-
-Los estacionamientos que amplían horarios
------------------------------------------
-
-El estacionamiento de **La Ronda** estará abierto durante las 24 horas del día desde hoy miércoles 30 de octubre hasta el domingo 3 de noviembre. La Ronda es uno de los sitios emblemáticos de Quito, sobre todo si se busca una **oferta gastronómica**.
-
-El estacionamiento de **San Blas**, en la esquina de las calles **Guayaquil y Caldas**, en cambio, comenzará a atender las 24 horas desde el jueves 31 de octubre hasta el sábado 2 de noviembre. Esta apertura permitirá que se asista al **festival Más allá de la Vida**, en las cercanías de la **Plaza Belmonte**.
-
-En cambio, el **Cadisan**, en la calle **Mejía** tendrá un servicio de **24 horas** durante todo el feriado. Este es, quizá, el más conocido de todos por su cercanía a la **Plaza Grande**[.](https://es.wikipedia.org/wiki/Centro_hist%C3%B3rico_de_Quito "https://es.wikipedia.org/wiki/Centro_hist%C3%B3rico_de_Quito")[](https://es.wikipedia.org/wiki/Centro_hist%C3%B3rico_de_Quito "https://es.wikipedia.org/wiki/Centro_hist%C3%B3rico_de_Quito")
-
-Estacionamientos con los horarios de siempre
---------------------------------------------
-
-Los estacionamientos **Montúfar 1** (Bustamante y Olmedo) y **Montúfar 2** (Pichincha y Olmedo) mantendrán la atención de siempre, de **06:00 a 22:00.**
-
-**El Tejar** (Hermano Miguel y José López) atenderá desde las 06:00 hasta las 21:30. El **Yaku** (El Placer), de 09:00 a 17:00.
-
-Las tarifas de los estacionamientos
------------------------------------
-
-Entre las 06:00 y las 17:59, el precio del estacionamiento será de **0,75 centavos** la hora y fracción. A partir de las 18:00 hasta las 05:59, será de **0,90 centavos.**
-
-Así será la atención en los bancos durante el feriado de cinco días
-===================================================================
-
-Los bancos privados aseguran la continuidad de sus servicios durante el feriado, con atención en canales digitales y oficinas de horario diferido.
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-![La Asobanca recomienda a la ciudadanía elegir los canales digitales porque son más cómodos, seguros y rápidos para realizar transacciones bancarias.](https://www.elcomercio.com/wp-content/uploads/2024/10/bancos.jpg)
-
-Este jueves 31 de octubre de 2024 empezará el feriado más largo del año de Ecuador. Los días de descanso en conmemoración del **Día de los Difuntos** y la **Independencia de Cuenca** se unieron al feriado dispuesto por el presidente **Daniel Noboa**. El Primer Mandatario emitió el Decreto Ejecutivo 438, que dispone el feriado obligatorio que forman un puente de cinco días de asueto, desde el 31 de octubre al 4 de noviembre[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Quito envía un mensaje a sus vecinos para el feriado](https://www.elcomercio.com/opinion/editorial/quito-envia-mensaje-sus-hijos-feriado-turismo.html "Quito envía un mensaje a sus vecinos para el feriado")
-* [Tres lugares en donde probar una buena colada morada en Quito durante el feriado](https://www.elcomercio.com/actualidad/colada-morada-agustinas-mercado-inaquito-santa-clara.html "Tres lugares en donde probar una buena colada morada en Quito durante el feriado")
-* [En el feriado de noviembre de 2024, el 8% de IVA se cobrará en estos negocios](https://www.elcomercio.com/actualidad/negocios/en-el-feriado-el-8-de-iva-se-cobrara-en-estos-negocios.html "En el feriado de noviembre de 2024, el 8% de IVA se cobrará en estos negocios")
-
-Durante estos días, los bancos privados prestarán los servicios financieros con normalidad el jueves 31 de octubre. El resto del feriado, la atención será por medio de canales digitales, y de manera presencial solo en oficinas con horario diferido, señaló la Asociación de Bancos Privados del Ecuador (Asobanca).
-
-Estos servicios se ofrecen de **forma continua,** considerando la situación de emergencia en el suministro de energía eléctrica en el país, agregó.
-
-En todo caso, Asobanca recomienda a los clientes del sistema bancario consultar, a través de los canales oficiales de cada entidad, cuáles son las oficinas con horario diferido. Por lo general, estas agencias bancarias están disponibles en **centros comerciales.**
-
-Los puntos de atención de los bancos de Ecuador
------------------------------------------------
-
-Además, los bancos privados tienen otros puntos de **servicio habilitados** durante los feriados:
-
-* **Cajeros automáticos**. Aquí los usuarios pueden realizar transacciones bancarias como retiros y depósitos.
-* **Corresponsales no bancarios.** Estos están disponibles en todos los cantones del país. Estos canales ofrecen servicios como transferencias, retiros y pagos y se encuentran ubicados en tiendas, bazares, farmacias, supermercados y otros pequeños comercios.
-* **Banca digital.** Esta permite realizar transacciones a través de dispositivos electrónicos, como celulares, tablets y computadoras.
-
-Asobanca recomienda a la ciudadanía elegir los **canales digitales** porque son más cómodos, seguros y rápidos para realizar transacciones bancarias.
-
-¿Qué significa Halloween?
-=========================
-
-Esta festividad se originó en Irlanda hace más de 3 000 años.
--------------------------------------------------------------
-
-![Halloween se realiza cada 31 de octubre. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-30T113108.559.jpg)
-
-**Halloween** -también conocido como la **Noche de Brujas**– es una celebración que se realiza el 31 de octubre y tiene sus raíces en tradiciones celtas antiguas.
-
-### **Más noticias:**
-
-* [Murió el gato que engordó hasta casi estallar](https://www.elcomercio.com/narices-frias/gato-muere-migajas-obeso-rusia.html "https://www.elcomercio.com/narices-frias/gato-muere-migajas-obeso-rusia.html")
-* [La historia del gato ruso que engordó hasta casi estallar](https://www.elcomercio.com/narices-frias/gato-ruso-rescate-voluntario-obeso.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/gato-ruso-rescate-voluntario-obeso.html?source=Internal&ref=Single+Content+Link")
-* [El abandono es crueldad animal y se sanciona en Quito](https://www.elcomercio.com/narices-frias/abandono-crueldad-animal-quito-sancion-multa.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/abandono-crueldad-animal-quito-sancion-multa.html?source=Internal&ref=Single+Content+Link")
-
-Esta festividad se originó en **Irlanda** hace más de 3 000 años, coincidiendo con el final de la temporada de cosechas y el inicio del invierno, un periodo que los celtas consideraban propicio para la comunicación con los espíritus.
-
-Durante la noche de **Halloween**, se creía que la línea entre el mundo de los vivos y el de los muertos se estrechaba, permitiendo que tanto espíritus benevolentes como malignos vagaran entre los humanos.
-
-Para protegerse de estos últimos, las personas encendían hogueras y usaban disfraces o máscaras, con la esperanza de no ser reconocidos por los espíritus malignos.
-
-Además, se realizaban banquetes en honor a los ancestros, una tradición que buscaba honrar a los muertos y facilitar su tránsito.
-
-**¿Qué significa Halloween?**
------------------------------
-
-La palabra ‘**Halloween**‘ proviene de la contracción de “**All Hallows’ Eve”**, que significa “Víspera de Todos los Santos”, según una publicación del diario español AS.
-
-Con el tiempo, **Halloween** evolucionó y se mezcló con **celebraciones cristianas**. En el siglo IV, la Iglesia Católica estableció el Día de Todos los Santos el 1 de noviembre.
-
-Eso llevó a la transformación de **Halloween** en una festividad más lúdica y menos enfocada en lo espiritual. Esto se resalta en un artículo publicado en [National Geographic.](https://historia.nationalgeographic.com.es/a/halloween-origen-celta-fiesta-universal_7740 "https://historia.nationalgeographic.com.es/a/halloween-origen-celta-fiesta-universal_7740")
-
-Damián Díaz demandó a Barcelona Sporting Club por deudas pendientes
-===================================================================
-
-La relación entre Damián Díaz y el ídolo canario se deteriora cada vez más, y ahora se suma una demanda del jugador.
---------------------------------------------------------------------------------------------------------------------
-
-![Damián Díaz demandó a Barcelona Sporting Club.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-47.jpg)
-
-El entorno de **Barcelona Sporting Club** amaneció con una sorpresa negativa este miércoles 30 de octubre. **Damián Díaz**, uno de los últimos ídolos del club, demandó a los canarios por deudas pendientes tras su salida hace pocos meses.
-
-La reclamación se realizó a través de la **Federación Ecuatoriana de Fútbol** (FEF), solicitando que el club le haga efectivo el pago correspondiente a dos meses de su finiquito, que asciende a poco más de **47 000 dólares.**
-
-### Más noticias:
-
-* [Barcelona SC goleó y así quedó la tabla de posiciones en la fecha 11](https://www.elcomercio.com/deportes/futbol/barcelona-goleada-delfin-tabla-posiciones-fecha11.html "Barcelona SC goleó y así quedó la tabla de posiciones en la fecha 11")
-* [Damián Díaz es uno los goleadores del Clásico del Astillero en 13 años](https://www.elcomercio.com/deportes/futbol/damian-diaz-goles-emelec-clasico.html "Damián Díaz es uno los goleadores del Clásico del Astillero en 13 años")
-* [Polémica por comportamiento del ‘Kitu’ Díaz y su salida en Barcelona SC](https://www.elcomercio.com/deportes/barcelona-antonio-alvarez-salida-kitu-diaz.html "Polémica por comportamiento del ‘Kitu’ Díaz y su salida en Barcelona SC")
-
-Además, mediante una carta enviada por la FEF, se informó al equipo guayaquileño que tiene un **plazo de 30 días, es decir, hasta el 30 de noviembre, para cancelar los montos** adeudados al ‘Kitu’; de lo contrario, enfrentarán sanciones.
-
-La deuda de Barcelona Sporting Club
------------------------------------
-
-Si bien la deuda total de Barcelona con Damián Díaz asciende a más de **2 millones de dólares** desde 2016, esta demanda específica corresponde a su finiquito y al acuerdo de pago firmado tras su salida del club.
-
-El cuadro canario no realizó los pagos de agosto y septiembre, y la fecha de vencimiento para el último monto se acerca. Las cuotas son mensuales, de **23 927.50** dólares durante 18 meses, lo que representa una deuda total de casi **437 000 dólares.**
-
-Los números del ‘Kitu’ Díaz
----------------------------
-
-**Damián Rodrigo Díaz** se unió a Barcelona Sporting Club en el segundo semestre de 2011, tras ser solicitado por Luis Zubeldía, entonces director técnico del club.
-
-Su primera etapa en el club duró dos años, y en el segundo semestre de 2013 fue transferido al Al-Wahda de Emiratos Árabes Unidos. Durante su primera etapa, **se coronó campeón nacional en 2012**, rompiendo una racha de 15 años sin títulos. Fue una de las figuras clave en un equipo que también contaba con Máximo Banguera, Matías Oyola y Narciso Mina.
-
-En 2016, Díaz regresó de manera definitiva a BSC. Durante esta segunda etapa, **consiguió los títulos nacionales de 2016 y 2020**. Además, del subcampeonato de 2022, donde fue el señalado por fallar un penal decisivo ante Aucas en el estadio Gonzalo Pozo Ripalda.
-
-En total, según Transfermarkt, Damián Díaz disputó 346 partidos en Ecuador, anotando 90 goles y proporcionando 83 asistencias.
-
-¿Habrá Pico y placa en Quito el jueves 31 de octubre?
-=====================================================
-
-El Pico y placa se aplica a vehículos y motos de Quito, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
------------------------------------------------------------------------------------------------------------------------------------------
-
-![El Pico y placa se aplica de lunes a viernes en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Pico-feriado.jpg)
-
-El **Municipio de Quito** implementó la medida de **Pico y placa** en la capital de los ecuatorianos para tratar de controlar el flujo vehicular dentro de la ciudad.
-
-### Más noticias
-
-* [Pico y placa se suspende en Quito por cinco días](https://www.elcomercio.com/actualidad/quito/pico-y-placa-se-suspende-en-quito-por-cinco-dias.html "Pico y placa se suspende en Quito por cinco días")
-* [Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito](https://www.elcomercio.com/actualidad/quito/paradas-de-la-ecovia-registran-nuevos-cierres-por-trabajos-en-quito.html "Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito")
-* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
-
-¿Cómo se aplica el Pico y placa?
---------------------------------
-
-La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
-
-La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
-
-El esquema de aplicación del Pico y Placa
------------------------------------------
-
-Según el **último dígito de la placa**, el cronograma es el siguiente:
-
-* **Lunes:** placas terminadas en 1 y 2.
-* **Martes**: placas terminadas en 3 y 4.
-* **Miércoles**: placas terminadas en 5 y 6.
-* **Jueves**: placas terminadas en 7 y 8.
-* **Viernes:** placas terminadas en 9 y 0.
-
-Este jueves 31 de octubre habrá libre movilidad
------------------------------------------------
-
-Ecuador tiene en los próximos días un **feriado nacional** en conmemoración al **Día de Difuntos** y la **Independencia de Cuenca.** Estos se trasladaron a los días más próximos, de acuerdo con la ley de Feriados vigente.
-
-Así, e**l feriado de Difuntos** se trasladó viernes 1 de noviembre y el día de asueto por la Independencia de Cuenca, al lunes 4 de noviembre.
-
-Por decreto presidencial, el **jueves 31 de octubre** también fue declarado feriado nacional (recuperable) para incentivar el turismo interno.
-
-De acuerdo con la normativa del Pico y placa, **este jueves 31 de octubre habrá libre movilidad** en el Distrito Metropolitano de Quito, pues la medida [no se aplica los feriados.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
->   
-> 🚗Este 31 de octubre no regirá la medida “Pico y Placa” debido a la ⛔️ suspensión de la jornada laboral dispuesta por el Gobierno Nacional .  
->   
-> 👍Además, habrá libre movilidad hasta el lunes 4 de noviembre 🚘.  
->   
-> 🫶 Con información oportuna [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/kslrbGztLE](https://t.co/kslrbGztLE)
-> 
-> — AMTQuito (@AMT\_Quito) [October 30, 2024](https://twitter.com/AMT_Quito/status/1851630564303851712?ref_src=twsrc%5Etfw)
-
-¿Qué significa DANA el fenómeno que impactó a Valencia?
-=======================================================
-
-Los meteorólogos advierten que este tipo de fenómenos se intensifican con el cambio climático.
-----------------------------------------------------------------------------------------------
-
-![Vehículos amontonados en una calle tras las intensas lluvias de la fuerte dana que afecta especialmente el sur y el este de la península ibérica, este miércoles en Sedaví (Valencia).](https://www.elcomercio.com/wp-content/uploads/2024/10/dana-valencia.jpg)
-
-La **Depresión Aislada en Niveles Altos (DANA)** es el fenómeno meteorológico que impactó a Valencia, España a causa lluvias intensas.
-
-### Más noticias
-
-* [Ya son 62 los fallecidos por las inundaciones en Valencia, España](https://www.elcomercio.com/actualidad/mundo/ya-son-62-los-fallecidos-por-inundaciones-en-valencia-espana.html "https://www.elcomercio.com/actualidad/mundo/ya-son-62-los-fallecidos-por-inundaciones-en-valencia-espana.html")
-* [Torrenciales lluvias en España dejan muertos, desaparecidos e inundaciones](https://www.elcomercio.com/actualidad/torrenciales-lluvias-en-espana-dejan-muertos-desaparecidos-e-inundaciones.html "https://www.elcomercio.com/actualidad/torrenciales-lluvias-en-espana-dejan-muertos-desaparecidos-e-inundaciones.html")
-
-La **Depresión Aislada en Niveles Altos** (DANA) se convirtió en un **fenómeno meteorológico** recurrente en España y **otras partes de Europa**. Este sistema se caracteriza por la presencia de **aire frío en las capas** altas de la atmósfera, lo que provoc**a inestabilidad y la formación de nubes de tormenta**. Las últimas semanas, la DANA dejó sentir su **impacto en diversas regiones del país**. Trajo consigo lluvias torrenciales, vientos fuertes y tormentas eléctricas.
-
-Los meteorólogos advierten que este **tipo de fenómenos** se intensifican con el cambio climático, lo que llevó a un aumento en la frecuencia y la **severidad de las lluvias**. En varias provincias españolas, las precipitaciones superó los 100 litros por m² en pocas horas. Generó **inundaciones en calles y viviendas.** Las autoridades locales emitieron alertas para que los **ciudadanos tomen precauciones** y eviten desplazamientos innecesarios.
-
-Desde el inicio de la DANA, los **servicios de emergencia** estuvieron en **alerta máxima**, respondiendo a múltiples incidentes relacionados con **inundaciones y caídas de árboles**. Además, se recomendó a la población que mantenga sus **hogares preparados** ante posibles **cortes de electricidad** y acceso a suministros básicos.
-
-A medida que el fenómeno continúa desplazándose, se espera que **impacte en otras áreas**, generando preocupación sobre su evolución. Los meteorólogos instan a los ciudadanos a mantenerse informados a través de **canales oficiales** y **seguir las indicaciones de seguridad.**
-
-Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito
-====================================================================
-
-Trabajos de repavimentación en el carril exclusivo y de repotenciación ocasionan el cierre de otras paradas en el sistema Ecovía
---------------------------------------------------------------------------------------------------------------------------------
-
-![La parada Manuela Cañizares estará cerrada por trabajos en la vía.](https://www.elcomercio.com/wp-content/uploads/2024/10/Manuela-Canizares.jpg)
-
-La **Empresa Metropolitana de Transporte de Pasajeros** Quito informó de la suspensión temporal del servicio en una de las paradas de la Ecovía.
-
-### Más noticias
-
-* [Parada de la Ecovía vuelve a operar este miércoles 23 de octubre](https://www.elcomercio.com/actualidad/quito/parada-ecovia-vuelve-a-operar-este-miercoles-23-de-octubre.html "Parada de la Ecovía vuelve a operar este miércoles 23 de octubre")
-* [Así funcionará el Metro de Quito durante el feriado](https://www.elcomercio.com/actualidad/quito/asi-funcionara-metro-de-quito-durante-feriado.html "Así funcionará el Metro de Quito durante el feriado")
-* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
-
-Paradas cerradas por pavimentación
-----------------------------------
-
-El **Municipio de Quito** realiza la intervención del **Carril Exclusivo de la Ecovía**, en Quito, para reemplazar el hormigón que cumplió ya 20 años de utilidad.
-
-Debido a estos trabajos, se ha debido **suspender la operación de ciertas paradas** debido a que no hay acceso a ellas. En algunos sitios se colocaron paradas provisionales.
-
-Una de estas paradas cerradas es la **Manuela Cañizares**. Otra de ellas es la parada Los Sauces, la cual se inhabilitó por seis días, desde el 26 de octubre.
-
-Las paradas **Bellavista y La Paz t**ambién están cerradas debido a los trabajos de repavimentación, por 15 días, a partir del 20 de octubre. En la parada Plaza Argentina se cuenta con una parada provisional.
-
-A partir del 28 de octubre, la Empresa de Pasajeros habilitará una parada provisional para embarque y desembarque en la **parada Baca Ortiz**. Esta se cerrará a partir del 1 de noviembre.
-
-La **parada Eloy Alfaro s**e habilitó completamente a partir del 23 de octubre.
-
-Paradas cerradas por repotenciación
------------------------------------
-
-A la par, se ejecutan trabajos de repotenciación de las paradas y por ello están cerradas las siguientes:
-
-* Pujilí
-* Quillallacta (se colocó parada provisional)
-* San Cristóbal (a partir del 2 de noviembre)
-
-El tiempo de cierre de las paradas por repotenciación es de [35 días en cada parada](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-La repotenciación de esta parada **se realiza con el objetivo de brindar un mejor servicio** de movilización a los quiteños. Además, velar por su seguridad en sus espacios y fortalecer la atención de calidad.
-
-> 🚎[#MuéveteInformado](https://twitter.com/hashtag/Mu%C3%A9veteInformado?src=hash&ref_src=twsrc%5Etfw) | Recuerda que la parada Manuela Cañizares de la [#Ecovía](https://twitter.com/hashtag/Ecov%C3%ADa?src=hash&ref_src=twsrc%5Etfw), se encuentra suspendida por los trabajos en el carril exclusivo. [#TrabajamosPorQuito](https://twitter.com/hashtag/TrabajamosPorQuito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/40x7z0pJD0](https://t.co/40x7z0pJD0)
-> 
-> — Empresa de Pasajeros Quito (@TransporteQuito) [October 29, 2024](https://twitter.com/TransporteQuito/status/1851301978972045523?ref_src=twsrc%5Etfw)
-
-¿A qué hora juegan Moisés Caicedo y Pervis Estupiñán en la Carabao Cup?
-=======================================================================
-
-Dos de nuestros legionarios en Inglaterra vuelven a la acción en la copa inglesa.
----------------------------------------------------------------------------------
-
-![Moisés Caicedo en un partido contra el Newcastle por la Premier League 2024/25.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-46.jpg)
-
-Este miércoles 30 de octubre, los ecuatorianos **Moisés Caicedo y Pervis Estupiñán** estarán en los octavos de final de la **Carabao Cup**. El Chelsea de Caicedo se enfrentará al Newcastle de visitante, mientras que el Brighton de Estupiñán recibirá al Liverpool.
-
-Es importante señalar que las l**laves de este torneo son a partido único**, por lo que hoy se conocerán los clasificados a cuartos de final. Las semifinales son el único momento en el que se juega a ida y vuelta; la final, en cambio, es también a partido único y se disputa en el emblemático estadio de Wembley.
-
-### Más noticias:
-
-* [Chelsea destaca el aporte defensivo de Moisés Caicedo](https://www.elcomercio.com/deportes/futbol/chelsea-destaca-el-aporte-defensivo-de-moises-caicedo.html "Chelsea destaca el aporte defensivo de Moisés Caicedo")
-* [El Brighton de Pervis Estupiñán se dejó empatar ante Wolves](https://www.elcomercio.com/deportes/futbol/brighton-pervis-estupinan-empatar-wolves-premier.html "El Brighton de Pervis Estupiñán se dejó empatar ante Wolves")
-* [Chelsea de Moisés Caicedo brilla y derrota al Newcastle](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-newcastle-resultado-premier.html "Chelsea de Moisés Caicedo brilla y derrota al Newcastle")
-
-¿A qué hora juegan los ecuatorianos?
-------------------------------------
-
-**Pervis Estupiñán** será el primero en entrar en acción, enfrentándose con el Brighton en el Falmer Stadium al **Liverpool**, uno de los equipos más en forma de Inglaterra.
-
-Brighton llega a estos octavos de final tras eliminar al Wolverhampton, mientras que **Liverpool** hizo lo propio contra el West Ham United.
-
-El cotejo arrancará a las 14:30 (hora Ecuador), en el Falmer Stadium.
-
-Más tarde, el **Chelsea** de **Moisés Caicedo** visitará al Newcastle en un emocionante enfrentamiento en St. James’ Park, repitiendo el duelo que ambos equipos protagonizaron el pasado fin de semana en la Premier League, donde Chelsea ganó 2-1.
-
-Este partido podrá marcar el debut de Caicedo en la copa de esta temporada, luego de que Chelsea avanzara goleando al Barrow, mientras que **Newcastle** tuvo que luchar para vencer al Wimbledon, equipo de menor categoría.
-
-El partido iniciará a las 14:45 (hora Ecuador), en el ST. James’ Park.
-
-Ficha de los partidos:
-----------------------
-
-### Brighton vs. Liverpool
-
-_**Torneo**:_ Carabao Cup
-
-_**Hora**:_ 14:30 (hora Ecuador)
-
-_**Estadio**:_ Falmer Stadium
-
-_**Dónde ver**:_ Streaming
-
-### Newcastle vs. Chelsea
-
-_**Torneo**:_ Carabao Cup
-
-_**Hora**:_ 14:45 (hora Ecuador)
-
-_**Estadio**:_ St. James’ Park
-
-_**Dónde ver:**_ Streaming
-
-31 de octubre es el Día del Escudo Nacional. Conoce su historia
+Falleció Pedro Sarmiento, exjugador de la Selección de Colombia
 ===============================================================
 
-Cada 31 de octubre se conmemora el Día del Escudo Nacional. Esta fecha fue instaurada de manera oficial por el Congreso en 1900.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Cada 31 de octubre se celebra el Día del Escudo. Este es uno de los tres símbolos patrios de Ecuador Foto: Archivo / EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2022/10/Escudo-Ecuador-.jpg)
-
-En Ecuador, cada 31 de octubre se conmemora el **Día del Escudo Nacional**. Esta fecha fue instaurada de manera oficial por el Congreso en 1900. La implementación se realizó en la Presidencia del general Eloy Alfaro.
-
-### Más noticias
-
-* [En Ecuador, los mecánicos celebran un día dedicado a su profesión](https://www.elcomercio.com/tendencias/cultura/dia-mecanico-ecuatoriano-efemeride.html "https://www.elcomercio.com/tendencias/cultura/dia-mecanico-ecuatoriano-efemeride.html") 
-* [Colada morada y guaguas de pan, tradición ecuatoriana](https://www.elcomercio.com/sabores/colada-morada-guaguas-pan-tradicion-ecuatoriana.html "https://www.elcomercio.com/sabores/colada-morada-guaguas-pan-tradicion-ecuatoriana.html")
-
-El diseño del Escudo del Ecuador estuvo a cargo de **Pedro Pablo Traversari** en 1916. En esta fecha el símbolo patrio fue aprobado por el Ministerio de Instrucción Pública.
-
-Historia del Escudo Nacional
-----------------------------
-
-Según el **[Centro de Estudios Históricos del Ejército Ecuatorian](https://www.cehist.mil.ec/index.php/simbolos-patrios#:~:text=Francisco%20Acosta%20Y%C3%A9pez-,ESCUDO%20NACIONAL,public%C3%B3%20en%20el%20Registro%20Oficial. "https://www.cehist.mil.ec/index.php/simbolos-patrios#:~:text=Francisco%20Acosta%20Y%C3%A9pez-,ESCUDO%20NACIONAL,public%C3%B3%20en%20el%20Registro%20Oficial.")o**, la historia del **escudo de Ecuador** se remonta a la **proclamación de la Independencia de Guayaquil** el 9 de octubre de 1820, cuando s**e adoptó un escudo con una estrella de cinco puntas sobre fondo azul**, rodeado de ramas de laurel y la leyenda “Por Guayaquil Independiente”.
-
-Posteriormente, tras la **incorporación de Guayaquil a la Gran Colombia** en 1822, **se adoptó el escudo colombiano**, que incluía cornucopias y fasces. Con la **disolución de la Gran Colombia** en 1830, se inició la **creación del escudo ecuatoriano**, siendo el primer diseño aprobado el 19 de septiembre de ese año, que incluía un sol y la inscripción “El Ecuador en Colombia”.
-
-A lo largo de los años, **el escudo ha pasado por diversas modificaciones**, lo que refleja cambios políticos y culturales, hasta llegar al **diseño definitivo**, que mantuvo los **elementos propuestos por el poeta José Joaquín de Olmedo**, pero con ajustes en los colores de las banderas y la dirección de la cabeza del cóndor.
-
-¿Qué elementos conforman el Escudo Nacional?
---------------------------------------------
-
-Según el **Ministerio de Relaciones Exteriores** el Escudo Nacional tiene varios componentes con su respectivo significado:
-
-* **Cóndor:** El ave aparece con alas desplegadas y levantadas para el vuelo. Su simbolismo se basa en el esfuerzo.
-* **Sol:** El color dorado muestra la riqueza de los recursos naturales del territorio ecuatoriano.
-* **Chimborazo:** Es el volcán más alto del Ecuador, de sus faldas nace el río Guayas. Este muestra la unión regional de la Sierra y Costa.
-* **Barco a vapor:** Se trata del primer buque construido en América del Sur, elaborado en 1841 en Guayaquil. Los colores de este antiguo medio de transportación son el amarillo, azul y rojo.
-* **Signos del zodíaco:** De izquierda a derecha aparecen: Géminis, Cáncer, Aries y Tauro. Representan los meses de marzo, abril, mayo y junio.
-* **Rama de palma**: Este fragmento de la planta representa la paz.
-* **Rama de laurel**: Representa la gloria.
-* **Banderas:** En el Escudo de Armas aparecen cuatro: dos a cada lado.
-* **Fasces consulares:** La parte inferior del escudo está conformada por este emblema de autoridad republicana. Lo componen un hacecillo de varas amarrado y que envuelve una segur (hacha).
-* **Caduceo:** Ubicado en el barco a vapor y coronado por dos alas y rodeado por dos serpientes. Símbolo de la navegación y comercio.
-
-Estudiante crea inteligencia artificial que traduce lenguaje de señas al inglés
-===============================================================================
-
-Priyanjali Gupta y Yamillet Payano, con sus proyectos de inteligencia artificial, han creado herramientas inclusivas.
----------------------------------------------------------------------------------------------------------------------
-
-![Dos jóvenes desarrolladoras han revolucionado la tecnología inclusiva con proyectos de inteligencia artificial. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/inteligencia-artificial-lenguaje-de-senas.jpg)
-
-**Priyanjali Gupta**, una joven india y **desarrolladora de software en Microsoft**, ha revolucionado la tecnología inclusiva. Durante su licenciatura en tecnología en el Instituto de Tecnología de Vellore, Gupta diseñó una **inteligencia artificial** que interpreta el **lenguaje de señas estadounidense** (ASL), según un informe de [Infobae](https://www.infobae.com/tecno/2024/10/29/crean-una-ia-que-revoluciona-el-lenguaje-de-senas-en-todo-el-mundo-todos-lo-entenderemos/#:~:text=Una%20joven%20en%20India%20desarroll%C3%B3,este%20programa%20durante%20su%20carrera. "https://www.infobae.com/tecno/2024/10/29/crean-una-ia-que-revoluciona-el-lenguaje-de-senas-en-todo-el-mundo-todos-lo-entenderemos/#:~:text=Una%20joven%20en%20India%20desarroll%C3%B3,este%20programa%20durante%20su%20carrera."). 
-
-### Más noticias
-
-* [WhatsApp planea incorporar una nueva función relacionada con la música](https://www.elcomercio.com/tecnologia/whatsapp-funcion-musica-estados.html "https://www.elcomercio.com/tecnologia/whatsapp-funcion-musica-estados.html") 
-* [¿Cuál es el significado de mantener el celular en silencio de acuerdo con la psicología?](https://www.elcomercio.com/tecnologia/celular-psicologia-silencio-investigacion.html "https://www.elcomercio.com/tecnologia/celular-psicologia-silencio-investigacion.html") 
-
-**Priyanjali Gupta y su proyecto de IA para lenguaje de señas** 
-----------------------------------------------------------------
-
-**La idea de este proyecto nació en una conversación con su madre**, quien la animó a crear algo significativo en su carrera. En febrero de 2022, Gupta presentó el modelo, que **utiliza la API de detección de objetos de Tensorflow y aplica el modelo de aprendizaje ssd\_mobilenet** mediante transferencia, a decir de Infobae. La estudiante documentó el proceso en su **perfil de LinkedIn**, donde su proyecto rápidamente ganó popularidad, como lo destaca Interesting Engineering. 
-
-**Aplicación de Tensorflow en la interpretación de señas** 
------------------------------------------------------------
-
-Siguiendo con Infobae, para **entrenar esta inteligencia artificial**, Gupta usó un **archivo en Python** para capturar imágenes con su cámara web, para crear así un **conjunto de datos** que incluyó señas básicas de ASL, como “hola”, “te amo”, “gracias”, “por favor”, “sí” y “no”. Este esfuerzo pionero representa un paso hacia una **comunicación más inclusiva**, subraya Gupta en su perfil de Github, donde detalla el desarrollo del modelo. 
-
-**Sign-Speak: una solución de Yamillet Payano** 
-------------------------------------------------
-
-**Yamillet Payano**, una joven dominicana de 27 años, ha desarrollado **Sign-Speak**, una innovadora herramienta que **traduce el lenguaje de señas a voz y texto**, y viceversa. Desde 2021, Payano ha trabajado en esta tecnología para **facilitar la comunicación entre personas sordas y oyentes**, según reporta EFE, citado por [DW](https://www.dw.com/es/latina-crea-con-inteligencia-artificial-una-aplicaci%C3%B3n-que-traduce-el-lenguaje-de-se%C3%B1as-a-texto/a-67642859 "https://www.dw.com/es/latina-crea-con-inteligencia-artificial-una-aplicaci%C3%B3n-que-traduce-el-lenguaje-de-se%C3%B1as-a-texto/a-67642859"). 
-
-**Escasez de intérpretes y el impacto en la comunidad sorda** 
---------------------------------------------------------------
-
-La idea de **Sign-Speak** surgió cuando Payano observó los **retos de comunicación que enfrentaba su amigo Nikolas Kelly**, sordo de nacimiento. La emprendedora identificó la **falta de intérpretes como un problema social grave**, especialmente en Estados Unidos, donde la escasez de intérpretes dificulta aún más la integración de las personas sordas. 
-
-**Un canal de comunicación accesible para todos** 
---------------------------------------------------
-
-Con **Sign-Speak**, a decir de DW, Payano busca dar una solución práctica a esta necesidad. **La herramienta convierte en texto o voz las señas realizadas por personas sordas**, lo que abre un **canal de comunicación accesible**. Este proyecto destaca la importancia de **crear tecnología inclusiva** y pone en relieve las barreras que aún enfrentan las **personas con discapacidad auditiva en el mundo**. 
-
-Kamala Harris ofrece un ‘liderazgo nuevo’
-=========================================
-
-Kamala Harris reivindicó que Estados Unidos necesita un nuevo liderazgo.
+Pedro Sarmiento fue parte de la Selección de Colombia entre 1980 y 1985.
 ------------------------------------------------------------------------
 
-![Kamala Harris en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/kamala-harris-sonrie-efe.jpg)
+![Pedro Sarmiento en su etapa como entrenador.](https://www.elcomercio.com/wp-content/uploads/2024/10/sarmiento_pedro_1.jpg)
 
-En un multitudinario mitin electoral frente a la **Casa Blanca**, [Kamala Harris](https://www.elcomercio.com/actualidad/mundo/bad-bunny-muestra-apoyo-kamala-harris.html "https://www.elcomercio.com/actualidad/mundo/bad-bunny-muestra-apoyo-kamala-harris.html"), reivindicó que **Estados Unidos** necesita un **“nuevo liderazgo”** y pidió a los ciudadanos “pasar página” de lo que representa su rival republicano, el expresidente Donald Trump.
+Pedro Sarmiento, **que hizo parte de la Selección de Colombia** y luego se convirtió en el director técnico, falleció este miércoles 30 de octubre de 2024 a los 68 años de edad en su natal Medellín, informó la Federación Colombiana de Fútbol (FCF).
+
+“La Federación Colombiana de Fútbol **lamenta el fallecimiento de Pedro Sarmiento**, reconocido exjugador de la Selección Colombia y director técnico del Fútbol Profesional Colombiano”, escribió la entidad en su cuenta de X.
+
+### Más noticias:
+
+* [José Pileggi renuncia a su cargo como presidente de Emelec](https://www.elcomercio.com/deportes/jose-pileggi-emelec-renuncia-presidente.html "José Pileggi renuncia a su cargo como presidente de Emelec")
+* [Alan Franco y su regreso triunfal al Atlético Mineiro con la final de la Libertadores](https://www.elcomercio.com/deportes/futbol/alan-franco-regreso-triunfal-atletico-mineiro-final-copa-libertadores.html "Alan Franco y su regreso triunfal al Atlético Mineiro con la final de la Libertadores")
+* [Proyecto de sociedades anónimas en el deporte no calificó en la Asamblea](https://www.elcomercio.com/deportes/futbol/proyecto-de-sociedades-anonimas-en-el-deporte-no-califico-en-la-asamblea.html "Proyecto de sociedades anónimas en el deporte no calificó en la Asamblea")
+
+En igual sentido se manifestó la División Mayor del Fútbol Colombiano (Dimayor, que organiza la liga colombiana), **que lamentó el deceso de Sarmiento**, un volante que lució en su época porque tenía vocación de goleador, algo poco usual en su época.
+
+Por su lado, América de Cali, equipo en el que jugó, se unió al pesar por “**el sensible fallecimiento de Pedro Sarmiento**, quien se consagró campeón en dos oportunidades vistiendo nuestra camiseta”.
+
+Carrera de Pedro Sarmiento
+--------------------------
+
+En sus tiempos como jugador, Sarmiento defendió la camiseta de la selección colombiana desde 1980 hasta 1985, lapso en el que disputó 37 juegos y marcó tres goles.
+
+Hizo parte del equipo que disputó las **Eliminatorias Sudamericanas del Mundial de España 1982** y México 1986.
+
+Uno de sus momentos más gloriosos fue en el Preolímpico de 1980, **cuando el equipo clasificó a los Juegos Olímpicos Moscú 1980**. Sarmiento marcó tres goles en la victoria 5-1 contra Brasil en Cali.
+
+Sarmiento debutó como jugador profesional en 1976 con Atlético Nacional y se retiró en el América de Cali en 1989, luego de 13 años de actividad.
+
+Luego de su retiro hizo **parte del cuerpo técnico del América de Cali**, dirigido por el fallecido Gabriel Ochoa Uribe.
+
+Sin embargo, sus mejores logros como entrenador los consiguió con el Deportivo Independiente Medellín, al **ganar la liga del 2004 frente al Deportivo Cali**, con el que también se consagró campeón al año siguiente.
+
+También fue técnico del **Independiente Santa Fe, Cúcuta Deportivo**, Deportivo Pereira, Águilas Doradas y Unión Magdalena. Se despidió del banco técnico en 2023 con Once Caldas.
+
+Sarmiento, además, fue comentarista de fútbol en varios medios de comunicación.
+
+![Francisco Maturana (i) junto a Pedro Sarmiento.](https://www.elcomercio.com/wp-content/uploads/2024/10/sarmiento_pedro_2-1024x683.jpg)
+
+Francisco Maturana (i) junto a Pedro Sarmiento.
+
+Confusión por la muerte de Sarmiento
+------------------------------------
+
+Tras el anuncio de la FCF, Juan Carlos Sarmiento, hermano del exfutbolista y técnico, reveló que su familiar “está vivo, tiene signos vitales”.
+
+“**No está consciente, pero respira y le late el corazón**“, agregó para salir al paso a las versiones que circularon sobre su deceso y a los mensajes de condolencias que publicaron en su redes sociales la FCF, la División Mayor del Fútbol Colombiano (Dimayor) y varios clubes.
+
+“El parte de una defunción lo debe dar la clínica, que son los que **han estado pendientes de él. Aún no ha fallecido**“, dijo al diario local El Colombiano Juan Carlos, quien reconoce que está en “un proceso que seguramente se va a desencadenar como debe porque la enfermedad que tiene es muy severa”.
+
+Reveló que lleva internado cinco meses en el Hospital Pablo Tobón Uribe de Medellín tras ser diagnosticado en mayo pasado con un tipo de leucemia.
+
+Su familiar relató que este miércoles, al conocerse su delicado estado de salud, el técnico nacido en Medellín el 26 de octubre de 1956, recibió la visita de sus colegas **Francisco Maturana, Hernán Darío ‘Bolillo’ Gómez** y Hernán Darío Herrera.
+
+Finalmente, en las primeras horas de la noche, el mismo hermano de Sarmiento confirmó su fallecimiento.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Lucía Vallecilla arremete contra dirigencia actual y previa de El Nacional
+==========================================================================
+
+Lucía Vallecilla, expresidenta de El Nacional, reapareció y apuntó contra Marco Pazos, actual presidente del club, y dirigencias previas.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![Lucía Vallecilla, expresidenta de El Nacional, durante un partido del club.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-30T192056.000.jpg)
+
+**El Nacional** atraviesa una crisis económica e institucional, mientras que, paralelamente, se encuentra en un momento futbolístico crucial al tener que enfrentar las semifinales de vuelta de la **Copa Ecuador**. En tal contexto, Lucía Vallecilla, expresidenta del club, apareció y arremetió contra dirigentes actuales y previos.
+
+Los puros criollos buscarán llegar a la final del torneo copero y apuntar a su **primer título en 18 años**, realidad que contrasta con lo que se vive a la interna del equipo. Los futbolistas de la escuadra se encuentran con salarios adeudados y han hecho público su malestar.
+
+### Más noticias:
+
+* [Jonathan Borja denuncia intentos de soborno a El Nacional](https://www.elcomercio.com/deportes/jonathan-borja-sobornos-el-nacional.html "Jonathan Borja denuncia intentos de soborno a El Nacional")
+* [Mushuc Runa exige sanciones por ‘declaraciones malintencionadas’](https://www.elcomercio.com/deportes/mushuc-runa-el-nacional-jonathan-borja-sobornos.html "Mushuc Runa exige sanciones por ‘declaraciones malintencionadas’")
+* [Jugadores de El Nacional exigen sueldo tras caer con Orense](https://www.elcomercio.com/deportes/futbol/sueldos-deudas-nacional-orense-liga-pro.html "Jugadores de El Nacional exigen sueldo tras caer con Orense")
+
+Antes y después de su pasado compromiso ante **Orense** en la Liga Pro, que terminó en derrota, los futbolistas señalaron la falta de pago. Asimismo, exigieron la intervención de la Liga Pro, Federación Ecuatoriana de Fútbol (FEF), y el Comando Conjunto de las Fuerzas Armadas -entidad vinculada al elenco- dado que no han recibido respuesta de la **dirigencia**[.](https://en.wikipedia.org/wiki/C.D._El_Nacional "https://en.wikipedia.org/wiki/C.D._El_Nacional")
+
+Con respecto al presente económico de **El Nacional**, Vallecilla sostuvo en la Radio Redonda que la institución mantiene una deuda con ella. A su vez, defendió su gestión, ofreció su ayuda, criticó a **Marco Pazos** -actual presidente- y mostró su malestar ante el señalamiento de un aumento excesivo del déficit de la escuadra en su administración.
+
+Lucía Vallecilla, contra Marco Pazos y Tito Majarrez, presidente y expresidente de El Nacional
+----------------------------------------------------------------------------------------------
+
+“**Manjarrez dice que con Vallecilla subimos la deuda de dos millones a 12 millones de dólares, ¿Qué le pasa a ese zoquete?**“, manifestó la exdirigente del ‘Rojo’. Antes, Manjarrez había manifestado que el monto de valores pendientes quedó en el valor mencionado cuando salió de la escuadra y llegó su sucesora.
+
+Esta, además, señaló que apenas se posesionó durante su gestión, pagó un millón de dólares a la FEF. Asimismo, sostuvo que a **Marcelo Zuleta**, quien era entrenador en ese momento, se le debían cuatro meses de sueldo y ella puso al día al cuerpo técnico, plantilla y funcionarios.
+
+Con respecto al actual presidente de El Nacional, Vallecilla señaló que este no ha sido transparente en cuanto a las acciones realizadas en la escuadra. “**Pazos es un cuentero, le digo con todas las letras. No soy enemiga del señor (…) no quiere reunirse conmigo porque no tiene los pantalones bien puestos y tiene la lengua larga, llena de mentiras**“.
+
+El Nacional debe a Vallecilla y ella ofrece su ayuda
+----------------------------------------------------
+
+La otrora dirigente de **El Nacional** también se mostró dispuesta a ofrecer su apoyo con respecto a la actual situación de la escuadra. Asimismo, agregó que la institución mantiene una deuda con ella, la cual no ha exigido.
+
+“**El club me debe 670 000 dólares al término de 2023 y 700 000 pagados en la FEF. No hemos puesto ninguna demanda**“, manifestó. Lucía Vallecilla argumentó que no ha procedido debido a que desea que el club tenga salud económica.
+
+Con respecto a la ayuda que puede brindar, esta sostuvo que está dispuesta a prestar **un millón de dólares** a la administración de Marco Pazos. Con ello, espera que se paguen los sueldos adeudados y revitalice su gestión en enero de 2025.
+
+Lotería de visas de Estados Unidos extiende plazo para participar
+=================================================================
+
+Estados Unidos sortea cada año entre 50 000 a 55 000 residencias permanentes a través del programa de lotería de visas.
+-----------------------------------------------------------------------------------------------------------------------
+
+![La lotería de visas está disponible para ciertos países, incluido Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/10/loteria-visas-estados-unidos.jpg)
+
+El Programa de Visas de Inmigrantes por Diversidad 2026 o también conocido como **Lotería de Visas**, extendió su plazo de participación.
+
+### Más noticias
+
+* [Kamala Harris ofrece un ‘liderazgo nuevo’](https://www.elcomercio.com/actualidad/mundo/kamala-harris-ofrece-liderazgo-nuevo.html "Kamala Harris ofrece un ‘liderazgo nuevo’")
+* [Donald Trump eleva el tono en la semana final de campaña](https://www.elcomercio.com/actualidad/mundo/donald-trump-eleva-tono-semana-final-campana.html "Donald Trump eleva el tono en la semana final de campaña")
+* [En España se registran 95 fallecidos a causa de las inundaciones](https://www.elcomercio.com/actualidad/mundo/95-fallecidos-inundaciones-valencia-espana.html "En España se registran 95 fallecidos a causa de las inundaciones")
+
+Este es un programa en el que ciudadanos de **algunos países** pueden participar para salir favorecidos con una ‘green card’ o **permiso de residencia.**
+
+Cada año, se sortean entre **50 000 a 55 000 visas** con residencia permanente entre los solicitantes de todo el **mundo**.
+
+Los países que conforman la lista son los que tienen **bajas tasas de inmigración** hacia Estados Unidos.
+
+Sin embargo, **los cupos son limitados** y se deben cumplir algunos requisitos.
+
+Requisitos para participar en la lotería de visas
+-------------------------------------------------
+
+Los principales requisitos para participar en la lotería de visas son:
+
+* Tener 12 años de **educación primaria y secundaria** o su equivalente
+* Ocupar **dos años** de experiencia laboral en los últimos cinco años
+* Ser **ciudadano de uno de los países** que están en la lista
+
+Algunos de los países de **Latinoamérica** de la lista son:
+
+* Argentina
+* Bolivia
+* Chile
+* Costa Rica
+* **Ecuador**
+* Guatemala
+* Nicaragua
+* Panamá
+* Perú
+* Uruguay
+
+Plazos para las inscripciones
+-----------------------------
+
+Las fechas de las inscripciones cambian en cada año. **El registro para la lotería de visas** del 2026 arrancó el miércoles **2 de octubre de 2024** y **termina el jueves 7 de noviembre** a las 12:00.
+
+En un principio la fecha máxima para las inscripciones era el 5 de noviembre, sin embargo, el Gobierno de Estados Unidos extendió **dos días más** las solicitudes.
+
+Pasos para registrarte
+----------------------
+
+Para registrarte debes llenar una [solicitud en línea](https://travel.state.gov/content/travel/en/us-visas/immigrate/diversity-visa-program-entry/diversity-visa-instructions.html "https://travel.state.gov/content/travel/en/us-visas/immigrate/diversity-visa-program-entry/diversity-visa-instructions.html"), luego de enviarla verás una confirmación con un número de registro único.
+
+Debes asegurarte de conservar este **número de confirmación** para consultar el [estado de su solicitud](https://es.wikipedia.org/wiki/Visa "https://es.wikipedia.org/wiki/Visa"). En caso de que salgas favorecido con una ‘green card’, será a este contacto donde te ubicarán.
+
+Después del 3 de mayo de 2025, podrás **consultar el estado de tu solicitud** en la misma página en la que llenaste la aplicación.
+
+Consideraciones
+---------------
+
+No hay costo para inscribirse en la lotería, pero hay tarifas asociadas con el proceso de solicitud de visa.
+
+Es importante tener cuidado con **estafas**, ya que hay muchas páginas que ofrecen servicios por un costo que no son necesarios.
+
+Seis películas recomendadas para el feriado de Difuntos 
+========================================================
+
+Si no sabes qué ver en este feriado de Difuntos, aquí te traemos algunas opciones.
+----------------------------------------------------------------------------------
+
+![Películas en 'streaming' para ver en el feriado de Difuntos. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/feriado-de-difuntos.jpg)
+
+Ecuador tendrá un **feriado largo de cinco días**, con asueto por el **feriado de Difuntos** del 31 de octubre al 4 de noviembre. Durante este período, hay **varias festividades por conmemorar**: una internacional, **Halloween**, el 31 de octubre; y dos nacionales, el **Día de los Difuntos**, el 2 de noviembre, y la **Independencia de Cuenca**, el 3 de noviembre. A continuación, te presentamos algunas películas a considerar para estos días libres. 
+
+### Más noticias
+
+* [Te contamos la historia de Godzilla, el rey de los monstruos en el cine](https://www.elcomercio.com/tendencias/cine/godzilla-historia-cine-japon.html "https://www.elcomercio.com/tendencias/cine/godzilla-historia-cine-japon.html") 
+* [El fenómeno de ‘Smile 2’, éxito en taquilla y aclamada por la crítica](https://www.elcomercio.com/tendencias/cine/smile2-cine-pelicula-critica.html "https://www.elcomercio.com/tendencias/cine/smile2-cine-pelicula-critica.html") 
+
+**Películas para en el feriado de Difuntos** 
+---------------------------------------------
+
+### **‘El Libro de la Vida’ (2014)** 
+
+Manolo desea ser **músico**, pero su familia quiere que sea **torero**. Durante una mágica aventura por **tres mundos de fantasía**, deberá decidir entre seguir su corazón o cumplir con las expectativas familiares. En este filme se puede apreciar a las enigmáticas ‘catrinas’. Se la puede ver en **Disney Plus**. 
+
+### ‘**Coco’ (2017)** 
+
+¿Quién no ha soñado con visitar la **Tierra de los Muertos**? Miguel, un niño apasionado por la música, emprende un viaje inolvidable que **lo conecta con sus ancestros**. Una aventura llena de color y música para conocer la **tradición mexicana del Día de los Muertos**. ‘Coco’ está disponible en la plataforma de ‘streaming’ **Disney Plus**. 
+
+### ‘**Smile’ (2022)** 
+
+**_‘_Smile 2’ ha sido bien recibida en cines**. Si buscas algo nuevo para **Halloween**, esta película es una excelente opción. La **Dra. Rose Cotter**, tras un incidente traumático con un paciente, empieza a vivir **sucesos aterradores** y debe confrontar su oscuro pasado para sobrevivir. La puedes encontrar en **Netflix**.
+
+**‘Halloween’ (2023)** 
+
+**Jamie Lee Curtis** regresa a la **franquicia de Halloween** en su emblemático papel de Laurie Strode para un último enfrentamiento con **Michael Myers**, el asesino enmascarado que la ha atormentado desde 1978. Ahora, 40 años después de la **masacre de Halloween**, Laurie vive en el aislamiento, preparándose para el posible regreso de Michael. Está en **Amazon Prime**.  
+
+### **‘Ghostbusters: apocalipsis fantasma’ (2024)** 
+
+La **familia Spengler** regresa a la icónica estación de bomberos de Nueva York junto a los **cazafantasmas originales**. Ante la amenaza de una **fuerza maligna** liberada por un antiguo artefacto, tanto los cazafantasmas nuevos como los veteranos deben unirse para salvar al mundo. Disponible en **Max**.  
+
+**‘Los hermanos Menendez’ (2024)** 
+
+Con la posibilidad de que estos hermanos puedan salir en libertad, este **terrible caso** ha vuelto a la palestra pública. **Lyle y Erik Menéndez**, condenados a **cadena perpetua** por asesinar a sus padres, hablan en este **documental** sobre el espeluznante crimen y los juicios que le siguieron.  Se lo encuentra en **Netflix**.  
+
+Bolivia convoca 30 futbolistas para visitar a la Selección de Ecuador
+=====================================================================
+
+Bolivia ocupa el séptimo puesto de la tabla de posiciones de las eliminatorias al Mundial 2026.
+-----------------------------------------------------------------------------------------------
+
+![Miguel Terceros (c) es una de las figuras de Bolivia en las eliminatorias al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/10/bolivia_1.jpg)
+
+El seleccionador de Bolivia, Óscar Villegas, convocó este miércoles 30 de octubre de 2024, a **30 futbolistas para los partidos ante la Selección de Ecuador** y Paraguay por las jornadas 11 y 12 de las eliminatorias al Mundial 2026.
+
+Bolivia visitará el próximo jueves **14 de noviembre a Ecuador en la ciudad de Guayaquil** y el martes 19 del mismo mes recibirá a Paraguay en el estadio Municipal de El Alto, ante equipos que se consideran rivales directos en la lucha por la clasificación a la próxima Copa de Mundo.
+
+### Más noticias:
+
+* [¿Cuándo juega el Deportivo Quito contra Toreros FC?](https://www.elcomercio.com/deportes/futbol/deportivo-quito-horario-toreros-guayaquil.html "¿Cuándo juega el Deportivo Quito contra Toreros FC?")
+* [Independiente del Valle es finalista de la Copa Ecuador](https://www.elcomercio.com/deportes/copa-ecuador-independiente-finalista-catolica.html "Independiente del Valle es finalista de la Copa Ecuador")
+* [La historia de Primero de Mayo, único equipo de la Amazonía en el Ascenso](https://www.elcomercio.com/deportes/futbol/primer-mayo-ascenso-nacional-octavos.html "La historia de Primero de Mayo, único equipo de la Amazonía en el Ascenso")
+
+Villegas dijo que encararán con “**total seriedad ambos partidos**“, aunque admitió que la “premisa” es que la ‘Verde’ continúe invicta en El Alto, su nueva casa desde que asumió el banquillo de Bolivia.
+
+“Nuestra necesidad y **mayor posibilidad es en hacernos fuertes de local (ante Paraguay)**, por eso queremos cuidar a algunos jugadores que están a límite con las tarjetas (amarillas)”, enfatizó.
+
+Villegas convocó a 19 futbolistas que juegan en el torneo local y a 11 que juegan en ligas foráneas, por lo que el **promedio de edad del equipos es de 24,3 años** con un 53 % que tienen 23 años o menos.
+
+Los convocados de Bolivia
+-------------------------
+
+Entre los convocados destacan el portero Guillermo Viscarra del The Strongest, el defensa y capitán Luis Haquín, del Ponte Preta brasileño; el mediocampista Ramiro Vaca, del Bolívar; y el extremo Miguel Terceros, del brasileño Santos.
+
+La novedad en la nómina de **Villegas es el llamado del defensa Efraín Morales**, del Atlanta de la MLS de Estados Unidos, de ascendencia boliviana y puertorriqueña.
+
+Bolivia se preparará en la ciudad de La Paz con la base de los futbolistas que juegan en la liga local.
+
+En el caso de Terceros, **Villegas dijo que no será tomado en cuenta ante Ecuador** debido a una infección intestinal que le hizo perder peso, por lo que buscará que esté a plenitud para enfrentar a los paraguayos.
+
+El equipo de **Villegas ocupa el séptimo puesto 7 de las eliminatorias** suramericanas con 12 puntos después de 10 partidos y se mantiene en zona de repesca.
+
+Arqueros:
+---------
+
+Guillermo Viscarra (The Strongest), Rodrigo Banegas (GV, San José) y Alejandro Torres (Oriente Petrolero).
+
+Defensas:
+---------
+
+Luis Haquín (Ponte Preta-BRA), Efraín Morales (Atlanta United-USA), Sebastián Álvarez (Oriente Petrolero), Marcelo Torrez (Santos-BRA),Luis Barbosa (Aurora) , Marcelo Suárez (Always Ready), José Sagredo (Bolívar), Diego Medina (Always Ready), Yomar Rocha (Bolívar), Roberto Carlos Fernández (Akron Tolyatti-RUS) y Luis Paz (Bolívar).
+
+Mediocampistas:
+---------------
+
+Héctor Cuéllar (Always Ready), Ervin Vaca (Bolívar), Robson Matheus (Always Ready), Adalid Terrazas (USM Alger- ARG), Ramiro Vaca (Bolívar), Gabriel Villamil (Liga de Quito-ECU), Daniel Camacho (Universitario de Vinto), Boris Céspedes (Yverdon-Sport FC-SUI), Carlos Sejas (Aurora), Miguel Terceros (Santos-BRA) y Jeyson Chura (The Strongest).
+
+Delanteros:
+-----------
+
+Enzo Monteiro (Santos-BRA), Lucas Chávez (Al Taawoun-ARA), José Martinez (Always Ready), César Menacho (Blooming) y Carmelo Algarañaz (Kalamata-GRE).
+
+![Gabriel Villamil (i), Miguel Terceros y José Sagredo en las eliminatorias al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/10/bolivia_2-1024x683.jpg)
+
+Gabriel Villamil (i), Miguel Terceros y José Sagredo en las eliminatorias al Mundial 2026.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Colombia y Brasil se distancian de Venezuela por los resultados de elecciones
+=============================================================================
+
+Los Gobiernos de Colombia y Brasil mostraron su negativa con Venezuela por no transparentar los resultados luego de más de dos meses.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Gustavo Petro, presidente de Colombia, y Luiz Lula da Silva, presidente de Brasil, mostraron su postura tras la falta de resultados claros en Venezuela](https://www.elcomercio.com/wp-content/uploads/2024/10/brasil-colombia-elecciones-venezuela-a.jpg)
+
+El canciller de Colombia, **Luis Gilberto Murillo**, reiteró que su país no reconocerá los resultados de las **elecciones de Venezuela** si no son presentadas las actas antes del 10 de enero de 2025, cuando culmina el actual periodo presidencial de **Nicolás Maduro**.
 
 ### Más noticias
 
 * [Bad Bunny muestra su apoyo a Kamala Harris](https://www.elcomercio.com/actualidad/mundo/bad-bunny-muestra-apoyo-kamala-harris.html "Bad Bunny muestra su apoyo a Kamala Harris ")
-* [Kamala Harris lanza un anuncio para Puerto Rico](https://www.elcomercio.com/actualidad/mundo/kamala-harris-lanza-anuncio-puertorriquenos-insultos-trump.html "Kamala Harris lanza un anuncio para Puerto Rico")
-* [Maná y Los Tigres del Norte se unen a la campaña de Kamala Harris](https://www.elcomercio.com/actualidad/mundo/mana-trigres-norte-campana-kamala-harris.html "Maná y Los Tigres del Norte se unen a la campaña de Kamala Harris ")
+* [Donald Trump eleva el tono en la semana final de campaña](https://www.elcomercio.com/actualidad/mundo/donald-trump-eleva-tono-semana-final-campana.html "Donald Trump eleva el tono en la semana final de campaña")
+* [En España se registran 95 fallecidos a causa de las inundaciones](https://www.elcomercio.com/actualidad/mundo/95-fallecidos-inundaciones-valencia-espana.html "En España se registran 95 fallecidos a causa de las inundaciones")
 
-La vicepresidenta eligió para su mensaje un lugar muy simbólico. Fue el **parque de la Elipse de Washington**, ubicado detrás de la Casa Blanca y a un lado de la Explanada Nacional. Se trató del mismo punto donde **Trump** se dirigió en 2021 a la **turba de seguidores** que minutos después asaltó el Capitolio para frenar la transición de poderes.
+“La postura del Gobierno Nacional sigue siendo clara: la presentación de las actas debe realizarse antes de que culmine el actual período presidencial”, expresó Murillo este miércoles 30 de octubre de 2024 en un mensaje publicado en la **red social X**.
 
-Falta una semana para las elecciones
-------------------------------------
+Agregó: “De lo contrario, como ya lo ha expresado el señor presidente **Gustavo Petro**, Colombia no otorgará reconocimiento a los resultados”, en referencia a los comicios presidenciales venezolanos del 28 de julio[.](https://es.wikipedia.org/wiki/Presidente_de_Brasil "https://es.wikipedia.org/wiki/Presidente_de_Brasil")
 
-También escogió una fecha clave, dado que falta exactamente una semana para las elecciones y las encuestas apuntan a que la **contienda podría ser la más ajustada** del último siglo.
-
-“Me comprometo a ser una **presidenta para todos los estadounidenses**, a poner siempre al país por encima del partido y **por encima de mí misma**“, declaró hasta los pies del obelisco dedicado a George Washington.
-
-En plena recta final de los comicios, Harris hizo un parón en su recorrido por los **estados clave** que decidirán las elecciones y se presentó en la capital para mostrar una **imagen presidenciable** ante todo el país y en horario de máxima audiencia.
-
-“Es hora de pasar página al drama y el **conflicto, el miedo y la división**. Es hora de una nueva generación de liderazgo en Estados Unidos. Estoy preparada para ofrecer ese liderazgo”, afirmó.
-
-El objetivo del evento era remarcar un **contraste total** entre Harris y su rival, quien el 6 de enero de 2021 animó a sus simpatizantes desde ese mismo lugar, a marchar hacia el Capitolio mientras el **Congreso** certificaba la **victoria de Joe Biden**, unos resultados que el republicano sigue sin aceptar.
-
-Trump, quien llama **“héroes” a los condenados por ese ataque**, está imputado ante el tribunal federal del Distrito de Columbia por haber presuntamente instigado el asalto, en el que murieron cinco personas.
-
-La vicepresidenta retrató a su rival como “inestable, **obsesionado con la venganza,** consumido por el agravio y en búsqueda de un poder sin control”.
-
-Cargó además contra Trump por decir recientemente que **está dispuesto a usar el Ejército** para combatir al “enemigo interno” de Estados Unidos, en una supuesta referencia a sus rivales políticos.
-
-Mientras el republicano quiere volver a la Casa Blanca con una “lista de enemigos”, Harris afirmó que ella pretende llegar a la presidencia con una **“lista de cosas por hacer”** para mejorar la vida de los estadounidenses.
-
-Ausencia de Biden
------------------
-
-Harris estuvo arropada por su esposo, **Doug Emhoff,** pero destacó la ausencia de Biden, quien tuvo un perfil muy discreto desde que en julio **renunció a presentarse a la reelección** y le pasó el testigo.
-
-“Esta es su noche (de Harris)”, declaró a la prensa el presidente para justificar su ausencia.
-
-Guerra de Gaza
---------------
-
-Otra gran ausencia fueron las referencias en el discurso a la **guerra de Gaza**, un conflicto que puede afectar sus aspiraciones especialmente en el estado clave de Míchigan, donde reside una gran población árabe.
-
-Centenares de personas se lo intentaron recordar con una **manifestación propalestina** fuera del cordón de seguridad del evento que no logró interrumpir el mensaje de Harris.
-
-Dentro del mitin, miles de personas ondeaban **banderas estadounidenses** o portaban camisetas a favor de Harris, como Melissa, una mujer blanca que hizo seis horas de espera para escucharla.
-
-“Con Kamala Harris no volveremos a tener un 6 de enero (asalto al Capitolio)”, declaró a esta residente en la capital estadounidense, quien considera que “**Trump no debería ni acercarse** a la Casa Blanca de nuevo”.
-
-Polémica en el lado republicano
--------------------------------
-
-El gran discurso de Harris coincide además con la **polémica desatada en el multitudinario** mitin de Trump del domingo en el **Madison Square Garden de Nueva York**, donde un humorista que intervino llamó a Puerto Rico “isla de basura flotante”.
-
-Lejos de disculparse, Trump defendió este martes que su evento fue en realidad **“un festival del amor”,** aunque también admitió que se dijeron “algunas cosas malas”.
-
-No fue casual que la selección musical del mitin de Harris incluyera música de la cantante de origen puertorriqueño Jennifer López y que la animadora del acto exclamara: “**Amamos Puerto Rico!**“.
-
-Entre el público, Carol, que emigró de Nigeria hace casi cuatro décadas, bailaba eufórica con los labios pintados de color azul demócrata para apoyar a Harris.
-
-Estados Unidos siempre ha sido un **“crisol” de personas de orígenes diversos**, reivindicó en clara referencia a la retórica xenófoba de Trump.
-
- “¿Dónde está el Estados Unidos que conocí cuando llegué y que tanto amo?”, cuestionó la entrevistada. **“Aquí estamos!”**, le respondieron otras simpatizantes.
-
-Proyecto de sociedades anónimas en el deporte no calificó en la Asamblea
-========================================================================
-
-Las sociedades anónimas en clubes de Ecuador no llegarán al país de momento.
-----------------------------------------------------------------------------
-
-![Keny Arroyo en un partido con Independiente del Valle por la Copa Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-45.jpg)
-
-El pasado 24 de octubre, el presidente de Ecuador, **Daniel Noboa**, envió a la Asamblea Nacional un proyecto de ley económico urgente sobre la **introducción de sociedades anónimas en el país**, pero este no fue aprobado.
-
-El Consejo de Administración Legislativa (**CAL**) **decidió devolver el “Proyecto** de Ley Orgánica para el Cumplimiento de las Obligaciones Fiscales y Estímulo del Deporte, Educación Física y Recreación”.
-
-### Más noticias:
-
-* [Daniel Noboa impulsa proyecto de ley para transformar a los clubes en sociedades anónimas](https://www.elcomercio.com/deportes/futbol/daniel-noboa-impulsa-proyecto-de-ley-para-transformar-a-los-clubes-en-sociedades-anonimas.html "Daniel Noboa impulsa proyecto de ley para transformar a los clubes en sociedades anónimas")
-* [Asamblea Nacional tiene nuevo Primer Vicepresidente](https://www.elcomercio.com/actualidad/politica/asamblea-elige-primer-vicepresidente-institucion.html "Asamblea Nacional tiene nuevo Primer Vicepresidente")
-* [José Pileggi renuncia a su cargo como presidente de Emelec](https://www.elcomercio.com/deportes/jose-pileggi-emelec-renuncia-presidente.html "José Pileggi renuncia a su cargo como presidente de Emelec")
-
-Según el comunicado emitido por la Asamblea Nacional este miércoles 30 de octubre, el proyecto no pasó porque **la iniciativa no cumple con el carácter de urgencia económica**. Además, el CAL exhortó al mandatario, Daniel Noboa, a enfocar los temas urgentes en la crisis energética que enfrenta el país.
-
-> [#CAL](https://twitter.com/hashtag/CAL?src=hash&ref_src=twsrc%5Etfw) no calificó el Proyecto de Ley Orgánica para el Cumplimiento de las Obligaciones Fiscales del Ecuador y Estímulo del Deporte, Educación Física y Recreación, porque no cumple el carácter de urgente en materia económica.[#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/tbELP1pPpA](https://t.co/tbELP1pPpA)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [October 30, 2024](https://twitter.com/AsambleaEcuador/status/1851591743562465757?ref_src=twsrc%5Etfw)
-
-En qué consistía el proyecto de sociedades anónimas
----------------------------------------------------
-
-El proyecto planteaba que, al adoptar la figura de sociedad anónima, los **clubes deportivos podrían gestionar mejor sus ingresos**, mejorar su control administrativo y cumplir de manera más efectiva con sus obligaciones fiscales. Además, se buscaba fomentar la transparencia en la gestión financiera de estos clubes y promover un **mayor control económico.**
-
-El objetivo del proyecto era revitalizar el **sector deportivo, la actividad física y la recreación** mediante la implementación de medidas tributarias y económicas dirigidas a entidades deportivas que se constituyan como Sociedades Anónimas Deportivas, según lo establecido en su tercer artículo.
-
-¿Qué son las Sociedades Anónimas Deportivas?
---------------------------------------------
-
-Las Sociedades Anónimas Deportivas (SAD) reúnen a individuos que comparten intereses en competiciones deportivas de carácter profesional y buscan generar beneficios económicos.
-
-Este modelo de gestión difiere del utilizado por la mayoría de los clubes de fútbol profesional en el mundo.
-
-En Ecuador, según lo estipulado en la actual **Ley del Deporte**, todos los clubes profesionales están organizados como sociedades civiles sin fines de lucro. Estas instituciones son propiedad de sus socios en su totalidad.  
-
-Cajero automático de una farmacia fue extraído con explosivos
-=============================================================
-
-La Policía realiza investigaciones para dar con los responsables del robo suscitado este miércoles 30 de octubre.
------------------------------------------------------------------------------------------------------------------
-
-![Un robo con explosivos se registró en el sector de las 4 Esquinas, en Llano Grande.](https://www.elcomercio.com/wp-content/uploads/2024/10/Llano-Grande.jpg)
-
-En redes sociales se conoció del **robo de un cajero automático** durante la madrugada de este miércoles 30 de octubre, en Quito.
-
-### Más noticias
-
-* [Pico y placa se suspende en Quito por cinco días](https://www.elcomercio.com/actualidad/quito/pico-y-placa-se-suspende-en-quito-por-cinco-dias.html "Pico y placa se suspende en Quito por cinco días")
-* [Dos ríos están desbordados y siete, en crecimiento](https://www.elcomercio.com/actualidad/dos-rios-estan-desbordados-y-siete-en-crecimiento.html "Dos ríos están desbordados y siete, en crecimiento")
-* [Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito](https://www.elcomercio.com/actualidad/quito/trafico-quito-nuevos-cierres-av-6-de-diciembre-colon-orellana.html "Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito")
-
-El atraco con explosivos
-------------------------
-
-Vecinos de Llano Grande, **norte de Quito,** se alarmaron por el estallido que escucharon alrededor de las 03:15 de hoy, en el barrio 4 Esquinas.
-
-Al salir a revisar constataron que la explosión había ocurrido **en una farmacia del sector.** Las puertas de lánfor se encontraban desprendidas y destruidas en las afueras del local.
-
-El propósito del estallido fue sacar un **cajero automático** que se encontraba en el interior. Así lo consiguieron y se llevaron el artefacto electrónico.
-
-Los moradores se mostraron preocupados por la **inseguridad que se vive en Quito,** donde ya es fácil robar un cajero automático y llevárselo con tranquilidad.
-
-Los vecinos piden más resguardo policial en las **calles de la ciudad,** más aún con la oscuridad que se vive con los cortes de luz.
-
-La Policía Nacional investiga el hecho
---------------------------------------
-
-La **Policía Nacional** acudió de inmediato a brindar asistencia y a realizar pericias investigativas que permitan esclarecer el hecho delictivo.
-
-Según la versión de los moradores, sujetos se llevaron el artefacto en una camioneta negra.
-
-El interior de la farmacia quedó destruido y lleno de escombros.
-
-El coronel Giovani Maldonado, jefe del **Distrito de la Policía Calderón**, señaló que no se conoce cuál es el monto aproximado que contenía el cajero. Los antisociales se llevaron la bóveda completa.
-
-Mediante labores investigativas, la Policía **dio con la camioneta negra** en la que se trasladaban los sujetos ,pero no hallaron a los [ocupantes.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-Los uniformados buscan a los **implicados en este delito**.
-
-Según información preliminar, **no se registraron personas heridas** ni fallecidas en el incidente.
-
-Alan Franco y su regreso triunfal al Atlético Mineiro con la final de la Libertadores
-=====================================================================================
-
-Después de casi una década, un jugador ecuatoriano volverá a disputar una final de la Copa Libertadores.
---------------------------------------------------------------------------------------------------------
-
-![Alan Franco clasificó a la final de la Copa Libertadores 2024 con el Atlético Mineiro.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-44.jpg)
-
-**Alan** **Franco** logró su revancha con **Atlético Mineiro**. Tras fichar con el ‘Galo’ en 2020, donde comenzó con buen pie, pero luego perdió protagonismo, Franco tuvo que salir cedido. Sin embargo, su regreso ha sido triunfal: es ahora una de las figuras del equipo que clasificó a la final de la **Copa Libertadores.**
-
-La noche del martes 29 de octubre, **Franco** aseguró su lugar en el partido por el título del torneo más importante del continente. Atlético Mineiro **eliminó a River Plat**e tras golear 3-0 en casa y empatar sin goles en el Estadio Monumental de Buenos Aires.
-
-### Más noticias:
-
-* [Alan Franco está a las puertas de una final de Copa Libertadores](https://www.elcomercio.com/deportes/futbol/alan-franco-esta-a-las-puertas-de-una-final-de-copa-libertadores.html "Alan Franco está a las puertas de una final de Copa Libertadores")
-* [(Video) Alan Franco tuvo un tierno gesto en la Copa Libertadores](https://www.elcomercio.com/deportes/futbol/alan-franco-tuvo-un-tierno-gesto-en-la-copa-libertadores.html "(Video) Alan Franco tuvo un tierno gesto en la Copa Libertadores")
-* [Alan Franco y Atlético Mineiro golean a River Plate en la Copa Libertadores](https://www.elcomercio.com/deportes/futbol/alan-franco-atletico-mineiro-golean-river-plate-copa-libertadores.html "Alan Franco y Atlético Mineiro golean a River Plate en la Copa Libertadores")
-
-Con este logro, Atlético Mineiro alcanzó su objetivo principal de la temporada y cerró un mes de octubre lleno de éxitos. Además de su clasificación a la final de la **Libertadores**, el equipo también obtuvo un lugar en la final de la **Copa de Brasil**, el torneo más lucrativo del país, con Franco como una pieza clave.
-
-La revancha de Alan Franco en Atlético Mineiro
-----------------------------------------------
-
-**Alan Steven Franco Palma** nació el 21 de agosto de 1998 en Alfredo Baquerizo, provincia del Guayas. Desde los 16 años se unió a **Independiente del Valle**, donde se formó y debutó en 2016. En 2018 se consolidó en el primer equipo, siendo figura en la primera Copa Sudamericana ganada por el club, lo que le valió su transferencia a Atlético Mineiro, uno de los grandes de Sudamérica.
-
-Su **aventura en el ‘Galo’ empezó con éxito en 2020**. A sus 22 años se ganó la titularidad y anotó tres goles, pero para la temporada siguiente, a pesar de los éxitos colectivos al ganar la liga y la Copa, Franco **perdió espacio en el equipo.**
-
-![Alan Franco celebra su primer gol con Talleres de Córdoba. Foto: Twitter @CATalleresdecba.](https://www.elcomercio.com/wp-content/uploads/2022/06/10-10-700x391.jpg)
-
-Al no ser indispensable, fue cedido primero al Charlotte FC de la MLS, donde solo permaneció seis meses, y luego a **Talleres** de Argentina. Con la ‘T’, Franco demostró su calidad, se ganó la titularidad y dejó una gran impresión, lo que le permitió regresar a Brasil a mediados de 2023 en busca de su revancha.
-
-En 2023, **Franco jugó 18 partidos para Atlético Mineiro**, alternando entre titularidades y suplencias bajo las órdenes de Luiz Felipe Scolari. Pero su verdadera revancha llegó en 2024 con la llegada de **Gabriel** **Milito** al banquillo. El técnico argentino le devolvió la titularidad, y el **ecuatoriano respondió en la cancha**, convirtiéndose en un pilar fundamental y ganándose el aprecio de la afición.
-
-Este 2024 se ha consolidado como uno de los jugadores clave de Mineiro, con **45 partidos en el año**, la mayoría como titular, y la oportunidad de disputar las finales de la Copa de Brasil y la **Libertadores**.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/08/ENDRICK-PALMEIRAS-2024-08-20T213041.427.jpg)
-
-Alan Franco en la Copa Libertadores
+Brasil mantiene una postura similar
 -----------------------------------
 
-**Franco ha sido fundamental para Atlético Mineiro** en esta Copa Libertadores, disputando los 11 partidos y siendo titular en 10 de ellos. Solo se ausentó en la última fecha de la fase de grupos, cuando el equipo ya estaba clasificado para los octavos de final.
+Los Gobiernos de **Colombia y Brasil** han intentado mediar en la crisis que vive Venezuela desde que el Consejo Nacional Electoral (**CNE**) anunciara la victoria de Maduro.
 
-En cuanto a sus estadísticas, Franco tiene una precisión de pases del 89%, ha realizado seis pases clave y ha contribuido notablemente en defensa. Sus logros **incluyen ocho intercepciones, 12 entradas, más de 41 balones recuperados** y un 48% de duelos ganados. Su calificación general en el torneo es de 6.82, según SofaScore.
+Ninguno de esos países ha reconocido aún la reelección del presidente venezolano, pero tampoco han dado como ganador al excandidato de la oposición, Edmundo González Urrutia.
 
-Ya son 62 los fallecidos por las inundaciones en Valencia, España
-=================================================================
+Los países apuestan, más bien, por pedir que se publiquen las actas electorales y por abrir el **diálogo** entre las partes.
 
-La cifra de fallecidos es aún provisional. El rey Felipe VI ha mostrado su pésame y ha pedido precaución a la ciudadanía.
--------------------------------------------------------------------------------------------------------------------------
+El 25 de septiembre, el presidente Petro señaló en una entrevista con CNN que Colombia y Brasil tienen una **posición común**: “si no hay presentación de actas, no hay reconocimiento”, dijo.
 
-![Varias personas transitan por la CV-36 entre Valencia y Paiporta cuando el tráfico se encuentra cortado en gran parte de las carreteras de la provincia.](https://www.elcomercio.com/wp-content/uploads/2024/10/inundaciones-Valencia.jpg)
+Elecciones en Venezuela
+-----------------------
 
-La cifra de **personas fallecidas** en las **inundaciones de Valencia** asciende ya a 62, según el último balance ofrecido por el Centro de Coordinación de Emergencias este miércoles 30 de octubre de 2024.
+El 22 de agosto, la Sala Electoral del Tribunal Supremo de Justicia (TSJ) de Venezuela, presidido por la chavista **Caryslia Rodríguez**, validó los resultados oficiales de las elecciones, cuestionados dentro y fuera del país.
+
+Entretanto, la oposición mayoritaria, agrupada en la Plataforma Unitaria Democrática (PUD), sostiene que González Urrutia es el ganador de los comicios con el “**83,5 % de las actas electorales**“, recabadas por testigos y miembros de mesa el día de los comicios
+
+Hasta la fecha, el CNE no ha publicado los resultados desagregados, como lo establece su **cronograma**, que confirmen la victoria de Maduro, pese a numerosos pedidos de la oposición y de buena parte de la comunidad internacional.
+
+Ministerio de Energía anuncia decisión sobre cortes de luz para feriados de noviembre
+=====================================================================================
+
+El Ministerio de Energía y las empresas distribuidoras de electricidad trabajan en un nuevo cronograma de cortes de luz para los feriados de noviembre.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en el feriado cambian, anunció el Cenace.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-feriado.jpg)
+
+El **Ministerio de Energía** tomó una decisión sobre los **cortes de luz** para los **feriados** del 1 al 4 de **noviembre**, la noche de este miércoles 30 de octubre de 2024.
+
+Este Ministerio con las **empresas distribuidoras de electricidad** del país elaboran un nuevo cronograma.
+
+### Más noticias:
+
+* [Cuenca apunta a superar el 90% de ocupación hotelera en feriado de Difuntos e Independencia](https://www.elcomercio.com/actualidad/ecuador/cuenca-apunta-superar-90-ocupacion-hotelera-feriado-difuntos-independencia.html "Cuenca apunta a superar el 90% de ocupación hotelera en feriado de Difuntos e Independencia")
+* [Gobierno acordó con telefónicas medidas de compensación por los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/gobierno-medidas-compensacion-telefonicas-cortes-luz.html "Gobierno acordó con telefónicas medidas de compensación por los cortes de luz")
+
+La decisión sobre los cortes de luz en los feriados del 1 al 4 de noviembre
+---------------------------------------------------------------------------
+
+El Ministerio de Energía anunció que se **cambiarán** los horarios de cortes de luz en los feriados del 1 al 4 de noviembre.
+
+Estos días corresponden al **Día de los Difuntos** y la Independencia de **Cuenca**.
+
+Este cronograma incluye horarios de racionamiento de **seis hasta ocho horas**.
+
+La nueva programación estará vigente durante el feriado nacional, del **1 al 4 de noviembre** de 2024.
+
+Los **horarios publicados** solo tendrá vigencia hasta el 31 de octubre.
+
+La nueva planificación se estructura con el propósito de “**minimizar el impacto** en la ciudadanía durante los días de asueto”, señaló.
+
+El Ministerio de Energía explicó las **motivaciones** de esta decisión.
+
+Las recientes precipitaciones en la cuenca hidrográfica oriental han mejorado las condiciones de los ríos que abastecen a la central **Coca Codo Sinclair**.
+
+Asimismo, se registra una recuperación de la **cota de Mazar,** que a las 18:00 de hoy se sitúa en 2 114,24 metros sobre el nivel del mar.
+
+Los **nuevos horarios** de suspensión de energía eléctrica serán **difundidos** a través de los canales oficiales del Ministerio y de las empresas distribuidoras, el día **jueves 31 de octubre a las 09:00**.
+
+Hasta hoy, la programación de cortes de luz para los feriados del Día de los Difuntos e Independencia de Cuenca, alcanzaban las **14 horas de duración**.
+
+Entre las últimas acciones del Gobierno están las negociaciones para la compra de energía a empresas privadas en **Colombia**.
+
+Esto, luego de que el Gobierno de **Gustavo Petro** se negara definitivamente a reactivar la venta de energía para Ecuador.
+
+Cuniburo fue coronado como campeón de la Serie B
+================================================
+
+Cuniburo (campeón) y Manta (vicecampeón) jugarán en el 2025 en la Liga Pro Serie A.
+-----------------------------------------------------------------------------------
+
+![Jugadores de Cuniburo con el trofeo de campeón de la Serie B 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/cuniburo_campeon_1.jpg)
+
+¡Es oficial! **Cuniburo fue coronado como el flamante campeón** de la Liga Pro Serie B de Ecuador en el estadio Olímpico Atahualpa. La ceremonia se realizó la tarde de este miércoles 30 de octubre de 2024.
+
+Antes de la fiesta del campeón de la Serie B, se **tuvo que jugar el último partido**. Recibió a Independiente Juniors y le ganó por 3-2, con lo que cerró una año en el que demostró ser el mejor equipo de los 10 que compitieron.
+
+### Más noticias:
+
+* [Leones FC ganó y condenó a Vargas Torres al descenso](https://www.elcomercio.com/deportes/futbol/leones-fc-serieb-ecuador-vargas-torres.html "Leones FC ganó y condenó a Vargas Torres al descenso")
+* [Piero Hincapié avanza en la Copa de Alemania con el Leverkusen](https://www.elcomercio.com/deportes/bayer-leverkusen-copa-alemania-piero-hincapie-elversberg.html "Piero Hincapié avanza en la Copa de Alemania con el Leverkusen")
+* [¿Cuándo juega el Deportivo Quito contra Toreros FC?](https://www.elcomercio.com/deportes/futbol/deportivo-quito-horario-toreros-guayaquil.html "¿Cuándo juega el Deportivo Quito contra Toreros FC?")
+
+Los pichinchanos anotaron por intermedio del ecuatoriano José Lugo, el **experimentado argentino Sergio López**, campeón de la Serie A con Delfín (2019) y Aucas (2022); y de su compatriota Rafael Monti.
+
+El experimentado **Jonathan De La Cruz y el joven Mario Solís**, ambos ecuatorianos, descontaron para la visita y cerraron un año en el que fueron uno de los equipos animadores de la Serie B, pero que no pueden ascender por ser filial de Independiente del Valle.
+
+La tabla de posiciones se cerró con **Cuniburo con 69 puntos**. Su campaña registra 21 victorias, seis empates y nueve derrotas. Anotaron 64 goles y recibieron 37 para un gol diferencia positivo de +27.
+
+Con este título, Cuniburo se convirtió en el campeón número 43 de la B, sumando su primera corona.
+
+Cuniburo y Manta a la A
+-----------------------
+
+Manta, el otro ascendido a la **Serie A, fue el segundo mejor equipo**. Sus 60 puntos los alcanzó con 17 victorias, nueve empates y 10 derrotas. Anotaron 45 goles y recibieron 39 para un gol diferencia positivo de +6.
+
+Guayaquil City (59), **Independiente Juniors (57), 9 de Octubre (47)**, Gualaceo (47), San Antonio (44) y Leones FC (37), son los seis equipos que para el 2025 continuarán en la Serie B en busca de ascender.
+
+Vargas Torres de Esmeraldas y **Chacaritas de Tungurahua se despidieron** de la B y descendieron a la  
+Segunda Categoría de sus respectivas provincias.
+
+![José Lugo, delantero de Cuniburo.](https://www.elcomercio.com/wp-content/uploads/2024/10/cuniburo_campeon_2-1024x683.jpg)
+
+José Lugo, delantero de Cuniburo.
+
+Palmarés de la Serie B
+----------------------
+
+No te pierdas - El Confesionario
+--------------------------------
+
+Lluvias aumentan y Coca Codo Sinclair entrega más energía en Ecuador
+====================================================================
+
+Las lluvias en el norte de Ecuador han aumentado el caudal de los ríos, mejorando la generación hidroeléctrica. Coca Codo Sinclair aportó el 52% de la producción energética este miércoles.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Coca Codo Sinclair es la central hidroeléctrica más grande del país, con 1 500 MW de potencia instalada.](https://www.elcomercio.com/wp-content/uploads/2024/10/coca-codosinclair.jpg)
+
+Desde el 28 de octubre de 2024 se registran **lluvias en la zona norte del Ecuador.** Las precipitaciones incrementaron los caudales de los ríos mejorando la entrega de energía de algunas hidroeléctricas[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
 
 ### Más noticias
 
-* [Torrenciales lluvias en España dejan muertos, desaparecidos e inundaciones](https://www.elcomercio.com/actualidad/torrenciales-lluvias-en-espana-dejan-muertos-desaparecidos-e-inundaciones.html "Torrenciales lluvias en España dejan muertos, desaparecidos e inundaciones")
-* [España incauta el mayor cargamento de droga de su historia](https://www.elcomercio.com/actualidad/mundo/espana-mayor-cargamento-droga-ecuador.html "España incauta el mayor cargamento de droga de su historia")
-* [ONU acusa al Gobierno de Venezuela de crímenes de lesa humanidad en elecciones 2024](https://www.elcomercio.com/actualidad/mundo/onu-acusa-gobierno-venezolano-de-crimenes-de-lesa-humanidad-en-elecciones-2024.html "ONU acusa al Gobierno de Venezuela de crímenes de lesa humanidad en elecciones 2024")
+* [Gobierno acordó con telefónicas medidas de compensación por los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/gobierno-medidas-compensacion-telefonicas-cortes-luz.html "Gobierno acordó con telefónicas medidas de compensación por los cortes de luz")
+* [Coca Codo Sinclair entregó el 54% de electricidad este 28 de octubre](https://www.elcomercio.com/actualidad/negocios/coca-codo-sinclair-entrego-54-energia-este-28-octubre.html "Coca Codo Sinclair entregó el 54% de electricidad  este 28 de octubre")
+* [El embalse de Mazar se recupera casi dos metros este 29 de octubre](https://www.elcomercio.com/actualidad/negocios/embalse-mazar-recupera-casi-metros.html "El embalse de Mazar se recupera casi dos metros este 29 de octubre")
 
-La cifra de fallecidos es provisional
+Según el reporte en tiempo real de la **Operador Nacional de Electricidad** (**Cenace**), hasta las 17:00 de este miércoles 30 de octubre de 2024 **Ecuador** generó 46 102 megavatios-hora (MWh), el 63% de esa energía provino de las hidroeléctricas.
+
+La central que más produjo fue **Coca Codo Sinclair** (CCS), ubicada en el límite provincial de Napo y Sucumbíos. Esta **hidroeléctrica** entregó el 52% del monto producido en el país este miércoles.
+
+Según el reporte del Cenace, CCS entregó un promedio de 946 megavatios (MWh) entre las 00:00 y las 17:00 de este miércoles. Esto es más del doble de energía que entregó la semana pasada, que fue un promedio de 400 MWh.
+
+El incremento de la generación de energía de esta central se debe al aumento del caudal del río Coca, que alimenta a **Coca Codo Sinclair**, debido a las lluvias de los últimos días.
+
+Según la Corporación Eléctrica del Ecuador (Celec), el caudal del afluente llegó a 1 052 metros cúbicos por segundo (m³/s) durante el lunes 28 de octubre. Mientras que el martes 29 de octubre el volumen de agua fue de 930 m³/s. Este miércoles el caudal supera los 200 m³/s.
+
+La semana del 21 al 27 de octubre del 2024, el promedio del caudal fue del 20 m³/s.
+
+Otras centrales que entregaron energía este miércoles fueron Agoyán, ubicada en la cuenca del río Pastaza, la central Delsitanisagua, en Zamora Chinchipe, entre otras.
+
+Coca Codo Sinclair, la central más grande del país
+--------------------------------------------------
+
+Coca Codo Sinclair es la hidroeléctrica más grande del país, con una capacidad instalada de 1 500 megavatios (MW).
+
+Esta central es de pasada, ya que no tiene un **gran reservorio de agua**, y produce energía de acuerdo con la fuerza del caudal del **río Coca**, que alimenta a esta hidroeléctrica.
+
+Según el Instituto Nacional de Meteorología e Hidrología (Inamhi), las lluvias de esta semana se concentraron en cuatro provincias. Estas son Sucumbíos, Orellana, Pastaza y Morona Santiago.
+
+Está previsto que las lluvias fuertes y tormentas eléctricas continúen hasta el miércoles 30 de octubre de 2024. Desde este jueves 31 de octubre al 1 de noviembre se esperan altas temperaturas durante el día y lluvias dispersas en el norte del país durante la tarde.
+
+En la zona sur del país, que comprende las provincias de El Oro, Cañar, Azuay, Loja y Zamora Chinchipe, se esperan lluvias ocasionales. En zona del Austro se encuentra el Complejo Hidroeléctrico Paute, con tres hidroeléctricas: Mazar, Paute-Molino y Sopladora, que actualmente no están operando.
+
+Sin embargo, se registra una recuperación de la cota del embalse Mazar, que a las 18:00 de este miércoles se ubica en 2 114,24 metros sobre el nivel del mar.
+
+  
+
+  
+
+Lionel Messi y un conmovedor mensaje para cuidar el mundo
+=========================================================
+
+Lionel Messi, jugador del Inter de Miami y Argentina, envió un mensaje de cuidado del planeta, la naturaleza y la humanidad.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Lionel Messi en un partido de lnter de Miami en la MLS.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-30T182350.351.jpg)
+
+El futbolista argentino **Lionel Messi**, que milita en el Inter Miami, hizo un llamado a “proteger la vida, la naturaleza y la gente”. Aquello sucedió en un video como parte de una iniciativa social, en el marco de la COP16 de Cali, suroccidente de Colombia.
+
+“**Lo que tengo en mis manos es algo muy preciado, vale oro, hay uno solo, con esfuerzo y sentido colectivo podemos cuidarlo**“, expresó el atacante de 37 años. En el video sostiene al planeta e invitó a la gente a sumarse a una iniciativa de la fundación ‘Join the planet’.
+
+### Más noticias:
+
+* [Lionel Messi](https://www.elcomercio.com/deportes/lionel-messi-premio-mejor-mls.html "Lionel Messi fue nominado a un prestigioso premio")[,](https://www.elcomercio.com/deportes/lionel-messi-premio-mejor-mls.html "https://www.elcomercio.com/deportes/lionel-messi-premio-mejor-mls.html") [nominado a un prestigioso premio](https://www.elcomercio.com/deportes/lionel-messi-premio-mejor-mls.html "Lionel Messi fue nominado a un prestigioso premio")
+* [La MLS transmitirá a Lionel Messi en TikTok](https://www.elcomercio.com/deportes/futbol/lionel-messi-mls-tik-tok.html "La MLS transmitirá a Lionel Messi en TikTok")
+* [Lionel Messi, Bad Bunny y un emocionante encuentro](https://www.elcomercio.com/deportes/lionel-messi-bad-bunny-zapatos-encuentro.html "Lionel Messi, Bad Bunny y un emocionante encuentro")
+
+Agregó: “**Juntos haremos una jugada para cambiar el planeta.** El título más grande es lograr la paz con la naturaleza. En la COP16 de Colombia, unámonos para proteger la vida, la naturaleza y la gente”.
+
+El presidente colombiano, **Gustavo Petro**, compartió el video en X junto a un mensaje: “Muy bien compañero Messi, la Paz es con la Naturaleza”.
+
+Sin embargo, la ministra de ambiente de Colombia, **Susana Muhamad**, explicó que el video de la organización ‘Join the Planet’ es “utilizado por ellos en varias de sus campañas”.
+
+Lionel Messi, en promoción de la sostenibilidad
+-----------------------------------------------
+
+“**Para la COP, le incluyeron al final la voz de Messi y el logo de la flor, como apoyo al mensaje de paz con la naturaleza, propósito que nos une a todos.** No vemos acto de mala fe por parte de ‘Join the Planet’, pues Messi es uno de sus embajadores y esta fundación trabaja por la sostenibilidad y sobre todo con el reciclaje”, añadió.
+
+La Coalición Paz con la Naturaleza se trata, en palabras del canciller colombiano, **Luis Gilberto Murillo**, de “un paso firme hacia un futuro sostenible”.
+
+Esta iniciativa busca promover acciones concretas para proteger la **biodiversidad** y restaurar los ecosistemas. A su vez, busca fomentar la justicia social y ambiental, fortalecer la cooperación internacional y empoderar a las comunidades locales para liderar el cambio.
+
+“**Hacer la paz con la naturaleza implica que nos movilicemos en forma colectiva, consciente y permanente** para encontrar alternativas y mejores días de subsistencia para salvar el planeta y la humanidad”, agregó Murillo. 
+
+Daniel Noboa amplió los meses de descuento del valor de las planillas de luz
+============================================================================
+
+La rebaja ordenada por Daniel Noboa en los valores de las planillas de luz se da en medio de los cortes de luz de hasta 14 horas.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![El descuento en las planillas de luz decretado por Daniel Noboa es para cuatro meses.](https://www.elcomercio.com/wp-content/uploads/2024/10/daniel-noboa-planillas-luz.jpg)
+
+El presidente **Daniel Noboa** amplió los meses de descuento del valor de las **planillas de luz**, este miércoles 30 de octubre de 2024.
+
+Noboa emitió el **Decreto Ejecutivo 442** con disposiciones para el **sector residencial.**
+
+### Más noticias:
+
+* [Daniel Noboa adelanta gratuidad de planilla de luz en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-adelanta-gratuidad-de-planilla-de-luz-en-ecuador.html "Daniel Noboa adelanta gratuidad de planilla de luz en Ecuador")
+* [Gobierno acordó con telefónicas medidas de compensación por los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/gobierno-medidas-compensacion-telefonicas-cortes-luz.html "Gobierno acordó con telefónicas medidas de compensación por los cortes de luz")
+
+Decisión de Daniel Noboa sobre el valor de las planillas de luz
+---------------------------------------------------------------
+
+El 9 de septiembre, en cadena nacional, el presidente Daniel Noboa anunció que **el Gobierno cubrirá el costo de las planillas de luz para el sector residencial.**
+
+En esa cadena, Noboa señaló que este beneficio se aplicaría **entre diciembre y febrero, hasta un consumo de 180 kilovatios (KW)**.
+
+Así lo estableció en el **Decreto Ejecutivo 384**, del 12 de septiembre.
+
+Sin embargo, hoy reformó ese Decreto y extendió esa rebaja de **tres a cuatro meses**.
+
+Ahora, la medida se aplicará en los meses de **noviembre, diciembre, enero y febrero** próximos.
+
+“**El excedente del consumo será asumido por el usuario**”, señaló el documento.
+
+Noboa dio disposiciones al **Ministerio de Energía**, a la **Agencia de Regulación y Control de la Electricidad (Arconel)**, las empresas distribuidoras y otras instituciones.
+
+Esto, para analizar y ejecutar las acciones pertinentes, con el fin de que el Estado otorgue una compensación del valor equivalente a **180 kWh**  al mes, “en la planilla de los usuarios residenciales del servicio público de energía eléctrica en todo el país”.
+
+El Gobierno de Daniel Noboa realiza esta ampliación en el **descuento** en medio de la grave crisis energética que atraviesa el país.
+
+La falta de lluvias provoca que el nivel de **caudales de los ríos** no sea suficiente para abastecer a las hidroeléctricas, principal fuente de generación de energía de Ecuador.
+
+Esto ha provocado cortes de luz prolongados por **hasta 14 horas** en la última semana, que se han reducido por la mejora en **Coca Codo Sinclair**.
+
+Corea del Norte lanza un misil balístico sin identificar hacia el mar de Japón
+==============================================================================
+
+El Ministerio de Defensa de Japón también detectó del nuevo test norcoreano.
+----------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-30T181733.405.jpg)
+
+[Corea del Norte](https://www.elcomercio.com/actualidad/mundo/tropas-norcoreanas-estarian-desplazandose-frente-ucraniano-seul.html "https://www.elcomercio.com/actualidad/mundo/tropas-norcoreanas-estarian-desplazandose-frente-ucraniano-seul.html") lanzó este jueves, 30 de octubre de 2024, un **misil balístico** sin identificar hacia el mar de **Japón** (llamado mar del Este en las dos Coreas), según informó en un comunicado el Estado Mayor Conjunto (JCS) surcoreano.
+
+Más noticias
+------------
+
+* [Corea del Norte ganó su tercer Mundial Sub-20 Femenino](https://www.elcomercio.com/deportes/corea-norte-campeon-mundial-sub-20-femenino-japon.html "Corea del Norte ganó su tercer Mundial Sub-20 Femenino")
+* [Joven de 22 años fue ejecutado en Corea del Norte por su preferencia musical](https://www.elcomercio.com/sociedad/joven-ejecutado-preferencia-musical-corea-norte.html "https://www.elcomercio.com/sociedad/joven-ejecutado-preferencia-musical-corea-norte.html")
+
+El Ministerio de Defensa de Japón también detectó del **nuevo test norcoreano**, el primero de este tipo desde el pasado 18 de septiembre, y señaló que se encuentra **analizando los detalles del mismo.**
+
+El JCS explicó en un breve comunicado que está recopilando los **detalles del lanzamiento**, que tiene lugar después de la reunión celebrada en Washington entre los titulares de Defensa estadounidense y surcoreano, Lloyd Austin y Kim Yong-hyun.
+
+En ese encuentro, ambos condenaron el **despliegue de tropas norcoreanas en Rusia,** que según dijo Austin, se habrían acercado ya al frente e Ucrania y van equipadas con uniforme y material ruso.
+
+Asimismo, en la víspera los **servicios de inteligencia de Corea del Sur** señalaron que Pionyang ha completado los preparativos para **realizar un nuevo test nuclear** y un **lanzamiento de misil balístico** intercontinental (ICBM), y advirtieron que podría llevar a cabo alguna de esas **pruebas armamentísticas** de forma inminente, cerca de las **fechas de las elecciones presidenciales** del próximo 5 de noviembre.
+
+Corea del Norte lanzó el pasado 18 de septiembre **varios misiles balísticos** de corto alcance, un test en el que afirmó haber probado con éxito un nuevo proyectil táctico, capaz de transportar una ojiva de gran tamaño. 
+
+Janner Corozo fue el más destacado de la fecha 11
+=================================================
+
+Janner Corozo juega su segunda temporada con Barcelona SC. En el 2023 llegó por primera vez.
+--------------------------------------------------------------------------------------------
+
+![Janner Corozo (c) festeja uno de los goles marcados con Barcelona SC en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/corozo_1.jpg)
+
+**Janner Corozo**, futbolista de Barcelona Sporting Club y de la Selección de Ecuador, fue elegido como el mejor jugador de la jornada 11 de la segunda etapa de la Liga Pro.
+
+El reconocimiento para **Janner Corozo fue publicado en las redes sociales de la Liga Pro**, con lo que certificó la brillante actuación que tuvo con Barcelona SC ante Delfín en el estadio Monumental de Guayaquil.
+
+### Más noticias:
+
+* [Gonzalo Plata está apadrinado por un crack brasileño en el Flamengo](https://www.elcomercio.com/deportes/futbol/gonzalo-plata-esta-apadrinado-crack-brasileno-flamengo.html "Gonzalo Plata está apadrinado por un crack brasileño en el Flamengo")
+* [Gilmar Napa, jugador de Emelec, involucrado en siniestro de tránsito](https://www.elcomercio.com/deportes/futbol/gilmar-napa-emelec-siniestro-transito.html "Gilmar Napa, jugador de Emelec, involucrado en siniestro de tránsito")
+* [Leones FC ganó y condenó a Vargas Torres al descenso](https://www.elcomercio.com/deportes/futbol/leones-fc-serieb-ecuador-vargas-torres.html "Leones FC ganó y condenó a Vargas Torres al descenso")
+
+Corozo fue el autor de un triplete ante los de Manta. **El marcador terminó 4-0 en favor de los locales**. El otro tanto fue anotado por el uruguayo Octavio Rivero, goleador uruguayo que llegó a los siete tantos en esta etapa.
+
+El delantero ecuatoriano se consolidó como el **goleador de BSC en la temporada con 12 tantos**, superando al argentino Francisco Fydriszewski, autor de nueve goles en la primera etapa, antes de marcharse a San Lorenzo de Almagro.
+
+La Liga Pro justificó esta decisión con estadísticas que muestran la efectividad del esmeraldeño: hizo tres remates, tres goles, completó 38 pases y tuvo 56 intervenciones en el partido.
+
+Janner Corozo entre los goleadores
+----------------------------------
+
+La tabla de goleadores, como todo el año, **está liderada por el Álex Arce, delantero paraguayo** de Liga de Quito, que tiene 20 tantos y se proyecta como el máximo favorito para quedarse con este reconocimiento.
+
+El colombiano **Jeison Medina, refuerzo de Independiente del Valle** que llegó desde Aucas, acumuló 17 tantos; mientras que el ecuatoriano Diego Armas, figura y capitán de Técnico Universitario, completó 16 tantos.
+
+Pablo Magnín, experimentado delantero argentino del Deportivo Cuenca, aportó a su club 15 tantos.
+
+Corozo tiene 12 goles. **Le anotó a Delfín (4), Independiente del Valle (2)**, Imbabura (2), Emelec (2), Macará (1) y Deportivo Cuenca (1).
+
+En la Copa Sudamericana le marcó a Bragantino de Brasil en los play-off de los octavos de final.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/corozo_2-1024x683.jpg)
+
+Foto: API.
+
+El XI ideal de la fecha 11
+--------------------------
+
+El XI ideal de la fecha 11 de la segunda etapa de la Liga Pro está **liderado por Barcelona SC e Independiente del Valle**. Ambas escuadras aportan con tres jugadores cada una. Le siguen Técnico Universitario y Universidad Católica con dos.
+
+Orense rompió la hegemonía de los cuatro clubes con la presencia del defensor central Óscar Zambrano, uno de los baluartes de un equipo que está en el lote de los punteros y con opciones de ser el ganador de la etapa.
+
+En el arco destaca la presencia de **Guido Villar (Independiente del Valle)**; Aníbal Chalá (Barcelona SC), Óscar Zambrano (Orense), Gustavo Vallecilla (Universidad Católica) y Matías Fernánez (Independiente del Valle), completan la sólida zona de defensa.
+
+Braian Oyola (Barcelona SC), **Luis Moreno (Universidad Católica), Cristian Zabala (Independiente del Valle)** y Janner Corozo (Barcelona SC) forman el mediocampo.
+
+**Sergio Fabián González y Diego Armas**, ambos de Técnico Universitario, refuerzan la letal delantera.
+
+El ecuatoriano **Paúl Vélez, entrenador del Técnico Universitario**, fue elegido como el mejor entrenador de la jornada.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/corozo_3-1024x683.jpg)
+
+Foto: API.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Mushuc Runa exige sanciones por ‘declaraciones malintencionadas’
+================================================================
+
+Mushuc Runa y su presidente Luis Chango reaccionaron al pronunciamiento de Jonathan Borja, de El Nacional, sobre intentos de amaño.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Jugadores de Mushuc Runa y El Nacional en un partido de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-30T161707.778.jpg)
+
+**Mushuc Runa** se pronunció en la previa del compromiso que lo enfrentará a **El Nacional** por las semifinales de vuelta de Copa Ecuador. El equipo y Luis Chango, su presidente, rechazaron los dichos de **Jonathan Borja**, futbolista criollo, con respecto a intentos de arreglar del partido.
+
+El ‘Bi-Tri’ y el ‘Ponchito’ jugarán uno de los partidos más importantes de su historia durante este jueves **31 de octubre del 2024**. El conjunto rojo busca dar un paso para llegar a la final y conseguir su primer título en 18 años, mientras que los de Tungurahua aspiran al primer trofeo de su historia.
+
+### Más noticias:
+
+* [Jonathan Borja denuncia intentos de soborno a El Nacional](https://www.elcomercio.com/deportes/jonathan-borja-sobornos-el-nacional.html "Jonathan Borja denuncia intentos de soborno a El Nacional")
+* [Liga Pro reacciona ante crisis de El Nacional](https://www.elcomercio.com/deportes/liga-pro-el-nacional-crisis-economica-miguel-loor.html "Liga Pro reacciona ante crisis de El Nacional")
+* [Jugadores de El Nacional exigen sueldo tras caer con Orense](https://www.elcomercio.com/deportes/futbol/sueldos-deudas-nacional-orense-liga-pro.html "Jugadores de El Nacional exigen sueldo tras caer con Orense")
+
+Antes de que se lleve a cabo el compromiso, **Borja** realizó una denuncia. En ella manifestó que uno de sus compañeros contó que alguien se contactó con él para solicitarle que consiga cuatro jugadores y pierdan el duelo.
+
+En su pronunciamiento, el futbolista señaló que aquella situación se la expuso a toda la plantilla de El Nacional y a su DT **Marcelo Zuleta**. Asimismo, sostuvo que tales situaciones no se pueden dar y él y sus colegas tampoco se prestan para ello[.](https://en.wikipedia.org/wiki/C.D._El_Nacional "https://en.wikipedia.org/wiki/C.D._El_Nacional")
+
+La respuesta de Mushuc Runa a Jonathan Borja de El Nacional
+-----------------------------------------------------------
+
+A raíz de lo que sostuvo Borja, **Mushuc Runa** no tardó en responder a lo manifestado y deslindarse de ello. En un comunicado expresó su rechazo a “**declaraciones malintencionadas**” y sostuvo que trabaja para identificar y sancionar a los responsables de la difusión de estas.
+
+“**Rechazamos rotundamente comentarios e información falsa que van en contra de los valores y principios que defendemos y promovemos como institución deportiva, reiteramos nuestro compromiso con la transparencia, la ética deportiva y el juego limpio**“, manifestaron en parte del documento.
+
+**Luis Alfonso Chango**, presidente de Mushuc Runa, también se pronunció. El dirigente sostuvo que también tomará acción con respecto a Jonathan Borja para que se esclarezca y se llegue al fondo de lo que señaló.
+
+“Solicitaremos, a la Comisión Disciplinaria de la Federación Ecuatoriana de Fútbol, **la apertura de un expediente contra el jugador Jonathan Borja Colorado**, con el objetivo de establecer la secuencia de los hechos y las responsabilidades de las personas involucradas en relación con sus declaraciones realizadas en medios de comunicación”, señaló.
+
+El partido de semifinales de la Copa Ecuador
+--------------------------------------------
+
+**El Nacional y Mushuc Runa** disputaron su primer partido de semifinales de la Copa Ecuador durante el miércoles 23 de octubre del 2024. En aquel duelo, los puros criollos se impusieron por un marcador de 2-1.
+
+Aquel duelo dejó a los criollos en una posición favorable gracias a un doblete de **Jorge ‘Tukita’ Ordóñez**. En el caso del ‘Ponchito’, Ángel Gracia puso el empate desde un tiro libre.
+
+La final de vuelta se llevará a cabo en el Estadio Olímpico Atahualpa de Quito. Allí, **El Nacional** hará de local y el balón rodará a partir de las 15:00 del jueves 31 de octubre.
+
+Estos ‘hacks’ trae el nuevo iPhone 16  
+=======================================
+
+Estas son algunas de las novedades del iPhone 16.
+-------------------------------------------------
+
+![El iPhone 16 despierta gran expectativa entre los fanáticos de Apple. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/iphone-16-novedades.jpg)
+
+La llegada del **iPhone 16** ha generado gran expectativa por las **novedades que promete**. Como uno de los teléfonos más esperados en cada nuevo lanzamiento, los fanáticos de esta marca **siempre están a la espera de las novedades que vendrán**. A continuación, seis ‘hacks’ que ofrece este nuevo modelo, de acuerdo con iShop Ecuador, el distribuidor oficial de **Apple**. 
+
+### Más noticias
+
+* [Apple revela el iPhone 16, su primer teléfono con IA](https://www.elcomercio.com/tecnologia/iphone-apple-celular-inteligencia-artificial.html "https://www.elcomercio.com/tecnologia/iphone-apple-celular-inteligencia-artificial.html")
+* [¿Cuándo saldrá el iOS 18 de Apple?](https://www.elcomercio.com/tecnologia/cuando-saldra-ios-18-apple.html "https://www.elcomercio.com/tecnologia/cuando-saldra-ios-18-apple.html")
+
+**Botón de acción en el iPhone 16** 
+------------------------------------
+
+Este botón, que se introdujo con el **iPhone 15**, sustituye la tradicional pestaña física para **silenciar el dispositivo** y permite **personalizar varias funciones**, como activar la cámara, encender la linterna o abrir una aplicación con un simple toque. 
+
+**Fotografías de 48 megapíxeles** 
+----------------------------------
+
+El **iPhone 16** cuenta con una **cámara principal de 48 MP**, y el modelo Pro añade una **cámara ultra gran angular**. Para los fotógrafos profesionales, el **modo RAW** es ideal, ya que ofrece un **formato con un algoritmo de procesamiento y compresión avanzado**, lo que permite un control total sobre los detalles de la imagen. 
+
+**Control de fotografía macro** 
+--------------------------------
+
+Ahora es posible **tomar fotos macro** sin necesidad de un modelo Pro. Con el modo manual de Apple, es posible elegir cuándo activar esta función. Al acercarse a un objeto, el **ícono de la flor** aparece en la interfaz de la cámara, lo que facilita su activación o desactivación. 
+
+**Conectividad 5G**  
+---------------------
+
+Activar el **5G** automáticamente ayuda a **conservar la batería** mientras se mantiene una buena señal. La otra opción es ir a Modo de datos y seleccionar “Permitir más datos en 5G”, lo que es ideal si se tiene un **plan de datos ilimitados**, ya que permite **descargar actualizaciones** más rápidamente y mantener la **sincronización de fotos en iCloud** de manera más constante. 
+
+**iOS 18**  
+------------
+
+Este nuevo dispositivo, que incluye **iOS 18**, no solo **optimiza el rendimiento general**, sino que también **presenta nuevas funciones de personalización en la pantalla de inicio**. Ahora es posible **ajustar los widgets** y los fondos de pantalla de manera dinámica para crear una experiencia más a medida. 
+
+**Carga inteligente** 
+----------------------
+
+Gracias a su **procesador**, se experimenta una **ligera mejora en la capacidad de la batería**, lo que **optimiza el uso de la carga rápida de 30W**. Se recomienda e**vitar que la batería se descargue por completo** antes de cargarla para mantener su rendimiento a largo plazo. 
+
+Feriado lleno de fútbol y emociones en Ecuador
+==============================================
+
+Liga de Quito, IDV y Orense definen gran parte de su suerte en la Liga Pro en los partidos de este feriado lleno de fútbol en Ecuador
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Un feriado lleno de fútbol se vivirá en Ecuador con partidos de la Liga Pro y el Nacional de Ascenso.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-18-1.jpg)
+
+**Ecuador** se prepara para un emocionante feriado lleno de **fútbol,** donde los aficionados podrán disfrutar de los últimos partidos de la **Liga Pro** y el **Nacional de Ascenso.**
+
+Este largo descanso, que va del 31 de octubre al 4 de noviembre, promete ser un festín para los amantes del deporte.
+
+### Más noticias:
+
+* [Diego Armas, el goleador ecuatoriano que sorprende en la Liga Pro](https://www.elcomercio.com/deportes/futbol/diego-armas-el-goleador-ecuatoriano-que-sorprende-en-la-liga-pro.html "Diego Armas, el goleador ecuatoriano que sorprende en la Liga Pro")
+* [Orense derrota a El Nacional y se suma a la pelea por la Liga Pro](https://www.elcomercio.com/deportes/futbol/orense-derrota-nacional-pelea-liga-pro.html "Orense derrota a El Nacional y se suma a la pelea por la Liga Pro")
+* [¿Cuándo juega el Deportivo Quito contra Toreros FC?](https://www.elcomercio.com/deportes/futbol/deportivo-quito-horario-toreros-guayaquil.html "¿Cuándo juega el Deportivo Quito contra Toreros FC?")
+
+Liga Pro que arde
+-----------------
+
+En la recta final del campeonato de la Liga Pro, tres equipos se destacan en la lucha por la etapa: **Independiente del Valle**, **Liga de Quito** y **Orense.**
+
+Actualmente, Independiente del Valle lidera la tabla con 23 puntos, seguido por Liga de Quito, que también suma la misma cantidad, y Orense, con 22 unidades. Este fin de semana, estos equipos se enfrentarán en partidos clave que podrían redefinir la clasificación.
+
+El 1 de noviembre, **Orense** se medirá contra Delfín a las 15:30 en un encuentro que promete ser electrizante. Al día siguiente, **Cumbayá** se enfrentará a Deportivo Cuenca a las 10:30, mientras que Libertad se encontrará con **Imbabura** a las 13:00.
+
+El plato fuerte llegará el 3 de noviembre, cuando Emelec reciba a Liga de Quito a las 15:30, y el líder Independiente del Valle jugará contra El Nacional a las 13:00.
+
+Los partidos de la Liga Pro
+---------------------------
+
+* Orense vs. Delfín 1 de noviembre 15:30
+* Cumbayá vs. D. Cuenca 2 de noviembre 10:30
+* Libertad vs. Imbabura 2 de noviembre 13:00
+* Aucas vs. Barcelona SC 2 de noviembre 15:30
+* Mushuc Runa vs. Macará 3 de noviembre 10:30
+* Independiente del Valle vs. El Nacional 3 de noviembre 13:00
+* Emelec vs. Liga de Quito 3 de noviembre 15:30
+* T. Universitario vs. U. Católica 4 de noviembre 15:00
+
+Deportivo Quito y el Ascenso
+----------------------------
+
+Además, el torneo Nacional de Ascenso también ofrece su parte de acción con los octavos de final que se llevarán a cabo en ocho estadios de seis ciudades del país.
+
+**Deportivo Quito** será uno de los protagonistas en esta fase emocionante del torneo.
+
+Este feriado coincide con la celebración del Día de los Difuntos y la [Independencia de Cuenca](https://es.wikipedia.org/wiki/Independencia_de_Cuenca), fusionando tradiciones culturales con el fervor futbolístico. Las familias ecuatorianas rendirán homenaje a sus seres queridos mientras disfrutan de la adrenalina que solo el fútbol puede ofrecer.
+
+En España se registran 95 fallecidos a causa de las inundaciones
+================================================================
+
+En esta jornada se produce el levantamiento de los cadáveres, que son trasladados a la Ciudad de la Justicia de Valencia.
+-------------------------------------------------------------------------------------------------------------------------
+
+![ehículos amontonados en una calle tras las intensas lluvias de la fuerte dana que afecta especialmente el sur y el este de la península ibérica, este miércoles en Picaña (VaAlencia).](https://www.elcomercio.com/wp-content/uploads/2024/10/dana-espana-fallecidos-.jpg)
+
+El **balance provisional** de víctimas mortales por la DANA en la **provincia de Valencia** asciende ya a 92 personas, según la Generalitat, lo que **eleva la víctima total** de muertos en **España a 95**.
+
+### Más noticias
+
+* [España decreta tres días de luto oficial por la DANA en Valencia que deja 70 fallecidos](https://www.elcomercio.com/actualidad/mundo/espana-decreta-tres-dias-luto-oficial-dana-valencia-deja-70-fallecidos.html "España decreta tres días de luto oficial por la DANA en Valencia que deja 70 fallecidos")
+* [¿Qué significa DANA el fenómeno que impactó a Valencia?](https://www.elcomercio.com/actualidad/mundo/significa-dana-fenomeno-impacto-valencia.html "¿Qué significa DANA el fenómeno que impactó a Valencia?")
+* [La educación ciudadana y la cultura de paz](https://www.elcomercio.com/tendencias/educacion-ciudadana-cultura-paz.html "La educación ciudadana y la cultura de paz")
+
+Hasta el momento son **92 fallecidos en Valencia**, dos en Castilla-La Mancha y uno más en Andalucía.
+
+El Gobierno de España anunció que el **Consejo de Ministros** del próximo martes aprobará la declaración de zona catastrófica para las áreas afectadas.
+
+Levantamiento de los cuerpos
+----------------------------
+
+Durante esta jornada se produce el **levantamiento de los cadáveres**, que son trasladados a la Ciudad de la Justicia de Valencia, donde se habilitó un sótano para **recibir los cuerpos sin vida** antes de las prácticas de las autopsias y de las **tareas de identificación**.  
+  
+La Generalitat valenciana activó ya anoche el **Procedimiento de Múltiples Víctimas**, cuando se supo que había varias víctimas mortales pero no se confirmó aún ninguna cifra, mientras que se reforzó el personal del Instituto de Medicina Legal y los jueces de guardia de los partidos judiciales afectados para unas labores que tienen la máxima prioridad.
+
+Víctimas mortales
+-----------------
+
+Poco a poco se van conociendo quiénes fueron algunas de las víctimas mortales, como dos agente de la Guardia Civil del Paiporta, una madre y una hija en L’Alcudia, o tres vecinos de Alfafar.  
+  
+Los servicios de emergencias se afanan en intentar **acceder a zonas todavía incomunicadas** por las lluvias torrenciales e inundaciones que dejaron **numerosas estampas de coches amontonados** y volcados, calles intransitables por el agua y el fango, y carreteras cortadas.
+
+Paiporta confirma 34 fallecidos en su municipio
+-----------------------------------------------
+
+La **alcaldesa de Paiporta (Valencia),** Maribel Albalat, confirmó que al menos **hay 34 fallecidos** en su municipio a consecuencia de la DANA que afectó a la **Comunidad Valenciana**.  
+  
+Albalat habló de “decenas de personas fallecidas” pero ahora confirmó que hay “más de 34 fallecidos” por las inundaciones de la DANA.  
+  
+La alcaldesa explicó que el pueblo de Paiporta, a unos 10 kilómetros al suroeste de Valencia, “está incomunicado, no funciona nada” y **no tienen “ni agua”** y añadió que están intentando “abrir vías de comunicación”.
+
+Decenas de personas atrapadas
+-----------------------------
+
+Además, las inundaciones mantienen a decenas de personas atrapadas por el agua en distintas localidades de la provincia de Valencia, y hay **cortes del servicio de energía eléctrica**.
+
+En Mira (Cuenca), alrededor de **50 personas** fueron rescatadas.
+
+Moisés Caicedo y el Chelsea se despidieron de la Carabao Cup
+============================================================
+
+El club londinense sufrió la ausencia del ecuatoriano en el mediocampo.
+-----------------------------------------------------------------------
+
+![El Chelsea de Moisés Caicedo quedó fuera de la Carabao Cup.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-50.jpg)
+
+El **Chelsea** perdió 2-0 en su visita al **Newcastle** en St. James’ Park este miércoles 30 de octubre, quedando fuera de los octavos de final de la Carabao Cup. **Moisés Caicedo** no estuvo disponible para este compromiso.
+
+Pese a ser un duelo clave en la temporada, dado que el Chelsea tiene pocas aspiraciones en la Premier League, Enzo **Maresca** optó por no convocar al ecuatoriano, uno de los jugadores más destacados del equipo en la presente temporada.
+
+### Más noticias:
+
+* [Chelsea destaca el aporte defensivo de Moisés Caicedo](https://www.elcomercio.com/deportes/futbol/chelsea-destaca-el-aporte-defensivo-de-moises-caicedo.html "Chelsea destaca el aporte defensivo de Moisés Caicedo")
+* [Chelsea vence sin Moisés Caicedo en Conference League](https://www.elcomercio.com/deportes/chelsea-moises-caicedo-conference-panathinaikos.html "Chelsea vence sin Moisés Caicedo en Conference League")
+* [Chelsea de Moisés Caicedo brilla y derrota al Newcastle](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-newcastle-resultado-premier.html "Chelsea de Moisés Caicedo brilla y derrota al Newcastle")
+
+El partido se definió en media hora
+-----------------------------------
+
+**Chelsea** comenzó el partido bajo presión, ya que al segundo minuto Joelinton del Newcastle impactó el travesaño con un potente disparo. Maresca alineó un equipo con mayoría de suplentes, dejando fuera a varias de sus figuras.
+
+El marcador se abrió al minuto 22 tras un **error en salida de la defensa del Chelsea** ante la presión alta del Newcastle, lo que permitió a Alexander Isak marcar con un disparo certero. Tan solo tres minutos después, otro error del Chelsea resultó en un autogol de **Axel Disasi** al intentar despejar un centro de las ‘Urracas’.
+
+En la segunda mitad, Chelsea controló la posesión del balón, pero no logró generar peligro significativo en el arco rival. Pese a la desventaja, **Maresca solo realizó un cambio**, y el Newcastle defendió sin problemas hasta el pitazo final.
+
+Con esta eliminación, el **Chelsea ahora se centra en tres competiciones:** la FA Cup, donde aún no debuta; la UEFA Conference League, en la que es uno de los favoritos; y la Premier League, aunque desbancar al Manchester City y Liverpool parece una tarea complicada.
+
+¿Cuándo vuelve a jugar?
+-----------------------
+
+El siguiente partido del Chelsea será el próximo domingo 3 de noviembre contra el **Manchester United,** por la Premier League.
+
+El compromiso se jugará en **Old Trafford**, a las 11:30 (hora Ecuador).
+
+Brighton y Pervis Estupiñán eliminados de la Carabao Cup
+========================================================
+
+Pervis Estupiñán arrancó el encuentro contra Liverpool en el banco de suplentes. Ingresó en el ST.
+--------------------------------------------------------------------------------------------------
+
+![Pervis Estupiñán en un partido de la Premier League con el Brighton en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/pervis_1.jpg)
+
+El **Brighton & Hove Albion y Pervis Estupiñán** quedaron eliminados de la Carabao Cup a manos del Liverpool. Este miércoles 30 de octubre de 2024 perdieron por 2-3 ante Liverpool en Falmer Stadium.
+
+El partido entre el Brighton y Liverpool correspondió a los **octavos de final de la Carabao Cup**, que definió al clasificado a la siguiente ronda a partido único. Los actuales campeones son los ‘Reds’.
+
+### Más noticias:
+
+* [Chelsea destaca el aporte defensivo de Moisés Caicedo](https://www.elcomercio.com/deportes/futbol/chelsea-destaca-el-aporte-defensivo-de-moises-caicedo.html "Chelsea destaca el aporte defensivo de Moisés Caicedo")
+* [Cristiano Ronaldo sumó un nuevo fracaso con el Al Nassr](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-sumo-nuevo-fracaso-con-al-nassr-arabia.html "Cristiano Ronaldo sumó un nuevo fracaso con el Al Nassr")
+* [Deportivo Quito y tres equipos históricos buscan ascender a la B](https://www.elcomercio.com/deportes/futbol/deportivo-quito-equipos-ascenso-serieb.html "Deportivo Quito y tres equipos históricos buscan ascender a la B")
+
+La gran figura de la serie fue el **neerlandés Cody Gakpo**, autor de un gol ante Ecuador en el Mundial Catar 2022, con un doblete a los 56′ y 63′ para poner el marcador 0-2 en favor de la visita con verdaderos golazos.
+
+Cuando parecía que el **0-2 estaba cerrado, llegó el descuento de las ‘Gaviotas**‘ a los 81’ con la firma de Simon Adingra, poniendo la cuota de incertidumbre en el cierre del juego que tomó ritmo al estilo de la Premier League.
+
+Sin embargo, el colombiano **Luis Díaz empezó a sellar la clasificación del Liverpool a los 85′** con otro golazo, pero no todo estaba dicho y tenía guardado una nueva emoción para los hinchas locales.
+
+A los 90, Tariq Lamptey volvió a descontar con la complicidad de Jarell Amorin Quansah, que desvió el esférico para descolocar al portero checo Vítězslav Jaroš.
+
+El partido de Estupiñán
+-----------------------
+
+El ecuatoriano **Pervis Estupiñán ingresó al terreno de juego para el segundo tiempo**. Lo hizo en lugar del Ferdi Kadıoğlu, que juega su primera temporada con los ingleses. Llegó desde el Fenerbahçe.
+
+Estupiñán fue determinante para la reacción de su equipo. **Siempre se mostró por la banda izquierda** como una opción de pase para ir al ataque, pero también ayudó en tareas defensivas cuando las dinámica del partido así lo requería.
+
+‘Pervinho’, como también es **conocido el futbolista que se formó en Liga de Quito**, jugó ante el Crawley Town (19′), Wolverhampton (90′) y Liverpool (45). Recibió una tarjeta amarillas en estas tres presentaciones.
+
+En la Premier League suma tres titularidades en las nueve fechas jugadas. Las dos primeras jornadas **no fue tomado en cuenta** por la lesión en uno de sus tobillos. Esta misma dolencia lo dejó sin jugar la Copa América Estados Unidos 2024.
+
+En los tres partidos restantes que suma en la Premier ingresó al cambió. Fue amonestado con tarjeta amarilla en tres oportunidades.
+
+En la jornada 10 de la Premier League, s**e invierten la localía y Liverpool recibirá al Brighton en Anfield**. Está programado para el sábado 2 de noviembre, desde las 10:00.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Las elecciones en Estados Unidos se realizarán el 5 de noviembre de 2024
+========================================================================
+
+Kamala Harris y Donald Trump enfrentan desafíos únicos en un ambiente electoral polarizado.
+-------------------------------------------------------------------------------------------
+
+![Los votantes marcan sus papeletas en el centro de votación del Ayuntamiento de San Francisco, California., en una imagen de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/votacion-estados-unidos-efe.jpg)
+
+Las elecciones de [Estados Unidos](https://www.elcomercio.com/actualidad/mundo/funciona-sistema-electoral-ee-uu.html "https://www.elcomercio.com/actualidad/mundo/funciona-sistema-electoral-ee-uu.html") se celebrarán el **5 de noviembre de 2024**. Los principales candidatos, **Kamala Harris** y [Donald Trump](https://www.elcomercio.com/actualidad/mundo/donald-trump-eleva-tono-semana-final-campana.html "https://www.elcomercio.com/actualidad/mundo/donald-trump-eleva-tono-semana-final-campana.html"), marcan el rumbo electoral.
+
+### Más noticias
+
+* [Las elecciones en Estados Unidos se perfilan como las más ajustadas del siglo](https://www.elcomercio.com/actualidad/mundo/elecciones-estados-unidos-perfilan-ajustadas-siglo.html "Las elecciones en Estados Unidos se perfilan como las más ajustadas del siglo")
+* [Bad Bunny muestra su apoyo a Kamala Harris](https://www.elcomercio.com/actualidad/mundo/bad-bunny-muestra-apoyo-kamala-harris.html "Bad Bunny muestra su apoyo a Kamala Harris ")
+* [Donald Trump eleva el tono en la semana final de campaña](https://www.elcomercio.com/actualidad/mundo/donald-trump-eleva-tono-semana-final-campana.html "Donald Trump eleva el tono en la semana final de campaña")
+
+**Kamala Harris** y **Donald Trump** enfrentan desafíos únicos en un ambiente electoral polarizado. Esta contienda promete ser uno de los **eventos más significativos** en la política estadounidense, marcada por la desconfianza en los medios.
+
+Kamala Harris: un enfoque progresista
 -------------------------------------
 
-Las mismas fuentes han precisado que se trata de **una cifra provisional**, dentro del balance efectuado con la información recibida de los distintos cuerpos y fuerzas de seguridad y emergencias. Estos son los servicios de auxilio que están participando en atender **los efectos de esta catástrofe**.
+Kamala Harris, quien se convirtió en la **primera mujer vicepresidenta en 2021**, hizo de su campaña un **reflejo de sus ideales progresistas**. Con un enfoque en la justicia social, la equidad económica y la reforma del sistema de salud, Harris busca consolidar el **apoyo de las bases demócratas**, así como de los votantes jóvenes y de las comunidades marginadas.
 
-El proceso de levantamiento **e identificación de las personas fallecida**s continúa y está activado desde este martes por la noche el Procedimiento de Múltiples Víctimas. Esto ante la previsión de que las inundaciones ocasionadas por la Dana dejaran **varias víctimas mortales**.
+Su mensaje enfatiza la necesidad de **continuar el trabajo iniciado por la administración Biden**, abordando problemas como el cambio climático, la desigualdad racial y los derechos reproductivos.
 
-Poco a poco se van conociendo más detalles de los **devastadores efectos** de este episodio de lluvias, ante la que el presidente del Gobierno de España, Pedro Sánchez, ha garantizado que no se va a “dejar solos” a los afectados. El **rey Felipe VI ha mostrado su pésame** y ha pedido precaución a la ciudadanía.
+Sin embargo, Harris también enfrenta **críticas por no lograr** avances significativos en algunas áreas durante su mandato como vicepresidenta. Su **gestión en la frontera** y la política migratoria fue objeto de escrutinio, lo que podría **impactar su capacidad** para atraer a votantes indecisos en un ambiente donde la inmigración es un tema candente.
 
-La cifra de fallecidos es aún provisional
------------------------------------------
+Donald Trump: un regreso controversial
+--------------------------------------
 
-Por ejemplo, el desbordamiento del **barranco del Poyo** a su paso por **Aldaia** causó la muerte de tres personas que residían en viviendas de planta baja colindantes al barranco. Esto según ha explicado el alcalde, Enrique Luján, que afirmó que la avenida de agua fue como **“un tsunami”.**
+Por su parte, Donald Trump se presenta como un candidato desafiante con una base de apoyo ferviente. Tras haber ocupado la **presidencia de 2017 a 2021**, Trump mantiene su enfoque en la crítica a la administración Biden. Se posiciona el **defensor de los intereses** de los votantes republicanos. Su mensaje se centra en la economía, la seguridad nacional y la oposición a lo que considera políticas perjudiciales del actual gobierno.
 
-La alcaldesa de Paiporta, **Maribel Albalat**, aseguró que podrían tener **“decenas” de personas fallecidas** a consecuencia de la DANA. También indicó que la localidad, ubicada a diez kilómetros de Valencia, está **totalmente incomunicad**a y no funciona nada.
-
-La **cifra provisional de fallecidos** supera a la que ocasionó la rotura de la presa de Tous (Valencia) en 1982, cuando hubo 38 fallecidos. Mientras, **los servicios de emergencias** se afanan para poder llegar a las zonas más afectadas, que [permanecen incomunicadas](https://es.wikipedia.org/wiki/Espa%C3%B1a "https://es.wikipedia.org/wiki/Espa%C3%B1a") desde ayer.
+A pesar de su popularidad entre algunos sectores, Trump también enfrenta el desafío de lidiar con **múltiples investigaciones** legales que podrían afectar su campaña. Su estilo combativo y polarizador puede energizar a su base, pero también podría alejar a **votantes moderados** que buscan un enfoque más conciliador.
