@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-c94ab9448e17086072bee08b0f45fe2c
+8ac58f195df4cb4903dff560255a6cb0
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![15 mm by 12 mm vintage German glass nuggets](https://sojourner.biz/images/cache/glass/GL0062.200.jpg)](https://sojourner.biz/beads/glass/15-mm-by-12-mm-vintage-german-glass-nuggets.html "15 mm by 12 mm vintage German glass nuggets")
+[![Flower bracelet](https://sojourner.biz/images/cache/BR0006.200.jpg)](https://sojourner.biz/jewelry/bracelets/flower-bracelet.html "Flower bracelet")
 
-#### [15 mm by 12 mm vintage German glass nuggets](https://sojourner.biz/beads/glass/15-mm-by-12-mm-vintage-german-glass-nuggets.html "15 mm by 12 mm vintage German glass nuggets")
+#### [Flower bracelet](https://sojourner.biz/jewelry/bracelets/flower-bracelet.html "Flower bracelet")
 
-$17.00
+$65.00
 
 ### Best Sellers
 
