@@ -137,6 +137,22 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 
 #### Recently Added Sources or Pages
 
+* [Brian Williams Bias Rating](https://mediabiasfactcheck.com/brian-williams-bias-rating/)
+    
+    October 31, 2024
+    
+* [Juneau Empire – Bias and Credibility](https://mediabiasfactcheck.com/juneau-empire-bias/)
+    
+    October 31, 2024
+    
+* [The Information – Bias and Credibility](https://mediabiasfactcheck.com/the-information-bias-and-credibility/)
+    
+    October 31, 2024
+    
+* [Frontiers in Human Neuroscience – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-human-neuroscience-bias-and-credibility/)
+    
+    October 31, 2024
+    
 * [Finger Lakes Times – Bias and Credibility](https://mediabiasfactcheck.com/finger-lakes-times-bias/)
     
     October 31, 2024
@@ -153,44 +169,28 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
     
     October 30, 2024
     
-* [Macdonald-Laurier Institute (MLI) – Bias and Credibility](https://mediabiasfactcheck.com/macdonald-laurier-institute-mli-bias-and-credibility/)
-    
-    October 30, 2024
-    
-* [Muhlenberg College Polling – Bias and Credibility](https://mediabiasfactcheck.com/muhlenberg-college-polling-bias-and-credibility/)
-    
-    October 30, 2024
-    
-* [The Hub – Bias and Credibility](https://mediabiasfactcheck.com/the-hub-bias-and-credibility/)
-    
-    October 29, 2024
-    
-* [Royal Institution of Great Britain – Bias and Credibility](https://mediabiasfactcheck.com/royal-institution-of-great-britain-bias-and-credibility/)
-    
-    October 29, 2024
-    
 
 #### Recently Updated Pages
 
+* [Journalist Bias](https://mediabiasfactcheck.com/journalist-bias/ "View Journalist Bias") - October 31, 2024
+    
+* [Brian Williams Bias Rating](https://mediabiasfactcheck.com/brian-williams-bias-rating/ "View Brian Williams Bias Rating") - October 31, 2024
+    
 * [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - October 31, 2024
     
+* [Juneau Empire – Bias and Credibility](https://mediabiasfactcheck.com/juneau-empire-bias/ "View Juneau Empire – Bias and Credibility") - October 31, 2024
+    
+* [The Information – Bias and Credibility](https://mediabiasfactcheck.com/the-information-bias-and-credibility/ "View The Information – Bias and Credibility") - October 31, 2024
+    
+* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - October 31, 2024
+    
+* [Frontiers in Human Neuroscience – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-human-neuroscience-bias-and-credibility/ "View Frontiers in Human Neuroscience – Bias and Credibility") - October 31, 2024
+    
+* [Electoral College Map 2024 – Harris vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/ "View Electoral College Map 2024 – Harris vs. Trump") - October 31, 2024
+    
+* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - October 31, 2024
+    
 * [Finger Lakes Times – Bias and Credibility](https://mediabiasfactcheck.com/finger-lakes-times-bias/ "View Finger Lakes Times – Bias and Credibility") - October 31, 2024
-    
-* [Journalist Bias](https://mediabiasfactcheck.com/journalist-bias/ "View Journalist Bias") - October 30, 2024
-    
-* [David French Bias Rating](https://mediabiasfactcheck.com/david-french-bias-rating/ "View David French Bias Rating") - October 30, 2024
-    
-* [Neil Cavuto Bias Rating](https://mediabiasfactcheck.com/neil-cavuto-bias-rating/ "View Neil Cavuto Bias Rating") - October 30, 2024
-    
-* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - October 30, 2024
-    
-* [Blacklock’s Reporter – Bias and Credibility](https://mediabiasfactcheck.com/blacklocks-reporter-bias-and-credibility/ "View Blacklock’s Reporter – Bias and Credibility") - October 30, 2024
-    
-* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - October 30, 2024
-    
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - October 30, 2024
-    
-* [Northern Daily Leader – Bias and Credibility](https://mediabiasfactcheck.com/northern-daily-leader-bias/ "View Northern Daily Leader – Bias and Credibility") - October 30, 2024
     
 
 #### Today’s Top Page Views
@@ -198,13 +198,13 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [AtlasIntel Polling - Bias and Credibility](https://mediabiasfactcheck.com/atlasintel-polling-bias-and-credibility/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
+* [Newsweek - Bias and Credibility](https://mediabiasfactcheck.com/newsweek/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [Newsweek - Bias and Credibility](https://mediabiasfactcheck.com/newsweek/)
 * [Electoral College Map 2024 - Harris vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
-* [MBFC's Daily Vetted Fact Checks for 10/30/2024](https://mediabiasfactcheck.com/2024/10/30/mbfcs-daily-vetted-fact-checks-for-10-30-2024/)
 * [Search](https://mediabiasfactcheck.com/search/)
+* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 
 #### Subscribe via Email
 
