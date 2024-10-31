@@ -190,26 +190,18 @@
 
 Subscribe
 
-[#### Nutrition](https://www.healthline.com/nutrition)
+[#### Type 2 Diabetes](https://www.healthline.com/type-2-diabetes)
 
-* Meal Kits
-    
-    * [Overview](https://www.healthline.com/nutrition/meal-kits)
-    * [Diets](https://www.healthline.com/nutrition/meal-kits/diets)
-    * [Meal Kits](https://www.healthline.com/nutrition/meal-kits/meal-kit-reviews)
-    * [Prepared Meals](https://www.healthline.com/nutrition/meal-kits/prepared-meal-reviews)
-    * [Comparisons](https://www.healthline.com/nutrition/meal-kits/comparisons)
-    * [Grocery Delivery](https://www.healthline.com/nutrition/meal-kits/grocery-delivery)
-    
-* [Special Diets](https://www.healthline.com/nutrition/diets)
-* [Healthy Eating](https://www.healthline.com/nutrition/food-and-nutrients)
-* [Food Freedom](https://www.healthline.com/nutrition/food-freedom)
-* [Conditions](https://www.healthline.com/nutrition/nutrition-for-conditions)
-* [Feel Good Food](https://www.healthline.com/nutrition/feel-good-food)
-* [Products](https://www.healthline.com/reviews/nutrition-products)
-* [Vitamins & Supplements](https://www.healthline.com/nutrition/vitamins-and-supplements)
-* [Sustainability](https://www.healthline.com/program/the-sustainable-table)
-* [Weight Management](https://www.healthline.com/nutrition/weight-management)
+* [What to Eat](https://www.healthline.com/type-2-diabetes/what-to-eat)
+* [Medications](https://www.healthline.com/type-2-diabetes/medications)
+* [Essentials](https://www.healthline.com/type-2-diabetes/essentials)
+* [Perspectives](https://www.healthline.com/type-2-diabetes/perspectives)
+* [Mental Health](https://www.healthline.com/type-2-diabetes/mental-health-and-type-2-diabetes)
+* [Life with T2D](https://www.healthline.com/type-2-diabetes/lifestyle)
+* [Newsletter](https://www.healthline.com/newsletter-signup/type-2-diabetes)
+* [Community](https://www.bezzyt2d.com/)
+* [Lessons](https://www.healthline.com/app/type-2-diabetes?utm_source=t2dnav)
+* [Español](https://www.healthline.com/type-2-diabetes/diabetes-tipo-2)
 
 Terms of Use
 ============
