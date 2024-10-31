@@ -308,7 +308,7 @@ Please refer to [https://www.taxact.com/support/request](https://www.taxact.com
 * [Tax Calculator](https://www.taxact.com/tools/tax-calculator)
 * [Self-Employment Calculator](https://www.taxact.com/tools/self-employed-calculator)
 * [Tax Bracket Calculator](https://www.taxact.com/tools/tax-bracket-calculator)
-* [W4 Calculator](https://www.taxact.com/w4-calculator)
+* [W-4 Calculator](https://www.taxact.com/w4-calculator)
 * [Tax Center](https://www.taxact.com/tax-center)
 * [Tax Extensions](https://www.taxact.com/file-irs-tax-extension)
 
