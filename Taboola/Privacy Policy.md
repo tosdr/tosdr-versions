@@ -67,7 +67,7 @@ English Français Español Deutsch Português 中文 (简体) 한국어 日本�
 TABOOLA PRIVACY POLICY
 ======================
 
-Last Update: October 3rd, 2024
+Last Update: October 31st, 2024
 
 For Taboola’s opt-out status options, please [click here](#opt-out).  
 For Taboola’s region-specific notices, please visit the applicable notice for individuals in [Brazil](#notice-to-individuals-in-brazil), [California](#notice-to-individuals-in-the-state-of-california) and [additional U.S. states](#notice-to-individuals-in-applicable-U.S.-states), [Europe](#notice-to-individuals-within-the-european-economic-area-eea) (including the United Kingdom), [China](#notice-to-individuals-in-china), or [Thailand](#notice-to-individuals-in-thailand).
@@ -109,7 +109,7 @@ Taboola also maintains an externally-facing [Trust Center](https://help.taboola.
 Taboola, Inc., together with its [Affiliates](https://www.taboola.com/pdf/affiliate-list), (“**Taboola**”, “**we**”, “**us**”, or “**our**”), recognize the importance of your privacy. In this privacy policy (“Privacy Policy”) we describe how we collect, process, use, and disclose information that we obtain in the following contexts:
 
 * our website, [www.taboola.com](http://www.taboola.com/) and any Taboola website, digital property, communication, or form displaying this Privacy Policy (collectively, the “**Sites**”);
-* our content-discovery platforms, feeds, widgets, analytics tools, pixels, integrations, and other technical applications that we provide on third-party websites (collectively, the “**Content Discovery Platform**”); and
+* our content-discovery platforms, feeds, widgets, analytics tools, pixels, integrations, push notifications, and other technical applications that we provide on third-party websites (collectively, the “**Content Discovery Platform**”); and
 * the Taboola News suite of content-discovery tools available on mobile devices and operating systems (including the Start line of products, collectively “**Taboola News**”) (together with the Content Discovery Platform, the “**Services**”).
 
 When you visit the Sites, or use or interact with any of our Services, we will collect information from or about you or your device, which may include personal information or personal data as defined by applicable privacy laws (“**Personal** **Information**” or “**Personal Data**“) (collectively, the “**Information**”), and this Information will be handled as described in this Privacy Policy.
@@ -180,6 +180,7 @@ User Information that we collect includes, but is not limited to the following:
 
 * **Content Discovery Platform**: We collect Information about a User’s device and operating system, IP address, the web pages accessed by Users within our Customers’ websites, the link that led a User to a Customer’s website, the dates and times a User accesses a Customers’ website, event information (e.g., system crashes), Information about the interactions with advertisements and Customers’ Services (e.g., availability, visibility, and clicks), general location information (e.g., city and state), hashed email addresses (when made available by the User), and gender (when made available by the User). We ask our Customers to obtain consent on our behalf, where required by applicable data protection laws, for us to collect this User Information. We may also obtain Information about you from our [data partners](https://www.taboola.com/policies/data-partners).
 * **Taboola News**: We collect in-app User behaviors (e.g. online status, browsing activity, and clicks) and implicit non-precise device location inferred from search queries (when enabled by the User) and SIM cards or IP addresses. For more information about how we use cookies and other technologies, please refer to our [Cookie Policy](https://www.taboola.com/policies/cookie-policy).
+* **Taboola Push Notification**: We collect Information about Users’ time zone, location (country, region, city), language, mobile operating system (e.g. iOS or Android), browser, connection and internet service provider.
 
 ### 2.2 Why We Use User Information
 
@@ -247,7 +248,7 @@ We retain deidentified or aggregated data, which cannot identify an individual o
 
 ### 2.8 Children
 
-We do not knowingly collect any data or target any advertisements on websites directed to children under the age of sixteen (16). If you are the parent or guardian of a child under the age of sixteen (16) and have a concern regarding the Information we collect, please contact us at [dpo@taboola.com](mailto:dpo@taboola.com).
+We do not knowingly collect any data or target any advertisements on websites directed to children under the age of eighteen (18). If you are the parent or guardian of a child under the age of eighteen (18) and have a concern regarding the Information we collect, please contact us at [dpo@taboola.com](mailto:dpo@taboola.com).
 
 3\. Site Visitors
 -----------------
