@@ -245,8 +245,8 @@ You may contact us concerning our Privacy Policy, please write to us at the fol
     * [Terms of use](https://lemon.io/terms-of-use/)
     * [Privacy policy](https://lemon.io/privacy-policy/)
 
-[](https://lemon.io/)
+[![Lemon logo](/wp-content/themes/lemon/src/images/content/footer/lemon-logo.svg)](https://lemon.io/)
 
-[](https://www.facebook.com/lemoneyeo)[](https://twitter.com/lemoneyeo)[](https://www.instagram.com/lemoneyeo)[](https://www.linkedin.com/company/lemoneyeo/)
+ [![Facebook](/wp-content/themes/lemon/src/images/content/footer/facebook.svg)](https://www.facebook.com/lemoneyeo)[![X](/wp-content/themes/lemon/src/images/content/footer/x.svg)](https://twitter.com/lemoneyeo)[![Instagram](/wp-content/themes/lemon/src/images/content/footer/instagram.svg)](https://www.instagram.com/lemoneyeo)[![Linkedin](/wp-content/themes/lemon/src/images/content/footer/linkedin.svg)](https://www.linkedin.com/company/lemoneyeo/)
 
 © 2024 lemon.io
