@@ -1,33 +1,21 @@
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b2034933.smushcdn.com/2034933/wp-content/uploads/fly-images/58444/CP-Logo-Dark-0x0.png?lossy=2&strip=1&webp=1)](https://client-portal.io/)
+[![](data:image/svg+xml;nitro-empty-id=MjUzOjI2MA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY5IDE1MCIgd2lkdGg9Ijc2OSIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://client-portal.io/)
 
 * [Who we help](#)
     * Who we help [View pricing](https://client-portal.io/pricing)
         
-        * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-            
-            ![](https://client-portal.io/wp-content/uploads/2022/10/card-icon01.svg)
+        * [![](data:image/gif;nitro-empty-id=MjcxOjIxNg==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
             
             Agencies See how Client Portal can help give your agency the edge.](https://client-portal.io/example-web-agency)
-        * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-            
-            ![](https://client-portal.io/wp-content/uploads/2022/10/card-icon04.svg)
+        * [![](data:image/gif;nitro-empty-id=MjgxOjIxNg==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
             
             Accountants See how accountants and CPA’s use Client Portal to keep everything together.](https://client-portal.io/example-accounting/)
-        * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-            
-            ![](https://client-portal.io/wp-content/uploads/2022/10/card-icon02.svg)
+        * [![](data:image/gif;nitro-empty-id=MjkxOjIxNg==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
             
             Schools Client Portal helps schools give parents their own portal](https://client-portal.io/school-portal)
-        * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-            
-            ![](https://client-portal.io/wp-content/uploads/2022/10/card-icon05.svg)
+        * [![](data:image/gif;nitro-empty-id=MzAxOjIxNg==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
             
             Coaches From lifestyle coaching to business consulting, keep your clients on track.](https://client-portal.io/example-coaching/)
-        * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-            
-            ![](https://client-portal.io/wp-content/uploads/2022/10/card-icon03.svg)
+        * [![](data:image/gif;nitro-empty-id=MzExOjIxNg==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
             
             Law firms Keep all your digital paperwork in one, easily accessible place in your law firm.](https://client-portal.io/example-law-firm/)
         * [See all our use cases →](https://client-portal.io/industries)
@@ -143,9 +131,7 @@ The preceding terms & conditions govern the sale of Client Portal between you th
 
 We reserve the right to change or modify the current terms and conditions with no prior notice.
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b2034933.smushcdn.com/2034933/wp-content/uploads/fly-images/54795/logo-dark-footer01@2x-0x0.png?lossy=2&strip=1&webp=1)](https://client-portal.io/)A super simple way to store your clients' deliverables
+ [![](data:image/svg+xml;nitro-empty-id=NDQ1OjI3OA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTA4IDk4IiB3aWR0aD0iNTA4IiBoZWlnaHQ9Ijk4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://client-portal.io/)A super simple way to store your clients' deliverables
 
 * ##### INDUSTRIES
     
