@@ -306,29 +306,31 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Netflix co-CEO Greg Peters spent months with an executive coach to train him to co-lead the world’s biggest entertainment company.](https://static.ffx.io/images/$zoom_0.7646%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1284%2C$y_215/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6dd8ee855290ab0e8f37888fa40cb4c217207ea6)](https://www.afr.com/companies/media-and-marketing/netflix-s-co-ceo-says-its-impossible-to-run-the-500b-giant-alone-20241014-p5ki1v)
+[![VRC CEO Kylie Rogers](https://static.ffx.io/images/$zoom_0.7098%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_788%2C$y_380/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/649659b03160b455f36b42019d4a3b2cd688ed58)](https://www.afr.com/work-and-careers/workplace/how-victoria-racing-club-s-new-boss-plans-to-turn-around-its-fortunes-20241010-p5khfb)
 
-### [Netflix’s co-CEO says it’s ‘impossible’ to run the $500b giant alone](https://www.afr.com/companies/media-and-marketing/netflix-s-co-ceo-says-its-impossible-to-run-the-500b-giant-alone-20241014-p5ki1v)
+### [How Victoria Racing Club’s new boss plans to turn around its fortunes](https://www.afr.com/work-and-careers/workplace/how-victoria-racing-club-s-new-boss-plans-to-turn-around-its-fortunes-20241010-p5khfb)
 
-* Sam Buckingham-Jones
+* 54 mins ago
+* Zoe Samios and Patrick Durkin
 
-* ### [Inside the contest to succeed Ken MacKenzie at the top of BHP](https://www.afr.com/companies/mining/inside-the-contest-to-succeed-ken-mackenzie-at-the-top-of-bhp-20241028-p5klzv)
+* ### [Netflix’s co-CEO says it’s ‘impossible’ to run the $500b giant alone](https://www.afr.com/companies/media-and-marketing/netflix-s-co-ceo-says-its-impossible-to-run-the-500b-giant-alone-20241014-p5ki1v)
     
-* ### [2024’s most powerful and influential directors revealed](https://www.afr.com/work-and-careers/workplace/2024-s-most-powerful-and-influential-directors-revealed-20241016-p5kiw5)
+* ### [Inside the contest to succeed Ken MacKenzie at the top of BHP](https://www.afr.com/companies/mining/inside-the-contest-to-succeed-ken-mackenzie-at-the-top-of-bhp-20241028-p5klzv)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.1853%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/31d1c8682c65ec2edf2706ed745b83bab8f054f1)](https://www.afr.com/life-and-luxury/food-and-wine/ever-heard-of-a-beer-farm-this-paddock-to-pint-brewery-is-onto-something-20241023-p5kkrk)
+[![  ](https://static.ffx.io/images/$zoom_0.1873%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_16/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c5545d3161618df8f6b1918bcafe0e54883f4550)](https://www.afr.com/life-and-luxury/design/homewares-that-last-forever-how-is-that-good-business-20241021-p5kk1t)
 
-### [Ever heard of a beer farm? This paddock-to-pint brewery is onto something](https://www.afr.com/life-and-luxury/food-and-wine/ever-heard-of-a-beer-farm-this-paddock-to-pint-brewery-is-onto-something-20241023-p5kkrk)
+### [Homewares that last forever? How is that good business?](https://www.afr.com/life-and-luxury/design/homewares-that-last-forever-how-is-that-good-business-20241021-p5kk1t)
 
-* Max Allen
+* 54 mins ago
+* Glynis Traill-Nash
 
-* ### [Mahjong is finding favour with a new generation](https://www.afr.com/life-and-luxury/health-and-wellness/mahjong-is-finding-favour-with-a-new-generation-20241022-p5kk7y)
+* ### [This sustainable car fuel has ‘no performance deficit’](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/this-sustainable-car-fuel-has-no-performance-deficit-20241010-p5khbz)
     
-* ### [This humble ‘house’ in Nepal has lured celebrities and revived a village](https://www.afr.com/life-and-luxury/travel/this-humble-house-in-nepal-has-lured-celebrities-and-revived-a-village-20241022-p5kkdq)
+* ### [Ever heard of a beer farm? This paddock-to-pint brewery is onto something](https://www.afr.com/life-and-luxury/food-and-wine/ever-heard-of-a-beer-farm-this-paddock-to-pint-brewery-is-onto-something-20241023-p5kkrk)
     
 
 [Rich List](https://www.afr.com/rich-list)
