@@ -91,7 +91,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Using AI, historians track how astronomy ideas spread in the 16th century](https://www.sciencenews.org/article/artificial-intelligence-astronomy-ai)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")14 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")19 hours ago
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
@@ -118,19 +118,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [‘Uncovering Dinosaur Behavior’ unearths paleontology’s biases](https://www.sciencenews.org/article/uncovering-dinosaur-book-review)
             
-            By [Aaron Tremper](https://www.sciencenews.org/author/aaron-tremper "Posts by Aaron Tremper")10 hours ago
+            By [Aaron Tremper](https://www.sciencenews.org/author/aaron-tremper "Posts by Aaron Tremper")15 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
             ### [The oldest known fossil tadpole was a big baby](https://www.sciencenews.org/article/oldest-known-tadpole-fossil-big-baby)
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")12 hours ago
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")17 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [These hornets may be the alcohol-detox champs of the animal world](https://www.sciencenews.org/article/hornets-alcohol-detox-champs)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")16 hours ago
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")21 hours ago
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Using AI, historians track how astronomy ideas spread in the 16th century](https://www.sciencenews.org/article/artificial-intelligence-astronomy-ai)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")14 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")19 hours ago
             
         * [Space](https://www.sciencenews.org/topic/space)
             
