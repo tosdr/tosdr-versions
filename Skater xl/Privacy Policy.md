@@ -142,7 +142,7 @@ Player Support
 
 [Community Hub](https://steamcommunity.com/app/962730)
 
-![](https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/962730/cfa29291556bc6ec4f9accc641d5e0ce2e1b1fa1.jpg)
+![](https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/962730/cfa29291556bc6ec4f9accc641d5e0ce2e1b1fa1.jpg)
 
 Skater XL - The Ultimate Skateboarding Game
 
@@ -172,7 +172,7 @@ Very Positive (43) \- 86% of the 43 user reviews in the last 30 days are positiv
 
 All Reviews:
 
-Very Positive (18,131) \- 86% of the 18,131 user reviews for this game are positive.    
+Very Positive (18,130) \- 86% of the 18,130 user reviews for this game are positive.    
 
 Release Date:
 
@@ -198,7 +198,7 @@ Reviews
 
 All Reviews:
 
-Very Positive (86% of 18,131) All Time
+Very Positive (86% of 18,130) All Time
 
 Recent Reviews:
 
@@ -456,7 +456,7 @@ Customer reviews for Skater XL - The Ultimate Skateboarding Game
 
 Overall Reviews:
 
-Very Positive (18,131 reviews) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (18,130 reviews) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Recent Reviews:
 
@@ -464,19 +464,19 @@ Very Positive (43 reviews) ![](https://store.steamstatic.com/public/shared/image
 
 Review Type
 
- All (19,272)  
+ All (19,271)  
  Positive (16,583)  
- Negative (2,689)
+ Negative (2,688)
 
 Purchase Type
 
- All (19,272)  
- Steam Purchasers (18,131) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ All (19,271)  
+ Steam Purchasers (18,130) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
  Other (1,141) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
 
 Language
 
- All Languages (19,272)  
+ All Languages (19,271)  
  Your Languages (13,315) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
 
 [Customize](https://store.steampowered.com//account/languagepreferences)
