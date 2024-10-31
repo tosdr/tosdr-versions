@@ -34,15 +34,15 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Will AN research a cure, exterminate,… (55)](https://forum.nationstates.net/viewtopic.php?t=557725&f=33&view=unread#unread ""Will AN research a cure, exterminate, or back the horde?" (55 posts)")
-* [A Flicker of Light -- OOC Thread (By… (11)](https://forum.nationstates.net/viewtopic.php?t=557669&f=5&view=unread#unread ""A Flicker of Light -- OOC Thread (By Invitation)" (11 posts)")
-* [YN's Final Broadcast or Message in Z-Day (23)](https://forum.nationstates.net/viewtopic.php?t=557733&f=33&view=unread#unread ""YN's Final Broadcast or Message in Z-Day" (23 posts)")
-* [Using the AN's flag, how do they deal… (8,565)](https://forum.nationstates.net/viewtopic.php?t=508055&f=25&view=unread#unread ""Using the AN's flag, how do they deal with traitors? III" (8,565 posts)")
-* [American Politics: The Final Week (5,687)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: The Final Week" (5,687 posts)")
+* [What music are you listening to? v19 (92)](https://forum.nationstates.net/viewtopic.php?t=557533&f=19&view=unread#unread ""What music are you listening to? v19" (92 posts)")
+* [Ukrainian War VII: Everything has a p… (8,219)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (8,219 posts)")
+* [Celebrating the Stars Above (OOC, OPEN) (143)](https://forum.nationstates.net/viewtopic.php?t=555013&f=4&view=unread#unread ""Celebrating the Stars Above (OOC, OPEN)" (143 posts)")
+* [Celebrating the Stars Above (IC, OPEN) (39)](https://forum.nationstates.net/viewtopic.php?t=555645&f=4&view=unread#unread ""Celebrating the Stars Above (IC, OPEN)" (39 posts)")
+* [What is the last movie you've seen? P… (6,396)](https://forum.nationstates.net/viewtopic.php?t=346244&f=19&view=unread#unread ""What is the last movie you've seen? Part 2" (6,396 posts)")
 
 Advertisement
 
-[Z-DayMost Dead](https://www.nationstates.net/page=zday_tally#dtotal)[1the Rejected Realms](https://www.nationstates.net/region=the_rejected_realms) [2the West Pacific](https://www.nationstates.net/region=the_west_pacific) [3The Order of the Grey Wardens](https://www.nationstates.net/region=the_order_of_the_grey_wardens) [4Barbaria](https://www.nationstates.net/region=barbaria) [5Greater Dienstad](https://www.nationstates.net/region=greater_dienstad) [6Europe](https://www.nationstates.net/region=europe) [7Lazarus](https://www.nationstates.net/region=lazarus) [8The North Pacific](https://www.nationstates.net/region=the_north_pacific) [9Osiris](https://www.nationstates.net/region=osiris) [10The East Pacific](https://www.nationstates.net/region=the_east_pacific) [11The Equator](https://www.nationstates.net/region=the_equator) [12Vatican](https://www.nationstates.net/region=vatican) [13the South Pacific](https://www.nationstates.net/region=the_south_pacific) [14Blue Chevron](https://www.nationstates.net/region=blue_chevron) [1510000 Islands](https://www.nationstates.net/region=10000_islands)
+[Z-DayMost Survivors + No Zombies](https://www.nationstates.net/page=zday_tally#ftotal)[1Command and Conquer Universe](https://www.nationstates.net/region=command_and_conquer_universe) [2Last Remote](https://www.nationstates.net/region=last_remote) [3The Emhoff Coalition](https://www.nationstates.net/region=the_emhoff_coalition) [4Avalonia](https://www.nationstates.net/region=avalonia) [5Isolation](https://www.nationstates.net/region=isolation) [6Korel](https://www.nationstates.net/region=korel) [7The Community](https://www.nationstates.net/region=the_community) [8Alterra](https://www.nationstates.net/region=alterra) [9Terra Sacra](https://www.nationstates.net/region=terra_sacra) [10EWU](https://www.nationstates.net/region=ewu) [11Shanations](https://www.nationstates.net/region=shanations) [12R0 Metaverse](https://www.nationstates.net/region=r0_metaverse) [13The Bunny Fire](https://www.nationstates.net/region=the_bunny_fire) [14Tiranith](https://www.nationstates.net/region=tiranith) [15The Jeltronian Empire](https://www.nationstates.net/region=the_jeltronian_empire)
 
 Privacy Policy
 ==============
