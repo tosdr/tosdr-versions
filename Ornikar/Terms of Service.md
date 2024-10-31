@@ -157,27 +157,15 @@ Connexion](https://espace-assure.ornikar.com/connexion)
 
 /
 
-[](https://www.ornikar.com/)
+/
 
 /
 
-[](https://www.ornikar.com/)
+/
 
 /
 
-[](https://www.ornikar.com/)
-
 /
-
-[](https://www.ornikar.com/)
-
-/
-
-[](https://www.ornikar.com/)
-
-/
-
-[](https://www.ornikar.com/)
 
 /
 
