@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/678ff003-d47d-4ab9-9a04-5134bab6e6c2/20241031T133901/678ff003-d47d-4ab9-9a04-5134bab6e6c2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/678ff003-d47d-4ab9-9a04-5134bab6e6c2/20241031T133901/678ff003-d47d-4ab9-9a04-5134bab6e6c2_360x203.jpg)](https://www.king5.com/article/news/local/fire-damages-storage-units-fife/281-ac3e3ff1-7264-4b87-bbd3-9401566fa671)
+    *  [![](https://media.king5.com/assets/KING/images/c585656b-d225-4f3f-ab2a-d48f30ecd8db/c585656b-d225-4f3f-ab2a-d48f30ecd8db_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c585656b-d225-4f3f-ab2a-d48f30ecd8db/c585656b-d225-4f3f-ab2a-d48f30ecd8db_360x203.jpg)](https://www.king5.com/article/news/local/where-washington-state-stands-on-making-daylight-saving-time-permanent/281-2db68931-cf35-4796-9c34-d5c7ed0aa731)
         
-        #### [Smoke billowing from storage facility fire in Fife](https://www.king5.com/article/news/local/fire-damages-storage-units-fife/281-ac3e3ff1-7264-4b87-bbd3-9401566fa671)
+        #### [Here's where Washington state stands on making daylight saving time permanent](https://www.king5.com/article/news/local/where-washington-state-stands-on-making-daylight-saving-time-permanent/281-2db68931-cf35-4796-9c34-d5c7ed0aa731)
         
-    *  [![](https://media.king5.com/assets/KING/images/a3291c0b-3dd8-4113-b105-76a90cd40099/20241031T062627/a3291c0b-3dd8-4113-b105-76a90cd40099_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a3291c0b-3dd8-4113-b105-76a90cd40099/20241031T062627/a3291c0b-3dd8-4113-b105-76a90cd40099_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/pressure-mounting-boeing-strike/281-729e2257-dd0d-4c97-90ba-e3aff01605d2)
+    *  [![](https://media.king5.com/assets/KING/images/c6a8d53b-997a-4585-a2a0-113fc8f281b3/20240529T192459/c6a8d53b-997a-4585-a2a0-113fc8f281b3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c6a8d53b-997a-4585-a2a0-113fc8f281b3/20240529T192459/c6a8d53b-997a-4585-a2a0-113fc8f281b3_360x203.jpg)](https://www.king5.com/article/news/local/seattle/former-seattle-police-chief-adrian-diaz-files-10-million-claim/281-485b67b3-1aa1-4c14-95af-21accbd76f12)
         
-        #### [Pressure mounting for Boeing strike to end from Washington business leaders](https://www.king5.com/article/tech/science/aerospace/boeing/pressure-mounting-boeing-strike/281-729e2257-dd0d-4c97-90ba-e3aff01605d2)
+        #### [Former Seattle police chief files $10 million claim against city](https://www.king5.com/article/news/local/seattle/former-seattle-police-chief-adrian-diaz-files-10-million-claim/281-485b67b3-1aa1-4c14-95af-21accbd76f12)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/6e39fd43-fbb6-4230-bc1f-e126b4d7b734/20241031T120417/6e39fd43-fbb6-4230-bc1f-e126b4d7b734_16x9.jpg) ![](https://media.king5.com/assets/KING/images/6e39fd43-fbb6-4230-bc1f-e126b4d7b734/20241031T120417/6e39fd43-fbb6-4230-bc1f-e126b4d7b734_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/54737f43-efed-4af6-94c7-a69d319ca4a6/20241031T194725/54737f43-efed-4af6-94c7-a69d319ca4a6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/54737f43-efed-4af6-94c7-a69d319ca4a6/20241031T194725/54737f43-efed-4af6-94c7-a69d319ca4a6_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/KGW/images/a137bea9-194c-437e-ac54-4a06044d4ace/20241030T205046/a137bea9-194c-437e-ac54-4a06044d4ace_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/a137bea9-194c-437e-ac54-4a06044d4ace/20241030T205046/a137bea9-194c-437e-ac54-4a06044d4ace_360x203.jpg)](https://www.king5.com/article/weather/earthquakes/earthquake-oregon-coast/283-bc014fc5-c8be-4506-a955-37c8357cbe45)
+    *  [![](https://media.king5.com/assets/KENS/images/c7ac5c7a-b987-4f2b-80ae-f409ec7f8579/20241029T205308/c7ac5c7a-b987-4f2b-80ae-f409ec7f8579_16x9.jpg) ![](https://media.king5.com/assets/KENS/images/c7ac5c7a-b987-4f2b-80ae-f409ec7f8579/20241029T205308/c7ac5c7a-b987-4f2b-80ae-f409ec7f8579_360x203.jpg)](https://www.king5.com/article/weather/weather-on-halloween-2024-western-washington/281-29407c7a-b3d5-44e4-a84e-5caf85dfc6b5)
         
-        #### [3rd largest earthquake reported off Oregon Coast in past 10 years](https://www.king5.com/article/weather/earthquakes/earthquake-oregon-coast/283-bc014fc5-c8be-4506-a955-37c8357cbe45)
+        #### [Latest forecast shows weather on Halloween could have a few tricks for those gathering treats](https://www.king5.com/article/weather/weather-on-halloween-2024-western-washington/281-29407c7a-b3d5-44e4-a84e-5caf85dfc6b5)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-43°
+50°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
