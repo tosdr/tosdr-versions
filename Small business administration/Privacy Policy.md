@@ -140,8 +140,7 @@ Primary Navigation
     
     [Explore our learning platform](https://www.sba.gov/sba-learning-platform)
     
-    * [Learning Center](https://learn.sba.gov/dashboard)
-    * [Ascent](https://ascent.sba.gov/)
+    * [MySBA Learning](https://learning.sba.gov/)
     * [Boots to Business](https://www.sba.gov/sba-learning-platform/boots-business)
     * [T.H.R.I.V.E. Emerging Leaders](https://www.sba.gov/sba-learning-platform/thrive-emerging-leaders-reimagined)
     * [Empower to Grow](https://www.sba.gov/sba-learning-platform/empower-grow)
