@@ -1,10 +1,10 @@
 **AliExpress.com Privacy Policy**
 
-**(Effective as of August** **12****, 2024)** **To see prior version, click [here](https://terms.alicdn.com/legal-agreement/terms/suit_bu1_aliexpress/suit_bu1_aliexpress201909171350_82407_9_5_23227.html).**
+**(Effective as of O****ctober** **31****, 2024)** **To see prior version, click [here](https://terms.alicdn.com/legal-agreement/terms/suit_bu1_aliexpress/suit_bu1_aliexpress201909171350_82407_9_6_24275.html).**
 
 **Table of Contents**
 
-**A. COLLECTION OF INFORMATION**
+### **A. COLLECTION OF INFORMATION**
 
 •   Information That You Provide to Us
 
@@ -12,43 +12,43 @@
 
 •   Information That We Receive From Third Parties
 
-**B.USE OF PERSONAL DATA**
+### **B.USE OF PERSONAL DATA**
 
-**C.DISCLOSURE OR SHARING OF PERSONAL DATA**
+### **C.DISCLOSURE OR SHARING OF PERSONAL DATA**
 
-**D.RETENTION**
+### **D.RETENTION**
 
-**E. RIGHTS REGARDING PERSONAL DATA**  
+### **E. RIGHT. S REGARDING PERSONAL DATA**
 
-**F. COOKIES**
+### **F. COOKIES**
 
-**G. MINORS**
+### **G. MINORS**
 
-**H. SECURITY MEASURES**
+### **H. SECURITY MEASURES**
 
-**I.CHANGES TO THIS PRIVACY POLICY**
+### **I.CHANGES TO THIS PRIVACY POLICY**
 
-**J. VISITORS FROM THE EUROPEAN ECONOMIC AREA AND UK**
+### **J. VISITORS FROM THE EUROPEAN ECONOMIC AREA AND UK**
 
-•   Legal Basis for Data Processing
+•   Legal Basis for Data Processing.
 
-•   Your Rights
+•   Your Rights.
 
-**K.** **VISITORS FROM THE UNITED STATES**
+### **K.** **VISITORS FROM THE UNITED STATES**
 
-**L. VISITORS FROM BRAZIL**
+### **L. VISITORS FROM BRAZIL**
 
-•   Legal Basis for Data Processing
+•   Legal Basis for Data Processing.
 
-•   Your Rights
+•   Your Rights.
 
-**M. VISITORS FROM MEXICO**
+### **M. VISITORS FROM MEXICO**
 
-**N. INTERNATIONAL TRANSFERS OF PERSONAL DATA**
+### **N. INTERNATIONAL TRANSFERS OF PERSONAL DATA**
 
-**O. LANGUAGE**
+### **O. LANGUAGE**
 
-**P. HOW TO CONTACT US.**
+### **P. HOW TO CONTACT US.**
 
 We at AliExpress (“**we**”, or “**us**”) recognize the importance of privacy and confidentiality of personal information.
 
@@ -58,11 +58,11 @@ This Privacy Policy sets out the ways in which we collect, use and disclose info
 
 Depending on your location, the entity responsible for the handing of your personal information is:
 
-•   **For users located in Mainland China****:** If you are a registered member of the Platform, and you are from mainland China, you are contracting with Hangzhou Alibaba Advertising Co., Ltd.
+•  **For users located in Mainland China****:** If you are a registered member of the Platform, and you are from mainland China, you are contracting with Hangzhou Alibaba Advertising Co., Ltd.
 
 •   **For users located in the United States****:** If you are a registered buyer of the Platform, and you are from United States, you are contracting with AliExpress E-Commerce One Pte. Ltd.; If you are a registered seller of the Platform, and you are from United States, you are contracting with AliExpress International (United States) Corporation.
 
-•  **For users located in Brazil****:** Users in Brazil are contracting with Alibaba.com Singapore E-Commerce Private Limited (incorporated in Singapore with Company Reg. No. 200720572D).
+•   **For users located in Brazil****:** Users in Brazil are contracting with Alibaba.com Singapore E-Commerce Private Limited (incorporated in Singapore with Company Reg. No. 200720572D).
 
 •   **For users located in South Korea****:** Users in South Korea are contracting with Alibaba.com Singapore E-Commerce Private Limited (incorporated in Singapore with Company Reg. No. 200720572D). In this regard, for users who access or use the Platform in South Korea, [AliExpress.com Privacy Policy](https://cdn.contract.alibaba.com/terms/privacy_policy_full/20240624154655415/20240624154655415.html) shall apply, and the data controller of your personal information is the same as your contracting entity. 
 
@@ -76,19 +76,18 @@ The personal information that we collect from you, either directly or indirectly
 
 We collect personal information directly from you when you choose to provide us with this information through your use of the Platform and through your other interactions with us, such as where you issue a complaint. Certain parts of the Platform ask you to provide personal data in order to set up and use it to as a Buyer or Seller.
 
-  
-
 **If you are a Buyer**, we will ask you to provide the following personal information:
 
 |     |     |
 | --- | --- |
 | **Data Category** | **Data description** |
-| **Buyer Contact Information** | Such as your name; address; phone number; email address. |
-| **Buyer Payment Information** | Such as credit card or similar payment information that you intend to purchase with; billing and delivery address. |
-| **Purchase Information** | Such as details of the goods purchased and how many. |
-| **Complaint Information** | Such as information connected with the Platform or goods and/or services purchased via the Platform as such information relates to a complaint. |
-| **Identity Information** | Such as a form of ID like a passport or other identity verification for after-sales services. |
-| **Correspondence Information** | Such as your correspondence relating to a customer service department, chat service, telephone or email. |
+| **Account and profile information** | Such as name; username; birthday; gender; address; phone number; email address, and profile image. |
+| **Payment Information** | Such as credit card or similar payment account information that you intend to purchase with; billing and delivery address. |
+| **Purchase Information** | Such as details of the goods purchased and how many; order ID; logistics information and some other information for delivery, returns, refund, sales tax determinations, and payment operations; We also collect information that is required for extended warranty purposes and your transaction and purchase history on or through the Platform. |
+| **Complaint Information** | Such as information connected with the Platform or goods and/or services purchased via the Platform as such information relates to a complaint, for example, the photographs you upload for the products reviews or complaints. |
+| **Identity Information** | Such as a form of ID like a passport or other identity verification for customs clearance purposes or after-sales services. |
+| **Correspondence Information** | Such as your correspondence with us via various channels, such as email, phone, online chat service, social media, mail, instant chat and our customer service department. |
+| **General Personal Information** | When you optionally provide such information, we may collect general personal data that cannot identify you, such as body shape, personal height, chest/waist/hip circumference, and<br><br>weight. For example, this information may be used by us to recommend clothing sizes or styles, personalization, or to provide fit prediction services for you. |
 
 **If you are a Seller (i.e. if you are an employee or representative of a Seller or a sole trader Seller (we’ll refer to you as a Seller))**, we will ask you to provide:
 
@@ -103,6 +102,8 @@ We collect personal information directly from you when you choose to provide us 
 | **Questionnaire Information** | Such as any response to questionnaires for market research/analytics which you choose to partake in which can include marital status, nationality, gender, date of birth, annual income and spending preferences.<br><br>In some circumstances this could include or constitute information which is considered more sensitive. If you prefer not to provide such information, the use of our services and products will not be affected. |
 | **Correspondence Information** | Such as your correspondence relating to a customer service department, chat service, telephone or email. |
 
+  
+
 **Information That We Collect Indirectly**:
 
 If you are a Buyer or Seller or prospective Buyer or Seller, we will collect personal information indirectly, including through automated means from your device when you use our Platform. Some of the information we collect indirectly is captured using cookies and other tracking technologies as explained further in section F "COOKIES" below. We collect the following personal information indirectly:
@@ -115,6 +116,7 @@ If you are a Buyer or Seller or prospective Buyer or Seller, we will collect per
 | **Derived Information** | Such as information we derive or infer about you based on your browsing and buying activity information and other information we have collected about you. |
 | **Social Media Content** | Where you are a certified blogger or influencer for us, your social media account handles and posts/comments made in relation to the Platform. |
 | **Platform Contacts** | Such as people or accounts with whom you share content or interact and contact information if you choose to upload or import it from a device (such as an address book). |
+| **Profile Information** | Including your style preference, if you voluntarily choose to provide it for personalization purposes. |
 
 **Information That We Receive From Third Parties**:
 
@@ -129,32 +131,37 @@ We collect the following personal information from the following categories of t
 | **Data Category** | **Data description** |
 | **Social Media Profile Information** | This may differ depending on which social media platform you are using and your privacy settings within the social media account but generally this will include basic public profile information such as your social media username, nickname or account name; your social media profile picture; country and company name (if applicable). |
 | **Compliance Information** | Such as information required for the purpose of carrying out suitable money laundering, fraud and "know your customer" checks, including your name; email address; company details; and contact information. |
+| **Logistics Information** | updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily. |
 
 **B.** **USE OF PERSONAL DATA**
 
 We collect and use your personal information for the following purposes:
 
-•  **verifying Platform account registrations**, including conducting fraud, security, “Know Your Customer” and anti-money laundering checks in order to approve your Seller account;
+•   **Verifying Platform account registrations**, including conducting fraud, security, “Know Your Customer” and anti-money laundering checks in order to approve your Seller account;
 
-•   **verifying your eligibility** as a Platform blogger or influencer;
+•   **Verifying your eligibility** as a Platform blogger or influencer;
 
-•   **setting up / administering Buyer and Seller accounts**, including providing log-in IDs and setting up payment / transaction accounts;
+•   **Setting up / administering Buyer and Seller accounts**, including providing log-in IDs and setting up payment / transaction accounts;
 
-•   **providing customer service support,** such as responding to your queries, feedback and managing claims and/or disputes;
+•   **Providing customer service support,** such as responding to your queries, feedback and managing claims and/or disputes;
 
-•  **providing/supporting general Platform services**, facilitating communication between Buyers and Sellers, processing transactions and payments, assessing advance withdrawal requests from Sellers and providing logistics and delivery services, supporting Sellers with logistics and delivery;
+•  **Providing/supporting general Platform services**, facilitating communication between Buyers and Sellers, processing transactions and payments, assessing advance withdrawal requests from Sellers and providing logistics and delivery services, supporting Sellers with logistics and delivery;
 
-•   **supporting Buyer and/or Seller clearance declarations / applications** where made via the Platform;
+•   **Supporting Buyer and/or Seller clearance declarations / applications** where made via the Platform;
 
-•   **providing relevant membership benefits**, including birthday rewards, membership offers and coupons, anniversary awards, exclusive member prices;
+•   **Providing relevant membership benefits**, including birthday rewards, membership offers and coupons, anniversary awards, exclusive member prices;
 
-•   **verifying your identity and purchases in connection with product warranty or other after-sales claims**;
+•   **Verifying your identity and purchases in connection with product warranty or other after-sales claims**;
 
-•   **assessing and monitoring account security and transaction risks** of Buyers and Sellers, such as detecting and preventing fraud, money laundering and other security incidents;
+•   **Assessing and monitoring account security and transaction risks** of Buyers and Sellers, such as detecting and preventing fraud, money laundering and other security incidents;
 
-•   **sending and serving tailored marketing and advertising that we believe will be of interest to you** based on the ways in which you use the Platform, your browsing records, and order history (we may use cookies and other similar technologies to provide you with marketing and advertising based upon your browsing activities and interests (see section F. COOKIES below for more information).
+•  **Recommendations and personalization,** such as using your personal information to recommend features, products, and services that might be of interest to you, identify your preferences, and personalize your experience with our services.
 
-•  **conducting research and analytics to ensure the security of our Platform**, to improve the content and layout of the Platform, and to improve our Platform, product offerings and services;
+•  S**weepstakes, contests, and other promotions and events,** such as using your profile image and account information to identify you in related promotions and events, and facilitate your invitations to friends who you want to invite to join the services.
+
+•  **Advertising,** such as displaying interest-based ads based on the ways in which you use the Platform, your browsing records, and order history (we may use cookies and other similar technologies to provide you with marketing and advertising based upon your browsing activities and interests (see section F. COOKIES below for more information) for features, products, and services that might be of interest to you. We do not use information that personally identifies you(such as name or email address) to serve interest-based ads.
+
+•   **Conducting research and analytics to ensure the security of our Platform**, to improve the content and layout of the Platform, and to improve our Platform, product offerings and services;
 
 •   **Help you find people you may know who are also using AliExpress;**      
 
@@ -164,34 +171,37 @@ We may also use your personal information for other purposes that are compatible
 
 We disclose/share personal information with the following categories of recipients:
 
-* **Other Platform Buyers and/or Sellers** where necessary to support purchases and communications made between you. If you are a Buyer, Sellers that you purchase from will also control personal information about you relevant to or connected with your Platform purchases and communications with them. Please refer to Seller Privacy Policies for information about how they will process your information.
+* **Other Platform Buyers and/or Sellers** where necessary to support purchases and communications made between you. If you are a Buyer, Sellers that you purchase from will also control personal information about you relevant to or connected with your Platform purchases and communications with them. Please refer to the respective Seller Privacy Policies for information about how they will process your information.
     
+
+    •  Please note that, in using our services, you may share personal information to others; for example, when other users view items on our platform, they may see item reviews you left as well as your profile image and nickname.
+
 * **Third party partners and service providers and/or affiliates** engaged by or working with us to assist us in providing services to you or who otherwise process personal information for purposes described in this Privacy Policy or notified to you when we collect your personal information. Categories of these partners and service providers include:
     
 
-•   **Alibaba group entities and affiliated companies** and/or their designated service providers that work with us to provide processing services such as software, tools, systems and messaging services for purposes described in this Privacy Policy;
+    •   **Alibaba group entities and affiliated companies** and/or their designated service providers that work with us to provide processing services such as software, tools, systems and messaging services for purposes described in this Privacy Policy. Please refer to Alibaba annual financial report for the group entities.
 
-•   **O****ur business partners** (for example, in order for them to provide you with discounts or offers that may interest Buyers or prospective Buyers) where you have consented to receiving such information from them if required by applicable data protection laws;
+    •   **O****ur business partners** (for example, in order for them to provide you with discounts or offers that may interest Buyers or prospective Buyers) where you have consented to receiving such information from them if required by applicable data protection laws;
 
-•   **Marketing and advertising partners**, such as Google, Twitter, Facebook, and Instagram, and providers of analytics services relating to users’ behavior such as Appsflyer, Criteo, so that they may tailor the content you see when visiting our Platform for analytics and/or advertising purposes. These partners may combine information they collect on our Platform with data on their platforms and data they collect from other websites or through other sources in order to conduct targeted advertising. The processing activities of these third parties marketing platforms are governed by their own privacy policies, not this Privacy Policy (please refer to section F “COOKIES” below);
+    •   **Marketing and advertising partners**, such as Google, X, Facebook, and Instagram, and providers of analytics services relating to users’ behavior such as Appsflyer and Criteo, so that they may tailor the content you see when visiting our Platform for analytics and/or advertising purposes. These partners may combine information they collect on our Platform with data on their platforms and data they collect from other websites or through other sources in order to conduct targeted advertising. The processing activities of these third parties marketing platforms are governed by their own privacy policies, not this Privacy Policy (please refer to section F “COOKIES” below);
 
-•   **Payment service providers** that provide payment processing services. The activities of payment service providers may be governed by their own privacy policies, not this Privacy Policy;
+    •   **Payment service providers** that provide payment processing services, such as Alipay Singapore E-Commerce Private Limited. Please note some activities of payment service providers may be governed by their own privacy policies, not this Privacy Policy;
 
-•   **Credit risk assessment providers** to conduct risk assessment on Sellers to determine whether a Seller can be permitted to make an advance withdrawal;
+    •   **Credit risk assessment providers,** such as Sesame Credit Management Co., Ltd., to conduct risk assessment on Sellers to determine whether a Seller can be permitted to make an advance withdrawal;
 
-•   **Logistics partners** for providing delivery services for Buyers and Sellers, including return and exchange of products, and warehousing services for Sellers;
+    •   **Logistics partners,** such as Hangzhou Cainiao Logistics Information Technology Co., Ltd for providing delivery services for Buyers and Sellers, including return and exchange of products, and warehousing services for Sellers;
 
-•   **Customs agents for customs clearances purposes**, where applicable to support Buyers and Sellers with international sales/purchases;
+    •   **Customs agents for customs clearances purposes**, where applicable to support Buyers and Sellers with international sales/purchases;
 
-•   **Cloud computing or other hosting service providers** to provide cloud storage services;
+    •   **Cloud computing or other hosting service providers**, such as Alibaba Cloud Singapore Private Limited to provide cloud storage services;
 
-•   **Warranty service providers** to provide product warranty services where requested by a Buyer or Seller;
+    •   **Warranty service providers**, such as ZhongAn Online P & C Insurance Co., Ltd., to provide product warranty services where requested by a Buyer or Seller;
 
-•   **Customer service support providers** to provide after-sale services or other customer service support;
+    •   **Customer service support providers**, such as Neusoft Cloud Technology Co., Ltd, to provide after-sale services or other customer service support;
 
-•   **Risk control service providers** to assess the security of Buyer and Seller accounts and transaction risks; and
+    •   **Risk control service providers,** such as Hangzhou Orange Shield Information Technology Co., Ltd., to assess the security of Buyer and Seller accounts and transaction risks; and
 
-•   **Third party rating / reviewing service providers** to carry out reviews of our services with customers if you choose to participate in reviewing or rating Platform products and/or services;
+   •   **Third party rating / reviewing service providers** to carry out reviews or surveys of our services with customers if you choose to participate in reviewing or rating Platform products and/or services;
 
 * **To our professional advisers, law enforcement agencies, insurers, government and regulatory and other organizations** where we believe it is necessary to comply with applicable laws or to exercise, establish or defend our legal rights or protect your vital interests or those of any other person; or as otherwise required or permitted by applicable laws.
     
@@ -200,7 +210,7 @@ We disclose/share personal information with the following categories of recipien
 * **To any other person with your consent to the disclosure.**
     
 
-We have established relationships with other parties and websites to offer you the benefit of products and services which we do not offer. We offer you access to these other parties and their websites either through the use of hyperlinks to these sites from our Platform or through offering “co-branded” sites in which both we and other parties share the same uniform resource locator (URL), domain name or pages within a domain name on the Internet. In some cases you may be required to submit personal information to register or apply for products or services provided by such third parties or co-branded partners. This Privacy Policy does not apply to these third-party sites or co-branded sites. The privacy policies of those other parties may differ from ours, and we have no control over the information that you submit to those other sites. You should read the relevant privacy policy for those third parties sites and co-branded sites before responding to any offers, products or services advertised by them.
+We have established relationships with other parties and websites to offer you the benefit of products and services which we do not offer. We offer you access to these other parties and their websites either through the use of hyperlinks to these sites from our Platform or through offering “co-branded” sites in which both we and other parties share the same uniform resource locator (URL), domain name or pages within a domain name on the Internet. In some cases you may be required to submit personal information to register or apply for products or services provided by such third parties or co-branded partners. This Privacy Policy does not apply to these third-party sites or co-branded sites. The privacy policies of those other parties may differ from ours, and we have no control over the information that you submit to those other sites. You should read the relevant privacy policy for those third parties’ sites and co-branded sites before responding to any offers, products or services advertised by them.
 
 **D. RETENTION**
 
@@ -232,11 +242,11 @@ We also use social media Cookies. You may register for Platform membership and �
 
 We also use Cookies to enable us to track and target the interests of Platform visitors to enhance the experience on our Platform by researching visiting patterns and conducting interest-based advertising; assisting our partners in tracking user visits to the Platforms; and to track progress and participation in promotions and the success of our email marketing campaigns. We use first- and third-party Cookies for these purposes.
 
-For more information about the Cookies we use, please see our [Cookie Notice](https://terms.alicdn.com/legal-agreement/terms/c_platform_service_agreement/20240401172006520/20240401172006520.html).
+For more information about the Cookies we use, please see our [Cookie Notice](https://cdn.contract.alibaba.com/terms/privacy_other/20240528193730388/20240528193730388.html).
 
 **G.** **MINORS**
 
-The Platform is intended for adults and users must be over 18 to use our Platform. We do not intend to sell any of our products or services to minors, as defined by applicable law. If a minor has provided us with personal information without parental or guardian consent, the parent or guardian should contact [DataProtection.AE@aliexpress.com](mailto:DataProtection.AE@aliexpress.com) to remove the information.
+The Platform is intended for adults and users must be over 18 to use our Platform. We do not intend to sell any of our products or services to minors, as defined by applicable law. If a minor has provided us with personal information without parental or guardian consent, the parent or guardian should contact [DataProtection.AE@aliexpress.com](http://mailto:DataProtection.AE@aliexpress.com/) to remove the information.
 
 **H.** **SECURITY MEASURES**
 
@@ -291,8 +301,6 @@ The following table provides more details on our purposes for processing your pe
 | **Help you find people you may know who are also using AliExpress** | Platform Contacts | ·       Our legitimate interests to operate our Platform, or with your consent |
 
 If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided under section P. HOW TO CONTACT US below.
-
-  
 
 You may contact Us using contact information provided in Section P “How to Contact Us” to refuse or withdraw the consent to the processing of personal information (including but limited collecting, usage and disclosure or sharing). However, in such cases, your use of the Platform may be restricted.
 
@@ -418,7 +426,7 @@ The Colorado Privacy Act ("CPA") and its implementing regulations define "consum
 
 •   **Deletion:** You have the right to request to delete certain of your personal data.
 
-•  **Opt-out of Data Processing for purposes of Targeted Advertising; Sales to Third Parties; and Profiling:** We do not engage in profiling of consumers in furtherance of automated decisions that produce legal or similarly significant effects, as those terms are defined under the Colorado Privacy Act. As described above, we do not sell personal data to third parties for money, nor for the purpose of profiling in connection with decisions that produce legal or similarly significant effects. However, we do process personal data for the purpose of displaying targeted or personalized advertisements to you, if you instruct us to do so. You have the right to opt out of the processing of personal data for personalized advertising purposes at any time by changing your cookies choices via our [Cookie Preferences](https://www.aliexpress.com/p/cookie-setting/index.html) on our Platform.
+•   **Opt-out of Data Processing for purposes of Targeted Advertising; Sales to Third Parties; and Profiling:** We do not engage in profiling of consumers in furtherance of automated decisions that produce legal or similarly significant effects, as those terms are defined under the Colorado Privacy Act. As described above, we do not sell personal data to third parties for money, nor for the purpose of profiling in connection with decisions that produce legal or similarly significant effects. However, we do process personal data for the purpose of displaying targeted or personalized advertisements to you, if you instruct us to do so. You have the right to opt out of the processing of personal data for personalized advertising purposes at any time by changing your cookies choices via our [Cookie Preferences](https://www.aliexpress.com/p/cookie-setting/index.html) on our Platform.
 
 •   **Appeal:** You have the right to appeal a refusal to take action on your request. You must ask us to reconsider our decision within 45 days after we send you our decision. We will endeavor to respond to your appeal within 60 days of such an appeal, including a written explanation of the reasons for the decision, and any action taken or not taken in response to the appeal.
 
@@ -448,7 +456,7 @@ The Utah Consumer Privacy Act ("UCPA") defines "consumer" as an individual who i
 
 •   **Deletion:** You have the right to request to delete the personal data provided by you or obtained about you.
 
-•  **Opt-out of Data Processing for purposes of Targeted Advertising and Sales to Third Parties:** As described above, we do not sell personal data to third parties for money, nor for the purpose of profiling in connection with decisions that produce legal or similarly significant effects. We may process personal data for the purpose of displaying targeted or personalized advertisements to you, if you instruct us to do so. You have the right to opt out of the processing of personal data for personalized advertising purposes at any time by changing your cookies choices via our [Cookie Preferences](https://www.aliexpress.com/p/cookie-setting/index.html) on our Platform.
+•   **Opt-out of Data Processing for purposes of Targeted Advertising and Sales to Third Parties:** As described above, we do not sell personal data to third parties for money, nor for the purpose of profiling in connection with decisions that produce legal or similarly significant effects. We may process personal data for the purpose of displaying targeted or personalized advertisements to you, if you instruct us to do so. You have the right to opt out of the processing of personal data for personalized advertising purposes at any time by changing your cookies choices via our [Cookie Preferences](https://www.aliexpress.com/p/cookie-setting/index.html) on our Platform.
 
 **Virginia residents**
 
@@ -486,7 +494,7 @@ We process the categories of personal information described in Section A of our 
 
 We process personal information for the purposes set out in this Privacy Policy observing legal bases set out in the LGPD. Our legal basis for processing your personal information will depend on the personal information in question and the specific context in which we collect it, but will include when it is:
 
-•   necessary for the performance of the contract between you and Alibaba.com Singapore E-Commerce Private Limited (for example, to provide the services requested by you and to identify and authenticate you so that you can use the Platform).
+•  necessary for the performance of the contract between you and Alibaba.com Singapore E-Commerce Private Limited (for example, to provide the services requested by you and to identify and authenticate you so that you can use the Platform).
 
 •   necessary to comply with legal requirements (for example, to comply with applicable accounting rules and make required disclosures to law enforcement authorities);
 
@@ -566,7 +574,7 @@ We will respond to any complete request within 20 days. The response will indica
 
 **N. INTERNATIONAL TRANSFERS OF PERSONAL DATA**
 
-**In connection with providing the services through our Platform, we will store your personal data processed through the Platform in the United States,** **Russia, Germany,** **China and/or Singapore, depending on the country you are located in, mainly for back up and data center storage. These countries have data protection laws that may have different provisions to the laws of your country. There will also be international transfers of your information among the above-mentioned countries.** **Where the transfer is not subject to an adequacy decision or regulations, we take appropriate steps to ensure that recipients of your personal information are bound to duties of confidentiality and we implement appropriate measures to ensure your personal information will remain protected in accordance with this Privacy Policy and applicable laws. The safeguards we use to transfer data in case of both our group companies and third party services providers for personal information originating from the EEA and UK are the European Commission's Standard Contractual Clauses, and the UK Addendum (as applicable). A copy of the relevant clauses can be obtained by contacting us using the contact details provided under section O. HOW TO CONTACT US below.**
+**In connection with providing the services through our Platform, we will store your personal data processed through the Platform in the United States,** **Russia, Germany, S****outh Korea,** **China and/or Singapore, depending on the country you are located in, mainly for back up and data center storage. These countries have data protection laws that may have different provisions to the laws of your country. There will also be international transfers of your information among the above-mentioned countries.** **Where the transfer is not subject to an adequacy decision or regulations, we take appropriate steps to ensure that recipients of your personal information are bound to duties of confidentiality and we implement appropriate measures to ensure your personal information will remain protected in accordance with this Privacy Policy and applicable laws. The safeguards we use to transfer data in case of both our group companies and third party services providers for personal information originating from the EEA and UK are the European Commission's Standard Contractual Clauses, and the UK Addendum (as applicable). A copy of the relevant clauses can be obtained by contacting us using the contact details provided under section P. HOW TO CONTACT US below.**
 
 **O. LANGUAGE**
 
