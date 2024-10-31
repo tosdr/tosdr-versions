@@ -86,7 +86,7 @@ Follow Us
 
 4.9
 
-Based on 706 reviews](http://search.google.com/local/reviews?placeid=ChIJN7RUEGPRyIARvkMzpG68Vcg)
+Based on 711 reviews](http://search.google.com/local/reviews?placeid=ChIJN7RUEGPRyIARvkMzpG68Vcg)
 
 Services
 
@@ -132,7 +132,7 @@ Follow Us
 
 4.9
 
-Based on 706 reviews](http://search.google.com/local/reviews?placeid=ChIJN7RUEGPRyIARvkMzpG68Vcg)
+Based on 711 reviews](http://search.google.com/local/reviews?placeid=ChIJN7RUEGPRyIARvkMzpG68Vcg)
 
 Contractors License #00085578, #0088061 | [Privacy Policy](https://www.702plumbair.com/privacy-policy)
 
