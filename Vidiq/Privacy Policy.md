@@ -53,19 +53,19 @@ vidIQ, Inc. (“vidIQ”, “we”, “us”, or “our”) values your privacy.
 
 By visiting our Site or using any of our Services, you acknowledge that your personal information will be handled as described in this Policy. Visiting our Site, use of our Services, and any dispute over privacy, is subject to our Terms of Use, including its applicable limitations on damages and the resolution of disputes.
 
-* [](#)
-* [1\. Information We Collect About You](#1.-information-we-collect-about-you)
-* [2\. How We Use Your Information](#2.-how-we-use-your-information)
-* [3\. How We Share Your Information](#3.-how-we-share-your-information)
-* [4\. Our Use of Cookies and Other Tracking Mechanisms](#4.-our-use-of-cookies-and-other-tracking-mechanisms)
-* [5\. Third-Party Links](#5.-third-party-links)
-* [6\. Security of Your Personal Information](#6.-security-of-your-personal-information)
-* [7\. Direct Marketing](#7.-direct-marketing)
-* [8\. Information for California Residents](#8.-information-for-california-residents)
-* [9\. Children Under 13](#9.-children-under-13)
-* [10\. Information for EU Individuals](#10.-information-for-eu-individuals)
-* [11\. Contact Us](#11.-contact-us)
-* [12\. Changes to this Policy](#12.-changes-to-this-policy)
+* [](#heading-m4g3l35ot)
+* [1\. Information We Collect About You](#1-information-we-collect-about-you)
+* [2\. How We Use Your Information](#2-how-we-use-your-information)
+* [3\. How We Share Your Information](#3-how-we-share-your-information)
+* [4\. Our Use of Cookies and Other Tracking Mechanisms](#4-our-use-of-cookies-and-other-tracking-mechanisms)
+* [5\. Third-Party Links](#5-third-party-links)
+* [6\. Security of Your Personal Information](#6-security-of-your-personal-information)
+* [7\. Direct Marketing](#7-direct-marketing)
+* [8\. Information for California Residents](#8-information-for-california-residents)
+* [9\. Children Under 13](#9-children-under-13)
+* [10\. Information for EU Individuals](#10-information-for-eu-individuals)
+* [11\. Contact Us](#11-contact-us)
+* [12\. Changes to this Policy](#12-changes-to-this-policy)
 
 1\. Information We Collect About You
 ------------------------------------
