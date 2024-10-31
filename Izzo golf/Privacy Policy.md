@@ -16,6 +16,7 @@
 * [PRODUCT SUPPORT](https://izzo.com/pages/product-support)
 * [GIFT CARDS](https://izzo.com/products/izzo-golf-gift-card)
 * [REVIEWS](https://izzo.com/pages/reviews)
+*   [Log In/Create Account](https://izzo.com/customer_authentication/redirect?locale=en&region_country=US)
 
  
 
@@ -33,6 +34,7 @@ _A great place to share about a sale!_
     
      
     
+* [Account](https://izzo.com/customer_authentication/redirect?locale=en&region_country=US)
 * Cart 0
     
 
@@ -44,6 +46,7 @@ _A great place to share about a sale!_
     
      
     
+* [Account](https://izzo.com/customer_authentication/redirect?locale=en&region_country=US)
 * Cart 0
     
 
