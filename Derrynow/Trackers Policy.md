@@ -273,12 +273,12 @@ Most Popular
 [Man (31) arrested and £34,000 drugs and illegal fireworks seized in Derry search](https://www.derrynow.com/news/local-news/1643662/man-31-arrested-and-34-000-drugs-and-illegal-fireworks-seized-in-derry-search.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man arrested in connection with sexual assault in Derry released on bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in connection with sexual assault in Derry released on bail")](https://www.derrynow.com/news/local-news/1643617/man-arrested-in-connection-with-sexual-assault-in-derry-released-on-bail.html)
+[![Man left with 'serious injuries' following a road traffic collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man left with 'serious injuries' following a road traffic collision")](https://www.derrynow.com/news/derry-news/1643915/man-left-with-serious-injuries-following-a-road-traffic-collision.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Man arrested in connection with sexual assault in Derry released on bail](https://www.derrynow.com/news/local-news/1643617/man-arrested-in-connection-with-sexual-assault-in-derry-released-on-bail.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man left with 'serious injuries' following Derry road traffic collision](https://www.derrynow.com/news/derry-news/1643915/man-left-with-serious-injuries-following-a-road-traffic-collision.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![County Derry man (57) convicted of sexually assaulting two women while on his Christmas work night out](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man (57) convicted of sexually assaulting two women while on his Christmas work night out")](https://www.derrynow.com/news/home/1643609/county-derry-man-57-convicted-of-sexually-assaulting-two-women-while-on-his-christmas-work-night-out.html)
 
@@ -289,13 +289,6 @@ The incident happened in Limavady last December.
 [County Derry man (57) convicted of sexually assaulting two women while on his Christmas work night out](https://www.derrynow.com/news/home/1643609/county-derry-man-57-convicted-of-sexually-assaulting-two-women-while-on-his-christmas-work-night-out.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man left with 'serious injuries' following a road traffic collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man left with 'serious injuries' following a road traffic collision")](https://www.derrynow.com/news/derry-news/1643915/man-left-with-serious-injuries-following-a-road-traffic-collision.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Man left with 'serious injuries' following Derry road traffic collision](https://www.derrynow.com/news/derry-news/1643915/man-left-with-serious-injuries-following-a-road-traffic-collision.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1643521/derry-death-notices-thursday-october-31-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -303,12 +296,12 @@ The incident happened in Limavady last December.
 [Derry Death Notices - Thursday, October 31, 2024](https://www.derrynow.com/news/deaths/1643521/derry-death-notices-thursday-october-31-2024.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Concerns over police credibility cause Derry man's conviction to be referred to Court of Appeal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Concerns over police credibility cause Derry man's conviction to be referred to Court of Appeal")](https://www.derrynow.com/news/crime---courts/1643517/concerns-over-police-credibility-cause-derry-man-s-conviction-to-be-referred-to-court-of-appeal.html)
+[![Man (19) returned for trial to Derry Crown Court on series of sex offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (19) returned for trial to Derry Crown Court on series of sex offences")](https://www.derrynow.com/news/local-news/1644017/man-19-returned-for-trial-to-derry-crown-court-on-series-of-sex-offences.html)
 
-[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Concerns over police credibility cause Derry man's conviction to be referred to Court of Appeal](https://www.derrynow.com/news/crime---courts/1643517/concerns-over-police-credibility-cause-derry-man-s-conviction-to-be-referred-to-court-of-appeal.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man (19) returned for trial to Derry Crown Court on series of sex offences](https://www.derrynow.com/news/local-news/1644017/man-19-returned-for-trial-to-derry-crown-court-on-series-of-sex-offences.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Greysteel Massacre 31 years ago](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Greysteel Massacre 31 years ago")](https://www.derrynow.com/news/county-derry-post/1643326/trick-or-treat-social-media-image-described-as-disgraceful-in-the-lead-up-to-greysteel-massacre-anniversary.html)
 
@@ -319,25 +312,55 @@ Greysteel Massacre 31 years ago
 [“Trick or Treat” social media image described as “disgraceful” in the lead up to Greysteel massacre anniversary](https://www.derrynow.com/news/county-derry-post/1643326/trick-or-treat-social-media-image-described-as-disgraceful-in-the-lead-up-to-greysteel-massacre-anniversary.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: Beware what goes bump in the Limavady Halloween Night](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Beware what goes bump in the Limavady Halloween Night")](https://www.derrynow.com/news/arts---entertainment/1642946/pictures-beware-what-goes-bump-in-the-limavady-halloween-night.html)
+[![Filming of Derry's Halloween celebrations for new ITV show with Fred Sirieix tonight](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Filming of Derry's Halloween celebrations for new ITV show with Fred Sirieix tonight")](https://www.derrynow.com/news/derry-news/1644065/filming-of-derry-s-halloween-celebrations-for-new-itv-show-with-fred-sirieix-tonight.html)
 
-[Arts & Entertainment](https://www.derrynow.com/section/2211/arts-entertainment)
+‘Fred’s Tour De Ireland’ ith Fred Sirieix
 
-[PICTURES: Beware what goes bump in the Limavady Halloween Night](https://www.derrynow.com/news/arts---entertainment/1642946/pictures-beware-what-goes-bump-in-the-limavady-halloween-night.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[![PICTURES: The Elemental Garden at Ebrington Square](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: The Elemental Garden at Ebrington Square")](https://www.derrynow.com/news/pictures---videos/1643204/pictures-the-elemental-garden-at-ebrington-square.html)
+[Filming of Derry's Halloween celebrations for new ITV show with Fred Sirieix tonight](https://www.derrynow.com/news/derry-news/1644065/filming-of-derry-s-halloween-celebrations-for-new-itv-show-with-fred-sirieix-tonight.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+[![Man (34) sentenced in Derry court for breaching restraining order](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (34) sentenced in Derry court for breaching restraining order")](https://www.derrynow.com/news/local-news/1644077/man-34-sentenced-in-derry-court-for-breaching-restraining-order.html)
 
-[PICTURES: The Elemental Garden at Ebrington Square](https://www.derrynow.com/news/pictures---videos/1643204/pictures-the-elemental-garden-at-ebrington-square.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man (34) sentenced in Derry court for breaching restraining order](https://www.derrynow.com/news/local-news/1644077/man-34-sentenced-in-derry-court-for-breaching-restraining-order.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Registered sex offender jailed at Derry court for failing to notify police of his release](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Registered sex offender jailed at Derry court for failing to notify police of his release")](https://www.derrynow.com/news/crime---courts/1644061/registered-sex-offender-jailed-at-derry-court-for-failing-to-notify-police-of-his-release.html)
+
+[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
+
+[Registered sex offender jailed at Derry court for failing to notify police of his release](https://www.derrynow.com/news/crime---courts/1644061/registered-sex-offender-jailed-at-derry-court-for-failing-to-notify-police-of-his-release.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![PICTURES: Pumpkins, pirates, princesses and more at Shantallow Halloween fun day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Pumpkins, pirates, princesses and more at Shantallow Halloween fun day")](https://www.derrynow.com/news/pictures---videos/1644382/pictures-pumpkins-pirates-princesses-and-more-at-shantallow-halloween-fun-day.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Pumpkins, pirates, princesses and more at Shantallow Halloween fun day](https://www.derrynow.com/news/pictures---videos/1644382/pictures-pumpkins-pirates-princesses-and-more-at-shantallow-halloween-fun-day.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: All smiles as Halloween fun celebrated at Lincoln Courts](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles as Halloween fun celebrated at Lincoln Courts")](https://www.derrynow.com/news/pictures---videos/1644302/pictures-all-smiles-as-halloween-fun-celebrated-at-lincoln-courts.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: All smiles as Halloween fun celebrated at Lincoln Courts](https://www.derrynow.com/news/pictures---videos/1644302/pictures-all-smiles-as-halloween-fun-celebrated-at-lincoln-courts.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Spooktacular scenes as Hollybush Primary School host annual Haunt Jaunt](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Spooktacular scenes as Hollybush Primary School host annual Haunt Jaunt")](https://www.derrynow.com/news/pictures---videos/1644286/pictures-spooktacular-scenes-as-hollybush-primary-school-host-annual-haunt-jaunt.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Spooktacular scenes as Hollybush Primary School host annual Haunt Jaunt](https://www.derrynow.com/news/pictures---videos/1644286/pictures-spooktacular-scenes-as-hollybush-primary-school-host-annual-haunt-jaunt.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Óglach Michael Meenan 50th anniversary commemoration at the Republican Monument in Shantallow](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Óglach Michael Meenan 50th anniversary commemoration at the Republican Monument in Shantallow")](https://www.derrynow.com/story-telling/pictures---videos/1644091/in-pictures-oglach-michael-meenan-50th-anniversary-commemoration-in-derry.html)
 
@@ -387,27 +410,6 @@ Multimedia
 
 [IN PICTURES: Oakgrove Integrated College annual Junior Prizegiving](https://www.derrynow.com/story-telling/pictures---videos/1642456/in-pictures-oakgrove-integrated-college-annual-junior-prizegiving.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Chapel Road PS pupils in the Halloween spirit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Chapel Road PS pupils in the Halloween spirit")](https://www.derrynow.com/story-telling/pictures---videos/1641288/in-pictures-chapel-road-ps-pupils-in-the-halloween-spirit.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Chapel Road PS pupils in the Halloween spirit](https://www.derrynow.com/story-telling/pictures---videos/1641288/in-pictures-chapel-road-ps-pupils-in-the-halloween-spirit.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: BBHF Open Night, Spooky Family Dander and Healthy Supper](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: BBHF Open Night, Spooky Family Dander and Healthy Supper")](https://www.derrynow.com/story-telling/pictures---videos/1642219/in-pictures-bbhf-open-night-spooky-family-dander-and-healthy-supper.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: BBHF Open Night, Spooky Family Dander and Healthy Supper](https://www.derrynow.com/story-telling/pictures---videos/1642219/in-pictures-bbhf-open-night-spooky-family-dander-and-healthy-supper.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry Halloween gets off to a spooktacular start](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Halloween gets off to a spooktacular start")](https://www.derrynow.com/story-telling/pictures---videos/1642166/in-pictures-derry-halloween-gets-off-to-a-spooktacular-start.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry Halloween gets off to a spooktacular start](https://www.derrynow.com/story-telling/pictures---videos/1642166/in-pictures-derry-halloween-gets-off-to-a-spooktacular-start.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -509,14 +511,50 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Harkin: Labour Budget Protects Billionaires and Targets the Vulnerable](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Harkin: Labour Budget Protects Billionaires and Targets the Vulnerable")](https://www.derrynow.com/news/derry-news/1643884/harkin-labour-budget-protects-billionaires-and-targets-the-vulnerable.html)
+[![Draperstown woman wins prestigious title at the National Building and Construction Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Draperstown woman wins prestigious title at the National Building and Construction Awards")](https://www.derrynow.com/news/home/1644369/draperstown-woman-wins-prestigious-title-at-the-national-building-and-construction-awards.html)
+
+Draperstown's Charlotte Hassan pictured with her award.
+
+[Home](https://www.derrynow.com/)
+
+[Draperstown woman wins prestigious title at the National Building and Construction Awards](https://www.derrynow.com/news/home/1644369/draperstown-woman-wins-prestigious-title-at-the-national-building-and-construction-awards.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Singer releases James McClean tribute song and his stance on the poppy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Singer releases James McClean tribute song and his stance on the poppy")](https://www.derrynow.com/news/derry-news/1644210/singer-releases-james-mcclean-tribute-song-and-his-stance-on-the-poppy.html)
+
+James McClean
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Singer releases James McClean tribute song and his stance on the poppy](https://www.derrynow.com/news/derry-news/1644210/singer-releases-james-mcclean-tribute-song-and-his-stance-on-the-poppy.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Truck run held in memory of Claudy man raises more than £1,100 for Foyle Hospice](https://www.derrynow.com/resizer/165/93/true/2024_10_31/Allan_Cassidy-1730389655109_1730389925.jpg--.jpg?1730389925554 "Truck run held in memory of Claudy man raises more than £1,100 for Foyle Hospice")](https://www.derrynow.com/news/home/1644347/truck-run-held-in-memory-of-claudy-man-raises-more-than-1-100-for-foyle-hospice.html)
+
+Pictured is Allan’s wife, Linda with her daughter, Stella and Paddy from LCC Group.
+
+[Home](https://www.derrynow.com/)
+
+[Truck run held in memory of Claudy man raises more than £1,100 for Foyle Hospice](https://www.derrynow.com/news/home/1644347/truck-run-held-in-memory-of-claudy-man-raises-more-than-1-100-for-foyle-hospice.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Harkin: Labour Budget Protects Billionaires and Targets the Vulnerable](https://www.derrynow.com/resizer/165/93/true/2019/03/07124326/Shaun-Harkin.jpg--.jpg "Harkin: Labour Budget Protects Billionaires and Targets the Vulnerable")](https://www.derrynow.com/news/derry-news/1643884/harkin-labour-budget-protects-billionaires-and-targets-the-vulnerable.html)
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
 [Harkin: Labour Budget Protects Billionaires and Targets the Vulnerable](https://www.derrynow.com/news/derry-news/1643884/harkin-labour-budget-protects-billionaires-and-targets-the-vulnerable.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Defend the winter fuel payment protest at Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Defend the winter fuel payment protest at Guildhall")](https://www.derrynow.com/news/derry-news/1643879/derry-and-strabane-council-support-the-reinstatement-of-winter-fuel-payment-at-special-meeting.html)
+[![ITV announce brand new Irish adventure with Fred Sirieix](https://www.derrynow.com/resizer/165/93/true/2024_10_31/AD_4nXd7Yri1fFGBJ3W-8zqVDVqBBhNDmD5iEWpLZEH_aA91Rr0JbQzBBKmILWggCGuiqna04xHEKDBajJJuFnRuwFzJ3N2MOaVSbItCNVpq4CIdvvX7MQ_s8dt9wVWZ0RwYBj9liioc1FeElDvap9yMKsV-nPPfxdanW6jO1WZO-1730374095629.jpeg--.jpeg?1730374095661 "ITV announce brand new Irish adventure with Fred Sirieix")](https://www.derrynow.com/news/socialsharing-derrynow/1644030/itv-announce-brand-new-irish-adventure-with-fred-sirieix.html)
+
+ITV announce brand new Irish adventure with Fred Sirieix
+
+[SocialSharing-DerryNow](https://www.derrynow.com/section/2770/socialsharing-derrynow)
+
+[ITV announce brand new Irish adventure with Fred Sirieix](https://www.derrynow.com/news/socialsharing-derrynow/1644030/itv-announce-brand-new-irish-adventure-with-fred-sirieix.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Defend the winter fuel payment protest at Guildhall](https://www.derrynow.com/resizer/165/93/true/2024_10_31/20241029_133717-1730366362800.jpg--.jpg?1730366363681 "Defend the winter fuel payment protest at Guildhall")](https://www.derrynow.com/news/derry-news/1643879/derry-and-strabane-council-support-the-reinstatement-of-winter-fuel-payment-at-special-meeting.html)
 
 Defend the winter fuel payment protest at Guildhall
 
@@ -524,38 +562,6 @@ Defend the winter fuel payment protest at Guildhall
 
 [Derry and Strabane council support the reinstatement of winter fuel payment at special meeting](https://www.derrynow.com/news/derry-news/1643879/derry-and-strabane-council-support-the-reinstatement-of-winter-fuel-payment-at-special-meeting.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man (34) sentenced in Derry court for breaching restraining order](https://www.derrynow.com/resizer/165/93/true/2024_02_02/Derry_Courthouse_%281%29-1706875488218.jpg--.jpg?1706875488264 "Man (34) sentenced in Derry court for breaching restraining order")](https://www.derrynow.com/news/local-news/1644077/man-34-sentenced-in-derry-court-for-breaching-restraining-order.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man (34) sentenced in Derry court for breaching restraining order](https://www.derrynow.com/news/local-news/1644077/man-34-sentenced-in-derry-court-for-breaching-restraining-order.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Popular Christmas Craft and Food Fayre set to return to Cumber House, Claudy](https://www.derrynow.com/resizer/165/93/true/2024_10_31/462809556_543024285154378_1985757367766555225_n-1730371173872.jpg--.jpg?1730371174232 "Popular Christmas Craft and Food Fayre set to return to Cumber House, Claudy")](https://www.derrynow.com/news/what-s-on/1643981/popular-christmas-craft-and-food-fayre-set-to-return-to-cumber-house-claudy.html)
-
-The festive event will be held in Cumber Country House, Claudy.
-
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
-
-[Popular Christmas Craft and Food Fayre set to return to Cumber House, Claudy](https://www.derrynow.com/news/what-s-on/1643981/popular-christmas-craft-and-food-fayre-set-to-return-to-cumber-house-claudy.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Can you help? Small food company horse box stolen from yard in Garvagh](https://www.derrynow.com/resizer/165/93/true/2024_10_31/MixCollage-31-Oct-2024-10-08-AM-771-1730369452476.jpg--.jpg?1730369452530 "Can you help? Small food company horse box stolen from yard in Garvagh")](https://www.derrynow.com/news/derry-news/1643944/can-you-help-small-food-company-horse-box-stolen-from-yard-in-garvagh.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Can you help? Small food company horse box stolen from yard in Garvagh](https://www.derrynow.com/news/derry-news/1643944/can-you-help-small-food-company-horse-box-stolen-from-yard-in-garvagh.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Filming of Derry's Halloween celebrations for new ITV show with Fred Sirieix tonight](https://www.derrynow.com/resizer/165/93/true/2024_10_31/AD_4nXd7Yri1fFGBJ3W-8zqVDVqBBhNDmD5iEWpLZEH_aA91Rr0JbQzBBKmILWggCGuiqna04xHEKDBajJJuFnRuwFzJ3N2MOaVSbItCNVpq4CIdvvX7MQ_s8dt9wVWZ0RwYBj9liioc1FeElDvap9yMKsV-nPPfxdanW6jO1WZO-1730375367023.jpeg--.jpeg?1730375367054 "Filming of Derry's Halloween celebrations for new ITV show with Fred Sirieix tonight")](https://www.derrynow.com/news/derry-news/1644065/filming-of-derry-s-halloween-celebrations-for-new-itv-show-with-fred-sirieix-tonight.html)
-
-‘Fred’s Tour De Ireland’ ith Fred Sirieix
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Filming of Derry's Halloween celebrations for new ITV show with Fred Sirieix tonight](https://www.derrynow.com/news/derry-news/1644065/filming-of-derry-s-halloween-celebrations-for-new-itv-show-with-fred-sirieix-tonight.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
