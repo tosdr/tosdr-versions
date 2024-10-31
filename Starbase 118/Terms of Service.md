@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/03/Lunaclass-768x399.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/a-somber-shore-leave-ends-as-the-artemis-prepares-to-return-to-the-borderlands/)
+
+### [A Somber Shore Leave Ends As The Artemis Prepares to Return To The Borderlands](https://www.starbase118.net/2024/a-somber-shore-leave-ends-as-the-artemis-prepares-to-return-to-the-borderlands/)
+
+Federation News Service October 31, 2024
+
+EARTH, SOL SYSTEM – The USS Artemis-A (NCC-81287) caps off their shore leave with an intimate gathering to recognize the achievements of the crew and
+
+[Read More »](https://www.starbase118.net/2024/a-somber-shore-leave-ends-as-the-artemis-prepares-to-return-to-the-borderlands/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/11/Amity3-768x576.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/amity-outpost-struggles-to-rebuild-trust-after-frontier-day/)
 
 ### [Amity Outpost struggles to rebuild trust After Frontier Day](https://www.starbase118.net/2024/amity-outpost-struggles-to-rebuild-trust-after-frontier-day/)
@@ -377,18 +389,6 @@ Federation News Service October 26, 2024
 STARBASE 118 – Ops crew return to base for shore leave after an unexpectedly long absence. The crew of StarBase 118 Ops have finally returned
 
 [Read More »](https://www.starbase118.net/2024/home-sweet-home-for-crew-of-starbase-118-ops/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2019/07/AstraeusSurvey-768x384.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-astraeus-crew-embraces-shore-leave-as-repairs-continue/)
-
-### [USS Astraeus Crew Embraces Shore Leave as Repairs Continue](https://www.starbase118.net/2024/uss-astraeus-crew-embraces-shore-leave-as-repairs-continue/)
-
-Federation News Service October 24, 2024
-
-EARTH, SOL SYSTEM, ALPHA QUADRANT – As extensive repairs proceed on the USS Astraeus following the intense events of Frontier Day, the crew is making
-
-[Read More »](https://www.starbase118.net/2024/uss-astraeus-crew-embraces-shore-leave-as-repairs-continue/)
 
 Ready to get started?
 ---------------------
