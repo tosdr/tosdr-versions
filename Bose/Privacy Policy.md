@@ -162,7 +162,7 @@ NEW QUIETCOMFORT EARBUDS
 
 ### Powerful, not precious](https://www.bose.com/QCEARB24-HEADPHONEIN.html "BUY NOW")
 
-[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwf73e165f/images/logo.svg)](https://www.bose.com/home "Bose Home")
+[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dw062e5bda/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
 [](https://www.bose.com/login?oauthProvider=Azure-AD-B2C "Sign In/Join my Bose")[](https://www.bose.com/wishlist "Wish list")
 
