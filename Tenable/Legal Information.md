@@ -123,6 +123,7 @@ Tenable One Exposure Management Platform enables you to gain visibility across y
 * * *
 
 * [Automotive manufacturing](https://www.tenable.com/solutions/automotive-manufacturing)
+* [Educational institutions](https://www.tenable.com/solutions/education)
 * [Energy](https://www.tenable.com/solutions/energy)
 * [Finance](https://www.tenable.com/solutions/finance)
 * [Healthcare](https://www.tenable.com/solutions/healthcare)
@@ -141,7 +142,7 @@ Tenable One Exposure Management Platform enables you to gain visibility across y
 * [PCI](https://www.tenable.com/solutions/pci-dss)
 * [Security frameworks](https://www.tenable.com/solutions/security-frameworks)
 
-##### Public Sector
+##### Public sector
 
 * * *
 
@@ -330,6 +331,7 @@ Tenable is named a leading force in vulnerability management and top ranked amon
         * [Zero trust](https://www.tenable.com/solutions/zero-trust)
     * Industries
         * [Automotive manufacturing](https://www.tenable.com/solutions/automotive-manufacturing)
+        * [Educational institutions](https://www.tenable.com/solutions/education)
         * [Energy](https://www.tenable.com/solutions/energy)
         * [Finance](https://www.tenable.com/solutions/finance)
         * [Healthcare](https://www.tenable.com/solutions/healthcare)
