@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/VeteransResiliency-250x141.jpg)
+    
+    Army major studies resiliency of military personnel](https://www.unc.edu/posts/2024/10/31/army-major-studies-resiliency-of-military-personnel/)
 * [![](https://www.unc.edu/wp-content/uploads/2024/10/MentalHealthHERO-250x141.jpg)
     
     Carolina selected for Mental Health Services Honor Roll](https://www.unc.edu/posts/2024/10/30/carolina-selected-for-mental-health-services-honor-roll/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/NavyAdmiralsHero-250x141.jpg)
-    
-    Navy admiral’s leadership training began with Tar Heel soccer](https://www.unc.edu/posts/2024/10/30/navy-admirals-leadership-training-began-with-tar-heel-soccer/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=1ce6639906&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=48e6c35b18&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
