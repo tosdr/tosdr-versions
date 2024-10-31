@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Exclusive
-
-[Yankees fans banned from Game 5 after Mookie Betts interference](https://nypost.com/2024/10/30/sports/yankees-fans-banned-from-game-5-after-mookie-betts-interference/)
-
 Privacy Notice Highlights
 =========================
 
