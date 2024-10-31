@@ -20,16 +20,16 @@ Thursday, October 31 2024
 
 Latest
 
-* [Slack adds templates to help users kick off projects quicker – Computerworld](https://digitpatrox.com/slack-adds-templates-to-help-users-kick-off-projects-quicker-computerworld/)
-* [This Hidden Safari Feature Makes Browsing a Lot Faster](https://digitpatrox.com/this-hidden-safari-feature-makes-browsing-a-lot-faster/)
-* [Best and Worst Hearing Aid Brands](https://digitpatrox.com/best-and-worst-hearing-aid-brands/)
-* [Boston Dynamics’ New Atlas Picks and Packs a Peck of Auto Parts](https://digitpatrox.com/boston-dynamics-new-atlas-picks-and-packs-a-peck-of-auto-parts/)
-* [Does anyone care if you use AI? Fiverr doesn’t think so](https://digitpatrox.com/does-anyone-care-if-you-use-ai-fiverr-doesnt-think-so/)
-* [11 Marketing Strategy Templates You Can Download for Free](https://digitpatrox.com/11-marketing-strategy-templates-you-can-download-for-free/)
-* [No, not planks! Use this 5-minute standing abs workout to build core strength and and improve your posture instead](https://digitpatrox.com/no-not-planks-use-this-5-minute-standing-abs-workout-to-build-core-strength-and-and-improve-your-posture-instead/)
-* [Microsoft Entra “security defaults” to make MFA setup mandatory](https://digitpatrox.com/microsoft-entra-security-defaults-to-make-mfa-setup-mandatory/)
-* [Know the price-matching policies for Best Buy, Walmart, Amazon, and others](https://digitpatrox.com/know-the-price-matching-policies-for-best-buy-walmart-amazon-and-others/)
-* [NYT Strands Today: Hints, Answers & Spangram for October 31](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-31/)
+* [How to Check for Viruses on Windows 10](https://digitpatrox.com/how-to-check-for-viruses-on-windows-10/)
+* [Get-back-to-your-desk mandates spark office refill revolution – Computerworld](https://digitpatrox.com/get-back-to-your-desk-mandates-spark-office-refill-revolution-computerworld/)
+* [How to Plant Leeks and Onions](https://digitpatrox.com/how-to-plant-leeks-and-onions/)
+* [Buying an SMTP Server 2024: A Comprehensive Guide](https://digitpatrox.com/buying-an-smtp-server-2024-a-comprehensive-guide/)
+* [How to completely uninstall Chrome on Windows 11, 10](https://digitpatrox.com/how-to-completely-uninstall-chrome-on-windows-11-10/)
+* [GB Pockit+ All-Terrain Stroller Review](https://digitpatrox.com/gb-pockit-all-terrain-stroller-review/)
+* [5 Ghost Hunting Gadgets (And Why They Don’t Work)](https://digitpatrox.com/5-ghost-hunting-gadgets-and-why-they-dont-work/)
+* [VMware needs to win back trust – and VMware Explore Barcelona 2024 is its chance to do so](https://digitpatrox.com/vmware-needs-to-win-back-trust-and-vmware-explore-barcelona-2024-is-its-chance-to-do-so/)
+* [New MacBook Pro Features Apple’s M4 AI Chip](https://digitpatrox.com/new-macbook-pro-features-apples-m4-ai-chip/)
+* [The Samsung Galaxy Watch Ultra just hit its lowest ever price with this early Black Friday deal](https://digitpatrox.com/the-samsung-galaxy-watch-ultra-just-hit-its-lowest-ever-price-with-this-early-black-friday-deal/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3595255-0-74546200-1730293411-Screenshot-2024-10-30-at-12.17.00.png?w=1024)](https://digitpatrox.com/slack-adds-templates-to-help-users-kick-off-projects-quicker-computerworld/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/How-to-check-for-viruses-on-Windows-10.jpg)](https://digitpatrox.com/how-to-check-for-viruses-on-windows-10/)
     
-    [Slack adds templates to help users kick off projects quicker – Computerworld](https://digitpatrox.com/slack-adds-templates-to-help-users-kick-off-projects-quicker-computerworld/)
+    [How to Check for Viruses on Windows 10](https://digitpatrox.com/how-to-check-for-viruses-on-windows-10/)
     
-    2 mins ago
+    10 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01JBF7M5RVYP7ZFTXD3TABGWZB/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/this-hidden-safari-feature-makes-browsing-a-lot-faster/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3595608-0-95897100-1730377654-shutterstock_2482562197.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/get-back-to-your-desk-mandates-spark-office-refill-revolution-computerworld/)
     
-    [This Hidden Safari Feature Makes Browsing a Lot Faster](https://digitpatrox.com/this-hidden-safari-feature-makes-browsing-a-lot-faster/)
-    
-    29 mins ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1679497099/prod/content/dam/CRO-Images-2023/03March/Health/CR-Health-InlineHero-Best-Worst-Hearing-Aid-Brands-Retaliers-0323)](https://digitpatrox.com/best-and-worst-hearing-aid-brands/)
-    
-    [Best and Worst Hearing Aid Brands](https://digitpatrox.com/best-and-worst-hearing-aid-brands/)
-    
-    60 mins ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/screenshot-2024-10-30-11-12-50-am.png)](https://digitpatrox.com/boston-dynamics-new-atlas-picks-and-packs-a-peck-of-auto-parts/)
-    
-    [Boston Dynamics’ New Atlas Picks and Packs a Peck of Auto Parts](https://digitpatrox.com/boston-dynamics-new-atlas-picks-and-packs-a-peck-of-auto-parts/)
+    [Get-back-to-your-desk mandates spark office refill revolution – Computerworld](https://digitpatrox.com/get-back-to-your-desk-mandates-spark-office-refill-revolution-computerworld/)
     
     1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/vjtAfbfTtBYeguFNyPNqHj-1200-80.jpg)](https://digitpatrox.com/does-anyone-care-if-you-use-ai-fiverr-doesnt-think-so/)
+* [![](https://lifehacker.com/imagery/articles/01JBE2RYFSP2ABVDME1TCPNNE8/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-plant-leeks-and-onions/)
     
-    [Does anyone care if you use AI? Fiverr doesn’t think so](https://digitpatrox.com/does-anyone-care-if-you-use-ai-fiverr-doesnt-think-so/)
+    [How to Plant Leeks and Onions](https://digitpatrox.com/how-to-plant-leeks-and-onions/)
+    
+    1 hour ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Buying-an-SMTP-Server.jpeg)](https://digitpatrox.com/buying-an-smtp-server-2024-a-comprehensive-guide/)
+    
+    [Buying an SMTP Server 2024: A Comprehensive Guide](https://digitpatrox.com/buying-an-smtp-server-2024-a-comprehensive-guide/)
+    
+    2 hours ago
+    
+* [![](https://pureinfotech.com/wp-content/uploads/2019/04/windows-uninstall-chrome-completely-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-completely-uninstall-chrome-on-windows-11-10/)
+    
+    [How to completely uninstall Chrome on Windows 11, 10](https://digitpatrox.com/how-to-completely-uninstall-chrome-on-windows-11-10/)
     
     2 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [2 mins ago
+* [10 mins ago
     
-    ### Slack adds templates to help users kick off projects quicker – Computerworld](https://digitpatrox.com/slack-adds-templates-to-help-users-kick-off-projects-quicker-computerworld/)
-* [29 mins ago
+    ### How to Check for Viruses on Windows 10](https://digitpatrox.com/how-to-check-for-viruses-on-windows-10/)
+* [1 hour ago
     
-    ### This Hidden Safari Feature Makes Browsing a Lot Faster](https://digitpatrox.com/this-hidden-safari-feature-makes-browsing-a-lot-faster/)
-* [60 mins ago
+    ### Get-back-to-your-desk mandates spark office refill revolution – Computerworld](https://digitpatrox.com/get-back-to-your-desk-mandates-spark-office-refill-revolution-computerworld/)
+* [1 hour ago
     
-    ### Best and Worst Hearing Aid Brands](https://digitpatrox.com/best-and-worst-hearing-aid-brands/)
+    ### How to Plant Leeks and Onions](https://digitpatrox.com/how-to-plant-leeks-and-onions/)
 
 Most Popular Topics
 
-* [11 hours ago
+* [August 18, 2024
     
-    ### 30 of the Best Easy Last-Minute Halloween Costume Ideas for 2024](https://digitpatrox.com/30-of-the-best-easy-last-minute-halloween-costume-ideas-for-2024/)
-* [September 10, 2024
+    ### A Googler’s guide to getting things done](https://digitpatrox.com/a-googlers-guide-to-getting-things-done/)
+* [3 weeks ago
     
-    ### Gen Z is tired of working from home — stunted career growth and limited training opportunities mean they’re willing to brave the commute](https://digitpatrox.com/gen-z-is-tired-of-working-from-home-stunted-career-growth-and-limited-training-opportunities-mean-theyre-willing-to-brave-the-commute/)
-* [2 weeks ago
+    ### NYT Connections Today: Hints and Answers for October 14, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-14-2024/)
+* [5 days ago
     
-    ### Best Antivirus for Social Media Protection in 2024](https://digitpatrox.com/best-antivirus-for-social-media-protection-in-2024/)
+    ### UK government says new data bill will free up millions of hours of public sector time](https://digitpatrox.com/uk-government-says-new-data-bill-will-free-up-millions-of-hours-of-public-sector-time/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### No, not planks! Use this 5-minute standing abs workout to build core strength and and improve your posture instead](https://digitpatrox.com/no-not-planks-use-this-5-minute-standing-abs-workout-to-build-core-strength-and-and-improve-your-posture-instead/)
+    ### 5 Ghost Hunting Gadgets (And Why They Don’t Work)](https://digitpatrox.com/5-ghost-hunting-gadgets-and-why-they-dont-work/)
 * [3 hours ago
     
-    ### Microsoft Entra “security defaults” to make MFA setup mandatory](https://digitpatrox.com/microsoft-entra-security-defaults-to-make-mfa-setup-mandatory/)
+    ### VMware needs to win back trust – and VMware Explore Barcelona 2024 is its chance to do so](https://digitpatrox.com/vmware-needs-to-win-back-trust-and-vmware-explore-barcelona-2024-is-its-chance-to-do-so/)
 * [3 hours ago
     
-    ### Know the price-matching policies for Best Buy, Walmart, Amazon, and others](https://digitpatrox.com/know-the-price-matching-policies-for-best-buy-walmart-amazon-and-others/)
+    ### New MacBook Pro Features Apple’s M4 AI Chip](https://digitpatrox.com/new-macbook-pro-features-apples-m4-ai-chip/)
 
 Most Viewed Topics
 
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
