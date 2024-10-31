@@ -225,7 +225,7 @@ Telephone: [0303 123 1113](https://www.amnesty.org/en/about-us/privacy-policy/03
 #### [About Us](https://www.amnesty.org/en/latest/news/2023/10/about-us/)
 
 * [Contact Us](https://www.amnesty.org/en/about-us/contact/)
-* [How We're Run](https://www.amnesty.org/en/about-us/#tab-governance)
+* [How We’re Run](https://www.amnesty.org/en/about-us/#tab-governance)
 * [Modern Slavery Act Statement](https://www.amnesty.org/en/about-us/modern-slavery-act-transparency-statement/)
 * [Finances](https://www.amnesty.org/en/about-us/finances-and-pay/)
 
@@ -252,7 +252,7 @@ Telephone: [0303 123 1113](https://www.amnesty.org/en/about-us/privacy-policy/03
 
 If you are talented and passionate about human rights then Amnesty International wants to hear from you.
 
-[Jobs & Internships](https://Jobs%20&%20Internships)
+[Jobs & Internships](https://www.amnesty.org/en/careers/)
 
 * * *
 
