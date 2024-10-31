@@ -43,14 +43,15 @@ Check out
         * [HORMONE BALANCE](https://puresportcbd.com/en-us/collections/hormone-support)
     
     * [APPAREL & ACCESSORIES](https://puresportcbd.com/en-us#)
-    * Technical apparel to propel you forward.
+    * Shop up to 60% off our apparel for a limited time only.
         
-    * [SOCKS](https://puresportcbd.com/en-us/collections/socks)
-    * [TOPS & T-SHIRTS](https://puresportcbd.com/en-us/collections/running-tops)
-    * [HOODIES & SWEATSHIRTS](https://puresportcbd.com/en-us/collections/hoodies-sweatshirts)
+    * [APPAREL SALE](https://puresportcbd.com/en-us/collections/apparel-sale)
     * [WATER BOTTLES](https://puresportcbd.com/en-us/collections/water-bottles)
+    * [SOCKS](https://puresportcbd.com/en-us/collections/socks)
     * [CAPS](https://puresportcbd.com/en-us/collections/caps)
     * [SHOP ALL](https://puresportcbd.com/en-us/collections/shop-all-apparel)
+    * [TOPS & T-SHIRTS](https://puresportcbd.com/en-us/collections/running-tops)
+    * [HOODIES & SWEATSHIRTS](https://puresportcbd.com/en-us/collections/hoodies-sweatshirts)
     * [COLLECTIONS](https://puresportcbd.com/en-us#)
         * [PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/performance-wear)
     
@@ -60,6 +61,7 @@ Check out
     
     Free Salty Pace Sports Bottle with orders over £75](https://puresportcbd.com/en-us/collections/all)
     
+* [APPAREL SALE](https://puresportcbd.com/en-us/collections/apparel-sale)
 * Our story
     
     * [OUR STORY](https://puresportcbd.com/en-us#)
@@ -146,14 +148,15 @@ Check out
     
     * [APPAREL & ACCESSORIES](https://puresportcbd.com/en-us#)
         
-        Technical apparel to propel you forward.
+        Shop up to 60% off our apparel for a limited time only.
         
-        * [SOCKS](https://puresportcbd.com/en-us/collections/socks)
-        * [TOPS & T-SHIRTS](https://puresportcbd.com/en-us/collections/running-tops)
-        * [HOODIES & SWEATSHIRTS](https://puresportcbd.com/en-us/collections/hoodies-sweatshirts)
+        * [APPAREL SALE](https://puresportcbd.com/en-us/collections/apparel-sale)
         * [WATER BOTTLES](https://puresportcbd.com/en-us/collections/water-bottles)
+        * [SOCKS](https://puresportcbd.com/en-us/collections/socks)
         * [CAPS](https://puresportcbd.com/en-us/collections/caps)
         * [SHOP ALL](https://puresportcbd.com/en-us/collections/shop-all-apparel)
+        * [TOPS & T-SHIRTS](https://puresportcbd.com/en-us/collections/running-tops)
+        * [HOODIES & SWEATSHIRTS](https://puresportcbd.com/en-us/collections/hoodies-sweatshirts)
         * [COLLECTIONS](https://puresportcbd.com/en-us#)
             * [PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/performance-wear)
     
@@ -163,6 +166,7 @@ Check out
     
     Free Salty Pace Sports Bottle with orders over £75](https://puresportcbd.com/en-us/collections/all)
     
+* [APPAREL SALE](https://puresportcbd.com/en-us/collections/apparel-sale)
 * [Our story](#)
     
     * [OUR STORY](https://puresportcbd.com/en-us#)
