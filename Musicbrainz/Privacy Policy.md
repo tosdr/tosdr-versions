@@ -141,6 +141,7 @@ If you have any questions about our GDPR statement, please [contact us](https://
 [Contact us](https://metabrainz.org/contact)
 
 * [Blog](https://blog.metabrainz.org/category/metabrainz/)
+* [Chat](https://musicbrainz.org/doc/Communication/ChatBrainz)
 * [Twitter/X](https://twitter.com/MetaBrainz)
 * [Mastodon](https://mastodon.social/@metabrainz)
 * [Bluesky](https://bsky.app/profile/metabrainz.org)
