@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Image shows left to right: Emmy Fyles, Joy Harvey](https://cdn.comedy.co.uk/images/library/misc/300x200/e/emmy_fyles_joy_harvey.jpg "Image shows left to right: Emmy Fyles, Joy Harvey")](https://www.comedy.co.uk/live/features/emmy-fyles-and-joy-harvey-interview/) Live
+
+[Emmy Fyles and Joy Harvey do(n't) like boys](https://www.comedy.co.uk/live/features/emmy-fyles-and-joy-harvey-interview/)
+
 [![Athletico Mince - Steve McClaren](https://cdn.comedy.co.uk/images/library/misc/300x200/a/athletico_mince_steve_mcclaren.jpg "Athletico Mince - Steve McClaren")](https://www.comedy.co.uk/quiz/330/) Quiz
 
 [British Comedy Quiz #330](https://www.comedy.co.uk/quiz/330/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![The Horne Section. Image shows left to right: Ed Sheldrake, Ben Reynolds, Will Collier, Alex Horne, Mark Brown, Joe Auckland](https://cdn.comedy.co.uk/images/library/misc/300x200/h/horne_section_2024.jpg "The Horne Section. Image shows left to right: Ed Sheldrake, Ben Reynolds, Will Collier, Alex Horne, Mark Brown, Joe Auckland")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-58/) Live
 
 [The Horne Section, Maisie Adam, Rhys Nicholson, Ed Night - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-58/)
-
-[![Only When I Laugh. Image shows from L to R: Dr. Gordon Thorpe (Richard Wilson), Roy Figgis (James Bolam), Norman Binns (Christopher Strauli), Archie Glover (Peter Bowles). Copyright: Yorkshire Television](https://cdn.comedy.co.uk/images/library/comedies/300x200/o/only_when_i_laugh.jpg "Only When I Laugh. Image shows from L to R: Dr. Gordon Thorpe (Richard Wilson), Roy Figgis (James Bolam), Norman Binns (Christopher Strauli), Archie Glover (Peter Bowles). Copyright: Yorkshire Television")](https://www.comedy.co.uk/features/comedy-rewind/only-when-i-laugh/) Features
-
-[Comedy Rewind: I'm H-A-P-P-Y: Only When I Laugh](https://www.comedy.co.uk/features/comedy-rewind/only-when-i-laugh/)
 
 #### Subscribe to our newsletters
 
