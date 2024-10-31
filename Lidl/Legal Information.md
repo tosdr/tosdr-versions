@@ -1975,7 +1975,6 @@ Sitemap![](/n/footer/icons/arrow-bottom.svg)
 
 ###### Sitemap
 
-* [Summer](https://www.lidl.co.uk/c/summer/s10023091)
 * [Food Offers](https://www.lidl.co.uk/c/food-offers/s10023092)
 * [Our Products](https://www.lidl.co.uk/c/our-products/s10023093)
 * [Wines](https://www.lidl.co.uk/c/wines/s10023094)
