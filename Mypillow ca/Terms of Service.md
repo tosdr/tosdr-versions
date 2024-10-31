@@ -36,7 +36,7 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Body Pillow](https://www.mypillow.com/mybody-pillow)
     * [Bolster Pillow](https://www.mypillow.com/bolster-pillow-w-bolster-pillowcase)
     * [Bible Story MyPillows](https://www.mypillow.com/2-pack-childrens-bible-pillows-offer)
-    * [Couch and Recliner Pillows](https://www.mypillow.com/clearance-page/couch-and-recliner-pillows)
+    * [Couch and Recliner Pillows](https://www.mypillow.com/couch-and-recliner-pillows)
 * [Bedding](https://www.mypillow.com/bedding)
     * [Sheets](https://www.mypillow.com/bedding)
     * [Pillowcases](https://www.mypillow.com/bedding/pillowcases)
@@ -97,29 +97,29 @@ Apply
 
 [](https://www.mypillow.ca/mystore-general-redirect)
 
-   [](https://www.mypillow.ca/my-mattress-topper)
-
-   [](https://www.mypillow.com/the-classic-collection)
+   [](https://www.mypillow.com/bath)
 
    [](https://www.mypillow.com/bedding)
 
-   [](https://www.mypillow.com/mattresses)
-
    [](https://www.mypillow.com/slipper-specials)
-
-   [](https://www.mypillow.com/mycoffee-options)
 
    [](https://www.mypillow.com/accessory-pillows)
 
-   [](https://www.mypillow.com/mypillows)
-
    [](https://www.mypillow.com/bath/kitchen-towels)
+
+   [](https://www.mypillow.com/the-classic-collection)
+
+   [](https://www.mypillow.com/bedding/blankets)
+
+   [](https://www.mypillow.com/pet)
+
+   [](https://www.mypillow.com/bath/mypillow-bath-robes)
+
+   [](https://www.mypillow.ca/my-mattress-topper)
 
    [](https://www.mypillow.com/clothing/made-in-america-socks-category)
 
-   [](https://www.mypillow.ca/mikes-products/what-are-the-odds-br-from-crack-addict-to-ceo)
-
-   [](https://www.mypillow.ca/mypillow-2-pick-your-size)
+   [](https://www.mypillow.com/mystore-gummies)
 
 [SAVE up to 80% with promo code
 
@@ -145,7 +145,11 @@ SHOP NOW](https://www.mypillow.com/new-gorka)
 
 SHOP NOW](https://www.mypillow.com/hannity-new)
 
-   [](https://www.mypillow.com/pet)
+   [](https://www.mypillow.com/mattresses)
+
+   [](https://www.mypillow.ca/mypillow-2-pick-your-size)
+
+   [](https://www.mypillow.ca/mikes-products/what-are-the-odds-br-from-crack-addict-to-ceo)
 
    [](https://www.mypillow.ca/mystore-general-redirect)
 
@@ -153,33 +157,17 @@ SHOP NOW](https://www.mypillow.com/hannity-new)
 
    [](https://www.mypillow.com/couch-and-recliner-pillows)
 
-   [](https://www.mypillow.com/bath/mypillow-bath-robes)
-
    [](https://www.mypillow.com/bath/beach-towels)
 
    [](https://www.mypillow.com/pet)
 
    [](https://www.mypillow.com/smoothtoe-socks)
 
-   [](https://www.mypillow.com/bedding/blankets)
-
-   [](https://www.mypillow.com/mystore-gummies)
-
    [](https://www.mypillow.com/open-box)
 
    [](https://www.mypillow.com/bolster-pillow-w-bolster-pillowcase)
 
    [](https://www.mypillow.ca/clothing)
-
-   [](https://www.mypillow.com/mikes-products)
-
-   
-
-   [](https://www.mypillow.ca/toppers)
-
-   [](https://www.mypillow.com/gift-cards)
-
-   [](https://www.mypillow.com/bath)
 
 ### Discover our Guarantee
 
