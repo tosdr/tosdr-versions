@@ -218,8 +218,7 @@
 Log in
 
 * [Bazaarvoice Portal](https://portal.bazaarvoice.com/)
-* [Social Commerce](https://app.curalate.com/login)
-* [Affable.ai](https://app.affable.ai/)
+* [Social Commerce](https://vibe.bazaarvoice.com/)
 
 * [English](https://www.bazaarvoice.com/)
 * [French](https://www.bazaarvoice.com/fr/)
@@ -621,8 +620,8 @@ Company
 Client services & support
 
 * [Customer Support](https://support.bazaarvoice.com/)
-* [Knowledge Base](https://knowledge.bazaarvoice.com/)
-* [Developers](https://developer.bazaarvoice.com/)
+* [Knowledge Base](https://docs.bazaarvoice.com/)
+* [Developers](https://developers.bazaarvoice.com/)
 * [System Status](https://status.bazaarvoice.com/)
 
 4939A3B5-F355-4709-9618-5661A01FD8C5
