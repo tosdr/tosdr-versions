@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/2024.08.26-OIS-Farwell-Washtenaw-326x245.jpg)](https://cwbchicago.com/2024/10/charges-filed-in-weekend-shooting-and-police-shoot-out-on-far-north-side-hate-crime-not-alleged.html "Charges filed in weekend shooting and police shoot-out on Far North Side; hate crime not alleged")
+[![](https://cwbchicago.com/wp-content/uploads/2024/08/Generic-stand-edited-326x245.jpg)](https://cwbchicago.com/2024/10/man-shot-outside-edgewater-apartment-building.html "Man shot outside Edgewater apartment building")
 
-West Rogers Park
+Edgewater
 
-### [Charges filed in weekend shooting and police shoot-out on Far North Side; hate crime not alleged](https://cwbchicago.com/2024/10/charges-filed-in-weekend-shooting-and-police-shoot-out-on-far-north-side-hate-crime-not-alleged.html "Charges filed in weekend shooting and police shoot-out on Far North Side; hate crime not alleged")
+### [Man shot outside Edgewater apartment building](https://cwbchicago.com/2024/10/man-shot-outside-edgewater-apartment-building.html "Man shot outside Edgewater apartment building")
 
-[October 28, 2024 6:46 PM](https://cwbchicago.com/2024/10)
+[October 28, 2024 8:32 PM](https://cwbchicago.com/2024/10)
 
-A 22-year-old gunman shot a 39-year-old Jewish man without saying a word as the victim walked to synagogue on Saturday morning, officials said as they announced charges in the case. Sidi Mohamed Abdallahi is charged with six counts of attempted murder and eight additional felonies, but the charges do not include hate crime.[](https://cwbchicago.com/2024/10/charges-filed-in-weekend-shooting-and-police-shoot-out-on-far-north-side-hate-crime-not-alleged.html "Charges filed in weekend shooting and police shoot-out on Far North Side; hate crime not alleged")
+A 47-year-old man is in fair condition after being shot outside an Edgewater apartment building this afternoon, Chicago police said.[](https://cwbchicago.com/2024/10/man-shot-outside-edgewater-apartment-building.html "Man shot outside Edgewater apartment building")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/1200-block-south-prairie-chicago-map-326x245.jpg)](https://cwbchicago.com/2024/10/woman-found-dead-beside-severed-foot-in-stairwell-of-south-loop-luxury-high-rise-cpd-doc.html "Woman found dead beside severed foot in stairwell of South Loop luxury high-rise: CPD doc")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/loyola-041a-october-28-2024-326x245.jpg)](https://cwbchicago.com/2024/10/concealed-carry-holder-shot-man-after-being-struck-by-glass-jar-at-loyola-red-line-alderman.html "Concealed carry holder shot man after being struck by glass jar at Loyola Red Line: alderman")
 
-South Loop
+Rogers Park
 
-### [Woman found dead beside severed foot in stairwell of South Loop luxury high-rise: CPD doc](https://cwbchicago.com/2024/10/woman-found-dead-beside-severed-foot-in-stairwell-of-south-loop-luxury-high-rise-cpd-doc.html "Woman found dead beside severed foot in stairwell of South Loop luxury high-rise: CPD doc")
+### [Concealed carry holder shot man after being struck by glass jar at Loyola Red Line: alderman](https://cwbchicago.com/2024/10/concealed-carry-holder-shot-man-after-being-struck-by-glass-jar-at-loyola-red-line-alderman.html "Concealed carry holder shot man after being struck by glass jar at Loyola Red Line: alderman")
 
-[October 28, 2024 8:06 AM](https://cwbchicago.com/2024/10)
+[October 28, 2024 7:57 PM](https://cwbchicago.com/2024/10)
 
-Investigators were still working a crime scene Monday morning after a woman was found dead at the bottom of a luxury high-rise condo building in the South Loop.[](https://cwbchicago.com/2024/10/woman-found-dead-beside-severed-foot-in-stairwell-of-south-loop-luxury-high-rise-cpd-doc.html "Woman found dead beside severed foot in stairwell of South Loop luxury high-rise: CPD doc")
+A concealed carry license holder shot at least one man outside the Loyola Red Line station this afternoon after being hit in the face with a glass jar, officials said.[](https://cwbchicago.com/2024/10/concealed-carry-holder-shot-man-after-being-struck-by-glass-jar-at-loyola-red-line-alderman.html "Concealed carry holder shot man after being struck by glass jar at Loyola Red Line: alderman")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Michael-Fitzgerald-and-Demarco-Hunter-326x245.jpg)](https://cwbchicago.com/2024/10/two-charged-with-attacking-cops-outside-west-side-memorial-service.html "Two charged with attacking cops outside memorial service")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Michael-Fitzgerald-and-Demarco-Hunter-326x245.jpg)](https://cwbchicago.com/2024/10/funeral-crowd-swarmed-cop-who-tried-to-arrest-a-man-with-a-gun-officials-say.html "Funeral crowd ‘swarmed’ cop who tried to arrest a man with a gun, officials say")
 
 West Garfield Park
 
-### [Two charged with attacking cops outside memorial service](https://cwbchicago.com/2024/10/two-charged-with-attacking-cops-outside-west-side-memorial-service.html "Two charged with attacking cops outside memorial service")
+### [Funeral crowd ‘swarmed’ cop who tried to arrest a man with a gun, officials say](https://cwbchicago.com/2024/10/funeral-crowd-swarmed-cop-who-tried-to-arrest-a-man-with-a-gun-officials-say.html "Funeral crowd ‘swarmed’ cop who tried to arrest a man with a gun, officials say")
 
-[October 28, 2024 4:29 AM](https://cwbchicago.com/2024/10)
+[October 28, 2024 7:17 PM](https://cwbchicago.com/2024/10)
 
-Two men will be in court later today to face charges that they physically attacked Chicago police officers outside at a memorial service on the West Side this weekend.[](https://cwbchicago.com/2024/10/two-charged-with-attacking-cops-outside-west-side-memorial-service.html "Two charged with attacking cops outside memorial service")
+A parolee and another man attacked a Chicago cop who was trying to catch someone who had a firearm outside a funeral gathering on the West Side, according to CPD reports.[](https://cwbchicago.com/2024/10/funeral-crowd-swarmed-cop-who-tried-to-arrest-a-man-with-a-gun-officials-say.html "Funeral crowd ‘swarmed’ cop who tried to arrest a man with a gun, officials say")
 
 Search
 
