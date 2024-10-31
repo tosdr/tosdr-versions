@@ -135,21 +135,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![A man waits for a train at Ebisu Station in Tokyo on Oct. 4.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430906.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man waits for a train at Ebisu Station in Tokyo on Oct. 4.")](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
 
-[Without an LDP-Komeito majority, will Ishiba stay prime minister?](https://www.japantimes.co.jp/news/2024/10/29/japan/politics/ishiba-prime-minister-ballot/ "Without an LDP-Komeito majority, will Ishiba stay prime minister?")
+[Taiwan battens down for Super Typhoon Kong-rey](https://www.japantimes.co.jp/news/2024/10/30/asia-pacific/taiwan-super-typhoon/ "Taiwan battens down for Super Typhoon Kong-rey")
 
-  [![Yoshihiko Noda, head of the Constitutional Democratic Party of Japan, walks past a monitor displaying a live news broadcast showing Prime Minister Shigeru Ishiba in Tokyo on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430850.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Yoshihiko Noda, head of the Constitutional Democratic Party of Japan, walks past a monitor displaying a live news broadcast showing Prime Minister Shigeru Ishiba in Tokyo on Sunday.")](https://www.japantimes.co.jp/news/2024/10/29/japan/politics/ishiba-prime-minister-ballot/ "Without an LDP-Komeito majority, will Ishiba stay prime minister?")
+  [![People ride scooters in heavy rain as Typhoon Kong-rey approaches Taiwan, in Yilan County on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431235.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People ride scooters in heavy rain as Typhoon Kong-rey approaches Taiwan, in Yilan County on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/30/asia-pacific/taiwan-super-typhoon/ "Taiwan battens down for Super Typhoon Kong-rey")
 
-[Man held for allegedly assaulting Japanese celebrity Haruna Kojima](https://www.japantimes.co.jp/news/2024/10/29/japan/crime-legal/japanese-celebrity-haruna-kojima-assault/ "Man held for allegedly assaulting Japanese celebrity Haruna Kojima")
+[Bank of Japan set to stay course with Ueda seen sticking to script](https://www.japantimes.co.jp/business/2024/10/30/markets/boj-meeting-preview/ "Bank of Japan set to stay course with Ueda seen sticking to script")
 
-  [![Haruna Kojima in Tokyo in April 2017 following her last show as a member of the AKB48 pop group](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430895.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Haruna Kojima in Tokyo in April 2017 following her last show as a member of the AKB48 pop group")](https://www.japantimes.co.jp/news/2024/10/29/japan/crime-legal/japanese-celebrity-haruna-kojima-assault/ "Man held for allegedly assaulting Japanese celebrity Haruna Kojima")
+  [![After a two-day meeting of the Bank of Japan policy board ends on Thursday, Gov. Kazuo Ueda is likely to stick to the script and repeat almost verbatim his previous remarks.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431092.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "After a two-day meeting of the Bank of Japan policy board ends on Thursday, Gov. Kazuo Ueda is likely to stick to the script and repeat almost verbatim his previous remarks.")](https://www.japantimes.co.jp/business/2024/10/30/markets/boj-meeting-preview/ "Bank of Japan set to stay course with Ueda seen sticking to script")
 
-[Make a one-of-a-kind mechanical keyboard at this Akihabara shop](https://www.japantimes.co.jp/business/2024/10/29/companies/akihabara-keyboard-shop/ "Make a one-of-a-kind mechanical keyboard at this Akihabara shop")
+[Tokyo High Court rules same-sex marriage ban is unconstitutional](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/same-sex-ruling-unconstitutional/ "Tokyo High Court rules same-sex marriage ban is unconstitutional")
 
-  [![A custom-made split keyboard at Yusha Kobo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430841.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A custom-made split keyboard at Yusha Kobo.")](https://www.japantimes.co.jp/business/2024/10/29/companies/akihabara-keyboard-shop/ "Make a one-of-a-kind mechanical keyboard at this Akihabara shop")
+  [![Plaintiffs seeking the right for same-sex couples to marry react Wednesday to the Tokyo High Court's ruling that Japan's ban on such marriages is unconstitutional.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431123.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Plaintiffs seeking the right for same-sex couples to marry react Wednesday to the Tokyo High Court's ruling that Japan's ban on such marriages is unconstitutional.")](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/same-sex-ruling-unconstitutional/ "Tokyo High Court rules same-sex marriage ban is unconstitutional")
 
-[Japan’s struggle with youth suicide sparks government initiatives](https://www.japantimes.co.jp/news/2024/10/29/japan/science-health/suicide-stats-2023-children/ "Japan’s struggle with youth suicide sparks government initiatives")
+['Peak Japan' is now, so seize the moment, Japan](https://www.japantimes.co.jp/commentary/2024/10/30/japan/peak-japan-now/ "'Peak Japan' is now, so seize the moment, Japan")
 
-  [![The health ministry’s report shows that the number of elementary, junior high and high school students who took their own lives in 2023 stood at 513, one fewer than last year's record of 514.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430916.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The health ministry’s report shows that the number of elementary, junior high and high school students who took their own lives in 2023 stood at 513, one fewer than last year's record of 514.")](https://www.japantimes.co.jp/news/2024/10/29/japan/science-health/suicide-stats-2023-children/ "Japan’s struggle with youth suicide sparks government initiatives")
+  [![Anna Sawai and Hiroyuki Sanada won the outstanding lead actress and actor awards in a drama series, respectively, for "Shogun" at the 76th Primetime Emmy Awards in Los Angeles on Sept. 15.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431099.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Anna Sawai and Hiroyuki Sanada won the outstanding lead actress and actor awards in a drama series, respectively, for "Shogun" at the 76th Primetime Emmy Awards in Los Angeles on Sept. 15.")](https://www.japantimes.co.jp/commentary/2024/10/30/japan/peak-japan-now/ "'Peak Japan' is now, so seize the moment, Japan")
 
 Editors' Picks
 --------------
@@ -162,35 +162,37 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 
   [![A man waits for a train at Ebisu Station in Tokyo on Oct. 4.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430906.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man waits for a train at Ebisu Station in Tokyo on Oct. 4.")](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
-[Without an LDP-Komeito majority, will Ishiba stay prime minister?](https://www.japantimes.co.jp/news/2024/10/29/japan/politics/ishiba-prime-minister-ballot/ "Without an LDP-Komeito majority, will Ishiba stay prime minister?")
+[Taiwan battens down for Super Typhoon Kong-rey](https://www.japantimes.co.jp/news/2024/10/30/asia-pacific/taiwan-super-typhoon/ "Taiwan battens down for Super Typhoon Kong-rey")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+By [Akio Wang](https://www.japantimes.co.jp/author/6148/akio-wang/ "Akio Wang") and [Joy Chiang](https://www.japantimes.co.jp/author/6105/joy-chiang/ "Joy Chiang")  
 
-  [![Yoshihiko Noda, head of the Constitutional Democratic Party of Japan, walks past a monitor displaying a live news broadcast showing Prime Minister Shigeru Ishiba in Tokyo on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430850.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Yoshihiko Noda, head of the Constitutional Democratic Party of Japan, walks past a monitor displaying a live news broadcast showing Prime Minister Shigeru Ishiba in Tokyo on Sunday.")](https://www.japantimes.co.jp/news/2024/10/29/japan/politics/ishiba-prime-minister-ballot/ "Without an LDP-Komeito majority, will Ishiba stay prime minister?")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Man held for allegedly assaulting Japanese celebrity Haruna Kojima](https://www.japantimes.co.jp/news/2024/10/29/japan/crime-legal/japanese-celebrity-haruna-kojima-assault/ "Man held for allegedly assaulting Japanese celebrity Haruna Kojima")
-
-  [![Haruna Kojima in Tokyo in April 2017 following her last show as a member of the AKB48 pop group](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430895.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Haruna Kojima in Tokyo in April 2017 following her last show as a member of the AKB48 pop group")](https://www.japantimes.co.jp/news/2024/10/29/japan/crime-legal/japanese-celebrity-haruna-kojima-assault/ "Man held for allegedly assaulting Japanese celebrity Haruna Kojima")
+  [![People ride scooters in heavy rain as Typhoon Kong-rey approaches Taiwan, in Yilan County on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431235.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People ride scooters in heavy rain as Typhoon Kong-rey approaches Taiwan, in Yilan County on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/30/asia-pacific/taiwan-super-typhoon/ "Taiwan battens down for Super Typhoon Kong-rey")
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Make a one-of-a-kind mechanical keyboard at this Akihabara shop](https://www.japantimes.co.jp/business/2024/10/29/companies/akihabara-keyboard-shop/ "Make a one-of-a-kind mechanical keyboard at this Akihabara shop")
+[Bank of Japan set to stay course with Ueda seen sticking to script](https://www.japantimes.co.jp/business/2024/10/30/markets/boj-meeting-preview/ "Bank of Japan set to stay course with Ueda seen sticking to script")
 
-By [Sam Byford](https://www.japantimes.co.jp/author/6003/sam-byford/ "Sam Byford")  
+By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beattie/ "Elizabeth Beattie")  
 
-  [![A custom-made split keyboard at Yusha Kobo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430841.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A custom-made split keyboard at Yusha Kobo.")](https://www.japantimes.co.jp/business/2024/10/29/companies/akihabara-keyboard-shop/ "Make a one-of-a-kind mechanical keyboard at this Akihabara shop")
+  [![After a two-day meeting of the Bank of Japan policy board ends on Thursday, Gov. Kazuo Ueda is likely to stick to the script and repeat almost verbatim his previous remarks.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431092.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "After a two-day meeting of the Bank of Japan policy board ends on Thursday, Gov. Kazuo Ueda is likely to stick to the script and repeat almost verbatim his previous remarks.")](https://www.japantimes.co.jp/business/2024/10/30/markets/boj-meeting-preview/ "Bank of Japan set to stay course with Ueda seen sticking to script")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan’s struggle with youth suicide sparks government initiatives](https://www.japantimes.co.jp/news/2024/10/29/japan/science-health/suicide-stats-2023-children/ "Japan’s struggle with youth suicide sparks government initiatives")
+[Tokyo High Court rules same-sex marriage ban is unconstitutional](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/same-sex-ruling-unconstitutional/ "Tokyo High Court rules same-sex marriage ban is unconstitutional")
 
-By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
 
-  [![The health ministry’s report shows that the number of elementary, junior high and high school students who took their own lives in 2023 stood at 513, one fewer than last year's record of 514.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430916.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The health ministry’s report shows that the number of elementary, junior high and high school students who took their own lives in 2023 stood at 513, one fewer than last year's record of 514.")](https://www.japantimes.co.jp/news/2024/10/29/japan/science-health/suicide-stats-2023-children/ "Japan’s struggle with youth suicide sparks government initiatives")
+  [![Plaintiffs seeking the right for same-sex couples to marry react Wednesday to the Tokyo High Court's ruling that Japan's ban on such marriages is unconstitutional.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431123.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Plaintiffs seeking the right for same-sex couples to marry react Wednesday to the Tokyo High Court's ruling that Japan's ban on such marriages is unconstitutional.")](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/same-sex-ruling-unconstitutional/ "Tokyo High Court rules same-sex marriage ban is unconstitutional")
+
+[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+
+['Peak Japan' is now, so seize the moment, Japan](https://www.japantimes.co.jp/commentary/2024/10/30/japan/peak-japan-now/ "'Peak Japan' is now, so seize the moment, Japan")
+
+By [Joshua W. Walker](https://www.japantimes.co.jp/author/316/joshua-w-walker/ "Joshua W. Walker")  
+
+  [![Anna Sawai and Hiroyuki Sanada won the outstanding lead actress and actor awards in a drama series, respectively, for "Shogun" at the 76th Primetime Emmy Awards in Los Angeles on Sept. 15.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431099.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Anna Sawai and Hiroyuki Sanada won the outstanding lead actress and actor awards in a drama series, respectively, for "Shogun" at the 76th Primetime Emmy Awards in Los Angeles on Sept. 15.")](https://www.japantimes.co.jp/commentary/2024/10/30/japan/peak-japan-now/ "'Peak Japan' is now, so seize the moment, Japan")
 
 Podcast
 -------
@@ -211,9 +213,9 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Two more teens arrested in death of Hokkaido college student](https://www.japantimes.co.jp/news/2024/10/31/japan/crime-legal/hokkaido-murder-two-more-arrests/ "Two more teens arrested in death of Hokkaido college student")
+[Komeito leader Keiichi Ishii announces resignation after party lost seats](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/komeito-leader-resignation/ "Komeito leader Keiichi Ishii announces resignation after party lost seats")
 
-28 mins ago
+41 mins ago
 
-[North Korea fires off ‘ICBM-class’ weapon with longest flight time yet](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ‘ICBM-class’ weapon with longest flight time yet")
+[Bank of Japan keeps policy rate steady at 0.25%, as expected](https://www.japantimes.co.jp/business/2024/10/31/economy/boj-policy-rate/ "Bank of Japan keeps policy rate steady at 0.25%, as expected")
 
-28 mins ago
+56 mins ago
 
-[AI’s $1.3 trillion future increasingly hinges on Taiwan](https://www.japantimes.co.jp/business/2024/10/31/tech/ai-trillion-future-taiwan/ "AI’s $1.3 trillion future increasingly hinges on Taiwan")
+[Campaigning kicks off for Hyogo gubernatorial election](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/hyogo-governor-election/ "Campaigning kicks off for Hyogo gubernatorial election")
 
-51 mins ago
+1 hours ago
 
-[U.S. sanctions entities India, China and Turkey over Russia war supplies](https://www.japantimes.co.jp/news/2024/10/31/world/politics/us-sanctions-suppliers-russia-war/ "U.S. sanctions entities India, China and Turkey over Russia war supplies")
+[Nomura fined by Japan regulator for bond market manipulation](https://www.japantimes.co.jp/business/2024/10/31/companies/nomura-bond-manipulation-fine/ "Nomura fined by Japan regulator for bond market manipulation")
 
-52 mins ago
+1 hours ago
 
-[Trump factor bringing uncertainty to Asian firms' U.S. investment outlook](https://www.japantimes.co.jp/business/2024/10/31/markets/trump-biden-industrial-policy-asian/ "Trump factor bringing uncertainty to Asian firms' U.S. investment outlook")
+[Okinawa's Shuri Castle marks five years since devastating fire](https://www.japantimes.co.jp/news/2024/10/31/japan/shuri-castle-five-years/ "Okinawa's Shuri Castle marks five years since devastating fire")
 
-57 mins ago
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
