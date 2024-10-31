@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/john-maynard-keynes-omgekeerde-economische-wereld/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/crisis-winst-of-verlies/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
