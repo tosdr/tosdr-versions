@@ -18,8 +18,6 @@ Search for:
 * [Resources](https://cirrantic.com/ressourcen-2/)
 * [About](https://cirrantic.com/ueber-uns/)
 
-Contact
-
 Terms and conditions
 ====================
 
