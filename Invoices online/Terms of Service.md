@@ -196,57 +196,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Henry Venter
+Kobus Venter
 
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=bfe9074cb4762538075363d837657c18fe21b7780d63d04e36ac9131c80cb09a&c=90294079)  
-FlipDesign - Renovation Contracting Firm
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=6138242)  
+Mountain Lion Properties
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=bfe9074cb4762538075363d837657c18fe21b7780d63d04e36ac9131c80cb09a&c=73070707)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=101470204)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=bfe9074cb4762538075363d837657c18fe21b7780d63d04e36ac9131c80cb09a&c=33736072)  
-VIV'S TRUCKS (Pty) Ltd. (117)
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=179182249)  
+webb it services
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=bfe9074cb4762538075363d837657c18fe21b7780d63d04e36ac9131c80cb09a&c=211138380)  
-Lindani Protection Services & Projects
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=142518424)  
+Digifax (Pty) Ltd T/A SecurityHyper
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=bfe9074cb4762538075363d837657c18fe21b7780d63d04e36ac9131c80cb09a&c=106523136)  
-Safe-Train Consulting (PTY) Ltd
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=78358032)  
+Lizzy Pop PTY(Ltd)
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=bfe9074cb4762538075363d837657c18fe21b7780d63d04e36ac9131c80cb09a&c=195485546)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=65181083)  
+Safe Train Mokgethwa (PTY) Ltd
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=bfe9074cb4762538075363d837657c18fe21b7780d63d04e36ac9131c80cb09a&c=101279938)  
-KTEN PARTS
+![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=107428369)  
+Turnkey Innovations
 
-![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=bfe9074cb4762538075363d837657c18fe21b7780d63d04e36ac9131c80cb09a&c=128767033)  
-Secunda Signs T/A Local Print and Signs
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=144404751)  
+Hydroworld T/A Milliqua
 
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=bfe9074cb4762538075363d837657c18fe21b7780d63d04e36ac9131c80cb09a&c=212974965)  
-Tracknetics
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=112239159)  
+McKaynine Mobility
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=bfe9074cb4762538075363d837657c18fe21b7780d63d04e36ac9131c80cb09a&c=7435170)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=71932947)  
+National Elite Security Services (PTY) LTD
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=bfe9074cb4762538075363d837657c18fe21b7780d63d04e36ac9131c80cb09a&c=45965025)  
-M's Frozen Delights
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=200950167)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=bfe9074cb4762538075363d837657c18fe21b7780d63d04e36ac9131c80cb09a&c=24243134)  
-Bchange Online CC
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=166127262)  
+Well Hung Art
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=bfe9074cb4762538075363d837657c18fe21b7780d63d04e36ac9131c80cb09a&c=144834354)  
-Alliance Energy
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=133322902)  
+Website Café (PTY) LTD
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=bfe9074cb4762538075363d837657c18fe21b7780d63d04e36ac9131c80cb09a&c=192477494)  
-MSPCloud (Pty) Ltd
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=95337973)  
+IYD
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=bfe9074cb4762538075363d837657c18fe21b7780d63d04e36ac9131c80cb09a&c=96820799)  
-Durbanville Classifieds (Pty) Ltd
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=7eaf58924715bba2e7dd0cded90d7a569c831ab154a5966d96292320be66008b&c=57093263)  
+Itroniq (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
