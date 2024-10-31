@@ -204,11 +204,11 @@ We are committed to conducting our business in accordance with principles that e
 
 #### Just Added
 
+* [Star Wars Puns](https://funkidsjokes.com/star-wars-puns/)
 * [Giraffe Jokes](https://funkidsjokes.com/giraffe-jokes/)
 * [Pumpkin Carving Jokes](https://funkidsjokes.com/pumpkin-carving-jokes/)
 * [Hamster Jokes](https://funkidsjokes.com/hamster-jokes/)
 * [Panda Bear Jokes](https://funkidsjokes.com/panda-jokes/)
-* [Most Popular Halloween Costumes for Kids – Plus Funny Jokes to Go with Them](https://funkidsjokes.com/most-popular-halloween-costumes-for-kids/)
 
   
   
