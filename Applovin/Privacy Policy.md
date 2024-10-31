@@ -110,7 +110,7 @@
     
     [View all resources](https://www.applovin.com/resource-center/)
     
-    ###### More about us
+    More about us
     
     * [Partners](https://www.applovin.com/partners/)
     * [Jobs](https://www.applovin.com/jobs/)
@@ -169,7 +169,7 @@ Privacy Policy
 
 [![TRUSTe Verified Privacy](//privacy-policy.truste.com/privacy-seal/seal?rid=b660c4bf-c1cd-44c9-a527-f428e5f1f5d2)](https://privacy.truste.com/privacy-seal/validation?rid=b660c4bf-c1cd-44c9-a527-f428e5f1f5d2)[![TRUSTe Data Certification](//privacy-policy.truste.com/privacy-seal/seal?rid=0d325ffb-5c6a-4c69-9edd-3380254e97d6)](https://privacy.truste.com/privacy-seal/validation?rid=0d325ffb-5c6a-4c69-9edd-3380254e97d6) 
 
-**Effective Date**: September 13, 2024  
+**Effective Date**: October 30, 2024  
 You can find the prior version [here](https://www.applovin.com/privacy-prior/).
 
 AppLovin Corporation (“we,” “us,” “our,” or “AppLovin”) operates a suite of tools for app developers and other businesses to automate and optimize the marketing and monetization of their platforms, products, or services by enabling the placement of different types of advertisements on digital properties including mobile apps, websites, and connected TV devices (collectively, the “Advertising Services” or “Services”).  As explained below, consumers interact with us in a few ways, primarily through advertisements served by AppLovin on behalf of advertisers.
@@ -212,20 +212,10 @@ Advertisers (through the advertiser itself or through a third party service prov
 
 If you are a consumer who interacts with the Services through an e-commerce platform or a merchant website, we may collect certain additional information (that you provided to the e-commerce platform or merchant, through a third party’s API, our SDK, pixel, or other similar technologies), including the following:
 
-**Personal Identifiers** 
-
-* Names;
-* Email addresses;
-* Phone numbers;
-* Mailing addresses; and
-* Usernames.
-
-**Shopping and Browsing Data and Events** 
-
+* User IDs;
 * Shopping browsing behavior (e.g., views) and search history;
 * Records of products purchased or considered (e.g., added to cart, check out);
-* Purchasing histories; 
-* Tendencies or preferences; and
+* Purchasing histories; and
 * Information regarding user interactions with advertising partners and their merchant partners’ sites and advertisements.
 
 **How We Collect Your Information**
