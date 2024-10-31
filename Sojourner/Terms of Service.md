@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7d339d70c5dfa1a9de6b7504f89fd972
+5f8dd9724b24f1755e2af504d2a76687
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![4 mm lemon confetti crystal beads](https://sojourner.biz/images/cache/glass/GL0052.200.jpg)](https://sojourner.biz/beads/glass/4-mm-lemon-confetti-crystal-beads.html "4 mm lemon confetti crystal beads")
+[![6 mm by 3 mm gold-plate rondelles](https://sojourner.biz/images/cache/metalbeads/MET005strand.200.jpg)](https://sojourner.biz/beads/metal/6-mm-by-3-mm-gold-plate-rondelles.html "6 mm by 3 mm gold-plate rondelles")
 
-#### [4 mm lemon confetti crystal beads](https://sojourner.biz/beads/glass/4-mm-lemon-confetti-crystal-beads.html "4 mm lemon confetti crystal beads")
+#### [6 mm by 3 mm gold-plate rondelles](https://sojourner.biz/beads/metal/6-mm-by-3-mm-gold-plate-rondelles.html "6 mm by 3 mm gold-plate rondelles")
 
-$10.00
+$2.00
 
 ### Best Sellers
 
@@ -160,16 +160,16 @@ $10.00
     $15.00
 5. [White pearl toggle clasp](https://sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
     $28.00
-6. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
-    $23.00
-7. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+6. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
-8. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+7. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
+8. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
+    $23.00
 9. [Sterling silver tiny lily clasp](https://sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [Turquoise bar toggle clasp](https://sojourner.biz/clasps/toggles/turquoise-bar-toggle-clasp.html "Turquoise bar toggle clasp")  
-    $13.50
+10. [2 mm amethyst round beads](https://sojourner.biz/beads/stone-a-l/amethyst/2-mm-amethyst-round-beads.html "2 mm amethyst round beads")  
+    $10.00
 
 [Top](#)
 
