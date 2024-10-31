@@ -337,7 +337,7 @@ Our Schools
     * [Departments](https://www.browardschools.com/site/Default.aspx?PageType=1&SiteID=4&ChannelID=13070&DirectoryType=6)
     * [Important Phone Numbers](https://www.browardschools.com/domain/14046)
     * [School Board & Leadership Staff Directory](https://www.browardschools.com/domain/24867)
-    * [Regional Superintendent and Associate Superintendent Offices - Overview](https://www.browardschools.com/Page/76651)
+    * [Regional Superintendent and Assistant Superintendent Offices - Overview](https://www.browardschools.com/Page/76651)
 * [School Board](https://www.browardschools.com/Domain/12453)
     
     "* [Watch Board Meetings and Workshops](https://www.browardschools.com/Page/35670)
