@@ -25,6 +25,7 @@ Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1729782419/fro
 [Menu](#store.menu)
 
 * [NEW TOOLS](https://www.woodpeck.com/new-tools.html)
+* [Specials](https://www.woodpeck.com/specials.html)
 * [Accessories](https://www.woodpeck.com/accessories.html)
     * [Woodpecker Gift Certificates](https://www.woodpeck.com/accessories/gift-certificate.html)
     * [Woodpeckers Apparel](https://www.woodpeck.com/accessories/woodpeckers-apparel.html)
@@ -64,7 +65,6 @@ Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1729782419/fro
     * [One-Handed Trigger Clamps](https://www.woodpeck.com/clamping/one-handed-trigger-clamps.html)
     * [Corner Clamps](https://www.woodpeck.com/clamping/corner-clamps.html)
     * [Bar Clamps](https://www.woodpeck.com/clamping/bar-clamps.html)
-* [Closeout](https://www.woodpeck.com/specials.html)
 * [Cutting Boards](https://www.woodpeck.com/cutting-boards.html)
 * [Drilling](https://www.woodpeck.com/drilling.html)
     * [Cross Dowels](https://www.woodpeck.com/drilling/cross-dowels.html)
