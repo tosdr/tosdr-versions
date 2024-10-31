@@ -135,6 +135,7 @@
     * [Subscription](https://docs.zeabur.com/docs/en-US/billing/subscription)
     * [Referral](https://docs.zeabur.com/docs/en-US/billing/referral)
     * [Sponsor](https://docs.zeabur.com/docs/en-US/billing/sponsor)
+    * [Contribution Reward Program](https://docs.zeabur.com/docs/en-US/billing/reward)
     
 * Community
     
