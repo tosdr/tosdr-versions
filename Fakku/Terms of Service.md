@@ -1,4 +1,4 @@
-[![FAKKU!](/static/wordmark.svg)](https://www.fakku.net/)
+[](https://www.fakku.net/ "Fakku!")
 
 [New Releases](https://www.fakku.net/hentai "Newly Released Hentai Manga")
 
@@ -284,8 +284,6 @@ If you believe that your content that was removed is not infringing, or that you
 Please note that under Section 512(f) of the Copyright Act, any person who knowingly materially misrepresents that material or activity was removed or disabled by mistake or misidentification may be subject to liability.
 
 In accordance with the DMCA and other applicable laws, we have adopted a policy to terminate the Account of users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.
-
- 
 
 [](https://x.com/fakku "FAKKU X (formerly known as Twitter)")[](https://discord.gg/SCjbSWkMHB "FAKKU Discord")
 
