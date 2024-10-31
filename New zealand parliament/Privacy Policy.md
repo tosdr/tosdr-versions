@@ -2,9 +2,9 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_71240_2024/71240-2024-hon-rachel-brooking-to-the-minister-responsible/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/54SCEDSI_ADV_81dbd590-6e68-48d1-8be4-08dcdc4c6a57_EDSI1278/ministry-of-business-innovation-and-employment-initial/)
 
-Search [Advanced Search](https://www.parliament.nz/en/search)
+Search
 
  Search
 
@@ -12,9 +12,7 @@ Search
 
  Search
 
-[Advanced Search](https://www.parliament.nz/en/search)
-
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_71240_2024/71240-2024-hon-rachel-brooking-to-the-minister-responsible/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/54SCEDSI_ADV_81dbd590-6e68-48d1-8be4-08dcdc4c6a57_EDSI1278/ministry-of-business-innovation-and-employment-initial/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
