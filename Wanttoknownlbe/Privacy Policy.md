@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/geheimen-uit-ons-universum-2/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/liefde-en-vrijheid-als-sleutel-tot-succes/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
