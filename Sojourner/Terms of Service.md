@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-760291c3913c6f801d5a669cad707385
+c94ab9448e17086072bee08b0f45fe2c
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![EB25 hook clasp](https://sojourner.biz/images/cache/EB25rdtop.200.jpg)](https://sojourner.biz/clasps/hooks/eb25-hook-clasp.html "EB25 hook clasp")
+[![15 mm by 12 mm vintage German glass nuggets](https://sojourner.biz/images/cache/glass/GL0062.200.jpg)](https://sojourner.biz/beads/glass/15-mm-by-12-mm-vintage-german-glass-nuggets.html "15 mm by 12 mm vintage German glass nuggets")
 
-#### [EB25 hook clasp](https://sojourner.biz/clasps/hooks/eb25-hook-clasp.html "EB25 hook clasp")
+#### [15 mm by 12 mm vintage German glass nuggets](https://sojourner.biz/beads/glass/15-mm-by-12-mm-vintage-german-glass-nuggets.html "15 mm by 12 mm vintage German glass nuggets")
 
-$6.60
+$17.00
 
 ### Best Sellers
 
