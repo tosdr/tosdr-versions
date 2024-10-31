@@ -1,10 +1,14 @@
 [Skip to main content](#main-content)
 
+**Sunday 3 November 2024** – Essential track repairs: Only travel if absolutely necessary between London Paddington, Bristol and South Wales.
+
+[Find out more](https://www.gwr.com/disruption-3-nov)
+
 Accessibility tools
 
 [My Account](https://myaccount.gwr.com/MyAccount/SignIn)
 
-Travel updatesGood service
+(2) Travel updatesDisruption
 
 [](https://www.gwr.com/ "GWR Homepage")[Buy tickets](https://www.gwr.com/tickets#)
 
@@ -46,7 +50,7 @@ Key terms
 4. You must only use the Site in accordance with our [acceptable use policy](#our-acceptable-use-policy).  
       
     
-5. Changes to tickets may be permitted depending on the type of ticket and the availability of alternatives, but exchange may not be available for certain ticket types. Refunds will depend on the type of ticket and conditions applicable to it and may not be available for certain ticket types. All refunds and amendments will incur a £10 charge.  
+5. Changes to tickets may be permitted depending on the type of ticket and the availability of alternatives, but exchange may not be available for certain ticket types. Refunds will depend on the type of ticket and conditions applicable to it and may not be available for certain ticket types. Refunds and amendments may incur a charge of up to £10.  
       
     
 6. If you cannot produce a valid ticket for the class of accommodation and service you use, you will have to pay the appropriate fare or could face paying a penalty fare.  
@@ -131,7 +135,7 @@ g) Smartcard – For some bookings we allow your ticket to be delivered to your 
 #### Changes, cancellations and refunds
 
 1. Changes to the date and time of a ticket may be permitted depending on the type of ticket and availability of alternatives, but exchange may not be available for certain ticket types. Refunds will depend on the type of ticket and conditions applicable to it and may not be available for certain ticket types.
-2. All refunds and amendments will incur a £10 charge.
+2. Refunds and amendments may incur a charge of up to £10.
 3. To make any changes please login to your account, or contact Customer Support on 03457 000 125.
 
 ### Ownership of content
