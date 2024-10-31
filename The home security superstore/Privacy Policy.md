@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[20% Off Self Defense Keychains | Code: KEY20](https://www.thehomesecuritysuperstore.com/collections/keychain-weapons?utm_source=website&utm_medium=banner&utm_campaign=20%25+Off+Self+Defense+Keychains)
+[15% Off Expandable Striking Batons | Code: BAT15](https://www.thehomesecuritysuperstore.com/collections/expandable-batons?utm_source=website&utm_medium=banner&utm_campaign=10%25+Off+Expandable+Striking+Batons)
 
-TODAY'S OFFER: :: | 20% Off Self Defense Keychains | Code: KEY20
+TODAY'S OFFER: :: | 15% Off Expandable Striking Batons | Code: BAT15
 
 TODAY'S OFFER: : :
 
- 20% Off Self Defense Keychains Code: KEY20
+ 15% Off Expandable Striking Batons Code: BAT15
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
