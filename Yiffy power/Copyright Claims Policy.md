@@ -85,23 +85,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 342 1
+0 351 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/fennix-epic-games-and-etc-created-by-i-luv-breadowo/)
+[](https://yiff-party.com/yiff-ai-premium/pebble-directed-by-yiffybee/)
 
-[fennix (epic games and etc) created by i luv breadowo](https://yiff-party.com/yiff/fennix-epic-games-and-etc-created-by-i-luv-breadowo/)
+[pebble directed by yiffybee](https://yiff-party.com/yiff-ai-premium/pebble-directed-by-yiffybee/)
 
-0 60 0
+0 46 0
 
 October 1, 2024
 
-[](https://yiff-party.com/yiff/halloween-and-etc-created-by-gudlmok99/)
+[](https://yiff-party.com/yiff/evalyn-and-kitos-nintendo-and-etc-created-by-eto-ya/)
 
-[halloween and etc created by gudlmok99](https://yiff-party.com/yiff/halloween-and-etc-created-by-gudlmok99/)
+[evalyn and kitos (nintendo and etc) created by eto ya](https://yiff-party.com/yiff/evalyn-and-kitos-nintendo-and-etc-created-by-eto-ya/)
 
-0 1 0
+0 2 0
 
 October 31, 2024
 
