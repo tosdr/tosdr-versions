@@ -79,10 +79,6 @@ Search
     
     $4.50](https://www.adafruit.com/product/6066)
     
-    ![Angled shot of unplugged soldering iron.](https://cdn-shop.adafruit.com/230x173/6045-08.jpg)[iFixit FixHub - Power Series Smart Soldering Iron
-    
-    $79.95](https://www.adafruit.com/product/6045)
-    
     ![Angled shot of green, credit-card-sized microcontroller in black rubber bumper case.](https://cdn-shop.adafruit.com/230x173/6056-06.jpg)[Protective Silicone Bumper for Raspberry Pi 5
     
     $3.00](https://www.adafruit.com/product/6056)
@@ -90,6 +86,10 @@ Search
     ![Angled shot of rectangular breakout board with three 2-pin terminal blocks.](https://cdn-shop.adafruit.com/230x173/6062-00.jpg)[Adafruit INA3221 - Triple 0-26 VDC, ±3.2 Amp Power Monitor
     
     $10.95](https://www.adafruit.com/product/6062)
+    
+    ![Overhead shot of barrel-jack-to-USB-C-socket right angle adapter, showing 19.5V.](https://cdn-shop.adafruit.com/230x173/6033-05.jpg)[USB Type C PD to 5.5mm/2.1mm Barrel Jack Adapter - 20V
+    
+    $2.25](https://www.adafruit.com/product/6033)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The cheapest, fastest, and most reliable components are those that aren't there”
+“ Either I win or I learn”
 
-[Gordon Bell](http://en.wikipedia.org/wiki/Gordon_Bell)
+[Nelson Mandela](https://en.wikipedia.org/wiki/Nelson_Mandela)
 
 [](https://www.adafruit.com/about)
 
