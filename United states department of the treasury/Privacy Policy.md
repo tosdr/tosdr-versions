@@ -555,6 +555,10 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    October 31, 2024
+    
+    [Treasury Sanctions Key Members of La Linea, a Group Involved in Trafficking Fentanyl into the United States](https://home.treasury.gov/news/press-releases/jy2704)
+    
     October 30, 2024
     
     [Treasury Takes Aim at Third-Country Sanctions Evaders and Russian Producers Supporting Russia’s Military Industrial Base](https://home.treasury.gov/news/press-releases/jy2700)
@@ -562,10 +566,6 @@ MENU MENU
     October 30, 2024
     
     [Quarterly Refunding Statement of Assistant Secretary for Financial Markets Josh Frost](https://home.treasury.gov/news/press-releases/jy2697)
-    
-    October 30, 2024
-    
-    [Report to the Secretary of the Treasury from the Treasury Borrowing Advisory Committee](https://home.treasury.gov/news/press-releases/jy2698)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
