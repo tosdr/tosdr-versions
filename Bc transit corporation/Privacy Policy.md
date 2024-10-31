@@ -234,6 +234,7 @@ Victoria, BC V8W 2P3
 * [Code of Conduct](https://www.bctransit.com/code-of-conduct/)
 * [Executive](https://www.bctransit.com/about/executive/)
 * [Plan Your Trip](https://www.bctransit.com/plan-your-trip/)
+* [NextRide](https://www.bctransit.com/about/nextride-faq/)
 * [Funding and Governance](https://www.bctransit.com/about/funding-and-governance/)
 * [Fast Facts and Performance](https://www.bctransit.com/about/facts/)
 * [Accessibility](https://www.bctransit.com/accessibility/)
