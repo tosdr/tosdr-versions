@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/liefde-en-vrijheid-als-sleutel-tot-succes/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/uit-het-systeem-stappen/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -180,15 +180,15 @@ Posted in [Boeken](https://www.wanttoknow.nl/dossiers/boeken/) Tagged [Corona](h
 
 #### Meelezen, meeleven
 
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/orde-chaos-banner.jpg?fit=696%2C440&ssl=1)
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/Judith-Moore-artikel-banner-afgescheidenheid-en-illusie.jpg?fit=730%2C422&ssl=1)
 
-### [Verwar nooit een opleiding met intelligentie..!](https://www.wanttoknow.nl/overige/verwar-nooit-een-opleiding-met-intelligentie/)
+### [Kosmische info via Judith Moore..!](https://www.wanttoknow.nl/inspiratie/meelezen/kosmische-info-via-judith-moore/)
 
-by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [6 oktober 2024](https://www.wanttoknow.nl/overige/verwar-nooit-een-opleiding-met-intelligentie/)
+by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [31 oktober 2024](https://www.wanttoknow.nl/inspiratie/meelezen/kosmische-info-via-judith-moore/)
 
-[Een nieuwe bijdrage van Philo Hippus, de wijze schapenfokker, waarvan we al eerder ingezonden stukken gepubliceerd hebben. Een belezen man, die met zijn eenvoudige status en in eenvoudige bewoordingen, de wijsheid van een gedegen analist vertegenwoordigt. Vaak geleid door een frustrerende irritatie, komt Philo tot het schrijven van een column, die recht uit het hart komt. Zo ook weer deze keer. Met dank aan onze wijze schapenfokker uit Noord-Nederland. …](https://www.wanttoknow.nl/overige/verwar-nooit-een-opleiding-met-intelligentie/)
+[Judith Moore reikt je in deze column diep-fundamentele informatie aan, vanuit een kosmisch perspectief, over de huidige situatie op Aarde. Meer dan lezenswaardige info, die we in deze tijd mogen gebruiken om de situatie op Aarde te duiden. Niet alleen zitten we in een mega-transformatie van ongekende omvang; de duistere krachten, die deze Aarde en de mensheid zó lang hebben geknecht, gemanipuleerd en tot slaaf gemaakt, proberen wanhopig het tij te keren. Het is een onbegonnen zaak, deze lichtvloed te keren. Ieder mensenhart wordt aangeraakt en reageert op ‘eigen wijze’.. …](https://www.wanttoknow.nl/inspiratie/meelezen/kosmische-info-via-judith-moore/)
 
-Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/meelezen/), [Overige](https://www.wanttoknow.nl/dossiers/overige/) Tagged [Corona](https://www.wanttoknow.nl/trefwoorden/corona/), [Energie](https://www.wanttoknow.nl/trefwoorden/energie/), [Gezondheid](https://www.wanttoknow.nl/trefwoorden/gezondheid/), [Machtselite](https://www.wanttoknow.nl/trefwoorden/machtselite/), [Media](https://www.wanttoknow.nl/trefwoorden/media/), [Mensen](https://www.wanttoknow.nl/trefwoorden/mensen/), [scheppingskracht](https://www.wanttoknow.nl/trefwoorden/scheppingskracht/), [Vaccinaties](https://www.wanttoknow.nl/trefwoorden/vaccinaties/) [1 reactie](https://www.wanttoknow.nl/overige/verwar-nooit-een-opleiding-met-intelligentie/#comments)
+Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/meelezen/) Tagged [buitenaards](https://www.wanttoknow.nl/trefwoorden/buitenaards/), [geloof](https://www.wanttoknow.nl/trefwoorden/geloof/), [God](https://www.wanttoknow.nl/trefwoorden/god/), [hemelse boodschappen](https://www.wanttoknow.nl/trefwoorden/hemelse-boodschappen/), [Inspiratie](https://www.wanttoknow.nl/trefwoorden/inspiratie/), [nieuw tijdperk](https://www.wanttoknow.nl/trefwoorden/nieuw-tijdperk/), [nieuwe aarde](https://www.wanttoknow.nl/trefwoorden/nieuwe-aarde/), [scheppingskracht](https://www.wanttoknow.nl/trefwoorden/scheppingskracht/), [wereldorde](https://www.wanttoknow.nl/trefwoorden/wereldorde/) [Laat een reactie achter](https://www.wanttoknow.nl/inspiratie/meelezen/kosmische-info-via-judith-moore/#respond)
 
 [![Banner Bookshop WantToKnow](https://www.wanttoknow.nl/wp-content/uploads/banner-bookshop-WantToKnow.png)](https://bookshop.wanttoknow.nl/)
 
