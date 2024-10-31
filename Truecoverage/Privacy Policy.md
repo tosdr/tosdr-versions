@@ -1527,7 +1527,7 @@ CLOSE
     
 * ![](https://api.trustedform.com/ns.gif)
     
-* Name
+* Phone
     
     This field is for validation purposes and should be left unchanged.
     
