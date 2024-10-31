@@ -95,10 +95,8 @@ Error
 * [New York Article 23-A](#contract-h1cycvy0p)
 * [Avis biométrique - FR](#contract-sjl9lwojr)
 * [Roomies Custom Criminal Consent](#contract-r13kih61a)
-* [mg-testing gen auth (en)](#contract-bkeqnnqlr)
 * [FCRA Authorization (Supernal,LLC)](#contract-jx9omk4aa)
 * [Canadian Criminal Record Consent Form NEW\*](#contract-s11zu-f7r)
-* [mg-testing gen auth (fr)](#contract-pkwokjnuw)
 * [TEST K 1](#contract-hy96bhhf0)
 * [Canadian Criminal Record Consent Form NEW\* (French)](#contract-evru8dyya)
 * [Identity Fraud Notice](#contract-bjksxbw00)
@@ -2644,7 +2642,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective October 30th 2024
+##### Effective October 31st 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
@@ -5697,41 +5695,6 @@ By clicking “**I understand and agree**” I consent to Certn collecting, proc
 
 _You can request more information about the nature and scope of your criminal record check by contacting Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co)_.
 
-mg-testing gen auth (en)
-------------------------
-
-### Version 24.0
-
-##### Effective September 27th 2024
-
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/668265d1735fff54b04883a9.pdf)
-
-* * *
-
-### Table of Contents
-
-* * *
-
-**AUTHORIZATION**
-
-To evaluate your suitability for {{{purpose}}}, the Company has asked Certn and its parent, affiliates and subsidiaries, as applicable ("**Certn**", “**we**" or "**us**”) to verify your identity, and create and return a consumer report {{{usa\_report}}}(your "**Report(s)**") consisting of: {{{services\_list}}} (the " **Services**”). hello  
-
-  
-
-We will collect the following personal information for the purpose of completing the Services: {{{personal\_information\_list}}}. {{#if data\_providers\_list}}We may collect Personal Information directly from you, the Company, or third parties such as {{{data\_providers\_list}}}{{else}}We may collect Personal Information directly from you or the Company{{/if}}. We will compare information received from different sources for consistency.
-
-  
-
-It may be necessary for Certn to transfer and process Personal Information in multiple jurisdictions, specifically if you have lived, worked or attended school outside of the jurisdiction in which the Company has ordered the Report. Further, depending on the Services, and the location of the Company, your Personal Information may be processed by our employees and contractors in Canada, Australia, the United States, the United Kingdom, South Africa, and the Philippines. Regardless of where Personal Information is processed, it will be handled in accordance with our privacy and security policies.
-
-  
-
-You can withdraw your consent, dispute the accuracy of a Report, or ask for a correction, deletion or copy of your Report at any time by contacting Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co). Further information regarding the collection, use, disclosure, or storage of your Personal Information can be found [here](https://certn.co/privacy-policy/).
-
-  
-
-  
-
 FCRA Authorization (Supernal,LLC)
 ---------------------------------
 
@@ -5868,38 +5831,6 @@ Personal Information on this form is collected under the authority of the Federa
 |     |     |     |     |
 | --- | --- | --- | --- |
 | Signature: | {{first\_name}} {{last\_name}} | Date: | {{todays\_date}} |
-
-mg-testing gen auth (fr)
-------------------------
-
-### Version 3.0
-
-##### Effective June 27th 2024
-
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/667d4bbccf91ba1ac1356791.pdf)
-
-* * *
-
-### Table of Contents
-
-* * *
-
-**AUTORISATION**  
-
-Afin d'évaluer votre aptitude à participer à {{purpose}} , l'entreprise a demandé au Certn et à ses sociétés mères, affiliées et filiales, le cas échéant (" Certn ", " nous " ou " notre ") de vérifier votre identité, de créer et de vous renvoyer un rapport de consommation (votre " Rapport(s) ") composé de : {{services\_list}} (les " Services ").
-
-Nous collecterons les informations personnelles suivantes dans le but de fournir les services: {{personal\_information\_list}}. {{#if data\_providers\_list}}Nous pouvons collecter des informations personnelles directement auprès de vous, de la société ou de tiers tels que {{data\_providers\_list}}{{else}}Nous pouvons collecter des informations personnelles directement auprès de vous ou de la Société{{/if}}. Nous comparerons les informations reçues de différentes sources pour en assurer la cohérence.
-
-Il peut être nécessaire pour Certn de transférer et de traiter des informations personnelles dans plusieurs juridictions, en particulier si vous avez vécu, travaillé ou fréquenté une école en dehors de la juridiction dans laquelle l'entreprise a commandé le rapport. En outre, en fonction des services et de la localisation de l'entreprise, vos informations personnelles peuvent être traitées par nos employés et sous-traitants au Canada, en Australie, aux États-Unis, au Royaume-Uni, en Afrique du Sud et aux Philippines. Quel que soit l'endroit où les informations personnelles sont traitées, elles le seront conformément à nos politiques de confidentialité et de sécurité.
-
-Vous pouvez retirer votre consentement, contester l'exactitude d'un rapport ou demander une correction, une suppression ou une copie de votre rapport à tout moment en contactant le responsable de la protection de la vie privée du Certn au 1-844-987-0690 ou à [privacy@certn.co](mailto:privacy@certn.co). De plus amples informations concernant la collecte, l'utilisation, la divulgation ou le stockage de vos informations personnelles sont disponibles [ici](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-bylz4uhm3).
-
-  
-
-  
-  
-  
-  
 
 TEST K 1
 --------
@@ -6415,11 +6346,11 @@ You consent to receive any agreements, notices, disclosures and other communicat
 mg - la - con-648
 -----------------
 
-### Version 42.0
+### Version 43.0
 
-##### Effective October 30th 2024
+##### Effective October 31st 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/672259260aaad50932a56959.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/67234c84abf357693eb2746e.pdf)
 
 * * *
 
