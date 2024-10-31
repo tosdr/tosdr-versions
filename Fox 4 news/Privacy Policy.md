@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Street celebrations break out after Dodgers World Series win](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/downtownladodgerslongbeach.jpg?ve=1&tl=1)
+ [![Rowlett teen hit by vehicle while crossing George Bush Hwy. service road](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/07/32/18/6ff0ddf8-generic20ambulance_1494773795558_3307265_ver1.0_1280_720-4.png?ve=1&tl=1)
 
- ![Street celebrations break out after Dodgers World Series win](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/downtownladodgerslongbeach.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dodgers-yankees-world-series-game-5)
+ ![Rowlett teen hit by vehicle while crossing George Bush Hwy. service road](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/07/32/18/592/333/6ff0ddf8-generic20ambulance_1494773795558_3307265_ver1.0_1280_720-4.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/rowlett-teen-hit-vehicle-while-crossing-george-bush-hwy-service-road)
 
-### [Street celebrations break out after Dodgers World Series win](https://www.fox4news.com/news/dodgers-yankees-world-series-game-5)
+### [Rowlett teen hit by vehicle while crossing George Bush Hwy. service road](https://www.fox4news.com/news/rowlett-teen-hit-vehicle-while-crossing-george-bush-hwy-service-road)
 
- [![Newly-formed appeals court hears arguments for release of Uvalde school shooting state records](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/06/32/18/Uvalde-memorial-at-school.jpg?ve=1&tl=1)
+ [![Cases in McDonald’s E. coli outbreak linked to slivered onions rise to 90](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/quarter-pounder.jpg?ve=1&tl=1)
 
- ![Newly-formed appeals court hears arguments for release of Uvalde school shooting state records](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/06/32/18/592/333/Uvalde-memorial-at-school.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-15th-court-of-appeals-oct-30-hearing-uvalde-texas-school-shooting-state-documents)
+ ![Cases in McDonald’s E. coli outbreak linked to slivered onions rise to 90](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/quarter-pounder.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mcdonalds-e-coli-outbreak-slivered-onions-update-oct-31-2024)
 
-### [Newly-formed appeals court hears arguments for release of Uvalde school shooting state records](https://www.fox4news.com/news/texas-15th-court-of-appeals-oct-30-hearing-uvalde-texas-school-shooting-state-documents)
+### [Cases in McDonald’s E. coli outbreak linked to slivered onions rise to 90](https://www.fox4news.com/news/mcdonalds-e-coli-outbreak-slivered-onions-update-oct-31-2024)
 
- [![Mesquite teacher accused of grooming student, 14, spending the night with her at school](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/10302024-rr-pkg-david-mesquite-isd-teacher-arreste_00.00.04.42.jpg?ve=1&tl=1)
+ [![Crash leaves semi-truck dangling over I-35W in Fort Worth amid heavy rain](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/35w-_-everman-pkwy-semi-crash-_-part-1_2024_10_31t_00.09.23.16.jpg?ve=1&tl=1)
 
- ![Mesquite teacher accused of grooming student, 14, spending the night with her at school](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/10302024-rr-pkg-david-mesquite-isd-teacher-arreste_00.00.04.42.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sergio-gonzalez-child-grooming-arrest-a-c-new-middle-school-teacher-mesquite-isd)
+ ![Crash leaves semi-truck dangling over I-35W in Fort Worth amid heavy rain](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/35w-_-everman-pkwy-semi-crash-_-part-1_2024_10_31t_00.09.23.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/crash-leaves-semi-truck-dangling-over-i-35w-fort-worth-amid-heavy-rain)
 
-### [Mesquite teacher accused of grooming student, 14, spending the night with her at school](https://www.fox4news.com/news/sergio-gonzalez-child-grooming-arrest-a-c-new-middle-school-teacher-mesquite-isd)
+### [Crash leaves semi-truck dangling over I-35W in Fort Worth amid heavy rain](https://www.fox4news.com/news/crash-leaves-semi-truck-dangling-over-i-35w-fort-worth-amid-heavy-rain)
 
- [![Federal government offering grants to U.S. businesses in effort to reshore manufacturing](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-boyer-cornyn-texas-technology-investments_00.00.46.26.jpg?ve=1&tl=1)
+ [![Nearly 50% of voters say deepfakes had some influence on election decision: Survey](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/vote-here-today.jpg?ve=1&tl=1)
 
- ![Federal government offering grants to U.S. businesses in effort to reshore manufacturing](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-boyer-cornyn-texas-technology-investments_00.00.46.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/federal-government-offering-grants-u-s-businesses-effort-reshore-manufacturing)
+ ![Nearly 50% of voters say deepfakes had some influence on election decision: Survey](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/vote-here-today.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nearly-50-voters-say-deepfakes-had-some-influence-election-decision-survey)
 
-### [Federal government offering grants to U.S. businesses in effort to reshore manufacturing](https://www.fox4news.com/news/federal-government-offering-grants-u-s-businesses-effort-reshore-manufacturing)
+### [Nearly 50% of voters say deepfakes had some influence on election decision: Survey](https://www.fox4news.com/news/nearly-50-voters-say-deepfakes-had-some-influence-election-decision-survey)
 
- [![Woman jumped into Niagara Falls with 2 kids, police say](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2179264504.jpg?ve=1&tl=1)
+ [![Man shot near Fort Worth homeless camp; Police detain several for questioning](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/04/32/18/FW-police.jpg?ve=1&tl=1)
 
- ![Woman jumped into Niagara Falls with 2 kids, police say](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2179264504.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/niagara-falls-mother-children-tragedy)
+ ![Man shot near Fort Worth homeless camp; Police detain several for questioning](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/04/32/18/592/333/FW-police.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-shot-near-fort-worth-homeless-camp-police-detain-several-questioning)
 
-### [Woman jumped into Niagara Falls with 2 kids, police say](https://www.fox4news.com/news/niagara-falls-mother-children-tragedy)
+### [Man shot near Fort Worth homeless camp; Police detain several for questioning](https://www.fox4news.com/news/man-shot-near-fort-worth-homeless-camp-police-detain-several-questioning)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
