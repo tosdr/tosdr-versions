@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KARE/images/d2ecc3f3-8680-4a14-972b-b2be2378a963/20240930T144336/d2ecc3f3-8680-4a14-972b-b2be2378a963_16x9.jpg) ![](https://media.kagstv.com/assets/KARE/images/d2ecc3f3-8680-4a14-972b-b2be2378a963/20240930T144336/d2ecc3f3-8680-4a14-972b-b2be2378a963_360x203.jpg)](https://www.kagstv.com/article/news/local/central-texas-man-arrested-high-speed-chase-montgomery-county-harris-county/500-477a68f3-96a5-452e-9975-a30e8580718b)
+        
+        #### [Central Texas man arrested after high-speed chase through Montgomery County, Harris County](https://www.kagstv.com/article/news/local/central-texas-man-arrested-high-speed-chase-montgomery-county-harris-county/500-477a68f3-96a5-452e-9975-a30e8580718b)
+        
     *  [![](https://media.kagstv.com/assets/KCEN/images/dfe958bc-9365-4a7c-a631-48c95c77c56a/20241029T160514/dfe958bc-9365-4a7c-a631-48c95c77c56a_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/dfe958bc-9365-4a7c-a631-48c95c77c56a/20241029T160514/dfe958bc-9365-4a7c-a631-48c95c77c56a_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-in-college-station-on-oct-26-2024/500-9561bf9d-5059-4806-b0c0-31562cf56b54)
         
         #### [Authorities seeking information on missing 14-year-old last seen on Oct. 26 in College Station](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-in-college-station-on-oct-26-2024/500-9561bf9d-5059-4806-b0c0-31562cf56b54)
-        
-    *  [![](https://media.kagstv.com/assets/WFAA/images/200b26aa-e462-4f26-b6c4-41864edca5a3/20241025T235018/200b26aa-e462-4f26-b6c4-41864edca5a3_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/200b26aa-e462-4f26-b6c4-41864edca5a3/20241025T235018/200b26aa-e462-4f26-b6c4-41864edca5a3_360x203.jpg)](https://www.kagstv.com/article/news/local/family-of-robert-robersons-daughter-says-theyre-convinced-hes-directly-responsible-her-death/501-0e14b035-3986-4575-8a61-dcb5985e88e4)
-        
-        #### [Family of Robert Roberson's daughter says they're 'convinced' he's directly responsible for her death](https://www.kagstv.com/article/news/local/family-of-robert-robersons-daughter-says-theyre-convinced-hes-directly-responsible-her-death/501-0e14b035-3986-4575-8a61-dcb5985e88e4)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-92°
+78°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
