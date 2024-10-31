@@ -566,7 +566,7 @@ Unsere Marken
 
 ### Zahlungsarten
 
-[![Zahlungsarten](/images/generic_attachments/attachments/medikamenteperklick/footer_zahlungsart_kreditkarte.svg)](https://www.medikamente-per-klick.de/zahlungsarten)
+[![Zahlungsarten](/images/generic_attachments/attachments/medikamenteperklick/footer_zahlungsart.png)](https://www.medikamente-per-klick.de/zahlungsarten)
 
 ### Versand
 
@@ -650,4 +650,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=khhqpftnkptopnijgeentzlnwieojifz&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=ljdmanqamhfhyxnyzueuvnmbqpqvytbw&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
