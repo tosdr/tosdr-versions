@@ -130,6 +130,24 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/10/in-2024-dont-vote-for-the-empty-suit/)
+    
+    [In 2024, Don’t Vote for the Empty Suit](https://www.conservativedailynews.com/2024/10/in-2024-dont-vote-for-the-empty-suit/)
+    
+    October 31, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz103124dAPR-1-220x150.jpg)](https://www.conservativedailynews.com/2024/10/more-trick-than-treat/)
+    
+    [More Trick than Treat](https://www.conservativedailynews.com/2024/10/more-trick-than-treat/)
+    
+    October 31, 2024
+    
+* [![Joe Biden Trump supporters garbage](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg103124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/not-everyones-president/)
+    
+    [Not Everyone’s President](https://www.conservativedailynews.com/2024/10/not-everyones-president/)
+    
+    October 31, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5708-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/harris-will-reunite-the-country-but-first-she-must-throw-out-the-garbage/)
     
     [Harris Will Reunite The Country, But First She Must Throw Out The Garbage](https://www.conservativedailynews.com/2024/10/harris-will-reunite-the-country-but-first-she-must-throw-out-the-garbage/)
@@ -160,27 +178,11 @@ Recent Posts
     
     October 30, 2024
     
-* [![Donald Trump energizer bunny keeps going](https://www.conservativedailynews.com/wp-content/uploads/2024/10/06-hienergy-sm-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-beat-goes-on/)
-    
-    [The Beat Goes On](https://www.conservativedailynews.com/2024/10/the-beat-goes-on/)
-    
-    October 30, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/trump-harris-220x150.jpg)](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-this-election-boils-down-to-real-vs-fake-strong-vs-weak/)
-    
-    [America In The Age Of Stupidity: This Election Boils Down To Real Vs Fake, Strong Vs. Weak](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-this-election-boils-down-to-real-vs-fake-strong-vs-weak/)
-    
-    October 30, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/us-supreme-court-building-g9793e7da6_1280-220x150.jpg)](https://www.conservativedailynews.com/2024/10/supreme-court-denies-rfk-jr-s-bid-to-be-removed-from-ballots-in-two-key-swing-states/)
-    
-    [Supreme Court Denies RFK Jr.’s Bid To Be Removed From Ballots In Two Key Swing States](https://www.conservativedailynews.com/2024/10/supreme-court-denies-rfk-jr-s-bid-to-be-removed-from-ballots-in-two-key-swing-states/)
-    
-    October 30, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Media Portrays Dead Teen as Shooting Victim, Only to Learn He was the Aggressor](https://www.thegunpage.com/media-portrays-dead-teen-as-shooting-victim-only-to-learn-he-was-the-aggressor/10611577)
+* [Modern Technology Implemented To Surmount Logistical Hurdles: 1958 National Matches](https://www.thegunpage.com/modern-technology-implemented-to-surmount-logistical-hurdles-1958-national-matches/10611576)
 * [The Best Cheap AR-15](https://www.thegunpage.com/the-best-cheap-ar-15/10611566)
 * [POTD: FN M249S – The Machine Gun That Doesn’t Machine](https://www.thegunpage.com/potd-fn-m249s-the-machine-gun-that-doesnt-machine/10611567)
 * [Wheelgun Wednesday: 18th-Century Flintlock Revolving Shotgun](https://www.thegunpage.com/wheelgun-wednesday-18th-century-flintlock-revolving-shotgun/10611568)
@@ -189,8 +191,6 @@ Recent Posts
 * [LaserMax Introduces New GS-Max9-G Laser Sight for Ruger Max-9 Pistols](https://www.thegunpage.com/lasermax-introduces-new-gs-max9-g-laser-sight-for-ruger-max-9-pistols/10611564)
 * [The New DeSantis Pocket Partner Holster](https://www.thegunpage.com/the-new-desantis-pocket-partner-holster/10611559)
 * [Kung Fu Grip Review: Is It The Best Reduced Angle AR-15 Grip?](https://www.thegunpage.com/kung-fu-grip-review-is-it-the-best-reduced-angle-ar-15-grip/10611556)
-* [Davidson's Launches Two Exclusive Beretta 92XI Models](https://www.thegunpage.com/davidsons-launches-two-exclusive-beretta-92xi-models/10611560)
-* [Guardian Touts Trump Credentials While Trying To Bolster Kamala](https://www.thegunpage.com/guardian-touts-trump-credentials-while-trying-to-bolster-kamala/10611553)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Ewwww That Smell…](https://www.conservativedailynews.com/2024/10/ewwww-that-smell/#comment-782967)
 * michael mohn on [Realistically Simple Ways to Make Your Car (Virtually) Unstealable](https://www.conservativedailynews.com/2024/10/realistically-simple-ways-to-make-your-car-virtually-unstealable/#comment-782951)
 * Stanley Warner on [Virginia Asks Supreme Court To Let It Remove Noncitizens From Voter Rolls](https://www.conservativedailynews.com/2024/10/virginia-asks-supreme-court-to-let-it-remove-noncitizens-from-voter-rolls/#comment-782949)
 * Stanley Warner on [The Democrats Are Done. They Are Out Of Gas And Ideas](https://www.conservativedailynews.com/2024/10/the-democrats-are-done-they-are-out-of-gas-and-ideas/#comment-782948)
@@ -240,7 +241,6 @@ Recent Comments
 * Stanley Warner on [Dangerous Rhetoric](https://www.conservativedailynews.com/2024/10/dangerous-rhetoric-2/#comment-782925)
 * Deb on [CEOs Need To Stand Up For Capitalism And Common Sense](https://www.conservativedailynews.com/2024/10/ceos-need-to-stand-up-for-capitalism-and-common-sense/#comment-782921)
 * Jeff L. on [Sorry Democrats, the Fascist Shoe Really is on the Other (Democrat) Foot](https://www.conservativedailynews.com/2024/10/sorry-democrats-the-fascist-shoe-really-is-on-the-other-democrat-foot/#comment-782914)  
-* TREY on [Looks Like America May Not Know Who Won The Election For Days Again](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/#comment-782904)
 
 [Close](#)
 
