@@ -72,6 +72,14 @@ Country UK AU & NZ SG MY US IE
     
     Latest News
     
+    ![](/media/z0lnkjso/frame-3.png?rmode=max&width=230&height=295&v=1db2b72834cb4b0)
+    
+    Posted 31 October 2024
+    
+    The Access Group acquires AI-powered candidate presentation solution, HireAra
+    
+    [Read article on The Access Group acquires AI-powered candidate presentation solution, HireAra](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-acquires-ai-powered-candidate-presentation-solution-hireara/)
+    
     ![](/media/i14bvfmg/grads-romania-3-1.jpg?rmode=max&width=230&height=295&v=1db1af5709f7650)
     
     Posted 11 October 2024
@@ -151,22 +159,6 @@ Country UK AU & NZ SG MY US IE
     Access Legal makes landmark acquisition of pioneering mobile app provider, inCase – to transform lawyer client experience
     
     [Read article on Access Legal makes landmark acquisition of pioneering mobile app provider, inCase – to transform lawyer client experience](https://www.theaccessgroup.com/en-gb/about/news/access-legal-makes-landmark-acquisition-of-pioneering-mobile-app-provider-incase/)
-    
-    ![](/media/ijmh1rzb/news-card_acquisitions_elay-1.png?rmode=max&width=230&height=295&v=1daa1ec6f78ea40)
-    
-    Posted 8th May 2024
-    
-    The Access Group acquires cutting edge CRM and outreach platform elay
-    
-    [Read article on The Access Group acquires cutting edge CRM and outreach platform elay](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-acquires-elay-a-multi-channel-engagement-automation-platform/)
-    
-    ![](/media/2rxbxbbe/conor_whelan-07-min.jpg?rmode=max&width=230&height=295&v=1da970eb1ca9170)
-    
-    Posted 25 April 2024
-    
-    The Access Group Appoints New Chief Information Officer
-    
-    [Read article on The Access Group Appoints New Chief Information Officer](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-appoints-new-chief-information-officer/)
     
     Access software lets you work the way you want, giving your organisation the power to thrive and grow
     
