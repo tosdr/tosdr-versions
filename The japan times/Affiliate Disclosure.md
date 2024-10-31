@@ -213,9 +213,9 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -257,23 +257,17 @@ Latest News
 
 [Japan's Takeda raises full-year profit forecast amid restructuring](https://www.japantimes.co.jp/business/2024/10/31/takeda-raises-full-year-profit-forecast/ "Japan's Takeda raises full-year profit forecast amid restructuring")
 
-4 hours ago
+10 hours ago
 
 [Truancy hits record high in Japan in fiscal 2023](https://www.japantimes.co.jp/news/2024/10/31/japan/truancy-record-high-fiscal-2023/ "Truancy hits record high in Japan in fiscal 2023")
 
-5 hours ago
+11 hours ago
 
 [Komeito leader Keiichi Ishii announces resignation after party lost seats](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/komeito-leader-resignation/ "Komeito leader Keiichi Ishii announces resignation after party lost seats")
 
-6 hours ago
-
 [Bank of Japan keeps policy rate steady at 0.25%, as expected](https://www.japantimes.co.jp/business/2024/10/31/economy/boj-policy-rate/ "Bank of Japan keeps policy rate steady at 0.25%, as expected")
 
-6 hours ago
-
 [Campaigning kicks off for Hyogo gubernatorial election](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/hyogo-governor-election/ "Campaigning kicks off for Hyogo gubernatorial election")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
