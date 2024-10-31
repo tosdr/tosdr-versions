@@ -1,10 +1,10 @@
-![](https://www.facebook.com/tr?id=222225494864017&ev=PageView&noscript=1)          [Skip to content](#content)
+![](https://www.facebook.com/tr?id=222225494864017&ev=PageView&noscript=1)           [Skip to content](#content)
 
-[![](https://wp-endpoint.azureedge.net/wp-content/uploads/2022/05/logo-colors.svg)](https://budgetbakers.com/)
+[![](https://budgetbakers.com/wp-content/uploads/2022/05/logo-colors.svg)](https://budgetbakers.com/)
 
 * [How it works](#)
     
-    [![](https://wp-endpoint.azureedge.net/wp-content/uploads/2022/05/460x0w.webp)](https://budgetbakers.com/what-is-wallet/)
+    [![](https://budgetbakers.com/wp-content/uploads/2022/05/460x0w.webp)](https://budgetbakers.com/what-is-wallet/)
     
     [What is wallet](https://budgetbakers.com/what-is-wallet/)
     
@@ -14,7 +14,7 @@
     * [Cash Flow insights](https://budgetbakers.com/cashflow-insights/)
     * [Bank sync](https://budgetbakers.com/bank-sync/)
     
-    [![](https://wp-endpoint.azureedge.net/wp-content/uploads/2022/05/rocket-icon.svg)](https://budgetbakers.com/how-to-start/)
+    [![](https://budgetbakers.com/wp-content/uploads/2022/05/rocket-icon.svg)](https://budgetbakers.com/how-to-start/)
     
     [How to start?](https://budgetbakers.com/how-to-start/)
     
@@ -173,7 +173,7 @@ If you granted us your consent to process your personal data, you can withdraw y
 
 **What are cookies used for**? Cookies help identify application users and web site re-occurring visitors, they remember users’ custom preferences, help user complete tasks without having to re‑enter information when browsing from one page to another or when visiting the site later. Cookies can also be used to track user preferences when web browsing for online behavioral target advertising and to show adverts relevant to something that the user searched for in the past.
 
-**What type of cookies do we use?** In order to provide you with a better service, we use cookies when you visit our website [www.budgetbakers.com](https://www.budgetbakers.com/) or when you use our Wallet. We use different set of cookies. We use the term “cookies” to refer to pieces of information that are sent to your browser and stored on your computer or device to store and sometimes track information about your preferences in order to deliver behavioral advertising. System cookies enable us to provide you with services you have specifically asked for and are essential in order to enable you to move around the Website and application and use their features, such as cookies used to identify user once he or she has logged in.Without these cookies some services you have asked for cannot be provided to you. Apart from those we use cookies and third-party cookies that help us track your browsing history in order to serve you with behavioral advertising. We will only use these cookies if you grant us explicit consent on our website www.budgetbakers.com. You can disable or refuse some or all cookies, or delete the already set up cookies in the web browser you use. The cookies we use can be divided into the following:
+**What type of cookies do we use?** In order to provide you with a better service, we use cookies when you visit our website [www.budgetbakers.com](https://www.budgetbakers.com/) or when you use our Wallet. We use different set of cookies. We use the term “cookies” to refer to pieces of information that are sent to your browser and stored on your computer or device to store and sometimes track information about your preferences in order to deliver behavioral advertising. System cookies enable us to provide you with services you have specifically asked for and are essential in order to enable you to move around the Website and application and use their features, such as cookies used to identify user once he or she has logged in.Without these cookies some services you have asked for cannot be provided to you. Apart from those we use cookies and third-party cookies that help us track your browsing history in order to serve you with behavioral advertising. We will only use these cookies if you grant us explicit consent on our website [http://www.budgetbakers.com](http://www.budgetbakers.com/). You can disable or refuse some or all cookies, or delete the already set up cookies in the web browser you use. The cookies we use can be divided into the following:
 
 **session cookie** which is erased when you close the browser, it exists only in temporary memory of your device while you navigate the website;
 
@@ -185,7 +185,7 @@ Persistent cookies and third-party cookies are deleted automatically if you are 
 
 Web beacons are images (single-pixel gifs) embedded in a web page or email for the purpose of measuring and analyzing site usage and activity. Web beacons or similar technologies help us better manage content on our Services by informing us what content is effective, count users of the Services, monitor how users navigate the Services, count how many e-mails that we send were actually opened or count how many particular articles or links were actually viewed. We do not tie the information gathered by web beacons to our users’ Personal Information.
 
-You can learn more about cookies at www.allaboutcookies.org, which includes additional useful information on cookies and how to block cookies using different types of browsers. Please note, however, that blocking or deleting cookies used on the Website or the application may affect the availability and functionality of the Website and provision of service to you via our application.
+You can learn more about cookies at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/), which includes additional useful information on cookies and how to block cookies using different types of browsers. Please note, however, that blocking or deleting cookies used on the Website or the application may affect the availability and functionality of the Website and provision of service to you via our application.
 
 **Security policy**
 
@@ -253,7 +253,7 @@ You, as the data subject, shall have the right not to be subject to a decision b
 
 If you find or believe that your personal data is being processed in violation of your privacy or law, especially if personal data are inaccurate with regard to the purpose of processing, you may ask at support@budgetbakers.com for explanation and demand that the resulting condition be removed. In particular, it may be blocking, repairing, supplementing or disposing of personal data. We will grant the request if we find that the objection is justified. If as a result of the processing of personal data you had suffered other than property damage, you would be entitled to remedies according to the Czech Civil Code. If, in the processing of personal data, there occurred any breaches of the obligations imposed by law on the controller or the data processor, these are jointly and severally liable for them. By law, in the case of a request for blocking, correcting, supplementing or disposing of personal data, we will inform other recipients, if there were any, and if it is possible and it would not require disproportionate efforts.
 
-In case you are concerned about your data processing, and you have not obtained satisfactory information from us, you can file a complaint to the data protection office at www.uoou.cz This is without prejudice to your other rights, to file petitions to the court and seek civil law remedies.
+In case you are concerned about your data processing, and you have not obtained satisfactory information from us, you can file a complaint to the data protection office at [http://www.uoou.cz](http://www.uoou.cz/) This is without prejudice to your other rights, to file petitions to the court and seek civil law remedies.
 
 **Miscellaneous**
 
@@ -263,11 +263,11 @@ The relationship between us in respect of your data protection is regulated by t
 
 [Facebook-f](https://www.facebook.com/budgetbakers/) [Twitter](https://twitter.com/budgetbakers) [Instagram](https://www.instagram.com/budgetbakers) [Linkedin-in](https://www.linkedin.com/company/walletapp/)
 
-[![](https://wp-endpoint.azureedge.net/wp-content/uploads/2022/05/google-play.svg)](https://play.google.com/store/apps/details?id=com.droid4you.application.wallet&referrer=utm_source%3Dhome_page)
+[![](https://budgetbakers.com/wp-content/uploads/2022/05/google-play.svg)](https://play.google.com/store/apps/details?id=com.droid4you.application.wallet&referrer=utm_source%3Dhome_page)
 
-[![](https://wp-endpoint.azureedge.net/wp-content/uploads/2022/05/app-store.svg)](https://itunes.apple.com/app/wallet-personal-finance-tracker/id1032467659)
+[![](https://budgetbakers.com/wp-content/uploads/2022/05/app-store.svg)](https://itunes.apple.com/app/wallet-personal-finance-tracker/id1032467659)
 
-Copyright 2024 BudgetBakers s.r.o | All Rights Reserved | [Privacy Policy](https://budgetbakers.com/privacy/) | [Terms of Service](https://budgetbakers.com/terms/)
+Copyright 2022 BudgetBakers s.r.o | All Rights Reserved[Privacy Policy](https://budgetbakers.com/privacy/)[Terms of Service](https://budgetbakers.com/terms/)
 
 ##### Cookies give you a personalised experience
 
@@ -332,12 +332,12 @@ Other uncategorized cookies are those that are being analyzed and have not been 
 
 SAVE & ACCEPT
 
-[![](https://wp-endpoint.azureedge.net/wp-content/uploads/2022/05/logo-colors.svg)](https://budgetbakers.com/)
+[![](https://budgetbakers.com/wp-content/uploads/2022/05/logo-colors.svg)](https://budgetbakers.com/)
 
 How it works
 ------------
 
-[![](https://wp-endpoint.azureedge.net/wp-content/uploads/2022/05/460x0w.webp)](https://budgetbakers.com/what-is-wallet/)
+[![](https://budgetbakers.com/wp-content/uploads/2022/05/460x0w.webp)](https://budgetbakers.com/what-is-wallet/)
 
 [What is wallet](https://budgetbakers.com/what-is-wallet/)
 
@@ -347,7 +347,7 @@ How it works
 * [Cash Flow insights](https://budgetbakers.com/cashflow-insights/)
 * [Bank sync](https://budgetbakers.com/bank-sync/)
 
-[![](https://wp-endpoint.azureedge.net/wp-content/uploads/2022/05/rocket-icon.svg)](https://budgetbakers.com/how-to-start/)
+[![](https://budgetbakers.com/wp-content/uploads/2022/05/rocket-icon.svg)](https://budgetbakers.com/how-to-start/)
 
 [How to start?](https://budgetbakers.com/how-to-start/)
 
@@ -371,4 +371,4 @@ Support
 
 [For Business](#)
 
-[![](https://wp-endpoint.azureedge.net/wp-content/uploads/2022/05/Lifetime_new1-1024x538.png)](https://web.budgetbakers.com/settings/billing?origin=banner)
+[![](https://budgetbakers.com/wp-content/uploads/2022/05/Lifetime_new1-1024x538.png)](https://web.budgetbakers.com/settings/billing?origin=banner)
