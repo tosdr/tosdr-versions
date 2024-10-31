@@ -387,9 +387,9 @@ If you have questions about Merriam-Webster or its products, visit our [Contact 
 
 #### [Word of the Day](https://www.merriam-webster.com/word-of-the-day)
 
-#### [syncretism](https://www.merriam-webster.com/word-of-the-day)
+#### [hallowed](https://www.merriam-webster.com/word-of-the-day)
 
-[![Listen to the pronunciation of syncretism](/dist-cross-dungarees/2024-10-24--18-52-22-6aylc/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of syncretism")
+[![Listen to the pronunciation of hallowed](/dist-cross-dungarees/2024-10-24--18-52-22-6aylc/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of hallowed")
 
 [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) »
 
