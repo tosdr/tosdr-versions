@@ -1,4 +1,3 @@
-* [News](https://www.xfire.com/news/)
 * [Ranks & Reviews](https://www.xfire.com/games/)
     * [PC](https://www.xfire.com/game-platform/pc/)
     * [PlayStation 5](https://www.xfire.com/game-platform/playstation5/)
@@ -15,8 +14,6 @@
     * [Game Search](https://www.xfire.com/search-game-subscriptions/)
     * [Game Pass Calendar](https://www.xfire.com/xbox-game-subscriptions/)
     * [PlayStation Plus Calendar](https://www.xfire.com/playstation-game-subscriptions/)
-* [Guides](https://www.xfire.com/guides/)
-    * [Call of Duty](https://www.xfire.com/guides/call-of-duty/)
 * [Wordle](https://www.xfire.com/wordle/)
     * [Word Lists](https://www.xfire.com/wordle/1-letter-in-position/)
     * [Word Finder](https://www.xfire.com/wordle-word-finder-tool/)
@@ -24,8 +21,6 @@
 About Xfire
 
 * [About](https://www.xfire.com/about/)
-* [Standards](https://www.xfire.com/editorial-standards/)
-* [Accessibility](https://www.xfire.com/accessibility-policy/)
 * [DMCA](https://www.xfire.com/dmca/)
 * [Privacy](https://www.xfire.com/privacy-policy/)
 * [Terms](https://www.xfire.com/terms/)
@@ -205,8 +200,6 @@ UNITED STATES
 This policy was last modified on March 14, 2023.
 
 * [About](https://www.xfire.com/about/)
-* [Standards](https://www.xfire.com/editorial-standards/)
-* [Accessibility](https://www.xfire.com/accessibility-policy/)
 * [DMCA](https://www.xfire.com/dmca/)
 * [Privacy](https://www.xfire.com/privacy-policy/)
 * [Terms](https://www.xfire.com/terms/)
