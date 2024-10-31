@@ -1,4 +1,4 @@
-![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                                                Rad Power Bikes Privacy Policy | Rad Power Bikes | Rad Power Bikes                        [Skip to content](#main)
+![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                                        Rad Power Bikes Privacy Policy | Rad Power Bikes | Rad Power Bikes                                [Skip to content](#main)
 
 [Up to $300 off ebikes & gear](https://www.radpowerbikes.com/pages/sales-deals "Up to $300 off ebikes & gear")
 
@@ -356,6 +356,10 @@ Close Icon
 
 [User Generated Content Terms of Use](https://www.radpowerbikes.com/pages/user-generated-content-terms-of-use "User Generated Content Terms of Use")
 
+* * *
+
+[Terms of Product Registry](https://online-store-web.shopifyapps.com/pages/pages/terms-of-product-registry "Terms of Product Registry")
+
 Privacy Notice
 ==============
 
@@ -369,9 +373,8 @@ We’re not into hiding the ball, so if you have any questions or want to contac
 
 To make sure we’re on the same page, when we refer to “Rad,” “RPB,” “we,” “us,” “our,” etc., we mean Rad Power Bikes Inc. The “we” does not include our independent third-party business partners or retail sellers who have their own privacy policies and practices.    
 
-Privacy 101 – the TLDR version  
-
----------------------------------
+Privacy 101 – the TLDR version
+------------------------------
 
 **We’ll cut to the chase about what a lot of people may worry about: We do not sell your information and you can change cookie preferences to ask us not to share your information (but keep in mind, sharing helps us cater our messages or content that are of interest to you).**
 
@@ -413,9 +416,8 @@ Privacy 101 – the TLDR version
 
 For those of you who want to get into the nitty gritty or just want some material to help you fall asleep, please read on.
 
-CONTENTS  
-
------------
+CONTENTS
+--------
 
 [What this Privacy Policy Covers](#what-this-privacy-policy-covers)
 
@@ -443,9 +445,8 @@ CONTENTS
 
 [Contact Us](#Contact-Us)
 
-What This Privacy Policy Covers  
-
-----------------------------------
+What This Privacy Policy Covers
+-------------------------------
 
 To use some of our products and services, you may provide us with personal information. Personal Information means information that identifies, relates to, describes, or is capable of being associated with or linked directly or indirectly to a specific person or household. For our customers who are citizens and residents of the EEA, UK, or Switzerland, personal information has the same meaning, but does not include information that could identify a household. Anonymized information – meaning, information that cannot identify or be linked to a specific person or household – isn’t personal information. Anonymized information means personal data where specific identifying information is removed (e.g., stripped of identifying information in a way that someone could not reverse engineer it to make it personally identifiable).  
 
@@ -455,9 +456,8 @@ This Privacy Policy applies to:
 2. Information we may collect when you access our Websites;
 3. Information we receive from third parties
 
-Information You Provide to Us  
-
---------------------------------
+Information You Provide to Us
+-----------------------------
 
 When you interact with Rad’s Websites and/or make use of our services, you share personal information. Personal Information or personal data means information that identifies, relates to, describes, or is capable of being associated with or linked directly or indirectly to a specific individual or household. The categories/sources of personal information Rad may collect from or about you include:
 
@@ -476,9 +476,8 @@ When you interact with Rad’s Websites and/or make use of our services, you sha
 * **Feedback/Customer Service.** If you respond to a survey about your experience with us, offer opinions or reviews on our Websites, or interact with us on social media, we may ask for information like your name and email address, for example. If ever you need help with a product or seek other customer support services such as our online chat feature, we collect data from those interactions. We may also collect purchase history information like products you bought, returned, or exchanged.
 * **Job Applications.** If you apply for a job with us, we will collect information from your application or resume. If you get an offer and become a part of Team Rad, you may additionally be asked to provide information under the “Government-Issued Identification” section above.
 
-Information We May Collect When You Access our Websites  
-
-----------------------------------------------------------
+Information We May Collect When You Access our Websites
+-------------------------------------------------------
 
 Rad may collect information when you visit our Websites – even if you don’t make a purchase or set up an account. Rad is not an exception; almost every commercial website uses certain technology that collects information even if you don’t actively provide information. Importantly, **WE DO NOT SELL YOUR INFORMATION.** We use the information we collect to improve our customers’ experience on the Websites, to improve our services and products, and, if applicable, tailor advertising or communications to you.  
 
@@ -488,9 +487,8 @@ Rad may collect information when you visit our Websites – even if you don’t 
 | Cookies | Cookies are unique alphanumeric identifiers that serve different purposes, such as identifying your device, collecting and storing information about your use of our Websites, and in some cases, other websites.<br><br>Have you noticed that when you open a website and return to it later, you may see ads for things that interest you or products from other sites you visited, or the item you placed (but did not check out) in your virtual shopping cart are still in the cart? Those are cookies at work, collecting information about your online visit to help performance, track your preferences, etc.<br><br>The next time you revisit a website you’ve visited previously with the same device, the cookie information may be sent back to that specific website (called a first party cookie) or sent to another website if the cookie is operated by a third-party (a third-party cookie). Cookie information allows websites to know you’ve been there before and may help provide information more relevant to you.<br><br>Cookies can be session-based or persistent.<br><br>* Session-based: these are temporary cookies that remain on your device until you close your web browser.<br>* Persistent: these cookies remain on a device after the user closes their browser and can remember information, settings, preferences or sign-on credentials that the user previously saved.  <br>    <br>    There are different types of cookies:<br>    <br>* Strictly necessary<br>    <br>* Preference<br>    <br>* Performance and analytics<br>* Advertising<br>    <br>* Social Media | The cookies we collect are listed below. Users can change cookie preferences to limit the types of cookies used. Keep in mind, however, that disabling certain cookies may impact the functionality of our website. The cookies we use include:<br><br>* **Strictly necessary cookies**: ensure our Websites function properly and Services are available to you (e.g., log-in functionality, filling in forms).<br>* **Preference cookies**: provide enhanced features or settings based on your previous visits and selections, e.g., language preferences, remember log-in credentials, remember searches and filter settings.<br>* **Performance and analytics cookies**: enable us to understand how users interact with our Websites by collecting and reporting information anonymously – meaning, these cookies do not save information that allows identification of the individual user.<br>* **Advertising cookies**: enable the tracking of users across different websites to display ads that are relevant and engaging to the individual user.<br>* **Social media cookies**: are like advertising cookies set exclusively by social media platforms to track, e.g., when users share or like our content through third party social media sites. |
 | Pixels and Web Beacons | Pixels (also referred to as web beacons) are small electronic graphics that appear on a website (though it can be clear so it’s practically invisible to the naked eye) with a unique identifier that serves similar functions to cookies. In short, pixels can track a user’s behavior such as links clicked, pages visited, interactions with marketing material, etc. | Rad uses pixels to do things like count the users who have visited our Websites, determine the number of folks who open an email from us, measure ad performance and gather statistics about usage. |
 
-Information We May Receive About You From Third Parties  
-
-----------------------------------------------------------
+Information We May Receive About You From Third Parties
+-------------------------------------------------------
 
 We may obtain information about you from our third party service providers who have their own privacy policies that govern how they use your personal information. Those service providers may include:
 
@@ -498,9 +496,8 @@ We may obtain information about you from our third party service providers who h
 * **Retail Partners**. We have third-party retail partners who make Rad bikes available for in-person purchase or for customer service purposes. Our retail partners provide us with information you provide to them relating to a purchase or customer service request, for example.
 * **Social Media Sites**. When you interact with us (pressing a “like” button) or post content about us on social media platforms, or access our Websites through a link on a social media site, we may collect certain information from your public profile as well as your interests. Please note, personal information received from a social networking site is governed by that social networking site’s privacy policy, not Rad’s.
 
-How Rad Uses Your Information  
-
---------------------------------
+How Rad Uses Your Information
+-----------------------------
 
 We use personal information to provide, maintain and improve our products and services, such as to:
 
@@ -513,9 +510,8 @@ We use personal information to provide, maintain and improve our products and se
 * Analyze preferences, trends, and use statistics;
 * Comply with applicable laws, regulations, legal processes or court orders.
 
-How We Protect Your Radness  
-
-------------------------------
+How We Protect Your Radness
+---------------------------
 
 At Rad, we have an expression: “Protect the Radness,” which means we carefully and intentionally protect our confidential information. We know your Radness is equally valuable to you, and we want to protect it. We use administrative, technical, and physical safeguards to protect the personal information entrusted to us. We regularly update and test our security measures to improve the protection of your personal information and to ensure the integrity of that information.
 
@@ -523,9 +519,8 @@ We also limit those at Rad who can access personal information on a need-to-know
 
 Finally, we keep your personal information only for so long as needed for legitimate business purposes or to comply with legal or other obligations.      
 
-Choices and Rights Regarding Your Information  
-
-------------------------------------------------
+Choices and Rights Regarding Your Information
+---------------------------------------------
 
 Your personal information is, well, yours, and you can tell us what we can or cannot do with your personal information. You can email us with such requests at [privacy@radpowerbikes.com](mailto:privacy@radpowerbikes.com) or via any of the ways in the Contact Us section. Big picture, you have the following rights regarding your personal information:
 
@@ -536,42 +531,36 @@ Your personal information is, well, yours, and you can tell us what we can or ca
 * **Right to correct**. You have the right to correct your personal data if inaccurate.
 * **Right to Limit**. You have the right to instruct us to only use your sensitive personal information, e.g., your social security number, financial information, exact geolocation, for limited purposes, such as to provide you with our services or to allow you to purchase one of our products.
 
-Changes to this Privacy Policy  
-
----------------------------------
+Changes to this Privacy Policy
+------------------------------
 
 There may be times when we elect or are required by law to make changes to our Privacy Policy. When we do, we will (1) change the “Last Modified” date listed at the top of this Policy, and (2) will email individuals whose personal information we maintain, of any material changes.
 
-Children’s Personal Information  
-
-----------------------------------
+Children’s Personal Information
+-------------------------------
 
 Rad’s bikes should not be operated by children under 16 years old. If you are under the age of 16, do not provide your personal information through our Websites or other Rad-related platforms. If you believe your child has If we learn we have collected or received personal information from a child under 16 (or if you believe your child under 16 provided to Rad personal information) without verification of parental consent, we will delete that information.  
 
-Do Not Track Signals  
-
------------------------
+Do Not Track Signals
+--------------------
 
 Some internet browsers may provide users the ability to send “Do Not Track” signals to websites that you visit. Rad does not respond to “Do Not Track” browser settings or signals. Do learn more about Do Not Track, please visit: [www.allaboutdnt.org](http://www.allaboutdnt.org/)
 
-California Privacy Rights – Shine the Light  
-
-----------------------------------------------
+California Privacy Rights – Shine the Light
+-------------------------------------------
 
 If you are a California resident and provide personal information to us, you have the right to request and receive information regarding the disclosure of certain categories of personal information by Rad to our affiliates or third parties for their direct marketing purposes. Any such request for information may be sent to [privacy@radpowerbikes.com](mailto:privacy@radpowerbikes.com).
 
-Privacy Rights for the European Economic Area, United Kingdom, and Switzerland  
-
----------------------------------------------------------------------------------
+Privacy Rights for the European Economic Area, United Kingdom, and Switzerland
+------------------------------------------------------------------------------
 
 We process personal data as that term is defined in the EU’s General Data Protection Regulation (“GDPR”) and the equivalent of UK law. Because we have closed direct sales operations in the EEA, UK, and Switzerland, certain products and services available on our US or Canada Website are not available to you. Therefore, we recommend visiting our Website specific to the EEA, UK, and Switzerland: [https://radpowerbikes.eu/](https://radpowerbikes.eu/). The privacy rights and practices discussed in this Privacy Policy are the same for consumers in the EEA, UK, and Switzerland as for our US and Canada consumers. For easy reference, [**_in addition to privacy rights provided to US and Canada consumers_**](#choices-and-rights), you have the below rights:      
 
 * **Right to data portability**: you can request that we provide you with your personal information for your re-use for your own purposes in a format that allows you to move, copy or transfer the personal information in an easy and safe way.
 * **Right to Lodge a Complaint**: You have the right to lodge a complaint about our data collection and processing actions with the relevant supervisory authority in their country of residence. The supervisory authority with which the complaint has been lodged will keep you updated on the progress and outcome of the complaint. Contact details for data protection authorities are available here: [https://edpb.europa.eu/about-edpb/about-edpb/members\_en](https://edpb.europa.eu/about-edpb/about-edpb/members_en). If you would like to exercise any of these rights, please contact us at the information provided below.
 
-Contact Us  
-
--------------
+Contact Us
+----------
 
 If you have questions about our Privacy Policy, please email us at [privacy@radpowerbikes.com](mailto:privacy@radpowerbikes.com), or send your communication to:
 
