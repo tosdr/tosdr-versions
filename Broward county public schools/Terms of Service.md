@@ -271,7 +271,7 @@ Our Schools
     * [About US](http://www.browardschools.com/)
 * [(Parents/Students/Staff)](https://www.browardschools.com/domain/13351)
     
-    "
+    "* [Choose BCPS](https://www.browardschools.com/domain/26445)
     
     * [Parents & Families](https://www.browardschools.com/domain/13351)
     * [Students](https://www.browardschools.com/Page/36109)
