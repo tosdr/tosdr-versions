@@ -1,10 +1,71 @@
-About Cookies
+![](/images/gold-coin-cookie.png)
 
-We use cookies to improve our services and to provide an excellent user experience on the Kitco Online Store. By clicking on Continue, you accept our default cookie settings. To learn more about our use of cookies and manage your preferences, please visit the Settings page.
+We use cookies
 
-Continue
+We use first- and third-party cookies, along with other tracking technologies from third-party publishers, to provide full functionality on our website, customize your user experience, perform analytics, and deliver personalized advertising across our websites, apps, newsletters, and social media platforms. To achieve this, we collect information about users, browsing patterns, and devices.
 
-[Settings](https://online.kitco.com/cookiesettings.html)
+By clicking 'Accept' you agree to share this information with third parties, such as our advertising partners. You can customize your options by clicking 'Cookie Settings'. For more information, please visit our [Privacy Policy](http://online.kitco.com/legal/privacy-policy).
+
+Accept All
+
+Manage Cookies
+
+Cookie Settings
+
+We use cookies, some of them are essential, others are optional
+
+#### Essential cookies
+
+![](/images/toggle-required.png)
+
+Essential cookies are necessary for the basic functioning of the Kitco Online Store. They enable core functionalities such as:
+
+* User Authentication: Allowing you to log in and stay logged in during your session.
+* Security and verification: Protecting against security threats and ensuring the integrity of the website.
+* Session Management: Remembering your actions and preferences during a session (e.g. Review and update the products in your shopping cart)
+* Navigation and Accessibility: Facilitating smooth navigation and access to different parts of the website.
+
+Our essential cookies do not typically collect personal information but are crucial for the website to operate correctly. Without them, certain features or services would not be available or function properly.
+
+#### Non-essential cookies
+
+Non-essential cookies are not crucial for the functioning the Kitco Online Store but are employed to enhance the user experience, reporting purposes, enhancing features on the site, etc. Our non-essential cookies consist of:
+
+##### 1\. Analytics Cookies
+
+ ![](/images/accordion-icon-plus.svg) ![](/images/accordion-icon-minus.svg)
+
+The cookies track and analyze behavior on the Kitco Online Store to help improve performance and content. In general, these cookies provide aggregated data and does not collect personal information, **_unless a visitor specifically requests that a member of Kitco's Customer Service team contacts them/you_**. The analytics tools Kitco uses include but are not limited to;
+
+* Google analytics (Google Analytics Privacy Policy)
+* Qualtrics
+* Clarity
+* SEMRush
+* SimilarWeb
+
+1.a Session Replay: We may use session replay cookies to record and analyze interactions on our website to improve your browsing experience. These recordings may include mouse movements, clicks, scrolling, and text entered in forms. Sensitive/Personal information is never recorded. Your privacy is a priority, and we respect your decision to opt out.
+
+##### 2\. Marketing/Advertising Cookies
+
+ ![](/images/accordion-icon-plus.svg) ![](/images/accordion-icon-minus.svg)
+
+We may use advertising cookies to deliver targeted Kitco product and/or service content on third-party websites.
+
+##### 3\. Personalization Cookies
+
+ ![](/images/accordion-icon-plus.svg) ![](/images/accordion-icon-minus.svg)
+
+Customize your experience by remembering your preferences and site settings. (e.g Preferred Currency).
+
+##### 4\. Social Media Cookies
+
+ ![](/images/accordion-icon-plus.svg) ![](/images/accordion-icon-minus.svg)
+
+Enable sharing of content on social media platforms and may track user interactions.
+
+These cookies often collect personal data and are used for purposes such as marketing and user profiling. Users typically have the option to accept or reject these cookies, as they are not required for the website's core functionality.
+
+Confirm
 
 [![popup message](/images/spots/maintenance-popup-desktop.gif)](#)
 
@@ -159,6 +220,7 @@ Show More
     * [VaultChainTM Gold & Silver](https://online.kitco.com/faq/vaultchain "FAQ: VaultChain Gold")
     * [Bullion Terminology](https://online.kitco.com/bullion-terminology/ "FAQ: Bullion Terminology")
 * [Kitco News](https://www.kitco.com/ "Kitco News")
+* [Subscribe](https://online.kitco.com/subscribe "Subscribe")
 * [Logout](javascript:void(0) "Sign out")
 
   
@@ -940,7 +1002,8 @@ A handling fee of $70 (in USD for U.S. dollar transactions, in CAD for Canadian 
 [Cancellations](https://online.kitco.com/faq/cancellations "Cancellations")  
 [Business hours](https://corp.kitco.com/contact-us.html "Business hours")  
 [Create account](https://online.kitco.com/create-account.html "Create account")  
-[FAQs](https://online.kitco.com/faq "FAQs")
+[FAQs](https://online.kitco.com/faq "FAQs")  
+[Subscribe](https://online.kitco.com/subscribe "Subscribe")
 
 [Retail store location](https://online.kitco.com/help/retail-store-location.html)
 
@@ -975,15 +1038,15 @@ Thank you! We greatly appreciate your comments. Your message has been routed to 
 
 #### Other services
 
-[Mobile Applications](http://applications.kitco.com/supportcenter)
+[Mobile Applications](https://applications.kitco.com/)
 
-[Desktop applications](http://applications.kitco.com/supportcenter/desktop/index.html)
+[Desktop applications](https://applications.kitco.com/product/gold-live%E2%84%A2-desktop)
 
-[Kitco forum](https://gold-forum.kitco.com/)
+[Kitco forum](https://forum.kitco.com/categories?utm_source=kitco_website&utm_medium=navbar&utm_campaign=forum_navigation)
 
 [Market alerts](https://alerts.kitco.com/KcastAlertsWeb/)
 
-[About Us](https://corp.kitco.com/index.html "About Us") [Terms of Use](https://www.kitco.com/terms-of-use) [Terms & Conditions](https://online.kitco.com/legal/terms-and-conditions) [Privacy Policy](https://online.kitco.com/legal/privacy-policy) [Cookie Settings](https://online.kitco.com/cookiesettings.html) [Kitco Media](https://www.kitco.com/news/about/) [Advertise With Us](https://www.kitco.com/advertising/) [Careers](https://corp.kitco.com/life-at-kitco.html) [Contact Us](https://corp.kitco.com/contact-us.html) [Feedback](https://corp.kitco.com/contact-us.html)
+[About Us](https://corp.kitco.com/index.html "About Us") [Terms of Use](https://www.kitco.com/terms-of-use) [Terms & Conditions](https://online.kitco.com/legal/terms-and-conditions) [Privacy Policy](https://online.kitco.com/legal/privacy-policy) [Cookie Settings](#) [Kitco Media](https://www.kitco.com/news/about/) [Advertise With Us](https://www.kitco.com/advertising/) [Careers](https://corp.kitco.com/life-at-kitco.html) [Contact Us](https://corp.kitco.com/contact-us.html) [Feedback](https://corp.kitco.com/contact-us.html)
 
 Subscribe
 
