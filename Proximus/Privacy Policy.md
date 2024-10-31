@@ -144,7 +144,7 @@ Conditions générales
 
 [Conditions générales applicables à tous les services](#)
 
-[Conditions générales pour consommateurs et petites entreprises(PDF, 237Kb)](https://www.proximus.be/dam/jcr:9891e8ea-2901-4979-b411-b991ef793734/cdn/sites/iportal/documents/pdfs/common/from20191101/Conditions-g-n-rales-pour-les-consommateurs-et-les-petites-entreprises---FR~2024-03-29-11-16-43~cache.pdf)
+[Conditions générales pour consommateurs et petites entreprises(PDF, 237Kb)](https://www.proximus.be/dam/jcr:9891e8ea-2901-4979-b411-b991ef793734/cdn/sites/iportal/documents/pdfs/common/from20191101/Conditions-g-n-rales-pour-les-consommateurs-et-les-petites-entreprises---FR~2024-10-25-12-09-57~cache.pdf)
 
 [Téléphonie fixe](#)
 
