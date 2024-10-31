@@ -216,7 +216,3 @@ We believe in the power of learning, and we built an intelligent platform to hel
 Copyright © 2024 Panopto. All Rights reserved.
 
 ![](https://px.ads.linkedin.com/collect/?pid=3246241&fmt=gif)
-
-[![](https://www.panopto.com/wp-content/uploads/2024/10/panopto-elai-pop-up-press-release.png)](https://www.panopto.com/company/news/panopto-acquisition-of-elai/)
-
-X
