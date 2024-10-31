@@ -8,7 +8,7 @@
 
   [![SD Bullion Free Shipping](https://sdbullion.com/media/wysiwyg/sitewide/free-shipping-over-199-300x55-min.jpg)](https://sdbullion.com/sd-bullion-shipping-policies)
 
-       [![Get The 2024 Silver Eagle At Spot](https://sdbullion.com/media/wysiwyg/sticky_header/SUS23ASE-1-at-spot-sticky-banner_1_.jpg)    ![Get The 2024 Silver Eagle At Spot](https://sdbullion.com/media/wysiwyg/sticky_header/SUS23ASE-1-at-spot-sticky-banner_1_.jpg)](https://sdbullion.com/2024-american-silver-eagle-coin)
+       [![Shop The 2024 Trump Presidential Medals](https://sdbullion.com/media/wysiwyg/sticky_header/trump-medals-2-585x75_1_.jpg)    ![Shop The 2024 Trump Presidential Medals](https://sdbullion.com/media/wysiwyg/sticky_header/trump-medals-2-585x75_1_.jpg)](https://sdbullion.com/silver/trump)
 
 Search  Search
 
