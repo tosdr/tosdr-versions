@@ -29,17 +29,17 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![mcprison](plugins/MineCraft/icons/25x25xmcprison_1722027662.png.pagespeed.ic.0wYsTOy-Nc.png)
+[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
 
-STAFF NEEDED - PURPLE PRISON](https://minecraft-server.net/details/mcprison/ "STAFF NEEDED - PURPLE PRISON")[![Total__Anarchy](plugins/MineCraft/icons/25x25xTotal__Anarchy_1729888751.png.pagespeed.ic.6R9WISDLl7.jpg)
+KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
 
-Total Anarchy](https://minecraft-server.net/details/Total__Anarchy/ "Total Anarchy")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
+Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![kretmc](plugins/MineCraft/icons/25x25xkretmc_1716535388.png.pagespeed.ic.csO5XeMY1u.png)
 
-1.21 Vanilla+ No Grief](https://minecraft-server.net/details/MCVerseCity/ "1.21 Vanilla+ No Grief")[![HearthCraft](plugins/MineCraft/icons/25x25xHearthCraft_1729617449.png.pagespeed.ic.HiP4ZJr9ct.jpg)
+Najlepszy Serwer Minecraft!](https://minecraft-server.net/details/kretmc/ "Najlepszy Serwer Minecraft!")[![OrionCraft](plugins/MineCraft/icons/25x25xOrionCraft_1728031641.png.pagespeed.ic.GmfDre1pIC.png)
 
-HearthCraft SMP \[1.20.x\] - A no-griefing, no-resets economy experience](https://minecraft-server.net/details/HearthCraft/ "HearthCraft SMP [1.20.x] - A no-griefing, no-resets economy experience")[![tntw](plugins/MineCraft/icons/25x25xtntw_1638554506.png.pagespeed.ic.HRxhBu2uvh.png)
+✦ OrionCraft ✦](https://minecraft-server.net/details/OrionCraft/ "✦ OrionCraft ✦ ")[![sfsuralias](plugins/MineCraft/icons/25x25xsfsuralias_1707311472.png.pagespeed.ic.gR_S36Yfa-.png)
 
-TNTWcraft](https://minecraft-server.net/details/tntw/ "TNTWcraft")
+GospelCraft](https://minecraft-server.net/details/sfsuralias/ "GospelCraft")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -125,4 +125,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06165 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05832 - Created by [Debaucus](https://debauc.us/)
