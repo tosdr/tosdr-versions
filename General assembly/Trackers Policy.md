@@ -503,7 +503,7 @@ Be the first to hear about exclusives, promotions, and more.
 
 You'll receive all the latest updates on GA courses and events.
 
-  
+   
 
 Enter your email address \* 
 
