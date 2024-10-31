@@ -139,22 +139,21 @@ Save settings
 
 ### Featured Articles
 
+[![Intuition Test](https://www.wikihow.com/images/thumb/d/da/Intuition_quiz.png/-crop-126-120-126px-Intuition_quiz.png)
+
+How Strong Is Your Intuition Quiz](https://www.wikihow.com/Intuition-Test)
+
+[![Big Eyes on People](https://www.wikihow.com/images/thumb/6/6f/Big-Eyes-on-People-Step-12.jpg/-crop-126-120-126px-Big-Eyes-on-People-Step-12.jpg)
+
+People with Big Eyes: What Are They Like, and Are They More Attractive?](https://www.wikihow.com/Big-Eyes-on-People)
+
+[![What to Talk About on a First Date](https://www.wikihow.com/images/thumb/c/c3/What-to-Talk-About-on-a-First-Date-Step-20.jpg/-crop-126-120-126px-What-to-Talk-About-on-a-First-Date-Step-20.jpg)
+
+50 First Date Conversation Starters to Spark a Connection](https://www.wikihow.com/What-to-Talk-About-on-a-First-Date)
+
 [![Goodnight Paragraphs for Him](https://www.wikihow.com/images/thumb/3/31/Goodnight-Paragraphs-for-Him-Step-10.jpg/-crop-126-120-126px-Goodnight-Paragraphs-for-Him-Step-10.jpg)
 
 118 Cute, Flirty, and Romantic Good Night Texts to Copy and Paste](https://www.wikihow.com/Goodnight-Paragraphs-for-Him)
-
-[![Messy Fringe](https://www.wikihow.com/images/thumb/5/51/Messy-Fringe-Step-11.jpg/-crop-126-120-126px-Messy-Fringe-Step-11.jpg)
-
-How to  
-Achieve the Messy Fringe Look](https://www.wikihow.com/Messy-Fringe)
-
-[![Hand Sign Meanings](https://www.wikihow.com/images/thumb/8/89/Hand-Sign-Meanings-Step-21.jpeg/-crop-126-120-126px-Hand-Sign-Meanings-Step-21.jpeg)
-
-21 Common Hand Signs & Gestures (& What They Mean)](https://www.wikihow.com/Hand-Sign-Meanings)
-
-[![Make Fake Blood](https://www.wikihow.com/images/thumb/f/f2/Make-Fake-Blood-Step-17-Version-4.jpg/-crop-126-120-126px-Make-Fake-Blood-Step-17-Version-4.jpg)
-
-3 Realistic Fake Blood Recipes (Plus Fake Guts, Scabs, & Flesh)](https://www.wikihow.com/Make-Fake-Blood)
 
   
 
@@ -197,4 +196,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-149
+169
