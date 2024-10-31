@@ -302,6 +302,35 @@ Address
 
 Privacy Policy](https://www.mezo.ai/privacypolicy)
 
+Similar apps
+------------
+
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGEN1clBvczRVUmF5WXF5RExXRW9TNEE9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljLY2c8)
+
+[![Thumbnail image](https://play-lh.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg=s64)
+
+Textra SMS
+
+Delicious
+
+4.3_star_](https://play.google.com/store/apps/details?id=com.textra)
+
+[![Thumbnail image](https://play-lh.googleusercontent.com/qw_MVfLwKrZduwQyyU9qx1246GCpOGNIgnoqUezlcfpfAFKmZ0aH1iBqLA7bsYLa6hs=s64)
+
+Sugar Mail email app
+
+Kostya Vasilyev US
+
+3.6_star_](https://play.google.com/store/apps/details?id=org.kman.email2)
+
+[![Thumbnail image](https://play-lh.googleusercontent.com/ruWSAfXdO3RgDX3qwDSdh7oBManmyEXZ1TG9tBNSR8R5mOVq1E6cECZSHaGJjVeVrSg=s64)
+
+Call Blocker - Block Numbers
+
+Appsbuyout Dev
+
+4.5_star_](https://play.google.com/store/apps/details?id=call.blacklist.blocker)
+
 [_flag_Flag as inappropriate](https://support.google.com/googleplay/?p=report_content)
 
 Google Play[Play Pass](https://play.google.com/store/pass/getstarted)[Play Points](https://play.google.com/store/points/enroll)[Gift cards](https://play.google.com/about/giftcards)[Redeem](https://play.google.com/redeem)[Refund policy](https://support.google.com/googleplay/answer/134336)
