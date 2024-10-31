@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### Breaking News
+#### World Series mayhem
 
-[Yankees' season ends in World Series heartbreak](https://nypost.com/2024/10/30/sports/yankees-season-ends-in-heartbreak-as-they-choke-away-game-5-of-world-series/)
+[LA erupts after Dodgers victory as ‘hostile’ mob burns bus, looters raid Nike store](https://nypost.com/2024/10/31/sports/la-erupts-into-chaos-following-dodgers-world-series-win/)
 
 Privacy Notice Highlights
 =========================
