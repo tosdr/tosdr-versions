@@ -369,11 +369,6 @@ This app works best with JavaScript enabled.
         * [Layout icon
             
             Email Templates](https://www.mailgun.com/resources/tools/email-templates/)
-    * [![Header Image - Getting started with Mailgun: An intro to the platform ](https://images.ctfassets.net/y6oq7udscnj8/4h9mOU1HO187ITg5mZsVGq/6bc5fcb02056df0a3cf253121457c095/MG-VI-Mailgun-Intro.png?w=720&h=448&q=50&fm=png)
-        
-        Getting started with Mailgun: An intro to the platform
-        
-        Read More](https://www.mailgun.com/resources/videos/getting-started-mailgun-intro-platform/)
     * [![SparkToro logo](https://images.ctfassets.net/y6oq7udscnj8/4duqZ1Sce7eYq5nlOVWlAz/e1d0d319f476a0cc55169b65acd573d5/MG-CS-SparkToro.png?w=1440&h=896&q=50&fm=png)
         
         Building a dynamic email ecosystem: SparkToro's story
@@ -411,11 +406,6 @@ This app works best with JavaScript enabled.
         * [Layout icon
             
             Email Templates](https://www.mailgun.com/resources/tools/email-templates/)
-    * [![Header Image - Getting started with Mailgun: An intro to the platform ](https://images.ctfassets.net/y6oq7udscnj8/4h9mOU1HO187ITg5mZsVGq/6bc5fcb02056df0a3cf253121457c095/MG-VI-Mailgun-Intro.png?w=720&h=448&q=50&fm=png)
-        
-        Getting started with Mailgun: An intro to the platform
-        
-        Read More](https://www.mailgun.com/resources/videos/getting-started-mailgun-intro-platform/)
     * [![SparkToro logo](https://images.ctfassets.net/y6oq7udscnj8/4duqZ1Sce7eYq5nlOVWlAz/e1d0d319f476a0cc55169b65acd573d5/MG-CS-SparkToro.png?w=1440&h=896&q=50&fm=png)
         
         Building a dynamic email ecosystem: SparkToro's story
@@ -772,11 +762,6 @@ Back to main menu
         * [Layout icon
             
             Email Templates](https://www.mailgun.com/resources/tools/email-templates/)
-    * [![Header Image - Getting started with Mailgun: An intro to the platform ](https://images.ctfassets.net/y6oq7udscnj8/4h9mOU1HO187ITg5mZsVGq/6bc5fcb02056df0a3cf253121457c095/MG-VI-Mailgun-Intro.png?w=720&h=448&q=50&fm=png)
-        
-        Getting started with Mailgun: An intro to the platform
-        
-        Read More](https://www.mailgun.com/resources/videos/getting-started-mailgun-intro-platform/)
     * [![SparkToro logo](https://images.ctfassets.net/y6oq7udscnj8/4duqZ1Sce7eYq5nlOVWlAz/e1d0d319f476a0cc55169b65acd573d5/MG-CS-SparkToro.png?w=1440&h=896&q=50&fm=png)
         
         Building a dynamic email ecosystem: SparkToro's story
@@ -814,11 +799,6 @@ Back to main menu
         * [Layout icon
             
             Email Templates](https://www.mailgun.com/resources/tools/email-templates/)
-    * [![Header Image - Getting started with Mailgun: An intro to the platform ](https://images.ctfassets.net/y6oq7udscnj8/4h9mOU1HO187ITg5mZsVGq/6bc5fcb02056df0a3cf253121457c095/MG-VI-Mailgun-Intro.png?w=720&h=448&q=50&fm=png)
-        
-        Getting started with Mailgun: An intro to the platform
-        
-        Read More](https://www.mailgun.com/resources/videos/getting-started-mailgun-intro-platform/)
     * [![SparkToro logo](https://images.ctfassets.net/y6oq7udscnj8/4duqZ1Sce7eYq5nlOVWlAz/e1d0d319f476a0cc55169b65acd573d5/MG-CS-SparkToro.png?w=1440&h=896&q=50&fm=png)
         
         Building a dynamic email ecosystem: SparkToro's story
@@ -1061,11 +1041,6 @@ Back to main menu
     * [Layout icon
         
         Email Templates](https://www.mailgun.com/resources/tools/email-templates/)
-* [![Header Image - Getting started with Mailgun: An intro to the platform ](https://images.ctfassets.net/y6oq7udscnj8/4h9mOU1HO187ITg5mZsVGq/6bc5fcb02056df0a3cf253121457c095/MG-VI-Mailgun-Intro.png?w=720&h=448&q=50&fm=png)
-    
-    Getting started with Mailgun: An intro to the platform
-    
-    Read More](https://www.mailgun.com/resources/videos/getting-started-mailgun-intro-platform/)
 * [![SparkToro logo](https://images.ctfassets.net/y6oq7udscnj8/4duqZ1Sce7eYq5nlOVWlAz/e1d0d319f476a0cc55169b65acd573d5/MG-CS-SparkToro.png?w=1440&h=896&q=50&fm=png)
     
     Building a dynamic email ecosystem: SparkToro's story
