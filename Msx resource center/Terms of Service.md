@@ -140,37 +140,38 @@ MSX Music player
 
 Latest reactions
 
+* [Christmas Quiz 2024](https://www.msx.org/news/en/christmas-quiz-2024 "Christmas Quiz 2024")
+* [Nextor 2.1.2 released](https://www.msx.org/news/en/nextor-212-released "Nextor 2.1.2 released")
 * [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
-* [Nextor 2.1.2 released](https://www.msx.org/news/en/nextor-212-released "Nextor 2.1.2 released")
 * [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/news/hardware/en/msx-pico-cartridge "MSX Pico - multi Flash ROM cartridge")
 * [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
 * [MGLOAD](https://www.msx.org/downloads/mgload-0 "MGLOAD")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
-* [News submissions that didn't make the front-page](https://www.msx.org/news/mrc/en/news-submissions-that-didnt-make-the-front-page "News submissions that didn't make the front-page")
 
 Latest forum posts
 
+* [Morderne mouse replacement](https://www.msx.org/forum/msx-talk/hardware/morderne-mouse-replacement "Morderne mouse replacement")
+* [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
+* [Tetris 2 - Special Edition on Blue MSX](https://www.msx.org/forum/msx-talk/software-and-gaming/tetris-2-special-edition-blue-msx?page=3 "Tetris 2 - Special Edition on Blue MSX")
+* [NEWS PROBLEM](https://www.msx.org/forum/msx-talk/off-topic/news-problem "NEWS PROBLEM")
+* [Tape speed loading, OTLA revisited](https://www.msx.org/forum/msx-talk/software/tape-speed-loading-otla-revisited?page=1 "Tape speed loading, OTLA revisited")
 * [Attack of the Petscii Robots - V9990](https://www.msx.org/forum/msx-talk/development/attack-of-the-petscii-robots-v9990?page=5 "Attack of the Petscii Robots - V9990")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=123 "Please help testing upcoming openMSX release!")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=62 "List of undumped MSX software (PLEASE HELP!)")
 * [On magnified sprites, OR function and 1px offset](https://www.msx.org/forum/msx-talk/development/on-magnified-sprites-or-function-and-1px-offset "On magnified sprites, OR function and 1px offset")
 * [The Matrix digital rain on MSX](https://www.msx.org/forum/msx-talk/development/the-matrix-digital-rain-on-msx?page=1 "The Matrix digital rain on MSX")
 * [A new MSX (3?) for 2022 ?](https://www.msx.org/forum/msx-talk/general-discussion/a-new-msx-3-for-2022?page=31 "A new MSX (3?) for 2022 ?")
-* [Morderne mouse replacement](https://www.msx.org/forum/msx-talk/hardware/morderne-mouse-replacement "Morderne mouse replacement")
 * [TRH9000 - The Yamaha V9990 based open-source video card for the MSX](https://www.msx.org/forum/msx-talk/hardware/trh9000-the-yamaha-v9990-based-open-source-video-card-for-the-msx?page=23 "TRH9000 - The Yamaha V9990 based open-source video card for the MSX")
-* [Tetris 2 - Special Edition on Blue MSX](https://www.msx.org/forum/msx-talk/software-and-gaming/tetris-2-special-edition-blue-msx?page=3 "Tetris 2 - Special Edition on Blue MSX")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=73 "WonderTANG! Who wants to juice up your MSX?")
-* [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=223 "Wiki editing discussion")
-* [Modular MSX Sound Cartridge - Real Yamaha Chipset](https://www.msx.org/forum/msx-talk/hardware/modular-msx-sound-card-real-yamaha-chipset "Modular MSX Sound Cartridge - Real Yamaha Chipset")
-* [Generation MSX is down?](https://www.msx.org/forum/msx-talk/general-discussion/generation-msx-is-down "Generation MSX is down?")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
 News headlines
 
+* [Christmas Quiz 2024](https://www.msx.org/news/en/christmas-quiz-2024 "Christmas Quiz 2024")
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
 * [MinQ:ExtrA by NukegaraDHP released](https://www.msx.org/news/software/en/minqextra-by-nukegaradhp-released "MinQ:ExtrA by NukegaraDHP released")
 * [Ankje Kalkwiek passed away at the age of 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at the age of 77")
@@ -183,7 +184,6 @@ News headlines
 * [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
 * [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
 * [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
-* [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
 
 [](https://www.msx.org/archive/)[More news articles](https://www.msx.org/archive/)
 
