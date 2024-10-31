@@ -1,5 +1,3 @@
-    
-
 [Gå til indhold](#dre-main)
 
 Navigation
