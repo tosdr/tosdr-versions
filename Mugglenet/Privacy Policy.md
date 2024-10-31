@@ -244,24 +244,6 @@ MuggleNet Archive Select Month October 2024  (23) September 2024  (30) August 
 
 ### October 2024
 
-#### Wed, Oct 30
-
-Beauxbatons and Durmstrang students arrive for the Triwizard Tournament
-
-Recurs yearly
-
-1994
-
-Clémence Poésy's birthday
-
-Recurs yearly
-
-Fleur Delacour
-
-Molly Weasley's birthday
-
-Recurs yearly
-
 #### Thu, Oct 31
 
 Death of James and Lily Potter; Harry survives; Voldemort loses his power
@@ -364,6 +346,26 @@ Recurs yearly
 
 2015
 
+#### Wed, Nov 6
+
+Hero Fiennes-Tiffin's birthday
+
+Recurs yearly
+
+11-year-old Tom Riddle (HBP)
+
+Whomping Willow destroys Nimbus 2000
+
+Recurs yearly
+
+1993
+
+Hermione checks out Moste Potente Potions
+
+Recurs yearly
+
+1992
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -374,15 +376,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Ripley Scroll (England, 1570) teaches readers how to create the philosopher’s stone.
+Sybill Trelawney’s middle name is Patricia.
 
 ### Potter History
 
-April 15, 2011 – Harry Potter and the Deathly Hallows – Part 1 is released on Blu-ray and DVD in the United States.
+February 19, 2008 – Confirmation that David Yates will be directing Harry Potter and the Deathly Hallows is accidentally announced by author Lois Lowry.
 
 ### Potter Quote
 
-“That brings \[Trelawney’s\] total of real predictions up to two. I should offer her a pay raise. . . .”
+“If you went out and got a bit of snogging done yourself, you wouldn’t mind so much that everyone else does it!”
 
 [](#)
 
