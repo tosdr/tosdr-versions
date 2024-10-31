@@ -339,9 +339,7 @@ If you have any questions or comments about these Terms, please email us at [inf
 * [Facebook](https://www.facebook.com/A24 "Facebook")
 * [Twitter](https://twitter.com/A24 "Twitter")
 * [Instagram](https://instagram.com/a24 "Instagram")
-* [Tumblr](https://a24films.tumblr.com/ "Tumblr")
 * [YouTube](https://www.youtube.com/A24Films "YouTube")
-* [Giphy](http://www.giphy.com/a24 "Giphy")
 
 ###### Want More A24?
 
