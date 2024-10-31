@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 136 utilisateurs actifs
+##### 615 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Le Bluetooth a disparu ou ne fonctionne pas sur Windows 11 : 10 solutions pour résoudre le problème !](https://lecrabeinfo.net/le-bluetooth-a-disparu-ou-ne-fonctionne-pas-sur-windows-11-10-solutions-pour-resoudre-le-probleme.html) 
 * [Windows 11 24H2 : fin des écrans bleus (BSOD) avec les SSD Western Digital et SanDisk grâce à un correctif officiel](https://lecrabeinfo.net/windows-11-24h2-fin-des-ecrans-bleus-bsod-avec-les-ssd-western-digital-et-sandisk-grace-a-un-correctif-officiel.html) 
 * [Le support de Windows 11 22H2 est terminé depuis le 8 octobre 2024 : mettez à jour votre Windows 11 !](https://lecrabeinfo.net/le-support-de-windows-11-22h2-est-termine-depuis-le-8-octobre-2024-mettez-a-jour-votre-windows-11.html)
-* [Windows 11 24H2 : Microsoft confirme un nouveau bug avec le Vérificateur de fichiers](https://lecrabeinfo.net/windows-11-24h2-microsoft-confirme-un-nouveau-bug-avec-le-verificateur-de-fichiers.html) 
 
 ### Tendance
 
@@ -153,8 +153,8 @@ Chargement en cours
 ### Statistiques
 
 * 67 876 membres
-* 936 articles
-* 26 814 commentaires
+* 937 articles
+* 26 815 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
