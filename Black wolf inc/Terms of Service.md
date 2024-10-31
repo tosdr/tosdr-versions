@@ -241,6 +241,16 @@ Cancel
 
 Popular products
 
+[![](//blackwolfnation.com/cdn/shop/files/23_90d85694-e3d2-4be8-82e1-9db7723a24bb.png?v=1723835057&width=1350)
+
+![](//blackwolfnation.com/cdn/shop/files/21_5c66fbb8-b377-4039-8b18-57d7c0ebb9ad.png?v=1723835057&width=1350)
+
+Haircare Bundle
+
+10
+
+$32.00](https://blackwolfnation.com/products/haircare-bundle)
+
 FSA/HSA ELIGIBLE
 
 [![](//blackwolfnation.com/cdn/shop/files/ScreenShot2024-10-15at11.34.01AM.png?v=1729017249&width=946)
