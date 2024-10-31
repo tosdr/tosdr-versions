@@ -73,11 +73,11 @@
 
 MBFC News
 
-* [October 22, 2024 | (Media News) RFK’s Children’s Health Defense Prepares Supreme Court Appeal Against Meta for Alleged Censorship](https://mediabiasfactcheck.com/2024/10/22/media-news-rfks-childrens-health-defense-prepares-supreme-court-appeal-against-meta-for-alleged-censorship/ "(Media News) RFK’s Children’s Health Defense Prepares Supreme Court Appeal Against Meta for Alleged Censorship")
-* [October 22, 2024 | MBFC’s Daily Vetted Fact Checks for 10/22/2024](https://mediabiasfactcheck.com/2024/10/22/mbfcs-daily-vetted-fact-checks-for-10-22-2024/ "MBFC’s Daily Vetted Fact Checks for 10/22/2024")
-* [October 21, 2024 | (Media News) News Corp Sues AI Search Engine Perplexity Over Copyright Infringement](https://mediabiasfactcheck.com/2024/10/21/media-news-news-corp-sues-ai-search-engine-perplexity-over-copyright-infringement/ "(Media News) News Corp Sues AI Search Engine Perplexity Over Copyright Infringement")
-* [October 21, 2024 | MBFC’s Daily Vetted Fact Checks for 10/21/2024](https://mediabiasfactcheck.com/2024/10/21/mbfcs-daily-vetted-fact-checks-for-10-21-2024/ "MBFC’s Daily Vetted Fact Checks for 10/21/2024")
-* [October 20, 2024 | MBFC’s Daily Vetted Fact Checks for 10/20/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/10/20/mbfcs-daily-vetted-fact-checks-for-10-20-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 10/20/2024 (Weekend Edition)")
+* [October 31, 2024 | Media News Daily: Top Stories for 10/31/2024](https://mediabiasfactcheck.com/2024/10/31/media-news-daily-top-stories-for-10-31-2024/ "Media News Daily: Top Stories for 10/31/2024")
+* [October 31, 2024 | MBFC’s Daily Vetted Fact Checks for 10/31/2024](https://mediabiasfactcheck.com/2024/10/31/mbfcs-daily-vetted-fact-checks-for-10-31-2024/ "MBFC’s Daily Vetted Fact Checks for 10/31/2024")
+* [October 30, 2024 | Media News Daily: Top Stories for 10/30/2024](https://mediabiasfactcheck.com/2024/10/30/media-news-daily-top-stories-for-10-30-2024/ "Media News Daily: Top Stories for 10/30/2024")
+* [October 30, 2024 | MBFC’s Daily Vetted Fact Checks for 10/30/2024](https://mediabiasfactcheck.com/2024/10/30/mbfcs-daily-vetted-fact-checks-for-10-30-2024/ "MBFC’s Daily Vetted Fact Checks for 10/30/2024")
+* [October 29, 2024 | (Media News) Washington Post Loses 200,000 Subscribers as Bezos Defends Decision to Halt Endorsements; Gannett Joins in 2024 Shift](https://mediabiasfactcheck.com/2024/10/29/media-news-washington-post-loses-200000-subscribers-as-bezos-defends-decision-to-halt-endorsements-gannett-joins-in-2024-shift/ "(Media News) Washington Post Loses 200,000 Subscribers as Bezos Defends Decision to Halt Endorsements; Gannett Joins in 2024 Shift")
 
 Search for:  
 
@@ -137,74 +137,74 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 
 #### Recently Added Sources or Pages
 
-* [Arlington Times – Bias and Credibility](https://mediabiasfactcheck.com/arlington-times-bias/)
+* [Finger Lakes Times – Bias and Credibility](https://mediabiasfactcheck.com/finger-lakes-times-bias/)
     
-    October 22, 2024
+    October 31, 2024
     
-* [Swamp Monsters – Bias and Credibility](https://mediabiasfactcheck.com/swamp-monsters-bias-and-credibility/)
+* [David French Bias Rating](https://mediabiasfactcheck.com/david-french-bias-rating/)
     
-    October 22, 2024
+    October 30, 2024
     
-* [Frontiers in Human Dynamics – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-human-dynamics-bias/)
+* [Blacklock’s Reporter – Bias and Credibility](https://mediabiasfactcheck.com/blacklocks-reporter-bias-and-credibility/)
     
-    October 22, 2024
+    October 30, 2024
     
-* [Die Tageszeitung – Bias and Credibility](https://mediabiasfactcheck.com/die-tageszeitung-bias-and-credibility/)
+* [Northern Daily Leader – Bias and Credibility](https://mediabiasfactcheck.com/northern-daily-leader-bias/)
     
-    October 21, 2024
+    October 30, 2024
     
-* [The Maple – Bias and Credibility](https://mediabiasfactcheck.com/the-maple-bias/)
+* [Macdonald-Laurier Institute (MLI) – Bias and Credibility](https://mediabiasfactcheck.com/macdonald-laurier-institute-mli-bias-and-credibility/)
     
-    October 21, 2024
+    October 30, 2024
     
-* [Stop World Control – Bias and Credibility](https://mediabiasfactcheck.com/stop-world-control-bias-and-credibility/)
+* [Muhlenberg College Polling – Bias and Credibility](https://mediabiasfactcheck.com/muhlenberg-college-polling-bias-and-credibility/)
     
-    October 21, 2024
+    October 30, 2024
     
-* [White Lake Beacon – Bias and Credibility](https://mediabiasfactcheck.com/white-lake-beacon-bias/)
+* [The Hub – Bias and Credibility](https://mediabiasfactcheck.com/the-hub-bias-and-credibility/)
     
-    October 21, 2024
+    October 29, 2024
     
-* [React19 – Bias and Credibility](https://mediabiasfactcheck.com/react19-bias-and-credibility/)
+* [Royal Institution of Great Britain – Bias and Credibility](https://mediabiasfactcheck.com/royal-institution-of-great-britain-bias-and-credibility/)
     
-    October 21, 2024
+    October 29, 2024
     
 
 #### Recently Updated Pages
 
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - October 22, 2024
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - October 31, 2024
     
-* [Arlington Times – Bias and Credibility](https://mediabiasfactcheck.com/arlington-times-bias/ "View Arlington Times – Bias and Credibility") - October 22, 2024
+* [Finger Lakes Times – Bias and Credibility](https://mediabiasfactcheck.com/finger-lakes-times-bias/ "View Finger Lakes Times – Bias and Credibility") - October 31, 2024
     
-* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - October 22, 2024
+* [Journalist Bias](https://mediabiasfactcheck.com/journalist-bias/ "View Journalist Bias") - October 30, 2024
     
-* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - October 22, 2024
+* [David French Bias Rating](https://mediabiasfactcheck.com/david-french-bias-rating/ "View David French Bias Rating") - October 30, 2024
     
-* [Swamp Monsters – Bias and Credibility](https://mediabiasfactcheck.com/swamp-monsters-bias-and-credibility/ "View Swamp Monsters – Bias and Credibility") - October 22, 2024
+* [Neil Cavuto Bias Rating](https://mediabiasfactcheck.com/neil-cavuto-bias-rating/ "View Neil Cavuto Bias Rating") - October 30, 2024
     
-* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - October 22, 2024
+* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - October 30, 2024
     
-* [Frontiers in Human Dynamics – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-human-dynamics-bias/ "View Frontiers in Human Dynamics – Bias and Credibility") - October 22, 2024
+* [Blacklock’s Reporter – Bias and Credibility](https://mediabiasfactcheck.com/blacklocks-reporter-bias-and-credibility/ "View Blacklock’s Reporter – Bias and Credibility") - October 30, 2024
     
-* [Left Bias](https://mediabiasfactcheck.com/left/ "View Left Bias") - October 21, 2024
+* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - October 30, 2024
     
-* [Die Tageszeitung – Bias and Credibility](https://mediabiasfactcheck.com/die-tageszeitung-bias-and-credibility/ "View Die Tageszeitung – Bias and Credibility") - October 21, 2024
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - October 30, 2024
     
-* [The Maple – Bias and Credibility](https://mediabiasfactcheck.com/the-maple-bias/ "View The Maple – Bias and Credibility") - October 21, 2024
+* [Northern Daily Leader – Bias and Credibility](https://mediabiasfactcheck.com/northern-daily-leader-bias/ "View Northern Daily Leader – Bias and Credibility") - October 30, 2024
     
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [AtlasIntel Polling - Bias and Credibility](https://mediabiasfactcheck.com/atlasintel-polling-bias-and-credibility/)
-* [The Atlantic - Bias and Credibility](https://mediabiasfactcheck.com/the-atlantic/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
-* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [The Hill - Bias and Credibility](https://mediabiasfactcheck.com/the-hill/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [MBFC's Daily Vetted Fact Checks for 10/22/2024](https://mediabiasfactcheck.com/2024/10/22/mbfcs-daily-vetted-fact-checks-for-10-22-2024/)
+* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [Newsweek - Bias and Credibility](https://mediabiasfactcheck.com/newsweek/)
-* [Morning Consult - Bias and Credibility](https://mediabiasfactcheck.com/morning-consult/)
+* [Electoral College Map 2024 - Harris vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
+* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
+* [MBFC's Daily Vetted Fact Checks for 10/30/2024](https://mediabiasfactcheck.com/2024/10/30/mbfcs-daily-vetted-fact-checks-for-10-30-2024/)
+* [Search](https://mediabiasfactcheck.com/search/)
 
 #### Subscribe via Email
 
@@ -227,20 +227,3 @@ Email Address
 [RSS](https://mediabiasfactcheck.com/feed/)
 
 Copyright 2024 Media Bias Fact Check LLC
-
-Close this module
-
-Your Support Keeps Us Going!
-
-Support our mission - ad-free browsing & exclusive content.  
-  
-If you value our work, consider becoming a member.
-
-  
-New membership plans available.
-
-**Every contribution counts**
-
-[See all of our Plans](https://mediabiasfactcheck.com/membership-account/membership-levels/)
-
-[Never see this message again](#)
