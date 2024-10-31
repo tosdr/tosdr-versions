@@ -187,10 +187,10 @@ Ethereum
 
 [](https://jarick.works/eidolon/)
 
-[![](https://jarick.works/wp-content/uploads/beagle/svg/productivity/reminders-1.svg)](https://jarick.works/beagle/productivity/reminders/)
+[![](https://jarick.works/wp-content/uploads/beagle/svg/productivity/slides-1.svg)](https://jarick.works/beagle/productivity/slides/)
 
-[![](https://jarick.works/wp-content/uploads/anaarkei/svg/025.svg)](https://jarick.works/anaarkei/christopher-hitchens-on-evidence/)
+[![](https://jarick.works/wp-content/uploads/beagle/svg/shell/login-1.svg)](https://jarick.works/beagle/shell/login/)
 
-[![](https://jarick.works/wp-content/uploads/anaarkei/svg/015.svg)](https://jarick.works/anaarkei/resist-injustice/)
+[![](https://jarick.works/wp-content/uploads/beagle/svg/communication/phone-1.svg)](https://jarick.works/beagle/communication/phone/)
 
-[![](https://jarick.works/wp-content/uploads/beagle/svg/productivity/voice-memos-1.svg)](https://jarick.works/beagle/productivity/voice-memos/)
+[![](https://jarick.works/wp-content/uploads/anaarkei/svg/029.svg)](https://jarick.works/anaarkei/religion/)
