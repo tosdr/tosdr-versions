@@ -162,11 +162,9 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
   
 
-"Spellzone really is an incredibly simple, engaging and cost effective resource - it makes a big difference to literacy levels."
+"I love your course..... you explain so much that I didn't know, forgot, or wasn't taught."
 
-**Millthorpe School, York**
-
-[read more...](https://www.spellzone.com/pages/case-studies/millthorpe.cfm)
+**Adult student, USA**
 
 ### Curriculum...
 
