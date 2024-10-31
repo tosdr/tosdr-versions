@@ -188,7 +188,7 @@ If you have any comments or questions regarding ESET's Privacy Policy, please co
 
 Privacy Officer  
 ESET North America  
-655 W Broadway, Suite 700  
+610 W. Ash Street, Suite 1700  
 San Diego, CA 92101
 
 [ESET](https://www.eset.com/us/ "Go to ESET Homepage")
@@ -654,7 +654,7 @@ San Diego, California
 San Diego, California  
 [More contacts](https://www.eset.com/us/about/contact/)
 
-[United States (EN)](https://www.eset.com/us/support/lost-license/)
+[United States (EN)](https://www.eset.com/us/business/complete-protection/)
 
 * * *
 
