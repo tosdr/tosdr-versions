@@ -1,137 +1,138 @@
 [Skip to Main Content](#main-content)
 
-[](#)[![high point university north carolina united states hpu masthead](https://www.highpoint.edu/wp-content/themes/hpu/assets/frontend/images/logos/high-point-university-mobile-high-point-nc.png)](https://www.highpoint.edu/)
+[Menu](#)
 
-Search
+[![High Point University Home Page](https://www.highpoint.edu/wp-content/themes/hpu/src/assets/images/logos/high-point-university-the-premiere-life-skills-university-white.png)](https://www.highpoint.edu/)
 
-Info for:
+* [Request Info](https://discover.highpoint.edu/register/inquiry)
+* [Tour](https://www.highpoint.edu/admissions/visits/)
+* [Apply](https://www.highpoint.edu/admissions/apply/)
 
-* [Prospective Students](https://www.highpoint.edu/discoverhpu)
-* [Current Students](https://www.highpoint.edu/currentstudents)
-* [Parents & Families](https://engage.highpoint.edu/family)
-* [Alumni](https://engage.highpoint.edu/alumni)
+[Search](#)
 
-* [Give](http://www.highpoint.edu/give)
-* HPU Tools
-    * [Campus Concierge](https://www.highpoint.edu/concierge)
-    * [University Calendar](https://www.highpoint.edu/concierge/calendar-of-events)
-    * [IT Service Center](https://highpointuniversity.service-now.com/help?id=main)
-    * [HPU Libraries](https://www.highpoint.edu/library/)
-    * [Faculty and Staff Resources](https://www.highpoint.edu/concierge/faculty-and-staff-resources/)
-    * [Campus Enhancement Service Request](https://highpoint.us.accelix.com/login/)
-
-Search
-
-  [![high point university north carolina united states hpu masthead](https://www.highpoint.edu/wp-content/themes/hpu/assets/frontend/images/logos/high-point-university-header-high-point-nc.png)  ![high point university north carolina united states hpu masthead](https://www.highpoint.edu/wp-content/themes/hpu/assets/frontend/images/logos/high-point-university-dynamic-high-point-nc.png)](https://www.highpoint.edu/)
-
-* [Office of the President](http://www.highpoint.edu/president)
-* [News & Media](http://www.highpoint.edu/newsandmedia)
-
-[Request Info](https://discover.highpoint.edu/register/inquiry) [Tour](https://www.highpoint.edu/admissions/visits/) [Apply](https://www.highpoint.edu/admissions/apply/)
+* [Request Info](https://discover.highpoint.edu/register/inquiry)
+* [Tour](https://www.highpoint.edu/admissions/visits/)
+* [Apply](https://www.highpoint.edu/admissions/apply/)
 
 * [Admissions](#)
-    
-    [Undergraduate Admission All students receive an extraordinary education in an inspiring environment with caring people.](https://www.highpoint.edu/admissions/)
-    
-    [Graduate Admission Preparing professionals for the world as it is going to be.](https://www.highpoint.edu/graduate/admissions-information/)
-    
-    * [Undergraduate Admission](https://www.highpoint.edu/admissions/)
-    * [Graduate Admission](https://www.highpoint.edu/graduate/admissions-information/)
-    * [Tuitions & Fees](https://www.highpoint.edu/admissions/tuition-fees/)
-        * [admissions](https://www.highpoint.edu/admissions)
-    * [Financing Your Education](https://www.highpoint.edu/financialplanning/)
-    * [Transfer Student Admission](https://www.highpoint.edu/admissions/transfer-admissions/)
-    * [International Student Admission](https://www.highpoint.edu/admissions/international-students/)
-    * [Admitted Students](https://www.highpoint.edu/admissions/admitted-students/)
-    * [Find Your Counselor](https://www.highpoint.edu/admissions/find-your-counselor/)
-    * [Admissions FAQ](https://www.highpoint.edu/admissions/forstudents/)
-    * [Office of Student Accounts](https://www.highpoint.edu/studentaccounts/)
-    * [Admissions Events](https://www.highpoint.edu/events/)
-    * [Request More Information](https://discover.highpoint.edu/register/inquiry/)
-    
+    * [Undergraduate Admissions](#)
+        * [Office of Undergraduate Admissions](https://www.highpoint.edu/admissions/)
+        * [Undergraduate Tuition & Fees](https://www.highpoint.edu/admissions/tuition-fees/)
+        * [Find Your Counselor](https://www.highpoint.edu/admissions/find-your-counselor/)
+        * [Transfer Student Information](https://www.highpoint.edu/admissions/transfer-admissions/)
+    * [Graduate Admissions](#)
+        * [Office of Graduate Admissions](https://www.highpoint.edu/graduate/)
+        * [Graduate Tuition & Fees](https://www.highpoint.edu/graduate/fees/)
+    * [Scholarships & Grants](https://www.highpoint.edu/admissions/scholarships-and-grants/)
+    * [Make Your Deposit](https://www.highpoint.edu/admissions/admitted-students/)
+    * [Admissions Events
+        
+        Discover your next opportunity to see what High Point University has to offer. Talk with admissions counselors, explore programs, and immerse yourself in our vibrant campus.](https://www.highpoint.edu/events/)
+    * [Financing Your Education
+        
+        HPU is affordable. Whether you’re a student planning your future or a parent helping your child reach their goals, our Financial Planning Office is here to empower you with resources, tools, and extraordinary guidance.](https://www.highpoint.edu/financialplanning/)
 * [Academics](#)
-    
-    [Academic Programs HPU offers a multitude of support and accredited programs and experiential courses to provide the best education.](https://www.highpoint.edu/academics/)
-    
-    [Academic Services and Resources HPU has extraordinary services and resources that help guide you through your academic journey.](https://www.highpoint.edu/academicservices/)
-    
-    * [Academic Programs](https://www.highpoint.edu/academics/)
-    * [Academic Services and Resources](https://www.highpoint.edu/academicservices/)
-    * [Congdon School of Health Sciences](https://www.highpoint.edu/healthsciences/)
-    * [David R. Hayworth School of Arts and Design](https://www.highpoint.edu/arts-design/)
-    * [David S. Congdon School of Entrepreneurship](https://www.highpoint.edu/blog/2024/02/new-hpu-school-named-for-david-congdon/)
-    * [Douglas S. Witcher School of Humanities and Behavioral Sciences](https://www.highpoint.edu/humanities-behavioral-sciences/)
-    * [Earl N. Phillips School of Business](https://www.highpoint.edu/business/)
-    * [Fred Wilson School of Pharmacy](https://www.highpoint.edu/pharmacy/)
-    * [Nido R. Qubein School of Communication](https://www.highpoint.edu/communication/)
-    * [Norcross Graduate School](https://www.highpoint.edu/graduate/)
-    * [Kenneth F. Kahn School of Law](https://www.highpoint.edu/law/)
-    * [Teresa Caine School of Nursing](https://www.highpoint.edu/nursing/)
-    * [School of Optometry](https://www.highpoint.edu/blog/2023/01/hpu-welcomes-founding-dean-of-optometry-school/)
-    * [Stout School of Education](https://www.highpoint.edu/education/)
-    * [Wanek School of Natural Sciences](https://www.highpoint.edu/natural-sciences/)
-    * [Webb School of Engineering](https://www.highpoint.edu/engineering/)
-    * [Workman School of Dental Medicine](https://www.highpoint.edu/dental-medicine/)
+    * [Schools](#)
+        * [Congdon School of Health Sciences](https://www.highpoint.edu/healthsciences/)
+        * [David R. Hayworth School of Arts and Design](https://www.highpoint.edu/arts-design/)
+        * [Earl N. Phillips School of Business](https://www.highpoint.edu/business/)
+        * [Fred Wilson School of Pharmacy](https://www.highpoint.edu/pharmacy/)
+        * [Nido R. Qubein School of Communication](https://www.highpoint.edu/communication/)
+        * [Norcross Graduate School](https://www.highpoint.edu/graduate/)
+        * [School of Humanities and Behavioral Sciences](https://www.highpoint.edu/humanities-behavioral-sciences/)
+        * [Kenneth F. Kahn School of Law](https://www.highpoint.edu/law/)
+        * [School of Nursing](https://www.highpoint.edu/nursing/)
+        * [School of Optometry](https://www.highpoint.edu/optometry/)
+        * [Stout School of Education](https://www.highpoint.edu/education/)
+        * [Wanek School of Natural Sciences](https://www.highpoint.edu/natural-sciences/)
+        * [Webb School of Engineering](https://www.highpoint.edu/engineering/)
+        * [Workman School of Dental Medicine](https://www.highpoint.edu/dental-medicine/)
+    * [Academic Services](#)
+        * [Academic Advising](https://www.highpoint.edu/academicadvising/)
+        * [Academic Tutoring](https://www.highpoint.edu/academicservices/)
+        * [Office of Accessibility Resources](https://www.highpoint.edu/oars/)
+        * [Writing Center](https://www.highpoint.edu/english/writing-center/)
+    * [Student Services](#)
+        * [Office of Financial Planning](https://www.highpoint.edu/financialplanning/)
+        * [Office of Information Technology](https://www.highpoint.edu/oit/)
+        * [Office of the Registrar](https://www.highpoint.edu/registrar/)
+        * [Office of Student Accounts](https://www.highpoint.edu/studentaccounts/)
     * [HPU Libraries](https://www.highpoint.edu/library/)
-    
+    * [Majors and Minors
+        
+        Explore High Point University’s 73 undergraduate majors, 70 undergraduate minors, plus a series of graduate programs that are leading the way in academic innovation.](https://www.highpoint.edu/academics/)
+    * [Study Abroad
+        
+        Studying abroad offers a challenging experience that will take you outside of your comfort zone as you explore new cultures, ways of thinking, methods of learning, lifestyles, and relationships. See where HPU can take you!](https://www.highpoint.edu/global/)
 * [Campus Life](#)
-    
-    [Housing & Residence Life High Point University offers a variety of housing options ranging from apartment style single rooms to double occupancy shared facilities for both upperclassmen and incoming first year students.](https://www.highpoint.edu/residencelife/)
-    
-    [Student Life We are committed to providing services that will strive to provide supportive aspects that will enhance the overall holistic student experience.](https://www.highpoint.edu/studentlife/)
-    
-    * [Housing & Residence Life](https://www.highpoint.edu/residencelife/)
-    * [Student Life](https://www.highpoint.edu/studentlife/)
-    * [Campus Police and Security](https://www.highpoint.edu/campus-police/)
-    * [Career & Professional Development](https://www.highpoint.edu/careerinternships/)
+    * [Life on Campus](#)
+        * [Campus Activities](https://www.highpoint.edu/studentactivities/)
+        * [Clubs & Organizations](https://www.highpoint.edu/diversity/clubs/)
+        * [Club Sports](https://www.highpoint.edu/club-sports/)
+        * [Fraternity and Sorority Life](https://www.highpoint.edu/ofsl/)
+        * [Student Government](https://www.highpoint.edu/sga/)
+        * [Multicultural Affairs](https://www.highpoint.edu/diversity/)
+        * [Religious Life](https://www.highpoint.edu/religiouslife/)
+    * [Safety on Campus](#)
+        * [Campus Police & Security](https://www.highpoint.edu/campus-police/)
+        * [Safety & Emergency Preparedness](https://www.highpoint.edu/safety/)
+        * [Title IX Services](https://www.highpoint.edu/title-ix/)
+    * [Campus Concierge](https://www.highpoint.edu/concierge/)
+    * [Campus Enhancement Request](https://highpoint.us.accelix.com/login/)
     * [Counseling Services](https://www.highpoint.edu/counseling/)
+    * [Dining](https://www.highpoint.edu/dining.highpoint.edu/)
+    * [Performing & Visual Arts](https://www.highpoint.edu/arts-design/eventcalendar/)
+    * [Transportation & Parking](https://www.highpoint.edu/transportation/)
+    * [Housing & Residence Life
+        
+        High Point University offers a variety of housing options ranging from apartment style single rooms, double occupancy shared facilities and tiny homes (for both upperclassmen and incoming first year students.)](https://www.highpoint.edu/residencelife/)
+    * [Student Life
+        
+        HPU understands that the college experience should be more than just time spent in the classroom. It’s a time for students to find their home away from home, make lifelong friends and memories, and grow.](https://www.highpoint.edu/studentlife/)
+* [Athletics](#)
+    * [Recreational Services](https://www.highpoint.edu/recreationservices/)
+    * [Personal Training](https://www.highpoint.edu/recreationservices/personal-training/)
+    * [Intramural Sports](https://www.highpoint.edu/www.imleagues.com/spa/intramural/30c3ef6072b746c393f991c1c6b5cc49/home/)
     * [Club Sports](https://www.highpoint.edu/club-sports/)
-    * [Dining](https://dining.highpoint.edu/)
-    * [Fraternity and Sorority Life](https://www.highpoint.edu/ofsl/)
-    * [Information Technology](https://www.highpoint.edu/oit/)
-    * [International Students](https://www.highpoint.edu/global/international-students/)
-    * [Diversity & Multicultural Affairs](https://www.highpoint.edu/diversity/)
-    * [Performing and Visual Arts](https://www.highpoint.edu/arts-design/eventcalendar/)
-    * [Religious Life](https://www.highpoint.edu/religiouslife/)
-    * [Safety and Protection Technology](https://www.highpoint.edu/safety/)
-    * [Student Engagement](https://www.highpoint.edu/studentactivities/)
-    * [Transportation and Parking](https://www.highpoint.edu/transportation/)
-    
-* [Athletics](https://www.highpoint.edu/athletics/)
+    * [Division I Athletics
+        
+        We may not have a football team, but our Division I Athletics make up for it. Students can attend games and competitions for sports ranging from basketball to lacrosse to rowing.](https://www.highpoint.edu/www.highpointpanthers.com/)
+    * [Outdoor Discovery
+        
+        HPU Outdoor Discovery aims to provide complimentary activities and venture trips that are designed to present every student with new experiences that will build friendships that could last a lifetime.](https://www.highpoint.edu/recreationservices/hpu-outdoor-discovery/)
 * [About HPU](#)
-    
-    [Discover HPU Learn why HPU is ranked #1 Most Innovative and Best Regional Colleges South.](https://www.highpoint.edu/discoverhpu/)
-    
-    [Innovators Gain access to Steve Wozniak, Cynt Marshall, John Maxwell and more innovators and global leaders.](https://www.highpoint.edu/accesstoinnovators/)
-    
-    * [Discover HPU](https://www.highpoint.edu/discoverhpu/)
-    * [Innovators](https://www.highpoint.edu/accesstoinnovators/)
-    * [University History](https://www.highpoint.edu/visitorinformation/history-of-the-university/)
-    * [Community Impact](https://www.highpoint.edu/community/)
-    * [Gardens](https://www.highpoint.edu/gardens/)
-    * [Mobile Apps](https://www.highpoint.edu/mobile-apps/)
-    * [National Board of Advisors](https://www.highpoint.edu/nationalboard/)
+    * [Why HPU](#)
+        * [Discover HPU](https://www.highpoint.edu/discoverhpu/)
+        * [Access to Innovators](https://www.highpoint.edu/accesstoinnovators/)
+        * [Fellowships & Awards](https://www.highpoint.edu/fellowshipsawards/)
+        * [Community Impact](https://www.highpoint.edu/community/impact/)
+        * [National Board of Advisors](https://www.highpoint.edu/nationalboard/)
+    * [Visitor Information](#)
+        * [Campus Map](https://www.highpoint.edu/campusmap/)
+        * [Arboretum & Botanical Gardens](https://www.highpoint.edu/gardens/)
+        * [Gardens Tour](https://www.highpoint.edu/community/garden-tours/)
+        * [Schedule a Tour](https://www.highpoint.edu/admissions/visits/)
+    * [University History](https://www.highpoint.edu/library/high-point-university-centennial/)
     * [Employment Opportunities](https://www.highpoint.edu/human-resources/)
-    * [Fellowships and Awards](https://www.highpoint.edu/fellowshipsawards/)
-    * [News and Media](https://www.highpoint.edu/newsandmedia/)
-    * [University Bookstore](https://highpoint.bncollege.com/shop/highpoint/home)
-    * [Visitor Information](https://www.highpoint.edu/visitorinformation/)
-    * [Discover More](https://www.highpoint.edu/discoverhpu/)
-    * [Study Abroad](https://www.highpoint.edu/global/)
-    
+    * [Office of the President
+        
+        Learn more about how HPU President, Dr. Nido Qubein, has transformed High Point University enrollment, campus acreage, faculty and more since 2005.](https://www.highpoint.edu/president/)
+    * [News & Media
+        
+        Get inspired and stay engaged with success stories, academic achievements, groundbreaking research, and so much more.](https://www.highpoint.edu/newsandmedia/)
 
-In High Point University
+* [Prospective Students](https://www.highpoint.edu/discoverhpu/)
+* [Current Students](https://www.highpoint.edu/currentstudents/)
+* [Parents & Families](https://engage.highpoint.edu/family/)
+* [Alumni](https://engage.highpoint.edu/alumni/)
+* [Employee Resources](https://www.highpoint.edu/concierge/faculty-and-staff-resources/)
 
-[High Point University](https://www.highpoint.edu/ "Go to High Point University.") > Privacy Policy
-
-Site Menu
+* [Back to Home](https://www.highpoint.edu/)
 
 Privacy Policy
 ==============
 
-In High Point University
-
-[Back to Homepage](https://www.highpoint.edu/)
+[High Point University](https://www.highpoint.edu/ "Go to High Point University.") > Privacy Policy
 
 **High Point University Website Privacy Policy ([download pdf](http://www.highpoint.edu/media/home/High-Point-University-Website-Privacy-Policy-FINAL-11-10-20.pdf))** 
 
