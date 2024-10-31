@@ -123,9 +123,9 @@
             
             Solution Brief
             
-            ##### LevelBlue Managed Threat Detection and Response for Government
+            ##### LevelBlue Managed Detection and Response
             
-            [Learn more](https://cyber.levelblue.com/m/5602dd156749d021/original/SB-MTDR-for-Gov.pdf)
+            [Learn more](https://cyber.levelblue.com/m/740b863bacd986b2/original/SB-Managed-Detection-Response.pdf)
             
             [View all Solution Briefs](https://www.alienvault.com/resource-center#content_solution-brief)
             
