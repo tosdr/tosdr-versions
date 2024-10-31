@@ -117,56 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=63951494)  
-Qothiphango Mining
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=546dd2a5b0e6469358898f207518e0e0e818fa0a7d503fe63245ebb9cac12a79&c=2880440)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=66825403)  
-Baby Toddles Infant Care
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=546dd2a5b0e6469358898f207518e0e0e818fa0a7d503fe63245ebb9cac12a79&c=189580690)  
+MONSTER CONNECT (PTY) LTD
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=82179630)  
-Adele Jordaan T/A Joyful Noise Music Room
-
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=76362851)  
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=546dd2a5b0e6469358898f207518e0e0e818fa0a7d503fe63245ebb9cac12a79&c=37495223)  
 SMART GUY PCS (PTY) LTD
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=38967686)  
-FJW Security Cc
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=546dd2a5b0e6469358898f207518e0e0e818fa0a7d503fe63245ebb9cac12a79&c=27878029)  
+Goju Ryu Karate Centre
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=19431388)  
-Network Grey (Pty) Ltd
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=546dd2a5b0e6469358898f207518e0e0e818fa0a7d503fe63245ebb9cac12a79&c=138349454)  
+Dombieterfontein (PTY) LTD
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=114794429)  
-VerdanTech Pty Ltd
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=546dd2a5b0e6469358898f207518e0e0e818fa0a7d503fe63245ebb9cac12a79&c=66802965)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=166961793)  
-Lemba Truck Stop
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=546dd2a5b0e6469358898f207518e0e0e818fa0a7d503fe63245ebb9cac12a79&c=30593005)  
+PROGRAPHIX PTY LTD
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=89935862)  
-Printo
-
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=66412234)  
-Mtunzini Group
-
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=1966135)  
-MONSTER SECURITY GUARDING
-
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=130188851)  
-
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=194209082)  
-All Trucking Solutions
-
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=191725898)  
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=546dd2a5b0e6469358898f207518e0e0e818fa0a7d503fe63245ebb9cac12a79&c=125906108)  
 Myfinance-Online
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=70746976)  
-Nogana Events and Decor
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=546dd2a5b0e6469358898f207518e0e0e818fa0a7d503fe63245ebb9cac12a79&c=74365786)  
+AFS Electrical
+
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=546dd2a5b0e6469358898f207518e0e0e818fa0a7d503fe63245ebb9cac12a79&c=165124709)  
+High Point Marketing CC t/a Leads For Africa
+
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=546dd2a5b0e6469358898f207518e0e0e818fa0a7d503fe63245ebb9cac12a79&c=94138530)  
+Immediate Health (pty)ltd
+
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=546dd2a5b0e6469358898f207518e0e0e818fa0a7d503fe63245ebb9cac12a79&c=98721930)  
+Lily Fern & Co
+
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=546dd2a5b0e6469358898f207518e0e0e818fa0a7d503fe63245ebb9cac12a79&c=178602134)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=546dd2a5b0e6469358898f207518e0e0e818fa0a7d503fe63245ebb9cac12a79&c=203751340)  
+MONSTER SECURITY SERVICES
+
+![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=546dd2a5b0e6469358898f207518e0e0e818fa0a7d503fe63245ebb9cac12a79&c=44868737)  
+UniTech Solutions Pty Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
