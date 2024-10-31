@@ -1,4 +1,4 @@
-[![FAKKU!](/static/wordmark.svg)](https://www.fakku.net/)
+[](https://www.fakku.net/ "Fakku!")
 
 [New Releases](https://www.fakku.net/hentai "Newly Released Hentai Manga")
 
@@ -130,8 +130,6 @@ FAKKU, LLC.
 PO Box 9009  
 Portland, OR 97207  
 United States
-
- 
 
 [](https://x.com/fakku "FAKKU X (formerly known as Twitter)")[](https://discord.gg/SCjbSWkMHB "FAKKU Discord")
 
