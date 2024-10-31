@@ -5,7 +5,7 @@ EIS Cookie Policy
 
 _For legal purposes, only the English language version of the [Cookie Policy](https://www.ebsco.com/cookie-policy)_ _is binding. Non-english versions are translated from the English language version for your convenience._
 
-LAST UPDATED: January 1, 2020
+LAST UPDATED: October 31, 2024
 
 This EIS Cookie Policy (“Cookie Policy”) describes how cookies and other similar technologies are used when you access or use EBSCO Information Services’ software, mobile applications, and other products or services (collectively, “Services”), as well as our marketing and general audience websites (collectively, the “Websites”), and how you can control these technologies.
 
@@ -30,14 +30,12 @@ We use the following four general categories of cookies:
 * Strictly Necessary
 * Performance
 * Functionality
-* Targeting
 
 We routinely use the strictly necessary, performance, and functionality categories of cookies with our Services. You can learn more about each cookie category below.
 
 1. **Strictly Necessary Cookies**. These cookies are essential, as they enable you to move around and use the features of our Services, such as accessing logged in or secure areas. We also use these cookies to authenticate users and help identify and prevent security risks. Because these cookies are essential, they cannot be disabled.
 2. **Performance Cookies**. These cookies collect information about how you interact with our Services. We also use these cookies to track aggregate usage of our Services in an anonymized fashion and experiment with new features and changes to the Services. The information collected is used to improve how the Services work.
 3. **Functionality Cookies**. These cookies allow us to remember your settings and preferences, how you logged in, when you logged in or out, and the state or history of the Services you’ve used. These cookies also allow us to tailor the Services to provide enhanced features and content for you and to remember how you’ve customized the Services in other ways.
-4. **Targeting Cookies**. These cookies are used to deliver advertising that is relevant to your interests. These cookies can remember that your device has accessed our Services and may also be able to track your device’s browsing activity on websites or services other than ours. This information may be shared with organizations outside of EBSCO Information Services’, such as advertisers and/or advertising networks.
 
 We currently do not use targeting cookies with the Services. If we do start using targeting cookies, we will add more information here.
 
