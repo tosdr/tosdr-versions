@@ -1008,10 +1008,7 @@ Last updated: May 6, 2024
     * [Open Data](https://www.gsa.gov/governmentwide-initiatives/open-data-at-gsa?footer=gsa)
     * [Emergency response](https://www.gsa.gov/governmentwide-initiatives/emergency-response?footer=GSA)
     
-* [Customer Support](https://www.gsa.gov/customer-support?footer=gsa)
-    
-    * [Contact Us](https://www.gsa.gov/about-us/contact-us?footer=gsa)
-    * [Vendor Support Center](https://vsc.gsa.gov/vsc/?footer=gsa)
+* [Contact us](https://www.gsa.gov/about-us/contact-us?footer=gsa)
     
 * [Organization](https://www.gsa.gov/about-us/organization?footer=gsa)
     
