@@ -155,7 +155,7 @@ Footer links
 ### Quick links
 
 * [Accessibility](https://accessible.wisc.edu/)
-* [Diversity, Equity & Inclusion](https://diversity.wisc.edu/)
+* [Inclusive Excellence](https://diversity.wisc.edu/)
 * [Free Expression](https://free-expression.wisc.edu/)
 * [Governance](https://www.wisc.edu/governance/)
 * [Policies](https://policy.wisc.edu/)
