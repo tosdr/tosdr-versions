@@ -162,11 +162,11 @@
 
 [Log in](https://webflow.com/dashboard/login)[Contact sales](https://webflow.com/contact-sales)[Get started — it's free](https://webflow.com/dashboard/signup)
 
-![](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb22234476ba4209b3b_66391d9a71c12ac3525ae540_sign-in-designer.webp)![](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb22234476ba4209b62_66391d9d71c12ac3525aea59_sign-in-designer-mobile.webp)
+![](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/672390226be2060749005f54_April%202024.avif)![](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/672390246be2060749006061_April%202024-1.avif)
 
 Trusted by teams at
 
-![Ideo](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb22234476ba4209c2c_ideo.svg)![Monday.com](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb22234476ba4209c7a_monday.com.svg)![BBDO](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb22234476ba4209cc2_bbdo.svg)![The New York Times](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb32234476ba4209ce7_nytimes.svg)![Ted](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb32234476ba4209cef_TED.svg)![Philips](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb32234476ba4209cf9_philips.svg)
+![Ideo](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/672390266be2060749006212_ideo-logo.svg)![Monday.com](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb22234476ba4209c7a_monday.com.svg)![BBDO](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/672390266be206074900621d_bbdo-logo.svg)![The New York Times](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb32234476ba4209ce7_nytimes.svg)![Ted](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb32234476ba4209cef_TED.svg)![Philips](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/66bd4eb32234476ba4209cf9_philips.svg)
 
 Menu
 
