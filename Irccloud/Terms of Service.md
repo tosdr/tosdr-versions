@@ -225,7 +225,7 @@ Archived versions of our terms and policies are available at [/legal-archives](h
 
 [API](https://github.com/irccloud/irccloud-tools/wiki/API-Overview) [About](https://www.irccloud.com/about) [Blog](https://blog.irccloud.com/) [Pricing](https://www.irccloud.com/pricing) [Changelog](https://www.irccloud.com/changelog) [FAQ](https://www.irccloud.com/faq) [Jobs](https://www.irccloud.com/jobs)  
 [Terms of Service](https://www.irccloud.com/terms) [Privacy Policy](https://www.irccloud.com/privacy) [IP Addresses](https://www.irccloud.com/networks) [Report Abuse](https://www.irccloud.com/abuse)  
-[@irccloud](https://twitter.com/irccloud) [team@irccloud.com](mailto:team@irccloud.com)  
+[@irccloud](https://x.com/irccloud) [Bluesky](https://bsky.app/profile/irccloud.com) [team@irccloud.com](mailto:team@irccloud.com)  
 Apps:  [iOS](https://itunes.apple.com/app/irccloud/id672699103)  [Android](https://play.google.com/store/apps/details?id=com.irccloud.android)
 
 © 2024 IRCCloud Ltd.
