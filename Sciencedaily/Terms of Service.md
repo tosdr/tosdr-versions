@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 30, 2024**
+**October 31, 2024**
 
 * * *
 
@@ -253,7 +253,7 @@ this week
 
 [Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
 
-[Wounds and Healing](https://www.sciencedaily.com/news/health_medicine/wounds_and_healing/)
+[Infectious Diseases](https://www.sciencedaily.com/news/health_medicine/infectious_diseases/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -267,7 +267,7 @@ this week
 
 [Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
-[Mice](https://www.sciencedaily.com/news/plants_animals/mice/)
+[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
 
 [Evolutionary Biology](https://www.sciencedaily.com/news/plants_animals/evolution/)
 
