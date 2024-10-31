@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/ff696224-563e-4e26-b354-953aa54d4015/ff696224-563e-4e26-b354-953aa54d4015_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ff696224-563e-4e26-b354-953aa54d4015/ff696224-563e-4e26-b354-953aa54d4015_360x203.jpg)](https://www.king5.com/article/news/local/seattle/aclu-sues-seattle-city-attorney/281-f4b753e7-b46e-4b40-9813-c6de48e1e606)
+    *  [![](https://media.king5.com/assets/KING/images/74b63790-c9f3-4aaf-965c-650204026234/20241031T015256/74b63790-c9f3-4aaf-965c-650204026234_16x9.jpg) ![](https://media.king5.com/assets/KING/images/74b63790-c9f3-4aaf-965c-650204026234/20241031T015256/74b63790-c9f3-4aaf-965c-650204026234_360x203.jpg)](https://www.king5.com/article/news/local/football-players-injuries-lawsuit-against-peninsula-school-district/281-cbcf2eea-7663-4b0d-b124-107ea1cd0c5e)
         
-        #### [ACLU sues Seattle City Attorney over 'misuse of prosecutorial power'](https://www.king5.com/article/news/local/seattle/aclu-sues-seattle-city-attorney/281-f4b753e7-b46e-4b40-9813-c6de48e1e606)
+        #### [Federal lawsuit filed against Peninsula School District after 'violent' tackle that injured high school football player](https://www.king5.com/article/news/local/football-players-injuries-lawsuit-against-peninsula-school-district/281-cbcf2eea-7663-4b0d-b124-107ea1cd0c5e)
         
-    *  [![](https://media.king5.com/assets/KING/images/8fad765f-798a-4cb9-94b2-768b91324a55/20241030T195702/8fad765f-798a-4cb9-94b2-768b91324a55_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8fad765f-798a-4cb9-94b2-768b91324a55/20241030T195702/8fad765f-798a-4cb9-94b2-768b91324a55_360x203.jpg)](https://www.king5.com/article/news/crime/belltown-hellcat-driver-arrested-renton-warrant/281-518ab32f-4de1-4702-ac0d-31bf2a9e79fd)
+    *  [![](https://media.king5.com/assets/KING/images/67f830f3-b6e9-4210-8c83-b84af7644ec9/20241031T010746/67f830f3-b6e9-4210-8c83-b84af7644ec9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/67f830f3-b6e9-4210-8c83-b84af7644ec9/20241031T010746/67f830f3-b6e9-4210-8c83-b84af7644ec9_360x203.jpg)](https://www.king5.com/article/news/local/king-county-sheriffs-deputies-good-samaritans-save-man-burning-car/281-fd102767-fb7f-4e01-bcb2-8f628c583976)
         
-        #### ['Belltown Hellcat' driver arrested on $50,000 Renton warrant](https://www.king5.com/article/news/crime/belltown-hellcat-driver-arrested-renton-warrant/281-518ab32f-4de1-4702-ac0d-31bf2a9e79fd)
+        #### [King County Sheriff's Office deputies and good Samaritans save man from burning car](https://www.king5.com/article/news/local/king-county-sheriffs-deputies-good-samaritans-save-man-burning-car/281-fd102767-fb7f-4e01-bcb2-8f628c583976)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/ad57601c-8a76-45b4-81ef-b618275cd21b/20241030T192617/ad57601c-8a76-45b4-81ef-b618275cd21b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ad57601c-8a76-45b4-81ef-b618275cd21b/20241030T192617/ad57601c-8a76-45b4-81ef-b618275cd21b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KGW/images/a137bea9-194c-437e-ac54-4a06044d4ace/20241030T205046/a137bea9-194c-437e-ac54-4a06044d4ace_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/a137bea9-194c-437e-ac54-4a06044d4ace/20241030T205046/a137bea9-194c-437e-ac54-4a06044d4ace_360x203.jpg)](https://www.king5.com/article/weather/earthquakes/earthquake-oregon-coast/283-bc014fc5-c8be-4506-a955-37c8357cbe45)
+        
+        #### [3rd largest earthquake reported off Oregon Coast in past 10 years](https://www.king5.com/article/weather/earthquakes/earthquake-oregon-coast/283-bc014fc5-c8be-4506-a955-37c8357cbe45)
+        
+    *  [![](https://media.king5.com/assets/KING/images/9f9cb571-79e6-47ed-ae39-ca62ab1189f8/20241031T002746/9f9cb571-79e6-47ed-ae39-ca62ab1189f8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9f9cb571-79e6-47ed-ae39-ca62ab1189f8/20241031T002746/9f9cb571-79e6-47ed-ae39-ca62ab1189f8_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KENS/images/c7ac5c7a-b987-4f2b-80ae-f409ec7f8579/20241029T205308/c7ac5c7a-b987-4f2b-80ae-f409ec7f8579_16x9.jpg) ![](https://media.king5.com/assets/KENS/images/c7ac5c7a-b987-4f2b-80ae-f409ec7f8579/20241029T205308/c7ac5c7a-b987-4f2b-80ae-f409ec7f8579_360x203.jpg)](https://www.king5.com/article/weather/weather-on-halloween-2024-weatern-washington/281-29407c7a-b3d5-44e4-a84e-5caf85dfc6b5)
-        
-        #### [Latest forecast shows weather on Halloween could be mostly good for trick-or-treaters](https://www.king5.com/article/weather/weather-on-halloween-2024-weatern-washington/281-29407c7a-b3d5-44e4-a84e-5caf85dfc6b5)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-50°
+48°
 
 ![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
