@@ -376,15 +376,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Sorting Hat took 5 and a half minutes to figure out whether to put Minerva McGonagall in Gryffindor or Ravenclaw.
+A picture of Gandalf the Grey (from The Lord of the Rings) can be seen in the collection of great wizards in Albus Dumbledore’s study in the Harry Potter and the Chamber of Secrets film.
 
 ### Potter History
 
-November 23, 2004 – Harry Potter and the Prisoner of Azkaban DVD is released in the United States.
+March 27, 2006 – Harry Potter and the Goblet of Fire becomes the fastest selling DVD ever in the United Kingdom. It was estimated that, in the first six days after its release, three copies were sold every second.
 
 ### Potter Quote
 
-“Grindelwald doesn’t seem to understand the nature of things he considers simple.”
+“Harry — yer a wizard.”
 
 [](#)
 
