@@ -269,14 +269,14 @@ Loading...
 * [Login](https://teespring.com/login)
 * [Start creating](https://teespring.com/signup?cta=start_designing)
 * [How it works](https://www.spri.ng/#howitworks)
-* [FAQ](https://www.spri.ng/spring-faqs)
+* [FAQ](https://www.spri.ng/spring-faqs/)
 
 * Community
 * [Creator Resources](https://spring4creators.zendesk.com/hc/en-us)
 * [Blog](https://www.spri.ng/blog)
 
 * Company
-* [About us](https://www.spri.ng/about-spring)
+* [About us](https://www.spri.ng/about-spring/)
 * [Contact us](https://spring4creators.zendesk.com/hc/en-us/requests/new)
 * [Jobs](https://jobs.lever.co/amaze)
 
