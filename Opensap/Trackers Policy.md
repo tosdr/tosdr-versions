@@ -43,7 +43,7 @@ Ask your questions about your digital learning journeys, prepare successfully f
 
 [Join here](https://community.sap.com/t5/sap-learning/gh-p/learning)
 
-![](/_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt4e79a2501da5d16b%2Fbltcc07306557919143%2F659d822ce86979040a7b604e%2F298119_SAP_Learning_Group.jpg%3Fheight%3D600&w=3840&q=75)
+![Smiling coworkers looking at computer while working in office - stock photo](/_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt4e79a2501da5d16b%2Fbltef26447188e48f37%2F672379c036b52a14c9555824%2F298119_16_9.jpg%3Fheight%3D600&w=3840&q=75)
 
 [![SAP Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Visit home page")
 
