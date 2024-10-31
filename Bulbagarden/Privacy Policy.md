@@ -96,7 +96,7 @@ Menu
 
    
 
-Ho! Happy Hala-ween! If you may, please read a [Message from Hala](https://bulbapedia.bulbagarden.net/wiki/Main_Page "Main Page"). Much thanks!
+Ho! Happy Hala-ween! If you may, please read a Message from Hala. Much thanks!
 
 Bulbapedia:Privacy policy
 =========================
