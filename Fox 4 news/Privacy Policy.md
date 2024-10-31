@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Rabid bat found in Plano](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/09/32/18/GettyImages-1204227869.jpg?ve=1&tl=1)
+ [![Federal government offering grants to U.S. businesses in effort to reshore manufacturing](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-boyer-cornyn-texas-technology-investments_00.00.46.26.jpg?ve=1&tl=1)
 
- ![Rabid bat found in Plano](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/09/32/18/592/333/GettyImages-1204227869.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/rabid-bat-found-plano)
+ ![Federal government offering grants to U.S. businesses in effort to reshore manufacturing](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-boyer-cornyn-texas-technology-investments_00.00.46.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/federal-government-offering-grants-u-s-businesses-effort-reshore-manufacturing)
 
-### [Rabid bat found in Plano](https://www.fox4news.com/news/rabid-bat-found-plano)
+### [Federal government offering grants to U.S. businesses in effort to reshore manufacturing](https://www.fox4news.com/news/federal-government-offering-grants-u-s-businesses-effort-reshore-manufacturing)
 
- [![No Democrat has won a statewide office in Texas since 1994](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/08/32/18/GettyImages-1354285743.jpg?ve=1&tl=1)
+ [![Woman jumped into Niagara Falls with 2 kids, police say](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2179264504.jpg?ve=1&tl=1)
 
- ![No Democrat has won a statewide office in Texas since 1994](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/08/32/18/592/333/GettyImages-1354285743.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/texas-democrat-statewide-senate-president)
+ ![Woman jumped into Niagara Falls with 2 kids, police say](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2179264504.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/niagara-falls-mother-children-tragedy)
 
-### [No Democrat has won a statewide office in Texas since 1994](https://www.fox4news.com/election/texas-democrat-statewide-senate-president)
+### [Woman jumped into Niagara Falls with 2 kids, police say](https://www.fox4news.com/news/niagara-falls-mother-children-tragedy)
 
- [![Asheville students return to school one month after Helene devastated city](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2175025288-a.jpg?ve=1&tl=1)
+ [![Trackdown: Help find the Fort Worth Dutch Bros armed robber](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-rabb-trackdown-dutch-bros-robbery-530p_00.00.41.16.jpg?ve=1&tl=1)
 
- ![Asheville students return to school one month after Helene devastated city](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2175025288-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/asheville-students-return-school-one-month-after-helene-devastated-city)
+ ![Trackdown: Help find the Fort Worth Dutch Bros armed robber](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-rabb-trackdown-dutch-bros-robbery-530p_00.00.41.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dutch-bros-coffee-shop-robbery-west-billy-boswell-old-decatur-road-october-25)
 
-### [Asheville students return to school one month after Helene devastated city](https://www.fox4news.com/weather/asheville-students-return-school-one-month-after-helene-devastated-city)
+### [Trackdown: Help find the Fort Worth Dutch Bros armed robber](https://www.fox4news.com/news/dutch-bros-coffee-shop-robbery-west-billy-boswell-old-decatur-road-october-25)
 
- [![CEO makes bold prediction on housing market as trend signals positive outlook](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/home-on-the-market.jpg?ve=1&tl=1)
+ [![Starbucks will stop charging extra for non-dairy milk substitutes](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/starbucks-milk.jpg?ve=1&tl=1)
 
- ![CEO makes bold prediction on housing market as trend signals positive outlook](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/home-on-the-market.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ceo-prediction-housing-market-outlook)
+ ![Starbucks will stop charging extra for non-dairy milk substitutes](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/starbucks-milk.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/starbucks-will-stop-charging-extra-non-dairy-milk-substitutes-2024)
 
-### [CEO makes bold prediction on housing market as trend signals positive outlook](https://www.fox4news.com/news/ceo-prediction-housing-market-outlook)
+### [Starbucks will stop charging extra for non-dairy milk substitutes](https://www.fox4news.com/news/starbucks-will-stop-charging-extra-non-dairy-milk-substitutes-2024)
 
- [![18-year-olds sentenced for robbing USPS workers across DFW](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/P-AMELIA-USPS-LETTER-CARRIER-ROBBERY-PLEAS-9P_00.00.07.40.jpg?ve=1&tl=1)
+ [![Crystal Mason's Tarrant County illegal voting case moves to state's highest criminal court](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/kst-crystal-mason-pkg_kdfwf2b4_186_mp4_00.00.07.16.jpg?ve=1&tl=1)
 
- ![18-year-olds sentenced for robbing USPS workers across DFW](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/P-AMELIA-USPS-LETTER-CARRIER-ROBBERY-PLEAS-9P_00.00.07.40.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/18-year-olds-sentenced-robbing-usps-workers-across-dfw)
+ ![Crystal Mason's Tarrant County illegal voting case moves to state's highest criminal court](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/kst-crystal-mason-pkg_kdfwf2b4_186_mp4_00.00.07.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/crystal-mason-tarrant-county-illegal-voting-case-aquittal)
 
-### [18-year-olds sentenced for robbing USPS workers across DFW](https://www.fox4news.com/news/18-year-olds-sentenced-robbing-usps-workers-across-dfw)
+### [Crystal Mason's Tarrant County illegal voting case moves to state's highest criminal court](https://www.fox4news.com/news/crystal-mason-tarrant-county-illegal-voting-case-aquittal)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
