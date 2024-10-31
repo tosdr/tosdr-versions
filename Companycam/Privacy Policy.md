@@ -58,7 +58,7 @@ Submit
             Using a trusted model.
             
     
-    * [Popular Trades](#)
+    * [Popular Trades](#) [Explore All Trades](https://companycam.com/industries)
         * ![](//companycam.imgix.net/images/global-nav/general-contractor.svg)
             
             [General Contractor](https://companycam.com/industries/general)
@@ -83,7 +83,6 @@ Submit
             
             [Solar](https://companycam.com/industries/solar)
             
-    [Explore All Trades](https://companycam.com/industries)
     
     ### Sign up for a demo.
     
@@ -101,7 +100,7 @@ Submit
     
 * [Features](#)
     
-    * [Core Features](#)
+    * [Core Features](#) [Explore All Core Features](https://companycam.com/features)
         * ![](//companycam.imgix.net/images/global-nav/photo-video-capture.svg)
             
             [Photo and Video Capture](https://companycam.com/features/photo-and-video-capture)
@@ -138,15 +137,52 @@ Submit
             
             Scroll through recent updates.
             
+        * ![](//companycam.imgix.net/images/global-nav/pages.svg)
+            
+            [Pages](https://companycam.com/features/pages)
+            
+            Collaborate in a digital notebook.
+            
         * ![](//companycam.imgix.net/images/global-nav/integrations.svg)
             
             [Integrations](https://companycam.com/integrations)
             
             Connect with your other software.
             
-    [Explore Core Features](https://companycam.com/features)
     
-    * [Top Integrations](https://companycam.com/integrations)
+    * [Advanced Features](#) [Explore All Advanced Features](https://companycam.com/advanced-features)
+        * ![](//companycam.imgix.net/images/global-nav/photo-video-capture.svg)
+            
+            [Document the Job Site](https://companycam.com/advanced-features#document-job-site)
+            
+            And keep everyone on the same page.
+            
+        * ![](//companycam.imgix.net/images/global-nav/galleries-timelines.svg)
+            
+            [Track Job Progress](https://companycam.com/advanced-features/#track-job-progress)
+            
+            From anywhere on any device.
+            
+        * ![](//companycam.imgix.net/images/global-nav/annotations.svg)
+            
+            [Share Updates](https://companycam.com/advanced-features/#share-updates)
+            
+            To keep customers and subs in the loop.
+            
+        * ![](//companycam.imgix.net/images/global-nav/in-app.svg)
+            
+            [Build Team Workflows](https://companycam.com/advanced-features#build-workflow)
+            
+            And standardize all your work.
+            
+        * ![](//companycam.imgix.net/images/global-nav/tags-labels.svg)
+            
+            [Generate AI Reports](https://companycam.com/ai-features)
+            
+            With a suite of AI actions.
+            
+    
+    [Top Integrations](https://companycam.com/integrations) [Explore All Integrations](https://companycam.com/integrations)
     
     * ![](https://companycam.imgix.net/images/global-nav/AcculynxNavIcon.png)
         
@@ -173,27 +209,15 @@ Submit
         [Roofr](https://companycam.com/integrations/roofr)
         
     
-    [Explore All Integrations](https://companycam.com/integrations)
+    NEW
     
-    * [Advanced Features](#)
-    
-    ![Project Template example](https://companycam.imgix.net/images/global-nav/project-templates-min.png?auto=format&w=280)
-    
-    [Project Templates](https://companycam.com/project-templates)
-    
-    Preload new projects with everything your crews need.
-    
-    [Explore Project Templates](https://companycam.com/features/project-templates)
-    
-    ### Feature Highlight
+    ### Build Pages with AI
     
     AI Tools
     
-    Type less and get more done with instant notes and descriptions.
+    Use AI-powered actions to generate shareable overview docs, organized notes, photo reports, summaries, and more.
     
-    [Explore AI](https://companycam.com/features/ai)
-    
-    ![](https://companycam.imgix.net/images/global-nav/FeatureHighlightsAI.png?auto=format&w=400)
+    [Explore AI Actions](https://companycam.com/features/pages#ai-actions)
     
     * ![schedule icon](https://companycam.imgix.net/images/global-nav/schedule.svg)
         
@@ -254,15 +278,15 @@ Submit
     * [Watch](#)
         * [Classes](https://companycam.com/classes)
             
-            Become a CompanyCam expert. 
+            Become a CompanyCam expert.
             
         * [Mini-Series](https://companycam.com/mini-series)
             
-            Level up your business know-how. 
+            Level up your business know-how.
             
         * [Webinars](https://companycam.com/webinars)
             
-            Learn from industry experts. 
+            Learn from industry experts.
             
     * [Read](#)
         * [Blog](https://companycam.com/blog)
@@ -271,7 +295,7 @@ Submit
             
         * [Case Studies](https://companycam.com/case-studies)
             
-            Browse real stories from real customers. 
+            Browse real stories from real customers.
             
         * [User Guides](https://companycam.com/user-guides)
             
@@ -354,7 +378,7 @@ Menu
             Using a trusted model.
             
     
-    * [Popular Trades](#)
+    * [Popular Trades](#) [Explore All Trades](https://companycam.com/industries)
         * ![](//companycam.imgix.net/images/global-nav/general-contractor.svg)
             
             [General Contractor](https://companycam.com/industries/general)
@@ -379,7 +403,6 @@ Menu
             
             [Solar](https://companycam.com/industries/solar)
             
-    [Explore All Trades](https://companycam.com/industries)
     
     ### Sign up for a demo.
     
@@ -397,7 +420,7 @@ Menu
     
 * [Features](#)
     
-    * [Core Features](#)
+    * [Core Features](#) [Explore All Core Features](https://companycam.com/features)
         * ![](//companycam.imgix.net/images/global-nav/photo-video-capture.svg)
             
             [Photo and Video Capture](https://companycam.com/features/photo-and-video-capture)
@@ -434,15 +457,52 @@ Menu
             
             Scroll through recent updates.
             
+        * ![](//companycam.imgix.net/images/global-nav/pages.svg)
+            
+            [Pages](https://companycam.com/features/pages)
+            
+            Collaborate in a digital notebook.
+            
         * ![](//companycam.imgix.net/images/global-nav/integrations.svg)
             
             [Integrations](https://companycam.com/integrations)
             
             Connect with your other software.
             
-    [Explore Core Features](https://companycam.com/features)
     
-    * [Top Integrations](https://companycam.com/integrations)
+    * [Advanced Features](#) [Explore All Advanced Features](https://companycam.com/advanced-features)
+        * ![](//companycam.imgix.net/images/global-nav/photo-video-capture.svg)
+            
+            [Document the Job Site](https://companycam.com/advanced-features#document-job-site)
+            
+            And keep everyone on the same page.
+            
+        * ![](//companycam.imgix.net/images/global-nav/galleries-timelines.svg)
+            
+            [Track Job Progress](https://companycam.com/advanced-features/#track-job-progress)
+            
+            From anywhere on any device.
+            
+        * ![](//companycam.imgix.net/images/global-nav/annotations.svg)
+            
+            [Share Updates](https://companycam.com/advanced-features/#share-updates)
+            
+            To keep customers and subs in the loop.
+            
+        * ![](//companycam.imgix.net/images/global-nav/in-app.svg)
+            
+            [Build Team Workflows](https://companycam.com/advanced-features#build-workflow)
+            
+            And standardize all your work.
+            
+        * ![](//companycam.imgix.net/images/global-nav/tags-labels.svg)
+            
+            [Generate AI Reports](https://companycam.com/ai-features)
+            
+            With a suite of AI actions.
+            
+    
+    [Top Integrations](https://companycam.com/integrations) [Explore All Integrations](https://companycam.com/integrations)
     
     * ![](https://companycam.imgix.net/images/global-nav/AcculynxNavIcon.png)
         
@@ -469,27 +529,15 @@ Menu
         [Roofr](https://companycam.com/integrations/roofr)
         
     
-    [Explore All Integrations](https://companycam.com/integrations)
+    NEW
     
-    * [Advanced Features](#)
-    
-    ![Project Template example](https://companycam.imgix.net/images/global-nav/project-templates-min.png?auto=format&w=280)
-    
-    [Project Templates](https://companycam.com/project-templates)
-    
-    Preload new projects with everything your crews need.
-    
-    [Explore Project Templates](https://companycam.com/features/project-templates)
-    
-    ### Feature Highlight
+    ### Build Pages with AI
     
     AI Tools
     
-    Type less and get more done with instant notes and descriptions.
+    Use AI-powered actions to generate shareable overview docs, organized notes, photo reports, summaries, and more.
     
-    [Explore AI](https://companycam.com/features/ai)
-    
-    ![](https://companycam.imgix.net/images/global-nav/FeatureHighlightsAI.png?auto=format&w=400)
+    [Explore AI Actions](https://companycam.com/features/pages#ai-actions)
     
     * ![schedule icon](https://companycam.imgix.net/images/global-nav/schedule.svg)
         
@@ -550,15 +598,15 @@ Menu
     * [Watch](#)
         * [Classes](https://companycam.com/classes)
             
-            Become a CompanyCam expert. 
+            Become a CompanyCam expert.
             
         * [Mini-Series](https://companycam.com/mini-series)
             
-            Level up your business know-how. 
+            Level up your business know-how.
             
         * [Webinars](https://companycam.com/webinars)
             
-            Learn from industry experts. 
+            Learn from industry experts.
             
     * [Read](#)
         * [Blog](https://companycam.com/blog)
@@ -567,7 +615,7 @@ Menu
             
         * [Case Studies](https://companycam.com/case-studies)
             
-            Browse real stories from real customers. 
+            Browse real stories from real customers.
             
         * [User Guides](https://companycam.com/user-guides)
             
@@ -621,8 +669,6 @@ Menu
 ![close popup icon](https://companycam.imgix.net/icons-logos/icons/grey-close.png)
 
 [We'll Show You](https://companycam.com/demo)
-
-![image of construction worker](https://companycam.imgix.net/images/cta-luke.png)
 
 **CompanyCam Privacy Policy**
 =============================
