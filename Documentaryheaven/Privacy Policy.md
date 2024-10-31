@@ -113,11 +113,6 @@ Advertisement
     Prisoners of Katrina
     
     n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
-* [![WWII From Space](/wp-content/thumbnails/8361-100x70.jpeg?x53432)
-    
-    WWII From Space
-    
-    It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
 * [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
     
     Objectified
@@ -128,6 +123,11 @@ Advertisement
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
+* [![WWII From Space](/wp-content/thumbnails/8361-100x70.jpeg?x53432)
+    
+    WWII From Space
+    
+    It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
 * [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
     
     Diary of a Porn Virgin
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![PT2 Ross Kemp: Battle for the Amazon](/wp-content/thumbnails/3371-100x70.jpg?x53432)
+* [![Fidel Castro](/wp-content/thumbnails/10566-100x70.jpg?x53432)
     
-    PT2 Ross Kemp: Battle for the Amazon
+    Fidel Castro
     
-    Ross Kemp - Battle For The Amazon will look into the socio-economic and environmental pressures facing the Amazon regions of Brazil and Ecuador. The shows will explore the legacy of devastation create](https://documentaryheaven.com/battle-for-the-amazon-2/ "PT2 Ross Kemp: Battle for the Amazon")
-* [![Megafactories: Toyota Australia](/wp-content/thumbnails/7242-100x70.jpg?x53432)
+    Born August 13, 1926, Fidel Castro is now 89 years of age and one of the most controversial / diverse world figures around. He has been decorated with many international awards and those that support](https://documentaryheaven.com/fidel-castro/ "Fidel Castro")
+* [![American Firefighters](/wp-content/thumbnails/13602-100x70.jpg?x53432)
     
-    Megafactories: Toyota Australia
+    American Firefighters
     
-    Megafactories reveals the technology and stories behind some of the most innovative factories in the world. After manufacturing vehicles in Australia for 50 years, it’s no surprise Toyota has grown to](https://documentaryheaven.com/megafactories-toyota-australia/ "Megafactories: Toyota Australia")
-* [![J is for Junkie](/wp-content/thumbnails/6187-100x70.jpg?x53432)
+    American Firefighters, originally released in 1990 provides us with a unique raw glimpse into the average days of a firefighter. We see first hand how they spend their time off with family, how they s](https://documentaryheaven.com/american-firefighters/ "American Firefighters")
+* [![The Revolution That Shook The World](/wp-content/thumbnails/8692-100x70.jpg?x53432)
     
-    J is for Junkie
+    The Revolution That Shook The World
     
-    J is for Junkie comes as a hard-hitting and beautifully shot documentary on crack and being homeless. Filmed in “The Living Room” in Atlanta, a small cove tucked in behind a Texaco gas station, the do](https://documentaryheaven.com/j-is-for-junkie/ "J is for Junkie")
-* [![Great Military Blunders](/wp-content/thumbnails/13145-100x70.jpg?x53432)
+    As Russia and the West square up to each other over Ukraine, Paul Kenyon presents this special report from inside the flashpoint military bases of Crimea as they are surrounded by Russian troops. He g](https://documentaryheaven.com/revolution-that-shook-world/ "The Revolution That Shook The World")
+* [![North Korea’s Nuclear Trump Card](/wp-content/thumbnails/13542-100x70.jpg?x53432)
     
-    Great Military Blunders
+    North Korea’s Nuclear Trump Card
     
-    Great Military Blunders is a six part documentary series which was originally aired in 2000, the series itself provides a fascinating examination of the key factors which lead to some of the greatest](https://documentaryheaven.com/great-military-blunders/ "Great Military Blunders")
-* [![anOther Story Of Progress](/wp-content/thumbnails/6654-100x70.jpg?x53432)
+    North Korea has just tested a nuclear bomb which is believed to be 10 times more powerful than the one used on Hiroshima. Kim Jong Un versus Donald Trump is the most dangerous stand off seen in decade](https://documentaryheaven.com/north-koreas-nuclear-trump-card/ "North Korea’s Nuclear Trump Card")
+* [![Soldier Child](/wp-content/thumbnails/6622-100x70.jpg?x53432)
     
-    anOther Story Of Progress
+    Soldier Child
     
-    anOther Story Of Progress covers various issues, such as environmental destruction, indigenous resistance and insurrection - from a primitivist perspective. It also features primitivist thinkers such](https://documentaryheaven.com/another-story-of-progress/ "anOther Story Of Progress")
+    Since 1990, the people of Northern Uganda have watched in horror as tens of thousands of children have been kidnapped from their homes, marched to Sudan, and then trained as child soldiers in a rebel](https://documentaryheaven.com/soldier-child/ "Soldier Child")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
