@@ -128,13 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [IPL Retentions](https://www.news18.com/cricket/ipl-2025-retention-live-updates-deadline-full-list-mi-csk-rcb-kkr-dc-pbks-srh-rr-gt-lsg-october-31-kohli-dhoni-pant-rahul-rohit-liveblog-9104987.html)
-    * [Diwali 2024](https://www.news18.com/india/diwali-2024-ram-mandir-ayodhya-deepawali-celebration-delhi-mumbai-liveblog-9103983.html)
-    * [Seema Sajdeh](https://www.news18.com/movies/seema-sajdeh-on-dating-ex-fiance-vikram-after-sohail-khan-divorce-not-young-anymore-need-to-be-9104258.html)
-    * [India-Canada Ties](https://www.news18.com/world/canada-opens-new-front-claims-india-building-cyber-programmes-to-destabilise-nation-9104973.html)
+    * [IPL Retentions](https://www.news18.com/cricket/ipl-2025-retention-full-list-players-retained-mega-auction-csk-mi-rcb-kkr-srh-pbks-dc-rr-gt-lsg-9105511.html)
+    * [Mumbai Indians](https://www.news18.com/cricket/ipl-retention-2025-mumbai-indians-top-players-name-released-mega-auction-purse-9105252.html)
+    * [MS Dhoni](https://www.news18.com/cricket/ipl-retention-2024-chennai-super-kings-top-players-name-released-mega-auction-purse-9105456.html)
+    * [Lakshmi Puja](https://www.news18.com/lifestyle/lakshmi-puja-2024-step-by-step-guide-to-perform-diwali-rituals-for-prosperity-9103926.html)
     * [Diwali Box-Office Clash](https://www.news18.com/movies/diwali-clash-will-ajay-devgns-singham-again-crush-kartik-aaryans-bhool-bhulaiyaa-3-at-box-office-9104736.html)
     * [US Elections](https://www.news18.com/elections/us-election/)
-    * [Maharashtra Elections](https://www.news18.com/elections/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +169,12 @@ Follow us on
 
 In Trends:
 
-* [IPL Retentions](https://www.news18.com/cricket/ipl-2025-retention-live-updates-deadline-full-list-mi-csk-rcb-kkr-dc-pbks-srh-rr-gt-lsg-october-31-kohli-dhoni-pant-rahul-rohit-liveblog-9104987.html)
-* [Diwali 2024](https://www.news18.com/india/diwali-2024-ram-mandir-ayodhya-deepawali-celebration-delhi-mumbai-liveblog-9103983.html)
-* [Seema Sajdeh](https://www.news18.com/movies/seema-sajdeh-on-dating-ex-fiance-vikram-after-sohail-khan-divorce-not-young-anymore-need-to-be-9104258.html)
-* [India-Canada Ties](https://www.news18.com/world/canada-opens-new-front-claims-india-building-cyber-programmes-to-destabilise-nation-9104973.html)
+* [IPL Retentions](https://www.news18.com/cricket/ipl-2025-retention-full-list-players-retained-mega-auction-csk-mi-rcb-kkr-srh-pbks-dc-rr-gt-lsg-9105511.html)
+* [Mumbai Indians](https://www.news18.com/cricket/ipl-retention-2025-mumbai-indians-top-players-name-released-mega-auction-purse-9105252.html)
+* [MS Dhoni](https://www.news18.com/cricket/ipl-retention-2024-chennai-super-kings-top-players-name-released-mega-auction-purse-9105456.html)
+* [Lakshmi Puja](https://www.news18.com/lifestyle/lakshmi-puja-2024-step-by-step-guide-to-perform-diwali-rituals-for-prosperity-9103926.html)
 * [Diwali Box-Office Clash](https://www.news18.com/movies/diwali-clash-will-ajay-devgns-singham-again-crush-kartik-aaryans-bhool-bhulaiyaa-3-at-box-office-9104736.html)
 * [US Elections](https://www.news18.com/elections/us-election/)
-* [Maharashtra Elections](https://www.news18.com/elections/)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
