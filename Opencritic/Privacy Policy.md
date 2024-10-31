@@ -118,7 +118,7 @@ If you'd like to revoke OpenCritic's access to Facebook account data at any time
 
 ### 12\. Data Deletion
 
-If you'd like to have your account data removed from OpenCritic, please email us at [\[email protected\]](https://opencritic.com/cdn-cgi/l/email-protection).
+If you'd like to have your account data removed from OpenCritic, please email us at [admin@opencritic.com](mailto:admin@opencritic.com).
 
 ### 13\. Children’s Privacy
 
@@ -130,7 +130,7 @@ We may update this Privacy Policy from time to time. If under any such update we
 
 ### 15\. Contact Us
 
-If you have any questions about OpenCritic’s privacy policy, please email us at [\[email protected\]](https://opencritic.com/cdn-cgi/l/email-protection).
+If you have any questions about OpenCritic’s privacy policy, please email us at [admin@opencritic.com](mailto:admin@opencritic.com).
 
 ### Mediavine Programmatic Advertising (Ver 1.1)
 
