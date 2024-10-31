@@ -682,6 +682,14 @@ Tiffany Wyatt Calgary 11/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Great experience. Both gentleman were friendly & pleasant. They were quick and efficient, got my couch, chair & stool in a snap!
+
+Julie Eckert Calgary 11/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 The guys made it so easy. They were very agreeable to work with & we really appreciated how quickly they took everything.
 
 Anne Garnett Calgary 11/10/2024
@@ -693,14 +701,6 @@ Anne Garnett Calgary 11/10/2024
 Very polite. Very efficient.
 
 Art Rae Calgary 11/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Great experience. Both gentleman were friendly & pleasant. They were quick and efficient, got my couch, chair & stool in a snap!
-
-Julie Eckert Calgary 11/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -938,17 +938,17 @@ sloan doepke Cincinnati 26/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Gabe and Paris were extremely courteous, efficient, and professional. I would definitely use them and 1- 800-got-junk again. .
+Now and Gio were great! On time and professional!
 
-Julia Cincinnati 25/10/2024
+Chris Hickmon Naples 25/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Now and Gio were great! On time and professional!
+Gabe and Paris were extremely courteous, efficient, and professional. I would definitely use them and 1- 800-got-junk again. .
 
-Chris Hickmon Naples 25/10/2024
+Julia Cincinnati 25/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
