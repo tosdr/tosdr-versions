@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Glenn Youngkin, on the left and John Roberts, on the right, appear inset against an image of the U.S. Supreme Court building.](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Youngkin-Roberts-Vote-432x243.jpg)](https://lawandcrime.com/high-profile/scotus-allows-virginia-voter-purge-to-continue-through-2024-election-conservative-majority-declines-to-explain-why/)
-    
-    ### [SCOTUS allows Virginia voter purge to continue through 2024 election, conservative majority declines to explain why](https://lawandcrime.com/high-profile/scotus-allows-virginia-voter-purge-to-continue-through-2024-election-conservative-majority-declines-to-explain-why/)
-    
-2. [![Background: Morrison (Colo.) Police Sgt. Richard Norton (Town of Morrison). Inset: Richard Norton (Boulder County (Colo.) Sheriff's Office/KUSA).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Richard-Norton-432x243.jpg)](https://lawandcrime.com/crime/wanted-to-murder-someone-so-he-could-see-what-it-felt-like-cop-arrested-for-allegedly-torturing-threatening-his-ex-wife-abusing-their-kids/)
-    
-    ### ['Wanted to murder someone so he could see what it felt like': Cop arrested for allegedly torturing, threatening his ex-wife, abusing their kids](https://lawandcrime.com/crime/wanted-to-murder-someone-so-he-could-see-what-it-felt-like-cop-arrested-for-allegedly-torturing-threatening-his-ex-wife-abusing-their-kids/)
-    
-3. [![Trump, Arthur Ray Hanson, Fani Willis](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Trump-Hanson-Willis-432x243.jpg)](https://lawandcrime.com/high-profile/trump-supporter-enraged-by-georgia-rico-mug-shot-locked-up-for-threatening-da-fani-willis/)
+1. [![Trump, Arthur Ray Hanson, Fani Willis](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Trump-Hanson-Willis-432x243.jpg)](https://lawandcrime.com/high-profile/trump-supporter-enraged-by-georgia-rico-mug-shot-locked-up-for-threatening-da-fani-willis/)
     
     ### [Trump supporter who 'never dreamed the FBI would show up' after he lashed out over former president's RICO mug shot is locked away for threatening DA Fani Willis, sheriff](https://lawandcrime.com/high-profile/trump-supporter-enraged-by-georgia-rico-mug-shot-locked-up-for-threatening-da-fani-willis/)
     
-4. [![Subway lawsuit](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Subway-432x243.jpg)](https://lawandcrime.com/lawsuit/barely-any-steak-subway-sued-after-woman-claims-company-misleads-customers-about-the-amount-of-meat-on-subs/)
+2. [![Mike Lindell](https://am23.mediaite.com/lc/cnt/uploads/2023/04/Mike-Lindell-432x243.jpg)](https://lawandcrime.com/high-profile/unconscionable-and-thus-unenforceable-mypillow-ceo-mike-lindell-files-rico-lawsuit-against-lending-companies-to-try-and-get-out-of-allegedly-usurious-600k-loan/)
     
-    ### ['Barely any steak': Subway sued after woman claims company misleads customers about the amount of meat on subs](https://lawandcrime.com/lawsuit/barely-any-steak-subway-sued-after-woman-claims-company-misleads-customers-about-the-amount-of-meat-on-subs/)
+    ### ['Unconscionable and thus unenforceable': MyPillow CEO Mike Lindell files RICO lawsuit against lending companies to try and get out of allegedly 'usurious' $600K loan](https://lawandcrime.com/high-profile/unconscionable-and-thus-unenforceable-mypillow-ceo-mike-lindell-files-rico-lawsuit-against-lending-companies-to-try-and-get-out-of-allegedly-usurious-600k-loan/)
     
-5. [![Patrick Civitello is seen in a surveillance image in a restaurant bar in New York on the phone with his brother before an attack that injured the son of a witness who testified against Civitello's father and brother in a federal drug case. (U.S. Attorney).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/bar-432x243.jpg)](https://lawandcrime.com/crime/i-gotta-rag-this-b-man-admits-to-attacking-15-year-old-son-of-witness-in-familys-mafia-linked-drug-ring-trial/)
+3. [![Left: California Attorney General Rob Bonta takes questions from the media in Los Angeles on Tuesday, March 19, 2024 (AP Photo/Damian Dovarganes, File). Center: Providence St. Joseph's Hospital in Eureka, Calif., is shown (KAEF). Right: Anna Nusslock speaks at a press conference (KAEF).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Rob-Bonta-Providence-Hospital-Anna-Nusslock-432x243.jpg)](https://lawandcrime.com/high-profile/hospital-that-sent-bleeding-woman-away-with-a-bucket-and-towels-instead-of-giving-her-an-emergency-abortion-says-it-wont-do-the-same-thing-again/)
     
-    ### ['I gotta rag this b----': Man admits to attacking 15-year-old son of witness in family's Mafia-linked drug ring trial](https://lawandcrime.com/crime/i-gotta-rag-this-b-man-admits-to-attacking-15-year-old-son-of-witness-in-familys-mafia-linked-drug-ring-trial/)
+    ### [Hospital that sent bleeding woman away with a bucket and towels' instead of giving her an emergency abortion says it won't do the same thing again](https://lawandcrime.com/high-profile/hospital-that-sent-bleeding-woman-away-with-a-bucket-and-towels-instead-of-giving-her-an-emergency-abortion-says-it-wont-do-the-same-thing-again/)
+    
+4. [![Hillary Clinton, Rudy Giuliani, Noel Dunphy](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Hillary-432x243.jpg)](https://lawandcrime.com/high-profile/rudy-giuliani-sexual-assault-accuser-asks-judge-to-issue-sanctions/)
+    
+    ### ['I'm muting you': Judge strikes Hillary Clinton's name from Giuliani accuser's lawsuit as Rudy shows up to court 'confused' and shouts 'my reputation has been ruined'](https://lawandcrime.com/high-profile/rudy-giuliani-sexual-assault-accuser-asks-judge-to-issue-sanctions/)
+    
+5. [![Justice Brett Kavanaugh](https://am23.mediaite.com/lc/cnt/uploads/2021/04/GettyImages-1232482939-432x243.jpg)](https://lawandcrime.com/high-profile/late-judicial-tinkering-kavanaugh-looms-large-as-both-sides-in-virginia-voter-purge-dispute-cite-justices-well-known-take-on-election-eve-injunctions/)
+    
+    ### ['Late judicial tinkering': Kavanaugh looms large as both sides in Virginia voter purge dispute cite justice's well-known take on election-eve injunctions](https://lawandcrime.com/high-profile/late-judicial-tinkering-kavanaugh-looms-large-as-both-sides-in-virginia-voter-purge-dispute-cite-justices-well-known-take-on-election-eve-injunctions/)
     
 
 [](http://eepurl.com/c89Jdb)
