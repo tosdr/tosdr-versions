@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can you settle a car accident without a lawyer?](https://www.pintas.com/wp-content/uploads/2020/10/can-you-settle-a-car-accident-without-a-lawyer.jpg "Can You Settle a Car Accident without a Lawyer?")](https://www.pintas.com/practice-areas/personal-injury/can-you-settle-a-car-accident-without-a-lawyer/ "Can You Settle a Car Accident without a Lawyer?")
+[![Can you request a second opinion for an autopsy?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-you-request-a-second-opinion-for-an-autopsy.jpg "Can You Request a Second Opinion For an Autopsy?")](https://www.pintas.com/faq/can-you-request-a-second-opinion-for-an-autopsy/ "Can You Request a Second Opinion For an Autopsy?")
 
-[#### Can You Settle a Car Accident without a Lawyer?](https://www.pintas.com/practice-areas/personal-injury/can-you-settle-a-car-accident-without-a-lawyer/)
+[#### Can You Request a Second Opinion For an Autopsy?](https://www.pintas.com/faq/can-you-request-a-second-opinion-for-an-autopsy/)
 
-[![Alzheimer’s seniors’ abuse risk in facilities](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-why-are-seniors-with-alzheimers-at-a-greater-risk-of-abuse-at-assisted-living-facilities-300x200.jpg "Alzheimer’s Seniors’ Abuse Risk in Facilities")](https://www.pintas.com/faq/why-are-seniors-with-alzheimers-at-a-greater-risk-of-abuse-at-assisted-living-facilities/ "Alzheimer’s Seniors’ Abuse Risk in Facilities")
+[![What do i do if i witness nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-do-i-do-if-i-witness-nursing-home-abuse-lawyer-scaled.jpg "What Do I Do if I Witness Nursing Home Abuse?")](https://www.pintas.com/faq/what-do-i-do-if-i-witness-nursing-home-abuse-lawyer/ "What Do I Do if I Witness Nursing Home Abuse?")
 
-[#### Alzheimer’s Seniors’ Abuse Risk in Facilities](https://www.pintas.com/faq/why-are-seniors-with-alzheimers-at-a-greater-risk-of-abuse-at-assisted-living-facilities/)
+[#### What Do I Do if I Witness Nursing Home Abuse?](https://www.pintas.com/faq/what-do-i-do-if-i-witness-nursing-home-abuse-lawyer/)
 
-[![How do doctors check for mesothelioma lung cancer?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-how-do-doctors-check-for-mesothelioma-lung-cancer-scaled.jpg "How Do Doctors Check for Mesothelioma Lung Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-doctors-check-for-mesothelioma-lung-cancer/ "How Do Doctors Check for Mesothelioma Lung Cancer?")
+[![Can you sue a nursing home for wrongful death?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-you-sue-a-nursing-home-for-wrongful-death-scaled.jpg "Can You Sue a Nursing Home for Wrongful Death?")](https://www.pintas.com/faq/can-you-sue-a-nursing-home-for-wrongful-death/ "Can You Sue a Nursing Home for Wrongful Death?")
 
-[#### How Do Doctors Check for Mesothelioma Lung Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-doctors-check-for-mesothelioma-lung-cancer/)
+[#### Can You Sue a Nursing Home for Wrongful Death?](https://www.pintas.com/faq/can-you-sue-a-nursing-home-for-wrongful-death/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
