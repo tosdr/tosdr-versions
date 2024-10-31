@@ -86,15 +86,15 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 * * *
 
-[One Nation's James Ashby's contentious abortion views](https://independentaustralia.net/article-display/exclusive-one-nation-only-wants-to-control-womens-bodies-some-of-the-time,19102)
+[School lunches, royal tours, foreign wars: Australia’s classless society myth](https://independentaustralia.net/article-display/school-lunches-royal-tours-foreign-wars--the-myth-of-australias-classless-society,19125)
 
-[More time to write and win in IA Writing Comp!](https://independentaustralia.net/article-display/ia-writing-competition-more-time-to-win-prizes,18918)
+[Snag a bag and mag!](https://independent-australia.myshopify.com/collections/bags/products/bag-and-mag-bundle-exclusive-subscriber-offer-discounted-price)
 
-['Adult Crime, Adult Time' in Qld: LNP direct anger toward children](https://independentaustralia.net/article-display/adult-crime-adult-time-in-queensland-lnp-direct-their-anger-toward-children,19099)
+['Mistake or misconduct? NACC Inspector's damning findings](https://independentaustralia.net/article-display/mistake-or-misconduct-nacc-inspectors-damning-findings,19124)
 
-[Israel proclaims itself chief mourner, as Gaza lies in ruins](https://independentaustralia.net/article-display/israel-proclaims-itself-chief-mourner-as-gaza-lies-in-ruins,19104)
+[Evidence debunks 'contemptible' climate lies](https://independentaustralia.net/article-display/evidence-debunks-contemptible-climate-lies,19121)
 
-[Why the LNP would be worse at governing Queensland than Labor](https://independentaustralia.net/article-display/why-the-lnp-would-be-worse-at-governing-queensland-than-labor,19107)
+[Global youth justice methods a lesson for Australia](https://independentaustralia.net/article-display/global-youth-justice-methods-a-lesson-for-australia,19116)
 
 Comments Policy
 
@@ -134,13 +134,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
+* [School lunches, royal tours, foreign wars & the myth of Australia’s classless society](https://independentaustralia.net/article-display/school-lunches-royal-tours-foreign-wars-the-myth-of-australias-classless-society,19125 "Permanent Link : School lunches, royal tours, foreign wars & the myth of Australia’s classless society")
+* [Mistake or misconduct? NACC Inspector's damning findings](https://independentaustralia.net/article-display/mistake-or-misconduct-nacc-inspectors-damning-findings,19124 "Permanent Link : Mistake or misconduct? NACC Inspector's damning findings")
 * [Evidence debunks 'contemptible' climate lies](https://independentaustralia.net/article-display/evidence-debunks-contemptible-climate-lies,19121 "Permanent Link : Evidence debunks 'contemptible' climate lies")
 * [EDITORIAL: School lunches, royal tours, foreign wars and the myth of Australia’s classless society](https://independentaustralia.net/article-display/editorial-school-lunches-royal-tours-foreign-wars-and-the-myth-of-australias-classless-society,19123 "Permanent Link : EDITORIAL: School lunches, royal tours, foreign wars and the myth of Australia’s classless society")
 * [Claims of morality do not reconcile with utter savagery](https://independentaustralia.net/article-display/claims-of-morality-do-not-reconcile-with-utter-savagery,19115 "Permanent Link : Claims of morality do not reconcile with utter savagery")
 * [Australia's Greens not so green anymore](https://independentaustralia.net/article-display/australias-greens-not-so-green-anymore,19120 "Permanent Link : Australia's Greens not so green anymore")
 * [Apple’s Vision Pro: A potential path toward vision impairment care](https://independentaustralia.net/article-display/apples-vision-pro-a-potential-path-toward-vision-impairment-care,19119 "Permanent Link : Apple’s Vision Pro: A potential path toward vision impairment care")
-* [Truth about Queensland youth crime won't sell papers or promote LNP](https://independentaustralia.net/article-display/truth-about-queensland-youth-crime-wont-sell-papers-or-promote-lnp,19118 "Permanent Link : Truth about Queensland youth crime won't sell papers or promote LNP")
-* [Jason Clare wrong on net migration and student caps](https://independentaustralia.net/article-display/jason-clare-wrong-on-net-migration-and-student-caps,19117 "Permanent Link : Jason Clare wrong on net migration and student caps")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
