@@ -18,7 +18,7 @@
 * [Hide my data](https://whoer.net/best-anonymity-tools?category=all)
 * Help
 
-[Buy VPN now](https://whoer.net/vpn/buy)
+[Grab -75% Now](https://whoer.net/vpn/buy)
 
 * [My IP](https://whoer.net/)
 * [Hide my data](https://whoer.net/best-anonymity-tools?category=all)
@@ -33,7 +33,7 @@
 * [DNS leak test](https://whoer.net/dns-leak-test)
 * Help
 
-[Buy VPN now](https://whoer.net/vpn/buy)
+[Grab -75% Now](https://whoer.net/vpn/buy)
 
 Privacy Policy
 ==============
@@ -250,3 +250,15 @@ Layer 1 IP
 This website uses cookies to enhance your experience.
 
 Accept
+
+![hallowen](/images/halloween_pic.png)
+
+Halloween promotion ends in:
+
+00 days : 00 hours : 00 minutes : 00 seconds
+
+[Grab -75% Now](https://whoer.net/vpn/buy)
+
+\-75% OFF for VPN till 4.11
+
+[Grab it now](https://whoer.net/vpn/buy)
