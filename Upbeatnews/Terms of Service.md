@@ -72,7 +72,7 @@ Email Address: [\[email protected\]](https://upbeatnews.com/cdn-cgi/l/email-pro
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Effective as of May 01, 2018
+Effective as of Jan 01, 2024
 
 © 2024 Upbeatnews.com
 
@@ -82,3 +82,5 @@ Effective as of May 01, 2018
 * [Terms & Conditions](https://upbeatnews.com/terms-conditions/)
 
 Do Not Sell My Personal Data
+
+[Close](#)
