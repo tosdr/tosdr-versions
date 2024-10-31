@@ -1,24 +1,3 @@
-[Skip to main content](#main)
-
-[Platform Logins](https://www.itpro.tv/login/)[Request a demo](#contact-sales)
-
-[](https://www.itpro.tv/)
-
-Site navigation
----------------
-
-[Meet myACI](https://www.itpro.tv/myaci-learn/)
-
-[Learning Solutions](#)
-
-[Individuals](#)
-
-[Pricing](#)
-
-[Catalog](#)
-
-[Resources](https://www.itpro.tv/resources/)
-
 ![ITPro logo](/static/8181d915d7f21bcb1482e893bffd0111/itpro_logo_831fcd69b8.svg)
 
 Video on-demand IT training courses & labs
@@ -256,7 +235,7 @@ We’re not stuffy. We’re not boring. Our talk-show style format keeps learner
 
 Learners can apply cyber and IT skills within a safe, virtual live-lab environment. Hands-on experiences accelerate skills development and empowers self-directed learners. Practice tests simulate the actual exam environment, providing individuals confidence and insights into areas for improvement before taking the official test.
 
-![Virtual machine skill labs](https://aci-dev-strapi-bucket.s3.amazonaws.com/prod/Overview_Skill_Labs_02_0aba5b8dd8.jpg) [Explore Skill Labs](https://www.itpro.tv/skill-labs/)
+![Virtual machine skill labs](https://aci-dev-strapi-bucket.s3.amazonaws.com/prod/Overview_Skill_Labs_02_0aba5b8dd8.jpg)
 
 ![Inline learning certificate icon](https://aci-dev-strapi-bucket.s3.amazonaws.com/prod/inline_learning_certificate_2_ae63b842f6.svg)
 
@@ -288,7 +267,7 @@ We’re not stuffy. We’re not boring. Our talk-show style format keeps learner
 
 Learners can apply cyber and IT skills within a safe, virtual live-lab environment. Hands-on experiences accelerate skills development and empowers self-directed learners. Practice tests simulate the actual exam environment, providing individuals confidence and insights into areas for improvement before taking the official test.
 
-![Virtual machine skill labs](https://aci-dev-strapi-bucket.s3.amazonaws.com/prod/Overview_Skill_Labs_02_0aba5b8dd8.jpg) [Explore Skill Labs](https://www.itpro.tv/skill-labs/)
+![Virtual machine skill labs](https://aci-dev-strapi-bucket.s3.amazonaws.com/prod/Overview_Skill_Labs_02_0aba5b8dd8.jpg)
 
 ![Inline learning certificate icon](/static/2c2ef22af87ad7e46c195b608d6fa29b/inline_learning_certificate_2_ae63b842f6.svg)Train for popular IT certifications
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -329,54 +308,37 @@ Our edutainment model of cyber and IT training creates learning experiences that
 Start and advance in cyber and IT today.
 ----------------------------------------
 
-Train your team
-
 Stay ahead of the curve and future-proof your business with training programs designed for team members.
 
-[ITPro for Teams](https://www.itpro.tv/teams/pricing/)
+[View Plans](https://www.itpro.tv/business-pricing/)
 
-Channel & Reseller
+Resources
 
-Transform your experience and integrate with our unique evolving library of Audit, Cybersecurity, and Information Technology courses.
+* [Blogs](https://www.itpro.tv/blog/)
+* [Webinars](https://www.itpro.tv/webinars/)
+* [Reports](https://www.itpro.tv/reports/)
 
-[Connect with us](https://www.itpro.tv/channel-reseller/#contact-sales)
+About ACI Learning
 
-Individual learners
-
-Learn at your own pace and get your IT certification training.
-
-[View pricing](https://www.itpro.tv/individuals/pricing/)
-
-Business Solutions
-
-* [Learning Experience Platform](https://www.itpro.tv/myaci-learn/)
-* [Internal Audit Training](https://www.itpro.tv/auditpro/)
-* [Private IT Training Programs](https://www.itpro.tv/live-online-training/)
-* [Channel, Reseller & Academic](https://www.itpro.tv/channel-reseller/)
-* [Government IT training](https://www.itpro.tv/government/)
-
-Content Packages
-
-* [ITPro](https://www.itpro.tv/itpro/)
-* [AuditPro](https://www.itpro.tv/auditpro/)
-
-Company
-
-* [About](https://www.itpro.tv/about/)
-* [News](https://www.itpro.tv/news/)
-* [Resources](https://www.itpro.tv/resources/)
-* [Tech Academy](https://www.acitechacademy.com/)
+* [Why Us?](https://www.itpro.tv/about/)
+* [In the News](https://www.itpro.tv/news/)
+* [ACI Tech Academy](https://www.acitechacademy.com/)
 * [Careers](https://www.itpro.tv/careers/)
 
-Support
+Get Support
 
-* [Documentation](https://help.acilearning.com/)
-* [Contact Us](https://www.itpro.tv/support/)
+* [Visit the Knowledge Base](https://help.acilearning.com/)
+* [Connect with Support](https://www.itpro.tv/support/)
+
+Partner With Us
+
+* [Resellers](https://www.itpro.tv/channel-reseller/)
+* [Government & Public Sector](https://www.itpro.tv/government/)
 
 [](https://www.itpro.tv/)
 
 © ACI Learning
 
-[Privacy Policy](https://www.itpro.tv/privacy-policy)[Terms & Conditions](https://www.itpro.tv/terms-and-conditions)
+[Privacy Policy](https://www.itpro.tv/privacy-policy/)[Terms & Conditions](https://www.itpro.tv/terms-and-conditions/)
 
 [](https://www.linkedin.com/school/aci-learning/)[](https://www.instagram.com/acilearning/)[](https://twitter.com/aci_learning)[](https://www.facebook.com/acilearningco/)
