@@ -117,61 +117,56 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Terri Winfield
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=75ebe7b86e9497998cda929457cb3b3b7a33252746121c21c5bfb7a2cd06b117&c=173468493)  
-Wiselink Broadband Dundee
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=63951494)  
+Qothiphango Mining
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=75ebe7b86e9497998cda929457cb3b3b7a33252746121c21c5bfb7a2cd06b117&c=122277412)  
-Durbanville Classifieds (Pty) Ltd
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=66825403)  
+Baby Toddles Infant Care
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=75ebe7b86e9497998cda929457cb3b3b7a33252746121c21c5bfb7a2cd06b117&c=175951171)  
-Safe-Train Consulting (PTY) Ltd
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=82179630)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=75ebe7b86e9497998cda929457cb3b3b7a33252746121c21c5bfb7a2cd06b117&c=149845190)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=76362851)  
+SMART GUY PCS (PTY) LTD
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=75ebe7b86e9497998cda929457cb3b3b7a33252746121c21c5bfb7a2cd06b117&c=132279581)  
-Tagline Brands
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=38967686)  
+FJW Security Cc
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=75ebe7b86e9497998cda929457cb3b3b7a33252746121c21c5bfb7a2cd06b117&c=156240350)  
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=19431388)  
+Network Grey (Pty) Ltd
+
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=114794429)  
 VerdanTech Pty Ltd
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=75ebe7b86e9497998cda929457cb3b3b7a33252746121c21c5bfb7a2cd06b117&c=148653818)  
-kidoscabbie
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=166961793)  
+Lemba Truck Stop
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=75ebe7b86e9497998cda929457cb3b3b7a33252746121c21c5bfb7a2cd06b117&c=21746248)  
-Norton Medical & Consult - Namibia
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=89935862)  
+Printo
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=75ebe7b86e9497998cda929457cb3b3b7a33252746121c21c5bfb7a2cd06b117&c=164839775)  
-VIV'S TRUCKS (Pty) Ltd. (117)
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=66412234)  
+Mtunzini Group
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=75ebe7b86e9497998cda929457cb3b3b7a33252746121c21c5bfb7a2cd06b117&c=179082067)  
-Frequency Fanatics (Pty) Ltd
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=1966135)  
+MONSTER SECURITY GUARDING
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=75ebe7b86e9497998cda929457cb3b3b7a33252746121c21c5bfb7a2cd06b117&c=96819612)  
-United Paintball Federation
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=130188851)  
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=75ebe7b86e9497998cda929457cb3b3b7a33252746121c21c5bfb7a2cd06b117&c=148411324)  
-LEONARD
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=194209082)  
+All Trucking Solutions
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=75ebe7b86e9497998cda929457cb3b3b7a33252746121c21c5bfb7a2cd06b117&c=128923202)  
-Wiselink Broadband Pty Ltd
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=191725898)  
+Myfinance-Online
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=75ebe7b86e9497998cda929457cb3b3b7a33252746121c21c5bfb7a2cd06b117&c=124951833)  
-Nilbet T/A Waterman
-
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=75ebe7b86e9497998cda929457cb3b3b7a33252746121c21c5bfb7a2cd06b117&c=7259013)  
-Baby Toddles Infant Care
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=41149169e07d687f54b7925590e1ee7eb3434cb55b40e3921eef17f771033543&c=70746976)  
+Nogana Events and Decor
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
