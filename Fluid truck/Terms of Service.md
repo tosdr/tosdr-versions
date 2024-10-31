@@ -48,7 +48,7 @@ Our services
 
 [Long-term rentals](https://www.fluidtruck.com/long-term-rentals)
 
-[Fluid Truck Renew](https://www.fluidtruck.com/renew)
+[Fluid Truck Renew](#)
 
 [Our vehicles](https://www.fluidtruck.com/vehicles)
 
@@ -66,7 +66,7 @@ Our Vehicles
 
 [Electric vehicles](https://www.fluidtruck.com/vehicles/electric-vehicles)
 
-[List your fleet](https://www.fluidtruck.com/list-fleet)
+[List your fleet](#)
 
 [Locations](https://www.fluidtruck.com/locations)
 
@@ -333,7 +333,7 @@ Fluid Truck
 
 [About Fluid Truck](https://www.fluidtruck.com/about)[Locations](https://www.fluidtruck.com/locations)[Reviews](https://www.fluidtruck.com/reviews)[Fluid for business](https://www.fluidtruck.com/business)
 
-[List your fleet](https://www.fluidtruck.com/list-fleet)
+[List your fleet](#)
 
 [Contact us](https://www.fluidtruck.com/help/contact)[Get in touch](https://www.fluidtruck.com/interest)
 
@@ -375,7 +375,7 @@ Connect
 
 Fluid Truck
 
-[About Fluid](https://www.fluidtruck.com/about)[Locations](https://www.fluidtruck.com/locations)[Reviews](https://www.fluidtruck.com/reviews)[List Your Vehicle](https://www.fluidtruck.com/list-fleet)[Fluid for Business](https://www.fluidtruck.com/business)[Contact Us](https://www.fluidtruck.com/help/contact)[Get in Touch](https://www.fluidtruck.com/interest)
+[About Fluid](https://www.fluidtruck.com/about)[Locations](https://www.fluidtruck.com/locations)[Reviews](https://www.fluidtruck.com/reviews)[List Your Vehicle](#)[Fluid for Business](https://www.fluidtruck.com/business)[Contact Us](https://www.fluidtruck.com/help/contact)[Get in Touch](https://www.fluidtruck.com/interest)
 
 Explore
 
@@ -433,7 +433,7 @@ A member of our team will be in contact shortly.**
 
 Fluid Truck
 
-[About Fluid](https://www.fluidtruck.com/about)[Locations](https://www.fluidtruck.com/locations)[Reviews](https://www.fluidtruck.com/reviews)[List Your Vehicle](https://www.fluidtruck.com/list-fleet)[Fluid for Business](https://www.fluidtruck.com/business)[Contact Us](https://www.fluidtruck.com/help/contact)[Get in Touch](https://www.fluidtruck.com/interest)
+[About Fluid](https://www.fluidtruck.com/about)[Locations](https://www.fluidtruck.com/locations)[Reviews](https://www.fluidtruck.com/reviews)[List Your Vehicle](#)[Fluid for Business](https://www.fluidtruck.com/business)[Contact Us](https://www.fluidtruck.com/help/contact)[Get in Touch](https://www.fluidtruck.com/interest)
 
 Explore
 
