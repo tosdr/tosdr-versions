@@ -77,7 +77,7 @@ Get instant quotes from top national and local insurance companies.
 | --- | --- | --- |
 | Enter your zip code: |     |     |
 
-Get great car insurance rates!
+Get great auto insurance rates!
 
 Click on a few of the companies below to get your rates.
 
