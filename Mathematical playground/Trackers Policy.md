@@ -1,6 +1,6 @@
 Please enable JavaScript in your browser to access Mathigon.
 
-[](https://mathigon.org/ "Mathigon")Skip Navigation
+[![](/images/logo/logo-halloween.svg)](https://mathigon.org/ "Mathigon")Skip Navigation
 
 [Polypad](https://polypad.amplify.com/)
 
