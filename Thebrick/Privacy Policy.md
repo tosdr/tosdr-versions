@@ -1,6 +1,6 @@
 [Skip to Main Content](#content)
 
-[![THE BRICK](//www.thebrick.com/cdn/shop/t/827/assets/lazyPixel.png?v=40482922527014850811730221094)](https://www.thebrick.com/)
+[![THE BRICK](//www.thebrick.com/cdn/shop/t/828/assets/lazyPixel.png?v=40482922527014850811730306148)](https://www.thebrick.com/)
 
 [Furniture](https://www.thebrick.com/collections/furniture) [Mattresses](https://www.thebrick.com/collections/mattresses) [Home Decor](https://www.thebrick.com/collections/home-decor) [Appliances](https://www.thebrick.com/collections/appliances) [Electronics](https://www.thebrick.com/collections/electronics) [Small Spaces](https://www.thebrick.com/collections/small-space-furniture)
 
@@ -68,7 +68,7 @@ Get Directions
 
 [Mattresses](https://www.thebrick.com/collections/mattresses) [Mattresses](https://www.thebrick.com/collections/mattress-store) [Mattress Sets](https://www.thebrick.com/collections/mattresses-mattress-sets) [Mattress in a Box](https://www.thebrick.com/collections/mattresses-mattress-in-a-box) [Boxsprings & Bases](https://www.thebrick.com/collections/mattresses-boxsprings-bases) [Accessories](https://www.thebrick.com/collections/mattresses-accessories) [Brands](#)
 
-* [![The Brick mattress store](//www.thebrick.com/cdn/shop/t/827/assets/lazyPixel.png?v=40482922527014850811730221094)](https://www.thebrick.com/pages/brick-mattress-store)
+* [![The Brick mattress store](//www.thebrick.com/cdn/shop/t/828/assets/lazyPixel.png?v=40482922527014850811730306148)](https://www.thebrick.com/pages/brick-mattress-store)
 
 [Back to Mattresses](#)
 
@@ -215,7 +215,7 @@ Seller Name
 * [Contact Us](https://www.thebrick.com/pages/contact-us)
 * [Français](https://www.brickenligne.com/pages/privacy-policy)
 
-[![THE BRICK](//www.thebrick.com/cdn/shop/t/827/assets/Brick-logo-en.svg?v=144201696812184966561730221057)](https://www.thebrick.com/)
+[![THE BRICK](//www.thebrick.com/cdn/shop/t/828/assets/Brick-logo-en.svg?v=144201696812184966561730306109)](https://www.thebrick.com/)
 
  
 
@@ -445,11 +445,11 @@ Company Information
 
 We accept:
 
-* ![flexiti card.](//www.thebrick.com/cdn/shop/t/827/assets/lazyPixel.png?v=40482922527014850811730221094)
-* ![visa card.](//www.thebrick.com/cdn/shop/t/827/assets/lazyPixel.png?v=40482922527014850811730221094)
-* ![visa debit card.](//www.thebrick.com/cdn/shop/t/827/assets/lazyPixel.png?v=40482922527014850811730221094)
-* ![AmericanExpress.](//www.thebrick.com/cdn/shop/t/827/assets/lazyPixel.png?v=40482922527014850811730221094)
-* ![Mastercard.](//www.thebrick.com/cdn/shop/t/827/assets/lazyPixel.png?v=40482922527014850811730221094)
+* ![flexiti card.](//www.thebrick.com/cdn/shop/t/828/assets/lazyPixel.png?v=40482922527014850811730306148)
+* ![visa card.](//www.thebrick.com/cdn/shop/t/828/assets/lazyPixel.png?v=40482922527014850811730306148)
+* ![visa debit card.](//www.thebrick.com/cdn/shop/t/828/assets/lazyPixel.png?v=40482922527014850811730306148)
+* ![AmericanExpress.](//www.thebrick.com/cdn/shop/t/828/assets/lazyPixel.png?v=40482922527014850811730306148)
+* ![Mastercard.](//www.thebrick.com/cdn/shop/t/828/assets/lazyPixel.png?v=40482922527014850811730306148)
 
 Prices on this website are for online purchases only. Prices in-store may differ.
 
