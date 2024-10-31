@@ -76,11 +76,11 @@ Trending Posts
 * [Billionaires spew more CO2 pollution in 90 minutes than average person in a lifetime](https://therealnews.com/billionaires-spew-more-co2-pollution-in-90-minutes-than-average-person-in-a-lifetime)
 * [Zionism is driving a growing divide in Jewish communities](https://therealnews.com/zionism-is-driving-a-growing-divide-in-jewish-communities)
 * ['I'm not interested in changing hearts and minds': The work of an anti-Zionist rabbi](https://therealnews.com/the-work-of-an-anti-zionist-rabbi)
+* [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
 * [France wants to make Olympics-style surveillance permanent](https://therealnews.com/france-wants-to-make-olympics-style-surveillance-permanent)
 * [Israeli use of white phosphorus in Lebanon injured UN peacekeepers: Report](https://therealnews.com/israeli-use-of-white-phosphorus-in-lebanon-injured-un-peacekeepers)
 * [This CEO left coal miners penniless. Why did a West Virginia town give him a lucrative tax break to build a luxury hotel?](https://therealnews.com/this-ceo-left-coal-miners-penniless-why-did-a-west-virginia-town-give-him-a-lucrative-tax-break-to-build-a-luxury-hotel)
 * [‘This is an extermination’: Israel’s assault on north Gaza’s last functioning hospital](https://therealnews.com/this-is-an-extermination-israels-assault-on-north-gazas-last-functioning-hospital)
-* [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
 * [Two years into a strike, Pittsburgh Post-Gazette workers aren’t ready to give up](https://therealnews.com/two-years-into-a-strike-pittsburgh-post-gazette-workers)
 
 Close
@@ -140,11 +140,11 @@ Trending Posts
 * [Billionaires spew more CO2 pollution in 90 minutes than average person in a lifetime](https://therealnews.com/billionaires-spew-more-co2-pollution-in-90-minutes-than-average-person-in-a-lifetime)
 * [Zionism is driving a growing divide in Jewish communities](https://therealnews.com/zionism-is-driving-a-growing-divide-in-jewish-communities)
 * ['I'm not interested in changing hearts and minds': The work of an anti-Zionist rabbi](https://therealnews.com/the-work-of-an-anti-zionist-rabbi)
+* [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
 * [France wants to make Olympics-style surveillance permanent](https://therealnews.com/france-wants-to-make-olympics-style-surveillance-permanent)
 * [Israeli use of white phosphorus in Lebanon injured UN peacekeepers: Report](https://therealnews.com/israeli-use-of-white-phosphorus-in-lebanon-injured-un-peacekeepers)
 * [This CEO left coal miners penniless. Why did a West Virginia town give him a lucrative tax break to build a luxury hotel?](https://therealnews.com/this-ceo-left-coal-miners-penniless-why-did-a-west-virginia-town-give-him-a-lucrative-tax-break-to-build-a-luxury-hotel)
 * [‘This is an extermination’: Israel’s assault on north Gaza’s last functioning hospital](https://therealnews.com/this-is-an-extermination-israels-assault-on-north-gazas-last-functioning-hospital)
-* [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
 * [Two years into a strike, Pittsburgh Post-Gazette workers aren’t ready to give up](https://therealnews.com/two-years-into-a-strike-pittsburgh-post-gazette-workers)
 
 [Skip to content](#main)
