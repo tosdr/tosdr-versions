@@ -1,233 +1,497 @@
-    [![Logo](https://www.adways.com/wp-content/uploads/2021/03/Logo-Adways_white.png) ![Logo](http://63.32.138.33/wp-content/uploads/2020/12/adways_black.png) ![Logo](http://63.32.138.33/wp-content/uploads/2020/12/adways_white.png) ![Logo](https://www.adways.com/wp-content/uploads/2021/03/Logo-Adways_white.png) ![Logo](https://www.adways.com/wp-content/uploads/2021/03/logoW.png)](https://www.adways.com/?lang=en)
+[![](https://weborama.com/wp-content/uploads/2024/04/Logo_dip.png)](https://weborama.com/)
 
-* [English](#)
-    * [Français](https://www.adways.com/privacy-policy)
+* [Nos solutions](https://weborama.com/)
+    * [Webo Media](https://weborama.com/solutions-pour-annonceurs/)
+        * [Trading Desk & Solutions Média](https://weborama.com/trading-desk/)
+        * [Weborama Studio](https://weborama.com/weborama-studio/)
+    * [Webo Tech & Services](https://weborama.com/solutions-pour-editeurs/)
+        * [Customer Data Platform](https://weborama.com/customer-data-platform-3/)
+        * [Data Clean Room](https://weborama.com/data-cleanroom/)
+        * [Data & Insights](https://weborama.com/data-insights/)
+* [Weborama Galerie](https://weborama.com/weborama-galerie/)
+* [Newsroom](https://weborama.com/newsroom/)
+* [Privacy](https://weborama.com/politique-de-confidentialite/)
+* [A propos](https://weborama.com/a-propos-de-nous/)
+    * [A propos de nous](https://weborama.com/a-propos-de-nous/)
+    * [La Tech at Weborama](https://weborama.com/tech-webo/)
+    * [Nos partenaires](https://weborama.com/nos-partenaires-officiels/)
+* [Contact](https://weborama.com/contact/)
+* [Carrière](https://weborama.com/carriere/)
+* [Connexion](https://keycloak-auth.weborama.com/auth/realms/weborama/protocol/openid-connect/auth?response_type=code&redirect_uri=https%3A%2F%2Fclient.weborama.com%2Fsignin_to_portal&client_id=weborama-portal-manager&kc_idp_hint=webo-oidc&scope=openid+profile+email+phone)
+* [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAbFBMVEVzldTg4ODS0tLxDwDtAwDjAADD0uz39/fy8vL3k4nzgna4yOixwuXu7u7s6+zn5+fyd2rvcGPtZljYAABrjNCpvOHrWkxegsqfs93NAADpUUFRd8THAABBa7wnVbERRKa8vLyxsLCoqKigoKClCvcsAAAAXklEQVR4AS3JxUEAQQAEwZo13Mk/R9w5/7UERJCIGIgj5qfRJZEpPyNfCgJTjMR1eRRnJiExFJz5Mf1PokWr/UztIjRGQ3V486u0HO55m634U6dMcf0RNPfkVCTvKjO16xHA8miowAAAAABJRU5ErkJggg==)Français](#pll_switcher)
+    * [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAmVBMVEViZsViZMJiYrf9gnL8eWrlYkjgYkjZYkj8/PujwPybvPz4+PetraBEgfo+fvo3efkydfkqcvj8Y2T8UlL8Q0P8MzP9k4Hz8/Lu7u4DdPj9/VrKysI9fPoDc/EAZ7z7IiLHYkjp6ekCcOTk5OIASbfY/v21takAJrT5Dg6sYkjc3Nn94t2RkYD+y8KeYkjs/v7l5fz0dF22YkjWvcOLAAAAgElEQVR4AR2KNULFQBgGZ5J13KGGKvc/Cw1uPe62eb9+Jr1EUBFHSgxxjP2Eca6AfUSfVlUfBvm1Ui1bqafctqMndNkXpb01h5TLx4b6TIXgwOCHfjv+/Pz+5vPRw7txGWT2h6yO0/GaYltIp5PT1dEpLNPL/SdWjYjAAZtvRPgHJX4Xio+DSrkAAAAASUVORK5CYII=)English](https://weborama.com/en/)
+    * [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAflBMVEX/AAD9AAD3AADxAADrAAD/eXn9bGz8YWH8WVn6UVH5SEj5Pz/3NDT0Kir9/QD+/nL+/lT18lDt4Uf6+j/39zD39yf19R3n5wDxflXsZ1Pt4Y3x8zr0wbLs1NXz8xPj4wD37t3jmkvsUU/Bz6nrykm3vJ72IiL0FBTyDAvhAABEt4UZAAAAX0lEQVR4AQXBQUrFQBBAwXqTDkYE94Jb73+qfwVRcYxVQRBRToiUfoaVpGTrtdS9SO0Z9FR9lVy/g5c99+dKl30N5uxPuviexXEc9/msC7TOkd4kHu/Dlh4itCJ8AP4B0w4Qwmm7CFQAAAAASUVORK5CYII=)Español](https://weborama.com/es/)
+    * [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAUVBMVEUAiQAAgADk5OTe3t7vAAB3yXf9/f36+vr5Vlb3RkZjwWNYvVj4+Pj1MzP1KChQuFD1GxviAABHtUf19fXzDw4/sT8AcAA2qzYAWgDLy8vDw8ObXclsAAAAVElEQVR4AQXBSwoCQRQEsNT70CC69P5XdCUMA2ISSAiBWAQScg8bN7GJWxFDrCivwhCLMipGx3LKUOi2HAZluy2HgXprxQGfGL6G63B5MJ5FCD/4A3DaCLvbBle5AAAAAElFTkSuQmCC)Italiano](https://weborama.com/it/)
+    * [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAdVBMVEX19f/u7vjm5/H+/v75+fng4Ove3ulFRfyysv6cnP6QkPmIiPh/f/YAAOYAAP1ycv5QUP06OvkxMfcoKPcgIPYUFPS0AADdaYzTRG/RPGnOM2LKLFzIIVPCEUZ7AAD0AQH7YGH3ODj0JyfzERDgAAD4TU3pAABIfLuPAAAAT0lEQVR4AQXBAQqDMAAAsZytyHzA/v9LYRS7JIAQMkBb0ATsgLoKInnHvIrHrdRaBzxupTDxuFUifUsp4R3zU4iwzmOyT1ibBtP2u3C+wB+SHBB5JNY7DAAAAABJRU5ErkJggg==)Русский](https://weborama.com/ru/)
+    * [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAbFBMVEVzldTg4ODS0tLxDwDtAwDjAADD0uz39/fy8vL3k4nzgna4yOixwuXu7u7s6+zn5+fyd2rvcGPtZljYAABrjNCpvOHrWkxegsqfs93NAADpUUFRd8THAABBa7wnVbERRKa8vLyxsLCoqKigoKClCvcsAAAAXklEQVR4AS3JxUEAQQAEwZo13Mk/R9w5/7UERJCIGIgj5qfRJZEpPyNfCgJTjMR1eRRnJiExFJz5Mf1PokWr/UztIjRGQ3V486u0HO55m634U6dMcf0RNPfkVCTvKjO16xHA8miowAAAAABJRU5ErkJggg==)Français](https://weborama.com/weborama-studio/)
 
-* [InVideo](https://www.adways.com/?lang=en)
-* [Studio](https://www.adways.com/studioen?lang=en)
-* [Gallery](https://www.adways.com/gallery?lang=en)
-* [Contact](https://www.adways.com/contacten?lang=en)
+Weborama Studio
+===============
 
-* [InVideo](https://www.adways.com/?lang=en)
-* [Studio](https://www.adways.com/studioen?lang=en)
-* [Gallery](https://www.adways.com/gallery?lang=en)
-* [Contact](https://www.adways.com/contacten?lang=en)
+Votre plateforme créative, disponible en Saas ou managed, pour rendre vos campagnes digitales plus impactantes et engageantes.
 
-#### ADWAYS PRIVACY POLICY
+DEMANDER UNE DEMO
 
-#### Adways is an advertising marketplace that proposes innovative advertising solutions to website and/or content publishers (the “**Publishers**”), as well as advertisers and/or their intermediaries such as media agencies (the “**Advertisers**”) all over Europe, USA, Latin America and Asia.
+![](https://weborama.com/wp-content/uploads/2024/04/Groupe-114.png "Groupe 114")
 
-#### Publishers use Adways advertising solutions to monetize their ad spaces either directly or through Adways advertising demand including other advertising buyer partners.
+![](https://weborama.com/wp-content/uploads/2024/01/icone-template.png "icone template")
 
-#### Advertisers or their intermediaries (eg. media agencies) display their advertising campaigns through Adways advertising solutions on the websites or apps of our publisher partners.
+### Plus de 50 templates
 
-#### Adways advertising technology collects and uses data to help make online advertising more relevant as well as for ad delivery and reporting purposes. Our ads are placed contextually as an overlay or around video editorial contents to be more relevant for you than standard advertising you would receive otherwise.
+Adaptez votre créa publicitaire à chacun de vos objectifs.
 
-#### In the context of the implementation of our advertising solutions, the data we collect may include some of your personal date, the process of which is detailed herein.
+![](https://weborama.com/wp-content/uploads/2024/01/icone-full-stack.png "icone full stack")
 
-#### **Scope of this privacy policy**
+### Une plateforme full-stack
 
-#### Adways SAS, together with its affiliates (“Adways”, “we”, “us”, or “our”) recognizes the importance of privacy and is committed to providing transparency and control over the use of the data in online advertising.
+Optimisez votre temps et vos campagnes via une interface intuitive accessible en Self ou en Managed.
 
-#### We collect and process your personal data in compliance with the French law N° 78-17 dated 6th January 1978 on Information Technology, Data Files and Civil Liberties (the “**French Data Protection Act**”), as well as the regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (the “**GDPR**”).
+![](https://weborama.com/wp-content/uploads/2024/01/icone-accompagnement.png "icone accompagnement")
 
-#### This privacy policy details Adways data practices on how we collect, use, process and share the data we may collect through our advertising services as well as the ways in which individuals may exercise control over the use of information collected by us.
+### Un accompagnement global
 
-#### **1\. User identification**  
-Adways does not collect or process any information that allows identifying a particular individual directly.
+Réalisez vos campagnes digitales de A à Z : de la conception à la diffusion.
 
-#### We do not collect or process information related to (i) name, user address, place of work, date of birth, email address, or phone number (ii) hardware-based identifiers such as UDID or MAC Address and (iii) sensitive information (such as religion, political opinion, health…).
+Pré-rolls enrichis
+------------------
 
-#### We do not create segments to specifically target children under 16 years old.
+![](https://weborama.com/wp-content/uploads/2024/01/ad-selector-la-poste.gif "ad selector la poste")
 
-#### **Cookie-based identification**
+### Ad Selector
 
-#### In order to deliver personalized ads as well as non-personalized ads, Adways uses the Cookie-based identification method to single out users.
+Un format engageant offrant à l’internaute le choix de la publicité, une solution pour qualifier les préférences de vos consommateurs et mieux les cibler.
 
-#### To this end, Adways drops a cookie on the user web and/or mobile browser. Cookies are used to single out a user and store a randomly generated identifier to identify his browser across visits.
+|     |     |
+| --- | --- |
+| #### CTR<br><br>##### 5,26%\* | #### VTR<br><br>##### 82,53%\* |
 
-#### **2\. Information we collect**
+###### \*Moyenne des performances tous publishers/players et secteurs confondus
 
-#### We collect data through our web tags on publisher web pages.
+[VOIR PLUS](https://weborama.com/weborama-galerie/preroll-enrichis/)
 
-#### Collected data are:
+![](https://weborama.com/wp-content/uploads/2024/01/kracken.gif "kracken")
 
-#### **Page URL**
+### Multividéos
 
-#### **Browser Information** (eg: Browser name and version)
-
-#### **Device Information** (eg: Device type, OS)
-
-#### **User Interactions with Adways Ad** (eg: clicks or video views)
-
-#### **IP address**
-
-#### **Country Location Information**
-
-#### **3\. Data use**
-
-#### We use the information we collect for the following requirements:
-
-#### **User frequency Capping:** We use data to prevent displaying too many times the same ad to the same user.
-
-#### **Analytics:** We use collected data for monitoring and reporting the campaign delivery for Advertisers and Publishers and for internal business analysis.
-
-#### **Delivery Algorithm training:** We use collected data in order to improve our service and technology.
-
-#### Such requirements arise from our agreements concluded with Advisers and Publishers, under which the same ads must not be displayed to the same users and are subject to statistical reporting. We therefore use the data we collect on the legal basis of our legitimate interest resulting from the fulfillment of our contract obligations.
-
-#### **4. Recipients of the data we collect**
-
-#### The persons who have the right to access to your data are our personnel, the services in charge of control (including external auditors) and our subcontractors, including companies specialized in campaign measurement such as MOAT or IAS in order to verify that our ads are viewable.
-
-#### In addition, we may give access to your data to government agencies, for the sole purposes of meeting legal requirements, or to representatives of the law, ministerial officers and/or organizations in charge of debt collection.
-
-#### **5\. Data collection and processing by our partners**
-
-#### Your personal data will not be exchanged with, transferred or rented to any third party.
-
-#### In particular, our partners, including those acting as “Programmatic Buyers” that use Demand Side Platforms for purposes of purchasing our ad placements through programmatic auctions ad, directly collect your data and are solely responsible, as data controllers, of their processing in order to deliver their ads on Adways network.
-
-#### If you do not want us to use your IP to count the number of times you have seen the same ad, please follow the instructions below.
-
-#### **To opt-out from your web browser**
-
-#### If you opt-out, you will still see ads, but not capped; we will not be able to control the frequency of occurrence of a given ad.
-
-#### The opt-out mechanism will only opt you out of the capping on this browser or mobile applications on this device (e.g., phones, tablets). It will not opt you out on other devices or in other browsers you use.
-
-#### [You can opt-out from Adways partners personalized advertising by clicking here](http://www.youronlinechoices.com/uk/your-ad-choices)
-
-#### You can as well refer to their policy
+Un format percutant et interactif pour raconter une histoire autour de la marque ou du produit grâce à l’affichage de plusieurs contenus vidéos au sein d’un même pré-roll.
 
 |     |     |     |
 | --- | --- | --- |
-| #### **Name** | #### **Purpose** | #### **Policy link** |
+| #### CTR - Action select vidéo<br><br>##### 0,67%\* | #### CTR - Clics vidéos<br><br>##### 2,21%\* | #### VTR<br><br>##### 66,12% |
+
+###### \*Moyenne des performances tous publishers/players et secteurs confondus
+
+[VOIR PLUS](https://weborama.com/weborama-galerie/preroll-enrichis/)
+
+![](https://weborama.com/wp-content/uploads/2024/01/paramount.gif "paramount")
+
+### Skin Preroll
+
+Un format populaire du Weborama Studio déclinable selon vos objectifs (slider, DCO, QR code), garantissant la visibilité de votre marque dès la première seconde du spot publicitaire.
+
+|     |     |
+| --- | --- |
+| #### CTR<br><br>##### 4,02%\* | #### VTR<br><br>##### 83,45% |
+
+###### \*Moyenne des performances tous publishers/players et secteurs confondus
+
+[VOIR PLUS](https://weborama.com/weborama-galerie/preroll-enrichis/)
+
+![](https://weborama.com/wp-content/uploads/2024/01/sendaya.gif "sendaya")
+
+### S'Keep
+
+Un format impactant assurant l’ancrage mémoriel de votre marque dans un environnement saturé où la plupart des internautes passent le spot publicitaire dès les premières secondes. 
+
 |     |     |     |
-| #### Criteo | #### Advertising sourcing | #### [https://www.criteo.com/privacy/](https://www.criteo.com/privacy/) |
-| #### Outbrain | #### Advertising sourcing | #### [https://www.outbrain.com/legal/privacy#privacy-policy](https://www.outbrain.com/legal/privacy#privacy-policy) |
-| #### Adux | #### Advertising sourcing | #### [http://www.adux.com/en/privacy/](http://www.adux.com/en/privacy/) |
-| #### triplelift | #### Advertising sourcing | #### [https://triplelift.com/privacy/](https://triplelift.com/privacy/) |
-| #### Antvoice | #### Advertising sourcing | #### [https://www.antvoice.com/en/privacypolicy/](https://www.antvoice.com/en/privacypolicy/) |
-| #### Xandr | #### Adserver/ SSP | #### [https://www.appnexus.com/fr/platform-privacy-policy](https://www.appnexus.com/fr/platform-privacy-policy) |
+| --- | --- | --- |
+| #### CTR<br><br>##### 6,02%\* | #### Taux de complétion<br><br>##### 50,47%\* | #### Taux de skip<br><br>##### 23,24% |
 
-#### **6.** **Data retention and storage**
+###### \*Moyenne des performances tous publishers/players et secteurs confondus
 
-#### We retain the data linked to a user, as well as the cookie set forth in section “_Cookie-based identification_”, up to 12 (twelve) months from the date of collection. We may also store aggregated and non-personal data for a longer period than 12 (twelve) months for financial and statistical reasons.
+[VOIR PLUS](https://weborama.com/weborama-galerie/preroll-enrichis/)
 
-#### **7\. Security measures**
+Formats mobiles
+---------------
 
-#### We take all necessary precautions, as well as all appropriate organizational and technical measures, to maintain the security, the integrity and the confidentiality of your data, including to prevent that they should be distorted or damaged and that any unauthorized third-party should access to them.
+### Drag & Shop
 
-#### To this end, Adways uses generally accepted industry security standards to protect data
+Un format offrant une expérience drive to eShop adaptée aux nouveaux modes de consommation pour inciter l’internaute à l’achat en déposant l’article dans son panier.
 
-#### **8\. Hosting**
+[VOIR PLUS](https://weborama.com/weborama-galerie/formats-display/)
 
-#### Data are stored for the term of storage set forth above, on the servers of the company Amazon Web Service (AWS), which are located in the European Union.
+![](https://weborama.com/wp-content/uploads/2024/01/dragnshopcarrefour.gif "dragnshopcarrefour")
 
-#### They shall not be transferred outside the European Union.
+### InterStory
 
-#### **9\. Exercising your rights**
+Un format vidéo inspiré des publicités sur les réseaux sociaux, capturant les tendances actuelles, pour une diffusion optimisée et étendue de vos créations sur un environnement mobile.
 
-#### In compliance with the French Data Protection Act and the GDPR, you have the following rights:
+[VOIR PLUS](https://weborama.com/weborama-galerie/formats-display/)
 
-#### (i) you have the right to access, rectify and delete any of your data;
+![](https://weborama.com/wp-content/uploads/2024/01/Storybeaute.gif "Storybeaute")
 
-#### (ii) you have the right to request restriction of the processing of your data when one of the following applies:
+### Inter360
 
-#### Within the period of verification that we carry out, if you contest the accuracy of your personal data;
+Un format premium pour une mise en avant innovante et différenciante de votre produit.
 
-#### When the processing of these data is unlawful et you request the restriction of this processing, instead of erasing your data;
+[VOIR PLUS](https://weborama.com/weborama-galerie/formats-display/)
 
-#### When we no longer need your personal data, but you require their maintenance for the exercise of legal claims;
+![](https://weborama.com/wp-content/uploads/2024/01/objet360gucci.gif "objet360gucci")
 
-#### Within the period of verification of the legitimate interests, if you have objected to the processing of your personal data.
+### Scraper
 
-  
+Un format interactif qui invite le mobinaute à jouer en frottant son écran pour découvrir un produit, un code promo ou bien d’autres surprises.
 
-#### (iii) you have the right to object to the processing of your data.
+[VOIR PLUS](https://weborama.com/weborama-galerie/formats-display/)
 
-#### We may however carry on with this processing if there are legitimate reasons for it that should prevail over your rights and freedoms or if it is required in order to establish, exercise or defend our rights before courts.
+![](https://weborama.com/wp-content/uploads/2024/02/scrapperheineken.gif "scrapperheineken")
 
-#### (iv) you have the right to submit a complaint before the CNIL (French Data Protection Authority) or any other supervisory authority competent in your place of ordinary residence, your place of work or the place in which your rights were infringed, if you consider that the data processing under this Privacy Policy is a violation of the applicable regulations.
+Formats sur-mesure
+------------------
 
-#### You may exercise these rights by sending us a request through the addresses indicated in section “_Contact Us_”.
+![](https://weborama.com/wp-content/uploads/2024/01/00-Gabarit-16-9.gif "00-Gabarit - 16-9")
 
-#### **10\. Miscellaneous**
+### Color Selector
 
-#### **Changes to our privacy policy**
+Un format interactif permettant de définir l’apparence du produit et d’en visualiser le rendu avec la couleur sélectionnée au sein du même format.
 
-#### Please note that we may update or change this privacy policy. If we revise our privacy policy, we will post those changes to this privacy statement, and to other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any we disclose it. If we make any material changes we will notify you by means of a notice on this site prior to the change becoming effective.
+[VOIR PLUS](https://weborama.com/weborama-galerie/formats-sur-mesure/)
 
-#### **Adways Self Regulation commitments**
+![](https://weborama.com/wp-content/uploads/2024/01/pop-up-auto-.gif "pop up auto")
 
-#### Adways is committed to initiatives that intend to provide greater transparency and control for users and as such adheres to the following the IAB France.
+### Pop-up
 
-#### **Contact Us**
+Un format unique offrant la possibilité de découvrir une caractéristique d’un produit grâce à l’ouverture d’un pop-up spécifique lors du clic d’un des boutons présents sur la créa.
 
-#### Upon request, Adways will provide you with information about whether we hold any of your personal information. You may exercise your rights provided in section “Exercising your rights” by contacting us as described below. We will respond to your request within a reasonable timeframe.For any questions about this Privacy Policy or our data practices, you can contact Adways:
+[VOIR PLUS](https://weborama.com/weborama-galerie/formats-sur-mesure/)
 
-#### By email: dpo@adways.com
+![](https://weborama.com/wp-content/uploads/2024/01/michel-et-augustin.gif "michel et augustin")
 
-#### By mail: Legal Department (DPO) -Adways – 55 rue des francs bourgeois – 75004 Paris – France
+### GameRoll
 
-##### Pages
+Un format sur-mesure avec une expérience interactive qui offre à l’internaute la possibilité de jouer en temps réel durant la publicité, faisant de lui un acteur privilégié de votre message créatif.
 
-* [Contact](https://www.adways.com/contacten?lang=en)
-* [Gallery](https://www.adways.com/gallery?lang=en)
-* [InVideo](https://www.adways.com/?lang=en)
-* [Legal mention](https://www.adways.com/elementor-2079?lang=en)
-* [Privacy Policy](https://www.adways.com/privacy-policy?lang=en)
-* [Rich Media](https://www.adways.com/rich-media?lang=en)
-* [Studio](https://www.adways.com/studioen?lang=en)
+[VOIR PLUS](https://weborama.com/weborama-galerie/formats-sur-mesure/)
 
-##### Follow us
+![](https://weborama.com/wp-content/uploads/2024/02/spiderman-coutndown-.gif "spiderman coutndown")
 
-[](https://www.linkedin.com/company/adways-sas/)[](https://www.facebook.com/adways.sas)[](https://twitter.com/adways_sas)
+### Countdown
 
-#### Paris
+Un format événementiel adaptable  
+avec l’intégration d’un compte à rebours pour répondre à toutes vos opérations spéciales telles que le lancement d’une collection, d’un produit, d’une promotion, etc.
 
-55 rue des Francs Bourgeois 75004 Paris
+[VOIR PLUS](https://weborama.com/weborama-galerie/formats-sur-mesure/)
 
-#### Lyon
+![](https://weborama.com/wp-content/uploads/2024/01/logoftp.png "logoftp")
 
-35 rue de Marseille 69007 Lyon
+![](https://weborama.com/wp-content/uploads/2024/01/Webedia-logo-2022.png "Webedia-logo-2022")
 
-[Contact us](https://d3cuu1thw579gh.cloudfront.net/contacten?lang=en)
+![](https://weborama.com/wp-content/uploads/2024/01/1200px-Logo_TF1_Publicite-e1706526730542.png "1200px-Logo_TF1_Publicité")
 
-* [![](https://www.adways.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png)English](#)
-    * [![](https://www.adways.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png)Français](https://www.adways.com/privacy-policy)
+Nos publishers  
+partenaires
+----------------------------
 
-We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies.
+![](https://weborama.com/wp-content/uploads/2024/01/logo-366-black.png "logo-366-black")
 
-Cookie settingsACCEPTREJECT
+![](https://weborama.com/wp-content/uploads/2024/01/logo_mediafigaro_black-e1706532792511.png "logo_mediafigaro_black")
 
-Manage consent
+![](https://weborama.com/wp-content/uploads/2024/01/Dailymotion_logo_2015.png "Dailymotion_logo_(2015)")
 
-Close
+![](https://weborama.com/wp-content/uploads/2024/01/1280px-Dpg-media-Logo.png "1280px-Dpg-media-Logo")
 
-#### Privacy Overview
+![](https://weborama.com/wp-content/uploads/2024/01/ALTICE_MEDIA_ADS_CONNECT_LOGO_REV_HOR_RGB.png "ALTICE_MEDIA_ADS_CONNECT_LOGO_REV_HOR_RGB")
 
-This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+![](https://weborama.com/wp-content/uploads/2024/01/captify-logo.png "captify-logo")
 
-Necessary
+[![](https://weborama.com/wp-content/uploads/2023/05/webo_Logo_dip-v1-full-white.png "webo_Logo_dip v1 full white")](https://beta.op-weborama.fr/)
 
- Necessary
+Solutions
+=========
 
-Always Enabled
+* [Solutions pour annonceurs](https://weborama.com/solutions-pour-annonceurs/)
+* [Solutions pour éditeurs](https://weborama.com/solutions-pour-editeurs/)
 
-Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+Ressources
+==========
 
-Analytics
+* [Case Studies](https://weborama.com/newsroom/)
+* [Actualité](https://weborama.com/category/actualite/)
+* [Communiqués de presse](https://weborama.com/category/communiques-de-presse/)
+* [Événements](https://weborama.com/category/evenements/)
 
- Analytics
+A propos
+========
 
-Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+* [A propos de nous](https://weborama.com/a-propos-de-nous/)
+* [Contact](https://weborama.com/contact/)
+* [Nous rejoindre](https://weborama.com/carriere/)
 
-Advertisement
+Suivez-nous
+===========
 
- Advertisement
+* [Suivre](https://www.linkedin.com/company/weborama "Suivez sur LinkedIn")
+* [Suivre](https://twitter.com/weborama?lang=en "Suivez sur X")
+* [Suivre](https://www.instagram.com/weborama_fr/?hl=en "Suivez sur Instagram")
 
-Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+© 2022 WEBORAMA – Tous droits réservés
 
-SAVE & ACCEPT
+### Récompenses
+
+![](https://weborama.com/wp-content/uploads/2022/08/Logo-NUIT-DES-ROIS.png "Logo NUIT DES ROIS")
+
+![](https://weborama.com/wp-content/uploads/2022/09/prix.png "prix")
+
+### Membre
+
+![](https://weborama.com/wp-content/uploads/2022/08/logo-iab.png "logo iab")
+
+![](https://weborama.com/wp-content/uploads/2022/09/irep.png "irep")
+
+![](https://weborama.com/wp-content/uploads/2022/09/image-3.png "image (3)")
+
+Privacy
+
+Opt out
+
+### Récompenses
+
+![](https://weborama.com/wp-content/uploads/2022/08/Logo-NUIT-DES-ROIS.png "Logo NUIT DES ROIS")
+
+![](https://weborama.com/wp-content/uploads/2022/09/prix.png "prix")
+
+### Membre
+
+![](https://weborama.com/wp-content/uploads/2022/08/logo-iab.png "logo iab")
+
+![](https://weborama.com/wp-content/uploads/2022/09/irep.png "irep")
+
+![](https://weborama.com/wp-content/uploads/2022/09/image-3.png "image (3)")
+
+Privacy
+
+Opt out
+
+© 2022 WEBORAMA – Tous droits réservés
+
+[![](https://weborama.com/wp-content/uploads/2023/05/webo_Logo_dip-v1-full-white.png "webo_Logo_dip v1 full white")](https://beta.op-weborama.fr/)
+
+Soluciones
+==========
+
+* [Soluciones para Anunciantes](https://weborama.com/es/soluciones-para-anunciantes/)
+* [Soluciones para Publishers](https://weborama.com/es/soluciones-para-publishers/)
+
+Sobre nosotros
+==============
+
+* [Sobre nosotros](https://weborama.com/es/sobre-nosotros/)
+* [Tech At Weborama](https://weborama.com/es/tech-at-weborama/)
+* [Contacto](https://weborama.com/es/contacto/)
+
+Síguenos
+========
+
+* [Suivre](https://www.linkedin.com/company/weborama "Suivez sur LinkedIn")
+
+© 2022 WEBORAMA – Todos los derechos reservados
+
+### Premios
+
+![](https://weborama.com/wp-content/uploads/2022/08/Logo-NUIT-DES-ROIS.png "Logo NUIT DES ROIS")
+
+![](https://weborama.com/wp-content/uploads/2022/09/prix.png "prix")
+
+### Miembro
+
+![](https://weborama.com/wp-content/uploads/2022/08/logo-iab.png "logo iab")
+
+![](https://weborama.com/wp-content/uploads/2022/09/irep.png "irep")
+
+![](https://weborama.com/wp-content/uploads/2022/09/image-3.png "image (3)")
+
+Privacy
+
+Opt out
+
+### Premios
+
+![](https://weborama.com/wp-content/uploads/2022/08/Logo-NUIT-DES-ROIS.png "Logo NUIT DES ROIS")
+
+![](https://weborama.com/wp-content/uploads/2022/09/prix.png "prix")
+
+### Miembro
+
+![](https://weborama.com/wp-content/uploads/2022/08/logo-iab.png "logo iab")
+
+![](https://weborama.com/wp-content/uploads/2022/09/irep.png "irep")
+
+![](https://weborama.com/wp-content/uploads/2022/09/image-3.png "image (3)")
+
+Privacy
+
+Opt out
+
+© 2022 WEBORAMA – Todos los derechos reservados
+
+[![](https://weborama.com/wp-content/uploads/2023/05/webo_Logo_dip-v1-full-white.png "webo_Logo_dip v1 full white")](https://beta.op-weborama.fr/)
+
+О нас
+=====
+
+* [**Контакты**](https://weborama.com/ru/%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b/)
+* [**Конфиденциальность**](https://weborama.com/ru/%d0%ba%d0%be%d0%bd%d1%84%d0%b8%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d1%81%d1%82%d1%8c/)
+
+Мы в телеграме
+==============
+
+* [Suivre](https://t.me/weborama "Suivez sur Telegram")
+
+© 2022 WEBORAMA – Все права защищены
+
+![](https://weborama.com/wp-content/uploads/2023/05/reg-2.png "reg")
+
+Weborama получила [свидетельство](https://cloud.weborama.io/index.php/s/WdrpFZEjTsEWkSP) о государственной регистрации Интеллектуальной платформы по управлению данными
+
+### Независимый рейтинг
+
+[![](https://weborama.com/wp-content/uploads/2023/05/adindex-3.png "adindex")](https://adindex.ru/ratings/tech/2023/314602/#314616)
+
+### Членство
+
+[![](https://weborama.com/wp-content/uploads/2023/05/arir-1.png "arir")](https://interactivead.ru/)
+
+Privacy
+
+Opt out
+
+### Независимый рейтинг
+
+[![](https://weborama.com/wp-content/uploads/2023/05/adindex-4.png "adindex")](https://adindex.ru/ratings/tech/2022/305482/#305520)
+
+### Членство
+
+[![](https://weborama.com/wp-content/uploads/2023/05/arir-2.png "arir")](https://interactivead.ru/)
+
+![](https://weborama.com/wp-content/uploads/2023/05/reg-4.png "reg")
+
+Weborama получила [свидетельство](https://cloud.weborama.io/index.php/s/WdrpFZEjTsEWkSP) о государственной регистрации Интеллектуальной платформы по управлению данными
+
+Privacy
+
+Opt out
+
+© 2022 WEBORAMA – Все права защищены
+
+[![](https://weborama.com/wp-content/uploads/2023/05/webo_Logo_dip-v1-full-white.png "webo_Logo_dip v1 full white")](https://beta.op-weborama.fr/)
+
+Le nostre soluzioni
+===================
+
+* [Soluzioni per Agenzie](https://weborama.com/it/soluzioni-per-agenzie/)
+* [Soluzioni per Editori](https://weborama.com/it/soluzioni-per-editori/)
+
+Blog
+====
+
+About us
+========
+
+* [Su di noi](https://weborama.com/it/su-di-noi/)
+* [Contattaci](https://weborama.com/it/contattaci/)
+
+Seguiteci
+=========
+
+* [Suivre](https://it.linkedin.com/company/weborama-italy "Suivez sur LinkedIn")
+* [Suivre](https://mobile.twitter.com/WeboramaItalia/ "Suivez sur X")
+* [Suivre](https://www.facebook.com/WeboramaItalia/ "Suivez sur Facebook")
+
+© 2022 WEBORAMA – Tutti i diritti riservati
+
+### Membership
+
+![](https://weborama.com/wp-content/uploads/2022/08/logo-iab.png "logo iab")
+
+![](https://weborama.com/wp-content/uploads/2022/09/irep.png "irep")
+
+Privacy
+
+Opt out
+
+### Membership
+
+![](https://weborama.com/wp-content/uploads/2022/08/logo-iab.png "logo iab")
+
+![](https://weborama.com/wp-content/uploads/2022/09/irep.png "irep")
+
+Privacy
+
+Opt out
+
+© 2022 WEBORAMA – Todos los derechos reservados
+
+[![](https://weborama.com/wp-content/uploads/2023/05/webo_Logo_dip-v1-full-white.png "webo_Logo_dip v1 full white")](https://beta.op-weborama.fr/)
+
+Solutions
+=========
+
+* [Solutions for Advertisers](https://weborama.com/en/solutions-for-advertisers/)
+* [Solutions for Publishers](https://weborama.com/en/solutions-for-publishers/)
+
+Ressources
+==========
+
+* [About](https://weborama.com/en/category/about/)
+
+About
+=====
+
+* [About us](https://weborama.com/en/about-us/)
+* [Tech At Weborama](https://weborama.com/en/tech-at-weborama-2/)
+* [Contact us](https://weborama.com/en/contact-us/)
+
+Follow us
+=========
+
+* [Suivre](https://www.linkedin.com/company/weborama "Suivez sur LinkedIn")
+
+© 2022 WEBORAMA – All rights reserved
+
+### Awards
+
+![](https://weborama.com/wp-content/uploads/2022/08/Logo-NUIT-DES-ROIS.png "Logo NUIT DES ROIS")
+
+![](https://weborama.com/wp-content/uploads/2022/09/prix.png "prix")
+
+### Member
+
+![](https://weborama.com/wp-content/uploads/2022/08/logo-iab.png "logo iab")
+
+![](https://weborama.com/wp-content/uploads/2022/09/irep.png "irep")
+
+![](https://beta.op-weborama.fr/wp-content/uploads/2022/09/image-3.png "image (3)")
+
+Privacy
+
+Opt out
+
+### Awards
+
+![](https://weborama.com/wp-content/uploads/2022/08/Logo-NUIT-DES-ROIS.png "Logo NUIT DES ROIS")
+
+![](https://weborama.com/wp-content/uploads/2022/09/prix.png "prix")
+
+### Member
+
+![](https://weborama.com/wp-content/uploads/2022/08/logo-iab.png "logo iab")
+
+![](https://weborama.com/wp-content/uploads/2022/09/irep.png "irep")
+
+![](https://weborama.com/wp-content/uploads/2022/09/image-3.png "image (3)")
+
+Privacy
+
+Opt out
+
+© 2022 WEBORAMA – All rights reserved
