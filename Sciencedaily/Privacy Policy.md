@@ -208,6 +208,9 @@ this hour
 
 * * *
 
+* [Quantum Network Link Between Cities](https://www.sciencedaily.com/releases/2024/10/241030145638.htm)
+* [Fastest-Spinning Star in the Universe?](https://www.sciencedaily.com/releases/2024/10/241030150425.htm)
+* [Meltwater Accumulation Within Greenland Ice ...](https://www.sciencedaily.com/releases/2024/10/241030145900.htm)
 * [Natural Regrowth of Tropical Forests: Huge ...](https://www.sciencedaily.com/releases/2024/10/241030150020.htm)
 * ['Black Box' of Stem Cell Transplants Opened](https://www.sciencedaily.com/releases/2024/10/241030145819.htm)
 * [How Sleeping Sickness Parasite Outsmarts ...](https://www.sciencedaily.com/releases/2024/10/241030145811.htm)
@@ -215,9 +218,6 @@ this hour
 * [Why Crocs Never Became Deep Divers: Sinuses](https://www.sciencedaily.com/releases/2024/10/241029203003.htm)
 * [Shakespeare Typing Monkeys? Universe Too Short](https://www.sciencedaily.com/releases/2024/10/241030150811.htm)
 * [Alcohol Consumption Among Non-Human Animals](https://www.sciencedaily.com/releases/2024/10/241030150809.htm)
-* [Solar-Powered Animal Cells](https://www.sciencedaily.com/releases/2024/10/241030150215.htm)
-* [Ancient DNA and History of Iconic Aurochs](https://www.sciencedaily.com/releases/2024/10/241030145858.htm)
-* [Farewell Frost! Preventing Frost Without Heat](https://www.sciencedaily.com/releases/2024/10/241030145719.htm)
 
 Trending Topics
 ---------------
@@ -228,9 +228,9 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Wounds and Healing](https://www.sciencedaily.com/news/health_medicine/wounds_and_healing/)
-
 [Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
+
+[Wounds and Healing](https://www.sciencedaily.com/news/health_medicine/wounds_and_healing/)
 
 [Kidney Disease](https://www.sciencedaily.com/news/health_medicine/kidney_disease/)
 
@@ -238,17 +238,17 @@ this week
 
 [Solar Energy](https://www.sciencedaily.com/news/matter_energy/solar_energy/)
 
-[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
+[Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
 
-[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
+[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
-
-[Evolutionary Biology](https://www.sciencedaily.com/news/plants_animals/evolution/)
-
 [Wild Animals](https://www.sciencedaily.com/news/plants_animals/wild_animals/)
+
+[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
+
+[Zoology](https://www.sciencedaily.com/news/plants_animals/zoology/)
 
   
 
