@@ -69,7 +69,7 @@
     Updates from TED and highlights from our global community](https://blog.ted.com/)
     
 
-[SIGN IN](https://auth.ted.com/users/new)[JOIN TED](https://www.ted.com/membership?utm_medium=website&utm_source=main-nav-header&utm_campaign=membership-ted)
+[SIGN IN](https://auth.ted.com/users/new)[MEMBERSHIP](https://www.ted.com/membership?utm_medium=website&utm_source=main-nav-header&utm_campaign=membership-ted)
 
 Type to search
 
