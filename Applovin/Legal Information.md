@@ -110,7 +110,7 @@
     
     [View all resources](https://www.applovin.com/resource-center/)
     
-    ###### More about us
+    More about us
     
     * [Partners](https://www.applovin.com/partners/)
     * [Jobs](https://www.applovin.com/jobs/)
