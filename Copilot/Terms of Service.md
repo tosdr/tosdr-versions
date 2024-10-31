@@ -237,7 +237,7 @@ I. **_Opt Out_**. Arbitration is not a mandatory condition of these Terms. If yo
 
 [Download](https://copilot.money/download)
 
-For Mac and iPhone
+For Mac, iPhone, and iPad
 
 [##### Developer Spotlight
 
