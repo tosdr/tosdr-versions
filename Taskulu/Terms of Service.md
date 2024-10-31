@@ -91,7 +91,7 @@ Demo request
 
 ### 
 
-![](/themes/custom/taskulu/assets/icons/request-demo.svg) Start for free
+![](/pagespeed_static/1.JiBnMqyl6S.gif) Start for free
 
 **Complete the form below and our Sales Team will get in touch shortly to discuss your project.**
 
@@ -105,7 +105,7 @@ Leave this field blank
 
 ### 
 
-![](/themes/custom/taskulu/assets/icons/request-application.svg) Application
+![](/pagespeed_static/1.JiBnMqyl6S.gif) Application
 
 **To join the Taskulu team, please complete the required information**
 
@@ -128,7 +128,7 @@ Leave this field blank
 
 ### 
 
-![](/themes/custom/taskulu/assets/icons/request-consultation.svg) Consultation
+![](/pagespeed_static/1.JiBnMqyl6S.gif) Consultation
 
 **Thinking of buying Taskulu and need advice?**
 
