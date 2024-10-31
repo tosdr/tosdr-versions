@@ -1,15 +1,15 @@
-Wednesday, October 30 2024
+Thursday, October 31 2024
 
 Breaking News
 
+* [Harris Will Reunite The Country, But First She Must Throw Out The Garbage](https://www.conservativedailynews.com/2024/10/harris-will-reunite-the-country-but-first-she-must-throw-out-the-garbage/)
+* [Republican Who Tanked Trump’s Chance To Net Extra Electoral College Vote Endorses Campaign To Deny GOP Senate Control](https://www.conservativedailynews.com/2024/10/republican-who-tanked-trumps-chance-to-net-extra-electoral-college-vote-endorses-campaign-to-deny-gop-senate-control/)
+* [Kamala Doesn’t Understand That The Presidency Is About Protecting The Liberties Of Citizens, Not About Dictating To Them](https://www.conservativedailynews.com/2024/10/kamala-doesnt-understand-that-the-presidency-is-about-protecting-the-liberties-of-citizens-not-about-dictating-to-them/)
 * [America In The Age Of Stupidity: This Election Boils Down To Real Vs Fake, Strong Vs. Weak](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-this-election-boils-down-to-real-vs-fake-strong-vs-weak/)
 * [Supreme Court Denies RFK Jr.’s Bid To Be Removed From Ballots In Two Key Swing States](https://www.conservativedailynews.com/2024/10/supreme-court-denies-rfk-jr-s-bid-to-be-removed-from-ballots-in-two-key-swing-states/)
 * [‘Ghost Guns’ Or Unchecked Agency Power?](https://www.conservativedailynews.com/2024/10/ghost-guns-or-unchecked-agency-power/)
 * [President Joe Biden’s Schedule for Wednesday, October 30, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-30-2024/)
 * [The Closing Argument Of A MAGA Supporter](https://www.conservativedailynews.com/2024/10/the-closing-argument-of-a-maga-supporter/)
-* [The Morally Bankrupt Entertainment Industry Enabled by Subliminally Forced Conversions](https://www.conservativedailynews.com/2024/10/the-morally-bankrupt-entertainment-industry-enabled-by-subliminally-forced-conversions/)
-* [The Democrats Are Done. They Are Out Of Gas And Ideas](https://www.conservativedailynews.com/2024/10/the-democrats-are-done-they-are-out-of-gas-and-ideas/)
-* [The Arrogant “News” Media’s Complete Lack of Self-Knowledge](https://www.conservativedailynews.com/2024/10/the-arrogant-news-medias-complete-lack-of-self-knowledge/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -130,6 +130,36 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5708-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/harris-will-reunite-the-country-but-first-she-must-throw-out-the-garbage/)
+    
+    [Harris Will Reunite The Country, But First She Must Throw Out The Garbage](https://www.conservativedailynews.com/2024/10/harris-will-reunite-the-country-but-first-she-must-throw-out-the-garbage/)
+    
+    October 30, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Child-shocked.png)](https://www.conservativedailynews.com/2024/10/republican-who-tanked-trumps-chance-to-net-extra-electoral-college-vote-endorses-campaign-to-deny-gop-senate-control/)
+    
+    [Republican Who Tanked Trump’s Chance To Net Extra Electoral College Vote Endorses Campaign To Deny GOP Senate Control](https://www.conservativedailynews.com/2024/10/republican-who-tanked-trumps-chance-to-net-extra-electoral-college-vote-endorses-campaign-to-deny-gop-senate-control/)
+    
+    October 30, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Screenshot_20241029_175926-220x150.jpg)](https://www.conservativedailynews.com/2024/10/kamala-doesnt-understand-that-the-presidency-is-about-protecting-the-liberties-of-citizens-not-about-dictating-to-them/)
+    
+    [Kamala Doesn’t Understand That The Presidency Is About Protecting The Liberties Of Citizens, Not About Dictating To Them](https://www.conservativedailynews.com/2024/10/kamala-doesnt-understand-that-the-presidency-is-about-protecting-the-liberties-of-citizens-not-about-dictating-to-them/)
+    
+    October 30, 2024
+    
+* [![Kamala Harris avoiding Joe Biden](https://www.conservativedailynews.com/wp-content/uploads/2024/10/gv103024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/ewwww-that-smell/)
+    
+    [Ewwww That Smell…](https://www.conservativedailynews.com/2024/10/ewwww-that-smell/)
+    
+    October 30, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/10/the-final-argument/)
+    
+    [The Final Argument](https://www.conservativedailynews.com/2024/10/the-final-argument/)
+    
+    October 30, 2024
+    
 * [![Donald Trump energizer bunny keeps going](https://www.conservativedailynews.com/wp-content/uploads/2024/10/06-hienergy-sm-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-beat-goes-on/)
     
     [The Beat Goes On](https://www.conservativedailynews.com/2024/10/the-beat-goes-on/)
@@ -145,36 +175,6 @@ Recent Posts
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/us-supreme-court-building-g9793e7da6_1280-220x150.jpg)](https://www.conservativedailynews.com/2024/10/supreme-court-denies-rfk-jr-s-bid-to-be-removed-from-ballots-in-two-key-swing-states/)
     
     [Supreme Court Denies RFK Jr.’s Bid To Be Removed From Ballots In Two Key Swing States](https://www.conservativedailynews.com/2024/10/supreme-court-denies-rfk-jr-s-bid-to-be-removed-from-ballots-in-two-key-swing-states/)
-    
-    October 30, 2024
-    
-* [![ATF logo and ammo](https://www.conservativedailynews.com/wp-content/uploads/2017/10/ATF-logo-and-ammo-e1507237007781.png)](https://www.conservativedailynews.com/2024/10/ghost-guns-or-unchecked-agency-power/)
-    
-    [‘Ghost Guns’ Or Unchecked Agency Power?](https://www.conservativedailynews.com/2024/10/ghost-guns-or-unchecked-agency-power/)
-    
-    October 30, 2024
-    
-* [![Halloween biden trick debt](https://www.conservativedailynews.com/wp-content/uploads/2023/10/image-66-220x150.png)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-30-2024/)
-    
-    [President Joe Biden’s Schedule for Wednesday, October 30, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-30-2024/)
-    
-    October 30, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg103024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/trick-or-treat/)
-    
-    [Trick or Treat](https://www.conservativedailynews.com/2024/10/trick-or-treat/)
-    
-    October 30, 2024
-    
-* [![Top 10 new cars under 18000](https://www.conservativedailynews.com/wp-content/uploads/2017/05/Top-10-new-cars-under-18000.png)](https://www.conservativedailynews.com/2024/10/realistically-simple-ways-to-make-your-car-virtually-unstealable/)
-    
-    [Realistically Simple Ways to Make Your Car (Virtually) Unstealable](https://www.conservativedailynews.com/2024/10/realistically-simple-ways-to-make-your-car-virtually-unstealable/)
-    
-    October 30, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5706-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/the-closing-argument-of-a-maga-supporter/)
-    
-    [The Closing Argument Of A MAGA Supporter](https://www.conservativedailynews.com/2024/10/the-closing-argument-of-a-maga-supporter/)
     
     October 30, 2024
     
