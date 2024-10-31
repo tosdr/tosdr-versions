@@ -4,7 +4,7 @@
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111520-mid-day-digest-2024-10-30?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111548-mid-day-digest-2024-10-31?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -108,32 +108,36 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111520-mid-day-digest-2024-10-30?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111548-mid-day-digest-2024-10-31?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111521-biden-drops-the-act-2024-10-30)
+     [](https://patriotpost.us/memes/111551-go-as-garbage-2024-10-31)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34442)
+     [](https://patriotpost.us/cartoons/34444)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Mark Alexander An Open Letter to the Harris/Walz Supporters You Know](https://patriotpost.us/alexander/111522-an-open-letter-to-the-harris-slash-walz-supporters-you-know-2024-10-30)
-*      [Rich Lowry The Harris Campaign Is Testament to the Toxicity of Woke Politics](https://patriotpost.us/opinion/111503-the-harris-campaign-is-testament-to-the-toxicity-of-woke-politics-2024-10-30)
-*      [Star Parker What’s Wrong in Our Nation?](https://patriotpost.us/opinion/111501-whats-wrong-in-our-nation-2024-10-30)
-*      [Tim Graham The Hilarious Kerfuffle Over the Washington Post Non-Endorsement](https://patriotpost.us/opinion/111498-the-hilarious-kerfuffle-over-the-washington-post-non-endorsement-2024-10-30) 
-*      [Ian Haworth Trump Is Not a Fascist](https://patriotpost.us/opinion/111497-trump-is-not-a-fascist-2024-10-30)
-*      [Byron York Republican Irrational Exuberance?](https://patriotpost.us/opinion/111496-republican-irrational-exuberance-2024-10-30)
-*      [John Stossel Promoting Panic for Cash](https://patriotpost.us/opinion/111495-promoting-panic-for-cash-2024-10-30)
-*      [Gary Bauer National Faith Summit](https://patriotpost.us/opinion/111499-national-faith-summit-2024-10-30)
+*      [Ben Shapiro The Final Argument](https://patriotpost.us/opinion/111546-the-final-argument-2024-10-31)
+*      [Armstrong Williams Vote — Respect the Process](https://patriotpost.us/opinion/111544-vote-respect-the-process-2024-10-31)
+*      [Ann Coulter Take Two Million Immigrants and Call Me in the Morning](https://patriotpost.us/opinion/111542-take-two-million-immigrants-and-call-me-in-the-morning-2024-10-31)
+*      [Cal Thomas A Time for Choosing (Again)](https://patriotpost.us/opinion/111540-a-time-for-choosing-again-2024-10-31)
+*      [Gary Bauer Unity Garbage](https://patriotpost.us/opinion/111539-unity-garbage-2024-10-31)
+*      [Laura Hollis In 2024, Don’t Vote for the Empty Suit](https://patriotpost.us/opinion/111536-in-2024-dont-vote-for-the-empty-suit-2024-10-31)
+*      [Larry Elder A Pro-Trump Immigrant’s Story](https://patriotpost.us/opinion/111535-a-pro-trump-immigrants-story-2024-10-31)
+*      [Christine Flowers Some Jewish Voters Wising Up to Democrats](https://patriotpost.us/opinion/111534-some-jewish-voters-wising-up-to-democrats-2024-10-31)
+*      [Mark Alexander ‘Bitter, Deplorable, Fascist, NAZI,’ and Now ‘Garbage’ Too?](https://patriotpost.us/alexander/111549-bitter-deplorable-fascist-nazi-and-now-garbage-too-2024-10-31)
+*      [Jeff Jacoby Why I’m Not Voting for President](https://patriotpost.us/opinion/111547-why-im-not-voting-for-president-2024-10-31)
+*      [The Washington Stand Here’s What a Real ‘Direct Attack on Democracy’ Looks Like](https://patriotpost.us/opinion/111533-heres-what-a-real-direct-attack-on-democracy-looks-like-2024-10-31)
+*      [The Babylon Bee Trump Scores Coveted Endorsement From Hefty](https://patriotpost.us/opinion/111532-trump-scores-coveted-endorsement-from-hefty-2024-10-31)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,11 +151,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
-“I have sworn upon the altar of God, eternal hostility against every form of tyranny over the mind of man.” —Thomas Jefferson (1800)
+“I am not influenced by the expectation of promotion or pecuniary reward. I wish to be useful, and every kind of service necessary for the public good, become honorable by being necessary.” —Nathan Hale (1776)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
