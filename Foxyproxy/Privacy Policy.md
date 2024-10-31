@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Cool tool, cool support!
+Thank you SO MUCH for the super fast reply and help.
 
-Detlev Beutner
+David Jones
