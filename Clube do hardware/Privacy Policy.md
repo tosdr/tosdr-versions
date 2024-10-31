@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![MrPedru](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255292.thumb.png.0533d37c4bc1043952cc6df2e9dc525a.png)](https://www.clubedohardware.com.br/profile/1255292-mrpedru/ "Ir ao perfil de MrPedru")
+    * [![bebeta1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255313.thumb.jpeg.08c54dd0a995b99a0b3562563f7bc2d2.jpeg)](https://www.clubedohardware.com.br/profile/1255313-bebeta1/ "Ir ao perfil de bebeta1")
         
         0
         
-        [msi não salva configuração de undervolt](https://www.clubedohardware.com.br/forums/topic/1701046-msi-n%C3%A3o-salva-configura%C3%A7%C3%A3o-de-undervolt/?do=getNewComment "msi não salva configuração de undervolt")
+        [Qual notebook comprar? Estudos + Trabalho + Lolzin (?)](https://www.clubedohardware.com.br/forums/topic/1701081-qual-notebook-comprar-estudos-trabalho-lolzin/?do=getNewComment "Qual notebook comprar? Estudos + Trabalho + Lolzin (?)")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [MrPedru](https://www.clubedohardware.com.br/profile/1255292-mrpedru/ "Ir ao perfil de MrPedru")  
-        12 minutos atrás
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [bebeta1](https://www.clubedohardware.com.br/profile/1255313-bebeta1/ "Ir ao perfil de bebeta1")  
+        23 minutos atrás
         
-    * [![leoca](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253477.thumb.png.27807af6d24bf398a9280255b749e0d5.png)](https://www.clubedohardware.com.br/profile/1253477-leoca/ "Ir ao perfil de leoca")
+    * [![Kahh07](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1244971.thumb.png.a07225b81f41783cb1e5ff0b184d8f3f.png)](https://www.clubedohardware.com.br/profile/1244971-kahh07/ "Ir ao perfil de Kahh07")
         
         0
         
-        [core reactor 750 vale a pena no lugar da rmx series rm750?](https://www.clubedohardware.com.br/forums/topic/1701045-core-reactor-750-vale-a-pena-no-lugar-da-rmx-series-rm750/?do=getNewComment "core reactor 750 vale a pena no lugar da rmx series rm750?")
+        [qual o formato da minha placa-mãe x99?](https://www.clubedohardware.com.br/forums/topic/1701080-qual-o-formato-da-minha-placa-m%C3%A3e-x99/?do=getNewComment "qual o formato da minha placa-mãe x99?")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [leoca](https://www.clubedohardware.com.br/profile/1253477-leoca/ "Ir ao perfil de leoca")  
-        49 minutos atrás
-        
-    * [![DaviRottam](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1233463.thumb.jpeg.5d4022297c9c97c2809ce39f94ec7e86.jpeg)](https://www.clubedohardware.com.br/profile/1233463-davirottam/ "Ir ao perfil de DaviRottam")
-        
-        1
-        
-        [Recomendação para upgrade de processador AM4 até R$ 2.000,00](https://www.clubedohardware.com.br/forums/topic/1701044-recomenda%C3%A7%C3%A3o-para-upgrade-de-processador-am4-at%C3%A9-r-200000/?do=getNewComment "Recomendação para upgrade de processador AM4 até R$ 2.000,00")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [DaviRottam](https://www.clubedohardware.com.br/profile/1233463-davirottam/ "Ir ao perfil de DaviRottam")  
-        1 hora atrás
-        
-    * [![Alan Mianti](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255290.thumb.jpeg.c483ba4d185a39968dee84fc76654878.jpeg)](https://www.clubedohardware.com.br/profile/1255290-alan-mianti/ "Ir ao perfil de Alan Mianti")
-        
-        2
-        
-        [Desligamento abrupto e leds do water Corsair Icue H100i cooler piscando vermelho](https://www.clubedohardware.com.br/forums/topic/1701043-desligamento-abrupto-e-leds-do-water-corsair-icue-h100i-cooler-piscando-vermelho/?do=getNewComment "Desligamento abrupto e leds do water Corsair Icue H100i cooler piscando vermelho")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Alan Mianti](https://www.clubedohardware.com.br/profile/1255290-alan-mianti/ "Ir ao perfil de Alan Mianti")  
-        1 hora atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Kahh07](https://www.clubedohardware.com.br/profile/1244971-kahh07/ "Ir ao perfil de Kahh07")  
+        43 minutos atrás
         
     * [![Raivos](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254912.thumb.jpeg.f40c9465dbe7b41f4d7a2634e326e044.jpeg)](https://www.clubedohardware.com.br/profile/1254912-raivos/ "Ir ao perfil de Raivos")
         
-        1
+        0
         
-        [Fonte MSI MAG A650BN ou Rise Mode Zeus 650W?](https://www.clubedohardware.com.br/forums/topic/1701042-fonte-msi-mag-a650bn-ou-rise-mode-zeus-650w/?do=getNewComment "Fonte MSI MAG A650BN ou Rise Mode Zeus 650W?")
+        [Recomendações de Monitores 240hz, 27''](https://www.clubedohardware.com.br/forums/topic/1701079-recomenda%C3%A7%C3%B5es-de-monitores-240hz-27/?do=getNewComment "Recomendações de Monitores 240hz, 27''")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
         Por [Raivos](https://www.clubedohardware.com.br/profile/1254912-raivos/ "Ir ao perfil de Raivos")  
         1 hora atrás
         
-    * [![Pathenko](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/images(11).thumb.jpeg.93025841ca27a08ff5c789c68fcd3be8.jpeg)](https://www.clubedohardware.com.br/profile/1254876-pathenko/ "Ir ao perfil de Pathenko")
+    * [![Tuka__](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255311.thumb.jpeg.b9c6a1e9a1f0eccb74de727544339368.jpeg)](https://www.clubedohardware.com.br/profile/1255311-tuka__/ "Ir ao perfil de Tuka__")
+        
+        0
+        
+        [Placa rx6600 queda de fps](https://www.clubedohardware.com.br/forums/topic/1701078-placa-rx6600-queda-de-fps/?do=getNewComment "Placa rx6600 queda de fps")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Tuka\_\_](https://www.clubedohardware.com.br/profile/1255311-tuka__/ "Ir ao perfil de Tuka__")  
+        1 hora atrás
+        
+    * [![alves_gabriel](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1249770.thumb.jpeg.328cd0d18f8f5c7b80ec808ffee0209a.jpeg)](https://www.clubedohardware.com.br/profile/1249770-alves_gabriel/ "Ir ao perfil de alves_gabriel")
+        
+        0
+        
+        [Overclock amd radeon software](https://www.clubedohardware.com.br/forums/topic/1701077-overclock-amd-radeon-software/?do=getNewComment "Overclock amd radeon software")
+        
+        [Overclock](https://www.clubedohardware.com.br/forums/forum/11-overclock/ "Overclock")  
+        Por [alves\_gabriel](https://www.clubedohardware.com.br/profile/1249770-alves_gabriel/ "Ir ao perfil de alves_gabriel")  
+        1 hora atrás
+        
+    * [![João Freire](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1180571.thumb.jpeg.191804a1de93f17f41b31bcdee928cee.jpeg)](https://www.clubedohardware.com.br/profile/1180571-jo%C3%A3o-freire/ "Ir ao perfil de João Freire")
+        
+        0
+        
+        [Cabo DisplayPort funciona por alguns segundos e na BIOS](https://www.clubedohardware.com.br/forums/topic/1701075-cabo-displayport-funciona-por-alguns-segundos-e-na-bios/?do=getNewComment "Cabo DisplayPort funciona por alguns segundos e na BIOS")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [João Freire](https://www.clubedohardware.com.br/profile/1180571-jo%C3%A3o-freire/ "Ir ao perfil de João Freire")  
+        2 horas atrás
+        
+    * [![kaua.stxx](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252991.thumb.jpeg.54cbfc05eb30e4ad05d60e2034c60d4b.jpeg)](https://www.clubedohardware.com.br/profile/1252991-kauastxx/ "Ir ao perfil de kaua.stxx")
+        
+        4
+        
+        [adaptador wifi para pc que compense](https://www.clubedohardware.com.br/forums/topic/1701073-adaptador-wifi-para-pc-que-compense/?do=getNewComment "adaptador wifi para pc que compense")
+        
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [kaua.stxx](https://www.clubedohardware.com.br/profile/1252991-kauastxx/ "Ir ao perfil de kaua.stxx")  
+        2 horas atrás
+        
+    * [![Nicolaslvr](https://www.clubedohardware.com.br/uploads/members/monthly_2022_09/imported-photo-1203210.thumb.png.3fd8e4d7fdc43baf0004e966f78e80f9.png)](https://www.clubedohardware.com.br/profile/1203210-nicolaslvr/ "Ir ao perfil de Nicolaslvr")
         
         1
         
-        [Recomendação de fonte barata para Xeon E5 2680 v4 e Radeon RX 6600](https://www.clubedohardware.com.br/forums/topic/1701041-recomenda%C3%A7%C3%A3o-de-fonte-barata-para-xeon-e5-2680-v4-e-radeon-rx-6600/?do=getNewComment "Recomendação de fonte barata para Xeon E5 2680 v4 e Radeon RX 6600")
+        [memória RAM não reconhece na BIOS](https://www.clubedohardware.com.br/forums/topic/1701072-mem%C3%B3ria-ram-n%C3%A3o-reconhece-na-bios/?do=getNewComment "memória RAM não reconhece na BIOS")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Pathenko](https://www.clubedohardware.com.br/profile/1254876-pathenko/ "Ir ao perfil de Pathenko")  
-        1 hora atrás
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Nicolaslvr](https://www.clubedohardware.com.br/profile/1203210-nicolaslvr/ "Ir ao perfil de Nicolaslvr")  
+        2 horas atrás
         
-    * [![chrisalvex](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1190254.thumb.jpeg.413ebe4eead9b1f8c67a0e50e152e787.jpeg)](https://www.clubedohardware.com.br/profile/1190254-chrisalvex/ "Ir ao perfil de chrisalvex")
+    * [![rmlazzari58](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-720377.thumb.jpeg.53cdf81c7c07825733da927f655b7b53.jpeg)](https://www.clubedohardware.com.br/profile/720377-rmlazzari58/ "Ir ao perfil de rmlazzari58")
+        
+        1
+        
+        [Como modificar a saída dessa fonte regulada?](https://www.clubedohardware.com.br/forums/topic/1701071-como-modificar-a-sa%C3%ADda-dessa-fonte-regulada/?do=getNewComment "Como modificar a saída dessa fonte regulada?")
+        
+        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
+        Por [rmlazzari58](https://www.clubedohardware.com.br/profile/720377-rmlazzari58/ "Ir ao perfil de rmlazzari58")  
+        3 horas atrás
+        
+    * [![paulohdrd](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255304.thumb.png.17a7699b8c0200c29b2e8c4bb34f5c7f.png)](https://www.clubedohardware.com.br/profile/1255304-paulohdrd/ "Ir ao perfil de paulohdrd")
         
         2
         
-        [Qual melhor processador custo-benefício em 2024?](https://www.clubedohardware.com.br/forums/topic/1701040-qual-melhor-processador-custo-benef%C3%ADcio-em-2024/?do=getNewComment "Qual melhor processador custo-benefício em 2024?")
+        [Recomendação de upgrade de processador para placa-mãe HM65Desk](https://www.clubedohardware.com.br/forums/topic/1701070-recomenda%C3%A7%C3%A3o-de-upgrade-de-processador-para-placa-m%C3%A3e-hm65desk/?do=getNewComment "Recomendação de upgrade de processador para placa-mãe HM65Desk")
         
         [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [chrisalvex](https://www.clubedohardware.com.br/profile/1190254-chrisalvex/ "Ir ao perfil de chrisalvex")  
-        1 hora atrás
-        
-    * [![ViFe](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47a62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1247837-vife/ "Ir ao perfil de ViFe")
-        
-        3
-        
-        [Boa configuração?: ASRock B450M, Ryzen 5 5600, 32GB e RTX 4060](https://www.clubedohardware.com.br/forums/topic/1701039-boa-configura%C3%A7%C3%A3o-asrock-b450m-ryzen-5-5600-32gb-e-rtx-4060/?do=getNewComment "Boa configuração?: ASRock B450M, Ryzen 5 5600, 32GB e RTX 4060")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [ViFe](https://www.clubedohardware.com.br/profile/1247837-vife/ "Ir ao perfil de ViFe")  
-        2 horas atrás
-        
-    * [![dipi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/363368249_10159972172439983_7817374824896619189_n.thumb.jpg.6415301a696dff6e8c1ef9cccca960a1.jpg)](https://www.clubedohardware.com.br/profile/420408-dipi/ "Ir ao perfil de dipi")
-        
-        3
-        
-        [placa-mãe h61S delta: onde conecta os fans?](https://www.clubedohardware.com.br/forums/topic/1701038-placa-m%C3%A3e-h61s-delta-onde-conecta-os-fans/?do=getNewComment "placa-mãe h61S delta: onde conecta os fans?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [dipi](https://www.clubedohardware.com.br/profile/420408-dipi/ "Ir ao perfil de dipi")  
-        2 horas atrás
-        
-    * [![VinyBr](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362b5c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/988789-vinybr/ "Ir ao perfil de VinyBr")
-        
-        1
-        
-        [PC desligando sozinho após troca de processador e placa de vídeo](https://www.clubedohardware.com.br/forums/topic/1701037-pc-desligando-sozinho-ap%C3%B3s-troca-de-processador-e-placa-de-v%C3%ADdeo/?do=getNewComment "PC desligando sozinho após troca de processador e placa de vídeo")
-        
-        [Computador desligando sozinho](https://www.clubedohardware.com.br/forums/forum/258-computador-desligando-sozinho/ "Computador desligando sozinho")  
-        Por [VinyBr](https://www.clubedohardware.com.br/profile/988789-vinybr/ "Ir ao perfil de VinyBr")  
-        2 horas atrás
+        Por [paulohdrd](https://www.clubedohardware.com.br/profile/1255304-paulohdrd/ "Ir ao perfil de paulohdrd")  
+        3 horas atrás
         
     
 
