@@ -114,7 +114,7 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 * [Artificial Intelligence (84)](https://www.iplocation.net/blog/category/artificial-intelligence)
 * [Automotive (21)](https://www.iplocation.net/blog/category/automotive)
-* [Business (192)](https://www.iplocation.net/blog/category/business)
+* [Business (193)](https://www.iplocation.net/blog/category/business)
 * [Ecommerce (74)](https://www.iplocation.net/blog/category/ecommerce)
 * [Intellectual Property (11)](https://www.iplocation.net/blog/category/intellectual-property)
 * [Productivity (19)](https://www.iplocation.net/blog/category/productivity)
