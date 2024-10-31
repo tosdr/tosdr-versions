@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Trump, Arthur Ray Hanson, Fani Willis](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Trump-Hanson-Willis-432x243.jpg)](https://lawandcrime.com/high-profile/trump-supporter-enraged-by-georgia-rico-mug-shot-locked-up-for-threatening-da-fani-willis/)
+1. [![O2b kids](https://am21.mediaite.com/lc/cnt/uploads/2024/10/O2B-Kids-432x243.jpg)](https://lawandcrime.com/crime/day-care-employee-violently-shakes-playhouse-causing-4-year-old-boy-to-fall-and-bust-his-head-open-cops/)
     
-    ### [Trump supporter who 'never dreamed the FBI would show up' after he lashed out over former president's RICO mug shot is locked away for threatening DA Fani Willis, sheriff](https://lawandcrime.com/high-profile/trump-supporter-enraged-by-georgia-rico-mug-shot-locked-up-for-threatening-da-fani-willis/)
+    ### [Day care employee 'violently' shakes playhouse, causing 4-year-old boy to fall and bust his head open: Cops](https://lawandcrime.com/crime/day-care-employee-violently-shakes-playhouse-causing-4-year-old-boy-to-fall-and-bust-his-head-open-cops/)
     
-2. [![Mike Lindell](https://am23.mediaite.com/lc/cnt/uploads/2023/04/Mike-Lindell-432x243.jpg)](https://lawandcrime.com/high-profile/unconscionable-and-thus-unenforceable-mypillow-ceo-mike-lindell-files-rico-lawsuit-against-lending-companies-to-try-and-get-out-of-allegedly-usurious-600k-loan/)
+2. [![Inset: Othel Moore Jr. Background: Moore in the final moments of his life as he's restrained in a cart in a prison cell (Disparti Law Group).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/prison-432x243.jpg)](https://lawandcrime.com/lawsuit/suffered-in-the-worst-way-possible-video-shows-prisoners-final-moments-suffocating-in-a-mask-tied-to-a-cart-lawsuit-says/)
+    
+    ### ['Suffered in the worst way possible': Video shows prisoner's final moments suffocating in a mask tied to a cart, lawsuit says](https://lawandcrime.com/lawsuit/suffered-in-the-worst-way-possible-video-shows-prisoners-final-moments-suffocating-in-a-mask-tied-to-a-cart-lawsuit-says/)
+    
+3. [![Mike Lindell](https://am23.mediaite.com/lc/cnt/uploads/2023/04/Mike-Lindell-432x243.jpg)](https://lawandcrime.com/high-profile/unconscionable-and-thus-unenforceable-mypillow-ceo-mike-lindell-files-rico-lawsuit-against-lending-companies-to-try-and-get-out-of-allegedly-usurious-600k-loan/)
     
     ### ['Unconscionable and thus unenforceable': MyPillow CEO Mike Lindell files RICO lawsuit against lending companies to try and get out of allegedly 'usurious' $600K loan](https://lawandcrime.com/high-profile/unconscionable-and-thus-unenforceable-mypillow-ceo-mike-lindell-files-rico-lawsuit-against-lending-companies-to-try-and-get-out-of-allegedly-usurious-600k-loan/)
     
-3. [![Left: California Attorney General Rob Bonta takes questions from the media in Los Angeles on Tuesday, March 19, 2024 (AP Photo/Damian Dovarganes, File). Center: Providence St. Joseph's Hospital in Eureka, Calif., is shown (KAEF). Right: Anna Nusslock speaks at a press conference (KAEF).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Rob-Bonta-Providence-Hospital-Anna-Nusslock-432x243.jpg)](https://lawandcrime.com/high-profile/hospital-that-sent-bleeding-woman-away-with-a-bucket-and-towels-instead-of-giving-her-an-emergency-abortion-says-it-wont-do-the-same-thing-again/)
+4. [![Left: California Attorney General Rob Bonta takes questions from the media in Los Angeles on Tuesday, March 19, 2024 (AP Photo/Damian Dovarganes, File). Center: Providence St. Joseph's Hospital in Eureka, Calif., is shown (KAEF). Right: Anna Nusslock speaks at a press conference (KAEF).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Rob-Bonta-Providence-Hospital-Anna-Nusslock-432x243.jpg)](https://lawandcrime.com/high-profile/hospital-that-sent-bleeding-woman-away-with-a-bucket-and-towels-instead-of-giving-her-an-emergency-abortion-says-it-wont-do-the-same-thing-again/)
     
     ### [Hospital that sent bleeding woman away with a bucket and towels' instead of giving her an emergency abortion says it won't do the same thing again](https://lawandcrime.com/high-profile/hospital-that-sent-bleeding-woman-away-with-a-bucket-and-towels-instead-of-giving-her-an-emergency-abortion-says-it-wont-do-the-same-thing-again/)
     
-4. [![Hillary Clinton, Rudy Giuliani, Noel Dunphy](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Hillary-432x243.jpg)](https://lawandcrime.com/high-profile/rudy-giuliani-sexual-assault-accuser-asks-judge-to-issue-sanctions/)
+5. [![Hillary Clinton, Rudy Giuliani, Noel Dunphy](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Hillary-432x243.jpg)](https://lawandcrime.com/high-profile/rudy-giuliani-sexual-assault-accuser-asks-judge-to-issue-sanctions/)
     
     ### ['I'm muting you': Judge strikes Hillary Clinton's name from Giuliani accuser's lawsuit as Rudy shows up to court 'confused' and shouts 'my reputation has been ruined'](https://lawandcrime.com/high-profile/rudy-giuliani-sexual-assault-accuser-asks-judge-to-issue-sanctions/)
-    
-5. [![Justice Brett Kavanaugh](https://am23.mediaite.com/lc/cnt/uploads/2021/04/GettyImages-1232482939-432x243.jpg)](https://lawandcrime.com/high-profile/late-judicial-tinkering-kavanaugh-looms-large-as-both-sides-in-virginia-voter-purge-dispute-cite-justices-well-known-take-on-election-eve-injunctions/)
-    
-    ### ['Late judicial tinkering': Kavanaugh looms large as both sides in Virginia voter purge dispute cite justice's well-known take on election-eve injunctions](https://lawandcrime.com/high-profile/late-judicial-tinkering-kavanaugh-looms-large-as-both-sides-in-virginia-voter-purge-dispute-cite-justices-well-known-take-on-election-eve-injunctions/)
     
 
 [](http://eepurl.com/c89Jdb)
