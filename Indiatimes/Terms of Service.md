@@ -795,7 +795,7 @@ Powered by
 
 Get the NEWS that fits your groove.
 
-[![whatshot](https://im.indiatimes.in/content/2023/Oct/big-test-min_6528266ce9a76.jpeg?w=32&h=6&cc=1&webp=1&q=75 "whatshot")](https://www.whatshot.in/)
+[![whatshot](https://im.indiatimes.in/content/2023/Oct/mobile-img-min_65282685ade72.jpeg?w=32&h=6&cc=1&webp=1&q=75 "whatshot")](https://www.whatshot.in/)
 
 [About Us](https://timesinternet.in/)•[Work with Us](https://timesinternet.in/careers)•[Contact Us](https://www.indiatimes.com/contactus) •  
 [Terms & Conditions](https://www.indiatimes.com/termsandcondition) •[Privacy Policy](https://www.indiatimes.com/privacy-policy) •[Sitemap](https://www.indiatimes.com/sitemap.html)
@@ -831,4 +831,4 @@ I agree to see customized ads that are tailor-made to my preferences
 
 Agree & continue
 
-31/10/2024 1:29:59
+31/10/2024 7:22:35
