@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Wednesday, October 30 2024
+Thursday, October 31 2024
 
 Latest
 
-* [Samsung Galaxy Tab S10 Ultra review](https://digitpatrox.com/samsung-galaxy-tab-s10-ultra-review/)
-* [Google Cloud Expands AI Infrastructure With Sixth-Gen TPUs](https://digitpatrox.com/google-cloud-expands-ai-infrastructure-with-sixth-gen-tpus/)
-* [New on Netflix in November 2024 — all the new shows and movies you need to watch](https://digitpatrox.com/new-on-netflix-in-november-2024-all-the-new-shows-and-movies-you-need-to-watch/)
-* [QNAP patches second zero-day exploited at Pwn2Own to get root](https://digitpatrox.com/qnap-patches-second-zero-day-exploited-at-pwn2own-to-get-root/)
-* [Here’s where you can preorder the new MacBook Pro, iMac, and Mac Mini](https://digitpatrox.com/heres-where-you-can-preorder-the-new-macbook-pro-imac-and-mac-mini/)
-* [Apple Upgrades M2 and M3 MacBook Air With 16GB RAM In Base Models With No Price Hikes](https://digitpatrox.com/apple-upgrades-m2-and-m3-macbook-air-with-16gb-ram-in-base-models-with-no-price-hikes/)
-* [How to check browsing history on a WiFi router](https://digitpatrox.com/how-to-check-browsing-history-on-a-wifi-router/)
-* [Huawei empowers SMEs through digital and intelligent transformation](https://digitpatrox.com/huawei-empowers-smes-through-digital-and-intelligent-transformation/)
-* [OpenAI bets on its own AI chips by 2026 – Computerworld](https://digitpatrox.com/openai-bets-on-its-own-ai-chips-by-2026-computerworld/)
-* [I Tested Four AI Essay-Writing Tools, and Here’s What I Found](https://digitpatrox.com/i-tested-four-ai-essay-writing-tools-and-heres-what-i-found/)
+* [5 Best Wall Oven-Microwave Combos](https://digitpatrox.com/5-best-wall-oven-microwave-combos/)
+* [Apple’s New M4 Chips Give Intel and AMD a Run for Their Money](https://digitpatrox.com/apples-new-m4-chips-give-intel-and-amd-a-run-for-their-money/)
+* [800,000 users exposed in Landmark Admin data breach](https://digitpatrox.com/800000-users-exposed-in-landmark-admin-data-breach/)
+* [Samsung One UI 7 just revealed in huge leak — here’s all the new features](https://digitpatrox.com/samsung-one-ui-7-just-revealed-in-huge-leak-heres-all-the-new-features/)
+* [Interbank confirms data breach following failed extortion, data leak](https://digitpatrox.com/interbank-confirms-data-breach-following-failed-extortion-data-leak/)
+* [How to create and save Chrome tab groups](https://digitpatrox.com/how-to-create-and-save-chrome-tab-groups/)
+* [Meta is working with US government to use Llama AI](https://digitpatrox.com/meta-is-working-with-us-government-to-use-llama-ai/)
+* [Today’s Wordle Answer and Hints (October 31, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-31-2024/)
+* [Considering an RTO policy? Think again. Firms with remote working options record better financial performance](https://digitpatrox.com/considering-an-rto-policy-think-again-firms-with-remote-working-options-record-better-financial-performance/)
+* [signs of a rapid evolution – Computerworld](https://digitpatrox.com/signs-of-a-rapid-evolution-computerworld/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/WT2uFXsupQ6FdJ2HUPmGcE-1200-80.jpg)](https://digitpatrox.com/samsung-galaxy-tab-s10-ultra-review/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1674164173/prod/content/dam/CRO-Images-2023/01January/Appliances/CR-Appliances-InlineHero-Best-Combo-Wall-Ovens-0123)](https://digitpatrox.com/5-best-wall-oven-microwave-combos/)
     
-    [Samsung Galaxy Tab S10 Ultra review](https://digitpatrox.com/samsung-galaxy-tab-s10-ultra-review/)
+    [5 Best Wall Oven-Microwave Combos](https://digitpatrox.com/5-best-wall-oven-microwave-combos/)
     
-    3 mins ago
+    2 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241030-google-cloud–trillium-nvidia-ai-infrastructure.jpg)](https://digitpatrox.com/google-cloud-expands-ai-infrastructure-with-sixth-gen-tpus/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/new-project.jpg)](https://digitpatrox.com/apples-new-m4-chips-give-intel-and-amd-a-run-for-their-money/)
     
-    [Google Cloud Expands AI Infrastructure With Sixth-Gen TPUs](https://digitpatrox.com/google-cloud-expands-ai-infrastructure-with-sixth-gen-tpus/)
+    [Apple’s New M4 Chips Give Intel and AMD a Run for Their Money](https://digitpatrox.com/apples-new-m4-chips-give-intel-and-amd-a-run-for-their-money/)
     
-    6 mins ago
+    5 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/m5SmrWhJpHoHuAHjpyAFRe-1200-80.jpg)](https://digitpatrox.com/new-on-netflix-in-november-2024-all-the-new-shows-and-movies-you-need-to-watch/)
+* [![](https://cdn.mos.cms.futurecdn.net/rcgqGm2k9qbr9K4kHhEmvU-1200-80.jpg)](https://digitpatrox.com/800000-users-exposed-in-landmark-admin-data-breach/)
     
-    [New on Netflix in November 2024 — all the new shows and movies you need to watch](https://digitpatrox.com/new-on-netflix-in-november-2024-all-the-new-shows-and-movies-you-need-to-watch/)
+    [800,000 users exposed in Landmark Admin data breach](https://digitpatrox.com/800000-users-exposed-in-landmark-admin-data-breach/)
     
-    22 mins ago
+    60 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2022/04/27/QNAP__headpic.jpg)](https://digitpatrox.com/qnap-patches-second-zero-day-exploited-at-pwn2own-to-get-root/)
+* [![](https://cdn.mos.cms.futurecdn.net/UJwNfXjRrJDj4ABfqCNnMU-1200-80.png)](https://digitpatrox.com/samsung-one-ui-7-just-revealed-in-huge-leak-heres-all-the-new-features/)
     
-    [QNAP patches second zero-day exploited at Pwn2Own to get root](https://digitpatrox.com/qnap-patches-second-zero-day-exploited-at-pwn2own-to-get-root/)
-    
-    49 mins ago
-    
-* [![](https://cdn.vox-cdn.com/thumbor/o46PgP9TDj_WqAPIEHZk0JYS8y0=/0x0:1688x1125/1200x628/filters:focal(844x563:845x564)/cdn.vox-cdn.com/uploads/chorus_asset/file/25706770/Apple_MacBook_Pro_M4_lifestyle_01.jpg)](https://digitpatrox.com/heres-where-you-can-preorder-the-new-macbook-pro-imac-and-mac-mini/)
-    
-    [Here’s where you can preorder the new MacBook Pro, iMac, and Mac Mini](https://digitpatrox.com/heres-where-you-can-preorder-the-new-macbook-pro-imac-and-mac-mini/)
+    [Samsung One UI 7 just revealed in huge leak — here’s all the new features](https://digitpatrox.com/samsung-one-ui-7-just-revealed-in-huge-leak-heres-all-the-new-features/)
     
     1 hour ago
+    
+* [![](https://www.bleepstatic.com/content/hl-images/2024/10/30/Interbank-headpic.jpg)](https://digitpatrox.com/interbank-confirms-data-breach-following-failed-extortion-data-leak/)
+    
+    [Interbank confirms data breach following failed extortion, data leak](https://digitpatrox.com/interbank-confirms-data-breach-following-failed-extortion-data-leak/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [3 mins ago
+* [2 mins ago
     
-    ### Samsung Galaxy Tab S10 Ultra review](https://digitpatrox.com/samsung-galaxy-tab-s10-ultra-review/)
-* [6 mins ago
+    ### 5 Best Wall Oven-Microwave Combos](https://digitpatrox.com/5-best-wall-oven-microwave-combos/)
+* [5 mins ago
     
-    ### Google Cloud Expands AI Infrastructure With Sixth-Gen TPUs](https://digitpatrox.com/google-cloud-expands-ai-infrastructure-with-sixth-gen-tpus/)
-* [22 mins ago
+    ### Apple’s New M4 Chips Give Intel and AMD a Run for Their Money](https://digitpatrox.com/apples-new-m4-chips-give-intel-and-amd-a-run-for-their-money/)
+* [60 mins ago
     
-    ### New on Netflix in November 2024 — all the new shows and movies you need to watch](https://digitpatrox.com/new-on-netflix-in-november-2024-all-the-new-shows-and-movies-you-need-to-watch/)
+    ### 800,000 users exposed in Landmark Admin data breach](https://digitpatrox.com/800000-users-exposed-in-landmark-admin-data-breach/)
 
 Most Popular Topics
 
-* [2 weeks ago
+* [4 weeks ago
     
-    ### What’s New on Disney+ in November 2024](https://digitpatrox.com/whats-new-on-disney-in-november-2024/)
-* [3 weeks ago
+    ### Not everyone working from home is procrastinating – but I miss doing it in the office](https://digitpatrox.com/not-everyone-working-from-home-is-procrastinating-but-i-miss-doing-it-in-the-office/)
+* [August 28, 2024
     
-    ### The Best Network Monitoring Solutions of 2024](https://digitpatrox.com/the-best-network-monitoring-solutions-of-2024/)
-* [3 weeks ago
+    ### OpenAI, Microsoft, and Adobe Back California’s AI Watermarking Bill](https://digitpatrox.com/openai-microsoft-and-adobe-back-californias-ai-watermarking-bill/)
+* [September 5, 2024
     
-    ### Why Baby Walkers Are Unsafe](https://digitpatrox.com/why-baby-walkers-are-unsafe/)
+    ### Mortal Kombat 1: Reptile Moves and Combos Guide](https://digitpatrox.com/mortal-kombat-1-reptile-moves-and-combos-guide/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### How to check browsing history on a WiFi router](https://digitpatrox.com/how-to-check-browsing-history-on-a-wifi-router/)
-* [3 hours ago
+    ### Meta is working with US government to use Llama AI](https://digitpatrox.com/meta-is-working-with-us-government-to-use-llama-ai/)
+* [2 hours ago
     
-    ### Huawei empowers SMEs through digital and intelligent transformation](https://digitpatrox.com/huawei-empowers-smes-through-digital-and-intelligent-transformation/)
-* [3 hours ago
+    ### Today’s Wordle Answer and Hints (October 31, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-31-2024/)
+* [4 hours ago
     
-    ### OpenAI bets on its own AI chips by 2026 – Computerworld](https://digitpatrox.com/openai-bets-on-its-own-ai-chips-by-2026-computerworld/)
+    ### Considering an RTO policy? Think again. Firms with remote working options record better financial performance](https://digitpatrox.com/considering-an-rto-policy-think-again-firms-with-remote-working-options-record-better-financial-performance/)
 
 Most Viewed Topics
 
