@@ -175,7 +175,7 @@ Foreman reserves the right to update this policy from time to time. Material cha
 
 Foreman 3.12.0 has been released! [Follow the quick start to install it.](https://theforeman.org/manuals/3.12/quickstart_guide.html)
 
-Foreman 3.11.2 has been released! [Follow the quick start to install it.](https://theforeman.org/manuals/3.11/quickstart_guide.html)
+Foreman 3.11.4 has been released! [Follow the quick start to install it.](https://theforeman.org/manuals/3.11/quickstart_guide.html)
 
 View our [Privacy Policy](https://theforeman.org/privacy.html)
 
