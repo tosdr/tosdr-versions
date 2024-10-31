@@ -133,7 +133,7 @@ Privacy Policy
 
 Last updated on 16 May, 2023
 
-This Privacy Policy sets out our commitment to protecting the privacy of personal information provided to us, or otherwise collected by us, offline or online, including through this website ( https://tactiq.io ). In this Privacy Policy we, us or our means Tactiq 17 643855547. When we collect, store and use your personal information, we do so in accordance with the rules set down in the Australian Privacy Act 1988 (Cth) and, to the extent applicable, by the European Union General Data Protection Regulation (EU) 2016/279 (the GDPR).
+This Privacy Policy sets out our commitment to protecting the privacy of personal information provided to us, or otherwise collected by us, offline or online, including through this website ( https://tactiq.io ). In this Privacy Policy we, us or our means Tactiq 17 643855547. When we collect, store and use your personal information, we do so in accordance with the rules set down in the Australian Privacy Act 1988 (Cth) and, to the extent applicable, by the European Union General Data Protection Regulation (EU) 2016/679 (the GDPR).
 
 #### Personal information
 
