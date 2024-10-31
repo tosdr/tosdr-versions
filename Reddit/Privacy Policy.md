@@ -44,6 +44,7 @@ Reddit Privacy Policy* [All](https://redditinc.com/policies/all)
 * [Svenska (SE)](https://www.redditinc.com/sv-se/policies/privacy-policy)
 * [हिंदी](https://www.redditinc.com/hi-in/policies/privacy-policy)
 * [বাংলা](https://www.redditinc.com/bn-in/policies/privacy-policy)
+* [Pilipino](https://www.redditinc.com/fil-ph/policies/privacy-policy)
 
 ### Revisions
 
