@@ -100,7 +100,7 @@ To learn more about how we provide our weather information to other companies wh
 
 This Privacy Policy is effective as of October 28, 2024. The previous version of this Privacy Policy is available [here](#previous-privacy-policy).
 
-inVehicleSectionReference
+\*Last Updated: Update to [Section 17](#weather-channel-in-vehicle-application-current) for The Weather Channel in-vehicle application in the US to include advertising, made on October 31, 2024.
 
 The Weather Company, LLC, the provider of The Weather Channel, Weather Underground, and Storm Radar digital services (sometimes, "we" or "us"), is committed to protecting your privacy. This Privacy Policy (“Policy”) is important, and we encourage you to carefully read it.
 
