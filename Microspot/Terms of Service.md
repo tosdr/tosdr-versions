@@ -12,9 +12,9 @@
     [Connexion](https://www.microspot.ch/fr/account/login)[S’enregistrer](https://www.microspot.ch/fr/account/registration)[Comparaison de produit](https://www.microspot.ch/fr/comparison)[Favoris](https://www.microspot.ch/fr/watchlist)[Panier d\`achat](https://www.microspot.ch/fr/cart)
     
 
-* [DE](https://www.microspot.ch/de)
-* [FR](https://www.microspot.ch/fr)
-* [IT](https://www.microspot.ch/it)
+* [DE](https://www.microspot.ch/de?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
+* [FR](https://www.microspot.ch/fr?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
+* [IT](https://www.microspot.ch/it?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
 
 [interdiscount.ch
 
@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/6958.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/8779.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -213,17 +213,17 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Garantie Plus
+[Retrait gratuit
 
-prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
-
-[Frais de port gratuits pour livraison
-
-à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
+[Frais de port gratuits pour livraison
+
+à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
@@ -306,9 +306,9 @@ Programmes partenaires
 
 [![](/next-assets/images/logos/supercard.svg)Supercard](https://www.microspot.ch/fr/cms/supercard)[![](/next-assets/images/logos/euronics.svg)](https://www.euronics.com/)
 
-* [Deutsch](https://www.microspot.ch/de)
-* ·[Français](https://www.microspot.ch/fr)
-* ·[Italiano](https://www.microspot.ch/it)
+* [Deutsch](https://www.microspot.ch/de?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
+* ·[Français](https://www.microspot.ch/fr?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
+* ·[Italiano](https://www.microspot.ch/it?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
 
 * © 2024·
 * [CGV](https://www.microspot.ch/fr/cms/entreprise/cgv)·
