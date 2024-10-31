@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-8ac58f195df4cb4903dff560255a6cb0
+7d339d70c5dfa1a9de6b7504f89fd972
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Flower bracelet](https://sojourner.biz/images/cache/BR0006.200.jpg)](https://sojourner.biz/jewelry/bracelets/flower-bracelet.html "Flower bracelet")
+[![4 mm lemon confetti crystal beads](https://sojourner.biz/images/cache/glass/GL0052.200.jpg)](https://sojourner.biz/beads/glass/4-mm-lemon-confetti-crystal-beads.html "4 mm lemon confetti crystal beads")
 
-#### [Flower bracelet](https://sojourner.biz/jewelry/bracelets/flower-bracelet.html "Flower bracelet")
+#### [4 mm lemon confetti crystal beads](https://sojourner.biz/beads/glass/4-mm-lemon-confetti-crystal-beads.html "4 mm lemon confetti crystal beads")
 
-$65.00
+$10.00
 
 ### Best Sellers
 
