@@ -34,7 +34,7 @@ Menu
 **Privacy Policy**
 ==================
 
-**Published on**: October 27, 2023
+**Published on**: October 27, 2024
 
 **1\. INTRODUCTION AND SCOPE**
 ------------------------------
