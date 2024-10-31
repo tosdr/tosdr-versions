@@ -29,11 +29,11 @@ Search for:
 
 News Ticker
 
+* [\[ October 31, 2024 \] Issue 43 & 44 2024 News You May Have Missed Subscriber Only](https://americanfreepress.net/issue-43-44-2024-news-you-may-have-missed/ "Issue 43 & 44 2024 News You May Have Missed")
+* [\[ October 31, 2024 \] Are the Best Days of the Western World Behind Us? Subscriber Only](https://americanfreepress.net/are-the-best-days-of-the-western-world-behind-us/ "Are the Best Days of the Western World Behind Us?")
 * [\[ October 19, 2024 \] Racist Violence on Campus Ignored National News](https://americanfreepress.net/racist-violence-campus-ignored/ "Racist Violence on Campus Ignored")
 * [\[ October 19, 2024 \] Congress Tackles Online Safety, Privacy Issues for Kids Subscriber Only](https://americanfreepress.net/congress-tackles-online-safety-privacy-issues-for-kids/ "Congress Tackles Online Safety, Privacy Issues for Kids")
 * [\[ October 18, 2024 \] Strengthening the NWO at the UN Subscriber Only](https://americanfreepress.net/strengthening-the-nwo-at-the-un/ "Strengthening the NWO at the UN")
-* [\[ October 18, 2024 \] Longshoremen’s Strike Sparks Debate Over the Future Use of Automation National News](https://americanfreepress.net/longshoremens-strike-sparks-debate-over-the-future-use-of-automation/ "Longshoremen’s Strike Sparks Debate Over the Future Use of Automation")
-* [\[ October 18, 2024 \] Big Business, Tech, Media, Banks Give Kamala Glowing Endorsement National News](https://americanfreepress.net/big-business-tech-media-banks-give-kamala-glowing-endorsement/ "Big Business, Tech, Media, Banks Give Kamala Glowing Endorsement")
 
 [Home](https://americanfreepress.net/)PRIVACY POLICY
 
@@ -268,11 +268,11 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Articles
 
+* [Issue 43 & 44 2024 News You May Have Missed](https://americanfreepress.net/issue-43-44-2024-news-you-may-have-missed/)
+* [Are the Best Days of the Western World Behind Us?](https://americanfreepress.net/are-the-best-days-of-the-western-world-behind-us/)
+* [FIGHT, FIGHT, FIGHT](https://americanfreepress.net/fight-fight-fight/)
 * [Getting Tough on Border Security One Key to Solving Fentanyl Crisis](https://americanfreepress.net/getting-tough-on-border-security-one-key-to-solving-fentanyl-crisis/)
 * [Racist Violence on Campus Ignored](https://americanfreepress.net/racist-violence-campus-ignored/)
-* [Congress Tackles Online Safety, Privacy Issues for Kids](https://americanfreepress.net/congress-tackles-online-safety-privacy-issues-for-kids/)
-* [Strengthening the NWO at the UN](https://americanfreepress.net/strengthening-the-nwo-at-the-un/)
-* [Longshoremen’s Strike Sparks Debate Over the Future Use of Automation](https://americanfreepress.net/longshoremens-strike-sparks-debate-over-the-future-use-of-automation/)
 
 ###### Recent Comments
 
@@ -318,4 +318,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=134711761)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=1850868322)
