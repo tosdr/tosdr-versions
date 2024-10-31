@@ -382,9 +382,9 @@ Maximize Your Programmatic Strategy
 
 Partner with the top-ranking DSP in the market.
 
-![G2 Top 100 Software Products Best Software Awards 2024](https://wpvip-development.stackadapt.com/main/wp-content/uploads/sites/3/2024/06/g2_best_software_2024_badge_software_products-1.svg)
+![G2 Top 100 Software Products 2024](https://d343x6qscsp61h.cloudfront.net/sites/3/20241031181545/g2_best_software_2024_badge_software_products-1.svg)
 
-![Top 50 Marketing and Digital Advertising Products Best Software Awards 2024](https://wpvip-development.stackadapt.com/main/wp-content/uploads/sites/3/2024/06/g2_best_software_2024_badge_marketing_and_digital-advertising_products-1.svg)
+![G2 Top 50 Marketing & Digital Advertising Products 2024](https://d343x6qscsp61h.cloudfront.net/sites/3/20241031181634/g2_best_software_2024_badge_marketing_and_digital-advertising_products-1.svg)
 
 ![G2 Leader Fall 2024 Awards Badge](https://d343x6qscsp61h.cloudfront.net/sites/3/20240926181144/g2_fall_2024_footer.svg)
 
@@ -392,13 +392,13 @@ Partner with the top-ranking DSP in the market.
 
 ![Diversio Workplace Impact Award 2023](https://d343x6qscsp61h.cloudfront.net/sites/3/20241029184433/diversio_2023.svg)
 
-![Placeholder](https://wpvip-development.stackadapt.com/main/wp-content/uploads/sites/3/2024/06/great_place_to_work_certified.svg)
+![Great Place to Work Certified Canada](https://d343x6qscsp61h.cloudfront.net/sites/3/20241029184955/great_place_to_work_certified.svg)
 
-![2023 Programmatic Power Player](https://wpvip-development.stackadapt.com/main/wp-content/uploads/sites/3/2024/06/2023_programmatic_power_players.svg)
+![2023 Programmatic Power Players](https://d343x6qscsp61h.cloudfront.net/sites/3/20241029184953/2023_programmatic_power_players.svg)
 
-![Quartz Best Companies for Remote Workers 2023](https://wpvip-development.stackadapt.com/main/wp-content/uploads/sites/3/2024/06/quartz_remote_workers.svg)
+![Quartz Best Companies for Remote Workers](https://d343x6qscsp61h.cloudfront.net/sites/3/20241029184950/quartz_remote_workers.svg)
 
-![Best Tech Work Culture Finalist Timmy Awards 2022](https://wpvip-development.stackadapt.com/main/wp-content/uploads/sites/3/2024/06/2022_best_tech_work_finalist.svg)
+![Best Tech Work Culture Finalist Timmy Awards](https://d343x6qscsp61h.cloudfront.net/sites/3/20241029184947/2022_best_tech_work_finalist.svg)
 
 Request a Demo
 --------------
@@ -1460,7 +1460,7 @@ Channels
 * [In-Game Advertising](https://www.stackadapt.com/in-game-advertising)
 * [Digital Out-of-Home](https://www.stackadapt.com/digital-out-of-home-advertising)
 
-Industries
+Solutions
 
 * [Solutions](https://www.stackadapt.com/our-solutions)
 * [Creative Studio](https://www.stackadapt.com/our-solutions/creative-studio)
