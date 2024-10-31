@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you SO MUCH for the super fast reply and help.
+I love getting UK programmes while in France............
 
-David Jones
+Amy Carroll
