@@ -562,7 +562,7 @@ ADD TO TOTE
 
 $7.00 $30.00
 
-Single - $7 5 Pack - $30
+5 Pack - $30 Single - $7
 
 Single
 
