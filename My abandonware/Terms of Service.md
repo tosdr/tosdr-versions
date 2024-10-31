@@ -105,20 +105,20 @@ Top downloads
 
 Latest releases
 
-* [Sega Rally 2 Championship](https://www.myabandonware.com/game/sega-rally-2-championship-a62)
-* [Sōkyūgurentai](https://www.myabandonware.com/game/sokyugurentai-pda)
-* [Sky Target](https://www.myabandonware.com/game/sky-target-bx6)
-* [Steeplechase](https://www.myabandonware.com/game/steeplechase-h37)
-* [3D Asteroid Impact](https://www.myabandonware.com/game/3d-asteroid-impact-smv)
+* [Mega Man: Battle Chip Challenge](https://www.myabandonware.com/game/mega-man-battle-chip-challenge-t3p)
+* [Last Alive](https://www.myabandonware.com/game/last-alive-t3o)
+* [Kinnikuman Nisei: Dream Tag Match](https://www.myabandonware.com/game/kinnikuman-nisei-dream-tag-match-t3n)
+* [Kinnikuman Nisei: Chōjin Seisenshi](https://www.myabandonware.com/game/kinnikuman-nisei-chojin-seisenshi-t3m)
+* [Judgement Silversword: Rebirth Edition](https://www.myabandonware.com/game/judgement-silversword-rebirth-edition-t3l)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [The Arcade](https://www.myabandonware.com/game/the-arcade-ml3)
-* [Lightpen](https://www.myabandonware.com/game/lightpen-qun)
-* [Dragoon Might](https://www.myabandonware.com/game/dragoon-might-si1)
+* [Half-Life: Further Data V.2](https://www.myabandonware.com/game/half-life-further-data-v-2-owo)
+* [Bridge Player 2000 with Tutor](https://www.myabandonware.com/game/bridge-player-2000-with-tutor-l3w)
+* [Letterpillar](https://www.myabandonware.com/game/letterpillar-msp)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
