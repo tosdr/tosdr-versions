@@ -17,7 +17,7 @@ Effective date: October 17, 2024
 
 These Terms of Service (the "Terms") are a legal document between you ("you", "your") and Fetch Rewards, LLC. ("Fetch", "Fetch Rewards," "we" "our", or "us") a Delaware corporation.
 
-Fetch may provide services including, but not limited to, the Fetch Rewards™ Program (the "Program") via our websites and mobile applications ("App"), as well as access to web applications, including, but not limited to, Mission Control (collectively the "Services") to you subject to these Terms. Fetch is the owner and operator of the Services. Please ensure you read these Terms carefully before using the Services. By using the Services, you explicitly agree to comply with and be bound by the Terms and all terms, policies, and guidelines incorporated and referenced herein. If you do not agree to all provisions of these Terms, do not use the Services.
+Fetch may provide services including, but not limited to, the Fetch Rewards™ Program (the "Program") via our websites and mobile applications ("App"), as well as access to web applications, including, but not limited to, Mission Control (collectively the "Services") to you subject to these Terms. Fetch is the owner and operator of the Services. Please ensure you read these Terms carefully before using the Services. By using the Services, you explicitly agree to comply with and be bound by the Terms and all terms, policies, and guidelines incorporated and referenced herein. If you do not agree to all provisions of these Terms, do not use the Services. Fetch Beta products are subject to the [Fetch Beta Terms and Conditions](https://fetch.com/beta-terms-of-service).
 
 **OUR PROGRAM**
 
