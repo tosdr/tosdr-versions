@@ -3351,6 +3351,152 @@ Automatizado
    • Contratistas o Subcontratistas  
  
 
+#### 36.- Convocatoria de ayudas 2024 para actuaciones de formación
+
+**Fines de tratamiento:**
+
+Gestionar los datos de carácter personal de la “Convocatoria de ayudas 2024 para actuaciones de formación en competencias básicas digitales en el marco del plan de recuperación, transformación y resiliencia (C017/23-ED)”.  
+Se utilizarán algunos datos recopilados de los destinatarios finales de las ayudas, para la gestión de acceso a los cursos y de registro de presencialidad.
+
+**Responsable del tratamiento:**
+
+Red.es: Edificio Bronce  
+Plaza Manuel Gómez Moreno, s/n  
+28020 Madrid, teléfono: 901100167, email: [protecciondedatos@red.es](mailto:protecciondedatos@red.es)
+
+**Encargado del tratamiento:**
+
+En las tareas de gestión de las solicitudes objeto de esta ficha de tratamiento se han detectado los siguientes encargados de tratamiento:  
+   • Telefónica Soluciones contratista del expediente 083/22-ED  
+   • SCL subcontratado en el marco del expediente 083/22-ED  
+   • DINSA subcontratado en el marco del expediente 083/22-ED  
+   • Telefónica Global Solutions, subcontratado en el marco del expediente 083/22-ED  
+   • Ernst&Young asistencia técnica de Red.es en virtud del contrato con número 012/22-ED  
+   • INECO asistencia técnica de Red.es en virtud del convenio C001/23-DG  
+   • Aquellas entidades que resulten beneficiarias de la convocatoria C017/23-ED, una vez formalizada la Resolución de concesión.
+
+**Delegado de Protección de Datos:**
+
+[protecciondedatos@red.es](mailto:protecciondedatos@red.es)
+
+**Categoría de datos:**
+
+En el marco de la Convocatoria, Red.es tratará la siguiente tipología de datos de carácter personal:
+
+   • Nombre y apellidos  
+   • Número de DNI/NIE  
+   • Fotografía del anverso del DNI/NIE con marca de agua  
+   • Fecha nacimiento  
+   • Situación laboral  
+   • Nivel de estudios  
+   • Email  
+   • Número de móvil  
+   • Dirección postal  
+   • Cuestionarios de competencias digitales   
+   • Documentación relativa a la asistencia a las sesiones de formación  
+   • Fotografías de las aulas con los alumnos con finalidades de auditoría
+
+**Colectivo:**
+
+Los colectivos recogidos en la convocatoria C017/23-ED
+
+**Departamento implicado:**
+
+Economía Digital
+
+**Legitimación:**
+
+    • RGPD: 6.1 a): Consentimiento del interesado.  
+   • RGPD: 6.1. b): Mantenimiento de una relación contractual o precontractual   
+   • RGPD: 6.1.c) Obligación legal aplicable al responsable del tratamiento.
+
+**Plazo de supresión:**
+
+Se conservarán durante el tiempo necesario para cumplir con la finalidad para la que se recabaron y para determinar las posibles responsabilidades que se pudieran derivar de dicha finalidad y del tratamiento de los datos. Siendo de aplicación la normativa interna que regula la conservación de datos
+
+**Medidas de seguridad:**
+
+Las medidas de seguridad implantadas se corresponden con las previstas en el Anexo II (Medidas de seguridad) del Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad, y de forma adicional se han implementado los controles de seguridad del Sistema de Gestión de la Seguridad de la Información basado en la Norma UNE-EN ISO/IEC 27001.
+
+**Cesión de datos**
+
+Podrán cederse a los diferentes organismos (Comisión Europea, Oficina de Lucha Antifraude, Tribunal de Cuentas Europeo y la Fiscalía Europea) en el ejercicio de sus funciones de fiscalización y control del destino de la aportación, a los efectos del seguimiento y control de las actividades financiadas.
+
+**Transferencias Internacionales:**
+
+No se han detectado
+
+**Ejercicio de derechos:**
+
+Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad de sus datos, y la limitación u oposición a su tratamiento, a través de la cumplimentación de un formulario disponible en la sede electrónica de Red.es y dirigido al responsable del tratamiento (Red.es): [https://sede.red.gob.es/](https://sede.red.gob.es/)
+
+**Tipo de tratamiento:**
+
+Automatizado
+
+**Categoría destinatarios:**
+
+Los colectivos recogidos en la convocatoria C017/23-ED
+
+#### 37.- Concesión directa subvención Unión Profesional regulado por el Real Decreto 876/2024, de 3 de septiembre.
+
+**Fines de tratamiento:**  
+Gestionar los datos de carácter personal de la “concesión directa de una subvención a Unión Profesional para el desarrollo de un programa de formación de competencias digitales en el ámbito de los colegios profesionales, en el marco del Plan de Recuperación, Transformación y Resiliencia”. Se utilizarán algunos datos recopilados de la entidad beneficiaria y de las entidades adheridas, contratistas o subcontratistas, y destinatarios finales en el marco de las actividades inherentes al desarrollo de la subvención.
+
+ **Responsable del tratamiento:**  
+Red.es: Edificio Bronce 
+
+Plaza Manuel Gómez Moreno, s/n 28020 Madrid, teléfono: 901100167, 
+
+email: [protecciondedatos@red.es](mailto:protecciondedatos@red.es) 
+
+**Encargado del tratamiento:** En las tareas de gestión objeto de esta ficha de tratamiento se han detectado los siguientes encargados de tratamiento: [https://competenciasdigitales.unionprofesional.com/](https://competenciasdigitales.unionprofesional.com/) 
+
+**Delegado de Protección de Datos** Email: [protecciondedatos@red.es](mailto:protecciondedatos@red.es) 
+
+**Categoría de datos:**  
+En el marco de la subvención, Red.es tratará la siguiente tipología de datos de carácter personal: 1. Entidad beneficiaria y entidades adheridas: • NIF • Datos Representante Legal: Nombre y apellidos, DNI/NIE, teléfono o móvil, correo electrónico • Datos bancarios • Trabajadores: rol profesional y funciones desempeñadas, nº de teléfono o móvil, correo electrónico • Actividad económica: Contratos con contratistas o subcontratistas, facturas 2. Contratistas o Subcontratistas: • NIF • Datos Representante Legal: Nombre y apellidos, DNI/NIE, teléfono o móvil, correo electrónico • Contratos y facturas. • Autónomo/a: Nombre y apellidos, DNI/NIE, domicilio, teléfono o móvil, correo electrónico, datos económicos (contratos y facturas). 3. Destinatarios finales de la formación: • Nombre y apellidos, DNI/NIE, nacionalidad, fecha de nacimiento, teléfono o móvil, correo electrónico, domicilio. 
+
+**Colectivo:**  
+Destinatarios finales de la formación 
+
+**Departamento implicado:**  
+Economía Digital 
+
+**Legitimación:**  
+• RGPD: 6.1 a): Consentimiento del interesado. 
+
+• RGPD: 6.1. b): Mantenimiento de una relación contractual o precontractual 
+
+• RGPD: 6.1.c) Obligación legal aplicable al responsable del tratamiento. 
+
+**Plazo de supresión:**  
+Se conservarán durante el tiempo necesario para cumplir con la finalidad para la que se recabaron y para determinar las posibles responsabilidades que se pudieran derivar de dicha finalidad y del tratamiento de los datos. Siendo de aplicación la normativa interna que regula la conservación de datos 
+
+**Medidas de seguridad:**  
+Las medidas de seguridad implantadas se corresponden con las previstas en el Anexo II (Medidas de seguridad) del Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad, y de forma adicional se han implementado los controles de seguridad del Sistema de Gestión de la Seguridad de la Información basado en la Norma UNE-EN ISO/IEC 27001. 
+
+**Cesión de datos**  
+Podrán cederse a los diferentes organismos (Comisión Europea, Oficina de Lucha Antifraude, Tribunal de Cuentas Europeo y la Fiscalía Europea) en el ejercicio de sus funciones de fiscalización y control del destino de la aportación, a los efectos del seguimiento y control de las actividades financiadas. 
+
+**Transferencias Internacionales:**  
+No se han detectado 
+
+**Ejercicio de derechos:**  
+• Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad de sus datos, y la limitación u oposición a su tratamiento, a través de la cumplimentación de un formulario disponible en la sede electrónica de Red.es y dirigido al Responsable del Tratamiento (Red.es): https://sede.red.gob.es/ 
+
+**Tipo de tratamiento:**  
+Automatizado ​ ​ 
+
+**Categoría destinatarios:**  
+• Entidades Beneficiarias 
+
+• Entidades colaboradoras/adheridas 
+
+• Contratistas o Subcontratistas 
+
+• Destinatarios finales de la formación
+
 Nuestros Portales
 
 * [Dominios.es](https://www.dominios.es/dominios/ "Dominios.es")
