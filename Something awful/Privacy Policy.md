@@ -205,28 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Ill-Conceived Toys](https://www.somethingawful.com/photoshop-phriday/illconceived-toys/1/)
-* [ABDL Story Forum, Adult Baby Camp and Balloon Fetish World](https://www.somethingawful.com/weekend-web/diaper-balloon-camp/1/)
-* [STOCK PHOTO LIFESTYLE TALES #1](https://www.somethingawful.com/news/stock-photo-lifestyle/1/)
-* [Legend of the Titanic](https://www.somethingawful.com/movie-reviews/legend-titanic/1/)
-* [Every Review Of Ghostbusters You Will Read This Week](https://www.somethingawful.com/news/every-ghostbusters-review/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [WTF, Traveller Art!?](https://www.somethingawful.com/dungeons-and-dragons/traveller-artwork-steve/1/)
+* [GSA, Google Video, and Youth Meets Truth](https://www.somethingawful.com/weekend-web/gsa-googlevideo-youthtruth/1/)
+* [The Hardy Boys and Nancy Drew: UNLEASHED](https://www.somethingawful.com/comedy-goldmine/hardy-boys-nancy/1/)
+* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/tv.png) [Did Captain Planet fail?](http://forums.somethingawful.com/showthread.php?threadid=4073918 "Did Captain Planet fail?")
+* ![](https://fi.somethingawful.com/forums/posticons/samartd-organs.gif) [As it is Halloween it is time that we all learned the truth.](http://forums.somethingawful.com/showthread.php?threadid=4074003 "As it is Halloween it is time that we all learned the truth.")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-mspaint.gif) [did you know the origin of "cartoon"](http://forums.somethingawful.com/showthread.php?threadid=4073998 "did you know the origin of "cartoon"")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-lovecum.gif) [Im trying to write a new generation timecube](http://forums.somethingawful.com/showthread.php?threadid=4073928 "Im trying to write a new generation timecube")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [I am writing a story about a group of conspiracy theorists](http://forums.somethingawful.com/showthread.php?threadid=4073999 "I am writing a story about a group of conspiracy theorists")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [Comet ATLAS is a sperm and the moon is an egg!!!!](http://forums.somethingawful.com/showthread.php?threadid=4073991 "Comet ATLAS is a sperm and the moon is an egg!!!!")
 * ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [post itt when you try something new](http://forums.somethingawful.com/showthread.php?threadid=4073992 "post itt when you try something new")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [Planes for Morons](http://forums.somethingawful.com/showthread.php?threadid=4074004 "Planes for Morons")
 
 ### Random Articles
 
-* [Pathetic Inc.](https://www.somethingawful.com/awful-links/awful-link-3328/)
-* [Stink Bug Facts](https://www.somethingawful.com/news/stink-bug-fact/)
-* [Part 2: A Guide to Understanding Ben Garrison's Political Cartoons](https://www.somethingawful.com/feature-articles/ben-garrison-explained2/)
-* [Heart Smarts: The Deadliest Drink](https://www.somethingawful.com/news/heart-smarts-deadliest/)
-* [September 10, 2007](https://www.somethingawful.com/forum-fridays/ff09-10-07/1/)
+* [Microsoft Streets & Trips 2008](https://www.somethingawful.com/game-reviews/streets-trips-review/1/)
+* [The Eager Recruiter](https://www.somethingawful.com/icq-pranks/msn-transcript-eager/1/)
+* [Cowboy Spokker's Talk Radio Roundup](https://www.somethingawful.com/news/cowboy-spokkers-talk/)
+* [Free IQ Test \[Real\]](https://www.somethingawful.com/news/iq-test-free/)
+* [Punching Through Walls Should Always Be An Option](https://www.somethingawful.com/news/wall-punch-physics/)
 
 [Random!](https://www.somethingawful.com/random/)
 
