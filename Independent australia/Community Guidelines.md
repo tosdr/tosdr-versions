@@ -94,7 +94,7 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 [Evidence debunks 'contemptible' climate lies](https://independentaustralia.net/article-display/evidence-debunks-contemptible-climate-lies,19121)
 
-[Global youth justice methods a lesson for Australia](https://independentaustralia.net/article-display/global-youth-justice-methods-a-lesson-for-australia,19116)
+[Why Canada has cut permanent migration and Australia shouldn’t](https://independentaustralia.net/article-display/why-canada-has-cut-permanent-migration-and-australia-shouldnt,19127)
 
 Comments Policy
 
@@ -135,12 +135,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [School lunches, royal tours, foreign wars & the myth of Australia’s classless society](https://independentaustralia.net/article-display/school-lunches-royal-tours-foreign-wars-the-myth-of-australias-classless-society,19125 "Permanent Link : School lunches, royal tours, foreign wars & the myth of Australia’s classless society")
+* [Caring as a revolutionary act: The fight for humane mental health practice](https://independentaustralia.net/article-display/caring-as-a-revolutionary-act-the-fight-for-humane-mental-health-practice,19114 "Permanent Link : Caring as a revolutionary act: The fight for humane mental health practice")
+* [Australia gets revenge as Bluey conquers the United States](https://independentaustralia.net/article-display/australia-gets-revenge-as-bluey-conquers-the-united-states,19129 "Permanent Link : Australia gets revenge as Bluey conquers the United States")
+* [Why Canada has cut permanent migration and Australia shouldn’t](https://independentaustralia.net/article-display/why-canada-has-cut-permanent-migration-and-australia-shouldnt,19127 "Permanent Link : Why Canada has cut permanent migration and Australia shouldn’t")
 * [Mistake or misconduct? NACC Inspector's damning findings](https://independentaustralia.net/article-display/mistake-or-misconduct-nacc-inspectors-damning-findings,19124 "Permanent Link : Mistake or misconduct? NACC Inspector's damning findings")
 * [Evidence debunks 'contemptible' climate lies](https://independentaustralia.net/article-display/evidence-debunks-contemptible-climate-lies,19121 "Permanent Link : Evidence debunks 'contemptible' climate lies")
 * [EDITORIAL: School lunches, royal tours, foreign wars and the myth of Australia’s classless society](https://independentaustralia.net/article-display/editorial-school-lunches-royal-tours-foreign-wars-and-the-myth-of-australias-classless-society,19123 "Permanent Link : EDITORIAL: School lunches, royal tours, foreign wars and the myth of Australia’s classless society")
-* [Claims of morality do not reconcile with utter savagery](https://independentaustralia.net/article-display/claims-of-morality-do-not-reconcile-with-utter-savagery,19115 "Permanent Link : Claims of morality do not reconcile with utter savagery")
-* [Australia's Greens not so green anymore](https://independentaustralia.net/article-display/australias-greens-not-so-green-anymore,19120 "Permanent Link : Australia's Greens not so green anymore")
-* [Apple’s Vision Pro: A potential path toward vision impairment care](https://independentaustralia.net/article-display/apples-vision-pro-a-potential-path-toward-vision-impairment-care,19119 "Permanent Link : Apple’s Vision Pro: A potential path toward vision impairment care")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
