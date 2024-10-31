@@ -27,7 +27,7 @@
     
     Extension
     
-    [Chrome](https://protonvpn.com/download-chrome-extension)[Firefox](https://protonvpn.com/download-firefox-extension) [Android TV](https://protonvpn.com/download-androidtv)[Chromebook](https://protonvpn.com/download-chromebook)
+    [Chrome](https://protonvpn.com/download-chrome-extension)[Firefox](https://protonvpn.com/download-firefox-extension) [Android TV](https://protonvpn.com/download-androidtv)[Apple TV](https://protonvpn.com/download-appletv)[Chromebook](https://protonvpn.com/download-chromebook)
     
 * Resources
     
@@ -169,6 +169,9 @@ Geneva, Switzerland
     * [VPN for Linux](https://protonvpn.com/download-linux)
     * [VPN for Chrome](https://protonvpn.com/download-chrome-extension)
     * [VPN for Firefox](https://protonvpn.com/download-firefox-extension)
+    * [VPN for Chromebook](https://protonvpn.com/download-chromebook)
+    * [VPN for Android TV](https://protonvpn.com/download-androidtv)
+    * [VPN for Apple TV](https://protonvpn.com/download-appletv)
 * ### Company
     
 * Company
