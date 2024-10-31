@@ -136,35 +136,35 @@ For specific information about Mediavine Partners, the data each collects and th
 
 ##### Recent Posts
 
-[](https://ygorganization.com/the-remaining-five-cards-suda/ "The Remaining Five Cards [SUDA]")
+[](https://ygorganization.com/more-quarter-century-bonanza-reprints-tcg/ "More Quarter Century Bonanza Reprints [TCG]")
 
-#### [The Remaining Five Cards \[SUDA\]](https://ygorganization.com/the-remaining-five-cards-suda/)
+#### [More Quarter Century Bonanza Reprints \[TCG\]](https://ygorganization.com/more-quarter-century-bonanza-reprints-tcg/)
 
-October 24, 2024
+October 30, 2024
 
-[](https://ygorganization.com/asia-campus-league-2024-playmat-ocg/ "Asia Campus League 2024 Playmat [OCG]")
+[](https://ygorganization.com/cdp_pendulumnominon/ "CDP: Supreme King Odd-Eyes Performapal Magician with Odd-Eyes Solblaze Dragon")
 
-#### [Asia Campus League 2024 Playmat \[OCG\]](https://ygorganization.com/asia-campus-league-2024-playmat-ocg/)
+#### [CDP: Supreme King Odd-Eyes Performapal Magician with Odd-Eyes Solblaze Dragon](https://ygorganization.com/cdp_pendulumnominon/)
 
-October 24, 2024
+October 30, 2024
 
-[](https://ygorganization.com/potentialmandragonedition/ "Details About Triple Build Pack: Evolution Impact [RUSH DUEL]")
+[](https://ygorganization.com/reinforce-your-frontline-with-support-unit-kumamimi-rd-kp19/ "Reinforce Your Frontline With “Support Unit – Kumamimi”! [RD/KP19]")
 
-#### [Details About Triple Build Pack: Evolution Impact \[RUSH DUEL\]](https://ygorganization.com/potentialmandragonedition/)
+#### [Reinforce Your Frontline With “Support Unit – Kumamimi”! \[RD/KP19\]](https://ygorganization.com/reinforce-your-frontline-with-support-unit-kumamimi-rd-kp19/)
 
-October 23, 2024
+October 30, 2024
 
-[](https://ygorganization.com/more-quarter-century-nostalgia-reprints-tcg/ "More Quarter Century Nostalgia Reprints [TCG]")
+[](https://ygorganization.com/various-contents-of-quarter-century-bonanza-tcg/ "Various Contents of Quarter Century Bonanza [TCG]")
 
-#### [More Quarter Century Nostalgia Reprints \[TCG\]](https://ygorganization.com/more-quarter-century-nostalgia-reprints-tcg/)
+#### [Various Contents of Quarter Century Bonanza \[TCG\]](https://ygorganization.com/various-contents-of-quarter-century-bonanza-tcg/)
 
-October 23, 2024
+October 30, 2024
 
-[](https://ygorganization.com/cdp_abcunionfuse/ "CDP: ABC XYZ Cyber Union, with Eosvarog, Forger of the Dawn and Union Pilot")
+[](https://ygorganization.com/legendary-lord-six-samurai-shi-en-playmat-tcg/ "Legendary Lord Six Samurai – Shi En Playmat [TCG]")
 
-#### [CDP: ABC XYZ Cyber Union, with Eosvarog, Forger of the Dawn and Union Pilot](https://ygorganization.com/cdp_abcunionfuse/)
+#### [Legendary Lord Six Samurai – Shi En Playmat \[TCG\]](https://ygorganization.com/legendary-lord-six-samurai-shi-en-playmat-tcg/)
 
-October 23, 2024
+October 30, 2024
 
 [Facebook](https://www.facebook.com/ygorganization) [X (Twitter)](https://twitter.com/ygorganization) [YouTube](https://www.youtube.com/@TheOrganization) [Discord](https://discord.gg/theorganization) [RSS](https://ygorganization.com/feed/)
 
