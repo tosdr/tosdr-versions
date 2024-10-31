@@ -56,7 +56,7 @@ The ultimate framework for your Cyber Security operations
 
 Editions
 
-[Home](https://parrotsec.org/download/?version=home)[Security](https://parrotsec.org/download/?version=security)[Hack The Box](https://parrotsec.org/download/?version=hackthebox)[WSL](https://parrotsec.org/download/?version=wsl)[Cloud](https://parrotsec.org/download/?version=cloud)[Architect](https://parrotsec.org/download/?version=architect)[Raspberry Pi Images](https://parrotsec.org/download/?version=raspberry)
+[Home](https://parrotsec.org/download/)[Security](https://parrotsec.org/download/)[Hack The Box](https://parrotsec.org/download/)[WSL](https://gitlab.com/parrotsec/project/wsl/-/jobs/7108225130/artifacts/download?file_type=archive)[Debian Conversion Script](https://gitlab.com/parrotsec/project/debian-conversion-script)[Docker Images](https://parrot.run/)[Raspberry Pi Images](https://parrotsec.org/download/)
 
 Resources
 
