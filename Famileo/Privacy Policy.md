@@ -281,7 +281,7 @@ To publish your messages, join the family account for free thanks to a family co
 
 [ENTER MY FAMILY CODE](https://www.famileo.com/web-family/#/register)
 
-### Subscribing for my family
+### Subscribe for my family
 
 Create a family account in just a few clicks so that your whole family can take part in the gazette that will be sent to your grandparents by post. Subscriptions with no commitment, from $9.99/month.  
 [See all our plans](https://www.famileo.com/famileo/en-US/#famileo-formula-btoc)
