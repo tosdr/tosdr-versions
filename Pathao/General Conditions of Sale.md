@@ -6,15 +6,15 @@
 
 Days
 
-02
+00
 
 Hours
 
-51
+00
 
 Minutes
 
-53
+00
 
 Seconds
 
@@ -47,7 +47,6 @@ Seconds
     * [Send a message](https://pathao.com/contact/ "Send a message")
     * [Helpline 09678100800](tel:09678100800 "Helpline 09678100800")
 * [Blog](https://pathao.com/blog/ "Blog")
-* [Pathao Fest](https://pathao.com/pathao-fest/ "Pathao Fest")
 * [More ◉](# "More ◉")
     * [Download App](https://pathao.com/pathao-app-download/ "Download App")
     * [About Us](https://pathao.com/about-us/ "About Us")
@@ -62,6 +61,7 @@ Seconds
     * [Contact](https://pathao.com/contact/ "Contact")
     * [Ridesharing Guidelines](https://pathao.com/bn/rideshare-guideline/ "Ridesharing Guidelines")
     * [Pathao Safety Coverage NEW](https://pathao.com/insurance/ "Pathao Safety Coverage NEW")
+    * [Pathao Fest](https://pathao.com/pathao-fest/ "Pathao Fest")
     * [![](https://pathao.com/wp-content/uploads/2019/01/fb.png "Facebook")](https://www.facebook.com/pathaobd/)[![](https://pathao.com/wp-content/uploads/2019/01/twitter.png "Twitter")](https://twitter.com/pathaobd)[![](https://pathao.com/wp-content/uploads/2019/01/insta.png "Instagram")](https://www.instagram.com/pathaobd/?hl=en)[![](https://pathao.com/wp-content/uploads/2019/01/dribbble.png "Dribbble")](https://dribbble.com/Pathao)
 * [ENG](# "ENG")
     * [English](https://pathao.com/redirect?redirectTo=https%3A%2F%2Fpathao.com%2Fshop-return-and-refund-policy&lang=en "English")
