@@ -18,7 +18,6 @@
     * [Formorrow](https://www.uscki.nl/?pagina=Sponsors&action=detail&id=69)
     * [Joust](https://www.uscki.nl/?pagina=Sponsors&action=detail&id=68)
     * [Drukbedrijf.nl](https://www.uscki.nl/?pagina=Sponsors&action=detail&id=71)
-    * [Techniek Bedrijven](https://www.uscki.nl/?pagina=Sponsors&action=detail&id=72)
     * [Voor bedrijven](https://www.uscki.nl/?pagina=Wicki/WPublic&subject=Samenwerking&menu=Sponsoren)
 * [Vacatures](https://www.uscki.nl/?pagina=Applications)
     * [Voor bedrijven](https://www.uscki.nl/?pagina=Wicki/WPublic&subject=Samenwerking&menu=Vacatures)
@@ -301,8 +300,6 @@ Wijzigingen
 [![](?pagina=Media/FileView&id=105302&size=normal)](https://www.joust.nl/)
 
 [![](?pagina=Media/FileView&id=108280&size=normal)](https://www.drukbedrijf.nl/)
-
-[![](?pagina=Media/FileView&id=108303&size=normal)](https://www.techniekbedrijven.nl/)
 
 © 2003-2024 - [Privacy Policy](https://www.uscki.nl/?pagina=Wicki/WPublic&subject=Privacy_Policy)  
 
