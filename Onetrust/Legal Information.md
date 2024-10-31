@@ -195,9 +195,9 @@ On-demand webinar coming soon...
 
 ### Latest News
 
-* [ISMG | The Nexus of Privacy, AI Governance and Data Management](https://www.bankinfosecurity.com/nexus-privacy-ai-governance-data-management-a-25262)
-* [ComputerWeekly | OneTrust defines information mandate to govern data & AI](https://www.computerweekly.com/blog/CW-Developer-Network/OneTrust-defines-information-mandate-to-govern-data-AI)
-* [Forbes | Kabir Barday Builds OneTrust As High Growth Platform For Data Privacy](https://www.forbes.com/sites/brucerogers/2024/06/24/kabir-barday-builds-onetrust-as-high-growth-platform-for-data-privacy/)
+* [Channel Insider | OneTrust launches AI-powered compliance automation platform](https://www.channelinsider.com/news-and-trends/us/onetrust-compliance-automation/)
+* [CRN Security 100](https://www.crn.com/news/security/2024/the-20-coolest-identity-access-management-and-data-protection-companies-of-2024-the-security-100?page=12)
+* [Broadband TV News | Titan OS selects OneTrust as data privacy partner](https://www.broadbandtvnews.com/2024/02/23/titan-os-selects-onetrust-as-data-privacy-partner/)
 
 ### Contact Us
 
