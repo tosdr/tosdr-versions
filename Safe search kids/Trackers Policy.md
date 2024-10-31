@@ -635,11 +635,11 @@ Share This Article
 
  
 
-[![History Costume Ideas](https://www.safesearchkids.com/wp-content/uploads/2023/10/Halloween-Trick-or-Treating-Costumes.jpg)](https://www.safesearchkids.com/cute-and-fun-halloween-costume-ideas-for-kids/)
+[![The History of Halloween for Students](https://www.safesearchkids.com/wp-content/uploads/2023/10/Happy-Halloween-The-History-of-Halloween.jpg)](https://www.safesearchkids.com/the-history-of-halloween/)
 
 ### 
 
-[9 Halloween Costume Ideas](https://www.safesearchkids.com/cute-and-fun-halloween-costume-ideas-for-kids/)
+[The History of Halloween](https://www.safesearchkids.com/the-history-of-halloween/)
 
 ### Article Categories
 
