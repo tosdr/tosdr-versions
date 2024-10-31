@@ -1,5 +1,29 @@
 Many features of MyFibroTeam will not work unless you enable JavaScript support in your browser.
 
+![Lock Icon](https://www.myfibroteam.com/assets/mht/lock-b870a07e61cb7eabd5ff126e4d23dacf50b6be30ffd3c6772917fbe19412cf18.png) Your Privacy is Our Priority
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+By **accepting cookies** and other tracking technologies, you consent to our collection and sharing of your consumer health data as described in our [Health Data Policy](https://www.myfibroteam.com/about/health_data), including with advertising partners for marketing purposes. We do not share any of your personal information. You may withdraw your consent at any time.
+
+Manage Cookies 
+
+Manage Cookies
+--------------
+
+Back
+
+Relevant Advertising
+
+The ads we show you may be personalized based on the information that you share.
+
+AcceptDecline
+
+* * *
+
+We may use cookies to provide personalized ads on other websites you visit.
+
+AcceptDecline
+
 ![](https://www.myfibroteam.com/assets/fbr/logo_home-ea86f2593a86a527f2af1d138981963e86244573961e35e1f77b2d145888bf18.png)
 
 Connect with others who understand.
@@ -9,7 +33,7 @@ Connect with others who understand.
 
 Quick Links
 
-[Q&A](https://www.myfibroteam.com/questions) [Treatments A-Z](https://www.myfibroteam.com/treatments) [Help Center](https://www.myfibroteam.com/support) [Community guidelines](https://www.myfibroteam.com/about/guidelines) [Crisis](https://myhealthteams.freshdesk.com/en/support/solutions/articles/43000232336-crisis) [Accessibility](https://myhealthteams.freshdesk.com/en/support/solutions/articles/43000553045-accessibility)
+[Q&A](https://www.myfibroteam.com/questions) [Treatments A-Z](https://www.myfibroteam.com/treatments) [Help Center](https://www.myfibroteam.com/support) [Guidelines](https://www.myfibroteam.com/about/guidelines) [Crisis](https://myhealthteams.freshdesk.com/en/support/solutions/articles/43000232336-crisis) [Accessibility](https://myhealthteams.freshdesk.com/en/support/solutions/articles/43000553045-accessibility)
 
 Resources
 
@@ -17,7 +41,7 @@ Resources
 
 About MyFibroTeam
 
-[What is MyFibroTeam](https://www.myfibroteam.com/about) [Terms of Use](https://www.myfibroteam.com/about/tos) [Privacy policy](https://www.myfibroteam.com/about/privacy)
+[What is This Site](https://www.myfibroteam.com/about) [Terms of Use](https://www.myfibroteam.com/about/tos) [Privacy policy](https://www.myfibroteam.com/about/privacy)
 
 Powered By ![](https://www.myfibroteam.com/assets/mht/mht_text-f99bc3e4bd3961a44af613d3df87db2b64cd6cc2b15d01317556959b99821628.png)
 
@@ -172,19 +196,19 @@ Learn more...ABOUT FIBRO DIAGNOSIS CAUSES SYMPTOMS TREATMENTS RESOURCES
 
 ![](https://www.myfibroteam.com/assets/fbr/logo_home-ea86f2593a86a527f2af1d138981963e86244573961e35e1f77b2d145888bf18.png)
 
-New to MyFibroTeam? [Learn More](https://www.myfibroteam.com/)
+MyFibroTeam is the social network for those living with fibromyalgia. Get the emotional support you need from others like you, and gain practical advice and insights on managing treatment or therapies for fibromyalgia. MyFibroTeam is the only social network where you can truly connect, make real friendships, and share daily ups and downs in a judgment-free place.
 
 Quick Links
 
-[Q&A](https://www.myfibroteam.com/questions) [Treatments A-Z](https://www.myfibroteam.com/treatments) [Resources](https://www.myfibroteam.com/resources) [Are you a provider?](https://www.myfibroteam.com/providers/new) [Crisis](https://myhealthteams.freshdesk.com/en/support/solutions/articles/43000232336-crisis)
+[Resources](https://www.myfibroteam.com/resources) [Treatments A-Z](https://www.myfibroteam.com/treatments) [Help Center](https://www.myfibroteam.com/support) [Crisis](https://myhealthteams.freshdesk.com/en/support/solutions/articles/43000232336-crisis)
 
-Help With This Site
+About
 
-[Getting started](https://www.myfibroteam.com/resources/getting-started-on-myfibroteam/list) [Help Center](https://www.myfibroteam.com/support) [Community guidelines](https://www.myfibroteam.com/about/guidelines) [Accessibility](https://myhealthteams.freshdesk.com/en/support/solutions/articles/43000553045-accessibility)
+[What is This Site](https://www.myfibroteam.com/about) [Getting started](https://www.myfibroteam.com/resources/getting-started-on-myfibroteam/list) [Guidelines](https://www.myfibroteam.com/about/guidelines) [Accessibility](https://myhealthteams.freshdesk.com/en/support/solutions/articles/43000553045-accessibility) [Partner with us](https://www.myfibroteam.com/about/partner) [Press/News](https://www.myhealthteam.com/press/)
 
-About Us
+Policies
 
-[Partner with us](https://www.myfibroteam.com/about/partner) [Terms of Use](https://www.myfibroteam.com/about/tos) [Press/News](https://www.myhealthteam.com/press/) [Privacy policy](https://www.myfibroteam.com/about/privacy) [Health Data Policy](https://www.myfibroteam.com/about/health_data) [Cookie policy](https://www.myfibroteam.com/about/cookies_policy) [What is MyFibroTeam](https://www.myfibroteam.com/about)
+[Terms of Use](https://www.myfibroteam.com/about/tos) [Privacy policy](https://www.myfibroteam.com/about/privacy) [Cookie policy](https://www.myfibroteam.com/about/cookies_policy) [Health Data Policy](https://www.myfibroteam.com/about/health_data) ![Lock Icon](https://www.myfibroteam.com/assets/mht/lock-b870a07e61cb7eabd5ff126e4d23dacf50b6be30ffd3c6772917fbe19412cf18.png) Your Privacy Choices
 
 Powered By
 
