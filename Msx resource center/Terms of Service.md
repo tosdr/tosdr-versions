@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -140,6 +140,7 @@ MSX Music player
 
 Latest reactions
 
+* [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
@@ -147,12 +148,12 @@ Latest reactions
 * [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/news/hardware/en/msx-pico-cartridge "MSX Pico - multi Flash ROM cartridge")
 * [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
 * [MGLOAD](https://www.msx.org/downloads/mgload-0 "MGLOAD")
-* [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [News submissions that didn't make the front-page](https://www.msx.org/news/mrc/en/news-submissions-that-didnt-make-the-front-page "News submissions that didn't make the front-page")
 
 Latest forum posts
 
+* [Attack of the Petscii Robots - V9990](https://www.msx.org/forum/msx-talk/development/attack-of-the-petscii-robots-v9990?page=5 "Attack of the Petscii Robots - V9990")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=123 "Please help testing upcoming openMSX release!")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=62 "List of undumped MSX software (PLEASE HELP!)")
 * [On magnified sprites, OR function and 1px offset](https://www.msx.org/forum/msx-talk/development/on-magnified-sprites-or-function-and-1px-offset "On magnified sprites, OR function and 1px offset")
@@ -165,7 +166,6 @@ Latest forum posts
 * [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=223 "Wiki editing discussion")
 * [Modular MSX Sound Cartridge - Real Yamaha Chipset](https://www.msx.org/forum/msx-talk/hardware/modular-msx-sound-card-real-yamaha-chipset "Modular MSX Sound Cartridge - Real Yamaha Chipset")
 * [Generation MSX is down?](https://www.msx.org/forum/msx-talk/general-discussion/generation-msx-is-down "Generation MSX is down?")
-* [Panasonic FS-A1 propietary firmware (DESKPAC) bypass by hardware modding. Can be done?](https://www.msx.org/forum/msx-talk/hardware/panasonic-fs-a1-propietary-firmware-deskpac-bypass-by-hardware-modding-can-b?page=1 "Panasonic FS-A1 propietary firmware (DESKPAC) bypass by hardware modding. Can be done? ")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
