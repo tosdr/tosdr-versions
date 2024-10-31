@@ -132,6 +132,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Product Updates
+
+What’s New In Own: Release Highlights For Q3 ‘24](https://www.ownbackup.com/blog/whats-new-in-own-release-highlights-for-q3-24)
+
 [Compliance
 
 Ensuring Compliance: Manage ‘Right to Be Forgotten’ Requests Across All Salesforce Data Storage Locations](https://www.ownbackup.com/blog/ensuring-compliance-manage-right-to-be-forgotten-requests-across-all-salesforce-data-storage-locations)
@@ -139,10 +143,6 @@ Ensuring Compliance: Manage ‘Right to Be Forgotten’ Requests Across All Sale
 [Compliance
 
 NYDFS Emphasizes Data Protection and Business Continuity in Updated 23 NYCRR 500 Cybersecurity Regulation](https://www.ownbackup.com/blog/23-nycrr-500-regulation)
-
-[Data Seeding
-
-What Is the Best Data Loader Option for Salesforce?](https://www.ownbackup.com/blog/what-is-the-best-data-loader-option-for-salesforce)
 
 Company
 
@@ -360,6 +360,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Product Updates
+
+What’s New In Own: Release Highlights For Q3 ‘24](https://www.ownbackup.com/blog/whats-new-in-own-release-highlights-for-q3-24)
+
 [Compliance
 
 Ensuring Compliance: Manage ‘Right to Be Forgotten’ Requests Across All Salesforce Data Storage Locations](https://www.ownbackup.com/blog/ensuring-compliance-manage-right-to-be-forgotten-requests-across-all-salesforce-data-storage-locations)
@@ -367,10 +371,6 @@ Ensuring Compliance: Manage ‘Right to Be Forgotten’ Requests Across All Sale
 [Compliance
 
 NYDFS Emphasizes Data Protection and Business Continuity in Updated 23 NYCRR 500 Cybersecurity Regulation](https://www.ownbackup.com/blog/23-nycrr-500-regulation)
-
-[Data Seeding
-
-What Is the Best Data Loader Option for Salesforce?](https://www.ownbackup.com/blog/what-is-the-best-data-loader-option-for-salesforce)
 
 Company
 
