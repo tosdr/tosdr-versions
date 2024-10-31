@@ -1,24 +1,3 @@
-[Skip to main content](#main)
-
-[Platform Logins](https://www.itpro.tv/login/)[Request a demo](#contact-sales)
-
-[](https://www.itpro.tv/)
-
-Site navigation
----------------
-
-[Meet myACI](https://www.itpro.tv/myaci-learn/)
-
-[Learning Solutions](#)
-
-[Individuals](#)
-
-[Pricing](#)
-
-[Catalog](#)
-
-[Resources](https://www.itpro.tv/resources/)
-
 ACI Learning privacy statement
 ==============================
 
@@ -265,36 +244,33 @@ ACI Learning
 6855 S Havana St #420  
 Centennial, CO 80112
 
-Business Solutions
+Resources
 
-* [Learning Experience Platform](https://www.itpro.tv/myaci-learn/)
-* [Internal Audit Training](https://www.itpro.tv/auditpro/)
-* [Private IT Training Programs](https://www.itpro.tv/live-online-training/)
-* [Channel, Reseller & Academic](https://www.itpro.tv/channel-reseller/)
-* [Government IT training](https://www.itpro.tv/government/)
+* [Blogs](https://www.itpro.tv/blog/)
+* [Webinars](https://www.itpro.tv/webinars/)
+* [Reports](https://www.itpro.tv/reports/)
 
-Content Packages
+About ACI Learning
 
-* [ITPro](https://www.itpro.tv/itpro/)
-* [AuditPro](https://www.itpro.tv/auditpro/)
-
-Company
-
-* [About](https://www.itpro.tv/about/)
-* [News](https://www.itpro.tv/news/)
-* [Resources](https://www.itpro.tv/resources/)
-* [Tech Academy](https://www.acitechacademy.com/)
+* [Why Us?](https://www.itpro.tv/about/)
+* [In the News](https://www.itpro.tv/news/)
+* [ACI Tech Academy](https://www.acitechacademy.com/)
 * [Careers](https://www.itpro.tv/careers/)
 
-Support
+Get Support
 
-* [Documentation](https://help.acilearning.com/)
-* [Contact Us](https://www.itpro.tv/support/)
+* [Visit the Knowledge Base](https://help.acilearning.com/)
+* [Connect with Support](https://www.itpro.tv/support/)
+
+Partner With Us
+
+* [Resellers](https://www.itpro.tv/channel-reseller/)
+* [Government & Public Sector](https://www.itpro.tv/government/)
 
 [](https://www.itpro.tv/)
 
 © ACI Learning
 
-[Privacy Policy](https://www.itpro.tv/privacy-policy)[Terms & Conditions](https://www.itpro.tv/terms-and-conditions)
+[Privacy Policy](https://www.itpro.tv/privacy-policy/)[Terms & Conditions](https://www.itpro.tv/terms-and-conditions/)
 
 [](https://www.linkedin.com/school/aci-learning/)[](https://www.instagram.com/acilearning/)[](https://twitter.com/aci_learning)[](https://www.facebook.com/acilearningco/)
