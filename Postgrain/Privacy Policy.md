@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![Marketing de Relacionamento - a imagem que ilustra o tema tem o fundo de uma loja, onde aparem uma vendedora atendendo uma cliente.](https://postgrain.com/wp-content/uploads/2024/10/THUMB-BLOG-Marketing-de-Relacionamento-Como-construir-conexoes-duradouras-e-impulsionar-resultados-580x290.jpg)](https://postgrain.com/?post_type=post&p=12682)
+[![Computador numa mesa, simbolizando a inteligência artificial no atendimento](https://postgrain.com/wp-content/uploads/2024/10/THUMB-BLOG-Inteligencia-artificial-em-foco-no-atendimento-ao-cliente-580x290.jpg)](https://postgrain.com/?post_type=post&p=12688)
 
-[Marketing de Relacionamento: Como construir conexões duradouras e impulsionar resultados?](https://postgrain.com/?post_type=post&p=12682)
+[Inteligência artificial no atendimento ao cliente](https://postgrain.com/?post_type=post&p=12688)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12682)
+[Leia mais](https://postgrain.com/?post_type=post&p=12688)
 
 Ilustração de um dos personagens do Postgrain
 
