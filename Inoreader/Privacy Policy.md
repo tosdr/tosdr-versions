@@ -288,7 +288,7 @@ Sign in
 
 Or simply sign in with:
 
-[](javascript:void() "Sign in with your Google account")[](javascript:void() "Sign in with your Apple account")[](https://www.inoreader.com/sso "Corporate login (SAML SSO)")
+[](javascript:void() "Sign in with your Google account.")[](javascript:void() "Sign in with your Apple account.")[](https://www.inoreader.com/sso "Corporate login (SAML SSO)")
 
 #### Create account
 
@@ -317,7 +317,7 @@ Create account
 
 Or simply sign in with:
 
-[](javascript:void() "Sign in with your Google account")[](javascript:void() "Sign in with your Apple account")[](https://www.inoreader.com/sso "Corporate login (SAML SSO)")
+[](javascript:void() "Sign in with your Google account.")[](javascript:void() "Sign in with your Apple account.")[](https://www.inoreader.com/sso "Corporate login (SAML SSO)")
 
 #### Sign in
 
