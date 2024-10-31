@@ -210,10 +210,10 @@ Organization
 
 [Blender Conference](https://conference.blender.org/ "Blender Conference")
 
-[Follow Blender](https://twitter.com/blender)
+[Follow Blender](https://x.com/blender)
 
 * [YouTube](https://youtube.com/BlenderFoundation "Blender's Official YouTube channel")
-* [X](https://twitter.com/blender "Follow Blender on xmlns")
+* [X](https://x.com/blender "Follow Blender on X")
 * [Instagram](https://instagram.com/blender.official/ "Follow Blender on Instagram")
 * [Facebook](https://www.facebook.com/YourOwn3DSoftware/ "Follow Blender on Facebook")
 * [LinkedIn](https://www.linkedin.com/company/blender-org/ "Follow Blender on LinkedIn")
