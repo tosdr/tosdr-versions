@@ -331,11 +331,7 @@ If you have any feedback or questions for us, please contact Fluid at [help@flui
 
 Fluid Truck
 
-[About Fluid Truck](https://www.fluidtruck.com/about)[Locations](https://www.fluidtruck.com/locations)[Reviews](https://www.fluidtruck.com/reviews)[Fluid for business](https://www.fluidtruck.com/business)
-
-[List your fleet](#)
-
-[Contact us](https://www.fluidtruck.com/help/contact)[Get in touch](https://www.fluidtruck.com/interest)
+[About Fluid Truck](https://www.fluidtruck.com/about)[Locations](https://www.fluidtruck.com/locations)[Reviews](https://www.fluidtruck.com/reviews)[Fluid for business](https://www.fluidtruck.com/business)[Contact us](https://www.fluidtruck.com/help/contact)[Get in touch](https://www.fluidtruck.com/interest)
 
 Explore
 
