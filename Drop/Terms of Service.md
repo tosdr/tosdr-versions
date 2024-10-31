@@ -5,9 +5,9 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Hallowheel 2024
 
-Tricks? Treats? Take a spin and find out.
+You have until midnight to spin—and win
 
-SPIN TO WIN
+SPIN NOW
 
 _keyboard\_arrow\_right_](https://drop.com/featured/hallowheel-2024)
 
@@ -23,32 +23,32 @@ SIGN UP
 
 SHOP
 
-[Shop All](https://drop.com/all-communities/drops/newest)
+[Shop All](https://drop.com/all-communities/drops)
 
 Mechanical Keyboards
 
-* [Shop All](https://drop.com/mechanical-keyboards/drops/newest)
-* [Keyboards](https://drop.com/mechanical-keyboards/drops/newest?sc=keyboards)
-* [Keycaps](https://drop.com/mechanical-keyboards/drops/newest?sc=keycaps)
-* [Switches](https://drop.com/mechanical-keyboards/drops/newest?sc=switches)
-* [Accessories](https://drop.com/mechanical-keyboards/drops/newest?sc=keyboard-accessories)
+* [Shop All](https://drop.com/mechanical-keyboards/drops)
+* [Keyboards](https://drop.com/mechanical-keyboards/drops?sc=keyboards)
+* [Keycaps](https://drop.com/mechanical-keyboards/drops?sc=keycaps)
+* [Switches](https://drop.com/mechanical-keyboards/drops?sc=switches)
+* [Accessories](https://drop.com/mechanical-keyboards/drops?sc=keyboard-accessories)
 
 Audiophile
 
-* [Shop All](https://drop.com/audiophile/drops/newest)
-* [Headphones](https://drop.com/audiophile/drops/newest?sc=headphones)
-* [Amps](https://drop.com/audiophile/drops/newest?sc=amps)
-* [Speakers](https://drop.com/audiophile/drops/newest?sc=speakers)
-* [Accessories](https://drop.com/audiophile/drops/newest?sc=headphone-accessories)
+* [Shop All](https://drop.com/audiophile/drops)
+* [Headphones](https://drop.com/audiophile/drops?sc=headphones)
+* [Amps](https://drop.com/audiophile/drops?sc=amps)
+* [Speakers](https://drop.com/audiophile/drops?sc=speakers)
+* [Accessories](https://drop.com/audiophile/drops?sc=headphone-accessories)
 
 Battlestations
 
 new
 
 * [Shop All](https://drop.com/battlestations/drops/newest)
-* [Desk Mats](https://drop.com/battlestations/drops/newest?sc=deskmats)
-* [Lighting](https://drop.com/battlestations/drops/newest?sc=lighting)
-* [Desk Accessories](https://drop.com/battlestations/drops/newest?sc=desk-accessories)
+* [Desk Mats](https://drop.com/battlestations/drops?sc=deskmats)
+* [Lighting](https://drop.com/battlestations/drops?sc=lighting)
+* [Desk Accessories](https://drop.com/battlestations/drops?sc=desk-accessories)
 
 Collections
 
