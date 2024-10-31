@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![35 Facts About Timing ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/35-facts-about-timing/)
+[![32 Facts About Supply Chain Management ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2297%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/32-facts-about-supply-chain-management/)
 
 General
 
-30 Oct 2024
+31 Oct 2024
 
-[35 Facts About Timing](https://facts.net/general/35-facts-about-timing/)
+[32 Facts About Supply Chain Management](https://facts.net/general/32-facts-about-supply-chain-management/)
 
-[![30 Facts About Earths Most Dangerous Natural Disasters ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/30-facts-about-earths-most-dangerous-natural-disasters/)
+[![27 Facts About Stone ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/27-facts-about-stone/)
 
-Earth & Life Science
+Earth Sciences
 
-30 Oct 2024
+31 Oct 2024
 
-[30 Facts About Earths Most Dangerous Natural Disasters](https://facts.net/earth-and-life-science/30-facts-about-earths-most-dangerous-natural-disasters/)
+[27 Facts About Stone](https://facts.net/earth-and-life-science/earth-sciences/27-facts-about-stone/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
@@ -366,7 +366,6 @@ The Terms constitute the entire agreement between you and Facts.net relating t
 * [Privacy Policy](https://facts.net/privacy-policy/)
 * [Submit Facts](https://facts.net/fact-submission-page/)
 * [More Facts](https://facts.net/more-category/)
-* [Shop Facts.net Merchandise](https://shop.facts.net/)
 * [🇩🇪 Fakten auf Deutsch](https://de.facts.net/)
 * [🇫🇷 Faits en français](https://fr.facts.net/)
 * [🇪🇸 Hechos en Español](https://es.facts.net/)
