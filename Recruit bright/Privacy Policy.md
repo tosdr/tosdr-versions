@@ -347,7 +347,7 @@ Choose your Account Type
 
 [Close](javascript:void(0))
 
-                                      
+                                  
 
 Answers
 -------
