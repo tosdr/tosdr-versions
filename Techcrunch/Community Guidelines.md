@@ -180,11 +180,11 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Code of Conduct](https://techcrunch.com/code-of-conduct/)
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
-* [TechCrunch Disrupt 2024](https://techcrunch.com/storyline/techcrunch-disrupt-2024-follow-the-reveals-insights-and-more-in-our-live-blog/)
+* [ChatGPT Search](https://techcrunch.com/2024/10/31/openai-launches-its-google-challenger-chatgpt-search/)
 * [WordPress vs. WP Engine](https://techcrunch.com/2024/10/30/matt-mullenweg-talks-about-automattics-staffing-issues-and-financials-at-techcrunch-disrupt/)
-* [Dropbox](https://techcrunch.com/2024/10/30/dropbox-is-laying-off-20-of-its-staff/)
+* [Claude](https://techcrunch.com/2024/10/31/claude-gets-desktop-apps-and-dictation-support/)
 * [Boston Dynamics](https://techcrunch.com/2024/10/30/boston-dynamics-electric-atlas-humanoid-executes-autonomous-automotive-parts-picking/)
-* [Zoox](https://techcrunch.com/2024/10/30/zoox-custom-robotaxis-are-finally-coming-to-san-francisco-and-las-vegas/)
+* [TechCrunch Disrupt 2024](https://techcrunch.com/storyline/techcrunch-disrupt-2024-follow-the-reveals-insights-and-more-in-our-live-blog/)
 * [Tech Layoffs](https://techcrunch.com/2024/10/30/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/10/29/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
