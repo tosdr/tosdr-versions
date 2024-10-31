@@ -68,23 +68,23 @@ Exclusive features for businesses to get to market faster with brands, templates
 
 Businesses
 
-Storyblocks for Business
+PRODUCTS & TOOLS
 
-* [Learn More](https://www.storyblocks.com/business-solutions/enterprise)
-* [License Comparison](https://www.storyblocks.com/business-solutions/license-comparison)
-* [Demo Video](https://www.storyblocks.com/business-solutions/storyblocks-demo)
+* [Storyblocks for Business](https://www.storyblocks.com/resources/business-solutions/business-license)
+* [Watch a Demo](https://www.storyblocks.com/resources/business-solutions/storyblocks-demo)
+* [Storyblocks API](https://www.storyblocks.com/resources/business-solutions/api)
+* [Data Licensing](https://www.storyblocks.com/resources/business-solutions/data-licensing)
 
-Use Cases
+INDUSTRIES
 
-* [Broadcasting & Production](https://www.storyblocks.com/business-solutions/broadcast-production)
-* [Education & eLearning](https://www.storyblocks.com/business-solutions/education)
-* [Media Organizations](https://www.storyblocks.com/business-solutions/media)
-* [Marketing Teams](https://www.storyblocks.com/business-solutions/marketing)
-* [Creative Agencies](https://www.storyblocks.com/business-solutions/agencies)
-* [Storyblocks API](https://www.storyblocks.com/business-solutions/api)
-* [Data Licensing](https://www.storyblocks.com/business-solutions/data-licensing)
+* [Broadcasting & Entertainment](https://www.storyblocks.com/resources/business-solutions/broadcast)
+* [Production](https://www.storyblocks.com/resources/business-solutions/production)
+* [PR & Ad Agencies](https://www.storyblocks.com/resources/business-solutions/agencies)
+* [Education & E-Learning](https://www.storyblocks.com/resources/business-solutions/education)
+* [Political, Religious, Special Interest](https://www.storyblocks.com/resources/business-solutions/special-interest)
+* [Technology](https://www.storyblocks.com/resources/business-solutions/technology)
 
-Start The Conversation
+START THE CONVERSATION
 
 Talk to Sales
 
@@ -92,19 +92,14 @@ Resources
 
 Resources
 
-* [Resource Center](https://www.storyblocks.com/resources)
-* [Social Media Tutorials](https://www.storyblocks.com/resources#social-media)
-* [Compare To Other Solutions](https://www.storyblocks.com/resources#comparison)
-* [Storyblocks Series](https://www.storyblocks.com/resources#video-production)
-* [Webinars](https://www.storyblocks.com/resources#webinars)
-
-Storyblocks Blog
-
-* [Visit the blog](https://www.storyblocks.com/resources/blog)
-
-Any Other Questions?
-
-* [Read FAQs](https://help.storyblocks.com/)
+* [Blog](https://www.storyblocks.com/resources/blog)
+* [Tutorials](https://www.storyblocks.com/resources/tutorials)
+* [Webinars](https://www.storyblocks.com/resources/webinars)
+* [Guides & Reports](https://www.storyblocks.com/resources/guides)
+* [Courses](https://www.storyblocks.com/resources/courses)
+* [Case Studies](https://www.storyblocks.com/resources/case-studies)
+* [Storyblocks News](https://www.storyblocks.com/resource/news)
+* [FAQs](https://help.storyblocks.com/en/)
 
 All
 
@@ -112,7 +107,7 @@ Video
 
 [Login](https://www.storyblocks.com/login)
 
-[Contact Sales](https://www.storyblocks.com/business-solutions/get-in-touch-top-nav)
+[Pricing](https://www.storyblocks.com/pricing)
 
 [Pricing](https://www.storyblocks.com/pricing)
 
@@ -341,7 +336,7 @@ Creative Tools
 **Business Solutions**
 
 * [Storyblocks for Business](https://www.storyblocks.com/business-solutions)
-* [Storyblocks for Education](https://www.storyblocks.com/business-solutions/education)
+* [Storyblocks for Education](https://www.storyblocks.com/resources/business-solutions/education)
 * [Compare Licenses](https://www.storyblocks.com/business-solutions/license-comparison)
 * [Demo Video](https://www.storyblocks.com/business-solutions/storyblocks-demo)
 * [Data Licensing](https://www.storyblocks.com/business-solutions/data-licensing)
