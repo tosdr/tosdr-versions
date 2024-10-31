@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![A close-up photo of a camera lens](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/sanction-thumbnail.jpg?width=1920&height=1085&quality=80)
+
+### Ofcom fines GB News £100,000
+
+31 October 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/ofcom-fines-gb-news/)
+
 [![delivery driver hero](/siteassets/resources/images/-news-centre/thumbnail-images/post/delivery-driver-hero.png?width=1920&height=1085&quality=80)
 
 ### Best and worst parcel firms for customer service satisfaction revealed
@@ -150,12 +156,6 @@
 ### Hundreds of new local stations take to the digital airwaves
 
 22 October 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/digital-radio/turn-up-and-tune-into-small-scale-dab/)
-
-[![Anxious woman on phone](/siteassets/resources/images/-news-centre/thumbnail-images/phones/anxious-woman-on-phone.jpg?width=1920&height=1085&quality=80)
-
-### Ofcom launches investigation into whether Tismi failed to prevent misuse of its phone numbers by scammers
-
-18 October 2024](https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/ofcom-launches-investigation-into-whether-tismi-failed-to-prevent-misuse-of-its-phone-numbers-by-scammers/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
 
