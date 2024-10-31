@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[RSA vs BAN - Stumps](https://www.cricbuzz.com/live-cricket-scores/108425/rsa-vs-ban-2nd-test-south-africa-tour-of-bangladesh-2024 "South Africa v Bangladesh, 2nd Test - Stumps")[NZW vs INDW - INDW Won](https://www.cricbuzz.com/live-cricket-scores/108689/nzw-vs-indw-3rd-odi-new-zealand-women-tour-of-india-2024 "New Zealand Women v India Women, 3rd ODI - INDW Won")[BRHW vs MLRW - BRHW Won](https://www.cricbuzz.com/live-cricket-scores/101277/brhw-vs-mlrw-6th-match-womens-big-bash-league-2024 "Brisbane Heat Women v Melbourne Renegades Women, 6th Match - BRHW Won")[AUSA vs INDA - Preview](https://www.cricbuzz.com/live-cricket-scores/96530/ausa-vs-inda-1st-unofficial-test-india-a-tour-of-australia-2024 "Australia A v India A, 1st unofficial Test - Preview")[SYTW vs HBHW - Preview](https://www.cricbuzz.com/live-cricket-scores/101286/sytw-vs-hbhw-7th-match-womens-big-bash-league-2024 "Sydney Thunder Women v Hobart Hurricanes Women, 7th Match - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[RSA vs BAN - Stumps](https://www.cricbuzz.com/live-cricket-scores/108425/rsa-vs-ban-2nd-test-south-africa-tour-of-bangladesh-2024 "South Africa v Bangladesh, 2nd Test - Stumps")[INDA vs AUSA - Live](https://www.cricbuzz.com/live-cricket-scores/96530/inda-vs-ausa-1st-unofficial-test-india-a-tour-of-australia-2024 "India A v Australia A, 1st unofficial Test - Live")[BRHW vs MLRW - BRHW Won](https://www.cricbuzz.com/live-cricket-scores/101277/brhw-vs-mlrw-6th-match-womens-big-bash-league-2024 "Brisbane Heat Women v Melbourne Renegades Women, 6th Match - BRHW Won")[SYTW vs HBHW - Preview](https://www.cricbuzz.com/live-cricket-scores/101286/sytw-vs-hbhw-7th-match-womens-big-bash-league-2024 "Sydney Thunder Women v Hobart Hurricanes Women, 7th Match - Preview")[WI vs ENG - Preview](https://www.cricbuzz.com/live-cricket-scores/95142/wi-vs-eng-1st-odi-england-tour-of-west-indies-2024 "West Indies v England, 1st ODI - Preview")
 
 AllLive NowToday
 
@@ -112,6 +112,14 @@ AllLive NowToday
     
     Elite Group D
     
+* [Gujarat vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/97457/guj-vs-raj-elite-group-b-ranji-trophy "Gujarat v Rajasthan, Elite Group B - Match drawn")
+    
+    Elite Group B
+    
+* [Assam vs Delhi](https://www.cricbuzz.com/live-cricket-scores/97511/asm-vs-del-elite-group-d-ranji-trophy "Assam v Delhi, Elite Group D - DEL Won")
+    
+    Elite Group D
+    
 * [Punjab vs Uttar Pradesh](https://www.cricbuzz.com/live-cricket-scores/97509/pun-vs-up-elite-group-c-ranji-trophy "Punjab v Uttar Pradesh, Elite Group C - Match drawn")
     
     Elite Group C
@@ -152,14 +160,6 @@ AllLive NowToday
     
     Elite Group B
     
-* [Gujarat vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/97457/guj-vs-raj-elite-group-b-ranji-trophy "Gujarat v Rajasthan, Elite Group B - Match drawn")
-    
-    Elite Group B
-    
-* [Assam vs Delhi](https://www.cricbuzz.com/live-cricket-scores/97511/asm-vs-del-elite-group-d-ranji-trophy "Assam v Delhi, Elite Group D - DEL Won")
-    
-    Elite Group D
-    
 * Ranji Trophy Plate
     
     [Mizoram vs Manipur](https://www.cricbuzz.com/live-cricket-scores/98141/miz-vs-mnp-plate-ranji-trophy-plate "Mizoram v Manipur, Plate - MIZ Won")
@@ -190,13 +190,13 @@ AllLive NowToday
     
 * Sheffield Shield 2024-25
     
-    [New South Wales vs Queensland](https://www.cricbuzz.com/live-cricket-scores/102880/nsw-vs-ql-7th-match-sheffield-shield-2024-25 "New South Wales v Queensland, 7th Match - Upcoming")
-    
-    7th Match
-    
-* [Tasmania vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/102882/tas-vs-wa-8th-match-sheffield-shield-2024-25 "Tasmania v Western Australia, 8th Match - Upcoming")
+    [Tasmania vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/102882/tas-vs-wa-8th-match-sheffield-shield-2024-25 "Tasmania v Western Australia, 8th Match - Upcoming")
     
     8th Match
+    
+* [New South Wales vs Queensland](https://www.cricbuzz.com/live-cricket-scores/102880/nsw-vs-ql-7th-match-sheffield-shield-2024-25 "New South Wales v Queensland, 7th Match - Upcoming")
+    
+    7th Match
     
 * [South Australia vs Victoria](https://www.cricbuzz.com/live-cricket-scores/102889/saus-vs-vic-9th-match-sheffield-shield-2024-25 "South Australia v Victoria, 9th Match - Upcoming")
     
@@ -204,7 +204,7 @@ AllLive NowToday
     
 * Australia A v India A
     
-    [Australia A vs India A](https://www.cricbuzz.com/live-cricket-scores/96530/ausa-vs-inda-1st-unofficial-test-australia-a-v-india-a "Australia A v India A, 1st unofficial Test - Preview")
+    [India A vs Australia A  LIVE](https://www.cricbuzz.com/live-cricket-scores/96530/inda-vs-ausa-1st-unofficial-test-australia-a-v-india-a "India A v Australia A, 1st unofficial Test - Live")
     
     1st unofficial Test
     
@@ -261,6 +261,10 @@ AllLive NowToday
 * [Sydney Sixers Women vs Melbourne Stars Women](https://www.cricbuzz.com/live-cricket-scores/101294/sysw-vs-mlsw-9th-match-wbbl-2024 "Sydney Sixers Women v Melbourne Stars Women, 9th Match - Upcoming")
     
     9th Match
+    
+* [Brisbane Heat Women vs Hobart Hurricanes Women](https://www.cricbuzz.com/live-cricket-scores/101302/brhw-vs-hbhw-10th-match-wbbl-2024 "Brisbane Heat Women v Hobart Hurricanes Women, 10th Match - Upcoming")
+    
+    10th Match
     
 * Kenya Women tour of Rwanda 2024
     
@@ -597,37 +601,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [South Africa's runs in Asia have been a long time coming](https://www.cricbuzz.com/cricket-news/132278/south-africas-runs-in-asia-have-been-a-long-time-coming "South Africa's runs in Asia have been a long time coming")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/132277/england-return-to-the-caribbean-with-one-eye-on-the-champions-trophy "England return to the Caribbean with one eye on the Champions Trophy")
 
 [England return to the Caribbean with one eye on the Champions Trophy](https://www.cricbuzz.com/cricket-news/132277/england-return-to-the-caribbean-with-one-eye-on-the-champions-trophy "England return to the Caribbean with one eye on the Champions Trophy")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132276/ipl-retentions-focus-on-futures-of-shreyas-rahul-pant-as-deadline-approaches "IPL Retentions: Focus on futures of Shreyas, Rahul, Pant as deadline approaches")
 
 [IPL Retentions: Focus on futures of Shreyas, Rahul, Pant as deadline approaches](https://www.cricbuzz.com/cricket-news/132276/ipl-retentions-focus-on-futures-of-shreyas-rahul-pant-as-deadline-approaches "IPL Retentions: Focus on futures of Shreyas, Rahul, Pant as deadline approaches")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132275/georgia-redmayne-grace-parsons-help-brisbane-heat-win-two-in-two "Georgia Redmayne, Grace Parsons help Brisbane Heat win two in two")
 
 [Georgia Redmayne, Grace Parsons help Brisbane Heat win two in two](https://www.cricbuzz.com/cricket-news/132275/georgia-redmayne-grace-parsons-help-brisbane-heat-win-two-in-two "Georgia Redmayne, Grace Parsons help Brisbane Heat win two in two")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/132274/mushtaq-ahmed-bemoans-bangladeshs-lack-of-game-awareness "Mushtaq Ahmed bemoans Bangladesh's lack of game awareness ")
 
 [Mushtaq Ahmed bemoans Bangladesh's lack of game awareness](https://www.cricbuzz.com/cricket-news/132274/mushtaq-ahmed-bemoans-bangladeshs-lack-of-game-awareness "Mushtaq Ahmed bemoans Bangladesh's lack of game awareness ")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/132273/danni-wyatt-hodge-traded-to-rcb-from-up-warriorz "Danni Wyatt-Hodge traded to RCB from UP Warriorz")
 
 [Danni Wyatt-Hodge traded to RCB from UP Warriorz](https://www.cricbuzz.com/cricket-news/132273/danni-wyatt-hodge-traded-to-rcb-from-up-warriorz "Danni Wyatt-Hodge traded to RCB from UP Warriorz")
 
-5h ago
+11h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
