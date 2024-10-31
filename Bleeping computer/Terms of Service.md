@@ -36,18 +36,18 @@
         
         Android malware "FakeCall" now reroutes bank calls to attackers](https://www.bleepingcomputer.com/news/security/android-malware-fakecall-now-reroutes-bank-calls-to-attackers/)
     
-    * [![Over a thousand online shops hacked to show fake product listings](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Hackers target critical zero-day vulnerability in PTZ cameras](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Over a thousand online shops hacked to show fake product listings](https://www.bleepingcomputer.com/news/security/over-a-thousand-online-shops-hacked-to-show-fake-product-listings/)
-    * [![A five-year subscription to the popular AdGuard VPN is only $35](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Hackers target critical zero-day vulnerability in PTZ cameras](https://www.bleepingcomputer.com/news/security/hackers-target-critical-zero-day-vulnerability-in-ptz-cameras/)
+    * [![Train for the CISSP certifications in this $30 course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        A five-year subscription to the popular AdGuard VPN is only $35](https://www.bleepingcomputer.com/offer/deals/a-five-year-subscription-to-the-popular-adguard-vpn-is-only-35/)
-    * [![Cynet delivers 426% ROI in Forrester Total Economic Impact Study](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Train for the CISSP certifications in this $30 course bundle deal](https://www.bleepingcomputer.com/offer/deals/train-for-the-cissp-certifications-in-this-30-course-bundle-deal/)
+    * [![Microsoft wants $30 if you want to delay Windows 11 switch](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Cynet delivers 426% ROI in Forrester Total Economic Impact Study](https://www.bleepingcomputer.com/news/security/cynet-delivers-426-percent-roi-in-forrester-total-economic-impact-study/)
-    * [![LottieFiles hit in npm supply chain attack targeting users' crypto](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft wants $30 if you want to delay Windows 11 switch](https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-30-if-you-want-to-delay-windows-11-switch/)
+    * [![Windows 11 Task Manager bug shows wrong number of running processes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        LottieFiles hit in npm supply chain attack targeting users' crypto](https://www.bleepingcomputer.com/news/security/lottiefiles-hit-in-npm-supply-chain-attack-targeting-users-crypto/)
+        Windows 11 Task Manager bug shows wrong number of running processes](https://www.bleepingcomputer.com/news/microsoft/windows-11-task-manager-bug-shows-wrong-number-of-running-processes/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
