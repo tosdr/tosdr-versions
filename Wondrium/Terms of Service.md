@@ -52,7 +52,7 @@ SHARE VIA EMAIL
     * [Professional Growth](https://www.thegreatcoursesplus.com/allsubjects/professional-growth?CFM=mega_menu)
     * [Science](https://www.thegreatcoursesplus.com/allsubjects/science?CFM=mega_menu)
     * [Travel & Cultures](https://www.thegreatcoursesplus.com/allsubjects/travel-and-culture?CFM=mega_menu)
-    * [Learning Paths - BETA](https://www.thegreatcoursesplus.com/allsubjects/learning-paths?CFM=mega_menu)
+    * [Learning Paths](https://www.thegreatcoursesplus.com/allsubjects/learning-paths?CFM=mega_menu)
     * [All Subjects](https://www.thegreatcoursesplus.com/allsubjects?CFM=mega_menu)
     
     FORMATS
