@@ -146,7 +146,7 @@ disabled Mode
     * [Earning points](https://www.velocityfrequentflyer.com/the-basics/earning-points)
     * [Redeeming Points](https://www.velocityfrequentflyer.com/the-basics/redeeming-points)
     * [Transferring Points](https://www.velocityfrequentflyer.com/the-basics/transferring-points)
-    * [Buying Points](https://www.velocityfrequentflyer.com/the-basics/buying-points?utm_source=web&utm_medium=multiple&utm_campaign=v2landing&icmpid=va:dig:aem_nav:site_nav_link:bp_ao:)
+    * [Buying Points](https://www.velocityfrequentflyer.com/the-basics/buying-points/?utm_source=web&utm_medium=vamenu&utm_campaign=nil)
     * [Status](https://www.velocityfrequentflyer.com/the-basics/status)
     
     Credit Cards
