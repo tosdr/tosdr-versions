@@ -374,15 +374,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Despite Natalia Tena’s first audition being described as “a disaster,” she still landed the role of Nymphadora Tonks.
+The Ripley Scroll (England, 1570) teaches readers how to create the philosopher’s stone.
 
 ### Potter History
 
-January 2, 2008 – MuggleNet gets hacked by, in Emerson Spartz’s words, a group of “sexually frustrated men.” The website came back online three days later.
+April 15, 2011 – Harry Potter and the Deathly Hallows – Part 1 is released on Blu-ray and DVD in the United States.
 
 ### Potter Quote
 
-“We’d better get to bed before Snape comes along and tries to frame us for something else.”
+“That brings \[Trelawney’s\] total of real predictions up to two. I should offer her a pay raise. . . .”
 
 [](#)
 
