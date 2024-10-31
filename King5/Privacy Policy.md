@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/8d9da1b8-3bb3-4396-a80f-2398e470b6d8/20241031T052447/8d9da1b8-3bb3-4396-a80f-2398e470b6d8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8d9da1b8-3bb3-4396-a80f-2398e470b6d8/20241031T052447/8d9da1b8-3bb3-4396-a80f-2398e470b6d8_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/fatal-hit-and-run-lynnwood-sr-99/281-d80798e0-e9e3-46c0-b983-3d68d5e77d55)
+    *  [![](https://media.king5.com/assets/KING/images/678ff003-d47d-4ab9-9a04-5134bab6e6c2/20241031T133901/678ff003-d47d-4ab9-9a04-5134bab6e6c2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/678ff003-d47d-4ab9-9a04-5134bab6e6c2/20241031T133901/678ff003-d47d-4ab9-9a04-5134bab6e6c2_360x203.jpg)](https://www.king5.com/article/news/local/fire-damages-storage-units-fife/281-ac3e3ff1-7264-4b87-bbd3-9401566fa671)
         
-        #### [1 pedestrian killed, another injured in hit-and-run on SR 99 in Lynnwood](https://www.king5.com/article/traffic/traffic-news/fatal-hit-and-run-lynnwood-sr-99/281-d80798e0-e9e3-46c0-b983-3d68d5e77d55)
+        #### [Smoke billowing from storage facility fire in Fife](https://www.king5.com/article/news/local/fire-damages-storage-units-fife/281-ac3e3ff1-7264-4b87-bbd3-9401566fa671)
         
-    *  [![](https://media.king5.com/assets/KING/images/07a5ebdd-8c1c-4bd9-a5b4-911ebc1e9c0c/20241031T042149/07a5ebdd-8c1c-4bd9-a5b4-911ebc1e9c0c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/07a5ebdd-8c1c-4bd9-a5b4-911ebc1e9c0c/20241031T042149/07a5ebdd-8c1c-4bd9-a5b4-911ebc1e9c0c_360x203.jpg)](https://www.king5.com/article/news/local/seattle-public-schools-nearly-25-billion-levy-renewals/281-b856c70c-2b30-4999-ba15-c08c28d18b62)
+    *  [![](https://media.king5.com/assets/KING/images/a3291c0b-3dd8-4113-b105-76a90cd40099/20241031T062627/a3291c0b-3dd8-4113-b105-76a90cd40099_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a3291c0b-3dd8-4113-b105-76a90cd40099/20241031T062627/a3291c0b-3dd8-4113-b105-76a90cd40099_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/pressure-mounting-boeing-strike/281-729e2257-dd0d-4c97-90ba-e3aff01605d2)
         
-        #### [Seattle Public Schools outlines how nearly $2.5 billion in levy renewals would be spent](https://www.king5.com/article/news/local/seattle-public-schools-nearly-25-billion-levy-renewals/281-b856c70c-2b30-4999-ba15-c08c28d18b62)
+        #### [Pressure mounting for Boeing strike to end from Washington business leaders](https://www.king5.com/article/tech/science/aerospace/boeing/pressure-mounting-boeing-strike/281-729e2257-dd0d-4c97-90ba-e3aff01605d2)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/9f9cb571-79e6-47ed-ae39-ca62ab1189f8/20241031T002746/9f9cb571-79e6-47ed-ae39-ca62ab1189f8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9f9cb571-79e6-47ed-ae39-ca62ab1189f8/20241031T002746/9f9cb571-79e6-47ed-ae39-ca62ab1189f8_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/6e39fd43-fbb6-4230-bc1f-e126b4d7b734/20241031T120417/6e39fd43-fbb6-4230-bc1f-e126b4d7b734_16x9.jpg) ![](https://media.king5.com/assets/KING/images/6e39fd43-fbb6-4230-bc1f-e126b4d7b734/20241031T120417/6e39fd43-fbb6-4230-bc1f-e126b4d7b734_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-45°
+43°
 
 ![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
