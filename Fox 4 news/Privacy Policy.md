@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Rowlett teen hit by vehicle while crossing George Bush Hwy. service road](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/07/32/18/6ff0ddf8-generic20ambulance_1494773795558_3307265_ver1.0_1280_720-4.png?ve=1&tl=1)
+ [![71-year-old Aubrey woman found dead in backyard, family member charged with capital murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/adrian-joe-padilla.jpg?ve=1&tl=1)
 
- ![Rowlett teen hit by vehicle while crossing George Bush Hwy. service road](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/07/32/18/592/333/6ff0ddf8-generic20ambulance_1494773795558_3307265_ver1.0_1280_720-4.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/rowlett-teen-hit-vehicle-while-crossing-george-bush-hwy-service-road)
+ ![71-year-old Aubrey woman found dead in backyard, family member charged with capital murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/adrian-joe-padilla.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/71-year-old-aubrey-woman-found-dead-backyard-family-member-charged-capital-murder)
 
-### [Rowlett teen hit by vehicle while crossing George Bush Hwy. service road](https://www.fox4news.com/news/rowlett-teen-hit-vehicle-while-crossing-george-bush-hwy-service-road)
+### [71-year-old Aubrey woman found dead in backyard, family member charged with capital murder](https://www.fox4news.com/news/71-year-old-aubrey-woman-found-dead-backyard-family-member-charged-capital-murder)
 
- [![Cases in McDonald’s E. coli outbreak linked to slivered onions rise to 90](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/quarter-pounder.jpg?ve=1&tl=1)
+ [![Irving teen arrested, charged in murder of 18-year-old Cidrik Calhoune](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/screenshot-2024-10-31-125905.png?ve=1&tl=1)
 
- ![Cases in McDonald’s E. coli outbreak linked to slivered onions rise to 90](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/quarter-pounder.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mcdonalds-e-coli-outbreak-slivered-onions-update-oct-31-2024)
+ ![Irving teen arrested, charged in murder of 18-year-old Cidrik Calhoune](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/screenshot-2024-10-31-125905.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/irving-teen-arrested-charged-murder-18-year-old-cidrik-calhoune)
 
-### [Cases in McDonald’s E. coli outbreak linked to slivered onions rise to 90](https://www.fox4news.com/news/mcdonalds-e-coli-outbreak-slivered-onions-update-oct-31-2024)
+### [Irving teen arrested, charged in murder of 18-year-old Cidrik Calhoune](https://www.fox4news.com/news/irving-teen-arrested-charged-murder-18-year-old-cidrik-calhoune)
 
- [![Crash leaves semi-truck dangling over I-35W in Fort Worth amid heavy rain](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/35w-_-everman-pkwy-semi-crash-_-part-1_2024_10_31t_00.09.23.16.jpg?ve=1&tl=1)
+ [![Fort Worth man charged with federal gun crimes](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/screenshot-2024-10-31-102548.png?ve=1&tl=1)
 
- ![Crash leaves semi-truck dangling over I-35W in Fort Worth amid heavy rain](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/35w-_-everman-pkwy-semi-crash-_-part-1_2024_10_31t_00.09.23.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/crash-leaves-semi-truck-dangling-over-i-35w-fort-worth-amid-heavy-rain)
+ ![Fort Worth man charged with federal gun crimes](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/screenshot-2024-10-31-102548.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-man-charged-federal-gun-crimes)
 
-### [Crash leaves semi-truck dangling over I-35W in Fort Worth amid heavy rain](https://www.fox4news.com/news/crash-leaves-semi-truck-dangling-over-i-35w-fort-worth-amid-heavy-rain)
+### [Fort Worth man charged with federal gun crimes](https://www.fox4news.com/news/fort-worth-man-charged-federal-gun-crimes)
 
- [![Nearly 50% of voters say deepfakes had some influence on election decision: Survey](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/vote-here-today.jpg?ve=1&tl=1)
+ [![Bird flu detected in pig for 1st time in US: What it means for humans](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1663641690-scaled.jpg?ve=1&tl=1)
 
- ![Nearly 50% of voters say deepfakes had some influence on election decision: Survey](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/vote-here-today.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nearly-50-voters-say-deepfakes-had-some-influence-election-decision-survey)
+ ![Bird flu detected in pig for 1st time in US: What it means for humans](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1663641690-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/bird-flu-pig-oregon-humans)
 
-### [Nearly 50% of voters say deepfakes had some influence on election decision: Survey](https://www.fox4news.com/news/nearly-50-voters-say-deepfakes-had-some-influence-election-decision-survey)
+### [Bird flu detected in pig for 1st time in US: What it means for humans](https://www.fox4news.com/news/bird-flu-pig-oregon-humans)
 
- [![Man shot near Fort Worth homeless camp; Police detain several for questioning](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/04/32/18/FW-police.jpg?ve=1&tl=1)
+ [![Party like it’s 1988: Dodgers World Series parade route, team’s first in 36 years](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/gettyimages-2181370951-1.jpg?ve=1&tl=1)
 
- ![Man shot near Fort Worth homeless camp; Police detain several for questioning](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/04/32/18/592/333/FW-police.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-shot-near-fort-worth-homeless-camp-police-detain-several-questioning)
+ ![Party like it’s 1988: Dodgers World Series parade route, team’s first in 36 years](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/gettyimages-2181370951-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dodgers-win-world-series)
 
-### [Man shot near Fort Worth homeless camp; Police detain several for questioning](https://www.fox4news.com/news/man-shot-near-fort-worth-homeless-camp-police-detain-several-questioning)
+### [Party like it’s 1988: Dodgers World Series parade route, team’s first in 36 years](https://www.fox4news.com/news/dodgers-win-world-series)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
