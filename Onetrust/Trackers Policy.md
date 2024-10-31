@@ -197,9 +197,9 @@ On-demand webinar coming soon...
 
 ### Latest News
 
-* [Forbes Cloud 100](https://www.forbes.com/lists/cloud100/)
-* [DBTA Readers Choice Awards](https://www.dbta.com/Editorial/Trends-and-Applications/DBTA-Readers-Choice-Award-Winners-2024-165316.aspx?PageNum=3)
-* [CFO Dive | To drive AI efficiency, CFOs must focus on its ‘fuel’: OneTrust](https://www.cfodive.com/news/drive-ai-efficiency-cfo-focus-onetrust-data-dataprivacy-management-risk/724443/)
+* [ISMG | The Nexus of Privacy, AI Governance and Data Management](https://www.bankinfosecurity.com/nexus-privacy-ai-governance-data-management-a-25262)
+* [ComputerWeekly | OneTrust defines information mandate to govern data & AI](https://www.computerweekly.com/blog/CW-Developer-Network/OneTrust-defines-information-mandate-to-govern-data-AI)
+* [Forbes | Kabir Barday Builds OneTrust As High Growth Platform For Data Privacy](https://www.forbes.com/sites/brucerogers/2024/06/24/kabir-barday-builds-onetrust-as-high-growth-platform-for-data-privacy/)
 
 ### Contact Us
 
