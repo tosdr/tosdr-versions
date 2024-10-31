@@ -85,25 +85,25 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 318 1
+0 331 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/firefox-and-etc-created-by-shmike1/)
+[](https://yiff-party.com/yiff/cerberus-walnut-and-wendell-european-mythology-and-etc-created-by-mofu-gays/)
 
-[firefox and etc created by shmike1](https://yiff-party.com/yiff/firefox-and-etc-created-by-shmike1/)
+[cerberus, walnut, and wendell (european mythology and etc) created by mofu gays](https://yiff-party.com/yiff/cerberus-walnut-and-wendell-european-mythology-and-etc-created-by-mofu-gays/)
 
-0 60 0
+0 126 0
 
 October 1, 2024
 
-[](https://yiff-party.com/yiff/sabuke-directed-by-palekemono-director/)
+[](https://yiff-party.com/yiff/netflix-created-by-mewgle/)
 
-[sabuke directed by palekemono (director)](https://yiff-party.com/yiff/sabuke-directed-by-palekemono-director/)
+[netflix created by mewgle](https://yiff-party.com/yiff/netflix-created-by-mewgle/)
 
 0 2 0
 
-October 30, 2024
+October 31, 2024
 
 [Affiliation](https://yiff-party.com/yiff-party-affiliation/) / [Partner](https://yiff-party.com/website-yiff-partner/) / [DMCA](https://yiff-party.com/dmca-yiff-party-com/) / [Terms](https://yiff-party.com/terms-and-conditions/) / [Sitemap](https://yiff-party.com/sitemap/) / [Contact](https://yiff-party.com/Contact/)
 
