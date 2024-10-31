@@ -111,11 +111,11 @@ If you have any questions regarding this Privacy Policy or the practices of this
 
 ### Recent Posts
 
+* [Holiday Help: 5 Reasons to Hire Freelancers for the Upcoming Season](https://freeup.net/blog/business-tips/holiday-help-5-reasons-to-hire-freelancers-for-the-upcoming-season/)
 * [E-commerce Automation: How to Skyrocket Sales & Reclaim Your Free Time](https://freeup.net/blog/business-tips/e-commerce-automation-how-to-skyrocket-sales-reclaim-your-free-time/)
 * [From Halloween to New Years: How to Plan Your Holiday Email Campaign](https://freeup.net/blog/business-tips/from-halloween-to-new-years-how-to-plan-your-holiday-email-campaign/)
 * [5 Freelance Skills You Need to Hire for Before Black Friday](https://freeup.net/blog/business-tips/5-freelance-skills-you-need-to-hire-for-before-black-friday/)
 * [How Early Should You Start Black Friday Advertising?](https://freeup.net/blog/business-tips/how-early-should-you-start-black-friday-advertising/)
-* [Meet Cherry Yang: Operations Management and More](https://freeup.net/blog/freelance-tips/freelancer-spotlights/meet-cherry-yang-operations-management-and-more/)
 
 [![FreeUp Logo](https://freeup.net/wp-content/themes/rare/src/images/imgs/freeup__logo--white.svg)](https://freeup.net/)
 
