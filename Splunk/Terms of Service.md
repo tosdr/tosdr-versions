@@ -208,8 +208,6 @@ false
         
     * [Cisco + Splunk](https://www.splunk.com/en_us/cisco-splunk-better-together.html)
         
-    * [AppDynamics joins Splunk](https://www.splunk.com/en_us/appdynamics-joins-splunk.html)
-        
     
 * [Resources](#)
     
@@ -570,8 +568,6 @@ Better Together
 [Customer Success](https://www.splunk.com/en_us/customer-success.html)
 
 [Cisco + Splunk](https://www.splunk.com/en_us/cisco-splunk-better-together.html)
-
-[AppDynamics joins Splunk](https://www.splunk.com/en_us/appdynamics-joins-splunk.html)
 
 ![header-resources](/content/dam/splunk2/en_us/images/icon-library/navigation/header-resources.svg)
 
