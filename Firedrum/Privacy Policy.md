@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=130489474212836&ev=PageView&noscript=1)      FireDrum's Legal Privacy Policy | FireDrum Email Marketing               
+![](https://www.facebook.com/tr?id=130489474212836&ev=PageView&noscript=1)      FireDrum's Legal Privacy Policy | FireDrum Email Marketing                
 
 [![FireDrum Email Marketing](https://firedrumemailmarketing.com/wp-content/uploads/2020/03/logo-firedrum-alt.svg)](https://firedrumemailmarketing.com/)
 
