@@ -72,7 +72,7 @@ Hardware
     
     [Alan-1](https://atari.com/products/atari-asteroids-recharged-arcademachine)
     
-    [MyArcade](https://www.atari.com/collections/myarcade)
+    [My Arcade](https://www.atari.com/collections/myarcade)
     
     [Retro Arcade](https://atari.com/collections/reproduction-pcbs)
     
@@ -116,7 +116,7 @@ COLLECTIONS
     
     [Alan-1](https://atari.com/products/atari-asteroids-recharged-arcademachine)
     
-    [MyArcade](https://www.atari.com/collections/myarcade)
+    [My Arcade](https://www.atari.com/collections/myarcade)
     
     [Retro Arcade](https://atari.com/collections/reproduction-pcbs)
     
@@ -264,6 +264,8 @@ Apparel & Collectibles
     
     [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
     
+    [Atari x Blue Kazoo](https://www.atari.com/collections/blue-kazoo-puzzles)
+    
     [PONG](https://www.atari.com/collections/pong-collection)
     
     [RollerCoaster Tycoon](https://www.atari.com/collections/rollercoaster-tycoon)
@@ -311,6 +313,8 @@ COLLECTIONS
     [Atari x Artovision](https://www.atari.com/collections/artovision-dimensional-artworks)
     
     [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
+    
+    [Atari x Blue Kazoo](https://www.atari.com/collections/blue-kazoo-puzzles)
     
     [PONG](https://www.atari.com/collections/pong-collection)
     
