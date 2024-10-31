@@ -205,26 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [WTF, Traveller Art!?](https://www.somethingawful.com/dungeons-and-dragons/traveller-artwork-steve/1/)
-* [GSA, Google Video, and Youth Meets Truth](https://www.somethingawful.com/weekend-web/gsa-googlevideo-youthtruth/1/)
 * [The Hardy Boys and Nancy Drew: UNLEASHED](https://www.somethingawful.com/comedy-goldmine/hardy-boys-nancy/1/)
-* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
+* [Call of Cthulhu "Mansions of Madness" - Scenario One (1990)](https://www.somethingawful.com/dungeons-and-dragons/cthulhu-mansions-madness/1/)
+* [WTF, Traveller Art!?](https://www.somethingawful.com/dungeons-and-dragons/traveller-artwork-steve/1/)
+* [Child Pageant Politicians](https://www.somethingawful.com/photoshop-phriday/child-pageant-politicians/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/samartd-organs.gif) [As it is Halloween it is time that we all learned the truth.](http://forums.somethingawful.com/showthread.php?threadid=4074003 "As it is Halloween it is time that we all learned the truth.")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-mspaint.gif) [did you know the origin of "cartoon"](http://forums.somethingawful.com/showthread.php?threadid=4073998 "did you know the origin of "cartoon"")
 * ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [post itt when you try something new](http://forums.somethingawful.com/showthread.php?threadid=4073992 "post itt when you try something new")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [Planes for Morons](http://forums.somethingawful.com/showthread.php?threadid=4074004 "Planes for Morons")
+* ![](https://fi.somethingawful.com/forums/posticons/samartd-organs.gif) [As it is Halloween it is time that we all learned the truth.](http://forums.somethingawful.com/showthread.php?threadid=4074003 "As it is Halloween it is time that we all learned the truth.")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [temporary gbs chat thread refugee station (don't tell tarquinn...)](http://forums.somethingawful.com/showthread.php?threadid=4074021 "temporary gbs chat thread refugee station (don't tell tarquinn...)")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-mspaint.gif) [did you know the origin of "cartoon"](http://forums.somethingawful.com/showthread.php?threadid=4073998 "did you know the origin of "cartoon"")
 
 ### Random Articles
 
-* [Microsoft Streets & Trips 2008](https://www.somethingawful.com/game-reviews/streets-trips-review/1/)
-* [The Eager Recruiter](https://www.somethingawful.com/icq-pranks/msn-transcript-eager/1/)
-* [Cowboy Spokker's Talk Radio Roundup](https://www.somethingawful.com/news/cowboy-spokkers-talk/)
-* [Free IQ Test \[Real\]](https://www.somethingawful.com/news/iq-test-free/)
-* [Punching Through Walls Should Always Be An Option](https://www.somethingawful.com/news/wall-punch-physics/)
+* [Avenger](https://www.somethingawful.com/daily-dirt/avenger/)
+* [State Og Update: 12.25.04](https://www.somethingawful.com/state-og/state-og-update-95/)
+* [The Faces of Male Feminist Gamers!](https://www.somethingawful.com/photoshop-phriday/male-feminist-gamers/1/)
+* [Subj: THE HORSE AND THE RUMPUS ROOM](https://www.somethingawful.com/news/roamin-dad-20/)
+* [HYBRID ANIMAL HUMAN PAGE](https://www.somethingawful.com/awful-links/awful-link-1625/)
 
 [Random!](https://www.somethingawful.com/random/)
 
