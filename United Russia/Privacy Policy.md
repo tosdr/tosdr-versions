@@ -305,7 +305,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Ересько](https://er.ru/activity/news?tags%5B0%5D=1093212) [#формированиекомфортнойгородскойсреды](https://er.ru/activity/news?tags%5B0%5D=144989) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#городскаясреда](https://er.ru/activity/news?tags%5B0%5D=122060) [#общественныепространства](https://er.ru/activity/news?tags%5B0%5D=122879) [#благоустройство](https://er.ru/activity/news?tags%5B0%5D=3871) [#памятники](https://er.ru/activity/news?tags%5B0%5D=330) [#дворы](https://er.ru/activity/news?tags%5B0%5D=3930) [#Минстрой](https://er.ru/activity/news?tags%5B0%5D=44979)
 
-Сегодня 18:40
+31.10.24
 
 [![Владимир Якушев высоко оценил проект по производству дронов «Тамбовский рой»](https://cdn.er.ru/media/news/October2024/jLHX7cZozW6LsuW7iaRB-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-vysoko-ocenil-proekt-po-proizvodstvu-dronov-tambovskij-roj)
 
@@ -313,39 +313,39 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#Егоров](https://er.ru/activity/news?tags%5B0%5D=17445) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#БПЛА](https://er.ru/activity/news?tags%5B0%5D=1094194) [#производство](https://er.ru/activity/news?tags%5B0%5D=4516)
 
-Сегодня 18:06
+31.10.24
 
 [![Алексей Ересько: Контроль «Единой России» за благоустройством общественных пространств и дворов улучшил качество работ на объектах](https://cdn.er.ru/media/news/October2024/IuHOOGRjDuxICsFgWgUL-small.jpg)](https://er.ru/activity/news/aleksej-eresko-kontrol-edinoj-rossii-za-blagoustrojstvom-obshestvennyh-prostranstv-i-dvorov-uluchshil-kachestvo-rabot-na-obektah)
 
 [Алексей Ересько: Контроль «Единой России» за благоустройством общественных пространств и дворов улучшил качество работ на объектах](https://er.ru/activity/news/aleksej-eresko-kontrol-edinoj-rossii-za-blagoustrojstvom-obshestvennyh-prostranstv-i-dvorov-uluchshil-kachestvo-rabot-na-obektah)
 
-[#Ересько](https://er.ru/activity/news?tags%5B0%5D=1093212) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ГородскаяСреда](https://er.ru/activity/news?tags%5B0%5D=1090022) [#формированиекомфортнойгородскойсреды](https://er.ru/activity/news?tags%5B0%5D=144989) [#ФКГС](https://er.ru/activity/news?tags%5B0%5D=121187) [#общественныепространства](https://er.ru/activity/news?tags%5B0%5D=122879) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+[#Ересько](https://er.ru/activity/news?tags%5B0%5D=1093212) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ГородскаяСреда](https://er.ru/activity/news?tags%5B0%5D=1090022) [#ФКГС](https://er.ru/activity/news?tags%5B0%5D=121187) [#общественныепространства](https://er.ru/activity/news?tags%5B0%5D=122879) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Минстрой](https://er.ru/activity/news?tags%5B0%5D=44979)
 
-Сегодня 16:55
+31.10.24
 
 [![Владимир Якушев: В Тамбовской области хорошо налажена работа с обращениями граждан](https://cdn.er.ru/media/news/October2024/KvsZD2L1xYPaTn2frc9x-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-v-tambovskoj-oblasti-horosho-nalazhena-rabota-s-obrasheniyami-grazhdan)
 
 [Владимир Якушев: В Тамбовской области хорошо налажена работа с обращениями граждан](https://er.ru/activity/news/vladimir-yakushev-v-tambovskoj-oblasti-horosho-nalazhena-rabota-s-obrasheniyami-grazhdan)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#Егоров](https://er.ru/activity/news?tags%5B0%5D=17445) [#приемграждан](https://er.ru/activity/news?tags%5B0%5D=103849) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#Егоров](https://er.ru/activity/news?tags%5B0%5D=17445) [#приемграждан](https://er.ru/activity/news?tags%5B0%5D=103849) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#обращения](https://er.ru/activity/news?tags%5B0%5D=13668) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978)
 
-Сегодня 16:51
+31.10.24
 
 [![Александр Сидякин: Количество участников голосования «Единой России» и Минстроя за объекты благоустройства выросло в два раза](https://cdn.er.ru/media/news/October2024/2awVgynvhW1Xncos3a3a-small.jpg)](https://er.ru/activity/news/aleksandr-sidyakin-kolichestvo-uchastnikov-golosovaniya-edinoj-rossii-i-minstroya-za-obekty-blagoustrojstva-vyroslo-v-dva-raza)
 
 [Александр Сидякин: Количество участников голосования «Единой России» и Минстроя за объекты благоустройства выросло в два раза](https://er.ru/activity/news/aleksandr-sidyakin-kolichestvo-uchastnikov-golosovaniya-edinoj-rossii-i-minstroya-za-obekty-blagoustrojstva-vyroslo-v-dva-raza)
 
-[#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#формированиекомфортнойгородскойсреды](https://er.ru/activity/news?tags%5B0%5D=144989) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ГородскаяСреда](https://er.ru/activity/news?tags%5B0%5D=1090022) [#благоустройство](https://er.ru/activity/news?tags%5B0%5D=3871) [#общественныепространства](https://er.ru/activity/news?tags%5B0%5D=122879) [#дворы](https://er.ru/activity/news?tags%5B0%5D=3930) [#Минстрой](https://er.ru/activity/news?tags%5B0%5D=44979)
+[#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#формированиекомфортнойгородскойсреды](https://er.ru/activity/news?tags%5B0%5D=144989) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ГородскаяСреда](https://er.ru/activity/news?tags%5B0%5D=1090022) [#благоустройство](https://er.ru/activity/news?tags%5B0%5D=3871) [#общественныепространства](https://er.ru/activity/news?tags%5B0%5D=122879) [#дворы](https://er.ru/activity/news?tags%5B0%5D=3930) [#Минстрой](https://er.ru/activity/news?tags%5B0%5D=44979) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 16:33
+31.10.24
 
 [![«Единая Россия» проводит обсуждение положения о первичных отделениях партии в регионах](https://cdn.er.ru/media/news/October2024/qmmjNKWUC8HRqMcIHzzB-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provodit-obsuzhdenie-polozheniya-o-pervichnyh-otdeleniyah-partii-v-regionah)
 
 [«Единая Россия» проводит обсуждение положения о первичных отделениях партии в регионах](https://er.ru/activity/news/edinaya-rossiya-provodit-obsuzhdenie-polozheniya-o-pervichnyh-otdeleniyah-partii-v-regionah)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#первички](https://er.ru/activity/news?tags%5B0%5D=127619) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#первички](https://er.ru/activity/news?tags%5B0%5D=127619) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
 
-Сегодня 15:24
+31.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
