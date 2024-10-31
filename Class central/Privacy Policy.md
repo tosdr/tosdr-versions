@@ -399,11 +399,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [7 Best Email Marketing Courses for 2024](https://www.classcentral.com/report/best-email-marketing-courses/)
-2. [\[2024\] TOEFL Test Preparation with 80+ Online Resources](https://www.classcentral.com/report/toefl-preparation/)
-3. [\[2024\] 80+ GMAT Exam Preparation Resources](https://www.classcentral.com/report/gmat-preparation/)
-4. [8 Best Affiliate Marketing Courses for 2024](https://www.classcentral.com/report/best-affiliate-marketing-courses/)
-5. [10 Best Docker Courses for 2024](https://www.classcentral.com/report/best-docker-courses/)
+1. [9 Best Adobe Lightroom Courses for 2024](https://www.classcentral.com/report/best-adobe-lightroom-courses/)
+2. [10 Best English Grammar Courses for 2024](https://www.classcentral.com/report/best-english-grammar-courses/)
+3. [7 Best Email Marketing Courses for 2024](https://www.classcentral.com/report/best-email-marketing-courses/)
+4. [\[2024\] TOEFL Test Preparation with 80+ Online Resources](https://www.classcentral.com/report/toefl-preparation/)
+5. [\[2024\] 80+ GMAT Exam Preparation Resources](https://www.classcentral.com/report/gmat-preparation/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,11 +414,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. excel
+1. English
     
-2. hacking
+2. javascript
     
-3. project management
+3. computer science
     
 
 Popular subjects
@@ -426,26 +426,26 @@ Popular subjects
 
 1. [Computer Science
     
-    40,579 courses](https://www.classcentral.com/subject/cs)
-2. [Data Analysis
+    40,902 courses](https://www.classcentral.com/subject/cs)
+2. [Artificial Intelligence
     
-    8,472 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Graphic Design
+    12,926 courses](https://www.classcentral.com/subject/ai)
+3. [Python
     
-    4,227 courses](https://www.classcentral.com/subject/graphic-design)
+    9,625 courses](https://www.classcentral.com/subject/python)
 
 Popular courses
 ---------------
 
-1. [Introduction to Psychology
+1. [Exploring Play: The Importance of Play in Everyday Life
     
-    University of Toronto](https://www.classcentral.com/course/introduction-psych-647)
-2. [Mechanical Ventilation for COVID-19
+    The University of Sheffield](https://www.classcentral.com/course/play-2134)
+2. [Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron
     
-    Harvard University](https://www.classcentral.com/course/healthcare-harvard-university-mechanical-ventilat-19347)
-3. [Crisis Resource Management
+    Harvard University](https://www.classcentral.com/course/neuroscience-harvard-university-fundamentals-of-n-942)
+3. [First Step Korean
     
-    Columbia University](https://www.classcentral.com/course/crisis-resource-management-columbia-university-cr-21613)
+    Yonsei University](https://www.classcentral.com/course/learn-korean-5730)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
