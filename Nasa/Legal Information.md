@@ -76,7 +76,7 @@ article2 days ago](https://www.nasa.gov/missions/small-satellite-missions/lunar-
 
 ### NASA’s Perseverance Rover Looks Back While Climbing Slippery Slope
 
-article2 days ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-looks-back-while-climbing-slippery-slope/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+article3 days ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-looks-back-while-climbing-slippery-slope/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
@@ -253,7 +253,7 @@ article 2 days ago](https://www.nasa.gov/missions/small-satellite-missions/lunar
 
 ### NASA’s Perseverance Rover Looks Back While Climbing Slippery Slope
 
-article 2 days ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-looks-back-while-climbing-slippery-slope/)[![Clean room technicians install the Roman Coronagraph.](https://www.nasa.gov/wp-content/uploads/2024/10/24-1018-rst-cgi-ic-5311-5353-cgi-integration-to-ic-select-02.jpg?w=1024)
+article 3 days ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-looks-back-while-climbing-slippery-slope/)[![Clean room technicians install the Roman Coronagraph.](https://www.nasa.gov/wp-content/uploads/2024/10/24-1018-rst-cgi-ic-5311-5353-cgi-integration-to-ic-select-02.jpg?w=1024)
 
 6 min read
 
@@ -269,7 +269,7 @@ article 3 days ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-suc
 
 ### Station Science Top News: Oct. 25, 2024
 
-article 1 day ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-25-2024/)[![Stephanie Dudley, Gateway's mission integration and utilization manager, sits inside a high-fidelity mockup of HALO (Habitation and Logistics Outpost) at NASA’s Johnson Space Center. She is framed by a docking port, with interior components visible behind her.The mockup’s design showcases the compact and functional environment Artemis astronauts will use for living, conducting experiments, and preparing for lunar surface missions. Photo credit: NASA/Josh Valcarcel](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e064820-1.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-25-2024/)[![Stephanie Dudley, Gateway's mission integration and utilization manager, sits inside a high-fidelity mockup of HALO (Habitation and Logistics Outpost) at NASA’s Johnson Space Center. She is framed by a docking port, with interior components visible behind her.The mockup’s design showcases the compact and functional environment Artemis astronauts will use for living, conducting experiments, and preparing for lunar surface missions. Photo credit: NASA/Josh Valcarcel](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e064820-1.jpg?w=1024)
 
 3 min read
 
@@ -291,13 +291,13 @@ article 1 week ago](https://www.nasa.gov/reference/risk-of-reduced-cardiorespira
 
 ### NASA, NOAA Rank 2024 Ozone Hole as 7th-Smallest Since Recovery Began
 
-article 13 hours ago](https://www.nasa.gov/earth/climate-change/ozone-layer/nasa-noaa-rank-2024-ozone-hole-as-7th-smallest-since-recovery-began/)[![INjected Smoke and PYRocumulonimbus Experiment Expressions of Interest for No-Cost Participation / Contributions and Clarification of A.61 INSPYRE ST.](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/internal_resources/2434/california-wildfires-1.jpg)
+article 22 hours ago](https://www.nasa.gov/earth/climate-change/ozone-layer/nasa-noaa-rank-2024-ozone-hole-as-7th-smallest-since-recovery-began/)[![INjected Smoke and PYRocumulonimbus Experiment Expressions of Interest for No-Cost Participation / Contributions and Clarification of A.61 INSPYRE ST.](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/internal_resources/2434/california-wildfires-1.jpg)
 
 2 min read
 
 ### INjected Smoke and PYRocumulonimbus Experiment Expressions of Interest for No-Cost Participation / Contributions and Clarification of A.61 INSPYRE ST.
 
-article 15 hours ago](https://science.nasa.gov/researchers/solicitations/roses-blogs/injected-smoke-and-pyrocumulonimbus-experiment-expressions-of-interest-for-no-cost-participation-contributions-and-clarification-of-a-61-inspyre-st/)[![Permafrost Tunnel north of Fairbanks, Alaska](https://www.nasa.gov/wp-content/uploads/2024/10/1-permafrost-tunnel.jpg?w=1024)
+article 24 hours ago](https://science.nasa.gov/researchers/solicitations/roses-blogs/injected-smoke-and-pyrocumulonimbus-experiment-expressions-of-interest-for-no-cost-participation-contributions-and-clarification-of-a-61-inspyre-st/)[![Permafrost Tunnel north of Fairbanks, Alaska](https://www.nasa.gov/wp-content/uploads/2024/10/1-permafrost-tunnel.jpg?w=1024)
 
 4 min read
 
@@ -313,13 +313,13 @@ article 2 days ago](https://www.nasa.gov/earth/nasa-helps-find-thawing-permafros
 
 ### NASA’s Perseverance Captures ‘Googly Eye’ During Solar Eclipse
 
-article 11 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-captures-googly-eye-during-solar-eclipse/)[![NASA to Launch Innovative Solar Coronagraph to Space Station](https://science.nasa.gov/wp-content/uploads/2024/10/codex-14.jpeg)
+article 20 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-captures-googly-eye-during-solar-eclipse/)[![NASA to Launch Innovative Solar Coronagraph to Space Station](https://science.nasa.gov/wp-content/uploads/2024/10/codex-14.jpeg)
 
 5 min read
 
 ### NASA to Launch Innovative Solar Coronagraph to Space Station
 
-article 12 hours ago](https://science.nasa.gov/science-research/heliophysics/nasa-to-launch-innovative-solar-coronagraph-to-space-station/)[![NASA’s Lunar Trailblazer sits in a clean room at Lockheed Martin Space](https://www.nasa.gov/wp-content/uploads/2024/10/1-lunar-trailblazer-solar-deploy-test-4-8-24-md001.jpg?w=1024)
+article 21 hours ago](https://science.nasa.gov/science-research/heliophysics/nasa-to-launch-innovative-solar-coronagraph-to-space-station/)[![NASA’s Lunar Trailblazer sits in a clean room at Lockheed Martin Space](https://www.nasa.gov/wp-content/uploads/2024/10/1-lunar-trailblazer-solar-deploy-test-4-8-24-md001.jpg?w=1024)
 
 6 min read
 
@@ -335,7 +335,7 @@ article 2 days ago](https://www.nasa.gov/missions/small-satellite-missions/lunar
 
 ### Buckle Up: NASA-Funded Study Explores Turbulence in Molecular Clouds
 
-article 10 hours ago](https://science.nasa.gov/universe/stars/nasa-funded-study-explores-turbulence-in-molecular-clouds/)[![Hubble Sees a Celestial Cannonball](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_IC3225_potw2443a.jpg)
+article 19 hours ago](https://science.nasa.gov/universe/stars/nasa-funded-study-explores-turbulence-in-molecular-clouds/)[![Hubble Sees a Celestial Cannonball](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_IC3225_potw2443a.jpg)
 
 2 min read
 
@@ -357,19 +357,19 @@ article 1 week ago](https://science.nasa.gov/missions/lisa/nasa-reveals-prototyp
 
 ### NASA’s Perseverance Captures ‘Googly Eye’ During Solar Eclipse
 
-article 11 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-captures-googly-eye-during-solar-eclipse/)[![NASA to Launch Innovative Solar Coronagraph to Space Station](https://science.nasa.gov/wp-content/uploads/2024/10/codex-14.jpeg)
+article 20 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-captures-googly-eye-during-solar-eclipse/)[![NASA to Launch Innovative Solar Coronagraph to Space Station](https://science.nasa.gov/wp-content/uploads/2024/10/codex-14.jpeg)
 
 5 min read
 
 ### NASA to Launch Innovative Solar Coronagraph to Space Station
 
-article 12 hours ago](https://science.nasa.gov/science-research/heliophysics/nasa-to-launch-innovative-solar-coronagraph-to-space-station/)[![Title slide for GeneLab Chats with Gbolaga Olanrewaju](https://www.nasa.gov/wp-content/uploads/2024/10/title-slide-olanrewaju.jpg?w=1024)
+article 21 hours ago](https://science.nasa.gov/science-research/heliophysics/nasa-to-launch-innovative-solar-coronagraph-to-space-station/)[![Title slide for GeneLab Chats with Gbolaga Olanrewaju](https://www.nasa.gov/wp-content/uploads/2024/10/title-slide-olanrewaju.jpg?w=1024)
 
 2 min read
 
 ### GeneLab Chats with Gbolaga Olanrewaju on His Latest Publication
 
-article 12 hours ago](https://www.nasa.gov/genelab-chats-with-gbolaga-olanrewaju-on-his-latest-publication/)
+article 21 hours ago](https://www.nasa.gov/genelab-chats-with-gbolaga-olanrewaju-on-his-latest-publication/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 2 weeks ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring
 
 ### NASA Technologies Named Among TIME Inventions of 2024
 
-article 14 hours ago](https://www.nasa.gov/general/nasa-technologies-named-among-time-inventions-of-2024/)[![After 60 Years, Nuclear Power for Spaceflight is Still Tried and True](https://science.nasa.gov/wp-content/uploads/2023/07/55_7513_97pc1536.jpg)
+article 23 hours ago](https://www.nasa.gov/general/nasa-technologies-named-among-time-inventions-of-2024/)[![After 60 Years, Nuclear Power for Spaceflight is Still Tried and True](https://science.nasa.gov/wp-content/uploads/2023/07/55_7513_97pc1536.jpg)
 
 5 min read
 
@@ -445,7 +445,7 @@ article 2 days ago](https://www.nasa.gov/general/nasa-group-amplifies-voices-of-
 
 ### Autumn Leaves – Call for Volunteers
 
-article 5 days ago](https://science.nasa.gov/science-research/earth-science/autumn-leaves-call-for-volunteers/)
+article 6 days ago](https://science.nasa.gov/science-research/earth-science/autumn-leaves-call-for-volunteers/)
 
 ### Highlights
 
@@ -455,13 +455,13 @@ article 5 days ago](https://science.nasa.gov/science-research/earth-science/autu
 
 ### La NASA lleva un dron y un rover espacial a un espectáculo aéreo
 
-article 12 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/la-nasa-lleva-un-dron-y-un-rover-espacial-a-un-espectaculo-aereo/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
+article 21 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/la-nasa-lleva-un-dron-y-un-rover-espacial-a-un-espectaculo-aereo/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
 
 4 min read
 
 ### Destacado de la NASA: Felipe Valdez, un ingeniero inspirador
 
-article 5 days ago](https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/)[![A man wearing clear glasses is standing to the left of the image wearing a gray shirt and tan pants. His right arm is touching a cart holding technical instruments including two solar panels sticking out from each side. There are several other people surrounding him.](https://images-assets.nasa.gov/image/AFRC2023-0170-07/AFRC2023-0170-07~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
+article 6 days ago](https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/)[![A man wearing clear glasses is standing to the left of the image wearing a gray shirt and tan pants. His right arm is touching a cart holding technical instruments including two solar panels sticking out from each side. There are several other people surrounding him.](https://images-assets.nasa.gov/image/AFRC2023-0170-07/AFRC2023-0170-07~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
 
 4 min read
 
