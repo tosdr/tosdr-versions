@@ -259,13 +259,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/23-people-who-got-bad-tattoos-that-were-inked-with-regret/87510467/) [23 People Who Got Bad Tattoos That Were Inked With Regret](https://trending.ebaumsworld.com/pictures/23-people-who-got-bad-tattoos-that-were-inked-with-regret/87510467/)
-    
-    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/bear-charges-at-russian-hunter/87310903/) [Russian Man With Balls of Steel Doesn't Shoot Mama Bear that Charges Him](https://www.ebaumsworld.com/videos/bear-charges-at-russian-hunter/87310903/)
-    
     [![22 Bits of Twitter Cringe That Should Get Off the App](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/24-bits-of-twitter-cringe-that-should-get-off-the-app/87505567/) [22 Bits of Twitter Cringe That Should Get Off the App](https://trending.ebaumsworld.com/pictures/24-bits-of-twitter-cringe-that-should-get-off-the-app/87505567/)
     
-    [![list of cool and fascinating pics | a close up photo of an elephants tail |](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/32-fascinating-things-you-rarely-get-to-see/85916369/) [32 Fascinating Things You Rarely Get to See](https://www.ebaumsworld.com/pictures/32-fascinating-things-you-rarely-get-to-see/85916369/)
+    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/dude-shoots-himself-to-prove-durability-of-bulletproof-jacket/85790638/) [Dude Shoots Himself To Prove the Durability of His Bulletproof Jacket](https://www.ebaumsworld.com/videos/dude-shoots-himself-to-prove-durability-of-bulletproof-jacket/85790638/)
+    
+    [![arnold schwarzenegger sitting down and standing up before getting drop kicked](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/arnold-schwarzenegger-gets-attacked-in-south-africa/85964632/) [Remember When that Douchebag Drop Kicked Arnold Schwarzenegger At Event in South Africa](https://www.ebaumsworld.com/videos/arnold-schwarzenegger-gets-attacked-in-south-africa/85964632/)
+    
+    [![David Grusch testifying at the UFO hearing today](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/us-air-force-officer-admits-under-oath-that-the-us-government-is-in-possession-of-ufos-and-non-human-bodies/87425768/) [US Air Force Officer Admits Under Oath That the US Government Is In Possession of UFOs and Non-Human Bodies](https://www.ebaumsworld.com/videos/us-air-force-officer-admits-under-oath-that-the-us-government-is-in-possession-of-ufos-and-non-human-bodies/87425768/)
     
 
 * Advertisement
