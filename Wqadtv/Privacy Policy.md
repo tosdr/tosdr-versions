@@ -30,15 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d20903df-057f-4afc-8a57-3b81cb6570ae/20241030T202519/d20903df-057f-4afc-8a57-3b81cb6570ae_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d20903df-057f-4afc-8a57-3b81cb6570ae/20241030T202519/d20903df-057f-4afc-8a57-3b81cb6570ae_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/current-reads-henderson-county-illinois-mystery-thrillers-fall-halloween-christmas/526-42765b72-e0ce-452b-8ba2-8b4d2a9f7df1)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d8d8e24b-c150-40c6-b62a-d287c1d71627/20241031T022212/d8d8e24b-c150-40c6-b62a-d287c1d71627_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d8d8e24b-c150-40c6-b62a-d287c1d71627/20241031T022212/d8d8e24b-c150-40c6-b62a-d287c1d71627_360x203.jpg)](https://www.wqad.com/article/news/local/i-80-bridge-project-feedback-community/526-f45412d9-7d7a-41fc-a663-9cb49f1fcc9d)
         
-        #### [Current Reads: Cozy up with the top 3 mystery thrillers from the Henderson County Library](https://www.wqad.com/article/news/local/the-current/current-reads-henderson-county-illinois-mystery-thrillers-fall-halloween-christmas/526-42765b72-e0ce-452b-8ba2-8b4d2a9f7df1)
+        #### [Community members give their thoughts on I-80 bridge project](https://www.wqad.com/article/news/local/i-80-bridge-project-feedback-community/526-f45412d9-7d7a-41fc-a663-9cb49f1fcc9d)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ce6e49fd-e1cc-43ca-9c2b-237a0e0f50d3/20241030T214704/ce6e49fd-e1cc-43ca-9c2b-237a0e0f50d3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ce6e49fd-e1cc-43ca-9c2b-237a0e0f50d3/20241030T214704/ce6e49fd-e1cc-43ca-9c2b-237a0e0f50d3_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/fire-davenport-marquette-street/526-a8b2b0e4-a788-4e2c-a74e-930fa8aaad7f)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f157ecec-97a5-408d-9676-4721425f792a/20241030T171229/f157ecec-97a5-408d-9676-4721425f792a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f157ecec-97a5-408d-9676-4721425f792a/20241030T171229/f157ecec-97a5-408d-9676-4721425f792a_360x203.jpg)](https://www.wqad.com/article/news/local/fire-moline-wednesday-morning/526-e3b92889-7aa3-4143-baba-08bb9a6002e3)
         
-        #### [Fire breaks out at city-operated storage unit in Davenport](https://www.wqad.com/article/news/local/public-safety/fire-davenport-marquette-street/526-a8b2b0e4-a788-4e2c-a74e-930fa8aaad7f) [![](https://media.tegna-media.com/assets/WQAD/images/ce6e49fd-e1cc-43ca-9c2b-237a0e0f50d3/20241030T214704/ce6e49fd-e1cc-43ca-9c2b-237a0e0f50d3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ce6e49fd-e1cc-43ca-9c2b-237a0e0f50d3/20241030T214704/ce6e49fd-e1cc-43ca-9c2b-237a0e0f50d3_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/fire-davenport-marquette-street/526-a8b2b0e4-a788-4e2c-a74e-930fa8aaad7f)
+        #### [Family displaced following morning fire in Moline](https://www.wqad.com/article/news/local/fire-moline-wednesday-morning/526-e3b92889-7aa3-4143-baba-08bb9a6002e3)
         
-        #### [Davenport firefighters battle Tuesday morning blaze](https://www.wqad.com/article/news/local/public-safety/fire-davenport-marquette-street/526-a8b2b0e4-a788-4e2c-a74e-930fa8aaad7f)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -57,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/0b93e29f-f148-461a-ab2e-c1ef98b57a20/20241030T121305/0b93e29f-f148-461a-ab2e-c1ef98b57a20_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0b93e29f-f148-461a-ab2e-c1ef98b57a20/20241030T121305/0b93e29f-f148-461a-ab2e-c1ef98b57a20_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/0a44722a-de4b-47ff-b96c-433c3d6cb6e4/20241030T224833/0a44722a-de4b-47ff-b96c-433c3d6cb6e4_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0a44722a-de4b-47ff-b96c-433c3d6cb6e4/20241030T224833/0a44722a-de4b-47ff-b96c-433c3d6cb6e4_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Thunderstorms set to move into the region Wednesday evening](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Thunderstorms set to move in this evening.](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/CCT/images/e8c19660-454e-4f07-b3e9-8206b0b87755/20241030T124229/e8c19660-454e-4f07-b3e9-8206b0b87755_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/e8c19660-454e-4f07-b3e9-8206b0b87755/20241030T124229/e8c19660-454e-4f07-b3e9-8206b0b87755_360x203.jpg)](https://www.wqad.com/article/news/nation-world/at-least-63-people-die-in-flash-floods-spain/507-2c918b06-6d9d-459b-95b9-0fa059096b55)
         
@@ -87,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-74°
+68°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
