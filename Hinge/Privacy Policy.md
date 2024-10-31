@@ -23,7 +23,7 @@ Hey there! Welcome to Hinge’s Privacy Policy.
 
 We know reading a privacy policy might not be everyone’s idea of a good time, but hear us out. We put a lot of effort into making this policy as clear and engaging as possible, because we actually want you to read it! Think of us as your digital wingmate, here to guide you through the ins and outs of what data we collect, and why and how we use it. So get cozy, grab your beverage of choice, and let’s dive into the world of personal data together.
 
-This Privacy Policy applies from July 1, 2024. The previous version, available [here](https://files.hinge.co/b9033c2b9aa98074a56958ab22d2f4d402eef332.pdf), applies until then.
+This Privacy Policy applies from October 30, 2024. The previous version, available [here](https://files.hinge.co/61423d89ae15bb1c472cc0a11e09cd30fc2daddc.pdf), applies until then.
 
 1. [Who We Are](#who-we-are)
 2. [Where This Privacy Policy Applies](#where-this-privacy-policy-applies)
@@ -121,7 +121,7 @@ Hinge is part of the [Match Group family of businesses](https://mtch.com/ourcomp
 
 We may share data about you with our Affiliates and they may share data about you with us, for the reasons laid out below:
 
-* To make all Match Group platforms safer, for instance by making sure that when a bad actor is found on one Match Group platform (for instance ours), they can be banned from all.
+* To make all Match Group platforms safer, for instance by searching for and identifying bad actors and how they operate across Match Group platforms, as well as making sure that when a bad actor is found on one Match Group platform (for instance ours), they can be banned from all.
 * To assist each other in data processing operations, as service providers. This assistance may include processing operations, such as data hosting and maintenance, customer care, marketing and targeted advertising, analytics, finance and accounting, legal support, payment processing, service improvement, data security and fighting against spam, abuse, fraud and other wrongdoings.
 * To improve your chances at building significant connections with others, we may make you visible on other Match Group services or allow you to benefit from cross-platform functionalities. We will of course comply with applicable law and, where relevant, notify you of any such opportunity and allow you to agree or to refuse.
 * Where and as allowed under applicable law, to better understand how people use Match Group services overall, to personalize your experience across Match Group services and to enhance marketing and advertising campaigns.
@@ -151,7 +151,7 @@ For your protection and the protection of all of our members, we may ask you for
 
 Keep in mind, we may reject requests, including if we are unable to authenticate you, if the request is unlawful or invalid, or if it may infringe on trade secrets or intellectual property or the privacy or other rights of someone else. If you wish to receive information relating to another member, such as a copy of any messages you received from them, the other member will have to make a request themselves.
 
-If you are a resident of Texas, Oregon, Montana, Virginia, Colorado, or Connecticut, USA, if we deny your privacy request, you may be able to appeal by [contacting us](https://hingeapp.zendesk.com/hc/en-us/articles/360004792234-How-can-I-make-a-Data-Request), and explicitly referencing “Privacy Request Appeal.” If you have concerns about the result of your appeal, you may contact the attorney general for your state.
+If you are a resident of Delaware, Iowa, Nebraska, New Hampshire, New Jersey, Texas, Oregon, Montana, Virginia, Colorado, or Connecticut, USA, if we deny your privacy request, you may be able to appeal by [contacting us](https://hingeapp.zendesk.com/hc/en-us/articles/360004792234-How-can-I-make-a-Data-Request), and explicitly referencing “Privacy Request Appeal.” If you have concerns about the result of your appeal, you may contact the attorney general for your state.
 
 In certain countries, including in the European Economic Area and the United Kingdom, you have a right to lodge a complaint with the appropriate data protection authority if you have concerns about how we process your personal data. You can find information about your data protection regulator in the European Economic Area [here](https://edpb.europa.eu/about-edpb/board/members_en), and in the United Kingdom [here](https://ico.org.uk/). The data protection authority you can lodge a complaint with may be that of your habitual residence, where you work or where an alleged infringement took place.
 
@@ -165,14 +165,15 @@ If you decide to stop using our service, you can close your account and your pro
 
 Following account closure, we delete your data as laid out below:
 
-1\. We maintain limited data to comply with legal data retention obligations: in particular, we keep transaction data for 10 years to comply with tax and accounting legal requirements, credit card information for the duration the user may challenge the transaction, and “traffic data” / logs for one year to comply with legal data retention obligations. We also keep records of consents members give us for five years to comply and evidence our compliance with applicable law.  
+1\. To protect the safety and security of our members, we implement a safety retention window of three months following account closure or up to two years following an account ban. During this period, we keep your data to investigate unlawful or harmful conducts. The retention of data during this safety retention window is based on our legitimate interest as well as that of potential third-party victims.
 
-2\. We maintain limited data on the basis of our legitimate interest: we keep customer care records and supporting data as well as imprecise location of download/purchase for five years in support of our safety efforts, to support our customer care decisions, enforce our rights and enable us to defend ourselves in the event of a claim, profile data for one year in anticipation of potential litigation, for the establishment, exercise or defense of legal claims, and data necessary to prevent members who were banned from opening a new account for as long as necessary to ensure the safety and vital interests of our members.
+2\. We maintain limited data to comply with legal data retention obligations: in particular, we keep transaction data for 10 years to comply with tax and accounting legal requirements, credit card information for the duration the user may challenge the transaction, and “traffic data” / logs for one year to comply with legal data retention obligations. We also keep records of consents members give us for five years to comply and evidence our compliance with applicable law.
 
-  
-3\. Finally, we maintain data on the basis of our legitimate interest where there is an outstanding or potential issue, claim or dispute requiring us to keep data, in particular if we receive a valid legal subpoena or request asking us to preserve data (in which case we would need to keep the data to comply with our legal obligations) or if data would otherwise be necessary as part of legal proceedings.  
+3\. We maintain limited data on the basis of our legitimate interest: we keep customer care records and supporting data as well as imprecise location of download/purchase for five years in support of our safety efforts, to support our customer care decisions, enforce our rights and enable us to defend ourselves in the event of a claim, profile data for one year in anticipation of potential litigation, for the establishment, exercise or defense of legal claims, and data necessary to prevent members who were banned from opening a new account for as long as necessary to ensure the safety and vital interests of our members.
 
-4\. Where and as legally permitted, we may maintain and use data that, by itself, cannot identify or be attributed specifically to you for the purposes described in this Privacy Policy, including to improve our service and create new features, technologies, and services and keep Match Group services safe.
+4\. Finally, we maintain data on the basis of our legitimate interest where there is an outstanding or potential issue, claim or dispute requiring us to keep data, in particular if we receive a valid legal subpoena or request asking us to preserve data (in which case we would need to keep the data to comply with our legal obligations) or if data would otherwise be necessary as part of legal proceedings.  
+
+Where and as legally permitted, we may maintain and use data that, by itself, cannot identify or be attributed specifically to you for the purposes described in this Privacy Policy, including to improve our service and create new features, technologies, and services and keep Match Group services safe.
 
 ### **10\. Children's Privacy**
 
