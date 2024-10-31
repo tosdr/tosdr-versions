@@ -160,6 +160,8 @@ How Do We Protect Your Privacy?
 
 We keep the personal information we collect about you confidential in accordance with this Policy and have adopted reasonable physical, technical and organizational procedures appropriate to the sensitivity of the data to safeguard the personal information you provide to us. Notwithstanding these measures, no collection, storage or transmission of information over the Internet on websites or otherwise can be guaranteed to be 100% secure, and therefore we cannot ensure, warrant or guarantee the security of any such information.
 
+You can find BeePass/Outline's security audit reports [here](https://support.getoutline.org/s/article/Security-and-privacy?language=en_US).
+
 Verifying And Amending Your Personal Information
 ------------------------------------------------
 
