@@ -1,10 +1,14 @@
 [Skip to main content](#main-content)
 
+**Sunday 3 November 2024** – Essential track repairs: Only travel if absolutely necessary between London Paddington, Bristol and South Wales.
+
+[Find out more](https://www.gwr.com/disruption-3-nov)
+
 Accessibility tools
 
 [My Account](https://myaccount.gwr.com/MyAccount/SignIn)
 
-Travel updatesGood service
+(2) Travel updatesDisruption
 
 [](https://www.gwr.com/ "GWR Homepage")[Buy tickets](https://www.gwr.com/tickets#)
 
