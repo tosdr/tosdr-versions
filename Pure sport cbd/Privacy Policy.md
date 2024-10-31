@@ -55,7 +55,7 @@ Check out
     * [COLLECTIONS](https://puresportcbd.com/en-us#)
         * [PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/performance-wear)
     
-    [![](//puresport.co/cdn/shop/files/Untitled_design_26.jpg?v=1730146976&width=1920)
+    [![](//puresport.co/cdn/shop/files/Invest_in_your_wellness_26.jpg?v=1730396139&width=1920)
     
     Gift with Purchase
     
@@ -160,7 +160,7 @@ Check out
         * [COLLECTIONS](https://puresportcbd.com/en-us#)
             * [PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/performance-wear)
     
-    [![](//puresport.co/cdn/shop/files/Untitled_design_26.jpg?v=1730146976&width=1920)
+    [![](//puresport.co/cdn/shop/files/Invest_in_your_wellness_26.jpg?v=1730396139&width=1920)
     
     Gift with Purchase
     
@@ -224,7 +224,7 @@ Check out
     An unfiltered insight into the brand, people and community.](https://puresportcbd.com/en-us/blogs/puresport-project)
     
 
-[![](//puresport.co/cdn/shop/files/Untitled_design_26.jpg?v=1730146976&width=1920)
+[![](//puresport.co/cdn/shop/files/Invest_in_your_wellness_26.jpg?v=1730396139&width=1920)
 
 Gift with Purchase
 
