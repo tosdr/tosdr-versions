@@ -140,14 +140,6 @@ https://www.conair.com/cart?lang=en\_US
         * [Thermal Spa Heated Beauty Mitts](https://www.conair.com/thermal-spa-heated-beauty-mitts?lang=en_US)
         * [Microdermabrasion](https://www.conair.com/spa-microdermabrasion?lang=en_US)
     
-    * [Foot Spa](https://www.conair.com/foot-spa?lang=en_US)
-        ------------------------------------------------------
-        
-        * [HeatSense](https://www.conair.com/heat-sense?lang=en_US)
-        * [Bubbles](https://www.conair.com/foot-spa-bubbles?lang=en_US)
-        * [Vibration](https://www.conair.com/foot-spa-vibration?lang=en_US)
-        * [Pedicure Devices](https://www.conair.com/pedicure-devices?lang=en_US)
-    
     * [Mirrors](https://www.conair.com/mirrors?lang=en_US)
         ----------------------------------------------------
         
@@ -165,26 +157,34 @@ https://www.conair.com/cart?lang=en\_US
         * [Body and Bikini Trimmers](https://www.conair.com/body-bikini-trimmers?lang=en_US)
         * [Epilators](https://www.conair.com/epilators?lang=en_US)
     
+    * [Foot Spa](https://www.conair.com/foot-spa?lang=en_US)
+        ------------------------------------------------------
+        
+        * [HeatSense](https://www.conair.com/heat-sense?lang=en_US)
+        * [Bubbles](https://www.conair.com/foot-spa-bubbles?lang=en_US)
+        * [Vibration](https://www.conair.com/foot-spa-vibration?lang=en_US)
+        * [Pedicure Devices](https://www.conair.com/pedicure-devices?lang=en_US)
+    
+    * [SKN by Conair](https://www.conair.com/sknbyconair?lang=en_US)
+        --------------------------------------------------------------
+        
+    
     * [Facial Brushes](https://www.conair.com/facial-brushes?lang=en_US)
         
-        * [Girlbomb](https://www.conair.com/girlbomb?lang=en_US)
-            ------------------------------------------------------
+        * [HeatSense](https://www.conair.com/heat-sense?lang=en_US)
+            ---------------------------------------------------------
             
         
-        * [Electric Shavers](https://www.conair.com/electric-shavers?lang=en_US)
+        * [Bubbles](https://www.conair.com/foot-spa-bubbles?lang=en_US)
+            -------------------------------------------------------------
+            
+        
+        * [Vibration](https://www.conair.com/foot-spa-vibration?lang=en_US)
+            -----------------------------------------------------------------
+            
+        
+        * [Pedicure Devices](https://www.conair.com/pedicure-devices?lang=en_US)
             ----------------------------------------------------------------------
-            
-        
-        * [Facial Trimmers](https://www.conair.com/facial-trimmers?lang=en_US)
-            --------------------------------------------------------------------
-            
-        
-        * [Body and Bikini Trimmers](https://www.conair.com/body-bikini-trimmers?lang=en_US)
-            ----------------------------------------------------------------------------------
-            
-        
-        * [Epilators](https://www.conair.com/epilators?lang=en_US)
-            --------------------------------------------------------
             
         
         * [Battery Operated](https://www.conair.com/facial-battery-operated?lang=en_US)
@@ -192,24 +192,20 @@ https://www.conair.com/cart?lang=en\_US
         * [Replacement Heads](https://www.conair.com/facial-replacement-heads?lang=en_US)
     * [Beauty Tools](https://www.conair.com/beauty-tools?lang=en_US)
         
-        * [Girlbomb](https://www.conair.com/girlbomb?lang=en_US)
-            ------------------------------------------------------
+        * [HeatSense](https://www.conair.com/heat-sense?lang=en_US)
+            ---------------------------------------------------------
             
         
-        * [Electric Shavers](https://www.conair.com/electric-shavers?lang=en_US)
+        * [Bubbles](https://www.conair.com/foot-spa-bubbles?lang=en_US)
+            -------------------------------------------------------------
+            
+        
+        * [Vibration](https://www.conair.com/foot-spa-vibration?lang=en_US)
+            -----------------------------------------------------------------
+            
+        
+        * [Pedicure Devices](https://www.conair.com/pedicure-devices?lang=en_US)
             ----------------------------------------------------------------------
-            
-        
-        * [Facial Trimmers](https://www.conair.com/facial-trimmers?lang=en_US)
-            --------------------------------------------------------------------
-            
-        
-        * [Body and Bikini Trimmers](https://www.conair.com/body-bikini-trimmers?lang=en_US)
-            ----------------------------------------------------------------------------------
-            
-        
-        * [Epilators](https://www.conair.com/epilators?lang=en_US)
-            --------------------------------------------------------
             
         
         * [Facial Rollers](https://www.conair.com/facial-rollers?lang=en_US)
@@ -218,24 +214,20 @@ https://www.conair.com/cart?lang=en\_US
         * [Eye Masks](https://www.conair.com/eye-masks?lang=en_US)
     * [Oral Care](https://www.conair.com/oral-care?lang=en_US)
         
-        * [Girlbomb](https://www.conair.com/girlbomb?lang=en_US)
-            ------------------------------------------------------
+        * [HeatSense](https://www.conair.com/heat-sense?lang=en_US)
+            ---------------------------------------------------------
             
         
-        * [Electric Shavers](https://www.conair.com/electric-shavers?lang=en_US)
+        * [Bubbles](https://www.conair.com/foot-spa-bubbles?lang=en_US)
+            -------------------------------------------------------------
+            
+        
+        * [Vibration](https://www.conair.com/foot-spa-vibration?lang=en_US)
+            -----------------------------------------------------------------
+            
+        
+        * [Pedicure Devices](https://www.conair.com/pedicure-devices?lang=en_US)
             ----------------------------------------------------------------------
-            
-        
-        * [Facial Trimmers](https://www.conair.com/facial-trimmers?lang=en_US)
-            --------------------------------------------------------------------
-            
-        
-        * [Body and Bikini Trimmers](https://www.conair.com/body-bikini-trimmers?lang=en_US)
-            ----------------------------------------------------------------------------------
-            
-        
-        * [Epilators](https://www.conair.com/epilators?lang=en_US)
-            --------------------------------------------------------
             
         
         * [Brushes](https://www.conair.com/oral-brush?lang=en_US)
@@ -243,24 +235,20 @@ https://www.conair.com/cart?lang=en\_US
         * [Replacement Heads](https://www.conair.com/oral-replacement-heads?lang=en_US)
     * [Spa/Skin](https://www.conair.com/spa-skin?lang=en_US)
         
-        * [Girlbomb](https://www.conair.com/girlbomb?lang=en_US)
-            ------------------------------------------------------
+        * [HeatSense](https://www.conair.com/heat-sense?lang=en_US)
+            ---------------------------------------------------------
             
         
-        * [Electric Shavers](https://www.conair.com/electric-shavers?lang=en_US)
+        * [Bubbles](https://www.conair.com/foot-spa-bubbles?lang=en_US)
+            -------------------------------------------------------------
+            
+        
+        * [Vibration](https://www.conair.com/foot-spa-vibration?lang=en_US)
+            -----------------------------------------------------------------
+            
+        
+        * [Pedicure Devices](https://www.conair.com/pedicure-devices?lang=en_US)
             ----------------------------------------------------------------------
-            
-        
-        * [Facial Trimmers](https://www.conair.com/facial-trimmers?lang=en_US)
-            --------------------------------------------------------------------
-            
-        
-        * [Body and Bikini Trimmers](https://www.conair.com/body-bikini-trimmers?lang=en_US)
-            ----------------------------------------------------------------------------------
-            
-        
-        * [Epilators](https://www.conair.com/epilators?lang=en_US)
-            --------------------------------------------------------
             
         
         * [Heated Lotion Dispenser](https://www.conair.com/heated-lotion-dispenser?lang=en_US)
@@ -268,52 +256,22 @@ https://www.conair.com/cart?lang=en\_US
         * [Thermal Paraffin Bath Moisturizing System](https://www.conair.com/spa-thermal-paraffin-bath-moisturizing-system?lang=en_US)
         * [Thermal Spa Heated Beauty Mitts](https://www.conair.com/thermal-spa-heated-beauty-mitts?lang=en_US)
         * [Microdermabrasion](https://www.conair.com/spa-microdermabrasion?lang=en_US)
-    * [Foot Spa](https://www.conair.com/foot-spa?lang=en_US)
-        
-        * [Girlbomb](https://www.conair.com/girlbomb?lang=en_US)
-            ------------------------------------------------------
-            
-        
-        * [Electric Shavers](https://www.conair.com/electric-shavers?lang=en_US)
-            ----------------------------------------------------------------------
-            
-        
-        * [Facial Trimmers](https://www.conair.com/facial-trimmers?lang=en_US)
-            --------------------------------------------------------------------
-            
-        
-        * [Body and Bikini Trimmers](https://www.conair.com/body-bikini-trimmers?lang=en_US)
-            ----------------------------------------------------------------------------------
-            
-        
-        * [Epilators](https://www.conair.com/epilators?lang=en_US)
-            --------------------------------------------------------
-            
-        
-        * [HeatSense](https://www.conair.com/heat-sense?lang=en_US)
-        * [Bubbles](https://www.conair.com/foot-spa-bubbles?lang=en_US)
-        * [Vibration](https://www.conair.com/foot-spa-vibration?lang=en_US)
-        * [Pedicure Devices](https://www.conair.com/pedicure-devices?lang=en_US)
     * [Mirrors](https://www.conair.com/mirrors?lang=en_US)
         
-        * [Girlbomb](https://www.conair.com/girlbomb?lang=en_US)
-            ------------------------------------------------------
+        * [HeatSense](https://www.conair.com/heat-sense?lang=en_US)
+            ---------------------------------------------------------
             
         
-        * [Electric Shavers](https://www.conair.com/electric-shavers?lang=en_US)
+        * [Bubbles](https://www.conair.com/foot-spa-bubbles?lang=en_US)
+            -------------------------------------------------------------
+            
+        
+        * [Vibration](https://www.conair.com/foot-spa-vibration?lang=en_US)
+            -----------------------------------------------------------------
+            
+        
+        * [Pedicure Devices](https://www.conair.com/pedicure-devices?lang=en_US)
             ----------------------------------------------------------------------
-            
-        
-        * [Facial Trimmers](https://www.conair.com/facial-trimmers?lang=en_US)
-            --------------------------------------------------------------------
-            
-        
-        * [Body and Bikini Trimmers](https://www.conair.com/body-bikini-trimmers?lang=en_US)
-            ----------------------------------------------------------------------------------
-            
-        
-        * [Epilators](https://www.conair.com/epilators?lang=en_US)
-            --------------------------------------------------------
             
         
         * [Round and Oval](https://www.conair.com/round-oval?lang=en_US)
@@ -322,31 +280,50 @@ https://www.conair.com/cart?lang=en\_US
         * [Accessory Spot](https://www.conair.com/accessory-spot?lang=en_US)
     * [Womens Grooming](https://www.conair.com/s/us-conair-sfra/conairwomen.html?lang=en_US)
         
-        * [Girlbomb](https://www.conair.com/girlbomb?lang=en_US)
-            ------------------------------------------------------
+        * [HeatSense](https://www.conair.com/heat-sense?lang=en_US)
+            ---------------------------------------------------------
             
         
-        * [Electric Shavers](https://www.conair.com/electric-shavers?lang=en_US)
+        * [Bubbles](https://www.conair.com/foot-spa-bubbles?lang=en_US)
+            -------------------------------------------------------------
+            
+        
+        * [Vibration](https://www.conair.com/foot-spa-vibration?lang=en_US)
+            -----------------------------------------------------------------
+            
+        
+        * [Pedicure Devices](https://www.conair.com/pedicure-devices?lang=en_US)
             ----------------------------------------------------------------------
             
         
-        * [Facial Trimmers](https://www.conair.com/facial-trimmers?lang=en_US)
-            --------------------------------------------------------------------
-            
-        
-        * [Body and Bikini Trimmers](https://www.conair.com/body-bikini-trimmers?lang=en_US)
-            ----------------------------------------------------------------------------------
-            
-        
-        * [Epilators](https://www.conair.com/epilators?lang=en_US)
-            --------------------------------------------------------
-            
-        
         * [Girlbomb](https://www.conair.com/girlbomb?lang=en_US)
         * [Electric Shavers](https://www.conair.com/electric-shavers?lang=en_US)
         * [Facial Trimmers](https://www.conair.com/facial-trimmers?lang=en_US)
         * [Body and Bikini Trimmers](https://www.conair.com/body-bikini-trimmers?lang=en_US)
         * [Epilators](https://www.conair.com/epilators?lang=en_US)
+    * [Foot Spa](https://www.conair.com/foot-spa?lang=en_US)
+        
+        * [HeatSense](https://www.conair.com/heat-sense?lang=en_US)
+            ---------------------------------------------------------
+            
+        
+        * [Bubbles](https://www.conair.com/foot-spa-bubbles?lang=en_US)
+            -------------------------------------------------------------
+            
+        
+        * [Vibration](https://www.conair.com/foot-spa-vibration?lang=en_US)
+            -----------------------------------------------------------------
+            
+        
+        * [Pedicure Devices](https://www.conair.com/pedicure-devices?lang=en_US)
+            ----------------------------------------------------------------------
+            
+        
+        * [HeatSense](https://www.conair.com/heat-sense?lang=en_US)
+        * [Bubbles](https://www.conair.com/foot-spa-bubbles?lang=en_US)
+        * [Vibration](https://www.conair.com/foot-spa-vibration?lang=en_US)
+        * [Pedicure Devices](https://www.conair.com/pedicure-devices?lang=en_US)
+    * [SKN by Conair](https://www.conair.com/sknbyconair?lang=en_US)
 * [Men's](https://www.conair.com/s/us-conair-sfra/conairmen.html)
     
     * [Beard Trimmers and Shavers](https://www.conair.com/trimmers?lang=en_US)
