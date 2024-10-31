@@ -173,13 +173,11 @@ NEW QUIETCOMFORT EARBUDS
 Bose Privacy Policy
 ===================
 
-Effective date: December 22, 2022
+Effective date: October 31, 2024
 
-[Introduction](#Introduction) [The information we collect](#The_information_we_collect) [Cookies and similar technologies](#Cookies_and_similar_technologies) [Online analytics and advertising](#Online_analytics_and_advertising) [How we use your information](#How_we_use_your_information) [How we disclose your information](#How_we_disclose_your_information) [Children’s privacy](#Children’s_privacy) [Security and retention of your information](#Security_and_retention_of_your_information) [Your rights and choices](#Your_rights_and_choices) [Additional privacy information for California residents](#Additional_privacy_information_for_California_residents) [Information for international users](#Information_for_international_users) [Changes to our Privacy Policy](#Changes_to_our_Privacy_Policy) [Bose contact information](#Bose_contact_information)
+[Introduction](#Introduction) [The information we collect](#The_information_we_collect) [Cookies and similar technologies](#Cookies_and_similar_technologies) [Online analytics and advertising](#Online_analytics_and_advertising) [How we use your information](#How_we_use_your_information) [How we disclose your information](#How_we_disclose_your_information) [Children’s privacy](#Children’s_privacy) [Security and retention of your information](#Security_and_retention_of_your_information) [Loyalty programs / Financial incentives](#Loyalty_programs_/_Financial_incentives) [Your rights and choices](#Your_rights_and_choices) [Additional privacy information for California residents](#Additional_privacy_information_for_California_residents) [Information for international users](#Information_for_international_users) [Changes to our Privacy Policy](#Changes_to_our_Privacy_Policy) [Bose contact information](#Bose_contact_information)
 
 [**BACK TO ALL LEGAL**](https://www.bose.com/legal)
-
-To make our data collection practices easier to understand, you will notice we have provided some quick links and brief summaries of our Privacy Policy. Please be sure to read our entire Privacy Policy to fully understand our practices and how we handle your information. These summaries are not meant to be a substitute for our Privacy Policy.
 
 Introduction
 
@@ -206,11 +204,11 @@ When you use our Services, you may provide certain information to us. For exampl
 Some of the most common categories of information we collect directly from you include:  
 **Contact and account information,** such as name, address, telephone number, email address, and login credentials, including your My Bose account information.
 
-**Financial and transactional information,** such as credit card information, and purchase and transaction history.
+**Financial and transactional information,** such as credit card information, gift card information, and purchase and transaction history.
 
-**Customer service interaction information,** such as messages submitted to us through online forms or email, and summaries or voice or video recordings of interactions with our customer service personnel.
+**Customer service interaction information,** such as messages submitted to us through online forms, chat, or email, and summaries or voice or video recordings of interactions with our customer service personnel.
 
-**Information you provide in connection with surveys and sweepstakes,** such as your interests, preferences, demographic data (e.g., gender), photos and videos, and information needed for you to participate and for us to fulfill your prize or participation incentives (if any).
+**Information you provide in connection with loyalty programs, surveys, and sweepstakes,** such as your interests, preferences, demographic data (e.g., gender), photos and videos, and other information which may be required for participation, and for us to fulfill your prize or participation incentives (if any).
 
 Information we collect automatically through technology when you use the Services
 
@@ -268,7 +266,7 @@ To learn more about Adobe’s privacy practices and to make choices regarding th
 
 Online advertising
 
-Bose strives to provide you with relevant, value-added content in our online advertisements. We do not serve third-party advertisements to you while using our Services. However, we do work with online analytics and advertising partners to: (1) better understand the use of our Services so that we can improve our Services; and (2) deliver Bose advertisements that are more tailored to you both on our Services and on third-party Services.
+Bose strives to provide you with relevant, value-added content in our online advertisements. We work with online analytics and advertising partners to: (1) better understand the use of our Services so that we can improve our Services; and (2) deliver Bose advertisements that are more tailored to you _both on our Services_ and on third-party Services.
 
 Our partners may also place cookies, pixel tags and similar technologies on many online services, including ours. They use these technologies to collect information about your activities on these services in order to deliver you more relevant advertising. For example, they may use the information they collect from their cookies on our Services to identify Bose products and services you might be interested in and to recognize your device so they can show you relevant Bose advertisements while you are using our Services and other services. Additionally, we sometimes provide basic information we collect (such as email addresses) to service providers, who may “match” this information in de-identified form to cookies, mobile ad identifiers, and other proprietary IDs, in order to provide you with more relevant ads when you visit other online services.
 
@@ -286,11 +284,11 @@ Bose may use the information we collect in the following ways:
 
 **For marketing and advertising purposes,** including providing you with the latest product announcements, promotions, and information about upcoming events.
 
-**To personalize your experience and customize the Services,** such as delivering relevant content, recommending features through our Services, and maintaining your product wish lists.
+**To personalize your experience and customize the Services,** such as delivering relevant content, saving preferences, recommending products and features through our Services, and maintaining your product wish lists.
 
 **To improve our Services,** including bug detection and error reporting, to understand how users interact with our Services and advertisements, improve usability and effectiveness of our products, perform research and analytics, and to test and create new products, features, and services.
 
-**For our business operations,** including maintaining your account, reviewing and processing employment applications, and for security, fraud prevention, and legal compliance, such as detecting security incidents and protecting against malicious, deceptive, fraudulent, or illegal activity.
+**For our business operations,** including maintaining your account, reviewing complaints and concerns, and for security, fraud prevention, and legal compliance, such as detecting security incidents and protecting against malicious, deceptive, fraudulent, or illegal activity.
 
 **To recognize a user across multiple touchpoints.** Sometimes, we or our service providers may use the information we collect (for example, username, IP address, and unique device identifiers) to try to identify the same unique user across multiple Bose Services, personal devices (such as smartphones, tablets), and browsers (such as Safari and Chrome), to create a single record for the user. This helps us to better understand your needs and preferences, and provide you with a more seamless and personalized experience across these different touchpoints.
 
@@ -359,6 +357,12 @@ We retain information for different periods of time depending on the purposes fo
 
 [Back to top](#maincontent)
 
+Loyalty programs / Financial incentives
+
+We offer our customers a loyalty program (My Bose) that provides certain perks to members, such as members-only discounts, birthday offers, access to giveaways, events, and product testing and other benefits. Membership is free of charge. We may also provide other special offers and benefits to customers who sign up to receive communications from us or who participate in certain promotional campaigns. When a customer signs up for one of these programs, we typically ask the customer to provide their name, email address, and/or telephone number. Because we collect personal information, this may be interpreted as a “financial incentive” or “bona fide loyalty program” under applicable law. The value of customer personal information that we collect is reasonably related to the expenses of providing special offers and benefits to participants in the programs (which may vary depending on the specific offer or benefit or the amount purchased by the customer using the special offer).
+
+You have the right to opt out of these incentives at any time and can do so by visiting “[Your rights and choices](#Your_rights_and_choices).”
+
 Your rights and choices
 
 We provide you with the ability to exercise certain controls and choices regarding our collection, use, and disclosure of your information. Your legal rights to exercise such controls and choices vary based on the laws of your jurisdiction.
@@ -382,11 +386,13 @@ You also have the choice to exercise the following controls regarding your infor
 
 **Limit the information you provide to us.** When you interact with us, you can choose to limit the information you provide. However, if you choose to do so, you may not be able to take advantage of many of our Services, and we may not be able to fulfill your requests.
 
-**Update or close your My Bose account.** You can update your account sign in details and profile information by logging into your My Bose account. To close your account please [fill out our online request form](https://preferences.bose.com/webform/b82a9746-9790-433c-8b8c-45748a31fd78/11c64536-ceb7-4cf8-aa1a-a57b099f5304) or contact us as detailed in the “[Bose contact information](#Bose_contact_information)” section below. Please note, if you choose to delete your account, you will not be able to access any Services where you sign in with that account and you may lose some features of your Bose products and services that are connected to that account.
+**Update or close your My Bose account.** You can update your account sign in details and profile information by logging into your My Bose account. To close your account please [fill out our online request form](https://preferences.bose.com/webform/b82a9746-9790-433c-8b8c-45748a31fd78/dd22cda4-97c2-4bff-a522-2871a48cfc41) or contact us as detailed in the “[Bose contact information](#Bose_contact_information)” section below. Please note, if you choose to delete your account, you will not be able to access any Services where you sign in with that account and you may lose some features of your Bose products and services that are connected to that account.
 
 **Adjust your marketing and communication preferences:**
 
 **Opt out of marketing from Bose** by following the instructions located at the bottom of our email marketing messages or, where available, logging into your My Bose account and adjusting your marketing communications preferences. Please note, opting out or unsubscribing will not prevent you from receiving communications about your orders, product/software updates, or other important notices such as changes to our terms and policies, which are not marketing in nature.
+
+**Opt out of My Bose loyalty program / financial incentives** by opting out of marketing from Bose by following the instructions located at the bottom of our email marketing messages or, where available, logging into your My Bose account and adjusting your marketing communications preferences.
 
 **Opt out of text (SMS/MMS) messages from Bose** by following the instructions included in our messages or, where available, logging into your My Bose account and adjusting your communications preferences.
 
@@ -436,11 +442,64 @@ Data Controllers
 
 A data controller is the subsidiary or affiliated entity of Bose that is primarily responsible for the information collected and used within the scope of this Privacy Policy. The Bose data controller responsible for your information is as follows:
 
-* If you live in the United States, Latin America, or Canada, Bose Corporation (located at The Mountain Road, Framingham, MA 01701) is the data controller for your information.
+* When you purchase a product or service from a Bose website or through our customer service team, the joint data controllers for the data collected during that transaction are Bose Corporation (located at The Mountain Road, Framingham, MA 01701) and the local Bose entity where you reside.
 
-* If you live in China, Bose Electronics (Shanghai) Company Limited (6/F, Tower D, No.2337 Gudai Road, Minhang District, Shanghai, 201100, China) is the data controller for your information.
+**Place of Residence:** Canada  
+**Data Controller**Bose Limited  
+1133 Melville Street, Suite 3500  
+The Stack                                              
+Vancouver, BC  
+V6E 4E5 Canada
 
-* If you live anywhere else, Bose Products B.V. (located at Gorslaan 60, Purmerend, The Netherlands) is the data controller with the exception of processing activities in relation to product support, product analysis, and development activities for which Bose Corporation is the data controller.
+**Place of Residence:** United Kingdom  
+**Data Controller**Bose Limited  
+16 Dufour’s Place,  
+London, W1F 7SP, United Kingdom
+
+**Place of Residence:** France  
+**Data Controller**Bose SAS  
+26-28 Avenue de Winchester  
+78100 Saint-Germain-en-Laye  
+France
+
+**Place of Residence:** Germany  
+**Data Controller**Bose GmbH  
+Wolf Hirth Strasse 9  
+Esslingen  
+Baden-Württemberg 73730  
+Germany
+
+**Place of Residence:** Australia & New Zealand  
+**Data Controller**Bose Pty Limited  
+Building B 01' Suite 1 LEVEL 1  
+1 Homebush Bay Drive  
+Rhodes NSW 2138  
+Australia
+
+**Place of Residence:** Japan  
+**Data Controller**Bose GK  
+ARK Hills South Tower 13F  
+1-4-5 Roppongi, Minato-ku, Tokyo  
+Japan
+
+**Place of Residence:** South Korea  
+**Data Controller**Bose Korea Limited  
+317 Nonhyeong-ro (Yeoksam-dong)  
+Gangnam-gu, Seoul  
+Republic of Korea
+
+**Place of Residence:** Hong Kong  
+**Data Controller**Bose Limited  
+Suites 2813-15, Tower Two  
+Times Square, 1 Matheson Street  
+Causeway Bay, Hong Kong
+
+**Place of Residence:** Taiwan  
+**Data Controller**Bose Limited, Taiwan Branch 9F  
+No. 10, Sec. 3, Minsheng Eest Road, Zhongshan District  
+Taipei City, Taiwan (R.O.C.)  
+
+* For all other data collection activities, including when you visit our website, create a My Bose account, register your products, contact customer support or use your Bose products and mobile applications, Bose Corporation (located at The Mountain Road, Framingham, MA 01701) is the data controller for your information.
 
 [Back to top](#maincontent)
 
