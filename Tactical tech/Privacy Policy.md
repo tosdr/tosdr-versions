@@ -11,6 +11,8 @@
     * [Partner with us](https://tacticaltech.org/partner-with-us/)
     * [Work with us](https://tacticaltech.org/jobs/)
     * [Info for supporters](https://tacticaltech.org/info-for-suporters/)
+    * [Donate](https://tacticaltech.org/donate/)
+    * [Shop](https://www.shirtee.com/en/store/everythingwillbefinebytacticaltech/)
 * [News & Stories](https://tacticaltech.org/news/)
 * [About us](https://tacticaltech.org/about/):
     * [Our team](https://tacticaltech.org/team-and-board/)
@@ -18,9 +20,6 @@
     * [History](https://tacticaltech.org/timeline/)
     * [Press](https://tacticaltech.org/press/)
     * [Contact Us](https://tacticaltech.org/contact/)
-* Support us:
-    * [Donate](https://tacticaltech.org/donate/)
-    * [Shop](https://www.shirtee.com/en/store/everythingwillbefinebytacticaltech/)
 
 ![Illustration of the 20th anniversary celebration with visuals of the
 different Tactical Tech projects.](https://cdn.ttc.io/i/fit/16/0/sm/0/plain/tacticaltech.org/website2023/Homepage/home-hero-3.jpg)
