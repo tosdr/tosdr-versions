@@ -118,11 +118,6 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
-* [![WWII From Space](/wp-content/thumbnails/8361-100x70.jpeg?x53432)
-    
-    WWII From Space
-    
-    It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
 * [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
     Why The Industrial Revolution Happened Here
@@ -133,34 +128,39 @@ Advertisement
     Diary of a Porn Virgin
     
     Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
+* [![No-Go Zones: Seven Mile Road, Detroit, USA](/wp-content/thumbnails/16527-100x70.jpg?x53432)
+    
+    No-Go Zones: Seven Mile Road, Detroit, USA
+    
+    Seven Mile Road located in Detroit is one of the most dangerous no-go zones in the United States. Those who live or dare to come here to visit are literally playing with their lives. It is a territor...](https://documentaryheaven.com/no-go-zones-seven-mile-road/ "No-Go Zones: Seven Mile Road, Detroit, USA")
 
 ###### Throwback Documentaries
 
-* [![Strain Hunters Morocco Expedition by Green House Seed Co](/wp-content/thumbnails/6083-100x70.jpg?x53432)
+* [![The Lives I Lead: My Multiple Personalities](/wp-content/thumbnails/14043-100x70.jpg?x53432)
     
-    Strain Hunters Morocco Expedition by Green House Seed Co
+    The Lives I Lead: My Multiple Personalities
     
-    The large majority of the hashish produced worldwide (up to 70% of the total annual world production) comes from a relatively small mountain region in the North of Morocco, called Rif. In Dutch coff](https://documentaryheaven.com/strain-hunters-morocco-expedition-by-green-house-seed-co/ "Strain Hunters Morocco Expedition by Green House Seed Co")
-* [![Unprecedented: The 2000 Presidential Election](/wp-content/thumbnails/374-100x70.png?x53432)
+    Dissociative Identity Disorder or Multiple Personality Disorder as it is more commonly known as is a mental condition characterised by at least two distinct and relatively enduring personality states.](https://documentaryheaven.com/my-multiple-personalities/ "The Lives I Lead: My Multiple Personalities")
+* [![Up/Down](/wp-content/thumbnails/7798-100x70.jpg?x53432)
     
-    Unprecedented: The 2000 Presidential Election
+    Up/Down
     
-    Many things have been going wrong in the 2000 presidential election. This documentary shows how George W. Bush stole his seat in the white house with a corrupt system that allowed manipulated voting m](https://documentaryheaven.com/unprecedented-the-2000-presidential-election/ "Unprecedented: The 2000 Presidential Election")
-* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
+    There are approximately 5.7 million people in the United States with bipolar disorder. In an attempt to eliminate the mystery and misinformation surrounding the illness, many throughout the country di](https://documentaryheaven.com/updown/ "Up/Down")
+* [![David Lynch: Consciousness, Creativity and the Brain](/wp-content/thumbnails/3714-100x70.jpg?x53432)
     
-    The new world order – Illuminati, Freemasons and other secret societies
+    David Lynch: Consciousness, Creativity and the Brain
     
-    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
-* [![Journalists: Killed in the Line of Duty](/wp-content/thumbnails/486-100x70.png?x53432)
+    The inside story on transcending the brain, with David Lynch, Award-winning film director of Blue Velvet, Twin Peaks, Mullholland Drive, Inland Empire; John Hagelin, Ph.D., Quantum physicist featured](https://documentaryheaven.com/david-lynch-consciousness-creativity-and-the-brain/ "David Lynch: Consciousness, Creativity and the Brain")
+* [![Where the River Runs Red](/wp-content/thumbnails/14510-100x70.jpg?x53432)
     
-    Journalists: Killed in the Line of Duty
+    Where the River Runs Red
     
-    Around the world, journalists are increasingly being killed. They die in the crossfire. They die at the hand of criminals and corupt goverments. They die in tragic accidents. In the case of targeted d](https://documentaryheaven.com/journalists-killed-in-the-line-of-duty/ "Journalists: Killed in the Line of Duty")
-* [![Chosen](/wp-content/thumbnails/12532-100x70.jpg?x53432)
+    Tasmania is a secluded island located off the south coast of Australia, it is know for it's large, rugged wilderness but towards the west of the island there is an ominous red river which divides the](https://documentaryheaven.com/where-river-runs-red/ "Where the River Runs Red")
+* [![Money and Life](/wp-content/thumbnails/9149-100x70.jpg?x53432)
     
-    Chosen
+    Money and Life
     
-    Peter Wright, an 83 year old former headmaster of posh prep school Caldicott, located in southern Buckinghamshire, England was convicted of 12 offences against five children who studied there. The ass](https://documentaryheaven.com/chosen/ "Chosen")
+    We are currently living in a society where money has become the main objective for everything we can think of. The average person focuses more on bringing home a pay check than living life itself, doi](https://documentaryheaven.com/money-life/ "Money and Life")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
