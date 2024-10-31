@@ -112,7 +112,7 @@ FreeVPN.us is dedicated to providing free and fast VPN services to users worldwi
 
 The following is our total achievement so far.
 
-55.325 37 today
+55.379 91 today
 
 User registered
 
@@ -120,11 +120,11 @@ User registered
 
 Premium User
 
-11.197
+11.396
 
 Active account
 
-1.904.968 146 today
+1.905.195 372 today
 
 Account created
 
