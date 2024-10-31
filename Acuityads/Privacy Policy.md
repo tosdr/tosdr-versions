@@ -31,9 +31,9 @@ EARNINGS CALL - illumin's Q3 earnings call is Nov 8
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![B2B Advertising: the only guide you need](https://illumin.com/wp-content/uploads/2024/10/b2b-advertising-1-263x300.jpg)
+    * ![Best Halloween ads 2024](https://illumin.com/wp-content/uploads/2024/10/halloween-263x300.jpg)
         
-        B2B Advertising: the only guide you need[Read More](https://illumin.com/insights/guides/b2b-advertising/)
+        Best Halloween ads 2024[Read More](https://illumin.com/insights/blog/best-halloween-ads-2024/)
         
 * [Company](#)
     * [Company](#)
