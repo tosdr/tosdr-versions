@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How do you get mesothelioma lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-how-do-you-get-mesothelioma-lung-cancer.jpg "How Do You Get Mesothelioma Lung Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-mesothelioma-lung-cancer/ "How Do You Get Mesothelioma Lung Cancer?")
+[![Are assisted living homes safe for the elderly?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-are-assisted-living-homes-safe-for-the-elderly.jpg "Are Assisted Living Homes Safe For the Elderly?")](https://www.pintas.com/faq/are-assisted-living-homes-safe-for-the-elderly/ "Are Assisted Living Homes Safe For the Elderly?")
 
-[#### How Do You Get Mesothelioma Lung Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-mesothelioma-lung-cancer/)
+[#### Are Assisted Living Homes Safe For the Elderly?](https://www.pintas.com/faq/are-assisted-living-homes-safe-for-the-elderly/)
 
-[![What cancers can asbestos cause?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-what-cancers-can-asbestos-cause.jpg "What Cancers Can Asbestos Cause?")](https://www.pintas.com/lung-cancer/what-cancers-can-asbestos-cause/ "What Cancers Can Asbestos Cause?")
+[![Can you sue a nursing home for wrongful death?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-you-sue-a-nursing-home-for-wrongful-death-scaled.jpg "Can You Sue a Nursing Home for Wrongful Death?")](https://www.pintas.com/faq/can-you-sue-a-nursing-home-for-wrongful-death/ "Can You Sue a Nursing Home for Wrongful Death?")
 
-[#### What Cancers Can Asbestos Cause?](https://www.pintas.com/lung-cancer/what-cancers-can-asbestos-cause/)
+[#### Can You Sue a Nursing Home for Wrongful Death?](https://www.pintas.com/faq/can-you-sue-a-nursing-home-for-wrongful-death/)
 
-[![What are the main causes of dog bites?](https://www.pintas.com/wp-content/uploads/2023/06/Dog-with-owner-002-300x200.jpeg "What Are the Main Causes of Dog Bites?")](https://www.pintas.com/practice-areas/dog-bite-lawyer/what-are-the-main-causes-of-dog-bites/ "What Are the Main Causes of Dog Bites?")
+[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/faq/why-do-nursing-homes-get-fines/ "Why Do Nursing Homes Get Fines?")
 
-[#### What Are the Main Causes of Dog Bites?](https://www.pintas.com/practice-areas/dog-bite-lawyer/what-are-the-main-causes-of-dog-bites/)
+[#### Why Do Nursing Homes Get Fines?](https://www.pintas.com/faq/why-do-nursing-homes-get-fines/)
 
 ### Injured?  
 Tell Us What Happened.
