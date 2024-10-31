@@ -35,13 +35,28 @@
 
 [](https://world.openfoodfacts.org/cgi/search.pl "Advanced search")
 
-Help us make food transparency the norm!
+Help us inform millions of consumers around the world about what they eat
 
-As a non-profit organization, we depend on your donations to continue informing consumers around the world about what they eat.
+![group photo donation 2024](/images/misc/donation-banners/donation-banner-group-photo.png)
 
-The food revolution starts with you!
+![open food facts logo](https://world.openfoodfacts.org/images/logos/logo-variants/CMJN-ICON_WHITE_BG_OFF.svg)
 
-[Donate](https://world.openfoodfacts.org/donate-to-open-food-facts?utm_source=off&utf_medium=web&utm_campaign=donate-2023-a&utm_term=en-text-button)
+### Please give to our 2024 Fundraiser
+
+Your donations fund the day-to-day operations of our non-profit association:
+
+* keeping our database open & available to all,
+    * technical infrastructure (website/mobile app) & a small permanent team
+* remain independent of the food industry,
+    
+* engage a community of committed citizens,
+    
+* support the advancement of public health research.
+    
+
+Each donation counts! We appreciate your support in bringing further food transparency in the world.
+
+[I SUPPORT](https://world.openfoodfacts.org/donate-to-open-food-facts?utm_source=off&utf_medium=web&utm_campaign=donate-2024-a&utm_term=en-text-button)
 
 close
 
@@ -253,13 +268,28 @@ Scan your everyday foods
 
 [![Download on the App Store](/images/misc/appstore/black/appstore_US.svg)](https://apps.apple.com/app/open-food-facts/id588797948?utm_source=off&utf_medium=web&utm_campaign=install_the_app_ios_footer_en)  [![Get It On Google Play](https://static.openfoodfacts.org/images/misc/playstore/img/en_get.svg)](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner&utm_source=off&utf_medium=web&utm_campaign=install_the_app_android_footer_en)  [![Android APK](https://static.openfoodfacts.org/images/misc/android-apk.svg)](https://world.openfoodfacts.org/files/off.apk?utm_source=off&utf_medium=web?utm_source=off&utf_medium=web&utm_campaign=install_the_app_apk_footer_en)
 
-Help us make food transparency the norm!
+Help us inform millions of consumers around the world about what they eat
 
-As a non-profit organization, we depend on your donations to continue informing consumers around the world about what they eat.
+![group photo donation 2024](/images/misc/donation-banners/donation-banner-group-photo.png)
 
-The food revolution starts with you!
+![open food facts logo](https://world.openfoodfacts.org/images/logos/logo-variants/CMJN-ICON_WHITE_BG_OFF.svg)
 
-[Donate](https://world.openfoodfacts.org/donate-to-open-food-facts?utm_source=off&utf_medium=web&utm_campaign=donate-2023-a&utm_term=en-text-button)
+### Please give to our 2024 Fundraiser
+
+Your donations fund the day-to-day operations of our non-profit association:
+
+* keeping our database open & available to all,
+    * technical infrastructure (website/mobile app) & a small permanent team
+* remain independent of the food industry,
+    
+* engage a community of committed citizens,
+    
+* support the advancement of public health research.
+    
+
+Each donation counts! We appreciate your support in bringing further food transparency in the world.
+
+[I SUPPORT](https://world.openfoodfacts.org/donate-to-open-food-facts?utm_source=off&utf_medium=web&utm_campaign=donate-2024-a&utm_term=en-text-button)
 
 ### Join the community
 
