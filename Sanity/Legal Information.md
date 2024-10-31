@@ -183,34 +183,34 @@ Security & compliance
 
 Our users trust us to keep their data safe and secure, a responsibility we take seriously. If you have any questions or concerns about this, please [get in touch](https://sanity.io/contact).
 
-Vulnerability Disclosure
-------------------------
+[](#2dcf0c70eca8)Vulnerability Disclosure
+-----------------------------------------
 
 If you would like to report a vulnerability or security concern regarding any [Sanity.io](http://sanity.io/) product, please contact [security@sanity.io](mailto:security@sanity.io).
 
 We will verify the report and take corrective action as soon as possible, then notify our users and the relevant authorities of the issue. Our GPG key is available on [https://keys.openpgp.org/search?q=security@sanity.io](https://keys.openpgp.org/search?q=security@sanity.io).
 
-Compliance
-----------
+[](#6650ed8509f2)Compliance
+---------------------------
 
-### SOC 2 Type 2
+### [](#44f088135297)SOC 2 Type 2
 
 [Sanity.io](https://www.sanity.io/) is a SOC 2 Type 2 certified provider. Our SOC 2 examination covers the Security principle in the Trust Services Criteria. This assesses our systems and the access control designs we have in place to prevent unauthorized access to customer data.
 
-### General Data Protection Regulation (GDPR)
+### [](#d2d09da58a07)General Data Protection Regulation (GDPR)
 
 [Sanity.io](http://sanity.io/) is fully GDPR-compliant, and we handle our customers' personal data with great care and respect, as outlined in our [terms of service](https://www.sanity.io/legal/tos), [privacy policy](https://www.sanity.io/legal/privacy), and throughout this document. We use industry best practices for security and privacy, and have vetted all third-party processors we employ for compliance as well. Data controlled by our customers and provided via our API is ultimately our customers' responsibility under the GDPR, but we provide tools such as data retrieval via our GROQ query language, custom data retention policies, and APIs for permanent data deletion, as well as strict security practices, which allows our customers to remain compliant as well.
 
-### PCI DSS
+### [](#11fcbc64f642)PCI DSS
 
 All credit card and payment information is handled by our payment processor, [Stripe](https://stripe.com/). They have been audited by an independent PCI Qualified Security Assessor and certified as a PCI Service Provider level 1, the most stringent certification available in the payments industry.
 
-### Infrastructure
+### [](#f0a5508d49d6)Infrastructure
 
 [Google Cloud Platform](https://cloud.google.com/), which hosts [Sanity.io](http://sanity.io/), undergoes regular independent audits for a [range of standards](https://cloud.google.com/security/compliance/) including ISO 27001, ISO 27017, ISO 27018, SOC 2, SOC 3, CSA STAR, HIPAA, and PCI DSS.
 
-Infrastructure Security
------------------------
+[](#3eeb0b34dd08)Infrastructure Security
+----------------------------------------
 
 [Sanity.io](http://sanity.io/) is hosted on [Google Cloud Platform](https://cloud.google.com/), which employs some of the best security practices in the industry. This is described in the [Google security whitepaper](https://cloud.google.com/security/overview/whitepaper) and [Google infrastructure security design overview](https://cloud.google.com/security/infrastructure/design/), and includes:
 
@@ -222,10 +222,10 @@ Infrastructure Security
 
 [Sanity.io](http://sanity.io/) employees do not have physical access to data centers, nor access to the underlying Google infrastructure.
 
-Application Security
---------------------
+[](#9fb898ff18ce)Application Security
+-------------------------------------
 
-### Authentication and Access Control
+### [](#d5f3e9407af2)Authentication and Access Control
 
 Users log in to their [Sanity.io](http://sanity.io/) accounts using external authentication providers (currently Google Accounts and GitHub) via an OAuth 2 flow, optionally with two-factor authentication, which we strongly recommend. The user's password is never transmitted to us, and we do not gain access to any external resources that belong to the account. Users with our third-party login feature can also implement their own authentication solution.
 
@@ -233,57 +233,57 @@ The client gains a Sanity access token, which is transmitted either as a cookie 
 
 [Sanity.io](http://sanity.io/) datasets can be configured with either public or private read access by default, and individual authenticated users can be assigned various roles giving them read or write access as required. Customers with custom access control can also set custom access rules on documents matching specific filters.
 
-### Encryption
+### [](#d785910eec4b)Encryption
 
 All access to Sanity resources by end users is encrypted in transit with HTTPS transport layer security (TLS). Support for the older SSLv2, SSLv3, TLS 1.0 and TLS 1.1 protocols is disabled, as are several older cipher suites, since these have known security vulnerabilities. Internally, data is encrypted in transit and at rest as outlined under [Infrastructure security](https://www.sanity.io/security#infrastructure-security).
 
-### Data Retention and Removal
+### [](#67486cfc1499)Data Retention and Removal
 
 We record a complete version history for transactions and documents submitted via our API and content studio. This version history has a maximum retention period determined by the project's plan, after which the history is truncated. Users can configure shorter retention periods for various document types, and can also purge the complete history of individual documents via a separate API endpoint. Uploaded assets and files can be deleted immediately via our API.
 
 After removal, data will still be retained in our backups for some time, as outlined in our terms of service, to allow for recovery in the case of accidental or malicious removal. Deleted assets may also remain in public CDN caches according to their configured expiry time, but can be removed on request.
 
-### Application Development Lifecycle
+### [](#1c3e67a29010)Application Development Lifecycle
 
 We use continuous delivery to enable rapid and systematic development, testing, and deployment of our product, with automated error reporting and monitoring to alert us of problems. This ensures a quick and effective response to potential bugs and security issues, and reduces the risk of human error.
 
-Data Security and Privacy
--------------------------
+[](#78ff21e97305)Data Security and Privacy
+------------------------------------------
 
-### Encryption
+### [](#97c2771ecf2c)Encryption
 
 All data is encrypted in transit and at rest as outlined in [Infrastructure security](https://www.sanity.io/security#infrastructure-security).
 
-### Access Control
+### [](#1582b3996ecd)Access Control
 
 Employees access central resources using two-factor authentication via Google Accounts, and only have access to the systems required for their role. All remote access is encrypted, either via HTTPS transport level security or via VPN connections. Employees will never directly access customer-controlled data unless required for support reasons, and will generally ask the customer for permission first.
 
 Internal services are isolated from the Internet to the extent possible, and only have access to the specific resources they need, with the minimum necessary privilege level, using a combination of service-specific cryptographically signed access tokens or passwords and network-level firewall rules. Access tokens are stored encrypted in our Kubernetes orchestration platform, only available via authenticated and encrypted RPC calls from the Kubelet node agents, and provided to specific applications in isolated Linux cgroups namespaces without ever hitting disk.
 
-### Data Retention and Removal
+### [](#62c74f899e79)Data Retention and Removal
 
 All data is removed or anonymized as soon as possible after deletion or service cancellation, with a short grace period and backup retention as outlined in our terms of service to allow for recovery in the case of accidental or malicious removal. Users can also [contact us](https://www.sanity.io/contact) to have their data removed. Storage devices are securely decommissioned after use as outlined in [Infrastructure security](https://www.sanity.io/security#infrastructure-security).
 
-### Security Audits and Software Upgrades
+### [](#cc9a5c05fde6)Security Audits and Software Upgrades
 
 We perform regular internal security audits and software upgrades every three months to ensure our systems are secure and reliable, and take immediate measures whenever significant security vulnerabilities are discovered.
 
-### Credit Cards and Payments
+### [](#1bd9b52a9a01)Credit Cards and Payments
 
 Credit cards and payments are processed by our payment provider, [Stripe](https://stripe.com/). [Sanity.io](http://sanity.io/) never receives credit card information, nor do we have access to it, and it is removed from Stripe as soon as the customer updates their card information or closes their account.
 
-### Geographic Location
+### [](#b5f6f7d55e2a)Geographic Location
 
 Sanity relies on the Google Cloud Platform as a subprocessor to store collected Personal Data and your uploaded content. Uploaded content will be stored in the EU/EEA, the US, or in regions where Sanity has an operational footprint, specific by customer. For serving purposes, data may be stored transiently or cached in any country in which Google Cloud or its agents maintain facilities. Data which we control, such as our user database and email processing, may be stored in the U.S. with third-party processors employed by us in order to deliver the service - see below for more information.
 
-### Third-Party Processors
+### [](#142861bb70d3)Third-Party Processors
 
 Customer-controlled data provided via our API is only stored in Google Cloud Platform, and never shared with any other third parties. Other customer data for which we are a controller, such as our user database, email processing, error reporting, and so on, may be sent to certain third-party processors which we employ to deliver our services, as detailed in our terms of service. We have vetted the security and compliance of all such processors, and all transfers are performed securely and in line with best practices. Processors outside of the EU all have signed data processing addendums with us for the processing of personal data. We never share any customer data, personal or otherwise, with third parties unless employed by us under contract as data processors.
 
-Business Continuity
--------------------
+[](#221bfeac2cbc)Business Continuity
+------------------------------------
 
-### High Availability
+### [](#9dce65c6bceb)High Availability
 
 [Sanity.io](http://sanity.io/) is built using fully redundant and distributed systems, running across multiple data centers, and can withstand the loss of a single component or entire data center without significant service disruptions. Components are regularly taken out of service during routine maintenance, without affecting availability, and Google Cloud Platform's live migration technology transparently migrates virtual machines to other hosts prior to infrastructure maintenance.
 
@@ -291,24 +291,24 @@ Incoming traffic is anycast-routed to Google's globally distributed load balance
 
 Data centers have primary and alternate power sources, as well as diesel engine backup generators, each of which can provide enough electrical power to run the data center at full capacity. Data centers also have automated fire detection and suppression equipment.
 
-### Backups
+### [](#4569003c4a6f)Backups
 
 In addition to real-time replication across data centers, our databases are also continuously backed up to remote storage in multiple EU regions, and can be restored to any point in time within the past 30 days with per-transaction precision. Files and assets are replicated across multiple EU regions as well, with 7 day backups of historical versions.
 
-### Disaster Recovery
+### [](#785e254e4009)Disaster Recovery
 
 We make daily copies of all backups to a separate cloud account in a separate geographic region, for disaster recovery purposes. These copies are managed by separate infrastructure, using separate access controls, and are only accessible by two of our employees using dedicated physical authentication devices from clean computers.
 
 Although our web frontend systems are distributed across the world, our backend systems currently run across three data centers in a single EU region (Belgium) - we plan to implement a fully global backend infrastructure, with customer-controlled data placement. In the highly unlikely event of a region-wide outage or similar disaster, we can fully recover to a different region with no data loss within 12-24 hours.
 
-Corporate Security
-------------------
+[](#64b55aa5e5c8)Corporate Security
+-----------------------------------
 
-### Employees
+### [](#5f44f3477656)Employees
 
 All employees are required to sign confidentiality agreements, and are only given access to the systems they need for their role. Employee computers are secured with encrypted hard drives, firmware passwords, and firewalls, and access to central resources and third-party services are always encrypted and protected with two-factor authentication, using a combination of passwords, time-based one time passwords on dedicated devices, and cryptographic private keys. Our offices are secured with alarms and a combination of electronic and mechanical locks, with access logs.
 
-### Disclosure Policy
+### [](#f05abaf7f192)Disclosure Policy
 
 If a security issue or data leak is discovered, we will notify the affected users and relevant authorities as soon as possible, in line with current regulations. We also publish live reports of operational issues on our [status page](http://status.sanity.io/), which supports email notifications as well.
 
