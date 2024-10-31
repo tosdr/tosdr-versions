@@ -72,7 +72,7 @@ The store will not work correctly in the case when cookies are disabled.
     * [Starlet Snow](https://www.womanizer.com/eu/starlet)
     * [Pro / W500](https://www.womanizer.com/eu/w500)
     * [The All-About-Us Collection](https://www.womanizer.com/eu/the-all-about-us-collection)
-    * [Premium](https://www.womanizer.com/eu/premium)
+    * [We-Vibe Wand 2](https://www.womanizer.com/eu/we-vibe-wand-2)
     * [Classic Pleasure Set](https://www.womanizer.com/eu/classic-pleasure-set)
     * [Booster Bundle](https://www.womanizer.com/eu/booster-bundle)
     * [We-Vibe Wand](https://www.womanizer.com/eu/we-vibe-wand)
