@@ -23,21 +23,26 @@ Search results
 * [Customer service](https://www.rangextd.com/pages/about-us)
 * [_0_ Cart](https://www.rangextd.com/cart)
 
-*  [![Personal Essentials](//savvysmartdeals.com/cdn/shop/collections/personal-care.png?crop=center&height=60&v=1727247097&width=60)Personal Essentials](https://www.rangextd.com/collections/personal-essentials) _(1)_
-*  [![Family Essentials](//savvysmartdeals.com/cdn/shop/collections/img-5.png?crop=center&height=60&v=1727247156&width=60)Family Essentials](https://www.rangextd.com/collections/family-essentials) _(2)_
-*  [![Travel](//savvysmartdeals.com/cdn/shop/collections/home-automotive-accessories.png?crop=center&height=60&v=1724829778&width=60)Travel](https://www.rangextd.com/collections/travel-mobility) _(3)_
-*  [![Auto Care & Tools](//savvysmartdeals.com/cdn/shop/collections/1-mb.jpg?crop=center&height=60&v=1728032127&width=60)Auto Care & Tools](https://www.rangextd.com/collections/auto-care-tools) _(4)_
-*  [![Savvy Techs](//savvysmartdeals.com/cdn/shop/collections/OIG2.Y4nMQUz_PXYmvNghDCQv.jpg?crop=center&height=60&v=1728031546&width=60)Top Savvy Techs](https://www.rangextd.com/collections/top-notch-techs) _(5)_
+*  [![All Savvy Products](//savvysmartdeals.com/cdn/shop/collections/Savvy_Smart-Logo-900.jpg?crop=center&height=60&v=1730201125&width=60)All Savvy Products](https://www.rangextd.com/collections/all-items) _(1)_
+*  [![Personal Essentials](//savvysmartdeals.com/cdn/shop/collections/personal-care.png?crop=center&height=60&v=1727247097&width=60)Personal Essentials](https://www.rangextd.com/collections/personal-essentials) _(2)_
+*  [![Family Essentials](//savvysmartdeals.com/cdn/shop/collections/img-5.png?crop=center&height=60&v=1727247156&width=60)Family Essentials](https://www.rangextd.com/collections/family-essentials) _(3)_
+*  [![Travel](//savvysmartdeals.com/cdn/shop/collections/home-automotive-accessories.png?crop=center&height=60&v=1724829778&width=60)Travel](https://www.rangextd.com/collections/travel-mobility) _(4)_
+*  [![Auto Care & Tools](//savvysmartdeals.com/cdn/shop/collections/1-mb.jpg?crop=center&height=60&v=1728032127&width=60)Auto Care & Tools](https://www.rangextd.com/collections/auto-care-tools) _(5)_
+*  [![Savvy Techs](//savvysmartdeals.com/cdn/shop/collections/OIG2.Y4nMQUz_PXYmvNghDCQv.jpg?crop=center&height=60&v=1728031546&width=60)Top Savvy Techs](https://www.rangextd.com/collections/top-notch-techs) _(6)_
+*  [![Trending Now](//savvysmartdeals.com/cdn/shop/collections/OIG4.n.ENILTqNjmnlFCZsrcJ.jpg?crop=center&height=60&v=1730341005&width=60)Trending Now](https://www.rangextd.com/collections/trending-now) _(7)_
 * [More](https://www.rangextd.com/)
 
-*  [![Personal Essentials](//savvysmartdeals.com/cdn/shop/collections/personal-care.png?crop=center&height=60&v=1727247097&width=60)Personal Essentials](https://www.rangextd.com/collections/personal-essentials) _(1)_
-*  [![Family Essentials](//savvysmartdeals.com/cdn/shop/collections/img-5.png?crop=center&height=60&v=1727247156&width=60)Family Essentials](https://www.rangextd.com/collections/family-essentials) _(2)_
-*  [![Travel](//savvysmartdeals.com/cdn/shop/collections/home-automotive-accessories.png?crop=center&height=60&v=1724829778&width=60)Travel](https://www.rangextd.com/collections/travel-mobility) _(3)_
-*  [![Auto Care & Tools](//savvysmartdeals.com/cdn/shop/collections/1-mb.jpg?crop=center&height=60&v=1728032127&width=60)Auto Care & Tools](https://www.rangextd.com/collections/auto-care-tools) _(4)_
-*  [![Savvy Techs](//savvysmartdeals.com/cdn/shop/collections/OIG2.Y4nMQUz_PXYmvNghDCQv.jpg?crop=center&height=60&v=1728031546&width=60)Top Savvy Techs](https://www.rangextd.com/collections/top-notch-techs) _(5)_
+*  [![All Savvy Products](//savvysmartdeals.com/cdn/shop/collections/Savvy_Smart-Logo-900.jpg?crop=center&height=60&v=1730201125&width=60)All Savvy Products](https://www.rangextd.com/collections/all-items) _(1)_
+*  [![Personal Essentials](//savvysmartdeals.com/cdn/shop/collections/personal-care.png?crop=center&height=60&v=1727247097&width=60)Personal Essentials](https://www.rangextd.com/collections/personal-essentials) _(2)_
+*  [![Family Essentials](//savvysmartdeals.com/cdn/shop/collections/img-5.png?crop=center&height=60&v=1727247156&width=60)Family Essentials](https://www.rangextd.com/collections/family-essentials) _(3)_
+*  [![Travel](//savvysmartdeals.com/cdn/shop/collections/home-automotive-accessories.png?crop=center&height=60&v=1724829778&width=60)Travel](https://www.rangextd.com/collections/travel-mobility) _(4)_
+*  [![Auto Care & Tools](//savvysmartdeals.com/cdn/shop/collections/1-mb.jpg?crop=center&height=60&v=1728032127&width=60)Auto Care & Tools](https://www.rangextd.com/collections/auto-care-tools) _(5)_
+*  [![Savvy Techs](//savvysmartdeals.com/cdn/shop/collections/OIG2.Y4nMQUz_PXYmvNghDCQv.jpg?crop=center&height=60&v=1728031546&width=60)Top Savvy Techs](https://www.rangextd.com/collections/top-notch-techs) _(6)_
+*  [![Trending Now](//savvysmartdeals.com/cdn/shop/collections/OIG4.n.ENILTqNjmnlFCZsrcJ.jpg?crop=center&height=60&v=1730341005&width=60)Trending Now](https://www.rangextd.com/collections/trending-now) _(7)_
 
-BLACK FRIDAY DEALS
-==================
+ ![](//savvysmartdeals.com/cdn/shop/files/image_4_e44d9c7d-b185-4b52-be4d-7859438a8d56.png?crop=center&height=530&v=1730340191&width=700)![](//savvysmartdeals.com/cdn/shop/files/BF_Banner_13ffa942-792d-49a3-b800-225ac057bdfc.png?crop=center&height=1108&v=1730340117&width=700)
+
+[](https://www.rangextd.com/collections/all)
 
 * ![Collection image for: $20 OFF](//savvysmartdeals.com/cdn/shop/collections/20_Off.png?crop=center&height=300&v=1730198905&width=240)
     
