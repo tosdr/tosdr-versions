@@ -1,10 +1,10 @@
-![](https://www.facebook.com/tr?id=222225494864017&ev=PageView&noscript=1)          [Skip to content](#content)
+![](https://www.facebook.com/tr?id=222225494864017&ev=PageView&noscript=1)           [Skip to content](#content)
 
-[![](https://wp-endpoint.azureedge.net/wp-content/uploads/2022/05/logo-colors.svg)](https://budgetbakers.com/)
+[![](https://budgetbakers.com/wp-content/uploads/2022/05/logo-colors.svg)](https://budgetbakers.com/)
 
 * [How it works](#)
     
-    [![](https://wp-endpoint.azureedge.net/wp-content/uploads/2022/05/460x0w.webp)](https://budgetbakers.com/what-is-wallet/)
+    [![](https://budgetbakers.com/wp-content/uploads/2022/05/460x0w.webp)](https://budgetbakers.com/what-is-wallet/)
     
     [What is wallet](https://budgetbakers.com/what-is-wallet/)
     
@@ -14,7 +14,7 @@
     * [Cash Flow insights](https://budgetbakers.com/cashflow-insights/)
     * [Bank sync](https://budgetbakers.com/bank-sync/)
     
-    [![](https://wp-endpoint.azureedge.net/wp-content/uploads/2022/05/rocket-icon.svg)](https://budgetbakers.com/how-to-start/)
+    [![](https://budgetbakers.com/wp-content/uploads/2022/05/rocket-icon.svg)](https://budgetbakers.com/how-to-start/)
     
     [How to start?](https://budgetbakers.com/how-to-start/)
     
@@ -175,7 +175,7 @@ Furthermore, BudgetBakers may use, to access information about your payment acco
 
 * Salt Edge Inc., with its registered seat at 35 Jack Aaron Drive, Ottawa, Ontario, K2G 6L2, Canada; applicable terms and conditions and details on security and privacy are available on [www.saltedge.com](http://www.saltedge.com/);
 * Salt Edge Limited, a company duly incorporated and existing under the laws of England and Wales, under registration number 11178811, with its registered address at 71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ, United Kingdom; applicable terms and conditions and details on security and privacy are available on [www.saltedge.com;](http://www.saltedge.com/) 
-* Yodlee, Inc., a Delaware corporation, having its principal place of business at 3600 Bridge Parkway, Suite 200, Redwood City, California 94065, applicable terms and conditions and details on security and privacy are available on https://www.yodlee.com/.
+* Yodlee, Inc., a Delaware corporation, having its principal place of business at 3600 Bridge Parkway, Suite 200, Redwood City, California 94065, applicable terms and conditions and details on security and privacy are available on [https://www.yodlee.com/](https://www.yodlee.com/).
 
 **iOS and Android Platforms**
 
@@ -287,11 +287,11 @@ These Terms came into force and effect on September 1, 2019 and have been amende
 
 [Facebook-f](https://www.facebook.com/budgetbakers/) [Twitter](https://twitter.com/budgetbakers) [Instagram](https://www.instagram.com/budgetbakers) [Linkedin-in](https://www.linkedin.com/company/walletapp/)
 
-[![](https://wp-endpoint.azureedge.net/wp-content/uploads/2022/05/google-play.svg)](https://play.google.com/store/apps/details?id=com.droid4you.application.wallet&referrer=utm_source%3Dhome_page)
+[![](https://budgetbakers.com/wp-content/uploads/2022/05/google-play.svg)](https://play.google.com/store/apps/details?id=com.droid4you.application.wallet&referrer=utm_source%3Dhome_page)
 
-[![](https://wp-endpoint.azureedge.net/wp-content/uploads/2022/05/app-store.svg)](https://itunes.apple.com/app/wallet-personal-finance-tracker/id1032467659)
+[![](https://budgetbakers.com/wp-content/uploads/2022/05/app-store.svg)](https://itunes.apple.com/app/wallet-personal-finance-tracker/id1032467659)
 
-Copyright 2024 BudgetBakers s.r.o | All Rights Reserved | [Privacy Policy](https://budgetbakers.com/privacy/) | [Terms of Service](https://budgetbakers.com/terms/)
+Copyright 2022 BudgetBakers s.r.o | All Rights Reserved[Privacy Policy](https://budgetbakers.com/privacy/)[Terms of Service](https://budgetbakers.com/terms/)
 
 ##### Cookies give you a personalised experience
 
@@ -356,12 +356,12 @@ Other uncategorized cookies are those that are being analyzed and have not been 
 
 SAVE & ACCEPT
 
-[![](https://wp-endpoint.azureedge.net/wp-content/uploads/2022/05/logo-colors.svg)](https://budgetbakers.com/)
+[![](https://budgetbakers.com/wp-content/uploads/2022/05/logo-colors.svg)](https://budgetbakers.com/)
 
 How it works
 ------------
 
-[![](https://wp-endpoint.azureedge.net/wp-content/uploads/2022/05/460x0w.webp)](https://budgetbakers.com/what-is-wallet/)
+[![](https://budgetbakers.com/wp-content/uploads/2022/05/460x0w.webp)](https://budgetbakers.com/what-is-wallet/)
 
 [What is wallet](https://budgetbakers.com/what-is-wallet/)
 
@@ -371,7 +371,7 @@ How it works
 * [Cash Flow insights](https://budgetbakers.com/cashflow-insights/)
 * [Bank sync](https://budgetbakers.com/bank-sync/)
 
-[![](https://wp-endpoint.azureedge.net/wp-content/uploads/2022/05/rocket-icon.svg)](https://budgetbakers.com/how-to-start/)
+[![](https://budgetbakers.com/wp-content/uploads/2022/05/rocket-icon.svg)](https://budgetbakers.com/how-to-start/)
 
 [How to start?](https://budgetbakers.com/how-to-start/)
 
@@ -395,4 +395,4 @@ Support
 
 [For Business](#)
 
-[![](https://wp-endpoint.azureedge.net/wp-content/uploads/2022/05/Lifetime_new1-1024x538.png)](https://web.budgetbakers.com/settings/billing?origin=banner)
+[![](https://budgetbakers.com/wp-content/uploads/2022/05/Lifetime_new1-1024x538.png)](https://web.budgetbakers.com/settings/billing?origin=banner)
