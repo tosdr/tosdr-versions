@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ If A equals success, then the formula is A equals X plus Y plus Z. X is work. Y is play. Z is keep your mouth shut”
+“ The cheapest, fastest, and most reliable components are those that aren't there”
 
-[Albert Einstein](http://en.wikipedia.org/wiki/Albert_Einstein)
+[Gordon Bell](http://en.wikipedia.org/wiki/Gordon_Bell)
 
 [](https://www.adafruit.com/about)
 
