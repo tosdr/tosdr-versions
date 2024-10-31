@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-12af9484e3c002b817b60187e6ff3f65
+968da4bf69b820385a7ce000526f5619
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![4 mm by 6 mm black onyx faceted rondelles](https://www.sojourner.biz/images/cache/stone/ON0007.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/onyx/4-mm-by-6-mm-black-onyx-faceted-rondelles.html "4 mm by 6 mm black onyx faceted rondelles")
+[![4 mm double diamond beads](https://www.sojourner.biz/images/cache/glass/GL0310.200.jpg)](https://www.sojourner.biz/beads/glass/4-mm-double-diamond-beads.html "4 mm double diamond beads")
 
-#### [4 mm by 6 mm black onyx faceted rondelles](https://www.sojourner.biz/beads/stone-m-z/onyx/4-mm-by-6-mm-black-onyx-faceted-rondelles.html "4 mm by 6 mm black onyx faceted rondelles")
+#### [4 mm double diamond beads](https://www.sojourner.biz/beads/glass/4-mm-double-diamond-beads.html "4 mm double diamond beads")
 
-$26.00
+$2.00
 
 ### Best Sellers
 
