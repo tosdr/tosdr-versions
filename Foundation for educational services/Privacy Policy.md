@@ -38,7 +38,6 @@
     * [Careers](https://www.filamentservices.org/careers/)
     * [Nonprofit Advocate](https://www.filamentservices.org/nonprofit-advocate/)
     * [We Are Filament](https://www.filamentservices.org/about/)
-* [Opt-out preferences](https://www.filamentservices.org/opt-out-preferences/)
 
 Select Page
 
