@@ -52,7 +52,13 @@
     * [Contact Merch Team](https://www.cleetusmcfarland.com/pages/contact)
     
 * [Motion Raceworks](https://www.motionraceworks.com/)
-* [Giveaway](https://www.cleetusmcfarland.com/pages/giveaway-rules)
+* Giveaway
+    
+    Giveaway
+    
+    * [JH Custom GMC HD](https://www.cleetusmcfarland.com/pages/jh-giveaway-rules)
+    * [F150 x 2](https://www.cleetusmcfarland.com/pages/giveaway-rules)
+    
 
 [Log in](https://www.cleetusmcfarland.com/customer_authentication/redirect?locale=en&region_country=US)
 
@@ -352,7 +358,11 @@ United States | USD $
     * [Contact Merch Team](https://www.cleetusmcfarland.com/pages/contact)
     
 * [Motion Raceworks](https://www.motionraceworks.com/)
-* [Giveaway](https://www.cleetusmcfarland.com/pages/giveaway-rules)
+* Giveaway
+    
+    * [JH Custom GMC HD](https://www.cleetusmcfarland.com/pages/jh-giveaway-rules)
+    * [F150 x 2](https://www.cleetusmcfarland.com/pages/giveaway-rules)
+    
 
  Search [Log in](https://www.cleetusmcfarland.com/customer_authentication/redirect?locale=en&region_country=US) [Cart](https://www.cleetusmcfarland.com/cart)
 
@@ -451,10 +461,17 @@ and ends 11:59:59 PM ET on December 6, 2024. Skill-testing question required if 
 Two prizes each valued at $50,000 USD. Odds of winning depend upon the number of eligible entries  
 received.  See [Official Rules](https://www.cleetusmcfarland.com/pages/giveaway-rules "Giveaway Rules") for complete details including how to enter
 
-About
------
+\*\* JH CUSTOM GMC HD GIVEAWAY.
+-------------------------------
 
-Welcome to Cleetus McFarland. Our website offers exclusive merchandise, including apparel, accessories inspired by Cleetus McFarland's. Shop our latest collection to gear up with the coolest merch and show your support for the Cleetus McFarland community.
+NO PURCHASE NECESSARY TO ENTER OR WIN. A PURCHASE WILL NOT  
+INCREASE YOUR CHANCES OF WINNING. Open to residents of the 48 contiguous United States (except for  
+AK & HI), the District of Columbia, and Canada (excluding Quebec), who are age of majority & licensed  
+drivers.  Void in the states of AK, HI, the Province of Quebec, and where prohibited. Begins November 1,  
+2024 and ends 11:59:59 PM ET on December 2, 2024. Skill-testing question required if Canadian-selected  
+entrant.  Grand Prize valued at $70,000 USD. Odds of winning depend upon the number of eligible entries  
+received.  See [Official Rules](https://www.cleetusmcfarland.com/pages/jh-giveaway-rules "JH Giveaway Rules") for complete details including how to enter without making a purchase.  
+ Sponsor: GForce Media LLC, 3809 Lorraine Road, Bradenton, FL 34211.
 
 Subscribe to our emails
 -----------------------
