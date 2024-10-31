@@ -368,6 +368,7 @@ Navigation [×](javascript:void(0))
     * [![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwe8dabb8f/Vetster.png "vetster")](https://www.1800petmeds.com/vetster)
     * [![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwb3b6843b/Pumpkin%20Insurance.png "Insurance")](https://www.1800petmeds.com/petmeds-insurance-services)
 
+* [Sign Out](https://www.1800petmeds.com/logout)
 * [Contact Us](https://www.1800petmeds.com/help.html)
 
 Call or text:
