@@ -269,7 +269,7 @@ article 2 days ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-suc
 
 ### Station Science Top News: Oct. 25, 2024
 
-article 23 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-25-2024/)[![Stephanie Dudley, Gateway's mission integration and utilization manager, sits inside a high-fidelity mockup of HALO (Habitation and Logistics Outpost) at NASA’s Johnson Space Center. She is framed by a docking port, with interior components visible behind her.The mockup’s design showcases the compact and functional environment Artemis astronauts will use for living, conducting experiments, and preparing for lunar surface missions. Photo credit: NASA/Josh Valcarcel](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e064820-1.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-25-2024/)[![Stephanie Dudley, Gateway's mission integration and utilization manager, sits inside a high-fidelity mockup of HALO (Habitation and Logistics Outpost) at NASA’s Johnson Space Center. She is framed by a docking port, with interior components visible behind her.The mockup’s design showcases the compact and functional environment Artemis astronauts will use for living, conducting experiments, and preparing for lunar surface missions. Photo credit: NASA/Josh Valcarcel](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e064820-1.jpg?w=1024)
 
 3 min read
 
@@ -291,13 +291,13 @@ article 1 week ago](https://www.nasa.gov/reference/risk-of-reduced-cardiorespira
 
 ### NASA, NOAA Rank 2024 Ozone Hole as 7th-Smallest Since Recovery Began
 
-article 2 hours ago](https://www.nasa.gov/earth/climate-change/ozone-layer/nasa-noaa-rank-2024-ozone-hole-as-7th-smallest-since-recovery-began/)[![INjected Smoke and PYRocumulonimbus Experiment Expressions of Interest for No-Cost Participation / Contributions and Clarification of A.61 INSPYRE ST.](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/internal_resources/2434/california-wildfires-1.jpg)
+article 6 hours ago](https://www.nasa.gov/earth/climate-change/ozone-layer/nasa-noaa-rank-2024-ozone-hole-as-7th-smallest-since-recovery-began/)[![INjected Smoke and PYRocumulonimbus Experiment Expressions of Interest for No-Cost Participation / Contributions and Clarification of A.61 INSPYRE ST.](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/internal_resources/2434/california-wildfires-1.jpg)
 
 2 min read
 
 ### INjected Smoke and PYRocumulonimbus Experiment Expressions of Interest for No-Cost Participation / Contributions and Clarification of A.61 INSPYRE ST.
 
-article 4 hours ago](https://science.nasa.gov/researchers/solicitations/roses-blogs/injected-smoke-and-pyrocumulonimbus-experiment-expressions-of-interest-for-no-cost-participation-contributions-and-clarification-of-a-61-inspyre-st/)[![Permafrost Tunnel north of Fairbanks, Alaska](https://www.nasa.gov/wp-content/uploads/2024/10/1-permafrost-tunnel.jpg?w=1024)
+article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-blogs/injected-smoke-and-pyrocumulonimbus-experiment-expressions-of-interest-for-no-cost-participation-contributions-and-clarification-of-a-61-inspyre-st/)[![Permafrost Tunnel north of Fairbanks, Alaska](https://www.nasa.gov/wp-content/uploads/2024/10/1-permafrost-tunnel.jpg?w=1024)
 
 4 min read
 
@@ -313,23 +313,29 @@ article 1 day ago](https://www.nasa.gov/earth/nasa-helps-find-thawing-permafrost
 
 ### NASA’s Perseverance Captures ‘Googly Eye’ During Solar Eclipse
 
-article 22 mins ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-captures-googly-eye-during-solar-eclipse/)[![NASA’s Lunar Trailblazer sits in a clean room at Lockheed Martin Space](https://www.nasa.gov/wp-content/uploads/2024/10/1-lunar-trailblazer-solar-deploy-test-4-8-24-md001.jpg?w=1024)
+article 4 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-captures-googly-eye-during-solar-eclipse/)[![NASA to Launch Innovative Solar Coronagraph to Space Station](https://science.nasa.gov/wp-content/uploads/2024/10/codex-14.jpeg)
+
+5 min read
+
+### NASA to Launch Innovative Solar Coronagraph to Space Station
+
+article 5 hours ago](https://science.nasa.gov/science-research/heliophysics/nasa-to-launch-innovative-solar-coronagraph-to-space-station/)[![NASA’s Lunar Trailblazer sits in a clean room at Lockheed Martin Space](https://www.nasa.gov/wp-content/uploads/2024/10/1-lunar-trailblazer-solar-deploy-test-4-8-24-md001.jpg?w=1024)
 
 6 min read
 
 ### How NASA’s Lunar Trailblazer Could Decipher the Moon’s Icy Secrets
 
-article 1 day ago](https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/how-nasas-lunar-trailblazer-could-decipher-the-moons-icy-secrets/)[![Stephanie Dudley, Gateway's mission integration and utilization manager, sits inside a high-fidelity mockup of HALO (Habitation and Logistics Outpost) at NASA’s Johnson Space Center. She is framed by a docking port, with interior components visible behind her.The mockup’s design showcases the compact and functional environment Artemis astronauts will use for living, conducting experiments, and preparing for lunar surface missions. Photo credit: NASA/Josh Valcarcel](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e064820-1.jpg?w=1024)
-
-3 min read
-
-### Gateway: Centering Science
-
-article 1 day ago](https://www.nasa.gov/missions/artemis/gateway/gateway-centering-science/)
+article 1 day ago](https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/how-nasas-lunar-trailblazer-could-decipher-the-moons-icy-secrets/)
 
 ### Featured
 
-[![Hubble Sees a Celestial Cannonball](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_IC3225_potw2443a.jpg)
+[![Buckle Up: NASA-Funded Study Explores Turbulence in Molecular Clouds](https://science.nasa.gov/wp-content/uploads/2024/10/turbulence2.png)
+
+3 min read
+
+### Buckle Up: NASA-Funded Study Explores Turbulence in Molecular Clouds
+
+article 3 hours ago](https://science.nasa.gov/universe/stars/nasa-funded-study-explores-turbulence-in-molecular-clouds/)[![Hubble Sees a Celestial Cannonball](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_IC3225_potw2443a.jpg)
 
 2 min read
 
@@ -341,13 +347,7 @@ article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-sees-a-celes
 
 ### NASA Reveals Prototype Telescope for Gravitational Wave Observatory
 
-article 1 week ago](https://science.nasa.gov/missions/lisa/nasa-reveals-prototype-telescope-for-gravitational-wave-observatory/)[![Hubble Captures a New View of Galaxy M90](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-m90-potw2442a.jpg)
-
-2 min read
-
-### Hubble Captures a New View of Galaxy M90
-
-article 2 weeks ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)
+article 1 week ago](https://science.nasa.gov/missions/lisa/nasa-reveals-prototype-telescope-for-gravitational-wave-observatory/)
 
 ### Highlights
 
@@ -357,19 +357,19 @@ article 2 weeks ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-
 
 ### NASA’s Perseverance Captures ‘Googly Eye’ During Solar Eclipse
 
-article 22 mins ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-captures-googly-eye-during-solar-eclipse/)[![Title slide for GeneLab Chats with Gbolaga Olanrewaju](https://www.nasa.gov/wp-content/uploads/2024/10/title-slide-olanrewaju.jpg?w=1024)
+article 4 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-captures-googly-eye-during-solar-eclipse/)[![NASA to Launch Innovative Solar Coronagraph to Space Station](https://science.nasa.gov/wp-content/uploads/2024/10/codex-14.jpeg)
+
+5 min read
+
+### NASA to Launch Innovative Solar Coronagraph to Space Station
+
+article 5 hours ago](https://science.nasa.gov/science-research/heliophysics/nasa-to-launch-innovative-solar-coronagraph-to-space-station/)[![Title slide for GeneLab Chats with Gbolaga Olanrewaju](https://www.nasa.gov/wp-content/uploads/2024/10/title-slide-olanrewaju.jpg?w=1024)
 
 2 min read
 
 ### GeneLab Chats with Gbolaga Olanrewaju on His Latest Publication
 
-article 48 mins ago](https://www.nasa.gov/genelab-chats-with-gbolaga-olanrewaju-on-his-latest-publication/)[![Mario Perez, back, holds a deployable solar panel as Craig Turczynski, left, secures it to the Advanced Composite Solar Sail System (ACS3) spacecraft in the Integration Facility of NASA Ames Research Center.](https://www.nasa.gov/wp-content/uploads/2024/10/acs3-test-and-final-preparation-for-launch.jpg?w=1024)
-
-4 min read
-
-### NASA Technologies Named Among TIME Inventions of 2024
-
-article 3 hours ago](https://www.nasa.gov/general/nasa-technologies-named-among-time-inventions-of-2024/)
+article 5 hours ago](https://www.nasa.gov/genelab-chats-with-gbolaga-olanrewaju-on-his-latest-publication/)
 
 ### Highlights
 
@@ -401,13 +401,13 @@ article 2 weeks ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring
 
 ### NASA Technologies Named Among TIME Inventions of 2024
 
-article 3 hours ago](https://www.nasa.gov/general/nasa-technologies-named-among-time-inventions-of-2024/)[![After 60 Years, Nuclear Power for Spaceflight is Still Tried and True](https://science.nasa.gov/wp-content/uploads/2023/07/55_7513_97pc1536.jpg)
+article 7 hours ago](https://www.nasa.gov/general/nasa-technologies-named-among-time-inventions-of-2024/)[![After 60 Years, Nuclear Power for Spaceflight is Still Tried and True](https://science.nasa.gov/wp-content/uploads/2023/07/55_7513_97pc1536.jpg)
 
 5 min read
 
 ### After 60 Years, Nuclear Power for Spaceflight is Still Tried and True
 
-article 7 days ago](https://science.nasa.gov/technology/rps/after-60-years-nuclear-power-for-spaceflight-is-still-tried-and-true/)[![2024 NASA Power to Explore Contest Winners](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
+article 1 week ago](https://science.nasa.gov/technology/rps/after-60-years-nuclear-power-for-spaceflight-is-still-tried-and-true/)[![2024 NASA Power to Explore Contest Winners](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
 
 6 min read
 
@@ -455,7 +455,7 @@ article 5 days ago](https://science.nasa.gov/science-research/earth-science/autu
 
 ### La NASA lleva un dron y un rover espacial a un espectáculo aéreo
 
-article 1 hour ago](https://www.nasa.gov/centers-and-facilities/armstrong/la-nasa-lleva-un-dron-y-un-rover-espacial-a-un-espectaculo-aereo/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
+article 5 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/la-nasa-lleva-un-dron-y-un-rover-espacial-a-un-espectaculo-aereo/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
 
 4 min read
 
