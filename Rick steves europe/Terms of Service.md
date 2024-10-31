@@ -8,7 +8,7 @@
 /* [About Us](https://www.ricksteves.com/about-us/what-we-do)
 /* Terms of Service
 
-[![Rick Steves' Europe](https://d2zwvgyp7l6t28.cloudfront.net/assets/ricksteves-europe-9cf480b62090d6c670b0e80d09f97a3b3b0983a2cbf15fddfe52decfafbb8e6b.svg)](https://www.ricksteves.com/ "Rick Steves' Europe")
+[![Rick Steves' Europe](//d2zwvgyp7l6t28.cloudfront.net/assets/ricksteves-europe-9cf480b62090d6c670b0e80d09f97a3b3b0983a2cbf15fddfe52decfafbb8e6b.svg)](https://www.ricksteves.com/ "Rick Steves' Europe")
 
 * [About Rick](https://www.ricksteves.com/about-rick)
 * [Explore Europe](https://www.ricksteves.com/europe)
