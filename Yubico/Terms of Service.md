@@ -344,7 +344,7 @@ Search![X icon](https://www.yubico.com/wp-content/themes/yubicool/img/icons/clos
     (These Terms and Conditions of Use are adopted from Akismet.com TOS, available under a Creative Commons Sharealike license.)
     
 
-[![Yubico Text Logo](https://www.yubico.com//wp-content/themes/yubicool/img/logos/logo.svg)](https://www.yubico.com/)
+[![Yubico Text Logo](https://www.yubico.com/wp-content/themes/yubicool/img/logos/logo.svg)](https://www.yubico.com/)
 
 * [RSS](https://www.yubico.com/rss/)
 * [X](https://x.com/Yubico)
