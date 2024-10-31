@@ -808,21 +808,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
+* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 * [Computer-Mäuse im Test: Gaming-Maus schlägt Office-Maus](https://www.test.de/gaming-maus-test-6156860-0/ "Computer-Mäuse im Test - Gaming-Maus schlägt Office-Maus")
 * [Nähmaschinen im Test: Riesige Preis­unterschiede bei den Guten](https://www.test.de/Naehmaschinen-im-Test-5100761-0/ "Nähmaschinen im Test - Riesige Preisunterschiede bei den Guten")
-* [Filter­kaffee im Test: Einer schmeckt spitze](https://www.test.de/filterkaffee-im-test-1772611-0/ "Filterkaffee im Test - Einer schmeckt spitze")
-* [Kaffee­maschinen im Test: Gut gefiltert ab 35 Euro](https://www.test.de/Filterkaffeemaschinen-im-Test-Welche-ist-die-beste-5007345-0/ "Kaffeemaschinen im Test - Gut gefiltert ab 35 Euro")
 
 test.de entdecken
 
-* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
-* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
-* [Kirchen­austritt: Aus der Kirche austreten – so gehen Sie vor](https://www.test.de/gewusst-wie-kirchenaustritt-5942008-0/ "Kirchenaustritt - Aus der Kirche austreten – so gehen Sie vor")
-* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
-* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Massage­pistolen im Test: Good Vibrations?](https://www.test.de/Massagepistolen-im-Test-5989060-0/ "Massagepistolen im Test - Good Vibrations?")
+* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
+* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
+* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
+* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
 
 Fußbereich
 
@@ -3850,59 +3850,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
+* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 * [Computer-Mäuse im Test: Gaming-Maus schlägt Office-Maus](https://www.test.de/gaming-maus-test-6156860-0/ "Computer-Mäuse im Test - Gaming-Maus schlägt Office-Maus")
 * [Nähmaschinen im Test: Riesige Preis­unterschiede bei den Guten](https://www.test.de/Naehmaschinen-im-Test-5100761-0/ "Nähmaschinen im Test - Riesige Preisunterschiede bei den Guten")
-* [Filter­kaffee im Test: Einer schmeckt spitze](https://www.test.de/filterkaffee-im-test-1772611-0/ "Filterkaffee im Test - Einer schmeckt spitze")
-* [Kaffee­maschinen im Test: Gut gefiltert ab 35 Euro](https://www.test.de/Filterkaffeemaschinen-im-Test-Welche-ist-die-beste-5007345-0/ "Kaffeemaschinen im Test - Gut gefiltert ab 35 Euro")
 
 test.de entdecken
 
-* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
-* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
-* [Kirchen­austritt: Aus der Kirche austreten – so gehen Sie vor](https://www.test.de/gewusst-wie-kirchenaustritt-5942008-0/ "Kirchenaustritt - Aus der Kirche austreten – so gehen Sie vor")
-* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
-* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Massage­pistolen im Test: Good Vibrations?](https://www.test.de/Massagepistolen-im-Test-5989060-0/ "Massagepistolen im Test - Good Vibrations?")
+* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
+* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
+* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
+* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
+* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 * [Computer-Mäuse im Test: Gaming-Maus schlägt Office-Maus](https://www.test.de/gaming-maus-test-6156860-0/ "Computer-Mäuse im Test - Gaming-Maus schlägt Office-Maus")
 * [Nähmaschinen im Test: Riesige Preis­unterschiede bei den Guten](https://www.test.de/Naehmaschinen-im-Test-5100761-0/ "Nähmaschinen im Test - Riesige Preisunterschiede bei den Guten")
-* [Filter­kaffee im Test: Einer schmeckt spitze](https://www.test.de/filterkaffee-im-test-1772611-0/ "Filterkaffee im Test - Einer schmeckt spitze")
-* [Kaffee­maschinen im Test: Gut gefiltert ab 35 Euro](https://www.test.de/Filterkaffeemaschinen-im-Test-Welche-ist-die-beste-5007345-0/ "Kaffeemaschinen im Test - Gut gefiltert ab 35 Euro")
 
 test.de entdecken
 
-* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
-* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
-* [Kirchen­austritt: Aus der Kirche austreten – so gehen Sie vor](https://www.test.de/gewusst-wie-kirchenaustritt-5942008-0/ "Kirchenaustritt - Aus der Kirche austreten – so gehen Sie vor")
-* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
-* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Massage­pistolen im Test: Good Vibrations?](https://www.test.de/Massagepistolen-im-Test-5989060-0/ "Massagepistolen im Test - Good Vibrations?")
+* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
+* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
+* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
+* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
 
 Neueste Tests
 
+* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
+* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 * [Computer-Mäuse im Test: Gaming-Maus schlägt Office-Maus](https://www.test.de/gaming-maus-test-6156860-0/ "Computer-Mäuse im Test - Gaming-Maus schlägt Office-Maus")
 * [Nähmaschinen im Test: Riesige Preis­unterschiede bei den Guten](https://www.test.de/Naehmaschinen-im-Test-5100761-0/ "Nähmaschinen im Test - Riesige Preisunterschiede bei den Guten")
-* [Filter­kaffee im Test: Einer schmeckt spitze](https://www.test.de/filterkaffee-im-test-1772611-0/ "Filterkaffee im Test - Einer schmeckt spitze")
-* [Kaffee­maschinen im Test: Gut gefiltert ab 35 Euro](https://www.test.de/Filterkaffeemaschinen-im-Test-Welche-ist-die-beste-5007345-0/ "Kaffeemaschinen im Test - Gut gefiltert ab 35 Euro")
 
 test.de entdecken
 
-* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
-* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
-* [Kirchen­austritt: Aus der Kirche austreten – so gehen Sie vor](https://www.test.de/gewusst-wie-kirchenaustritt-5942008-0/ "Kirchenaustritt - Aus der Kirche austreten – so gehen Sie vor")
-* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
-* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Massage­pistolen im Test: Good Vibrations?](https://www.test.de/Massagepistolen-im-Test-5989060-0/ "Massagepistolen im Test - Good Vibrations?")
+* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
+* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
+* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
+* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
 
 Service Stiftung Warentest
 
