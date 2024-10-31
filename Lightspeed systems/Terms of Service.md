@@ -44,6 +44,7 @@ Toggle Site Navigation
 * [Products](https://www.lightspeedsystems.com/products/) Open Products submenu
     * [Lightspeed Filter™](https://www.lightspeedsystems.com/products/lightspeed-filter/) Open Lightspeed Filter™ submenu
         * [Lightspeed Parent Portal](https://www.lightspeedsystems.com/solutions/security-compliance/lightspeed-parent-portal/)
+        * [BYOD/IOT](https://www.lightspeedsystems.com/solutions/security-compliance/byod-iot-protection/)
         * [Web Filtering: What to Consider Before You Buy](https://www.lightspeedsystems.com/solutions/safety-wellness/web-filtering/)
     * [Lightspeed Alert™](https://www.lightspeedsystems.com/products/lightspeed-alert/) Open Lightspeed Alert™ submenu
         * [Lightspeed Safety Specialists](https://www.lightspeedsystems.com/solutions/school-safety-specialists/)
