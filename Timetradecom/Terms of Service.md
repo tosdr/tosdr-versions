@@ -33,6 +33,7 @@ class="agentbot"
     * [Overview](https://engageware.com/company/)
     * [Management](https://engageware.com/company/management/)
     * [Partners](https://engageware.com/partners/)
+    * [Security](https://engageware.com/security/)
     * [Careers](https://engageware.com/company/careers/)
     * [News & Press](https://engageware.com/company/news/)
     * [Contact Us](https://engageware.com/company/contact-us/)
@@ -132,6 +133,7 @@ Company
 * [Careers](https://engageware.com/company/careers/)
 * [News & Press](https://engageware.com/company/news/)
 * [Social Environmental Responsibility](https://engageware.com/social-environmental-responsibility/)
+* [Security](https://engageware.com/security/)
 * [Contact Us](https://engageware.com/company/contact-us/)
 
 © 2024 Engageware. All Rights Reserved.
