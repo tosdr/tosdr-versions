@@ -1,3 +1,9 @@
+![discount](/assets/img/black-friday/black-50-2024.png)
+
+**Yearly plans are up to 65% off for a limited Black Friday sale. ⏰**
+
+[Upgrade Now](https://forms.app/en/pricing?campaign=2024-summer&medium=header-upgrade-button)
+
 [![forms.app Logo](/assets/img/formsapp-logo-white.svg)![forms.app Logo](/assets/img/logo-home.svg)![forms.app Logo](/assets/img/f-white-logo.svg)](https://forms.app/en)
 
 * Solutions
