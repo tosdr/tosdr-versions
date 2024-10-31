@@ -34,15 +34,15 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [American Politics: The Final Week (5,784)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: The Final Week" (5,784 posts)")
-* [Islamic Discussion Thread ٥: Free Taj… (11,871)](https://forum.nationstates.net/viewtopic.php?t=462608&f=20&view=unread#unread ""Islamic Discussion Thread ٥: Free Tajweed, Absolutely Halaal" (11,871 posts)")
-* [Zombies in your land? Commie Hunters… (5)](https://forum.nationstates.net/viewtopic.php?t=557775&f=33&view=unread#unread ""Zombies in your land? Commie Hunters have a cure!" (5 posts)")
-* [Transformers: Electric Trepidation (10,668)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (10,668 posts)")
-* [Geography Game II (10,888)](https://forum.nationstates.net/viewtopic.php?t=529733&f=25&view=unread#unread ""Geography Game II" (10,888 posts)")
+* [Based on the Flag, which Hoi4 Kaiserr… (683)](https://forum.nationstates.net/viewtopic.php?t=544426&f=25&view=unread#unread ""Based on the Flag, which Hoi4 Kaiserreich ideology AN is?" (683 posts)")
+* [2 Truths & a Lie (105)](https://forum.nationstates.net/viewtopic.php?t=557674&f=25&view=unread#unread ""2 Truths & a Lie" (105 posts)")
+* [The Collective Security League Assemb… (793)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (793 posts)")
+* [DB: Universe V2: Astro Rebellion: Tre… (74)](https://forum.nationstates.net/viewtopic.php?t=557027&f=31&view=unread#unread ""DB: Universe V2: Astro Rebellion: Tree of Good and Evil (IC)" (74 posts)")
+* [Merge the 2 AN's Names (9,289)](https://forum.nationstates.net/viewtopic.php?t=427976&f=25&view=unread#unread ""Merge the 2 AN's Names" (9,289 posts)")
 
 Advertisement
 
-[Z-DayMost Survivors + No Quarantine](https://www.nationstates.net/page=zday_tally#qtotal)[1Equilism](https://www.nationstates.net/region=equilism) [2Chicken overlords](https://www.nationstates.net/region=chicken_overlords) [3Lazarus](https://www.nationstates.net/region=lazarus) [4Balder](https://www.nationstates.net/region=balder) [5Osiris](https://www.nationstates.net/region=osiris) [6Concord](https://www.nationstates.net/region=concord) [7the Rejected Realms](https://www.nationstates.net/region=the_rejected_realms) [8The Order of the Grey Wardens](https://www.nationstates.net/region=the_order_of_the_grey_wardens) [9Artificial Solar System](https://www.nationstates.net/region=artificial_solar_system) [10Suspicious](https://www.nationstates.net/region=suspicious) [11The Sasquatch Republic](https://www.nationstates.net/region=the_sasquatch_republic) [12Two](https://www.nationstates.net/region=two) [13Australia](https://www.nationstates.net/region=australia) [14Libertium](https://www.nationstates.net/region=libertium) [15The East Pacific](https://www.nationstates.net/region=the_east_pacific)
+[Z-DayMost Survivors](https://www.nationstates.net/page=zday_tally#stotal)[1NationStates](https://www.nationstates.net/region=nationstates) [2Equilism](https://www.nationstates.net/region=equilism) [3Chicken overlords](https://www.nationstates.net/region=chicken_overlords) [4The Wellspring](https://www.nationstates.net/region=the_wellspring) [5the South Pacific](https://www.nationstates.net/region=the_south_pacific) [6ainulindale](https://www.nationstates.net/region=ainulindale) [7Concord](https://www.nationstates.net/region=concord) [8Lazarus](https://www.nationstates.net/region=lazarus) [9Balder](https://www.nationstates.net/region=balder) [10Commonwealth of Sovereign States](https://www.nationstates.net/region=commonwealth_of_sovereign_states) [11Osiris](https://www.nationstates.net/region=osiris) [12the Pacific](https://www.nationstates.net/region=the_pacific) [13Wintreath](https://www.nationstates.net/region=wintreath) [14Terranova](https://www.nationstates.net/region=terranova) [15One big Island](https://www.nationstates.net/region=one_big_island)
 
 Terms & Conditions of Use
 =========================
