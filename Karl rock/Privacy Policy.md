@@ -410,17 +410,17 @@ Top
     
     [How to Book a Train Ticket in India (For Foreigners)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
     
-* [![Travellers Beware, Don’t Buy Fake Water in India!](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/10/Fake-Bisleri-Mineral-Water-Bottles-1L-Bilseir-Bisferi-Bisllari.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/travellers-beware-dont-buy-fake-water-in-india/ "Travellers Beware, Don’t Buy Fake Water in India!")
-    
-    [Travellers Beware, Don’t Buy Fake Water in India!](https://blog.karlrock.com/travellers-beware-dont-buy-fake-water-in-india/ "Travellers Beware, Don’t Buy Fake Water in India!")
-    
 * [![What Do Lawyers in India Charge? My Personal Experience Revealed](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2024/06/Walkthrough-of-a-court-complex-in-India.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/what-do-lawyers-in-india-charge/ "What Do Lawyers in India Charge? My Personal Experience Revealed")
     
     [What Do Lawyers in India Charge? My Personal Experience Revealed](https://blog.karlrock.com/what-do-lawyers-in-india-charge/ "What Do Lawyers in India Charge? My Personal Experience Revealed")
     
-* [![How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2019/11/Kartarpur-Darbar-Sahib-Main-Prayer-Hall.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
+* [![Travellers Beware, Don’t Buy Fake Water in India!](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/10/Fake-Bisleri-Mineral-Water-Bottles-1L-Bilseir-Bisferi-Bisllari.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/travellers-beware-dont-buy-fake-water-in-india/ "Travellers Beware, Don’t Buy Fake Water in India!")
     
-    [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
+    [Travellers Beware, Don’t Buy Fake Water in India!](https://blog.karlrock.com/travellers-beware-dont-buy-fake-water-in-india/ "Travellers Beware, Don’t Buy Fake Water in India!")
+    
+* [![How to Rent a Motorcycle in Pakistan (with Prices)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/08/img_9157-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
+    
+    [How to Rent a Motorcycle in Pakistan (with Prices)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
