@@ -233,6 +233,13 @@ If the user should encounter any errors while using our services, we will tempor
 
 Sanity uses cookies to provide you with a wide range of functionalities. Cookies are small text files sent by a website you visit to your computer or mobile device, which enables you to use the features and functionality of the website and services and to improve your experience. They are unique to your account or your browser. Cookies can be “session-based” or “persistent”. Session-based cookies last only while your browser is open and are automatically deleted when you close your browser and persistent cookies last until you or your browser delete them or until they expire. To find out more about cookies, visit www.allaboutcookies.org.
 
+| Cookie Type | Description |
+| --- | --- |
+| Strictly Necessary | These cookies are necessary for the website and services to function and cannot be turned off. These cookies do not store any information that can personally identify you. |
+| Performance | These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our website and services. They help us to know which pages are the most and least popular and see how visitors move around. The information collected from these cookies are aggregated and anonymous. If you do not allow these cookies, we will not know when you have visited our website or services and will not be able to monitor their performance. |
+| Functional | These cookies enable our website and services to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies, some or all of these website or services may not function properly. |
+| Targeting | These cookies may be set through our website or services by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant advertisements on other sites. They do not store any personal information that directly identifies you, but these cookies do uniquely identify your browser and device. If you do not allow these cookies, you will experience less targeted advertising. |
+
 Sanity uses Google Analytics and Google Tag Manager, web analytics services provided by Google for aggregate statistics about our website usage. This also collects information for remarketing purposes. The information gathered is anonymous, and cannot be traced back to individuals. To learn more about how Google uses data, visit [Google’s Privacy Policy](http://www.google.com/policies/privacy) and Google’s page on “[How Google uses data when you use our partners’ sites or apps.](http://www.google.com/policies/privacy/partners)” You may download the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) for each web browser you use, but this does not prevent the use of other analytics tools. To learn more about Google Analytics cookies, visit [Google Analytics Cookie Usage on Websites](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage).
 
 When users visit Sanity.io they may choose to opt-in to seeing advertising about Sanity elsewhere on the internet. Sanity uses Google Marketing Services to allow more targeted ads for our website on sites using Google Display Network and Google Search Ads. The user data is processed pseudonymously by Google Marketing Services.
@@ -338,6 +345,17 @@ The categories of third parties to whom we disclose Personal Information for a b
 
 We do not knowingly sell or share the Personal Information of minors under the age of 16.
 
+| Categories of Personal Information We Collect | Categories of Third Parties to Whom We Sell or Share Personal Information |
+| --- | --- |
+| Identifiers | Analytics and remarketing companies |
+| Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)) | We do not sell or share this category of Personal Information |
+| Protected classification characteristics under California or federal law | We do not sell or share this category of Personal Information |
+| Commercial information | We do not sell or share this category of Personal Information |
+| Geolocation data | We do not sell or share this category of Personal Information |
+| Internet or other similar network activity | Analytics and remarketing companies |
+| Inferences drawn from other personal information | We do not sell or share this category of Personal Information |
+| Professional or employment-related information | We do not sell or share this category of Personal Information |
+
 We will retain each category of your Personal Information only for as long as necessary to fulfill the purposes described in Section 2.1 above, unless otherwise required by applicable laws. We consider the following criteria to determine how long we will retain your Personal Information including whether: we need your Personal Information to provide you with the services you requested; we continue to have a business relationship with you; you have requested information or services from us; we have a legal right or obligation to continue to retain your Personal Information; we have an obligation to a third party that involves your Personal Information; our retention or recordkeeping policies and obligations dictate that we retain your Personal Information; we have an interest in providing you with information about our services; and we have another business purpose for retaining your Personal Information.
 
 **2.7 Individuals located in the EU, EFA and UK**
@@ -366,6 +384,17 @@ If your inquiry with us has not been satisfactorily addressed, or if you believe
 **2.8 Your Privacy Rights**
 
 Subject to certain limitations such as exceptions permitted by applicable law and verification of your identity, you may exercise the following privacy rights:
+
+| Privacy Right | Description |
+| --- | --- |
+| Notice | The right to be notified of what categories of personal data will be collected at or before the point of collection and the purposes for which they will be used and shared. |
+| Access | The right to request the categories of personal data that we collected in the previous twelve (12) months, the categories of sources from which the personal data was collected, the specific pieces of Personal Information or personal data we have collected about you, and the business purposes for which such personal data is collected and shared. |
+| Erasure | The right to have your personal data deleted, subject to applicable exceptions. |
+| Data Portability | The right to receive copies of your personal data that we have collected in a commonly used and machine-readable format. |
+| Restriction of Processing / Right to Object | The right to restrict us from or object to our processing your personal data in specified circumstances. |
+| Correction / Rectification | The right to request that we correct any incorrect personal data that we collect or retain about you, subject to certain exceptions. Once we receive and confirm your verifiable consumer request (see below), we will correct (and direct any of our service providers that hold your data on our behalf to correct) your personal data from our records, unless an exception applies. |
+| Automated Decision Making | The right to request information about the logic involved in automated decision-making and a description of the likely outcome of processes, and the right to opt out. Sanity does not currently engage in any automated decision-making practices. |
+| Opt Out of Sale Sharing | The right to opt out of the sale or sharing of personal data. |
 
 Shine the Light. Pursuant to California Civil Code Section 1798.83, if you are a California resident, you have the right to obtain: (a) a list of all third parties to whom we may have disclosed your personal information the past year for direct marketing purposes, and (b) a description of the categories of personal information disclosed, by contacting us at [privacy@sanity.io.](mailto:privacy@sanity.io.)
 
