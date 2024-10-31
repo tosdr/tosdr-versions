@@ -55,6 +55,8 @@ Back
 * [Middle School](https://sphero.com/collections/middle-school)
 * [High School](https://sphero.com/collections/high-school)
 
+* [Shop Holiday Gifts](https://sphero.com/pages/the-sphero-holiday-gift-guide)
+
 * [Shop All](https://sphero.com/collections/all)
 
 Back
@@ -168,6 +170,8 @@ Cart/Quote](https://sphero.com/cart)
     * [Elementary](https://sphero.com/collections/elementary)
     * [Middle School](https://sphero.com/collections/middle-school)
     * [High School](https://sphero.com/collections/high-school)
+    
+    * [Shop Holiday Gifts](https://sphero.com/pages/the-sphero-holiday-gift-guide)
     
     * [Shop All](https://sphero.com/collections/all)
 * [Educator Resources](https://sphero.com/pages/educators)
