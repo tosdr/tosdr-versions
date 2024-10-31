@@ -99,6 +99,18 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/411/dumb-ahh-pumpkin-explainer.jpg "What's The 'Dumb Ahh Pumpkin' Meme? The Silly TikTok Jack-O'-Lanterns You're Bound To See On Halloween Explained")
+    
+    What's The 'Dumb Ahh Pumpkin' Meme? The Silly TikTok Jack-O'-Lanterns You're Bound To See On Halloween Explained](https://knowyourmeme.com/editorials/guides/whats-the-dumb-ahh-pumpkin-meme-the-silly-tiktok-jack-o-lanterns-youre-bound-to-see-on-halloween-explained)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/410/fbe.jpg "What's The Correct Answer For The 6÷2(1+2) Equation? The Viral 'Math Bait' Meme Explained")
+    
+    What's The Correct Answer For The 6÷2(1+2) Equation? The Viral 'Math Bait' Meme Explained](https://knowyourmeme.com/editorials/guides/whats-the-correct-answer-for-the-6212-equation-the-viral-math-bait-meme-explained)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/409/maxresdefault.jpg "Who Are 'Jinky Minus' And 'Gaper Bingzoid'? A Pair Of Bizarre New 'Star Wars' Characters Explained")
+    
+    Who Are 'Jinky Minus' And 'Gaper Bingzoid'? A Pair Of Bizarre New 'Star Wars' Characters Explained](https://knowyourmeme.com/editorials/guides/who-are-jinky-minus-and-gaper-bingzoid-a-pair-of-bizarre-new-star-wars-characters-explained)
+    
 * [!['I'll Build My Own Wall' Comic Gets Lampooned In Memes](https://i.kym-cdn.com/featured_items/icons/wide/000/026/408/wall.jpg "'I'll Build My Own Wall' Comic Gets Lampooned In Memes")
     
     'I'll Build My Own Wall' Comic Gets Lampooned In Memes](https://knowyourmeme.com/memes/ill-build-my-own-wall)
@@ -107,22 +119,10 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
     
     Sabrina Carpenter Creates New TikTok Trend With Her Live Performance Of 'Juno"](https://knowyourmeme.com/memes/sabrina-carpenter-juno-positions-trend)
     
-* [![The Nettspend Rhonda Situation, also known as I Got Racks Now Rhonda, refers to a DM conversation allegedly held between rapper Nettspend and a girl named Rhonda Moore who goes by @rhondagdk on Instagram. In October 2024, Rhonda posted an Instagram story that was a screen recording allegedly of her messages with Nettspend from his official account. The two were seemingly flirting and, at one point, Nettspend messaged her, "I got racks now Rhonda." Rhonda's story was later reposted to Twitter / X along with photos from her Instagram. Fans of Nettspend and underground rap found the ordeal funny because of Rhonda's appearance. Many thought that Nettspend was out of Rhonda's league and the idea of the two being romantically involved at some point seemed absurd. Others joked about how Rhonda texted which involved intentional misspellings like how she replaced vowels with the letter "X" (like using "dxddy" instead of "daddy") or spelled "you" like "yhu." As the story developed, Nettspend started to embrace the situation by tweeting, "I got racks now Rhonda" and saying the catchphrase on stage at a concert.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/406/NETTSPEND-RHONDA.jpg "Rapper Nettspend's Alleged Side Chick Exposed Their Messages In Which He Told Her, 'I Got Racks Now Rhonda'")
-    
-    Rapper Nettspend's Alleged Side Chick Exposed Their Messages In Which He Told Her, 'I Got Racks Now Rhonda'](https://knowyourmeme.com/memes/events/nettspend-rhonda-situation-i-got-racks-now-rhonda)
-    
-* [![White Man In A Kimono also known as *WMAF In Kimonos* refers to an image of a white man and an Asian woman posing together at a shrine in Japan while wearing Japanese-style kimonos. The image is often used to joke about Japanophiles or weebs, mocking their decision to use Japanese terms for certain anime and manga, and otherwise display their knowledge of Japanese culture.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/405/white_man_japanese_wife.jpg "This White Guy Is A Kimono Has Somehow Become The Posterboy For The Pretentious Japanophile")
-    
-    This White Guy Is A Kimono Has Somehow Become The Posterboy For The Pretentious Japanophile](https://knowyourmeme.com/memes/white-man-in-a-kimono)
-    
-* [![Napoleo meme next to Matt Rose tweet](https://i.kym-cdn.com/featured_items/icons/wide/000/026/404/522.jpg "YouTuber 'Matt Rose' Forces The 'Napoleo' Meme For His Latest video")
-    
-    YouTuber 'Matt Rose' Forces The 'Napoleo' Meme For His Latest video](https://knowyourmeme.com/memes/napoleo)
-    
 
 ##### Also Trending:
 
-[Man, HRT Sure Is Amazing](https://knowyourmeme.com/memes/man-hrt-sure-is-amazing "Man, HRT Sure Is Amazing") [Dragon Age Veilguard Reviews Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-reviews-controversy "Dragon Age Veilguard Reviews Controversy") [India Cow Poop War](https://knowyourmeme.com/memes/events/india-poop-war-pidakala-war "India Cow Poop War") [Luce the Vatican's Anime Mascot](https://knowyourmeme.com/memes/luce-the-vaticans-anime-mascot "Luce the Vatican's Anime Mascot")
+[Dragon Age Veilguard Reviews Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-reviews-controversy "Dragon Age Veilguard Reviews Controversy") [India Cow Poop War](https://knowyourmeme.com/memes/events/india-poop-war-pidakala-war "India Cow Poop War") [Luce the Vatican's Anime Mascot](https://knowyourmeme.com/memes/luce-the-vaticans-anime-mascot "Luce the Vatican's Anime Mascot") [P---s Gnome](https://knowyourmeme.com/memes/penis-gnome "P---s Gnome")
 
 Privacy Policy
 ==============
@@ -318,7 +318,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Namaste! You must login or signup first!
+### Hello! You must login or signup first!
 
 |     |     |
 | --- | --- |
