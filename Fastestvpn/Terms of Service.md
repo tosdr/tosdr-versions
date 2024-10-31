@@ -310,10 +310,10 @@ Don't miss out!
 * [USA VPN](https://fastestvpn.com/server-locations/usa-vpn "USA VPN")
 * [UK VPN](https://fastestvpn.com/server-locations/uk-vpn "UK VPN")
 * [Germany VPN](https://fastestvpn.com/server-locations/germany-vpn "Germany VPN")
-* Australia VPN
+* [Australia VPN](https://fastestvpn.com/server-locations/australia-vpn "Australia VPN")
 * [France VPN](https://fastestvpn.com/server-locations/france-vpn "France VPN")
 * [Singapore VPN](https://fastestvpn.com/server-locations/singapore-vpn "Singapore VPN")
-* Luxembourg VPN
+* [Luxembourg VPN](https://fastestvpn.com/server-locations/luxembourg-vpn "Luxembourg VPN")
 * [Netherlands VPN](https://fastestvpn.com/server-locations/netherlands-vpn "Netherlands VPN")
 * [Canada VPN](https://fastestvpn.com/server-locations/canada-vpn "Fastest VPN for Canada")
 * [Sweden VPN](https://fastestvpn.com/server-locations/sweden-vpn "Fastest VPN for Sweden")
