@@ -122,8 +122,6 @@ Enter Search Term  ![Search](/profiles/dhsd8_gov/themes/custom/dhs_uswds_subthem
     
     [Operation Allies Welcome](https://www.dhs.gov/allieswelcome)
     
-    [Recognizing DHS Excellence](https://www.dhs.gov/recognizing-dhs-excellence)
-    
     [Securing the Border](https://www.dhs.gov/immigrationlaws)
     
     [Uniting for Ukraine](https://www.dhs.gov/ukraine)
