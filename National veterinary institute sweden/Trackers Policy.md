@@ -1283,6 +1283,7 @@ Gå direkt till :
             * [Veterinär med intresse för infektionssjukdomar hos fjäderfä](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/veterinar-med-intresse-for-infektionssjukdomar-hos-fjaderfa/)
             * [Lokalplanerare](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/lokalplanerare/)
             * [Laboratorieingenjör, BMA eller Mikrobiolog](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/laboratorieingenjor-bma-eller-mikrobiolog/)
+            * [Registrator](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/registrator/)
         * [SVA som arbetsplats](https://www.sva.se/om-oss/arbeta-hos-oss/sva-som-arbetsplats/)
         * [Möt våra medarbetare](https://www.sva.se/om-oss/arbeta-hos-oss/mot-vara-medarbetare/)[](#)
             * [Ylva, mikrobiolog](https://www.sva.se/om-oss/arbeta-hos-oss/mot-vara-medarbetare/ylva-mikrobiolog/)
