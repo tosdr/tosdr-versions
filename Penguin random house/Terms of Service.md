@@ -22,19 +22,19 @@ Audio
 
 * * *
 
+* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
+    
+    Browse All Our Lists, Essays, and Interviews
+    
+    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
+
+* * *
+
 * [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/10181536/PRH_Site_1200x628_OCT2024.jpg)
     
     New Releases
     
     Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
-
-* * *
-
-* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/09/26151432/PRH_New-Audio_site_1200x626_Oct2024.jpg)
-    
-    New Stories to Listen to
-    
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
 
 * <
     
@@ -517,8 +517,6 @@ Consistent with the Digital Millennium Copyright Act, if you believe that your c
 Our designated agent for notice for claims of copyright infringement can be reached as follows: By mail: Penguin Random House LLC, Legal Department/DMCA Notices, 1745 Broadway, New York, NY 10019. By phone: (212) 366-2652. By email: [copyrightagent@penguinrandomhouse.com](mailto:copyrightagent@penguinrandomhouse.com).
 
 NOTE: THE ABOVE CONTACT INFORMATION IS PROVIDED EXCLUSIVELY FOR NOTIFYING PRH THAT YOUR COPYRIGHTED MATERIAL MAY HAVE BEEN INFRINGED. ALL OTHER INQUIRIES, (_e.g._, REQUESTS FOR TECHNICAL ASSISTANCE OR CUSTOMER SERVICE, REPORTS OF EMAIL ABUSE, AND PIRACY REPORTS), WILL NOT RECEIVE A RESPONSE THROUGH THIS PROCESS AND SHOULD BE DIRECTED TO OUR CUSTOMER SERVICE GROUP VIA EMAIL TO [ECUSTOMERSERVICE@PENGUINRANDOMHOUSE.COM](mailto:ecustomerservice@penguinrandomhouse.com). WHILE PRH WILL TRY TO ANSWER ALL CUSTOMER SERVICE INQUIRIES, WE CANNOT GUARANTEE SUCH RESPONSE.
-
-[Back to Top](#top)
 
 [BECOME A BOOK EXPERT 📚](https://www.penguinrandomhouse.com/subscribe/)
 
