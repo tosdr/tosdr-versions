@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/2024.08.26-OIS-Farwell-Washtenaw-326x245.jpg)](https://cwbchicago.com/2024/10/charges-filed-in-weekend-shooting-and-police-shoot-out-on-far-north-side-hate-crime-not-alleged.html "Charges filed in weekend shooting and police shoot-out on Far North Side; hate crime not alleged")
+
+West Rogers Park
+
+### [Charges filed in weekend shooting and police shoot-out on Far North Side; hate crime not alleged](https://cwbchicago.com/2024/10/charges-filed-in-weekend-shooting-and-police-shoot-out-on-far-north-side-hate-crime-not-alleged.html "Charges filed in weekend shooting and police shoot-out on Far North Side; hate crime not alleged")
+
+[October 28, 2024 6:46 PM](https://cwbchicago.com/2024/10)
+
+A 22-year-old gunman shot a 39-year-old Jewish man without saying a word as the victim walked to synagogue on Saturday morning, officials said as they announced charges in the case. Sidi Mohamed Abdallahi is charged with six counts of attempted murder and eight additional felonies, but the charges do not include hate crime.[](https://cwbchicago.com/2024/10/charges-filed-in-weekend-shooting-and-police-shoot-out-on-far-north-side-hate-crime-not-alleged.html "Charges filed in weekend shooting and police shoot-out on Far North Side; hate crime not alleged")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/1200-block-south-prairie-chicago-map-326x245.jpg)](https://cwbchicago.com/2024/10/woman-found-dead-beside-severed-foot-in-stairwell-of-south-loop-luxury-high-rise-cpd-doc.html "Woman found dead beside severed foot in stairwell of South Loop luxury high-rise: CPD doc")
 
 South Loop
@@ -262,16 +272,6 @@ West Garfield Park
 [October 28, 2024 4:29 AM](https://cwbchicago.com/2024/10)
 
 Two men will be in court later today to face charges that they physically attacked Chicago police officers outside at a memorial service on the West Side this weekend.[](https://cwbchicago.com/2024/10/two-charged-with-attacking-cops-outside-west-side-memorial-service.html "Two charged with attacking cops outside memorial service")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Leighton-326x245.jpg)](https://cwbchicago.com/2024/10/which-judges-should-you-vote-to-keep-in-office-heres-some-info-to-help-you-decide.html "Which judges should you vote to keep in office? Here’s some info to help you decide")
-
-Citywide
-
-### [Which judges should you vote to keep in office? Here’s some info to help you decide](https://cwbchicago.com/2024/10/which-judges-should-you-vote-to-keep-in-office-heres-some-info-to-help-you-decide.html "Which judges should you vote to keep in office? Here’s some info to help you decide")
-
-[October 27, 2024 8:19 PM](https://cwbchicago.com/2024/10)
-
-Here is some information to help you decide how to vote when you see these judges’ names on your ballot.[](https://cwbchicago.com/2024/10/which-judges-should-you-vote-to-keep-in-office-heres-some-info-to-help-you-decide.html "Which judges should you vote to keep in office? Here’s some info to help you decide")
 
 Search
 
