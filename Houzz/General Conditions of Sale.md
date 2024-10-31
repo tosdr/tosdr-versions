@@ -525,37 +525,37 @@ Looking for the perfect gift? Send a [Houzz Gift Card!](https://www.houzz.com/gi
 
 Cancel
 
-[Holiday Shop Sale](https://www.houzz.com/sales)
+[Lighting Sale Sale](https://www.houzz.com/sales)
 
 [ON SALE - UP TO 75% OFF](https://www.houzz.com/sales)
 
 [Bathroom Vanities](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles/on-sale)[Chandeliers](https://www.houzz.com/products/chandeliers/on-sale)[Bar Stools](https://www.houzz.com/products/bar-stools-and-counter-stools/on-sale)[Pendant Lights](https://www.houzz.com/products/pendant-lighting/on-sale)[Rugs](https://www.houzz.com/products/rugs/on-sale)[Living Room Chairs](https://www.houzz.com/products/chairs/on-sale)[Dining Room Furniture](https://www.houzz.com/products/kitchen-and-dining-furniture/on-sale)[Wall Lighting](https://www.houzz.com/products/wall-lighting/on-sale)[Coffee Tables](https://www.houzz.com/products/coffee-tables/on-sale)[Side & End Tables](https://www.houzz.com/products/side-tables-and-accent-tables/on-sale)[Home Office Furniture](https://www.houzz.com/products/home-office-furniture/on-sale)[Sofas](https://www.houzz.com/products/sofas/on-sale)[Bedroom Furniture](https://www.houzz.com/products/bedroom-furniture/on-sale)[Lamps](https://www.houzz.com/products/lamps/on-sale)[Mirrors](https://www.houzz.com/products/mirrors/on-sale)
 
-[Holiday Shop](https://www.houzz.com/sales)
+[Lighting Sale](https://www.houzz.com/sales)
 
-[![Gifts for Him](https://st.hzcdn.com/fimgs/f711cfa3071a155c_2652-w150-h150-b0-p0--home-design.jpg)
+[![Bathroom Lighting and Decor](https://st.hzcdn.com/fimgs/5231c689072304ea_8267-w150-h150-b0-p0--home-design.jpg)
 
-GIFT GUIDE
+UP TO 70% OFF
 
-Gifts for Him](https://www.houzz.com/ideabooks/55692261) 
+Bathroom Lighting and Decor](https://www.houzz.com/ideabooks/163386486) 
 
-[![Gifts for Her](https://st.hzcdn.com/fimgs/c661d89d071a1556_2646-w150-h150-b0-p0--home-design.jpg)
+[![Bestselling Pendants](https://st.hzcdn.com/fimgs/1bc164e8072304e9_8266-w150-h150-b0-p0--home-design.jpg)
 
-GIFT GUIDE
+UP TO 75% OFF
 
-Gifts for Her](https://www.houzz.com/ideabooks/55947209) 
+Bestselling Pendants](https://www.houzz.com/ideabooks/177513226) 
 
-[![Gifts for the Entertainer](https://st.hzcdn.com/fimgs/ea91023a071a155a_2650-w150-h150-b0-p0--home-design.jpg)
+[![The Ultimate Lighting Sale](https://st.hzcdn.com/fimgs/429156ed072304e8_8264-w150-h150-b0-p0--home-design.jpg)
 
-GIFT GUIDE
+UP TO 75% OFF
 
-Gifts for the Entertainer](https://www.houzz.com/ideabooks/113304747) 
+The Ultimate Lighting Sale](https://www.houzz.com/ideabooks/177566844) 
 
-[![Gifts for the Home](https://st.hzcdn.com/fimgs/7261c2a5071a155d_2654-w150-h150-b0-p0--home-design.jpg)
+[![Chandeliers With Free Shipping](https://st.hzcdn.com/fimgs/c701b82e072304e3_8260-w150-h150-b0-p0--home-design.jpg)
 
-GIFT GUIDE
+UP TO 65% OFF
 
-Gifts for the Home](https://www.houzz.com/ideabooks/141527221) 
+Chandeliers With Free Shipping](https://www.houzz.com/ideabooks/178459454) 
 
 [![Shop Promo Banner](https://st.hzcdn.com/fimgs/bcb138d0071a187d_3456-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/sales) 
 
