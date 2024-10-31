@@ -104,8 +104,8 @@ Integrate with your server
 Integrate Smart Signals
 -----------------------
 
-* [Smart Signals Overview](https://dev.fingerprintjs.com/docs/smart-signals-overview)
-* [Smart Signals Cheat Sheet](https://dev.fingerprintjs.com/docs/smart-signals-cheat-sheet)
+* [Smart Signals Introduction](https://dev.fingerprintjs.com/docs/smart-signals-introduction)
+* [Smart Signals Reference](https://dev.fingerprintjs.com/docs/smart-signals-reference)
 * [Suspect Score](https://dev.fingerprintjs.com/docs/suspect-score)
 * [Browser Bot Detection](https://dev.fingerprintjs.com/docs/bot-detection-quick-start-guide)
 
