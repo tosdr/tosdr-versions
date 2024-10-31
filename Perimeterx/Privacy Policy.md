@@ -1,10 +1,10 @@
 <img src="https://pixel62ce5556d21c1d3.advangelists.com/v1/audiences?account\_id=488&amp;segment\_key=62ce5556d21c1d3&amp;vars\[advid\]=2427" width="1" height="1">        
 
-[HUMAN raises $50+ million in growth funding to accelerate the Human Defense Platform expansion.
+[Satori Threat Intelligence Alert: Phish 'n' Ships scheme steals tens of millions from unsuspecting shoppers
 
 Learn more
 
-Learn more](https://www.humansecurity.com/newsroom/platform-expansion-fuel-the-future-of-human)
+Learn more](https://www.humansecurity.com/learn/blog/satori-threat-intelligence-alert-phish-n-ships-fakes-online-shops-to-steal-money-and-credit-card-information)
 
 X
 
@@ -136,17 +136,11 @@ X
             
             [HUMAN Insight and Research from our team](https://www.humansecurity.com/learn/blog)
             
-        * [Case Studies
+        * [Documentation
             
-            See what customers have to say about HUMAN](https://www.humansecurity.com/learn/case-studies)
+            Details about HUMAN's products and interfaces.](https://docs.humansecurity.com/)
             
-            [See what customers have to say about HUMAN](https://www.humansecurity.com/learn/case-studies)
-            
-        * [Webinars
-            
-            Videos and content about HUMAN expertise and industry intelligence](https://www.humansecurity.com/learn/webinars)
-            
-            [Videos and content about HUMAN expertise and industry intelligence](https://www.humansecurity.com/learn/webinars)
+            [Details about HUMAN's products and interfaces.](https://docs.humansecurity.com/)
             
         * [Glossary
             
@@ -160,29 +154,23 @@ X
             
             [Blogs, whitepapers, research, videos, articles—all in one place](https://www.humansecurity.com/learn/resources)
             
-        * [Documentation
+        * [Webinars
             
-            Details about HUMAN's products and interfaces.](https://docs.humansecurity.com/)
+            Videos and content about HUMAN expertise and industry intelligence](https://www.humansecurity.com/learn/webinars)
             
-            [Details about HUMAN's products and interfaces.](https://docs.humansecurity.com/)
+            [Videos and content about HUMAN expertise and industry intelligence](https://www.humansecurity.com/learn/webinars)
+            
+    * * [Case Studies
+            
+            See what customers have to say about HUMAN](https://www.humansecurity.com/learn/case-studies)
+            
+            [See what customers have to say about HUMAN](https://www.humansecurity.com/learn/case-studies)
             
         * [Security
             
             HUMAN's data security & privacy FAQ](https://www.humansecurity.com/data-security-and-privacy-faq)
             
             [HUMAN's data security & privacy FAQ](https://www.humansecurity.com/data-security-and-privacy-faq)
-            
-    * * [Satori Threat Intelligence Research Team
-            
-            HUMAN’s Satori Threat Intelligence and Research Team proactively uncovers and disrupts bot-driven threats.](https://www.humansecurity.com/company/satori-threat-intelligence)
-            
-            [HUMAN’s Satori Threat Intelligence and Research Team proactively uncovers and disrupts bot-driven threats.](https://www.humansecurity.com/company/satori-threat-intelligence)
-            
-        * [Bot Insights
-            
-            Get the insights you need to protect your business from bots](https://www.humansecurity.com/products/human-insights/bot-insights-services)
-            
-            [Get the insights you need to protect your business from bots](https://www.humansecurity.com/products/human-insights/bot-insights-services)
             
     
 * Company
@@ -396,17 +384,11 @@ X
             
             [HUMAN Insight and Research from our team](https://www.humansecurity.com/learn/blog)
             
-        * [Case Studies
+        * [Documentation
             
-            See what customers have to say about HUMAN](https://www.humansecurity.com/learn/case-studies)
+            Details about HUMAN's products and interfaces.](https://docs.humansecurity.com/)
             
-            [See what customers have to say about HUMAN](https://www.humansecurity.com/learn/case-studies)
-            
-        * [Webinars
-            
-            Videos and content about HUMAN expertise and industry intelligence](https://www.humansecurity.com/learn/webinars)
-            
-            [Videos and content about HUMAN expertise and industry intelligence](https://www.humansecurity.com/learn/webinars)
+            [Details about HUMAN's products and interfaces.](https://docs.humansecurity.com/)
             
         * [Glossary
             
@@ -420,29 +402,23 @@ X
             
             [Blogs, whitepapers, research, videos, articles—all in one place](https://www.humansecurity.com/learn/resources)
             
-        * [Documentation
+        * [Webinars
             
-            Details about HUMAN's products and interfaces.](https://docs.humansecurity.com/)
+            Videos and content about HUMAN expertise and industry intelligence](https://www.humansecurity.com/learn/webinars)
             
-            [Details about HUMAN's products and interfaces.](https://docs.humansecurity.com/)
+            [Videos and content about HUMAN expertise and industry intelligence](https://www.humansecurity.com/learn/webinars)
+            
+    * * [Case Studies
+            
+            See what customers have to say about HUMAN](https://www.humansecurity.com/learn/case-studies)
+            
+            [See what customers have to say about HUMAN](https://www.humansecurity.com/learn/case-studies)
             
         * [Security
             
             HUMAN's data security & privacy FAQ](https://www.humansecurity.com/data-security-and-privacy-faq)
             
             [HUMAN's data security & privacy FAQ](https://www.humansecurity.com/data-security-and-privacy-faq)
-            
-    * * [Satori Threat Intelligence Research Team
-            
-            HUMAN’s Satori Threat Intelligence and Research Team proactively uncovers and disrupts bot-driven threats.](https://www.humansecurity.com/company/satori-threat-intelligence)
-            
-            [HUMAN’s Satori Threat Intelligence and Research Team proactively uncovers and disrupts bot-driven threats.](https://www.humansecurity.com/company/satori-threat-intelligence)
-            
-        * [Bot Insights
-            
-            Get the insights you need to protect your business from bots](https://www.humansecurity.com/products/human-insights/bot-insights-services)
-            
-            [Get the insights you need to protect your business from bots](https://www.humansecurity.com/products/human-insights/bot-insights-services)
             
     
 * Company
