@@ -138,7 +138,7 @@ Resource Library
 
 [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
 
-* [Q4 2024 Pulse Webinar](https://www.sectigo.com/resource-library/q4-2024-pulse-webinar)
+* [45-Day TLS: shorter certificate lifespans everywhere](https://www.sectigo.com/resource-library/45-day-tls-shorter-certificate-lifespans-everywhere)
 
 [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
 
@@ -233,7 +233,7 @@ Login
     * [Webinars](https://www.sectigo.com/resource-library/webinars)
     * [Whitepapers](https://www.sectigo.com/resource-library/whitepapers)
     * [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
-    * [Q4 2024 Pulse Webinar](https://www.sectigo.com/resource-library/q4-2024-pulse-webinar)
+    * [45-Day TLS: shorter certificate lifespans everywhere](https://www.sectigo.com/resource-library/45-day-tls-shorter-certificate-lifespans-everywhere)
     * [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
     * [Root Causes 436: Formal Proofs](https://www.sectigo.com/resource-library/root-causes-436-formal-proofs)
     * [Root Causes 435: The PQC "Q Day" Is Not That Simple](https://www.sectigo.com/resource-library/root-causes-435-the-pqc-q-day-is-not-that-simple)
