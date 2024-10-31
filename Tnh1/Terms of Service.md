@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Sexta edição da Feira Minha Casa Própria tem imóveis a partir de R$ 196 mil](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/8/csm_Casa_Propria_8522c1dabc.jpg)
+   [![Cemitérios de Maceió terão programação religiosa durante o Dia de Finados](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/0/csm_02-11-22-Finados-cemiterio-Nossa-Senhora-da-Piedade-e-Sao-Jose-SUDES-foto-Barbara-Wanderley-01_c07b76d377.jpg)
+
+próximo sábado
+
+Cemitérios de Maceió terão programação religiosa durante o Dia de Finados](https://www.tnh1.com.br/noticia/nid/cemiterios-de-maceio-terao-programacao-religiosa-durante-o-dia-de-finados/ "Cemitérios de Maceió terão programação religiosa durante o Dia de Finados")   [![Homem é preso após agredir vizinho na cabeça com uma barra de ferro durante discussão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/a/csm_csm_fachada_DHPP_d3081f9902__1__6cdcc18f4c.jpeg)
+
+No Tabuleiro
+
+Homem é preso após agredir vizinho na cabeça com uma barra de ferro durante discussão](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-agredir-vizinho-na-cabeca-com-uma-barra-de-ferro-durante-discussao/ "Homem é preso após agredir vizinho na cabeça com uma barra de ferro durante discussão")   [![Vídeos: incêndio de grandes proporções é registrado em vegetação na Ladeira do Bonfim](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/7/csm_incendio_ladeira_do_bonfim_88605217ab.jpg)
+
+EM MACEIÓ
+
+Vídeos: incêndio de grandes proporções é registrado em vegetação na Ladeira do Bonfim](https://www.tnh1.com.br/noticia/nid/videos-incendio-de-grandes-proporcoes-e-registrado-em-vegetacao-na-ladeira-do-bonfim/ "Vídeos: incêndio de grandes proporções é registrado em vegetação na Ladeira do Bonfim")   [![Motorista de caminhão de lixo que atropelou gari é indiciado por homicídio culposo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/8/csm_gari_foi_atropelado_morre_em_maceio_-_foto_reproducao_video_fa81bfb410.jpg)
+
+caso de julho
+
+Motorista de caminhão de lixo que atropelou gari é indiciado por homicídio culposo](https://www.tnh1.com.br/noticia/nid/motorista-de-caminhao-de-lixo-que-atropelou-gari-e-indiciado-por-homicidio-culposo/ "Motorista de caminhão de lixo que atropelou gari é indiciado por homicídio culposo")   [![Sexta edição da Feira Minha Casa Própria tem imóveis a partir de R$ 196 mil](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/8/csm_Casa_Propria_8522c1dabc.jpg)
 
 série de vantagens
 
-Sexta edição da Feira Minha Casa Própria tem imóveis a partir de R$ 196 mil](https://www.tnh1.com.br/noticia/nid/sexta-edicao-da-feira-minha-casa-propria-tem-imoveis-a-partir-de-r-196-mil/ "Sexta edição da Feira Minha Casa Própria tem imóveis a partir de R$ 196 mil")   [![Furto de cabos paralisa abastecimento d'água no Farol e três outros bairros de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/5/csm_Furto_de_cabos_paralisa_abastecimento_do_Farol_e_tres_outros_bairros_de_Maceio_-_foto_Casal_622da3b2db.jpeg)
+Sexta edição da Feira Minha Casa Própria tem imóveis a partir de R$ 196 mil](https://www.tnh1.com.br/noticia/nid/sexta-edicao-da-feira-minha-casa-propria-tem-imoveis-a-partir-de-r-196-mil/ "Sexta edição da Feira Minha Casa Própria tem imóveis a partir de R$ 196 mil")   [![Furto de cabos paralisa abastecimento d'água no Farol e três outros bairros de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/5/csm_Furto_de_cabos_paralisa_abastecimento_do_Farol_e_tres_outros_bairros_de_Maceio_-_foto_Casal_622da3b2db.jpeg)
 
 vandalismo
 
-Furto de cabos paralisa abastecimento d'água no Farol e três outros bairros de Maceió](https://www.tnh1.com.br/noticia/nid/furto-de-cabos-paralisa-abastecimento-dagua-no-farol-e-tres-outros-bairros-de-maceio/ "Furto de cabos paralisa abastecimento d'água no Farol e três outros bairros de Maceió")   [![Emprega Maceió: empresas estão recebendo currículos e realizando processos seletivos no Centro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/3/csm_emprega_maceio_foto_beto_macerio_secom_maceio_e1cca74918.jpeg)
-
-até 14 de novembro
-
-Emprega Maceió: empresas estão recebendo currículos e realizando processos seletivos no Centro](https://www.tnh1.com.br/noticia/nid/emprega-maceio-empresas-estao-recebendo-curriculos-e-realizando-processos-seletivos-no-centro/ "Emprega Maceió: empresas estão recebendo currículos e realizando processos seletivos no Centro")   [![Caminhão perde freio, derruba poste, bate em carro e invade casa no Benedito Bentes](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/7/csm_Caminhao_derruba_poste__bate_em_carro_e_invade_casa_no_Benedito_Bentes_-_foto_Reproducao_TV_Pajucara_7a4937b1f8.jpg)
-
-veja imagens
-
-Caminhão perde freio, derruba poste, bate em carro e invade casa no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/caminhao-perde-freio-derruba-poste-bate-em-carro-e-invade-casa-no-benedito-bentes/ "Caminhão perde freio, derruba poste, bate em carro e invade casa no Benedito Bentes")   [![Linhas de ônibus serão reforçadas nos dias de Enem; confira itinerários](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/7/csm_03-10-22-Onibus-Geladao-SMTT-7_3fc6b79c39.jpg)
-
-Trânsito
-
-Linhas de ônibus serão reforçadas nos dias de Enem; confira itinerários](https://www.tnh1.com.br/noticia/nid/linhas-de-onibus-serao-reforcadas-nos-dias-de-enem-confira-itinerarios/ "Linhas de ônibus serão reforçadas nos dias de Enem; confira itinerários")   [![Curto-circuito deixa campus da Uneal em Maceió sem luz e aulas são suspensas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/a/csm_uneal_maceio_e13f289a35.png)
-
-campus maceió
-
-Curto-circuito deixa campus da Uneal em Maceió sem luz e aulas são suspensas](https://www.tnh1.com.br/noticia/nid/curto-circuito-deixa-campus-da-uneal-em-maceio-sem-luz-e-aulas-sao-suspensas/ "Curto-circuito deixa campus da Uneal em Maceió sem luz e aulas são suspensas")
+Furto de cabos paralisa abastecimento d'água no Farol e três outros bairros de Maceió](https://www.tnh1.com.br/noticia/nid/furto-de-cabos-paralisa-abastecimento-dagua-no-farol-e-tres-outros-bairros-de-maceio/ "Furto de cabos paralisa abastecimento d'água no Farol e três outros bairros de Maceió")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Curto-circuito deixa campus da Uneal em Maceió sem luz e aulas são suspensas](
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Governador de Alagoas anuncia antecipação dos salários de outubro para esta quarta-feira (30) ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_governador-anuncia-antecipacao-dos-salarios-de-outubro-para-esta-quarta-feira_4dc8dbd6a8.jpg)
+   [![BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/3/csm_BKR_cafe__1__d8f6b6c1ba.jpeg)
+
+Alagoas
+
+BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região](https://www.tnh1.com.br/noticia/nid/brk-reune-jornalistas-para-apresentar-dados-sobre-saneamento-em-maceio-e-regiao/ "BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região ")   [![Governador de Alagoas anuncia antecipação dos salários de outubro para esta quarta-feira (30) ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_governador-anuncia-antecipacao-dos-salarios-de-outubro-para-esta-quarta-feira_4dc8dbd6a8.jpg)
 
 Atenção, Servidores
 
-Governador de Alagoas anuncia antecipação dos salários de outubro para esta quarta-feira (30)](https://www.tnh1.com.br/noticia/nid/governador-de-alagoas-anuncia-antecipacao-dos-salarios-de-outubro-para-esta-quarta-feira-30/ "Governador de Alagoas anuncia antecipação dos salários de outubro para esta quarta-feira (30) ")   [![Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/f/csm_detran-alagoas-abre-1-800-vagas-extras-para-candidatos-retardatarios-a-1-carteira-de-habilitacao_-_foto_Felipe_Yuri_-_Ascom_Detran_23a301c9b1.jpg)
+Governador de Alagoas anuncia antecipação dos salários de outubro para esta quarta-feira (30)](https://www.tnh1.com.br/noticia/nid/governador-de-alagoas-anuncia-antecipacao-dos-salarios-de-outubro-para-esta-quarta-feira-30/ "Governador de Alagoas anuncia antecipação dos salários de outubro para esta quarta-feira (30) ")   [![Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/f/csm_detran-alagoas-abre-1-800-vagas-extras-para-candidatos-retardatarios-a-1-carteira-de-habilitacao_-_foto_Felipe_Yuri_-_Ascom_Detran_23a301c9b1.jpg)
 
 Alagoas
 
-Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação](https://www.tnh1.com.br/noticia/nid/detran-abre-1800-vagas-extras-para-candidatos-retardatarios-a-1a-carteira-de-habilitacao/ "Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação")   [![Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/4/csm_bombeiros_praia_f83e90bc23.png)
+Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação](https://www.tnh1.com.br/noticia/nid/detran-abre-1800-vagas-extras-para-candidatos-retardatarios-a-1a-carteira-de-habilitacao/ "Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação")   [![Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/4/csm_bombeiros_praia_f83e90bc23.png)
 
 Alagoas
 
-Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/bombeiros-salvam-dois-turistas-vitimas-de-afogamento-na-praia-do-frances/ "Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês")   [![Inmet alerta para baixa umidade em 11 cidades de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/d/csm_csm_csm_CALOR-Pixabay_31e7dfd61d_25ebb1510f__2__af39c3df30.jpg)
+Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/bombeiros-salvam-dois-turistas-vitimas-de-afogamento-na-praia-do-frances/ "Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês")   [![Inmet alerta para baixa umidade em 11 cidades de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/d/csm_csm_csm_CALOR-Pixabay_31e7dfd61d_25ebb1510f__2__af39c3df30.jpg)
 
 Veja instruções
 
-Inmet alerta para baixa umidade em 11 cidades de Alagoas](https://www.tnh1.com.br/noticia/nid/inmet-alerta-para-baixa-umidade-em-11-cidades-de-alagoas/ "Inmet alerta para baixa umidade em 11 cidades de Alagoas")   [![Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo Santana ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/0/csm_arapiraca_divulgacao_aeba48f94e.jpeg)
+Inmet alerta para baixa umidade em 11 cidades de Alagoas](https://www.tnh1.com.br/noticia/nid/inmet-alerta-para-baixa-umidade-em-11-cidades-de-alagoas/ "Inmet alerta para baixa umidade em 11 cidades de Alagoas")   [![Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo Santana ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/0/csm_arapiraca_divulgacao_aeba48f94e.jpeg)
 
 centenário
 
-Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo Santana](https://www.tnh1.com.br/noticia/nid/arapiraca-celebra-100-anos-com-grande-programacao-shows-terao-alok-e-leo-santana/ "Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo Santana ")   [![Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/3/csm_Semarh-previsao-reproducao_1f817958fe.png)
-
-Meteorologia
-
-Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-alagoas-nesta-terca-feira-29/ "Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)")
+Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo Santana](https://www.tnh1.com.br/noticia/nid/arapiraca-celebra-100-anos-com-grande-programacao-shows-terao-alok-e-leo-santana/ "Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo Santana ")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)](https://www.tnh
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Veja o que falta para a polícia concluir inquérito sobre perseguição e morte de adolescentes em Colônia Leopoldina](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/3/csm_csm_adolescentes-mortos-perseguicao-reproducao-arquivo-pessoal_f95a84687a_6746866b54.jpg)
+   [![Morador de Maceió suspeito de fazer sexo com cadelas e galinhas é denunciado à justiça ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/d/csm_galinha_freepik_591ba85589.png)
 
-Investigações
+crime de zoofilia
 
-Veja o que falta para a polícia concluir inquérito sobre perseguição e morte de adolescentes em Colônia Leopoldina](https://www.tnh1.com.br/noticia/nid/veja-o-que-falta-para-a-policia-concluir-inquerito-sobre-perseguicao-e-morte-de-adolescentes-em-colonia-leopoldina/ "Veja o que falta para a polícia concluir inquérito sobre perseguição e morte de adolescentes em Colônia Leopoldina")   [![Foragido é preso por matar homem a pedradas e apagar cigarro de maconha no sangue dele](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/3/csm_foragido-matar-cigarro-Junqueiro_756076d70d.jpg)
+Morador de Maceió suspeito de fazer sexo com cadelas e galinhas é denunciado à justiça](https://www.tnh1.com.br/noticia/nid/morador-de-maceio-suspeito-de-fazer-sexo-com-cadelas-e-galinhas-e-denunciado-a-justica/ "Morador de Maceió suspeito de fazer sexo com cadelas e galinhas é denunciado à justiça ")   [![Irmãs foragidas suspeitas de tentar roubo em van são presas no Sertão alagoano](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/2/csm_irmas_do_crime_5f3826264e.png)
 
-No interior
+Polícia
 
-Foragido é preso por matar homem a pedradas e apagar cigarro de maconha no sangue dele](https://www.tnh1.com.br/noticia/nid/foragido-e-preso-por-matar-homem-a-pedradas-e-apagar-cigarro-de-maconha-no-sangue-dele/ "Foragido é preso por matar homem a pedradas e apagar cigarro de maconha no sangue dele")   [![Suspeito de matar a ex-namorada é localizado e preso em ilha na Lagoa Mundaú](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/1/csm_prisao_ilha_suspeito_matar_namorada_f26445f7ed.jpg)
+Irmãs foragidas suspeitas de tentar roubo em van são presas no Sertão alagoano](https://www.tnh1.com.br/noticia/nid/irmas-foragidas-suspeitas-de-tentar-roubo-em-van-sao-presas-no-sertao-alagoano/ "Irmãs foragidas suspeitas de tentar roubo em van são presas no Sertão alagoano")   [![Homem é preso após agredir vizinho na cabeça com uma barra de ferro durante discussão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/a/csm_csm_fachada_DHPP_d3081f9902__1__6cdcc18f4c.jpeg)
 
-ESTAVA FORAGIDO
+No Tabuleiro
 
-Suspeito de matar a ex-namorada é localizado e preso em ilha na Lagoa Mundaú](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-a-ex-namorada-e-localizado-e-preso-em-ilha-na-lagoa-mundau/ "Suspeito de matar a ex-namorada é localizado e preso em ilha na Lagoa Mundaú")   [![Homem é preso após arrastar esposa para dentro de casa por não querer que ela saísse](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/f/csm_nova_Central_de_Flagrantes_Tabuleiro_foto_ascom_PC_3cb625b68a.jpeg)
+Homem é preso após agredir vizinho na cabeça com uma barra de ferro durante discussão](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-agredir-vizinho-na-cabeca-com-uma-barra-de-ferro-durante-discussao/ "Homem é preso após agredir vizinho na cabeça com uma barra de ferro durante discussão")   [![Vídeo: mulher sofre tentativa de estupro e é agredida com série de socos na porta de casa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/f/csm_mulher-agredida-tentativa-estupro-jacintinho_03a50416af.jpg)
 
-EM MACEIÓ
+no jacintinho
 
-Homem é preso após arrastar esposa para dentro de casa por não querer que ela saísse](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-arrastar-esposa-para-dentro-de-casa-por-nao-querer-que-ela-saisse/ "Homem é preso após arrastar esposa para dentro de casa por não querer que ela saísse")   [![Homem sai de supermercado com produtos dentro da roupa, pula grade, se machuca e é preso](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
+Vídeo: mulher sofre tentativa de estupro e é agredida com série de socos na porta de casa](https://www.tnh1.com.br/noticia/nid/video-mulher-sofre-tentativa-de-estupro-e-e-agredida-com-serie-de-socos-na-porta-de-casa/ "Vídeo: mulher sofre tentativa de estupro e é agredida com série de socos na porta de casa")   [![Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/4/csm_jovem_21_anos_corpo_encontrado_10fe79724c.jpg)
 
-Foi preso
+NO VERGEL
 
-Homem sai de supermercado com produtos dentro da roupa, pula grade, se machuca e é preso](https://www.tnh1.com.br/noticia/nid/homem-sai-de-supermercado-com-produtos-dentro-da-roupa-pula-grade-se-machuca-e-e-preso/ "Homem sai de supermercado com produtos dentro da roupa, pula grade, se machuca e é preso")   [![Dono de pizzaria é preso após agarrar funcionária e tocá-la com a parte íntima](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/2/csm_assedio_ilustracao_pexels_112199b3ee.jpg)
+Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros](https://www.tnh1.com.br/noticia/nid/corpo-de-jovem-de-21-anos-desaparecida-ha-quatro-dias-e-encontrado-com-marcas-de-tiros/ "Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros")   [![Motorista de caminhão de lixo que atropelou gari é indiciado por homicídio culposo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/8/csm_gari_foi_atropelado_morre_em_maceio_-_foto_reproducao_video_fa81bfb410.jpg)
 
-No Antares
+caso de julho
 
-Dono de pizzaria é preso após agarrar funcionária e tocá-la com a parte íntima](https://www.tnh1.com.br/noticia/nid/dono-de-pizzaria-e-preso-apos-agarrar-funcionaria-e-toca-la-com-a-parte-intima/ "Dono de pizzaria é preso após agarrar funcionária e tocá-la com a parte íntima")
+Motorista de caminhão de lixo que atropelou gari é indiciado por homicídio culposo](https://www.tnh1.com.br/noticia/nid/motorista-de-caminhao-de-lixo-que-atropelou-gari-e-indiciado-por-homicidio-culposo/ "Motorista de caminhão de lixo que atropelou gari é indiciado por homicídio culposo")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -115,6 +115,20 @@ Dono de pizzaria é preso após agarrar funcionária e tocá-la com a parte ínt
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
+
+Últimas de Pessoas&Negócios
+
+[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
+
+   [![Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/b/csm_Noah_Verde_234e420532.jpeg)
+
+Pessoas & Negócios
+
+Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](https://www.tnh1.com.br/noticia/nid/noah-verde-gerente-executiva-de-marketing-do-sesi-senai-faz-aniversario/ "Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário")   [![Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_Primeira_dama_SPFW__2__ae4a56b4c2.jpeg)
+
+Pessoas & Negócios
+
+Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -188,7 +202,15 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Mulher pelada invade Palácio do Planalto](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/0/csm_mulher_pelada_palacio_planalto_Lauro_Jardim_5954d8856b.png)
+[![Gisele Bündchen não deve casar com namorado por incompatibilidade financeira](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/3/csm_gisele-namorado-jiu-jutsu_8279a559b0.jpeg)
+
+Entenda
+
+Entenda
+
+Gisele Bündchen não deve casar com namorado por incompatibilidade financeira
+
+Gisele Bündchen não deve casar com namorado por incompatibilidade financeira](https://www.tnh1.com.br/noticia/nid/gisele-buendchen-nao-deve-casar-com-namorado-por-incompatibilidade-financeira/ "Gisele Bündchen não deve casar com namorado por incompatibilidade financeira")[![Mulher pelada invade Palácio do Planalto](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/0/csm_mulher_pelada_palacio_planalto_Lauro_Jardim_5954d8856b.png)
 
 Brasil
 
@@ -212,49 +234,41 @@ No Antares
 
 Dono de pizzaria é preso após agarrar funcionária e tocá-la com a parte íntima
 
-Dono de pizzaria é preso após agarrar funcionária e tocá-la com a parte íntima](https://www.tnh1.com.br/noticia/nid/dono-de-pizzaria-e-preso-apos-agarrar-funcionaria-e-toca-la-com-a-parte-intima/ "Dono de pizzaria é preso após agarrar funcionária e tocá-la com a parte íntima")[![Suspeito de matar a ex-namorada é localizado e preso em ilha na Lagoa Mundaú](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/1/csm_prisao_ilha_suspeito_matar_namorada_21b2b77e21.jpg)
+Dono de pizzaria é preso após agarrar funcionária e tocá-la com a parte íntima](https://www.tnh1.com.br/noticia/nid/dono-de-pizzaria-e-preso-apos-agarrar-funcionaria-e-toca-la-com-a-parte-intima/ "Dono de pizzaria é preso após agarrar funcionária e tocá-la com a parte íntima")
 
-ESTAVA FORAGIDO
+[![Morador de Maceió suspeito de fazer sexo com cadelas e galinhas é denunciado à justiça ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/d/csm_galinha_freepik_82ccef6fe6.png)
 
-ESTAVA FORAGIDO
+crime de zoofilia
 
-Suspeito de matar a ex-namorada é localizado e preso em ilha na Lagoa Mundaú
+crime de zoofilia
 
-Suspeito de matar a ex-namorada é localizado e preso em ilha na Lagoa Mundaú](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-a-ex-namorada-e-localizado-e-preso-em-ilha-na-lagoa-mundau/ "Suspeito de matar a ex-namorada é localizado e preso em ilha na Lagoa Mundaú")
+Morador de Maceió suspeito de fazer sexo com cadelas e galinhas é denunciado à justiça
 
-[![Rogério de Andrade é suspeito de ter ordenado morte de filho e genro de Castor de Andrade](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/a/csm_rogerio_de_andrade1-reproducao-redes-sociais_4683f45b13.jpg)
+Morador de Maceió suspeito de fazer sexo com cadelas e galinhas é denunciado à justiça](https://www.tnh1.com.br/noticia/nid/morador-de-maceio-suspeito-de-fazer-sexo-com-cadelas-e-galinhas-e-denunciado-a-justica/ "Morador de Maceió suspeito de fazer sexo com cadelas e galinhas é denunciado à justiça ")[![Ex-galã de Malhação deixa as ruas e mostra obra de novo bar](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/f/csm_ex-gala_malhacao_Instagram-Daniel_Erthal_438d20e8bf.jpg)
 
-bicheiro carioca
+veja quem é
 
-bicheiro carioca
+veja quem é
 
-Rogério de Andrade é suspeito de ter ordenado morte de filho e genro de Castor de Andrade
+Ex-galã de Malhação deixa as ruas e mostra obra de novo bar
 
-Rogério de Andrade é suspeito de ter ordenado morte de filho e genro de Castor de Andrade](https://www.tnh1.com.br/noticia/nid/rogerio-de-andrade-e-suspeito-de-ter-ordenado-morte-de-filho-e-genro-de-castor-de-andrade/ "Rogério de Andrade é suspeito de ter ordenado morte de filho e genro de Castor de Andrade")[![Homem faz 'casa' em árvore em movimentada avenida de BH e é resgatado após seis horas ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/0/csm_homem-faz-casa-arvore-avenida-reproducao-Estado-de-Minas__1__bcfe42cc0b.jpg)
+Ex-galã de Malhação deixa as ruas e mostra obra de novo bar](https://www.tnh1.com.br/noticia/nid/ex-gala-de-malhacao-deixa-as-ruas-e-mostra-obra-de-novo-bar/ "Ex-galã de Malhação deixa as ruas e mostra obra de novo bar")[![Irmãs foragidas suspeitas de tentar roubo em van são presas no Sertão alagoano](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/2/csm_irmas_do_crime_75df1f2937.png)
 
-EM MG
+Polícia
 
-EM MG
+Polícia
 
-Homem faz 'casa' em árvore em movimentada avenida de BH e é resgatado após seis horas
+Irmãs foragidas suspeitas de tentar roubo em van são presas no Sertão alagoano
 
-Homem faz 'casa' em árvore em movimentada avenida de BH e é resgatado após seis horas](https://www.tnh1.com.br/noticia/nid/homem-faz-casa-em-arvore-em-movimentada-avenida-de-bh-e-e-resgatado-apos-seis-horas/ "Homem faz 'casa' em árvore em movimentada avenida de BH e é resgatado após seis horas ")[![Kate Middleton envia mensagem comovente para atriz que sobreviveu a câncer agressivo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/d/csm_kate-mensagem-cancer-reproducao_8b735e4ff6.jpg)
+Irmãs foragidas suspeitas de tentar roubo em van são presas no Sertão alagoano](https://www.tnh1.com.br/noticia/nid/irmas-foragidas-suspeitas-de-tentar-roubo-em-van-sao-presas-no-sertao-alagoano/ "Irmãs foragidas suspeitas de tentar roubo em van são presas no Sertão alagoano")[![“Megalópolis” e terror sangrento são as estreias da semana, nesta quinta-feira de Halloween](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/3/csm_megalopolis-terrifier-3-slide_d9ae9ca71f.jpg)
 
-estrela indiana
+Cinema
 
-estrela indiana
+Cinema
 
-Kate Middleton envia mensagem comovente para atriz que sobreviveu a câncer agressivo
+“Megalópolis” e terror sangrento são as estreias da semana, nesta quinta-feira de Halloween
 
-Kate Middleton envia mensagem comovente para atriz que sobreviveu a câncer agressivo](https://www.tnh1.com.br/noticia/nid/kate-middleton-envia-mensagem-comovente-para-atriz-que-sobreviveu-a-cancer-agressivo/ "Kate Middleton envia mensagem comovente para atriz que sobreviveu a câncer agressivo")[![Parto em casa é seguro? Veja possíveis riscos e cuidados necessários](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/e/csm_gisele-gravida-professor-luta-reproducao-redes-sociais_c1b7cd5936.png)
-
-local acolhedor
-
-local acolhedor
-
-Parto em casa é seguro? Veja possíveis riscos e cuidados necessários
-
-Parto em casa é seguro? Veja possíveis riscos e cuidados necessários](https://www.tnh1.com.br/noticia/nid/parto-em-casa-e-seguro-veja-possiveis-riscos-e-cuidados-necessarios/ "Parto em casa é seguro? Veja possíveis riscos e cuidados necessários")
+“Megalópolis” e terror sangrento são as estreias da semana, nesta quinta-feira de Halloween](https://www.tnh1.com.br/noticia/nid/megalopolis-e-terror-sangrento-sao-as-estreias-da-semana-nesta-quinta-feira-de-halloween/ "“Megalópolis” e terror sangrento são as estreias da semana, nesta quinta-feira de Halloween")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
