@@ -1,3 +1,9 @@
+![Close](https://www.crayon.co/hubfs/Header%20Images/close-ic.svg)
+
+**Try Sparks! Crayon's New AI Analysis Tool is Transforming Compete Programs**
+
+**[Sign up for a FREE trial](https://www.crayon.co/sparks)**
+
  [![CRAYON, Inc](https://www.crayon.co/hubfs/Logo.svg) ![CRAYON, Inc](https://www.crayon.co/hubfs/Logo.svg)](https://www.crayon.co/)
 
 * [Product](https://www.crayon.co/competitive-intelligence-analysis)
