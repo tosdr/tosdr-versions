@@ -87,7 +87,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Science & Society](https://www.sciencenews.org/topic/science-society)
+    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
+            ### [Limiting sugar in infancy reduces the risk of diabetes and hypertension](https://www.sciencenews.org/article/sugar-infancy-risk-diabetes)
+            
+            By [Skyler Ware](https://www.sciencenews.org/author/skyler-ware "Posts by Skyler Ware")3 hours ago
+            
+        * [Science & Society](https://www.sciencenews.org/topic/science-society)
             
             ### [Using AI, historians track how astronomy ideas spread in the 16th century](https://www.sciencenews.org/article/artificial-intelligence-astronomy-ai)
             
@@ -98,12 +104,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [A race to save Indigenous trails may change the face of archaeology](https://www.sciencenews.org/article/indigenous-trails-change-archaeology)
             
             By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")October 29, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Are synthetic food dyes bad for you? Here’s what the science says.](https://www.sciencenews.org/article/synthetic-food-dye-science-ban)
-            
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")October 28, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -116,21 +116,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
     * * [Animals](https://www.sciencenews.org/topic/animals)
             
-            ### [This marine biologist discovered a unique blue whale population in Sri Lanka](https://www.sciencenews.org/article/asha-de-vos-sri-lanka-blue-whales)
+            ### [A single enzyme can alter the vibrant colors in parrot plumage](https://www.sciencenews.org/article/parrot-feathers-pigment-color-chemical)
             
-            By [Sandy Ong](https://www.sciencenews.org/author/sandy-ong "Posts by Sandy Ong")2 hours ago
-            
-        * [Paleontology](https://www.sciencenews.org/topic/paleontology)
-            
-            ### [‘Uncovering Dinosaur Behavior’ unearths paleontology’s biases](https://www.sciencenews.org/article/uncovering-dinosaur-book-review)
-            
-            By [Aaron Tremper](https://www.sciencenews.org/author/aaron-tremper "Posts by Aaron Tremper")21 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")3 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
-            ### [The oldest known fossil tadpole was a big baby](https://www.sciencenews.org/article/oldest-known-tadpole-fossil-big-baby)
+            ### [Backyard explorers discovered 15 new examples of glowing life](https://www.sciencenews.org/article/biofluorescence-find-fluorescence-glow) 
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")23 hours ago
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")6 hours ago
+            
+        * [Animals](https://www.sciencenews.org/topic/animals)
+            
+            ### [This marine biologist discovered a unique blue whale population in Sri Lanka](https://www.sciencenews.org/article/asha-de-vos-sri-lanka-blue-whales)
+            
+            By [Sandy Ong](https://www.sciencenews.org/author/sandy-ong "Posts by Sandy Ong")8 hours ago
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [This marine biologist discovered a unique blue whale population in Sri Lanka](https://www.sciencenews.org/article/asha-de-vos-sri-lanka-blue-whales)
             
-            By [Sandy Ong](https://www.sciencenews.org/author/sandy-ong "Posts by Sandy Ong")2 hours ago
+            By [Sandy Ong](https://www.sciencenews.org/author/sandy-ong "Posts by Sandy Ong")8 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
