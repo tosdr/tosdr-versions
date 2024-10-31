@@ -103,6 +103,8 @@ Feel free to contact Fair Go [customer support team](https://www.fairgoplus.com
 
 [Privacy Policy](https://www.fairgoplus.com/privacy-policy "privacy policy")
 
+[Fair Go Info](https://fairgo.info/ "Fair Go Info")
+
 [Contact us](https://www.fairgoplus.com/support "support")
 
 ![Border Image](https://www.fairgoplus.com/images/border.png)
