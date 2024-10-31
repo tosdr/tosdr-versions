@@ -16,7 +16,7 @@
 
 Privacy Policy
 
-Last updated: May 21, 2020
+Last updated: October 31, 2024
 
 Your privacy is important to us. Everything we do at mymind, Inc. is driven by the values you can find below.
 
@@ -31,13 +31,15 @@ Our guiding principle is to collect only what we need. Here’s what that means 
 
 ### Identity & access
 
-When you sign up for mymind.com, we typically ask for identifying information such as your name and email address. If you sign up via Google or Apple, we only access your NAME and EMAIL address, nothing more. If you use Apple SignIn, you can even hide your email address.
+When you sign up for mymind, we typically ask for identifying information such as your name and email address. If you sign up via Google or Apple, we access and store your NAME and EMAIL address. If you use Apple Sign In, you can choose to hide your email address.
 
-We access your name and email so we can personalize your new account and send you invoices, updates or other essential information. We’ll never sell your personal info to third parties, and we won’t use your name in marketing statements without your permission either.
+We access your name and email so we can personalize your new account and send you invoices, updates or other essential information. We'll never sell your personal info to third parties, and we won’t use your name in marketing statements without your permission either.
 
 ### Billing information
 
-When you pay for mymind.com, we ask for your credit card and billing address. That's so we can charge you for our service, calculate taxes due and send you invoices. Your credit card is passed directly to our payment processor and doesn't ever go through our servers. We store a record of the payment transaction, including the last 4 digits of the credit card number and your as-of billing address, for account history, invoicing and billing support. We store your billing address to calculate any sales tax due in the United States, to detect fraudulent credit card transactions and to print on your invoices.
+When you subscribe to our service, our payment provider Stripe securely collects your payment details and billing address to process your payment, calculate taxes, and send invoices. Your payment information is sent directly to Stripe and never passes through our servers. We share your name and email with Stripe at checkout, and they may ask for additional details like your billing address and IP address to comply with tax laws, ensure security, and support your account. Stripe securely protects this data according to [their privacy policy.](https://stripe.com/privacy)  
+   
+  
 
 ### Geolocation data
 
@@ -45,7 +47,8 @@ We log all access to all accounts by full IP address so that we can ensure no un
 
 We also log full IP addresses used to sign up for an account. We keep this record forever because we need them to prevent spammy sign-ups.
 
-Web analytics data — described further below — is also tied temporarily to IP addresses to assist with troubleshooting cases. We blind all web analytics data after 30 days.
+Web analytics data — described further below — is also tied temporarily to IP addresses to assist with troubleshooting cases. We blind all web analytics data after 30 days.  
+  
 
 ### Website interactions
 
@@ -61,7 +64,7 @@ At this time, our sites and applications do not respond to Do Not Track beacons 
 
 ### Voluntary correspondence
 
-When you write to us at mymind.com with a question, we keep that correspondence, including your email address, so that we have a history of past correspondences to reference if you reach out in the future.
+When you write to us at mymind with a question, we keep that correspondence, including your email address, so that we have a history of past correspondences to reference if you reach out in the future.
 
 We also store any information you volunteer to give, like surveys. Sometimes when we do customer interviews, we may ask for your permission to record the conversation for future reference or use. We only do so if you give your express consent.  
   
@@ -70,16 +73,23 @@ We also store any information you volunteer to give, like surveys. Sometimes whe
 
 We don’t collect any characteristics of protected classifications including age, race, gender, religion, sexual orientation, gender identity or gender expression. You may provide these data voluntarily, for example, if you include a pronoun preference in your email signature when writing into our support team.
 
-We do not collect any biometric data.
+We do not collect any biometric data.  
+  
 
 When we access or share your information
 ----------------------------------------
 
-Our default practice is to not access your information. We promise to never access the content of your mind. The only times we’ll ever access or share your info are:
-
-→ When required under applicable law. If the appropriate law enforcement authorities have the necessary warrant, criminal subpoena or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. We have never received a National Security Letter or Foreign Intelligence Surveillance Act (FISA) order.  
+Our default practice is to not access your information. The only times we’ll ever access or share your info are:  
   
-If mymind, Inc. is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
+→ To provide the service to you. Your saved content may be analyzed in compliance with our [AI usage policy](https://mymind.com/ai-usage-policy).  
+   
+→ When required under applicable law. If the appropriate law enforcement authorities have the necessary warrant, criminal subpoena or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. We have never received a National Security Letter or Foreign Intelligence Surveillance Act (FISA) order.
+
+→ To provide customer support we may access your account information to troubleshoot technical issues or respond to billing inquiries. Our customer support team does not have the ability to see or access the contents inside your mind.  
+  
+If mymind, Inc. is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.  
+  
+  
 
 Your Rights With Respect to Your Information
 --------------------------------------------
@@ -107,21 +117,23 @@ At mymind, Inc., we apply the same data rights to all customers, regardless of t
 → Right to Non-Discrimination. This right stems from the CCPA. We do and will not charge you a different amount to use our products, offer you different discounts or give you a lower level of customer service because you have exercised your data privacy rights. However, the exercise of certain rights (such as the right “to be forgotten”) may, by virtue of your exercising those rights, prevent you from using our Services.
 
   
-Many of these rights can be exercised by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at integrity@mymind.com
+Many of these rights can be exercised by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at help@mymind.com
 
-To identify your specific authority to file a complaint or find out more about GDPR, EU individuals should go to [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en).
+To identify your specific authority to file a complaint or find out more about GDPR, EU individuals should go to [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en).  
+  
 
 How we secure your data
 -----------------------
 
-All data is encrypted via SSL/TLS when transmitted from our servers to your browser. The database backups are also encrypted. Most data are not encrypted while they live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest.
+Your data is protected in accordance with our data security policy. Learn more about it [here](https://mymind.com/data-security).   
+  
 
 When you delete data in your product accounts
 ---------------------------------------------
 
-In many of our applications, we give you the option to trash data. Anything you trash on your product accounts while they are active will be kept in an accessible trash can for up to 30 days. After that, the trashed data are no longer accessible via the application and are deleted from our active servers within the next 30 days. We also have some backups of our application databases, which are kept for up to another 30 days. In total, when you trash things in our applications, they are purged within 90 days from all of our systems and logs. Retrieving data for a single account from a backup is cost-prohibitive and unduly burdensome, so if you change your mind you’ll need to do so before your data are deleted from our active servers.
+In our application, we give you the option to delete data. Any content you delete in your account will be kept in an accessible trash can for up to 30 days. After that, the deleted content is no longer accessible via the application and are deleted from our active servers within the next 30 days. We also have some backups of our application databases, which are kept for up to another 30 days. In total, when you delete content in our application, they are purged within 90 days from all of our systems and logs. Retrieving data for a single account from a backup is cost-prohibitive and unduly burdensome, so if you change your mind you’ll need to do so before your data are deleted from our active servers.
 
-We also delete your data after an account is canceled. In this case, there is no period of data being kept in an accessible trash can so your data are purged within 60 days. This applies both for cases when an account owner directly cancels and for auto-canceled accounts. Please refer to our [cancellation policy](https://mymind.com/cancellation-policy) for more details.
+We also delete your data 30 days after you close your account. This applies both for case when an account owner closes their account directly or when an account is closed due to inactivity. Please refer to our [inactivity policy](https://mymind.com/inactive-account-policy) for more details.
 
 EU-US and Swiss-US Privacy Shield policy  
 
@@ -135,7 +147,7 @@ mymind Inc. is subject to the investigatory and enforcement powers of the Federa
 
 The Privacy Shield Frameworks uphold specific principles, many of which are already outlined in the section on Your Rights. For clarity, pursuant to the Privacy Shield Frameworks, the following principles apply to all EU, UK and Swiss data that has been transferred into the United States:
 
-You have the right to access your personal data and to update, correct and/or amend information that is incomplete. You also have the right to request erasure of personal information that has been processed in violation of the principles. If you wish to exercise these rights, you may do so by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at integrity@mymind.com
+You have the right to access your personal data and to update, correct and/or amend information that is incomplete. You also have the right to request erasure of personal information that has been processed in violation of the principles. If you wish to exercise these rights, you may do so by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at help@mymind.com
 
 → We remain liable for the onward transfer of personal data to [third parties](https://mymind.com/subprocessors) acting as our agents, unless we can prove we were not a party to the events giving rise to the damages.
 
@@ -163,7 +175,7 @@ Changes & questions
 We may update this policy as needed to comply with relevant regulations and reflect any new practices.
 
   
-Have any questions, comments, or concerns about this privacy policy, your data or your rights with respect to your information? Please get in touch by emailing us at integrity@mymind.com and we’ll be happy to answer them!
+Have any questions, comments, or concerns about this privacy policy, your data or your rights with respect to your information? Please get in touch by emailing us at help@mymind.com and we’ll be happy to answer them!
 
 ![logo_horizontal](https://mymind.com/wp-content/uploads/2020/06/logo_horizontal.svg)
 
