@@ -112,7 +112,7 @@
     * Programming Languages
         * [C](https://www.geeksforgeeks.org/c-programming-language/?ref=outind)
         * [C++](https://www.geeksforgeeks.org/c-plus-plus/?ref=outind)
-        * [JavaScript](https://www.geeksforgeeks.org/learn-javascript-js-roadmap-for-beginners/?ref=outind)
+        * [JavaScript](https://www.geeksforgeeks.org/javascript/?ref=outind)
         * [PHP](https://www.geeksforgeeks.org/php-tutorial/?ref=outind)
         * [R Tutorial](https://www.geeksforgeeks.org/r-tutorial/?ref=outind)
         * [C#](https://www.geeksforgeeks.org/csharp-programming-language/?ref=outind)
