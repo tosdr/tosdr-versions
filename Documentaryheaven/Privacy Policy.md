@@ -118,16 +118,16 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
-* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
-    
-    Why The Industrial Revolution Happened Here
-    
-    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 * [![WWII From Space](/wp-content/thumbnails/8361-100x70.jpeg?x53432)
     
     WWII From Space
     
     It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
+* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
+    
+    Why The Industrial Revolution Happened Here
+    
+    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 * [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
     
     Diary of a Porn Virgin
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Fidel Castro](/wp-content/thumbnails/10566-100x70.jpg?x53432)
+* [![Strain Hunters Morocco Expedition by Green House Seed Co](/wp-content/thumbnails/6083-100x70.jpg?x53432)
     
-    Fidel Castro
+    Strain Hunters Morocco Expedition by Green House Seed Co
     
-    Born August 13, 1926, Fidel Castro is now 89 years of age and one of the most controversial / diverse world figures around. He has been decorated with many international awards and those that support](https://documentaryheaven.com/fidel-castro/ "Fidel Castro")
-* [![American Firefighters](/wp-content/thumbnails/13602-100x70.jpg?x53432)
+    The large majority of the hashish produced worldwide (up to 70% of the total annual world production) comes from a relatively small mountain region in the North of Morocco, called Rif. In Dutch coff](https://documentaryheaven.com/strain-hunters-morocco-expedition-by-green-house-seed-co/ "Strain Hunters Morocco Expedition by Green House Seed Co")
+* [![Unprecedented: The 2000 Presidential Election](/wp-content/thumbnails/374-100x70.png?x53432)
     
-    American Firefighters
+    Unprecedented: The 2000 Presidential Election
     
-    American Firefighters, originally released in 1990 provides us with a unique raw glimpse into the average days of a firefighter. We see first hand how they spend their time off with family, how they s](https://documentaryheaven.com/american-firefighters/ "American Firefighters")
-* [![The Revolution That Shook The World](/wp-content/thumbnails/8692-100x70.jpg?x53432)
+    Many things have been going wrong in the 2000 presidential election. This documentary shows how George W. Bush stole his seat in the white house with a corrupt system that allowed manipulated voting m](https://documentaryheaven.com/unprecedented-the-2000-presidential-election/ "Unprecedented: The 2000 Presidential Election")
+* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
     
-    The Revolution That Shook The World
+    The new world order – Illuminati, Freemasons and other secret societies
     
-    As Russia and the West square up to each other over Ukraine, Paul Kenyon presents this special report from inside the flashpoint military bases of Crimea as they are surrounded by Russian troops. He g](https://documentaryheaven.com/revolution-that-shook-world/ "The Revolution That Shook The World")
-* [![North Korea’s Nuclear Trump Card](/wp-content/thumbnails/13542-100x70.jpg?x53432)
+    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
+* [![Journalists: Killed in the Line of Duty](/wp-content/thumbnails/486-100x70.png?x53432)
     
-    North Korea’s Nuclear Trump Card
+    Journalists: Killed in the Line of Duty
     
-    North Korea has just tested a nuclear bomb which is believed to be 10 times more powerful than the one used on Hiroshima. Kim Jong Un versus Donald Trump is the most dangerous stand off seen in decade](https://documentaryheaven.com/north-koreas-nuclear-trump-card/ "North Korea’s Nuclear Trump Card")
-* [![Soldier Child](/wp-content/thumbnails/6622-100x70.jpg?x53432)
+    Around the world, journalists are increasingly being killed. They die in the crossfire. They die at the hand of criminals and corupt goverments. They die in tragic accidents. In the case of targeted d](https://documentaryheaven.com/journalists-killed-in-the-line-of-duty/ "Journalists: Killed in the Line of Duty")
+* [![Chosen](/wp-content/thumbnails/12532-100x70.jpg?x53432)
     
-    Soldier Child
+    Chosen
     
-    Since 1990, the people of Northern Uganda have watched in horror as tens of thousands of children have been kidnapped from their homes, marched to Sudan, and then trained as child soldiers in a rebel](https://documentaryheaven.com/soldier-child/ "Soldier Child")
+    Peter Wright, an 83 year old former headmaster of posh prep school Caldicott, located in southern Buckinghamshire, England was convicted of 12 offences against five children who studied there. The ass](https://documentaryheaven.com/chosen/ "Chosen")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
