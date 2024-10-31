@@ -465,12 +465,6 @@ Join our newsletter
 
 We’ll send you a nice letter every two weeks. No spam.
 
-Email
-
-Thanks! You have successfully signed up.
-
-Something went wrong while submitting the form.
-
 People
 ------
 
