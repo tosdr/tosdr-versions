@@ -17,7 +17,6 @@ All
 * All
 * Access Control
 * Animal Repellent
-* ASP® Police Batons Accessories
 * Audio Jammers & Noise Generators
 * B Rated Safes
 * Bathroom Safety
