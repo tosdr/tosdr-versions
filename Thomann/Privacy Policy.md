@@ -16,12 +16,12 @@ Get your deals](https://www.thomannmusic.com/social_70th-anniversary.html)
 * [Top-Seller](https://www.thomannmusic.com/topseller.html)
 * [Bargains](https://www.thomannmusic.com/blowouts.html)
 
-[![Thomann](https://images.static-thomann.de/pics//images/logos/thomann-cyan-black.svg)](https://www.thomannmusic.com/)
+[![Thomann](https://images.static-thomann.de/pics//images/logos/thomann-halloween-logo-black.svg)](https://www.thomannmusic.com/)
 
 search  
 
 * [3-Year Thomann Warranty](https://www.thomannmusic.com/helpdesk_warranty.html)
-* [Repair Service](https://www.thomannmusic.com/helpdesk_repair.html)
+* [30-Days Money-Back](https://www.thomannmusic.com/helpdesk_moneyback.html)
 
 en · $
 
