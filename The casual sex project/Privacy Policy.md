@@ -130,7 +130,7 @@ Commentary Education Higher Ed
 
 Oct 25 2024
 
-[University of Michigan Spent Millions on Dei Efforts. They Failed Miserably.](https://admin.mi52siterestore.com/article/university-of-michigan-spent-millions-on-dei-efforts-they-failed-miserably/)
+[University of Michigan Spent Millions on DEI Efforts. They Failed Miserably.](https://admin.mi52siterestore.com/article/university-of-michigan-spent-millions-on-dei-efforts-they-failed-miserably/)
 
 By **[Neetu Arnold](https://admin.mi52siterestore.com/person/neetu-arnold/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/university-of-michigan-spent-millions-on-dei-efforts-they-failed-miserably/)
 
