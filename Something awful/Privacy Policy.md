@@ -205,24 +205,28 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Halloween in Middle-Earth](https://www.somethingawful.com/photoshop-phriday/halloween-in-middleearth/1/)
-* [Moving tips](https://www.somethingawful.com/photoshop-phriday/moving-tips/1/)
-* [Peekaru!](https://www.somethingawful.com/photoshop-phriday/peekaru/1/)
-* [The Corpse-Grinders 2](https://www.somethingawful.com/movie-reviews/the-corpsegrinders-2/1/)
-* [Just Mindy (Thanks, hello binga!)](https://www.somethingawful.com/awful-links/just-mindy-asl/)
+* [Ill-Conceived Toys](https://www.somethingawful.com/photoshop-phriday/illconceived-toys/1/)
+* [ABDL Story Forum, Adult Baby Camp and Balloon Fetish World](https://www.somethingawful.com/weekend-web/diaper-balloon-camp/1/)
+* [STOCK PHOTO LIFESTYLE TALES #1](https://www.somethingawful.com/news/stock-photo-lifestyle/1/)
+* [Legend of the Titanic](https://www.somethingawful.com/movie-reviews/legend-titanic/1/)
+* [Every Review Of Ghostbusters You Will Read This Week](https://www.somethingawful.com/news/every-ghostbusters-review/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/tv.png) [Did Captain Planet fail?](http://forums.somethingawful.com/showthread.php?threadid=4073918 "Did Captain Planet fail?")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-mspaint.gif) [did you know the origin of "cartoon"](http://forums.somethingawful.com/showthread.php?threadid=4073998 "did you know the origin of "cartoon"")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-lovecum.gif) [Im trying to write a new generation timecube](http://forums.somethingawful.com/showthread.php?threadid=4073928 "Im trying to write a new generation timecube")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [I am writing a story about a group of conspiracy theorists](http://forums.somethingawful.com/showthread.php?threadid=4073999 "I am writing a story about a group of conspiracy theorists")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [Comet ATLAS is a sperm and the moon is an egg!!!!](http://forums.somethingawful.com/showthread.php?threadid=4073991 "Comet ATLAS is a sperm and the moon is an egg!!!!")
+* ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [post itt when you try something new](http://forums.somethingawful.com/showthread.php?threadid=4073992 "post itt when you try something new")
 
 ### Random Articles
 
-* [State Og Update: 09.18.04](https://www.somethingawful.com/state-og/state-og-update-83/)
-* [State Og Update: 06.14.03](https://www.somethingawful.com/state-og/state-og-update-28/)
-* [I Hate You Page 95](https://www.somethingawful.com/cliff-yablonski/i-hate-you-95/)
-* [State Og Update: 09.04.04](https://www.somethingawful.com/state-og/state-og-update-82/)
-* [Throw Me to the Lions](https://www.somethingawful.com/news/throw-me-lions/)
+* [Pathetic Inc.](https://www.somethingawful.com/awful-links/awful-link-3328/)
+* [Stink Bug Facts](https://www.somethingawful.com/news/stink-bug-fact/)
+* [Part 2: A Guide to Understanding Ben Garrison's Political Cartoons](https://www.somethingawful.com/feature-articles/ben-garrison-explained2/)
+* [Heart Smarts: The Deadliest Drink](https://www.somethingawful.com/news/heart-smarts-deadliest/)
+* [September 10, 2007](https://www.somethingawful.com/forum-fridays/ff09-10-07/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
