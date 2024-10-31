@@ -363,7 +363,7 @@ Search![X icon](https://www.yubico.com/wp-content/themes/yubicool/img/icons/clos
         2. **Contact Details**  
             If you have any questions on how we process your personal data or want information about further contact details for the data controllers above, please contact us through [our website](https://support.yubico.com/hc/en-us/requests/new) or post.  
               
-            Yubico AB, Kungsgatan 44 111 35 Stockholm Sweden  
+            Yubico AB, Gävlegatan 22 113 30 Stockholm Sweden  
               
             
     7. **California Notice at Collection** We do not sell your information (as defined by the California Consumer Privacy Act (“CCPA”). Yubico uses your data to provide our products and services and for the purposes set out in this Privacy Notice as well as the [Supplemental Privacy Notice for California Consumers](https://www.yubico.com/support/terms-conditions/privacy-notice/ccpa/). If you are a resident of the State of California in the U.S., please see our [Supplemental Privacy Notice for California Consumers](https://www.yubico.com/support/terms-conditions/privacy-notice/ccpa/) for additional California-specific privacy information. We will not discriminate against you because you have exercised any of your rights under the CCPA. If you are a consumer in California, USA, and would like to make a request concerning your rights under the California Consumer Privacy Act you may also contact us by email at:  
@@ -375,7 +375,7 @@ Search![X icon](https://www.yubico.com/wp-content/themes/yubicool/img/icons/clos
     _Last updated: October 24th, 2023_
     
 
-[![Yubico Text Logo](https://www.yubico.com//wp-content/themes/yubicool/img/logos/logo.svg)](https://www.yubico.com/)
+[![Yubico Text Logo](https://www.yubico.com/wp-content/themes/yubicool/img/logos/logo.svg)](https://www.yubico.com/)
 
 * [RSS](https://www.yubico.com/rss/)
 * [X](https://x.com/Yubico)
