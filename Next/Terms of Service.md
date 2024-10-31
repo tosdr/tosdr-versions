@@ -1,6 +1,6 @@
 5.39.2
 
-1730364014769
+1730385376354
 
                                              
 
@@ -12,9 +12,9 @@ en
 
 3.16.0
 
-1730363216334
+1730385218308
 
- Next Terms & Conditions | T&C's | Next Official Site                                  
+     Next Terms & Conditions | T&C's | Next Official Site                                  
 
                   [Click here to use our accessible website](https://accessible.next.co.uk/)
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1730363973779
+1730386154675
 
 You need to enable JavaScript to run this app.
 
@@ -549,6 +549,95 @@ The use of a nextpay card (formally known as Directory Card) or the nextpay in-a
 Please note the redemption of the 10% welcome offer to credit applies only to Next.co.uk.
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
+
+### Bath & Body Works UK Social Media Competition
+
+**Promoter:** The promoter is Next Beauty Limited (Company no. 04521150) whose registered office is at Desford Road, Enderby, Leicester, LE19 4AT (‘Next and Bath & Body Works’).
+
+**Eligibility:** This competition is open to UK residents aged 18 or over, excluding employees of Next and Bath & Body Works, their holding or subsidiary companies, and their immediate family.
+
+**Start date/Time:** 09:00 on 01.11.2024
+
+**Closing date/Time:** 17:00 on 08.11.2024
+
+**How to Enter:**
+
+* Follow @bathandbodyworksuk on the relevant channel (Instagram or TikTok)
+* Like the relevant competition post
+* Tag 3 friends
+
+No purchase necessary. Multiple entries are permitted. Entries made after 17:00 on 08.11.2024 will not be counted. Next does not accept responsibility for entries not received for whatever reason.
+
+**Prize:** 1x £100 Bath & Body Works gift card. Gift cards are valid for 12 months and can be redeemed against Bath & Body Works products online at next.co.uk or in Bath & Body Works UK stores.
+
+**Winner Selection:** One winner will be selected at random by @bathandbodyworksuk on 11.11.2024 and contacted directly via direct message before 17:00 on 15.11.2024.
+
+**Notification:** Next will notify the winner via the official account @bathandbodyworksuk on the platform used to enter (Instagram or TikTok). This competition is in no way endorsed, affiliated with, administered, or sponsored by Meta or TikTok.
+
+**Prize Claim:** The winner must confirm their acceptance of the prize within 7 days of notification and provide the information requested by Next. If the winner fails to respond, Next reserves the right to select a reserve winner. The prize will be sent via post within 14 working days of the winner claiming the prize. Next does not accept responsibility for any incorrect details provided by the winner.
+
+**Substitute Prize:** In the event of unforeseen circumstances, Next reserves the right to substitute the prize for an alternative of equal or greater value.
+
+**Non-Transferable:** The prize is non-transferable and non-refundable. It must be taken as offered.
+
+**Final Decision:** Next’s decision is final, and no correspondence will be entered into.
+
+**Verification:** Next reserves the right to verify entries and participants’ eligibility and to disqualify any participant who breaches these terms or gains unfair advantage.
+
+**Publicity:** By entering, participants agree to participate in publicity related to the competition, including the use of their name and image in a competition announcement post.
+
+If you object to any or all of your details being published, please contact [nextofficial@next.co.uk](mailto:nextofficial@next.co.uk).
+
+**Event Changes:** Events beyond Next's control may result in the modification or withdrawal of the competition. Next holds no liability in such cases.
+
+**Content Use:** By submitting any content, you grant Next a non-exclusive, royalty-free, worldwide, perpetual, irrevocable, sublicensable right to use, modify, and display such content for promotional purposes. No compensation, credit, or notice will be provided.
+
+**Limitation of Liability:** To the fullest extent permitted by law, Next excludes all liability for any loss, damage, personal injury, or death suffered by the prize winner as a result of accepting the prize, except in cases of negligence by Next or its agents. Your statutory rights are not affected.
+
+**Governing Law:** The competition and these terms and conditions are governed by English law, and the parties submit to the exclusive jurisdiction of the English courts.
+
+**Winner Details:** For 14 days after the competition ends, details of the winner will be available by writing to Next Marketing, Desford Road, Enderby, Leicester, LE19 4AT. Next will provide these details to the Advertising Standards Authority upon request.
+
+### £96 off Selected GHD Promotion
+
+Up to £96 off on selected GHD products.
+
+Discounted price visible on product listing page and product already includes saving.
+
+Item will be added to basket at discounted price.
+
+Offer available while stocks last.
+
+### Lancome Promotion
+
+The Lancôme Winter Gift Set will be automatically added to bag when you buy any 2 selected Lancôme products. The Lancôme Gift contains:
+
+* Gel Éclat Mousse 200ml
+* Tonique Confort 50ml
+* Génifique Ultimate Serum 7ml
+* Rénergie Eye Cream 5ml
+* HPN Rénergie 15ml
+* La Vie Est Belle 4ml
+
+To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
+
+The Lancôme Gift will be automatically added once 2 qualifying Lancôme products have been added to the bag on either the Product or Shopping Bag Pages.
+
+The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.
+
+This offer is not available to staff.
+
+Offer applies while stocks
+
+### 25% off on Selected Bath & Body Works Bodycare Promotion
+
+Up to 25% off on selected Bath & Body Works bodycare products.
+
+Discounted price visible on product listing page and product already includes saving.
+
+Item will be added to basket at discounted price.
+
+Offer available while stocks last.
 
 ### Love & Roses Winter Coat November 2024 Competition
 
@@ -2654,7 +2743,7 @@ You need to enable JavaScript to run this app.
 
 3.16.0
 
-1730364733402
+1730385347229
 
 ### Our Social Networks
 
