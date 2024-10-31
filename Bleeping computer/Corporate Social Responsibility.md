@@ -36,18 +36,18 @@
         
         Android malware "FakeCall" now reroutes bank calls to attackers](https://www.bleepingcomputer.com/news/security/android-malware-fakecall-now-reroutes-bank-calls-to-attackers/)
     
-    * [![Interbank confirms data breach following failed extortion, data leak](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Over a thousand online shops hacked to show fake product listings](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Interbank confirms data breach following failed extortion, data leak](https://www.bleepingcomputer.com/news/security/interbank-confirms-data-breach-following-failed-extortion-data-leak/)
-    * [![Microsoft Entra ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Over a thousand online shops hacked to show fake product listings](https://www.bleepingcomputer.com/news/security/over-a-thousand-online-shops-hacked-to-show-fake-product-listings/)
+    * [![A five-year subscription to the popular AdGuard VPN is only $35](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft Entra "security defaults" to make MFA setup mandatory](https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-security-defaults-to-make-mfa-setup-mandatory/)
-    * [![Get $20 off Microsoft Office 2024 and ditch those monthly subscriptions](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        A five-year subscription to the popular AdGuard VPN is only $35](https://www.bleepingcomputer.com/offer/deals/a-five-year-subscription-to-the-popular-adguard-vpn-is-only-35/)
+    * [![Cynet delivers 426% ROI in Forrester Total Economic Impact Study](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Get $20 off Microsoft Office 2024 and ditch those monthly subscriptions](https://www.bleepingcomputer.com/offer/deals/get-20-off-microsoft-office-2024-and-ditch-those-monthly-subscriptions/)
-    * [![QNAP patches second zero-day exploited at Pwn2Own to get root](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Cynet delivers 426% ROI in Forrester Total Economic Impact Study](https://www.bleepingcomputer.com/news/security/cynet-delivers-426-percent-roi-in-forrester-total-economic-impact-study/)
+    * [![LottieFiles hit in npm supply chain attack targeting users' crypto](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        QNAP patches second zero-day exploited at Pwn2Own to get root](https://www.bleepingcomputer.com/news/security/qnap-patches-second-zero-day-exploited-at-pwn2own-to-get-root/)
+        LottieFiles hit in npm supply chain attack targeting users' crypto](https://www.bleepingcomputer.com/news/security/lottiefiles-hit-in-npm-supply-chain-attack-targeting-users-crypto/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
