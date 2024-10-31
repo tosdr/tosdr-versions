@@ -188,7 +188,7 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (92)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (93)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (31)](https://www.smithbrothersfarms.com/on-special)
         
@@ -266,7 +266,7 @@ Hi
         * [Prepared Produce (5)](https://www.smithbrothersfarms.com/prepped)
             
         
-    * [Bakery (91)](https://www.smithbrothersfarms.com/bakery)
+    * [Bakery (92)](https://www.smithbrothersfarms.com/bakery)
         
         * BACK
         * [Bread & Buns (32)](https://www.smithbrothersfarms.com/bread)
@@ -281,7 +281,7 @@ Hi
             
         * [Treats (14)](https://www.smithbrothersfarms.com/desserts)
             
-        * [Cookies (1)](https://www.smithbrothersfarms.com/cookie)
+        * [Cookies (5)](https://www.smithbrothersfarms.com/cookie)
             
         
     * [Meat (47)](https://www.smithbrothersfarms.com/meat-poultry)
