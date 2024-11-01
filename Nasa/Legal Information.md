@@ -82,7 +82,7 @@ article4 days ago](https://www.nasa.gov/missions/mars-2020-perseverance/persever
 
 ### What’s Up: October 2024 Skywatching Tips from NASA
 
-article4 weeks ago](https://science.nasa.gov/solar-system/skywatching/whats-up-october-2024-skywatching-tips-from-nasa/)
+article1 month ago](https://science.nasa.gov/solar-system/skywatching/whats-up-october-2024-skywatching-tips-from-nasa/)
 
 Back
 
@@ -269,13 +269,13 @@ article 4 days ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-suc
 
 ### Research Operations and Integration
 
-article 16 hours ago](https://www.nasa.gov/hrp/research-operations-integration/sample-collection-and-portable-systems-and-blood-collection-data/)[![](https://www.nasa.gov/wp-content/uploads/2024/03/bone-cells.png?w=609)
+article 17 hours ago](https://www.nasa.gov/hrp/research-operations-integration/sample-collection-and-portable-systems-and-blood-collection-data/)[![](https://www.nasa.gov/wp-content/uploads/2024/03/bone-cells.png?w=609)
 
 5 min read
 
 ### We Are All Made of Cells: Space and the Immune System
 
-article 17 hours ago](https://www.nasa.gov/science-research/we-are-all-made-of-cells-space-and-the-immune-system/)[![Exterior view of the International Space Station with Earth visible in the background. The station’s robotic arm and multiple scientific equipment modules are attached to its surface.](https://www.nasa.gov/wp-content/uploads/2024/10/iss061e143436.jpg?w=1024)
+article 18 hours ago](https://www.nasa.gov/science-research/we-are-all-made-of-cells-space-and-the-immune-system/)[![Exterior view of the International Space Station with Earth visible in the background. The station’s robotic arm and multiple scientific equipment modules are attached to its surface.](https://www.nasa.gov/wp-content/uploads/2024/10/iss061e143436.jpg?w=1024)
 
 2 min read
 
@@ -291,7 +291,7 @@ article 3 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-
 
 ### International SWOT Satellite Spots Planet-Rumbling Greenland Tsunami
 
-article 15 hours ago](https://www.nasa.gov/missions/swot/international-swot-satellite-spots-planet-rumbling-greenland-tsunami/)[![Map shows orange and red colors spanning most of Antarctica and part of the Southern Ocean, indicating areas of low ozone concentrations.](https://www.nasa.gov/wp-content/uploads/2024/10/ozone-geos5-20240928-hires.jpg?w=996)
+article 16 hours ago](https://www.nasa.gov/missions/swot/international-swot-satellite-spots-planet-rumbling-greenland-tsunami/)[![Map shows orange and red colors spanning most of Antarctica and part of the Southern Ocean, indicating areas of low ozone concentrations.](https://www.nasa.gov/wp-content/uploads/2024/10/ozone-geos5-20240928-hires.jpg?w=996)
 
 5 min read
 
@@ -329,47 +329,47 @@ article 3 days ago](https://www.nasa.gov/missions/small-satellite-missions/lunar
 
 ### Featured
 
-[![NASA’s SPHEREx observatory](https://www.nasa.gov/wp-content/uploads/2024/10/1-spherex-telescope.jpg?w=1024)
+[![NASA’s Hubble, Webb Probe Surprisingly Smooth Disk Around Vega](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-webb-vega-stsci-01jbf1zcym7avv5rcjttd7tdpc.jpg)
+
+6 min read
+
+### NASA’s Hubble, Webb Probe Surprisingly Smooth Disk Around Vega
+
+article 20 mins ago](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-probe-surprisingly-smooth-disk-around-vega/)[![NASA’s SPHEREx observatory](https://www.nasa.gov/wp-content/uploads/2024/10/1-spherex-telescope.jpg?w=1024)
 
 6 min read
 
 ### Why NASA’s SPHEREx Mission Will Make ‘Most Colorful’ Cosmic Map Ever
 
-article 22 hours ago](https://www.nasa.gov/missions/spherex/why-nasas-spherex-mission-will-make-most-colorful-cosmic-map-ever/)[![‘Blood-Soaked’ Eyes: NASA’s Webb, Hubble Examine Galaxy Pair](https://science.nasa.gov/wp-content/uploads/2024/10/webb-stsci-01j9rrkbba1ddr83vfrx24gs08-2k.jpg)
+article 23 hours ago](https://www.nasa.gov/missions/spherex/why-nasas-spherex-mission-will-make-most-colorful-cosmic-map-ever/)[![‘Blood-Soaked’ Eyes: NASA’s Webb, Hubble Examine Galaxy Pair](https://science.nasa.gov/wp-content/uploads/2024/10/webb-stsci-01j9rrkbba1ddr83vfrx24gs08-2k.jpg)
 
 5 min read
 
 ### ‘Blood-Soaked’ Eyes: NASA’s Webb, Hubble Examine Galaxy Pair
 
-article 23 hours ago](https://science.nasa.gov/missions/webb/blood-soaked-eyes-nasas-webb-hubble-examine-galaxy-pair/)[![Buckle Up: NASA-Funded Study Explores Turbulence in Molecular Clouds](https://science.nasa.gov/wp-content/uploads/2024/10/turbulence2.png)
-
-3 min read
-
-### Buckle Up: NASA-Funded Study Explores Turbulence in Molecular Clouds
-
-article 2 days ago](https://science.nasa.gov/universe/stars/nasa-funded-study-explores-turbulence-in-molecular-clouds/)
+article 1 day ago](https://science.nasa.gov/missions/webb/blood-soaked-eyes-nasas-webb-hubble-examine-galaxy-pair/)
 
 ### Highlights
 
-[![SWOT data visualization](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26420-greenland-tsunami.jpg?w=1024)
+[![NASA’s Hubble, Webb Probe Surprisingly Smooth Disk Around Vega](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-webb-vega-stsci-01jbf1zcym7avv5rcjttd7tdpc.jpg)
+
+6 min read
+
+### NASA’s Hubble, Webb Probe Surprisingly Smooth Disk Around Vega
+
+article 20 mins ago](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-probe-surprisingly-smooth-disk-around-vega/)[![SWOT data visualization](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26420-greenland-tsunami.jpg?w=1024)
 
 4 min read
 
 ### International SWOT Satellite Spots Planet-Rumbling Greenland Tsunami
 
-article 15 hours ago](https://www.nasa.gov/missions/swot/international-swot-satellite-spots-planet-rumbling-greenland-tsunami/)[![](https://www.nasa.gov/wp-content/uploads/2024/03/bone-cells.png?w=609)
+article 16 hours ago](https://www.nasa.gov/missions/swot/international-swot-satellite-spots-planet-rumbling-greenland-tsunami/)[![](https://www.nasa.gov/wp-content/uploads/2024/03/bone-cells.png?w=609)
 
 5 min read
 
 ### We Are All Made of Cells: Space and the Immune System
 
-article 17 hours ago](https://www.nasa.gov/science-research/we-are-all-made-of-cells-space-and-the-immune-system/)[![B.21 Heliophysics Citizen Science Investigations POC Change](https://science.nasa.gov/wp-content/uploads/2021/10/heliophysics-math-webinar.png)
-
-1 min read
-
-### B.21 Heliophysics Citizen Science Investigations POC Change
-
-article 21 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/b-21-heliophysics-citizen-science-investigations-poc-change/)
+article 18 hours ago](https://www.nasa.gov/science-research/we-are-all-made-of-cells-space-and-the-immune-system/)
 
 ### Highlights
 
@@ -423,7 +423,7 @@ article 1 week ago](https://science.nasa.gov/planetary-science/programs/radioiso
 
 ### Artemis I Moon Tree Stewards
 
-article 22 hours ago](https://www.nasa.gov/learning-resources/artemis-i-moon-tree-stewards/)[![Watch How Students Help NASA Grow Plants in Space: Growing Beyond Earth](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2024/WestLab2-Amy-Padolf.png)
+article 23 hours ago](https://www.nasa.gov/learning-resources/artemis-i-moon-tree-stewards/)[![Watch How Students Help NASA Grow Plants in Space: Growing Beyond Earth](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2024/WestLab2-Amy-Padolf.png)
 
 2 min read
 
