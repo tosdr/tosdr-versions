@@ -1,5 +1,8 @@
 [Skip to Page content](#main) [K! Kahoot!](https://kahoot.com/ "Link to kahoot.com homepage")
 
+* [Go back to kahoot.com](https://kahoot.com/)
+* [Contact us ❐](https://kahoot.com/contact/)
+
 en
 
 [English](https://trust.kahoot.com/privacy-policy/) [Deutsch (German)](https://trust.kahoot.com/de/privacy-policy/) [Español (Spanish)](https://trust.kahoot.com/es/privacy-policy/) [Français (French)](https://trust.kahoot.com/fr/privacy-policy/) [Italiano (Italian)](https://trust.kahoot.com/it/privacy-policy/) [日本語 (Japanese)](https://trust.kahoot.com/ja/privacy-policy/) [Norsk (Norwegian)](https://trust.kahoot.com/nb/privacy-policy/) [Nederlands (Dutch)](https://trust.kahoot.com/nl/privacy-policy/) [Polski (Polish)](https://trust.kahoot.com/pl/privacy-policy/) [Português (Portuguese)](https://trust.kahoot.com/pt-BR/privacy-policy/) [Türkçe (Turkish)](https://trust.kahoot.com/tr/privacy-policy/)
