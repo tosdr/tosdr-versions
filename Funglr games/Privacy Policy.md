@@ -134,20 +134,20 @@ All the issues and problems will be resolved pursuant to our Japanese Privacy Po
 
 * No article
 
-[![Razer](https://i0.wp.com/saiganak.com/wp-content/uploads/2021/10/banner_razer_336x280bpx.jpg)](https://click.accesstra.de/go/YQnNS9EB)
+[![Disney Plus](//i0.wp.com/saiganak.com/wp-content/uploads/2023/03/banner_disneyplus_336x280b.jpg)](https://accesstra.de/0050f1000ymk)
 
-* [![【Sad News】 NEOGEO mini discontinued...](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/07/neogeo-mini-eol-00-150x150.jpg "【Sad News】 NEOGEO mini discontinued...")
+* [![Haomaru's favorite sword ](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/snk-samuraispirits2019-150x150.jpg "Haomaru's favorite sword ")
     
-    【Sad News】 NEOGEO mini discontinued...](https://saiganak.com/product/neogeo-mini-eol/ "【Sad News】 NEOGEO mini discontinued...")
-* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder-00-150x150.jpg)
-    
-    "TACTICAL ASSAULT COMMANDER F14 FINAL FANTASY XIV EDITION"](https://saiganak.com/product/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder/)
-* [![Review! the Feature-Rich ](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/02/neogeo-arcade-stick-pro-unbox-00-1-150x150.jpg "Review! the Feature-Rich ")
-    
-    Review! the Feature-Rich "NEOGEO Arcade Stick PRO"!](https://saiganak.com/review/neogeo-arcade-stick-pro-unbox/ "Review! the Feature-Rich ")
+    Haomaru's favorite sword "Meito FuguDoku"on sale!](https://saiganak.com/product/meitoh-fugudoku-preorder/ "Haomaru's favorite sword ")
 * [![I Tried 'SURVIVOR'! Japan's Affordable Energy Drink Available for 100 Yen (0.68 USD)!](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/05/survivor-energy-drink-testing-00-150x150.jpg "I Tried 'SURVIVOR'! Japan's Affordable Energy Drink Available for 100 Yen (0.68 USD)!")
     
     I Tried 'SURVIVOR'! Japan's Affordable Energy Drink Available for 100 Yen (0.68 USD)!](https://saiganak.com/review/survivor-energy-drink-testing/ "I Tried 'SURVIVOR'! Japan's Affordable Energy Drink Available for 100 Yen (0.68 USD)!")
+* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder-00-150x150.jpg)
+    
+    "TACTICAL ASSAULT COMMANDER F14 FINAL FANTASY XIV EDITION"](https://saiganak.com/product/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder/)
+* [![New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/04/ps5-ffxvi-limited-items-release-00-150x150.jpg "New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!")
+    
+    New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!](https://saiganak.com/product/ps5-ffxvi-limited-items-release/ "New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!")
 * [![SNK's ](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/09/neogeo-arcade-stick-pro-4th-info-00-150x150.jpg "SNK's ")
     
     SNK's "NEOGEO Arcade Stick Pro"Release date and Price announced!](https://saiganak.com/product/neogeo-arcade-stick-pro-4th-info/ "SNK's ")
