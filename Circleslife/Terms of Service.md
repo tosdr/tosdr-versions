@@ -10,13 +10,13 @@ Get Started
 
 20GB
 
-$10.80/mo
+$11.11/mo
 
 4g
 
 150GB
 
-$13.50/mo
+$11.11/mo
 
 4g
 
@@ -32,19 +32,19 @@ Use data across 9 countries
 
 250GB
 
-$16.20/mo
+$11.11/mo
 
 5g
 
 500GB
 
-$19.80/mo
+$11.11/mo
 
 5g
 
 1TB
 
-$30/mo
+$11.11/mo
 
 5g
 
@@ -60,19 +60,19 @@ Use data across 9 countries
 
 20GB
 
-$10.80/mo
+$11.11/mo
 
 4g
 
 150GB
 
-$13.50/mo
+$11.11/mo
 
 5g
 
 250GB
 
-$16.20/mo
+$11.11/mo
 
 5g
 
@@ -172,13 +172,13 @@ From $45.79](https://pages.circles.life/sg/combo-plan-black/iphone_15/)[See all 
 
 150GB
 
-$13.50/mo
+$11.11/mo
 
 5g
 
 250GB
 
-$16.20/mo
+$11.11/mo
 
 5g
 
@@ -192,19 +192,19 @@ $30/mo
 
 250GB
 
-$16.20/mo
+$11.11/mo
 
 5g
 
 500GB
 
-$19.80/mo
+$11.11/mo
 
 5g
 
 1TB
 
-$30/mo
+$11.11/mo
 
 [More info](https://pages.circles.life/sg/golden-village/)
 
