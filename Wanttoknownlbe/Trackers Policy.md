@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/de-legende-van-de-13-kristallen-schedels/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/de-lichtenergie-vanuit-het-atlantische-bewustzijn/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
