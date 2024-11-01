@@ -69,8 +69,6 @@ Menu
     
     * [Birthday](https://www.moonpig.com/uk/personalised-cards/birthday/)
     * [Anniversary](https://www.moonpig.com/uk/personalised-cards/anniversary/)
-    * [Halloween](https://www.moonpig.com/uk/personalised-cards/halloween/)
-    * [Diwali](https://www.moonpig.com/uk/personalised-cards/diwali/)
     * [Christmas](https://www.moonpig.com/uk/personalised-cards/christmas/)
     * [Engagement](https://www.moonpig.com/uk/personalised-cards/engagement/)
     * [Wedding](https://www.moonpig.com/uk/personalised-cards/weddings/)
