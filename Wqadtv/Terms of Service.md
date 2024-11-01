@@ -30,16 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d73ca2c8-f8b2-44e6-a50b-0416b6449924/20241031T203717/d73ca2c8-f8b2-44e6-a50b-0416b6449924_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d73ca2c8-f8b2-44e6-a50b-0416b6449924/20241031T203717/d73ca2c8-f8b2-44e6-a50b-0416b6449924_360x203.jpg)](https://www.wqad.com/article/news/local/divided-in-death-carlock-illinois-cemeteries-separated-by-politics/526-f44fc40e-8718-40ed-bf2f-8d606d54b7f3)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d920eab7-f707-453f-9868-c1669c5937f5/20241101T030531/d920eab7-f707-453f-9868-c1669c5937f5_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d920eab7-f707-453f-9868-c1669c5937f5/20241101T030531/d920eab7-f707-453f-9868-c1669c5937f5_360x203.jpg)](https://www.wqad.com/article/news/local/report-mental-health-challenges-quad-cities/526-c6d4f7db-f227-4eb2-b75f-4780f2e6692a)
         
-        #### [Divided in death: The legend behind the Illinois town's cemeteries separated by politics](https://www.wqad.com/article/news/local/divided-in-death-carlock-illinois-cemeteries-separated-by-politics/526-f44fc40e-8718-40ed-bf2f-8d606d54b7f3) [![](https://media.tegna-media.com/assets/WQAD/images/d73ca2c8-f8b2-44e6-a50b-0416b6449924/20241031T203717/d73ca2c8-f8b2-44e6-a50b-0416b6449924_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d73ca2c8-f8b2-44e6-a50b-0416b6449924/20241031T203717/d73ca2c8-f8b2-44e6-a50b-0416b6449924_360x203.jpg)](https://www.wqad.com/article/news/local/divided-in-death-carlock-illinois-cemeteries-separated-by-politics/526-f44fc40e-8718-40ed-bf2f-8d606d54b7f3)
+        #### [More people in the Quad Cities are dealing with mental health struggles, new report finds](https://www.wqad.com/article/news/local/report-mental-health-challenges-quad-cities/526-c6d4f7db-f227-4eb2-b75f-4780f2e6692a)
         
-        #### [1 central Illinois' early townspeople took partisanship to the grave](https://www.wqad.com/article/news/local/divided-in-death-carlock-illinois-cemeteries-separated-by-politics/526-f44fc40e-8718-40ed-bf2f-8d606d54b7f3)
-    *  [![](https://media.tegna-media.com/assets/KFMB/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_16x9.jpg) ![](https://media.tegna-media.com/assets/KFMB/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_360x203.jpg)](https://www.wqad.com/article/news/local/mercer-county-high-school-employee-arrested/526-14da4e69-400e-4c67-a30d-728cfd490a2f)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b87920cd-302a-42f4-9491-3600b0a3165e/20241011T002959/b87920cd-302a-42f4-9491-3600b0a3165e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b87920cd-302a-42f4-9491-3600b0a3165e/20241011T002959/b87920cd-302a-42f4-9491-3600b0a3165e_360x203.jpg)](https://www.wqad.com/article/news/local/fci-thomson-smoke-evacuation/526-15dfcbd6-9d3e-456c-aae6-a1028a1ed416)
         
-        #### [Mercer County High School employee arrested for 'inappropriate conduct,' district says](https://www.wqad.com/article/news/local/mercer-county-high-school-employee-arrested/526-14da4e69-400e-4c67-a30d-728cfd490a2f) [![](https://media.tegna-media.com/assets/KFMB/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_16x9.jpg) ![](https://media.tegna-media.com/assets/KFMB/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_360x203.jpg)](https://www.wqad.com/article/news/local/mercer-county-high-school-employee-arrested/526-14da4e69-400e-4c67-a30d-728cfd490a2f)
+        #### [Smoke sighting at FCI Thomson prompts evacuation, no injuries reported](https://www.wqad.com/article/news/local/fci-thomson-smoke-evacuation/526-15dfcbd6-9d3e-456c-aae6-a1028a1ed416)
         
-        #### [Mercer County School District says employee arrested for 'inappropriate conduct'](https://www.wqad.com/article/news/local/mercer-county-high-school-employee-arrested/526-14da4e69-400e-4c67-a30d-728cfd490a2f)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -58,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/8336e65b-66b4-4a93-bc9b-59aca38d68dc/20241031T122654/8336e65b-66b4-4a93-bc9b-59aca38d68dc_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8336e65b-66b4-4a93-bc9b-59aca38d68dc/20241031T122654/8336e65b-66b4-4a93-bc9b-59aca38d68dc_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/946005a7-4575-4625-89e2-306d18f19723/20241101T033405/946005a7-4575-4625-89e2-306d18f19723_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/946005a7-4575-4625-89e2-306d18f19723/20241101T033405/946005a7-4575-4625-89e2-306d18f19723_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Windy and cooler temperatures for our ghouls and goblins](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Cool start to your Friday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WQAD/images/d9a1ff83-f2b1-4a19-a5a9-b700d78392c4/d9a1ff83-f2b1-4a19-a5a9-b700d78392c4_16x9.png) ![](https://media.tegna-media.com/assets/WQAD/images/d9a1ff83-f2b1-4a19-a5a9-b700d78392c4/d9a1ff83-f2b1-4a19-a5a9-b700d78392c4_360x203.png)](https://www.wqad.com/article/news/local/public-safety/burn-bans-around-quad-cities/526-e15af3d1-9db9-46da-b8ff-ea09d31efe6c)
         
@@ -88,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-48°
+40°
 
-![Mostly Cloudy/Wind](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
