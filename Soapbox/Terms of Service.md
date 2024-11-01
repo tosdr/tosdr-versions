@@ -46,8 +46,10 @@ Menu icon Menu
         
     
 * [Our Mission](https://www.soapboxsoaps.com/pages/ourmission)
-* [Stores](https://www.soapboxsoaps.com/pages/store-locator)
-* [Hope Code](https://www.soapboxsoaps.com/pages/hope)
+* [Build a Bundle](https://www.soapboxsoaps.com/collections)
+* [Retail Partners](https://www.soapboxsoaps.com/)
+* [Hope Code](https://www.soapboxsoaps.com/)
+* [Contact Us](https://www.soapboxsoaps.com/)
 
  Cancel Search icon Spinner icon
 
@@ -110,8 +112,10 @@ Search icon Search
         
     
 * [Our Mission](https://www.soapboxsoaps.com/pages/ourmission)
-* [Stores](https://www.soapboxsoaps.com/pages/store-locator)
-* [Hope Code](https://www.soapboxsoaps.com/pages/hope)
+* [Build a Bundle](https://www.soapboxsoaps.com/collections)
+* [Retail Partners](https://www.soapboxsoaps.com/)
+* [Hope Code](https://www.soapboxsoaps.com/)
+* [Contact Us](https://www.soapboxsoaps.com/)
 
 Terms of service
 ================
