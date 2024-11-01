@@ -4,7 +4,7 @@
 
 * [How it works](#)
     
-    [![](https://budgetbakers.com/wp-content/uploads/2022/05/460x0w.webp)](https://budgetbakers.com/what-is-wallet/)
+    [![](https://i0.wp.com/budgetbakers.com/wp-content/uploads/2022/05/460x0w.webp?fit=460%2C460&ssl=1)](https://budgetbakers.com/what-is-wallet/)
     
     [What is wallet](https://budgetbakers.com/what-is-wallet/)
     
@@ -361,7 +361,7 @@ SAVE & ACCEPT
 How it works
 ------------
 
-[![](https://budgetbakers.com/wp-content/uploads/2022/05/460x0w.webp)](https://budgetbakers.com/what-is-wallet/)
+[![](https://i0.wp.com/budgetbakers.com/wp-content/uploads/2022/05/460x0w.webp?fit=460%2C460&ssl=1)](https://budgetbakers.com/what-is-wallet/)
 
 [What is wallet](https://budgetbakers.com/what-is-wallet/)
 
@@ -395,4 +395,4 @@ Support
 
 [For Business](#)
 
-[![](https://budgetbakers.com/wp-content/uploads/2022/05/Lifetime_new1-1024x538.png)](https://web.budgetbakers.com/settings/billing?origin=banner)
+[![](https://i0.wp.com/budgetbakers.com/wp-content/uploads/2022/05/Lifetime_new1.png?fit=800%2C420&ssl=1)](https://web.budgetbakers.com/settings/billing?origin=banner)
