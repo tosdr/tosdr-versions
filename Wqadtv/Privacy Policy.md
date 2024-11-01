@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        
+        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/d920eab7-f707-453f-9868-c1669c5937f5/20241101T030531/d920eab7-f707-453f-9868-c1669c5937f5_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d920eab7-f707-453f-9868-c1669c5937f5/20241101T030531/d920eab7-f707-453f-9868-c1669c5937f5_360x203.jpg)](https://www.wqad.com/article/news/local/report-mental-health-challenges-quad-cities/526-c6d4f7db-f227-4eb2-b75f-4780f2e6692a)
         
         #### [More people in the Quad Cities are dealing with mental health struggles, new report finds](https://www.wqad.com/article/news/local/report-mental-health-challenges-quad-cities/526-c6d4f7db-f227-4eb2-b75f-4780f2e6692a)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b87920cd-302a-42f4-9491-3600b0a3165e/20241011T002959/b87920cd-302a-42f4-9491-3600b0a3165e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b87920cd-302a-42f4-9491-3600b0a3165e/20241011T002959/b87920cd-302a-42f4-9491-3600b0a3165e_360x203.jpg)](https://www.wqad.com/article/news/local/fci-thomson-smoke-evacuation/526-15dfcbd6-9d3e-456c-aae6-a1028a1ed416)
-        
-        #### [Smoke sighting at FCI Thomson prompts evacuation, no injuries reported](https://www.wqad.com/article/news/local/fci-thomson-smoke-evacuation/526-15dfcbd6-9d3e-456c-aae6-a1028a1ed416)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WVEC/images/bb35a3b5-a412-4a76-9390-e3cccdcedf1c/20241031T174306/bb35a3b5-a412-4a76-9390-e3cccdcedf1c_16x9.jpg) ![](https://media.tegna-media.com/assets/WVEC/images/bb35a3b5-a412-4a76-9390-e3cccdcedf1c/20241031T174306/bb35a3b5-a412-4a76-9390-e3cccdcedf1c_360x203.jpg)](https://www.wqad.com/article/tech/science/what-is-a-zombie-star-how-can-you-see-it-t-coronae-borealis-nova-explosion/291-70cd4116-2d8a-46f1-96f1-41a29fd96c77)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/26ff345c-487a-4a8f-ab50-6de774af458c/20241101T121111/26ff345c-487a-4a8f-ab50-6de774af458c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/26ff345c-487a-4a8f-ab50-6de774af458c/20241101T121111/26ff345c-487a-4a8f-ab50-6de774af458c_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [T Coronae Borealis: A 'zombie star' is about to light up the night sky](https://www.wqad.com/article/tech/science/what-is-a-zombie-star-how-can-you-see-it-t-coronae-borealis-nova-explosion/291-70cd4116-2d8a-46f1-96f1-41a29fd96c77)
+        #### [Sunny start to November... Saturday remains your weekend's best](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WFMY/images/bcc0f4dd-4211-4535-a5ac-51287c6302a4/20241004T160610/bcc0f4dd-4211-4535-a5ac-51287c6302a4_16x9.jpg) ![](https://media.tegna-media.com/assets/WFMY/images/bcc0f4dd-4211-4535-a5ac-51287c6302a4/20241004T160610/bcc0f4dd-4211-4535-a5ac-51287c6302a4_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene/hurricane-helene-victims-still-missing-in-north-carolina/83-4f8822c7-4d98-4d81-866e-f713697336ee)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/b1e01515-82dd-44ad-8a0b-57c01077f448/20241101T112918/b1e01515-82dd-44ad-8a0b-57c01077f448_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/b1e01515-82dd-44ad-8a0b-57c01077f448/20241101T112918/b1e01515-82dd-44ad-8a0b-57c01077f448_360x203.jpg)](https://www.wqad.com/article/news/nation-world/3-days-after-historic-floods-at-least-158-dead-spain/507-f60dff0f-6da0-435c-a4cb-307248d57aff)
         
-        #### [How many people are still missing in western North Carolina one month after Hurricane Helene?](https://www.wqad.com/article/weather/hurricane/helene/hurricane-helene-victims-still-missing-in-north-carolina/83-4f8822c7-4d98-4d81-866e-f713697336ee)
+        #### [Spanish residents appeal for help, 3 days after historic floods left at least 158 dead](https://www.wqad.com/article/news/nation-world/3-days-after-historic-floods-at-least-158-dead-spain/507-f60dff0f-6da0-435c-a4cb-307248d57aff)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-33°
+44°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
