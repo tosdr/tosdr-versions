@@ -205,29 +205,29 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Non-Photoshopped Images!](https://www.somethingawful.com/photoshop-phriday/photographic-recreations/)
-* [Phake Games 4](https://www.somethingawful.com/photoshop-phriday/phake-games-4/1/)
-* [Grandpa Rodeo '08](https://www.somethingawful.com/photoshop-phriday/photoshop-my-gramps/1/)
-* [Wrestling the Twister: An Interview With M. Night Shyamalan](https://www.somethingawful.com/news/wrestling-twister-an/)
-* [JPEG WAREHOUSE](https://www.somethingawful.com/flash-tub/jpeg-warehouse-cartoon/)
+* [Children's Letters to Frankenstein](https://www.somethingawful.com/news/letters-to-frankenstein/1/)
+* [The Impossible; Texas Chainsaw 3D; Hitchcock; Hyde Park on Hudson](https://www.somethingawful.com/current-movie-reviews/impossible-texas-chainsaw/1/)
+* [Last Words of Dogs](https://www.somethingawful.com/news/dogs-last-words/1/)
+* [Making FPS Mods](https://www.somethingawful.com/guides/guide-making-fps/1/)
+* [Remorseful Hitman Kid!](https://www.somethingawful.com/photoshop-phriday/child-gun-photo/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [temporary gbs chat thread refugee station (don't tell tarquinn...)](http://forums.somethingawful.com/showthread.php?threadid=4074021 "temporary gbs chat thread refugee station (don't tell tarquinn...)")
-* ![](https://fi.somethingawful.com/forums/posticons/lf-mccain.gif) [Whats the most psychotic boomer meltdown youve ever witnessed?](http://forums.somethingawful.com/showthread.php?threadid=4074046 "Whats the most psychotic boomer meltdown youve ever witnessed?")
+* ![](https://fi.somethingawful.com/forums/posticons/samartd-organs.gif) [As it is Halloween it is time that we all learned the truth.](http://forums.somethingawful.com/showthread.php?threadid=4074003 "As it is Halloween it is time that we all learned the truth.")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [Planes for Morons](http://forums.somethingawful.com/showthread.php?threadid=4074004 "Planes for Morons")
+* ![](https://fi.somethingawful.com/forums/posticons/hell-suck.gif) [Relationship deal breakers](http://forums.somethingawful.com/showthread.php?threadid=4074071 "Relationship deal breakers")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [temporary gbs chat thread refugee station (don't tell tarquinn...)](http://forums.somethingawful.com/showthread.php?threadid=4074021 "temporary gbs chat thread refugee station (don't tell tarquinn...)")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-mspaint.gif) [did you know the origin of "cartoon"](http://forums.somethingawful.com/showthread.php?threadid=4073998 "did you know the origin of "cartoon"")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [another obligatory photoshop thread to shit on trump](http://forums.somethingawful.com/showthread.php?threadid=4074043 "another obligatory photoshop thread to shit on trump")
-* ![](https://fi.somethingawful.com/forums/posticons/samartd-organs.gif) [As it is Halloween it is time that we all learned the truth.](http://forums.somethingawful.com/showthread.php?threadid=4074003 "As it is Halloween it is time that we all learned the truth.")
-* ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [post itt when you try something new](http://forums.somethingawful.com/showthread.php?threadid=4073992 "post itt when you try something new")
+* ![](https://fi.somethingawful.com/forums/posticons/lf-mccain.gif) [Whats the most psychotic boomer meltdown youve ever witnessed?](http://forums.somethingawful.com/showthread.php?threadid=4074046 "Whats the most psychotic boomer meltdown youve ever witnessed?")
 
 ### Random Articles
 
-* [Guitar Hero Redux, One Sentence Reviews](https://www.somethingawful.com/video-game-article/guitar-hero-redux/)
-* [Demon Buster](https://www.somethingawful.com/awful-links/awful-link-1265/)
-* [State Og Update: 05.15.04](https://www.somethingawful.com/state-og/state-og-update-70/)
-* [I Hate You Page 112](https://www.somethingawful.com/cliff-yablonski/i-hate-you-112/)
-* [SkyMall Product Reviews: X5 HairLaser](https://www.somethingawful.com/news/skymall-hair-laser/)
+* [You Have 24-hours to Correct Your Mistake, Santa](https://www.somethingawful.com/news/santa-claus-failure/)
+* [State Og Update: 04.10.04](https://www.somethingawful.com/state-og/state-og-update-66/)
+* [SemenTanks.com (Thanks, Matt J!)](https://www.somethingawful.com/awful-links/sementankscom-website/)
+* [Brad The Vampire](https://www.somethingawful.com/awful-links/awful-link-3195/)
+* [I Hate You Page 84](https://www.somethingawful.com/cliff-yablonski/i-hate-you-84/)
 
 [Random!](https://www.somethingawful.com/random/)
 
