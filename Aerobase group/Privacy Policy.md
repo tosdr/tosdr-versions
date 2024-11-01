@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [Marine pilot loses command after ejecting from F-35B that kept flying](https://www.defensenews.com/news/your-marine-corps/2024/10/31/marine-pilot-loses-command-after-ejecting-from-f-35b-that-kept-flying/)  
+    10/31/24 04:57pm  
+    
+    A pilot who ejected from an F-35B over South Carolina last year alleges he was fired from his command of a prestigious squadron as a result of the mishap. (Cpl. Christopher R. Lape/Marine Corps)
+    
 * [Air Force open to greater B-21 stealth bomber role in strategy revamp](https://www.defensenews.com/air/2024/10/28/air-force-open-to-greater-b-21-stealth-bomber-role-in-strategy-revamp/)  
     10/28/24 04:30pm  
     
@@ -214,11 +219,6 @@ This document was last updated on January 1, 2014
     10/25/24 07:22am  
     
     A mockup of the New Generation Fighter (NGF) for the Future Combat Air System (FCAS) program is on display at the Paris Air Show in June 2023. (Julien de Rosa/AFP via Getty Images)
-    
-* [Northrop expects next B-21 contract by year’s end](https://www.defensenews.com/air/2024/10/24/northrop-expects-next-b-21-contract-by-years-end/)  
-    10/24/24 01:22pm  
-    
-    Northrop Grumman is trying to bring costs down on the B-21 Raider, which incurred a nearly $1.6 billion loss at the end of 2023. (Giancarlo Casem/Air Force)
     
 
 Recent parts by keyword  
