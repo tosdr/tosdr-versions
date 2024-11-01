@@ -31,6 +31,675 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Aumenta el número de fallecidos en España por inundaciones
+==========================================================
+
+DANA es la catástrofe natural más grave que ha sufrido España en décadas.
+-------------------------------------------------------------------------
+
+![Vecinos y bomberos trabajan en la limpieza de las calles, para restablecer la normalidad en Alfafar (Valencia), este viernes. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/ae524244b804c05b52b441b186c5af8674cf83fb1.jpg)
+
+El viernes 1 de noviembre de 2024, el **Gobierno de España** aumentó a 205 el **número de fallecidos** por el temporal que afecta al este del país desde el martes.
+
+La búsqueda de desaparecidos en las zonas inundadas continúa, mientras las autoridades intentan hacer llegar alimentos a las poblaciones afectadas.
+
+### Más noticias
+
+* **[Ecuatoriano está desaparecido tras emergencia por lluvias en Valencia](https://www.elcomercio.com/actualidad/mundo/dana-deja-victimas-mortales-ecuatorianos.html "https://www.elcomercio.com/actualidad/mundo/dana-deja-victimas-mortales-ecuatorianos.html")**
+* **[Efectos de la DANA como consecuencia del cambio climático](https://www.elcomercio.com/actualidad/mundo/inundaciones-temporal-espana-deja-fallecidos.html "https://www.elcomercio.com/actualidad/mundo/inundaciones-temporal-espana-deja-fallecidos.html")**
+
+Se sumaron a los servicios de emergencia otros 500 militares: 300 del Ejército de Tierra, 100 del Aire y 100 de la Armada. Los equipos de rescate centran sus esfuerzos en encontrar personas desaparecidas, abrir vías de acceso y distribuir ayuda de primera necesidad.
+
+Miles de personas llevan a pie la ayuda
+---------------------------------------
+
+En paralelo, los ciudadanos han mostrado su solidaridad en las calles. Muchos se desplazaron a pie desde el centro de Valencia hacia las localidades más afectadas, cargadas con alimentos, cubos, palas y agua.
+
+Las autoridades han solicitado que nadie se acerque a las zonas afectadas para evitar colapsar los accesos y facilitar el trabajo de los equipos de emergencia. Más de cien carreteras siguen cerradas en Valencia, Andalucía y Castilla-La Mancha.
+
+Miles de personas permanecen sin agua, luz o teléfono, y dependen de la ayuda que reparten los equipos de emergencia. En Letur (Albacete), una de las localidades más golpeadas por el temporal, 200 personas, apoyadas por perros rastreadores de la Unidad Militar de Emergencias y de la Guardia Civil, buscan a cinco desaparecidos en el casco antiguo.
+
+El servicio ferroviario de Alta Velocidad entre Madrid y Valencia está suspendido. La compañía aérea Iberia activó un plan de acción para facilitar los desplazamientos.
+
+Se prevé que la línea ferroviaria esté fuera de servicio durante al menos dos semanas debido a graves daños en varios túneles.
+
+Algunos ayuntamientos han solicitado ayuda de tractores, grúas y volquetes. También, organizaciones de agricultores invitaron a sus asociados a usar sus vehículos para despejar el barro y facilitar las labores de los equipos de emergencia.
+
+“La emergencia meteorológica no ha finalizado”
+----------------------------------------------
+
+La **Agencia Estatal de Meteorología (Aemet)** ha advertido que la situación sigue siendo crítica. Las intensas lluvias continuarán durante el fin de semana.
+
+Cinco regiones permanecen en alerta, y en Huelva (Andalucía), la alerta es de nivel “rojo” por lluvias extremas, que podrían superar los 140 litros por metro cuadrado.
+
+Las alertas “naranjas” se extienden en Andalucía, Comunidad Valenciana, Cataluña e Islas Baleares, donde se prevén lluvias muy abundantes y persistentes. La Aemet ha sido clara en su mensaje: “La emergencia meteorológica no ha finalizado. La DANA sigue sobre España”.
+
+El presidente del Gobierno, Pedro Sánchez, presidió el Comité de crisis para el seguimiento del temporal. A través de la red social X, agradeció a los servidores públicos y voluntarios su dedicación en esta crisis. “Son el ejemplo de la solidaridad y la entrega sin límites de la sociedad española”, destacó.
+
+¿Cuántos feriados hay en noviembre de 2024 en Ecuador?
+======================================================
+
+Ecuador atraviesa por un feriado extenso por el Día de los Difuntos y la Independencia de Cuenca.
+-------------------------------------------------------------------------------------------------
+
+![Los feriados son la excusa perfecta para hacer turismo dentro del Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/Feriados-en-noviembre.jpg)
+
+**Ecuador** cuenta con 10 f**eriados nacionales** no recuperables en los que el descanso es **obligatorio** y se conmemoran **fechas históricas[.](https://es.wikipedia.org/wiki/D%C3%ADa_de_los_Fieles_Difuntos "https://es.wikipedia.org/wiki/D%C3%ADa_de_los_Fieles_Difuntos")**
+
+Más noticias
+------------
+
+* [Actividades en museos de Quito por el feriado del Día de los Difuntos](https://www.elcomercio.com/actualidad/quito/museos-actividades-quito-feriado-dia-difuntos.html "Actividades en museos de Quito por el feriado del Día de los Difuntos")
+* [Iglesias del Centro Histórico de Quito son siempre una alternativa para el feriado](https://www.elcomercio.com/actualidad/quito/iglesias-centro-historico-quito-alternativa-visita-feriado.html "Iglesias del Centro Histórico de Quito son siempre una alternativa para el feriado")
+* [Horarios de atención de los cementerios en Quito para el feriado](https://www.elcomercio.com/actualidad/quito/horarios-atencion-cementerios-quito-feriado.html "Horarios de atención de los cementerios en Quito para el feriado")
+
+Actualmente, el país se encuentra en un **feriado extenso** que incluye el 31 de octubre como día de descanso recuperable, decretado por el presidente **Daniel Noboa.**
+
+Feriados en noviembre de 2024
+-----------------------------
+
+En noviembre de 2024, **Ecuador** tiene dos **feriados** **nacionales** no recuperables:
+
+1. **Día de los Difuntos**, que cae el sábado 2 de noviembre, pero cuyo descanso se traslada al viernes 1 de noviembre.
+2. **Independencia de Cuenca**, el domingo 3 de noviembre, con descanso trasladado al lunes 4 de noviembre.
+
+Gracias a este ajuste, los ecuatorianos disfrutan de **cinco días consecutivos de descanso**, del 31 de octubre al 4 de noviembre.
+
+El 31 de octubre, día recuperable, fue decretado como descanso obligatorio por **Noboa**.
+
+Pago por trabajar en un feriado no recuperable
+----------------------------------------------
+
+Según el artículo 55, numeral 4 del **Código del Trabajo**, el trabajo en días de descanso, como sábados, domingos y feriados, se remunera con un recargo del 100%, es decir, cada hora trabajada se paga al doble, considerándose como trabajo extraordinario.
+
+Cálculo del pago en días feriados
+---------------------------------
+
+Para calcular el pago por trabajar en días feriados:
+
+1. **Divida el salario mensual** entre 240, el número estándar de horas trabajadas en un mes.
+2. **Multiplique el resultado** por 2 para obtener el pago por hora en días feriados.
+3. Si trabaja 8 horas en un **feriado**, multiplique ese valor por 8 para conocer el total a recibir.
+
+Motivo del feriado adicional decretado por Daniel Noboa
+-------------------------------------------------------
+
+Este jueves 31 de octubre de 2024, **Ecuador** inicia un **feriado de cinco días**. El presidente **Daniel Noboa** suspendió la j**ornada laboral** para el sector **público y privado**, extendiendo el feriado de noviembre que cubre el **Día de los Difuntos** y la I**ndependencia de Cuenca**, los cuales se conmemoran entre el 1 y el 4 de noviembre.
+
+Según el **Decreto No. 438**, esta medida busca fomentar el **turismo interno** y apoyar la **economía nacional.**
+
+El decreto establece que el **sector público** debe **recuperar** **esta jornada** en una fecha posterior, mientras que el sector **privado** tiene la opción de decidir **si aplica o no la recuperación.**
+
+¿Se cobra extra por trabajar en un feriado recuperable?
+-------------------------------------------------------
+
+Vanessa Velásquez, experta en temas laborales, explicó que la **jornada laboral del 31 de octubre** de 2024 es un **feriado recuperable**, por lo que **no** **se debe pagar ningún recargo adicional.**
+
+Velásquez también señaló que, de acuerdo con el **Código del Trabajo**, el pago de horas extras al 100% solo aplica en días de **descanso obligatorio** como los **sábados** y **domingos**, considerados días de **descanso forzoso**, lo cual no es aplicable en este caso.
+
+Próximo feriado nacional en Ecuador
+-----------------------------------
+
+El último feriado nacional de 2024 corresponde al 25 de diciembre, en conmemoración de la Navidad.
+
+Un golpeado Emelec recibe al favorito Liga de Quito
+===================================================
+
+Emelec será la primera gran prueba de Liga de Quito en su camino a la final de la Liga Pro.
+-------------------------------------------------------------------------------------------
+
+![Liga de Quito y Emelec en el partido de la primera etapa de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-58.jpg)
+
+**Emelec** atraviesa una de las peores crisis deportivas e institucionales del siglo XXI, con nuevos problemas cada día. A las deudas y conflictos administrativos se suma que su próximo partido será ante **Liga de Quito**, uno de los favoritos del torneo.
+
+Este cotejo con la ‘U’ coincide con el primer compromiso desde la confirmación de la salida de **José** **Pileggi** como presidente del ‘Bombillo’, tras poco más de año y medio en el cargo.
+
+### Más noticias:
+
+* [José Pileggi renuncia a su cargo como presidente de Emelec](https://www.elcomercio.com/deportes/jose-pileggi-emelec-renuncia-presidente.html "José Pileggi renuncia a su cargo como presidente de Emelec")
+* [Liga de Quito, a cuatro partidos de una nueva final en la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-a-cuatro-partidos-de-una-nueva-final-en-la-liga-pro.html "Liga de Quito, a cuatro partidos de una nueva final en la Liga Pro")
+* [Emelec sufre otra derrota y se hunde en la tabla de la Liga Pro](https://www.elcomercio.com/deportes/futbol/emelec-derrota-catolica-gol-moreno.html "Emelec sufre otra derrota y se hunde en la tabla de la Liga Pro")
+
+¿Emelec le hará ‘casita’ a Liga de Quito?
+-----------------------------------------
+
+A pesar del mal momento del cuadro guayaquileño, nunca se lo puede considerar un rival fácil, ya que siempre es capaz de complicar los partidos, independientemente de su situación. Además, en el primer encuentro de la temporada en el E**stadio Rodrigo Paz Delgado**, ambos equipos empataron 2-2, con un gol de Emelec en los últimos minutos y con un jugador menos.
+
+El enfrentamiento será este **domingo 3 de noviembre a las 15:30,** en el Estadio George Capwell, correspondiente a la jornada 11 de la segunda etapa.
+
+**Liga de Quito llega como escolta de la tabla, con 23 puntos,** los mismos que el líder Independiente del Valle, pero con peor gol de diferencia.
+
+Emelec, contra las cuerdas en la Liga Pro
+-----------------------------------------
+
+Durante la temporada 2024, **Emelec** ha enfrentado varios inconvenientes y limitaciones tanto a nivel administrativo como futbolístico, los cuales se han influido mutuamente.
+
+Dentro de la Liga Pro, el cuadro azul **se encuentra en la penúltima posición de la tabla** de la segunda etapa, con solo siete puntos. Ha ganado en tres oportunidades, empatado una y perdido siete. Además, el equipo cuenta con tres puntos menos de los correspondientes debido a una sanción por deudas.
+
+En la tabla acumulada, Emelec ocupa el noveno puesto con 32 puntos y mantiene la esperanza de **clasificar a la Copa Sudamericana**, a la cual acceden los equipos ubicados desde el quinto hasta el octavo puesto.
+
+No te pierdas nuestro Especial de Halloween
+-------------------------------------------
+
+México presenta el Festival Internacional del Globo 2024 
+=========================================================
+
+El evento se realizará del 15 al 18 de noviembre de 2024.
+---------------------------------------------------------
+
+![Imagen referencial sobre el Festival de Globos.](https://www.elcomercio.com/wp-content/uploads/2024/10/globos-pexels.jpg)
+
+ La **secretaria de Turismo de México**, Josefina Rodríguez Zamora, presentó este lunes la edición 2024 del **Festival Internacional del Globo (FIG)**, a celebrarse en León, en el estado de Guanajuato, ubicado en el Bajío, centro-norte del país.
+
+### Más noticias
+
+* [La construcción de parques industriales en México crece un 20 %](https://www.elcomercio.com/actualidad/mundo/construccion-parques-industriales-mexico-crece-20.html "La construcción de parques industriales en México crece un 20 %")
+* [¿Por qué México llora a Fernando ‘Toro’ Valenzuela?](https://www.elcomercio.com/deportes/futbol/mexico-llora-fernando-toro-valenzuela-sanchez-chavez.html "¿Por qué México llora a Fernando ‘Toro’ Valenzuela?")
+* [Sheinbaum insistirá en la demanda de México contra Ecuador y en un salvoconducto para Glas](https://www.elcomercio.com/actualidad/mundo/sheinbaum-insistira-demanda-mexico-contra-ecuador-salvoconducto-glas.html "Sheinbaum insistirá en la demanda de México contra Ecuador y en un salvoconducto para Glas")
+
+La **funcionaria del Gobierno mexicano** precisó en conferencia que por este evento, a realizarse del 15 al 18 de noviembre, se estiman beneficios económicos por más de 800 millones de pesos (unos 40 millones de dólares), así como la llegada de 400 000 visitantes.
+
+Acompañada de la **gobernadora de Guanajuato**, Libia García Muñoz y la presidenta municipal de León, Alejandra Gutiérrez Campos, destacó la importancia de este festival, considerado uno de los más relevantes a nivel mundial en el ámbito de la aerostación.
+
+La funcionaria subrayó que el FIG ha sido reconocido como el evento de aerostación más importante del mundo en 2023, lo cual lo convierte en una plataforma destacada para la promoción de México.
+
+El FIG de este año contará con la participación de 200 globos aerostáticos de diversas formas y colores, provenientes de 20 países, incluidos **Alemania, Brasil, Turquía, Estados Unidos, Francia, España, Reino Unido, Canadá, Kenia, entre otros.**
+
+Este despliegue, que “pinta de colores el cielo de León”, forma parte de los esfuerzos de la Secretaría de Turismo (Sectur) para atraer visitantes y fomentar el turismo en el país.
+
+Asistentes de otros municipios
+------------------------------
+
+En ese sentido, **Rodríguez Zamora** destacó que el 89 % de los asistentes al FIG provienen de otros municipios del estado de Guanajuato, de otras demarcaciones e incluso de otros países, lo que contribuye a una ocupación hotelera del 90 % en León durante el festival.
+
+La gobernadora García Muñoz resaltó que el éxito de este tipo de eventos en Guanajuato se debe al trabajo en equipo y al **atractivo turístico de la entidad,** que cuenta con dos Ciudades Patrimonio de la Humanidad y seis Pueblos Mágicos.
+
+“Guanajuato es un estado que le abre las puertas al turismo y se siente orgulloso de recibir a quienes lo visitan”, declaró.
+
+En su oportunidad, Alejandra Gutiérrez Campos, presidenta municipal de León, mencionó que este municipio cuenta con **infraestructura hotelera y restaurantera** lista para recibir a turistas, tanto nacionales como internacionales, que estarán presentes en este gran evento. 
+
+Actividades en museos de Quito por el feriado del Día de los Difuntos
+=====================================================================
+
+Los museos de Quito tienen una amplia agenda cultural para el feriado del Día de Difuntos e Independencia de Cuenca.
+--------------------------------------------------------------------------------------------------------------------
+
+![Los museos de Quito tiene diferentes actividades por el feriado.](https://www.elcomercio.com/wp-content/uploads/2024/11/Museos-feriado-Quito.jpg)
+
+Durante el próximo feriado, los espacios **culturales** de la **Fundación Museos de la Ciudad** abrirán sus puertas con una tarifa especial de 1 dólar. Esta iniciativa brinda a la ciudadanía una alternativa accesible y enriquecedora[.](https://es.wikipedia.org/wiki/D%C3%ADa_de_los_Fieles_Difuntos "https://es.wikipedia.org/wiki/D%C3%ADa_de_los_Fieles_Difuntos")
+
+Más noticias
+------------
+
+* [Iglesias del Centro Histórico de Quito son siempre una alternativa para el feriado](https://www.elcomercio.com/actualidad/quito/iglesias-centro-historico-quito-alternativa-visita-feriado.html "Iglesias del Centro Histórico de Quito son siempre una alternativa para el feriado")
+* [Horarios de atención de los cementerios en Quito para el feriado](https://www.elcomercio.com/actualidad/quito/horarios-atencion-cementerios-quito-feriado.html "Horarios de atención de los cementerios en Quito para el feriado")
+* [Quito ofrece diversas opciones de turismo rural para los feriados de noviembre](https://www.elcomercio.com/actualidad/quito/quito-opciones-turismo-rural-feriados-noviembre.html "Quito ofrece diversas opciones de turismo rural para los feriados de noviembre")
+
+Este descuento aplicará en el Museo de la Ciudad, el Yaku Parque Museo del Agua y el Museo Interactivo de Ciencia. Por otro lado, el Centro de Arte Contemporáneo mantendrá su **acceso libre.**
+
+Actividades especiales con acceso libre o con la entrada de un dólar
+--------------------------------------------------------------------
+
+El 3 de noviembre, desde las 10:00, el **Centro de Arte Contemporáneo** invita a participar en **Guaguas** de **Punk** en **Hierbas Coladas.**
+
+Se trata de una actividad de **cocina** y **diálogo** sobre tradiciones, memoria y el derecho a la alimentación. La actividad es de **acceso libre** y empezará a las 10h00.
+
+En el **Yaku Parque Museo del Agua**, el 2 de noviembre, presentarán El **ciclo infinito de la vida** y la **muerte**.
+
+Este recorrido servirá reflexionar sobre las relaciones entre la **vida** y la **muerte** en el mundo animal. Esta actividad, que incluye un taller de grabado, estará disponible con la entrada al museo.
+
+Actividades en los muesos de Quito con costo
+--------------------------------------------
+
+Con la llegada de un nuevo feriado nacional, la Fundación Museos de la Ciudad invita a la ciudadanía a disfrutar de una propuesta cultural, que se llevará a cabo del 1 al 8 de noviembre.
+
+La programación incluye recorridos fantasmagóricos, talleres y noches especiales en los museos. Habrá actividades el Museo Interactivo de Ciencia, el Centro de Arte Contemporáneo, el Museo del Carmen Alto y el Museo de la Ciudad.
+
+La agenda, titulada Don Huesos y Doña Colada, invita a redescubrir estos espacios. Busca habitar el espacio público y fomentar el encuentro con el arte, la historia, la ciencia y la memoria. Estas propuestas creativas y únicas promueven el diálogo y el disfrute de experiencias inolvidables.
+
+Programación de la propuesta cultural de los museos de Quito
+------------------------------------------------------------
+
+Entre los eventos destacados, los días 1 y 2 de noviembre, a las 19:00, se podrá disfrutar de **Fantasmas en el templo de la luna**, un recorrido escalofriante por los mitos y anécdotas del **Antiguo Hospital Militar**. Los boletos se encuentran en preventa por 10 dólares y 15 dólares el día del evento.
+
+El **Convento del Carmen Alto** ofrecerá **Saberes** **de la muerte** del 1 al 3 de noviembre, de 15:00 a 17:00, para explorar los saberes relacionados con la **muerte** y su celebración en diferentes culturas.
+
+El 4 de noviembre, a las 11:00, habrá un recorrido especial para familias, donde los niños podrán crear sus propias **guaguas de pan**.
+
+El costo de esta actividad será de 15 dólares para el público general y 12 dólares para personas con discapacidad, adultos mayores y niños de 7 a 12 años.
+
+**El poder del adiós** es otra de las actividades imperdibles, del 1 al 4 de noviembre en el Museo de la Ciudad.
+
+Esta propuesta incluye recorridos por las **criptas del Antiguo Hospital San Juan de Dios**, con relatos y talleres para elaborar figuras de **mazapán**. La entrada tiene un costo de 5 dólares.
+
+El **Museo Interactivo de Ciencia** ofrecerá, el 2 de noviembre a las 10:00, el taller gratuito **Colada Morada** **Molecular**: **De la tradición a la Ciencia**, en el que se explorará la conexión entre los ingredientes de la colada morada y la ciencia molecular de una manera práctica.
+
+Los cupos son limitados y las inscripciones deben hacerse a través de un formulario en línea.
+
+Actividad para el 8 de noviembre
+--------------------------------
+
+Como parte de la programación de la **Noche Iberoamericana de Museos**, el 8 de noviembre habrá tres veladas especiales:
+
+* **Plánticas en el Museo de la Ciudad** a las 18:00.
+* **Una noche en el Museo del Carmen Alto** desde las 17:00.
+* EMPARAMADOS en **Yaku Museo del Agua** a las 18:00.
+
+Cada una de estas actividades tiene un costo de 9 dólares.
+
+Deportivo Quito vs. Toreros y siete partidos más del Ascenso Nacional
+=====================================================================
+
+Deportivo Quito se enfrentará a Toreros FC en los octavos de final del Torneo de Ascenso Nacional.
+--------------------------------------------------------------------------------------------------
+
+![Jugadores del Deportivo Quito en el Gonzalo Pozo Ripalda en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/rivales_1.jpg)
+
+El **Deportivo Quito** sigue en la lucha por conseguir uno de los dos cupos que otorga el Torneo de Ascenso Nacional, organizado por la Federación Ecuatoriana de Fútbol (FEF), para la Liga Pro Serie B 2025.
+
+La última vez que el **Deportivo Quito estuvo en la Serie B fue en el 2016**. Esa temporada descendieron a la Segunda Categoría, no han podido regresar, e incluso tuvieron un paso por el Fútbol Amateur de Pichincha.
+
+### Más noticias:
+
+* [FC Barcelona noquea al Real Madrid en el clásico](https://www.elcomercio.com/deportes/futbol/real-madrid-barcelona-alineaciones-partido-resultado-2024.html "FC Barcelona noquea al Real Madrid en el clásico")
+* [Liga de Quito no puede con Mushuc Runa y pierde el liderato](https://www.elcomercio.com/deportes/liga-quito-lider-mushuc-runa-var-idv.html "Liga de Quito no puede con Mushuc Runa y pierde el liderato")
+* [Liga de Quito está en shock por ‘errores arbitrales’](https://www.elcomercio.com/deportes/liga-quito-errores-arbitrales-quejas-futbol-vitamina-sanchez.html "Liga de Quito está en shock por ‘errores arbitrales’")
+
+Para llegar a los octavos de final, el **Quito tuvo un duro rival en Cantera Orense**. En los 180 minutos empataron 1-1 y recurrieron a una dramática tanda de penales para ganar 3-2 y desatar el festejo de los más de 10 000 hinchas que llegaron al estadio Gonzalo Pozo Ripalda.
+
+El siguiente rival de la ‘AKD’ será **Toreros FC de Guayaquil, el verdugo de Santa Elena Sumpa** con un marcador global de 4-1, con lo que esta llave promete ser una de las más atractivas de la ocho que contempla los octavos de final.
+
+En esta instancia se clasificaron ocho cuadros de la Costa (Deportivo Quevedo, La Paz FC, Patria, Liga de Portoviejo, **Naranja Mekánica, Toreros FC**, 22 de Julio, Huancavilca); siete de la Sierra (Aviced, Deportivo Quito, Cuenca Juniors, La Troncal, La Unión, Mineros y Atlético Vinotinto) y uno de la Amazonia (Primero de Mayo).
+
+Los partidos de ida y vuelta de esta etapa se jugarán entre el viernes 1 y el domingo 10 de noviembre.
+
+El Quito en el Ascenso Nacional
+-------------------------------
+
+En el 2017 el Deportivo Quito regresó a la Segunda Categoría de Pichincha luego de **50 años de ausencia** y de transitar entre la A y la B. 
+
+Para una institución como el Quito cada año se le volvió complejo regresar a los primeros planos del fútbol nacional por la crisis institucional y económica que los aqueja por más de una década. 
+
+Antes de 2024, la única vez que participaron en el Torneo de Ascenso Nacional fue en el 2022 como uno de los cinco representantes de Pichincha junto a Aampetra, Cuniburo FC, Club Deportivo General Miguel Iturralde y Espoli. 
+
+En Pichincha el Quito fue el subcampeón y **perdió el título con Aampetra** por tan solo dos puntos en el hexagonal final. 
+
+Ya en el torneo nacional arrancó con pie derecho al vencer por un marcador **global de 3-2 a Dunamis 0-4 del Carchi** en los treintaidosavos de final. 
+
+En los octavos de final se midió contra B**aldor Bermeo Cabrera de Azuay**. En el global quedaron empatados 2-2 y en la definición de penales los azuayos ganaron 3-2 poniendo fin al sueño de los chullas. 
+
+Ese año los ascendidos fueron **San Antonio de Imbabura y Cuniburo** de Pichincha.
+
+Octavos de final
+----------------
+
+### Sábado 2/11
+
+**11:30 La Unión vs. Patria**
+
+Estadio: El Horno – Pujilí
+
+**13:00 La Paz vs. Mineros**
+
+Estadio: Reales Tamarindos – Portoviejo
+
+**13:00 Toreros vs. Deportivo Quito**
+
+Estadio: Alejandro Ponce Noboa – Guayaquil
+
+**15:00 Huancavilca vs. 22 de Julio**
+
+Estadio: Alberto Spencer – Guayaquil
+
+**15:30 La Troncal vs. Cuenca Jrs.**
+
+Estadio: Municipal – La Troncal
+
+### Domingo 3/11
+
+**11:30 Atlético Vinotinto vs. Deportivo Quevedo**
+
+Estadio: Olímpico Atahualpa – Quito
+
+**15:00 Liga de Portoviejo vs. Naranja Mekánica**
+
+Estadio: Reales Tamarindos – Portoviejo
+
+**15:00 Primero de Mayo vs. Aviced**
+
+Estadio: Municipal – Yantzaza
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/quito_octavos_2-1024x683.jpg)
+
+San viernes – Especial de Halloween
+-----------------------------------
+
+Cancelan el Gran Premio de MotoGP de la Comunitat Valenciana por la DANA
+========================================================================
+
+Las víctimas mortales en la provincia de Valencia a causa de la DANA ascienden hasta las 202.
+---------------------------------------------------------------------------------------------
+
+![Imagen de un piloto del MotoGP en octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/dana_gp_1.jpg)
+
+El Gran Premio Motul de MotoGP de la Comunitat Valenciana, **previsto del 15 al 17 de noviembre de 2024**, ha sido cancelado debido a las graves consecuencia de la DANA que ha asolado buena parte de la provincia de Valencia, informaron fuentes del Circuito Ricardo Tormo, ubicado en Cheste, población afectada por el temporal.
+
+Además, desde la organización del campeonato de MotoGP **se ha comunicado que se está estudiando una nueva sede** y fechas para albergar la prueba que cierra el calendario de MotoGP de 2024.
+
+### Más noticias:
+
+* [Un jugador clave de Ecuador se lesionó y peligra su convocatoria](https://www.elcomercio.com/deportes/futbol/jugador-clave-de-ecuador-se-lesiono-peligra-convocatoria-angelo-preciado.html "Un jugador clave de Ecuador se lesionó y peligra su convocatoria")
+* [LaLiga española suspende cinco partidos por la DANA](https://www.elcomercio.com/deportes/futbol/partidos-suspendidos-espana-la-dana.html "LaLiga española suspende cinco partidos por la DANA")
+* [Moisés Caicedo motivó a Alan Franco a ganar la Libertadores](https://www.elcomercio.com/deportes/futbol/moises-caicedo-motivo-a-alan-franco-a-ganar-la-libertadores.html "Moisés Caicedo motivó a Alan Franco a ganar la Libertadores")
+
+A pesar de que los accesos y los aparcamientos del Ricardo Tormo resultaron “seriamente dañados” el pasado martes 29 de octubre por la DANA, desde **la organización se consideraba viable la reparación y celebración de la prueba**, pero se ha considerado que la situación general de la zona no aconseja la celebración de eventos y finalmente este viernes se ha comunicado la cancelación de la prueba.
+
+La cancelación llega a la par de que este sábado 1 se conociese que las **víctimas mortales en la provincia de Valencia** a causa de la devastadora DANA ascienden ya hasta las 202, según el último recuento facilitado por el Centro de Emergencias de la Generalitat Valenciana.
+
+La mayoría de los pilotos ya se pronunciaron en la jornada del jueves 31 contrarios a correr en Cheste por razones éticas debido a la tragedia que viven miles de afectados por el temporal.
+
+Desde la Generalitat se ha informado de que tanto la organización del **Campeonato del Mundo de Motociclismo**, como la Federación Internacional de Motociclismo y los equipos y pilotos del mundial han trasladado al Circuit y a toda la Comunitat Valenciana su consternación por la situación y su apoyo a los familiares y amigos de las víctimas.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/dana_gp_2-1024x683.jpg)
+
+Estudian nueva sede
+-------------------
+
+En su comunicado se añade que desde Dorna Sports, organizadora del Mundial, y en colaboración con la Federación Internacional y los equipos y pilotos se **están estudiando distintas alternativas para celebrar la última cita** del certamen y la ubicación de la última carrera se anunciará en breve.
+
+Además, desde la organización del Campeonato de MotoGP se indica, en una nota oficial, **que han estado en contacto constante** con las autoridades locales y los responsables el circuito para evaluar cómo ayudar y proceder, al considerar que tienen “una responsabilidad con cada región donde corremos que va mucho más allá del deporte y los eventos”.
+
+Asimismo, se asegura que “para garantizar que la presencia de MotoGP no desvíe ningún recurso de los esfuerzos de recuperación, tanto la organización como las autoridades locales se han visto obligadas a cancelar el GP de Valencia de 2024”.
+
+Los aficionados que tengan entrada para asistir al evento tendrán la oportunidad mantener sus asientos de cara al **Gran Premio de la Comunitat Valenciana del próximo año**, que se celebrará en el Circuit el 16 de noviembre de 2025, o, si lo desean podrán solicitar la devolución íntegra del coste de la entrada. 
+
+San viernes – Especial de Halloween
+-----------------------------------
+
+Cortes de luz en Quito para este 1 de noviembre
+===============================================
+
+Quito tendrá cortes de luz de seis horas durante este 1 de noviembre de 2024.
+-----------------------------------------------------------------------------
+
+![La Empresa Eléctrica Quito anunció los nuevos horarios de cortes de luz para la ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-de-luz-quito.jpg)
+
+El **Ministerio de Energía** ajustó los horarios de cortes de luz en todo el Ecuador para el feriado del **Día de los Difuntos** y la **Independencia de Cuenca**. El objetivo es minimizar el impacto en la ciudadanía durante los días de asueto[.](https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico "https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico")
+
+### Más noticias
+
+* [Cortes de luz en Guayaquil, con nuevos horarios del 1 al 4 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-nuevos-horarios-1-al-4-de-noviembre.html "Cortes de luz en Guayaquil, con nuevos horarios del 1 al 4 de noviembre")
+* [Cortes de luz en Quito, con nuevos horarios del 1 al 4 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-nuevos-horarios-1-al-4-de-noviembre.html "Cortes de luz en Quito, con nuevos horarios del 1 al 4 de noviembre")
+* [Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas](https://www.elcomercio.com/actualidad/ecuador/azuay-lluvias-ayuden-mazar-hidroelectricas.html "Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas")
+
+En respuesta, la Empresa Eléctrica Quito (**EEQ**) publicó los nuevos horarios de cortes para la capital, vigentes desde el 1 de noviembre y hasta el lunes 4, cuando termina el feriado.
+
+¿Cómo se desarrollarán los cortes de luz en Quito este 1 de noviembre?
+----------------------------------------------------------------------
+
+Para el sector residencial, los cortes durarán seis horas diarias, mientras que en zonas industriales las interrupciones podrían alcanzar hasta 14 horas en ciertos sectores.
+
+A continuación, los detalles de los cortes para este 1 de noviembre en diferentes sectores de Quito:
+
+* **Miraflores, Río Coca, Conocoto, Tumbaco y Cumbayá**: la interrupción del servicio se programó de 05:00 a 08:00 y de 21:00 a 24:00.
+* **Luluncoto, Chilibulo, La Floresta, Cristianía y Eplicachima**: estos sectores tendrán cortes de luz de 09:00 a 12:00 y de 17:00 a 20:00.
+* **La Carolina, Nueva Cumbayá, Tababela, Los Bancos, Pérez Guerrero y El Obraje (Machachi)**: el suministro se interrumpirá de 02:00 a 05:00 y de 20:00 a 23:00.
+
+La **EEQ** ofrece un cuadro detallado con los horarios para otros sectores, que la ciudadanía puede consultar para evitar inconvenientes y organizar sus actividades.
+
+Razones del cambio de horarios de los cortes de luz
+---------------------------------------------------
+
+El Ministerio de **Energía** explicó que los nuevos horarios buscan reducir el impacto en los ciudadanos durante el feriado. De este modo, los cortes interfieran lo menos posible en las **actividades cotidianas** y momentos de **descanso**.
+
+Entre los factores que motivaron este ajuste destacan las recientes lluvias en la cuenca hidrográfica oriental, las cuales permitieron mejorar las condiciones de los ríos que abastecen la central hidroeléctrica **Coca Codo Sinclair**.
+
+Estas precipitaciones también favorecieron una recuperación en el nivel de agua de la cota de **Mazar**, alcanzando los 2 114,24 metros sobre el nivel del mar el miércoles 30 de octubre por la tarde, lo cual generó una mejora en la disponibilidad de energía hidroeléctrica para el sistema nacional.
+
+Esta es la gran diferencia entre un vegetariano y vegano
+========================================================
+
+Este 1 de noviembre se celebra el Día Mundial de Veganismo.
+-----------------------------------------------------------
+
+![La dieta de los veganos está basada en plantas. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-31T113212.693.jpg)
+
+El **Día del Vegano** se celebra el 1 de noviembre y tiene como objetivo promover los beneficios de una **dieta basada en plantas**. También, concienciar sobre el **bienestar animal** y el impacto ambiental de la industria alimentaria.
+
+Esta fecha fue establecida en 1994 por la **Vegan Society** en el Reino Unido, en honor al movimiento vegano y sus principios.
+
+Durante este día, se organizan eventos, charlas y actividades que buscan informar a la población sobre los beneficios de adoptar un estilo de vida basado en plantas.
+
+### **Más noticias:**
+
+* [Películas veganas y animalistas](https://www.elcomercio.com/tendencias/bienestar/peliculas-imperdibles-veganos-vegetarianos-cine.html "https://www.elcomercio.com/tendencias/bienestar/peliculas-imperdibles-veganos-vegetarianos-cine.html")
+* [¿Qué significa Halloween?](https://www.elcomercio.com/tendencias/entretenimiento/halloween-significado-disfraces-celebracion-muertos-espiritus.html "https://www.elcomercio.com/tendencias/entretenimiento/halloween-significado-disfraces-celebracion-muertos-espiritus.html")
+* [Murió el gato que engordó hasta casi estallar](https://www.elcomercio.com/narices-frias/gato-muere-migajas-obeso-rusia.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/gato-muere-migajas-obeso-rusia.html?source=Internal&ref=Single+Content+Link")
+
+**Esta es la gran diferencia entre un vegetariano y vegano**
+------------------------------------------------------------
+
+Aunque ambos estilos de alimentación comparten similitudes al excluir la carne, existen diferencias significativas entre **vegetarianos y veganos.**
+
+**La esencia del vegetarianismo**
+---------------------------------
+
+Los **vegetarianos** eliminan de su dieta la **carne**, incluyendo carne roja, aves y pescado. Sin embargo, pueden consumir productos derivados de animales como lácteos y huevos.
+
+Esa flexibilidad permite a los **vegetarianos** disfrutar de una variedad más amplia de alimentos en comparación con los veganos.
+
+**La dieta de los veganos**:
+----------------------------
+
+El **veganismo** es más estricto y no solo excluye la **carne**, sino también todos los productos de origen animal.
+
+Eso incluye lácteos, huevos, miel y cualquier alimento que implique la explotación animal. Además, el veganismo se extiende a un estilo de vida que evita productos como cuero, lana y cosméticos testados en animales.
+
+**Motivaciones para elegir cada dieta**
+---------------------------------------
+
+Las razones para adoptar una dieta **vegetariana** o **vegana** varían e incluyen preocupaciones por la salud, el bienestar animal y el impacto ambiental.
+
+Carla Andrade -por ejemplo- se inclinó por el **vegetarianismo** tras adoptar a su primera **gata**; ahora tiene tres. “Ella solo llegó para reafirmar algo que ya quería hacer desde hace mucho tiempo. Primero dejé las carnes y luego, cuando llegó mi gatita, los mariscos”.
+
+**Los vegetarianos también tienen su día**
+------------------------------------------
+
+El **Día del Vegetariano** se celebra el 1 de octubre y tiene como objetivo promover un **estilo de vida** que prioriza el consumo de alimentos de **origen vegetal**.
+
+Este día busca concienciar sobre los beneficios de una **dieta vegetariana**, tanto para la **salud humana** como para el **medio ambiente.**
+
+La Liga Pro se define en el feriado, ¿qué partidos se juegan?
+=============================================================
+
+Independiente del Valle, Liga de Quito y Orense son los candidatos a ganar la segunda etapa.
+--------------------------------------------------------------------------------------------
+
+![Gabriel Achilier con Orense en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/fecha_11_1.jpg)
+
+La **Liga Pro** entra en su recta final con la pelea por conocer al ganador de la segunda etapa, que será el retador de Independiente del Valle en las finales de diciembre, o entregará el títulos a los ´rayados´ directamente.
+
+Del viernes 1 al lunes 4 de noviembre de 2024, **en medio del feriado más largo de Ecuador en el año**, la Liga Pro desarrollará sus ocho partidos de la fecha 12 que dejarán un poco más claro, o no, el panorama del favorito para ser el número uno en la tabla de posiciones.
+
+### Más noticias:
+
+* [Liga de Quito, a cuatro partidos de una nueva final en la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-a-cuatro-partidos-de-una-nueva-final-en-la-liga-pro.html "Liga de Quito, a cuatro partidos de una nueva final en la Liga Pro")
+* [(Video) Enner Valencia cumplió su promesa a una pequeña fanática en Brasil](https://www.elcomercio.com/deportes/futbol/enner-valencia-cumplio-promesa-pequena-fanatica-en-brasil.html "(Video) Enner Valencia cumplió su promesa a una pequeña fanática en Brasil")
+* [Un jugador clave de Ecuador se lesionó y peligra su convocatoria](https://www.elcomercio.com/deportes/futbol/jugador-clave-de-ecuador-se-lesiono-peligra-convocatoria-angelo-preciado.html "Un jugador clave de Ecuador se lesionó y peligra su convocatoria")
+
+Independiente del Valle, Liga de Quito y Orense llegan a las últimas cuatro jornadas de la segunda fase de la Liga Pro inmersos en una pareja pelea para adjudicarse esta etapa del torneo.
+
+El **cuadro del Valle y Liga cuentan con 23 puntos**, mientras que Orense les sigue en tercer lugar con 22 unidades.
+
+El **Independiente recibirá a El Nacional**, en lo que será la antesala de la final de la Copa Ecuador que estos dos mismos cuadros pondrán en escena el 27 de noviembre en el estadio Olímpico de Ibarra.
+
+El técnico del Independiente, el argentino Javier Gandolfi, ganador de la primera fase, **echará de menos a Junior Sornoza**, debido a una lesión, y el técnico de El Nacional, el también argentino Marcelo Zuleta, dispondrá de toda su plantilla.
+
+Entretanto, **Liga de Quito visitará a Emelec, en un partido donde su entrenador**, el argentino Pablo ‘Vitamina’ Sánchez, procurará sacar a su cuadro del bajón futbolístico mostrado en la reciente fecha en la que empató de local contra Mushuc Runa.
+
+Será un decisivo partido, pues LDU intentará abrirse camino para ser ganar la segunda fase y **disputarse el título de campeón de la Liga Pro** ante Independiente del Valle, que fue el ganador de la primera fase. Mientras, Emelec saldrá a este partido con el afán de consolidarse en zona de acceso a la Copa Sudamericana.
+
+El Emelec, del técnico colombiano **Leonel Álvarez, experimentó el miércoles la renuncia de su presidente José Pileggi**, consecuencia de la crisis económica y futbolística, y también las bajas del portero Pedro Ortiz y del defensa Luis Fernando León, por sendas lesiones.
+
+Orense espera agazapado
+-----------------------
+
+Por su parte, el Orense, **del entrenador colombiano Santiago ‘Sachi’ Escobar**, echará manos de figuras como el goleador local, Miguel Parrales, en el enfrentamiento de local contra el Delfín.
+
+Para el Cetáceo será un decisivo partido, en su afán por zafarse de los últimos puestos de la tabla acumulada de la actual temporada, y resarcirse de la reciente goleada por 4-0 a manos del Barcelona.
+
+La Universidad Católica, **que dirige el técnico argentino Jorge Célico**, está obligado a ganar para tratar de acercarse a la cabeza de la clasificación, pues está con 20 puntos, y el próximo lunes visitará a Técnico Universitario.
+
+El cuadro universitario cerró la fecha pasada goleando por 0-6 al Imbabura y alienta también alguna posibilidad para acceder a la zona de clasificación a la próxima Sudamericana.
+
+Mientras, el **Barcelona, con 19 puntos, visitará al Aucas de Quito**, en un nuevo desafío para el entrenador interino Segundo Alejandro Castillo, que saldrá por el tercer triunfo consecutivo desde que reemplazó al argentino Ariel Holan, que se marchó del club de Guayaquil fruto de los malos resultados.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/fecha_11_2-1024x683.jpg)
+
+Foto: API.
+
+Fecha 12 – segunda etapa
+------------------------
+
+### Viernes 1/11
+
+**15:30 Orense vs. Delfín**
+
+Estadio: 9 de Mayo
+
+### Sábado 2/11
+
+**10:30 Cumbayá vs. Deportivo Cuenca**
+
+Estadio: Olímpico Atahualpa
+
+**13:00 Libertad vs. Imbabura**
+
+Estadio: Reina del Cisne
+
+**15:30 Aucas vs. Barcelona SC**
+
+Estadio: Gonzalo Pozo Ripalda
+
+### Domingo 3/11
+
+**10:30 Mushuc Runa vs. Macará**
+
+Estadio: La Cocha
+
+**13:00 Independiente del Valle vs. El Nacional**
+
+Estadio: IDV
+
+**15:30 Emelec vs. Liga de Quito**
+
+Estadio: George Capwell
+
+### Lunes 4/11
+
+**15:00 Técnico Universitario vs. Universidad Católica**
+
+Estadio: Bellavista
+
+San viernes – Especial de Halloween
+-----------------------------------
+
+Siniestro de tránsito en la avenida Simón Bolívar deja cinco personas heridas
+=============================================================================
+
+El siniestro de tránsito provocó el cierre de carriles hasta que las autoridades atiendan la emergencia.
+--------------------------------------------------------------------------------------------------------
+
+![El camión que transportaba leche se volcó producto del siniestro de tránsito.](https://www.elcomercio.com/wp-content/uploads/2024/11/Siniestro-de-transito.jpg)
+
+Esta mañana del 1 de noviembre de 2024, el **Cuerpo de Bomberos Quito** informó sobre un siniestro de tránsito en la avenida **Simón** **Bolívar**, ocurrido aproximadamente a las 07:51 en el sector de la **Universidad Internacional[.](https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito#:~:text=Los%20siniestros%20viales%20no%20son,mal%20estado%20de%20una%20calle%2F "https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito#:~:text=Los%20siniestros%20viales%20no%20son,mal%20estado%20de%20una%20calle%2F")**
+
+### Más noticias
+
+* [Que la prevención de los siniestros de tránsito no se detenga en Quito](https://www.elcomercio.com/opinion/editorial/prevencion-siniestros-transito-quito-accidentes.html "Que la prevención de los siniestros de tránsito no se detenga en Quito")
+* [Gilmar Napa, jugador de Emelec, involucrado en siniestro de tránsito](https://www.elcomercio.com/deportes/futbol/gilmar-napa-emelec-siniestro-transito.html "Gilmar Napa, jugador de Emelec, involucrado en siniestro de tránsito")
+* [Marco Angulo, de Liga de Quito, sigue hospitalizado tras siniestro de tránsito](https://www.elcomercio.com/deportes/futbol/marco-angulo-de-liga-de-quito-sigue-hospitalizado-tras-siniestro-de-transito.html "Marco Angulo, de Liga de Quito, sigue hospitalizado tras siniestro de tránsito")
+
+El **siniestro** involucró a dos **vehículos** **livianos** y un **camión** de transporte de leche que volcó, lo cual resultó en varias **personas heridas debido al impacto.**
+
+Heridos durante el siniestro de tránsito en la avenida Simón Bolívar
+--------------------------------------------------------------------
+
+El Cuerpo de **Bomberos** de Quito movilizó a 12 efectivos junto con vehículos de emergencia y ambulancias.
+
+Los paramédicos atendieron a cinco personas con **policontusiones menores**. Afortunadamente, su estado de salud fue considerado estable y, tras una evaluación inicial, las trasladaron a un centro de salud para recibir atención médica.
+
+El traslado se realizó en las **ambulancias** del Ministerio de Salud Pública, Ayumed y Bomberos Quito.
+
+> 💥🚗 [#EmergenciasUIO](https://twitter.com/hashtag/EmergenciasUIO?src=hash&ref_src=twsrc%5Etfw) | A esta hora se registra un siniestro de tránsito en la Av. Simón Bolívar, sector de la Universidad Internacional.  
+>   
+> 🤕 Cinco personas resultaron afectadas.  
+>   
+> 🚒 Nuestro equipo brinda atención prehospitalaria a los heridos.[#BomberosQuito](https://twitter.com/hashtag/BomberosQuito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/d6cANu7AUJ](https://t.co/d6cANu7AUJ)
+> 
+> — Bomberos Quito (@BomberosQuito) [November 1, 2024](https://twitter.com/BomberosQuito/status/1852346782488904144?ref_src=twsrc%5Etfw)
+
+Cierre vial en la avenida Simón Bolívar por el siniestro de tránsito
+--------------------------------------------------------------------
+
+Paralelamente, la Agencia Metropolitana de Tránsito (**AMT**) llegó al lugar del siniestro de tránsito y cerró dos carriles en la avenida **Simón Bolívar**, en dirección sur-norte, como medida de seguridad para facilitar las labores de rescate y atención.
+
+Sin embargo, a las 08:50, la **AMT** reabrió el **carril central** para aliviar la congestión vehicular que se generó en la zona.
+
+Desde entonces, las autoridades de tránsito solicitan a los conductores que circulen con **precaución** por el sector debido a la presencia de los vehículos involucrados y al trabajo continuo de los equipos de emergencia en el sitio.
+
+Las autoridades permanecen en la escena del **siniestro de tránsito**, a la espera de retirar los **vehículos** implicados y restablecer completamente el flujo vehicular.
+
+Tres figuras de El Nacional en Copa Ecuador
+===========================================
+
+El Nacional está en la final de la Copa Ecuador 2024 y contó con tres figuras para lograr llegar hasta la última fase del torneo.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Gabriel Cortez, una de las figuras de El Nacional celebra su gol con el equipo en las semifinales de Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-31T202428.244.jpg)
+
+La ovación no se hizo esperar para **Jorge ‘Tukita’ Ordóñez** cuando abandonó la cancha en las semifinales de Copa Ecuador. Junto a él, los nombres de **David Cabezas y Gabriel Cortez** fueron fundamentales para que El Nacional vuelva a buscar un título en 18 años.
+
+**El Nacional** se impuso por 2-0 a **Mushuc Runa** en el penúltimo partido del certamen y de revancha en la serie. Los criollos consiguieron revalidar su clasificación a la final tras haber vencido en la ida por un marcador de 1-2 en Latacunga.
+
+### Más noticias:
+
+* [El Nacional celebra y Marcelo Zuleta es ovacionado en Copa Ecuador](https://www.elcomercio.com/deportes/el-nacional-celebracion-zuleta-copa-ecuador.html "El Nacional celebra y Marcelo Zuleta es ovacionado en Copa Ecuador")
+* [El Nacional con doble premio, final de Copa Ecuador y Libertadores](https://www.elcomercio.com/deportes/futbol/el-nacional-final-copa-ecuador2024.html "El Nacional con doble premio, final de Copa Ecuador y Libertadores")
+* [El frío no frenó a hinchas y glorias de El Nacional en Copa Ecuador](https://www.elcomercio.com/deportes/futbol/nacional-lluvia-copa-ecuador-hinchas-glorias.html "El frío no frenó a hinchas y glorias de El Nacional en Copa Ecuador")
+
+En el cotejo, **Gabriel Cortez** tuvo una destacada actuación y fue el autor de uno de los goles del triunfo. Asimismo, este asistió en el segundo tanto del conjunto militar al habilitar a **Jonathan Borja**  
+Aunque el ‘Loco’ fue uno de los pilares para la clasificación, antes también hubo figuras decisivas en instancias previas.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBzz_ZdPQNw/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DBzz_ZdPQNw/?utm_source=ig_embed&utm_campaign=loading)
+
+En la semifinal de ida y en octavos de final, los vítores se los llevó **Jorge Ordóñez**;  en los cuartos, **David Cabezas** le dio la clasificación a la escuadra[.](https://en.wikipedia.org/wiki/C.D._El_Nacional "https://en.wikipedia.org/wiki/C.D._El_Nacional")
+
+Gabriel Cortez, clave para la final de El Nacional
+--------------------------------------------------
+
+En el partido que selló el pase hacia la siguiente ronda de **El Nacional**, Cortez arrancó como titular. El volante ofensivo ya había sido clave en compromisos previos de la Liga Pro y este fue consagratorio.
+
+El primer tanto para él llegó a los 79 minutos del partido tras un centro desde el costado derecho. Al momento de recibir la pelota, el volante le pegó de primera desde fuera del área y venció al golero **Adrián Bone**.
+
+En el segundo tanto, que fue de **Jonathan Borja**, Gabriel Cortez asistió. Este controló dentro del área y le cedió el balón a su compañero para que remate.
+
+Jorge ‘Tukita’ Ordóñez, el goleador en la Copa Ecuador
+------------------------------------------------------
+
+**Jorge Ordóñez** también estuvo desde el inicio en el último choque ante Mushuc Runa y, aunque no anotó en aquel partido, sí fue vital en la ida. En el primer duelo semifinal, la ‘Tukita’ puso el doblete que le dio el triunfo a su equipo.
+
+Antes, Ordóñez también había tenido un rol vital. En los octavos de final, este puso el tanto del empate ante **Deportivo Santo Domingo**, de manera que los criollos llevaron el partido a penales y vencieron.
+
+David Cabezas, el héroe en el arco de El Nacional en la Copa Ecuador
+--------------------------------------------------------------------
+
+Al lograr la clasificación hacia la final de la Copa Ecuador, **David Cabezas** fue uno de los preferidos de la hinchada. Cuando finalizó el compromiso y la celebración entre aficionados y jugadores, el apellido de este se escuchó en todo el estadio. “**Olé, olé, olé, olé, Cabezas, Cabezas**” fue el cántico de reconocimiento al jugador.
+
+En el último partido, el arquero fue una de las figuras. Antes, sin embargo, este tuvo actuaciones aún más notables y que determinaron el futuro del elenco. En los cuartos de final ante Liga de Quito, este fue el héroe de **El Nacional** en penales.
+
 En el Día de la Ecología, te presentamos ‘apps’ que debes considerar 
 =====================================================================
 
@@ -430,723 +1099,3 @@ Foto: EFE.
 
 San viernes – Especial de Halloween
 -----------------------------------
-
-El Mundial de Clubes 2025 tiene 31 clasificados
-===============================================
-
-El Mundial de Clubes se celebrará en Estados Unidos en el 2025 entre junio y julio.
------------------------------------------------------------------------------------
-
-![Alan Franco con Atlético Mineiro en la temporada 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/mundial_1.jpg)
-
-Los clubes brasileños **Atlético Mineiro y Botafogo**, que se enfrentarán en la final de la Copa Libertadores, se jugarán también en ella la última plaza de clasificación para el nuevo **Mundial de Clubes de 2025** en Estados Unidos, que contará con la participación de 32 equipos.
-
-La FIFA recordó este jueves 31 de octubre de 2024, que el club que levante el trofeo de la Libertadores en Buenos Aires el sábado 30 de noviembre se unirá, como campeón sudamericano, **al Boca Juniors, el Flamengo, el Fluminense, el Palmeiras y el River Plate**, en representación de la CONMEBOL.
-
-### Más noticias:
-
-* [La final de la Copa Libertadores será brasileña, por sexta vez](https://www.elcomercio.com/deportes/futbol/final-copa-libertadores-equipos-brasilenos.html "La final de la Copa Libertadores será brasileña, por sexta vez")
-* [Kendry Páez lidera un nuevo ranking a escala global](https://www.elcomercio.com/deportes/futbol/kendy-paez-ranking-sub20-ligas.html "Kendry Páez lidera un nuevo ranking a escala global")
-* [Feriado de fútbol en Ecuador con la Liga Pro en la recta final](https://www.elcomercio.com/deportes/futbol/feriado-futbol-ecuador-liga-quito.html "Feriado de fútbol en Ecuador con la Liga Pro en la recta final")
-
-El Botafogo logró su **primera clasificación de la historia para la final tras superar al Peñarol** uruguayo por un global de 6-3, pese a caer a domicilio por 3-1 en el partido de vuelta disputado este miércoles.
-
-Y el **Atlético Mineiro empató sin goles el martes 29 en su visita al River Plate** argentino, que le dio la victoria global por 3-0, para alcanzar por segunda vez la final continental.
-
-La FIFA aseguró que el **nuevo torneo de 32 equipos en Estados Unidos** será la competición mundial de fútbol de clubes más inclusiva de la historia y redefinirá cómo, cuándo y dónde se corona a un auténtico campeón del mundo de clubes.
-
-Los equipos clasificados
-------------------------
-
-La edición inaugural del Mundial de Clubes FIFA 2025™ arrancará el **domingo 15 de junio de 2025 en el Hard Rock Stadium** de Miami y concluirá el domingo 13 de julio en el estadio MetLife de Nueva York Nueva Jersey, sede que al año siguiente albergará también la final del Mundial 2026 en Estados Unidos, México y Canadá.
-
-En el Mundial de Clubes del año que viene participarán como campeones continentales entre 2021 y 2024 Seattle Sounders (USA), **Pachuca (MEX), León (MEX) y Monterrey (MEX)**, en representación de la CONCACAF.
-
-Al Ain (UAE), Urawa Reds (JPN) y Al Hilal (SAU), de la Confederación Asiática; Chelsea (ING), **Manchester City (ING) y Real Madrid (ESP)**, de la UEFA.
-
-Fluminense (BRA), Palmeiras (BRA) y Flamengo (BRA), de la CONMEBOL, y Wydad (MAR) y Al Ahly (EGI), de la Confederación Africana.
-
-A través del ránking de cada confederación entre 2021 y 2024 también tienen plaza en la competición Salzburgo (AUT), **Juventus (ITA), Benfica (POR), Oporto (POR), Atlético de Madrid (ESP)**, Inter de Milan (ITA), Borussia Dortmund (GER), PSG (FRA) y Bayern Munich (GER), de la UEFA-
-
-Auckland (NZL), de Oceanía; **Boca Juniors (ARG) y River Plate (ARG)**, de la CONMEBOL; Ulsan (COR), de la Confederación Asiática; Mamelid Sundowns (AFS) y Esperamce (TUN), de la CAF. 
-
-San viernes – Especial de Halloween
------------------------------------
-
-Ecuatoriano está desaparecido tras emergencia por lluvias en Valencia
-=====================================================================
-
-La Embajadora de Ecuador en España, Wilma Andrade, habló sobre la situación de los ecuatorianos por DANA.
----------------------------------------------------------------------------------------------------------
-
-![Personas en Línea 1 del Metro de Valencia tras el paso de la DANA.](https://www.elcomercio.com/wp-content/uploads/2024/10/ESPANA-1.jpg)
-
-**Wilma Andrade**, embajadora de Ecuador en España, informó sobre la situación de los compatriotas en el país europeo, ante los efectos por el fenómeno denominado **DANA** (Depresión Aislada en Niveles Altos).
-
-### Más noticias
-
-* [Cancillería se pronuncia sobre ecuatorianos en España ante las inundaciones](https://www.elcomercio.com/actualidad/ecuador/cancilleria-se-pronuncia-ecuatorianos-espana-fuertes-lluvias.html "Cancillería se pronuncia sobre ecuatorianos en España ante las inundaciones")
-* [Efectos de la DANA como consecuencia del cambio climático](https://www.elcomercio.com/actualidad/mundo/inundaciones-temporal-espana-deja-fallecidos.html "Efectos de la DANA como consecuencia del cambio climático")
-* [¿Qué significa DANA el fenómeno que impactó a Valencia?](https://www.elcomercio.com/actualidad/mundo/significa-dana-fenomeno-impacto-valencia.html "¿Qué significa DANA el fenómeno que impactó a Valencia?")
-
-Las inundaciones en España dejan al menos **158 muertos** y un número aún no identificado de **desaparecidos**, hasta la tarde de este jueves 31 de octubre.
-
-Las zonas más afectadas por las torrenciales lluvias que comenzaron el martes 29 de octubre son las provincias de **Valencia y Albacete**, siendo la ciudad de **Alfafar**, dónde más estragos se produjeron.
-
-Sus calles permanecen **inundadas**; mientras **52 grupos de rescate** conformado por la Guardia Civil y trabajan para localizar a los ciudadanos **con y sin vida**.
-
-Ecuatorianos en España y DANA
------------------------------
-
-Andrade, en conversación con **EL COMERCIO**, dio cuenta de que aún no se puede dar un saldo de **ecuatorianos afectados** en el contexto de las **emergencias** en España.
-
-“Nos mantenemos en un **compás de espera**, no tenemos información oficial sobre si existen o no ecuatorianos fallecidos por las inundaciones”, puntualizó la Embajadora.
-
-Según señaló, la situación en la provincia del este de España es tan crítica que las autoridades siguen esperando que las unidades forenses realicen la identificación de los **cadáveres**.
-
-Ocho ecuatorianos fueron reportados como desaparecidos
-------------------------------------------------------
-
-Cancillería confirmó que se recibieron ocho llamados de ecuatorianos desaparecidos, a través de los canales de emergencia habilitados en el **Consulado de Valencia**.
-
-De estos, siete compatriotas fueron localizados con vida; **uno sigue sin ser hallado**.
-
-La entidad no detalló el estado de salud de los **migrantes**.
-
-“Fueron familiares de ecuatorianos que no eran localizados, felizmente pudimos, uno a uno, encontrarlos y confirmar que **se encuentran bien**“, afirmó la Wilma Andrade.
-
-“Así mismo, se ha logrado dar con la ubicación de varios compatriotas que se encontraban incomunicados”, añadió Cancillería.
-
-Mientras tanto, en la provincia se han habilitado puntos de atención para los **damnificados** en hoteles, centros deportivos y unidades educativas.
-
-“Seguimos los protocolos que nos pide este tipo de emergencias, a penas tengamos alguna información oficial estaremos compartiéndola con Ecuador, por lo pronto nos mantenemos en **alerta y solidarios** con España por esta terrible situación”, añadió Wilma Andrade.
-
-Canales de ayuda para ecuatorianos
-----------------------------------
-
-La Embajadora hizo un pedido: “A todos quienes tengan familiares en Alfafar, y en general en la provincia de Valencia, verifiquemos que están bien, si no estaremos gustosos de recibir sus llamadas”.
-
-Para ello, El **Ministerio de Relaciones Exteriores y Movilidad Humana** puso a disposición líneas telefónicas para pedir información o ayuda las 24 horas.
-
-**Emergencias de la** **Generalitat Valenciana**: 900 365 112 para reportar personas desaparecidas.
-
-**Emergencias del Consulado del Ecuador en Valencia:** 680 621 755 para cualquier necesidad de la comunidad ecuatoriana en la zona.
-
-Así mismo, los consulados de **Madrid, Andalucía y Castilla** están al pendiente, para brindar su apoyo ante cualquier emergencia.
-
-> Sobre emergencia provocada por la tormenta Dana en Valencia y zonas aledañas. [pic.twitter.com/ZyOE8JzMRV](https://t.co/ZyOE8JzMRV)
-> 
-> — Cancillería del Ecuador 🇪🇨 (@CancilleriaEc) [November 1, 2024](https://twitter.com/CancilleriaEc/status/1852146380732809620?ref_src=twsrc%5Etfw)
-
-Implicados en explosión de un cajero automático en Quito libres en menos de 24 horas
-====================================================================================
-
-La Policía explicó la razón por la que quedaron libres los implicados en la explosión del cajero automático, en Quito.
-----------------------------------------------------------------------------------------------------------------------
-
-![Los implicados en la explosión del cajero automático en Quito que quedaron libres.](https://www.elcomercio.com/wp-content/uploads/2024/10/libres-explosion-cajero-automatico-quito.jpg)
-
-Implicados en la **explosión** de un **cajero automático** en **Quito**, quedaron libres**, en menos de 24 horas** de aprehendidos.
-
-Tras un amplio operativo, **Policía** capturó a cinco sujetos el miércoles 30 de octubre.
-
-### Más noticias:
-
-* [En el feriado de Difuntos habrá operativos con 52 786 policías](https://www.elcomercio.com/actualidad/seguridad/feriado-difuntos-habra-operativos-52-786-policias.html "En el feriado de Difuntos habrá operativos con 52 786 policías")
-* [Policía despliega efectivos para seguridad de candidatos presidenciales](https://www.elcomercio.com/actualidad/politica/policia-despliega-efectivos-para-seguridad-candidatos-presidenciales.html "Policía despliega efectivos para seguridad de candidatos presidenciales")
-
-Implicados en explosión de cajero automático en Quito libres en menos de 24 horas
----------------------------------------------------------------------------------
-
-La Policía Nacional de Ecuador ejecutó un operativo en el que se detuvo a cinco implicados en el robo de un cajero en **Llano Grande**, al norte de Quito, el miércoles 30 de octubre de 2024.
-
-La madrugada de ese día, la Policía recibió la alerta de una posible detonación de un artefacto explosivo en las instalaciones de un cajero automático en las **calles Gabriel García Moreno y Carapungo**.
-
-El personal policial de los ejes preventivo, investigativo y de inteligencia inició con **labores investigativas** para encontrar a los responsables de este hecho delictivo.
-
-El comandante **Henry Tapia** señaló que las primeras diligencias investigativas permitieron identificar posibles rasgos físicos de los implicados.
-
-Además, las características del **vehículo** en el que se estarían movilizando.
-
-Al ser un **delito flagrante**, se ejecutaron varios allanamientos, en los que se dieron las aprehensiones.
-
-Las personas de **nacionalidad ecuatoriana** son: Genito R. de 46 años, con antecedentes por **robo**; Héctor V. de 47 años, antecedentes por robo.
-
-Rommel E. de 52 años, con antecedentes por tenencia de **armas de fuego** y receptación, y Paola F. de 36 años, que no registra antecedentes penales.
-
-Los indicios encontrados fueron: un **vehículo**, dos motocicletas retenidas, tres armas de fuego, 70 municiones de diferentes calibres.
-
-Dos tanques de oxígeno, tres bandejas dispensadoras de dinero, **4 395 dólares**, tres celulares, una batería, varias mangueras y cables para la explosión.
-
-Un **saco de yute** con miguelitos y prendas de vestir.
-
-> [#GraDHenryTapia](https://twitter.com/hashtag/GraDHenryTapia?src=hash&ref_src=twsrc%5Etfw), [#Cmdt](https://twitter.com/hashtag/Cmdt?src=hash&ref_src=twsrc%5Etfw) [@PoliciaDMQZona9](https://twitter.com/PoliciaDMQZona9?ref_src=twsrc%5Etfw):  
->   
-> Mediante investigaciones realizadas sobre la detonación de un artefacto explosivo en un cajero automático, en Llano Grande, norte de [#UIO](https://twitter.com/hashtag/UIO?src=hash&ref_src=twsrc%5Etfw), personal policial de los ejes preventivo, investigativo e inteligencia, utilizando las… [pic.twitter.com/MPYE7y1tGU](https://t.co/MPYE7y1tGU)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [October 30, 2024](https://twitter.com/PoliciaEcuador/status/1851764894497976741?ref_src=twsrc%5Etfw)
-
-### La liberación
-
-Este jueves 31 de octubre, a las 03:14, los cinco presuntos implicados en el delito de robo fueron puestos a órdenes de un juez de la **Unidad Penal con Competencia en Infracciones Flagrantes**.
-
-La jueza señaló que se encuentra **imposibilitada de instalar la audiencia de flagrancia**, ni declarar la legalidad de la aprehensión.
-
-Tampoco pronunciarse respecto a la calificación de la flagrancia, por la “**ausencia de defensor público**“.
-
-Por este motivo, dispuso la **inmediata liberación** de los implicados.
-
-Ante la liberación, la Policía presentó el reclamo a la **Defensoría Pública** y el **Consejo de la Judicatura**.
-
-Esto, con el fin que se adopten los **correctivos** y las acciones administrativas necesarias y ejemplarizadoras para que sus funcionarios cumplan efectivamente con sus obligaciones.
-
-“Actuaciones como las señaladas afectan la permanente y sacrificada labor policial a favor de la **seguridad ciudadana** y el orden público”, señaló la Policía.
-
-Fuerte tránsito vehicular colapsa Quito, la noche de este jueves 31 de octubre
-==============================================================================
-
-La ciudadanía reportó un fuerte tráfico vehicular en varios puntos de Quito, en el primer día del feriado nacional.
--------------------------------------------------------------------------------------------------------------------
-
-![Largas filas de vehículos se registran en distintos puntos de Quito, esta noche](https://www.elcomercio.com/wp-content/uploads/2024/10/transito-vehicular-quito-31-octubre-jueves.jpg)
-
-**¡Caótico!** Con esta palabra describen los conductores al **tránsito vehicular en Quito**, la noche de este jueves 31 de octubre de 2024.
-
-### Más noticias
-
-* [Quito registró fuertes lluvias en el inicio del feriado](https://www.elcomercio.com/actualidad/quito/quito-fuertes-lluvias-jueves-feriado.html "Quito registró fuertes lluvias en el inicio del feriado")
-* [Quito tendrá varias calles cerradas durante el feriado](https://www.elcomercio.com/actualidad/quito/quito-cierres-viales-feriado-difuntos.html "Quito tendrá varias calles cerradas durante el feriado")
-* [Estacionamientos del Centro Histórico de Quito amplían horarios por feriado de noviembre](https://www.elcomercio.com/actualidad/quito/estacionamientos-centro-historico-feriado-ampliacion-horarios.html "Estacionamientos del Centro Histórico de Quito amplían horarios por feriado de noviembre")
-
-De acuerdo con **reportes ciudadanos**, la capital **colapsó en varios puntos**.
-
-Este problema se debe a **varios factores**: la fuerte lluvia que cae en Quito, calles inundadas, cortes de luz, falta de agentes de tránsito, mantenimientos, hora pico y el comienzo del feriado.
-
-Quiteños reportan caos vehicular en varios puntos
--------------------------------------------------
-
-Los quiteños mostraron su molestia por la falta de movilidad a través de **redes sociales**. Son decenas de puntos conflictivos los reportados esta noche.
-
-En el **norte**, por ejemplo, la **av. Mariscal Sucre**, a la altura de El Condado, mantiene una larga fila de vehículos. Lo mismo sucede en la **av. 10 de Agosto**, en la Y, y en la **av. Simón Bolívar**, a la altura del redondel de Carapungo.
-
-> [@AMT\_Quito](https://twitter.com/AMT_Quito?ref_src=twsrc%5Etfw) será que pueden enviar a los agentes a las calles, todo norte colapsado el tráfico y he visto 2 agentes
-> 
-> — Paúl V. (@PaulVergara86) [November 1, 2024](https://twitter.com/PaulVergara86/status/1852142942284083245?ref_src=twsrc%5Etfw)
-
-Las calles con mayores problemas son las del **centro norte**, donde confluyen pasadas las 17:00 trabajadores privados que salen de sus empleos y se dirigen hacia sus casas.
-
-En avenidas como **Portugal, 6 de Diciembre, Brasil, Edmundo Carvajal, Mañosca, Mariana de Jesús y América**, la ciudadanía asegura que es imposible transitar.
-
-En otros sectores, como en El Bosque, El Trébol, La Marín y la Ruta Viva, la **lluvia** ha complicado la circulación de los vehículos.
-
-El comienzo del **feriado extenso** se sumó a la problemática. El incremento de viajeros al norte de Quito causó que se formen **largas filas** de carros en la vía Panamericana, a la altura de **Llano Grande**.
-
-En este punto, usuarios reportan que el “tránsito está estancado por más de 30 minutos”.
-
-“¿Por qué no hay agentes AMT dirigiendo el tránsito, (…) hasta cuando el caos”, reclamó **Verónica Román** en X.
-
-> [@AMT\_Quito](https://twitter.com/AMT_Quito?ref_src=twsrc%5Etfw) [@pabelml](https://twitter.com/pabelml?ref_src=twsrc%5Etfw) [@WilsonMerinoR](https://twitter.com/WilsonMerinoR?ref_src=twsrc%5Etfw) por qué no hay agentes AMT dirigiendo el tránsito? Intersección América y Mañosca. Hasta cuándo el caos? La Mariana de Jesús y América cerrada. [pic.twitter.com/lk9pHzTnpn](https://t.co/lk9pHzTnpn)
-> 
-> — Verónica Román Mosquera (@VernicaRomnMos1) [November 1, 2024](https://twitter.com/VernicaRomnMos1/status/1852140667109040622?ref_src=twsrc%5Etfw)
-
-Mensajes como este se repiten en redes sociales. Ante ello, la Agencia Metropolitana de Tránsito (**AMT**), entidad a cargo de la movilidad en Quito, **no se ha pronunciado**.
-
-La entidad utilizó sus cuentas oficiales esta noche, únicamente para recomendar a los conductores que manejen con precaución debido a las **lluvias** que se registran.
-
-> 🚨 [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) |  
->   
-> 🛣️ Se registran lluvias en toda la ciudad.  
->   
-> Recuerda:  
->   
-> ▶️ Baja la velocidad.  
-> ▶️ Respeta las señales de tránsito.  
->   
-> 👆🏼 Con precaución y atención en las vías ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/HWN3K8XA8t](https://t.co/HWN3K8XA8t)
-> 
-> — AMTQuito (@AMT\_Quito) [November 1, 2024](https://twitter.com/AMT_Quito/status/1852139069851000835?ref_src=twsrc%5Etfw)
-
-Alcalde reconoció falta de agentes de tránsito durante cortes de luz
---------------------------------------------------------------------
-
-El Alcalde de Quito, **Pabel Muñoz**, reconoció que la AMT no cuenta con el número suficiente de efectivos para enfrentar el caos vehicular cuando ocurren los **cortes de luz** programados.
-
-El burgomaestre dijo en un video oficial, que el Municipio añadirá entre **60 a 100 personeros** de la Agencia Metropolitana de Control a los trabajos de la AMT.
-
-Además, las intersecciones problemáticas por la falta de semáforos serán reforzadas con **150 agentes** que trabajan en áreas de fiscalización y administración.
-
-Según datos del Alcalde, Quito registra alrededor de **1 821 intersecciones** sin luz cada día, siendo entre las 17:00 y 20:00 el espacio con más dificultades, **513 intersecciones**.
-
-Para cubrir esta necesidad se ocuparía entre 710 a 914 agentes; Quito tiene apenas **500 uniformados** de tránsito.
-
-Fuertes lluvias cayeron en Quito este jueves
---------------------------------------------
-
-**Quito** registró **fuertes lluvias** la tarde este jueves 31 de octubre de 2024.
-
-Las precipitaciones cayeron en el **norte, centro y sur** de la capital, acompañadas por **tormentas eléctricas** y ráfagas de vientos.
-
-En algunos puntos de la ciudad, las lluvias se dieron pasadas las **13:00**, y duraron alrededor de una hora y media.
-
-Sin embargo, en la noche, alrededor de las 18:00, las precipitaciones retornaron.
-
-El Cuerpo de **Bomberos** de Quito confirmó que **no se registraron novedades** de gravedad producto de las fuertes lluvias en la ciudad, en el primer día de feriado[.](https://www.inamhi.gob.ec/ "https://www.inamhi.gob.ec/")
-
-Sin embargo, sí se trataron alertas por acumulación de agua en calles y casas ubicadas en:
-
-* Barrio Las Marías, en **Tumbaco**
-* Shyris y Suecia, en La Carolina
-* Eloy Alfaro y José Correa, en Estadio Olímpico Atahualpa
-* Manuel Burbano y Francisco Ruíz, en Puembo
-
-En estos puntos, los efectivos limpiaron **sumideros taponados** por desechos y basura.
-
-Gabriel Cortez fue ‘borrado’ de BSC y ahora es figura en El Nacional
-====================================================================
-
-Gabriel Cortez se sumó a El Nacional para el segundo semestre de 2024. Vino de Barcelona SC.
---------------------------------------------------------------------------------------------
-
-![Gabriel Cortez (c) celebra junto a sus compañeros la clasificación a la final de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortez_1.jpg)
-
-**Gabriel ‘Loco’ Cortez** es uno de los principales responsable que El Nacional esté a 90 minutos de sumar un nuevo título a su larga historia, luego de 18 años de no hacerlo y de una espera que esperan cortar.
-
-Para el segundo semestre de este 2024, **Gabriel Cortez se unió a la disciplina de El Nacional**, tras ser descartado por Ariel Holan, exentrenador de Barcelona Sporting Club, que decidió no contar más con el talentosos mediocampista.
-
-### Más noticias:
-
-* [Lucía Vallecilla arremete contra dirigencia actual y previa de El Nacional](https://www.elcomercio.com/deportes/lucia-vallecilla-deudas-dirigencia-marco-pazos-nacional.html "Lucía Vallecilla arremete contra dirigencia actual y previa de El Nacional")
-* [Feriado de fútbol en Ecuador con la Liga Pro en la recta final](https://www.elcomercio.com/deportes/futbol/feriado-futbol-ecuador-liga-quito.html "Feriado de fútbol en Ecuador con la Liga Pro en la recta final")
-* [Liga de Quito, a cuatro partidos de una nueva final en la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-a-cuatro-partidos-de-una-nueva-final-en-la-liga-pro.html "Liga de Quito, a cuatro partidos de una nueva final en la Liga Pro")
-
-Con la **camiseta roja lleva jugados 13 partidos**, nueve de la segunda etapa de la Liga Pro y cuatro de la Copa Ecuador. Marcó cuatro goles claves para mantener a su equipo con el protagonismo que esperan sus hinchas.
-
-El debut fue en la tercera fecha de la Liga Pro contra Emelec. Ingresó en el segundo tiempo y fue clave **para la victoria 0-1 en el George Capwell**, al ser el autor del tiro de esquina que fue desviado por Jhon Jairo Sánchez hacia su propia puerta.
-
-Son cuatro titularidades **con la venia del entrenador Marcelo Zuleta**, que lo utiliza como uno de sus primeros cambios para darle un nuevo impulso a sus planteamientos, por lo que siempre lo utiliza en casa y fuera de ella.
-
-Sus tantos fueron ante Cumbayá en el Olímpico Atahualpa, y Liga de Quito en el Rodrigo Paz Delgado.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortez_2-1024x683.jpg)
-
-Foto: API.
-
-Cortez y la Copa Ecuador
-------------------------
-
-En la Copa Ecuador la presencia del esmeraldeño ha sido fundamental para llevarlos a esta nueva final.
-
-Jugó desde los octavos de final y **marcó un gol en la victoria 2-3 ante Atlético Santo Domingo**; sostuvo al equipo en los cuartos de final ante Liga de Quito en el Rodrigo Paz Delgado; y en las dos semifinales ante Mushuc Runa se puso el equipo al hombro y lo guio a la final.
-
-En la revancha en **Quito fue el autor del 1-0 con un golazo**, y dio la asistencia para que Jonathan Borja sentencie el 2-0 definitivo y el 4-1 en el marcador global, desatando la fiesta en el Olímpico Atahualpa.
-
-El ‘Loco’ fue uno de los que más celebró con sus compañeros y con los más de 15 000 hinchas que apoyaron a los militares en estas semifinales.
-
-Barcelona no lo tomó en cuenta
-------------------------------
-
-El presente de **Cortez es diametralmente opuesto al primer semestre** con Barcelona Sporting Club.
-
-Ni con el uruguayo Diego López, y menos con el argentino Ariel Holan, fue tomando en cuenta y poco a poco perdió espacio hasta salir del equipo definitivamente.
-
-En la **Copa Libertadores apenas sumó 43 minutos**, divididos entre 23 contra Cobresal y 20 ante Sao Paulo.
-
-En la Liga Pro la historia se repitió. Fue titular ante Libertad en Loja y anotó dos golazos en el Reina del Cisne.
-
-Luego de esos, **jugó 18 minutos vs. Imbabura, 11′ vs. Macará, 2′ vs. Emelec**, 31′ vs. Universidad Católica y un gol, en el debut de Holan, que nunca más le dio minutos y lo mantuvo en el banco de suplentes en los siguientes seis juegos.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortez_3-1024x683.jpg)
-
-Foto: API.
-
-San viernes – Especial de Halloween
------------------------------------
-
-El ECU-911 mantiene habilitadas las llamadas y la vigilancia para los feriados de noviembre
-===========================================================================================
-
-Las llamadas de emergencia y las cámaras de videovigilancia del ECU 911 estarán activadas en todo el país, durante los feriados de noviembre.
----------------------------------------------------------------------------------------------------------------------------------------------
-
-![La vigilancia del ECU-911 se mantiene en los feriados de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecu-911-feriados.jpg)
-
-El **Servicio Integrado de Seguridad ECU 911** trabajará con normalidad en los feriados de noviembre de 2024.
-
-Los servicios de **vigilancia** y atención de llamadas de **emergencia** trabajarán con normalidad en los feriados de Difuntos e Independencia de Cuenca.
-
-### Más noticias:
-
-* [En el feriado de Difuntos habrá operativos con 52 786 policías](https://www.elcomercio.com/actualidad/seguridad/feriado-difuntos-habra-operativos-52-786-policias.html "En el feriado de Difuntos habrá operativos con 52 786 policías")
-* [Daniel Noboa integra cámaras de los GAD al Ecu-911, ¿cómo funcionará?](https://www.elcomercio.com/actualidad/politica/daniel-noboa-integra-camaras-de-gad-ecu-911.html "Daniel Noboa integra cámaras de los GAD al Ecu-911, ¿cómo funcionará?")
-
-El ECU 911 opera de forma permanente en los feriados
-----------------------------------------------------
-
-El Servicio Integrado de Seguridad ECU 911 se mantendrá totalmente **operativo** en los feriados por el Día de Difuntos e Independencia de Cuenca.
-
-Junto a las entidades de primera respuesta, con **3 430 servidores**, el ECU 911 atenderá las llamadas de emergencia en todo el país.
-
-El Sistema estará pendiente de todas las llamadas de emergencia que se realicen para brindar **atención oportuna**, informó.
-
-Asimismo, hasta el 4 de noviembre, el sistema de **videovigilancia** estará activo en todo el territorio nacional.
-
-Se monitorearán **calles y carreteras; playas, parques, sitios turísticos y otros** espacios de concentración masiva de personas. 
-
-El ECU 911 complementará su contingente tecnológico con 225 megáfonos, 159 dispositivos de monitoreo en **terminales terrestres** y 178 puntos del **Sistema de Alerta Temprana (SAT)**. 
-
-El ECU 911 reportó lluvias en el primer día de los feriados de noviembre
-------------------------------------------------------------------------
-
-**Quito**, nuevamente, presentó **lluvias** la tarde de este jueves. El ECU 911 realizó el reporte de varios sectores.
-
-Algunos varios registrados con **fuertes precipitaciones** fueron: Turubamba, Centro Histórico, Lucha de Los Pobres, Itchimbia y Carapungo.
-
-La tarde de este jueves 31 de octubre, el **Instituto Nacional de Metereología e Hidrología (Inamhi)** pronosticó lluvias en seis provincias de Ecuador.
-
-De acuerdo con las imágenes satelitales del Instituto, las lluvias cubrieron otras ciudades de la Sierra Norte y zonas de la estribación de la **cordillera oriental**.
-
-Las provincias donde se detectó la presencia de lluvias fueron: **Carchi, Pichincha, Cotopaxi, Tungurahua, Chimborazo y Bolívar.**
-
-Se pronosticó que estas precipitaciones continúen en las próximas horas, incluso, con granizo en **zonas puntuales de la Sierra.**
-
-El Nacional celebra y Marcelo Zuleta es ovacionado en Copa Ecuador
-==================================================================
-
-El Nacional celebró junto a su hinchada el paso hacia la final de la Copa Ecuador y el DT Marcelo Zuleta recibió un reconocimiento.
------------------------------------------------------------------------------------------------------------------------------------
-
-![Jugadores de El Nacional celebran su clasificación a la final de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-31T181940.887-1.jpg)
-
-**El Nacional** consiguió la clasificación a la final de la Copa Ecuador y a la Copa Libertadores. Al término del compromiso, los futbolistas celebraron con la afición criolla y Marcelo Zuleta fue ovacionado.
-
-Los puros criollos consiguieron un triunfo que los invita a hacer historia y buscar su primer título en 18 años. Con un marcador de 4-1 global, 1-2 en la ida y 2-0 en la vuelta de semifinales, la escuadra se impuso ante el Mushuc Runa de **Ever Hugo Almeida**, exDT de los rojos.
-
-### Más noticias:
-
-* [El Nacional con doble premio, final de Copa Ecuador y Libertadores](https://www.elcomercio.com/deportes/futbol/el-nacional-final-copa-ecuador2024.html "El Nacional con doble premio, final de Copa Ecuador y Libertadores")
-* [El frío no frenó a hinchas y glorias de El Nacional en Copa Ecuador](https://www.elcomercio.com/deportes/futbol/nacional-lluvia-copa-ecuador-hinchas-glorias.html "El frío no frenó a hinchas y glorias de El Nacional en Copa Ecuador")
-* [¿A qué hora juega El Nacional la semifinal de Copa Ecuador?](https://www.elcomercio.com/deportes/futbol/hora-semifinal-vuelta-naciona-mushuc-runa.html "¿A qué hora juega El Nacional la semifinal de Copa Ecuador?")
-
-La afición del ‘Bi-Tri’ respondió desde las gradas y ni la lluvia ni el frío clima quiteño le impidieron brindar una buena acogida en el **Olímpico Atahualpa**. A lo largo del primer tiempo, las bandejas se llenaron gradualmente y con la preferencia llena, al igual que los palcos y la general norte, y con apenas claros en las tribunas, la emoción desbordó con el **pitazo final.**
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBzz_ZdPQNw/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DBzz_ZdPQNw/?utm_source=ig_embed&utm_campaign=loading)
-
-El culmen del partido aunó a **futbolistas y aficionados**, quienes celebraron en comunión y extendieron la fiesta entre las gradas y la cancha. Las barras fueron entonadas y también se le dio lugar, aunque de forma alejada, al **DT Marcelo Zuleta**.
-
-La celebración de la hinchada y los futbolistas de El Nacional en Copa Ecuador
-------------------------------------------------------------------------------
-
-Cuando terminó el cotejo, los futbolistas de El Nacional se tiraron de rodillas en el gramado del **Olímpico Atahualpa**. En trance, unos se abrazaron entre sí en la cancha y el banco de suplentes, y los graderíos no pararon de alentar. Aunque el compromiso había terminado, los presentes no se retiraron de sus asientos[.](https://en.wikipedia.org/wiki/C.D._El_Nacional "https://en.wikipedia.org/wiki/C.D._El_Nacional")
-
-La plantilla de los criollos se juntó de a poco y, en grupo, recorrió parte de la pista atlética del escenario deportivo. A los saltos, estos se concentraron en la **general norte** con sus camisetas como bandera o aún como armadura.
-
-Mientras las barras continuaban, estos alentaban al compás de ellas y se unían a los **cánticos**. Asimismo, saludaban a los hinchas, quienes cerraron el acto con bengalas rojas y luces móviles para iluminar la tarde de la **‘Gloria del Fútbol’**.
-
-Una vez que los futbolistas abandonaron el gramado, **David Cabezas** contó con su espacio de protagonismo. “Olé, olé, olé, Cabezas, Cabezas”, fue la banda sonora con la que el arquero y capitán de la escuadra se retiró a los camerinos con sus compañeros.
-
-Marcelo Zuleta, reconocido por la afición
------------------------------------------
-
-**Marcelo Zuleta** también tuvo su reconocimiento de parte de los puros criollos. Una vez que finalizó el compromiso, este levantó los brazos en señal de victoria y se dirigió hacia la tribuna para aupar su aliento.
-
-Aunque Zuleta no permaneció en el terreno de juego, una vez que realizó sus **acciones** y se dirigió hacia el camerino, el malestar que vivió en sus partidos iniciales se cambió por una ovación. La hinchada roja no escatimó en brindarle **palmas** tras lo conseguido.
-
-Un rayo alcanzó a dos personas en El Teleférico; Bomberos detallaron su estado
-==============================================================================
-
-Los ciudadanos realizaban excursión en el Rucu Pichincha, en Quito, cuando recibieron la descarga eléctrica del rayo.
----------------------------------------------------------------------------------------------------------------------
-
-![Los ciudadanos recibieron atención prehospitalaria y calor con mantas térmicas](https://www.elcomercio.com/wp-content/uploads/2024/10/teleferico-rayo-bomberos.jpg)
-
-Un **rayo** alcanzó a **dos personas** durante una **tormenta eléctrica** en el sector de **El Teleférico**, en el centro norte de Quito, la tarde de este jueves 31 de octubre de 2024.
-
-### Más noticias
-
-* [Quito registró fuertes lluvias en el inicio del feriado](https://www.elcomercio.com/actualidad/quito/quito-fuertes-lluvias-jueves-feriado.html "Quito registró fuertes lluvias en el inicio del feriado")
-* [Organizaciones sociales marcharon en Quito por la crisis energética](https://www.elcomercio.com/actualidad/ecuador/organizaciones-sociales-marchan-en-quito-por-la-crisis-energetica.html "Organizaciones sociales marcharon en Quito por la crisis energética")
-* [Horarios de atención de los cementerios en Quito para el feriado](https://www.elcomercio.com/actualidad/quito/horarios-atencion-cementerios-quito-feriado.html "Horarios de atención de los cementerios en Quito para el feriado")
-
-Según detalló el Cuerpo de **Bomberos** de Quito, los ciudadanos realizaban excursión el Rucu Pichincha cuando recibieron la **descarga eléctrica**. La alerta ingresó a las 13:09.
-
-De inmediato, efectivos especializados en alta montaña, que se encontraban en el lugar por el feriado, se trasladaron al punto de la **emergencia**.
-
-Los bomberos atendieron a las víctimas y las estabilizaron con **mantas térmicas**.
-
-Los afectados fueron llevados a las caballerizas de El Teleférico, donde recibieron **atención prehospitalaria**[.](https://es.wikipedia.org/wiki/Telef%C3%A9rico#:~:text=El%20telef%C3%A9rico%20es%20un%20medio,son%20accionados%20por%20energ%C3%ADa%20el%C3%A9ctrica. "https://es.wikipedia.org/wiki/Telef%C3%A9rico#:~:text=El%20telef%C3%A9rico%20es%20un%20medio,son%20accionados%20por%20energ%C3%ADa%20el%C3%A9ctrica.")
-
-Tras ser valorada y considerar que la pareja se encontraba **estable**, los bomberos los trasladaron hacia una casa de salud cercana para que reciban **atención especializada**.
-
-> ⚡ [#EmergenciasUIO](https://twitter.com/hashtag/EmergenciasUIO?src=hash&ref_src=twsrc%5Etfw) | Esta tarde nuestro equipo recibió un llamado de emergencia tras una descarga eléctrica por un rayo que alcanzó a dos personas en el Rucu Pichincha.  
->   
-> 👨🏼‍🚒 Inmediatamente acudimos al lugar y brindamos atención prehospitalaria a las personas afectadas.  
->   
-> 🚑 Por… [pic.twitter.com/YxRXNQ9Z39](https://t.co/YxRXNQ9Z39)
-> 
-> — Bomberos Quito (@BomberosQuito) [October 31, 2024](https://twitter.com/BomberosQuito/status/1852112669832015919?ref_src=twsrc%5Etfw)
-
-Fuertes lluvias cayeron en Quito este jueves
---------------------------------------------
-
-**Quito** registró **fuertes lluvias** la tarde este jueves 31 de octubre de 2024.
-
-Las precipitaciones cayeron en el **norte, centro y sur** de la capital, acompañadas por **tormentas eléctricas** y ráfagas de vientos.
-
-En algunos puntos de la ciudad, las lluvias se dieron pasadas las **13:00**, y duraron alrededor de una hora y media.
-
-El **ECU 911** registró las precipitaciones en varios sectores, a través de su sistema de cámaras de vigilancia. Algunos barrios monitoreados fueron:
-
-* Turubamba
-* Centro Histórico
-* Lucha de Los Pobres
-* Itchimbia
-* Carapungo
-
-El Cuerpo de **Bomberos** de Quito confirmó que **no se registraron novedades** de gravedad producto de las fuertes lluvias en la ciudad, en el primer día de feriado[.](https://www.inamhi.gob.ec/ "https://www.inamhi.gob.ec/")
-
-Sin embargo, sí se trataron alertas por acumulación de agua en calles y casas ubicadas en:
-
-* Barrio Las Marías, en **Tumbaco**
-* Shyris y Suecia, en La Carolina
-* Eloy Alfaro y José Correa, en Estadio Olímpico Atahualpa
-* Manuel Burbano y Francisco Ruíz, en Puembo
-
-En estos puntos, los efectivos limpiaron **sumideros taponados** por desechos y basura.
-
-Recomendaciones ante tormentas eléctricas
------------------------------------------
-
-### Antes de la tormenta
-
-Si hay predicciones de tormenta, evita estar al **aire libre**. De ser posible, permanece en casa o en un lugar cerrado.
-
-**Cierra ventanas y puertas**; y desconecta aparatos eléctricos que pueda sufrir sobrecargas.
-
-### Durante la tormenta
-
-Si la tormenta te toma al aire libre, **busca refugio de inmediato**. Si está afuera, dirígete a un edificio resistente o a un vehículo cerrado. Evita refugiarte bajo **árboles aislados o estructuras metálicas**.
-
-Mantente alejado de **cuerpos de agua**, como ríos, lagos o piscinas, ya que el agua es un excelente conductor de electricidad.
-
-Si la tormenta eléctrica es muy fuerte y es inevitable que esté cerca de ti, adopta una **posición segura**: Agáchate en cuclillas con los pies juntos y la cabeza protegida por los brazos. Esto reduce la superficie de contacto con el suelo.
-
-Probabilidad de que te caiga un rayo
-------------------------------------
-
-La **probabilidad** de que una persona sea alcanzada por un rayo es bastante baja, **una en tres millones**; aunque esto puede variar dependiendo de la ubicación geográfica y las actividades que se realizan.
-
-A lo largo de la vida, la probabilidad puede aumentar a **una entre 15 000**. Sin embargo, la mayoría de las personas nunca experimentan un impacto directo.
-
-Iglesias del Centro Histórico de Quito son siempre una alternativa para el feriado
-==================================================================================
-
-En estas fechas del calendario católico, bien vale la pena visitar las iglesias del Centro Histórico. Estas son cinco opciones.
--------------------------------------------------------------------------------------------------------------------------------
-
-![La Catedral Metropolitana tiene la característica una entrada lateral.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-28-1.jpg)
-
-**Quito** es una ciudad que está impregnada de **catolicismo** desde su **fundación**. De hecho, para algunos historiadores, sobre todo conservadores, es además “**la modeladora de la nacionalidad”**, como tituló a su libro **Julio Tobar Donoso**. Por eso, las **Iglesias** del **Centro Histórico de Quito** son siempre una alternativa para este feriado por **Difuntos** y la **Independencia de Cuenca.**
-
-### Más noticias
-
-* [Horarios de atención de los cementerios en Quito para el feriado](https://www.elcomercio.com/actualidad/quito/horarios-atencion-cementerios-quito-feriado.html "Horarios de atención de los cementerios en Quito para el feriado")
-* [Quito ofrece diversas opciones de turismo rural para los feriados de noviembre](https://www.elcomercio.com/actualidad/quito/quito-opciones-turismo-rural-feriados-noviembre.html "Quito ofrece diversas opciones de turismo rural para los feriados de noviembre")
-* [Lo que se puede hacer en el feriado de Difuntos en Quito](https://www.elcomercio.com/actualidad/quito/actividades-feriado-difuntos-quito.html "Lo que se puede hacer en el feriado de Difuntos en Quito")
-
-¿Cuántas iglesias hay en el Centro Histórico de Quito?
-------------------------------------------------------
-
-**Las iglesias del Centro Histórico de Quito** son monumentales y elementos esenciales para que la Unesco declarara a esta ciudad como **Patrimonio Cultural de la Humanidad** en **1978**. Y se puede encontrar que responden a diversos estilos arquitectónicos.
-
-En el Centro Histórico de Quito hay **60 edificaciones religiosas**, entre iglesias, conventos y salas capitulares. Ocupan un total de **370 hectáreas**. Quito, conocido también como “el claustro de América”, ha desarrollado también el turismo religioso. A continuación presentamos las cinco iglesias más importantes, que fueron incluidos en la guía **Camino quiteño de arte y fe**.
-
-La Catedral Metropolitana
--------------------------
-
-La Catedral Metropolitana, sin duda, ocupa la centralidad de la religiosidad católica quiteña, pues se encuentra en la **Plaza Grande.** Le caracteriza la entrada lateral y no por la parte posterior, pues se debió construir al borde de una quebrada.
-
-**Su construcción demoró 245 años**. Comenzó a levantarse en 1562 y “luego de varias reconstrucciones, finaliza en 1807”, según la guía.
-
-Es la sede de la **Arquidiócesis de Quito** y contiene varios estilos, como el románico, el barroco y el neoclásico. Además, tiene como veleta al famoso **Gallo de la Catedral**, que forma parte de las grandes leyendas del Quito colonial.
-
-La Compañía de Jesús
---------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-29-1024x683.jpg)
-
-Este cuadro del Juicio final marcó a muchas generaciones de quiteños.
-
-Para muchos, esta es la **más bella de la ciudad de Quito**. Es un monumento de la arquitectura barroca, que fue la tendencia estética más importante de la colonia y que incluso, según algunos estudiosos, como el cubano Alejo Carpentier, define el modo de ser latinoamericano.
-
-Ubicada en la calle García Moreno y Sucre, su construcción **demoró 160 años.** Comenzó en 1605 y finalizó en 1765. Sin duda, el cuadro del **Juicio Final** ha marcado generaciones enteras de quiteños por los castigos que reciben aquellos que van al infierno.
-
-San Francisco de Quito
-----------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-30-1024x683.jpg)
-
-Es considerado como **el mayor conjunto arquitectónico del siglo XVI en toda Hispanoamérica**. Incluso, lo llamaron “el Escorial del Nuevo Mundo”. Es una obra que contiene muchos elementos, tanto **barroco**, como **manierista** y **neoclásico**.
-
-Lo fascinante es la fachada hecha con piedra volcánica. El interior del convento originalmente tiene siete patios. También es el lugar donde se desarrolló una de las mayores leyendas de la ciudad: **Cantuña**, quien había hecho un pacto con el diablo para terminar de construir el atrio.
-
-No menos fascinante es la escalera que permite subir al atrio, **la escalera de Bramante**, que es, además, el título de una de las mejores novelas ecuatorianas de los últimos años, de **Leonardo Valencia.**
-
-Su tiempo de construcción demoró **219 años**. Se lo constriuyó en dos fases: la primera, entre 1536 (dos años después de la fundación española de Quito) y 1650; la segunda, entre 1651 y 1755.
-
-En esta Iglesia, se encuentra la figura de **Jesús del Gran Poder**, que es la mayor devoción penitencial de la ciudad en los Viernes Santo[.](https://es.wikipedia.org/wiki/Iglesia_de_San_Francisco_(Quito) "https://es.wikipedia.org/wiki/Iglesia_de_San_Francisco_(Quito)")[](https://es.wikipedia.org/wiki/Iglesia_de_San_Francisco_(Quito) "https://es.wikipedia.org/wiki/Iglesia_de_San_Francisco_(Quito)")
-
-Convento de San Agustín
------------------------
-
-Menos majestuoso que las construcciones anteriores, esta adquiere singular importancia. Por una parte, allí se encuentra la mayoría de los cuadros del gran pintor colonial, **Miguel de Santiago**, sobre la vida de San Agustín. Y por otra, en su sala capitular se ratificó la “**independencia**” (término discutible, según los historiadores), el 16 de agosto de 1809.
-
-Su construcción demoró apenas **89 años**, entre 1580 y 1669. En el convento hay varios estilos: gótico, neogótico, manierista y barroca.
-
-Basílica del Voto Nacional
---------------------------
-
-Esta iglesia está dedicada a la consagración del Ecuador al **Sagrado Corazón de Jesús**, hecha por el presidente **Gabriel García Moreno,** el 25 de marzo de 1874. El país fue el primero en hacerlo en todo el mundo.
-
-Su estilo es el más puro neogótico. **Su construcción inició en 1882, pero no ha concluido** hasta la actualidad. El papa **Juan Pablo II** lo bendijo en 1985, cuando visitó el país.
-
-Algunos de los materiales usados son las piedras andesitas del Pichincha, teja de adobe. Sus vitrales con especialmente hermosas.
-
-La final de la Copa Ecuador será en el Olímpico de Ibarra
-=========================================================
-
-El Nacional fue el primer campeón de la Copa Ecuador en 1970. Independiente fue en el 2022.
--------------------------------------------------------------------------------------------
-
-![Jugadores de El Nacional celebran la clasificación para la final de la Copa Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/ibarra_1.jpg)
-
-¡Es oficial! La final única de la **Copa Ecuador entre El Nacional e Independiente del Valle**, se jugará en el estadio Olímpico de Ibarra, la casa de Imbabura y Leones FC, clubes de la A y B de la Liga Pro, respectivamente.
-
-La tarde de este jueves 31 de octubre de 2024, la **Federación Ecuatoriana de Fútbol (FEF)**, organizadora de la Copa Ecuador, confirmó que la final única se jugará el miércoles 27 de noviembre, en un horario aún por confirmar.
-
-### Más noticias:
-
-* [La final de la Copa Libertadores será brasileña, por sexta vez](https://www.elcomercio.com/deportes/futbol/final-copa-libertadores-equipos-brasilenos.html "La final de la Copa Libertadores será brasileña, por sexta vez")
-* [Kendry Páez lidera un nuevo ranking a escala global](https://www.elcomercio.com/deportes/futbol/kendy-paez-ranking-sub20-ligas.html "Kendry Páez lidera un nuevo ranking a escala global")
-* [Feriado de fútbol en Ecuador con la Liga Pro en la recta final](https://www.elcomercio.com/deportes/futbol/feriado-futbol-ecuador-liga-quito.html "Feriado de fútbol en Ecuador con la Liga Pro en la recta final")
-
-El Olímpico de Ibarra tiene una capacidad para 15 000 personas y, según la FEF, está en un “**proceso de remodelación**, con obras destinadas a mejorar la experiencia de los asistentes y garantizar un evento” y experiencia para los hinchas, acorde a la Copa Ecuador, menciona la FEF en un comunicado oficial.
-
-En lo económico, la Copa Ecuador entregará al campeón un premio económico acumulado de 340 000 dólares y, en lo deportivo, el **cuarto cupo de Ecuador para la Copa Libertadores 2025**, con lo que se asegura un ingreso de 400 000 dólares por parte de la Conmebol.
-
-El cuarto cupo **automáticamente fue a parar a manos de El Nacional**, porque Independiente del Valle ya aseguró el primer cupo del país en la Copa Ecuador, al ganar la primera etapa de la Liga Pro y estar en carrera por coronarse como campeón.
-
-La historia del Olímpico de Ibarra
-----------------------------------
-
-El 4 de agosto de 1988 se **inauguró el estadio Olímpico de Ibarra**, el más importante escenario deportivo de la Sierra norte de Ecuador.
-
-En su cancha se jugó el **Mundial sub-17 de 1995** y recibió a las selecciones de Brasil, Omán, Alemania y Canadá, integrantes del grupo D que dejó clasificadas a los cuartos de final a los dos primeros equipos.
-
-El jugador más destacado que estuvo en Ibarra fue Juan, campeón de la Copa América con Brasil en **Perú 2004 y Venezuela 2007**; y de la Copa Confederaciones Alemania 2005 y Sudáfrica 2009.
-
-Jugó en Flamengo e Internacional de su país, y en el Bayer Leverkusen de Alemania y Roma de Italia.
-
-También fue sede del Campeonato Sudamericano sub-17 de 1988 que otorgó tres cupos para el Mundial que se celebró en Escocia y vio como Arabia Saudita levanto el trofeo de campeón.  
-  
-Campeonato Sudamericano sub-17 en 2007 y 2011 y recibió a jugadores como los ecuatorianos Miller Bolaños; **los colombianos Cristian Nazarit y James Rodríguez**; los brasileños Fabio Pereira y Lucas Piazón y los argentinos Eduardo Salvio y Alexis Machuca.
-
-El Campeonato Sudamericano sub-20 de 2017 también se jugó en Ibarra. Recibió al grupo B con Uruguay, Argentina y Venezuela, las clasificadas al Hexagonal final; y a Bolivia y Perú, las eliminadas.
-
-Lauta Martínez, **campeón del Mundo con Argentina en Catar 2022 y de América en Brasil 2021** y Estados Unidos 2024, jugó en el césped del Olímpico de Ibarra, antes de convertirse en un goleador de talla mundial en el Inter de Italia.
-
-Rodrigo Betancur (Uruguay), **Nicolás De La Cruz (Uruguay), Yangel Herrera (Venezuela)**, son otros de los nombres ilustres que estuvieron en el país en el arranque de sus exitosas carreras.
-
-San viernes – Especial de Halloween
------------------------------------
-
-¿Cómo llegan los finalistas de la Copa Libertadores?
-====================================================
-
-La Copa Libertadores ya conoce a sus dos finalistas y pronto tendrá un nuevo campeón.
--------------------------------------------------------------------------------------
-
-![La final de la Copa Libertadores 2024 será entre Atlético Mineiro y Botafogo.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-59.jpg)
-
-La noche del miércoles 30 de octubre se definieron los equipos que disputarán la gran final de la Copa Libertadores, en busca del título más prestigioso de Sudamérica. Los clasificados son **Atlético Mineiro y Botafogo,** ambos de Brasil.
-
-El partido por la gloria de América se jugará el próximo 30 de noviembre en el estadio más grande del continente, el **Monumental de Buenos Aires,** en horario por confirmar.
-
-### Más noticias:
-
-* [Alan Franco y su regreso triunfal al Atlético Mineiro con la final de la Libertadores](https://www.elcomercio.com/deportes/futbol/alan-franco-regreso-triunfal-atletico-mineiro-final-copa-libertadores.html "Alan Franco y su regreso triunfal al Atlético Mineiro con la final de la Libertadores")
-* [La final de la Copa Libertadores será brasileña, por sexta vez](https://www.elcomercio.com/deportes/futbol/final-copa-libertadores-equipos-brasilenos.html "La final de la Copa Libertadores será brasileña, por sexta vez")
-* [Moisés Caicedo motivó a Alan Franco a ganar la Libertadores](https://www.elcomercio.com/deportes/futbol/moises-caicedo-motivo-a-alan-franco-a-ganar-la-libertadores.html "Moisés Caicedo motivó a Alan Franco a ganar la Libertadores")
-
-¿Cómo llegan los finalistas?
-----------------------------
-
-Botafogo y Atlético Mineiro **han demostrado su calidad a lo largo del torneo,** ganándose su lugar en la final. El ‘Galo’ luchará por su segunda estrella, mientras que Botafogo buscará levantar el trofeo por primera vez en su historia.
-
-### Atlético Mineiro
-
-El equipo **del ecuatoriano Alan Franco**, lideró el Grupo G con 15 puntos, producto de cinco victorias y una derrota.
-
-En octavos de final enfrentó a **San Lorenzo**. Tras un empate 1-1 en Argentina, aseguró su pase en casa gracias a un gol de Battaglia.
-
-En cuartos, se midió contra el actual campeón, **Fluminense**, cayendo 1-0 en la ida, pero con un doblete de Deyverson en la vuelta logró clasificarse a las semifinales.
-
-Finalmente, en semifinales, el Galo venció a **River Plate**. Una contundente victoria 3-0 en casa, con Deyverson como figura, y un empate sin goles en Buenos Aires, sellaron su pase a la segunda final de su historia.
-
-### Botafogo
-
-Botafogo compartió grupo con **Liga de Quito** y, con 10 puntos, avanzó a octavos como segundo del Grupo C, detrás de Junior de Colombia.
-
-En octavos eliminó a **Palmeiras**, bicampeón en 2020 y 2021, tras una emocionante serie que terminó 4-3 a favor de Botafogo.
-
-Ya en cuartos de final, enfrentó a **São Paulo de Luis Zubeldía** en una serie igualada que se definió en penales, donde Botafogo logró la victoria.
-
-En semifinales, goleó 5-0 a **Peñarol** en la ida en Brasil, y aunque perdió en la vuelta, el resultado en casa fue suficiente para asegurar su lugar en la final.
-
-Mesías Tatamuez, dirigente sindical, falleció este jueves 31 de octubre de 2024
-===============================================================================
-
-El dirigente sindical, Mesías Tatamuez, falleció por problemas de salud.
-------------------------------------------------------------------------
-
-![Mesías Tatamuez falleció hoy.](https://www.elcomercio.com/wp-content/uploads/2024/10/mesias-tatamuez.jpg)
-
-**Mesías Tatamuez**, dirigente sindical de 74 años, **falleció** este jueves **31 de octubre** de 2024.
-
-La **Confederación Ecuatoriana de Organizaciones Clasistas Unitarias de Trabajadores (Cedocut)** lamentó su partida.
-
-### Más noticias:
-
-* [Sindicalistas en Ecuador, razones para quedarse en los cargos, ¿qué pasaría con cambios legales?](https://www.elcomercio.com/actualidad/politica/sindicalistas-ecuador-cambios-legales.html)
-* [Empleadores y trabajadores deben acordar el cambio de horarios por cortes de luz](https://www.elcomercio.com/actualidad/negocios/empleadores-y-trabajadores-deben-acordar-el-cambio-de-horarios-por-cortes-de-luz.html "Empleadores y trabajadores deben acordar el cambio de horarios por cortes de luz")
-
-El dirigente sindical Mesías Tatamuez falleció
-----------------------------------------------
-
-El **dirigente sindical** ecuatoriano, Mesías Tatamuez, falleció este jueves 31 de octubre de 2024.
-
-La Confederación Ecuatoriana de Organizaciones Clasistas Unitarias de Trabajadores (Cedocut) **informó** sobre su fallecimiento.
-
-Tatamuez, quien fue presidente de esta Confederación, se encontraba **afectado en su salud**, los últimos días, informó la Cedocut.
-
-Mesías Tatamuez, oriudo de la provincia del **Carchi**, empezó su carrera en la dirigencia sindical en **1970**.
-
-El primer cargo que ocupó fue como secretario de un **sindicato agrícola**.
-
-Mesías Tatamuez fue parte de organizaciones como la Asociación San Luis, Federación Provincial del Carchi y presidente, por varias ocasiones, del **Frente Unitario de Trabajadores (FUT)**, entre otras.
-
-Participó en el proceso de reforma agraria y, durante 11 años, gestionó la **legalización de tierras**.
-
-“Su partida deja un vacío inmenso en el movimiento sindical, los **derechos de los trabajadores** y campesinos”, señaló en un comunicado.
-
-La Cedocut señaló que Tatamuez “dedicó su vida con **ímpetu y pasión** a la defensa de la clase trabajadora”
-
-La Central expresó sus **condolencias y solidaridad** con su familia.
-
-La Cámara de Comercio de Quito, la Confederación Sindical de Trabajadores de las Américas y otras organizaciones también expresaron su pesar, a través de redes sociales.
-
-> La Cámara de Comercio de Quito extiende sus más sinceras condolencias por el fallecimiento de Mesías Tatamuez, líder sindical y presidente del CEDOCUT.  
-> Paz en su tumba [pic.twitter.com/xg9cIcStOB](https://t.co/xg9cIcStOB)
-> 
-> — Cámara de Comercio de Quito (@lacamaradequito) [October 31, 2024](https://twitter.com/lacamaradequito/status/1852117440462774732?ref_src=twsrc%5Etfw)
