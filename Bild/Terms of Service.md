@@ -205,28 +205,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-Spanien meldet 205 Tote nach Horror-Flut
-
-Spanien meldet 205 Tote nach Horror-Flut
-
-Spanien meldet 205 Tote nach Horror-Flut
-
-Spanien meldet 205 Tote nach Horror-Flut
-
-Spanien meldet 205 Tote nach Horror-Flut
-
-Spanien meldet 205 Tote nach Horror-Flut
-
-Spanien meldet 205 Tote nach Horror-Flut
-
-Spanien meldet 205 Tote nach Horror-Flut
-
-Spanien meldet 205 Tote nach Horror-Flut
-
-Spanien meldet 205 Tote nach Horror-Flut](https://www.bild.de/news/zahl-gestiegen-spanien-meldet-205-tote-nach-horror-flut-6724c211371c5d5c987ca1b0)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
