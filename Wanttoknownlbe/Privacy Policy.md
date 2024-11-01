@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/monsantos-onderzoeks-groenwas-machine/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/universum/ufo/de-belangrijkste-overgang-deel-10/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
