@@ -15,6 +15,7 @@
 * [Leisure](https://search.ch/leisure/)
 * [TV guide](https://search.ch/tv/)
 * [Cinema](https://search.ch/kino/)
+* [Snow](https://search.ch/meteo/snow)
 * [Web search](https://search.ch/web/)
 * [Apps](https://search.ch/app/)
 * [More](#sl-flyout-menu)
