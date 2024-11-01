@@ -62,7 +62,7 @@ Gas Parts](https://www.weber.com/US/en/parts--et--support/replacement-parts/gas-
 
 [Shop All Gas Grills](https://www.weber.com/US/en/gas/ "Shop All Gas Grills")
 
-  [![](https://dw-images.weber.com/images/plp/2024_Slate_207x165.jpg?auto=compress,format)The New Slate Griddle](https://www.weber.com/US/en/slategriddle.html)
+  [![](https://dw-images.weber.com/images/MAP%20Holiday/HolidayFY2025/Spirit%20MAP/25_HOLIDAYMAP_spirit_MegaMenu_207x165.png?auto=compress,format)Holiday Deal: Up to $130 OFF Select Spirit Grills](https://www.weber.com/US/en/holiday-special-offers/)[![](https://dw-images.weber.com/images/plp/2024_Slate_207x165.jpg?auto=compress,format)The New Slate Griddle](https://www.weber.com/US/en/slategriddle.html)
 
 [Charcoal](https://www.weber.com/US/en/charcoal/ "Charcoal")
 
@@ -198,7 +198,7 @@ Griddle Accessories](https://www.weber.com/US/en/griddle/griddle-accessories/ "G
 
 [Shop All Griddles](https://www.weber.com/US/en/griddle/ "Shop All Griddles")
 
-  [![](https://dw-images.weber.com/navigation/default/accessories/Griddle_LP_207x165.jpg?auto=compress,format)A Griddle for Every Grill](https://www.weber.com/US/en/griddles-lp.html)[![](https://dw-images.weber.com/images/plp/2024_Slate_207x165.jpg?auto=compress,format)The New Slate Griddle](https://www.weber.com/US/en/slategriddle.html)
+  [![](https://dw-images.weber.com/images/MAP%20Holiday/HolidayFY2025/Griddle%20MAP/25_HOLIDAYMAP_GriddleInsert_Mega%20Menu%20-%20207x165.png?auto=compress,format)Holiday Deal $50 OFF Rust-Resistant Griddle Inserts](https://www.weber.com/US/en/holiday-special-offers/)[![](https://dw-images.weber.com/images/plp/2024_Slate_207x165.jpg?auto=compress,format)The New Slate Griddle](https://www.weber.com/US/en/slategriddle.html)
 
 [Accessories](https://www.weber.com/US/en/shopallaccessories.html "Accessories")
 
