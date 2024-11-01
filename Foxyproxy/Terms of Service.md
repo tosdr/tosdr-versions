@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Awesome, you guys rock. I used your services for a couple of years when I was the PM at a tech company. It was great then, and apparently still is. You definitely won a regular customer for whenever I need a proxy.
+Your support service is terrific, I always recommend you to people.
 
-Ken Mundy
+Anthony Toogood
