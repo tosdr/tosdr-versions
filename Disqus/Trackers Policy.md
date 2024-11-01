@@ -24,7 +24,7 @@ Cookies and Data information, and a list of third party advertising partners tha
 
 Written by Disqus
 
-Updated over 8 months ago
+Updated over 9 months ago
 
 **Cookies and Data Recipients**
 
