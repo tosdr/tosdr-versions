@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Los Justicieros](https://www.myabandonware.com/game/los-justicieros-gzt)
+* [Lock 'n' Chase](https://www.myabandonware.com/game/lock-n-chase-ecj)
 * [Mario Lemieux Hockey](https://www.myabandonware.com/game/mario-lemieux-hockey-89p)
 * [Parlour Games](https://www.myabandonware.com/game/parlour-games-aog)
 * [Backyard Football 2002](https://www.myabandonware.com/game/backyard-football-2002-cpd)
-* [Plantasia](https://www.myabandonware.com/game/plantasia-so9)
-* [Summer Challenge: Athletics Tournament](https://www.myabandonware.com/game/summer-challenge-athletics-tournament-tcs)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
