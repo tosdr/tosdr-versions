@@ -381,15 +381,15 @@ Share This Article
 
  
 
+* [Roblox Safety](https://www.safesearchkids.com/roblox-parental-controls/)
 * [Parental Controls](https://www.safesearchkids.com/best-parental-control-app/)
+* [Is Discord Safe?](https://www.safesearchkids.com/is-discord-safe-for-your-kids-a-complete-parental-guide/)
 * [Navigating Twitch](https://www.safesearchkids.com/parents-guide-to-navigating-twitch-tv/)
-* [Snapchat Safety](https://www.safesearchkids.com/snapchat-kids/)
 * [Safer Messenger](https://www.safesearchkids.com/parental-controls-for-facebook-messenger/)
+* [CyberBullying](https://www.safesearchkids.com/cyber-bullying-for-parents/)
 * [Is TikTok Safe?](https://www.safesearchkids.com/5-things-parents-need-to-know-about-tiktok/)
 * [Kik Messenger](https://www.safesearchkids.com/what-parents-should-know-about-kik-messenger/)
-* [Roblox Controls](https://www.safesearchkids.com/roblox-parental-controls/)
-* [CyberBullying](https://www.safesearchkids.com/cyber-bullying-for-parents/)
-* [Is Discord Safe?](https://www.safesearchkids.com/is-discord-safe-for-your-kids-a-complete-parental-guide/)
+* [Snapchat Safety](https://www.safesearchkids.com/snapchat-kids/)
 * [WhatsApp Safety](https://www.safesearchkids.com/whatsapp-safety-for-kids/)
 * [Is Reddit Safe](https://www.safesearchkids.com/is-reddit-safe/)
 * [Phones in School](https://www.safesearchkids.com/cell-phones-in-school/)
