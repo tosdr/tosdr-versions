@@ -59,9 +59,15 @@ Welcome to DU! The truly grassroots left-of-center political community where reg
 Democratic Underground is currently open to Star members only
 =============================================================
 
+Our apologies. We are currently experiencing an interruption in service. We have tracked the issue to our database but we are still working to determine the cause. At this time we have no reason to believe that the site has been hacked or is under attack.
+
+The issue has left us with two options: We can either take DU offline for everyone, or we can keep it online by severely restricting connections to our database. Keeping DU open is our priority, even if it means restricting it to a smaller number of people. So at this time only Star Members can access the site. Since we have been forced to limit the number of visitors to DU, we think it is only fair that it should at least be open to the people who help to keep DU online the rest of the year round with their financial support.
+
+If you were hoping to read DU right now and cannot access the site, we know this is a disappointment. With the election just around the corner, this is the worst time for something like this to happen. Unfortunately -- due to factors such as increases in traffic, additional server/software stress, the possibility of bad actors, etc. -- this is also the most likely time that something like this is going to happen. We are working to resolve the issue as soon as we possibly can.
+
 If you are a Star Member and you are seeing this message, you can [sign into your account here](https://www.democraticunderground.com/?com=login) in order to access the site as normal. If you are already a registered member and would like to become a Star Member, please sign in to your account and then [visit this page](https://www.democraticunderground.com/star).
 
-If you are not a registered member and would like to become a Star Member, please [visit this page](https://www.democraticunderground.com/star).
+If you are not a registered member and would like to become a Star Member, please [visit this page](https://www.democraticunderground.com/?com=login&create=1).
 
 We apologize for the inconvenience during this time. This situation is temporary, but could continue for anywhere from a few hours to a few days.
 
