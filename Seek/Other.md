@@ -3,8 +3,6 @@ SEEK - Australia's no. 1 jobs, employment, career and recruitment site
 
 Skip to content
 
-[Jobs](https://www.seek.com.au/)[Courses](https://www.seek.com.au/learning/?campaigncode=seek_banner_29&sc_trk=skj-courses-link)[Businesses for sale](https://www.seekbusiness.com.au/?site=au&tracking=sk%3Amain%3Aau%3Anav%3Abus)[Volunteering](https://www.volunteer.com.au/?tracking=SKMAU%3Amain+header)
-
 [SEEK](https://www.seek.com.au/)
 
 Menu
@@ -24,10 +22,6 @@ Australia
 [Australia](https://www.seek.com.au/)[Hong Kong](https://hk.jobsdb.com/)[Indonesia](https://id.jobstreet.com/)[Malaysia](https://my.jobstreet.com/)[New Zealand](https://www.seek.co.nz/)[Philippines](https://www.jobstreet.com.ph/)[Singapore](https://sg.jobstreet.com/)[Thailand](https://th.jobsdb.com/)
 
 [Employer site](https://talent.seek.com.au/)
-
-All SEEK products
-
-[Jobs](https://www.seek.com.au/)[Courses](https://www.seek.com.au/learning/?campaigncode=seek_banner_29&sc_trk=skj-courses-link)[Businesses for sale](https://www.seekbusiness.com.au/?site=au&tracking=sk%3Amain%3Aau%3Anav%3Abus)[Volunteering](https://www.volunteer.com.au/?tracking=SKMAU%3Amain+header)
 
 [Sign in](https://www.seek.com.au/oauth/login/?returnUrl=http%3A%2F%2Fwww.seek.com.au%2F "Sign in")
 
@@ -254,7 +248,7 @@ Download apps
 
 SEEK sites
 
-[Employer site](https://talent.seek.com.au/)[SEEK NZ](https://www.seek.co.nz/)[Courses](https://www.seek.com.au/learning/?campaigncode=seek_banner_29&sc_trk=skj-courses-link)[Businesses for sale](https://www.seekbusiness.com.au/?site=au&tracking=sk%3Amain%3Aau%3Anav%3Abus)[Volunteering](https://www.volunteer.com.au/?tracking=SKMAU%3Amain+header)
+[Employer site](https://talent.seek.com.au/)[SEEK NZ](https://www.seek.co.nz/)[Businesses for sale](https://www.seekbusiness.com.au/?site=au&tracking=sk%3Amain%3Aau%3Anav%3Abus)[Volunteering](https://www.volunteer.com.au/?tracking=SKMAU%3Amain+header)
 
 Employers
 
