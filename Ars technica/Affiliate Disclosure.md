@@ -89,11 +89,11 @@ Most Read
     
 2. 2. [Person accidentally poisoned 46 coworkers with toxin-loaded homemade lunch](https://arstechnica.com/health/2024/10/when-you-make-lunch-for-your-coworkers-and-accidentally-cause-a-mass-poisoning/)
     
-3. 3. [The New Glenn rocket’s first stage is real, and it’s spectacular](https://arstechnica.com/space/2024/10/new-glenn-rolls-to-the-launch-pad-as-end-of-year-deadline-approaches/)
+3. 3. [Nearly two months after Starliner’s return, Boeing remains mum on its future](https://arstechnica.com/space/2024/11/nearly-two-months-after-starliners-return-boeing-remains-mum-on-its-future/)
     
-4. 4. [Apple’s M4, M4 Pro, and M4 Max compared to past generations, and to each other](https://arstechnica.com/apple/2024/10/apples-m4-m4-pro-and-m4-max-compared-to-past-generations-and-to-each-other/)
+4. 4. [Over 500 Amazon workers decry “non-data-driven” logic for 5-day RTO policy](https://arstechnica.com/tech-policy/2024/10/over-500-amazon-workers-decry-non-data-driven-logic-for-5-day-rto-policy/)
     
-5. 5. [Here’s the paper no one read before declaring the demise of modern cryptography](https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/)
+5. 5. [More dentists are pulling healthy teeth to sell pricy implants, experts warn](https://arstechnica.com/health/2024/11/more-dentists-are-pulling-healthy-teeth-to-sell-pricy-implants-experts-warn/)
     
 
 Customize
