@@ -1,4 +1,4 @@
-[Save 15% on Popular Favorites! 🎉 View Deals](https://support.jukeboxprint.com/en/articles/9961135-october-2024-sales)
+[Save up to 20% on Holiday Essentials! 🎄 View Deals](https://support.jukeboxprint.com/en/articles/9961135-october-2024-sales)
 
 [![Jukebox Print](https://storage.jukeboxprint.com/s/images/jukebox-logo.svg)![Jukebox Loves Pride!](data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=)](https://www.jukeboxprint.com/)
 
@@ -168,7 +168,7 @@ EUR
     
     Information[#### Digital Foil Business Cards](https://www.jukeboxprint.com/foil-business-cards)[Elevate your brand with our digital foil business cards. Luxurious yet cost-effective, available in 6 unique colors. Perfect for intricate designs and quick turnaround.](https://www.jukeboxprint.com/foil-business-cards)
     
-    Information[#### Recycled Business Cards](https://www.jukeboxprint.com/recycled-business-cards)[If you're looking for our most environmentally-friendly business cards, look no further than our Mohawk 100% Recycled business cards.](https://www.jukeboxprint.com/recycled-business-cards)
+    Information[#### Recycled Business Cards](https://www.jukeboxprint.com/recycled-business-cards)[Explore our premium 18pt and 24pt recycled business cards, crafted from 100% recycled materials. Durable, eco-friendly, and perfect for a high-quality impression.](https://www.jukeboxprint.com/recycled-business-cards)
     
     Information[#### Kraft Business Cards](https://www.jukeboxprint.com/kraft-business-cards)[The 18pt Brown Kraft has a timeless appearance and texture, and it is 100% Recycled.](https://www.jukeboxprint.com/kraft-business-cards)
     
@@ -302,6 +302,8 @@ EUR
     * [Wire-O Books](https://www.jukeboxprint.com/wire-o-binding)
     
     Information[#### Perfect Bound Books](https://www.jukeboxprint.com/perfect-bound-booklet-printing)[Unique, stylish, and sturdy perfect bound books. Versatile book-making service for catalogs, cookbooks, and publishing books, with lasting quality, any page count, and your choice of stock.](https://www.jukeboxprint.com/perfect-bound-booklet-printing)
+    
+    Information[#### Saddle Stitch Booklets](https://www.jukeboxprint.com/saddle-stitched-booklets)[Saddle stitched booklets are perfect for magazines, event programs, catalogs and more.](https://www.jukeboxprint.com/saddle-stitched-booklets)
     
     Information[#### Custom Notebooks](https://www.jukeboxprint.com/custom-notebooks)[Whether you want to bind your product catalogs or informative booklets, we provide our customers with perfect bound books. Unlike traditional saddle stitched method of binding, the perfect bound method is unique, stylish and gives your books a cleaner finish. With this versatile service, you can not only create catalogs and booklets but also storybooks, yearly diaries, and notebooks, which can be used in-store, at events and trade shows.](https://www.jukeboxprint.com/custom-notebooks)
     
