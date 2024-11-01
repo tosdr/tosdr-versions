@@ -46,10 +46,6 @@
 
 * [Compare Credit Cards](https://www.tangerine.ca/en/personal/spend/credit-cards)
 
-![](/content/experience-fragments/tangerine/ca/en/header/master/_jcr_content/root/container_1282085336/container_745983912/container_1531797112/tabs/item_2/container_1829561674/container_1416453080/image.coreimg.svg/1720711221731/picto-stars.svg)
-
-[Student? You could win $35,000.Δ](https://www.tangerine.ca/en/offers/student-scholarship)
-
 **Products**
 
 * [Guaranteed Investment (GICs)](https://www.tangerine.ca/en/personal/invest/guaranteed-investments)
@@ -143,10 +139,6 @@ Spend
 * [Money-back Credit Card](https://www.tangerine.ca/en/personal/spend/credit-cards/money-back-credit-card)
 
 * [Compare Credit Cards](https://www.tangerine.ca/en/personal/spend/credit-cards)
-
-![](/content/experience-fragments/tangerine/ca/en/header/master/_jcr_content/root/container_1006948124/container_560400303/tabs/item_1696533113228/tabs/item_2/container_128022383/image.coreimg.svg/1720710891553/picto-stars.svg)
-
-[Student? You could win $35,000.Δ](https://www.tangerine.ca/en/offers/student-scholarship)
 
 Invest
 
@@ -263,11 +255,11 @@ EXPLANATION OF TERMS USED IN THIS PRIVACY CODE
 
 ### Associates
 
-The Client services representatives at Tangerine who will address any questions and concerns about a Tangerine product or service. Associates may be reached by telephone at **[1-888-826-4374](tel:+18888264374)** or email at [**info@tangerine.ca**](mailto:info@tangerine.ca).
+The Client services representatives at Tangerine who will address any questions and concerns about a Tangerine product or service. Associates may be reached by telephone at **1-888-826-4374** or email at [**info@tangerine.ca**](mailto:info@tangerine.ca).
 
 ### Personal information
 
-Personal information is information that identifies you or can be used to identify you. Examples of personal information include: first and last name, mother’s maiden name, mailing address, telephone number (including mobile), email address, date of birth, Social Insurance Number (SIN), government-issued identification, credit history, information about your employment and education, annual income, assets and liabilities and financial transactions.
+“Personal information” generally means any information that can be used, either alone or in combination with other information, to identify an individual. This includes information such as your name, mailing address, email address, telephone number, or any other contact details. It may also include other types of more technical information, but only when this information can identify you as an individual, such as your IP address, the device you use to access our website or app and details on your use of our website or app. Information that is anonymized and can’t be associated with an identifiable individual is not considered to be personal information.
 
 ### Privacy Office
 
@@ -299,10 +291,10 @@ We are accountable for all personal information in our possession or control, in
 1. Our Global Privacy Officer is responsible for protecting the privacy of our Clients’ personal information and our compliance with this Privacy Code.
 2. We are also accountable for personal information that has been transferred to a third party for processing (for example, cheque clearing services). Our policies for safeguarding personal information transferred to third parties are set out in **[Section 7.4](#new-7-4)** of this Privacy Code.
 3. To ensure compliance with the principles of this Privacy Code, we:
-    *  have established procedures to protect personal information;
+    * have established procedures to protect personal information;
     * have established procedures to receive and respond to questions and complaints;
     * published this Privacy Code; and
-    *  have trained our staff to understand and follow our privacy procedures.
+    * have trained our staff to understand and follow our privacy procedures.
 
 We also oversee compliance with this Privacy Code through regular audits and other compliance procedures. Senior management reports to a committee of Tangerine’s Board of Directors regarding compliance with this Privacy Code.
 
@@ -362,13 +354,15 @@ Examples of additional purposes for which we may collect, disclose or use your p
 
 **o**. personal information may be collected, used and disclosed for the purpose of legal or regulatory requirements;
 
-**p**. personal information may be collected, used and disclosed if you participate in a contest, survey or promotion to administer your participation in the contest or promotion and as otherwise described to you when you enter. Information obtained through our surveys is used in an aggregated form. We use this information to help us understand our Clients and to improve our products and services;
+**p**. personal information may be collected, used and disclosed if you participate in a contest, survey or promotion to administer your participation in the contest or promotion and as otherwise described to you when you enter. Information obtained through our surveys is used in an aggregated form, unless you provide us with your consent. We use this information to help us understand our Clients and to improve our products and services;
 
 **q**. personal information about a joint Account and any transactions on that Account may be disclosed to any Account holder; and
 
 **r**. personal information may be disclosed to a representative (such as a legal guardian, Power of Attorney, estate representative or lawyer) where reasonably necessary to administer the estate.
 
 **s.** The way we analyze your personal information may involve automated decisions. This involves processing your personal information using software that can evaluate your personal circumstances and other factors to address risks or outcomes. We may use this method to make decisions about you relating to credit checks, identity and address checks, monitoring your Account(s) for fraud or other financial crime, or for other reasons that we’ll disclose to you. We may use automated decision making if it’s necessary for us to provide you with a particular product (for example, we may use it to decide on the types of services that are suitable for you), to prevent fraud or financial crime, or if it’s reasonable to ensure that we’re treating our Clients fairly.
+
+**t.** Tangerine is present on social media platforms, such as Facebook, Instagram, and X (Twitter). When you interact with our social media accounts, for example, if you “like” our page or make comments, we may collect certain information about you, such as any information you may provide in the comments you publish on our account page and the direct messages you send us. The information we collect depends on what these social media platforms share with us based on the privacy settings you have selected. We suggest you consult the privacy policies of these social media platforms to learn more.
 
 SECTION 3
 ---------
@@ -431,7 +425,8 @@ We will keep personal information only as long as necessary for the identified p
 3. We will collect health records only for specific purposes explained to you, such as establishing the effective date of a Power of Attorney or for creditor insurance purposes, as insurance providers require this personal information to assess insurance risk and to establish and administer the insurance coverage.
 4. In the event we provide personal information to a third party service provider for processing located in a foreign jurisdiction, we will be bound by the laws and regulations of that jurisdiction and may disclose personal information in accordance with those laws and regulations.
 5. We will destroy, erase or make anonymous any personal information no longer needed for its identified purposes or for legal requirements, in accordance with our records retention policies.
-6. When you fill out forms and applications online or in our Mobile Banking app, we may save your progress as a draft for up to 30 days. Where possible, this means that if you can’t complete the form or need to switch devices, you don’t need to start over the next time you open the form. After that period, the information you entered will be deleted.
+6. When you fill out forms and applications online or in our Mobile Banking app, we may save your progress as a draft for up to 30 days. Where possible, this means that if you can’t complete the form or need to switch devices, you don’t need to start over the next time you open the form. After that period, the information you entered will be deleted.  
+    We may share information in accordance with your requests or as you otherwise consent. In some cases, your consent may be “implied”, meaning that your agreement is assumed based on your action or inaction at the point of processing your personal data. You may withdraw your consent to our collection, use or disclosure of your personal information as outlined in Section 3.5 and 3.6 above.
 
 SECTION 6
 ---------
@@ -554,20 +549,20 @@ Office of the Privacy Commissioner of Canada
 
 30, Victoria Street
 
-Gatineau, Quebec  K1A 1H3
+Gatineau, Quebec K1A 1H3
 
-Toll-free:**[1-800-282-1376](tel:+1-800-282-1376)**
+Toll-free:**1-800-282-1376**
 
-Phone: **[(819) 994-5444](tel:+(819)%20994-5444)**
+Phone: **(819) 994-5444**
 
-TTY: **[(819) 994-6591](tel:+(819)%20994-6591)**
+TTY: **(819) 994-6591**
 
 [**priv.gc.ca**](https://priv.gc.ca/en)
 
 SECTION 11
 ----------
 
-**Language (Quebec residents only /Résidents du Québec seulement):**  You acknowledge that the French and English versions of this Agreement were remitted to you. You expressly request and agree to be bound exclusively by the English version of this Agreement and that all related documents, including any notices, be drafted in English only. _Vous reconnaissez que les versions françaises et anglaises de cette convention vous ont été remises. Vous demandez expressément et acceptez d’être lié exclusivement par la version anglaise de cette convention et que tous les documents qui s’y rattachent, y compris les avis, soient rédigés en anglais seulement._
+**Language (Quebec residents only /Résidents du Québec seulement):** You acknowledge that the French and English versions of this Agreement were remitted to you. You expressly request and agree to be bound exclusively by the English version of this Agreement and that all related documents, including any notices, be drafted in English only. _Vous reconnaissez que les versions françaises et anglaises de cette convention vous ont été remises. Vous demandez expressément et acceptez d’être lié exclusivement par la version anglaise de cette convention et que tous les documents qui s’y rattachent, y compris les avis, soient rédigés en anglais seulement._
 
 **À propos de vos renseignements personnels**
 
@@ -594,10 +589,12 @@ EXPLICATION DES TERMES UTILISÉS DANS LA PRÉSENTE POLITIQUE DE CONFIDENTIALITÉ
 
 ### Associés
 
-Les représentants du service à la clientèle de Tangerine étudieront les questions et les doléances au sujet d’un produit ou d’un service de Tangerine. Il est possible de joindre un associé en téléphonant au **[1-888-826-4374](tel:+18888264374)** ou en lui envoyant un courriel à **[infos@tangerine.ca](mailto:infos@tangerine.ca)**.  
+Les représentants du service à la clientèle de Tangerine étudieront les questions et les doléances au sujet d’un produit ou d’un service de Tangerine. Il est possible de joindre un associé en téléphonant au **1-888-826-4374** ou en lui envoyant un courriel à **[infos@tangerine.ca](mailto:infos@tangerine.ca)**.  
   
-Renseignements personnels  
-Les renseignements personnels sont des renseignements qui permettent de vous identifier ou qui peuvent être utilisés pour vous identifier. Voici des exemples de renseignements personnels : votre nom et votre prénom, le nom de jeune fille de votre mère, votre adresse postale, votre numéro de téléphone (notamment de cellulaire), votre adresse de courriel, votre date de naissance, votre numéro d’assurance sociale (NAS), une pièce d’identité délivrée par un gouvernement, vos antécédents de crédit, des renseignements sur votre emploi et vos études, votre revenu annuel, vos actifs et passifs et vos opérations financières.  
+Renseignements personnels
+
+  
+_Par « renseignements personnels », on entend généralement tous les renseignements qui peuvent être utilisés, seuls ou avec d’autres renseignements, pour identifier une personne, comme son nom, ses adresses postale et électronique, son numéro de téléphone ou toute autre coordonnée. Il peut aussi s’agir de renseignements plus techniques, mais uniquement si ces renseignements permettent d’identifier la personne : adresse IP, appareil utilisé pour accéder au site Web ou à l’application de la Banque Scotia, données sur l’utilisation du site Web ou de l’application, etc. Les renseignements qui sont anonymisés et qui ne peuvent pas être associés à une personne identifiable ne sont pas considérés comme des renseignements personnels._  
   
 Responsable mondial de la protection de la vie privée  
 Le service de Tangerine qui a la responsabilité de protéger vos renseignements personnels. Il est possible de joindre le responsable mondial de la protection de la vie privée par la poste ou par courriel à l’adresse suivante :  
@@ -625,6 +622,7 @@ Nous sommes responsables de tous les renseignements personnels en notre possessi
 1. Notre responsable mondial de la protection de la vie privée est chargé de préserver la confidentialité des renseignements personnels de nos clients et de notre respect de la présente Politique de confidentialité.
 2. Nous sommes également responsables des renseignements personnels transmis à des tiers à des fins de traitement (par exemple, des services de compensation de chèques). Nos politiques visant à assurer protection des renseignements personnels transmis à des tiers sont exposées au [**paragraphe 7.4**](#new-7-4) de la présente Politique de confidentialité.
 3. Afin d’assurer le respect des principes de la présente Politique de confidentialité, nous avons fait ce qui suit :  
+      
     * nous avons établi des procédures pour protéger les renseignements personnels;
     * nous avons établi des procédures pour recevoir et répondre aux demandes de renseignements et aux plaintes;
     * nous avons publié la présente Politique de confidentialité; et
@@ -688,13 +686,15 @@ Voici des exemples d’autres fins auxquelles nous pourrions recueillir, communi
 
 **o**. des renseignements personnels peuvent être recueillis, utilisés et communiqués afin de se conformer à des exigences juridiques ou réglementaires;
 
-**p**. des renseignements personnels peuvent être recueillis, utilisés et communiqués si vous participez à un concours, un sondage ou une promotion aux fins de l’administration de votre participation à ce concours ou cette promotion ou à toute autre fin qui vous aura par ailleurs été décrite au moment de votre inscription. Les renseignements que nous obtenons dans le cadre de nos sondages sont regroupés. Nous les utilisons pour comprendre nos clients et pour améliorer nos produits et services;
+**p**. des renseignements personnels peuvent être recueillis, utilisés et communiqués si vous participez à un concours, un sondage ou une promotion aux fins de l’administration de votre participation à ce concours ou cette promotion ou à toute autre fin qui vous aura par ailleurs été décrite au moment de votre inscription. Les renseignements que nous obtenons dans le cadre de nos sondages sont regroupés, sauf si vous nous donnez votre consentement. Nous les utilisons pour comprendre nos clients et pour améliorer nos produits et services;
 
 **q**. des renseignements personnels sur un compte conjoint et les opérations sur ce compte peuvent être communiqués aux titulaires du compte; et
 
 **r**. des renseignements personnels peuvent être communiqués à un représentant (comme un tuteur, un fondé de pouvoir, le représentant d’une succession ou un avocat) si cela est raisonnablement nécessaire pour administrer le patrimoine.
 
 **s.** L’analyse de vos renseignements personnels pourrait faire appel à des prises de décision automatisées. Il s’agit de traiter vos renseignements personnels à l’aide de logiciels qui peuvent évaluer votre situation personnelle, ainsi que les facteurs pouvant influencer celle-ci. Nous pourrions faire appel à de telles méthodes pour prendre des décisions à votre égard, notamment afin de vérifier votre crédit, confirmer votre identité et votre adresse, faire le suivi de votre compte pour prévenir la fraude ou des crimes financiers, ou pour d’autres motifs qui vous seront présentés, le cas échéant. Nous pourrions recourir à des processus décisionnels automatisés pour vous fournir un produit particulier (par exemple, pour établir les types de services qui vous conviennent), pour prévenir la fraude ou les crimes financiers, ou pour nous assurer d’offrir un service équitable à nos clients.
+
+**t.** La Banque Tangerine est présente sur différentes plateformes de réseaux sociaux, comme Facebook, Instagram et X (Twitter). Lorsque vous interagissez avec un compte de la Banque sur une telle plateforme, par exemple en « aimant » une publication, en publiant des commentaires ou en nous envoyant un message direct, nous pouvons collecter certains renseignements à votre sujet. Ces renseignements dépendent de ce que ces plateformes partagent avec nous, selon les paramètres de confidentialité que vous avez sélectionnés. Nous vous recommandons de consulter les politiques de confidentialité de ces plateformes de réseaux sociaux pour en savoir plus.
 
 ARTICLE 3
 ---------
@@ -722,11 +722,11 @@ Sous réserve de certaines obligations juridiques, réglementaires et contractue
     * Une personne ne peut retirer son consentement dans le cas d’un produit de crédit à l’égard duquel nous sommes tenus de recueillir et de communiquer des renseignements après l’octroi du crédit. Cette mesure vise à préserver l’intégrité du système d’information de crédit.
     * Nous agirons selon vos directives dès que possible, mais il se pourrait que nous ne puissions cesser immédiatement d’utiliser vos renseignements à certains égards.
 6. Refus et retrait
-    * Si vous souhaitez retirer votre consentement ou mettre à jour vos préférences de communication en matière de marketing, veuillez communiquer avec nous au numéro sans frais **[1-888-826-4374](tel:+18888264374 "1. 8, 8, 8. 8, 2, 6. 4, 3, 7, 4")**.
+    * Si vous souhaitez retirer votre consentement ou mettre à jour vos préférences de communication en matière de marketing, veuillez communiquer avec nous au numéro sans frais **1-888-826-4374**.
     * Pour cesser de recevoir des communications par courriel, veuillez cliquer sur le lien de désabonnement qui se trouve dans chacune de nos communications.
     * Pour cesser de recevoir des textos, vous n’avez qu’à répondre « STOP » ou « ARRET » à un message.
-    * Pour que vos renseignements personnels ne soient plus communiqués à nos partenaires de confiance, veuillez nous joindre aux coordonnées figurant ci dessus.
-    * Pour cesser de recevoir des messages publipostés ou des communications de marketing par téléphone, veuillez nous joindre aux coordonnées figurant ci dessus.
+    * Pour que vos renseignements personnels ne soient plus communiqués à nos partenaires de confiance, veuillez nous joindre aux coordonnées figurant ci-dessus.
+    * Pour cesser de recevoir des messages publipostés ou des communications de marketing par téléphone, veuillez nous joindre aux coordonnées figurant ci-dessus.
 
 ARTICLE 4
 ---------
@@ -759,6 +759,7 @@ Nous conserverons les renseignements personnels uniquement pour la durée néces
 4. Si nous fournissons des renseignements personnels aux fins de traitement par un fournisseur de services tiers situé dans un territoire étranger, nous devrons respecter les lois et les règlements de ce territoire et pourrons communiquer les renseignements personnels conformément à ces lois et règlements. 
 5. Nous détruirons, effacerons ou dépersonnaliserons les renseignements personnels dont nous n’avons plus besoin pour les fins précisées ou pour nous conformer aux exigences de la loi, conformément à nos politiques en matière de conservation des dossiers. 
 6. Lorsque vous remplissez des formulaires et des demandes en ligne ou au moyen de notre appli bancaire mobile, vos réponses sont automatiquement enregistrées pendant 30 jours au maximum (version provisoire). Dans la mesure du possible, si vous ne parvenez pas à remplir un formulaire ou si vous devez changer d’appareil, vous n’aurez pas à recommencer la procédure la prochaine fois que vous ouvrirez le formulaire. Toutefois, après cette période, les renseignements que vous avez saisis seront supprimés.
+7. Nous pouvons communiquer des renseignements conformément à vos demandes ou avec votre consentement. Dans certains cas, votre consentement pourrait être « implicite », c’est-à-dire qu’il sera présumé sur la base de votre action ou inaction lors du traitement de vos renseignements personnels. Vous pouvez retirer votre consentement à la collecte, à l’utilisation ou à la divulgation de vos renseignements personnels comme indiqué dans les paragraphes 3.5 et 3.6 ci-dessus.
 
 ARTICLE 6
 ---------
