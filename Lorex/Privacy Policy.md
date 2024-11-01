@@ -546,6 +546,8 @@ Your cart is empty
     
     [Smart Lock 50% Off Blowout](https://www.lorex.com/products/lk100-smart-lock)
     
+    [Lorex PROvember](https://pro.lorex.com/)
+    
 * [Lorex Smart Home arrow bottom](https://www.lorex.com/collections/smart-home)
     
     [Smart Home Solutions](https://www.lorex.com/collections/smart-home)
