@@ -311,6 +311,7 @@ Search
         * [Science](https://www.nascoeducation.com/general-kits/student-kits/science.html)
         * [SEL](https://www.nascoeducation.com/general-kits/student-kits/sel.html)
         * [STEM-STEAM](https://www.nascoeducation.com/general-kits/student-kits/stem-steam.html)
+    * [Custom SEL Kits](https://www.nascoeducation.com/general-kits/sel-custom-kits.html)
     * [Cornell Lab Science Curriculum Kits](https://www.nascoeducation.com/general-kits/cornell.html)
     * [STEAM On Demand Curriculum & Supply Kits](https://www.nascoeducation.com/general-kits/steam-on-demand-material-kits.html)
 * [Agricultural Education](https://www.nascoeducation.com/agricultural-education.html)
