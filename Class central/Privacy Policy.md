@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. c
+1. java
     
-2. law
+2. psychology
     
-3. project management
+3. law
     
 
 Popular subjects
 ----------------
 
-1. [Web Development
+1. [Communication Skills
     
-    13,382 courses](https://www.classcentral.com/subject/web-development)
-2. [Software Development
+    4,089 courses](https://www.classcentral.com/subject/communication-skills)
+2. [Artificial Intelligence
     
-    9,519 courses](https://www.classcentral.com/subject/software-development)
-3. [Graphic Design
+    13,040 courses](https://www.classcentral.com/subject/ai)
+3. [Psychology
     
-    4,227 courses](https://www.classcentral.com/subject/graphic-design)
+    2,464 courses](https://www.classcentral.com/subject/psychology)
 
 Popular courses
 ---------------
 
-1. [Functional Programming Principles in Scala
+1. [Direct Tax Laws and Practice
     
-    École Polytechnique Fédérale de Lausanne](https://www.classcentral.com/course/progfun-422)
-2. [Mountains 101
+    Tezpur University](https://www.classcentral.com/course/swayam-direct-tax-laws-and-practice-14009)
+2. [Introduction to Biology - The Secret of Life
     
-    University of Alberta](https://www.classcentral.com/course/mountains-101-7455)
-3. [Industrial Pharmacy-I
+    Massachusetts Institute of Technology](https://www.classcentral.com/course/biology-massachusetts-institute-of-technology-int-637)
+3. [ODS en la Agenda 2030 de las Naciones Unidas: Retos de los Objetivos de Desarrollo Sostenible
     
-    H.N.B Garhwal University (A Central University) Srinagar Garhwal](https://www.classcentral.com/course/swayam-industrial-pharmacy-i-14123)
+    Universitat Politècnica de València](https://www.classcentral.com/course/sustainable-development-universitat-politecnica-d-9740)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
