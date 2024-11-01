@@ -75,11 +75,11 @@ Page content follows
         
         Our most popular radio. Enjoy features like split-screen mode and create your own channel with TuneMix™.
         
-    * [![Shop SiriusXM - SiriusXM Tour with 360L and Vehicle Kit](https://sxm.ips.photos/sxm-java/images/skus/SXWB1V1__PRODUCT_01--160--SiriusXMTourwith360LVehicleKit-1073512709.png)](https://shop.siriusxm.com/SiriusXM-Tour-360L)
+    * [![Shop SiriusXM - SiriusXM Roady BT](https://sxm.ips.photos/sxm-java/images/skus/SXVRBT1__PRODUCT_01--160--SiriusXMRoadyBT--227886644.png)](https://shop.siriusxm.com/roady-bt.html)
         
-        [SiriusXM Tour with 360L and Vehicle Kit](https://shop.siriusxm.com/SiriusXM-Tour-360L)
+        [SiriusXM Roady BT](https://shop.siriusxm.com/roady-bt.html)
         
-        Our exclusive 360L technology combines the best satellite and streaming features, including personalized content and access to the most SiriusXM audio channels than on any other radio.
+        Elevate your in-vehicle entertainment with this radio featuring versatile magnetic mounting options and Bluetooth compatibility so you’re ready wherever the road takes you.
         
     
 * [Accessories & Parts](https://shop.siriusxm.com/accessories-and-parts/)
@@ -131,11 +131,11 @@ Page content follows
             
             Our most popular radio. Enjoy features like split-screen mode and create your own channel with TuneMix™.
             
-        * [![Shop SiriusXM - SiriusXM Tour with 360L and Vehicle Kit](https://sxm.ips.photos/sxm-java/images/skus/SXWB1V1__PRODUCT_01--160--SiriusXMTourwith360LVehicleKit-1073512709.png)](https://shop.siriusxm.com/SiriusXM-Tour-360L)
+        * [![Shop SiriusXM - SiriusXM Roady BT](https://sxm.ips.photos/sxm-java/images/skus/SXVRBT1__PRODUCT_01--160--SiriusXMRoadyBT--227886644.png)](https://shop.siriusxm.com/roady-bt.html)
             
-            [SiriusXM Tour with 360L and Vehicle Kit](https://shop.siriusxm.com/SiriusXM-Tour-360L)
+            [SiriusXM Roady BT](https://shop.siriusxm.com/roady-bt.html)
             
-            Our exclusive 360L technology combines the best satellite and streaming features, including personalized content and access to the most SiriusXM audio channels than on any other radio.
+            Elevate your in-vehicle entertainment with this radio featuring versatile magnetic mounting options and Bluetooth compatibility so you’re ready wherever the road takes you.
             
         
         * [Great Offers](https://shop.siriusxm.com/radios/special-offers/)
