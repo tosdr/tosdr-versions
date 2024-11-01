@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
-* [Zeebo Extreme Rolimã](https://www.myabandonware.com/game/zeebo-extreme-rolima-t46)
-* [Zeebo Extreme Jetboard](https://www.myabandonware.com/game/zeebo-extreme-jetboard-t45)
-* [Zeebo Extreme Corrida Aérea](https://www.myabandonware.com/game/zeebo-extreme-corrida-aerea-t44)
-* [Zeebo Extreme Bóia-Cross](https://www.myabandonware.com/game/zeebo-extreme-boia-cross-t43)
-* [Zeebo Extreme Baja](https://www.myabandonware.com/game/zeebo-extreme-baja-t42)
+* [Virtua Golf](https://www.myabandonware.com/game/virtua-golf-t4w)
+* [Vampire Night](https://www.myabandonware.com/game/vampire-night-t4v)
+* [Under Defeat](https://www.myabandonware.com/game/under-defeat-t4u)
+* [Trouble Witches AC](https://www.myabandonware.com/game/trouble-witches-ac-t4t)
+* [Triggerheart Exelica](https://www.myabandonware.com/game/triggerheart-exelica-t4s)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
