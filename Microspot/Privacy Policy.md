@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/3952.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/8200.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -76,6 +76,10 @@ Visitez l'une de nos quelques environ
 
 Jusqu'à 15%de rabais sur une sélection de iPad](https://www.microspot.ch/fr/cms/id-weekend-deal)
 
+[![Lenovo](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0713-CM2-Promos-KW43.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0MDk4N3xpbWFnZS9qcGVnfGFHUmhMMmczWVM4NE5qQjRORGcwWDBreU5GOHdOekV6WDBOTk1sOVFjbTl0YjNOZlMxYzBNeTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2T0RZd2VEUTRORjlKTWpSZk1EY3hNMTlEVFRKZlVISnZiVzl6WDB0WE5ETXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8MDc0ZTVmODQ1ZGIxZDAzMTIyNGEwODJhYjNlMTA3NWIyNmVjZWVkOWY1YzEyNWRmYzljNDkwOTNmMmFhMjgwMQ&w=2360&q=75)
+
+20%de rabais sur produits LENOVO](https://www.microspot.ch/fr/brand/lenovo)
+
 [![Rabais sur SAMSUNG Galaxy S23](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0714-CM1-Promos-KW43-453.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0OTE4OHxpbWFnZS9qcGVnfGFEZGtMMmcxTkM4NE5qQjRORGcwWDBreU5GOHdOekUwWDBOTk1WOVFjbTl0YjNOZlMxYzBNMTgwTlRNdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6ZzJNSGcwT0RSZlNUSTBYekEzTVRSZlEwMHhYMUJ5YjIxdmMxOUxWelF6WHpRMU15NXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXw1MTY0MTIyZDY4NTAzZjQ0NTBkMzgwMTAyMzhmNmY3MDlhM2Y5Mzg0NGM5NDAzODMxM2RjY2VlYjk1MjI4YTFh&w=2360&q=75)
 
 499.–au lieu de 649.–SAMSUNG Galaxy S23 256 GB](https://www.microspot.ch/fr/product/samsung-galaxy-s23-5g-256-gb-6-1-50-mp-phantom-black-0013685787)
@@ -88,9 +92,9 @@ ACTION549.95 SAMSUNG QE55Q60DAUXXN Smart TV 55"](https://www.microspot.ch/fr/pro
 
 379.95au lieu de 549.95DREAME Z30](https://www.microspot.ch/fr/product/dreame-z30-0014189219)
 
-[![Lenovo](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0713-CM2-Promos-KW43.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0MDk4N3xpbWFnZS9qcGVnfGFHUmhMMmczWVM4NE5qQjRORGcwWDBreU5GOHdOekV6WDBOTk1sOVFjbTl0YjNOZlMxYzBNeTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2T0RZd2VEUTRORjlKTWpSZk1EY3hNMTlEVFRKZlVISnZiVzl6WDB0WE5ETXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8MDc0ZTVmODQ1ZGIxZDAzMTIyNGEwODJhYjNlMTA3NWIyNmVjZWVkOWY1YzEyNWRmYzljNDkwOTNmMmFhMjgwMQ&w=2360&q=75)
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0714-CM1-Promos-KW43-4511.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0NjI1NHxpbWFnZS9qcGVnfGFEWTNMMmd5TkM4NE5qQjRORGcwWDBreU5GOHdOekUwWDBOTk1WOVFjbTl0YjNOZlMxYzBNMTgwTlRFeExtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpDODROakI0TkRnMFgwa3lORjh3TnpFMFgwTk5NVjlRY205dGIzTmZTMWMwTTE4ME5URXhMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQXw3YzAxZGU3Y2FjMTYzMzgzZDJhOGZhNzE5YTIxZjQwMmI4ZDVjNjRjNGE5YjgxOTJiNzZmMWYzODgwNGFkYjky&w=2360&q=75)
 
-20%de rabais sur produits LENOVO](https://www.microspot.ch/fr/brand/lenovo)
+12% de rabais sur les produits de SONY](https://www.microspot.ch/fr/cms/actions-sony)
 
 Autres actions ici
 
@@ -211,17 +215,17 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Retrait gratuit
+[Frais de port gratuits pour livraison
 
-dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
-
-[Garantie Plus
-
-prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
+à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
+[Garantie Plus
+
+prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
 
 interdiscount.ch
 
