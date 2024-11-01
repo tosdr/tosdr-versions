@@ -3,7 +3,7 @@ Welcome to Gaia! :: Terms of Service – Effective Date December 16, 2013
 
 [Gaia Home](https://www.gaiaonline.com/ "Return to the Gaia Homepage")
 
-  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/4b36efc4da3f.gif)](https://www.gaiaonline.com/forum/t.113992572 "Avatar Chat") [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/c3a3021901c2.png)](https://www.gaiaonline.com/gaiaevent/engine/gotcha/31doh "31 Days of Halloween") [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/08e504bdab0b.gif)](https://www.gaiaonline.com/gaiaevent/halloweenspirits/ "Halloween Spirits")
+  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/4b36efc4da3f.gif)](https://www.gaiaonline.com/forum/t.113992572 "Avatar Chat") [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/08e504bdab0b.gif)](https://www.gaiaonline.com/gaiaevent/halloweenspirits/ "Halloween Spirits")
 
 [Login](https://www.gaiaonline.com/auth/?_gaia_t_=4952 "Login to Gaia") [Register](https://www.gaiaonline.com/register/?v=c&_gaia_t_=4950 "Create a free account now")
 
@@ -13,7 +13,7 @@ Log In
 
 [Forgot your login?](https://www.gaiaonline.com/account/sendpass/ "Forgot your username/password?")
 
-52da343a611b2c4a84b28965b8b6884452da343a611b2c4a84b28965b8b6884407d36f65a60459a39a94cabd43935a0d
+051aa1bd8dd845fa0d249640b2e6b2e4eddc4b291d971fd7433a1d41ef299de7
 
 * [My Gaia](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fmygaia%2F)
 
@@ -531,4 +531,4 @@ Play with Platinum
 
 [More](https://www.gaiaonline.com/luckycatch/)
 
-![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1730447702)
+![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1730469567)
