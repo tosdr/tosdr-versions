@@ -7,17 +7,17 @@
     * [Gadgets](https://www.ihyperg.com/search/label/Gadgets%20News)
     * [Artificial intelligence](https://www.ihyperg.com/search/label/AI%20News)
     * [Gaming](https://www.ihyperg.com/search/label/Games%20News)
-* [ ]  Photo Editor Pages
+* [ ]  Pages
     * [Filters & Overlays Guide](https://www.ihyperg.com/p/how-to-use-filters-and-overlays-for.html)
     * [Adjust & HSL Guide](https://www.ihyperg.com/p/how-to-use-adjust-and-hsl-tools-for-pro.html)
     * [Body Editor Guide](https://www.ihyperg.com/p/body-editor-perfect-your-photos-with.html)
     * [Frame Editor Guide](https://www.ihyperg.com/p/frame-editor-add-creative-borders-to.html)
     * [BG Remove & BG Change Guide](https://www.ihyperg.com/p/effortlessly-edit-backgrounds-with.html)
-* [ ]  Launcher Pages
-    * [Bridge Milky Launcher](https://www.ihyperg.com/p/how-to-use-launcher-bridge-milky.html)
-    * [Bridge Star Launcher](https://www.ihyperg.com/p/how-to-use-launcher-bridge-star-launcher.html)
-    * [Milky Launcher FAQ](https://www.ihyperg.com/p/milky-launcher-frequently-asked.html)
-    * [Star Launcher FAQ](https://www.ihyperg.com/p/star-launcher-frequently-asked-question.html)
+* [ ]  FAQ
+    * [Bridge Milky](https://www.ihyperg.com/p/how-to-use-launcher-bridge-milky.html)
+    * [Bridge Star](https://www.ihyperg.com/p/how-to-use-launcher-bridge-star-launcher.html)
+    * [Milky FAQ](https://www.ihyperg.com/p/milky-launcher-frequently-asked.html)
+    * [Star FAQ](https://www.ihyperg.com/p/star-launcher-frequently-asked-question.html)
 * [ ]  About Apps
     * [Pichype Photo Editor Pro](https://www.ihyperg.com/p/pichype-photo-editor.html)
     * [VROF Photo Editor Lite](https://www.ihyperg.com/p/monhype-photo-motion.html)
