@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [IPL Retentions](https://www.news18.com/cricket/ipl-2025-retention-full-list-players-retained-mega-auction-csk-mi-rcb-kkr-srh-pbks-dc-rr-gt-lsg-9105511.html)
-    * [Mumbai Indians](https://www.news18.com/cricket/ipl-retention-2025-mumbai-indians-top-players-name-released-mega-auction-purse-9105252.html)
-    * [MS Dhoni](https://www.news18.com/cricket/ipl-retention-2024-chennai-super-kings-top-players-name-released-mega-auction-purse-9105456.html)
-    * [Lakshmi Puja](https://www.news18.com/lifestyle/lakshmi-puja-2024-step-by-step-guide-to-perform-diwali-rituals-for-prosperity-9103926.html)
-    * [Diwali Box-Office Clash](https://www.news18.com/movies/diwali-clash-will-ajay-devgns-singham-again-crush-kartik-aaryans-bhool-bhulaiyaa-3-at-box-office-9104736.html)
+    * [Singham Again Review](https://www.news18.com/movies/singham-again-review-rohit-shetty-deserves-brownie-points-for-ambition-ajay-devgn-leaves-you-wanting-for-more-9106060.html)
+    * [Bhool Bhulaiyaa 3 Review](https://www.news18.com/movies/bhool-bhulaiyaa-3-review-kartik-aaryan-vidya-balan-and-madhuri-dixits-star-power-cant-save-this-lackluster-film-9106040.html)
+    * [India vs NZ](https://www.news18.com/cricket/ind-vs-nz-live-score-3rd-test-day-1-india-national-cricket-team-vs-new-zealand-national-cricket-team-commentary-streaming-scorecard-mumbai-wankhede-liveblog-9105863.html)
+    * [Diwali Box-Office Clash](https://www.news18.com/movies/singham-again-bhool-bhulaiyaa-3-review-release-live-updates-ajay-devgn-kartik-aaryan-box-office-liveblog-9105904.html)
     * [US Elections](https://www.news18.com/elections/us-election/)
+    * [Fuel Prices](https://www.news18.com/business/petrol-diesel-fresh-prices-announced-check-rates-in-your-city-on-october-31-9105027.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -169,12 +169,12 @@ Follow us on
 
 In Trends:
 
-* [IPL Retentions](https://www.news18.com/cricket/ipl-2025-retention-full-list-players-retained-mega-auction-csk-mi-rcb-kkr-srh-pbks-dc-rr-gt-lsg-9105511.html)
-* [Mumbai Indians](https://www.news18.com/cricket/ipl-retention-2025-mumbai-indians-top-players-name-released-mega-auction-purse-9105252.html)
-* [MS Dhoni](https://www.news18.com/cricket/ipl-retention-2024-chennai-super-kings-top-players-name-released-mega-auction-purse-9105456.html)
-* [Lakshmi Puja](https://www.news18.com/lifestyle/lakshmi-puja-2024-step-by-step-guide-to-perform-diwali-rituals-for-prosperity-9103926.html)
-* [Diwali Box-Office Clash](https://www.news18.com/movies/diwali-clash-will-ajay-devgns-singham-again-crush-kartik-aaryans-bhool-bhulaiyaa-3-at-box-office-9104736.html)
+* [Singham Again Review](https://www.news18.com/movies/singham-again-review-rohit-shetty-deserves-brownie-points-for-ambition-ajay-devgn-leaves-you-wanting-for-more-9106060.html)
+* [Bhool Bhulaiyaa 3 Review](https://www.news18.com/movies/bhool-bhulaiyaa-3-review-kartik-aaryan-vidya-balan-and-madhuri-dixits-star-power-cant-save-this-lackluster-film-9106040.html)
+* [India vs NZ](https://www.news18.com/cricket/ind-vs-nz-live-score-3rd-test-day-1-india-national-cricket-team-vs-new-zealand-national-cricket-team-commentary-streaming-scorecard-mumbai-wankhede-liveblog-9105863.html)
+* [Diwali Box-Office Clash](https://www.news18.com/movies/singham-again-bhool-bhulaiyaa-3-review-release-live-updates-ajay-devgn-kartik-aaryan-box-office-liveblog-9105904.html)
 * [US Elections](https://www.news18.com/elections/us-election/)
+* [Fuel Prices](https://www.news18.com/business/petrol-diesel-fresh-prices-announced-check-rates-in-your-city-on-october-31-9105027.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
