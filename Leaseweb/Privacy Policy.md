@@ -648,9 +648,9 @@ The Service Level Agreement set forth the performance metrics such as service le
 
 ### Leaseweb Canada Inc. – Canada
 
-[Sales Terms and Conditions EN](https://nl.object-storage.io/legal-files/nov-2024/LSW_CA_B2B_ENG_Sales_Contract_Schedule_1November2024_Sales_Terms_and_Conditions.pdf) / [Sales Terms and Conditions FR](https://nl.object-storage.io/legal-files/oct-2024/LSWCA_B2B_FR_Sales_Contract_Schedule_1Octobre2024_Conditions_de_Vente.pdf)  
-[Policies EN](https://nl.object-storage.io/legal-files/nov-2024/LSWCA_B2B_ENG_Sales_Contract_Schedule_v1November2024_Policies.pdf) / [Policies FR](https://nl.object-storage.io/legal-files/oct-2024/LSWCA_B2B_Sales_Contract_Schedule_v1Octobre2024_Politiques_FR.pdf)  
-[Services Specifications EN](https://nl.object-storage.io/legal-files/nov-2024/LSW_CA_B2B_Sales_Contract_Schedule_v1November2024_Services%20Specifications.pdf) / [Services Specifications FR](https://nl.object-storage.io/legal-files/oct-2024/LSW_CA_B2B_FR_Sales_Contract_Schedule_1Octobre2024_Sp%C3%A9cifications_de_Services.pdf)  
+[Sales Terms and Conditions EN](https://nl.object-storage.io/legal-files/nov-2024/LSW_CA_B2B_ENG_Sales_Contract_Schedule_1November2024_Sales_Terms_and_Conditions.pdf) / [Sales Terms and Conditions FR](https://nl.object-storage.io/legal-files/nov-2024/LSWCA_B2B_FR_Sales_Contract_Schedule_1Novembre2024_Conditions_de_Vente.pdf)  
+[Policies EN](https://nl.object-storage.io/legal-files/nov-2024/LSWCA_B2B_ENG_Sales_Contract_Schedule_v1November2024_Policies.pdf) / [Policies FR](https://nl.object-storage.io/legal-files/nov-2024/LSWCA_B2B_FR_Sales_Contract_Schedule_v1Novembre2024_Politiques.pdf)  
+[Services Specifications EN](https://nl.object-storage.io/legal-files/nov-2024/LSW_CA_B2B_Sales_Contract_Schedule_v1November2024_Services%20Specifications.pdf) / [Services Specifications FR](https://nl.object-storage.io/legal-files/nov-2024/LSW_CA_B2B_FR_Sales_Contract_Schedule_1Novembre2024_Sp%C3%A9cifications_de_Services.pdf)  
 [Service Level Agreement EN](https://nl.object-storage.io/legal-files/july-2024/LSW_CA_B2B_Sales_Contract_Schedule_v1July2024_Service_Level_Agreement.pdf) / [Service Level Agreement FR](https://nl.object-storage.io/legal-files/july-2024/LSW_CA_B2B_Sales_Contract_Schedule_1Juillet2024_Entente_sur_les_niveaux_de_service_FR.pdf)  
 [Reseller Terms and Conditions](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/Reseller-Terms/LSW_CA_B2B_1March_2024_Reseller_Terms_and_Conditions.pdf)
 
@@ -767,17 +767,6 @@ Such amendments consist of the followings: 
 * As per 1 December 2023, Leaseweb Asia Pacific Pte. Ltd. formally changed its name to Leaseweb Singapore Pte. Ltd. Since this is only a formal company name change, _**Leaseweb Singapore Pte. Ltd.**_ will continue to be the existing supplier of the Services hosted in Singapore and the entity details (such as the address, tax registration number, ACRA BIZZ number and bank details) will remain the same. 
 
 These Leaseweb B2B Sales Contract Schedules, consisting of Sales Terms and Conditions, Services Specifications, Support and Service Levels and Policies will be fully and automatically applicable as per 15 December 2023 to all Sales Contracts and Service Orders taken into account the required notice period of fourteen (14) days. Please see  [https://www.leaseweb.com/en/about-us/legal/sales-contract](https://www.leaseweb.com/en/about-us/legal/sales-contract)  for more information. 
-
-**1 November 2023**
-
-Per this Legal Announcement as herewith duly provided at the website of Leaseweb ([https://www.leaseweb.com/en/about-us/legal/sales-contract](https://www.leaseweb.com/en/about-us/legal/sales-contract))  and per short legal announcement in the Customer Portal to all Customers, the following B2B Sales Contract Schedules of all Leaseweb Sales Entities have been amended per versions of 1 November 2023 as notified below. 
-
-Such amendments - including minor edits for your ease of reading and to optimize clarity and transparency – consist of the following clauses for the Customers benefit: 
-
-* Enhancements have been added to “Delivery Date” and “Estimated Delivery Time” (Defined terms of the Sales Terms and Conditions); and
-* The Sales Contract Modification Procedure has been updated to provide more flexibility for Services’ renewals (Clause 5.1-5.3 of the Sales Terms and Conditions). 
-
-These Leaseweb B2B Sales Contract Schedules, consisting of Sales Terms and Conditions, Services Specifications, Support and Service Levels and Policies will be fully and automatically applicable as per November 15, 2023 to all Sales Contracts and Service Orders taken into account the required notice period of fourteen (14) days. Please see [https://www.leaseweb.com/en/about-us/legal/sales-contract](https://www.leaseweb.com/en/about-us/legal/sales-contract) for more information. 
 
 Get started today!
 ------------------
