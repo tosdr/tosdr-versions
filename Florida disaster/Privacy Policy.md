@@ -224,9 +224,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Thursday, October 31, 2024**
+**Friday, November 1, 2024**
 
-**...Frontal Boundary To the West To Weaken High Pressure Over the State; However, Mostly Dry Conditions Will Persist Across the State...Breezy Onshore Winds to Bring Isolated Showers Along the East Coast and Keys...Isolated Shower and Thunderstorm or Two Possible In the Western Panhandle Ahead of The Frontal Boundary...Abnormally Dry to Moderate Drought Conditions Return Along the Florida Panhandle; Locally Sensitive Wildfire Conditions Possible Today...Breezy Easterly to Southeasterly Winds With Gusts Upwards of 15-25 MPH Along Peninsula and Keys...High Risk for Rip Currents Along Florida Panhandle and East Coast...Red Tide Observed At Background to High Concentrations Along Florida's Gulf Coast...Minor Coastal Flooding Along Portions of The St. Johns River Basin Near and At Times of High Tide...Moderate to Major Coastal Flooding Continues Along the Withlacoochee River With Minor to Moderate Flooding Along the St. Johns River...NHC Continues to Monitor A Potential Disturbance Over the Southwestern Caribbean Sea (50%)...**
+**...Frontal Boundary Stalled To the West To Weaken High Pressure Over the State; However, Mostly Dry Conditions Will Persist...Sufficient Moisture and Breezy Onshore Winds to Bring Isolated Showers Along the East Coast and Keys, Moving Inland Through the Peninsula Throughout the Day...Isolated Shower and Thunderstorm or Two Possible In the Western Panhandle Ahead of The Stalled Frontal Boundary...Locally Sensitive Wildfire Conditions Persist Along the Florida Panhandle...Breezy Easterly Winds With Gusts Upwards of 15-25 MPH Along Peninsula and Keys...High Risk for Rip Currents Along Florida Panhandle and East Coast...Minor to Moderate Riverine Flooding Is Ongoing For Portions Of The Withlacoochee River and the St. Johns River; Withlacoochee River Near Holder May Just Reach Major Flood Stage As It Crests Later Today...NHC Continues to Monitor Several Disturbance In the Atlantic Basin; A Disturbance In the Southwestern Caribbean Sea Has a High (70%) Chance of Development Over 7 Days...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
