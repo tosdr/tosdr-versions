@@ -5,6 +5,10 @@
 [![](https://harver.com/wp-content/uploads/2021/11/harver-logo-h-2c-black.svg)](https://harver.com/)
 
 * [Why Harver](https://harver.com/why-harver/)
+    * [Predictive Assessments & Matching](https://harver.com/why-harver/predictive-assessment-matching/)
+    * [Candidate Experience](https://harver.com/why-harver/candidate-experience/)
+    * [Automation](https://harver.com/why-harver/automation/)
+    * [Business Insights](https://harver.com/why-harver/business-insights/)
 * [Solutions](https://harver.com/software/)
     * [Assessments](https://harver.com/software/assessments/)
         * [Traditional Behavioral](https://harver.com/behavioral-assessments/)
@@ -469,6 +473,11 @@ The General Data Protection Regulation (GDPR) is a new comprehensive data protec
 
 [Why Harver](https://harver.com/why-harver/)
 
+* [Predictive Assessment & Matching](https://www.pymetrics.ai/why-harver/predictive-assessment-matching/)
+* [Candidate Experience](https://www.pymetrics.ai/why-harver/candidate-experience/)
+* [Automation](https://www.pymetrics.ai/why-harver/automation/)
+* [Business Insights](https://www.pymetrics.ai/why-harver/business-insights/)
+
 [Solutions](https://harver.com/software/)
 
 * [Assess](https://www.pymetrics.ai/software/assessments/)
@@ -550,6 +559,10 @@ Company
 [![](https://harver.com/wp-content/uploads/2021/11/harver-logo-h-2c-black.svg)](https://harver.com/)
 
 * [Why Harver](https://harver.com/why-harver/)
+    * [Predictive Assessment & Matching](https://harver.com/why-harver/predictive-assessment-matching/)
+    * [Candidate Experience](https://harver.com/why-harver/candidate-experience/)
+    * [Automation](https://harver.com/why-harver/automation/)
+    * [Business Insights](https://harver.com/why-harver/business-insights/)
 * [Solutions](#)
     * [Overview](https://harver.com/software/)
     * [Assessments](https://harver.com/software/assessments/)
