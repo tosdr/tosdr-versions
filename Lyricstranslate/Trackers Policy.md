@@ -137,63 +137,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
+[![florazina](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1420537-1713978583.jpg)](https://lyricstranslate.com/en/translator/florazina "florazina")
+
+New song
+
+[Zetra - Satellite](https://lyricstranslate.com/en/zetra-satellite-lyrics)
+
+English
+
 [![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
 
+New translation
+
+[Caterina Valente - Personalità](https://lyricstranslate.com/en/caterina-valente-personalita-english)
+
+Italian → English
+
+[![MickG](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1435159-1570457783.jpg)](https://lyricstranslate.com/en/translator/mickg "MickG")
+
+New request
+
+[Koji Tamaki - 終わらない夏 (Owaranai natsu)](https://lyricstranslate.com/en/request/%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E5%A4%8F)
+
+Japanese → English
+
+[![MickG](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1435159-1570457783.jpg)](https://lyricstranslate.com/en/translator/mickg "MickG")
+
 New song
 
-[Narciso Parigi - Una musica per te](https://lyricstranslate.com/en/narciso-parigi-una-musica-te-lyrics)
+[Koji Tamaki - 終わらない夏](https://lyricstranslate.com/en/koji-tamaki-owaranai-natsu-lyrics)
 
-Italian
+Japanese
 
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New comment
-
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1172981#comment-1172981)
-
-[![emmac03](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1566536-1679349402.jpg)](https://lyricstranslate.com/en/translator/emmac03 "emmac03")
+[![Ferris.tho](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1412962-1721167552.jpg)](https://lyricstranslate.com/en/translator/ferristho "Ferris.tho")
 
 New translation
 
-[Carolina Durante - Verdes, Césped](https://lyricstranslate.com/en/carolina-durante-verdes-cesped-english)
+[Bar Tzabary - ג'וני (Johnny)](https://lyricstranslate.com/en/bar-tzabary-johnny-arabic)
 
-Spanish → English
+Hebrew → Arabic
 
-[![Paralia](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1542717-1715186189.jpg)](https://lyricstranslate.com/en/translator/paralia "Paralia")
-
-New comment
-
-I should have heard the song!!!! It even names ...  [more](https://lyricstranslate.com/en/comment/1172980#comment-1172980)
-
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New comment
-
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1172979#comment-1172979)
-
-[![saspitite](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1633967-1729776092.png)](https://lyricstranslate.com/en/translator/saspitite "saspitite")
+[![julietarab](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1050123-1706250255.jpg)](https://lyricstranslate.com/en/translator/julietarab "julietarab")
 
 New song
 
-[Hevisaurus - Justus Kummitus](https://lyricstranslate.com/en/hevisaurus-justus-kummitus-lyrics)
+[The Clancy Brothers and Tommy Makem - Courtin’ in the Kitchen (Hearty and Hellish Version)](https://lyricstranslate.com/en/clancy-brothers-and-t-courtin-kitchen-lyrics)
 
-Finnish
+English
 
-[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
+[![novo_balanco](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1611343-1730054811.jpg)](https://lyricstranslate.com/en/translator/novobalanco "novo_balanco")
 
-New song
+New request
 
-[F.Charm - Oameni buni](https://lyricstranslate.com/en/fcharm-oameni-buni-lyrics)
+[Marie Laforêt - L'Air Que Tu Jouais Pour Moi](https://lyricstranslate.com/en/request/lair-que-tu-jouais-pour-moi)
 
-Romanian
+French → English
 
-[![laigledemeaux](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1635065-1730205583.jpg)](https://lyricstranslate.com/en/translator/laigledemeaux "laigledemeaux")
+[![Don Juan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110108-1727386627.png)](https://lyricstranslate.com/en/translator/don-juan "Don Juan")
 
 New translation
 
-[Les Misérables (Musical) - Eponine's Errand](https://lyricstranslate.com/en/les-miserables-musi-eponines-errand-turkish)
+[Mina - Buttalo Via](https://lyricstranslate.com/en/mina-buttalo-english)
 
-English → Turkish
+Italian → English
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
