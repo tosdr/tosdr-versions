@@ -322,6 +322,7 @@ Company
 * [Trust Center](https://www.sailpoint.com/why-us/trust)
 * [Leadership Team](https://www.sailpoint.com/why-us/leadership)
 * [Become a Partner](https://www.sailpoint.com/partners/become-partner)
+* [Environmental, Social, and Governance](https://docs.sailpoint.com/wp-content/uploads/SailPoint-ESGReport-20241029.pdf)
 
 Quick Links
 
