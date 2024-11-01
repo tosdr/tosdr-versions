@@ -1,4 +1,6 @@
-[](https://www.fakku.net/ "Fakku!")
+Mobile Menu
+
+[FAKKU Logo](https://www.fakku.net/ "Fakku!")
 
 [New Releases](https://www.fakku.net/hentai "Newly Released Hentai Manga")
 
@@ -291,7 +293,7 @@ In accordance with the DMCA and other applicable laws, we have adopted a policy 
 
 [Contact](https://www.fakku.net/contact) [Support](https://www.fakku.net/support) [Jobs](https://www.fakku.net/jobs) [Terms](https://www.fakku.net/terms) [Privacy](https://www.fakku.net/privacy) [Merch](https://merch.fakku.net/)
 
-Close sidebar [Notifications](https://www.fakku.net/notifications) [Shopping Cart](https://www.fakku.net/cart) Dark mode
+[](https://www.fakku.net/notifications)[](https://www.fakku.net/cart)
 
 [Create Account](https://www.fakku.net/users/create) [Login](https://www.fakku.net/login)
 
