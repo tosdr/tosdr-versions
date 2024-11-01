@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/crisis-winst-of-verlies/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/big-pharma/farma-industrie-blokkeert-goedkopere-remedies/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
