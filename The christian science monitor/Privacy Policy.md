@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Justice
+
+### An unwanted kiss shook Spanish soccer – and society. A new documentary explores why.](https://www.csmonitor.com/World/Europe/2024/1101/spain-women-soccer-football-netflix-seacabo-jenni-hermoso "An unwanted kiss shook Spanish soccer – and society. A new documentary explores why.")
+
+[Gratitude
+
+### The delights of US democracy](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1101/The-delights-of-US-democracy "The delights of US democracy")
+
 [Resilience
 
 ### ‘A bridge to humanity’: Behind a Monitor series on an underreported story](https://www.csmonitor.com/Podcasts/Why-We-Wrote-This/wwwt_2438 "‘A bridge to humanity’: Behind a Monitor series on an underreported story")
-
-[Honesty
-
-### The light in Cuba](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1031/The-light-in-Cuba "The light in Cuba")
-
-[Prosperity
-
-### Intel is coming. Ohio community colleges say the state’s workers will be ready.](https://www.csmonitor.com/USA/Education/2024/1031/intel-ohio-community-college-career-and-technical-education "Intel is coming. Ohio community colleges say the state’s workers will be ready.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 31, 2024
+November 01, 2024
 
-Integrity at the polls
+The fabulous world of journalistic nuance
 
-The front-line facilitators of democracy, poll workers are trained problem-solvers. They’re strict followers of procedure, staying quiet about their own politics and keeping the line moving. More than ever, their work calls for maintaining a sense of integrity that can shore up respect and help soothe any voter who seeks to do more than humbly engage in the electoral process. (Some poll workers receive deescalation training.)Today, Sophie Hills and Caitlin Babcock help us understand a critical, sometimes underappreciated election-time role in the United States. Also: Don’t miss our online guide to the U.S. presidential candidates’ policy stances. It’s highly shareable.
+As people in the newsroom will tell you, I am a nuance fanatic. Put simply, if something isn’t nuanced, I generally don’t believe it. The desire for simplicity leads to the temptation to simplify. The results: polarization and bad policy.So I love Whitney Eulich’s story today, for the same reasons I loved Francine Kiefer’s last week. We all must have the freedom to make up our own minds about a difficult issue like immigration. But essential to that is actually understanding the complex portrait of what is happening.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Ukraine’s AI drones are now actively deployed in combat. And they hit targets.](https://www.csmonitor.com/World/Europe/2024/1101/drone-Ukraine-Russia-war-AI-combat "Ukraine’s AI drones are now actively deployed in combat. And they hit targets.")
+[### An unwanted kiss shook Spanish soccer – and society. A new documentary explores why.](https://www.csmonitor.com/World/Europe/2024/1101/spain-women-soccer-football-netflix-seacabo-jenni-hermoso "An unwanted kiss shook Spanish soccer – and society. A new documentary explores why.")
 
-[### Abortion on the ballot: What’s happening in 10 key states](https://www.csmonitor.com/USA/Justice/2024/1101/abortion-states-ballot-constitutional-amendments "Abortion on the ballot: What’s happening in 10 key states")
+[### Immigration is not just a US challenge. But on eve of election, it feels that way.](https://www.csmonitor.com/World/Americas/2024/1101/election-border-migrants-Mexico-Trump-Harris "Immigration is not just a US challenge. But on eve of election, it feels that way.")
 
-[### Who’s the real loser in the 2024 election? Mainstream media.](https://www.csmonitor.com/USA/Society/2024/1101/mainstream-media-joe-rogan-podcasters "Who’s the real loser in the 2024 election? Mainstream media.")
+[### Spain’s recent floods are the worst in living memory. What caused them?](https://www.csmonitor.com/World/Europe/2024/1101/Spain-flash-floods-drought-climate-change "Spain’s recent floods are the worst in living memory. What caused them?")
 
 * * *
 
