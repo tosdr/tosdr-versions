@@ -6,7 +6,7 @@
 
 Welcome! | [Log In](https://hj2.huntandjump.com/)
 
-FOREST SERVER | **Year: 136 Era: 15**  
+FOREST SERVER | **Year: 137 Era: 15**  
 
 * ![](/images/coloricons/icon_nav_home_color.png)My Stable
     
@@ -143,6 +143,22 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+11/1/2024 9:30 AM EST
+
+[SWITCH UP! It's the 1st and Random Gene Sale switch has activated. Until the 15th of the month you can now pick up:](https://hj2.huntandjump.com/upgrade.php#tabs-5)  
+**White 3**  
+![](https://www.huntandjump.com/images/grsExamples/w3.png)  
+**White 8**  
+![](https://www.huntandjump.com/images/grsExamples/w8.png)  
+**Axiom Red**  
+![](https://www.huntandjump.com/images/grsExamples/axR.png)  
+**Tiger Eye 2**  
+![](https://www.huntandjump.com/images/grsExamples/te2.png)  
+**Phantom Autumn**  
+![](https://www.huntandjump.com/images/grsExamples/phatmn.png)  
+**Rainbow Riot 2 Ink Spot**  
+![](https://www.huntandjump.com/images/grsExamples/inkspot.png)
+
 10/31/2024 10:25 AM EST
 
 ### Check your inboxes it's newsletter day!
@@ -162,11 +178,6 @@ Our gift exchange is one of the most fun times of the year, but you must have pa
 10/21/2024 5:28 AM EST
 
 ### Cloning of deceased horses can now be done using golden tokens
-
-10/18/2024 3:47 AM EST
-
-You can now purchase the exact herd helper you are looking for with golden tokens!
-----------------------------------------------------------------------------------
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
