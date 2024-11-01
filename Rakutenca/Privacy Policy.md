@@ -217,7 +217,7 @@ FR
         
         Holt Renfrew
         
-        3% Cash Back](https://www.rakuten.ca/ticket/campaign/8CategoryFeaturedStores/store/holt-renfrew?sourceName=nav-menu)
+        2% Cash Back](https://www.rakuten.ca/ticket/campaign/8CategoryFeaturedStores/store/holt-renfrew?sourceName=nav-menu)
         
     * [Hardware & Tools](https://www.rakuten.ca/stores/hardware-tools "Hardware & Tools Promo Codes and Coupons")
         
