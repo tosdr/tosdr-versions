@@ -70,13 +70,13 @@ Suggested Searches
 
 ### How NASA’s Lunar Trailblazer Could Decipher the Moon’s Icy Secrets
 
-article2 days ago](https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/how-nasas-lunar-trailblazer-could-decipher-the-moons-icy-secrets/)[![Image of Mars from Perseverance](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26378-main-sol1282p-zcam09340-09341-z63-r0e.jpg?w=1024)
+article3 days ago](https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/how-nasas-lunar-trailblazer-could-decipher-the-moons-icy-secrets/)[![Image of Mars from Perseverance](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26378-main-sol1282p-zcam09340-09341-z63-r0e.jpg?w=1024)
 
 6 min read
 
 ### NASA’s Perseverance Rover Looks Back While Climbing Slippery Slope
 
-article3 days ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-looks-back-while-climbing-slippery-slope/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+article4 days ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-looks-back-while-climbing-slippery-slope/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
@@ -247,19 +247,19 @@ Back
 
 ### How NASA’s Lunar Trailblazer Could Decipher the Moon’s Icy Secrets
 
-article 2 days ago](https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/how-nasas-lunar-trailblazer-could-decipher-the-moons-icy-secrets/)[![Image of Mars from Perseverance](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26378-main-sol1282p-zcam09340-09341-z63-r0e.jpg?w=1024)
+article 3 days ago](https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/how-nasas-lunar-trailblazer-could-decipher-the-moons-icy-secrets/)[![Image of Mars from Perseverance](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26378-main-sol1282p-zcam09340-09341-z63-r0e.jpg?w=1024)
 
 6 min read
 
 ### NASA’s Perseverance Rover Looks Back While Climbing Slippery Slope
 
-article 3 days ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-looks-back-while-climbing-slippery-slope/)[![Clean room technicians install the Roman Coronagraph.](https://www.nasa.gov/wp-content/uploads/2024/10/24-1018-rst-cgi-ic-5311-5353-cgi-integration-to-ic-select-02.jpg?w=1024)
+article 4 days ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-looks-back-while-climbing-slippery-slope/)[![Clean room technicians install the Roman Coronagraph.](https://www.nasa.gov/wp-content/uploads/2024/10/24-1018-rst-cgi-ic-5311-5353-cgi-integration-to-ic-select-02.jpg?w=1024)
 
 6 min read
 
 ### NASA Successfully Integrates Coronagraph for Roman Space Telescope
 
-article 3 days ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-successfully-integrates-coronagraph-for-roman-space-telescope/)
+article 4 days ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-successfully-integrates-coronagraph-for-roman-space-telescope/)
 
 ### Highlights
 
@@ -269,19 +269,19 @@ article 3 days ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-suc
 
 ### Research Operations and Integration
 
-article 5 hours ago](https://www.nasa.gov/hrp/research-operations-integration/sample-collection-and-portable-systems-and-blood-collection-data/)[![](https://www.nasa.gov/wp-content/uploads/2024/03/bone-cells.png?w=609)
+article 16 hours ago](https://www.nasa.gov/hrp/research-operations-integration/sample-collection-and-portable-systems-and-blood-collection-data/)[![](https://www.nasa.gov/wp-content/uploads/2024/03/bone-cells.png?w=609)
 
 5 min read
 
 ### We Are All Made of Cells: Space and the Immune System
 
-article 6 hours ago](https://www.nasa.gov/science-research/we-are-all-made-of-cells-space-and-the-immune-system/)[![Exterior view of the International Space Station with Earth visible in the background. The station’s robotic arm and multiple scientific equipment modules are attached to its surface.](https://www.nasa.gov/wp-content/uploads/2024/10/iss061e143436.jpg?w=1024)
+article 17 hours ago](https://www.nasa.gov/science-research/we-are-all-made-of-cells-space-and-the-immune-system/)[![Exterior view of the International Space Station with Earth visible in the background. The station’s robotic arm and multiple scientific equipment modules are attached to its surface.](https://www.nasa.gov/wp-content/uploads/2024/10/iss061e143436.jpg?w=1024)
 
 2 min read
 
 ### Station Science Top News: Oct. 25, 2024
 
-article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-25-2024/)
+article 3 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-25-2024/)
 
 ### Highlights
 
@@ -291,13 +291,13 @@ article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-
 
 ### International SWOT Satellite Spots Planet-Rumbling Greenland Tsunami
 
-article 5 hours ago](https://www.nasa.gov/missions/swot/international-swot-satellite-spots-planet-rumbling-greenland-tsunami/)[![Map shows orange and red colors spanning most of Antarctica and part of the Southern Ocean, indicating areas of low ozone concentrations.](https://www.nasa.gov/wp-content/uploads/2024/10/ozone-geos5-20240928-hires.jpg?w=996)
+article 15 hours ago](https://www.nasa.gov/missions/swot/international-swot-satellite-spots-planet-rumbling-greenland-tsunami/)[![Map shows orange and red colors spanning most of Antarctica and part of the Southern Ocean, indicating areas of low ozone concentrations.](https://www.nasa.gov/wp-content/uploads/2024/10/ozone-geos5-20240928-hires.jpg?w=996)
 
 5 min read
 
 ### NASA, NOAA Rank 2024 Ozone Hole as 7th-Smallest Since Recovery Began
 
-article 1 day ago](https://www.nasa.gov/earth/climate-change/ozone-layer/nasa-noaa-rank-2024-ozone-hole-as-7th-smallest-since-recovery-began/)[![INjected Smoke and PYRocumulonimbus Experiment Expressions of Interest for No-Cost Participation / Contributions and Clarification of A.61 INSPYRE ST.](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/internal_resources/2434/california-wildfires-1.jpg)
+article 2 days ago](https://www.nasa.gov/earth/climate-change/ozone-layer/nasa-noaa-rank-2024-ozone-hole-as-7th-smallest-since-recovery-began/)[![INjected Smoke and PYRocumulonimbus Experiment Expressions of Interest for No-Cost Participation / Contributions and Clarification of A.61 INSPYRE ST.](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/internal_resources/2434/california-wildfires-1.jpg)
 
 2 min read
 
@@ -313,19 +313,19 @@ article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-blo
 
 ### NASA’s Perseverance Captures ‘Googly Eye’ During Solar Eclipse
 
-article 1 day ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-captures-googly-eye-during-solar-eclipse/)[![NASA to Launch Innovative Solar Coronagraph to Space Station](https://science.nasa.gov/wp-content/uploads/2024/10/codex-14.jpeg)
+article 2 days ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-captures-googly-eye-during-solar-eclipse/)[![NASA to Launch Innovative Solar Coronagraph to Space Station](https://science.nasa.gov/wp-content/uploads/2024/10/codex-14.jpeg)
 
 5 min read
 
 ### NASA to Launch Innovative Solar Coronagraph to Space Station
 
-article 1 day ago](https://science.nasa.gov/science-research/heliophysics/nasa-to-launch-innovative-solar-coronagraph-to-space-station/)[![NASA’s Lunar Trailblazer sits in a clean room at Lockheed Martin Space](https://www.nasa.gov/wp-content/uploads/2024/10/1-lunar-trailblazer-solar-deploy-test-4-8-24-md001.jpg?w=1024)
+article 2 days ago](https://science.nasa.gov/science-research/heliophysics/nasa-to-launch-innovative-solar-coronagraph-to-space-station/)[![NASA’s Lunar Trailblazer sits in a clean room at Lockheed Martin Space](https://www.nasa.gov/wp-content/uploads/2024/10/1-lunar-trailblazer-solar-deploy-test-4-8-24-md001.jpg?w=1024)
 
 6 min read
 
 ### How NASA’s Lunar Trailblazer Could Decipher the Moon’s Icy Secrets
 
-article 2 days ago](https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/how-nasas-lunar-trailblazer-could-decipher-the-moons-icy-secrets/)
+article 3 days ago](https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/how-nasas-lunar-trailblazer-could-decipher-the-moons-icy-secrets/)
 
 ### Featured
 
@@ -335,19 +335,19 @@ article 2 days ago](https://www.nasa.gov/missions/small-satellite-missions/lunar
 
 ### Why NASA’s SPHEREx Mission Will Make ‘Most Colorful’ Cosmic Map Ever
 
-article 12 hours ago](https://www.nasa.gov/missions/spherex/why-nasas-spherex-mission-will-make-most-colorful-cosmic-map-ever/)[![‘Blood-Soaked’ Eyes: NASA’s Webb, Hubble Examine Galaxy Pair](https://science.nasa.gov/wp-content/uploads/2024/10/webb-stsci-01j9rrkbba1ddr83vfrx24gs08-2k.jpg)
+article 22 hours ago](https://www.nasa.gov/missions/spherex/why-nasas-spherex-mission-will-make-most-colorful-cosmic-map-ever/)[![‘Blood-Soaked’ Eyes: NASA’s Webb, Hubble Examine Galaxy Pair](https://science.nasa.gov/wp-content/uploads/2024/10/webb-stsci-01j9rrkbba1ddr83vfrx24gs08-2k.jpg)
 
 5 min read
 
 ### ‘Blood-Soaked’ Eyes: NASA’s Webb, Hubble Examine Galaxy Pair
 
-article 13 hours ago](https://science.nasa.gov/missions/webb/blood-soaked-eyes-nasas-webb-hubble-examine-galaxy-pair/)[![Buckle Up: NASA-Funded Study Explores Turbulence in Molecular Clouds](https://science.nasa.gov/wp-content/uploads/2024/10/turbulence2.png)
+article 23 hours ago](https://science.nasa.gov/missions/webb/blood-soaked-eyes-nasas-webb-hubble-examine-galaxy-pair/)[![Buckle Up: NASA-Funded Study Explores Turbulence in Molecular Clouds](https://science.nasa.gov/wp-content/uploads/2024/10/turbulence2.png)
 
 3 min read
 
 ### Buckle Up: NASA-Funded Study Explores Turbulence in Molecular Clouds
 
-article 1 day ago](https://science.nasa.gov/universe/stars/nasa-funded-study-explores-turbulence-in-molecular-clouds/)
+article 2 days ago](https://science.nasa.gov/universe/stars/nasa-funded-study-explores-turbulence-in-molecular-clouds/)
 
 ### Highlights
 
@@ -357,19 +357,19 @@ article 1 day ago](https://science.nasa.gov/universe/stars/nasa-funded-study-exp
 
 ### International SWOT Satellite Spots Planet-Rumbling Greenland Tsunami
 
-article 5 hours ago](https://www.nasa.gov/missions/swot/international-swot-satellite-spots-planet-rumbling-greenland-tsunami/)[![](https://www.nasa.gov/wp-content/uploads/2024/03/bone-cells.png?w=609)
+article 15 hours ago](https://www.nasa.gov/missions/swot/international-swot-satellite-spots-planet-rumbling-greenland-tsunami/)[![](https://www.nasa.gov/wp-content/uploads/2024/03/bone-cells.png?w=609)
 
 5 min read
 
 ### We Are All Made of Cells: Space and the Immune System
 
-article 6 hours ago](https://www.nasa.gov/science-research/we-are-all-made-of-cells-space-and-the-immune-system/)[![B.21 Heliophysics Citizen Science Investigations POC Change](https://science.nasa.gov/wp-content/uploads/2021/10/heliophysics-math-webinar.png)
+article 17 hours ago](https://www.nasa.gov/science-research/we-are-all-made-of-cells-space-and-the-immune-system/)[![B.21 Heliophysics Citizen Science Investigations POC Change](https://science.nasa.gov/wp-content/uploads/2021/10/heliophysics-math-webinar.png)
 
 1 min read
 
 ### B.21 Heliophysics Citizen Science Investigations POC Change
 
-article 10 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/b-21-heliophysics-citizen-science-investigations-poc-change/)
+article 21 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/b-21-heliophysics-citizen-science-investigations-poc-change/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 3 weeks ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring
 
 ### NASA Technologies Named Among TIME Inventions of 2024
 
-article 1 day ago](https://www.nasa.gov/general/nasa-technologies-named-among-time-inventions-of-2024/)[![After 60 Years, Nuclear Power for Spaceflight is Still Tried and True](https://science.nasa.gov/wp-content/uploads/2023/07/55_7513_97pc1536.jpg)
+article 2 days ago](https://www.nasa.gov/general/nasa-technologies-named-among-time-inventions-of-2024/)[![After 60 Years, Nuclear Power for Spaceflight is Still Tried and True](https://science.nasa.gov/wp-content/uploads/2023/07/55_7513_97pc1536.jpg)
 
 5 min read
 
@@ -417,19 +417,25 @@ article 1 week ago](https://science.nasa.gov/planetary-science/programs/radioiso
 
 ### Featured
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/10/nasa-jw-still01-1920x1080-1.png?w=1024)
+[![Three students standing next to an Artemis tree with a bulletin board in the background that reads NASA STEM Artemis Moon Trees](https://www.nasa.gov/wp-content/uploads/2024/10/artemis-moon-trees-spr-24-with-3-girls-rosalee-armstrong-1.png?w=688)
+
+8 min read
+
+### Artemis I Moon Tree Stewards
+
+article 22 hours ago](https://www.nasa.gov/learning-resources/artemis-i-moon-tree-stewards/)[![Watch How Students Help NASA Grow Plants in Space: Growing Beyond Earth](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2024/WestLab2-Amy-Padolf.png)
+
+2 min read
+
+### Watch How Students Help NASA Grow Plants in Space: Growing Beyond Earth
+
+article 4 days ago](https://science.nasa.gov/learning-resources/science-activation/watch-how-students-help-nasa-grow-plants-in-space-growing-beyond-earth/)[![Kites in the Classroom: Training Teachers to Conduct Remote Sensing Missions](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/Kite%20with%20Aeropod%20-%20Lisa%20Ogiemwonyi.png)
 
 3 min read
 
-### Journey Through Stars with NASA in New Minecraft Game
+### Kites in the Classroom: Training Teachers to Conduct Remote Sensing Missions
 
-article 3 weeks ago](https://www.nasa.gov/learning-resources/new-minecraft-game/)[![James Webb Space Telescope-themed pumpkin](https://www.nasa.gov/wp-content/uploads/2023/10/spacepumpkinheader1600px.jpg?w=1024)
-
-1 min read
-
-### NASA-Themed Pumpkin-Carving Templates and Stencils
-
-article 6 days ago](https://www.nasa.gov/stem-content/nasa-themed-pumpkin-carving-templates-and-stencils/)
+article 7 days ago](https://science.nasa.gov/learning-resources/science-activation/kites-in-the-classroom-training-teachers-to-conduct-remote-sensing-missions/)
 
 ### Featured
 
@@ -439,13 +445,13 @@ article 6 days ago](https://www.nasa.gov/stem-content/nasa-themed-pumpkin-carvin
 
 ### NASA Group Amplifies Voices of Employees with Disabilities
 
-article 2 days ago](https://www.nasa.gov/general/nasa-group-amplifies-voices-of-employees-with-disabilities/)[![Autumn Leaves – Call for Volunteers](https://science.nasa.gov/wp-content/uploads/2024/10/fall-figure1.png)
+article 3 days ago](https://www.nasa.gov/general/nasa-group-amplifies-voices-of-employees-with-disabilities/)[![Autumn Leaves – Call for Volunteers](https://science.nasa.gov/wp-content/uploads/2024/10/fall-figure1.png)
 
 3 min read
 
 ### Autumn Leaves – Call for Volunteers
 
-article 6 days ago](https://science.nasa.gov/science-research/earth-science/autumn-leaves-call-for-volunteers/)
+article 7 days ago](https://science.nasa.gov/science-research/earth-science/autumn-leaves-call-for-volunteers/)
 
 ### Highlights
 
@@ -455,13 +461,13 @@ article 6 days ago](https://science.nasa.gov/science-research/earth-science/autu
 
 ### La NASA lleva un dron y un rover espacial a un espectáculo aéreo
 
-article 1 day ago](https://www.nasa.gov/centers-and-facilities/armstrong/la-nasa-lleva-un-dron-y-un-rover-espacial-a-un-espectaculo-aereo/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/la-nasa-lleva-un-dron-y-un-rover-espacial-a-un-espectaculo-aereo/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
 
 4 min read
 
 ### Destacado de la NASA: Felipe Valdez, un ingeniero inspirador
 
-article 6 days ago](https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/)[![A man wearing clear glasses is standing to the left of the image wearing a gray shirt and tan pants. His right arm is touching a cart holding technical instruments including two solar panels sticking out from each side. There are several other people surrounding him.](https://images-assets.nasa.gov/image/AFRC2023-0170-07/AFRC2023-0170-07~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
+article 7 days ago](https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/)[![A man wearing clear glasses is standing to the left of the image wearing a gray shirt and tan pants. His right arm is touching a cart holding technical instruments including two solar panels sticking out from each side. There are several other people surrounding him.](https://images-assets.nasa.gov/image/AFRC2023-0170-07/AFRC2023-0170-07~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
 
 4 min read
 
