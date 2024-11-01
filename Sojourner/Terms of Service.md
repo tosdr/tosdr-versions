@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-5f8dd9724b24f1755e2af504d2a76687
+565316844279b9d95bb8e2beaf6a3d4d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![6 mm by 3 mm gold-plate rondelles](https://sojourner.biz/images/cache/metalbeads/MET005strand.200.jpg)](https://sojourner.biz/beads/metal/6-mm-by-3-mm-gold-plate-rondelles.html "6 mm by 3 mm gold-plate rondelles")
+[![12 mm faceted round zebra jasper beads](https://sojourner.biz/images/cache/stone/STN014.200.jpg)](https://sojourner.biz/beads/stone-m-z/other-stones/12-mm-faceted-round-zebra-jasper-beads.html "12 mm faceted round zebra jasper beads")
 
-#### [6 mm by 3 mm gold-plate rondelles](https://sojourner.biz/beads/metal/6-mm-by-3-mm-gold-plate-rondelles.html "6 mm by 3 mm gold-plate rondelles")
+#### [12 mm faceted round zebra jasper beads](https://sojourner.biz/beads/stone-m-z/other-stones/12-mm-faceted-round-zebra-jasper-beads.html "12 mm faceted round zebra jasper beads")
 
-$2.00
+$17.00
 
 ### Best Sellers
 
