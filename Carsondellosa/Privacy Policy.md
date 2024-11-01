@@ -1,12 +1,10 @@
-![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-188798710460)                                                   
-
-⭐ Today Only—$1 Stickers! ⭐ | [SHOP](https://www.carsondellosa.com/sale/todays-offers/stickers/)
+![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-188811680143)                                                   
 
 FREE SHIPPING on Online Orders $40+
 
-SPARK EXCLUSIVE - Free 36' Orange Rolled Border | [SHOP](https://www.carsondellosa.com/108213--orange-rolled-scalloped-borders-108213/)
+BOGO Free Puzzles & Games | [SHOP](https://www.carsondellosa.com/learn-at-home/categories/puzzles-games/)
 
-Buy 2 Clearance Items, Get 1 Free | [SHOP](https://www.carsondellosa.com/sale/clearance/)
+BOGO Free Printables | [SHOP](https://www.carsondellosa.com/classroom-decorations/categories/printables/)
 
 [Toggle menu](#)
 
@@ -221,9 +219,6 @@ Search  search
     
 * [Sale](https://www.carsondellosa.com/sale/)
     
-    * [![Clearance](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/c6caede0-3350-013d-0015-329e35608485/img/loading.svg)
-        
-        Clearance](https://www.carsondellosa.com/sale/clearance/)
     * [![Today's Offers](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/c6caede0-3350-013d-0015-329e35608485/img/loading.svg)
         
         Today's Offers](https://www.carsondellosa.com/sale/todays-offers/)
@@ -233,6 +228,9 @@ Search  search
     * [![Almost Gone](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/c6caede0-3350-013d-0015-329e35608485/img/loading.svg)
         
         Almost Gone](https://www.carsondellosa.com/sale/almost-gone/)
+    * [![Online Exclusive Bundles](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/c6caede0-3350-013d-0015-329e35608485/img/loading.svg)
+        
+        Online Exclusive Bundles](https://www.carsondellosa.com/sale/online-exclusive-bundles/)
     
 
 * [Shop by Grade](https://www.carsondellosa.com/shop-by-grade/)
@@ -389,15 +387,6 @@ Search  search
     * Shop All
 * [Sale](https://www.carsondellosa.com/sale/)
     * Back
-    * [Clearance](https://www.carsondellosa.com/sale/clearance/)
-        * Back
-        * [Almost Gone](https://www.carsondellosa.com/sale/clearance/almost-gone/)
-        * [Books](https://www.carsondellosa.com/sale/clearance/books/)
-        * [Classroom Décor](https://www.carsondellosa.com/sale/clearance/classroom-decor/)
-        * [Recently Reduced](https://www.carsondellosa.com/sale/clearance/recently-reduced/)
-        * [Stickers & Incentives](https://www.carsondellosa.com/sale/clearance/stickers-incentives/)
-        * [Teaching Supplies](https://www.carsondellosa.com/sale/clearance/teaching-supplies/)
-        * [Shop All](https://www.carsondellosa.com/sale/)
     * [Today's Offers](https://www.carsondellosa.com/sale/todays-offers/)
         * Back
         * [Bulletin Board Letters](https://www.carsondellosa.com/sale/todays-offers/bulletin-board-letters/)
@@ -434,6 +423,7 @@ Search  search
         * [Shop All](https://www.carsondellosa.com/sale/)
     * [Mystery Grab Bags](https://www.carsondellosa.com/sale/mystery-grab-bags/)
     * [Almost Gone](https://www.carsondellosa.com/sale/almost-gone/)
+    * [Online Exclusive Bundles](https://www.carsondellosa.com/sale/online-exclusive-bundles/)
     * Shop All
 * [Brands](https://www.carsondellosa.com/brands/)
     * Back
