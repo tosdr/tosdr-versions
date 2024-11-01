@@ -138,6 +138,16 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Happy Halloween!⁠ Remember to brush and floss to ![Happy Halloween!⁠
+Remember to brush and floss tonight (and EVERY night) 😉👻⁠
+Love,⁠
+Your Dentist⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #halloween #happyhalloween](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DByhbqDPTPy/) 
+
 [Graduates of Wake Tech’s Dental Hygiene Program ![Graduates of Wake Tech’s Dental Hygiene Program can now pursue a bachelor’s degree online through a new articulation agreement with Old Dominion University. Link in bio.⁠
 ⁠
 ⁠
@@ -172,15 +182,6 @@ Provider ID# 317924
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBl3LqHsypZ/) 
-
-[EARN 2 CEUs: Optimize Workflow Efficiency by Integ ![EARN 2 CEUs: Optimize Workflow Efficiency by Integrating Dental Imaging Technologies⁠
-The integration of CAD/CAM technology in implant dentistry has enhanced the accuracy of implant placement and the efficiency of restorative procedures.⁠
-By Liliana Aranguren, DDS, MDSc ⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBjSX1tNfKx/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
