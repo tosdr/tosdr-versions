@@ -2,8 +2,6 @@
 
 ![](https://www.facebook.com/tr?id=1013298092648180&ev=PageView&noscript=1)
 
-[Transfer Your .COM for Only $10.50 🍁 Use code FALL1050 to unlock this deal 🔑](https://www.dynadot.com/domain/transfer?utm_source=Promobar&utm_campaign=COM%20Transfer%20Promobar%20Oct%202024&utm_medium=com%20transfer&drefid=4615)
-
 [](https://www.dynadot.com/)
 
 * Domains  
