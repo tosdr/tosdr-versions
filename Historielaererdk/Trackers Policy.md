@@ -2550,7 +2550,7 @@ Populært i denne måned
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63520-featured-50x50.jpg)](https://historielaerer.dk/kurser/historiedidaktik-2-0/) [Histo­ri­e­di­dak­tik 2.0](https://historielaerer.dk/kurser/historiedidaktik-2-0/) 55 visninger | af [Emilie Kjersgaard](https://historielaerer.dk/author/emilienielsen/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63643-featured-50x50.jpeg)](https://historielaerer.dk/kurser/ho-og-dho/) [HO og DHO](https://historielaerer.dk/kurser/ho-og-dho/) 42 visninger | af [Karen Steller Bjerregaard](https://historielaerer.dk/author/karen/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63234-featured-50x50.png)](https://historielaerer.dk/historiekonkurrencen-23-24/) [Histo­rie­kon­kur­ren­cen 23/24](https://historielaerer.dk/historiekonkurrencen-23-24/) 41 visninger | af [Espen Espensen & Trine Villumsen](https://historielaerer.dk/author/espenespensen/?mab_v3=63234)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/58950-featured-50x50.jpg)](https://historielaerer.dk/fortiden-i-historiefaget/) [For­ti­den i historiefaget](https://historielaerer.dk/fortiden-i-historiefaget/) 39 visninger | af [Loa Bjerre](https://historielaerer.dk/author/loabjerre/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/58950-featured-50x50.jpg)](https://historielaerer.dk/fortiden-i-historiefaget/) [For­ti­den i historiefaget](https://historielaerer.dk/fortiden-i-historiefaget/) 40 visninger | af [Loa Bjerre](https://historielaerer.dk/author/loabjerre/)
 
 ### Aktu­el­le arrangementer
 
