@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to NiftyClouds](https://www.backup4all.com/how-to-backup-your-data-to-niftyclouds-kb.html)  
+* [Backup software](https://www.backup4all.com/backup-software-kb.html)  
     
-* [How to configure Backup4all Monitor](https://www.backup4all.com/how-to-configure-backup4all-monitor-kb.html)  
+* [How to back up data files from SwiftStack usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-swiftstack-using-backup4all-kb.html)  
     
-* [How to back up data files from Numergy using ...](https://www.backup4all.com/how-to-back-up-data-files-from-numergy-using-backup4all-kb.html)  
+* [How to backup your data to Constant](https://www.backup4all.com/how-to-backup-your-data-to-constant-kb.html)  
     
-* [Backup Terms Glossary](https://www.backup4all.com/backup-glossary-kb.html)  
+* [How to backup your Facebook account](https://www.backup4all.com/how-to-backup-your-facebook-account-using-backup4all-kb.html)  
     
-* [How to backup your data to Google Cloud Stora ...](https://www.backup4all.com/how-to-backup-your-data-to-google-cloud-storage-kb.html)  
+* [How to back up data files from FTP using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-ftp-using-backup4all-kb.html)  
     
 
 Choose language:
