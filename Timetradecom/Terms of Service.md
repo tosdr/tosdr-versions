@@ -4,7 +4,7 @@ class="agentbot"
 
 * Platform
     
-    * [Conversational AI Engagement Automate customer service and sales with omnichannel solutions.](https://engageware.com/conversational-ai/)
+    * [Virtual and Human Agents & Digital Communications Automate customer service and sales with omnichannel solutions.](https://engageware.com/conversational-ai/)
     * [Knowledge Management Enhance efficiency with content that is easy to find, follow, and use for employees and customers.](https://engageware.com/knowledge-management/)
     * [Appointment Scheduling Convert opportunities into revenue with efficient scheduling.](https://engageware.com/appointment-scheduling/)
     
@@ -106,7 +106,7 @@ Book a meeting
 
 Platform
 
-* [Conversational AI Engagement](https://engageware.com/conversational-ai/)
+* [Virtual and Human Agents & Digital Communications](https://engageware.com/conversational-ai/)
 * [Knowledge Management](https://engageware.com/knowledge-management/)
 * [Appointment Scheduling](https://engageware.com/appointment-scheduling/)
 
