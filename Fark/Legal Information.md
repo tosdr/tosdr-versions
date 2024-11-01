@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want to see behind the curtain? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More funny for your money.
+It's how we feed the squirrel
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [6 strategies for finding things you lost. Subby always begins by looking in his hand. You'd be surprised how often it's right there](https://www.fark.com/goto/13448688) ( [npr.org](https://www.fark.com/goto/13448688) ) » [(10 comments)](https://www.fark.com/comments/13448688/-6-strategies-for-finding-things-you-lost-Subby-always-begins-by-looking-in-his-hand-Youd-be-surprised-how-often-its-right-there) |
-| [Discussion](https://www.fark.com/discussion/) | [Experts say not going out is the "new normal" post-Covid, par for the course for Farkers](https://www.fark.com/goto/13448666) ( [eurekalert.org](https://www.fark.com/goto/13448666) ) » [(4 comments)](https://www.fark.com/comments/13448666/Experts-say-not-going-out-is-new-normal-post-Covid-par-for-course-for-Farkers) |
-| [Sports](https://www.fark.com/sports/) | [Marlboro County's high school football team has been banned from the state playoffs, probably for blowing smoke up someone's arse](https://www.fark.com/goto/13448368) ( [msn.com](https://www.fark.com/goto/13448368) ) » [(8 comments)](https://www.fark.com/comments/13448368/Marlboro-Countys-high-school-football-team-has-been-banned-from-state-playoffs-probably-for-blowing-smoke-up-someones-arse) |
-| [Business](https://www.fark.com/business/) | [Trafigura, which last year lost $500 in a fake nickel fraud, is back in the news after losing $1 billion in a Mongolian oil fraud and barbecue](https://www.fark.com/goto/13448364) ( [finance.yahoo.com](https://www.fark.com/goto/13448364) ) » [(4 comments)](https://www.fark.com/comments/13448364/Trafigura-which-last-year-lost-$500-in-a-fake-nickel-fraud-is-back-in-news-after-losing-$1-billion-in-a-Mongolian-oil-fraud-barbecue) |
-| [STEM](https://www.fark.com/stem/) | [Thinking of participating in No Nut November? Enjoy your prostate cancer](https://www.fark.com/goto/13448704) ( [metro.co.uk](https://www.fark.com/goto/13448704) ) » [(5 comments)](https://www.fark.com/comments/13448704/Thinking-of-participating-in-No-Nut-November-Enjoy-your-prostate-cancer) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Heidi Klum, known for her wildly extravagant Halloween costumes, comes out with 'the best' costume of 2024 (possible nsfw content on page)](https://www.fark.com/goto/13448584) ( [dailystar.co.uk](https://www.fark.com/goto/13448584) ) » [(0 comments)](https://www.fark.com/comments/13448584/Heidi-Klum-known-for-her-wildly-extravagant-Halloween-costumes-comes-out-with-best-costume-of-2024-possible-nsfw-content-on-page) |
-| [Fandom](https://www.fark.com/fandom/) | [Quentin Tarantino won't watch Denis Villeneuve's "Dune" movies, because despite all that sand there isn't a single bare foot](https://www.fark.com/goto/13448660) ( [variety.com](https://www.fark.com/goto/13448660) ) » [(8 comments)](https://www.fark.com/comments/13448660/Quentin-Tarantino-wont-watch-Denis-Villeneuves-Dune-movies-because-despite-all-that-sand-there-isnt-a-single-bare-foot) |
-| [D'awww](https://www.fark.com/dawww/) | [If Starbucks really wants to get Subby in the door, they need to do this sort of thing](https://www.fark.com/goto/13448404) ( [orlandoweekly.com](https://www.fark.com/goto/13448404) ) » [(4 comments)](https://www.fark.com/comments/13448404/If-Starbucks-really-wants-to-get-Subby-in-door-they-need-to-do-this-sort-of-thing) |
-| [Food](https://www.fark.com/food/) | [McDonald's debuts new dulce de leche frappe, because Starbucks shouldn't have a monopoly on coffee-induced diabeetus](https://www.fark.com/goto/13448672) ( [brandeating.com](https://www.fark.com/goto/13448672) ) » [(2 comments)](https://www.fark.com/comments/13448672/McDonalds-debuts-new-dulce-de-leche-frappe-because-Starbucks-shouldnt-have-a-monopoly-on-coffee-induced-diabeetus) |
-| [Politics](https://www.fark.com/politics/) | [Dear America, when my darling, handsome boy said he could cut $2 trillion from the budget, he was just being modest. Signed, Dipshiat's Mother](https://www.fark.com/goto/13448644) ( [foxbusiness.com](https://www.fark.com/goto/13448644) ) » [(16 comments)](https://www.fark.com/comments/13448644/Dear-America-when-my-darling-handsome-boy-said-he-could-cut-$2-trillion-from-budget-he-was-just-being-modest-Signed-Dipshiats-Mother) |
+| [Main](https://www.fark.com/) | [Sunday, turn the clocks back, giving most Farkers an extra hour of drinking](https://www.fark.com/goto/13448934) ( [usatoday.com](https://www.fark.com/goto/13448934) ) » [(2 comments)](https://www.fark.com/comments/13448934/Sunday-turn-clocks-back-giving-most-Farkers-an-extra-hour-of-drinking) |
+| [Discussion](https://www.fark.com/discussion/) | ["What is the best way to let my son know I saw his wife with another man? Is there a Hallmark card for that?" (possible nsfw content on page)](https://www.fark.com/goto/13449094) ( [thesun.co.uk](https://www.fark.com/goto/13449094) ) » [(1 comment)](https://www.fark.com/comments/13449094/What-is-best-way-to-let-my-son-know-I-saw-his-wife-with-another-man-Is-there-a-Hallmark-card-for-that-possible-nsfw-content-on-page) |
+| [Sports](https://www.fark.com/sports/) | [Jets WR Malachi Corley scored an amazing.....touchback last night. Commence the "the offense should NOT be penalized for fumbling the ball out of the endzone" nerdslap](https://www.fark.com/goto/13449164) ( [si.com](https://www.fark.com/goto/13449164) ) » [(10 comments)](https://www.fark.com/comments/13449164/Jets-WR-Malachi-Corley-scored-an-amazingtouchback-last-night-Commence-the-offense-should-NOT-be-penalized-for-fumbling-ball-out-of-endzone-nerdslap) |
+| [Business](https://www.fark.com/business/) | [Meet the chief gnome handler from Asda](https://www.fark.com/goto/13448900) ( [metro.co.uk](https://www.fark.com/goto/13448900) ) » [(6 comments)](https://www.fark.com/comments/13448900/Meet-chief-gnome-handler-from-Asda) |
+| [STEM](https://www.fark.com/stem/) | [Scientists catch sperm defying the laws of physics, viscosity of Jergens](https://www.fark.com/goto/13449216) ( [sciencealert.com](https://www.fark.com/goto/13449216) ) » [(3 comments)](https://www.fark.com/comments/13449216/Scientists-catch-sperm-defying-laws-of-physics-viscosity-of-Jergens) |
+| [Entertainment](https://www.fark.com/entertainment/) | [To celebrate the release of their first album in 16 years, The Cure will play a special Show Of A Lost World at London's Troxy which will be live streamed on youtube. Get back combing & liberally apply your eyeliner. House lights down at 16:00 ET](https://www.fark.com/goto/13448588) ( [youtube.com](https://www.fark.com/goto/13448588) ) » [(5 comments)](https://www.fark.com/comments/13448588/To-celebrate-release-of-their-first-album-in-16-years-The-Cure-will-play-a-special-Show-Of-A-Lost-World-at-Londons-Troxy-which-will-be-live-streamed-on-youtube-Get-back-combing-liberally-apply-your-eyeliner-House-lights-down-at-1600-ET) |
+| [Fandom](https://www.fark.com/fandom/) | [Burning Man burn rate burned through reserves, burn organizers may be burned out](https://www.fark.com/goto/13449114) ( [ktvu.com](https://www.fark.com/goto/13449114) ) » [(4 comments)](https://www.fark.com/comments/13449114/Burning-Man-burn-rate-burned-through-reserves-burn-organizers-may-be-burned-out) |
+| [D'awww](https://www.fark.com/dawww/) | [Great bear costume kid, but you're only supposed to take one or two](https://www.fark.com/goto/13449048) ( [wfsb.com](https://www.fark.com/goto/13449048) ) » [(1 comment)](https://www.fark.com/comments/13449048/Great-bear-costume-kid-but-youre-only-supposed-to-take-one-two) |
+| [Food](https://www.fark.com/food/) | [Pies aren't meant to include glue](https://www.fark.com/goto/13449082) ( [dailymail.co.uk](https://www.fark.com/goto/13449082) ) » [(4 comments)](https://www.fark.com/comments/13449082/Pies-arent-meant-to-include-glue) |
+| [Politics](https://www.fark.com/politics/) | [Europe's Green parties to Jill Stein: You're not helping](https://www.fark.com/goto/13449278) ( [theguardian.com](https://www.fark.com/goto/13449278) ) » [(12 comments)](https://www.fark.com/comments/13449278/Europes-Green-parties-to-Jill-Stein-Youre-not-helping) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 01 2024 09:43:28  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 01 2024 15:42:45  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
