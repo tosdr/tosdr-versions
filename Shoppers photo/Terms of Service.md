@@ -1,6 +1,6 @@
-![Shoppers Drug Mart Logo](/Themes/ShoppersPhoto/Images/ppNewLogo.png)
+![Shoppers Drug Mart Logo](/Themes/ShoppersPhoto/Images/sdmNewLogo.png)
 
- ![Drop Down Menu](/Themes/ShoppersPhoto/Images/arrow.png)[![Shoppers Photo Logo](/Themes/ShoppersPhoto/Images/logo_ppo.png)](https://www.shoppersphoto.ca/en-CA/)
+ ![Drop Down Menu](/Themes/ShoppersPhoto/Images/arrow.png)[![Shoppers Photo Logo](/Themes/ShoppersPhoto/Images/logo.png)](https://www.shoppersphoto.ca/en-CA/)
 
 * [My Account](https://www.shoppersphoto.ca/en-CA/Album)
     * [My Profile](https://www.shoppersphoto.ca/en-CA/Profile/Personal)
