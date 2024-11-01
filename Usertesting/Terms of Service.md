@@ -328,14 +328,6 @@ Main navigation
             
               ![Images for Pulse Reports for use in the mega menu tiles only](https://usertesting.widen.net/content/ypq8xbcxus/webp/IMAGE-mega-menu-pulse-retail-120x120.png?w=120&itok=GzOi8Jxu)
             
-        * The Human Insight Summit
-            
-            Join us in Austin for The Human Insight Summit, October 28-30, 2024.
-            
-            [Learn more](https://www.usertesting.com/resources/this)
-            
-              ![THiS Vertical Logo Lockup](https://usertesting.widen.net/content/jz5zfwke4e/webp/LOGO-2022-THiS-Vertical-Lockup-446x284.png?w=120&itok=FrxlfNFu)
-            
         
     * Divider
         
@@ -344,6 +336,8 @@ Main navigation
         * Digital Resources
             
             * [All resources](https://www.usertesting.com/resources)
+                
+            * [Insight+](https://www.usertesting.com/insight-plus)
                 
             * [Blog](https://www.usertesting.com/blog)
                 
@@ -375,6 +369,8 @@ Main navigation
             
         * Product Releases
             
+            * [Upcoming release](https://www.usertesting.com/this-product-announcements-2024)
+                
             * [Latest release](https://www.usertesting.com/resources/product-releases)
                 
             * [Previous releases](https://www.usertesting.com/resources/product-releases#previous-product-releases)
@@ -754,6 +750,7 @@ Footer
 * Resources
     * Digital Resources
         * [All resources](https://www.usertesting.com/resources)
+        * [Insight+](https://www.usertesting.com/insight-plus)
         * [Usability Testing](https://www.usertesting.com/resources/guides/usability-testing)
         * [Product Design](https://www.usertesting.com/resources/guides/product-design)
         * [Blog](https://www.usertesting.com/blog)
