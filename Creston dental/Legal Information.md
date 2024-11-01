@@ -2,7 +2,7 @@
 
 x
 
-Braces for only $200 down through 10/31!
+[Losing your Medicaid Coverage? Click HERE](https://www.crestondental.com/insurance-payment-options#insurance-bottom) 
 
 [](https://www.crestondental.com/ "Creston Dental home")
 
