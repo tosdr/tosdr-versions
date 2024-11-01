@@ -88,7 +88,7 @@ This Affiliate program agreement (this "Agreement") is between Hawk Host Inc., a
 
 _$_2.24/mo
 
-[GET STARTED NOW](https://my.hawkhost.com/store/shared-hosting/primary?billingcycle=biennially&promocode=october2024)
+[GET STARTED NOW](https://my.hawkhost.com/store/shared-hosting/primary?billingcycle=biennially&promocode=november2024)
 
 [![](/images/icon-contact-support.webp)Contact Support](https://my.hawkhost.com/submitticket.php)
 
