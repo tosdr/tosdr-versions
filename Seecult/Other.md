@@ -430,11 +430,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike-paintings/slepe-mrlje-sistema/sargarepa.jpg?itok=RB0nLWxM)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike-paintings/slepe-mrlje-sistema)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/animacije/marta-i-njeni-prijatelji/prints-flash-1.jpg?itok=VddX6Eo1)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/animacije/marta-i-njeni-prijatelji)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/el-manjo-infobar.jpg?itok=ODCa4DFZ)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/pocket-plakat.jpg?itok=u3BYsTWf)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
