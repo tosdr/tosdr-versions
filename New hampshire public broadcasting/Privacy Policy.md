@@ -185,9 +185,9 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 ###### LATEST VIDEO
 
 * [**StoryCorps Shorts: A Knock at the Door** | POV](https://video.nhpbs.org/video/storycorps-shorts-a-knock-at-the-door-faolug?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**2024 NH CD2 Candidate Forum** | NH Votes](https://video.nhpbs.org/video/2024-nh-cd2-candidate-forum-fhauzr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**How Do Hurricanes Form?** | NOVA](https://video.nhpbs.org/video/how-do-hurricanes-form-gnog7s?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**October 31, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-31-2024-pbs-news-hour-full-episode-1730347201?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**How Medieval Armorers Made Knights Bulletproof** | NOVA](https://video.nhpbs.org/video/how-medieval-armorers-made-knights-bulletproof-assiq4?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**2024 NH CD2 Candidate Forum** | NH Votes](https://video.nhpbs.org/video/2024-nh-cd2-candidate-forum-fhauzr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Scha'nexw Elhtal'nexw Salmon People: Preserving a Way of Life Preview** | Local, USA](https://video.nhpbs.org/video/local-usa-schanexw-elhtalnexw-salmon-people-preserving-a-way-of-life-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 2 Preview** | The Marlow Murder Club](https://video.nhpbs.org/video/episode-2-preview-izexus?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**The Mirror and the Light Preview** | Wolf Hall](https://video.nhpbs.org/video/the-mirror-and-the-light-preview-cevwvk?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
