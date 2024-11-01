@@ -446,4 +446,4 @@ Connect with IEEE
 * [Feedback](https://www.ieee.org/about/feedback-ieee-site.html)
     
 
- © Copyright IEEE – All rights reserved. A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
+© Copyright IEEE – All rights reserved. A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
