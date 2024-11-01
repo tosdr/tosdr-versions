@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/de-kindermisbruik-beerput-verder-open/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mind-control/lyme-en-aids-menselijke-uitvindingen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
