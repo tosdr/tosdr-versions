@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/big-pharma/farma-industrie-blokkeert-goedkopere-remedies/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/boeken/vaccinaties-doorgeprikt/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
@@ -140,7 +140,7 @@ Inschrijven
 
 #### Quote van de week
 
-> Journalistiek is het publiceren van informatie, wat iemand anders niet gepubliceerd wil hebben. Al het andere is ‘public relations’.
+> Realiteit bestaat in de menselijke geest en nergens anders.
 > 
 > George Orwell (1903-1950), journalist-auteur
 
