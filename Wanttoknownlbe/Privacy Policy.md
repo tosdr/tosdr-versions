@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/john-maynard-keynes-omgekeerde-economische-wereld/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/op-termijn-geen-plaats-meer-voor-tolken-in-de-eu/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
