@@ -188,9 +188,9 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (78)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (75)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (30)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (29)](https://www.smithbrothersfarms.com/on-special)
         
     * [Thanksgiving Essentials (24)](https://www.smithbrothersfarms.com/thanksgiving-essentials)
         
@@ -209,9 +209,9 @@ Hi
             
         * [Lactose Free Milk (2)](https://www.smithbrothersfarms.com/lactose-free-3)
             
-        * [Plant-Based Milk (13)](https://www.smithbrothersfarms.com/non-dairy-3)
+        * [Plant-Based Milk (12)](https://www.smithbrothersfarms.com/non-dairy-3)
             
-        * [Half & Half, Creamers (18)](https://www.smithbrothersfarms.com/flavored-creamers)
+        * [Half & Half, Creamers (17)](https://www.smithbrothersfarms.com/flavored-creamers)
             
         * [Buttermilk & Sour Cream (2)](https://www.smithbrothersfarms.com/buttermilk)
             
@@ -252,7 +252,7 @@ Hi
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (87)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (88)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
@@ -263,7 +263,7 @@ Hi
             
         * [Salad Kits (25)](https://www.smithbrothersfarms.com/salads)
             
-        * [Prepared Produce (5)](https://www.smithbrothersfarms.com/prepped)
+        * [Prepared Produce (6)](https://www.smithbrothersfarms.com/prepped)
             
         
     * [Bakery (92)](https://www.smithbrothersfarms.com/bakery)
@@ -279,7 +279,7 @@ Hi
             
         * [Muffins & Scones (7)](https://www.smithbrothersfarms.com/muffins)
             
-        * [Treats (13)](https://www.smithbrothersfarms.com/desserts)
+        * [Treats (11)](https://www.smithbrothersfarms.com/desserts)
             
         * [Cookies (5)](https://www.smithbrothersfarms.com/cookie)
             
@@ -296,14 +296,14 @@ Hi
         * [Deli & Charcuterie (17)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
             
         
-    * [Meals & Sides (70)](https://www.smithbrothersfarms.com/prepared-foods)
+    * [Meals & Sides (65)](https://www.smithbrothersfarms.com/prepared-foods)
         
         * BACK
         * [Frozen Meals (28)](https://www.smithbrothersfarms.com/entrees)
             
         * [Sides & Appetizers (16)](https://www.smithbrothersfarms.com/sides-and-apps)
             
-        * [Dips & Spreads (8)](https://www.smithbrothersfarms.com/dips-and-spreads-3)
+        * [Dips & Spreads (3)](https://www.smithbrothersfarms.com/dips-and-spreads-3)
             
         * [Pizza & Pasta (13)](https://www.smithbrothersfarms.com/pasta)
             
@@ -318,10 +318,10 @@ Hi
         * [Coffee (25)](https://www.smithbrothersfarms.com/coffee-2)
             
         
-    * [Snacks (38)](https://www.smithbrothersfarms.com/snacks)
+    * [Snacks (37)](https://www.smithbrothersfarms.com/snacks)
         
         * BACK
-        * [Salsa, Dips & Hummus (16)](https://www.smithbrothersfarms.com/salsa)
+        * [Salsa, Dips & Hummus (15)](https://www.smithbrothersfarms.com/salsa)
             
         * [Chips, Crackers & Nuts (19)](https://www.smithbrothersfarms.com/chips-and-crackers)
             
