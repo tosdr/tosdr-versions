@@ -10,7 +10,7 @@ Try our NEW Grain-Free Cracker Rounds
 
 [Try our NEW Grain-Free Cracker Rounds](https://fitjoyfoods.com/collections/grain-free-cracker-rounds "Grain-Free Cracker Rounds")
 
-FitJoy Foods [![FitJoy Foods](//fitjoyfoods.com/cdn/shop/files/IT_S_A_SNACK_7.png?v=1690313671&width=240)![FitJoy Foods](//fitjoyfoods.com/cdn/shop/files/IT_S_A_SNACK_7.png?v=1690313671&width=280)](https://fitjoyfoods.com/)
+FitJoy Foods [![FitJoy Foods](//fitjoyfoods.com/cdn/shop/files/Shopify_Imagery_Updates_-_Nov_2024_3.png?v=1730470888&width=240)![FitJoy Foods](//fitjoyfoods.com/cdn/shop/files/Shopify_Imagery_Updates_-_Nov_2024_3.png?v=1730470888&width=280)](https://fitjoyfoods.com/)
 
 * Shop
     
