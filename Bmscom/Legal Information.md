@@ -381,9 +381,9 @@ Related links
 Privacy Notice Center - Bristol Myers Squibb
 ============================================
 
-   ![banner](/assets/bms/us/en-us/images/privacy-page-banner.jpg "Privacy Notice Center")
+   ![banner](/assets/bms/us/en-us/images/privacy-page-banner.jpg "Privacy notice center")
 
-Privacy Notice Center
+Privacy notice center
 ---------------------
 
 Jump to:
@@ -1789,6 +1789,6 @@ Follow us
 * [Contact us](https://www.bms.com/about-us/contact-us.html)
 * [Worldwide locations](https://www.bms.com/about-us/our-company/worldwide-facilities.html)
 
-October 31, 2024
+November 01, 2024
 
 © 2024 Bristol-Myers Squibb Company
