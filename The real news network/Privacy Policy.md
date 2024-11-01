@@ -81,7 +81,7 @@ Trending Posts
 * [This CEO left coal miners penniless. Why did a West Virginia town give him a lucrative tax break to build a luxury hotel?](https://therealnews.com/this-ceo-left-coal-miners-penniless-why-did-a-west-virginia-town-give-him-a-lucrative-tax-break-to-build-a-luxury-hotel)
 * [Zionism is driving a growing divide in Jewish communities](https://therealnews.com/zionism-is-driving-a-growing-divide-in-jewish-communities)
 * [‘This is an extermination’: Israel’s assault on north Gaza’s last functioning hospital](https://therealnews.com/this-is-an-extermination-israels-assault-on-north-gazas-last-functioning-hospital)
-* [Israeli forces arrest all but 1 doctor at last operational North Gaza hospital](https://therealnews.com/israeli-forces-arrest-all-but-1-doctor-at-last-operational-north-gaza-hospital)
+* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 
 Close
 
@@ -145,7 +145,7 @@ Trending Posts
 * [This CEO left coal miners penniless. Why did a West Virginia town give him a lucrative tax break to build a luxury hotel?](https://therealnews.com/this-ceo-left-coal-miners-penniless-why-did-a-west-virginia-town-give-him-a-lucrative-tax-break-to-build-a-luxury-hotel)
 * [Zionism is driving a growing divide in Jewish communities](https://therealnews.com/zionism-is-driving-a-growing-divide-in-jewish-communities)
 * [‘This is an extermination’: Israel’s assault on north Gaza’s last functioning hospital](https://therealnews.com/this-is-an-extermination-israels-assault-on-north-gazas-last-functioning-hospital)
-* [Israeli forces arrest all but 1 doctor at last operational North Gaza hospital](https://therealnews.com/israeli-forces-arrest-all-but-1-doctor-at-last-operational-north-gaza-hospital)
+* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 
 [Skip to content](#main)
 
