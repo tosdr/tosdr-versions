@@ -14,10 +14,6 @@
 * [English](#)
 * [Help](https://wiki.librarything.com/index.php/HelpThing:Privacy)
 
-![](https://image.librarything.com/pics/hunt/hunt_clue_2024_10_16.png) [Come join our Halloween Treasure Hunt!](https://www.librarything.com/hunt/33)
-
-Dismiss
-
 Privacy and TOS
 
 [About LibraryThing](https://www.librarything.com/about)[Privacy and TOS](https://www.librarything.com/privacy)[Press Information](https://www.librarything.com/press)[Who We Are](https://www.librarything.com/whoweare.php)[Contact Us](https://www.librarything.com/contact)
