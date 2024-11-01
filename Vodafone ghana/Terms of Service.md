@@ -58,7 +58,7 @@ Starting from GHc 800.
 
 Connected Device
 
-Starting from GHc 750.
+Starting from GHc 500.
 
 Making life easier.
 -------------------
