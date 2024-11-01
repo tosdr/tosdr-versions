@@ -425,38 +425,37 @@ If you have any questions, concerns, or complaints regarding our Privacy Policy,
 
 You may also refer any questions regarding this Privacy Policy to our Group Data Protection Officer (DPO) by writing to [dpo@expressvpn.com](mailto:dpo@expressvpn.com).
 
-* [Download VPN](https://www.expressvpn.com/vpn-download)
-* [Mac VPN](https://www.expressvpn.com/vpn-download/vpn-mac)
-* [Windows PC VPN](https://www.expressvpn.com/vpn-download/vpn-windows)
-* [iPhone VPN (iOS)](https://www.expressvpn.com/vpn-download/vpn-ios)
-* [Android VPN](https://www.expressvpn.com/vpn-download/vpn-android)
-* [Linux VPN](https://www.expressvpn.com/vpn-download/vpn-linux)
-* [Router VPN](https://www.expressvpn.com/vpn-download/vpn-router)
-* [Apple TV VPN](https://www.expressvpn.com/vpn-download/vpn-apple-tv)
-* [Fire Stick VPN](https://www.expressvpn.com/vpn-download/vpn-fire-tv-stick)
-* [Android TV VPN](https://www.expressvpn.com/vpn-download/vpn-android-tv)
-* [VPN Chrome Extension](https://www.expressvpn.com/vpn-download/chrome-vpn)
+* VPN for All Devices
+* [Download ExpressVPN](https://www.expressvpn.com/vpn-download)
+* [MacOS](https://www.expressvpn.com/vpn-download/vpn-mac)
+* [Windows PC](https://www.expressvpn.com/vpn-download/vpn-windows)
+* [iPhone / iOS](https://www.expressvpn.com/vpn-download/vpn-ios)
+* [Android](https://www.expressvpn.com/vpn-download/vpn-android)
+* [Linux](https://www.expressvpn.com/vpn-download/vpn-linux)
+* [Routers](https://www.expressvpn.com/vpn-download/vpn-router)
+* [Apple TV](https://www.expressvpn.com/vpn-download/vpn-apple-tv)
+* [Fire Stick](https://www.expressvpn.com/vpn-download/vpn-fire-tv-stick)
+* [Android TV](https://www.expressvpn.com/vpn-download/vpn-android-tv)
+* [Chrome Extension](https://www.expressvpn.com/vpn-download/chrome-vpn)
 
-* [Features](https://www.expressvpn.com/features)
-* [Risk-Free VPN Trial](https://www.expressvpn.com/features/vpn-trial)
-* [Reality TV VPN](https://www.expressvpn.com/stream-reality-tv-shows)
-* [Plans and Pricing](https://www.expressvpn.com/order)
-
-* [105 Countries](https://www.expressvpn.com/vpn-server)
+* VPN Server Locations
+* [Servers in 105 Countries](https://www.expressvpn.com/vpn-server)
 * [US VPN](https://www.expressvpn.com/vpn-server/us-vpn)
 * [UK VPN](https://www.expressvpn.com/vpn-server/uk-vpn)
 * [Canada VPN](https://www.expressvpn.com/vpn-server/canada-vpn)
 * [Australia VPN](https://www.expressvpn.com/vpn-server/australia-vpn)
 
+* Features
+* [Explore All Features](https://www.expressvpn.com/features)
+* [Risk-Free VPN Trial](https://www.expressvpn.com/features/vpn-trial)
+* [Plans and Pricing](https://www.expressvpn.com/order)
+
 * Products
 * [Keys Password Manager](https://www.expressvpn.com/keys)
-* [Aircove Router](https://www.expressvpn.com/aircove)
+* [Aircove Routers](https://www.expressvpn.com/aircove)
 
-* Tools
-* [What Is My IP?](https://www.expressvpn.com/what-is-my-ip)
-* [Password Generator](https://www.expressvpn.com/password-generator)
-
-* [About ExpressVPN](https://www.expressvpn.com/about-us)
+* About ExpressVPN
+* [About Us](https://www.expressvpn.com/about-us)
 * [Trust Center](https://www.expressvpn.com/trust)
 * [Rights Center](https://www.expressvpn.com/rights-center)
 * [Security Audits](https://www.expressvpn.com/trust#security-audits)
@@ -470,14 +469,17 @@ You may also refer any questions regarding this Privacy Policy to our Group Data
 * [Influencers](https://www.expressvpn.com/influencers)
 * [Partners](https://www.expressvpn.com/partners)
 
+* Get Help
 * [Support Center](https://www.expressvpn.com/support/)
 * [VPN Setup Tutorials](https://www.expressvpn.com/support/vpn-setup)
 * [FAQ](https://www.expressvpn.com/support/troubleshooting/frequently-asked-questions/)
 * [Contact Us](https://www.expressvpn.com/#seopenchat)
 * [Buy VPN](https://www.expressvpn.com/order)
+* [Redeem Subscription Code](https://www.expressvpn.com/redeem)
 
 * Learn More
 * [What Is a VPN?](https://www.expressvpn.com/what-is-vpn)
+* [Where to Watch](https://www.expressvpn.com/where-to-watch)
 * [Top 5 VPN Uses](https://www.expressvpn.com/get-started)
 * [Blog](https://www.expressvpn.com/blog)
 * [English](#)
