@@ -135,6 +135,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431287.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.")](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
 
+[LDP and DPP inch closer together on economic policy cooperation](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/ldp-dpp-policy-meeting/ "LDP and DPP inch closer together on economic policy cooperation")
+
+  [![Democratic Party for the People Secretary-General Kazuya Shimba (left) and Liberal Democratic Party Secretary-General Hiroshi Moriyama meet in the Diet building in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431382.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People Secretary-General Kazuya Shimba (left) and Liberal Democratic Party Secretary-General Hiroshi Moriyama meet in the Diet building in Tokyo on Thursday.")](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/ldp-dpp-policy-meeting/ "LDP and DPP inch closer together on economic policy cooperation")
+
 [Dodgers win World Series after rallying from five runs down to beat Yankees in Game 5](https://www.japantimes.co.jp/sports/2024/10/31/baseball/mlb/dodgers-win-world-series/ "Dodgers win World Series after rallying from five runs down to beat Yankees in Game 5")
 
   [![The Dodgers celebrate with the World Series trophy after winning Game 5 at Yankee Stadium on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431369.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Dodgers celebrate with the World Series trophy after winning Game 5 at Yankee Stadium on Wednesday.")](https://www.japantimes.co.jp/sports/2024/10/31/baseball/mlb/dodgers-win-world-series/ "Dodgers win World Series after rallying from five runs down to beat Yankees in Game 5")
@@ -147,10 +151,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Plaintiffs seeking the right for same-sex couples to marry react Wednesday to the Tokyo High Court's ruling that Japan's ban on such marriages is unconstitutional.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431123.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Plaintiffs seeking the right for same-sex couples to marry react Wednesday to the Tokyo High Court's ruling that Japan's ban on such marriages is unconstitutional.")](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/same-sex-ruling-unconstitutional/ "Tokyo High Court rules same-sex marriage ban is unconstitutional")
 
-[Japan's rail fans disapprove of new Seishun 18 tickets](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
-
-  [![A man waits for a train at Ebisu Station in Tokyo on Oct. 4.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430906.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man waits for a train at Ebisu Station in Tokyo on Oct. 4.")](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
-
 Editors' Picks
 --------------
 
@@ -161,6 +161,14 @@ Editors' Picks
 By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
 
   [![A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431287.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.")](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[LDP and DPP inch closer together on economic policy cooperation](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/ldp-dpp-policy-meeting/ "LDP and DPP inch closer together on economic policy cooperation")
+
+By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
+
+  [![Democratic Party for the People Secretary-General Kazuya Shimba (left) and Liberal Democratic Party Secretary-General Hiroshi Moriyama meet in the Diet building in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431382.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People Secretary-General Kazuya Shimba (left) and Liberal Democratic Party Secretary-General Hiroshi Moriyama meet in the Diet building in Tokyo on Thursday.")](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/ldp-dpp-policy-meeting/ "LDP and DPP inch closer together on economic policy cooperation")
 
 [BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
 
@@ -184,14 +192,6 @@ By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin 
 
   [![Plaintiffs seeking the right for same-sex couples to marry react Wednesday to the Tokyo High Court's ruling that Japan's ban on such marriages is unconstitutional.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431123.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Plaintiffs seeking the right for same-sex couples to marry react Wednesday to the Tokyo High Court's ruling that Japan's ban on such marriages is unconstitutional.")](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/same-sex-ruling-unconstitutional/ "Tokyo High Court rules same-sex marriage ban is unconstitutional")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Japan's rail fans disapprove of new Seishun 18 tickets](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
-
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
-
-  [![A man waits for a train at Ebisu Station in Tokyo on Oct. 4.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430906.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man waits for a train at Ebisu Station in Tokyo on Oct. 4.")](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
-
 Podcast
 -------
 
@@ -211,9 +211,9 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,23 +253,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Deceptive 'bait-and-switch' Facebook groups snare U.S. voters](https://www.japantimes.co.jp/news/2024/11/01/world/politics/bait-and-swtich-facebook-us-voters/ "Deceptive 'bait-and-switch' Facebook groups snare U.S. voters")
+[Japan, EU launch defense and security tie-up amid mutual China concerns](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/eu-japan-defense-security-partnership/ "Japan, EU launch defense and security tie-up amid mutual China concerns")
 
-42 mins ago
+39 mins ago
 
-[Gifu police officer arrested over alleged sex with underage girl](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
+[Investors in Japan place — and hedge — their bets ahead of U.S. election](https://www.japantimes.co.jp/business/2024/11/01/markets/japan-us-election/ "Investors in Japan place — and hedge — their bets ahead of U.S. election")
 
-45 mins ago
+44 mins ago
 
-[Japan to see price hikes for 282 food products this month](https://www.japantimes.co.jp/business/2024/11/01/economy/november-price-hikes-food/ "Japan to see price hikes for 282 food products this month")
+[How Japan’s new kingmaker party won over young voters](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/ninivaggipoliticsyouth-vote-dpp/ "How Japan’s new kingmaker party won over young voters")
 
-58 mins ago
+49 mins ago
 
-[High-frequency traders get an extra 30 minutes for Japan stocks](https://www.japantimes.co.jp/business/2024/11/01/markets/japan-stocks-trading/ "High-frequency traders get an extra 30 minutes for Japan stocks")
+[Hotel worker found dead in Chiba in suspected murder](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/chiba-hotel-worker-murder/ "Hotel worker found dead in Chiba in suspected murder")
 
 1 hours ago
 
-[Investors take cover in Asia ahead of U.S. election](https://www.japantimes.co.jp/business/2024/11/01/markets/investors-hide-asia-us-election/ "Investors take cover in Asia ahead of U.S. election")
+[Nomura's profit beats estimates, though scandals cloud outlook](https://www.japantimes.co.jp/business/2024/11/01/companies/nomura-profits-beat-estimates/ "Nomura's profit beats estimates, though scandals cloud outlook")
 
 1 hours ago
 
