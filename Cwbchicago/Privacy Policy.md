@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Left-to-right-Marquell-Davis-Edmund-Singleton-and-Ramone-Bradley.-Chicago-Police-Department--326x245.jpg)](https://cwbchicago.com/2024/10/feds-slap-3-men-with-carjacking-charges-2-face-the-possibility-of-life-in-prison.html "Feds slap 3 men with carjacking charges. 2 face the possibility of life in prison.")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Tevon-Jackson-326x245.jpg)](https://cwbchicago.com/2024/10/concealed-carry-holder-charged-with-shooting-outside-loyola-red-line-station.html "Concealed carry holder charged with shooting outside Loyola Red Line station")
 
-Douglas
+Rogers Park
 
-### [Feds slap 3 men with carjacking charges. 2 face the possibility of life in prison.](https://cwbchicago.com/2024/10/feds-slap-3-men-with-carjacking-charges-2-face-the-possibility-of-life-in-prison.html "Feds slap 3 men with carjacking charges. 2 face the possibility of life in prison.")
+### [Concealed carry holder charged with shooting outside Loyola Red Line station](https://cwbchicago.com/2024/10/concealed-carry-holder-charged-with-shooting-outside-loyola-red-line-station.html "Concealed carry holder charged with shooting outside Loyola Red Line station")
 
-[October 29, 2024 7:11 PM](https://cwbchicago.com/2024/10)
+[October 30, 2024 7:02 PM](https://cwbchicago.com/2024/10)
 
-Federal prosecutors on Tuesday slapped three men with carjacking charges, saying they took a man’s car at gunpoint from a Far South Side gas station. Two of the men are accused of trying to carjack another driver but they couldn’t figure out how to operate the victim’s vehicle.[](https://cwbchicago.com/2024/10/feds-slap-3-men-with-carjacking-charges-2-face-the-possibility-of-life-in-prison.html "Feds slap 3 men with carjacking charges. 2 face the possibility of life in prison.")
+A judge on Wednesday detained a concealed carry holder after prosecutors accused the man of firing his gun during an argument, leaving two men injured outside the Loyola Red Line. But even in the court files, documents differ as to whether Tevon Jackson, 24, shot one man or two.[](https://cwbchicago.com/2024/10/concealed-carry-holder-charged-with-shooting-outside-loyola-red-line-station.html "Concealed carry holder charged with shooting outside Loyola Red Line station")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/PATRICK-H-SOMERVILLE-326x245.jpg)](https://cwbchicago.com/2024/10/man-followed-80-year-old-woman-into-lakeview-retirement-home-and-sexually-abused-her-prosecutors-allege.html "Man followed 80+ year old woman into Lakeview retirement home and sexually abused her, prosecutors allege")
+[![](https://cwbchicago.com/wp-content/uploads/2024/05/Snellling-brandon-johnson-326x245.jpg)](https://cwbchicago.com/2024/10/14-aldermen-cannot-and-will-not-vote-for-mayors-budget-without-the-return-of-shotspotter-letter.html "14 aldermen ‘cannot and will not’ vote for mayor’s budget without the return of ShotSpotter: letter")
 
-Lakeview
+Citywide
 
-### [Man followed 80+ year old woman into Lakeview retirement home and sexually abused her, prosecutors allege](https://cwbchicago.com/2024/10/man-followed-80-year-old-woman-into-lakeview-retirement-home-and-sexually-abused-her-prosecutors-allege.html "Man followed 80+ year old woman into Lakeview retirement home and sexually abused her, prosecutors allege")
+### [14 aldermen ‘cannot and will not’ vote for mayor’s budget without the return of ShotSpotter: letter](https://cwbchicago.com/2024/10/14-aldermen-cannot-and-will-not-vote-for-mayors-budget-without-the-return-of-shotspotter-letter.html "14 aldermen ‘cannot and will not’ vote for mayor’s budget without the return of ShotSpotter: letter")
 
-[October 29, 2024 4:17 PM](https://cwbchicago.com/2024/10)
+[October 30, 2024 10:49 AM](https://cwbchicago.com/2024/10)
 
-Prosecutors have accused a man of sexually abusing a woman more than 80 years old after following her into a Lakeview retirement center.[](https://cwbchicago.com/2024/10/man-followed-80-year-old-woman-into-lakeview-retirement-home-and-sexually-abused-her-prosecutors-allege.html "Man followed 80+ year old woman into Lakeview retirement home and sexually abused her, prosecutors allege")
+Fourteen Chicago aldermen have told Mayor Brandon Johnson that they “cannot and will not” vote for his 2025 budget if it does not include a renewal of the city’s ShotSpotter gunfire detection system. Of the seven demands listed in the group’s letter, four involve policing.[](https://cwbchicago.com/2024/10/14-aldermen-cannot-and-will-not-vote-for-mayors-budget-without-the-return-of-shotspotter-letter.html "14 aldermen ‘cannot and will not’ vote for mayor’s budget without the return of ShotSpotter: letter")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/alert-suspects-chicago-326x245.jpg)](https://cwbchicago.com/2024/10/cops-hunt-crew-responsible-for-15-robberies-and-carjackings-of-pedestrians-couriers-and-uber-drivers.html "Cops hunt crew responsible for 15 robberies and carjackings of pedestrians, couriers, and Uber drivers")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Shawn-Booker-Lyons-Denn.jp_-326x245.jpg)](https://cwbchicago.com/2024/10/charges-filed-in-summertime-shooting-at-lyons-den-hookah-lounge.html "Charges filed in summertime shooting at Lyon’s Den hookah lounge")
 
-Auburn Gresham
+West Town
 
-### [Cops hunt crew responsible for 15 robberies and carjackings of pedestrians, couriers, and Uber drivers](https://cwbchicago.com/2024/10/cops-hunt-crew-responsible-for-15-robberies-and-carjackings-of-pedestrians-couriers-and-uber-drivers.html "Cops hunt crew responsible for 15 robberies and carjackings of pedestrians, couriers, and Uber drivers")
+### [Charges filed in summertime shooting at Lyon’s Den hookah lounge](https://cwbchicago.com/2024/10/charges-filed-in-summertime-shooting-at-lyons-den-hookah-lounge.html "Charges filed in summertime shooting at Lyon’s Den hookah lounge")
 
-[October 29, 2024 7:38 AM](https://cwbchicago.com/2024/10)
+[October 30, 2024 5:16 AM](https://cwbchicago.com/2024/10)
 
-Cops are on the lookout for a group responsible for at least 15 robberies and carjackings in Auburn Gresham. The group seems willing to rob just about anyone, mugging people on the street, robbing delivery couriers, and carjacking Uber drivers in a small corner of the neighborhood.[](https://cwbchicago.com/2024/10/cops-hunt-crew-responsible-for-15-robberies-and-carjackings-of-pedestrians-couriers-and-uber-drivers.html "Cops hunt crew responsible for 15 robberies and carjackings of pedestrians, couriers, and Uber drivers")
+Prosecutors have charged a man with firing a gun into a West Town hookah lounge this summer, leading to the city’s summary closure of the business. Three people were shot during the incident at Lyon’s Den, 2123 West Division, early on July 19.[](https://cwbchicago.com/2024/10/charges-filed-in-summertime-shooting-at-lyons-den-hookah-lounge.html "Charges filed in summertime shooting at Lyon’s Den hookah lounge")
 
 Search
 
