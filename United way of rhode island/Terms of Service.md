@@ -191,11 +191,11 @@ Press Releases
 
 25 Oct
 
-#### [United Way of RI Honors Local Champions at 98th Annual Celebration, Highlights Work Making Rhode Island Stronger](https://www.unitedwayri.org/press-release/united-way-of-ri-honors-local-champions-at-98th-annual-celebration-highlights-work-making-rhode-island-stronger/ "United Way of RI Honors Local Champions at 98th Annual Celebration, Highlights Work Making Rhode Island Stronger")
+#### [United Way Honors Local Champions at 98th Annual Celebration](https://www.unitedwayri.org/press-release/united-way-of-rhode-island-honors-local-champions-at-98th-annual-celebration-highlights-work-making-r-i-stronger/ "United Way Honors Local Champions at 98th Annual Celebration")
 
-Providence, R.I. (October 22, 2024) – It’s been a year of creating a stronger, more equitable Rhode Island, and as United Way used its 98th Annual Celebration to cast light on the change made possible when our community works together, the organization also honored local champions who have gone above and beyond in service. Read \[…\]
+It’s been a year of creating a stronger, more equitable Rhode Island, and as United Way used its 98th Annual Celebration to cast light on the change made possible when our community works together, the organization also honored local champions who have gone above and beyond in service.
 
-[Read more](https://www.unitedwayri.org/press-release/united-way-of-ri-honors-local-champions-at-98th-annual-celebration-highlights-work-making-rhode-island-stronger/ "United Way of RI Honors Local Champions at 98th Annual Celebration, Highlights Work Making Rhode Island Stronger")
+[Read more](https://www.unitedwayri.org/press-release/united-way-of-rhode-island-honors-local-champions-at-98th-annual-celebration-highlights-work-making-r-i-stronger/ "United Way Honors Local Champions at 98th Annual Celebration")
 
 24 Oct
 
