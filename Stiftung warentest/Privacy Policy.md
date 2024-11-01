@@ -809,20 +809,20 @@ Weitere spannende Themen
 Neueste Tests
 
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
+* [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 
 test.de entdecken
 
-* [Daten­handel auf Finanzportalen: Dubiose Daten­dealer im Web](https://www.test.de/Datenhandel-auf-Finanzportalen-Dubiose-Datendealer-5965071-0/ "Datenhandel auf Finanzportalen - Dubiose Datendealer im Web")
-* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
-* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
-* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
-* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
-* [Fakten zu H5N1: Was wir über die Vogelgrippe wissen](https://www.test.de/Fakten-zu-H5N1-Was-wir-ueber-die-Vogelgrippe-wissen-6136613-0/ "Fakten zu H5N1 - Was wir über die Vogelgrippe wissen")
+* [Testsiegel Stiftung Warentest: Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen](https://www.test.de/Nachtests-Diese-Produkte-duerfen-das-Testsiegel-nicht-mehr-tragen-5022611-0/ "Testsiegel Stiftung Warentest - Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
+* [Leserfall: Wenn Paypal ein Kunden­konto einfriert](https://www.test.de/Leserfall-Wenn-Paypal-ein-Kundenkonto-einfriert-5955274-0/ "Leserfall - Wenn Paypal ein Kundenkonto einfriert")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Kabel­fernsehen und Gebühren­pflicht: Jetzt entscheiden Mieter selbst](https://www.test.de/kabelfernsehen-nebenkostenprivileg-abgeschafft-6029892-0/ "Kabelfernsehen und Gebührenpflicht - Jetzt entscheiden Mieter selbst")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
 
 Fußbereich
 
@@ -3851,58 +3851,58 @@ Weitere spannende Themen
 Neueste Tests
 
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
+* [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 
 test.de entdecken
 
-* [Daten­handel auf Finanzportalen: Dubiose Daten­dealer im Web](https://www.test.de/Datenhandel-auf-Finanzportalen-Dubiose-Datendealer-5965071-0/ "Datenhandel auf Finanzportalen - Dubiose Datendealer im Web")
-* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
-* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
-* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
-* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
-* [Fakten zu H5N1: Was wir über die Vogelgrippe wissen](https://www.test.de/Fakten-zu-H5N1-Was-wir-ueber-die-Vogelgrippe-wissen-6136613-0/ "Fakten zu H5N1 - Was wir über die Vogelgrippe wissen")
+* [Testsiegel Stiftung Warentest: Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen](https://www.test.de/Nachtests-Diese-Produkte-duerfen-das-Testsiegel-nicht-mehr-tragen-5022611-0/ "Testsiegel Stiftung Warentest - Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
+* [Leserfall: Wenn Paypal ein Kunden­konto einfriert](https://www.test.de/Leserfall-Wenn-Paypal-ein-Kundenkonto-einfriert-5955274-0/ "Leserfall - Wenn Paypal ein Kundenkonto einfriert")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Kabel­fernsehen und Gebühren­pflicht: Jetzt entscheiden Mieter selbst](https://www.test.de/kabelfernsehen-nebenkostenprivileg-abgeschafft-6029892-0/ "Kabelfernsehen und Gebührenpflicht - Jetzt entscheiden Mieter selbst")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
 
 Weitere spannende Themen
 
 Neueste Tests
 
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
+* [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 
 test.de entdecken
 
-* [Daten­handel auf Finanzportalen: Dubiose Daten­dealer im Web](https://www.test.de/Datenhandel-auf-Finanzportalen-Dubiose-Datendealer-5965071-0/ "Datenhandel auf Finanzportalen - Dubiose Datendealer im Web")
-* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
-* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
-* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
-* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
-* [Fakten zu H5N1: Was wir über die Vogelgrippe wissen](https://www.test.de/Fakten-zu-H5N1-Was-wir-ueber-die-Vogelgrippe-wissen-6136613-0/ "Fakten zu H5N1 - Was wir über die Vogelgrippe wissen")
+* [Testsiegel Stiftung Warentest: Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen](https://www.test.de/Nachtests-Diese-Produkte-duerfen-das-Testsiegel-nicht-mehr-tragen-5022611-0/ "Testsiegel Stiftung Warentest - Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
+* [Leserfall: Wenn Paypal ein Kunden­konto einfriert](https://www.test.de/Leserfall-Wenn-Paypal-ein-Kundenkonto-einfriert-5955274-0/ "Leserfall - Wenn Paypal ein Kundenkonto einfriert")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Kabel­fernsehen und Gebühren­pflicht: Jetzt entscheiden Mieter selbst](https://www.test.de/kabelfernsehen-nebenkostenprivileg-abgeschafft-6029892-0/ "Kabelfernsehen und Gebührenpflicht - Jetzt entscheiden Mieter selbst")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
 
 Neueste Tests
 
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
+* [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 
 test.de entdecken
 
-* [Daten­handel auf Finanzportalen: Dubiose Daten­dealer im Web](https://www.test.de/Datenhandel-auf-Finanzportalen-Dubiose-Datendealer-5965071-0/ "Datenhandel auf Finanzportalen - Dubiose Datendealer im Web")
-* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
-* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
-* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
-* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
-* [Fakten zu H5N1: Was wir über die Vogelgrippe wissen](https://www.test.de/Fakten-zu-H5N1-Was-wir-ueber-die-Vogelgrippe-wissen-6136613-0/ "Fakten zu H5N1 - Was wir über die Vogelgrippe wissen")
+* [Testsiegel Stiftung Warentest: Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen](https://www.test.de/Nachtests-Diese-Produkte-duerfen-das-Testsiegel-nicht-mehr-tragen-5022611-0/ "Testsiegel Stiftung Warentest - Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
+* [Leserfall: Wenn Paypal ein Kunden­konto einfriert](https://www.test.de/Leserfall-Wenn-Paypal-ein-Kundenkonto-einfriert-5955274-0/ "Leserfall - Wenn Paypal ein Kundenkonto einfriert")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Kabel­fernsehen und Gebühren­pflicht: Jetzt entscheiden Mieter selbst](https://www.test.de/kabelfernsehen-nebenkostenprivileg-abgeschafft-6029892-0/ "Kabelfernsehen und Gebührenpflicht - Jetzt entscheiden Mieter selbst")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
 
 Service Stiftung Warentest
 
