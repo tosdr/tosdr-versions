@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![listening to speech](/siteassets/resources/images/-news-centre/thumbnail-images/about-ofcom/listening-to-speech-web.png?width=1920&height=1085&quality=80)
+
+### Tamara Ingram OBE and Lord Allan of Hallam join Ofcom Board
+
+1 November 2024](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/tamara-ingram-obe-and-lord-allan-of-hallam-join-ofcom-board/)
+
 [![A close-up photo of a camera lens](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/sanction-thumbnail.jpg?width=1920&height=1085&quality=80)
 
 ### Ofcom fines GB News £100,000
@@ -150,12 +156,6 @@
 ### Global regulators publish index of online safety powers
 
 24 October 2024](https://www.ofcom.org.uk/about-ofcom/international-work/global-regulators-publish-index-of-online-safety-powers/)
-
-[![Man tuning DAB radio](/siteassets/resources/images/-news-centre/body-images/2024/turn-up-and-tune-into-small-scale-dab/turn-up-and-tune-into-small-scale-dab-hero-1336--560px.png?width=1920&height=1085&quality=80)
-
-### Hundreds of new local stations take to the digital airwaves
-
-22 October 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/digital-radio/turn-up-and-tune-into-small-scale-dab/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/?language=cy "Switch to Welsh")
 
