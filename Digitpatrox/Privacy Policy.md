@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Thursday, October 31 2024
+Friday, November 1 2024
 
 Latest
 
-* [Anthropic’s Claude AI chatbot now has a desktop app](https://digitpatrox.com/anthropics-claude-ai-chatbot-now-has-a-desktop-app/)
-* [NYT Connections Today: Hints and Answers for November 1, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-1-2024/)
-* [How to use a VPN with Starlink: The best VPNs for Starlink](https://digitpatrox.com/how-to-use-a-vpn-with-starlink-the-best-vpns-for-starlink/)
-* [“Missed expectations” are driving the cloud repatriation trend – but it’s not as bad as you might think](https://digitpatrox.com/missed-expectations-are-driving-the-cloud-repatriation-trend-but-its-not-as-bad-as-you-might-think/)
-* [Microsoft reports better-than-expected results; AI products show record growth – Computerworld](https://digitpatrox.com/microsoft-reports-better-than-expected-results-ai-products-show-record-growth-computerworld/)
-* [Why Getting Your Neighborhood Declared a Historic District Is a Bad Idea](https://digitpatrox.com/why-getting-your-neighborhood-declared-a-historic-district-is-a-bad-idea/)
-* [Vendor Spotlight: Opmantek](https://digitpatrox.com/vendor-spotlight-opmantek/)
-* [How to install Linux GUI apps on Windows 11, 10](https://digitpatrox.com/how-to-install-linux-gui-apps-on-windows-11-10/)
-* [Best Portable Carpet Cleaners of 2024](https://digitpatrox.com/best-portable-carpet-cleaners-of-2024/)
-* [The New Mac Mini Is Great, but Apple Needs to Make This for It](https://digitpatrox.com/the-new-mac-mini-is-great-but-apple-needs-to-make-this-for-it/)
+* [iPhone 16 sales look to be off to a strong start, as Apple announces record revenues](https://digitpatrox.com/iphone-16-sales-look-to-be-off-to-a-strong-start-as-apple-announces-record-revenues/)
+* [Sophos reveals 5-year battle with Chinese hackers attacking network devices](https://digitpatrox.com/sophos-reveals-5-year-battle-with-chinese-hackers-attacking-network-devices/)
+* [The iPhone 17 might use Apple’s own Wi-Fi chips](https://digitpatrox.com/the-iphone-17-might-use-apples-own-wi-fi-chips/)
+* [Today’s Wordle Answer and Hints (November 1, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-1-2024/)
+* [11 Android Quick Settings additions that’ll supercharge your efficiency – Computerworld](https://digitpatrox.com/11-android-quick-settings-additions-thatll-supercharge-your-efficiency-computerworld/)
+* [Croissant Is an iPhone App That Posts to Mastodon, Threads, and Bluesky at Once](https://digitpatrox.com/croissant-is-an-iphone-app-that-posts-to-mastodon-threads-and-bluesky-at-once/)
+* [How to install WSL on Windows 10 (2024)](https://digitpatrox.com/how-to-install-wsl-on-windows-10-2024/)
+* [Best Handheld Leaf Blowers of 2024](https://digitpatrox.com/best-handheld-leaf-blowers-of-2024/)
+* [Spot 5 Common Crypto Scams Before It’s Too Late](https://digitpatrox.com/spot-5-common-crypto-scams-before-its-too-late/)
+* [Two notorious infostealer malware operations were just knocked offline](https://digitpatrox.com/two-notorious-infostealer-malware-operations-were-just-knocked-offline/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/UMBzTIDhPEBx1ObYAmlzwXsra9Q=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25263505/STK_414_AI_C.jpg)](https://digitpatrox.com/anthropics-claude-ai-chatbot-now-has-a-desktop-app/)
+* [![](https://cdn.mos.cms.futurecdn.net/TxQHxw7ALr3cTM2UnWnM4e-1200-80.jpg)](https://digitpatrox.com/iphone-16-sales-look-to-be-off-to-a-strong-start-as-apple-announces-record-revenues/)
     
-    [Anthropic’s Claude AI chatbot now has a desktop app](https://digitpatrox.com/anthropics-claude-ai-chatbot-now-has-a-desktop-app/)
+    [iPhone 16 sales look to be off to a strong start, as Apple announces record revenues](https://digitpatrox.com/iphone-16-sales-look-to-be-off-to-a-strong-start-as-apple-announces-record-revenues/)
     
-    9 seconds ago
+    13 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/07/NYT-Connections-Today-Featured.jpg?w=1250&quality=75)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-1-2024/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/05/22/Chinese_hackers.png)](https://digitpatrox.com/sophos-reveals-5-year-battle-with-chinese-hackers-attacking-network-devices/)
     
-    [NYT Connections Today: Hints and Answers for November 1, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-1-2024/)
+    [Sophos reveals 5-year battle with Chinese hackers attacking network devices](https://digitpatrox.com/sophos-reveals-5-year-battle-with-chinese-hackers-attacking-network-devices/)
     
-    15 mins ago
+    40 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Best-VPN-for-Starlink.jpg)](https://digitpatrox.com/how-to-use-a-vpn-with-starlink-the-best-vpns-for-starlink/)
+* [![](https://cdn.vox-cdn.com/thumbor/GO4gvqNZ1LRy8Pwz0XQMjTi3L1M=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25697380/STK071_APPLE_A.jpg)](https://digitpatrox.com/the-iphone-17-might-use-apples-own-wi-fi-chips/)
     
-    [How to use a VPN with Starlink: The best VPNs for Starlink](https://digitpatrox.com/how-to-use-a-vpn-with-starlink-the-best-vpns-for-starlink/)
+    [The iPhone 17 might use Apple’s own Wi-Fi chips](https://digitpatrox.com/the-iphone-17-might-use-apples-own-wi-fi-chips/)
+    
+    58 mins ago
+    
+* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-1-2024/)
+    
+    [Today’s Wordle Answer and Hints (November 1, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-1-2024/)
     
     1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/d4Q6FKh9ofCeeEtELW6vFm-1200-80.jpg)](https://digitpatrox.com/missed-expectations-are-driving-the-cloud-repatriation-trend-but-its-not-as-bad-as-you-might-think/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/1625588-0-02929400-1730303246-android-quick-settings-tiles.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/11-android-quick-settings-additions-thatll-supercharge-your-efficiency-computerworld/)
     
-    [“Missed expectations” are driving the cloud repatriation trend – but it’s not as bad as you might think](https://digitpatrox.com/missed-expectations-are-driving-the-cloud-repatriation-trend-but-its-not-as-bad-as-you-might-think/)
+    [11 Android Quick Settings additions that’ll supercharge your efficiency – Computerworld](https://digitpatrox.com/11-android-quick-settings-additions-thatll-supercharge-your-efficiency-computerworld/)
     
-    2 hours ago
-    
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3596210-0-16389000-1730394270-Microsift.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/microsoft-reports-better-than-expected-results-ai-products-show-record-growth-computerworld/)
-    
-    [Microsoft reports better-than-expected results; AI products show record growth – Computerworld](https://digitpatrox.com/microsoft-reports-better-than-expected-results-ai-products-show-record-growth-computerworld/)
-    
-    2 hours ago
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [9 seconds ago
+* [13 mins ago
     
-    ### Anthropic’s Claude AI chatbot now has a desktop app](https://digitpatrox.com/anthropics-claude-ai-chatbot-now-has-a-desktop-app/)
-* [15 mins ago
+    ### iPhone 16 sales look to be off to a strong start, as Apple announces record revenues](https://digitpatrox.com/iphone-16-sales-look-to-be-off-to-a-strong-start-as-apple-announces-record-revenues/)
+* [40 mins ago
     
-    ### NYT Connections Today: Hints and Answers for November 1, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-1-2024/)
-* [1 hour ago
+    ### Sophos reveals 5-year battle with Chinese hackers attacking network devices](https://digitpatrox.com/sophos-reveals-5-year-battle-with-chinese-hackers-attacking-network-devices/)
+* [58 mins ago
     
-    ### How to use a VPN with Starlink: The best VPNs for Starlink](https://digitpatrox.com/how-to-use-a-vpn-with-starlink-the-best-vpns-for-starlink/)
+    ### The iPhone 17 might use Apple’s own Wi-Fi chips](https://digitpatrox.com/the-iphone-17-might-use-apples-own-wi-fi-chips/)
 
 Most Popular Topics
 
-* [August 21, 2024
+* [September 10, 2024
     
-    ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
-* [August 14, 2024
+    ### Five Reasons to ‘Upgrade’ a Credit Card (and When to Apply for a New One)](https://digitpatrox.com/five-reasons-to-upgrade-a-credit-card-and-when-to-apply-for-a-new-one/)
+* [September 26, 2024
     
-    ### Convenience has a cost, privacy has iPhone – Computerworld](https://digitpatrox.com/convenience-has-a-cost-privacy-has-iphone-computerworld/)
-* [September 14, 2024
+    ### Apple Intelligence in Europe? You might be waiting for a while – Computerworld](https://digitpatrox.com/apple-intelligence-in-europe-you-might-be-waiting-for-a-while-computerworld/)
+* [September 19, 2024
     
-    ### 5 Best Retail Accounting Software for 2024](https://digitpatrox.com/5-best-retail-accounting-software-for-2024/)
+    ### Today’s Wordle Answer and Hints (September 20, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-20-2024/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [4 hours ago
     
-    ### Vendor Spotlight: Opmantek](https://digitpatrox.com/vendor-spotlight-opmantek/)
-* [3 hours ago
+    ### How to install WSL on Windows 10 (2024)](https://digitpatrox.com/how-to-install-wsl-on-windows-10-2024/)
+* [4 hours ago
     
-    ### How to install Linux GUI apps on Windows 11, 10](https://digitpatrox.com/how-to-install-linux-gui-apps-on-windows-11-10/)
-* [3 hours ago
+    ### Best Handheld Leaf Blowers of 2024](https://digitpatrox.com/best-handheld-leaf-blowers-of-2024/)
+* [4 hours ago
     
-    ### Best Portable Carpet Cleaners of 2024](https://digitpatrox.com/best-portable-carpet-cleaners-of-2024/)
+    ### Spot 5 Common Crypto Scams Before It’s Too Late](https://digitpatrox.com/spot-5-common-crypto-scams-before-its-too-late/)
 
 Most Viewed Topics
 
