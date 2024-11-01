@@ -210,15 +210,7 @@ Entenda
 
 Gisele Bündchen não deve casar com namorado por incompatibilidade financeira
 
-Gisele Bündchen não deve casar com namorado por incompatibilidade financeira](https://www.tnh1.com.br/noticia/nid/gisele-buendchen-nao-deve-casar-com-namorado-por-incompatibilidade-financeira/ "Gisele Bündchen não deve casar com namorado por incompatibilidade financeira")[![Dentista relata que perdeu a visão após tomar banho sem tirar a lente de contato](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/f/csm_dentista-perde-visao-tomou-banho-lente-contato-arquivo-pessoal_125aae2e11.jpg)
-
-27 anos
-
-27 anos
-
-Dentista relata que perdeu a visão após tomar banho sem tirar a lente de contato
-
-Dentista relata que perdeu a visão após tomar banho sem tirar a lente de contato](https://www.tnh1.com.br/noticia/nid/dentista-relata-que-perdeu-a-visao-apos-tomar-banho-sem-tirar-a-lente-de-contato/ "Dentista relata que perdeu a visão após tomar banho sem tirar a lente de contato")[![Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/4/csm_jovem_21_anos_corpo_encontrado_393e8d99e5.jpg)
+Gisele Bündchen não deve casar com namorado por incompatibilidade financeira](https://www.tnh1.com.br/noticia/nid/gisele-buendchen-nao-deve-casar-com-namorado-por-incompatibilidade-financeira/ "Gisele Bündchen não deve casar com namorado por incompatibilidade financeira")[![Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/4/csm_jovem_21_anos_corpo_encontrado_393e8d99e5.jpg)
 
 NO VERGEL
 
@@ -226,15 +218,23 @@ NO VERGEL
 
 Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros
 
-Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros](https://www.tnh1.com.br/noticia/nid/corpo-de-jovem-de-21-anos-desaparecida-ha-quatro-dias-e-encontrado-com-marcas-de-tiros/ "Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros")[![Série B: veja as chances de acesso e risco de queda após 34ª rodada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/8/csm_Coritiba_x_CRB_-_Serie_B_2024_-_foto_Divulgacao_CRB_95804a4337.jpg)
+Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros](https://www.tnh1.com.br/noticia/nid/corpo-de-jovem-de-21-anos-desaparecida-ha-quatro-dias-e-encontrado-com-marcas-de-tiros/ "Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros")[![Vídeo: mulher sofre tentativa de estupro e é agredida com série de socos na porta de casa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/f/csm_mulher-agredida-tentativa-estupro-jacintinho_2f4484dbfe.jpg)
 
-projeções
+no jacintinho
 
-projeções
+no jacintinho
 
-Série B: veja as chances de acesso e risco de queda após 34ª rodada
+Vídeo: mulher sofre tentativa de estupro e é agredida com série de socos na porta de casa
 
-Série B: veja as chances de acesso e risco de queda após 34ª rodada](https://www.tnh1.com.br/noticia/nid/serie-b-veja-as-chances-de-acesso-e-risco-de-queda-apos-34a-rodada/ "Série B: veja as chances de acesso e risco de queda após 34ª rodada")
+Vídeo: mulher sofre tentativa de estupro e é agredida com série de socos na porta de casa](https://www.tnh1.com.br/noticia/nid/video-mulher-sofre-tentativa-de-estupro-e-e-agredida-com-serie-de-socos-na-porta-de-casa/ "Vídeo: mulher sofre tentativa de estupro e é agredida com série de socos na porta de casa")[![Príncipe William tem desavença com 'irmão' na Família Real e Natal promete ser tenso, diz site](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/7/csm_principe-William-reproducao-redes-sociais_d0a0c4b0c7.jpg)
+
+não é o harry
+
+não é o harry
+
+Príncipe William tem desavença com 'irmão' na Família Real e Natal promete ser tenso, diz site
+
+Príncipe William tem desavença com 'irmão' na Família Real e Natal promete ser tenso, diz site](https://www.tnh1.com.br/noticia/nid/principe-william-tem-desavenca-com-irmao-na-familia-real-e-natal-promete-ser-tenso-diz-site/ "Príncipe William tem desavença com 'irmão' na Família Real e Natal promete ser tenso, diz site")
 
 [![A amiga de Kamala Harris que sofreu abuso sexual e inspirou carreira de promotora da candidata](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/8/csm_kamala-amiga-reproducao-BBC-News_26b52fda65.jpg)
 
