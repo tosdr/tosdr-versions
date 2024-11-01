@@ -240,52 +240,10 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### New TLD's available
-
-#### Find the domain name that's right for you [here!](https://www.dynu.com/ControlPanel/AddDomainRegistration)
+#### Get started with our public cloud! Deliver computing services - servers, data, networking, software and more - over the internet (“the cloud”).
 
   
-
-![New TLD](/content/images/content/strip/tld/chat.png)
-
-![New TLD](/content/images/content/strip/tld/click.png)
-
-![New TLD](/content/images/content/strip/tld/xyz.png)
-
-![New TLD](/content/images/content/strip/tld/HOSTING.png)
-
-![New TLD](/content/images/content/strip/tld/ninja.png)
-
-![New TLD](/content/images/content/strip/tld/world.png)
-
-![New TLD](/content/images/content/strip/tld/systems.png)
-
-![New TLD](/content/images/content/strip/tld/website.png)
-
-![New TLD](/content/images/content/strip/tld/dentist.png)
-
-![New TLD](/content/images/content/strip/tld/lawyer.png)
-
-![New TLD](/content/images/content/strip/tld/engineer.png)
-
-![New TLD](/content/images/content/strip/tld/digital.png)
-
-![New TLD](/content/images/content/strip/tld/tech.png)
-
-![New TLD](/content/images/content/strip/tld/computer.png)
-
-![New TLD](/content/images/content/strip/tld/mobi.png)
-
-![New TLD](/content/images/content/strip/tld/name.png)
-
-![New TLD](/content/images/content/strip/tld/space.png)
-
-![New TLD](/content/images/content/strip/tld/directory.png)
-
-![New TLD](/content/images/content/strip/tld/domains.png)
-
-![New TLD](/content/images/content/strip/tld/agency.png)
-
+[Learn More](https://www.dynu.com/Cloud-VPS-Phoenix)  
   
 
 ### News
