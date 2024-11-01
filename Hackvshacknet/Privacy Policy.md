@@ -220,18 +220,18 @@ This site is protected by FingerprintJS and its [privacy policy](https://dev.fin
 
 ### Newest members
 
+* [![kwex](/data/avatars/s/109/109170.jpg?1730447646)](http://hackvshack.net/members/kwex.109170/)
+* [![nikitosshow](/data/avatars/s/109/109169.jpg?1730447215)](http://hackvshack.net/members/nikitosshow.109169/)
+* [![14525125](/data/avatars/s/109/109168.jpg?1730444645)](http://hackvshack.net/members/14525125.109168/)
+* [](http://hackvshack.net/members/1234543253.109167/)
+* [![DYL3SS](/data/avatars/s/109/109166.jpg?1730442111)](http://hackvshack.net/members/dyl3ss.109166/)
+* [![glocksy](/data/avatars/s/109/109165.jpg?1730434050)](http://hackvshack.net/members/glocksy.109165/)
+* [](http://hackvshack.net/members/yakul.109164/)
+* [](http://hackvshack.net/members/trusttheiord.109163/)
+* [](http://hackvshack.net/members/scotth2000.109162/)
 * [](http://hackvshack.net/members/valkrivi14.109161/)
 * [![frankito24](/data/avatars/s/109/109160.jpg?1730424040)](http://hackvshack.net/members/frankito24.109160/)
 * [![wwad](/data/avatars/s/109/109159.jpg?1730423935)](http://hackvshack.net/members/wwad.109159/)
-* [![necilveeks](/data/avatars/s/109/109158.jpg?1730422552)](http://hackvshack.net/members/necilveeks.109158/)
-* [![RebelRaptor](/data/avatars/s/109/109157.jpg?1730421282)](http://hackvshack.net/members/rebelraptor.109157/)
-* [![eelovek](/data/avatars/s/109/109156.jpg?1730420362)](http://hackvshack.net/members/eelovek.109156/)
-* [![dankamalin](/data/avatars/s/109/109155.jpg?1730419829)](http://hackvshack.net/members/dankamalin.109155/)
-* [![juanddosed](/data/avatars/s/109/109154.jpg?1730419112)](http://hackvshack.net/members/juanddosed.109154/)
-* [![hahaur](/data/avatars/s/109/109153.jpg?1730416390)](http://hackvshack.net/members/hahaur.109153/)
-* [](http://hackvshack.net/members/adr1anst3fan.109152/)
-* [![qworex](/data/avatars/s/109/109151.jpg?1730416136)](http://hackvshack.net/members/qworex.109151/)
-* [![Seakly121](/data/avatars/s/109/109150.jpg?1730415519)](http://hackvshack.net/members/seakly121.109150/)
 
 ### Partners
 
@@ -255,15 +255,15 @@ Threads
 
 Messages
 
-22,905
+22,906
 
 Members
 
-109,161
+109,170
 
 Latest member
 
-[valkrivi14](http://hackvshack.net/members/valkrivi14.109161/)
+[kwex](http://hackvshack.net/members/kwex.109170/)
 
 Most visitors online was 4044 , on 21 Oct 2024
 
@@ -271,15 +271,15 @@ Most visitors online was 4044 , on 21 Oct 2024
 
 Members online
 
-33
+30
 
 Guests online
 
-309
+295
 
 Total visitors
 
-342
+325
 
 Totals may include hidden visitors.
 
