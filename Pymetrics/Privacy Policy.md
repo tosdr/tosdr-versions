@@ -473,7 +473,7 @@ The General Data Protection Regulation (GDPR) is a new comprehensive data protec
 
 [Why Harver](https://harver.com/why-harver/)
 
-* [Predictive Assessment & Matching](https://www.pymetrics.ai/why-harver/predictive-assessment-matching/)
+* [Predictive Assessments & Matching](https://www.pymetrics.ai/why-harver/predictive-assessment-matching/)
 * [Candidate Experience](https://www.pymetrics.ai/why-harver/candidate-experience/)
 * [Automation](https://www.pymetrics.ai/why-harver/automation/)
 * [Business Insights](https://www.pymetrics.ai/why-harver/business-insights/)
