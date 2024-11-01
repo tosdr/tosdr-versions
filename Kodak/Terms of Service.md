@@ -133,7 +133,7 @@ You understand and agree that you are personally responsible for your behavior o
 Privacy
 -------
 
-Click [here](https://www.kodak.com/en/company/page/privacy/) to see Kodak's Privacy Policy.
+Click [here](https://www.kodak.com/en/company/page/privacy-old/) to see Kodak's Privacy Policy.
 
 User Conduct
 ------------
