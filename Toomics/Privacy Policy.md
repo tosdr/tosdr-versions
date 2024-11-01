@@ -24,7 +24,7 @@ Sign in
 * [_Language_
     
     English](javascript:;)
-* [_Customer Service_](https://toomics.com/en/help/notice_list)
+* [_Help Center_](https://toomics.com/en/help/zendesk)
 
 dropdown menu
 
@@ -130,21 +130,6 @@ Are you over 18?
 Choose three or more of your favorite genres!
 
 Cancel OK
-
-Customer Service
-================
-
-Do you need help?
-
-* [Notifications](https://toomics.com/en/help/notice_list)
-* [FAQ](https://toomics.com/en/help/faq)
-* [1:1 Q&A](javascript:;)
-* [My previous queries](javascript:;)
-* [Terms of Use](https://toomics.com/en/help/access_terms)
-* [Privacy Policy](https://toomics.com/en/help/private_terms)
-
-Privacy Policy
-==============
 
 **Privacy Policy**
 
@@ -255,7 +240,7 @@ Provision
 
 Toomics Global uses cookies to personalize your experience, to show you ads based on your interests, and for measurements and analytics purposes. By using our website and services, you agree to our use of cookies as described in our [Privacy Policy](https://toomics.com/en/help/private_terms)
 
-[Terms of Use](https://toomics.com/en/help/access_terms) [Privacy Policy](https://toomics.com/en/help/private_terms) [Notifications](https://toomics.com/en/help/notice_list) [FAQ](https://toomics.com/en/help/faq)
+[Terms of Use](https://toomics.com/en/help/access_terms) [Privacy Policy](https://toomics.com/en/help/private_terms) [Notifications](https://toomics.com/en/help/zendesk) [FAQ](https://toomics.com/en/help/zendesk)
 
 English
 
