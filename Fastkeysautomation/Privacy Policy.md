@@ -13,7 +13,7 @@ FastKeys Documentation
 
 1. Introduction
 
-[](https://fastkeysautomation.com/documentation5/Installation.html "Installation")[](https://fastkeysautomation.com/documentation5/FAQ.html "FAQ")
+[](https://fastkeysautomation.com/documentation5/TermsandConditions.html "Terms and Conditions")[](https://fastkeysautomation.com/documentation5/FAQ.html "FAQ")
 
 Privacy Policy
 --------------
