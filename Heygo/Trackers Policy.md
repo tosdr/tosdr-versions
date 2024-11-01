@@ -541,6 +541,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![8 fascinating tours where you can really get to know a country](https://media.restless.co.uk/uploads/2024/10/fascinating-tours-where-you-can-really-get-to-know-a-country-768x349.jpg)](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/)
+
+### [8 fascinating tours where you can really get to know a country](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/) 
+
+[Read More »](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/)
+
 [![11 sunny spots five hours or less from the UK](https://media.restless.co.uk/uploads/2024/10/sunny-spots-five-hours-or-less-from-the-uk-768x365.jpg)](https://restless.co.uk/travel/sunny-spots-five-hours-or-less-from-the-uk/)
 
 ### [11 sunny spots five hours or less from the UK](https://restless.co.uk/travel/sunny-spots-five-hours-or-less-from-the-uk/)
@@ -570,12 +576,6 @@ New in travel
 ### [12 of the best last-minute holiday destinations](https://restless.co.uk/travel/the-best-last-minute-holiday-destinations/)
 
 [Read More »](https://restless.co.uk/travel/the-best-last-minute-holiday-destinations/)
-
-[![9 of the best travel destinations for 2025](https://media.restless.co.uk/uploads/2024/10/9-of-the-best-travel-destinations-for-2025-768x575.jpg)](https://restless.co.uk/travel/the-best-travel-destinations-for-2025/)
-
-### [9 of the best travel destinations for 2025](https://restless.co.uk/travel/the-best-travel-destinations-for-2025/)
-
-[Read More »](https://restless.co.uk/travel/the-best-travel-destinations-for-2025/)
 
 Popular travel guides
 ---------------------
