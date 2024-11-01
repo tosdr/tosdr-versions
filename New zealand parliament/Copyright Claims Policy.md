@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/54SCEDSI_ADV_81dbd590-6e68-48d1-8be4-08dcdc4c6a57_EDSI1278/ministry-of-business-innovation-and-employment-initial/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/HansS_20200218_078525000/penk-chris/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/54SCEDSI_ADV_81dbd590-6e68-48d1-8be4-08dcdc4c6a57_EDSI1278/ministry-of-business-innovation-and-employment-initial/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/HansS_20200218_078525000/penk-chris/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
