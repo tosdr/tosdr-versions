@@ -18,7 +18,9 @@ My Tote
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/NHA_Silver.png?crop=center&height=85&v=1724151394&width=85)](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
 
-[![coffee-bean-caffeine-brightening-eye-cream](https://www.100percentpure.com/cdn/shop/files/1FMCBEC_Coffee_Bean_Caffeine_Eye_Cream_Primary_1oz_primary_78935561-7401-4248-b08e-aa6af8c5c1a7_239x254.webp?v=1724416545)](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
+[20% off
+
+![coffee-bean-caffeine-brightening-eye-cream](https://www.100percentpure.com/cdn/shop/files/1FMCBEC_Coffee_Bean_Caffeine_Eye_Cream_Primary_1oz_primary_78935561-7401-4248-b08e-aa6af8c5c1a7_239x254.webp?v=1724416545)](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
 
 ![ 1FMCBEC_Primary](//www.100percentpure.com/cdn/shop/files/1FMCBEC_Coffee_Bean_Caffeine_Eye_Cream_Primary_1oz_primary_78935561-7401-4248-b08e-aa6af8c5c1a7_220x.webp?v=1724416545)
 
@@ -26,11 +28,15 @@ My Tote
 
 5780 reviews (5780)
 
-$16.00 $29.00
+$12.80 $23.20
 
-1 oz - $29 0.3 oz - $16
+1 oz - $23.20 0.3 oz - $12.80
+
+Sale
 
 1 oz
+
+Sale
 
 0.3 oz
 
@@ -44,7 +50,9 @@ CHOOSE Size
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/NHA_Silver.png?crop=center&height=85&v=1724151394&width=85)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-ultra-riche-pm-treatment)
 
-[![multi-vitamin-+-antioxidants-ultra-riché-pm-treatment](https://www.100percentpure.com/cdn/shop/files/1FMVPMT_Multi_Vitamin_Cream_Primary_239x254.jpg?v=1696452642)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-ultra-riche-pm-treatment)
+[20% off
+
+![multi-vitamin-+-antioxidants-ultra-riché-pm-treatment](https://www.100percentpure.com/cdn/shop/files/1FMVPMT_Multi_Vitamin_Cream_Primary_239x254.jpg?v=1696452642)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-ultra-riche-pm-treatment)
 
 ![ 1FMVPMT_Primary](//www.100percentpure.com/cdn/shop/files/1FMVPMT_Multi_Vitamin_Cream_Primary_220x.jpg?v=1696452642)
 
@@ -52,9 +60,9 @@ CHOOSE Size
 
 1049 reviews (1049)
 
-$64.00
+$51.20 $64.00
 
-Default Title - $64
+Default Title - $51.20
 
 ADD TO TOTE
 
@@ -62,7 +70,9 @@ ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/Awards-2024-global-green-beauty-silver.png?crop=center&height=85&v=1725096491&width=85)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
 
-[![multi-vitamin-+-antioxidants-potent-pm-serum](https://www.100percentpure.com/cdn/shop/files/1FMVPPMS_Multi-Vitamin_And_Antioxidants_Potent_PM_Serum_Primary_239x254.jpg?v=1713543184)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
+[20% off
+
+![multi-vitamin-+-antioxidants-potent-pm-serum](https://www.100percentpure.com/cdn/shop/files/1FMVPPMS_Multi-Vitamin_And_Antioxidants_Potent_PM_Serum_Primary_239x254.jpg?v=1713543184)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
 
 ![ 1FMVPPMS_Primary](//www.100percentpure.com/cdn/shop/files/1FMVPPMS_Multi-Vitamin_And_Antioxidants_Potent_PM_Serum_Primary_220x.jpg?v=1713543184)
 
@@ -70,13 +80,15 @@ ADD TO TOTE
 
 97 reviews (98)
 
-$72.00
+$57.60 $72.00
 
-1 oz - $72
+1 oz - $57.60
 
 ADD TO TOTE
 
-[![maracuja-mascara](https://www.100percentpure.com/cdn/shop/files/1CMMBT10G_Maracuja_Oil_Mascara_Black_Tea_Primary_239x254.jpg?v=1695862275)](https://www.100percentpure.com/products/maracuja-mascara)
+[20% off
+
+![maracuja-mascara](https://www.100percentpure.com/cdn/shop/files/1CMMBT10G_Maracuja_Oil_Mascara_Black_Tea_Primary_239x254.jpg?v=1695862275)](https://www.100percentpure.com/products/maracuja-mascara)
 
 ![ 1CMMBT10G_Primary](//www.100percentpure.com/cdn/shop/files/1CMMBT10G_Maracuja_Oil_Mascara_Black_Tea_Primary_220x.jpg?v=1695862275)
 
@@ -84,15 +96,19 @@ ADD TO TOTE
 
 2405 reviews (2405)
 
-$28.00 $28.00
+$22.40 $28.00
 
-Dark Chocolate - $28 Black Tea - $28 Blackberry - $28
+Dark Chocolate - $22.40 Black Tea - $22.40 Blackberry - $28
 
 Black Tea
+
+Sale
 
 Blackberry
 
 Dark Chocolate
+
+Sale
 
 ADD TO TOTE
 
@@ -208,7 +224,9 @@ ADD TO TOTE
 
 CHOOSE Size
 
-[![acai-pulp-facial-scrub](https://www.100percentpure.com/cdn/shop/products/1FAPFS_Acai_Pulp_Facial_Scrub_Primary_239x254.jpg?v=1655916708)](https://www.100percentpure.com/products/acai-pulp-facial-scrub)
+[20% off
+
+![acai-pulp-facial-scrub](https://www.100percentpure.com/cdn/shop/products/1FAPFS_Acai_Pulp_Facial_Scrub_Primary_239x254.jpg?v=1655916708)](https://www.100percentpure.com/products/acai-pulp-facial-scrub)
 
 ![ parent_primary](//www.100percentpure.com/cdn/shop/products/1FAPFS_Acai_Pulp_Facial_Scrub_Primary_220x.jpg?v=1655916708)
 
@@ -216,15 +234,17 @@ CHOOSE Size
 
 845 reviews (845)
 
-$38.00
+$30.40 $38.00
 
-Default Title - $38
+Default Title - $30.40
 
 ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/VBA_SEAL_HQ_-_transparent_background_1.png?crop=center&height=85&v=1717163115&width=85)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
-[![multi-vitamin-+-antioxidants-pm-facial-oil](https://www.100percentpure.com/cdn/shop/products/1FMVPMFO_Multi_Viamin_Facial_Oil_Primary_239x254.jpg?v=1696527574)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
+[20% off
+
+![multi-vitamin-+-antioxidants-pm-facial-oil](https://www.100percentpure.com/cdn/shop/products/1FMVPMFO_Multi_Viamin_Facial_Oil_Primary_239x254.jpg?v=1696527574)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
 ![ parent_primary](//www.100percentpure.com/cdn/shop/products/1FMVPMFO_Multi_Viamin_Facial_Oil_Primary_220x.jpg?v=1696527574)
 
@@ -232,9 +252,9 @@ ADD TO TOTE
 
 197 reviews (197)
 
-$58.00
+$46.40 $58.00
 
-Default Title - $58
+Default Title - $46.40
 
 ADD TO TOTE
 
@@ -280,7 +300,9 @@ Default Title - $26
 
 ADD TO TOTE
 
-[![cucumber-cloud-foam-cleanser](https://www.100percentpure.com/cdn/shop/products/1FCCFC_Cucumber_Cloud_Foam_Cleanser_Primary_239x254.jpg?v=1617318615)](https://www.100percentpure.com/products/cucumber-cloud-foam-cleanser)
+[20% off
+
+![cucumber-cloud-foam-cleanser](https://www.100percentpure.com/cdn/shop/products/1FCCFC_Cucumber_Cloud_Foam_Cleanser_Primary_239x254.jpg?v=1617318615)](https://www.100percentpure.com/products/cucumber-cloud-foam-cleanser)
 
 ![ Cucumber Cloud Foam Cleanser](//www.100percentpure.com/cdn/shop/products/1FCCFC_Cucumber_Cloud_Foam_Cleanser_Primary_220x.jpg?v=1617318615)
 
@@ -288,9 +310,9 @@ ADD TO TOTE
 
 120 reviews (120)
 
-$30.00
+$24.00 $30.00
 
-Default Title - $30
+Default Title - $24
 
 ADD TO TOTE
 
@@ -362,7 +384,9 @@ Default Title - $45
 
 ADD TO TOTE
 
-[![green-tea-egcg-concentrate-cream](https://www.100percentpure.com/cdn/shop/files/1FEGCGCC_Green_Tea_EGCG_Concentrate_Cream_Primary_6f98d162-56fd-4d08-9d5a-703d2ea902e6_239x254.webp?v=1725380733)](https://www.100percentpure.com/products/green-tea-egcg-concentrate-cream)
+[20% off
+
+![green-tea-egcg-concentrate-cream](https://www.100percentpure.com/cdn/shop/files/1FEGCGCC_Green_Tea_EGCG_Concentrate_Cream_Primary_6f98d162-56fd-4d08-9d5a-703d2ea902e6_239x254.webp?v=1725380733)](https://www.100percentpure.com/products/green-tea-egcg-concentrate-cream)
 
 ![ Green Tea EGCG Concentrate Cream](//www.100percentpure.com/cdn/shop/files/1FEGCGCC_Green_Tea_EGCG_Concentrate_Cream_Primary_6f98d162-56fd-4d08-9d5a-703d2ea902e6_220x.webp?v=1725380733)
 
@@ -370,9 +394,9 @@ ADD TO TOTE
 
 691 reviews (691)
 
-$48.00
+$38.40 $48.00
 
-Default Title - $48
+Default Title - $38.40
 
 ADD TO TOTE
 
@@ -386,9 +410,9 @@ ADD TO TOTE
 
 508 reviews (508)
 
-$48.00
+$38.40 $48.00
 
-Default Title - $48
+Default Title - $38.40
 
 ADD TO TOTE
 
@@ -422,7 +446,9 @@ ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/VBA_SEAL_HQ_-_transparent_background_1.png?crop=center&height=85&v=1717163115&width=85)](https://www.100percentpure.com/products/vitamin-c-serum)
 
-[![vitamin-c-serum](https://www.100percentpure.com/cdn/shop/files/1FMVCS_Vitamin_C_Serum_Primary_239x254.jpg?v=1695399627)](https://www.100percentpure.com/products/vitamin-c-serum)
+[20% off
+
+![vitamin-c-serum](https://www.100percentpure.com/cdn/shop/files/1FMVCS_Vitamin_C_Serum_Primary_239x254.jpg?v=1695399627)](https://www.100percentpure.com/products/vitamin-c-serum)
 
 ![ 1FMVCS_Primary](//www.100percentpure.com/cdn/shop/files/1FMVCS_Vitamin_C_Serum_Primary_220x.jpg?v=1695399627)
 
@@ -430,13 +456,15 @@ ADD TO TOTE
 
 1419 reviews (1419)
 
-$58.00
+$46.40 $58.00
 
-Default Title - $58
+Default Title - $46.40
 
 ADD TO TOTE
 
-[![bakuchiol-moisturizer](https://www.100percentpure.com/cdn/shop/files/Bakuchiol_Moisturizer_FRONT_b16faf33-f814-40fb-8b44-4af0d6e8a9a1_239x254.jpg?v=1728393817)](https://www.100percentpure.com/products/bakuchiol-moisturizer)
+[20% off
+
+![bakuchiol-moisturizer](https://www.100percentpure.com/cdn/shop/files/Bakuchiol_Moisturizer_FRONT_b16faf33-f814-40fb-8b44-4af0d6e8a9a1_239x254.jpg?v=1728393817)](https://www.100percentpure.com/products/bakuchiol-moisturizer)
 
 ![ Bakuchiol Moisturizer](//www.100percentpure.com/cdn/shop/files/Bakuchiol_Moisturizer_FRONT_b16faf33-f814-40fb-8b44-4af0d6e8a9a1_220x.jpg?v=1728393817)
 
@@ -444,9 +472,9 @@ ADD TO TOTE
 
 188 reviews (188)
 
-$58.00
+$46.40 $58.00
 
-Default Title - $58
+Default Title - $46.40
 
 ADD TO TOTE
 
@@ -492,7 +520,9 @@ ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/veggie-awards-2023-bronze-2.png?crop=center&height=85&v=1723125369&width=85)](https://www.100percentpure.com/products/apple-enzyme-resurfacing-serum)
 
-[![apple-enzyme-resurfacing-serum](https://www.100percentpure.com/cdn/shop/files/AppleEnzyme_Serum_FRONT_239x254.jpg?v=1728076956)](https://www.100percentpure.com/products/apple-enzyme-resurfacing-serum)
+[20% off
+
+![apple-enzyme-resurfacing-serum](https://www.100percentpure.com/cdn/shop/files/AppleEnzyme_Serum_FRONT_239x254.jpg?v=1728076956)](https://www.100percentpure.com/products/apple-enzyme-resurfacing-serum)
 
 ![ Apple Enzyme Resurfacing Serum](//www.100percentpure.com/cdn/shop/files/AppleEnzyme_Serum_FRONT_220x.jpg?v=1728076956)
 
@@ -500,15 +530,17 @@ ADD TO TOTE
 
 84 reviews (84)
 
-$48.00
+$38.40 $48.00
 
-Default Title - $48
+Default Title - $38.40
 
 ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/1_3_3d2a3168-e15d-498f-8b8e-498d0c8feb87.png?crop=center&height=85&v=1705348338&width=85)](https://www.100percentpure.com/products/apple-enzyme-exfoliating-cleanser)
 
-[![7%-fruit-acids-apple-enzyme-exfoliating-cleanser](https://www.100percentpure.com/cdn/shop/files/7_FruitAcidsAppleEnzymeExfoliatingCleanser_239x254.png?v=1696468131)](https://www.100percentpure.com/products/apple-enzyme-exfoliating-cleanser)
+[20% off
+
+![7%-fruit-acids-apple-enzyme-exfoliating-cleanser](https://www.100percentpure.com/cdn/shop/files/7_FruitAcidsAppleEnzymeExfoliatingCleanser_239x254.png?v=1696468131)](https://www.100percentpure.com/products/apple-enzyme-exfoliating-cleanser)
 
 ![ 7% Fruit Acids Apple Enzyme Exfoliating Cleanser](//www.100percentpure.com/cdn/shop/files/7_FruitAcidsAppleEnzymeExfoliatingCleanser_220x.png?v=1696468131)
 
@@ -516,9 +548,9 @@ ADD TO TOTE
 
 83 reviews (83)
 
-$32.00
+$25.60 $32.00
 
-Default Title - $32
+Default Title - $25.60
 
 ADD TO TOTE
 
@@ -602,7 +634,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[Halloween Flash Sale- 25% OFF Sitewide USE CODE: TRICKORTREAT](https://www.100percentpure.com/collections/shop-all "https://www.100percentpure.com/collections/shop-all")
+[Enjoy 20% OFF Our Top Vegan Products!](https://www.100percentpure.com/collections/top-vegan-products "https://www.100percentpure.com/collections/top-vegan-products")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
