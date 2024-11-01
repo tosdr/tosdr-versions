@@ -251,11 +251,11 @@ We're dedicated to preventing fraud 
 ----------------------------------------
 
 * Select a step to read
-* [#### **Automated banking machines (ABMs)**](#chapter-46678)
+* [#### **Automated banking machines (ABMs)**](#chapter-3690)
 * [**Mobile and telephone banking**
-    --------------------------------](#chapter-85502)
+    --------------------------------](#chapter-76966)
 * [**Debit and credit cards**
-    --------------------------](#chapter-78386)
+    --------------------------](#chapter-8474)
 
 * #### **Automated banking machines (ABMs)**
     
