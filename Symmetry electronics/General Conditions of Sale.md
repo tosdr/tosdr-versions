@@ -80,6 +80,7 @@ Back
         [Enclosures](https://www.symmetryelectronics.com/products/enclosures/)
         
         * [Enclosures](https://www.symmetryelectronics.com/products/enclosures/)
+        * [Enclosures for Single Board Computing](https://www.symmetryelectronics.com/products/enclosures/enclosures-for-single-board-computing/)
         * [Enclosures, Boxes, & Cases](https://www.symmetryelectronics.com/products/enclosures/enclosures,-boxes,-cases/)
         * [Racks & Cabinets](https://www.symmetryelectronics.com/products/enclosures/racks-cabinets/)
         * [View all Enclosures](https://www.symmetryelectronics.com/products/enclosures/)
