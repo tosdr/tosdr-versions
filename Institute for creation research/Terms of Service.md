@@ -165,31 +165,63 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Acts & Facts
+More Creation Q&A
 
-[![](/i/articles/af/af2001-webcover.jpg)](https://www.icr.org/article/11690)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/how_coal_seams_form.jpg)](https://www.icr.org/article/how-did-coal-seams-form)
 
-[January 2020](https://www.icr.org/article/11690/)
+[How Did Coal Seams Form?](https://www.icr.org/article/how-did-coal-seams-form/)
 
-...
+When I drive from Dallas to Colorado, I sometimes see southbound trains loaded with coal from vast reserves buried in Wyoming rock layers. This coal...
 
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/articles/af/af2210-webcover.jpg)](https://www.icr.org/article/13685)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/resurrect_extinct_species.jpg)](https://www.icr.org/article/can-scientists-resurrect-extinct-species)
 
-[Pioneers Edition 2022](https://www.icr.org/article/13685/)
+[Can Scientists Resurrect Extinct Species?](https://www.icr.org/article/can-scientists-resurrect-extinct-species/)
 
-...
+In the 2013 movie Star Trek: Into Darkness, Captain Kirk suffers lethal levels of radiation to save his crew. Fortunately, Doctor McCoy brings his captain...
 
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/articles/af/af2207-webcover.jpg)](https://www.icr.org/article/13532)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/CanScientistsReplaceGod.jpg)](https://www.icr.org/article/can-scientists-replace-god-with-nothing)
 
-[July-August 2022](https://www.icr.org/article/13532/)
+[Can Scientists Replace God with Nothing?](https://www.icr.org/article/can-scientists-replace-god-with-nothing/)
 
-...
+Hebrews 11:3 says, “By faith we understand that the universe was created by the word of God.” Do you find it a little odd that we must have...
 
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
+BY: [SCOTT ARLEDGE](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=246)
+
+Shop Related Products
+
+[](https://store.icr.org/.html)
+
+$
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/15818899/file.jpg)
+
+The Fossil Record - eBook](https://store.icr.org/the-fossil-record-ebook.html)
+
+$9.99
+
+$19.99
+
+[](https://store.icr.org/.html)
+
+$
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10027370/file.jpg)
+
+The Global Flood - eBook](https://store.icr.org/dr-john-morris-the-global-flood-ebook.html)
+
+$9.99
+
+$19.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32803/file.jpg)
+
+The Young Earth](https://store.icr.org/dr-john-morris-the-young-earth.html)
+
+$19.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
