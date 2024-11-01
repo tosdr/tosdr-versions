@@ -45,7 +45,9 @@ Try it for free[Learn more](https://observablehq.com/platform)
 Platform
 
 * [Platform overview](https://observablehq.com/platform)
+* [Observable Framework](https://observablehq.com/platform/framework)
 * [Observable Cloud](https://observablehq.com/platform/cloud)
+* [Observable Notebooks](https://observablehq.com/platform/notebooks)
 * [Pricing](https://observablehq.com/pricing)
 
 Docs
@@ -80,7 +82,9 @@ Company
 Platform
 
 * [Platform overview](https://observablehq.com/platform)
+* [Observable Framework](https://observablehq.com/platform/framework)
 * [Observable Cloud](https://observablehq.com/platform/cloud)
+* [Observable Notebooks](https://observablehq.com/platform/notebooks)
 * [Pricing](https://observablehq.com/pricing)
 
 Docs
