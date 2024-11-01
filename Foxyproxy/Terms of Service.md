@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-The service is GREAT .. watched last season of Last of Summer Wine and been watching Snooker.
+You are a great service!
 
-John C. Campbell III
+Jaci Stephen
