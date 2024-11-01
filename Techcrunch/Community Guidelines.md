@@ -181,11 +181,11 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
 * [ChatGPT Search](https://techcrunch.com/2024/10/31/openai-launches-its-google-challenger-chatgpt-search/)
-* [WordPress vs. WP Engine](https://techcrunch.com/2024/10/30/matt-mullenweg-talks-about-automattics-staffing-issues-and-financials-at-techcrunch-disrupt/)
-* [Claude](https://techcrunch.com/2024/10/31/claude-gets-desktop-apps-and-dictation-support/)
-* [Boston Dynamics](https://techcrunch.com/2024/10/30/boston-dynamics-electric-atlas-humanoid-executes-autonomous-automotive-parts-picking/)
-* [TechCrunch Disrupt 2024](https://techcrunch.com/storyline/techcrunch-disrupt-2024-follow-the-reveals-insights-and-more-in-our-live-blog/)
+* [Apple Intelligence](https://techcrunch.com/2024/10/28/apple-intelligence-exits-beta/)
+* [M4 iMac](https://techcrunch.com/2024/10/28/apple-unveils-m4-powered-imac/)
+* [Elon Musk](https://techcrunch.com/2024/10/31/elon-musk-skipped-a-hearing-in-philly-about-his-super-pacs-payouts-to-voters/)
+* [‘Agentic’ Alexa](https://techcrunch.com/2024/10/31/amazon-ceo-andy-jassy-hints-at-an-agentic-alexa/)
 * [Tech Layoffs](https://techcrunch.com/2024/10/30/tech-layoffs-2024-list/)
-* [ChatGPT](https://techcrunch.com/2024/10/29/chatgpt-everything-to-know-about-the-ai-chatbot/)
+* [ChatGPT](https://techcrunch.com/2024/11/01/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 © 2024 Yahoo.
