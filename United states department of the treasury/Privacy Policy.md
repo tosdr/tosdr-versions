@@ -557,15 +557,15 @@ MENU MENU
     
     November 1, 2024
     
+    [Treasury Issues Final Rule Expanding CFIUS Coverage of Real Estate Transactions Around More Than 60 Military Installations](https://home.treasury.gov/news/press-releases/jy2708)
+    
+    November 1, 2024
+    
     [U.S. Department of the Treasury’s CDFI Fund and Federal Housing Finance Agency Collaborate to Bolster CDFI Access to Capital](https://home.treasury.gov/news/press-releases/jy2707)
     
     October 31, 2024
     
     [Report on U.S. Portfolio Holdings of Foreign Securities at Year-End 2023](https://home.treasury.gov/news/press-releases/jy2706)
-    
-    October 31, 2024
-    
-    [Treasury Sanctions Key Members of La Linea, a Group Involved in Trafficking Fentanyl into the United States](https://home.treasury.gov/news/press-releases/jy2704)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
