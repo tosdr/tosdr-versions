@@ -35,10 +35,10 @@ The store will not work correctly in the case when cookies are disabled.
         
         Vibe](https://www.womanizer.com/eu/vibe)
     * [Next](https://www.womanizer.com/eu/next)
-    * [Premium 2](https://www.womanizer.com/eu/premium-2)
     * [NEW
         
         24 Days of Pleasure](https://www.womanizer.com/eu/couples-advent-calendar)
+    * [PREMIUM eco](https://www.womanizer.com/eu/eco)
     * [NEW
         
         24 Days of Pleasure](https://www.womanizer.com/eu/24-days-of-pleasure-premium-advent-calendar)
@@ -46,8 +46,8 @@ The store will not work correctly in the case when cookies are disabled.
         
         Blend](https://www.womanizer.com/eu/blend)
     * [DUO 2](https://www.womanizer.com/eu/duo2)
-    * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
     * [Liberty 2](https://www.womanizer.com/eu/liberty-2)
+    * [OG](https://www.womanizer.com/eu/womanizer-og)
     * [All Bestsellers](https://www.womanizer.com/eu/bestseller)
     
     [All Bestsellers](https://www.womanizer.com/eu/bestseller)
