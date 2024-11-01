@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c585656b-d225-4f3f-ab2a-d48f30ecd8db/c585656b-d225-4f3f-ab2a-d48f30ecd8db_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c585656b-d225-4f3f-ab2a-d48f30ecd8db/c585656b-d225-4f3f-ab2a-d48f30ecd8db_360x203.jpg)](https://www.king5.com/article/news/local/where-washington-state-stands-on-making-daylight-saving-time-permanent/281-2db68931-cf35-4796-9c34-d5c7ed0aa731)
+    *  [![](https://media.king5.com/assets/KING/images/349dc6c0-7b90-4486-95f1-36850b8c6374/20241101T020536/349dc6c0-7b90-4486-95f1-36850b8c6374_16x9.jpg) ![](https://media.king5.com/assets/KING/images/349dc6c0-7b90-4486-95f1-36850b8c6374/20241101T020536/349dc6c0-7b90-4486-95f1-36850b8c6374_360x203.jpg)](https://www.king5.com/article/news/crime/man-arrested-belltown-crash-seattle/281-32fa02e4-5663-4daa-b014-2191f4717325)
         
-        #### [Here's where Washington state stands on making daylight saving time permanent](https://www.king5.com/article/news/local/where-washington-state-stands-on-making-daylight-saving-time-permanent/281-2db68931-cf35-4796-9c34-d5c7ed0aa731)
+        #### [Man suspected of previous eluding incidents runs red light, crashes in Belltown](https://www.king5.com/article/news/crime/man-arrested-belltown-crash-seattle/281-32fa02e4-5663-4daa-b014-2191f4717325)
         
-    *  [![](https://media.king5.com/assets/KING/images/c6a8d53b-997a-4585-a2a0-113fc8f281b3/20240529T192459/c6a8d53b-997a-4585-a2a0-113fc8f281b3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c6a8d53b-997a-4585-a2a0-113fc8f281b3/20240529T192459/c6a8d53b-997a-4585-a2a0-113fc8f281b3_360x203.jpg)](https://www.king5.com/article/news/local/seattle/former-seattle-police-chief-adrian-diaz-files-10-million-claim/281-485b67b3-1aa1-4c14-95af-21accbd76f12)
+    *  [![](https://media.king5.com/assets/KING/images/6be4822e-ff72-4492-81fe-5023e3de8d77/20241101T003337/6be4822e-ff72-4492-81fe-5023e3de8d77_16x9.jpg) ![](https://media.king5.com/assets/KING/images/6be4822e-ff72-4492-81fe-5023e3de8d77/20241101T003337/6be4822e-ff72-4492-81fe-5023e3de8d77_360x203.jpg)](https://www.king5.com/article/news/local/businesses-parkland-road-closure-loss-of-customers/281-ee43a35b-205f-4218-a50d-31385f957c0e)
         
-        #### [Former Seattle police chief files $10 million claim against city](https://www.king5.com/article/news/local/seattle/former-seattle-police-chief-adrian-diaz-files-10-million-claim/281-485b67b3-1aa1-4c14-95af-21accbd76f12)
+        #### [Businesses in Parkland say a road closure is causing a loss of customers, creating worry for the future](https://www.king5.com/article/news/local/businesses-parkland-road-closure-loss-of-customers/281-ee43a35b-205f-4218-a50d-31385f957c0e)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-50°
+48°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
