@@ -103,13 +103,13 @@
     
     Recent Report
     
-    [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/66df31976d08f420838c2710_Q22024report.avif)
+    [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/67251cd5175c179537b9cbd4_gen-ai-shield.png)
     
     Webflow in 2021
     
-    * Read Lookout's Q2 2024 Mobile Threat Landscape Report
+    * Data Protection in a GenAI World
         
-        Enhancing your protection against the modern kill chain](https://www.lookout.com/threat-intelligence/report/q2-2024-mobile-landscape-threat-report)
+        Enable your workforce to use GenAI tools safely without risk to your organization.](https://security.lookout.com/solutions/cloud-data-protection/generative-ai)
     
 * Partners
     
