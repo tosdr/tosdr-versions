@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a18c77d278c81672f3cdb6ea327c49e3
+42a9785a5610a2014b8c2d5014b2e639
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![6 mm round pink and gold Czech glass beads](https://sojourner.biz/images/cache/glass/GL0323.200.jpg)](https://sojourner.biz/beads/glass/6-mm-round-pink-and-gold-czech-glass-beads.html "6 mm round pink and gold Czech glass beads")
+[![Whale booties](https://sojourner.biz/images/cache/CL0030infantwhalefront.200.jpg)](https://sojourner.biz/clothing/whale-booties.html "Whale booties")
 
-#### [6 mm round pink and gold Czech glass beads](https://sojourner.biz/beads/glass/6-mm-round-pink-and-gold-czech-glass-beads.html "6 mm round pink and gold Czech glass beads")
+#### [Whale booties](https://sojourner.biz/clothing/whale-booties.html "Whale booties")
 
-$2.00
+$25.00
 
 ### Best Sellers
 
