@@ -131,68 +131,66 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[Warm weather causes record-breaking delay for autumn foliage in Japan](https://www.japantimes.co.jp/news/2024/10/31/japan/autumn-leaves-forecast-october/ "Warm weather causes record-breaking delay for autumn foliage in Japan")
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![Japan Times](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431337.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51)](https://www.japantimes.co.jp/news/2024/10/31/japan/autumn-leaves-forecast-october/ "Warm weather causes record-breaking delay for autumn foliage in Japan")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[LDP and DPP inch closer together on economic policy cooperation](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/ldp-dpp-policy-meeting/ "LDP and DPP inch closer together on economic policy cooperation")
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![Democratic Party for the People Secretary-General Kazuya Shimba (left) and Liberal Democratic Party Secretary-General Hiroshi Moriyama meet in the Diet building in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431382.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People Secretary-General Kazuya Shimba (left) and Liberal Democratic Party Secretary-General Hiroshi Moriyama meet in the Diet building in Tokyo on Thursday.")](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/ldp-dpp-policy-meeting/ "LDP and DPP inch closer together on economic policy cooperation")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[North Korea fires off ICBM with longest flight time yet](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+  [![A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431287.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.")](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
 
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+['Peak Japan' is now, so seize the moment, Japan](https://www.japantimes.co.jp/commentary/2024/10/30/japan/peak-japan-now/ "'Peak Japan' is now, so seize the moment, Japan")
 
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![Anna Sawai and Hiroyuki Sanada won the outstanding lead actress and actor awards in a drama series, respectively, for "Shogun" at the 76th Primetime Emmy Awards in Los Angeles on Sept. 15.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431099.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Anna Sawai and Hiroyuki Sanada won the outstanding lead actress and actor awards in a drama series, respectively, for "Shogun" at the 76th Primetime Emmy Awards in Los Angeles on Sept. 15.")](https://www.japantimes.co.jp/commentary/2024/10/30/japan/peak-japan-now/ "'Peak Japan' is now, so seize the moment, Japan")
 
-[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+[Dodgers star Shohei Ohtani basks in glow of first World Series title](https://www.japantimes.co.jp/sports/2024/10/31/baseball/mlb/ohtani-first-world-series-title/ "Dodgers star Shohei Ohtani basks in glow of first World Series title")
 
-  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+  [![Shohei Ohtani holds the World Series trophy after the Dodgers clinched the title at Yankee Stadium on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431398.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani holds the World Series trophy after the Dodgers clinched the title at Yankee Stadium on Wednesday.")](https://www.japantimes.co.jp/sports/2024/10/31/baseball/mlb/ohtani-first-world-series-title/ "Dodgers star Shohei Ohtani basks in glow of first World Series title")
 
 Editors' Picks
 --------------
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[Warm weather causes record-breaking delay for autumn foliage in Japan](https://www.japantimes.co.jp/news/2024/10/31/japan/autumn-leaves-forecast-october/ "Warm weather causes record-breaking delay for autumn foliage in Japan")
 
-By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
+By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![Japan Times](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431337.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51)](https://www.japantimes.co.jp/news/2024/10/31/japan/autumn-leaves-forecast-october/ "Warm weather causes record-breaking delay for autumn foliage in Japan")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[LDP and DPP inch closer together on economic policy cooperation](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/ldp-dpp-policy-meeting/ "LDP and DPP inch closer together on economic policy cooperation")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![Democratic Party for the People Secretary-General Kazuya Shimba (left) and Liberal Democratic Party Secretary-General Hiroshi Moriyama meet in the Diet building in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431382.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People Secretary-General Kazuya Shimba (left) and Liberal Democratic Party Secretary-General Hiroshi Moriyama meet in the Diet building in Tokyo on Thursday.")](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/ldp-dpp-policy-meeting/ "LDP and DPP inch closer together on economic policy cooperation")
 
-[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[North Korea fires off ICBM with longest flight time yet](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
 
-By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
+By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+  [![A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431287.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.")](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
 
 [COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
 
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+['Peak Japan' is now, so seize the moment, Japan](https://www.japantimes.co.jp/commentary/2024/10/30/japan/peak-japan-now/ "'Peak Japan' is now, so seize the moment, Japan")
 
-By F.D. Flam  
+By [Joshua W. Walker](https://www.japantimes.co.jp/author/316/joshua-w-walker/ "Joshua W. Walker")  
 
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![Anna Sawai and Hiroyuki Sanada won the outstanding lead actress and actor awards in a drama series, respectively, for "Shogun" at the 76th Primetime Emmy Awards in Los Angeles on Sept. 15.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431099.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Anna Sawai and Hiroyuki Sanada won the outstanding lead actress and actor awards in a drama series, respectively, for "Shogun" at the 76th Primetime Emmy Awards in Los Angeles on Sept. 15.")](https://www.japantimes.co.jp/commentary/2024/10/30/japan/peak-japan-now/ "'Peak Japan' is now, so seize the moment, Japan")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
 
-[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+[Dodgers star Shohei Ohtani basks in glow of first World Series title](https://www.japantimes.co.jp/sports/2024/10/31/baseball/mlb/ohtani-first-world-series-title/ "Dodgers star Shohei Ohtani basks in glow of first World Series title")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
-
-  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+  [![Shohei Ohtani holds the World Series trophy after the Dodgers clinched the title at Yankee Stadium on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431398.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani holds the World Series trophy after the Dodgers clinched the title at Yankee Stadium on Wednesday.")](https://www.japantimes.co.jp/sports/2024/10/31/baseball/mlb/ohtani-first-world-series-title/ "Dodgers star Shohei Ohtani basks in glow of first World Series title")
 
 Podcast
 -------
@@ -213,9 +211,9 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -257,23 +255,21 @@ Latest News
 
 [North Korea says will stand by Russia until 'victory' in Ukraine](https://www.japantimes.co.jp/news/2024/11/01/asia-pacific/north-korea-stand-by-russia/ "North Korea says will stand by Russia until 'victory' in Ukraine")
 
-4 hours ago
+10 hours ago
 
 [Russia speeds up advance in Ukraine as mood darkens in Kyiv](https://www.japantimes.co.jp/news/2024/11/01/world/russia-advancing-ukraine/ "Russia speeds up advance in Ukraine as mood darkens in Kyiv")
 
-4 hours ago
+10 hours ago
 
 [Japan cuts growth forecast again for current fiscal year on weak exports](https://www.japantimes.co.jp/business/2024/11/01/economy/cabinet-office-growth-forecast-cut/ "Japan cuts growth forecast again for current fiscal year on weak exports")
 
-4 hours ago
+10 hours ago
 
 [Japan’s potential kingmaker says BOJ shouldn’t hike before March](https://www.japantimes.co.jp/business/2024/11/01/tamaki-boj-rates/ "Japan’s potential kingmaker says BOJ shouldn’t hike before March")
 
-4 hours ago
+11 hours ago
 
 [Japan, EU launch defense and security tie-up amid mutual China concerns](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/eu-japan-defense-security-partnership/ "Japan, EU launch defense and security tie-up amid mutual China concerns")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
