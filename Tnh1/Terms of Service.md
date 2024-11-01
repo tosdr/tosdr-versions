@@ -210,15 +210,7 @@ Entenda
 
 Gisele Bündchen não deve casar com namorado por incompatibilidade financeira
 
-Gisele Bündchen não deve casar com namorado por incompatibilidade financeira](https://www.tnh1.com.br/noticia/nid/gisele-buendchen-nao-deve-casar-com-namorado-por-incompatibilidade-financeira/ "Gisele Bündchen não deve casar com namorado por incompatibilidade financeira")[![Mulher pelada invade Palácio do Planalto](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/0/csm_mulher_pelada_palacio_planalto_Lauro_Jardim_5954d8856b.png)
-
-Brasil
-
-Brasil
-
-Mulher pelada invade Palácio do Planalto
-
-Mulher pelada invade Palácio do Planalto](https://www.tnh1.com.br/noticia/nid/mulher-pelada-invade-palacio-do-planalto/ "Mulher pelada invade Palácio do Planalto")[![Dentista relata que perdeu a visão após tomar banho sem tirar a lente de contato](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/f/csm_dentista-perde-visao-tomou-banho-lente-contato-arquivo-pessoal_125aae2e11.jpg)
+Gisele Bündchen não deve casar com namorado por incompatibilidade financeira](https://www.tnh1.com.br/noticia/nid/gisele-buendchen-nao-deve-casar-com-namorado-por-incompatibilidade-financeira/ "Gisele Bündchen não deve casar com namorado por incompatibilidade financeira")[![Dentista relata que perdeu a visão após tomar banho sem tirar a lente de contato](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/f/csm_dentista-perde-visao-tomou-banho-lente-contato-arquivo-pessoal_125aae2e11.jpg)
 
 27 anos
 
@@ -226,49 +218,57 @@ Mulher pelada invade Palácio do Planalto](https://www.tnh1.com.br/noticia/nid/m
 
 Dentista relata que perdeu a visão após tomar banho sem tirar a lente de contato
 
-Dentista relata que perdeu a visão após tomar banho sem tirar a lente de contato](https://www.tnh1.com.br/noticia/nid/dentista-relata-que-perdeu-a-visao-apos-tomar-banho-sem-tirar-a-lente-de-contato/ "Dentista relata que perdeu a visão após tomar banho sem tirar a lente de contato")[![Dono de pizzaria é preso após agarrar funcionária e tocá-la com a parte íntima](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/2/csm_assedio_ilustracao_pexels_d18660fd4a.jpg)
+Dentista relata que perdeu a visão após tomar banho sem tirar a lente de contato](https://www.tnh1.com.br/noticia/nid/dentista-relata-que-perdeu-a-visao-apos-tomar-banho-sem-tirar-a-lente-de-contato/ "Dentista relata que perdeu a visão após tomar banho sem tirar a lente de contato")[![Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/4/csm_jovem_21_anos_corpo_encontrado_393e8d99e5.jpg)
 
-No Antares
+NO VERGEL
 
-No Antares
+NO VERGEL
 
-Dono de pizzaria é preso após agarrar funcionária e tocá-la com a parte íntima
+Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros
 
-Dono de pizzaria é preso após agarrar funcionária e tocá-la com a parte íntima](https://www.tnh1.com.br/noticia/nid/dono-de-pizzaria-e-preso-apos-agarrar-funcionaria-e-toca-la-com-a-parte-intima/ "Dono de pizzaria é preso após agarrar funcionária e tocá-la com a parte íntima")
+Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros](https://www.tnh1.com.br/noticia/nid/corpo-de-jovem-de-21-anos-desaparecida-ha-quatro-dias-e-encontrado-com-marcas-de-tiros/ "Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros")[![Série B: veja as chances de acesso e risco de queda após 34ª rodada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/8/csm_Coritiba_x_CRB_-_Serie_B_2024_-_foto_Divulgacao_CRB_95804a4337.jpg)
 
-[![Ronnie Lessa e Élcio Queiroz são condenados por matar Marielle Franco e Anderson Gomes](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/f/csm_Acusados_Marielle_b515b6bb44.jpg)
+projeções
+
+projeções
+
+Série B: veja as chances de acesso e risco de queda após 34ª rodada
+
+Série B: veja as chances de acesso e risco de queda após 34ª rodada](https://www.tnh1.com.br/noticia/nid/serie-b-veja-as-chances-de-acesso-e-risco-de-queda-apos-34a-rodada/ "Série B: veja as chances de acesso e risco de queda após 34ª rodada")
+
+[![A amiga de Kamala Harris que sofreu abuso sexual e inspirou carreira de promotora da candidata](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/8/csm_kamala-amiga-reproducao-BBC-News_26b52fda65.jpg)
+
+eleições nos EUA
+
+eleições nos EUA
+
+A amiga de Kamala Harris que sofreu abuso sexual e inspirou carreira de promotora da candidata
+
+A amiga de Kamala Harris que sofreu abuso sexual e inspirou carreira de promotora da candidata](https://www.tnh1.com.br/noticia/nid/a-amiga-de-kamala-harris-que-sofreu-abuso-sexual-e-inspirou-carreira-de-promotora-da-candidata/ "A amiga de Kamala Harris que sofreu abuso sexual e inspirou carreira de promotora da candidata")[![Entenda quando ex-companheiros podem receber pensão por morte do INSS](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_previdencia-inss-agencia-brasil__1__9dc6e6fc09.jpg)
+
+condições específicas
+
+condições específicas
+
+Entenda quando ex-companheiros podem receber pensão por morte do INSS
+
+Entenda quando ex-companheiros podem receber pensão por morte do INSS](https://www.tnh1.com.br/noticia/nid/entenda-quando-ex-companheiros-podem-receber-pensao-por-morte-do-inss/ "Entenda quando ex-companheiros podem receber pensão por morte do INSS")[![Suspeito de violência doméstica é morto na delegacia da mulher após resistir à prisão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/4/csm_violencia_contar_mulher__foto_Marcello_Casal_Jr_-_Agencia_Brasil_085287048a.jpg)
+
+são paulo
+
+são paulo
+
+Suspeito de violência doméstica é morto na delegacia da mulher após resistir à prisão
+
+Suspeito de violência doméstica é morto na delegacia da mulher após resistir à prisão](https://www.tnh1.com.br/noticia/nid/suspeito-de-violencia-domestica-e-morto-na-delegacia-da-mulher-apos-resistir-a-prisao/ "Suspeito de violência doméstica é morto na delegacia da mulher após resistir à prisão")[![Polícia mira grupo que lucrou R$ 1 bi em maior esquema de pirâmide do Rio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/a/csm_Policia_mira_grupo_que_lucrou_R__1_bi_em_maior_esquema_de_piramide_do_Rio_-_foto_Divulgacao_PF_3f9c260e7b.jpeg)
 
 Brasil
 
 Brasil
 
-Ronnie Lessa e Élcio Queiroz são condenados por matar Marielle Franco e Anderson Gomes
+Polícia mira grupo que lucrou R$ 1 bi em maior esquema de pirâmide do Rio
 
-Ronnie Lessa e Élcio Queiroz são condenados por matar Marielle Franco e Anderson Gomes](https://www.tnh1.com.br/noticia/nid/ronnie-lessa-e-elcio-queiroz-sao-condenados-por-matar-marielle-franco-e-anderson-gomes/ "Ronnie Lessa e Élcio Queiroz são condenados por matar Marielle Franco e Anderson Gomes")[![Maceió retoma vacinação contra Covid-19 após reabastecimento](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/7/csm_Maceio_retoma_vacinacao_contra_Covid-19_apos_reabastecimento_-_foto_Jonathan_Lins_-_Secom_Maceio_b925eb58ea.jpg)
-
-imunização
-
-imunização
-
-Maceió retoma vacinação contra Covid-19 após reabastecimento
-
-Maceió retoma vacinação contra Covid-19 após reabastecimento](https://www.tnh1.com.br/noticia/nid/maceio-retoma-vacinacao-contra-covid-19-apos-reabastecimento/ "Maceió retoma vacinação contra Covid-19 após reabastecimento")[![Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/7/csm_paulo-dantas-envia-projeto-de-lei-a-assembleia-que-indeniza-viuva-do-auditor-fiscal-joao-de-assis_6acff8ef5f.jpg)
-
-governador
-
-governador
-
-Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis
-
-Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis](https://www.tnh1.com.br/noticia/nid/paulo-dantas-envia-projeto-de-lei-a-assembleia-que-indeniza-viuva-do-auditor-fiscal-joao-de-assis/ "Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis")[![Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/8/csm_escola-estadual-maceio-confusao-google-maps_00b0c6c833.png)
-
-EM MACEIÓ
-
-EM MACEIÓ
-
-Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont
-
-Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont](https://www.tnh1.com.br/noticia/nid/confusao-causa-panico-e-correria-durante-jogos-internos-em-escola-no-santos-dumont/ "Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont ")
+Polícia mira grupo que lucrou R$ 1 bi em maior esquema de pirâmide do Rio](https://www.tnh1.com.br/noticia/nid/policia-mira-grupo-que-lucrou-r-1-bi-em-maior-esquema-de-piramide-do-rio/ "Polícia mira grupo que lucrou R$ 1 bi em maior esquema de pirâmide do Rio")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
