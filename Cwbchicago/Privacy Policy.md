@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/alert-suspects-chicago-326x245.jpg)](https://cwbchicago.com/2024/10/cops-hunt-crew-responsible-for-15-robberies-and-carjackings-of-pedestrians-couriers-and-uber-drivers.html "Cops hunt crew responsible for 15 robberies and carjackings of pedestrians, couriers, and Uber drivers")
+
+Auburn Gresham
+
+### [Cops hunt crew responsible for 15 robberies and carjackings of pedestrians, couriers, and Uber drivers](https://cwbchicago.com/2024/10/cops-hunt-crew-responsible-for-15-robberies-and-carjackings-of-pedestrians-couriers-and-uber-drivers.html "Cops hunt crew responsible for 15 robberies and carjackings of pedestrians, couriers, and Uber drivers")
+
+[October 29, 2024 7:38 AM](https://cwbchicago.com/2024/10)
+
+Cops are on the lookout for a group responsible for at least 15 robberies and carjackings in Auburn Gresham. The group seems willing to rob just about anyone, mugging people on the street, robbing delivery couriers, and carjacking Uber drivers in a small corner of the neighborhood.[](https://cwbchicago.com/2024/10/cops-hunt-crew-responsible-for-15-robberies-and-carjackings-of-pedestrians-couriers-and-uber-drivers.html "Cops hunt crew responsible for 15 robberies and carjackings of pedestrians, couriers, and Uber drivers")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/ANDREW-C-BRIERLY-trump-326x245.jpg)](https://cwbchicago.com/2024/10/he-broke-145000-worth-of-trump-tower-windows-because-seeing-the-former-president-makes-him-do-it-police-say.html "He broke $145,000 worth of Trump Tower windows because seeing the former president ‘makes him do it,’ police say")
+
+River North
+
+### [He broke $145,000 worth of Trump Tower windows because seeing the former president ‘makes him do it,’ police say](https://cwbchicago.com/2024/10/he-broke-145000-worth-of-trump-tower-windows-because-seeing-the-former-president-makes-him-do-it-police-say.html "He broke $145,000 worth of Trump Tower windows because seeing the former president ‘makes him do it,’ police say")
+
+[October 29, 2024 3:43 AM](https://cwbchicago.com/2024/10)
+
+A man who twice broke windows at the Trump International Hotel & Tower this year, causing $145,000 in damage, told police that he does it whenever he sees the former president during a mental health episode, according to a Chicago police report.[](https://cwbchicago.com/2024/10/he-broke-145000-worth-of-trump-tower-windows-because-seeing-the-former-president-makes-him-do-it-police-say.html "He broke $145,000 worth of Trump Tower windows because seeing the former president ‘makes him do it,’ police say")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/08/Generic-stand-edited-326x245.jpg)](https://cwbchicago.com/2024/10/man-shot-outside-edgewater-apartment-building.html "Man shot outside Edgewater apartment building")
 
 Edgewater
@@ -252,26 +272,6 @@ Edgewater
 [October 28, 2024 8:32 PM](https://cwbchicago.com/2024/10)
 
 A 47-year-old man is in fair condition after being shot outside an Edgewater apartment building this afternoon, Chicago police said.[](https://cwbchicago.com/2024/10/man-shot-outside-edgewater-apartment-building.html "Man shot outside Edgewater apartment building")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/loyola-041a-october-28-2024-326x245.jpg)](https://cwbchicago.com/2024/10/concealed-carry-holder-shot-man-after-being-struck-by-glass-jar-at-loyola-red-line-alderman.html "Concealed carry holder shot man after being struck by glass jar at Loyola Red Line: alderman")
-
-Rogers Park
-
-### [Concealed carry holder shot man after being struck by glass jar at Loyola Red Line: alderman](https://cwbchicago.com/2024/10/concealed-carry-holder-shot-man-after-being-struck-by-glass-jar-at-loyola-red-line-alderman.html "Concealed carry holder shot man after being struck by glass jar at Loyola Red Line: alderman")
-
-[October 28, 2024 7:57 PM](https://cwbchicago.com/2024/10)
-
-A concealed carry license holder shot at least one man outside the Loyola Red Line station this afternoon after being hit in the face with a glass jar, officials said.[](https://cwbchicago.com/2024/10/concealed-carry-holder-shot-man-after-being-struck-by-glass-jar-at-loyola-red-line-alderman.html "Concealed carry holder shot man after being struck by glass jar at Loyola Red Line: alderman")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Michael-Fitzgerald-and-Demarco-Hunter-326x245.jpg)](https://cwbchicago.com/2024/10/funeral-crowd-swarmed-cop-who-tried-to-arrest-a-man-with-a-gun-officials-say.html "Funeral crowd ‘swarmed’ cop who tried to arrest a man with a gun, officials say")
-
-West Garfield Park
-
-### [Funeral crowd ‘swarmed’ cop who tried to arrest a man with a gun, officials say](https://cwbchicago.com/2024/10/funeral-crowd-swarmed-cop-who-tried-to-arrest-a-man-with-a-gun-officials-say.html "Funeral crowd ‘swarmed’ cop who tried to arrest a man with a gun, officials say")
-
-[October 28, 2024 7:17 PM](https://cwbchicago.com/2024/10)
-
-A parolee and another man attacked a Chicago cop who was trying to catch someone who had a firearm outside a funeral gathering on the West Side, according to CPD reports.[](https://cwbchicago.com/2024/10/funeral-crowd-swarmed-cop-who-tried-to-arrest-a-man-with-a-gun-officials-say.html "Funeral crowd ‘swarmed’ cop who tried to arrest a man with a gun, officials say")
 
 Search
 
