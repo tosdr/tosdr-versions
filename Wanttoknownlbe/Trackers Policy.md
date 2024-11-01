@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/oorlog/bush-blair-oorlogsmisdadigers/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/ufo-boven-waddenzee/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
