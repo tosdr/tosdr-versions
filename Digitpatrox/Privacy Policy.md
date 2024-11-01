@@ -20,16 +20,16 @@ Friday, November 1 2024
 
 Latest
 
-* [The Best Apps for Selling Used Clothing and Household Items](https://digitpatrox.com/the-best-apps-for-selling-used-clothing-and-household-items/)
-* [Ransomware gang Qilin claims cyber attack on Aiken Electric Cooperative – 4.6K+ affected](https://digitpatrox.com/ransomware-gang-qilin-claims-cyber-attack-on-aiken-electric-cooperative-4-6k-affected/)
-* [Smart Road Tips for Halloween Safety](https://digitpatrox.com/smart-road-tips-for-halloween-safety/)
-* [How to Keep Your Windows PC Secure on Public Wi-Fi](https://digitpatrox.com/how-to-keep-your-windows-pc-secure-on-public-wi-fi/)
-* [Forget the metaverse, AI is the money-spinner at Meta: Reality Labs lost $4.4 billion this quarter, but Mark Zuckerberg’s sharpened AI focus is delivering results – and there’s more to come with Llama 4 on the horizon](https://digitpatrox.com/forget-the-metaverse-ai-is-the-money-spinner-at-meta-reality-labs-lost-4-4-billion-this-quarter-but-mark-zuckerbergs-sharpened-ai-focus-is-delivering-results-and-theres/)
-* [Got Big Ideas? Launch Them with the Help of This $25 Bundle.](https://digitpatrox.com/got-big-ideas-launch-them-with-the-help-of-this-25-bundle/)
-* [Android 16 confirmed for early release — here’s what we know](https://digitpatrox.com/android-16-confirmed-for-early-release-heres-what-we-know/)
-* [Hackers target critical zero-day vulnerability in PTZ cameras](https://digitpatrox.com/hackers-target-critical-zero-day-vulnerability-in-ptz-cameras/)
-* [Intel’s Gaudi AI chips are far behind Nvidia and AMD, won’t even hit $500M goal](https://digitpatrox.com/intels-gaudi-ai-chips-are-far-behind-nvidia-and-amd-wont-even-hit-500m-goal/)
-* [New WhatsApp Features Added in October 2024](https://digitpatrox.com/new-whatsapp-features-added-in-october-2024/)
+* [Los Angeles Housing Authority hit by another ransomware attack](https://digitpatrox.com/los-angeles-housing-authority-hit-by-another-ransomware-attack/)
+* [Proofpoint acquires data security posture management firm Normalyze](https://digitpatrox.com/proofpoint-acquires-data-security-posture-management-firm-normalyze/)
+* [Apple to expand its satellite services with Globalstar – Computerworld](https://digitpatrox.com/apple-to-expand-its-satellite-services-with-globalstar-computerworld/)
+* [Apple Intelligence’s ‘Reduce Interruptions’ Mode Can Help You Deal With All Your Notifications](https://digitpatrox.com/apple-intelligences-reduce-interruptions-mode-can-help-you-deal-with-all-your-notifications/)
+* [Saint Xavier University notifies 212K people of data breach that compromised SSNs, credit cards, and medical info](https://digitpatrox.com/saint-xavier-university-notifies-212k-people-of-data-breach-that-compromised-ssns-credit-cards-and-medical-info/)
+* [Best Electric Bikes – Consumer Reports](https://digitpatrox.com/best-electric-bikes-consumer-reports/)
+* [Google Explains How It Improved Meet Call Quality](https://digitpatrox.com/google-explains-how-it-improved-meet-call-quality/)
+* [Dropbox layoffs continue as firm cuts another 20% of staff](https://digitpatrox.com/dropbox-layoffs-continue-as-firm-cuts-another-20-of-staff/)
+* [Australian Companies Focus on Growth for Tech Spending](https://digitpatrox.com/australian-companies-focus-on-growth-for-tech-spending/)
+* [Apexel TM6 TeleMacro lens review](https://digitpatrox.com/apexel-tm6-telemacro-lens-review/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01HZHVM3K92HT7P7P3MNW21NYP/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-best-apps-for-selling-used-clothing-and-household-items/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Los-Angeles-Housing-Authority-hit-by-another-ransomware-attack.jpg)](https://digitpatrox.com/los-angeles-housing-authority-hit-by-another-ransomware-attack/)
     
-    [The Best Apps for Selling Used Clothing and Household Items](https://digitpatrox.com/the-best-apps-for-selling-used-clothing-and-household-items/)
+    [Los Angeles Housing Authority hit by another ransomware attack](https://digitpatrox.com/los-angeles-housing-authority-hit-by-another-ransomware-attack/)
     
-    10 mins ago
+    6 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Ransomware-gang-Qilin-claims-cyber-attack-on-Aiken-Electric-Cooperative.jpg)](https://digitpatrox.com/ransomware-gang-qilin-claims-cyber-attack-on-aiken-electric-cooperative-4-6k-affected/)
+* [![](https://cdn.mos.cms.futurecdn.net/greuPGTj7YGkGtpfwUb7wE-1200-80.jpg)](https://digitpatrox.com/proofpoint-acquires-data-security-posture-management-firm-normalyze/)
     
-    [Ransomware gang Qilin claims cyber attack on Aiken Electric Cooperative – 4.6K+ affected](https://digitpatrox.com/ransomware-gang-qilin-claims-cyber-attack-on-aiken-electric-cooperative-4-6k-affected/)
+    [Proofpoint acquires data security posture management firm Normalyze](https://digitpatrox.com/proofpoint-acquires-data-security-posture-management-firm-normalyze/)
     
-    16 mins ago
+    36 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1697567868/prod/content/dam/CRO-Images-2023/10October/Cars/CR-Cars-InlineHero-Smart-Road-Tips-Halloween_Safety-1023)](https://digitpatrox.com/smart-road-tips-for-halloween-safety/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3596648-0-40920000-1730480713-AMF-Emergency-SOS-via-satellite-exterior.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/apple-to-expand-its-satellite-services-with-globalstar-computerworld/)
     
-    [Smart Road Tips for Halloween Safety](https://digitpatrox.com/smart-road-tips-for-halloween-safety/)
+    [Apple to expand its satellite services with Globalstar – Computerworld](https://digitpatrox.com/apple-to-expand-its-satellite-services-with-globalstar-computerworld/)
     
-    41 mins ago
+    58 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/people-using-computers-with-a-security-alert-icon.jpg)](https://digitpatrox.com/how-to-keep-your-windows-pc-secure-on-public-wi-fi/)
+* [![](https://lifehacker.com/imagery/articles/01JBM1JF3GZGQ2ZDWDEF38TCWE/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/apple-intelligences-reduce-interruptions-mode-can-help-you-deal-with-all-your-notifications/)
     
-    [How to Keep Your Windows PC Secure on Public Wi-Fi](https://digitpatrox.com/how-to-keep-your-windows-pc-secure-on-public-wi-fi/)
+    [Apple Intelligence’s ‘Reduce Interruptions’ Mode Can Help You Deal With All Your Notifications](https://digitpatrox.com/apple-intelligences-reduce-interruptions-mode-can-help-you-deal-with-all-your-notifications/)
     
-    44 mins ago
+    1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/hagZyYLKSTyZo9UPd9PZo6-1200-80.jpg)](https://digitpatrox.com/forget-the-metaverse-ai-is-the-money-spinner-at-meta-reality-labs-lost-4-4-billion-this-quarter-but-mark-zuckerbergs-sharpened-ai-focus-is-delivering-results-and-theres/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Saint-Xavier-University-notifies-212K-people-of-major-data-breach.jpg)](https://digitpatrox.com/saint-xavier-university-notifies-212k-people-of-data-breach-that-compromised-ssns-credit-cards-and-medical-info/)
     
-    [Forget the metaverse, AI is the money-spinner at Meta: Reality Labs lost $4.4 billion this quarter, but Mark Zuckerberg’s sharpened AI focus is delivering results – and there’s more to come with Llama 4 on the horizon](https://digitpatrox.com/forget-the-metaverse-ai-is-the-money-spinner-at-meta-reality-labs-lost-4-4-billion-this-quarter-but-mark-zuckerbergs-sharpened-ai-focus-is-delivering-results-and-theres/)
+    [Saint Xavier University notifies 212K people of data breach that compromised SSNs, credit cards, and medical info](https://digitpatrox.com/saint-xavier-university-notifies-212k-people-of-data-breach-that-compromised-ssns-credit-cards-and-medical-info/)
     
     2 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [10 mins ago
+* [6 mins ago
     
-    ### The Best Apps for Selling Used Clothing and Household Items](https://digitpatrox.com/the-best-apps-for-selling-used-clothing-and-household-items/)
-* [16 mins ago
+    ### Los Angeles Housing Authority hit by another ransomware attack](https://digitpatrox.com/los-angeles-housing-authority-hit-by-another-ransomware-attack/)
+* [36 mins ago
     
-    ### Ransomware gang Qilin claims cyber attack on Aiken Electric Cooperative – 4.6K+ affected](https://digitpatrox.com/ransomware-gang-qilin-claims-cyber-attack-on-aiken-electric-cooperative-4-6k-affected/)
-* [41 mins ago
+    ### Proofpoint acquires data security posture management firm Normalyze](https://digitpatrox.com/proofpoint-acquires-data-security-posture-management-firm-normalyze/)
+* [58 mins ago
     
-    ### Smart Road Tips for Halloween Safety](https://digitpatrox.com/smart-road-tips-for-halloween-safety/)
+    ### Apple to expand its satellite services with Globalstar – Computerworld](https://digitpatrox.com/apple-to-expand-its-satellite-services-with-globalstar-computerworld/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [August 21, 2024
     
-    ### The Fitbit Ace LTE, a great kids’ smartwatch, is down to $170](https://digitpatrox.com/the-fitbit-ace-lte-a-great-kids-smartwatch-is-down-to-170/)
-* [4 days ago
+    ### The Best Smartphone Deals for August 2024](https://digitpatrox.com/the-best-smartphone-deals-for-august-2024/)
+* [August 30, 2024
     
-    ### Best Smartwatches of 2024, Tested by Our Experts](https://digitpatrox.com/best-smartwatches-of-2024-tested-by-our-experts/)
-* [August 24, 2024
+    ### How to Get Your Strength Training Done in Less Time, According to Science](https://digitpatrox.com/how-to-get-your-strength-training-done-in-less-time-according-to-science/)
+* [August 11, 2024
     
-    ### California Just Added Support for Digital IDs on Android](https://digitpatrox.com/california-just-added-support-for-digital-ids-on-android/)
+    ### How to find your oldest social media posts and delete them](https://digitpatrox.com/how-to-find-your-oldest-social-media-posts-and-delete-them/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### Android 16 confirmed for early release — here’s what we know](https://digitpatrox.com/android-16-confirmed-for-early-release-heres-what-we-know/)
-* [2 hours ago
-    
-    ### Hackers target critical zero-day vulnerability in PTZ cameras](https://digitpatrox.com/hackers-target-critical-zero-day-vulnerability-in-ptz-cameras/)
+    ### Google Explains How It Improved Meet Call Quality](https://digitpatrox.com/google-explains-how-it-improved-meet-call-quality/)
 * [3 hours ago
     
-    ### Intel’s Gaudi AI chips are far behind Nvidia and AMD, won’t even hit $500M goal](https://digitpatrox.com/intels-gaudi-ai-chips-are-far-behind-nvidia-and-amd-wont-even-hit-500m-goal/)
+    ### Dropbox layoffs continue as firm cuts another 20% of staff](https://digitpatrox.com/dropbox-layoffs-continue-as-firm-cuts-another-20-of-staff/)
+* [3 hours ago
+    
+    ### Australian Companies Focus on Growth for Tech Spending](https://digitpatrox.com/australian-companies-focus-on-growth-for-tech-spending/)
 
 Most Viewed Topics
 
-* [August 11, 2024
+* [August 28, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 12, 2024
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+* [August 13, 2024
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
