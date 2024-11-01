@@ -34,7 +34,11 @@ Resources
 
 Get Started
 
-[About Brisk](https://www.briskteaching.com/about)[Getting Started](https://www.briskteaching.com/getting-started-with-brisk-teaching)[Integrations](https://www.briskteaching.com/how-brisk-integrates)[FAQs](https://www.briskteaching.com/faq)[Privacy Center](https://www.briskteaching.com/privacy-center)
+[About Brisk](https://www.briskteaching.com/about)[Getting Started](https://www.briskteaching.com/getting-started-with-brisk-teaching)[FAQs](https://www.briskteaching.com/faq)[Privacy Center](https://www.briskteaching.com/privacy-center)
+
+use cases
+
+[English Teachers](https://www.briskteaching.com/subject/tools-for-english-teachers)[Math Teachers](https://www.briskteaching.com/subject/tools-for-math-teachers)[Google Teachers](https://www.briskteaching.com/brisk-for-google-teachers)[Administrators](https://www.briskteaching.com/subject/tools-for-administrators)
 
 Learn
 
