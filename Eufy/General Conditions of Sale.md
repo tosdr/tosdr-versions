@@ -653,7 +653,7 @@
     
     Explore
     
-    [Became an Affiliate](https://www.eufy.com/affiliate?ref=navimenu_8_2_1_copy) [Refer Friends to get up to $80 per referral!](https://www.eufy.com/referral-new?ref=navimenu_8_2_2_copy) [Myeufy Prizes](https://www.eufy.com/eufyclean-prizes?ref=navimenu_8_2_3_copy) [Cooperation Purchase](https://www.eufy.com/partner-program?ref=navimenu_8_2_4_copy) [eufy Clean Community](https://community.anker.com/tags/eufy?ref=navimenu_8_2_5_copy) [eufy Security Community](http://community.eufy.com/?ref=navimenu_8_2_6_copy) [Student Discount](https://connect.studentbeans.com/v4/hosted/eufy/us?ref=navimenu_8_2_7_copy) [eufyCredits Rewards Program](https://www.eufy.com/eufycredits?ref=navimenu_8_2_8_copy) [Student & 16-26 Discount](https://www.eufy.com/youthdiscount?ref=navimenu_8_2_9_copy) [55+ Year Old Discount](https://www.eufy.com/seniordiscount?ref=navimenu_8_2_10_copy)
+    [Became an Affiliate](https://www.eufy.com/affiliate?ref=navimenu_8_2_1_copy) [Refer Friends to get up to $80 per referral!](https://www.eufy.com/referral-new?ref=navimenu_8_2_2_copy) [Myeufy Prizes](https://www.eufy.com/eufyclean-prizes?ref=navimenu_8_2_3_copy) [Cooperation Purchase](https://www.eufy.com/partner-program?ref=navimenu_8_2_4_copy) [eufy Clean Community](https://community.anker.com/tags/eufy?ref=navimenu_8_2_5_copy) [eufy Security Community](https://community.eufy.com/?ref=navimenu_8_2_6_copy) [Student Discount](https://connect.studentbeans.com/v4/hosted/eufy/us?ref=navimenu_8_2_7_copy) [eufyCredits Rewards Program](https://www.eufy.com/eufycredits?ref=navimenu_8_2_8_copy) [Student & 16-26 Discount](https://www.eufy.com/youthdiscount?ref=navimenu_8_2_9_copy) [55+ Year Old Discount](https://www.eufy.com/seniordiscount?ref=navimenu_8_2_10_copy)
     
 * Support
     
@@ -1169,7 +1169,7 @@ Contact us
     * [Blog](https://us.eufy.com/blogs)
     * [Contact Us](https://us.eufy.com/contact)
     * [Privacy Commitment](https://www.eufy.com/privacy-commitment)
-    * [eufy Security Community](http://community.eufy.com/)
+    * [eufy Security Community](https://community.eufy.com/)
     * [eufy Clean Community](https://community.anker.com/tags/eufy)
 
 * [](https://www.instagram.com/eufylife/?ref=footer)
