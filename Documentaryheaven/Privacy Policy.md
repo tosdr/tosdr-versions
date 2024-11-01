@@ -128,39 +128,39 @@ Advertisement
     Diary of a Porn Virgin
     
     Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
-* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
+* [![No-Go Zones: Seven Mile Road, Detroit, USA](/wp-content/thumbnails/16527-100x70.jpg?x53432)
     
-    Louis Theroux: Drinking To Oblivion
+    No-Go Zones: Seven Mile Road, Detroit, USA
     
-    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
+    Seven Mile Road located in Detroit is one of the most dangerous no-go zones in the United States. Those who live or dare to come here to visit are literally playing with their lives. It is a territor...](https://documentaryheaven.com/no-go-zones-seven-mile-road/ "No-Go Zones: Seven Mile Road, Detroit, USA")
 
 ###### Throwback Documentaries
 
-* [![The Somme: Secret Tunnel Wars](/wp-content/thumbnails/8017-100x70.jpg?x53432)
+* [![Crossing The Line: North Korea](/wp-content/thumbnails/7055-100x70.jpg?x53432)
     
-    The Somme: Secret Tunnel Wars
+    Crossing The Line: North Korea
     
-    Beneath the Somme battlefield lies one of the great secrets of the First World War, a recently-discovered network of deep tunnels thought to extend over several kilometres. This lost underground battl](https://documentaryheaven.com/somme-secret-tunnel-wars/ "The Somme: Secret Tunnel Wars")
-* [![Slumdog Children of Mumbai](/wp-content/thumbnails/16118-100x70.png?x53432)
+    This is the story of James Joseph Dresnok, once a United States Army private, who successfully crossed the minefield-strewn demilitarized zone and defected to North Korea during the war.Dresnok ha](https://documentaryheaven.com/crossing-the-line-north-korea/ "Crossing The Line: North Korea")
+* [![In the Age of AI](/wp-content/thumbnails/16113-100x70.jpg?x53432)
     
-    Slumdog Children of Mumbai
+    In the Age of AI
     
-    The Slumdog Children of Mumbai follows four young children who are all struggling to survive on the streets in the capital of India, Mumbai. With a population of over 18 million people, Mumbai is one](https://documentaryheaven.com/slumdog-children-of-mumbai/ "Slumdog Children of Mumbai")
-* [![In the Womb – Multiples](/wp-content/thumbnails/1311-100x70.jpg?x53432)
+    In this two-hour Frontline special, we enter a race between nations that is taking place in order to become an artificial intelligence superpower and the politics involved in such a goal. It has been](https://documentaryheaven.com/age-of-artificial-intelligence/ "In the Age of AI")
+* [![Are We Real](/wp-content/thumbnails/1-100x70.png?x53432)
     
-    In the Womb – Multiples
+    Are We Real
     
-    Expanding on the critically acclaimed special, In the Womb, National Geographic explores the extraordinary and fragile world of twins, triplets and quadruplets in utero. Featuring amazing 4-D ultrasou](https://documentaryheaven.com/in-the-womb-multiples/ "In the Womb – Multiples")
-* [![The Four-Winged Dinosaur](/wp-content/thumbnails/2579-100x70.jpg?x53432)
+    There is a fundamental chasm in our understanding of ourselves, the universe, and everything. To solve this, Sir Martin takes us on a mind-boggling journey through multiple universes to post-biologica](https://documentaryheaven.com/are-we-real/ "Are We Real")
+* [![Cherry Bomb: The Documentary](/wp-content/thumbnails/13265-100x70.jpg?x53432)
     
-    The Four-Winged Dinosaur
+    Cherry Bomb: The Documentary
     
-    In 2002, the discovery of a beautiful and bizarre fossil astonished scientists and reignited the debate over the origin of flight. With four wings and superbly preserved feathers, the 130 million-year](https://documentaryheaven.com/the-four-winged-dinosaur/ "The Four-Winged Dinosaur")
-* [![Infamy](/wp-content/thumbnails/3626-100x70.jpg?x53432)
+    If you don't know now you know that Tyler, The Creator's long awaited documentary film 'Cherry Bomb' has finally dropped. Directed by Illegal Civilization's Mikey Alfred, this behind the scenes docume](https://documentaryheaven.com/cherry-bomb-documentary/ "Cherry Bomb: The Documentary")
+* [![Halloween: 25 Years of Terror](/wp-content/thumbnails/6146-100x70.jpg?x53432)
     
-    Infamy
+    Halloween: 25 Years of Terror
     
-    Infamy is an intense journey into the dangerous lives and obsessed minds of six of America’s most prolific graffiti artists. Directed by acclaimed filmmaker Doug Pray (Hype and Scratch) who teamed up](https://documentaryheaven.com/infamy/ "Infamy")
+    The definitive documentary about the Halloween franchise that has kept horror movie fans thrilled with each new edition. Includes behind-the-scenes footage, plus 80 interviews with cast and crew inclu](https://documentaryheaven.com/halloween-25-years-of-terror/ "Halloween: 25 Years of Terror")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
