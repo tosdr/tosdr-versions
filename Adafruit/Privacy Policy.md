@@ -1,6 +1,6 @@
   Skip Navigation
 
- [![Adafruit Logo](https://cdn-shop.adafruit.com/adafruit-logos/SM-1572376673.png "Happy Halloween!")](https://www.adafruit.com/)toggle menu
+ [![Adafruit Logo](/includes/templates/shop2019/images/adafruit_logo_small.png "Adafruit")](https://www.adafruit.com/)toggle menu
 
 Search 
 
@@ -36,7 +36,7 @@ Search
 
 [Shopping cart, 0items.](https://www.adafruit.com/shopping_cart)
 
-[![Adafruit Logo](https://cdn-shop.adafruit.com/adafruit-logos/LG-1572376673.png "Happy Halloween!")](https://www.adafruit.com/)
+[![Adafruit Logo](/includes/templates/shop2019/images/adafruit-logo.png "Adafruit")](https://www.adafruit.com/)
 
 * [Products](#adafruit-header)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ If I want to live in a world I like, I have to help create it”
+“ Forgive many things in others; nothing in yourself”
 
-[Caroline Caldwell](https://www.adafruit.com/quotes)
+[Ausonius](https://en.wikipedia.org/wiki/Ausonius#Saw_mill)
 
 [](https://www.adafruit.com/about)
 
