@@ -26,41 +26,43 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jordan-comer-1200x630.jpg)](https://americanwirenews.com/lawmakers-demand-answers-over-censorship-of-rogan-trump-interview-and-dod-fact-checker-collusion/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-vance-1200x630.jpg)](https://americanwirenews.com/jd-vance-tells-rogan-how-he-learned-the-power-of-the-lobbies-pushing-mass-illegal-immigration/)
 
-[Lawmakers demand answers over censorship of Rogan-Trump interview and DoD ‘fact checker’ collusion](https://americanwirenews.com/lawmakers-demand-answers-over-censorship-of-rogan-trump-interview-and-dod-fact-checker-collusion/)
+[JD Vance tells Rogan how he learned the power of the lobbies pushing mass illegal immigration](https://americanwirenews.com/jd-vance-tells-rogan-how-he-learned-the-power-of-the-lobbies-pushing-mass-illegal-immigration/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-joe-rogan-1-1200x630.png)](https://americanwirenews.com/joe-rogan-offers-his-take-on-the-so-called-trump-puerto-rico-comedy-controversy/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kelly-1200x630.jpg)](https://americanwirenews.com/megyn-kelly-makes-bold-election-prediction-talks-october-surprise-bombshell-thats-yet-to-drop/)
 
-[Joe Rogan offers his take on the so-called Trump-Puerto Rico comedy controversy](https://americanwirenews.com/joe-rogan-offers-his-take-on-the-so-called-trump-puerto-rico-comedy-controversy/)
+[Megyn Kelly makes bold election prediction, talks ‘October Surprise’ bombshell that’s yet to drop](https://americanwirenews.com/megyn-kelly-makes-bold-election-prediction-talks-october-surprise-bombshell-thats-yet-to-drop/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-lopez-1200x630.jpg)](https://americanwirenews.com/j-lo-stumps-for-kamala-bo-snerdley-reminds-america-of-her-other-very-bad-choices-in-character/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djt-cuban-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/kellyanne-conway-trump-hit-kamala-surrogate-mark-cuban-hard-for-no-strong-women-comment/)
 
-[J-Lo stumps for Kamala, Bo Snerdley reminds America of her other very bad choices in character](https://americanwirenews.com/j-lo-stumps-for-kamala-bo-snerdley-reminds-america-of-her-other-very-bad-choices-in-character/)
+[Kellyanne Conway, Trump hit Kamala surrogate Mark Cuban hard for ‘no strong women’ comment](https://americanwirenews.com/kellyanne-conway-trump-hit-kamala-surrogate-mark-cuban-hard-for-no-strong-women-comment/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-nightmare-1200x630.png)](https://americanwirenews.com/kamalas-american-nightmare-creepy-ad-rolls-out-just-in-time-for-halloween/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kjp-joepr1-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/garbagegate-white-house-press-office-edited-biden-transcript-despite-stenographer-concerns/)
 
-[‘Kamala’s American nightmare’ creepy ad rolls out just in time for Halloween](https://americanwirenews.com/kamalas-american-nightmare-creepy-ad-rolls-out-just-in-time-for-halloween/)
+[Garbagegate: White House press office edited Biden transcript despite stenographer concerns](https://americanwirenews.com/garbagegate-white-house-press-office-edited-biden-transcript-despite-stenographer-concerns/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sondland-1200x630.jpg)](https://americanwirenews.com/gordon-sondland-has-change-of-heart-i-was-wrong-about-trump-and-democrats-cant-stand-it/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kamala-harris-word-salad-rally-1200x630.jpg)](https://americanwirenews.com/harris-ripped-for-latest-word-salad-after-another-heckler-rattled-her-the-gibberish-never-ends/)
 
-[Gordon Sondland has change of heart: I was wrong about Trump and Democrats can’t stand it](https://americanwirenews.com/gordon-sondland-has-change-of-heart-i-was-wrong-about-trump-and-democrats-cant-stand-it/)
+[Harris ripped for latest ‘word salad’ after another heckler rattled her: ‘The gibberish never ends’](https://americanwirenews.com/harris-ripped-for-latest-word-salad-after-another-heckler-rattled-her-the-gibberish-never-ends/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-whoopi-1200x630.png)](https://americanwirenews.com/whoopi-defends-joe-says-hillary-was-right-about-the-deplorables/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-driver-trumptruck1-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/i-didnt-really-believe-it-at-first-driver-of-trump-garbage-truck-says-of-historic-experience/)
 
-[Whoopi defends Joe, says Hillary ‘was right’ about the ‘deplorables’](https://americanwirenews.com/whoopi-defends-joe-says-hillary-was-right-about-the-deplorables/)
+[‘I didn’t really believe it at first’ – driver of Trump garbage truck says of historic experience](https://americanwirenews.com/i-didnt-really-believe-it-at-first-driver-of-trump-garbage-truck-says-of-historic-experience/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-scientist-1200x630.jpg)](https://americanwirenews.com/biden-harris-admin-diverted-billions-of-dollars-from-scientific-research-funding-to-dei-activists/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-donald-trump-event-1200x630.jpg)](https://americanwirenews.com/trump-says-liz-cheney-wouldnt-be-such-a-war-hawk-if-she-had-nine-guns-trained-on-her-face/)
 
-[Biden-Harris admin diverted billions of dollars from scientific research funding to DEI activists](https://americanwirenews.com/biden-harris-admin-diverted-billions-of-dollars-from-scientific-research-funding-to-dei-activists/)
+[Trump says Liz Cheney wouldn’t be such a ‘war hawk’ if she had ‘nine guns trained on her face’](https://americanwirenews.com/trump-says-liz-cheney-wouldnt-be-such-a-war-hawk-if-she-had-nine-guns-trained-on-her-face/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mike-johnson-1200x630.jpg)](https://americanwirenews.com/mike-johnson-vows-reforms-obamacare-if-trump-wins-we-want-to-take-a-blowtorch-to-the-regulatory-state/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2182196248-1-1200x630.jpg)](https://americanwirenews.com/mama-musk-i-just-felt-such-a-relief-after-ditching-the-dishonest-democrats/)
 
-[Mike Johnson vows reforms to Obamacare if Trump wins: ‘we want to take a blowtorch to the regulatory state’](https://americanwirenews.com/mike-johnson-vows-reforms-obamacare-if-trump-wins-we-want-to-take-a-blowtorch-to-the-regulatory-state/)
+(Photo by Steven Ferdman/Getty Images)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jake-paul-1200x630.jpg)
+[Mama Musk on leaving the Party: ‘I just felt such a relief’ after ditching the ‘dishonest’ Democrats](https://americanwirenews.com/mama-musk-i-just-felt-such-a-relief-after-ditching-the-dishonest-democrats/)
 
-### Superstar athlete with 80 million fans bravely shares pro-Trump message. You won’t get THIS from Beyonce.](https://americanwirenews.com/superstar-athlete-with-80-million-fans-bravely-shares-pro-trump-message-you-wont-get-this-from-beyonce/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rogan-vance-1200x630.png)
+
+### Rogan talks voter ID with Vance, says Trump must win by ‘enormous margin’](https://americanwirenews.com/rogan-talks-voter-id-with-vance-says-trump-must-win-by-enormous-margin/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -77,6 +79,36 @@ Search for:
 ### [GOP staffer says Democrat policies ‘too insane for voters to find credible’](https://americanwirenews.com/gop-staffer-says-democrat-policies-too-insane-for-voters-to-find-credible/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-dreamers-protest-220x180.jpg)](https://americanwirenews.com/illegal-immigrant-dreamers-eligible-to-sign-up-for-obamacare-for-the-first-time/)
+
+[Illegal immigrant ‘dreamers’ eligible to sign up for Obamacare for the first time](https://americanwirenews.com/illegal-immigrant-dreamers-eligible-to-sign-up-for-obamacare-for-the-first-time/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-patrick-cuban-220x180.png)](https://americanwirenews.com/buckle-up-danica-patrick-has-a-big-bold-video-girl-message-for-mark-cuban/)
+
+[Buckle up! Danica Patrick has a big, bold video girl-message for Mark Cuban](https://americanwirenews.com/buckle-up-danica-patrick-has-a-big-bold-video-girl-message-for-mark-cuban/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-walz-220x180.jpg)](https://americanwirenews.com/tim-walz-answers-why-kamala-didnt-fix-anything-over-last-3-5-years/)
+
+[Tim Walz answers why Kamala didn’t fix anything over last 3.5 years](https://americanwirenews.com/tim-walz-answers-why-kamala-didnt-fix-anything-over-last-3-5-years/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jimmy_garland-split1-1200-x-628-220x180.jpg)](https://americanwirenews.com/critics-wonder-if-doj-will-go-after-jimmy-kimmel-for-election-interference-like-it-did-to-trump-supporter/)
+
+[Critics wonder if DOJ will go after Jimmy Kimmel for ‘election interference’ like it did to Trump supporter](https://americanwirenews.com/critics-wonder-if-doj-will-go-after-jimmy-kimmel-for-election-interference-like-it-did-to-trump-supporter/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Elon-Musk-2-220x180.jpg)](https://americanwirenews.com/desperate-left-trying-to-find-a-way-to-revoke-elon-musks-us-citizenship/)
+
+[Desperate Left trying to find a way to revoke Elon Musk’s US citizenship](https://americanwirenews.com/desperate-left-trying-to-find-a-way-to-revoke-elon-musks-us-citizenship/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-166311199-1-220x180.jpg)](https://americanwirenews.com/oklahoma-towns-entire-police-force-resigns-in-one-day-and-locals-want-answers/)
+
+[Oklahoma town’s ENTIRE police force resigns in one day and locals want answers](https://americanwirenews.com/oklahoma-towns-entire-police-force-resigns-in-one-day-and-locals-want-answers/)
+
+Getty Images
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-aocantisemitis-1200-x-628-220x180.jpg)](https://americanwirenews.com/aoc-down-for-demeaning-bathroom-post-it-note-campaign-targeting-red-state-wives/)
+
+[AOC down for demeaning bathroom Post-it note campaign targeting red state wives](https://americanwirenews.com/aoc-down-for-demeaning-bathroom-post-it-note-campaign-targeting-red-state-wives/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-dhs-billboard-220x180.jpg)](https://americanwirenews.com/wheres-the-outrage-more-taxpayer-funds-wasted-on-dhs-campaign-to-give-legal-assistance-to-illegal-immigrants/)
 
@@ -147,38 +179,6 @@ Search for:
 [New Harvard study shows Dems pushed Hispanic voters toward Trump with ‘Latinx’ label](https://americanwirenews.com/new-harvard-study-shows-dems-pushed-hispanic-voters-toward-trump-with-latinx-label/)
 
 Getty Images
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-aldrin-trump-220x180.jpg)](https://americanwirenews.com/godspeed-president-trump-american-hero-offers-wholehearted-2024-endorsement/)
-
-[‘Godspeed President Trump’: American hero offers ‘wholehearted’ 2024 endorsement](https://americanwirenews.com/godspeed-president-trump-american-hero-offers-wholehearted-2024-endorsement/)
-
-(Official White House Photo by Andrea Hanks)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-1284970558-1-220x180.jpg)](https://americanwirenews.com/police-say-two-influencers-rejected-lifejackets-before-drowning-they-get-in-the-way-of-their-tanning/)
-
-[Police say two influencers rejected lifejackets before drowning: ‘They get in the way of their tanning’](https://americanwirenews.com/police-say-two-influencers-rejected-lifejackets-before-drowning-they-get-in-the-way-of-their-tanning/)
-
-Getty Images
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-speech-1-220x180.jpg)](https://americanwirenews.com/in-yet-another-flip-flop-kamala-harris-talks-about-deporting-illegal-immigrants/)
-
-[In yet another flip-flop, Kamala Harris talks about deporting illegal immigrants](https://americanwirenews.com/in-yet-another-flip-flop-kamala-harris-talks-about-deporting-illegal-immigrants/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2022/10/SG-Supreme-Court-220x180.jpg)](https://americanwirenews.com/supreme-court-reinstates-gov-youngkins-purge-of-noncitizen-voters-in-virginia/)
-
-[Supreme Court reinstates Gov. Youngkin’s purge of noncitizen voters in Virginia](https://americanwirenews.com/supreme-court-reinstates-gov-youngkins-purge-of-noncitizen-voters-in-virginia/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/01/SG-MAGA-Hats-220x180.jpg)](https://americanwirenews.com/brawl-over-maga-hat-sees-2-american-women-booted-from-british-airways-flight/)
-
-[Brawl over MAGA hat sees 2 American women booted from British Airways flight](https://americanwirenews.com/brawl-over-maga-hat-sees-2-american-women-booted-from-british-airways-flight/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-schwarzenegger-220x180.jpg)](https://americanwirenews.com/arnold-schwarzenegger-boards-rino-train-to-endorse-kamala-says-trump-un-american/)
-
-[Arnold Schwarzenegger boards RINO train to endorse Kamala, says Trump ‘un-American’](https://americanwirenews.com/arnold-schwarzenegger-boards-rino-train-to-endorse-kamala-says-trump-un-american/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-hunter-220x180.jpg)](https://americanwirenews.com/eager-to-please-incoming-biden-admin-facebook-suppressed-hunter-laptop-scandal-report/)
-
-[Eager to please ‘incoming’ Biden admin, Facebook suppressed Hunter laptop scandal: report](https://americanwirenews.com/eager-to-please-incoming-biden-admin-facebook-suppressed-hunter-laptop-scandal-report/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
