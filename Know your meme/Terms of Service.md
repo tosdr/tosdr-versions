@@ -1,3 +1,5 @@
+[🥇 See Who Won The KYM Poll For Meme Of The Month! 🥇](https://knowyourmeme.com/editorials/see-the-winner-of-october-2024s-meme-of-the-month/)
+
 [](https://knowyourmeme.com/ "Know Your Meme")
 
 [Advanced Search Protips](https://knowyourmeme.com/editorials/kym-database-search-operators)
@@ -97,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/412/creepychan.jpg "Where Are They Now? Here's What Allison Harvard, AKA 'Creepy Chan,' Has Been Up To Since Her Early Internet Fame")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/454/dumb-ahh-pumpkin.jpg "The Weekly Meme Roundup: A Tale Of Two Internets")
+    
+    The Weekly Meme Roundup: A Tale Of Two Internets](https://knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-a-tale-of-two-internets)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/453/rule_63.jpg "What Is Rule 63 Of The Internet? The Internet Adage About Gender-Bent Fan Art Explained")
+    
+    What Is Rule 63 Of The Internet? The Internet Adage About Gender-Bent Fan Art Explained](https://knowyourmeme.com/editorials/guides/what-is-rule-63-of-the-internet-the-internet-adage-about-gender-bent-fan-art-explained)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/452/creepychan.jpg "Where Are They Now? Here's What Allison Harvard, AKA 'Creepy Chan,' Has Been Up To Since Her Early Internet Fame")
     
     Where Are They Now? Here's What Allison Harvard, AKA 'Creepy Chan,' Has Been Up To Since Her Early Internet Fame](https://knowyourmeme.com/editorials/guides/where-are-they-now-heres-what-allison-harvard-aka-creepy-chan-has-been-up-to-since-her-early-internet-fame-and-americas-next-top-model)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/410/fbe.jpg "What's The Correct Answer For The 6÷2(1+2) Equation? The Viral 'Math Bait' Meme Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/451/fp2.jpg "Why Are TikTokers Trying To 'Cancel Out' Their Family Members' Votes? The Viral 'U.S. Election 2024' Trend Explained")
     
-    What's The Correct Answer For The 6÷2(1+2) Equation? The Viral 'Math Bait' Meme Explained](https://knowyourmeme.com/editorials/guides/whats-the-correct-answer-for-the-6212-equation-the-viral-math-bait-meme-explained)
+    Why Are TikTokers Trying To 'Cancel Out' Their Family Members' Votes? The Viral 'U.S. Election 2024' Trend Explained](https://knowyourmeme.com/editorials/guides/why-are-tiktokers-trying-to-cancel-out-their-family-members-votes-the-viral-us-election-2024-trend-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/411/dumb-ahh-pumpkin-explainer.jpg "What's The 'Dumb Ahh Pumpkin' Meme? The Silly TikTok Jack-O'-Lanterns You're Bound To See On Halloween Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/450/1.jpg "What Does 'Winter Is Coming' Mean? The Viral 'Game Of Thrones' Meme From Ned Stark Explained")
     
-    What's The 'Dumb Ahh Pumpkin' Meme? The Silly TikTok Jack-O'-Lanterns You're Bound To See On Halloween Explained](https://knowyourmeme.com/editorials/guides/whats-the-dumb-ahh-pumpkin-meme-the-silly-tiktok-jack-o-lanterns-youre-bound-to-see-on-halloween-explained)
-    
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/409/maxresdefault.jpg "Who Are 'Jinky Minus' And 'Gaper Bingzoid'? A Pair Of Bizarre New 'Star Wars' Characters Explained")
-    
-    Who Are 'Jinky Minus' And 'Gaper Bingzoid'? A Pair Of Bizarre New 'Star Wars' Characters Explained](https://knowyourmeme.com/editorials/guides/who-are-jinky-minus-and-gaper-bingzoid-a-pair-of-bizarre-new-star-wars-characters-explained)
-    
-* [![The Meme History Of 'No Capes,' One Of The Most Iconic Lines From 'The Incredibles'](https://i.kym-cdn.com/featured_items/icons/wide/000/026/428/no-capes.gif "The Meme History Of 'No Capes,' One Of The Most Iconic Lines From 'The Incredibles'")
-    
-    The Meme History Of 'No Capes,' One Of The Most Iconic Lines From 'The Incredibles'](https://knowyourmeme.com/memes/no-capes)
+    What Does 'Winter Is Coming' Mean? The Viral 'Game Of Thrones' Meme From Ned Stark Explained](https://knowyourmeme.com/editorials/guides/what-does-winter-is-coming-mean-the-viral-game-of-thrones-meme-from-ned-stark-explained)
     
 
 ##### Also Trending:
 
-[Maia Poet 'Lazy Eye' Controversy](https://knowyourmeme.com/memes/events/maia-poet-left-and-joined-team-maga-lazy-eye-controversy "Maia Poet 'Lazy Eye' Controversy") [Nintendo Music App](https://knowyourmeme.com/memes/subcultures/nintendo-music-app "Nintendo Music App") [Kei Trucks](https://knowyourmeme.com/memes/kei-trucks "Kei Trucks")
+[Maia Poet 'Lazy Eye' Controversy](https://knowyourmeme.com/memes/events/maia-poet-left-and-joined-team-maga-lazy-eye-controversy "Maia Poet 'Lazy Eye' Controversy") [Nintendo Music App](https://knowyourmeme.com/memes/subcultures/nintendo-music-app "Nintendo Music App") [MrBeast Crypto Scam Allegations](https://knowyourmeme.com/memes/events/mrbeast-crypto-scam-allegations "MrBeast Crypto Scam Allegations") [Kei Trucks](https://knowyourmeme.com/memes/subcultures/kei-trucks "Kei Trucks") [Dragon Age Veilguard Reviews Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-reviews-controversy "Dragon Age Veilguard Reviews Controversy") [Joe Biden Biting Baby](https://knowyourmeme.com/memes/joe-biden-biting-baby "Joe Biden Biting Baby")
 
 Terms of Service and Use
 ========================
@@ -261,7 +263,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Greetings! You must login or signup first!
+### 'lo! You must login or signup first!
 
 |     |     |
 | --- | --- |
