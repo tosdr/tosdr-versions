@@ -2,14 +2,14 @@
 
 * Es noticia:
 * [DANA última hora](https://www.marca.com/tiramillas/actualidad/2024/10/31/67233a5bdd67d3ed8918ba6b-directo.html)
-* [Alcaraz - Humbert](https://www.marca.com/tenis/masters-1000-paris/ugo-humbert-carlos-alcaraz/2024/10/31/04_0413_20241031_56-directo.html)
+* [Alcaraz](https://www.marca.com/tenis/masters-1000-paris/2024/10/31/6723ac08268e3e611e8b4593.html)
 * [Maccabi - Real Madrid](https://www.marca.com/baloncesto/euroliga/maccabi-fox-tel-aviv-real-madrid/2024/10/31/02_0203_20241031_6394_6210-directo.html)
 * [Ontiñena - Las Palmas](https://www.marca.com/futbol/copa-del-rey/ontinena-las-palmas/2024/10/31/01_0105_20241031_22163_407-directo.html)
 * [Copa del Rey](https://www.marca.com/futbol/copa-rey/2024/10/30/67220c231ff7ff37b00e06ad-directo.html)
 * [José Castillejo](https://www.marca.com/futbol/cd-eldense/2024/10/31/muere-jose-castillejo-canterano-valencia-ex-eldense-causa-dana.html)
 * [Gévora - Betis](https://www.marca.com/futbol/copa-del-rey/gevora-betis/2024/10/31/01_0105_20241031_22159_185-directo.html)
 * [Lebron y Galan](https://www.marca.com/padel/2024/10/31/lebron-galan-jugaran-semifinales-mundial-padel-probablemente-final.html)
-* [Partidos suspendidos Liga](https://www.marca.com/futbol/2024/10/31/suspenden-partidos-primera-segunda-division-comunitat-valenciana-dana.html)
+* [Atlético de Madrid](https://www.marca.com/futbol/copa-rey/cronica/2024/10/31/672383db46163fdbaf8b45a3.html)
 * [Horarios MotoGP Malasia](https://www.marca.com/motor/motogp/gp-malasia/2024/10/31/6723a5d646163f995f8b457b.html)
 * [Cuándo juega Alcaraz](https://www.marca.com/tenis/masters-1000-paris/2024/10/30/6722574522601d2a508b45b4.html)
 * [Gevora - Betis horario](https://www.marca.com/futbol/copa-rey/2024/10/31/gevora-betis-horario-ver-tv-partido-copa-rey.html)
