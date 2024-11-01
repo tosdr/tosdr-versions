@@ -389,7 +389,11 @@ If you have any requests concerning your personal information or any queries wit
 
 **Time limit to respond.** We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
 
-**Last Update: May 2018**
+**APP TRACKING TRANSPARENCY (ATT) PERMISSION**  
+Our ReklamStore app requests user permission to track data, such as device identifiers, for advertising purposes using Apple’s App Tracking Transparency (ATT) framework. The app only accesses and tracks this data if the user grants permission. The ATT permission allows us to respect user preferences regarding data collection and usage. Granting this permission enables us to personalize the user experience and improve our advertising strategies. If you have any questions or requests regarding the ATT permission, please contact us at **[i](mailto:privacy@reklamstore.com)**nfo@reklamstorecom.  
+  bu metni
+
+**Last Update: November 2024**
 
 **Navigate the Platforms:**  
 Your Quick Guide to Making the Right Choice
