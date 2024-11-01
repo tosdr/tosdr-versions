@@ -1,3 +1,7 @@
+**How to help: [Hurricane Helene](https://www.fidelitycharitable.org/guidance/disaster-relief/how-to-help-hurricane-helene.html) and [Hurricane Milton](https://www.fidelitycharitable.org/guidance/disaster-relief/how-to-help-hurricane-milton.html) guidance**
+
+[×](#)
+
 WEBINAR: Maximize Your Impact: Tax-Savvy Giving With Donor-Advised Funds
 
 [Register now](https://www.fidelitycharitable.org/events/maximize-your-impact.html)
