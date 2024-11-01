@@ -399,11 +399,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [9 Best Adobe Lightroom Courses for 2024](https://www.classcentral.com/report/best-adobe-lightroom-courses/)
-2. [10 Best English Grammar Courses for 2024](https://www.classcentral.com/report/best-english-grammar-courses/)
-3. [7 Best Email Marketing Courses for 2024](https://www.classcentral.com/report/best-email-marketing-courses/)
-4. [\[2024\] TOEFL Test Preparation with 80+ Online Resources](https://www.classcentral.com/report/toefl-preparation/)
-5. [\[2024\] 80+ GMAT Exam Preparation Resources](https://www.classcentral.com/report/gmat-preparation/)
+1. [6 Best Photography Courses for 2024](https://www.classcentral.com/report/best-photography-courses/)
+2. [9 Best Adobe Lightroom Courses for 2024](https://www.classcentral.com/report/best-adobe-lightroom-courses/)
+3. [10 Best English Grammar Courses for 2024](https://www.classcentral.com/report/best-english-grammar-courses/)
+4. [7 Best Email Marketing Courses for 2024](https://www.classcentral.com/report/best-email-marketing-courses/)
+5. [\[2024\] TOEFL Test Preparation with 80+ Online Resources](https://www.classcentral.com/report/toefl-preparation/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. English
+1. computer science
     
 2. French
     
-3. trading
+3. flutter
     
 
 Popular subjects
 ----------------
 
-1. [Artificial Intelligence
+1. [Web Development
     
-    12,926 courses](https://www.classcentral.com/subject/ai)
-2. [Data Analysis
+    13,382 courses](https://www.classcentral.com/subject/web-development)
+2. [Software Development
     
-    8,485 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Python
+    9,519 courses](https://www.classcentral.com/subject/software-development)
+3. [Graphic Design
     
-    9,625 courses](https://www.classcentral.com/subject/python)
+    4,227 courses](https://www.classcentral.com/subject/graphic-design)
 
 Popular courses
 ---------------
 
-1. [Web Security Fundamentals
+1. [Functional Programming Principles in Scala
     
-    KU Leuven University](https://www.classcentral.com/course/computer-security-ku-leuven-web-security-fundamen-8726)
-2. [Psychology of Personal Growth
+    École Polytechnique Fédérale de Lausanne](https://www.classcentral.com/course/progfun-422)
+2. [Mountains 101
     
-    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/personal-development-the-hong-kong-university-of--8857)
-3. [Sheep in the Land of Fire and Ice
+    University of Alberta](https://www.classcentral.com/course/mountains-101-7455)
+3. [Industrial Pharmacy-I
     
-    University of Iceland](https://www.classcentral.com/course/environmental-science-the-university-of-iceland-s-13245)
+    H.N.B Garhwal University (A Central University) Srinagar Garhwal](https://www.classcentral.com/course/swayam-industrial-pharmacy-i-14123)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
