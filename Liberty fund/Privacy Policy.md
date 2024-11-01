@@ -417,6 +417,8 @@ USA
 
 Stay connected with Liberty Fund’s quarterly newsletter featuring the latest news, book releases, and original content.
 
+* CAPTCHA
+    
 * Email\*
     
 * Name
