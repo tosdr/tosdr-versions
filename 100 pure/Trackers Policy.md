@@ -18,7 +18,7 @@ My Tote
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/NHA_Silver.png?crop=center&height=85&v=1724151394&width=85)](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
 
-[20% off
+[19% off
 
 ![coffee-bean-caffeine-brightening-eye-cream](https://www.100percentpure.com/cdn/shop/files/1FMCBEC_Coffee_Bean_Caffeine_Eye_Cream_Primary_1oz_primary_78935561-7401-4248-b08e-aa6af8c5c1a7_239x254.webp?v=1724416545)](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
 
@@ -26,11 +26,11 @@ My Tote
 
 ### [Coffee Bean Caffeine Brightening Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
 
-5780 reviews (5780)
+4609 reviews (4609)
 
-$12.80 $23.20
+$19.00 $34.00
 
-1 oz - $23.20 0.3 oz - $12.80
+1 oz - $34 0.3 oz - $19
 
 Sale
 
@@ -50,7 +50,7 @@ CHOOSE Size
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/NHA_Silver.png?crop=center&height=85&v=1724151394&width=85)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-ultra-riche-pm-treatment)
 
-[20% off
+[19% off
 
 ![multi-vitamin-+-antioxidants-ultra-riché-pm-treatment](https://www.100percentpure.com/cdn/shop/files/1FMVPMT_Multi_Vitamin_Cream_Primary_239x254.jpg?v=1696452642)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-ultra-riche-pm-treatment)
 
@@ -60,9 +60,9 @@ CHOOSE Size
 
 1049 reviews (1049)
 
-$51.20 $64.00
+$74.00 $92.00
 
-Default Title - $51.20
+Default Title - $74
 
 ADD TO TOTE
 
@@ -70,7 +70,7 @@ ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/Awards-2024-global-green-beauty-silver.png?crop=center&height=85&v=1725096491&width=85)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
 
-[20% off
+[19% off
 
 ![multi-vitamin-+-antioxidants-potent-pm-serum](https://www.100percentpure.com/cdn/shop/files/1FMVPPMS_Multi-Vitamin_And_Antioxidants_Potent_PM_Serum_Primary_239x254.jpg?v=1713543184)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
 
@@ -80,9 +80,9 @@ ADD TO TOTE
 
 97 reviews (98)
 
-$57.60 $72.00
+$83.00 $103.00
 
-1 oz - $57.60
+1 oz - $83
 
 ADD TO TOTE
 
@@ -96,9 +96,9 @@ ADD TO TOTE
 
 2405 reviews (2405)
 
-$22.40 $28.00
+$32.00 $40.00
 
-Dark Chocolate - $22.40 Black Tea - $22.40 Blackberry - $28
+Dark Chocolate - $32 Black Tea - $32 Blackberry - $40
 
 Black Tea
 
@@ -122,9 +122,9 @@ CHOOSE Color
 
 763 reviews (763)
 
-$12.00 $26.00
+$18.00 $38.00
 
-1.7 oz - $12 8 oz - $26
+1.7 oz - $18 8 oz - $38
 
 8 oz
 
@@ -142,9 +142,9 @@ CHOOSE Size
 
 39 reviews (39)
 
-$7.00 $28.00
+$10.00 $40.00
 
-Single - $7 5 Pack - $28
+Single - $10 5 Pack - $40
 
 Single
 
@@ -162,9 +162,9 @@ CHOOSE Size
 
 375 reviews (375)
 
-$7.00
+$10.00
 
-Single - $7
+Single - $10
 
 ADD TO TOTE
 
@@ -176,9 +176,9 @@ ADD TO TOTE
 
 2025 reviews (2025)
 
-$27.00 $27.00
+$39.00 $39.00
 
-Blackest - $27 Dark Cacao - $27 Gleaming Pewter - $27
+Blackest - $39 Dark Cacao - $39 Gleaming Pewter - $39
 
 Gleaming Pewter
 
@@ -198,9 +198,9 @@ CHOOSE Color
 
 46 reviews (46)
 
-$25.00
+$36.00
 
-Default Title - $25
+Default Title - $36
 
 ADD TO TOTE
 
@@ -212,9 +212,9 @@ ADD TO TOTE
 
 354 reviews (354)
 
-$7.00 $32.00
+$10.00 $46.00
 
-Single - $7 5 Pack - $32
+Single - $10 5 Pack - $46
 
 5 Pack
 
@@ -234,15 +234,15 @@ CHOOSE Size
 
 845 reviews (845)
 
-$30.40 $38.00
+$44.00 $55.00
 
-Default Title - $30.40
+Default Title - $44
 
 ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/VBA_SEAL_HQ_-_transparent_background_1.png?crop=center&height=85&v=1717163115&width=85)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
-[20% off
+[19% off
 
 ![multi-vitamin-+-antioxidants-pm-facial-oil](https://www.100percentpure.com/cdn/shop/products/1FMVPMFO_Multi_Viamin_Facial_Oil_Primary_239x254.jpg?v=1696527574)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
@@ -252,9 +252,9 @@ ADD TO TOTE
 
 197 reviews (197)
 
-$46.40 $58.00
+$67.00 $83.00
 
-Default Title - $46.40
+Default Title - $67
 
 ADD TO TOTE
 
@@ -266,9 +266,9 @@ ADD TO TOTE
 
 294 reviews (294)
 
-$26.00
+$38.00
 
-Default Title - $26
+Default Title - $38
 
 ADD TO TOTE
 
@@ -280,9 +280,9 @@ ADD TO TOTE
 
 350 reviews (350)
 
-$26.00
+$38.00
 
-Default Title - $26
+Default Title - $38
 
 ADD TO TOTE
 
@@ -294,13 +294,13 @@ ADD TO TOTE
 
 388 reviews (388)
 
-$26.00
+$38.00
 
-Default Title - $26
+Default Title - $38
 
 ADD TO TOTE
 
-[20% off
+[18% off
 
 ![cucumber-cloud-foam-cleanser](https://www.100percentpure.com/cdn/shop/products/1FCCFC_Cucumber_Cloud_Foam_Cleanser_Primary_239x254.jpg?v=1617318615)](https://www.100percentpure.com/products/cucumber-cloud-foam-cleanser)
 
@@ -310,9 +310,9 @@ ADD TO TOTE
 
 120 reviews (120)
 
-$24.00 $30.00
+$35.00 $43.00
 
-Default Title - $24
+Default Title - $35
 
 ADD TO TOTE
 
@@ -324,9 +324,9 @@ ADD TO TOTE
 
 876 reviews (876)
 
-$38.00
+$55.00
 
-Default Title - $38
+Default Title - $55
 
 ADD TO TOTE
 
@@ -340,9 +340,9 @@ ADD TO TOTE
 
 78 reviews (78)
 
-$19.00
+$28.00
 
-Default Title - $19
+Default Title - $28
 
 ADD TO TOTE
 
@@ -356,9 +356,9 @@ ADD TO TOTE
 
 1569 reviews (1569)
 
-$30.00 $30.00
+$43.00 $43.00
 
-Blackberry - $30 Black Tea - $30 Dark Chocolate - $30
+Blackberry - $43 Black Tea - $43 Dark Chocolate - $43
 
 Black Tea
 
@@ -378,9 +378,9 @@ CHOOSE Color
 
 1131 reviews (1131)
 
-$45.00
+$65.00
 
-Default Title - $45
+Default Title - $65
 
 ADD TO TOTE
 
@@ -394,9 +394,9 @@ ADD TO TOTE
 
 691 reviews (691)
 
-$38.40 $48.00
+$55.00 $69.00
 
-Default Title - $38.40
+Default Title - $55
 
 ADD TO TOTE
 
@@ -410,9 +410,9 @@ ADD TO TOTE
 
 508 reviews (508)
 
-$38.40 $48.00
+$55.00 $69.00
 
-Default Title - $38.40
+Default Title - $55
 
 ADD TO TOTE
 
@@ -424,9 +424,9 @@ ADD TO TOTE
 
 544 reviews (544)
 
-$52.00
+$75.00
 
-Default Title - $52
+Default Title - $75
 
 ADD TO TOTE
 
@@ -438,15 +438,15 @@ ADD TO TOTE
 
 59 reviews (59)
 
-$48.00
+$69.00
 
-Default Title - $48
+Default Title - $69
 
 ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/VBA_SEAL_HQ_-_transparent_background_1.png?crop=center&height=85&v=1717163115&width=85)](https://www.100percentpure.com/products/vitamin-c-serum)
 
-[20% off
+[19% off
 
 ![vitamin-c-serum](https://www.100percentpure.com/cdn/shop/files/1FMVCS_Vitamin_C_Serum_Primary_239x254.jpg?v=1695399627)](https://www.100percentpure.com/products/vitamin-c-serum)
 
@@ -456,13 +456,13 @@ ADD TO TOTE
 
 1419 reviews (1419)
 
-$46.40 $58.00
+$67.00 $83.00
 
-Default Title - $46.40
+Default Title - $67
 
 ADD TO TOTE
 
-[20% off
+[19% off
 
 ![bakuchiol-moisturizer](https://www.100percentpure.com/cdn/shop/files/Bakuchiol_Moisturizer_FRONT_b16faf33-f814-40fb-8b44-4af0d6e8a9a1_239x254.jpg?v=1728393817)](https://www.100percentpure.com/products/bakuchiol-moisturizer)
 
@@ -472,9 +472,9 @@ ADD TO TOTE
 
 188 reviews (188)
 
-$46.40 $58.00
+$67.00 $83.00
 
-Default Title - $46.40
+Default Title - $67
 
 ADD TO TOTE
 
@@ -486,9 +486,9 @@ ADD TO TOTE
 
 5291 reviews (5291)
 
-$28.00 $28.00
+$40.00 $40.00
 
-Blackberry - $28 Blueberry - $28 Dark Chocolate - $28 Black Tea - $28
+Blackberry - $40 Blueberry - $40 Dark Chocolate - $40 Black Tea - $40
 
 Blueberry
 
@@ -512,9 +512,9 @@ CHOOSE Color
 
 125 reviews (125)
 
-$55.00
+$79.00
 
-Default Title - $55
+Default Title - $79
 
 ADD TO TOTE
 
@@ -530,15 +530,15 @@ ADD TO TOTE
 
 84 reviews (84)
 
-$38.40 $48.00
+$55.00 $69.00
 
-Default Title - $38.40
+Default Title - $55
 
 ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/1_3_3d2a3168-e15d-498f-8b8e-498d0c8feb87.png?crop=center&height=85&v=1705348338&width=85)](https://www.100percentpure.com/products/apple-enzyme-exfoliating-cleanser)
 
-[20% off
+[19% off
 
 ![7%-fruit-acids-apple-enzyme-exfoliating-cleanser](https://www.100percentpure.com/cdn/shop/files/7_FruitAcidsAppleEnzymeExfoliatingCleanser_239x254.png?v=1696468131)](https://www.100percentpure.com/products/apple-enzyme-exfoliating-cleanser)
 
@@ -548,9 +548,9 @@ ADD TO TOTE
 
 83 reviews (83)
 
-$25.60 $32.00
+$37.00 $46.00
 
-Default Title - $25.60
+Default Title - $37
 
 ADD TO TOTE
 
@@ -562,9 +562,9 @@ ADD TO TOTE
 
 512 reviews (512)
 
-$8.00
+$12.00
 
-Default Title - $8
+Default Title - $12
 
 ADD TO TOTE
 
@@ -576,9 +576,9 @@ ADD TO TOTE
 
 659 reviews (659)
 
-$8.00
+$12.00
 
-Default Title - $8
+Default Title - $12
 
 ADD TO TOTE
 
@@ -592,9 +592,9 @@ ADD TO TOTE
 
 975 reviews (975)
 
-$7.00 $30.00
+$10.00 $43.00
 
-5 Pack - $30 Single - $7
+5 Pack - $43 Single - $10
 
 Single
 
@@ -612,9 +612,9 @@ CHOOSE Size
 
 757 reviews (757)
 
-$8.00
+$12.00
 
-Default Title - $8
+Default Title - $12
 
 ADD TO TOTE
 
@@ -1078,7 +1078,7 @@ Albania (ALL L) Andorra (EUR €) Austria (EUR €) Belgium (EUR €) Bosnia & H
 
 Update country/region
 
-(USD $)
+(CAD $)
 
 * [Albania (ALL L)](#)
 * [Andorra (EUR €)](#)
