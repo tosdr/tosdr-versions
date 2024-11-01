@@ -26,12 +26,12 @@ Search for:
 
 Close search ![Close](https://nerdist.com/wp-content/themes/nerdist_2021/img/Close.svg) 
 
-* [](https://www.facebook.com/Nerdist/ "Facebook Nerdist")[](https://twitter.com/nerdist "Twitter Nerdist")[](https://www.instagram.com/nerdist/?hl=en "Instagram Nerdist")[](https://www.youtube.com/nerdist "Youtube Nerdist")[](https://www.tiktok.com/@nerdist "TikTok Nerdist")
+*  [![Facebook Nerdist](https://nerdist.com/wp-content/themes/nerdist_2021/public/images/social-white-facebook.svg)](https://www.facebook.com/Nerdist/ "Facebook Nerdist")[![Twitter Nerdist](https://nerdist.com/wp-content/themes/nerdist_2021/public/images/social-white-twitter.svg)](https://twitter.com/nerdist "Twitter Nerdist")[![Instagram Nerdist](https://nerdist.com/wp-content/themes/nerdist_2021/public/images/social-white-instagram.svg)](https://www.instagram.com/nerdist/?hl=en "Instagram Nerdist")[![Youtube Nerdist](https://nerdist.com/wp-content/themes/nerdist_2021/public/images/social-white-youtube.svg)](https://www.youtube.com/nerdist "Youtube Nerdist")[![TikTok Nerdist](https://nerdist.com/wp-content/themes/nerdist_2021/public/images/social-white-tiktok.svg)](https://www.tiktok.com/@nerdist "TikTok Nerdist")
 
 * [Topics](https://nerdist.com/topics/ "Topics")
 * [Newsletter](https://nerdist.com/newsletter/ "Newsletter")
 
-* [](https://www.facebook.com/geekandsundry/ "Facebook Geek and Sundry")[](https://twitter.com/geekandsundry "Twitter Geek and Sundry")[](https://www.instagram.com/geekandsundry/?hl=en "Instagram Geek and Sundry")[](https://www.youtube.com/geekandsundry "Youtube Geek and Sundry")
+*  [![Facebook Geek and Sundry](https://nerdist.com/wp-content/themes/nerdist_2021/public/images/social-white-facebook.svg)](https://www.facebook.com/geekandsundry/ "Facebook Geek and Sundry")[![Twitter Geek and Sundry](https://nerdist.com/wp-content/themes/nerdist_2021/public/images/social-white-twitter.svg)](https://twitter.com/geekandsundry "Twitter Geek and Sundry")[![Instagram Geek and Sundry](https://nerdist.com/wp-content/themes/nerdist_2021/public/images/social-white-instagram.svg)](https://www.instagram.com/geekandsundry/?hl=en "Instagram Geek and Sundry")[![Youtube Geek and Sundry](https://nerdist.com/wp-content/themes/nerdist_2021/public/images/social-white-youtube.svg)](https://www.youtube.com/geekandsundry "Youtube Geek and Sundry")
 
 Privacy Policy
 ==============
