@@ -102,7 +102,9 @@ Menu
     * [Blog](https://unitedwayswi.org/blog/)
     * [Press Releases](https://unitedwayswi.org/press-releases/)
 
-![](https://unitedwayswi.org/wp-content/uploads/2019/11/UITW-Email-Header-4-United-Way-of-Southwestern-Indiana-1024x410.png)
+[![](https://unitedwayswi.org/wp-content/uploads/2024/10/2-LINE-UW-First-RGB-United-Way-Logo-Localization-Tool.png)](https://unitedwayswi.org/)
+
+[![](https://unitedwayswi.org/wp-content/uploads/2019/11/Copy-of-LinkedIn-Headers-1-1024x256.png)](https://unitedwayswi.org/)
 
 PRIVACY POLICY
 
@@ -177,6 +179,8 @@ United Way of Southwestern Indiana
 318 Main Street, Suite 504  
 Evansville, IN  47708  
 Phone: [812-422-4100](tel:812-422-4100)
+
+EIN: 35-0868069
 
 [Facebook-f](https://www.facebook.com/unitedwayswi) [Instagram](https://www.instagram.com/unitedwayswi/?hl=en) [Youtube](https://www.youtube.com/user/unitedwayswi) [Linkedin](https://www.linkedin.com/company/10306318/)
 
