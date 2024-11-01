@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-08ffc1cae972b6d913bec29d5dbf3d2f
+d4b9aa487c60913df013e0eda818eac7
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![4 mm round faceted labradorite beads](https://www.sojourner.biz/images/cache/labradorite/LAB0006.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/labradorite/4-mm-round-faceted-labradorite-beads.html "4 mm round faceted labradorite beads")
+[![12 mm irregular pink pearls](https://www.sojourner.biz/images/cache/pearls/PE0036.200.jpg)](https://www.sojourner.biz/beads/pearls/12-mm-irregular-pink-pearls.html "12 mm irregular pink pearls")
 
-#### [4 mm round faceted labradorite beads](https://www.sojourner.biz/beads/stone-a-l/labradorite/4-mm-round-faceted-labradorite-beads.html "4 mm round faceted labradorite beads")
+#### [12 mm irregular pink pearls](https://www.sojourner.biz/beads/pearls/12-mm-irregular-pink-pearls.html "12 mm irregular pink pearls")
 
-$20.00
+$34.00
 
 ### Best Sellers
 
