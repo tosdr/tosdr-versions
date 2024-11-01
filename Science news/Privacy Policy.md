@@ -91,7 +91,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Limiting sugar in infancy reduces the risk of diabetes and hypertension](https://www.sciencenews.org/article/sugar-infancy-risk-diabetes)
             
-            By [Skyler Ware](https://www.sciencenews.org/author/skyler-ware "Posts by Skyler Ware")15 hours ago
+            By [Skyler Ware](https://www.sciencenews.org/author/skyler-ware "Posts by Skyler Ware")21 hours ago
             
         * [Science & Society](https://www.sciencenews.org/topic/science-society)
             
@@ -118,19 +118,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A single enzyme can alter the vibrant colors in parrot plumage](https://www.sciencenews.org/article/parrot-feathers-pigment-color-chemical)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")15 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")21 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
             ### [Backyard explorers discovered 15 new examples of glowing life](https://www.sciencenews.org/article/biofluorescence-find-fluorescence-glow) 
             
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")17 hours ago
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")23 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [This marine biologist discovered a unique blue whale population in Sri Lanka](https://www.sciencenews.org/article/asha-de-vos-sri-lanka-blue-whales)
             
-            By [Sandy Ong](https://www.sciencenews.org/author/sandy-ong "Posts by Sandy Ong")20 hours ago
+            By [Sandy Ong](https://www.sciencenews.org/author/sandy-ong "Posts by Sandy Ong")October 31, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [This marine biologist discovered a unique blue whale population in Sri Lanka](https://www.sciencenews.org/article/asha-de-vos-sri-lanka-blue-whales)
             
-            By [Sandy Ong](https://www.sciencenews.org/author/sandy-ong "Posts by Sandy Ong")20 hours ago
+            By [Sandy Ong](https://www.sciencenews.org/author/sandy-ong "Posts by Sandy Ong")October 31, 2024
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
@@ -184,7 +184,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-    * * [Science & Society](https://www.sciencenews.org/topic/science-society)
+    * * [Space](https://www.sciencenews.org/topic/space)
+            
+            ### [A distant quasar’s black hole is oddly huge for its galaxy](https://www.sciencenews.org/article/quasar-black-hole-oddly-huge)
+            
+            By [Ken Croswell](https://www.sciencenews.org/author/ken-croswell "Posts by Ken Croswell")2 hours ago
+            
+        * [Science & Society](https://www.sciencenews.org/topic/science-society)
             
             ### [Using AI, historians track how astronomy ideas spread in the 16th century](https://www.sciencenews.org/article/artificial-intelligence-astronomy-ai)
             
@@ -195,12 +201,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [A near-Earth asteroid offers clues to one dark matter theory](https://www.sciencenews.org/article/asteroid-bennu-dark-matter) 
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")October 24, 2024
-            
-        * [Space](https://www.sciencenews.org/topic/space)
-            
-            ### [JWST spots the first known ‘steam world’](https://www.sciencenews.org/article/jwst-spots-the-first-known-steam-world)
-            
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")October 22, 2024
             
 
 Privacy Policy
