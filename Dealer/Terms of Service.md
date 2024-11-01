@@ -137,3 +137,33 @@ To be effective, the notification must be a written communication that includes 
 Copyright © 2001-2024 Cox Automotive Inc. All Rights Reserved
 
 [![cox-automotive-ddc-2023](https://www.dealer.com/wp-content/uploads/sites/18/2023/06/cox-automotive-ddc-2023.svg)](https://www.coxautoinc.com/)
+
+![](https://www.dealer.com/wp-content/uploads/sites/18/2024/10/NADA-2025-Logo.png?w=622)
+
+Are you attending NADA 2025?
+----------------------------
+
+[Yes](#)
+
+[No](#)
+
+![](https://www.dealer.com/wp-content/uploads/sites/18/2024/10/NADA-2025-Logo.png?w=622)
+
+Great! We’re looking forward to seeing you there. Don’t forget to book a demo with us to learn about all our new products and features.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+[Click Here](http://www.coxautoinc.com/nada/ddc/?willAttend=yes&utm_campaign=ddc-nada2025&utm_medium=website-brand&utm_source=sitewide-popup&utm_content=attending-yn)
+
+![](https://www.dealer.com/wp-content/uploads/sites/18/2024/10/NADA-2025-Logo.png?w=622)
+
+Don’t forget to book a demo to see all our latest products and features. Book Now! We’ll see you at NADA 2025!
+--------------------------------------------------------------------------------------------------------------
+
+[Book Now](http://www.coxautoinc.com/nada/ddc/?willAttend=yes&utm_campaign=ddc-nada2025&utm_medium=website-brand&utm_source=sitewide-popup&utm_content=attending-yn)
+
+![](https://www.dealer.com/wp-content/uploads/sites/18/2024/10/NADA-2025-Logo.png?w=622)
+
+That’s OK! Still want to learn about our new products and features?
+-------------------------------------------------------------------
+
+[Click Here](http://www.coxautoinc.com/nada/ddc/?willAttend=no&utm_campaign=ddc-nada2025&utm_medium=website-brand&utm_source=sitewide-popup&utm_content=attending-yn)
