@@ -1,7 +1,3 @@
-Get 75% off your first 3 months of Payroll!
-
-Schedule Your Demo Now.[See Details](https://wheniwork.com/blog/75-off-your-first-3-months-of-payroll-terms)
-
 [![When I Work Logo - To Home Page](https://marketing-assets.wheniwork-production.com/2019/08/15163825/logo.svg)](https://wheniwork.com/ "When I Work - Home")[Blog](https://wheniwork.com/blog "When I Work - Blog Home")
 
 Start Free Trial
@@ -23,12 +19,10 @@ Open Menu
         
         Communicate with everyone on the team, all in one place, without sharing phone numbers.
         
-    * [### Payroll](https://wheniwork.com/features/full-service-payroll-software)
+    * [### Integrations](https://wheniwork.com/integrations)
         
-        Run payroll in minutes with a single click—no more syncing or importing needed.
+        Connect with the tools you rely on to streamline scheduling, payroll, and more.
         
-    
-    [Integrations](https://wheniwork.com/integrations)
     
 * Industries
     
@@ -1283,7 +1277,6 @@ OR
 * [Employee Scheduling](https://wheniwork.com/features/employee-scheduling-software "Employee Scheduling")
 * [Employee Time Clock](https://wheniwork.com/features/time-clock "Employee Time Clock")
 * [Team Messaging](https://wheniwork.com/features/team-messaging "Team Messaging")
-* [Full Service Payroll](https://wheniwork.com/features/full-service-payroll-software "Full Service Payroll")
 * [Shift Planning](https://wheniwork.com/blog/shift-planning "Shift Planning")
 * [Integrations](https://wheniwork.com/integrations "Integrations")
 * [Pricing](https://wheniwork.com/pricing "Pricing")
