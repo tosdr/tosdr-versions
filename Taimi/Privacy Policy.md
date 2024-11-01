@@ -1,6 +1,6 @@
-[![Modal icon](https://taimi.com/themes/taimi2/assets/images/banner-en.jpeg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/privacy-policy_page(id%20129))
+[![Modal icon](https://taimi.com/themes/taimi2/assets/images/banner-en.jpeg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/privacy-policy)
 
-[![Logo](https://taimi.com/themes/taimi2/assets/images/logo.svg)](https://taimi.com/)[Get Taimi App for Free](https://app.adjust.com/goc7ths?campaign=https://taimi.com/privacy-policy_page(id%20129))
+[![Logo](https://taimi.com/themes/taimi2/assets/images/logo.svg)](https://taimi.com/)[Get Taimi App for Free](https://app.adjust.com/goc7ths?campaign=https://taimi.com/privacy-policy)
 
 * 
 * [US Dating](https://taimi.com/us-dating)
@@ -13,7 +13,7 @@
 
 Download for free:
 
- [![Iphone logo](https://taimi.com/themes/taimi2/assets/images/nav_iphone.svg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/privacy-policy_page(id%20129))[![Google Play logo](https://taimi.com/themes/taimi2/assets/images/nav_google_play.png)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/privacy-policy_page(id%20129))
+ [![Iphone logo](https://taimi.com/themes/taimi2/assets/images/nav_iphone.svg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/privacy-policy)[![Google Play logo](https://taimi.com/themes/taimi2/assets/images/nav_google_play.png)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/privacy-policy)
 
 **TAIMI PRIVACY POLICY**
 ========================
@@ -556,13 +556,23 @@ You may exercise your rights by contacting us at [support@taimi.com](mailto:supp
 
 (c)   if you are an EU or UK user, we will have 30 calendar days following the date that you provide us with the data required for verification to process your request. In the event of your failure to pass the verification process, we may deny your request. We are entitled to prolong the response term up to 2 months by giving you a notification.
 
-**11.3.** **Verification and automated decision-making**. The most important step is the verification process. We will first check that we have enough information to be sure of your identity. Often, we will have no reason to doubt a person’s identity (if you contact us via the App, for example). In most cases we use a combination of the automated system and a team of moderators to verify the users\` identity and users are not robots. And we also want to avoid fake Taimi accounts being created which can be used for malicious activities and cybercrime – they threaten the Taimi network and spoil things for everyone. If you choose to verify your profile photo, our automated system will scan each photo that you submit. So, automated decision-making is necessary in order to help ensure that you are who you say you are before entering into a contract with you. This ultimately assists our efforts to prevent and respond to illegal, malicious, and unauthorized activity. We do not add the verification photos to your profile.
+**11.3.** **Verification and automated decision-making.** The most important step is the verification process. We will first check that we have enough information to be sure of your identity. Often, we will have no reason to doubt a person’s identity (if you contact us via the App, for example). In most cases we use a combination of the automated system and a team of moderators to verify the users\` identity and users are not robots. And we also want to avoid fake Taimi accounts being created which can be used for malicious activities and cybercrime – they threaten the Taimi network and spoil things for everyone. If you choose to verify your profile photo, our automated system will scan each photo that you submit. So, automated decision-making is necessary in order to help ensure that you are who you say you are before entering into a contract with you. This ultimately assists our efforts to prevent and respond to illegal, malicious, and unauthorized activity. 
 
 Taimi employs automated decision-making as part of our moderation efforts to detect and remove spammers, non-compliant images, messages, bots, etc. through artificial intelligence. This processing may lead to blocking or suspension of your account on the mobile application and the restriction of your further use of the mobile application, without prejudice to other legal actions we could take.
 
 If we have good grounds to doubt your identity, we may ask you to provide additional evidence we reasonably need to confirm your identity (human verification). For example, we may ask you for a piece of information held in your profile that we would expect you to know: your location, last 5 connections, etc. If we have serious doubts about your identity, we may ask you to share with Taimi your photo with your ID document or an image of your ID document. In the event you fail the verification process, your request will be rejected.
 
-As with any automated system, there is a chance for compliant accounts to be detected by our system as breaching our security. Please be assured that we give all our users an opportunity to express their point of view and contest the automated decision to our Support team at [support@taimi.com](mailto:support@taimi.com).
+As with any automated system, there is a chance for compliant accounts to be detected by our system as breaching our security. Please be assured that we give all our users an opportunity to express their point of view and contest the automated decision to our Support team at [support@taimi.com](mailto:support@taimi.com). 
+
+**Photo Verification Information.** If you participate in a photo verification (via pantomime), it involves the collection of a photo without any face geometry (which may be considered biometric data in some jurisdictions anyway). In our app, photo verification is as simple as taking a selfie. 
+
+After submitting a photo, the automated system indicates if it consists of a human in general. Then, moderators (human verification) can compare the photo you submit to your profile photo to help ensure that you are who you say you are. We do not add the verification photos to your profile.
+
+Before participating in the photo verification, you consent via pop-up that Taimi uses photo verification Information (which may be considered biometric data in some jurisdictions) to detect and remove spammers, non-compliant images, messages, bots. 
+
+**Purpose of using photo verification.** Taimi uses photo verification information solely for photo verification and security purpose. To perform the Photo Verification process, we store photo verification information on our Amazon Web Services (AWS).
+
+**Retention period of photo verification Information.** We may retain the photos so that we can verify you in the future and for our record-keeping purposes. We delete photo verification information upon the termination of your profile or after two years of your continuous inactivity in our app. You can request deletion of the photo verification information by writing at [support@taimi.com](mailto:support@taimi.com). 
 
 **11.4. Authorized Agent**. You, as a California consumer, may assign your agent to submit a request on your behalf. If you desire to use this way, your agent shall provide us with your written authorization. Owing to a sensitive nature of your data, we reserve the right to reject, at any time, requests concerning your data submitted by any third party.
 
@@ -620,7 +630,7 @@ This security monitoring may result in the collection, recording, and analysis o
 
 © 2024 Taimi. All rights reserved
 
- [![Google play](https://taimi.com/themes/taimi2/assets/images/google_play_2.svg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/privacy-policy_page(id%20129))[![App store](https://taimi.com/themes/taimi2/assets/images/app_store_2.svg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/privacy-policy_page(id%20129))
+ [![Google play](https://taimi.com/themes/taimi2/assets/images/google_play_2.svg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/privacy-policy)[![App store](https://taimi.com/themes/taimi2/assets/images/app_store_2.svg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/privacy-policy)
 
 En
 
@@ -675,4 +685,4 @@ Chat
 
 ![Logo](https://taimi.com/themes/taimi2/assets/images/logo.svg): fluidity, discovery, diversity
 
-[Get Taimi App for Free](https://app.adjust.com/goc7ths?campaign=https://taimi.com/privacy-policy_page(id%20129))
+[Get Taimi App for Free](https://app.adjust.com/goc7ths?campaign=https://taimi.com/privacy-policy)
