@@ -301,6 +301,12 @@ The purpose of the information on usacarry.com is to give you an overview of the
 
 It is completely up to the user of the site to verify any and all information found herein.
 
+[![Gun Deals](https://www.usacarry.com/wp-content/uploads/2023/08/gd-banner-static-300x250-1.jpg)](https://alnk.to/a41QhHM)
+
+[![Gun Deals](https://www.usacarry.com/wp-content/uploads/2023/08/gd-banner-static-300x250-1.jpg)](https://alnk.to/a41QhHM)
+
+[![Gun Deals](https://www.usacarry.com/wp-content/uploads/2023/08/gd-banner-static-300x250-1.jpg)](https://alnk.to/a41QhHM)
+
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='231'%20height='56'%20viewBox='0%200%20231%2056'%3E%3C/svg%3E)
 
 ![USA Carry](https://www.usacarry.com/wp-content/uploads/2023/07/concealed-carry.webp)](https://www.usacarry.com/)
