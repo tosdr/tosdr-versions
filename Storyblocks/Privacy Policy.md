@@ -109,9 +109,9 @@ Video
 
 [Pricing](https://www.storyblocks.com/pricing)
 
-[Pricing](https://www.storyblocks.com/pricing)
+[Join Now](https://www.storyblocks.com/sign-up)
 
-[Pricing](https://www.storyblocks.com/pricing)
+[Join Now](https://www.storyblocks.com/sign-up)
 
 **STORYBLOCKS** 
 
