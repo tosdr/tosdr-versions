@@ -404,7 +404,7 @@ Copyright © 2016-2024 Getverify LDA. All rights reserved. Getcontact™ is a re
 * [](https://www.linkedin.com/company/getcontact/ "Linkedin")
 * [](https://www.youtube.com/channel/UC1VAFczaHY9WzAa6VgHhdtg "Youtube")
 
-Your personal data is processed through cookies on our website. While necessary cookies are used for site functionality and security, other cookies are utilized for personalization and analysis purposes. You can manage your cookie preferences and find more information in our [cookie](https://getcontact.com/privacy).
+Your personal data is processed through cookies on our website. While necessary cookies are used for website functionality and security, other cookies are used for customization and analysis purposes. You can visit our [cookie](https://getcontact.com/privacy) page to manage your cookie preferences and for more information.
 
 Reject Accept
 
