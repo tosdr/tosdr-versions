@@ -420,7 +420,7 @@ Solutions
 
 ![arrow](https://cdn.prod.website-files.com/671fb31e0ed79c76c93e0fee/671fb31e0ed79c76c93e12f0_Vector%2010%20(1).svg)
 
-[Human Spaceflight](#)[Research & Innovation](#)[In-Space Manufacturing](https://www.axiomspace.com/in-space-manufacturing)[Infrastructure & Logistics](https://www.axiomspace.com/drafts/space-infrastructure)[Brand Partnerships](https://support.openphone.com/hc/en-us)
+[Human Spaceflight](#)[Research & Innovation](#)[In-Space Manufacturing](https://www.axiomspace.com/in-space-manufacturing)[In-Space Data & Security](https://www.axiomspace.com/in-space-data-security)[Brand Partnerships](https://support.openphone.com/hc/en-us)
 
 About
 
