@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/op-termijn-geen-plaats-meer-voor-tolken-in-de-eu/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/monsantos-onderzoeks-groenwas-machine/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -154,7 +154,7 @@ Inschrijven
 
 #### Quote van de week
 
-> Journalistiek is het publiceren van informatie, wat iemand anders niet gepubliceerd wil hebben. Al het andere is ‘public relations’.
+> Realiteit bestaat in de menselijke geest en nergens anders.
 > 
 > George Orwell (1903-1950), journalist-auteur
 
