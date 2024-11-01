@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Mormon sexual abuse: why are some in the church protecting sex abuse offenders?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-2-300x201.jpg "Mormon Sexual Abuse: Why Are Some in the Church Protecting Sex Abuse Offenders?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/why-is-the-mormon-church-protecting-sexual-abuse-offenders/ "Mormon Sexual Abuse: Why Are Some in the Church Protecting Sex Abuse Offenders?")
+[![Is talc-free powder safe?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-is-talc-free-powder-safe-scaled.jpg "Is Talc-Free Powder Safe?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-free-powder-safe/ "Is Talc-Free Powder Safe?")
 
-[#### Mormon Sexual Abuse: Why Are Some in the Church Protecting Sex Abuse Offenders?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/why-is-the-mormon-church-protecting-sexual-abuse-offenders/)
+[#### Is Talc-Free Powder Safe?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-free-powder-safe/)
 
-[![Does roundup stay in the soil long term?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-does-roundup-stay-in-the-soil-long-term.jpg "Does Roundup Stay in the Soil Long Term?")](https://www.pintas.com/lawsuit/roundup-weed-killer/does-roundup-stay-in-the-soil-long-term/ "Does Roundup Stay in the Soil Long Term?")
+[![How dangerous is second-hand smoke?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-how-dangerous-is-second-hand-smoke.jpg "How Dangerous Is Second-hand Smoke?")](https://www.pintas.com/practice-areas/lung-cancer/how-dangerous-is-second-hand-smoke/ "How Dangerous Is Second-hand Smoke?")
 
-[#### Does Roundup Stay in the Soil Long Term?](https://www.pintas.com/lawsuit/roundup-weed-killer/does-roundup-stay-in-the-soil-long-term/)
+[#### How Dangerous Is Second-hand Smoke?](https://www.pintas.com/practice-areas/lung-cancer/how-dangerous-is-second-hand-smoke/)
 
-[![Is mesothelioma the same aa small cell lung cancer?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-is-mesothelioma-the-same-as-small-cell-lung-cancer.jpg "Is Mesothelioma the Same Aa Small Cell Lung Cancer?")](https://www.pintas.com/lung-cancer/is-mesothelioma-the-same-as-small-cell-lung-cancer/ "Is Mesothelioma the Same Aa Small Cell Lung Cancer?")
+[![Have you witnessed elderly abuse?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-have-you-witnessed-elderly-abuse-scaled-1.jpg "Have You Witnessed Elderly Abuse?")](https://www.pintas.com/faq/have-you-witnessed-elderly-abuse/ "Have You Witnessed Elderly Abuse?")
 
-[#### Is Mesothelioma the Same Aa Small Cell Lung Cancer?](https://www.pintas.com/lung-cancer/is-mesothelioma-the-same-as-small-cell-lung-cancer/)
+[#### Have You Witnessed Elderly Abuse?](https://www.pintas.com/faq/have-you-witnessed-elderly-abuse/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
