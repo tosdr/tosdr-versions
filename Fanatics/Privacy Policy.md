@@ -1,5 +1,3 @@
-[](https://www.fanatics.com/zip-faq/ch-15935565+z-9624997-2875498770)
-
 [Skip to Main Content](#main-content)[Skip to Footer](#global-footer)
 
 SIGN UP & SAVE!
@@ -560,9 +558,9 @@ Follow Us
 * PayPal
 * Apple Pay
 
-rc: c30cea01a4ca0c4a
+rc: 8dd49c12bac47d82
 
-vid: 344b3290-9825-11ef-a187-633b0447f55e
+vid: 0297edf0-9858-11ef-aa73-41b570ace67c
 
 version: 1.1.0-rc-20241009-6.99918
 
@@ -570,13 +568,13 @@ version: 1.1.0-rc-20241009-6.99918
 
 Qualified Experiments #:* 12635:A:0:1
 * 15156:A:0:1
-Namespaces:* 5:3422:0
-* 7:1793:0
-* 8:1404:0
-* 9:3004:0
-* 10:9729:0
-* 11:8114:0
-* 2:1553:0
-* 3:2890:0
-* 4:1615:0
-* 6:3016:0
+Namespaces:* 7:594:0
+* 8:2402:0
+* 11:9492:0
+* 4:8:0
+* 5:3755:0
+* 6:4704:0
+* 9:2670:0
+* 10:4280:0
+* 2:354:0
+* 3:3930:0
