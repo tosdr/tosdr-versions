@@ -42,13 +42,18 @@
     
     [Watch a demo](https://learn.offsec.com/webinar-cyber-drills-versus/?utm_source=offsec)
     
-    [Exclusive
+    Bonus seats
     
-    Hands-on training in live-fire, enterprise environments
+    ![Learn Enterprise:<br /> limited-time offer](/_astro/le-block.CfVHhUfM_ZfM80L.svg)
     
-    Use our most powerful cyber range to develop a cyber resilient workforce
+    Learn Enterprise:  
+    limited-time offer
     
-    ![Hands-on training in live-fire, enterprise environments](https://manage.offsec.com/app/uploads/2024/05/live_fire_feat.png)](https://www.offsec.com/enterprise/cyber-range/versus)
+    Level up your team's battle-readiness with ongoing cybersecurity learning and skills development. Cyber Ranges are available with Learn Enterprise.
+    
+    [Power up your team](https://learn.offsec.com/q4-enterprise-promo)
+    
+    ![](/_astro/nav-column.BtBui3dF_Z1OT3p0.svg)
     
 * Why OffSec
     
@@ -72,13 +77,18 @@
     
     [Contact sales](https://www.offsec.com/sales)
     
-    [Recommended
+    Bonus seats
     
-    Learn Enterprise
+    ![Learn Enterprise:<br /> limited-time offer](/_astro/le-block.CfVHhUfM_ZfM80L.svg)
     
-    Address your talent gap through continuous skills development and knowledge acquisition
+    Learn Enterprise:  
+    limited-time offer
     
-    ![Learn Enterprise](https://manage.offsec.com/app/uploads/2024/05/le_feat_nav_icon.png)](https://www.offsec.com/products/learn-enterprise)
+    Level up your team's battle-readiness with ongoing cybersecurity learning and skills development. Get bonus seats for a limited time.
+    
+    [Power up your team](https://learn.offsec.com/q4-enterprise-promo)
+    
+    ![](/_astro/nav-column.BtBui3dF_Z1OT3p0.svg)
     
     [Attain a Certification
     
@@ -118,13 +128,18 @@
     
     [Contact sales](https://www.offsec.com/sales)
     
-    [Recommended
+    Bonus seats
     
-    Learn Enterprise
+    ![Learn Enterprise:<br /> limited-time offer](/_astro/le-block.CfVHhUfM_ZfM80L.svg)
     
-    Provide continuous learning and skill development with Learn Enterprise. Access to the entire Learning Library and the Enterprise Cyber Range for everyone on your team.
+    Learn Enterprise:  
+    limited-time offer
     
-    ![Learn Enterprise](https://manage.offsec.com/app/uploads/2024/05/le_feat_nav_icon.png)](https://www.offsec.com/products/learn-enterprise/)
+    Level up your team's battle-readiness with ongoing cybersecurity learning and skills development. Get bonus seats for a limited time.
+    
+    [Power up your team](https://learn.offsec.com/q4-enterprise-promo)
+    
+    ![](/_astro/nav-column.BtBui3dF_Z1OT3p0.svg)
     
     [Pricing
     
@@ -146,13 +161,18 @@
     
     [Buy now](https://portal.offsec.com/registration/?utm_source=offsec)
     
-    [New course
+    Get 20% off
     
-    IR-200: Foundational Incident Response
+    ![Learn One:<br /> limited-time offer](/_astro/l1-block.CNdfTFLd_ZmHyGD.svg)
     
-    IR-200 teaches the incident response lifecycle, including detection, analysis, containment, eradication and recovery. Learners develop hands-on skills responding to, communicating, and mitigating cyber attacks.
+    Learn One:  
+    limited-time offer
     
-    ![IR-200: Foundational Incident Response](https://manage.offsec.com/app/uploads/2024/10/Course-IR-200.png)](https://www.offsec.com/courses/ir-200/)
+    Get 20% off annual access to a single course, hands-on labs, and two exam attempts with Learn One. Balance life and learning while reducing stress and time pressure.
+    
+    [Start your quest](https://portal.offsec.com/registration?preselect=67)
+    
+    ![](/_astro/nav-column.BtBui3dF_Z1OT3p0.svg)
     
 * Partners
     
@@ -271,13 +291,18 @@
     
     [Watch a demo](https://learn.offsec.com/webinar-cyber-drills-versus/?utm_source=offsec)
     
-    [Exclusive
+    Bonus seats
     
-    Hands-on training in live-fire, enterprise environments
+    ![Learn Enterprise:<br /> limited-time offer](/_astro/le-block.CfVHhUfM_ZfM80L.svg)
     
-    Use our most powerful cyber range to develop a cyber resilient workforce
+    Learn Enterprise:  
+    limited-time offer
     
-    ![Hands-on training in live-fire, enterprise environments](https://manage.offsec.com/app/uploads/2024/05/live_fire_feat.png)](https://www.offsec.com/enterprise/cyber-range/versus)
+    Level up your team's battle-readiness with ongoing cybersecurity learning and skills development. Cyber Ranges are available with Learn Enterprise.
+    
+    [Power up your team](https://learn.offsec.com/q4-enterprise-promo)
+    
+    ![](/_astro/nav-column.BtBui3dF_Z1OT3p0.svg)
     
 * Why OffSec
     
@@ -301,13 +326,18 @@
     
     [Contact sales](https://www.offsec.com/sales)
     
-    [Recommended
+    Bonus seats
     
-    Learn Enterprise
+    ![Learn Enterprise:<br /> limited-time offer](/_astro/le-block.CfVHhUfM_ZfM80L.svg)
     
-    Address your talent gap through continuous skills development and knowledge acquisition
+    Learn Enterprise:  
+    limited-time offer
     
-    ![Learn Enterprise](https://manage.offsec.com/app/uploads/2024/05/le_feat_nav_icon.png)](https://www.offsec.com/products/learn-enterprise)
+    Level up your team's battle-readiness with ongoing cybersecurity learning and skills development. Get bonus seats for a limited time.
+    
+    [Power up your team](https://learn.offsec.com/q4-enterprise-promo)
+    
+    ![](/_astro/nav-column.BtBui3dF_Z1OT3p0.svg)
     
     [Attain a Certification
     
@@ -347,13 +377,18 @@
     
     [Contact sales](https://www.offsec.com/sales)
     
-    [Recommended
+    Bonus seats
     
-    Learn Enterprise
+    ![Learn Enterprise:<br /> limited-time offer](/_astro/le-block.CfVHhUfM_ZfM80L.svg)
     
-    Provide continuous learning and skill development with Learn Enterprise. Access to the entire Learning Library and the Enterprise Cyber Range for everyone on your team.
+    Learn Enterprise:  
+    limited-time offer
     
-    ![Learn Enterprise](https://manage.offsec.com/app/uploads/2024/05/le_feat_nav_icon.png)](https://www.offsec.com/products/learn-enterprise/)
+    Level up your team's battle-readiness with ongoing cybersecurity learning and skills development. Get bonus seats for a limited time.
+    
+    [Power up your team](https://learn.offsec.com/q4-enterprise-promo)
+    
+    ![](/_astro/nav-column.BtBui3dF_Z1OT3p0.svg)
     
     [Pricing
     
@@ -375,13 +410,18 @@
     
     [Buy now](https://portal.offsec.com/registration/?utm_source=offsec)
     
-    [New course
+    Get 20% off
     
-    IR-200: Foundational Incident Response
+    ![Learn One:<br /> limited-time offer](/_astro/l1-block.CNdfTFLd_ZmHyGD.svg)
     
-    IR-200 teaches the incident response lifecycle, including detection, analysis, containment, eradication and recovery. Learners develop hands-on skills responding to, communicating, and mitigating cyber attacks.
+    Learn One:  
+    limited-time offer
     
-    ![IR-200: Foundational Incident Response](https://manage.offsec.com/app/uploads/2024/10/Course-IR-200.png)](https://www.offsec.com/courses/ir-200/)
+    Get 20% off annual access to a single course, hands-on labs, and two exam attempts with Learn One. Balance life and learning while reducing stress and time pressure.
+    
+    [Start your quest](https://portal.offsec.com/registration?preselect=67)
+    
+    ![](/_astro/nav-column.BtBui3dF_Z1OT3p0.svg)
     
 * Partners
     
@@ -459,15 +499,6 @@
 [Contact us](https://www.offensive-security.com/contact-us/)
 
 Learning Solutions Why OffSec Plans & Pricing Partners Kali & Community Resources
-
-![](/_astro/ir-banner.BUap70wU_2pDpC5.svg)
-
-IR-200: Foundational Incident Response
---------------------------------------
-
-OffSec's new incident response course and certification is here! In IR-200, Learners will gain a deep understanding of the incident response lifecycle, including incident detection, analysis, containment, eradication and recovery.
-
-[Learn more](https://www.offensive-security.com/courses/ir-200/)
 
 Legal
 =====
@@ -628,8 +659,6 @@ Products and Pricing
 * [Proving Grounds Labs](https://www.offsec.com/labs/individual/)
 * [Enterprise Cyber Range](https://www.offsec.com/enterprise/cyber-range/)
 * [Pricing](https://www.offsec.com/pricing/)
-* [Financing](https://www.offsec.com/financing/)
-* [Discount Programs](https://www.offsec.com/discounts/)
 
 About OffSec
 
