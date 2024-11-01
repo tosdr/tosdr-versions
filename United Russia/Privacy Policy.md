@@ -299,21 +299,29 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Ольга Занко: В проекте бюджета страны на 2025 год на поддержку НКО планируется направить 419 миллиардов рублей](https://cdn.er.ru/media/news/November2024/FczY1Gwu0N1UqjjlTzi7-small.JPG)](https://er.ru/activity/news/olga-zanko-v-proekte-byudzheta-strany-na-2025-god-na-podderzhku-nko-planiruetsya-napravit-419-milliardov-rublej)
+
+[Ольга Занко: В проекте бюджета страны на 2025 год на поддержку НКО планируется направить 419 миллиардов рублей](https://er.ru/activity/news/olga-zanko-v-proekte-byudzheta-strany-na-2025-god-na-podderzhku-nko-planiruetsya-napravit-419-milliardov-rublej)
+
+[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#поддержка](https://er.ru/activity/news?tags%5B0%5D=519)
+
+01.11.24
+
 [![«Единая Россия» проработала поправки ко второму чтению бюджета](https://cdn.er.ru/media/news/November2024/DSJrlaepWQIvdMK7HzpN-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-prorabotala-popravki-ko-vtoromu-chteniyu-byudzheta)
 
 [«Единая Россия» проработала поправки ко второму чтению бюджета](https://er.ru/activity/news/edinaya-rossiya-prorabotala-popravki-ko-vtoromu-chteniyu-byudzheta)
 
 [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#Силуанов](https://er.ru/activity/news?tags%5B0%5D=5116) [#Минфин](https://er.ru/activity/news?tags%5B0%5D=2764) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#программнаякомиссия](https://er.ru/activity/news?tags%5B0%5D=106523) [#финансирование](https://er.ru/activity/news?tags%5B0%5D=1213) [#образование](https://er.ru/activity/news?tags%5B0%5D=57) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#социальныеинициативы](https://er.ru/activity/news?tags%5B0%5D=140070)
 
-Сегодня 17:19
+01.11.24
 
-[![Дмитрий Медведев: Главное при работе над бюджетом — не допустить очевидных перекосов](https://cdn.er.ru/media/news/November2024/yHmb48JAvxrB7JXjG0Vf-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-glavnoe-pri-rabote-nad-byudzhetom-ne-dopustit-ochevidnyh-perekosov)
+[![Дмитрий Медведев: Главное при работе над бюджетом — не допустить очевидных перекосов](https://cdn.er.ru/media/news/November2024/TjFh10UhvLQPrlNFeVwd-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-glavnoe-pri-rabote-nad-byudzhetom-ne-dopustit-ochevidnyh-perekosov)
 
 [Дмитрий Медведев: Главное при работе над бюджетом — не допустить очевидных перекосов](https://er.ru/activity/news/dmitrij-medvedev-glavnoe-pri-rabote-nad-byudzhetom-ne-dopustit-ochevidnyh-perekosov)
 
 [#программнаякомиссияЕР](https://er.ru/activity/news?tags%5B0%5D=116796) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751)
 
-Сегодня 16:46
+01.11.24
 
 [![Андрей Макаров: Финансирование мероприятий народной программы «Единой России» в бюджете ежегодно увеличивается](https://cdn.er.ru/media/news/November2024/tnrDyBOdr67pbR75aDBD-small.jpg)](https://er.ru/activity/news/andrej-makarov-finansirovanie-meropriyatij-narodnoj-programmy-edinoj-rossii-v-byudzhete-ezhegodno-uvelichivaetsya)
 
@@ -321,7 +329,7 @@
 
 [#Макаров](https://er.ru/activity/news?tags%5B0%5D=2183) [#программнаякомиссия](https://er.ru/activity/news?tags%5B0%5D=106523) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=29486)
 
-Сегодня 16:28
+01.11.24
 
 [![Михаил Дегтярёв: Минспорта участвует в реализации приоритетных направлений народной программы «Единой России»](https://cdn.er.ru/media/news/November2024/E3ENTpqexfPgOFnaZPb1-small.jpg)](https://er.ru/activity/news/mihail-degtyaryov-minsporta-uchastvuet-v-realizacii-prioritetnyh-napravlenij-narodnoj-programmy-edinoj-rossii)
 
@@ -329,7 +337,7 @@
 
 [#Дегтярев](https://er.ru/activity/news?tags%5B0%5D=11255) [#Минспорта](https://er.ru/activity/news?tags%5B0%5D=4504) [#программнаякомиссия](https://er.ru/activity/news?tags%5B0%5D=106523) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#развитиеспорта](https://er.ru/activity/news?tags%5B0%5D=128946) [#ФОКи](https://er.ru/activity/news?tags%5B0%5D=4595) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129)
 
-Сегодня 16:23
+01.11.24
 
 [![Оксана Лут: Поддержка АПК «Единой Россией» помогла остановить отток людей из сельских территорий](https://cdn.er.ru/media/news/November2024/cIuLqBUXvBPqLtydKcnc-small.jpg)](https://er.ru/activity/news/oksana-lut-podderzhka-apk-edinoj-rossiej-pomogla-ostanovit-ottok-lyudej-iz-selskih-territorij)
 
@@ -337,15 +345,7 @@
 
 [#Лут](https://er.ru/activity/news?tags%5B0%5D=133405) [#Минсельхоз](https://er.ru/activity/news?tags%5B0%5D=873) [#программнаякомиссияЕР](https://er.ru/activity/news?tags%5B0%5D=116796) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#сельскоехозяйство](https://er.ru/activity/news?tags%5B0%5D=128668) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
 
-Сегодня 16:09
-
-[![Валерий Фальков: В народную программу «Единой России» включены ключевые мероприятия Минобрнауки, в бюджете расходы на высшее образование растут](https://cdn.er.ru/media/news/November2024/jlpZyc6jk89pe5vOGBU2-small.jpg)](https://er.ru/activity/news/valerij-falkov-v-narodnuyu-programmu-edinoj-rossii-vklyucheny-klyuchevye-meropriyatiya-minobrnauki-v-byudzhete-rashody-na-vysshee-obrazovanie-rastut)
-
-[Валерий Фальков: В народную программу «Единой России» включены ключевые мероприятия Минобрнауки, в бюджете расходы на высшее образование растут](https://er.ru/activity/news/valerij-falkov-v-narodnuyu-programmu-edinoj-rossii-vklyucheny-klyuchevye-meropriyatiya-minobrnauki-v-byudzhete-rashody-na-vysshee-obrazovanie-rastut)
-
-[#Фальков](https://er.ru/activity/news?tags%5B0%5D=42929) [#образование](https://er.ru/activity/news?tags%5B0%5D=57) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#программнаякомисиия](https://er.ru/activity/news?tags%5B0%5D=116786) [#капремонтшкол](https://er.ru/activity/news?tags%5B0%5D=1095605) [#университеты](https://er.ru/activity/news?tags%5B0%5D=10554) [#наука](https://er.ru/activity/news?tags%5B0%5D=354) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=29486)
-
-Сегодня 16:03
+01.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
