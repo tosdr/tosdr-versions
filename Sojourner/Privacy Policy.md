@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-5b71025f4b59ef20a2e3f7677d07dbbc
+2057f0319798a3fe98f0527b89ed85be
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![10 mm irregular round bone beads](https://www.sojourner.biz/images/cache/BN0002.200.jpg)](https://www.sojourner.biz/beads/bone/10-mm-irregular-round-bone-beads.html "10 mm irregular round bone beads")
+[![Fancy jasper faceted flat oval beads](https://www.sojourner.biz/images/cache/stone/STN020.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/fancy-jasper-faceted-flat-oval-beads.html "Fancy jasper faceted flat oval beads")
 
-#### [10 mm irregular round bone beads](https://www.sojourner.biz/beads/bone/10-mm-irregular-round-bone-beads.html "10 mm irregular round bone beads")
+#### [Fancy jasper faceted flat oval beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/fancy-jasper-faceted-flat-oval-beads.html "Fancy jasper faceted flat oval beads")
 
-$31.00
+$18.00
 
 ### Best Sellers
 
@@ -189,16 +189,16 @@ $31.00
     $15.00
 5. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
     $28.00
-6. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
-    $17.00
-7. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
-    $26.00
-8. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
+6. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
+7. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+    $17.00
+8. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+    $26.00
 9. [Sterling silver tiny lily clasp](https://www.sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [2 mm amethyst round beads](https://www.sojourner.biz/beads/stone-a-l/amethyst/2-mm-amethyst-round-beads.html "2 mm amethyst round beads")  
-    $10.00
+10. [Gray pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/gray-pearl-toggle-clasp.html "Gray pearl toggle clasp")  
+    $28.00
 
 [Top](#)
 
