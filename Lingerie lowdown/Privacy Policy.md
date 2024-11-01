@@ -1,5 +1,5 @@
-[![Lingerie Lowdown](https://www.lingerielowdown.com/wp-content/uploads/2024/10/lingerie-lowdown-logo-2020-halloween.png)](https://www.lingerielowdown.com/)
-============================================================================================================================================================
+[![Lingerie Lowdown](https://www.lingerielowdown.com/wp-content/uploads/2022/09/lingerie-lowdown-logo-2022.png)](https://www.lingerielowdown.com/)
+==================================================================================================================================================
 
 [![](https://www.lingerielowdown.com/wp-content/uploads/2017/12/lingerie-lowdown-sticky-logo-2018.png)](https://www.lingerielowdown.com/)
 
