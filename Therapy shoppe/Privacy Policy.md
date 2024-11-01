@@ -187,6 +187,8 @@ The following principles apply to the personally identifying information we ask 
 
 Communications regarding this Privacy Policy should be directed to: This email address is being protected from spambots. You need JavaScript enabled to view it. or by calling (800) 261-5590. This Site is owned and operated by Therapy Shoppe® Inc., PO Box 230, Rockford, MI 49341.
 
+[![Holiday Gift Guides](/images/holidaygiftguides.png)](https://www.therapyshoppe.com/holiday-gift-guides)
+
   [![Top 10 Reasons](/images/Asset_1.png)](https://www.therapyshoppe.com/top-10-reasons)
 
 [![Therapists Corner](/images/Asset_2_1.png)](https://www.therapyshoppe.com/therapists-corner)
