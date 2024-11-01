@@ -44,10 +44,6 @@
     * [Teaching and Learning](https://www.ksd.org/departments/curriculum-instruction)
     * [Transportation](https://www.ksd.org/departments/transportation)
     
-* [Programs](https://www.ksd.org/programs)
-    
-    * [READY! for Kindergarten](https://www.ksd.org/programs/ready-for-kindergarten)
-    
 * [Students & Families](https://www.ksd.org/students-families)
     
     * [Annual Parent Notifications](https://www.ksd.org/students-families/notifications)
@@ -173,10 +169,6 @@ toggle mobile menu
     * [Science Resource Center](https://www.ksd.org/departments/science-resource-center)
     * [Teaching and Learning](https://www.ksd.org/departments/curriculum-instruction)
     * [Transportation](https://www.ksd.org/departments/transportation)
-    
-* [Programs](https://www.ksd.org/programs)
-    
-    * [READY! for Kindergarten](https://www.ksd.org/programs/ready-for-kindergarten)
     
 * [Students & Families](https://www.ksd.org/students-families)
     
