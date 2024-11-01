@@ -82,6 +82,18 @@
 More Stories
 ------------
 
+*  [![A woman reading a book](https://www.women.com/img/gallery/the-5-best-books-of-the-2020s-for-millennials/intro-1730307958.jpg)](https://www.women.com/1701412/best-books-for-women-in-30s/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Bernadette Roe
+    
+    ### [The 5 Best Books Of The 2020s For Millennials](https://www.women.com/1701412/best-books-for-women-in-30s/)
+    
+    For millenials in their early 30s, it can be difficult to navigate the changing tides of adulthood. These five books offer insight, wisdom and inspiration.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1701412/best-books-for-women-in-30s/)
+    
 *  [![Marley Marotta and Alexander Mendeluk on Shark Tank](https://www.women.com/img/gallery/heres-what-went-down-with-spirithoods-after-shark-tank/intro-1730131233.jpg)](https://www.women.com/1699179/what-went-down-spirithoods-after-shark-tank/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -393,18 +405,6 @@ More Stories
     While not easy, talking about miscarriages openly and honestly is a healing way for those who know the pain and struggle to come together and relate.
     
     By Amanda Chatel [Read More](https://www.women.com/1689914/celebs-open-up-miscarriages/)
-    
-*  [![Ariana Grande in pink](https://www.women.com/img/gallery/5-glinda-coded-outfits-ariana-grande-has-worn-promoting-wicked/intro-1729004293.jpg)](https://www.women.com/1688575/glinda-coded-outfits-ariana-grande-wicked/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [5 Glinda-Coded Outfits Ariana Grande Has Worn Promoting Wicked](https://www.women.com/1688575/glinda-coded-outfits-ariana-grande-wicked/)
-    
-    When it comes to Ariana Grande's "Wicked" fashion, it's all about pink-u-lar. Here are the best Good Witch outfits we've seen on the star in 2024.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1688575/glinda-coded-outfits-ariana-grande-wicked/)
     
 
 Back
