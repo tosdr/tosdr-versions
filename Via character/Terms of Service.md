@@ -1,3 +1,5 @@
+✨ **Celebrating 25 Years of Global Impact!** Help us continue advancing character strengths for well-being. [\>> Learn More](https://www.viacharacter.org/news/via-25-years-of-global-impact)
+
 [Sign in](https://www.viacharacter.org/account/login)
 
 [0](https://www.viacharacter.org/combinedstore/shoppingcart)
