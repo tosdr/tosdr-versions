@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 01, 2024](https://www.japantimes.co.jp/archive/2024/11/01/ "archive page")
+[November 02, 2024](https://www.japantimes.co.jp/archive/2024/11/02/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,66 +131,68 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[North Korea fires off ICBM with longest flight time yet](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-  [![A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431287.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.")](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-[LDP and DPP inch closer together on economic policy cooperation](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/ldp-dpp-policy-meeting/ "LDP and DPP inch closer together on economic policy cooperation")
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-  [![Democratic Party for the People Secretary-General Kazuya Shimba (left) and Liberal Democratic Party Secretary-General Hiroshi Moriyama meet in the Diet building in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431382.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People Secretary-General Kazuya Shimba (left) and Liberal Democratic Party Secretary-General Hiroshi Moriyama meet in the Diet building in Tokyo on Thursday.")](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/ldp-dpp-policy-meeting/ "LDP and DPP inch closer together on economic policy cooperation")
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-[Dodgers win World Series after rallying from five runs down to beat Yankees in Game 5](https://www.japantimes.co.jp/sports/2024/10/31/baseball/mlb/dodgers-win-world-series/ "Dodgers win World Series after rallying from five runs down to beat Yankees in Game 5")
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-  [![The Dodgers celebrate with the World Series trophy after winning Game 5 at Yankee Stadium on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431369.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Dodgers celebrate with the World Series trophy after winning Game 5 at Yankee Stadium on Wednesday.")](https://www.japantimes.co.jp/sports/2024/10/31/baseball/mlb/dodgers-win-world-series/ "Dodgers win World Series after rallying from five runs down to beat Yankees in Game 5")
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-[Taiwan battens down for Super Typhoon Kong-rey](https://www.japantimes.co.jp/news/2024/10/30/asia-pacific/taiwan-super-typhoon/ "Taiwan battens down for Super Typhoon Kong-rey")
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-  [![People ride scooters in heavy rain as Typhoon Kong-rey approaches Taiwan, in Yilan County on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431235.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People ride scooters in heavy rain as Typhoon Kong-rey approaches Taiwan, in Yilan County on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/30/asia-pacific/taiwan-super-typhoon/ "Taiwan battens down for Super Typhoon Kong-rey")
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-[Tokyo High Court rules same-sex marriage ban is unconstitutional](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/same-sex-ruling-unconstitutional/ "Tokyo High Court rules same-sex marriage ban is unconstitutional")
+[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
-  [![Plaintiffs seeking the right for same-sex couples to marry react Wednesday to the Tokyo High Court's ruling that Japan's ban on such marriages is unconstitutional.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431123.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Plaintiffs seeking the right for same-sex couples to marry react Wednesday to the Tokyo High Court's ruling that Japan's ban on such marriages is unconstitutional.")](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/same-sex-ruling-unconstitutional/ "Tokyo High Court rules same-sex marriage ban is unconstitutional")
+  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
 Editors' Picks
 --------------
 
 [ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
-[North Korea fires off ICBM with longest flight time yet](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
 
-  [![A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431287.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.")](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[LDP and DPP inch closer together on economic policy cooperation](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/ldp-dpp-policy-meeting/ "LDP and DPP inch closer together on economic policy cooperation")
-
-By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
-
-  [![Democratic Party for the People Secretary-General Kazuya Shimba (left) and Liberal Democratic Party Secretary-General Hiroshi Moriyama meet in the Diet building in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431382.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People Secretary-General Kazuya Shimba (left) and Liberal Democratic Party Secretary-General Hiroshi Moriyama meet in the Diet building in Tokyo on Thursday.")](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/ldp-dpp-policy-meeting/ "LDP and DPP inch closer together on economic policy cooperation")
-
-[BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
-
-[Dodgers win World Series after rallying from five runs down to beat Yankees in Game 5](https://www.japantimes.co.jp/sports/2024/10/31/baseball/mlb/dodgers-win-world-series/ "Dodgers win World Series after rallying from five runs down to beat Yankees in Game 5")
-
-  [![The Dodgers celebrate with the World Series trophy after winning Game 5 at Yankee Stadium on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431369.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Dodgers celebrate with the World Series trophy after winning Game 5 at Yankee Stadium on Wednesday.")](https://www.japantimes.co.jp/sports/2024/10/31/baseball/mlb/dodgers-win-world-series/ "Dodgers win World Series after rallying from five runs down to beat Yankees in Game 5")
-
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
-
-[Taiwan battens down for Super Typhoon Kong-rey](https://www.japantimes.co.jp/news/2024/10/30/asia-pacific/taiwan-super-typhoon/ "Taiwan battens down for Super Typhoon Kong-rey")
-
-By [Akio Wang](https://www.japantimes.co.jp/author/6148/akio-wang/ "Akio Wang") and [Joy Chiang](https://www.japantimes.co.jp/author/6105/joy-chiang/ "Joy Chiang")  
-
-  [![People ride scooters in heavy rain as Typhoon Kong-rey approaches Taiwan, in Yilan County on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431235.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People ride scooters in heavy rain as Typhoon Kong-rey approaches Taiwan, in Yilan County on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/30/asia-pacific/taiwan-super-typhoon/ "Taiwan battens down for Super Typhoon Kong-rey")
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Tokyo High Court rules same-sex marriage ban is unconstitutional](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/same-sex-ruling-unconstitutional/ "Tokyo High Court rules same-sex marriage ban is unconstitutional")
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
-  [![Plaintiffs seeking the right for same-sex couples to marry react Wednesday to the Tokyo High Court's ruling that Japan's ban on such marriages is unconstitutional.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431123.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Plaintiffs seeking the right for same-sex couples to marry react Wednesday to the Tokyo High Court's ruling that Japan's ban on such marriages is unconstitutional.")](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/same-sex-ruling-unconstitutional/ "Tokyo High Court rules same-sex marriage ban is unconstitutional")
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+
+[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
+
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+
+By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
+
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+
+[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+
+By F.D. Flam  
+
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
 Podcast
 -------
@@ -211,9 +213,9 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[North Korea says will stand by Russia until 'victory' in Ukraine](https://www.japantimes.co.jp/news/2024/11/01/asia-pacific/north-korea-stand-by-russia/ "North Korea says will stand by Russia until 'victory' in Ukraine")
+
+4 hours ago
+
+[Russia speeds up advance in Ukraine as mood darkens in Kyiv](https://www.japantimes.co.jp/news/2024/11/01/world/russia-advancing-ukraine/ "Russia speeds up advance in Ukraine as mood darkens in Kyiv")
+
+4 hours ago
+
+[Japan cuts growth forecast again for current fiscal year on weak exports](https://www.japantimes.co.jp/business/2024/11/01/economy/cabinet-office-growth-forecast-cut/ "Japan cuts growth forecast again for current fiscal year on weak exports")
+
+4 hours ago
+
+[Japan’s potential kingmaker says BOJ shouldn’t hike before March](https://www.japantimes.co.jp/business/2024/11/01/tamaki-boj-rates/ "Japan’s potential kingmaker says BOJ shouldn’t hike before March")
+
+4 hours ago
+
 [Japan, EU launch defense and security tie-up amid mutual China concerns](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/eu-japan-defense-security-partnership/ "Japan, EU launch defense and security tie-up amid mutual China concerns")
 
-39 mins ago
-
-[Investors in Japan place — and hedge — their bets ahead of U.S. election](https://www.japantimes.co.jp/business/2024/11/01/markets/japan-us-election/ "Investors in Japan place — and hedge — their bets ahead of U.S. election")
-
-44 mins ago
-
-[How Japan’s new kingmaker party won over young voters](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/ninivaggipoliticsyouth-vote-dpp/ "How Japan’s new kingmaker party won over young voters")
-
-49 mins ago
-
-[Hotel worker found dead in Chiba in suspected murder](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/chiba-hotel-worker-murder/ "Hotel worker found dead in Chiba in suspected murder")
-
-1 hours ago
-
-[Nomura's profit beats estimates, though scandals cloud outlook](https://www.japantimes.co.jp/business/2024/11/01/companies/nomura-profits-beat-estimates/ "Nomura's profit beats estimates, though scandals cloud outlook")
-
-1 hours ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
