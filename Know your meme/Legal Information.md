@@ -122,7 +122,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Maia Poet 'Lazy Eye' Controversy](https://knowyourmeme.com/memes/events/maia-poet-left-and-joined-team-maga-lazy-eye-controversy "Maia Poet 'Lazy Eye' Controversy") [Cancel Out Vote Trend](https://knowyourmeme.com/memes/cancel-out-a-vote-trend "Cancel Out Vote Trend") [Russian Court $20 Decillion Google Fine](https://knowyourmeme.com/memes/events/russian-court-20000000000000000000000000000000000-fine-against-google "Russian Court $20 Decillion Google Fine") [Nintendo Music App](https://knowyourmeme.com/memes/subcultures/nintendo-music-app "Nintendo Music App") [Luce the Vatican's Anime Mascot](https://knowyourmeme.com/memes/luce-the-vaticans-anime-mascot "Luce the Vatican's Anime Mascot")
+[Kei Trucks](https://knowyourmeme.com/memes/kei-trucks "Kei Trucks")
 
 Copyright Infringement Notice
 =============================
