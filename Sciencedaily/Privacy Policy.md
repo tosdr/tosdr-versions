@@ -208,6 +208,8 @@ this hour
 
 * * *
 
+* [Neurotech Boosts Spatial Memory Without Surgery](https://www.sciencedaily.com/releases/2024/10/241030145640.htm)
+* [Surprisingly Smooth Disk Around Vega](https://www.sciencedaily.com/releases/2024/11/241101123528.htm)
 * [Low-Level Lead Poisoning Is Still Pervasive](https://www.sciencedaily.com/releases/2024/10/241030171917.htm)
 * [Quantum Network Link Between Cities](https://www.sciencedaily.com/releases/2024/10/241030145638.htm)
 * [Why Elephants Never Forget](https://www.sciencedaily.com/releases/2024/10/241031124448.htm)
@@ -216,8 +218,6 @@ this hour
 * [Natural Regrowth of Tropical Forests: Huge ...](https://www.sciencedaily.com/releases/2024/10/241030150020.htm)
 * ['Black Box' of Stem Cell Transplants Opened](https://www.sciencedaily.com/releases/2024/10/241030145819.htm)
 * [How Sleeping Sickness Parasite Outsmarts ...](https://www.sciencedaily.com/releases/2024/10/241030145811.htm)
-* [Britain's Brass Bands in Napoleonic Wars](https://www.sciencedaily.com/releases/2024/10/241029203005.htm)
-* [Why Crocs Never Became Deep Divers: Sinuses](https://www.sciencedaily.com/releases/2024/10/241029203003.htm)
 
 Trending Topics
 ---------------
@@ -230,25 +230,25 @@ this week
 
 [Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
 
-[Kidney Disease](https://www.sciencedaily.com/news/health_medicine/kidney_disease/)
-
 [Leukemia](https://www.sciencedaily.com/news/health_medicine/leukemia/)
+
+[Kidney Disease](https://www.sciencedaily.com/news/health_medicine/kidney_disease/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Educational Technology](https://www.sciencedaily.com/news/computers_math/educational_technology/)
+
 [Communications](https://www.sciencedaily.com/news/computers_math/communications/)
 
-[Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
-
-[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
+[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Wild Animals](https://www.sciencedaily.com/news/plants_animals/wild_animals/)
+[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
 
-[Zoology](https://www.sciencedaily.com/news/plants_animals/zoology/)
+[Biotechnology](https://www.sciencedaily.com/news/plants_animals/biotechnology/)
 
-[Animal Learning and Intelligence](https://www.sciencedaily.com/news/plants_animals/animal_learning_and_intelligence/)
+[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
   
 
