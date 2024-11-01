@@ -1,10 +1,10 @@
-**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
+**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111548-mid-day-digest-2024-10-31?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111604-mid-day-digest-2024-11-01?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -108,7 +108,7 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111548-mid-day-digest-2024-10-31?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111604-mid-day-digest-2024-11-01?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -120,20 +120,24 @@ Last Updated: November 15, 2011.
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34444)
+     [](https://patriotpost.us/cartoons/34456)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Ben Shapiro The Final Argument](https://patriotpost.us/opinion/111546-the-final-argument-2024-10-31)
-*      [Armstrong Williams Vote — Respect the Process](https://patriotpost.us/opinion/111544-vote-respect-the-process-2024-10-31)
-*      [Ann Coulter Take Two Million Immigrants and Call Me in the Morning](https://patriotpost.us/opinion/111542-take-two-million-immigrants-and-call-me-in-the-morning-2024-10-31)
-*      [Cal Thomas A Time for Choosing (Again)](https://patriotpost.us/opinion/111540-a-time-for-choosing-again-2024-10-31)
-*      [Gary Bauer Unity Garbage](https://patriotpost.us/opinion/111539-unity-garbage-2024-10-31)
-*      [Laura Hollis In 2024, Don’t Vote for the Empty Suit](https://patriotpost.us/opinion/111536-in-2024-dont-vote-for-the-empty-suit-2024-10-31)
-*      [Larry Elder A Pro-Trump Immigrant’s Story](https://patriotpost.us/opinion/111535-a-pro-trump-immigrants-story-2024-10-31)
-*      [Christine Flowers Some Jewish Voters Wising Up to Democrats](https://patriotpost.us/opinion/111534-some-jewish-voters-wising-up-to-democrats-2024-10-31)
+*      [Josh Hammer The Final Choice: Civilizational Arson Versus Civilizational Sanity](https://patriotpost.us/opinion/111587-the-final-choice-civilizational-arson-versus-civilizational-sanity-2024-11-01)
+*      [Victor Davis Hanson Once Joyful Harris Now Goes the Full McCarthyite](https://patriotpost.us/opinion/111584-once-joyful-harris-now-goes-the-full-mccarthyite-2024-11-01)
+*      [Erick Erickson Garbage In/Garbage Out](https://patriotpost.us/opinion/111583-garbage-in-slash-garbage-out-2024-11-01)
+*      [David Harsanyi RFK Is a Dangerous Quack](https://patriotpost.us/opinion/111582-rfk-is-a-dangerous-quack-2024-11-01)
+*      [Michael Barone Who Will Make the Last Mistake in This Flawed Campaign?](https://patriotpost.us/opinion/111586-who-will-make-the-last-mistake-in-this-flawed-campaign-2024-11-01)
+*      [Gary Bauer The Fallout Continues](https://patriotpost.us/opinion/111581-the-fallout-continues-2024-11-01)
+*      [Michael Reagan Trusting Trump to Be a ‘Dictator on Day 1’](https://patriotpost.us/opinion/111580-trusting-trump-to-be-a-dictator-on-day-1-2024-11-01)
+*      [Tim Graham Crazy Talk About the Media Favoring Trump Over Harris](https://patriotpost.us/opinion/111585-crazy-talk-about-the-media-favoring-trump-over-harris-2024-11-01)
+*      [Guest Commentary How Woke Politics Are Endangering Our Military and Our Nation](https://patriotpost.us/opinion/111563-how-woke-politics-are-endangering-our-military-and-our-nation-2024-11-01)
+*      [Mark Alexander Profiles of Valor: MAJ Mark Green (USA)](https://patriotpost.us/alexander/111553-profiles-of-valor-maj-mark-green-usa-2024-11-01)
+*      [The Washington Stand Florida’s Amendment 4: The Highest Stakes of All](https://patriotpost.us/opinion/111579-floridas-amendment-4-the-highest-stakes-of-all-2024-11-01)
+*      [The Babylon Bee Are You Garbage? Know the Signs](https://patriotpost.us/opinion/111578-are-you-garbage-know-the-signs-2024-11-01)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,11 +151,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+[![](https://img.patriotpost.us/01JAZT6VDT6H9HTK9EJ190K832.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
-“I am not influenced by the expectation of promotion or pecuniary reward. I wish to be useful, and every kind of service necessary for the public good, become honorable by being necessary.” —Nathan Hale (1776)
+“I rejoice in a belief that intellectual light will spring up in the dark corners of the earth; that freedom of enquiry will produce liberality of conduct; that mankind will reverse the absurd position that the many were, made for the few; and that they will not continue slaves in one part of the globe, when they can become freemen in another.” —George Washington (1789)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
