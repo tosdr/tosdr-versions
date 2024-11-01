@@ -289,6 +289,14 @@ Autism news
 
 All the latest that matters to our community
 
+![three girls looking at a field of flowers with their arms around each other](/sites/default/files/styles/content_list/public/three-girls-looking-at-a-field-of-flowers-with-their-arms-around-each-other.jpg.webp?itok=Irv6vU-t)
+
+11.1.24
+
+[### Autism diagnosis on the rise, according to trends study](https://guide.autismspeaks.org/science-news/why-autism-increasing)
+
+A new study shows the number of children and adults diagnosed with autism spectrum disorder has increased by 175% over a decade. Why is autism
+
 ![Vijay Vasudevan standing in front of a poster with his research](/sites/default/files/styles/content_list/public/Vijay-Vasudevan-standing-in-front-of-a-poster-with-his-research_0.jpg.webp?itok=IU3LIS6x)
 
 10.30.24
@@ -328,14 +336,6 @@ Governor Gavin Newsom recently signed several bills that Autism Speaks supported
 [### Short-term extension protects federal autism programs](https://guide.autismspeaks.org/advocacy-news/short-term-extension-protects-federal-autism-programs)
 
 With widespread bipartisan agreement that the programs under the Autism CARES Act should continue, an extension of funding through December 20 was
-
-![scripps news logo](/sites/default/files/styles/content_list/public/Coffee-with-America-logo---Copy.jpg.webp?itok=lkGaTpXI)
-
-9.25.24
-
-[### Scripps covers the impending renewal of the Autism CARES Act](https://guide.autismspeaks.org/news/scripps-covers-impending-renewal-autism-cares-act)
-
-Scripps News interviews Christa Stevens, Director State Government Affairs, Autism Speaks, on how the Autism CARES Act has supported her family in
 
 [Read more news](https://guide.autismspeaks.org/articles?article_type%5B981%5D=981&article_type%5B2181%5D=2181&article_type%5B2186%5D=2186&article_type%5B986%5D=986)
 
