@@ -225,6 +225,7 @@ About Us
 * [Announcements](https://freedom.press/about/announcements/)
 * [Jobs & Internships](https://freedom.press/careers/)
 * [Contact Us](https://freedom.press/contact/)
+* [Store](https://store.freedom.press/)
 
 [Donate](https://freedom.press/donate/)
 
