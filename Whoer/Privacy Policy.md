@@ -26,7 +26,7 @@
 * [Download](https://whoer.net/download)
 * [Antidetect](https://wade.is/?utm_source=whoer&utm_campaign=header_main)
 * [AML check](https://whoaml.is/?utm_source=whoer&utm_campaign=header_main)
-* [Proxy](https://smartproxy.pxf.io/g1M7Y9)
+* [Proxy](https://asocks.com/?c=WHup&utm_source=WHOER_partner&utm_medium=cpl&utm_campaign=Asocks_header&utm_term=WHup&utm_content=btn&roistat_referrer=WHOER&roistat=WHOER_partner_Asocks_header_btn)
 * [Speed test](https://whoer.net/speedtest)
 * [Ping](https://whoer.net/ping)
 * [Whois](https://whoer.net/checkwhois)
