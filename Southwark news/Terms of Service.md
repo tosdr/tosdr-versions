@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Elephant and Castle station. Credit: Sunil060902 (Wikimedia Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Elephant__Castle_tube_stn_Bakerloo_west_look_south-360x180.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/commuter-chaos-after-fire-alert-at-elephant-and-castle/)
+    
+    ### [Commuter chaos after fire alert at Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/commuter-chaos-after-fire-alert-at-elephant-and-castle/)
+    
     [![L-R: Luke Norbury, Children's Residential Manager; Clare Pitchford, Senior Service Development Officer; Cllr Ali, Deputy Leader and Cabinet Member for Children, Education & Refugees; Claire Boadu, Project Manager](https://southwarknews.co.uk/wp-content/uploads/2024/10/666903CD-1ABC-40EB-BF27-184D1A4D97E2-e1730288357971-360x180.jpeg)](https://southwarknews.co.uk/news/community/vacant-property-transformed-into-new-childrens-home/)
     
     ### [Vacant property transformed into new children’s home](https://southwarknews.co.uk/news/community/vacant-property-transformed-into-new-childrens-home/)
@@ -52,10 +56,6 @@
     [![Tony Macklin died on 6 November 2015.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_6539-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
     
     ### [Minute’s applause at Millwall game to honour lifelong fan who died of cancer](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
-    
-    [![Lower Road pictured a month after Cycleway 4 was unveiled](https://southwarknews.co.uk/wp-content/uploads/2024/10/blurred-3-e1730298302905-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
-    
-    ### [Exclusive: Collisions have almost tripled on Lower Road since cycle lane was installed, data suggests](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Elephant and Castle station. Credit: Sunil060902 (Wikimedia Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Elephant__Castle_tube_stn_Bakerloo_west_look_south-360x180.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/commuter-chaos-after-fire-alert-at-elephant-and-castle/)
+    
+    ### [Commuter chaos after fire alert at Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/commuter-chaos-after-fire-alert-at-elephant-and-castle/)
+    
     [![L-R: Luke Norbury, Children's Residential Manager; Clare Pitchford, Senior Service Development Officer; Cllr Ali, Deputy Leader and Cabinet Member for Children, Education & Refugees; Claire Boadu, Project Manager](https://southwarknews.co.uk/wp-content/uploads/2024/10/666903CD-1ABC-40EB-BF27-184D1A4D97E2-e1730288357971-360x180.jpeg)](https://southwarknews.co.uk/news/community/vacant-property-transformed-into-new-childrens-home/)
     
     ### [Vacant property transformed into new children’s home](https://southwarknews.co.uk/news/community/vacant-property-transformed-into-new-childrens-home/)
@@ -138,10 +142,6 @@ View All Result
     [![Tony Macklin died on 6 November 2015.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_6539-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
     
     ### [Minute’s applause at Millwall game to honour lifelong fan who died of cancer](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
-    
-    [![Lower Road pictured a month after Cycleway 4 was unveiled](https://southwarknews.co.uk/wp-content/uploads/2024/10/blurred-3-e1730298302905-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
-    
-    ### [Exclusive: Collisions have almost tripled on Lower Road since cycle lane was installed, data suggests](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -237,11 +237,11 @@ Terms of Use
 
 [28th October 2024](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
 
-[![Southwark Council wants 20,000 new homes to be built around the Old Kent Road over the next 18 years. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/Old-Kent-Road-120x86.jpg)](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
+[![A map of the proposed Bakerloo Line extension to Lewisham. Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
 
-### [Old Kent Road: What are people’s views on plans for 20,000 new homes?](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
+### [Bakerloo Line extension shunned in Budget](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
 
-[29th October 2024](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
+[31st October 2024](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
 
 ### Featured Articles
 
