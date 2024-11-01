@@ -6,6 +6,7 @@ EN
 * JA
 * ES
 * DE
+* FR
 
 [Under Attack?](https://www.fastly.com/under-attack)[(844) 4FASTLY](tel:+18444327859)[Support Center](https://support.fastly.com/)[Log in](https://manage.fastly.com/)
 
@@ -28,6 +29,7 @@ EN
 * JA
 * ES
 * DE
+* FR
 
 Menu
 
