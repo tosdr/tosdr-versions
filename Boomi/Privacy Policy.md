@@ -1,3 +1,9 @@
+Join us at Boomi World 2025 May 12 - 15 in Dallas
+
+[Register Now!](https://boomiworld.com/)
+
+cross
+
 * Platform
     
     ###### Overview
@@ -362,9 +368,19 @@
     * [###### Customer success](https://boomi.com/services/support/)
     * [###### Managed services](https://boomi.com/services/managed-services/)
     
-    * [Start free trial](https://boomi.com/form/trial/)
-    * [Request a demo](https://boomi.com/custom-demo-request/)
-    * [Pricing](https://boomi.com/pricing/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20310'%3E%3C/svg%3E)
+    
+    ![](https://boomi.com/wp-content/uploads/BW25-Save-the-Date-Email-signature-400-400-e1730238211929.png)
+    
+    Boomi World 2025
+    
+    Discover how Boomi’s intelligent integration and automation platform is helping organizations tame IT complexity, drive radical innovation, and synchronize everything, everywhere. Seize digital modernization opportunities and learn how to unleash the power of AI to accelerate your business.](https://boomiworld.com/)
+    
+      [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E)
+    
+     ![](https://boomi.com/wp-content/uploads/boomi-webinars-thumbnail.jpg)
+    
+    Get Practical with AI: From Pilot to Production](https://boomi.com/resources/resources-library/get-practical-with-ai-from-pilot-to-production)
     
 * Partners
     
