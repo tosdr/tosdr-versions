@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Colorado’s Top Election Official Says Employee Responsible for Posting Voting Passwords Is Gone](https://www.theepochtimes.com/us/colorados-top-election-official-says-employee-responsible-for-posting-voting-passwords-is-gone-5752040)
+    
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Colorado’s Top Election Official Says Employee Responsible for Posting Voting Passwords Is Gone](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Colorado’s Top Election Official Says Employee Responsible for Posting Voting Passwords Is Gone](https://img.theepochtimes.com/assets/uploads/2024/10/id5746644-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/colorados-top-election-official-says-employee-responsible-for-posting-voting-passwords-is-gone-5752040)
+* [US Economy Adds Just 12,000 Jobs in October](https://www.theepochtimes.com/business/us-economy-adds-just-12000-new-jobs-in-october-5751967)
+    
+    3hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![US Economy Adds Just 12,000 Jobs in October](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Economy Adds Just 12,000 Jobs in October](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5750119-10122024-L1160437-hire-now-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/us-economy-adds-just-12000-new-jobs-in-october-5751967)
+* [New York’s Top Court Upholds Law on Disputed Mail-In Ballots](https://www.theepochtimes.com/us/new-yorks-top-court-upholds-law-on-disputed-mail-in-ballots-5751945)
+    
+    4hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![New York’s Top Court Upholds Law on Disputed Mail-In Ballots](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![New York’s Top Court Upholds Law on Disputed Mail-In Ballots](https://img.theepochtimes.com/assets/uploads/2022/11/09/EpochImages-7762764359-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-yorks-top-court-upholds-law-on-disputed-mail-in-ballots-5751945)
+* [Death Toll From Flooding In Spain Reaches 205 And Likely To Rise](https://www.theepochtimes.com/world/death-toll-from-flooding-in-spain-reaches-158-and-likely-to-rise-5751943)
+    
+    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![Death Toll From Flooding In Spain Reaches 205 And Likely To Rise](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Death Toll From Flooding In Spain Reaches 205 And Likely To Rise](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5751098-GettyImages-2181244616-OPmobile-205x123.jpg.webp)](https://www.theepochtimes.com/world/death-toll-from-flooding-in-spain-reaches-158-and-likely-to-rise-5751943)
+* [Rights Lawyer Couple Sentenced in China Amid Global Outcry](https://www.theepochtimes.com/china/rights-lawyer-couple-sentenced-in-china-amid-global-outcry-5751832)
+    
+    6hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
+    
+    [![Rights Lawyer Couple Sentenced in China Amid Global Outcry](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Rights Lawyer Couple Sentenced in China Amid Global Outcry](https://img.theepochtimes.com/assets/uploads/2024/11/01/id5752011-xu-yan-yu-wensheng-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/rights-lawyer-couple-sentenced-in-china-amid-global-outcry-5751832)
+* [Harris Makes Final Push to Engage Latino Voters in Arizona, Nevada](https://www.theepochtimes.com/us/harris-makes-final-push-to-engage-latino-voters-in-arizona-nevada-5751889)
+    
+    6hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    
+    [![Harris Makes Final Push to Engage Latino Voters in Arizona, Nevada](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Harris Makes Final Push to Engage Latino Voters in Arizona, Nevada](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5751897-Harris-in-Reno-Nevada-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-makes-final-push-to-engage-latino-voters-in-arizona-nevada-5751889)
 * [Chinese Military Second-in-Command’s Visit to Vietnam Signals Power Change in Beijing](https://www.theepochtimes.com/china/chinese-military-second-in-commands-visit-to-vietnam-signals-power-change-in-beijing-5751482)
     
-    NEW By [Jessica Mao](https://www.theepochtimes.com/author/jessica-mao) and [Olivia Li](https://www.theepochtimes.com/author/olivia-li)
+    7hr By [Jessica Mao](https://www.theepochtimes.com/author/jessica-mao) and [Olivia Li](https://www.theepochtimes.com/author/olivia-li)
     
     [![Chinese Military Second-in-Command’s Visit to Vietnam Signals Power Change in Beijing](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Chinese Military Second-in-Command’s Visit to Vietnam Signals Power Change in Beijing](https://img.theepochtimes.com/assets/uploads/2024/06/19/id5671457-GettyImages-1472904682-205x123.jpg.webp)](https://www.theepochtimes.com/china/chinese-military-second-in-commands-visit-to-vietnam-signals-power-change-in-beijing-5751482)
 * [Day in Photos: Super Typhoon, North Korean Missile, and Dodgers’ Win](https://www.theepochtimes.com/article/day-in-photos-super-typhoon-north-korean-missile-and-dodgers-win-5751450)
     
-    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    12hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Super Typhoon, North Korean Missile, and Dodgers’ Win](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Super Typhoon, North Korean Missile, and Dodgers’ Win](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751686-GettyImages-2181355465-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-super-typhoon-north-korean-missile-and-dodgers-win-5751450)
 * [Judge Orders Arizona to Release List of Registered Voters With Unverified Citizenship](https://www.theepochtimes.com/us/judge-orders-arizona-to-release-list-of-registered-voters-with-unverified-citizenship-5751777)
     
-    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    13hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Judge Orders Arizona to Release List of Registered Voters With Unverified Citizenship](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Judge Orders Arizona to Release List of Registered Voters With Unverified Citizenship](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739393-AZ-Early-Voting-iii_JF_10102024-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-orders-arizona-to-release-list-of-registered-voters-with-unverified-citizenship-5751777)
+    ![Judge Orders Arizona to Release List of Registered Voters With Unverified Citizenship](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5752010-AZ-Early-Voting-iii_JF_10102024-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-orders-arizona-to-release-list-of-registered-voters-with-unverified-citizenship-5751777)
 * [Boeing, Union Reach New Deal in Bid to End Weekslong Strike](https://www.theepochtimes.com/business/boeing-machinists-union-endorses-new-contract-proposal-strike-may-end-soon-5751834)
     
-    7hr By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
+    14hr By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
     
     [![Boeing, Union Reach New Deal in Bid to End Weekslong Strike](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Boeing, Union Reach New Deal in Bid to End Weekslong Strike](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744381-Boeing-strike-GettyImages-2177902713-205x123.jpg.webp)](https://www.theepochtimes.com/business/boeing-machinists-union-endorses-new-contract-proposal-strike-may-end-soon-5751834)
-* [How Gender Voting Patterns Are Shifting in 2024 Election](https://www.theepochtimes.com/article/how-gender-voting-patterns-are-shifting-in-2024-election-5746426)
-    
-    8hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
-    
-    [![How Gender Voting Patterns Are Shifting in 2024 Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![How Gender Voting Patterns Are Shifting in 2024 Election](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751758-8-205x123.jpg.webp)](https://www.theepochtimes.com/article/how-gender-voting-patterns-are-shifting-in-2024-election-5746426)
-* [Trump Sues CBS Over ’60 Minutes’ Interview With Harris](https://www.theepochtimes.com/us/trump-sues-cbs-over-60-minutes-interview-with-harris-5751783)
-    
-    9hr By [Rachel Acenas](https://www.theepochtimes.com/author/rachel-acenas)
-    
-    [![Trump Sues CBS Over ’60 Minutes’ Interview With Harris](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Sues CBS Over ’60 Minutes’ Interview With Harris](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751789-Trump-NC-GettyImages-2181956757-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-sues-cbs-over-60-minutes-interview-with-harris-5751783)
-* [Harris to Hold Election Night Event at Her Alma Mater, Howard University](https://www.theepochtimes.com/us/harris-to-hold-election-night-event-at-her-alma-mater-howard-university-5751704)
-    
-    9hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![Harris to Hold Election Night Event at Her Alma Mater, Howard University](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Harris to Hold Election Night Event at Her Alma Mater, Howard University](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5751814-Harris-Howard-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-to-hold-election-night-event-at-her-alma-mater-howard-university-5751704)
-* [US Says 8,000 North Korean Soldiers Have Reached Russia’s Kursk Region, Could Join Battle in Days](https://www.theepochtimes.com/world/us-says-8000-north-korean-soldiers-have-reached-russias-kursk-region-could-join-battle-in-days-5751639)
-    
-    9hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![US Says 8,000 North Korean Soldiers Have Reached Russia’s Kursk Region, Could Join Battle in Days](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Says 8,000 North Korean Soldiers Have Reached Russia’s Kursk Region, Could Join Battle in Days](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751624-2024-10-31T173836Z_1_LYNXMPEK9U0PI_RTROPTP_4_NORTHKOREA-ANNIVERSARY-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-says-8000-north-korean-soldiers-have-reached-russias-kursk-region-could-join-battle-in-days-5751639)
-* [DDT From Industrial Dumping Found in 93 Percent of Southern California Fish](https://www.theepochtimes.com/us/ddt-from-industrial-dumping-found-in-93-percent-of-southern-california-fish-5750301)
-    
-    11hr By [Jane Yang](https://www.theepochtimes.com/author/jane-yang)
-    
-    [![DDT From Industrial Dumping Found in 93 Percent of Southern California Fish](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![DDT From Industrial Dumping Found in 93 Percent of Southern California Fish](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751186-Kelp_bass-205x123.jpg.webp)](https://www.theepochtimes.com/us/ddt-from-industrial-dumping-found-in-93-percent-of-southern-california-fish-5750301)
-* [Most Americans Report Anxiety, Frustration About 2024 Presidential Race as Election Day Nears](https://www.theepochtimes.com/us/most-americans-report-anxiety-frustration-about-2024-presidential-race-as-election-day-nears-5751562)
-    
-    11hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Most Americans Report Anxiety, Frustration About 2024 Presidential Race as Election Day Nears](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Most Americans Report Anxiety, Frustration About 2024 Presidential Race as Election Day Nears](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747992-Kamala-Harris-Donald-Trump-4-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/most-americans-report-anxiety-frustration-about-2024-presidential-race-as-election-day-nears-5751562)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
