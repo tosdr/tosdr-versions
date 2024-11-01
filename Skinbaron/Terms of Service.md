@@ -28,7 +28,7 @@ EUR - € 
 
 Light Dark
 
-[![Best Weapon Skins for CS2 -30% off on average](assets/img/baron_logo_halloween.svg)](https://skinbaron.de/en "Best Weapon Skins for CS2 -30% off on average")[SKIN**BARON**](https://skinbaron.de/en "SkinBaron")
+[![Best Weapon Skins for CS2 -30% off on average](assets/img/baron_logo.svg)](https://skinbaron.de/en "Best Weapon Skins for CS2 -30% off on average")[SKIN**BARON**](https://skinbaron.de/en "SkinBaron")
 
 * Login
     
