@@ -1,4 +1,4 @@
-[![SpaceHey](https://static.spacehey.net/img/spooky_logo_optimized.svg)](https://spacehey.com/)
+[![SpaceHey](https://static.spacehey.net/img/logo_optimized.svg)](https://spacehey.com/)
 
 Search Users:
 
