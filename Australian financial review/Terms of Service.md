@@ -310,7 +310,6 @@ Advertise
 
 ### [How Victoria Racing Club’s new boss plans to turn around its fortunes](https://www.afr.com/work-and-careers/workplace/how-victoria-racing-club-s-new-boss-plans-to-turn-around-its-fortunes-20241010-p5khfb)
 
-* 54 mins ago
 * Zoe Samios and Patrick Durkin
 
 * ### [Netflix’s co-CEO says it’s ‘impossible’ to run the $500b giant alone](https://www.afr.com/companies/media-and-marketing/netflix-s-co-ceo-says-its-impossible-to-run-the-500b-giant-alone-20241014-p5ki1v)
@@ -325,7 +324,6 @@ Advertise
 
 ### [Homewares that last forever? How is that good business?](https://www.afr.com/life-and-luxury/design/homewares-that-last-forever-how-is-that-good-business-20241021-p5kk1t)
 
-* 54 mins ago
 * Glynis Traill-Nash
 
 * ### [This sustainable car fuel has ‘no performance deficit’](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/this-sustainable-car-fuel-has-no-performance-deficit-20241010-p5khbz)
