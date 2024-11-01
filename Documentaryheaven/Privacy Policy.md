@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Death of Yugoslavia](/wp-content/thumbnails/6329-100x70.jpg?x53432)
+* [![Drug Kings Of New York](/wp-content/thumbnails/7299-100x70.png?x53432)
     
-    The Death of Yugoslavia
+    Drug Kings Of New York
     
-    The Death of Yugoslavia (Serbian, Montenegrin,Bosnian, Croatian and Slovenian: Smrt Jugoslavije, Macedonian: Смртта на Југославија, Smrtta na Jugoslavija) is a BBC documentary series first broadcast i](https://documentaryheaven.com/the-death-of-yugoslavia/ "The Death of Yugoslavia")
-* [![We Heard The Bells: The Influenza of 1918](/wp-content/thumbnails/14859-100x70.jpg?x53432)
+    In New York City heroin use is on the rise, as a new generation of suburbanite dealers hooked on prescription pills switch to heroin, and venture down the Long Island Express-way dubbed the Heroin Hig](https://documentaryheaven.com/drug-kings-of-new-york/ "Drug Kings Of New York")
+* [![Architects & Engineers: Solving the Mystery of WTC 7](/wp-content/thumbnails/6029-100x70.jpg?x53432)
     
-    We Heard The Bells: The Influenza of 1918
+    Architects & Engineers: Solving the Mystery of WTC 7
     
-    With the Coronavirus death toll now surpassing 1,000 in mainland China it seems only appropriate that we take a look back in time to the year 1918. It was a year that saw the First World War come to a](https://documentaryheaven.com/heard-bells-influenza-1918/ "We Heard The Bells: The Influenza of 1918")
-* [![How Safe Are Our Planes?](/wp-content/thumbnails/9753-100x70.jpg?x53432)
+    AE911Truth's new 9/11 documentary Solving the Mystery, the destruction of World Trade Center Building #7, WTC 7 on 9/11/01. Join actor, Ed Asner and Architect Richard Gage, AIA and Architects and Engi](https://documentaryheaven.com/architects-engineers-solving-the-mystery-of-wtc-7/ "Architects & Engineers: Solving the Mystery of WTC 7")
+* [![The Most Dangerous Man In America](/wp-content/thumbnails/5829-100x70.jpg?x53432)
     
-    How Safe Are Our Planes?
+    The Most Dangerous Man In America
     
-    150 people lost their lives recently, in one of the worst airline disasters of recent years. Andreas Lubitz is the Co-Piolit being held responsible for deliberately crashing the Germanwings Airbus 320](https://documentaryheaven.com/how-safe-are-our-planes/ "How Safe Are Our Planes?")
-* [![Life as an Illegal Immigrant in Greece](/wp-content/thumbnails/8765-100x70.jpg?x53432)
+    The Most Dangerous Man in America is the story of what happens when a former Pentagon insider, armed only with his conscience, steadfast determination, and a file cabinet full of classified documents,](https://documentaryheaven.com/the-most-dangerous-man-in-america/ "The Most Dangerous Man In America")
+* [![Banged Up Abroad: Scott and Lucy’s Story](/wp-content/thumbnails/2150-100x70.jpg?x53432)
     
-    Life as an Illegal Immigrant in Greece
+    Banged Up Abroad: Scott and Lucy’s Story
     
-    Vice News sends Alex Miller to Greece to cover the current situation for immigrants in search for a better life, they assume a European country such as Greece would hold better prospects for them and](https://documentaryheaven.com/life-as-an-illegal-immigrant-in-greece/ "Life as an Illegal Immigrant in Greece")
-* [![Judgement Day: Intelligent Design on Trial](/wp-content/thumbnails/570-100x70.png?x53432)
+    This series tells the true stories that would be any traveller’s worst nightmare – when a holiday in paradise becomes a journey into hell that ends up in prison abroad.Through graphic dramatic rec](https://documentaryheaven.com/banged-up-abroad-scott-and-lucy%e2%80%99s-story/ "Banged Up Abroad: Scott and Lucy’s Story")
+* [![Deborah 13: Servant of God](/wp-content/thumbnails/5020-100x70.jpg?x53432)
     
-    Judgement Day: Intelligent Design on Trial
+    Deborah 13: Servant of God
     
-    Judgment Day: Intelligent Design on Trial is an award winning NOVA documentary on the case of Kitzmiller v. Dover Area School District, which concentrated on the question of whether or not intelligent](https://documentaryheaven.com/judgement-day-intelligent-design-on-trial/ "Judgement Day: Intelligent Design on Trial")
+    A documentary about 13-year-old Deborah Drapper, who, unlike other British teens has never heard of Britney Spears or Victoria Beckham. She has been brought up in a deeply Christian family and her par](https://documentaryheaven.com/deborah-13-servant-of-god/ "Deborah 13: Servant of God")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
