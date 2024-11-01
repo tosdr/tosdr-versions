@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Somethin Bout A TruckKip Moore<br><br>4:56am |
-| Heart Like A TruckLainey Wilson<br><br>4:53am |
-| Cowboy SongsGeorge Birge<br><br>4:49am |
-| White HorseChris Stapleton<br><br>4:46am |
-| I Ain'T Sayin'Jordan Davis<br><br>4:43am |
+| Need A FavorJelly Roll<br><br>11:37am |
+| Holy SmokesBailey Zimmerman<br><br>11:33am |
+| Lies, Lies, LiesMorgan Wallen<br><br>11:30am |
+| Truck BedHardy<br><br>11:27am |
+| What IfsKane Brown Ft Lauren Alaina<br><br>11:24am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -362,17 +362,17 @@ Featured Brands
 
 Sports • Midwest
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Spanish • Western
+Top 40 • Eastern
 
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Top 40 • Eastern
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
