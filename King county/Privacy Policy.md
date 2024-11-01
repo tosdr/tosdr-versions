@@ -4,11 +4,11 @@
 
 [calendar\_month
 
-Oct
+Nov
 
 * * *
 
-31](https://kingcounty.gov/en/calendar)
+01](https://kingcounty.gov/en/calendar)
 
 language English
 
