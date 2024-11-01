@@ -128,39 +128,39 @@ Advertisement
     Diary of a Porn Virgin
     
     Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
-* [![No-Go Zones: Seven Mile Road, Detroit, USA](/wp-content/thumbnails/16527-100x70.jpg?x53432)
+* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
     
-    No-Go Zones: Seven Mile Road, Detroit, USA
+    Louis Theroux: Drinking To Oblivion
     
-    Seven Mile Road located in Detroit is one of the most dangerous no-go zones in the United States. Those who live or dare to come here to visit are literally playing with their lives. It is a territor...](https://documentaryheaven.com/no-go-zones-seven-mile-road/ "No-Go Zones: Seven Mile Road, Detroit, USA")
+    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 
 ###### Throwback Documentaries
 
-* [![The Lives I Lead: My Multiple Personalities](/wp-content/thumbnails/14043-100x70.jpg?x53432)
+* [![The Somme: Secret Tunnel Wars](/wp-content/thumbnails/8017-100x70.jpg?x53432)
     
-    The Lives I Lead: My Multiple Personalities
+    The Somme: Secret Tunnel Wars
     
-    Dissociative Identity Disorder or Multiple Personality Disorder as it is more commonly known as is a mental condition characterised by at least two distinct and relatively enduring personality states.](https://documentaryheaven.com/my-multiple-personalities/ "The Lives I Lead: My Multiple Personalities")
-* [![Up/Down](/wp-content/thumbnails/7798-100x70.jpg?x53432)
+    Beneath the Somme battlefield lies one of the great secrets of the First World War, a recently-discovered network of deep tunnels thought to extend over several kilometres. This lost underground battl](https://documentaryheaven.com/somme-secret-tunnel-wars/ "The Somme: Secret Tunnel Wars")
+* [![Slumdog Children of Mumbai](/wp-content/thumbnails/16118-100x70.png?x53432)
     
-    Up/Down
+    Slumdog Children of Mumbai
     
-    There are approximately 5.7 million people in the United States with bipolar disorder. In an attempt to eliminate the mystery and misinformation surrounding the illness, many throughout the country di](https://documentaryheaven.com/updown/ "Up/Down")
-* [![David Lynch: Consciousness, Creativity and the Brain](/wp-content/thumbnails/3714-100x70.jpg?x53432)
+    The Slumdog Children of Mumbai follows four young children who are all struggling to survive on the streets in the capital of India, Mumbai. With a population of over 18 million people, Mumbai is one](https://documentaryheaven.com/slumdog-children-of-mumbai/ "Slumdog Children of Mumbai")
+* [![In the Womb – Multiples](/wp-content/thumbnails/1311-100x70.jpg?x53432)
     
-    David Lynch: Consciousness, Creativity and the Brain
+    In the Womb – Multiples
     
-    The inside story on transcending the brain, with David Lynch, Award-winning film director of Blue Velvet, Twin Peaks, Mullholland Drive, Inland Empire; John Hagelin, Ph.D., Quantum physicist featured](https://documentaryheaven.com/david-lynch-consciousness-creativity-and-the-brain/ "David Lynch: Consciousness, Creativity and the Brain")
-* [![Where the River Runs Red](/wp-content/thumbnails/14510-100x70.jpg?x53432)
+    Expanding on the critically acclaimed special, In the Womb, National Geographic explores the extraordinary and fragile world of twins, triplets and quadruplets in utero. Featuring amazing 4-D ultrasou](https://documentaryheaven.com/in-the-womb-multiples/ "In the Womb – Multiples")
+* [![The Four-Winged Dinosaur](/wp-content/thumbnails/2579-100x70.jpg?x53432)
     
-    Where the River Runs Red
+    The Four-Winged Dinosaur
     
-    Tasmania is a secluded island located off the south coast of Australia, it is know for it's large, rugged wilderness but towards the west of the island there is an ominous red river which divides the](https://documentaryheaven.com/where-river-runs-red/ "Where the River Runs Red")
-* [![Money and Life](/wp-content/thumbnails/9149-100x70.jpg?x53432)
+    In 2002, the discovery of a beautiful and bizarre fossil astonished scientists and reignited the debate over the origin of flight. With four wings and superbly preserved feathers, the 130 million-year](https://documentaryheaven.com/the-four-winged-dinosaur/ "The Four-Winged Dinosaur")
+* [![Infamy](/wp-content/thumbnails/3626-100x70.jpg?x53432)
     
-    Money and Life
+    Infamy
     
-    We are currently living in a society where money has become the main objective for everything we can think of. The average person focuses more on bringing home a pay check than living life itself, doi](https://documentaryheaven.com/money-life/ "Money and Life")
+    Infamy is an intense journey into the dangerous lives and obsessed minds of six of America’s most prolific graffiti artists. Directed by acclaimed filmmaker Doug Pray (Hype and Scratch) who teamed up](https://documentaryheaven.com/infamy/ "Infamy")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
