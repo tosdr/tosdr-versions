@@ -138,7 +138,7 @@ Europees wetsvoorstel
 
 #### [Onderhoud](https://www.bit.nl/onderhoud)
 
-[28-10-24 Periodiek onderhoud koeling BIT-1](https://www.bit.nl/news/3603/92/Periodiek-onderhoud-koeling-BIT-1) [31-10-24 Onderhoud maildienst en shared hostingdienst](https://www.bit.nl/news/3610/92/Onderhoud-maildienst-en-shared-hostingdienst) [13-11-24 Netwerkonderhoud BIT-1 & BIT-2](https://www.bit.nl/news/3613/92/Netwerkonderhoud-BIT-1-BIT-2) [14-11-24 Netwerkonderhoud BIT-2A](https://www.bit.nl/news/3615/92/Netwerkonderhoud-BIT-2A)
+[28-10-24 Periodiek onderhoud koeling BIT-1](https://www.bit.nl/news/3603/92/Periodiek-onderhoud-koeling-BIT-1) [13-11-24 Netwerkonderhoud BIT-1 & BIT-2](https://www.bit.nl/news/3613/92/Netwerkonderhoud-BIT-1-BIT-2) [14-11-24 Netwerkonderhoud BIT-2A](https://www.bit.nl/news/3615/92/Netwerkonderhoud-BIT-2A)
 
 [](https://www.bit.nl/onderhoud)
 
