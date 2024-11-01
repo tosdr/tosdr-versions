@@ -365,7 +365,7 @@ Guides2 years ago
 Top 7 Photography Tricks Using Mobile Phone
 -------------------------------------------](https://techburner.in/top-7-photography-tricks/)[![why elon musk bought twitter share, elon musk buys twitter, elon musk twitter deal, did elon musk bought twitter, elon musk twitter price](https://techburner.in/wp-content/uploads/2022/04/elon-musk-twitter-deals-80x80.jpg)
 
-Bawal News2 years ago
+Bawal News3 years ago
 
 What’s Inside Elon Musk Twitter Deal & Future Plans
 ---------------------------------------------------](https://techburner.in/whats-inside-elon-musk-twitter-deal-future-plans/)[![weird technology gadgets, cool gadgets, weird gadgets 2022, weird gadgets to buy in india, weird and wonderful gadgets, unique gadgets to buy, what gadgets are trending now, tech gadgets to buy, cool smartphone gadgets, budget tech](https://techburner.in/wp-content/uploads/2022/04/weird-gadgets-to-buy-80x80.jpg)
