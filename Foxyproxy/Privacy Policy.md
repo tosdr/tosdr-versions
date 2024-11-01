@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I use FoxyProxy when I travel as it allows me the freedom of visiting sites as I would at home. Also, I find it annoying (without FP) that many sites redirect me to their local version, sometimes not in English, depending where I am. It works as it should - what more can one say?
+a big........................THANK YOU!!!!
 
-Phil Stark
+Zach S.
