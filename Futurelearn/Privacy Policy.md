@@ -4,10 +4,6 @@ FutureLearn uses cookies to enhance your experience of the website. All but stri
 
 [Skip main navigation](#main-content)
 
-**New offer! Get 30% off one whole year of Unlimited learning. Subscribe for just ~£249.99~ £174.99.** New subscribers only. [T&Cs apply](https://www.futurelearn.com/info/unlimited-sale-24-terms)
-
-[Find out more](https://www.futurelearn.com/unlimited)
-
 [![FutureLearn - Learning For Life](https://cdn-wordpress-info.futurelearn.com/wp-content/themes/futurelearn/dist/images/fl_logo.svg)](https://www.futurelearn.com/)
 
 [Subjects](#)
