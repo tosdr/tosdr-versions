@@ -35,8 +35,8 @@ Our **Data Protection Supplementary Statement for Schools** covers our policy 
 
 Please click below to view all our Data Protection and Privacy Statements and/or to access a Subject Access Request Form:
 
-[Data Protection Policy](https://whizz.com/wp-content/uploads/Data-Protection-Policy-1.2.23.pdf)  
-[Privacy Statement for Teachers](https://www.whizz.com/wp-content/uploads/2022/12/Privacy-Statement-for-Teachers-and-Staff-1-2-22.pdf)  
+[Data Protection Policy](https://whizz.com/wp-content/uploads/Data-Protection-Policy-1.2.23.pdf.pagespeed.ce.FXzmF18GCb.pdf)  
+[Privacy Statement for Teachers](https://www.whizz.com/wp-content/uploads/2022/12/Privacy-Statement-for-Teachers-and-Staff-1-2-22.pdf.pagespeed.ce.Gcb4rLg6Gw.pdf)  
 [Privacy Statement for Teachers (EEF Trials Schools Only)](https://whizz.com/wp-content/uploads/Privacy-Statement-Teachers-2024-25-EEF-Study-Only-3.pdf)  
 [Privacy Statement for Home Subscribers](https://www.whizz.com/wp-content/uploads/2022/12/Privacy-Statement-for-Home-Subscribers-1-2-22.pdf)  
 [Privacy Statement for Students](https://www.whizz.com/wp-content/uploads/2023/01/Privacy-Statement-for-Maths-Whizz-Students-1-2-22.pdf)  
