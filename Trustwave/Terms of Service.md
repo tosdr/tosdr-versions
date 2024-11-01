@@ -1,4 +1,4 @@
-Trustwave's 2024 Retail Report Series Highlights Alarming E-Commerce Threats and Growing Fraud Against Retailers. [Learn More](https://www.trustwave.com/en-us/company/newsroom/news/trustwaves-2024-retail-report-series-highlights-alarming-e-commerce-threats-and-growing-fraud-against-retailers/)
+Trustwave's 2024 Retail Report Series Highlights Alarming E-Commerce Threats and Growing Fraud Against Retailers. [Learn More](https://www.trustwave.com/en-us/resources/library/documents/trustwave-spiderlabs-research-defending-the-retail-sector-in-2024/)
 
 * [Contact Us](https://www.trustwave.com/en-us/company/contact/)
 * [Login](javascript:void(0))
@@ -75,7 +75,7 @@ Trustwave's 2024 Retail Report Series Highlights Alarming E-Commerce Threats and
     
 * 
 
-Trustwave's 2024 Retail Report Series Highlights Alarming E-Commerce Threats and Growing Fraud Against Retailers. [Learn More](https://www.trustwave.com/en-us/company/newsroom/news/trustwaves-2024-retail-report-series-highlights-alarming-e-commerce-threats-and-growing-fraud-against-retailers/)
+Trustwave's 2024 Retail Report Series Highlights Alarming E-Commerce Threats and Growing Fraud Against Retailers. [Learn More](https://www.trustwave.com/en-us/resources/library/documents/trustwave-spiderlabs-research-defending-the-retail-sector-in-2024/)
 
 [Request a Demo](#navdemo-form)
 
