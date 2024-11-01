@@ -1,4 +1,4 @@
-[![Top Horror from the Past Five Years](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1727387722i/451.jpg)](https://www.goodreads.com/blog/show/2846?ref=tophorror24_eb)
+[![Goodreads Celebrates Native American Heritage Month](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1730408458i/459.jpg)](https://www.goodreads.com/blog/show/2852?ref=nahm24_eb)
 
 [](https://www.goodreads.com/ "Goodreads Home")
 
@@ -10,7 +10,7 @@
     * [Choice Awards](https://www.goodreads.com/choiceawards?ref=nav_brws_gca)
     * [Genres](https://www.goodreads.com/genres?ref=nav_brws_genres)
     * [Giveaways](https://www.goodreads.com/giveaway?ref=nav_brws_giveaways)
-    * [New Releases](https://www.goodreads.com/book/popular_by_date/2024/10?ref=nav_brws_newrels)
+    * [New Releases](https://www.goodreads.com/book/popular_by_date/2024/11?ref=nav_brws_newrels)
     * [Lists](https://www.goodreads.com/list?ref=nav_brws_lists)
     * [Explore](https://www.goodreads.com/book?ref=nav_brws_explore)
     * [News & Interviews](https://www.goodreads.com/news?ref=nav_brws_news)
@@ -88,7 +88,7 @@ View profile
     * [Choice Awards](https://www.goodreads.com/choiceawards?ref=nav_brws_gca)
     * [Genres](https://www.goodreads.com/genres?ref=nav_brws_genres)
     * [Giveaways](https://www.goodreads.com/giveaway?ref=nav_brws_giveaways)
-    * [New Releases](https://www.goodreads.com/book/popular_by_date/2024/10?ref=nav_brws_newrels)
+    * [New Releases](https://www.goodreads.com/book/popular_by_date/2024/11?ref=nav_brws_newrels)
     * [Lists](https://www.goodreads.com/list?ref=nav_brws_lists)
     * [Explore](https://www.goodreads.com/book?ref=nav_brws_explore)
     * [News & Interviews](https://www.goodreads.com/news?ref=nav_brws_news)
