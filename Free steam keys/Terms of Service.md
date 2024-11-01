@@ -109,29 +109,23 @@ Please be aware that the Agreement may change from time to time. We will post an
 
 We welcome and encourage you to provide feedback, comments and suggestions for improvements to the Site. If you have any enquiries about these Terms or any questions, complaints or claims with respect to the Applications, please contact us at contact@FreeSteamKeys.com
 
- [![](https://steamcdn-a.akamaihd.net/steam/apps/321270/header.jpg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) UNLOVED](https://www.freesteamkeys.com/unloved/)
-
-### [UNLOVED](https://www.freesteamkeys.com/unloved/)
-
  [![](https://steamcdn-a.akamaihd.net/steam/apps/2069550/header.jpg)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Slime Rule](https://www.freesteamkeys.com/slime-rule/)
 
 ### [Slime Rule](https://www.freesteamkeys.com/slime-rule/)
 
+ [![](https://steamcdn-a.akamaihd.net/steam/apps/321270/header.jpg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) UNLOVED](https://www.freesteamkeys.com/unloved/)
+
+### [UNLOVED](https://www.freesteamkeys.com/unloved/)
+
  [![](https://www.freesteamkeys.com/random.jpg)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Random Games (Steam level 1+ required)](https://www.freesteamkeys.com/random-games-steam-level-1-required-4/)
 
 ### [Random Games (Steam level 1+ required)](https://www.freesteamkeys.com/random-games-steam-level-1-required-4/)
-
- [![](https://steamcdn-a.akamaihd.net/steam/apps/2920980/header.jpg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) An Amazing Wizard: Prologue (Early Access)](https://www.freesteamkeys.com/an-amazing-wizard-prologue-playtest/)
-
-### [An Amazing Wizard: Prologue (Early Access)](https://www.freesteamkeys.com/an-amazing-wizard-prologue-playtest/)
 
  [![](https://steamcdn-a.akamaihd.net/steam/apps/446640/header.jpg)
 
@@ -144,6 +138,12 @@ We welcome and encourage you to provide feedback, comments and suggestions for i
 ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Horror Prison](https://www.freesteamkeys.com/horror-prison/)
 
 ### [Horror Prison](https://www.freesteamkeys.com/horror-prison/)
+
+ [![](https://www.freesteamkeys.com/random.jpg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Free Random Steam Key](https://www.freesteamkeys.com/free-random-steam-key-21/)
+
+### [Free Random Steam Key](https://www.freesteamkeys.com/free-random-steam-key-21/)
 
 How to get free Steam keys? Well... you are in the right place! Free Steam Keys is a popular online gaming community and aggregator powered by Steam fans. Members submit, find and share links for ongoing Steam giveaways. Free Steam Keys lists thousands of legitimate Steam giveaways in one location visited by gamers daily. We will find all the free Steam games, Beta keys and DLC codes we can! Choose a giveaway, follow the instructions and redeem your key!
 
