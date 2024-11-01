@@ -592,8 +592,6 @@ Kopieren
 
 [](#)
 
-[![21energy – ASICs, Heater & mehr!](/fileadmin/_processed_/a/3/csm_Frame_21_fb754bb5fd.png)](https://ref.blocktrainer.de/21energy/ws/anbieter)
-
 **Privatsphäre-Einstellungen**
 
 Mit diesem Tool können Sie Ihre Zustimmung zur Erfassung und Verarbeitung personenbezogener Daten durch Technologien von Drittanbietern verwalten.
