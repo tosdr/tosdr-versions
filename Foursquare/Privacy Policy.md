@@ -193,4 +193,4 @@ Il est recommandé d'activer JavaScript dans les paramètres du navigateur pour 
 * [Thailande](https://fr.foursquare.com/cities/bangkok "Bangkok")
 * [Turquie](https://fr.foursquare.com/cities/istanbul "Istanbul")
 
-![](/private/wtrack?event=pltp-dep&p=%2Flegal%2Fccpa-consumer&ref=&ts=1730426067&u=-1&sig=GQesOKrcKlf4POIyKNkcz7Kie48%3D)
+![](/private/wtrack?event=pltp-dep&p=%2Flegal%2Fccpa-consumer&ref=&ts=1730447504&u=-1&sig=21fj8dNm0u6Al%2Bbop5lmR%2FqRa6c%3D)
