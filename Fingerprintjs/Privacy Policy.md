@@ -58,6 +58,7 @@ Identify browsers
 Identify mobile devices
 -----------------------
 
+* [Fingerprint for mobile devices](https://dev.fingerprintjs.com/docs/mobile-identification)
 * [iOS devices](https://dev.fingerprintjs.com/docs/ios)
     * [Understanding privacy manifest files](https://dev.fingerprintjs.com/docs/mobile-devices-understanding-privacy-manifest-files)
 * [Android devices](https://dev.fingerprintjs.com/docs/native-android-integration)
@@ -90,7 +91,7 @@ Protect your implementation
 Integrate with your server
 --------------------------
 
-* [Get Server Side Intelligence](https://dev.fingerprintjs.com/docs/get-server-side-intelligence-draft)
+* [Get server side intelligence](https://dev.fingerprintjs.com/docs/get-server-side-intelligence-draft)
 * [Server API](https://dev.fingerprint.com/reference/pro-server-api)
 * [Webhooks](https://dev.fingerprintjs.com/docs/webhooks)
 * [Sealed Client Results](https://dev.fingerprintjs.com/docs/sealed-client-results)
