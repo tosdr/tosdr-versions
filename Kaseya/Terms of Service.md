@@ -327,7 +327,7 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     
     Integrated, High-Performance Routers
     
-    [Explore Product](https://www.datto.com/products/datto-edr/)
+    [Explore Product](https://www.datto.com/products/routers/)
     
     Datto Secure Edge
     
