@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![stratus fréquent](https://www.watson.ch/fr/_watsui/static/img/weather/w-5.svg)8°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)9°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,25 +55,25 @@
 Thèmes du moment
 
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [Genève](https://www.watson.ch/fr/geneve/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Banques](https://www.watson.ch/fr/banques/)
 * [Halloween](https://www.watson.ch/fr/halloween/)
 * [Viol](https://www.watson.ch/fr/viol/)
-* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [Football](https://www.watson.ch/fr/football/)
+* [Argent](https://www.watson.ch/fr/argent/)
 * [Russie](https://www.watson.ch/fr/russie/)
-* [Météo](https://www.watson.ch/fr/meteo/)
 * [tribunal](https://www.watson.ch/fr/tribunal/)
 * [Abus sexuel](https://www.watson.ch/fr/abus-sexuel/)
 * [mort](https://www.watson.ch/fr/mort/)
+* [Cinéma](https://www.watson.ch/fr/cinema/)
 * [Inondation](https://www.watson.ch/fr/inondation/)
-* [Confédération](https://www.watson.ch/fr/confederation/)
-* [Catastrophe naturelle](https://www.watson.ch/fr/catastrophe-naturelle/)
 * [Poutine](https://www.watson.ch/fr/poutine/)
 * [People](https://www.watson.ch/fr/people/)
-* [Intempéries](https://www.watson.ch/fr/intemperies/)
-* [Espagne](https://www.watson.ch/fr/espagne/)
 * [Justice](https://www.watson.ch/fr/justice/)
+* [Espagne](https://www.watson.ch/fr/espagne/)
 * [Politique](https://www.watson.ch/fr/politique/)
+* [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
