@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![Владимир Якушев поддержал предложение тамбовских молодогвардейцев учредить региональный знак «Волонтёр СВО»](https://cdn.er.ru/media/news/November2024/SXlqJA1JB9SfYsDnYYbs-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-podderzhal-predlozhenie-tambovskih-molodogvardejcev-uchredit-regionalnyj-znak-volontyor-svo)
+[![«Единая Россия» проработала поправки ко второму чтению бюджета](https://cdn.er.ru/media/news/November2024/DSJrlaepWQIvdMK7HzpN-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-prorabotala-popravki-ko-vtoromu-chteniyu-byudzheta)
 
-[Владимир Якушев поддержал предложение тамбовских молодогвардейцев учредить региональный знак «Волонтёр СВО»](https://er.ru/activity/news/vladimir-yakushev-podderzhal-predlozhenie-tambovskih-molodogvardejcev-uchredit-regionalnyj-znak-volontyor-svo)
+[«Единая Россия» проработала поправки ко второму чтению бюджета](https://er.ru/activity/news/edinaya-rossiya-prorabotala-popravki-ko-vtoromu-chteniyu-byudzheta)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#Егоров](https://er.ru/activity/news?tags%5B0%5D=17445) [#награда](https://er.ru/activity/news?tags%5B0%5D=2241) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#волонтерство](https://er.ru/activity/news?tags%5B0%5D=19443) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#Силуанов](https://er.ru/activity/news?tags%5B0%5D=5116) [#Минфин](https://er.ru/activity/news?tags%5B0%5D=2764) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#программнаякомиссия](https://er.ru/activity/news?tags%5B0%5D=106523) [#финансирование](https://er.ru/activity/news?tags%5B0%5D=1213) [#образование](https://er.ru/activity/news?tags%5B0%5D=57) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#социальныеинициативы](https://er.ru/activity/news?tags%5B0%5D=140070)
 
-Сегодня 10:31
+Сегодня 17:19
 
-[![Владимир Якушев встретился с тамбовскими ветеранами СВО](https://cdn.er.ru/media/news/November2024/4wUNX0QBcgiAvAsy7CcT-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-vstretilsya-s-tambovskimi-veteranami-svo)
+[![Дмитрий Медведев: Главное при работе над бюджетом — не допустить очевидных перекосов](https://cdn.er.ru/media/news/November2024/yHmb48JAvxrB7JXjG0Vf-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-glavnoe-pri-rabote-nad-byudzhetom-ne-dopustit-ochevidnyh-perekosov)
 
-[Владимир Якушев встретился с тамбовскими ветеранами СВО](https://er.ru/activity/news/vladimir-yakushev-vstretilsya-s-tambovskimi-veteranami-svo)
+[Дмитрий Медведев: Главное при работе над бюджетом — не допустить очевидных перекосов](https://er.ru/activity/news/dmitrij-medvedev-glavnoe-pri-rabote-nad-byudzhetom-ne-dopustit-ochevidnyh-perekosov)
 
-[#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#защитникиОтечества](https://er.ru/activity/news?tags%5B0%5D=123406) [#ветераныСВО](https://er.ru/activity/news?tags%5B0%5D=1095636)
+[#программнаякомиссияЕР](https://er.ru/activity/news?tags%5B0%5D=116796) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751)
 
-Сегодня 09:20
+Сегодня 16:46
 
-[![Владимир Якушев: «Единая Россия» обеспечит дальнейший контроль за реализацией программы модернизации первичного звена здравоохранения](https://cdn.er.ru/media/news/November2024/RCdGxhFJzRi9pQIPA147-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-obespechit-dalnejshij-kontrol-za-realizaciej-programmy-modernizacii-pervichnogo-zvena-zdravoohraneniya)
+[![Андрей Макаров: Финансирование мероприятий народной программы «Единой России» в бюджете ежегодно увеличивается](https://cdn.er.ru/media/news/November2024/tnrDyBOdr67pbR75aDBD-small.jpg)](https://er.ru/activity/news/andrej-makarov-finansirovanie-meropriyatij-narodnoj-programmy-edinoj-rossii-v-byudzhete-ezhegodno-uvelichivaetsya)
 
-[Владимир Якушев: «Единая Россия» обеспечит дальнейший контроль за реализацией программы модернизации первичного звена здравоохранения](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-obespechit-dalnejshij-kontrol-za-realizaciej-programmy-modernizacii-pervichnogo-zvena-zdravoohraneniya)
+[Андрей Макаров: Финансирование мероприятий народной программы «Единой России» в бюджете ежегодно увеличивается](https://er.ru/activity/news/andrej-makarov-finansirovanie-meropriyatij-narodnoj-programmy-edinoj-rossii-v-byudzhete-ezhegodno-uvelichivaetsya)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#модернизация](https://er.ru/activity/news?tags%5B0%5D=169) [#здравоохранение](https://er.ru/activity/news?tags%5B0%5D=116225) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#поликлиника](https://er.ru/activity/news?tags%5B0%5D=121849) [#рабочаяпоездка](https://er.ru/activity/news?tags%5B0%5D=129494) [#первичноезвено](https://er.ru/activity/news?tags%5B0%5D=140453)
+[#Макаров](https://er.ru/activity/news?tags%5B0%5D=2183) [#программнаякомиссия](https://er.ru/activity/news?tags%5B0%5D=106523) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=29486)
 
-Сегодня 08:30
+Сегодня 16:28
 
-[![Владимир Якушев: При поддержке «Единой России» в бюджете заложено 180 миллиардов рублей на развитие комфортной горсреды](https://cdn.er.ru/media/news/October2024/2oZNJDyi6RwiSYW8ka0N-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-pri-podderzhke-edinoj-rossii-v-byudzhete-zalozheno-180-milliardov-rublej-na-razvitie-komfortnoj-gorsredy)
+[![Михаил Дегтярёв: Минспорта участвует в реализации приоритетных направлений народной программы «Единой России»](https://cdn.er.ru/media/news/November2024/E3ENTpqexfPgOFnaZPb1-small.jpg)](https://er.ru/activity/news/mihail-degtyaryov-minsporta-uchastvuet-v-realizacii-prioritetnyh-napravlenij-narodnoj-programmy-edinoj-rossii)
 
-[Владимир Якушев: При поддержке «Единой России» в бюджете заложено 180 миллиардов рублей на развитие комфортной горсреды](https://er.ru/activity/news/vladimir-yakushev-pri-podderzhke-edinoj-rossii-v-byudzhete-zalozheno-180-milliardov-rublej-na-razvitie-komfortnoj-gorsredy)
+[Михаил Дегтярёв: Минспорта участвует в реализации приоритетных направлений народной программы «Единой России»](https://er.ru/activity/news/mihail-degtyaryov-minsporta-uchastvuet-v-realizacii-prioritetnyh-napravlenij-narodnoj-programmy-edinoj-rossii)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Ересько](https://er.ru/activity/news?tags%5B0%5D=1093212) [#формированиекомфортнойгородскойсреды](https://er.ru/activity/news?tags%5B0%5D=144989) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#городскаясреда](https://er.ru/activity/news?tags%5B0%5D=122060) [#общественныепространства](https://er.ru/activity/news?tags%5B0%5D=122879) [#благоустройство](https://er.ru/activity/news?tags%5B0%5D=3871) [#памятники](https://er.ru/activity/news?tags%5B0%5D=330) [#дворы](https://er.ru/activity/news?tags%5B0%5D=3930) [#Минстрой](https://er.ru/activity/news?tags%5B0%5D=44979)
+[#Дегтярев](https://er.ru/activity/news?tags%5B0%5D=11255) [#Минспорта](https://er.ru/activity/news?tags%5B0%5D=4504) [#программнаякомиссия](https://er.ru/activity/news?tags%5B0%5D=106523) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#развитиеспорта](https://er.ru/activity/news?tags%5B0%5D=128946) [#ФОКи](https://er.ru/activity/news?tags%5B0%5D=4595) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129)
 
-31.10.24
+Сегодня 16:23
 
-[![Владимир Якушев высоко оценил проект по производству дронов «Тамбовский рой»](https://cdn.er.ru/media/news/October2024/jLHX7cZozW6LsuW7iaRB-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-vysoko-ocenil-proekt-po-proizvodstvu-dronov-tambovskij-roj)
+[![Оксана Лут: Поддержка АПК «Единой Россией» помогла остановить отток людей из сельских территорий](https://cdn.er.ru/media/news/November2024/cIuLqBUXvBPqLtydKcnc-small.jpg)](https://er.ru/activity/news/oksana-lut-podderzhka-apk-edinoj-rossiej-pomogla-ostanovit-ottok-lyudej-iz-selskih-territorij)
 
-[Владимир Якушев высоко оценил проект по производству дронов «Тамбовский рой»](https://er.ru/activity/news/vladimir-yakushev-vysoko-ocenil-proekt-po-proizvodstvu-dronov-tambovskij-roj)
+[Оксана Лут: Поддержка АПК «Единой Россией» помогла остановить отток людей из сельских территорий](https://er.ru/activity/news/oksana-lut-podderzhka-apk-edinoj-rossiej-pomogla-ostanovit-ottok-lyudej-iz-selskih-territorij)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#Егоров](https://er.ru/activity/news?tags%5B0%5D=17445) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#БПЛА](https://er.ru/activity/news?tags%5B0%5D=1094194) [#производство](https://er.ru/activity/news?tags%5B0%5D=4516)
+[#Лут](https://er.ru/activity/news?tags%5B0%5D=133405) [#Минсельхоз](https://er.ru/activity/news?tags%5B0%5D=873) [#программнаякомиссияЕР](https://er.ru/activity/news?tags%5B0%5D=116796) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#сельскоехозяйство](https://er.ru/activity/news?tags%5B0%5D=128668) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
 
-31.10.24
+Сегодня 16:09
 
-[![Алексей Ересько: Контроль «Единой России» за благоустройством общественных пространств и дворов улучшил качество работ на объектах](https://cdn.er.ru/media/news/October2024/IuHOOGRjDuxICsFgWgUL-small.jpg)](https://er.ru/activity/news/aleksej-eresko-kontrol-edinoj-rossii-za-blagoustrojstvom-obshestvennyh-prostranstv-i-dvorov-uluchshil-kachestvo-rabot-na-obektah)
+[![Валерий Фальков: В народную программу «Единой России» включены ключевые мероприятия Минобрнауки, в бюджете расходы на высшее образование растут](https://cdn.er.ru/media/news/November2024/jlpZyc6jk89pe5vOGBU2-small.jpg)](https://er.ru/activity/news/valerij-falkov-v-narodnuyu-programmu-edinoj-rossii-vklyucheny-klyuchevye-meropriyatiya-minobrnauki-v-byudzhete-rashody-na-vysshee-obrazovanie-rastut)
 
-[Алексей Ересько: Контроль «Единой России» за благоустройством общественных пространств и дворов улучшил качество работ на объектах](https://er.ru/activity/news/aleksej-eresko-kontrol-edinoj-rossii-za-blagoustrojstvom-obshestvennyh-prostranstv-i-dvorov-uluchshil-kachestvo-rabot-na-obektah)
+[Валерий Фальков: В народную программу «Единой России» включены ключевые мероприятия Минобрнауки, в бюджете расходы на высшее образование растут](https://er.ru/activity/news/valerij-falkov-v-narodnuyu-programmu-edinoj-rossii-vklyucheny-klyuchevye-meropriyatiya-minobrnauki-v-byudzhete-rashody-na-vysshee-obrazovanie-rastut)
 
-[#Ересько](https://er.ru/activity/news?tags%5B0%5D=1093212) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ГородскаяСреда](https://er.ru/activity/news?tags%5B0%5D=1090022) [#ФКГС](https://er.ru/activity/news?tags%5B0%5D=121187) [#общественныепространства](https://er.ru/activity/news?tags%5B0%5D=122879) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Минстрой](https://er.ru/activity/news?tags%5B0%5D=44979)
+[#Фальков](https://er.ru/activity/news?tags%5B0%5D=42929) [#образование](https://er.ru/activity/news?tags%5B0%5D=57) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#программнаякомисиия](https://er.ru/activity/news?tags%5B0%5D=116786) [#капремонтшкол](https://er.ru/activity/news?tags%5B0%5D=1095605) [#университеты](https://er.ru/activity/news?tags%5B0%5D=10554) [#наука](https://er.ru/activity/news?tags%5B0%5D=354) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=29486)
 
-31.10.24
+Сегодня 16:03
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
