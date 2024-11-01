@@ -152,8 +152,8 @@ NAS- Network Attached Storage
     
     * [TS-433eU NEW](https://www.qnap.com/en/product/ts-433eu)
     * [TS-h3077AFU](https://www.qnap.com/en/product/ts-h3077afu)
-    * [TS-h1677AXU-RP](https://www.qnap.com/en/product/ts-h1677axu-rp)
     * [TS-h1277AXU-RP](https://www.qnap.com/en/product/ts-h1277axu-rp)
+    * [TS-h1677AXU-RP](https://www.qnap.com/en/product/ts-h1677axu-rp)
     * [View All](https://www.qnap.com/en/product?feature=form_factor-rackmount)
 * ###### All-Flash NAS
     
