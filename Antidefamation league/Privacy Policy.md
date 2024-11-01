@@ -42,7 +42,7 @@ Header Social Links
     * [Myths and Facts About ADL](https://www.adl.org/myths-facts-about-adl)
     * [Careers](https://www.adl.org/about/careers "Careers")
     
-* Research Centers
+* ADL Centers
     
     ![Center on Extremism](data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201%201'%2F%3E)
     
@@ -59,6 +59,7 @@ Header Social Links
     * [Center on Extremism](https://www.adl.org/research-centers/center-on-extremism)
     * [Center for Technology and Society](https://www.adl.org/research-centers/center-technology-society)
     * [Center for Antisemitism Research](https://www.adl.org/research-centers/center-antisemitism-research "Center for Antisemitism Research")
+    * [Center to Combat Antisemitism in Education](https://www.adl.org/center-combat-antisemitism-in-education "Center to Combat Antisemitism in Education")
     
 * What We Do
     
