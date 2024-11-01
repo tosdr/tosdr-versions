@@ -546,7 +546,7 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     
     ![](https://www.openculture.com/wp-content/plugins/native-lazyload/assets/images/placeholder.svg "click to reload")
     
-    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1730428074&formid=1 "click to reload")
+    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1730450560&formid=1 "click to reload")
     
 * About Us
     --------
@@ -639,6 +639,7 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
 * Archives
     --------
     
+    * [November 2024](https://www.openculture.com/2024/11)
     * [October 2024](https://www.openculture.com/2024/10)
     * [September 2024](https://www.openculture.com/2024/09)
     * [August 2024](https://www.openculture.com/2024/08)
