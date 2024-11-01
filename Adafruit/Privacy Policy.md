@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ If you get, give. If you learn, teach”
+“ The most worth-while thing is to try to put happiness into the lives of others”
 
-[Maya Angelou](http://en.wikipedia.org/wiki/Maya_Angelou)
+[Robert Baden-Powell](https://en.wikipedia.org/wiki/Robert_Baden-Powell,_1st_Baron_Baden-Powell)
 
 [](https://www.adafruit.com/about)
 
