@@ -166,7 +166,6 @@ Switch to
         * [Gaming Cases](https://www.razer.com/pc/gaming-desktops-and-components/cases)
         * [Liquid Cooling](https://www.razer.com/gaming-pc-accessories/razer-hanbo-chroma)
         * [Power Supplies](https://www.razer.com/gaming-pc-accessories/razer-katana-chroma)
-        * [Core X eGPU](https://www.razer.com/gaming-egpus/razer-core-x)
         * [Cables](https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-4-cables)
         * [Compare](https://www.razer.com/shop/pc/gaming-desktops-and-cases)
         * [Accessories](https://www.razer.com/pc/gaming-pc-accessories)
@@ -198,12 +197,13 @@ Switch to
             Product Line
             ------------
             
+            * [Razer Viper V3 Pro Sentinels Edition](https://www.razer.com/gaming-mice/razer-viper-v3-pro-sentinels-edition)
+            * [Razer Viper V3 Pro](https://www.razer.com/gaming-mice/razer-viper-v3-pro)
+            * [Razer Viper V3 HyperSpeed](https://www.razer.com/gaming-mice/razer-viper-v3-hyperspeed)
             * [Razer DeathAdder V3 Pro + HyperPolling Wireless Dongle](https://www.razer.com/hard-bundles/DeathAdder-V3-Pro-HyperPolling-Wireless-Dongle/RZHB-230201-20)
             * [Razer DeathAdder V3 Pro](https://www.razer.com/gaming-mice/razer-deathadder-v3-pro)
             * [Razer DeathAdder V3 HyperSpeed](https://www.razer.com/gaming-mice/razer-deathadder-v3-hyperspeed)
             * [Razer DeathAdder V3](https://www.razer.com/gaming-mice/razer-deathadder-v3)
-            * [Razer Viper V3 Pro](https://www.razer.com/gaming-mice/razer-viper-v3-pro)
-            * [Razer Viper V3 HyperSpeed](https://www.razer.com/gaming-mice/razer-viper-v3-hyperspeed)
             
         * Immersive
             
@@ -237,6 +237,7 @@ Switch to
             
             * [View All Viper](https://www.razer.com/pc/gaming-mice/viper-line)
             * [Razer Viper Mini Signature Edition](https://www.razer.com/gaming-mice/razer-viper-mini-signature-edition)
+            * [Razer Viper V3 Pro Sentinels Edition](https://www.razer.com/gaming-mice/razer-viper-v3-pro-sentinels-edition)
             * [Razer Viper V3 Pro](https://www.razer.com/gaming-mice/razer-viper-v3-pro)
             * [Razer Viper V3 HyperSpeed](https://www.razer.com/gaming-mice/razer-viper-v3-hyperspeed)
             
@@ -569,6 +570,7 @@ Switch to
             * [Razer Nommo V2 Pro](https://www.razer.com/gaming-speakers/razer-nommo-v2-pro)
             * [Razer Nommo V2](https://www.razer.com/gaming-speakers/razer-nommo-v2)
             * [Razer Nommo V2 X](https://www.razer.com/gaming-speakers/razer-nommo-v2-x)
+            * [Razer Wireless Control Pod](https://www.razer.com/gaming-headsets-and-audio-accessories/razer-wireless-control-pod)
             
         * [Compare](https://www.razer.com/shop/audio/gaming-speakers)
         
@@ -902,7 +904,6 @@ Switch to
             * [Razer Kaira Pro for Xbox - Halo Infinite](https://www.razer.com/console-headsets/razer-kaira-pro-halo-infinite-edition)
             * [Razer Kaira Pro for Xbox](https://www.razer.com/console-headsets/razer-kaira-x-for-xbox)
             * [Razer Kaira for Xbox](https://www.razer.com/console-headsets/razer-kaira-for-xbox)
-            * [Razer Kraken for Console](https://www.razer.com/console-headsets/razer-kraken-for-console)
             * [Razer Kraken X for Console](https://www.razer.com/console-headsets/razer-kraken-x-for-console)
             
         * Earbuds
@@ -940,7 +941,6 @@ Switch to
             * [Razer Kaira for PlayStation](https://www.razer.com/console-headsets/razer-kaira-for-playstation-5)
             * [Razer Kaira Pro for PlayStation](https://www.razer.com/console-headsets/razer-kaira-pro-for-playstation-5)
             * [Razer Kraken X for PlayStation](https://www.razer.com/console-headsets/razer-kraken-x-for-console)
-            * [Razer Kraken for Console](https://www.razer.com/console-headsets/razer-kraken-for-console)
             
         * Earbuds
             
