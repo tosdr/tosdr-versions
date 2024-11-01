@@ -52,7 +52,7 @@ Search
 
  
 
-[![Home](images/logos/21/logo_colored.jpg?v=1730298982847 "Home")](https://www.derrynow.com/)
+[![Home](images/logos/21/logo_colored.jpg?v=1730453664817 "Home")](https://www.derrynow.com/)
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
@@ -259,51 +259,14 @@ Advertise with Us
 
 Most Popular
 
-[![Throwback Thursday: Partytime out and about in Derry's Sugar Nightclub (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about in Derry's Sugar Nightclub (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1639817/throwback-thursday-partytime-out-and-about-in-derry-s-sugar-nightclub-2009.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Thursday: Partytime out and about in Derry's Sugar Nightclub (2009)](https://www.derrynow.com/story-telling/pictures---videos/1639817/throwback-thursday-partytime-out-and-about-in-derry-s-sugar-nightclub-2009.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man left with 'serious injuries' following a road traffic collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man left with 'serious injuries' following a road traffic collision")](https://www.derrynow.com/news/derry-news/1643915/man-left-with-serious-injuries-following-a-road-traffic-collision.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Man left with 'serious injuries' following Derry road traffic collision](https://www.derrynow.com/news/derry-news/1643915/man-left-with-serious-injuries-following-a-road-traffic-collision.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Filming of Derry's Halloween celebrations for new ITV show with Fred Sirieix tonight](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Filming of Derry's Halloween celebrations for new ITV show with Fred Sirieix tonight")](https://www.derrynow.com/news/derry-news/1644065/filming-of-derry-s-halloween-celebrations-for-new-itv-show-with-fred-sirieix-tonight.html)
-
-‘Fred’s Tour De Ireland’ ith Fred Sirieix
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Filming of Derry's Halloween celebrations for new ITV show with Fred Sirieix tonight](https://www.derrynow.com/news/derry-news/1644065/filming-of-derry-s-halloween-celebrations-for-new-itv-show-with-fred-sirieix-tonight.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man (19) returned for trial to Derry Crown Court on series of sex offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (19) returned for trial to Derry Crown Court on series of sex offences")](https://www.derrynow.com/news/local-news/1644017/man-19-returned-for-trial-to-derry-crown-court-on-series-of-sex-offences.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man (19) returned for trial to Derry Crown Court on series of sex offences](https://www.derrynow.com/news/local-news/1644017/man-19-returned-for-trial-to-derry-crown-court-on-series-of-sex-offences.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Draperstown woman wins prestigious title at the National Building and Construction Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Draperstown woman wins prestigious title at the National Building and Construction Awards")](https://www.derrynow.com/news/home/1644369/draperstown-woman-wins-prestigious-title-at-the-national-building-and-construction-awards.html)
 
 Draperstown's Charlotte Hassan pictured with her award.
 
-[Home](https://www.derrynow.com/)
+[Local News](https://www.derrynow.com/section/975/news)
 
 [Draperstown woman wins prestigious title at the National Building and Construction Awards](https://www.derrynow.com/news/home/1644369/draperstown-woman-wins-prestigious-title-at-the-national-building-and-construction-awards.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Registered sex offender jailed at Derry court for failing to notify police of his release](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Registered sex offender jailed at Derry court for failing to notify police of his release")](https://www.derrynow.com/news/crime---courts/1644061/registered-sex-offender-jailed-at-derry-court-for-failing-to-notify-police-of-his-release.html)
-
-[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
-
-[Registered sex offender jailed at Derry court for failing to notify police of his release](https://www.derrynow.com/news/crime---courts/1644061/registered-sex-offender-jailed-at-derry-court-for-failing-to-notify-police-of-his-release.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: Pumpkins, pirates, princesses and more at Shantallow Halloween fun day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Pumpkins, pirates, princesses and more at Shantallow Halloween fun day")](https://www.derrynow.com/news/pictures---videos/1644382/pictures-pumpkins-pirates-princesses-and-more-at-shantallow-halloween-fun-day.html)
 
@@ -312,19 +275,12 @@ Draperstown's Charlotte Hassan pictured with her award.
 [PICTURES: Pumpkins, pirates, princesses and more at Shantallow Halloween fun day](https://www.derrynow.com/news/pictures---videos/1644382/pictures-pumpkins-pirates-princesses-and-more-at-shantallow-halloween-fun-day.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Óglach Michael Meenan 50th anniversary commemoration at the Republican Monument in Shantallow](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Óglach Michael Meenan 50th anniversary commemoration at the Republican Monument in Shantallow")](https://www.derrynow.com/story-telling/pictures---videos/1644091/in-pictures-oglach-michael-meenan-50th-anniversary-commemoration-in-derry.html)
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1644090/derry-death-notices-friday-november-1-2024.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[IN PICTURES: Óglach Michael Meenan 50th anniversary commemoration in Derry](https://www.derrynow.com/story-telling/pictures---videos/1644091/in-pictures-oglach-michael-meenan-50th-anniversary-commemoration-in-derry.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man (34) sentenced in Derry court for breaching restraining order](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (34) sentenced in Derry court for breaching restraining order")](https://www.derrynow.com/news/local-news/1644077/man-34-sentenced-in-derry-court-for-breaching-restraining-order.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man (34) sentenced in Derry court for breaching restraining order](https://www.derrynow.com/news/local-news/1644077/man-34-sentenced-in-derry-court-for-breaching-restraining-order.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Friday, November 1, 2024](https://www.derrynow.com/news/deaths/1644090/derry-death-notices-friday-november-1-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Singer releases James McClean tribute song and his stance on the poppy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Singer releases James McClean tribute song and his stance on the poppy")](https://www.derrynow.com/news/derry-news/1644210/singer-releases-james-mcclean-tribute-song-and-his-stance-on-the-poppy.html)
 
@@ -334,6 +290,52 @@ James McClean
 
 [Singer releases James McClean tribute song and his stance on the poppy](https://www.derrynow.com/news/derry-news/1644210/singer-releases-james-mcclean-tribute-song-and-his-stance-on-the-poppy.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![RIP: Tragic Irish man miraculously saves five lives after dying in Spain assault](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "RIP: Tragic Irish man miraculously saves five lives after dying in Spain assault")](https://www.derrynow.com/news/national-news/1644947/rip-tragic-irish-man-miraculously-saves-five-lives-after-dying-in-spain-assault.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[RIP: Tragic Irish man miraculously saves five lives after dying in Spain assault](https://www.derrynow.com/news/national-news/1644947/rip-tragic-irish-man-miraculously-saves-five-lives-after-dying-in-spain-assault.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry woman charged with causing grievious bodily injury by careless driving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman charged with causing grievious bodily injury by careless driving")](https://www.derrynow.com/news/local-news/1644946/derry-woman-charged-with-causing-grievious-bodily-injury-by-careless-driving.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry woman charged with causing grievious bodily injury by careless driving](https://www.derrynow.com/news/local-news/1644946/derry-woman-charged-with-causing-grievious-bodily-injury-by-careless-driving.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: All smiles as Halloween fun celebrated at Lincoln Courts](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles as Halloween fun celebrated at Lincoln Courts")](https://www.derrynow.com/news/pictures---videos/1644302/pictures-all-smiles-as-halloween-fun-celebrated-at-lincoln-courts.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: All smiles as Halloween fun celebrated at Lincoln Courts](https://www.derrynow.com/news/pictures---videos/1644302/pictures-all-smiles-as-halloween-fun-celebrated-at-lincoln-courts.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man (31) to appear before court this morning charged with drug-related offences following search in Eglinton](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (31) to appear before court this morning charged with drug-related offences following search in Eglinton")](https://www.derrynow.com/news/home/1644861/man-31-to-appear-before-court-this-morning-charged-with-drug-related-offences-following-search-in-eglinton.html)
+
+The man is due to appear before Derry Magistrate's Court this morning.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man (31) to appear before court this morning charged with drug-related offences following search in Eglinton](https://www.derrynow.com/news/home/1644861/man-31-to-appear-before-court-this-morning-charged-with-drug-related-offences-following-search-in-eglinton.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Irish president leads tributes to RTE broadcaster David Davin-Power](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Irish president leads tributes to RTE broadcaster David Davin-Power")](https://www.derrynow.com/news/northern-ireland/1644564/former-rte-broadcaster-david-davin-power-dies-aged-72.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Former RTE broadcaster David Davin-Power dies aged 72](https://www.derrynow.com/news/northern-ireland/1644564/former-rte-broadcaster-david-davin-power-dies-aged-72.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Former Derry Police Officer announced as New Prisoner Ombudsman](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Former Derry Police Officer announced as New Prisoner Ombudsman")](https://www.derrynow.com/news/derry-news/1644018/former-derry-police-officer-announced-as-new-prisoner-ombudsman.html)
+
+Darrin Jones
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Former Derry Police Officer announced as New Prisoner Ombudsman](https://www.derrynow.com/news/derry-news/1644018/former-derry-police-officer-announced-as-new-prisoner-ombudsman.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -511,55 +513,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1644090/derry-death-notices-friday-november-1-2024.html)
+[![Man charged in connection with find of £27,000 worth of cocaine](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged in connection with find of £27,000 worth of cocaine")](https://www.derrynow.com/news/local-news/1645068/man-charged-in-connection-with-find-of-27-000-worth-of-cocaine.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Derry Court
 
-[Derry Death Notices - Friday, November 1, 2024](https://www.derrynow.com/news/deaths/1644090/derry-death-notices-friday-november-1-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
 
-[![Draperstown woman wins prestigious title at the National Building and Construction Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Draperstown woman wins prestigious title at the National Building and Construction Awards")](https://www.derrynow.com/news/home/1644369/draperstown-woman-wins-prestigious-title-at-the-national-building-and-construction-awards.html)
+[Man charged in connection with find of £27,000 worth of cocaine](https://www.derrynow.com/news/local-news/1645068/man-charged-in-connection-with-find-of-27-000-worth-of-cocaine.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Draperstown's Charlotte Hassan pictured with her award.
+[![Derry City and Strabane police patrolling the streets](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City and Strabane police patrolling the streets")](https://www.derrynow.com/news/derry-news/1644983/derry-city-and-strabane-police-acknowledge-the-planning-of-the-halloween-celebrations.html)
 
-[Home](https://www.derrynow.com/)
-
-[Draperstown woman wins prestigious title at the National Building and Construction Awards](https://www.derrynow.com/news/home/1644369/draperstown-woman-wins-prestigious-title-at-the-national-building-and-construction-awards.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Singer releases James McClean tribute song and his stance on the poppy](https://www.derrynow.com/resizer/165/93/true/2023_08_04/Untitled-1691173153778.jpg--.jpg?1691173153800 "Singer releases James McClean tribute song and his stance on the poppy")](https://www.derrynow.com/news/derry-news/1644210/singer-releases-james-mcclean-tribute-song-and-his-stance-on-the-poppy.html)
-
-James McClean
+Derry City and Strabane police patrolling the streets
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Singer releases James McClean tribute song and his stance on the poppy](https://www.derrynow.com/news/derry-news/1644210/singer-releases-james-mcclean-tribute-song-and-his-stance-on-the-poppy.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry City and Strabane police acknowledge the planning of the Halloween celebrations](https://www.derrynow.com/news/derry-news/1644983/derry-city-and-strabane-police-acknowledge-the-planning-of-the-halloween-celebrations.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Truck run held in memory of Claudy man raises more than £1,100 for Foyle Hospice](https://www.derrynow.com/resizer/165/93/true/2024_10_31/Allan_Cassidy-1730389655109_1730389925.jpg--.jpg?1730389925554 "Truck run held in memory of Claudy man raises more than £1,100 for Foyle Hospice")](https://www.derrynow.com/news/home/1644347/truck-run-held-in-memory-of-claudy-man-raises-more-than-1-100-for-foyle-hospice.html)
+[![Best village shop in North celebrates 50 years by giving back to Magilligan](https://www.derrynow.com/resizer/165/93/true/2024_11_01/CDP_-_29-10-24_-_Page_10_lead_pic_%281%29-1730452203959.jpg--.jpg?1730452204116 "Best village shop in North celebrates 50 years by giving back to Magilligan")](https://www.derrynow.com/news/home/1644737/best-village-shop-in-north-celebrates-50-years-by-giving-back-to-magilligan.html)
 
-Pictured is Allan’s wife, Linda with her daughter, Stella and Paddy from LCC Group.
+The Canning brothers celebrate 50 years with some of their valued customers.
 
 [Home](https://www.derrynow.com/)
 
-[Truck run held in memory of Claudy man raises more than £1,100 for Foyle Hospice](https://www.derrynow.com/news/home/1644347/truck-run-held-in-memory-of-claudy-man-raises-more-than-1-100-for-foyle-hospice.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Best village shop in North celebrates 50 years by giving back to Magilligan](https://www.derrynow.com/news/home/1644737/best-village-shop-in-north-celebrates-50-years-by-giving-back-to-magilligan.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Harkin: Labour Budget Protects Billionaires and Targets the Vulnerable](https://www.derrynow.com/resizer/165/93/true/2019/03/07124326/Shaun-Harkin.jpg--.jpg "Harkin: Labour Budget Protects Billionaires and Targets the Vulnerable")](https://www.derrynow.com/news/derry-news/1643884/harkin-labour-budget-protects-billionaires-and-targets-the-vulnerable.html)
+[![Derry woman charged with causing grievious bodily injury by careless driving](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry woman charged with causing grievious bodily injury by careless driving")](https://www.derrynow.com/news/local-news/1644946/derry-woman-charged-with-causing-grievious-bodily-injury-by-careless-driving.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry woman charged with causing grievious bodily injury by careless driving](https://www.derrynow.com/news/local-news/1644946/derry-woman-charged-with-causing-grievious-bodily-injury-by-careless-driving.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Helen Warby, volunteer English tutor and Paul Sceeny, Interim Manager, North West Migrants Forum with Eighrean Horner, Branch Manager and Catriona McGirr, Community Engagement Manager, Bank of Ireland](https://www.derrynow.com/resizer/165/93/true/2024_11_01/NWMF_1-1730454162617.jpg--.jpg?1730454163844 "Helen Warby, volunteer English tutor and Paul Sceeny, Interim Manager, North West Migrants Forum with Eighrean Horner, Branch Manager and Catriona McGirr, Community Engagement Manager, Bank of Ireland")](https://www.derrynow.com/news/derry-news/1644775/north-west-migrants-forum-among-local-community-groups-to-receive-begin-together-funding-from-bank-of-ireland.html)
+
+Helen Warby, volunteer English tutor and Paul Sceeny, Interim Manager, North West Migrants Forum with Eighrean Horner, Branch Manager and Catriona McGirr, Community Engagement Manager, Bank of Ireland
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Harkin: Labour Budget Protects Billionaires and Targets the Vulnerable](https://www.derrynow.com/news/derry-news/1643884/harkin-labour-budget-protects-billionaires-and-targets-the-vulnerable.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[North West Migrants Forum among local community groups to receive ‘Begin Together’ funding from Bank of Ireland](https://www.derrynow.com/news/derry-news/1644775/north-west-migrants-forum-among-local-community-groups-to-receive-begin-together-funding-from-bank-of-ireland.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![ITV announce brand new Irish adventure with Fred Sirieix](https://www.derrynow.com/resizer/165/93/true/2024_10_31/AD_4nXd7Yri1fFGBJ3W-8zqVDVqBBhNDmD5iEWpLZEH_aA91Rr0JbQzBBKmILWggCGuiqna04xHEKDBajJJuFnRuwFzJ3N2MOaVSbItCNVpq4CIdvvX7MQ_s8dt9wVWZ0RwYBj9liioc1FeElDvap9yMKsV-nPPfxdanW6jO1WZO-1730374095629.jpeg--.jpeg?1730374095661 "ITV announce brand new Irish adventure with Fred Sirieix")](https://www.derrynow.com/news/socialsharing-derrynow/1644030/itv-announce-brand-new-irish-adventure-with-fred-sirieix.html)
+[![Halloween Carnival in Derry](https://www.derrynow.com/resizer/165/93/true/2024_11_01/DerryHalloween3110275-1730454721920.jpg--.jpg?1730454722641 "Halloween Carnival in Derry")](https://www.derrynow.com/news/derry-news/1644787/crowds-flock-to-finale-of-europes-biggest-halloween-celebration.html)
 
-ITV announce brand new Irish adventure with Fred Sirieix
+Halloween Carnival in Derry
 
-[SocialSharing-DerryNow](https://www.derrynow.com/section/2770/socialsharing-derrynow)
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[ITV announce brand new Irish adventure with Fred Sirieix](https://www.derrynow.com/news/socialsharing-derrynow/1644030/itv-announce-brand-new-irish-adventure-with-fred-sirieix.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Crowds flock to finale of Europe’s biggest Halloween celebration](https://www.derrynow.com/news/derry-news/1644787/crowds-flock-to-finale-of-europes-biggest-halloween-celebration.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
