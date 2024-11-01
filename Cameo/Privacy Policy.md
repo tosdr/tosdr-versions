@@ -9,7 +9,9 @@
 Privacy Policy
 ==============
 
-Last Updated May , 2024
+_Last Updated:_ October 31, 2024 (prior version available [here](http://legal.cameo.com/privacy-policy-archive))
+
+_Effective Date:_ November 30, 2024 (see Section 1 for further details on when this Privacy Policy takes effect).
 
 We appreciate your trust in our products and services. In order to provide the CAMEO® marketplace platform through our website (cameo.com), mobile application, and through the services we provide (collectively, the website, application, and services referred to as our "Site"), and continue to make them better, Baron App, Inc. dba Cameo ("Cameo," "we," "us," or "our") collects information from you.
 
@@ -32,12 +34,14 @@ Table of Contents
 * [Notice to Users Outside the U.S., UK, and EEA](#notice-users-outside-us)
 * [Contact Us](#contact-us)
 
-1\. Scope of Cameo Privacy Policy
----------------------------------
+1\. Scope of Privacy Policy; Changes to Policy
+----------------------------------------------
 
 This Privacy Policy applies to all aspects of our Site as well as to information we may collect offline.
 
 This Site may link to or incorporate websites or content hosted and served by others over which we have no control, such as third party websites, online properties, platforms, social media, or systems, which are each governed by the privacy policy and business practices of the third party. You understand and agree that Cameo is not responsible for the security, privacy, or business practices of any third party.
+
+We may update this Privacy Policy from time to time. If we do, we will post the revised Privacy Policy on our Site and, in the case of any material change, update the “Last Updated” date at the top. The revised Privacy Policy will be effective upon the earlier of: (a) your acceptance of the revised Privacy Policy (for example, by agreeing when you create an account or login to an existing account, or by using or continuing to use our Site after the revised Terms have been posted); or (b) the “Effective Date” listed at the top of the revised Privacy Policy. If the Effective Date differs from the Last Updated date, we will make a link available to the prior version of this Privacy Policy during the intervening period.
 
 [↑ Return to Top](#top)
 
@@ -172,9 +176,10 @@ Our Site is intended for a general audience and not for use by anyone younger th
 
 * Some of these third parties may be members of the Network Advertising Initiative ("NAI") or Digital Advertising Alliance ("DAA") Self-Regulatory Program for Online Behavioral Advertising. NAI and DAA each provide information regarding procedures for opting-out of targeted online advertising from participating companies. For information from NAI about opting out, [click here](http://optout.networkadvertising.org/?c=1). For information from DAA about opting out, [click here](http://www.aboutads.info/consumers), and for information about DAA’s AppChoices application, [click here](https://youradchoices.com/appchoices).
 * For mobile applications, you may be able to limit certain advertising practices using the settings on your mobile telephone, tablet, or other mobile device. On most mobile devices, you can install the DAA’s AppChoices app to make choices about cross-app interest-based advertisements from participating third parties. For information from NAI about opting out on mobile devices, [click here](https://www.networkadvertising.org/mobile-choice/).
-* Cameo uses Google Analytics. Google Analytics uses cookies and similar technologies to collect and analyze information about the use of the Site and report on activities and trends. This service may also collect information regarding the use of other websites, apps, and online resources. For information from Google about opting out, [click here](https://support.google.com/ads/answer/2662922), and to download the Google Analytics opt-out browser add-on from Google, [click here](https://tools.google.com/dlpage/gaoptout).
+* Cameo uses Google Analytics. Google Analytics uses cookies and similar technologies to collect and analyze information about the use of the Site, report on activities and trends, and analyze and improve the effectiveness of our advertising. This service may also collect information regarding the use of other websites, apps, and online resources. For information about opting out of personalized advertising from Google, [click here](https://myadcenter.google.com/), and to download the Google Analytics opt-out browser add-on from Google, [click here](https://tools.google.com/dlpage/gaoptout).
 * Rakuten Marketing may collect personal information when you use our Site, including your browsing and actions, IP address, and other digital identifiers. Rakuten may use this information a variety of purposes, such as personalization of offers or advertisements or analytics about how you engage with websites or ads. For more about how Rakuten Marketing uses your personal information, please visit Rakuten's privacy policy [here](https://rakutenmarketing.com/legal-notices/services-privacy-policy). For more about user rights requests and opting out, click [here](https://rakutenadvertising.com/legal-notices/services-privacy-rights-request-form).
 * We may run ads on online platforms such as Google, Meta, and TikTok. These companies may collect personal information when you use our Site, including your browsing and actions, IP address, and other digital identifiers, and may use this information a variety of purposes, such as serving content to you on their own platform, personalizing and targeting advertisements they show to you, measuring and providing analytics about how you engage with websites or ads, or for security or other purposes. You can learn more about how Google, Meta, and TikTok use your personal information through their respective privacy policies ([Google](https://business.safety.google/privacy/), [Meta](#https://www.facebook.com/privacy/policy), [TikTok](https://www.tiktok.com/legal/privacy-policy-row)).
+* We use Twilio to help provide text messaging services. When you provide a phone number to receive text messages from Cameo, you consent to use of your personal data as described in Twilio's [privacy policy](https://www.twilio.com/en-us/legal/privacy), including to detect, prevent, or investigate security incidents, fraud, or abuse and misuse of Twilio’s platform and services.
 
 If you are a resident of California, Virginia, or certain other US jurisdictions, please see our [Supplemental Privacy Notice to Residents of California, Virginia, and Certain Other US Jurisdictions](https://legal.cameo.com/privacypolicy#notice-ca-va-other) regarding additional rights you may have, including how to exercise your right to prevent the sharing or sale of your personal information.
 
