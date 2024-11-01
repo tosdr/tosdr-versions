@@ -108,7 +108,7 @@ Discover how Nextbase increased conversion rates and clickthrough rates by provi
 
 [Pricing](https://getshogun.com/pricing/)
 
-[TRY FOR FREE](https://app.getshogun.com/sign-up)
+[BOOK a demo](https://getshogun.com/book-a-demo)[TRY FOR FREE](https://app.getshogun.com/sign-up)
 
 Acceptable Use Policy
 =====================
