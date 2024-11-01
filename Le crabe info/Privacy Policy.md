@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 472 utilisateurs actifs
+##### 227 utilisateurs actifs
 
 Chargement en cours
 
@@ -138,8 +138,8 @@ Chargement en cours
 ### Tendance
 
 * [Télécharger les ISO de Windows 10](https://lecrabeinfo.net/telecharger-iso-windows-10.html)
-* [Télécharger et installer Windows 11 24H2 (3 méthodes)](https://lecrabeinfo.net/telecharger-et-installer-windows-11-24h2.html)
 * [Télécharger les ISO de Windows 11](https://lecrabeinfo.net/telecharger-iso-windows-11.html)
+* [Télécharger et installer Windows 11 24H2 (3 méthodes)](https://lecrabeinfo.net/telecharger-et-installer-windows-11-24h2.html)
 
 ### À propos
 
@@ -152,9 +152,9 @@ Chargement en cours
 
 ### Statistiques
 
-* 67 878 membres
+* 67 879 membres
 * 938 articles
-* 26 824 commentaires
+* 26 826 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
