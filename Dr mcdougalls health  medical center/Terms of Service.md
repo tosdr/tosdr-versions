@@ -95,7 +95,7 @@ Need help getting started?
 
 Join our mailing list for free support in your McDougall journey.
 
-![Image of chips and Mexican food in a bowl](https://www.drmcdougall.com/wp-content/uploads/2022/08/Book-Consultation-Slide-In.jpg)
+![Image of chips and Mexican food in a bowl](https://www.drmcdougall.com/wp-content/uploads/2024/10/Updated-Email-Capture-Image.jpg)
 
 ![Image of chips and Mexican food in a bowl](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
 
