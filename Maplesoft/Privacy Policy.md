@@ -154,7 +154,7 @@ Our Position on Privacy and Data Protection
   
   
 
-_Last updated: March 6, 2024_  
+_Last updated: Nov 1, 2024_  
 
 Waterloo Maple Inc. (“**Maplesoft**”) takes your privacy seriously. This privacy policy explains what personal information we collect from you as you interact with our products and services, and what we do with this information.
 
@@ -184,7 +184,7 @@ Maplesoft recognizes that appropriate protection and management of personal info
 * The User has purchased a third party product. For these purchases, User contact information will be provided to the third party product developer in order for them to fulfill their support and service obligations to the User; or
 * Where the User is a resident of a jurisdiction other than Canada or the United States, Maplesoft may disclose personal information to the Maplesoft office located in the jurisdiction where the User resides. Please visit [http://www.maplesoft.com/contact/](http://www.maplesoft.com/contact/) to view our global office locations.
 * Where the User is a resident of a jurisdiction in which Maplesoft does not have offices, Maplesoft may disclose personal information to our authorized third-party partners located in the jurisdiction where the User resides.
-* The transfer of personal information is required to process and manage a User’s request and/or account. Third parties may include: Salesforce, RevenueCat, 6sense, Microsoft, Amazon AWS, Eventbrite, SurveyMonkey, Mailchimp, and JIRA.
+* The transfer of personal information is required to process and manage a User’s request and/or account. Third parties may include: Salesforce, RevenueCat, 6sense, Microsoft, SpamTitan, Sage and Google Suite.
 
 9. Maplesoft uses contractual or other means to provide protection for the personally identifiable information that is disclosed third parties.
 10. Maplesoft has measures in place to protect against the loss or theft of personal information and will notify users within 72 hours of becoming aware of any data breach.
