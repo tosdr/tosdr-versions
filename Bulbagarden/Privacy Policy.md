@@ -96,7 +96,9 @@ Menu
 
    
 
-Ho! Happy Hala-ween! If you may, please read a [Message from Hala](https://bulbapedia.bulbagarden.net/wiki/Main_Page "Main Page"). Much thanks!
+Bulbapedia will be locked from editing on Tuesday November 5th from 03:00 UTC while we perform some server maintenance. We'll provide updates via our [Twitter](https://x.com/Bulbapedia) if necessary.  
+Please remember to follow the **[unreleased materials policy](https://bulbapedia.bulbagarden.net/wiki/Bulbapedia:Unreleased_materials_policy "Bulbapedia:Unreleased materials policy")**, **[manual of style](https://bulbapedia.bulbagarden.net/wiki/Bulbapedia:Manual_of_style "Bulbapedia:Manual of style")**, and **[code of conduct](https://bulbapedia.bulbagarden.net/wiki/Bulbapedia:Code_of_conduct "Bulbapedia:Code of conduct")** at all times.  
+Check the [Bulbagarden home page](https://bulbagarden.net/) for up-to-date Pokémon news and discuss it on the [forums](https://forums.bulbagarden.net/index.php) or in the [Bulbagarden Discord server](https://discord.gg/bulbagarden).
 
 Bulbapedia:Privacy policy
 =========================
