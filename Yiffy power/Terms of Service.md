@@ -107,21 +107,21 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 409 1
+0 421 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/directed-by-a-tair-in-reality/)
+[](https://yiff-party.com/yiff/darkeater-midir-fromsoftware-and-etc-created-by-scrambledeve/)
 
-[directed by a tair in reality](https://yiff-party.com/yiff/directed-by-a-tair-in-reality/)
+[darkeater midir (fromsoftware and etc) created by scrambledeve](https://yiff-party.com/yiff/darkeater-midir-fromsoftware-and-etc-created-by-scrambledeve/)
 
-0 64 0
+0 133 0
 
-October 2, 2024
+October 3, 2024
 
-[](https://yiff-party.com/yiff/ochette/)
+[](https://yiff-party.com/yiff/loona-helluva-boss-and-etc-created-by-nevobaster/)
 
-[ochette](https://yiff-party.com/yiff/ochette/)
+[loona (helluva boss and etc) created by nevobaster](https://yiff-party.com/yiff/loona-helluva-boss-and-etc-created-by-nevobaster/)
 
 0 2 0
 
