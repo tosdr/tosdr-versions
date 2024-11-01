@@ -73,11 +73,11 @@
 
 MBFC News
 
+* [November 1, 2024 | Media News Daily: Top Stories for 11/01/2024](https://mediabiasfactcheck.com/2024/11/01/media-news-daily-top-stories-for-11-01-2024/ "Media News Daily: Top Stories for 11/01/2024")
+* [November 1, 2024 | MBFC’s Daily Vetted Fact Checks for 11/01/2024](https://mediabiasfactcheck.com/2024/11/01/mbfcs-daily-vetted-fact-checks-for-11-01-2024/ "MBFC’s Daily Vetted Fact Checks for 11/01/2024")
 * [October 31, 2024 | Media News Daily: Top Stories for 10/31/2024](https://mediabiasfactcheck.com/2024/10/31/media-news-daily-top-stories-for-10-31-2024/ "Media News Daily: Top Stories for 10/31/2024")
 * [October 31, 2024 | MBFC’s Daily Vetted Fact Checks for 10/31/2024](https://mediabiasfactcheck.com/2024/10/31/mbfcs-daily-vetted-fact-checks-for-10-31-2024/ "MBFC’s Daily Vetted Fact Checks for 10/31/2024")
 * [October 30, 2024 | Media News Daily: Top Stories for 10/30/2024](https://mediabiasfactcheck.com/2024/10/30/media-news-daily-top-stories-for-10-30-2024/ "Media News Daily: Top Stories for 10/30/2024")
-* [October 30, 2024 | MBFC’s Daily Vetted Fact Checks for 10/30/2024](https://mediabiasfactcheck.com/2024/10/30/mbfcs-daily-vetted-fact-checks-for-10-30-2024/ "MBFC’s Daily Vetted Fact Checks for 10/30/2024")
-* [October 29, 2024 | (Media News) Washington Post Loses 200,000 Subscribers as Bezos Defends Decision to Halt Endorsements; Gannett Joins in 2024 Shift](https://mediabiasfactcheck.com/2024/10/29/media-news-washington-post-loses-200000-subscribers-as-bezos-defends-decision-to-halt-endorsements-gannett-joins-in-2024-shift/ "(Media News) Washington Post Loses 200,000 Subscribers as Bezos Defends Decision to Halt Endorsements; Gannett Joins in 2024 Shift")
 
 Search for:  
 
@@ -137,6 +137,18 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 
 #### Recently Added Sources or Pages
 
+* [Asheville Watchdog – Bias and Credibility](https://mediabiasfactcheck.com/asheville-watchdog-bias-and-credibility/)
+    
+    November 1, 2024
+    
+* [The Rio Times – Bias and Credibility](https://mediabiasfactcheck.com/the-rio-times-bias-and-credibility/)
+    
+    November 1, 2024
+    
+* [North Chester Today – Bias and Credibility](https://mediabiasfactcheck.com/north-chester-today-bias-and-credibility/)
+    
+    November 1, 2024
+    
 * [Brian Williams Bias Rating](https://mediabiasfactcheck.com/brian-williams-bias-rating/)
     
     October 31, 2024
@@ -157,21 +169,21 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
     
     October 31, 2024
     
-* [David French Bias Rating](https://mediabiasfactcheck.com/david-french-bias-rating/)
-    
-    October 30, 2024
-    
-* [Blacklock’s Reporter – Bias and Credibility](https://mediabiasfactcheck.com/blacklocks-reporter-bias-and-credibility/)
-    
-    October 30, 2024
-    
-* [Northern Daily Leader – Bias and Credibility](https://mediabiasfactcheck.com/northern-daily-leader-bias/)
-    
-    October 30, 2024
-    
 
 #### Recently Updated Pages
 
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 1, 2024
+    
+* [Asheville Watchdog – Bias and Credibility](https://mediabiasfactcheck.com/asheville-watchdog-bias-and-credibility/ "View Asheville Watchdog – Bias and Credibility") - November 1, 2024
+    
+* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - November 1, 2024
+    
+* [The Rio Times – Bias and Credibility](https://mediabiasfactcheck.com/the-rio-times-bias-and-credibility/ "View The Rio Times – Bias and Credibility") - November 1, 2024
+    
+* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - November 1, 2024
+    
+* [North Chester Today – Bias and Credibility](https://mediabiasfactcheck.com/north-chester-today-bias-and-credibility/ "View North Chester Today – Bias and Credibility") - November 1, 2024
+    
 * [Journalist Bias](https://mediabiasfactcheck.com/journalist-bias/ "View Journalist Bias") - October 31, 2024
     
 * [Brian Williams Bias Rating](https://mediabiasfactcheck.com/brian-williams-bias-rating/ "View Brian Williams Bias Rating") - October 31, 2024
@@ -179,18 +191,6 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 * [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - October 31, 2024
     
 * [Juneau Empire – Bias and Credibility](https://mediabiasfactcheck.com/juneau-empire-bias/ "View Juneau Empire – Bias and Credibility") - October 31, 2024
-    
-* [The Information – Bias and Credibility](https://mediabiasfactcheck.com/the-information-bias-and-credibility/ "View The Information – Bias and Credibility") - October 31, 2024
-    
-* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - October 31, 2024
-    
-* [Frontiers in Human Neuroscience – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-human-neuroscience-bias-and-credibility/ "View Frontiers in Human Neuroscience – Bias and Credibility") - October 31, 2024
-    
-* [Electoral College Map 2024 – Harris vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/ "View Electoral College Map 2024 – Harris vs. Trump") - October 31, 2024
-    
-* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - October 31, 2024
-    
-* [Finger Lakes Times – Bias and Credibility](https://mediabiasfactcheck.com/finger-lakes-times-bias/ "View Finger Lakes Times – Bias and Credibility") - October 31, 2024
     
 
 #### Today’s Top Page Views
@@ -200,11 +200,11 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 * [Echelon Insights - Bias and Credibility](https://mediabiasfactcheck.com/echelon-insights-bias-and-credibility/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Newsweek - Bias and Credibility](https://mediabiasfactcheck.com/newsweek/)
-* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
+* [Marist Poll - Bias and Credibility](https://mediabiasfactcheck.com/marist-poll-bias-and-credibility/)
 * [The Economist - Bias and Credibility](https://mediabiasfactcheck.com/the-economist/)
-* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
+* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [Electoral College Map 2024 - Harris vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
+* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 
 #### Subscribe via Email
 
