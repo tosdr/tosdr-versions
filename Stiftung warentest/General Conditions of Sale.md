@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Nach­haltige Fonds und ETF: Was die neue EU-Einordnung für nach­haltige Fonds bedeutet](https://www.test.de/Nachhaltige-Fonds-und-ETF-Was-die-neue-EU-Einordnung-fuernachhaltige-Fonds-bedeutet-5955841-0/ "Nachhaltige Fonds und ETF - Was die neue EU-Einordnung für nachhaltige Fonds bedeutet")
-* [Ambulante Operation: Schneller nach Hause](https://www.test.de/Ambulante-Operation-Schneller-nach-Hause-6093075-0/ "Ambulante Operation - Schneller nach Hause")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
-* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
-* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [kaizentech­limited.com: Betrügerischer Broker](https://www.test.de/kaizentechlimitedcom-Betruegerischer-Broker-6051684-0/ "kaizentechlimited.com - Betrügerischer Broker")
+* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
+* [Nahrungs­ergän­zungs­mittel für Knochen, Knorpel oder Gelenke: Alle sind über­flüssig – einige auch riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Knochen-Knorpel-oder-Gelenke-Alle-sind-ueberfluessig-einige-auch-riskant-6095273-0/ "Nahrungsergänzungsmittel für Knochen, Knorpel oder Gelenke - Alle sind überflüssig – einige auch riskant")
+* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [Dubioses Fest­geld: KT Investment ignorieren](https://www.test.de/Dubioses-Festgeld-KT-Investment-ignorieren-6062892-0/ "Dubioses Festgeld - KT Investment ignorieren")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Nach­haltige Fonds und ETF: Was die neue EU-Einordnung für nach­haltige Fonds bedeutet](https://www.test.de/Nachhaltige-Fonds-und-ETF-Was-die-neue-EU-Einordnung-fuernachhaltige-Fonds-bedeutet-5955841-0/ "Nachhaltige Fonds und ETF - Was die neue EU-Einordnung für nachhaltige Fonds bedeutet")
-* [Ambulante Operation: Schneller nach Hause](https://www.test.de/Ambulante-Operation-Schneller-nach-Hause-6093075-0/ "Ambulante Operation - Schneller nach Hause")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
-* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
-* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [kaizentech­limited.com: Betrügerischer Broker](https://www.test.de/kaizentechlimitedcom-Betruegerischer-Broker-6051684-0/ "kaizentechlimited.com - Betrügerischer Broker")
+* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
+* [Nahrungs­ergän­zungs­mittel für Knochen, Knorpel oder Gelenke: Alle sind über­flüssig – einige auch riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Knochen-Knorpel-oder-Gelenke-Alle-sind-ueberfluessig-einige-auch-riskant-6095273-0/ "Nahrungsergänzungsmittel für Knochen, Knorpel oder Gelenke - Alle sind überflüssig – einige auch riskant")
+* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [Dubioses Fest­geld: KT Investment ignorieren](https://www.test.de/Dubioses-Festgeld-KT-Investment-ignorieren-6062892-0/ "Dubioses Festgeld - KT Investment ignorieren")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Nach­haltige Fonds und ETF: Was die neue EU-Einordnung für nach­haltige Fonds bedeutet](https://www.test.de/Nachhaltige-Fonds-und-ETF-Was-die-neue-EU-Einordnung-fuernachhaltige-Fonds-bedeutet-5955841-0/ "Nachhaltige Fonds und ETF - Was die neue EU-Einordnung für nachhaltige Fonds bedeutet")
-* [Ambulante Operation: Schneller nach Hause](https://www.test.de/Ambulante-Operation-Schneller-nach-Hause-6093075-0/ "Ambulante Operation - Schneller nach Hause")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
-* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
-* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [kaizentech­limited.com: Betrügerischer Broker](https://www.test.de/kaizentechlimitedcom-Betruegerischer-Broker-6051684-0/ "kaizentechlimited.com - Betrügerischer Broker")
+* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
+* [Nahrungs­ergän­zungs­mittel für Knochen, Knorpel oder Gelenke: Alle sind über­flüssig – einige auch riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Knochen-Knorpel-oder-Gelenke-Alle-sind-ueberfluessig-einige-auch-riskant-6095273-0/ "Nahrungsergänzungsmittel für Knochen, Knorpel oder Gelenke - Alle sind überflüssig – einige auch riskant")
+* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [Dubioses Fest­geld: KT Investment ignorieren](https://www.test.de/Dubioses-Festgeld-KT-Investment-ignorieren-6062892-0/ "Dubioses Festgeld - KT Investment ignorieren")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Nach­haltige Fonds und ETF: Was die neue EU-Einordnung für nach­haltige Fonds bedeutet](https://www.test.de/Nachhaltige-Fonds-und-ETF-Was-die-neue-EU-Einordnung-fuernachhaltige-Fonds-bedeutet-5955841-0/ "Nachhaltige Fonds und ETF - Was die neue EU-Einordnung für nachhaltige Fonds bedeutet")
-* [Ambulante Operation: Schneller nach Hause](https://www.test.de/Ambulante-Operation-Schneller-nach-Hause-6093075-0/ "Ambulante Operation - Schneller nach Hause")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
-* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
-* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [kaizentech­limited.com: Betrügerischer Broker](https://www.test.de/kaizentechlimitedcom-Betruegerischer-Broker-6051684-0/ "kaizentechlimited.com - Betrügerischer Broker")
+* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
+* [Nahrungs­ergän­zungs­mittel für Knochen, Knorpel oder Gelenke: Alle sind über­flüssig – einige auch riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Knochen-Knorpel-oder-Gelenke-Alle-sind-ueberfluessig-einige-auch-riskant-6095273-0/ "Nahrungsergänzungsmittel für Knochen, Knorpel oder Gelenke - Alle sind überflüssig – einige auch riskant")
+* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [Dubioses Fest­geld: KT Investment ignorieren](https://www.test.de/Dubioses-Festgeld-KT-Investment-ignorieren-6062892-0/ "Dubioses Festgeld - KT Investment ignorieren")
 
 Service Stiftung Warentest
 
