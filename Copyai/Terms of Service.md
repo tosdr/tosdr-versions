@@ -62,13 +62,17 @@ Technical Resources
 
 GTM AI
 
+Role
+
+[Marketing](https://copy.ai/planning/marketing)[Sales](https://copy.ai/planning/sales)[Operations](https://copy.ai/planning/operations)[Sales Development](https://copy.ai/planning/sales-development)
+
 LEarn More
 
 [Why GTM AI](https://copy.ai/gtm-ai)[Goodbye, Copilots](https://copy.ai/goodbye-copilots)[The Problem with AI SDRs](https://copy.ai/injured)
 
 FEATURED RESOURCES
 
-[How to Go from GTM Bloat to Velocity](https://copy.ai/blog/introducing-gtm-ai)[How to Diagnose and Solve GTM Bloat](https://copy.ai/blog/gtm-ai)[AI Copilots & The Illusion of Progress](https://copy.ai/blog/the-illusion-of-progress-the-marginal-gains-from-ai-copilots)
+[How to Go from GTM Bloat to Velocity](https://copy.ai/blog/introducing-gtm-ai)[GTM AI: A New Approach for Getting Rid of GTM Bloat](https://copy.ai/blog/gtm-ai)[AI Copilots & The Illusion of Progress](https://copy.ai/blog/the-illusion-of-progress-the-marginal-gains-from-ai-copilots)
 
 [Login](https://app.copy.ai/login)[Contact Sales
 
@@ -134,13 +138,17 @@ Technical Resources
 
 GTM AI
 
+Role
+
+[Marketing](https://copy.ai/planning/marketing)[Sales](https://copy.ai/planning/sales)[Operations](https://copy.ai/planning/operations)[Sales Development](https://copy.ai/planning/sales-development)
+
 LEarn More
 
 [Why GTM AI](https://copy.ai/gtm-ai)[Goodbye, Copilots](https://copy.ai/goodbye-copilots)[The Problem with AI SDRs](https://copy.ai/injured)
 
 FEATURED RESOURCES
 
-[How to Go from GTM Bloat to Velocity](https://copy.ai/blog/introducing-gtm-ai)[How to Diagnose and Solve GTM Bloat](https://copy.ai/blog/gtm-ai)[AI Copilots & The Illusion of Progress](https://copy.ai/blog/the-illusion-of-progress-the-marginal-gains-from-ai-copilots)
+[How to Go from GTM Bloat to Velocity](https://copy.ai/blog/introducing-gtm-ai)[GTM AI: A New Approach for Getting Rid of GTM Bloat](https://copy.ai/blog/gtm-ai)[AI Copilots & The Illusion of Progress](https://copy.ai/blog/the-illusion-of-progress-the-marginal-gains-from-ai-copilots)
 
 [Login](https://app.copy.ai/login)[Contact Sales  
 
@@ -360,13 +368,17 @@ Technical Resources
 
 GTM AI
 
+Role
+
+[Marketing](https://copy.ai/planning/marketing)[Sales](https://copy.ai/planning/sales)[Operations](https://copy.ai/planning/operations)[Sales Development](https://copy.ai/planning/sales-development)
+
 LEarn More
 
 [Why GTM AI](https://copy.ai/gtm-ai)[Goodbye, Copilots](https://copy.ai/goodbye-copilots)[The Problem with AI SDRs](https://copy.ai/injured)
 
 FEATURED RESOURCES
 
-[How to Go from GTM Bloat to Velocity](https://copy.ai/blog/introducing-gtm-ai)[How to Diagnose and Solve GTM Bloat](https://copy.ai/blog/gtm-ai)[AI Copilots & The Illusion of Progress](https://copy.ai/blog/the-illusion-of-progress-the-marginal-gains-from-ai-copilots)
+[How to Go from GTM Bloat to Velocity](https://copy.ai/blog/introducing-gtm-ai)[GTM AI: A New Approach for Getting Rid of GTM Bloat](https://copy.ai/blog/gtm-ai)[AI Copilots & The Illusion of Progress](https://copy.ai/blog/the-illusion-of-progress-the-marginal-gains-from-ai-copilots)
 
 [Login](https://app.copy.ai/login)[Contact Sales
 
@@ -432,13 +444,17 @@ Technical Resources
 
 GTM AI
 
+Role
+
+[Marketing](https://copy.ai/planning/marketing)[Sales](https://copy.ai/planning/sales)[Operations](https://copy.ai/planning/operations)[Sales Development](https://copy.ai/planning/sales-development)
+
 LEarn More
 
 [Why GTM AI](https://copy.ai/gtm-ai)[Goodbye, Copilots](https://copy.ai/goodbye-copilots)[The Problem with AI SDRs](https://copy.ai/injured)
 
 FEATURED RESOURCES
 
-[How to Go from GTM Bloat to Velocity](https://copy.ai/blog/introducing-gtm-ai)[How to Diagnose and Solve GTM Bloat](https://copy.ai/blog/gtm-ai)[AI Copilots & The Illusion of Progress](https://copy.ai/blog/the-illusion-of-progress-the-marginal-gains-from-ai-copilots)
+[How to Go from GTM Bloat to Velocity](https://copy.ai/blog/introducing-gtm-ai)[GTM AI: A New Approach for Getting Rid of GTM Bloat](https://copy.ai/blog/gtm-ai)[AI Copilots & The Illusion of Progress](https://copy.ai/blog/the-illusion-of-progress-the-marginal-gains-from-ai-copilots)
 
 [Login](https://app.copy.ai/login)[Contact Sales  
 
