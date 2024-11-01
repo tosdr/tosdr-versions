@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-31 Oct 2024
+01 Nov 2024
 
 * [Home
     
@@ -266,28 +266,12 @@ Most Popular
 [Throwback Thursday: Partytime out and about in Derry's Sugar Nightclub (2009)](https://www.derrynow.com/story-telling/pictures---videos/1639817/throwback-thursday-partytime-out-and-about-in-derry-s-sugar-nightclub-2009.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man (31) arrested and £34,000 drugs and illegal fireworks seized in Derry search](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (31) arrested and £34,000 drugs and illegal fireworks seized in Derry search")](https://www.derrynow.com/news/local-news/1643662/man-31-arrested-and-34-000-drugs-and-illegal-fireworks-seized-in-derry-search.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man (31) arrested and £34,000 drugs and illegal fireworks seized in Derry search](https://www.derrynow.com/news/local-news/1643662/man-31-arrested-and-34-000-drugs-and-illegal-fireworks-seized-in-derry-search.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Man left with 'serious injuries' following a road traffic collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man left with 'serious injuries' following a road traffic collision")](https://www.derrynow.com/news/derry-news/1643915/man-left-with-serious-injuries-following-a-road-traffic-collision.html)
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
 [Man left with 'serious injuries' following Derry road traffic collision](https://www.derrynow.com/news/derry-news/1643915/man-left-with-serious-injuries-following-a-road-traffic-collision.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry man (57) convicted of sexually assaulting two women while on his Christmas work night out](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man (57) convicted of sexually assaulting two women while on his Christmas work night out")](https://www.derrynow.com/news/home/1643609/county-derry-man-57-convicted-of-sexually-assaulting-two-women-while-on-his-christmas-work-night-out.html)
-
-The incident happened in Limavady last December.
-
-[Home](https://www.derrynow.com/)
-
-[County Derry man (57) convicted of sexually assaulting two women while on his Christmas work night out](https://www.derrynow.com/news/home/1643609/county-derry-man-57-convicted-of-sexually-assaulting-two-women-while-on-his-christmas-work-night-out.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1643521/derry-death-notices-thursday-october-31-2024.html)
 
@@ -302,15 +286,6 @@ The incident happened in Limavady last December.
 
 [Man (19) returned for trial to Derry Crown Court on series of sex offences](https://www.derrynow.com/news/local-news/1644017/man-19-returned-for-trial-to-derry-crown-court-on-series-of-sex-offences.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Greysteel Massacre 31 years ago](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Greysteel Massacre 31 years ago")](https://www.derrynow.com/news/county-derry-post/1643326/trick-or-treat-social-media-image-described-as-disgraceful-in-the-lead-up-to-greysteel-massacre-anniversary.html)
-
-Greysteel Massacre 31 years ago
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[“Trick or Treat” social media image described as “disgraceful” in the lead up to Greysteel massacre anniversary](https://www.derrynow.com/news/county-derry-post/1643326/trick-or-treat-social-media-image-described-as-disgraceful-in-the-lead-up-to-greysteel-massacre-anniversary.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Filming of Derry's Halloween celebrations for new ITV show with Fred Sirieix tonight](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Filming of Derry's Halloween celebrations for new ITV show with Fred Sirieix tonight")](https://www.derrynow.com/news/derry-news/1644065/filming-of-derry-s-halloween-celebrations-for-new-itv-show-with-fred-sirieix-tonight.html)
 
@@ -334,6 +309,29 @@ Greysteel Massacre 31 years ago
 
 [Registered sex offender jailed at Derry court for failing to notify police of his release](https://www.derrynow.com/news/crime---courts/1644061/registered-sex-offender-jailed-at-derry-court-for-failing-to-notify-police-of-his-release.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Óglach Michael Meenan 50th anniversary commemoration at the Republican Monument in Shantallow](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Óglach Michael Meenan 50th anniversary commemoration at the Republican Monument in Shantallow")](https://www.derrynow.com/story-telling/pictures---videos/1644091/in-pictures-oglach-michael-meenan-50th-anniversary-commemoration-in-derry.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Óglach Michael Meenan 50th anniversary commemoration in Derry](https://www.derrynow.com/story-telling/pictures---videos/1644091/in-pictures-oglach-michael-meenan-50th-anniversary-commemoration-in-derry.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Pumpkins, pirates, princesses and more at Shantallow Halloween fun day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Pumpkins, pirates, princesses and more at Shantallow Halloween fun day")](https://www.derrynow.com/news/pictures---videos/1644382/pictures-pumpkins-pirates-princesses-and-more-at-shantallow-halloween-fun-day.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Pumpkins, pirates, princesses and more at Shantallow Halloween fun day](https://www.derrynow.com/news/pictures---videos/1644382/pictures-pumpkins-pirates-princesses-and-more-at-shantallow-halloween-fun-day.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![ITV announce brand new Irish adventure with Fred Sirieix](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ITV announce brand new Irish adventure with Fred Sirieix")](https://www.derrynow.com/news/socialsharing-derrynow/1644030/itv-announce-brand-new-irish-adventure-with-fred-sirieix.html)
+
+ITV announce brand new Irish adventure with Fred Sirieix
+
+[SocialSharing-DerryNow](https://www.derrynow.com/section/2770/socialsharing-derrynow)
+
+[ITV announce brand new Irish adventure with Fred Sirieix](https://www.derrynow.com/news/socialsharing-derrynow/1644030/itv-announce-brand-new-irish-adventure-with-fred-sirieix.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
