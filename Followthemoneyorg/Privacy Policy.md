@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Contributions From Nursing Home and Long-Term Care Industry, by State, 2001–2016](/assets/Images/teasers/small/nursing-homes.JPG)](https://www.followthemoney.org/research/institute-reports/nursing-a-long-term-political-strategy)
+[![ Independent Spending by Opponents and Supporters of Gun Control, 2015 and 2016](/assets/Images/teasers/small/Gun-control.JPG)](https://www.followthemoney.org/research/blog/the-electoral-marksmanship-of-pro-and-anti-gun-control-spenders)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
