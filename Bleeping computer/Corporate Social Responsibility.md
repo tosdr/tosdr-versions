@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![North Korean govt hackers linked to Play ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        North Korean govt hackers linked to Play ransomware attack](https://www.bleepingcomputer.com/news/security/north-korean-govt-hackers-linked-to-play-ransomware-attack/)
-    * [![Massive PSAUX ransomware attack targets 22,000 CyberPanel instances](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Massive PSAUX ransomware attack targets 22,000 CyberPanel instances](https://www.bleepingcomputer.com/news/security/massive-psaux-ransomware-attack-targets-22-000-cyberpanel-instances/)
-    * [![New Windows Themes zero-day gets free, unofficial patches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        New Windows Themes zero-day gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/new-windows-themes-zero-day-gets-free-unofficial-patches/)
-    * [![Android malware ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Android malware "FakeCall" now reroutes bank calls to attackers](https://www.bleepingcomputer.com/news/security/android-malware-fakecall-now-reroutes-bank-calls-to-attackers/)
-    
-    * [![Hackers target critical zero-day vulnerability in PTZ cameras](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Hackers target critical zero-day vulnerability in PTZ cameras](https://www.bleepingcomputer.com/news/security/hackers-target-critical-zero-day-vulnerability-in-ptz-cameras/)
-    * [![Train for the CISSP certifications in this $30 course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Train for the CISSP certifications in this $30 course bundle deal](https://www.bleepingcomputer.com/offer/deals/train-for-the-cissp-certifications-in-this-30-course-bundle-deal/)
-    * [![Microsoft wants $30 if you want to delay Windows 11 switch](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft wants $30 if you want to delay Windows 11 switch](https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-30-if-you-want-to-delay-windows-11-switch/)
     * [![Windows 11 Task Manager bug shows wrong number of running processes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Windows 11 Task Manager bug shows wrong number of running processes](https://www.bleepingcomputer.com/news/microsoft/windows-11-task-manager-bug-shows-wrong-number-of-running-processes/)
+    * [![Microsoft wants $30 if you want to delay Windows 11 switch](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft wants $30 if you want to delay Windows 11 switch](https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-30-if-you-want-to-delay-windows-11-switch/)
+    * [![qBittorrent fixes flaw exposing users to MitM attacks for 14 years](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        qBittorrent fixes flaw exposing users to MitM attacks for 14 years](https://www.bleepingcomputer.com/news/security/qbittorrent-fixes-flaw-exposing-users-to-mitm-attacks-for-14-years/)
+    * [![Microsoft delays Windows Recall again, now by December](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft delays Windows Recall again, now by December](https://www.bleepingcomputer.com/news/microsoft/microsoft-delays-windows-recall-again-now-by-december/)
+    
+    * [![Sophos reveals 5-year battle with Chinese hackers attacking network devices](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Sophos reveals 5-year battle with Chinese hackers attacking network devices](https://www.bleepingcomputer.com/news/security/sophos-reveals-5-year-battle-with-chinese-hackers-attacking-network-devices/)
+    * [![Microsoft: Chinese hackers use Quad7 botnet to steal credentials](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft: Chinese hackers use Quad7 botnet to steal credentials](https://www.bleepingcomputer.com/news/security/microsoft-chinese-hackers-use-quad7-botnet-to-steal-credentials/)
+    * [![Microsoft delays Windows Recall again, now by December](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft delays Windows Recall again, now by December](https://www.bleepingcomputer.com/news/microsoft/microsoft-delays-windows-recall-again-now-by-december/)
+    * [![Hackers target critical zero-day vulnerability in PTZ cameras](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Hackers target critical zero-day vulnerability in PTZ cameras](https://www.bleepingcomputer.com/news/security/hackers-target-critical-zero-day-vulnerability-in-ptz-cameras/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -310,9 +310,9 @@ Popular Stories
 * [![Google Chrome](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     New tool bypasses Google Chrome’s new cookie encryption system](https://www.bleepingcomputer.com/news/security/new-tool-bypasses-google-chromes-new-cookie-encryption-system/)
-* [![Exchange Online](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Windows red](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Exchange Online adds Inbound DANE with DNSSEC for everyone](https://www.bleepingcomputer.com/news/microsoft/exchange-online-adds-inbound-dane-with-dnssec-for-everyone/)
+    New Windows Themes zero-day gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/new-windows-themes-zero-day-gets-free-unofficial-patches/)
 
 ##### Follow us:
 
