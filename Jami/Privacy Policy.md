@@ -2,7 +2,7 @@
 
 [](https://jami.net/)
 
-![heart](/assets/images/heart-white.svg?v=0f4a51aee2)
+![heart](/assets/images/heart-white.svg?v=40371f5245)
 
 * [Download](https://jami.net/download/)
 * [Extensions](https://jami.net/extensions/)
@@ -12,7 +12,7 @@
 * [Wiki](https://docs.jami.net/en_US/user/index.html)
 * [Forum](https://forum.jami.net/)
 * [Why donate](https://jami.net/whydonate/)
-*  ![heart](/assets/images/heart-white.svg?v=0f4a51aee2) Donate
+*  ![heart](/assets/images/heart-white.svg?v=40371f5245) Donate
     
 
 Privacy Policy
@@ -58,9 +58,9 @@ Software use
 
 Last but not least, Jami is a free/libre software. You can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; version 3 of the License, or (at your option) any later version. The source code can be found [here](https://git.jami.net/savoirfairelinux).
 
-![close-button](/assets/images/close.svg?v=0f4a51aee2)
+![close-button](/assets/images/close.svg?v=40371f5245)
 
-![donate-image](/assets/images/donate-modal.webp?v=0f4a51aee2) ![heart-ribbon](/assets/images/heart-ribbon.webp?v=0f4a51aee2)
+![donate-image](/assets/images/donate-modal.webp?v=40371f5245) ![heart-ribbon](/assets/images/heart-ribbon.webp?v=40371f5245)
 
 Jami needs your support!
 
@@ -72,29 +72,29 @@ Could you lend us a hand?
 
 [Donation FAQ](https://jami.net/whydonate/#donation-faq) · [Contact us](mailto:contact@jami.net) · [Privacy Policy](https://jami.net/privacy-policy)
 
-![heart](/assets/images/transparent-heart.svg?v=0f4a51aee2)
+![heart](/assets/images/transparent-heart.svg?v=40371f5245)
 
 Donate to Jami
 
-![mail](/assets/images/arrow-down.svg?v=0f4a51aee2)
+![mail](/assets/images/arrow-down.svg?v=40371f5245)
 
 Once
 
 Monthly
 
- ![heart](/assets/images/heart-white.svg?v=0f4a51aee2) Donate
+ ![heart](/assets/images/heart-white.svg?v=40371f5245) Donate
 
-![backButton](/assets/images/arrow-left.svg?v=0f4a51aee2)
+![backButton](/assets/images/arrow-left.svg?v=40371f5245)
 
 Make a donation of to Jami
 
- ![card-payment](/assets/images/paypal-logo.svg?v=0f4a51aee2) ![card-payment](/assets/images/credit-card.svg?v=0f4a51aee2)Credit card
+ ![card-payment](/assets/images/paypal-logo.svg?v=40371f5245) ![card-payment](/assets/images/credit-card.svg?v=40371f5245)Credit card
 
 To make a recurring donation, use Paypal as a payment method.  
 
 Other method to [donate](https://jami.net/whydonate/#payment-check)
 
-![backButton](/assets/images/arrow-left.svg?v=0f4a51aee2)
+![backButton](/assets/images/arrow-left.svg?v=40371f5245)
 
 Credit card
 
@@ -106,7 +106,7 @@ Credit card
 
 Donate now
 
-![backButton](/assets/images/arrow-left.svg?v=0f4a51aee2)
+![backButton](/assets/images/arrow-left.svg?v=40371f5245)
 
 Thank you for supporting Jami!
 
@@ -114,13 +114,13 @@ Your donation means a lot! With your help, we can continue to provide a free, se
   
 Your generosity fuels our mission to keep communication private and accessible.
 
-![](/assets/images/envelopes.svg?v=0f4a51aee2)
+![](/assets/images/envelopes.svg?v=40371f5245)
 
 Subscribe to our newsletter **to be the first to know** about the latest Jami updates!
 
  I have read and agree to the Privacy policy
 
-![backButton](/assets/images/arrow-left.svg?v=0f4a51aee2)
+![backButton](/assets/images/arrow-left.svg?v=40371f5245)
 
 😭
 
@@ -140,9 +140,9 @@ You can visit our donation FAQ page to find the appropriate response according t
 
 Free and private sharing. Donate to expand it.
 
-![donate-sticky](/assets/images/donate-sticky.svg?v=0f4a51aee2) Donate
+![donate-sticky](/assets/images/donate-sticky.svg?v=40371f5245) Donate
 
-![newsletter-sticky](/assets/images/newsletter-sticky.svg?v=0f4a51aee2)
+![newsletter-sticky](/assets/images/newsletter-sticky.svg?v=40371f5245)
 
 Subscribe to the Jami newsletter
 
@@ -154,9 +154,9 @@ Jami is available on all platforms
 
 [Download Jami](https://jami.net/download)
 
-![logo-jami](/assets/images/logo-jami.svg?v=0f4a51aee2)
+![logo-jami](/assets/images/logo-jami.svg?v=40371f5245)
 
- ![heart](/assets/images/heart-white.svg?v=0f4a51aee2) Donate
+ ![heart](/assets/images/heart-white.svg?v=40371f5245) Donate
 
 * Jami
 * [Download](https://jami.net/download)
@@ -179,9 +179,9 @@ Jami is available on all platforms
 * Donate
 * [Why donate](https://jami.net/whydonate)
 
-* [![logo-mastodon](/assets/images/logo-mastodon-black.svg?v=0f4a51aee2)](https://mstdn.io/@Jami)
-* [![logo-linkedin](/assets/images/logo-linkedin.svg?v=0f4a51aee2)](https://www.linkedin.com/company/jami-social/)
-* [![logo-instagram](/assets/images/logo-instagram.svg?v=0f4a51aee2)](https://www.instagram.com/jami_social/)
-* [![logo-facebook](/assets/images/logo-facebook.svg?v=0f4a51aee2)](https://www.facebook.com/JamiCommunication)
+* [![logo-mastodon](/assets/images/logo-mastodon-black.svg?v=40371f5245)](https://mstdn.io/@Jami)
+* [![logo-linkedin](/assets/images/logo-linkedin.svg?v=40371f5245)](https://www.linkedin.com/company/jami-social/)
+* [![logo-instagram](/assets/images/logo-instagram.svg?v=40371f5245)](https://www.instagram.com/jami_social/)
+* [![logo-facebook](/assets/images/logo-facebook.svg?v=40371f5245)](https://www.facebook.com/JamiCommunication)
 
 [Savoir-faire Linux © 2024](https://savoirfairelinux.com/en)
