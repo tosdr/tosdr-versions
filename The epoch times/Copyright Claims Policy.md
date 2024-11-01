@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Chris Pratt Praises Military Chaplains Ahead of Veterans Day](https://www.theepochtimes.com/entertainment/chris-pratt-praises-military-chaplains-ahead-of-veterans-day-5751528)
+* [Chinese Military Second-in-Command’s Visit to Vietnam Signals Power Change in Beijing](https://www.theepochtimes.com/china/chinese-military-second-in-commands-visit-to-vietnam-signals-power-change-in-beijing-5751482)
     
-    NEW By [Audrey Enjoli](https://www.theepochtimes.com/author/audrey-enjoli)
+    NEW By [Jessica Mao](https://www.theepochtimes.com/author/jessica-mao) and [Olivia Li](https://www.theepochtimes.com/author/olivia-li)
     
-    [![Chris Pratt Praises Military Chaplains Ahead of Veterans Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Chinese Military Second-in-Command’s Visit to Vietnam Signals Power Change in Beijing](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Chris Pratt Praises Military Chaplains Ahead of Veterans Day](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751773-GettyImages-1404565639-e1730415445796-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/chris-pratt-praises-military-chaplains-ahead-of-veterans-day-5751528)
+    ![Chinese Military Second-in-Command’s Visit to Vietnam Signals Power Change in Beijing](https://img.theepochtimes.com/assets/uploads/2024/06/19/id5671457-GettyImages-1472904682-205x123.jpg.webp)](https://www.theepochtimes.com/china/chinese-military-second-in-commands-visit-to-vietnam-signals-power-change-in-beijing-5751482)
+* [Day in Photos: Super Typhoon, North Korean Missile, and Dodgers’ Win](https://www.theepochtimes.com/article/day-in-photos-super-typhoon-north-korean-missile-and-dodgers-win-5751450)
+    
+    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Super Typhoon, North Korean Missile, and Dodgers’ Win](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Super Typhoon, North Korean Missile, and Dodgers’ Win](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751686-GettyImages-2181355465-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-super-typhoon-north-korean-missile-and-dodgers-win-5751450)
 * [Judge Orders Arizona to Release List of Registered Voters With Unverified Citizenship](https://www.theepochtimes.com/us/judge-orders-arizona-to-release-list-of-registered-voters-with-unverified-citizenship-5751777)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Judge Orders Arizona to Release List of Registered Voters With Unverified Citizenship](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Judge Orders Arizona to Release List of Registered Voters With Unverified Citizenship](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739393-AZ-Early-Voting-iii_JF_10102024-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-orders-arizona-to-release-list-of-registered-voters-with-unverified-citizenship-5751777)
 * [Boeing, Union Reach New Deal in Bid to End Weekslong Strike](https://www.theepochtimes.com/business/boeing-machinists-union-endorses-new-contract-proposal-strike-may-end-soon-5751834)
     
-    1hr By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
+    7hr By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
     
     [![Boeing, Union Reach New Deal in Bid to End Weekslong Strike](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Boeing, Union Reach New Deal in Bid to End Weekslong Strike](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744381-Boeing-strike-GettyImages-2177902713-205x123.jpg.webp)](https://www.theepochtimes.com/business/boeing-machinists-union-endorses-new-contract-proposal-strike-may-end-soon-5751834)
 * [How Gender Voting Patterns Are Shifting in 2024 Election](https://www.theepochtimes.com/article/how-gender-voting-patterns-are-shifting-in-2024-election-5746426)
     
-    2hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
+    8hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
     
     [![How Gender Voting Patterns Are Shifting in 2024 Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![How Gender Voting Patterns Are Shifting in 2024 Election](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751758-8-205x123.jpg.webp)](https://www.theepochtimes.com/article/how-gender-voting-patterns-are-shifting-in-2024-election-5746426)
 * [Trump Sues CBS Over ’60 Minutes’ Interview With Harris](https://www.theepochtimes.com/us/trump-sues-cbs-over-60-minutes-interview-with-harris-5751783)
     
-    3hr By [Rachel Acenas](https://www.theepochtimes.com/author/rachel-acenas)
+    9hr By [Rachel Acenas](https://www.theepochtimes.com/author/rachel-acenas)
     
     [![Trump Sues CBS Over ’60 Minutes’ Interview With Harris](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Sues CBS Over ’60 Minutes’ Interview With Harris](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751789-Trump-NC-GettyImages-2181956757-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-sues-cbs-over-60-minutes-interview-with-harris-5751783)
 * [Harris to Hold Election Night Event at Her Alma Mater, Howard University](https://www.theepochtimes.com/us/harris-to-hold-election-night-event-at-her-alma-mater-howard-university-5751704)
     
-    3hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    9hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
     [![Harris to Hold Election Night Event at Her Alma Mater, Howard University](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Harris to Hold Election Night Event at Her Alma Mater, Howard University](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5751814-Harris-Howard-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-to-hold-election-night-event-at-her-alma-mater-howard-university-5751704)
 * [US Says 8,000 North Korean Soldiers Have Reached Russia’s Kursk Region, Could Join Battle in Days](https://www.theepochtimes.com/world/us-says-8000-north-korean-soldiers-have-reached-russias-kursk-region-could-join-battle-in-days-5751639)
     
-    3hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    9hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![US Says 8,000 North Korean Soldiers Have Reached Russia’s Kursk Region, Could Join Battle in Days](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![US Says 8,000 North Korean Soldiers Have Reached Russia’s Kursk Region, Could Join Battle in Days](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751624-2024-10-31T173836Z_1_LYNXMPEK9U0PI_RTROPTP_4_NORTHKOREA-ANNIVERSARY-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-says-8000-north-korean-soldiers-have-reached-russias-kursk-region-could-join-battle-in-days-5751639)
 * [DDT From Industrial Dumping Found in 93 Percent of Southern California Fish](https://www.theepochtimes.com/us/ddt-from-industrial-dumping-found-in-93-percent-of-southern-california-fish-5750301)
     
-    5hr By [Jane Yang](https://www.theepochtimes.com/author/jane-yang)
+    11hr By [Jane Yang](https://www.theepochtimes.com/author/jane-yang)
     
     [![DDT From Industrial Dumping Found in 93 Percent of Southern California Fish](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![DDT From Industrial Dumping Found in 93 Percent of Southern California Fish](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751186-Kelp_bass-205x123.jpg.webp)](https://www.theepochtimes.com/us/ddt-from-industrial-dumping-found-in-93-percent-of-southern-california-fish-5750301)
 * [Most Americans Report Anxiety, Frustration About 2024 Presidential Race as Election Day Nears](https://www.theepochtimes.com/us/most-americans-report-anxiety-frustration-about-2024-presidential-race-as-election-day-nears-5751562)
     
-    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    11hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Most Americans Report Anxiety, Frustration About 2024 Presidential Race as Election Day Nears](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Most Americans Report Anxiety, Frustration About 2024 Presidential Race as Election Day Nears](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747992-Kamala-Harris-Donald-Trump-4-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/most-americans-report-anxiety-frustration-about-2024-presidential-race-as-election-day-nears-5751562)
-* [Trump Gains Among Black Voters Could ‘Tip the Scales’ in His Favor: Poll Analysis](https://www.theepochtimes.com/us/trump-gains-among-black-voters-could-tip-the-scales-in-his-favor-poll-analysis-5751619)
-    
-    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Trump Gains Among Black Voters Could ‘Tip the Scales’ in His Favor: Poll Analysis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Gains Among Black Voters Could ‘Tip the Scales’ in His Favor: Poll Analysis](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749144-Trump-Harris-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-gains-among-black-voters-could-tip-the-scales-in-his-favor-poll-analysis-5751619)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
