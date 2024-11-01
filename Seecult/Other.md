@@ -361,19 +361,33 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.mglc-lj.si](http://www.mglc-lj.si/)
     
-    [10:00 Šta se krije ispod ravnice, SU](javascript:void(0);)
+    [10:00 Od mnogoboštva do hrišćanstva: rotonda u Stojniku, BG](javascript:void(0);)
     
-    **08.08.2024 | 10:00**
+    **06.09.2024 | 10:00**
     
-    Gradski muzej Subotica, Trg sinagoge 3, Subotica
+    Narodni muzej Srbije, Trg Republike 1a, Beograd
     
-    **ŠTA SE KRIJE ISPOD RAVNICE?** - geološka izložba (7.8.-31.10.2024.)
+    **OD MNOGOBOŠTVA DO HRIŠĆANSTVA: ROTONDA U STOJNIKU** - izložba posvećena jedinstvenoj građevini tog tipa na prostoru centralnobalkanskih rimskih provincija, koja je bila i paganski hram i hrišćanska crkva (5.9.-3.11.2024.)
     
-    Autor izložbe: dr Ivan Dulić, geolog, Naučno-tehnološki centar NIS
+    Autori izložbe: Tatjana Cvjetićanin, Maja Franković i Adam Crnobrnja
     
-    organizacija: Gradski muzej Subotica i Naučno-tehnološki centar NIS
+    Saradnice na izložbi: Olga Špehar i Jelena Premović
     
-    [http://www.gradskimuzej.subotica.rs](http://www.gradskimuzej.subotica.rs/)
+    [http://www.narodnimuzej.rs](http://www.narodnimuzej.rs/)
+    
+    [10:00 Magičnost drevnog - Venija Vučinić Turinski, BG](javascript:void(0);)
+    
+    **06.09.2024 | 10:00**
+    
+    **[Muzej savremene umetnosti Beograd](http://seecult.org/institucija/muzej-savremene-umetnosti-beograd)**
+    
+    Ciklus izložbi: Umetnost i ličnost - skulptorke iz kolekcije MSU
+    
+    **MAGIČNOST DREVNOG - VENIJA VUČINIĆ TURINSKI** (1934, Kolašin) - izložba (5.9.-23.11.2024.)
+    
+    autorka: dr Rajka Bošković
+    
+    [https://www.msub.org.rs](https://www.msub.org.rs/)
     
     [10:00 New Era: umjetnički diskursi o društvenim i klimatskim promjenama, BL](javascript:void(0);)
     
@@ -413,28 +427,14 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://msurs.net](http://msurs.net/)
     
-    [10:00 Od mnogoboštva do hrišćanstva: rotonda u Stojniku, BG](javascript:void(0);)
-    
-    **06.09.2024 | 10:00**
-    
-    Narodni muzej Srbije, Trg Republike 1a, Beograd
-    
-    **OD MNOGOBOŠTVA DO HRIŠĆANSTVA: ROTONDA U STOJNIKU** - izložba posvećena jedinstvenoj građevini tog tipa na prostoru centralnobalkanskih rimskih provincija, koja je bila i paganski hram i hrišćanska crkva (5.9.-3.11.2024.)
-    
-    Autori izložbe: Tatjana Cvjetićanin, Maja Franković i Adam Crnobrnja
-    
-    Saradnice na izložbi: Olga Špehar i Jelena Premović
-    
-    [http://www.narodnimuzej.rs](http://www.narodnimuzej.rs/)
-    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/perspektive-10-art-klinike/perspektive-10/ziri-001.jpg?itok=GcGdazL9)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/perspektive-10-art-klinike/perspektive-10-1)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike-paintings/slepe-mrlje-sistema/sargarepa.jpg?itok=RB0nLWxM)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike-paintings/slepe-mrlje-sistema)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/nikola-vranjkovic/dscf4465.jpg?itok=fKUzU0WA)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/nikola-vranjkovi%C4%87)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/el-manjo-infobar.jpg?itok=ODCa4DFZ)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -450,6 +450,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Automatski crtež](http://seecult.org/vest/automatski-crtez)
+* [Tragovima jugoslovenskih glumica: Željka Cvjetan-Gortinski](http://seecult.org/vest/tragovima-jugoslovenskih-glumica-zeljka-cvjetan-gortinski)
 * [Uzbudljiv program 20. Slobodne zone](http://seecult.org/vest/uzbudljiv-program-20-slobodne-zone)
 * [Portugalske Veštice u JDP-u](http://seecult.org/vest/portugalske-vestice-u-jdp-u)
 * [21\. Čembalo, živa umetnost](http://seecult.org/vest/21-cembalo-ziva-umetnost)
@@ -458,8 +460,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Legat Bate Stojkovića u Jugoslovenskoj kinoteci](http://seecult.org/vest/legat-bate-stojkovica-u-jugoslovenskoj-kinoteci)
 * [Zafranović: Zlo se ponavlja](http://seecult.org/vest/zafranovic-zlo-se-ponavlja)
 * [Performansi i predavanje na izložbi Ere Milivojevića](http://seecult.org/vest/performansi-i-predavanje-na-izlozbi-ere-milivojevica)
-* [Preminuo Radoslav Petković](http://seecult.org/vest/preminuo-radoslav-petkovic)
-* [Razgovor sa Šijanom i Jutro u ružičastom](http://seecult.org/vest/razgovor-sa-sijanom-i-jutro-u-ruzicastom)
 
 * [Konkursi](#tab1_1)
 
