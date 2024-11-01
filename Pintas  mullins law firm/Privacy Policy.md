@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is the life expectancy of a person with mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-is-the-life-expectancy-of-a-person-with-mesothelioma-scaled.jpg "What Is the Life Expectancy of a Person with Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/life-expectancy "What Is the Life Expectancy of a Person with Mesothelioma?")
+[![Lawyers address assisted living abuse cases](https://www.pintas.com/wp-content/uploads/2021/02/practice-areas-personal-injury-assisted-living-accident-lawyer-do-nursing-home-lawyers-handle-assisted-living-abuse-and-neglect-cases-300x131.jpg "Lawyers Address Assisted Living Abuse Cases")](https://www.pintas.com/faq/do-nursing-home-lawyers-handle-assisted-living-abuse-and-neglect-cases/ "Lawyers Address Assisted Living Abuse Cases")
 
-[#### What Is the Life Expectancy of a Person with Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/life-expectancy)
+[#### Lawyers Address Assisted Living Abuse Cases](https://www.pintas.com/faq/do-nursing-home-lawyers-handle-assisted-living-abuse-and-neglect-cases/)
 
-[![Are nursing homes required to have backup generators?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-are-nursing-homes-required-to-have-backup-generators-scaled.jpg "Are Nursing Homes Required to Have Backup Generators?")](https://www.pintas.com/faq/are-nursing-homes-required-to-have-backup-generators/ "Are Nursing Homes Required to Have Backup Generators?")
+[![Can my lawyer settle my case without me?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-my-lawyer-settle-my-case-without-me-scaled.jpg "Can My Lawyer Settle My Case Without Me?")](https://www.pintas.com/faq/can-my-lawyer-settle-my-case-without-me/ "Can My Lawyer Settle My Case Without Me?")
 
-[#### Are Nursing Homes Required to Have Backup Generators?](https://www.pintas.com/faq/are-nursing-homes-required-to-have-backup-generators/)
+[#### Can My Lawyer Settle My Case Without Me?](https://www.pintas.com/faq/can-my-lawyer-settle-my-case-without-me/)
 
-[![Can you sue for mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesotheliomacan-you-sue-for-mesothelioma-scaled.jpg "Can You Sue for Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-sue-for-mesothelioma/ "Can You Sue for Mesothelioma?")
+[![I was sexually abused by the mormon church, now what?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-scaled-e1681853603360-300x230.jpg "I Was Sexually Abused by the Mormon Church, Now What?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/i-was-sexually-abused-by-the-mormon-church-now-what/ "I Was Sexually Abused by the Mormon Church, Now What?")
 
-[#### Can You Sue for Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-sue-for-mesothelioma/)
+[#### I Was Sexually Abused by the Mormon Church, Now What?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/i-was-sexually-abused-by-the-mormon-church-now-what/)
 
 ### Injured?  
 Tell Us What Happened.
