@@ -31,6 +31,327 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Nueve alimentos que mejoran la salud mental y emocional
+=======================================================
+
+Una dieta rica en nutrientes puede reducir estrés y ansiedad. Descubre qué alimentos potencian el bienestar emocional y mejoran la calidad de vida.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Alimentos como los frutos secos y el salmón pueden mejorar la salud mental y reducir el estrés.](https://www.elcomercio.com/wp-content/uploads/2024/10/Alimentacion-para-la-salud-mental.jpg)
+
+La conexión entre la alimentación y la salud mental es cada vez más evidente. Estudios recientes muestran que ciertos alimentos no solo ayudan a mantener el **bienestar físico**, sino también a mejorar el estado de ánimo, reducir la ansiedad y combatir el estrés. Incorporar estos alimentos en nuestra dieta diaria puede marcar la diferencia en el **bienestar emocional**.
+
+A continuación, exploramos **nueve recomendaciones** clave para una salud mental fortalecida a través de una nutrición adecuada.
+
+1. **Incluye grasas saludables en tu dieta**  
+    Los ácidos grasos omega-3, presentes en alimentos como el salmón, las nueces y el aguacate, ayudan a reducir la inflamación y promueven un cerebro sano, lo cual es esencial para la estabilidad emocional.
+2. **Consume frutas y verduras variadas**  
+    Ricas en antioxidantes, vitaminas y minerales, las frutas y verduras frescas ayudan a combatir el estrés oxidativo en el cerebro, mejorando el ánimo y reduciendo los niveles de ansiedad.
+3. **Opta por cereales integrales y carbohidratos complejos**  
+    Estos alimentos proporcionan una liberación gradual de glucosa, ayudando a mantener estables los niveles de energía y el estado de ánimo durante el día. Ejemplos incluyen la avena, la quinoa y el pan integral.
+4. **Añade alimentos ricos en magnesio**  
+    El magnesio, presente en alimentos como las espinacas, las semillas de calabaza y el cacao, es un mineral que ayuda a relajar el sistema nervioso y puede aliviar la ansiedad.
+5. **Incorpora probióticos para un intestino saludable**  
+    Alimentos fermentados como el yogur, el kéfir y el chucrut pueden mejorar la microbiota intestinal, lo que contribuye a una mejor salud mental. El intestino tiene una conexión directa con el cerebro, por lo que mantenerlo en equilibrio es esencial.
+6. **Evita los azúcares refinados y los alimentos ultraprocesados**  
+    Los picos de glucosa generados por el consumo de azúcares refinados pueden causar cambios bruscos en el estado de ánimo. Evitar estos alimentos ayuda a mantener una estabilidad emocional.
+7. **Consume suficiente agua para mantenerte hidratado**  
+    La deshidratación puede llevar a la fatiga mental y afectar el estado de ánimo. Asegúrate de beber al menos ocho vasos de agua al día para un rendimiento óptimo del cerebro.
+8. **Elige proteínas de alta calidad**  
+    Las proteínas, como el pollo, los huevos y el tofu, son esenciales para la producción de neurotransmisores como la serotonina, que regula el estado de ánimo y el bienestar.
+9. **Haz del té verde tu aliado contra el estrés**  
+    El té verde contiene L-teanina, un aminoácido que promueve la relajación sin causar somnolencia, ayudando a reducir el estrés y mejorar el estado de ánimo.
+
+Estas sugerencias pueden ser el primer paso para transformar la alimentación en una herramienta de apoyo para la salud mental y emocional, promoviendo una vida más equilibrada y feliz.
+
+Escucha nuestro podcast para conocer más del tema
+-------------------------------------------------
+
+Exploramos cómo ciertos alimentos pueden mejorar nuestra salud mental junto a la nutricionista **Patricia Villarreal.**
+
+Este artículo forma parte de ‘[El Cuaderno de la Salud](https://www.elcomercio.com/podcasts/cuaderno-de-la-salud.html)’ de EL COMERCIO. Si tienes consultas o sugerencias, llena el formulario a continuación. Mantente informado y cuida tu salud.
+
+Bienestar
+=========
+
+Los avances tecnológicos se han intensificado de una manera acelerada y en muchos casos incluso de manera exponencial.
+----------------------------------------------------------------------------------------------------------------------
+
+![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
+
+Los **avances** **tecnológicos** se han intensificado de una manera acelerada y en muchos casos incluso de manera **exponencial**. Aquí no hay que pensar solamente en **maquinaria** y equipos, sino también en la **habilidad** y **creatividad** para realizar objetivos.
+
+En muchos casos, y posiblemente en la **mayoría** de **estudios** sobre la transformación social y económica, se demuestra que los **resultados** de estas **nuevas tecnologías** tienen un alcance superior al que sus **inventores** o desarrolladores pudieron siquiera imaginarse. Esos **progresos** y **cambios tecnológicos** no solo han traído **soluciones**, también han intensificado el efecto de **problemas** en todas las etapas del desarrollo como **consecuencia** de alguna acción. Ciertamente, no es posible realizar nada que no vaya a repercutir de uno u otra manera sobre nuestro **desarrollo social**, **ambiental**, **económico**, etc.
+
+Tal como el **petróleo** fue el principal motor del **siglo XX** al permitir no solamente cambiar los **patrones** de movilidad, masificar y abaratarlos; nos trajo también el **desarrollo** de la **industria petroquímica**, donde los **fertilizantes** permitieron mejorar e intensificar la **agricultura**, la **creación** del **plástico** y de **textiles**, **cosméticos** y **medicinas**.
+
+Pasando al siglo XXI donde pensamos que por los **factores** de **cambio climático** (antes se hablaba del **calentamiento global**) en la **actualidad** entre **hidrocarburos** y **carbón** todavía constituye el 85% del **consumo** de **energía** en el mundo y los **renovables** que han estado creciendo en **doble dígito**, con mayor inversión en **energía** de **sistemas** de **generación** renovable no tradicional, esta está recién en el 15% de la matriz **energética global**.
+
+La preocupación del siglo XXI para la **humanidad** es hacia donde se mueve. El futuro, que antes ofrecía simplemente **esperanza** y propósito, se ha convertido en una especie de **fatalismo**. Inundaciones, **sequías**, **incendios forestales**, **huracanes**, **tsunami**; **guerras**, la **migración** forzada de millones de personas, la **migración** por búsqueda de nuevas **oportunidades** por múltiples motivos, a afectación por la **delincuencia organizada**, el **narcotráfico**, a la trata de gente, de armas y el **narco político** son los factores de peligro que acechan a la **población** en los cuatro **puntos cardinales**; principalmente en un mundo polarizado entre norte y sur los que tienen y los que no tienen.
+
+Es necesaria la búsqueda de un **objetivo** y un **sistema moral**, de **equidad** y de **empatía** para poder unificar el **esfuerzo humano** en lograr su bienestar con las múltiples maneras y **herramientas** disponibles para resolver la **problemática local** y **global**. Tarea muy difícil.
+
+Se puede hacer una extensa lista tanto de los **beneficios** como la **problemática** de los avances que tenido la **modernidad**, pero ciertamente también debe modificarse el **discurso** pesimista de la **prensa** amarilla y roja que es la que más llega a las **masas** de **población** para permitirle divisar un rayo de luz y **esperanza** a la misma **supervivencia** y **prosperidad** del ser humano.
+
+Los **futuristas** y **filósofos** sobre el futuro devenir, están de acuerdo que los **objetivos** del hombre cuando están coordinados la **inteligencia humana** con las **nuevas herramientas** de la **inteligencia artificial** pueden generar grandes logros y **oportunidades** cuando la gente está capacitada para entender este **nuevo entorno**, pero también gracias a un **enorme esfuerzo** donde la **humanidad** ha desarrollado un inventario de conocimientos para su propia **sostenibilidad**.
+
+El **mundo** del **futuro** del que estamos hablando no existe, de modo que no puede ser estudiado ni analizado. Lo único que podemos **crear, analizar y estudiar** son las ideas de lo que figuramos cómo será el mundo de mañana. Estas **ideas** desarrolladas con base en percepciones del pasado y del presente nos permite dibujar **posibles escenarios** de corto, mediano y largo plazo.
+
+Los **países avanzados** todos tienen institutos (think thanks) que crean una serie de escenarios posibles y deseables y avanzan en **búsqueda** de esas m**e**tas.
+
+A pesar de lo agobiado que se encuentra el **país**, deberían establecerse un grupo **multidisciplinario**, **multipartidista** que defina objetivos en cuanto a **seguridad alimentaria**, **energética**, de inversión y **creación de empleo**, de **seguridad jurídica** (el país ha perdido toda la credibilidad); es necesario recuperarla, **transparencia, movilidad y crecimiento urbano** y también seguridad personal. El desafío es diseñar este panorama a fin de qué las **políticas** de Estado apunten esos **objetivos** consensuados y tanto el **ejecutivo** como el **legislativo** realicen con el **transcurso** del tiempo los ajustes de timón para llevar el país a buen puerto.
+
+Ecuador tiene 19 centros inclusivos para tratar Infecciones de Transmisión Sexual sin estigma 
+==============================================================================================
+
+Conoce la ubicación de los centros inclusivos en un mapa interactivo.
+---------------------------------------------------------------------
+
+![En el Centro de Salud No. 1 del Centro Histórico de Quito, los usuarios reciben un kit de preservativos, lubricantes y en caso de que sea VIH negativo y expuesto a riesgos recibe la PrEP.](https://www.elcomercio.com/wp-content/uploads/2024/10/Centro-Inclusivo.jpg)
+
+Los pacientes que demandan atención relacionada con Infecciones de Transmisión Sexual (**ITS**) cuentan con **19 centros de salud inclusivos en Ecuador.** La característica de estos sitios del **Ministerio de Salud Pública** (MSP) es que son libres de estigma y discriminación. Están situados estratégicamente en siete ciudades de la **Sierra**, otras siete de la **Costa** y cinco de la **Amazonía**. 
+
+Más noticias
+------------
+
+* [¿Cómo funciona un centro de salud inclusivo para Infecciones de Transmisión Sexual en Quito?](https://www.elcomercio.com/tendencias/salud/como-funciona-un-centro-de-salud-inclusivo-para-infecciones-de-transmision-sexual-en-quito.html "¿Cómo funciona un centro de salud inclusivo para  Infecciones de Transmisión Sexual en Quito?")
+* [Repunte de Infecciones de Transmisión Sexual en Ecuador ¿Por qué hay más casos en mujeres?](https://www.elcomercio.com/tendencias/salud/repunte-de-infecciones-de-transmision-sexual-en-ecuador-por-que-hay-mas-casos-en-mujeres.html "Repunte de Infecciones de Transmisión Sexual en Ecuador ¿Por qué hay más casos en mujeres?")
+
+Estos centros de tipo **A, B y C** operan en el primer nivel de atención (**primaria**). Están enfocados en la prevención y promoción de servicios **gratuitos** y **confidenciales**.  
+
+Tipo de servicios disponibles
+-----------------------------
+
+Los interesados pueden acceder a **tamizajes** para detectar ITS como **VIH, sífilis y hepatitis**. Según los registros del [MSP](https://salud.gob.ec/ "https://salud.gob.ec/"), en 2018 se realizaron 1,3 millones de tamizajes, mientras que en 2023, el número cayó a 722 961. Es el más bajo de los últimos seis años. También se ofrece auto tests para VIH.
+
+Por otra parte, entre los métodos de prevención disponibles están preservativos, lubricantes a base de agua. Además, quienes salen negativos al VIH y están expuestos al virus pueden acceder a la **PrEP**. Se trata de un medicamento que se toma a diario y que previene la transmisión del VIH. 
+
+Para casos de emergencia en los que hay exposición al virus también se puede acceder a la **PEP**, que son medicamentos para tomar de inmediato. 
+
+Los pacientes, adicionalmente, cuentan con vacunas contra hepatitis A y B, así como el Virus del Papiloma Humano. Es importante que los pacientes diagnosticados también acudan a controles periódicos.
+
+La atención se realiza de manera intra como extramural. La intramural se lleva a cabo dentro de las instalaciones del centro durante su horario habitual, que es de **07:00 a 16:00**. La atención extramural se extiende a la comunidad. Se lleva los servicios a espacios no tradicionales, facilitando el acceso a quienes viven en áreas remotas o con dificultades para llegar a un centro de salud.
+
+Este enfoque integral busca tratar las ITS, pero también educar y empoderar a la población sobre su salud sexual. Las intervenciones comunitarias permiten a los profesionales de la salud acercarse a grupos vulnerables. El fin es promover un ambiente donde los pacientes puedan atenderse sin temor al juicio.
+
+El COMERCIO desarrolló este mapa interactivo que muestra la ubicación exacta de los 19 centros a nivel nacional. La idea es que busques el más cercano y acudan por atención o simplemente para educarte sobre cómo prevenir las ITS. 
+
+Cartas a Quito / 1 de noviembre de 2024
+=======================================
+
+Estas son las cartas a Quito de este viernes 1 de noviembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Rutinas del pensamiento para aprender
+-------------------------------------
+
+La activación del pensamiento en nuestros estudiantes es esencial para formar ciudadanos críticos y comprometidos. Las rutinas de pensamiento son herramientas que nos permiten lograr este objetivo, fomentando un aprendizaje activo y significativo en el aula.
+
+Las rutinas de pensamiento son estrategias que estimulan la curiosidad y el análisis. Al implementarlas, los alumnos no solo memorizan información, sino que aprenden a cuestionar, reflexionar y conectar conceptos. Esto transforma el aula en un espacio dinámico donde cada voz cuenta.
+
+Por ejemplo, al utilizar la rutina “Veo-Pienso-Me pregunto”, los estudiantes observan un fenómeno, expresan sus pensamientos y generan preguntas. Este proceso activa su curiosidad natural y les permite explorar más allá de lo evidente. Así, se convierten en protagonistas de su propio aprendizaje.
+
+Además, estas rutinas promueven la colaboración entre compañeros. Al trabajar en grupo, los estudiantes comparten ideas y construyen conocimiento de manera conjunta. Este intercambio enriquece su aprendizaje y fomenta habilidades sociales esenciales para su desarrollo integral.
+
+Implementar rutinas de pensamiento también ayuda a los docentes a identificar las necesidades e intereses de sus estudiantes. Al observar cómo piensan y qué preguntas hacen, podemos adaptar nuestras enseñanzas para que sean más relevantes y significativas.
+
+Es importante recordar que activar el pensamiento no es solo responsabilidad del docente; los estudiantes deben comprometerse a participar activamente. Fomentar un ambiente donde se sientan seguros para expresar sus ideas es clave para el éxito de estas rutinas.
+
+En conclusión, las rutinas de pensamiento son una herramienta poderosa que transforma la educación. Al activarlas en el aula, no solo mejoramos el aprendizaje académico, sino que también preparamos a nuestros estudiantes para enfrentar los desafíos del mundo actual con confianza y creatividad.
+
+Roberto Camana-Fiallos
+
+¿Qué hacer para prevenir un robo y en caso de que ocurra?
+=========================================================
+
+Los robos a personas lideran estadísticas. Hay pasos que contemplar.
+--------------------------------------------------------------------
+
+![Imagen referencial de delito contra una persona.](https://www.elcomercio.com/wp-content/uploads/2024/10/robo-a-personas.jpg)
+
+El robo a personas lidera la estadística de la categoría de delito. Así lo reflejan los datos de la **Fiscalía General del Estado**. La Policía da recomendaciones que, además, se pueden aplicar en el **feriado de Difuntos** e Independencia de Cuenca.
+
+La analítica de la entidad de justicia, entre el 1 de enero de 2023 y el 30 de septiembre de 2024, suman **127 871**.
+
+### Más noticias
+
+* [Barrios de Quito se organizan contra la inseguridad por cortes de luz](https://www.elcomercio.com/actualidad/quito/seguridad-barrios-quitocortes-luz.html "Barrios de Quito se organizan contra la inseguridad por cortes de luz")
+* [Recomendaciones para conducir de noche con cortes de luz en Quito](https://www.elcomercio.com/actualidad/quito/cortes-luz-conducir-noche-quito-recomendaciones.html "Recomendaciones para conducir de noche con cortes de luz en Quito")
+* [En casa o en la calle siga estos tips de seguridad por los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/consejos-seguridad-para-contemplar-durante-cortes-luz.html "En casa o en la calle siga estos tips de seguridad por los cortes de luz")
+
+> CONOCE EL DESPLIEGUE OPERATIVO 👇[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) se encuentra a escala nacional para garantizar la seguridad ciudadana y el orden público antes, durante y después del [#FeriadoNoviembre2024](https://twitter.com/hashtag/FeriadoNoviembre2024?src=hash&ref_src=twsrc%5Etfw).[#NuestraMisiónSigueIntacta](https://twitter.com/hashtag/NuestraMisi%C3%B3nSigueIntacta?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/21Iv9Vhq14](https://t.co/21Iv9Vhq14)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [October 31, 2024](https://twitter.com/PoliciaEcuador/status/1852028465085628717?ref_src=twsrc%5Etfw)
+
+Robos a personas y el contexto
+------------------------------
+
+La mayoría de casos se registró de lunes a viernes, en las tardes, con un **32,8%**. A las horas críticas, se sumaron las noches de los viernes. En ese período, la provincia de **Guayas** lideró.
+
+En lo que se refiere a meses, en 2024, mayo fue en el que hubo más casos registrados en la Fiscalía, con **2367 robos a personas**.
+
+Los pasos para la prevención
+----------------------------
+
+Desde la **[Policía Nacional](https://www.policia.gob.ec/)** dan directrices para prevenir los robos a personas. Uno de los pasos fundamentales es evitar el retiro de grandes sumas de dinero y el trasladarlo sin resguardo policial.
+
+Las personas pueden pedir la custodia de uniformados. Aunque, de ser posible, es recomendable hacer **transacciones en línea**.
+
+De igual forma, a la hora de hacer retiros, ya sea en un **cajero o en ventanilla**, no se debe aceptar ayuda de desconocidos.
+
+La **Policía**, además, recomienda usar taxis o servicios de transporte que sean oficiales, legalizados y, si es posible, compartir la ubicación en tiempo real a alguien de confianza.
+
+> ☎️LÍNEA ANÓNIMA  
+>   
+> No dudes en contactarnos si tienes información sobre actos de corrupción, tu identidad se mantendrá en secreto.  
+>   
+> ¡Juntos, luchemos contra la corrupción![#DenunciaAnónima](https://twitter.com/hashtag/DenunciaAn%C3%B3nima?src=hash&ref_src=twsrc%5Etfw)[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/8x6ZJ9j0FC](https://t.co/8x6ZJ9j0FC)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [October 30, 2024](https://twitter.com/PoliciaEcuador/status/1851670839902503316?ref_src=twsrc%5Etfw)
+
+En las calles
+-------------
+
+Es crucial no exhibir pertenencias, como **teléfonos**. A la par, mantenerse alerta sobre lo que sucede en el entorno, sobre todo, en zonas solitarias o con poca iluminación.
+
+Cuando se transite en la noche es mejor hacerlo por **áreas iluminadas y transitadas**, así como evitar el tránsito por las zonas desoladas.
+
+* **Variar las rutas y horarios**
+* En el caso de sentir que alguien le sigue o hay algo extraño en el ambiente, buscar un lugar seguro, una **UPC cercana**, tienda o un sitio con vigilancia.
+
+¿Qué hacer en caso de un robo?
+------------------------------
+
+Si el **robo** se concreta, hay que tomar en cuenta algunos pasos para cuidar la integridad y la vida. La Policía detalló que durante el hecho es mejor no confrontar al delincuente, especialmente, si está armado.
+
+No realizar movimientos bruscos. Los **delincuentes** suelen estar nerviosos, por lo que alguna maniobra podría aumentar el riesgo de violencia.
+
+En la medida de lo posible, para efectos de las pericias, se debe observar detalles como rasgos físicos del autor: altura, color de **piel, vestimenta, tatuajes**. No intentar perseguir al delincuente
+
+Después del robo
+----------------
+
+Si el robo se concretó se debe contactar a la **Policía** a través del **911** o, en caso de no poder por esa vía, acudir a la **Unidad de Policía Comunitaria (UPC)** más cercana.
+
+Proporcionar la información que pueda ser útil para alertar a las unidades del sector y para el proceso investigativo.
+
+Si el robo fue en una casa, lugar cerrado o un vehículo, se debe dejar todo intacto hasta que llegue la Policía.
+
+Robos de equipos y documentos
+-----------------------------
+
+Si el robo fue del **celular o computadora**, se deben bloquear cuentas y los dispositivos. En el caso de que tenga algún sistema de rastreo, activarlo de manera inmediata.
+
+Si el **delincuente** se lleva tarjetas de **crédito o débito**, hay que contactar al banco de forma inmediata para bloquearlas y evitar su uso fraudulento.
+
+De ser documentos, como **cédula, licencia de conducir, pasaporte**, realizar la denuncia en la Fiscalía para evitar la duplicidad de los documentos y mal uso.
+
+Eso sí, en cualquier caso, es fundamental presentar una denuncia formal en la Fiscalía, para dar paso a la investigación y a una posible sanción al **autor del delito**.
+
+Racing clasificó a una final sudamericana luego de 32 años
+==========================================================
+
+Racing jugará la final de la Copa Sudamericana contra Cruzeiro en Asunción, Paraguay.
+-------------------------------------------------------------------------------------
+
+![Juan Fernando Quintero de Racing celebra un gol ante Corinthians en un partido de las semifinales de la Copa Sudamericana entre Racing y Corinthians.](https://www.elcomercio.com/wp-content/uploads/2024/10/racing_1.jpg)
+
+**Racing Club de Avellaneda** volverá a jugar una final de un torneo organizado por la Conmebol luego de 32 largos años de larga espera, de la mano de Gustavo Costas, histórico jugador y entrenador de los argentinos.
+
+La noche de este **jueves 31 de octubre de 2024**, Racing venció 2-1 al brasileño Corinthians en un repleto Cilindro de Avellaneda, en el partido de vuelta de las semifinales de la Copa Sudamericana.
+
+### Más noticias:
+
+* [Liga de Quito, a cuatro partidos de una nueva final en la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-a-cuatro-partidos-de-una-nueva-final-en-la-liga-pro.html "Liga de Quito, a cuatro partidos de una nueva final en la Liga Pro")
+* [(Video) Enner Valencia cumplió su promesa a una pequeña fanática en Brasil](https://www.elcomercio.com/deportes/futbol/enner-valencia-cumplio-promesa-pequena-fanatica-en-brasil.html "(Video) Enner Valencia cumplió su promesa a una pequeña fanática en Brasil")
+* [Un jugador clave de Ecuador se lesionó y peligra su convocatoria](https://www.elcomercio.com/deportes/futbol/jugador-clave-de-ecuador-se-lesiono-peligra-convocatoria-angelo-preciado.html "Un jugador clave de Ecuador se lesionó y peligra su convocatoria")
+
+El jueves 24 la ‘Academia’ argentina dio el primer paso para conseguir esta clasificación. **Empató 2-2 en el Neo Química Arena** de Sao Paulo, estadio que sirvió para inaugurar la Copa del Mundo de Brasil en el 2014.
+
+Yuri Alberto anotó los dos tantos de los locales, mientras que **Maximiliano Salas y Gastón Martirena** anotó para la visita, con lo que abrió las puertas para arribar a una final luego de 32 años de no conseguirlo.
+
+La revancha arrancó con una **espectacular bienvenida de los hinchas a Racing**, con cientos de juegos pirotécnicos que inundaron el estadio y pusieron el ambiente de fiesta y desbordada algarabía que se vivió en la última semana en Avellaneda.
+
+En el partidos, nuevamente Yuri Alberto anotó y puso el 0-1 para Corinthians a los 6 minutos del PT.
+
+Si embargo, los locales reaccionaron con el **colombiano Juan Fernando Quintero** como la gran figura de la noche, al anota un doblete en tan solo tres minutos, con un penal incluido, que selló el partido y la serie para Racing.
+
+El ecuatoriano **Félix Torres jugó los 90 minutos** en Corinthians. Recibió una tarjeta amarilla a los nueve minutos de iniciado el juego.
+
+La final contra Cruzeiro está programada para el sábado 23 de noviembre, en el estadio General Pablo Rojas de Asunción, Paraguay, conocido popularmente como La Nueva Olla.
+
+![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/10/racing_2-1024x683.jpg)
+
+Foto: EFE.
+
+Racing corto una larga racha
+----------------------------
+
+Gustavo Costas, exentrenador y **campeón de Ecuador con Barcelona Sporting Club en el 2012**, cortó una racha negativa de 32 años en los que no llegaba a una final de un torneo continental.
+
+El 25 de noviembre de 1992 disputó la final de vuelta de la Supercopa Sudamericana contra **Cruzeiro en su estadio. La ganó 1-0 con un tanto de Claudio Omar García**, pero no le sirvió para levantar la copa, porque una semana antes habían perdido 4-0 en el Belo Horizonte.
+
+Costas fue parte de ese plantel, en donde destacaban **Carlos Roa, mundialista con Argentina en Francia  
+1998**; Rubén Walter Paz, mundialista con Uruguay en México 1986 e Italia 1990; y Darío Cabrol, jugador  
+que defendió la camiseta de Emelec en el 2003.
+
+En 1998, **con Costas como uno de los capitanes**, Racing había ganado el referido trofeo al propio Cruzeiro con un marcador global de 3-2. Ese fue el último título internacional de los de Avellaneda a escala global.
+
+Ubaldo Fillol, campeón del mundo con Argentina en 1978; fue parte de ese plantel en el que también constaban otros nombres como los de **Néstor Fabri, Walter Fernández y Alfio Basile** como entrenador, levantaron la copa.
+
+La Copa Libertadores y la Copa Intercontinental de 1967, son los otros dos títulos internacionales de los argentinos.
+
+![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/10/racing_3-1024x683.jpg)
+
+Foto: EFE.
+
+San viernes – Especial de Halloween
+-----------------------------------
+
+El Mundial de Clubes 2025 tiene 31 clasificados
+===============================================
+
+El Mundial de Clubes se celebrará en Estados Unidos en el 2025 entre junio y julio.
+-----------------------------------------------------------------------------------
+
+![Alan Franco con Atlético Mineiro en la temporada 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/mundial_1.jpg)
+
+Los clubes brasileños **Atlético Mineiro y Botafogo**, que se enfrentarán en la final de la Copa Libertadores, se jugarán también en ella la última plaza de clasificación para el nuevo **Mundial de Clubes de 2025** en Estados Unidos, que contará con la participación de 32 equipos.
+
+La FIFA recordó este jueves 31 de octubre de 2024, que el club que levante el trofeo de la Libertadores en Buenos Aires el sábado 30 de noviembre se unirá, como campeón sudamericano, **al Boca Juniors, el Flamengo, el Fluminense, el Palmeiras y el River Plate**, en representación de la CONMEBOL.
+
+### Más noticias:
+
+* [La final de la Copa Libertadores será brasileña, por sexta vez](https://www.elcomercio.com/deportes/futbol/final-copa-libertadores-equipos-brasilenos.html "La final de la Copa Libertadores será brasileña, por sexta vez")
+* [Kendry Páez lidera un nuevo ranking a escala global](https://www.elcomercio.com/deportes/futbol/kendy-paez-ranking-sub20-ligas.html "Kendry Páez lidera un nuevo ranking a escala global")
+* [Feriado de fútbol en Ecuador con la Liga Pro en la recta final](https://www.elcomercio.com/deportes/futbol/feriado-futbol-ecuador-liga-quito.html "Feriado de fútbol en Ecuador con la Liga Pro en la recta final")
+
+El Botafogo logró su **primera clasificación de la historia para la final tras superar al Peñarol** uruguayo por un global de 6-3, pese a caer a domicilio por 3-1 en el partido de vuelta disputado este miércoles.
+
+Y el **Atlético Mineiro empató sin goles el martes 29 en su visita al River Plate** argentino, que le dio la victoria global por 3-0, para alcanzar por segunda vez la final continental.
+
+La FIFA aseguró que el **nuevo torneo de 32 equipos en Estados Unidos** será la competición mundial de fútbol de clubes más inclusiva de la historia y redefinirá cómo, cuándo y dónde se corona a un auténtico campeón del mundo de clubes.
+
+Los equipos clasificados
+------------------------
+
+La edición inaugural del Mundial de Clubes FIFA 2025™ arrancará el **domingo 15 de junio de 2025 en el Hard Rock Stadium** de Miami y concluirá el domingo 13 de julio en el estadio MetLife de Nueva York Nueva Jersey, sede que al año siguiente albergará también la final del Mundial 2026 en Estados Unidos, México y Canadá.
+
+En el Mundial de Clubes del año que viene participarán como campeones continentales entre 2021 y 2024 Seattle Sounders (USA), **Pachuca (MEX), León (MEX) y Monterrey (MEX)**, en representación de la CONCACAF.
+
+Al Ain (UAE), Urawa Reds (JPN) y Al Hilal (SAU), de la Confederación Asiática; Chelsea (ING), **Manchester City (ING) y Real Madrid (ESP)**, de la UEFA.
+
+Fluminense (BRA), Palmeiras (BRA) y Flamengo (BRA), de la CONMEBOL, y Wydad (MAR) y Al Ahly (EGI), de la Confederación Africana.
+
+A través del ránking de cada confederación entre 2021 y 2024 también tienen plaza en la competición Salzburgo (AUT), **Juventus (ITA), Benfica (POR), Oporto (POR), Atlético de Madrid (ESP)**, Inter de Milan (ITA), Borussia Dortmund (GER), PSG (FRA) y Bayern Munich (GER), de la UEFA-
+
+Auckland (NZL), de Oceanía; **Boca Juniors (ARG) y River Plate (ARG)**, de la CONMEBOL; Ulsan (COR), de la Confederación Asiática; Mamelid Sundowns (AFS) y Esperamce (TUN), de la CAF. 
+
+San viernes – Especial de Halloween
+-----------------------------------
+
 Ecuatoriano está desaparecido tras emergencia por lluvias en Valencia
 =====================================================================
 
@@ -386,6 +707,10 @@ Los puros criollos consiguieron un triunfo que los invita a hacer historia y bus
 * [¿A qué hora juega El Nacional la semifinal de Copa Ecuador?](https://www.elcomercio.com/deportes/futbol/hora-semifinal-vuelta-naciona-mushuc-runa.html "¿A qué hora juega El Nacional la semifinal de Copa Ecuador?")
 
 La afición del ‘Bi-Tri’ respondió desde las gradas y ni la lluvia ni el frío clima quiteño le impidieron brindar una buena acogida en el **Olímpico Atahualpa**. A lo largo del primer tiempo, las bandejas se llenaron gradualmente y con la preferencia llena, al igual que los palcos y la general norte, y con apenas claros en las tribunas, la emoción desbordó con el **pitazo final.**
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBzz_ZdPQNw/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DBzz_ZdPQNw/?utm_source=ig_embed&utm_campaign=loading)
 
 El culmen del partido aunó a **futbolistas y aficionados**, quienes celebraron en comunión y extendieron la fiesta entre las gradas y la cancha. Las barras fueron entonadas y también se le dio lugar, aunque de forma alejada, al **DT Marcelo Zuleta**.
 
@@ -811,396 +1136,4 @@ El **dispositivo de seguridad** de la Policía empezó a las 12:00 de este miér
 
 El general de Distrito, Freddy Goyes, detalló que **52 786 servidores policiales** estarán desplegados en Ecuador, sobre todo, en ciudades con mayor afluencia.
 
-Playas, iglesias, **cementerios** y ejes viales son los puntos que tendrán mayores refuerzos durante el feriado. A la presencia policial se suma equipos, como motocicletas, aeronaves y ambulancias.  
-
-El Nacional con doble premio, final de Copa Ecuador y Libertadores
-==================================================================
-
-El Nacional e Independiente del Valle se citarán en la final de la Copa Ecuador 2024.
--------------------------------------------------------------------------------------
-
-![Alejandro Cabeza, jugador de El Nacional en la Copa Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/nacho_1.jpg)
-
-**El Nacional** se convirtió en el segundo finalista de la Copa Ecuador y logró el cuarto cupo de Ecuador para la Copa Libertadores 2025, en un año en el que puede sumar un nuevo título a sus vitrinas, tras 18 años de no lograrlo.
-
-El encuentro entre **El Nacional y Mushuc Runa** se jugó la tarde del jueves 31 de octubre de 2024, desde las 15:00, en el estadio Olímpico Atahualpa, que recibió en sus gradas a algo más de 15 000 hinchas.
-
-### Más noticias:
-
-* [Falleció Pedro Sarmiento, exjugador de la Selección de Colombia](https://www.elcomercio.com/deportes/futbol/pedro-sarmiento-fallecio-medellin-colombia.html "Falleció Pedro Sarmiento, exjugador de la Selección de Colombia")
-* [La final de la Copa Libertadores será brasileña, por sexta vez](https://www.elcomercio.com/deportes/futbol/final-copa-libertadores-equipos-brasilenos.html "La final de la Copa Libertadores será brasileña, por sexta vez")
-* [Kendry Páez lidera un nuevo ranking a escala global](https://www.elcomercio.com/deportes/futbol/kendy-paez-ranking-sub20-ligas.html "Kendry Páez lidera un nuevo ranking a escala global")
-
-Los fanáticos de los ‘Puros Criollos’ aguantaron una fuerte lluvia, **acompañada con tormenta eléctrica**, que cayó en el sector del Atahualpa en los minutos previos al juego y en arranque del primer tiempo.
-
-Los rojos aseguraron su clasificación en la ida jugada en el estadio La Cocha hace siete días. El 1-2 les permitió afrontar la revancha con cautela, cuidar el marcador y contener los ataques del ‘Ponchito’ para gestar el trabajado y sufrido 2-0 y sellar el 4-1 en el global.
-
-Los goles de El Nacional
-------------------------
-
-Al minuto 73 la visita se quedó con un jugador menos por la expulsión del argentino Juan Randazzo.
-
-Al minuto 78 llegó el gol de **Gabriel ‘Loco’ Cortez, con un golazo** que dejó sin reacción a Adrián Bone, que tuvo un ligero resbalón, pero el balón tenía dirección de gol por lo esquinado y la calidad del golpeo del goleador.
-
-Al minuto 90 llegó el 2-0 con un golazo de Jonathan Borja, a pase del ‘Loco’ Cortez, la figura de la tarde.
-
-La final de la Copa Ecuador será entre **El Nacional e Independiente del Valle**, el vigente campeón que en el 2022 se llevó el trofeo al derrotar 3-1 a 9 de Octubre en el Atahualpa, con lo que cerró un año en el que también sumó la Copa Sudamericana.
-
-Para los militares será la primera final. En el 2022 llegó al cuadrangular de semifinales y no pudo derrotar al propio Independiente y 9 de Octubre, los finalistas.
-
-Junto a Mushuc Runa se quedaron con el tercero y cuarto lugar en la tabla de posiciones.
-
-El Nacional a Copa Libertadores
--------------------------------
-
-El Nacional jugará la **Copa Libertadores por vigésima séptima ocasión** y la tercera de manera consecutiva en la década del 2020.
-
-Será la segunda que lo haga con el premio deportivo que reparte la Copa Ecuador. La primera vez que lo hizo fue en el 2023.
-
-En el 2022 no llegó a la final, pero se vio beneficiado por la corona alcanzada por IDV de la Copa Sudamericana, con lo que automáticamente se clasificó para la fase de grupos.
-
-9 de Octubre fue finalista en el 2022, pero al descender a la Serie B, **perdió la opción de representar a Ecuador** en la Copa Libertadores desde la primera fase de eliminación, tres etapas antes de instalarse en la fase de grupo.
-
-En esa ocasión, **El Nacional avanzo hasta la segunda ronda**. En la primera eliminaron a Nacional Potosí de Bolivia con un marcador global de 9-2, mientras que en la segunda fueron eliminados por Deportivo Independiente Medellín de Colombia con un marcador de 4-3.
-
-San viernes – Especial de Halloween
------------------------------------
-
-Quito registró fuertes lluvias en el inicio del feriado
-=======================================================
-
-Las lluvias en Quito estuvieron acompañadas de tormentas eléctricas y ráfagas de viento, la tarde de este jueves 31 de octubre.
--------------------------------------------------------------------------------------------------------------------------------
-
-![Quito registró fuertes precipitaciones en varios sectores del norte, centro y sur](https://www.elcomercio.com/wp-content/uploads/2024/10/lluvias-quito-31-octubre.jpg)
-
-**Quito** registró **fuertes lluvias** la tarde este jueves 31 de octubre de 2024, primer día del extenso **feriado nacional** que tiene Ecuador hasta el lunes 4 de noviembre.
-
-### Más noticias
-
-* [DANA deja víctimas mortales, ¿hay ecuatorianos?](https://www.elcomercio.com/actualidad/mundo/dana-deja-victimas-mortales-ecuatorianos.html "DANA deja víctimas mortales, ¿hay ecuatorianos?")
-* [Lluvias aumentan y Coca Codo Sinclair entrega más energía en Ecuador](https://www.elcomercio.com/actualidad/negocios/lluvias-aumentan-coca-codo-sinclair-entrega-mas-energia-ecuador.html "Lluvias aumentan y Coca Codo Sinclair entrega más energía en Ecuador")
-* [(Mapa) Tránsito en Quito tiene puntos conflictivos en el primer día de feriado](https://www.elcomercio.com/actualidad/quito/mapa-transito-quito-puntos-conflictivos-primer-dia-feriado.html "(Mapa) Tránsito en Quito tiene puntos conflictivos en el primer día de feriado")
-
-Las precipitaciones cayeron en el **norte, centro y sur** de la capital, acompañadas por **tormentas eléctricas** y ráfagas de vientos.
-
-En algunos puntos de la ciudad, las lluvias se dieron pasadas las **13:30**, y duraron alrededor de una hora y media.
-
-El **ECU 911** registró las precipitaciones en varios sectores, a través de su sistema de cámaras de vigilancia. Algunos barrios monitoreados fueron:
-
-* Turubamba
-* Centro Histórico
-* Lucha de Los Pobres
-* Itchimbia
-* Carapungo
-
-El Cuero de **Bomberos** de Quito confirmó que **no se registraron novedades** de gravedad producto de las fuertes lluvias en la ciudad, en el primer día de feriado[.](https://www.inamhi.gob.ec/ "https://www.inamhi.gob.ec/")
-
-Sin embargo, sí se trataron alertas por acumulación de agua en calles y casas ubicadas en:
-
-* Barrio Las Marías, en **Tumbaco**
-* Shyris y Suecia, en **La Carolina**
-* Eloy Alfaro y José Correa, en **Estadio Olímpico Atahualpa**
-* Manuel Burbano y Francisco Ruíz, en **Puembo**
-
-En estos puntos, los efectivos limpiaron **sumideros taponados** por desechos y basura.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/image-21.png)
-
-Lluvias se registran en seis provincias de Ecuador
---------------------------------------------------
-
-De acuerdo con las imágenes satelitales del Instituto Nacional de Metereología e Hidrología (**Inamhi**), las lluvias cubrieron otras ciudades de la **Sierra Norte** y zonas de la estribación de la cordillera oriental.
-
-Las **provincias** donde se detectó la presencia de lluvias fueron: Carchi, Pichincha, Cotopaxi, Tungurahua, Chimborazo y Bolívar.
-
-Se prevén que estas precipitaciones **continúen en las próximas horas**, incluso, con granizo en zonas puntuales de la Sierra.
-
-#MonitoreoSatelital A través de imágenes satelitales, se visualizan lluvias acompañadas de tormenta en el norte y centro de la Sierra y zonas de estribación de cordillera oriental 🌧️⛈️. Se prevé que continúen durante las próximas horas. ⚠️Aviso a corto plazo ACTIVO pic.twitter.com/vzvpkNh3BP— INAMHI Ecuador 🇪🇨 (@inamhi\_ec) October 31, 2024
-
-La situación del clima de la tarde de este jueves coincide con lo esperado por parte del Inamhi.
-
-El Instituto **pronosticó** a partir de las 13:00 de hoy, hasta las 07:00 del viernes 1 de noviembre, **precipitaciones moderadas e intensas** en el norte del Litoral y la Sierra.
-
-Durante estas horas, se podría acumular **altos niveles de agua**, superiores a 28 mm por día, en algunos puntos de la región Interandina.
-
-Toma precauciones al conducir bajo la lluvia
---------------------------------------------
-
-Las fuertes lluvias pueden provocar deslizamientos de tierra y **bancos de niebla**. Por ello, conduce con mayor precaución.
-
-Al manejar bajo condiciones lluviosas los riesgos de sufrir un **siniestro de tránsito** aumentan.
-
-Cuando la carretera está mojada, el agua puede crear una película entre las **llantas y el asfalto**, lo que disminuye la fricción y hace que el vehículo sea más propenso a deslizarse. 
-
-**Disminuye la velocidad** al menos un 20 %. Esto te dará más tiempo para reaccionar ante cualquier imprevisto y mejorará la adherencia de los neumáticos
-
-Asegúrate de que los neumáticos estén en buen estado y con la presión adecuada. Mantén una **distancia de seguridad mayor** a los otros vehículos y evita frenadas bruscas.
-
-Así mismo, regula el nivel del limpiaparabrisas según necesites y **enciende las luces** del vehículo.
-
-Si los cristales se empañan, utiliza el aire acondicionado para mejorar la visibilidad interna.
-
-El frío no frenó a hinchas y glorias de El Nacional en Copa Ecuador
-===================================================================
-
-El Nacional convocó a sus hinchas más fieles para el partido de la Copa Ecuador ante Mushuc Runa, en Quito.
------------------------------------------------------------------------------------------------------------
-
-![El Nacional recibió a Mushuc Runa por la Copa Ecuador, en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/nacional.jpg)
-
-La afición de **El Nacional** le hizo justicia a la instancia que disputaba en la **Copa Ecuador** y no defraudó a su equipo.
-
-En medio de una granizada y el helado clima de la tarde del 31 de octubre de 2024, los hinchas se hicieron presentes en buen número en el **Olímpico Atahualpa** para las semifinales del torneo. Se calculan unas 18 mil personas.
-
-### Más noticias:
-
-* [Independiente del Valle es finalista de la Copa Ecuador](https://www.elcomercio.com/deportes/copa-ecuador-independiente-finalista-catolica.html "Independiente del Valle es finalista de la Copa Ecuador")
-* [El frío no frenó a hinchas y glorias de El Nacional en Copa Ecuador](https://www.elcomercio.com/deportes/futbol/nacional-lluvia-copa-ecuador-hinchas-glorias.html "El frío no frenó a hinchas y glorias de El Nacional en Copa Ecuador")
-* [El Nacional con doble premio, final de Copa Ecuador y Libertadores](https://www.elcomercio.com/deportes/futbol/el-nacional-final-copa-ecuador2024.html "El Nacional con doble premio, final de Copa Ecuador y Libertadores")
-
-Los puros criollos vivieron un ambiente en las gradas como en pocas ocasiones lo habían hecho durante la temporada.
-
-Aunque el rival **Mushuc Runa** no era de sus clásicos, la fase que disputaba le daba un plus al partido; además, la taquilla iría hacia los jugadores.
-
-Aunque a las 14:00 arrancó la lluvia, la hinchada criolla llegó. Las boleterías agolparon a quienes no habían adquirido el boleto con anticipación y los aficionados pudieron copar la general sur, la preferencia y buena parte de los palcos, mientras que la tribuna presentó claros a sus costados.
-
-Así como no faltaron los hinchas, tampoco las exglorias del club. A ellos se le sumaron exfutbolistas de la escuadra criolla y emotivas muestras de apoyo desde las gradas.
-
-**Kleber Chalá, histórico de El Nacional, con fe en el equipo en Copa Ecuador**
--------------------------------------------------------------------------------
-
-Entre las grandes personalidades del club que se hicieron presentes en el [Olímpico Atahualpa](https://es.wikipedia.org/wiki/Estadio_Ol%C3%ADmpico_Atahualpa) estuvo Kléber Chalá.
-
-El exfutbolista, quien fue uno de los referentes de la escuadra criolla y multicampeón con esta, se mostró entusiasmo con el presente del plantel.
-
-Chalá relató a EL COMERCIO que encuentra a la escuadra de **El Nacional** en un buen momento futbolístico y con las capacidades y condiciones de salir adelante.
-
-Asimismo, sostuvo que, de llegar a la final del certamen frente a Independiente del Valle, el ‘Bi-Tri’ está en capacidades de hacerse con la Copa Ecuador, lo cual representaría su primer título en 18 años.
-
-Entre los presentes desde las gradas también estuvieron exjugadores de la escuadra. Entre estos se ubicó Madison Julio, hoy jugador de Liga de Quito, y Brayan de Jesús, goleador del ‘Rojo’ en la temporada 2018.
-
-Los hinchas de El Nacional creen en la Copa cómo en el ascenso
---------------------------------------------------------------
-
-En la Copa Ecuador, El Nacional tiene una nueva oportunidad para darle una alegría a su afición. El conjunto pelea por el título después de dos años de haber ascendido desde la Serie B del fútbol ecuatoriano, cuando lo dirigía Ever Hugo Almeida.
-
-De cara al compromiso, hinchas cómo César Espinoza, quien también se ilusiona con el título, señalaron que la prioridad, ahora, es la Copa Ecuador. Pese a ello, tal situación es equiparable al ascenso obtenido previamente.
-
-Con la fe en el certamen, inclusive las familias de los jugadores se hicieron presentes con conmovedores mensajes. Teresa Montes, abuela de José Ignacio Flor -central titular de El Nacional- llevó un cartel con la frase: “Yo soy la ‘superabuela’ de Ignacio’ junto al escudo de El Nacional.
-
-No te pierdas nuestro especial de Halloween:
---------------------------------------------
-
-Quito ofrece diversas opciones de turismo rural para los feriados de noviembre
-==============================================================================
-
-El turismo rural en Quito ofrece diversas opciones para los feriados de noviembre.
-----------------------------------------------------------------------------------
-
-![Las opciones de turismo rural en Quito son variadas para los feriados de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/10/turismo-rural-quito-feriados.jpg)
-
-**Quito** ofrece diversas opciones de **turismo rural** para los **feriados** de Difuntos e Independencia de Cuenca, en **noviembre**.
-
-El Distrito Metropolitano cuenta con **33 parroquias rurales** llenas de cultura, historia, naturaleza y actividades de todo tipo.
-
-### Más noticias:
-
-* [El transporte municipal operará en el feriado con estos horarios](https://www.elcomercio.com/actualidad/quito/transporte-municipal-operara-en-feriado-con-estos-horarios.html "El transporte municipal operará en el feriado con estos horarios")
-* [En el feriado de Difuntos habrá operativos con 52 786 policías](https://www.elcomercio.com/actualidad/seguridad/feriado-difuntos-habra-operativos-52-786-policias.html "En el feriado de Difuntos habrá operativos con 52 786 policías")
-* [Cortes de luz en Quito, con nuevos horarios del 1 al 4 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-nuevos-horarios-1-al-4-de-noviembre.html "Cortes de luz en Quito, con nuevos horarios del 1 al 4 de noviembre")
-
-Quito ofrece diversas opciones de turismo rural para los feriados de noviembre
-------------------------------------------------------------------------------
-
-Todas las parroquias rurales de Quito cuentan con **atractivos culturales y naturales** para conocer y visitar.
-
-Quito está rodeado de **montañas** y **reservas ecológicas** y, a varias de estas, se puede acceder a través de sus parroquias rurales.
-
-**Guangopolo** con sus **artesanías**, **Pifo** con sus hermosos **páramos**.
-
-**Píntag**, la puerta de entrada al Parque Nacional **Antisana**, en la que se ubica la laguna **La Mica** y se puede observar uno de los cuatro volcanes más altos de Ecuador.
-
-**Guayllabamba** con su **zoológico** y otras actividades de **aventura**, **Lloa** con colorida vegetación que lleva a visitar el volcán **Guagua Pichincha**.
-
-**El Quinche** con su turismo religioso y acceso al **cerro Puntas**. **Conocoto** con las comidas típicas de su parque central, **La Merced** con sus aguas termales.
-
-Las parroquias rurales de Quito son: **Alangasí, Amaguaña, Atahualpa, Calacalí, Calderón, Conocoto, Cumbayá.**
-
-**Chavezpamba, Checa, El Quinche, Gualea, Guangopolo, Guayllabamba, La Merced, Llano Chico, Lloa**.
-
-**Nanegal, Nanegalito, Nayón, Nono, Pacto, Perucho, Pifo y Píntag**.
-
-Cada una constituyen pequeños pueblitos llenos de **tradiciones, gente amable y paisajes naturales** únicos.
-
-### Turismo rural en Quito: Naturaleza y aventura para los feriados
-
-Nono, Calacalí, Nanegal, Nanegalito, Gualea y Pacto, seis parroquias rurales de Quito que son parte del **Chocó Andino, Reserva de la Biósfera** declarada por la **Unesco**.
-
-Estas parroquias del Chocó Andino ofrece un clima cálido – húmedo, con **cascadas, bosques nublados y senderos.**
-
-En estos sitios se puede realizar actividades **deportivas extremas y de aventura** con rutas para c**iclismo, senderismo, camping, canopy, tubing, rapel** y más.
-
-Una alta concentración de **flora y fauna**, que incluye especies emblemáticas como el oso de anteojos, el zamarrito pechinegro, el gallo de la peña, olingos, tigrillos e infinidad de insectos, anfibios y reptiles.
-
-Estos son solo algunos ejemplos de todo lo que se puede realizar fuera de la urbe capitalina.
-
-### Arqueología y museos
-
-**Pucará de Rumicucho** es un fascinante sitio arqueológico que data de la época incaica.
-
-Está ubicado en la parroquia de **San Antonio**, fue construido entre 1480 y 1500.
-
-Esta impresionante fortaleza militar también servía como lugar de adoración al sol y observatorio astronómico.
-
-El **Complejo Arqueológico Tulipe**, ubicado en **Nanegalito**, tiene un Museo de Sitio y piscinas termales.
-
-Tulipe fue el centro ancestral y ceremonial del **pueblo Yumbo**.
-
-Además, la **casa museo Carlota Jaramillo**, ubicada en **Calacalí,** donde se puede conocer la trayectoria musical de la “Reina del Pasillo”.
-
-El **Museo Arqueológico de Perucho**, basado en vestigios recogidos entre 2016 y 2018.
-
-Las investigaciones y excavaciones se encontraron evidencias arqueológicas que datan del **Período Precerámico** (9000 años) hasta el **Período de Integración** (500 años)
-
-LaLiga española suspende cinco partidos por la DANA
-===================================================
-
-Cinco partidos de la Liga española se suspendieron a causa de la Dana que afecta Valencia.
-------------------------------------------------------------------------------------------
-
-![Jugador del Valencia en la temporada 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/la_dana_1.jpg)
-
-LaLiga solicitó a la Real Federación Española de Fútbol, “**a petición de los clubes**“, el aplazamiento de los partidos Villarreal vs. Rayo Vallecano y Valencia vs. Real Madrid, a causa de la DANA.
-
-Pero esos no son los únicos que no se jugarán. Se suman el Castellón vs. Racing de Ferrol, Eldense vs. Huesca y Levante vs. Málaga, de LaLiga 2, fijados entre el sábado 2 y el lunes 4 de noviembre de 2024, a desarrollarse en la Comunidad Valenciana, según informaron ambos organismos.
-
-### Más noticias:
-
-* [Cuniburo fue coronado como campeón de la Serie B](https://www.elcomercio.com/deportes/futbol/cuniburo-campeon-serieb-ecuador-ligapro.html "Cuniburo fue coronado como campeón de la Serie B")
-* [Bolivia convoca 30 futbolistas para visitar a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/bolivia-convocados-futbolistas-ecuador-paraguay.html "Bolivia convoca 30 futbolistas para visitar a la Selección de Ecuador")
-* [Lucía Vallecilla arremete contra dirigencia actual y previa de El Nacional](https://www.elcomercio.com/deportes/lucia-vallecilla-deudas-dirigencia-marco-pazos-nacional.html "Lucía Vallecilla arremete contra dirigencia actual y previa de El Nacional")
-
-En un comunicado, LaLiga recalcó que esta petición se realizó “a**nte la situación actual sufrida en España por la Dana** que ha ocasionado numerosas víctimas y damnificados, con especial afección en la Comunitat Valenciana”.
-
-Los cinco encuentros “debían jugarse en la Comunidad Valenciana durante este fin de semana”, recordó el organismo.
-
-La RFEF, a su vez, aseguró haber “recibido” esa petición, así como también la del **aplazamiento del Valencia Féminas y el Deportivo**, y señaló que “solicitará que se tome la misma medida en competiciones no profesionales que se disputen en el mencionado territorio” que lo ocurrido “con los encuentros de la primera eliminatoria de la Copa del Rey y con algunos partidos del CESA sub-14 y sub-16”.
-
-Tanto el Villarreal vs. Rayo, previsto para el sábado en el estadio de la Cerámica de Vila-Real, **como el choque entre el Valencia vs. Real Madrid**, fijado para la noche de ese mismo día en Mestalla, corresponden a la duodécima jornada de LaLiga EA Sports.
-
-Los tres restantes son de la jornada 13 de LaLiga 2: el Castellón vs. Racing de Ferrol de Castalia, el domingo por la tarde; el Eldense vs. Huesca, el domingo por la noche; y el Levante vs. Málaga, el lunes por la noche.
-
-Minuto de silencio por la víctimas
-----------------------------------
-
-La Real Federación Española de Fútbol explicó asimismo que el resto de los partidos de LaLiga, al igual que en el resto de encuentros de ámbito federativo**, tendrán un minuto de silencio en memoria de las víctimas de la Dana**.
-
-“El fútbol español quiere expresar su consternación por la tragedia que se está viviendo y manda sus condolencias a las familias de las personas fallecidas”, añadió la RFEF.
-
-LaLiga, al mismo tiempo, mostró “**sus condolencias y las de todos los clubes y SAD’s del fútbol español** a familiares y amigos de los damnificados, y expresa su solidaridad con los familiares de las víctimas y los desaparecidos”.
-
-“Asimismo, colabora en la máxima difusión del teléfono habilitado para la atención a familiares de personas desaparecidas: 900 365 112”, añadió.
-
-Decretan tres días de luto
---------------------------
-
-Estos comunicados se producen minutos después de que la Generalitat Valenciana, a través de la Dirección General de Deporte, anunciara que “no se celebrarán competiciones deportivas” durante los **tres días de luto oficiales anunciados por el Gobierno de España**, que incluyen este jueves 31, el viernes 1 de noviembre y el sábado 2.
-
-Esta medida está contemplada “en señal de duelo y solidaridad con las víctimas y sus familias” tras esa declaración de luto oficial para toda España y **como consecuencia de los al menos 92 fallecidos por la Dana** en la provincia de Valencia, a raíz de un temporal que ha azotado la zona desde este martes.
-
-El temporal ya ha provocado el aplazamiento de hasta siete partidos de la primera ronda de la Copa del Rey, previstos para este miércoles o jueves: Parla Escuela vs. Valencia, Pontevedra vs. Levante, Ejea vs. Hércules, Manises vs. Getafe, Xerez vs. Ceuta, Chiclana vs. Osasuna y Jove Español vs. Real Sociedad. 
-
-San viernes – Especial de Halloween
------------------------------------
-
-Organizaciones sociales marcharon en Quito por la crisis energética
-===================================================================
-
-Organizaciones sociales protagonizaron una marcha en el centro de Quito por la crisis energética que vive el país.
-------------------------------------------------------------------------------------------------------------------
-
-![En Quito se registró una manifestación hacia el Centro de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2-7.jpg)
-
-Este **jueves 31 de octubre**, **organizaciones sociales y ciudadanos** protagonizaron una marcha en el centro de Quito para expresar su descontento frente a las **políticas del Gobierno**, especialmente en relación con la a**ctual crisis energética** que afecta a gran parte del país.
-
-### Más noticias
-
-* [Policía despliega efectivos para seguridad de candidatos presidenciales](https://www.elcomercio.com/actualidad/politica/policia-despliega-efectivos-para-seguridad-candidatos-presidenciales.html "Policía despliega efectivos para seguridad de candidatos presidenciales")
-* [Daniel Noboa amplió los meses de descuento del valor de las planillas de luz](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-amplio-tiempo-rebaja-valor-planillas-de-luz.html "Daniel Noboa amplió los meses de descuento del valor de las planillas de luz")
-* [Daniel Noboa emitió otro veto total en menos de una semana](https://www.elcomercio.com/actualidad/politica/daniel-noboa-otro-veto-total-semana.html "Daniel Noboa emitió otro veto total en menos de una semana")
-
-La movilización recorrió la avenida 10 de Agosto y se dirigió hacia el **Palacio de Carondelet**, aunque no lograron acceder al sitio debido a la presencia de **vallas metálicas en la Plaza Grande**.
-
-Desde la mañana, cientos de personas, **portando carteles y banderas,** se concentraron en varios puntos de la capital, uniéndose poco a poco en una sola marcha que avanzó de **manera ordenada**.
-
-> [#AlertaPanas](https://twitter.com/hashtag/AlertaPanas?src=hash&ref_src=twsrc%5Etfw)  
-> En estos momentos la marcha, avanza por la calle Guayaquil, centro histórico de Quito, en dirección hacia la plaza de Santo Domingo, donde se realizará la concentración respectiva [pic.twitter.com/PHjcvKvidr](https://t.co/PHjcvKvidr)
-> 
-> — Only Panas (@onlypanasec) [October 31, 2024](https://twitter.com/onlypanasec/status/1852037257575727590?ref_src=twsrc%5Etfw)
-
-Imágenes y videos difundidos en **redes sociales**, especialmente en cuentas de la **plataforma X**, mostraron cómo los manifestantes avanzaron por las calles. **Agentes de tránsito** y de la **Policía Nacional** custodiaban el recorrido.
-
-Crisis energética, principal razón de las movilizaciones
---------------------------------------------------------
-
-La protesta se centró en la **crisis energética** que actualmente afecta al país, una situación que ha **generado múltiples** apagones en distintas provincias y que ha sido motivo de preocupación y malestar en la ciudadanía.
-
-> [#Ecuador](https://twitter.com/hashtag/Ecuador?src=hash&ref_src=twsrc%5Etfw)🔴[#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw)  
->   
-> Multitudinaria manifestación en contra del [#Noboa](https://twitter.com/hashtag/Noboa?src=hash&ref_src=twsrc%5Etfw) y el desastre eléctrico y económico al que llevó al país. Decenas de sectores sociales iniciaron la marcha desde la Universidad Central hacia el [#CentroHistórico](https://twitter.com/hashtag/CentroHist%C3%B3rico?src=hash&ref_src=twsrc%5Etfw) de [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw)  
->   
-> 📹[@RedKapari](https://twitter.com/RedKapari?ref_src=twsrc%5Etfw)[pic.twitter.com/3HIu9SpTqr](https://t.co/3HIu9SpTqr)
-> 
-> — Antisana Media Online📰 (@AntisanaNews) [October 31, 2024](https://twitter.com/AntisanaNews/status/1852063450739982592?ref_src=twsrc%5Etfw)
-
-Carteles y pancartas con mensajes de rechazo a los **cortes de energía** fueron recurrentes en las imágenes de la marcha. Pese a que este 31 de octubre se **decretó feriado**, las personas lo tomaron para salir a manifestar en las calles.
-
-En varios videos compartidos en **redes sociales**, se observa cómo los manifestantes alcanzaron los alrededores de la **Plaza Grande**. En este lugar donde se concentraron tras encontrarse con el cerco de seguridad que limitaba el acceso hacia **Carondelet**.
-
-La crisis energética se ha convertido en uno de los problemas más críticos para el país en las últimas semanas, impulsando este tipo de movilizaciones.
-
-La agenda de conciertos para este 31 de octubre de 2024 en Quito
-================================================================
-
-Tres conciertos se realizarán en Quito este 31 de octubre de 2024.
-------------------------------------------------------------------
-
-![Música para diferentes gustos sonará este 31 de octubre de 2024 en Quito. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-31T152325.081.jpg)
-
-**Octubre** llega a su fin y su último día contempla una serie de **conciertos**. Los shows se cumplirán en diferentes centros culturales de **Quito**. 
-
-### **Más noticias:**
-
-* [Liam Payne y la controversia de la ‘cocaína rosa’](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html")
-* [Fans de Luis Miguel recuperan la calma luego de un sustazo](https://www.elcomercio.com/tendencias/entretenimiento/luis-miguel-fans-susto-conciertos-salud.html "https://www.elcomercio.com/tendencias/entretenimiento/luis-miguel-fans-susto-conciertos-salud.html")
-* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html?source=Internal&ref=Single+Content+Link")
-
-**La agenda de conciertos para este 31 de octubre de 2024 en Quito**
---------------------------------------------------------------------
-
-### **Sinfonía macabra en Quito**
-
-Este 31 de octubre, la Orquesta Joven del Ecuador sumergirá a los espectadores en el terror cinematográfico. Lo hará a través de las inolvidables bandas sonoras de clásicos como Psycho, Jaws y Ghostbusters. La cita es en el **Teatro Prometeo**.
-
-> [View this post on Instagram](https://www.instagram.com/p/DBSViSsvcdW/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Orquesta Joven del Ecuador (@orquestajovenec)](https://www.instagram.com/p/DBSViSsvcdW/?utm_source=ig_embed&utm_campaign=loading)
-
-### **Música en el Teatro Variedades**
-
-‘Para qué tuviste madre, **canciones** para morirse’ se llama el concierto, encabezado por Margarita Laso, y previsto para este 31 de **octubre**, a las 19:00. En el repertorio habrá música ecuatoriana y latinoamericana. 
-
-> [View this post on Instagram](https://www.instagram.com/reel/DBRl4pvI3I4/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by TeatroVariedades (@teatrovariedades)](https://www.instagram.com/reel/DBRl4pvI3I4/?utm_source=ig_embed&utm_campaign=loading)
-
-### **Vallenatos en la Plaza de Toros**
-
-Los colombianos **Silvestre Dangond y Luis Alfonso** se presentarán este 31 de octubre en Quito. El punto de encuentro será en la Plaza de Toros.
-
-> [View this post on Instagram](https://www.instagram.com/reel/DBXfTKtvv-c/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Premios Billboard (@latinbillboards)](https://www.instagram.com/reel/DBXfTKtvv-c/?utm_source=ig_embed&utm_campaign=loading)
-
-Luis Alfonso compartió algunas historias en **Instagram** tras su llegada a Quito. “Vean pues este diluvio que está cayendo. ¿Si escuchan los rayos?”.
+Playas, iglesias, **cementerios** y ejes viales son los puntos que tendrán mayores refuerzos durante el feriado. A la presencia policial se suma equipos, como motocicletas, aeronaves y ambulancias.
