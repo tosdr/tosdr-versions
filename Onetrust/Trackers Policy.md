@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
-* [Overcoming the privacy pitfalls of GenAI](https://www.onetrust.com/resources/overcoming-the-privacy-pitfalls-of-genai-webinar/)
-* [Revisiting IAPP DPC 2024: Top trends on the latest data protection developments](https://www.onetrust.com/resources/revisiting-iapp-dpc-2024-top-trends-on-the-latest-data-protection-developments-webinar/)
-* [Staying equipped for compliance: A global recap of emerging privacy laws](https://www.onetrust.com/resources/staying-equipped-for-compliance-a-global-recap-of-emerging-privacy-laws-webinar/)
+* [Explore the future of regulatory intelligence: A DataGuidance demo](https://www.onetrust.com/resources/explore-the-future-of-regulatory-intelligence-a-dataguidance-demo-webinar/)
+* [Navigating data sharing challenges](https://www.onetrust.com/resources/navigating-data-sharing-challenges-webinar/)
+* [The business value of consent and preferences](https://www.onetrust.com/resources/business-value-of-consent-and-preferences-white-paper/)
 
 ### Platform
 
