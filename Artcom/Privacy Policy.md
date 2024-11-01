@@ -10,15 +10,7 @@ My Account
 
 Cancel
 
-[Gift Guide](https://www.art.com/gift-guide/holiday "Gift Guide")
-
-[Frame My Photos](https://www.art.com/lp/frame-my-photos "Frame My Photos")
-
-[Style Guide 2024](https://www.art.com/lp/style-guide "Style Guide 2024")
-
-[New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm "New Arrivals")
-
-[Best Sellers](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm "Best Sellers")
+[Gift Guide](https://www.art.com/gift-guide/holiday "Gift Guide")[Frame My Photos](https://www.art.com/lp/frame-my-photos "Frame My Photos")[Style Guide 2024](https://www.art.com/lp/style-guide "Style Guide 2024")[New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm "New Arrivals")[Best Sellers](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm "Best Sellers")
 
 [by Art Movement](https://www.art.com/gallery/id--c207103/movement-prints.htm "by Art Movement")
 
@@ -829,7 +821,7 @@ Art.com
 
 Indianapolis, IN 46268
 
-![Logo](/mobify/bundle/837/static/img/logo.svg)
+![Logo](/mobify/bundle/853/static/img/logo.svg)
 
 World's largest selection of art
 
