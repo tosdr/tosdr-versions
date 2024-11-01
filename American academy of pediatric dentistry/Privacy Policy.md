@@ -27,7 +27,7 @@
         [The Latest from HQ](https://www.aapd.org/link/40d8c9bbe1d84ae893138470f9496fb1.aspx)
     * ###### Get Involved
         
-        [AAPD Foundation](https://aapdfoundation.org/?dt=638659792929995495)
+        [AAPD Foundation](https://aapdfoundation.org/?dt=638660008888217793)
     
 * [Resources](https://www.aapd.org/resources/resources/) [Toggle expand sub-navigation items](#)
     
@@ -89,7 +89,7 @@
     
     * ###### Oral Health Policies & Recommendations (The Reference Manual of Pediatric Dentistry)
         
-        [2024-2025 'Official but Unformatted' now available](https://www.aapd.org/research/oral-health-policies--recommendations/2018-2019-now-available/)
+        [2024-2025 Now Available](https://www.aapd.org/research/oral-health-policies--recommendations/2018-2019-now-available/)
     * ###### Journals
         
         [Impact Factors Now Available](https://www.aapd.org/link/a5b24eb5b6e24f55b5a27bca18f1e402.aspx)
