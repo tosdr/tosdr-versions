@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs IND - Live](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-tour-of-india-2024 "New Zealand v India, 3rd Test - Live")[SYTW vs ADSW - Live](https://www.cricbuzz.com/live-cricket-scores/101288/sytw-vs-adsw-8th-match-womens-big-bash-league-2024 "Sydney Thunder Women v Adelaide Strikers Women, 8th Match - Live")[INDA vs AUSA - Stumps](https://www.cricbuzz.com/live-cricket-scores/96530/inda-vs-ausa-1st-unofficial-test-india-a-tour-of-australia-2024 "India A v Australia A, 1st unofficial Test - Stumps")[UAE vs OMAN - Live](https://www.cricbuzz.com/live-cricket-scores/108921/uae-vs-oman-41st-match-icc-cricket-world-cup-league-two-2023-27 "United Arab Emirates v Oman, 41st Match - Live")[ENG vs WI - WI Won](https://www.cricbuzz.com/live-cricket-scores/95142/eng-vs-wi-1st-odi-england-tour-of-west-indies-2024 "England v West Indies, 1st ODI - WI Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs IND - Stumps](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-tour-of-india-2024 "New Zealand v India, 3rd Test - Stumps")[UAE vs OMAN - Complete](https://www.cricbuzz.com/live-cricket-scores/108921/uae-vs-oman-41st-match-icc-cricket-world-cup-league-two-2023-27 "United Arab Emirates v Oman, 41st Match - Complete")[MLSW vs SYSW - MLSW Won](https://www.cricbuzz.com/live-cricket-scores/101294/mlsw-vs-sysw-9th-match-womens-big-bash-league-2024 "Melbourne Stars Women v Sydney Sixers Women, 9th Match - MLSW Won")[SYTW vs ADSW - SYTW Won](https://www.cricbuzz.com/live-cricket-scores/101288/sytw-vs-adsw-8th-match-womens-big-bash-league-2024 "Sydney Thunder Women v Adelaide Strikers Women, 8th Match - SYTW Won")[INDA vs AUSA - Stumps](https://www.cricbuzz.com/live-cricket-scores/96530/inda-vs-ausa-1st-unofficial-test-india-a-tour-of-australia-2024 "India A v Australia A, 1st unofficial Test - Stumps")
 
 AllLive NowToday
 
@@ -56,7 +56,7 @@ AllLive NowToday
     
     New Zealand v India 2024
     
-    [New Zealand vs India  LIVE](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-v-india-2024 "New Zealand v India, 3rd Test - Live")
+    [New Zealand vs India](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-v-india-2024 "New Zealand v India, 3rd Test - Stumps")
     
     3rd Test
     
@@ -82,7 +82,7 @@ AllLive NowToday
     
     40th Match
     
-* [United Arab Emirates vs Oman  LIVE](https://www.cricbuzz.com/live-cricket-scores/108921/uae-vs-oman-41st-match-icc-cwc-league-two-2023-27 "United Arab Emirates v Oman, 41st Match - Live")
+* [United Arab Emirates vs Oman](https://www.cricbuzz.com/live-cricket-scores/108921/uae-vs-oman-41st-match-icc-cwc-league-two-2023-27 "United Arab Emirates v Oman, 41st Match - Complete")
     
     41st Match
     
@@ -102,17 +102,17 @@ AllLive NowToday
     
     1st Match
     
-* [Warriors vs North West](https://www.cricbuzz.com/live-cricket-scores/104740/war-vs-nwest-3rd-match-csa-four-day-series-division-one-2024-25 "Warriors v North West, 3rd Match - Stumps")
-    
-    3rd Match
-    
 * [Knights vs Boland](https://www.cricbuzz.com/live-cricket-scores/104738/kng-vs-bol-2nd-match-csa-four-day-series-division-one-2024-25 "Knights v Boland, 2nd Match - Stumps")
     
     2nd Match
     
+* [Warriors vs North West](https://www.cricbuzz.com/live-cricket-scores/104740/war-vs-nwest-3rd-match-csa-four-day-series-division-one-2024-25 "Warriors v North West, 3rd Match - Stumps")
+    
+    3rd Match
+    
 * Sheffield Shield 2024-25
     
-    [Tasmania vs Western Australia  LIVE](https://www.cricbuzz.com/live-cricket-scores/102882/tas-vs-wa-8th-match-sheffield-shield-2024-25 "Tasmania v Western Australia, 8th Match - Live")
+    [Tasmania vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/102882/tas-vs-wa-8th-match-sheffield-shield-2024-25 "Tasmania v Western Australia, 8th Match - Stumps")
     
     8th Match
     
@@ -120,7 +120,7 @@ AllLive NowToday
     
     7th Match
     
-* [South Australia vs Victoria  LIVE](https://www.cricbuzz.com/live-cricket-scores/102889/saus-vs-vic-9th-match-sheffield-shield-2024-25 "South Australia v Victoria, 9th Match - Live")
+* [South Australia vs Victoria](https://www.cricbuzz.com/live-cricket-scores/102889/saus-vs-vic-9th-match-sheffield-shield-2024-25 "South Australia v Victoria, 9th Match - Stumps")
     
     9th Match
     
@@ -132,11 +132,7 @@ AllLive NowToday
     
 * The Ford Trophy 2024-25
     
-    [Otago vs Wellington](https://www.cricbuzz.com/live-cricket-scores/107331/otg-vs-wel-15th-match-the-ford-trophy-2024-25 "Otago v Wellington, 15th Match - Upcoming")
-    
-    15th Match
-    
-* [Northern Knights vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107323/nk-vs-akl-14th-match-the-ford-trophy-2024-25 "Northern Knights v Auckland, 14th Match - Upcoming")
+    [Northern Knights vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107323/nk-vs-akl-14th-match-the-ford-trophy-2024-25 "Northern Knights v Auckland, 14th Match - Upcoming")
     
     14th Match
     
@@ -144,33 +140,33 @@ AllLive NowToday
     
     13th Match
     
+* [Otago vs Wellington](https://www.cricbuzz.com/live-cricket-scores/107331/otg-vs-wel-15th-match-the-ford-trophy-2024-25 "Otago v Wellington, 15th Match - Upcoming")
+    
+    15th Match
+    
 * CSA Four-Day Series Division Two 2024-25
     
-    [South Western Districts vs Border](https://www.cricbuzz.com/live-cricket-scores/104314/swd-vs-bor-1st-match-csa-four-day-series-division-two-2024-25 "South Western Districts v Border, 1st Match - Stumps")
-    
-    1st Match
-    
-* [Limpopo vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/104322/limpo-vs-estorm-2nd-match-csa-four-day-series-division-two-2024-25 "Limpopo v Eastern Storm, 2nd Match - Stumps")
+    [Limpopo vs Eastern Storm  LIVE](https://www.cricbuzz.com/live-cricket-scores/104322/limpo-vs-estorm-2nd-match-csa-four-day-series-division-two-2024-25 "Limpopo v Eastern Storm, 2nd Match - Live")
     
     2nd Match
+    
+* [South Western Districts vs Border  LIVE](https://www.cricbuzz.com/live-cricket-scores/104314/swd-vs-bor-1st-match-csa-four-day-series-division-two-2024-25 "South Western Districts v Border, 1st Match - Live")
+    
+    1st Match
     
 * WOMEN
     
     WBBL 2024
     
-    [Brisbane Heat Women vs Melbourne Renegades Women](https://www.cricbuzz.com/live-cricket-scores/101277/brhw-vs-mlrw-6th-match-wbbl-2024 "Brisbane Heat Women v Melbourne Renegades Women, 6th Match - BRHW Won")
-    
-    6th Match
-    
-* [Sydney Thunder Women vs Hobart Hurricanes Women](https://www.cricbuzz.com/live-cricket-scores/101286/sytw-vs-hbhw-7th-match-wbbl-2024 "Sydney Thunder Women v Hobart Hurricanes Women, 7th Match - SYTW Won")
+    [Sydney Thunder Women vs Hobart Hurricanes Women](https://www.cricbuzz.com/live-cricket-scores/101286/sytw-vs-hbhw-7th-match-wbbl-2024 "Sydney Thunder Women v Hobart Hurricanes Women, 7th Match - SYTW Won")
     
     7th Match
     
-* [Sydney Thunder Women vs Adelaide Strikers Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/101288/sytw-vs-adsw-8th-match-wbbl-2024 "Sydney Thunder Women v Adelaide Strikers Women, 8th Match - Live")
+* [Sydney Thunder Women vs Adelaide Strikers Women](https://www.cricbuzz.com/live-cricket-scores/101288/sytw-vs-adsw-8th-match-wbbl-2024 "Sydney Thunder Women v Adelaide Strikers Women, 8th Match - SYTW Won")
     
     8th Match
     
-* [Sydney Sixers Women vs Melbourne Stars Women](https://www.cricbuzz.com/live-cricket-scores/101294/sysw-vs-mlsw-9th-match-wbbl-2024 "Sydney Sixers Women v Melbourne Stars Women, 9th Match - Preview")
+* [Melbourne Stars Women vs Sydney Sixers Women](https://www.cricbuzz.com/live-cricket-scores/101294/mlsw-vs-sysw-9th-match-wbbl-2024 "Melbourne Stars Women v Sydney Sixers Women, 9th Match - MLSW Won")
     
     9th Match
     
@@ -192,27 +188,17 @@ AllLive NowToday
     
 * Kenya Women tour of Rwanda 2024
     
-    [Kenya Women vs Rwanda Women](https://www.cricbuzz.com/live-cricket-scores/109285/kenw-vs-rwaw-2nd-t20i-kenya-women-tour-of-rwanda-2024 "Kenya Women v Rwanda Women, 2nd T20I - KENW Won")
-    
-    2nd T20I
-    
-* [Rwanda Women vs Kenya Women](https://www.cricbuzz.com/live-cricket-scores/109292/rwaw-vs-kenw-3rd-t20i-kenya-women-tour-of-rwanda-2024 "Rwanda Women v Kenya Women, 3rd T20I - RWAW Won")
+    [Rwanda Women vs Kenya Women](https://www.cricbuzz.com/live-cricket-scores/109292/rwaw-vs-kenw-3rd-t20i-kenya-women-tour-of-rwanda-2024 "Rwanda Women v Kenya Women, 3rd T20I - RWAW Won")
     
     3rd T20I
     
-* [Rwanda Women vs Kenya Women](https://www.cricbuzz.com/live-cricket-scores/109299/rwaw-vs-kenw-4th-t20i-kenya-women-tour-of-rwanda-2024 "Rwanda Women v Kenya Women, 4th T20I - Upcoming")
+* [Rwanda Women vs Kenya Women](https://www.cricbuzz.com/live-cricket-scores/109299/rwaw-vs-kenw-4th-t20i-kenya-women-tour-of-rwanda-2024 "Rwanda Women v Kenya Women, 4th T20I - Preview")
     
     4th T20I
     
-* [Rwanda Women vs Kenya Women](https://www.cricbuzz.com/live-cricket-scores/109306/rwaw-vs-kenw-5th-t20i-kenya-women-tour-of-rwanda-2024 "Rwanda Women v Kenya Women, 5th T20I - Upcoming")
+* [Rwanda Women vs Kenya Women](https://www.cricbuzz.com/live-cricket-scores/109306/rwaw-vs-kenw-5th-t20i-kenya-women-tour-of-rwanda-2024 "Rwanda Women v Kenya Women, 5th T20I - Preview")
     
     5th T20I
-    
-* Singapore Womens T20I Tri-Series, 2024
-    
-    [Kuwait Women vs Myanmar Women](https://www.cricbuzz.com/live-cricket-scores/108889/kuww-vs-mmrw-final-singapore-womens-t20i-tri-series-2024 "Kuwait Women v Myanmar Women, Final - MMRW Won")
-    
-    Final
     
 
 Privacy Policy
@@ -521,41 +507,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132300/georgia-volls-92-headlines-thunders-sizzling-win "Georgia Voll's 92 headlines Thunder's sizzling win")
+
+[Georgia Voll's 92 headlines Thunder's sizzling win](https://www.cricbuzz.com/cricket-news/132300/georgia-volls-92-headlines-thunders-sizzling-win "Georgia Voll's 92 headlines Thunder's sizzling win")
+
+1h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132299/new-zealand-claw-back-with-late-wickets-on-topsy-turvy-day "NZ claw back with late wickets on topsy-turvy day")
+
+[NZ claw back with late wickets on topsy-turvy day](https://www.cricbuzz.com/cricket-news/132299/new-zealand-claw-back-with-late-wickets-on-topsy-turvy-day "NZ claw back with late wickets on topsy-turvy day")
+
+1h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132298/mukesh-kumars-six-fer-padikkal-sudharsan-stand-put-india-a-on-top "Mukesh Kumar's six-fer, Padikkal-Sudharsan stand put India A on top")
+
+[Mukesh Kumar's six-fer, Padikkal-Sudharsan stand put India A on top](https://www.cricbuzz.com/cricket-news/132298/mukesh-kumars-six-fer-padikkal-sudharsan-stand-put-india-a-on-top "Mukesh Kumar's six-fer, Padikkal-Sudharsan stand put India A on top")
+
+2h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132297/jadeja-pegs-back-new-zealand-after-young-mitchell-fifties "Jadeja keeps India in front amidst Young, Mitchell fifties")
+
+[Jadeja keeps India in front amidst Young, Mitchell fifties](https://www.cricbuzz.com/cricket-news/132297/jadeja-pegs-back-new-zealand-after-young-mitchell-fifties "Jadeja keeps India in front amidst Young, Mitchell fifties")
+
+4h ago
+
   [](https://www.cricbuzz.com/cricket-news/132296/australia-confirm-schedule-for-sri-lanka-tour "Australia confirm schedule for Sri Lanka tour")
 
 [Australia confirm schedule for Sri Lanka tour](https://www.cricbuzz.com/cricket-news/132296/australia-confirm-schedule-for-sri-lanka-tour "Australia confirm schedule for Sri Lanka tour")
 
-22m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132295/sundars-twin-strikes-nullify-nzs-steady-start "Sundar's twin strikes nullify NZ's steady start")
 
 [Sundar's twin strikes nullify NZ's steady start](https://www.cricbuzz.com/cricket-news/132295/sundars-twin-strikes-nullify-nzs-steady-start "Sundar's twin strikes nullify NZ's steady start")
 
-54m ago
-
-  [](https://www.cricbuzz.com/cricket-news/132294/motie-lewis-star-as-west-indies-go-1-0-up "Motie, Lewis star as West Indies go 1-0 up")
-
-[Motie, Lewis star as West Indies go 1-0 up](https://www.cricbuzz.com/cricket-news/132294/motie-lewis-star-as-west-indies-go-1-0-up "Motie, Lewis star as West Indies go 1-0 up")
-
-3h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132293/ipl-retentions-startling-calls-tough-negotiations-and-a-surprising-surplus "IPL retentions: Startling calls, tough negotiations and a surprising surplus")
-
-[IPL retentions: Startling calls, tough negotiations and a surprising surplus](https://www.cricbuzz.com/cricket-news/132293/ipl-retentions-startling-calls-tough-negotiations-and-a-surprising-surplus "IPL retentions: Startling calls, tough negotiations and a surprising surplus")
-
-12h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132292/the-vast-distances-and-several-time-zones-of-crickets-brave-new-world "The vast distances and several time zones of cricket's brave new world")
-
-[The vast distances and several time zones of cricket's brave new world](https://www.cricbuzz.com/cricket-news/132292/the-vast-distances-and-several-time-zones-of-crickets-brave-new-world "The vast distances and several time zones of cricket's brave new world")
-
-15h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132291/stokes-buttler-sign-two-year-central-contracts-with-ecb "Stokes, Buttler sign two-year central contracts with ECB")
-
-[Stokes, Buttler sign two-year central contracts with ECB](https://www.cricbuzz.com/cricket-news/132291/stokes-buttler-sign-two-year-central-contracts-with-ecb "Stokes, Buttler sign two-year central contracts with ECB")
-
-15h ago
+6h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
