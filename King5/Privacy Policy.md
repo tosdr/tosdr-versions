@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/349dc6c0-7b90-4486-95f1-36850b8c6374/20241101T020536/349dc6c0-7b90-4486-95f1-36850b8c6374_16x9.jpg) ![](https://media.king5.com/assets/KING/images/349dc6c0-7b90-4486-95f1-36850b8c6374/20241101T020536/349dc6c0-7b90-4486-95f1-36850b8c6374_360x203.jpg)](https://www.king5.com/article/news/crime/man-arrested-belltown-crash-seattle/281-32fa02e4-5663-4daa-b014-2191f4717325)
+    *  [![](https://media.king5.com/assets/KING/images/f8b38c65-3eaf-4a0c-8878-c61efe938884/20241101T064039/f8b38c65-3eaf-4a0c-8878-c61efe938884_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f8b38c65-3eaf-4a0c-8878-c61efe938884/20241101T064039/f8b38c65-3eaf-4a0c-8878-c61efe938884_360x203.jpg)](https://www.king5.com/article/news/local/seattle-mayor-approves-new-music-venue-parking-permits-ease-burden-artists/281-9f414961-72e7-4294-b6ec-5eca842dff3d)
         
-        #### [Man suspected of previous eluding incidents runs red light, crashes in Belltown](https://www.king5.com/article/news/crime/man-arrested-belltown-crash-seattle/281-32fa02e4-5663-4daa-b014-2191f4717325)
+        #### [Seattle mayor signs off on new music venue parking permits to ease burden on artists](https://www.king5.com/article/news/local/seattle-mayor-approves-new-music-venue-parking-permits-ease-burden-artists/281-9f414961-72e7-4294-b6ec-5eca842dff3d)
         
-    *  [![](https://media.king5.com/assets/KING/images/6be4822e-ff72-4492-81fe-5023e3de8d77/20241101T003337/6be4822e-ff72-4492-81fe-5023e3de8d77_16x9.jpg) ![](https://media.king5.com/assets/KING/images/6be4822e-ff72-4492-81fe-5023e3de8d77/20241101T003337/6be4822e-ff72-4492-81fe-5023e3de8d77_360x203.jpg)](https://www.king5.com/article/news/local/businesses-parkland-road-closure-loss-of-customers/281-ee43a35b-205f-4218-a50d-31385f957c0e)
+    *  [![](https://media.king5.com/assets/KING/images/bc8acdc6-09bc-438c-8b12-534073ca403f/20241030T061015/bc8acdc6-09bc-438c-8b12-534073ca403f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bc8acdc6-09bc-438c-8b12-534073ca403f/20241030T061015/bc8acdc6-09bc-438c-8b12-534073ca403f_360x203.jpg)](https://www.king5.com/article/news/politics/elections/bellevue-woman-got-16-ballots-in-mail-to-her-apartment-number/281-5e559bb3-dbab-483d-8951-bfca8247b1ab)
         
-        #### [Businesses in Parkland say a road closure is causing a loss of customers, creating worry for the future](https://www.king5.com/article/news/local/businesses-parkland-road-closure-loss-of-customers/281-ee43a35b-205f-4218-a50d-31385f957c0e)
+        #### [Bellevue woman receives 16 ballots addressed to her apartment number with different names](https://www.king5.com/article/news/politics/elections/bellevue-woman-got-16-ballots-in-mail-to-her-apartment-number/281-5e559bb3-dbab-483d-8951-bfca8247b1ab)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/54737f43-efed-4af6-94c7-a69d319ca4a6/20241031T194725/54737f43-efed-4af6-94c7-a69d319ca4a6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/54737f43-efed-4af6-94c7-a69d319ca4a6/20241031T194725/54737f43-efed-4af6-94c7-a69d319ca4a6_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/f055c4cf-a27b-4a61-8c74-51c01f2bf517/20241101T052504/f055c4cf-a27b-4a61-8c74-51c01f2bf517_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f055c4cf-a27b-4a61-8c74-51c01f2bf517/20241101T052504/f055c4cf-a27b-4a61-8c74-51c01f2bf517_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-48°
+47°
 
 ![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
