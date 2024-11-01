@@ -24,9 +24,9 @@ FitJoy Foods [![FitJoy Foods](//fitjoyfoods.com/cdn/shop/files/IT_S_A_SNACK_7.pn
     
     Quick shop
     
-    [![](//fitjoyfoods.com/cdn/shop/files/14_fee386f6-fe18-4840-8bd3-dba0f7dc6676.png?v=1689002788&width=900)
+    [![](//fitjoyfoods.com/cdn/shop/files/1_d3667d5f-0543-4555-b888-5ccfdeeba6f4.png?v=1730466511&width=900)
     
-    ![](//fitjoyfoods.com/cdn/shop/files/16_33db3e3f-13d1-43ef-849d-c2488ab4d152.png?v=1689002788&width=1000)
+    ![](//fitjoyfoods.com/cdn/shop/files/2_f6a80a63-c2c1-4f4e-8734-35028f92f8a7.png?v=1730466511&width=1000)
     
     Cheezy White Cheddar Cracker Rounds
     
@@ -56,7 +56,7 @@ Shipping, taxes, and discount codes calculated at checkout.
 
 Your cart is currently empty.
 
-* ![Products](//fitjoyfoods.com/cdn/shop/files/14_fee386f6-fe18-4840-8bd3-dba0f7dc6676.png?v=1689002788&width=2160)
+* ![Products](//fitjoyfoods.com/cdn/shop/files/1_d3667d5f-0543-4555-b888-5ccfdeeba6f4.png?v=1730466511&width=2160)
     
     Shop Expand submenu
     * Shop
