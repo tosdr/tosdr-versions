@@ -45,7 +45,7 @@ A **lock** ( Lock Locked padlock icon ) or **https://** means you’ve safely co
     
 * [News & Events](https://www.fcc.gov/news-events) [News & Events](https://www.fcc.gov/news-events)
     
-    [News and Events Overview](https://www.fcc.gov/news-events) [Headlines](https://www.fcc.gov/news-events/headlines) [Commission Meetings](https://www.fcc.gov/news-events/events/open-commission-meetings) [Events](https://www.fcc.gov/news-events/events) [Archived Events](https://www.fcc.gov/news-events/events/archived) [FCC Podcast](https://www.fcc.gov/news-events/podcast) [Notes from the FCC](https://www.fcc.gov/news-events/notes) [Press Resources](https://www.fcc.gov/press-resources) [FCC Blog](https://www.fcc.gov/news-events/blog) [RSS Feeds & Email Signup](https://www.fcc.gov/news-events/rss-feeds-and-email-updates-fcc) [October 2024 Open Commission Meeting](https://www.fcc.gov/october-2024-open-commission-meeting)
+    [News and Events Overview](https://www.fcc.gov/news-events) [Headlines](https://www.fcc.gov/news-events/headlines) [Commission Meetings](https://www.fcc.gov/news-events/events/open-commission-meetings) [Events](https://www.fcc.gov/news-events/events) [Archived Events](https://www.fcc.gov/news-events/events/archived) [FCC Podcast](https://www.fcc.gov/news-events/podcast) [Notes from the FCC](https://www.fcc.gov/news-events/notes) [Press Resources](https://www.fcc.gov/press-resources) [FCC Blog](https://www.fcc.gov/news-events/blog) [RSS Feeds & Email Signup](https://www.fcc.gov/news-events/rss-feeds-and-email-updates-fcc) [November 2024 Open Commission Meeting](https://www.fcc.gov/november-2024-open-commission-meeting)
     
 * [For Consumers](https://www.fcc.gov/consumers) [For Consumers](https://www.fcc.gov/consumers)
     
