@@ -347,13 +347,13 @@ Drop your number in the comments! 👇 I’m at 20 cities (and counting)!
 
 [Bucket List Ideas](https://bucketlistjourney.net/category/bucket-list-ideas/)  
 [Travel Tips](https://bucketlistjourney.net/category/travel-tips/)  
-[Motivation](https://bucketlistjourney.net/category/motivation/)
+[Bucket List Tools](https://bucketlistjourney.net/category/bucket-list-tips/)
 
 ### DESTINATIONS
 
 [World Travel](https://bucketlistjourney.net/travel-bucket-list-destinations/)  
 [USA Travel](https://bucketlistjourney.net/category/destinations/united-states/)  
-[California](https://bucketlistjourney.net/category/california-travel/)
+[California](https://bucketlistjourney.net/category/california/)
 
 © BUCKET LIST JOURNEY 2024 | ALL RIGHTS RESERVED | [GET IN TOUCH](https://bucketlistjourney.net/advertisesponsor__trashed/contact/) | [PRIVACY POLICY](https://bucketlistjourney.net/terms/)
 
