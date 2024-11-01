@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[Hallowheel 2024
+[Drop + Bees.Keys ZX CSTM80 Decorative Case
 
-You have until midnight to spin—and win
+A black-and-rainbow throwback.
 
-SPIN NOW
+Shop Now
 
-_keyboard\_arrow\_right_](https://drop.com/featured/hallowheel-2024)
+_keyboard\_arrow\_right_](https://drop.com/buy/drop-bees-keys-cstm80-zx-decorative-case)
 
 Free Standard Shipping in the US on orders over $99
 
@@ -23,32 +23,32 @@ SIGN UP
 
 SHOP
 
-[Shop All](https://drop.com/all-communities/drops)
+[Shop All](https://drop.com/all-communities/drops/newest)
 
 Mechanical Keyboards
 
-* [Shop All](https://drop.com/mechanical-keyboards/drops)
-* [Keyboards](https://drop.com/mechanical-keyboards/drops?sc=keyboards)
-* [Keycaps](https://drop.com/mechanical-keyboards/drops?sc=keycaps)
-* [Switches](https://drop.com/mechanical-keyboards/drops?sc=switches)
-* [Accessories](https://drop.com/mechanical-keyboards/drops?sc=keyboard-accessories)
+* [Shop All](https://drop.com/mechanical-keyboards/drops/newest)
+* [Keyboards](https://drop.com/mechanical-keyboards/drops/newest?sc=keyboards)
+* [Keycaps](https://drop.com/mechanical-keyboards/drops/newest?sc=keycaps)
+* [Switches](https://drop.com/mechanical-keyboards/drops/newest?sc=switches)
+* [Accessories](https://drop.com/mechanical-keyboards/drops/newest?sc=keyboard-accessories)
 
 Audiophile
 
-* [Shop All](https://drop.com/audiophile/drops)
-* [Headphones](https://drop.com/audiophile/drops?sc=headphones)
-* [Amps](https://drop.com/audiophile/drops?sc=amps)
-* [Speakers](https://drop.com/audiophile/drops?sc=speakers)
-* [Accessories](https://drop.com/audiophile/drops?sc=headphone-accessories)
+* [Shop All](https://drop.com/audiophile/drops/newest)
+* [Headphones](https://drop.com/audiophile/drops/newest?sc=headphones)
+* [Amps](https://drop.com/audiophile/drops/newest?sc=amps)
+* [Speakers](https://drop.com/audiophile/drops/newest?sc=speakers)
+* [Accessories](https://drop.com/audiophile/drops/newest?sc=headphone-accessories)
 
 Battlestations
 
 new
 
 * [Shop All](https://drop.com/battlestations/drops/newest)
-* [Desk Mats](https://drop.com/battlestations/drops?sc=deskmats)
-* [Lighting](https://drop.com/battlestations/drops?sc=lighting)
-* [Desk Accessories](https://drop.com/battlestations/drops?sc=desk-accessories)
+* [Desk Mats](https://drop.com/battlestations/drops/newest?sc=deskmats)
+* [Lighting](https://drop.com/battlestations/drops/newest?sc=lighting)
+* [Desk Accessories](https://drop.com/battlestations/drops/newest?sc=desk-accessories)
 
 Collections
 
