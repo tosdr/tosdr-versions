@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Left-to-right-Marquell-Davis-Edmund-Singleton-and-Ramone-Bradley.-Chicago-Police-Department--326x245.jpg)](https://cwbchicago.com/2024/10/feds-slap-3-men-with-carjacking-charges-2-face-the-possibility-of-life-in-prison.html "Feds slap 3 men with carjacking charges. 2 face the possibility of life in prison.")
+
+Douglas
+
+### [Feds slap 3 men with carjacking charges. 2 face the possibility of life in prison.](https://cwbchicago.com/2024/10/feds-slap-3-men-with-carjacking-charges-2-face-the-possibility-of-life-in-prison.html "Feds slap 3 men with carjacking charges. 2 face the possibility of life in prison.")
+
+[October 29, 2024 7:11 PM](https://cwbchicago.com/2024/10)
+
+Federal prosecutors on Tuesday slapped three men with carjacking charges, saying they took a man’s car at gunpoint from a Far South Side gas station. Two of the men are accused of trying to carjack another driver but they couldn’t figure out how to operate the victim’s vehicle.[](https://cwbchicago.com/2024/10/feds-slap-3-men-with-carjacking-charges-2-face-the-possibility-of-life-in-prison.html "Feds slap 3 men with carjacking charges. 2 face the possibility of life in prison.")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/PATRICK-H-SOMERVILLE-326x245.jpg)](https://cwbchicago.com/2024/10/man-followed-80-year-old-woman-into-lakeview-retirement-home-and-sexually-abused-her-prosecutors-allege.html "Man followed 80+ year old woman into Lakeview retirement home and sexually abused her, prosecutors allege")
+
+Lakeview
+
+### [Man followed 80+ year old woman into Lakeview retirement home and sexually abused her, prosecutors allege](https://cwbchicago.com/2024/10/man-followed-80-year-old-woman-into-lakeview-retirement-home-and-sexually-abused-her-prosecutors-allege.html "Man followed 80+ year old woman into Lakeview retirement home and sexually abused her, prosecutors allege")
+
+[October 29, 2024 4:17 PM](https://cwbchicago.com/2024/10)
+
+Prosecutors have accused a man of sexually abusing a woman more than 80 years old after following her into a Lakeview retirement center.[](https://cwbchicago.com/2024/10/man-followed-80-year-old-woman-into-lakeview-retirement-home-and-sexually-abused-her-prosecutors-allege.html "Man followed 80+ year old woman into Lakeview retirement home and sexually abused her, prosecutors allege")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/alert-suspects-chicago-326x245.jpg)](https://cwbchicago.com/2024/10/cops-hunt-crew-responsible-for-15-robberies-and-carjackings-of-pedestrians-couriers-and-uber-drivers.html "Cops hunt crew responsible for 15 robberies and carjackings of pedestrians, couriers, and Uber drivers")
 
 Auburn Gresham
@@ -252,26 +272,6 @@ Auburn Gresham
 [October 29, 2024 7:38 AM](https://cwbchicago.com/2024/10)
 
 Cops are on the lookout for a group responsible for at least 15 robberies and carjackings in Auburn Gresham. The group seems willing to rob just about anyone, mugging people on the street, robbing delivery couriers, and carjacking Uber drivers in a small corner of the neighborhood.[](https://cwbchicago.com/2024/10/cops-hunt-crew-responsible-for-15-robberies-and-carjackings-of-pedestrians-couriers-and-uber-drivers.html "Cops hunt crew responsible for 15 robberies and carjackings of pedestrians, couriers, and Uber drivers")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/ANDREW-C-BRIERLY-trump-326x245.jpg)](https://cwbchicago.com/2024/10/he-broke-145000-worth-of-trump-tower-windows-because-seeing-the-former-president-makes-him-do-it-police-say.html "He broke $145,000 worth of Trump Tower windows because seeing the former president ‘makes him do it,’ police say")
-
-River North
-
-### [He broke $145,000 worth of Trump Tower windows because seeing the former president ‘makes him do it,’ police say](https://cwbchicago.com/2024/10/he-broke-145000-worth-of-trump-tower-windows-because-seeing-the-former-president-makes-him-do-it-police-say.html "He broke $145,000 worth of Trump Tower windows because seeing the former president ‘makes him do it,’ police say")
-
-[October 29, 2024 3:43 AM](https://cwbchicago.com/2024/10)
-
-A man who twice broke windows at the Trump International Hotel & Tower this year, causing $145,000 in damage, told police that he does it whenever he sees the former president during a mental health episode, according to a Chicago police report.[](https://cwbchicago.com/2024/10/he-broke-145000-worth-of-trump-tower-windows-because-seeing-the-former-president-makes-him-do-it-police-say.html "He broke $145,000 worth of Trump Tower windows because seeing the former president ‘makes him do it,’ police say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/08/Generic-stand-edited-326x245.jpg)](https://cwbchicago.com/2024/10/man-shot-outside-edgewater-apartment-building.html "Man shot outside Edgewater apartment building")
-
-Edgewater
-
-### [Man shot outside Edgewater apartment building](https://cwbchicago.com/2024/10/man-shot-outside-edgewater-apartment-building.html "Man shot outside Edgewater apartment building")
-
-[October 28, 2024 8:32 PM](https://cwbchicago.com/2024/10)
-
-A 47-year-old man is in fair condition after being shot outside an Edgewater apartment building this afternoon, Chicago police said.[](https://cwbchicago.com/2024/10/man-shot-outside-edgewater-apartment-building.html "Man shot outside Edgewater apartment building")
 
 Search
 
