@@ -31,6 +31,127 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+En el Día de la Ecología, te presentamos ‘apps’ que debes considerar 
+=====================================================================
+
+En el Día Mundial de la Ecología, descubre cómo nuestras acciones impactan el medio ambiente.
+---------------------------------------------------------------------------------------------
+
+![El Día Mundial de la Ecología busca crear conciencia sobre la interrelación entre los seres vivos y su entorno. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Ecologia-aplicaciones.jpg)
+
+El 1 de noviembre se conmemora el **Día Mundial de la Ecología**, una efeméride que busca **resaltar la importancia de la ecología** como disciplina científica y **fomentar la conciencia sobre la necesidad de cuidar nuestro entorno**.  
+
+### Más noticias
+
+* [La inteligencia artificial como socia en la batalla contra el cambio climático](https://www.elcomercio.com/tendencias/ambiente/inteligencia-artificial-cambio-climatico-efemeride.html "https://www.elcomercio.com/tendencias/ambiente/inteligencia-artificial-cambio-climatico-efemeride.html") 
+* [¿Por qué es importante sumarse al Día Mundial sin Auto?](https://elcomercio.com/tendencias/ambiente/dia-mundial-auto-efemeride-ecologia.html "https://elcomercio.com/tendencias/ambiente/dia-mundial-auto-efemeride-ecologia.html")
+
+Esta celebración tiene sus raíces en el deseo de **promover una relación armoniosa entre los seres vivos y su medio ambiente**, así como reconocer el trabajo de los ecólogos en la **preservación de la biodiversidad**. 
+
+**Origen y significado del Día Mundial de la Ecología** 
+--------------------------------------------------------
+
+La historia del **Día Mundial de la Ecología** se remonta a 1869, cuando el naturalista alemán **Ernst Haeckel** acuñó el término “ecología”, derivado del griego “oikos” (hogar) y “logos” (estudio), según [Parques Nacionales de Colombia](https://old.parquesnacionales.gov.co/portal/es/hoy-1-de-noviembre-se-celebra-el-dia-mundial-de-la-ecologia/ "https://old.parquesnacionales.gov.co/portal/es/hoy-1-de-noviembre-se-celebra-el-dia-mundial-de-la-ecologia/"). 
+
+Este día se estableció para **crear conciencia sobre las interrelaciones entre los seres vivos y su entorno**, al enfatizar la necesidad urgente de **mantener un equilibrio ecológico**.  
+
+Cada año, esta fecha nos recuerda que nuestras acciones tienen un impacto directo en el medio ambiente. 
+
+La celebración del 1 de noviembre implica un componente académico que r**econoce a la ecología como ciencia fundamental**. Además, promueve un **activismo global** para concientizar a las comunidades sobre los **problemas ambientales actuales**, como la **pérdida de biodiversidad y el cambio climático.**  
+
+**Importancia de la ecología**  
+--------------------------------
+
+La ecología no solo se ocupa del **estudio de los ecosistemas naturales**, sino también de **cómo nuestras actividades cotidianas afectan el medio ambiente**. La interrelación entre los seres humanos y su entorno es crucial para entender **cómo podemos vivir en armonía con la naturaleza**. La ecología abarca diversas ramas, desde la ecología humana hasta la ecología de comunidades, cada una enfocándose en diferentes aspectos de estas relaciones.  
+
+La ecología se ha vuelto esencial en el contexto actual, donde **el crecimiento demográfico y el consumo excesivo amenazan los recursos naturales**. Se prevé que para 2050, **más del 50% de los ecosistemas naturales podrían perderse** si no se toman medidas efectivas, siguiendo con Parque Nacionales de Colombia.  
+
+**Consejos prácticos para ser ecológicos desde casa** 
+------------------------------------------------------
+
+Adoptar **prácticas ecológicas** no requiere cambios drásticos. Aquí hay algunos ‘tips’ útiles que puedes implementar desde tu hogar: 
+
+* **Separación de residuos:** Clasifica tus desechos en orgánicos, reciclables y no reciclables. Esto facilita su tratamiento y **reduce la cantidad de basura** que llega a los vertederos. 
+
+* **Uso de bolsas reutilizables:** Evita las bolsas plásticas, l**leva tus propias bolsas al supermercado.** Esto reduce significativamente el **uso de plásticos desechables**. 
+
+* **Ahorro energético:** Considera **utilizar bombillas LED** para reducir el gasto energético. 
+
+* **Conservación del agua:** Instala **dispositivos ahorradores en grifos y duchas**. Además, repara cualquier fuga para evitar desperdicios. 
+
+* **Huertas urbanas:** Cultiva tus propias verduras y hierbas en casa. Esto no solo proporciona **alimentos frescos** sino que también reduce la huella de carbono asociada al transporte. 
+
+* **Transporte sostenible:** Opta por caminar, usar bicicletas o compartir vehículos siempre que sea posible. Esto ayuda a d**isminuir las emisiones contaminantes**. 
+
+Implementar estos consejos puede parecer un pequeño esfuerzo individual, pero colectivamente pueden generar un impacto significativo en nuestro entorno. 
+
+**Aplicaciones para cuidar el medio ambiente** 
+-----------------------------------------------
+
+**Trucos Ecológicos:** Una ‘app’ **recomendada por Le Monde** y otros, que ofrece más de 300 consejos ecológicos. 
+
+* **Plani Food:** Esta aplicación ofrece una solución al ayudar a **organizar menús personalizados** según nuestros gustos para fomentar compras más responsables y sostenibles. 
+
+* **eLitter:** Creada por las Asociaciones Paisaje Limpio y Vertidos Cero, permite a los ciudadanos caracterizar y **analizar el abandono de residuos en el medio terrestre**, facilitando la identificación de los tipos y orígenes de desechos. 
+
+* **Noise Meter:** El ruido, contaminante ambiental, afecta la calidad de vida y **puede causar graves problemas de salud**, pero puedes medir tu exposición con Noise Meter. 
+
+Así funciona el Pico y placa en Quito este viernes 1 de noviembre
+=================================================================
+
+Recuerda que el Pico y placa aplica de lunes a viernes. Fines de semana y feriados no rige esta medida de tránsito
+------------------------------------------------------------------------------------------------------------------
+
+![Los agentes metropolitanos vigilan el cumplimiento de la medida en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Pico-viernes-1.jpg)
+
+El **Pico y placa** es una restricción vehicular que rige en **Quito** como medida para **gestionar el tránsito** de la ciudad en las horas pico.
+
+Esta **medida excluye** a los autos conducidos por **personas de la tercera edad** o personas con discapacidad.
+
+### Más noticias
+
+* [Pico y placa se suspende en Quito por cinco días](https://www.elcomercio.com/actualidad/quito/pico-y-placa-se-suspende-en-quito-por-cinco-dias.html "Pico y placa se suspende en Quito por cinco días")
+* [Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito](https://www.elcomercio.com/actualidad/quito/paradas-de-la-ecovia-registran-nuevos-cierres-por-trabajos-en-quito.html "Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito")
+* [Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito](https://www.elcomercio.com/actualidad/quito/trafico-quito-nuevos-cierres-av-6-de-diciembre-colon-orellana.html "Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito")
+
+Horarios de Pico y placa
+------------------------
+
+Esta medida se aplica en dos horarios de **lunes a viernes**. Los feriados, sábados y domingo no aplica la restricción.
+
+Estos son los horarios de aplicación:
+
+* En la **mañana**: de 06:00 a 09:30
+* En la **tarde**: de 16:00 a 20:00
+
+El **Pico y placa** es una medida que se implementó en **diversas ciudades** alrededor del mundo como respuesta a los desafíos de la **urbanización** y el aumento del tránsito vehicular.
+
+Multas por infringir el Pico y placa
+------------------------------------
+
+La multa por incumplir el **Pico y placa** es del **15% del Salario Básico Unificado, es decir 69 dólares** la primera vez; la segunda vez será el 25%, es decir, **115 dólares**.
+
+Si incumples por tercera vez, la multa asciende al 50% de un salario básico, es decir, **230 dólares**.
+
+Recuerda retirar tu auto de las plazas de parqueo
+-------------------------------------------------
+
+Está vigente la resolución que dispone el proceso de **chatarrización** de los vehículos ingresados en los Centros de Retención Vehicular (CRV) por **más de tres años**, que no hayan sido retirados por sus propietarios.
+
+Con estos vehículos se emite una **declaratoria de abandono** y luego se procede a la chatarrización.
+
+Por esta razón, la Agencia de Tránsito llama a los **legítimos propietarios** a realizar el proceso de [liberación](https://es.wikipedia.org/wiki/Quito) vehicular.
+
+Este **viernes 1 de noviembre** de 2024 es feriado y, por lo tanto, no se aplica la medida de Pico y placa en la ciudad de Quito.
+
+> 💁Recuerda que sábados, domingos y feriados existe libre movilidad vehicular.  
+>   
+> 🚦Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/K8r80TieRC](https://t.co/K8r80TieRC)
+> 
+> — AMTQuito (@AMT\_Quito) [October 27, 2024](https://twitter.com/AMT_Quito/status/1850483310398742712?ref_src=twsrc%5Etfw)
+
 Nueve alimentos que mejoran la salud mental y emocional
 =======================================================
 
@@ -1029,111 +1150,3 @@ La Cámara de Comercio de Quito, la Confederación Sindical de Trabajadores de l
 > Paz en su tumba [pic.twitter.com/xg9cIcStOB](https://t.co/xg9cIcStOB)
 > 
 > — Cámara de Comercio de Quito (@lacamaradequito) [October 31, 2024](https://twitter.com/lacamaradequito/status/1852117440462774732?ref_src=twsrc%5Etfw)
-
-  
-
-En España se eleva a 158 la cifra de fallecidos
-===============================================
-
-Una de las localidades más perjudicadas de la provincia fue Paiporta, apenas a 10 kilómetros de la capital valenciana.
-----------------------------------------------------------------------------------------------------------------------
-
-![Una imagen satelital proporcionada por Maxar Technologies muestra el municipio de Alfafar después de lluvias torrenciales en la provincia de Valencia.](https://www.elcomercio.com/wp-content/uploads/2024/10/dana-espana-panoramica.jpg)
-
- El **número provisional de fallecidos** por las inundaciones en España **asciende a 158**, de los cuales 155 perdieron la vida en la **provincia de Valencia**, otros dos en la de **Castilla-La Mancha** y uno más en Andalucía. A esta hora continúa una cifra indeterminada de desaparecidos y la emergencia continúa.
-
-### Más noticias
-
-* [Rescates en España elevan a 140 las víctimas mortales](https://www.elcomercio.com/actualidad/mundo/rescates-en-espana-elevan-a-140-victimas-mortales.html "https://www.elcomercio.com/actualidad/mundo/rescates-en-espana-elevan-a-140-victimas-mortales.html")
-* [Efectos de la DANA como consecuencia del cambio climático](https://www.elcomercio.com/actualidad/mundo/inundaciones-temporal-espana-deja-fallecidos.html "https://www.elcomercio.com/actualidad/mundo/inundaciones-temporal-espana-deja-fallecidos.html")
-* [¿Qué significa DANA el fenómeno que impactó a Valencia?](https://www.elcomercio.com/actualidad/mundo/significa-dana-fenomeno-impacto-valencia.html "https://www.elcomercio.com/actualidad/mundo/significa-dana-fenomeno-impacto-valencia.html")
-
-Cifra de víctimas mortales puede elevarse
------------------------------------------
-
-El último recuento facilitado por **Emergencias de la Generalitat Valenciana** – gobierno regional valenciano- eleva en las últimas horas a **155 el número de víctimas mortales** y puede aumentar, a medida que los equipos de intervención y rescate consiguen acceder a las zonas afectadas.
-
-Una de las **localidades más perjudicadas** de la provincia fue Paiporta, apenas a 10 kilómetros de la capital valenciana, donde fueron recuperados los **restos mortales de unas 45 personas** según cálculos municipales. En otros municipios, como La Torre y Castellar, se contabilizaron 13.
-
-Mientras, en la **región de Castilla-La Mancha** los fallecidos son dos, aunque hay un número indeterminado de desaparecidos, además de importantes destrozos.
-
-En Andalucía, **la víctima es un británico** que residía en Málaga y falleció poco después de llegar al hospital, pero las **inundaciones también afectaron** a un número indeterminado de personas.
-
-De hecho, más de un **millar fueron rescatadas** en distintos puntos de la región.
-
-Las imágenes devastadoras que deja la **depresión aislada** en niveles altos (DANA) a su paso muestran **calles convertidas en ríos**, coches amontonados como si estuvieran en un desguace o muros destrozados con el mobiliario de las casas flotando en estanques de barro.
-
-Este jueves, 31 de octubre de 2024, es el primero de los tres días de **luto oficial decretado** por el Gobierno, cuyo presidente **Pedro Sánchez visitó hoy en la localidad de L’Eliana** (Valencia) el Centro de Coordinación Operativo Integrado desde el que se coordinan las **labores de emergencia**, y garantizó la colaboración de su gabinete con el ejecutivo regional “por tierra, mar y aire” y todo el tiempo que haga falta.
-
-Lo peor y lo mejor
-------------------
-
-La tragedia está sacando lo peor y lo mejor del ser humano y, en el primer caso, figuran los detenidos por robos, hurtos o pillajes aprovechando el caos que reina en distintos puntos afectados.
-
-La **Fiscalía Provincial de Valencia** anunció que pedirá prisión provisional para todos los detenidos porque esta realidad es “de **todo punto intolerable, moral y penalmente”**, teniendo en cuenta el “desamparo de las víctimas, con desprecio a las mismas e intentando la impunidad”.
-
-No obstante, también motivó una **oleada de solidaridad** que se manifiesta en la organización de minutos de silencio, la recogida de materiales y dinero para ayudar a las personas afectadas por la catástrofe y otras iniciativas de apoyo.
-
-Por su parte, **Gobiernos y dirigentes de distintos países del mundo** mostraron también su solidaridad y ofrecieron ayuda a las autoridades españolas.
-
-Un ejemplo, este jueves, es el del portavoz del **Consejo de Seguridad Nacional de la Casa Blanca**, Sean Savett, que comunicaba sus “más **sinceras condolencias** a todos los afectados por las devastadoras inundaciones en Valencia” y afirmaba que en EE.UU. están “listos para ayudar si se solicita”.
-
-Desde la Ciudad del Vaticano, el Papa Francisco también expresó su “**cercanía con las víctimas** de la catástrofe” a través de un video.
-
-La Agencia Estatal de Meteorología (Aemet) anunció que activó nuevos avisos para este viernes por lluvias y tormentas.
-
-Horarios de atención de los cementerios en Quito para el feriado
-================================================================
-
-Quito tiene 22 cementerios; estos camposantos se preparan para recibir visitantes en el feriado de Difuntos.
-------------------------------------------------------------------------------------------------------------
-
-![La visita a cementerios es una de las tradiciones que se realiza en el feriado de Difuntos](https://www.elcomercio.com/wp-content/uploads/2024/10/cementerios-horarios-quito.jpg)
-
-El **feriado de Difuntos** en Ecuador se lo celebra cada **2 de noviembre** para conmemorar a los familiares y cercanos fallecidos con ritos y tradiciones.
-
-### Más noticias
-
-* [Quito ofrece diversas opciones de turismo rural para los feriados de noviembre](https://www.elcomercio.com/actualidad/quito-opciones-turismo-rural-feriados-noviembre.html "Quito ofrece diversas opciones de turismo rural para los feriados de noviembre")
-* [Lo que se puede hacer en el feriado de Difuntos en Quito](https://www.elcomercio.com/actualidad/quito/actividades-feriado-difuntos-quito.html "Lo que se puede hacer en el feriado de Difuntos en Quito")
-* [Seis películas recomendadas para el feriado de Difuntos](https://www.elcomercio.com/tendencias/cine/cine-peliculas-feriado-difuntos.html "Seis películas recomendadas para el feriado de Difuntos ")
-
-Esta festividad fusiona **costumbres indígenas y católicas**, que incluyen la preparación de la colada morada y las guaguas de pan, como la visita a **cementerios**.
-
-En este 2024, Difuntos coincidió en sábado, por lo que, según la **Ley de Feriados**, el asueto fue trasladado al viernes 1 de noviembre.
-
-A estos días se le suma el domingo 3 y el lunes 4, por la **independencia de Cuenca**.
-
-Visita a cementerios en Quito
------------------------------
-
-Las familias latinoamericanas tienen la tradición de visitar a sus cercanos fallecidos en los cementerios en los que reposan sus restos.
-
-En esta costumbre se rinden homenajes con **ofrendas florales, de velas y alimentos**. Es común que las tumbas sean limpiadas y decoradas con arreglos.
-
-Quito cuenta con **22 cementerios**; estos sitios se preparan para recibir a los familiares en este largo feriado de cinco días de descanso obligatorio[.](https://www.sociedadfunerarianacional.com/san-diego/ "https://www.sociedadfunerarianacional.com/san-diego/")
-
-Horarios de atención en los cementerios de Quito
-------------------------------------------------
-
-La mayoría de los camposantos de Quito atenderán en sus horarios normales, de los nueve consultados por **EL COMERCIO**, ocho trabajarán como es habitual, mientras que uno lo hará en un **horario extendido**.
-
-Estos son las horas en las que algunos de los cementerios abrirán sus puertas a los visitantes:
-
-* **El Tejar**: 08:30 a 16:30
-* **San Diego**: 08:00 a 16:45
-* Parque de los Recuerdos de **Calderón**: 08:30 a 16:30
-* Parque de los Recuerdos **Panamericana** (av. Galo Plaza Lasso): 08:30 a 16:30
-* **El Batán**: 08:00 a 16:45
-* **Condado**: 08:00 a 17:00
-* **Chillogallo**: 08:30 a 16:00
-* **Monteolivo**: Horario extendido de 07:00 a 20:00
-
-Dispositivo de seguridad en cementerios
----------------------------------------
-
-El **dispositivo de seguridad** de la Policía empezó a las 12:00 de este miércoles 30 de octubre, y se extenderá hasta las 06:00 del martes, 5 de noviembre de 2024.
-
-El general de Distrito, Freddy Goyes, detalló que **52 786 servidores policiales** estarán desplegados en Ecuador, sobre todo, en ciudades con mayor afluencia.
-
-Playas, iglesias, **cementerios** y ejes viales son los puntos que tendrán mayores refuerzos durante el feriado. A la presencia policial se suma equipos, como motocicletas, aeronaves y ambulancias.
