@@ -1,6 +1,6 @@
-[![Modal icon](https://taimi.com/themes/taimi2/assets/images/banner-en.jpeg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/billing_page(id%20129))
+[![Modal icon](https://taimi.com/themes/taimi2/assets/images/banner-en.jpeg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/billing)
 
-[![Logo](https://taimi.com/themes/taimi2/assets/images/logo.svg)](https://taimi.com/)[Get Taimi App for Free](https://app.adjust.com/goc7ths?campaign=https://taimi.com/billing_page(id%20129))
+[![Logo](https://taimi.com/themes/taimi2/assets/images/logo.svg)](https://taimi.com/)[Get Taimi App for Free](https://app.adjust.com/goc7ths?campaign=https://taimi.com/billing)
 
 * 
 * [US Dating](https://taimi.com/us-dating)
@@ -13,7 +13,7 @@
 
 Download for free:
 
- [![Iphone logo](https://taimi.com/themes/taimi2/assets/images/nav_iphone.svg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/billing_page(id%20129))[![Google Play logo](https://taimi.com/themes/taimi2/assets/images/nav_google_play.png)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/billing_page(id%20129))
+ [![Iphone logo](https://taimi.com/themes/taimi2/assets/images/nav_iphone.svg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/billing)[![Google Play logo](https://taimi.com/themes/taimi2/assets/images/nav_google_play.png)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/billing)
 
 TAIMI Paid Service Terms and Conditions
 =======================================
@@ -183,7 +183,7 @@ If you have any questions regarding subscription, please, contact our customer s
 
 © 2024 Taimi. All rights reserved
 
- [![Google play](https://taimi.com/themes/taimi2/assets/images/google_play_2.svg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/billing_page(id%20129))[![App store](https://taimi.com/themes/taimi2/assets/images/app_store_2.svg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/billing_page(id%20129))
+ [![Google play](https://taimi.com/themes/taimi2/assets/images/google_play_2.svg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/billing)[![App store](https://taimi.com/themes/taimi2/assets/images/app_store_2.svg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/billing)
 
 En
 
@@ -238,4 +238,4 @@ Chat
 
 ![Logo](https://taimi.com/themes/taimi2/assets/images/logo.svg): fluidity, discovery, diversity
 
-[Get Taimi App for Free](https://app.adjust.com/goc7ths?campaign=https://taimi.com/billing_page(id%20129))
+[Get Taimi App for Free](https://app.adjust.com/goc7ths?campaign=https://taimi.com/billing)
