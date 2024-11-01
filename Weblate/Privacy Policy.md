@@ -14,139 +14,346 @@
 
 [Menu](#)
 
-Condiciones del servicio
-========================
+General Terms and Conditions
+============================
 
-The legal documents necessary to offer our services. The Terms of Service document is legally-binding in English, translations are provided for your convenience.
+The legal documents necessary to offer our services. The General Terms and Conditions document is legally-binding in English, translations are provided for your convenience.
 
 [Ver la versión en inglés](https://weblate.org/en/terms/)
 
-Los derechos y obligaciones del usuario y del proveedor como resultado del uso del servicio se rigen por estos términos de servicio.
+The rights and obligations of the User and the Provider resulting from the use of the Service are governed by these General Terms and Conditions.
 
-Definiciones
-------------
+Introductory Provisions
+-----------------------
 
-En estos Términos del Servicio:
+These general terms and conditions are an integral part of the service agreement concluded between the User and the Provider (hereinafter referred to as the "**Agreement**") and define the binding rules and conditions for the provision of Services and Products and the use of Services and Products. These general terms and conditions govern the contractual relationship between the service provider and the User.
 
-Acuerdo
-
-significa Acuerdo de Licencia según el artículo 2358 et seq. del Código Civil, celebrado entre el usuario y el proveedor al efectuar el consentimiento
+The definitions below have the following meanings for the purposes of these general terms and conditions:
 
 Código Civil
 
-significa colección de leyes n.º [89/2012](http://obcanskyzakonik.justice.cz/images/pdf/Civil-Code.pdf), del Código Civil, tal y como se ha enmendado
+means Act No. 89/2012 Coll., Civil Code, as amended;
 
-Consentimiento
+Contracting Parties
 
-significa el consentimiento del Usuario con estos Términos de Servicio y otros documentos legales expresados marcando la casilla de verificación durante el registro
+jointly refers to the User and the Provider;
 
 Cookies
 
-se refiere a cualquier archivo de datos enviado por el servidor web del Servicio al ordenador del Usuario u otro dispositivo conectado a Internet, que permita obtener una identificación única del navegador web del Usuario
+means any data sent from the service's web server to the User's computer or other internet-connected device, which allows the unique identification of the User's web browser in accordance with Section 89 of Act No. 480/2004 Coll., on Certain Information Society Services and Amending Certain Acts, as amended;
+
+Dedicated Weblate
+
+means a form of collaboration where the User is the sole user of the Service in a cloud hosted and provided by the Provider;
 
 RGPD
 
-el Reglamento nº [679/2016](https://eur-lex.europa.eu/legal-content/ALL/?uri=celex:32016R0679) de la UE, el Reglamento General de Protección de Datos
+means EU Regulation No. 679/2016, General Regulation on Personal Data Protection;
+
+GTC
+
+means these general terms and conditions, which form an integral part of the Agreement;
+
+Hosted String
+
+means a text unit defined in the translation format. It can be a word, sentence, or paragraph;
+
+Alojado en Weblate
+
+means a form of collaboration that is purely cloud-based, where the Provider provides Services to Users on a non-dedicated (i.e., shared by multiple Users) cloud operated by the Provider;
 
 Licencia
 
-se refiere a la licencia no exclusiva concedida por el Proveedor al Usuario para el uso del Servicio
+means the non-exclusive license granted by the Provider to the User for the use of the Service;
+
+Información personal
+
+means personal data as defined in EU Regulation 679/2016, entered by the user into the Service and/or Cookies;
+
+Price
+
+the value expressed in money for the provided License in accordance with the Price List;
+
+Price List
+
+means the document or web page that specifies the Price of the Service and/or Product unless otherwise stated in the Agreement;
+
+Product
+
+means any service or part thereof provided under a certain brand of the Provider based on its brand usage policy. The User purchases the Product AS IS. Support and other services are provided separately;
 
 Proveedor
 
-significa Ing. Michal Čihař, Nábřežní 694, 471 54 Cvikov, CZ, Número de Registro 04705904
-
-Información personal
-
-se refiere a los datos personales en el sentido del Reglamento de la UE n.º [679/2016](https://eur-lex.europa.eu/legal-content/ALL/?uri=celex:32016R0679) insertados por el Usuario en el Servicio y/o «Cookies»
-
-Propietario
-
-significa el usuario que puede gestionar el Proyecto
-
-Proyecto
-
-significa proyecto de traducción gestionado en el Servicio
+refers to the company Weblate s.r.o., ID No. 21668027, with registered office at Nábřežní 694, Cvikov II, 471 54 Cvikov, registered in the Commercial Register maintained by the Regional Court in Ústí nad Labem, file no. C 52324, with which the Agreement was concluded;
 
 Servicio
 
-significa que la página web y los servicios basados en Weblate son gestionados por el proveedor
+means the websites and services based on Weblate provided by the Provider;
+
+Self-hosting
+
+means a form of collaboration where the User is the sole user of the Service, and this Service is operated directly on the User Server;
+
+Support Services
+
+means the support provided by the Provider to the User within the Service. Support Services are governed separately by a separate support service agreement;
 
 Memoria de traducción
 
-se refiere al servicio opcional de memoria de traducción proporcionado por Weblate
+means an optional translation memory service provided on Weblate;
 
 Usuario
 
-significa cualquier entidad legal o individual distinta al Proveedor, que esté usando el Servicio
+means any legal entity or natural person other than the Provider that utilizes the Service;
 
-Sistema de control de versiones
+User Account
 
-el sistema de control de versiones distribuido utilizado por el proyecto, como Git o Mercurial
+means a user account with a unique access code and password in the Hosted Weblate web interface. Each User Account can be used by only one User;
 
-Finalización del Acuerdo de Licencia
-------------------------------------
+User Server
 
-Se concluye con el Acuerdo de Licencia con la aceptación del usuario de una propuesta del proveedor.
+refers to the server and other hardware equipment not owned, managed, or controlled by the Provider;
 
-Acuerdo de licencia
--------------------
+Methods of acceptance
+---------------------
 
-Al celebrar el Acuerdo de conformidad con el artículo 2.1 de este Acuerdo, las siguientes disposiciones de este artículo 3 de los Términos de Servicio entran en vigor.
+The License is granted to the User based on the concluded Agreement.
 
-El Proveedor presenta al Usuario un Contrato de Licencia y el Usuario acepta este Contrato de Licencia, todo ello bajo los términos y condiciones establecidos en estos Términos de Servicio.
+These GTC are an integral part of the Agreement.
 
-El Proveedor tendrá derecho a cerrar, ajustar, modificar o hacer que el Servicio no esté disponible en la dirección web en cualquier momento.
+The Agreement is concluded:
 
-El Usuario se compromete a utilizar el Servicio únicamente de manera que no ponga en peligro los medios técnicos de software y/o hardware del Proveedor y/o dichos medios en el uso del Proveedor.
+1. on the day of signing by both parties (especially for all Services offered with custom settings);
+2. online through acceptance (confirmation) via the web interface in accordance with the Price list, with the Agreement becoming effective once the Price for the License has been duly paid (in the case of a bank transfer, once the amount corresponding to the Price for the License has been credited to the Provider's bank account) for the amount stated in the first billing period by the User.
 
-El Usuario se compromete a abstenerse de utilizar el Servicio de mala fe y/o de causar deliberadamente cualquier daño al Servicio.
+Service Provision
+-----------------
 
-El Usuario se compromete a abstenerse de eludir los medios de software y/o hardware técnico del Servicio, en particular los sistemas de seguridad.
+The Provider operates the Service at the internet address specified in the Product specification and its subdomains or on the User's Servers in accordance with the Agreement and the technical specifications outlined in the Product specification.
 
-Responsabilidad por daños y perjuicios
---------------------------------------
+If the Agreement is concluded under Article 2.3(a), the scope of Services is defined in the Product specification, which is attached to the Agreement. The Product specification may further detail the scope of individual (sub)services regarding their content and activation methods. The Product specification defined in this manner takes precedence over the form of Service offered according to the Price list.
 
-Por la presente, el Usuario deja claro que el Proveedor no será responsable de ningún daño causado al Usuario como resultado del uso del Servicio.
+The Service is provided in three forms of cooperation: Hosted Weblate, Dedicated Weblate, and Self-hosting.
 
-Si el Usuario es un empresario, de esta manera renuncia expresamente a su derecho de compensación por parte del Proveedor por daños causados inintencionadamente por el Proveedor al Usuario a través de la ruptura de cualquier obligación contenida en estos términos de servicio y/o resultantes por el uso del Servicio.
+In accordance with GPLv3, certain aspects of the Service may be provided either with the assistance of third parties other than the Provider or directly by these parties. The User acknowledges that these third parties will provide their services in accordance with this Agreement and the GPLv3 license. The User acknowledges that third parties involved in the provision of the Service may change over the course of the Service's provision. These third parties may process Personal Data within their activities in accordance with the Agreement and GPLv3.
 
-Información personal
---------------------
+Service Duration
+----------------
 
-En el sentido del [Artículo 7](http://www.privacy-regulation.eu/es/7.htm) del RGPD, el Usuario da su consentimiento para la recogida, almacenamiento y tratamiento de los Datos Personales de acuerdo con la [Política de Privacidad](https://weblate.org/privacy/).
+Unless otherwise expressly agreed in the Agreement, the Agreement is concluded for a period corresponding to a subscription model. The subscription can be paid monthly or annually in accordance with Article 5 of the GTC.
 
-Traducciones
-------------
+Price
+-----
 
-El Servicio organiza las traducciones en Proyectos individuales, donde el Propietario es responsable de gestionarlos y especificar con precisión la licencia de cada uno.
+The price for the Service is determined according to the offer or the Price List. The User acknowledges and agrees that the Price List may be unilaterally changed by the Provider in the same way as these GTC. The price depends on the chosen Service configuration, and there are many variants in which the Service can be provided. These variants are listed in the Price List. The price for Services consists of the following separate items or their combination, which are paid regularly monthly/annually:
 
-Si no se especifica alguna licencia de traducción, significa que las traducciones están disponibles bajo la misma licencia del proyecto al cual pertenecen.
+1. regular price for access to Services, which is also always set for the relevant time period and based on the specific conditions of the Service, but paid monthly or annually, with this price varying for different forms of collaboration according to the Price List;
+2. regular price for the number of Hosted Strings; this amount is chosen by the User from the options offered in the Price List or in agreement with the Provider;
+3. regular price for Translation Memory;
 
-Si el Proyecto opta por la Memoria de traducción, la licencia de uso de la traducción se otorga a todos los usuarios de la Memoria de traducción.
+(points a), b), and c) are collectively referred to as the "**Subscription**").
 
-El Usuario acepta, al contribuir a un proyecto, la licencia que tal proyecto ha especificado.
+To avoid doubt, the Subscription may guarantee either only access to a specific Product or License and/or a specific package of guaranteed Services.
 
-El Usuario acepta el uso de su nombre y correo electrónico como autor en los commits del VCS. El Usuario entiende que esta concesión no es revocable debido a la naturaleza del VCS.
+The User is obliged to pay the Price based on the received tax documents (invoices) issued by the Provider. The Price is paid in advance, and the invoice is issued and delivered to the User within 5 working days after the end of each relevant period.
 
-Cookies
--------
+Payment of the Price may be made by Credit Card, bank transfer, or cryptocurrency transaction. All Prices listed in the Price List include VAT. End users from the EU and Czech business companies will be required to pay an additional VAT of 21%. Reverse charge applies to invoices issued to businesses within the EU.
 
-En el sentido del artículo 89 de la colección de leyes n.º [480/2004](https://www.uoou.cz/en/vismo/zobraz_dok.asp?id_org=200156&id_ktg=1155&archiv=0) sobre comunicaciones electrónicas, en su versión modificada, se informa al Usuario de que el Servicio utiliza «cookies».
+If the User wishes to avoid being charged for the Service in the Subscription mode, they must cancel the Subscription three days before the automatic renewal of the Service usage. The Provider recommends verifying with the prepaid card issuer or bank whether recurring billing is possible.
 
-El Servicio utiliza «cookies» para personalizar el contenido.
+The User can change their Subscription mode online by logging into their User Account and making the change or cancelling the Subscription there. If the User cancels their Subscription at least three days before the renewal date as per point 5.5 above, their Subscription will stop at the end of the current billing cycle.
 
-Ley aplicable
+The Provider does not refund ANY money for Services, Support Services, and/or any other services provided under the Agreement and these GTC if they were provided before the cancellation of these Services by the User. Order cancellation after payment is possible by agreement if the ordered Service has not been used or no attempt to download it has been made. If a download attempt has been made, no negotiation will occur, and the User is not entitled to any refunds, discounts, or other monetary compensation. If prepaid Services were prepaid for a period exceeding the actual usage period, the conditions of such a refund will be agreed upon individually.
+
+Prices and Subscription conditions may change unilaterally by the Operator at any time. The price and conditions valid at the time of the first purchase or the last Subscription renewal remain in effect for the duration of the given Subscription period, but new prices and conditions may apply to renewals or new Subscriptions. The Provider will notify the User of any price or Subscription condition changes in a reasonable period before the new Price or conditions come into effect. Under these conditions, the User has the right to cancel the Subscription.
+
+License Terms
 -------------
 
-Estas Condiciones de Servicio se regirán por las leyes de la República Checa con exclusión de las normas de conflicto.
+The Provider's software and Weblate software extensions are distributed under the GNU/GPLv3 license (see [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)). The User is granted a non-exclusive license to any elements of the Service under the terms of the GTC in their most recently updated version at the time the License is provided. The License is granted in accordance with the option selected according to the Price List.
 
-Cualquier disputa que surja sobre la base del Acuerdo y/o de estos Términos de Servicio será resuelta por el tribunal de la República Checa que tenga jurisdicción sustantiva y local.
+Unless otherwise stated in the Agreement, the license terms of this Agreement are fully governed by the GPLv3 license. However, selected parts of the Software may also be licensed under other licenses. A complete list of licenses used in the Provider's Software and software extensions can be found in their source code, which corresponds to the REUSE 3.0 specification according to the information provided on the Provider's website (see [https://docs.weblate.org/es/latest/contributing/license.html](https://docs.weblate.org/es/latest/contributing/license.html)).
 
-Vigencia
---------
+The User acknowledges that all copyright and other intellectual property rights to the Service belong to the Provider and/or third parties whose works have been incorporated into the Service and/or are used jointly with the Service. However, the User does not lose the right to use the Service to the extent permitted by the applicable licenses, including running, creating, and distributing the Service, even if the User does not publicly release the Service.
 
-Las presentes Condiciones Generales entrarán en vigor el 15 de mayo de 2023.
+For the purpose of exclusive modifications of the Service solely for the benefit of the User or the creation of means to run these Services, the User may publish the Service only if, in accordance with the terms of GPLv3 (and/or later versions of the GPL license), they publish all materials to which they do not own copyright.
+
+The License includes updates and/or modifications to the Services made by the Provider in the future, provided that the Services are supplied based on the selected Subscription and all relevant license and other fees are fully paid for the period in which these updates and/or modifications are released. The User acknowledges that not all Self-hosting Subscription packages include updates and/or modifications to the Services.
+
+The User is entitled to use the source code and handle elements protected by copyright within the limits of GPLv3 (and/or later versions of the GPL license), including, but not limited to, making copies. The User may distribute such copies only if each copy includes a reference to the Provider and the absence of warranty in a prominent and visible place, ensuring that all references to this license and any additional conditions remain unchanged, and that all references to the absence of warranty remain intact, and the User provides all recipients of such copies of the source code with a copy of the license along with the program.
+
+Payment Terms
+-------------
+
+Invoices will be issued electronically. The User agrees to the electronic issuance of invoices and to receiving them via electronic means. Invoices will be issued with a due date of 14 calendar days.
+
+The billing period is defined as a recurring period (calendar month/year). Payment is automatically charged through the selected payment method, and the invoice is sent to the User without undue delay after the Provider has received the payment. If the payment cannot be automatically deducted for any reason, the Provider will issue an invoice, and the User is obliged to pay such an invoice within the same deadlines.
+
+In the event of a delay by the User in any payment, the Provider is also entitled to suspend or limit the provision of the Service until the full payment of the debt. During the suspension or limitation of the provision of the Service, the User is still obliged to pay the Price according to the delivered tax documents. Repeated payment delays by the User are considered a material breach of the Agreement, entitling the Provider to terminate the Agreement for the reason stated in Article 11 below.
+
+By agreeing to the GTC at the time of purchase, the User subscribes to the future automatic renewal of the Subscription. The Subscription will be automatically renewed at the end of each Subscription period based on the Subscription period chosen at the time of purchase. At the beginning of each billing period, the Subscription will be charged at the rate according to the updated Price List and/or according to a separate notice made by the Provider before the end of the last billing period. The Subscription is continuous and automatically renews until it is cancelled, or the User Account is terminated.
+
+The User acknowledges that in the case of Subscription payment via a payment gateway, this gateway is provided by **ThePay, a.s.**, with its registered office at Masarykovo náměstí 102/65, 586 01 Jihlava, ID: 281 35 261, registered in the Commercial Register maintained by the Regional Court in Brno, Section B, Insert 8977 ("**ThePay**"). The conditions for the payment of the Fee are governed by the relevant contractual terms of ThePay.
+
+Payment card information entered into the payment gateway is not processed by the Provider, and the Provider is not responsible for the functionality of ThePay's payment gateway.
+
+Supplier‘s Rights and Obligations
+---------------------------------
+
+The Supplier is entitled to make any changes to the Service or its scope. In such a case, the Supplier will inform the User through the web interface related to the provided Service. In the event of changes in the legal or regulatory framework, industry standards, the Supplier's related costs, market customs, conditions affecting the relevant market, or any other changes that may impact the provision of the Service, the Supplier may at any time amend, cancel, or supplement these Terms (referred to as "**Change**") by notifying the User of such Change by posting the revised version of these Terms on the Website and notifying the User via email and through the interface related to the provided Service, at least 14 days before the Change takes effect. If the User does not respond to such Change within the above-mentioned period, it will be assumed that the User agrees with the Change. Notification does not apply if the Change is required by law, a court order, concerns the addition of a new service, additional features to the existing Service, or any other Change that does not reduce the User's rights or increase their obligations. In such cases, the Change will be implemented without prior notice to the User and will take effect immediately. If the User objects to the Change in the Terms within the above period, they are entitled to terminate the Agreement. In any case, the User may either accept the Change (implicitly through failure to object) or terminate the Agreement within the above period.
+
+The Supplier undertakes to take all steps within its technical capabilities to ensure the functionality and availability of the Service. The User acknowledges and agrees that they use the Service at their own risk.
+
+The basic system requirements for the proper operation of the Service include the server environment and defined technical status in the latest version. The Supplier undertakes to fulfil these requirements and ensure the proper operation of the Service through its own actions.
+
+If the User identifies any issue related to the Service's speed, functionality, or availability, they are obligated to report it to the Supplier immediately. The User acknowledges that events beyond the Supplier's control, such as a User's internet connection failure, natural disasters, DOS or DNS attacks on the Supplier's technical equipment, and other factors, may impact the Service's functionality or availability. The Supplier bears no responsibility for any damages incurred by the User in connection with these events.
+
+The User acknowledges and agrees that the Supplier may temporarily suspend the provision of the Service for serious reasons, particularly in cases such as preventing cyberattacks, when necessary, or in the event of a serious Service malfunction that requires an essential outage. The Supplier must notify the User of the interruption as soon as possible. The Supplier is obligated to implement appropriate operational and security measures to minimize potential malfunctions or the limited or complete unavailability of the Service. In the case of planned outages, the Supplier is obligated to inform the User in advance within a reasonable time.
+
+The Supplier agrees not to provide the content of the User's data to third parties.
+
+The contractual parties agree that the Supplier does not acquire ownership of the User's data. The User is solely responsible for the content of the data stored on their Server or the Supplier's server.
+
+By accepting these Terms, the User acknowledges and agrees that the Supplier is entitled to monitor, using its own resources, whether the User is using the Service in accordance with the Agreement. The User undertakes to fully cooperate with the Supplier in such cases.
+
+User’s Rights and Obligations
+-----------------------------
+
+The User must not use the Service in violation of applicable legal regulations. The User is also fully responsible for ensuring that any modifications to the Service made by them are in compliance with applicable legal regulations.
+
+To gain access to the Service, the Supplier may require certain identification details and other information from the User, always only to the extent required by the form. Most of our users are only required to provide a nickname; however, if an invoice needs to be issued, additional legally required information will be requested. The User is obligated to always provide truthful, accurate, and up-to-date information as required by law. For users who only provide a nickname, this does not mean they are required to provide any additional information. This provision does not expand the scope of required personal information but emphasizes the truthfulness, accuracy, and currency of the information provided by the User.
+
+The User is obligated, upon the Supplier's request, to provide the necessary cooperation in resolving malfunctions or making adjustments to the Service, including the obligation to tolerate restrictions on the use of the Service in cases where the Supplier performs system outages for the reasons mentioned in Section 8.5.
+
+The Supplier is entitled to implement security measures to protect the Service in accordance with this Agreement, and the User is required to comply with and respect these measures.
+
+The User is obligated to use the Service in accordance with the licensing terms specified in Section 6 of this Agreement, ensuring that they do not jeopardize the Service's functionality.
+
+According to the Service variant listed in the Price list, the User has the right to request Support Services from the Supplier, as specified in the Price list.
+
+The User is required to keep access credentials to the Service confidential and must not engage in any actions that could compromise the security of the Service. The User is also required to secure their technical equipment to a reasonable extent to minimize the risk of third parties misusing access credentials to the User's account.
+
+If the User breaches any of the obligations specified in this Section, the Supplier bears no responsibility for any damages incurred by the User, and the User is solely responsible for any damages incurred by the Supplier or third parties. Breaching these obligations also entitles the Supplier to terminate this Agreement. If the User becomes aware that Service access may be exposed to third parties due to a leak of access information, they are required to report this to the Supplier.
+
+Prohibited Conduct
+------------------
+
+The User is prohibited from uploading, sending, or otherwise storing any content on the Service portal that may contain software viruses or other files and programs that could destroy, damage, or limit the functionality of the Provider's or other Users' devices. The User is also not authorized to upload content to the Service portal that is illegal to possess or distribute, infringes on third-party copyrights, is part of criminal activities, spreads spam through the Service, or attempts to gain access to another User’s account or the Provider’s servers. Violation of these obligations constitutes a material breach of the Agreement.
+
+The User particularly agrees to refrain from the following activities while using the Services, especially through the Services:
+
+Disseminating or offering any content that violates applicable laws at the national, EU, or international level;
+
+Disseminating or offering any illegally obtained content or content whose dissemination would be illegal;
+
+Disseminating or offering any pornographic, obscene, or otherwise vulgar content;
+
+Engaging in any services or activities that are contrary to applicable laws at the national, EU, or international level;
+
+Engaging in activities that bypass intellectual property protection elements (such as cracks, warez, etc.);
+
+Sending unsolicited commercial messages and other spam or other illegal harassment of third parties;
+
+Publishing or disseminating any content that may infringe the rights of third parties, including attacks on such persons, or any offensive, impolite, or otherwise inappropriate content that unlawfully or illegally infringes on the personal rights of third parties;
+
+Disseminating or offering any content that infringes on third-party intellectual or industrial property rights;
+
+Operating or disseminating any tools that may be misused to breach network, device, or service security;
+
+Overburdening the Provider's or third-party servers;
+
+Engaging in any activities that could harm the Provider, its reputation, or its assets;
+
+Using any means, servers, devices, or elements provided by the Provider in a manner not expressly agreed upon in these Terms or the Agreement;
+
+Conducting activities that would disclose any content to third parties that:
+
+Contains prohibited applications and scripts;
+
+Overloads database systems or causes malfunction of servers;
+
+Overburdens the infrastructure, connection lines, or hardware of the Provider or third parties;
+
+Involves music, sound, image, film, or similar files for which the User lacks distribution rights;
+
+Threatens the privacy or security of other Internet users or the security of computer systems (e.g., through viruses, password generators, etc.);
+
+Is part of the provided Service without written permission from the Provider to share it with third parties;
+
+Gives the impression that the User acts on behalf of the Provider without authorization;
+
+May harm any third-party rights.
+
+The Provider may, without prior notice, interrupt, limit, or suspend the provision of Services if it reasonably believes the User is violating the Terms, the Agreement, or using the Services contrary to applicable laws, public morality, ethical principles, or Internet usage rules, or is aiding in or committing criminal activities.
+
+The Provider may also, without prior notice, interrupt, limit, or suspend the provision of Services if the Services are being misused for unauthorized interference with the Provider’s rights (e.g., impersonation, fraudulent invoicing) or excessive usage, particularly through automated software and bots that overload the Provider’s servers or other technical facilities.
+
+The User expressly agrees that in the event of a justified interruption, limitation, or suspension of Services by the Provider, the User is solely responsible for any damages resulting from the interruption and cannot claim any compensation from the Provider for such damages.
+
+To verify the software solution used or audit the licensing of assigned software resources and content uploaded through the Services, the User agrees to provide full cooperation to the Provider. This includes enabling or ensuring the installation and execution of tools and scripts on the virtual server that verify and check the software resources used.
+
+The User expressly agrees to be responsible for any damage caused to the Provider, its clients, partners, or third parties. This responsibility particularly includes the consequences of any legal actions that violate the provisions of Article 10 of these Terms. The User also agrees that the Provider may adjust the Service settings to prevent misuse. In case of breach by the User, the unused service period will not be refunded and will automatically be considered a one-time contractual penalty. This penalty does not affect the Provider’s right to claim damages in addition to the penalty.
+
+Termination of the Agreement
+----------------------------
+
+The contractual relationship may be terminated by withdrawal from the Agreement, expiration of the agreed term, dissolution of a legal entity (either the Provider or the User) with liquidation, termination of the Agreement, or by mutual agreement of the Parties.
+
+The Provider may terminate the Agreement at any time without providing a reason. The notice period is three months, starting from the first day of the calendar month following the delivery of the notice to the User.
+
+The User may terminate the Agreement under the conditions specified in Section 8.1 of these Terms.
+
+If the User materially or repeatedly breaches their obligations under these Terms or the Agreement and fails to remedy the breach within 14 days from the delivery of a notice of the breach, the Provider may withdraw from the Agreement. The withdrawal becomes effective the day after the User receives the notice of withdrawal.
+
+If the User breaches their obligations under these Terms or the Agreement in a particularly serious manner, the Provider is entitled to immediately withdraw from the Agreement and terminate the provision of the Service as soon as such a breach is discovered.
+
+If the Provider breaches its obligations under these Terms or the Agreement in a particularly serious manner, the User is entitled to immediately withdraw from the Agreement as soon as such a breach is discovered.
+
+Neither Party may terminate or otherwise end the Agreement except in cases explicitly stated in this Section. The Parties exclude, to the maximum extent possible, the right of either Party to terminate this Agreement, including the provisions of Sections 1912 (2), 1923, 1969, 1977, 1978, 1979, 2001, 2002, 2003, 2106, 2107, 2110, and 2111 of the Czech Civil Code.
+
+Limitation of Liability
+-----------------------
+
+The Provider is not liable for indirect damages arising from the provision of the Services, such as lost profits, lost revenues, data loss, financial damages, or any indirect, special, or consequential damages, including exemplary or punitive damages, such as, but not limited to, damages for other intangible losses (even if the Provider has been advised of the possibility of such damages), resulting from:
+
+1. Use or inability to use the Service;
+2. The cost of acquiring substitute goods and services arising from any goods, data, information, or services purchased or obtained or messages received, or transactions entered into through or from the Service;
+3. Statements or actions of any third party involved in providing the Service, including any outcomes of third-party solutions or services related to the Service;
+4. Any other matters related to the Service.
+
+In cases of force majeure, the Parties are entitled to temporarily suspend their contractual obligations, and any non-performance or delay in fulfilling the obligations imposed by this Agreement will not be considered a breach of the Agreement. Force majeure includes circumstances under which liability is excluded according to Czech law, such as natural disasters, war, or changes in the political situation that prevent or unduly hinder the exercise of rights and obligations arising from this Agreement.
+
+By entering into the Agreement, the User acknowledges that, despite the Provider’s best efforts, there may be temporary unavailability of the Service due to circumstances beyond the Provider’s control (e.g., an internet connection outage). Therefore, the User agrees and undertakes to back up all of their data stored within the Service at another geographical location(s).
+
+The User uses the Service AS IS. Incompatibility with other software, hardware configurations, or any defects or faults DO NOT ENTITLE the User to cancel their order or to request a refund of any fees paid, unless otherwise expressly agreed between the Parties in individual cases.
+
+Personal Data Protection
+------------------------
+
+The Provider collects data from the User solely for the purpose of providing the Service, improving its quality, fulfilling legal obligations, and in selected cases for the Provider's legitimate interests (e.g., maintaining server security and integrity) or for sending optional commercial communications as defined in the Privacy Policy.
+
+All communication within the Service is encrypted using the SSL protocol. The User declares that they consider this encryption method sufficiently secure.
+
+The Provider commits not to provide any information submitted by the User during the registration of their User account or any other personal data provided by the User to any third party for purposes other than those defined in this Agreement and the Privacy Policy.
+
+The Provider’s website and web application also use cookies. The Services exclusively use session cookies from the Provider and never use third-party cookies. Regarding functionality and type, the Provider only uses functional/technical cookies, for which explicit consent is not required under current legislation.
+
+Final Provisions
+----------------
+
+The Parties commit to maintaining the confidentiality of all information learned during the contractual relationship established by this Agreement.
+
+The User’s rights arising from the Agreement and these Terms cannot be assigned without the prior written consent of the Provider.
+
+For the avoidance of doubt, the Parties explicitly confirm that they are business entities and that they are entering into this Agreement within the scope of their business activities.
+
+If any provision of this Agreement or these Terms is or becomes invalid, ineffective, or unenforceable, it shall not affect the validity, enforceability, or effectiveness of the remaining provisions of the Agreement or these Terms. In such a case, the Parties shall exert every effort to amend the Agreement by replacing the invalid, unenforceable, or ineffective provision with a new one that reflects the original intent.
+
+These Terms are governed by the law of the Czech Republic, a member of the European Union. The Parties, however, exclude to the maximum extent possible the provisions of Sections 1764, 1765, 1793 to 1795, 2050, 2389a to 2389f, 2389t, and 2389u of the Czech Civil Code. Any disputes arising in connection with the performance or interpretation of the Agreement that cannot be resolved amicably by the Parties shall be finally settled by arbitration at the Arbitration Court of the Economic Chamber of the Czech Republic and the Agricultural Chamber of the Czech Republic by three arbitrators appointed in accordance with the Rules of this Arbitration Court. Each Party appoints one arbitrator, and the two arbitrators will agree on the third arbitrator within 30 days. If the two arbitrators fail to agree on the third arbitrator within the above period, the chairman of the Arbitration Court will appoint the third arbitrator. The arbitration award is final and binding for the Parties. The Parties irrevocably agree not to contest the enforcement of the arbitration award in any jurisdiction.
+
+The official version of these Terms has been prepared in English and is considered the only binding version. Any versions of these Terms translated into other languages are provided solely for the convenience of the User and have no legal force. In the event of any discrepancies or conflicts between the English version and any translated version, the English version shall prevail in all matters.
+
+These Terms enter into force on November 1, 2024.
 
 [weblate](https://weblate.org/es/)
 
@@ -288,5 +495,3 @@ Copyright © [Michal Čihař](https://cihar.com/) • [Bajo licencia GNU GPLv3+]
 * [正體中文](https://weblate.org/zh-hant/terms/)
 
 → [Ayudar a traducir](https://weblate.org/es/contribute/#translate)
-
-![](https://stats.cihar.com/piwik.php?idsite=12&rec=1)
