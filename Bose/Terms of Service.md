@@ -4,7 +4,9 @@ Black Friday Sneak Peek: Save up to 40% off the best sound for the season. [Shop
 
 Limited-edition QuietComfort Headphones are now available in Moonstone Blue. [Buy now](https://www.bose.com/QC-HEADPHONEARN.html?dwvar_QC-HEADPHONEARN_color=MOONSTONE+BLUE&quantity=1)
 
-Get gift inspiration with our Holiday Gift Guide. [Shop](https://www.bose.com/holiday-gift-guide)
+Free White Silicone Case Cover with Ultra Open Earbuds purchase. [Buy now](https://www.bose.com/ULT-HEADPHONEOPN.html)
+
+Sign up for Bose texts & get an extra 10% off Bose Certified Refurbished products! [Sign Up.](https://cloud.email.bose.com/sms-sign-up)
 
 [Cancel](#)
 
@@ -19,20 +21,20 @@ Back
     
     Back
     
-    [![](https://assets.bosecreative.com/m/5da336c11f25d14/webimage-SF_SneakPeek_Nav-Fly-out_Mobile_Gift-Guide.png)
+    [![](https://assets.bosecreative.com/m/128e4c03488099a4/webimage-UOEB24_GWP_SF_SneakPeak_NavFlyout_Mobile.png)
     
-    ### Holiday Gift Guide](https://www.bose.com/holiday-gift-guide "Shop")
+    ### Gift with purchase](https://www.bose.com/ULT-HEADPHONEOPN.html "Shop")
     
      
     
-    Black Friday Sneak Peek
+    Oprah's Favorite Thing 2024
     
-    Shop early. Own the gift game.
-    ------------------------------
+    Gift with purchase
+    ------------------
     
-    Stock up now on gifts with up to 40% off.
+    Save $50 on Ultra Open Earbuds and get a free White Silicone Case Cover, too!
     
-    [SHOP](https://www.bose.com/c/holiday-sale "SHOP")
+    [SHOP](https://www.bose.com/ULT-HEADPHONEOPN.html "SHOP")
     
 
 * [Shop](#)
