@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![ Independent Spending by Opponents and Supporters of Gun Control, 2015 and 2016](/assets/Images/teasers/small/Gun-control.JPG)](https://www.followthemoney.org/research/blog/the-electoral-marksmanship-of-pro-and-anti-gun-control-spenders)
+[![high court 09-10](/assets/logos/HighCourtRaces.png)](http://www.followthemoney.org/research/institute-research/money-in-judicial-elections-2009-2010)
+
+Is the judiciary “above politics”? See high court races.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
