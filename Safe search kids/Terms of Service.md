@@ -407,6 +407,7 @@ Visit each page to bookmark each resource:
 [Search Wiki Kids](https://www.safesearchkids.com/wikipedia-for-kids/)  
 [Video Search](https://www.safesearchkids.com/safe-video-search/)  
 [Safe Games](https://www.safesearchkids.com/safe-online-game-search/#games)  
+[Safe Apps](https://www.safesearchkids.com/safe-app-search/#safeapps)  
   
 
 * [Parental Control App](https://www.safesearchkids.com/best-parental-control-app/)
