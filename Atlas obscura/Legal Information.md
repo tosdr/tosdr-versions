@@ -145,21 +145,21 @@ Latest Places
 
 [View All Places »](https://www.atlasobscura.com/places?sort=published_at)
 
-   [!['Dividing the Light' at dusk.](https://img.atlasobscura.com/stG8X8nEubq2Crp_gu42X0BkjTMy5oYI8mR0Iip2Cr0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zNjli/NzhlZi1hOWZhLTRh/MzUtYmUzOS1iMjQw/NzY0NDE5MTcwZmM4/YjlhODIwYjQ0NWYx/YTBfUG9tb25hX0Nv/bGxlZ2VfU2t5c3Bh/Y2VfMDIuanBn.jpg)
+   [![Tiny Tomb by Lady Delaney](https://img.atlasobscura.com/_33T5YMgMgg3pGet_Poa7l9rrXB68KSH0Enap4Xm0N4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kZmUx/NTRmOC1lOGRiLTQx/M2UtOTdjMS1kMDU3/NzUwYzI4NmE2YTlk/MTIxNDg0ZmM2ZDkw/YTBfVGlueSBUb21i/IHBob3RvIGJ5IExh/dXJlbiBNYXJpZSBC/cmVhdXguanBn.jpg)
 
-'Dividing the Light'](https://www.atlasobscura.com/places/dividing-the-light)
+Tiny Tombs](https://www.atlasobscura.com/places/tiny-tombs-new-orleans)
 
-   [![](https://img.atlasobscura.com/nfT1CIjvtfryUvrNJJ8zOig6gtONyNBDh40KbV8BQBU/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84NWNi/ZTI3NS1jMWQ5LTRi/MGMtYTY3OC1hNmQw/MTkxYzc3MDViZTEz/MTIwMmM4MTE3YWIx/ZjlfSU1HXzk5Mjgu/anBlZw.jpg)
+   [![](https://img.atlasobscura.com/oUrN9HmXObHe282WFX-2ML24iNJcIn3wQHcrbOuK7rw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hMzdk/YTY3Yi0wY2Q4LTQ2/ZjItOTVkMi1mZjk0/MzhkNzA4YWFhZWZj/ODNmNDlkOGQ4ODNk/Y2VfTmVjcm9wb2xp/c19vZl9QYW50YWxp/Y2FfKDM1NjQzNzM4/NCkuanBn.jpg)
 
-Chaos Room](https://www.atlasobscura.com/places/chaos-room-kyoto)
+Necropolis of Pantalica](https://www.atlasobscura.com/places/necropolis-of-pantalica)
 
-   [![](https://img.atlasobscura.com/vG0Wn2o1jrumwUG6KWFY5TszErTphY_Fii7sO_WsrrM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jOTM1/M2UwMS0yYTM4LTQ1/ZjYtYmE2ZS01MzEz/OTc4MWI4NDEzNzAz/MDc4MWUxOTQ3M2Yx/YzdfMTAwMDAwMDkz/Mi5qcGc.jpg)
+   [![The “eyes of the Devil.”](https://img.atlasobscura.com/JRhf8cPe3jnO2IWY-AZIoaXU8gkTZq9EBuD2fcuHktA/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hMmM1/NzM1MS0wNzBkLTQ1/ZWEtOWMzNi0xMjA5/OTA1YjQ4ZjYzNDdm/MzFiNzg1YWNkZTA5/MDVfRFNDXzAyNTEu/anBlZw.jpg)
 
-Benjamin Fairfax Family Cemetery](https://www.atlasobscura.com/places/benjamin-fairfax-family-cemetery)
+Occhi del Diavolo](https://www.atlasobscura.com/places/occhi-del-diavolo)
 
-   [![](https://img.atlasobscura.com/XxT5PfLIY0QAswyTfoxNzUG0ZW2NopaJzNyKxwfGsxE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jMGFh/MTQwNi1iNzhjLTRl/MjktOTA1ZS1mNzhm/YmVjOGRhNGY1Njdl/ZWRmNTkyNGUwYWYz/MGNfRFNDXzAwMTYu/anBlZw.jpg)
+   [![dragon](https://img.atlasobscura.com/TLCcCqmsBIwbmPbLk3I-KwmmvSDWssAGK_qgbegps08/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81Y2Zm/MDY5Yy02YzllLTQw/NWMtODZlOC0zNmQy/ZTdjNmRlOGRlMzVl/YzU3OGRkY2IzNDU1/NjlfMjAyNDA5Mjdf/MTAxNzI4LmpwZw.jpg)
 
-Night-Crying Sumo Wrestlers](https://www.atlasobscura.com/places/night-crying-sumo-wrestlers)
+Iron Sculptures of Sept-Îles](https://www.atlasobscura.com/places/sculptures-sentiers-en-foret)
 
 Latest Places to Eat & Drink
 
@@ -193,6 +193,10 @@ Most Recent Stories
 
 [View All Stories »](https://www.atlasobscura.com/articles)
 
+   [![This map of Poyais from the 1820s fooled hundreds of people.](https://img.atlasobscura.com/9OKAcXKipFUm7-c566nReowSNyAtIZq6YlCkhoVxnwo/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9jZGUyYWQ2NS1m/ZjZlLTQ2OGYtOTE4/OC05OTNlNTZjMTc3/NDliMmE0MWE0MGJm/ZmIyMGZkNGRfR3Jl/Z29yIE1hY0dyZWdv/ciwgQSBNYXAgb2Yg/UGFydCBvZiB0aGUg/RGlzdHJpY3Qgb2Yg/UG95YWlzIHRoZSBQ/cm9wZXJ0eSBvZiBI/LkUuIFNpciBHcmVn/b3IgTWFjR3JlZ29y/IDE4MjAuLCAxODIw/LiBDb3VydGVzeSBv/ZiBEYW5pZWwgQ3Jv/dWNoIFJhcmUgQm9v/a3MuICAoMSkuanBn.jpg)
+
+This Map Shows a Fictional Country Created by a Con Man](https://www.atlasobscura.com/articles/gregor-macgregor-map-of-poyais)
+
    [![A phenomenon known as "nocturnal death syndrome" inspired Wes Craven to write A Nightmare on Elm Street and introduce the world to Freddy Krueger.](https://img.atlasobscura.com/T5nswELl5_nZIAJFwJV4I8GSMcFcmQHTRr6PhukkOY0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81ZGU5ZTQ0NS1l/YTEzLTQ1MDItYTUz/Mi0yYmM4MmM4MDZm/MDgyZWZmOTdmNWZk/MjExZTc3MmJfU3Bv/b2t5IEZyZWRkeSBL/cnVlZ2VyIE5pZ2h0/bWFyZXMgSGF1bnRp/bmcgQ3JlZXB5X2Eu/anBn.jpg)
 
 The Science of Fighting Our Nightmares](https://www.atlasobscura.com/articles/how-to-fight-your-nightmares)
@@ -204,10 +208,6 @@ Get Inspired by History’s Most Scandalous and Stunning Costumes](https://www.a
    [![I'll be using jamun juice in my menu for its bright purple color.](https://img.atlasobscura.com/rAdNRecluZyW3ax58tPSrdj2w0iaevUEAWbAzZlvsAQ/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy82NzcyMDFkYzA1/NjAxMjVkODlfMnJk/MzJ5NS5qcGc.jpg)
 
 'Diwalloween' Means Lights, Sweets, and Spooky Treats](https://www.atlasobscura.com/articles/diwali-and-halloween-party)
-
-   [![Elevated horror movies such as 2018's Hereditary use the jump scare in unexpected ways, bringing the worn movie trope, ah, back from the dead.](https://img.atlasobscura.com/fK5X4LpdeUws3dQ1x5dffLOBnoYCfCwPyys38zjja_Y/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9iZmM0MTBjYThj/ZmQyN2U1OTZfSGVy/ZWRpdGFyeSBhMjQg/anVtcCBzY2FyZSBz/Y3JlYW1pbmcuanBn.jpg)
-
-The Startling History of the Jump Scare](https://www.atlasobscura.com/articles/jump-scare-history)
 
 No search results found for  
 “”
