@@ -402,6 +402,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Aubrey man admits to murdering aunt after kicking him out of her house: police](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-peyton-aubrey-canyon-oaks-st-murder-9p_kdfwf90e__00.01.37.14.jpg?ve=1&tl=1)
+
+ ![Aubrey man admits to murdering aunt after kicking him out of her house: police](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-peyton-aubrey-canyon-oaks-st-murder-9p_kdfwf90e__00.01.37.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/71-year-old-aubrey-woman-found-dead-backyard-family-member-charged-capital-murder)
+
+### [Aubrey man admits to murdering aunt after kicking him out of her house: police](https://www.fox4news.com/news/71-year-old-aubrey-woman-found-dead-backyard-family-member-charged-capital-murder)
+
+ [![Woman hurt in brutal Downtown Dallas attack left with cognitive issues, facial fractures](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/elizabeth-ferguson-downtown-dallas-attack.png?ve=1&tl=1)
+
+ ![Woman hurt in brutal Downtown Dallas attack left with cognitive issues, facial fractures](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/elizabeth-ferguson-downtown-dallas-attack.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/elizabeth-ferguson-downtown-dallas-assault-video-victim-interview)
+
+### [Woman hurt in brutal Downtown Dallas attack left with cognitive issues, facial fractures](https://www.fox4news.com/news/elizabeth-ferguson-downtown-dallas-assault-video-victim-interview)
+
  [![Young Thug pleads guilty as part of 'blind plea' in YSL trial, sentenced](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/snapshot4.jpg?ve=1&tl=1)
 
  ![Young Thug pleads guilty as part of 'blind plea' in YSL trial, sentenced](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/592/333/snapshot4.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/young-thug-pleads-guilty-part-blind-plea-ysl-trial-sentenced)
@@ -419,18 +431,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Will crime have an impact on Texas voters in the 2024 election?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-steven-voter-polling-on-crime-4p_00.01.56.08.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/2024-election-texas-crime)
 
 ### [Will crime have an impact on Texas voters in the 2024 election?](https://www.fox4news.com/election/2024-election-texas-crime)
-
- [![Texas Dems target state's abortion ban following report of Houston woman's miscarriage death](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/4p-h1-texas-abortion-ban-presser_00.00.11.08.jpg?ve=1&tl=1)
-
- ![Texas Dems target state's abortion ban following report of Houston woman's miscarriage death](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/4p-h1-texas-abortion-ban-presser_00.00.11.08.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-democrats-target-abortion-ban-following-propublica-report-houston-womans-death)
-
-### [Texas Dems target state's abortion ban following report of Houston woman's miscarriage death](https://www.fox4news.com/news/texas-democrats-target-abortion-ban-following-propublica-report-houston-womans-death)
-
- [![Beloved custodian gets school building named after her: 'She's one in a million'](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/claudene-featured.jpg?ve=1&tl=1)
-
- ![Beloved custodian gets school building named after her: 'She's one in a million'](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/claudene-featured.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/claudene-wilson-custodian-school-building-named-after-her)
-
-### [Beloved custodian gets school building named after her: 'She's one in a million'](https://www.fox4news.com/news/claudene-wilson-custodian-school-building-named-after-her)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
