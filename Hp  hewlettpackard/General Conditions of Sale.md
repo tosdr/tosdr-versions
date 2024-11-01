@@ -118,13 +118,15 @@ Shop
 
 [* Weekly Deals](https://www.hp.com/us-en/shop/slp/weekly-deals "Weekly Deals")
 
-[* New HP Financing](https://www.hp.com/us-en/shop/cv/hpfinancing "New HP Financing")
+[* Top Rated Laptops](https://www.hp.com/us-en/shop/vwa/laptops/rating=4-9733-9733-9733-9733-9734-Up,5-9733-9733-9733-9733-9733-;segm=Home "Top Rated Laptops")
+
+[* HP Laptop Subscription](https://hplaptopsubscription.hp.com/ "HP Laptop Subscription")
+
+[* HP Financing](https://www.hp.com/us-en/shop/cv/hpfinancing "HP Financing")
 
 [* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education "Student discounts")
 
 [* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor "HP Business Technology Advisors")
-
-[* #MyHP](https://www.hp.com/us-en/shop/cv/myhp-social-gallery "#MyHP")
 
 [* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-plus-pcs "Copilot+ PCs")
 
@@ -132,21 +134,21 @@ Shop
 
 [* Laptops](https://www.hp.com/us-en/shop/cat/laptops "Laptops")
 
-[* Desktops](https://www.hp.com/us-en/shop/cat/desktops "Desktops")
-
-[* Gaming](https://www.hp.com/us-en/shop/cat/gaming-3074457345617980168--1 "Gaming")
-
 [* Business laptops](https://www.hp.com/us-en/shop/vwa/business-solutions/bizcat=Laptop "Business laptops")
+
+[* Desktops](https://www.hp.com/us-en/shop/cat/desktops "Desktops")
 
 [* Business desktops](https://www.hp.com/us-en/shop/mlp/business-solutions/desktops-and-workstations "Business desktops")
 
 [* Z Workstations](https://www.hp.com/us-en/shop/mlp/business-solutions/workstations "Z Workstations")
 
+[* Gaming PCs](https://www.hp.com/us-en/shop/cat/gaming-3074457345617980168--1 "Gaming PCs")
+
+[* Chromebooks](https://www.hp.com/us-en/shop/cv/hp-chromebooks "Chromebooks")
+
 [* Small Business Servers](https://www.hp.com/us-en/shop/mdp/smb-servers-3074457345617969168--1 "Small Business Servers")
 
 [* Thin Clients](https://www.hp.com/us-en/shop/mlp/business-solutions/hp-thin-clients "Thin Clients")
-
-[* Chromebooks](https://www.hp.com/us-en/shop/cv/hp-chromebooks "Chromebooks")
 
 * Shop Print
 
@@ -299,11 +301,11 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 * Featured
 
-[* HP.com store](https://www.hp.com/us-en/shop)[* Ink & toner cartridges](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Business store](https://www.hp.com/us-en/shop/cat/business-solutions)[* Weekly Deals](https://www.hp.com/us-en/shop/slp/weekly-deals)[* New HP Financing](https://www.hp.com/us-en/shop/cv/hpfinancing)[* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education)[* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor)[* #MyHP](https://www.hp.com/us-en/shop/cv/myhp-social-gallery)[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-plus-pcs)
+[* HP.com store](https://www.hp.com/us-en/shop)[* Ink & toner cartridges](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Business store](https://www.hp.com/us-en/shop/cat/business-solutions)[* Weekly Deals](https://www.hp.com/us-en/shop/slp/weekly-deals)[* Top Rated Laptops](https://www.hp.com/us-en/shop/vwa/laptops/rating=4-9733-9733-9733-9733-9734-Up,5-9733-9733-9733-9733-9733-;segm=Home)[* HP Laptop Subscription](https://hplaptopsubscription.hp.com/)[* HP Financing](https://www.hp.com/us-en/shop/cv/hpfinancing)[* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education)[* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor)[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-plus-pcs)
 
 * Shop PCs
 
-[* Laptops](https://www.hp.com/us-en/shop/cat/laptops)[* Desktops](https://www.hp.com/us-en/shop/cat/desktops)[* Gaming](https://www.hp.com/us-en/shop/cat/gaming-3074457345617980168--1)[* Business laptops](https://www.hp.com/us-en/shop/vwa/business-solutions/bizcat=Laptop)[* Business desktops](https://www.hp.com/us-en/shop/mlp/business-solutions/desktops-and-workstations)[* Z Workstations](https://www.hp.com/us-en/shop/mlp/business-solutions/workstations)[* Small Business Servers](https://www.hp.com/us-en/shop/mdp/smb-servers-3074457345617969168--1)[* Thin Clients](https://www.hp.com/us-en/shop/mlp/business-solutions/hp-thin-clients)[* Chromebooks](https://www.hp.com/us-en/shop/cv/hp-chromebooks)
+[* Laptops](https://www.hp.com/us-en/shop/cat/laptops)[* Business laptops](https://www.hp.com/us-en/shop/vwa/business-solutions/bizcat=Laptop)[* Desktops](https://www.hp.com/us-en/shop/cat/desktops)[* Business desktops](https://www.hp.com/us-en/shop/mlp/business-solutions/desktops-and-workstations)[* Z Workstations](https://www.hp.com/us-en/shop/mlp/business-solutions/workstations)[* Gaming PCs](https://www.hp.com/us-en/shop/cat/gaming-3074457345617980168--1)[* Chromebooks](https://www.hp.com/us-en/shop/cv/hp-chromebooks)[* Small Business Servers](https://www.hp.com/us-en/shop/mdp/smb-servers-3074457345617969168--1)[* Thin Clients](https://www.hp.com/us-en/shop/mlp/business-solutions/hp-thin-clients)
 
 * Shop Print
 
