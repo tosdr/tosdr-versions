@@ -87,11 +87,11 @@ This page does not work well in portrait mode on mobile. Please rotate your devi
 * [The Sounds Resource](https://www.sounds-resource.com/)
 
 * Popular Games
-* [Sonic the Hedgehog C...](https://www.spriters-resource.com/custom_edited/sonicthehedgehogcustoms/)
 * [Mario Customs](https://www.spriters-resource.com/custom_edited/mariocustoms/)
-* [Super Mario Bros. Cr...](https://www.spriters-resource.com/browser_games/supermariobroscrossover/)
-* [Final Fantasy: Brave...](https://www.spriters-resource.com/mobile/finalfantasybraveexvius/)
+* [Sonic the Hedgehog C...](https://www.spriters-resource.com/custom_edited/sonicthehedgehogcustoms/)
 * [Fire Emblem: Heroes](https://www.spriters-resource.com/mobile/fireemblemheroes/)
+* [Pizza Tower](https://www.spriters-resource.com/pc_computer/pizzatower/)
+* [Undertale](https://www.spriters-resource.com/pc_computer/undertale/)
 
 * Affiliates
 * [Sprite Database](https://spritedatabase.net/)
