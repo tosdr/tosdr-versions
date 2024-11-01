@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-83b7e4b1c21438bf11fd58a91fbb5bc1
+08ffc1cae972b6d913bec29d5dbf3d2f
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![8 mm oval green pearls](https://www.sojourner.biz/images/cache/pearls/PE0098.200.jpg)](https://www.sojourner.biz/beads/pearls/8-mm-oval-green-pearls.html "8 mm oval green pearls")
+[![4 mm round faceted labradorite beads](https://www.sojourner.biz/images/cache/labradorite/LAB0006.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/labradorite/4-mm-round-faceted-labradorite-beads.html "4 mm round faceted labradorite beads")
 
-#### [8 mm oval green pearls](https://www.sojourner.biz/beads/pearls/8-mm-oval-green-pearls.html "8 mm oval green pearls")
+#### [4 mm round faceted labradorite beads](https://www.sojourner.biz/beads/stone-a-l/labradorite/4-mm-round-faceted-labradorite-beads.html "4 mm round faceted labradorite beads")
 
-$27.00
+$20.00
 
 ### Best Sellers
 
