@@ -1,4 +1,4 @@
-Thursday, October 31 2024
+Friday, November 1 2024
 
 Breaking News
 
@@ -181,6 +181,9 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: AT3 Tactical ARO-MINI 3 MOA Red Dot](https://www.thegunpage.com/tfb-review-at3-tactical-aro-mini-3-moa-red-dot/10611595)
+* [POTD: XM7 6.8mm In The Air](https://www.thegunpage.com/potd-xm7-6-8mm-in-the-air/10611596)
+* [Concealed Carry Corner: Inside The Waistband Holster Rundown](https://www.thegunpage.com/concealed-carry-corner-inside-the-waistband-holster-rundown/10611597)
 * [Halloween Horror Stoppers: The Best Guns for Taking Out Hollywood’s Most Evil Villains](https://www.thegunpage.com/halloween-horror-stoppers-the-best-guns-for-taking-out-hollywoods-most-evil-villains/10611590)
 * [How Much Does a Handgun Cost?](https://www.thegunpage.com/how-much-does-a-handgun-cost/10611588)
 * [He Just Couldn’t Quit Her, But a Well-Aimed .380 Settled His Violent Desire](https://www.thegunpage.com/he-just-couldnt-quit-her-but-a-well-aimed-380-settled-his-violent-desire/10611586)
@@ -188,9 +191,6 @@ Recent Posts
 * [Gunwerks Spike Feet Set Designed To Improve Grip And Add Stability In Uneven Terrain](https://www.thegunpage.com/gunwerks-spike-feet-set-designed-to-improve-grip-and-add-stability-in-uneven-terrain/10611592)
 * [Gunwerks "The Makers" Series – Project One](https://www.thegunpage.com/gunwerks-the-makers-series-project-one/10611585)
 * [FPC Challenges Texas Carry Bans](https://www.thegunpage.com/fpc-challenges-texas-carry-bans/10611579)
-* [Trump rewrites Biden's 'garbage' remarks](https://www.thegunpage.com/trump-rewrites-bidens-garbage-remarks/10611580)
-* [Media Portrays Dead Teen as Shooting Victim, Only to Learn He was the Aggressor](https://www.thegunpage.com/media-portrays-dead-teen-as-shooting-victim-only-to-learn-he-was-the-aggressor/10611577)
-* [XS Sights Expands DXT2 Pro Series, R3D 2.0 Lineup For SIG Sauer, Smith & Wesson, Springfield Armory And FN Pistols](https://www.thegunpage.com/xs-sights-expands-dxt2-pro-series-r3d-2-0-lineup-for-sig-sauer-smith-wesson-springfield-armory-and-fn-pistols/10611589)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* Jeff L. on [The Left (Democrats, “News” Media) Always in a Flutter at Words](https://www.conservativedailynews.com/2024/10/the-left-democrats-news-media-always-in-a-flutter-at-words/#comment-782973)
 * charles wilkins on [Ewwww That Smell…](https://www.conservativedailynews.com/2024/10/ewwww-that-smell/#comment-782967)
 * michael mohn on [Realistically Simple Ways to Make Your Car (Virtually) Unstealable](https://www.conservativedailynews.com/2024/10/realistically-simple-ways-to-make-your-car-virtually-unstealable/#comment-782951)
 * Stanley Warner on [Virginia Asks Supreme Court To Let It Remove Noncitizens From Voter Rolls](https://www.conservativedailynews.com/2024/10/virginia-asks-supreme-court-to-let-it-remove-noncitizens-from-voter-rolls/#comment-782949)
@@ -240,7 +241,6 @@ Recent Comments
 * Stanley Warner on [The Closing Arguments Could Not Be More Different](https://www.conservativedailynews.com/2024/10/the-closing-arguments-could-not-be-more-different/#comment-782936)
 * Stanley Warner on [Dangerous Rhetoric](https://www.conservativedailynews.com/2024/10/dangerous-rhetoric-2/#comment-782925)
 * Deb on [CEOs Need To Stand Up For Capitalism And Common Sense](https://www.conservativedailynews.com/2024/10/ceos-need-to-stand-up-for-capitalism-and-common-sense/#comment-782921)
-* Jeff L. on [Sorry Democrats, the Fascist Shoe Really is on the Other (Democrat) Foot](https://www.conservativedailynews.com/2024/10/sorry-democrats-the-fascist-shoe-really-is-on-the-other-democrat-foot/#comment-782914)  
 
 [Close](#)
 
