@@ -33,6 +33,8 @@ Try a course for free.
 
 [Free online courses](https://www.edx.org/free-online-courses)
 
+**Cyber Monday savings — get up to 30% off** select programs until December 3. Use code **EDXCYBER24.** [Learn more](https://www.edx.org/cyber-monday).
+
 Close site banner.
 
 ### edX Privacy Policy
