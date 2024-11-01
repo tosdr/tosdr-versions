@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Hugo van Sittert
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=68ffe03a2cd71fdc8294c231699ae3aa4a88171002337407fd73317fd3d64571&c=94095620)  
-IEMS (PTY) ltd
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=cebac4e6ebd91a34b24ed22ae2e85ae1cd1284c59a32dbc03fc3bb0192330870&c=20001137)  
+Safe-Train Consulting (PTY) Ltd
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=68ffe03a2cd71fdc8294c231699ae3aa4a88171002337407fd73317fd3d64571&c=5061722)  
-NEW BEGINNINGS DESIGNS
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=cebac4e6ebd91a34b24ed22ae2e85ae1cd1284c59a32dbc03fc3bb0192330870&c=162886815)  
+Cape Adventure Zone
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=68ffe03a2cd71fdc8294c231699ae3aa4a88171002337407fd73317fd3d64571&c=124799381)  
-SLOANE STAR MEAT MARKET
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=cebac4e6ebd91a34b24ed22ae2e85ae1cd1284c59a32dbc03fc3bb0192330870&c=133506737)  
+J.M. HUMAN RESOURCES
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=68ffe03a2cd71fdc8294c231699ae3aa4a88171002337407fd73317fd3d64571&c=32242437)  
-Multi CNC Solutions CC
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=cebac4e6ebd91a34b24ed22ae2e85ae1cd1284c59a32dbc03fc3bb0192330870&c=133905322)  
+Creative Characters
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=68ffe03a2cd71fdc8294c231699ae3aa4a88171002337407fd73317fd3d64571&c=52512619)  
-Imvubu General Trading
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=cebac4e6ebd91a34b24ed22ae2e85ae1cd1284c59a32dbc03fc3bb0192330870&c=18605272)  
+NJR ICT Services (Pty) Ltd
 
-![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=68ffe03a2cd71fdc8294c231699ae3aa4a88171002337407fd73317fd3d64571&c=89407249)  
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=cebac4e6ebd91a34b24ed22ae2e85ae1cd1284c59a32dbc03fc3bb0192330870&c=108210759)  
+M's Frozen Delights
+
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=cebac4e6ebd91a34b24ed22ae2e85ae1cd1284c59a32dbc03fc3bb0192330870&c=27927834)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=cebac4e6ebd91a34b24ed22ae2e85ae1cd1284c59a32dbc03fc3bb0192330870&c=119589032)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
+
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=cebac4e6ebd91a34b24ed22ae2e85ae1cd1284c59a32dbc03fc3bb0192330870&c=44784570)  
+Baby Toddles Infant Care
+
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=cebac4e6ebd91a34b24ed22ae2e85ae1cd1284c59a32dbc03fc3bb0192330870&c=134760376)  
+Vplay Grafix
+
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=cebac4e6ebd91a34b24ed22ae2e85ae1cd1284c59a32dbc03fc3bb0192330870&c=134927783)  
+Sonic Electrical Services PTY Ltd
+
+![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=cebac4e6ebd91a34b24ed22ae2e85ae1cd1284c59a32dbc03fc3bb0192330870&c=83449982)  
 Atalie Scented Candles Pty Ltd
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=68ffe03a2cd71fdc8294c231699ae3aa4a88171002337407fd73317fd3d64571&c=101752832)  
-Blue Sky Solar Services
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=cebac4e6ebd91a34b24ed22ae2e85ae1cd1284c59a32dbc03fc3bb0192330870&c=71742412)  
+Karino Merinos ( PTY ) LTD
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=68ffe03a2cd71fdc8294c231699ae3aa4a88171002337407fd73317fd3d64571&c=75291414)  
-Kaylas Creations
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=cebac4e6ebd91a34b24ed22ae2e85ae1cd1284c59a32dbc03fc3bb0192330870&c=211374464)  
+Druce Digital
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=68ffe03a2cd71fdc8294c231699ae3aa4a88171002337407fd73317fd3d64571&c=88590352)  
-VS Auto Spares and Repairs (Pty) LTD
-
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=68ffe03a2cd71fdc8294c231699ae3aa4a88171002337407fd73317fd3d64571&c=154247936)  
-AFS Electrical
-
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=68ffe03a2cd71fdc8294c231699ae3aa4a88171002337407fd73317fd3d64571&c=55254526)  
-Tantra Sound and Lightz
-
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=68ffe03a2cd71fdc8294c231699ae3aa4a88171002337407fd73317fd3d64571&c=78072292)  
-Electro-Heat
-
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=68ffe03a2cd71fdc8294c231699ae3aa4a88171002337407fd73317fd3d64571&c=74750727)  
-Tiny Cuddles Photography
-
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=68ffe03a2cd71fdc8294c231699ae3aa4a88171002337407fd73317fd3d64571&c=89687215)  
-McKaynine Mobility
-
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=68ffe03a2cd71fdc8294c231699ae3aa4a88171002337407fd73317fd3d64571&c=4579753)  
-Wiselink Broadband Pty Ltd
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=cebac4e6ebd91a34b24ed22ae2e85ae1cd1284c59a32dbc03fc3bb0192330870&c=109060240)  
+Lindani Protection Services & Projects
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
