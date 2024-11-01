@@ -14,34 +14,7 @@ Force Open Search
 
 Open main menu
 
-![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
-
-Take your next trip with Atlas Obscura!
----------------------------------------
-
-Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
-
-[Visit Adventures](https://www.atlasobscura.com/adventures/)
-
-Trips Highlight
-
-   [![Iceland - Northern Lights Aurora Borealis](https://img.atlasobscura.com/IyfPPV5wjzkxDQgpZ2TrTeys3Qwfd6OINBjYZ-z_oys/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy81MTA5/ZGM1YS01NmNjLTRh/MzUtOThhNC02Yzc1/MDEzN2Y3YzdhYzkx/ZmNlNTMwODk5NDE1/MGZfSWNlbGFuZCAx/IC0gTWFuIExvb2tp/bmcgYXQgTm9ydGhl/cm4gTGlnaHRzLnBu/Zw.png)](https://www.atlasobscura.com/adventures/trips/iceland-winter)
-
-Iceland • 8 days, 7 nights
-
-[Iceland in Winter: Northern Lights & Geothermal Marvels](https://www.atlasobscura.com/adventures/trips/iceland-winter)
-
-from
-
-   [![West Africa djembe](https://img.atlasobscura.com/7bKepEPqLJz5bMfvNetIHSXGyU6GJH_5ZmRGiBK8yvo/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy83OGU0/YWIzZS0xNDM5LTRi/ZDctOWRlZC0zZTcw/YzhlNTYxNTJkMjA5/NzIzN2M3MWU1YTk2/NWJfV2VzdCBBZnJp/Y2EgNCAtIGFmcmlj/YW4gZHJ1bW1pbmcu/cG5n.png)](https://www.atlasobscura.com/adventures/trips/west-africa)
-
-Benin • 13 days, 12 nights
-
-[NEW - Rhythms & Rituals: West Africa's Spiritual Traditions](https://www.atlasobscura.com/adventures/trips/west-africa)
-
-from
-
-[View all trips](https://www.atlasobscura.com/adventures/trips)
+Loading...
 
 Upcoming Experiences
 
@@ -57,6 +30,10 @@ Members Only
 
 Monster of the Month w/ Colin Dickey: The Albatwitch](https://www.atlasobscura.com/experiences/monster-of-the-month-w-colin-dickey-the-albatwitch)
 
+   [![](https://img.atlasobscura.com/iBmYQnBuFHN6USDGinknmm1IrzJw7Y2XxZIT_GHYChg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy82OGVh/ZmQzZi01NzEyLTQz/Y2MtOTU3OS0zMWE3/ZTQ4MzdjYTQxZTlj/OTNiYjNhYTM2OWVk/MmJfdWMzeGtqa1Eu/anBn.jpg)
+
+Wild Life: An Explorer's Guide to the World's Living Wonders](https://www.atlasobscura.com/experiences/wild-life-book-event-toronto)
+
    [![](https://img.atlasobscura.com/rHgWDyNgbn2PLJ4fPnve5r--YDSMfBkSbNDqnDrd6NE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8xODAz/Mjk3OS0xYThiLTQ1/YjQtYjFkMC1hNDhk/MTcxZmUxNTBhZjcx/MWI1MGE0MjY5NTAy/ZjZfanVuaW9yLWZl/cnJlaXJhLTdlc1JQ/VHQzOG5JLXVuc3Bs/YXNoLmpwZw.jpg)
 
 Members Only
@@ -69,7 +46,29 @@ Members Only
 
 Monster of the Month w/ Colin Dickey: Frankenstein](https://www.atlasobscura.com/experiences/monster-of-the-month-w-colin-dickey-frankenstein)
 
-Loading...
+Upcoming Courses
+
+[View All Courses »](https://www.atlasobscura.com/online-courses)
+
+   [![](https://img.atlasobscura.com/h4igLegodufwLGE-1D3Up_c34h5XU0p1JiqZj924kmQ/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81Y2Rh/OTJmZS05OGU3LTRl/YmItYmNhMS01OGE4/YWQxNGNmYWU5YzQ3/N2Y1NmZjNjAyMjFl/YTZfc3RlcGhhbi13/aWR1YS0zWUFJdkJO/bFpNNC11bnNwbGFz/aC5qcGc.jpg)
+
+Cosmic Life: Astrobiology & the Search for Extraterrestrial Life With Dr. Graham Lau](https://www.atlasobscura.com/experiences/astrobiology-course)
+
+   [![](https://img.atlasobscura.com/oteCwywQUV_z7ByuIyJNpVBM8xr7Fl_GCkrW3rCKXIM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8yZWZl/Y2ZhYS1mZTQ2LTQ3/YmEtOWYyZi1jMDQz/YmI2ODY0NGUwMmYz/ZTU5ZjMzZWZhNjE3/YTFfYW5pdGEtamFu/a292aWMtbTVvRnp6/cmNLd2MtdW5zcGxh/c2guanBn.jpg)
+
+Historical Nonfiction: Research-Based Writing With Hadley Meares](https://www.atlasobscura.com/experiences/writing-history-online-course)
+
+   [![](https://img.atlasobscura.com/KbnCSVJrc2IwUlmtdX1_5ad2bAo-ch27UbKSBdJHmRM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81Zjdj/YmRiZC1mOWQ4LTRk/YWMtYmQyZC00NzBl/NjdlNzk4NjFmYWU2/OWVmMjliYWExMDEx/OWRfYmVuLWJsZW5u/ZXJoYXNzZXR0LWto/bVBsLTFhVmlnLXVu/c3BsYXNoLmpwZw.jpg)
+
+Winged Wonders: Mastering Bird Photography With Joseph Saunders](https://www.atlasobscura.com/experiences/bird-photography-online-course)
+
+   [![](https://img.atlasobscura.com/GvclmYNtKmRjd1vLUiCiq0AGTTrC_F0Tx6Lc-L2uPTk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy82MjEx/M2VkZC1iNmE3LTRk/MjMtOWRhZC05ZjI4/ZDk4MGE4MWI2OWQy/ZmY1ODAxYjYzZWY2/MzRfc2ltb24tYmVy/Z2VyLV9hMWxBNVRp/XzFJLXVuc3BsYXNo/IGNvcHkuanBn.jpg)
+
+Tree Communication With Annie Novak](https://www.atlasobscura.com/experiences/tree-communication-course)
+
+   [![](https://img.atlasobscura.com/pzidrqzrZZyECY-vNqnesDKb0Ns9crzYordU8xAc8Ck/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8yNWE1/NDU2Yy0xM2EzLTRl/YWMtODliYi0zNjNi/ZmM5OTRjZTc3YTM0/ZTQ5ZTRiZWE1ZDBj/ZTZfQVNIXzA1MDgu/SlBH.jpg)
+
+Piecemaker: Sewing a Sampler Quilt With Aaron Sanders Head](https://www.atlasobscura.com/experiences/quilting-online-course)
 
 Top Destinations
 
@@ -123,21 +122,21 @@ Latest Places
 
 [View All Places »](https://www.atlasobscura.com/places?sort=published_at)
 
-   [![Tiny Tomb by Lady Delaney](https://img.atlasobscura.com/_33T5YMgMgg3pGet_Poa7l9rrXB68KSH0Enap4Xm0N4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kZmUx/NTRmOC1lOGRiLTQx/M2UtOTdjMS1kMDU3/NzUwYzI4NmE2YTlk/MTIxNDg0ZmM2ZDkw/YTBfVGlueSBUb21i/IHBob3RvIGJ5IExh/dXJlbiBNYXJpZSBC/cmVhdXguanBn.jpg)
+   [![Metal waves marking how high the water got during Hurricane Hazel](https://img.atlasobscura.com/JcMZC6z6IPLiimwLuN5s7fIOxAtlzf7VWlHknjSpULY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lN2Y2/OGZhMy0yMjU1LTQw/NjMtYmQ2Mi0yNzYx/OTk0Y2UwZWQwNzgx/ZDYyNTg2YTk4MWQx/NTFfZmVkNWJmZDYt/OGE0NS00YjlhLTky/MDctNDhmOTVkMDI4/MmUyLTFfYWxsXzI2/NzY5LmpwZw.jpg)
 
-Tiny Tombs](https://www.atlasobscura.com/places/tiny-tombs-new-orleans)
+Hurricane Hazel Memorial Plaque](https://www.atlasobscura.com/places/hurricane-hazel-memorial-plaque)
 
-   [![](https://img.atlasobscura.com/oUrN9HmXObHe282WFX-2ML24iNJcIn3wQHcrbOuK7rw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hMzdk/YTY3Yi0wY2Q4LTQ2/ZjItOTVkMi1mZjk0/MzhkNzA4YWFhZWZj/ODNmNDlkOGQ4ODNk/Y2VfTmVjcm9wb2xp/c19vZl9QYW50YWxp/Y2FfKDM1NjQzNzM4/NCkuanBn.jpg)
+   [![Swim through the chilly waters to this sweltering sauna.](https://img.atlasobscura.com/Py1fmXWrrEt-JOlSPrFpLb-sRxs2b4tnBlC2V4ZL_-M/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85ODNl/Zjk2Mi05NmU2LTQx/ZmUtYjQwYi1jMGMy/OWRjNjIxYmI0NTIx/Yjk0MDc0NzRhMDcx/ZjFfMjAyMjA1MDZf/MTkwMTA5LmpwZw.jpg)
 
-Necropolis of Pantalica](https://www.atlasobscura.com/places/necropolis-of-pantalica)
+Floating Sauna Lake Derby](https://www.atlasobscura.com/places/floating-sauna-on-lake-derby-tasmania)
 
-   [![The “eyes of the Devil.”](https://img.atlasobscura.com/JRhf8cPe3jnO2IWY-AZIoaXU8gkTZq9EBuD2fcuHktA/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hMmM1/NzM1MS0wNzBkLTQ1/ZWEtOWMzNi0xMjA5/OTA1YjQ4ZjYzNDdm/MzFiNzg1YWNkZTA5/MDVfRFNDXzAyNTEu/anBlZw.jpg)
+   [![](https://img.atlasobscura.com/hhbWB7NfolItGEKS50JsUl0ywQPw5UEJqsjN538jGw0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83ODQx/YjBiMi01ZDNlLTQz/MGEtYjMxNC05NTZk/NjQ0ZDFjNzk2MDg0/YWFhY2JlNTJkOTFm/ZDRfMjAyNDA4MzBf/MTc0NTQ1LmpwZw.jpg)
 
-Occhi del Diavolo](https://www.atlasobscura.com/places/occhi-del-diavolo)
+Maison de la Littérature](https://www.atlasobscura.com/places/maison-de-la-litterature)
 
-   [![Statue and sign](https://img.atlasobscura.com/auyj3r1xPh7d_eTwXUK4_mhILbT2nqVbk7RNvmYUsZk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jYTZl/YjY2OS1kZjFkLTQw/ZjctOTQ5NS1hZWRl/YmU1ZGMxN2ZhZGFh/MzFkMzU2YTc2NWQ3/ODdfSU1HXzE4MzQu/anBlZw.jpg)
+   [![Wolford Chapel, with its Canadian flag outside.](https://img.atlasobscura.com/bWZxn8U6JOmypE78_WkTkzd7AF7WQzuxE2T5W71NMGE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jOWI0/MDAwNi04ZjE5LTRl/ZmQtODYyOS0zNTZi/YWQxYjA2ZDQ0YWM3/OTE0NmM2MzU5Yjk5/ZDhfMjUzNTc0MTc1/NzdfMjQ1N2NmM2Q0/YV9rLmpwZw.jpg)
 
-The Original Boot Hill Cemetery](https://www.atlasobscura.com/places/original-boot-hill-cemetery-kansas)
+Wolford Chapel](https://www.atlasobscura.com/places/wolford-chapel)
 
 Latest Places to Eat & Drink
 
@@ -179,13 +178,13 @@ Most Recent Stories
 
 7 Candidates for Your Election Day Menu](https://www.atlasobscura.com/articles/political-food-election-recipes)
 
+   [![An award-winning bronze sculpture featured in the Beaufort County Library depicts a Gullah woman carrying a sweetgrass basket full of vegetables.](https://img.atlasobscura.com/ksXBvnpRdomzN87CyovbStaXjffQo-5KQZCcrOdtUXE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy80M2NlMWYxMjAy/MzU3YzVmNDRfaW1h/Z2U0LmpwZw.jpg)
+
+The Unique Gullah Geechee History of South Carolina](https://www.atlasobscura.com/articles/the-unique-gullah-geechee-history-of-south-carolina)
+
    [![This map of Poyais from the 1820s fooled hundreds of people.](https://img.atlasobscura.com/9OKAcXKipFUm7-c566nReowSNyAtIZq6YlCkhoVxnwo/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9jZGUyYWQ2NS1m/ZjZlLTQ2OGYtOTE4/OC05OTNlNTZjMTc3/NDliMmE0MWE0MGJm/ZmIyMGZkNGRfR3Jl/Z29yIE1hY0dyZWdv/ciwgQSBNYXAgb2Yg/UGFydCBvZiB0aGUg/RGlzdHJpY3Qgb2Yg/UG95YWlzIHRoZSBQ/cm9wZXJ0eSBvZiBI/LkUuIFNpciBHcmVn/b3IgTWFjR3JlZ29y/IDE4MjAuLCAxODIw/LiBDb3VydGVzeSBv/ZiBEYW5pZWwgQ3Jv/dWNoIFJhcmUgQm9v/a3MuICAoMSkuanBn.jpg)
 
 This Map Shows a Fictional Country Created by a Con Man](https://www.atlasobscura.com/articles/gregor-macgregor-map-of-poyais)
-
-   [![A phenomenon known as "nocturnal death syndrome" inspired Wes Craven to write A Nightmare on Elm Street and introduce the world to Freddy Krueger.](https://img.atlasobscura.com/T5nswELl5_nZIAJFwJV4I8GSMcFcmQHTRr6PhukkOY0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81ZGU5ZTQ0NS1l/YTEzLTQ1MDItYTUz/Mi0yYmM4MmM4MDZm/MDgyZWZmOTdmNWZk/MjExZTc3MmJfU3Bv/b2t5IEZyZWRkeSBL/cnVlZ2VyIE5pZ2h0/bWFyZXMgSGF1bnRp/bmcgQ3JlZXB5X2Eu/anBn.jpg)
-
-The Science of Fighting Our Nightmares](https://www.atlasobscura.com/articles/how-to-fight-your-nightmares)
 
 No search results found for  
 “”
