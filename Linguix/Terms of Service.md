@@ -149,7 +149,7 @@ If any part of these Terms is held to be invalid or unenforceable, the unenforce
 
 ©2024 Textly Inc. <> [Linguix.com](https://linguix.com/)
 
-Product [Linguix Apps](https://linguix.com/apps) [Shortcuts](https://turbo.linguix.com/) [Pricing](https://linguix.com/pricing) [Content Marketing](https://linguix.com/content-marketing) [White Label](https://linguix.com/white-label)
+Product [Linguix Apps](https://linguix.com/apps) [Shortcuts](https://linguix.com/shortcuts) [Pricing](https://linguix.com/pricing) [Content Marketing](https://linguix.com/content-marketing) [White Label](https://linguix.com/white-label)
 
 Students & Graduates
 
