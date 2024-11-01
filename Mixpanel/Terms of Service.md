@@ -96,7 +96,7 @@ privacy
 
 +
 
-[Privacy Statement](https://mixpanel.com/legal/privacy-policy)[Marketing Privacy Notice](https://mixpanel.com/legal/marketing-privacy-notice)[GDPR](https://mixpanel.com/legal/mixpanel-gdpr)[EU Data Residency](https://mixpanel.com/legal/eu-data-residency)[CCPA](https://mixpanel.com/legal/mixpanel-ccpa)[HIPAA](https://mixpanel.com/legal/mixpanel-hipaa)[LGPD](https://mixpanel.com/legal/mixpanel-lgpd)[PDPA](https://mixpanel.com/legal/mixpanel-pdpa)[Apple App Dev Privacy Guidance](https://mixpanel.com/legal/app-store-privacy-details)[Transparency Report](https://mixpanel.com/legal/transparency-report)[Generative AI Features](https://mixpanel.com/legal/gen-ai-features)
+[Privacy Statement](https://mixpanel.com/legal/privacy-policy)[Marketing Privacy Notice](https://mixpanel.com/legal/marketing-privacy-notice)[GDPR](https://mixpanel.com/legal/mixpanel-gdpr)[EU and India Data Residency](https://mixpanel.com/legal/eu-data-residency)[CCPA](https://mixpanel.com/legal/mixpanel-ccpa)[HIPAA](https://mixpanel.com/legal/mixpanel-hipaa)[LGPD](https://mixpanel.com/legal/mixpanel-lgpd)[PDPA](https://mixpanel.com/legal/mixpanel-pdpa)[Apple App Dev Privacy Guidance](https://mixpanel.com/legal/app-store-privacy-details)[Transparency Report](https://mixpanel.com/legal/transparency-report)[Generative AI Features](https://mixpanel.com/legal/gen-ai-features)
 
 security
 
@@ -118,7 +118,7 @@ privacy
 
 +
 
-[Privacy Statement](https://mixpanel.com/legal/privacy-policy)[Marketing Privacy Notice](https://mixpanel.com/legal/marketing-privacy-notice)[GDPR](https://mixpanel.com/legal/mixpanel-gdpr)[EU Data Residency](https://mixpanel.com/legal/eu-data-residency)[CCPA](https://mixpanel.com/legal/mixpanel-ccpa)[HIPAA](https://mixpanel.com/legal/mixpanel-hipaa)[LGPD](https://mixpanel.com/legal/mixpanel-lgpd)[PDPA](https://mixpanel.com/legal/mixpanel-pdpa)[Apple App Dev Privacy Guidance](https://mixpanel.com/legal/app-store-privacy-details)[Transparency Report](https://mixpanel.com/legal/transparency-report)[Generative AI Features](https://mixpanel.com/legal/gen-ai-features)
+[Privacy Statement](https://mixpanel.com/legal/privacy-policy)[Marketing Privacy Notice](https://mixpanel.com/legal/marketing-privacy-notice)[GDPR](https://mixpanel.com/legal/mixpanel-gdpr)[EU and India Data Residency](https://mixpanel.com/legal/eu-data-residency)[CCPA](https://mixpanel.com/legal/mixpanel-ccpa)[HIPAA](https://mixpanel.com/legal/mixpanel-hipaa)[LGPD](https://mixpanel.com/legal/mixpanel-lgpd)[PDPA](https://mixpanel.com/legal/mixpanel-pdpa)[Apple App Dev Privacy Guidance](https://mixpanel.com/legal/app-store-privacy-details)[Transparency Report](https://mixpanel.com/legal/transparency-report)[Generative AI Features](https://mixpanel.com/legal/gen-ai-features)
 
 security
 
@@ -136,7 +136,7 @@ privacy
 
 +
 
-[Privacy Statement](https://mixpanel.com/legal/privacy-policy)[Marketing Privacy Notice](https://mixpanel.com/legal/marketing-privacy-notice)[GDPR](https://mixpanel.com/legal/mixpanel-gdpr)[EU Data Residency](https://mixpanel.com/legal/eu-data-residency)[CCPA](https://mixpanel.com/legal/mixpanel-ccpa)[HIPAA](https://mixpanel.com/legal/mixpanel-hipaa)[LGPD](https://mixpanel.com/legal/mixpanel-lgpd)[PDPA](https://mixpanel.com/legal/mixpanel-pdpa)[Apple App Dev Privacy Guidance](https://mixpanel.com/legal/app-store-privacy-details)[Transparency Report](https://mixpanel.com/legal/transparency-report)[Generative AI Features](https://mixpanel.com/legal/gen-ai-features)
+[Privacy Statement](https://mixpanel.com/legal/privacy-policy)[Marketing Privacy Notice](https://mixpanel.com/legal/marketing-privacy-notice)[GDPR](https://mixpanel.com/legal/mixpanel-gdpr)[EU and India Data Residency](https://mixpanel.com/legal/eu-data-residency)[CCPA](https://mixpanel.com/legal/mixpanel-ccpa)[HIPAA](https://mixpanel.com/legal/mixpanel-hipaa)[LGPD](https://mixpanel.com/legal/mixpanel-lgpd)[PDPA](https://mixpanel.com/legal/mixpanel-pdpa)[Apple App Dev Privacy Guidance](https://mixpanel.com/legal/app-store-privacy-details)[Transparency Report](https://mixpanel.com/legal/transparency-report)[Generative AI Features](https://mixpanel.com/legal/gen-ai-features)
 
 security
 
