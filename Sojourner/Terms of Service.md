@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-565316844279b9d95bb8e2beaf6a3d4d
+a18c77d278c81672f3cdb6ea327c49e3
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![12 mm faceted round zebra jasper beads](https://sojourner.biz/images/cache/stone/STN014.200.jpg)](https://sojourner.biz/beads/stone-m-z/other-stones/12-mm-faceted-round-zebra-jasper-beads.html "12 mm faceted round zebra jasper beads")
+[![6 mm round pink and gold Czech glass beads](https://sojourner.biz/images/cache/glass/GL0323.200.jpg)](https://sojourner.biz/beads/glass/6-mm-round-pink-and-gold-czech-glass-beads.html "6 mm round pink and gold Czech glass beads")
 
-#### [12 mm faceted round zebra jasper beads](https://sojourner.biz/beads/stone-m-z/other-stones/12-mm-faceted-round-zebra-jasper-beads.html "12 mm faceted round zebra jasper beads")
+#### [6 mm round pink and gold Czech glass beads](https://sojourner.biz/beads/glass/6-mm-round-pink-and-gold-czech-glass-beads.html "6 mm round pink and gold Czech glass beads")
 
-$17.00
+$2.00
 
 ### Best Sellers
 
