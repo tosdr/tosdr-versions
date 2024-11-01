@@ -4,14 +4,6 @@
 
 * [Products](#)
     
-    [for iOS and Android
-    -------------------
-    
-    ![](https://www.collaboraonline.com/wp-content/uploads/2023/06/mobile-bannerBv2-1024x497.png)](https://www.collaboraoffice.com/collabora-office-android-ios/)[for Education
-    -------------
-    
-    ![](https://www.collaboraonline.com/wp-content/uploads/2024/05/chromebooks-1024x640.png)](https://www.collaboraoffice.com/collabora-online-for-education/)
-    
     [![](https://www.collaboraonline.com/wp-content/uploads/2023/06/collabora-online-primary300-e1709657485501.png)
     
     Fully featured, collaborative document editing](https://www.collaboraoffice.com/collabora-online/)[![](https://www.collaboraonline.com/wp-content/uploads/2024/02/collabora-office-primary-e1709138708303.png)
@@ -19,6 +11,14 @@
     Same great features on your desktop](https://www.collaboraoffice.com/collabora-office/)[![](https://www.collaboraonline.com/wp-content/uploads/2024/05/code-logo.png)
     
     Try the development edition for free](https://www.collaboraoffice.com/code/)
+    
+    [for iOS and Android
+    -------------------
+    
+    ![](https://www.collaboraonline.com/wp-content/uploads/2023/06/mobile-bannerBv2-1024x497.png)](https://www.collaboraoffice.com/collabora-office-android-ios/)[for Education
+    -------------
+    
+    ![](https://www.collaboraonline.com/wp-content/uploads/2024/05/chromebooks-1024x640.png)](https://www.collaboraoffice.com/collabora-online-for-education/)
     
     [Pricing
     -------](https://www.collaboraoffice.com/subscriptions/)
@@ -87,32 +87,32 @@
     Featured Partners
     -----------------
     
-    [![](https://www.collaboraonline.com/wp-content/uploads/2024/07/owncloud-logo.png)](https://www.collaboraonline.com/partners/owncloud/)
+    [![](https://www.collaboraonline.com/wp-content/uploads/2023/06/arawa-e1709655274639.png)](https://www.collaboraonline.com/partners/arawa/)
+    
+    [![](https://www.collaboraonline.com/wp-content/uploads/2023/06/jeci_logo.png)](https://www.collaboraonline.com/partners/jeci/)
     
     [![](https://www.collaboraonline.com/wp-content/uploads/2023/06/Nextcloud_Logo.svg-e1709655206423-1024x623.png)](https://www.collaboraonline.com/partners/nextcloud/)
     
-    [![](https://www.collaboraonline.com/wp-content/uploads/2024/05/Strato_Logo_2019.svg-1024x220.png)](https://www.collaboraonline.com/partners/strato/)
-    
-    [![](https://www.collaboraonline.com/wp-content/uploads/2023/06/arawa-e1709655274639.png)](https://www.collaboraonline.com/partners/arawa/)
-    
     [![](https://www.collaboraonline.com/wp-content/uploads/2024/07/univention-logo.png)](https://www.collaboraonline.com/partners/univention/)
     
-    [![](https://www.collaboraonline.com/wp-content/uploads/2023/06/jeci_logo.png)](https://www.collaboraonline.com/partners/jeci/)
+    [![](https://www.collaboraonline.com/wp-content/uploads/2024/07/owncloud-logo.png)](https://www.collaboraonline.com/partners/owncloud/)
+    
+    [![](https://www.collaboraonline.com/wp-content/uploads/2024/05/Strato_Logo_2019.svg-1024x220.png)](https://www.collaboraonline.com/partners/strato/)
     
     Featured Integrations
     ---------------------
     
     [![](https://www.collaboraonline.com/wp-content/uploads/2024/06/Drupal-logo.png)](https://www.collaboraonline.com/integrations/collabora-online-and-drupal/)
     
-    [![](https://www.collaboraonline.com/wp-content/uploads/2024/02/OpenText-Logo-2017.png)](https://www.collaboraonline.com/partners/opentext/)
-    
     [![](https://www.collaboraonline.com/wp-content/uploads/2024/05/Mattermost-logo-1.png)](https://www.collaboraonline.com/integrations/collabora-online-and-mattermost/)
     
     [![](https://www.collaboraonline.com/wp-content/uploads/2024/05/Nuxeo-logo.png)](https://www.collaboraonline.com/integrations/collabora-online-and-nuxeo/)
     
-    [![](https://www.collaboraonline.com/wp-content/uploads/2024/05/Moodle-logo-1.png)](https://www.collaboraonline.com/integrations/collabora-online-and-moodle/)
+    [![](https://www.collaboraonline.com/wp-content/uploads/2024/02/OpenText-Logo-2017.png)](https://www.collaboraonline.com/partners/opentext/)
     
     [![](https://www.collaboraonline.com/wp-content/uploads/2024/05/Alfresco-logo-1.png)](https://www.collaboraonline.com/integrations/collabora-online-and-alfresco/)
+    
+    [![](https://www.collaboraonline.com/wp-content/uploads/2024/05/Moodle-logo-1.png)](https://www.collaboraonline.com/integrations/collabora-online-and-moodle/)
     
 * [About Us](#)
     
