@@ -82,7 +82,7 @@ The mission of BYUtv is to create purposeful, engaging viewing and listening exp
 
 A Service of Brigham Young University.
 
-Client Version: 5.0.5075
+Client Version: 5.0.5092
 
 API Version: 5.60.0
 
@@ -296,4 +296,4 @@ Higher Bandwidth
 
 Lower Bandwidth
 
-[home](https://www.byutv.org/home "home") [shows](https://www.byutv.org/shows "shows") [live](https://www.byutv.org/live "live") [my byutv](https://www.byutv.org/favorites "my byutv") [Sign In](https://www.byutv.org/account "account")
+[home](https://www.byutv.org/home "home") [shows](https://www.byutv.org/shows "shows") [live](https://www.byutv.org/live "live") [my byutv](https://www.byutv.org/favorites "my byutv") [Sign Up/In](https://www.byutv.org/account/create?next=%2Fprivacy "account")
