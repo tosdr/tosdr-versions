@@ -21,16 +21,15 @@ Menu
 Main Navigation[Back](#)
 
 1. [Christmas](https://www.lidl.co.uk/c/christmas/s10031266)
-2. [Halloween](https://www.lidl.co.uk/c/halloween/s10026897)
-3. [Middle of Lidl](https://www.lidl.co.uk/c/middle-of-lidl/s10054469)
-4. [Food Offers](https://www.lidl.co.uk/c/food-offers/s10023092)
-5. [Our Products](https://www.lidl.co.uk/c/our-products/s10023093)
-6. [Wines](https://www.lidl.co.uk/c/wines/s10023094)
-7. [Parkside](https://www.lidl.co.uk/c/parkside/s10027318)
-8. [Recipes](https://recipes.lidl.co.uk/)
-9. [Lidl Plus](https://www.lidl.co.uk/c/lidl-plus/s10023095)
-10. [About us](https://www.lidl.co.uk/c/about-us/s10023097)
-11. [Magazines](https://www.lidl.co.uk/c/magazines/s10023096)
+2. [Middle of Lidl](https://www.lidl.co.uk/c/middle-of-lidl/s10054469)
+3. [Food Offers](https://www.lidl.co.uk/c/food-offers/s10023092)
+4. [Our Products](https://www.lidl.co.uk/c/our-products/s10023093)
+5. [Wines](https://www.lidl.co.uk/c/wines/s10023094)
+6. [Parkside](https://www.lidl.co.uk/c/parkside/s10027318)
+7. [Recipes](https://recipes.lidl.co.uk/)
+8. [Lidl Plus](https://www.lidl.co.uk/c/lidl-plus/s10023095)
+9. [About us](https://www.lidl.co.uk/c/about-us/s10023097)
+10. [Magazines](https://www.lidl.co.uk/c/magazines/s10023096)
 
 1. [ChristmasShow](https://www.lidl.co.uk/c/christmas/s10031266)
 2. [Christmas Food And Drink](https://www.lidl.co.uk/c/christmas-food-and-drink/s10056111)
@@ -1975,6 +1974,7 @@ Sitemap![](/n/footer/icons/arrow-bottom.svg)
 
 ###### Sitemap
 
+* [Summer](https://www.lidl.co.uk/c/summer/s10023091)
 * [Food Offers](https://www.lidl.co.uk/c/food-offers/s10023092)
 * [Our Products](https://www.lidl.co.uk/c/our-products/s10023093)
 * [Wines](https://www.lidl.co.uk/c/wines/s10023094)
