@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Crossing The Line: North Korea](/wp-content/thumbnails/7055-100x70.jpg?x53432)
+* [![The Death of Yugoslavia](/wp-content/thumbnails/6329-100x70.jpg?x53432)
     
-    Crossing The Line: North Korea
+    The Death of Yugoslavia
     
-    This is the story of James Joseph Dresnok, once a United States Army private, who successfully crossed the minefield-strewn demilitarized zone and defected to North Korea during the war.Dresnok ha](https://documentaryheaven.com/crossing-the-line-north-korea/ "Crossing The Line: North Korea")
-* [![In the Age of AI](/wp-content/thumbnails/16113-100x70.jpg?x53432)
+    The Death of Yugoslavia (Serbian, Montenegrin,Bosnian, Croatian and Slovenian: Smrt Jugoslavije, Macedonian: Смртта на Југославија, Smrtta na Jugoslavija) is a BBC documentary series first broadcast i](https://documentaryheaven.com/the-death-of-yugoslavia/ "The Death of Yugoslavia")
+* [![We Heard The Bells: The Influenza of 1918](/wp-content/thumbnails/14859-100x70.jpg?x53432)
     
-    In the Age of AI
+    We Heard The Bells: The Influenza of 1918
     
-    In this two-hour Frontline special, we enter a race between nations that is taking place in order to become an artificial intelligence superpower and the politics involved in such a goal. It has been](https://documentaryheaven.com/age-of-artificial-intelligence/ "In the Age of AI")
-* [![Are We Real](/wp-content/thumbnails/1-100x70.png?x53432)
+    With the Coronavirus death toll now surpassing 1,000 in mainland China it seems only appropriate that we take a look back in time to the year 1918. It was a year that saw the First World War come to a](https://documentaryheaven.com/heard-bells-influenza-1918/ "We Heard The Bells: The Influenza of 1918")
+* [![How Safe Are Our Planes?](/wp-content/thumbnails/9753-100x70.jpg?x53432)
     
-    Are We Real
+    How Safe Are Our Planes?
     
-    There is a fundamental chasm in our understanding of ourselves, the universe, and everything. To solve this, Sir Martin takes us on a mind-boggling journey through multiple universes to post-biologica](https://documentaryheaven.com/are-we-real/ "Are We Real")
-* [![Cherry Bomb: The Documentary](/wp-content/thumbnails/13265-100x70.jpg?x53432)
+    150 people lost their lives recently, in one of the worst airline disasters of recent years. Andreas Lubitz is the Co-Piolit being held responsible for deliberately crashing the Germanwings Airbus 320](https://documentaryheaven.com/how-safe-are-our-planes/ "How Safe Are Our Planes?")
+* [![Life as an Illegal Immigrant in Greece](/wp-content/thumbnails/8765-100x70.jpg?x53432)
     
-    Cherry Bomb: The Documentary
+    Life as an Illegal Immigrant in Greece
     
-    If you don't know now you know that Tyler, The Creator's long awaited documentary film 'Cherry Bomb' has finally dropped. Directed by Illegal Civilization's Mikey Alfred, this behind the scenes docume](https://documentaryheaven.com/cherry-bomb-documentary/ "Cherry Bomb: The Documentary")
-* [![Halloween: 25 Years of Terror](/wp-content/thumbnails/6146-100x70.jpg?x53432)
+    Vice News sends Alex Miller to Greece to cover the current situation for immigrants in search for a better life, they assume a European country such as Greece would hold better prospects for them and](https://documentaryheaven.com/life-as-an-illegal-immigrant-in-greece/ "Life as an Illegal Immigrant in Greece")
+* [![Judgement Day: Intelligent Design on Trial](/wp-content/thumbnails/570-100x70.png?x53432)
     
-    Halloween: 25 Years of Terror
+    Judgement Day: Intelligent Design on Trial
     
-    The definitive documentary about the Halloween franchise that has kept horror movie fans thrilled with each new edition. Includes behind-the-scenes footage, plus 80 interviews with cast and crew inclu](https://documentaryheaven.com/halloween-25-years-of-terror/ "Halloween: 25 Years of Terror")
+    Judgment Day: Intelligent Design on Trial is an award winning NOVA documentary on the case of Kitzmiller v. Dover Area School District, which concentrated on the question of whether or not intelligent](https://documentaryheaven.com/judgement-day-intelligent-design-on-trial/ "Judgement Day: Intelligent Design on Trial")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
