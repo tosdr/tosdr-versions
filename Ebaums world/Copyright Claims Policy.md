@@ -197,13 +197,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![guy wearing SOA vest while getting gas](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-berates-kid-wearing-a-sons-of-anarchy-vest-because-hes-not-in-a-real-biker-gang/85158575/) [Kid Wearing A 'Sons of Anarchy' Vest Gets Berated By Real Biker](https://www.ebaumsworld.com/videos/guy-berates-kid-wearing-a-sons-of-anarchy-vest-because-hes-not-in-a-real-biker-gang/85158575/)
+    [![Touring the “Worst Resort in Las Vegas”](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/touring-the-worst-resort-in-las-vegas/87422977/) [Touring the “Worst Resort in Las Vegas”](https://www.ebaumsworld.com/videos/touring-the-worst-resort-in-las-vegas/87422977/)
     
     [![a tiny camera in a bluetooth headset](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/24-people-who-found-hidden-cameras-in-normal-items/86438450/) [24 People Who Found Hidden Cameras in Normal Items](https://www.ebaumsworld.com/pictures/24-people-who-found-hidden-cameras-in-normal-items/86438450/)
     
-    [![Mike Rowe of Dirty Jobs is a con man who doesn't care about working people](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/the-dirty-con-job-of-mike-rowe/86426183/) [The Dirty Con Job of Mike Rowe](https://www.ebaumsworld.com/videos/the-dirty-con-job-of-mike-rowe/86426183/)
+    [![Millionaire Karen Meets Karma After Fleeing From Police](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/millionaire-karen-meets-karma-after-fleeing-from-police/87424857/) [Millionaire Karen Meets Karma After Fleeing From Police](https://www.ebaumsworld.com/videos/millionaire-karen-meets-karma-after-fleeing-from-police/87424857/)
     
-    [![Insane Childhood Stories As Told By Twitter Users](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/insane-childhood-stories-as-told-by-twitter-users/87497005/) [19 Insane Childhood Stories As Told By Twitter Users](https://trending.ebaumsworld.com/pictures/insane-childhood-stories-as-told-by-twitter-users/87497005/)
+    [![a man sipping whiskey in his cluttered home | video of a man drinking and his wife leaving him in the backround](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/man-reviews-scotch-while-his-wife-packs-up-her-things-and-leaves-him-in-the-background/85847868/) [Man Reviews Scotch While His Wife Packs Up Her Things and Leaves Him in The Background](https://www.ebaumsworld.com/videos/man-reviews-scotch-while-his-wife-packs-up-her-things-and-leaves-him-in-the-background/85847868/)
     
 
 * Advertisement
