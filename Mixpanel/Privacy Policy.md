@@ -96,7 +96,7 @@ privacy
 
 +
 
-[Privacy Statement](https://mixpanel.com/legal/privacy-policy)[Marketing Privacy Notice](https://mixpanel.com/legal/marketing-privacy-notice)[GDPR](https://mixpanel.com/legal/mixpanel-gdpr)[EU Data Residency](https://mixpanel.com/legal/eu-data-residency)[CCPA](https://mixpanel.com/legal/mixpanel-ccpa)[HIPAA](https://mixpanel.com/legal/mixpanel-hipaa)[LGPD](https://mixpanel.com/legal/mixpanel-lgpd)[PDPA](https://mixpanel.com/legal/mixpanel-pdpa)[Apple App Dev Privacy Guidance](https://mixpanel.com/legal/app-store-privacy-details)[Transparency Report](https://mixpanel.com/legal/transparency-report)[Generative AI Features](https://mixpanel.com/legal/gen-ai-features)
+[Privacy Statement](https://mixpanel.com/legal/privacy-policy)[Marketing Privacy Notice](https://mixpanel.com/legal/marketing-privacy-notice)[GDPR](https://mixpanel.com/legal/mixpanel-gdpr)[EU and India Data Residency](https://mixpanel.com/legal/eu-data-residency)[CCPA](https://mixpanel.com/legal/mixpanel-ccpa)[HIPAA](https://mixpanel.com/legal/mixpanel-hipaa)[LGPD](https://mixpanel.com/legal/mixpanel-lgpd)[PDPA](https://mixpanel.com/legal/mixpanel-pdpa)[Apple App Dev Privacy Guidance](https://mixpanel.com/legal/app-store-privacy-details)[Transparency Report](https://mixpanel.com/legal/transparency-report)[Generative AI Features](https://mixpanel.com/legal/gen-ai-features)
 
 security
 
@@ -118,7 +118,7 @@ privacy
 
 +
 
-[Privacy Statement](https://mixpanel.com/legal/privacy-policy)[Marketing Privacy Notice](https://mixpanel.com/legal/marketing-privacy-notice)[GDPR](https://mixpanel.com/legal/mixpanel-gdpr)[EU Data Residency](https://mixpanel.com/legal/eu-data-residency)[CCPA](https://mixpanel.com/legal/mixpanel-ccpa)[HIPAA](https://mixpanel.com/legal/mixpanel-hipaa)[LGPD](https://mixpanel.com/legal/mixpanel-lgpd)[PDPA](https://mixpanel.com/legal/mixpanel-pdpa)[Apple App Dev Privacy Guidance](https://mixpanel.com/legal/app-store-privacy-details)[Transparency Report](https://mixpanel.com/legal/transparency-report)[Generative AI Features](https://mixpanel.com/legal/gen-ai-features)
+[Privacy Statement](https://mixpanel.com/legal/privacy-policy)[Marketing Privacy Notice](https://mixpanel.com/legal/marketing-privacy-notice)[GDPR](https://mixpanel.com/legal/mixpanel-gdpr)[EU and India Data Residency](https://mixpanel.com/legal/eu-data-residency)[CCPA](https://mixpanel.com/legal/mixpanel-ccpa)[HIPAA](https://mixpanel.com/legal/mixpanel-hipaa)[LGPD](https://mixpanel.com/legal/mixpanel-lgpd)[PDPA](https://mixpanel.com/legal/mixpanel-pdpa)[Apple App Dev Privacy Guidance](https://mixpanel.com/legal/app-store-privacy-details)[Transparency Report](https://mixpanel.com/legal/transparency-report)[Generative AI Features](https://mixpanel.com/legal/gen-ai-features)
 
 security
 
@@ -136,7 +136,7 @@ privacy
 
 +
 
-[Privacy Statement](https://mixpanel.com/legal/privacy-policy)[Marketing Privacy Notice](https://mixpanel.com/legal/marketing-privacy-notice)[GDPR](https://mixpanel.com/legal/mixpanel-gdpr)[EU Data Residency](https://mixpanel.com/legal/eu-data-residency)[CCPA](https://mixpanel.com/legal/mixpanel-ccpa)[HIPAA](https://mixpanel.com/legal/mixpanel-hipaa)[LGPD](https://mixpanel.com/legal/mixpanel-lgpd)[PDPA](https://mixpanel.com/legal/mixpanel-pdpa)[Apple App Dev Privacy Guidance](https://mixpanel.com/legal/app-store-privacy-details)[Transparency Report](https://mixpanel.com/legal/transparency-report)[Generative AI Features](https://mixpanel.com/legal/gen-ai-features)
+[Privacy Statement](https://mixpanel.com/legal/privacy-policy)[Marketing Privacy Notice](https://mixpanel.com/legal/marketing-privacy-notice)[GDPR](https://mixpanel.com/legal/mixpanel-gdpr)[EU and India Data Residency](https://mixpanel.com/legal/eu-data-residency)[CCPA](https://mixpanel.com/legal/mixpanel-ccpa)[HIPAA](https://mixpanel.com/legal/mixpanel-hipaa)[LGPD](https://mixpanel.com/legal/mixpanel-lgpd)[PDPA](https://mixpanel.com/legal/mixpanel-pdpa)[Apple App Dev Privacy Guidance](https://mixpanel.com/legal/app-store-privacy-details)[Transparency Report](https://mixpanel.com/legal/transparency-report)[Generative AI Features](https://mixpanel.com/legal/gen-ai-features)
 
 security
 
@@ -146,6 +146,10 @@ security
 
 Security
 ========
+
+Last Updated
+
+November 1, 2024
 
 Security Overview
 -----------------
@@ -172,6 +176,10 @@ The Mixpanel platform safeguards customer data using a variety of controls:
 ### European Union’s General Data Protection Regulation (GDPR)
 
 Mixpanel is committed to complying with GDPR so that our customer’s and their end user’s rights and obligations are met under GDPR, which took effect on May 25, 2018. As explained in our [GDPR article](https://docs.mixpanel.com/docs/other-bits/privacy-and-security/gdpr-compliance), we created many tools and implemented new processes to ensure we can assist our customers with their compliance with GDPR requirements. Our customers can [programmatically delete end-user data](https://help.mixpanel.com/hc/en-us/articles/360000345423-GDPR-Compliance#supporting-data-subject-rights), or submit deletion or export requests via the privacy portal in their account settings. We also help our customers support data subject rights by providing options for [data retention periods](https://help.mixpanel.com/hc/en-us/articles/360000345423-GDPR-Compliance#data-retention-policy). For more information on our tools and processes, [see our GDPR page](https://help.mixpanel.com/hc/en-us/articles/360000345423-GDPR-Compliance).
+
+### India’s Digital Personal Data Protection Act (DPDP) & Accompanying Regulations
+
+Mixpanel is committed to complying with India’s DPDP so that our customer’s and their end user’s rights and obligations are met. Mixpanel supports tools and processes to ensure we can assist our customers with their compliance with DPDP requirements and compliance obligations. Our customers can [programmatically delete end-user data](https://help.mixpanel.com/hc/en-us/articles/360000345423-GDPR-Compliance#supporting-data-subject-rights), or submit deletion or export requests via the privacy portal in their account settings. We also help our customers support data subject rights by providing options for [data retention periods](https://help.mixpanel.com/hc/en-us/articles/360000345423-GDPR-Compliance#data-retention-policy). For more information on our tools and processes, see our [Privacy Overview page](https://docs.mixpanel.com/docs/privacy).
 
 ### General Security Questions
 
