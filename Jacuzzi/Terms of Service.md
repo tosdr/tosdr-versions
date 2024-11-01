@@ -82,8 +82,8 @@ Menu
     *  [Partnerships](https://www.jacuzzi.com/en-us/partnerships.html)
     *  [Clean Water](https://www.jacuzzi.com/en-us/owners-center/clean-water.html)
     *  [Sustainability](https://www.jacuzzi.com/en-us/corporate-sustainability.html)
-    *  [Jacuzzi® - Everything Else is Just Hot Water](https://www.jacuzzi.com/en-us/Understand-the-Difference-Between-the-Terms-Spa-and-Jacuzzi.html)
     *  [Referral Program](https://www.jacuzzi.com/en-us/referral-program.html)
+    *  [Jacuzzi® - Everything Else is Just Hot Water](https://www.jacuzzi.com/en-us/Understand-the-Difference-Between-the-Terms-Spa-and-Jacuzzi.html)
     
     #### Featured
     
@@ -93,8 +93,8 @@ Menu
     
     *  [Most Popular Articles](https://www.jacuzzi.com/en-us/most-popular-articles-category.html)
     *  [Recent Articles](https://www.jacuzzi.com/en-us/recent-articles-blog.html)
-    *  [Hot Tub Articles](https://www.jacuzzi.com/en-us/category-hot-tub-blogs.html)
     *  [Sauna Articles](https://www.jacuzzi.com/en-us/category-sauna-blogs.html)
+    *  [Hot Tub Articles](https://www.jacuzzi.com/en-us/category-hot-tub-blogs.html)
     *  [Infrared Articles](https://www.jacuzzi.com/en-us/category-ir-blogs.html)
     *  [Swim Spa Articles](https://www.jacuzzi.com/en-us/category-swim-spa-blogs.html)
     *  [Hot Tub Shopping Tools](https://www.jacuzzi.com/en-us/design-your-own.html)
