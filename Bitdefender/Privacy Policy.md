@@ -191,7 +191,7 @@
         [Resources](https://www.bitdefender.com/en-us/business/resource-library)
         
         * [Case Studies](https://www.bitdefender.com/business/resource-library.html?type=Case-Study)
-        * [Whitepapers](https://www.bitdefender.com/business/resource-library.html?type=Whitepaper)
+        * [White Papers](https://www.bitdefender.com/business/resource-library.html?type=Whitepaper)
         * [Webinars](https://www.bitdefender.com/en-us/business/webinars)
         * [Industry Reports](https://www.bitdefender.com/business/resource-library.html?type=Industry-Reports)
         * [Events](https://www.bitdefender.com/en-us/business/events)
