@@ -611,23 +611,17 @@
     
 * Special Offers
     
-    [](https://www.eufy.com/eufy-sales?ref=navimenu_5_1_1_img)
-    
-    Trick or Tech?
-    
-    [Learn More](https://www.eufy.com/eufy-sales?ref=navimenu_5_1_1_img)
-    
-    [](https://www.eufy.com/eufy-security?ref=navimenu_5_1_2_img)
+    [](https://www.eufy.com/eufy-security?ref=navimenu_5_1_1_img)
     
     Secure a Better Home
     
-    [Learn More](https://www.eufy.com/eufy-security?ref=navimenu_5_1_2_img)
+    [Learn More](https://www.eufy.com/eufy-security?ref=navimenu_5_1_1_img)
     
-    [](https://www.eufy.com/appliances-hot-deal?ref=navimenu_5_1_3_img)
+    [](https://www.eufy.com/appliances-hot-deal?ref=navimenu_5_1_2_img)
     
     Clean a Better Home
     
-    [Learn More](https://www.eufy.com/appliances-hot-deal?ref=navimenu_5_1_3_img)
+    [Learn More](https://www.eufy.com/appliances-hot-deal?ref=navimenu_5_1_2_img)
     
 * Business
     
