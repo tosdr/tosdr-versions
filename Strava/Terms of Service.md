@@ -7,12 +7,14 @@
 * [Subscription](https://www.strava.com/subscribe?cta=premium&element=nav&origin=logged_out_global_nav)
 * [Maps](https://www.strava.com/maps)
 * [Stories](https://stories.strava.com/?utm_source=website-header)
+* [Give a Gift](https://www.strava.com/gift)
 * [Sign Up](https://www.strava.com/register?cta=sign-up&element=global-header&plan=free&source=legal_show)
     
     [Log In](https://www.strava.com/login?cta=log-in&element=global-header&source=legal_show)
     
 
 * [Terms of Service](https://www.strava.com/legal/terms)
+* [Gifting Terms](https://www.strava.com/legal/gifting)
 * [Privacy Policy](https://www.strava.com/legal/privacy)
 * [Cookie Policy](https://www.strava.com/legal/cookie_policy)
 * [Acceptable Use Policy](https://www.strava.com/legal/acceptable_use)
