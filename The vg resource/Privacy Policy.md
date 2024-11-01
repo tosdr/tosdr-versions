@@ -117,11 +117,11 @@ This page does not work well in portrait mode on mobile. Please rotate your devi
 * [The Sounds Resource](https://www.sounds-resource.com/)
 
 * Popular Games
-* [Mario Customs](https://www.spriters-resource.com/custom_edited/mariocustoms/)
 * [Sonic the Hedgehog C...](https://www.spriters-resource.com/custom_edited/sonicthehedgehogcustoms/)
-* [Fire Emblem: Heroes](https://www.spriters-resource.com/mobile/fireemblemheroes/)
-* [Pizza Tower](https://www.spriters-resource.com/pc_computer/pizzatower/)
+* [Mario Customs](https://www.spriters-resource.com/custom_edited/mariocustoms/)
+* [Osomatsu-san Hesokur...](https://www.spriters-resource.com/mobile/osomatsusanhesokuriwarsbattleoftheneets/)
 * [Undertale](https://www.spriters-resource.com/pc_computer/undertale/)
+* [Fire Emblem: Heroes](https://www.spriters-resource.com/mobile/fireemblemheroes/)
 
 * Affiliates
 * [Sprite Database](https://spritedatabase.net/)
