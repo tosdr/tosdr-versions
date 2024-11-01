@@ -28,11 +28,11 @@
     
     [Eco Friendly![Eco Friendly](https://img.ebdcdn.com/cms/eco_frindly_icon_update_66c789cf2e.gif)](https://www.eyebuydirect.com/collections/sustainability "Eco Friendly")
     
-    [![Bio-Based Acetate](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Phenomena](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Bio-Based Acetate](https://img.ebdcdn.com/cms/Top_Nav_320_424_df561bdf76.jpg?q=85&seo=bio-based-acetate)
+    ![Phenomena](https://img.ebdcdn.com/cms/Top_Nav_320_424_ee616f7a67.jpg?q=85&seo=phenomena)
     
-    Bio-Based Acetate](https://www.eyebuydirect.com/collections/bio-acetate-glasses "Bio-Based Acetate")[![Tan France x eyebuydirect](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Phenomena](https://www.eyebuydirect.com/collections/phenomena "Phenomena")[![Tan France x eyebuydirect](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![Tan France x eyebuydirect](https://img.ebdcdn.com/cms/Top_Nav_320_424_72b63d1c13.jpg?q=85&seo=tan-france-x-eyebuydirect)
     
@@ -66,17 +66,17 @@
     
     [![Ray-Ban Sunglasses](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Ray-Ban Sunglasses](https://img.ebdcdn.com/cms/topp_nav_rb_sun_6d070533fe.jpg?q=85&seo=ray-ban-sunglasses)
+    ![Ray-Ban Sunglasses](https://img.ebdcdn.com/cms/Top_Nav_320_424_rayban_93b1125ce7.jpg?q=85&seo=ray-ban-sunglasses)
     
     Ray-Ban Sunglasses](https://www.eyebuydirect.com/brands/ray-ban/sunglasses "Ray-Ban Sunglasses")[![Oakley Sunglasses](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Oakley Sunglasses](https://img.ebdcdn.com/cms/topp_nav_oak_sun_0ed9d64229.jpg?q=85&seo=oakley-sunglasses)
+    ![Oakley Sunglasses](https://img.ebdcdn.com/cms/Top_Nav_320_424_Oakely_d3b3c92133.jpg?q=85&seo=oakley-sunglasses)
     
-    Oakley Sunglasses](https://www.eyebuydirect.com/brands/oakley/sunglasses "Oakley Sunglasses")[![Eco Friendly](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Oakley Sunglasses](https://www.eyebuydirect.com/brands/oakley/sunglasses "Oakley Sunglasses")[![Best Sellers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Eco Friendly](https://img.ebdcdn.com/cms/topp_nav_CSR_501391cdf0.jpg?q=85&seo=eco-friendly)
+    ![Best Sellers](https://img.ebdcdn.com/cms/Top_Nav_320_424_e315648fe7.png?q=85&seo=best-sellers)
     
-    Eco Friendly](https://www.eyebuydirect.com/collections/sustainability "Eco Friendly")
+    Best Sellers](https://www.eyebuydirect.com/collections/best-sellers "Best Sellers")
     
 * Premium Brands
     
