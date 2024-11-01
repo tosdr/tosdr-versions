@@ -46,10 +46,6 @@
 
 * [Compare Credit Cards](https://www.tangerine.ca/en/personal/spend/credit-cards)
 
-![](/content/experience-fragments/tangerine/ca/en/header/master/_jcr_content/root/container_1282085336/container_745983912/container_1531797112/tabs/item_2/container_1829561674/container_1416453080/image.coreimg.svg/1720711221731/picto-stars.svg)
-
-[Student? You could win $35,000.Δ](https://www.tangerine.ca/en/offers/student-scholarship)
-
 **Products**
 
 * [Guaranteed Investment (GICs)](https://www.tangerine.ca/en/personal/invest/guaranteed-investments)
@@ -143,10 +139,6 @@ Spend
 * [Money-back Credit Card](https://www.tangerine.ca/en/personal/spend/credit-cards/money-back-credit-card)
 
 * [Compare Credit Cards](https://www.tangerine.ca/en/personal/spend/credit-cards)
-
-![](/content/experience-fragments/tangerine/ca/en/header/master/_jcr_content/root/container_1006948124/container_560400303/tabs/item_1696533113228/tabs/item_2/container_128022383/image.coreimg.svg/1720710891553/picto-stars.svg)
-
-[Student? You could win $35,000.Δ](https://www.tangerine.ca/en/offers/student-scholarship)
 
 Invest
 
