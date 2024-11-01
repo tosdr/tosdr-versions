@@ -152,11 +152,13 @@ Ok](https://www.emp-online.com/home?forceThisShop=1)
 
 Katalog durchsuchen  löschen Packstation suchen
 
-[](https://www.emp.de/autumn-must-haves/)
+[](https://www.emp.de/bekleidung/?pmid=SAM-2733_20per_3999_KW44_EUR)
 
-Gratis Versand ab 99€!
+Gruselig gut sparen!
 
-[Schlag zu!](https://www.emp.de/autumn-must-haves/ "Schlag zu!")
+20% Rabatt auf (fast) alles!
+
+[Jetzt shoppen!](https://www.emp.de/bekleidung/?pmid=SAM-2733_20per_3999_KW44_EUR "Jetzt shoppen!") Code **SAVE20** kopieren
 
 Die Javascript-Funktion Ihres Browsers ist deaktiviert.
 
