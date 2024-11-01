@@ -128,11 +128,11 @@ Taxes
 
 Featured
 
-![](/assets/learn/static/featured/adobestock_549465688-746px.jpg "Woman wearing a tan button up shirt on computer")
+![](/assets/learn/static/featured/oe-starts-topics-image1-megamenu.jpg "Person in yellow sweater and glasses checking health coverage options")
 
-Preview plans & prices now
+Apply & enroll in 2025 coverage today
 
-[Open Enrollment runs November 1, 2024–January 15, 2025. Compare plans now.](https://www.healthcare.gov/see-plans/#/)
+[Beat the December 15 deadline to enroll in health coverage that starts January 1. Apply now.](https://www.healthcare.gov/apply-and-enroll/how-to-apply/)
 
 [Get Answers](https://www.healthcare.gov/get-answers/)
 
