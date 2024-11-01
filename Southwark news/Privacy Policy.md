@@ -377,11 +377,11 @@ Website
 
 [28th October 2024](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
 
-[![Southwark Council wants 20,000 new homes to be built around the Old Kent Road over the next 18 years. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/Old-Kent-Road-120x86.jpg)](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
+[![A map of the proposed Bakerloo Line extension to Lewisham. Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
 
-### [Old Kent Road: What are people’s views on plans for 20,000 new homes?](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
+### [Bakerloo Line extension shunned in Budget](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
 
-[29th October 2024](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
+[31st October 2024](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
 
 ### Featured Articles
 
