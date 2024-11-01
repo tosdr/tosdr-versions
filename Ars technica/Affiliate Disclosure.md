@@ -83,11 +83,11 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: Person accidentally poisoned 46 coworkers with toxin-loaded homemade lunch](https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-2151489625-768x432.jpg)](https://arstechnica.com/health/2024/10/when-you-make-lunch-for-your-coworkers-and-accidentally-cause-a-mass-poisoning/)
+1. [![Listing image for first story in Most Read: 300 percent price hikes push disgruntled VMware customers toward Broadcom rivals](https://cdn.arstechnica.net/wp-content/uploads/2024/10/broadcom-vmware-eject-768x432.jpg)](https://arstechnica.com/information-technology/2024/10/a-year-after-broadcoms-vmware-buy-customers-eye-exit-strategies/)
     
-    1. [Person accidentally poisoned 46 coworkers with toxin-loaded homemade lunch](https://arstechnica.com/health/2024/10/when-you-make-lunch-for-your-coworkers-and-accidentally-cause-a-mass-poisoning/)
+    1. [300 percent price hikes push disgruntled VMware customers toward Broadcom rivals](https://arstechnica.com/information-technology/2024/10/a-year-after-broadcoms-vmware-buy-customers-eye-exit-strategies/)
     
-2. 2. [300 percent price hikes push disgruntled VMware customers toward Broadcom rivals](https://arstechnica.com/information-technology/2024/10/a-year-after-broadcoms-vmware-buy-customers-eye-exit-strategies/)
+2. 2. [Person accidentally poisoned 46 coworkers with toxin-loaded homemade lunch](https://arstechnica.com/health/2024/10/when-you-make-lunch-for-your-coworkers-and-accidentally-cause-a-mass-poisoning/)
     
 3. 3. [The New Glenn rocket’s first stage is real, and it’s spectacular](https://arstechnica.com/space/2024/10/new-glenn-rolls-to-the-launch-pad-as-end-of-year-deadline-approaches/)
     
