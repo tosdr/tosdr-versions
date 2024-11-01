@@ -353,7 +353,7 @@ Use Cases
 
 Resources
 
-[Blog](https://tailscale.com/blog)[Events & Webinars](https://tailscale.com/events-webinars)
+[Blog](https://tailscale.com/blog)[Events & Webinars](https://tailscale.com/events-webinars)[Partnerships](https://tailscale.com/partnerships)
 
 Company
 
