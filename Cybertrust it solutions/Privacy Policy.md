@@ -254,7 +254,7 @@ Rancho Santa Margarita, CA 92688**
     
 * CAPTCHA
     
-* Email
+* Name
     
     This field is for validation purposes and should be left unchanged.
     
