@@ -8,8 +8,6 @@ Safe & Secure 100% secure and 24h support
 
 Super Fast instant digital download
 
-[The CDKeys Halloween Sale is here! Use code GHOUL and get 10% off on select Horror games. 🎮 Shop Now](https://www.cdkeys.com/horror-week)
-
 Toggle Nav[](https://www.cdkeys.com/)
 
 ![Super Fast](https://cdn.omn-it.net/media/icons/fast_2x.png)
