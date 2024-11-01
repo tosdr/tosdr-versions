@@ -240,6 +240,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Manly Know-How](https://www.artofmanliness.com/skills/manly-know-how/)
 * [Outdoor/Survival](https://www.artofmanliness.com/skills/outdoor-survival/)
 
+[![Illustration of a person crossing their arms over a yellow shirt, reminiscent of Houdini's daring escape from a straitjacket, with a red arrow pointing down on the right side.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-escape-straitjacket/)
+
+[How to Escape a Straitjacket Like Houdini](https://www.artofmanliness.com/skills/how-to/how-to-escape-straitjacket/)
+
 [![An illustrated guide demonstrating how to perform a combat roll, featuring a person rolling forward on the ground with an arrow indicating movement direction.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-perform-a-combat-roll/)
 
 [How to Perform a Combat Roll](https://www.artofmanliness.com/skills/how-to/how-to-perform-a-combat-roll/)
@@ -251,10 +255,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![A person in a red shirt and blue pants rides a horse and swings a lasso, showcasing advanced rope techniques in a desert landscape.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-tie-a-lasso/)
 
 [How to Tie a Lasso](https://www.artofmanliness.com/skills/how-to/how-to-tie-a-lasso/)
-
-[![Illustration of the ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-remove-a-tick/)
-
-[Skill of the Week: Remove a Tick](https://www.artofmanliness.com/skills/how-to/how-to-remove-a-tick/)
 
 [![Illustration of hands demonstrating the skill of the week: precisely holding one match, lit and glowing, near a matchbox adorned with a barcode.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/how-to-light-a-fire-with-just-one-match/)
 
