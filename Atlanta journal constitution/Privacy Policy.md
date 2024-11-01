@@ -1,6 +1,4 @@
-[Breaking: Braves trade Jorge Soler to the Angels in first notable move of MLB offseason](https://www.ajc.com/sports/atlanta-braves/braves-trade-jorge-soler-to-the-angels-in-first-notable-move-of-mlb-offseason/KJRZIJBLPVHNNBHNOO4D3KTPQM/)
-
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1791)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1791)](https://www.ajc.com/)
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1792)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1792)](https://www.ajc.com/)
 
 Log In
 
@@ -23,7 +21,7 @@ Log In
 * [High School Sports](https://www.ajc.com/sports/high-school/)
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1791)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1792)
 
 * Quick Links
     
@@ -148,7 +146,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1791)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1792)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
