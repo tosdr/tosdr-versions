@@ -110,7 +110,7 @@ Privacy Policy
 Privacy Policy
 ==============
 
-Last updated on April 28, 2023
+Last updated on October 17, 2024
 
 Cypress.io, Inc., (referred to herein as “Cypress”, “we”, “us” or “our”) strongly believes in maintaining the privacy of information we collect from individuals who visit our Site or make use of our Service (as each is defined herein). We want you to understand how and why we collect, use and disclose information about you through our Site and Service. This Privacy Policy provides you with information concerning our practices and procedures as they relate specifically to information we collect through our Site and Service. We provide this Privacy Policy in connection with, and as incorporated in its entirety in, our Terms of Use (the “Terms of Use”). Because the web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we will post the revised Privacy Policy on this website and update the “Last Updated” date above to reflect the date of the changes. Capitalized terms not defined herein shall have the meanings set forth in our Terms of Use. Please read this Privacy Policy carefully so that you understand our information practices. If you do not agree with the terms of this Privacy Policy, please do not use the Site or Services.
 
@@ -176,50 +176,30 @@ If you are a customer’s end user and you have questions about how your informa
 
 ### Information we collect about you
 
-* **Contact Information**
+* **Contact Information**, such as your name, phone number, company name, and physical address.
     
-    , such as your name, phone number, company name, and physical address.
+* **Registration Information**. When you register your Cypress Account, you will be required to provide certain information about yourself, in order to create a Cypress Account and make use of the Service, including your email and password.
     
-* **Registration Information**
+* **Information you input into the Service**. You may provide information to Cypress as part of your use of the Service or Site, including for testing.
     
-    . When you register your Cypress Account, you will be required to provide certain information about yourself, in order to create a Cypress Account and make use of the Service, including your email and password.
+* **Correspondence** between you and us and records of such correspondence, such as the contents of emails you send us, support inquiries, or other feedback you provide directly to us, and recordings of audio or video calls with us (with your consent, where legally required).
     
-* **Information you input into the Service**
+* **Product Reviews and Surveys Information**, including information you post publicly about our Service or Site.
     
-    . You may provide information to Cypress as part of your use of the Service or Site, including for testing.
+* **Marketing Preferences**, such as records of your requests to opt out of marketing communications.
     
-* **Correspondence**
+* **Information from Third-Party Sites**. In order to display information to you or to facilitate your access and use of the Service, we may collect, on your behalf, other information from third party websites that you link to your Cypress Account via the Service. We also may collect information when you interact with our social media pages, such as by “liking” our page or posting comments or replies to our content, we may collect certain information about you, consistent with your privacy settings on that platform. If you do not wish for us to collect information from these third parties, please do not interact with us via third-party platforms. See the “Social media platforms and websites” section for more information.
     
-    between you and us and records of such correspondence, such as the contents of emails you send us, support inquiries, or other feedback you provide directly to us.
+* **Information Collected by Cookies and Web Beacons**. We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files that are stored on your hard drive or in device memory by a website. Among other things, cookies support the integrity of our registration and log in process, retain your preferences and account settings, and help evaluate and compile aggregated statistics about user activity. We may also collect information using web beacons. Web beacons are electronic images that may be used in our Service or emails. We may use web beacons to deliver cookies, count visits, understand usage, and determine whether an email has been opened and acted upon.
     
-* **Product Reviews and Surveys Information**
+* **Technical and Navigational Information**. We may collect your computer browser type, Internet Protocol address, pages visited, location preferences, identification numbers associated with your personal devices, date and time stamps of transactions, average time spent on our Site, and other interactions with the Site and Services. This information may be used, for example, to alert you to software compatibility issues, or it may be analyzed to improve our web design and functionality.
     
-    , including information you post publicly about our Service or Site.
-    
-* **Marketing Preferences**
-    
-    , such as records of your requests to opt out of marketing communications.
-    
-* **Information from Third-Party Sites**
-    
-    . In order to display information to you or to facilitate your access and use of the Service, we may collect, on your behalf, other information from third party websites that you link to your Cypress Account via the Service. We also may collect information when you interact with our social media pages, such as by “liking” our page or posting comments or replies to our content, we may collect certain information about you, consistent with your privacy settings on that platform. If you do not wish for us to collect information from these third parties, please do not interact with us via third-party platforms. See the “Social media platforms and websites” section for more information.
-    
-* **Information Collected by Cookies and Web Beacons**
-    
-    . We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files that are stored on your hard drive or in device memory by a website. Among other things, cookies support the integrity of our registration and log in process, retain your preferences and account settings, and help evaluate and compile aggregated statistics about user activity. We may also collect information using web beacons. Web beacons are electronic images that may be used in our Service or emails. We may use web beacons to deliver cookies, count visits, understand usage, and determine whether an email has been opened and acted upon.
-    
-* **Technical and Navigational Information**
-    
-    . We may collect your computer browser type, Internet Protocol address, pages visited, location preferences, identification numbers associated with your personal devices, date and time stamps of transactions, average time spent on our Site, and other interactions with the Site and Services. This information may be used, for example, to alert you to software compatibility issues, or it may be analyzed to improve our web design and functionality.
-    
-* **Session Information**
-    
-    . We, our service providers, and our vendors may use technologies such as cookies, beacons, and scripts to collect information on how you use our Site and/or Services, such as information about your browsing behavior, page visits, clicks and cursor movements, searches on the Site, customer service interactions, and screen recordings.
+* **Session Information**. We, our service providers, and our vendors may use technologies such as cookies, beacons, and scripts to collect information on how you use our Site and/or Services, such as information about your browsing behavior, page visits, clicks and cursor movements, searches on the Site, customer service interactions, and screen recordings.
     
 
 ### Our use of your information
 
-We may use the information you provide to us as necessary (i) to provide, operate, administer, and troubleshoot the Service, (ii) to respond to your inquiries about the Service or provide you with updates regarding the Service, (iii) to offer or suggest other products, services, or promotional offerings that we believe may be of interest to you, including, but not limited to, by contacting you about discounts, promotions, updates, special offers, and joint marketing efforts via email or direct mail, (iv) to personalize your experience when using the Services, (v) for internal research, reporting and data analytics, (vi) to improve the Services and/or develop new Services, (vii) to allow us and our advertising partners to personalize the content and advertising that you see on the Site and on third-party platforms, (viii) to comply with applicable laws and regulations, (ix) for internal auditing and recordkeeping purposes, (x) to protect the safety of ourselves, our customers, and the public; and (xi) to enforce the legal or contractual terms that govern your use of the Platform or defend our legal rights..
+We may use the information you provide to us as necessary (i) to provide, operate, administer, and troubleshoot the Service, (ii) to respond to your inquiries about the Service or provide you with updates regarding the Service, (iii) to offer or suggest other products, services, or promotional offerings that we believe may be of interest to you, including, but not limited to, by contacting you about discounts, promotions, updates, special offers, and joint marketing efforts via email or direct mail, (iv) to personalize your experience when using the Services, (v) for internal research, reporting and data analytics, (vi) to improve the Services and/or develop new Services, (vii) to allow us and our advertising partners to personalize the content and advertising that you see on the Site and on third-party platforms, (viii) to comply with applicable laws and regulations, (ix) for internal auditing and recordkeeping purposes, (x) to protect the safety of ourselves, our customers, and the public; and (xi) to enforce the legal or contractual terms that govern your use of the Platform or defend our legal rights.
 
 We may also combine information that we collect from you with information we obtain about you from third parties. We may aggregate and/or de-identify any information collected through the Services. We may use de-identified and/or aggregated data for any purpose, including without limitation for research and marketing purposes, and may also disclose such data to any third parties.
 
@@ -327,7 +307,23 @@ We describe the categories of information we collect, our business purposes for 
 
 Throughout this Privacy Policy, we discuss in detail the types of information we collect from and about users and discuss how we use and disclose such information. The following are the “categories” of personal information under the CCPA that we collect from California consumers and that we may, as discussed throughout this Privacy Policy, use and disclose for our business purposes:
 
-* Identifiers (such as name, address, email address); commercial information (such as transaction data); financial data (such as credit card information processed by our payment processor); device identifiers (such as IP address and unique device identifiers); internet or other network or device activity (such as browsing history); general geolocation data derived from IP addresses; any user-generated content or feedback that you provide; and username and password (which is considered “sensitive” personal information under California law).
+* Identifiers (such as name, address, email address);
+    
+* Commercial information (such as transaction data);
+    
+* Financial data (such as credit card information processed by our payment processor);
+    
+* Device identifiers (such as IP address and unique device identifiers);
+    
+* Internet or other network or device activity (such as browsing history);
+    
+* General geolocation data derived from IP addresses;
+    
+* Audio or visual information (such as recordings of audio or video calls with us);
+    
+* Any user-generated content or feedback that you provide; and
+    
+* Username and password (which is considered “sensitive” personal information under California law).
     
 
 **B. How we use these categories of personal information**
@@ -359,7 +355,11 @@ We may also use the categories of personal information for compliance with appli
 
 The CCPA sets forth certain obligations for businesses that “sell” personal information or “share” personal information for cross-context behavioral advertising purposes. Under the CCPA, “sale” and “sharing” are defined such that they may include allowing third parties to receive certain information for advertising purposes. We “sell” or “share” the following categories of information to third-party advertising partners and vendors that support our advertising efforts (such as advertising analytics services):
 
-* Identifiers (such as name, address, email address); commercial information (such as transaction data); internet or other network or device activity (such as browsing history and usage information).
+* Identifiers (such as name, address, email address);
+    
+* Commercial information (such as transaction data); and
+    
+* Internet or other network or device activity (such as browsing history and usage information).
     
 
 If you would like to opt out of our use of your information for such purposes that are considered a “sale” or “sharing” for cross-context behavioral advertising purposes under California law, please click the following link, which is also available in the footer of our Site: "Cookie Preferences" and use the "Do Not Sell or Share My Personal Information" toggle at the bottom of the tool.
@@ -378,7 +378,7 @@ In the limited circumstances that we process sensitive personal information as d
 
 California Law permits customers who are California residents to request certain information once per year regarding our disclosure of personal information to third parties for such third parties’ direct marketing purposes. We do not disclose personal information to third parties for their own direct marketing purposes.
 
-### Using the service from outside the United States
+### Using the Service from outside the United States
 
 If you are accessing or otherwise making use of the Service from outside the United States, please be aware that your information may be transferred to, stored or processed in the United States, where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy. By accessing or otherwise making use of the Service, you acknowledge and agree that we have the express right to transfer your information across jurisdictions and international borders to our facilities and to those third parties with whom we disclose it as described in this Privacy Policy.
 
