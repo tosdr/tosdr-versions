@@ -45,7 +45,7 @@ Go
 
 [![The Back Room Tech logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![The Back Room Tech logo](https://s11921.pcdn.co/wp-content/themes/tbrt/images/header-logo.png)](https://thebackroomtech.com/ "The Back Room Tech")
+![The Back Room Tech logo](https://s11921.pcdn.co/wp-content/themes/tbrt/images/header-logo.png.webp)](https://thebackroomtech.com/ "The Back Room Tech")
 
 Privacy Policy
 ==============
@@ -103,31 +103,31 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2040'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/linux-admin-80x40.jpeg.optimal.jpeg)](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")[Top 10 Command-Line Tools Every Linux Administrator Should Know](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")
+    ![](https://s11921.pcdn.co/wp-content/uploads/linux-admin-80x40.jpeg.webp)](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")[Top 10 Command-Line Tools Every Linux Administrator Should Know](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2048'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/cmdlets-80x48.jpeg.optimal.jpeg)](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")[Cmdlets 101: What They Are and How to Use Them in PowerShell](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")
+    ![](https://s11921.pcdn.co/wp-content/uploads/cmdlets-80x48.jpeg.webp)](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")[Cmdlets 101: What They Are and How to Use Them in PowerShell](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2078%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-2019-78x52.jpeg.optimal.jpeg)](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")[How to Install FTP Server on Windows Server 2019](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")
+    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-2019-78x52.jpeg.webp)](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")[How to Install FTP Server on Windows Server 2019](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/flatpak-80x45.jpg.optimal.jpg)](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")[How to Install and Run Flatpak Applications](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")
+    ![](https://s11921.pcdn.co/wp-content/uploads/flatpak-80x45.jpg.webp)](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")[How to Install and Run Flatpak Applications](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2041'%3E%3C/svg%3E)
-    
-    ![](https://s11921.pcdn.co/wp-content/uploads/pc-code-1-80x41.jpg.optimal.jpg)](https://thebackroomtech.com/2018/06/12/vmware-script-list-empty-resource-pools/ "VMware Script – List Empty Resource Pools")[VMware Script – List Empty Resource Pools](https://thebackroomtech.com/2018/06/12/vmware-script-list-empty-resource-pools/ "VMware Script – List Empty Resource Pools")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2049'%3E%3C/svg%3E)
-    
-    ![](https://s11921.pcdn.co/wp-content/uploads/customization-tool-80x49.jpg.optimal.jpg)](https://thebackroomtech.com/2007/10/15/creating-and-updating-outlook-profiles-using-prf-files/ "Creating and Updating Outlook Profiles using PRF Files")[Creating and Updating Outlook Profiles using PRF Files](https://thebackroomtech.com/2007/10/15/creating-and-updating-outlook-profiles-using-prf-files/ "Creating and Updating Outlook Profiles using PRF Files")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2074%2052'%3E%3C/svg%3E)
-    
-    ![](https://s11921.pcdn.co/wp-content/uploads/net-user-command-74x52.png)](https://thebackroomtech.com/2010/08/09/determining-when-a-local-windows-account-password-was-last-changed/ "Determining When a Local Windows Account Password was Last Changed")[Determining When a Local Windows Account Password was Last Changed](https://thebackroomtech.com/2010/08/09/determining-when-a-local-windows-account-password-was-last-changed/ "Determining When a Local Windows Account Password was Last Changed")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2038'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/windowslogonprocessterminated_thumb-80x38.png)](https://thebackroomtech.com/2010/08/31/fix-the-windows-logon-process-has-unexpectedly-terminated/ "Fix “The Windows Logon Process has Unexpectedly Terminated”")[Fix “The Windows Logon Process has Unexpectedly Terminated”](https://thebackroomtech.com/2010/08/31/fix-the-windows-logon-process-has-unexpectedly-terminated/ "Fix “The Windows Logon Process has Unexpectedly Terminated”")
+    ![](https://s11921.pcdn.co/wp-content/uploads/windowslogonprocessterminated_thumb-80x38.png.webp)](https://thebackroomtech.com/2010/08/31/fix-the-windows-logon-process-has-unexpectedly-terminated/ "Fix “The Windows Logon Process has Unexpectedly Terminated”")[Fix “The Windows Logon Process has Unexpectedly Terminated”](https://thebackroomtech.com/2010/08/31/fix-the-windows-logon-process-has-unexpectedly-terminated/ "Fix “The Windows Logon Process has Unexpectedly Terminated”")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2042'%3E%3C/svg%3E)
+    
+    ![](https://s11921.pcdn.co/wp-content/uploads/remove-common-programs-80x42.png.webp)](https://thebackroomtech.com/2007/09/05/all-users-desktop-shortcut-icons-are-missing-after-enabling-group-policy/ "“All Users” Desktop Shortcut Icons are Missing After Enabling Group Policy")[“All Users” Desktop Shortcut Icons are Missing After Enabling Group Policy](https://thebackroomtech.com/2007/09/05/all-users-desktop-shortcut-icons-are-missing-after-enabling-group-policy/ "“All Users” Desktop Shortcut Icons are Missing After Enabling Group Policy")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2047'%3E%3C/svg%3E)
+    
+    ![](https://s11921.pcdn.co/wp-content/uploads/ftp-protocol-80x47.png.webp)](https://thebackroomtech.com/2019/04/15/how-to-create-a-local-ftp-server-from-scratch/ "How to Create a Local FTP Server from Scratch")[How to Create a Local FTP Server from Scratch](https://thebackroomtech.com/2019/04/15/how-to-create-a-local-ftp-server-from-scratch/ "How to Create a Local FTP Server from Scratch")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
+    
+    ![](https://s11921.pcdn.co/wp-content/uploads/flash-player-80x45.jpg.webp)](https://thebackroomtech.com/2008/06/12/howto-uninstall-adobe-flash-player-from-the-command-line/ "Howto: Uninstall Adobe Flash Player from the Command Line")[Howto: Uninstall Adobe Flash Player from the Command Line](https://thebackroomtech.com/2008/06/12/howto-uninstall-adobe-flash-player-from-the-command-line/ "Howto: Uninstall Adobe Flash Player from the Command Line")
 
 #### Our Publishing Family
 
