@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from Zettagrid usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-zettagrid-using-backup4all-kb.html)  
-    
 * [How to schedule a backup job or backup tag to ...](https://www.backup4all.com/how-to-schedule-a-backup-job-or-backup-tag-to-run-at-system-shutdown-kb.html)  
     
-* [Backup music with Backup4all](https://www.backup4all.com/backup-music-with-backup4all-kb.html)  
+* [How to use the Getting started window](https://www.backup4all.com/how-to-use-the-getting-started-window-kb.html)  
     
-* [How to back up Outlook.com (former Hotmail) e ...](https://www.backup4all.com/how-to-back-up-hotmail-emails-kb.html)  
+* [Using the Backup4all sidebar gadget](https://www.backup4all.com/using-the-backup4all-sidebar-gadget-kb.html)  
     
-* [How to back up data files from LeoNovus using ...](https://www.backup4all.com/how-to-back-up-data-files-from-leonovus-using-backup4all-kb.html)  
+* [How to generate a self signed certificate](https://www.backup4all.com/how-to-generate-a-self-signed-certificate-kb.html)  
+    
+* [How to restore a backup from Cloudflare R2 us ...](https://www.backup4all.com/how-to-restore-a-backup-from-cloudflare-r2-using-backup4all-kb.html)  
     
 
 Choose language:
