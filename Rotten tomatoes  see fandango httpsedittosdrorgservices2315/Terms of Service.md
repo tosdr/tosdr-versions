@@ -27,7 +27,6 @@ Go to previous offer
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save 25% off on all Andrea Bocelli products** When you buy a ticket to Andrea Bocelli 30: The
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Flowers + Movies = Perfect Halloween** Get $40 off spooky flowers with ticket purchase.
 *  [![offer icon](https://images.fandango.com/cms/assets/64a40e40-5e81-11ef-a07e-5b03d6159fe4--rt-icon.svg) **New Audience Score Badge Unveiled: Verified Hot** Check out the first Verified Hot movies!](https://editorial.rottentomatoes.com/article/verified-hot-celebrating-the-best-verified-rated-films-by-fans/?cmp=TARS~FANDANGO~Verified%20Hot_GlobalNav)
-* **Flowers + Movies** Get $40 off spooky flowers with ticket purchase.
 
 Go to next offer
 
@@ -61,13 +60,13 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
-* [Introducing Fandango FanClub! image link ![Introducing Fandango FanClub!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/6be1ccb0-9333-11ef-ab6e-6bc4e16d49df--fanclub-p1-launch-tars-292x118-v3a.png)](http://www.fandango.com/fanclub?cmp=TARS~FANDANGO~_Footer) 
+* [Popular Poster Pack image link ![Popular Poster Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a73aa8c0-8dae-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wicked-292x118.png)](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer) 
     
-    ### Introducing Fandango FanClub!
+    ### Popular Poster Pack
     
-    FanClub provides exclusive benefits that help you save money every time you go to the movies with monthly credits, fee-free tickets, and unique perks.
+    Get 2 movie tickets to Wicked, a limited edition poster, and more!
     
-    [JOIN NOW](http://www.fandango.com/fanclub?cmp=TARS~FANDANGO~_Footer)
+    [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer)
     
 * [Set sail with the Moana 2 Ticket 2 Adventure image link ![Set sail with the Moana 2 Ticket 2 Adventure](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b03cd7c0-9332-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-moanaticket2adventurebundle-292x118.jpg)](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer) 
     
@@ -77,21 +76,21 @@ Offers
     
     [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer)
     
-* [Halloween Deals Near You! image link ![Halloween Deals Near You!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/d34c20c0-7f8e-11ef-a07e-5b03d6159fe4--fan-globalofferunit-halloweenoffers-week1-292x118.png)](https://www.fandangomovietickets.com/halloween_theater_deals?cmp=TARS~FANDANGO~Halloween_Theater_Deals_Footer) 
+* [Wicked Exclusive Collector's Pin Pack image link ![Wicked Exclusive Collector's Pin Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/36b2d7c0-82b0-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wickedimax-292x118.png)](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_Footer) 
     
-    ### Halloween Deals Near You!
+    ### Wicked Exclusive Collector's Pin Pack
     
-    Your favorite Halloween classics at spooky good prices are just a click away.
+    Purchase a ticket to see Wicked in IMAX and get a Shiz University and IMAX pin! While supplies last.
     
-    [GET TICKETS](https://www.fandangomovietickets.com/halloween_theater_deals?cmp=TARS~FANDANGO~Halloween_Theater_Deals_Footer)
+    [BUY NOW](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_Footer)
     
-* [Get $5 off on Moana image link ![Get $5 off on Moana](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/dee210e0-9332-11ef-8321-2b978811c524--fan-globalofferunit-homepage-moana2gwp-292x118.png)](https://www.fandangomovietickets.com/Moana2GWPOffer?cmp=TARS~FANDANGO~Moana2TicketingOffer_Footer) 
+* [SPECIAL EARLY SCREENING image link ![SPECIAL EARLY SCREENING](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/c7c8cc70-9335-11ef-8321-2b978811c524--fan-offerunit-wicked-292x118.png)](https://activaterewards.com/wickedprimescreening?cmp=TARS~FANDANGO~WickedAmazonScreening_Footer) 
     
-    ### Get $5 off on Moana
+    ### SPECIAL EARLY SCREENING
     
-    Buy a ticket to Moana 2, Get $5 off on Moana to watch at home.
+    See Wicked in theaters early as a Prime Member Exclusive
     
-    [BUY TICKETS](https://www.fandangomovietickets.com/Moana2GWPOffer?cmp=TARS~FANDANGO~Moana2TicketingOffer_Footer)
+    [BUY NOW](https://activaterewards.com/wickedprimescreening?cmp=TARS~FANDANGO~WickedAmazonScreening_Footer)
     
 
 New & Coming soon
@@ -283,13 +282,3 @@ Close
 #### Today only! Save $5 off your order with Apple Pay.
 
 Limited time offer, and limited quantities available. To redeem the offer, purchase one or more movie tickets on Wednesday 8/21/2024, to see any film through Fandango.com or the Fandango iOS mobile app and use Apple Pay®️ as the payment method, and enter the Fandango Promotional Code APPLEPAYWED (“Code”) in order to get the $5 off the entire purchase. There is a limited quantity of Code redemptions allowed in this promotion and therefore the offer is only available first come first served while supplies last. Code expires, and can no longer be used, upon earlier of Wednesday 8/21/2024, or after the limit of Code redemptions have been reached. Only valid for purchase of movie tickets made at Fandango.com or via the Fandango iOS app and cannot be redeemed directly at any theater box office. If lost or stolen, cannot be replaced. No cash value, except as required by law. Void where prohibited. Not valid with any other offer. Offer valid in U.S. One-time use only per email address, for a maximum of one transaction, receiving a maximum of one $5 discount on the purchase total regardless of how many tickets were purchased in that one transaction. Not for resale; void if sold or exchanged. Limit 1 Code per email address. Fandango reserves the right to modify or cancel this offer at any time and without notice. The redemption of the Code is subject to Fandango’s Terms and Policies at www.fandango.com/terms-and-policies. Apple Pay is a registered mark of Apple Inc. [Buy Tickets](https://www.fandango.com/redirect.aspx?source=mlp&promo=applepaywed&cmp=TARS~FANDANGO~Fandango_globalnav~applepaywednesday~TLP)
-
-SPECIAL OFFER
-
-Close ![Flowers + Movies](https://images.fandango.com/images/offers/502/1/FAN_MOPLightboxUnit_Desktop_BouqsHalloween_620x350-v2B_lg.jpg)
-
-#### Make a purchase on Fandango or Fandango at Home and enjoy $40 off Bouqs flowers, plus $7 off weekday shipping.
-
-Not a member? Join now or during checkout - it's free!
-
-Limited time offer. While supplies last. Rent or purchase any movie or TV show on Fandango at Home or purchase at least (1) movie ticket on Fandango between 12:00am PT on October 1, 2024 and 11:59pm PT on October 31, 2024 and get a Bouqs promo code (“code”) for $40 off one (1) qualifying merchandise product (before taxes) from a list of eligible flowers at https://bouqs.com/offers/fandangohalloween2024 plus receive $7.00 off shipping on weekday delivery. Code expires at 11:59 PT on November 18, 2024. Delivery not available in Puerto Rico, American Samoa, Guam, the Northern Marina Islands, the USVI, or APO/FPO addresses. Certain FedEx limitations exist in some areas of Hawaii and Alaska. Not combinable or stackable with any other offers. Code is not valid on vases, sale items, prior purchases, in-store pick-up orders or purchase made on The Bouqs Company iPhone, iPad or Android apps. One code per person per transaction. Code cannot be redeemed for cash and is not valid for resale.
