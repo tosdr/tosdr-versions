@@ -175,6 +175,7 @@ Cart](https://thepihut.com/cart)
     * [Maker Gifts](https://thepihut.com/collections/maker-gifts)
     * [micro:bit Gifts](https://thepihut.com/collections/micro-bit-gifts)
     * [Arduino Gifts](https://thepihut.com/collections/arduino-gifts)
+    * [Christmas-Themed](https://thepihut.com/collections/christmas-gift-ideas)
     
     By Price
     
@@ -621,6 +622,7 @@ Cart](https://thepihut.com/cart)
     * [Gifts Under £20](https://thepihut.com/collections/gifts-under-20)
     * [Gifts Under £50](https://thepihut.com/collections/gifts-under-50)
     * [View All](https://thepihut.com/collections/gifts)
+    * [Christmas-Themed Gifts](https://thepihut.com/collections/christmas-gift-ideas)
     
 * [Sale!](https://thepihut.com/collections/clearance-sale)
 * [Tutorials](https://thepihut.com/blogs/raspberry-pi-tutorials)
@@ -646,7 +648,7 @@ Huge Range
 
 Five Star Service
 
-[154,000+ reviews](https://thepihut.com/pages/site-reviews "Site Reviews")
+[155,000+ reviews](https://thepihut.com/pages/site-reviews "Site Reviews")
 
 No Quibble Returns
 
