@@ -20,42 +20,42 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![L-R: Luke Norbury, Children's Residential Manager; Clare Pitchford, Senior Service Development Officer; Cllr Ali, Deputy Leader and Cabinet Member for Children, Education & Refugees; Claire Boadu, Project Manager](https://southwarknews.co.uk/wp-content/uploads/2024/10/666903CD-1ABC-40EB-BF27-184D1A4D97E2-e1730288357971-360x180.jpeg)](https://southwarknews.co.uk/news/community/vacant-property-transformed-into-new-childrens-home/)
+    
+    ### [Vacant property transformed into new children’s home](https://southwarknews.co.uk/news/community/vacant-property-transformed-into-new-childrens-home/)
+    
+    [![ScrSadiq Khan. 
+    Photo by Noah Vickerseenshot](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sadiq-Khan.-Photo-by-Noah-Vickers-1-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-delighted-by-budget-with-extra-100-million-for-housing-and-total-of-485-million-to-spend-on-transport/)
+    
+    ### [Sadiq Khan delighted by budget, with extra £100 million for housing and total of £485 million to spend on transport](https://southwarknews.co.uk/area/london/sadiq-khan-delighted-by-budget-with-extra-100-million-for-housing-and-total-of-485-million-to-spend-on-transport/)
+    
+    [![A map of the proposed Bakerloo Line extension to Lewisham. Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
+    
+    ### [Bakerloo Line extension shunned in Budget](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
+    
+    [![New Cross Gate station. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/New-Cross-Gate-station.-Image-Google-360x180.png)](https://southwarknews.co.uk/news/new-cross-gate-station-will-be-among-first-to-get-new-toilets-in-tfl-rollout/)
+    
+    ### [New Cross Gate station will be among first to get new toilets in TfL rollout](https://southwarknews.co.uk/news/new-cross-gate-station-will-be-among-first-to-get-new-toilets-in-tfl-rollout/)
+    
+    [![Staff outside St Thomas' Hospital. Credit: Unite](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2419-rotated-e1730373755341-360x180.jpeg)](https://southwarknews.co.uk/area/borough/workers-at-guys-and-st-thomas-nhs-trust-to-protest-against-job-cuts/)
+    
+    ### [Workers at Guy’s and St Thomas’ NHS Trust to protest against ‘job cuts’](https://southwarknews.co.uk/area/borough/workers-at-guys-and-st-thomas-nhs-trust-to-protest-against-job-cuts/)
+    
+    [![Dulwich Hamlet's ground, Champion Hill](https://southwarknews.co.uk/wp-content/uploads/2024/10/champion-hill1-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/youtuber-football-club-investigates-alleged-homophobia-by-fan-during-match-with-dulwich-hamlet/)
+    
+    ### [YouTuber football club investigates alleged homophobia by fan during match with Dulwich Hamlet](https://southwarknews.co.uk/area/dulwich/youtuber-football-club-investigates-alleged-homophobia-by-fan-during-match-with-dulwich-hamlet/)
+    
+    [![The Lionesses celebrate. Photo: Lily Boorer](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lionesses-Boorer1-360x180.png)](https://southwarknews.co.uk/sport/football/lionesses/millwall-lionesses-hit-six-to-extend-unbeaten-run/)
+    
+    ### [Millwall Lionesses hit six to extend unbeaten run](https://southwarknews.co.uk/sport/football/lionesses/millwall-lionesses-hit-six-to-extend-unbeaten-run/)
+    
     [![Tony Macklin died on 6 November 2015.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_6539-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
     
     ### [Minute’s applause at Millwall game to honour lifelong fan who died of cancer](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
     
-    [![Jake Cooper after Millwall's 1-0 win against Plymouth Argyle. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_6640-2024-10-24T15_30_14.972-360x180.jpg)](https://southwarknews.co.uk/news/they-seem-hungry-cooper-praises-millwall-youngsters-fire/)
-    
-    ### [‘They seem hungry’ – Cooper praises Millwall youngsters’ fire](https://southwarknews.co.uk/news/they-seem-hungry-cooper-praises-millwall-youngsters-fire/)
-    
     [![Lower Road pictured a month after Cycleway 4 was unveiled](https://southwarknews.co.uk/wp-content/uploads/2024/10/blurred-3-e1730298302905-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
     
     ### [Exclusive: Collisions have almost tripled on Lower Road since cycle lane was installed, data suggests](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
-    
-    [![From (L-R) Oliver Smith, Murray Kemp, Kerrica Kendall, Beatrice Davidson and Jacob Gower pose for photos outside Stratford Magistrates Court and Family Court. Photo by Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-protesters-360x180.jpg)](https://southwarknews.co.uk/area/peckham/protesters-who-blocked-a-coach-in-peckham-taking-asylum-seekers-to-bibby-stockholm-barge-cleared/)
-    
-    ### [Protesters who blocked a coach in Peckham taking asylum seekers to Bibby Stockholm barge cleared](https://southwarknews.co.uk/area/peckham/protesters-who-blocked-a-coach-in-peckham-taking-asylum-seekers-to-bibby-stockholm-barge-cleared/)
-    
-    [![Chair Martin Boyd with Southwark’s Cheryl Russell, director of landlord services and Councillor Sarah King,cabinet member for council homes at the Southwark HomeOwners conference](https://southwarknews.co.uk/wp-content/uploads/2024/10/MBSarahKingCherylRussell-1024x683-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
-    
-    ### [Exclusive: Director of resident services resigns from Southwark Council](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
-    
-    [![Lemar Urqhart (left) and Guilherme Messias Da Silva (right)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lemar-Urqhart-left-and-Guilherme-Messias-Da-Silva-right-360x180.png)](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
-    
-    ### [Family of man shot dead in Herne Hill says ‘time is not a healer’ in heartbreaking appeal for witnesses](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
-    
-    [![Dirty Blonde Club in Clapham been shut down by Lambeth Council. 
-    CREDIT: Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/10/Dirty-Blonde-Club-in-Clapham-360x180.jpg)](https://southwarknews.co.uk/news/crime/south-london-club-has-been-shut-down-after-a-24-year-old-man-was-killed-in-a-fight-outside-the-venue/)
-    
-    ### [South London club has been shut down after a 24-year-old man was killed in a ‘fight outside the venue’](https://southwarknews.co.uk/news/crime/south-london-club-has-been-shut-down-after-a-24-year-old-man-was-killed-in-a-fight-outside-the-venue/)
-    
-    [![Firefighter stock image. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2023/11/Firefighter-stock-image.-Credit-LFB-scaled-e1698858872829-360x180.jpeg)](https://southwarknews.co.uk/area/london/firefighters-will-no-longer-attend-automatic-alarms-in-most-non-residential-buildings-from-this-week/)
-    
-    ### [Firefighters will no longer attend automatic alarms in most non-residential buildings from this week](https://southwarknews.co.uk/area/london/firefighters-will-no-longer-attend-automatic-alarms-in-most-non-residential-buildings-from-this-week/)
-    
-    [![Tom Burton with his 1963 Dandy edition](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tom-Burton-IMG_5912-e1730203462284-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
-    
-    ### [Bermondsey boy reunited with 60-year-old Dandy comic he starred in](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,42 +106,42 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![L-R: Luke Norbury, Children's Residential Manager; Clare Pitchford, Senior Service Development Officer; Cllr Ali, Deputy Leader and Cabinet Member for Children, Education & Refugees; Claire Boadu, Project Manager](https://southwarknews.co.uk/wp-content/uploads/2024/10/666903CD-1ABC-40EB-BF27-184D1A4D97E2-e1730288357971-360x180.jpeg)](https://southwarknews.co.uk/news/community/vacant-property-transformed-into-new-childrens-home/)
+    
+    ### [Vacant property transformed into new children’s home](https://southwarknews.co.uk/news/community/vacant-property-transformed-into-new-childrens-home/)
+    
+    [![ScrSadiq Khan. 
+    Photo by Noah Vickerseenshot](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sadiq-Khan.-Photo-by-Noah-Vickers-1-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-delighted-by-budget-with-extra-100-million-for-housing-and-total-of-485-million-to-spend-on-transport/)
+    
+    ### [Sadiq Khan delighted by budget, with extra £100 million for housing and total of £485 million to spend on transport](https://southwarknews.co.uk/area/london/sadiq-khan-delighted-by-budget-with-extra-100-million-for-housing-and-total-of-485-million-to-spend-on-transport/)
+    
+    [![A map of the proposed Bakerloo Line extension to Lewisham. Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
+    
+    ### [Bakerloo Line extension shunned in Budget](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
+    
+    [![New Cross Gate station. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/New-Cross-Gate-station.-Image-Google-360x180.png)](https://southwarknews.co.uk/news/new-cross-gate-station-will-be-among-first-to-get-new-toilets-in-tfl-rollout/)
+    
+    ### [New Cross Gate station will be among first to get new toilets in TfL rollout](https://southwarknews.co.uk/news/new-cross-gate-station-will-be-among-first-to-get-new-toilets-in-tfl-rollout/)
+    
+    [![Staff outside St Thomas' Hospital. Credit: Unite](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2419-rotated-e1730373755341-360x180.jpeg)](https://southwarknews.co.uk/area/borough/workers-at-guys-and-st-thomas-nhs-trust-to-protest-against-job-cuts/)
+    
+    ### [Workers at Guy’s and St Thomas’ NHS Trust to protest against ‘job cuts’](https://southwarknews.co.uk/area/borough/workers-at-guys-and-st-thomas-nhs-trust-to-protest-against-job-cuts/)
+    
+    [![Dulwich Hamlet's ground, Champion Hill](https://southwarknews.co.uk/wp-content/uploads/2024/10/champion-hill1-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/youtuber-football-club-investigates-alleged-homophobia-by-fan-during-match-with-dulwich-hamlet/)
+    
+    ### [YouTuber football club investigates alleged homophobia by fan during match with Dulwich Hamlet](https://southwarknews.co.uk/area/dulwich/youtuber-football-club-investigates-alleged-homophobia-by-fan-during-match-with-dulwich-hamlet/)
+    
+    [![The Lionesses celebrate. Photo: Lily Boorer](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lionesses-Boorer1-360x180.png)](https://southwarknews.co.uk/sport/football/lionesses/millwall-lionesses-hit-six-to-extend-unbeaten-run/)
+    
+    ### [Millwall Lionesses hit six to extend unbeaten run](https://southwarknews.co.uk/sport/football/lionesses/millwall-lionesses-hit-six-to-extend-unbeaten-run/)
+    
     [![Tony Macklin died on 6 November 2015.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_6539-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
     
     ### [Minute’s applause at Millwall game to honour lifelong fan who died of cancer](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
     
-    [![Jake Cooper after Millwall's 1-0 win against Plymouth Argyle. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_6640-2024-10-24T15_30_14.972-360x180.jpg)](https://southwarknews.co.uk/news/they-seem-hungry-cooper-praises-millwall-youngsters-fire/)
-    
-    ### [‘They seem hungry’ – Cooper praises Millwall youngsters’ fire](https://southwarknews.co.uk/news/they-seem-hungry-cooper-praises-millwall-youngsters-fire/)
-    
     [![Lower Road pictured a month after Cycleway 4 was unveiled](https://southwarknews.co.uk/wp-content/uploads/2024/10/blurred-3-e1730298302905-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
     
     ### [Exclusive: Collisions have almost tripled on Lower Road since cycle lane was installed, data suggests](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
-    
-    [![From (L-R) Oliver Smith, Murray Kemp, Kerrica Kendall, Beatrice Davidson and Jacob Gower pose for photos outside Stratford Magistrates Court and Family Court. Photo by Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-protesters-360x180.jpg)](https://southwarknews.co.uk/area/peckham/protesters-who-blocked-a-coach-in-peckham-taking-asylum-seekers-to-bibby-stockholm-barge-cleared/)
-    
-    ### [Protesters who blocked a coach in Peckham taking asylum seekers to Bibby Stockholm barge cleared](https://southwarknews.co.uk/area/peckham/protesters-who-blocked-a-coach-in-peckham-taking-asylum-seekers-to-bibby-stockholm-barge-cleared/)
-    
-    [![Chair Martin Boyd with Southwark’s Cheryl Russell, director of landlord services and Councillor Sarah King,cabinet member for council homes at the Southwark HomeOwners conference](https://southwarknews.co.uk/wp-content/uploads/2024/10/MBSarahKingCherylRussell-1024x683-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
-    
-    ### [Exclusive: Director of resident services resigns from Southwark Council](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
-    
-    [![Lemar Urqhart (left) and Guilherme Messias Da Silva (right)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lemar-Urqhart-left-and-Guilherme-Messias-Da-Silva-right-360x180.png)](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
-    
-    ### [Family of man shot dead in Herne Hill says ‘time is not a healer’ in heartbreaking appeal for witnesses](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
-    
-    [![Dirty Blonde Club in Clapham been shut down by Lambeth Council. 
-    CREDIT: Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/10/Dirty-Blonde-Club-in-Clapham-360x180.jpg)](https://southwarknews.co.uk/news/crime/south-london-club-has-been-shut-down-after-a-24-year-old-man-was-killed-in-a-fight-outside-the-venue/)
-    
-    ### [South London club has been shut down after a 24-year-old man was killed in a ‘fight outside the venue’](https://southwarknews.co.uk/news/crime/south-london-club-has-been-shut-down-after-a-24-year-old-man-was-killed-in-a-fight-outside-the-venue/)
-    
-    [![Firefighter stock image. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2023/11/Firefighter-stock-image.-Credit-LFB-scaled-e1698858872829-360x180.jpeg)](https://southwarknews.co.uk/area/london/firefighters-will-no-longer-attend-automatic-alarms-in-most-non-residential-buildings-from-this-week/)
-    
-    ### [Firefighters will no longer attend automatic alarms in most non-residential buildings from this week](https://southwarknews.co.uk/area/london/firefighters-will-no-longer-attend-automatic-alarms-in-most-non-residential-buildings-from-this-week/)
-    
-    [![Tom Burton with his 1963 Dandy edition](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tom-Burton-IMG_5912-e1730203462284-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
-    
-    ### [Bermondsey boy reunited with 60-year-old Dandy comic he starred in](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -377,13 +377,25 @@ Website
 
 [28th October 2024](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
 
-[![Police were called to Massinger Street on Saturday, October 19. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-were-called-to-Massinger-Street-on-Saturday-October-19.-Credit-Google-120x86.png)](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
+[![Southwark Council wants 20,000 new homes to be built around the Old Kent Road over the next 18 years. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/Old-Kent-Road-120x86.jpg)](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
 
-### [Peckham council estate residents feel ‘neglected’ after alleged attempted arson](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
+### [Old Kent Road: What are people’s views on plans for 20,000 new homes?](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
 
-[25th October 2024](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
+[29th October 2024](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
 
 ### Featured Articles
+
+[![A map of the proposed Bakerloo Line extension to Lewisham. Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
+
+### [Bakerloo Line extension shunned in Budget](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
+
+[31st October 2024](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
+
+[![Staff outside St Thomas' Hospital. Credit: Unite](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2419-rotated-e1730373755341-120x86.jpeg)](https://southwarknews.co.uk/area/borough/workers-at-guys-and-st-thomas-nhs-trust-to-protest-against-job-cuts/)
+
+### [Workers at Guy’s and St Thomas’ NHS Trust to protest against ‘job cuts’](https://southwarknews.co.uk/area/borough/workers-at-guys-and-st-thomas-nhs-trust-to-protest-against-job-cuts/)
+
+[31st October 2024](https://southwarknews.co.uk/area/borough/workers-at-guys-and-st-thomas-nhs-trust-to-protest-against-job-cuts/)
 
 [![Tony Macklin died on 6 November 2015.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_6539-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
 
@@ -408,18 +420,6 @@ Website
 ### [Family of man shot dead in Herne Hill says ‘time is not a healer’ in heartbreaking appeal for witnesses](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
 
 [30th October 2024](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
-
-[![Tom Burton with his 1963 Dandy edition](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tom-Burton-IMG_5912-e1730203462284-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
-
-### [Bermondsey boy reunited with 60-year-old Dandy comic he starred in](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
-
-[29th October 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
-
-[![Southwark Council wants 20,000 new homes to be built around the Old Kent Road over the next 18 years. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/Old-Kent-Road-120x86.jpg)](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
-
-### [Old Kent Road: What are people’s views on plans for 20,000 new homes?](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
-
-[29th October 2024](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
 
 ### USEFUL PAGES
 
