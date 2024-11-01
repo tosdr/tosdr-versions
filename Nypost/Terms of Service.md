@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[One dead, 2 injured in shooting at mall hosting Halloween trick-or-treat event](https://nypost.com/2024/11/01/us-news/washington-vancouver-mall-shooting-kills-1-d/)
+
 Terms Of Use
 ============
 
