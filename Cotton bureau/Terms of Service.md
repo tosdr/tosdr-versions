@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id={your-pixel-id-goes-here}&ev=PageView&noscript=1) 
+![](https://www.facebook.com/tr?id=259261707806709&ev=PageView&noscript=1) 
 
 [](https://cottonbureau.com/)
 
