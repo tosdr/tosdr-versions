@@ -273,20 +273,6 @@ Most Popular
 [Man left with 'serious injuries' following Derry road traffic collision](https://www.derrynow.com/news/derry-news/1643915/man-left-with-serious-injuries-following-a-road-traffic-collision.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1643521/derry-death-notices-thursday-october-31-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Thursday, October 31, 2024](https://www.derrynow.com/news/deaths/1643521/derry-death-notices-thursday-october-31-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man (19) returned for trial to Derry Crown Court on series of sex offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (19) returned for trial to Derry Crown Court on series of sex offences")](https://www.derrynow.com/news/local-news/1644017/man-19-returned-for-trial-to-derry-crown-court-on-series-of-sex-offences.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man (19) returned for trial to Derry Crown Court on series of sex offences](https://www.derrynow.com/news/local-news/1644017/man-19-returned-for-trial-to-derry-crown-court-on-series-of-sex-offences.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Filming of Derry's Halloween celebrations for new ITV show with Fred Sirieix tonight](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Filming of Derry's Halloween celebrations for new ITV show with Fred Sirieix tonight")](https://www.derrynow.com/news/derry-news/1644065/filming-of-derry-s-halloween-celebrations-for-new-itv-show-with-fred-sirieix-tonight.html)
 
 ‘Fred’s Tour De Ireland’ ith Fred Sirieix
@@ -296,12 +282,21 @@ Most Popular
 [Filming of Derry's Halloween celebrations for new ITV show with Fred Sirieix tonight](https://www.derrynow.com/news/derry-news/1644065/filming-of-derry-s-halloween-celebrations-for-new-itv-show-with-fred-sirieix-tonight.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man (34) sentenced in Derry court for breaching restraining order](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (34) sentenced in Derry court for breaching restraining order")](https://www.derrynow.com/news/local-news/1644077/man-34-sentenced-in-derry-court-for-breaching-restraining-order.html)
+[![Man (19) returned for trial to Derry Crown Court on series of sex offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (19) returned for trial to Derry Crown Court on series of sex offences")](https://www.derrynow.com/news/local-news/1644017/man-19-returned-for-trial-to-derry-crown-court-on-series-of-sex-offences.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man (34) sentenced in Derry court for breaching restraining order](https://www.derrynow.com/news/local-news/1644077/man-34-sentenced-in-derry-court-for-breaching-restraining-order.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man (19) returned for trial to Derry Crown Court on series of sex offences](https://www.derrynow.com/news/local-news/1644017/man-19-returned-for-trial-to-derry-crown-court-on-series-of-sex-offences.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Draperstown woman wins prestigious title at the National Building and Construction Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Draperstown woman wins prestigious title at the National Building and Construction Awards")](https://www.derrynow.com/news/home/1644369/draperstown-woman-wins-prestigious-title-at-the-national-building-and-construction-awards.html)
+
+Draperstown's Charlotte Hassan pictured with her award.
+
+[Home](https://www.derrynow.com/)
+
+[Draperstown woman wins prestigious title at the National Building and Construction Awards](https://www.derrynow.com/news/home/1644369/draperstown-woman-wins-prestigious-title-at-the-national-building-and-construction-awards.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Registered sex offender jailed at Derry court for failing to notify police of his release](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Registered sex offender jailed at Derry court for failing to notify police of his release")](https://www.derrynow.com/news/crime---courts/1644061/registered-sex-offender-jailed-at-derry-court-for-failing-to-notify-police-of-his-release.html)
 
@@ -310,13 +305,6 @@ Most Popular
 [Registered sex offender jailed at Derry court for failing to notify police of his release](https://www.derrynow.com/news/crime---courts/1644061/registered-sex-offender-jailed-at-derry-court-for-failing-to-notify-police-of-his-release.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Óglach Michael Meenan 50th anniversary commemoration at the Republican Monument in Shantallow](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Óglach Michael Meenan 50th anniversary commemoration at the Republican Monument in Shantallow")](https://www.derrynow.com/story-telling/pictures---videos/1644091/in-pictures-oglach-michael-meenan-50th-anniversary-commemoration-in-derry.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Óglach Michael Meenan 50th anniversary commemoration in Derry](https://www.derrynow.com/story-telling/pictures---videos/1644091/in-pictures-oglach-michael-meenan-50th-anniversary-commemoration-in-derry.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![PICTURES: Pumpkins, pirates, princesses and more at Shantallow Halloween fun day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Pumpkins, pirates, princesses and more at Shantallow Halloween fun day")](https://www.derrynow.com/news/pictures---videos/1644382/pictures-pumpkins-pirates-princesses-and-more-at-shantallow-halloween-fun-day.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -324,14 +312,28 @@ Most Popular
 [PICTURES: Pumpkins, pirates, princesses and more at Shantallow Halloween fun day](https://www.derrynow.com/news/pictures---videos/1644382/pictures-pumpkins-pirates-princesses-and-more-at-shantallow-halloween-fun-day.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![ITV announce brand new Irish adventure with Fred Sirieix](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ITV announce brand new Irish adventure with Fred Sirieix")](https://www.derrynow.com/news/socialsharing-derrynow/1644030/itv-announce-brand-new-irish-adventure-with-fred-sirieix.html)
+[![IN PICTURES: Óglach Michael Meenan 50th anniversary commemoration at the Republican Monument in Shantallow](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Óglach Michael Meenan 50th anniversary commemoration at the Republican Monument in Shantallow")](https://www.derrynow.com/story-telling/pictures---videos/1644091/in-pictures-oglach-michael-meenan-50th-anniversary-commemoration-in-derry.html)
 
-ITV announce brand new Irish adventure with Fred Sirieix
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[SocialSharing-DerryNow](https://www.derrynow.com/section/2770/socialsharing-derrynow)
+[IN PICTURES: Óglach Michael Meenan 50th anniversary commemoration in Derry](https://www.derrynow.com/story-telling/pictures---videos/1644091/in-pictures-oglach-michael-meenan-50th-anniversary-commemoration-in-derry.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[ITV announce brand new Irish adventure with Fred Sirieix](https://www.derrynow.com/news/socialsharing-derrynow/1644030/itv-announce-brand-new-irish-adventure-with-fred-sirieix.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Man (34) sentenced in Derry court for breaching restraining order](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (34) sentenced in Derry court for breaching restraining order")](https://www.derrynow.com/news/local-news/1644077/man-34-sentenced-in-derry-court-for-breaching-restraining-order.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man (34) sentenced in Derry court for breaching restraining order](https://www.derrynow.com/news/local-news/1644077/man-34-sentenced-in-derry-court-for-breaching-restraining-order.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Singer releases James McClean tribute song and his stance on the poppy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Singer releases James McClean tribute song and his stance on the poppy")](https://www.derrynow.com/news/derry-news/1644210/singer-releases-james-mcclean-tribute-song-and-his-stance-on-the-poppy.html)
+
+James McClean
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Singer releases James McClean tribute song and his stance on the poppy](https://www.derrynow.com/news/derry-news/1644210/singer-releases-james-mcclean-tribute-song-and-his-stance-on-the-poppy.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -509,6 +511,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1644090/derry-death-notices-friday-november-1-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Friday, November 1, 2024](https://www.derrynow.com/news/deaths/1644090/derry-death-notices-friday-november-1-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Draperstown woman wins prestigious title at the National Building and Construction Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Draperstown woman wins prestigious title at the National Building and Construction Awards")](https://www.derrynow.com/news/home/1644369/draperstown-woman-wins-prestigious-title-at-the-national-building-and-construction-awards.html)
 
 Draperstown's Charlotte Hassan pictured with her award.
@@ -518,7 +527,7 @@ Draperstown's Charlotte Hassan pictured with her award.
 [Draperstown woman wins prestigious title at the National Building and Construction Awards](https://www.derrynow.com/news/home/1644369/draperstown-woman-wins-prestigious-title-at-the-national-building-and-construction-awards.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Singer releases James McClean tribute song and his stance on the poppy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Singer releases James McClean tribute song and his stance on the poppy")](https://www.derrynow.com/news/derry-news/1644210/singer-releases-james-mcclean-tribute-song-and-his-stance-on-the-poppy.html)
+[![Singer releases James McClean tribute song and his stance on the poppy](https://www.derrynow.com/resizer/165/93/true/2023_08_04/Untitled-1691173153778.jpg--.jpg?1691173153800 "Singer releases James McClean tribute song and his stance on the poppy")](https://www.derrynow.com/news/derry-news/1644210/singer-releases-james-mcclean-tribute-song-and-his-stance-on-the-poppy.html)
 
 James McClean
 
@@ -551,15 +560,6 @@ ITV announce brand new Irish adventure with Fred Sirieix
 
 [ITV announce brand new Irish adventure with Fred Sirieix](https://www.derrynow.com/news/socialsharing-derrynow/1644030/itv-announce-brand-new-irish-adventure-with-fred-sirieix.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Defend the winter fuel payment protest at Guildhall](https://www.derrynow.com/resizer/165/93/true/2024_10_31/20241029_133717-1730366362800.jpg--.jpg?1730366363681 "Defend the winter fuel payment protest at Guildhall")](https://www.derrynow.com/news/derry-news/1643879/derry-and-strabane-council-support-the-reinstatement-of-winter-fuel-payment-at-special-meeting.html)
-
-Defend the winter fuel payment protest at Guildhall
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry and Strabane council support the reinstatement of winter fuel payment at special meeting](https://www.derrynow.com/news/derry-news/1643879/derry-and-strabane-council-support-the-reinstatement-of-winter-fuel-payment-at-special-meeting.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
