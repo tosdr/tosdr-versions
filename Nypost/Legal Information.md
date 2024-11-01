@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Orlando mass shooting leaves 2 dead, 6 wounded during Halloween celebrations; teen suspect arrested](https://nypost.com/2024/11/01/us-news/orlando-mass-shooting-leaves-2-dead-6-wounded-during-halloween-celebration/)
+
 Privacy Notice Highlights
 =========================
 
