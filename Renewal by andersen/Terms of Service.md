@@ -553,16 +553,16 @@ If any part of these Terms is found to be invalid or unenforceable under applica
 
 YOU AGREE THAT YOU MAY ASSERT DISPUTES AGAINST RENEWAL ONLY ON AN INDIVIDUAL BASIS AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDINGS RELATED TO YOUR USE OF ANY SITE. AS PART OF THIS DISPUTE RESOLUTION PROCESS, YOU AND RENEWAL ALSO AGREE TO WAIVE ANY RIGHT TO A JURY AND AGREE TO HAVE ALL DISPUTES HEARD AND DECIDED SOLELY BY THE FEDERAL OR STATE COURT JUDGE.  All terms of these Terms set forth herein remain in force and effect.  If any term of this Dispute Resolution process is found to be invalid or unenforceable in any particular jurisdiction, that term will not apply to that issue in that jurisdiction. Instead, that term will be severed with the remaining terms continuing in full force and effect.
 
-Buy One Window or Door, Get One 50% Off\*
+Buy One Window or Door, Get One 40% Off\*
 -----------------------------------------
 
-### No money down, no payments, no interest for 1 year\*
+### Plus Special Financing\*
 
 [SEE OFFER DETAILS](https://www.renewalbyandersen.com/forms/schedule-a-consultation "Schedule a Consulation")
 
-Offer ends 10/31/2024
+Offer ends 12/31/2024
 
-Minimum purchase of 6 or more windows and/or doors at time of initial visit\*
+minimum purchase of four\*
 
 ![Request a brochure Background](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
