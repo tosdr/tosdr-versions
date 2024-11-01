@@ -251,6 +251,14 @@ Comparisons
 * [vs WP-Statistics](https://matomo.org/blog/2020/04/matomo-vs-wp-statistics/)
 * [Top Web Analytics Tools](https://matomo.org/blog/2023/08/top-web-analytics-tools/)
 
+Industries
+----------
+
+* [Banks](https://matomo.org/banking/) 
+* [Enterprise](https://matomo.org/enterprise/) 
+* [Financial Institutions](https://matomo.org/financial-institutions/) 
+* [Fintech](https://matomo.org/fintech/)
+
 * [](https://www.facebook.com/Matomo.org/)
 * [](https://twitter.com/matomo_org)
 * [](https://www.linkedin.com/groups/867857/)
