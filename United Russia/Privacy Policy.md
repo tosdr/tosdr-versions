@@ -299,6 +299,30 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Владимир Якушев поддержал предложение тамбовских молодогвардейцев учредить региональный знак «Волонтёр СВО»](https://cdn.er.ru/media/news/November2024/SXlqJA1JB9SfYsDnYYbs-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-podderzhal-predlozhenie-tambovskih-molodogvardejcev-uchredit-regionalnyj-znak-volontyor-svo)
+
+[Владимир Якушев поддержал предложение тамбовских молодогвардейцев учредить региональный знак «Волонтёр СВО»](https://er.ru/activity/news/vladimir-yakushev-podderzhal-predlozhenie-tambovskih-molodogvardejcev-uchredit-regionalnyj-znak-volontyor-svo)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#Егоров](https://er.ru/activity/news?tags%5B0%5D=17445) [#награда](https://er.ru/activity/news?tags%5B0%5D=2241) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#волонтерство](https://er.ru/activity/news?tags%5B0%5D=19443) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 10:31
+
+[![Владимир Якушев встретился с тамбовскими ветеранами СВО](https://cdn.er.ru/media/news/November2024/4wUNX0QBcgiAvAsy7CcT-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-vstretilsya-s-tambovskimi-veteranami-svo)
+
+[Владимир Якушев встретился с тамбовскими ветеранами СВО](https://er.ru/activity/news/vladimir-yakushev-vstretilsya-s-tambovskimi-veteranami-svo)
+
+[#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#защитникиОтечества](https://er.ru/activity/news?tags%5B0%5D=123406) [#ветераныСВО](https://er.ru/activity/news?tags%5B0%5D=1095636)
+
+Сегодня 09:20
+
+[![Владимир Якушев: «Единая Россия» обеспечит дальнейший контроль за реализацией программы модернизации первичного звена здравоохранения](https://cdn.er.ru/media/news/November2024/RCdGxhFJzRi9pQIPA147-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-obespechit-dalnejshij-kontrol-za-realizaciej-programmy-modernizacii-pervichnogo-zvena-zdravoohraneniya)
+
+[Владимир Якушев: «Единая Россия» обеспечит дальнейший контроль за реализацией программы модернизации первичного звена здравоохранения](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-obespechit-dalnejshij-kontrol-za-realizaciej-programmy-modernizacii-pervichnogo-zvena-zdravoohraneniya)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#модернизация](https://er.ru/activity/news?tags%5B0%5D=169) [#здравоохранение](https://er.ru/activity/news?tags%5B0%5D=116225) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#поликлиника](https://er.ru/activity/news?tags%5B0%5D=121849) [#рабочаяпоездка](https://er.ru/activity/news?tags%5B0%5D=129494) [#первичноезвено](https://er.ru/activity/news?tags%5B0%5D=140453)
+
+Сегодня 08:30
+
 [![Владимир Якушев: При поддержке «Единой России» в бюджете заложено 180 миллиардов рублей на развитие комфортной горсреды](https://cdn.er.ru/media/news/October2024/2oZNJDyi6RwiSYW8ka0N-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-pri-podderzhke-edinoj-rossii-v-byudzhete-zalozheno-180-milliardov-rublej-na-razvitie-komfortnoj-gorsredy)
 
 [Владимир Якушев: При поддержке «Единой России» в бюджете заложено 180 миллиардов рублей на развитие комфортной горсреды](https://er.ru/activity/news/vladimir-yakushev-pri-podderzhke-edinoj-rossii-v-byudzhete-zalozheno-180-milliardov-rublej-na-razvitie-komfortnoj-gorsredy)
@@ -320,30 +344,6 @@
 [Алексей Ересько: Контроль «Единой России» за благоустройством общественных пространств и дворов улучшил качество работ на объектах](https://er.ru/activity/news/aleksej-eresko-kontrol-edinoj-rossii-za-blagoustrojstvom-obshestvennyh-prostranstv-i-dvorov-uluchshil-kachestvo-rabot-na-obektah)
 
 [#Ересько](https://er.ru/activity/news?tags%5B0%5D=1093212) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ГородскаяСреда](https://er.ru/activity/news?tags%5B0%5D=1090022) [#ФКГС](https://er.ru/activity/news?tags%5B0%5D=121187) [#общественныепространства](https://er.ru/activity/news?tags%5B0%5D=122879) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Минстрой](https://er.ru/activity/news?tags%5B0%5D=44979)
-
-31.10.24
-
-[![Владимир Якушев: В Тамбовской области хорошо налажена работа с обращениями граждан](https://cdn.er.ru/media/news/October2024/KvsZD2L1xYPaTn2frc9x-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-v-tambovskoj-oblasti-horosho-nalazhena-rabota-s-obrasheniyami-grazhdan)
-
-[Владимир Якушев: В Тамбовской области хорошо налажена работа с обращениями граждан](https://er.ru/activity/news/vladimir-yakushev-v-tambovskoj-oblasti-horosho-nalazhena-rabota-s-obrasheniyami-grazhdan)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#Егоров](https://er.ru/activity/news?tags%5B0%5D=17445) [#приемграждан](https://er.ru/activity/news?tags%5B0%5D=103849) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#обращения](https://er.ru/activity/news?tags%5B0%5D=13668) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978)
-
-31.10.24
-
-[![Александр Сидякин: Количество участников голосования «Единой России» и Минстроя за объекты благоустройства выросло в два раза](https://cdn.er.ru/media/news/October2024/2awVgynvhW1Xncos3a3a-small.jpg)](https://er.ru/activity/news/aleksandr-sidyakin-kolichestvo-uchastnikov-golosovaniya-edinoj-rossii-i-minstroya-za-obekty-blagoustrojstva-vyroslo-v-dva-raza)
-
-[Александр Сидякин: Количество участников голосования «Единой России» и Минстроя за объекты благоустройства выросло в два раза](https://er.ru/activity/news/aleksandr-sidyakin-kolichestvo-uchastnikov-golosovaniya-edinoj-rossii-i-minstroya-za-obekty-blagoustrojstva-vyroslo-v-dva-raza)
-
-[#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#формированиекомфортнойгородскойсреды](https://er.ru/activity/news?tags%5B0%5D=144989) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ГородскаяСреда](https://er.ru/activity/news?tags%5B0%5D=1090022) [#благоустройство](https://er.ru/activity/news?tags%5B0%5D=3871) [#общественныепространства](https://er.ru/activity/news?tags%5B0%5D=122879) [#дворы](https://er.ru/activity/news?tags%5B0%5D=3930) [#Минстрой](https://er.ru/activity/news?tags%5B0%5D=44979) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-31.10.24
-
-[![«Единая Россия» проводит обсуждение положения о первичных отделениях партии в регионах](https://cdn.er.ru/media/news/October2024/qmmjNKWUC8HRqMcIHzzB-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provodit-obsuzhdenie-polozheniya-o-pervichnyh-otdeleniyah-partii-v-regionah)
-
-[«Единая Россия» проводит обсуждение положения о первичных отделениях партии в регионах](https://er.ru/activity/news/edinaya-rossiya-provodit-obsuzhdenie-polozheniya-o-pervichnyh-otdeleniyah-partii-v-regionah)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#первички](https://er.ru/activity/news?tags%5B0%5D=127619) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
 
 31.10.24
 
