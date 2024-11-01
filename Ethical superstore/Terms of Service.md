@@ -24,8 +24,8 @@ Customer Services Helpline
             * [Cooking Oils](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/oils/)
             * [Tinned Tomatoes & Veg](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/tinned-veg-and-pulses/)
             * [Soup](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/soup/)
-            * [Fish & Seafood](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/fish-and-seafood/)
             * [Coconut](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/coconut/)
+            * [Fish & Seafood](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/fish-and-seafood/)
         * [Pasta & Noodles](https://www.ethicalsuperstore.com/category/groceries-and-everyday/pasta-and-noodles/)
             * [Pasta](https://www.ethicalsuperstore.com/category/groceries-and-everyday/pasta-and-noodles/pasta/)
             * [Noodles](https://www.ethicalsuperstore.com/category/groceries-and-everyday/pasta-and-noodles/noodles/)
@@ -142,9 +142,9 @@ Customer Services Helpline
             
         * [Bin Bags & Foils](https://www.ethicalsuperstore.com/category/cleaning-and-household/bin-bags-and-foils/)
             
-        * [Tissues & Towels](https://www.ethicalsuperstore.com/category/cleaning-and-household/tissues-and-towels/)
-            
         * [Utility & DIY](https://www.ethicalsuperstore.com/category/cleaning-and-household/diy/)
+            
+        * [Tissues & Towels](https://www.ethicalsuperstore.com/category/cleaning-and-household/tissues-and-towels/)
             
         * [Shopping & Storage Bags](https://www.ethicalsuperstore.com/category/cleaning-and-household/shopping-and-storage-bags/)
             
@@ -164,8 +164,8 @@ Customer Services Helpline
             * [Socks & Tights](https://www.ethicalsuperstore.com/category/fashion/womens/socks/)
             * [Nightwear](https://www.ethicalsuperstore.com/category/fashion/womens/nightwear/)
             * [Trousers & Leggings](https://www.ethicalsuperstore.com/category/fashion/womens/trousers/)
-            * [Graphic T-Shirts & Jumpers](https://www.ethicalsuperstore.com/category/fashion/womens/graphic-t_shirt-and-jumpers/)
             * [Swimwear](https://www.ethicalsuperstore.com/category/fashion/womens/swimwear/)
+            * [Graphic T-Shirts & Jumpers](https://www.ethicalsuperstore.com/category/fashion/womens/graphic-t_shirt-and-jumpers/)
             * [Bags](https://www.ethicalsuperstore.com/category/fashion/womens/bags/)
         
         * [Mens](https://www.ethicalsuperstore.com/category/fashion/mens/)
@@ -210,8 +210,8 @@ Customer Services Helpline
         * [Garden & Outdoor](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/)
             * [Garden Accessories](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/garden-accessories/)
             * [Plants & Seeds](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/trees-plants-and-seeds/)
-            * [Wildlife](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/wildlife/)
             * [Solar Lighting](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/solar-garden-products/)
+            * [Wildlife](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/wildlife/)
             * [Picnic & Outdoor Living](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/outdoor-furniture/)
         
         * [Kitchen & Dining](https://www.ethicalsuperstore.com/category/home-and-garden/kitchen-and-dining/)
@@ -341,8 +341,8 @@ Customer Services Helpline
         * [Plastic Free Gifts](https://www.ethicalsuperstore.com/ethical-gifts/plastic-free-gifts/)
         * [Calendars, Cards & Wrap](https://www.ethicalsuperstore.com/ethical-gifts/cards-and-wrap/)
         
-        * [Christmas](https://www.ethicalsuperstore.com/ethical-gifts/christmas/)
         * [Advent Calendars](https://www.ethicalsuperstore.com/ethical-gifts/advent-calendars/)
+        * [Christmas](https://www.ethicalsuperstore.com/ethical-gifts/christmas/)
         * [Christmas Cards & Wrap](https://www.ethicalsuperstore.com/ethical-gifts/christmas-gift-wrap/)
         * [Festive Food](https://www.ethicalsuperstore.com/ethical-gifts/festive-food/)
         * [Stocking Fillers](https://www.ethicalsuperstore.com/ethical-gifts/stocking-fillers/)
