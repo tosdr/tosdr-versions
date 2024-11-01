@@ -14,11 +14,11 @@ Recommendations
 
 Audio
 
-* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
+* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
     
-    Browse All Our Lists, Essays, and Interviews
+    Books Bans Are on the Rise in America
     
-    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
+    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
 
 * * *
 
@@ -30,11 +30,11 @@ Audio
 
 * * *
 
-* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
+* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
     
-    Books Bans Are on the Rise in America
+    Browse All Our Lists, Essays, and Interviews
     
-    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
+    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
 
 * <
     
