@@ -866,22 +866,6 @@ Bruno Souza Monteregie Metro 16/03/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-KD and Connor were very professional and provided a very quick and efficient service! Will use their services again.
-
-Elric Miller Wisconsin 26/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Quick easy and professional service!
-
-Kohrin K Columbus 26/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Great service and friendly.
 
 Joe Molloy Columbus 26/10/2024
@@ -938,17 +922,17 @@ Ian O Wisconsin 26/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Andre and Brian were excellent and very helpful! Great experience!
+KD and Connor were very professional and provided a very quick and efficient service! Will use their services again.
 
-Jessica Wisconsin 25/10/2024
+Elric Miller Wisconsin 26/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Andra & Brian were very professional & let me know when they would arrive. They were efficient and polite.
+Quick easy and professional service!
 
-Verne Cowles Wisconsin 25/10/2024
+Kohrin K Columbus 26/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -1005,6 +989,22 @@ Doug Crowe Naples 25/10/2024
 Bobby and David did a real good job, quicker than expected!
 
 Fernando Ruiz Austin 25/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Now and Gio were great! On time and professional!
+
+Chris Hickmon Naples 25/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Gabe and Paris were extremely courteous, efficient, and professional. I would definitely use them and 1- 800-got-junk again. .
+
+Julia Cincinnati 25/10/2024
 
 ### 
 
