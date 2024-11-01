@@ -1,6 +1,6 @@
 [![Switch to best theme for screen-readers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Switch to best theme for screen-readers")](https://antiquity.nationstates.net/)
 
-[![NationStates Z](/images/banner3greenZ.png)](https://www.nationstates.net/)
+[![NationStates](/images/bannertitle5.png)](https://www.nationstates.net/)
 
 [NEW NATION](https://www.nationstates.net/page=create_nation)
 
@@ -34,15 +34,13 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [The Collective Security League: OOC s… (6,606)](https://forum.nationstates.net/viewtopic.php?t=533133&f=5&view=unread#unread ""The Collective Security League: OOC signup" (6,606 posts)")
-* [Illion League (IC/Assembly) (6,895)](https://forum.nationstates.net/viewtopic.php?t=550142&f=5&view=unread#unread ""Illion League (IC/Assembly)" (6,895 posts)")
-* [Guess Who BN Is! (6,428)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (6,428 posts)")
-* [Guess AU favorite type of music (87)](https://forum.nationstates.net/viewtopic.php?t=556983&f=25&view=unread#unread ""Guess AU favorite type of music" (87 posts)")
-* [The Encyclopedia Norfolkica (Maintena… (75)](https://forum.nationstates.net/viewtopic.php?t=543620&f=23&view=unread#unread ""The Encyclopedia Norfolkica (Maintenance - DO NOT POST)" (75 posts)")
+* [American Politics: The Final Week (6,109)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: The Final Week" (6,109 posts)")
+* [10000 Monkey Genocide III (4,307)](https://forum.nationstates.net/viewtopic.php?t=520528&f=25&view=unread#unread ""10000 Monkey Genocide III" (4,307 posts)")
+* [Your ambitions or things you look for… (12)](https://forum.nationstates.net/viewtopic.php?t=557811&f=20&view=unread#unread ""Your ambitions or things you look forward to" (12 posts)")
+* [Transformers: Electric Trepidation (10,763)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (10,763 posts)")
+* [The Collective Security League: OOC s… (6,617)](https://forum.nationstates.net/viewtopic.php?t=533133&f=5&view=unread#unread ""The Collective Security League: OOC signup" (6,617 posts)")
 
 Advertisement
-
-[Z-DayMost Zombies](https://www.nationstates.net/page=zday_tally#ztotal)[1Chicken overlords](https://www.nationstates.net/region=chicken_overlords) [2Osiris](https://www.nationstates.net/region=osiris) [3Lazarus](https://www.nationstates.net/region=lazarus) [4Balder](https://www.nationstates.net/region=balder) [5the Rejected Realms](https://www.nationstates.net/region=the_rejected_realms) [6Alliance of Supreme Powers](https://www.nationstates.net/region=alliance_of_supreme_powers) [7Artificial Solar System](https://www.nationstates.net/region=artificial_solar_system) [8Hispano Germanic Alliance](https://www.nationstates.net/region=hispano_germanic_alliance) [9The East Pacific](https://www.nationstates.net/region=the_east_pacific) [10Suspicious](https://www.nationstates.net/region=suspicious) [11The North Pacific](https://www.nationstates.net/region=the_north_pacific) [12Two](https://www.nationstates.net/region=two) [13Jihad Army of the Emperor](https://www.nationstates.net/region=jihad_army_of_the_emperor) [14United States of America](https://www.nationstates.net/region=united_states_of_america) [150000](https://www.nationstates.net/region=0000)
 
 Terms & Conditions of Use
 =========================
