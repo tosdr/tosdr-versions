@@ -33,7 +33,7 @@
         
     
 * [Success Stories](https://www.omadahealth.com/success-stories)
-* [Who We Are](https://www.omadahealth.com/about-us-2)
+* [Who We Are](https://www.omadahealth.com/who-we-are)
 * [FAQs](https://www.omadahealth.com/frequently-asked-questions)
 * [Support](#)
     
@@ -109,7 +109,7 @@ Quality virtual care that is personal, connected, & sustainable.](#)[Contact Sal
         
     
 * [Success Stories](https://www.omadahealth.com/success-stories)
-* [Who We Are](https://www.omadahealth.com/about-us-2)
+* [Who We Are](https://www.omadahealth.com/who-we-are)
 * [FAQs](https://www.omadahealth.com/frequently-asked-questions)
 * [Support](#)
     
@@ -1154,7 +1154,7 @@ Effective Date: April 1, 2024
     * [Hypertension](https://www.omadahealth.com/for-individuals/hypertension)
     * [Joint & Muscle Health](https://www.omadahealth.com/for-individuals/musculoskeletal)
     * [Success Stories](https://www.omadahealth.com/success-stories)
-    * [Who We Are](https://www.omadahealth.com/about-us-2)
+    * [Who We Are](https://www.omadahealth.com/who-we-are)
 * [Support](https://support.omadahealth.com/hc/en-us)
     * [Help Center](https://support.omadahealth.com/hc/en-us)
     * [Member Blog](https://resourcecenter.omadahealth.com/for-individuals)
