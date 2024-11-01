@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Colorado’s Top Election Official Says Employee Responsible for Posting Voting Passwords Is Gone](https://www.theepochtimes.com/us/colorados-top-election-official-says-employee-responsible-for-posting-voting-passwords-is-gone-5752040)
+* [New Treasury Rule Expands Oversight of Foreign Land Buys Near Military Bases](https://www.theepochtimes.com/us/new-treasury-rule-expands-oversight-of-foreign-land-buys-near-military-bases-5752368)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    NEW By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
     
-    [![Colorado’s Top Election Official Says Employee Responsible for Posting Voting Passwords Is Gone](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![New Treasury Rule Expands Oversight of Foreign Land Buys Near Military Bases](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Colorado’s Top Election Official Says Employee Responsible for Posting Voting Passwords Is Gone](https://img.theepochtimes.com/assets/uploads/2024/10/id5746644-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/colorados-top-election-official-says-employee-responsible-for-posting-voting-passwords-is-gone-5752040)
-* [US Economy Adds Just 12,000 Jobs in October](https://www.theepochtimes.com/business/us-economy-adds-just-12000-new-jobs-in-october-5751967)
+    ![New Treasury Rule Expands Oversight of Foreign Land Buys Near Military Bases](https://img.theepochtimes.com/assets/uploads/2023/12/25/id5552780-DSC03775-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-treasury-rule-expands-oversight-of-foreign-land-buys-near-military-bases-5752368)
+* [Michigan Supreme Court Dismisses COVID-19 Mandate Challenge](https://www.theepochtimes.com/us/michigan-supreme-court-dismisses-covid-19-mandate-challenge-5752262)
     
-    3hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![US Economy Adds Just 12,000 Jobs in October](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Michigan Supreme Court Dismisses COVID-19 Mandate Challenge](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Economy Adds Just 12,000 Jobs in October](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5750119-10122024-L1160437-hire-now-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/us-economy-adds-just-12000-new-jobs-in-october-5751967)
-* [New York’s Top Court Upholds Law on Disputed Mail-In Ballots](https://www.theepochtimes.com/us/new-yorks-top-court-upholds-law-on-disputed-mail-in-ballots-5751945)
+    ![Michigan Supreme Court Dismisses COVID-19 Mandate Challenge](https://img.theepochtimes.com/assets/uploads/2020/04/06/michigan-department-of-health-human-services-205x123.jpg.webp)](https://www.theepochtimes.com/us/michigan-supreme-court-dismisses-covid-19-mandate-challenge-5752262)
+* [Hospital Mask Mandates Come Back in California’s Bay Area: What We Know](https://www.theepochtimes.com/article/hospital-mask-mandates-come-back-in-californias-bay-area-what-we-know-5752380)
     
-    4hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![New York’s Top Court Upholds Law on Disputed Mail-In Ballots](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Hospital Mask Mandates Come Back in California’s Bay Area: What We Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![New York’s Top Court Upholds Law on Disputed Mail-In Ballots](https://img.theepochtimes.com/assets/uploads/2022/11/09/EpochImages-7762764359-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-yorks-top-court-upholds-law-on-disputed-mail-in-ballots-5751945)
-* [Death Toll From Flooding In Spain Reaches 205 And Likely To Rise](https://www.theepochtimes.com/world/death-toll-from-flooding-in-spain-reaches-158-and-likely-to-rise-5751943)
+    ![Hospital Mask Mandates Come Back in California’s Bay Area: What We Know](https://img.theepochtimes.com/assets/uploads/2023/09/26/id5499051-Ohio-hospital-COVID-19-patient-205x123.jpg.webp)](https://www.theepochtimes.com/article/hospital-mask-mandates-come-back-in-californias-bay-area-what-we-know-5752380)
+* [Next US President to Face Slowing Economy, Experts Warn](https://www.theepochtimes.com/article/next-us-president-to-face-slowing-economy-experts-warn-5751564)
     
-    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    NEW By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
     
-    [![Death Toll From Flooding In Spain Reaches 205 And Likely To Rise](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Next US President to Face Slowing Economy, Experts Warn](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Death Toll From Flooding In Spain Reaches 205 And Likely To Rise](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5751098-GettyImages-2181244616-OPmobile-205x123.jpg.webp)](https://www.theepochtimes.com/world/death-toll-from-flooding-in-spain-reaches-158-and-likely-to-rise-5751943)
-* [Rights Lawyer Couple Sentenced in China Amid Global Outcry](https://www.theepochtimes.com/china/rights-lawyer-couple-sentenced-in-china-amid-global-outcry-5751832)
+    ![Next US President to Face Slowing Economy, Experts Warn](https://img.theepochtimes.com/assets/uploads/2024/11/01/id5752442-Economy-for-next-president-6-205x123.jpg.webp)](https://www.theepochtimes.com/article/next-us-president-to-face-slowing-economy-experts-warn-5751564)
+* [Vance Tells Joe Rogan He Was the Sickest He’d Been in 15 Years After COVID Vaccination](https://www.theepochtimes.com/us/vance-tells-joe-rogan-he-was-the-sickest-hed-been-in-15-years-after-covid-vaccination-5752264)
     
-    6hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Rights Lawyer Couple Sentenced in China Amid Global Outcry](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Vance Tells Joe Rogan He Was the Sickest He’d Been in 15 Years After COVID Vaccination](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Rights Lawyer Couple Sentenced in China Amid Global Outcry](https://img.theepochtimes.com/assets/uploads/2024/11/01/id5752011-xu-yan-yu-wensheng-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/rights-lawyer-couple-sentenced-in-china-amid-global-outcry-5751832)
-* [Harris Makes Final Push to Engage Latino Voters in Arizona, Nevada](https://www.theepochtimes.com/us/harris-makes-final-push-to-engage-latino-voters-in-arizona-nevada-5751889)
+    ![Vance Tells Joe Rogan He Was the Sickest He’d Been in 15 Years After COVID Vaccination](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751712-JD-Vance-Joe-Rogan-205x123.jpg.webp)](https://www.theepochtimes.com/us/vance-tells-joe-rogan-he-was-the-sickest-hed-been-in-15-years-after-covid-vaccination-5752264)
+* [Texas Doctor Gets 10-Year Prison Term for $54 Million Medicare Fraud](https://www.theepochtimes.com/us/texas-doctor-gets-10-year-prison-term-for-54-million-medicare-fraud-5752240)
     
-    6hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Harris Makes Final Push to Engage Latino Voters in Arizona, Nevada](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Texas Doctor Gets 10-Year Prison Term for $54 Million Medicare Fraud](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris Makes Final Push to Engage Latino Voters in Arizona, Nevada](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5751897-Harris-in-Reno-Nevada-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-makes-final-push-to-engage-latino-voters-in-arizona-nevada-5751889)
-* [Chinese Military Second-in-Command’s Visit to Vietnam Signals Power Change in Beijing](https://www.theepochtimes.com/china/chinese-military-second-in-commands-visit-to-vietnam-signals-power-change-in-beijing-5751482)
+    ![Texas Doctor Gets 10-Year Prison Term for $54 Million Medicare Fraud](https://img.theepochtimes.com/assets/uploads/2023/10/04/id5503629-shutterstock_115761625-205x123.jpg.webp)](https://www.theepochtimes.com/us/texas-doctor-gets-10-year-prison-term-for-54-million-medicare-fraud-5752240)
+* [IRS Announces Updated Retirement Plan Contribution Limits for 2025](https://www.theepochtimes.com/us/irs-announces-updated-retirement-plan-contribution-limits-for-2025-post-5752190)
     
-    7hr By [Jessica Mao](https://www.theepochtimes.com/author/jessica-mao) and [Olivia Li](https://www.theepochtimes.com/author/olivia-li)
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Chinese Military Second-in-Command’s Visit to Vietnam Signals Power Change in Beijing](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![IRS Announces Updated Retirement Plan Contribution Limits for 2025](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Chinese Military Second-in-Command’s Visit to Vietnam Signals Power Change in Beijing](https://img.theepochtimes.com/assets/uploads/2024/06/19/id5671457-GettyImages-1472904682-205x123.jpg.webp)](https://www.theepochtimes.com/china/chinese-military-second-in-commands-visit-to-vietnam-signals-power-change-in-beijing-5751482)
-* [Day in Photos: Super Typhoon, North Korean Missile, and Dodgers’ Win](https://www.theepochtimes.com/article/day-in-photos-super-typhoon-north-korean-missile-and-dodgers-win-5751450)
+    ![IRS Announces Updated Retirement Plan Contribution Limits for 2025](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748640-01042024-DSC06070-IRS.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/irs-announces-updated-retirement-plan-contribution-limits-for-2025-post-5752190)
+* [China Conducts Unprecedented Dual Carrier Exercises in South China Sea](https://www.theepochtimes.com/china/china-conducts-unprecedented-dual-carrier-exercises-in-south-china-sea-5752194)
     
-    12hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    2hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
     
-    [![Day in Photos: Super Typhoon, North Korean Missile, and Dodgers’ Win](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![China Conducts Unprecedented Dual Carrier Exercises in South China Sea](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Day in Photos: Super Typhoon, North Korean Missile, and Dodgers’ Win](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751686-GettyImages-2181355465-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-super-typhoon-north-korean-missile-and-dodgers-win-5751450)
-* [Judge Orders Arizona to Release List of Registered Voters With Unverified Citizenship](https://www.theepochtimes.com/us/judge-orders-arizona-to-release-list-of-registered-voters-with-unverified-citizenship-5751777)
+    ![China Conducts Unprecedented Dual Carrier Exercises in South China Sea](https://img.theepochtimes.com/assets/uploads/2024/06/25/id5674982-GettyImages-809966856-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-conducts-unprecedented-dual-carrier-exercises-in-south-china-sea-5752194)
+* [Chinese National Gets Indicted for Stealing Trade Secrets From Global Investment Company](https://www.theepochtimes.com/china/chinese-national-gets-indicted-for-stealing-trade-secrets-from-global-investment-company-5752186)
     
-    13hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    2hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
     
-    [![Judge Orders Arizona to Release List of Registered Voters With Unverified Citizenship](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Chinese National Gets Indicted for Stealing Trade Secrets From Global Investment Company](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Judge Orders Arizona to Release List of Registered Voters With Unverified Citizenship](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5752010-AZ-Early-Voting-iii_JF_10102024-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-orders-arizona-to-release-list-of-registered-voters-with-unverified-citizenship-5751777)
-* [Boeing, Union Reach New Deal in Bid to End Weekslong Strike](https://www.theepochtimes.com/business/boeing-machinists-union-endorses-new-contract-proposal-strike-may-end-soon-5751834)
+    ![Chinese National Gets Indicted for Stealing Trade Secrets From Global Investment Company](https://img.theepochtimes.com/assets/uploads/2024/07/29/id5695814-07292024-DSC09126-DOJ-205x123.jpg.webp)](https://www.theepochtimes.com/china/chinese-national-gets-indicted-for-stealing-trade-secrets-from-global-investment-company-5752186)
+* [Federal Judge Sends Case Over Elon Musk’s $1 Million Giveaways Back to Philadelphia Court](https://www.theepochtimes.com/us/federal-judge-sends-elon-musks-case-back-to-philadelphia-court-5752273)
     
-    14hr By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
+    3hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
-    [![Boeing, Union Reach New Deal in Bid to End Weekslong Strike](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Federal Judge Sends Case Over Elon Musk’s $1 Million Giveaways Back to Philadelphia Court](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Boeing, Union Reach New Deal in Bid to End Weekslong Strike](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744381-Boeing-strike-GettyImages-2177902713-205x123.jpg.webp)](https://www.theepochtimes.com/business/boeing-machinists-union-endorses-new-contract-proposal-strike-may-end-soon-5751834)
+    ![Federal Judge Sends Case Over Elon Musk’s $1 Million Giveaways Back to Philadelphia Court](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751389-GettyImages-2180769486-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-sends-elon-musks-case-back-to-philadelphia-court-5752273)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
