@@ -2,14 +2,14 @@ Friday, November 1 2024
 
 Breaking News
 
+* [Ana Kasparian the Latest “Progressive” to Leave the “Cruel” Intolerant Left](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/)
+* [Court Orders Swing State To Release List Of Over 200,000 Registered Voters Who Did Not Provide Proof Of Citizenship](https://www.conservativedailynews.com/2024/11/court-orders-swing-state-to-release-list-of-over-200000-registered-voters-who-did-not-provide-proof-of-citizenship/)
+* [Trump Slaps CBS With $10 Billion Lawsuit Over ’60 Minutes’ Harris Edit](https://www.conservativedailynews.com/2024/11/trump-slaps-cbs-with-10-billion-lawsuit-over-60-minutes-harris-edit/)
+* [President Joe Biden’s Schedule for Friday, November 1, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-1-2024/)
 * [The DNC is Desperate and Sent THIS to my Daughter](https://www.conservativedailynews.com/2024/10/the-dnc-is-desperate-and-sent-this-to-my-daughter/)
+* [Trump Voters Rally Behind ‘Hassled’ McDonald’s That Hosted Former President](https://www.conservativedailynews.com/2024/10/trump-voters-rally-behind-hassled-mcdonalds-that-hosted-former-president/)
 * [Conservative Civil War Brews In Key Texas Oil Town As Election Approaches](https://www.conservativedailynews.com/2024/10/conservative-civil-war-brews-in-key-texas-oil-town-as-election-approaches/)
 * [‘Shocking’ Number Of Americans Believe Speech Can Be ‘Violence,’ Poll Finds](https://www.conservativedailynews.com/2024/10/shocking-number-of-americans-believe-speech-can-be-violence-poll-finds/)
-* [The Left (Democrats, “News” Media) Always in a Flutter at Words](https://www.conservativedailynews.com/2024/10/the-left-democrats-news-media-always-in-a-flutter-at-words/)
-* [Trump’s Advantage With Key Demographic Nearly Doubles In Crucial Swing State, Poll Shows](https://www.conservativedailynews.com/2024/10/trumps-advantage-with-key-demographic-nearly-doubles-in-crucial-swing-state-poll-shows/)
-* [Will The Election Be Decided By An Apostrophe?](https://www.conservativedailynews.com/2024/10/will-the-election-be-decided-by-an-apostrophe/)
-* [President Joe Biden’s Schedule for Thursday, October 31, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-31-2024/)
-* [Chinese Student Accused Of Voting Illegally — And His Vote Will Reportedly Count](https://www.conservativedailynews.com/2024/10/chinese-student-accused-of-voting-illegally-and-his-vote-will-reportedly-count/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -130,67 +130,67 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Ana-Kasparian-220x150.jpg)](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/)
+    
+    [Ana Kasparian the Latest “Progressive” to Leave the “Cruel” Intolerant Left](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/)
+    
+    November 1, 2024
+    
+* [![Kamalanomics Kamala Harris bidenomics](https://www.conservativedailynews.com/wp-content/uploads/2024/08/gv080624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/biden-harris-admin-adds-nearly-no-jobs-in-last-report-before-election/)
+    
+    [Biden-Harris Admin Adds Nearly No Jobs In Last Report Before Election](https://www.conservativedailynews.com/2024/11/biden-harris-admin-adds-nearly-no-jobs-in-last-report-before-election/)
+    
+    November 1, 2024
+    
+* [![Boeing DEI](https://www.conservativedailynews.com/wp-content/uploads/2024/03/Screenshot_20240321_180708-220x150.jpg)](https://www.conservativedailynews.com/2024/11/problem-riddled-boeing-axes-entire-diversity-division/)
+    
+    [Problem-Riddled Boeing Axes Entire Diversity Division](https://www.conservativedailynews.com/2024/11/problem-riddled-boeing-axes-entire-diversity-division/)
+    
+    November 1, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/04/Judge-with-Gavel-220x150.jpg)](https://www.conservativedailynews.com/2024/11/court-orders-swing-state-to-release-list-of-over-200000-registered-voters-who-did-not-provide-proof-of-citizenship/)
+    
+    [Court Orders Swing State To Release List Of Over 200,000 Registered Voters Who Did Not Provide Proof Of Citizenship](https://www.conservativedailynews.com/2024/11/court-orders-swing-state-to-release-list-of-over-200000-registered-voters-who-did-not-provide-proof-of-citizenship/)
+    
+    November 1, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/11/trump-slaps-cbs-with-10-billion-lawsuit-over-60-minutes-harris-edit/)
+    
+    [Trump Slaps CBS With $10 Billion Lawsuit Over ’60 Minutes’ Harris Edit](https://www.conservativedailynews.com/2024/11/trump-slaps-cbs-with-10-billion-lawsuit-over-60-minutes-harris-edit/)
+    
+    November 1, 2024
+    
+* [![Turning the page nazis garbage](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg110124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/turning-the-page/)
+    
+    [Turning the Page](https://www.conservativedailynews.com/2024/11/turning-the-page/)
+    
+    November 1, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/JOe-Biden-speech-14-220x150.png)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-1-2024/)
+    
+    [President Joe Biden’s Schedule for Friday, November 1, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-1-2024/)
+    
+    November 1, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/Oops-mistake-shock-2-220x150.png)](https://www.conservativedailynews.com/2024/10/the-dnc-is-desperate-and-sent-this-to-my-daughter/)
     
     [The DNC is Desperate and Sent THIS to my Daughter](https://www.conservativedailynews.com/2024/10/the-dnc-is-desperate-and-sent-this-to-my-daughter/)
     
     October 31, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/shock-ashamed-questioning-embarrassed-judgemental-1-220x150.jpg)](https://www.conservativedailynews.com/2024/10/conservative-civil-war-brews-in-key-texas-oil-town-as-election-approaches/)
-    
-    [Conservative Civil War Brews In Key Texas Oil Town As Election Approaches](https://www.conservativedailynews.com/2024/10/conservative-civil-war-brews-in-key-texas-oil-town-as-election-approaches/)
-    
-    October 31, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/01/Eyeroll-220x150.jpg)](https://www.conservativedailynews.com/2024/10/shocking-number-of-americans-believe-speech-can-be-violence-poll-finds/)
-    
-    [‘Shocking’ Number Of Americans Believe Speech Can Be ‘Violence,’ Poll Finds](https://www.conservativedailynews.com/2024/10/shocking-number-of-americans-believe-speech-can-be-violence-poll-finds/)
-    
-    October 31, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Ford-F-150-lightning-220x150.jfif)](https://www.conservativedailynews.com/2024/10/major-automaker-pumps-brakes-on-production-of-electric-pickup-biden-once-drove/)
-    
-    [Major Automaker Pumps Brakes On Production Of Electric Pickup Biden Once Drove](https://www.conservativedailynews.com/2024/10/major-automaker-pumps-brakes-on-production-of-electric-pickup-biden-once-drove/)
-    
-    October 31, 2024
-    
-* [![Donald Trump garbage vest](https://www.conservativedailynews.com/wp-content/uploads/2024/10/gv103124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/mgga-baby/)
-    
-    [MGGA Baby!](https://www.conservativedailynews.com/2024/10/mgga-baby/)
-    
-    October 31, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/07/ukraine-600-x-425.jpg)](https://www.conservativedailynews.com/2024/10/ukraine-has-been-desperate-for-manpower-as-death-toll-rises-now-its-becoming-a-problem-for-russia-too/)
-    
-    [Ukraine Has Been Desperate For Manpower As Death Toll Rises — Now It’s Becoming A Problem For Russia Too](https://www.conservativedailynews.com/2024/10/ukraine-has-been-desperate-for-manpower-as-death-toll-rises-now-its-becoming-a-problem-for-russia-too/)
-    
-    October 31, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/09/Media-Lies.jpg)](https://www.conservativedailynews.com/2024/10/the-left-democrats-news-media-always-in-a-flutter-at-words/)
-    
-    [The Left (Democrats, “News” Media) Always in a Flutter at Words](https://www.conservativedailynews.com/2024/10/the-left-democrats-news-media-always-in-a-flutter-at-words/)
-    
-    October 31, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/09/wp1816998-donald-trump-wallpapers.jpg)](https://www.conservativedailynews.com/2024/10/trumps-advantage-with-key-demographic-nearly-doubles-in-crucial-swing-state-poll-shows/)
-    
-    [Trump’s Advantage With Key Demographic Nearly Doubles In Crucial Swing State, Poll Shows](https://www.conservativedailynews.com/2024/10/trumps-advantage-with-key-demographic-nearly-doubles-in-crucial-swing-state-poll-shows/)
-    
-    October 31, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
-* [TFB Review: AT3 Tactical ARO-MINI 3 MOA Red Dot](https://www.thegunpage.com/tfb-review-at3-tactical-aro-mini-3-moa-red-dot/10611595)
-* [POTD: XM7 6.8mm In The Air](https://www.thegunpage.com/potd-xm7-6-8mm-in-the-air/10611596)
-* [Concealed Carry Corner: Inside The Waistband Holster Rundown](https://www.thegunpage.com/concealed-carry-corner-inside-the-waistband-holster-rundown/10611597)
-* [Halloween Horror Stoppers: The Best Guns for Taking Out Hollywood’s Most Evil Villains](https://www.thegunpage.com/halloween-horror-stoppers-the-best-guns-for-taking-out-hollywoods-most-evil-villains/10611590)
-* [How Much Does a Handgun Cost?](https://www.thegunpage.com/how-much-does-a-handgun-cost/10611588)
-* [He Just Couldn’t Quit Her, But a Well-Aimed .380 Settled His Violent Desire](https://www.thegunpage.com/he-just-couldnt-quit-her-but-a-well-aimed-380-settled-his-violent-desire/10611586)
-* [SAF Celebrates 50 Years of Gun Rights Advocacy with Video Release](https://www.thegunpage.com/saf-celebrates-50-years-of-gun-rights-advocacy-with-video-release/10611583)
-* [Gunwerks Spike Feet Set Designed To Improve Grip And Add Stability In Uneven Terrain](https://www.thegunpage.com/gunwerks-spike-feet-set-designed-to-improve-grip-and-add-stability-in-uneven-terrain/10611592)
-* [Gunwerks "The Makers" Series – Project One](https://www.thegunpage.com/gunwerks-the-makers-series-project-one/10611585)
-* [FPC Challenges Texas Carry Bans](https://www.thegunpage.com/fpc-challenges-texas-carry-bans/10611579)
+* [How to Quickly Zero Your Rifle and Save on Ammo](https://www.thegunpage.com/how-to-quickly-zero-your-rifle-and-save-on-ammo/10611607)
+* [New Calibers For Savage 110 Magpul Scout](https://www.thegunpage.com/new-calibers-for-savage-110-magpul-scout/10611609)
+* [The Taurus 608 Competition Is Built For Speed](https://www.thegunpage.com/the-taurus-608-competition-is-built-for-speed/10611610)
+* [Canik launches a GOA-themed micro-compact pistol!](https://www.thegunpage.com/canik-launches-a-goa-themed-micro-compact-pistol-2/10611605)
+* [Remember the Rules of the Range](https://www.thegunpage.com/remember-the-rules-of-the-range/10611603)
+* [ZeroTech Unveils New 1x Prism Optic](https://www.thegunpage.com/zerotech-unveils-new-1x-prism-optic/10611600)
+* [SHAMELESS! Bloomberg Trying to Buy Ballots Again](https://www.thegunpage.com/shameless-bloomberg-trying-to-buy-ballots-again/10611599)
+* [NEW CZ Shadow 2 Target: CZ's Most Accurate Pistol Ever?](https://www.thegunpage.com/new-cz-shadow-2-target-czs-most-accurate-pistol-ever/10611601)
+* [Circuit Court Rules D.C. Mag Restriction Is Constitutional](https://www.thegunpage.com/circuit-court-rules-d-c-mag-restriction-is-constitutional/10611598)
+* [Legends: Sue Ann Sandusky 1952-2024](https://www.thegunpage.com/legends-sue-ann-sandusky-1952-2024/10611602)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [The Democrat Party’s Hypocritical Deliberate Hate Strategy](https://www.conservativedailynews.com/2024/10/the-democrat-partys-hypocritical-deliberate-hate-strategy/#comment-782983)
 * Jeff L. on [The Left (Democrats, “News” Media) Always in a Flutter at Words](https://www.conservativedailynews.com/2024/10/the-left-democrats-news-media-always-in-a-flutter-at-words/#comment-782973)
 * charles wilkins on [Ewwww That Smell…](https://www.conservativedailynews.com/2024/10/ewwww-that-smell/#comment-782967)
 * michael mohn on [Realistically Simple Ways to Make Your Car (Virtually) Unstealable](https://www.conservativedailynews.com/2024/10/realistically-simple-ways-to-make-your-car-virtually-unstealable/#comment-782951)
@@ -240,7 +241,6 @@ Recent Comments
 * charles wilkins on [New York Voter Delivers Two-Word Response When MSNBC Asks If ‘Threat To Democracy’ Attack On Trump Resonates](https://www.conservativedailynews.com/2024/10/new-york-voter-delivers-two-word-response-when-msnbc-asks-if-threat-to-democracy-attack-on-trump-resonates/#comment-782944)
 * Stanley Warner on [The Closing Arguments Could Not Be More Different](https://www.conservativedailynews.com/2024/10/the-closing-arguments-could-not-be-more-different/#comment-782936)
 * Stanley Warner on [Dangerous Rhetoric](https://www.conservativedailynews.com/2024/10/dangerous-rhetoric-2/#comment-782925)
-* Deb on [CEOs Need To Stand Up For Capitalism And Common Sense](https://www.conservativedailynews.com/2024/10/ceos-need-to-stand-up-for-capitalism-and-common-sense/#comment-782921)
 
 [Close](#)
 
