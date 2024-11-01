@@ -808,21 +808,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Giro­konten im Vergleich: Null statt 300 Euro – 10 Konten sind kostenlos](https://www.test.de/Girokonto-im-Test-5069390-0/ "Girokonten im Vergleich - Null statt 300 Euro – 10 Konten sind kostenlos")
-* [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 
 test.de entdecken
 
-* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
-* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
-* [Kühl-Gefrier-Kombis: Spart der Urlaubs­modus wirk­lich Strom?](https://www.test.de/Kuehl-Gefrier-Kombis-Spart-der-Urlaubsmodus-wirklich-Strom-6133115-0/ "Kühl-Gefrier-Kombis - Spart der Urlaubsmodus wirklich Strom?")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
-* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Wanderreisen im Test: Wandern leicht gemacht](https://www.test.de/Wanderreisen-im-Test-Wandern-leicht-gemacht-6052961-0/ "Wanderreisen im Test - Wandern leicht gemacht")
+* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
+* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
+* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
+* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
 
 Fußbereich
 
@@ -3850,59 +3850,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Giro­konten im Vergleich: Null statt 300 Euro – 10 Konten sind kostenlos](https://www.test.de/Girokonto-im-Test-5069390-0/ "Girokonten im Vergleich - Null statt 300 Euro – 10 Konten sind kostenlos")
-* [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 
 test.de entdecken
 
-* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
-* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
-* [Kühl-Gefrier-Kombis: Spart der Urlaubs­modus wirk­lich Strom?](https://www.test.de/Kuehl-Gefrier-Kombis-Spart-der-Urlaubsmodus-wirklich-Strom-6133115-0/ "Kühl-Gefrier-Kombis - Spart der Urlaubsmodus wirklich Strom?")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
-* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Wanderreisen im Test: Wandern leicht gemacht](https://www.test.de/Wanderreisen-im-Test-Wandern-leicht-gemacht-6052961-0/ "Wanderreisen im Test - Wandern leicht gemacht")
+* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
+* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
+* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
+* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Giro­konten im Vergleich: Null statt 300 Euro – 10 Konten sind kostenlos](https://www.test.de/Girokonto-im-Test-5069390-0/ "Girokonten im Vergleich - Null statt 300 Euro – 10 Konten sind kostenlos")
-* [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 
 test.de entdecken
 
-* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
-* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
-* [Kühl-Gefrier-Kombis: Spart der Urlaubs­modus wirk­lich Strom?](https://www.test.de/Kuehl-Gefrier-Kombis-Spart-der-Urlaubsmodus-wirklich-Strom-6133115-0/ "Kühl-Gefrier-Kombis - Spart der Urlaubsmodus wirklich Strom?")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
-* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Wanderreisen im Test: Wandern leicht gemacht](https://www.test.de/Wanderreisen-im-Test-Wandern-leicht-gemacht-6052961-0/ "Wanderreisen im Test - Wandern leicht gemacht")
+* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
+* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
+* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
+* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
 
 Neueste Tests
 
+* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Giro­konten im Vergleich: Null statt 300 Euro – 10 Konten sind kostenlos](https://www.test.de/Girokonto-im-Test-5069390-0/ "Girokonten im Vergleich - Null statt 300 Euro – 10 Konten sind kostenlos")
-* [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 
 test.de entdecken
 
-* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
-* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
-* [Kühl-Gefrier-Kombis: Spart der Urlaubs­modus wirk­lich Strom?](https://www.test.de/Kuehl-Gefrier-Kombis-Spart-der-Urlaubsmodus-wirklich-Strom-6133115-0/ "Kühl-Gefrier-Kombis - Spart der Urlaubsmodus wirklich Strom?")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
-* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Wanderreisen im Test: Wandern leicht gemacht](https://www.test.de/Wanderreisen-im-Test-Wandern-leicht-gemacht-6052961-0/ "Wanderreisen im Test - Wandern leicht gemacht")
+* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
+* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
+* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
+* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
 
 Service Stiftung Warentest
 
