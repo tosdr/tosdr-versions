@@ -54,7 +54,7 @@
 * [O.R.C.A. Flooring](https://kronospan.com/en_EN/products/by_category/flooring-and-wall-panels/o-r-c-a-flooring "O.R.C.A. Flooring")
 * [mo.re! Laminate Flooring](https://kronospan.com/en_EN/products/by_category/flooring-and-wall-panels/mo-re-laminate-flooring "mo.re! Laminate Flooring")
 * [Classic Laminate Flooring](https://kronospan.com/en_EN/products/by_category/flooring-and-wall-panels/classic-laminate-flooring "Classic Laminate Flooring")
-* [SPC Flooring](https://rocko-spc.com/ "SPC Flooring")
+* [Rocko SPC](https://rocko-spc.com/ "Rocko SPC")
 * [Kronostep](https://www.kronostep.com/ "Kronostep")
 * [My Style](https://www.mystyle-flooring.com/ "My Style")
 * [KronoOriginal](https://www.krono-original.com/en-de "KronoOriginal")
@@ -121,18 +121,18 @@
 
 * [Kronodesign](https://kronospan.com/en_EN/express-services/program/kronodesign "Kronodesign")
 * [Kronobuild](https://kronospan.com/en_EN/express-services/program/kronobuild "Kronobuild")
-* [Kronoart](https://kronospan.com/en_EN/express-services/program/kronobuild "Kronoart")
+* [Kronoart](https://kronospan.com/en_EN/express-services/program/kronoart "Kronoart")
 * [Flooring and Wall Panels](https://kronospan.com/en_EN/express-services/program/flooring-and-wall-panels "Flooring and Wall Panels")
 
 ##### [Downloads](https://kronospan.com/en_EN/express-services/downloads)
 
 * [Downloads](https://kronospan.com/en_EN/express-services/downloads "Downloads")
 
-##### [My Krono](https://kronospan.com/en_EN/projects)
+##### [My Krono](https://kronospan.com/en_EN/my_krono)
 
-* [My Krono](https://kronospan.com/en_EN/projects "My Krono")
+* [My Krono](https://kronospan.com/en_EN/my_krono "My Krono")
 
-##### Highlights
+##### [Highlights](https://kronospan.com/en_EN/highlights/index)
 
 * [Cremona Oak](https://kronospan.com/en_EN/highlights/cremona_oak "Cremona Oak")
 * [Rocko Tiles](https://kronospan.com/en_EN/highlights/rocko_tiles "Rocko Tiles")
@@ -150,19 +150,19 @@
 * [3D Foils](https://kronospan.com/en_EN/highlights/thermoplastic-3D-foils "3D Foils")
 * [Coordinated Solution](https://kronospan.com/en_EN/highlights/coordinated_solution "Coordinated Solution")
 
-##### Events
+##### [Events](https://kronospan.com/en_EN/my_krono/krono_events)
 
 * [Fairs and events](https://kronospan.com/en_EN/my_krono/krono_events "Fairs and events")
 
-##### Projects
+##### [Projects](https://kronospan.com/en_EN/projects)
 
 * [Projects](https://kronospan.com/en_EN/projects "Projects")
 
 ##### [About us](https://kronospan.com/en_EN/company/kronospan)
 
-[![](/public/thumbs/244x143/company/header-images/organisation_244x143_fit_478b24840a.jpg)](https://kronospan.com/en_EN/company/kronospan "About us")
+[![](/public/thumbs/244x143/company/assets/organisation_244x143_fit_478b24840a.png)](https://kronospan.com/en_EN/company/kronospan "About us")
 
-* [Organisation](https://kronospan.com/en_EN/company/organisation "Organisation")
+* [Organization](https://kronospan.com/en_EN/company/organization "Organization")
 * [Kronospan’s vision](https://kronospan.com/en_EN/company/kronospan-s-vision "Kronospan’s vision")
 * [Kronospan’s principles](https://kronospan.com/en_EN/company/kronospan-s-principles "Kronospan’s principles")
 * [Product range](https://kronospan.com/en_EN/company/product-range "Product range")
