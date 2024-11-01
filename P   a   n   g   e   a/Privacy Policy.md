@@ -1,7 +1,7 @@
 ![](pan1.gif)  
   
   
-131,525 members - 452,264,925 ads shown  
+131,525 members - 452,268,461 ads shown  
   
 GET "LAYERED" ADVERTISING FROM 1 CLICK!  
   
@@ -57,11 +57,11 @@ paid member banners
 
 [![](https://e-links.pro/smban1.gif)](https://e-links.pro/romanjeff)
 
-[![](https://i.imgur.com/AdnFCzT.gif)](https://lllpg.com/429hfthg/)
+[![](https://boomerangblaster.com/3002.gif)](https://boomerangblaster.com/romanjeff)
+
+[![](https://1goldmine.com/ban5.gif)](https://1goldmine.com/sabdev)
 
 [![](https://1bannerbox.com/1251.gif)](https://1bannerbox.com/romanjeff)
-
-[![](https://1bannerbox.com/1252.gif)](https://1bannerbox.com/genesis)
 
 ![](26yrs0.gif)
 
