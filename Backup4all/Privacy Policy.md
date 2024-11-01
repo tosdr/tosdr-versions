@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Backup MS SQL Server data](https://www.backup4all.com/backup-ms-sql-server-data-kb.html)  
+* [How to backup your data to NiftyClouds](https://www.backup4all.com/how-to-backup-your-data-to-niftyclouds-kb.html)  
     
-* [How to restore from Hitachi](https://www.backup4all.com/how-to-restore-from-hitachi-kb.html)  
+* [How to configure Backup4all Monitor](https://www.backup4all.com/how-to-configure-backup4all-monitor-kb.html)  
     
-* [What is an Incremental Backup?](https://www.backup4all.com/incremental-backup-kb.html)  
+* [How to back up data files from Numergy using ...](https://www.backup4all.com/how-to-back-up-data-files-from-numergy-using-backup4all-kb.html)  
     
-* [How to back up data files from Dropbox using ...](https://www.backup4all.com/how-to-back-up-data-files-from-dropbox-using-backup4all-kb.html)  
+* [Backup Terms Glossary](https://www.backup4all.com/backup-glossary-kb.html)  
     
-* [How to back up data files from Caringo using ...](https://www.backup4all.com/how-to-back-up-data-files-from-caringo-using-backup4all-kb.html)  
+* [How to backup your data to Google Cloud Stora ...](https://www.backup4all.com/how-to-backup-your-data-to-google-cloud-storage-kb.html)  
     
 
 Choose language:
