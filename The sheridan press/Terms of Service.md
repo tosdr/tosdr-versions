@@ -106,7 +106,7 @@ Public Notices
 * [Subscribe](https://www.thesheridanpress.com/subscribe)
 * [Manage Service](https://www.thesheridanpress.com/users/admin/service/)
 
-[![site-logo](https://bloximages.newyork1.vip.townnews.com/thesheridanpress.com/content/tncms/assets/v3/media/e/c6/ec6c737e-8683-11ef-b4ec-3fcb35dcb5c4/6719013b8544d.image.jpg?resize=200%2C33)](https://www.thesheridanpress.com/)
+[![site-logo](https://bloximages.newyork1.vip.townnews.com/thesheridanpress.com/content/tncms/assets/v3/media/f/d9/fd9a0e64-97b7-11ef-b60e-a76a98f53618/6723cfc420678.image.jpg?resize=200%2C29)](https://www.thesheridanpress.com/)
 
 [Support Elk Fire Relief](https://bit.ly/elkfirerelief2024)
 
