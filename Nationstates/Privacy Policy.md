@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [American Politics: The Final Week (6,109)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: The Final Week" (6,109 posts)")
-* [10000 Monkey Genocide III (4,307)](https://forum.nationstates.net/viewtopic.php?t=520528&f=25&view=unread#unread ""10000 Monkey Genocide III" (4,307 posts)")
-* [Your ambitions or things you look for… (12)](https://forum.nationstates.net/viewtopic.php?t=557811&f=20&view=unread#unread ""Your ambitions or things you look forward to" (12 posts)")
-* [Transformers: Electric Trepidation (10,763)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (10,763 posts)")
-* [The Collective Security League: OOC s… (6,617)](https://forum.nationstates.net/viewtopic.php?t=533133&f=5&view=unread#unread ""The Collective Security League: OOC signup" (6,617 posts)")
+* [The Collective Security League Assemb… (841)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (841 posts)")
+* [Your favorite part of AN’s forum sig XI (3,800)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (3,800 posts)")
+* [American Politics: The Final Week (6,284)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: The Final Week" (6,284 posts)")
+* [Womanly things that men do these days… (958)](https://forum.nationstates.net/viewtopic.php?t=557416&f=20&view=unread#unread ""Womanly things that men do these days, apparently." (958 posts)")
+* [Higher Education (3)](https://forum.nationstates.net/viewtopic.php?t=557829&f=20&view=unread#unread ""Higher Education" (3 posts)")
 
 Advertisement
 
