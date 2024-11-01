@@ -239,7 +239,7 @@ October 24, 2024
 
 Mezo SMS is just the best. I had to buy it. Ive been using the app's "message content" feature to block tons of political ad texts and other spam. It just blocks them if theyre not in my contacts. So if i want to receive a message from someone i just add them to my contacts. Its pretty easy to use. Definitely recommend it.
 
-1 person found this review helpful
+2 people found this review helpful
 
 Did you find this helpful?
 
@@ -305,7 +305,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGDFYVlFEZFY1MDlWZDZIaXNWbWJOS0E9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljLySZw)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGDNCRm9PdnFvZzhoZzdSRWsyVWFmM2c9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljLVdPE)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg=s64)
 
@@ -337,7 +337,7 @@ Google Play[Play Pass](https://play.google.com/store/pass/getstarted)[Play Point
 
 Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentguide)[Family sharing](https://support.google.com/googleplay/answer/7007852)
 
-[Terms of Service](https://play.google.com/intl/en_us/about/play-terms.html)
+[Terms of Service](https://play.google.com/intl/en-US_us/about/play-terms.html)
 
 [Privacy](https://policies.google.com/privacy)
 
@@ -349,4 +349,4 @@ Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentgu
 
 ![](https://ssl.gstatic.com/store/images/regionflags/us.png)
 
-United States (English)
+United States (English (United States))
