@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Chris Pratt Praises Military Chaplains Ahead of Veterans Day](https://www.theepochtimes.com/entertainment/chris-pratt-praises-military-chaplains-ahead-of-veterans-day-5751528)
+    
+    NEW By [Audrey Enjoli](https://www.theepochtimes.com/author/audrey-enjoli)
+    
+    [![Chris Pratt Praises Military Chaplains Ahead of Veterans Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Chris Pratt Praises Military Chaplains Ahead of Veterans Day](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751773-GettyImages-1404565639-e1730415445796-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/chris-pratt-praises-military-chaplains-ahead-of-veterans-day-5751528)
+* [Judge Orders Arizona to Release List of Registered Voters With Unverified Citizenship](https://www.theepochtimes.com/us/judge-orders-arizona-to-release-list-of-registered-voters-with-unverified-citizenship-5751777)
+    
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Judge Orders Arizona to Release List of Registered Voters With Unverified Citizenship](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Judge Orders Arizona to Release List of Registered Voters With Unverified Citizenship](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739393-AZ-Early-Voting-iii_JF_10102024-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-orders-arizona-to-release-list-of-registered-voters-with-unverified-citizenship-5751777)
+* [Boeing, Union Reach New Deal in Bid to End Weekslong Strike](https://www.theepochtimes.com/business/boeing-machinists-union-endorses-new-contract-proposal-strike-may-end-soon-5751834)
+    
+    1hr By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
+    
+    [![Boeing, Union Reach New Deal in Bid to End Weekslong Strike](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Boeing, Union Reach New Deal in Bid to End Weekslong Strike](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744381-Boeing-strike-GettyImages-2177902713-205x123.jpg.webp)](https://www.theepochtimes.com/business/boeing-machinists-union-endorses-new-contract-proposal-strike-may-end-soon-5751834)
+* [How Gender Voting Patterns Are Shifting in 2024 Election](https://www.theepochtimes.com/article/how-gender-voting-patterns-are-shifting-in-2024-election-5746426)
+    
+    2hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
+    
+    [![How Gender Voting Patterns Are Shifting in 2024 Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![How Gender Voting Patterns Are Shifting in 2024 Election](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751758-8-205x123.jpg.webp)](https://www.theepochtimes.com/article/how-gender-voting-patterns-are-shifting-in-2024-election-5746426)
+* [Trump Sues CBS Over ’60 Minutes’ Interview With Harris](https://www.theepochtimes.com/us/trump-sues-cbs-over-60-minutes-interview-with-harris-5751783)
+    
+    3hr By [Rachel Acenas](https://www.theepochtimes.com/author/rachel-acenas)
+    
+    [![Trump Sues CBS Over ’60 Minutes’ Interview With Harris](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Sues CBS Over ’60 Minutes’ Interview With Harris](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751789-Trump-NC-GettyImages-2181956757-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-sues-cbs-over-60-minutes-interview-with-harris-5751783)
+* [Harris to Hold Election Night Event at Her Alma Mater, Howard University](https://www.theepochtimes.com/us/harris-to-hold-election-night-event-at-her-alma-mater-howard-university-5751704)
+    
+    3hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    
+    [![Harris to Hold Election Night Event at Her Alma Mater, Howard University](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Harris to Hold Election Night Event at Her Alma Mater, Howard University](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5751814-Harris-Howard-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-to-hold-election-night-event-at-her-alma-mater-howard-university-5751704)
+* [US Says 8,000 North Korean Soldiers Have Reached Russia’s Kursk Region, Could Join Battle in Days](https://www.theepochtimes.com/world/us-says-8000-north-korean-soldiers-have-reached-russias-kursk-region-could-join-battle-in-days-5751639)
+    
+    3hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![US Says 8,000 North Korean Soldiers Have Reached Russia’s Kursk Region, Could Join Battle in Days](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Says 8,000 North Korean Soldiers Have Reached Russia’s Kursk Region, Could Join Battle in Days](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751624-2024-10-31T173836Z_1_LYNXMPEK9U0PI_RTROPTP_4_NORTHKOREA-ANNIVERSARY-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-says-8000-north-korean-soldiers-have-reached-russias-kursk-region-could-join-battle-in-days-5751639)
+* [DDT From Industrial Dumping Found in 93 Percent of Southern California Fish](https://www.theepochtimes.com/us/ddt-from-industrial-dumping-found-in-93-percent-of-southern-california-fish-5750301)
+    
+    5hr By [Jane Yang](https://www.theepochtimes.com/author/jane-yang)
+    
+    [![DDT From Industrial Dumping Found in 93 Percent of Southern California Fish](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![DDT From Industrial Dumping Found in 93 Percent of Southern California Fish](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751186-Kelp_bass-205x123.jpg.webp)](https://www.theepochtimes.com/us/ddt-from-industrial-dumping-found-in-93-percent-of-southern-california-fish-5750301)
+* [Most Americans Report Anxiety, Frustration About 2024 Presidential Race as Election Day Nears](https://www.theepochtimes.com/us/most-americans-report-anxiety-frustration-about-2024-presidential-race-as-election-day-nears-5751562)
+    
+    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Most Americans Report Anxiety, Frustration About 2024 Presidential Race as Election Day Nears](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Most Americans Report Anxiety, Frustration About 2024 Presidential Race as Election Day Nears](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747992-Kamala-Harris-Donald-Trump-4-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/most-americans-report-anxiety-frustration-about-2024-presidential-race-as-election-day-nears-5751562)
 * [Trump Gains Among Black Voters Could ‘Tip the Scales’ in His Favor: Poll Analysis](https://www.theepochtimes.com/us/trump-gains-among-black-voters-could-tip-the-scales-in-his-favor-poll-analysis-5751619)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Trump Gains Among Black Voters Could ‘Tip the Scales’ in His Favor: Poll Analysis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Gains Among Black Voters Could ‘Tip the Scales’ in His Favor: Poll Analysis](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749144-Trump-Harris-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-gains-among-black-voters-could-tip-the-scales-in-his-favor-poll-analysis-5751619)
-* [Virginia Governor Says His State Is ‘Far More Competitive’ During 2024 Election](https://www.theepochtimes.com/us/virginia-governor-says-his-state-is-far-more-competitive-during-2024-election-5751519)
-    
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Virginia Governor Says His State Is ‘Far More Competitive’ During 2024 Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Virginia Governor Says His State Is ‘Far More Competitive’ During 2024 Election](https://img.theepochtimes.com/assets/uploads/2024/06/29/id5677686-Glenn-Youngkin-GettyImages-2159732410-205x123.jpg.webp)](https://www.theepochtimes.com/us/virginia-governor-says-his-state-is-far-more-competitive-during-2024-election-5751519)
-* [Key Takeaways From Vance’s 3-Hour Interview With Joe Rogan](https://www.theepochtimes.com/us/key-takeaways-from-vances-3-hour-interview-with-joe-rogan-5751539)
-    
-    NEW By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![Key Takeaways From Vance’s 3-Hour Interview With Joe Rogan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Key Takeaways From Vance’s 3-Hour Interview With Joe Rogan](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751712-JD-Vance-Joe-Rogan-205x123.jpg.webp)](https://www.theepochtimes.com/us/key-takeaways-from-vances-3-hour-interview-with-joe-rogan-5751539)
-* [California Court Cites Federal Cannabis Ban in Blocking State-Issued Grow Permit](https://www.theepochtimes.com/us/california-court-cites-federal-cannabis-ban-in-blocking-state-issued-grow-permit-5751507)
-    
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![California Court Cites Federal Cannabis Ban in Blocking State-Issued Grow Permit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![California Court Cites Federal Cannabis Ban in Blocking State-Issued Grow Permit](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751661-Marijuana-Cannabis-workers-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-court-cites-federal-cannabis-ban-in-blocking-state-issued-grow-permit-5751507)
-* [What Comes Next for the Yankees After World Series Loss?](https://www.theepochtimes.com/sports/what-comes-next-for-the-yankees-after-world-series-loss-5751415)
-    
-    2hr By [Tab Bamford](https://www.theepochtimes.com/author/tab-bamford)
-    
-    [![What Comes Next for the Yankees After World Series Loss?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![What Comes Next for the Yankees After World Series Loss?](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751431-GettyImages-2181624302-205x123.jpg.webp)](https://www.theepochtimes.com/sports/what-comes-next-for-the-yankees-after-world-series-loss-5751415)
-* [30-Year Mortgage Rate Edges Toward 7 Percent: Freddie Mac](https://www.theepochtimes.com/business/30-year-mortgage-rate-edges-toward-7-percent-freddie-mac-5751520)
-    
-    2hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![30-Year Mortgage Rate Edges Toward 7 Percent: Freddie Mac](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![30-Year Mortgage Rate Edges Toward 7 Percent: Freddie Mac](https://img.theepochtimes.com/assets/uploads/2024/09/28/id5731745-IMG_5598-sale-205x123.jpg.webp)](https://www.theepochtimes.com/business/30-year-mortgage-rate-edges-toward-7-percent-freddie-mac-5751520)
-* [WHO: Global Tuberculosis Cases Hit Highest Number Since Monitoring Began in 1995](https://www.theepochtimes.com/us/who-global-tuberculosis-cases-hit-highest-number-since-monitoring-began-in-1995-post-5751473)
-    
-    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![WHO: Global Tuberculosis Cases Hit Highest Number Since Monitoring Began in 1995](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![WHO: Global Tuberculosis Cases Hit Highest Number Since Monitoring Began in 1995](https://img.theepochtimes.com/assets/uploads/2016/01/20/1667722-205x123.jpg.webp)](https://www.theepochtimes.com/us/who-global-tuberculosis-cases-hit-highest-number-since-monitoring-began-in-1995-post-5751473)
-* [New National Polling Shows Trump Holds Slight Edge Over Harris Among Registered Voters](https://www.theepochtimes.com/us/new-national-polling-shows-trump-holds-slight-edge-over-harris-among-registered-voters-5751468)
-    
-    3hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
-    
-    [![New National Polling Shows Trump Holds Slight Edge Over Harris Among Registered Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![New National Polling Shows Trump Holds Slight Edge Over Harris Among Registered Voters](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5749936-Kamala-Harris-Donald-Trump-8-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-national-polling-shows-trump-holds-slight-edge-over-harris-among-registered-voters-5751468)
-* [Georgia Man Pleads Guilty in Money Laundering Scheme Involving Mexican Drug Cartels](https://www.theepochtimes.com/china/georgia-man-pleads-guilty-in-money-laundering-scheme-involving-mexican-drug-cartels-5751475)
-    
-    3hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
-    
-    [![Georgia Man Pleads Guilty in Money Laundering Scheme Involving Mexican Drug Cartels](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Georgia Man Pleads Guilty in Money Laundering Scheme Involving Mexican Drug Cartels](https://img.theepochtimes.com/assets/uploads/2024/08/14/id5705621-07292024-DSC09128-DOJ-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/georgia-man-pleads-guilty-in-money-laundering-scheme-involving-mexican-drug-cartels-5751475)
-* [Vance Confirms Chinese Hackers Breached His Phone](https://www.theepochtimes.com/us/vance-confirms-chinese-hackers-breached-his-phone-5751523)
-    
-    3hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
-    
-    [![Vance Confirms Chinese Hackers Breached His Phone](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Vance Confirms Chinese Hackers Breached His Phone](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738667-JD-Vance-5_JF_10092024-205x123.jpg.webp)](https://www.theepochtimes.com/us/vance-confirms-chinese-hackers-breached-his-phone-5751523)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
