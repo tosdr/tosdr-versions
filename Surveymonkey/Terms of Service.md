@@ -391,11 +391,11 @@ How top brands drive growth with SurveyMonkey.
 
 [Sign up free](https://www.surveymonkey.com/sign-up/?ut_ctatext=Sign+up+free&ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-header-cta)
 
-![SurveyMonkey-logo](https://prod.smassets.net/assets/website/2.285.1/images/legal_sidebar__badge.png)
+![SurveyMonkey logo](https://prod.smassets.net/assets/website/2.285.1/images/legal_sidebar__badge.png)
 
-* [Yleiskatsaus](https://www.surveymonkey.com/mp/legal/)
+* [Overview](https://www.surveymonkey.com/mp/legal/)
     
-* [Käyttöehdot](https://www.surveymonkey.com/mp/legal/terms-of-use/)
+* [Terms of Use](https://www.surveymonkey.com/mp/legal/terms-of-use/)
     
     [1\. Fees and Payments](#fees-and-payments)
     
@@ -433,32 +433,32 @@ How top brands drive growth with SurveyMonkey.
     
     [18\. Terms for SurveyMonkey Contribute](#terms-for-surveymonkey-contribute)
     
-* [Sovellettava palvelusopimus](https://www.surveymonkey.com/mp/legal/gsa/)
+* [Governing Services Agreement](https://www.surveymonkey.com/mp/legal/gsa/)
     
-* [Palvelukohtaiset ehdot](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
+* [Service-Specific Terms](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
     
-* [Yksityisyyden perusteet](https://www.surveymonkey.com/mp/legal/privacy-basics/)
+* [Privacy Basics](https://www.surveymonkey.com/mp/legal/privacy-basics/)
     
-* [Tietosuojailmoitus](https://www.surveymonkey.com/mp/legal/privacy/)
+* [Privacy Notice](https://www.surveymonkey.com/mp/legal/privacy/)
     
-* [Evästeet](https://www.surveymonkey.com/mp/legal/cookies/)
+* [Cookies](https://www.surveymonkey.com/mp/legal/cookies/)
     
-* [Kyselytutkimussivuilla käytettävät evästeet](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
+* [Cookies Used on Survey Pages](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
     
-* [Hyväksyttävän käytön käytäntö](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
+* [Acceptable Uses Policy](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
     
-* [Tietosuoja](https://www.surveymonkey.com/mp/legal/security/)
+* [Security](https://www.surveymonkey.com/mp/legal/security/)
     
-* [Yleistä](https://www.surveymonkey.com/mp/legal/general/)
+* [General](https://www.surveymonkey.com/mp/legal/general/)
     
 
 ### 
 
-Tiesitkö?
+Did you know?
 
-63 % ihmisistä ottaa huomioon yhtiön yksityisyydensuoja- ja tietoturvahistorian ennen kuin käyttää sen tuotteita tai palveluita.
+63% of people consider a company's privacy and security history before using their products or services.
 
-![Sivupalkkitilastot oikeudellisten tietojen sivulla](https://prod.smassets.net/assets/website/2.285.1/images/legal_sidebar__stats-image.png)
+![Legal sidebar stats](https://prod.smassets.net/assets/website/2.285.1/images/legal_sidebar__stats-image.png)
 
 Print this Page
 
