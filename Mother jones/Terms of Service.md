@@ -8,10 +8,10 @@
 
 *  
     
-* [Prison Reform](https://www.motherjones.com/politics/2024/10/california-ballot-initiative-involuntary-servitude-prisoners-prop-6/)
-* [Black Male Voters](https://www.motherjones.com/politics/2024/10/black-voters-republications-trump-podcast-extra-reveal/)
-* [Project 2025](https://www.motherjones.com/politics/2024/10/non-citizen-voting/)
-* [Trump](https://www.motherjones.com/politics/2024/10/trump-rhetoric-violent-threats-migrants-assassination-attempt-conspiracy-theories/)
+* [Elon Musk](https://www.motherjones.com/politics/2024/10/elon-musk-voter-fraud-lottery-illegal/)
+* [Election Deniers](https://www.motherjones.com/politics/2024/10/how-election-deniers-took-over-georgia-election-system-trump/)
+* [Trump](https://www.motherjones.com/politics/2024/10/student-debt-relief-donald-trump-jd-vance/)
+* [Syria](https://www.motherjones.com/politics/2024/10/trump-turkey-erdogan-syria-kurds-conflict-of-interest/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Prison Reform](https://www.motherjones.com/politics/2024/10/california-ballot-initiative-involuntary-servitude-prisoners-prop-6/)
-* [Black Male Voters](https://www.motherjones.com/politics/2024/10/black-voters-republications-trump-podcast-extra-reveal/)
-* [Project 2025](https://www.motherjones.com/politics/2024/10/non-citizen-voting/)
-* [Trump](https://www.motherjones.com/politics/2024/10/trump-rhetoric-violent-threats-migrants-assassination-attempt-conspiracy-theories/)
+* [Elon Musk](https://www.motherjones.com/politics/2024/10/elon-musk-voter-fraud-lottery-illegal/)
+* [Election Deniers](https://www.motherjones.com/politics/2024/10/how-election-deniers-took-over-georgia-election-system-trump/)
+* [Trump](https://www.motherjones.com/politics/2024/10/student-debt-relief-donald-trump-jd-vance/)
+* [Syria](https://www.motherjones.com/politics/2024/10/trump-turkey-erdogan-syria-kurds-conflict-of-interest/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
