@@ -98,7 +98,7 @@ Thank you for using our Services. You are currently viewing the Privacy Policy f
 
 To learn more about how we provide our weather information to other companies who present that information to their users, go to our [Weather Services Provider Privacy Explainer](https://theweathercompany.info/en-US/partners).
 
-This Privacy Policy is effective as of October 28, 2024. The previous version of this Privacy Policy is available [here](#previous-privacy-policy).
+This Privacy Policy is effective as of October 31, 2024. The previous version of this Privacy Policy is available [here](#previous-privacy-policy).
 
 \*Last Updated: Update to [Section 17](#weather-channel-in-vehicle-application-current) for The Weather Channel in-vehicle application in the US to include advertising, made on October 31, 2024.
 
@@ -549,7 +549,7 @@ This global Policy describes our privacy practices across our supported countrie
     
     You may email [californiaprivacy@weather.com](mailto:californiaprivacy@weather.com) for questions or concerns about this Policy and our practices regarding the collection, use, disclosure, sale, sharing, and retention of personal information.
     
-    Our U.S. Policy was last updated October 28, 2024.
+    Our U.S. Policy was last updated October 31, 2024.
     
 13. U.S. State Data Privacy Laws Notice
     -----------------------------------
