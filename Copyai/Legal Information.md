@@ -62,13 +62,17 @@ Technical Resources
 
 GTM AI
 
+Role
+
+[Marketing](https://copy.ai/planning/marketing)[Sales](https://copy.ai/planning/sales)[Operations](https://copy.ai/planning/operations)[Sales Development](https://copy.ai/planning/sales-development)
+
 LEarn More
 
 [Why GTM AI](https://copy.ai/gtm-ai)[Goodbye, Copilots](https://copy.ai/goodbye-copilots)[The Problem with AI SDRs](https://copy.ai/injured)
 
 FEATURED RESOURCES
 
-[How to Go from GTM Bloat to Velocity](https://copy.ai/blog/introducing-gtm-ai)[How to Diagnose and Solve GTM Bloat](https://copy.ai/blog/gtm-ai)[AI Copilots & The Illusion of Progress](https://copy.ai/blog/the-illusion-of-progress-the-marginal-gains-from-ai-copilots)
+[How to Go from GTM Bloat to Velocity](https://copy.ai/blog/introducing-gtm-ai)[GTM AI: A New Approach for Getting Rid of GTM Bloat](https://copy.ai/blog/gtm-ai)[AI Copilots & The Illusion of Progress](https://copy.ai/blog/the-illusion-of-progress-the-marginal-gains-from-ai-copilots)
 
 [Login](https://app.copy.ai/login)[Contact Sales
 
@@ -134,13 +138,17 @@ Technical Resources
 
 GTM AI
 
+Role
+
+[Marketing](https://copy.ai/planning/marketing)[Sales](https://copy.ai/planning/sales)[Operations](https://copy.ai/planning/operations)[Sales Development](https://copy.ai/planning/sales-development)
+
 LEarn More
 
 [Why GTM AI](https://copy.ai/gtm-ai)[Goodbye, Copilots](https://copy.ai/goodbye-copilots)[The Problem with AI SDRs](https://copy.ai/injured)
 
 FEATURED RESOURCES
 
-[How to Go from GTM Bloat to Velocity](https://copy.ai/blog/introducing-gtm-ai)[How to Diagnose and Solve GTM Bloat](https://copy.ai/blog/gtm-ai)[AI Copilots & The Illusion of Progress](https://copy.ai/blog/the-illusion-of-progress-the-marginal-gains-from-ai-copilots)
+[How to Go from GTM Bloat to Velocity](https://copy.ai/blog/introducing-gtm-ai)[GTM AI: A New Approach for Getting Rid of GTM Bloat](https://copy.ai/blog/gtm-ai)[AI Copilots & The Illusion of Progress](https://copy.ai/blog/the-illusion-of-progress-the-marginal-gains-from-ai-copilots)
 
 [Login](https://app.copy.ai/login)[Contact Sales  
 
@@ -426,7 +434,7 @@ To the extent provided for by local law and subject to applicable exceptions, in
 
 The following table provides additional information about the categories of Personal Data we collect and how we disclose that information. You can read more about the categories of Personal Data we collect in “Personal Data we collect” above, how we use Personal Data in “The purposes of use of the Personal Data” above, and how we retain Personal Data in “Data Retention and Deletion” below.
 
-![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/651da9de23ff82a3d691d9c4_pp%20table.png)
+![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/651da9de23ff82a3d691d9c4_pp%20table.avif)
 
 We don’t “sell” Personal Data or “share” Personal Data for cross-contextual behavioral advertising (as those terms are defined under applicable local law). We also don’t process sensitive Personal Data for the purposes of inferring characteristics about a consumer.
 
