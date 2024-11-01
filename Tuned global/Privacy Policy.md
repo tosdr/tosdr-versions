@@ -101,13 +101,13 @@
     
     #### [News & Press](https://blog.tunedglobal.com/news?hsLang=en)
     
+    [![](https://www.tunedglobal.com/hubfs/panel-music-gaming-vickie-naumann-tunedglobal-riot-games-blog-1.jpg)](https://blog.tunedglobal.com/news/music-tectonics-2024-how-gaming-is-shaping-musics-future?hsLang=en)
+    
+    [Music Tectonics 2024: How Gaming is Shaping Music’s Future](https://blog.tunedglobal.com/news/music-tectonics-2024-how-gaming-is-shaping-musics-future?hsLang=en)
+    
     [![](https://www.tunedglobal.com/hubfs/768x512-Adobe-stock-Generated-Firefly-TunedGlobal-Beatdapp.jpg)](https://blog.tunedglobal.com/news/tuned-global-and-beatdapp-technical-integration-to-fight-against-fraud-in-music-apps?hsLang=en)
     
     [Tuned Global and Beatdapp Team Up Against Streaming Fraud in Music Apps](https://blog.tunedglobal.com/news/tuned-global-and-beatdapp-technical-integration-to-fight-against-fraud-in-music-apps?hsLang=en)
-    
-    [![](https://www.tunedglobal.com/hubfs/UniversalMusicGroup-TunedGlobal-2.jpg)](https://blog.tunedglobal.com/news/tuned-global-umg-catalogue-global-licensing-agreement?hsLang=en)
-    
-    [Universal Music Group expands partnership with Tuned Global in new licensing agreement](https://blog.tunedglobal.com/news/tuned-global-umg-catalogue-global-licensing-agreement?hsLang=en)
     
     [More News](https://blog.tunedglobal.com/news?hsLang=en)
     
