@@ -71,7 +71,7 @@
         ![Retail & eCommerce](https://www.arkoselabs.com/wp-content/uploads/Shopping-Bag.svg)
         
         Retail & eCommerce](https://www.arkoselabs.com/industries/retail-ecommerce/)
-* Platform
+* [Platform](https://www.arkoselabs.com/platform/)
     * [Arkose Bot Manager Platform](https://www.arkoselabs.com/arkose-bot-manager/)
     * [Services & Support](https://www.arkoselabs.com/services/)
     * [Partnerships & Integrations](https://www.arkoselabs.com/partner-with-us/)
@@ -95,7 +95,7 @@
     
     [View all resources](https://www.arkoselabs.com/resources/)
     
-* Company
+* [Company](https://www.arkoselabs.com/company/)
     * About Arkose Labs
         * [About Us](https://www.arkoselabs.com/about-us/)
         * [Leadership](https://www.arkoselabs.com/leadership/)
@@ -185,7 +185,7 @@
         ![Retail & eCommerce](https://www.arkoselabs.com/wp-content/uploads/Shopping-Bag.svg)
         
         Retail & eCommerce](https://www.arkoselabs.com/industries/retail-ecommerce/)
-* Platform
+* [Platform](https://www.arkoselabs.com/platform/)
     * [Arkose Bot Manager Platform](https://www.arkoselabs.com/arkose-bot-manager/)
     * [Services & Support](https://www.arkoselabs.com/services/)
     * [Partnerships & Integrations](https://www.arkoselabs.com/partner-with-us/)
@@ -195,7 +195,7 @@
     * [Videos](https://www.arkoselabs.com/resources/?category=video)
     * [Reports](https://www.arkoselabs.com/resources/?category=report)
     * [eBooks](https://www.arkoselabs.com/resources/?category=ebook)
-* Company
+* [Company](https://www.arkoselabs.com/company/)
     * About Arkose Labs
         * [About Us](https://www.arkoselabs.com/about-us/)
         * [Leadership](https://www.arkoselabs.com/leadership/)
@@ -283,7 +283,7 @@ _Warranty Disclaimer__._ Arkose Labs and its licensors, suppliers, partners, par
 
 * Products
     
-    * [Arkose Bot Manager Platform](https://www.arkoselabs.com/arkose-bot-manager/ "Arkose Bot Manager Platform")
+    * [Arkose Labs' Solution](https://www.arkoselabs.com/platform "Arkose Labs' Solution")
     * [Support Services](https://www.arkoselabs.com/services/ "Support Services")
     * [Integrations](https://www.arkoselabs.com/integrations/ "Integrations")
     * [Warranties](https://www.arkoselabs.com/warranties/ "Warranties")
@@ -335,6 +335,7 @@ _Warranty Disclaimer__._ Arkose Labs and its licensors, suppliers, partners, par
     
 * Explore
     
+    * [Company](https://www.arkoselabs.com/company/ "Company")
     * [About Us](https://www.arkoselabs.com/about-us/ "About Us")
     * [Leadership](https://www.arkoselabs.com/leadership/ "Leadership")
     * [Careers](https://www.arkoselabs.com/careers/ "Careers")
