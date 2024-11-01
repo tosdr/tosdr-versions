@@ -609,13 +609,13 @@ Events
 
 * * *
 
-[Our Purpose & Values](https://ihsmarkit.com/en/who-we-are/about-sp-global)[Our People](https://ihsmarkit.com/en/who-we-are/about-sp-global/our-people)[Our History](https://ihsmarkit.com/en/our-history)[Capabilities](https://ihsmarkit.com/en/capabilities)
+[Our Purpose & Values](https://ihsmarkit.com/en/who-we-are/about-sp-global)[Our Leadership](https://ihsmarkit.com/en/who-we-are/about-sp-global/our-people/our-leadership)[Our History](https://ihsmarkit.com/en/our-history)[Capabilities](https://ihsmarkit.com/en/capabilities)
 
 ### Corporate Responsibility
 
 * * *
 
-[Overview](https://ihsmarkit.com/en/who-we-are/corporate-responsibility)[Reports & Policies](https://ihsmarkit.com/en/who-we-are/corporate-responsibility/reports-commitments)[#ChangePays](https://ihsmarkit.com/en/research-insights/special-reports/gender-data-matters)[ESG](https://www.spglobal.com/esg/solutions/index)[S&P Global Foundation](https://ihsmarkit.com/en/who-we-are/corporate-responsibility/foundation)
+[Overview](https://ihsmarkit.com/en/who-we-are/corporate-responsibility)[Reports & Policies](https://ihsmarkit.com/en/who-we-are/corporate-responsibility/reports-commitments)[Gender Data Matters](https://ihsmarkit.com/en/research-insights/special-reports/gender-data-matters)[ESG](https://www.spglobal.com/esg/solutions/index)[S&P Global Foundation](https://ihsmarkit.com/en/who-we-are/corporate-responsibility/foundation)
 
 ### Diversity, Equity, & Inclusion
 
@@ -666,11 +666,11 @@ Events
 
 About S&P Global
 
-[Our Purpose & Values](https://ihsmarkit.com/en/who-we-are/about-sp-global)[Our People](https://ihsmarkit.com/en/who-we-are/about-sp-global/our-people)[Our History](https://ihsmarkit.com/en/our-history)[Capabilities](https://ihsmarkit.com/en/capabilities)
+[Our Purpose & Values](https://ihsmarkit.com/en/who-we-are/about-sp-global)[Our Leadership](https://ihsmarkit.com/en/who-we-are/about-sp-global/our-people/our-leadership)[Our History](https://ihsmarkit.com/en/our-history)[Capabilities](https://ihsmarkit.com/en/capabilities)
 
 Corporate Responsibility
 
-[Overview](https://ihsmarkit.com/en/who-we-are/corporate-responsibility)[Reports & Policies](https://ihsmarkit.com/en/who-we-are/corporate-responsibility/reports-commitments)[#ChangePays](https://ihsmarkit.com/en/research-insights/special-reports/gender-data-matters)[ESG](https://www.spglobal.com/esg/solutions/index)[S&P Global Foundation](https://ihsmarkit.com/en/who-we-are/corporate-responsibility/foundation)
+[Overview](https://ihsmarkit.com/en/who-we-are/corporate-responsibility)[Reports & Policies](https://ihsmarkit.com/en/who-we-are/corporate-responsibility/reports-commitments)[Gender Data Matters](https://ihsmarkit.com/en/research-insights/special-reports/gender-data-matters)[ESG](https://www.spglobal.com/esg/solutions/index)[S&P Global Foundation](https://ihsmarkit.com/en/who-we-are/corporate-responsibility/foundation)
 
 Diversity, Equity, & Inclusion
 
@@ -956,13 +956,13 @@ Events
 
 * * *
 
-[Our Purpose & Values](https://ihsmarkit.com/en/who-we-are/about-sp-global)[Our People](https://ihsmarkit.com/en/who-we-are/about-sp-global/our-people)[Our History](https://ihsmarkit.com/en/our-history)[Capabilities](https://ihsmarkit.com/en/capabilities)
+[Our Purpose & Values](https://ihsmarkit.com/en/who-we-are/about-sp-global)[Our Leadership](https://ihsmarkit.com/en/who-we-are/about-sp-global/our-people/our-leadership)[Our History](https://ihsmarkit.com/en/our-history)[Capabilities](https://ihsmarkit.com/en/capabilities)
 
 ### Corporate Responsibility
 
 * * *
 
-[Overview](https://ihsmarkit.com/en/who-we-are/corporate-responsibility)[Reports & Policies](https://ihsmarkit.com/en/who-we-are/corporate-responsibility/reports-commitments)[#ChangePays](https://ihsmarkit.com/en/research-insights/special-reports/gender-data-matters)[ESG](https://www.spglobal.com/esg/solutions/index)[S&P Global Foundation](https://ihsmarkit.com/en/who-we-are/corporate-responsibility/foundation)
+[Overview](https://ihsmarkit.com/en/who-we-are/corporate-responsibility)[Reports & Policies](https://ihsmarkit.com/en/who-we-are/corporate-responsibility/reports-commitments)[Gender Data Matters](https://ihsmarkit.com/en/research-insights/special-reports/gender-data-matters)[ESG](https://www.spglobal.com/esg/solutions/index)[S&P Global Foundation](https://ihsmarkit.com/en/who-we-are/corporate-responsibility/foundation)
 
 ### Diversity, Equity, & Inclusion
 
@@ -1013,11 +1013,11 @@ Events
 
 About S&P Global
 
-[Our Purpose & Values](https://ihsmarkit.com/en/who-we-are/about-sp-global)[Our People](https://ihsmarkit.com/en/who-we-are/about-sp-global/our-people)[Our History](https://ihsmarkit.com/en/our-history)[Capabilities](https://ihsmarkit.com/en/capabilities)
+[Our Purpose & Values](https://ihsmarkit.com/en/who-we-are/about-sp-global)[Our Leadership](https://ihsmarkit.com/en/who-we-are/about-sp-global/our-people/our-leadership)[Our History](https://ihsmarkit.com/en/our-history)[Capabilities](https://ihsmarkit.com/en/capabilities)
 
 Corporate Responsibility
 
-[Overview](https://ihsmarkit.com/en/who-we-are/corporate-responsibility)[Reports & Policies](https://ihsmarkit.com/en/who-we-are/corporate-responsibility/reports-commitments)[#ChangePays](https://ihsmarkit.com/en/research-insights/special-reports/gender-data-matters)[ESG](https://www.spglobal.com/esg/solutions/index)[S&P Global Foundation](https://ihsmarkit.com/en/who-we-are/corporate-responsibility/foundation)
+[Overview](https://ihsmarkit.com/en/who-we-are/corporate-responsibility)[Reports & Policies](https://ihsmarkit.com/en/who-we-are/corporate-responsibility/reports-commitments)[Gender Data Matters](https://ihsmarkit.com/en/research-insights/special-reports/gender-data-matters)[ESG](https://www.spglobal.com/esg/solutions/index)[S&P Global Foundation](https://ihsmarkit.com/en/who-we-are/corporate-responsibility/foundation)
 
 Diversity, Equity, & Inclusion
 
