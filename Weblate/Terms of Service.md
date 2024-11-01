@@ -153,6 +153,7 @@ Contributor docs
 * [Contributing to Weblate modules](https://docs.weblate.org/en/latest/contributing/modules.html)
 * [About Weblate](https://docs.weblate.org/en/latest/contributing/about.html)
 * [License](#)
+* [Weblate Trademark Guidelines](https://docs.weblate.org/en/latest/contributing/trademark.html)
 
 Change history
 
@@ -215,7 +216,7 @@ You should have received a copy of the GNU General Public License along with thi
 
 [Next
 
-Weblate 5.8.2](https://docs.weblate.org/en/latest/changes.html)[Previous
+Weblate Trademark Guidelines](https://docs.weblate.org/en/latest/contributing/trademark.html)[Previous
 
 About Weblate](https://docs.weblate.org/en/latest/contributing/about.html)
 
