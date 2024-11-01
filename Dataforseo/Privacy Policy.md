@@ -15,7 +15,15 @@
 * [Contact us](https://dataforseo.com/contact)
 * [Login](https://app.dataforseo.com/signin)
 
-  [![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+[![logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
+
+![dark logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
+
+![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
 
 ![light logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo-light_429.png)](https://dataforseo.com/)
 
@@ -122,7 +130,15 @@
     
 * [Try for free](https://app.dataforseo.com/register)
 
-  [![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+[![logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
+
+![dark logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
+
+![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
 
 ![light logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo-light_429.png)](https://dataforseo.com/)
 
@@ -231,7 +247,9 @@
 
 [](javascript:void(0))
 
-[![mobile-logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)](https://dataforseo.com/)
+[![mobile-logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![mobile-logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)](https://dataforseo.com/)
 
 * #### Products
     
@@ -352,11 +370,20 @@
 Privacy Policy
 ==============
 
+* **Privacy Policy**
+* [1\. Introduction](#introduction)
+* [2\. DataForSEO Account and Website](#account-and-website)
+* [3\. Payment processing](#payment-processing)
+* [4\. DataForSEO API Connector for Google Sheets™](#api-connector)
+* [5\. DataForSEO users and personal data](#users-and-personal-data)
+* [6\. Data protection](#data-protection)
+* [7\. User rights to access, rectification or erasure, restriction and objection of processing](#user-rights-to-access)
+
 ### 1\. Introduction
 
 a. This **privacy policy** applies with regard to the processing of personal data by DataForSEO OU (further “DataForSEO”), company No. 14502291, registered in Republic of Estonia in connection with the provision of all DataForSEO websites, content, services and products available and provided at or through the websites that are owned and/or operated by DataForSEO.
 
-b. The website is offered subject to Your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, [DataForSEO’s Terms of Service](https://dataforseo.com/terms-of-service)) and procedures that may be published from time to time on this website by DataForSEO. This Privacy Policy incorporates the [DataForSEO Data Processing Agreement (“DPA”)](https://dataforseo.com/wp-content/uploads/2022/09/DataForSEO_DPA.pdf), when the GDPR applies to your use of the services and your processing of service data. The DPA sets out how we will process personal data on your behalf in connection with the services provided to you.
+b. The website is offered subject to Your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, [**DataForSEO’s Terms of Service**](https://dataforseo.com/terms-of-service)) and procedures that may be published from time to time on this website by DataForSEO. This Privacy Policy incorporates the [**DataForSEO Data Processing Agreement (“DPA”)**](https://dataforseo.com/wp-content/uploads/2022/09/DataForSEO_DPA.pdf), when the GDPR applies to your use of the services and your processing of service data. The DPA sets out how we will process personal data on your behalf in connection with the services provided to you.
 
 c. **Please read this Privacy Policy carefully before accessing or using the website.** By accessing or using any part of the website, You agree to become bound by the terms and conditions of this privacy policy. If You do not agree to all the terms and conditions of this privacy policy, then You may not access the website or use any services provided by DataForSEO. If these terms and conditions are considered an offer by DataForSEO, acceptance is expressly limited to these terms. The website is available only to individuals who are at least 13 years old.
 
@@ -378,14 +405,14 @@ You can manage your cookie preferences through Your browser settings.
 
 ### 3\. Payment processing
 
-a. All payments are processed by FastSpring, our 3rd party partner. Refer to [FastSpring Privacy Policy](https://fastspring.com/privacy/) for more information.  
+a. All payments are processed by FastSpring, our 3rd party partner. Refer to **[FastSpring Privacy Policy](https://fastspring.com/privacy/)** for more information.  
 FastSpring is fully compliant with GDPR policies. FastSpring also complies with all PCI-DSS Level 1 standards.
 
 Please note that DataForSEO is not responsible for the privacy practices of FastSpring.
 
 ### 4\. DataForSEO API Connector for Google Sheets™
 
-a. DataForSEO API Connector’s use and transfer to any other app of information received from Google APIs™ will adhere to the [Google API Service User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the [Limited Use Requirements](https://support.google.com/cloud/answer/9110914#explain-types).
+a. DataForSEO API Connector’s use and transfer to any other app of information received from Google APIs™ will adhere to the [**Google API Service User Data Policy**](https://developers.google.com/terms/api-services-user-data-policy), including the [**Limited Use Requirements**](https://support.google.com/cloud/answer/9110914#explain-types).
 
 #### b. User Information and Google Calendar™ Access
 
@@ -448,14 +475,14 @@ All data that has been stored for more than 365 days will be permanently deleted
 
 ### 7\. User rights to access, rectification or erasure, restriction and objection of processing
 
-a. You have the right to access, rectification, opposition, erasure (“right to be forgotten”), and restriction of the processing Your personal data by directing any of such requests to DataForSEO. In order to make things easier for You, and without prejudice to the legal requirements DataForSEO must comply with under the laws, DataForSEO allows You to exercise the above-mentioned rights by sending us an email to [\[email protected\]](https://dataforseo.com/cdn-cgi/l/email-protection).
+a. You have the right to access, rectification, opposition, erasure (“right to be forgotten”), and restriction of the processing Your personal data by directing any of such requests to DataForSEO. In order to make things easier for You, and without prejudice to the legal requirements DataForSEO must comply with under the laws, DataForSEO allows You to exercise the above-mentioned rights by sending us an email to **[\[email protected\]](https://dataforseo.com/cdn-cgi/l/email-protection)**.
 
 #### b. Deletion of Account and Personal User Data
 
 Accounts on this site can be anonymized or deleted at the users request. All users, who want to permanently delete their accounts and all the associated data, could do it by themselves in their profile. All your personal data will be permanently deleted from all our servers and it would not be possible to restore it.
 
 **You have the right to request access to, correction of, or deletion of Your personal data at any time.**  
-If You wish to exercise these rights, please contact us at https://dataforseo.com/contact or send an email to [\[email protected\]](https://dataforseo.com/cdn-cgi/l/email-protection) .
+If You wish to exercise these rights, please contact us at **[https://dataforseo.com/contact](https://dataforseo.com/contact)** or send an email to **[\[email protected\]](https://dataforseo.com/cdn-cgi/l/email-protection)** .
 
 Upon receiving Your request, we will take appropriate steps to verify Your identity and fulfil Your request in compliance with applicable legal requirements.  Please note, account deletion will lead to the deletion of all personal data and it cannot be recovered.
 
