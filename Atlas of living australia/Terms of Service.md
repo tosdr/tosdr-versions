@@ -63,7 +63,7 @@
     * [How to cite the ALA](https://support.ala.org.au/support/solutions/articles/6000261662-citing-the-ala "How to cite the ALA")
     * [Contact us](https://www.ala.org.au/contact-us/ "Contact us")
 
-We want to hear from you! Take the [ALA User Satisfaction Survey](https://www.surveymonkey.com/r/ALA-24)
+Don’t miss the next ALA webinar on 12 Nov: Generous interfaces for discovering biodiversity data. [Register now for free!](https://events.csiro.au/Events/2024/August/21/ALA-Harnessing-biodiversity-data-to-support-Australian-industry)
 
 Terms of Use
 ============
