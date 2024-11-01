@@ -138,8 +138,8 @@ MSX Music player
 Latest reactions
 
 * [Nextor 2.1.2 released](https://www.msx.org/news/en/nextor-212-released "Nextor 2.1.2 released")
-* [Christmas Quiz 2024](https://www.msx.org/news/en/christmas-quiz-2024 "Christmas Quiz 2024")
 * [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
+* [Christmas Quiz 2024](https://www.msx.org/news/en/christmas-quiz-2024 "Christmas Quiz 2024")
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
@@ -150,7 +150,12 @@ Latest reactions
 
 Latest forum posts
 
+* [What is the best architecture for a MSX 1 disk game? BIN files or a MSX-DOS program?](https://www.msx.org/forum/msx-talk/development/what-is-the-best-architecture-for-a-msx-1-disk-game-bin-files-or-a-msx-do "What is the best architecture for a MSX 1 disk game? BIN files or a MSX-DOS program?")
+* [What is the point of bits \[3:0\] in the R15 of the PSG](https://www.msx.org/forum/msx-talk/hardware/what-is-the-point-of-bits-30-in-the-r14-of-the-psg "What is the point of bits [3:0] in the R15 of the PSG")
 * [TRH9000 - The Yamaha V9990 based open-source video card for the MSX](https://www.msx.org/forum/msx-talk/hardware/trh9000-the-yamaha-v9990-based-open-source-video-card-for-the-msx?page=23 "TRH9000 - The Yamaha V9990 based open-source video card for the MSX")
+* [Programming book recommendations](https://www.msx.org/forum/msx-talk/development/programming-book-recommendations "Programming book recommendations")
+* [MSX Goa'uld. Turn an MSX into a MSX 2+?](https://www.msx.org/forum/msx-talk/hardware/msx-goauld-turn-an-msx-into-a-msx-2?page=3 "MSX Goa'uld. Turn an MSX into a MSX 2+?")
+* [SymbOS MSX multitasking operating system - help needed!](https://www.msx.org/forum/development/msx-development/symbos-msx-multitasking-operating-system-help-needed?page=401 "SymbOS MSX multitasking operating system - help needed!")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=62 "List of undumped MSX software (PLEASE HELP!)")
 * [Type in BASIC source list by OCR tool without typing](https://www.msx.org/forum/msx-talk/general-discussion/type-in-basic-source-list-by-ocr-tool-without-typing?page=1 "Type in BASIC source list by OCR tool without typing ")
 * [Morderne mouse replacement](https://www.msx.org/forum/msx-talk/hardware/morderne-mouse-replacement?page=1 "Morderne mouse replacement")
@@ -158,11 +163,6 @@ Latest forum posts
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=73 "WonderTANG! Who wants to juice up your MSX?")
 * [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
 * [Tetris 2 - Special Edition on Blue MSX](https://www.msx.org/forum/msx-talk/software-and-gaming/tetris-2-special-edition-blue-msx?page=3 "Tetris 2 - Special Edition on Blue MSX")
-* [NEWS PROBLEM](https://www.msx.org/forum/msx-talk/off-topic/news-problem "NEWS PROBLEM")
-* [Tape speed loading, OTLA revisited](https://www.msx.org/forum/msx-talk/software/tape-speed-loading-otla-revisited?page=1 "Tape speed loading, OTLA revisited")
-* [Attack of the Petscii Robots - V9990](https://www.msx.org/forum/msx-talk/development/attack-of-the-petscii-robots-v9990?page=5 "Attack of the Petscii Robots - V9990")
-* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=123 "Please help testing upcoming openMSX release!")
-* [On magnified sprites, OR function and 1px offset](https://www.msx.org/forum/msx-talk/development/on-magnified-sprites-or-function-and-1px-offset "On magnified sprites, OR function and 1px offset")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
