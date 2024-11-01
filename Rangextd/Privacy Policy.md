@@ -398,7 +398,7 @@ Our latest blog posts
     Witness nature's most breathtaking moments in HD with  
     Starscope Monocular.
     
-    [Shop now](https://www.rangextd.com/products/starscope-ver-3)
+    [Shop now](https://www.rangextd.com/products/starscope-ver-3) 
     
     [](https://www.rangextd.com/products/starscope-ver-3)
     
