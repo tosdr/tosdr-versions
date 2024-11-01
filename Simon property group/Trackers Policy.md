@@ -32,7 +32,7 @@ GET IT ON
     
     [Nike](https://shop.simon.com/collections/store-nike?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Nike)
     
-    [Hugo Boss](https://shop.simon.com/collections/store-hugo-boss?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_HugoBoss)
+    [Timberland](https://shop.simon.com/collections/store-timberland?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Timberland)
     
     [Fossil](https://shop.simon.com/collections/store-fossil?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Fossil)
     
@@ -46,7 +46,7 @@ GET IT ON
     
     [Etro](https://shop.simon.com/collections/luxe-store-etro?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Etro)
     
-    [Mulberry](https://shop.simon.com/collections/luxe-store-mulberry?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Mulberry)
+    [Ferragamo](https://shop.simon.com/collections/luxe-store-salvatore-ferragamo?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Ferragamo)
     
     [Valentino](https://shop.simon.com/collections/luxe-store-valentino?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Valentino)
     
@@ -138,7 +138,7 @@ Use your location to find centers near you
     
     [Nike](https://shop.simon.com/collections/store-nike?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Nike)
     
-    [Hugo Boss](https://shop.simon.com/collections/store-hugo-boss?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_HugoBoss)
+    [Timberland](https://shop.simon.com/collections/store-timberland?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Timberland)
     
     [Fossil](https://shop.simon.com/collections/store-fossil?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Fossil)
     
@@ -152,7 +152,7 @@ Use your location to find centers near you
     
     [Etro](https://shop.simon.com/collections/luxe-store-etro?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Etro)
     
-    [Mulberry](https://shop.simon.com/collections/luxe-store-mulberry?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Mulberry)
+    [Ferragamo](https://shop.simon.com/collections/luxe-store-salvatore-ferragamo?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Ferragamo)
     
     [Valentino](https://shop.simon.com/collections/luxe-store-valentino?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Valentino)
     
