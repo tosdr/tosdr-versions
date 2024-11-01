@@ -196,59 +196,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> Thanks Adriaan...
 > 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Johan Botha - Brand Xplosion
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=7bb0a00d5cce06f545ba1c239b8f495591921ad1436de4867f2230712f821b9b&c=39248169)  
-Little Nutty Professors
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=170302192)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=7bb0a00d5cce06f545ba1c239b8f495591921ad1436de4867f2230712f821b9b&c=197620566)  
-Frameless Fanatix (Pty) Ltd.
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=66420199)  
+NJR ICT Services (Pty) Ltd
 
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=7bb0a00d5cce06f545ba1c239b8f495591921ad1436de4867f2230712f821b9b&c=206912772)  
-SMART GUY PCS (PTY) LTD
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=113060019)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=7bb0a00d5cce06f545ba1c239b8f495591921ad1436de4867f2230712f821b9b&c=34228101)  
-Camp 4 Africa (Pty) Ltd
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=148032037)  
+CBR Verwe/Paints
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=7bb0a00d5cce06f545ba1c239b8f495591921ad1436de4867f2230712f821b9b&c=1839689)  
-Salvage Genie
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=51170089)  
+NIMAWELL
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=7bb0a00d5cce06f545ba1c239b8f495591921ad1436de4867f2230712f821b9b&c=78531516)  
-Brilliant Roof Products
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=16847009)  
+van Schaik rentals
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=7bb0a00d5cce06f545ba1c239b8f495591921ad1436de4867f2230712f821b9b&c=57147100)  
-Lizzy Pop PTY(Ltd)
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=26334613)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=7bb0a00d5cce06f545ba1c239b8f495591921ad1436de4867f2230712f821b9b&c=172791008)  
-Oak Tree Immigration
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=138179988)  
+Itroniq (Pty) Ltd
 
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=7bb0a00d5cce06f545ba1c239b8f495591921ad1436de4867f2230712f821b9b&c=148957157)  
-One2b
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=12448027)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=7bb0a00d5cce06f545ba1c239b8f495591921ad1436de4867f2230712f821b9b&c=79938931)  
-Fox Alarms & Security CC
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=202024031)  
+All Trucking Solutions
 
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=7bb0a00d5cce06f545ba1c239b8f495591921ad1436de4867f2230712f821b9b&c=143232393)  
-Firstweb Hosting & Design
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=185463652)  
+Karino Merinos ( PTY ) LTD
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=7bb0a00d5cce06f545ba1c239b8f495591921ad1436de4867f2230712f821b9b&c=105262122)  
-Imhoff Equestrian Centre
+![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=205899282)  
+MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=7bb0a00d5cce06f545ba1c239b8f495591921ad1436de4867f2230712f821b9b&c=46151466)  
-Immediate Health (pty)ltd
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=207874028)  
+Chiron Medical Solutions
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=7bb0a00d5cce06f545ba1c239b8f495591921ad1436de4867f2230712f821b9b&c=17701817)  
-Kaylas Creations
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=44876286)  
+African Roots
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=7bb0a00d5cce06f545ba1c239b8f495591921ad1436de4867f2230712f821b9b&c=150192205)  
-OXYAIDER (PTY) LTD
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=146224674)  
+Safe Train Mokgethwa (PTY) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
