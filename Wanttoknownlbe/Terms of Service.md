@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/boeken/vaccinaties-doorgeprikt/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/de-kindermisbruik-beerput-verder-open/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
