@@ -446,125 +446,119 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[The Dan Bongino Show
-
-154K](https://rumble.com/v5l50yq-the-best-sign-yet-that-kamala-is-freaking-out-ep.-2363-11012024.html "The Dan Bongino Show")
-
 [Bannons War Room
 
-27.2K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
+15.5K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
 
-[Badlands Media
+[Donald J. Trump
 
-6.8K](https://rumble.com/v5l38lw-badlands-daily-friday-november-1-2024.html "Badlands Media")
+7.57K](https://rumble.com/v5l7iiq-live-president-trump-in-warren-mi.html "Donald J. Trump")
+
+[Nerdrotic
+
+4.38K](https://rumble.com/v5l7k6w-woke-hollywood-collapse-agatha-farts-in-the-wind-friday-night-tights-326-w-.html "Nerdrotic")
 
 [NEWSMAX
 
-3.34K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+3.47K](https://rumble.com/v5l5w2i-live-president-donald-trump-rally-in-warren-michigan-newsmax2.html "NEWSMAX")
 
-[Caleb Hammer
+[Badlands Media
 
-757](https://rumble.com/v5kzvvk-failed-of-e-girl-is-a-leech-financial-audit.html "Caleb Hammer")
+1.27K](https://rumble.com/v5l5a21-badlands-media-special-coverage-trump-rally-430pm-et.html "Badlands Media")
 
-[Dr Steve Turley
+[SNEAKO
 
-600](https://rumble.com/v5l5iv5-in-4-days-we-can-change-the-world.html "Dr Steve Turley")
-
-[Geeks + Gamers
-
-232](https://rumble.com/v5l5dqk-dragon-age-the-veilguard-finally-released-marvel-avengers-deliver-cringe-ka.html "Geeks + Gamers")
+1.15K](https://rumble.com/v5l83vw-one-minute-podcast-day-2.html "SNEAKO")
 
 [Lofi Girl
 
-202](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+213](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
-[Mostly Sports With Mark Titus and Brandon Walker
-
-89](https://rumble.com/v5kz2vn-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister-e.html "Mostly Sports With Mark Titus and Brandon Walker")
-
-[barstoolsports
-
-88](https://rumble.com/v5kz2vn-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister-e.html "barstoolsports")
-
-[TalismanTate by Tristan Tate](https://rumble.com/c/TalismanTate "TalismanTate by Tristan Tate")
-
-[Medical Medium](https://rumble.com/c/MedicalMedium "Medical Medium")
-
-[Macrodosing w/ PFT & Arian Foster](https://rumble.com/c/MacrodosingWithPFTAndArianFoster "Macrodosing w/ PFT & Arian Foster")
-
-[Donald J. Trump](https://rumble.com/c/DonaldTrump "Donald J. Trump")
-
-[Barstool U](https://rumble.com/c/BarstoolU "Barstool U")
-
-[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
-
-[Howard Lutnick](https://rumble.com/c/HowardLutnick "Howard Lutnick")
-
-[Bitcoin Magazine](https://rumble.com/c/BitcoinMagazine "Bitcoin Magazine")
-
-[After Skool](https://rumble.com/c/AfterSkool "After Skool")
-
-[The Jimmy Dore Show](https://rumble.com/c/TheJimmyDoreShow "The Jimmy Dore Show")
-
-[Drew Hernandez](https://rumble.com/c/DrewHernandez "Drew Hernandez")
-
-[Mike Crispi](https://rumble.com/c/crispi "Mike Crispi")
-
-[vivafrei](https://rumble.com/user/vivafrei "vivafrei")
-
-[John Burk](https://rumble.com/c/JohnBurk "John Burk")
-
-[Tucker Carlson](https://rumble.com/c/TuckerCarlson "Tucker Carlson")
-
-[A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
-
-[Lights, Camera, Barstool](https://rumble.com/c/LightsCameraBarstool "Lights, Camera, Barstool")
-
-[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
-
-[The Dozen Trivia](https://rumble.com/c/TheDozenTrivia "The Dozen Trivia")
-
-[The Kai 'N Speed Show](https://rumble.com/c/KaiNSpeed "The Kai 'N Speed Show")
-
-[Kim Iversen](https://rumble.com/c/KimIversen "Kim Iversen")
-
-[Primitive Survival Tool](https://rumble.com/c/PrimitiveSurvivalTools "Primitive Survival Tool")
-
-[Jersey Jerry](https://rumble.com/c/jerseyjerry "Jersey Jerry")
-
-[usefulidiots](https://rumble.com/c/usefulidiots "usefulidiots")
-
-[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
-
-[Jim Breuer](https://rumble.com/c/JimBreuer "Jim Breuer")
-
-[Tate Speech by Andrew Tate](https://rumble.com/c/TateSpeech "Tate Speech by Andrew Tate")
-
-[Sundae Conversation](https://rumble.com/c/SundaeConversation "Sundae Conversation")
-
-[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
-
-[Audit the Audit](https://rumble.com/c/JohnLang "Audit the Audit")
-
-[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
-
-[The Charlie Kirk Show](https://rumble.com/c/CharlieKirk "The Charlie Kirk Show")
-
-[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
-
-[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
-
-[Rubbin Is Racing](https://rumble.com/c/rubbinisracing "Rubbin Is Racing")
-
-[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
+[Donald Trump Jr.](https://rumble.com/c/DonaldJTrumpJr "Donald Trump Jr.")
 
 [GOP](https://rumble.com/c/GOP "GOP")
 
-[Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)](https://rumble.com/c/DrFinance "Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)")
+[The StoneZONE with Roger Stone](https://rumble.com/c/RogerStone "The StoneZONE with Roger Stone")
 
-[Athlete & Artist Show](https://rumble.com/c/AthleteArtistShow "Athlete & Artist Show")
+[Dave Portnoy](https://rumble.com/c/DavePortnoy "Dave Portnoy")
 
-[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
+[The War Effort Podcast](https://rumble.com/c/THEWAREFFORTPODCAST "The War Effort Podcast")
+
+[KFC Radio](https://rumble.com/c/KFCRadio "KFC Radio")
+
+[Chef Donny](https://rumble.com/c/DonnyEnriquez "Chef Donny")
+
+[Tate Confidential](https://rumble.com/c/tateconfidential "Tate Confidential")
+
+[Mark Titus Show](https://rumble.com/c/marktitusshow "Mark Titus Show")
+
+[Rubbin Is Racing](https://rumble.com/c/rubbinisracing "Rubbin Is Racing")
+
+[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
+
+[Mike Crispi](https://rumble.com/c/crispi "Mike Crispi")
+
+[Graham Allen](https://rumble.com/c/GrahamAllenOfficial "Graham Allen")
+
+[Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
+
+[Spittin' Chiclets](https://rumble.com/c/SpittinChiclets "Spittin' Chiclets")
+
+[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
+
+[Answer The Internet](https://rumble.com/c/AnswerTheInternet "Answer The Internet")
+
+[New York Post](https://rumble.com/c/NYPost "New York Post")
+
+[Scumbag Golf](https://rumble.com/c/scumbagolf "Scumbag Golf")
+
+[Off Leash, with Erik Prince](https://rumble.com/c/offleash "Off Leash, with Erik Prince")
+
+[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
+
+[Vivek Ramaswamy](https://rumble.com/c/VivekRamaswamy "Vivek Ramaswamy")
+
+[usefulidiots](https://rumble.com/c/usefulidiots "usefulidiots")
+
+[UFC Fight Pass](https://rumble.com/c/UFCFightPass "UFC Fight Pass")
+
+[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
+
+[SLS - Street League Skateboarding](https://rumble.com/c/sls "SLS - Street League Skateboarding")
+
+[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
+
+[Matt Kohrs](https://rumble.com/c/MattKohrs "Matt Kohrs")
+
+[Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
+
+[CAMELOT331](https://rumble.com/c/CAMELOT331 "CAMELOT331")
+
+[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
+
+[Please End This](https://rumble.com/c/pleaseendthis "Please End This")
+
+[Tate Speech by Andrew Tate](https://rumble.com/c/TateSpeech "Tate Speech by Andrew Tate")
+
+[Jim Breuer](https://rumble.com/c/JimBreuer "Jim Breuer")
+
+[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
+
+[Mostly Sports With Mark Titus and Brandon Walker](https://rumble.com/c/MostlySportsTitusandWalker "Mostly Sports With Mark Titus and Brandon Walker")
+
+[DeVory Darkins](https://rumble.com/c/DeVoryDarkins "DeVory Darkins")
+
+[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
+
+[The Kai 'N Speed Show](https://rumble.com/c/KaiNSpeed "The Kai 'N Speed Show")
+
+[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
+
+[A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
+
+[Hi-Rez](https://rumble.com/c/HIREZTV "Hi-Rez")
+
+[LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
 
 ### Theme
 
