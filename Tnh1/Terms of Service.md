@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Parque Shopping Maceió celebra 11 anos com sucesso consolidado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/3/csm_Parque_Shopping_367a9b125c.jpeg)
+   [![Veja como será o funcionamento dos mercados, shoppings e Comércio no feriado de Finados](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/9/csm_shoppings_maceio_ec160f3d70.png)
+
+neste sábado
+
+Veja como será o funcionamento dos mercados, shoppings e Comércio no feriado de Finados](https://www.tnh1.com.br/noticia/nid/veja-como-sera-o-funcionamento-dos-mercados-shoppings-e-comercio-no-feriado-de-finados/ "Veja como será o funcionamento dos mercados, shoppings e Comércio no feriado de Finados")   [![Com suspeita de leptospirose, homem é internado em hospital e descobre meningite](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/b/csm_csm_Hospital_Helvio_Auto_-_foto__Ascom_Helvio_Auto_15667ca8ac_427f2095aa.jpeg)
+
+de capela
+
+Com suspeita de leptospirose, homem é internado em hospital e descobre meningite](https://www.tnh1.com.br/noticia/nid/com-suspeita-de-leptospirose-homem-e-internado-em-hospital-e-descobre-meningite/ "Com suspeita de leptospirose, homem é internado em hospital e descobre meningite")   [![Polícia identifica suspeito de tentar estuprar e agredir mulher com série de socos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/f/csm_mulher-agredida-tentativa-estupro-jacintinho_03a50416af.jpg)
+
+Segue foragido
+
+Polícia identifica suspeito de tentar estuprar e agredir mulher com série de socos](https://www.tnh1.com.br/noticia/nid/policia-identifica-suspeito-de-tentar-estuprar-e-agredir-mulher-com-serie-de-socos/ "Polícia identifica suspeito de tentar estuprar e agredir mulher com série de socos")   [![Idosa é achada morta com sinais de envenenamento no Flexal; filha está internada em estado grave](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/d/csm_protesto_moradores_Flexais_bd5dd3f804.jpeg)
 
 Maceió
 
-Parque Shopping Maceió celebra 11 anos com sucesso consolidado](https://www.tnh1.com.br/noticia/nid/parque-shopping-maceio-celebra-11-anos-com-sucesso-consolidado/ "Parque Shopping Maceió celebra 11 anos com sucesso consolidado")   [![Maceió retoma vacinação contra Covid-19 após reabastecimento](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/7/csm_Maceio_retoma_vacinacao_contra_Covid-19_apos_reabastecimento_-_foto_Jonathan_Lins_-_Secom_Maceio_6f74382526.jpg)
+Idosa é achada morta com sinais de envenenamento no Flexal; filha está internada em estado grave](https://www.tnh1.com.br/noticia/nid/idosa-e-achada-morta-com-sinais-de-envenenamento-no-flexal-filha-esta-internada-em-estado-grave/ "Idosa é achada morta com sinais de envenenamento no Flexal; filha está internada em estado grave")   [![Parque Shopping Maceió celebra 11 anos com sucesso consolidado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/3/csm_Parque_Shopping_367a9b125c.jpeg)
+
+Maceió
+
+Parque Shopping Maceió celebra 11 anos com sucesso consolidado](https://www.tnh1.com.br/noticia/nid/parque-shopping-maceio-celebra-11-anos-com-sucesso-consolidado/ "Parque Shopping Maceió celebra 11 anos com sucesso consolidado")   [![Maceió retoma vacinação contra Covid-19 após reabastecimento](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/7/csm_Maceio_retoma_vacinacao_contra_Covid-19_apos_reabastecimento_-_foto_Jonathan_Lins_-_Secom_Maceio_6f74382526.jpg)
 
 imunização
 
-Maceió retoma vacinação contra Covid-19 após reabastecimento](https://www.tnh1.com.br/noticia/nid/maceio-retoma-vacinacao-contra-covid-19-apos-reabastecimento/ "Maceió retoma vacinação contra Covid-19 após reabastecimento")   [![Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/8/csm_escola-estadual-maceio-confusao-google-maps_75e17683c8.png)
-
-EM MACEIÓ
-
-Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont](https://www.tnh1.com.br/noticia/nid/confusao-causa-panico-e-correria-durante-jogos-internos-em-escola-no-santos-dumont/ "Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont ")   [![Grande proporção e perda total, diz Corpo de Bombeiros sobre incêndio em Ponta Verde](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/4/csm_Incendio_apartamento_Ponta_Verde_-_foto_Reproducao_Redes_sociais_07632ec718.jpeg)
-
-sétimo andar
-
-Grande proporção e perda total, diz Corpo de Bombeiros sobre incêndio em Ponta Verde](https://www.tnh1.com.br/noticia/nid/grande-proporcao-e-perda-total-diz-corpo-de-bombeiros-sobre-incendio-em-ponta-verde/ "Grande proporção e perda total, diz Corpo de Bombeiros sobre incêndio em Ponta Verde")   [![Antigo lixão vai virar parque com mirante e fazenda de flores; entenda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/d/csm_Parque_do_Amanha_e749a8b3f4.jpg)
-
-Maceió
-
-Antigo lixão vai virar parque com mirante e fazenda de flores; entenda](https://www.tnh1.com.br/noticia/nid/antigo-lixao-vai-virar-parque-com-mirante-e-fazenda-de-flores-entenda/ "Antigo lixão vai virar parque com mirante e fazenda de flores; entenda")   [![Incêndio atinge apartamento em prédio na Ponta Verde; veja imagens](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/d/csm_Incendio_em_apartamento_na_Ponta_Verde_-_foto_Reproducao_5a221f8762.jpeg)
-
-Maceió
-
-Incêndio atinge apartamento em prédio na Ponta Verde; veja imagens](https://www.tnh1.com.br/noticia/nid/incendio-atinge-apartamento-em-predio-na-ponta-verde-veja-imagens/ "Incêndio atinge apartamento em prédio na Ponta Verde; veja imagens")
+Maceió retoma vacinação contra Covid-19 após reabastecimento](https://www.tnh1.com.br/noticia/nid/maceio-retoma-vacinacao-contra-covid-19-apos-reabastecimento/ "Maceió retoma vacinação contra Covid-19 após reabastecimento")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Incêndio atinge apartamento em prédio na Ponta Verde; veja imagens](https://ww
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/7/csm_paulo-dantas-envia-projeto-de-lei-a-assembleia-que-indeniza-viuva-do-auditor-fiscal-joao-de-assis_087606c821.jpg)
+   [![Mais de 500 policiais farão segurança durante provas do Enem em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/7/csm_operao_paz_nas_escolas_ascom_pm_1_fb023f294f.jpg)
+
+Alagoas
+
+Mais de 500 policiais farão segurança durante provas do Enem em Alagoas](https://www.tnh1.com.br/noticia/nid/mais-de-500-policiais-farao-seguranca-durante-provas-do-enem-em-alagoas/ "Mais de 500 policiais farão segurança durante provas do Enem em Alagoas")   [![Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/7/csm_paulo-dantas-envia-projeto-de-lei-a-assembleia-que-indeniza-viuva-do-auditor-fiscal-joao-de-assis_087606c821.jpg)
 
 governador
 
-Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis](https://www.tnh1.com.br/noticia/nid/paulo-dantas-envia-projeto-de-lei-a-assembleia-que-indeniza-viuva-do-auditor-fiscal-joao-de-assis/ "Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis")   [![Primeira-dama de Maceió prestigia a cultura popular alagoana durante visita à Ilha do Ferro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/a/csm_marina_ilha_ferro_fdfa1a953b.jpeg)
+Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis](https://www.tnh1.com.br/noticia/nid/paulo-dantas-envia-projeto-de-lei-a-assembleia-que-indeniza-viuva-do-auditor-fiscal-joao-de-assis/ "Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis")   [![Primeira-dama de Maceió prestigia a cultura popular alagoana durante visita à Ilha do Ferro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/a/csm_marina_ilha_ferro_fdfa1a953b.jpeg)
 
 em Pão de Açúcar
 
-Primeira-dama de Maceió prestigia a cultura popular alagoana durante visita à Ilha do Ferro](https://www.tnh1.com.br/noticia/nid/primeira-dama-de-maceio-prestigia-a-cultura-popular-alagoana-durante-visita-a-ilha-do-ferro/ "Primeira-dama de Maceió prestigia a cultura popular alagoana durante visita à Ilha do Ferro")   [![BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/3/csm_BKR_cafe__1__d8f6b6c1ba.jpeg)
+Primeira-dama de Maceió prestigia a cultura popular alagoana durante visita à Ilha do Ferro](https://www.tnh1.com.br/noticia/nid/primeira-dama-de-maceio-prestigia-a-cultura-popular-alagoana-durante-visita-a-ilha-do-ferro/ "Primeira-dama de Maceió prestigia a cultura popular alagoana durante visita à Ilha do Ferro")   [![BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/3/csm_BKR_cafe__1__d8f6b6c1ba.jpeg)
 
 Alagoas
 
-BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região](https://www.tnh1.com.br/noticia/nid/brk-reune-jornalistas-para-apresentar-dados-sobre-saneamento-em-maceio-e-regiao/ "BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região ")   [![Governador de Alagoas anuncia antecipação dos salários de outubro para esta quarta-feira (30) ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_governador-anuncia-antecipacao-dos-salarios-de-outubro-para-esta-quarta-feira_4dc8dbd6a8.jpg)
+BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região](https://www.tnh1.com.br/noticia/nid/brk-reune-jornalistas-para-apresentar-dados-sobre-saneamento-em-maceio-e-regiao/ "BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região ")   [![Governador de Alagoas anuncia antecipação dos salários de outubro para esta quarta-feira (30) ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_governador-anuncia-antecipacao-dos-salarios-de-outubro-para-esta-quarta-feira_4dc8dbd6a8.jpg)
 
 Atenção, Servidores
 
-Governador de Alagoas anuncia antecipação dos salários de outubro para esta quarta-feira (30)](https://www.tnh1.com.br/noticia/nid/governador-de-alagoas-anuncia-antecipacao-dos-salarios-de-outubro-para-esta-quarta-feira-30/ "Governador de Alagoas anuncia antecipação dos salários de outubro para esta quarta-feira (30) ")   [![Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/f/csm_detran-alagoas-abre-1-800-vagas-extras-para-candidatos-retardatarios-a-1-carteira-de-habilitacao_-_foto_Felipe_Yuri_-_Ascom_Detran_23a301c9b1.jpg)
+Governador de Alagoas anuncia antecipação dos salários de outubro para esta quarta-feira (30)](https://www.tnh1.com.br/noticia/nid/governador-de-alagoas-anuncia-antecipacao-dos-salarios-de-outubro-para-esta-quarta-feira-30/ "Governador de Alagoas anuncia antecipação dos salários de outubro para esta quarta-feira (30) ")   [![Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/f/csm_detran-alagoas-abre-1-800-vagas-extras-para-candidatos-retardatarios-a-1-carteira-de-habilitacao_-_foto_Felipe_Yuri_-_Ascom_Detran_23a301c9b1.jpg)
 
 Alagoas
 
-Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação](https://www.tnh1.com.br/noticia/nid/detran-abre-1800-vagas-extras-para-candidatos-retardatarios-a-1a-carteira-de-habilitacao/ "Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação")   [![Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/4/csm_bombeiros_praia_f83e90bc23.png)
-
-Alagoas
-
-Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/bombeiros-salvam-dois-turistas-vitimas-de-afogamento-na-praia-do-frances/ "Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês")
+Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação](https://www.tnh1.com.br/noticia/nid/detran-abre-1800-vagas-extras-para-candidatos-retardatarios-a-1a-carteira-de-habilitacao/ "Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](http
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/8/csm_escola-estadual-maceio-confusao-google-maps_75e17683c8.png)
-
-EM MACEIÓ
-
-Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont](https://www.tnh1.com.br/noticia/nid/confusao-causa-panico-e-correria-durante-jogos-internos-em-escola-no-santos-dumont/ "Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont ")   [![PM vai realizar simulação de assalto com reféns no Centro de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/4/csm_Simulacao_SSP_AL_7ed659a7b6.jpg)
+   [![Homem é preso por descumprimento de medida protetiva no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/4/csm_preso_pc_c6d5ba836e.jpeg)
 
 Polícia
 
-PM vai realizar simulação de assalto com reféns no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/pm-vai-realizar-simulacao-de-assalto-com-refens-no-centro-de-maceio/ "PM vai realizar simulação de assalto com reféns no Centro de Maceió")   [![Dono de açougue é preso com 28 quilos de maconha dentro de casa, em Massagueira](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/e/csm_drogas-apreendida-massagueira-policia-maconha-cortesia_89cd972431.jpeg)
+Homem é preso por descumprimento de medida protetiva no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-descumprimento-de-medida-protetiva-no-interior-de-alagoas/ "Homem é preso por descumprimento de medida protetiva no interior de Alagoas")   [![PF indicia 20 pessoas em investigação sobre irregularidades na exploração de sal-gema em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/a/csm_pinheiro_regiao_vista_areas_Vasni_a1ec88491a.png)
 
-Polícia
+inquérito concluído
 
-Dono de açougue é preso com 28 quilos de maconha dentro de casa, em Massagueira](https://www.tnh1.com.br/noticia/nid/dono-de-acougue-e-preso-com-28-quilos-de-maconha-dentro-de-casa-em-massagueira/ "Dono de açougue é preso com 28 quilos de maconha dentro de casa, em Massagueira")   [![Vídeo: polícia prende suspeito de praticar dez assaltos em sequência em Penedo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/4/csm_assalto-penedo-prisao-suspeito_64e7799afb.png)
+PF indicia 20 pessoas em investigação sobre irregularidades na exploração de sal-gema em Maceió](https://www.tnh1.com.br/noticia/nid/pf-indicia-20-pessoas-em-investigacao-sobre-irregularidades-na-exploracao-de-sal-gema-em-maceio/ "PF indicia 20 pessoas em investigação sobre irregularidades na exploração de sal-gema em Maceió")   [![Esposa de MC Poze do Rodo é alvo de operação contra sorteio de rifas ilegais](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/7/csm_poze-esposa-reproducao_515cc37912.jpg)
 
-No interior
+Suposta fraude
 
-Vídeo: polícia prende suspeito de praticar dez assaltos em sequência em Penedo](https://www.tnh1.com.br/noticia/nid/video-policia-prende-suspeito-de-praticar-dez-assaltos-em-sequencia-em-penedo/ "Vídeo: polícia prende suspeito de praticar dez assaltos em sequência em Penedo")   [![Morador de Maceió suspeito de fazer sexo com cadelas e galinhas é denunciado à Justiça ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/d/csm_galinha_freepik_591ba85589.png)
+Esposa de MC Poze do Rodo é alvo de operação contra sorteio de rifas ilegais](https://www.tnh1.com.br/noticia/nid/esposa-de-mc-poze-do-rodo-e-alvo-de-operacao-contra-sorteio-de-rifas-ilegais/ "Esposa de MC Poze do Rodo é alvo de operação contra sorteio de rifas ilegais")   [![Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/0/csm_submetralhadora-apreendida-sao-miguel_af03e76887.jpg)
 
-crime de zoofilia
+Dentro de casa
 
-Morador de Maceió suspeito de fazer sexo com cadelas e galinhas é denunciado à Justiça](https://www.tnh1.com.br/noticia/nid/morador-de-maceio-suspeito-de-fazer-sexo-com-cadelas-e-galinhas-e-denunciado-a-justica/ "Morador de Maceió suspeito de fazer sexo com cadelas e galinhas é denunciado à Justiça ")   [![Irmãs foragidas suspeitas de tentar roubo em van são presas no Sertão alagoano](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/2/csm_irmas_do_crime_5f3826264e.png)
+Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-e-preso-com-submetralhadora-pistola-e-municoes-no-interior-de-alagoas/ "Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas")   [![Motorista por aplicativo é esfaqueado cinco vezes durante briga em tentativa de assalto](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/0/csm_csm_motorista-de-aplicativo-pixabay_f8f27deb27_a76dba1c3a.jpeg)
 
-Polícia
+No Tabuleiro
 
-Irmãs foragidas suspeitas de tentar roubo em van são presas no Sertão alagoano](https://www.tnh1.com.br/noticia/nid/irmas-foragidas-suspeitas-de-tentar-roubo-em-van-sao-presas-no-sertao-alagoano/ "Irmãs foragidas suspeitas de tentar roubo em van são presas no Sertão alagoano")
+Motorista por aplicativo é esfaqueado cinco vezes durante briga em tentativa de assalto](https://www.tnh1.com.br/noticia/nid/motorista-por-aplicativo-e-esfaqueado-cinco-vezes-durante-briga-em-tentativa-de-assalto/ "Motorista por aplicativo é esfaqueado cinco vezes durante briga em tentativa de assalto")   [![Dois homens são presos suspeitos de planejar ataques a agentes de segurança ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/6/csm_suspeito-preso-planejar-ataques-agentes_e13d643c4c.jpg)
+
+Em Marechal
+
+Dois homens são presos suspeitos de planejar ataques a agentes de segurança](https://www.tnh1.com.br/noticia/nid/dois-homens-sao-presos-suspeitos-de-planejar-ataques-a-agentes-de-seguranca/ "Dois homens são presos suspeitos de planejar ataques a agentes de segurança ")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -226,49 +226,49 @@ no jacintinho
 
 Vídeo: mulher sofre tentativa de estupro e é agredida com série de socos na porta de casa
 
-Vídeo: mulher sofre tentativa de estupro e é agredida com série de socos na porta de casa](https://www.tnh1.com.br/noticia/nid/video-mulher-sofre-tentativa-de-estupro-e-e-agredida-com-serie-de-socos-na-porta-de-casa/ "Vídeo: mulher sofre tentativa de estupro e é agredida com série de socos na porta de casa")[![Príncipe William tem desavença com 'irmão' na Família Real e Natal promete ser tenso, diz site](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/7/csm_principe-William-reproducao-redes-sociais_d0a0c4b0c7.jpg)
+Vídeo: mulher sofre tentativa de estupro e é agredida com série de socos na porta de casa](https://www.tnh1.com.br/noticia/nid/video-mulher-sofre-tentativa-de-estupro-e-e-agredida-com-serie-de-socos-na-porta-de-casa/ "Vídeo: mulher sofre tentativa de estupro e é agredida com série de socos na porta de casa")[![Morre youtuber que explorava a natureza após picada de cobra mamba-verde](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/2/csm_1_youtuber_dingo_dinkelman-41162641_633596fd97.jpg)
 
-não é o harry
+sul-africano
 
-não é o harry
+sul-africano
 
-Príncipe William tem desavença com 'irmão' na Família Real e Natal promete ser tenso, diz site
+Morre youtuber que explorava a natureza após picada de cobra mamba-verde
 
-Príncipe William tem desavença com 'irmão' na Família Real e Natal promete ser tenso, diz site](https://www.tnh1.com.br/noticia/nid/principe-william-tem-desavenca-com-irmao-na-familia-real-e-natal-promete-ser-tenso-diz-site/ "Príncipe William tem desavença com 'irmão' na Família Real e Natal promete ser tenso, diz site")
+Morre youtuber que explorava a natureza após picada de cobra mamba-verde](https://www.tnh1.com.br/noticia/nid/morre-youtuber-que-explorava-a-natureza-apos-picada-de-cobra-mamba-verde/ "Morre youtuber que explorava a natureza após picada de cobra mamba-verde")
 
-[![A amiga de Kamala Harris que sofreu abuso sexual e inspirou carreira de promotora da candidata](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/8/csm_kamala-amiga-reproducao-BBC-News_26b52fda65.jpg)
+[![Mais de 500 policiais farão segurança durante provas do Enem em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/7/csm_operao_paz_nas_escolas_ascom_pm_1_1e1344eec8.jpg)
 
-eleições nos EUA
+Alagoas
 
-eleições nos EUA
+Alagoas
 
-A amiga de Kamala Harris que sofreu abuso sexual e inspirou carreira de promotora da candidata
+Mais de 500 policiais farão segurança durante provas do Enem em Alagoas
 
-A amiga de Kamala Harris que sofreu abuso sexual e inspirou carreira de promotora da candidata](https://www.tnh1.com.br/noticia/nid/a-amiga-de-kamala-harris-que-sofreu-abuso-sexual-e-inspirou-carreira-de-promotora-da-candidata/ "A amiga de Kamala Harris que sofreu abuso sexual e inspirou carreira de promotora da candidata")[![Entenda quando ex-companheiros podem receber pensão por morte do INSS](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_previdencia-inss-agencia-brasil__1__9dc6e6fc09.jpg)
+Mais de 500 policiais farão segurança durante provas do Enem em Alagoas](https://www.tnh1.com.br/noticia/nid/mais-de-500-policiais-farao-seguranca-durante-provas-do-enem-em-alagoas/ "Mais de 500 policiais farão segurança durante provas do Enem em Alagoas")[![Mutirão de renegociação de dívidas com bancos começa nesta sexta](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/8/csm_moeda_dinheiro_marcello_casal_jr_agencia_brasil_f2cdece790.jpg)
 
-condições específicas
+Economia
 
-condições específicas
+Economia
 
-Entenda quando ex-companheiros podem receber pensão por morte do INSS
+Mutirão de renegociação de dívidas com bancos começa nesta sexta
 
-Entenda quando ex-companheiros podem receber pensão por morte do INSS](https://www.tnh1.com.br/noticia/nid/entenda-quando-ex-companheiros-podem-receber-pensao-por-morte-do-inss/ "Entenda quando ex-companheiros podem receber pensão por morte do INSS")[![Suspeito de violência doméstica é morto na delegacia da mulher após resistir à prisão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/4/csm_violencia_contar_mulher__foto_Marcello_Casal_Jr_-_Agencia_Brasil_085287048a.jpg)
+Mutirão de renegociação de dívidas com bancos começa nesta sexta](https://www.tnh1.com.br/noticia/nid/mutirao-de-renegociacao-de-dividas-com-bancos-comeca-nesta-sexta/ "Mutirão de renegociação de dívidas com bancos começa nesta sexta")[![Ufal antecipa convocação dos classificados para o 2º semestre no Sisu 2024](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/3/csm_csm_entrada_da_ufal_divulgacao_b30831b113_3c19cdf2b9.jpg)
 
-são paulo
+Veja programação
 
-são paulo
+Veja programação
 
-Suspeito de violência doméstica é morto na delegacia da mulher após resistir à prisão
+Ufal antecipa convocação dos classificados para o 2º semestre no Sisu 2024
 
-Suspeito de violência doméstica é morto na delegacia da mulher após resistir à prisão](https://www.tnh1.com.br/noticia/nid/suspeito-de-violencia-domestica-e-morto-na-delegacia-da-mulher-apos-resistir-a-prisao/ "Suspeito de violência doméstica é morto na delegacia da mulher após resistir à prisão")[![Polícia mira grupo que lucrou R$ 1 bi em maior esquema de pirâmide do Rio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/a/csm_Policia_mira_grupo_que_lucrou_R__1_bi_em_maior_esquema_de_piramide_do_Rio_-_foto_Divulgacao_PF_3f9c260e7b.jpeg)
+Ufal antecipa convocação dos classificados para o 2º semestre no Sisu 2024](https://www.tnh1.com.br/noticia/nid/ufal-antecipa-convocacao-dos-classificados-para-o-2o-semestre-no-sisu-2024/ "Ufal antecipa convocação dos classificados para o 2º semestre no Sisu 2024")[![Homem é preso por descumprimento de medida protetiva no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/4/csm_preso_pc_b6c7f9b021.jpeg)
 
-Brasil
+Polícia
 
-Brasil
+Polícia
 
-Polícia mira grupo que lucrou R$ 1 bi em maior esquema de pirâmide do Rio
+Homem é preso por descumprimento de medida protetiva no interior de Alagoas
 
-Polícia mira grupo que lucrou R$ 1 bi em maior esquema de pirâmide do Rio](https://www.tnh1.com.br/noticia/nid/policia-mira-grupo-que-lucrou-r-1-bi-em-maior-esquema-de-piramide-do-rio/ "Polícia mira grupo que lucrou R$ 1 bi em maior esquema de pirâmide do Rio")
+Homem é preso por descumprimento de medida protetiva no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-descumprimento-de-medida-protetiva-no-interior-de-alagoas/ "Homem é preso por descumprimento de medida protetiva no interior de Alagoas")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
