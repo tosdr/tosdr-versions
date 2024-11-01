@@ -159,7 +159,6 @@ Tools
 
 * [ActBlue Express](https://secure.actblue.com/express)
 * [Pricing](https://secure.actblue.com/pricing)
-* [Directory](https://secure.actblue.com/directory)
 
 Support
 
