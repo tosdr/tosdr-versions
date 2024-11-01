@@ -186,13 +186,13 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 * [**StoryCorps Shorts: A Knock at the Door** | POV](https://video.nhpbs.org/video/storycorps-shorts-a-knock-at-the-door-faolug?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2024 NH CD2 Candidate Forum** | NH Votes](https://video.nhpbs.org/video/2024-nh-cd2-candidate-forum-fhauzr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Decoding the Universe: Quantum Preview** | NOVA](https://video.nhpbs.org/video/decoding-the-universe-quantum-preview-knv5ti?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**How Do Hurricanes Form?** | NOVA](https://video.nhpbs.org/video/how-do-hurricanes-form-gnog7s?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**October 31, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-31-2024-pbs-news-hour-full-episode-1730347201?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Scha'nexw Elhtal'nexw Salmon People: Preserving a Way of Life Preview** | Local, USA](https://video.nhpbs.org/video/local-usa-schanexw-elhtalnexw-salmon-people-preserving-a-way-of-life-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 2 Preview** | The Marlow Murder Club](https://video.nhpbs.org/video/episode-2-preview-izexus?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**The Mirror and the Light Preview** | Wolf Hall](https://video.nhpbs.org/video/the-mirror-and-the-light-preview-cevwvk?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**How the Democratic Party Lost Its Way and What It Means for This Election** | Amanpour and Company](https://video.nhpbs.org/video/how-the-democratic-party-lost-its-way-and-what-it-means-for-this-election-kdea7i?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Conclave** | Flicks](https://video.nhpbs.org/video/conclave-fprn3z?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Harris, Trump campaign in N.C. with less than a week to go** | PBS News Hour](https://video.nhpbs.org/video/vote-2024-1730322863?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
