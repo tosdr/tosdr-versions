@@ -72,6 +72,14 @@ Country UK AU & NZ SG MY US IE
     
     Latest News
     
+    ![](/media/ul5bzsny/frame-3-2.png?rmode=max&width=230&height=295&v=1db2c603cac50d0)
+    
+    Posted 1 November 2024
+    
+    The Access Group to acquire US digital guest engagement provider Paytronix
+    
+    [Read article on The Access Group to acquire US digital guest engagement provider Paytronix](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-to-acquire-us-digital-guest-engagement-provider-paytronix/)
+    
     ![](/media/z0lnkjso/frame-3.png?rmode=max&width=230&height=295&v=1db2b72834cb4b0)
     
     Posted 31 October 2024
