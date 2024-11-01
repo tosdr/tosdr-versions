@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [DVD formats supported by Backup4all](https://www.backup4all.com/dvd-formats-supported-by-backup4all-kb.html)  
+* [How to backup your data to LeoNovus](https://www.backup4all.com/how-to-backup-your-data-to-leonovus-kb.html)  
     
-* [How to run a daily incremental and weekly ful ...](https://www.backup4all.com/how-to-run-a-daily-incremental-and-weekly-full-backups-kb.html)  
+* [Backup to SFTP](https://www.backup4all.com/backup-to-sftp-kb.html)  
     
-* [Installing - FAQ](https://www.backup4all.com/installing-faq-kb.html)  
+* [Restore demo](https://www.backup4all.com/restore-demo-kb.html)  
     
-* [How to backup your data to Connectria](https://www.backup4all.com/how-to-backup-your-data-to-connectria-kb.html)  
+* [How to restore to Hitachi](https://www.backup4all.com/how-to-restore-to-hitachi-kb.html)  
     
-* [Using the Backup4all sidebar gadget](https://www.backup4all.com/using-the-backup4all-sidebar-gadget-kb.html)  
+* [How to start your free Backup4all trial](https://www.backup4all.com/how-to-start-your-free-backup4all-trial-kb.html)  
     
 
 Choose language:
