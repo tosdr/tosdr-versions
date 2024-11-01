@@ -85,23 +85,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 387 1
+0 395 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/64172/)
+[](https://yiff-party.com/yiff/blaidd-fromsoftware-and-etc-created-by-hanukami/)
 
-[#64172](https://yiff-party.com/yiff/64172/)
+[blaidd (fromsoftware and etc) created by hanukami](https://yiff-party.com/yiff/blaidd-fromsoftware-and-etc-created-by-hanukami/)
 
-0 175 0
+0 73 0
 
 October 2, 2024
 
-[](https://yiff-party.com/yiff/jaki-and-randog-created-by-oro97/)
+[](https://yiff-party.com/yiff-gif/alien-franchise-created-by-bna-v5/)
 
-[jaki and randog created by oro97](https://yiff-party.com/yiff/jaki-and-randog-created-by-oro97/)
+[alien (franchise) created by bna v5](https://yiff-party.com/yiff-gif/alien-franchise-created-by-bna-v5/)
 
-0 3 0
+0 1 0
 
 November 1, 2024
 
