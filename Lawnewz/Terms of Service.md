@@ -293,25 +293,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![O2b kids](https://am21.mediaite.com/lc/cnt/uploads/2024/10/O2B-Kids-432x243.jpg)](https://lawandcrime.com/crime/day-care-employee-violently-shakes-playhouse-causing-4-year-old-boy-to-fall-and-bust-his-head-open-cops/)
-    
-    ### [Day care employee 'violently' shakes playhouse, causing 4-year-old boy to fall and bust his head open: Cops](https://lawandcrime.com/crime/day-care-employee-violently-shakes-playhouse-causing-4-year-old-boy-to-fall-and-bust-his-head-open-cops/)
-    
-2. [![Inset: Othel Moore Jr. Background: Moore in the final moments of his life as he's restrained in a cart in a prison cell (Disparti Law Group).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/prison-432x243.jpg)](https://lawandcrime.com/lawsuit/suffered-in-the-worst-way-possible-video-shows-prisoners-final-moments-suffocating-in-a-mask-tied-to-a-cart-lawsuit-says/)
-    
-    ### ['Suffered in the worst way possible': Video shows prisoner's final moments suffocating in a mask tied to a cart, lawsuit says](https://lawandcrime.com/lawsuit/suffered-in-the-worst-way-possible-video-shows-prisoners-final-moments-suffocating-in-a-mask-tied-to-a-cart-lawsuit-says/)
-    
-3. [![Mike Lindell](https://am23.mediaite.com/lc/cnt/uploads/2023/04/Mike-Lindell-432x243.jpg)](https://lawandcrime.com/high-profile/unconscionable-and-thus-unenforceable-mypillow-ceo-mike-lindell-files-rico-lawsuit-against-lending-companies-to-try-and-get-out-of-allegedly-usurious-600k-loan/)
+1. [![Mike Lindell](https://am23.mediaite.com/lc/cnt/uploads/2023/04/Mike-Lindell-432x243.jpg)](https://lawandcrime.com/high-profile/unconscionable-and-thus-unenforceable-mypillow-ceo-mike-lindell-files-rico-lawsuit-against-lending-companies-to-try-and-get-out-of-allegedly-usurious-600k-loan/)
     
     ### ['Unconscionable and thus unenforceable': MyPillow CEO Mike Lindell files RICO lawsuit against lending companies to try and get out of allegedly 'usurious' $600K loan](https://lawandcrime.com/high-profile/unconscionable-and-thus-unenforceable-mypillow-ceo-mike-lindell-files-rico-lawsuit-against-lending-companies-to-try-and-get-out-of-allegedly-usurious-600k-loan/)
+    
+2. [![Dakarai Larriett](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Dakarai-Larriett-with-inset-432x243.jpg)](https://lawandcrime.com/lawsuit/what-they-thought-were-drugs-was-simply-gas-police-arrested-sober-driver-for-dui-threw-him-in-jail-and-confused-anomaly-on-x-ray-for-hidden-narcotics-lawsuit-says/)
+    
+    ### ['What they thought were drugs was simply gas': Police arrested sober driver for DUI, threw him in jail and confused 'anomaly' on X-ray for hidden narcotics, lawsuit says](https://lawandcrime.com/lawsuit/what-they-thought-were-drugs-was-simply-gas-police-arrested-sober-driver-for-dui-threw-him-in-jail-and-confused-anomaly-on-x-ray-for-hidden-narcotics-lawsuit-says/)
+    
+3. [![Jordan Eaton cellphone video](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Eaton1-432x243.jpg)](https://lawandcrime.com/crime/neighbor-who-said-i-dont-f-with-you-and-murdered-a-father-of-8-in-front-of-the-victims-wife-just-for-petting-a-dog-learns-his-fate/)
+    
+    ### [Neighbor who said 'I don't f— with you' and murdered a father of 8 in front of the victim's wife just for petting a dog learns his fate](https://lawandcrime.com/crime/neighbor-who-said-i-dont-f-with-you-and-murdered-a-father-of-8-in-front-of-the-victims-wife-just-for-petting-a-dog-learns-his-fate/)
     
 4. [![Left: California Attorney General Rob Bonta takes questions from the media in Los Angeles on Tuesday, March 19, 2024 (AP Photo/Damian Dovarganes, File). Center: Providence St. Joseph's Hospital in Eureka, Calif., is shown (KAEF). Right: Anna Nusslock speaks at a press conference (KAEF).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Rob-Bonta-Providence-Hospital-Anna-Nusslock-432x243.jpg)](https://lawandcrime.com/high-profile/hospital-that-sent-bleeding-woman-away-with-a-bucket-and-towels-instead-of-giving-her-an-emergency-abortion-says-it-wont-do-the-same-thing-again/)
     
     ### [Hospital that sent bleeding woman away with a bucket and towels' instead of giving her an emergency abortion says it won't do the same thing again](https://lawandcrime.com/high-profile/hospital-that-sent-bleeding-woman-away-with-a-bucket-and-towels-instead-of-giving-her-an-emergency-abortion-says-it-wont-do-the-same-thing-again/)
     
-5. [![Hillary Clinton, Rudy Giuliani, Noel Dunphy](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Hillary-432x243.jpg)](https://lawandcrime.com/high-profile/rudy-giuliani-sexual-assault-accuser-asks-judge-to-issue-sanctions/)
+5. [![Insets, left to right: Vanity Cabrera (GoFundMe) and Pamela T. Cabrera (WTLV). Background: Authorities at the site of the crash that left Vanity dead (WTLV).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/asdfasdf-4-432x243.jpg)](https://lawandcrime.com/crime/mom-who-crashed-into-pond-with-kidnapped-5-year-old-made-no-attempt-to-rescue-dying-daughter-while-screaming-save-me-to-police-is-sentenced/)
     
-    ### ['I'm muting you': Judge strikes Hillary Clinton's name from Giuliani accuser's lawsuit as Rudy shows up to court 'confused' and shouts 'my reputation has been ruined'](https://lawandcrime.com/high-profile/rudy-giuliani-sexual-assault-accuser-asks-judge-to-issue-sanctions/)
+    ### [Mom who crashed into pond with kidnapped 5-year-old, 'made no attempt' to rescue dying daughter while screaming 'save me' to police is sentenced](https://lawandcrime.com/crime/mom-who-crashed-into-pond-with-kidnapped-5-year-old-made-no-attempt-to-rescue-dying-daughter-while-screaming-save-me-to-police-is-sentenced/)
     
 
 [](http://eepurl.com/c89Jdb)
