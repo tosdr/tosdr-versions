@@ -69,7 +69,7 @@ Menu
         * [Online & Mobile Banking](https://www.blupeak.com/spend-save/online-mobile-banking/)
         * [Zelle](https://www.blupeak.com/spend-save/zelle/)
     
-    [![6 month term certificate](https://www.blupeak.com/files/2-8.png)](https://www.blupeak.com/spend-save/term-certificates/)
+    [![11 Month liquid](https://www.blupeak.com/files/2-9.png)](https://www.blupeak.com/spend-save/term-certificates/)
     
     [Open Term Certificate](https://www.blupeak.com/spend-save/term-certificates/)
     
