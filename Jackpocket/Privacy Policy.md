@@ -2,7 +2,7 @@
 
 About
 
-[About Us](https://jackpocket.com/team)[FAQ](https://support.jackpocket.com/hc/en-us)[Careers](https://jackpocket.com/careers)[Press](https://jackpocket.com/press)
+[About Us](https://jackpocket.com/team)[FAQ](https://support.jackpocket.com/hc/en-us)[Careers](https://careers.draftkings.com/)[Press](https://jackpocket.com/press)
 
 [Winners](https://blog.jackpocket.com/featured-winners/)[News](https://blog.jackpocket.com/)[Lottery Results](https://jackpocket.com/lottery-results)[Sweepstakes](https://jackpocket.com/sweepstakes)
 
@@ -326,7 +326,7 @@ Please contact Jackpocket with any questions or comments about this Privacy Poli
 * [Home](https://jackpocket.com/)
 * [About](https://jackpocket.com/team)
 * [Support](https://support.jackpocket.com/hc/en-us)
-* [Careers](https://jackpocket.com/careers)
+* [Careers](https://careers.draftkings.com/)
 * [Press](https://jackpocket.com/press)
 * [Sweepstakes](https://jackpocket.com/sweepstakes)
 * [Contact](https://jackpocket.com/contact)
