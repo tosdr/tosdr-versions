@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Resilience
+
+### ‘A bridge to humanity’: Behind a Monitor series on an underreported story](https://www.csmonitor.com/Podcasts/Why-We-Wrote-This/wwwt_2438 "‘A bridge to humanity’: Behind a Monitor series on an underreported story")
+
 [Honesty
 
 ### The light in Cuba](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1031/The-light-in-Cuba "The light in Cuba")
@@ -99,10 +103,6 @@ Recent Stories
 [Prosperity
 
 ### Intel is coming. Ohio community colleges say the state’s workers will be ready.](https://www.csmonitor.com/USA/Education/2024/1031/intel-ohio-community-college-career-and-technical-education "Intel is coming. Ohio community colleges say the state’s workers will be ready.")
-
-[Innovation
-
-### Creativity as a small nation’s defense](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1030/Creativity-as-a-small-nation-s-defense "Creativity as a small nation’s defense")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Ukraine’s AI drones are now actively deployed in combat. And they hit targets.](https://www.csmonitor.com/World/Europe/2024/1101/drone-Ukraine-Russia-war-AI-combat "Ukraine’s AI drones are now actively deployed in combat. And they hit targets.")
+
+[### Abortion on the ballot: What’s happening in 10 key states](https://www.csmonitor.com/USA/Justice/2024/1101/abortion-states-ballot-constitutional-amendments "Abortion on the ballot: What’s happening in 10 key states")
+
 [### Who’s the real loser in the 2024 election? Mainstream media.](https://www.csmonitor.com/USA/Society/2024/1101/mainstream-media-joe-rogan-podcasters "Who’s the real loser in the 2024 election? Mainstream media.")
-
-[### Putin has ruled Russia for 25 years. How did he last so long?](https://www.csmonitor.com/World/Europe/2024/1031/vladimir-putin-russia-kremlin-25-years-ukraine-war "Putin has ruled Russia for 25 years. How did he last so long?")
-
-[### US seeks to counter Chinese influence in the Global South. Is it too late?](https://www.csmonitor.com/World/2024/1031/us-china-russia-brics-global-south "US seeks to counter Chinese influence in the Global South. Is it too late?")
 
 * * *
 
