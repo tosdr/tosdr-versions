@@ -430,11 +430,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/animacije/marta-i-njeni-prijatelji/prints-flash-1.jpg?itok=VddX6Eo1)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/animacije/marta-i-njeni-prijatelji)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/instalacija-s-kadom/megi-i-mama.jpg?itok=0nNwtMTs)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/instalacija-s-kadom)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/pocket-plakat.jpg?itok=u3BYsTWf)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/program-doma-omladine-beograd/hightone-jul2.jpg?itok=7vy_bPfC)](http://seecult.org/galerija/foto-galerija/foto-arhiva/program-doma-omladine-beograd)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
