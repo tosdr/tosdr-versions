@@ -50,31 +50,31 @@ Maceió retoma vacinação contra Covid-19 após reabastecimento](https://www.tn
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Mais de 500 policiais farão segurança durante provas do Enem em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/7/csm_operao_paz_nas_escolas_ascom_pm_1_fb023f294f.jpg)
+   [![Alagoas tem sete trechos de praias impróprios para banho; veja quais](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/8/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_c379360075.jpeg)
+
+balneabilidade
+
+Alagoas tem sete trechos de praias impróprios para banho; veja quais](https://www.tnh1.com.br/noticia/nid/alagoas-tem-sete-trechos-de-praias-improprios-para-banho-veja-quais/ "Alagoas tem sete trechos de praias impróprios para banho; veja quais")   [![Veja como deve ficar o tempo em Alagoas para o fim de semana de Finados ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/2/csm_previsao-semarh-alagoas_f468f393ad.png)
+
+Meteorologia
+
+Veja como deve ficar o tempo em Alagoas para o fim de semana de Finados](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-alagoas-para-o-fim-de-semana-de-finados/ "Veja como deve ficar o tempo em Alagoas para o fim de semana de Finados ")   [![Mais de 500 policiais farão segurança durante provas do Enem em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/7/csm_operao_paz_nas_escolas_ascom_pm_1_fb023f294f.jpg)
 
 Alagoas
 
-Mais de 500 policiais farão segurança durante provas do Enem em Alagoas](https://www.tnh1.com.br/noticia/nid/mais-de-500-policiais-farao-seguranca-durante-provas-do-enem-em-alagoas/ "Mais de 500 policiais farão segurança durante provas do Enem em Alagoas")   [![Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/7/csm_paulo-dantas-envia-projeto-de-lei-a-assembleia-que-indeniza-viuva-do-auditor-fiscal-joao-de-assis_087606c821.jpg)
+Mais de 500 policiais farão segurança durante provas do Enem em Alagoas](https://www.tnh1.com.br/noticia/nid/mais-de-500-policiais-farao-seguranca-durante-provas-do-enem-em-alagoas/ "Mais de 500 policiais farão segurança durante provas do Enem em Alagoas")   [![Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/7/csm_paulo-dantas-envia-projeto-de-lei-a-assembleia-que-indeniza-viuva-do-auditor-fiscal-joao-de-assis_087606c821.jpg)
 
 governador
 
-Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis](https://www.tnh1.com.br/noticia/nid/paulo-dantas-envia-projeto-de-lei-a-assembleia-que-indeniza-viuva-do-auditor-fiscal-joao-de-assis/ "Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis")   [![Primeira-dama de Maceió prestigia a cultura popular alagoana durante visita à Ilha do Ferro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/a/csm_marina_ilha_ferro_fdfa1a953b.jpeg)
+Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis](https://www.tnh1.com.br/noticia/nid/paulo-dantas-envia-projeto-de-lei-a-assembleia-que-indeniza-viuva-do-auditor-fiscal-joao-de-assis/ "Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis")   [![Primeira-dama de Maceió prestigia a cultura popular alagoana durante visita à Ilha do Ferro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/a/csm_marina_ilha_ferro_fdfa1a953b.jpeg)
 
 em Pão de Açúcar
 
-Primeira-dama de Maceió prestigia a cultura popular alagoana durante visita à Ilha do Ferro](https://www.tnh1.com.br/noticia/nid/primeira-dama-de-maceio-prestigia-a-cultura-popular-alagoana-durante-visita-a-ilha-do-ferro/ "Primeira-dama de Maceió prestigia a cultura popular alagoana durante visita à Ilha do Ferro")   [![BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/3/csm_BKR_cafe__1__d8f6b6c1ba.jpeg)
+Primeira-dama de Maceió prestigia a cultura popular alagoana durante visita à Ilha do Ferro](https://www.tnh1.com.br/noticia/nid/primeira-dama-de-maceio-prestigia-a-cultura-popular-alagoana-durante-visita-a-ilha-do-ferro/ "Primeira-dama de Maceió prestigia a cultura popular alagoana durante visita à Ilha do Ferro")   [![BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/3/csm_BKR_cafe__1__d8f6b6c1ba.jpeg)
 
 Alagoas
 
-BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região](https://www.tnh1.com.br/noticia/nid/brk-reune-jornalistas-para-apresentar-dados-sobre-saneamento-em-maceio-e-regiao/ "BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região ")   [![Governador de Alagoas anuncia antecipação dos salários de outubro para esta quarta-feira (30) ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_governador-anuncia-antecipacao-dos-salarios-de-outubro-para-esta-quarta-feira_4dc8dbd6a8.jpg)
-
-Atenção, Servidores
-
-Governador de Alagoas anuncia antecipação dos salários de outubro para esta quarta-feira (30)](https://www.tnh1.com.br/noticia/nid/governador-de-alagoas-anuncia-antecipacao-dos-salarios-de-outubro-para-esta-quarta-feira-30/ "Governador de Alagoas anuncia antecipação dos salários de outubro para esta quarta-feira (30) ")   [![Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/f/csm_detran-alagoas-abre-1-800-vagas-extras-para-candidatos-retardatarios-a-1-carteira-de-habilitacao_-_foto_Felipe_Yuri_-_Ascom_Detran_23a301c9b1.jpg)
-
-Alagoas
-
-Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação](https://www.tnh1.com.br/noticia/nid/detran-abre-1800-vagas-extras-para-candidatos-retardatarios-a-1a-carteira-de-habilitacao/ "Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação")
+BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região](https://www.tnh1.com.br/noticia/nid/brk-reune-jornalistas-para-apresentar-dados-sobre-saneamento-em-maceio-e-regiao/ "BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região ")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Homem é preso por descumprimento de medida protetiva no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/4/csm_preso_pc_c6d5ba836e.jpeg)
+   [![Em dois dias, Polícia Militar apreende armas e drogas na capital e interior](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/1/csm_em-dois-dias-policia-militar-apreende-armas-e-drogas-na-capital-e-interior_496463dc4c.jpg)
 
 Polícia
 
-Homem é preso por descumprimento de medida protetiva no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-descumprimento-de-medida-protetiva-no-interior-de-alagoas/ "Homem é preso por descumprimento de medida protetiva no interior de Alagoas")   [![PF indicia 20 pessoas em investigação sobre irregularidades na exploração de sal-gema em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/a/csm_pinheiro_regiao_vista_areas_Vasni_a1ec88491a.png)
+Em dois dias, Polícia Militar apreende armas e drogas na capital e interior](https://www.tnh1.com.br/noticia/nid/em-dois-dias-policia-militar-apreende-armas-e-drogas-na-capital-e-interior/ "Em dois dias, Polícia Militar apreende armas e drogas na capital e interior")   [![Vídeos: veja como foi simulação de assalto à loja com reféns no Centro de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/c/csm_Simulo_CATE_3110_DCS_PMAL_15_756fc02df6.jpg)
+
+polícia militar
+
+Vídeos: veja como foi simulação de assalto à loja com reféns no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/videos-veja-como-foi-simulacao-de-assalto-a-loja-com-refens-no-centro-de-maceio/ "Vídeos: veja como foi simulação de assalto à loja com reféns no Centro de Maceió")   [![Homem é preso por descumprimento de medida protetiva no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/4/csm_preso_pc_c6d5ba836e.jpeg)
+
+Polícia
+
+Homem é preso por descumprimento de medida protetiva no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-descumprimento-de-medida-protetiva-no-interior-de-alagoas/ "Homem é preso por descumprimento de medida protetiva no interior de Alagoas")   [![PF indicia 20 pessoas em investigação sobre irregularidades na exploração de sal-gema em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/a/csm_pinheiro_regiao_vista_areas_Vasni_a1ec88491a.png)
 
 inquérito concluído
 
-PF indicia 20 pessoas em investigação sobre irregularidades na exploração de sal-gema em Maceió](https://www.tnh1.com.br/noticia/nid/pf-indicia-20-pessoas-em-investigacao-sobre-irregularidades-na-exploracao-de-sal-gema-em-maceio/ "PF indicia 20 pessoas em investigação sobre irregularidades na exploração de sal-gema em Maceió")   [![Esposa de MC Poze do Rodo é alvo de operação contra sorteio de rifas ilegais](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/7/csm_poze-esposa-reproducao_515cc37912.jpg)
+PF indicia 20 pessoas em investigação sobre irregularidades na exploração de sal-gema em Maceió](https://www.tnh1.com.br/noticia/nid/pf-indicia-20-pessoas-em-investigacao-sobre-irregularidades-na-exploracao-de-sal-gema-em-maceio/ "PF indicia 20 pessoas em investigação sobre irregularidades na exploração de sal-gema em Maceió")   [![Esposa de MC Poze do Rodo é alvo de operação contra sorteio de rifas ilegais](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/7/csm_poze-esposa-reproducao_515cc37912.jpg)
 
 Suposta fraude
 
-Esposa de MC Poze do Rodo é alvo de operação contra sorteio de rifas ilegais](https://www.tnh1.com.br/noticia/nid/esposa-de-mc-poze-do-rodo-e-alvo-de-operacao-contra-sorteio-de-rifas-ilegais/ "Esposa de MC Poze do Rodo é alvo de operação contra sorteio de rifas ilegais")   [![Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/0/csm_submetralhadora-apreendida-sao-miguel_af03e76887.jpg)
+Esposa de MC Poze do Rodo é alvo de operação contra sorteio de rifas ilegais](https://www.tnh1.com.br/noticia/nid/esposa-de-mc-poze-do-rodo-e-alvo-de-operacao-contra-sorteio-de-rifas-ilegais/ "Esposa de MC Poze do Rodo é alvo de operação contra sorteio de rifas ilegais")   [![Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/0/csm_submetralhadora-apreendida-sao-miguel_af03e76887.jpg)
 
 Dentro de casa
 
-Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-e-preso-com-submetralhadora-pistola-e-municoes-no-interior-de-alagoas/ "Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas")   [![Motorista por aplicativo é esfaqueado cinco vezes durante briga em tentativa de assalto](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/0/csm_csm_motorista-de-aplicativo-pixabay_f8f27deb27_a76dba1c3a.jpeg)
-
-No Tabuleiro
-
-Motorista por aplicativo é esfaqueado cinco vezes durante briga em tentativa de assalto](https://www.tnh1.com.br/noticia/nid/motorista-por-aplicativo-e-esfaqueado-cinco-vezes-durante-briga-em-tentativa-de-assalto/ "Motorista por aplicativo é esfaqueado cinco vezes durante briga em tentativa de assalto")   [![Dois homens são presos suspeitos de planejar ataques a agentes de segurança ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/6/csm_suspeito-preso-planejar-ataques-agentes_e13d643c4c.jpg)
-
-Em Marechal
-
-Dois homens são presos suspeitos de planejar ataques a agentes de segurança](https://www.tnh1.com.br/noticia/nid/dois-homens-sao-presos-suspeitos-de-planejar-ataques-a-agentes-de-seguranca/ "Dois homens são presos suspeitos de planejar ataques a agentes de segurança ")
+Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-e-preso-com-submetralhadora-pistola-e-municoes-no-interior-de-alagoas/ "Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -218,57 +218,57 @@ NO VERGEL
 
 Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros
 
-Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros](https://www.tnh1.com.br/noticia/nid/corpo-de-jovem-de-21-anos-desaparecida-ha-quatro-dias-e-encontrado-com-marcas-de-tiros/ "Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros")[![Vídeo: mulher sofre tentativa de estupro e é agredida com série de socos na porta de casa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/f/csm_mulher-agredida-tentativa-estupro-jacintinho_2f4484dbfe.jpg)
+Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros](https://www.tnh1.com.br/noticia/nid/corpo-de-jovem-de-21-anos-desaparecida-ha-quatro-dias-e-encontrado-com-marcas-de-tiros/ "Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros")[![Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/3/csm_charles4_8ee254ed73.jpg)
 
-no jacintinho
+Família Real
 
-no jacintinho
+Família Real
 
-Vídeo: mulher sofre tentativa de estupro e é agredida com série de socos na porta de casa
+Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'
 
-Vídeo: mulher sofre tentativa de estupro e é agredida com série de socos na porta de casa](https://www.tnh1.com.br/noticia/nid/video-mulher-sofre-tentativa-de-estupro-e-e-agredida-com-serie-de-socos-na-porta-de-casa/ "Vídeo: mulher sofre tentativa de estupro e é agredida com série de socos na porta de casa")[![Morre youtuber que explorava a natureza após picada de cobra mamba-verde](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/2/csm_1_youtuber_dingo_dinkelman-41162641_633596fd97.jpg)
+Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'](https://www.tnh1.com.br/noticia/nid/rei-charles-finalmente-cumpre-vontade-de-elizabeth-e-toma-dura-decisao-contra-filho-problema/ "Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'")[![Rua no Centro de Maceió terá sentido único a partir deste sábado (2)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/c/csm_Rua_proxima_ao_TRT_tera_sentido_unico_a_partir_deste_sabado__2__0_foto_Reproducao_Google_2a0c37fd70.jpeg)
 
-sul-africano
+Trânsito
 
-sul-africano
+Trânsito
 
-Morre youtuber que explorava a natureza após picada de cobra mamba-verde
+Rua no Centro de Maceió terá sentido único a partir deste sábado (2)
 
-Morre youtuber que explorava a natureza após picada de cobra mamba-verde](https://www.tnh1.com.br/noticia/nid/morre-youtuber-que-explorava-a-natureza-apos-picada-de-cobra-mamba-verde/ "Morre youtuber que explorava a natureza após picada de cobra mamba-verde")
+Rua no Centro de Maceió terá sentido único a partir deste sábado (2)](https://www.tnh1.com.br/noticia/nid/rua-no-centro-de-maceio-tera-sentido-unico-a-partir-deste-sabado-2/ "Rua no Centro de Maceió terá sentido único a partir deste sábado (2)")
 
-[![Mais de 500 policiais farão segurança durante provas do Enem em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/7/csm_operao_paz_nas_escolas_ascom_pm_1_1e1344eec8.jpg)
-
-Alagoas
-
-Alagoas
-
-Mais de 500 policiais farão segurança durante provas do Enem em Alagoas
-
-Mais de 500 policiais farão segurança durante provas do Enem em Alagoas](https://www.tnh1.com.br/noticia/nid/mais-de-500-policiais-farao-seguranca-durante-provas-do-enem-em-alagoas/ "Mais de 500 policiais farão segurança durante provas do Enem em Alagoas")[![Mutirão de renegociação de dívidas com bancos começa nesta sexta](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/8/csm_moeda_dinheiro_marcello_casal_jr_agencia_brasil_f2cdece790.jpg)
-
-Economia
-
-Economia
-
-Mutirão de renegociação de dívidas com bancos começa nesta sexta
-
-Mutirão de renegociação de dívidas com bancos começa nesta sexta](https://www.tnh1.com.br/noticia/nid/mutirao-de-renegociacao-de-dividas-com-bancos-comeca-nesta-sexta/ "Mutirão de renegociação de dívidas com bancos começa nesta sexta")[![Ufal antecipa convocação dos classificados para o 2º semestre no Sisu 2024](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/3/csm_csm_entrada_da_ufal_divulgacao_b30831b113_3c19cdf2b9.jpg)
-
-Veja programação
-
-Veja programação
-
-Ufal antecipa convocação dos classificados para o 2º semestre no Sisu 2024
-
-Ufal antecipa convocação dos classificados para o 2º semestre no Sisu 2024](https://www.tnh1.com.br/noticia/nid/ufal-antecipa-convocacao-dos-classificados-para-o-2o-semestre-no-sisu-2024/ "Ufal antecipa convocação dos classificados para o 2º semestre no Sisu 2024")[![Homem é preso por descumprimento de medida protetiva no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/4/csm_preso_pc_b6c7f9b021.jpeg)
+[![Em dois dias, Polícia Militar apreende armas e drogas na capital e interior](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/1/csm_em-dois-dias-policia-militar-apreende-armas-e-drogas-na-capital-e-interior_5bcabfbb3d.jpg)
 
 Polícia
 
 Polícia
 
-Homem é preso por descumprimento de medida protetiva no interior de Alagoas
+Em dois dias, Polícia Militar apreende armas e drogas na capital e interior
 
-Homem é preso por descumprimento de medida protetiva no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-descumprimento-de-medida-protetiva-no-interior-de-alagoas/ "Homem é preso por descumprimento de medida protetiva no interior de Alagoas")
+Em dois dias, Polícia Militar apreende armas e drogas na capital e interior](https://www.tnh1.com.br/noticia/nid/em-dois-dias-policia-militar-apreende-armas-e-drogas-na-capital-e-interior/ "Em dois dias, Polícia Militar apreende armas e drogas na capital e interior")[![De bermuda e chinelo, Luan Santana posta vídeo com sucuri no Pantanal; assista](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/9/csm_luan-santana-sucuri-reproducao-redes-sociais_e5f4aef16c.jpg)
+
+Gente Famosa
+
+Gente Famosa
+
+De bermuda e chinelo, Luan Santana posta vídeo com sucuri no Pantanal; assista
+
+De bermuda e chinelo, Luan Santana posta vídeo com sucuri no Pantanal; assista](https://www.tnh1.com.br/noticia/nid/de-bermuda-e-chinelo-luan-santana-posta-video-com-sucuri-no-pantanal-assista/ "De bermuda e chinelo, Luan Santana posta vídeo com sucuri no Pantanal; assista")[![Prêmio Ser Humano: três iniciativas de Alagoas são premiadas pela ABRH Brasil ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/b/csm_Premio-Ser-Humano-ABRH-redes-sociais_ab1c85c4e4.jpeg)
+
+recursos humanos
+
+recursos humanos
+
+Prêmio Ser Humano: três iniciativas de Alagoas são premiadas pela ABRH Brasil
+
+Prêmio Ser Humano: três iniciativas de Alagoas são premiadas pela ABRH Brasil](https://www.tnh1.com.br/noticia/nid/premio-ser-humano-tres-iniciativas-de-alagoas-sao-premiadas-pela-abrh-brasil/ "Prêmio Ser Humano: três iniciativas de Alagoas são premiadas pela ABRH Brasil ")[![Expedição solidária que saiu do RN ao RS faz parada em Maceió após 3 meses de estrada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/f/csm_Expedicao_Nordetche_-_foto_Priscila_Carvalho_-_GES-Especial_588272ab88.jpg)
+
+'Nordestchê'
+
+'Nordestchê'
+
+Expedição solidária que saiu do RN ao RS faz parada em Maceió após 3 meses de estrada
+
+Expedição solidária que saiu do RN ao RS faz parada em Maceió após 3 meses de estrada](https://www.tnh1.com.br/noticia/nid/expedicao-solidaria-que-saiu-do-rn-ao-rs-faz-parada-em-maceio-apos-3-meses-de-estrada/ "Expedição solidária que saiu do RN ao RS faz parada em Maceió após 3 meses de estrada")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
