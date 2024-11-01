@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * ['Obamacare' enrollment opens, as Republicans threaten the health insurance program used by millions](https://apnews.com/article/obamacare-affordable-care-act-harris-trump-kamala-9ac518845f3fd085bc68dcceed16b2c1)
+    * [Trump and Harris both support a bigger child tax credit. But which families should get it?](https://apnews.com/article/child-tax-credit-poverty-cc423366a1a6f2299fb23ed169045b7b)
     * [Opponents use parental rights and anti-trans messages to fight abortion ballot measures](https://apnews.com/article/abortion-ballot-election-2024-transgender-e07e91d436744ad1634fe676dfbda687)
-    * [Ping! Harris and Trump are blowing up your phones with political texts in campaign's last days](https://apnews.com/article/harris-trump-fundraising-texts-2024-campaign-6af8cde19cd5ba9a0bcbd536e45281d6)
+    * [Rapper Young Thug pleads guilty to gang, drug and gun charges](https://apnews.com/article/young-thug-trial-guilty-plea-581c38d53dc37f86d5b038f6c23e4b77)
     
     Newsletters
     
@@ -48,13 +48,13 @@ Menu
     
     SECTIONS
     
-    [Explaining Election 2024](https://apnews.com/hub/explaining-election-2024) [Advance vote](https://apnews.com/projects/election-results-2024/2024-early-voting-tracker/) [Election results](https://apnews.com/projects/election-results-2024/) [Google trends](https://apnews.com/projects/election-results-2024/google-trends/) [AP & Elections](https://apnews.com/ap-elections-explained) [Global elections](https://apnews.com/hub/global-elections/)
+    [Results](https://apnews.com/projects/election-results-2024/) [Advance vote](https://apnews.com/projects/election-results-2024/2024-early-voting-tracker/) [Explaining 2024](https://apnews.com/hub/explaining-election-2024) [AP Votecast](https://apnews.com/article/ap-votecast-2020-election-2024-election-biden-trump-harris-f8e35d86efcea67c1eb6713b62c35546)
     
     TOP STORIES
     
-    * [Speaker Mike Johnson is pulling closer to Trump to save the GOP's House majority](https://apnews.com/article/house-speaker-mike-johnson-majority-trump-election-65d7217e4541cd314849c9a0da2b0081)
-    * [Nicky Jam withdraws endorsement of Donald Trump over comedian's 'garbage' comment about Puerto Rico](https://apnews.com/article/nicky-jam-donald-trump-endorsement-rescinded-1502ebc97adf28be8e22bb01d41a3e42)
-    * [Inspired by Harris, many Black sorority and fraternity members are helping downballot races](https://apnews.com/article/divine-nine-black-sororities-fraternities-harris-connecticut-b2e58e1a6a1926f33628345248afdfc9)
+    * [Trump and Harris both support a bigger child tax credit. But which families should get it?](https://apnews.com/article/child-tax-credit-poverty-cc423366a1a6f2299fb23ed169045b7b)
+    * [How immigrants who just became US citizens plan to vote in the 2024 election](https://apnews.com/article/us-citizens-voting-2024-election-immigrants-4fa9f59376c340b296a46b16f5371d6d)
+    * [Donald Trump gambles with late-stage trips to Democratic New Mexico and Virginia](https://apnews.com/article/trump-virginia-new-mexico-arizona-nevada-election-55502679ef9df70306d10e0a431a3d69)
     
     Newsletters
     
@@ -68,13 +68,13 @@ Menu
     
     SECTIONS
     
-    [Election 2024](https://apnews.com/hub/election-2024) [Joe Biden](https://apnews.com/hub/joe-biden) [Congress](https://apnews.com/hub/congress) [U.S. Supreme Court](https://apnews.com/hub/us-supreme-court)
+    [Election 2024](https://apnews.com/hub/election-2024) [Congress](https://apnews.com/hub/congress) [U.S. Supreme Court](https://apnews.com/hub/us-supreme-court)
     
     TOP STORIES
     
-    * [Kamala Harris says Trump's comments on women 'are offensive to everybody'](https://apnews.com/article/harris-trump-election-f5903d49488ebc733d7ba5812b36f935)
+    * [Kamala Harris says Trump's comment on women 'is offensive to everybody'](https://apnews.com/article/harris-trump-election-f5903d49488ebc733d7ba5812b36f935)
     * ['Obamacare' enrollment opens, as Republicans threaten the health insurance program used by millions](https://apnews.com/article/obamacare-affordable-care-act-harris-trump-kamala-9ac518845f3fd085bc68dcceed16b2c1)
-    * [Some 8,000 North Korean troops at Ukraine's border expected in combat soon, US says](https://apnews.com/article/south-korea-north-korea-troops-russia-ukraine-9ee96dc1d4f07ac0813c698e6873f96b)
+    * [About 8,000 North Korean troops at Ukraine's border are expected in combat in days, US says](https://apnews.com/article/south-korea-north-korea-troops-russia-ukraine-9ee96dc1d4f07ac0813c698e6873f96b)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Dodgers win World Series in 5 games, overcome 5-run deficit with help of errors to beat Yankees 7-6](https://apnews.com/article/world-series-dodgers-yankees-score-bd8e555b9bb5a321fff527e78e0ba637)
-    * [Los Angeles sees city bus burned, store thefts and rowdy crowds after Dodgers win World Series](https://apnews.com/article/dodgers-world-series-crowds-bus-burned-arrests-a42e1c2b4a069cb6cf3c92572000ecbc)
-    * [Saunas, reindeer and hockey: Stars and Panthers enjoy their time in Finland before 2-game series](https://apnews.com/article/nhl-finland-panthers-stars-1104097fc1939311f6e6935170b0f9da)
+    * [World Series champion Dodgers have eye on back-to-back titles with Ohtani returning to mound in 2025](https://apnews.com/article/los-angeles-dodgers-world-series-e235fa599eaf4ae8f96281e3cf3a2bdf)
+    * [After sloppy, bitter disappointment in World Series, Yankees turn attention to keeping Juan Soto](https://apnews.com/article/yankees-2024-what-happened-3ccfdf56ca13229c6310a106ff41da8a)
+    * [Bob Costas retiring from baseball play-by-play after 42 years](https://apnews.com/article/bob-costas-retires-baseball-1ce422d7c087c3fc162f4a535fa1f7f0)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
-    * [Beyoncé, Shaboozey and Post Malone topped country in 2024. How will Grammy voters respond?](https://apnews.com/article/beyonce-shaboozey-post-malone-2025-grammy-country-960555ab5de82ab630677677eb299a2e)
-    * [Film academy adds handwritten ‘Pulp Fiction’ script, Miyazaki art, more to vast collection](https://apnews.com/article/academy-museum-tarantino-pulp-fiction-script-ca61c46b0919bf6cc534ec804e837ec4)
-    * ['Saturday Night Live' taps comedian-actor Bill Burr and Charli XCX as hosts for after the election](https://apnews.com/article/bill-burr-snl-charlie-xcx-16807b9bbc6183ff0c9c000f467cdef2)
+    * [Rapper Young Thug pleads guilty to gang, drug and gun charges](https://apnews.com/article/young-thug-trial-guilty-plea-581c38d53dc37f86d5b038f6c23e4b77)
+    * [‘Dances with Wolves’ actor is again indicted on sexual abuse charges in Nevada](https://apnews.com/article/nathan-chasing-horse-sexual-abuse-charges-05098564b193d5059aca9d694149c09e)
+    * [Prosecutors say lawyers for Sean 'Diddy' Combs want to 'hijack' criminal case to fight civil claims](https://apnews.com/article/sean-combs-diddy-racketeering-charges-0a3e73a787471ffb57544cf90170c2e5)
     
 * [Business](https://apnews.com/business)
     
@@ -126,8 +126,8 @@ Menu
     
     TOP STORIES
     
+    * [Apple sells $46 billion worth of iPhones over the summer as AI helps end slump](https://apnews.com/article/apple-iphone-quarterly-results-artificial-intelligence-377452ea3345de2981ea75f62b7cc840)
     * [Inflation gauge closely watched by the Fed falls to lowest level since early 2021](https://apnews.com/article/inflation-prices-election-federal-reserve-rates-economy-e4ff4b6745ea1c8badd6a0502f372f25)
-    * [Microsoft reports quarterly sales up 16% to $65.6 billion as investors ask if AI spending worth it](https://apnews.com/article/microsoft-earnings-ai-azure-copilot-7d11b44d6c0eecae11bdbb4327ae85f5)
     * [US applications for jobless benefits fall as layoffs remain at historically healthy levels](https://apnews.com/article/unemployment-benefits-jobless-claims-layoffs-labor-5df78bd6efc13a449b242df66b1dc57c)
     
 * [Science](https://apnews.com/science)
@@ -157,12 +157,12 @@ Menu
     
     TOP STORIES
     
+    * [He’s fast, feisty and could play Quidditch. Meet the bat that won a beauty contest](https://apnews.com/article/bat-beauty-contest-winners-halloween-hoary-potter-e22d796cb65551e15dfc7c8ad276e650)
+    * [Kentucky Gov. Andy Beshear shows off his 'Ted Lasso' look on Halloween](https://apnews.com/article/kentucky-andy-beshear-ted-lasso-halloween-d78c41b1198f645ab0be2416e58c3ada)
+    * [Instagram-famous squirrel named Peanut seized by New York state authorities](https://apnews.com/article/new-york-pet-squirrel-seized-peanut-pnut-c2baa345d9e76416e0ca6d6e947ee272)
     * [A New Zealand city waves goodbye to its 'disturbing' giant hand sculpture that many came to love](https://apnews.com/article/quasi-giant-hand-wellington-sculpture-zealand-art-cfcd3599eda341b78741dcfcf519edbd)
     * [In a first since 1938, Des Moines, Iowa, kids will trick-or-treat on Halloween](https://apnews.com/article/beggars-night-des-moines-iowa-halloween-26710c8e3564d461b6868313f7f71425)
     * [He's the world's tallest teen — and is set to make college basketball history](https://apnews.com/article/worlds-tallest-teenager-d1c918fb54100a09a9c7db648c4ef71d)
-    * [Rare dime bought by Ohio farm family and hidden for decades fetches $500,000 at auction](https://apnews.com/article/rare-dime-sold-c757327ec6540bf9e5132fdadc292886)
-    * [Timothée Chalamet crashes his own look-alike contest after police shut down crowded event](https://apnews.com/article/timothee-chalamet-lookalike-dune-7acc6bda7612cb72eca31d2cc0106028)
-    * [British chef Jamie Oliver urges followers to help solve the 'grate cheese robbery'](https://apnews.com/article/great-cheese-theft-london-cheddar-jamie-oliver-fbaf6d697cd5c7e00de1c95d33837d52)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -234,19 +234,19 @@ Menu
     
     TOP STORIES
     
-    * [Spain's horrific flooding another nasty hit in a fall where climate extremes just keep coming](https://apnews.com/article/spain-valencia-flooding-rain-climate-change-c77c6b49272420eea1d6324dd3016823)
+    * [Climate change is making extreme downpours in Spain heavier and more likely, scientists say](https://apnews.com/article/spain-valencia-flooding-rain-climate-change-a183db96064cb5a9e82fc58c92338f38)
     * [Fourth mass coral bleaching prompts UN emergency session at Colombia biodiversity summit](https://apnews.com/article/coral-un-bleaching-extinction-emergency-cop16-cali-colombia-ed4439fe10ac76a79443dbeab2c343c1)
-    * ['All I can think about is hotter days.' Voter campaigns target Latinas worried about climate change](https://apnews.com/article/climate-change-election-2024-harris-trump-latinas-45b381be45eb4966636e13ffc4b3e025)
+    * [World may be merely scratching the surface on the scope of climate-changing methane emissions](https://apnews.com/article/methane-satellite-monitoring-ghgsat-climate-change-c5bdd53058cdcbf0c83a6a1080398222)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [A promising schizophrenia drug showed mixed results. What does that mean for patients?](https://apnews.com/article/schizophrenia-cobenfy-bristol-myers-squibb-37d550fb7c4ed71e4fcea85ded4ae5a9)
     * [McDonald's E. coli case count rises as federal officials inspect an onion grower](https://apnews.com/article/mcdonalds-e-coli-outbreak-quarter-pounder-a38666eaf2c38dccc99c00d72879928c)
     * [1st US case of bird flu in a pig raises concerns over potential human threat](https://apnews.com/article/bird-flu-pig-oregon-1f340a8f8c781e20478cbddabd2d9e18)
     * [Winter depression is real and there are many ways to fight back](https://apnews.com/article/seasonal-affective-disorder-sad-depression-winter-370fdaf388a65e5b31400f61d97d0575)
     * [Teen fights kidney failure after eating McDonald's Quarter Pounders](https://apnews.com/article/mcdonalds-e-coli-food-poisoning-acb6d87f6182b42295d16625480525b0)
-    * [People opt out of organ donation programs after reports of a man mistakenly declared dead](https://apnews.com/article/organ-donor-transplant-kentucky-8f42ad402445a91e981327abb009906c)
     * ['Obamacare' enrollment opens, as Republicans threaten the health insurance program used by millions](https://apnews.com/article/obamacare-affordable-care-act-harris-trump-kamala-9ac518845f3fd085bc68dcceed16b2c1)
     
 * [Tech](https://apnews.com/technology)
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
+    * [Apple sells $46 billion worth of iPhones over the summer as AI helps end slump](https://apnews.com/article/apple-iphone-quarterly-results-artificial-intelligence-377452ea3345de2981ea75f62b7cc840)
     * [Google Maps adds AI features to help users explore and navigate the world around them](https://apnews.com/article/google-maps-artificial-intelligence-entertainment-suggestions-bceb1ea762b3ac4a7a5a950fc4924756)
-    * [New York semiconductor site picked for $825 million in funding](https://apnews.com/article/new-york-semiconductor-nanotech-lab-albany-42ee39316c32718c729e526354254724)
-    * [Voting rights groups worry AI models are generating inaccurate and misleading responses in Spanish](https://apnews.com/article/ai-chatbots-chatgpt-falsehoods-spanish-latino-voters-d4ffabdc006a7c70eece3e28efa3de90)
+    * [ChatGPT will now work as a search engine as OpenAI partners with some news outlets](https://apnews.com/article/chatgpt-search-engine-openai-google-4145b609eb1df0d48a10f4d6f4ea7201)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
+    * [Trump and Harris both support a bigger child tax credit. But which families should get it?](https://apnews.com/article/child-tax-credit-poverty-cc423366a1a6f2299fb23ed169045b7b)
     * [Working Well: Seeking the elusive work-life balance, one step at a time](https://apnews.com/article/wellness-work-balance-stress-reduction-cancer-6f6e522e68d698315e0007bb34cb6ef2)
-    * [Ex-Disney worker accused of hacking computer menus to add profanities, errors](https://apnews.com/article/disney-arrest-florida-orlando-theme-parks-0c075b6ff23f3d57fe44be6ea1a85407)
-    * [Google Maps adds AI features to help users explore and navigate the world around them](https://apnews.com/article/google-maps-artificial-intelligence-entertainment-suggestions-bceb1ea762b3ac4a7a5a950fc4924756)
+    * [No trick! Halloween temperatures soar above normal in Northeast](https://apnews.com/article/halloween-weather-new-york-northeast-82c61126a7cc3cc617115db1c54851b0)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [From the steppes with shamanism: The Hu makes hits with praises to the sky deity](https://apnews.com/article/mongolia-band-hu-religion-heavy-metal-music-77e8beaa888258803bd9eb8bf846ac44)
     * [Then & Now: How immigration reshaped the look of a Minnesota farm town](https://apnews.com/article/immigration-policy-integration-minnesota-history-churches-business-soccer-5385d18481c901ee1faeec19c16ebf6d)
     * [In Amharic, Karen and Spanish, worship is like home for migrants in heartland town](https://apnews.com/article/immigration-policy-integration-religion-churches-minnesota-ethiopia-karen-8b2fdb67d7d8f82c0ed6dd2d0da1cb6d)
-    * [Takeaways from AP's report on how immigration transformed a Minnesota farm town](https://apnews.com/article/2024-election-immigration-policy-integration-minnesota-education-economy-019135a73205346a310eb1595da88d86)
     
     Newsletters
     
@@ -295,10 +295,10 @@ Menu
     
     * [Preocupados defensores de derechos electorales en EEUU por información de IA incorrecta en español](https://apnews.com/article/eeuu-hispanos-inteligencia-artificial-elecciones-desinformacion-15ed781dd93aa56b29fa3797837ea22c)
     * [España busca más víctimas tras unas inundaciones históricas que dejaron al menos 158 muertos](https://apnews.com/article/espana-valencia-inundaciones-muertos-tormenta-84dab89c07dbc6cd1a7b9823802737fe)
+    * [Sobrevivientes de inundación en España afirman que autoridades tardaron en alertar del peligro](https://apnews.com/article/espana-inundaciones-sobrevivientes-8720c8894b3a93ef2744c81664815ee0)
+    * [Jueza de Brasil condena a dos expolicías por el asesinato en 2018 de la concejala Marielle Franco](https://apnews.com/article/brasil-marielle-franco-juicio-sentencias-8b02898c679d6cb530c9d180c506e7b1)
     * [Los votantes tienen claro el mensaje sobre las elecciones de EEUU: el destino del país está en juego](https://apnews.com/article/eeuu-elecciones-democracia-harris-trump-a58245ed4337c961615a1b043b54ffae)
-    * [La lucha por el control del Senado en EEUU se decide al límite; los gastos rompen récords](https://apnews.com/article/eeuu-elecciones-senado-trump-harris-democratas-republicanos-cdaa79148a3f9086dbd9572d544c85f8)
-    * [Encuesta de AP-NORC: Estadounidenses se sienten ansiosos y frustrados por campaña presidencial](https://apnews.com/article/eeuu-elecciones-harris-trump-ansiedad-sondeo-apnorc-9c23c5be8dac38493ac33c1e6114fa71)
-    * [EEUU dice que unos 8.000 soldados norcoreanos están en región rusa de Kursk](https://apnews.com/article/ucrania-soldados-norcoreanos-rusia-da31fd01b1e1a6a1c72abc57fb7c3628)
+    * [¿Nieve en Hawai? El aire frío y la humedad provocan nevada en la montaña más alta del estado](https://apnews.com/article/hawai-nieve-clima-de0e21541a9e20c64377f6d8fe3837e0)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -329,17 +329,14 @@ Menu
         
     * [Election 2024](https://apnews.com/hub/election-2024)
         
-        * [Explaining Election 2024](https://apnews.com/hub/explaining-election-2024)
+        * [Results](https://apnews.com/projects/election-results-2024/)
         * [Advance vote](https://apnews.com/projects/election-results-2024/2024-early-voting-tracker/)
-        * [Election results](https://apnews.com/projects/election-results-2024/)
-        * [Google trends](https://apnews.com/projects/election-results-2024/google-trends/)
-        * [AP & Elections](https://apnews.com/ap-elections-explained)
-        * [Global elections](https://apnews.com/hub/global-elections/)
+        * [Explaining 2024](https://apnews.com/hub/explaining-election-2024)
+        * [AP Votecast](https://apnews.com/article/ap-votecast-2020-election-2024-election-biden-trump-harris-f8e35d86efcea67c1eb6713b62c35546)
         
     * [Politics](https://apnews.com/politics)
         
         * [Election 2024](https://apnews.com/hub/election-2024)
-        * [Joe Biden](https://apnews.com/hub/joe-biden)
         * [Congress](https://apnews.com/hub/congress)
         * [U.S. Supreme Court](https://apnews.com/hub/us-supreme-court)
         
@@ -478,9 +475,9 @@ Submit Search
     
     TOP STORIES
     
-    * ['Obamacare' enrollment opens, as Republicans threaten the health insurance program used by millions](https://apnews.com/article/obamacare-affordable-care-act-harris-trump-kamala-9ac518845f3fd085bc68dcceed16b2c1)
+    * [Trump and Harris both support a bigger child tax credit. But which families should get it?](https://apnews.com/article/child-tax-credit-poverty-cc423366a1a6f2299fb23ed169045b7b)
     * [Opponents use parental rights and anti-trans messages to fight abortion ballot measures](https://apnews.com/article/abortion-ballot-election-2024-transgender-e07e91d436744ad1634fe676dfbda687)
-    * [Ping! Harris and Trump are blowing up your phones with political texts in campaign's last days](https://apnews.com/article/harris-trump-fundraising-texts-2024-campaign-6af8cde19cd5ba9a0bcbd536e45281d6)
+    * [Rapper Young Thug pleads guilty to gang, drug and gun charges](https://apnews.com/article/young-thug-trial-guilty-plea-581c38d53dc37f86d5b038f6c23e4b77)
     
     Newsletters
     
@@ -494,22 +491,20 @@ Submit Search
     
 * [Election 2024](https://apnews.com/hub/election-2024)
     
-    * [Explaining Election 2024](https://apnews.com/hub/explaining-election-2024)
+    * [Results](https://apnews.com/projects/election-results-2024/)
     * [Advance vote](https://apnews.com/projects/election-results-2024/2024-early-voting-tracker/)
-    * [Election results](https://apnews.com/projects/election-results-2024/)
-    * [Google trends](https://apnews.com/projects/election-results-2024/google-trends/)
-    * [AP & Elections](https://apnews.com/ap-elections-explained)
-    * [Global elections](https://apnews.com/hub/global-elections/)
+    * [Explaining 2024](https://apnews.com/hub/explaining-election-2024)
+    * [AP Votecast](https://apnews.com/article/ap-votecast-2020-election-2024-election-biden-trump-harris-f8e35d86efcea67c1eb6713b62c35546)
     
     SECTIONS
     
-    [Explaining Election 2024](https://apnews.com/hub/explaining-election-2024) [Advance vote](https://apnews.com/projects/election-results-2024/2024-early-voting-tracker/) [Election results](https://apnews.com/projects/election-results-2024/) [Google trends](https://apnews.com/projects/election-results-2024/google-trends/) [AP & Elections](https://apnews.com/ap-elections-explained) [Global elections](https://apnews.com/hub/global-elections/)
+    [Results](https://apnews.com/projects/election-results-2024/) [Advance vote](https://apnews.com/projects/election-results-2024/2024-early-voting-tracker/) [Explaining 2024](https://apnews.com/hub/explaining-election-2024) [AP Votecast](https://apnews.com/article/ap-votecast-2020-election-2024-election-biden-trump-harris-f8e35d86efcea67c1eb6713b62c35546)
     
     TOP STORIES
     
-    * [Speaker Mike Johnson is pulling closer to Trump to save the GOP's House majority](https://apnews.com/article/house-speaker-mike-johnson-majority-trump-election-65d7217e4541cd314849c9a0da2b0081)
-    * [Nicky Jam withdraws endorsement of Donald Trump over comedian's 'garbage' comment about Puerto Rico](https://apnews.com/article/nicky-jam-donald-trump-endorsement-rescinded-1502ebc97adf28be8e22bb01d41a3e42)
-    * [Inspired by Harris, many Black sorority and fraternity members are helping downballot races](https://apnews.com/article/divine-nine-black-sororities-fraternities-harris-connecticut-b2e58e1a6a1926f33628345248afdfc9)
+    * [Trump and Harris both support a bigger child tax credit. But which families should get it?](https://apnews.com/article/child-tax-credit-poverty-cc423366a1a6f2299fb23ed169045b7b)
+    * [How immigrants who just became US citizens plan to vote in the 2024 election](https://apnews.com/article/us-citizens-voting-2024-election-immigrants-4fa9f59376c340b296a46b16f5371d6d)
+    * [Donald Trump gambles with late-stage trips to Democratic New Mexico and Virginia](https://apnews.com/article/trump-virginia-new-mexico-arizona-nevada-election-55502679ef9df70306d10e0a431a3d69)
     
     Newsletters
     
@@ -522,19 +517,18 @@ Submit Search
 * [Politics](https://apnews.com/politics)
     
     * [Election 2024](https://apnews.com/hub/election-2024)
-    * [Joe Biden](https://apnews.com/hub/joe-biden)
     * [Congress](https://apnews.com/hub/congress)
     * [U.S. Supreme Court](https://apnews.com/hub/us-supreme-court)
     
     SECTIONS
     
-    [Election 2024](https://apnews.com/hub/election-2024) [Joe Biden](https://apnews.com/hub/joe-biden) [Congress](https://apnews.com/hub/congress) [U.S. Supreme Court](https://apnews.com/hub/us-supreme-court)
+    [Election 2024](https://apnews.com/hub/election-2024) [Congress](https://apnews.com/hub/congress) [U.S. Supreme Court](https://apnews.com/hub/us-supreme-court)
     
     TOP STORIES
     
-    * [Kamala Harris says Trump's comments on women 'are offensive to everybody'](https://apnews.com/article/harris-trump-election-f5903d49488ebc733d7ba5812b36f935)
+    * [Kamala Harris says Trump's comment on women 'is offensive to everybody'](https://apnews.com/article/harris-trump-election-f5903d49488ebc733d7ba5812b36f935)
     * ['Obamacare' enrollment opens, as Republicans threaten the health insurance program used by millions](https://apnews.com/article/obamacare-affordable-care-act-harris-trump-kamala-9ac518845f3fd085bc68dcceed16b2c1)
-    * [Some 8,000 North Korean troops at Ukraine's border expected in combat soon, US says](https://apnews.com/article/south-korea-north-korea-troops-russia-ukraine-9ee96dc1d4f07ac0813c698e6873f96b)
+    * [About 8,000 North Korean troops at Ukraine's border are expected in combat in days, US says](https://apnews.com/article/south-korea-north-korea-troops-russia-ukraine-9ee96dc1d4f07ac0813c698e6873f96b)
     
     Newsletters
     
@@ -562,9 +556,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Dodgers win World Series in 5 games, overcome 5-run deficit with help of errors to beat Yankees 7-6](https://apnews.com/article/world-series-dodgers-yankees-score-bd8e555b9bb5a321fff527e78e0ba637)
-    * [Los Angeles sees city bus burned, store thefts and rowdy crowds after Dodgers win World Series](https://apnews.com/article/dodgers-world-series-crowds-bus-burned-arrests-a42e1c2b4a069cb6cf3c92572000ecbc)
-    * [Saunas, reindeer and hockey: Stars and Panthers enjoy their time in Finland before 2-game series](https://apnews.com/article/nhl-finland-panthers-stars-1104097fc1939311f6e6935170b0f9da)
+    * [World Series champion Dodgers have eye on back-to-back titles with Ohtani returning to mound in 2025](https://apnews.com/article/los-angeles-dodgers-world-series-e235fa599eaf4ae8f96281e3cf3a2bdf)
+    * [After sloppy, bitter disappointment in World Series, Yankees turn attention to keeping Juan Soto](https://apnews.com/article/yankees-2024-what-happened-3ccfdf56ca13229c6310a106ff41da8a)
+    * [Bob Costas retiring from baseball play-by-play after 42 years](https://apnews.com/article/bob-costas-retires-baseball-1ce422d7c087c3fc162f4a535fa1f7f0)
     
     Newsletters
     
@@ -591,9 +585,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Beyoncé, Shaboozey and Post Malone topped country in 2024. How will Grammy voters respond?](https://apnews.com/article/beyonce-shaboozey-post-malone-2025-grammy-country-960555ab5de82ab630677677eb299a2e)
-    * [Film academy adds handwritten ‘Pulp Fiction’ script, Miyazaki art, more to vast collection](https://apnews.com/article/academy-museum-tarantino-pulp-fiction-script-ca61c46b0919bf6cc534ec804e837ec4)
-    * ['Saturday Night Live' taps comedian-actor Bill Burr and Charli XCX as hosts for after the election](https://apnews.com/article/bill-burr-snl-charlie-xcx-16807b9bbc6183ff0c9c000f467cdef2)
+    * [Rapper Young Thug pleads guilty to gang, drug and gun charges](https://apnews.com/article/young-thug-trial-guilty-plea-581c38d53dc37f86d5b038f6c23e4b77)
+    * [‘Dances with Wolves’ actor is again indicted on sexual abuse charges in Nevada](https://apnews.com/article/nathan-chasing-horse-sexual-abuse-charges-05098564b193d5059aca9d694149c09e)
+    * [Prosecutors say lawyers for Sean 'Diddy' Combs want to 'hijack' criminal case to fight civil claims](https://apnews.com/article/sean-combs-diddy-racketeering-charges-0a3e73a787471ffb57544cf90170c2e5)
     
 * [Business](https://apnews.com/business)
     
@@ -608,8 +602,8 @@ Submit Search
     
     TOP STORIES
     
+    * [Apple sells $46 billion worth of iPhones over the summer as AI helps end slump](https://apnews.com/article/apple-iphone-quarterly-results-artificial-intelligence-377452ea3345de2981ea75f62b7cc840)
     * [Inflation gauge closely watched by the Fed falls to lowest level since early 2021](https://apnews.com/article/inflation-prices-election-federal-reserve-rates-economy-e4ff4b6745ea1c8badd6a0502f372f25)
-    * [Microsoft reports quarterly sales up 16% to $65.6 billion as investors ask if AI spending worth it](https://apnews.com/article/microsoft-earnings-ai-azure-copilot-7d11b44d6c0eecae11bdbb4327ae85f5)
     * [US applications for jobless benefits fall as layoffs remain at historically healthy levels](https://apnews.com/article/unemployment-benefits-jobless-claims-layoffs-labor-5df78bd6efc13a449b242df66b1dc57c)
     
 * [Science](https://apnews.com/science)
@@ -645,12 +639,12 @@ Submit Search
     
     TOP STORIES
     
+    * [He’s fast, feisty and could play Quidditch. Meet the bat that won a beauty contest](https://apnews.com/article/bat-beauty-contest-winners-halloween-hoary-potter-e22d796cb65551e15dfc7c8ad276e650)
+    * [Kentucky Gov. Andy Beshear shows off his 'Ted Lasso' look on Halloween](https://apnews.com/article/kentucky-andy-beshear-ted-lasso-halloween-d78c41b1198f645ab0be2416e58c3ada)
+    * [Instagram-famous squirrel named Peanut seized by New York state authorities](https://apnews.com/article/new-york-pet-squirrel-seized-peanut-pnut-c2baa345d9e76416e0ca6d6e947ee272)
     * [A New Zealand city waves goodbye to its 'disturbing' giant hand sculpture that many came to love](https://apnews.com/article/quasi-giant-hand-wellington-sculpture-zealand-art-cfcd3599eda341b78741dcfcf519edbd)
     * [In a first since 1938, Des Moines, Iowa, kids will trick-or-treat on Halloween](https://apnews.com/article/beggars-night-des-moines-iowa-halloween-26710c8e3564d461b6868313f7f71425)
     * [He's the world's tallest teen — and is set to make college basketball history](https://apnews.com/article/worlds-tallest-teenager-d1c918fb54100a09a9c7db648c4ef71d)
-    * [Rare dime bought by Ohio farm family and hidden for decades fetches $500,000 at auction](https://apnews.com/article/rare-dime-sold-c757327ec6540bf9e5132fdadc292886)
-    * [Timothée Chalamet crashes his own look-alike contest after police shut down crowded event](https://apnews.com/article/timothee-chalamet-lookalike-dune-7acc6bda7612cb72eca31d2cc0106028)
-    * [British chef Jamie Oliver urges followers to help solve the 'grate cheese robbery'](https://apnews.com/article/great-cheese-theft-london-cheddar-jamie-oliver-fbaf6d697cd5c7e00de1c95d33837d52)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -731,19 +725,19 @@ Submit Search
     
     TOP STORIES
     
-    * [Spain's horrific flooding another nasty hit in a fall where climate extremes just keep coming](https://apnews.com/article/spain-valencia-flooding-rain-climate-change-c77c6b49272420eea1d6324dd3016823)
+    * [Climate change is making extreme downpours in Spain heavier and more likely, scientists say](https://apnews.com/article/spain-valencia-flooding-rain-climate-change-a183db96064cb5a9e82fc58c92338f38)
     * [Fourth mass coral bleaching prompts UN emergency session at Colombia biodiversity summit](https://apnews.com/article/coral-un-bleaching-extinction-emergency-cop16-cali-colombia-ed4439fe10ac76a79443dbeab2c343c1)
-    * ['All I can think about is hotter days.' Voter campaigns target Latinas worried about climate change](https://apnews.com/article/climate-change-election-2024-harris-trump-latinas-45b381be45eb4966636e13ffc4b3e025)
+    * [World may be merely scratching the surface on the scope of climate-changing methane emissions](https://apnews.com/article/methane-satellite-monitoring-ghgsat-climate-change-c5bdd53058cdcbf0c83a6a1080398222)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [A promising schizophrenia drug showed mixed results. What does that mean for patients?](https://apnews.com/article/schizophrenia-cobenfy-bristol-myers-squibb-37d550fb7c4ed71e4fcea85ded4ae5a9)
     * [McDonald's E. coli case count rises as federal officials inspect an onion grower](https://apnews.com/article/mcdonalds-e-coli-outbreak-quarter-pounder-a38666eaf2c38dccc99c00d72879928c)
     * [1st US case of bird flu in a pig raises concerns over potential human threat](https://apnews.com/article/bird-flu-pig-oregon-1f340a8f8c781e20478cbddabd2d9e18)
     * [Winter depression is real and there are many ways to fight back](https://apnews.com/article/seasonal-affective-disorder-sad-depression-winter-370fdaf388a65e5b31400f61d97d0575)
     * [Teen fights kidney failure after eating McDonald's Quarter Pounders](https://apnews.com/article/mcdonalds-e-coli-food-poisoning-acb6d87f6182b42295d16625480525b0)
-    * [People opt out of organ donation programs after reports of a man mistakenly declared dead](https://apnews.com/article/organ-donor-transplant-kentucky-8f42ad402445a91e981327abb009906c)
     * ['Obamacare' enrollment opens, as Republicans threaten the health insurance program used by millions](https://apnews.com/article/obamacare-affordable-care-act-harris-trump-kamala-9ac518845f3fd085bc68dcceed16b2c1)
     
 * [Tech](https://apnews.com/technology)
@@ -757,9 +751,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Apple sells $46 billion worth of iPhones over the summer as AI helps end slump](https://apnews.com/article/apple-iphone-quarterly-results-artificial-intelligence-377452ea3345de2981ea75f62b7cc840)
     * [Google Maps adds AI features to help users explore and navigate the world around them](https://apnews.com/article/google-maps-artificial-intelligence-entertainment-suggestions-bceb1ea762b3ac4a7a5a950fc4924756)
-    * [New York semiconductor site picked for $825 million in funding](https://apnews.com/article/new-york-semiconductor-nanotech-lab-albany-42ee39316c32718c729e526354254724)
-    * [Voting rights groups worry AI models are generating inaccurate and misleading responses in Spanish](https://apnews.com/article/ai-chatbots-chatgpt-falsehoods-spanish-latino-voters-d4ffabdc006a7c70eece3e28efa3de90)
+    * [ChatGPT will now work as a search engine as OpenAI partners with some news outlets](https://apnews.com/article/chatgpt-search-engine-openai-google-4145b609eb1df0d48a10f4d6f4ea7201)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -777,17 +771,17 @@ Submit Search
     
     TOP STORIES
     
+    * [Trump and Harris both support a bigger child tax credit. But which families should get it?](https://apnews.com/article/child-tax-credit-poverty-cc423366a1a6f2299fb23ed169045b7b)
     * [Working Well: Seeking the elusive work-life balance, one step at a time](https://apnews.com/article/wellness-work-balance-stress-reduction-cancer-6f6e522e68d698315e0007bb34cb6ef2)
-    * [Ex-Disney worker accused of hacking computer menus to add profanities, errors](https://apnews.com/article/disney-arrest-florida-orlando-theme-parks-0c075b6ff23f3d57fe44be6ea1a85407)
-    * [Google Maps adds AI features to help users explore and navigate the world around them](https://apnews.com/article/google-maps-artificial-intelligence-entertainment-suggestions-bceb1ea762b3ac4a7a5a950fc4924756)
+    * [No trick! Halloween temperatures soar above normal in Northeast](https://apnews.com/article/halloween-weather-new-york-northeast-82c61126a7cc3cc617115db1c54851b0)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [From the steppes with shamanism: The Hu makes hits with praises to the sky deity](https://apnews.com/article/mongolia-band-hu-religion-heavy-metal-music-77e8beaa888258803bd9eb8bf846ac44)
     * [Then & Now: How immigration reshaped the look of a Minnesota farm town](https://apnews.com/article/immigration-policy-integration-minnesota-history-churches-business-soccer-5385d18481c901ee1faeec19c16ebf6d)
     * [In Amharic, Karen and Spanish, worship is like home for migrants in heartland town](https://apnews.com/article/immigration-policy-integration-religion-churches-minnesota-ethiopia-karen-8b2fdb67d7d8f82c0ed6dd2d0da1cb6d)
-    * [Takeaways from AP's report on how immigration transformed a Minnesota farm town](https://apnews.com/article/2024-election-immigration-policy-integration-minnesota-education-economy-019135a73205346a310eb1595da88d86)
     
     Newsletters
     
@@ -803,10 +797,10 @@ Submit Search
     
     * [Preocupados defensores de derechos electorales en EEUU por información de IA incorrecta en español](https://apnews.com/article/eeuu-hispanos-inteligencia-artificial-elecciones-desinformacion-15ed781dd93aa56b29fa3797837ea22c)
     * [España busca más víctimas tras unas inundaciones históricas que dejaron al menos 158 muertos](https://apnews.com/article/espana-valencia-inundaciones-muertos-tormenta-84dab89c07dbc6cd1a7b9823802737fe)
+    * [Sobrevivientes de inundación en España afirman que autoridades tardaron en alertar del peligro](https://apnews.com/article/espana-inundaciones-sobrevivientes-8720c8894b3a93ef2744c81664815ee0)
+    * [Jueza de Brasil condena a dos expolicías por el asesinato en 2018 de la concejala Marielle Franco](https://apnews.com/article/brasil-marielle-franco-juicio-sentencias-8b02898c679d6cb530c9d180c506e7b1)
     * [Los votantes tienen claro el mensaje sobre las elecciones de EEUU: el destino del país está en juego](https://apnews.com/article/eeuu-elecciones-democracia-harris-trump-a58245ed4337c961615a1b043b54ffae)
-    * [La lucha por el control del Senado en EEUU se decide al límite; los gastos rompen récords](https://apnews.com/article/eeuu-elecciones-senado-trump-harris-democratas-republicanos-cdaa79148a3f9086dbd9572d544c85f8)
-    * [Encuesta de AP-NORC: Estadounidenses se sienten ansiosos y frustrados por campaña presidencial](https://apnews.com/article/eeuu-elecciones-harris-trump-ansiedad-sondeo-apnorc-9c23c5be8dac38493ac33c1e6114fa71)
-    * [EEUU dice que unos 8.000 soldados norcoreanos están en región rusa de Kursk](https://apnews.com/article/ucrania-soldados-norcoreanos-rusia-da31fd01b1e1a6a1c72abc57fb7c3628)
+    * [¿Nieve en Hawai? El aire frío y la humedad provocan nevada en la montaña más alta del estado](https://apnews.com/article/hawai-nieve-clima-de0e21541a9e20c64377f6d8fe3837e0)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
