@@ -1,7 +1,7 @@
 PRIVACY POLICY for ibisPaint
 ----------------------------
 
-Last updated: July 23, 2024
+Last updated: October 31, 2024
 
 We, IBIS INC., respect your privacy. As we operate our website and provide you with our services, we process personal data about you in accordance with applicable data protection laws, including the Act on the Protection of Personal Information of Japan.
 
@@ -38,7 +38,7 @@ As we provide you with our services, we collect, use, store, generate or disclos
     2. Lawful basis: Your consent. You can withdraw your consent at any time. Your withdrawal of consent does not affect the lawfulness of our processing of your personal data based on consent before its withdrawal.
     3. Period for which we store your personal data: As long as the user maintains their account of this service or until you withdraw your consent of our services.
     4. Recipients we disclose your personal data to: Our contractors that assist us in advertising.
-4. To analyze your use of our service in order to generate insight that is useful for improving our services, products and marketing:
+4. To analyze your use of our service in order to generate insight that is useful for improving our services, products and marketing, or to advertise to potential customers who have not yet used our services:
     1. Categories of your personal data we process: App UUID, Platform type, App type, Model name, OS version, Region of use, Screen size, User Ad ID, ID created by the UET SDK, and ID that allows Microsoft to identify which ad this application was downloaded from.  
         We collect these categories of your personal data from your activity on the application store.
     2. Lawful basis: Your consent. You can withdraw your consent at any time. Your withdrawal of consent does not affect the lawfulness of our processing of your personal data based on consent before its withdrawal.
@@ -162,6 +162,9 @@ We transfer your personal data to other corporations (some are in overseas) as f
         12. ⑫ PubMatic, Inc.
             1. PubMatic, Inc. is located in Japan.
             2. [https://pubmatic.co.jp/legal/privacy-policy/](https://pubmatic.co.jp/legal/privacy-policy/)
+        13. ⑬ Moloco Inc.
+            1. Moloco Inc. is located in USA.
+            2. [https://www.moloco.com/privacy-policy](https://www.moloco.com/privacy-policy)
 2. Advertisement Distributor
     1. To advertise our services, we transfer data which do not identify personal such as IP address or device information to other corporations called advertisement distributors, which will be listed later.
     2. Transferred data are used by advertisement distributors to measure performance of advertisements or optimize where / how to display the advertisements.
