@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs IND - Stumps](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-tour-of-india-2024 "New Zealand v India, 3rd Test - Stumps")[UAE vs OMAN - Complete](https://www.cricbuzz.com/live-cricket-scores/108921/uae-vs-oman-41st-match-icc-cricket-world-cup-league-two-2023-27 "United Arab Emirates v Oman, 41st Match - Complete")[MLSW vs SYSW - MLSW Won](https://www.cricbuzz.com/live-cricket-scores/101294/mlsw-vs-sysw-9th-match-womens-big-bash-league-2024 "Melbourne Stars Women v Sydney Sixers Women, 9th Match - MLSW Won")[SYTW vs ADSW - SYTW Won](https://www.cricbuzz.com/live-cricket-scores/101288/sytw-vs-adsw-8th-match-womens-big-bash-league-2024 "Sydney Thunder Women v Adelaide Strikers Women, 8th Match - SYTW Won")[INDA vs AUSA - Stumps](https://www.cricbuzz.com/live-cricket-scores/96530/inda-vs-ausa-1st-unofficial-test-india-a-tour-of-australia-2024 "India A v Australia A, 1st unofficial Test - Stumps")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs IND - Stumps](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-tour-of-india-2024 "New Zealand v India, 3rd Test - Stumps")[UAE vs OMAN - OMAN Won](https://www.cricbuzz.com/live-cricket-scores/108921/uae-vs-oman-41st-match-icc-cricket-world-cup-league-two-2023-27 "United Arab Emirates v Oman, 41st Match - OMAN Won")[MLSW vs SYSW - MLSW Won](https://www.cricbuzz.com/live-cricket-scores/101294/mlsw-vs-sysw-9th-match-womens-big-bash-league-2024 "Melbourne Stars Women v Sydney Sixers Women, 9th Match - MLSW Won")[SYTW vs ADSW - SYTW Won](https://www.cricbuzz.com/live-cricket-scores/101288/sytw-vs-adsw-8th-match-womens-big-bash-league-2024 "Sydney Thunder Women v Adelaide Strikers Women, 8th Match - SYTW Won")[INDA vs AUSA - Stumps](https://www.cricbuzz.com/live-cricket-scores/96530/inda-vs-ausa-1st-unofficial-test-india-a-tour-of-australia-2024 "India A v Australia A, 1st unofficial Test - Stumps")
 
 AllLive NowToday
 
@@ -72,7 +72,7 @@ AllLive NowToday
     
     1st ODI
     
-* [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/95151/wi-vs-eng-2nd-odi-west-indies-v-england-2024 "West Indies v England, 2nd ODI - Upcoming")
+* [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/95151/wi-vs-eng-2nd-odi-west-indies-v-england-2024 "West Indies v England, 2nd ODI - Preview")
     
     2nd ODI
     
@@ -82,7 +82,7 @@ AllLive NowToday
     
     40th Match
     
-* [United Arab Emirates vs Oman](https://www.cricbuzz.com/live-cricket-scores/108921/uae-vs-oman-41st-match-icc-cwc-league-two-2023-27 "United Arab Emirates v Oman, 41st Match - Complete")
+* [United Arab Emirates vs Oman](https://www.cricbuzz.com/live-cricket-scores/108921/uae-vs-oman-41st-match-icc-cwc-league-two-2023-27 "United Arab Emirates v Oman, 41st Match - OMAN Won")
     
     41st Match
     
@@ -102,13 +102,13 @@ AllLive NowToday
     
     1st Match
     
-* [Knights vs Boland](https://www.cricbuzz.com/live-cricket-scores/104738/kng-vs-bol-2nd-match-csa-four-day-series-division-one-2024-25 "Knights v Boland, 2nd Match - Stumps")
-    
-    2nd Match
-    
 * [Warriors vs North West](https://www.cricbuzz.com/live-cricket-scores/104740/war-vs-nwest-3rd-match-csa-four-day-series-division-one-2024-25 "Warriors v North West, 3rd Match - Stumps")
     
     3rd Match
+    
+* [Knights vs Boland](https://www.cricbuzz.com/live-cricket-scores/104738/kng-vs-bol-2nd-match-csa-four-day-series-division-one-2024-25 "Knights v Boland, 2nd Match - Stumps")
+    
+    2nd Match
     
 * Sheffield Shield 2024-25
     
@@ -132,11 +132,7 @@ AllLive NowToday
     
 * The Ford Trophy 2024-25
     
-    [Northern Knights vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107323/nk-vs-akl-14th-match-the-ford-trophy-2024-25 "Northern Knights v Auckland, 14th Match - Upcoming")
-    
-    14th Match
-    
-* [Canterbury vs Central Districts](https://www.cricbuzz.com/live-cricket-scores/107315/cntbry-vs-cd-13th-match-the-ford-trophy-2024-25 "Canterbury v Central Districts, 13th Match - Upcoming")
+    [Canterbury vs Central Districts](https://www.cricbuzz.com/live-cricket-scores/107315/cntbry-vs-cd-13th-match-the-ford-trophy-2024-25 "Canterbury v Central Districts, 13th Match - Upcoming")
     
     13th Match
     
@@ -144,9 +140,13 @@ AllLive NowToday
     
     15th Match
     
+* [Northern Knights vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107323/nk-vs-akl-14th-match-the-ford-trophy-2024-25 "Northern Knights v Auckland, 14th Match - Upcoming")
+    
+    14th Match
+    
 * CSA Four-Day Series Division Two 2024-25
     
-    [Limpopo vs Eastern Storm  LIVE](https://www.cricbuzz.com/live-cricket-scores/104322/limpo-vs-estorm-2nd-match-csa-four-day-series-division-two-2024-25 "Limpopo v Eastern Storm, 2nd Match - Live")
+    [Limpopo vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/104322/limpo-vs-estorm-2nd-match-csa-four-day-series-division-two-2024-25 "Limpopo v Eastern Storm, 2nd Match - Ings Break")
     
     2nd Match
     
@@ -507,41 +507,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132304/mohali-to-chattogram-rabadas-south-africa-rollercoaster "Mohali to Chattogram - Rabada's South Africa rollercoaster")
+
+[Mohali to Chattogram - Rabada's South Africa rollercoaster](https://www.cricbuzz.com/cricket-news/132304/mohali-to-chattogram-rabadas-south-africa-rollercoaster "Mohali to Chattogram - Rabada's South Africa rollercoaster")
+
+3h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132303/najmul-hossain-to-lead-bangladesh-against-afghanistan-in-three-odis "Najmul Hossain to lead Bangladesh against Afghanistan in three-ODIs")
+
+[Najmul Hossain to lead Bangladesh against Afghanistan in three-ODIs](https://www.cricbuzz.com/cricket-news/132303/najmul-hossain-to-lead-bangladesh-against-afghanistan-in-three-odis "Najmul Hossain to lead Bangladesh against Afghanistan in three-ODIs")
+
+3h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132302/india-fumble-early-shot-at-redemption-in-mumbai "India fumble early shot at redemption in Mumbai")
+
+[India fumble early shot at redemption in Mumbai](https://www.cricbuzz.com/cricket-news/132302/india-fumble-early-shot-at-redemption-in-mumbai "India fumble early shot at redemption in Mumbai")
+
+5h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132301/battered-england-seek-quick-turnaround "Battered England seek quick turnaround")
+
+[Battered England seek quick turnaround](https://www.cricbuzz.com/cricket-news/132301/battered-england-seek-quick-turnaround "Battered England seek quick turnaround")
+
+5h ago
+
   [](https://www.cricbuzz.com/cricket-news/132300/georgia-volls-92-headlines-thunders-sizzling-win "Georgia Voll's 92 headlines Thunder's sizzling win")
 
 [Georgia Voll's 92 headlines Thunder's sizzling win](https://www.cricbuzz.com/cricket-news/132300/georgia-volls-92-headlines-thunders-sizzling-win "Georgia Voll's 92 headlines Thunder's sizzling win")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132299/new-zealand-claw-back-with-late-wickets-on-topsy-turvy-day "NZ claw back with late wickets on topsy-turvy day")
 
 [NZ claw back with late wickets on topsy-turvy day](https://www.cricbuzz.com/cricket-news/132299/new-zealand-claw-back-with-late-wickets-on-topsy-turvy-day "NZ claw back with late wickets on topsy-turvy day")
 
-1h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132298/mukesh-kumars-six-fer-padikkal-sudharsan-stand-put-india-a-on-top "Mukesh Kumar's six-fer, Padikkal-Sudharsan stand put India A on top")
-
-[Mukesh Kumar's six-fer, Padikkal-Sudharsan stand put India A on top](https://www.cricbuzz.com/cricket-news/132298/mukesh-kumars-six-fer-padikkal-sudharsan-stand-put-india-a-on-top "Mukesh Kumar's six-fer, Padikkal-Sudharsan stand put India A on top")
-
-2h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132297/jadeja-pegs-back-new-zealand-after-young-mitchell-fifties "Jadeja keeps India in front amidst Young, Mitchell fifties")
-
-[Jadeja keeps India in front amidst Young, Mitchell fifties](https://www.cricbuzz.com/cricket-news/132297/jadeja-pegs-back-new-zealand-after-young-mitchell-fifties "Jadeja keeps India in front amidst Young, Mitchell fifties")
-
-4h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132296/australia-confirm-schedule-for-sri-lanka-tour "Australia confirm schedule for Sri Lanka tour")
-
-[Australia confirm schedule for Sri Lanka tour](https://www.cricbuzz.com/cricket-news/132296/australia-confirm-schedule-for-sri-lanka-tour "Australia confirm schedule for Sri Lanka tour")
-
-6h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132295/sundars-twin-strikes-nullify-nzs-steady-start "Sundar's twin strikes nullify NZ's steady start")
-
-[Sundar's twin strikes nullify NZ's steady start](https://www.cricbuzz.com/cricket-news/132295/sundars-twin-strikes-nullify-nzs-steady-start "Sundar's twin strikes nullify NZ's steady start")
-
-6h ago
+7h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
