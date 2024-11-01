@@ -107,23 +107,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 395 1
+0 409 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/blaidd-fromsoftware-and-etc-created-by-hanukami/)
+[](https://yiff-party.com/yiff/directed-by-a-tair-in-reality/)
 
-[blaidd (fromsoftware and etc) created by hanukami](https://yiff-party.com/yiff/blaidd-fromsoftware-and-etc-created-by-hanukami/)
+[directed by a tair in reality](https://yiff-party.com/yiff/directed-by-a-tair-in-reality/)
 
-0 73 0
+0 64 0
 
 October 2, 2024
 
-[](https://yiff-party.com/yiff-gif/alien-franchise-created-by-bna-v5/)
+[](https://yiff-party.com/yiff/ochette/)
 
-[alien (franchise) created by bna v5](https://yiff-party.com/yiff-gif/alien-franchise-created-by-bna-v5/)
+[ochette](https://yiff-party.com/yiff/ochette/)
 
-0 1 0
+0 2 0
 
 November 1, 2024
 
