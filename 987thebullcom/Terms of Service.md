@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| I Got A GuyPost Malone Ft Luke Combs<br><br>11:35pm |
-| Save MeJelly Roll Ft Lainey Wilson<br><br>11:31pm |
-| Lies, Lies, LiesMorgan Wallen<br><br>11:28pm |
-| Head Over BootsJon Pardi<br><br>11:24pm |
-| Where It EndsBailey Zimmerman<br><br>11:21pm |
+| Somethin Bout A TruckKip Moore<br><br>4:56am |
+| Heart Like A TruckLainey Wilson<br><br>4:53am |
+| Cowboy SongsGeorge Birge<br><br>4:49am |
+| White HorseChris Stapleton<br><br>4:46am |
+| I Ain'T Sayin'Jordan Davis<br><br>4:43am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Country • Western
+Sports • Midwest
 
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Country • Western
+Top 40 • Pacific NW
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-News Talk • Eastern
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
