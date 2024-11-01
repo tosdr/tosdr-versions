@@ -72,7 +72,7 @@ Account
 Lifestyle
 ---------
 
-[Grilling Season](https://weather.com/home-garden/grilling)[Home & Garden](https://weather.com/home-garden)[Travel & Outdoors](https://weather.com/travel)[Pets & Animals](https://weather.com/pets)[GamesNEWExternal Link](https://puzzmoinc.sjv.io/c/5131646/1928172/21275)
+[Grilling Season](https://weather.com/home-garden/grilling)[Home & Garden](https://weather.com/home-garden)[Travel & Outdoors](https://weather.com/travel)[Pets & Animals](https://weather.com/pets)[GamesExternal Link](https://puzzmoinc.sjv.io/c/5131646/1928172/21275)
 
 Privacy
 -------
