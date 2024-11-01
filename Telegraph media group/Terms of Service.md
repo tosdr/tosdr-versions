@@ -2,7 +2,7 @@
 
 UK News Website of the Year 2024
 
-[](https://www.telegraph.co.uk/)
+[Poppy](https://www.telegraph.co.uk/)
 
 [Search Icon](https://www.telegraph.co.uk/search/)
 
@@ -579,7 +579,7 @@ More stories
 More from The Telegraph
 -----------------------
 
-[The Telegraph](https://www.telegraph.co.uk/)
+[The Telegraph Poppy](https://www.telegraph.co.uk/)
 
 [Back to top](#navigation)
 
