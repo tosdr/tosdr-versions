@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/mortal-kombat-1-ghostface-release-date-set/)
+    [](https://player.me/the-first-descendant-season-2-update/)
     
-    ![Mortal Kombat 1 Ghostface Release Date Set for November 19 for Early Access Players and November 26 for All](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![The First Descendant Season 2 Update: Everything You Need to Know Before December 5](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/mortal-kombat-1-ghostface-release-date-set/)
+    [](https://player.me/the-first-descendant-season-2-update/)
     
-    ![Mortal Kombat 1 Ghostface Release Date Set for November 19 for Early Access Players and November 26 for All](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![The First Descendant Season 2 Update: Everything You Need to Know Before December 5](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,32 @@ TRENDING
 *   Back
 * The Last of Us
 
+![The First Descendant Season 2 Update: Everything You Need to Know Before December 5](https://player.me/wp-content/uploads/2024/11/The-First-Descendant-Season-2-Update.png)
+
+[The First Descendant Season 2 Update: Everything You Need to Know Before December 5](https://player.me/the-first-descendant-season-2-update/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 1, 2024/
+
+Nexon Games is gearing up for The First Descendant season 2 update on December 5, following the game’s July 2…
+
+[Read More](https://player.me/the-first-descendant-season-2-update/)
+
+![Ranking the 10 Best NBA 2K25 Point Guards: Is Stephen Curry or Luka Doncic Better?](https://player.me/wp-content/uploads/2024/11/Ranking-the-10-Best-NBA-2K25-Point-Guards_-Is-Stephen-Curry-or-Luka-Doncic-Better.png)
+
+[Ranking the 10 Best NBA 2K25 Point Guards: Is Stephen Curry or Luka Doncic Better?](https://player.me/ranking-the-10-best-nba-2k25-point-guards/)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 1, 2024/
+
+Point guards are the backbone of offence, excelling at shooting and dribbling in the NBA. Thus, as modern games tend…
+
+[Read More](https://player.me/ranking-the-10-best-nba-2k25-point-guards/)
+
 ![Mortal Kombat 1 Ghostface Release Date Set for November 19 for Early Access Players and November 26 for All](https://player.me/wp-content/uploads/2024/10/Mortal-Kombat-1-Ghostface-Release-Date-Set-for-November-19-for-Early-Access-Players-and-November-26-for-All.png)
 
 [Mortal Kombat 1 Ghostface Release Date Set for November 19 for Early Access Players and November 26 for All](https://player.me/mortal-kombat-1-ghostface-release-date-set/)
@@ -218,32 +244,6 @@ October 28, 2024/
 With over three decades of Sonic games to reference, it leverages a vast history of memorable villains for its Sonic…
 
 [Read More](https://player.me/sonic-x-shadow-generations-bosses-guide/)
-
-![Rory McIlroy PGA Tour: A Retrospective Look as EA Prepares to Shut Down Servers on January 16, 2025](https://player.me/wp-content/uploads/2024/10/Rory-McIlroy-PGA-Tour_-A-Retrospective-Look-as-EA-Prepares-to-Shut-Down-Servers-on-January-16-2025.png)
-
-[Rory McIlroy PGA Tour: A Retrospective Look as EA Prepares to Shut Down Servers on January 16, 2025](https://player.me/ea-prepares-to-shut-down-rory-mcilroy-pga-tour-in-2025/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 25, 2024/
-
-EA’s Rory McIlroy PGA Tour is shutting down its online services on January 16, 2025, effectively ending an era of…
-
-[Read More](https://player.me/ea-prepares-to-shut-down-rory-mcilroy-pga-tour-in-2025/)
-
-![Croc: Legend of the Gobbos Remaster Is Skipping Steam, but Players Can Still Play on PC](https://player.me/wp-content/uploads/2024/10/Croc——-Legend-of-the-Gobbos-Remaster-Is-Skipping-Steam-but-Players-Can-Still-Play-on-PC.png)
-
-[Croc: Legend of the Gobbos Remaster Is Skipping Steam, but Players Can Still Play on PC](https://player.me/croc-legend-of-the-gobbos-remaster-is-skipping-steam/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 25, 2024/
-
-Argonaut Games recently confirmed that the beloved 1997 platformer Croc: Legend of the Gobbos will return in an HD remaster.…
-
-[Read More](https://player.me/croc-legend-of-the-gobbos-remaster-is-skipping-steam/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,32 @@ GAMING
 *   Back
 * The Last of Us
 
+![The First Descendant Season 2 Update: Everything You Need to Know Before December 5](https://player.me/wp-content/uploads/2024/11/The-First-Descendant-Season-2-Update.png)
+
+[The First Descendant Season 2 Update: Everything You Need to Know Before December 5](https://player.me/the-first-descendant-season-2-update/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 1, 2024/
+
+Nexon Games is gearing up for The First Descendant season 2 update on December 5, following the game’s July 2…
+
+[Read More](https://player.me/the-first-descendant-season-2-update/)
+
+![Ranking the 10 Best NBA 2K25 Point Guards: Is Stephen Curry or Luka Doncic Better?](https://player.me/wp-content/uploads/2024/11/Ranking-the-10-Best-NBA-2K25-Point-Guards_-Is-Stephen-Curry-or-Luka-Doncic-Better.png)
+
+[Ranking the 10 Best NBA 2K25 Point Guards: Is Stephen Curry or Luka Doncic Better?](https://player.me/ranking-the-10-best-nba-2k25-point-guards/)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 1, 2024/
+
+Point guards are the backbone of offence, excelling at shooting and dribbling in the NBA. Thus, as modern games tend…
+
+[Read More](https://player.me/ranking-the-10-best-nba-2k25-point-guards/)
+
 ![Mortal Kombat 1 Ghostface Release Date Set for November 19 for Early Access Players and November 26 for All](https://player.me/wp-content/uploads/2024/10/Mortal-Kombat-1-Ghostface-Release-Date-Set-for-November-19-for-Early-Access-Players-and-November-26-for-All.png)
 
 [Mortal Kombat 1 Ghostface Release Date Set for November 19 for Early Access Players and November 26 for All](https://player.me/mortal-kombat-1-ghostface-release-date-set/)
@@ -379,32 +405,6 @@ October 25, 2024/
 Argonaut Games recently confirmed that the beloved 1997 platformer Croc: Legend of the Gobbos will return in an HD remaster.…
 
 [Read More](https://player.me/croc-legend-of-the-gobbos-remaster-is-skipping-steam/)
-
-![LazyFlock’s New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs](https://player.me/wp-content/uploads/2024/10/LazyFlocks-New-Haunted-Paws-Co-op-Horror-Game-Allows-Players-to-Adventure-as-Dogs.png)
-
-[LazyFlock’s New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs](https://player.me/haunted-paws-allows-players-to-adventure-as-dogs/)
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 24, 2024/
-
-Indie game developer LazyFlock has announced Haunted Paws. In this cozy yet spooky co-op horror game, players take on the…
-
-[Read More](https://player.me/haunted-paws-allows-players-to-adventure-as-dogs/)
-
-![Diablo 4 Halloween Event Guide: Everything You Need to Know About Diablo 4’s Macabre Celebration](https://player.me/wp-content/uploads/2024/10/Diablo-4-Halloween-Event-Guide.png)
-
-[Diablo 4 Halloween Event Guide: Everything You Need to Know About Diablo 4’s Macabre Celebration](https://player.me/diablo-4-halloween-event-guide/)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 24, 2024/
-
-Diablo 4 fans have been sinking their teeth into the new Vessel of Hatred expansion for a few weeks, but…
-
-[Read More](https://player.me/diablo-4-halloween-event-guide/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -817,6 +817,18 @@ Apple’s highly anticipated ‘It’s Glowtime’ event dazzled the tech world 
 
 player.me
 
+[](https://player.me/the-first-descendant-season-2-update/ "The First Descendant Season 2 Update: Everything You Need to Know Before December 5")
+
+[The First Descendant Season 2 Update: Everything You Need to Know Before December 5](https://player.me/the-first-descendant-season-2-update/)
+
+November 1, 2024
+
+[](https://player.me/ranking-the-10-best-nba-2k25-point-guards/ "Ranking the 10 Best NBA 2K25 Point Guards: Is Stephen Curry or Luka Doncic Better?")
+
+[Ranking the 10 Best NBA 2K25 Point Guards: Is Stephen Curry or Luka Doncic Better?](https://player.me/ranking-the-10-best-nba-2k25-point-guards/)
+
+November 1, 2024
+
 [](https://player.me/mortal-kombat-1-ghostface-release-date-set/ "Mortal Kombat 1 Ghostface Release Date Set for November 19 for Early Access Players and November 26 for All")
 
 [Mortal Kombat 1 Ghostface Release Date Set for November 19 for Early Access Players and November 26 for All](https://player.me/mortal-kombat-1-ghostface-release-date-set/)
@@ -853,22 +865,10 @@ October 28, 2024
 
 October 28, 2024
 
-[](https://player.me/ea-prepares-to-shut-down-rory-mcilroy-pga-tour-in-2025/ "Rory McIlroy PGA Tour: A Retrospective Look as EA Prepares to Shut Down Servers on January 16, 2025")
-
-[Rory McIlroy PGA Tour: A Retrospective Look as EA Prepares to Shut Down Servers on January 16, 2025](https://player.me/ea-prepares-to-shut-down-rory-mcilroy-pga-tour-in-2025/)
-
-October 25, 2024
-
-[](https://player.me/croc-legend-of-the-gobbos-remaster-is-skipping-steam/ "Croc: Legend of the Gobbos Remaster Is Skipping Steam, but Players Can Still Play on PC")
-
-[Croc: Legend of the Gobbos Remaster Is Skipping Steam, but Players Can Still Play on PC](https://player.me/croc-legend-of-the-gobbos-remaster-is-skipping-steam/)
-
-October 25, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 576,248 times, 8 visit(s) today
+Visited 576,286 times, 46 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
