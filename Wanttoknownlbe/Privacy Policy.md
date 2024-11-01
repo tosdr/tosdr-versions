@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/universum/ufo/de-belangrijkste-overgang-deel-10/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/de-hcq-misleidingsinfo-van-de-volkskrant/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
