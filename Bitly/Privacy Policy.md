@@ -1,10 +1,10 @@
 [Skip Navigation](#content)
 
-[![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1729518575/pages/wp-content/uploads/2021/08/bitly_logo.svg)](https://bitly.com/)
+[![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1730412115/pages/wp-content/uploads/2021/08/bitly_logo.svg)](https://bitly.com/)
 
 Menu
 
- [![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1729518575/pages/wp-content/uploads/2021/08/bitly_logo.svg)](https://bitly.com/)Menu
+ [![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1730412115/pages/wp-content/uploads/2021/08/bitly_logo.svg)](https://bitly.com/)Menu
 
 Menu
 
@@ -12,33 +12,33 @@ Menu
     
     ### Products
     
-    * ![Url Shortener Icon](https://docrdsfx76ssb.cloudfront.net/static/1729518575/pages/wp-content/uploads/2024/05/link-icon.svg)[URL Shortener  
+    * ![Url Shortener Icon](https://docrdsfx76ssb.cloudfront.net/static/1730412115/pages/wp-content/uploads/2024/05/link-icon.svg)[URL Shortener  
         **Customize, share and track links**](https://bitly.com/pages/products/url-shortener)
-    * ![Qr Code Icon](https://docrdsfx76ssb.cloudfront.net/static/1729518575/pages/wp-content/uploads/2024/05/qr-icon.svg)[QR Code Generator  
+    * ![Qr Code Icon](https://docrdsfx76ssb.cloudfront.net/static/1730412115/pages/wp-content/uploads/2024/05/qr-icon.svg)[QR Code Generator  
         **Dynamic solutions to fit every business need**](https://bitly.com/pages/products/qr-codes)
-    * ![Barcode Icon](https://docrdsfx76ssb.cloudfront.net/static/1729518575/pages/wp-content/uploads/2024/05/barcode-icon.svg)[2D Barcodes  
+    * ![Barcode Icon](https://docrdsfx76ssb.cloudfront.net/static/1730412115/pages/wp-content/uploads/2024/05/barcode-icon.svg)[2D Barcodes  
         **Add a Global Trade Number (GTIN) to QR Codes designed for packaging**](https://bitly.com/pages/products/2d-barcodes)
-    * ![Analytics Icon](https://docrdsfx76ssb.cloudfront.net/static/1729518575/pages/wp-content/uploads/2024/05/analytics-icon.svg)[Analytics  
-        **A central place to track and analyze performance of all short links and QR Codes**](https://bitly.com/pages/products/analytics)
-    * ![Link in BIO icon](https://docrdsfx76ssb.cloudfront.net/static/1729518575/pages/wp-content/uploads/2024/05/link-in-bio-icon.svg)[Pages  
+    * ![Analytics Icon](https://docrdsfx76ssb.cloudfront.net/static/1730412115/pages/wp-content/uploads/2024/05/analytics-icon.svg)[Analytics  
+        **A central place to track and analyze performance**](https://bitly.com/pages/products/analytics)
+    * ![Link in BIO icon](https://docrdsfx76ssb.cloudfront.net/static/1730412115/pages/wp-content/uploads/2024/05/link-in-bio-icon.svg)[Pages  
         **Mobile-friendly, no-code landing pages**](https://bitly.com/pages/products/pages)
     
     ### Features
     
-    * ![Link in BIO icon](https://docrdsfx76ssb.cloudfront.net/static/1729518575/pages/wp-content/uploads/2024/05/link-in-bio-1.svg)[Link-in-bio  
+    * ![Link in BIO icon](https://docrdsfx76ssb.cloudfront.net/static/1730412115/pages/wp-content/uploads/2024/05/link-in-bio-1.svg)[Link-in-bio  
         **Curate and track links and content for social media profiles**](https://bitly.com/pages/features/link-in-bio)
-    * ![Branded link icon](https://docrdsfx76ssb.cloudfront.net/static/1729518575/pages/wp-content/uploads/2024/05/branded-links.svg)[Branded Links  
+    * ![Branded link icon](https://docrdsfx76ssb.cloudfront.net/static/1730412115/pages/wp-content/uploads/2024/05/branded-links.svg)[Branded Links  
         **Customize links with your brand’s URL**](https://bitly.com/pages/features/branded-links)
-    * ![Mobile link icon](https://docrdsfx76ssb.cloudfront.net/static/1729518575/pages/wp-content/uploads/2024/05/mobile-links.svg)[Mobile Links  
+    * ![Mobile link icon](https://docrdsfx76ssb.cloudfront.net/static/1730412115/pages/wp-content/uploads/2024/05/mobile-links.svg)[Mobile Links  
         **Short links for SMS messages**](https://bitly.com/pages/features/mobile-links)
-    * ![UTM icon](https://docrdsfx76ssb.cloudfront.net/static/1729518575/pages/wp-content/uploads/2024/05/utm-campaigns.svg)[UTM Campaigns  
-        **Track links with UTM parameters**](https://bitly.com/pages/features/utm-links)
+    * ![UTM icon](https://docrdsfx76ssb.cloudfront.net/static/1730412115/pages/wp-content/uploads/2024/05/utm-campaigns.svg)[UTM Campaigns  
+        **Track links and QR Codes with UTM parameters**](https://bitly.com/pages/features/utm-links)
     
     ### Integrations
     
-    [![Logo for Hubspot integration](https://docrdsfx76ssb.cloudfront.net/static/1729518575/pages/wp-content/uploads/2022/12/Hubspot-Logo-150x150.png)
+    [![Logo for Hubspot integration](https://docrdsfx76ssb.cloudfront.net/static/1730412115/pages/wp-content/uploads/2022/12/Hubspot-Logo-150x150.png)
     
-    Bitly Hubspot Connector](https://bitly.com/pages/marketplace/hubspot-2)[![Logo for Canva integration](https://docrdsfx76ssb.cloudfront.net/static/1729518575/pages/wp-content/uploads/2023/08/canva-logo-app-connectors-150x150.png)
+    Bitly Hubspot Connector](https://bitly.com/pages/marketplace/hubspot-2)[![Logo for Canva integration](https://docrdsfx76ssb.cloudfront.net/static/1730412115/pages/wp-content/uploads/2023/08/canva-logo-app-connectors-150x150.png)
     
     Bitly + Canva Integration](https://bitly.com/pages/marketplace/canva)
     
@@ -78,12 +78,12 @@ Menu
     
     ### Use Cases
     
-    * [![](https://docrdsfx76ssb.cloudfront.net/static/1729518575/pages/wp-content/uploads/2024/05/check-circle.svg)Order Confirmation](https://bitly.com/pages/use-case/order-confirmation-and-fulfillment)
-    * [![](https://docrdsfx76ssb.cloudfront.net/static/1729518575/pages/wp-content/uploads/2024/05/user-survey.svg)Surveys and Feedback](https://bitly.com/pages/use-case/surveys-and-feedback)
-    * [![](https://docrdsfx76ssb.cloudfront.net/static/1729518575/pages/wp-content/uploads/2024/05/product-packaging.svg)Product Packaging](https://bitly.com/pages/use-case/product-packaging)
-    * [![](https://docrdsfx76ssb.cloudfront.net/static/1729518575/pages/wp-content/uploads/2024/05/print-ad.svg)Print Advertising](https://bitly.com/pages/use-case/print-advertising)
-    * [![](https://docrdsfx76ssb.cloudfront.net/static/1729518575/pages/wp-content/uploads/2024/05/digital-advertisement.svg)Digital Advertising](https://bitly.com/pages/use-case/digital-advertising)
-    * [![](https://docrdsfx76ssb.cloudfront.net/static/1729518575/pages/wp-content/uploads/2024/05/content-share.svg)Content Sharing](https://bitly.com/pages/use-case/content-sharing)
+    * [![](https://docrdsfx76ssb.cloudfront.net/static/1730412115/pages/wp-content/uploads/2024/05/check-circle.svg)Order Confirmation](https://bitly.com/pages/use-case/order-confirmation-and-fulfillment)
+    * [![](https://docrdsfx76ssb.cloudfront.net/static/1730412115/pages/wp-content/uploads/2024/05/user-survey.svg)Surveys and Feedback](https://bitly.com/pages/use-case/surveys-and-feedback)
+    * [![](https://docrdsfx76ssb.cloudfront.net/static/1730412115/pages/wp-content/uploads/2024/05/product-packaging.svg)Product Packaging](https://bitly.com/pages/use-case/product-packaging)
+    * [![](https://docrdsfx76ssb.cloudfront.net/static/1730412115/pages/wp-content/uploads/2024/05/print-ad.svg)Print Advertising](https://bitly.com/pages/use-case/print-advertising)
+    * [![](https://docrdsfx76ssb.cloudfront.net/static/1730412115/pages/wp-content/uploads/2024/05/digital-advertisement.svg)Digital Advertising](https://bitly.com/pages/use-case/digital-advertising)
+    * [![](https://docrdsfx76ssb.cloudfront.net/static/1730412115/pages/wp-content/uploads/2024/05/content-share.svg)Content Sharing](https://bitly.com/pages/use-case/content-sharing)
     
 * [Pricing](https://bitly.com/pages/pricing)
 * Resources
@@ -108,7 +108,7 @@ Menu
     
     ### What's new
     
-    [![QR Codes and the Future of Retail Webinar Recap](https://docrdsfx76ssb.cloudfront.net/static/1729518575/pages/wp-content/uploads/2023/11/site_resource_qr-future-1.png)
+    [![QR Codes and the Future of Retail Webinar Recap](https://docrdsfx76ssb.cloudfront.net/static/1730412115/pages/wp-content/uploads/2023/11/site_resource_qr-future-1.png)
     
     webinar
     
@@ -136,7 +136,7 @@ Please note that our privacy practices are subject to the applicable laws of the
 
 ##### Contact Information
 
-This Privacy Policy describes the policies and procedures of **Bitly, Inc.**, DPT 5006, 601 W. 26th Street, Suite 357 (3rd Floor), New York, NY 10001, the United States, (“Bitly Inc.”), and **Bitly Europe GmbH**, Am Lenkwerk 13, 33609 Bielefeld, Germany (“Bitly Europe”), (Bitly Inc. and Bitly Europe collectively “Bitly”) for the collection, use, and disclosure of personal data about you for which either of us act as the data controller, or for which we act as joint controllers, in accordance with the European Data Protection Regulation (“GDPR”) and other applicable laws.
+This Privacy Policy describes the policies and procedures of **Bitly, Inc.**, DPT 5006, 601 W. 26th Street, Suite 357 (3rd Floor), New York, NY 10001, the United States, (“Bitly Inc.”), and **BK Wirtschaftstreuhand GmbH**, Spichernstraße 1, 10777 Berlin, Germany (“Bitly Europe”), (Bitly Inc. and Bitly Europe collectively “Bitly”) for the collection, use, and disclosure of personal data about you for which either of us act as the data controller, or for which we act as joint controllers, in accordance with the European Data Protection Regulation (“GDPR”) and other applicable laws.
 
 If you have any questions or concerns regarding privacy when using the Services of Bitly wish to use your rights, such as to object to the processing or have your personal data removed, please send us a detailed message to: [privacy@bit.ly](mailto:privacy@bit.ly) for US matters and/or [privacy-eu@bit.ly](mailto:privacy-eu@bit.ly) for EU matters. We will make every effort to resolve your concerns. Please also see “**Rights of Data Subjects**” for more detailed information on your rights as the data subject. The designated data protection officer of Bitly Europe is **DataCo GmbH**, Nymphenburger Str. 86, 80636 Munich, Germany, [datenschutz@dataguard.de](mailto:datenschutz@dataguard.de), [www.dataguard.de](https://www.dataguard.de/).
 
@@ -244,7 +244,7 @@ If you subscribe to our newsletter, request materials available from the website
 
 If you connect with us using various social media platforms and/or professional networks, please note that Btly does not control or have influence over how those platforms process your personal data. We recommend that you contact those third party platforms directly for information on their processing. Here are some links for your convenience:  
 Twitter: [https://twitter.com/de/privacy](https://twitter.com/de/privacy)  
-YouTube: [https://policies.google.com/privacy?gl=DE&hl=en](https://policies.google.com/privacy?gl=DE&hl=en)  
+YouTube: [https://business.safety.google/privacy/](https://business.safety.google/privacy/)  
 LinkedIn: [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy)
 
 Bitly may use third-party APIs and software development kits (“SDKs”) to provide certain functions in our Services. We use cookies and similar technologies for the following purposes: Technically necessary; Comfort; Statistics; Marketing. When we use cookies and/ or similar techniques for processing personal data, the types of personal data processed may vary, depending on the categories of cookies or similar techniques. Non-essential cookies are used only with your consent. You have the option of preventing cookies from being
@@ -419,7 +419,7 @@ For more information about how Facebook can opt out of and opt out of Facebook, 
 
 **Use of Google Maps**
 
-We use the online map service Google Maps of Google LLC (“Google”) to visually display geographical data and embed it in our online presence. Through the use of Google Maps on our online presence, information about the use of our online presence, your IP address and addresses entered with the route plan function are transmitted to a Google server and stored there. Further information on the collection and storage of data by Google can be found here: [https://policies.google.com/privacy?hl=en-GB](https://policies.google.com/privacy?hl=en-GB)
+We use the online map service Google Maps of Google LLC (“Google”) to visually display geographical data and embed it in our online presence. Through the use of Google Maps on our online presence, information about the use of our online presence, your IP address and addresses entered with the route plan function are transmitted to a Google server and stored there. Further information on the collection and storage of data by Google can be found here: [https://business.safety.google/privacy/](https://business.safety.google/privacy/)
 
 Your personal data will be stored for as long as is necessary to fulfill the purposes described in this Privacy Policy or as required by law.
 
@@ -434,7 +434,7 @@ Your personal data will be stored for as long as is necessary to fulfill the pur
 For more information about the Google Tag Manager:
 
 please visit [https://www.google.com/intl/de/tagmanager/faq.html](https://www.google.com/intl/de/tagmanager/faq.html);  
-and see Google’s privacy policy: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
+and see Google’s privacy policy: [https://business.safety.google/privacy/](https://business.safety.google/privacy/)
 
 **Use of Google Ads Conversion Tracking**
 
@@ -449,7 +449,7 @@ The following personal data is processed by Google:
 * Date and time of the server request
 * IP address
 
-However, since we do not control or materially influence the processing of your personal data by Google, we cannot provide any binding information on the purpose and scope of the processing of your data. Further information on the processing of data by Google can be found here: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+However, since we do not control or materially influence the processing of your personal data by Google, we cannot provide any binding information on the purpose and scope of the processing of your data. Further information on the processing of data by Google can be found here: [https://business.safety.google/privacy/](https://business.safety.google/privacy/)
 
 **Use of Google Enhanced Conversions**
 
@@ -471,7 +471,7 @@ The following personal data is processed by Google as a result:
 
 This data is secured by using a one-way hashing algorithm called SHA256. Hashed data maps the original string of characters to data of a fixed length. An algorithm generates the hashed data, which protects the security of the original text. This data can only be linked to a user, if the User has a Google Account for which the same email address is used and the user agreed to personalized advertising in their Google account. Your personal data will be stored for as long as necessary to fulfill the purposes described in this Privacy Policy or as required by law.
 
-However, since we do not control or materially influence the processing of your personal data by Google, we cannot provide any binding information on the purpose and scope of the processing of your data. Further information on the processing of data by Google can be found here: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+However, since we do not control or materially influence the processing of your personal data by Google, we cannot provide any binding information on the purpose and scope of the processing of your data. Further information on the processing of data by Google can be found here: [https://business.safety.google/privacy/](https://business.safety.google/privacy/)
 
 **Use of Google Analytics**
 
@@ -502,7 +502,7 @@ In connection with Destination Preview, there may be advertising delivered by Go
 
 You have the right to revoke your declaration of consent under data protection law at any time. The revocation of the consent does not affect the lawfulness of the processing carried out on the basis of the consent up to the revocation. You may prevent the collection and processing of your personal data by Google by preventing the storage of cookies by third parties on your computer, by using the “Do Not Track” function of a supporting browser, by deactivating the execution of script code in your browser or by installing a script blocker to Google and to prevent the processing of this data by Google by downloading and installing the browser plug-in available under the following link: [https://tools.google.com/dlpage/gaoptout?hl=en](https://tools.google.com/dlpage/gaoptout?hl=en)  
 With the following link you can deactivate the use of your personal data by Google: [https://adssettings.google.de](https://adssettings.google.de/)  
-Further information on objection and removal options against Google can be found at: [https://policies.google.com/privacy?gl=EN&hl=en](https://policies.google.com/privacy?gl=EN&hl=en)
+Further information on objection and removal options against Google can be found at: [https://business.safety.google/privacy/](https://business.safety.google/privacy/)
 
 For more information on terms of use and data protection in connection with Google Analytics, please visit [www.google.com/analytics/terms/de.html](http://www.google.com/analytics/terms/de.html) or [www.google.com/intl/de/analytics/privacyoverview.html](https://www.google.com/intl/de/analytics/privacyoverview.html). In addition, you can object to processing on the basis of legitimate interest by sending an email to [privacy@bit.ly](mailto:privacy@bit.ly).
 
@@ -835,8 +835,8 @@ We reserve the right to make changes to this Privacy Policy at any time. If we m
     * [Italiano (Italian)](https://bitly.com/pages/it/privacy)
     * [Español (Spanish)](https://bitly.com/pages/es/privacy)
 
-![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1729518575/pages/wp-content/uploads/2021/08/bitly_logo.svg)
+![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1730412115/pages/wp-content/uploads/2021/08/bitly_logo.svg)
 
-© 2024 Bitly | Handmade in New York City, Denver, Berlin, Bielefeld, and all over the world.
+© 2024 Bitly | Handmade in New York City, Denver, Berlin, and all over the world.
 
 [](https://twitter.com/bitly)[](https://instagram.com/bitly)[](https://facebook.com/bitly)[](https://www.linkedin.com/company/552285)
