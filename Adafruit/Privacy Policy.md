@@ -75,6 +75,10 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Angled shot of black, rectangular, pressure sensor breakout.](https://cdn-shop.adafruit.com/230x173/6067-00.jpg)[Adafruit LPS28 (LPS28DFW) Pressure Sensor - STEMMA QT / Qwiic
+    
+    $12.50](https://www.adafruit.com/product/6067)
+    
     ![Angled shot of rectangular breakout board with green, 4-pin terminal blocks.](https://cdn-shop.adafruit.com/230x173/6066-00.jpg)[Adafruit Pixel Shifter - For Addressable LEDs
     
     $4.50](https://www.adafruit.com/product/6066)
@@ -86,10 +90,6 @@ Search
     ![Angled shot of rectangular breakout board with three 2-pin terminal blocks.](https://cdn-shop.adafruit.com/230x173/6062-00.jpg)[Adafruit INA3221 - Triple 0-26 VDC, ±3.2 Amp Power Monitor
     
     $10.95](https://www.adafruit.com/product/6062)
-    
-    ![Overhead shot of barrel-jack-to-USB-C-socket right angle adapter, showing 19.5V.](https://cdn-shop.adafruit.com/230x173/6033-05.jpg)[USB Type C PD to 5.5mm/2.1mm Barrel Jack Adapter - 20V
-    
-    $2.25](https://www.adafruit.com/product/6033)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Either I win or I learn”
+“ If I want to live in a world I like, I have to help create it”
 
-[Nelson Mandela](https://en.wikipedia.org/wiki/Nelson_Mandela)
+[Caroline Caldwell](https://www.adafruit.com/quotes)
 
 [](https://www.adafruit.com/about)
 
