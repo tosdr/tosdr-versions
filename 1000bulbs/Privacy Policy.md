@@ -2,13 +2,13 @@
 
 [Show Category Navigation](#) [Search Dropdown](#)
 
-[![1000Bulbs.com](/images/1kb-logo.svg)](https://www.1000bulbs.com/)
+[![1000Bulbs.com](/images/1kb-logo-xmas.svg)](https://www.1000bulbs.com/)
 
 CHANGING THE WAY THE WORLD BUYS LIGHTING
 
 [1-800-624-4488](tel:1-800-624-4488)
 
-[![1000Bulbs.com](/images/1kb-logo.svg)](https://www.1000bulbs.com/)
+[![1000Bulbs.com](/images/1kb-logo-xmas.svg)](https://www.1000bulbs.com/)
 
 [Show Category Navigation](#)
 
@@ -27,7 +27,7 @@ To Speak to a U.S. Based Lighting Pro
 
 [Cart](https://www.1000bulbs.com/fil/cart)
 
-![1000Bulbs.com](/images/1kb-logo.svg)
+![1000Bulbs.com](/images/1kb-logo-xmas.svg)
 
 [1-800-624-4488](tel:1-800-624-4488)
 
@@ -324,4 +324,4 @@ For any other questions, we staff an expert team of specialists to handle your q
 
 ![](https://dc.ads.linkedin.com/collect/?pid=323770&fmt=gif)
 
-1kb-10 // c22b3aecd5c8f3108ecdb9154420b8d1
+1kb-01 // c22b3aecd5c8f3108ecdb9154420b8d1
