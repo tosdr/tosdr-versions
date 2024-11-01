@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![high court 09-10](/assets/logos/HighCourtRaces.png)](http://www.followthemoney.org/research/institute-research/money-in-judicial-elections-2009-2010)
+[![Energy $$ in CO](/assets/Images/teasers/small/Energy-to-CO-2013-14.png)](http://www.followthemoney.org/research/blog/energy-dollars-in-denver/)
 
-Is the judiciary “above politics”? See high court races.
+Energy Giving in Colorado, 2013-14.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
