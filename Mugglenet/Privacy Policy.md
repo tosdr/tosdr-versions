@@ -356,15 +356,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-In the world of wizard currency, there are 29 bronze Knuts to a silver Sickle and 17 Sickles to a gold Galleon. In Muggle money, a Galleon is worth about £5, but exchange rates can vary.
+The Forbidden Forest set in the Warner Bros. studio has 19 trees, each with a diameter of around 12 feet.
 
 ### Potter History
 
-September 8, 1999 – Harry Potter and the Prisoner of Azkaban is published in the United States.
+December 20, 2004 – Harry Potter and the Half-Blood Prince is complete, with a release date being announced within 24 hours.
 
 ### Potter Quote
 
-“Don’t be silly. Of course I won’t be in three classes at once.”
+“Queen, honey. Well, I’m just curious, when were you going to wake me up? After we’d had five kids?”
 
 [](#)
 
