@@ -6,12 +6,6 @@ Dismiss
 
 FutureLearn uses cookies to enhance your experience of the website. All but strictly necessary cookies are currently disabled for this browser. Turn on JavaScript to exercise your cookie preferences for all non-essential cookies. You can read FutureLearn's Cookie policy [here](https://www.futurelearn.com/info/terms/cookie-policy).
 
-Dismiss
-
-**New offer! Get 30% off a whole year of Unlimited learning. Subscribe for just ~$349.99~ $244.99.** [T&Cs apply](https://www.futurelearn.com/info/unlimited-sale-24-terms)
-
-[Find out more](https://www.futurelearn.com/unlimited)
-
 Search term
 
 Search
