@@ -66,7 +66,7 @@
 
 * 
 
-Last Updated 9/29/2023
+Last Updated October 2024
 
 **Introduction**
 
@@ -283,13 +283,15 @@ We maintain physical, electronic, and procedural safeguards to guard the persona
 
 **How do we transfer personal data and information globally or across borders****?**
 
-Accurate Background, LLC complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.  Accurate Background has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) regarding the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF.  Accurate Background has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) regarding the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.  To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [www.dataprivacyframework.gov](http://www.dataprivacyframework.gov/).
+Accurate Background, LLC complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Accurate Background, LLC and its U.S. subsidiaries, Accurate Employment Screening, LLC and Hirease, LLC dba AccurateNow has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) regarding the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Accurate Background has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) regarding the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [www.dataprivacyframework.gov](http://www.dataprivacyframework.gov/).
 
 Accurate is responsible for the processing of personal data we receive, under the DPF, and subsequent transfers to a third party acting as an agent on our behalf. Accurate complies with the DPF for all onward transfers of personal data and processes such data consistent with the DPF.
 
-Please contact us  should you have a Data Privacy Framework related (or general privacy-related) complaint.  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily or we have not timely responded or acknowledged your concerns, please contact our  U.S.-based third-party dispute resolution provider, [JAMS](https://www.jamsadr.com/eu-us-data-privacy-framework). (free of charge).
+Please contact us  should you have a Data Privacy Framework related (or general privacy-related) complaint.  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily or we have not timely responded or acknowledged your concerns, please contact our  U.S.-based third-party dispute resolution provider, [JAMS](https://www.jamsadr.com/DPF-Dispute-Resolution). (free of charge).
 
 If you have complaints regarding the DPF that have not been resolved by other DPF mechanisms, you have the possibility to invoke binding [arbitration](https://www.dataprivacyframework.gov/s/).
+
+Accurate employees – In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Accurate commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of human resources data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF in the context of the employment relationship.
 
 Additional Information for Individuals in the European Economic Area (EEA), Switzerland and the United Kingdom
 
