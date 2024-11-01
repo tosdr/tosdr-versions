@@ -36,18 +36,18 @@
         
         Microsoft delays Windows Recall again, now by December](https://www.bleepingcomputer.com/news/microsoft/microsoft-delays-windows-recall-again-now-by-december/)
     
+    * [![LastPass warns of fake support centers trying to steal customer data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        LastPass warns of fake support centers trying to steal customer data](https://www.bleepingcomputer.com/news/security/lastpass-warns-of-fake-support-centers-trying-to-steal-customer-data/)
+    * [![Synology hurries out patches for zero-days exploited at Pwn2Own](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Synology hurries out patches for zero-days exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/synology-fixed-two-critical-zero-days-exploited-at-pwn2own-within-days/)
+    * [![DDoS site Dstat.cc seized and two suspects arrested in Germany](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        DDoS site Dstat.cc seized and two suspects arrested in Germany](https://www.bleepingcomputer.com/news/security/ddos-site-dstatcc-seized-and-two-suspects-arrested-in-germany/)
     * [![Train to be a security analyst in this discounted cybersecurity bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Train to be a security analyst in this discounted cybersecurity bundle deal](https://www.bleepingcomputer.com/offer/deals/train-to-be-a-security-analyst-in-this-discounted-cybersecurity-bundle-deal/)
-    * [![Sophos reveals 5-year battle with Chinese hackers attacking network devices](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Sophos reveals 5-year battle with Chinese hackers attacking network devices](https://www.bleepingcomputer.com/news/security/sophos-reveals-5-year-battle-with-chinese-hackers-attacking-network-devices/)
-    * [![Microsoft: Chinese hackers use Quad7 botnet to steal credentials](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft: Chinese hackers use Quad7 botnet to steal credentials](https://www.bleepingcomputer.com/news/security/microsoft-chinese-hackers-use-quad7-botnet-to-steal-credentials/)
-    * [![Microsoft delays Windows Recall again, now by December](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft delays Windows Recall again, now by December](https://www.bleepingcomputer.com/news/microsoft/microsoft-delays-windows-recall-again-now-by-december/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
