@@ -172,6 +172,8 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 
 #### Recently Updated Pages
 
+* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - November 1, 2024
+    
 * [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 1, 2024
     
 * [Asheville Watchdog – Bias and Credibility](https://mediabiasfactcheck.com/asheville-watchdog-bias-and-credibility/ "View Asheville Watchdog – Bias and Credibility") - November 1, 2024
@@ -190,17 +192,15 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
     
 * [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - October 31, 2024
     
-* [Juneau Empire – Bias and Credibility](https://mediabiasfactcheck.com/juneau-empire-bias/ "View Juneau Empire – Bias and Credibility") - October 31, 2024
-    
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [AtlasIntel Polling - Bias and Credibility](https://mediabiasfactcheck.com/atlasintel-polling-bias-and-credibility/)
 * [Echelon Insights - Bias and Credibility](https://mediabiasfactcheck.com/echelon-insights-bias-and-credibility/)
+* [Marist Poll - Bias and Credibility](https://mediabiasfactcheck.com/marist-poll-bias-and-credibility/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Newsweek - Bias and Credibility](https://mediabiasfactcheck.com/newsweek/)
-* [Marist Poll - Bias and Credibility](https://mediabiasfactcheck.com/marist-poll-bias-and-credibility/)
 * [The Economist - Bias and Credibility](https://mediabiasfactcheck.com/the-economist/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
