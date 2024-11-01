@@ -402,35 +402,37 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Aubrey man admits to murdering aunt after kicking him out of her house: police](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-peyton-aubrey-canyon-oaks-st-murder-9p_kdfwf90e__00.01.37.14.jpg?ve=1&tl=1)
+ [![Downtown Orlando shooting live updates: 2 dead, 6 hurt in halloween shooting; teen detained: officials](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/11/32/18/orlando-halloween-shooting.png?ve=1&tl=1)
 
- ![Aubrey man admits to murdering aunt after kicking him out of her house: police](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-peyton-aubrey-canyon-oaks-st-murder-9p_kdfwf90e__00.01.37.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/71-year-old-aubrey-woman-found-dead-backyard-family-member-charged-capital-murder)
+ ![Downtown Orlando shooting live updates: 2 dead, 6 hurt in halloween shooting; teen detained: officials](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/11/32/18/592/333/orlando-halloween-shooting.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/downtown-orlando-shooting-under-investigation-police-say)
 
-### [Aubrey man admits to murdering aunt after kicking him out of her house: police](https://www.fox4news.com/news/71-year-old-aubrey-woman-found-dead-backyard-family-member-charged-capital-murder)
+Breaking News
 
- [![Woman hurt in brutal Downtown Dallas attack left with cognitive issues, facial fractures](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/elizabeth-ferguson-downtown-dallas-attack.png?ve=1&tl=1)
+### [Downtown Orlando shooting live updates: 2 dead, 6 hurt in halloween shooting; teen detained: officials](https://www.fox4news.com/news/downtown-orlando-shooting-under-investigation-police-say)
 
- ![Woman hurt in brutal Downtown Dallas attack left with cognitive issues, facial fractures](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/elizabeth-ferguson-downtown-dallas-attack.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/elizabeth-ferguson-downtown-dallas-assault-video-victim-interview)
+ [![Last day for early voting in Texas: Why are turnout numbers lower this year?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/VBOX-EARLY-VOTING-BEGINS-IN-PRIMARY-RUNOFF-9P_00.00.01.30.jpg?ve=1&tl=1)
 
-### [Woman hurt in brutal Downtown Dallas attack left with cognitive issues, facial fractures](https://www.fox4news.com/news/elizabeth-ferguson-downtown-dallas-assault-video-victim-interview)
+ ![Last day for early voting in Texas: Why are turnout numbers lower this year?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/592/333/VBOX-EARLY-VOTING-BEGINS-IN-PRIMARY-RUNOFF-9P_00.00.01.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/last-day-early-voting-texas-why-turnout-numbers-lower-year)
 
- [![Young Thug pleads guilty as part of 'blind plea' in YSL trial, sentenced](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/snapshot4.jpg?ve=1&tl=1)
+### [Last day for early voting in Texas: Why are turnout numbers lower this year?](https://www.fox4news.com/election/last-day-early-voting-texas-why-turnout-numbers-lower-year)
 
- ![Young Thug pleads guilty as part of 'blind plea' in YSL trial, sentenced](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/592/333/snapshot4.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/young-thug-pleads-guilty-part-blind-plea-ysl-trial-sentenced)
+ [![Family who fled Ukraine loses everything in Pleasant Hill fire](https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/11/32/18/11-ukranian-family-fire_ktvu427d_146_mxf_00.00.22.14.jpg?ve=1&tl=1)
 
-### [Young Thug pleads guilty as part of 'blind plea' in YSL trial, sentenced](https://www.fox4news.com/news/young-thug-pleads-guilty-part-blind-plea-ysl-trial-sentenced)
+ ![Family who fled Ukraine loses everything in Pleasant Hill fire](https://images.foxtv.com/images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/11/32/18/592/333/11-ukranian-family-fire_ktvu427d_146_mxf_00.00.22.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fire-leaves-family-who-recently-left-ukraine-come-united-states-homeless)
 
- [![Opal Lee brings civil rights pioneer Fannie Lou Hamer play to Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-dionne-opal-lee-voting-rights-play-530p_00.00.25.00.jpg?ve=1&tl=1)
+### [Family who fled Ukraine loses everything in Pleasant Hill fire](https://www.fox4news.com/news/fire-leaves-family-who-recently-left-ukraine-come-united-states-homeless)
 
- ![Opal Lee brings civil rights pioneer Fannie Lou Hamer play to Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-dionne-opal-lee-voting-rights-play-530p_00.00.25.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/opal-lee-brings-civil-rights-pioneer-fannie-lou-hamer-play-fort-worth)
+ [![Price difference between new and used cars hits all-time high — what to know](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/autonation-getty.jpg?ve=1&tl=1)
 
-### [Opal Lee brings civil rights pioneer Fannie Lou Hamer play to Fort Worth](https://www.fox4news.com/news/opal-lee-brings-civil-rights-pioneer-fannie-lou-hamer-play-fort-worth)
+ ![Price difference between new and used cars hits all-time high — what to know](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/autonation-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/price-difference-new-used-cars-hits-all-time-high-november-2024)
 
- [![Will crime have an impact on Texas voters in the 2024 election?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-steven-voter-polling-on-crime-4p_00.01.56.08.jpg?ve=1&tl=1)
+### [Price difference between new and used cars hits all-time high — what to know](https://www.fox4news.com/news/price-difference-new-used-cars-hits-all-time-high-november-2024)
 
- ![Will crime have an impact on Texas voters in the 2024 election?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-steven-voter-polling-on-crime-4p_00.01.56.08.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/2024-election-texas-crime)
+ [![Deadly crash shuts down U.S. 75 in Richardson](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v_us_75_at_renner_fiery_crash__mxf_00.00.28.52.jpg?ve=1&tl=1)
 
-### [Will crime have an impact on Texas voters in the 2024 election?](https://www.fox4news.com/election/2024-election-texas-crime)
+ ![Deadly crash shuts down U.S. 75 in Richardson](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v_us_75_at_renner_fiery_crash__mxf_00.00.28.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/deadly-halloween-night-crash-shuts-down-all-southbound-lanes-u-s-75)
+
+### [Deadly crash shuts down U.S. 75 in Richardson](https://www.fox4news.com/news/deadly-halloween-night-crash-shuts-down-all-southbound-lanes-u-s-75)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
