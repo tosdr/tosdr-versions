@@ -1,32 +1,32 @@
 [Skip to main content](#main-content)
 
-BOGO Free Sitewide! DETAILS
+Up To 50% off Meloni's Must Haves DETAILS
 
-BUY 1 GET 1 FREE
+BOGO Free Compression Socks! DETAILS
 
-Close the Modal
-
-#### Sitewide Savings: Mix & Match or Double Up!
-
-[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
-
-Offer valid 10/29/2024 8AM ET - 11/1/2024 6AM ET.
-
-To receive Buy 1 Get 1 Free discount, must add two (2) full-price products to cart. Discount automatically applied on lowest priced item. Exclusions apply.\* Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
-
-\***Excludes:** Back Support Bra | Women's and all ActiveWick Socks.
-
-FREE GIFT WITH PURCHASE
+MELONI'S MUST HAVES
 
 Close the Modal
 
-#### Free Baseball Hat on Orders $200+
+#### SAVE UP TO 50%
 
-[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
+[SHOP NOW](https://www.tommiecopper.com/special/melonis-must-haves/)
 
-Offer valid 10/29/2024 8AM ET - 11/1/2024 6AM ET.
+Offer valid 11/1/2024 8AM ET - 11/4/2024 6AM ET.
 
-Free Winter Beanie automatically applied on orders $125+. Order subtotal must reach $125 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Up to 50% off Meloni's Must Haves discounts priced as marked. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+
+COMPRESSION SOCKS
+
+Close the Modal
+
+#### Buy 1 Get 1 Free Today!
+
+[SHOP NOW](https://www.tommiecopper.com/compression-socks/)
+
+Offer valid 11/1/2024 8AM ET - 11/4/2024 6AM ET.
+
+To receive Buy 1 Get 1 Free discount on all compression socks, must add two (2) eligible full-price items to cart. Discount automatically applied on lowest priced item. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
