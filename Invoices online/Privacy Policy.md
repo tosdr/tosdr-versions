@@ -117,57 +117,56 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Henry Venter
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=199468544)  
-TechnoDezi PTY(LTD)
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=d436ba3748aeade1439b0a682e524e671457a0031a025bbae46cb4cae6a9d240&c=143653098)  
+Lily Fern & Co
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=2507298)  
-All Trucking Solutions
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=d436ba3748aeade1439b0a682e524e671457a0031a025bbae46cb4cae6a9d240&c=35653263)  
+Moving Made Easy (PTY) Ltd
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=144936490)  
-LEO DEVELOPMENT GROUP
-
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=1280838)  
-Dr V Naik Consult
-
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=210861442)  
-Kainos (Pty) Ltd
-
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=43609565)  
-Imhoff Equestrian Centre
-
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=130296118)  
-Konsortium Operations (PTY) LTD
-
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=111238578)  
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=d436ba3748aeade1439b0a682e524e671457a0031a025bbae46cb4cae6a9d240&c=51905888)  
 SafeTclip
 
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=59680540)  
-FX ACCOUNTING
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=d436ba3748aeade1439b0a682e524e671457a0031a025bbae46cb4cae6a9d240&c=118190552)  
+Cape Adventure Zone
 
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=190084407)  
-Echo Recording Studio cc
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=d436ba3748aeade1439b0a682e524e671457a0031a025bbae46cb4cae6a9d240&c=169753407)  
+NWET Pty LTD
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=158658988)  
-Nilbet T/A Waterman
-
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=104692283)  
-OPTIMUS ELECTRICAL PTY (LTD)
-
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=99773408)  
-MOSELA GROUP Pty(ltd)
-
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=56546743)  
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=d436ba3748aeade1439b0a682e524e671457a0031a025bbae46cb4cae6a9d240&c=90726247)  
 De light Investments(Pty)Ltd trading as Serene Memorials
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=4bd8d80f76f4c15a0e3d3722e300a40c6a856982a2cd771c77452c4e7dd08ed8&c=74226685)  
-Prosper Park
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=d436ba3748aeade1439b0a682e524e671457a0031a025bbae46cb4cae6a9d240&c=105409415)  
+Imhoff Equestrian Centre
+
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=d436ba3748aeade1439b0a682e524e671457a0031a025bbae46cb4cae6a9d240&c=144086002)  
+All Trucking Solutions
+
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=d436ba3748aeade1439b0a682e524e671457a0031a025bbae46cb4cae6a9d240&c=27095555)  
+
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=d436ba3748aeade1439b0a682e524e671457a0031a025bbae46cb4cae6a9d240&c=158299053)  
+Entidee Enterprise PTY (ltd)
+
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=d436ba3748aeade1439b0a682e524e671457a0031a025bbae46cb4cae6a9d240&c=130511905)  
+Westside Car Audio CC
+
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=d436ba3748aeade1439b0a682e524e671457a0031a025bbae46cb4cae6a9d240&c=134650642)  
+Oak Tree Immigration
+
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=d436ba3748aeade1439b0a682e524e671457a0031a025bbae46cb4cae6a9d240&c=42079749)  
+Brilliant Roof Products
+
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=d436ba3748aeade1439b0a682e524e671457a0031a025bbae46cb4cae6a9d240&c=144043925)  
+MONSTER SECURITY GUARDING
+
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=d436ba3748aeade1439b0a682e524e671457a0031a025bbae46cb4cae6a9d240&c=18433827)  
+NJR ICT Services (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
