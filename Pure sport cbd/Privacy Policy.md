@@ -22,6 +22,10 @@ Check out
 
 [Rated average 4.9 stars (5832 reviews)](https://puresportcbd.com/en-us/pages/reviews)
 
+Free UK Shipping with orders over £50
+
+[Free Salty Pace Sports Bottle with orders over £75](https://puresportcbd.com/en-us/collections)
+
  Search 
 
 [](https://puresportcbd.com/)![](//puresport.co/cdn/shop/files/new-logo-puresport.svg?v=1730125900&width=1266)
