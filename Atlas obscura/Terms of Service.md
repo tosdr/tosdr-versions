@@ -18,29 +18,7 @@ Loading...
 
 Loading...
 
-Upcoming Courses
-
-[View All Courses »](https://www.atlasobscura.com/online-courses)
-
-   [![](https://img.atlasobscura.com/h4igLegodufwLGE-1D3Up_c34h5XU0p1JiqZj924kmQ/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81Y2Rh/OTJmZS05OGU3LTRl/YmItYmNhMS01OGE4/YWQxNGNmYWU5YzQ3/N2Y1NmZjNjAyMjFl/YTZfc3RlcGhhbi13/aWR1YS0zWUFJdkJO/bFpNNC11bnNwbGFz/aC5qcGc.jpg)
-
-Cosmic Life: Astrobiology & the Search for Extraterrestrial Life With Dr. Graham Lau](https://www.atlasobscura.com/experiences/astrobiology-course)
-
-   [![](https://img.atlasobscura.com/y9x6Tvc0fCC7F24WyLB5oKxbvXB-JOGRaLMLhNgBIRU/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9hZmZl/N2M4Yi0yMTkwLTQw/MDgtOGIwYy01YjJh/ZjM1MzA3ZTc0Y2Zk/YzE4NmNiNjA0NzYw/ZDhfRDkzNTExQzQt/MTI4Ni00Mjc0LUI5/NkQtOUNGNDAzMERC/NUMyLmpwZw.jpg)
-
-Nature’s Palette: Foraging Natural Pigments With Hayley Dayis & Alexander Fals](https://www.atlasobscura.com/experiences/foraged-pigments-course)
-
-   [![](https://img.atlasobscura.com/oteCwywQUV_z7ByuIyJNpVBM8xr7Fl_GCkrW3rCKXIM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8yZWZl/Y2ZhYS1mZTQ2LTQ3/YmEtOWYyZi1jMDQz/YmI2ODY0NGUwMmYz/ZTU5ZjMzZWZhNjE3/YTFfYW5pdGEtamFu/a292aWMtbTVvRnp6/cmNLd2MtdW5zcGxh/c2guanBn.jpg)
-
-Historical Nonfiction: Research-Based Writing With Hadley Meares](https://www.atlasobscura.com/experiences/writing-history-online-course)
-
-   [![](https://img.atlasobscura.com/KbnCSVJrc2IwUlmtdX1_5ad2bAo-ch27UbKSBdJHmRM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81Zjdj/YmRiZC1mOWQ4LTRk/YWMtYmQyZC00NzBl/NjdlNzk4NjFmYWU2/OWVmMjliYWExMDEx/OWRfYmVuLWJsZW5u/ZXJoYXNzZXR0LWto/bVBsLTFhVmlnLXVu/c3BsYXNoLmpwZw.jpg)
-
-Winged Wonders: Mastering Bird Photography With Joseph Saunders](https://www.atlasobscura.com/experiences/bird-photography-online-course)
-
-   [![](https://img.atlasobscura.com/GvclmYNtKmRjd1vLUiCiq0AGTTrC_F0Tx6Lc-L2uPTk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy82MjEx/M2VkZC1iNmE3LTRk/MjMtOWRhZC05ZjI4/ZDk4MGE4MWI2OWQy/ZmY1ODAxYjYzZWY2/MzRfc2ltb24tYmVy/Z2VyLV9hMWxBNVRp/XzFJLXVuc3BsYXNo/IGNvcHkuanBn.jpg)
-
-Tree Communication With Annie Novak](https://www.atlasobscura.com/experiences/tree-communication-course)
+Loading...
 
 Loading...
 
