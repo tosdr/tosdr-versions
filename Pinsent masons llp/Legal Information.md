@@ -679,7 +679,9 @@ See our [Terms and Conditions](https://www.pinsentmasons.com/legal-notices/term
     
 * [### Luxembourg](#)
     
-    We operate in Luxembourg through our affiliated entity Pinsent Masons Luxembourg, which is a partnership and independent law firm.
+    We operate in Luxembourg through our affiliated entity Pinsent Masons Luxembourg LLP.
+    
+    Pinsent Masons Luxembourg LLP is a limited liability partnership registered in England and Wales (registered number: OC442676) authorised and regulated by the Solicitors Regulation Authority (SRA Number 8005622), with its place of business at 69 Boulevard de la Pétrusse L-2320.
     
     Our Luxembourg office comprises lawyers (Avocats) who are regulated by the Barreau de Luxembourg (Luxembourg Bar) and may also have a number of lawyers from other jurisdictions who are members of foreign Bars. Further information on our people and their professional qualifications [can be found on our site](https://www.pinsentmasons.com/locations/europe/luxembourg/luxembourg).
     
@@ -689,9 +691,8 @@ See our [Terms and Conditions](https://www.pinsentmasons.com/legal-notices/term
     
     Lawyers registered with the Luxembourg Bar are covered by an insurance policy provided by the Luxembourg Bar, details of which can be supplied by the head of our Luxembourg office.
     
-    In addition, Pinsent Masons maintains professional indemnity insurance. That insurance is with QBE UK Ltd and QBE Lloyd’s Syndicate 386 and QBE UK Ltd and QBE Lloyd’s Syndicate 386 (in respect of ROW Exposure) & QBE Europe SA/NV and Lloyd’s Brussels Syndicate 5386 (in respect of EEA Exposure), Aviva Insurance Limited (in respect of ROW Exposure) and Aviva Insurance Ireland DAC (in respect of EEA Exposure and others and covers both our professional services worldwide and our affiliated offices worldwide.
-    
-    All requests for further information or any client complaints about Pinsent Masons Luxembourg (including complaints concerning our fees and charges) should be addressed in the first instance with your client partner or head of our Luxembourg office, failing which, they should be addressed to the Senior Partner of Pinsent Masons LLP at 30 Crown Place, London, EC2A 4ES, United Kingdom.
+    In addition, Pinsent Masons maintains professional indemnity insurance. That insurance is with QBE UK Ltd and QBE Lloyd’s Syndicate 386 and QBE UK Ltd and QBE Lloyd’s Syndicate 386 (in respect of ROW Exposure) & QBE Europe SA/NV and Lloyd’s Brussels Syndicate 5386 (in respect of EEA Exposure), Aviva Insurance Limited (in respect of ROW Exposure) and Aviva Insurance Ireland DAC (in respect of EEA Exposure and others and covers both our professional services worldwide and our affiliated offices worldwide.  
+    All requests for further information or any client complaints about Pinsent Masons Luxembourg LLP (including complaints concerning our fees and charges) should be addressed in the first instance with your client partner or head of our Luxembourg office, failing which, they should be addressed to the Senior Partner of Pinsent Masons LLP at 30 Crown Place, London, EC2A 4ES, United Kingdom.
     
 * [### United Arab Emirates](#)
     
