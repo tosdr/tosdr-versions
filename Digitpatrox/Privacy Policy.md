@@ -20,16 +20,16 @@ Friday, November 1 2024
 
 Latest
 
-* [iPhone 16 sales look to be off to a strong start, as Apple announces record revenues](https://digitpatrox.com/iphone-16-sales-look-to-be-off-to-a-strong-start-as-apple-announces-record-revenues/)
-* [Sophos reveals 5-year battle with Chinese hackers attacking network devices](https://digitpatrox.com/sophos-reveals-5-year-battle-with-chinese-hackers-attacking-network-devices/)
-* [The iPhone 17 might use Apple’s own Wi-Fi chips](https://digitpatrox.com/the-iphone-17-might-use-apples-own-wi-fi-chips/)
-* [Today’s Wordle Answer and Hints (November 1, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-1-2024/)
-* [11 Android Quick Settings additions that’ll supercharge your efficiency – Computerworld](https://digitpatrox.com/11-android-quick-settings-additions-thatll-supercharge-your-efficiency-computerworld/)
-* [Croissant Is an iPhone App That Posts to Mastodon, Threads, and Bluesky at Once](https://digitpatrox.com/croissant-is-an-iphone-app-that-posts-to-mastodon-threads-and-bluesky-at-once/)
-* [How to install WSL on Windows 10 (2024)](https://digitpatrox.com/how-to-install-wsl-on-windows-10-2024/)
-* [Best Handheld Leaf Blowers of 2024](https://digitpatrox.com/best-handheld-leaf-blowers-of-2024/)
-* [Spot 5 Common Crypto Scams Before It’s Too Late](https://digitpatrox.com/spot-5-common-crypto-scams-before-its-too-late/)
-* [Two notorious infostealer malware operations were just knocked offline](https://digitpatrox.com/two-notorious-infostealer-malware-operations-were-just-knocked-offline/)
+* [Data center constraints pinch as Microsoft reports soaring AI demand](https://digitpatrox.com/data-center-constraints-pinch-as-microsoft-reports-soaring-ai-demand/)
+* [Yes, You Can Trace a VoIP Call](https://digitpatrox.com/yes-you-can-trace-a-voip-call/)
+* [Visual Intelligence finally gives Apple its version of Google Lens — here’s how to use it](https://digitpatrox.com/visual-intelligence-finally-gives-apple-its-version-of-google-lens-heres-how-to-use-it/)
+* [Chinese hackers use Quad7 botnet to steal credentials](https://digitpatrox.com/chinese-hackers-use-quad7-botnet-to-steal-credentials/)
+* [ChromeOS gets a big update with Quick Insert, Focus mode, and new AI features](https://digitpatrox.com/chromeos-gets-a-big-update-with-quick-insert-focus-mode-and-new-ai-features/)
+* [NYT Strands Today: Hints, Answers & Spangram for November 1](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-1/)
+* [Cognizant and Nvidia team up to supercharge data modernization](https://digitpatrox.com/cognizant-and-nvidia-team-up-to-supercharge-data-modernization/)
+* [Microsoft aims to simplify how Office files are opened on mobile devices – Computerworld](https://digitpatrox.com/microsoft-aims-to-simplify-how-office-files-are-opened-on-mobile-devices-computerworld/)
+* [The Pixel 9 Pro Is Great (If You Ignore the AI)](https://digitpatrox.com/the-pixel-9-pro-is-great-if-you-ignore-the-ai/)
+* [Best Home Blood Pressure Monitors of 2024](https://digitpatrox.com/best-home-blood-pressure-monitors-of-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/TxQHxw7ALr3cTM2UnWnM4e-1200-80.jpg)](https://digitpatrox.com/iphone-16-sales-look-to-be-off-to-a-strong-start-as-apple-announces-record-revenues/)
+* [![](https://cdn.mos.cms.futurecdn.net/VjJz5gzKNTKXVpoe5ShDDd-1200-80.jpg)](https://digitpatrox.com/data-center-constraints-pinch-as-microsoft-reports-soaring-ai-demand/)
     
-    [iPhone 16 sales look to be off to a strong start, as Apple announces record revenues](https://digitpatrox.com/iphone-16-sales-look-to-be-off-to-a-strong-start-as-apple-announces-record-revenues/)
+    [Data center constraints pinch as Microsoft reports soaring AI demand](https://digitpatrox.com/data-center-constraints-pinch-as-microsoft-reports-soaring-ai-demand/)
     
-    13 mins ago
+    21 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/05/22/Chinese_hackers.png)](https://digitpatrox.com/sophos-reveals-5-year-battle-with-chinese-hackers-attacking-network-devices/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/how-to-trace-a-voip-call-featured-image-10312024.jpg)](https://digitpatrox.com/yes-you-can-trace-a-voip-call/)
     
-    [Sophos reveals 5-year battle with Chinese hackers attacking network devices](https://digitpatrox.com/sophos-reveals-5-year-battle-with-chinese-hackers-attacking-network-devices/)
+    [Yes, You Can Trace a VoIP Call](https://digitpatrox.com/yes-you-can-trace-a-voip-call/)
+    
+    24 mins ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/dqKRbNbJr3BPkrZfhPjLDS.jpg)](https://digitpatrox.com/visual-intelligence-finally-gives-apple-its-version-of-google-lens-heres-how-to-use-it/)
+    
+    [Visual Intelligence finally gives Apple its version of Google Lens — here’s how to use it](https://digitpatrox.com/visual-intelligence-finally-gives-apple-its-version-of-google-lens-heres-how-to-use-it/)
     
     40 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/GO4gvqNZ1LRy8Pwz0XQMjTi3L1M=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25697380/STK071_APPLE_A.jpg)](https://digitpatrox.com/the-iphone-17-might-use-apples-own-wi-fi-chips/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/09/09/0_7777.jpg)](https://digitpatrox.com/chinese-hackers-use-quad7-botnet-to-steal-credentials/)
     
-    [The iPhone 17 might use Apple’s own Wi-Fi chips](https://digitpatrox.com/the-iphone-17-might-use-apples-own-wi-fi-chips/)
-    
-    58 mins ago
-    
-* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-1-2024/)
-    
-    [Today’s Wordle Answer and Hints (November 1, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-1-2024/)
+    [Chinese hackers use Quad7 botnet to steal credentials](https://digitpatrox.com/chinese-hackers-use-quad7-botnet-to-steal-credentials/)
     
     1 hour ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/1625588-0-02929400-1730303246-android-quick-settings-tiles.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/11-android-quick-settings-additions-thatll-supercharge-your-efficiency-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/0E751x5RCmzRCiWYyjvwOM452dg=/0x0:1920x1079/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652213/Chromebook_Quick_Insert__1_.jpg)](https://digitpatrox.com/chromeos-gets-a-big-update-with-quick-insert-focus-mode-and-new-ai-features/)
     
-    [11 Android Quick Settings additions that’ll supercharge your efficiency – Computerworld](https://digitpatrox.com/11-android-quick-settings-additions-thatll-supercharge-your-efficiency-computerworld/)
+    [ChromeOS gets a big update with Quick Insert, Focus mode, and new AI features](https://digitpatrox.com/chromeos-gets-a-big-update-with-quick-insert-focus-mode-and-new-ai-features/)
     
-    3 hours ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [13 mins ago
+* [21 mins ago
     
-    ### iPhone 16 sales look to be off to a strong start, as Apple announces record revenues](https://digitpatrox.com/iphone-16-sales-look-to-be-off-to-a-strong-start-as-apple-announces-record-revenues/)
+    ### Data center constraints pinch as Microsoft reports soaring AI demand](https://digitpatrox.com/data-center-constraints-pinch-as-microsoft-reports-soaring-ai-demand/)
+* [24 mins ago
+    
+    ### Yes, You Can Trace a VoIP Call](https://digitpatrox.com/yes-you-can-trace-a-voip-call/)
 * [40 mins ago
     
-    ### Sophos reveals 5-year battle with Chinese hackers attacking network devices](https://digitpatrox.com/sophos-reveals-5-year-battle-with-chinese-hackers-attacking-network-devices/)
-* [58 mins ago
-    
-    ### The iPhone 17 might use Apple’s own Wi-Fi chips](https://digitpatrox.com/the-iphone-17-might-use-apples-own-wi-fi-chips/)
+    ### Visual Intelligence finally gives Apple its version of Google Lens — here’s how to use it](https://digitpatrox.com/visual-intelligence-finally-gives-apple-its-version-of-google-lens-heres-how-to-use-it/)
 
 Most Popular Topics
 
-* [September 10, 2024
+* [August 25, 2024
     
-    ### Five Reasons to ‘Upgrade’ a Credit Card (and When to Apply for a New One)](https://digitpatrox.com/five-reasons-to-upgrade-a-credit-card-and-when-to-apply-for-a-new-one/)
-* [September 26, 2024
+    ### New macOS malware poses as legitimate apps to steal passwords, crypto wallets and more — how to stay safe](https://digitpatrox.com/new-macos-malware-poses-as-legitimate-apps-to-steal-passwords-crypto-wallets-and-more-how-to-stay-safe/)
+* [3 weeks ago
     
-    ### Apple Intelligence in Europe? You might be waiting for a while – Computerworld](https://digitpatrox.com/apple-intelligence-in-europe-you-might-be-waiting-for-a-while-computerworld/)
-* [September 19, 2024
+    ### Today’s Wordle Answer and Hints (October 9, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-9-2024/)
+* [September 23, 2024
     
-    ### Today’s Wordle Answer and Hints (September 20, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-20-2024/)
+    ### Amazon October Prime Day: how to find the best deals](https://digitpatrox.com/amazon-october-prime-day-how-to-find-the-best-deals/)
 
 Last Modified Topics
 
+* [3 hours ago
+    
+    ### Cognizant and Nvidia team up to supercharge data modernization](https://digitpatrox.com/cognizant-and-nvidia-team-up-to-supercharge-data-modernization/)
+* [3 hours ago
+    
+    ### Microsoft aims to simplify how Office files are opened on mobile devices – Computerworld](https://digitpatrox.com/microsoft-aims-to-simplify-how-office-files-are-opened-on-mobile-devices-computerworld/)
 * [4 hours ago
     
-    ### How to install WSL on Windows 10 (2024)](https://digitpatrox.com/how-to-install-wsl-on-windows-10-2024/)
-* [4 hours ago
-    
-    ### Best Handheld Leaf Blowers of 2024](https://digitpatrox.com/best-handheld-leaf-blowers-of-2024/)
-* [4 hours ago
-    
-    ### Spot 5 Common Crypto Scams Before It’s Too Late](https://digitpatrox.com/spot-5-common-crypto-scams-before-its-too-late/)
+    ### The Pixel 9 Pro Is Great (If You Ignore the AI)](https://digitpatrox.com/the-pixel-9-pro-is-great-if-you-ignore-the-ai/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 12, 2024
+    
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
