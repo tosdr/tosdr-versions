@@ -1,5 +1,3 @@
-[Exclusive -40% Promo for SSL certificates | Time left:](https://www.cloudns.net/ssl-certificates/)
-
 [](https://www.cloudns.net/)
 
 [](javascript:void(0);)
