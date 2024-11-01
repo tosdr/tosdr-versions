@@ -107,69 +107,63 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Алексей Чиванков](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1531373-1676917530.jpg)](https://lyricstranslate.com/en/translator/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2 "Алексей Чиванков")
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
 
-New song
+New comment
 
-[Vadim Shershenevich - Принцип басни](https://lyricstranslate.com/en/vadim-shershenevich-printsip-basni-lyrics)
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1173087#comment-1173087)
 
-Russian
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
 
-[![Olegsandra](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1115771.jpg)](https://lyricstranslate.com/en/translator/olegsandra "Olegsandra")
+New comment
 
-New translation
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1173086#comment-1173086)
 
-[Alexander Egromzhan - Это было красиво (Eto bylo krasivo)](https://lyricstranslate.com/en/alexander-egromzhan-eto-bylo-krasivo-french)
-
-Russian → French
-
-[![Don Tornado](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/don-tornado "Don Tornado")
-
-New song
-
-[One For Israel - 10,000 Reasons (Bless The Lord)](https://lyricstranslate.com/en/one-israel-10000-reasons-bless-lyrics)
-
-Arabic
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+[![cryingforbread](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/cryingforbread "cryingforbread")
 
 New translation
 
-[Luciano Tajoli - Lontananza](https://lyricstranslate.com/en/luciano-tajoli-lontananza-english)
+[SHOJOSKIP - arisu (Arisu)](https://lyricstranslate.com/en/shojoskip-arisu-transliteration)
 
-Italian → English
+Japanese → Transliteration
 
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+[![sandalia](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1607618-1707125848.jpg)](https://lyricstranslate.com/en/translator/sandalia "sandalia")
+
+New translation
+
+[Jean Ferrat - 17 ans](https://lyricstranslate.com/en/jean-ferrat-17-ans-italian)
+
+French → Italian
+
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
 
 New song
 
-[Luciano Tajoli - Lontananza](https://lyricstranslate.com/en/luciano-tajoli-lontananza-lyrics)
-
-Italian
-
-[![Алексей Калашников](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%BA%D0%B0%D0%BB%D0%B0%D1%88%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2 "Алексей Калашников")
-
-New song
-
-[Modern Boots - Play The Game](https://lyricstranslate.com/en/modern-boots-play-game-lyrics)
+[Lil B - Choppin Paper Up](https://lyricstranslate.com/en/lil-b-choppin-paper-lyrics)
 
 English
 
-[![tdotcityfour16](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/tdotcityfour16 "tdotcityfour16")
+[![cryingforbread](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/cryingforbread "cryingforbread")
 
 New song
 
-[Gabrielle Goulet - Elle Sait](https://lyricstranslate.com/en/gabrielle-goulet-elle-sait-lyrics)
+[SHOJOSKIP - arisu](https://lyricstranslate.com/en/shojoskip-arisu-lyrics)
 
-French
+Japanese
 
-[![tdotcityfour16](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/tdotcityfour16 "tdotcityfour16")
+[![Bru Rodrigues](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/bru-rodrigues "Bru Rodrigues")
 
-New translation
+New idiom
 
-[Gabrielle Goulet - Elle Sait](https://lyricstranslate.com/en/gabrielle-goulet-elle-sait-english)
+[X9 morre cedo](https://lyricstranslate.com/en/idiom/x9-morre-cedo)
 
-French → English
+[![Bru Rodrigues](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/bru-rodrigues "Bru Rodrigues")
+
+New explanation of idiom
+
+[Ameaça ou aviso a alguém, para que não conte algum segredo...](https://lyricstranslate.com/en/amea%C3%A7a-ou-aviso-algu%C3%A9m-para-que-n%C3%A3o-conte-algum-segredo)
+
+Portuguese → Portuguese
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
