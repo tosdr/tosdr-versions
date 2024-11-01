@@ -251,9 +251,9 @@ this week
 
 [Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
 
-[Kidney Disease](https://www.sciencedaily.com/news/health_medicine/kidney_disease/)
-
 [Leukemia](https://www.sciencedaily.com/news/health_medicine/leukemia/)
+
+[Kidney Disease](https://www.sciencedaily.com/news/health_medicine/kidney_disease/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -265,11 +265,11 @@ this week
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Wild Animals](https://www.sciencedaily.com/news/plants_animals/wild_animals/)
-
 [Zoology](https://www.sciencedaily.com/news/plants_animals/zoology/)
 
-[Extinction](https://www.sciencedaily.com/news/plants_animals/extinction/)
+[Biotechnology](https://www.sciencedaily.com/news/plants_animals/biotechnology/)
+
+[Wild Animals](https://www.sciencedaily.com/news/plants_animals/wild_animals/)
 
   
 
