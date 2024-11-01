@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+    *  [![](https://media.tegna-media.com/assets/WTHR/images/de974210-a5c5-439e-bf7e-ad594d534210/de974210-a5c5-439e-bf7e-ad594d534210_16x9.jpg) ![](https://media.tegna-media.com/assets/WTHR/images/de974210-a5c5-439e-bf7e-ad594d534210/de974210-a5c5-439e-bf7e-ad594d534210_360x203.jpg)](https://www.wqad.com/article/news/local/heres-how-illinois-and-iowa-residents-can-get-help-paying-their-heating-bills-through-liheap/526-f3c105fb-b502-4754-99bb-d55546ae2a9c)
         
-        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        #### [Here's how Illinois and Iowa residents can get help paying their heating bills through LIHEAP](https://www.wqad.com/article/news/local/heres-how-illinois-and-iowa-residents-can-get-help-paying-their-heating-bills-through-liheap/526-f3c105fb-b502-4754-99bb-d55546ae2a9c)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d920eab7-f707-453f-9868-c1669c5937f5/20241101T030531/d920eab7-f707-453f-9868-c1669c5937f5_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d920eab7-f707-453f-9868-c1669c5937f5/20241101T030531/d920eab7-f707-453f-9868-c1669c5937f5_360x203.jpg)](https://www.wqad.com/article/news/local/report-mental-health-challenges-quad-cities/526-c6d4f7db-f227-4eb2-b75f-4780f2e6692a)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c6b6cc36-6f5e-4ce8-b0e1-d406875eedb6/20241101T193019/c6b6cc36-6f5e-4ce8-b0e1-d406875eedb6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c6b6cc36-6f5e-4ce8-b0e1-d406875eedb6/20241101T193019/c6b6cc36-6f5e-4ce8-b0e1-d406875eedb6_360x203.jpg)](https://www.wqad.com/article/news/local/as-seen-on-tv/the-arc-of-the-quad-cities-area-fall-parent-learning-series/526-046b3d36-eedb-418d-ba8b-d09072e01430)
         
-        #### [More people in the Quad Cities are dealing with mental health struggles, new report finds](https://www.wqad.com/article/news/local/report-mental-health-challenges-quad-cities/526-c6d4f7db-f227-4eb2-b75f-4780f2e6692a)
+        #### [The Arc of the Quad Cities Area to hold fall parent learning series](https://www.wqad.com/article/news/local/as-seen-on-tv/the-arc-of-the-quad-cities-area-fall-parent-learning-series/526-046b3d36-eedb-418d-ba8b-d09072e01430)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/26ff345c-487a-4a8f-ab50-6de774af458c/20241101T121111/26ff345c-487a-4a8f-ab50-6de774af458c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/26ff345c-487a-4a8f-ab50-6de774af458c/20241101T121111/26ff345c-487a-4a8f-ab50-6de774af458c_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e8f6e6ac-e9c8-4dd3-ad81-e87625667f93/20241101T214358/e8f6e6ac-e9c8-4dd3-ad81-e87625667f93_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e8f6e6ac-e9c8-4dd3-ad81-e87625667f93/20241101T214358/e8f6e6ac-e9c8-4dd3-ad81-e87625667f93_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Sunny start to November... Saturday remains your weekend's best](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Saturday remains your weekend's best](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/CCT/images/b1e01515-82dd-44ad-8a0b-57c01077f448/20241101T112918/b1e01515-82dd-44ad-8a0b-57c01077f448_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/b1e01515-82dd-44ad-8a0b-57c01077f448/20241101T112918/b1e01515-82dd-44ad-8a0b-57c01077f448_360x203.jpg)](https://www.wqad.com/article/news/nation-world/3-days-after-historic-floods-at-least-158-dead-spain/507-f60dff0f-6da0-435c-a4cb-307248d57aff)
         
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-44°
+51°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
