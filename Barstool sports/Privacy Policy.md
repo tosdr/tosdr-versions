@@ -142,10 +142,10 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Los Angeles Championship Collection](https://store.barstoolsports.com/collections/los-angeles)
+* [Stella Blue Coffee Fall Flash Sale](https://stellabluecoffee.com/collections/fall-flash-sale)
 * [Fall Golf Collection](https://store.barstoolsports.com/collections/fore-play)
-* [Stella Blue Coffee Winter Flavors](https://stellabluecoffee.com/)
 * [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
+* [Los Angeles Championship Collection](https://store.barstoolsports.com/collections/los-angeles)
 * [Pardon My Cheesesteak](https://pardonmycheesesteak.com/)
 
 Privacy Policy
