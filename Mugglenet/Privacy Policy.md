@@ -242,40 +242,6 @@ MuggleNet Archive Select Month October 2024  (27) September 2024  (30) August 
 
 ### Important Dates
 
-### October 2024
-
-#### Thu, Oct 31
-
-Death of James and Lily Potter; Harry survives; Voldemort loses his power
-
-Recurs yearly
-
-1981
-
-Harry's name comes out of the Goblet of Fire
-
-Recurs yearly
-
-1994
-
-Nearly Headless Nick's deathday party; Mrs. Norris is petrified
-
-Recurs yearly
-
-1992
-
-Sirius Black attacks the Fat Lady
-
-Recurs yearly
-
-1993
-
-Troll in the girls' bathroom
-
-Recurs yearly
-
-1991
-
 ### November 2024
 
 #### Fri, Nov 1
@@ -366,6 +332,20 @@ Recurs yearly
 
 1992
 
+#### Thu, Nov 7
+
+Fantastic Beasts and Where to Find Them Illustrated Edition
+
+Recurs yearly
+
+2017
+
+Lockhart removes the bones in Harry's right arm
+
+Recurs yearly
+
+1992
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -376,15 +356,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Dudley Dursley was almost in the epilogue of “Harry Potter and the Deathly Hallows,” standing on platform nine and three-quarters with a magical child.
+The curse of the Defense Against the Dark Arts position was inspired by the Spinal Tap drummers dying in bizarre circumstances.
 
 ### Potter History
 
-April 9-11, 2009 – StarKid performs A Very Potter Musical at the University of Michigan.
+November 17, 2004 – Harry Potter screenwriter Steve Kloves temporarily steps down for Harry Potter and the Order of the Phoenix; is replaced by Michael Goldenberg.
 
 ### Potter Quote
 
-“I’m Draco Malfoy, I’m Draco, I’m on your side!”
+“It was necessary. He’s extremely powerful. We’ve had to change his guard three times – he’s very… persuasive. So we removed his tongue.”
 
 [](#)
 
