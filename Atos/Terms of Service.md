@@ -106,6 +106,7 @@ Atos homepage](https://atos.net/en/)
         
         * [Technology Services](https://atos.net/en/services/technology-services)˅
         * [Atos Inno’labs](https://atos.net/en/services/technology-services/innolabs)
+        * [Customized Services](https://atos.net/en/services/technology-services/customized-services)
         * [Integration and VAR Services](https://atos.net/en/services/technology-services/integration-and-var-services)
         * [Maintenance and Support Services](https://atos.net/en/services/technology-services/maintenance-and-support-services)
         * [Technology Consulting](https://atos.net/en/services/technology-services/technology-consulting)
