@@ -344,11 +344,11 @@ Main navigation
         
         [Go to **Cereals**](https://www.nestle.com/brands/cereals)
         
-        * [Breakfast cereals](https://www.nestle.com/brands/cereals/breakfast-cereals)
+        * [Breakfast cereal brands](https://www.nestle.com/brands/cereals/breakfast-cereals)
             
             [Back](# "Close Menu")
             
-            [Go to **Breakfast cereals**](https://www.nestle.com/brands/cereals/breakfast-cereals)
+            [Go to **Breakfast cereal brands**](https://www.nestle.com/brands/cereals/breakfast-cereals)
             
         
     * [Chocolate & confectionery](https://www.nestle.com/brands/chocolate-confectionery)
