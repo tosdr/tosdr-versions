@@ -132,6 +132,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Backup and Recovery
+
+Everything You Need to Know About Backing Up & Restoring Salesforce Data](https://www.ownbackup.com/blog/guide-salesforce-backup)
+
 [Salesforce
 
 How Often Does Salesforce Back Up My Data?](https://www.ownbackup.com/blog/how-often-does-salesforce-back-up-my-data)
@@ -139,10 +143,6 @@ How Often Does Salesforce Back Up My Data?](https://www.ownbackup.com/blog/how-o
 [Salesforce
 
 Who Is Responsible for Backing Up Salesforce Data?](https://www.ownbackup.com/blog/who-is-responsible-for-backing-up-salesforce-data)
-
-[Salesforce
-
-How Do I Recover Lost Data in Salesforce?](https://www.ownbackup.com/blog/how-do-i-recover-lost-data-in-salesforce)
 
 Company
 
@@ -360,6 +360,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Backup and Recovery
+
+Everything You Need to Know About Backing Up & Restoring Salesforce Data](https://www.ownbackup.com/blog/guide-salesforce-backup)
+
 [Salesforce
 
 How Often Does Salesforce Back Up My Data?](https://www.ownbackup.com/blog/how-often-does-salesforce-back-up-my-data)
@@ -367,10 +371,6 @@ How Often Does Salesforce Back Up My Data?](https://www.ownbackup.com/blog/how-o
 [Salesforce
 
 Who Is Responsible for Backing Up Salesforce Data?](https://www.ownbackup.com/blog/who-is-responsible-for-backing-up-salesforce-data)
-
-[Salesforce
-
-How Do I Recover Lost Data in Salesforce?](https://www.ownbackup.com/blog/how-do-i-recover-lost-data-in-salesforce)
 
 Company
 
