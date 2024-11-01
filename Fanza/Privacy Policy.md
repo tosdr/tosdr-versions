@@ -1,5 +1,3 @@
-       
-
 [JavaScriptを有効にしてください設定方法はこちら](https://help.dmm.co.jp/-/detail/=/qid=10305/)
 
 [![FANZA(ファンザ)](https://p-smith.com/logo/fanza_r18.svg)](https://www.dmm.co.jp/top/)
