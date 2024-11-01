@@ -338,11 +338,19 @@ trademark of Jason A. Donenfeld.
 
 [![VTI Member](https://hide.me/resources/299/images/logo/vti-large.svg)](https://vpntrust.net/)
 
-Try hide.me VPN
+Black Friday Sale
 
-No Signup Required & Completely Free
+Includes 3 months extra
 
-[Get Hide.me](https://hide.me/en/latest "Get Hide.me")
+Days
+
+Hrs
+
+Min
+
+Sec
+
+[Get the offer](https://member.hide.me/en/checkout?plan=summer2023&coupon=RER-BFR-7R4&duration=27&theme=blackfriday&utm_campaign=blackfriday24&utm_medium=homepage&utm_source=internal "Get the offer")
 
 Let's Talk!
 
