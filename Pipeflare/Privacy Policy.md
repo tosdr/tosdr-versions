@@ -6,7 +6,7 @@
 
 Active Players
 
-1 , 0 6 9 , 7 8 3
+1 , 0 6 9 , 8 2 1
 
 * [Play](#)
     
@@ -147,7 +147,7 @@ If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1730452093) to resend activation email.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1730474066) to resend activation email.
 
 OK
 
@@ -296,7 +296,7 @@ If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1730452093) to resend activation email.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1730474066) to resend activation email.
 
 OK
 
@@ -1150,7 +1150,7 @@ Coin Offers
 
 Only
 
-100
+98
 
 Left This Month
 
@@ -1161,7 +1161,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 595000
+x 715000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1179,7 +1179,7 @@ x 5
 
 Only
 
-100
+98
 
 Left This Month
 
@@ -1190,7 +1190,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 975000
+x 1170000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1215,7 +1215,7 @@ Coin Offers
 
 Only
 
-100
+98
 
 Left This Month
 
@@ -1226,7 +1226,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 595000
+x 715000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1244,7 +1244,7 @@ x 5
 
 Only
 
-100
+98
 
 Left This Month
 
@@ -1255,7 +1255,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 975000
+x 1170000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
