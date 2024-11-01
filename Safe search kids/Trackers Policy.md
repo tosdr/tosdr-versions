@@ -635,11 +635,11 @@ Share This Article
 
  
 
-[![The History of Halloween for Students](https://www.safesearchkids.com/wp-content/uploads/2023/10/Happy-Halloween-The-History-of-Halloween.jpg)](https://www.safesearchkids.com/the-history-of-halloween/)
+[![Safe Internet for Schools](https://www.safesearchkids.com/wp-content/uploads/2022/05/Kids-in-Classroom-Searching-the-Web-Safely.jpg)](https://www.safesearchkids.com/internet-filtering/)
 
 ### 
 
-[The History of Halloween](https://www.safesearchkids.com/the-history-of-halloween/)
+[Safe Internet for Schools](https://www.safesearchkids.com/internet-filtering/)
 
 ### Article Categories
 
@@ -654,17 +654,17 @@ Share This Article
 * [Human Interest](https://www.safesearchkids.com/well-being/human-interest/)
 * [Well-Being](https://www.safesearchkids.com/well-being/)
 
-[![Excited Parents Looking at Phone](https://www.safesearchkids.com/wp-content/uploads/2024/10/Excited-Parents.jpg)](https://www.safesearchkids.com/best-parental-control-app/)
+[![parental control software](https://www.safesearchkids.com/wp-content/uploads/2024/02/Parental-Control-App-for-Families.jpg)](https://www.safesearchkids.com/best-parental-control-app/)
 
 ### 
 
-[Parental Controls 15% Off](https://www.safesearchkids.com/best-parental-control-app/)
+[Parental Control App](https://www.safesearchkids.com/best-parental-control-app/)
 
-[![Safe Internet for Schools](https://www.safesearchkids.com/wp-content/uploads/2022/05/Kids-in-Classroom-Searching-the-Web-Safely.jpg)](https://www.safesearchkids.com/internet-filtering/)
+[![Amazon Free 18-24 year olds](https://www.safesearchkids.com/wp-content/uploads/2024/10/Girl-Telling-Secret-in-School.jpg)](https://www.safesearchkids.com/amazon-prime-offer-for-young-adults-and-college-students/)
 
 ### 
 
-[Safe Internet for Schools](https://www.safesearchkids.com/internet-filtering/)
+[Amazon Prime for Students](https://www.safesearchkids.com/amazon-prime-offer-for-young-adults-and-college-students/)
 
 ### Parenting and Well-Being
 
@@ -856,6 +856,7 @@ Share This Article
 * [Google for Kids | Safe Search](https://www.safesearchkids.com/google-kids/)
 * [What is The Fediverse? Is it Safe?](https://www.safesearchkids.com/the-fediverse-and-its-relatiionship-with-social-media/)
 * [Ransomware Protection](https://www.safesearchkids.com/ransomware-protection/)
+* [How to be an Internet Skeptic](https://www.safesearchkids.com/how-to-be-an-internet-skeptic/)
 
 ### Parental Controls
 
