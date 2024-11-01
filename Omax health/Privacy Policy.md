@@ -1,8 +1,6 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)       Privacy Policy – Omax Health - Omax Health                      
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)              
 
-     
-
-               
+Privacy Policy – Omax Health - Omax Health                                 
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -305,13 +303,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3405 reviews](https://omaxhealth.com/pages/reviews)
+[3407 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3084)
+(3086)
 
 5%
 
@@ -329,7 +327,27 @@ Go to product page
 
 (53)
 
-2201
+2203
+
+W
+
+[3 Pack CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-extra-strength#judgeme_product_reviews)
+
+Wendy
+
+**Everyone needs this**
+
+Tried this on a recommendation from someone who has knee pain-and now my husband and I, my parents and several of our friends order regularly for all sorts of aches. Mystery neck pain from sleeping wrong, chronic back pain, headache, wrist pain, cramps of all sorts…this stuff is great. As someone who has bought $$$$ in search of some relief for my husbands chronic pain issues-even something that is temporary but helps is worthwhile -and this is one of those things. Must reapply as necessary but the rollerball is perfect and provides real help.
+
+M
+
+[Omax® Pure Tincture CBD Oil](https://omaxhealth.com/products/pure-tincture-cbd-oil#judgeme_product_reviews)
+
+Mary G.
+
+**Great product**
+
+Read the reviews of this oil. It is great. I have had ongoing neck pain for a couple of years now. I use this in the morning and at night and it helps the pain tremendously
 
 L
 
@@ -340,27 +358,5 @@ Lisa
 **Great product!**
 
 My husband had rotator cuff surgery a little over a year ago. He’s 65 and very active (he’s been a triathlete for over 30 years). After the surgery and recovery, he continued to have nagging aches but CellMax has been a game changer for him! The shoulder feels good and he is able to work out at the level he needs/wants to continue to race! Thank you Omax Health … keep up the good work on delivering great products!
-
-A
-
-[3 Pack CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-extra-strength#judgeme_product_reviews)
-
-Anonymous
-
-**Roll on relief**
-
-The most effective roll on for pain relief I have ever used also lasts for quite a while 👍👍👍👍👍
-
-K
-
-[Omax® CircuMax Sport Socks 3 Pack](https://omaxhealth.com/products/omax-circumax-sport-socks-3-pack#judgeme_product_reviews)
-
-Katie H.
-
-**The best socks I have ever owned.**
-
-Not to be dramatic but I would die for these socks.
-
-They are warm without making my feet sweaty, soft, supportive, and they hold up incredibly well. They are honestly the only socks I have that I enjoy wearing. The fact that they are just sort of a side product on a supplement website is baffling to me.
 
 Load More
