@@ -3,7 +3,7 @@ Welcome to Gaia! :: Gaia Online PRIVACY POLICY – Effective April 5, 2016
 
 [Gaia Home](https://www.gaiaonline.com/ "Return to the Gaia Homepage")
 
-  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/4b36efc4da3f.gif)](https://www.gaiaonline.com/forum/t.113992572 "Avatar Chat") [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/08e504bdab0b.gif)](https://www.gaiaonline.com/gaiaevent/halloweenspirits/ "Halloween Spirits")
+  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/181d0e732c62.gif)](https://www.gaiaonline.com/forum/t.114372879/ "Tea & Crumpets") [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/08e504bdab0b.gif)](https://www.gaiaonline.com/gaiaevent/halloweenspirits/ "Halloween Spirits")
 
 [Login](https://www.gaiaonline.com/auth/?_gaia_t_=4952 "Login to Gaia") [Register](https://www.gaiaonline.com/register/?v=c&_gaia_t_=4950 "Create a free account now")
 
@@ -13,13 +13,13 @@ Log In
 
 [Forgot your login?](https://www.gaiaonline.com/account/sendpass/ "Forgot your username/password?")
 
-5f5241691123e30da45b7ee142ad49a778a2cc5dc827da624ecbd79e27125d18
+81be7148326d0f80f26de13f5066a79416b367e0364bfad14297276cac4e0171
 
 * [My Gaia](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fmygaia%2F)
 
 * [GCash](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fpayments%2F%3F_gaia_t_%3D8608)
 
-* [Shops](https://www.gaiaonline.com/market/)
+* [Shops !](https://www.gaiaonline.com/market/)
 
 * [Forums](https://www.gaiaonline.com/forum/)
 
@@ -345,9 +345,9 @@ Get Items
 
 More Items
 
-* [Deals & New Items](https://www.gaiaonline.com/deals/)
+* [Deals & New Items](https://www.gaiaonline.com/deals?m=newitems)
     
-    Find new items, and discounts
+    New item released!
     
 * [Premium Items](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fpremiumitems%2F)
     
@@ -541,4 +541,4 @@ Play with Platinum
 
 [More](https://www.gaiaonline.com/luckycatch/)
 
-![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1730469566)
+![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1730491475)
