@@ -20,16 +20,16 @@ Friday, November 1 2024
 
 Latest
 
-* [Data center constraints pinch as Microsoft reports soaring AI demand](https://digitpatrox.com/data-center-constraints-pinch-as-microsoft-reports-soaring-ai-demand/)
-* [Yes, You Can Trace a VoIP Call](https://digitpatrox.com/yes-you-can-trace-a-voip-call/)
-* [Visual Intelligence finally gives Apple its version of Google Lens — here’s how to use it](https://digitpatrox.com/visual-intelligence-finally-gives-apple-its-version-of-google-lens-heres-how-to-use-it/)
-* [Chinese hackers use Quad7 botnet to steal credentials](https://digitpatrox.com/chinese-hackers-use-quad7-botnet-to-steal-credentials/)
-* [ChromeOS gets a big update with Quick Insert, Focus mode, and new AI features](https://digitpatrox.com/chromeos-gets-a-big-update-with-quick-insert-focus-mode-and-new-ai-features/)
-* [NYT Strands Today: Hints, Answers & Spangram for November 1](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-1/)
-* [Cognizant and Nvidia team up to supercharge data modernization](https://digitpatrox.com/cognizant-and-nvidia-team-up-to-supercharge-data-modernization/)
-* [Microsoft aims to simplify how Office files are opened on mobile devices – Computerworld](https://digitpatrox.com/microsoft-aims-to-simplify-how-office-files-are-opened-on-mobile-devices-computerworld/)
-* [The Pixel 9 Pro Is Great (If You Ignore the AI)](https://digitpatrox.com/the-pixel-9-pro-is-great-if-you-ignore-the-ai/)
-* [Best Home Blood Pressure Monitors of 2024](https://digitpatrox.com/best-home-blood-pressure-monitors-of-2024/)
+* [The Best Apps for Selling Used Clothing and Household Items](https://digitpatrox.com/the-best-apps-for-selling-used-clothing-and-household-items/)
+* [Ransomware gang Qilin claims cyber attack on Aiken Electric Cooperative – 4.6K+ affected](https://digitpatrox.com/ransomware-gang-qilin-claims-cyber-attack-on-aiken-electric-cooperative-4-6k-affected/)
+* [Smart Road Tips for Halloween Safety](https://digitpatrox.com/smart-road-tips-for-halloween-safety/)
+* [How to Keep Your Windows PC Secure on Public Wi-Fi](https://digitpatrox.com/how-to-keep-your-windows-pc-secure-on-public-wi-fi/)
+* [Forget the metaverse, AI is the money-spinner at Meta: Reality Labs lost $4.4 billion this quarter, but Mark Zuckerberg’s sharpened AI focus is delivering results – and there’s more to come with Llama 4 on the horizon](https://digitpatrox.com/forget-the-metaverse-ai-is-the-money-spinner-at-meta-reality-labs-lost-4-4-billion-this-quarter-but-mark-zuckerbergs-sharpened-ai-focus-is-delivering-results-and-theres/)
+* [Got Big Ideas? Launch Them with the Help of This $25 Bundle.](https://digitpatrox.com/got-big-ideas-launch-them-with-the-help-of-this-25-bundle/)
+* [Android 16 confirmed for early release — here’s what we know](https://digitpatrox.com/android-16-confirmed-for-early-release-heres-what-we-know/)
+* [Hackers target critical zero-day vulnerability in PTZ cameras](https://digitpatrox.com/hackers-target-critical-zero-day-vulnerability-in-ptz-cameras/)
+* [Intel’s Gaudi AI chips are far behind Nvidia and AMD, won’t even hit $500M goal](https://digitpatrox.com/intels-gaudi-ai-chips-are-far-behind-nvidia-and-amd-wont-even-hit-500m-goal/)
+* [New WhatsApp Features Added in October 2024](https://digitpatrox.com/new-whatsapp-features-added-in-october-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/VjJz5gzKNTKXVpoe5ShDDd-1200-80.jpg)](https://digitpatrox.com/data-center-constraints-pinch-as-microsoft-reports-soaring-ai-demand/)
+* [![](https://lifehacker.com/imagery/articles/01HZHVM3K92HT7P7P3MNW21NYP/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-best-apps-for-selling-used-clothing-and-household-items/)
     
-    [Data center constraints pinch as Microsoft reports soaring AI demand](https://digitpatrox.com/data-center-constraints-pinch-as-microsoft-reports-soaring-ai-demand/)
+    [The Best Apps for Selling Used Clothing and Household Items](https://digitpatrox.com/the-best-apps-for-selling-used-clothing-and-household-items/)
     
-    21 mins ago
+    10 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/10/how-to-trace-a-voip-call-featured-image-10312024.jpg)](https://digitpatrox.com/yes-you-can-trace-a-voip-call/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Ransomware-gang-Qilin-claims-cyber-attack-on-Aiken-Electric-Cooperative.jpg)](https://digitpatrox.com/ransomware-gang-qilin-claims-cyber-attack-on-aiken-electric-cooperative-4-6k-affected/)
     
-    [Yes, You Can Trace a VoIP Call](https://digitpatrox.com/yes-you-can-trace-a-voip-call/)
+    [Ransomware gang Qilin claims cyber attack on Aiken Electric Cooperative – 4.6K+ affected](https://digitpatrox.com/ransomware-gang-qilin-claims-cyber-attack-on-aiken-electric-cooperative-4-6k-affected/)
     
-    24 mins ago
+    16 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/dqKRbNbJr3BPkrZfhPjLDS.jpg)](https://digitpatrox.com/visual-intelligence-finally-gives-apple-its-version-of-google-lens-heres-how-to-use-it/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1697567868/prod/content/dam/CRO-Images-2023/10October/Cars/CR-Cars-InlineHero-Smart-Road-Tips-Halloween_Safety-1023)](https://digitpatrox.com/smart-road-tips-for-halloween-safety/)
     
-    [Visual Intelligence finally gives Apple its version of Google Lens — here’s how to use it](https://digitpatrox.com/visual-intelligence-finally-gives-apple-its-version-of-google-lens-heres-how-to-use-it/)
+    [Smart Road Tips for Halloween Safety](https://digitpatrox.com/smart-road-tips-for-halloween-safety/)
     
-    40 mins ago
+    41 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/09/09/0_7777.jpg)](https://digitpatrox.com/chinese-hackers-use-quad7-botnet-to-steal-credentials/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/people-using-computers-with-a-security-alert-icon.jpg)](https://digitpatrox.com/how-to-keep-your-windows-pc-secure-on-public-wi-fi/)
     
-    [Chinese hackers use Quad7 botnet to steal credentials](https://digitpatrox.com/chinese-hackers-use-quad7-botnet-to-steal-credentials/)
+    [How to Keep Your Windows PC Secure on Public Wi-Fi](https://digitpatrox.com/how-to-keep-your-windows-pc-secure-on-public-wi-fi/)
     
-    1 hour ago
+    44 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/0E751x5RCmzRCiWYyjvwOM452dg=/0x0:1920x1079/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652213/Chromebook_Quick_Insert__1_.jpg)](https://digitpatrox.com/chromeos-gets-a-big-update-with-quick-insert-focus-mode-and-new-ai-features/)
+* [![](https://cdn.mos.cms.futurecdn.net/hagZyYLKSTyZo9UPd9PZo6-1200-80.jpg)](https://digitpatrox.com/forget-the-metaverse-ai-is-the-money-spinner-at-meta-reality-labs-lost-4-4-billion-this-quarter-but-mark-zuckerbergs-sharpened-ai-focus-is-delivering-results-and-theres/)
     
-    [ChromeOS gets a big update with Quick Insert, Focus mode, and new AI features](https://digitpatrox.com/chromeos-gets-a-big-update-with-quick-insert-focus-mode-and-new-ai-features/)
+    [Forget the metaverse, AI is the money-spinner at Meta: Reality Labs lost $4.4 billion this quarter, but Mark Zuckerberg’s sharpened AI focus is delivering results – and there’s more to come with Llama 4 on the horizon](https://digitpatrox.com/forget-the-metaverse-ai-is-the-money-spinner-at-meta-reality-labs-lost-4-4-billion-this-quarter-but-mark-zuckerbergs-sharpened-ai-focus-is-delivering-results-and-theres/)
     
-    1 hour ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [21 mins ago
+* [10 mins ago
     
-    ### Data center constraints pinch as Microsoft reports soaring AI demand](https://digitpatrox.com/data-center-constraints-pinch-as-microsoft-reports-soaring-ai-demand/)
-* [24 mins ago
+    ### The Best Apps for Selling Used Clothing and Household Items](https://digitpatrox.com/the-best-apps-for-selling-used-clothing-and-household-items/)
+* [16 mins ago
     
-    ### Yes, You Can Trace a VoIP Call](https://digitpatrox.com/yes-you-can-trace-a-voip-call/)
-* [40 mins ago
+    ### Ransomware gang Qilin claims cyber attack on Aiken Electric Cooperative – 4.6K+ affected](https://digitpatrox.com/ransomware-gang-qilin-claims-cyber-attack-on-aiken-electric-cooperative-4-6k-affected/)
+* [41 mins ago
     
-    ### Visual Intelligence finally gives Apple its version of Google Lens — here’s how to use it](https://digitpatrox.com/visual-intelligence-finally-gives-apple-its-version-of-google-lens-heres-how-to-use-it/)
+    ### Smart Road Tips for Halloween Safety](https://digitpatrox.com/smart-road-tips-for-halloween-safety/)
 
 Most Popular Topics
 
-* [August 25, 2024
-    
-    ### New macOS malware poses as legitimate apps to steal passwords, crypto wallets and more — how to stay safe](https://digitpatrox.com/new-macos-malware-poses-as-legitimate-apps-to-steal-passwords-crypto-wallets-and-more-how-to-stay-safe/)
 * [3 weeks ago
     
-    ### Today’s Wordle Answer and Hints (October 9, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-9-2024/)
-* [September 23, 2024
+    ### The Fitbit Ace LTE, a great kids’ smartwatch, is down to $170](https://digitpatrox.com/the-fitbit-ace-lte-a-great-kids-smartwatch-is-down-to-170/)
+* [4 days ago
     
-    ### Amazon October Prime Day: how to find the best deals](https://digitpatrox.com/amazon-october-prime-day-how-to-find-the-best-deals/)
+    ### Best Smartwatches of 2024, Tested by Our Experts](https://digitpatrox.com/best-smartwatches-of-2024-tested-by-our-experts/)
+* [August 24, 2024
+    
+    ### California Just Added Support for Digital IDs on Android](https://digitpatrox.com/california-just-added-support-for-digital-ids-on-android/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### Android 16 confirmed for early release — here’s what we know](https://digitpatrox.com/android-16-confirmed-for-early-release-heres-what-we-know/)
+* [2 hours ago
+    
+    ### Hackers target critical zero-day vulnerability in PTZ cameras](https://digitpatrox.com/hackers-target-critical-zero-day-vulnerability-in-ptz-cameras/)
 * [3 hours ago
     
-    ### Cognizant and Nvidia team up to supercharge data modernization](https://digitpatrox.com/cognizant-and-nvidia-team-up-to-supercharge-data-modernization/)
-* [3 hours ago
-    
-    ### Microsoft aims to simplify how Office files are opened on mobile devices – Computerworld](https://digitpatrox.com/microsoft-aims-to-simplify-how-office-files-are-opened-on-mobile-devices-computerworld/)
-* [4 hours ago
-    
-    ### The Pixel 9 Pro Is Great (If You Ignore the AI)](https://digitpatrox.com/the-pixel-9-pro-is-great-if-you-ignore-the-ai/)
+    ### Intel’s Gaudi AI chips are far behind Nvidia and AMD, won’t even hit $500M goal](https://digitpatrox.com/intels-gaudi-ai-chips-are-far-behind-nvidia-and-amd-wont-even-hit-500m-goal/)
 
 Most Viewed Topics
 
