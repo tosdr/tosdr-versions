@@ -430,11 +430,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/instalacija-s-kadom/megi-i-mama.jpg?itok=0nNwtMTs)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/instalacija-s-kadom)
+[![Dnevnik/Diary, Raša Todosijević, 54. Bijenale, Venecija](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/ras-todosijevic/svetlost-i-tama-simbola/paviljon-srbije/izlozba-svetlost-i-tama-simbola/dnevnik.jpg?itok=5P90VjRP)](http://seecult.org/galerija/galerija-umetnika/rasa-todosijevic/svetlost-i-tama-simbola-light-and-darkness-symbols-30)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/program-doma-omladine-beograd/hightone-jul2.jpg?itok=7vy_bPfC)](http://seecult.org/galerija/foto-galerija/foto-arhiva/program-doma-omladine-beograd)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/roling-stons-usce-14707/bgbina18.jpg?itok=0WXhM0_Q)](http://seecult.org/galerija/foto-galerija/foto-arhiva/roling-stons-usce-14707)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
