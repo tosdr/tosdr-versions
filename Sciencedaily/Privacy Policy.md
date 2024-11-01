@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 31, 2024**
+**November 1, 2024**
 
 * * *
 
@@ -230,25 +230,25 @@ this week
 
 [Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
 
-[Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
+[Kidney Disease](https://www.sciencedaily.com/news/health_medicine/kidney_disease/)
 
-[Wounds and Healing](https://www.sciencedaily.com/news/health_medicine/wounds_and_healing/)
+[Leukemia](https://www.sciencedaily.com/news/health_medicine/leukemia/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
+
 [Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
 
-[Solar Energy](https://www.sciencedaily.com/news/matter_energy/solar_energy/)
-
-[Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
+[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
-
 [Wild Animals](https://www.sciencedaily.com/news/plants_animals/wild_animals/)
 
-[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
+[Zoology](https://www.sciencedaily.com/news/plants_animals/zoology/)
+
+[Animal Learning and Intelligence](https://www.sciencedaily.com/news/plants_animals/animal_learning_and_intelligence/)
 
   
 
