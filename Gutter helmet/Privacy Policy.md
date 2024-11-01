@@ -4,7 +4,7 @@
 
 [Close Search](#)
 
-Get $250 Off Gutter Helmet Today!\*
+Get $200 Off Gutter Helmet Today!\*
 
 [![Gutter Helmet](https://www.gutterhelmet.com/wp-content/uploads/2023/08/Gutter-Helmet-Logo.png)![Gutter Helmet](https://www.gutterhelmet.com/wp-content/uploads/2023/08/Gutter-Helmet-Logo.png)](https://www.gutterhelmet.com/)
 
