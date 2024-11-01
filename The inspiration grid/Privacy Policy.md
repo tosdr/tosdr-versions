@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/art-cote-escriva-feature.jpg)
+
+[](https://theinspirationgrid.com/creepy-disney-art-toys-by-cote-escriva/)
+
+### Creepy Disney: Art Toys by Coté Escrivá
+
+![](https://inspgr.id/app/uploads/2024/10/photography-maxime-vantorre-feature.jpg)
+
+[](https://theinspirationgrid.com/65-degrees-north-gorgeous-photos-by-maxime-vantorre/)
+
+### 65 Degrees North: Gorgeous Photos by Maxime Vantorre
+
 ![](https://inspgr.id/app/uploads/2024/10/illustration-rokas-aleliunas-feature.jpg)
 
 [](https://theinspirationgrid.com/vibrant-illustrated-portraits-by-rokas-aleliunas/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/democracy-other-hyper-realistic-sculptures-by-max-siedentopf/)
 
 ### Democracy & Other Hyper-Realistic Sculptures by Max Siedentopf
-
-![](https://inspgr.id/app/uploads/2024/10/architecture-refuge-de-barroude-feature.jpg)
-
-[](https://theinspirationgrid.com/refuge-de-barroude-a-stunning-safe-haven/)
-
-### Refuge de Barroude: A Stunning Safe Haven
-
-![](https://inspgr.id/app/uploads/2024/10/illustration-xi-zhang-feature-cover.jpg)
-
-[](https://theinspirationgrid.com/ethereal-illustrations-by-xi-zhang/)
-
-### Ethereal Illustrations by Xi Zhang
 
 Awesome products for creatives
 ------------------------------
