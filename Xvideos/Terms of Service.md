@@ -1,4 +1,4 @@
-[![Back to the home page](https://static-cdn77.xvideos-cdn.com/v3/img/skins/default/logo/events/xvideos.white.halloween.svg)](https://www.xvideos.com/)
+[![Back to the home page](https://static-cdn77.xvideos-cdn.com/v3/img/skins/default/logo/xvideos.white.svg)](https://www.xvideos.com/)
 
 XVideos Terms of service
 ========================
