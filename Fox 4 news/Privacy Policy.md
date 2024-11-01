@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![71-year-old Aubrey woman found dead in backyard, family member charged with capital murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/adrian-joe-padilla.jpg?ve=1&tl=1)
+ [![Young Thug pleads guilty as part of 'blind plea' in YSL trial, sentenced](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/snapshot4.jpg?ve=1&tl=1)
 
- ![71-year-old Aubrey woman found dead in backyard, family member charged with capital murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/adrian-joe-padilla.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/71-year-old-aubrey-woman-found-dead-backyard-family-member-charged-capital-murder)
+ ![Young Thug pleads guilty as part of 'blind plea' in YSL trial, sentenced](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/592/333/snapshot4.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/young-thug-pleads-guilty-part-blind-plea-ysl-trial-sentenced)
 
-### [71-year-old Aubrey woman found dead in backyard, family member charged with capital murder](https://www.fox4news.com/news/71-year-old-aubrey-woman-found-dead-backyard-family-member-charged-capital-murder)
+### [Young Thug pleads guilty as part of 'blind plea' in YSL trial, sentenced](https://www.fox4news.com/news/young-thug-pleads-guilty-part-blind-plea-ysl-trial-sentenced)
 
- [![Irving teen arrested, charged in murder of 18-year-old Cidrik Calhoune](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/screenshot-2024-10-31-125905.png?ve=1&tl=1)
+ [![Opal Lee brings civil rights pioneer Fannie Lou Hamer play to Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-dionne-opal-lee-voting-rights-play-530p_00.00.25.00.jpg?ve=1&tl=1)
 
- ![Irving teen arrested, charged in murder of 18-year-old Cidrik Calhoune](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/screenshot-2024-10-31-125905.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/irving-teen-arrested-charged-murder-18-year-old-cidrik-calhoune)
+ ![Opal Lee brings civil rights pioneer Fannie Lou Hamer play to Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-dionne-opal-lee-voting-rights-play-530p_00.00.25.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/opal-lee-brings-civil-rights-pioneer-fannie-lou-hamer-play-fort-worth)
 
-### [Irving teen arrested, charged in murder of 18-year-old Cidrik Calhoune](https://www.fox4news.com/news/irving-teen-arrested-charged-murder-18-year-old-cidrik-calhoune)
+### [Opal Lee brings civil rights pioneer Fannie Lou Hamer play to Fort Worth](https://www.fox4news.com/news/opal-lee-brings-civil-rights-pioneer-fannie-lou-hamer-play-fort-worth)
 
- [![Fort Worth man charged with federal gun crimes](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/screenshot-2024-10-31-102548.png?ve=1&tl=1)
+ [![Will crime have an impact on Texas voters in the 2024 election?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-steven-voter-polling-on-crime-4p_00.01.56.08.jpg?ve=1&tl=1)
 
- ![Fort Worth man charged with federal gun crimes](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/screenshot-2024-10-31-102548.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-man-charged-federal-gun-crimes)
+ ![Will crime have an impact on Texas voters in the 2024 election?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-steven-voter-polling-on-crime-4p_00.01.56.08.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/2024-election-texas-crime)
 
-### [Fort Worth man charged with federal gun crimes](https://www.fox4news.com/news/fort-worth-man-charged-federal-gun-crimes)
+### [Will crime have an impact on Texas voters in the 2024 election?](https://www.fox4news.com/election/2024-election-texas-crime)
 
- [![Bird flu detected in pig for 1st time in US: What it means for humans](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1663641690-scaled.jpg?ve=1&tl=1)
+ [![Texas Dems target state's abortion ban following report of Houston woman's miscarriage death](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/4p-h1-texas-abortion-ban-presser_00.00.11.08.jpg?ve=1&tl=1)
 
- ![Bird flu detected in pig for 1st time in US: What it means for humans](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1663641690-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/bird-flu-pig-oregon-humans)
+ ![Texas Dems target state's abortion ban following report of Houston woman's miscarriage death](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/4p-h1-texas-abortion-ban-presser_00.00.11.08.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-democrats-target-abortion-ban-following-propublica-report-houston-womans-death)
 
-### [Bird flu detected in pig for 1st time in US: What it means for humans](https://www.fox4news.com/news/bird-flu-pig-oregon-humans)
+### [Texas Dems target state's abortion ban following report of Houston woman's miscarriage death](https://www.fox4news.com/news/texas-democrats-target-abortion-ban-following-propublica-report-houston-womans-death)
 
- [![Party like it’s 1988: Dodgers World Series parade route, team’s first in 36 years](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/gettyimages-2181370951-1.jpg?ve=1&tl=1)
+ [![Beloved custodian gets school building named after her: 'She's one in a million'](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/claudene-featured.jpg?ve=1&tl=1)
 
- ![Party like it’s 1988: Dodgers World Series parade route, team’s first in 36 years](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/gettyimages-2181370951-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dodgers-win-world-series)
+ ![Beloved custodian gets school building named after her: 'She's one in a million'](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/claudene-featured.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/claudene-wilson-custodian-school-building-named-after-her)
 
-### [Party like it’s 1988: Dodgers World Series parade route, team’s first in 36 years](https://www.fox4news.com/news/dodgers-win-world-series)
+### [Beloved custodian gets school building named after her: 'She's one in a million'](https://www.fox4news.com/news/claudene-wilson-custodian-school-building-named-after-her)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
