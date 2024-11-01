@@ -1,7 +1,3 @@
-[**Looking for a student video solution?** Given the recent sunset of Flip’s apps, check out Submit as an alternative. Here’s how we can help. ﻿**👈**](https://www.screencastify.com/blog/prioritizing-student-voice-try-submit-to-replace-flip)﻿
-
-[](#)
-
 [![](https://cdn.prod.website-files.com/639781d572293a44a8b20e90/63c9b7cd75b6dd0229b1a578_screencastify_logo_rgb%20(2).svg)](https://www.screencastify.com/)
 
 Education
