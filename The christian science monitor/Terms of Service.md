@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Who’s the real loser in the 2024 election? Mainstream media.](https://www.csmonitor.com/USA/Society/2024/1101/mainstream-media-joe-rogan-podcasters "Who’s the real loser in the 2024 election? Mainstream media.")
+
 [### Putin has ruled Russia for 25 years. How did he last so long?](https://www.csmonitor.com/World/Europe/2024/1031/vladimir-putin-russia-kremlin-25-years-ukraine-war "Putin has ruled Russia for 25 years. How did he last so long?")
 
 [### US seeks to counter Chinese influence in the Global South. Is it too late?](https://www.csmonitor.com/World/2024/1031/us-china-russia-brics-global-south "US seeks to counter Chinese influence in the Global South. Is it too late?")
-
-[### How Harris and Trump both put family issues front and center, from IVF to schools](https://www.csmonitor.com/USA/Society/2024/1031/IVF-schools-child-tax-credit "How Harris and Trump both put family issues front and center, from IVF to schools")
 
 * * *
 
