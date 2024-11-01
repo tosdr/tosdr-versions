@@ -83,17 +83,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. ![Listing image for first story in Most Read: Person accidentally poisoned 46 coworkers with toxin-loaded homemade lunch](https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-2151489625-768x432.jpg)
+1. [![Listing image for first story in Most Read: Person accidentally poisoned 46 coworkers with toxin-loaded homemade lunch](https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-2151489625-768x432.jpg)](https://arstechnica.com/health/2024/10/when-you-make-lunch-for-your-coworkers-and-accidentally-cause-a-mass-poisoning/)
     
-    1. [Person accidentally poisoned 46 coworkers with toxin-loaded homemade lunch](https://arstechnica.com/health/2024/10/when-you-make-lunch-for-your-coworkers-and-accidentally-cause-a-mass-poisoning/?itm_source=parsely-api)
+    1. [Person accidentally poisoned 46 coworkers with toxin-loaded homemade lunch](https://arstechnica.com/health/2024/10/when-you-make-lunch-for-your-coworkers-and-accidentally-cause-a-mass-poisoning/)
     
-2. 2. [The New Glenn rocket’s first stage is real, and it’s spectacular](https://arstechnica.com/space/2024/10/new-glenn-rolls-to-the-launch-pad-as-end-of-year-deadline-approaches/?itm_source=parsely-api)
+2. 2. [The New Glenn rocket’s first stage is real, and it’s spectacular](https://arstechnica.com/space/2024/10/new-glenn-rolls-to-the-launch-pad-as-end-of-year-deadline-approaches/)
     
-3. 3. [Apple’s M4, M4 Pro, and M4 Max compared to past generations, and to each other](https://arstechnica.com/apple/2024/10/apples-m4-m4-pro-and-m4-max-compared-to-past-generations-and-to-each-other/?itm_source=parsely-api)
+3. 3. [300 percent price hikes push disgruntled VMware customers toward Broadcom rivals](https://arstechnica.com/information-technology/2024/10/a-year-after-broadcoms-vmware-buy-customers-eye-exit-strategies/)
     
-4. 4. [Here’s the paper no one read before declaring the demise of modern cryptography](https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/?itm_source=parsely-api)
+4. 4. [Apple’s M4, M4 Pro, and M4 Max compared to past generations, and to each other](https://arstechnica.com/apple/2024/10/apples-m4-m4-pro-and-m4-max-compared-to-past-generations-and-to-each-other/)
     
-5. 5. [A year after Broadcom’s VMware buy, customers eye exit strategies](https://arstechnica.com/information-technology/2024/10/a-year-after-broadcoms-vmware-buy-customers-eye-exit-strategies/?itm_source=parsely-api)
+5. 5. [Here’s the paper no one read before declaring the demise of modern cryptography](https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/)
     
 
 Customize
