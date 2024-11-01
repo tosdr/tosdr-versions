@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f8b38c65-3eaf-4a0c-8878-c61efe938884/20241101T064039/f8b38c65-3eaf-4a0c-8878-c61efe938884_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f8b38c65-3eaf-4a0c-8878-c61efe938884/20241101T064039/f8b38c65-3eaf-4a0c-8878-c61efe938884_360x203.jpg)](https://www.king5.com/article/news/local/seattle-mayor-approves-new-music-venue-parking-permits-ease-burden-artists/281-9f414961-72e7-4294-b6ec-5eca842dff3d)
+    *  [![](https://media.king5.com/assets/KING/images/d800eb64-3063-4185-823c-451d4ce0f4ea/20241003T000458/d800eb64-3063-4185-823c-451d4ce0f4ea_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d800eb64-3063-4185-823c-451d4ce0f4ea/20241003T000458/d800eb64-3063-4185-823c-451d4ce0f4ea_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/watch-seattle-kraken-games-king-kong-nhl-2024-2025-season/281-85cdbc67-3416-4190-9734-6767ad46aee2)
         
-        #### [Seattle mayor signs off on new music venue parking permits to ease burden on artists](https://www.king5.com/article/news/local/seattle-mayor-approves-new-music-venue-parking-permits-ease-burden-artists/281-9f414961-72e7-4294-b6ec-5eca842dff3d)
+        #### [KING 5, KONG to air live broadcasts of 72 regular season Seattle Kraken games](https://www.king5.com/article/sports/nhl/kraken/watch-seattle-kraken-games-king-kong-nhl-2024-2025-season/281-85cdbc67-3416-4190-9734-6767ad46aee2)
         
-    *  [![](https://media.king5.com/assets/KING/images/bc8acdc6-09bc-438c-8b12-534073ca403f/20241030T061015/bc8acdc6-09bc-438c-8b12-534073ca403f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bc8acdc6-09bc-438c-8b12-534073ca403f/20241030T061015/bc8acdc6-09bc-438c-8b12-534073ca403f_360x203.jpg)](https://www.king5.com/article/news/politics/elections/bellevue-woman-got-16-ballots-in-mail-to-her-apartment-number/281-5e559bb3-dbab-483d-8951-bfca8247b1ab)
+    *  [![](https://media.king5.com/assets/KING/images/b51e9c72-0e56-4eb8-8680-a38c54b2ba94/20240807T121335/b51e9c72-0e56-4eb8-8680-a38c54b2ba94_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b51e9c72-0e56-4eb8-8680-a38c54b2ba94/20240807T121335/b51e9c72-0e56-4eb8-8680-a38c54b2ba94_360x203.jpg)](https://www.king5.com/article/news/politics/elections/key-races-2024-november-general-election-washington-state/281-ce49f122-92fa-40af-b0bc-4c9c10c7bcff)
         
-        #### [Bellevue woman receives 16 ballots addressed to her apartment number with different names](https://www.king5.com/article/news/politics/elections/bellevue-woman-got-16-ballots-in-mail-to-her-apartment-number/281-5e559bb3-dbab-483d-8951-bfca8247b1ab)
+        #### [Key races to watch in 2024 Washington general election](https://www.king5.com/article/news/politics/elections/key-races-2024-november-general-election-washington-state/281-ce49f122-92fa-40af-b0bc-4c9c10c7bcff)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -60,9 +60,9 @@ Navigation
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/KENS/images/c7ac5c7a-b987-4f2b-80ae-f409ec7f8579/20241029T205308/c7ac5c7a-b987-4f2b-80ae-f409ec7f8579_16x9.jpg) ![](https://media.king5.com/assets/KENS/images/c7ac5c7a-b987-4f2b-80ae-f409ec7f8579/20241029T205308/c7ac5c7a-b987-4f2b-80ae-f409ec7f8579_360x203.jpg)](https://www.king5.com/article/weather/weather-on-halloween-2024-western-washington/281-29407c7a-b3d5-44e4-a84e-5caf85dfc6b5)
+    *  [![](https://media.king5.com/assets/KING/images/a8db8538-4a74-4fe2-b903-3df9ac2e8c00/a8db8538-4a74-4fe2-b903-3df9ac2e8c00_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a8db8538-4a74-4fe2-b903-3df9ac2e8c00/a8db8538-4a74-4fe2-b903-3df9ac2e8c00_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-warning-advisory-cascade-snow/281-a2f49c46-65ba-4ba9-b284-13e4bc420412)
         
-        #### [Latest forecast shows weather on Halloween could have a few tricks for those gathering treats](https://www.king5.com/article/weather/weather-on-halloween-2024-western-washington/281-29407c7a-b3d5-44e4-a84e-5caf85dfc6b5)
+        #### [Here's how much snow is expected in the Cascades Friday](https://www.king5.com/article/weather/weather-blog/winter-storm-warning-advisory-cascade-snow/281-a2f49c46-65ba-4ba9-b284-13e4bc420412)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-46°
+50°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
