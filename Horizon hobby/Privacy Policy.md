@@ -2,7 +2,29 @@
 
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-[**RC Fall Frenzy Sale** - Save up to $130!](https://www.horizonhobby.com/horizon-hobby-rc-sale/fall-frenzy-sale/)
+[RC Fall Frenzy Sale
+
+Save up to $130](https://www.horizonhobby.com/horizon-hobby-rc-sale/fall-frenzy-sale/)
+
+[20% off Spektrum Smart Items
+
+Select Batteries, Chargers & More](https://www.horizonhobby.com/horizon-hobby-rc-sale/spektrum-smart-sale/)
+
+[RC Club Bonus Points
+
+Earn Extra Points On Select Items](https://www.horizonhobby.com/rc-club-bonus-points-3/)
+
+[RC Fall Frenzy Sale
+
+Save up to $130](https://www.horizonhobby.com/horizon-hobby-rc-sale/fall-frenzy-sale/)
+
+[20% off Spektrum Smart Items
+
+Select Batteries, Chargers & More](https://www.horizonhobby.com/horizon-hobby-rc-sale/spektrum-smart-sale/)
+
+[RC Club Bonus Points
+
+Earn Extra Points On Select Items](https://www.horizonhobby.com/rc-club-bonus-points-3/)
 
  
 
@@ -86,7 +108,29 @@ My store
 
 [](#)
 
-[**RC Fall Frenzy Sale** - Save up to $130!](https://www.horizonhobby.com/horizon-hobby-rc-sale/fall-frenzy-sale/)
+[RC Fall Frenzy Sale
+
+Save up to $130](https://www.horizonhobby.com/horizon-hobby-rc-sale/fall-frenzy-sale/)
+
+[20% off Spektrum Smart Items
+
+Select Batteries, Chargers & More](https://www.horizonhobby.com/horizon-hobby-rc-sale/spektrum-smart-sale/)
+
+[RC Club Bonus Points
+
+Earn Extra Points On Select Items](https://www.horizonhobby.com/rc-club-bonus-points-3/)
+
+[RC Fall Frenzy Sale
+
+Save up to $130](https://www.horizonhobby.com/horizon-hobby-rc-sale/fall-frenzy-sale/)
+
+[20% off Spektrum Smart Items
+
+Select Batteries, Chargers & More](https://www.horizonhobby.com/horizon-hobby-rc-sale/spektrum-smart-sale/)
+
+[RC Club Bonus Points
+
+Earn Extra Points On Select Items](https://www.horizonhobby.com/rc-club-bonus-points-3/)
 
 * [Shop](https://www.horizonhobby.com/s/horizon-us/home "Shop Radio Control")
 * [Learn](https://www.horizonhobby.com/learn.html "Learn about the RC Hobby")
