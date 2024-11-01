@@ -588,20 +588,20 @@ Weitere spannende Themen
 Neueste Tests
 
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
+* [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 
 test.de entdecken
 
-* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
-* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
-* [Das Renten-Set: Formulare für Ihre Rentenplanung](https://www.test.de/Das-Renten-Set-Formulare-fuer-Ihre-Rentenplanung-6138022-0/ "Das Renten-Set - Formulare für Ihre Rentenplanung")
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
-* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
+* [Nahrungs­ergän­zungs­mittel für Männer: Über­flüssig bis riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Maenner-5953318-0/ "Nahrungsergänzungsmittel für Männer - Überflüssig bis riskant")
+* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
+* [Kinder-Smartwatches im Test: Peilsender am Hand­gelenk](https://www.test.de/Kinder-Smartwatch-Test-6041356-0/ "Kinder-Smartwatches im Test - Peilsender am Handgelenk")
+* [Drip Bars: Vitamin-Infusion? Für Gesunde unnötig](https://www.test.de/Drip-Bars-Vitamin-Infusion-Fuer-Gesunde-unnoetig-6160158-0/ "Drip Bars - Vitamin-Infusion? Für Gesunde unnötig")
+* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
+* [Test energiesparend Kochen: Was bringen Kochsack und Kochkiste?](https://www.test.de/Test-energiesparend-Kochen-Was-bringen-Kochsack-und-Kochkiste-6000525-0/ "Test energiesparend Kochen - Was bringen Kochsack und Kochkiste?")
 
 Fußbereich
 
@@ -2725,20 +2725,20 @@ Weitere spannende Themen
 Neueste Tests
 
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
+* [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 
 test.de entdecken
 
-* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
-* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
-* [Das Renten-Set: Formulare für Ihre Rentenplanung](https://www.test.de/Das-Renten-Set-Formulare-fuer-Ihre-Rentenplanung-6138022-0/ "Das Renten-Set - Formulare für Ihre Rentenplanung")
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
-* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
+* [Nahrungs­ergän­zungs­mittel für Männer: Über­flüssig bis riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Maenner-5953318-0/ "Nahrungsergänzungsmittel für Männer - Überflüssig bis riskant")
+* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
+* [Kinder-Smartwatches im Test: Peilsender am Hand­gelenk](https://www.test.de/Kinder-Smartwatch-Test-6041356-0/ "Kinder-Smartwatches im Test - Peilsender am Handgelenk")
+* [Drip Bars: Vitamin-Infusion? Für Gesunde unnötig](https://www.test.de/Drip-Bars-Vitamin-Infusion-Fuer-Gesunde-unnoetig-6160158-0/ "Drip Bars - Vitamin-Infusion? Für Gesunde unnötig")
+* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
+* [Test energiesparend Kochen: Was bringen Kochsack und Kochkiste?](https://www.test.de/Test-energiesparend-Kochen-Was-bringen-Kochsack-und-Kochkiste-6000525-0/ "Test energiesparend Kochen - Was bringen Kochsack und Kochkiste?")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2783,38 +2783,38 @@ Weitere spannende Themen
 Neueste Tests
 
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
+* [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 
 test.de entdecken
 
-* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
-* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
-* [Das Renten-Set: Formulare für Ihre Rentenplanung](https://www.test.de/Das-Renten-Set-Formulare-fuer-Ihre-Rentenplanung-6138022-0/ "Das Renten-Set - Formulare für Ihre Rentenplanung")
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
-* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
+* [Nahrungs­ergän­zungs­mittel für Männer: Über­flüssig bis riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Maenner-5953318-0/ "Nahrungsergänzungsmittel für Männer - Überflüssig bis riskant")
+* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
+* [Kinder-Smartwatches im Test: Peilsender am Hand­gelenk](https://www.test.de/Kinder-Smartwatch-Test-6041356-0/ "Kinder-Smartwatches im Test - Peilsender am Handgelenk")
+* [Drip Bars: Vitamin-Infusion? Für Gesunde unnötig](https://www.test.de/Drip-Bars-Vitamin-Infusion-Fuer-Gesunde-unnoetig-6160158-0/ "Drip Bars - Vitamin-Infusion? Für Gesunde unnötig")
+* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
+* [Test energiesparend Kochen: Was bringen Kochsack und Kochkiste?](https://www.test.de/Test-energiesparend-Kochen-Was-bringen-Kochsack-und-Kochkiste-6000525-0/ "Test energiesparend Kochen - Was bringen Kochsack und Kochkiste?")
 
 Neueste Tests
 
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
+* [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 
 test.de entdecken
 
-* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
-* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
-* [Das Renten-Set: Formulare für Ihre Rentenplanung](https://www.test.de/Das-Renten-Set-Formulare-fuer-Ihre-Rentenplanung-6138022-0/ "Das Renten-Set - Formulare für Ihre Rentenplanung")
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
-* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
+* [Nahrungs­ergän­zungs­mittel für Männer: Über­flüssig bis riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Maenner-5953318-0/ "Nahrungsergänzungsmittel für Männer - Überflüssig bis riskant")
+* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
+* [Kinder-Smartwatches im Test: Peilsender am Hand­gelenk](https://www.test.de/Kinder-Smartwatch-Test-6041356-0/ "Kinder-Smartwatches im Test - Peilsender am Handgelenk")
+* [Drip Bars: Vitamin-Infusion? Für Gesunde unnötig](https://www.test.de/Drip-Bars-Vitamin-Infusion-Fuer-Gesunde-unnoetig-6160158-0/ "Drip Bars - Vitamin-Infusion? Für Gesunde unnötig")
+* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
+* [Test energiesparend Kochen: Was bringen Kochsack und Kochkiste?](https://www.test.de/Test-energiesparend-Kochen-Was-bringen-Kochsack-und-Kochkiste-6000525-0/ "Test energiesparend Kochen - Was bringen Kochsack und Kochkiste?")
 
 Service Stiftung Warentest
 
