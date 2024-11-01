@@ -5,9 +5,9 @@ Manga & Anime Favorites
 
 * [My Hero Academia](https://www.viz.com/my-hero-academia)
 * [Ito-verse](https://www.viz.com/junji-ito)
+* [Pokémon](https://www.viz.com/pokemon)
 * [Naruto](https://www.viz.com/naruto)
 * [Bleach](https://www.viz.com/bleach)
-* [Pokémon](https://www.viz.com/pokemon)
 * [Boruto](https://www.viz.com/boruto)
 * [Read Kamudo Free!](https://www.viz.com/vizmanga/chapters/kamudo)
 * [Gomi](https://www.viz.com/products/gomi-no-sensei)
@@ -26,7 +26,7 @@ Manga & Anime Favorites
 * [Create](https://www.viz.com/create)
 * [Calendar](https://www.viz.com/calendar)
 
-Find a title or a character… 
+Author, title, character 
 
 [Read Kamudo Free!](https://www.viz.com/vizmanga/chapters/kamudo)
 
