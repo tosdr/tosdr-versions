@@ -1,9 +1,5 @@
 [Skip to main content](#main-content)
 
-New Relic Now Dream of innovating more? Make it real on 10/31.
-
-[RSVP Now](https://newrelic.com/event/new-relic-now)
-
 [](https://newrelic.com/ "New Relic Logo")
 
 Search toggle Main navigation menu, 6 items
@@ -125,7 +121,7 @@ Submit
     
     New Relic Now
     
-    Grow your business with more perfect digital experiences. RSVP](https://newrelic.com/event/new-relic-now)
+    AI meets observability. On-demand access starts Nov 7.](https://newrelic.com/event/new-relic-now)
     
     1
     
@@ -197,7 +193,7 @@ Submit
     
     New Relic Now
     
-    Turn peak traffic into peak opportunity. RSVP to see Intelligent Observability.](https://newrelic.com/event/new-relic-now)
+    Starting November 7th: On-demand access to tomorrow's solutions.](https://newrelic.com/event/new-relic-now)
     
     [![Security icon](/sites/default/files/2024-04/security.svg)
     
@@ -258,7 +254,7 @@ Submit
     
     New Relic Now
     
-    The future of observability is coming. Get a sneak peek on 10/31. RSVP now.](https://newrelic.com/event/new-relic-now)
+    See the future of observability. On-demand access starts Nov 7.](https://newrelic.com/event/new-relic-now)
     
     [![gartner mq 2024 icon](/sites/default/files/2024-10/gartner-report-icon.svg)
     
