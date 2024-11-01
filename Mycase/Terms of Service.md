@@ -932,3 +932,19 @@ Search
 The LawPay Visa® Business Card is issued by Emprise Bank, pursuant to a license with Visa U.S.A., Inc.
 
 [](https://www.linkedin.com/company/mycase/)[](https://www.youtube.com/user/MyCaseInc/)[](https://twitter.com/mycaseinc/)[](https://www.facebook.com/mycase/)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202048%20878'%3E%3C/svg%3E)
+
+![](https://www.mycase.com/wp-content/uploads/2024/10/v2-MC-PopUp-NovPromo-Customer-700x300-1.png)
+
+Get a **25% discount on one year of MyCase Advanced** with LawPay and a **$250 Visa gift card!** Simply sign up for MyCase by 11/30 and process a payment of $500 or more through the LawPay integration within the first 30 days of use.
+
+**This Offer expires in:**
+
+:
+
+:
+
+:
+
+\*Terms and conditions apply.
