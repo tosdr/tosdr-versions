@@ -191,8 +191,6 @@ If you have any questions or concerns regarding this policy, please contact us a
 * Column Header
 * [PBS LearningMedia](https://www.pbslearningmedia.org/)
 * [Black Culture Connection](https://www.pbs.org/articles/topic/black-culture-connection/)
-* [Shop PBS](https://shop.pbs.org/?utm_source=PBS&utm_medium=Link&utm_campaign=pbs_home_footer_shoplink)
-* [PBS KIDS Shop](https://shop.pbskids.org/)
 * [PBS Digital Partners](https://shop.pbs.org/digital-downloads?utm_source=PBS&utm_medium=Link&utm_campaign=pbs_home_footer_digital)
 
 * Learn more
