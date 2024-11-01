@@ -1135,13 +1135,11 @@ Marken der Woche
 
 [Specials](https://de.iherb.com/specials)[Neu](https://de.iherb.com/new-products)[Ausprobieren](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/catalog/topsellers)
 
-[\-10% bis -60% ab 80 US$ Bestellwert 
+[\-22% auf iHerb-Marken
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/specials)
+ 
 
-[\-60% auf Beauty, Bad & Körperpflege
-
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/iherb-brands?specialtyFilters=1)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/iherb-brands?pcode=22HB24)
 
       
 
