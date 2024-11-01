@@ -142,7 +142,7 @@ Explains what information we collect and why, how we use it, and how to review a
 ##### Contact UsWe work from 11AM to 6PM Monday - Friday.  
 Closed weekends.
 
-[+1 (404) 842-0266](tel:404-842-0266) [![](/themes/default/frontend/oct-2023/assets/wa_white-pic.svg) Chat on WhatsApp](https://www.icebox.com/chat-whatsapp) [sales@icebox.com](mailto:sales@icebox.com)
+[+1 (404) 842-0266](tel:+14048420266) [![](/themes/default/frontend/oct-2023/assets/wa_white-pic.svg) Chat on WhatsApp](https://www.icebox.com/chat-whatsapp) [sales@icebox.com](mailto:sales@icebox.com)
 
 ![Icebox Atlanta store](/themes/default/frontend/oct-2023/assets/store-picture.webp)
 
