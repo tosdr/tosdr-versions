@@ -20,6 +20,22 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Rachel Bentley, Liberal Democrat councillor](https://southwarknews.co.uk/wp-content/uploads/2024/06/Rachel-Bentley-Liberal-Democrat-candidate-for-Bermondsey-and-Old-Southwark-360x180.jpg)](https://southwarknews.co.uk/featured/labour-budget-has-let-down-people-in-southwark-claim-local-lib-dems/)
+    
+    ### [Labour Budget has ‘let down’ people in Southwark, claim local Lib Dems](https://southwarknews.co.uk/featured/labour-budget-has-let-down-people-in-southwark-claim-local-lib-dems/)
+    
+    [![Southwark Council Leader Kieron Williams in his Tooley Street office](https://southwarknews.co.uk/wp-content/uploads/2024/05/IMG_1259-scaled-e1716997618169-360x180.jpg)](https://southwarknews.co.uk/area/southwark/leader-of-southwark-council-welcomes-budget-announcement/)
+    
+    ### [Leader of Southwark Council welcomes Budget announcement](https://southwarknews.co.uk/area/southwark/leader-of-southwark-council-welcomes-budget-announcement/) 
+    
+    [![At a hustings in early September local activist Jane Lyons backing her number one Conservative leadership candidate Kemi Badenoch. They first met when Kemi stood as the Conservative parliamentary candidate for Dulwich and West Norwood in 2010.](https://southwarknews.co.uk/wp-content/uploads/2024/11/PHOTO-2024-11-01-15-03-17-e1730476724989-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/kemi-badenoch-how-the-battle-for-dulwich-shaped-the-firebrand-and-tory-leadership-hopeful/)
+    
+    ### [Kemi Badenoch: How the battle for Dulwich shaped the firebrand and Tory leadership hopeful](https://southwarknews.co.uk/news/news-plus/kemi-badenoch-how-the-battle-for-dulwich-shaped-the-firebrand-and-tory-leadership-hopeful/)
+    
+    [![Elephant and Castle station. Credit: Sunil060902 (Wikimedia Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Elephant__Castle_tube_stn_Bakerloo_west_look_south-360x180.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/commuter-chaos-after-fire-alert-at-elephant-and-castle/)
+    
+    ### [Commuter chaos after fire alert at Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/commuter-chaos-after-fire-alert-at-elephant-and-castle/)
+    
     [![L-R: Luke Norbury, Children's Residential Manager; Clare Pitchford, Senior Service Development Officer; Cllr Ali, Deputy Leader and Cabinet Member for Children, Education & Refugees; Claire Boadu, Project Manager](https://southwarknews.co.uk/wp-content/uploads/2024/10/666903CD-1ABC-40EB-BF27-184D1A4D97E2-e1730288357971-360x180.jpeg)](https://southwarknews.co.uk/news/community/vacant-property-transformed-into-new-childrens-home/)
     
     ### [Vacant property transformed into new children’s home](https://southwarknews.co.uk/news/community/vacant-property-transformed-into-new-childrens-home/)
@@ -40,22 +56,6 @@
     [![Staff outside St Thomas' Hospital. Credit: Unite](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2419-rotated-e1730373755341-360x180.jpeg)](https://southwarknews.co.uk/area/borough/workers-at-guys-and-st-thomas-nhs-trust-to-protest-against-job-cuts/)
     
     ### [Workers at Guy’s and St Thomas’ NHS Trust to protest against ‘job cuts’](https://southwarknews.co.uk/area/borough/workers-at-guys-and-st-thomas-nhs-trust-to-protest-against-job-cuts/)
-    
-    [![Dulwich Hamlet's ground, Champion Hill](https://southwarknews.co.uk/wp-content/uploads/2024/10/champion-hill1-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/youtuber-football-club-investigates-alleged-homophobia-by-fan-during-match-with-dulwich-hamlet/)
-    
-    ### [YouTuber football club investigates alleged homophobia by fan during match with Dulwich Hamlet](https://southwarknews.co.uk/area/dulwich/youtuber-football-club-investigates-alleged-homophobia-by-fan-during-match-with-dulwich-hamlet/)
-    
-    [![The Lionesses celebrate. Photo: Lily Boorer](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lionesses-Boorer1-360x180.png)](https://southwarknews.co.uk/sport/football/lionesses/millwall-lionesses-hit-six-to-extend-unbeaten-run/)
-    
-    ### [Millwall Lionesses hit six to extend unbeaten run](https://southwarknews.co.uk/sport/football/lionesses/millwall-lionesses-hit-six-to-extend-unbeaten-run/)
-    
-    [![Tony Macklin died on 6 November 2015.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_6539-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
-    
-    ### [Minute’s applause at Millwall game to honour lifelong fan who died of cancer](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
-    
-    [![Lower Road pictured a month after Cycleway 4 was unveiled](https://southwarknews.co.uk/wp-content/uploads/2024/10/blurred-3-e1730298302905-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
-    
-    ### [Exclusive: Collisions have almost tripled on Lower Road since cycle lane was installed, data suggests](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,22 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Rachel Bentley, Liberal Democrat councillor](https://southwarknews.co.uk/wp-content/uploads/2024/06/Rachel-Bentley-Liberal-Democrat-candidate-for-Bermondsey-and-Old-Southwark-360x180.jpg)](https://southwarknews.co.uk/featured/labour-budget-has-let-down-people-in-southwark-claim-local-lib-dems/)
+    
+    ### [Labour Budget has ‘let down’ people in Southwark, claim local Lib Dems](https://southwarknews.co.uk/featured/labour-budget-has-let-down-people-in-southwark-claim-local-lib-dems/)
+    
+    [![Southwark Council Leader Kieron Williams in his Tooley Street office](https://southwarknews.co.uk/wp-content/uploads/2024/05/IMG_1259-scaled-e1716997618169-360x180.jpg)](https://southwarknews.co.uk/area/southwark/leader-of-southwark-council-welcomes-budget-announcement/)
+    
+    ### [Leader of Southwark Council welcomes Budget announcement](https://southwarknews.co.uk/area/southwark/leader-of-southwark-council-welcomes-budget-announcement/) 
+    
+    [![At a hustings in early September local activist Jane Lyons backing her number one Conservative leadership candidate Kemi Badenoch. They first met when Kemi stood as the Conservative parliamentary candidate for Dulwich and West Norwood in 2010.](https://southwarknews.co.uk/wp-content/uploads/2024/11/PHOTO-2024-11-01-15-03-17-e1730476724989-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/kemi-badenoch-how-the-battle-for-dulwich-shaped-the-firebrand-and-tory-leadership-hopeful/)
+    
+    ### [Kemi Badenoch: How the battle for Dulwich shaped the firebrand and Tory leadership hopeful](https://southwarknews.co.uk/news/news-plus/kemi-badenoch-how-the-battle-for-dulwich-shaped-the-firebrand-and-tory-leadership-hopeful/)
+    
+    [![Elephant and Castle station. Credit: Sunil060902 (Wikimedia Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Elephant__Castle_tube_stn_Bakerloo_west_look_south-360x180.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/commuter-chaos-after-fire-alert-at-elephant-and-castle/)
+    
+    ### [Commuter chaos after fire alert at Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/commuter-chaos-after-fire-alert-at-elephant-and-castle/)
+    
     [![L-R: Luke Norbury, Children's Residential Manager; Clare Pitchford, Senior Service Development Officer; Cllr Ali, Deputy Leader and Cabinet Member for Children, Education & Refugees; Claire Boadu, Project Manager](https://southwarknews.co.uk/wp-content/uploads/2024/10/666903CD-1ABC-40EB-BF27-184D1A4D97E2-e1730288357971-360x180.jpeg)](https://southwarknews.co.uk/news/community/vacant-property-transformed-into-new-childrens-home/)
     
     ### [Vacant property transformed into new children’s home](https://southwarknews.co.uk/news/community/vacant-property-transformed-into-new-childrens-home/)
@@ -126,22 +142,6 @@ View All Result
     [![Staff outside St Thomas' Hospital. Credit: Unite](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2419-rotated-e1730373755341-360x180.jpeg)](https://southwarknews.co.uk/area/borough/workers-at-guys-and-st-thomas-nhs-trust-to-protest-against-job-cuts/)
     
     ### [Workers at Guy’s and St Thomas’ NHS Trust to protest against ‘job cuts’](https://southwarknews.co.uk/area/borough/workers-at-guys-and-st-thomas-nhs-trust-to-protest-against-job-cuts/)
-    
-    [![Dulwich Hamlet's ground, Champion Hill](https://southwarknews.co.uk/wp-content/uploads/2024/10/champion-hill1-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/youtuber-football-club-investigates-alleged-homophobia-by-fan-during-match-with-dulwich-hamlet/)
-    
-    ### [YouTuber football club investigates alleged homophobia by fan during match with Dulwich Hamlet](https://southwarknews.co.uk/area/dulwich/youtuber-football-club-investigates-alleged-homophobia-by-fan-during-match-with-dulwich-hamlet/)
-    
-    [![The Lionesses celebrate. Photo: Lily Boorer](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lionesses-Boorer1-360x180.png)](https://southwarknews.co.uk/sport/football/lionesses/millwall-lionesses-hit-six-to-extend-unbeaten-run/)
-    
-    ### [Millwall Lionesses hit six to extend unbeaten run](https://southwarknews.co.uk/sport/football/lionesses/millwall-lionesses-hit-six-to-extend-unbeaten-run/)
-    
-    [![Tony Macklin died on 6 November 2015.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_6539-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
-    
-    ### [Minute’s applause at Millwall game to honour lifelong fan who died of cancer](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
-    
-    [![Lower Road pictured a month after Cycleway 4 was unveiled](https://southwarknews.co.uk/wp-content/uploads/2024/10/blurred-3-e1730298302905-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
-    
-    ### [Exclusive: Collisions have almost tripled on Lower Road since cycle lane was installed, data suggests](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -365,11 +365,11 @@ Website
 
 [29th October 2024](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
 
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bleecker3-copy-120x86.jpg)](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
+[![A map of the proposed Bakerloo Line extension to Lewisham. Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
 
-### [Five new food and drink openings in south London](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
+### [Bakerloo Line extension shunned in Budget](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
 
-[25th October 2024](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
+[31st October 2024](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
 
 [![(photo: Network Rail)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-28-10-2024-at-11.25-120x86.jpg)](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
 
@@ -377,13 +377,25 @@ Website
 
 [28th October 2024](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
 
-[![A map of the proposed Bakerloo Line extension to Lewisham. Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bleecker3-copy-120x86.jpg)](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
 
-### [Bakerloo Line extension shunned in Budget](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
+### [Five new food and drink openings in south London](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
 
-[31st October 2024](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
+[25th October 2024](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
 
 ### Featured Articles
+
+[![Rachel Bentley, Liberal Democrat councillor](https://southwarknews.co.uk/wp-content/uploads/2024/06/Rachel-Bentley-Liberal-Democrat-candidate-for-Bermondsey-and-Old-Southwark-120x86.jpg)](https://southwarknews.co.uk/featured/labour-budget-has-let-down-people-in-southwark-claim-local-lib-dems/)
+
+### [Labour Budget has ‘let down’ people in Southwark, claim local Lib Dems](https://southwarknews.co.uk/featured/labour-budget-has-let-down-people-in-southwark-claim-local-lib-dems/)
+
+[1st November 2024](https://southwarknews.co.uk/featured/labour-budget-has-let-down-people-in-southwark-claim-local-lib-dems/)
+
+[![Southwark Council Leader Kieron Williams in his Tooley Street office](https://southwarknews.co.uk/wp-content/uploads/2024/05/IMG_1259-scaled-e1716997618169-120x86.jpg)](https://southwarknews.co.uk/area/southwark/leader-of-southwark-council-welcomes-budget-announcement/)
+
+### [Leader of Southwark Council welcomes Budget announcement](https://southwarknews.co.uk/area/southwark/leader-of-southwark-council-welcomes-budget-announcement/) 
+
+[1st November 2024](https://southwarknews.co.uk/area/southwark/leader-of-southwark-council-welcomes-budget-announcement/)
 
 [![A map of the proposed Bakerloo Line extension to Lewisham. Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
 
@@ -408,18 +420,6 @@ Website
 ### [Protesters who blocked a coach in Peckham taking asylum seekers to Bibby Stockholm barge cleared](https://southwarknews.co.uk/area/peckham/protesters-who-blocked-a-coach-in-peckham-taking-asylum-seekers-to-bibby-stockholm-barge-cleared/)
 
 [30th October 2024](https://southwarknews.co.uk/area/peckham/protesters-who-blocked-a-coach-in-peckham-taking-asylum-seekers-to-bibby-stockholm-barge-cleared/)
-
-[![Chair Martin Boyd with Southwark’s Cheryl Russell, director of landlord services and Councillor Sarah King,cabinet member for council homes at the Southwark HomeOwners conference](https://southwarknews.co.uk/wp-content/uploads/2024/10/MBSarahKingCherylRussell-1024x683-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
-
-### [Exclusive: Director of resident services resigns from Southwark Council](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
-
-[30th October 2024](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
-
-[![Lemar Urqhart (left) and Guilherme Messias Da Silva (right)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lemar-Urqhart-left-and-Guilherme-Messias-Da-Silva-right-120x86.png)](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
-
-### [Family of man shot dead in Herne Hill says ‘time is not a healer’ in heartbreaking appeal for witnesses](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
-
-[30th October 2024](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
 
 ### USEFUL PAGES
 
