@@ -1,4 +1,4 @@
-[![iHeart](https://i.iheart.com/v3/re/new_assets/672113b167eafafca0d3b72f?ops=fit(240%2C80))](https://www.iheart.com/ "iHeart")
+[](https://www.iheart.com/ "iHeart")
 
 * [For You](https://www.iheart.com/for-you/ "iHeart")
 * [Your Library](https://www.iheart.com/your-library/)
@@ -15,9 +15,9 @@ Log InSign Up
 
 [Get The App](https://iheart.onelink.me/Ff5B/GetTheApp)
 
-[![iHeart](https://i.iheart.com/v3/re/new_assets/672113b767eafafca0d3b731?ops=fit(240%2C80))](https://www.iheart.com/ "iHeart")
+[](https://www.iheart.com/ "iHeart")
 
-[![iHeart](https://i.iheart.com/v3/re/new_assets/672113b767eafafca0d3b731?ops=fit(240%2C80))](https://www.iheart.com/ "iHeart")
+[](https://www.iheart.com/ "iHeart")
 
 Terms of Use
 ============
