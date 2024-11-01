@@ -69,13 +69,13 @@ Page content follows
     
     #### Featured Radios
     
-    * [![Shop SiriusXM - Onyx EZR with Vehicle Kit](https://sxm.ips.photos/sxm-java/images/skus/SXEZR1V1__PRODUCT_01--160--OnyxEZRwithVehicleKit-502503327.png)](https://shop.siriusxm.com/onyx-ezr-vehicle)
+    * [![Shop SiriusXM - Onyx EZR with Vehicle Kit](https://sxm.ips.photos/sxm-java/images/skus/710_160_PRODUCT_01_4764_-2139358587.jpg)](https://shop.siriusxm.com/onyx-ezr-vehicle)
         
         [Onyx EZR](https://shop.siriusxm.com/onyx-ezr-vehicle)
         
         Our most popular radio. Enjoy features like split-screen mode and create your own channel with TuneMix™.
         
-    * [![Shop SiriusXM - SiriusXM Roady BT](https://sxm.ips.photos/sxm-java/images/skus/SXVRBT1__PRODUCT_01--160--SiriusXMRoadyBT--227886644.png)](https://shop.siriusxm.com/roady-bt.html)
+    * [![Shop SiriusXM - SiriusXM Roady BT](https://sxm.ips.photos/sxm-java/images/skus/864_160_PRODUCT_01_7959_-1311768947.jpg)](https://shop.siriusxm.com/roady-bt.html)
         
         [SiriusXM Roady BT](https://shop.siriusxm.com/roady-bt.html)
         
@@ -125,13 +125,13 @@ Page content follows
         
         #### Featured Radios
         
-        * [![Shop SiriusXM - Onyx EZR with Vehicle Kit](https://sxm.ips.photos/sxm-java/images/skus/SXEZR1V1__PRODUCT_01--160--OnyxEZRwithVehicleKit-502503327.png)](https://shop.siriusxm.com/onyx-ezr-vehicle)
+        * [![Shop SiriusXM - Onyx EZR with Vehicle Kit](https://sxm.ips.photos/sxm-java/images/skus/710_160_PRODUCT_01_4764_-2139358587.jpg)](https://shop.siriusxm.com/onyx-ezr-vehicle)
             
             [Onyx EZR](https://shop.siriusxm.com/onyx-ezr-vehicle)
             
             Our most popular radio. Enjoy features like split-screen mode and create your own channel with TuneMix™.
             
-        * [![Shop SiriusXM - SiriusXM Roady BT](https://sxm.ips.photos/sxm-java/images/skus/SXVRBT1__PRODUCT_01--160--SiriusXMRoadyBT--227886644.png)](https://shop.siriusxm.com/roady-bt.html)
+        * [![Shop SiriusXM - SiriusXM Roady BT](https://sxm.ips.photos/sxm-java/images/skus/864_160_PRODUCT_01_7959_-1311768947.jpg)](https://shop.siriusxm.com/roady-bt.html)
             
             [SiriusXM Roady BT](https://shop.siriusxm.com/roady-bt.html)
             
