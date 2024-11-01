@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 478 utilisateurs actifs
+##### 667 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Windows 10 : Microsoft dévoile le prix que vous devrez payer pour rester à jour en 2025](https://lecrabeinfo.net/windows-10-microsoft-devoile-le-prix-que-vous-devrez-payer-pour-rester-a-jour-en-2025.html)
+* [Windows 11 24H2 : la foire aux bugs continue !](https://lecrabeinfo.net/windows-11-24h2-la-foire-aux-bugs-continue.html)
 * [Windows 11 : comment créer des archives 7z ou TAR avec l’Explorateur de fichiers ? (sans logiciels tiers)](https://lecrabeinfo.net/windows-11-comment-creer-des-archives-7z-ou-tar-avec-lexplorateur-de-fichiers-sans-logiciels-tiers.html)
-* [Windows 11 24H2 : l'Historique du Presse-papiers et le Nettoyage de disque touchés par des bugs](https://lecrabeinfo.net/windows-11-24h2-lhistorique-du-presse-papiers-et-le-nettoyage-de-disque-touches-par-des-bugs.html)
-* [Le Bluetooth a disparu ou ne fonctionne pas sur Windows 11 : 10 solutions pour résoudre le problème !](https://lecrabeinfo.net/le-bluetooth-a-disparu-ou-ne-fonctionne-pas-sur-windows-11-10-solutions-pour-resoudre-le-probleme.html) 
 
 ### Tendance
 
@@ -152,8 +152,8 @@ Chargement en cours
 
 ### Statistiques
 
-* 67 880 membres
-* 939 articles
+* 67 882 membres
+* 941 articles
 * 26 826 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
