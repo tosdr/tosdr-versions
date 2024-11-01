@@ -110,6 +110,7 @@ Announcing Dart 3.5 and an updated Dart roadmap! [Learn more](https://medium.com
         * [Verified publishers](https://dart.dev/tools/pub/verified-publishers)
         * [Security advisories](https://dart.dev/tools/pub/security-advisories)
         * [Versioning](https://dart.dev/tools/pub/versioning)
+        * [Custom package repositories](https://dart.dev/tools/pub/custom-package-repositories)
     * [What not to commit](https://dart.dev/guides/libraries/private-files)
 * [Development](#sidenav-5)
     * [JSON](https://dart.dev/guides/json)
