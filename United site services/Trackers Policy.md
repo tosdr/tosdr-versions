@@ -1,7 +1,5 @@
 [Skip to content](#fl-main-content)
 
-For support in areas impacted by hurricanes, call 689.284.0047 and press 1.
-
 * [Track Order](https://www.unitedsiteservices.com/order-info)
 * [Pick-Up Request](https://www.unitedsiteservices.com/porta-potty-pickup/)
 * [Pay Bill](https://www.unitedsiteservices.com/billpay/)
