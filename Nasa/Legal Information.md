@@ -263,29 +263,35 @@ article 3 days ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-suc
 
 ### Highlights
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/03/bone-cells.png?w=609)
+[![NASA astronaut Serena Auñón-Chancellor provides a saliva sample on the International Space Station. Her sample will be used to measure stress hormones and other biomarkers of health that can reveal how her immune system changes in space.](https://www.nasa.gov/wp-content/uploads/2021/12/serena_aunon-chancellor-saliva-sample-immunity-study-space-station.jpg?w=1024)
+
+2 min read
+
+### Research Operations and Integration
+
+article 5 hours ago](https://www.nasa.gov/hrp/research-operations-integration/sample-collection-and-portable-systems-and-blood-collection-data/)[![](https://www.nasa.gov/wp-content/uploads/2024/03/bone-cells.png?w=609)
 
 5 min read
 
 ### We Are All Made of Cells: Space and the Immune System
 
-article 9 mins ago](https://www.nasa.gov/science-research/we-are-all-made-of-cells-space-and-the-immune-system/)[![Exterior view of the International Space Station with Earth visible in the background. The station’s robotic arm and multiple scientific equipment modules are attached to its surface.](https://www.nasa.gov/wp-content/uploads/2024/10/iss061e143436.jpg?w=1024)
+article 6 hours ago](https://www.nasa.gov/science-research/we-are-all-made-of-cells-space-and-the-immune-system/)[![Exterior view of the International Space Station with Earth visible in the background. The station’s robotic arm and multiple scientific equipment modules are attached to its surface.](https://www.nasa.gov/wp-content/uploads/2024/10/iss061e143436.jpg?w=1024)
 
 2 min read
 
 ### Station Science Top News: Oct. 25, 2024
 
-article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-25-2024/)[![Stephanie Dudley, Gateway's mission integration and utilization manager, sits inside a high-fidelity mockup of HALO (Habitation and Logistics Outpost) at NASA’s Johnson Space Center. She is framed by a docking port, with interior components visible behind her.The mockup’s design showcases the compact and functional environment Artemis astronauts will use for living, conducting experiments, and preparing for lunar surface missions. Photo credit: NASA/Josh Valcarcel](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e064820-1.jpg?w=1024)
-
-3 min read
-
-### Gateway: Centering Science
-
-article 2 days ago](https://www.nasa.gov/missions/artemis/gateway/gateway-centering-science/)
+article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-25-2024/)
 
 ### Highlights
 
-[![Map shows orange and red colors spanning most of Antarctica and part of the Southern Ocean, indicating areas of low ozone concentrations.](https://www.nasa.gov/wp-content/uploads/2024/10/ozone-geos5-20240928-hires.jpg?w=996)
+[![SWOT data visualization](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26420-greenland-tsunami.jpg?w=1024)
+
+4 min read
+
+### International SWOT Satellite Spots Planet-Rumbling Greenland Tsunami
+
+article 5 hours ago](https://www.nasa.gov/missions/swot/international-swot-satellite-spots-planet-rumbling-greenland-tsunami/)[![Map shows orange and red colors spanning most of Antarctica and part of the Southern Ocean, indicating areas of low ozone concentrations.](https://www.nasa.gov/wp-content/uploads/2024/10/ozone-geos5-20240928-hires.jpg?w=996)
 
 5 min read
 
@@ -297,13 +303,7 @@ article 1 day ago](https://www.nasa.gov/earth/climate-change/ozone-layer/nasa-no
 
 ### INjected Smoke and PYRocumulonimbus Experiment Expressions of Interest for No-Cost Participation / Contributions and Clarification of A.61 INSPYRE ST.
 
-article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-blogs/injected-smoke-and-pyrocumulonimbus-experiment-expressions-of-interest-for-no-cost-participation-contributions-and-clarification-of-a-61-inspyre-st/)[![Permafrost Tunnel north of Fairbanks, Alaska](https://www.nasa.gov/wp-content/uploads/2024/10/1-permafrost-tunnel.jpg?w=1024)
-
-4 min read
-
-### NASA Helps Find Thawing Permafrost Adds to Near-Term Global Warming
-
-article 2 days ago](https://www.nasa.gov/earth/nasa-helps-find-thawing-permafrost-adds-to-near-term-global-warming/)
+article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-blogs/injected-smoke-and-pyrocumulonimbus-experiment-expressions-of-interest-for-no-cost-participation-contributions-and-clarification-of-a-61-inspyre-st/)
 
 ### Highlights
 
@@ -335,13 +335,13 @@ article 2 days ago](https://www.nasa.gov/missions/small-satellite-missions/lunar
 
 ### Why NASA’s SPHEREx Mission Will Make ‘Most Colorful’ Cosmic Map Ever
 
-article 6 hours ago](https://www.nasa.gov/missions/spherex/why-nasas-spherex-mission-will-make-most-colorful-cosmic-map-ever/)[![‘Blood-Soaked’ Eyes: NASA’s Webb, Hubble Examine Galaxy Pair](https://science.nasa.gov/wp-content/uploads/2024/10/webb-stsci-01j9rrkbba1ddr83vfrx24gs08-2k.jpg)
+article 12 hours ago](https://www.nasa.gov/missions/spherex/why-nasas-spherex-mission-will-make-most-colorful-cosmic-map-ever/)[![‘Blood-Soaked’ Eyes: NASA’s Webb, Hubble Examine Galaxy Pair](https://science.nasa.gov/wp-content/uploads/2024/10/webb-stsci-01j9rrkbba1ddr83vfrx24gs08-2k.jpg)
 
 5 min read
 
 ### ‘Blood-Soaked’ Eyes: NASA’s Webb, Hubble Examine Galaxy Pair
 
-article 7 hours ago](https://science.nasa.gov/missions/webb/blood-soaked-eyes-nasas-webb-hubble-examine-galaxy-pair/)[![Buckle Up: NASA-Funded Study Explores Turbulence in Molecular Clouds](https://science.nasa.gov/wp-content/uploads/2024/10/turbulence2.png)
+article 13 hours ago](https://science.nasa.gov/missions/webb/blood-soaked-eyes-nasas-webb-hubble-examine-galaxy-pair/)[![Buckle Up: NASA-Funded Study Explores Turbulence in Molecular Clouds](https://science.nasa.gov/wp-content/uploads/2024/10/turbulence2.png)
 
 3 min read
 
@@ -351,25 +351,25 @@ article 1 day ago](https://science.nasa.gov/universe/stars/nasa-funded-study-exp
 
 ### Highlights
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/03/bone-cells.png?w=609)
+[![SWOT data visualization](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26420-greenland-tsunami.jpg?w=1024)
+
+4 min read
+
+### International SWOT Satellite Spots Planet-Rumbling Greenland Tsunami
+
+article 5 hours ago](https://www.nasa.gov/missions/swot/international-swot-satellite-spots-planet-rumbling-greenland-tsunami/)[![](https://www.nasa.gov/wp-content/uploads/2024/03/bone-cells.png?w=609)
 
 5 min read
 
 ### We Are All Made of Cells: Space and the Immune System
 
-article 9 mins ago](https://www.nasa.gov/science-research/we-are-all-made-of-cells-space-and-the-immune-system/)[![B.21 Heliophysics Citizen Science Investigations POC Change](https://science.nasa.gov/wp-content/uploads/2021/10/heliophysics-math-webinar.png)
+article 6 hours ago](https://www.nasa.gov/science-research/we-are-all-made-of-cells-space-and-the-immune-system/)[![B.21 Heliophysics Citizen Science Investigations POC Change](https://science.nasa.gov/wp-content/uploads/2021/10/heliophysics-math-webinar.png)
 
 1 min read
 
 ### B.21 Heliophysics Citizen Science Investigations POC Change
 
-article 4 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/b-21-heliophysics-citizen-science-investigations-poc-change/)[![NASA’s SPHEREx observatory](https://www.nasa.gov/wp-content/uploads/2024/10/1-spherex-telescope.jpg?w=1024)
-
-6 min read
-
-### Why NASA’s SPHEREx Mission Will Make ‘Most Colorful’ Cosmic Map Ever
-
-article 6 hours ago](https://www.nasa.gov/missions/spherex/why-nasas-spherex-mission-will-make-most-colorful-cosmic-map-ever/)
+article 10 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/b-21-heliophysics-citizen-science-investigations-poc-change/)
 
 ### Highlights
 
@@ -391,7 +391,7 @@ article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-
 
 ### NASA Spotlight: Felipe Valdez, an Inspiring Engineer
 
-article 2 weeks ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-engineer/)
+article 3 weeks ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-engineer/)
 
 ### Highlights
 
@@ -429,7 +429,7 @@ article 3 weeks ago](https://www.nasa.gov/learning-resources/new-minecraft-game/
 
 ### NASA-Themed Pumpkin-Carving Templates and Stencils
 
-article 5 days ago](https://www.nasa.gov/stem-content/nasa-themed-pumpkin-carving-templates-and-stencils/)
+article 6 days ago](https://www.nasa.gov/stem-content/nasa-themed-pumpkin-carving-templates-and-stencils/)
 
 ### Featured
 
