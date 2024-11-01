@@ -541,6 +541,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![10 otherworldly travel destinations for the ultimate escape](https://media.restless.co.uk/uploads/2024/04/otherworldly-travel-destinations-for-the-ultimate-escape-768x548.jpg)](https://restless.co.uk/travel/otherworldly-travel-destinations-for-the-ultimate-escape/)
+
+### [10 otherworldly travel destinations for the ultimate escape](https://restless.co.uk/travel/otherworldly-travel-destinations-for-the-ultimate-escape/)
+
+[Read More »](https://restless.co.uk/travel/otherworldly-travel-destinations-for-the-ultimate-escape/)
+
 [![8 fascinating tours where you can really get to know a country](https://media.restless.co.uk/uploads/2024/10/fascinating-tours-where-you-can-really-get-to-know-a-country-768x349.jpg)](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/)
 
 ### [8 fascinating tours where you can really get to know a country](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/) 
@@ -570,12 +576,6 @@ New in travel
 ### [From Arctic to Equator – 11 amazing adventures for every season](https://restless.co.uk/travel/from-arctic-to-equator-amazing-adventures-for-every-season/)  
 
 [Read More »](https://restless.co.uk/travel/from-arctic-to-equator-amazing-adventures-for-every-season/)
-
-[![12 of the best last-minute holiday destinations](https://media.restless.co.uk/uploads/2022/08/the-best-last-minute-holiday-destinations-768x451.jpg)](https://restless.co.uk/travel/the-best-last-minute-holiday-destinations/)
-
-### [12 of the best last-minute holiday destinations](https://restless.co.uk/travel/the-best-last-minute-holiday-destinations/)
-
-[Read More »](https://restless.co.uk/travel/the-best-last-minute-holiday-destinations/)
 
 Popular travel guides
 ---------------------
