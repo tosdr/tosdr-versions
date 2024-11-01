@@ -1,3 +1,5 @@
+Nov 1, 2024 [New Payment Method Announcement – Buy Crypto With PayPal](https://paybis.com/news/buy-cryptocurrencies-with-paypal/)
+
 [](https://paybis.com/ "Paybis - Digital and Crypto currency exchange!")
 
 [Private](https://paybis.com/) [Corporate](https://paybis.com/corporate/)
