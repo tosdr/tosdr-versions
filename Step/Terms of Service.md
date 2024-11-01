@@ -10,7 +10,7 @@ Benefits
 
 [Money 101](https://www.step.com/education)[Families](https://www.step.com/families)[Security](https://www.step.com/security)[About](https://www.step.com/about)[FAQ](https://www.step.com/faq)
 
-[Get Step](https://apps.apple.com/us/app/step-next-generation-banking/id1438006983?mt=8 "Get Step")
+[Get Step](https://get.step.com/rM7X/afe2261f "Get Step")
 
 Get Started
 
