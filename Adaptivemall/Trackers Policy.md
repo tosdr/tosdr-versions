@@ -2,8 +2,6 @@ The store will not work correctly when cookies are disabled.
 
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
-[**Enter our Annual Halloween Costume Contest! Click here for details.**](https://www.adaptivemall.com/halloween-costume-contest "11th Annual Halloween Costume Contest")
-
 FREE SHIPPING\* | [See Details](https://www.adaptivemall.com/freeshipping)
 
 **Adaptivemall.com will be closed May 25th- 27th in observance of the Memorial Day Holiday. Customer Service will return on Tuesday, May 28th at 8:30am EST to resume regularly scheduled hours.** 
