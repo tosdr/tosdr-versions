@@ -1461,7 +1461,7 @@ Your Cart is empty.
 * [RazerStore Rewards](https://www.razer.com/store/rewards)
 * [Log In](#)
 
-Explore spine-chilling discounts from Oct 7-31 and treat yourself this Halloween! [Shop Now \>](https://www.razer.com/campaigns/halloween)
+For a limited time, all orders will enjoy free shipping to the United States. [Shop Now \>](https://www.razer.com/store)
 
 RAZER CUSTOMER PRIVACY POLICY
 =============================
