@@ -1,5 +1,4 @@
 If you appreciate the work done within the wiki, please consider supporting The Cutting Room Floor on [Patreon](https://www.patreon.com/tcrfwiki). Thanks for all your support!  
-🎃 Happy Halloween, TCRF! 🎃
 
 The Cutting Room Floor:General disclaimer
 =========================================
