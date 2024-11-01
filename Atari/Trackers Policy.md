@@ -342,10 +342,6 @@ Atari 7800+](https://www.atari.com/collections/7800)
 
 Atari x Thumbs Up!](https://www.atari.com/collections/atari-x-thumbs-up)
 
-[![](files/classic-dad-hat-black-front-66fe06e85b6fdcopy.jpg)
-
-Limited Edition](https://www.atari.com/collections/limited-edition)
-
 [![RCT x errornogo](files/Product_Image_aa18f2b3-48b8-439e-9d63-e9d86801f87f.png)
 
 RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
@@ -363,10 +359,6 @@ Atari 7800+](https://www.atari.com/collections/7800)
 [![](files/ThumbsUp_-ATAORGDECSET-Image5-160835-Daniel.jpg)
 
 Atari x Thumbs Up!](https://www.atari.com/collections/atari-x-thumbs-up)
-
-[![](files/classic-dad-hat-black-front-66fe06e85b6fdcopy.jpg)
-
-Limited Edition](https://www.atari.com/collections/limited-edition)
 
 [![RCT x errornogo](files/Product_Image_aa18f2b3-48b8-439e-9d63-e9d86801f87f.png)
 
