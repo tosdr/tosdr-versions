@@ -36,9 +36,7 @@ Full price match promise Terms and Conditions can be found at the bottom of this
 
 * * *
 
-If you'd like to return a Dyson machine\* for a full refund, you need to return the machine within 30 days from the delivery date. For purchases made at a Dyson Demo Store or Dyson Service Center, a return must be made within 30 days from the purchase date. Dyson Direct will pay for return shipping.
-
-_\*This policy excludes wearable devices such as Dyson Zone. Dyson Zone has a 14 day refund policy from the shipped delivery date. If purchased in a Dyson Demo Store or Service Center location, a return must be made within 14 days from the purchase date. Dyson Direct will pay for return shipping._
+Purchases made between November 1st and December 25th can be returned up until 5:00 PM CST on January 31st, 2025. Dyson Direct will pay for return shipping.
 
 Refurbished machines and machines identified as final sale are considered final sale and are not eligible for returns, only warranty service. If your machine arrived damaged or you have received the wrong product, please contact us.
 
