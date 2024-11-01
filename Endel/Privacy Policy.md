@@ -14,25 +14,29 @@ Privacy policy for the Endel app
 General Information
 -------------------
 
-We, Endel Sound GmbH, Sophienstraße 21, 10178 Berlin (hereinafter also referred to as “Endel”) collect and Process your Personal Data in connection with the Endel App (hereinafter also referred to as “App”) and are “controller” within the meaning of the EU General Data Protection Regulation (GDPR).
+We, Endel Sound GmbH, Sophienstraße 21, 10178 Berlin (hereinafter referred to as “Endel”), collect and process your personal data in connection with the Endel App (hereinafter referred to as “App”). We are the “controller” within the meaning of the EU General Data Protection Regulation (GDPR) and comply with applicable US data protection laws, including the California Consumer Privacy Act (CCPA).
 
 Definitions
 -----------
 
-Personal Data means any information relating to a living person which can be identified, directly or indirectly, in particular by reference to an identifier, such as a name, an identification number, location data or an online identifier.
+Personal Data: Any information that relates to an identified or identifiable individual, such as name, identification number, location data, or online identifier.
 
-Processing refers to any operation relating to Personal Data such as its collection, recording, organization, structuring, storage, adaptation or alteration, disclosure or any other use.
+Processing: Any operation performed on personal data, including collection, recording, organization, storage, alteration, retrieval, use, disclosure, and erasure.
 
-The protection and confidentiality of your data is very important to us. We therefore process your data only to the extent that this is necessary to provide the services you requested from the App, you have consented to the Processing or we are otherwise legally authorized to do so.
+The protection and confidentiality of your data is very important to us. We therefore process your data only to the extent that:
+
+this is necessary to provide the services you requested from the App, you have consented to the Processing or we are otherwise legally authorized to do so.
 
 If you have any questions, suggestions or comments, please feel free to contact Endel Sound GmbH, Sophienstraße 21, 10178 Berlin: E-Mail: ask@endel.io.
+
+You can contact our data protection officer: security@endel.io
 
 What data do we collect from you and for what purpose?
 ------------------------------------------------------
 
 a. Information collected during download
 
-When you download the App, certain required information is submitted to the App Store, including your Apple ID, time of download, payment information (e.g. credit card, bank account) and your individual device ID number. The processing of this data occurs exclusively through the respective App Store or the respective payment system (e.g. Stripe) and is beyond our control.
+When you download the App, certain required information is submitted to the App Store, including your Apple ID, time of download, payment information (e.g. credit card, bank account) and your individual device ID number. The processing of this data occurs exclusively through the respective App Store or the respective payment system (e.g. Stripe) and is beyond our control. We do not store or process this data.
 
 b. Information that is automatically collected when using the app
 
@@ -53,7 +57,7 @@ This Processing is justified by the fact that (1) the processing is necessary fo
 Registration and log-in with Facebook Connect
 ---------------------------------------------
 
-Facebook Connect makes it easy for you to register for and log into an account. Instead of entering the required information, you can log in with your Facebook login information. You will be redirected to the Facebook page to enter your information.
+Facebook Connect makes it easy for you to register for and log into an account. Instead of entering the required information, you can log in with your Facebook login information. You will be redirected to the Facebook page to enter your information.
 
 Registration in this form links your user account to your Facebook profile. We receive Personal Data about you from Facebook, namely your e-mail address and your name. We use these Personal Data only in order to identify you at registration and login. This Processing is justified by Art. 6 para. 1 S. 1 lit. b GDPR.
 
@@ -101,7 +105,7 @@ We will inform you periodically, usually once a week, about your weekly highligh
 
 h. Payments
 
-For payment processing, only the data relevant to payment is transmitted to Apple Pay, Google Play and Stripe. This is justified by the fact that the processing is necessary for the fulfilment of the contract between you and us pursuant to Art. 6 para. 1 lit. b) GDPR for the use of the App.
+For payment processing, only the data relevant to payment is transmitted to Apple Pay, Google Play, Stripe and PayPal. This is justified by the fact that the processing is necessary for the fulfilment of the contract between you and us pursuant to Art. 6 para. 1 lit. b) GDPR for the use of the App. 
 
 i. Advertising and newsletter
 
@@ -114,48 +118,42 @@ Where we store your data; who has access to your data.
 
 We store your data on your device and on the servers of our IT service provider Amazon Web Services SARL, 38 avenue John F. Kennedy, L-1855, Luxembourg. Processing shall only take place on our behalf and on the basis of a data processing agreement.
 
-If you use Facebook Connect to register for and log into an account, your Personal Data will be transmitted to Facebook, Inc. 1601 Willow Road Menlo Park, California 94025 in the United States. The transfer to the USA is secured by an adequacy decision based on the EU-US Privacy Shield.
+If you use Facebook Connect to register for and log into an account, your Personal Data will be transmitted to Facebook, Inc. 1601 Willow Road Menlo Park, California 94025 in the United States.
+
+Data transfers to the US (e.g., through Facebook Connect or other third-party tools) are secured by the EU-US Data Privacy Framework (DPF), which ensures that personal data receives adequate protection in line with EU standards during such transfers.
 
 Analytics tools
 
-Endel partially commissions third party providers to provide services for the analysis and evaluation of data. Processing is only carried out on our behalf and on the basis of a data processing agreement. In detail we use the following tools:
+Endel partially commissions third party providers to provide services for the analysis and evaluation of data. Processing is only carried out on our behalf and on the basis of a data processing agreement. All data transfers to the US are secured under the EU-US Data Privacy Framework. In detail we use the following tools:
 
-a. Amplitude
+a. Tableau
 
-We use the web analysis service Amplitude of Amplitude, Inc. 631 Howard St., Floor 3, San Francisco, CA 94107, USA to evaluate user access. The data collected with this technology will not be used to identify the user personally and will not be merged with Personal Data about the bearer of the pseudonym without the separate consent of the data subject. The information collected is stored on a server in the USA. Amplitude’s privacy policy can be found here: https://amplitude.com/privacy. The transfer to the USA is secured by an adequacy decision based on the EU-US Privacy Shield.
+We use Tableau, a business intelligence and data visualization platform by Tableau Software, LLC, 1621 N 34th St, Seattle, WA 98103, USA. Tableau allows us to analyze and visualize app usage data to improve the user experience. Tableau’s privacy policy can be found here https://tableau.com/privacy. Any data transfers to the USA are secured by the EU-US Data Privacy Framework.
 
-b. Adjust
+b. Google Firebase
 
-We use the analysis service Adjust from Adjust GmbH, Saarbrücker Straße 37a, 10405 Berlin to track user interactions with the app in real time and to analyze the performance of marketing campaigns. The data collected with this technology will not be used to identify the user personally and will not be merged with Personal Data about the bearer of the pseudonym without the separate consent of the data subject. Adjust’s privacy policy can be found here:https://www.adjust.com/terms/privacy-policy/. Any transfer to the USA is secured by an adequacy decision based on the EU-US Privacy Shield.
+We use the Google Firebase service from Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, to send push notifications. These use encrypted, anonymous device IDs, such as Apple device tokens, to deliver Push Services. Data transfers to the USA are secured by the EU-US Data Privacy Framework. Google Firebase's privacy policy is available here https://firebase.google.com/support/privacy
 
-c. Apptimize
+c. Crashlytics
 
-We use the service Apptimize from Apptimize, Inc., 330 Townsend St Suite 234, San Francisco, CA 94107, USA to analyse user behaviour via A/B-Testing. We can show you our App with slightly varied content, depending on the profile assignment. In this way we can analyse our offer, regularly improve it and make it more interesting for you as a user. Any transfer to the USA is secured by an adequacy decision based on the EU-US Privacy Shield.
+We work with Crashlytics, a Google LLC service, to collect information about system crashes and bugs. Crashlytics collects information about device usage, app version, and hardware data. Data transfers to the USA are secured by the EU-US Data Privacy Framework. For more information, please review Crashlytics' privacy policy here https://firebase.google.com/support/privacy
 
-d. Google Firebase
-
-We use the Google Firebase service from Google LLC, 1600 Amphitheatre, Parkway, Mountain View, CA 94043, USA to play push messages. A so-called device token from Apple is assigned for this purpose. The sole purpose of their use by us is to provide the Push Services. These are encrypted, anonymous device IDs. The transfer to the USA is secured by an adequacy decision based on the EU-US Privacy Shield.
-
-e. Crashlytics
-
-We work with Crashlytics Inc. “(“Crashlytics”), a Google LLC service that collects user information when users use Endel. Crashlytics collects data on app usage specifically related to system crashes and bugs. It uses information about the device, the version of the app that is installed, and other information that can help fix bugs, especially about the user’s software and hardware. The transfer to the USA is secured by an adequacy decision based on the EU-US Privacy Shield.
-
-f. Plug-ins
+d. Plug-ins
 
 We are currently using the social media plug-ins from Facebook and Spotify. We offer you the possibility to communicate directly with the provider of the plug-in via the button. When using the plug-ins, your data may be transmitted to the respective plug-in provider.
 
-g. Mailchimp
+e. Mailchimp 
 
-Our newsletter is sent using “Mailchimp”, a newsletter sending platform from the Rocket Science Group, LLC, 675 Ponce De Leon Ave NE 5000, Atlanta, GA 30308, USA. Mailchimp organizes and analyzes the distribution of newsletters. When you open an email sent by Mailchimp, a file included in the email (called a web beacon) connects to Mailchimp’s servers in the US. This allows us to determine if a newsletter message has been opened and which links you click on. In addition, technical information is collected (e.g. time of retrieval, IP address, browser type and operating system). This is used for the statistical analysis of the newsletter campaign. You can find Mailchimp’s privacy policy here: https://mailchimp.com/legal/privacy/. If you do not want your usage of the newsletter to be analyzed by Mailchimp, you can always withdraw your consent and unsubscribe from the newsletter at any time.
+Our newsletter is sent using Mailchimp, provided by Rocket Science Group LLC, 675 Ponce De Leon Ave NE, Suite 5000, Atlanta, GA 30308, USA. Mailchimp tracks newsletter opens, clicks, and other metrics for statistical analysis. Data transfers to the USA are secured by the EU-US Data Privacy Framework. You can find Mailchimp’s privacy policy here: https://mailchimp.com/legal/privacy/. If you do not want your usage of the newsletter to be analyzed by Mailchimp, you can always withdraw your consent and unsubscribe from the newsletter at any time.
 
-h. Push-notifications
+f. Push-notifications 
 
-For push notifications, we use the technology of the provider OneSignal, located at 2850 S Delaware St Suite 201, San Mateo, CA 94403, USA. We use “OneSignal” to send you push notifications and to keep you informed about news through the notifications. The provider processes personal data from you which allow conclusions to be drawn about your user behaviour, such as your reactions to the push notifications. The legal basis for the processing is Art. 6 para. 1 lit. a) GDPR. You can withdraw your consent at any time. OneSignal’s privacy policy can be found here: https://onesignal.com/privacy\_policy.
+For push notifications, we use the technology of the provider OneSignal, located at 2850 S Delaware St Suite 201, San Mateo, CA 94403, USA. We use “OneSignal” to send you push notifications and to keep you informed about news through the notifications. The provider processes personal data from you which allow conclusions to be drawn about your user behaviour, such as your reactions to the push notifications. The legal basis for the processing is Art. 6 para. 1 lit. a) GDPR. Data transfers to the USA are secured by the EU-US Data Privacy Framework. You can withdraw your consent at any time. OneSignal’s privacy policy can be found here: https://onesignal.com/privacy\_policy.
 
 How long your data will be stored and how you can delete it
 -----------------------------------------------------------
 
-We store your data only for the time period for which you use the app and they are necessary to fulfill the purpose for which they were originally collected. If applicable, we will store your data for as long as is legally required, e.g. for tax reasons.
+We store your data only for the time period for which you use the app and they are necessary to fulfill the purpose for which they were originally collected. If applicable, we will store your data for as long as is legally required, e.g. for tax reasons. California residents can request specific data retention information under the CCPA by contacting us.
 
 You can delete your data by visiting the data management section in your settings. This will irrevocably delete all your data from our databases.
 
@@ -181,14 +179,27 @@ In addition, you have the right to object at any time to the Processing of your 
 
 You may (i) exercise the above rights or (ii) ask questions or (iii) complain about our processing of your Personal Data by contacting us as indicated above.
 
+Under the CCPA, California residents have the right to:
+
+* Request information about the categories of personal data we have collected or disclosed.
+    
+* Request access to specific pieces of personal data collected about them.
+    
+* Request the deletion of personal data, subject to certain legal exceptions.
+    
+* Opt-out of the sale of their personal data (though we do not sell personal data as defined under the CCPA).
+    
+
+We do not sell your personal data as defined by the CCPA. To exercise any of your CCPA rights, please contact us at ask@endel.io.
+
 Changes to our privacy policy
 -----------------------------
 
-We reserve the right to amend this privacy policy in accordance with the provisions of data protection law. You will find the current version on our website at https://endel.zendesk.com/.
+We reserve the right to amend this privacy policy in accordance with the provisions of data protection law. You will find the current version on our website at https://endel.zendesk.com/hc/articles/360003562619.
 
-If you have any questions, suggestions or comments on the subject of data protection, please feel free to contact us. Contact information: Endel Sound GmbH, Sophienstraße 21, 10178 Berlin, E-Mail: ask@endel.io
+If you have any questions, suggestions or comments on the subject of data protection, please feel free to contact us. Contact information:  Endel Sound GmbH, Sophienstraße 21, 10178 Berlin, E-Mail: ask@endel.io
 
-Version: 1.3 ; Date: 29 April 2021
+Version: 1.5 ; Date: 15 October 2024
 
 [![Endel Logo](/icons/logo.svg)](https://www.endel.io/ "Go to main page")
 
