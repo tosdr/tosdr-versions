@@ -31,7 +31,7 @@ Subscribe
  ![Search](/theme_japantimes/images/search_icon.svg)
 
 * [Post-election tumult](https://www.japantimes.co.jp/news/japan/politics/ "Post-election tumult")
-* [MLB World Series](https://www.japantimes.co.jp/about-us/link-policy/tag/world-series/ "MLB World Series")
+* [North Korea in Ukraine](https://www.japantimes.co.jp/about-us/link-policy/tag/north-korea/ "North Korea in Ukraine")
 * [U.S. Presidential election](https://www.japantimes.co.jp/about-us/link-policy/tag/2024-us-presidential-election/ "U.S. Presidential election")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
@@ -135,6 +135,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431287.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.")](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
 
+[Dodgers win World Series after rallying from five runs down to beat Yankees in Game 5](https://www.japantimes.co.jp/sports/2024/10/31/baseball/mlb/dodgers-win-world-series/ "Dodgers win World Series after rallying from five runs down to beat Yankees in Game 5")
+
+  [![The Dodgers celebrate with the World Series trophy after winning Game 5 at Yankee Stadium on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431369.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Dodgers celebrate with the World Series trophy after winning Game 5 at Yankee Stadium on Wednesday.")](https://www.japantimes.co.jp/sports/2024/10/31/baseball/mlb/dodgers-win-world-series/ "Dodgers win World Series after rallying from five runs down to beat Yankees in Game 5")
+
 [Taiwan battens down for Super Typhoon Kong-rey](https://www.japantimes.co.jp/news/2024/10/30/asia-pacific/taiwan-super-typhoon/ "Taiwan battens down for Super Typhoon Kong-rey")
 
   [![People ride scooters in heavy rain as Typhoon Kong-rey approaches Taiwan, in Yilan County on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431235.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People ride scooters in heavy rain as Typhoon Kong-rey approaches Taiwan, in Yilan County on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/30/asia-pacific/taiwan-super-typhoon/ "Taiwan battens down for Super Typhoon Kong-rey")
@@ -147,10 +151,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![A man waits for a train at Ebisu Station in Tokyo on Oct. 4.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430906.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man waits for a train at Ebisu Station in Tokyo on Oct. 4.")](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
 
-[Miyagi Prefecture to introduce four-day workweek for all employees](https://www.japantimes.co.jp/news/2024/10/30/japan/miyagi-four-day-workweek/ "Miyagi Prefecture to introduce four-day workweek for all employees")
-
-  [![The Miyagi Prefectural Government Building in Sendai. The prefecture plans to expand the option for a four-day workweek to all prefectural employees from fiscal 2026.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431004.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Miyagi Prefectural Government Building in Sendai. The prefecture plans to expand the option for a four-day workweek to all prefectural employees from fiscal 2026.")](https://www.japantimes.co.jp/news/2024/10/30/japan/miyagi-four-day-workweek/ "Miyagi Prefecture to introduce four-day workweek for all employees")
-
 Editors' Picks
 --------------
 
@@ -161,6 +161,12 @@ Editors' Picks
 By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
 
   [![A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431287.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.")](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
+
+[BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
+
+[Dodgers win World Series after rallying from five runs down to beat Yankees in Game 5](https://www.japantimes.co.jp/sports/2024/10/31/baseball/mlb/dodgers-win-world-series/ "Dodgers win World Series after rallying from five runs down to beat Yankees in Game 5")
+
+  [![The Dodgers celebrate with the World Series trophy after winning Game 5 at Yankee Stadium on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431369.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Dodgers celebrate with the World Series trophy after winning Game 5 at Yankee Stadium on Wednesday.")](https://www.japantimes.co.jp/sports/2024/10/31/baseball/mlb/dodgers-win-world-series/ "Dodgers win World Series after rallying from five runs down to beat Yankees in Game 5")
 
 [ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
@@ -186,14 +192,6 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 
   [![A man waits for a train at Ebisu Station in Tokyo on Oct. 4.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430906.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man waits for a train at Ebisu Station in Tokyo on Oct. 4.")](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Miyagi Prefecture to introduce four-day workweek for all employees](https://www.japantimes.co.jp/news/2024/10/30/japan/miyagi-four-day-workweek/ "Miyagi Prefecture to introduce four-day workweek for all employees")
-
-By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
-
-  [![The Miyagi Prefectural Government Building in Sendai. The prefecture plans to expand the option for a four-day workweek to all prefectural employees from fiscal 2026.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431004.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Miyagi Prefectural Government Building in Sendai. The prefecture plans to expand the option for a four-day workweek to all prefectural employees from fiscal 2026.")](https://www.japantimes.co.jp/news/2024/10/30/japan/miyagi-four-day-workweek/ "Miyagi Prefecture to introduce four-day workweek for all employees")
-
 Podcast
 -------
 
@@ -213,9 +211,9 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,19 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan's Takeda raises full-year profit forecast amid restructuring](https://www.japantimes.co.jp/business/2024/10/31/takeda-raises-full-year-profit-forecast/ "Japan's Takeda raises full-year profit forecast amid restructuring")
+[Deceptive 'bait-and-switch' Facebook groups snare U.S. voters](https://www.japantimes.co.jp/news/2024/11/01/world/politics/bait-and-swtich-facebook-us-voters/ "Deceptive 'bait-and-switch' Facebook groups snare U.S. voters")
 
-10 hours ago
+42 mins ago
 
-[Truancy hits record high in Japan in fiscal 2023](https://www.japantimes.co.jp/news/2024/10/31/japan/truancy-record-high-fiscal-2023/ "Truancy hits record high in Japan in fiscal 2023")
+[Gifu police officer arrested over alleged sex with underage girl](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
 
-11 hours ago
+45 mins ago
 
-[Komeito leader Keiichi Ishii announces resignation after party lost seats](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/komeito-leader-resignation/ "Komeito leader Keiichi Ishii announces resignation after party lost seats")
+[Japan to see price hikes for 282 food products this month](https://www.japantimes.co.jp/business/2024/11/01/economy/november-price-hikes-food/ "Japan to see price hikes for 282 food products this month")
 
-[Bank of Japan keeps policy rate steady at 0.25%, as expected](https://www.japantimes.co.jp/business/2024/10/31/economy/boj-policy-rate/ "Bank of Japan keeps policy rate steady at 0.25%, as expected")
+58 mins ago
 
-[Campaigning kicks off for Hyogo gubernatorial election](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/hyogo-governor-election/ "Campaigning kicks off for Hyogo gubernatorial election")
+[High-frequency traders get an extra 30 minutes for Japan stocks](https://www.japantimes.co.jp/business/2024/11/01/markets/japan-stocks-trading/ "High-frequency traders get an extra 30 minutes for Japan stocks")
+
+1 hours ago
+
+[Investors take cover in Asia ahead of U.S. election](https://www.japantimes.co.jp/business/2024/11/01/markets/investors-hide-asia-us-election/ "Investors take cover in Asia ahead of U.S. election")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
