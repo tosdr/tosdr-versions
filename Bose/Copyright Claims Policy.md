@@ -1,33 +1,61 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-Use code SAVE10 to save 10% on select Certified Refurbished. [Shop](https://www.bose.com/c/refurbished)
+Black Friday Sneak Peek: Save up to 40% off the best sound for the season. [Shop](https://www.bose.com/c/holiday-sale)
 
-Sound for the season: Check out our newest fall arrivals. [Shop](https://www.bose.com/c/new-arrivals)
+Limited-edition QuietComfort Headphones are now available in Moonstone Blue. [Buy now](https://www.bose.com/QC-HEADPHONEARN.html?dwvar_QC-HEADPHONEARN_color=MOONSTONE+BLUE&quantity=1)
+
+Get gift inspiration with our Holiday Gift Guide. [Shop](https://www.bose.com/holiday-gift-guide)
 
 [Cancel](#)
 
 Back
 
+* [Holiday](#)
+    
+    * [Black Friday Sneak Peek](https://www.bose.com/c/holiday-sale)
+    * [Gift Guide](https://www.bose.com/holiday-gift-guide)
+    * [Exclusive Drops](https://www.bose.com/c/exclusives)
+    * [Gift Cards](https://www.bose.com/gift-cards)
+    
+    Back
+    
+    [![](https://assets.bosecreative.com/m/5da336c11f25d14/webimage-SF_SneakPeek_Nav-Fly-out_Mobile_Gift-Guide.png)
+    
+    ### Holiday Gift Guide](https://www.bose.com/holiday-gift-guide "Shop")
+    
+     
+    
+    Black Friday Sneak Peek
+    
+    Shop early. Own the gift game.
+    ------------------------------
+    
+    Stock up now on gifts with up to 40% off.
+    
+    [SHOP](https://www.bose.com/c/holiday-sale "SHOP")
+    
+
 * [Shop](#)
     
-    * [New & Featured](https://www.bose.com/c/new-arrivals)
+    * [Black Friday Sneak Peek](https://www.bose.com/c/holiday-sale)
+    * [New & Exclusive](https://www.bose.com/c/new-arrivals)
     * [Headphones](https://www.bose.com/c/headphones)
     * [Earbuds](https://www.bose.com/c/earbuds)
     * [Speakers](https://www.bose.com/c/speakers)
-    * [Home Theater](https://www.bose.com/c/home-theater)
     
+    * [Home Theater](https://www.bose.com/c/home-theater)
     * [Portable PA](https://www.bose.com/c/portable-pa)
     * [Aviation Headsets](https://www.bose.com/c/aviation-headsets)
     * [Refurbished](https://www.bose.com/c/refurbished)
-    * [Sets](https://www.bose.com/c/sets)
+    * [Gifts](https://www.bose.com/holiday-gift-guide)
     
-    * [Gift Cards](https://www.bose.com/gift-cards)
     * [Accessories](https://www.bose.com/c/accessories)
     * [All Products](https://www.bose.com/c/all-products)
     
     Back
     
-    * [All New & Featured](https://www.bose.com/c/new-arrivals)
+    * [All New & Exclusive](https://www.bose.com/c/new-arrivals)
+    * [Exclusive Drops](https://www.bose.com/c/exclusives)
     * [Diamond Collection](https://www.bose.com/c/60th-anniversary-diamond-collection)
     * [Lunar Blue Collection](https://www.bose.com/c/lunar-blue-collection)
     
@@ -73,20 +101,26 @@ Back
     * [All Aviation Headsets](https://www.bose.com/c/aviation-headsets)
     * [Aviation Headset Accessories](https://www.bose.com/c/aviation-headsets/accessories)
     
-    [![](https://assets.bosecreative.com/m/5475f5da9e0a6a07/webimage-SF_QCEB25_MOB-NAV_WHITE_EXPRESSIVE.png)
+    * [Gift Guide](https://www.bose.com/holiday-gift-guide)
+    * [Gift Sets](https://www.bose.com/c/sets)
+    * [Gift Cards](https://www.bose.com/gift-cards)
     
-    NEW QUIETCOMFORT EARBUDS
+    [![](https://assets.bosecreative.com/m/709f578e18dd68c8/webimage-SF_SneakPeek_Nav-Fly-out_Mobile_Moonstone-QCH.png)
     
-    ### Powerful, not precious](https://www.bose.com/QCEARB24-HEADPHONEIN.html "BUY NOW")
+    LIMITED EDITION
+    
+    ### Make it Moonstone](https://www.bose.com/QC-HEADPHONEARN.html?dwvar_QC-HEADPHONEARN_color=MOONSTONE+BLUE&quantity=1 "BUY NOW")
     
      
     
-    Powerful, not precious
-    ----------------------
+    LIMITED EDITION
     
-    New QuietComfort Earbuds
+    Make it Moonstone
+    -----------------
     
-    [BUY NOW](https://www.bose.com/QCEARB24-HEADPHONEIN.html "BUY NOW")
+    Get $150 off this new gemstone-inspired shade.
+    
+    [BUY NOW](https://www.bose.com/QC-HEADPHONEARN.html?dwvar_QC-HEADPHONEARN_color=MOONSTONE+BLUE&quantity=1 "BUY NOW")
     
 
 * [Explore](#)
@@ -104,7 +138,7 @@ Back
     
     Back
     
-    [![](https://assets.bosecreative.com/m/29c44cdbb392898b/webimage-SF_UOE-Q3_MOBILE-NAV_MULTI.png)
+    [![](https://assets.bosecreative.com/m/38239db7b1460494/webimage-Mobile-Nav-partners.png)
     
     "ON IN 5!"
     
@@ -156,11 +190,11 @@ Back
 * [Contact Us](https://support.bose.com/s/get-help-landing-page?language=en_US)
 * [Where Is My Order?](https://www.bose.com/orders)
 
-[![](https://assets.bosecreative.com/m/5475f5da9e0a6a07/webimage-SF_QCEB25_MOB-NAV_WHITE_EXPRESSIVE.png)
+[![](https://assets.bosecreative.com/m/73e0d5fb6a8f14ed/webimage-QCHLE24-Moonstone_SLMPS_QCUEBLE25-LunarBlue_SF_SneakPeek_Nav_Fly-Out_Desktop_CrossCat_Mobile.png)
 
-NEW QUIETCOMFORT EARBUDS
+Black Friday Sneak Peek
 
-### Powerful, not precious](https://www.bose.com/QCEARB24-HEADPHONEIN.html "BUY NOW")
+### Shop early. Own the gift game.](https://www.bose.com/c/holiday-sale "SHOP")
 
 [![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dw062e5bda/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
