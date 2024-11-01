@@ -217,7 +217,6 @@ Menu
     * [Congratulations](https://www.moonpig.com/uk/gifts/congratulations/)
     * [Anniversary](https://www.moonpig.com/uk/gifts/anniversary/all/)
     * [Wedding](https://www.moonpig.com/uk/gifts/weddings/all/)
-    * [Diwali](https://www.moonpig.com/uk/gifts/diwali/)
     * [Good Luck](https://www.moonpig.com/uk/gifts/good-luck/)
     * [New Baby](https://www.moonpig.com/uk/gifts/new-baby/all/)
     * [New Home](https://www.moonpig.com/uk/gifts/new-home/)
