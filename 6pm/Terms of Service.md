@@ -119,7 +119,7 @@ Live Chat](https://www.6pm.com/tng/chat.zml)
     * [Tommy Hilfiger](https://www.6pm.com/filters/clothing/CKvXAVoEpwfxJOICAgEL.zso?s=isNew/desc/goLiveDate/desc/recentSalesStyle/desc/)
     * [U.S. POLO ASSN.](https://www.6pm.com/u-s-polo-assn/UgLAF-ICAQo.zso?s=isNew/desc/goLiveDate/desc/recentSalesStyle/desc/)
     
-    [![Shop Dresses](data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=)](https://www.6pm.com/filters/women-dresses/CKvXARDE1wE6BJsNyRXAAQHiAgQBAhgH.zso?s=recentSalesStyle/desc/ "Clothing-dropdown")
+    [![Shop Women's Sneakers](data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=)](https://www.6pm.com/women-sneakers-athletic-shoes/CK_XARC81wHAAQHiAgMBGAI.zso?s=isNew/desc/goLiveDate/desc/recentSalesStyle/desc/ "Clothing-dropdown")
     
 * [Bags](https://www.6pm.com/c/bags)
     
@@ -402,7 +402,7 @@ Please review our Privacy Notice, which explains our practices and also governs 
 RISK OF LOSS, RETURNS/REFUNDS & TITLE
 -------------------------------------
 
-The risk of loss and title for items purchased by you from 6pm pass to you upon our delivery of the items to the carrier. Conversely, we do not take title to returned items until the item is received at our fulfillment center. At our discretion, a refund may be issued without requiring a return. In this situation, we do not take title to the refunded item. You are responsible for reviewing the contents of your returns prior to shipment back to us. We are not responsible for any additional items that might accompany your returned items. Any such items are subject to destruction, and we have no obligation to return them to you. For more information about refunds and returns, please see our [Return Policy](https://www.6pm.com/return-questions).
+The risk of loss and title for items purchased by you from 6pm pass to you upon our delivery of the items to the carrier. Conversely, we do not take title to returned items until the item is received at our fulfillment center. At our discretion, a refund may be issued without requiring a return. In this situation, we do not take title to the refunded item. You are responsible for reviewing the contents of your returns prior to shipment back to us. We are not responsible for any additional items that might accompany your returned items. Any such items are subject to destruction, and we have no obligation to return them to you. For more information about refunds and returns, please see our [Return Policy](https://www.6pm.com/c/return-questions).
 
 PRODUCT DESCRIPTIONS; TYPOGRAPHICAL ERRORS; SITE CONTENT
 --------------------------------------------------------
@@ -457,7 +457,7 @@ OUR ADDRESS
 
 * [Forgot Password](https://www.6pm.com/ap/forgotpassword)
 * [Shipping Rates](https://www.6pm.com/shipping-and-delivery-questions)
-* [Return Policy](https://www.6pm.com/return-questions)
+* [Return Policy](https://www.6pm.com/c/return-questions)
 * [About Proposition 65](https://www.6pm.com/c/prop65)
 * [FAQs](https://www.6pm.com/general-questions)
 * [Contact Info](https://www.6pm.com/contact-us)
