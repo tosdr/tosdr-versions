@@ -564,7 +564,7 @@ Your cart is empty
     
     [Video Doorbells](https://www.lorex.com/collections/doorbells)
     
-    [Pet Cameras](https://www.lorex.com/pages/pet-monitor-solutions)
+    [Pet Cameras](https://www.lorex.com/collections/pet-cameras)
     
 * Lorex for Business tail right
 * [Support arrow bottom](https://help.lorex.com/)
