@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/99-giorni-senza-facebook-raccogli-la-sfida/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/3-film-horror-trash-japan-vedere-prima-morire-streaming/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
