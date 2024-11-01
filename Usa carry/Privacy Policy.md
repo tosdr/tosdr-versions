@@ -385,6 +385,12 @@ Any claim relating to USA Carry, LLC’s websites shall be governed by the laws 
 
 Questions? Comments? Concerns? We’re here to help. Contact [\[email protected\]](https://www.usacarry.com/cdn-cgi/l/email-protection) and we’ll set your mind at ease.
 
+[![Gun Deals](https://www.usacarry.com/wp-content/uploads/2023/08/gd-banner-static-300x250-1.jpg)](https://alnk.to/a41QhHM)
+
+[![Gun Deals](https://www.usacarry.com/wp-content/uploads/2023/08/gd-banner-static-300x250-1.jpg)](https://alnk.to/a41QhHM)
+
+[![Gun Deals](https://www.usacarry.com/wp-content/uploads/2023/08/gd-banner-static-300x250-1.jpg)](https://alnk.to/a41QhHM)
+
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='231'%20height='56'%20viewBox='0%200%20231%2056'%3E%3C/svg%3E)
 
 ![USA Carry](https://www.usacarry.com/wp-content/uploads/2023/07/concealed-carry.webp)](https://www.usacarry.com/)
