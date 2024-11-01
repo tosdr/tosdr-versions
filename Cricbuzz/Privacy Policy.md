@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[ENG vs WI - Live](https://www.cricbuzz.com/live-cricket-scores/95142/eng-vs-wi-1st-odi-england-tour-of-west-indies-2024 "England v West Indies, 1st ODI - Live")[RSA vs BAN - RSA Won](https://www.cricbuzz.com/live-cricket-scores/108425/rsa-vs-ban-2nd-test-south-africa-tour-of-bangladesh-2024 "South Africa v Bangladesh, 2nd Test - RSA Won")[IND vs NZ - Preview](https://www.cricbuzz.com/live-cricket-scores/100274/ind-vs-nz-3rd-test-new-zealand-tour-of-india-2024 "India v New Zealand, 3rd Test - Preview")[SYTW vs HBHW - SYTW Won](https://www.cricbuzz.com/live-cricket-scores/101286/sytw-vs-hbhw-7th-match-womens-big-bash-league-2024 "Sydney Thunder Women v Hobart Hurricanes Women, 7th Match - SYTW Won")[INDA vs AUSA - Stumps](https://www.cricbuzz.com/live-cricket-scores/96530/inda-vs-ausa-1st-unofficial-test-india-a-tour-of-australia-2024 "India A v Australia A, 1st unofficial Test - Stumps")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[ENG vs WI - Live](https://www.cricbuzz.com/live-cricket-scores/95142/eng-vs-wi-1st-odi-england-tour-of-west-indies-2024 "England v West Indies, 1st ODI - Live")[RSA vs BAN - RSA Won](https://www.cricbuzz.com/live-cricket-scores/108425/rsa-vs-ban-2nd-test-south-africa-tour-of-bangladesh-2024 "South Africa v Bangladesh, 2nd Test - RSA Won")[IND vs NZ - Preview](https://www.cricbuzz.com/live-cricket-scores/100274/ind-vs-nz-3rd-test-new-zealand-tour-of-india-2024 "India v New Zealand, 3rd Test - Preview")[SYTW vs HBHW - SYTW Won](https://www.cricbuzz.com/live-cricket-scores/101286/sytw-vs-hbhw-7th-match-womens-big-bash-league-2024 "Sydney Thunder Women v Hobart Hurricanes Women, 7th Match - SYTW Won")[INDA vs AUSA - Live](https://www.cricbuzz.com/live-cricket-scores/96530/inda-vs-ausa-1st-unofficial-test-india-a-tour-of-australia-2024 "India A v Australia A, 1st unofficial Test - Live")
 
 AllLive NowToday
 
@@ -78,11 +78,7 @@ AllLive NowToday
     
 * ICC CWC League Two 2023-27
     
-    [Scotland vs Nepal](https://www.cricbuzz.com/live-cricket-scores/107028/sco-vs-nep-39th-match-icc-cwc-league-two-2023-27 "Scotland v Nepal, 39th Match - NEP Won")
-    
-    39th Match
-    
-* [Scotland vs United States of America  LIVE](https://www.cricbuzz.com/live-cricket-scores/107036/sco-vs-usa-40th-match-icc-cwc-league-two-2023-27 "Scotland v United States of America, 40th Match - Live")
+    [Scotland vs United States of America  LIVE](https://www.cricbuzz.com/live-cricket-scores/107036/sco-vs-usa-40th-match-icc-cwc-league-two-2023-27 "Scotland v United States of America, 40th Match - Live")
     
     40th Match
     
@@ -112,21 +108,21 @@ AllLive NowToday
     
 * Sheffield Shield 2024-25
     
-    [Tasmania vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/102882/tas-vs-wa-8th-match-sheffield-shield-2024-25 "Tasmania v Western Australia, 8th Match - Preview")
+    [Tasmania vs Western Australia  LIVE](https://www.cricbuzz.com/live-cricket-scores/102882/tas-vs-wa-8th-match-sheffield-shield-2024-25 "Tasmania v Western Australia, 8th Match - Live")
     
     8th Match
     
-* [New South Wales vs Queensland](https://www.cricbuzz.com/live-cricket-scores/102880/nsw-vs-ql-7th-match-sheffield-shield-2024-25 "New South Wales v Queensland, 7th Match - Preview")
+* [New South Wales vs Queensland  LIVE](https://www.cricbuzz.com/live-cricket-scores/102880/nsw-vs-ql-7th-match-sheffield-shield-2024-25 "New South Wales v Queensland, 7th Match - Live")
     
     7th Match
     
-* [South Australia vs Victoria](https://www.cricbuzz.com/live-cricket-scores/102889/saus-vs-vic-9th-match-sheffield-shield-2024-25 "South Australia v Victoria, 9th Match - Upcoming")
+* [South Australia vs Victoria  LIVE](https://www.cricbuzz.com/live-cricket-scores/102889/saus-vs-vic-9th-match-sheffield-shield-2024-25 "South Australia v Victoria, 9th Match - Live")
     
     9th Match
     
 * Australia A v India A
     
-    [India A vs Australia A](https://www.cricbuzz.com/live-cricket-scores/96530/inda-vs-ausa-1st-unofficial-test-australia-a-v-india-a "India A v Australia A, 1st unofficial Test - Stumps")
+    [India A vs Australia A  LIVE](https://www.cricbuzz.com/live-cricket-scores/96530/inda-vs-ausa-1st-unofficial-test-australia-a-v-india-a "India A v Australia A, 1st unofficial Test - Live")
     
     1st unofficial Test
     
@@ -143,6 +139,18 @@ AllLive NowToday
 * [Canterbury vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107297/cntbry-vs-akl-10th-match-the-ford-trophy-2024-25 "Canterbury v Auckland, 10th Match - AKL Won")
     
     10th Match
+    
+* [Otago vs Wellington](https://www.cricbuzz.com/live-cricket-scores/107331/otg-vs-wel-15th-match-the-ford-trophy-2024-25 "Otago v Wellington, 15th Match - Upcoming")
+    
+    15th Match
+    
+* [Northern Knights vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107323/nk-vs-akl-14th-match-the-ford-trophy-2024-25 "Northern Knights v Auckland, 14th Match - Upcoming")
+    
+    14th Match
+    
+* [Canterbury vs Central Districts](https://www.cricbuzz.com/live-cricket-scores/107315/cntbry-vs-cd-13th-match-the-ford-trophy-2024-25 "Canterbury v Central Districts, 13th Match - Upcoming")
+    
+    13th Match
     
 * CSA Four-Day Series Division Two 2024-25
     
@@ -181,6 +189,10 @@ AllLive NowToday
 * [Melbourne Renegades Women vs Perth Scorchers Women](https://www.cricbuzz.com/live-cricket-scores/101311/mlrw-vs-prsw-11th-match-wbbl-2024 "Melbourne Renegades Women v Perth Scorchers Women, 11th Match - Upcoming")
     
     11th Match
+    
+* [Melbourne Stars Women vs Hobart Hurricanes Women](https://www.cricbuzz.com/live-cricket-scores/101314/mlsw-vs-hbhw-12th-match-wbbl-2024 "Melbourne Stars Women v Hobart Hurricanes Women, 12th Match - Upcoming")
+    
+    12th Match
     
 * Kenya Women tour of Rwanda 2024
     
@@ -517,37 +529,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [IPL retentions: Startling calls, tough negotiations and a surprising surplus](https://www.cricbuzz.com/cricket-news/132293/ipl-retentions-startling-calls-tough-negotiations-and-a-surprising-surplus "IPL retentions: Startling calls, tough negotiations and a surprising surplus")
 
-46m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132292/the-vast-distances-and-several-time-zones-of-crickets-brave-new-world "The vast distances and several time zones of cricket's brave new world")
 
 [The vast distances and several time zones of cricket's brave new world](https://www.cricbuzz.com/cricket-news/132292/the-vast-distances-and-several-time-zones-of-crickets-brave-new-world "The vast distances and several time zones of cricket's brave new world")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132291/stokes-buttler-sign-two-year-central-contracts-with-ecb "Stokes, Buttler sign two-year central contracts with ECB")
 
 [Stokes, Buttler sign two-year central contracts with ECB](https://www.cricbuzz.com/cricket-news/132291/stokes-buttler-sign-two-year-central-contracts-with-ecb "Stokes, Buttler sign two-year central contracts with ECB")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132290/heather-knight-helps-sydney-thunder-open-account "Heather Knight helps Sydney Thunder open account")
 
 [Heather Knight helps Sydney Thunder open account](https://www.cricbuzz.com/cricket-news/132290/heather-knight-helps-sydney-thunder-open-account "Heather Knight helps Sydney Thunder open account")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132289/najmul-tight-lipped-on-captaincy-issue "Najmul tight-lipped on captaincy issue")
 
 [Najmul tight-lipped on captaincy issue](https://www.cricbuzz.com/cricket-news/132289/najmul-tight-lipped-on-captaincy-issue "Najmul tight-lipped on captaincy issue")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132288/how-the-teams-are-set-up-for-the-ipl-2025-mega-auction "How the teams are set up for the IPL 2025 mega auction")
 
 [How the teams are set up for the IPL 2025 mega auction](https://www.cricbuzz.com/cricket-news/132288/how-the-teams-are-set-up-for-the-ipl-2025-mega-auction "How the teams are set up for the IPL 2025 mega auction")
 
-6h ago
+12h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
