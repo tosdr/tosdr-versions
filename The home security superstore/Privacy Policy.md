@@ -222,15 +222,15 @@ Menu
         * [![Handcuffs](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Handcuffs_500x500_2d74b113-0414-4d0b-aeb7-1611dab8f1c4.jpg?v=1563414635&width=300)
             
             Handcuffs](https://www.thehomesecuritysuperstore.com/collections/handcuffs)
-        * [![Tactical Gear](//www.thehomesecuritysuperstore.com/cdn/shop/collections/TacticalGear_500x500_7e8faa4f-f10d-4fe8-b354-b2feb9dac0c8.jpg?v=1563406614&width=300)
-            
-            Tactical Gear](https://www.thehomesecuritysuperstore.com/collections/tactical-gear)
         * [![Police Batons](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Batons_500x500_daf58f1a-2c51-498d-9ea1-b049e8886353.jpg?v=1563410305&width=300)
             
             Police Batons](https://www.thehomesecuritysuperstore.com/collections/police-batons)
-        * [![Metal Detectors](//www.thehomesecuritysuperstore.com/cdn/shop/collections/MetalDetectors_500x500_373b71ac-8f8b-4fb7-9677-e3dd28564391.jpg?v=1615413314&width=300)
+        * [![Police Stun Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PoliceStunGun1_Edit.jpg?v=1718137802&width=300)
             
-            Metal Detectors](https://www.thehomesecuritysuperstore.com/collections/metal-detectors)
+            Police Stun Guns](https://www.thehomesecuritysuperstore.com/collections/police-stun-guns)
+        * [![Tactical Gear](//www.thehomesecuritysuperstore.com/cdn/shop/collections/TacticalGear_500x500_7e8faa4f-f10d-4fe8-b354-b2feb9dac0c8.jpg?v=1563406614&width=300)
+            
+            Tactical Gear](https://www.thehomesecuritysuperstore.com/collections/tactical-gear)
         
     * [Gun Accessories](https://www.thehomesecuritysuperstore.com/collections/gun-accessories)
         
@@ -464,15 +464,15 @@ Menu
     * [![Handcuffs](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Handcuffs_500x500_2d74b113-0414-4d0b-aeb7-1611dab8f1c4.jpg?crop=center&height=300&v=1563414635&width=300)
         
         Handcuffs](https://www.thehomesecuritysuperstore.com/collections/handcuffs)
-    * [![Tactical Gear](//www.thehomesecuritysuperstore.com/cdn/shop/collections/TacticalGear_500x500_7e8faa4f-f10d-4fe8-b354-b2feb9dac0c8.jpg?crop=center&height=300&v=1563406614&width=300)
-        
-        Tactical Gear](https://www.thehomesecuritysuperstore.com/collections/tactical-gear)
     * [![Police Batons](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Batons_500x500_daf58f1a-2c51-498d-9ea1-b049e8886353.jpg?crop=center&height=300&v=1563410305&width=300)
         
         Police Batons](https://www.thehomesecuritysuperstore.com/collections/police-batons)
-    * [![Metal Detectors](//www.thehomesecuritysuperstore.com/cdn/shop/collections/MetalDetectors_500x500_373b71ac-8f8b-4fb7-9677-e3dd28564391.jpg?crop=center&height=300&v=1615413314&width=300)
+    * [![Police Stun Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PoliceStunGun1_Edit.jpg?crop=center&height=300&v=1718137802&width=300)
         
-        Metal Detectors](https://www.thehomesecuritysuperstore.com/collections/metal-detectors)
+        Police Stun Guns](https://www.thehomesecuritysuperstore.com/collections/police-stun-guns)
+    * [![Tactical Gear](//www.thehomesecuritysuperstore.com/cdn/shop/collections/TacticalGear_500x500_7e8faa4f-f10d-4fe8-b354-b2feb9dac0c8.jpg?crop=center&height=300&v=1563406614&width=300)
+        
+        Tactical Gear](https://www.thehomesecuritysuperstore.com/collections/tactical-gear)
     
     * [![Ammo](//www.thehomesecuritysuperstore.com/cdn/shop/products/Knockout.jpg?crop=center&height=300&v=1652465079&width=300)
         
