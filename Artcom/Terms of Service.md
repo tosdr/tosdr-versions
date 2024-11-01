@@ -1,6 +1,6 @@
-[Get 13% off Everything\* - use code ALLTREATS](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
+[Discover New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm)
 
-[Get 13% off Everything\* - use code ALLTREATS](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
+[Discover New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm)|[Shop Our Gift Guide](https://www.art.com/gift-guide/holiday)|[Up to 20% off Art Deals](https://www.art.com/gallery/id--b55196/art-sale-posters.htm)
 
 [](https://www.art.com/ "Art.com")
 
