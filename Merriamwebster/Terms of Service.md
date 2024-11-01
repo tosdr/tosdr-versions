@@ -255,11 +255,11 @@ Missing Letter A daily crossword with a twist
 
 Play](https://www.merriam-webster.com/games/missing-letter)
 
-[![different halloween monsters in silhouette](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![dog-hard-hat-hammer](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-A Monstrous Vocab Quiz Words That Go Bump in the Night
+Odd Jobs Quiz Work smarter, not harder, to figure out these occ...
 
-Take the quiz](https://www.merriam-webster.com/games/monstrous-quiz)
+Take the quiz](https://www.merriam-webster.com/games/odd-jobs)
 
 [Merriam Webster](https://www.merriam-webster.com/)
 
