@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I think your tool is awesome!
+The service was great. I used it to watch Rugby World Cup games (there was no pay-per-view internet subscription available here).
 
-Masa Ruduy
+Brent
