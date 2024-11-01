@@ -253,16 +253,6 @@ We respect your privacy. We will only use information you provide to transmit yo
 
 This Privacy Policy and Terms and Conditions is strictly limited to these Programs and has no effect on any other privacy policy(ies) that may govern the relationship between you and us in other contexts.
 
-![Hate Crimes Awareness Month](https://www.splcenter.org/sites/default/files/hcam-overlay-2024.jpg)
-
-October is Hate Crimes Awareness Month
-
-Close donation prompt
-
-Hate is on the rise. So is our movement to end it.
-
-[Donate Today.](https://secure.splcenter.org/page/74474/donate/1)
-
 ![](https://d21y75miwcfqoq.cloudfront.net/718da443)
 
 * [Home](https://www.splcenter.org/)
