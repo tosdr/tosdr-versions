@@ -1,5 +1,8 @@
    
 
+[IHYPERG.COM](https://www.ihyperg.com/)
+---------------------------------------
+
 * [Home](https://www.ihyperg.com/)
 * [ ]  News
     * [Tech](https://www.ihyperg.com/search/label/Tech%20News)
@@ -173,7 +176,7 @@ By email: [hyperghelp@gmail.com](mailto:hyperghelp@gmail.com)
 
 * [](https://www.ihyperg.com/)
 
-© 2023 IHYPERG - All Rights Reserved 😀
+© 2019-2024 IHYPERG.COM - All Rights Reserved.
 
 Did someone say … cookies?
 --------------------------
