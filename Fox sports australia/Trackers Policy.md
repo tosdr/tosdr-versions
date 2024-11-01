@@ -16,54 +16,42 @@ FOX SCORES
 
 * Cricket
     
-* [Men's Test
-    
-    RSA won by inns & 273 runs
+* [Men's Tour
     
     |     |     |
     | --- | --- |
-    | BAN | 159 & 143 |
-    | RSA | 6 /575d |
+    | AUSA | 195 |
+    | INDA | 107 & 2 /208 |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250402)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TM2024-250101)
 * [Men's Test
     
-    1/11 15:00 AEST
+    Day 1 Session 2
     
     |     |     |
     | --- | --- |
-    | IND | –   |
-    | NZL | –   |
+    | IND |     |
+    | NZL | 3 /142 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250303)
 * [Men's ODI
     
-    SCO won by 71 runs
+    WI won by 8 wkts (DLS)
     
     |     |     |
     | --- | --- |
-    | USA | 246 |
-    | SCO | 5 /317 |
+    | WI  | 2 /157 |
+    | ENG | 209 |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI2024-250204)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI2024-250301)
 * [Women's BBL
     
-    SYDT won by 33 runs
+    SYDT won by 64 runs
     
     |     |     |
     | --- | --- |
-    | SYDT | 5 /146 |
-    | HOB | 8 /113 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250107)
-* [Women's BBL
-    
-    1/11 15:45 AEST
-    
-    |     |     |
-    | --- | --- |
-    | ADE | –   |
-    | SYDT | –   |
+    | ADE | 148 |
+    | SYDT | 5 /212 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250108)
 * [Women's BBL
@@ -76,27 +64,19 @@ FOX SCORES
     | MELS | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250109)
-* [Men's Tour
-    
-    |     |     |
-    | --- | --- |
-    | AUSA | 9 /186 |
-    | INDA | 107 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TM2024-250101)
 * [Sheffield Shield
     
     |     |     |
     | --- | --- |
-    | NSW | 5 /101 |
-    | QLD |     |
+    | NSW | 239 |
+    | QLD | 0 /36 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250107)
 * [Sheffield Shield
     
     |     |     |
     | --- | --- |
-    | TAS | 0 /79 |
+    | TAS | 5 /263 |
     | WA  |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250108)
@@ -104,7 +84,7 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | SA  | 1 /46 |
+    | SA  | 9 /286 |
     | VIC |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250109)
@@ -176,8 +156,6 @@ FOX SCORES
     Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=595)
 * [MotoGP
     
-    1/11 13:45 AEST
-    
     |     |
     | --- |
     | Malaysian GP |
@@ -188,12 +166,12 @@ FOX SCORES
     
 * [NFL
     
-    Half Time
+    Full Time
     
     |     |     |
     | --- | --- |
-    | NYJ | 0   |
-    | HOU | 7   |
+    | NYJ | 21  |
+    | HOU | 13  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250901)
 * Basketball
@@ -220,44 +198,44 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25070003)
 * [NBA
     
-    3rd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | MEM | 99  |
-    | MIL | 70  |
+    | MEM | 122 |
+    | MIL | 99  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010124/box-score)
 * [NBA
     
-    Half Time
+    Full Time
     
     |     |     |
     | --- | --- |
-    | DAL | 44  |
-    | HOU | 57  |
+    | DAL | 102 |
+    | HOU | 108 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010126/box-score)
 * [NBA
     
-    2nd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | UTA | 41  |
-    | SA  | 34  |
+    | UTA | 88  |
+    | SA  | 106 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010128/box-score)
 * [NBA
     
-    1/11 13:30 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | LAC | –   |
-    | PHO | –   |
+    | LAC | 119 |
+    | PHO | 125 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010129)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010129/box-score)
 * Football
     
 * [A-League W
