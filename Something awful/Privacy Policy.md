@@ -205,25 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [AD&D 2nd Edition Planescape Monstrous Compendium Appendix III (1998)](https://www.somethingawful.com/dungeons-and-dragons/planescape-inner-planes/1/)
-* [Caveman Games](https://www.somethingawful.com/rom-pit/caveman-games/)
-* [Swamp Thing](https://www.somethingawful.com/rom-pit/nes-swamp-thing/)
-* [Where's Waldo?](https://www.somethingawful.com/rom-pit/waldo-pictures/)
-* [Awesome Possum](https://www.somethingawful.com/rom-pit/awesome-possum/)
+* [Teen Movies](https://www.somethingawful.com/photoshop-phriday/teen-movies/1/)
+* [Beyond The Mat!](https://www.somethingawful.com/photoshop-phriday/wrestlers-natural-environment/1/)
+* [Yahoo Answers Part I](https://www.somethingawful.com/weekend-web/yahoo-answers-part1/1/)
+* [I was an Everquest attention whore](https://www.somethingawful.com/news/was-an-everquest/)
+* [John Cena's Face Superimposed on Cats](https://www.somethingawful.com/photoshop-phriday/feline-cena-animorphs/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/hell-suck.gif) [Relationship deal breakers](http://forums.somethingawful.com/showthread.php?threadid=4074071 "Relationship deal breakers")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [another obligatory photoshop thread to shit on trump](http://forums.somethingawful.com/showthread.php?threadid=4074043 "another obligatory photoshop thread to shit on trump")
+* ![](https://fi.somethingawful.com/forums/posticons/hell-suck.gif) [Relationship deal breakers](http://forums.somethingawful.com/showthread.php?threadid=4074071 "Relationship deal breakers")
+* ![](https://fi.somethingawful.com/forums/posticons/guns-review.gif) [What really grinds your gears?](http://forums.somethingawful.com/showthread.php?threadid=4074123 "What really grinds your gears?")
 * ![](https://fi.somethingawful.com/forums/posticons/lf-mccain.gif) [Whats the most psychotic boomer meltdown youve ever witnessed?](http://forums.somethingawful.com/showthread.php?threadid=4074046 "Whats the most psychotic boomer meltdown youve ever witnessed?")
+* ![](https://fi.somethingawful.com/forums/posticons/pi-herps.gif) [How much do you write?](http://forums.somethingawful.com/showthread.php?threadid=4074098 "How much do you write?")
 
 ### Random Articles
 
-* [Cog05](https://www.somethingawful.com/awful-links/awful-link-4232/)
-* [Cat Daddy Entertainment](https://www.somethingawful.com/awful-links/awful-link-2425/)
-* [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
-* [Human Resources vs. Interior Man](https://www.somethingawful.com/news/interior-man/1/)
-* [The Official State Og F.A.Q.](https://www.somethingawful.com/state-og/official-state-og/)
+* [P-Town Juggalos](https://www.somethingawful.com/awful-links/awful-link-1113/)
+* [Things You Should Already Know By Now: Opening a Checking Account](https://www.somethingawful.com/guides/checking-account/1/)
+* [Nokia's Cell Phone Avatars](https://www.somethingawful.com/awful-links/awful-link-2742/)
+* [Don Draper pitches the sexy diarrhea woman to Viberzi](https://www.somethingawful.com/news/viberzi-mad-men/)
+* [The Evolution of the Average Man](https://www.somethingawful.com/feature-articles/evolution-average-man/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
