@@ -294,6 +294,7 @@ K výše uvedeným krokům nepřistoupíme za situace, pokud zavedená opatřen�
     * [Sport.cz](https://o-seznam.cz/pravni-informace/ochrana-udaju/sport-cz/)
     * [Sreality.cz](https://o-seznam.cz/pravni-informace/ochrana-udaju/sreality-cz/)
     * [Stream.cz](https://o-seznam.cz/pravni-informace/ochrana-udaju/stream-cz/)
+    * [Uchazeč o zaměstnání](https://o-seznam.cz/pravni-informace/ochrana-udaju/udaje-uchazecu/)
     * [Volná místa](https://o-seznam.cz/pravni-informace/ochrana-udaju/volna-mista/)
     * [Vyhledávání](https://o-seznam.cz/pravni-informace/ochrana-udaju/vyhledavani/)
     * [Zboží.cz](https://o-seznam.cz/pravni-informace/ochrana-udaju/zbozi-cz/)
