@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/946005a7-4575-4625-89e2-306d18f19723/20241101T033405/946005a7-4575-4625-89e2-306d18f19723_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/946005a7-4575-4625-89e2-306d18f19723/20241101T033405/946005a7-4575-4625-89e2-306d18f19723_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WVEC/images/bb35a3b5-a412-4a76-9390-e3cccdcedf1c/20241031T174306/bb35a3b5-a412-4a76-9390-e3cccdcedf1c_16x9.jpg) ![](https://media.tegna-media.com/assets/WVEC/images/bb35a3b5-a412-4a76-9390-e3cccdcedf1c/20241031T174306/bb35a3b5-a412-4a76-9390-e3cccdcedf1c_360x203.jpg)](https://www.wqad.com/article/tech/science/what-is-a-zombie-star-how-can-you-see-it-t-coronae-borealis-nova-explosion/291-70cd4116-2d8a-46f1-96f1-41a29fd96c77)
         
-        #### [Cool start to your Friday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [T Coronae Borealis: A 'zombie star' is about to light up the night sky](https://www.wqad.com/article/tech/science/what-is-a-zombie-star-how-can-you-see-it-t-coronae-borealis-nova-explosion/291-70cd4116-2d8a-46f1-96f1-41a29fd96c77)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d9a1ff83-f2b1-4a19-a5a9-b700d78392c4/d9a1ff83-f2b1-4a19-a5a9-b700d78392c4_16x9.png) ![](https://media.tegna-media.com/assets/WQAD/images/d9a1ff83-f2b1-4a19-a5a9-b700d78392c4/d9a1ff83-f2b1-4a19-a5a9-b700d78392c4_360x203.png)](https://www.wqad.com/article/news/local/public-safety/burn-bans-around-quad-cities/526-e15af3d1-9db9-46da-b8ff-ea09d31efe6c)
+    *  [![](https://media.tegna-media.com/assets/WFMY/images/bcc0f4dd-4211-4535-a5ac-51287c6302a4/20241004T160610/bcc0f4dd-4211-4535-a5ac-51287c6302a4_16x9.jpg) ![](https://media.tegna-media.com/assets/WFMY/images/bcc0f4dd-4211-4535-a5ac-51287c6302a4/20241004T160610/bcc0f4dd-4211-4535-a5ac-51287c6302a4_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene/hurricane-helene-victims-still-missing-in-north-carolina/83-4f8822c7-4d98-4d81-866e-f713697336ee)
         
-        #### [Burn bans in effect around the Quad Cities](https://www.wqad.com/article/news/local/public-safety/burn-bans-around-quad-cities/526-e15af3d1-9db9-46da-b8ff-ea09d31efe6c)
+        #### [How many people are still missing in western North Carolina one month after Hurricane Helene?](https://www.wqad.com/article/weather/hurricane/helene/hurricane-helene-victims-still-missing-in-north-carolina/83-4f8822c7-4d98-4d81-866e-f713697336ee)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-40°
+33°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
