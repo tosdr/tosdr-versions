@@ -75,13 +75,13 @@ Trending Posts
 * [North Carolina failed to evacuate prisoners during Hurricane Helene](https://therealnews.com/north-carolina-failed-to-evacuate-prisoners-during-hurricane-helene)
 * [Billionaires spew more CO2 pollution in 90 minutes than average person in a lifetime](https://therealnews.com/billionaires-spew-more-co2-pollution-in-90-minutes-than-average-person-in-a-lifetime)
 * [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
+* [Back in the crosshairs of GOP hate, many migrants plan to vote defensively](https://therealnews.com/migrants-plan-to-vote-defensively-in-election)
 * ['I'm not interested in changing hearts and minds': The work of an anti-Zionist rabbi](https://therealnews.com/the-work-of-an-anti-zionist-rabbi)
-* [Zionism is driving a growing divide in Jewish communities](https://therealnews.com/zionism-is-driving-a-growing-divide-in-jewish-communities)
 * [Kaiser workers’ strike enters second week in Southern California](https://therealnews.com/kaiser-workers-strike-enters-second-week-in-southern-california)
+* [Zionism is driving a growing divide in Jewish communities](https://therealnews.com/zionism-is-driving-a-growing-divide-in-jewish-communities)
 * [This CEO left coal miners penniless. Why did a West Virginia town give him a lucrative tax break to build a luxury hotel?](https://therealnews.com/this-ceo-left-coal-miners-penniless-why-did-a-west-virginia-town-give-him-a-lucrative-tax-break-to-build-a-luxury-hotel)
-* [France wants to make Olympics-style surveillance permanent](https://therealnews.com/france-wants-to-make-olympics-style-surveillance-permanent)
 * [‘This is an extermination’: Israel’s assault on north Gaza’s last functioning hospital](https://therealnews.com/this-is-an-extermination-israels-assault-on-north-gazas-last-functioning-hospital)
-* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
+* [France wants to make Olympics-style surveillance permanent](https://therealnews.com/france-wants-to-make-olympics-style-surveillance-permanent)
 
 Close
 
@@ -139,13 +139,13 @@ Trending Posts
 * [North Carolina failed to evacuate prisoners during Hurricane Helene](https://therealnews.com/north-carolina-failed-to-evacuate-prisoners-during-hurricane-helene)
 * [Billionaires spew more CO2 pollution in 90 minutes than average person in a lifetime](https://therealnews.com/billionaires-spew-more-co2-pollution-in-90-minutes-than-average-person-in-a-lifetime)
 * [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
+* [Back in the crosshairs of GOP hate, many migrants plan to vote defensively](https://therealnews.com/migrants-plan-to-vote-defensively-in-election)
 * ['I'm not interested in changing hearts and minds': The work of an anti-Zionist rabbi](https://therealnews.com/the-work-of-an-anti-zionist-rabbi)
-* [Zionism is driving a growing divide in Jewish communities](https://therealnews.com/zionism-is-driving-a-growing-divide-in-jewish-communities)
 * [Kaiser workers’ strike enters second week in Southern California](https://therealnews.com/kaiser-workers-strike-enters-second-week-in-southern-california)
+* [Zionism is driving a growing divide in Jewish communities](https://therealnews.com/zionism-is-driving-a-growing-divide-in-jewish-communities)
 * [This CEO left coal miners penniless. Why did a West Virginia town give him a lucrative tax break to build a luxury hotel?](https://therealnews.com/this-ceo-left-coal-miners-penniless-why-did-a-west-virginia-town-give-him-a-lucrative-tax-break-to-build-a-luxury-hotel)
-* [France wants to make Olympics-style surveillance permanent](https://therealnews.com/france-wants-to-make-olympics-style-surveillance-permanent)
 * [‘This is an extermination’: Israel’s assault on north Gaza’s last functioning hospital](https://therealnews.com/this-is-an-extermination-israels-assault-on-north-gazas-last-functioning-hospital)
-* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
+* [France wants to make Olympics-style surveillance permanent](https://therealnews.com/france-wants-to-make-olympics-style-surveillance-permanent)
 
 [Skip to content](#main)
 
