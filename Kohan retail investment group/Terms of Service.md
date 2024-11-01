@@ -296,7 +296,7 @@ Sanford, FL 32771
 
 [![Kohan Retail Investment Group](https://cdn.placewise.com/Kohan/images/KohanLogo.png)](http://www.kohanretail.com/)
 
-Visit Our Centers Other Kohan Centers Town Center at Cobb Colonial Park Mall Fairlane Town Center Findlay Mall Golden East Crossing Greenwood Mall Holiday Village Mall Jasper Mall Killeen Mall Lima Mall Lindale Mall Livingston Mall Lufkin Mall Marshall Town Center New Towne Mall Pierre Bossier Mall The Mall at Robinson Santa Fe Place Seminole Towne Center Southern Hills Mall Temple Mall Towne West Square Valle Vista Mall Valley View Vicksburg Mall Washington Crown Center The Westwood Mall
+Visit Our Centers Other Kohan Centers Town Center at Cobb Colonial Park Mall Findlay Mall Golden East Crossing Greenwood Mall Holiday Village Mall Jasper Mall Killeen Mall Lima Mall Livingston Mall Lufkin Mall Marshall Town Center New Towne Mall Pierre Bossier Mall The Mall at Robinson Seminole Towne Center Southern Hills Mall Temple Mall Towne West Square Valle Vista Mall Valley View Vicksburg Mall Washington Crown Center The Westwood Mall
 
 © 2024 Kohan Retail Investment Group
 
