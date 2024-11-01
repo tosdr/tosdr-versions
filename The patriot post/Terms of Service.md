@@ -1,6 +1,6 @@
-**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
+**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -195,7 +195,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111551-go-as-garbage-2024-10-31)
+     [](https://patriotpost.us/memes/111577-happy-anniversary-2024-11-01)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -215,11 +215,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Laura Hollis In 2024, Don’t Vote for the Empty Suit](https://patriotpost.us/opinion/111536-in-2024-dont-vote-for-the-empty-suit-2024-10-31)
 *      [Larry Elder A Pro-Trump Immigrant’s Story](https://patriotpost.us/opinion/111535-a-pro-trump-immigrants-story-2024-10-31)
 *      [Christine Flowers Some Jewish Voters Wising Up to Democrats](https://patriotpost.us/opinion/111534-some-jewish-voters-wising-up-to-democrats-2024-10-31)
-*      [Mark Alexander ‘Bitter, Deplorable, Fascist, NAZI,’ and Now ‘Garbage’ Too?](https://patriotpost.us/alexander/111549-bitter-deplorable-fascist-nazi-and-now-garbage-too-2024-10-31)
-*      [Jeff Jacoby Why I’m Not Voting for President](https://patriotpost.us/opinion/111547-why-im-not-voting-for-president-2024-10-31)
-*      [The Washington Stand Here’s What a Real ‘Direct Attack on Democracy’ Looks Like](https://patriotpost.us/opinion/111533-heres-what-a-real-direct-attack-on-democracy-looks-like-2024-10-31)
-*      [David and Jeanne Heidler Holding Darkness Within](https://patriotpost.us/opinion/111562-holding-darkness-within-2024-10-31)
-*      [The Babylon Bee Trump Scores Coveted Endorsement From Hefty](https://patriotpost.us/opinion/111532-trump-scores-coveted-endorsement-from-hefty-2024-10-31)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -233,7 +228,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT6VDT6H9HTK9EJ190K832.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
