@@ -186,10 +186,9 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Nils Aron Andersson](https://cdn.returningveterans.org/images/honor/Nils_Aron_Andersson.jpg)  
+![Dr. Stephen Hunt](https://cdn.returningveterans.org/images/honor/stephen_hunt.jpg)  
 
-**In Memory of Nils Aron Andersson**  
-United States Army  
+**In Honor of Dr. Stephen Hunt**  
 Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
@@ -233,5 +232,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/01/24 - 2:21:03  
+Printed 11/01/24 - 8:28:49  
 © 2024 Returning Veterans Project
