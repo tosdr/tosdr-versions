@@ -24,8 +24,8 @@ Customer Services Helpline
             * [Cooking Oils](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/oils/)
             * [Tinned Tomatoes & Veg](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/tinned-veg-and-pulses/)
             * [Soup](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/soup/)
-            * [Fish & Seafood](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/fish-and-seafood/)
             * [Coconut](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/coconut/)
+            * [Fish & Seafood](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/fish-and-seafood/)
         * [Pasta & Noodles](https://www.ethicalsuperstore.com/category/groceries-and-everyday/pasta-and-noodles/)
             * [Pasta](https://www.ethicalsuperstore.com/category/groceries-and-everyday/pasta-and-noodles/pasta/)
             * [Noodles](https://www.ethicalsuperstore.com/category/groceries-and-everyday/pasta-and-noodles/noodles/)
@@ -142,9 +142,9 @@ Customer Services Helpline
             
         * [Bin Bags & Foils](https://www.ethicalsuperstore.com/category/cleaning-and-household/bin-bags-and-foils/)
             
-        * [Utility & DIY](https://www.ethicalsuperstore.com/category/cleaning-and-household/diy/)
-            
         * [Tissues & Towels](https://www.ethicalsuperstore.com/category/cleaning-and-household/tissues-and-towels/)
+            
+        * [Utility & DIY](https://www.ethicalsuperstore.com/category/cleaning-and-household/diy/)
             
         * [Shopping & Storage Bags](https://www.ethicalsuperstore.com/category/cleaning-and-household/shopping-and-storage-bags/)
             
@@ -164,8 +164,8 @@ Customer Services Helpline
             * [Socks & Tights](https://www.ethicalsuperstore.com/category/fashion/womens/socks/)
             * [Nightwear](https://www.ethicalsuperstore.com/category/fashion/womens/nightwear/)
             * [Trousers & Leggings](https://www.ethicalsuperstore.com/category/fashion/womens/trousers/)
-            * [Swimwear](https://www.ethicalsuperstore.com/category/fashion/womens/swimwear/)
             * [Graphic T-Shirts & Jumpers](https://www.ethicalsuperstore.com/category/fashion/womens/graphic-t_shirt-and-jumpers/)
+            * [Swimwear](https://www.ethicalsuperstore.com/category/fashion/womens/swimwear/)
             * [Bags](https://www.ethicalsuperstore.com/category/fashion/womens/bags/)
         
         * [Mens](https://www.ethicalsuperstore.com/category/fashion/mens/)
@@ -263,8 +263,8 @@ Customer Services Helpline
         * [Make-Up](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/)
             * [Face](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/face/)
             * [Eyes](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/eyes/)
-            * [Tools](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/tools/)
             * [Nail Polish](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/nail-polish/)
+            * [Tools](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/tools/)
         * [For Men](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/)
             * [Shaving](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/shaving/)
             * [Bath & Shower](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/bath-and-shower/)
@@ -420,9 +420,15 @@ Help - Returns & Refunds
 
 ### RETURNS POLICY
 
-We want you to be completely satisfied with your purchases. If you are not satisfied with an item you have ordered, please return it within 30 days of the date of receipt and we will refund your money or send you a replacement. 
+**\*\*\*Christmas 2024 - Extended Returns Period\*\*\*** 
 
-Items returned under our 30 day guarantee should be returned to us in their original condition including any packaging. Please check the ‘Products we are unable to refund’ section below for exceptions.
+We understand that gifts purchased before Christmas may need to be returned.  So to take away the worry for you and make it easier we have extended the returns period for items purchased between 1st November 2024 and 24th December 2024.
+
+Goods purchased within this period can be returned right up to Friday, 31st January 2025. 
+
+We want you to be completely satisfied with your purchases. If for any reason you are not satisfied with an item you have ordered, please return it, within the extended Christmas returns period and we will refund your money or send you a replacement. 
+
+Items returned in this extended period should be returned to us in their original condition including any packaging. Please check the ‘Products we are unable to refund’ section below for exceptions.
 
 This guarantee is in addition to your statutory rights.
 
