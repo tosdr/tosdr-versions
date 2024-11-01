@@ -22,7 +22,7 @@ Other smiley sets available - you change the species by going to **Profile > Loo
   
   
 
-[![WingedZephyr](adverts/zeph.gif "WingedZephyr")](http://www.furaffinity.net/user/wingedzephyr)
+[![Juliet](adverts/juliet.png "Juliet")](https://www.furaffinity.net/user/julietthewhitewitch)
 
   
 
