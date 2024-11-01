@@ -128,9 +128,6 @@ Your new hearing aids work right out of the box, whether you choose custom-progr
 
 With our **Premium Package**, our Audiology Team works with you remotely to improve your hearing.
 
-**Need more information?**  
-Visit our [How it Works page](https://www.listenlively.com/how-it-works) to watch an explainer video, or to read the answers to the video's key questions.
-
 [Get started](https://www.listenlively.com/survey)
 
 #### Hearing aids for every budget & lifestyle
@@ -277,7 +274,7 @@ Shop
 
 Why Jabra Enhance
 
-[Expert care & support](https://www.listenlively.com/hearing-care) [How it works](https://www.listenlively.com/how-it-works) [Customer reviews](https://www.listenlively.com/reviews)
+[Expert care & support](https://www.listenlively.com/hearing-care) [How it works](https://www.listenlively.com/#how_it_works) [Customer reviews](https://www.listenlively.com/reviews)
 
 Hearing resources
 
