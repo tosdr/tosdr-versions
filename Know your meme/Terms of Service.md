@@ -1,5 +1,3 @@
-[🗳 Cast Your Vote To Select The Meme Of The Month! 🗳](https://knowyourmeme.com/editorials/poll/cast-your-vote-for-october-2024s-meme-of-the-month)
-
 [](https://knowyourmeme.com/ "Know Your Meme")
 
 [Advanced Search Protips](https://knowyourmeme.com/editorials/kym-database-search-operators)
@@ -122,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Kei Trucks](https://knowyourmeme.com/memes/kei-trucks "Kei Trucks")
+[Maia Poet 'Lazy Eye' Controversy](https://knowyourmeme.com/memes/events/maia-poet-left-and-joined-team-maga-lazy-eye-controversy "Maia Poet 'Lazy Eye' Controversy") [Nintendo Music App](https://knowyourmeme.com/memes/subcultures/nintendo-music-app "Nintendo Music App") [Kei Trucks](https://knowyourmeme.com/memes/kei-trucks "Kei Trucks")
 
 Terms of Service and Use
 ========================
@@ -263,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo! You must login or signup first!
+### Greetings! You must login or signup first!
 
 |     |     |
 | --- | --- |
