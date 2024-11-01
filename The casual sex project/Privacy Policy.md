@@ -90,19 +90,39 @@ New York, NY 10017
 Spotlight
 ---------
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/why-snap-work-requirements-arent-working-a-case-for-waiver-reform.jpg)[](https://admin.mi52siterestore.com/article/why-snap-work-requirements-arent-working-a-case-for-waiver-reform/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/leadership-development-by-state-run-and-state-based-universities.jpg)[](https://admin.mi52siterestore.com/article/leadership-development-by-state-run-and-state-based-universities/ "Read More")
 
-Issue Brief Economics, Governance
+Report Education Higher Ed
 
-Oct 24 2024
+Oct 31 2024
 
-Issue Brief Economics, Governance
+Report Education Higher Ed
 
-Oct 24 2024
+Oct 31 2024
 
-### [Why SNAP Work Requirements Aren’t Working](https://admin.mi52siterestore.com/article/why-snap-work-requirements-arent-working-a-case-for-waiver-reform/) A Case for Waiver Reform
+### [Publics and Place](https://admin.mi52siterestore.com/article/leadership-development-by-state-run-and-state-based-universities/) Leadership Development by State-Run and State-Based Universities
 
-By **[Thomas Cronin](https://admin.mi52siterestore.com/person/thomas-cronin/)** Read time **23 mins** [Read More](https://admin.mi52siterestore.com/article/why-snap-work-requirements-arent-working-a-case-for-waiver-reform/)
+By **[Andy Smarick](https://admin.mi52siterestore.com/person/andy-smarick/)** Read time **52 mins** [Read More](https://admin.mi52siterestore.com/article/leadership-development-by-state-run-and-state-based-universities/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/abigail-shrier-the-kinderfada-revolution.jpg)[](https://admin.mi52siterestore.com/article/the-kinderfada-revolution/ "Read More")
+
+Commentary Education, Culture Pre K-12, Culture & Society
+
+Oct 31 2024
+
+[The Kinderfada Revolution](https://admin.mi52siterestore.com/article/the-kinderfada-revolution/)
+
+By **[Abigail Shrier](https://admin.mi52siterestore.com/person/abigail-shrier/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-kinderfada-revolution/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/election-betting-bad-for-democracy-trump-kamala-polymarket-kalshi.jpg)[](https://admin.mi52siterestore.com/article/is-election-betting-bad-for-democracy/ "Read More")
+
+Commentary Governance Elections
+
+Oct 30 2024
+
+[Is Election Betting Bad for Democracy?](https://admin.mi52siterestore.com/article/is-election-betting-bad-for-democracy/)
+
+By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/is-election-betting-bad-for-democracy/)
 
     ![](https://media4.manhattan-institute.org/wp-content/uploads/kamala-harris-donald-trump-turning-to-podcasts-to-woo-uncertain-voters-1.jpg)[](https://admin.mi52siterestore.com/article/why-kamala-and-trump-are-turning-to-podcasts-to-woo-uncertain-voters/ "Read More")
 
@@ -114,16 +134,6 @@ Oct 26 2024
 
 By **[Rafael A. Mangual](https://admin.mi52siterestore.com/person/rafael-a-mangual/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/why-kamala-and-trump-are-turning-to-podcasts-to-woo-uncertain-voters/)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/nerdy-joy-of-grammar.jpg)[](https://admin.mi52siterestore.com/article/the-nerdy-joy-of-grammar/ "Read More")
-
-Commentary Culture Culture & Society
-
-Oct 24 2024
-
-[The Nerdy Joy of Grammar](https://admin.mi52siterestore.com/article/the-nerdy-joy-of-grammar/)
-
-By **[Robert VerBruggen](https://admin.mi52siterestore.com/person/robert-verbruggen/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-nerdy-joy-of-grammar/)
-
     ![](https://media4.manhattan-institute.org/wp-content/uploads/dei-university-michigan-ford-lowes.jpg)[](https://admin.mi52siterestore.com/article/university-of-michigan-spent-millions-on-dei-efforts-they-failed-miserably/ "Read More")
 
 Commentary Education Higher Ed
@@ -133,16 +143,6 @@ Oct 25 2024
 [University of Michigan Spent Millions on DEI Efforts. They Failed Miserably.](https://admin.mi52siterestore.com/article/university-of-michigan-spent-millions-on-dei-efforts-they-failed-miserably/)
 
 By **[Neetu Arnold](https://admin.mi52siterestore.com/person/neetu-arnold/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/university-of-michigan-spent-millions-on-dei-efforts-they-failed-miserably/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/a-model-bill-to-allow-independent-permitting-and-inspections.jpg)[](https://admin.mi52siterestore.com/article/a-model-bill-to-allow-independent-permitting-and-inspections/ "Read More")
-
-Issue Brief Economics, Governance
-
-Oct 22 2024
-
-[A Model Bill to Allow Independent Permitting and Inspections](https://admin.mi52siterestore.com/article/a-model-bill-to-allow-independent-permitting-and-inspections/)
-
-By **[Judge Glock](https://admin.mi52siterestore.com/person/judge-glock/)** Read time **11 mins** [Read More](https://admin.mi52siterestore.com/article/a-model-bill-to-allow-independent-permitting-and-inspections/)
 
 Our Policy Areas
 ----------------
