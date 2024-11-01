@@ -74,8 +74,8 @@ Trending Posts
 
 * [North Carolina failed to evacuate prisoners during Hurricane Helene](https://therealnews.com/north-carolina-failed-to-evacuate-prisoners-during-hurricane-helene)
 * [Billionaires spew more CO2 pollution in 90 minutes than average person in a lifetime](https://therealnews.com/billionaires-spew-more-co2-pollution-in-90-minutes-than-average-person-in-a-lifetime)
-* [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
 * [Back in the crosshairs of GOP hate, many migrants plan to vote defensively](https://therealnews.com/migrants-plan-to-vote-defensively-in-election)
+* [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
 * ['I'm not interested in changing hearts and minds': The work of an anti-Zionist rabbi](https://therealnews.com/the-work-of-an-anti-zionist-rabbi)
 * [Kaiser workers’ strike enters second week in Southern California](https://therealnews.com/kaiser-workers-strike-enters-second-week-in-southern-california)
 * [Zionism is driving a growing divide in Jewish communities](https://therealnews.com/zionism-is-driving-a-growing-divide-in-jewish-communities)
@@ -138,8 +138,8 @@ Trending Posts
 
 * [North Carolina failed to evacuate prisoners during Hurricane Helene](https://therealnews.com/north-carolina-failed-to-evacuate-prisoners-during-hurricane-helene)
 * [Billionaires spew more CO2 pollution in 90 minutes than average person in a lifetime](https://therealnews.com/billionaires-spew-more-co2-pollution-in-90-minutes-than-average-person-in-a-lifetime)
-* [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
 * [Back in the crosshairs of GOP hate, many migrants plan to vote defensively](https://therealnews.com/migrants-plan-to-vote-defensively-in-election)
+* [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
 * ['I'm not interested in changing hearts and minds': The work of an anti-Zionist rabbi](https://therealnews.com/the-work-of-an-anti-zionist-rabbi)
 * [Kaiser workers’ strike enters second week in Southern California](https://therealnews.com/kaiser-workers-strike-enters-second-week-in-southern-california)
 * [Zionism is driving a growing divide in Jewish communities](https://therealnews.com/zionism-is-driving-a-growing-divide-in-jewish-communities)
