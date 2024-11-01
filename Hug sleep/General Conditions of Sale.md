@@ -4,7 +4,7 @@
 
 [Skip to content](#MainContent)
 
-FALL SALE: Buy one Sleep Pod, get another 50% OFF!
+PRE-BLACK FRIDAY SALE: Buy one Sleep Pod, get another 50% OFF!
 
 [](javascript:void(0);)
 
