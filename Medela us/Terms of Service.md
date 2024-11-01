@@ -467,7 +467,7 @@ Pregnancy & Preparation
 
 [Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/pregnancy-preparation/what-to-expect-when-bringing-your-baby-home)
 
-[![](/020-articles/amazing-science-of-mother-milk-ebook/pregnancy-preparation/2083/image-thumb__2083__card/ev1_2_maternity_bag_main.49cbbbcc.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/pregnancy-preparation/six-breastfeeding-essentials-for-your-maternity-bag)
+[![A pregnant woman carrying a maternity bag.](/020-articles/amazing-science-of-mother-milk-ebook/pregnancy-preparation/2083/image-thumb__2083__card/ev1_2_maternity_bag_main.49cbbbcc.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/pregnancy-preparation/six-breastfeeding-essentials-for-your-maternity-bag)
 
 Pregnancy & Preparation
 
