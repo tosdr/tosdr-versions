@@ -1,5 +1,9 @@
 [Skip to Content](#mainContent)
 
+Alert
+
+**Site maintenance Monday 4 November** This website will be unavailable 6pm - 8pm (AEDT).
+
 Main menu
 
 [Parliament of Victoria](https://parliament.vic.gov.au/)
@@ -117,6 +121,10 @@ Main menu
     
     #### [Latest](https://parliament.vic.gov.au/link/c5bd7124b44e42c2929fdf47bfd51f6e.aspx)
     
+    * [Shark tank approach a heart starter for research](https://parliament.vic.gov.au/link/850b4556e7a84d9fb214c9fae3d5c551.aspx)
+        
+        01 November 2024
+        
     * [Feeding better student outcomes](https://parliament.vic.gov.au/link/e18c4538b4394d718e0016ee1b3553ef.aspx)
         
         29 October 2024
@@ -124,10 +132,6 @@ Main menu
     * [Broad support for reform of subcontractor sector](https://parliament.vic.gov.au/link/ba35261b527348a98aa1782586ecada2.aspx)
         
         25 October 2024
-        
-    * [Lower House debates pill testing trial](https://parliament.vic.gov.au/link/f13676eb05b14989afd5defa186552d3.aspx)
-        
-        23 October 2024
         
     
 * [Visit](https://parliament.vic.gov.au/visit/)Expand Visit
