@@ -563,13 +563,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=body-care)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/best-brightest-body-routine-pimprod2047742?sku=2631016)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/cheirosa-71-body-cream-pimprod2048867?sku=2632568)
         
         Sol de Janeiro
         
-        New & exclusive! Best & Brightest Body Routine
+        New & exclusive! Cheirosa 71 Body Cream
         
-        [Shop now](https://www.ulta.com/p/best-brightest-body-routine-pimprod2047742?sku=2631016)
+        [Shop now](https://www.ulta.com/p/cheirosa-71-body-cream-pimprod2048867?sku=2632568)
         
     * Tools & Brushes
         
