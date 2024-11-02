@@ -1,6 +1,6 @@
 [Discover New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm)
 
-[Discover New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm)|[Shop Our Gift Guide](https://www.art.com/gift-guide/holiday)|[Up to 20% off Art Deals](https://www.art.com/gallery/id--b55196/art-sale-posters.htm)
+[Discover New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm)|[Shop Our Gift Guide](https://www.art.com/gift-guide/holiday)|[Up to 40% off Art Deals](https://www.art.com/gallery/id--b55196/art-sale-posters.htm)
 
 [](https://www.art.com/ "Art.com")
 
@@ -287,8 +287,6 @@ Cancel
 [Christmas](https://www.art.com/gallery/id--b7911/christmas-posters.htm "Christmas")
 
 [Fall Landscape](https://www.art.com/gallery/id--b275246/fall-landscapes-posters.htm "Fall Landscape")
-
-[Spooky Chic](https://www.art.com/gallery/id--b42703/spooky-chic-posters.htm "Spooky Chic")
 
 [Vintage Christmas](https://www.art.com/gallery/id--b20120/winter-wonderland-posters.htm "Vintage Christmas")
 
