@@ -41,42 +41,42 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Ariana Grande on the red carpet](https://www.women.com/img/gallery/ariana-grande-songs-that-beautifully-explore-grief-and-loss/intro-1730293079.jpg)](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
+*  [![Dylan Mulvaney](https://www.women.com/img/gallery/memoirs-we-cant-wait-to-read-in-2025/intro-1730318048.jpg)](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
     
-    [Wellness](https://www.women.com/category/wellness/)
+    [Living](https://www.women.com/category/living/)
     
-    [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
+    [Living](https://www.women.com/category/living/) By Amanda Chatel
     
-    [Ariana Grande Songs That Beautifully Explore Grief And Loss](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
-    ====================================================================================================================================
+    [Memoirs We Can't Wait To Read In 2025](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
+    ===================================================================================================
     
-    Ariana Grande knows exactly what it means to channel pain through music. We're revisiting the singer's most healing tracks of all time.
+    There are some celebrity memoirs we'd love to see and others we wish didn't exist. But as far as 2025 goes, expect some memoirs that are really, really good.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
+    By Amanda Chatel [Read More](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
     
-* *  [![Oprah Winfrey smiling](https://www.women.com/img/gallery/why-oprah-is-unapologetically-childless-by-choice/intro-1730134315.jpg)](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
+* *  [![Kylie Jenner at an event](https://www.women.com/img/gallery/kylie-jenner-is-showing-us-the-trendiest-way-to-wear-watches-in-2024/intro-1730230338.jpg)](https://www.women.com/1700478/kylie-jenner-trendiest-way-wear-watches-2024/)
         
-        [Living](https://www.women.com/category/living/)
+        [Fashion](https://www.women.com/category/fashion/)
         
-        [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+        [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
         
-        ### [Why Oprah Is Unapologetically Childless By Choice](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
+        ### [Kylie Jenner Is Showing Us The Trendiest Way To Wear Watches In 2024](https://www.women.com/1700478/kylie-jenner-trendiest-way-wear-watches-2024/)
         
-        There are plenty of celebrities who prove you can be unapologetically child free, with Hollywood icon Oprah Winfrey leading the charge.
+        Thanks to Kylie Jenner, classic time pieces are more on trend than ever. Here's how the star is using the accessory to bridge luxury and practicality.
         
-        By Madison Emily Whisenand [Read More](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
+        By Bernadette Roe [Read More](https://www.women.com/1700478/kylie-jenner-trendiest-way-wear-watches-2024/)
         
-    *  [![Brittany Mahomes posing](https://www.women.com/img/gallery/brittany-mahomes-makeup-mistakes-that-totally-ruined-her-look/intro-1730138140.jpg)](https://www.women.com/1699294/brittany-mahomes-makeup-mistakes-totally-ruined-look/)
+    *  [![Ariana Grande on the red carpet](https://www.women.com/img/gallery/ariana-grande-songs-that-beautifully-explore-grief-and-loss/intro-1730293079.jpg)](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
         
-        [Beauty](https://www.women.com/category/beauty/)
+        [Wellness](https://www.women.com/category/wellness/)
         
-        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
         
-        ### [Brittany Mahomes Makeup Mistakes That Totally Ruined Her Look](https://www.women.com/1699294/brittany-mahomes-makeup-mistakes-totally-ruined-look/)
+        ### [Ariana Grande Songs That Beautifully Explore Grief And Loss](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
         
-        Brittany Mahomes is a makeup girl. But unfortunately, there were a few times when experimenting with makeup totally ruined her look.
+        Ariana Grande knows exactly what it means to channel pain through music. We're revisiting the singer's most healing tracks of all time.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1699294/brittany-mahomes-makeup-mistakes-totally-ruined-look/)
+        By Emily Hutchinson [Read More](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
         
 
 More Stories
@@ -93,6 +93,30 @@ More Stories
     For millenials in their early 30s, it can be difficult to navigate the changing tides of adulthood. These five books offer insight, wisdom and inspiration.
     
     By Bernadette Roe [Read More](https://www.women.com/1701412/best-books-for-women-in-30s/)
+    
+*  [![Oprah Winfrey smiling](https://www.women.com/img/gallery/why-oprah-is-unapologetically-childless-by-choice/intro-1730134315.jpg)](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+    
+    ### [Why Oprah Is Unapologetically Childless By Choice](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
+    
+    There are plenty of celebrities who prove you can be unapologetically child free, with Hollywood icon Oprah Winfrey leading the charge.
+    
+    By Madison Emily Whisenand [Read More](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
+    
+*  [![Brittany Mahomes posing](https://www.women.com/img/gallery/brittany-mahomes-makeup-mistakes-that-totally-ruined-her-look/intro-1730138140.jpg)](https://www.women.com/1699294/brittany-mahomes-makeup-mistakes-totally-ruined-look/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [Brittany Mahomes Makeup Mistakes That Totally Ruined Her Look](https://www.women.com/1699294/brittany-mahomes-makeup-mistakes-totally-ruined-look/)
+    
+    Brittany Mahomes is a makeup girl. But unfortunately, there were a few times when experimenting with makeup totally ruined her look.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1699294/brittany-mahomes-makeup-mistakes-totally-ruined-look/)
     
 *  [![Marley Marotta and Alexander Mendeluk on Shark Tank](https://www.women.com/img/gallery/heres-what-went-down-with-spirithoods-after-shark-tank/intro-1730131233.jpg)](https://www.women.com/1699179/what-went-down-spirithoods-after-shark-tank/)
     
@@ -381,30 +405,6 @@ More Stories
     Ariana Grande has always been somewhat open about her myriad relationships. When it comes to navigating love, she's a well of knowledge.
     
     By Amanda Chatel [Read More](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
-    
-*  [![Woman in black and white](https://www.women.com/img/gallery/steal-fran-dreschers-quirky-mob-wife-aesthetic-from-the-nanny/intro-1729693431.jpg)](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [Steal Fran Drescher's Quirky Mob Wife Aesthetic From The Nanny](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
-    
-    Give your mob wife wardrobe a Fran Drescher twist. Think tight turtlenecks, colorful bodycon dresses, mini skirts, heels, and lots of bling.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1690037/steal-fran-drescher-quirky-mob-wife-aesthetic-the-nanny/)
-    
-*  [![Megan Markle](https://www.women.com/img/gallery/5-celebs-who-have-opened-up-about-having-miscarriages/intro-1729097631.jpg)](https://www.women.com/1689914/celebs-open-up-miscarriages/)
-    
-    [Wellness](https://www.women.com/category/wellness/)
-    
-    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
-    
-    ### [5 Celebs Who Have Opened Up About Having Miscarriages](https://www.women.com/1689914/celebs-open-up-miscarriages/)
-    
-    While not easy, talking about miscarriages openly and honestly is a healing way for those who know the pain and struggle to come together and relate.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1689914/celebs-open-up-miscarriages/)
     
 
 Back
