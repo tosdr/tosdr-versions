@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Where to vote in Tarrant County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/09/32/18/GettyImages-1058414620-1.jpg?ve=1&tl=1)
+ [![Chipotle brings back bigger portions after criticism from customers](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/chipotle-2.jpg?ve=1&tl=1)
 
- ![Where to vote in Tarrant County on Election Day](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/09/32/18/592/333/GettyImages-1058414620-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tarrant-county-voting-locations-election-day)
+ ![Chipotle brings back bigger portions after criticism from customers](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/chipotle-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/chipotle-bigger-portions-customer-complaints)
 
-### [Where to vote in Tarrant County on Election Day](https://www.fox4news.com/news/tarrant-county-voting-locations-election-day)
+### [Chipotle brings back bigger portions after criticism from customers](https://www.fox4news.com/news/chipotle-bigger-portions-customer-complaints)
 
- [![Where to vote in Collin County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/32/18/GettyImages-1338949648.jpg?ve=1&tl=1)
+ [![Dallas weather: Scattered rain, storms this weekend](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gbyib6ywoaarifv.jpg?ve=1&tl=1)
 
- ![Where to vote in Collin County on Election Day](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/32/18/592/333/GettyImages-1338949648.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/where-vote-collin-county-election-day)
+ ![Dallas weather: Scattered rain, storms this weekend](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gbyib6ywoaarifv.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-scattered-rain-storms-weekend)
 
-### [Where to vote in Collin County on Election Day](https://www.fox4news.com/election/where-vote-collin-county-election-day)
+### [Dallas weather: Scattered rain, storms this weekend](https://www.fox4news.com/weather/dallas-weather-scattered-rain-storms-weekend)
 
- [![Election Day is Tuesday: What you need to know](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/219152_You_Decide_2024_Web-Graphic_1280x720_001.jpg?ve=1&tl=1)
+ [![IRS increases 401(k), other retirement plan contribution limits for 2025](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/irs-headquarters.jpg?ve=1&tl=1)
 
- ![Election Day is Tuesday: What you need to know](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/592/333/219152_You_Decide_2024_Web-Graphic_1280x720_001.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/election-day-is-tuesday-what-you-need-know)
+ ![IRS increases 401(k), other retirement plan contribution limits for 2025](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/irs-headquarters.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/irs-increases-401k-retirement-limits-2025)
 
-### [Election Day is Tuesday: What you need to know](https://www.fox4news.com/election/election-day-is-tuesday-what-you-need-know)
+### [IRS increases 401(k), other retirement plan contribution limits for 2025](https://www.fox4news.com/news/irs-increases-401k-retirement-limits-2025)
 
- [![Dallas man who lost leg after being hit by alleged drunk driver thankful to be alive](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/11012024-rr-pkg-david-mckee-st-major-crash_kdfwfea_00.02.16.52.jpg?ve=1&tl=1)
+ [![Where to vote in Denton County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/03/32/18/GettyImages-1206416963.jpg?ve=1&tl=1)
 
- ![Dallas man who lost leg after being hit by alleged drunk driver thankful to be alive](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/11012024-rr-pkg-david-mckee-st-major-crash_kdfwfea_00.02.16.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-mckee-street-crash-drunken-driver)
+ ![Where to vote in Denton County on Election Day](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/03/32/18/592/333/GettyImages-1206416963.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/denton-county-voting-sites-election-day)
 
-### [Dallas man who lost leg after being hit by alleged drunk driver thankful to be alive](https://www.fox4news.com/news/dallas-mckee-street-crash-drunken-driver)
+### [Where to vote in Denton County on Election Day](https://www.fox4news.com/election/denton-county-voting-sites-election-day)
 
- [![Texas hospitals now required to ask about patients' citizenship](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/11/32/18/GettyImages-1386927656.jpg?ve=1&tl=1)
+ [![Jury convicts former Kentucky officer of using excessive force on Breonna Taylor during deadly raid](https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2022/01/32/18/Breonna-Taylor.jpg?ve=1&tl=1)
 
- ![Texas hospitals now required to ask about patients' citizenship](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/11/32/18/592/333/GettyImages-1386927656.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-hospitals-now-required-ask-about-patients-citizenship)
+ ![Jury convicts former Kentucky officer of using excessive force on Breonna Taylor during deadly raid](https://images.foxtv.com/images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2022/01/32/18/592/333/Breonna-Taylor.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jury-convicts-former-kentucky-officer-using-excessive-force-breonna-taylor-during-deadly-raid)
 
-### [Texas hospitals now required to ask about patients' citizenship](https://www.fox4news.com/news/texas-hospitals-now-required-ask-about-patients-citizenship)
+### [Jury convicts former Kentucky officer of using excessive force on Breonna Taylor during deadly raid](https://www.fox4news.com/news/jury-convicts-former-kentucky-officer-using-excessive-force-breonna-taylor-during-deadly-raid)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
