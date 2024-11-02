@@ -1,6 +1,8 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)         Terms & Conditions – Omax Health - Omax Health                       
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)      
 
-               
+     
+
+Terms & Conditions – Omax Health - Omax Health                                 
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -301,13 +303,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3407 reviews](https://omaxhealth.com/pages/reviews)
+[3408 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3086)
+(3087)
 
 5%
 
@@ -325,7 +327,17 @@ Go to product page
 
 (53)
 
-2203
+2204
+
+R
+
+[CryoFreeze® Hemp CBD Roll-On | Regular](https://omaxhealth.com/products/omax-cryofreeze-cbd-roll-on#judgeme_product_reviews)
+
+Richard A.
+
+**Great reluef**
+
+Within minutes you feel relief..this product really works & promotes a sound nights sleep!! Give it a try you won’t be disappointed.
 
 W
 
@@ -346,15 +358,5 @@ Mary G.
 **Great product**
 
 Read the reviews of this oil. It is great. I have had ongoing neck pain for a couple of years now. I use this in the morning and at night and it helps the pain tremendously
-
-L
-
-[Cellmax](https://omaxhealth.com/products/cellmax#judgeme_product_reviews)
-
-Lisa
-
-**Great product!**
-
-My husband had rotator cuff surgery a little over a year ago. He’s 65 and very active (he’s been a triathlete for over 30 years). After the surgery and recovery, he continued to have nagging aches but CellMax has been a game changer for him! The shoulder feels good and he is able to work out at the level he needs/wants to continue to race! Thank you Omax Health … keep up the good work on delivering great products!
 
 Load More
