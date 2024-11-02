@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/de-hcq-misleidingsinfo-van-de-volkskrant/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/het-bashen-van-gideo-van-meijeren/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
