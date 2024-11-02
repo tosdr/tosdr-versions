@@ -414,13 +414,13 @@ Top
     
     [Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/ "Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?")
     
-* [![Can Indians Visit Pakistan? Full Pakistan/India VISA Guide](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2019/12/Can-Indians-Visit-Pakistan.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/can-indians-visit-pakistan-full-pakistan-india-visa-guide/ "Can Indians Visit Pakistan? Full Pakistan/India VISA Guide")
-    
-    [Can Indians Visit Pakistan? Full Pakistan/India VISA Guide](https://blog.karlrock.com/can-indians-visit-pakistan-full-pakistan-india-visa-guide/ "Can Indians Visit Pakistan? Full Pakistan/India VISA Guide")
-    
 * [![How I Learnt Urdu Script (and How You Can Too!)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/06/karl-rock-day-1-studying-Urdu-at-earth-diverse.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
     
     [How I Learnt Urdu Script (and How You Can Too!)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
+    
+* [![How to Rent a Motorcycle in Pakistan (with Prices)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/08/img_9157-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
+    
+    [How to Rent a Motorcycle in Pakistan (with Prices)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
