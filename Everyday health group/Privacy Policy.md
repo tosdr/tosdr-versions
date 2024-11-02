@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
+![ ](https://images.everydayhealth.com/images/news/sleep-promotes-healing-after-heart-attack-1440x810.jpg)
+
+Why Good Sleep Is Critical After a Heart Attack](https://www.everydayhealth.com/heart-health/why-good-sleep-is-critical-after-a-heart-attack/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+
 ![ ](https://images.everydayhealth.com/images/news/colonoscopy-more-reliable-than-new-blood-tests-1440x810.jpg)
 
 New Colorectal Cancer Blood Tests Not as Effective as Colonoscopy](https://www.everydayhealth.com/medical-procedures/new-colorectal-cancer-blood-tests-not-as-effective-as-colonoscopy/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
-
-![ ](https://images.everydayhealth.com/images/news/ozempic-lowers-alzheimers-risk-for-t2d-1440x810.jpg)
-
-Ozempic, Wegovy Tied to Lower Alzheimer’s Risk With Type 2 Diabetes](https://www.everydayhealth.com/neurological-disorders/ozempic-wegovy-tied-to-lower-alzheimers-risk-with-type-2-diabetes/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/with-mounjaro-shortage-over-will-tirzepatide-become-unavailable-1440x810.jpg)
 
@@ -144,7 +144,7 @@ EVERYDAY HEALTH PRIVACY POLICY
 
 [![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c)](https://privacy.truste.com/privacy-seal/validation?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c) [![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=01b0263e-277d-4e52-9ddd-86550128ec1a)](https://privacy.truste.com/privacy-seal/validation?rid=01b0263e-277d-4e52-9ddd-86550128ec1a)
 
-Effective March 28, 2024.
+Effective November 1, 2024.
 
 If you have any questions about our Privacy Policy, you can contact us at [**Privacy@everydayhealth.com**](mailto:Privacy@everydayhealth.com) **and include ‘Privacy Policy’ in the subject line. If you have any questions related to Data Subject Access Rights under GDPR, you can contact us through our [DSAR Portal](https://dsar.everydayhealth.com/).**
 
@@ -530,8 +530,8 @@ For more information concerning your use of the Everyday Health website and the 
 
 **Everyday Health**  
 **Attention: Legal Department**  
-**114 5th Avenue, 15****th** **Floor**  
-**New York, NY 10011**
+**360 Park Avenue South, 17th Floor**  
+**New York, NY 10010**
 
 **If you are an EU resident, you may contact our Data Protection Officer at [dpo@everydayhealth.com](mailto:dpo@everydayhealth.com) or submit GDPR related inquiries to our [DSAR Portal](https://dsar.everydayhealth.com/).**
 
@@ -539,8 +539,8 @@ If you have any comments, questions or concerns about any of the information in 
 
 Everyday Health  
 Attention: Legal Department  
-114 5th Avenue, 15th Floor  
-New York, NY 10011
+360 Park Avenue South, 17th Floor  
+New York, NY 10010
 
 **[privacy@everydayhealth.com](mailto:privacy@everydayhealth.com)**
 
@@ -817,7 +817,7 @@ The Digital Millennium Copyright Act of 1998 (the "DMCA") provides recourse for 
 * A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and
 * A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
 
-Everyday Health's Copyright Agent for notice of claims of copyright infringement or counter notices can be reached as follows: Designated Agent: Stephen Hicks; Address of Agent: ? Ziff Davis, LLC, 114 5th Avenue, 15th FL, New York, NY 10011; Telephone: (212) 503-3569; Fax: (646) 728-9501; E-mail for notice: DMCA@everydayhealthinc.com. We suggest that you consult your legal advisor before filing a notice or counter-notice. Also, be aware that there can be penalties for false claims under the DMCA.
+Everyday Health's Copyright Agent for notice of claims of copyright infringement or counter notices can be reached as follows: Designated Agent: Stephen Hicks; Address of Agent: ? Ziff Davis, LLC, 360 Park Avenue South, 17th Floor, New York, NY 10010; Telephone: (212) 503-3569; Fax: (646) 728-9501; E-mail for notice: DMCA@everydayhealthinc.com. We suggest that you consult your legal advisor before filing a notice or counter-notice. Also, be aware that there can be penalties for false claims under the DMCA.
 
 [Back to Top](https://www.everydayhealth.com/privacyterms/#top) | [Back to Everyday Health Terms of Use Index](https://www.everydayhealth.com/privacyterms/#index)
 
