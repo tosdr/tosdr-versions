@@ -14,10 +14,10 @@
 
 [Menu](#)
 
-General Terms and Conditions
-============================
+Condiciones generales
+=====================
 
-The legal documents necessary to offer our services. The General Terms and Conditions document is legally-binding in English, translations are provided for your convenience.
+Los documentos legales necesarios para ofrecer nuestros servicios. El documento de Condiciones Generales de Contratación es jurídicamente vinculante en inglés; se facilitan traducciones para su comodidad.
 
 [Ver la versión en inglés](https://weblate.org/en/terms/)
 
