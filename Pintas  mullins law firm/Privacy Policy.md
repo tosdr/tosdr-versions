@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What causes bruises on older adults?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-causes-bruises-on-older-adults-scaled.jpg "What Causes Bruises on Older Adults?")](https://www.pintas.com/faq/what-causes-bruises-on-older-adults/ "What Causes Bruises on Older Adults?")
+[![Is spectracide safer than roundup?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-is-spectracide-safer-than-roundup.jpg "Is Spectracide Safer Than Roundup?")](https://www.pintas.com/lawsuit/roundup-weed-killer/is-spectracide-safer-than-roundup/ "Is Spectracide Safer Than Roundup?")
 
-[#### What Causes Bruises on Older Adults?](https://www.pintas.com/faq/what-causes-bruises-on-older-adults/)
+[#### Is Spectracide Safer Than Roundup?](https://www.pintas.com/lawsuit/roundup-weed-killer/is-spectracide-safer-than-roundup/)
 
-[![How to help mormon church victims of sexual abuse](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-4-300x200.jpg "How to Help Mormon Church Victims of Sexual Abuse")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-can-i-help-a-mormon-church-sexual-abuse-victim/ "How to Help Mormon Church Victims of Sexual Abuse")
+[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-abuse-common-in-the-mormon-church/ "Is Clergy Sexual Abuse Common in the Mormon Church?")
 
-[#### How to Help Mormon Church Victims of Sexual Abuse](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-can-i-help-a-mormon-church-sexual-abuse-victim/)
+[#### Is Clergy Sexual Abuse Common in the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-abuse-common-in-the-mormon-church/)
 
-[![Can you sue an insurance company without a lawyer?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-you-sue-an-insurance-company-without-a-lawyer-scaled.jpg "Can You Sue an Insurance Company Without a Lawyer?")](https://www.pintas.com/faq/can-you-sue-an-insurance-company-without-a-lawyer/ "Can You Sue an Insurance Company Without a Lawyer?")
+[![How do you get mesothelioma lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-how-do-you-get-mesothelioma-lung-cancer.jpg "How Do You Get Mesothelioma Lung Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-mesothelioma-lung-cancer/ "How Do You Get Mesothelioma Lung Cancer?")
 
-[#### Can You Sue an Insurance Company Without a Lawyer?](https://www.pintas.com/faq/can-you-sue-an-insurance-company-without-a-lawyer/)
+[#### How Do You Get Mesothelioma Lung Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-mesothelioma-lung-cancer/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
