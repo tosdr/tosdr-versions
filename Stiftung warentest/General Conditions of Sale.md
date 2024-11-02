@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Vorsicht vor GCN Investment](https://www.test.de/Festgeld-Vorsicht-vor-GCN-Investment-6075105-0/ "Festgeld - Vorsicht vor GCN Investment")
-* [Verpackungs­ärger: Coraya Surimi Sticks](https://www.test.de/Verpackungsaerger-Coraya-Surimi-Sticks-6112809-0/ "Verpackungsärger - Coraya Surimi Sticks")
-* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
-* [Camping-Gasflaschen: Anschluss verpasst](https://www.test.de/Camping-Gasflaschen-Anschluss-verpasst-6024548-0/ "Camping-Gasflaschen - Anschluss verpasst")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
+* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
+* [Krypto-Währung: Aufsicht baut Bitcoin-Auto­maten ab](https://www.test.de/Krypto-Waehrung-Aufsicht-baut-Bitcoin-Automaten-ab-6150587-0/ "Krypto-Währung - Aufsicht baut Bitcoin-Automaten ab")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Vorsicht vor GCN Investment](https://www.test.de/Festgeld-Vorsicht-vor-GCN-Investment-6075105-0/ "Festgeld - Vorsicht vor GCN Investment")
-* [Verpackungs­ärger: Coraya Surimi Sticks](https://www.test.de/Verpackungsaerger-Coraya-Surimi-Sticks-6112809-0/ "Verpackungsärger - Coraya Surimi Sticks")
-* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
-* [Camping-Gasflaschen: Anschluss verpasst](https://www.test.de/Camping-Gasflaschen-Anschluss-verpasst-6024548-0/ "Camping-Gasflaschen - Anschluss verpasst")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
+* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
+* [Krypto-Währung: Aufsicht baut Bitcoin-Auto­maten ab](https://www.test.de/Krypto-Waehrung-Aufsicht-baut-Bitcoin-Automaten-ab-6150587-0/ "Krypto-Währung - Aufsicht baut Bitcoin-Automaten ab")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Vorsicht vor GCN Investment](https://www.test.de/Festgeld-Vorsicht-vor-GCN-Investment-6075105-0/ "Festgeld - Vorsicht vor GCN Investment")
-* [Verpackungs­ärger: Coraya Surimi Sticks](https://www.test.de/Verpackungsaerger-Coraya-Surimi-Sticks-6112809-0/ "Verpackungsärger - Coraya Surimi Sticks")
-* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
-* [Camping-Gasflaschen: Anschluss verpasst](https://www.test.de/Camping-Gasflaschen-Anschluss-verpasst-6024548-0/ "Camping-Gasflaschen - Anschluss verpasst")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
+* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
+* [Krypto-Währung: Aufsicht baut Bitcoin-Auto­maten ab](https://www.test.de/Krypto-Waehrung-Aufsicht-baut-Bitcoin-Automaten-ab-6150587-0/ "Krypto-Währung - Aufsicht baut Bitcoin-Automaten ab")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Vorsicht vor GCN Investment](https://www.test.de/Festgeld-Vorsicht-vor-GCN-Investment-6075105-0/ "Festgeld - Vorsicht vor GCN Investment")
-* [Verpackungs­ärger: Coraya Surimi Sticks](https://www.test.de/Verpackungsaerger-Coraya-Surimi-Sticks-6112809-0/ "Verpackungsärger - Coraya Surimi Sticks")
-* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
-* [Camping-Gasflaschen: Anschluss verpasst](https://www.test.de/Camping-Gasflaschen-Anschluss-verpasst-6024548-0/ "Camping-Gasflaschen - Anschluss verpasst")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
+* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
+* [Krypto-Währung: Aufsicht baut Bitcoin-Auto­maten ab](https://www.test.de/Krypto-Waehrung-Aufsicht-baut-Bitcoin-Automaten-ab-6150587-0/ "Krypto-Währung - Aufsicht baut Bitcoin-Automaten ab")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
 
 Service Stiftung Warentest
 
