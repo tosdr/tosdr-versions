@@ -31,6 +31,181 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Horarios de cortes de luz en Ecuador bajarán del 5 al 10 de noviembre
+=====================================================================
+
+Chimborazo, Santa Elena y Esmeraldas tendrán menos tiempo de racionamientos. Entérate, el tiempo para las otras provincias.
+---------------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-de-luz.jpg)
+
+El **Ministerio de Energía y Minas** anunció la decisión de disminuir los horarios de cortes de luz entre el martes 5 y el domingo 10 de noviembre de 2024. El anuncio se efectuó este sábado 2 de noviembre.
+
+Esta decisión se adoptó en coordinación con las empresas distribuidoras de electricidad. Hasta antes del feriado, los cortes era de hasta 14 horas al día debido a las condiciones en el **Complejo Hidroeléctrico Paute**, que incluye a las centrales **Mazar, Molino y Sopladora.**
+
+### Más noticias
+
+* [Cortes de luz en Guayaquil, con nuevos horarios del 1 al 4 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-nuevos-horarios-1-al-4-de-noviembre.html "Cortes de luz en Guayaquil, con nuevos horarios del 1 al 4 de noviembre")
+* [Ministerio de Energía anuncia decisión sobre cortes de luz para feriados de noviembre](https://www.elcomercio.com/actualidad/ecuador/cenae-decision-horas-cortes-luz-feriado-noviembre.html "Ministerio de Energía anuncia decisión sobre cortes de luz para feriados de noviembre")
+* [Dos centrales del Complejo Hidroeléctrico Paute vuelven a operar](https://www.elcomercio.com/actualidad/ecuador/dos-centrales-complejo-hidroelectrico-paute-vuelven-operar.html "Dos centrales del Complejo Hidroeléctrico Paute vuelven a operar")
+
+La duración de los cortes de luz desde el 5 de noviembre
+--------------------------------------------------------
+
+El nuevo cronograma anunciado por el **Gobierno de Ecuador** está comprendido por un periodo de seis horas en la mayoría de las provincias.
+
+Solo en los casos de **Chimborazo, Santa Elena y Esmeraldas**, la duración será de cuatro horas. La razón se debe a la reciente mejora en los caudales de los ríos que abastecen a las **centrales hidroeléctricas en estas zonas.**
+
+Los nuevos horarios de los cortes de luz
+----------------------------------------
+
+Los nuevos horarios de suspensión de la **energía** **eléctric**a están disponible en el sitio web del **Ministerio de Energía y Minas** y en los portales de las **empresas distribuidoras de electricidad.**
+
+A través de este link podrás conocer la programación de cortes de luz entre el martes 5 y el domingo 10 de noviembre de 2024: [bit.ly/05al10nov](http://bit.ly/05al10nov "bit.ly/05al10nov")
+
+Así se conmemora el Día de los Difuntos en Ecuador 
+===================================================
+
+El Día de los Difuntos en Ecuador se celebra con rituales que combinan tradiciones indígenas y católicas.
+---------------------------------------------------------------------------------------------------------
+
+![Ecuador celebra el Día de los Difuntos el 2 de noviembre. Foto: Ministerio de Turismo.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-Difuntos-Ecuador.jpg)
+
+### **Si tienes poco tiempo, te lo resumimos en estas tres líneas:** 
+
+* El Día de los Difuntos en Ecuador se celebra el 2 de noviembre.
+* En la Sierra, se limpian tumbas y se prepara colada morada y champús.
+* En la Costa y Amazonía, se realizan rezos, serenatas y ferias gastronómicas.
+
+La conmemoración del **Día de los Difuntos**, que incluye el **feriado de difuntos**, refleja la riqueza cultural del país. El 2 de noviembre, Ecuador, en cada una de sus regiones, honra a sus fallecidos a través de una **mezcla de tradiciones ancestrales y rituales propios de su cultura**.  
+
+### Más noticias
+
+* [Feriado de difuntos, una celebración de orígenes ancestrales](https://www.elcomercio.com/actualidad/ecuador/feriado-difuntos-celebracion-origenes-ancestrales.html "https://www.elcomercio.com/actualidad/ecuador/feriado-difuntos-celebracion-origenes-ancestrales.html")
+* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html")
+
+Estas actividades buscan recordar a los seres queridos que ya no están en el plano terrenal, rindiéndoles homenaje con **diversas manifestaciones culturales**. A continuación, te presentamos las costumbres y tradiciones más importantes del país, gracias a la información del [Ministerio de Turismo](https://www.turismo.gob.ec/especial-dia-de-los-difuntos-un-importante-significado-religioso-y-espiritual-que-une-a-las-familias-ecuatorianas/#:~:text=En%20la%20cosmovisi%C3%B3n%20andina%2C%20este,(mundo%20de%20los%20muertos). "https://www.turismo.gob.ec/especial-dia-de-los-difuntos-un-importante-significado-religioso-y-espiritual-que-une-a-las-familias-ecuatorianas/#:~:text=En%20la%20cosmovisi%C3%B3n%20andina%2C%20este,(mundo%20de%20los%20muertos)."). 
+
+**Día de los Difuntos en la Región Sierra** 
+--------------------------------------------
+
+### **Carchi** 
+
+El **Cementerio Municipal de Tulcán**, reconocido como **Patrimonio Cultural de Ecuador** desde 1984 gracias a sus más de **300 esculturas de ciprés vivientes**, atrae a miles de visitantes y devotos. Este camposanto, dividido en dos áreas: el Parque de los Recuerdos y el Altar de Dios, se llena de personas que en esta fecha especial rinden homenaje a sus seres queridos a limpiar sus tumbas y adornarlas con flores. 
+
+### **Imbabura** 
+
+En **Imbabura**, los rituales de **Día de los Difuntos** reflejan la **unión entre la cultura indígena y la tradición católica**. En Otavalo, las comunidades **comparten alimentos** como papas, cuyes y chicha, además de limpiar y adornar las tumbas, mientras **los responseros elevan rezos**. También es común disfrutar de la bebida champús, elaborada con harina de maíz, panela y hojas de limón. 
+
+### **Pichincha** 
+
+Los **cementerios en la provincia de Pichincha** reciben a los fieles, quienes rinden homenaje a sus difuntos con ofrendas florales y rezos en las tumbas. **En los hogares, se elabora la tradicional colada morada junto con guaguas de pan**, lo que permite que las familias se reúnan para recordar con respeto y afecto a sus seres queridos que ya no están. 
+
+### **Cotopaxi** 
+
+En los **cantones de Saquisilí y Pujilí**, el 3 de noviembre, se mantiene una tradición familiar donde las familias, después de haber visitado los cementerios el día anterior, regresan a las 05:00 para **recoger las bandejas de alimentos dejadas como ofrendas**. Estos alimentos son luego compartidos entre toda la comunidad, en **señal de que las almas de sus seres queridos han participado de este acto**. 
+
+### **Tungurahua** 
+
+En el **cantón Ambato**, la **celebración de los finados** incluye la realización de **tres ferias** donde artesanos exponen productos textiles y artículos elaborados en hojalata, cuero, madera, cerámica y serigrafía, como ollas, autos y rompecabezas. Estas ferias tienen lugar en la **quinta El Rosario y en la parroquia Pinllo**, y se llevan a cabo del 29 de octubre al 7 de noviembre. 
+
+### **Chimborazo** 
+
+En la **parroquia Yaruquíes**, cantón Riobamba, el 2 de noviembre, **las familias se reúnen para jugar tras visitar a sus difuntos**. La figura del **Animero**, que representa a los fallecidos, **recorre los cementerios recitando oraciones**. Durante el 2 y 3 de noviembre, se realizan vigilias donde la comunidad comparte oraciones y ofrendas, además de un **pregón nocturno en Riobamba, Chambo y Guano**. 
+
+### **Cañar** 
+
+Los familiares llevan objetos significativos del difunto al cementerio y **participan en el juego de Piruruy**, que permite conocer sus necesidades y resolver desacuerdos. En la cosmovisión andina, **este día representa la reciprocidad entre los vivos del Kay Pacha y los muertos del Uku Pacha**.  
+
+### **Azuay**  
+
+Las **comunidades indígenas de Azuay** visitan el cementerio para **compartir alimentos en las tumbas de sus difuntos**, basándose en la creencia de que **la muerte es un tránsito hacia otra vida y que el difunto regresa cada año**. Además, los habitantes de áreas rurales realizan **vigilias nocturnas con cánticos y oraciones**. 
+
+### **Loja** 
+
+La **venta de ‘guaguas de pan’ y colada morada** en las plazas es una tradición tras la eucaristía en honor a los difuntos. Estos son el aperitivo principal antes de visitar los cementerios. Las **guaguas de pan** son figuras de harina de trigo moldeadas y decoradas que se intercambian entre familiares. La **colada morada** se elabora con harina de maíz negro y frutas como naranjilla y mora. 
+
+**Día de los Difuntos en la Región Costa** 
+-------------------------------------------
+
+### **Esmeraldas** 
+
+La celebración de **San Martín de Porres** en el recinto Canchimalero del cantón Eloy Alfaro es parte de las **conmemoraciones del Día de los Difuntos**. Incluye una **peregrinación por el mar en balsas decoradas con flores y hojas**. El 2 de noviembre se lleva a cabo una ceremonia religiosa, y al día siguiente, se realiza una procesión por las calles de Limones hasta la embarcación, donde se coloca al santo para iniciar la travesía. 
+
+### **Manabí** 
+
+El **Día de los Fieles Difuntos** se celebra en Manabí con **rezos, vigilias y tradiciones ancestrales**. Las familias se reúnen en los camposantos para velar a sus seres queridos, y en las zonas rurales, **los difuntos reciben serenatas de mariachis**. Las tumbas se adornan con flores y velas encendidas, mientras que **la población escribe cartas para mantener viva la memoria de quienes han partido**. 
+
+### **Guayas** 
+
+Los **fieles difuntos** se recuerdan con oraciones en iglesias y visitas a cementerios, donde se dejan flores y tarjetas. En Guayaquil, el **Cementerio General, Patrimonio Cultural Nacional**, alberga a personajes ilustres.   
+
+### **Los Ríos** 
+
+En las cercanías de los cementerios, **se colocan puestos que venden adornos florales y comida típica**. Los habitantes de los cantones de Montalvo, Urdaneta y Mocache preparan la tradicional colada morada y las guaguas de pan. Asimismo, sus celebraciones incluyen **misas al aire libre en los cementerios**. 
+
+**Día de los Difuntos en la Región Amazónica** 
+-----------------------------------------------
+
+### **Orellana** 
+
+**Las familias visitan los cementerios** con ofrendas florales, donde **rezan por el descanso de las almas**. En los hogares se prepara la tradicional colada morada con guaguas de pan, y se realizan **ferias gastronómicas** cercanas a los camposantos, permitiendo a los visitantes disfrutar de deliciosos platos. Además, **las comunidades indígenas de la zona brindan chicha de chonta y yuca**, acompañadas de alimentos locales. 
+
+### **Pastaza** 
+
+En el **cantón Puyo**, la comunidad **Shuar** lleva a cabo vigilias por los difuntos del 1 al 2 de noviembre, mientras disfrutan de la tradicional **chicha de chonta**. Por su parte, las familias de la comunidad **kichwa Sarayaku** en Pastaza preparan **chicha de yuca c**on ocho días de anticipación, gracias a la materia prima cultivada en sus propias chacras, para ofrecerla a quienes participan en las ceremonias fúnebres. 
+
+**Día de los Difuntos en la Región Insular** 
+---------------------------------------------
+
+Los familiares de los difuntos **visitan los cementerios de la región insular**, decoran las tumbas con ramos, coronas y velas, y participan en misas al aire libre. En los hogares **se prepara la tradicional colada morada**, mientras que en las calles cercanas a los camposantos se lleva a cabo una **feria gastronómica donde se ofrece este plato típico junto con guaguas de pan y champús**. 
+
+¡No crea todo el contenido digital que ve o escucha!
+====================================================
+
+Con educación, datos verificados y pensamiento crítico, Usted tendrá mayor inmunidad a los deepfakes y demás contenido digital falso.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
+
+En la actualidad, en un mundo conectado a través de **internet**, y donde los datos se propagan en las **redes sociales** a una velocidad vertiginosa, no es de sorprenderse que estamos expuestos a una gran cantidad de **contenido audiovisual**. Sin embargo, no todo ese contenido audiovisual al que tenemos acceso es real. Para muestra basta un botón: le invito a ver [este video de YouTube](https://youtu.be/MA2eKqjuXH0), donde nuestro Récord Guinness como presentador de noticias con más años al aire ininterrumpidamente, Don Alfonso Espinoza de los Monteros, nos transmite un mensaje muy importante para nuestras vidas.
+
+Como se habrá dado cuenta, por el contenido del mensaje y los defectos en la sincronización de los labios y las palabras que pronuncia, este video **no es real**: es decir, Don Alfonso nunca pronunció en la realidad dicho discurso. Lo que tenemos en este video es un **_deepfake_**. Los _deepfakes_ son imágenes, videos o audios (con estilo realista) que son parcial o totalmente falsos (de ahí el nombre _fake_), que son generados usando algoritmos avanzados de **inteligencia artificial**. Usualmente, se usan redes neuronales artificiales profundas, que es un algoritmo de **_deep learning_**, (de ahí el nombre _deep_). Por lo tanto, en un mundo digital, donde el contenido audiovisual prolifera, los _deepfakes_ se han convertido en un fenómeno de gran impacto social.
+
+Los algoritmos más usados para crear _deepfakes_ permiten la generación o alteración de **imágenes**, clonación y generación de **voz**, y generación o alteración de **video**. Entre estos tipos de _deepfakes_, uno de los más usados es la **alteración de video** debido a que, combinando audio y video, aumenta la probabilidad de captar el interés de la audiencia. Hay varias maneras de generar videos alterados, con estilo realista. Una de las más populares es la siguiente. Primero se clona el **tono de voz** de una persona. Luego, se genera un audio falso a partir de un texto, usando el tono de voz clonado. Finalmente, se fusiona el audio falso con el video original. En este último paso se suele sincronizar el movimiento de los labios, y otras expresiones corporales, del video original para que vayan acorde con el audio falso, generando así la apariencia realista del contenido generado.
+
+Una vez que sabemos qué son los _deepfakes_ vamos a analizar sus **potenciales usos**. Alguna vez Usted habrá visto una película doblada de inglés a español. Actualmente, en la industria del entretenimiento el **doblaje de películas**, en su mayoría, todavía se lo hace de **forma manual**. Primero se traduce y adapta el discurso de inglés a español. Luego se hace que actores, cuyo **tono de voz** encaja con los personajes de la película, interpreten dicho discurso, de tal manera que las voces dobladas coincidan lo más posible con la **gesticulación labial** de los personajes originales. Este proceso demanda mucho **tiempo** y **dinero**. Aparte, el tono de las voces de la película doblada no es el mismo que el de la película original. Usando el procedimiento antes descrito para la generación de _deepfakes_, podemos doblar una película, en tiempos mucho más cortos, y conservando el tono de voz de los personajes originales.
+
+En la misma línea, usando _deepfakes_ podemos doblar contenido educativo como cursos o discursos de **personajes famosos.** En el sector educativo podemos generar material más atractivo que ayude a captar el interés de los estudiantes. En el **arte** podemos crear exhibiciones de **artistas famosos** que ya han fallecido, haciendo que el propio **personaje** nos guíe a través de la exhibición mediante su _deepfake_. Como nos podemos dar cuenta, las potenciales aplicaciones con impacto positivo de los _deepfakes_ son múltiples en muchas áreas de **nuestra cotidianidad**.
+
+Volviendo al procedimiento para **generación** de _deepfakes_, cualquier persona que tenga imágenes, videos o audios publicados en internet es un potencial candidato para su **generación**. En palabras más simples, solo los que han estado y están completamente aislados del **mundo digital**, que son muy pocos en el mundo, son inmunes a los _deepfakes_. Obviamente, de entre todos los que somos susceptibles a los _deepfakes_, unos son más probables que otros. Usualmente, el **nivel de interés** radica en el grado de exposición pública que tiene una persona. Es por esta razón que usualmente vemos _deepfakes_ de políticos, **figuras públicas relevantes**, actores, artistas o deportistas.
+
+Desafortunadamente, como toda tecnología, también hay **malos usos** para los _deepfakes_. Estos malos usos van desde la generación de **publicidad engañosa**, hasta la diseminación de **noticias falsas** o ejecución de **estafas**. Por ejemplo, hace unos días se difundió en redes sociales un [video alterado de una entrevista dada por el Ministro de Gobierno de Ecuador](https://x.com/radiosucesosec/status/1848503874963050592), Arturo Félix Wong, en el contexto de la crisis energética que atravesamos en Ecuador. Este video, sumado a la molestia ciudadana por los cortes de energía eléctrica, despertó la molestia de muchos ciudadanos que no se percataron de la falsedad del video.
+
+Entonces, si casi todos somos susceptibles para que nos generen _deepfakes_ o de recibir **contenido alterado** o falso, la pregunta es ¿cómo nos protegemos ante esta situación? Los **gigantes tecnológicos**, que están detrás de las redes sociales y de la **búsqueda de datos** en internet, están al tanto de este tema y cada día toman medidas más estrictas para protegernos. Sin embargo, hay un segundo nivel de seguridad que le corresponde al usuario. Para evitar la generación de _deepfakes_ con fines maliciosos usando sus datos, tenga siempre precaución con las fotografías, videos y datos personales que publica en redes sociales. Adicionalmente, administre correctamente los permisos para controlar quién puede acceder al contenido que publica.
+
+Para evitar ser víctima de **desinformación**, engaños, estafas o **robos** mediante el uso de _deepfakes_, antes de dar por verdadero lo que le intentan transmitir, analice con mucho detenimiento su contenido. Si no está seguro, verifique los datos que contiene el contenido sospechoso. Con educación, datos verificados y **pensamiento crítico**, Usted tendrá mayor **inmunidad** a los _deepfakes_ y demás contenido digital falso. Por lo tanto, no crea todo el contenido digital que ve o escucha, en su lugar, analice y verifique lo que consume.
+
+Las redes contra los medios
+===========================
+
+Medios importantes en EE. UU. renuncian a respaldar candidatos para recuperar credibilidad.
+-------------------------------------------------------------------------------------------
+
+![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
+
+El próximo martes podremos saber quién influye más en la **elección presidencial** de **Estados Unidos**,  las redes sociales o los **medios** de **comunicación**. Los medios están por **Kamala Harris** y las redes por **Donald Trump**. Elon Musk, el dueño de la poderosa plataforma X, se entregó con plata y persona a la campaña de Trump. En los medios hay división.
+
+El **Washington Post** que siempre había apoyado a los **demócratas**, decidió ahora no respaldar a ninguno de los **candidatos**. El dueño del diario, Jeff Bezos, explicó su posición diciendo que la **crisis** de la prensa se debe a falta de **credibilidad** y que apoyar a un **candidato**, como hacían los **diarios**, cuestiona su **independencia**.
+
+La decisión provocó un áspero **debate dentro** y fuera del diario. **Ejecutivos** y columnistas importantes decidieron renunciar y 250.000 lectores pidieron cancelar su **suscripción**. Las pérdidas llegaron el año pasado a 77 millones de dólares. La gente ya no cree en la **independencia** de los diarios, sostiene Bezos.
+
+Los críticos creen que Bezos se doblegó ante las **amenazas** de Trump quien pocos días antes había dicho del diario: “Son **despreciables** y **malignos**. En realidad son enemigos del pueblo”. Bezos insiste en que la prensa no se hace cargo de la realidad: “no basta con ser veraces, tenemos que ser veraces y conseguir que la gente crea, que lo somos”
+
+Uno de los **columnistas fieles** sostiene que el **modelo** de **negocio** de los **diarios** ha colapsado y la **desinformación** (redes) ha llenado ese vacío. Asegura que Jeff Bezos garantiza la libertad:  “durante nueve años he catalogado a **Trump** como racista y fascista, he añadido más **evidencia** cada semana, y nunca he sido observado… mientras tenga libertad seguiré escribiendo y espero que me sigan leyendo”.
+
+_The Washington Post, Los Angeles Times y USA Today_, tres diarios importantes, han roto la **tradición** de respaldar a uno de los **candidatos**. La decisión será, para algunos, una forma de asumir una **posición política**, para otros será una forma de buscar **independencia** y **credibilidad**.
+
 Colada morada para saborear las tradiciones en medio de la crisis
 =================================================================
 
@@ -52,72 +227,6 @@ La preparación se deriva de la ceremonia **Quitu Cara**, Aya Marcay Quilla, que
 En este 2024, las cargas son otras. Pero, a la par, hay una **identidad** que se resiste a claudicar, al igual que la meta de la reactivación en medio de la crisis energética.
 
 En los claustros de Quito, ese sabor se combina con la misión de las religiosas de pedir por mejores tiempos para los ecuatorianos, como ya lo han hecho en otras crisis, como el terremoto de 2016 y la pandemia por el covid-19. En el Centro Histórico hay media docena de estos espacios.
-
-Papas rellenas irresistibles
-============================
-
-Un plato versátil y delicioso que combina sabores y tradiciones en cada bocado.
--------------------------------------------------------------------------------
-
-![Dale un giro a tu menú con estas papas rellenas irresistibles.](https://www.elcomercio.com/wp-content/uploads/2024/11/SABORES-8.jpg)
-
-Las **papas rellenas** son un **plato** que ha conquistado paladares en **diversas culturas,** especialmente en América Latina. Este platillo, que combina la **sencillez** de la papa con una **variedad de rellenos,** es un símbolo de la cocina casera y familiar. Su **popularidad** radica no solo en su sabor, sino también en su **versatilidad**, ya que se pueden adaptar a diferentes **gustos y preferencias**. ¡Descubre el placer de cocinar algo delicioso! ¡Manos a la obra!
-
-Ingredientes
-------------
-
-4 papas grandes
-
-300 g de carne molida (res o cerdo)
-
-1 cebolla picada
-
-2 dientes de ajo picados
-
-1 cucharada de aceite
-
-Sal y pimienta al gusto
-
-1 huevo (opcional)
-
-Pan rallado (opcional)
-
-* * *
-
-> Transforma las papas de siempre en una experiencia gourmet con esta receta.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/SABORES-9-2-1024x538.jpg)
-
-Sumérgete en una receta y deja que tu creatividad brille en la cocina.
-
-**Preparación de la receta de las papas rellenas**
---------------------------------------------------
-
-* **Cocinar** las papas hasta que estén tiernas. Dejar enfriar y **aplastar** con un tenedor hasta formar un puré.
-* En una sartén, **calentar** el aceite y sofreír la cebolla y el ajo hasta dorar. **Agregar** la carne molida y **cocinar** hasta que esté bien cocida. Sal y pimienta al gusto.
-* Tomar una porción de puré, **colocar** una cucharada del relleno en el centro y cubrir con más puré formando una bola.
-* Si deseas, pasar cada bola por huevo batido y luego por pan rallado.
-* **Calentar** el aceite en una sartén profunda y **freír** las papas hasta **dorar**. Escurre sobre papel absorbente.
-
-Las papas rellenas se pueden servir de varias maneras
------------------------------------------------------
-
-* Acompañar con salsas como guacamole, salsa de yogur, o salsa de tomate picante. Esto añade frescura y un toque extra de sabor.
-* Servir con una **ensalada fresca** de lechuga, tomate y aguacate. La frescura de la ensalada equilibrará la riqueza de las papas.
-* Con frijoles, o una porción de vegetales al vapor. Esto puede convertirlas en un plato más completo.
-* Finaliza el plato con un poco de **perejil** fresco o **cebollín** picado para dar un toque de color y frescura.
-
-Opciones de rellenos
---------------------
-
-Algunas opciones de ingredientes que puedes usar para rellenar las papas
-
-* Puedes utilizar una mezcla de verduras como espinacas, zanahorias, brócoli, cebolla, pimientos y champiñones. Estas verduras pueden ser salteadas o cocidas antes de ser mezcladas con otros ingredientes para dar más sabor.
-* Frijoles negros, lentejas o garbanzos son excelentes opciones que aportan proteínas y fibra. Puedes hacer un puré o simplemente mezclarlos con especias y otros vegetales.
-* Nueces, almendras o piñones pueden ser añadidos para dar un toque crujiente y un sabor único. Tostados previamente, estos frutos secos realzan el sabor del relleno.
-* Puedes rellenas las papas con los quesos comunes como mozzarella o ricotta, puedes experimentar con quesos veganos si buscas opciones sin lácteos.
-
-¡Buen provecho! ¡Imposible resistirse!
 
 ‘Ecuador tiene potencial para ser un gran proveedor de leche’: Ariel Londinski
 ==============================================================================
@@ -208,51 +317,71 @@ Hoja de vida
 * Es médico veterinario con un posgrado y diplomado en las universidades de San Martín y Ceace, de Argentina. Es coordinador de la Comisión Científica de los Congresos Panamericanos de la Leche (ediciones 2012 al 2024).
 * Integra el grupo de gobernanza del Marco de la Sustentabilidad Lechera Global y es parte del grupo de trabajo del laboratorio de políticas lecheras de la FAO.
 
-¡No crea todo el contenido digital que ve o escucha!
-====================================================
+Papas rellenas irresistibles
+============================
 
-Con educación, datos verificados y pensamiento crítico, Usted tendrá mayor inmunidad a los deepfakes y demás contenido digital falso.
--------------------------------------------------------------------------------------------------------------------------------------
+Un plato versátil y delicioso que combina sabores y tradiciones en cada bocado.
+-------------------------------------------------------------------------------
 
-![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
+![Dale un giro a tu menú con estas papas rellenas irresistibles.](https://www.elcomercio.com/wp-content/uploads/2024/11/SABORES-8.jpg)
 
-En la actualidad, en un mundo conectado a través de **internet**, y donde los datos se propagan en las **redes sociales** a una velocidad vertiginosa, no es de sorprenderse que estamos expuestos a una gran cantidad de **contenido audiovisual**. Sin embargo, no todo ese contenido audiovisual al que tenemos acceso es real. Para muestra basta un botón: le invito a ver [este video de YouTube](https://youtu.be/MA2eKqjuXH0), donde nuestro Récord Guinness como presentador de noticias con más años al aire ininterrumpidamente, Don Alfonso Espinoza de los Monteros, nos transmite un mensaje muy importante para nuestras vidas.
+Las **papas rellenas** son un **plato** que ha conquistado paladares en **diversas culturas,** especialmente en América Latina. Este platillo, que combina la **sencillez** de la papa con una **variedad de rellenos,** es un símbolo de la cocina casera y familiar. Su **popularidad** radica no solo en su sabor, sino también en su **versatilidad**, ya que se pueden adaptar a diferentes **gustos y preferencias**. ¡Descubre el placer de cocinar algo delicioso! ¡Manos a la obra!
 
-Como se habrá dado cuenta, por el contenido del mensaje y los defectos en la sincronización de los labios y las palabras que pronuncia, este video **no es real**: es decir, Don Alfonso nunca pronunció en la realidad dicho discurso. Lo que tenemos en este video es un **_deepfake_**. Los _deepfakes_ son imágenes, videos o audios (con estilo realista) que son parcial o totalmente falsos (de ahí el nombre _fake_), que son generados usando algoritmos avanzados de **inteligencia artificial**. Usualmente, se usan redes neuronales artificiales profundas, que es un algoritmo de **_deep learning_**, (de ahí el nombre _deep_). Por lo tanto, en un mundo digital, donde el contenido audiovisual prolifera, los _deepfakes_ se han convertido en un fenómeno de gran impacto social.
+Ingredientes
+------------
 
-Los algoritmos más usados para crear _deepfakes_ permiten la generación o alteración de **imágenes**, clonación y generación de **voz**, y generación o alteración de **video**. Entre estos tipos de _deepfakes_, uno de los más usados es la **alteración de video** debido a que, combinando audio y video, aumenta la probabilidad de captar el interés de la audiencia. Hay varias maneras de generar videos alterados, con estilo realista. Una de las más populares es la siguiente. Primero se clona el **tono de voz** de una persona. Luego, se genera un audio falso a partir de un texto, usando el tono de voz clonado. Finalmente, se fusiona el audio falso con el video original. En este último paso se suele sincronizar el movimiento de los labios, y otras expresiones corporales, del video original para que vayan acorde con el audio falso, generando así la apariencia realista del contenido generado.
+4 papas grandes
 
-Una vez que sabemos qué son los _deepfakes_ vamos a analizar sus **potenciales usos**. Alguna vez Usted habrá visto una película doblada de inglés a español. Actualmente, en la industria del entretenimiento el **doblaje de películas**, en su mayoría, todavía se lo hace de **forma manual**. Primero se traduce y adapta el discurso de inglés a español. Luego se hace que actores, cuyo **tono de voz** encaja con los personajes de la película, interpreten dicho discurso, de tal manera que las voces dobladas coincidan lo más posible con la **gesticulación labial** de los personajes originales. Este proceso demanda mucho **tiempo** y **dinero**. Aparte, el tono de las voces de la película doblada no es el mismo que el de la película original. Usando el procedimiento antes descrito para la generación de _deepfakes_, podemos doblar una película, en tiempos mucho más cortos, y conservando el tono de voz de los personajes originales.
+300 g de carne molida (res o cerdo)
 
-En la misma línea, usando _deepfakes_ podemos doblar contenido educativo como cursos o discursos de **personajes famosos.** En el sector educativo podemos generar material más atractivo que ayude a captar el interés de los estudiantes. En el **arte** podemos crear exhibiciones de **artistas famosos** que ya han fallecido, haciendo que el propio **personaje** nos guíe a través de la exhibición mediante su _deepfake_. Como nos podemos dar cuenta, las potenciales aplicaciones con impacto positivo de los _deepfakes_ son múltiples en muchas áreas de **nuestra cotidianidad**.
+1 cebolla picada
 
-Volviendo al procedimiento para **generación** de _deepfakes_, cualquier persona que tenga imágenes, videos o audios publicados en internet es un potencial candidato para su **generación**. En palabras más simples, solo los que han estado y están completamente aislados del **mundo digital**, que son muy pocos en el mundo, son inmunes a los _deepfakes_. Obviamente, de entre todos los que somos susceptibles a los _deepfakes_, unos son más probables que otros. Usualmente, el **nivel de interés** radica en el grado de exposición pública que tiene una persona. Es por esta razón que usualmente vemos _deepfakes_ de políticos, **figuras públicas relevantes**, actores, artistas o deportistas.
+2 dientes de ajo picados
 
-Desafortunadamente, como toda tecnología, también hay **malos usos** para los _deepfakes_. Estos malos usos van desde la generación de **publicidad engañosa**, hasta la diseminación de **noticias falsas** o ejecución de **estafas**. Por ejemplo, hace unos días se difundió en redes sociales un [video alterado de una entrevista dada por el Ministro de Gobierno de Ecuador](https://x.com/radiosucesosec/status/1848503874963050592), Arturo Félix Wong, en el contexto de la crisis energética que atravesamos en Ecuador. Este video, sumado a la molestia ciudadana por los cortes de energía eléctrica, despertó la molestia de muchos ciudadanos que no se percataron de la falsedad del video.
+1 cucharada de aceite
 
-Entonces, si casi todos somos susceptibles para que nos generen _deepfakes_ o de recibir **contenido alterado** o falso, la pregunta es ¿cómo nos protegemos ante esta situación? Los **gigantes tecnológicos**, que están detrás de las redes sociales y de la **búsqueda de datos** en internet, están al tanto de este tema y cada día toman medidas más estrictas para protegernos. Sin embargo, hay un segundo nivel de seguridad que le corresponde al usuario. Para evitar la generación de _deepfakes_ con fines maliciosos usando sus datos, tenga siempre precaución con las fotografías, videos y datos personales que publica en redes sociales. Adicionalmente, administre correctamente los permisos para controlar quién puede acceder al contenido que publica.
+Sal y pimienta al gusto
 
-Para evitar ser víctima de **desinformación**, engaños, estafas o **robos** mediante el uso de _deepfakes_, antes de dar por verdadero lo que le intentan transmitir, analice con mucho detenimiento su contenido. Si no está seguro, verifique los datos que contiene el contenido sospechoso. Con educación, datos verificados y **pensamiento crítico**, Usted tendrá mayor **inmunidad** a los _deepfakes_ y demás contenido digital falso. Por lo tanto, no crea todo el contenido digital que ve o escucha, en su lugar, analice y verifique lo que consume.
+1 huevo (opcional)
 
-Las redes contra los medios
-===========================
+Pan rallado (opcional)
 
-Medios importantes en EE. UU. renuncian a respaldar candidatos para recuperar credibilidad.
--------------------------------------------------------------------------------------------
+* * *
 
-![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
+> Transforma las papas de siempre en una experiencia gourmet con esta receta.
 
-El próximo martes podremos saber quién influye más en la **elección presidencial** de **Estados Unidos**,  las redes sociales o los **medios** de **comunicación**. Los medios están por **Kamala Harris** y las redes por **Donald Trump**. Elon Musk, el dueño de la poderosa plataforma X, se entregó con plata y persona a la campaña de Trump. En los medios hay división.
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/SABORES-9-2-1024x538.jpg)
 
-El **Washington Post** que siempre había apoyado a los **demócratas**, decidió ahora no respaldar a ninguno de los **candidatos**. El dueño del diario, Jeff Bezos, explicó su posición diciendo que la **crisis** de la prensa se debe a falta de **credibilidad** y que apoyar a un **candidato**, como hacían los **diarios**, cuestiona su **independencia**.
+Sumérgete en una receta y deja que tu creatividad brille en la cocina.
 
-La decisión provocó un áspero **debate dentro** y fuera del diario. **Ejecutivos** y columnistas importantes decidieron renunciar y 250.000 lectores pidieron cancelar su **suscripción**. Las pérdidas llegaron el año pasado a 77 millones de dólares. La gente ya no cree en la **independencia** de los diarios, sostiene Bezos.
+**Preparación de la receta de las papas rellenas**
+--------------------------------------------------
 
-Los críticos creen que Bezos se doblegó ante las **amenazas** de Trump quien pocos días antes había dicho del diario: “Son **despreciables** y **malignos**. En realidad son enemigos del pueblo”. Bezos insiste en que la prensa no se hace cargo de la realidad: “no basta con ser veraces, tenemos que ser veraces y conseguir que la gente crea, que lo somos”
+* **Cocinar** las papas hasta que estén tiernas. Dejar enfriar y **aplastar** con un tenedor hasta formar un puré.
+* En una sartén, **calentar** el aceite y sofreír la cebolla y el ajo hasta dorar. **Agregar** la carne molida y **cocinar** hasta que esté bien cocida. Sal y pimienta al gusto.
+* Tomar una porción de puré, **colocar** una cucharada del relleno en el centro y cubrir con más puré formando una bola.
+* Si deseas, pasar cada bola por huevo batido y luego por pan rallado.
+* **Calentar** el aceite en una sartén profunda y **freír** las papas hasta **dorar**. Escurre sobre papel absorbente.
 
-Uno de los **columnistas fieles** sostiene que el **modelo** de **negocio** de los **diarios** ha colapsado y la **desinformación** (redes) ha llenado ese vacío. Asegura que Jeff Bezos garantiza la libertad:  “durante nueve años he catalogado a **Trump** como racista y fascista, he añadido más **evidencia** cada semana, y nunca he sido observado… mientras tenga libertad seguiré escribiendo y espero que me sigan leyendo”.
+Las papas rellenas se pueden servir de varias maneras
+-----------------------------------------------------
 
-_The Washington Post, Los Angeles Times y USA Today_, tres diarios importantes, han roto la **tradición** de respaldar a uno de los **candidatos**. La decisión será, para algunos, una forma de asumir una **posición política**, para otros será una forma de buscar **independencia** y **credibilidad**.
+* Acompañar con salsas como guacamole, salsa de yogur, o salsa de tomate picante. Esto añade frescura y un toque extra de sabor.
+* Servir con una **ensalada fresca** de lechuga, tomate y aguacate. La frescura de la ensalada equilibrará la riqueza de las papas.
+* Con frijoles, o una porción de vegetales al vapor. Esto puede convertirlas en un plato más completo.
+* Finaliza el plato con un poco de **perejil** fresco o **cebollín** picado para dar un toque de color y frescura.
+
+Opciones de rellenos
+--------------------
+
+Algunas opciones de ingredientes que puedes usar para rellenar las papas
+
+* Puedes utilizar una mezcla de verduras como espinacas, zanahorias, brócoli, cebolla, pimientos y champiñones. Estas verduras pueden ser salteadas o cocidas antes de ser mezcladas con otros ingredientes para dar más sabor.
+* Frijoles negros, lentejas o garbanzos son excelentes opciones que aportan proteínas y fibra. Puedes hacer un puré o simplemente mezclarlos con especias y otros vegetales.
+* Nueces, almendras o piñones pueden ser añadidos para dar un toque crujiente y un sabor único. Tostados previamente, estos frutos secos realzan el sabor del relleno.
+* Puedes rellenas las papas con los quesos comunes como mozzarella o ricotta, puedes experimentar con quesos veganos si buscas opciones sin lácteos.
+
+¡Buen provecho! ¡Imposible resistirse!
 
 Cartas a Quito / 2 de noviembre de 2024
 =======================================
@@ -795,108 +924,3 @@ Cinco regiones permanecen en alerta, y en Huelva (Andalucía), la alerta es de n
 Las alertas “naranjas” se extienden en Andalucía, Comunidad Valenciana, Cataluña e Islas Baleares, donde se prevén lluvias muy abundantes y persistentes. La Aemet ha sido clara en su mensaje: “La emergencia meteorológica no ha finalizado. La DANA sigue sobre España”.
 
 El presidente del Gobierno, Pedro Sánchez, presidió el Comité de crisis para el seguimiento del temporal. A través de la red social X, agradeció a los servidores públicos y voluntarios su dedicación en esta crisis. “Son el ejemplo de la solidaridad y la entrega sin límites de la sociedad española”, destacó.
-
-¿Cuántos feriados hay en noviembre de 2024 en Ecuador?
-======================================================
-
-Ecuador atraviesa por un feriado extenso por el Día de los Difuntos y la Independencia de Cuenca.
--------------------------------------------------------------------------------------------------
-
-![Los feriados son la excusa perfecta para hacer turismo dentro del Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/Feriados-en-noviembre.jpg)
-
-**Ecuador** cuenta con 10 f**eriados nacionales** no recuperables en los que el descanso es **obligatorio** y se conmemoran **fechas históricas[.](https://es.wikipedia.org/wiki/D%C3%ADa_de_los_Fieles_Difuntos "https://es.wikipedia.org/wiki/D%C3%ADa_de_los_Fieles_Difuntos")**
-
-Más noticias
-------------
-
-* [Actividades en museos de Quito por el feriado del Día de los Difuntos](https://www.elcomercio.com/actualidad/quito/museos-actividades-quito-feriado-dia-difuntos.html "Actividades en museos de Quito por el feriado del Día de los Difuntos")
-* [Iglesias del Centro Histórico de Quito son siempre una alternativa para el feriado](https://www.elcomercio.com/actualidad/quito/iglesias-centro-historico-quito-alternativa-visita-feriado.html "Iglesias del Centro Histórico de Quito son siempre una alternativa para el feriado")
-* [Horarios de atención de los cementerios en Quito para el feriado](https://www.elcomercio.com/actualidad/quito/horarios-atencion-cementerios-quito-feriado.html "Horarios de atención de los cementerios en Quito para el feriado")
-
-Actualmente, el país se encuentra en un **feriado extenso** que incluye el 31 de octubre como día de descanso recuperable, decretado por el presidente **Daniel Noboa.**
-
-Feriados en noviembre de 2024
------------------------------
-
-En noviembre de 2024, **Ecuador** tiene dos **feriados** **nacionales** no recuperables:
-
-1. **Día de los Difuntos**, que cae el sábado 2 de noviembre, pero cuyo descanso se traslada al viernes 1 de noviembre.
-2. **Independencia de Cuenca**, el domingo 3 de noviembre, con descanso trasladado al lunes 4 de noviembre.
-
-Gracias a este ajuste, los ecuatorianos disfrutan de **cinco días consecutivos de descanso**, del 31 de octubre al 4 de noviembre.
-
-El 31 de octubre, día recuperable, fue decretado como descanso obligatorio por **Noboa**.
-
-Pago por trabajar en un feriado no recuperable
-----------------------------------------------
-
-Según el artículo 55, numeral 4 del **Código del Trabajo**, el trabajo en días de descanso, como sábados, domingos y feriados, se remunera con un recargo del 100%, es decir, cada hora trabajada se paga al doble, considerándose como trabajo extraordinario.
-
-Cálculo del pago en días feriados
----------------------------------
-
-Para calcular el pago por trabajar en días feriados:
-
-1. **Divida el salario mensual** entre 240, el número estándar de horas trabajadas en un mes.
-2. **Multiplique el resultado** por 2 para obtener el pago por hora en días feriados.
-3. Si trabaja 8 horas en un **feriado**, multiplique ese valor por 8 para conocer el total a recibir.
-
-Motivo del feriado adicional decretado por Daniel Noboa
--------------------------------------------------------
-
-Este jueves 31 de octubre de 2024, **Ecuador** inicia un **feriado de cinco días**. El presidente **Daniel Noboa** suspendió la j**ornada laboral** para el sector **público y privado**, extendiendo el feriado de noviembre que cubre el **Día de los Difuntos** y la I**ndependencia de Cuenca**, los cuales se conmemoran entre el 1 y el 4 de noviembre.
-
-Según el **Decreto No. 438**, esta medida busca fomentar el **turismo interno** y apoyar la **economía nacional.**
-
-El decreto establece que el **sector público** debe **recuperar** **esta jornada** en una fecha posterior, mientras que el sector **privado** tiene la opción de decidir **si aplica o no la recuperación.**
-
-¿Se cobra extra por trabajar en un feriado recuperable?
--------------------------------------------------------
-
-Vanessa Velásquez, experta en temas laborales, explicó que la **jornada laboral del 31 de octubre** de 2024 es un **feriado recuperable**, por lo que **no** **se debe pagar ningún recargo adicional.**
-
-Velásquez también señaló que, de acuerdo con el **Código del Trabajo**, el pago de horas extras al 100% solo aplica en días de **descanso obligatorio** como los **sábados** y **domingos**, considerados días de **descanso forzoso**, lo cual no es aplicable en este caso.
-
-Próximo feriado nacional en Ecuador
------------------------------------
-
-El último feriado nacional de 2024 corresponde al 25 de diciembre, en conmemoración de la Navidad.
-
-Un golpeado Emelec recibe al favorito Liga de Quito
-===================================================
-
-Emelec será la primera gran prueba de Liga de Quito en su camino a la final de la Liga Pro.
--------------------------------------------------------------------------------------------
-
-![Liga de Quito y Emelec en el partido de la primera etapa de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-58.jpg)
-
-**Emelec** atraviesa una de las peores crisis deportivas e institucionales del siglo XXI, con nuevos problemas cada día. A las deudas y conflictos administrativos se suma que su próximo partido será ante **Liga de Quito**, uno de los favoritos del torneo.
-
-Este cotejo con la ‘U’ coincide con el primer compromiso desde la confirmación de la salida de **José** **Pileggi** como presidente del ‘Bombillo’, tras poco más de año y medio en el cargo.
-
-### Más noticias:
-
-* [José Pileggi renuncia a su cargo como presidente de Emelec](https://www.elcomercio.com/deportes/jose-pileggi-emelec-renuncia-presidente.html "José Pileggi renuncia a su cargo como presidente de Emelec")
-* [Liga de Quito, a cuatro partidos de una nueva final en la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-a-cuatro-partidos-de-una-nueva-final-en-la-liga-pro.html "Liga de Quito, a cuatro partidos de una nueva final en la Liga Pro")
-* [Emelec sufre otra derrota y se hunde en la tabla de la Liga Pro](https://www.elcomercio.com/deportes/futbol/emelec-derrota-catolica-gol-moreno.html "Emelec sufre otra derrota y se hunde en la tabla de la Liga Pro")
-
-¿Emelec le hará ‘casita’ a Liga de Quito?
------------------------------------------
-
-A pesar del mal momento del cuadro guayaquileño, nunca se lo puede considerar un rival fácil, ya que siempre es capaz de complicar los partidos, independientemente de su situación. Además, en el primer encuentro de la temporada en el E**stadio Rodrigo Paz Delgado**, ambos equipos empataron 2-2, con un gol de Emelec en los últimos minutos y con un jugador menos.
-
-El enfrentamiento será este **domingo 3 de noviembre a las 15:30,** en el Estadio George Capwell, correspondiente a la jornada 11 de la segunda etapa.
-
-**Liga de Quito llega como escolta de la tabla, con 23 puntos,** los mismos que el líder Independiente del Valle, pero con peor gol de diferencia.
-
-Emelec, contra las cuerdas en la Liga Pro
------------------------------------------
-
-Durante la temporada 2024, **Emelec** ha enfrentado varios inconvenientes y limitaciones tanto a nivel administrativo como futbolístico, los cuales se han influido mutuamente.
-
-Dentro de la Liga Pro, el cuadro azul **se encuentra en la penúltima posición de la tabla** de la segunda etapa, con solo siete puntos. Ha ganado en tres oportunidades, empatado una y perdido siete. Además, el equipo cuenta con tres puntos menos de los correspondientes debido a una sanción por deudas.
-
-En la tabla acumulada, Emelec ocupa el noveno puesto con 32 puntos y mantiene la esperanza de **clasificar a la Copa Sudamericana**, a la cual acceden los equipos ubicados desde el quinto hasta el octavo puesto.
-
-No te pierdas nuestro Especial de Halloween
--------------------------------------------
