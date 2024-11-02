@@ -22,8 +22,8 @@
     * [Careers](https://www.theihs.org/about-ihs/careers/)
 * [Digital Community](https://digitalcommunity.theihs.org/)
 * [Blog](https://www.theihs.org/blog/)
-* [Donate](https://www.theihs.org/donate/)
-    * [Overview](https://www.theihs.org/donate/)
+* [Donate](https://www.theihs.org/donate-3/)
+    * [Overview](https://www.theihs.org/donate-3/)
     * [Planned Giving](https://ihslegacy.org/)
     * [Donor Events](https://www.theihs.org/donate/events/)
 
@@ -46,8 +46,8 @@
     * [Careers](https://www.theihs.org/about-ihs/careers/)
 * [Digital Community](https://digitalcommunity.theihs.org/)
 * [Blog](https://www.theihs.org/blog/)
-* [Donate](https://www.theihs.org/donate/)
-    * [Overview](https://www.theihs.org/donate/)
+* [Donate](https://www.theihs.org/donate-3/)
+    * [Overview](https://www.theihs.org/donate-3/)
     * [Planned Giving](https://ihslegacy.org/)
     * [Donor Events](https://www.theihs.org/donate/events/)
 
