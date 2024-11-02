@@ -20,7 +20,7 @@ Site Navigation
     * [View All Programs](https://www.hopelink.org/programs/)
 * [Take Action](https://www.hopelink.org/take-action/)
     * [Take Action Overview](https://www.hopelink.org/take-action/)
-    * [End Summer Hunger](https://www.hopelink.org/end-summer-hunger/)
+    * [Lend a Hoping Hand](https://www.hopelink.org/lend-a-hoping-hand/)
     * [Monetary Contribution](https://www.hopelink.org/take-action/monetary-contribution/)
     * [Online Fundraising](https://www.hopelink.org/take-action/online-fundraising/)
     * [Volunteer](https://www.hopelink.org/take-action/volunteer/)
@@ -76,7 +76,7 @@ Open navigation
 
 * [Main Menu](#)
 * [Take Action Overview](https://www.hopelink.org/take-action/)
-* [End Summer Hunger](https://www.hopelink.org/end-summer-hunger/)
+* [Lend a Hoping Hand](https://www.hopelink.org/lend-a-hoping-hand/)
 * [Monetary Contribution](https://www.hopelink.org/take-action/monetary-contribution/)
 * [Online Fundraising](https://www.hopelink.org/take-action/online-fundraising/)
 * [Volunteer](https://www.hopelink.org/take-action/volunteer/)
