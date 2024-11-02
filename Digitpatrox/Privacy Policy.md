@@ -20,16 +20,16 @@ Saturday, November 2 2024
 
 Latest
 
-* [NYT Strands Today: Hints, Answers & Spangram for November 2](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-2/)
-* [Microsoft’s Recall delayed once again as roll-out fiasco continues](https://digitpatrox.com/microsofts-recall-delayed-once-again-as-roll-out-fiasco-continues/)
-* [Microsoft delays Recall rollout to December – Computerworld](https://digitpatrox.com/microsoft-delays-recall-rollout-to-december-computerworld/)
-* [My 11 Favorite Tools for Fall Yard Clean-Up](https://digitpatrox.com/my-11-favorite-tools-for-fall-yard-clean-up/)
-* [Will a VPN stop Facebook and Instagram from mining my data?](https://digitpatrox.com/will-a-vpn-stop-facebook-and-instagram-from-mining-my-data/)
-* [How to Use Apple AirPods Pro 2 Earbuds as Hearing Aids](https://digitpatrox.com/how-to-use-apple-airpods-pro-2-earbuds-as-hearing-aids/)
-* [23andMe May Be Sold, Here’s How to Delete Your Data](https://digitpatrox.com/23andme-may-be-sold-heres-how-to-delete-your-data/)
-* [Midnight Blizzard is on the rampage again, and enterprises should be wary of its new tactics](https://digitpatrox.com/midnight-blizzard-is-on-the-rampage-again-and-enterprises-should-be-wary-of-its-new-tactics/)
-* [5 Generative AI Trends to Watch in 2025](https://digitpatrox.com/5-generative-ai-trends-to-watch-in-2025/)
-* [Kindle Paperwhite (2024) review: The best gets better](https://digitpatrox.com/kindle-paperwhite-2024-review-the-best-gets-better/)
+* [Daylight Saving Time ends tomorrow — the 3 biggest sleep mistakes to avoid once the clocks fall back](https://digitpatrox.com/daylight-saving-time-ends-tomorrow-the-3-biggest-sleep-mistakes-to-avoid-once-the-clocks-fall-back/)
+* [LA housing authority confirms breach claimed by Cactus ransomware](https://digitpatrox.com/la-housing-authority-confirms-breach-claimed-by-cactus-ransomware/)
+* [An Okta login bug bypassed checking passwords on some long usernames](https://digitpatrox.com/an-okta-login-bug-bypassed-checking-passwords-on-some-long-usernames/)
+* [Today’s Wordle Answer and Hints (November 2, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-2-2024/)
+* [Halloween special: Cybersecurity horror stories](https://digitpatrox.com/halloween-special-cybersecurity-horror-stories/)
+* [here’s how to beat the challenges in today’s market – Computerworld](https://digitpatrox.com/heres-how-to-beat-the-challenges-in-todays-market-computerworld/)
+* [Visualization Is My Secret to Running a Successful Marathon](https://digitpatrox.com/visualization-is-my-secret-to-running-a-successful-marathon/)
+* [Apple Intelligence Features for the iPhone](https://digitpatrox.com/apple-intelligence-features-for-the-iphone/)
+* [Intel Might Give up on Dedicated Arc GPUs](https://digitpatrox.com/intel-might-give-up-on-dedicated-arc-gpus/)
+* [What good laptop security looks like today](https://digitpatrox.com/what-good-laptop-security-looks-like-today/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://beebom.com/wp-content/uploads/2024/07/strands-today-hints-and-answers.jpg?w=1252&quality=75)](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-2/)
+* [![](https://cdn.mos.cms.futurecdn.net/hwujt9ARPm4cfj7YFpGfhK-1200-80.jpg)](https://digitpatrox.com/daylight-saving-time-ends-tomorrow-the-3-biggest-sleep-mistakes-to-avoid-once-the-clocks-fall-back/)
     
-    [NYT Strands Today: Hints, Answers & Spangram for November 2](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-2/)
+    [Daylight Saving Time ends tomorrow — the 3 biggest sleep mistakes to avoid once the clocks fall back](https://digitpatrox.com/daylight-saving-time-ends-tomorrow-the-3-biggest-sleep-mistakes-to-avoid-once-the-clocks-fall-back/)
     
-    10 mins ago
+    8 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/mzXSoufuS9gE7qjNjE7mpS-1200-80.jpg)](https://digitpatrox.com/microsofts-recall-delayed-once-again-as-roll-out-fiasco-continues/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/11/01/HACLA_headpic.jpg)](https://digitpatrox.com/la-housing-authority-confirms-breach-claimed-by-cactus-ransomware/)
     
-    [Microsoft’s Recall delayed once again as roll-out fiasco continues](https://digitpatrox.com/microsofts-recall-delayed-once-again-as-roll-out-fiasco-continues/)
+    [LA housing authority confirms breach claimed by Cactus ransomware](https://digitpatrox.com/la-housing-authority-confirms-breach-claimed-by-cactus-ransomware/)
     
-    2 hours ago
+    35 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3596591-0-81279800-1730492801-0-Microsoft-Windows-Recall-privacy.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/microsoft-delays-recall-rollout-to-december-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/4LNrvISWOzpoG9hF68SCMFgOuvI=/0x0:2040x1334/1200x628/filters:focal(1020x667:1021x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25299201/STK453_PRIVACY_B_CVirginia.jpg)](https://digitpatrox.com/an-okta-login-bug-bypassed-checking-passwords-on-some-long-usernames/)
     
-    [Microsoft delays Recall rollout to December – Computerworld](https://digitpatrox.com/microsoft-delays-recall-rollout-to-december-computerworld/)
+    [An Okta login bug bypassed checking passwords on some long usernames](https://digitpatrox.com/an-okta-login-bug-bypassed-checking-passwords-on-some-long-usernames/)
     
-    2 hours ago
+    53 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01J5MXKNTG4WWMQCMXR9QZ3093/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/my-11-favorite-tools-for-fall-yard-clean-up/)
+* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-2-2024/)
     
-    [My 11 Favorite Tools for Fall Yard Clean-Up](https://digitpatrox.com/my-11-favorite-tools-for-fall-yard-clean-up/)
+    [Today’s Wordle Answer and Hints (November 2, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-2-2024/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Will-a-VPN-stop-Facebook-Instagram-and-Threads-from-mining-my-data_.jpg)](https://digitpatrox.com/will-a-vpn-stop-facebook-and-instagram-from-mining-my-data/)
+* [![](https://cdn.mos.cms.futurecdn.net/uaGVzyweTprBMoMMMtdtoR-1200-80.jpg)](https://digitpatrox.com/halloween-special-cybersecurity-horror-stories/)
     
-    [Will a VPN stop Facebook and Instagram from mining my data?](https://digitpatrox.com/will-a-vpn-stop-facebook-and-instagram-from-mining-my-data/)
+    [Halloween special: Cybersecurity horror stories](https://digitpatrox.com/halloween-special-cybersecurity-horror-stories/)
     
-    2 hours ago
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [10 mins ago
+* [8 mins ago
     
-    ### NYT Strands Today: Hints, Answers & Spangram for November 2](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-2/)
-* [2 hours ago
+    ### Daylight Saving Time ends tomorrow — the 3 biggest sleep mistakes to avoid once the clocks fall back](https://digitpatrox.com/daylight-saving-time-ends-tomorrow-the-3-biggest-sleep-mistakes-to-avoid-once-the-clocks-fall-back/)
+* [35 mins ago
     
-    ### Microsoft’s Recall delayed once again as roll-out fiasco continues](https://digitpatrox.com/microsofts-recall-delayed-once-again-as-roll-out-fiasco-continues/)
-* [2 hours ago
+    ### LA housing authority confirms breach claimed by Cactus ransomware](https://digitpatrox.com/la-housing-authority-confirms-breach-claimed-by-cactus-ransomware/)
+* [53 mins ago
     
-    ### Microsoft delays Recall rollout to December – Computerworld](https://digitpatrox.com/microsoft-delays-recall-rollout-to-december-computerworld/)
+    ### An Okta login bug bypassed checking passwords on some long usernames](https://digitpatrox.com/an-okta-login-bug-bypassed-checking-passwords-on-some-long-usernames/)
 
 Most Popular Topics
 
-* [2 days ago
+* [2 weeks ago
     
-    ### Talking Cars 457: Driving the 2025 Mini Cooper S](https://digitpatrox.com/talking-cars-457-driving-the-2025-mini-cooper-s/)
-* [1 day ago
+    ### Why is ‘Adam Driver Megalopolis’ blocked in Instagram searches?](https://digitpatrox.com/why-is-adam-driver-megalopolis-blocked-in-instagram-searches/)
+* [August 12, 2024
     
-    ### NYT Connections Today: Hints and Answers for November 1, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-1-2024/)
-* [4 weeks ago
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+* [August 14, 2024
     
-    ### A Bank of America outage showed customers blanked-out account balances](https://digitpatrox.com/a-bank-of-america-outage-showed-customers-blanked-out-account-balances/)
+    ### What is an FTP server?](https://digitpatrox.com/what-is-an-ftp-server/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### 23andMe May Be Sold, Here’s How to Delete Your Data](https://digitpatrox.com/23andme-may-be-sold-heres-how-to-delete-your-data/)
+    ### Visualization Is My Secret to Running a Successful Marathon](https://digitpatrox.com/visualization-is-my-secret-to-running-a-successful-marathon/)
 * [4 hours ago
     
-    ### Midnight Blizzard is on the rampage again, and enterprises should be wary of its new tactics](https://digitpatrox.com/midnight-blizzard-is-on-the-rampage-again-and-enterprises-should-be-wary-of-its-new-tactics/)
+    ### Apple Intelligence Features for the iPhone](https://digitpatrox.com/apple-intelligence-features-for-the-iphone/)
 * [4 hours ago
     
-    ### 5 Generative AI Trends to Watch in 2025](https://digitpatrox.com/5-generative-ai-trends-to-watch-in-2025/)
+    ### Intel Might Give up on Dedicated Arc GPUs](https://digitpatrox.com/intel-might-give-up-on-dedicated-arc-gpus/)
 
 Most Viewed Topics
 
-* [August 12, 2024
+* [August 28, 2024
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
