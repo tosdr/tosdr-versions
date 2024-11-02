@@ -174,18 +174,19 @@ Share This Article
 
 ### Additional Search Tools
 
-* [Safe Search for Online Games](https://www.safesearchkids.com/safe-online-game-search/#games)
-* [Safe Search for App Downloads](https://www.safesearchkids.com/safe-app-search/#safeapps)
+* [Safe Online Game Search](https://www.safesearchkids.com/safe-online-game-search/#games)
+* [Safe App Search](https://www.safesearchkids.com/safe-app-search/#safeapps)
+* [Safe News Search](https://www.safesearchkids.com/what-news-should-students-use/#searchnews)
 
 ### Parenting and Well-Being
 
-* [Homeschooling Ideas for Moms to Try](https://www.safesearchkids.com/homeschooling-ideas-creative-and-engaging-activities-for-moms-to-try/)
+* [10 Different Career Paths if You Love Working With Kids](https://www.safesearchkids.com/10-career-paths-to-consider-if-you-love-working-with-kids/)
 * [Advisory on Social Media and Youth Mental Health](https://www.safesearchkids.com/advisory-on-social-media-and-youth-mental-health/)
 * [How Women’s Soccer Programs are Shaping the Future](https://www.safesearchkids.com/game-changers-how-womens-soccer-programs-are-shaping-the-future/)
 * [Exploring Instagram’s New Teen Accounts for Ages 13 – 17](https://www.safesearchkids.com/instagram-teen-accounts-for-ages-13-17/)
 * [Creative Screen-Free Adventures for Kids](https://www.safesearchkids.com/creative-screen-free-adventures-keeping-kids-engaged-for-hours/)
 * [What Parents Should Know About Artificial Intelligence](https://www.safesearchkids.com/what-parents-should-know-about-artificial-intelligence/)
-* [10 Different Career Paths if You Love Working With Kids](https://www.safesearchkids.com/10-career-paths-to-consider-if-you-love-working-with-kids/)
+* [Homeschooling Ideas for Moms to Try](https://www.safesearchkids.com/homeschooling-ideas-creative-and-engaging-activities-for-moms-to-try/)
 * [How to Introduce Cursive Writing to Kids](https://www.safesearchkids.com/a-guide-to-introducing-cursive-writing-to-your-kids/)
 * [Child Developmental Delays To Look Out For](https://www.safesearchkids.com/child-developmental-delays-to-look-out-for/)
 * [How Parents Can Take Part in Their Child’s Eco-Education](https://www.safesearchkids.com/how-parents-can-take-part-in-their-childs-eco-education/)
@@ -335,7 +336,7 @@ Share This Article
 * [The Stages Of Teacher Professional Development](https://www.safesearchkids.com/what-are-the-stages-of-teacher-professional-development/)
 * [PowerPoint Tips for Teachers](https://www.safesearchkids.com/powerpoint-tips-for-teachers-best-10-tips-to-create-engaging-ppt/)
 * [Virtual Classroom | The best way to teach kids online](https://www.safesearchkids.com/virtual-classroom-the-best-way-to-teach-kids-online/)
-* [What News Should Students Use?](https://www.safesearchkids.com/what-news-should-students-use/)
+* [Safe News Search | What News Should Students Use?](https://www.safesearchkids.com/what-news-should-students-use/)
 
 ### Internet Filtering & Security
 
