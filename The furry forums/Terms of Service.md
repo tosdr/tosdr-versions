@@ -22,7 +22,7 @@ Join our chat room on [Discord](https://www.thefurryforum.com/forums/index.php?t
   
   
 
-[![WingedZephyr](adverts/zeph.gif "WingedZephyr")](http://www.furaffinity.net/user/wingedzephyr)
+[![Juliet](adverts/juliet.png "Juliet")](https://www.furaffinity.net/user/julietthewhitewitch)
 
   
 
