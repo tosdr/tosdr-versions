@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-c7c9a9e32fc4f6cdae48957f42eb60c2
+0d6fadd877c703d07a545db344278067
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![14 mm gray diamond and square pearls](https://sojourner.biz/images/cache/pearls/PE0118.200.jpg)](https://sojourner.biz/beads/pearls/14-mm-gray-diamond-and-square-pearls.html "14 mm gray diamond and square pearls")
+[![Emerald and silver clasp](https://sojourner.biz/images/cache/SKU0435-1front.200.jpg)](https://sojourner.biz/clasps/glass/emerald-and-silver-clasp.html "Emerald and silver clasp")
 
-#### [14 mm gray diamond and square pearls](https://sojourner.biz/beads/pearls/14-mm-gray-diamond-and-square-pearls.html "14 mm gray diamond and square pearls")
+#### [Emerald and silver clasp](https://sojourner.biz/clasps/glass/emerald-and-silver-clasp.html "Emerald and silver clasp")
 
-$22.00
+$28.50
 
 ### Best Sellers
 
