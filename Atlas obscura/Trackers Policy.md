@@ -18,29 +18,7 @@ Loading...
 
 Loading...
 
-Upcoming Courses
-
-[View All Courses »](https://www.atlasobscura.com/online-courses)
-
-   [![](https://img.atlasobscura.com/h4igLegodufwLGE-1D3Up_c34h5XU0p1JiqZj924kmQ/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81Y2Rh/OTJmZS05OGU3LTRl/YmItYmNhMS01OGE4/YWQxNGNmYWU5YzQ3/N2Y1NmZjNjAyMjFl/YTZfc3RlcGhhbi13/aWR1YS0zWUFJdkJO/bFpNNC11bnNwbGFz/aC5qcGc.jpg)
-
-Cosmic Life: Astrobiology & the Search for Extraterrestrial Life With Dr. Graham Lau](https://www.atlasobscura.com/experiences/astrobiology-course)
-
-   [![](https://img.atlasobscura.com/oteCwywQUV_z7ByuIyJNpVBM8xr7Fl_GCkrW3rCKXIM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8yZWZl/Y2ZhYS1mZTQ2LTQ3/YmEtOWYyZi1jMDQz/YmI2ODY0NGUwMmYz/ZTU5ZjMzZWZhNjE3/YTFfYW5pdGEtamFu/a292aWMtbTVvRnp6/cmNLd2MtdW5zcGxh/c2guanBn.jpg)
-
-Historical Nonfiction: Research-Based Writing With Hadley Meares](https://www.atlasobscura.com/experiences/writing-history-online-course)
-
-   [![](https://img.atlasobscura.com/KbnCSVJrc2IwUlmtdX1_5ad2bAo-ch27UbKSBdJHmRM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81Zjdj/YmRiZC1mOWQ4LTRk/YWMtYmQyZC00NzBl/NjdlNzk4NjFmYWU2/OWVmMjliYWExMDEx/OWRfYmVuLWJsZW5u/ZXJoYXNzZXR0LWto/bVBsLTFhVmlnLXVu/c3BsYXNoLmpwZw.jpg)
-
-Winged Wonders: Mastering Bird Photography With Joseph Saunders](https://www.atlasobscura.com/experiences/bird-photography-online-course)
-
-   [![](https://img.atlasobscura.com/GvclmYNtKmRjd1vLUiCiq0AGTTrC_F0Tx6Lc-L2uPTk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy82MjEx/M2VkZC1iNmE3LTRk/MjMtOWRhZC05ZjI4/ZDk4MGE4MWI2OWQy/ZmY1ODAxYjYzZWY2/MzRfc2ltb24tYmVy/Z2VyLV9hMWxBNVRp/XzFJLXVuc3BsYXNo/IGNvcHkuanBn.jpg)
-
-Tree Communication With Annie Novak](https://www.atlasobscura.com/experiences/tree-communication-course)
-
-   [![](https://img.atlasobscura.com/pzidrqzrZZyECY-vNqnesDKb0Ns9crzYordU8xAc8Ck/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8yNWE1/NDU2Yy0xM2EzLTRl/YWMtODliYi0zNjNi/ZmM5OTRjZTc3YTM0/ZTQ5ZTRiZWE1ZDBj/ZTZfQVNIXzA1MDgu/SlBH.jpg)
-
-Piecemaker: Sewing a Sampler Quilt With Aaron Sanders Head](https://www.atlasobscura.com/experiences/quilting-online-course)
+Loading...
 
 Loading...
 
