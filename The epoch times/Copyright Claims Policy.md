@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [TGI Fridays Files for Bankruptcy Amid Financial Struggles](https://www.theepochtimes.com/business/tgi-fridays-files-for-bankruptcy-amid-financial-struggles-5752800)
+    
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![TGI Fridays Files for Bankruptcy Amid Financial Struggles](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![TGI Fridays Files for Bankruptcy Amid Financial Struggles](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752836-TGIF-205x123.jpg.webp)](https://www.theepochtimes.com/business/tgi-fridays-files-for-bankruptcy-amid-financial-struggles-5752800)
+* [Georgia Logs More Than 4 Million Votes as Early Voting Period Ends](https://www.theepochtimes.com/us/georgia-logs-more-than-4-million-votes-as-early-voting-period-ends-5752727)
+    
+    2hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![Georgia Logs More Than 4 Million Votes as Early Voting Period Ends](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Georgia Logs More Than 4 Million Votes as Early Voting Period Ends](https://img.theepochtimes.com/assets/uploads/2024/11/01/id5752499-early-voting-Georgia-GettyImages-2181595370KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-logs-more-than-4-million-votes-as-early-voting-period-ends-5752727)
+* [Washington Governor Activates National Guard to Counter Potential Election Violence](https://www.theepochtimes.com/us/washington-governor-activates-national-guard-to-counter-potential-election-violence-5752754)
+    
+    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Washington Governor Activates National Guard to Counter Potential Election Violence](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Washington Governor Activates National Guard to Counter Potential Election Violence](https://img.theepochtimes.com/assets/uploads/2024/06/19/id5671590-GettyImages-1211829923-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/washington-governor-activates-national-guard-to-counter-potential-election-violence-5752754)
+* [Nvidia to Replace Intel in Dow Jones Index](https://www.theepochtimes.com/business/nvidia-to-replace-intel-in-dow-jones-index-5752761)
+    
+    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![Nvidia to Replace Intel in Dow Jones Index](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Nvidia to Replace Intel in Dow Jones Index](https://img.theepochtimes.com/assets/uploads/2024/08/18/id5707672-Nvidia-logo-e1723974133794.-LS_1-205x123.jpg.webp)](https://www.theepochtimes.com/business/nvidia-to-replace-intel-in-dow-jones-index-5752761)
+* [Pentagon Announces $425 Million Additional Military Aid to Ukraine](https://www.theepochtimes.com/world/pentagon-announces-425-million-additional-military-aid-to-ukraine-5752714)
+    
+    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Pentagon Announces $425 Million Additional Military Aid to Ukraine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Pentagon Announces $425 Million Additional Military Aid to Ukraine](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752910-Russia_Ukraine_War_24306326990458-SB-205x123.jpg.webp)](https://www.theepochtimes.com/world/pentagon-announces-425-million-additional-military-aid-to-ukraine-5752714)
+* [How the 7 Swing States Will Count Votes and Post Election Results](https://www.theepochtimes.com/article/how-the-7-swing-states-will-count-votes-and-post-election-results-5739956)
+    
+    3hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson), [Allan Stein](https://www.theepochtimes.com/author/allan-stein), [John Haughey](https://www.theepochtimes.com/author/john-haughey), [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester), [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman), [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh), [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback), [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord) and [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
+    
+    [![How the 7 Swing States Will Count Votes and Post Election Results](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![How the 7 Swing States Will Count Votes and Post Election Results](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752776-7-states-9-205x123.jpg.webp)](https://www.theepochtimes.com/article/how-the-7-swing-states-will-count-votes-and-post-election-results-5739956)
+* [Homebuyers Lose $33,250 in Purchasing Power as Mortgage Rates Exceed 7 Percent: Report](https://www.theepochtimes.com/real-estate/homebuyers-lose-33250-in-purchasing-power-as-mortgage-rates-exceed-7-percent-report-5752257)
+    
+    4hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![Homebuyers Lose $33,250 in Purchasing Power as Mortgage Rates Exceed 7 Percent: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Homebuyers Lose $33,250 in Purchasing Power as Mortgage Rates Exceed 7 Percent: Report](https://img.theepochtimes.com/assets/uploads/2024/02/20/id5591462-GettyImages-1739426931KO-205x123.jpg.webp)](https://www.theepochtimes.com/real-estate/homebuyers-lose-33250-in-purchasing-power-as-mortgage-rates-exceed-7-percent-report-5752257)
+* [US to Deploy More Bombers, Fighter Jets to Middle East as Carrier Strike Group Departs](https://www.theepochtimes.com/world/us-to-deploy-more-bombers-fighter-jets-to-middle-east-as-carrier-strike-group-departs-5752589)
+    
+    4hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![US to Deploy More Bombers, Fighter Jets to Middle East as Carrier Strike Group Departs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US to Deploy More Bombers, Fighter Jets to Middle East as Carrier Strike Group Departs](https://img.theepochtimes.com/assets/uploads/2024/02/01/id5578503-lloyd-austin-feb-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-to-deploy-more-bombers-fighter-jets-to-middle-east-as-carrier-strike-group-departs-5752589)
+* [New Trends in Single-Family Home Rentals Go Upscale](https://www.theepochtimes.com/real-estate/new-trends-in-single-family-home-rentals-go-upscale-as-demand-for-build-to-rent-homes-soars-5752357)
+    
+    5hr By [Mary Prenon](https://www.theepochtimes.com/author/mary-prenon)
+    
+    [![New Trends in Single-Family Home Rentals Go Upscale](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![New Trends in Single-Family Home Rentals Go Upscale](https://img.theepochtimes.com/assets/uploads/2024/03/28/id5616991-NerdWallet_Millennial_Money_BNPL_Rent_24086529375784-205x123.jpeg.webp)](https://www.theepochtimes.com/real-estate/new-trends-in-single-family-home-rentals-go-upscale-as-demand-for-build-to-rent-homes-soars-5752357)
 * [Biden Speaks to Unions in Battleground Pennsylvania Days Before Election](https://www.theepochtimes.com/us/biden-speaks-to-unions-in-battleground-pennsylvania-days-before-election-5752534)
     
-    NEW By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    6hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
     
     [![Biden Speaks to Unions in Battleground Pennsylvania Days Before Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Biden Speaks to Unions in Battleground Pennsylvania Days Before Election](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752583-Biden-Union-Featured-Image-e1730522777927-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-speaks-to-unions-in-battleground-pennsylvania-days-before-election-5752534)
-* [Ex-Louisville Officer Convicted of Civil Rights Abuse in Breonna Taylor Case](https://www.theepochtimes.com/us/ex-louisville-officer-convicted-of-civil-rights-abuse-in-breonna-taylor-case-5752627)
-    
-    NEW By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
-    
-    [![Ex-Louisville Officer Convicted of Civil Rights Abuse in Breonna Taylor Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Ex-Louisville Officer Convicted of Civil Rights Abuse in Breonna Taylor Case](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752710-Brett-Hankison-AP24289558812402-205x123.jpg)](https://www.theepochtimes.com/us/ex-louisville-officer-convicted-of-civil-rights-abuse-in-breonna-taylor-case-5752627)
-* [See the Human Brain Like Never Before](https://www.theepochtimes.com/article/see-the-human-brain-like-never-before-5746540)
-    
-    NEW By [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert)
-    
-    [![See the Human Brain Like Never Before](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![See the Human Brain Like Never Before](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750794-image1-205x123.png.webp)](https://www.theepochtimes.com/article/see-the-human-brain-like-never-before-5746540)
-* [Trump, Harris Campaign in Battleground States in the Final Weekend Before Election](https://www.theepochtimes.com/us/trump-harris-campaign-in-battleground-states-in-the-final-weekend-before-election-5752638)
-    
-    2hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Trump, Harris Campaign in Battleground States in the Final Weekend Before Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump, Harris Campaign in Battleground States in the Final Weekend Before Election](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747997-Kamala-Harris-Donald-Trump-3-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-harris-campaign-in-battleground-states-in-the-final-weekend-before-election-5752638)
-* [GOP’s Early Voting Lead, Registration Gains Boost 2024 Odds in Swing State Nevada](https://www.theepochtimes.com/us/gops-early-voting-lead-registration-gains-boost-2024-odds-in-swing-state-nevada-5752613)
-    
-    2hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
-    
-    [![GOP’s Early Voting Lead, Registration Gains Boost 2024 Odds in Swing State Nevada](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![GOP’s Early Voting Lead, Registration Gains Boost 2024 Odds in Swing State Nevada](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752701-Better-Nells-OP_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/gops-early-voting-lead-registration-gains-boost-2024-odds-in-swing-state-nevada-5752613)
-* [Trump Consistently Gaining Hispanic Voters](https://www.theepochtimes.com/us/trump-consistently-gaining-hispanic-voters-5749475)
-    
-    2hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
-    
-    [![Trump Consistently Gaining Hispanic Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Consistently Gaining Hispanic Voters](https://img.theepochtimes.com/assets/uploads/2016/08/12/GettyImages-167757932-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-consistently-gaining-hispanic-voters-5749475)
-* [High Stakes: A Snapshot of the Economy Heading Into Election Day](https://www.theepochtimes.com/business/high-stakes-a-snapshot-of-the-economy-heading-into-election-day-5752088)
-    
-    3hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![High Stakes: A Snapshot of the Economy Heading Into Election Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![High Stakes: A Snapshot of the Economy Heading Into Election Day](https://img.theepochtimes.com/assets/uploads/2024/07/25/id5693547-GettyImages-148449213-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/high-stakes-a-snapshot-of-the-economy-heading-into-election-day-5752088)
-* [Trump and Harris Campaign in Battleground States Near Election Finish Line](https://www.theepochtimes.com/us/endgame-trump-and-harris-campaign-in-battleground-states-near-election-finish-line-5752581)
-    
-    4hr By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson), [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson) and [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
-    
-    [![Trump and Harris Campaign in Battleground States Near Election Finish Line](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump and Harris Campaign in Battleground States Near Election Finish Line](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747997-Kamala-Harris-Donald-Trump-3-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/endgame-trump-and-harris-campaign-in-battleground-states-near-election-finish-line-5752581)
-* [One More Named Storm Likely as the End of Hurricane Season Nears](https://www.theepochtimes.com/us/one-more-named-storm-likely-as-the-end-of-hurricane-season-nears-5752061)
-    
-    4hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
-    
-    [![One More Named Storm Likely as the End of Hurricane Season Nears](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![One More Named Storm Likely as the End of Hurricane Season Nears](https://img.theepochtimes.com/assets/uploads/2024/11/01/id5752365-topicaloutlook111-205x123.png.webp)](https://www.theepochtimes.com/us/one-more-named-storm-likely-as-the-end-of-hurricane-season-nears-5752061)
-* [How 3rd Party Candidates Could Affect the 2024 Presidential Election](https://www.theepochtimes.com/us/how-3rd-party-candidates-could-affect-the-2024-presidential-election-5745242)
-    
-    6hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![How 3rd Party Candidates Could Affect the 2024 Presidential Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![How 3rd Party Candidates Could Affect the 2024 Presidential Election](https://img.theepochtimes.com/assets/uploads/2016/12/13/Election-Recount-Jill_phil9a-ap-205x123.jpg.webp)](https://www.theepochtimes.com/us/how-3rd-party-candidates-could-affect-the-2024-presidential-election-5745242)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
