@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| I Think Im In Love With YouChris Stapleton Ft Dua Lipa (Acm Performance)<br><br>11:29pm |
-| Love SomebodyMorgan Wallen<br><br>11:25pm |
-| I Never LieZach Top<br><br>11:22pm |
-| AustinDasha<br><br>11:19pm |
-| Girl Like YouJason Aldean<br><br>11:16pm |
+| Messed Up As MeKeith Urban<br><br>4:53am |
+| Wasted On YouMorgan Wallen<br><br>4:50am |
+| I Am Not OkayJelly Roll<br><br>4:47am |
+| Its 5 Oclock SomewhereAlan Jackson And Jimmy Buffett<br><br>4:43am |
+| I Never LieZach Top<br><br>4:40am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -507,9 +507,9 @@ Top 40 • Pacific NW
 
 Country • Western
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-Sports • Midwest
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
