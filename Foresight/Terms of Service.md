@@ -14,14 +14,10 @@ Popular products
 * [See all templates, courses, and services](https://foresight.is/products/)
 
 * [78k+ Downloads](https://foresight.is/users/)
-* [Updates 4](#)
+* [Updates 1](#)
     
     * [Changelog](https://foresight.is/changelog/)
     * [New manual portfolio construction method](https://foresight.is/changelog/#2024-10-29-manual-venture-capital)
-    * [Last Cap Table Masterclass cohort for 2024](https://foresight.is/changelog/#2024-10-17-nov-2024-masterclass)
-    * [Ecommerce Forecasting Tool, now with Cohorts](https://foresight.is/changelog/#2024-10-17-ecommerce-cohorts)
-    * [Docs](https://foresight.is/docs/)
-    * [Cohorts](https://foresight.is/docs/cohort-modeling/)
     
 * [Docs](https://foresight.is/docs/)
 
