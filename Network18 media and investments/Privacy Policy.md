@@ -130,10 +130,10 @@ English
 * Top Trends
     * [Singham Again Review](https://www.news18.com/movies/singham-again-review-rohit-shetty-deserves-brownie-points-for-ambition-ajay-devgn-leaves-you-wanting-for-more-9106060.html)
     * [Bhool Bhulaiyaa 3 Review](https://www.news18.com/movies/bhool-bhulaiyaa-3-review-kartik-aaryan-vidya-balan-and-madhuri-dixits-star-power-cant-save-this-lackluster-film-9106040.html)
-    * [India vs NZ](https://www.news18.com/cricket/ind-vs-nz-live-score-3rd-test-day-1-india-national-cricket-team-vs-new-zealand-national-cricket-team-commentary-streaming-scorecard-mumbai-wankhede-liveblog-9105863.html)
-    * [Diwali Box-Office Clash](https://www.news18.com/movies/singham-again-bhool-bhulaiyaa-3-review-release-live-updates-ajay-devgn-kartik-aaryan-box-office-liveblog-9105904.html)
+    * [India vs NZ](https://www.news18.com/cricket/ind-vs-nz-live-score-3rd-test-day-2-india-national-cricket-team-vs-new-zealand-national-cricket-team-commentary-streaming-scorecard-mumbai-wankhede-liveblog-9106523.html)
+    * [Warmest October](https://www.news18.com/india/india-records-warmest-october-since-1901-monthly-mean-temperature-1-2%e2%84%83-above-normal-9106822.html)
     * [US Elections](https://www.news18.com/elections/us-election/)
-    * [Fuel Prices](https://www.news18.com/business/petrol-diesel-fresh-prices-announced-check-rates-in-your-city-on-october-31-9105027.html)
+    * [Bank Holidays](https://www.news18.com/business/are-banks-closed-today-november-2-check-full-bank-holiday-list-for-this-month-9106648.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -171,10 +171,10 @@ In Trends:
 
 * [Singham Again Review](https://www.news18.com/movies/singham-again-review-rohit-shetty-deserves-brownie-points-for-ambition-ajay-devgn-leaves-you-wanting-for-more-9106060.html)
 * [Bhool Bhulaiyaa 3 Review](https://www.news18.com/movies/bhool-bhulaiyaa-3-review-kartik-aaryan-vidya-balan-and-madhuri-dixits-star-power-cant-save-this-lackluster-film-9106040.html)
-* [India vs NZ](https://www.news18.com/cricket/ind-vs-nz-live-score-3rd-test-day-1-india-national-cricket-team-vs-new-zealand-national-cricket-team-commentary-streaming-scorecard-mumbai-wankhede-liveblog-9105863.html)
-* [Diwali Box-Office Clash](https://www.news18.com/movies/singham-again-bhool-bhulaiyaa-3-review-release-live-updates-ajay-devgn-kartik-aaryan-box-office-liveblog-9105904.html)
+* [India vs NZ](https://www.news18.com/cricket/ind-vs-nz-live-score-3rd-test-day-2-india-national-cricket-team-vs-new-zealand-national-cricket-team-commentary-streaming-scorecard-mumbai-wankhede-liveblog-9106523.html)
+* [Warmest October](https://www.news18.com/india/india-records-warmest-october-since-1901-monthly-mean-temperature-1-2%e2%84%83-above-normal-9106822.html)
 * [US Elections](https://www.news18.com/elections/us-election/)
-* [Fuel Prices](https://www.news18.com/business/petrol-diesel-fresh-prices-announced-check-rates-in-your-city-on-october-31-9105027.html)
+* [Bank Holidays](https://www.news18.com/business/are-banks-closed-today-november-2-check-full-bank-holiday-list-for-this-month-9106648.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
