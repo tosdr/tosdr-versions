@@ -85,21 +85,21 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 435 1
+0 448 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/sherlock-hound-created-by-meatshaq/)
+[](https://yiff-party.com/yiff-ai-premium/judy-hopps-and-nick-wilde-directed-by-manedwolfascari/)
 
-[sherlock hound created by meatshaq](https://yiff-party.com/yiff/sherlock-hound-created-by-meatshaq/)
+[judy hopps and nick wilde directed by manedwolfascari](https://yiff-party.com/yiff-ai-premium/judy-hopps-and-nick-wilde-directed-by-manedwolfascari/)
 
-0 48 0
+0 35 0
 
 October 3, 2024
 
-[](https://yiff-party.com/yiff/kae-esrial-directed-by-vitiligo-director/)
+[](https://yiff-party.com/yiff/zurie-halloween-created-by-qew123/)
 
-[kae esrial directed by vitiligo (director)](https://yiff-party.com/yiff/kae-esrial-directed-by-vitiligo-director/)
+[zurie (halloween) created by qew123](https://yiff-party.com/yiff/zurie-halloween-created-by-qew123/)
 
 0 2 0
 
