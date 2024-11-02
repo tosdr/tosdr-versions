@@ -12,7 +12,7 @@
 
 [EN](https://meduza.io/en)Войти
 
-[10 лет с «Медузой». И хочу еще!](https://support.meduza.io/?utm_source=webbutton&utm_medium=ru)
+[Я хочу поддержать «Медузу»](https://support.meduza.io/?utm_source=web&utm_medium=button&utm_campaign=support)
 
 * Телеграм
 * Фейсбук
