@@ -208,6 +208,8 @@ this hour
 
 * * *
 
+* [Chemists Just Broke a 100-Year-Old Rule](https://www.sciencedaily.com/releases/2024/10/241031151834.htm)
+* [Echolocating Bats Use an Acoustic Cognitive Map](https://www.sciencedaily.com/releases/2024/10/241031151724.htm)
 * [Neurotech Boosts Spatial Memory Without Surgery](https://www.sciencedaily.com/releases/2024/10/241030145640.htm)
 * [Surprisingly Smooth Disk Around Vega](https://www.sciencedaily.com/releases/2024/11/241101123528.htm)
 * [Low-Level Lead Poisoning Is Still Pervasive](https://www.sciencedaily.com/releases/2024/10/241030171917.htm)
@@ -216,8 +218,6 @@ this hour
 * [Fastest-Spinning Star in the Universe?](https://www.sciencedaily.com/releases/2024/10/241030150425.htm)
 * [Meltwater Accumulation Within Greenland Ice ...](https://www.sciencedaily.com/releases/2024/10/241030145900.htm)
 * [Natural Regrowth of Tropical Forests: Huge ...](https://www.sciencedaily.com/releases/2024/10/241030150020.htm)
-* ['Black Box' of Stem Cell Transplants Opened](https://www.sciencedaily.com/releases/2024/10/241030145819.htm)
-* [How Sleeping Sickness Parasite Outsmarts ...](https://www.sciencedaily.com/releases/2024/10/241030145811.htm)
 
 Trending Topics
 ---------------
@@ -236,11 +236,11 @@ this week
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Educational Technology](https://www.sciencedaily.com/news/computers_math/educational_technology/)
+[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
 [Communications](https://www.sciencedaily.com/news/computers_math/communications/)
 
-[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
+[Educational Technology](https://www.sciencedaily.com/news/computers_math/educational_technology/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
