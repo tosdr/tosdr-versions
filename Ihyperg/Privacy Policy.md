@@ -3,6 +3,10 @@
 [IHYPERG.COM](https://www.ihyperg.com/)
 ---------------------------------------
 
+* [](https://twitter.com/ihyperg_com)
+* [](https://www.instagram.com/ihyperg/)
+* [](https://discord.gg/Q7RJ3H6wqw)
+
 * [Home](https://www.ihyperg.com/)
 * [ ]  News
     * [Tech](https://www.ihyperg.com/search/label/Tech%20News)
@@ -36,6 +40,8 @@
     * [Pages Sitemap](https://ihyperg.com/sitemap-pages.xml)
 * [Privacy Policy](https://www.ihyperg.com/p/privacy-policy.html)
 * [About Us](https://www.ihyperg.com/p/about.html)
+
+Discover iHyperg’s apps on Google Play! From powerful photo editors to productivity tools – we’ve got what you need. [Open](https://play.google.com/store/apps/dev?id=6896025788077665075)
 
 [Home](https://www.ihyperg.com/) 
 
@@ -181,6 +187,6 @@ By email: [hyperghelp@gmail.com](mailto:hyperghelp@gmail.com)
 Did someone say … cookies?
 --------------------------
 
-IHYPERG and its partners use cookies to provide you with a better, safer and faster service. Some cookies are necessary to use our services, improve our services, and make sure they work properly.
+IHYPERG uses cookies to make your experience better and brighter! By accepting, you’ll help us remember your preferences, like your favorite theme, and keep everything running smoothly. Enjoy your time here!
 
 Accept cookies
