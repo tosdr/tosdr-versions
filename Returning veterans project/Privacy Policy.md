@@ -186,11 +186,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Seal Team 6](https://cdn.returningveterans.org/images/honor/beth_corey_woh_picture.jpg)  
+![Rodney L. Berry](https://cdn.returningveterans.org/images/honor/Rodney_Berry.jpg)  
 
-**In Honor of Seal Team 6**  
+**In Honor of Rodney L. Berry**  
 United States Navy  
-Submitted by Beth Corey](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -233,5 +233,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/01/24 - 2:34:18  
+Printed 11/01/24 - 8:26:08  
 © 2024 Returning Veterans Project
