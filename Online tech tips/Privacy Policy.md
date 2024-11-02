@@ -93,6 +93,18 @@ We use a third party to provide monetization technologies for our site. You can 
 [News](https://www.online-tech-tips.com/category/news/)
 -------------------------------------------------------
 
+[![ChatGPT web search icon - chatgpt-web-search-icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "chatgpt-web-search-icon - Online Tech Tips")
+
+![ChatGPT web search icon - chatgpt-web-search-icon](https://www.online-tech-tips.com/wp-content/uploads/2024/10/chatgpt-web-search-icon-300x200.png "chatgpt-web-search-icon - Online Tech Tips")](https://www.online-tech-tips.com/openai-launches-chatgpt-search-to-battle-google-and-bing-search/)
+
+[News](https://www.online-tech-tips.com/category/news/) · 2 min read
+
+### [OpenAI Launches ChatGPT Search to Battle Google and Bing Search](https://www.online-tech-tips.com/openai-launches-chatgpt-search-to-battle-google-and-bing-search/)
+
+Source: OpenAI OpenAI is incorporating web search functionality into ChatGPT to help users find better answers from relevant, trustworthy, and…
+
+Sodiq Olanrewaju · Nov 1, 2024
+
 [![WhatsApp application on an Android phone overlayed by a WhatsApp logo - whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo - Online Tech Tips")
 
 ![WhatsApp application on an Android phone overlayed by a WhatsApp logo - whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo](https://www.online-tech-tips.com/wp-content/uploads/2024/10/whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo-1.png "whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo - Online Tech Tips")](https://www.online-tech-tips.com/whatsapp-launches-cloud-based-contact-managment-feature/)
@@ -117,9 +129,7 @@ After several months of development, Samsung is releasing the stable version of 
 
 Sodiq Olanrewaju · Oct 28, 2024
 
-[![Android phone with the Google Chrome logo on-screen - android-phone-with-the-google-chrome-logo-on-screen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "android-phone-with-the-google-chrome-logo-on-screen - Online Tech Tips")
-
-![Android phone with the Google Chrome logo on-screen - android-phone-with-the-google-chrome-logo-on-screen](https://www.online-tech-tips.com/wp-content/uploads/2024/10/android-phone-with-the-google-chrome-logo-on-screen.jpg "android-phone-with-the-google-chrome-logo-on-screen - Online Tech Tips")](https://www.online-tech-tips.com/chrome-for-android-gets-listen-to-this-page-mode-with-background-playback/)
+[![Android phone with the Google Chrome logo on-screen - android-phone-with-the-google-chrome-logo-on-screen](https://www.online-tech-tips.com/wp-content/uploads/2024/10/android-phone-with-the-google-chrome-logo-on-screen.jpg "android-phone-with-the-google-chrome-logo-on-screen - Online Tech Tips")](https://www.online-tech-tips.com/chrome-for-android-gets-listen-to-this-page-mode-with-background-playback/)
 
 [News](https://www.online-tech-tips.com/category/news/) · 2 min read
 
@@ -128,16 +138,6 @@ Sodiq Olanrewaju · Oct 28, 2024
 Months ago, Google introduced “Listen to this page” mode in Chrome (for Android) as an experimental flag. The accessibility feature…
 
 Sodiq Olanrewaju · Oct 22, 2024
-
-[![person holding smartphone displaying the YouTube logo - person-holding-smartphone-displying-the-YouTube-logo](https://www.online-tech-tips.com/wp-content/uploads/2024/10/person-holding-smartphone-displying-the-YouTube-logo.jpg "person-holding-smartphone-displying-the-YouTube-logo - Online Tech Tips")](https://www.online-tech-tips.com/youtube-announces-over-two-dozen-features-in-new-update/)
-
-[News](https://www.online-tech-tips.com/category/news/) · 2 min read
-
-### [YouTube Announces Over Two Dozen Features in New Update](https://www.online-tech-tips.com/youtube-announces-over-two-dozen-features-in-new-update/)
-
-Every year, YouTube releases a major update introducing new features to the video-sharing platform. According to YouTube, this year’s update…
-
-Sodiq Olanrewaju · Oct 18, 2024
 
 [VIEW MORE POSTS](https://www.online-tech-tips.com/category/news/)
 
@@ -183,6 +183,10 @@ Get daily tips, tricks, guides, and special offers delivered right to your inbox
 
 #### Recent Articles
 
+* [![ChatGPT web search icon - chatgpt-web-search-icon](https://www.online-tech-tips.com/wp-content/uploads/2024/10/chatgpt-web-search-icon-130x85.png "chatgpt-web-search-icon - Online Tech Tips")](https://www.online-tech-tips.com/openai-launches-chatgpt-search-to-battle-google-and-bing-search/ "OpenAI Launches ChatGPT Search to Battle Google and Bing Search")
+    
+    [OpenAI Launches ChatGPT Search to Battle Google and Bing Search](https://www.online-tech-tips.com/openai-launches-chatgpt-search-to-battle-google-and-bing-search/ "OpenAI Launches ChatGPT Search to Battle Google and Bing Search")Nov 1, 2024
+    
 * [![WhatsApp application on an Android phone overlayed by a WhatsApp logo - whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo](https://www.online-tech-tips.com/wp-content/uploads/2024/10/whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo-1-130x85.png "whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo - Online Tech Tips")](https://www.online-tech-tips.com/whatsapp-launches-cloud-based-contact-managment-feature/ "WhatsApp Launches Cloud-Based Contact Managment Feature")
     
     [WhatsApp Launches Cloud-Based Contact Managment Feature](https://www.online-tech-tips.com/whatsapp-launches-cloud-based-contact-managment-feature/ "WhatsApp Launches Cloud-Based Contact Managment Feature")Oct 29, 2024
@@ -194,10 +198,6 @@ Get daily tips, tricks, guides, and special offers delivered right to your inbox
 * [![Android phone with the Google Chrome logo on-screen - android-phone-with-the-google-chrome-logo-on-screen](https://www.online-tech-tips.com/wp-content/uploads/2024/10/android-phone-with-the-google-chrome-logo-on-screen-130x85.jpg "android-phone-with-the-google-chrome-logo-on-screen - Online Tech Tips")](https://www.online-tech-tips.com/chrome-for-android-gets-listen-to-this-page-mode-with-background-playback/ "Chrome for Android Gets “Listen to this page” Mode (with Background Playback)")
     
     [Chrome for Android Gets “Listen to this page” Mode (with Background Playback)](https://www.online-tech-tips.com/chrome-for-android-gets-listen-to-this-page-mode-with-background-playback/ "Chrome for Android Gets “Listen to this page” Mode (with Background Playback)")Oct 22, 2024
-    
-* [![person holding smartphone displaying the YouTube logo - person-holding-smartphone-displying-the-YouTube-logo](https://www.online-tech-tips.com/wp-content/uploads/2024/10/person-holding-smartphone-displying-the-YouTube-logo-130x85.jpg "person-holding-smartphone-displying-the-YouTube-logo - Online Tech Tips")](https://www.online-tech-tips.com/youtube-announces-over-two-dozen-features-in-new-update/ "YouTube Announces Over Two Dozen Features in New Update")
-    
-    [YouTube Announces Over Two Dozen Features in New Update](https://www.online-tech-tips.com/youtube-announces-over-two-dozen-features-in-new-update/ "YouTube Announces Over Two Dozen Features in New Update")Oct 18, 2024
     
 
 [![Online Tech Tips](/wp-content/themes/ott/images/ott-banner.png)](https://www.online-tech-tips.com/)
