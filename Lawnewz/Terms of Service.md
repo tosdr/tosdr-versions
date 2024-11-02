@@ -293,23 +293,23 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Patrick Montgomery, inset and background, shows him wrestling with an officer during the riots at the U.S. Capitol on Jan. 6, 2021 (U.S. Attorney's Office).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/jan6-432x243.jpg)](https://lawandcrime.com/high-profile/quit-doing-your-job-and-be-an-american-jan-6-rioter-wrestled-officer-for-his-baton-kicked-him-in-the-chest-with-his-boot/)
+1. [![Patrick Montgomery, inset and background, shows him wrestling with an officer during the riots at the U.S. Capitol on Jan. 6, 2021 (U.S. Attorney's Office).](https://lawandcrime.com/wp-content/uploads/2024/11/jan6-432x243.jpg)](https://lawandcrime.com/high-profile/quit-doing-your-job-and-be-an-american-jan-6-rioter-wrestled-officer-for-his-baton-kicked-him-in-the-chest-with-his-boot/)
     
     ### ['Quit doing your job and be an American': Jan. 6 rioter wrestled officer for his baton, kicked him in the chest with his boot](https://lawandcrime.com/high-profile/quit-doing-your-job-and-be-an-american-jan-6-rioter-wrestled-officer-for-his-baton-kicked-him-in-the-chest-with-his-boot/)
     
-2. [![Donald Trump, JD Vance](https://am21.mediaite.com/lc/cnt/uploads/2024/09/AP24234763183231-432x243.jpg)](https://lawandcrime.com/high-profile/lacked-judicial-authority-trump-and-jd-vance-got-special-treatment-when-judges-dismissed-complaint-over-eating-the-cats-rhetoric-lawsuit-says/)
+2. [![Donald Trump, JD Vance](https://lawandcrime.com/wp-content/uploads/2024/09/AP24234763183231-432x243.jpg)](https://lawandcrime.com/high-profile/lacked-judicial-authority-trump-and-jd-vance-got-special-treatment-when-judges-dismissed-complaint-over-eating-the-cats-rhetoric-lawsuit-says/)
     
     ### ['Lacked judicial authority': Trump and JD Vance got 'special treatment' when judges dismissed complaint over 'eating the cats' rhetoric, lawsuit says](https://lawandcrime.com/high-profile/lacked-judicial-authority-trump-and-jd-vance-got-special-treatment-when-judges-dismissed-complaint-over-eating-the-cats-rhetoric-lawsuit-says/)
     
-3. [![Inset: Body camera footage from the Sarasota Police officer who struck Gerard Butler with his patrol car (Sarasota (Fla.) Police Department). Background: Gerard Butler laying in the street after being hit by a Sarasota Police officer (Sarasota (Fla.) Police Department).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Gerard-Butler-Sarasota-Police-dirt-bike-incident-432x243.jpg)](https://lawandcrime.com/caught-on-video/oh-f-bodycam-shows-florida-cop-hitting-8-year-old-on-dirt-bike-with-patrol-car-as-boys-family-watches-on-in-horror/)
+3. [![Inset: Body camera footage from the Sarasota Police officer who struck Gerard Butler with his patrol car (Sarasota (Fla.) Police Department). Background: Gerard Butler laying in the street after being hit by a Sarasota Police officer (Sarasota (Fla.) Police Department).](https://lawandcrime.com/wp-content/uploads/2024/11/Gerard-Butler-Sarasota-Police-dirt-bike-incident-432x243.jpg)](https://lawandcrime.com/caught-on-video/oh-f-bodycam-shows-florida-cop-hitting-8-year-old-on-dirt-bike-with-patrol-car-as-boys-family-watches-on-in-horror/)
     
     ### ['Oh, f---!': Bodycam shows Florida cop hitting 8-year-old on dirt bike with patrol car as boy's family watches on in horror](https://lawandcrime.com/caught-on-video/oh-f-bodycam-shows-florida-cop-hitting-8-year-old-on-dirt-bike-with-patrol-car-as-boys-family-watches-on-in-horror/)
     
-4. [![Anastasia Elizabeth Vaughn(Otter Tail County Jail)](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Anastasia-Elizabeth-VaughnOtter-Tail-County-Jail-432x243.jpeg)](https://lawandcrime.com/crime/shoeless-grandma-left-infant-in-roadside-ditch-on-rainy-day-ran-away-then-told-cops-she-was-looking-for-a-child-after-day-drinking-sheriff/)
+4. [![Anastasia Elizabeth Vaughn(Otter Tail County Jail)](https://lawandcrime.com/wp-content/uploads/2024/10/Anastasia-Elizabeth-VaughnOtter-Tail-County-Jail-432x243.jpeg)](https://lawandcrime.com/crime/shoeless-grandma-left-infant-in-roadside-ditch-on-rainy-day-ran-away-then-told-cops-she-was-looking-for-a-child-after-day-drinking-sheriff/)
     
     ### [Shoeless grandma left infant in roadside ditch on rainy day, ran away, then told cops she was 'looking for a child' after day-drinking: Sheriff](https://lawandcrime.com/crime/shoeless-grandma-left-infant-in-roadside-ditch-on-rainy-day-ran-away-then-told-cops-she-was-looking-for-a-child-after-day-drinking-sheriff/)
     
-5. [![Dustin Kjersem](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Dustin-Kjersem-432x243.jpg)](https://lawandcrime.com/crime/man-initially-reported-as-victim-of-bear-attack-actually-died-from-chop-wounds-inside-camping-tent-cops/)
+5. [![Dustin Kjersem](https://lawandcrime.com/wp-content/uploads/2024/10/Dustin-Kjersem-432x243.jpg)](https://lawandcrime.com/crime/man-initially-reported-as-victim-of-bear-attack-actually-died-from-chop-wounds-inside-camping-tent-cops/)
     
     ### [Man initially reported as victim of bear attack actually died from 'chop wounds' inside camping tent: Cops](https://lawandcrime.com/crime/man-initially-reported-as-victim-of-bear-attack-actually-died-from-chop-wounds-inside-camping-tent-cops/)
     
