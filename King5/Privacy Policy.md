@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-51°
+49°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
