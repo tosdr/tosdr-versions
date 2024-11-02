@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/de-invloed-van-de-totale-hybride-eclips-van-20-april/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mind-control/5-juni-1968-robert-kennedy-vermoord/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
