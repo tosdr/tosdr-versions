@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Chipotle brings back bigger portions after criticism from customers](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/chipotle-2.jpg?ve=1&tl=1)
+ [![National Sandwich Day 2024 deals and freebies](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/mcalisters.jpeg?ve=1&tl=1)
 
- ![Chipotle brings back bigger portions after criticism from customers](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/chipotle-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/chipotle-bigger-portions-customer-complaints)
+ ![National Sandwich Day 2024 deals and freebies](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/mcalisters.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sandwich-day-deals-free-promos-today-november-3-2024)
 
-### [Chipotle brings back bigger portions after criticism from customers](https://www.fox4news.com/news/chipotle-bigger-portions-customer-complaints)
+### [National Sandwich Day is Sunday. Here are some deals and freebies](https://www.fox4news.com/news/sandwich-day-deals-free-promos-today-november-3-2024)
 
- [![Dallas weather: Scattered rain, storms this weekend](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gbyib6ywoaarifv.jpg?ve=1&tl=1)
+ [![Forney man allegedly provided alcohol to minors before sexual assault](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/steven-wright.jpg?ve=1&tl=1)
 
- ![Dallas weather: Scattered rain, storms this weekend](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gbyib6ywoaarifv.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-scattered-rain-storms-weekend)
+ ![Forney man allegedly provided alcohol to minors before sexual assault](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/steven-wright.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/forney-man-allegedly-provided-alcohol-minors-before-sexual-assault)
 
-### [Dallas weather: Scattered rain, storms this weekend](https://www.fox4news.com/weather/dallas-weather-scattered-rain-storms-weekend)
+### [Forney man allegedly provided alcohol to minors before sexual assault](https://www.fox4news.com/news/forney-man-allegedly-provided-alcohol-minors-before-sexual-assault)
 
- [![IRS increases 401(k), other retirement plan contribution limits for 2025](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/irs-headquarters.jpg?ve=1&tl=1)
+ [![Peanut the squirrel seized, euthanized in NY state raid; Elon Musk reacts](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/11/32/18/gray-dancer-photo-collage-1280-x-720-px-28.png?ve=1&tl=1)
 
- ![IRS increases 401(k), other retirement plan contribution limits for 2025](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/irs-headquarters.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/irs-increases-401k-retirement-limits-2025)
+ ![Peanut the squirrel seized, euthanized in NY state raid; Elon Musk reacts](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/11/32/18/592/333/gray-dancer-photo-collage-1280-x-720-px-28.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/peanut-squirrel-seized-euthanized-ny-state-raid)
 
-### [IRS increases 401(k), other retirement plan contribution limits for 2025](https://www.fox4news.com/news/irs-increases-401k-retirement-limits-2025)
+### [Peanut the squirrel seized, euthanized in NY state raid; Elon Musk reacts](https://www.fox4news.com/news/peanut-squirrel-seized-euthanized-ny-state-raid)
 
- [![Where to vote in Denton County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/03/32/18/GettyImages-1206416963.jpg?ve=1&tl=1)
+ [![Moms open Fort Worth storefront that offers free clothing](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/110124-kst-fort-worth-community-closet_kdfwfd94_18_00.07.45.56.jpg?ve=1&tl=1)
 
- ![Where to vote in Denton County on Election Day](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/03/32/18/592/333/GettyImages-1206416963.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/denton-county-voting-sites-election-day)
+ ![Moms open Fort Worth storefront that offers free clothing](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/110124-kst-fort-worth-community-closet_kdfwfd94_18_00.07.45.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-community-collaborative-closet)
 
-### [Where to vote in Denton County on Election Day](https://www.fox4news.com/election/denton-county-voting-sites-election-day)
+### [Moms open Fort Worth storefront that offers free clothing](https://www.fox4news.com/news/fort-worth-community-collaborative-closet)
 
- [![Jury convicts former Kentucky officer of using excessive force on Breonna Taylor during deadly raid](https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2022/01/32/18/Breonna-Taylor.jpg?ve=1&tl=1)
+ [![Dallas-based TGI Fridays files for Chapter 11 bankruptcy](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/32/18/GettyImages-849533224.jpg?ve=1&tl=1)
 
- ![Jury convicts former Kentucky officer of using excessive force on Breonna Taylor during deadly raid](https://images.foxtv.com/images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2022/01/32/18/592/333/Breonna-Taylor.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jury-convicts-former-kentucky-officer-using-excessive-force-breonna-taylor-during-deadly-raid)
+ ![Dallas-based TGI Fridays files for Chapter 11 bankruptcy](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/32/18/592/333/GettyImages-849533224.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-based-tgi-fridays-files-chapter-11-bankruptcy)
 
-### [Jury convicts former Kentucky officer of using excessive force on Breonna Taylor during deadly raid](https://www.fox4news.com/news/jury-convicts-former-kentucky-officer-using-excessive-force-breonna-taylor-during-deadly-raid)
+### [Dallas-based TGI Fridays files for Chapter 11 bankruptcy](https://www.fox4news.com/news/dallas-based-tgi-fridays-files-chapter-11-bankruptcy)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
