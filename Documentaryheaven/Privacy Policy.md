@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Born To Be King](/wp-content/thumbnails/7726-100x70.jpg?x53432)
+* [![Richie Rich gets Richer](/wp-content/thumbnails/7668-100x70.jpg?x53432)
     
-    Born To Be King
+    Richie Rich gets Richer
     
-    A documentary to mark the birth of the Duke and Duchess of Cambridge's newborn son. Sophie Raworth charts how a royal birth is an historic event and a glimpse into the future.](https://documentaryheaven.com/born-king/ "Born To Be King") 
-* [![Serial Killer On Camera](/wp-content/thumbnails/14332-100x70.jpg?x53432)
+    As countries like Greece and Spain struggle under huge debts that are impoverishing its people, the elites around the world are getting richer and richer. This documentary looks at the ever widening g](https://documentaryheaven.com/richie-rich-gets-richer/ "Richie Rich gets Richer")
+* [![The Secret World of Gold](/wp-content/thumbnails/9476-100x70.jpg?x53432)
     
-    Serial Killer On Camera
+    The Secret World of Gold
     
-    On January 1 1993 Colin Ireland made a New Year resolution to himself, it was to become a serial killer. In just three months he had successfully completed his resolution having brutally murdered five](https://documentaryheaven.com/serial-killer-camera/ "Serial Killer On Camera")
-* [![Ted Bundy](/wp-content/thumbnails/14095-100x70.jpg?x53432)
+    Billions of years ago the Earth passed through an exploding star and was showered in molten gold. The Inca's called gold the sweat of the Sun and told their stories with it. The Egyptians saw it as th](https://documentaryheaven.com/secret-world-of-gold/ "The Secret World of Gold")
+* [![Toe Tag Parole: To Live and Die on Yard A](/wp-content/thumbnails/10464-100x70.jpg?x53432)
     
-    Ted Bundy
+    Toe Tag Parole: To Live and Die on Yard A
     
-    By now most of you should be aware of who Ted Bundy was but in case you have been living under a rock for the last 40 odd years he was one of Americas most prolific serial killers who assaulted and mu](https://documentaryheaven.com/ted-bundy/ "Ted Bundy")
-* [![Who Wrote the Bible Documentary](/wp-content/thumbnails/1183-100x70.jpg?x53432)
+    Many people think that serving a life sentence in jail is much better than the death sentence. This is probably true, seeing as you hold on to your life and you get to live to see your family every so](https://documentaryheaven.com/toe-tag-parole/ "Toe Tag Parole: To Live and Die on Yard A")
+* [![The End of Memory?](/wp-content/thumbnails/13685-100x70.jpg?x53432)
     
-    Who Wrote the Bible Documentary
+    The End of Memory?
     
-    A two-hour Channel 4 special about the Bible opens with images of George Bush – and Osama Bin Laden. The Bible, holy books and the religious faith they inspire are on the news agenda as they've rarely](https://documentaryheaven.com/who-wrote-the-bible-documentary/ "Who Wrote the Bible Documentary")
-* [![Meltdown: The Men Who Crashed The World](/wp-content/thumbnails/13387-100x70.jpg?x53432)
+    Memory is an essential issue for our society and for every one of us. Up to now, various media have been used to store our memories in a wealth of information. The average life expectancy of an i](https://documentaryheaven.com/end-of-memory/ "The End of Memory?")
+* [![Gordon Ramsay on Cocaine](/wp-content/thumbnails/14001-100x70.jpg?x53432)
     
-    Meltdown: The Men Who Crashed The World
+    Gordon Ramsay on Cocaine
     
-    Meltdown is a four-part investigation into the orgy of greed and recklessness that drove the world into financial collapse back in 2008 and only now are the hard questions being asked, only now are th](https://documentaryheaven.com/meltdown-men-who-crashed-world/ "Meltdown: The Men Who Crashed The World")
+    Cocaine is everywhere and celebrity chief Gordon Ramsey is no stranger to the illegal substance, he has had many encounters with it throughout his life and career, stating that he has been served it,](https://documentaryheaven.com/gordon-ramsay-cocaine/ "Gordon Ramsay on Cocaine")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
