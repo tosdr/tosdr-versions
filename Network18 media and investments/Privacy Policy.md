@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Sat, Nov 02, 2024
+Sun, Nov 03, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -130,10 +130,10 @@ English
 * Top Trends
     * [Singham Again Review](https://www.news18.com/movies/singham-again-review-rohit-shetty-deserves-brownie-points-for-ambition-ajay-devgn-leaves-you-wanting-for-more-9106060.html)
     * [Bhool Bhulaiyaa 3 Review](https://www.news18.com/movies/bhool-bhulaiyaa-3-review-kartik-aaryan-vidya-balan-and-madhuri-dixits-star-power-cant-save-this-lackluster-film-9106040.html)
-    * [India vs NZ](https://www.news18.com/cricket/ind-vs-nz-live-score-3rd-test-day-2-india-national-cricket-team-vs-new-zealand-national-cricket-team-commentary-streaming-scorecard-mumbai-wankhede-liveblog-9106523.html)
-    * [Warmest October](https://www.news18.com/india/india-records-warmest-october-since-1901-monthly-mean-temperature-1-2%e2%84%83-above-normal-9106822.html)
+    * [India vs NZ](https://www.news18.com/cricket/ind-vs-nz-3rd-test-day-2-india-turn-tables-at-wankhede-against-kiwis-as-shubman-gill-spinners-shine-9107196.html)
+    * [India-Canada Ties](https://www.news18.com/world/absurd-india-protests-canadian-ministers-allegations-against-amit-shah-9107088.html)
     * [US Elections](https://www.news18.com/elections/us-election/)
-    * [Bank Holidays](https://www.news18.com/business/are-banks-closed-today-november-2-check-full-bank-holiday-list-for-this-month-9106648.html)
+    * [SRK Birthday](https://www.news18.com/movies/suhana-khan-drops-pics-with-shah-rukh-khan-aryan-wishes-her-dad-on-his-59th-birthday-love-you-the-most-9106951.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -171,10 +171,10 @@ In Trends:
 
 * [Singham Again Review](https://www.news18.com/movies/singham-again-review-rohit-shetty-deserves-brownie-points-for-ambition-ajay-devgn-leaves-you-wanting-for-more-9106060.html)
 * [Bhool Bhulaiyaa 3 Review](https://www.news18.com/movies/bhool-bhulaiyaa-3-review-kartik-aaryan-vidya-balan-and-madhuri-dixits-star-power-cant-save-this-lackluster-film-9106040.html)
-* [India vs NZ](https://www.news18.com/cricket/ind-vs-nz-live-score-3rd-test-day-2-india-national-cricket-team-vs-new-zealand-national-cricket-team-commentary-streaming-scorecard-mumbai-wankhede-liveblog-9106523.html)
-* [Warmest October](https://www.news18.com/india/india-records-warmest-october-since-1901-monthly-mean-temperature-1-2%e2%84%83-above-normal-9106822.html)
+* [India vs NZ](https://www.news18.com/cricket/ind-vs-nz-3rd-test-day-2-india-turn-tables-at-wankhede-against-kiwis-as-shubman-gill-spinners-shine-9107196.html)
+* [India-Canada Ties](https://www.news18.com/world/absurd-india-protests-canadian-ministers-allegations-against-amit-shah-9107088.html)
 * [US Elections](https://www.news18.com/elections/us-election/)
-* [Bank Holidays](https://www.news18.com/business/are-banks-closed-today-november-2-check-full-bank-holiday-list-for-this-month-9106648.html)
+* [SRK Birthday](https://www.news18.com/movies/suhana-khan-drops-pics-with-shah-rukh-khan-aryan-wishes-her-dad-on-his-59th-birthday-love-you-the-most-9106951.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
@@ -302,7 +302,7 @@ If you have questions or concerns about this Policy, please contact Network18 at
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Nov 02, 2024
+Nov 03, 2024
 
 [View All](https://www.news18.com/short-news/)
 
