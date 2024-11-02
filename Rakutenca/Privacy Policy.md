@@ -1,7 +1,3 @@
-[Sephora Canada: Sephora Savings Event! Rouge Members get 20% off + 2% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/sephora?store=sephora&sourceName=sitewide-sticky-header)
-
 [](https://www.rakuten.ca/)
 
 EN
