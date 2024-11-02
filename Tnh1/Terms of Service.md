@@ -116,20 +116,6 @@ Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
 
-Últimas de Pessoas&Negócios
-
-[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
-
-   [![Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/b/csm_Noah_Verde_234e420532.jpeg)
-
-Pessoas & Negócios
-
-Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](https://www.tnh1.com.br/noticia/nid/noah-verde-gerente-executiva-de-marketing-do-sesi-senai-faz-aniversario/ "Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário")   [![Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_Primeira_dama_SPFW__2__ae4a56b4c2.jpeg)
-
-Pessoas & Negócios
-
-Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")
-
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
 * [Últimas](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/ultimas/ "Últimas")
@@ -202,23 +188,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Gisele Bündchen não deve casar com namorado por incompatibilidade financeira](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/3/csm_gisele-namorado-jiu-jutsu_8279a559b0.jpeg)
-
-Entenda
-
-Entenda
-
-Gisele Bündchen não deve casar com namorado por incompatibilidade financeira
-
-Gisele Bündchen não deve casar com namorado por incompatibilidade financeira](https://www.tnh1.com.br/noticia/nid/gisele-buendchen-nao-deve-casar-com-namorado-por-incompatibilidade-financeira/ "Gisele Bündchen não deve casar com namorado por incompatibilidade financeira")[![Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/4/csm_jovem_21_anos_corpo_encontrado_393e8d99e5.jpg)
-
-NO VERGEL
-
-NO VERGEL
-
-Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros
-
-Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros](https://www.tnh1.com.br/noticia/nid/corpo-de-jovem-de-21-anos-desaparecida-ha-quatro-dias-e-encontrado-com-marcas-de-tiros/ "Corpo de jovem de 21 anos desaparecida há quatro dias é encontrado com marcas de tiros")[![Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/3/csm_charles4_8ee254ed73.jpg)
+[![Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/3/csm_charles4_8ee254ed73.jpg)
 
 Família Real
 
@@ -226,7 +196,7 @@ Família Real
 
 Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'
 
-Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'](https://www.tnh1.com.br/noticia/nid/rei-charles-finalmente-cumpre-vontade-de-elizabeth-e-toma-dura-decisao-contra-filho-problema/ "Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'")[![Rua no Centro de Maceió terá sentido único a partir deste sábado (2)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/c/csm_Rua_proxima_ao_TRT_tera_sentido_unico_a_partir_deste_sabado__2__0_foto_Reproducao_Google_2a0c37fd70.jpeg)
+Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'](https://www.tnh1.com.br/noticia/nid/rei-charles-finalmente-cumpre-vontade-de-elizabeth-e-toma-dura-decisao-contra-filho-problema/ "Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'")[![Rua no Centro de Maceió terá sentido único a partir deste sábado (2)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/c/csm_Rua_proxima_ao_TRT_tera_sentido_unico_a_partir_deste_sabado__2__0_foto_Reproducao_Google_2a0c37fd70.jpeg)
 
 Trânsito
 
@@ -234,41 +204,57 @@ Trânsito
 
 Rua no Centro de Maceió terá sentido único a partir deste sábado (2)
 
-Rua no Centro de Maceió terá sentido único a partir deste sábado (2)](https://www.tnh1.com.br/noticia/nid/rua-no-centro-de-maceio-tera-sentido-unico-a-partir-deste-sabado-2/ "Rua no Centro de Maceió terá sentido único a partir deste sábado (2)")
+Rua no Centro de Maceió terá sentido único a partir deste sábado (2)](https://www.tnh1.com.br/noticia/nid/rua-no-centro-de-maceio-tera-sentido-unico-a-partir-deste-sabado-2/ "Rua no Centro de Maceió terá sentido único a partir deste sábado (2)")[![Morre youtuber que explorava a natureza após picada de cobra mamba-verde](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/2/csm_1_youtuber_dingo_dinkelman-41162641_633596fd97.jpg)
 
-[![Em dois dias, Polícia Militar apreende armas e drogas na capital e interior](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/1/csm_em-dois-dias-policia-militar-apreende-armas-e-drogas-na-capital-e-interior_5bcabfbb3d.jpg)
+sul-africano
 
-Polícia
+sul-africano
 
-Polícia
+Morre youtuber que explorava a natureza após picada de cobra mamba-verde
 
-Em dois dias, Polícia Militar apreende armas e drogas na capital e interior
+Morre youtuber que explorava a natureza após picada de cobra mamba-verde](https://www.tnh1.com.br/noticia/nid/morre-youtuber-que-explorava-a-natureza-apos-picada-de-cobra-mamba-verde/ "Morre youtuber que explorava a natureza após picada de cobra mamba-verde")[![Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/8/csm_escola-estadual-maceio-confusao-google-maps_00b0c6c833.png)
 
-Em dois dias, Polícia Militar apreende armas e drogas na capital e interior](https://www.tnh1.com.br/noticia/nid/em-dois-dias-policia-militar-apreende-armas-e-drogas-na-capital-e-interior/ "Em dois dias, Polícia Militar apreende armas e drogas na capital e interior")[![De bermuda e chinelo, Luan Santana posta vídeo com sucuri no Pantanal; assista](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/9/csm_luan-santana-sucuri-reproducao-redes-sociais_e5f4aef16c.jpg)
+EM MACEIÓ
 
-Gente Famosa
+EM MACEIÓ
 
-Gente Famosa
+Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont
 
-De bermuda e chinelo, Luan Santana posta vídeo com sucuri no Pantanal; assista
+Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont](https://www.tnh1.com.br/noticia/nid/confusao-causa-panico-e-correria-durante-jogos-internos-em-escola-no-santos-dumont/ "Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont ")
 
-De bermuda e chinelo, Luan Santana posta vídeo com sucuri no Pantanal; assista](https://www.tnh1.com.br/noticia/nid/de-bermuda-e-chinelo-luan-santana-posta-video-com-sucuri-no-pantanal-assista/ "De bermuda e chinelo, Luan Santana posta vídeo com sucuri no Pantanal; assista")[![Prêmio Ser Humano: três iniciativas de Alagoas são premiadas pela ABRH Brasil ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/b/csm_Premio-Ser-Humano-ABRH-redes-sociais_ab1c85c4e4.jpeg)
+[![O uso de neve artificial em estações de esqui no Chile diante de incertezas sobre o clima](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/2/csm_neve-artificial-chile-reproducao-BBC_0c0934ce20.jpg)
 
-recursos humanos
+Mundo
 
-recursos humanos
+Mundo
 
-Prêmio Ser Humano: três iniciativas de Alagoas são premiadas pela ABRH Brasil
+O uso de neve artificial em estações de esqui no Chile diante de incertezas sobre o clima
 
-Prêmio Ser Humano: três iniciativas de Alagoas são premiadas pela ABRH Brasil](https://www.tnh1.com.br/noticia/nid/premio-ser-humano-tres-iniciativas-de-alagoas-sao-premiadas-pela-abrh-brasil/ "Prêmio Ser Humano: três iniciativas de Alagoas são premiadas pela ABRH Brasil ")[![Expedição solidária que saiu do RN ao RS faz parada em Maceió após 3 meses de estrada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/f/csm_Expedicao_Nordetche_-_foto_Priscila_Carvalho_-_GES-Especial_588272ab88.jpg)
+O uso de neve artificial em estações de esqui no Chile diante de incertezas sobre o clima](https://www.tnh1.com.br/noticia/nid/o-uso-de-neve-artificial-em-estacoes-de-esqui-no-chile-diante-de-incertezas-sobre-o-clima/ "O uso de neve artificial em estações de esqui no Chile diante de incertezas sobre o clima")[![Mulher revela como descobriu que homem que a chantageou e a estuprou por 7 anos era seu próprio pai](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/0/csm_charlene-mulher-estuprada-pai-reproducao_8893eaba65.jpg)
 
-'Nordestchê'
+"chantagista"
 
-'Nordestchê'
+"chantagista"
 
-Expedição solidária que saiu do RN ao RS faz parada em Maceió após 3 meses de estrada
+Mulher revela como descobriu que homem que a chantageou e a estuprou por 7 anos era seu próprio pai
 
-Expedição solidária que saiu do RN ao RS faz parada em Maceió após 3 meses de estrada](https://www.tnh1.com.br/noticia/nid/expedicao-solidaria-que-saiu-do-rn-ao-rs-faz-parada-em-maceio-apos-3-meses-de-estrada/ "Expedição solidária que saiu do RN ao RS faz parada em Maceió após 3 meses de estrada")
+Mulher revela como descobriu que homem que a chantageou e a estuprou por 7 anos era seu próprio pai](https://www.tnh1.com.br/noticia/nid/mulher-revela-como-descobriu-que-homem-que-a-chantageou-e-a-estuprou-por-7-anos-era-seu-proprio-pai/ "Mulher revela como descobriu que homem que a chantageou e a estuprou por 7 anos era seu próprio pai")[![Wegovy ajuda na regressão de doenças no fígado, diz estudo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/8/csm_doenca-figado-reproducao-freepik_d4dd6ad727.jpg)
+
+fibrose hepática
+
+fibrose hepática
+
+Wegovy ajuda na regressão de doenças no fígado, diz estudo
+
+Wegovy ajuda na regressão de doenças no fígado, diz estudo](https://www.tnh1.com.br/noticia/nid/wegovy-ajuda-na-regressao-de-doencas-no-figado-diz-estudo/ "Wegovy ajuda na regressão de doenças no fígado, diz estudo")[![Dólar sobe para R$ 5,87 e fecha no maior nível em quatro anos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/1/csm_dolar_moeda_0803221206_b543b9ddcd.jpg)
+
+Economia
+
+Economia
+
+Dólar sobe para R$ 5,87 e fecha no maior nível em quatro anos
+
+Dólar sobe para R$ 5,87 e fecha no maior nível em quatro anos](https://www.tnh1.com.br/noticia/nid/dolar-sobe-para-r-587-e-fecha-no-maior-nivel-em-quatro-anos/ "Dólar sobe para R$ 5,87 e fecha no maior nível em quatro anos")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
