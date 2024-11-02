@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Владимир Якушев отметил опыт Новгородской «Единой России» по работе с партактивом и поддержке молодых политиков](https://cdn.er.ru/media/news/November2024/qvNd9hYvNY1Yk0O2XXNS-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-otmetil-opyt-novgorodskoj-edinoj-rossii-po-rabote-s-partaktivom-i-podderzhke-molodyh-politikov)
+
+[Владимир Якушев отметил опыт Новгородской «Единой России» по работе с партактивом и поддержке молодых политиков](https://er.ru/activity/news/vladimir-yakushev-otmetil-opyt-novgorodskoj-edinoj-rossii-po-rabote-s-partaktivom-i-podderzhke-molodyh-politikov)
+
+[#Новгородская область](https://er.ru/activity/news?tags%5B0%5D=773) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Никитин](https://er.ru/activity/news?tags%5B0%5D=2486) [#Храбров](https://er.ru/activity/news?tags%5B0%5D=1095704) [#наставничество](https://er.ru/activity/news?tags%5B0%5D=72627) [#академияполитики](https://er.ru/activity/news?tags%5B0%5D=1091743) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#первички](https://er.ru/activity/news?tags%5B0%5D=127619)
+
+Сегодня 09:30
+
+[![«Это не спецоперация Кремля, а выбор народа»: Дмитрий Медведев в интервью RT — о результатах парламентских выборов в Грузии](https://cdn.er.ru/media/news/November2024/lMYzAFNf4HbZYxWVFt1L-small.jpg)](https://er.ru/activity/news/eto-ne-specoperaciya-kremlya-a-vybor-naroda-dmitrij-medvedev-v-intervyu-rt-o-rezultatah-parlamentskih-vyborov-v-gruzii)
+
+[«Это не спецоперация Кремля, а выбор народа»: Дмитрий Медведев в интервью RT — о результатах парламентских выборов в Грузии](https://er.ru/activity/news/eto-ne-specoperaciya-kremlya-a-vybor-naroda-dmitrij-medvedev-v-intervyu-rt-o-rezultatah-parlamentskih-vyborov-v-gruzii)
+
+[#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#Совбез](https://er.ru/activity/news?tags%5B0%5D=2879) [#интервью](https://er.ru/activity/news?tags%5B0%5D=82) [#Грузия](https://er.ru/activity/news?tags%5B0%5D=1915) [#выборы](https://er.ru/activity/news?tags%5B0%5D=31)
+
+Сегодня 09:00
+
 [![Ольга Занко: В проекте бюджета страны на 2025 год на поддержку НКО планируется направить 419 миллиардов рублей](https://cdn.er.ru/media/news/November2024/FczY1Gwu0N1UqjjlTzi7-small.JPG)](https://er.ru/activity/news/olga-zanko-v-proekte-byudzheta-strany-na-2025-god-na-podderzhku-nko-planiruetsya-napravit-419-milliardov-rublej)
 
 [Ольга Занко: В проекте бюджета страны на 2025 год на поддержку НКО планируется направить 419 миллиардов рублей](https://er.ru/activity/news/olga-zanko-v-proekte-byudzheta-strany-na-2025-god-na-podderzhku-nko-planiruetsya-napravit-419-milliardov-rublej)
@@ -328,22 +344,6 @@
 [Андрей Макаров: Финансирование мероприятий народной программы «Единой России» в бюджете ежегодно увеличивается](https://er.ru/activity/news/andrej-makarov-finansirovanie-meropriyatij-narodnoj-programmy-edinoj-rossii-v-byudzhete-ezhegodno-uvelichivaetsya)
 
 [#Макаров](https://er.ru/activity/news?tags%5B0%5D=2183) [#программнаякомиссия](https://er.ru/activity/news?tags%5B0%5D=106523) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=29486)
-
-01.11.24
-
-[![Михаил Дегтярёв: Минспорта участвует в реализации приоритетных направлений народной программы «Единой России»](https://cdn.er.ru/media/news/November2024/E3ENTpqexfPgOFnaZPb1-small.jpg)](https://er.ru/activity/news/mihail-degtyaryov-minsporta-uchastvuet-v-realizacii-prioritetnyh-napravlenij-narodnoj-programmy-edinoj-rossii)
-
-[Михаил Дегтярёв: Минспорта участвует в реализации приоритетных направлений народной программы «Единой России»](https://er.ru/activity/news/mihail-degtyaryov-minsporta-uchastvuet-v-realizacii-prioritetnyh-napravlenij-narodnoj-programmy-edinoj-rossii)
-
-[#Дегтярев](https://er.ru/activity/news?tags%5B0%5D=11255) [#Минспорта](https://er.ru/activity/news?tags%5B0%5D=4504) [#программнаякомиссия](https://er.ru/activity/news?tags%5B0%5D=106523) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#развитиеспорта](https://er.ru/activity/news?tags%5B0%5D=128946) [#ФОКи](https://er.ru/activity/news?tags%5B0%5D=4595) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129)
-
-01.11.24
-
-[![Оксана Лут: Поддержка АПК «Единой Россией» помогла остановить отток людей из сельских территорий](https://cdn.er.ru/media/news/November2024/cIuLqBUXvBPqLtydKcnc-small.jpg)](https://er.ru/activity/news/oksana-lut-podderzhka-apk-edinoj-rossiej-pomogla-ostanovit-ottok-lyudej-iz-selskih-territorij)
-
-[Оксана Лут: Поддержка АПК «Единой Россией» помогла остановить отток людей из сельских территорий](https://er.ru/activity/news/oksana-lut-podderzhka-apk-edinoj-rossiej-pomogla-ostanovit-ottok-lyudej-iz-selskih-territorij)
-
-[#Лут](https://er.ru/activity/news?tags%5B0%5D=133405) [#Минсельхоз](https://er.ru/activity/news?tags%5B0%5D=873) [#программнаякомиссияЕР](https://er.ru/activity/news?tags%5B0%5D=116796) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#сельскоехозяйство](https://er.ru/activity/news?tags%5B0%5D=128668) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
 
 01.11.24
 
