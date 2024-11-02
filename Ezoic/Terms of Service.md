@@ -4,7 +4,7 @@ Solutions
 
 [Ezoic Ads Platform ®
 
-AI-driven monetization technology](https://www.ezoic.com/ezoic-ads)[![ez-ID](/_vercel/image?url=_astro%2Fezid-lg.CveDT77M.png&w=640&q=100)ez-ID Identity Platform
+AI-driven monetization technology](https://www.ezoic.com/ezoic-ads)[![ezID](/_vercel/image?url=_astro%2Fezid-lg.CveDT77M.png&w=640&q=100)ezID Identity Platform
 
 Fully-integrate identity data into monetization](https://www.ezoic.com/features/ezid)[Services
 
