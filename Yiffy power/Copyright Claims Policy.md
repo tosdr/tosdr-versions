@@ -85,21 +85,21 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 448 1
+0 462 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/judy-hopps-and-nick-wilde-directed-by-manedwolfascari/)
+[](https://yiff-party.com/yiff/directed-by-kitya-greyfeather/)
 
-[judy hopps and nick wilde directed by manedwolfascari](https://yiff-party.com/yiff-ai-premium/judy-hopps-and-nick-wilde-directed-by-manedwolfascari/)
+[directed by kitya greyfeather](https://yiff-party.com/yiff/directed-by-kitya-greyfeather/)
 
-0 35 0
+0 121 0
 
 October 3, 2024
 
-[](https://yiff-party.com/yiff/zurie-halloween-created-by-qew123/)
+[](https://yiff-party.com/yiff/rauru-tears-of-the-kingdom-and-etc-created-by-snowdoeer/)
 
-[zurie (halloween) created by qew123](https://yiff-party.com/yiff/zurie-halloween-created-by-qew123/)
+[rauru (tears of the kingdom and etc) created by snowdoeer](https://yiff-party.com/yiff/rauru-tears-of-the-kingdom-and-etc-created-by-snowdoeer/)
 
 0 2 0
 
