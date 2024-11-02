@@ -289,13 +289,6 @@ Kaci McConnell-Doherty with her British Championship
 [Derry woman charged with causing grievious bodily injury by careless driving](https://www.derrynow.com/news/local-news/1644946/derry-woman-charged-with-causing-grievious-bodily-injury-by-careless-driving.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1644090/derry-death-notices-friday-november-1-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Friday, November 1, 2024](https://www.derrynow.com/news/deaths/1644090/derry-death-notices-friday-november-1-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Man charged in connection with find of £27,000 worth of cocaine](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged in connection with find of £27,000 worth of cocaine")](https://www.derrynow.com/news/local-news/1645068/man-charged-in-connection-with-find-of-27-000-worth-of-cocaine.html)
 
 Derry Court
@@ -304,13 +297,6 @@ Derry Court
 
 [Man charged in connection with find of £27,000 worth of cocaine](https://www.derrynow.com/news/local-news/1645068/man-charged-in-connection-with-find-of-27-000-worth-of-cocaine.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor")](https://www.derrynow.com/news/arts---entertainment/1644797/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-here-s-the-sofa-line-up.html)
-
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
-
-[Who are the guests on tonight's Graham Norton Show on BBC? Here's the sofa line-up](https://www.derrynow.com/news/arts---entertainment/1644797/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-here-s-the-sofa-line-up.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Andy Brett on the podium of the World Championships](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Andy Brett on the podium of the World Championships")](https://www.derrynow.com/news/derry-sport/1645157/derry-brothers-dominate-at-world-karate-and-kickboxing-championships.html)
 
@@ -336,6 +322,22 @@ The man is due to appear before Derry Magistrate's Court this morning.
 
 [Community service for Derry man charged with assault causing actual bodily harm](https://www.derrynow.com/news/crime---courts/1645067/community-service-for-derry-man-charged-with-assault-causing-actual-bodily-harm.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Community service 'was not a chain gang' judge tells Derry man](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Community service 'was not a chain gang' judge tells Derry man")](https://www.derrynow.com/news/crime---courts/1645070/community-service-was-not-a-chain-gang-judge-tells-derry-man.html)
+
+[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
+
+[Community service 'was not a chain gang' judge tells Derry man](https://www.derrynow.com/news/crime---courts/1645070/community-service-was-not-a-chain-gang-judge-tells-derry-man.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Former Derry Police Officer announced as New Prisoner Ombudsman](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Former Derry Police Officer announced as New Prisoner Ombudsman")](https://www.derrynow.com/news/derry-news/1644018/former-derry-police-officer-announced-as-new-prisoner-ombudsman.html)
+
+Darrin Jones
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Former Derry Police Officer announced as New Prisoner Ombudsman](https://www.derrynow.com/news/derry-news/1644018/former-derry-police-officer-announced-as-new-prisoner-ombudsman.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,6 +515,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1645556/derry-death-notices-saturday-november-2-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Saturday, November 2, 2024](https://www.derrynow.com/news/deaths/1645556/derry-death-notices-saturday-november-2-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Police deal with disorder following Derry City's clash with Shelbourne](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police deal with disorder following Derry City's clash with Shelbourne")](https://www.derrynow.com/news/local-news/1645694/police-deal-with-disorder-following-derry-city-s-clash-with-shelbourne.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -520,7 +529,7 @@ Advertise with Us
 [Police deal with disorder following Derry City's clash with Shelbourne](https://www.derrynow.com/news/local-news/1645694/police-deal-with-disorder-following-derry-city-s-clash-with-shelbourne.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1645635/shelbourne-crowned-champions-at-the-brandywell-after-late-harry-wood-winner-against-derry-city.html)
+[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_11_01/2976010-1730497807751.jpg--.jpg?1730497808714 "Derry City")](https://www.derrynow.com/news/derry-sport/1645635/shelbourne-crowned-champions-at-the-brandywell-after-late-harry-wood-winner-against-derry-city.html)
 
 Shelbourne players celebrate the goal which won the title. Pic by Stephen McCarthy/ Sportsfile
 
@@ -551,13 +560,6 @@ The Christmas concert will see the band performing in a candle lit setting.
 
 [Power NI to increase household electricity prices by 4%](https://www.derrynow.com/news/local-news/1645589/power-ni-to-increase-household-electricity-prices-by-4.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![300 people from Derry and Strabane Council Area seek support for Sexual Abuse](https://www.derrynow.com/resizer/165/93/true/2017/11/19193036/nexus.jpg--.jpg "300 people from Derry and Strabane Council Area seek support for Sexual Abuse")](https://www.derrynow.com/news/derry-news/1645515/300-people-from-derry-and-strabane-council-area-seek-support-for-sexual-abuse.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[300 people from Derry and Strabane Council Area seek support for Sexual Abuse](https://www.derrynow.com/news/derry-news/1645515/300-people-from-derry-and-strabane-council-area-seek-support-for-sexual-abuse.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
