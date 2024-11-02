@@ -31,6 +31,371 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Más de 64 millones de personas ya han votado por adelantado en EE.UU.
+=====================================================================
+
+El martes, 5 de noviembre de 2024 son los comicios en ese país.
+---------------------------------------------------------------
+
+![Fotografía de guías electorales y hojas de votación anticipada en el Centro de votaciones del Centro Comunitario Columbia Heights, en Wahington (Estados Unidos). Foto EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/elecciones-El-comercio.jpg)
+
+Más de 64 millones de estadounidenses han emitido ya su voto de forma anticipada, en persona o por correo, antes de la jornada electoral del próximo martes en EE.UU., de acuerdo con datos de la cadena NBC.
+
+En 2022 se registraron 161 millones de votantes (un 69 % de la población con edad de voto), y en esta ocasión, donde los dos partidos han animado repetidamente a la inscripción, se calcula que subirán a 180 millones. De ser así, ya habría votado la tercera parte del censo.
+
+### Más noticias
+
+* **[Estas son las 5 propuestas claves de Donald Trump y Kamala Harris](https://www.elcomercio.com/actualidad/mundo/son-5-propuestas-claves-donald-trump-kamala-harris.html "https://www.elcomercio.com/actualidad/mundo/son-5-propuestas-claves-donald-trump-kamala-harris.html")**
+* **[Kamala Harris ofrece un ‘liderazgo nuevo’](https://www.elcomercio.com/actualidad/mundo/kamala-harris-ofrece-liderazgo-nuevo.html "https://www.elcomercio.com/actualidad/mundo/kamala-harris-ofrece-liderazgo-nuevo.html")**
+
+Los 64 910 122 votos emitidos por adelantado equivalen al 40% del total de los sufragios del 2020 (158 434 567) que llevaron a la Casa Blanca al demócrata Joe Biden, que se enfrentó entonces y venció a Donald Trump, el candidato que el martes 5 de noviembre de 2024 volverá a intentar hacerse con la presidencia, en esta ocasión frente a la vicepresidenta Kamala Harris, en una muy ajustada contienda electoral.
+
+De estos votos anticipados, el 54% se han emitido en persona, al contrario que las pasadas presidenciales, que se realizaron durante el impacto de la pandemia del covid. Entonces, la mayoría del sufragio anticipado fue por correo, tema que generó gran batalla ya que Trump se oponía a esa modalidad de voto y bloqueó la financiación para ese fin.
+
+Durante esos comicios, más de 101 millones de votos fueron anticipados, el más alto en la historia, destaca NBC.
+
+En los estados pendulares, que son claves en los resultados, estas son las cifras del voto adelantado: en Arizona lo han hecho 1 921 200 votantes; en Carolina del Norte, 3 622 810; en Georgia, 3 699 917; en Michigan, 2 579 954; en Wisconsin, 1 224 779; en Nevada, 945 419, y en Pensilvania 1 625 706.
+
+Para los comicios del 2020, menos de la mitad de los estados ofrecían a sus electores la posibilidad de voto anticipado, y a partir de 2024 lo hacen todos los estados menos tres (Alabama, Misisipí y New Hampshire). 
+
+Video capta cuando el asesino de Halloween ejecuta a una de sus víctimas en Orlando
+===================================================================================
+
+Según la Policía, el asesino actuó solo y sus motivaciones se desconocen.
+-------------------------------------------------------------------------
+
+![El ataque se produce en medio de las celebraciones de Halloween. Foto: X @sezh00](https://www.elcomercio.com/wp-content/uploads/2024/11/tiroteo-El-comercio.jpg)
+
+  
+En un trágico incidente durante la celebración de **Halloween** en **Orlando**, un **tiroteo** dejó un saldo de dos muertos y seis heridos. El ataque ocurrió el 1 de noviembre de 2024, alrededor de la 1:07, en el corazón de la ciudad.
+
+La Policía de Orlando (OPD) ha compartido grabaciones del momento en que el sospechoso, Jaylen Dwayne Edgar, de 17 años, dispara a una de sus víctimas a quemarropa, mientras las multitudes celebraban en la calle.
+
+El sospechoso viste una camiseta amarilla y lleva una mochila. Aparece caminando entre la multitud y de pronto extiende el brazo hacia atrás y efectúa el disparo.
+
+### Más noticias
+
+* **[Ecuatoriano relata devastación tras DANA en España](https://www.elcomercio.com/actualidad/mundo/ecuatoriano-relata-devastacion-dana.html "https://www.elcomercio.com/actualidad/mundo/ecuatoriano-relata-devastacion-dana.html")**
+* **[Aumenta el número de fallecidos en España por inundaciones](https://www.elcomercio.com/actualidad/muertos-espana-inundaciones.html "https://www.elcomercio.com/actualidad/muertos-espana-inundaciones.html")**
+
+La policía se encontraba patrullando el área con cerca de 100 agentes debido a la gran afluencia de personas, lo que facilitó la rápida detención del adolescente. Después de los primeros disparos, Edgar huyó hacia el sur de Washington Street, donde disparó nuevamente, esta vez en presencia de los oficiales.
+
+Las grabaciones de las cámaras de seguridad y de los agentes muestran cómo las personas comenzaron a correr despavoridas al escuchar los disparos. Según EFE, unas 100 mil personas se encontraban en el lugar.
+
+> [@elcomerciocom](https://www.tiktok.com/@elcomerciocom?refer=embed "@elcomerciocom") El terror se apoderó de Halloween en [#Orlando.](https://www.tiktok.com/tag/orlando.?refer=embed "orlando.") El saldo fue de dos muertos y seis heridos. Video tomado de la cuenta de X @sezh00 [♬ sonido original – elcomerciocom](https://www.tiktok.com/music/sonido-original-7432472509738339078?refer=embed "♬ sonido original - elcomerciocom")
+
+Detención del sospechoso y estado de las víctimas
+-------------------------------------------------
+
+El jefe de la policía, Eric Smith, indicó que Edgar actuó solo y que, en el momento del ataque, la situación era caótica. El joven ya tenía antecedentes penales, señala EFE, y sus motivaciones son aún objeto de investigación policial.
+
+Las víctimas mortales son dos hombres de 19 y 25 años, cuyas identidades no han sido reveladas. Los heridos, cuyos rangos de edad van de 18 a 39 años, fueron trasladados al Orlando Regional Medical Center (ORMC), donde se reportan en condición estable.
+
+Durante la detención, las autoridades recuperaron una pistola del joven, aunque aún se investiga cómo la obtuvo.
+
+El fiscal estatal de Florida, Andrew Baine, está considerando acusar a Edgar como adulto, pero aún espera más información de la investigación. Esta situación ha levantado inquietudes sobre la seguridad pública en eventos masivos y ha reavivado el debate sobre el control de armas en Estados Unidos.
+
+La comunidad de Orlando se encuentra en estado de shock ante este suceso trágico, y la policía continúa trabajando para esclarecer todos los detalles.
+
+De acuerdo a las autoridades, Edgar podría ser juzgado y eventualmente sentenciado como un adulto.
+
+Dos centrales del Complejo Hidroeléctrico Paute vuelven a operar
+================================================================
+
+Mazar se mantiene inactivo, pero recupera los niveles de agua. Las dos otras centrales generaron 435 megavatios/ hora al comenzar la tarde.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Luego de dos días de inactividad, Sopladora (foto) y Molino retomaron las operaciones.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-15.jpg)
+
+Luego de varios días **sin generar energía**, dos centrales que forman parte del C**omplejo Hidroeléctrico Paute** volvieron a operar este **1 de noviembre del 2024**. Así lo informó la **Corporación Eléctrica del Ecuador (Celec)**, en las páginas que muestran su operación en el **sur del país**.
+
+### Más noticias
+
+* [Quito, nuevamente en caos y congestión de tránsito por apagones, siniestros y obras](https://www.elcomercio.com/actualidad/quito/quito-transito-congestion.html "Quito, nuevamente en caos y congestión de tránsito por apagones, siniestros y obras")
+* [Ministerio de Energía anuncia decisión sobre cortes de luz para feriados de noviembre](https://www.elcomercio.com/actualidad/ecuador/cenae-decision-horas-cortes-luz-feriado-noviembre.html "Ministerio de Energía anuncia decisión sobre cortes de luz para feriados de noviembre")
+* [Daniel Noboa amplió los meses de descuento del valor de las planillas de luz](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-amplio-tiempo-rebaja-valor-planillas-de-luz.html "Daniel Noboa amplió los meses de descuento del valor de las planillas de luz")
+
+Sopladora y Molino entran en actividad
+--------------------------------------
+
+Fueron dos días en que el **Complejo Hidroeléctrico Paute** se apagó para que la represa de **Mazar** recuperara los niveles de agua para poder operar. Sin embargo, desde las **12:00 de este 1 de noviembre del 2024,** la **Celec** informaba que dos de las tres centrales que forman parte de todo este complejo volvieron a funcionar: **Sopladora** y **Molino**.
+
+Según la información proporcionada por la **Celec**, entre las 14:00 y las 16:00 fueron los tiempos en que más energía entregó. Así, por ejemplo, **Molino** generó **273 megavatios por hora**. En cambio, **Sopladora**, en ese mismo lapso de tiempo, dio **162 megavatios por hora**. En cambio, Mazar se mantiene inactivo.
+
+Lluvias en el sur alimentan Mazar
+---------------------------------
+
+**Mazar** se mantiene apagado. Y no ha generado energía desde el **miércoles 30 de octubre del 2024**. La **producción energética** para el país dependía en mucho de **Coca Codo Sinclair**, en donde las lluvias ayudaron a aumentar la producción.
+
+Sin embargo, los **niveles de agua se han recuperado en Mazar**. La cota subió desde el lunes pasado hasta este 1 de noviembre en tres metros, es decir, a 2 115,26 metros sobre el nivel del mar.
+
+Esto permitirá que los apagones se reduzcan en el país. Según **el Ministerio de Energías y Minas**, del 1 al 4 de noviembre, durante el feriado, los cortes de luz se reducirán entre **seis** y **ocho** horas[.](https://es.wikipedia.org/wiki/Corporaci%C3%B3n_El%C3%A9ctrica_del_Ecuador "https://es.wikipedia.org/wiki/Corporaci%C3%B3n_El%C3%A9ctrica_del_Ecuador")
+
+> 📍\[COMUNICADO OFICIAL\]  
+>   
+> 📌Sobre la programación de los horarios de suspensión del servicio eléctrico a escala nacional, durante los días de feriado, esta cartera de Estado informa lo siguiente⤵️ [pic.twitter.com/xnNI4T3DbC](https://t.co/xnNI4T3DbC)
+> 
+> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [October 30, 2024](https://twitter.com/RecNaturalesEC/status/1851768966810681571?ref_src=twsrc%5Etfw)
+
+Neymar, un fichaje ‘imposible’ para el Inter Miami
+==================================================
+
+Neymar ronda el Inter Miami, donde juegan Lionel Messi y Luis Suárez, excompañeros en Barcelona.
+------------------------------------------------------------------------------------------------
+
+![Neymar con el Al-Hilal luego de la lesión que lo alejó de las canchas un año.](https://www.elcomercio.com/wp-content/uploads/2024/11/neymar_1.jpg)
+
+El argentino Gerardo Martino, técnico del Inter Miami, aseguró este viernes 1 de noviembre de 2024, **que el fichaje del brasileño Neymar Junior** por su equipo es ahora mismo “imposible” por cómo están las reglas salariales de la MLS, al ser preguntado sobre si le gustaría volver a trabajar con el exbarcelonista.
+
+“Yo llegué al Barcelona en el mismo momento que Ney, **fue un buen año, para mí poder dirigir a jugadores** de tanta jerarquía siempre es especial. Pero no hay más que eso”, dijo Martino en la rueda de prensa previa al partido de ‘playoffs’ contra el Atlanta United.
+
+### Más noticias:
+
+* [Deportivo Quito viajó a Guayaquil para jugar los octavos de final del ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-viaje-guayaquil-ascenso-octavos-final-toreros.html "Deportivo Quito viajó a Guayaquil para jugar los octavos de final del ascenso")
+* [Bolivia no contará con su figura ante Ecuador por eliminatorias](https://www.elcomercio.com/deportes/futbol/bolivia-no-contara-con-su-figura-ante-ecuador-por-eliminatorias.html "Bolivia no contará con su figura ante Ecuador por eliminatorias")
+* [La final de la Copa Ecuador será en el Olímpico de Ibarra](https://www.elcomercio.com/deportes/futbol/olimpico-ibarra-final-copa-ecuador.html "La final de la Copa Ecuador será en el Olímpico de Ibarra")
+
+“Ya habiendo venido Leo (Messi) y el resto de los muchachos, lo que no me imagino es, **si la liga no flexibiliza el tema salarial**, cómo se llevaría adelante. No sé la puesta en marcha cómo sería. Si hay algo que tiene la MLS, es que las reglas son estrictas. Partiendo de estas bases hoy esto es imposible”, concluyó.
+
+Inter se enfrenta a Atlanta
+---------------------------
+
+El Inter Miami afrontará este sábado 2 el segundo partido de la serie de primera ronda de los ‘playoffs’ de la MLS, al mejor de los tres encuentros.
+
+Martino destacó que, **a estas alturas de la temporada**, no es el momento de especular sobre la alineación.
+
+“Cuando fuimos la vez pasada no tuvimos problemas con el césped sintético. **Nosotros llevamos de temporada regular 35 partidos**, estamos a cuatro de conseguir el objetivo, y los cuatro se juegan semana a semana. No es hora de tener ningún tipo de especulación”, subrayó.
+
+Y prometió que la mentalidad ofensiva de su club no va a cambiar.
+
+“Es muy difícil cuando un equipo ha jugado toda una temporada con una búsqueda común cambiar por un solo partido. **Teniendo la ventaja de haber ganado el primer partido**, si tenemos la posibilidad de ganar mañana estaríamos mucho más tranquilos”, dijo.
+
+Martino regresará a Atlanta, un club que el argentino dirigió de 2016 a 2018 y con el que fue campeón de la MLS.
+
+“Atlanta siempre será un lugar muy especial para mí, volver siempre me genera alegría. **Mi reconocimiento, mi respeto y agradecimiento** por Atlanta estarán permanentemente”, afirmó.
+
+San viernes – Especial de Halloween
+-----------------------------------
+
+Orense empató y se le escapó el liderato de la Liga Pro
+=======================================================
+
+La fecha 12 de la segunda etapa de la Liga Pro arrancó con un empate entre Orense y Delfín.
+-------------------------------------------------------------------------------------------
+
+![Jugadores de Orense y Delfín en el 9 de Mayo en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/orense_delfin_1.jpg)
+
+**Orense** tenía la opción de arrancar noviembre como uno de los líderes de la segunda etapa de la Liga Pro, al menos hasta que Independiente del Valle y Liga de Quito completen sus partidos de la fecha 12.
+
+La tarde de este viernes 1 de noviembre de 2024, **Orense empató 0-0 a Delfín en el estadio 9 de Mayo** de Machala, que contó con una gran presencia de espectadores en sus gradas que salieron felices por el resultado de su equipo.
+
+### Más noticias:
+
+* [Deportivo Quito viajó a Guayaquil para jugar los octavos de final del ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-viaje-guayaquil-ascenso-octavos-final-toreros.html "Deportivo Quito viajó a Guayaquil para jugar los octavos de final del ascenso")
+* [Bolivia no contará con su figura ante Ecuador por eliminatorias](https://www.elcomercio.com/deportes/futbol/bolivia-no-contara-con-su-figura-ante-ecuador-por-eliminatorias.html "Bolivia no contará con su figura ante Ecuador por eliminatorias")
+* [Lionel Messi, el Mundial 2026 y el pádel](https://www.elcomercio.com/deportes/futbol/lionel-messi-mundial2026-miami-padel.html "Lionel Messi, el Mundial 2026 y el pádel")
+
+El resultado frenó a **Orense en su objetivo de quedarse como el líder en solitario** de la tabla de posiciones, pero dejó escapar dos puntos que en el computó final los pueden penalizar en su objetivo de ser los ganadores de la etapa.
+
+Durante los 90 minutos, Orense fue el dominador total del compromiso, atacó por todos los frentes de la cancha, arrinconó a Delfín y convirtió en figura a Brian Heras, arquero de los de Manta que atajó todos los balones que llegaron a su área.
+
+Las estadísticas son claras y certifican que los de **Machala fueron los dueños de las acciones del partido con 21 remates**, nueve directos al arco, tuvieron el 65% de posesión del balón, realizaron 444 pases, completaron el 79% y recibieron 10 faltas.
+
+Las opciones más claras estuvieron en los pies de **Miguel Parrales, el goleador de Orense con ocho tantos**, pero que contra los ‘cetáceos’ no tuvo la puntería afinada y dejó a los hinchas locales con las ganas de gritar sus goles.
+
+En la fecha 13, **Orense volverá al 9 de Mayo para recibir a Técnico Universitario**. El compromiso está programado para el domingo 10 de noviembre, desde las 15:30.
+
+Orense dejó escapar una oportunidad
+-----------------------------------
+
+**Orense sumó 23 puntos y un gol diferencia positivo de +4** en la tabla de posiciones. Con ese puntaje mantiene la tercera posición luego de 12 fechas con siete victorias, dos empates y tres empates.
+
+Igualó en puntos con **Independiente del Valle y Liga de Quito**, pero el gol diferencia los ubica en la primera, segunda y tercera posición.
+
+Ese triple empate se puede romper una vez que **Independiente del Valle juegue con El Nacional** en el estadio de los del Valle y Liga de Quito visite a Emelec en el George Capwell.
+
+“El esfuerzo y la entrega del equipo no se negocia. Los muchachos están muy decepcionados por el resultados, pero lo buscamos por todos los medios. El resultado me duele”, declaró Santiago ‘Sachi’ Escobar a la cadena que transmite la Liga Pro.
+
+El colombiano **aseguró que sus hinchas deben tener “fe”** para la recta final de la Liga Pro, por lo que aún se mantienen en pelea por ganar la etapa y están a la espera que sus rivales directos dejen puntos en el camino para no distanciarse.
+
+Tabla de posiciones
+-------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Copia-de-MAQUETA-POSICIONES-BF-PERSONAJE-8-819x1024.jpg)
+
+San viernes – Especial de Halloween
+-----------------------------------
+
+Nuevo deslizamiento de tierra en La Pampa preocupa a sus pobladores
+===================================================================
+
+El deslizamiento de tierra en La Pampa no afectó la vida humana ni viviendas. En mayo del 2024 hubo otro que alertó a los vecinos del lugar.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![En la Zona de la Pampa hubo un deslizamiento de tierra. En mayo de este año ya hubo otro. • Captura de pantalla](https://www.elcomercio.com/wp-content/uploads/2024/11/Deslave-en-La-Pampa.jpg)
+
+Residentes del sector de **La Pampa,** en **Pomasqui**, al **norte de Quito**, reportaron un **deslizamiento de tierra** este viernes **1 de noviembre del 2024.** Esto obligó al **cierre del 50% de la vía**, aunque no hubo afectaciones en la vía ni en las estructuras cercanas, según el **Municipio de Quito.**
+
+### Más noticias
+
+* [Actividades en museos de Quito por el feriado del Día de los Difuntos](https://www.elcomercio.com/actualidad/quito/museos-actividades-quito-feriado-dia-difuntos.html "Actividades en museos de Quito por el feriado del Día de los Difuntos")
+* [Iglesias del Centro Histórico de Quito son siempre una alternativa para el feriado](https://www.elcomercio.com/actualidad/quito/iglesias-centro-historico-quito-alternativa-visita-feriado.html "Iglesias del Centro Histórico de Quito son siempre una alternativa para el feriado")
+* [Quito ofrece diversas opciones de turismo rural para los feriados de noviembre](https://www.elcomercio.com/actualidad/quito/quito-opciones-turismo-rural-feriados-noviembre.html "Quito ofrece diversas opciones de turismo rural para los feriados de noviembre")
+
+Pobladores informan sobre el deslizamiento de tierra
+----------------------------------------------------
+
+Una **alerta** de la población de **La Pampa** sobre un fuerte deslizamiento de tierras llegó hasta la **Administración Zonal La Delicia** y a la **Empresa Pública Metropolitana de Movilidad y Obras Públicas (Apmmop)**, que acudieron a la zona de emergencia. Un **video** que circula por **redes sociales** registra cómo la tierra fue hacia una quebrada.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DB2GduWigAh/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DB2GduWigAh/?utm_source=ig_embed&utm_campaign=loading)
+
+Los reportes oficiales indican que **un poste del alumbrado** público quedó “en una posición inestable”. La **Empresa Eléctrica Quito** (EEQ) recibió una solicitud para que retiren las obras.
+
+Monitoreo de la zona de deslizamiento
+-------------------------------------
+
+Según la página de comunicación oficial del Municipio capitalino, **Quito Informa**, las cuadrillas de la **Epmmop** permanecerán en la zona para **monitorear** la situación del cerro. Además, la AMT también realiza un seguimiento del **tránsito**, sobre todo el pesado, pues, como medida de **prevención**, se cerró la mitad del carril de la vía que queda en esa zona.
+
+Otro deslizamiento se registró en mayo
+--------------------------------------
+
+El **miércoles 29 de mayo del 2024,** también se registró otro deslizamiento de tierras en esta zona. En aquel entonces, técnicos de la **Dirección de Gestión de Riesgos y Desastres del Municipio de Quito,** sostuvieron que la vida humana ni las viviendas corrían ningún peligro[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
+
+Sin embargo, los vecinos viven con temor de este movimiento de tierras. Pidieron, además, a las autoridades ayuda para detener esos problemas.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/C7kfJlkp0g1/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/C7kfJlkp0g1/?utm_source=ig_embed&utm_campaign=loading)
+
+Ecuatoriano relata devastación tras DANA en España
+==================================================
+
+El ecuatoriano Daniel Escaleras relata la devastación tras la DANA en España y enfatiza la solidaridad entre afectados en medio de la tragedia.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+![Vecino y personas de diversas comunidades autónomas trabajan como voluntarios para restablecer la normalidad en Alfafar (Valencia).](https://www.elcomercio.com/wp-content/uploads/2024/11/Alfafar-Valencia.jpg)
+
+En la zona cero de la **DANA en España**, el ecuatoriano **Daniel Escaleras** comparte su testimonio sobre la tragedia que ha dejado al menos 205 muertos hasta el 1 de noviembre de 2024.
+
+Su relato, lleno de dolor y esperanza, destaca la solidaridad entre los afectados. Daniel Escaleras, originario de Loja, Ecuador, ha vivido en España durante muchos años. Reside en Mislata, una localidad cercana a las áreas más afectadas por la **DANA**, y ha estado en primera línea desde el inicio de la emergencia. **“Gracias a Dios, mi familia está bien”**, dice con voz temblorosa mediante audios de WhatsApp. Sin embargo, su preocupación por los demás es palpable. “Desde el minuto cero hemos salido a ayudar. Hay mucha gente desaparecida y muchos coches todavía bajo el agua”.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Daniel-Escaleras-1-1024x683.jpg)
+
+### Más noticias:
+
+* [Efectos de la DANA como consecuencia del cambio climático](https://www.elcomercio.com/actualidad/mundo/inundaciones-temporal-espana-deja-fallecidos.html "Efectos de la DANA como consecuencia del cambio climático")
+* [Ecuatoriano está desaparecido tras emergencia por lluvias en Valencia](https://www.elcomercio.com/actualidad/mundo/dana-deja-victimas-mortales-ecuatorianos.html "Ecuatoriano está desaparecido tras emergencia por lluvias en Valencia")
+* [¿Qué significa DANA el fenómeno que impactó a Valencia?](https://www.elcomercio.com/actualidad/mundo/significa-dana-fenomeno-impacto-valencia.html "¿Qué significa DANA el fenómeno que impactó a Valencia?")
+
+La **DANA (Depresión Aislada en Niveles Altos)** ha traído consigo lluvias torrenciales que han inundado pueblos enteros. Daniel menciona que muchas comunidades siguen incomunicadas y necesitan asistencia urgente. “Mañana iremos a Albal, otro pueblo muy afectado. Nos han pedido ayuda porque todavía hay personas atrapadas”.
+
+La situación es crítica; los rescates son complicados debido a los obstáculos y al lodo que alcanza hasta la cintura.
+
+**Desgarradoras historias de pérdida y lucha**
+----------------------------------------------
+
+El testimonio de Daniel no solo refleja su experiencia personal, sino también las historias de quienes lo rodean.
+
+> He visto amigos perder a familiares y negocios enteros. Es un drama que no se puede describir con palabras.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DB2Y0csKK6G/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DB2Y0csKK6G/?utm_source=ig_embed&utm_campaign=loading)
+
+En su recorrido por las zonas devastadas, encontró a compatriotas ecuatorianos que habían perdido todo lo que habían construido. **“Un grupo de paisanos de Ibarra tenía un negocio de alimentación que ahora está completamente destrozado”.**
+
+La desesperación es evidente entre los afectados. Daniel relata cómo algunos han comenzado a saquear debido a la falta de recursos: “La gente está desesperada, ya hay robos. Esto se nos va de las manos”.
+
+La comunidad latina en España ha formado patrullas para llevar ayuda básica: agua, comida y pañales. Sin embargo, reconoce que estos esfuerzos son insuficientes frente a la magnitud del desastre.
+
+**La importancia de la solidaridad**
+------------------------------------
+
+A pesar del sufrimiento, Daniel enfatiza la importancia de la solidaridad en estos momentos críticos.
+
+> Estamos organizados como un gremio latino para ayudar a nuestros compatriotas. Sabemos lo que es pasar por dificultades y queremos hacer lo posible por aquellos que están sufriendo.
+
+La comunidad se une para llevar no solo alimentos, sino también un mensaje de esperanza. El impacto emocional de esta tragedia es profundo. Daniel comparte cómo el olor a muerte permea el aire mientras trabajan para rescatar lo que queda: “Es desgarrador ver a tantas personas perderlo todo y sentir que no podemos hacer suficiente”. Aun así, continúa luchando junto a sus compatriotas para brindar apoyo.
+
+**El camino para la recuperación**
+----------------------------------
+
+La DANA ha dejado una huella imborrable en España y especialmente en las comunidades afectadas. Con más de **205 muertos confirmados** hasta ahora, el camino hacia la recuperación será largo y difícil. Daniel Escaleras representa no solo a los ecuatorianos en España, sino a todos aquellos que enfrentan adversidades con valentía y determinación. **“Lo más importante ahora es seguir ayudando y mantenernos unidos”**, concluye Daniel con un tono esperanzador.
+
+Cazzu cuenta cómo casi pierde a su hija en el parto
+===================================================
+
+“Sentí que la perdía”, dijo Cazzu.
+----------------------------------
+
+![La cantante Cazzu tuvo una hija con el artista mexicano Christian Nodal. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo30.jpg)
+
+La **cantante argentina Cazzu**, conocida por su talento y personalidad auténtica, hizo impactantes revelaciones sobre el nacimiento de su **hija Inti** y las complicaciones inesperadas que casi le arrebatan la vida a la pequeña.
+
+En una reciente entrevista para el programa **PLP**, la artista compartió que lo que debía ser un parto tranquilo se transformó en una experiencia aterradora. Durante el alumbramiento, el equipo médico descubrió que el cordón umbilical se había enredado en la cabeza de su bebé, poniendo en riesgo su vida.
+
+### Más noticias
+
+* [**Christian Nodal recibe críticas por tacaño**](https://www.elcomercio.com/tendencias/trending/christian-nodal-hospitalizado-foto.html "https://www.elcomercio.com/tendencias/trending/christian-nodal-hospitalizado-foto.html")
+* **[En la segunda temporada de ‘El Juego del Calamar’ habrá nuevas reglas y desafíos](https://www.elcomercio.com/tendencias/entretenimiento/juego-del-calamar-netflix-serie-segunda-temporada.html "https://www.elcomercio.com/tendencias/entretenimiento/juego-del-calamar-netflix-serie-segunda-temporada.html")**
+
+“Ella traía el cordón umbilical en la cabeza y corría peligro de que lo presione”, explicó Cazzu, quien detalló cómo el equipo médico actuó de inmediato para evitar una tragedia.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBzhnrxPJKX/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por 🕷𝑪𝒂𝒛𝒛𝒖 𝑮𝒍𝒐𝒃𝒂𝒍| 𝑭𝒂𝒏 𝑨𝒄𝒄𝒐𝒖𝒏𝒕 🇦🇷🕸 (@cazzuglobal)](https://www.instagram.com/reel/DBzhnrxPJKX/?utm_source=ig_embed&utm_campaign=loading)
+
+Afortunadamente, la intervención fue exitosa, pero el impacto emocional que dejó en la cantante perduró por días. “Me quedé con el estrés y la tristeza de que sentí que la perdía por los siguientes tres o cuatro días”, confesó.
+
+Los primeros meses después del nacimiento de su hija coincidieron con la **separación de Christian Nodal** y el inicio de su relación con la **cantante mexicana Ángela Aguilar,** lo que ha generado rumores y ha mantenido a Cazzu en el centro de la atención mediática, señala un artículo de Infobae.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBzia3Pvaho/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por 🕷𝑪𝒂𝒛𝒛𝒖 𝑮𝒍𝒐𝒃𝒂𝒍| 𝑭𝒂𝒏 𝑨𝒄𝒄𝒐𝒖𝒏𝒕 🇦🇷🕸 (@cazzuglobal)](https://www.instagram.com/reel/DBzia3Pvaho/?utm_source=ig_embed&utm_campaign=loading)
+
+Cazzu cuestiona el rol de Nodal como padre en la vida de su hija
+----------------------------------------------------------------
+
+Además, la artista aprovechó para expresar su descontento con el rol de su ex, el también cantante **Christian Nodal**, en la vida de Inti.
+
+Según Cazzu, Nodal solo ha visitado a su hija en dos ocasiones, y lamentó la falta de una relación más cercana entre ellos. “Mi casa ha sido una casa de respeto. Las dos veces que recibió a su papá, fue siempre lleno de respeto”, comentó, añadiendo que espera reciprocidad en ese sentido.
+
+En la segunda temporada de ‘El Juego del Calamar’ habrá nuevas reglas y desafíos
+================================================================================
+
+La segunda temporada de 'El juego del calamar' se estrena el 26 de diciembre de 2024 en Netflix.
+------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2021/10/Squid-Game.jpg)
+
+La espera ha terminado para los fanáticos de ‘**El Juego del Calamar**‘. El primer **tráiler de la segunda temporada** se presentó oficialmente el 31 de octubre en el **[festival Lucca Comics & Games](https://es.wikipedia.org/wiki/Lucca_Comics_%26_Games "https://es.wikipedia.org/wiki/Lucca_Comics_%26_Games")** y reveló algunos giros inesperados.
+
+La exitosa **serie de Netflix** regresa con más intensidad, y Seong Gi-hun, interpretado por Lee Jung-jae, jugará de nuevo. Esta vez, sin embargo, las reglas han cambiado.
+
+La experiencia del protagonista será muy importante en esta nueva temporada, pero por lo que se ve en el tráiler también le traerá aliados, pero también enemigos.
+
+Un juego de supervivencia aún más letal y con nuevas reglas
+-----------------------------------------------------------
+
+Uno de los giros más sorprendentes es la inclusión de un **nuevo juego intermedio** en cada ronda. Además, los concursantes sobrevivientes ahora pueden votar si desean continuar o abandonar la competencia.
+
+Si la mayoría decide retirarse, todos recibirán una porción del premio acumulada hasta el momento. Si eligen seguir, el premio aumenta, pero también lo hace el riesgo de perder la vida.
+
+El premio es de 4,56 millones de dólares.
+
+Seong Gi-hun regresa con un plan para detener los juegos
+--------------------------------------------------------
+
+A pesar de los intentos de Gi-hun de convencer a los demás de abandonar los juegos, su advertencia parece ser ignorada, mientras que algunos participantes, cada vez más desesperados, se plantean sus decisiones de manera angustiante.
+
+El tráiler también confirma la reaparición de personajes clave como el enigmático Testaferro, interpretado por Lee Byung-hun y el reclutador interpretado por Gong Yoo. Junto a ellos, se unen al elenco actores como Yim Si-wan y Kang Ha-neul, quienes introducirán nuevos personajes al brutal universo de la serie.
+
+Dirigida nuevamente por su creador Hwang Dong-hyuk, esta temporada promete una historia tan intensa como la anterior, con una narrativa aún más sombría y visceral.
+
+La serie estará disponible en Netflix a partir del 26 de diciembre, elevando las expectativas de millones de seguidores alrededor del mundo, quienes no tendrán que esperar mucho más para sumergirse nuevamente en la peligrosa competencia.
+
 Aumenta el número de fallecidos en España por inundaciones
 ==========================================================
 
@@ -649,453 +1014,3 @@ Sin embargo, a las 08:50, la **AMT** reabrió el **carril central** para aliviar
 Desde entonces, las autoridades de tránsito solicitan a los conductores que circulen con **precaución** por el sector debido a la presencia de los vehículos involucrados y al trabajo continuo de los equipos de emergencia en el sitio.
 
 Las autoridades permanecen en la escena del **siniestro de tránsito**, a la espera de retirar los **vehículos** implicados y restablecer completamente el flujo vehicular.
-
-Tres figuras de El Nacional en Copa Ecuador
-===========================================
-
-El Nacional está en la final de la Copa Ecuador 2024 y contó con tres figuras para lograr llegar hasta la última fase del torneo.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Gabriel Cortez, una de las figuras de El Nacional celebra su gol con el equipo en las semifinales de Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-31T202428.244.jpg)
-
-La ovación no se hizo esperar para **Jorge ‘Tukita’ Ordóñez** cuando abandonó la cancha en las semifinales de Copa Ecuador. Junto a él, los nombres de **David Cabezas y Gabriel Cortez** fueron fundamentales para que El Nacional vuelva a buscar un título en 18 años.
-
-**El Nacional** se impuso por 2-0 a **Mushuc Runa** en el penúltimo partido del certamen y de revancha en la serie. Los criollos consiguieron revalidar su clasificación a la final tras haber vencido en la ida por un marcador de 1-2 en Latacunga.
-
-### Más noticias:
-
-* [El Nacional celebra y Marcelo Zuleta es ovacionado en Copa Ecuador](https://www.elcomercio.com/deportes/el-nacional-celebracion-zuleta-copa-ecuador.html "El Nacional celebra y Marcelo Zuleta es ovacionado en Copa Ecuador")
-* [El Nacional con doble premio, final de Copa Ecuador y Libertadores](https://www.elcomercio.com/deportes/futbol/el-nacional-final-copa-ecuador2024.html "El Nacional con doble premio, final de Copa Ecuador y Libertadores")
-* [El frío no frenó a hinchas y glorias de El Nacional en Copa Ecuador](https://www.elcomercio.com/deportes/futbol/nacional-lluvia-copa-ecuador-hinchas-glorias.html "El frío no frenó a hinchas y glorias de El Nacional en Copa Ecuador")
-
-En el cotejo, **Gabriel Cortez** tuvo una destacada actuación y fue el autor de uno de los goles del triunfo. Asimismo, este asistió en el segundo tanto del conjunto militar al habilitar a **Jonathan Borja**  
-Aunque el ‘Loco’ fue uno de los pilares para la clasificación, antes también hubo figuras decisivas en instancias previas.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBzz_ZdPQNw/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DBzz_ZdPQNw/?utm_source=ig_embed&utm_campaign=loading)
-
-En la semifinal de ida y en octavos de final, los vítores se los llevó **Jorge Ordóñez**;  en los cuartos, **David Cabezas** le dio la clasificación a la escuadra[.](https://en.wikipedia.org/wiki/C.D._El_Nacional "https://en.wikipedia.org/wiki/C.D._El_Nacional")
-
-Gabriel Cortez, clave para la final de El Nacional
---------------------------------------------------
-
-En el partido que selló el pase hacia la siguiente ronda de **El Nacional**, Cortez arrancó como titular. El volante ofensivo ya había sido clave en compromisos previos de la Liga Pro y este fue consagratorio.
-
-El primer tanto para él llegó a los 79 minutos del partido tras un centro desde el costado derecho. Al momento de recibir la pelota, el volante le pegó de primera desde fuera del área y venció al golero **Adrián Bone**.
-
-En el segundo tanto, que fue de **Jonathan Borja**, Gabriel Cortez asistió. Este controló dentro del área y le cedió el balón a su compañero para que remate.
-
-Jorge ‘Tukita’ Ordóñez, el goleador en la Copa Ecuador
-------------------------------------------------------
-
-**Jorge Ordóñez** también estuvo desde el inicio en el último choque ante Mushuc Runa y, aunque no anotó en aquel partido, sí fue vital en la ida. En el primer duelo semifinal, la ‘Tukita’ puso el doblete que le dio el triunfo a su equipo.
-
-Antes, Ordóñez también había tenido un rol vital. En los octavos de final, este puso el tanto del empate ante **Deportivo Santo Domingo**, de manera que los criollos llevaron el partido a penales y vencieron.
-
-David Cabezas, el héroe en el arco de El Nacional en la Copa Ecuador
---------------------------------------------------------------------
-
-Al lograr la clasificación hacia la final de la Copa Ecuador, **David Cabezas** fue uno de los preferidos de la hinchada. Cuando finalizó el compromiso y la celebración entre aficionados y jugadores, el apellido de este se escuchó en todo el estadio. “**Olé, olé, olé, olé, Cabezas, Cabezas**” fue el cántico de reconocimiento al jugador.
-
-En el último partido, el arquero fue una de las figuras. Antes, sin embargo, este tuvo actuaciones aún más notables y que determinaron el futuro del elenco. En los cuartos de final ante Liga de Quito, este fue el héroe de **El Nacional** en penales.
-
-En el Día de la Ecología, te presentamos ‘apps’ que debes considerar 
-=====================================================================
-
-En el Día Mundial de la Ecología, descubre cómo nuestras acciones impactan el medio ambiente.
----------------------------------------------------------------------------------------------
-
-![El Día Mundial de la Ecología busca crear conciencia sobre la interrelación entre los seres vivos y su entorno. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Ecologia-aplicaciones.jpg)
-
-El 1 de noviembre se conmemora el **Día Mundial de la Ecología**, una efeméride que busca **resaltar la importancia de la ecología** como disciplina científica y **fomentar la conciencia sobre la necesidad de cuidar nuestro entorno**.  
-
-### Más noticias
-
-* [La inteligencia artificial como socia en la batalla contra el cambio climático](https://www.elcomercio.com/tendencias/ambiente/inteligencia-artificial-cambio-climatico-efemeride.html "https://www.elcomercio.com/tendencias/ambiente/inteligencia-artificial-cambio-climatico-efemeride.html") 
-* [¿Por qué es importante sumarse al Día Mundial sin Auto?](https://elcomercio.com/tendencias/ambiente/dia-mundial-auto-efemeride-ecologia.html "https://elcomercio.com/tendencias/ambiente/dia-mundial-auto-efemeride-ecologia.html")
-
-Esta celebración tiene sus raíces en el deseo de **promover una relación armoniosa entre los seres vivos y su medio ambiente**, así como reconocer el trabajo de los ecólogos en la **preservación de la biodiversidad**. 
-
-**Origen y significado del Día Mundial de la Ecología** 
---------------------------------------------------------
-
-La historia del **Día Mundial de la Ecología** se remonta a 1869, cuando el naturalista alemán **Ernst Haeckel** acuñó el término “ecología”, derivado del griego “oikos” (hogar) y “logos” (estudio), según [Parques Nacionales de Colombia](https://old.parquesnacionales.gov.co/portal/es/hoy-1-de-noviembre-se-celebra-el-dia-mundial-de-la-ecologia/ "https://old.parquesnacionales.gov.co/portal/es/hoy-1-de-noviembre-se-celebra-el-dia-mundial-de-la-ecologia/"). 
-
-Este día se estableció para **crear conciencia sobre las interrelaciones entre los seres vivos y su entorno**, al enfatizar la necesidad urgente de **mantener un equilibrio ecológico**.  
-
-Cada año, esta fecha nos recuerda que nuestras acciones tienen un impacto directo en el medio ambiente. 
-
-La celebración del 1 de noviembre implica un componente académico que r**econoce a la ecología como ciencia fundamental**. Además, promueve un **activismo global** para concientizar a las comunidades sobre los **problemas ambientales actuales**, como la **pérdida de biodiversidad y el cambio climático.**  
-
-**Importancia de la ecología**  
---------------------------------
-
-La ecología no solo se ocupa del **estudio de los ecosistemas naturales**, sino también de **cómo nuestras actividades cotidianas afectan el medio ambiente**. La interrelación entre los seres humanos y su entorno es crucial para entender **cómo podemos vivir en armonía con la naturaleza**. La ecología abarca diversas ramas, desde la ecología humana hasta la ecología de comunidades, cada una enfocándose en diferentes aspectos de estas relaciones.  
-
-La ecología se ha vuelto esencial en el contexto actual, donde **el crecimiento demográfico y el consumo excesivo amenazan los recursos naturales**. Se prevé que para 2050, **más del 50% de los ecosistemas naturales podrían perderse** si no se toman medidas efectivas, siguiendo con Parque Nacionales de Colombia.  
-
-**Consejos prácticos para ser ecológicos desde casa** 
-------------------------------------------------------
-
-Adoptar **prácticas ecológicas** no requiere cambios drásticos. Aquí hay algunos ‘tips’ útiles que puedes implementar desde tu hogar: 
-
-* **Separación de residuos:** Clasifica tus desechos en orgánicos, reciclables y no reciclables. Esto facilita su tratamiento y **reduce la cantidad de basura** que llega a los vertederos. 
-
-* **Uso de bolsas reutilizables:** Evita las bolsas plásticas, l**leva tus propias bolsas al supermercado.** Esto reduce significativamente el **uso de plásticos desechables**. 
-
-* **Ahorro energético:** Considera **utilizar bombillas LED** para reducir el gasto energético. 
-
-* **Conservación del agua:** Instala **dispositivos ahorradores en grifos y duchas**. Además, repara cualquier fuga para evitar desperdicios. 
-
-* **Huertas urbanas:** Cultiva tus propias verduras y hierbas en casa. Esto no solo proporciona **alimentos frescos** sino que también reduce la huella de carbono asociada al transporte. 
-
-* **Transporte sostenible:** Opta por caminar, usar bicicletas o compartir vehículos siempre que sea posible. Esto ayuda a d**isminuir las emisiones contaminantes**. 
-
-Implementar estos consejos puede parecer un pequeño esfuerzo individual, pero colectivamente pueden generar un impacto significativo en nuestro entorno. 
-
-**Aplicaciones para cuidar el medio ambiente** 
------------------------------------------------
-
-**Trucos Ecológicos:** Una ‘app’ **recomendada por Le Monde** y otros, que ofrece más de 300 consejos ecológicos. 
-
-* **Plani Food:** Esta aplicación ofrece una solución al ayudar a **organizar menús personalizados** según nuestros gustos para fomentar compras más responsables y sostenibles. 
-
-* **eLitter:** Creada por las Asociaciones Paisaje Limpio y Vertidos Cero, permite a los ciudadanos caracterizar y **analizar el abandono de residuos en el medio terrestre**, facilitando la identificación de los tipos y orígenes de desechos. 
-
-* **Noise Meter:** El ruido, contaminante ambiental, afecta la calidad de vida y **puede causar graves problemas de salud**, pero puedes medir tu exposición con Noise Meter. 
-
-Así funciona el Pico y placa en Quito este viernes 1 de noviembre
-=================================================================
-
-Recuerda que el Pico y placa aplica de lunes a viernes. Fines de semana y feriados no rige esta medida de tránsito
-------------------------------------------------------------------------------------------------------------------
-
-![Los agentes metropolitanos vigilan el cumplimiento de la medida en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Pico-viernes-1.jpg)
-
-El **Pico y placa** es una restricción vehicular que rige en **Quito** como medida para **gestionar el tránsito** de la ciudad en las horas pico.
-
-Esta **medida excluye** a los autos conducidos por **personas de la tercera edad** o personas con discapacidad.
-
-### Más noticias
-
-* [Pico y placa se suspende en Quito por cinco días](https://www.elcomercio.com/actualidad/quito/pico-y-placa-se-suspende-en-quito-por-cinco-dias.html "Pico y placa se suspende en Quito por cinco días")
-* [Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito](https://www.elcomercio.com/actualidad/quito/paradas-de-la-ecovia-registran-nuevos-cierres-por-trabajos-en-quito.html "Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito")
-* [Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito](https://www.elcomercio.com/actualidad/quito/trafico-quito-nuevos-cierres-av-6-de-diciembre-colon-orellana.html "Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito")
-
-Horarios de Pico y placa
-------------------------
-
-Esta medida se aplica en dos horarios de **lunes a viernes**. Los feriados, sábados y domingo no aplica la restricción.
-
-Estos son los horarios de aplicación:
-
-* En la **mañana**: de 06:00 a 09:30
-* En la **tarde**: de 16:00 a 20:00
-
-El **Pico y placa** es una medida que se implementó en **diversas ciudades** alrededor del mundo como respuesta a los desafíos de la **urbanización** y el aumento del tránsito vehicular.
-
-Multas por infringir el Pico y placa
-------------------------------------
-
-La multa por incumplir el **Pico y placa** es del **15% del Salario Básico Unificado, es decir 69 dólares** la primera vez; la segunda vez será el 25%, es decir, **115 dólares**.
-
-Si incumples por tercera vez, la multa asciende al 50% de un salario básico, es decir, **230 dólares**.
-
-Recuerda retirar tu auto de las plazas de parqueo
--------------------------------------------------
-
-Está vigente la resolución que dispone el proceso de **chatarrización** de los vehículos ingresados en los Centros de Retención Vehicular (CRV) por **más de tres años**, que no hayan sido retirados por sus propietarios.
-
-Con estos vehículos se emite una **declaratoria de abandono** y luego se procede a la chatarrización.
-
-Por esta razón, la Agencia de Tránsito llama a los **legítimos propietarios** a realizar el proceso de [liberación](https://es.wikipedia.org/wiki/Quito) vehicular.
-
-Este **viernes 1 de noviembre** de 2024 es feriado y, por lo tanto, no se aplica la medida de Pico y placa en la ciudad de Quito.
-
-> 💁Recuerda que sábados, domingos y feriados existe libre movilidad vehicular.  
->   
-> 🚦Respeta las normas de tránsito y evita sanciones.  
->   
-> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/K8r80TieRC](https://t.co/K8r80TieRC)
-> 
-> — AMTQuito (@AMT\_Quito) [October 27, 2024](https://twitter.com/AMT_Quito/status/1850483310398742712?ref_src=twsrc%5Etfw)
-
-Nueve alimentos que mejoran la salud mental y emocional
-=======================================================
-
-Una dieta rica en nutrientes puede reducir estrés y ansiedad. Descubre qué alimentos potencian el bienestar emocional y mejoran la calidad de vida.
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Alimentos como los frutos secos y el salmón pueden mejorar la salud mental y reducir el estrés.](https://www.elcomercio.com/wp-content/uploads/2024/10/Alimentacion-para-la-salud-mental.jpg)
-
-La conexión entre la alimentación y la salud mental es cada vez más evidente. Estudios recientes muestran que ciertos alimentos no solo ayudan a mantener el **bienestar físico**, sino también a mejorar el estado de ánimo, reducir la ansiedad y combatir el estrés. Incorporar estos alimentos en nuestra dieta diaria puede marcar la diferencia en el **bienestar emocional**.
-
-A continuación, exploramos **nueve recomendaciones** clave para una salud mental fortalecida a través de una nutrición adecuada.
-
-1. **Incluye grasas saludables en tu dieta**  
-    Los ácidos grasos omega-3, presentes en alimentos como el salmón, las nueces y el aguacate, ayudan a reducir la inflamación y promueven un cerebro sano, lo cual es esencial para la estabilidad emocional.
-2. **Consume frutas y verduras variadas**  
-    Ricas en antioxidantes, vitaminas y minerales, las frutas y verduras frescas ayudan a combatir el estrés oxidativo en el cerebro, mejorando el ánimo y reduciendo los niveles de ansiedad.
-3. **Opta por cereales integrales y carbohidratos complejos**  
-    Estos alimentos proporcionan una liberación gradual de glucosa, ayudando a mantener estables los niveles de energía y el estado de ánimo durante el día. Ejemplos incluyen la avena, la quinoa y el pan integral.
-4. **Añade alimentos ricos en magnesio**  
-    El magnesio, presente en alimentos como las espinacas, las semillas de calabaza y el cacao, es un mineral que ayuda a relajar el sistema nervioso y puede aliviar la ansiedad.
-5. **Incorpora probióticos para un intestino saludable**  
-    Alimentos fermentados como el yogur, el kéfir y el chucrut pueden mejorar la microbiota intestinal, lo que contribuye a una mejor salud mental. El intestino tiene una conexión directa con el cerebro, por lo que mantenerlo en equilibrio es esencial.
-6. **Evita los azúcares refinados y los alimentos ultraprocesados**  
-    Los picos de glucosa generados por el consumo de azúcares refinados pueden causar cambios bruscos en el estado de ánimo. Evitar estos alimentos ayuda a mantener una estabilidad emocional.
-7. **Consume suficiente agua para mantenerte hidratado**  
-    La deshidratación puede llevar a la fatiga mental y afectar el estado de ánimo. Asegúrate de beber al menos ocho vasos de agua al día para un rendimiento óptimo del cerebro.
-8. **Elige proteínas de alta calidad**  
-    Las proteínas, como el pollo, los huevos y el tofu, son esenciales para la producción de neurotransmisores como la serotonina, que regula el estado de ánimo y el bienestar.
-9. **Haz del té verde tu aliado contra el estrés**  
-    El té verde contiene L-teanina, un aminoácido que promueve la relajación sin causar somnolencia, ayudando a reducir el estrés y mejorar el estado de ánimo.
-
-Estas sugerencias pueden ser el primer paso para transformar la alimentación en una herramienta de apoyo para la salud mental y emocional, promoviendo una vida más equilibrada y feliz.
-
-Escucha nuestro podcast para conocer más del tema
--------------------------------------------------
-
-Exploramos cómo ciertos alimentos pueden mejorar nuestra salud mental junto a la nutricionista **Patricia Villarreal.**
-
-Este artículo forma parte de ‘[El Cuaderno de la Salud](https://www.elcomercio.com/podcasts/cuaderno-de-la-salud.html)’ de EL COMERCIO. Si tienes consultas o sugerencias, llena el formulario a continuación. Mantente informado y cuida tu salud.
-
-Bienestar
-=========
-
-Los avances tecnológicos se han intensificado de una manera acelerada y en muchos casos incluso de manera exponencial.
-----------------------------------------------------------------------------------------------------------------------
-
-![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
-
-Los **avances** **tecnológicos** se han intensificado de una manera acelerada y en muchos casos incluso de manera **exponencial**. Aquí no hay que pensar solamente en **maquinaria** y equipos, sino también en la **habilidad** y **creatividad** para realizar objetivos.
-
-En muchos casos, y posiblemente en la **mayoría** de **estudios** sobre la transformación social y económica, se demuestra que los **resultados** de estas **nuevas tecnologías** tienen un alcance superior al que sus **inventores** o desarrolladores pudieron siquiera imaginarse. Esos **progresos** y **cambios tecnológicos** no solo han traído **soluciones**, también han intensificado el efecto de **problemas** en todas las etapas del desarrollo como **consecuencia** de alguna acción. Ciertamente, no es posible realizar nada que no vaya a repercutir de uno u otra manera sobre nuestro **desarrollo social**, **ambiental**, **económico**, etc.
-
-Tal como el **petróleo** fue el principal motor del **siglo XX** al permitir no solamente cambiar los **patrones** de movilidad, masificar y abaratarlos; nos trajo también el **desarrollo** de la **industria petroquímica**, donde los **fertilizantes** permitieron mejorar e intensificar la **agricultura**, la **creación** del **plástico** y de **textiles**, **cosméticos** y **medicinas**.
-
-Pasando al siglo XXI donde pensamos que por los **factores** de **cambio climático** (antes se hablaba del **calentamiento global**) en la **actualidad** entre **hidrocarburos** y **carbón** todavía constituye el 85% del **consumo** de **energía** en el mundo y los **renovables** que han estado creciendo en **doble dígito**, con mayor inversión en **energía** de **sistemas** de **generación** renovable no tradicional, esta está recién en el 15% de la matriz **energética global**.
-
-La preocupación del siglo XXI para la **humanidad** es hacia donde se mueve. El futuro, que antes ofrecía simplemente **esperanza** y propósito, se ha convertido en una especie de **fatalismo**. Inundaciones, **sequías**, **incendios forestales**, **huracanes**, **tsunami**; **guerras**, la **migración** forzada de millones de personas, la **migración** por búsqueda de nuevas **oportunidades** por múltiples motivos, a afectación por la **delincuencia organizada**, el **narcotráfico**, a la trata de gente, de armas y el **narco político** son los factores de peligro que acechan a la **población** en los cuatro **puntos cardinales**; principalmente en un mundo polarizado entre norte y sur los que tienen y los que no tienen.
-
-Es necesaria la búsqueda de un **objetivo** y un **sistema moral**, de **equidad** y de **empatía** para poder unificar el **esfuerzo humano** en lograr su bienestar con las múltiples maneras y **herramientas** disponibles para resolver la **problemática local** y **global**. Tarea muy difícil.
-
-Se puede hacer una extensa lista tanto de los **beneficios** como la **problemática** de los avances que tenido la **modernidad**, pero ciertamente también debe modificarse el **discurso** pesimista de la **prensa** amarilla y roja que es la que más llega a las **masas** de **población** para permitirle divisar un rayo de luz y **esperanza** a la misma **supervivencia** y **prosperidad** del ser humano.
-
-Los **futuristas** y **filósofos** sobre el futuro devenir, están de acuerdo que los **objetivos** del hombre cuando están coordinados la **inteligencia humana** con las **nuevas herramientas** de la **inteligencia artificial** pueden generar grandes logros y **oportunidades** cuando la gente está capacitada para entender este **nuevo entorno**, pero también gracias a un **enorme esfuerzo** donde la **humanidad** ha desarrollado un inventario de conocimientos para su propia **sostenibilidad**.
-
-El **mundo** del **futuro** del que estamos hablando no existe, de modo que no puede ser estudiado ni analizado. Lo único que podemos **crear, analizar y estudiar** son las ideas de lo que figuramos cómo será el mundo de mañana. Estas **ideas** desarrolladas con base en percepciones del pasado y del presente nos permite dibujar **posibles escenarios** de corto, mediano y largo plazo.
-
-Los **países avanzados** todos tienen institutos (think thanks) que crean una serie de escenarios posibles y deseables y avanzan en **búsqueda** de esas m**e**tas.
-
-A pesar de lo agobiado que se encuentra el **país**, deberían establecerse un grupo **multidisciplinario**, **multipartidista** que defina objetivos en cuanto a **seguridad alimentaria**, **energética**, de inversión y **creación de empleo**, de **seguridad jurídica** (el país ha perdido toda la credibilidad); es necesario recuperarla, **transparencia, movilidad y crecimiento urbano** y también seguridad personal. El desafío es diseñar este panorama a fin de qué las **políticas** de Estado apunten esos **objetivos** consensuados y tanto el **ejecutivo** como el **legislativo** realicen con el **transcurso** del tiempo los ajustes de timón para llevar el país a buen puerto.
-
-Ecuador tiene 19 centros inclusivos para tratar Infecciones de Transmisión Sexual sin estigma 
-==============================================================================================
-
-Conoce la ubicación de los centros inclusivos en un mapa interactivo.
----------------------------------------------------------------------
-
-![En el Centro de Salud No. 1 del Centro Histórico de Quito, los usuarios reciben un kit de preservativos, lubricantes y en caso de que sea VIH negativo y expuesto a riesgos recibe la PrEP.](https://www.elcomercio.com/wp-content/uploads/2024/10/Centro-Inclusivo.jpg)
-
-Los pacientes que demandan atención relacionada con Infecciones de Transmisión Sexual (**ITS**) cuentan con **19 centros de salud inclusivos en Ecuador.** La característica de estos sitios del **Ministerio de Salud Pública** (MSP) es que son libres de estigma y discriminación. Están situados estratégicamente en siete ciudades de la **Sierra**, otras siete de la **Costa** y cinco de la **Amazonía**. 
-
-Más noticias
-------------
-
-* [¿Cómo funciona un centro de salud inclusivo para Infecciones de Transmisión Sexual en Quito?](https://www.elcomercio.com/tendencias/salud/como-funciona-un-centro-de-salud-inclusivo-para-infecciones-de-transmision-sexual-en-quito.html "¿Cómo funciona un centro de salud inclusivo para  Infecciones de Transmisión Sexual en Quito?")
-* [Repunte de Infecciones de Transmisión Sexual en Ecuador ¿Por qué hay más casos en mujeres?](https://www.elcomercio.com/tendencias/salud/repunte-de-infecciones-de-transmision-sexual-en-ecuador-por-que-hay-mas-casos-en-mujeres.html "Repunte de Infecciones de Transmisión Sexual en Ecuador ¿Por qué hay más casos en mujeres?")
-
-Estos centros de tipo **A, B y C** operan en el primer nivel de atención (**primaria**). Están enfocados en la prevención y promoción de servicios **gratuitos** y **confidenciales**.  
-
-Tipo de servicios disponibles
------------------------------
-
-Los interesados pueden acceder a **tamizajes** para detectar ITS como **VIH, sífilis y hepatitis**. Según los registros del [MSP](https://salud.gob.ec/ "https://salud.gob.ec/"), en 2018 se realizaron 1,3 millones de tamizajes, mientras que en 2023, el número cayó a 722 961. Es el más bajo de los últimos seis años. También se ofrece auto tests para VIH.
-
-Por otra parte, entre los métodos de prevención disponibles están preservativos, lubricantes a base de agua. Además, quienes salen negativos al VIH y están expuestos al virus pueden acceder a la **PrEP**. Se trata de un medicamento que se toma a diario y que previene la transmisión del VIH. 
-
-Para casos de emergencia en los que hay exposición al virus también se puede acceder a la **PEP**, que son medicamentos para tomar de inmediato. 
-
-Los pacientes, adicionalmente, cuentan con vacunas contra hepatitis A y B, así como el Virus del Papiloma Humano. Es importante que los pacientes diagnosticados también acudan a controles periódicos.
-
-La atención se realiza de manera intra como extramural. La intramural se lleva a cabo dentro de las instalaciones del centro durante su horario habitual, que es de **07:00 a 16:00**. La atención extramural se extiende a la comunidad. Se lleva los servicios a espacios no tradicionales, facilitando el acceso a quienes viven en áreas remotas o con dificultades para llegar a un centro de salud.
-
-Este enfoque integral busca tratar las ITS, pero también educar y empoderar a la población sobre su salud sexual. Las intervenciones comunitarias permiten a los profesionales de la salud acercarse a grupos vulnerables. El fin es promover un ambiente donde los pacientes puedan atenderse sin temor al juicio.
-
-El COMERCIO desarrolló este mapa interactivo que muestra la ubicación exacta de los 19 centros a nivel nacional. La idea es que busques el más cercano y acudan por atención o simplemente para educarte sobre cómo prevenir las ITS. 
-
-Cartas a Quito / 1 de noviembre de 2024
-=======================================
-
-Estas son las cartas a Quito de este viernes 1 de noviembre de 2024
--------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Rutinas del pensamiento para aprender
--------------------------------------
-
-La activación del pensamiento en nuestros estudiantes es esencial para formar ciudadanos críticos y comprometidos. Las rutinas de pensamiento son herramientas que nos permiten lograr este objetivo, fomentando un aprendizaje activo y significativo en el aula.
-
-Las rutinas de pensamiento son estrategias que estimulan la curiosidad y el análisis. Al implementarlas, los alumnos no solo memorizan información, sino que aprenden a cuestionar, reflexionar y conectar conceptos. Esto transforma el aula en un espacio dinámico donde cada voz cuenta.
-
-Por ejemplo, al utilizar la rutina “Veo-Pienso-Me pregunto”, los estudiantes observan un fenómeno, expresan sus pensamientos y generan preguntas. Este proceso activa su curiosidad natural y les permite explorar más allá de lo evidente. Así, se convierten en protagonistas de su propio aprendizaje.
-
-Además, estas rutinas promueven la colaboración entre compañeros. Al trabajar en grupo, los estudiantes comparten ideas y construyen conocimiento de manera conjunta. Este intercambio enriquece su aprendizaje y fomenta habilidades sociales esenciales para su desarrollo integral.
-
-Implementar rutinas de pensamiento también ayuda a los docentes a identificar las necesidades e intereses de sus estudiantes. Al observar cómo piensan y qué preguntas hacen, podemos adaptar nuestras enseñanzas para que sean más relevantes y significativas.
-
-Es importante recordar que activar el pensamiento no es solo responsabilidad del docente; los estudiantes deben comprometerse a participar activamente. Fomentar un ambiente donde se sientan seguros para expresar sus ideas es clave para el éxito de estas rutinas.
-
-En conclusión, las rutinas de pensamiento son una herramienta poderosa que transforma la educación. Al activarlas en el aula, no solo mejoramos el aprendizaje académico, sino que también preparamos a nuestros estudiantes para enfrentar los desafíos del mundo actual con confianza y creatividad.
-
-Roberto Camana-Fiallos
-
-¿Qué hacer para prevenir un robo y en caso de que ocurra?
-=========================================================
-
-Los robos a personas lideran estadísticas. Hay pasos que contemplar.
---------------------------------------------------------------------
-
-![Imagen referencial de delito contra una persona.](https://www.elcomercio.com/wp-content/uploads/2024/10/robo-a-personas.jpg)
-
-El robo a personas lidera la estadística de la categoría de delito. Así lo reflejan los datos de la **Fiscalía General del Estado**. La Policía da recomendaciones que, además, se pueden aplicar en el **feriado de Difuntos** e Independencia de Cuenca.
-
-La analítica de la entidad de justicia, entre el 1 de enero de 2023 y el 30 de septiembre de 2024, suman **127 871**.
-
-### Más noticias
-
-* [Barrios de Quito se organizan contra la inseguridad por cortes de luz](https://www.elcomercio.com/actualidad/quito/seguridad-barrios-quitocortes-luz.html "Barrios de Quito se organizan contra la inseguridad por cortes de luz")
-* [Recomendaciones para conducir de noche con cortes de luz en Quito](https://www.elcomercio.com/actualidad/quito/cortes-luz-conducir-noche-quito-recomendaciones.html "Recomendaciones para conducir de noche con cortes de luz en Quito")
-* [En casa o en la calle siga estos tips de seguridad por los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/consejos-seguridad-para-contemplar-durante-cortes-luz.html "En casa o en la calle siga estos tips de seguridad por los cortes de luz")
-
-> CONOCE EL DESPLIEGUE OPERATIVO 👇[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) se encuentra a escala nacional para garantizar la seguridad ciudadana y el orden público antes, durante y después del [#FeriadoNoviembre2024](https://twitter.com/hashtag/FeriadoNoviembre2024?src=hash&ref_src=twsrc%5Etfw).[#NuestraMisiónSigueIntacta](https://twitter.com/hashtag/NuestraMisi%C3%B3nSigueIntacta?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/21Iv9Vhq14](https://t.co/21Iv9Vhq14)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [October 31, 2024](https://twitter.com/PoliciaEcuador/status/1852028465085628717?ref_src=twsrc%5Etfw)
-
-Robos a personas y el contexto
-------------------------------
-
-La mayoría de casos se registró de lunes a viernes, en las tardes, con un **32,8%**. A las horas críticas, se sumaron las noches de los viernes. En ese período, la provincia de **Guayas** lideró.
-
-En lo que se refiere a meses, en 2024, mayo fue en el que hubo más casos registrados en la Fiscalía, con **2367 robos a personas**.
-
-Los pasos para la prevención
-----------------------------
-
-Desde la **[Policía Nacional](https://www.policia.gob.ec/)** dan directrices para prevenir los robos a personas. Uno de los pasos fundamentales es evitar el retiro de grandes sumas de dinero y el trasladarlo sin resguardo policial.
-
-Las personas pueden pedir la custodia de uniformados. Aunque, de ser posible, es recomendable hacer **transacciones en línea**.
-
-De igual forma, a la hora de hacer retiros, ya sea en un **cajero o en ventanilla**, no se debe aceptar ayuda de desconocidos.
-
-La **Policía**, además, recomienda usar taxis o servicios de transporte que sean oficiales, legalizados y, si es posible, compartir la ubicación en tiempo real a alguien de confianza.
-
-> ☎️LÍNEA ANÓNIMA  
->   
-> No dudes en contactarnos si tienes información sobre actos de corrupción, tu identidad se mantendrá en secreto.  
->   
-> ¡Juntos, luchemos contra la corrupción![#DenunciaAnónima](https://twitter.com/hashtag/DenunciaAn%C3%B3nima?src=hash&ref_src=twsrc%5Etfw)[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/8x6ZJ9j0FC](https://t.co/8x6ZJ9j0FC)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [October 30, 2024](https://twitter.com/PoliciaEcuador/status/1851670839902503316?ref_src=twsrc%5Etfw)
-
-En las calles
--------------
-
-Es crucial no exhibir pertenencias, como **teléfonos**. A la par, mantenerse alerta sobre lo que sucede en el entorno, sobre todo, en zonas solitarias o con poca iluminación.
-
-Cuando se transite en la noche es mejor hacerlo por **áreas iluminadas y transitadas**, así como evitar el tránsito por las zonas desoladas.
-
-* **Variar las rutas y horarios**
-* En el caso de sentir que alguien le sigue o hay algo extraño en el ambiente, buscar un lugar seguro, una **UPC cercana**, tienda o un sitio con vigilancia.
-
-¿Qué hacer en caso de un robo?
-------------------------------
-
-Si el **robo** se concreta, hay que tomar en cuenta algunos pasos para cuidar la integridad y la vida. La Policía detalló que durante el hecho es mejor no confrontar al delincuente, especialmente, si está armado.
-
-No realizar movimientos bruscos. Los **delincuentes** suelen estar nerviosos, por lo que alguna maniobra podría aumentar el riesgo de violencia.
-
-En la medida de lo posible, para efectos de las pericias, se debe observar detalles como rasgos físicos del autor: altura, color de **piel, vestimenta, tatuajes**. No intentar perseguir al delincuente
-
-Después del robo
-----------------
-
-Si el robo se concretó se debe contactar a la **Policía** a través del **911** o, en caso de no poder por esa vía, acudir a la **Unidad de Policía Comunitaria (UPC)** más cercana.
-
-Proporcionar la información que pueda ser útil para alertar a las unidades del sector y para el proceso investigativo.
-
-Si el robo fue en una casa, lugar cerrado o un vehículo, se debe dejar todo intacto hasta que llegue la Policía.
-
-Robos de equipos y documentos
------------------------------
-
-Si el robo fue del **celular o computadora**, se deben bloquear cuentas y los dispositivos. En el caso de que tenga algún sistema de rastreo, activarlo de manera inmediata.
-
-Si el **delincuente** se lleva tarjetas de **crédito o débito**, hay que contactar al banco de forma inmediata para bloquearlas y evitar su uso fraudulento.
-
-De ser documentos, como **cédula, licencia de conducir, pasaporte**, realizar la denuncia en la Fiscalía para evitar la duplicidad de los documentos y mal uso.
-
-Eso sí, en cualquier caso, es fundamental presentar una denuncia formal en la Fiscalía, para dar paso a la investigación y a una posible sanción al **autor del delito**.
-
-Racing clasificó a una final sudamericana luego de 32 años
-==========================================================
-
-Racing jugará la final de la Copa Sudamericana contra Cruzeiro en Asunción, Paraguay.
--------------------------------------------------------------------------------------
-
-![Juan Fernando Quintero de Racing celebra un gol ante Corinthians en un partido de las semifinales de la Copa Sudamericana entre Racing y Corinthians.](https://www.elcomercio.com/wp-content/uploads/2024/10/racing_1.jpg)
-
-**Racing Club de Avellaneda** volverá a jugar una final de un torneo organizado por la Conmebol luego de 32 largos años de larga espera, de la mano de Gustavo Costas, histórico jugador y entrenador de los argentinos.
-
-La noche de este **jueves 31 de octubre de 2024**, Racing venció 2-1 al brasileño Corinthians en un repleto Cilindro de Avellaneda, en el partido de vuelta de las semifinales de la Copa Sudamericana.
-
-### Más noticias:
-
-* [Liga de Quito, a cuatro partidos de una nueva final en la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-a-cuatro-partidos-de-una-nueva-final-en-la-liga-pro.html "Liga de Quito, a cuatro partidos de una nueva final en la Liga Pro")
-* [(Video) Enner Valencia cumplió su promesa a una pequeña fanática en Brasil](https://www.elcomercio.com/deportes/futbol/enner-valencia-cumplio-promesa-pequena-fanatica-en-brasil.html "(Video) Enner Valencia cumplió su promesa a una pequeña fanática en Brasil")
-* [Un jugador clave de Ecuador se lesionó y peligra su convocatoria](https://www.elcomercio.com/deportes/futbol/jugador-clave-de-ecuador-se-lesiono-peligra-convocatoria-angelo-preciado.html "Un jugador clave de Ecuador se lesionó y peligra su convocatoria")
-
-El jueves 24 la ‘Academia’ argentina dio el primer paso para conseguir esta clasificación. **Empató 2-2 en el Neo Química Arena** de Sao Paulo, estadio que sirvió para inaugurar la Copa del Mundo de Brasil en el 2014.
-
-Yuri Alberto anotó los dos tantos de los locales, mientras que **Maximiliano Salas y Gastón Martirena** anotó para la visita, con lo que abrió las puertas para arribar a una final luego de 32 años de no conseguirlo.
-
-La revancha arrancó con una **espectacular bienvenida de los hinchas a Racing**, con cientos de juegos pirotécnicos que inundaron el estadio y pusieron el ambiente de fiesta y desbordada algarabía que se vivió en la última semana en Avellaneda.
-
-En el partidos, nuevamente Yuri Alberto anotó y puso el 0-1 para Corinthians a los 6 minutos del PT.
-
-Si embargo, los locales reaccionaron con el **colombiano Juan Fernando Quintero** como la gran figura de la noche, al anota un doblete en tan solo tres minutos, con un penal incluido, que selló el partido y la serie para Racing.
-
-El ecuatoriano **Félix Torres jugó los 90 minutos** en Corinthians. Recibió una tarjeta amarilla a los nueve minutos de iniciado el juego.
-
-La final contra Cruzeiro está programada para el sábado 23 de noviembre, en el estadio General Pablo Rojas de Asunción, Paraguay, conocido popularmente como La Nueva Olla.
-
-![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/10/racing_2-1024x683.jpg)
-
-Foto: EFE.
-
-Racing corto una larga racha
-----------------------------
-
-Gustavo Costas, exentrenador y **campeón de Ecuador con Barcelona Sporting Club en el 2012**, cortó una racha negativa de 32 años en los que no llegaba a una final de un torneo continental.
-
-El 25 de noviembre de 1992 disputó la final de vuelta de la Supercopa Sudamericana contra **Cruzeiro en su estadio. La ganó 1-0 con un tanto de Claudio Omar García**, pero no le sirvió para levantar la copa, porque una semana antes habían perdido 4-0 en el Belo Horizonte.
-
-Costas fue parte de ese plantel, en donde destacaban **Carlos Roa, mundialista con Argentina en Francia  
-1998**; Rubén Walter Paz, mundialista con Uruguay en México 1986 e Italia 1990; y Darío Cabrol, jugador  
-que defendió la camiseta de Emelec en el 2003.
-
-En 1998, **con Costas como uno de los capitanes**, Racing había ganado el referido trofeo al propio Cruzeiro con un marcador global de 3-2. Ese fue el último título internacional de los de Avellaneda a escala global.
-
-Ubaldo Fillol, campeón del mundo con Argentina en 1978; fue parte de ese plantel en el que también constaban otros nombres como los de **Néstor Fabri, Walter Fernández y Alfio Basile** como entrenador, levantaron la copa.
-
-La Copa Libertadores y la Copa Intercontinental de 1967, son los otros dos títulos internacionales de los argentinos.
-
-![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/10/racing_3-1024x683.jpg)
-
-Foto: EFE.
-
-San viernes – Especial de Halloween
------------------------------------
