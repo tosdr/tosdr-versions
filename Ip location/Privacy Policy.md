@@ -143,7 +143,7 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 * [Online Resources (11)](https://www.iplocation.net/blog/category/online-resources)
 * [Online Tools (67)](https://www.iplocation.net/blog/category/online-tools)
 * [Privacy (125)](https://www.iplocation.net/blog/category/privacy)
-* [Virtual Private Network (87)](https://www.iplocation.net/blog/category/vpn)
+* [Virtual Private Network (88)](https://www.iplocation.net/blog/category/vpn)
 * [Proxy (47)](https://www.iplocation.net/blog/category/proxy)
 * [Real Estate (6)](https://www.iplocation.net/blog/category/real-estate)
 * [Scams & Frauds (16)](https://www.iplocation.net/blog/category/scams-frauds)
