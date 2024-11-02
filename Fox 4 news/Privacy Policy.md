@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Orlando mass shooting live updates: 2 dead, 7 hurt in Halloween shooting; teen detained: officials](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/11/32/18/orlando-halloween-shooting.png?ve=1&tl=1)
+ [![Texas hospitals now required to ask about patients' citizenship](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/11/32/18/GettyImages-1386927656.jpg?ve=1&tl=1)
 
- ![Orlando mass shooting live updates: 2 dead, 7 hurt in Halloween shooting; teen detained: officials](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/11/32/18/592/333/orlando-halloween-shooting.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/downtown-orlando-shooting-under-investigation-police-say)
+ ![Texas hospitals now required to ask about patients' citizenship](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/11/32/18/592/333/GettyImages-1386927656.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-hospitals-now-required-ask-about-patients-citizenship)
 
-### [Orlando mass shooting live updates: 2 dead, 7 hurt in Halloween shooting; teen detained: officials](https://www.fox4news.com/news/downtown-orlando-shooting-under-investigation-police-say)
+### [Texas hospitals now required to ask about patients' citizenship](https://www.fox4news.com/news/texas-hospitals-now-required-ask-about-patients-citizenship)
 
- [![Three South Texas races could help determine control of the US House](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/32/18/US-Capitol-building1.jpg?ve=1&tl=1)
+ [![Police chase ends after suspect front flips over fence](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/snapshot-2024-11-01t175025.303.jpg?ve=1&tl=1)
 
- ![Three South Texas races could help determine control of the US House](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/32/18/592/333/US-Capitol-building1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/three-south-texas-races-could-help-determine-control-us-house)
+ ![Police chase ends after suspect front flips over fence](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/snapshot-2024-11-01t175025.303.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/police-chase-tarrant-county)
 
-### [Three South Texas races could help determine control of the US House](https://www.fox4news.com/election/three-south-texas-races-could-help-determine-control-us-house)
+### [Police chase ends after suspect front flips over fence](https://www.fox4news.com/news/police-chase-tarrant-county)
 
- [![3 dead, 7 hurt in Halloween night crash on U.S. 75 in Richardson](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v_us_75_at_renner_fiery_crash__mxf_00.00.28.52.jpg?ve=1&tl=1)
+ [![Moms offering free clothing to open Fort Worth storefront](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/110124-kst-fort-worth-community-closet_kdfwfd94_18_00.07.45.56.jpg?ve=1&tl=1)
 
- ![3 dead, 7 hurt in Halloween night crash on U.S. 75 in Richardson](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v_us_75_at_renner_fiery_crash__mxf_00.00.28.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/deadly-halloween-night-crash-shuts-down-all-southbound-lanes-u-s-75)
+ ![Moms offering free clothing to open Fort Worth storefront](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/110124-kst-fort-worth-community-closet_kdfwfd94_18_00.07.45.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-community-collaborative-closet)
 
-### [3 dead, 7 hurt in Halloween night crash on U.S. 75 in Richardson](https://www.fox4news.com/news/deadly-halloween-night-crash-shuts-down-all-southbound-lanes-u-s-75)
+### [Moms offering free clothing to open Fort Worth storefront](https://www.fox4news.com/news/fort-worth-community-collaborative-closet)
 
- [![13 Lewisville officers disciplined after 'inappropriate contact' during prostitution busts](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/08/32/18/bl3.jpg?ve=1&tl=1)
+ [![Fall back: Daylight saving time ends this weekend for most of US](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1247822909-scaled.jpg?ve=1&tl=1)
 
- ![13 Lewisville officers disciplined after 'inappropriate contact' during prostitution busts](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/08/32/18/592/333/bl3.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/13-lewisville-officers-disciplined-prostitution-busts)
+ ![Fall back: Daylight saving time ends this weekend for most of US](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1247822909-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fall-back-when-does-daylight-saving-time-end)
 
-### [13 Lewisville officers disciplined after 'inappropriate contact' during prostitution busts](https://www.fox4news.com/news/13-lewisville-officers-disciplined-prostitution-busts)
+### [Fall back: Daylight saving time ends this weekend for most of US](https://www.fox4news.com/news/fall-back-when-does-daylight-saving-time-end)
 
- [![How North Texas has voted in previous Senate elections](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/11/32/18/GettyImages-1210216546.jpg?ve=1&tl=1)
+ [![Plan to reduce Maple Avenue to 2 lanes has business owners, residents at odds](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/110124-pb-maple-avenue-traffic-dispute-vosot-brown_00.01.12.54.jpg?ve=1&tl=1)
 
- ![How North Texas has voted in previous Senate elections](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/11/32/18/592/333/GettyImages-1210216546.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/texas-senate-elections-history)
+ ![Plan to reduce Maple Avenue to 2 lanes has business owners, residents at odds](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/110124-pb-maple-avenue-traffic-dispute-vosot-brown_00.01.12.54.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/maple-avenue-lane-changes)
 
-### [How North Texas has voted in previous Senate elections](https://www.fox4news.com/election/texas-senate-elections-history)
+### [Plan to reduce Maple Avenue to 2 lanes has business owners, residents at odds](https://www.fox4news.com/news/maple-avenue-lane-changes)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
