@@ -210,6 +210,7 @@ You may reprint Acton Institute's writings online or in print as long as you pro
     * [Our Mission & Core Principles](https://www.acton.org/about/mission)
     * [Acton Grants and Awards](https://www.acton.org/awards)
     * [Acton Research](https://www.acton.org/research/about-acton-research)
+    * [Our Team](https://www.acton.org/about/our-team-old)
     * [Careers](https://www.acton.org/careers)
     * [Collins Center](https://www.acton.org/collinscenter)
     * [Internships](https://www.acton.org/internship-opportunities)
