@@ -205,50 +205,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Shaun Gartshore
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=5622395)  
-Salvage Genie
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=97987690)  
+Mountain Lion Properties
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=70971531)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=159120556)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=73585898)  
-United Paintball Federation
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=146221195)  
+Moving Made Easy (PTY) Ltd
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=143166008)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=116062610)  
+Immediate Health (pty)ltd
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=43327407)  
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=166121516)  
 Dr V Naik Consult
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=90024860)  
-Blue Bulls Rugby Coaches Association
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=140160615)  
+webb it services
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=79046092)  
-Konsortium Operations (PTY) LTD
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=99335092)  
+Frequency Fanatics (Pty) Ltd
 
-![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=129462953)  
-UniTech Solutions Pty Ltd
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=213799377)  
+Calonet
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=150135996)  
-Fox Alarms & Security
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=84455004)  
+Druce Digital
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=93203117)  
-Network Grey (Pty) Ltd
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=156425669)  
+MSPCloud (Pty) Ltd
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=144647997)  
-LEONARD
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=4712988)  
+VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=178440630)  
-Goju Ryu Karate Centre
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=29221500)  
+Desygn
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=32430415)  
-Abandoned Vehicle and Truck Solutions
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=60884246)  
+Salvage Genie
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=129296029)  
-VIR Electrical (PTY) LTD
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=115761580)  
+Peter Salvage Pty Ltd
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=37367438)  
-OXYAIDER (PTY) LTD
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=19726289)  
+MR Compressors& Industrial Supplies
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
