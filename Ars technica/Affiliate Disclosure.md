@@ -87,13 +87,13 @@ Most Read
     
     1. [What is happening with Boeing’s Starliner spacecraft?](https://arstechnica.com/space/2024/11/nearly-two-months-after-starliners-return-boeing-remains-mum-on-its-future/)
     
-2. 2. [A new dental scam is to pull healthy teeth to sell you expensive fake ones](https://arstechnica.com/health/2024/11/more-dentists-are-pulling-healthy-teeth-to-sell-pricy-implants-experts-warn/)
+2. 2. [Thousands of hacked TP-Link routers used in years-long account takeover attacks](https://arstechnica.com/information-technology/2024/11/microsoft-warns-of-8000-strong-botnet-used-in-password-spraying-attacks/)
     
-3. 3. [300 percent price hikes push disgruntled VMware customers toward Broadcom rivals](https://arstechnica.com/information-technology/2024/10/a-year-after-broadcoms-vmware-buy-customers-eye-exit-strategies/)
+3. 3. [A new dental scam is to pull healthy teeth to sell you expensive fake ones](https://arstechnica.com/health/2024/11/more-dentists-are-pulling-healthy-teeth-to-sell-pricy-implants-experts-warn/)
     
 4. 4. [Over 500 Amazon workers decry “non-data-driven” logic for 5-day RTO policy](https://arstechnica.com/tech-policy/2024/10/over-500-amazon-workers-decry-non-data-driven-logic-for-5-day-rto-policy/)
     
-5. 5. [Person accidentally poisoned 46 coworkers with toxin-loaded homemade lunch](https://arstechnica.com/health/2024/10/when-you-make-lunch-for-your-coworkers-and-accidentally-cause-a-mass-poisoning/)
+5. 5. [300 percent price hikes push disgruntled VMware customers toward Broadcom rivals](https://arstechnica.com/information-technology/2024/10/a-year-after-broadcoms-vmware-buy-customers-eye-exit-strategies/)
     
 
 Customize
