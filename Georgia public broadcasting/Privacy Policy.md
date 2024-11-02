@@ -275,20 +275,6 @@ Don't Miss:
 
   [![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-bright.svg) ![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-sky.svg)Donate](https://www.gpb.org/give-now "Donate to Georgia Public Broadcasting")
 
-![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live.svg)
-
-Carrollton at Douglas County - Kickoff At 7:30 P.M.
----------------------------------------------------
-
-[WATCH LIVE!](https://www.gpb.org/sports/football/match/2024/11/01/carrollton-at-douglas-county)
-
-![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live-grey.svg)
-
-Web Game Of The Week: Roswell at Milton - Kickoff at 7:30 P.M.
---------------------------------------------------------------
-
-[WATCH LIVE!](https://www.gpb.org/sports/football/match/2024/11/01/roswell-at-milton)
-
 Messages
 --------
 
