@@ -36,9 +36,8 @@ Navigation
         
     *  [![](https://media.tegna-media.com/assets/WQAD/images/9e8767ea-c5de-459f-a343-684e16583258/20241102T030337/9e8767ea-c5de-459f-a343-684e16583258_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9e8767ea-c5de-459f-a343-684e16583258/20241102T030337/9e8767ea-c5de-459f-a343-684e16583258_360x203.jpg)](https://www.wqad.com/article/news/local/project-renewal-50th-anniversary/526-0a7817ad-e6be-423c-be03-5ad894fafd72)
         
-        #### [Project Renewal celebrating its 50th anniversary and new expansion](https://www.wqad.com/article/news/local/project-renewal-50th-anniversary/526-0a7817ad-e6be-423c-be03-5ad894fafd72) [![](https://media.tegna-media.com/assets/WQAD/images/9e8767ea-c5de-459f-a343-684e16583258/20241102T030337/9e8767ea-c5de-459f-a343-684e16583258_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9e8767ea-c5de-459f-a343-684e16583258/20241102T030337/9e8767ea-c5de-459f-a343-684e16583258_360x203.jpg)](https://www.wqad.com/article/news/local/project-renewal-50th-anniversary/526-0a7817ad-e6be-423c-be03-5ad894fafd72)
+        #### [Project Renewal celebrating its 50th anniversary and new expansion](https://www.wqad.com/article/news/local/project-renewal-50th-anniversary/526-0a7817ad-e6be-423c-be03-5ad894fafd72)
         
-        #### [Davenport after-school program celebrating its 50th anniversary](https://www.wqad.com/article/news/local/project-renewal-50th-anniversary/526-0a7817ad-e6be-423c-be03-5ad894fafd72)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -87,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-38°
+35°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
