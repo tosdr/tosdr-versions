@@ -8,7 +8,7 @@ Hide table of contents sidebar
 
 Toggle site navigation sidebar
 
-[Weblate 5.8.2 documentation](https://docs.weblate.org/en/latest/index.html)
+[Weblate 5.9 documentation](https://docs.weblate.org/en/latest/index.html)
 
 Toggle Light / Dark / Auto color theme
 
@@ -16,7 +16,7 @@ Toggle table of contents sidebar
 
 [![Logo](../_static/logo-128.png)
 
-Weblate 5.8.2 documentation](https://docs.weblate.org/en/latest/index.html)
+Weblate 5.9 documentation](https://docs.weblate.org/en/latest/index.html)
 
   
 
@@ -59,7 +59,7 @@ User docs
     * [JSON files](https://docs.weblate.org/en/latest/formats/json.html)
     * [Laravel PHP strings](https://docs.weblate.org/en/latest/formats/laravel.html)
     * [Markdown files](https://docs.weblate.org/en/latest/formats/markdown.html)
-    * [mi18n lang files](https://docs.weblate.org/en/latest/formats/mi18n.html)
+    * [draggable/i18n lang files](https://docs.weblate.org/en/latest/formats/mi18n.html)
     * [Mobile Kotlin resources](https://docs.weblate.org/en/latest/formats/moko.html)
     * [OpenDocument Format](https://docs.weblate.org/en/latest/formats/odf.html)
     * [PHP strings](https://docs.weblate.org/en/latest/formats/php.html)
@@ -157,7 +157,8 @@ Contributor docs
 
 Change history
 
-* [Weblate 5.8.2](https://docs.weblate.org/en/latest/changes.html)
+* [Weblate 5.9](https://docs.weblate.org/en/latest/changes.html)
+* [Weblate 5.8.2](https://docs.weblate.org/en/latest/changes.html#weblate-5-8-2)
 * [Weblate 5.8.1](https://docs.weblate.org/en/latest/changes.html#weblate-5-8-1)
 * [Weblate 5.8](https://docs.weblate.org/en/latest/changes.html#weblate-5-8)
 * [Weblate 5.7.2](https://docs.weblate.org/en/latest/changes.html#weblate-5-7-2)
