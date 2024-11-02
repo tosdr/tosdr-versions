@@ -128,39 +128,39 @@ Advertisement
     Diary of a Porn Virgin
     
     Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
-* [![No-Go Zones: Seven Mile Road, Detroit, USA](/wp-content/thumbnails/16527-100x70.jpg?x53432)
+* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
     
-    No-Go Zones: Seven Mile Road, Detroit, USA
+    Louis Theroux: Drinking To Oblivion
     
-    Seven Mile Road located in Detroit is one of the most dangerous no-go zones in the United States. Those who live or dare to come here to visit are literally playing with their lives. It is a territor...](https://documentaryheaven.com/no-go-zones-seven-mile-road/ "No-Go Zones: Seven Mile Road, Detroit, USA")
+    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 
 ###### Throwback Documentaries
 
-* [![Drug Kings Of New York](/wp-content/thumbnails/7299-100x70.png?x53432)
+* [![Cari Hutan: In Search of Forest](/wp-content/thumbnails/6517-100x70.jpg?x53432)
     
-    Drug Kings Of New York
+    Cari Hutan: In Search of Forest
     
-    In New York City heroin use is on the rise, as a new generation of suburbanite dealers hooked on prescription pills switch to heroin, and venture down the Long Island Express-way dubbed the Heroin Hig](https://documentaryheaven.com/drug-kings-of-new-york/ "Drug Kings Of New York")
-* [![Architects & Engineers: Solving the Mystery of WTC 7](/wp-content/thumbnails/6029-100x70.jpg?x53432)
+    "Cari Hutan - In the Search of Forest". According to several Indonesian environmental NGOs (REDD-Monitor and WatchIndonesia) "Cari Hutan" might be the most informative, educative, yet thrilling and](https://documentaryheaven.com/cari-hutan-in-search-of-forest/ "Cari Hutan: In Search of Forest")
+* [![Police State 4: The Rise of FEMA](/wp-content/thumbnails/4543-100x70.jpg?x53432)
     
-    Architects & Engineers: Solving the Mystery of WTC 7
+    Police State 4: The Rise of FEMA
     
-    AE911Truth's new 9/11 documentary Solving the Mystery, the destruction of World Trade Center Building #7, WTC 7 on 9/11/01. Join actor, Ed Asner and Architect Richard Gage, AIA and Architects and Engi](https://documentaryheaven.com/architects-engineers-solving-the-mystery-of-wtc-7/ "Architects & Engineers: Solving the Mystery of WTC 7")
-* [![The Most Dangerous Man In America](/wp-content/thumbnails/5829-100x70.jpg?x53432)
+    The grim future foretold in 1984 has become reality. The United States is now recognized globally as one of the most oppressive police states on earth. And it’s only getting worse.This documentary](https://documentaryheaven.com/police-state-4-the-rise-of-fema/ "Police State 4: The Rise of FEMA")
+* [![The Original 50 Cent](/wp-content/thumbnails/8393-100x70.jpg?x53432)
     
-    The Most Dangerous Man In America
+    The Original 50 Cent
     
-    The Most Dangerous Man in America is the story of what happens when a former Pentagon insider, armed only with his conscience, steadfast determination, and a file cabinet full of classified documents,](https://documentaryheaven.com/the-most-dangerous-man-in-america/ "The Most Dangerous Man In America")
-* [![Banged Up Abroad: Scott and Lucy’s Story](/wp-content/thumbnails/2150-100x70.jpg?x53432)
+    This is the true life story of Kelvin "50 Cent" Martian the street legend who inspired the biggest name in rap, the original 50 Cent. The original 50 Cent was said to have terrorized the streets of Fo](https://documentaryheaven.com/original-50-cent/ "The Original 50 Cent")
+* [![Scientology And Me](/wp-content/thumbnails/822-100x70.png?x53432)
     
-    Banged Up Abroad: Scott and Lucy’s Story
+    Scientology And Me
     
-    This series tells the true stories that would be any traveller’s worst nightmare – when a holiday in paradise becomes a journey into hell that ends up in prison abroad.Through graphic dramatic rec](https://documentaryheaven.com/banged-up-abroad-scott-and-lucy%e2%80%99s-story/ "Banged Up Abroad: Scott and Lucy’s Story")
-* [![Deborah 13: Servant of God](/wp-content/thumbnails/5020-100x70.jpg?x53432)
+    John Sweeney investigates the Church of Scientology, endorsed by some major Hollywood celebrities, but which continues to face the criticism that it is less of a religion and more of a cult. Some form](https://documentaryheaven.com/scientology-and-me/ "Scientology And Me")
+* [![The Hawaiians: Warriors of Paradise](/wp-content/thumbnails/6682-100x70.png?x53432)
     
-    Deborah 13: Servant of God
+    The Hawaiians: Warriors of Paradise
     
-    A documentary about 13-year-old Deborah Drapper, who, unlike other British teens has never heard of Britney Spears or Victoria Beckham. She has been brought up in a deeply Christian family and her par](https://documentaryheaven.com/deborah-13-servant-of-god/ "Deborah 13: Servant of God")
+    A Discovery Channel documentary about the Hawaiian warriors and their founding of the Hawaiian kingdom.](https://documentaryheaven.com/the-hawaiians-warriors-of-paradise/ "The Hawaiians: Warriors of Paradise")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
