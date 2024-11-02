@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-dadcb6a8eaddf36bf6e6f3a321b0682d
+c7c9a9e32fc4f6cdae48957f42eb60c2
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Verdant necklace](https://sojourner.biz/images/cache/N0001verdant.200.jpg)](https://sojourner.biz/jewelry/necklaces/verdant-necklace.html "Verdant necklace")
+[![14 mm gray diamond and square pearls](https://sojourner.biz/images/cache/pearls/PE0118.200.jpg)](https://sojourner.biz/beads/pearls/14-mm-gray-diamond-and-square-pearls.html "14 mm gray diamond and square pearls")
 
-#### [Verdant necklace](https://sojourner.biz/jewelry/necklaces/verdant-necklace.html "Verdant necklace")
+#### [14 mm gray diamond and square pearls](https://sojourner.biz/beads/pearls/14-mm-gray-diamond-and-square-pearls.html "14 mm gray diamond and square pearls")
 
-$75.00
+$22.00
 
 ### Best Sellers
 
@@ -168,8 +168,8 @@ $75.00
     $26.00
 9. [Sterling silver tiny lily clasp](https://sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [Gray pearl toggle clasp](https://sojourner.biz/clasps/toggles/gray-pearl-toggle-clasp.html "Gray pearl toggle clasp")  
-    $28.00
+10. [Turquoise bar toggle clasp](https://sojourner.biz/clasps/toggles/turquoise-bar-toggle-clasp.html "Turquoise bar toggle clasp")  
+    $13.50
 
 [Top](#)
 
