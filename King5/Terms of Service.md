@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/222a3fa3-ff70-4ce2-a356-d32d1b457adb/20241102T021719/222a3fa3-ff70-4ce2-a356-d32d1b457adb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/222a3fa3-ff70-4ce2-a356-d32d1b457adb/20241102T021719/222a3fa3-ff70-4ce2-a356-d32d1b457adb_360x203.jpg)](https://www.king5.com/article/news/politics/elections/candidates-pierce-county-executive-discuss-issues-priorities/281-4ace9e30-b92e-4fb5-be1c-cf30fb525d15)
+    *  [![](https://media.king5.com/assets/KING/images/da7689b4-bdca-4f84-9ba9-a095f8347bf9/20241102T050213/da7689b4-bdca-4f84-9ba9-a095f8347bf9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/da7689b4-bdca-4f84-9ba9-a095f8347bf9/20241102T050213/da7689b4-bdca-4f84-9ba9-a095f8347bf9_360x203.jpg)](https://www.king5.com/article/news/local/military-vets-asked-to-leave-orting-rv-park-winter-nears/281-4e2e39cd-8fec-496c-a8bd-7a83652025f6)
         
-        #### [Candidates for Pierce County executive discuss issues and priorities](https://www.king5.com/article/news/politics/elections/candidates-pierce-county-executive-discuss-issues-priorities/281-4ace9e30-b92e-4fb5-be1c-cf30fb525d15)
+        #### [Military vets asked to leave Orting RV park as winter nears](https://www.king5.com/article/news/local/military-vets-asked-to-leave-orting-rv-park-winter-nears/281-4e2e39cd-8fec-496c-a8bd-7a83652025f6)
         
-    *  [![](https://media.king5.com/assets/KING/images/a8db8538-4a74-4fe2-b903-3df9ac2e8c00/a8db8538-4a74-4fe2-b903-3df9ac2e8c00_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a8db8538-4a74-4fe2-b903-3df9ac2e8c00/a8db8538-4a74-4fe2-b903-3df9ac2e8c00_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-warning-advisory-cascade-snow/281-a2f49c46-65ba-4ba9-b284-13e4bc420412)
+    *  [![](https://media.king5.com/assets/KING/images/4825602d-0fdb-4b71-a841-0abd55566ab4/20241028T134035/4825602d-0fdb-4b71-a841-0abd55566ab4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4825602d-0fdb-4b71-a841-0abd55566ab4/20241028T134035/4825602d-0fdb-4b71-a841-0abd55566ab4_360x203.jpg)](https://www.king5.com/article/news/crime/fall-city-suspect-private-attorney/281-929f421a-b228-4a7b-9d70-10182f45ba2d)
         
-        #### [Here's how much snow is expected in the Cascades Friday](https://www.king5.com/article/weather/weather-blog/winter-storm-warning-advisory-cascade-snow/281-a2f49c46-65ba-4ba9-b284-13e4bc420412)
+        #### [15-year-old accused of killing 5 family members in Fall City gets private representation](https://www.king5.com/article/news/crime/fall-city-suspect-private-attorney/281-929f421a-b228-4a7b-9d70-10182f45ba2d)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/f7e4fdda-685e-48de-a9e4-d9559a955be1/20241102T052651/f7e4fdda-685e-48de-a9e4-d9559a955be1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f7e4fdda-685e-48de-a9e4-d9559a955be1/20241102T052651/f7e4fdda-685e-48de-a9e4-d9559a955be1_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
     *  [![](https://media.king5.com/assets/KING/images/a8db8538-4a74-4fe2-b903-3df9ac2e8c00/a8db8538-4a74-4fe2-b903-3df9ac2e8c00_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a8db8538-4a74-4fe2-b903-3df9ac2e8c00/a8db8538-4a74-4fe2-b903-3df9ac2e8c00_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-warning-advisory-cascade-snow/281-a2f49c46-65ba-4ba9-b284-13e4bc420412)
         
         #### [Here's how much snow is expected in the Cascades Friday](https://www.king5.com/article/weather/weather-blog/winter-storm-warning-advisory-cascade-snow/281-a2f49c46-65ba-4ba9-b284-13e4bc420412)
-        
-    *  [![](https://media.king5.com/assets/KING/images/7a38ab43-4cfa-4e10-b25f-e243f69db908/20241101T120510/7a38ab43-4cfa-4e10-b25f-e243f69db908_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7a38ab43-4cfa-4e10-b25f-e243f69db908/20241101T120510/7a38ab43-4cfa-4e10-b25f-e243f69db908_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -96,7 +96,7 @@ Seattle, WA »
 
 51°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
