@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Richie Rich gets Richer](/wp-content/thumbnails/7668-100x70.jpg?x53432)
+* [![Marc Dutroux – The Monster of Belgium](/wp-content/thumbnails/4605-100x70.jpg?x53432)
     
-    Richie Rich gets Richer
+    Marc Dutroux – The Monster of Belgium
     
-    As countries like Greece and Spain struggle under huge debts that are impoverishing its people, the elites around the world are getting richer and richer. This documentary looks at the ever widening g](https://documentaryheaven.com/richie-rich-gets-richer/ "Richie Rich gets Richer")
-* [![The Secret World of Gold](/wp-content/thumbnails/9476-100x70.jpg?x53432)
+    Marc Dutroux (born 6 November 1956 in Brussels) is one of the sickest human beings ever born. He is a Belgian criminal, convicted of having, in 1995 and 1996, kidnapped, tortured and sexually abused s](https://documentaryheaven.com/the-monster-of-belgium/ "Marc Dutroux – The Monster of Belgium")
+* [![Affluenza](/wp-content/thumbnails/592-100x70.png?x53432)
     
-    The Secret World of Gold
+    Affluenza
     
-    Billions of years ago the Earth passed through an exploding star and was showered in molten gold. The Inca's called gold the sweat of the Sun and told their stories with it. The Egyptians saw it as th](https://documentaryheaven.com/secret-world-of-gold/ "The Secret World of Gold")
-* [![Toe Tag Parole: To Live and Die on Yard A](/wp-content/thumbnails/10464-100x70.jpg?x53432)
+    Through revealing personal stories, expert commentary, hilarious old film clips, dramatized vignettes, and "anti-commercial" breaks, Affluenza examines the high cost of achieving the most extravagant](https://documentaryheaven.com/affluenza/ "Affluenza")
+* [![The Hacker Wars](/wp-content/thumbnails/9835-100x70.jpg?x53432)
     
-    Toe Tag Parole: To Live and Die on Yard A
+    The Hacker Wars
     
-    Many people think that serving a life sentence in jail is much better than the death sentence. This is probably true, seeing as you hold on to your life and you get to live to see your family every so](https://documentaryheaven.com/toe-tag-parole/ "Toe Tag Parole: To Live and Die on Yard A")
-* [![The End of Memory?](/wp-content/thumbnails/13685-100x70.jpg?x53432)
+    Ripped from international headlines, The Hacker Wars takes us directly to the front lines of the battle for the fate of the Internet, freedom and privacy. The film itself tells us the story of an anar](https://documentaryheaven.com/hacker-wars/ "The Hacker Wars")
+* [![The Rich Kids Of Instagram](/wp-content/thumbnails/11931-100x70.jpg?x53432)
     
-    The End of Memory?
+    The Rich Kids Of Instagram
     
-    Memory is an essential issue for our society and for every one of us. Up to now, various media have been used to store our memories in a wealth of information. The average life expectancy of an i](https://documentaryheaven.com/end-of-memory/ "The End of Memory?")
-* [![Gordon Ramsay on Cocaine](/wp-content/thumbnails/14001-100x70.jpg?x53432)
+    With the rise of Instagram we saw the worlds richest 1% of people gain a means to show off their jet-setting lifestyles to the remaining 99% of us. This being said Instagram now gets roughly 70 millio](https://documentaryheaven.com/rich-kids-of-instagram/ "The Rich Kids Of Instagram")
+* [![Children Full of Life](/wp-content/thumbnails/2648-100x70.jpg?x53432)
     
-    Gordon Ramsay on Cocaine
+    Children Full of Life
     
-    Cocaine is everywhere and celebrity chief Gordon Ramsey is no stranger to the illegal substance, he has had many encounters with it throughout his life and career, stating that he has been served it,](https://documentaryheaven.com/gordon-ramsay-cocaine/ "Gordon Ramsay on Cocaine")
+    This is a very moving award-winning documentary from Japan NHK which follows the life of a class of 10 year old students through an academic year in which they learn more about the realities of life a](https://documentaryheaven.com/full-of-life/ "Children Full of Life")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
