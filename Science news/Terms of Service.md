@@ -91,13 +91,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Why finding bird flu in a U.S. pig for the first time is raising new worries](https://www.sciencenews.org/article/influenza-pig-bird-flu-us)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")19 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")November 1, 2024
             
         * [Psychology](https://www.sciencenews.org/topic/psychology)
             
             ### [Smiles tweaked by AI can boost attraction, a speed-dating study shows](https://www.sciencenews.org/article/smiles-ai-attraction-speed-dating)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")22 hours ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")November 1, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Why finding bird flu in a U.S. pig for the first time is raising new worries](https://www.sciencenews.org/article/influenza-pig-bird-flu-us)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")19 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")November 1, 2024
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
