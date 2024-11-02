@@ -259,12 +259,12 @@ Advertise with Us
 
 Most Popular
 
-[![RIP: Tragic Irish man miraculously saves five lives after dying in Spain assault](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "RIP: Tragic Irish man miraculously saves five lives after dying in Spain assault")](https://www.derrynow.com/news/national-news/1644947/rip-tragic-irish-man-miraculously-saves-five-lives-after-dying-in-spain-assault.html)
+[![PICTURES: GAA stars and partners dazzle on red carpet at glamorous 2024 All-Star awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: GAA stars and partners dazzle on red carpet at glamorous 2024 All-Star awards")](https://www.derrynow.com/news/national-news/1645727/pictures-gaa-stars-and-partners-dazzle-on-red-carpet-at-glamorous-2024-all-star-awards.html)
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[RIP: Tragic Irish man miraculously saves five lives after dying in Spain assault](https://www.derrynow.com/news/national-news/1644947/rip-tragic-irish-man-miraculously-saves-five-lives-after-dying-in-spain-assault.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PICTURES: GAA stars and partners dazzle on red carpet at glamorous 2024 All-Star awards](https://www.derrynow.com/news/national-news/1645727/pictures-gaa-stars-and-partners-dazzle-on-red-carpet-at-glamorous-2024-all-star-awards.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Derry thronged for finale of Europe’s biggest Halloween celebration](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry thronged for finale of Europe’s biggest Halloween celebration")](https://www.derrynow.com/story-telling/pictures---videos/1645082/in-pictures-derry-thronged-for-finale-of-europes-biggest-halloween-celebration.html)
 
@@ -282,22 +282,6 @@ Kaci McConnell-Doherty with her British Championship
 [Derry girl crowned British National Open Champion in Irish dancing](https://www.derrynow.com/news/derry-news/1645036/derry-girl-crowned-british-national-open-champion-in-irish-dancing.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry woman charged with causing grievious bodily injury by careless driving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman charged with causing grievious bodily injury by careless driving")](https://www.derrynow.com/news/local-news/1644946/derry-woman-charged-with-causing-grievious-bodily-injury-by-careless-driving.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry woman charged with causing grievious bodily injury by careless driving](https://www.derrynow.com/news/local-news/1644946/derry-woman-charged-with-causing-grievious-bodily-injury-by-careless-driving.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man charged in connection with find of £27,000 worth of cocaine](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged in connection with find of £27,000 worth of cocaine")](https://www.derrynow.com/news/local-news/1645068/man-charged-in-connection-with-find-of-27-000-worth-of-cocaine.html)
-
-Derry Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man charged in connection with find of £27,000 worth of cocaine](https://www.derrynow.com/news/local-news/1645068/man-charged-in-connection-with-find-of-27-000-worth-of-cocaine.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Andy Brett on the podium of the World Championships](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Andy Brett on the podium of the World Championships")](https://www.derrynow.com/news/derry-sport/1645157/derry-brothers-dominate-at-world-karate-and-kickboxing-championships.html)
 
 Andy Brett on the podium of the World Championships
@@ -307,37 +291,49 @@ Andy Brett on the podium of the World Championships
 [Derry Brothers Dominate at World Karate and Kickboxing Championships](https://www.derrynow.com/news/derry-sport/1645157/derry-brothers-dominate-at-world-karate-and-kickboxing-championships.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man (31) to appear before court this morning charged with drug-related offences following search in Eglinton](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (31) to appear before court this morning charged with drug-related offences following search in Eglinton")](https://www.derrynow.com/news/home/1644861/man-31-to-appear-before-court-this-morning-charged-with-drug-related-offences-following-search-in-eglinton.html)
-
-The man is due to appear before Derry Magistrate's Court this morning.
+[![Police deal with disorder following Derry City's clash with Shelbourne](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police deal with disorder following Derry City's clash with Shelbourne")](https://www.derrynow.com/news/local-news/1645694/police-deal-with-disorder-following-derry-city-s-clash-with-shelbourne.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man (31) to appear before court this morning charged with drug-related offences following search in Eglinton](https://www.derrynow.com/news/home/1644861/man-31-to-appear-before-court-this-morning-charged-with-drug-related-offences-following-search-in-eglinton.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Police deal with disorder following Derry City's clash with Shelbourne](https://www.derrynow.com/news/local-news/1645694/police-deal-with-disorder-following-derry-city-s-clash-with-shelbourne.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Community service for Derry man charged with assault causing actual bodily harm](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Community service for Derry man charged with assault causing actual bodily harm")](https://www.derrynow.com/news/crime---courts/1645067/community-service-for-derry-man-charged-with-assault-causing-actual-bodily-harm.html)
+[![IN PICTURES: NWRC Higher Education and Access graduation ceremony in Derry's Millennium Forum](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: NWRC Higher Education and Access graduation ceremony in Derry's Millennium Forum")](https://www.derrynow.com/story-telling/pictures---videos/1645624/in-pictures-nwrc-higher-education-and-access-graduation-ceremony-in-derry-s-millennium-forum.html)
 
-[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Community service for Derry man charged with assault causing actual bodily harm](https://www.derrynow.com/news/crime---courts/1645067/community-service-for-derry-man-charged-with-assault-causing-actual-bodily-harm.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: NWRC Higher Education and Access graduation ceremony in Derry's Millennium Forum](https://www.derrynow.com/story-telling/pictures---videos/1645624/in-pictures-nwrc-higher-education-and-access-graduation-ceremony-in-derry-s-millennium-forum.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Community service 'was not a chain gang' judge tells Derry man](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Community service 'was not a chain gang' judge tells Derry man")](https://www.derrynow.com/news/crime---courts/1645070/community-service-was-not-a-chain-gang-judge-tells-derry-man.html)
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1645556/derry-death-notices-saturday-november-2-2024.html)
 
-[Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Community service 'was not a chain gang' judge tells Derry man](https://www.derrynow.com/news/crime---courts/1645070/community-service-was-not-a-chain-gang-judge-tells-derry-man.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Saturday, November 2, 2024](https://www.derrynow.com/news/deaths/1645556/derry-death-notices-saturday-november-2-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Former Derry Police Officer announced as New Prisoner Ombudsman](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Former Derry Police Officer announced as New Prisoner Ombudsman")](https://www.derrynow.com/news/derry-news/1644018/former-derry-police-officer-announced-as-new-prisoner-ombudsman.html)
+[![Motorists advised about delays in Ballykelly following road traffic accident](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Motorists advised about delays in Ballykelly following road traffic accident")](https://www.derrynow.com/news/county-derry-post/1645487/motorists-advised-about-delays-in-ballykelly-following-road-traffic-accident.html)
 
-Darrin Jones
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[Derry News](https://www.derrynow.com/section/999/derry-news)
+[Motorists advised about delays in Ballykelly following road traffic accident](https://www.derrynow.com/news/county-derry-post/1645487/motorists-advised-about-delays-in-ballykelly-following-road-traffic-accident.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Former Derry Police Officer announced as New Prisoner Ombudsman](https://www.derrynow.com/news/derry-news/1644018/former-derry-police-officer-announced-as-new-prisoner-ombudsman.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Worker settles Tesco claims of sexual harassment and victimisation for £45,000](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Worker settles Tesco claims of sexual harassment and victimisation for £45,000")](https://www.derrynow.com/news/northern-ireland/1642729/worker-settles-claims-of-sexual-harassment-and-victimisation-for-45-000.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Worker settles claims of sexual harassment and victimisation for £45,000](https://www.derrynow.com/news/northern-ireland/1642729/worker-settles-claims-of-sexual-harassment-and-victimisation-for-45-000.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1645635/shelbourne-crowned-champions-at-the-brandywell-after-late-harry-wood-winner-against-derry-city.html)
+
+Shelbourne players celebrate the goal which won the title. Pic by Stephen McCarthy/ Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Shelbourne crowned champions at the Brandywell after late Harry Wood winner against Derry City](https://www.derrynow.com/news/derry-sport/1645635/shelbourne-crowned-champions-at-the-brandywell-after-late-harry-wood-winner-against-derry-city.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,14 +511,28 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1645556/derry-death-notices-saturday-november-2-2024.html)
+[![Derry group launches campaign to address need for mandatory training and better pay for carers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry group launches campaign to address need for mandatory training and better pay for carers")](https://www.derrynow.com/news/local-news/1642054/derry-group-launches-campaign-to-addressneed-for-mandatory-training-and-better-pay-for-carers.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry group launches campaign to address need for mandatory training and better pay for carers](https://www.derrynow.com/news/local-news/1642054/derry-group-launches-campaign-to-addressneed-for-mandatory-training-and-better-pay-for-carers.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Quantity of suspected Class A drugs seized in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Quantity of suspected Class A drugs seized in Derry")](https://www.derrynow.com/news/local-news/1645784/quantity-of-suspected-class-a-drugs-seized-in-derry.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Quantity of suspected Class A drugs seized in Derry](https://www.derrynow.com/news/local-news/1645784/quantity-of-suspected-class-a-drugs-seized-in-derry.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices -Saturday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%285%29-1695307343689.jpg--.jpg?1695307343746 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1645556/derry-death-notices-saturday-november-2-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Saturday, November 2, 2024](https://www.derrynow.com/news/deaths/1645556/derry-death-notices-saturday-november-2-2024.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police deal with disorder following Derry City's clash with Shelbourne](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police deal with disorder following Derry City's clash with Shelbourne")](https://www.derrynow.com/news/local-news/1645694/police-deal-with-disorder-following-derry-city-s-clash-with-shelbourne.html)
+[![Police deal with disorder following Derry City's clash with Shelbourne](https://www.derrynow.com/resizer/165/93/true/2024_11_02/1632648154255.jpg--police_deploy_stinger_during_county_derry_car_chase-1730507966120.jpg--.jpg?1730507966128 "Police deal with disorder following Derry City's clash with Shelbourne")](https://www.derrynow.com/news/local-news/1645694/police-deal-with-disorder-following-derry-city-s-clash-with-shelbourne.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -544,22 +554,6 @@ Shelbourne players celebrate the goal which won the title. Pic by Stephen McCart
 
 [The Bloody Sunday Trust has expressed disappointment in Dublin’s inaction on trade sanctions and arms embargo on Israel](https://www.derrynow.com/news/derry-news/1645511/the-bloody-sunday-trust-has-expressed-disappointment-in-dublins-inaction-on-trade-sanctions-and-arms-embargo-on-israel.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Lore set to return to Dungiven with special Christmas concert](https://www.derrynow.com/resizer/165/93/true/2024_11_01/Picture1-1730469239330.jpg--.jpg?1730469239383 "Lore set to return to Dungiven with special Christmas concert")](https://www.derrynow.com/news/what-s-on/1645129/lore-set-to-return-to-dungiven-with-special-christmas-concert.html)
-
-The Christmas concert will see the band performing in a candle lit setting.
-
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
-
-[Lore set to return to Dungiven with special Christmas concert](https://www.derrynow.com/news/what-s-on/1645129/lore-set-to-return-to-dungiven-with-special-christmas-concert.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Power NI to increase household electricity prices by 4%](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_01/1730478922482_0.jpg--.jpg?1730478922650 "Power NI to increase household electricity prices by 4%")](https://www.derrynow.com/news/local-news/1645589/power-ni-to-increase-household-electricity-prices-by-4.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Power NI to increase household electricity prices by 4%](https://www.derrynow.com/news/local-news/1645589/power-ni-to-increase-household-electricity-prices-by-4.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
