@@ -73,8 +73,6 @@ Recent News
 
 Posted [Nov 1, 2024](https://packetstormsecurity.com/news/date/2024-11-01/ "14:34:10 UTC")
 
-This is an article straight from the wires, you can read the [full story here](https://www.scworld.com/news/malware-operators-use-copyright-notices-to-lure-in-businesses).
-
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36548/) | [View](https://www.scworld.com/news/malware-operators-use-copyright-notices-to-lure-in-businesses)
@@ -82,8 +80,6 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware]
 [FakeCall Malware Menaces Android Devices](https://packetstormsecurity.com/news/view/36543/FakeCall-Malware-Menaces-Android-Devices.html)
 
 Posted [Oct 31, 2024](https://packetstormsecurity.com/news/date/2024-10-31/ "13:54:22 UTC")
-
-This is an article straight from the wires, you can read the [full story here](https://www.scworld.com/news/fakecall-malware-menaces-android-devices).
 
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [phone](https://packetstormsecurity.com/news/tags/phone), [google](https://packetstormsecurity.com/news/tags/google)
 
@@ -93,8 +89,6 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware]
 
 Posted [Oct 31, 2024](https://packetstormsecurity.com/news/date/2024-10-31/ "13:54:20 UTC")
 
-This is an article straight from the wires, you can read the [full story here](https://www.theregister.com/2024/10/31/canada_cybersec_threats/).
-
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [canada](https://packetstormsecurity.com/news/tags/canada), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [spyware](https://packetstormsecurity.com/news/tags/spyware)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36542/) | [View](https://www.theregister.com/2024/10/31/canada_cybersec_threats/)
@@ -102,8 +96,6 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](
 [Windows Themes 0-Day Bug Exposes Users To NTLM Credential Theft](https://packetstormsecurity.com/news/view/36541/Windows-Themes-0-Day-Bug-Exposes-Users-To-NTLM-Credential-Theft.html)
 
 Posted [Oct 31, 2024](https://packetstormsecurity.com/news/date/2024-10-31/ "13:54:17 UTC")
-
-This is an article straight from the wires, you can read the [full story here](https://www.theregister.com/2024/10/30/zeroday_windows_themes/).
 
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [flaw](https://packetstormsecurity.com/news/tags/flaw), [password](https://packetstormsecurity.com/news/tags/password), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
 
@@ -113,8 +105,6 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](
 
 Posted [Oct 31, 2024](https://packetstormsecurity.com/news/date/2024-10-31/ "13:54:01 UTC")
 
-This is an article straight from the wires, you can read the [full story here](https://www.securityweek.com/yahoo-discloses-netiq-imanager-flaws-allowing-remote-code-execution/).
-
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [yahoo](https://packetstormsecurity.com/news/tags/yahoo)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36540/) | [View](https://www.securityweek.com/yahoo-discloses-netiq-imanager-flaws-allowing-remote-code-execution/)
@@ -122,8 +112,6 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](ht
 [North Korean Nation State Threat Actor Using Play Ransomware](https://packetstormsecurity.com/news/view/36539/North-Korean-Nation-State-Threat-Actor-Using-Play-Ransomware.html)
 
 Posted [Oct 31, 2024](https://packetstormsecurity.com/news/date/2024-10-31/ "13:53:55 UTC")
-
-This is an article straight from the wires, you can read the [full story here](https://www.scworld.com/news/north-korean-nation-state-threat-actor-using-play-ransomware).
 
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [cryptography](https://packetstormsecurity.com/news/tags/cryptography), [north korea](https://packetstormsecurity.com/news/tags/north_korea)
 
@@ -133,8 +121,6 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [governme
 
 Posted [Oct 31, 2024](https://packetstormsecurity.com/news/date/2024-10-31/ "13:53:48 UTC")
 
-This is an article straight from the wires, you can read the [full story here](https://www.securityweek.com/prosecutors-seek-a-17-year-prison-term-for-pentagon-secrets-leaker-jack-teixeira/).
-
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [military](https://packetstormsecurity.com/news/tags/military)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36538/) | [View](https://www.securityweek.com/prosecutors-seek-a-17-year-prison-term-for-pentagon-secrets-leaker-jack-teixeira/)
@@ -142,8 +128,6 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [governme
 [LottieFiles Supply Chain Attack Exposes Users To Wallet Drainer](https://packetstormsecurity.com/news/view/36537/LottieFiles-Supply-Chain-Attack-Exposes-Users-To-Wallet-Drainer.html)
 
 Posted [Oct 31, 2024](https://packetstormsecurity.com/news/date/2024-10-31/ "13:53:32 UTC")
-
-This is an article straight from the wires, you can read the [full story here](https://www.theregister.com/2024/10/31/lottiefiles_supply_chain_attack/).
 
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [malware](https://packetstormsecurity.com/news/tags/malware), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
 
@@ -153,8 +137,6 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](
 
 Posted [Oct 30, 2024](https://packetstormsecurity.com/news/date/2024-10-30/ "15:12:17 UTC")
 
-This is an article straight from the wires, you can read the [full story here](https://www.scworld.com/news/intel-and-amd-chips-still-vulnerable-to-spectre-flaw).
-
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [intel](https://packetstormsecurity.com/news/tags/intel)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36536/) | [View](https://www.scworld.com/news/intel-and-amd-chips-still-vulnerable-to-spectre-flaw)
@@ -162,8 +144,6 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](ht
 [AI Bug Bounty Program Yields 34 Flaws In Open Source Tools](https://packetstormsecurity.com/news/view/36535/AI-Bug-Bounty-Program-Yields-34-Flaws-In-Open-Source-Tools.html)
 
 Posted [Oct 30, 2024](https://packetstormsecurity.com/news/date/2024-10-30/ "15:12:13 UTC")
-
-This is an article straight from the wires, you can read the [full story here](https://www.scworld.com/news/ai-bug-bounty-program-yields-34-flaws-in-open-source-tools).
 
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [botnet](https://packetstormsecurity.com/news/tags/botnet), [flaw](https://packetstormsecurity.com/news/tags/flaw)
 
@@ -213,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1983209784&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1983209784.1730516862.1730516862.1730516862.1%3B%2B__utmz%3D32867617.1730516862.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1206663915&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1206663915.1730538322.1730538322.1730538322.1%3B%2B__utmz%3D32867617.1730538322.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
