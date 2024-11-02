@@ -5,7 +5,7 @@
 * [Call](tel:988)
 * [Text](sms:988)
 * [Chat](https://chat.988lifeline.org/)
-* [Deaf/HoH](https://988.aslnow.io/phones/100030001/)
+* [Deaf/HoH](https://988lifeline.org/deaf-hard-of-hearing-hearing-loss/)
 
 [988 Lifeline](https://988lifeline.org/)
 
@@ -16,7 +16,7 @@
 * [Call](tel:988)
 * [Text](sms:988)
 * [Chat](https://chat.988lifeline.org/)
-* [Deaf/HoH](https://988.aslnow.io/phones/100030001/)
+* [Deaf/HoH](https://988lifeline.org/deaf-hard-of-hearing-hearing-loss/)
 
 * [Home](https://988lifeline.org/)
 * [Get Help](https://988lifeline.org/get-help/)
@@ -211,7 +211,7 @@ Ways to Connect
 * [Call](tel:988)
 * [Text](sms:988)
 * [Chat](https://chat.988lifeline.org/)
-* [Deaf/HoH](https://988.aslnow.io/phones/100030001/)
+* [Deaf/HoH](https://988lifeline.org/deaf-hard-of-hearing-hearing-loss/)
 
 Share
 
