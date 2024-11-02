@@ -26,41 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liz-kamala-split-1200-x-628-1-1200x630.jpg)](https://americanwirenews.com/liar-kamalas-closing-message-defending-lying-neocon-liz-cheney/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/rf-pexels-judge-gavel-1200x630.jpg)](https://americanwirenews.com/major-blow-to-gop-scotus-upholds-provisional-ballot-ruling-in-battleground-state/)
 
-[Liar Kamala’s closing message? Defending lying neocon Liz Cheney](https://americanwirenews.com/liar-kamalas-closing-message-defending-lying-neocon-liz-cheney/)
+[Major blow to GOP: SCOTUS upholds provisional ballot ruling in battleground state](https://americanwirenews.com/major-blow-to-gop-scotus-upholds-provisional-ballot-ruling-in-battleground-state/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-biden-beccera-1200x630.jpg)](https://americanwirenews.com/conservative-group-suing-biden-admin-over-docs-on-taxpayer-funds-aiding-illegals/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-nick-bosa-1200x630.jpg)](https://americanwirenews.com/nfl-declines-to-suspend-star-player-for-wearing-maga-hat-but-he-may-still-face-punishment/)
 
-[Conservative group suing Biden admin over docs on taxpayer funds aiding illegals](https://americanwirenews.com/conservative-group-suing-biden-admin-over-docs-on-taxpayer-funds-aiding-illegals/)
+[NFL declines to suspend star player for wearing MAGA hat, but he may still face punishment](https://americanwirenews.com/nfl-declines-to-suspend-star-player-for-wearing-maga-hat-but-he-may-still-face-punishment/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-lindseyfox-1200-x-628-1200x630.jpg)](https://americanwirenews.com/lindsey-graham-slams-bullsht-from-liz-cheney-she-is-selling-out-conservatism-to-stay-relevant/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cuomo-oreilly-smith-1200x630.jpg)](https://americanwirenews.com/oreilly-dismisses-gop-belief-that-kamala-has-power-as-vp-shes-lucky-she-can-order-lunch/)
 
-[Lindsey Graham slams ‘bullsh\*t’ from Liz Cheney: ‘She is selling out conservatism to stay relevant’](https://americanwirenews.com/lindsey-graham-slams-bullsht-from-liz-cheney-she-is-selling-out-conservatism-to-stay-relevant/)
+[O’Reilly dismisses GOP belief that Kamala has power as VP: ‘She’s lucky she can order lunch!’](https://americanwirenews.com/oreilly-dismisses-gop-belief-that-kamala-has-power-as-vp-shes-lucky-she-can-order-lunch/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liz-cheney-1200x630.jpg)](https://americanwirenews.com/even-trumps-haters-arent-buying-liz-cheneys-spin-on-his-comments-bald-faced-lie/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-irs-whistleblowers-1200x630.jpg)](https://americanwirenews.com/house-republicans-furious-about-alleged-irs-whistleblower-retaliation-accept-a-demotion-or-resign/)
 
-[Even Trump’s haters aren’t buying Liz Cheney’s spin on his comments: ‘Bald-faced lie’](https://americanwirenews.com/even-trumps-haters-arent-buying-liz-cheneys-spin-on-his-comments-bald-faced-lie/)
+[House Republicans furious about alleged IRS whistleblower retaliation: ‘Accept a demotion or resign’](https://americanwirenews.com/house-republicans-furious-about-alleged-irs-whistleblower-retaliation-accept-a-demotion-or-resign/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-goldberg-1200x630.jpg)](https://americanwirenews.com/cnn-analyst-called-out-for-letting-tds-get-the-better-of-him-over-cheney-comments/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/01/SG-Kamala-Harris-1200x630.jpg)](https://americanwirenews.com/harris-camp-sends-mixed-signals-in-ads-targeting-jewish-arab-american-voters/)
 
-[CNN analyst called out for letting TDS get the better of him over Cheney comments](https://americanwirenews.com/cnn-analyst-called-out-for-letting-tds-get-the-better-of-him-over-cheney-comments/)
+[Harris camp sends mixed signals in ads targeting Jewish, Arab-American voters](https://americanwirenews.com/harris-camp-sends-mixed-signals-in-ads-targeting-jewish-arab-american-voters/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jennifer-lopez-1200x630.jpg)](https://americanwirenews.com/emotional-j-lo-backs-harris-internet-questions-her-motive-she-warned-us-about-trump-but-not-diddy/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-amish-1200x630.jpg)](https://americanwirenews.com/amish-voters-could-be-the-key-to-trumps-success-in-pennsylvania-they-want-to-be-left-alone/)
 
-[Emotional J.Lo backs Harris, internet questions her motive: ‘She warned us about Trump but not Diddy’](https://americanwirenews.com/emotional-j-lo-backs-harris-internet-questions-her-motive-she-warned-us-about-trump-but-not-diddy/)
+[Amish voters could be the key to Trump’s success in Pennsylvania: ‘They want to be left alone’](https://americanwirenews.com/amish-voters-could-be-the-key-to-trumps-success-in-pennsylvania-they-want-to-be-left-alone/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-votojoe-1200-x-628-1200x630.jpg)](https://americanwirenews.com/plug-gets-pulled-on-joe-after-human-garbage-gaffe/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-paul-1200x630.jpg)](https://americanwirenews.com/ron-paul-expresses-interest-in-working-with-elon-if-trump-is-elected-lets-end-the-fed/)
 
-[Plug gets pulled on Joe after human ‘garbage’ gaffe](https://americanwirenews.com/plug-gets-pulled-on-joe-after-human-garbage-gaffe/)
+[Ron Paul expresses interest in working with Elon if Trump is elected: ‘Let’s end the Fed!’](https://americanwirenews.com/ron-paul-expresses-interest-in-working-with-elon-if-trump-is-elected-lets-end-the-fed/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kris-meyes-1200x630.jpg)](https://americanwirenews.com/dem-ag-to-probe-trump-over-possible-death-threat-to-cheney-in-latest-lawfare-op/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-browns-1200x630.jpg)](https://americanwirenews.com/daughter-of-nfl-legend-endorses-trump-slams-dems-for-taking-away-womens-rights/)
 
-[Dem AG to probe Trump over ‘possible death threat’ to Cheney in latest lawfare op](https://americanwirenews.com/dem-ag-to-probe-trump-over-possible-death-threat-to-cheney-in-latest-lawfare-op/)
+[Daughter of NFL legend endorses Trump, slams Dems for ‘taking away women’s rights’](https://americanwirenews.com/daughter-of-nfl-legend-endorses-trump-slams-dems-for-taking-away-womens-rights/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-dearborndjt-tlaib-split-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-butler-usss-1200x630.jpg)
 
-### Trump makes play for the Michigan Muslim vote with visit to Rashida Tlaib’s home turf](https://americanwirenews.com/trump-makes-play-for-the-michigan-muslim-vote-with-visit-to-rashida-tlaibs-home-turf/)
+### Investigation into Trump assassination attempt may result in disciplinary action for Secret Service](https://americanwirenews.com/investigation-into-trump-assassination-attempt-may-result-in-disciplinary-action-for-secret-service/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -78,9 +78,45 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-goldberg-220x180.jpg)](https://americanwirenews.com/cnn-analyst-called-out-for-letting-tds-get-the-better-of-him-over-cheney-comments/)
+
+[CNN analyst called out for letting TDS get the better of him over Cheney comments](https://americanwirenews.com/cnn-analyst-called-out-for-letting-tds-get-the-better-of-him-over-cheney-comments/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-lindseyfox-1200-x-628-220x180.jpg)](https://americanwirenews.com/lindsey-graham-slams-bullsht-from-liz-cheney-she-is-selling-out-conservatism-to-stay-relevant/)
+
+[Lindsey Graham slams ‘bullsh\*t’ from Liz Cheney: ‘She is selling out conservatism to stay relevant’](https://americanwirenews.com/lindsey-graham-slams-bullsht-from-liz-cheney-she-is-selling-out-conservatism-to-stay-relevant/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-votojoe-1200-x-628-220x180.jpg)](https://americanwirenews.com/plug-gets-pulled-on-joe-after-human-garbage-gaffe/)
+
+[Plug gets pulled on Joe after human ‘garbage’ gaffe](https://americanwirenews.com/plug-gets-pulled-on-joe-after-human-garbage-gaffe/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kris-meyes-220x180.jpg)](https://americanwirenews.com/dem-ag-to-probe-trump-over-possible-death-threat-to-cheney-in-latest-lawfare-op/)
+
+[Dem AG to probe Trump over ‘possible death threat’ to Cheney in latest lawfare op](https://americanwirenews.com/dem-ag-to-probe-trump-over-possible-death-threat-to-cheney-in-latest-lawfare-op/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mystal-220x180.jpg)](https://americanwirenews.com/racial-bomb-thrower-dives-down-conspiracy-theorist-rabbit-hole-details-how-trump-will-steal-election/)
 
 [Racial bomb-thrower dives down conspiracy theorist rabbit hole, details how Trump will ‘steal’ election](https://americanwirenews.com/racial-bomb-thrower-dives-down-conspiracy-theorist-rabbit-hole-details-how-trump-will-steal-election/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liz-cheney-220x180.jpg)](https://americanwirenews.com/even-trumps-haters-arent-buying-liz-cheneys-spin-on-his-comments-bald-faced-lie/)
+
+[Even Trump’s haters aren’t buying Liz Cheney’s spin on his comments: ‘Bald-faced lie’](https://americanwirenews.com/even-trumps-haters-arent-buying-liz-cheneys-spin-on-his-comments-bald-faced-lie/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-biden-beccera-220x180.jpg)](https://americanwirenews.com/conservative-group-suing-biden-admin-over-docs-on-taxpayer-funds-aiding-illegals/)
+
+[Conservative group suing Biden admin over docs on taxpayer funds aiding illegals](https://americanwirenews.com/conservative-group-suing-biden-admin-over-docs-on-taxpayer-funds-aiding-illegals/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jennifer-lopez-220x180.jpg)](https://americanwirenews.com/emotional-j-lo-backs-harris-internet-questions-her-motive-she-warned-us-about-trump-but-not-diddy/)
+
+[Emotional J.Lo backs Harris, internet questions her motive: ‘She warned us about Trump but not Diddy’](https://americanwirenews.com/emotional-j-lo-backs-harris-internet-questions-her-motive-she-warned-us-about-trump-but-not-diddy/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liz-kamala-split-1200-x-628-1-220x180.jpg)](https://americanwirenews.com/liar-kamalas-closing-message-defending-lying-neocon-liz-cheney/)
+
+[Liar Kamala’s closing message? Defending lying neocon Liz Cheney](https://americanwirenews.com/liar-kamalas-closing-message-defending-lying-neocon-liz-cheney/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-dearborndjt-tlaib-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-makes-play-for-the-michigan-muslim-vote-with-visit-to-rashida-tlaibs-home-turf/)
+
+[Trump makes play for the Michigan Muslim vote with visit to Rashida Tlaib’s home turf](https://americanwirenews.com/trump-makes-play-for-the-michigan-muslim-vote-with-visit-to-rashida-tlaibs-home-turf/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liepman-kcen-220x180.jpg)](https://americanwirenews.com/texas-news-anchor-overwhelmed-with-emotion-as-she-announces-co-anchors-passing/)
 
@@ -139,46 +175,6 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Elon-Musk-2-220x180.jpg)](https://americanwirenews.com/desperate-left-trying-to-find-a-way-to-revoke-elon-musks-us-citizenship/)
 
 [Desperate Left trying to find a way to revoke Elon Musk’s US citizenship](https://americanwirenews.com/desperate-left-trying-to-find-a-way-to-revoke-elon-musks-us-citizenship/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-166311199-1-220x180.jpg)](https://americanwirenews.com/oklahoma-towns-entire-police-force-resigns-in-one-day-and-locals-want-answers/)
-
-[Oklahoma town’s ENTIRE police force resigns in one day and locals want answers](https://americanwirenews.com/oklahoma-towns-entire-police-force-resigns-in-one-day-and-locals-want-answers/)
-
-Getty Images
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-aocantisemitis-1200-x-628-220x180.jpg)](https://americanwirenews.com/aoc-down-for-demeaning-bathroom-post-it-note-campaign-targeting-red-state-wives/)
-
-[AOC down for demeaning bathroom Post-it note campaign targeting red state wives](https://americanwirenews.com/aoc-down-for-demeaning-bathroom-post-it-note-campaign-targeting-red-state-wives/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2182196248-1-220x180.jpg)](https://americanwirenews.com/mama-musk-i-just-felt-such-a-relief-after-ditching-the-dishonest-democrats/)
-
-[Mama Musk on leaving the Party: ‘I just felt such a relief’ after ditching the ‘dishonest’ Democrats](https://americanwirenews.com/mama-musk-i-just-felt-such-a-relief-after-ditching-the-dishonest-democrats/)
-
-(Photo by Steven Ferdman/Getty Images)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-donald-trump-event-220x180.jpg)](https://americanwirenews.com/trump-says-liz-cheney-wouldnt-be-such-a-war-hawk-if-she-had-nine-guns-trained-on-her-face/)
-
-[Trump says Liz Cheney wouldn’t be such a ‘war hawk’ if she had ‘nine guns trained on her face’](https://americanwirenews.com/trump-says-liz-cheney-wouldnt-be-such-a-war-hawk-if-she-had-nine-guns-trained-on-her-face/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-driver-trumptruck1-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/i-didnt-really-believe-it-at-first-driver-of-trump-garbage-truck-says-of-historic-experience/)
-
-[‘I didn’t really believe it at first’ – driver of Trump garbage truck says of historic experience](https://americanwirenews.com/i-didnt-really-believe-it-at-first-driver-of-trump-garbage-truck-says-of-historic-experience/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kamala-harris-word-salad-rally-220x180.jpg)](https://americanwirenews.com/harris-ripped-for-latest-word-salad-after-another-heckler-rattled-her-the-gibberish-never-ends/)
-
-[Harris ripped for latest ‘word salad’ after another heckler rattled her: ‘The gibberish never ends’](https://americanwirenews.com/harris-ripped-for-latest-word-salad-after-another-heckler-rattled-her-the-gibberish-never-ends/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kjp-joepr1-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/garbagegate-white-house-press-office-edited-biden-transcript-despite-stenographer-concerns/)
-
-[Garbagegate: White House press office edited Biden transcript despite stenographer concerns](https://americanwirenews.com/garbagegate-white-house-press-office-edited-biden-transcript-despite-stenographer-concerns/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djt-cuban-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/kellyanne-conway-trump-hit-kamala-surrogate-mark-cuban-hard-for-no-strong-women-comment/)
-
-[Kellyanne Conway, Trump hit Kamala surrogate Mark Cuban hard for ‘no strong women’ comment](https://americanwirenews.com/kellyanne-conway-trump-hit-kamala-surrogate-mark-cuban-hard-for-no-strong-women-comment/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kelly-220x180.jpg)](https://americanwirenews.com/megyn-kelly-makes-bold-election-prediction-talks-october-surprise-bombshell-thats-yet-to-drop/)
-
-[Megyn Kelly makes bold election prediction, talks ‘October Surprise’ bombshell that’s yet to drop](https://americanwirenews.com/megyn-kelly-makes-bold-election-prediction-talks-october-surprise-bombshell-thats-yet-to-drop/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
