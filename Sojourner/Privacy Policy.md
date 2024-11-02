@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-2057f0319798a3fe98f0527b89ed85be
+fa6d66e73d434a332db093bc50d2050b
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Fancy jasper faceted flat oval beads](https://www.sojourner.biz/images/cache/stone/STN020.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/fancy-jasper-faceted-flat-oval-beads.html "Fancy jasper faceted flat oval beads")
+[![12 mm transparent moss green heart beads](https://www.sojourner.biz/images/cache/glass/GL0023.200.jpg)](https://www.sojourner.biz/beads/glass/12-mm-transparent-moss-green-heart-beads.html "12 mm transparent moss green heart beads")
 
-#### [Fancy jasper faceted flat oval beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/fancy-jasper-faceted-flat-oval-beads.html "Fancy jasper faceted flat oval beads")
+#### [12 mm transparent moss green heart beads](https://www.sojourner.biz/beads/glass/12-mm-transparent-moss-green-heart-beads.html "12 mm transparent moss green heart beads")
 
-$18.00
+$9.00
 
 ### Best Sellers
 
