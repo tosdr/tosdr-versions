@@ -642,7 +642,7 @@ pop-up content ends
 
 Email 
 
-Submit ![](//august.com/cdn/shop/t/345/assets/icon-newsletter-submit.svg?v=83048686797684669771729636596) 
+Submit ![](//august.com/cdn/shop/t/346/assets/icon-newsletter-submit.svg?v=83048686797684669771730490433) 
 
 By signing up for the August Home US and Canada email newsletter, you agree with our [terms](https://august.com/pages/terms-of-service).
 
