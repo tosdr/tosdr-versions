@@ -304,11 +304,11 @@ m. Headings. Headings used in this Agreement and the Additional Policies are sol
 n. Entire Agreement. This Agreement, together with the Additional Policies, constitute the complete and exclusive statement of all mutual understandings between You and Dynu Systems with respect to the subject matter hereof, superseding all prior or contemporaneous proposals, communications and understandings, oral or written.  
   
 
-#### New to domain names and dynamic DNS?
+#### Stuck?
 
-We can walk you through purchasing and managing your domain names in real-time on the page!  
   
-[View Available Guides](https://www.dynu.com/Resources/Tutorials)  
+[Get Help](https://www.dynu.com/Support)  
+  
 
 ### News
 
