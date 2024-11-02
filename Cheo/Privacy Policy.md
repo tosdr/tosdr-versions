@@ -108,7 +108,7 @@ Search
 Privacy and confidentiality
 ===========================
 
-![A young girl in a winter coat, smiling at the camera](/en/rotatingimages/defaultInterior/Banner-16.jpeg)
+![Boy in wheelchair and father smiling at each other](/en/rotatingimages/defaultInterior/Banner-8.jpg)
 
 [Regular](# "Default text size") [Large](# "Increase to Large text size") [X-Large](# "Increase to X-Large text size")
 
