@@ -212,15 +212,15 @@ No related posts.
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [AtlasIntel Polling - Bias and Credibility](https://mediabiasfactcheck.com/atlasintel-polling-bias-and-credibility/)
 * [Marist Poll - Bias and Credibility](https://mediabiasfactcheck.com/marist-poll-bias-and-credibility/)
+* [AtlasIntel Polling - Bias and Credibility](https://mediabiasfactcheck.com/atlasintel-polling-bias-and-credibility/)
 * [Echelon Insights - Bias and Credibility](https://mediabiasfactcheck.com/echelon-insights-bias-and-credibility/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Newsweek - Bias and Credibility](https://mediabiasfactcheck.com/newsweek/)
-* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [The Economist - Bias and Credibility](https://mediabiasfactcheck.com/the-economist/)
-* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
+* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
+* [Daily Beast - Bias and Credibility](https://mediabiasfactcheck.com/daily-beast/)
+* [Electoral College Map 2024 - Harris vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
 
 #### Subscribe via Email
 
