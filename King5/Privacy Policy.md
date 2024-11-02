@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/da7689b4-bdca-4f84-9ba9-a095f8347bf9/20241102T050213/da7689b4-bdca-4f84-9ba9-a095f8347bf9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/da7689b4-bdca-4f84-9ba9-a095f8347bf9/20241102T050213/da7689b4-bdca-4f84-9ba9-a095f8347bf9_360x203.jpg)](https://www.king5.com/article/news/local/military-vets-asked-to-leave-orting-rv-park-winter-nears/281-4e2e39cd-8fec-496c-a8bd-7a83652025f6)
+    *  [![](https://media.king5.com/assets/KING/images/7dc502e5-fd9b-4a45-bb07-40be3dcea5e0/20241102T144855/7dc502e5-fd9b-4a45-bb07-40be3dcea5e0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7dc502e5-fd9b-4a45-bb07-40be3dcea5e0/20241102T144855/7dc502e5-fd9b-4a45-bb07-40be3dcea5e0_360x203.jpg)](https://www.king5.com/article/news/local/boulder-blocks-sr-11-south-bellingham-rockslide/281-68f81431-f516-4d71-9bed-1b80595bb541)
         
-        #### [Military vets asked to leave Orting RV park as winter nears](https://www.king5.com/article/news/local/military-vets-asked-to-leave-orting-rv-park-winter-nears/281-4e2e39cd-8fec-496c-a8bd-7a83652025f6)
+        #### [SR 11 south of Bellingham reopens after 'car-sized' boulders blocked road in rockslide](https://www.king5.com/article/news/local/boulder-blocks-sr-11-south-bellingham-rockslide/281-68f81431-f516-4d71-9bed-1b80595bb541)
         
-    *  [![](https://media.king5.com/assets/KING/images/4825602d-0fdb-4b71-a841-0abd55566ab4/20241028T134035/4825602d-0fdb-4b71-a841-0abd55566ab4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4825602d-0fdb-4b71-a841-0abd55566ab4/20241028T134035/4825602d-0fdb-4b71-a841-0abd55566ab4_360x203.jpg)](https://www.king5.com/article/news/crime/fall-city-suspect-private-attorney/281-929f421a-b228-4a7b-9d70-10182f45ba2d)
+    *  [![](https://media.king5.com/assets/KING/images/93d0d771-dd20-47e9-b31a-388b59c6360c/20241102T150646/93d0d771-dd20-47e9-b31a-388b59c6360c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/93d0d771-dd20-47e9-b31a-388b59c6360c/20241102T150646/93d0d771-dd20-47e9-b31a-388b59c6360c_360x203.jpg)](https://www.king5.com/article/money/markets/real-estate/homebuyers-refinance-hopefuls-waiting-interest-rate-drop/281-9099d6cb-8b52-42a3-b30b-2f1266f66505)
         
-        #### [15-year-old accused of killing 5 family members in Fall City gets private representation](https://www.king5.com/article/news/crime/fall-city-suspect-private-attorney/281-929f421a-b228-4a7b-9d70-10182f45ba2d)
+        #### [Be prepared: What homebuyers and refinance hopefuls can do while waiting on an interest rate drop](https://www.king5.com/article/money/markets/real-estate/homebuyers-refinance-hopefuls-waiting-interest-rate-drop/281-9099d6cb-8b52-42a3-b30b-2f1266f66505)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f7e4fdda-685e-48de-a9e4-d9559a955be1/20241102T052651/f7e4fdda-685e-48de-a9e4-d9559a955be1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f7e4fdda-685e-48de-a9e4-d9559a955be1/20241102T052651/f7e4fdda-685e-48de-a9e4-d9559a955be1_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/230e05fa-45a2-4f08-bdee-0c6a35721660/20241102T144749/230e05fa-45a2-4f08-bdee-0c6a35721660_16x9.jpg) ![](https://media.king5.com/assets/KING/images/230e05fa-45a2-4f08-bdee-0c6a35721660/20241102T144749/230e05fa-45a2-4f08-bdee-0c6a35721660_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-49°
+53°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
