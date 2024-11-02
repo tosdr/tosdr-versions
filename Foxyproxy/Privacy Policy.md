@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Great service. After using it for a month, we decided it was great and bought a year subscription!
+Love you guys!
 
-Christian Burtt
+Elan
