@@ -31,6 +31,361 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Colada morada para saborear las tradiciones en medio de la crisis
+=================================================================
+
+Las tradiciones se mantienen en medio de los problemas nacionales.
+------------------------------------------------------------------
+
+![La colada morada es parte de las tradiciones ecuatorianas.](https://www.elcomercio.com/wp-content/uploads/2024/10/editorial-2.jpg)
+
+Los sabores unen, son parte de la hospitalidad y un abrigo con aroma a familia. Ecuador, sin duda, es el espacio donde las recetas tradicionales pueden sosegar los males. La **colada morada** es uno de los manjares nacionales con esta cualidad.
+
+Los platillos no llegan solos. Una ruta por los **mercados**, por ejemplo, complementa la experiencia gastronómica con un cumplido, una palabra alentadora y hasta un título asignado en segundos.
+
+La bebida, además, junta a las familias para replicar una fórmula de varias **generaciones** y, claro, darle un toque contemporáneo con guaguas de pan con formas y colores diversos.
+
+> La **colada morada** tiene raíces ancestrales. Uno de los ingredientes primigenios era la sangre de llama, como un símbolo y ofrenda para los difuntos.
+
+La preparación se deriva de la ceremonia **Quitu Cara**, Aya Marcay Quilla, que significa mes de cargar a los muertos. Esta deriva de la elaboración de la chicha morada y ha ido complementándose y variando.
+
+En este 2024, las cargas son otras. Pero, a la par, hay una **identidad** que se resiste a claudicar, al igual que la meta de la reactivación en medio de la crisis energética.
+
+En los claustros de Quito, ese sabor se combina con la misión de las religiosas de pedir por mejores tiempos para los ecuatorianos, como ya lo han hecho en otras crisis, como el terremoto de 2016 y la pandemia por el covid-19. En el Centro Histórico hay media docena de estos espacios.
+
+Papas rellenas irresistibles
+============================
+
+Un plato versátil y delicioso que combina sabores y tradiciones en cada bocado.
+-------------------------------------------------------------------------------
+
+![Dale un giro a tu menú con estas papas rellenas irresistibles.](https://www.elcomercio.com/wp-content/uploads/2024/11/SABORES-8.jpg)
+
+Las **papas rellenas** son un **plato** que ha conquistado paladares en **diversas culturas,** especialmente en América Latina. Este platillo, que combina la **sencillez** de la papa con una **variedad de rellenos,** es un símbolo de la cocina casera y familiar. Su **popularidad** radica no solo en su sabor, sino también en su **versatilidad**, ya que se pueden adaptar a diferentes **gustos y preferencias**. ¡Descubre el placer de cocinar algo delicioso! ¡Manos a la obra!
+
+Ingredientes
+------------
+
+4 papas grandes
+
+300 g de carne molida (res o cerdo)
+
+1 cebolla picada
+
+2 dientes de ajo picados
+
+1 cucharada de aceite
+
+Sal y pimienta al gusto
+
+1 huevo (opcional)
+
+Pan rallado (opcional)
+
+* * *
+
+> Transforma las papas de siempre en una experiencia gourmet con esta receta.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/SABORES-9-2-1024x538.jpg)
+
+Sumérgete en una receta y deja que tu creatividad brille en la cocina.
+
+**Preparación de la receta de las papas rellenas**
+--------------------------------------------------
+
+* **Cocinar** las papas hasta que estén tiernas. Dejar enfriar y **aplastar** con un tenedor hasta formar un puré.
+* En una sartén, **calentar** el aceite y sofreír la cebolla y el ajo hasta dorar. **Agregar** la carne molida y **cocinar** hasta que esté bien cocida. Sal y pimienta al gusto.
+* Tomar una porción de puré, **colocar** una cucharada del relleno en el centro y cubrir con más puré formando una bola.
+* Si deseas, pasar cada bola por huevo batido y luego por pan rallado.
+* **Calentar** el aceite en una sartén profunda y **freír** las papas hasta **dorar**. Escurre sobre papel absorbente.
+
+Las papas rellenas se pueden servir de varias maneras
+-----------------------------------------------------
+
+* Acompañar con salsas como guacamole, salsa de yogur, o salsa de tomate picante. Esto añade frescura y un toque extra de sabor.
+* Servir con una **ensalada fresca** de lechuga, tomate y aguacate. La frescura de la ensalada equilibrará la riqueza de las papas.
+* Con frijoles, o una porción de vegetales al vapor. Esto puede convertirlas en un plato más completo.
+* Finaliza el plato con un poco de **perejil** fresco o **cebollín** picado para dar un toque de color y frescura.
+
+Opciones de rellenos
+--------------------
+
+Algunas opciones de ingredientes que puedes usar para rellenar las papas
+
+* Puedes utilizar una mezcla de verduras como espinacas, zanahorias, brócoli, cebolla, pimientos y champiñones. Estas verduras pueden ser salteadas o cocidas antes de ser mezcladas con otros ingredientes para dar más sabor.
+* Frijoles negros, lentejas o garbanzos son excelentes opciones que aportan proteínas y fibra. Puedes hacer un puré o simplemente mezclarlos con especias y otros vegetales.
+* Nueces, almendras o piñones pueden ser añadidos para dar un toque crujiente y un sabor único. Tostados previamente, estos frutos secos realzan el sabor del relleno.
+* Puedes rellenas las papas con los quesos comunes como mozzarella o ricotta, puedes experimentar con quesos veganos si buscas opciones sin lácteos.
+
+¡Buen provecho! ¡Imposible resistirse!
+
+‘Ecuador tiene potencial para ser un gran proveedor de leche’: Ariel Londinski
+==============================================================================
+
+Ariel Londinski, de Fepale, analiza el panorama de la producción lechera en Ecuador, su potencial y los desafíos.
+-----------------------------------------------------------------------------------------------------------------
+
+![Ariel Londinski cree que en Ecuador todavía hay un importante trabajo de promoción de consumo interno de leche para alcanzar los mínimos necesarios.](https://www.elcomercio.com/wp-content/uploads/2024/10/Ariel-Lodinski.jpg)
+
+En una conversación con Ariel Londinski, secretario de la **Federación Panamericana de Lechería (Fepale)**, se analizó el estado actual de la producción de leche en Ecuador y su contexto regional.
+
+Con un enfoque en la autosuficiencia del país y los bajos niveles de consumo interno, este médico veterinario, de 52 años, ofrece una visión integral sobre los desafíos que enfrenta el sector lácteo.
+
+Además, destaca la necesidad de promover el consumo de productos lácteos como el queso y el yogur, claves para combatir la desnutrición infantil. En un escenario donde el país tiene un potencial significativo para la producción y exportación, Londinski plantea un llamado a la acción de los sectores público y privado para impulsar la productividad y un mayor consumo.
+
+Más noticias
+------------
+
+* [En Ecuador, la crisis del pasto afecta la producción de leche de pequeños ganaderos](https://www.elcomercio.com/actualidad/negocios/en-ecuador-la-crisis-del-pasto-afecto-la-produccion-de-leche-de-pequenos-ganaderos.html "En Ecuador, la crisis del pasto afecta la producción de leche de pequeños ganaderos")
+* [Descubre la magia del turismo rural en Pichincha y Cotopaxi durante el próximo feriado](https://www.elcomercio.com/tendencias/turismo/haciendas-pichincha-cotopaxi-feriado-vacaciones.html "Descubre la magia del turismo rural en Pichincha y Cotopaxi durante el próximo feriado")
+
+### **¿Cómo ve la producci**ón de leche en **Ecuador en el contexto regional?** 
+
+Ha ido creciendo hasta el 2020 y luego se nota cierto estancamiento. Ecuador es un caso particular porque es relativamente autosuficiente, no participa ni en importación ni exportación más allá de números  marginales. Sin embargo tiene un consumo per cápita que está entre 100 /110 litros por habitante por año cuando la recomendación es entre 150 y 180, números que sí alcanzan Uruguay, Argentina, Costa Rica, Colombia y Brasil. Es decir, todavía hay un importante trabajo de promoción de consumo interno para alcanzar los mínimos necesarios. Ecuador tiene cifras preocupantes de desnutrición infantil, donde siempre el gran aliado en el que se piensa es la leche.
+
+### **¿Por qué no se logra ampliar el consumo interno?** 
+
+El consumo de leche como cualquier otro producto de la canasta básica fluctúa según el momento económico del país. Es algo que observamos en todos los países. Sin embargo, uno de los puntos que muestran los estudios que hemos realizado es que el consumo de queso es uno de los factores a promocionar en países donde no está tan arraigado, como sí pasa en Argentina o Uruguay, en donde el consumo del queso es realmente alto. 
+
+### **¿A qué apuntan para incrementar el consumo de queso?**
+
+Hay un antecedente: en el sur hay descendientes de italianos, suizos que trajeron la tradición. Pero más allá de eso es importante una campaña de promoción que llegue a estratos medios con información de la nutrición 100% científica. La leche, el queso, el yogur son aliados para prevenir una cantidad de dolencias, no solo en la niñez. Estoy pensando en la osteoporosis, las enfermedades cardiovasculares, la diabetes mellitus, etcétera. Es importante hacer campañas a nivel médico y de nutrición.
+
+> Está ampliamente demostrado que el consumo de leche y lácteos en edades tempranas y en la adolescencia van a repercutir en la salud del resto de la vida de la persona.
+
+Esto tiene especial énfasis en las mujeres por la osteoporosis. Pero también en la mujer embarazada y lactante para cuidar sus reservas óseas e incluso musculares.
+
+**¿Cómo lograr una mayor producción y que vaya de la mano de más consumo?** 
+
+El potencial que tiene el país es realmente importante, tomando en cuenta que tiene una diversidad de climas, hábitats, hay tradición, conocimiento en la altura, en el llano, varias razas y prácticas. Uno de los elementos centrales a trabajar es la productividad. Vemos que el promedio nacional está en seis y medio a siete litros por vaca. Ese es un parámetro que sería importante crecer con los mismos recursos, es decir, la misma cantidad de animales y tierra se puede crecer considerablemente aplicando mejoras genéticas, nutrición y apoyando a los productores con capacitación.
+
+### Si la leche no se consume internamente…
+
+Es importante tener en paralelo un trabajo para ver dónde se va a ir esa leche. Si no se consume internamente habría que buscar los mecanismos para la exportación. Ecuador sí se viene preparando, pero no es un trabajo a corto plazo, más bien a mediano,  porque luego de hacer las inspecciones sanitarias, la apertura de mercados y concretar negocios es un trabajo casi de hormiga donde se va ganando confianza.
+
+Ecuador es un país que puede proveer a muchos otros que demandan leche. Un dato importante: la demanda de leche a nivel internacional crece de forma sostenida en 2% por año. Hay varios bloques en los que se ha estancado su producción, como Europa, Nueva Zelanda, el primer exportador de leche del mundo también está en una situación de estancamiento por situaciones regionales. La pregunta que uno se hace: ¿Cuáles son las regiones que pueden abastecer esta creciente demanda mientras algunos bloques se frenan? América Latina es una región que tiene todo para crecer y proveer esta demanda creciente.  
+
+### **¿A qué países puede mirar Ecuador para proveer de leche?** 
+
+Los grandes compradores son los países asiáticos, encabezado por China y, del sudeste asiático: Vietnam, Indonesia, Filipinas, también Corea. Son países, en donde está creciendo su consumo y su producción no tanto. En esos países se está dando un cambio cultural, una occidentalización podríamos decir de los hábitos de alimentación y los lácteos se están posicionando. Otros bloques o lugares donde existe demanda de lácteos es en los países del norte de África y México, que es un importador muy grande, incluso, países de nuestra región, como Perú, Chile, Brasil, los países de centroamérica.
+
+### **Ecuador ya cuenta con acuerdos comerciales con China y Corea…**
+
+Los acuerdos que incluyen lácteos ayudan a llegar con aranceles más económicos, pero una vez que existe es necesario una colaboración de la política pública en preparar a la cadena agroindustrial lechera para la exportación. Es un trabajo mancomunado del sector público y privado. El público es el que va a realizar las negociaciones comerciales y abrir los mercados, pero el sector privado tiene que estar preparado en todos sus aspectos para comenzar a cubrir esos mercados. Estamos hablando también de que tiene que haber un aumento de la producción para que haya excedentes para la exportación. 
+
+### **¿A cuánto debe ascender la producción por vaca, porque siete litros de promedio no es muy competitivo?** 
+
+No hay un número, pero sí podemos decir que es un promedio relativamente bajo, cuando hay países de la región que alcanzan 15 hasta 18 litros, en promedio. Aunque sí conozco productores que tienen productividades más eficientes. Si decimos que cada vaca aumente un litro de su producción ya sería un incremento productivo considerable y eso es alcanzable sin aumentar recursos. 
+
+### **¿Qué expectativas hay para tratar de encontrar una mayor estabilidad en los precios de la leche para los próximos años?**
+
+Los precios se han mostrado muy volátiles por situaciones a nivel internacional, que son difíciles de prever o de manejar. La pandemia afectó a los precios primero a la baja y después a la subida. La inestabilidad geopolítica: la guerra entre Ucrania y Rusia, que generó primero un aumento y luego una disminución. Ahora tenemos toda esta situación de inestabilidad en Oriente Medio.
+
+Los precios también se han visto afectados por las dificultades que pasa China. Es un país que compra muchísima leche y cuando la economía china se retrae también se retraen las compras. La guerra de Ucrania y Rusia afecta a los granos y a la urea, insumos para la producción de leche o el precio del petróleo siempre va a terminar afectando los precios de los alimentos en general y de la leche.
+
+> Es importante ir tomando en cuenta estas previsiones de que los precios van a ser volátiles y siempre va a haber eventos que empujen hacia arriba o hacia abajo. La curva sube y baja permanentemente.
+
+El precio internacional de la tonelada de leche en polvo entera está en 3 400 dólares. Es un precio bajo, pero no demasiado bajo como en otros momentos. Siempre la expectativa, ya sea de eventos climáticos, geopolíticos o situaciones bélicas ha demostrado que mueve los precios.
+
+**El ingreso de leche de mala calidad por las fronteras es otro problema ¿Qué solución le daría?**
+
+Es una situación preocupante en todos los países. Nuestras fronteras son bastante permeables y ahí es el trabajo junto al Estado, las aduanas, las autoridades fronterizas. Uno podría decir que el contrabando de productos alimentarios, además, generan un riesgo sanitario para la población y para el ganado, porque puede haber traslado de enfermedades de un país a otro, especialmente, si el país se prepara hacia la exportación. El estatus sanitario es algo que cuidar como un tesoro, entonces se requiere tener fronteras seguras donde no haya traslado de sobre todo de un alimento tan sensible, en términos biológicos, como lo es la leche que se puede contaminar y que puede ser vehículo de enfermedades para el ganado.
+
+### **Ecuador ha enfrentado una sequía prolongada, que ha evidenciado que los productores no están listos para cambios climáticos ¿Cómo prepararse a futuro?** 
+
+Sí. La sequía que aún están viviendo no solo afecta la producción ganadera sino agrícola. Existen soluciones que se pueden manejar. Hay que tener en cuenta que la vaca es un animal reciclador en gran medida, es decir, tiene la capacidad de alimentarse de una cantidad enorme de productos que no son consumibles por el ser humano. Muchas veces debemos estar preparados para tener alternativas de alimentación que no sean las producidas en el propio establecimiento. Para eso juegan un rol importante los sistemas asociativos, cooperativos, gremiales, las asociaciones de productores. Todos pueden buscar alternativas nutricionales para los animales en conjunto, ante eventos climáticos.
+
+En situaciones de sequía se ponen a disposición cultivos que no han rendido y que no salen al mercado y se pueden destinar a alimentación animal. Hay que trabajar en todo lo que tiene que ver con la mitigación del estrés calórico, el manejo del bienestar animal y demás que ayuda mucho a que las vacas estén en situaciones más confortables y puedan producir mejor.
+
+### ¿A qué cultivos se refiere?
+
+Cuando hay sequía, hay cultivos que bajan de rendimiento como el maíz y la soya que se dañan y esto podría ser recolectado para nutrición animal. Hay experiencias en otros países muy interesantes como en el Chaco paraguayo, una región semidesértica donde hay producción ganadera y lechera. Los productores se han adaptado a este tipo de clima con la recogida de agua cuando hay lluvia, además del riego. Lo que estamos viendo son eventos extremos más frecuentes y más extremos,  entonces las políticas públicas también tienen que ser parte. 
+
+Hoja de vida
+------------
+
+* Ariel Londinsky es uruguayo. Es secretario de la [Federación Panamericana de Lechería (Fepale)](https://fepale.org/site/ "https://fepale.org/site/"), con sede en Montevideo (Uruguay).
+* Es médico veterinario con un posgrado y diplomado en las universidades de San Martín y Ceace, de Argentina. Es coordinador de la Comisión Científica de los Congresos Panamericanos de la Leche (ediciones 2012 al 2024).
+* Integra el grupo de gobernanza del Marco de la Sustentabilidad Lechera Global y es parte del grupo de trabajo del laboratorio de políticas lecheras de la FAO.
+
+¡No crea todo el contenido digital que ve o escucha!
+====================================================
+
+Con educación, datos verificados y pensamiento crítico, Usted tendrá mayor inmunidad a los deepfakes y demás contenido digital falso.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
+
+En la actualidad, en un mundo conectado a través de **internet**, y donde los datos se propagan en las **redes sociales** a una velocidad vertiginosa, no es de sorprenderse que estamos expuestos a una gran cantidad de **contenido audiovisual**. Sin embargo, no todo ese contenido audiovisual al que tenemos acceso es real. Para muestra basta un botón: le invito a ver [este video de YouTube](https://youtu.be/MA2eKqjuXH0), donde nuestro Récord Guinness como presentador de noticias con más años al aire ininterrumpidamente, Don Alfonso Espinoza de los Monteros, nos transmite un mensaje muy importante para nuestras vidas.
+
+Como se habrá dado cuenta, por el contenido del mensaje y los defectos en la sincronización de los labios y las palabras que pronuncia, este video **no es real**: es decir, Don Alfonso nunca pronunció en la realidad dicho discurso. Lo que tenemos en este video es un **_deepfake_**. Los _deepfakes_ son imágenes, videos o audios (con estilo realista) que son parcial o totalmente falsos (de ahí el nombre _fake_), que son generados usando algoritmos avanzados de **inteligencia artificial**. Usualmente, se usan redes neuronales artificiales profundas, que es un algoritmo de **_deep learning_**, (de ahí el nombre _deep_). Por lo tanto, en un mundo digital, donde el contenido audiovisual prolifera, los _deepfakes_ se han convertido en un fenómeno de gran impacto social.
+
+Los algoritmos más usados para crear _deepfakes_ permiten la generación o alteración de **imágenes**, clonación y generación de **voz**, y generación o alteración de **video**. Entre estos tipos de _deepfakes_, uno de los más usados es la **alteración de video** debido a que, combinando audio y video, aumenta la probabilidad de captar el interés de la audiencia. Hay varias maneras de generar videos alterados, con estilo realista. Una de las más populares es la siguiente. Primero se clona el **tono de voz** de una persona. Luego, se genera un audio falso a partir de un texto, usando el tono de voz clonado. Finalmente, se fusiona el audio falso con el video original. En este último paso se suele sincronizar el movimiento de los labios, y otras expresiones corporales, del video original para que vayan acorde con el audio falso, generando así la apariencia realista del contenido generado.
+
+Una vez que sabemos qué son los _deepfakes_ vamos a analizar sus **potenciales usos**. Alguna vez Usted habrá visto una película doblada de inglés a español. Actualmente, en la industria del entretenimiento el **doblaje de películas**, en su mayoría, todavía se lo hace de **forma manual**. Primero se traduce y adapta el discurso de inglés a español. Luego se hace que actores, cuyo **tono de voz** encaja con los personajes de la película, interpreten dicho discurso, de tal manera que las voces dobladas coincidan lo más posible con la **gesticulación labial** de los personajes originales. Este proceso demanda mucho **tiempo** y **dinero**. Aparte, el tono de las voces de la película doblada no es el mismo que el de la película original. Usando el procedimiento antes descrito para la generación de _deepfakes_, podemos doblar una película, en tiempos mucho más cortos, y conservando el tono de voz de los personajes originales.
+
+En la misma línea, usando _deepfakes_ podemos doblar contenido educativo como cursos o discursos de **personajes famosos.** En el sector educativo podemos generar material más atractivo que ayude a captar el interés de los estudiantes. En el **arte** podemos crear exhibiciones de **artistas famosos** que ya han fallecido, haciendo que el propio **personaje** nos guíe a través de la exhibición mediante su _deepfake_. Como nos podemos dar cuenta, las potenciales aplicaciones con impacto positivo de los _deepfakes_ son múltiples en muchas áreas de **nuestra cotidianidad**.
+
+Volviendo al procedimiento para **generación** de _deepfakes_, cualquier persona que tenga imágenes, videos o audios publicados en internet es un potencial candidato para su **generación**. En palabras más simples, solo los que han estado y están completamente aislados del **mundo digital**, que son muy pocos en el mundo, son inmunes a los _deepfakes_. Obviamente, de entre todos los que somos susceptibles a los _deepfakes_, unos son más probables que otros. Usualmente, el **nivel de interés** radica en el grado de exposición pública que tiene una persona. Es por esta razón que usualmente vemos _deepfakes_ de políticos, **figuras públicas relevantes**, actores, artistas o deportistas.
+
+Desafortunadamente, como toda tecnología, también hay **malos usos** para los _deepfakes_. Estos malos usos van desde la generación de **publicidad engañosa**, hasta la diseminación de **noticias falsas** o ejecución de **estafas**. Por ejemplo, hace unos días se difundió en redes sociales un [video alterado de una entrevista dada por el Ministro de Gobierno de Ecuador](https://x.com/radiosucesosec/status/1848503874963050592), Arturo Félix Wong, en el contexto de la crisis energética que atravesamos en Ecuador. Este video, sumado a la molestia ciudadana por los cortes de energía eléctrica, despertó la molestia de muchos ciudadanos que no se percataron de la falsedad del video.
+
+Entonces, si casi todos somos susceptibles para que nos generen _deepfakes_ o de recibir **contenido alterado** o falso, la pregunta es ¿cómo nos protegemos ante esta situación? Los **gigantes tecnológicos**, que están detrás de las redes sociales y de la **búsqueda de datos** en internet, están al tanto de este tema y cada día toman medidas más estrictas para protegernos. Sin embargo, hay un segundo nivel de seguridad que le corresponde al usuario. Para evitar la generación de _deepfakes_ con fines maliciosos usando sus datos, tenga siempre precaución con las fotografías, videos y datos personales que publica en redes sociales. Adicionalmente, administre correctamente los permisos para controlar quién puede acceder al contenido que publica.
+
+Para evitar ser víctima de **desinformación**, engaños, estafas o **robos** mediante el uso de _deepfakes_, antes de dar por verdadero lo que le intentan transmitir, analice con mucho detenimiento su contenido. Si no está seguro, verifique los datos que contiene el contenido sospechoso. Con educación, datos verificados y **pensamiento crítico**, Usted tendrá mayor **inmunidad** a los _deepfakes_ y demás contenido digital falso. Por lo tanto, no crea todo el contenido digital que ve o escucha, en su lugar, analice y verifique lo que consume.
+
+Las redes contra los medios
+===========================
+
+Medios importantes en EE. UU. renuncian a respaldar candidatos para recuperar credibilidad.
+-------------------------------------------------------------------------------------------
+
+![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
+
+El próximo martes podremos saber quién influye más en la **elección presidencial** de **Estados Unidos**,  las redes sociales o los **medios** de **comunicación**. Los medios están por **Kamala Harris** y las redes por **Donald Trump**. Elon Musk, el dueño de la poderosa plataforma X, se entregó con plata y persona a la campaña de Trump. En los medios hay división.
+
+El **Washington Post** que siempre había apoyado a los **demócratas**, decidió ahora no respaldar a ninguno de los **candidatos**. El dueño del diario, Jeff Bezos, explicó su posición diciendo que la **crisis** de la prensa se debe a falta de **credibilidad** y que apoyar a un **candidato**, como hacían los **diarios**, cuestiona su **independencia**.
+
+La decisión provocó un áspero **debate dentro** y fuera del diario. **Ejecutivos** y columnistas importantes decidieron renunciar y 250.000 lectores pidieron cancelar su **suscripción**. Las pérdidas llegaron el año pasado a 77 millones de dólares. La gente ya no cree en la **independencia** de los diarios, sostiene Bezos.
+
+Los críticos creen que Bezos se doblegó ante las **amenazas** de Trump quien pocos días antes había dicho del diario: “Son **despreciables** y **malignos**. En realidad son enemigos del pueblo”. Bezos insiste en que la prensa no se hace cargo de la realidad: “no basta con ser veraces, tenemos que ser veraces y conseguir que la gente crea, que lo somos”
+
+Uno de los **columnistas fieles** sostiene que el **modelo** de **negocio** de los **diarios** ha colapsado y la **desinformación** (redes) ha llenado ese vacío. Asegura que Jeff Bezos garantiza la libertad:  “durante nueve años he catalogado a **Trump** como racista y fascista, he añadido más **evidencia** cada semana, y nunca he sido observado… mientras tenga libertad seguiré escribiendo y espero que me sigan leyendo”.
+
+_The Washington Post, Los Angeles Times y USA Today_, tres diarios importantes, han roto la **tradición** de respaldar a uno de los **candidatos**. La decisión será, para algunos, una forma de asumir una **posición política**, para otros será una forma de buscar **independencia** y **credibilidad**.
+
+Cartas a Quito / 2 de noviembre de 2024
+=======================================
+
+Estas son las cartas a Quito de este sábado 2 de noviembre de 2024
+------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Reflexiones del 2 de noviembre
+------------------------------
+
+El 2 de noviembre es una fecha que evoca recuerdos profundos y emociones intensas en nuestra sociedad. En Ecuador, esta conmemoración, conocida como el Día de los Difuntos, no solo es un momento para recordar a nuestros seres queridos que han partido, sino también una oportunidad para reflexionar sobre la vida y la muerte, y sobre el legado que dejamos en quienes nos rodean. Cada año, las familias se reúnen para honrar a sus difuntos, preparando las tradicionales guaguas de pan y colada morada.
+
+Estos alimentos no son solo un deleite para el paladar; son símbolos de amor y conexión con nuestras raíces. La colada morada, con su mezcla de sabores y colores, representa la riqueza cultural de nuestro país y el respeto por las tradiciones que nos han sido transmitidas a través de generaciones. Sin embargo, más allá de las costumbres culinarias, este día nos invita a reflexionar sobre cómo vivimos nuestras vidas. ¿Estamos realmente valorando a nuestros seres queridos? ¿Estamos dejando un impacto positivo en nuestra comunidad?
+
+La muerte nos recuerda la fragilidad de la vida y la importancia de aprovechar cada momento. Es un llamado a vivir con propósito y a cultivar relaciones significativas. En este contexto, es fundamental que las nuevas generaciones comprendan el significado del 2 de noviembre. No se trata solo de un día festivo; es una ocasión para recordar nuestras raíces y mantener vivas las memorias de aquellos que han partido.
+
+Debemos enseñarles a honrar a sus antepasados no solo con rituales, sino también con acciones que reflejen los valores que ellos nos inculcaron. La celebración del Día de los Difuntos debería ser un recordatorio constante de la importancia de la memoria colectiva y del legado familiar. Este 2 de noviembre, invitemos a nuestros jóvenes a participar activamente en estas conmemoraciones, asegurándonos de que el espíritu de nuestros difuntos siga vivo en cada guagua de pan horneada y en cada vaso de colada morada compartido.
+
+Recordemos que cada día es una oportunidad para construir recuerdos duraderos y dejar huellas imborrables en el corazón de quienes amamos. La muerte no debe ser vista como un final, sino como una continuación del amor y la memoria que compartimos. Que sea un día lleno de reflexión, amor y unidad familiar.
+
+María Delia Martínez Jiménez
+
+Calderón se resiste a perder sus tradiciones en el Día de los Difuntos
+======================================================================
+
+En Calderón, una parroquia que está en el norte de Quito, todavía se mantiene la tradición del Día de los Difuntos.
+-------------------------------------------------------------------------------------------------------------------
+
+![Calderón realiza una jornada turística durante el Día de los Difuntos.](https://www.elcomercio.com/wp-content/uploads/2024/11/Calderon-dia-de-los-difuntos.jpg)
+
+El **Día de los Difuntos** se conmemora cada 2 de noviembre. Esta fecha se estableció desde la **colonización** **española**, cuando los conquistadores llegaron a **Ecuador** e impusieron sus **creencias** sobre las de los **indígenas**[.](https://es.wikipedia.org/wiki/D%C3%ADa_de_los_Fieles_Difuntos "https://es.wikipedia.org/wiki/D%C3%ADa_de_los_Fieles_Difuntos")
+
+### Más noticias
+
+* [Actividades en museos de Quito por el feriado del Día de los Difuntos](https://www.elcomercio.com/actualidad/quito/museos-actividades-quito-feriado-dia-difuntos.html "Actividades en museos de Quito por el feriado del Día de los Difuntos")
+* [¿Cuántos feriados hay en noviembre de 2024 en Ecuador?](https://www.elcomercio.com/actualidad/ecuador/feriados-noviembre-ecuador-difuntos-independencia-cuenca.html "¿Cuántos feriados hay en noviembre de 2024 en Ecuador?")
+* [Colada morada y guaguas de pan, tradición ecuatoriana](https://www.elcomercio.com/sabores/colada-morada-guaguas-pan-tradicion-ecuatoriana.html "Colada morada y guaguas de pan, tradición ecuatoriana")
+
+A pesar de ello, se mantiene la esencia de recordar a los **seres queridos** que dejaron el **mundo terrenal**, como en la parroquia de **Calderón**, donde se intenta preservar las costumbres ancestrales.
+
+Sin embargo, como explica el docente en historia **Carlos** **Garrido**, estas tradiciones han sido absorbidas poco a poco por nuevas **costumbres**.
+
+Calderón celebra el Aya Markay Quilla o día de cargar a los muertos
+-------------------------------------------------------------------
+
+Garrido cuenta que los orígenes del **Día de los Difuntos** no son una celebración completamente **ancestral**. Fue impuesta por los **españoles** con la **religión católica.**
+
+Cuando los conquistadores llegaron a **Ecuador**, observaron que, entre octubre y noviembre, los indígenas sacaban a sus **ancestros** y los exhibían en las calles para que **bendijeran la tierra** y los **cultivos**.
+
+Este ritual no fue del agrado de los **españoles**, quienes consideraban que se profanaban los cuerpos. Así lo detalla el **historiador** quiteño **Héctor López.**
+
+En la actualidad, el día se celebra como una f**estividad en Calderón**, aunque, según **Garrido**, estas tradiciones están en proceso de **desaparecer**, ya que los **indígenas de la parroquia**, ubicada en el norte de **Quito**, son desplazados hacia zonas más rurales o quedan cada vez menos.
+
+¿Cómo era el Aya Markay Quilla?
+-------------------------------
+
+Esta tradición fue heredada de los **incas** y **Calderón** es una de las parroquias de **Quito** que intenta mantenerla.
+
+Después de pasear a sus **muertos**, los **indígenas** se sentaban junto a las **tumbas** para **comer** y **beber** sangre de **llama** o de aves.
+
+Esto, según **Garrido**, generaba un sentido de **unión** entre el mundo de los **vivos** y el de los **muertos**. Además, se colocaba el plato favorito del difunto en su puesto de la mesa del comedor.
+
+Como estas prácticas no eran del agrado de los españoles ni del catolicismo, hicieron que la **celebración** se integrara al **Día de los Fieles Difuntos**, que se conmemora el 2 de noviembre, como el Día de los Fieles Difuntos.
+
+¿Cómo se celebra actualmente el Día de los Muertos en Calderón?
+---------------------------------------------------------------
+
+**Garrido** sostiene que lo único constante en la cultura es su cambio. “En un futuro, quién sabe, tal vez no se coma la guagua de pan ni la colada morada como se hace ahora”, comenta.
+
+Con esta premisa, se entiende que actualmente, en **Calderón**, se lleva a cabo una jornada turístico-cultural denominada **Aya Markay Quilla** – Fiesta de los Difuntos, los días 1 y 2 de noviembre.
+
+La finalidad, según el **Municipio de Quito**, es fortalecer y mantener viva la **cultura**, **costumbres** y **tradiciones**.
+
+Entre las actividades que se incluyen están la elaboración de **guaguas de pan** y **colada morada**, danzas y visitas al cementerio de la parroquia.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Comercio-1024x683.jpg)
+
+Familiares visitan las tumbas de sus seres queridos en Calderón. Foto: Cortesía.
+
+La guagua de pan y la colada morada, una huella de la resistencia indígena
+--------------------------------------------------------------------------
+
+Es importante recordar que el pan no es originario de **Ecuador**; llegó con los españoles, quienes introdujeron el trigo.
+
+Cuando los españoles prohibieron sacar a los difuntos de sus tumbas, según Héctor López, los indígenas buscaron nuevas formas de continuar con su tradición.
+
+Así, optaron por elaborar pan con figuras de **animales**, **soldados** y **niños**, de modo que, aunque de manera diferente, continuaron con su ritual.
+
+Lo mismo ocurrió con la **colada morada**. Los indígenas dejaron de beber sangre de animales y optaron por usar **maíz morado**.
+
+Ahora, como menciona López, el paladar **mestizo** incorporó nuevos ingredientes tanto al pan como a la colada morada.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Comercio-1024x683.png)
+
+Las guaguas de pan se comen con colada morada. Foto: Archivo / EL COMERCIO.
+
+Secuestro de exalcaldesa de Colimes, Jackeline Ordóñez, sigue sin resolverse
+============================================================================
+
+Cinco sujetos ingresaron hasta la finca de Jackeline Ordóñez y se la llevaron a la fuerza en un automóvil que la Policía halló cinco horas más tarde.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Este es el vehículo en el cual cinco sujetos se llevaron a Jackeline Ordóñez.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-17.jpg)
+
+A las **07:00 de este viernes 1 de noviembre del 2024**, cinco sujetos ingresaron a la finca de Jackeline Ordóñez, exalcaldesa de **Colimes**, en la provincia del **Guayas**. Se la llevaron con rumbo desconocido, luego de maniatar a quienes trabajaban en su propiedad cacaotera para la producción de chocolate.
+
+### Más noticias
+
+* [Policía despliega efectivos para seguridad de candidatos presidenciales](https://www.elcomercio.com/actualidad/politica/policia-despliega-efectivos-para-seguridad-candidatos-presidenciales.html "Policía despliega efectivos para seguridad de candidatos presidenciales")
+* [Barrios de Quito se organizan contra la inseguridad por cortes de luz](https://www.elcomercio.com/actualidad/quito/seguridad-barrios-quitocortes-luz.html "Barrios de Quito se organizan contra la inseguridad por cortes de luz")
+* [Daniel Noboa destina armas incautadas en Galápagos para el Bloque de Seguridad](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-armas-incautadas-galapagos-bloque-de-seguridad.html "Daniel Noboa destina armas incautadas en Galápagos para el Bloque de Seguridad")
+
+El destino de Ordóñez preocupa a sus amigos y familiares
+--------------------------------------------------------
+
+Amigos y familiares están preocupados tras el secuestro de la exalcaldesa de Colimes, Jackeline Ordóñez, cuyo paradero aún es desconocido. Y también hay **consternación** en la comunidad política ecuatoriana.
+
+Los **cinco sujetos** ingresaron a su finca en un **auto negro**, cuando la exfuncionaria llegaba a su finca. Aproximadamente cinco horas más tarde, la **Policía Nacional** halló el **vehículo** al que subieron a la fuerza a la **exalcaldesa** de **Colimes**.
+
+Según reportes, los secuestradores abandonaron el automóvil en la vía a **Laurel**, en el recinto **Judith**, distrito de **Daule**. Fue Jimmy Jairala, candidato a la Presidencia por **Centro Democrático**, fue de los primeros que divulgó el hallazgo del auto a través de redes sociales.
+
+> Hace pocos momentos fue localizado el vehículo de la ex alcaldesa de Colimes, Jackeline Ordóñez. Fue secuestrada por individuos que ingresaron a su finca a las 7h00 y la llevaron con rumbo desconocido.  
+> Aún se desconoce su paradero. La [@PoliciaEcuador](https://twitter.com/PoliciaEcuador?ref_src=twsrc%5Etfw) ha desplegado una intensa… [pic.twitter.com/nvrqajzNpJ](https://t.co/nvrqajzNpJ)
+> 
+> — Jimmy Jairala (@jimmyjairala) [November 1, 2024](https://twitter.com/jimmyjairala/status/1852396503647522938?ref_src=twsrc%5Etfw)
+
+Intensa búsqueda de Ordóñez
+---------------------------
+
+La **Policía Nacional** ha confirmado que realiza una intensa búsqueda para dar con su paradero. Tras el secuestro de la exalcaldesa de Colimes, los operativos se llevaron a cabo en varios puntos de la provincia del Guayas, como **Palestina**, **Santa Lucía** y **Daule**. Hasta las 20:23 de este 1 de noviembre del 2024, no se conocía del paradero de **Ordóñez**, quien fue alcaldesa de **Colimes** entre:  2009 y 2014 y 2019 – 2023[.](https://es.wikipedia.org/wiki/Cant%C3%B3n_Colimes "https://es.wikipedia.org/wiki/Cant%C3%B3n_Colimes")
+
 Más de 64 millones de personas ya han votado por adelantado en EE.UU.
 =====================================================================
 
@@ -545,472 +900,3 @@ En la tabla acumulada, Emelec ocupa el noveno puesto con 32 puntos y mantiene la
 
 No te pierdas nuestro Especial de Halloween
 -------------------------------------------
-
-México presenta el Festival Internacional del Globo 2024 
-=========================================================
-
-El evento se realizará del 15 al 18 de noviembre de 2024.
----------------------------------------------------------
-
-![Imagen referencial sobre el Festival de Globos.](https://www.elcomercio.com/wp-content/uploads/2024/10/globos-pexels.jpg)
-
- La **secretaria de Turismo de México**, Josefina Rodríguez Zamora, presentó este lunes la edición 2024 del **Festival Internacional del Globo (FIG)**, a celebrarse en León, en el estado de Guanajuato, ubicado en el Bajío, centro-norte del país.
-
-### Más noticias
-
-* [La construcción de parques industriales en México crece un 20 %](https://www.elcomercio.com/actualidad/mundo/construccion-parques-industriales-mexico-crece-20.html "La construcción de parques industriales en México crece un 20 %")
-* [¿Por qué México llora a Fernando ‘Toro’ Valenzuela?](https://www.elcomercio.com/deportes/futbol/mexico-llora-fernando-toro-valenzuela-sanchez-chavez.html "¿Por qué México llora a Fernando ‘Toro’ Valenzuela?")
-* [Sheinbaum insistirá en la demanda de México contra Ecuador y en un salvoconducto para Glas](https://www.elcomercio.com/actualidad/mundo/sheinbaum-insistira-demanda-mexico-contra-ecuador-salvoconducto-glas.html "Sheinbaum insistirá en la demanda de México contra Ecuador y en un salvoconducto para Glas")
-
-La **funcionaria del Gobierno mexicano** precisó en conferencia que por este evento, a realizarse del 15 al 18 de noviembre, se estiman beneficios económicos por más de 800 millones de pesos (unos 40 millones de dólares), así como la llegada de 400 000 visitantes.
-
-Acompañada de la **gobernadora de Guanajuato**, Libia García Muñoz y la presidenta municipal de León, Alejandra Gutiérrez Campos, destacó la importancia de este festival, considerado uno de los más relevantes a nivel mundial en el ámbito de la aerostación.
-
-La funcionaria subrayó que el FIG ha sido reconocido como el evento de aerostación más importante del mundo en 2023, lo cual lo convierte en una plataforma destacada para la promoción de México.
-
-El FIG de este año contará con la participación de 200 globos aerostáticos de diversas formas y colores, provenientes de 20 países, incluidos **Alemania, Brasil, Turquía, Estados Unidos, Francia, España, Reino Unido, Canadá, Kenia, entre otros.**
-
-Este despliegue, que “pinta de colores el cielo de León”, forma parte de los esfuerzos de la Secretaría de Turismo (Sectur) para atraer visitantes y fomentar el turismo en el país.
-
-Asistentes de otros municipios
-------------------------------
-
-En ese sentido, **Rodríguez Zamora** destacó que el 89 % de los asistentes al FIG provienen de otros municipios del estado de Guanajuato, de otras demarcaciones e incluso de otros países, lo que contribuye a una ocupación hotelera del 90 % en León durante el festival.
-
-La gobernadora García Muñoz resaltó que el éxito de este tipo de eventos en Guanajuato se debe al trabajo en equipo y al **atractivo turístico de la entidad,** que cuenta con dos Ciudades Patrimonio de la Humanidad y seis Pueblos Mágicos.
-
-“Guanajuato es un estado que le abre las puertas al turismo y se siente orgulloso de recibir a quienes lo visitan”, declaró.
-
-En su oportunidad, Alejandra Gutiérrez Campos, presidenta municipal de León, mencionó que este municipio cuenta con **infraestructura hotelera y restaurantera** lista para recibir a turistas, tanto nacionales como internacionales, que estarán presentes en este gran evento. 
-
-Actividades en museos de Quito por el feriado del Día de los Difuntos
-=====================================================================
-
-Los museos de Quito tienen una amplia agenda cultural para el feriado del Día de Difuntos e Independencia de Cuenca.
---------------------------------------------------------------------------------------------------------------------
-
-![Los museos de Quito tiene diferentes actividades por el feriado.](https://www.elcomercio.com/wp-content/uploads/2024/11/Museos-feriado-Quito.jpg)
-
-Durante el próximo feriado, los espacios **culturales** de la **Fundación Museos de la Ciudad** abrirán sus puertas con una tarifa especial de 1 dólar. Esta iniciativa brinda a la ciudadanía una alternativa accesible y enriquecedora[.](https://es.wikipedia.org/wiki/D%C3%ADa_de_los_Fieles_Difuntos "https://es.wikipedia.org/wiki/D%C3%ADa_de_los_Fieles_Difuntos")
-
-Más noticias
-------------
-
-* [Iglesias del Centro Histórico de Quito son siempre una alternativa para el feriado](https://www.elcomercio.com/actualidad/quito/iglesias-centro-historico-quito-alternativa-visita-feriado.html "Iglesias del Centro Histórico de Quito son siempre una alternativa para el feriado")
-* [Horarios de atención de los cementerios en Quito para el feriado](https://www.elcomercio.com/actualidad/quito/horarios-atencion-cementerios-quito-feriado.html "Horarios de atención de los cementerios en Quito para el feriado")
-* [Quito ofrece diversas opciones de turismo rural para los feriados de noviembre](https://www.elcomercio.com/actualidad/quito/quito-opciones-turismo-rural-feriados-noviembre.html "Quito ofrece diversas opciones de turismo rural para los feriados de noviembre")
-
-Este descuento aplicará en el Museo de la Ciudad, el Yaku Parque Museo del Agua y el Museo Interactivo de Ciencia. Por otro lado, el Centro de Arte Contemporáneo mantendrá su **acceso libre.**
-
-Actividades especiales con acceso libre o con la entrada de un dólar
---------------------------------------------------------------------
-
-El 3 de noviembre, desde las 10:00, el **Centro de Arte Contemporáneo** invita a participar en **Guaguas** de **Punk** en **Hierbas Coladas.**
-
-Se trata de una actividad de **cocina** y **diálogo** sobre tradiciones, memoria y el derecho a la alimentación. La actividad es de **acceso libre** y empezará a las 10h00.
-
-En el **Yaku Parque Museo del Agua**, el 2 de noviembre, presentarán El **ciclo infinito de la vida** y la **muerte**.
-
-Este recorrido servirá reflexionar sobre las relaciones entre la **vida** y la **muerte** en el mundo animal. Esta actividad, que incluye un taller de grabado, estará disponible con la entrada al museo.
-
-Actividades en los muesos de Quito con costo
---------------------------------------------
-
-Con la llegada de un nuevo feriado nacional, la Fundación Museos de la Ciudad invita a la ciudadanía a disfrutar de una propuesta cultural, que se llevará a cabo del 1 al 8 de noviembre.
-
-La programación incluye recorridos fantasmagóricos, talleres y noches especiales en los museos. Habrá actividades el Museo Interactivo de Ciencia, el Centro de Arte Contemporáneo, el Museo del Carmen Alto y el Museo de la Ciudad.
-
-La agenda, titulada Don Huesos y Doña Colada, invita a redescubrir estos espacios. Busca habitar el espacio público y fomentar el encuentro con el arte, la historia, la ciencia y la memoria. Estas propuestas creativas y únicas promueven el diálogo y el disfrute de experiencias inolvidables.
-
-Programación de la propuesta cultural de los museos de Quito
-------------------------------------------------------------
-
-Entre los eventos destacados, los días 1 y 2 de noviembre, a las 19:00, se podrá disfrutar de **Fantasmas en el templo de la luna**, un recorrido escalofriante por los mitos y anécdotas del **Antiguo Hospital Militar**. Los boletos se encuentran en preventa por 10 dólares y 15 dólares el día del evento.
-
-El **Convento del Carmen Alto** ofrecerá **Saberes** **de la muerte** del 1 al 3 de noviembre, de 15:00 a 17:00, para explorar los saberes relacionados con la **muerte** y su celebración en diferentes culturas.
-
-El 4 de noviembre, a las 11:00, habrá un recorrido especial para familias, donde los niños podrán crear sus propias **guaguas de pan**.
-
-El costo de esta actividad será de 15 dólares para el público general y 12 dólares para personas con discapacidad, adultos mayores y niños de 7 a 12 años.
-
-**El poder del adiós** es otra de las actividades imperdibles, del 1 al 4 de noviembre en el Museo de la Ciudad.
-
-Esta propuesta incluye recorridos por las **criptas del Antiguo Hospital San Juan de Dios**, con relatos y talleres para elaborar figuras de **mazapán**. La entrada tiene un costo de 5 dólares.
-
-El **Museo Interactivo de Ciencia** ofrecerá, el 2 de noviembre a las 10:00, el taller gratuito **Colada Morada** **Molecular**: **De la tradición a la Ciencia**, en el que se explorará la conexión entre los ingredientes de la colada morada y la ciencia molecular de una manera práctica.
-
-Los cupos son limitados y las inscripciones deben hacerse a través de un formulario en línea.
-
-Actividad para el 8 de noviembre
---------------------------------
-
-Como parte de la programación de la **Noche Iberoamericana de Museos**, el 8 de noviembre habrá tres veladas especiales:
-
-* **Plánticas en el Museo de la Ciudad** a las 18:00.
-* **Una noche en el Museo del Carmen Alto** desde las 17:00.
-* EMPARAMADOS en **Yaku Museo del Agua** a las 18:00.
-
-Cada una de estas actividades tiene un costo de 9 dólares.
-
-Deportivo Quito vs. Toreros y siete partidos más del Ascenso Nacional
-=====================================================================
-
-Deportivo Quito se enfrentará a Toreros FC en los octavos de final del Torneo de Ascenso Nacional.
---------------------------------------------------------------------------------------------------
-
-![Jugadores del Deportivo Quito en el Gonzalo Pozo Ripalda en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/rivales_1.jpg)
-
-El **Deportivo Quito** sigue en la lucha por conseguir uno de los dos cupos que otorga el Torneo de Ascenso Nacional, organizado por la Federación Ecuatoriana de Fútbol (FEF), para la Liga Pro Serie B 2025.
-
-La última vez que el **Deportivo Quito estuvo en la Serie B fue en el 2016**. Esa temporada descendieron a la Segunda Categoría, no han podido regresar, e incluso tuvieron un paso por el Fútbol Amateur de Pichincha.
-
-### Más noticias:
-
-* [FC Barcelona noquea al Real Madrid en el clásico](https://www.elcomercio.com/deportes/futbol/real-madrid-barcelona-alineaciones-partido-resultado-2024.html "FC Barcelona noquea al Real Madrid en el clásico")
-* [Liga de Quito no puede con Mushuc Runa y pierde el liderato](https://www.elcomercio.com/deportes/liga-quito-lider-mushuc-runa-var-idv.html "Liga de Quito no puede con Mushuc Runa y pierde el liderato")
-* [Liga de Quito está en shock por ‘errores arbitrales’](https://www.elcomercio.com/deportes/liga-quito-errores-arbitrales-quejas-futbol-vitamina-sanchez.html "Liga de Quito está en shock por ‘errores arbitrales’")
-
-Para llegar a los octavos de final, el **Quito tuvo un duro rival en Cantera Orense**. En los 180 minutos empataron 1-1 y recurrieron a una dramática tanda de penales para ganar 3-2 y desatar el festejo de los más de 10 000 hinchas que llegaron al estadio Gonzalo Pozo Ripalda.
-
-El siguiente rival de la ‘AKD’ será **Toreros FC de Guayaquil, el verdugo de Santa Elena Sumpa** con un marcador global de 4-1, con lo que esta llave promete ser una de las más atractivas de la ocho que contempla los octavos de final.
-
-En esta instancia se clasificaron ocho cuadros de la Costa (Deportivo Quevedo, La Paz FC, Patria, Liga de Portoviejo, **Naranja Mekánica, Toreros FC**, 22 de Julio, Huancavilca); siete de la Sierra (Aviced, Deportivo Quito, Cuenca Juniors, La Troncal, La Unión, Mineros y Atlético Vinotinto) y uno de la Amazonia (Primero de Mayo).
-
-Los partidos de ida y vuelta de esta etapa se jugarán entre el viernes 1 y el domingo 10 de noviembre.
-
-El Quito en el Ascenso Nacional
--------------------------------
-
-En el 2017 el Deportivo Quito regresó a la Segunda Categoría de Pichincha luego de **50 años de ausencia** y de transitar entre la A y la B. 
-
-Para una institución como el Quito cada año se le volvió complejo regresar a los primeros planos del fútbol nacional por la crisis institucional y económica que los aqueja por más de una década. 
-
-Antes de 2024, la única vez que participaron en el Torneo de Ascenso Nacional fue en el 2022 como uno de los cinco representantes de Pichincha junto a Aampetra, Cuniburo FC, Club Deportivo General Miguel Iturralde y Espoli. 
-
-En Pichincha el Quito fue el subcampeón y **perdió el título con Aampetra** por tan solo dos puntos en el hexagonal final. 
-
-Ya en el torneo nacional arrancó con pie derecho al vencer por un marcador **global de 3-2 a Dunamis 0-4 del Carchi** en los treintaidosavos de final. 
-
-En los octavos de final se midió contra B**aldor Bermeo Cabrera de Azuay**. En el global quedaron empatados 2-2 y en la definición de penales los azuayos ganaron 3-2 poniendo fin al sueño de los chullas. 
-
-Ese año los ascendidos fueron **San Antonio de Imbabura y Cuniburo** de Pichincha.
-
-Octavos de final
-----------------
-
-### Sábado 2/11
-
-**11:30 La Unión vs. Patria**
-
-Estadio: El Horno – Pujilí
-
-**13:00 La Paz vs. Mineros**
-
-Estadio: Reales Tamarindos – Portoviejo
-
-**13:00 Toreros vs. Deportivo Quito**
-
-Estadio: Alejandro Ponce Noboa – Guayaquil
-
-**15:00 Huancavilca vs. 22 de Julio**
-
-Estadio: Alberto Spencer – Guayaquil
-
-**15:30 La Troncal vs. Cuenca Jrs.**
-
-Estadio: Municipal – La Troncal
-
-### Domingo 3/11
-
-**11:30 Atlético Vinotinto vs. Deportivo Quevedo**
-
-Estadio: Olímpico Atahualpa – Quito
-
-**15:00 Liga de Portoviejo vs. Naranja Mekánica**
-
-Estadio: Reales Tamarindos – Portoviejo
-
-**15:00 Primero de Mayo vs. Aviced**
-
-Estadio: Municipal – Yantzaza
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/quito_octavos_2-1024x683.jpg)
-
-San viernes – Especial de Halloween
------------------------------------
-
-Cancelan el Gran Premio de MotoGP de la Comunitat Valenciana por la DANA
-========================================================================
-
-Las víctimas mortales en la provincia de Valencia a causa de la DANA ascienden hasta las 202.
----------------------------------------------------------------------------------------------
-
-![Imagen de un piloto del MotoGP en octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/dana_gp_1.jpg)
-
-El Gran Premio Motul de MotoGP de la Comunitat Valenciana, **previsto del 15 al 17 de noviembre de 2024**, ha sido cancelado debido a las graves consecuencia de la DANA que ha asolado buena parte de la provincia de Valencia, informaron fuentes del Circuito Ricardo Tormo, ubicado en Cheste, población afectada por el temporal.
-
-Además, desde la organización del campeonato de MotoGP **se ha comunicado que se está estudiando una nueva sede** y fechas para albergar la prueba que cierra el calendario de MotoGP de 2024.
-
-### Más noticias:
-
-* [Un jugador clave de Ecuador se lesionó y peligra su convocatoria](https://www.elcomercio.com/deportes/futbol/jugador-clave-de-ecuador-se-lesiono-peligra-convocatoria-angelo-preciado.html "Un jugador clave de Ecuador se lesionó y peligra su convocatoria")
-* [LaLiga española suspende cinco partidos por la DANA](https://www.elcomercio.com/deportes/futbol/partidos-suspendidos-espana-la-dana.html "LaLiga española suspende cinco partidos por la DANA")
-* [Moisés Caicedo motivó a Alan Franco a ganar la Libertadores](https://www.elcomercio.com/deportes/futbol/moises-caicedo-motivo-a-alan-franco-a-ganar-la-libertadores.html "Moisés Caicedo motivó a Alan Franco a ganar la Libertadores")
-
-A pesar de que los accesos y los aparcamientos del Ricardo Tormo resultaron “seriamente dañados” el pasado martes 29 de octubre por la DANA, desde **la organización se consideraba viable la reparación y celebración de la prueba**, pero se ha considerado que la situación general de la zona no aconseja la celebración de eventos y finalmente este viernes se ha comunicado la cancelación de la prueba.
-
-La cancelación llega a la par de que este sábado 1 se conociese que las **víctimas mortales en la provincia de Valencia** a causa de la devastadora DANA ascienden ya hasta las 202, según el último recuento facilitado por el Centro de Emergencias de la Generalitat Valenciana.
-
-La mayoría de los pilotos ya se pronunciaron en la jornada del jueves 31 contrarios a correr en Cheste por razones éticas debido a la tragedia que viven miles de afectados por el temporal.
-
-Desde la Generalitat se ha informado de que tanto la organización del **Campeonato del Mundo de Motociclismo**, como la Federación Internacional de Motociclismo y los equipos y pilotos del mundial han trasladado al Circuit y a toda la Comunitat Valenciana su consternación por la situación y su apoyo a los familiares y amigos de las víctimas.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/dana_gp_2-1024x683.jpg)
-
-Estudian nueva sede
--------------------
-
-En su comunicado se añade que desde Dorna Sports, organizadora del Mundial, y en colaboración con la Federación Internacional y los equipos y pilotos se **están estudiando distintas alternativas para celebrar la última cita** del certamen y la ubicación de la última carrera se anunciará en breve.
-
-Además, desde la organización del Campeonato de MotoGP se indica, en una nota oficial, **que han estado en contacto constante** con las autoridades locales y los responsables el circuito para evaluar cómo ayudar y proceder, al considerar que tienen “una responsabilidad con cada región donde corremos que va mucho más allá del deporte y los eventos”.
-
-Asimismo, se asegura que “para garantizar que la presencia de MotoGP no desvíe ningún recurso de los esfuerzos de recuperación, tanto la organización como las autoridades locales se han visto obligadas a cancelar el GP de Valencia de 2024”.
-
-Los aficionados que tengan entrada para asistir al evento tendrán la oportunidad mantener sus asientos de cara al **Gran Premio de la Comunitat Valenciana del próximo año**, que se celebrará en el Circuit el 16 de noviembre de 2025, o, si lo desean podrán solicitar la devolución íntegra del coste de la entrada. 
-
-San viernes – Especial de Halloween
------------------------------------
-
-Cortes de luz en Quito para este 1 de noviembre
-===============================================
-
-Quito tendrá cortes de luz de seis horas durante este 1 de noviembre de 2024.
------------------------------------------------------------------------------
-
-![La Empresa Eléctrica Quito anunció los nuevos horarios de cortes de luz para la ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-de-luz-quito.jpg)
-
-El **Ministerio de Energía** ajustó los horarios de cortes de luz en todo el Ecuador para el feriado del **Día de los Difuntos** y la **Independencia de Cuenca**. El objetivo es minimizar el impacto en la ciudadanía durante los días de asueto[.](https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico "https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico")
-
-### Más noticias
-
-* [Cortes de luz en Guayaquil, con nuevos horarios del 1 al 4 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-nuevos-horarios-1-al-4-de-noviembre.html "Cortes de luz en Guayaquil, con nuevos horarios del 1 al 4 de noviembre")
-* [Cortes de luz en Quito, con nuevos horarios del 1 al 4 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-nuevos-horarios-1-al-4-de-noviembre.html "Cortes de luz en Quito, con nuevos horarios del 1 al 4 de noviembre")
-* [Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas](https://www.elcomercio.com/actualidad/ecuador/azuay-lluvias-ayuden-mazar-hidroelectricas.html "Azuay a la espera de lluvias que ayuden a la operación de Mazar y otras hidroeléctricas")
-
-En respuesta, la Empresa Eléctrica Quito (**EEQ**) publicó los nuevos horarios de cortes para la capital, vigentes desde el 1 de noviembre y hasta el lunes 4, cuando termina el feriado.
-
-¿Cómo se desarrollarán los cortes de luz en Quito este 1 de noviembre?
-----------------------------------------------------------------------
-
-Para el sector residencial, los cortes durarán seis horas diarias, mientras que en zonas industriales las interrupciones podrían alcanzar hasta 14 horas en ciertos sectores.
-
-A continuación, los detalles de los cortes para este 1 de noviembre en diferentes sectores de Quito:
-
-* **Miraflores, Río Coca, Conocoto, Tumbaco y Cumbayá**: la interrupción del servicio se programó de 05:00 a 08:00 y de 21:00 a 24:00.
-* **Luluncoto, Chilibulo, La Floresta, Cristianía y Eplicachima**: estos sectores tendrán cortes de luz de 09:00 a 12:00 y de 17:00 a 20:00.
-* **La Carolina, Nueva Cumbayá, Tababela, Los Bancos, Pérez Guerrero y El Obraje (Machachi)**: el suministro se interrumpirá de 02:00 a 05:00 y de 20:00 a 23:00.
-
-La **EEQ** ofrece un cuadro detallado con los horarios para otros sectores, que la ciudadanía puede consultar para evitar inconvenientes y organizar sus actividades.
-
-Razones del cambio de horarios de los cortes de luz
----------------------------------------------------
-
-El Ministerio de **Energía** explicó que los nuevos horarios buscan reducir el impacto en los ciudadanos durante el feriado. De este modo, los cortes interfieran lo menos posible en las **actividades cotidianas** y momentos de **descanso**.
-
-Entre los factores que motivaron este ajuste destacan las recientes lluvias en la cuenca hidrográfica oriental, las cuales permitieron mejorar las condiciones de los ríos que abastecen la central hidroeléctrica **Coca Codo Sinclair**.
-
-Estas precipitaciones también favorecieron una recuperación en el nivel de agua de la cota de **Mazar**, alcanzando los 2 114,24 metros sobre el nivel del mar el miércoles 30 de octubre por la tarde, lo cual generó una mejora en la disponibilidad de energía hidroeléctrica para el sistema nacional.
-
-Esta es la gran diferencia entre un vegetariano y vegano
-========================================================
-
-Este 1 de noviembre se celebra el Día Mundial de Veganismo.
------------------------------------------------------------
-
-![La dieta de los veganos está basada en plantas. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-31T113212.693.jpg)
-
-El **Día del Vegano** se celebra el 1 de noviembre y tiene como objetivo promover los beneficios de una **dieta basada en plantas**. También, concienciar sobre el **bienestar animal** y el impacto ambiental de la industria alimentaria.
-
-Esta fecha fue establecida en 1994 por la **Vegan Society** en el Reino Unido, en honor al movimiento vegano y sus principios.
-
-Durante este día, se organizan eventos, charlas y actividades que buscan informar a la población sobre los beneficios de adoptar un estilo de vida basado en plantas.
-
-### **Más noticias:**
-
-* [Películas veganas y animalistas](https://www.elcomercio.com/tendencias/bienestar/peliculas-imperdibles-veganos-vegetarianos-cine.html "https://www.elcomercio.com/tendencias/bienestar/peliculas-imperdibles-veganos-vegetarianos-cine.html")
-* [¿Qué significa Halloween?](https://www.elcomercio.com/tendencias/entretenimiento/halloween-significado-disfraces-celebracion-muertos-espiritus.html "https://www.elcomercio.com/tendencias/entretenimiento/halloween-significado-disfraces-celebracion-muertos-espiritus.html")
-* [Murió el gato que engordó hasta casi estallar](https://www.elcomercio.com/narices-frias/gato-muere-migajas-obeso-rusia.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/gato-muere-migajas-obeso-rusia.html?source=Internal&ref=Single+Content+Link")
-
-**Esta es la gran diferencia entre un vegetariano y vegano**
-------------------------------------------------------------
-
-Aunque ambos estilos de alimentación comparten similitudes al excluir la carne, existen diferencias significativas entre **vegetarianos y veganos.**
-
-**La esencia del vegetarianismo**
----------------------------------
-
-Los **vegetarianos** eliminan de su dieta la **carne**, incluyendo carne roja, aves y pescado. Sin embargo, pueden consumir productos derivados de animales como lácteos y huevos.
-
-Esa flexibilidad permite a los **vegetarianos** disfrutar de una variedad más amplia de alimentos en comparación con los veganos.
-
-**La dieta de los veganos**:
-----------------------------
-
-El **veganismo** es más estricto y no solo excluye la **carne**, sino también todos los productos de origen animal.
-
-Eso incluye lácteos, huevos, miel y cualquier alimento que implique la explotación animal. Además, el veganismo se extiende a un estilo de vida que evita productos como cuero, lana y cosméticos testados en animales.
-
-**Motivaciones para elegir cada dieta**
----------------------------------------
-
-Las razones para adoptar una dieta **vegetariana** o **vegana** varían e incluyen preocupaciones por la salud, el bienestar animal y el impacto ambiental.
-
-Carla Andrade -por ejemplo- se inclinó por el **vegetarianismo** tras adoptar a su primera **gata**; ahora tiene tres. “Ella solo llegó para reafirmar algo que ya quería hacer desde hace mucho tiempo. Primero dejé las carnes y luego, cuando llegó mi gatita, los mariscos”.
-
-**Los vegetarianos también tienen su día**
-------------------------------------------
-
-El **Día del Vegetariano** se celebra el 1 de octubre y tiene como objetivo promover un **estilo de vida** que prioriza el consumo de alimentos de **origen vegetal**.
-
-Este día busca concienciar sobre los beneficios de una **dieta vegetariana**, tanto para la **salud humana** como para el **medio ambiente.**
-
-La Liga Pro se define en el feriado, ¿qué partidos se juegan?
-=============================================================
-
-Independiente del Valle, Liga de Quito y Orense son los candidatos a ganar la segunda etapa.
---------------------------------------------------------------------------------------------
-
-![Gabriel Achilier con Orense en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/fecha_11_1.jpg)
-
-La **Liga Pro** entra en su recta final con la pelea por conocer al ganador de la segunda etapa, que será el retador de Independiente del Valle en las finales de diciembre, o entregará el títulos a los ´rayados´ directamente.
-
-Del viernes 1 al lunes 4 de noviembre de 2024, **en medio del feriado más largo de Ecuador en el año**, la Liga Pro desarrollará sus ocho partidos de la fecha 12 que dejarán un poco más claro, o no, el panorama del favorito para ser el número uno en la tabla de posiciones.
-
-### Más noticias:
-
-* [Liga de Quito, a cuatro partidos de una nueva final en la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-a-cuatro-partidos-de-una-nueva-final-en-la-liga-pro.html "Liga de Quito, a cuatro partidos de una nueva final en la Liga Pro")
-* [(Video) Enner Valencia cumplió su promesa a una pequeña fanática en Brasil](https://www.elcomercio.com/deportes/futbol/enner-valencia-cumplio-promesa-pequena-fanatica-en-brasil.html "(Video) Enner Valencia cumplió su promesa a una pequeña fanática en Brasil")
-* [Un jugador clave de Ecuador se lesionó y peligra su convocatoria](https://www.elcomercio.com/deportes/futbol/jugador-clave-de-ecuador-se-lesiono-peligra-convocatoria-angelo-preciado.html "Un jugador clave de Ecuador se lesionó y peligra su convocatoria")
-
-Independiente del Valle, Liga de Quito y Orense llegan a las últimas cuatro jornadas de la segunda fase de la Liga Pro inmersos en una pareja pelea para adjudicarse esta etapa del torneo.
-
-El **cuadro del Valle y Liga cuentan con 23 puntos**, mientras que Orense les sigue en tercer lugar con 22 unidades.
-
-El **Independiente recibirá a El Nacional**, en lo que será la antesala de la final de la Copa Ecuador que estos dos mismos cuadros pondrán en escena el 27 de noviembre en el estadio Olímpico de Ibarra.
-
-El técnico del Independiente, el argentino Javier Gandolfi, ganador de la primera fase, **echará de menos a Junior Sornoza**, debido a una lesión, y el técnico de El Nacional, el también argentino Marcelo Zuleta, dispondrá de toda su plantilla.
-
-Entretanto, **Liga de Quito visitará a Emelec, en un partido donde su entrenador**, el argentino Pablo ‘Vitamina’ Sánchez, procurará sacar a su cuadro del bajón futbolístico mostrado en la reciente fecha en la que empató de local contra Mushuc Runa.
-
-Será un decisivo partido, pues LDU intentará abrirse camino para ser ganar la segunda fase y **disputarse el título de campeón de la Liga Pro** ante Independiente del Valle, que fue el ganador de la primera fase. Mientras, Emelec saldrá a este partido con el afán de consolidarse en zona de acceso a la Copa Sudamericana.
-
-El Emelec, del técnico colombiano **Leonel Álvarez, experimentó el miércoles la renuncia de su presidente José Pileggi**, consecuencia de la crisis económica y futbolística, y también las bajas del portero Pedro Ortiz y del defensa Luis Fernando León, por sendas lesiones.
-
-Orense espera agazapado
------------------------
-
-Por su parte, el Orense, **del entrenador colombiano Santiago ‘Sachi’ Escobar**, echará manos de figuras como el goleador local, Miguel Parrales, en el enfrentamiento de local contra el Delfín.
-
-Para el Cetáceo será un decisivo partido, en su afán por zafarse de los últimos puestos de la tabla acumulada de la actual temporada, y resarcirse de la reciente goleada por 4-0 a manos del Barcelona.
-
-La Universidad Católica, **que dirige el técnico argentino Jorge Célico**, está obligado a ganar para tratar de acercarse a la cabeza de la clasificación, pues está con 20 puntos, y el próximo lunes visitará a Técnico Universitario.
-
-El cuadro universitario cerró la fecha pasada goleando por 0-6 al Imbabura y alienta también alguna posibilidad para acceder a la zona de clasificación a la próxima Sudamericana.
-
-Mientras, el **Barcelona, con 19 puntos, visitará al Aucas de Quito**, en un nuevo desafío para el entrenador interino Segundo Alejandro Castillo, que saldrá por el tercer triunfo consecutivo desde que reemplazó al argentino Ariel Holan, que se marchó del club de Guayaquil fruto de los malos resultados.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/fecha_11_2-1024x683.jpg)
-
-Foto: API.
-
-Fecha 12 – segunda etapa
-------------------------
-
-### Viernes 1/11
-
-**15:30 Orense vs. Delfín**
-
-Estadio: 9 de Mayo
-
-### Sábado 2/11
-
-**10:30 Cumbayá vs. Deportivo Cuenca**
-
-Estadio: Olímpico Atahualpa
-
-**13:00 Libertad vs. Imbabura**
-
-Estadio: Reina del Cisne
-
-**15:30 Aucas vs. Barcelona SC**
-
-Estadio: Gonzalo Pozo Ripalda
-
-### Domingo 3/11
-
-**10:30 Mushuc Runa vs. Macará**
-
-Estadio: La Cocha
-
-**13:00 Independiente del Valle vs. El Nacional**
-
-Estadio: IDV
-
-**15:30 Emelec vs. Liga de Quito**
-
-Estadio: George Capwell
-
-### Lunes 4/11
-
-**15:00 Técnico Universitario vs. Universidad Católica**
-
-Estadio: Bellavista
-
-San viernes – Especial de Halloween
------------------------------------
-
-Siniestro de tránsito en la avenida Simón Bolívar deja cinco personas heridas
-=============================================================================
-
-El siniestro de tránsito provocó el cierre de carriles hasta que las autoridades atiendan la emergencia.
---------------------------------------------------------------------------------------------------------
-
-![El camión que transportaba leche se volcó producto del siniestro de tránsito.](https://www.elcomercio.com/wp-content/uploads/2024/11/Siniestro-de-transito.jpg)
-
-Esta mañana del 1 de noviembre de 2024, el **Cuerpo de Bomberos Quito** informó sobre un siniestro de tránsito en la avenida **Simón** **Bolívar**, ocurrido aproximadamente a las 07:51 en el sector de la **Universidad Internacional[.](https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito#:~:text=Los%20siniestros%20viales%20no%20son,mal%20estado%20de%20una%20calle%2F "https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito#:~:text=Los%20siniestros%20viales%20no%20son,mal%20estado%20de%20una%20calle%2F")**
-
-### Más noticias
-
-* [Que la prevención de los siniestros de tránsito no se detenga en Quito](https://www.elcomercio.com/opinion/editorial/prevencion-siniestros-transito-quito-accidentes.html "Que la prevención de los siniestros de tránsito no se detenga en Quito")
-* [Gilmar Napa, jugador de Emelec, involucrado en siniestro de tránsito](https://www.elcomercio.com/deportes/futbol/gilmar-napa-emelec-siniestro-transito.html "Gilmar Napa, jugador de Emelec, involucrado en siniestro de tránsito")
-* [Marco Angulo, de Liga de Quito, sigue hospitalizado tras siniestro de tránsito](https://www.elcomercio.com/deportes/futbol/marco-angulo-de-liga-de-quito-sigue-hospitalizado-tras-siniestro-de-transito.html "Marco Angulo, de Liga de Quito, sigue hospitalizado tras siniestro de tránsito")
-
-El **siniestro** involucró a dos **vehículos** **livianos** y un **camión** de transporte de leche que volcó, lo cual resultó en varias **personas heridas debido al impacto.**
-
-Heridos durante el siniestro de tránsito en la avenida Simón Bolívar
---------------------------------------------------------------------
-
-El Cuerpo de **Bomberos** de Quito movilizó a 12 efectivos junto con vehículos de emergencia y ambulancias.
-
-Los paramédicos atendieron a cinco personas con **policontusiones menores**. Afortunadamente, su estado de salud fue considerado estable y, tras una evaluación inicial, las trasladaron a un centro de salud para recibir atención médica.
-
-El traslado se realizó en las **ambulancias** del Ministerio de Salud Pública, Ayumed y Bomberos Quito.
-
-> 💥🚗 [#EmergenciasUIO](https://twitter.com/hashtag/EmergenciasUIO?src=hash&ref_src=twsrc%5Etfw) | A esta hora se registra un siniestro de tránsito en la Av. Simón Bolívar, sector de la Universidad Internacional.  
->   
-> 🤕 Cinco personas resultaron afectadas.  
->   
-> 🚒 Nuestro equipo brinda atención prehospitalaria a los heridos.[#BomberosQuito](https://twitter.com/hashtag/BomberosQuito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/d6cANu7AUJ](https://t.co/d6cANu7AUJ)
-> 
-> — Bomberos Quito (@BomberosQuito) [November 1, 2024](https://twitter.com/BomberosQuito/status/1852346782488904144?ref_src=twsrc%5Etfw)
-
-Cierre vial en la avenida Simón Bolívar por el siniestro de tránsito
---------------------------------------------------------------------
-
-Paralelamente, la Agencia Metropolitana de Tránsito (**AMT**) llegó al lugar del siniestro de tránsito y cerró dos carriles en la avenida **Simón Bolívar**, en dirección sur-norte, como medida de seguridad para facilitar las labores de rescate y atención.
-
-Sin embargo, a las 08:50, la **AMT** reabrió el **carril central** para aliviar la congestión vehicular que se generó en la zona.
-
-Desde entonces, las autoridades de tránsito solicitan a los conductores que circulen con **precaución** por el sector debido a la presencia de los vehículos involucrados y al trabajo continuo de los equipos de emergencia en el sitio.
-
-Las autoridades permanecen en la escena del **siniestro de tránsito**, a la espera de retirar los **vehículos** implicados y restablecer completamente el flujo vehicular.
