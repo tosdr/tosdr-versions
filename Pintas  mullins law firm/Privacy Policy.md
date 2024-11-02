@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can lung cancer go into remission?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-can-lung-cancer-go-into-remission.jpg "Can Lung Cancer Go Into Remission?")](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-go-into-remission/ "Can Lung Cancer Go Into Remission?")
+[![Is spectracide safer than roundup?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-is-spectracide-safer-than-roundup.jpg "Is Spectracide Safer Than Roundup?")](https://www.pintas.com/lawsuit/roundup-weed-killer/is-spectracide-safer-than-roundup/ "Is Spectracide Safer Than Roundup?")
 
-[#### Can Lung Cancer Go Into Remission?](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-go-into-remission/)
+[#### Is Spectracide Safer Than Roundup?](https://www.pintas.com/lawsuit/roundup-weed-killer/is-spectracide-safer-than-roundup/)
 
-[![How do i know if a dog bite is infected?](https://www.pintas.com/wp-content/uploads/2023/06/dog-bite-hero-300x211.jpg "How Do I Know if a Dog Bite Is Infected?")](https://www.pintas.com/practice-areas/dog-bite-lawyer/how-to-tell-if-a-bite-is-infected "How Do I Know if a Dog Bite Is Infected?")
+[![How to find the best attorney for elder abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-to-find-the-best-attorney-for-elder-abuse-lawyer-scaled.jpg "How to Find the Best Attorney for Elder Abuse?")](https://www.pintas.com/faq/how-to-find-the-best-attorney-for-elder-abuse-lawyer/ "How to Find the Best Attorney for Elder Abuse?")
 
-[#### How Do I Know if a Dog Bite Is Infected?](https://www.pintas.com/practice-areas/dog-bite-lawyer/how-to-tell-if-a-bite-is-infected)
+[#### How to Find the Best Attorney for Elder Abuse?](https://www.pintas.com/faq/how-to-find-the-best-attorney-for-elder-abuse-lawyer/)
 
-[![How early can you detect mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-how-early-can-you-detect-mesothelioma-1-scaled.jpg "How Early Can You Detect Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-early-can-you-detect-mesothelioma/ "How Early Can You Detect Mesothelioma?")
+[![What test shows mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-test-shows-mesothelioma-scaled.jpg "What Test Shows Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-test-shows-mesothelioma/ "What Test Shows Mesothelioma?")
 
-[#### How Early Can You Detect Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-early-can-you-detect-mesothelioma/)
+[#### What Test Shows Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-test-shows-mesothelioma/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
