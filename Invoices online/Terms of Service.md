@@ -196,59 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Shaun Gartshore
+Anri van der Linde
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=97987690)  
-Mountain Lion Properties
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=43958cec8f910e94d28b43914c378151cb3ae8a450fd4bbc961c9f1154252f9b&c=159339384)  
+Depot Diesel (Pty) Ltd
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=159120556)  
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=43958cec8f910e94d28b43914c378151cb3ae8a450fd4bbc961c9f1154252f9b&c=119771774)  
+Cooper Power Cape Town (Pty) Ltd
+
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=43958cec8f910e94d28b43914c378151cb3ae8a450fd4bbc961c9f1154252f9b&c=24703794)  
+Repairs In Motion
+
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=43958cec8f910e94d28b43914c378151cb3ae8a450fd4bbc961c9f1154252f9b&c=127818292)  
+Chiron Medical Solutions
+
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=43958cec8f910e94d28b43914c378151cb3ae8a450fd4bbc961c9f1154252f9b&c=150570389)  
+Van Der Merwe Olieverspreiders
+
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=43958cec8f910e94d28b43914c378151cb3ae8a450fd4bbc961c9f1154252f9b&c=156006365)  
 Environment Friendly Toilets (Pty) Ltd
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=146221195)  
-Moving Made Easy (PTY) Ltd
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=43958cec8f910e94d28b43914c378151cb3ae8a450fd4bbc961c9f1154252f9b&c=13170697)  
+Abandoned Vehicle and Truck Solutions
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=116062610)  
-Immediate Health (pty)ltd
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=43958cec8f910e94d28b43914c378151cb3ae8a450fd4bbc961c9f1154252f9b&c=100685402)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=166121516)  
-Dr V Naik Consult
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=43958cec8f910e94d28b43914c378151cb3ae8a450fd4bbc961c9f1154252f9b&c=128354555)  
+All Trucking Solutions
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=140160615)  
-webb it services
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=43958cec8f910e94d28b43914c378151cb3ae8a450fd4bbc961c9f1154252f9b&c=40149658)  
+INVOICES/JOBCARDS ONLINE
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=99335092)  
-Frequency Fanatics (Pty) Ltd
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=43958cec8f910e94d28b43914c378151cb3ae8a450fd4bbc961c9f1154252f9b&c=123630551)  
+Printo
 
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=213799377)  
-Calonet
-
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=84455004)  
-Druce Digital
-
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=156425669)  
-MSPCloud (Pty) Ltd
-
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=4712988)  
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=43958cec8f910e94d28b43914c378151cb3ae8a450fd4bbc961c9f1154252f9b&c=57796643)  
 VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=29221500)  
-Desygn
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=43958cec8f910e94d28b43914c378151cb3ae8a450fd4bbc961c9f1154252f9b&c=78592256)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=60884246)  
-Salvage Genie
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=43958cec8f910e94d28b43914c378151cb3ae8a450fd4bbc961c9f1154252f9b&c=149563306)  
+OrgChart Hosting Pty Ltd
 
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=115761580)  
-Peter Salvage Pty Ltd
-
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=0261e19198d69c793519d588321838524d51e0aed2465675c13619745f6a2eda&c=19726289)  
-MR Compressors& Industrial Supplies
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=43958cec8f910e94d28b43914c378151cb3ae8a450fd4bbc961c9f1154252f9b&c=195541302)  
+OXYAIDER (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
