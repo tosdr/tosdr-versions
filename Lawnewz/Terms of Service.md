@@ -293,25 +293,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Mike Lindell](https://am23.mediaite.com/lc/cnt/uploads/2023/04/Mike-Lindell-432x243.jpg)](https://lawandcrime.com/high-profile/unconscionable-and-thus-unenforceable-mypillow-ceo-mike-lindell-files-rico-lawsuit-against-lending-companies-to-try-and-get-out-of-allegedly-usurious-600k-loan/)
+1. [![Patrick Montgomery, inset and background, shows him wrestling with an officer during the riots at the U.S. Capitol on Jan. 6, 2021 (U.S. Attorney's Office).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/jan6-432x243.jpg)](https://lawandcrime.com/high-profile/quit-doing-your-job-and-be-an-american-jan-6-rioter-wrestled-officer-for-his-baton-kicked-him-in-the-chest-with-his-boot/)
     
-    ### ['Unconscionable and thus unenforceable': MyPillow CEO Mike Lindell files RICO lawsuit against lending companies to try and get out of allegedly 'usurious' $600K loan](https://lawandcrime.com/high-profile/unconscionable-and-thus-unenforceable-mypillow-ceo-mike-lindell-files-rico-lawsuit-against-lending-companies-to-try-and-get-out-of-allegedly-usurious-600k-loan/)
+    ### ['Quit doing your job and be an American': Jan. 6 rioter wrestled officer for his baton, kicked him in the chest with his boot](https://lawandcrime.com/high-profile/quit-doing-your-job-and-be-an-american-jan-6-rioter-wrestled-officer-for-his-baton-kicked-him-in-the-chest-with-his-boot/)
     
-2. [![Dakarai Larriett](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Dakarai-Larriett-with-inset-432x243.jpg)](https://lawandcrime.com/lawsuit/what-they-thought-were-drugs-was-simply-gas-police-arrested-sober-driver-for-dui-threw-him-in-jail-and-confused-anomaly-on-x-ray-for-hidden-narcotics-lawsuit-says/)
+2. [![Donald Trump, JD Vance](https://am21.mediaite.com/lc/cnt/uploads/2024/09/AP24234763183231-432x243.jpg)](https://lawandcrime.com/high-profile/lacked-judicial-authority-trump-and-jd-vance-got-special-treatment-when-judges-dismissed-complaint-over-eating-the-cats-rhetoric-lawsuit-says/)
     
-    ### ['What they thought were drugs was simply gas': Police arrested sober driver for DUI, threw him in jail and confused 'anomaly' on X-ray for hidden narcotics, lawsuit says](https://lawandcrime.com/lawsuit/what-they-thought-were-drugs-was-simply-gas-police-arrested-sober-driver-for-dui-threw-him-in-jail-and-confused-anomaly-on-x-ray-for-hidden-narcotics-lawsuit-says/)
+    ### ['Lacked judicial authority': Trump and JD Vance got 'special treatment' when judges dismissed complaint over 'eating the cats' rhetoric, lawsuit says](https://lawandcrime.com/high-profile/lacked-judicial-authority-trump-and-jd-vance-got-special-treatment-when-judges-dismissed-complaint-over-eating-the-cats-rhetoric-lawsuit-says/)
     
-3. [![Jordan Eaton cellphone video](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Eaton1-432x243.jpg)](https://lawandcrime.com/crime/neighbor-who-said-i-dont-f-with-you-and-murdered-a-father-of-8-in-front-of-the-victims-wife-just-for-petting-a-dog-learns-his-fate/)
+3. [![Inset: Body camera footage from the Sarasota Police officer who struck Gerard Butler with his patrol car (Sarasota (Fla.) Police Department). Background: Gerard Butler laying in the street after being hit by a Sarasota Police officer (Sarasota (Fla.) Police Department).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Gerard-Butler-Sarasota-Police-dirt-bike-incident-432x243.jpg)](https://lawandcrime.com/caught-on-video/oh-f-bodycam-shows-florida-cop-hitting-8-year-old-on-dirt-bike-with-patrol-car-as-boys-family-watches-on-in-horror/)
     
-    ### [Neighbor who said 'I don't f— with you' and murdered a father of 8 in front of the victim's wife just for petting a dog learns his fate](https://lawandcrime.com/crime/neighbor-who-said-i-dont-f-with-you-and-murdered-a-father-of-8-in-front-of-the-victims-wife-just-for-petting-a-dog-learns-his-fate/)
+    ### ['Oh, f---!': Bodycam shows Florida cop hitting 8-year-old on dirt bike with patrol car as boy's family watches on in horror](https://lawandcrime.com/caught-on-video/oh-f-bodycam-shows-florida-cop-hitting-8-year-old-on-dirt-bike-with-patrol-car-as-boys-family-watches-on-in-horror/)
     
-4. [![Left: California Attorney General Rob Bonta takes questions from the media in Los Angeles on Tuesday, March 19, 2024 (AP Photo/Damian Dovarganes, File). Center: Providence St. Joseph's Hospital in Eureka, Calif., is shown (KAEF). Right: Anna Nusslock speaks at a press conference (KAEF).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Rob-Bonta-Providence-Hospital-Anna-Nusslock-432x243.jpg)](https://lawandcrime.com/high-profile/hospital-that-sent-bleeding-woman-away-with-a-bucket-and-towels-instead-of-giving-her-an-emergency-abortion-says-it-wont-do-the-same-thing-again/)
+4. [![Anastasia Elizabeth Vaughn(Otter Tail County Jail)](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Anastasia-Elizabeth-VaughnOtter-Tail-County-Jail-432x243.jpeg)](https://lawandcrime.com/crime/shoeless-grandma-left-infant-in-roadside-ditch-on-rainy-day-ran-away-then-told-cops-she-was-looking-for-a-child-after-day-drinking-sheriff/)
     
-    ### [Hospital that sent bleeding woman away with a bucket and towels' instead of giving her an emergency abortion says it won't do the same thing again](https://lawandcrime.com/high-profile/hospital-that-sent-bleeding-woman-away-with-a-bucket-and-towels-instead-of-giving-her-an-emergency-abortion-says-it-wont-do-the-same-thing-again/)
+    ### [Shoeless grandma left infant in roadside ditch on rainy day, ran away, then told cops she was 'looking for a child' after day-drinking: Sheriff](https://lawandcrime.com/crime/shoeless-grandma-left-infant-in-roadside-ditch-on-rainy-day-ran-away-then-told-cops-she-was-looking-for-a-child-after-day-drinking-sheriff/)
     
-5. [![Insets, left to right: Vanity Cabrera (GoFundMe) and Pamela T. Cabrera (WTLV). Background: Authorities at the site of the crash that left Vanity dead (WTLV).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/asdfasdf-4-432x243.jpg)](https://lawandcrime.com/crime/mom-who-crashed-into-pond-with-kidnapped-5-year-old-made-no-attempt-to-rescue-dying-daughter-while-screaming-save-me-to-police-is-sentenced/)
+5. [![Dustin Kjersem](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Dustin-Kjersem-432x243.jpg)](https://lawandcrime.com/crime/man-initially-reported-as-victim-of-bear-attack-actually-died-from-chop-wounds-inside-camping-tent-cops/)
     
-    ### [Mom who crashed into pond with kidnapped 5-year-old, 'made no attempt' to rescue dying daughter while screaming 'save me' to police is sentenced](https://lawandcrime.com/crime/mom-who-crashed-into-pond-with-kidnapped-5-year-old-made-no-attempt-to-rescue-dying-daughter-while-screaming-save-me-to-police-is-sentenced/)
+    ### [Man initially reported as victim of bear attack actually died from 'chop wounds' inside camping tent: Cops](https://lawandcrime.com/crime/man-initially-reported-as-victim-of-bear-attack-actually-died-from-chop-wounds-inside-camping-tent-cops/)
     
 
 [](http://eepurl.com/c89Jdb)
