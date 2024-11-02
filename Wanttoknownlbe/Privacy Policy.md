@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/het-bashen-van-gideo-van-meijeren/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/avontuurlijk-onderwijs-je-kinderen-zijn-er-klaar-voor-jij-ook/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
