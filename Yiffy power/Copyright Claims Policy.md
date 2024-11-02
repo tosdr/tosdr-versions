@@ -85,21 +85,21 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 462 1
+0 475 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/directed-by-kitya-greyfeather/)
+[](https://yiff-party.com/yiff/ramona-unicorn-overlord-and-etc-created-by-mecha-lewd/)
 
-[directed by kitya greyfeather](https://yiff-party.com/yiff/directed-by-kitya-greyfeather/)
+[ramona (unicorn overlord and etc) created by mecha lewd](https://yiff-party.com/yiff/ramona-unicorn-overlord-and-etc-created-by-mecha-lewd/)
 
-0 121 0
+0 92 0
 
-October 3, 2024
+October 4, 2024
 
-[](https://yiff-party.com/yiff/rauru-tears-of-the-kingdom-and-etc-created-by-snowdoeer/)
+[](https://yiff-party.com/yiff/halloween-and-etc-created-by-dash-ravo/)
 
-[rauru (tears of the kingdom and etc) created by snowdoeer](https://yiff-party.com/yiff/rauru-tears-of-the-kingdom-and-etc-created-by-snowdoeer/)
+[halloween and etc created by dash ravo](https://yiff-party.com/yiff/halloween-and-etc-created-by-dash-ravo/)
 
 0 2 0
 
