@@ -220,18 +220,18 @@ This site is protected by FingerprintJS and its [privacy policy](https://dev.fin
 
 ### Newest members
 
-* [![astr01](/data/avatars/s/109/109285.jpg?1730533523)](http://hackvshack.net/members/astr01.109285/)
-* [![kadx1488](/data/avatars/s/109/109284.jpg?1730530744)](http://hackvshack.net/members/kadx1488.109284/)
-* [![demid](/data/avatars/s/109/109283.jpg?1730530505)](http://hackvshack.net/members/demid.109283/)
-* [](http://hackvshack.net/members/dfhshsdfh.109282/)
-* [](http://hackvshack.net/members/smarttfoxx-prot.109281/)
-* [![wexq](/data/avatars/s/109/109280.jpg?1730528179)](http://hackvshack.net/members/wexq.109280/)
-* [](http://hackvshack.net/members/since_hvh_1801.109279/)
-* [](http://hackvshack.net/members/evgenzah07-gmai.109278/)
-* [![bhgvh](/data/avatars/s/109/109277.jpg?1730522151)](http://hackvshack.net/members/bhgvh.109277/)
-* [](http://hackvshack.net/members/rb2929295.109276/)
-* [](http://hackvshack.net/members/07sdf.109275/)
-* [![darxds](/data/avatars/s/109/109274.jpg?1730516016)](http://hackvshack.net/members/darxds.109274/)
+* [](http://hackvshack.net/members/sashapestrov.109318/)
+* [![0x505](/data/avatars/s/109/109317.jpg?1730555201)](http://hackvshack.net/members/0x505.109317/)
+* [![oneroun](/data/avatars/s/109/109316.jpg?1730554834)](http://hackvshack.net/members/oneroun.109316/)
+* [](http://hackvshack.net/members/bbs.109315/)
+* [](http://hackvshack.net/members/8951949494949.109314/)
+* [](http://hackvshack.net/members/xawex.109313/)
+* [](http://hackvshack.net/members/fasz12345.109312/)
+* [![QADS](/data/avatars/s/109/109311.jpg?1730551034)](http://hackvshack.net/members/qads.109311/)
+* [![sound](/data/avatars/s/109/109310.jpg?1730550576)](http://hackvshack.net/members/sound.109310/)
+* [](http://hackvshack.net/members/pdpo.109309/)
+* [![rese](/data/avatars/s/109/109308.jpg?1730547464)](http://hackvshack.net/members/rese.109308/)
+* [](http://hackvshack.net/members/mo_ki.109307/)
 
 ### Partners
 
@@ -259,11 +259,11 @@ Messages
 
 Members
 
-109,285
+109,317
 
 Latest member
 
-[astr01](http://hackvshack.net/members/astr01.109285/)
+[0x505](http://hackvshack.net/members/0x505.109317/)
 
 Most visitors online was 4044 , on 21 Oct 2024
 
@@ -271,15 +271,15 @@ Most visitors online was 4044 , on 21 Oct 2024
 
 Members online
 
-22
+67
 
 Guests online
 
-227
+230
 
 Total visitors
 
-249
+297
 
 Totals may include hidden visitors.
 
