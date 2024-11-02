@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
-* [Wangan Midnight: Maximum Tune](https://www.myabandonware.com/game/wangan-midnight-maximum-tune-t51)
-* [Spica Adventure](https://www.myabandonware.com/game/spica-adventure-t50)
-* [Wangan Midnight: Maximum Tune 2](https://www.myabandonware.com/game/wangan-midnight-maximum-tune-2-t4z)
-* [Star Trek: Voyager - The Arcade Game](https://www.myabandonware.com/game/star-trek-voyager-the-arcade-game-t4y)
-* [Sports Jam](https://www.myabandonware.com/game/sports-jam-t4x)
+* [Computer Intro!](https://www.myabandonware.com/game/computer-intro-t5p)
+* [Sega Race TV](https://www.myabandonware.com/game/sega-race-tv-t5j)
+* [Savage Quest](https://www.myabandonware.com/game/savage-quest-t5i)
+* [Samurai Shodown: Edge of Destiny](https://www.myabandonware.com/game/samurai-shodown-edge-of-destiny-t5h)
+* [Road Blaster](https://www.myabandonware.com/game/road-blaster-t5g)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
