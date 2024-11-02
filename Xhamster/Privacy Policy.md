@@ -26,7 +26,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Videos](https://xhamster.com/)
 
-[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%222200%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A1%7D%2C%223002%22%3A%7B%22g%22%3A%22k%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A3%7D%2C%223004%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A3%7D%7D&xhStatsUid=6725aa766a12d5.327352419af&xhSessionToken=744a949f7bd8138059f8e7cd48d557c6dc343142&xhSessionStartedAt=1730521718)
+[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%222200%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A1%7D%2C%223002%22%3A%7B%22g%22%3A%22j%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A3%7D%2C%223004%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A3%7D%7D&xhStatsUid=6725fe43dc2c62.16085772df7&xhSessionToken=c2344ed8c9ab88e45559e075d143e5325c9f12cf&xhSessionStartedAt=1730543171)
 
 [Categories](https://xhamster.com/categories)
 
@@ -52,7 +52,7 @@ Premium Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_
 
 * [Upload](https://xhamster.com/creator-signup?source=uploadHeader)
 
-[Looking for REAL GIRLS? ❤️‍🔥 1-on-1 sex chat on Flirtify video roulette JOIN FOR FREE](https://xhamsterflirt.com/?utm_source=xhamster&utm_medium=all-pages)
+[LUSTY HEROES Fucking hot sex game Play with us](https://xh.lustyheroes.com/?pid=xh_promo_banner_anon)
 
 Privacy Policy
 ==============
@@ -377,7 +377,7 @@ Last Modified: January 04, 2024
 
 ### Start making money with us
 
-* [Camgirls Wanted](https://join.flirtify.com/?utm_source=xhamster-mobile&utm_medium=footer)
+* [Camgirls Wanted](https://join.flirtify.com/?utm_source=xhamster-desktop&utm_medium=footer)
 * [Creator Contest](https://xhamster.com/creators/contest)
 * [Сontent Creators Program](https://xhamster.com/creator?source=footerCcp)
 
