@@ -1,7 +1,7 @@
-be\_ixf;ym\_202411 d\_01; ct\_50
+be\_ixf;ym\_202411 d\_02; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
-* https://cybersecurity.att.com/terms/website?utm\_medium=Email&utm\_source=Consulting-Services&utm\_content=Nurture-Email&elqTrackId=168ba11a66b74d30817a7d07ea6fbba7&elq=8192e47d2de34e60836a50061d2ed82a&elqaid=1837&elqat=1&elqCampaignId=25&elqak=8AF5084D4F0E7B745CD71F1B8D60A876F85405FEACBAE058CC27A36265EEAD0BB237
+* https://cybersecurity.att.com/terms/website
 * https://cybersecurity.att.com/terms/website
 
 [Welcome to LevelBlue](https://www.alienvault.com/newsroom/press-releases/levelblue-launches-at-rsa)
@@ -169,11 +169,11 @@ be\_ixf;ym\_202411 d\_01; ct\_50
             
         * [Blog Read the latest coverage on security matters](https://www.alienvault.com/blogs)
             
-            Blog: Security Essentials
+            blog
             
-            ##### A Look at the Social Engineering Element of Spear Phishing Attacks
+            ##### Ngioweb Remains Active 7 Years Later
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/a-look-at-the-social-engineering-element-of-spear-phishing-attacks)
+            [Learn more](https://cybersecurity.att.com/blogs/labs-research/ngioweb-remains-active-7-years-later)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -511,13 +511,13 @@ We welcome your questions and comments regarding these Terms of Use and anything
 
 From the Blog
 
-![David Balaban](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Alejandro Prada nespral](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### David Balaban
+#### Alejandro Prada nespral
 
-Oct 21, 2024
+Nov 1, 2024
 
-### [A Look at the Social Engineering Element of Spear Phishing Attacks](https://cybersecurity.att.com/blogs/security-essentials/a-look-at-the-social-engineering-element-of-spear-phishing-attacks)
+### [Ngioweb Remains Active 7 Years Later](https://cybersecurity.att.com/blogs/labs-research/ngioweb-remains-active-7-years-later)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
