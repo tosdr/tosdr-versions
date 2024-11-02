@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Where to vote in Tarrant County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/09/32/18/GettyImages-1058414620-1.jpg?ve=1&tl=1)
+
+ ![Where to vote in Tarrant County on Election Day](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/09/32/18/592/333/GettyImages-1058414620-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tarrant-county-voting-locations-election-day)
+
+### [Where to vote in Tarrant County on Election Day](https://www.fox4news.com/news/tarrant-county-voting-locations-election-day)
+
+ [![Where to vote in Collin County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/32/18/GettyImages-1338949648.jpg?ve=1&tl=1)
+
+ ![Where to vote in Collin County on Election Day](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/32/18/592/333/GettyImages-1338949648.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/where-vote-collin-county-election-day)
+
+### [Where to vote in Collin County on Election Day](https://www.fox4news.com/election/where-vote-collin-county-election-day)
+
+ [![Election Day is Tuesday: What you need to know](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/219152_You_Decide_2024_Web-Graphic_1280x720_001.jpg?ve=1&tl=1)
+
+ ![Election Day is Tuesday: What you need to know](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/592/333/219152_You_Decide_2024_Web-Graphic_1280x720_001.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/election-day-is-tuesday-what-you-need-know)
+
+### [Election Day is Tuesday: What you need to know](https://www.fox4news.com/election/election-day-is-tuesday-what-you-need-know)
+
+ [![Dallas man who lost leg after being hit by alleged drunk driver thankful to be alive](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/11012024-rr-pkg-david-mckee-st-major-crash_kdfwfea_00.02.16.52.jpg?ve=1&tl=1)
+
+ ![Dallas man who lost leg after being hit by alleged drunk driver thankful to be alive](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/11012024-rr-pkg-david-mckee-st-major-crash_kdfwfea_00.02.16.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-mckee-street-crash-drunken-driver)
+
+### [Dallas man who lost leg after being hit by alleged drunk driver thankful to be alive](https://www.fox4news.com/news/dallas-mckee-street-crash-drunken-driver)
+
  [![Texas hospitals now required to ask about patients' citizenship](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/11/32/18/GettyImages-1386927656.jpg?ve=1&tl=1)
 
  ![Texas hospitals now required to ask about patients' citizenship](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/11/32/18/592/333/GettyImages-1386927656.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-hospitals-now-required-ask-about-patients-citizenship)
 
 ### [Texas hospitals now required to ask about patients' citizenship](https://www.fox4news.com/news/texas-hospitals-now-required-ask-about-patients-citizenship)
-
- [![Police chase ends after suspect front flips over fence](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/snapshot-2024-11-01t175025.303.jpg?ve=1&tl=1)
-
- ![Police chase ends after suspect front flips over fence](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/snapshot-2024-11-01t175025.303.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/police-chase-tarrant-county)
-
-### [Police chase ends after suspect front flips over fence](https://www.fox4news.com/news/police-chase-tarrant-county)
-
- [![Moms offering free clothing to open Fort Worth storefront](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/110124-kst-fort-worth-community-closet_kdfwfd94_18_00.07.45.56.jpg?ve=1&tl=1)
-
- ![Moms offering free clothing to open Fort Worth storefront](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/110124-kst-fort-worth-community-closet_kdfwfd94_18_00.07.45.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-community-collaborative-closet)
-
-### [Moms offering free clothing to open Fort Worth storefront](https://www.fox4news.com/news/fort-worth-community-collaborative-closet)
-
- [![Fall back: Daylight saving time ends this weekend for most of US](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1247822909-scaled.jpg?ve=1&tl=1)
-
- ![Fall back: Daylight saving time ends this weekend for most of US](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1247822909-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fall-back-when-does-daylight-saving-time-end)
-
-### [Fall back: Daylight saving time ends this weekend for most of US](https://www.fox4news.com/news/fall-back-when-does-daylight-saving-time-end)
-
- [![Plan to reduce Maple Avenue to 2 lanes has business owners, residents at odds](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/110124-pb-maple-avenue-traffic-dispute-vosot-brown_00.01.12.54.jpg?ve=1&tl=1)
-
- ![Plan to reduce Maple Avenue to 2 lanes has business owners, residents at odds](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/110124-pb-maple-avenue-traffic-dispute-vosot-brown_00.01.12.54.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/maple-avenue-lane-changes)
-
-### [Plan to reduce Maple Avenue to 2 lanes has business owners, residents at odds](https://www.fox4news.com/news/maple-avenue-lane-changes)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
