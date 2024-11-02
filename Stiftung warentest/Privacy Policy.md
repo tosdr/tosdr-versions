@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Gelositin Nasen­pflege](https://www.test.de/Verpackungsaerger-Gelositin-Nasenpflege-5937577-0/ "Verpackungsärger - Gelositin Nasenpflege")
-* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
-* [Saft­konzentrat im Test: Nicht alle kriegen Frucht­saft hin](https://www.test.de/saftkonzentrat-im-test-6013457-0/ "Saftkonzentrat im Test - Nicht alle kriegen Fruchtsaft hin")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
-* [4-Prozent-Regel und Entnahme­plan: Wie Sie Ihre Zusatz­rente an die Inflation anpassen](https://www.test.de/entnahme-plan-mit-vier-prozent-regel-6084506-0/ "4-Prozent-Regel und Entnahmeplan - Wie Sie Ihre Zusatzrente an die Inflation anpassen")
+* [Muttermale selbst entfernen: Ärzte warnen vor Selbst­behand­lung](https://www.test.de/Muttermale-selbst-entfernen-Aerzte-warnen-vor-Selbstbehandlung-6066465-0/ "Muttermale selbst entfernen - Ärzte warnen vor Selbstbehandlung")
+* [Barrierefrei reisen: Urlaub ohne Hinder­nisse](https://www.test.de/Barrierefrei-reisen-Urlaub-ohne-Hindernisse-6024514-0/ "Barrierefrei reisen - Urlaub ohne Hindernisse")
+* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
+* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
+* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Gelositin Nasen­pflege](https://www.test.de/Verpackungsaerger-Gelositin-Nasenpflege-5937577-0/ "Verpackungsärger - Gelositin Nasenpflege")
-* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
-* [Saft­konzentrat im Test: Nicht alle kriegen Frucht­saft hin](https://www.test.de/saftkonzentrat-im-test-6013457-0/ "Saftkonzentrat im Test - Nicht alle kriegen Fruchtsaft hin")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
-* [4-Prozent-Regel und Entnahme­plan: Wie Sie Ihre Zusatz­rente an die Inflation anpassen](https://www.test.de/entnahme-plan-mit-vier-prozent-regel-6084506-0/ "4-Prozent-Regel und Entnahmeplan - Wie Sie Ihre Zusatzrente an die Inflation anpassen")
+* [Muttermale selbst entfernen: Ärzte warnen vor Selbst­behand­lung](https://www.test.de/Muttermale-selbst-entfernen-Aerzte-warnen-vor-Selbstbehandlung-6066465-0/ "Muttermale selbst entfernen - Ärzte warnen vor Selbstbehandlung")
+* [Barrierefrei reisen: Urlaub ohne Hinder­nisse](https://www.test.de/Barrierefrei-reisen-Urlaub-ohne-Hindernisse-6024514-0/ "Barrierefrei reisen - Urlaub ohne Hindernisse")
+* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
+* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
+* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Gelositin Nasen­pflege](https://www.test.de/Verpackungsaerger-Gelositin-Nasenpflege-5937577-0/ "Verpackungsärger - Gelositin Nasenpflege")
-* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
-* [Saft­konzentrat im Test: Nicht alle kriegen Frucht­saft hin](https://www.test.de/saftkonzentrat-im-test-6013457-0/ "Saftkonzentrat im Test - Nicht alle kriegen Fruchtsaft hin")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
-* [4-Prozent-Regel und Entnahme­plan: Wie Sie Ihre Zusatz­rente an die Inflation anpassen](https://www.test.de/entnahme-plan-mit-vier-prozent-regel-6084506-0/ "4-Prozent-Regel und Entnahmeplan - Wie Sie Ihre Zusatzrente an die Inflation anpassen")
+* [Muttermale selbst entfernen: Ärzte warnen vor Selbst­behand­lung](https://www.test.de/Muttermale-selbst-entfernen-Aerzte-warnen-vor-Selbstbehandlung-6066465-0/ "Muttermale selbst entfernen - Ärzte warnen vor Selbstbehandlung")
+* [Barrierefrei reisen: Urlaub ohne Hinder­nisse](https://www.test.de/Barrierefrei-reisen-Urlaub-ohne-Hindernisse-6024514-0/ "Barrierefrei reisen - Urlaub ohne Hindernisse")
+* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
+* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
+* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Gelositin Nasen­pflege](https://www.test.de/Verpackungsaerger-Gelositin-Nasenpflege-5937577-0/ "Verpackungsärger - Gelositin Nasenpflege")
-* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
-* [Saft­konzentrat im Test: Nicht alle kriegen Frucht­saft hin](https://www.test.de/saftkonzentrat-im-test-6013457-0/ "Saftkonzentrat im Test - Nicht alle kriegen Fruchtsaft hin")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
-* [4-Prozent-Regel und Entnahme­plan: Wie Sie Ihre Zusatz­rente an die Inflation anpassen](https://www.test.de/entnahme-plan-mit-vier-prozent-regel-6084506-0/ "4-Prozent-Regel und Entnahmeplan - Wie Sie Ihre Zusatzrente an die Inflation anpassen")
+* [Muttermale selbst entfernen: Ärzte warnen vor Selbst­behand­lung](https://www.test.de/Muttermale-selbst-entfernen-Aerzte-warnen-vor-Selbstbehandlung-6066465-0/ "Muttermale selbst entfernen - Ärzte warnen vor Selbstbehandlung")
+* [Barrierefrei reisen: Urlaub ohne Hinder­nisse](https://www.test.de/Barrierefrei-reisen-Urlaub-ohne-Hindernisse-6024514-0/ "Barrierefrei reisen - Urlaub ohne Hindernisse")
+* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
+* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
+* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
+* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
 
 Service Stiftung Warentest
 
