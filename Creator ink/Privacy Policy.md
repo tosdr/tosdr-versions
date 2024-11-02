@@ -185,10 +185,6 @@ Search
 
   Search
 
-Pause slideshow Play slideshow
-
-[Up to 50% Off & Free Gifts on Fnaf items all month long!Shop the deals!](https://creatorink.com/collections/five-nights-at-freddys)
-
 Privacy Policy
 ==============
 
