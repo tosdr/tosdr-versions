@@ -153,6 +153,18 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [Samnytt – Bias and Credibility](https://mediabiasfactcheck.com/samnytt-bias-and-credibility/)
+    
+    November 2, 2024
+    
+* [Pan Atlantic Research – Bias and Credibility](https://mediabiasfactcheck.com/pan-atlantic-research-bias-and-credibility/)
+    
+    November 2, 2024
+    
+* [Syrian Arab News Agency (SANA) – Bias and Credibility](https://mediabiasfactcheck.com/syrian-arab-news-agency-sana-bias-and-credibility/)
+    
+    November 2, 2024
+    
 * [WKAR – NPR – East Lansing – Bias and Credibility](https://mediabiasfactcheck.com/wkar-npr-east-lansing-bias/)
     
     November 2, 2024
@@ -173,54 +185,42 @@ No related posts.
     
     November 1, 2024
     
-* [Asheville Watchdog – Bias and Credibility](https://mediabiasfactcheck.com/asheville-watchdog-bias-and-credibility/)
-    
-    November 1, 2024
-    
-* [The Rio Times – Bias and Credibility](https://mediabiasfactcheck.com/the-rio-times-bias-and-credibility/)
-    
-    November 1, 2024
-    
-* [North Chester Today – Bias and Credibility](https://mediabiasfactcheck.com/north-chester-today-bias-and-credibility/)
-    
-    November 1, 2024
-    
 
 #### Recently Updated Pages
 
-* [Credible Pollsters Used By MBFC](https://mediabiasfactcheck.com/credible-pollsters-used-by-mbfc/ "View Credible Pollsters Used By MBFC") - November 2, 2024
-    
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 2, 2024
-    
-* [WKAR – NPR – East Lansing – Bias and Credibility](https://mediabiasfactcheck.com/wkar-npr-east-lansing-bias/ "View WKAR – NPR – East Lansing – Bias and Credibility") - November 2, 2024
-    
 * [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - November 2, 2024
     
-* [Patriot Voice News – Bias and Credibility](https://mediabiasfactcheck.com/patriot-voice-news-bias-and-credibility/ "View Patriot Voice News – Bias and Credibility") - November 2, 2024
+* [Samnytt – Bias and Credibility](https://mediabiasfactcheck.com/samnytt-bias-and-credibility/ "View Samnytt – Bias and Credibility") - November 2, 2024
+    
+* [Credible Pollsters Used By MBFC](https://mediabiasfactcheck.com/credible-pollsters-used-by-mbfc/ "View Credible Pollsters Used By MBFC") - November 2, 2024
     
 * [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 2, 2024
     
-* [Surrey Comet – Bias and Credibility](https://mediabiasfactcheck.com/surrey-comet-bias/ "View Surrey Comet – Bias and Credibility") - November 2, 2024
+* [Pan Atlantic Research – Bias and Credibility](https://mediabiasfactcheck.com/pan-atlantic-research-bias-and-credibility/ "View Pan Atlantic Research – Bias and Credibility") - November 2, 2024
     
-* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - November 2, 2024
+* [AV Club – Bias and Credibility](https://mediabiasfactcheck.com/av-club/ "View AV Club – Bias and Credibility") - November 2, 2024
     
-* [Committee for a Responsible Federal Budget – Bias and Credibility](https://mediabiasfactcheck.com/committee-for-a-responsible-federal-budget/ "View Committee for a Responsible Federal Budget – Bias and Credibility") - November 1, 2024
+* [Jezebel – Bias and Credibility](https://mediabiasfactcheck.com/jezebel/ "View Jezebel – Bias and Credibility") - November 2, 2024
     
-* [The Bulwark – Bias and Credibility](https://mediabiasfactcheck.com/the-bulwark/ "View The Bulwark – Bias and Credibility") - November 1, 2024
+* [Left Bias](https://mediabiasfactcheck.com/left/ "View Left Bias") - November 2, 2024
+    
+* [Splinter – Bias and Credibility](https://mediabiasfactcheck.com/splinter/ "View Splinter – Bias and Credibility") - November 2, 2024
+    
+* [Syrian Arab News Agency (SANA) – Bias and Credibility](https://mediabiasfactcheck.com/syrian-arab-news-agency-sana-bias-and-credibility/ "View Syrian Arab News Agency (SANA) – Bias and Credibility") - November 2, 2024
     
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [Marist Poll - Bias and Credibility](https://mediabiasfactcheck.com/marist-poll-bias-and-credibility/)
 * [AtlasIntel Polling - Bias and Credibility](https://mediabiasfactcheck.com/atlasintel-polling-bias-and-credibility/)
+* [Marist Poll - Bias and Credibility](https://mediabiasfactcheck.com/marist-poll-bias-and-credibility/)
 * [Echelon Insights - Bias and Credibility](https://mediabiasfactcheck.com/echelon-insights-bias-and-credibility/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Newsweek - Bias and Credibility](https://mediabiasfactcheck.com/newsweek/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [Electoral College Map 2024 - Harris vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
-* [Daily Beast - Bias and Credibility](https://mediabiasfactcheck.com/daily-beast/)
+* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 
 #### Subscribe via Email
 
