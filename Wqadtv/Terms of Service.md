@@ -34,10 +34,11 @@ Navigation
         
         #### [Here's how Illinois and Iowa residents can get help paying their heating bills through LIHEAP](https://www.wqad.com/article/news/local/heres-how-illinois-and-iowa-residents-can-get-help-paying-their-heating-bills-through-liheap/526-f3c105fb-b502-4754-99bb-d55546ae2a9c)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c6b6cc36-6f5e-4ce8-b0e1-d406875eedb6/20241101T193019/c6b6cc36-6f5e-4ce8-b0e1-d406875eedb6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c6b6cc36-6f5e-4ce8-b0e1-d406875eedb6/20241101T193019/c6b6cc36-6f5e-4ce8-b0e1-d406875eedb6_360x203.jpg)](https://www.wqad.com/article/news/local/as-seen-on-tv/the-arc-of-the-quad-cities-area-fall-parent-learning-series/526-046b3d36-eedb-418d-ba8b-d09072e01430)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/9e8767ea-c5de-459f-a343-684e16583258/20241102T030337/9e8767ea-c5de-459f-a343-684e16583258_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9e8767ea-c5de-459f-a343-684e16583258/20241102T030337/9e8767ea-c5de-459f-a343-684e16583258_360x203.jpg)](https://www.wqad.com/article/news/local/project-renewal-50th-anniversary/526-0a7817ad-e6be-423c-be03-5ad894fafd72)
         
-        #### [The Arc of the Quad Cities Area to hold fall parent learning series](https://www.wqad.com/article/news/local/as-seen-on-tv/the-arc-of-the-quad-cities-area-fall-parent-learning-series/526-046b3d36-eedb-418d-ba8b-d09072e01430)
+        #### [Project Renewal celebrating its 50th anniversary and new expansion](https://www.wqad.com/article/news/local/project-renewal-50th-anniversary/526-0a7817ad-e6be-423c-be03-5ad894fafd72) [![](https://media.tegna-media.com/assets/WQAD/images/9e8767ea-c5de-459f-a343-684e16583258/20241102T030337/9e8767ea-c5de-459f-a343-684e16583258_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9e8767ea-c5de-459f-a343-684e16583258/20241102T030337/9e8767ea-c5de-459f-a343-684e16583258_360x203.jpg)](https://www.wqad.com/article/news/local/project-renewal-50th-anniversary/526-0a7817ad-e6be-423c-be03-5ad894fafd72)
         
+        #### [Davenport after-school program celebrating its 50th anniversary](https://www.wqad.com/article/news/local/project-renewal-50th-anniversary/526-0a7817ad-e6be-423c-be03-5ad894fafd72)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -86,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-51°
+38°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
