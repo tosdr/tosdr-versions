@@ -117,6 +117,9 @@ MyDreams Obchodní podmínky
     
 * Obchodní podmínky 
 
+MyDreams Hosting - Obchodní podmínky
+====================================
+
 Smluvní podmínky MyDreams.cz Hosting  
 
 =======================================
