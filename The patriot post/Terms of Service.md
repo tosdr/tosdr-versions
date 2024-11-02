@@ -1,6 +1,6 @@
-**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
+**Did you know?** _The Patriot Post_ is funded 100% by its readers. Help us stay front and center in the fight for Liberty and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us).
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -195,7 +195,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111577-happy-anniversary-2024-11-01)
+     [](https://patriotpost.us/memes/111623-2024-politics-explained-2024-11-02)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -207,18 +207,14 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Christine Yeargin The Path to Saving America Runs Through Homeschooling](https://patriotpost.us/opinion/111609-the-path-to-saving-america-runs-through-homeschooling-2024-11-02)
+*      [Allen West The Desperation of Kamala Harris](https://patriotpost.us/opinion/111606-the-desperation-of-kamala-harris-2024-11-02)
+*      [Matthew Continetti The Trump Flex](https://patriotpost.us/opinion/111605-the-trump-flex-2024-11-02)
+*      [The Washington Stand The Mastery of Freedom: Self-Control in Election Season](https://patriotpost.us/opinion/111608-the-mastery-of-freedom-self-control-in-election-season-2024-11-02)
 *      [Josh Hammer The Final Choice: Civilizational Arson Versus Civilizational Sanity](https://patriotpost.us/opinion/111587-the-final-choice-civilizational-arson-versus-civilizational-sanity-2024-11-01)
 *      [Victor Davis Hanson Once Joyful Harris Now Goes the Full McCarthyite](https://patriotpost.us/opinion/111584-once-joyful-harris-now-goes-the-full-mccarthyite-2024-11-01)
 *      [Erick Erickson Garbage In/Garbage Out](https://patriotpost.us/opinion/111583-garbage-in-slash-garbage-out-2024-11-01)
 *      [David Harsanyi RFK Is a Dangerous Quack](https://patriotpost.us/opinion/111582-rfk-is-a-dangerous-quack-2024-11-01)
-*      [Michael Barone Who Will Make the Last Mistake in This Flawed Campaign?](https://patriotpost.us/opinion/111586-who-will-make-the-last-mistake-in-this-flawed-campaign-2024-11-01)
-*      [Gary Bauer The Fallout Continues](https://patriotpost.us/opinion/111581-the-fallout-continues-2024-11-01)
-*      [Michael Reagan Trusting Trump to Be a ‘Dictator on Day 1’](https://patriotpost.us/opinion/111580-trusting-trump-to-be-a-dictator-on-day-1-2024-11-01)
-*      [Tim Graham Crazy Talk About the Media Favoring Trump Over Harris](https://patriotpost.us/opinion/111585-crazy-talk-about-the-media-favoring-trump-over-harris-2024-11-01)
-*      [Guest Commentary How Woke Politics Are Endangering Our Military and Our Nation](https://patriotpost.us/opinion/111563-how-woke-politics-are-endangering-our-military-and-our-nation-2024-11-01)
-*      [Mark Alexander Profiles of Valor: MAJ Mark Green (USA)](https://patriotpost.us/alexander/111553-profiles-of-valor-maj-mark-green-usa-2024-11-01)
-*      [The Washington Stand Florida’s Amendment 4: The Highest Stakes of All](https://patriotpost.us/opinion/111579-floridas-amendment-4-the-highest-stakes-of-all-2024-11-01)
-*      [The Babylon Bee Are You Garbage? Know the Signs](https://patriotpost.us/opinion/111578-are-you-garbage-know-the-signs-2024-11-01)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -232,7 +228,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[Wear Your Patriotism on Your Sleeve
+
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
