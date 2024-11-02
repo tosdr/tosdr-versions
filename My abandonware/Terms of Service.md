@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Cyberball](https://www.myabandonware.com/game/cyberball-6de)
+* [Cyberball 2072](https://www.myabandonware.com/game/cyberball-2072-jyr)
+* [The Incredible Hulk](https://www.myabandonware.com/game/the-incredible-hulk-td5)
+* [Cyber Troopers Virtual On](https://www.myabandonware.com/game/cyber-troopers-virtual-on-baq)
 * [Computer Intro!](https://www.myabandonware.com/game/computer-intro-t5p)
-* [Sega Race TV](https://www.myabandonware.com/game/sega-race-tv-t5j)
-* [Savage Quest](https://www.myabandonware.com/game/savage-quest-t5i)
-* [Samurai Shodown: Edge of Destiny](https://www.myabandonware.com/game/samurai-shodown-edge-of-destiny-t5h)
-* [Road Blaster](https://www.myabandonware.com/game/road-blaster-t5g)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
