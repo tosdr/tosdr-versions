@@ -172,6 +172,11 @@ Share This Article
 
 [Amazon Prime for Students](https://www.safesearchkids.com/amazon-prime-offer-for-young-adults-and-college-students/)
 
+### Additional Search Tools
+
+* [Safe Search for Online Games](https://www.safesearchkids.com/safe-online-game-search/#games)
+* [Safe Search for App Downloads](https://www.safesearchkids.com/safe-app-search/#safeapps)
+
 ### Parenting and Well-Being
 
 * [Homeschooling Ideas for Moms to Try](https://www.safesearchkids.com/homeschooling-ideas-creative-and-engaging-activities-for-moms-to-try/)
