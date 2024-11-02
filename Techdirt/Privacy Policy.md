@@ -7,13 +7,13 @@
 Techdirt 
 
 * [TechDirt](https://www.techdirt.com/)
-* [GreenHouse](http://www.techdirt.com/edition/greenhouse/)
-* [Free Speech](http://www.techdirt.com/edition/freespeech/)
+* [GreenHouse](https://www.techdirt.com/edition/greenhouse/)
+* [Free Speech](https://www.techdirt.com/edition/freespeech/)
 * [Error 402](https://www.techdirt.com/edition/webmonetization/)
 * [Ctrl-Alt-Speech](https://www.techdirt.com/edition/ctrlaltspeech/)
 * [Deals](https://deals.techdirt.com/)
 * [Jobs](https://jobs.techdirt.com/)
-* [Support Techdirt](http://www.techdirt.com/support/)
+* [Support Techdirt](https://www.techdirt.com/support/)
 
 Techdirt Privacy Notice
 =======================
