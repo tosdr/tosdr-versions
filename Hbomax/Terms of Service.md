@@ -69,19 +69,19 @@ Sweden - [Svenska](https://www.max.com/terms-of-use/sv-emea) - [English](https:/
 Asia Pacific
 ------------
 
-Hong Kong - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
+Hong Kong - [繁體中文 (香港)](https://www.hbomax.com/terms-of-use/zh-hk-apac) - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
 
-Indonesia - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
+Indonesia - [Bahasa Indonesia](https://www.hbomax.com/terms-of-use/id-apac) - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
 
-Malaysia - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
+Malaysia - [简体中文](https://www.hbomax.com/terms-of-use/zh-apac) - [Bahasa Melayu](https://www.hbomax.com/terms-of-use/ms-apac) - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
 
-Phillippines - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
+Phillippines - [Filipino](https://www.hbomax.com/terms-of-use/tl-apac) - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
 
-Singapore - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
+Singapore - [简体中文](https://www.hbomax.com/terms-of-use/zh-apac) - [Bahasa Melayu](https://www.hbomax.com/terms-of-use/ms-apac) - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
 
-Taiwan - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
+Taiwan - [繁體中文 (臺灣)](https://www.hbomax.com/terms-of-use/zh-tw-apac) - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
 
-Thailand - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
+Thailand - [ภาษาไทย](https://www.hbomax.com/terms-of-use/th-apac) - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
 
 [Privacy Policy](https://www.hbomax.com/privacy)[Children's Privacy Policy](https://www.hbomax.com/privacy/children)[Terms of Use](https://www.hbomax.com/terms-of-use)
 
