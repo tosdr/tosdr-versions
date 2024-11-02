@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/even-kijken-lange-frans-en-dr-elke-de-klerk/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/gevaarlijk-vlees/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
