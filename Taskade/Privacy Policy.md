@@ -198,7 +198,7 @@ Tools![](/static_images/landing/dropdown-caret.svg)
 
 [Pricing](https://www.taskade.com/pricing)
 
-[Help](https://help.taskade.com/)[Log in](https://www.taskade.com/login)[Sign upSign up for free](https://www.taskade.com/signup)
+[Contact Sales](https://taskade.com/request-demo)[Log in](https://www.taskade.com/login)[Sign upSign up for free](https://www.taskade.com/signup)
 
 [](https://www.taskade.com/ "Taskade")
 
