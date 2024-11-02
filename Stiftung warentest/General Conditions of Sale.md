@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Nahrungs­ergän­zungs­mittel für Männer: Über­flüssig bis riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Maenner-5953318-0/ "Nahrungsergänzungsmittel für Männer - Überflüssig bis riskant")
-* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
-* [Kinder-Smartwatches im Test: Peilsender am Hand­gelenk](https://www.test.de/Kinder-Smartwatch-Test-6041356-0/ "Kinder-Smartwatches im Test - Peilsender am Handgelenk")
-* [Drip Bars: Vitamin-Infusion? Für Gesunde unnötig](https://www.test.de/Drip-Bars-Vitamin-Infusion-Fuer-Gesunde-unnoetig-6160158-0/ "Drip Bars - Vitamin-Infusion? Für Gesunde unnötig")
-* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
-* [Test energiesparend Kochen: Was bringen Kochsack und Kochkiste?](https://www.test.de/Test-energiesparend-Kochen-Was-bringen-Kochsack-und-Kochkiste-6000525-0/ "Test energiesparend Kochen - Was bringen Kochsack und Kochkiste?")
+* [Fest­geld: Vorsicht vor GCN Investment](https://www.test.de/Festgeld-Vorsicht-vor-GCN-Investment-6075105-0/ "Festgeld - Vorsicht vor GCN Investment")
+* [Verpackungs­ärger: Coraya Surimi Sticks](https://www.test.de/Verpackungsaerger-Coraya-Surimi-Sticks-6112809-0/ "Verpackungsärger - Coraya Surimi Sticks")
+* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
+* [Camping-Gasflaschen: Anschluss verpasst](https://www.test.de/Camping-Gasflaschen-Anschluss-verpasst-6024548-0/ "Camping-Gasflaschen - Anschluss verpasst")
+* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Nahrungs­ergän­zungs­mittel für Männer: Über­flüssig bis riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Maenner-5953318-0/ "Nahrungsergänzungsmittel für Männer - Überflüssig bis riskant")
-* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
-* [Kinder-Smartwatches im Test: Peilsender am Hand­gelenk](https://www.test.de/Kinder-Smartwatch-Test-6041356-0/ "Kinder-Smartwatches im Test - Peilsender am Handgelenk")
-* [Drip Bars: Vitamin-Infusion? Für Gesunde unnötig](https://www.test.de/Drip-Bars-Vitamin-Infusion-Fuer-Gesunde-unnoetig-6160158-0/ "Drip Bars - Vitamin-Infusion? Für Gesunde unnötig")
-* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
-* [Test energiesparend Kochen: Was bringen Kochsack und Kochkiste?](https://www.test.de/Test-energiesparend-Kochen-Was-bringen-Kochsack-und-Kochkiste-6000525-0/ "Test energiesparend Kochen - Was bringen Kochsack und Kochkiste?")
+* [Fest­geld: Vorsicht vor GCN Investment](https://www.test.de/Festgeld-Vorsicht-vor-GCN-Investment-6075105-0/ "Festgeld - Vorsicht vor GCN Investment")
+* [Verpackungs­ärger: Coraya Surimi Sticks](https://www.test.de/Verpackungsaerger-Coraya-Surimi-Sticks-6112809-0/ "Verpackungsärger - Coraya Surimi Sticks")
+* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
+* [Camping-Gasflaschen: Anschluss verpasst](https://www.test.de/Camping-Gasflaschen-Anschluss-verpasst-6024548-0/ "Camping-Gasflaschen - Anschluss verpasst")
+* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Nahrungs­ergän­zungs­mittel für Männer: Über­flüssig bis riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Maenner-5953318-0/ "Nahrungsergänzungsmittel für Männer - Überflüssig bis riskant")
-* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
-* [Kinder-Smartwatches im Test: Peilsender am Hand­gelenk](https://www.test.de/Kinder-Smartwatch-Test-6041356-0/ "Kinder-Smartwatches im Test - Peilsender am Handgelenk")
-* [Drip Bars: Vitamin-Infusion? Für Gesunde unnötig](https://www.test.de/Drip-Bars-Vitamin-Infusion-Fuer-Gesunde-unnoetig-6160158-0/ "Drip Bars - Vitamin-Infusion? Für Gesunde unnötig")
-* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
-* [Test energiesparend Kochen: Was bringen Kochsack und Kochkiste?](https://www.test.de/Test-energiesparend-Kochen-Was-bringen-Kochsack-und-Kochkiste-6000525-0/ "Test energiesparend Kochen - Was bringen Kochsack und Kochkiste?")
+* [Fest­geld: Vorsicht vor GCN Investment](https://www.test.de/Festgeld-Vorsicht-vor-GCN-Investment-6075105-0/ "Festgeld - Vorsicht vor GCN Investment")
+* [Verpackungs­ärger: Coraya Surimi Sticks](https://www.test.de/Verpackungsaerger-Coraya-Surimi-Sticks-6112809-0/ "Verpackungsärger - Coraya Surimi Sticks")
+* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
+* [Camping-Gasflaschen: Anschluss verpasst](https://www.test.de/Camping-Gasflaschen-Anschluss-verpasst-6024548-0/ "Camping-Gasflaschen - Anschluss verpasst")
+* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Nahrungs­ergän­zungs­mittel für Männer: Über­flüssig bis riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Maenner-5953318-0/ "Nahrungsergänzungsmittel für Männer - Überflüssig bis riskant")
-* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
-* [Kinder-Smartwatches im Test: Peilsender am Hand­gelenk](https://www.test.de/Kinder-Smartwatch-Test-6041356-0/ "Kinder-Smartwatches im Test - Peilsender am Handgelenk")
-* [Drip Bars: Vitamin-Infusion? Für Gesunde unnötig](https://www.test.de/Drip-Bars-Vitamin-Infusion-Fuer-Gesunde-unnoetig-6160158-0/ "Drip Bars - Vitamin-Infusion? Für Gesunde unnötig")
-* [Krypto­anlagen: Kryptobörse FTX ist zahlungs­unfähig](https://www.test.de/Kryptoanlagen-Kryptoboerse-FTX-friert-Kundengelder-ein-5938967-0/ "Kryptoanlagen - Kryptobörse FTX ist zahlungsunfähig")
-* [Test energiesparend Kochen: Was bringen Kochsack und Kochkiste?](https://www.test.de/Test-energiesparend-Kochen-Was-bringen-Kochsack-und-Kochkiste-6000525-0/ "Test energiesparend Kochen - Was bringen Kochsack und Kochkiste?")
+* [Fest­geld: Vorsicht vor GCN Investment](https://www.test.de/Festgeld-Vorsicht-vor-GCN-Investment-6075105-0/ "Festgeld - Vorsicht vor GCN Investment")
+* [Verpackungs­ärger: Coraya Surimi Sticks](https://www.test.de/Verpackungsaerger-Coraya-Surimi-Sticks-6112809-0/ "Verpackungsärger - Coraya Surimi Sticks")
+* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
+* [Camping-Gasflaschen: Anschluss verpasst](https://www.test.de/Camping-Gasflaschen-Anschluss-verpasst-6024548-0/ "Camping-Gasflaschen - Anschluss verpasst")
+* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
 
 Service Stiftung Warentest
 
