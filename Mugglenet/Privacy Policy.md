@@ -356,15 +356,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Forbidden Forest set in the Warner Bros. studio has 19 trees, each with a diameter of around 12 feet.
+The name Voldemort comes from the French words meaning “fly from death,” and his entire goal is to conquer death.
 
 ### Potter History
 
-December 20, 2004 – Harry Potter and the Half-Blood Prince is complete, with a release date being announced within 24 hours.
+May 27, 2010 – Entertainment Weekly names Harry Potter one of the Greatest Characters of the Past 20 Years.
 
 ### Potter Quote
 
-“Queen, honey. Well, I’m just curious, when were you going to wake me up? After we’d had five kids?”
+“We’d better get to bed before Snape comes along and tries to frame us for something else.”
 
 [](#)
 
