@@ -1,4 +1,4 @@
-[Windcave](https://www.windcave.com/)
+[Windcave](https://www.paymentexpress.com/)
 
 * [Solutions](#)
     
@@ -126,7 +126,7 @@ Footer
 [Terms and Conditions](https://www.windcave.com/terms-and-conditions)
 ---------------------------------------------------------------------
 
-[Windcave](https://www.windcave.com/)
+[Windcave](https://www.paymentexpress.com/)
 
 * [About](https://www.windcave.com/about)
 * [Careers](https://www.windcave.com/careers)
