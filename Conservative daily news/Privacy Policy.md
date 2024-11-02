@@ -2,14 +2,14 @@ Saturday, November 2 2024
 
 Breaking News
 
+* [Mark Cuban Backtracks On Claim That Trump Is ‘Never Around Strong, Intelligent Women’ |](https://www.conservativedailynews.com/2024/11/mark-cuban-backtracks-on-claim-that-trump-is-never-around-strong-intelligent-women/)
+* [President Joe Biden’s Schedule for Saturday, November 2, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-saturday-november-2-2024/)
+* [Why Should Anyone Waste A Minute On Liz Cheney](https://www.conservativedailynews.com/2024/11/why-should-anyone-waste-a-minute-on-liz-cheney/)
+* [Legalizing Pot In Florida Is A Bad Idea — Just Ask Colorado and California](https://www.conservativedailynews.com/2024/11/legalizing-pot-in-florida-is-a-bad-idea-just-ask-colorado-and-california/)
 * [Ana Kasparian the Latest “Progressive” to Leave the “Cruel” Intolerant Left](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/)
 * [Court Orders Swing State To Release List Of Over 200,000 Registered Voters Who Did Not Provide Proof Of Citizenship](https://www.conservativedailynews.com/2024/11/court-orders-swing-state-to-release-list-of-over-200000-registered-voters-who-did-not-provide-proof-of-citizenship/)
 * [Trump Slaps CBS With $10 Billion Lawsuit Over ’60 Minutes’ Harris Edit](https://www.conservativedailynews.com/2024/11/trump-slaps-cbs-with-10-billion-lawsuit-over-60-minutes-harris-edit/)
 * [President Joe Biden’s Schedule for Friday, November 1, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-1-2024/)
-* [The DNC is Desperate and Sent THIS to my Daughter](https://www.conservativedailynews.com/2024/10/the-dnc-is-desperate-and-sent-this-to-my-daughter/)
-* [Trump Voters Rally Behind ‘Hassled’ McDonald’s That Hosted Former President](https://www.conservativedailynews.com/2024/10/trump-voters-rally-behind-hassled-mcdonalds-that-hosted-former-president/)
-* [Conservative Civil War Brews In Key Texas Oil Town As Election Approaches](https://www.conservativedailynews.com/2024/10/conservative-civil-war-brews-in-key-texas-oil-town-as-election-approaches/)
-* [‘Shocking’ Number Of Americans Believe Speech Can Be ‘Violence,’ Poll Finds](https://www.conservativedailynews.com/2024/10/shocking-number-of-americans-believe-speech-can-be-violence-poll-finds/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -27,6 +27,7 @@ Breaking News
 
 * [Home](https://www.conservativedailynews.com/)
 * [2024 Election](https://www.conservativedailynews.com/the-2024-presidential-election/)
+    * [2024 Electoral Map](https://www.conservativedailynews.com/the-2024-presidential-election/)
     * [Donald Trump](https://www.conservativedailynews.com/tag/donald-trump/)
     * [Kamala Harris](https://www.conservativedailynews.com/tag/kamala-harris/)
 * [Sections](https://conservativedailynews.com/)
@@ -110,26 +111,62 @@ Support CDN!
 Your donations help us purchase content, pay for servers, and reduce advertising. We are currently fundraising for December. [CLICK HERE](https://www.conservativedailynews.com/privacy-policy/support-conservative-news) to help out or to see what we do with the money.  
 **Current Fundraising for December:**
 
-Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.24%
+Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.36%
 
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Ana-Kasparian-220x150.jpg)](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/)
+    
+    [Ana Kasparian the Latest “Progressive” to Leave the “Cruel” Intolerant Left](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/)
+    
+    November 1, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/Oops-mistake-shock-2-220x150.png)](https://www.conservativedailynews.com/2024/10/the-dnc-is-desperate-and-sent-this-to-my-daughter/)
     
     [The DNC is Desperate and Sent THIS to my Daughter](https://www.conservativedailynews.com/2024/10/the-dnc-is-desperate-and-sent-this-to-my-daughter/)
     
     October 31, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Child-shocked.png)](https://www.conservativedailynews.com/2024/10/republican-who-tanked-trumps-chance-to-net-extra-electoral-college-vote-endorses-campaign-to-deny-gop-senate-control/)
-    
-    [Republican Who Tanked Trump’s Chance To Net Extra Electoral College Vote Endorses Campaign To Deny GOP Senate Control](https://www.conservativedailynews.com/2024/10/republican-who-tanked-trumps-chance-to-net-extra-electoral-college-vote-endorses-campaign-to-deny-gop-senate-control/)
-    
-    October 30, 2024
-    
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Mark-Cuban-220x150.jpg)](https://www.conservativedailynews.com/2024/11/mark-cuban-backtracks-on-claim-that-trump-is-never-around-strong-intelligent-women/)
+    
+    [Mark Cuban Backtracks On Claim That Trump Is ‘Never Around Strong, Intelligent Women’ |](https://www.conservativedailynews.com/2024/11/mark-cuban-backtracks-on-claim-that-trump-is-never-around-strong-intelligent-women/)
+    
+    November 2, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/Joe-Biden-speech-220x150.png)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-saturday-november-2-2024/)
+    
+    [President Joe Biden’s Schedule for Saturday, November 2, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-saturday-november-2-2024/)
+    
+    November 2, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg110224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/garbage-2/)
+    
+    [Garbage](https://www.conservativedailynews.com/2024/11/garbage-2/)
+    
+    November 2, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5724-scaled-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/why-should-anyone-waste-a-minute-on-liz-cheney/)
+    
+    [Why Should Anyone Waste A Minute On Liz Cheney](https://www.conservativedailynews.com/2024/11/why-should-anyone-waste-a-minute-on-liz-cheney/)
+    
+    November 2, 2024
+    
+* [![Kamala Harris constitution](https://www.conservativedailynews.com/wp-content/uploads/2024/08/02-unburdened-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/progressive-logic-is-hazardous-to-us-constitution-dont-take-my-word-for-it-ask-the-new-york-times/)
+    
+    [Progressive Logic is Hazardous to US Constitution – don’t take my word for it. Ask the New York Times](https://www.conservativedailynews.com/2024/11/progressive-logic-is-hazardous-to-us-constitution-dont-take-my-word-for-it-ask-the-new-york-times/)
+    
+    November 2, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Depositphotos_79414012_S-220x150.jpg)](https://www.conservativedailynews.com/2024/11/legalizing-pot-in-florida-is-a-bad-idea-just-ask-colorado-and-california/)
+    
+    [Legalizing Pot In Florida Is A Bad Idea — Just Ask Colorado and California](https://www.conservativedailynews.com/2024/11/legalizing-pot-in-florida-is-a-bad-idea-just-ask-colorado-and-california/)
+    
+    November 2, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Ana-Kasparian-220x150.jpg)](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/)
     
     [Ana Kasparian the Latest “Progressive” to Leave the “Cruel” Intolerant Left](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/)
@@ -142,45 +179,12 @@ Recent Posts
     
     November 1, 2024
     
-* [![Boeing DEI](https://www.conservativedailynews.com/wp-content/uploads/2024/03/Screenshot_20240321_180708-220x150.jpg)](https://www.conservativedailynews.com/2024/11/problem-riddled-boeing-axes-entire-diversity-division/)
-    
-    [Problem-Riddled Boeing Axes Entire Diversity Division](https://www.conservativedailynews.com/2024/11/problem-riddled-boeing-axes-entire-diversity-division/)
-    
-    November 1, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/04/Judge-with-Gavel-220x150.jpg)](https://www.conservativedailynews.com/2024/11/court-orders-swing-state-to-release-list-of-over-200000-registered-voters-who-did-not-provide-proof-of-citizenship/)
-    
-    [Court Orders Swing State To Release List Of Over 200,000 Registered Voters Who Did Not Provide Proof Of Citizenship](https://www.conservativedailynews.com/2024/11/court-orders-swing-state-to-release-list-of-over-200000-registered-voters-who-did-not-provide-proof-of-citizenship/)
-    
-    November 1, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/11/trump-slaps-cbs-with-10-billion-lawsuit-over-60-minutes-harris-edit/)
-    
-    [Trump Slaps CBS With $10 Billion Lawsuit Over ’60 Minutes’ Harris Edit](https://www.conservativedailynews.com/2024/11/trump-slaps-cbs-with-10-billion-lawsuit-over-60-minutes-harris-edit/)
-    
-    November 1, 2024
-    
-* [![Turning the page nazis garbage](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg110124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/turning-the-page/)
-    
-    [Turning the Page](https://www.conservativedailynews.com/2024/11/turning-the-page/)
-    
-    November 1, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/JOe-Biden-speech-14-220x150.png)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-1-2024/)
-    
-    [President Joe Biden’s Schedule for Friday, November 1, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-1-2024/)
-    
-    November 1, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/Oops-mistake-shock-2-220x150.png)](https://www.conservativedailynews.com/2024/10/the-dnc-is-desperate-and-sent-this-to-my-daughter/)
-    
-    [The DNC is Desperate and Sent THIS to my Daughter](https://www.conservativedailynews.com/2024/10/the-dnc-is-desperate-and-sent-this-to-my-daughter/)
-    
-    October 31, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [New Podcast, Built to Survive, Launches](https://www.thegunpage.com/new-podcast-built-to-survive-launches/10611625)
+* [Silencer Saturday #353: The SilencerCo Velos LBP](https://www.thegunpage.com/silencer-saturday-353-the-silencerco-velos-lbp/10611627)
+* [Ballistics for Dummies: A Beginner’s Guide to Bullet Flight](https://www.thegunpage.com/ballistics-for-dummies-a-beginners-guide-to-bullet-flight/10611619)
 * [Classic SSUSA: The Inaugural NRA World Shooting Championship](https://www.thegunpage.com/classic-ssusa-the-inaugural-nra-world-shooting-championship/10611618)
 * [TFB Review: Trijicon Tenmile HX 5-25x50mm FFP](https://www.thegunpage.com/tfb-review-trijicon-tenmile-hx-5-25x50mm-ffp/10611615)
 * [POTD: Spooky Zastava USA M90](https://www.thegunpage.com/potd-spooky-zastava-usa-m90/10611616)
@@ -188,9 +192,6 @@ Recent Posts
 * [More Hunters Than Ever Are Using AR-Style Rifles](https://www.thegunpage.com/more-hunters-than-ever-are-using-ar-style-rifles/10611611)
 * [How to Quickly Zero Your Rifle and Save on Ammo](https://www.thegunpage.com/how-to-quickly-zero-your-rifle-and-save-on-ammo/10611607)
 * [New Calibers For Savage 110 Magpul Scout](https://www.thegunpage.com/new-calibers-for-savage-110-magpul-scout/10611609)
-* [The Taurus 608 Competition Is Built For Speed](https://www.thegunpage.com/the-taurus-608-competition-is-built-for-speed/10611610)
-* [Canik launches a GOA-themed micro-compact pistol!](https://www.thegunpage.com/canik-launches-a-goa-themed-micro-compact-pistol-2/10611605)
-* [Remember the Rules of the Range](https://www.thegunpage.com/remember-the-rules-of-the-range/10611603)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,15 +233,15 @@ Contact Us
 
 Recent Comments
 
+* TMann on [President Joe Biden’s Schedule for Saturday, November 2, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-saturday-november-2-2024/#comment-782998)
+* Stanley Warner on [Court Orders Swing State To Release List Of Over 200,000 Registered Voters Who Did Not Provide Proof Of Citizenship](https://www.conservativedailynews.com/2024/11/court-orders-swing-state-to-release-list-of-over-200000-registered-voters-who-did-not-provide-proof-of-citizenship/#comment-782997)
+* Stanley Warner on [Problem-Riddled Boeing Axes Entire Diversity Division](https://www.conservativedailynews.com/2024/11/problem-riddled-boeing-axes-entire-diversity-division/#comment-782996)
+* Stanley Warner on [Ana Kasparian the Latest “Progressive” to Leave the “Cruel” Intolerant Left](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/#comment-782995)
 * Terry Carlson on [Ana Kasparian the Latest “Progressive” to Leave the “Cruel” Intolerant Left](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/#comment-782994)
 * TMann on [President Joe Biden’s Schedule for Friday, November 1, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-1-2024/#comment-782988)
 * Stanley Warner on [The Democrat Party’s Hypocritical Deliberate Hate Strategy](https://www.conservativedailynews.com/2024/10/the-democrat-partys-hypocritical-deliberate-hate-strategy/#comment-782983)
 * Jeff L. on [The Left (Democrats, “News” Media) Always in a Flutter at Words](https://www.conservativedailynews.com/2024/10/the-left-democrats-news-media-always-in-a-flutter-at-words/#comment-782973)
 * charles wilkins on [Ewwww That Smell…](https://www.conservativedailynews.com/2024/10/ewwww-that-smell/#comment-782967)
-* michael mohn on [Realistically Simple Ways to Make Your Car (Virtually) Unstealable](https://www.conservativedailynews.com/2024/10/realistically-simple-ways-to-make-your-car-virtually-unstealable/#comment-782951)
-* Stanley Warner on [Virginia Asks Supreme Court To Let It Remove Noncitizens From Voter Rolls](https://www.conservativedailynews.com/2024/10/virginia-asks-supreme-court-to-let-it-remove-noncitizens-from-voter-rolls/#comment-782949)
-* Stanley Warner on [The Democrats Are Done. They Are Out Of Gas And Ideas](https://www.conservativedailynews.com/2024/10/the-democrats-are-done-they-are-out-of-gas-and-ideas/#comment-782948)
-* charles wilkins on [New York Voter Delivers Two-Word Response When MSNBC Asks If ‘Threat To Democracy’ Attack On Trump Resonates](https://www.conservativedailynews.com/2024/10/new-york-voter-delivers-two-word-response-when-msnbc-asks-if-threat-to-democracy-attack-on-trump-resonates/#comment-782944)
 
 [Close](#)
 
