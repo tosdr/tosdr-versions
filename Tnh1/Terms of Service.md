@@ -82,31 +82,31 @@ BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e regi�
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Em dois dias, Polícia Militar apreende armas e drogas na capital e interior](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/1/csm_em-dois-dias-policia-militar-apreende-armas-e-drogas-na-capital-e-interior_496463dc4c.jpg)
+   [![Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/6/csm_policial-penal-sergipe-morte-alagoas-arquivo-pessoal_807100c4a0.jpg)
+
+30 anos
+
+Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policial-penal-de-sergipe-e-morto-a-tiros-apos-sofrer-atentado-no-interior-de-alagoas/ "Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas")   [![Homem é socorrido em estado grave após ser baleado na cabeça em União dos Palmares](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/4/csm_disparo-arma-fogo-reproducao_c16d2689dd.jpg)
+
+No interior
+
+Homem é socorrido em estado grave após ser baleado na cabeça em União dos Palmares](https://www.tnh1.com.br/noticia/nid/homem-e-socorrido-em-estado-grave-apos-ser-baleado-na-cabeca-em-uniao-dos-palmares/ "Homem é socorrido em estado grave após ser baleado na cabeça em União dos Palmares")   [![Em dois dias, Polícia Militar apreende armas e drogas na capital e interior](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/1/csm_em-dois-dias-policia-militar-apreende-armas-e-drogas-na-capital-e-interior_496463dc4c.jpg)
 
 Polícia
 
-Em dois dias, Polícia Militar apreende armas e drogas na capital e interior](https://www.tnh1.com.br/noticia/nid/em-dois-dias-policia-militar-apreende-armas-e-drogas-na-capital-e-interior/ "Em dois dias, Polícia Militar apreende armas e drogas na capital e interior")   [![Vídeos: veja como foi simulação de assalto à loja com reféns no Centro de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/c/csm_Simulo_CATE_3110_DCS_PMAL_15_756fc02df6.jpg)
+Em dois dias, Polícia Militar apreende armas e drogas na capital e interior](https://www.tnh1.com.br/noticia/nid/em-dois-dias-policia-militar-apreende-armas-e-drogas-na-capital-e-interior/ "Em dois dias, Polícia Militar apreende armas e drogas na capital e interior")   [![Vídeos: veja como foi simulação de assalto à loja com reféns no Centro de Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/c/csm_Simulo_CATE_3110_DCS_PMAL_15_756fc02df6.jpg)
 
 polícia militar
 
-Vídeos: veja como foi simulação de assalto à loja com reféns no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/videos-veja-como-foi-simulacao-de-assalto-a-loja-com-refens-no-centro-de-maceio/ "Vídeos: veja como foi simulação de assalto à loja com reféns no Centro de Maceió")   [![Homem é preso por descumprimento de medida protetiva no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/4/csm_preso_pc_c6d5ba836e.jpeg)
+Vídeos: veja como foi simulação de assalto à loja com reféns no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/videos-veja-como-foi-simulacao-de-assalto-a-loja-com-refens-no-centro-de-maceio/ "Vídeos: veja como foi simulação de assalto à loja com reféns no Centro de Maceió")   [![Homem é preso por descumprimento de medida protetiva no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/4/csm_preso_pc_c6d5ba836e.jpeg)
 
 Polícia
 
-Homem é preso por descumprimento de medida protetiva no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-descumprimento-de-medida-protetiva-no-interior-de-alagoas/ "Homem é preso por descumprimento de medida protetiva no interior de Alagoas")   [![PF indicia 20 pessoas em investigação sobre irregularidades na exploração de sal-gema em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/a/csm_pinheiro_regiao_vista_areas_Vasni_a1ec88491a.png)
+Homem é preso por descumprimento de medida protetiva no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-descumprimento-de-medida-protetiva-no-interior-de-alagoas/ "Homem é preso por descumprimento de medida protetiva no interior de Alagoas")   [![PF indicia 20 pessoas em investigação sobre irregularidades na exploração de sal-gema em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/a/csm_pinheiro_regiao_vista_areas_Vasni_a1ec88491a.png)
 
 inquérito concluído
 
-PF indicia 20 pessoas em investigação sobre irregularidades na exploração de sal-gema em Maceió](https://www.tnh1.com.br/noticia/nid/pf-indicia-20-pessoas-em-investigacao-sobre-irregularidades-na-exploracao-de-sal-gema-em-maceio/ "PF indicia 20 pessoas em investigação sobre irregularidades na exploração de sal-gema em Maceió")   [![Esposa de MC Poze do Rodo é alvo de operação contra sorteio de rifas ilegais](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/7/csm_poze-esposa-reproducao_515cc37912.jpg)
-
-Suposta fraude
-
-Esposa de MC Poze do Rodo é alvo de operação contra sorteio de rifas ilegais](https://www.tnh1.com.br/noticia/nid/esposa-de-mc-poze-do-rodo-e-alvo-de-operacao-contra-sorteio-de-rifas-ilegais/ "Esposa de MC Poze do Rodo é alvo de operação contra sorteio de rifas ilegais")   [![Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/0/csm_submetralhadora-apreendida-sao-miguel_af03e76887.jpg)
-
-Dentro de casa
-
-Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-e-preso-com-submetralhadora-pistola-e-municoes-no-interior-de-alagoas/ "Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas")
+PF indicia 20 pessoas em investigação sobre irregularidades na exploração de sal-gema em Maceió](https://www.tnh1.com.br/noticia/nid/pf-indicia-20-pessoas-em-investigacao-sobre-irregularidades-na-exploracao-de-sal-gema-em-maceio/ "PF indicia 20 pessoas em investigação sobre irregularidades na exploração de sal-gema em Maceió")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -115,6 +115,20 @@ Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
+
+Últimas de Pessoas&Negócios
+
+[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
+
+   [![Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/b/csm_Noah_Verde_234e420532.jpeg)
+
+Pessoas & Negócios
+
+Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](https://www.tnh1.com.br/noticia/nid/noah-verde-gerente-executiva-de-marketing-do-sesi-senai-faz-aniversario/ "Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário")   [![Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_Primeira_dama_SPFW__2__ae4a56b4c2.jpeg)
+
+Pessoas & Negócios
+
+Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -188,7 +202,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/3/csm_charles4_8ee254ed73.jpg)
+[![Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/3/csm_charles4_8ee254ed73.jpg)
 
 Família Real
 
@@ -196,7 +210,7 @@ Família Real
 
 Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'
 
-Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'](https://www.tnh1.com.br/noticia/nid/rei-charles-finalmente-cumpre-vontade-de-elizabeth-e-toma-dura-decisao-contra-filho-problema/ "Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'")[![Rua no Centro de Maceió terá sentido único a partir deste sábado (2)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/c/csm_Rua_proxima_ao_TRT_tera_sentido_unico_a_partir_deste_sabado__2__0_foto_Reproducao_Google_2a0c37fd70.jpeg)
+Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'](https://www.tnh1.com.br/noticia/nid/rei-charles-finalmente-cumpre-vontade-de-elizabeth-e-toma-dura-decisao-contra-filho-problema/ "Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'")[![Rua no Centro de Maceió terá sentido único a partir deste sábado (2)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/c/csm_Rua_proxima_ao_TRT_tera_sentido_unico_a_partir_deste_sabado__2__0_foto_Reproducao_Google_2a0c37fd70.jpeg)
 
 Trânsito
 
@@ -204,7 +218,7 @@ Trânsito
 
 Rua no Centro de Maceió terá sentido único a partir deste sábado (2)
 
-Rua no Centro de Maceió terá sentido único a partir deste sábado (2)](https://www.tnh1.com.br/noticia/nid/rua-no-centro-de-maceio-tera-sentido-unico-a-partir-deste-sabado-2/ "Rua no Centro de Maceió terá sentido único a partir deste sábado (2)")[![O significado por trás do clipe macabro de Anitta e The Weeknd; assista ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/7/csm_anitta-barriga-reproducao-youtube_45bdea1ed7.jpg)
+Rua no Centro de Maceió terá sentido único a partir deste sábado (2)](https://www.tnh1.com.br/noticia/nid/rua-no-centro-de-maceio-tera-sentido-unico-a-partir-deste-sabado-2/ "Rua no Centro de Maceió terá sentido único a partir deste sábado (2)")[![O significado por trás do clipe macabro de Anitta e The Weeknd; assista ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/7/csm_anitta-barriga-reproducao-youtube_45bdea1ed7.jpg)
 
 Novo hit
 
@@ -212,49 +226,49 @@ Novo hit
 
 O significado por trás do clipe macabro de Anitta e The Weeknd; assista
 
-O significado por trás do clipe macabro de Anitta e The Weeknd; assista](https://www.tnh1.com.br/noticia/nid/o-significado-por-tras-do-clipe-macabro-de-anitta-e-the-weeknd-assista/ "O significado por trás do clipe macabro de Anitta e The Weeknd; assista ")[![Motorista por aplicativo é esfaqueado cinco vezes durante briga em tentativa de assalto](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/0/csm_csm_motorista-de-aplicativo-pixabay_f8f27deb27_da32b98b0b.jpeg)
+O significado por trás do clipe macabro de Anitta e The Weeknd; assista](https://www.tnh1.com.br/noticia/nid/o-significado-por-tras-do-clipe-macabro-de-anitta-e-the-weeknd-assista/ "O significado por trás do clipe macabro de Anitta e The Weeknd; assista ")[![Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/0/csm_submetralhadora-apreendida-sao-miguel_3e1d17979d.jpg)
 
-No Tabuleiro
+Dentro de casa
 
-No Tabuleiro
+Dentro de casa
 
-Motorista por aplicativo é esfaqueado cinco vezes durante briga em tentativa de assalto
+Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas
 
-Motorista por aplicativo é esfaqueado cinco vezes durante briga em tentativa de assalto](https://www.tnh1.com.br/noticia/nid/motorista-por-aplicativo-e-esfaqueado-cinco-vezes-durante-briga-em-tentativa-de-assalto/ "Motorista por aplicativo é esfaqueado cinco vezes durante briga em tentativa de assalto")
+Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-e-preso-com-submetralhadora-pistola-e-municoes-no-interior-de-alagoas/ "Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas")
 
-[![O uso de neve artificial em estações de esqui no Chile diante de incertezas sobre o clima](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/2/csm_neve-artificial-chile-reproducao-BBC_0c0934ce20.jpg)
+[![Mandantes do assassinato de Marielle devem ser julgados no 1º semestre de 2025](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/5/csm_conselheiro-domingos-brazao-preso-reproducao-STF_b39e8199ef.jpg)
 
-Mundo
+NO STF
 
-Mundo
+NO STF
 
-O uso de neve artificial em estações de esqui no Chile diante de incertezas sobre o clima
+Mandantes do assassinato de Marielle devem ser julgados no 1º semestre de 2025
 
-O uso de neve artificial em estações de esqui no Chile diante de incertezas sobre o clima](https://www.tnh1.com.br/noticia/nid/o-uso-de-neve-artificial-em-estacoes-de-esqui-no-chile-diante-de-incertezas-sobre-o-clima/ "O uso de neve artificial em estações de esqui no Chile diante de incertezas sobre o clima")[![Mulher revela como descobriu que homem que a chantageou e a estuprou por 7 anos era seu próprio pai](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/0/csm_charlene-mulher-estuprada-pai-reproducao_8893eaba65.jpg)
+Mandantes do assassinato de Marielle devem ser julgados no 1º semestre de 2025](https://www.tnh1.com.br/noticia/nid/mandantes-do-assassinato-de-marielle-devem-ser-julgados-no-1o-semestre-de-2025/ "Mandantes do assassinato de Marielle devem ser julgados no 1º semestre de 2025")[![Posso doar meu cérebro? Como funciona banco que recebeu o de Maguila](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/2/csm_maguila-morte-reproducao-redes-sociais_240da90676.png)
 
-"chantagista"
+objeto de pesquisa
 
-"chantagista"
+objeto de pesquisa
 
-Mulher revela como descobriu que homem que a chantageou e a estuprou por 7 anos era seu próprio pai
+Posso doar meu cérebro? Como funciona banco que recebeu o de Maguila
 
-Mulher revela como descobriu que homem que a chantageou e a estuprou por 7 anos era seu próprio pai](https://www.tnh1.com.br/noticia/nid/mulher-revela-como-descobriu-que-homem-que-a-chantageou-e-a-estuprou-por-7-anos-era-seu-proprio-pai/ "Mulher revela como descobriu que homem que a chantageou e a estuprou por 7 anos era seu próprio pai")[![Wegovy ajuda na regressão de doenças no fígado, diz estudo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/8/csm_doenca-figado-reproducao-freepik_d4dd6ad727.jpg)
+Posso doar meu cérebro? Como funciona banco que recebeu o de Maguila](https://www.tnh1.com.br/noticia/nid/posso-doar-meu-cerebro-como-funciona-banco-que-recebeu-o-de-maguila/ "Posso doar meu cérebro? Como funciona banco que recebeu o de Maguila")[![Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/6/csm_policial-penal-sergipe-morte-alagoas-arquivo-pessoal_08bd7b2227.jpg)
 
-fibrose hepática
+30 anos
 
-fibrose hepática
+30 anos
 
-Wegovy ajuda na regressão de doenças no fígado, diz estudo
+Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas
 
-Wegovy ajuda na regressão de doenças no fígado, diz estudo](https://www.tnh1.com.br/noticia/nid/wegovy-ajuda-na-regressao-de-doencas-no-figado-diz-estudo/ "Wegovy ajuda na regressão de doenças no fígado, diz estudo")[![Dólar sobe para R$ 5,87 e fecha no maior nível em quatro anos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/1/csm_dolar_moeda_0803221206_b543b9ddcd.jpg)
+Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policial-penal-de-sergipe-e-morto-a-tiros-apos-sofrer-atentado-no-interior-de-alagoas/ "Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas")[![Giselle Itié diz que parceiro teve nojo de seu corpo durante a gravidez ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/3/csm_photo-shared-by-giselle-itie-on-october-25-2024-tagging-exaustaaas_f750a2f948.jpg)
 
-Economia
+abriu o coração
 
-Economia
+abriu o coração
 
-Dólar sobe para R$ 5,87 e fecha no maior nível em quatro anos
+Giselle Itié diz que parceiro teve nojo de seu corpo durante a gravidez
 
-Dólar sobe para R$ 5,87 e fecha no maior nível em quatro anos](https://www.tnh1.com.br/noticia/nid/dolar-sobe-para-r-587-e-fecha-no-maior-nivel-em-quatro-anos/ "Dólar sobe para R$ 5,87 e fecha no maior nível em quatro anos")
+Giselle Itié diz que parceiro teve nojo de seu corpo durante a gravidez](https://www.tnh1.com.br/noticia/nid/giselle-itie-diz-que-parceiro-teve-nojo-de-seu-corpo-durante-a-gravidez/ "Giselle Itié diz que parceiro teve nojo de seu corpo durante a gravidez ")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
