@@ -356,15 +356,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Magic makes electronics go haywire, so Muggle devices don’t work at or near Hogwarts.
+During the Harry Potter and the Philosopher’s/Sorcerer’s Stone film, viewers can hear Rubeus Hagrid playing Hedwig’s Theme on a flute right before the trio approaches and asks him about obtaining Norbert.
 
 ### Potter History
 
-December 11, 2008 – The first stop for Harry Potter: The Exhibition is announced as Chicago, Illinois, opening on April 30, 2009.
+June 10, 2011 – The running time for Harry Potter and the Deathly Hallows – Part 2 is revealed to be 125 minutes, the shortest of the eight.
 
 ### Potter Quote
 
-“Sir, I wondered what you know about . . . about Horcruxes?”
+“I knew I could do it this time, because I’d already done it. . . . Does that make sense?”
 
 [](#)
 
