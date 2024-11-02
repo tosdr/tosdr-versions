@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-fa6d66e73d434a332db093bc50d2050b
+113b3e1eff90e3a1aba24d5fd992e974
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![12 mm transparent moss green heart beads](https://www.sojourner.biz/images/cache/glass/GL0023.200.jpg)](https://www.sojourner.biz/beads/glass/12-mm-transparent-moss-green-heart-beads.html "12 mm transparent moss green heart beads")
+[![Vintage yellow tiny flower beads](https://www.sojourner.biz/images/cache/glass/VB0006.200.jpg)](https://www.sojourner.biz/beads/glass/vintage-yellow-tiny-flower-beads.html "Vintage yellow tiny flower beads")
 
-#### [12 mm transparent moss green heart beads](https://www.sojourner.biz/beads/glass/12-mm-transparent-moss-green-heart-beads.html "12 mm transparent moss green heart beads")
+#### [Vintage yellow tiny flower beads](https://www.sojourner.biz/beads/glass/vintage-yellow-tiny-flower-beads.html "Vintage yellow tiny flower beads")
 
-$9.00
+$3.00
 
 ### Best Sellers
 
