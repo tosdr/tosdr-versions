@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 02, 2024](https://www.japantimes.co.jp/archive/2024/11/02/ "archive page")
+[November 03, 2024](https://www.japantimes.co.jp/archive/2024/11/03/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,66 +131,68 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Warm weather causes record-breaking delay for autumn foliage in Japan](https://www.japantimes.co.jp/news/2024/10/31/japan/autumn-leaves-forecast-october/ "Warm weather causes record-breaking delay for autumn foliage in Japan")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-  [![Japan Times](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431337.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51)](https://www.japantimes.co.jp/news/2024/10/31/japan/autumn-leaves-forecast-october/ "Warm weather causes record-breaking delay for autumn foliage in Japan")
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-[How Japan’s new kingmaker party won over young voters](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/ninivaggipoliticsyouth-vote-dpp/ "How Japan’s new kingmaker party won over young voters")
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-  [![Democratic Party for the People chief Yuichiro Tamaki’s personal YouTube channel has more than 326,000 subscribers, by far the highest number among party leaders.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431666.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People chief Yuichiro Tamaki’s personal YouTube channel has more than 326,000 subscribers, by far the highest number among party leaders.")](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/ninivaggipoliticsyouth-vote-dpp/ "How Japan’s new kingmaker party won over young voters")
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-[Uniqlo store manager arrested over filming of women in fitting rooms](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-  [![Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431597.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-[LDP and DPP inch closer together on economic policy cooperation](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/ldp-dpp-policy-meeting/ "LDP and DPP inch closer together on economic policy cooperation")
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-  [![Democratic Party for the People Secretary-General Kazuya Shimba (left) and Liberal Democratic Party Secretary-General Hiroshi Moriyama meet in the Diet building in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431382.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People Secretary-General Kazuya Shimba (left) and Liberal Democratic Party Secretary-General Hiroshi Moriyama meet in the Diet building in Tokyo on Thursday.")](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/ldp-dpp-policy-meeting/ "LDP and DPP inch closer together on economic policy cooperation")
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-[North Korea fires off ICBM with longest flight time yet](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
+[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
-  [![A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431287.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.")](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
+  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
 Editors' Picks
 --------------
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Warm weather causes record-breaking delay for autumn foliage in Japan](https://www.japantimes.co.jp/news/2024/10/31/japan/autumn-leaves-forecast-october/ "Warm weather causes record-breaking delay for autumn foliage in Japan")
-
-By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
-
-  [![Japan Times](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431337.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51)](https://www.japantimes.co.jp/news/2024/10/31/japan/autumn-leaves-forecast-october/ "Warm weather causes record-breaking delay for autumn foliage in Japan")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[How Japan’s new kingmaker party won over young voters](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/ninivaggipoliticsyouth-vote-dpp/ "How Japan’s new kingmaker party won over young voters")
-
-By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
-
-  [![Democratic Party for the People chief Yuichiro Tamaki’s personal YouTube channel has more than 326,000 subscribers, by far the highest number among party leaders.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431666.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People chief Yuichiro Tamaki’s personal YouTube channel has more than 326,000 subscribers, by far the highest number among party leaders.")](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/ninivaggipoliticsyouth-vote-dpp/ "How Japan’s new kingmaker party won over young voters")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Uniqlo store manager arrested over filming of women in fitting rooms](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
-
-  [![Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431597.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[LDP and DPP inch closer together on economic policy cooperation](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/ldp-dpp-policy-meeting/ "LDP and DPP inch closer together on economic policy cooperation")
-
-By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
-
-  [![Democratic Party for the People Secretary-General Kazuya Shimba (left) and Liberal Democratic Party Secretary-General Hiroshi Moriyama meet in the Diet building in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431382.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People Secretary-General Kazuya Shimba (left) and Liberal Democratic Party Secretary-General Hiroshi Moriyama meet in the Diet building in Tokyo on Thursday.")](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/ldp-dpp-policy-meeting/ "LDP and DPP inch closer together on economic policy cooperation")
-
 [ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
-[North Korea fires off ICBM with longest flight time yet](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
 
-  [![A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431287.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.")](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+
+[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
+
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+
+By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
+
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+
+[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+
+By F.D. Flam  
+
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
 Podcast
 -------
@@ -211,9 +213,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Badenoch beats Jenrick to succeed Sunak at helm of U.K. Tories](https://www.japantimes.co.jp/news/2024/11/02/world/politics/kemi-badenoch-uk-conservative-party/ "Badenoch beats Jenrick to succeed Sunak at helm of U.K. Tories")
+
+4 hours ago
+
+[Nuclear fuel debris extracted from Fukushima No. 1 reactor](https://www.japantimes.co.jp/news/2024/11/02/japan/tepco-nuclear-fuel-debris/ "Nuclear fuel debris extracted from Fukushima No. 1 reactor")
+
+5 hours ago
+
+[Tokyo government looks to ensure everyone has a bed at evacuation centers](https://www.japantimes.co.jp/news/2024/11/02/japan/tokyo-subsidies-disaster-center-beds/ "Tokyo government looks to ensure everyone has a bed at evacuation centers")
+
+5 hours ago
+
 [IMF Asia-Pacific chief urges Japan to start debt cuts](https://www.japantimes.co.jp/business/2024/11/02/economy/imf-asia-chief-japan-debt-cuts/ "IMF Asia-Pacific chief urges Japan to start debt cuts")
 
-52 mins ago
+6 hours ago
 
 [Western and central Japan drenched by record rainfall for November](https://www.japantimes.co.jp/news/2024/11/02/japan/west-japan-rain-november/ "Western and central Japan drenched by record rainfall for November")
 
-1 hours ago
-
-[U.N. panel adopts nuclear abolition resolution proposed by Japan](https://www.japantimes.co.jp/news/2024/11/02/japan/un-panel-adopts-japan-nuke-resolution/ "U.N. panel adopts nuclear abolition resolution proposed by Japan")
-
-2 hours ago
-
-[Can quake-prone Japan ever embrace nuclear energy again?](https://www.japantimes.co.jp/news/2024/11/02/japan/society/nuclear-fears-quake-prone-japan/ "Can quake-prone Japan ever embrace nuclear energy again?")
-
-2 hours ago
-
-[Land minister Tetsuo Saito set to lead Komeito](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/tetsuo-saito-komeito-leader/ "Land minister Tetsuo Saito set to lead Komeito")
-
-3 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
