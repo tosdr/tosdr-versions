@@ -20,16 +20,16 @@ Saturday, November 2 2024
 
 Latest
 
-* [Daylight Saving Time ends tomorrow — the 3 biggest sleep mistakes to avoid once the clocks fall back](https://digitpatrox.com/daylight-saving-time-ends-tomorrow-the-3-biggest-sleep-mistakes-to-avoid-once-the-clocks-fall-back/)
-* [LA housing authority confirms breach claimed by Cactus ransomware](https://digitpatrox.com/la-housing-authority-confirms-breach-claimed-by-cactus-ransomware/)
-* [An Okta login bug bypassed checking passwords on some long usernames](https://digitpatrox.com/an-okta-login-bug-bypassed-checking-passwords-on-some-long-usernames/)
-* [Today’s Wordle Answer and Hints (November 2, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-2-2024/)
-* [Halloween special: Cybersecurity horror stories](https://digitpatrox.com/halloween-special-cybersecurity-horror-stories/)
-* [here’s how to beat the challenges in today’s market – Computerworld](https://digitpatrox.com/heres-how-to-beat-the-challenges-in-todays-market-computerworld/)
-* [Visualization Is My Secret to Running a Successful Marathon](https://digitpatrox.com/visualization-is-my-secret-to-running-a-successful-marathon/)
-* [Apple Intelligence Features for the iPhone](https://digitpatrox.com/apple-intelligence-features-for-the-iphone/)
-* [Intel Might Give up on Dedicated Arc GPUs](https://digitpatrox.com/intel-might-give-up-on-dedicated-arc-gpus/)
-* [What good laptop security looks like today](https://digitpatrox.com/what-good-laptop-security-looks-like-today/)
+* [TechRepublic Premium Editorial Calendar: Policies, Hiring Kits, and Glossaries for Download](https://digitpatrox.com/techrepublic-premium-editorial-calendar-policies-hiring-kits-and-glossaries-for-download/)
+* [How to watch Harrogate Town vs Wrexham livestream FREE](https://digitpatrox.com/how-to-watch-harrogate-town-vs-wrexham-livestream-free/)
+* [LastPass warns of fake support centers trying to steal customer data](https://digitpatrox.com/lastpass-warns-of-fake-support-centers-trying-to-steal-customer-data/)
+* [Hyundai’s cutesy Inster EV doesn’t need to be quick](https://digitpatrox.com/hyundais-cutesy-inster-ev-doesnt-need-to-be-quick/)
+* [Snapdragon 8 Elite Overheating Issues Emerge During Early Testing](https://digitpatrox.com/snapdragon-8-elite-overheating-issues-emerge-during-early-testing/)
+* [Agentic AI swarms are headed your way – Computerworld](https://digitpatrox.com/agentic-ai-swarms-are-headed-your-way-computerworld/)
+* [How to Block Access to Apple Intelligence’s Writing Tools on iPhone and Mac](https://digitpatrox.com/how-to-block-access-to-apple-intelligences-writing-tools-on-iphone-and-mac/)
+* [5 Best Toilets for Your Bathroom](https://digitpatrox.com/5-best-toilets-for-your-bathroom/)
+* [Today’s NYT Connections Hints and Answer for November 1 (#509)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-1-509/)
+* [Why climate perks should factor in your employee benefits package](https://digitpatrox.com/why-climate-perks-should-factor-in-your-employee-benefits-package/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/hwujt9ARPm4cfj7YFpGfhK-1200-80.jpg)](https://digitpatrox.com/daylight-saving-time-ends-tomorrow-the-3-biggest-sleep-mistakes-to-avoid-once-the-clocks-fall-back/)
+* [![](https://assets.techrepublic.com/uploads/2024/05/TechRepublic-Premium-Editorial-Calendar-2024-1024x683.jpeg)](https://digitpatrox.com/techrepublic-premium-editorial-calendar-policies-hiring-kits-and-glossaries-for-download/)
     
-    [Daylight Saving Time ends tomorrow — the 3 biggest sleep mistakes to avoid once the clocks fall back](https://digitpatrox.com/daylight-saving-time-ends-tomorrow-the-3-biggest-sleep-mistakes-to-avoid-once-the-clocks-fall-back/)
+    [TechRepublic Premium Editorial Calendar: Policies, Hiring Kits, and Glossaries for Download](https://digitpatrox.com/techrepublic-premium-editorial-calendar-policies-hiring-kits-and-glossaries-for-download/)
     
-    8 mins ago
+    9 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/11/01/HACLA_headpic.jpg)](https://digitpatrox.com/la-housing-authority-confirms-breach-claimed-by-cactus-ransomware/)
+* [![](https://cdn.mos.cms.futurecdn.net/u3kFBF42nN9m4rMEofrU6Z-1200-80.jpg)](https://digitpatrox.com/how-to-watch-harrogate-town-vs-wrexham-livestream-free/)
     
-    [LA housing authority confirms breach claimed by Cactus ransomware](https://digitpatrox.com/la-housing-authority-confirms-breach-claimed-by-cactus-ransomware/)
+    [How to watch Harrogate Town vs Wrexham livestream FREE](https://digitpatrox.com/how-to-watch-harrogate-town-vs-wrexham-livestream-free/)
     
-    35 mins ago
+    25 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/4LNrvISWOzpoG9hF68SCMFgOuvI=/0x0:2040x1334/1200x628/filters:focal(1020x667:1021x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25299201/STK453_PRIVACY_B_CVirginia.jpg)](https://digitpatrox.com/an-okta-login-bug-bypassed-checking-passwords-on-some-long-usernames/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/04/11/LastPass-headpic.jpg)](https://digitpatrox.com/lastpass-warns-of-fake-support-centers-trying-to-steal-customer-data/)
     
-    [An Okta login bug bypassed checking passwords on some long usernames](https://digitpatrox.com/an-okta-login-bug-bypassed-checking-passwords-on-some-long-usernames/)
+    [LastPass warns of fake support centers trying to steal customer data](https://digitpatrox.com/lastpass-warns-of-fake-support-centers-trying-to-steal-customer-data/)
     
-    53 mins ago
+    52 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-2-2024/)
+* [![](https://cdn.vox-cdn.com/thumbor/onuHALlcy38djuQ20qs0akp6Vqc=/0x0:1499x999/1200x628/filters:focal(750x500:751x501)/cdn.vox-cdn.com/uploads/chorus_asset/file/25710925/Image_4.JPG)](https://digitpatrox.com/hyundais-cutesy-inster-ev-doesnt-need-to-be-quick/)
     
-    [Today’s Wordle Answer and Hints (November 2, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-2-2024/)
+    [Hyundai’s cutesy Inster EV doesn’t need to be quick](https://digitpatrox.com/hyundais-cutesy-inster-ev-doesnt-need-to-be-quick/)
     
     1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/uaGVzyweTprBMoMMMtdtoR-1200-80.jpg)](https://digitpatrox.com/halloween-special-cybersecurity-horror-stories/)
+* [![](https://beebom.com/wp-content/uploads/2024/10/qualcomm-releases-snapdragon-8-elite-aka-8-gen-4.jpg)](https://digitpatrox.com/snapdragon-8-elite-overheating-issues-emerge-during-early-testing/)
     
-    [Halloween special: Cybersecurity horror stories](https://digitpatrox.com/halloween-special-cybersecurity-horror-stories/)
+    [Snapdragon 8 Elite Overheating Issues Emerge During Early Testing](https://digitpatrox.com/snapdragon-8-elite-overheating-issues-emerge-during-early-testing/)
     
-    3 hours ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [8 mins ago
+* [9 mins ago
     
-    ### Daylight Saving Time ends tomorrow — the 3 biggest sleep mistakes to avoid once the clocks fall back](https://digitpatrox.com/daylight-saving-time-ends-tomorrow-the-3-biggest-sleep-mistakes-to-avoid-once-the-clocks-fall-back/)
-* [35 mins ago
+    ### TechRepublic Premium Editorial Calendar: Policies, Hiring Kits, and Glossaries for Download](https://digitpatrox.com/techrepublic-premium-editorial-calendar-policies-hiring-kits-and-glossaries-for-download/)
+* [25 mins ago
     
-    ### LA housing authority confirms breach claimed by Cactus ransomware](https://digitpatrox.com/la-housing-authority-confirms-breach-claimed-by-cactus-ransomware/)
-* [53 mins ago
+    ### How to watch Harrogate Town vs Wrexham livestream FREE](https://digitpatrox.com/how-to-watch-harrogate-town-vs-wrexham-livestream-free/)
+* [52 mins ago
     
-    ### An Okta login bug bypassed checking passwords on some long usernames](https://digitpatrox.com/an-okta-login-bug-bypassed-checking-passwords-on-some-long-usernames/)
+    ### LastPass warns of fake support centers trying to steal customer data](https://digitpatrox.com/lastpass-warns-of-fake-support-centers-trying-to-steal-customer-data/)
 
 Most Popular Topics
 
 * [2 weeks ago
     
-    ### Why is ‘Adam Driver Megalopolis’ blocked in Instagram searches?](https://digitpatrox.com/why-is-adam-driver-megalopolis-blocked-in-instagram-searches/)
-* [August 12, 2024
+    ### Firefox Is Now ”More Than 75X Faster” Running WebAssembly](https://digitpatrox.com/firefox-is-now-more-than-75x-faster-running-webassembly/)
+* [2 days ago
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 14, 2024
+    ### Windows 10 is officially dying next October — but you can get a year of extra support for $30](https://digitpatrox.com/windows-10-is-officially-dying-next-october-but-you-can-get-a-year-of-extra-support-for-30/)
+* [August 23, 2024
     
-    ### What is an FTP server?](https://digitpatrox.com/what-is-an-ftp-server/)
+    ### Connecticut special needs school hacked; student SSNs, finance, and medical info compromised](https://digitpatrox.com/connecticut-special-needs-school-hacked-student-ssns-finance-and-medical-info-compromised/)
 
 Last Modified Topics
 
-* [3 hours ago
-    
-    ### Visualization Is My Secret to Running a Successful Marathon](https://digitpatrox.com/visualization-is-my-secret-to-running-a-successful-marathon/)
 * [4 hours ago
     
-    ### Apple Intelligence Features for the iPhone](https://digitpatrox.com/apple-intelligence-features-for-the-iphone/)
+    ### How to Block Access to Apple Intelligence’s Writing Tools on iPhone and Mac](https://digitpatrox.com/how-to-block-access-to-apple-intelligences-writing-tools-on-iphone-and-mac/)
 * [4 hours ago
     
-    ### Intel Might Give up on Dedicated Arc GPUs](https://digitpatrox.com/intel-might-give-up-on-dedicated-arc-gpus/)
+    ### 5 Best Toilets for Your Bathroom](https://digitpatrox.com/5-best-toilets-for-your-bathroom/)
+* [4 hours ago
+    
+    ### Today’s NYT Connections Hints and Answer for November 1 (#509)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-1-509/)
 
 Most Viewed Topics
 
 * [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
-* [August 13, 2024
+* [August 11, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
