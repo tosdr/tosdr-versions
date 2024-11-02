@@ -1,8 +1,8 @@
- ![Limited time promo](https://www.backup4all.com/images/promo/halloween/ghost.png?ek79cy)
+ ![Limited time promo](https://www.backup4all.com/images/promo/pack/promo-save.png?ek79cy)
 
-#### Halloween sale: 40% Discount for Backup4all Pro to unlock new features (Save US$ 20.00)
+#### Limited time sale: Backup4all PRO Family Pack - Pay for 2 Licenses & Get 3 (Save US$ 46.68)
 
-Buy (US$ 29.99)
+Buy (US$ 93.33)
 
 [![Backup4all Logo](https://www.backup4all.com/images/backup4all-logo.svg)![Backup4all Logo by Softland](https://www.backup4all.com/images/backup4all-by-softland.svg)](https://www.backup4all.com/)
 
@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Backup software](https://www.backup4all.com/backup-software-kb.html)  
+* [Backup to Blu-ray](https://www.backup4all.com/backup-to-blu-ray-kb.html)  
     
-* [How to back up data files from SwiftStack usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-swiftstack-using-backup4all-kb.html)  
+* [How to back up data files from Scaleway using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scaleway-using-backup4all-kb.html)  
     
-* [How to backup your data to Constant](https://www.backup4all.com/how-to-backup-your-data-to-constant-kb.html)  
+* [How to back up data files from Dunkel using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-dunkel-using-backup4all-kb.html)  
     
-* [How to backup your Facebook account](https://www.backup4all.com/how-to-backup-your-facebook-account-using-backup4all-kb.html)  
+* [Network deployment strategy for Backup4all](https://www.backup4all.com/network-deployment-strategy-for-backup4all-kb.html)  
     
-* [How to back up data files from FTP using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-ftp-using-backup4all-kb.html)  
+* [How to backup your data to Cloudian](https://www.backup4all.com/how-to-backup-your-data-to-cloudian-kb.html)  
     
 
 Choose language:
