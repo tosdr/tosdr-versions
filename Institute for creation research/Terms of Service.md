@@ -165,63 +165,31 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Creation Q&A
+More Days of Praise
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/how_coal_seams_form.jpg)](https://www.icr.org/article/how-did-coal-seams-form)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/chastening)
 
-[How Did Coal Seams Form?](https://www.icr.org/article/how-did-coal-seams-form/)
+[Chastening](https://www.icr.org/article/chastening/)
 
-When I drive from Dallas to Colorado, I sometimes see southbound trains loaded with coal from vast reserves buried in Wyoming rock layers. This coal...
+“Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty.” (Job 5:17) One of the fascinating...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/resurrect_extinct_species.jpg)](https://www.icr.org/article/can-scientists-resurrect-extinct-species)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/throne-david)
 
-[Can Scientists Resurrect Extinct Species?](https://www.icr.org/article/can-scientists-resurrect-extinct-species/)
+[The Throne of David](https://www.icr.org/article/throne-david/)
 
-In the 2013 movie Star Trek: Into Darkness, Captain Kirk suffers lethal levels of radiation to save his crew. Fortunately, Doctor McCoy brings his captain...
+“And thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever.” (2 Samuel 7:16) No...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/CanScientistsReplaceGod.jpg)](https://www.icr.org/article/can-scientists-replace-god-with-nothing)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/christ-suffering-triumph)
 
-[Can Scientists Replace God with Nothing?](https://www.icr.org/article/can-scientists-replace-god-with-nothing/)
+[Christ in Suffering and Triumph](https://www.icr.org/article/christ-suffering-triumph/)
 
-Hebrews 11:3 says, “By faith we understand that the universe was created by the word of God.” Do you find it a little odd that we must have...
+“I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.”...
 
-BY: [SCOTT ARLEDGE](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=246)
-
-Shop Related Products
-
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/15818899/file.jpg)
-
-The Fossil Record - eBook](https://store.icr.org/the-fossil-record-ebook.html)
-
-$9.99
-
-$19.99
-
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10027370/file.jpg)
-
-The Global Flood - eBook](https://store.icr.org/dr-john-morris-the-global-flood-ebook.html)
-
-$9.99
-
-$19.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32803/file.jpg)
-
-The Young Earth](https://store.icr.org/dr-john-morris-the-young-earth.html)
-
-$19.99
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
