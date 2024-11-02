@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-    [![WCBS Logo](https://www.wcbs.co.uk/wp-content/uploads/2019/08/Logo.png)  ![WCBS Logo](https://www.wcbs.co.uk/wp-content/uploads/2019/08/Logo-rev-mob-retina.png)  ![WCBS Logo](https://www.wcbs.co.uk/wp-content/uploads/2019/08/Logo.png)](https://www.wcbs.co.uk/)
+  [![WCBS Logo](https://www.wcbs.co.uk/wp-content/uploads/2019/08/Logo.png) ![WCBS Logo](https://www.wcbs.co.uk/wp-content/uploads/2019/08/Logo-rev-mob-retina.png) ![WCBS Logo](https://www.wcbs.co.uk/wp-content/uploads/2019/08/Logo.png)](https://www.wcbs.co.uk/)
 
 * Solutions and Services
     
@@ -453,7 +453,7 @@ If you have any questions or concerns about this Cookies Policy or our use of co
 
 [![](https://www.wcbs.co.uk/wp-content/uploads/2023/03/edtechAward-CT-fin2023-blk.png-e1680195574653.webp)](https://www.edtechdigest.com/2023-finalists-winners/)
 
-© Copyright 2024 WCBS | All Rights Reserved    [Privacy & Terms](https://www.wcbs.co.uk/wcbs-privacy-cookies/)    [Sustainability Policy](https://www.wcbs.co.uk/wp-content/uploads/2022/03/WCBS-Sustainability-Policy-v1.0.pdf)    [GDPR Policy](https://www.wcbs.co.uk/wp-content/uploads/2022/01/WCBS-GDPR-gradient-.indd-logo-test2.pdf)
+© Copyright 2024 WCBS | All Rights Reserved [Privacy & Terms](https://www.wcbs.co.uk/wcbs-privacy-cookies/) [Sustainability Policy](https://www.wcbs.co.uk/wp-content/uploads/2022/03/WCBS-Sustainability-Policy-v1.0.pdf) [GDPR Policy](https://www.wcbs.co.uk/wp-content/uploads/2022/01/WCBS-GDPR-gradient-.indd-logo-test2.pdf)
 
 [Twitter![Twitter](https://www.wcbs.co.uk/wp-content/uploads/2019/08/Twitter-White-Small.png)](https://twitter.com/WCBSMIS "Twitter")[LinkenIn![LinkenIn](https://www.wcbs.co.uk/wp-content/uploads/2019/08/LinkedIn-White-small.png)](https://www.linkedin.com/company/248511 "LinkenIn")[YouTube![YouTube](https://www.wcbs.co.uk/wp-content/uploads/2019/08/YouTube-White-Small.png)](https://www.youtube.com/WCBSforSchools "YouTube")
 
