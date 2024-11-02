@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Veja como será o funcionamento dos mercados, shoppings e Comércio no feriado de Finados](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/9/csm_shoppings_maceio_ec160f3d70.png)
+   [![Em Maceió, estudantes revisam conteúdos de humanas e dicas de redação ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/f/csm_02-11-24-Pre-Vestibular-Educar-e-Massa-Por-Joyce-Juliana-059_194a524bae.jpg)
+
+aulão pré-enem
+
+Em Maceió, estudantes revisam conteúdos de humanas e dicas de redação](https://www.tnh1.com.br/noticia/nid/em-maceio-estudantes-revisam-conteudos-de-humanas-e-dicas-de-redacao/ "Em Maceió, estudantes revisam conteúdos de humanas e dicas de redação ")   [![Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/9/csm_ssp-realiza-operacao-em-casa-de-shows-no-jaragua-e-constata-irregularidades_56c5b6bcf2.jpeg)
+
+irregularidades
+
+Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://www.tnh1.com.br/noticia/nid/casa-de-shows-em-maceio-e-alvo-de-operacao-da-policia-e-donos-sao-levados-a-delegacia/ "Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia")   [![Veja como será o funcionamento dos mercados, shoppings e Comércio no feriado de Finados](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/9/csm_shoppings_maceio_ec160f3d70.png)
 
 neste sábado
 
-Veja como será o funcionamento dos mercados, shoppings e Comércio no feriado de Finados](https://www.tnh1.com.br/noticia/nid/veja-como-sera-o-funcionamento-dos-mercados-shoppings-e-comercio-no-feriado-de-finados/ "Veja como será o funcionamento dos mercados, shoppings e Comércio no feriado de Finados")   [![Com suspeita de leptospirose, homem é internado em hospital e descobre meningite](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/b/csm_csm_Hospital_Helvio_Auto_-_foto__Ascom_Helvio_Auto_15667ca8ac_427f2095aa.jpeg)
+Veja como será o funcionamento dos mercados, shoppings e Comércio no feriado de Finados](https://www.tnh1.com.br/noticia/nid/veja-como-sera-o-funcionamento-dos-mercados-shoppings-e-comercio-no-feriado-de-finados/ "Veja como será o funcionamento dos mercados, shoppings e Comércio no feriado de Finados")   [![Com suspeita de leptospirose, homem é internado em hospital e descobre meningite](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/b/csm_csm_Hospital_Helvio_Auto_-_foto__Ascom_Helvio_Auto_15667ca8ac_427f2095aa.jpeg)
 
 de capela
 
-Com suspeita de leptospirose, homem é internado em hospital e descobre meningite](https://www.tnh1.com.br/noticia/nid/com-suspeita-de-leptospirose-homem-e-internado-em-hospital-e-descobre-meningite/ "Com suspeita de leptospirose, homem é internado em hospital e descobre meningite")   [![Polícia identifica suspeito de tentar estuprar e agredir mulher com série de socos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/f/csm_mulher-agredida-tentativa-estupro-jacintinho_03a50416af.jpg)
+Com suspeita de leptospirose, homem é internado em hospital e descobre meningite](https://www.tnh1.com.br/noticia/nid/com-suspeita-de-leptospirose-homem-e-internado-em-hospital-e-descobre-meningite/ "Com suspeita de leptospirose, homem é internado em hospital e descobre meningite")   [![Polícia identifica suspeito de tentar estuprar e agredir mulher com série de socos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/f/csm_mulher-agredida-tentativa-estupro-jacintinho_03a50416af.jpg)
 
 Segue foragido
 
-Polícia identifica suspeito de tentar estuprar e agredir mulher com série de socos](https://www.tnh1.com.br/noticia/nid/policia-identifica-suspeito-de-tentar-estuprar-e-agredir-mulher-com-serie-de-socos/ "Polícia identifica suspeito de tentar estuprar e agredir mulher com série de socos")   [![Idosa é achada morta com sinais de envenenamento no Flexal; filha está internada em estado grave](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/d/csm_protesto_moradores_Flexais_bd5dd3f804.jpeg)
+Polícia identifica suspeito de tentar estuprar e agredir mulher com série de socos](https://www.tnh1.com.br/noticia/nid/policia-identifica-suspeito-de-tentar-estuprar-e-agredir-mulher-com-serie-de-socos/ "Polícia identifica suspeito de tentar estuprar e agredir mulher com série de socos")   [![Idosa é achada morta com sinais de envenenamento no Flexal; filha está internada em estado grave](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/d/csm_protesto_moradores_Flexais_bd5dd3f804.jpeg)
 
 Maceió
 
-Idosa é achada morta com sinais de envenenamento no Flexal; filha está internada em estado grave](https://www.tnh1.com.br/noticia/nid/idosa-e-achada-morta-com-sinais-de-envenenamento-no-flexal-filha-esta-internada-em-estado-grave/ "Idosa é achada morta com sinais de envenenamento no Flexal; filha está internada em estado grave")   [![Parque Shopping Maceió celebra 11 anos com sucesso consolidado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/3/csm_Parque_Shopping_367a9b125c.jpeg)
-
-Maceió
-
-Parque Shopping Maceió celebra 11 anos com sucesso consolidado](https://www.tnh1.com.br/noticia/nid/parque-shopping-maceio-celebra-11-anos-com-sucesso-consolidado/ "Parque Shopping Maceió celebra 11 anos com sucesso consolidado")   [![Maceió retoma vacinação contra Covid-19 após reabastecimento](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/7/csm_Maceio_retoma_vacinacao_contra_Covid-19_apos_reabastecimento_-_foto_Jonathan_Lins_-_Secom_Maceio_6f74382526.jpg)
-
-imunização
-
-Maceió retoma vacinação contra Covid-19 após reabastecimento](https://www.tnh1.com.br/noticia/nid/maceio-retoma-vacinacao-contra-covid-19-apos-reabastecimento/ "Maceió retoma vacinação contra Covid-19 após reabastecimento")
+Idosa é achada morta com sinais de envenenamento no Flexal; filha está internada em estado grave](https://www.tnh1.com.br/noticia/nid/idosa-e-achada-morta-com-sinais-de-envenenamento-no-flexal-filha-esta-internada-em-estado-grave/ "Idosa é achada morta com sinais de envenenamento no Flexal; filha está internada em estado grave")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -82,31 +82,31 @@ BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e regi�
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/6/csm_policial-penal-sergipe-morte-alagoas-arquivo-pessoal_807100c4a0.jpg)
+   [![Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/9/csm_ssp-realiza-operacao-em-casa-de-shows-no-jaragua-e-constata-irregularidades_56c5b6bcf2.jpeg)
+
+irregularidades
+
+Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://www.tnh1.com.br/noticia/nid/casa-de-shows-em-maceio-e-alvo-de-operacao-da-policia-e-donos-sao-levados-a-delegacia/ "Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia")   [![Sem dinheiro, homem é vítima de tiros em tentativa de assalto em bar no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/4/csm_campo_grande_alagoas_eadde23442.png)
+
+Polícia
+
+Sem dinheiro, homem é vítima de tiros em tentativa de assalto em bar no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/sem-dinheiro-homem-e-vitima-de-tiros-em-tentativa-de-assalto-em-bar-no-interior-de-alagoas/ "Sem dinheiro, homem é vítima de tiros em tentativa de assalto em bar no interior de Alagoas")   [![Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/6/csm_policial-penal-sergipe-morte-alagoas-arquivo-pessoal_807100c4a0.jpg)
 
 30 anos
 
-Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policial-penal-de-sergipe-e-morto-a-tiros-apos-sofrer-atentado-no-interior-de-alagoas/ "Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas")   [![Homem é socorrido em estado grave após ser baleado na cabeça em União dos Palmares](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/4/csm_disparo-arma-fogo-reproducao_c16d2689dd.jpg)
+Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policial-penal-de-sergipe-e-morto-a-tiros-apos-sofrer-atentado-no-interior-de-alagoas/ "Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas")   [![Homem é socorrido em estado grave após ser baleado na cabeça em União dos Palmares](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/4/csm_disparo-arma-fogo-reproducao_c16d2689dd.jpg)
 
 No interior
 
-Homem é socorrido em estado grave após ser baleado na cabeça em União dos Palmares](https://www.tnh1.com.br/noticia/nid/homem-e-socorrido-em-estado-grave-apos-ser-baleado-na-cabeca-em-uniao-dos-palmares/ "Homem é socorrido em estado grave após ser baleado na cabeça em União dos Palmares")   [![Em dois dias, Polícia Militar apreende armas e drogas na capital e interior](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/1/csm_em-dois-dias-policia-militar-apreende-armas-e-drogas-na-capital-e-interior_496463dc4c.jpg)
+Homem é socorrido em estado grave após ser baleado na cabeça em União dos Palmares](https://www.tnh1.com.br/noticia/nid/homem-e-socorrido-em-estado-grave-apos-ser-baleado-na-cabeca-em-uniao-dos-palmares/ "Homem é socorrido em estado grave após ser baleado na cabeça em União dos Palmares")   [![Em dois dias, Polícia Militar apreende armas e drogas na capital e interior](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/1/csm_em-dois-dias-policia-militar-apreende-armas-e-drogas-na-capital-e-interior_496463dc4c.jpg)
 
 Polícia
 
-Em dois dias, Polícia Militar apreende armas e drogas na capital e interior](https://www.tnh1.com.br/noticia/nid/em-dois-dias-policia-militar-apreende-armas-e-drogas-na-capital-e-interior/ "Em dois dias, Polícia Militar apreende armas e drogas na capital e interior")   [![Vídeos: veja como foi simulação de assalto à loja com reféns no Centro de Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/c/csm_Simulo_CATE_3110_DCS_PMAL_15_756fc02df6.jpg)
+Em dois dias, Polícia Militar apreende armas e drogas na capital e interior](https://www.tnh1.com.br/noticia/nid/em-dois-dias-policia-militar-apreende-armas-e-drogas-na-capital-e-interior/ "Em dois dias, Polícia Militar apreende armas e drogas na capital e interior")   [![Vídeos: veja como foi simulação de assalto à loja com reféns no Centro de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/c/csm_Simulo_CATE_3110_DCS_PMAL_15_756fc02df6.jpg)
 
 polícia militar
 
-Vídeos: veja como foi simulação de assalto à loja com reféns no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/videos-veja-como-foi-simulacao-de-assalto-a-loja-com-refens-no-centro-de-maceio/ "Vídeos: veja como foi simulação de assalto à loja com reféns no Centro de Maceió")   [![Homem é preso por descumprimento de medida protetiva no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/4/csm_preso_pc_c6d5ba836e.jpeg)
-
-Polícia
-
-Homem é preso por descumprimento de medida protetiva no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-descumprimento-de-medida-protetiva-no-interior-de-alagoas/ "Homem é preso por descumprimento de medida protetiva no interior de Alagoas")   [![PF indicia 20 pessoas em investigação sobre irregularidades na exploração de sal-gema em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/a/csm_pinheiro_regiao_vista_areas_Vasni_a1ec88491a.png)
-
-inquérito concluído
-
-PF indicia 20 pessoas em investigação sobre irregularidades na exploração de sal-gema em Maceió](https://www.tnh1.com.br/noticia/nid/pf-indicia-20-pessoas-em-investigacao-sobre-irregularidades-na-exploracao-de-sal-gema-em-maceio/ "PF indicia 20 pessoas em investigação sobre irregularidades na exploração de sal-gema em Maceió")
+Vídeos: veja como foi simulação de assalto à loja com reféns no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/videos-veja-como-foi-simulacao-de-assalto-a-loja-com-refens-no-centro-de-maceio/ "Vídeos: veja como foi simulação de assalto à loja com reféns no Centro de Maceió")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -115,20 +115,6 @@ PF indicia 20 pessoas em investigação sobre irregularidades na exploração de
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
-
-Últimas de Pessoas&Negócios
-
-[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
-
-   [![Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/b/csm_Noah_Verde_234e420532.jpeg)
-
-Pessoas & Negócios
-
-Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](https://www.tnh1.com.br/noticia/nid/noah-verde-gerente-executiva-de-marketing-do-sesi-senai-faz-aniversario/ "Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário")   [![Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_Primeira_dama_SPFW__2__ae4a56b4c2.jpeg)
-
-Pessoas & Negócios
-
-Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -202,7 +188,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/3/csm_charles4_8ee254ed73.jpg)
+[![Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/3/csm_charles4_8ee254ed73.jpg)
 
 Família Real
 
@@ -210,7 +196,7 @@ Família Real
 
 Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'
 
-Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'](https://www.tnh1.com.br/noticia/nid/rei-charles-finalmente-cumpre-vontade-de-elizabeth-e-toma-dura-decisao-contra-filho-problema/ "Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'")[![Rua no Centro de Maceió terá sentido único a partir deste sábado (2)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/c/csm_Rua_proxima_ao_TRT_tera_sentido_unico_a_partir_deste_sabado__2__0_foto_Reproducao_Google_2a0c37fd70.jpeg)
+Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'](https://www.tnh1.com.br/noticia/nid/rei-charles-finalmente-cumpre-vontade-de-elizabeth-e-toma-dura-decisao-contra-filho-problema/ "Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'")[![Rua no Centro de Maceió terá sentido único a partir deste sábado (2)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/c/csm_Rua_proxima_ao_TRT_tera_sentido_unico_a_partir_deste_sabado__2__0_foto_Reproducao_Google_2a0c37fd70.jpeg)
 
 Trânsito
 
@@ -218,41 +204,7 @@ Trânsito
 
 Rua no Centro de Maceió terá sentido único a partir deste sábado (2)
 
-Rua no Centro de Maceió terá sentido único a partir deste sábado (2)](https://www.tnh1.com.br/noticia/nid/rua-no-centro-de-maceio-tera-sentido-unico-a-partir-deste-sabado-2/ "Rua no Centro de Maceió terá sentido único a partir deste sábado (2)")[![O significado por trás do clipe macabro de Anitta e The Weeknd; assista ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/7/csm_anitta-barriga-reproducao-youtube_45bdea1ed7.jpg)
-
-Novo hit
-
-Novo hit
-
-O significado por trás do clipe macabro de Anitta e The Weeknd; assista
-
-O significado por trás do clipe macabro de Anitta e The Weeknd; assista](https://www.tnh1.com.br/noticia/nid/o-significado-por-tras-do-clipe-macabro-de-anitta-e-the-weeknd-assista/ "O significado por trás do clipe macabro de Anitta e The Weeknd; assista ")[![Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/0/csm_submetralhadora-apreendida-sao-miguel_3e1d17979d.jpg)
-
-Dentro de casa
-
-Dentro de casa
-
-Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas
-
-Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-e-preso-com-submetralhadora-pistola-e-municoes-no-interior-de-alagoas/ "Homem é preso com submetralhadora, pistola e munições, no interior de Alagoas")
-
-[![Mandantes do assassinato de Marielle devem ser julgados no 1º semestre de 2025](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/5/csm_conselheiro-domingos-brazao-preso-reproducao-STF_b39e8199ef.jpg)
-
-NO STF
-
-NO STF
-
-Mandantes do assassinato de Marielle devem ser julgados no 1º semestre de 2025
-
-Mandantes do assassinato de Marielle devem ser julgados no 1º semestre de 2025](https://www.tnh1.com.br/noticia/nid/mandantes-do-assassinato-de-marielle-devem-ser-julgados-no-1o-semestre-de-2025/ "Mandantes do assassinato de Marielle devem ser julgados no 1º semestre de 2025")[![Posso doar meu cérebro? Como funciona banco que recebeu o de Maguila](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/2/csm_maguila-morte-reproducao-redes-sociais_240da90676.png)
-
-objeto de pesquisa
-
-objeto de pesquisa
-
-Posso doar meu cérebro? Como funciona banco que recebeu o de Maguila
-
-Posso doar meu cérebro? Como funciona banco que recebeu o de Maguila](https://www.tnh1.com.br/noticia/nid/posso-doar-meu-cerebro-como-funciona-banco-que-recebeu-o-de-maguila/ "Posso doar meu cérebro? Como funciona banco que recebeu o de Maguila")[![Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/6/csm_policial-penal-sergipe-morte-alagoas-arquivo-pessoal_08bd7b2227.jpg)
+Rua no Centro de Maceió terá sentido único a partir deste sábado (2)](https://www.tnh1.com.br/noticia/nid/rua-no-centro-de-maceio-tera-sentido-unico-a-partir-deste-sabado-2/ "Rua no Centro de Maceió terá sentido único a partir deste sábado (2)")[![Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/6/csm_policial-penal-sergipe-morte-alagoas-arquivo-pessoal_08bd7b2227.jpg)
 
 30 anos
 
@@ -260,15 +212,49 @@ Posso doar meu cérebro? Como funciona banco que recebeu o de Maguila](https://w
 
 Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas
 
-Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policial-penal-de-sergipe-e-morto-a-tiros-apos-sofrer-atentado-no-interior-de-alagoas/ "Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas")[![Giselle Itié diz que parceiro teve nojo de seu corpo durante a gravidez ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/3/csm_photo-shared-by-giselle-itie-on-october-25-2024-tagging-exaustaaas_f750a2f948.jpg)
+Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policial-penal-de-sergipe-e-morto-a-tiros-apos-sofrer-atentado-no-interior-de-alagoas/ "Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas")[![Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/b/csm_sabrina-gomes-sindrome-de-cushing-reproducao_7a72cca2b4.jpg)
 
-abriu o coração
+24 anos
 
-abriu o coração
+24 anos
 
-Giselle Itié diz que parceiro teve nojo de seu corpo durante a gravidez
+Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio
 
-Giselle Itié diz que parceiro teve nojo de seu corpo durante a gravidez](https://www.tnh1.com.br/noticia/nid/giselle-itie-diz-que-parceiro-teve-nojo-de-seu-corpo-durante-a-gravidez/ "Giselle Itié diz que parceiro teve nojo de seu corpo durante a gravidez ")
+Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio](https://www.tnh1.com.br/noticia/nid/jovem-com-tumor-raro-que-levou-a-mudanca-na-cor-de-pele-tenta-obter-remedio/ "Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio")
+
+[![Em Maceió, estudantes revisam conteúdos de humanas e dicas de redação ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/f/csm_02-11-24-Pre-Vestibular-Educar-e-Massa-Por-Joyce-Juliana-059_b8c1616e34.jpg)
+
+aulão pré-enem
+
+aulão pré-enem
+
+Em Maceió, estudantes revisam conteúdos de humanas e dicas de redação
+
+Em Maceió, estudantes revisam conteúdos de humanas e dicas de redação](https://www.tnh1.com.br/noticia/nid/em-maceio-estudantes-revisam-conteudos-de-humanas-e-dicas-de-redacao/ "Em Maceió, estudantes revisam conteúdos de humanas e dicas de redação ")[![Filho do cantor Jottapê nasce no carro a caminho do hospital; veja vídeo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/f/csm_Jotape_b29a1b93f2.png)
+
+Gente Famosa
+
+Gente Famosa
+
+Filho do cantor Jottapê nasce no carro a caminho do hospital; veja vídeo
+
+Filho do cantor Jottapê nasce no carro a caminho do hospital; veja vídeo](https://www.tnh1.com.br/noticia/nid/filho-do-cantor-jottape-nasce-no-carro-a-caminho-do-hospital-veja-video/ "Filho do cantor Jottapê nasce no carro a caminho do hospital; veja vídeo")[![Enem: quantos minutos gastar por questão? É melhor começar pelas perguntas ou pela redação?](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/b/csm_enem_provas_b32d405ef7.png)
+
+Educação
+
+Educação
+
+Enem: quantos minutos gastar por questão? É melhor começar pelas perguntas ou pela redação?
+
+Enem: quantos minutos gastar por questão? É melhor começar pelas perguntas ou pela redação?](https://www.tnh1.com.br/noticia/nid/enem-quantos-minutos-gastar-por-questao-e-melhor-comecar-pelas-perguntas-ou-pela-redacao/ "Enem: quantos minutos gastar por questão? É melhor começar pelas perguntas ou pela redação?")[![Terceira edição da Copa do Interior de Futebol começa neste domingo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/4/csm_terceira-edicao-da-copa-do-interior-de-futebol-comeca-nesta-domingo_ad31417859.jpeg)
+
+futebol amador
+
+futebol amador
+
+Terceira edição da Copa do Interior de Futebol começa neste domingo
+
+Terceira edição da Copa do Interior de Futebol começa neste domingo](https://www.tnh1.com.br/noticia/nid/terceira-edicao-da-copa-do-interior-de-futebol-comeca-neste-domingo/ "Terceira edição da Copa do Interior de Futebol começa neste domingo")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
