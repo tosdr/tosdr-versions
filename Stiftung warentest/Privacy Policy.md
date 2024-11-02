@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Testsiegel Stiftung Warentest: Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen](https://www.test.de/Nachtests-Diese-Produkte-duerfen-das-Testsiegel-nicht-mehr-tragen-5022611-0/ "Testsiegel Stiftung Warentest - Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen")
-* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
-* [Leserfall: Wenn Paypal ein Kunden­konto einfriert](https://www.test.de/Leserfall-Wenn-Paypal-ein-Kundenkonto-einfriert-5955274-0/ "Leserfall - Wenn Paypal ein Kundenkonto einfriert")
-* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
-* [Kabel­fernsehen und Gebühren­pflicht: Jetzt entscheiden Mieter selbst](https://www.test.de/kabelfernsehen-nebenkostenprivileg-abgeschafft-6029892-0/ "Kabelfernsehen und Gebührenpflicht - Jetzt entscheiden Mieter selbst")
-* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
+* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
+* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Testsiegel Stiftung Warentest: Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen](https://www.test.de/Nachtests-Diese-Produkte-duerfen-das-Testsiegel-nicht-mehr-tragen-5022611-0/ "Testsiegel Stiftung Warentest - Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen")
-* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
-* [Leserfall: Wenn Paypal ein Kunden­konto einfriert](https://www.test.de/Leserfall-Wenn-Paypal-ein-Kundenkonto-einfriert-5955274-0/ "Leserfall - Wenn Paypal ein Kundenkonto einfriert")
-* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
-* [Kabel­fernsehen und Gebühren­pflicht: Jetzt entscheiden Mieter selbst](https://www.test.de/kabelfernsehen-nebenkostenprivileg-abgeschafft-6029892-0/ "Kabelfernsehen und Gebührenpflicht - Jetzt entscheiden Mieter selbst")
-* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
+* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
+* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Testsiegel Stiftung Warentest: Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen](https://www.test.de/Nachtests-Diese-Produkte-duerfen-das-Testsiegel-nicht-mehr-tragen-5022611-0/ "Testsiegel Stiftung Warentest - Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen")
-* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
-* [Leserfall: Wenn Paypal ein Kunden­konto einfriert](https://www.test.de/Leserfall-Wenn-Paypal-ein-Kundenkonto-einfriert-5955274-0/ "Leserfall - Wenn Paypal ein Kundenkonto einfriert")
-* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
-* [Kabel­fernsehen und Gebühren­pflicht: Jetzt entscheiden Mieter selbst](https://www.test.de/kabelfernsehen-nebenkostenprivileg-abgeschafft-6029892-0/ "Kabelfernsehen und Gebührenpflicht - Jetzt entscheiden Mieter selbst")
-* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
+* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
+* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Testsiegel Stiftung Warentest: Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen](https://www.test.de/Nachtests-Diese-Produkte-duerfen-das-Testsiegel-nicht-mehr-tragen-5022611-0/ "Testsiegel Stiftung Warentest - Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen")
-* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
-* [Leserfall: Wenn Paypal ein Kunden­konto einfriert](https://www.test.de/Leserfall-Wenn-Paypal-ein-Kundenkonto-einfriert-5955274-0/ "Leserfall - Wenn Paypal ein Kundenkonto einfriert")
-* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
-* [Kabel­fernsehen und Gebühren­pflicht: Jetzt entscheiden Mieter selbst](https://www.test.de/kabelfernsehen-nebenkostenprivileg-abgeschafft-6029892-0/ "Kabelfernsehen und Gebührenpflicht - Jetzt entscheiden Mieter selbst")
-* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
+* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
+* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
 
 Service Stiftung Warentest
 
