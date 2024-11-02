@@ -131,68 +131,64 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[How Japan’s new kingmaker party won over young voters](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/ninivaggipoliticsyouth-vote-dpp/ "How Japan’s new kingmaker party won over young voters")
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![Democratic Party for the People chief Yuichiro Tamaki’s personal YouTube channel has more than 326,000 subscribers, by far the highest number among party leaders.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431666.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People chief Yuichiro Tamaki’s personal YouTube channel has more than 326,000 subscribers, by far the highest number among party leaders.")](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/ninivaggipoliticsyouth-vote-dpp/ "How Japan’s new kingmaker party won over young voters")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[Uniqlo store manager arrested over filming of women in fitting rooms](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431597.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[Shohei Ohtani in position to continue winning after first World Series title](https://www.japantimes.co.jp/sports/2024/11/01/baseball/shohei-ohtani-world-series-future/ "Shohei Ohtani in position to continue winning after first World Series title")
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+  [![The Dodgers' Shohei Ohtani embraces teammate Enrique Hernandez following Game 5 of the World Series at Yankee Stadium in New York on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431591.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Dodgers' Shohei Ohtani embraces teammate Enrique Hernandez following Game 5 of the World Series at Yankee Stadium in New York on Wednesday.")](https://www.japantimes.co.jp/sports/2024/11/01/baseball/shohei-ohtani-world-series-future/ "Shohei Ohtani in position to continue winning after first World Series title")
 
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+[Warm weather causes record-breaking delay for autumn foliage in Japan](https://www.japantimes.co.jp/news/2024/10/31/japan/autumn-leaves-forecast-october/ "Warm weather causes record-breaking delay for autumn foliage in Japan")
 
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![Japan Times](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431337.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51)](https://www.japantimes.co.jp/news/2024/10/31/japan/autumn-leaves-forecast-october/ "Warm weather causes record-breaking delay for autumn foliage in Japan")
 
-[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+[Hotel worker found dead in Chiba in suspected murder](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/chiba-hotel-worker-murder/ "Hotel worker found dead in Chiba in suspected murder")
 
-  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+  [![The Chiba Prefectural Police headquaters in the city of Chiba](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431632.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Chiba Prefectural Police headquaters in the city of Chiba")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/chiba-hotel-worker-murder/ "Hotel worker found dead in Chiba in suspected murder")
 
 Editors' Picks
 --------------
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[How Japan’s new kingmaker party won over young voters](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/ninivaggipoliticsyouth-vote-dpp/ "How Japan’s new kingmaker party won over young voters")
 
-By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
+By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![Democratic Party for the People chief Yuichiro Tamaki’s personal YouTube channel has more than 326,000 subscribers, by far the highest number among party leaders.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431666.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People chief Yuichiro Tamaki’s personal YouTube channel has more than 326,000 subscribers, by far the highest number among party leaders.")](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/ninivaggipoliticsyouth-vote-dpp/ "How Japan’s new kingmaker party won over young voters")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[Uniqlo store manager arrested over filming of women in fitting rooms](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+  [![Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431597.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
 
-[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
+[Shohei Ohtani in position to continue winning after first World Series title](https://www.japantimes.co.jp/sports/2024/11/01/baseball/shohei-ohtani-world-series-future/ "Shohei Ohtani in position to continue winning after first World Series title")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+By [Jason Coskrey](https://www.japantimes.co.jp/author/181/jason-coskrey/ "Jason Coskrey")  
 
-By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
-
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
-
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
-
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
-
-By F.D. Flam  
-
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![The Dodgers' Shohei Ohtani embraces teammate Enrique Hernandez following Game 5 of the World Series at Yankee Stadium in New York on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431591.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Dodgers' Shohei Ohtani embraces teammate Enrique Hernandez following Game 5 of the World Series at Yankee Stadium in New York on Wednesday.")](https://www.japantimes.co.jp/sports/2024/11/01/baseball/shohei-ohtani-world-series-future/ "Shohei Ohtani in position to continue winning after first World Series title")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+[Warm weather causes record-breaking delay for autumn foliage in Japan](https://www.japantimes.co.jp/news/2024/10/31/japan/autumn-leaves-forecast-october/ "Warm weather causes record-breaking delay for autumn foliage in Japan")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
 
-  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+  [![Japan Times](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431337.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51)](https://www.japantimes.co.jp/news/2024/10/31/japan/autumn-leaves-forecast-october/ "Warm weather causes record-breaking delay for autumn foliage in Japan")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Hotel worker found dead in Chiba in suspected murder](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/chiba-hotel-worker-murder/ "Hotel worker found dead in Chiba in suspected murder")
+
+  [![The Chiba Prefectural Police headquaters in the city of Chiba](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431632.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Chiba Prefectural Police headquaters in the city of Chiba")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/chiba-hotel-worker-murder/ "Hotel worker found dead in Chiba in suspected murder")
 
 Podcast
 -------
@@ -257,23 +253,19 @@ Latest News
 
 [Badenoch beats Jenrick to succeed Sunak at helm of U.K. Tories](https://www.japantimes.co.jp/news/2024/11/02/world/politics/kemi-badenoch-uk-conservative-party/ "Badenoch beats Jenrick to succeed Sunak at helm of U.K. Tories")
 
-4 hours ago
+10 hours ago
 
 [Nuclear fuel debris extracted from Fukushima No. 1 reactor](https://www.japantimes.co.jp/news/2024/11/02/japan/tepco-nuclear-fuel-debris/ "Nuclear fuel debris extracted from Fukushima No. 1 reactor")
 
-5 hours ago
+11 hours ago
 
 [Tokyo government looks to ensure everyone has a bed at evacuation centers](https://www.japantimes.co.jp/news/2024/11/02/japan/tokyo-subsidies-disaster-center-beds/ "Tokyo government looks to ensure everyone has a bed at evacuation centers")
 
-5 hours ago
+11 hours ago
 
 [IMF Asia-Pacific chief urges Japan to start debt cuts](https://www.japantimes.co.jp/business/2024/11/02/economy/imf-asia-chief-japan-debt-cuts/ "IMF Asia-Pacific chief urges Japan to start debt cuts")
 
-6 hours ago
-
 [Western and central Japan drenched by record rainfall for November](https://www.japantimes.co.jp/news/2024/11/02/japan/west-japan-rain-november/ "Western and central Japan drenched by record rainfall for November")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
