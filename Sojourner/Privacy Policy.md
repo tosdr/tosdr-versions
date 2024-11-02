@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-113b3e1eff90e3a1aba24d5fd992e974
+e7fd25391c2cba45bb0b6df122da8d14
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Vintage yellow tiny flower beads](https://www.sojourner.biz/images/cache/glass/VB0006.200.jpg)](https://www.sojourner.biz/beads/glass/vintage-yellow-tiny-flower-beads.html "Vintage yellow tiny flower beads")
+[![20 mm by 15 mm flat oval forest agate beads](https://www.sojourner.biz/images/cache/stone/STN002.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/20-mm-by-15-mm-flat-oval-forest-agate-beads.html "20 mm by 15 mm flat oval forest agate beads")
 
-#### [Vintage yellow tiny flower beads](https://www.sojourner.biz/beads/glass/vintage-yellow-tiny-flower-beads.html "Vintage yellow tiny flower beads")
+#### [20 mm by 15 mm flat oval forest agate beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/20-mm-by-15-mm-flat-oval-forest-agate-beads.html "20 mm by 15 mm flat oval forest agate beads")
 
-$3.00
+$15.00
 
 ### Best Sellers
 
@@ -197,8 +197,8 @@ $3.00
     $26.00
 9. [Sterling silver tiny lily clasp](https://www.sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [Gray pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/gray-pearl-toggle-clasp.html "Gray pearl toggle clasp")  
-    $28.00
+10. [Turquoise bar toggle clasp](https://www.sojourner.biz/clasps/toggles/turquoise-bar-toggle-clasp.html "Turquoise bar toggle clasp")  
+    $13.50
 
 [Top](#)
 
