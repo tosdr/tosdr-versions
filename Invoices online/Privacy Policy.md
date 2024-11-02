@@ -117,59 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> Thanks Adriaan...
 > 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Johan Botha - Brand Xplosion
 
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=129147087)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=c52fa78b24cb82b01b36e1c8cdfd5bbf29cc0f29a49641dc59d371adaf4e096f&c=29398831)  
+Konsortium Operations (PTY) LTD
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=2824897)  
-Lion Software Develepment
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=c52fa78b24cb82b01b36e1c8cdfd5bbf29cc0f29a49641dc59d371adaf4e096f&c=203302062)  
+Sarabi
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=187156619)  
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=c52fa78b24cb82b01b36e1c8cdfd5bbf29cc0f29a49641dc59d371adaf4e096f&c=213081300)  
+AMS Ambu Medical Supplies
+
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=c52fa78b24cb82b01b36e1c8cdfd5bbf29cc0f29a49641dc59d371adaf4e096f&c=188375951)  
+Safe-Train Consulting (PTY) Ltd
+
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=c52fa78b24cb82b01b36e1c8cdfd5bbf29cc0f29a49641dc59d371adaf4e096f&c=161661678)  
+Repairs In Motion
+
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=c52fa78b24cb82b01b36e1c8cdfd5bbf29cc0f29a49641dc59d371adaf4e096f&c=97752938)  
+Konsortium Operations ( Roamfree Meats )
+
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=c52fa78b24cb82b01b36e1c8cdfd5bbf29cc0f29a49641dc59d371adaf4e096f&c=133841233)  
 IEMS (PTY) ltd
 
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=3797423)  
-SMART GUY PCS (PTY) LTD
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=c52fa78b24cb82b01b36e1c8cdfd5bbf29cc0f29a49641dc59d371adaf4e096f&c=63531005)  
+Blue Sky Solar Services
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=25699680)  
-MONSTER SECURITY SERVICES
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=c52fa78b24cb82b01b36e1c8cdfd5bbf29cc0f29a49641dc59d371adaf4e096f&c=86375216)  
+Nilbet T/A Waterman
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=116512175)  
-Kaylas Creations
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=c52fa78b24cb82b01b36e1c8cdfd5bbf29cc0f29a49641dc59d371adaf4e096f&c=174430462)  
+Depot Diesel (Pty) Ltd
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=103627676)  
-kidoscabbie
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=c52fa78b24cb82b01b36e1c8cdfd5bbf29cc0f29a49641dc59d371adaf4e096f&c=15823625)  
+Network Grey (Pty) Ltd
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=122433840)  
-Nogana Events and Decor
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=c52fa78b24cb82b01b36e1c8cdfd5bbf29cc0f29a49641dc59d371adaf4e096f&c=7738187)  
+Gemini-IT Group
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=78267972)  
-UMVIKELI PRIVATE SECURITY
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=c52fa78b24cb82b01b36e1c8cdfd5bbf29cc0f29a49641dc59d371adaf4e096f&c=61193103)  
+Meyer Towing & Recovery
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=64722183)  
-Little Nutty Professors
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=c52fa78b24cb82b01b36e1c8cdfd5bbf29cc0f29a49641dc59d371adaf4e096f&c=184143214)  
+TIGERDSL
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=38533163)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
-
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=131663123)  
-Imvubu General Trading
-
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=110652754)  
-Forgotten Goods (Pty) Ltd
-
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=59218228)  
-SA Security Brokerz (Pty) Ltd
-
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=83232853)  
-Norton Medical & Consult - Namibia
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=c52fa78b24cb82b01b36e1c8cdfd5bbf29cc0f29a49641dc59d371adaf4e096f&c=53323438)  
+Digifax Pty) Ltd t/a Findfish
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
