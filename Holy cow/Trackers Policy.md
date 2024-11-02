@@ -136,13 +136,21 @@ If you have any questions about this Privacy Policy, please contact us: By email
 
 ### holycowfineindianfood](https://www.instagram.com/holycowfineindianfood/ "@holycowfineindianfood")
 
+[Thank you, Will Shu, CEO @deliveroo for the great ![Thank you, Will Shu, CEO @deliveroo for the great conversation! Your loyalty to Holy Cow over the years means so much to us. Here’s to many more successful years together!
+.
+Cheers,
+@kulacharya32 & Hari Aryal
+#HolyCow #Deliveroo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![Thank you, Will Shu, CEO @deliveroo for the great conversation! Your loyalty to Holy Cow over the years means so much to us. Here’s to many more successful years together!
+.
+Cheers,
+@kulacharya32 & Hari Aryal
+#HolyCow #Deliveroo](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DB1WCDWCVzC/) 
+
 [Journey through India, right here in every meal. ![Journey through India, right here in every meal.  #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![Journey through India, right here in every meal.  #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DB0_WKHo8EI/) 
-
-[Happy Diwali from Holy Cow! Here’s to a Diwali ![Happy Diwali from Holy Cow!  Here’s to a Diwali overflowing with love, laughter, and memories made over delicious food!  #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Happy Diwali from Holy Cow!  Here’s to a Diwali overflowing with love, laughter, and memories made over delicious food!  #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DByakcPo_e4/) 
 
 [Load More…](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/holycowfineindianfood/)
 
