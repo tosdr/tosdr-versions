@@ -1,8 +1,8 @@
- ![Limited time promo](https://www.backup4all.com/images/promo/halloween/ghost.png?ek79cy)
+ ![Limited time promo](https://www.backup4all.com/images/promo/pack/promo-save.png?ek79cy)
 
-#### Halloween sale: 40% Discount for Backup4all Pro to unlock new features (Save US$ 20.00)
+#### Limited time sale: Backup4all PRO Family Pack - Pay for 2 Licenses & Get 3 (Save US$ 46.68)
 
-Buy (US$ 29.99)
+Buy (US$ 93.33)
 
 [![Backup4all Logo](https://www.backup4all.com/images/backup4all-logo.svg)![Backup4all Logo by Softland](https://www.backup4all.com/images/backup4all-by-softland.svg)](https://www.backup4all.com/)
 
@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Backup to DVD](https://www.backup4all.com/backup-to-dvd-kb.html)  
+* [How to generate a self signed certificate](https://www.backup4all.com/how-to-generate-a-self-signed-certificate-kb.html)  
     
-* [How to create a mirror backup](https://www.backup4all.com/how-to-create-a-mirror-backup-kb.html)  
+* [Automatically run a backup when the USB drive ...](https://www.backup4all.com/configuring-a-backup-to-run-automatically-when-the-usb-drive-is-plugged-in-kb.html)  
     
-* [How to back up files from Cloudflare R2 using ...](https://www.backup4all.com/how-to-back-up-files-from-cloudflare-r2-using-backup4all-kb.html)  
+* [How to restore a backup to Google Cloud Stora ...](https://www.backup4all.com/how-to-restore-a-backup-to-google-cloud-storage-kb.html)  
     
-* [How to backup only to a specific removable/ex ...](https://www.backup4all.com/how-to-backup-only-to-a-specific-removable-external-drive-kb.html)  
+* [Why the mirror files are not deleted from des ...](https://www.backup4all.com/why-the-mirror-files-are-not-deleted-from-destination-kb.html)  
     
-* [Backup4all back up destinations](https://www.backup4all.com/backup4all-back-up-destinations-kb.html)  
+* [How to back up data files from LeoNovus using ...](https://www.backup4all.com/how-to-back-up-data-files-from-leonovus-using-backup4all-kb.html)  
     
 
 Choose language:
