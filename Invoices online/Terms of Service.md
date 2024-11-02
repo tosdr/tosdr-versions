@@ -196,57 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Shaun Gartshore
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=df78866c13ed7bb86a3d9601a84b384857dd5fecc35130959e45007b044efc8a&c=185441916)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=5622395)  
+Salvage Genie
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=df78866c13ed7bb86a3d9601a84b384857dd5fecc35130959e45007b044efc8a&c=64640472)  
-Kinetic Power Solutions (Pty) Ltd.
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=70971531)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=df78866c13ed7bb86a3d9601a84b384857dd5fecc35130959e45007b044efc8a&c=7172608)  
-Tracknetics
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=73585898)  
+United Paintball Federation
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=df78866c13ed7bb86a3d9601a84b384857dd5fecc35130959e45007b044efc8a&c=181218697)  
-NJR ICT Services (Pty) Ltd
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=143166008)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=df78866c13ed7bb86a3d9601a84b384857dd5fecc35130959e45007b044efc8a&c=11279616)  
-VerdanTech Pty Ltd
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=43327407)  
+Dr V Naik Consult
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=df78866c13ed7bb86a3d9601a84b384857dd5fecc35130959e45007b044efc8a&c=149287775)  
-FJW Security Cc
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=90024860)  
+Blue Bulls Rugby Coaches Association
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=df78866c13ed7bb86a3d9601a84b384857dd5fecc35130959e45007b044efc8a&c=100108603)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=79046092)  
+Konsortium Operations (PTY) LTD
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=df78866c13ed7bb86a3d9601a84b384857dd5fecc35130959e45007b044efc8a&c=21642297)  
-IEMS (PTY) ltd
+![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=129462953)  
+UniTech Solutions Pty Ltd
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=df78866c13ed7bb86a3d9601a84b384857dd5fecc35130959e45007b044efc8a&c=143730215)  
-Creative Characters
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=150135996)  
+Fox Alarms & Security
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=df78866c13ed7bb86a3d9601a84b384857dd5fecc35130959e45007b044efc8a&c=56076572)  
-VIV'S TRUCKS (Pty) Ltd. (117)
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=93203117)  
+Network Grey (Pty) Ltd
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=df78866c13ed7bb86a3d9601a84b384857dd5fecc35130959e45007b044efc8a&c=30017969)  
-ELLIE'S CLEANING CHICKS
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=144647997)  
+LEONARD
 
-![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=df78866c13ed7bb86a3d9601a84b384857dd5fecc35130959e45007b044efc8a&c=160591611)  
-Atalie Scented Candles Pty Ltd
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=178440630)  
+Goju Ryu Karate Centre
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=df78866c13ed7bb86a3d9601a84b384857dd5fecc35130959e45007b044efc8a&c=10346621)  
-APTV Telecoms CC
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=32430415)  
+Abandoned Vehicle and Truck Solutions
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=df78866c13ed7bb86a3d9601a84b384857dd5fecc35130959e45007b044efc8a&c=71333525)  
-Prosper Park
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=129296029)  
+VIR Electrical (PTY) LTD
 
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=df78866c13ed7bb86a3d9601a84b384857dd5fecc35130959e45007b044efc8a&c=208210404)  
-Echo Recording Studio cc
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=7375e8dddcc0107376b9b47c6cb158ab9d5ac26be35affb4f9949d19df43c87d&c=37367438)  
+OXYAIDER (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
