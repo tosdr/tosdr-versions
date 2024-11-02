@@ -53,25 +53,13 @@ You can view Ezoic’s privacy policy [here](https://ezoic.com/privacy/), or for
 
 [](https://www.ezoic.com/privacy-policy/advertising-partners/)
 
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
-[](https://www.ezoic.com/privacy-policy/advertising-partners/)
-
 [Search for:](https://www.ezoic.com/privacy-policy/advertising-partners/)  
 
 [](https://www.ezoic.com/privacy-policy/advertising-partners/)
 
 [**Phrase Of The Month****:**
 
-![short sayings - gift horse](https://i0.wp.com/knowyourphrase.com/wp-content/uploads/2021/10/phrases-of-the-week-16.jpg?resize=168%2C175&ssl=1)](https://www.ezoic.com/privacy-policy/advertising-partners/)
+![short sayings - gift horse](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22168%22%20height=%22175%22%3E%3C/svg%3E)](https://www.ezoic.com/privacy-policy/advertising-partners/)
 
 [–](https://www.ezoic.com/privacy-policy/advertising-partners/) [Don’t Look a Gift Horse In The Mouth](https://knowyourphrase.com/dont-look-a-gift-horse-in-mouth)
 
