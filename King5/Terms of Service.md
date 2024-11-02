@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d800eb64-3063-4185-823c-451d4ce0f4ea/20241003T000458/d800eb64-3063-4185-823c-451d4ce0f4ea_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d800eb64-3063-4185-823c-451d4ce0f4ea/20241003T000458/d800eb64-3063-4185-823c-451d4ce0f4ea_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/watch-seattle-kraken-games-king-kong-nhl-2024-2025-season/281-85cdbc67-3416-4190-9734-6767ad46aee2)
+    *  [![](https://media.king5.com/assets/KING/images/222a3fa3-ff70-4ce2-a356-d32d1b457adb/20241102T021719/222a3fa3-ff70-4ce2-a356-d32d1b457adb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/222a3fa3-ff70-4ce2-a356-d32d1b457adb/20241102T021719/222a3fa3-ff70-4ce2-a356-d32d1b457adb_360x203.jpg)](https://www.king5.com/article/news/politics/elections/candidates-pierce-county-executive-discuss-issues-priorities/281-4ace9e30-b92e-4fb5-be1c-cf30fb525d15)
         
-        #### [KING 5, KONG to air live broadcasts of 72 regular season Seattle Kraken games](https://www.king5.com/article/sports/nhl/kraken/watch-seattle-kraken-games-king-kong-nhl-2024-2025-season/281-85cdbc67-3416-4190-9734-6767ad46aee2)
+        #### [Candidates for Pierce County executive discuss issues and priorities](https://www.king5.com/article/news/politics/elections/candidates-pierce-county-executive-discuss-issues-priorities/281-4ace9e30-b92e-4fb5-be1c-cf30fb525d15)
         
-    *  [![](https://media.king5.com/assets/KING/images/b51e9c72-0e56-4eb8-8680-a38c54b2ba94/20240807T121335/b51e9c72-0e56-4eb8-8680-a38c54b2ba94_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b51e9c72-0e56-4eb8-8680-a38c54b2ba94/20240807T121335/b51e9c72-0e56-4eb8-8680-a38c54b2ba94_360x203.jpg)](https://www.king5.com/article/news/politics/elections/key-races-2024-november-general-election-washington-state/281-ce49f122-92fa-40af-b0bc-4c9c10c7bcff)
+    *  [![](https://media.king5.com/assets/KING/images/a8db8538-4a74-4fe2-b903-3df9ac2e8c00/a8db8538-4a74-4fe2-b903-3df9ac2e8c00_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a8db8538-4a74-4fe2-b903-3df9ac2e8c00/a8db8538-4a74-4fe2-b903-3df9ac2e8c00_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-warning-advisory-cascade-snow/281-a2f49c46-65ba-4ba9-b284-13e4bc420412)
         
-        #### [Key races to watch in 2024 Washington general election](https://www.king5.com/article/news/politics/elections/key-races-2024-november-general-election-washington-state/281-ce49f122-92fa-40af-b0bc-4c9c10c7bcff)
+        #### [Here's how much snow is expected in the Cascades Friday](https://www.king5.com/article/weather/weather-blog/winter-storm-warning-advisory-cascade-snow/281-a2f49c46-65ba-4ba9-b284-13e4bc420412)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/7a38ab43-4cfa-4e10-b25f-e243f69db908/20241101T120510/7a38ab43-4cfa-4e10-b25f-e243f69db908_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7a38ab43-4cfa-4e10-b25f-e243f69db908/20241101T120510/7a38ab43-4cfa-4e10-b25f-e243f69db908_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
     *  [![](https://media.king5.com/assets/KING/images/a8db8538-4a74-4fe2-b903-3df9ac2e8c00/a8db8538-4a74-4fe2-b903-3df9ac2e8c00_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a8db8538-4a74-4fe2-b903-3df9ac2e8c00/a8db8538-4a74-4fe2-b903-3df9ac2e8c00_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-warning-advisory-cascade-snow/281-a2f49c46-65ba-4ba9-b284-13e4bc420412)
         
         #### [Here's how much snow is expected in the Cascades Friday](https://www.king5.com/article/weather/weather-blog/winter-storm-warning-advisory-cascade-snow/281-a2f49c46-65ba-4ba9-b284-13e4bc420412)
+        
+    *  [![](https://media.king5.com/assets/KING/images/7a38ab43-4cfa-4e10-b25f-e243f69db908/20241101T120510/7a38ab43-4cfa-4e10-b25f-e243f69db908_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7a38ab43-4cfa-4e10-b25f-e243f69db908/20241101T120510/7a38ab43-4cfa-4e10-b25f-e243f69db908_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-50°
+51°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
