@@ -207,29 +207,29 @@ Terms of Use
 
 ### Popular Articles
 
-[![L: A car driving into the bus gate that is not signposted. R: A sign indicating a 'with-flow' bus lane that does not exist.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-25-10-2024-at-11.44-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
-
-### [Exclusive: Bus lane on Lower Road that catches out thousands of drivers is ‘fake’](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
-
-[25th October 2024](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
-
-[![Mr Vinod Patel, lead for dental services for cancer and the review](https://southwarknews.co.uk/wp-content/uploads/2024/10/mr-vinod-patel-120x86.jpg)](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
-
-### [South London hospital recognised for innovation in preventing tooth necrosis](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
-
-[26th October 2024](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
-
 [![The crime scene has now been lifted (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/854499bc-cc33-4774-a60b-c375552a69f6-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
 
 ### [Two people stabbed in broad daylight in Bermondsey](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
 
 [29th October 2024](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
 
+[![L: A car driving into the bus gate that is not signposted. R: A sign indicating a 'with-flow' bus lane that does not exist.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-25-10-2024-at-11.44-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
+
+### [Exclusive: Bus lane on Lower Road that catches out thousands of drivers is ‘fake’](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
+
+[25th October 2024](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
+
 [![A map of the proposed Bakerloo Line extension to Lewisham. Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
 
 ### [Bakerloo Line extension shunned in Budget](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
 
 [31st October 2024](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
+
+[![Mr Vinod Patel, lead for dental services for cancer and the review](https://southwarknews.co.uk/wp-content/uploads/2024/10/mr-vinod-patel-120x86.jpg)](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
+
+### [South London hospital recognised for innovation in preventing tooth necrosis](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
+
+[26th October 2024](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
 
 [![(photo: Network Rail)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-28-10-2024-at-11.25-120x86.jpg)](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
 
