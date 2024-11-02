@@ -52,7 +52,7 @@ Radar & Maps
 News & Media
 ------------
 
-[Top Weather Stories](https://weather.com/storms/hurricane/video/lake-lure-rainbow-bridge-flowering-bridge)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/storms/hurricane/video/lake-lure-rainbow-bridge-flowering-bridge)
+[Top Weather Stories](https://weather.com/news/trending/video/this-sleeping-giant-awakens-each-fall-in-north-carolina)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/news/trending/video/this-sleeping-giant-awakens-each-fall-in-north-carolina)
 
 Products
 --------
@@ -72,7 +72,7 @@ Account
 Lifestyle
 ---------
 
-[Grilling Season](https://weather.com/home-garden/grilling)[Home & Garden](https://weather.com/home-garden)[Travel & Outdoors](https://weather.com/travel)[Pets & Animals](https://weather.com/pets)[GamesNEWExternal Link](https://puzzmoinc.sjv.io/c/5131646/1928172/21275)
+[Grilling Season](https://weather.com/home-garden/grilling)[Home & Garden](https://weather.com/home-garden)[Travel & Outdoors](https://weather.com/travel)[Pets & Animals](https://weather.com/pets)[GamesExternal Link](https://puzzmoinc.sjv.io/c/5131646/1928172/21275)
 
 Privacy
 -------
@@ -83,7 +83,7 @@ Arrow Left
 
 Arrow Right
 
-[My DashboardNEW](https://weather.com/mydashboard)[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoVideo](https://weather.com/storms/hurricane/video/lake-lure-rainbow-bridge-flowering-bridge)
+[My DashboardNEW](https://weather.com/mydashboard)[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoVideo](https://weather.com/news/trending/video/this-sleeping-giant-awakens-each-fall-in-north-carolina)
 
 More ForecastsMoreArrow down
 
