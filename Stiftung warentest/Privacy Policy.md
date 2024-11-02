@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
-* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
-* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
+* [Back­ofen- und Grill­reiniger im Test: Nur Chemie reicht nicht](https://www.test.de/backofenreiniger-grillreiniger-test-6009513-0/ "Backofen- und Grillreiniger im Test - Nur Chemie reicht nicht")
+* [Katze und Hund aus dem Tierheim: Was bei einer Tier­adoption zu beachten ist](https://www.test.de/Tiere-aus-dem-Tierheim-Was-bei-einer-Tieradoption-zu-beachten-ist-6112442-0/ "Katze und Hund aus dem Tierheim - Was bei einer Tieradoption zu beachten ist")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
+* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
+* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
-* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
-* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
+* [Back­ofen- und Grill­reiniger im Test: Nur Chemie reicht nicht](https://www.test.de/backofenreiniger-grillreiniger-test-6009513-0/ "Backofen- und Grillreiniger im Test - Nur Chemie reicht nicht")
+* [Katze und Hund aus dem Tierheim: Was bei einer Tier­adoption zu beachten ist](https://www.test.de/Tiere-aus-dem-Tierheim-Was-bei-einer-Tieradoption-zu-beachten-ist-6112442-0/ "Katze und Hund aus dem Tierheim - Was bei einer Tieradoption zu beachten ist")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
+* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
+* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
-* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
-* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
+* [Back­ofen- und Grill­reiniger im Test: Nur Chemie reicht nicht](https://www.test.de/backofenreiniger-grillreiniger-test-6009513-0/ "Backofen- und Grillreiniger im Test - Nur Chemie reicht nicht")
+* [Katze und Hund aus dem Tierheim: Was bei einer Tier­adoption zu beachten ist](https://www.test.de/Tiere-aus-dem-Tierheim-Was-bei-einer-Tieradoption-zu-beachten-ist-6112442-0/ "Katze und Hund aus dem Tierheim - Was bei einer Tieradoption zu beachten ist")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
+* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
+* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
-* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
-* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
+* [Back­ofen- und Grill­reiniger im Test: Nur Chemie reicht nicht](https://www.test.de/backofenreiniger-grillreiniger-test-6009513-0/ "Backofen- und Grillreiniger im Test - Nur Chemie reicht nicht")
+* [Katze und Hund aus dem Tierheim: Was bei einer Tier­adoption zu beachten ist](https://www.test.de/Tiere-aus-dem-Tierheim-Was-bei-einer-Tieradoption-zu-beachten-ist-6112442-0/ "Katze und Hund aus dem Tierheim - Was bei einer Tieradoption zu beachten ist")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
+* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
+* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
 
 Service Stiftung Warentest
 
