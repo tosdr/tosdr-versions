@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-1d3887f9bbf51213faca17afbacbe3b6
+c2d97ac45351ee5aa92a0af6af61691e
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![20 mm by 15 mm flat oval forest agate beads](https://sojourner.biz/images/cache/stone/STN002.200.jpg)](https://sojourner.biz/beads/stone-m-z/other-stones/20-mm-by-15-mm-flat-oval-forest-agate-beads.html "20 mm by 15 mm flat oval forest agate beads")
+[![18 mm by 3 mm gray fairy wing pearls with gray rondelles](https://sojourner.biz/images/cache/pearls/PE0212.200.jpg)](https://sojourner.biz/beads/pearls/18-mm-by-3-mm-gray-fairy-wing-pearls-with-gray-rondelles.html "18 mm by 3 mm gray fairy wing pearls with gray rondelles")
 
-#### [20 mm by 15 mm flat oval forest agate beads](https://sojourner.biz/beads/stone-m-z/other-stones/20-mm-by-15-mm-flat-oval-forest-agate-beads.html "20 mm by 15 mm flat oval forest agate beads")
+#### [18 mm by 3 mm gray fairy wing pearls with gray rondelles](https://sojourner.biz/beads/pearls/18-mm-by-3-mm-gray-fairy-wing-pearls-with-gray-rondelles.html "18 mm by 3 mm gray fairy wing pearls with gray rondelles")
 
-$15.00
+$12.00
 
 ### Best Sellers
 
