@@ -81,14 +81,12 @@ Search site  Go
     
 * [Positively San Diego](https://www.10news.com/positivelysandiego)
     
+* [Fact or Fiction](https://www.10news.com/news/fact-or-fiction)
+    
 * [Sports](https://www.10news.com/sports)
     
     * [San Diego Padres](https://www.10news.com/sports/padres)
     * [SDSU Sports](https://www.10news.com/sports/sdsu-sports)
-    
-* [In-Depth](https://www.10news.com/news/in-depth)
-    
-* [Honor A Veteran](https://www.10news.com/null)
     
 * [Community](https://www.10news.com/community)
     
