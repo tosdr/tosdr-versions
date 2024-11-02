@@ -20,6 +20,22 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Meet Santa and his elves at the winter wonderland!](https://southwarknews.co.uk/wp-content/uploads/2024/10/20231201-Surrey-Quays-Christmas-Enlivenment-7-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/free-christmas-fun-is-coming-to-surrey-quays-featuring-ice-fishing-polar-bear-racing-and-santa/)
+    
+    ### [Free Christmas fun is coming to Surrey Quays, featuring ice fishing, polar bear racing and Santa](https://southwarknews.co.uk/area/rotherhithe/free-christmas-fun-is-coming-to-surrey-quays-featuring-ice-fishing-polar-bear-racing-and-santa/)
+    
+    [![The Dulwich Village junction LTN. Credit: One Dulwich](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2421-1-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/ltn-hailed-as-eco-friendly-using-indian-stones-quarried-5000-miles-away/)
+    
+    ### [LTN hailed as eco-friendly using ‘Indian stones quarried 5,000 miles away’](https://southwarknews.co.uk/area/dulwich/ltn-hailed-as-eco-friendly-using-indian-stones-quarried-5000-miles-away/)
+    
+    [![Boardwalk at Canada Water (© Brendan Bell)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Asif-Khan-boardwalk-at-Canada-Water_2_©-Brendan-Bell-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/bikes-will-not-be-able-to-use-the-red-boardwalk-at-canada-water/)
+    
+    ### [Bikes will not be able to use the red boardwalk at Canada Water](https://southwarknews.co.uk/area/rotherhithe/bikes-will-not-be-able-to-use-the-red-boardwalk-at-canada-water/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2022/08/Homeless-e1659455240704-360x180.png)](https://southwarknews.co.uk/area/london/people-sleeping-rough-on-the-streets-of-london-has-reached-a-record-high/)
+    
+    ### [People sleeping rough on the streets of London has reached a record high](https://southwarknews.co.uk/area/london/people-sleeping-rough-on-the-streets-of-london-has-reached-a-record-high/)
+    
     [![Rachel Bentley, Liberal Democrat councillor](https://southwarknews.co.uk/wp-content/uploads/2024/06/Rachel-Bentley-Liberal-Democrat-candidate-for-Bermondsey-and-Old-Southwark-360x180.jpg)](https://southwarknews.co.uk/featured/labour-budget-has-let-down-people-in-southwark-claim-local-lib-dems/)
     
     ### [Labour Budget has ‘let down’ people in Southwark, claim local Lib Dems](https://southwarknews.co.uk/featured/labour-budget-has-let-down-people-in-southwark-claim-local-lib-dems/)
@@ -39,23 +55,6 @@
     [![L-R: Luke Norbury, Children's Residential Manager; Clare Pitchford, Senior Service Development Officer; Cllr Ali, Deputy Leader and Cabinet Member for Children, Education & Refugees; Claire Boadu, Project Manager](https://southwarknews.co.uk/wp-content/uploads/2024/10/666903CD-1ABC-40EB-BF27-184D1A4D97E2-e1730288357971-360x180.jpeg)](https://southwarknews.co.uk/news/community/vacant-property-transformed-into-new-childrens-home/)
     
     ### [Vacant property transformed into new children’s home](https://southwarknews.co.uk/news/community/vacant-property-transformed-into-new-childrens-home/)
-    
-    [![ScrSadiq Khan. 
-    Photo by Noah Vickerseenshot](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sadiq-Khan.-Photo-by-Noah-Vickers-1-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-delighted-by-budget-with-extra-100-million-for-housing-and-total-of-485-million-to-spend-on-transport/)
-    
-    ### [Sadiq Khan delighted by budget, with extra £100 million for housing and total of £485 million to spend on transport](https://southwarknews.co.uk/area/london/sadiq-khan-delighted-by-budget-with-extra-100-million-for-housing-and-total-of-485-million-to-spend-on-transport/)
-    
-    [![A map of the proposed Bakerloo Line extension to Lewisham. Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
-    
-    ### [Bakerloo Line extension shunned in Budget](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
-    
-    [![New Cross Gate station. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/New-Cross-Gate-station.-Image-Google-360x180.png)](https://southwarknews.co.uk/news/new-cross-gate-station-will-be-among-first-to-get-new-toilets-in-tfl-rollout/)
-    
-    ### [New Cross Gate station will be among first to get new toilets in TfL rollout](https://southwarknews.co.uk/news/new-cross-gate-station-will-be-among-first-to-get-new-toilets-in-tfl-rollout/)
-    
-    [![Staff outside St Thomas' Hospital. Credit: Unite](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2419-rotated-e1730373755341-360x180.jpeg)](https://southwarknews.co.uk/area/borough/workers-at-guys-and-st-thomas-nhs-trust-to-protest-against-job-cuts/)
-    
-    ### [Workers at Guy’s and St Thomas’ NHS Trust to protest against ‘job cuts’](https://southwarknews.co.uk/area/borough/workers-at-guys-and-st-thomas-nhs-trust-to-protest-against-job-cuts/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +105,22 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Meet Santa and his elves at the winter wonderland!](https://southwarknews.co.uk/wp-content/uploads/2024/10/20231201-Surrey-Quays-Christmas-Enlivenment-7-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/free-christmas-fun-is-coming-to-surrey-quays-featuring-ice-fishing-polar-bear-racing-and-santa/)
+    
+    ### [Free Christmas fun is coming to Surrey Quays, featuring ice fishing, polar bear racing and Santa](https://southwarknews.co.uk/area/rotherhithe/free-christmas-fun-is-coming-to-surrey-quays-featuring-ice-fishing-polar-bear-racing-and-santa/)
+    
+    [![The Dulwich Village junction LTN. Credit: One Dulwich](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2421-1-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/ltn-hailed-as-eco-friendly-using-indian-stones-quarried-5000-miles-away/)
+    
+    ### [LTN hailed as eco-friendly using ‘Indian stones quarried 5,000 miles away’](https://southwarknews.co.uk/area/dulwich/ltn-hailed-as-eco-friendly-using-indian-stones-quarried-5000-miles-away/)
+    
+    [![Boardwalk at Canada Water (© Brendan Bell)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Asif-Khan-boardwalk-at-Canada-Water_2_©-Brendan-Bell-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/bikes-will-not-be-able-to-use-the-red-boardwalk-at-canada-water/)
+    
+    ### [Bikes will not be able to use the red boardwalk at Canada Water](https://southwarknews.co.uk/area/rotherhithe/bikes-will-not-be-able-to-use-the-red-boardwalk-at-canada-water/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2022/08/Homeless-e1659455240704-360x180.png)](https://southwarknews.co.uk/area/london/people-sleeping-rough-on-the-streets-of-london-has-reached-a-record-high/)
+    
+    ### [People sleeping rough on the streets of London has reached a record high](https://southwarknews.co.uk/area/london/people-sleeping-rough-on-the-streets-of-london-has-reached-a-record-high/)
+    
     [![Rachel Bentley, Liberal Democrat councillor](https://southwarknews.co.uk/wp-content/uploads/2024/06/Rachel-Bentley-Liberal-Democrat-candidate-for-Bermondsey-and-Old-Southwark-360x180.jpg)](https://southwarknews.co.uk/featured/labour-budget-has-let-down-people-in-southwark-claim-local-lib-dems/)
     
     ### [Labour Budget has ‘let down’ people in Southwark, claim local Lib Dems](https://southwarknews.co.uk/featured/labour-budget-has-let-down-people-in-southwark-claim-local-lib-dems/)
@@ -125,23 +140,6 @@ View All Result
     [![L-R: Luke Norbury, Children's Residential Manager; Clare Pitchford, Senior Service Development Officer; Cllr Ali, Deputy Leader and Cabinet Member for Children, Education & Refugees; Claire Boadu, Project Manager](https://southwarknews.co.uk/wp-content/uploads/2024/10/666903CD-1ABC-40EB-BF27-184D1A4D97E2-e1730288357971-360x180.jpeg)](https://southwarknews.co.uk/news/community/vacant-property-transformed-into-new-childrens-home/)
     
     ### [Vacant property transformed into new children’s home](https://southwarknews.co.uk/news/community/vacant-property-transformed-into-new-childrens-home/)
-    
-    [![ScrSadiq Khan. 
-    Photo by Noah Vickerseenshot](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sadiq-Khan.-Photo-by-Noah-Vickers-1-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-delighted-by-budget-with-extra-100-million-for-housing-and-total-of-485-million-to-spend-on-transport/)
-    
-    ### [Sadiq Khan delighted by budget, with extra £100 million for housing and total of £485 million to spend on transport](https://southwarknews.co.uk/area/london/sadiq-khan-delighted-by-budget-with-extra-100-million-for-housing-and-total-of-485-million-to-spend-on-transport/)
-    
-    [![A map of the proposed Bakerloo Line extension to Lewisham. Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
-    
-    ### [Bakerloo Line extension shunned in Budget](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
-    
-    [![New Cross Gate station. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/New-Cross-Gate-station.-Image-Google-360x180.png)](https://southwarknews.co.uk/news/new-cross-gate-station-will-be-among-first-to-get-new-toilets-in-tfl-rollout/)
-    
-    ### [New Cross Gate station will be among first to get new toilets in TfL rollout](https://southwarknews.co.uk/news/new-cross-gate-station-will-be-among-first-to-get-new-toilets-in-tfl-rollout/)
-    
-    [![Staff outside St Thomas' Hospital. Credit: Unite](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2419-rotated-e1730373755341-360x180.jpeg)](https://southwarknews.co.uk/area/borough/workers-at-guys-and-st-thomas-nhs-trust-to-protest-against-job-cuts/)
-    
-    ### [Workers at Guy’s and St Thomas’ NHS Trust to protest against ‘job cuts’](https://southwarknews.co.uk/area/borough/workers-at-guys-and-st-thomas-nhs-trust-to-protest-against-job-cuts/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -209,17 +207,17 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [29th October 2024](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
 
-[![L: A car driving into the bus gate that is not signposted. R: A sign indicating a 'with-flow' bus lane that does not exist.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-25-10-2024-at-11.44-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
-
-### [Exclusive: Bus lane on Lower Road that catches out thousands of drivers is ‘fake’](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
-
-[25th October 2024](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
-
 [![A map of the proposed Bakerloo Line extension to Lewisham. Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
 
 ### [Bakerloo Line extension shunned in Budget](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
 
 [31st October 2024](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
+
+[![L: A car driving into the bus gate that is not signposted. R: A sign indicating a 'with-flow' bus lane that does not exist.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-25-10-2024-at-11.44-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
+
+### [Exclusive: Bus lane on Lower Road that catches out thousands of drivers is ‘fake’](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
+
+[25th October 2024](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
 
 [![Mr Vinod Patel, lead for dental services for cancer and the review](https://southwarknews.co.uk/wp-content/uploads/2024/10/mr-vinod-patel-120x86.jpg)](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
 
@@ -241,41 +239,41 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Featured Articles
 
+[![Meet Santa and his elves at the winter wonderland!](https://southwarknews.co.uk/wp-content/uploads/2024/10/20231201-Surrey-Quays-Christmas-Enlivenment-7-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/free-christmas-fun-is-coming-to-surrey-quays-featuring-ice-fishing-polar-bear-racing-and-santa/)
+
+### [Free Christmas fun is coming to Surrey Quays, featuring ice fishing, polar bear racing and Santa](https://southwarknews.co.uk/area/rotherhithe/free-christmas-fun-is-coming-to-surrey-quays-featuring-ice-fishing-polar-bear-racing-and-santa/)
+
+[2nd November 2024](https://southwarknews.co.uk/area/rotherhithe/free-christmas-fun-is-coming-to-surrey-quays-featuring-ice-fishing-polar-bear-racing-and-santa/)
+
+[![Rye Lane, Peckham (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-01-11-2024-at-17.18-120x86.jpg)](https://southwarknews.co.uk/area/peckham/artists-wanted-to-paint-three-new-murals-in-peckham/)
+
+### [Artists wanted to paint three new murals in Peckham](https://southwarknews.co.uk/area/peckham/artists-wanted-to-paint-three-new-murals-in-peckham/)
+
+[2nd November 2024](https://southwarknews.co.uk/area/peckham/artists-wanted-to-paint-three-new-murals-in-peckham/)
+
+[![Govind atop a horse at an event](https://southwarknews.co.uk/wp-content/uploads/2024/11/Govind_5-120x86.jpg)](https://southwarknews.co.uk/area/waterloo/evelina-hospital-supports-teen-patient-at-national-dressage-competition/)
+
+### [Evelina Hospital supports teen patient at national dressage competition](https://southwarknews.co.uk/area/waterloo/evelina-hospital-supports-teen-patient-at-national-dressage-competition/)
+
+[2nd November 2024](https://southwarknews.co.uk/area/waterloo/evelina-hospital-supports-teen-patient-at-national-dressage-competition/)
+
+[![The Dulwich Village junction LTN. Credit: One Dulwich](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2421-1-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/ltn-hailed-as-eco-friendly-using-indian-stones-quarried-5000-miles-away/)
+
+### [LTN hailed as eco-friendly using ‘Indian stones quarried 5,000 miles away’](https://southwarknews.co.uk/area/dulwich/ltn-hailed-as-eco-friendly-using-indian-stones-quarried-5000-miles-away/)
+
+[2nd November 2024](https://southwarknews.co.uk/area/dulwich/ltn-hailed-as-eco-friendly-using-indian-stones-quarried-5000-miles-away/)
+
+[![Boardwalk at Canada Water (© Brendan Bell)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Asif-Khan-boardwalk-at-Canada-Water_2_©-Brendan-Bell-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/bikes-will-not-be-able-to-use-the-red-boardwalk-at-canada-water/)
+
+### [Bikes will not be able to use the red boardwalk at Canada Water](https://southwarknews.co.uk/area/rotherhithe/bikes-will-not-be-able-to-use-the-red-boardwalk-at-canada-water/)
+
+[2nd November 2024](https://southwarknews.co.uk/area/rotherhithe/bikes-will-not-be-able-to-use-the-red-boardwalk-at-canada-water/)
+
 [![Rachel Bentley, Liberal Democrat councillor](https://southwarknews.co.uk/wp-content/uploads/2024/06/Rachel-Bentley-Liberal-Democrat-candidate-for-Bermondsey-and-Old-Southwark-120x86.jpg)](https://southwarknews.co.uk/featured/labour-budget-has-let-down-people-in-southwark-claim-local-lib-dems/)
 
 ### [Labour Budget has ‘let down’ people in Southwark, claim local Lib Dems](https://southwarknews.co.uk/featured/labour-budget-has-let-down-people-in-southwark-claim-local-lib-dems/)
 
 [1st November 2024](https://southwarknews.co.uk/featured/labour-budget-has-let-down-people-in-southwark-claim-local-lib-dems/)
-
-[![Southwark Council Leader Kieron Williams in his Tooley Street office](https://southwarknews.co.uk/wp-content/uploads/2024/05/IMG_1259-scaled-e1716997618169-120x86.jpg)](https://southwarknews.co.uk/area/southwark/leader-of-southwark-council-welcomes-budget-announcement/)
-
-### [Leader of Southwark Council welcomes Budget announcement](https://southwarknews.co.uk/area/southwark/leader-of-southwark-council-welcomes-budget-announcement/) 
-
-[1st November 2024](https://southwarknews.co.uk/area/southwark/leader-of-southwark-council-welcomes-budget-announcement/)
-
-[![A map of the proposed Bakerloo Line extension to Lewisham. Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
-
-### [Bakerloo Line extension shunned in Budget](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
-
-[31st October 2024](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
-
-[![Staff outside St Thomas' Hospital. Credit: Unite](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2419-rotated-e1730373755341-120x86.jpeg)](https://southwarknews.co.uk/area/borough/workers-at-guys-and-st-thomas-nhs-trust-to-protest-against-job-cuts/)
-
-### [Workers at Guy’s and St Thomas’ NHS Trust to protest against ‘job cuts’](https://southwarknews.co.uk/area/borough/workers-at-guys-and-st-thomas-nhs-trust-to-protest-against-job-cuts/)
-
-[31st October 2024](https://southwarknews.co.uk/area/borough/workers-at-guys-and-st-thomas-nhs-trust-to-protest-against-job-cuts/)
-
-[![Tony Macklin died on 6 November 2015.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_6539-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
-
-### [Minute’s applause at Millwall game to honour lifelong fan who died of cancer](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
-
-[31st October 2024](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
-
-[![From (L-R) Oliver Smith, Murray Kemp, Kerrica Kendall, Beatrice Davidson and Jacob Gower pose for photos outside Stratford Magistrates Court and Family Court. Photo by Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-protesters-120x86.jpg)](https://southwarknews.co.uk/area/peckham/protesters-who-blocked-a-coach-in-peckham-taking-asylum-seekers-to-bibby-stockholm-barge-cleared/)
-
-### [Protesters who blocked a coach in Peckham taking asylum seekers to Bibby Stockholm barge cleared](https://southwarknews.co.uk/area/peckham/protesters-who-blocked-a-coach-in-peckham-taking-asylum-seekers-to-bibby-stockholm-barge-cleared/)
-
-[30th October 2024](https://southwarknews.co.uk/area/peckham/protesters-who-blocked-a-coach-in-peckham-taking-asylum-seekers-to-bibby-stockholm-barge-cleared/)
 
 ### USEFUL PAGES
 
