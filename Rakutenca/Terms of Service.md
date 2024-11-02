@@ -1,7 +1,3 @@
-[Sephora Canada: Sephora Savings Event! Rouge Members get 20% off + 2% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/sephora?store=sephora&sourceName=sitewide-sticky-header)
-
 [](https://www.rakuten.ca/)
 
 EN
@@ -784,13 +780,7 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn 8% Cash Back from Rakuten.ca with Under Armour Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/301325/en-stickyfooter-1170x60_ua.png "Under Armour Canada Coupons, Promo Codes")
-
-was 2%, now
-
-8% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/under-armour-canada?sourceName=stickyfooter1)
+[![](//static.rakuten.ca/img/campaign_entity/258100/en_stickyfooter-1170x60_new_stores.png)](https://www.rakuten.ca/new-stores)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
