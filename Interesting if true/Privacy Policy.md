@@ -2,7 +2,7 @@
 
 [![Interesting If True](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%2089'%3E%3C/svg%3E)
 
-![Interesting If True](//www.interestingiftrue.com/wp-content/uploads/2020/03/cropped-Text-Wide.png.webp)](https://www.interestingiftrue.com/)
+![Interesting If True](//www.interestingiftrue.com/wp-content/uploads/2020/03/cropped-Text-Wide.png)](https://www.interestingiftrue.com/)
 
 [Interesting If True](https://www.interestingiftrue.com/)
 
