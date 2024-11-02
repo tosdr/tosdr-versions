@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Cari Hutan: In Search of Forest](/wp-content/thumbnails/6517-100x70.jpg?x53432)
+* [![Born To Be King](/wp-content/thumbnails/7726-100x70.jpg?x53432)
     
-    Cari Hutan: In Search of Forest
+    Born To Be King
     
-    "Cari Hutan - In the Search of Forest". According to several Indonesian environmental NGOs (REDD-Monitor and WatchIndonesia) "Cari Hutan" might be the most informative, educative, yet thrilling and](https://documentaryheaven.com/cari-hutan-in-search-of-forest/ "Cari Hutan: In Search of Forest")
-* [![Police State 4: The Rise of FEMA](/wp-content/thumbnails/4543-100x70.jpg?x53432)
+    A documentary to mark the birth of the Duke and Duchess of Cambridge's newborn son. Sophie Raworth charts how a royal birth is an historic event and a glimpse into the future.](https://documentaryheaven.com/born-king/ "Born To Be King") 
+* [![Serial Killer On Camera](/wp-content/thumbnails/14332-100x70.jpg?x53432)
     
-    Police State 4: The Rise of FEMA
+    Serial Killer On Camera
     
-    The grim future foretold in 1984 has become reality. The United States is now recognized globally as one of the most oppressive police states on earth. And it’s only getting worse.This documentary](https://documentaryheaven.com/police-state-4-the-rise-of-fema/ "Police State 4: The Rise of FEMA")
-* [![The Original 50 Cent](/wp-content/thumbnails/8393-100x70.jpg?x53432)
+    On January 1 1993 Colin Ireland made a New Year resolution to himself, it was to become a serial killer. In just three months he had successfully completed his resolution having brutally murdered five](https://documentaryheaven.com/serial-killer-camera/ "Serial Killer On Camera")
+* [![Ted Bundy](/wp-content/thumbnails/14095-100x70.jpg?x53432)
     
-    The Original 50 Cent
+    Ted Bundy
     
-    This is the true life story of Kelvin "50 Cent" Martian the street legend who inspired the biggest name in rap, the original 50 Cent. The original 50 Cent was said to have terrorized the streets of Fo](https://documentaryheaven.com/original-50-cent/ "The Original 50 Cent")
-* [![Scientology And Me](/wp-content/thumbnails/822-100x70.png?x53432)
+    By now most of you should be aware of who Ted Bundy was but in case you have been living under a rock for the last 40 odd years he was one of Americas most prolific serial killers who assaulted and mu](https://documentaryheaven.com/ted-bundy/ "Ted Bundy")
+* [![Who Wrote the Bible Documentary](/wp-content/thumbnails/1183-100x70.jpg?x53432)
     
-    Scientology And Me
+    Who Wrote the Bible Documentary
     
-    John Sweeney investigates the Church of Scientology, endorsed by some major Hollywood celebrities, but which continues to face the criticism that it is less of a religion and more of a cult. Some form](https://documentaryheaven.com/scientology-and-me/ "Scientology And Me")
-* [![The Hawaiians: Warriors of Paradise](/wp-content/thumbnails/6682-100x70.png?x53432)
+    A two-hour Channel 4 special about the Bible opens with images of George Bush – and Osama Bin Laden. The Bible, holy books and the religious faith they inspire are on the news agenda as they've rarely](https://documentaryheaven.com/who-wrote-the-bible-documentary/ "Who Wrote the Bible Documentary")
+* [![Meltdown: The Men Who Crashed The World](/wp-content/thumbnails/13387-100x70.jpg?x53432)
     
-    The Hawaiians: Warriors of Paradise
+    Meltdown: The Men Who Crashed The World
     
-    A Discovery Channel documentary about the Hawaiian warriors and their founding of the Hawaiian kingdom.](https://documentaryheaven.com/the-hawaiians-warriors-of-paradise/ "The Hawaiians: Warriors of Paradise")
+    Meltdown is a four-part investigation into the orgy of greed and recklessness that drove the world into financial collapse back in 2008 and only now are the hard questions being asked, only now are th](https://documentaryheaven.com/meltdown-men-who-crashed-world/ "Meltdown: The Men Who Crashed The World")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
