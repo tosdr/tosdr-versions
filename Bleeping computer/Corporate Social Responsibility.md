@@ -36,6 +36,9 @@
         
         Microsoft delays Windows Recall again, now by December](https://www.bleepingcomputer.com/news/microsoft/microsoft-delays-windows-recall-again-now-by-december/)
     
+    * [![Prepare for your first cybersecurity job with this $46 course bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Prepare for your first cybersecurity job with this $46 course bundle](https://www.bleepingcomputer.com/offer/deals/prepare-for-your-first-cybersecurity-job-with-this-46-course-bundle/)
     * [![Microsoft warns Azure Virtual Desktop users of black screen issues](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft warns Azure Virtual Desktop users of black screen issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-azure-virtual-desktop-users-of-black-screen-issues/)
@@ -45,9 +48,6 @@
     * [![OpenAI's new ChatGPT Search Chrome extension feels like a search hijacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         OpenAI's new ChatGPT Search Chrome extension feels like a search hijacker](https://www.bleepingcomputer.com/news/security/openais-new-chatgpt-search-chrome-extension-feels-like-a-search-hijacker/)
-    * [![LastPass warns of fake support centers trying to steal customer data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        LastPass warns of fake support centers trying to steal customer data](https://www.bleepingcomputer.com/news/security/lastpass-warns-of-fake-support-centers-trying-to-steal-customer-data/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
