@@ -414,9 +414,9 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. data science
+1. English
     
-2. javascript
+2. machine learning
     
 3. French
     
