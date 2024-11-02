@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![2013-2014 Ballot Measure Overview](/assets/Images/teasers/full/2013-14-Giving-to-BM-by-Industry.png)](https://www.followthemoney.org/research/institute-reports/ballot-measures-2013-and-2014/)
+[![leg incumbents](/assets/logos/LegIncumbentSuccess2012.png)](http://www.followthemoney.org/assets/ANNUAL-REPORTS/NIMSP-Annual-Report-2013.pdf)
+
+In 2012, most legislative incumbents won.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
