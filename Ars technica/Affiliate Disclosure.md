@@ -87,13 +87,13 @@ Most Read
     
     1. [What is happening with Boeing’s Starliner spacecraft?](https://arstechnica.com/space/2024/11/nearly-two-months-after-starliners-return-boeing-remains-mum-on-its-future/)
     
-2. 2. [300 percent price hikes push disgruntled VMware customers toward Broadcom rivals](https://arstechnica.com/information-technology/2024/10/a-year-after-broadcoms-vmware-buy-customers-eye-exit-strategies/)
+2. 2. [A new dental scam is to pull healthy teeth to sell you expensive fake ones](https://arstechnica.com/health/2024/11/more-dentists-are-pulling-healthy-teeth-to-sell-pricy-implants-experts-warn/)
     
-3. 3. [Person accidentally poisoned 46 coworkers with toxin-loaded homemade lunch](https://arstechnica.com/health/2024/10/when-you-make-lunch-for-your-coworkers-and-accidentally-cause-a-mass-poisoning/)
+3. 3. [300 percent price hikes push disgruntled VMware customers toward Broadcom rivals](https://arstechnica.com/information-technology/2024/10/a-year-after-broadcoms-vmware-buy-customers-eye-exit-strategies/)
     
-4. 4. [A new dental scam is to pull healthy teeth to sell you expensive fake ones](https://arstechnica.com/health/2024/11/more-dentists-are-pulling-healthy-teeth-to-sell-pricy-implants-experts-warn/)
+4. 4. [Over 500 Amazon workers decry “non-data-driven” logic for 5-day RTO policy](https://arstechnica.com/tech-policy/2024/10/over-500-amazon-workers-decry-non-data-driven-logic-for-5-day-rto-policy/)
     
-5. 5. [Over 500 Amazon workers decry “non-data-driven” logic for 5-day RTO policy](https://arstechnica.com/tech-policy/2024/10/over-500-amazon-workers-decry-non-data-driven-logic-for-5-day-rto-policy/)
+5. 5. [Person accidentally poisoned 46 coworkers with toxin-loaded homemade lunch](https://arstechnica.com/health/2024/10/when-you-make-lunch-for-your-coworkers-and-accidentally-cause-a-mass-poisoning/)
     
 
 Customize
