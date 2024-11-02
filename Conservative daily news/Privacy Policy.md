@@ -1,4 +1,4 @@
-Friday, November 1 2024
+Saturday, November 2 2024
 
 Breaking News
 
@@ -181,6 +181,9 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: Trijicon Tenmile HX 5-25x50mm FFP](https://www.thegunpage.com/tfb-review-trijicon-tenmile-hx-5-25x50mm-ffp/10611615)
+* [POTD: Spooky Zastava USA M90](https://www.thegunpage.com/potd-spooky-zastava-usa-m90/10611616)
+* [TFB Podcast Roundup 153: The November 1st Roundup](https://www.thegunpage.com/tfb-podcast-roundup-153-the-november-1st-roundup/10611617)
 * [More Hunters Than Ever Are Using AR-Style Rifles](https://www.thegunpage.com/more-hunters-than-ever-are-using-ar-style-rifles/10611611)
 * [How to Quickly Zero Your Rifle and Save on Ammo](https://www.thegunpage.com/how-to-quickly-zero-your-rifle-and-save-on-ammo/10611607)
 * [New Calibers For Savage 110 Magpul Scout](https://www.thegunpage.com/new-calibers-for-savage-110-magpul-scout/10611609)
@@ -188,9 +191,6 @@ Recent Posts
 * [Canik launches a GOA-themed micro-compact pistol!](https://www.thegunpage.com/canik-launches-a-goa-themed-micro-compact-pistol-2/10611605)
 * [Remember the Rules of the Range](https://www.thegunpage.com/remember-the-rules-of-the-range/10611603)
 * [ZeroTech Unveils New 1x Prism Optic](https://www.thegunpage.com/zerotech-unveils-new-1x-prism-optic/10611600)
-* [SHAMELESS! Bloomberg Trying to Buy Ballots Again](https://www.thegunpage.com/shameless-bloomberg-trying-to-buy-ballots-again/10611599)
-* [NEW CZ Shadow 2 Target: CZ's Most Accurate Pistol Ever?](https://www.thegunpage.com/new-cz-shadow-2-target-czs-most-accurate-pistol-ever/10611601)
-* [Circuit Court Rules D.C. Mag Restriction Is Constitutional](https://www.thegunpage.com/circuit-court-rules-d-c-mag-restriction-is-constitutional/10611598)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
