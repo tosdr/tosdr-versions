@@ -327,6 +327,14 @@ News
 
 TÜV Rheinland zertifiziert den automatischen hydraulischen Abgleich mit Homematic IP](https://homematic-ip.com/de/news/tuev-zertifiziert-automatischen-hydraulischen-abgleich)
 
+[Nov.
+
+07-09
+
+Event
+
+hagebaumarkt Brunnthal: Faszination Smart-Home live erleben: im Roadshow-Truck in Ihrer Nähe.](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-11-07-hagebaumarkt-brunnthal)
+
 [Okt.
 
 31-02
