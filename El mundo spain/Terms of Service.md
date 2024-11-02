@@ -1,15 +1,15 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZyXX2woAAVEAAABcGU0)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZyYsZgoAAVAAAABbTmw)
 
 Es noticia
 
-* [DANA Valencia](https://www.elmundo.es/espana/2024/11/02/67253a8ce85ece82038b458f.html)
+* [DANA Valencia](https://www.elmundo.es/espana/2024/11/02/6725bf4ca75cca894134c674-directo.html)
 * [Desaparecidos Dana](https://www.elmundo.es/comunidad-valenciana/2024/11/01/67252d9cfc6c833d5d8b45ae.html)
-* [Solidaridad Valencia](https://www.elmundo.es/comunidad-valenciana/2024/11/01/6723f21ee9cf4a34698b45ab.html)
-* [Estado de alarma](https://www.elmundo.es/espana/2024/11/02/67253979e9cf4adb298b4590.html)
+* [Militares Valencia](https://www.elmundo.es/espana/2024/11/02/67253a8ce85ece82038b458f.html)
+* [Supermercados Valencia](https://www.elmundo.es/comunidad-valenciana/2024/11/02/6725fb8b21efa0b20b8b4583.html)
 * [Morgue Valencia](https://www.elmundo.es/espana/2024/11/02/67253adee85ece0b688b4587.html)
-* [Letur](https://www.elmundo.es/espana/2024/11/02/67254beae4d4d81d518b458c.html)
+* [Arturo Gran Hermano](https://www.elmundo.es/espana/2024/11/02/67254beae4d4d81d518b458c.html)
 * [Antes-después DANA](https://www.elmundo.es/album/espana/2024/11/01/672509cfe9cf4adb228b457a.html)
-* [Gotas frías](https://www.elmundo.es/espana/2024/11/02/67251407e4d4d828188b4580.html)
+* [Aemet Tarragona](https://www.elmundo.es/espana/2024/11/02/6725f055e9cf4a65288b4592.html)
 * [Bolivia](https://www.elmundo.es/internacional/2024/11/01/6725393dfc6c83a8388b458e.html)
 * [De Viernes](https://www.elmundo.es/television/2024/11/01/67236b3fe9cf4ab55c8b4596.html)
 * [Supermercados 1 noviembre](https://www.elmundo.es/como/2024/10/31/67233ef4e9cf4a20268b457b.html)
