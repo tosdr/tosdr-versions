@@ -104,6 +104,16 @@ Oct 31 2024
 
 By **[Andy Smarick](https://admin.mi52siterestore.com/person/andy-smarick/)** Read time **52 mins** [Read More](https://admin.mi52siterestore.com/article/leadership-development-by-state-run-and-state-based-universities/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/october-employment-report.jpg)[](https://admin.mi52siterestore.com/article/comments-on-the-october-employment-report/ "Read More")
+
+Commentary Economics Employment
+
+Nov 01 2024
+
+[Comments on the October Employment Report](https://admin.mi52siterestore.com/article/comments-on-the-october-employment-report/)
+
+By **[Dan Katz](https://admin.mi52siterestore.com/person/dan-katz/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/comments-on-the-october-employment-report/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/abigail-shrier-the-kinderfada-revolution.jpg)[](https://admin.mi52siterestore.com/article/the-kinderfada-revolution/ "Read More")
 
 Commentary Education, Culture Pre K-12, Culture & Society
@@ -133,16 +143,6 @@ Oct 26 2024
 [Why Kamala and Trump Are Turning to Podcasts to Woo Uncertain Voters](https://admin.mi52siterestore.com/article/why-kamala-and-trump-are-turning-to-podcasts-to-woo-uncertain-voters/)
 
 By **[Rafael A. Mangual](https://admin.mi52siterestore.com/person/rafael-a-mangual/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/why-kamala-and-trump-are-turning-to-podcasts-to-woo-uncertain-voters/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/dei-university-michigan-ford-lowes.jpg)[](https://admin.mi52siterestore.com/article/university-of-michigan-spent-millions-on-dei-efforts-they-failed-miserably/ "Read More")
-
-Commentary Education Higher Ed
-
-Oct 25 2024
-
-[University of Michigan Spent Millions on DEI Efforts. They Failed Miserably.](https://admin.mi52siterestore.com/article/university-of-michigan-spent-millions-on-dei-efforts-they-failed-miserably/)
-
-By **[Neetu Arnold](https://admin.mi52siterestore.com/person/neetu-arnold/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/university-of-michigan-spent-millions-on-dei-efforts-they-failed-miserably/)
 
 Our Policy Areas
 ----------------
