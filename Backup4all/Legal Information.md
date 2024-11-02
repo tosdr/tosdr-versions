@@ -1,8 +1,8 @@
- ![Limited time promo](https://www.backup4all.com/images/promo/halloween/ghost.png?ek79cy)
+ ![Limited time promo](https://www.backup4all.com/images/promo/pack/promo-save.png?ek79cy)
 
-#### Halloween sale: 40% Discount for Backup4all Pro to unlock new features (Save US$ 20.00)
+#### Limited time sale: Backup4all PRO Family Pack - Pay for 2 Licenses & Get 3 (Save US$ 46.68)
 
-Buy (US$ 29.99)
+Buy (US$ 93.33)
 
 [![Backup4all Logo](https://www.backup4all.com/images/backup4all-logo.svg)![Backup4all Logo by Softland](https://www.backup4all.com/images/backup4all-by-softland.svg)](https://www.backup4all.com/)
 
@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from T Cloud using ...](https://www.backup4all.com/how-to-back-up-data-files-from-t-cloud-using-backup4all-kb.html)  
+* [Using Backup4all - FAQ 2](https://www.backup4all.com/using-backup4all-faq-2-kb.html)  
     
-* [How to back up data files from Numergy using ...](https://www.backup4all.com/how-to-back-up-data-files-from-numergy-using-backup4all-kb.html)  
+* [How to upgrade from FBackup to Backup4all](https://www.backup4all.com/how-to-upgrade-from-fbackup-to-backup4all-kb.html)  
     
-* [How to restore a backup using 7-Zip](https://www.backup4all.com/how-to-restore-a-backup-using-7-zip-kb.html)  
+* [How to back up data files from GreenQloud usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-greenqloud-using-backup4all-kb.html)  
     
-* [How the incremental limit works in Backup4all](https://www.backup4all.com/how-the-incremental-limit-works-in-backup4all-kb.html)  
+* [How to backup your data to Tiscali](https://www.backup4all.com/how-to-backup-your-data-to-tiscali-kb.html)  
     
-* [How to backup your data to Google Cloud Stora ...](https://www.backup4all.com/how-to-backup-your-data-to-google-cloud-storage-kb.html)  
+* [How to run a daily incremental and weekly ful ...](https://www.backup4all.com/how-to-run-a-daily-incremental-and-weekly-full-backups-kb.html)  
     
 
 Choose language:
