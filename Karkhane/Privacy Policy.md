@@ -52,9 +52,9 @@ Privacy Policy
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/10/1-95x65.jpg)](https://karkhane.org/5958/is_there_an_accident/)[حادثه‌ای در کار است یا نه؟!](https://karkhane.org/5958/is_there_an_accident/)
-* [![چند نمودار ساده درباره‌ی دستمزد - تصویر ۱](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![چند نمودار ساده درباره‌ی دستمزد - تصویر ۱](https://karkhane.org/app/uploads/2020/06/čand-nemudār-e-sāde-darbāre-ye-dastmozd-1-95x65.png)](https://karkhane.org/1806/%da%86%d9%86%d8%af-%d9%86%d9%85%d9%88%d8%af%d8%a7%d8%b1-%d8%b3%d8%a7%d8%af%d9%87-%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87%db%8c-%d8%af%d8%b3%d8%aa%d9%85%d8%b2%d8%af/)[چند نمودار ساده درباره‌ی دستمزد](https://karkhane.org/1806/%da%86%d9%86%d8%af-%d9%86%d9%85%d9%88%d8%af%d8%a7%d8%b1-%d8%b3%d8%a7%d8%af%d9%87-%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87%db%8c-%d8%af%d8%b3%d8%aa%d9%85%d8%b2%d8%af/)
+    ![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/app/uploads/2020/11/do-ser-az-bolivi-az-taraneha-ye-kargaran-95x65.jpg)](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)[دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
