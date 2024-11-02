@@ -430,11 +430,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-2009/2010/jelena-banjac-n.jpg?itok=0rnde9nl)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20092010)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/lokalna-podrska/igp5858.jpg?itok=X1aD8eQH)](http://seecult.org/galerija/galerija-umetnika/karavukovo/lokalna-podrska)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/maraton-simona-trpceskog/simon9.jpg?itok=Hnp9f9AV)](http://seecult.org/galerija/foto-galerija/foto-arhiva/maraton-simona-trpceskog)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/51-oktobarski-salon/tereza-hubbard/alexander-birchler/hwp-60.jpg?itok=p6Qwh_Co)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/51-oktobarski-salon/tereza-hubbardalexander-birchler)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
