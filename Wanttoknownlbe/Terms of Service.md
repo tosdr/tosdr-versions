@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/enorme-ufo-waargenomen-bij-iss/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/geschiedenis/geheime-genootschappen/waterloo-over-oorlog-en-geld/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
