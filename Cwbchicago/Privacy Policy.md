@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/chains-326x245.jpg)](https://cwbchicago.com/2024/10/chain-snatchings-reported-near-belmont-harbor-north-avenue-beach.html "Chain snatchings reported near Belmont Harbor, North Avenue Beach")
+
+Gold Coast
+
+### [Chain snatchings reported near Belmont Harbor, North Avenue Beach](https://cwbchicago.com/2024/10/chain-snatchings-reported-near-belmont-harbor-north-avenue-beach.html "Chain snatchings reported near Belmont Harbor, North Avenue Beach")
+
+[October 31, 2024 4:47 AM](https://cwbchicago.com/2024/10)
+
+The city’s chain-snatching robbery problem appears to have migrated north, with two incidents reported along the lakefront this week: one near Belmont Harbor and another near North Avenue Beach.[](https://cwbchicago.com/2024/10/chain-snatchings-reported-near-belmont-harbor-north-avenue-beach.html "Chain snatchings reported near Belmont Harbor, North Avenue Beach")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/irving-kimball-041a--326x245.jpg)](https://cwbchicago.com/2024/10/woman-shot-while-driving-in-irving-park.html "Woman shot while driving in Irving Park")
+
+Irving Park
+
+### [Woman shot while driving in Irving Park](https://cwbchicago.com/2024/10/woman-shot-while-driving-in-irving-park.html "Woman shot while driving in Irving Park")
+
+[October 31, 2024 4:34 AM](https://cwbchicago.com/2024/10)
+
+Chicago police said the woman was driving in the 3400 block of West Irving Park Road when a man in another vehicle shot at her around 11:40 p.m.[](https://cwbchicago.com/2024/10/woman-shot-while-driving-in-irving-park.html "Woman shot while driving in Irving Park")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/Tevon-Jackson-326x245.jpg)](https://cwbchicago.com/2024/10/concealed-carry-holder-charged-with-shooting-outside-loyola-red-line-station.html "Concealed carry holder charged with shooting outside Loyola Red Line station")
 
 Rogers Park
@@ -252,26 +272,6 @@ Rogers Park
 [October 30, 2024 7:02 PM](https://cwbchicago.com/2024/10)
 
 A judge on Wednesday detained a concealed carry holder after prosecutors accused the man of firing his gun during an argument, leaving two men injured outside the Loyola Red Line. But even in the court files, documents differ as to whether Tevon Jackson, 24, shot one man or two.[](https://cwbchicago.com/2024/10/concealed-carry-holder-charged-with-shooting-outside-loyola-red-line-station.html "Concealed carry holder charged with shooting outside Loyola Red Line station")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/05/Snellling-brandon-johnson-326x245.jpg)](https://cwbchicago.com/2024/10/14-aldermen-cannot-and-will-not-vote-for-mayors-budget-without-the-return-of-shotspotter-letter.html "14 aldermen ‘cannot and will not’ vote for mayor’s budget without the return of ShotSpotter: letter")
-
-Citywide
-
-### [14 aldermen ‘cannot and will not’ vote for mayor’s budget without the return of ShotSpotter: letter](https://cwbchicago.com/2024/10/14-aldermen-cannot-and-will-not-vote-for-mayors-budget-without-the-return-of-shotspotter-letter.html "14 aldermen ‘cannot and will not’ vote for mayor’s budget without the return of ShotSpotter: letter")
-
-[October 30, 2024 10:49 AM](https://cwbchicago.com/2024/10)
-
-Fourteen Chicago aldermen have told Mayor Brandon Johnson that they “cannot and will not” vote for his 2025 budget if it does not include a renewal of the city’s ShotSpotter gunfire detection system. Of the seven demands listed in the group’s letter, four involve policing.[](https://cwbchicago.com/2024/10/14-aldermen-cannot-and-will-not-vote-for-mayors-budget-without-the-return-of-shotspotter-letter.html "14 aldermen ‘cannot and will not’ vote for mayor’s budget without the return of ShotSpotter: letter")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Shawn-Booker-Lyons-Denn.jp_-326x245.jpg)](https://cwbchicago.com/2024/10/charges-filed-in-summertime-shooting-at-lyons-den-hookah-lounge.html "Charges filed in summertime shooting at Lyon’s Den hookah lounge")
-
-West Town
-
-### [Charges filed in summertime shooting at Lyon’s Den hookah lounge](https://cwbchicago.com/2024/10/charges-filed-in-summertime-shooting-at-lyons-den-hookah-lounge.html "Charges filed in summertime shooting at Lyon’s Den hookah lounge")
-
-[October 30, 2024 5:16 AM](https://cwbchicago.com/2024/10)
-
-Prosecutors have charged a man with firing a gun into a West Town hookah lounge this summer, leading to the city’s summary closure of the business. Three people were shot during the incident at Lyon’s Den, 2123 West Division, early on July 19.[](https://cwbchicago.com/2024/10/charges-filed-in-summertime-shooting-at-lyons-den-hookah-lounge.html "Charges filed in summertime shooting at Lyon’s Den hookah lounge")
 
 Search
 
