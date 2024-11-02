@@ -140,8 +140,8 @@ MSX Music player
 
 Latest reactions
 
-* [Nextor 2.1.2 released](https://www.msx.org/news/en/nextor-212-released "Nextor 2.1.2 released")
 * [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
+* [Nextor 2.1.2 released](https://www.msx.org/news/en/nextor-212-released "Nextor 2.1.2 released")
 * [Christmas Quiz 2024](https://www.msx.org/news/en/christmas-quiz-2024 "Christmas Quiz 2024")
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
@@ -153,8 +153,11 @@ Latest reactions
 
 Latest forum posts
 
-* [Hydlide 3 tips?](https://www.msx.org/forum/msx-talk/software/hydlide-3-tips "Hydlide 3 tips?")
 * [OpenMSX for Trimui Smart Pro Handheld](https://www.msx.org/forum/msx-talk/emulation/openmsx-for-trimui-smart-pro-handheld "OpenMSX for Trimui Smart Pro Handheld")
+* [keyboard connector for Victor HC-9x DSUB 20-pin from mouser](https://www.msx.org/forum/msx-talk/hardware/keyboard-connector-for-victor-hc-9x-dsub-20-pin-from-mouser "keyboard connector for Victor HC-9x DSUB 20-pin from mouser")
+* [The Matrix digital rain on MSX](https://www.msx.org/forum/msx-talk/development/the-matrix-digital-rain-on-msx?page=1 "The Matrix digital rain on MSX")
+* [RIP Fabio Belavenuto](https://www.msx.org/forum/msx-talk/general-discussion/rip-fabio-belavenuto?page=2 "RIP Fabio Belavenuto")
+* [Hydlide 3 tips?](https://www.msx.org/forum/msx-talk/software/hydlide-3-tips "Hydlide 3 tips?")
 * [Sony HB-F1XD MSX2 Disk Help](https://www.msx.org/forum/msx-talk/general-discussion/sony-hb-f1xd-msx2-disk-help "Sony HB-F1XD MSX2 Disk Help")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=62 "List of undumped MSX software (PLEASE HELP!)")
 * [New MSX2 owner, intro, and some questions](https://www.msx.org/forum/msx-talk/general-discussion/new-msx2-owner-intro-and-some-questions?page=1 "New MSX2 owner, intro, and some questions")
@@ -163,9 +166,6 @@ Latest forum posts
 * [TRH9000 - The Yamaha V9990 based open-source video card for the MSX](https://www.msx.org/forum/msx-talk/hardware/trh9000-the-yamaha-v9990-based-open-source-video-card-for-the-msx?page=23 "TRH9000 - The Yamaha V9990 based open-source video card for the MSX")
 * [Type in BASIC source list by OCR tool without typing](https://www.msx.org/forum/msx-talk/general-discussion/type-in-basic-source-list-by-ocr-tool-without-typing?page=1 "Type in BASIC source list by OCR tool without typing ")
 * [Help with Spectravideo SVI-727 80 column cartidge!!!](https://www.msx.org/forum/msx-talk/hardware/help-spectravideo-svi-727-80-column-cartidge?page=2 "Help with Spectravideo SVI-727 80 column cartidge!!!")
-* [What is the point of bits \[3:0\] in the R15 of the PSG](https://www.msx.org/forum/msx-talk/hardware/what-is-the-point-of-bits-30-in-the-r14-of-the-psg?page=1 "What is the point of bits [3:0] in the R15 of the PSG")
-* [superimpose difference between victor MSX1 and MSX2?](https://www.msx.org/forum/msx-talk/graphics-and-music/superimpose-difference-between-victor-msx1-and-msx2 "superimpose difference between victor MSX1 and MSX2?")
-* [What is the best architecture for a MSX 1 disk game? BIN files or a MSX-DOS program?](https://www.msx.org/forum/msx-talk/development/what-is-the-best-architecture-for-a-msx-1-disk-game-bin-files-or-a-msx-do "What is the best architecture for a MSX 1 disk game? BIN files or a MSX-DOS program?")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
