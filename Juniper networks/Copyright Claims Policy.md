@@ -10,9 +10,9 @@ Yes
 
 Maybe Later
 
-CONTACT US
+[Contact us](https://www.juniper.net/us/en/company/contact-us.html)
 
-LOG IN
+Log in
 
 My Account
 
@@ -23,533 +23,1388 @@ My Account
 
 * [Log out](javascript:void(0); "Log out")
 
-US | EN
-
-Americas
-
-* [Brazil - Português](https://www.juniper.net/br/pt.html "Brazil - Português")
-* [Mexico - Español](https://www.juniper.net/mx/es.html "Mexico - Español")
-* [United States - English](https://www.juniper.net/us/en.html "United States - English")
-
-Asia
-
-* [China - 中文](https://www.juniper.net/cn/zh.html "China - 中文")
-* [Japan - 日本語](https://www.juniper.net/jp/ja.html "Japan - 日本語")
-* [Korea - 한국어](https://www.juniper.net/kr/ko.html "Korea - 한국어")
-
-Europe
-
-* [France - Français](https://www.juniper.net/fr/fr.html "France - Français")
-* [Germany - Deutsch](https://www.juniper.net/de/de.html "Germany - Deutsch")
-* [Israel - English](https://www.juniper.net/il/en.html "Israel - English")
-* [Italy - Italiano](https://www.juniper.net/it/it.html "Italy - Italiano")
-* [The Netherlands - Nederlands](https://www.juniper.net/nl/nl.html "The Netherlands - Nederlands")
-* [Spain - Español](https://www.juniper.net/es/es.html "Spain - Español")
-* [United Kingdom - English](https://www.juniper.net/gb/en.html "United Kingdom - English")
-
-[Try Now](https://www.juniper.net/us/en/try.html)
-
-[![Juniper Networks Logo used in the navigation header with black font and registered trademark symbol.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Juniper Networks Logo used in the navigation header with black font and registered trademark symbol.")](https://www.juniper.net/us/en.html)
-
-US | EN
-
-Products & Solutions
-
-* [I'm interested in](javascript:void(0);)
-* [IT Networking](javascript:void(0);)
-* [Service Provider](javascript:void(0);)
-* [Cloud Operator](javascript:void(0);)
-* [Security](javascript:void(0);)
-* [Software & SaaS](javascript:void(0);)
-
-* [Search by](javascript:void(0);)
-* [Product](javascript:void(0);)
-* [Solution](javascript:void(0);)
-* [Industry](javascript:void(0);)
-* [Services](javascript:void(0);)
-
-[IT Networking](https://www.juniper.net/us/en/it-networking.html)
-
-Learn more about the benefits of Juniper’s Client-to-Cloud Architecture.
-
-* [AI Data Center](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure.html)
-* [Automation](https://www.juniper.net/us/en/solutions/automation.html)
-* [Data Center](https://www.juniper.net/us/en/solutions/data-center.html)
-* [Wired Access](https://www.juniper.net/us/en/solutions/wired-access.html)
-* [Wireless Access](https://www.juniper.net/us/en/solutions/wireless-access.html)
-* [SD-WAN](https://www.juniper.net/us/en/solutions/sd-wan.html)
-* [Enterprise WAN](https://www.juniper.net/us/en/solutions/enterprise-wan.html)
-* [Enterprise at Home](https://www.juniper.net/us/en/solutions/enterprise-at-home.html)
-* [Indoor Location](https://www.juniper.net/us/en/solutions/indoor-location.html)
-* [SASE](https://www.juniper.net/us/en/solutions/secure-ai-native-edge/sase.html)
-* [IoT](https://www.juniper.net/us/en/solutions/iot.html)
-
-[Service Provider](https://www.juniper.net/us/en/service-provider.html)
-
-Learn how Juniper’s Experience-First Networking delivers differentiated experiences to service providers and their customers.
-
-* [IP Transport](https://www.juniper.net/us/en/solutions/ip-transport-solution.html)
-* [Telco Cloud](https://www.juniper.net/us/en/solutions/telco-cloud.html)
-* [Managed Services](https://www.juniper.net/us/en/solutions/managed-services.html)
-* [Automation](https://www.juniper.net/us/en/solutions/automation.html)
-* [Service Provider Security](https://www.juniper.net/us/en/solutions/service-provider-security.html)
-
-[Cloud Operator](https://www.juniper.net/us/en/cloud-operator.html)
-
-Enabling innovation for cloud operators.
-
-* [400G and 800G](https://www.juniper.net/us/en/solutions/400g-and-800g.html)
-* [AI Data Center](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure.html)
-* [Data Center](https://www.juniper.net/us/en/solutions/data-center.html)
-* [Cloud Routing](https://www.juniper.net/us/en/solutions/cloud-routing.html)
-* [Automation](https://www.juniper.net/us/en/solutions/automation.html)
-* [Software Disaggregation](https://www.juniper.net/us/en/solutions/software-disaggregation.html)
-
-[Security](https://www.juniper.net/us/en/security.html)
-
-Make your network threat aware with Juniper Connected Security.
-
-* [SASE](https://www.juniper.net/us/en/solutions/secure-ai-native-edge/sase.html)
-* [Next-Generation Firewalls](https://www.juniper.net/us/en/solutions/next-gen-firewall.html)
-* [Public Cloud Security](https://www.juniper.net/us/en/solutions/public-cloud-security.html)
-* [Threat Detection & Mitigation](https://www.juniper.net/us/en/solutions/threat-detection-and-mitigation.html)
-* [SD-WAN](https://www.juniper.net/us/en/solutions/sd-wan.html)
-* [Secure Data Center](https://www.juniper.net/us/en/solutions/data-center/zero-trust-data-center.html)
-* [Service Provider Security](https://www.juniper.net/us/en/solutions/service-provider-security.html)
-
-[Software & SaaS](https://www.juniper.net/us/en/products/software.html)
-
-Discover cloud delivered or on-premise offerings.
-
-* [AIOps](https://www.juniper.net/us/en/solutions/artificial-intelligence-for-it-operations-aiops.html)
-* [Cloud Services](https://www.juniper.net/us/en/products/cloud-services.html)
-* [NaaS](https://www.juniper.net/us/en/solutions/naas-network-as-a-service.html)
-* [Automation](https://www.juniper.net/us/en/solutions/automation.html)
-* [Security](https://www.juniper.net/us/en/security.html)
-* [Telco Cloud](https://www.juniper.net/us/en/solutions/telco-cloud.html)
-* [Juniper Flex Licensing](https://www.juniper.net/us/en/products/software/flex.html)
-* [SASE](https://www.juniper.net/us/en/solutions/secure-ai-native-edge/sase.html)
-
-Featured Products
-
-* [Apstra](https://www.juniper.net/us/en/products/network-automation/apstra.html)
-* [Automation](https://www.juniper.net/us/en/products/network-automation.html)
-* [Firewalls](https://www.juniper.net/us/en/products/security/srx-series.html)
-* [Junos OS](https://www.juniper.net/us/en/products/network-operating-system.html)
-* [Marvis VNA](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
-* [Mist AI & Cloud](https://www.juniper.net/us/en/products/mist-ai.html)
-* [Optics](https://www.juniper.net/us/en/products/pluggable-optics.html)
-* [Routers](https://www.juniper.net/us/en/products/routers.html)
-* [Session Smart Router](https://www.juniper.net/us/en/products/routers/session-smart-router.html)
-* [SDN & Orchestration](https://www.juniper.net/us/en/products/sdn-and-orchestration.html)
-* [Security Services](https://www.juniper.net/us/en/products/security/advanced-threat-prevention.html)
-* [Switches](https://www.juniper.net/us/en/products/switches.html)
-* [Wireless Access](https://www.juniper.net/us/en/products/access-points.html)
-
-Featured Solutions
-
-* [400G and 800G](https://www.juniper.net/us/en/solutions/400g-and-800g.html)
-* [AI Data Center](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure.html)
-* [AIOps](https://www.juniper.net/us/en/solutions/artificial-intelligence-for-it-operations-aiops.html)
-* [Automation](https://www.juniper.net/us/en/solutions/automation.html)
-* [Cloud Metro](https://www.juniper.net/us/en/solutions/ip-transport-solution/metro.html)
-* [Converged Optical Routing](https://www.juniper.net/us/en/solutions/converged-optical-routing-architecture-cora.html)
-* [Data Center](https://www.juniper.net/us/en/solutions/data-center.html)
-* [Indoor Location](https://www.juniper.net/us/en/solutions/indoor-location.html)
-* [IP Transport](https://www.juniper.net/us/en/solutions/ip-transport-solution.html)
-* [SASE](https://www.juniper.net/us/en/solutions/secure-ai-native-edge/sase.html)
-* [SD-WAN](https://www.juniper.net/us/en/solutions/sd-wan.html)
-* [Wired Access](https://www.juniper.net/us/en/solutions/wired-access.html)
-* [Wireless Access](https://www.juniper.net/us/en/solutions/wireless-access.html)
-
-Industry
-
-Solutions
-
-* [Education](https://www.juniper.net/us/en/solutions/education.html)
-* [Energy & Utilities](https://www.juniper.net/us/en/solutions/energy-utilities.html)
-* [Government](https://www.juniper.net/us/en/solutions/government.html)
-* [Healthcare](https://www.juniper.net/us/en/solutions/healthcare.html)
-* [Media & Entertainment](https://www.juniper.net/us/en/solutions/media-and-entertainment.html)
-* [Retail](https://www.juniper.net/us/en/solutions/retail.html)
-
-[Services](https://www.juniper.net/us/en/services.html)
-
-Scale business outcomes with Juniper Global Services.
-
-* [Automated WAN](https://www.juniper.net/us/en/services/services-for-automated-wan.html)
-* [Campus and Branch](https://www.juniper.net/us/en/services/services-for-campus-and-branch.html)
-* [Data Center](https://www.juniper.net/us/en/services/services-for-data-center.html)
-* [Security](https://www.juniper.net/us/en/services/services-for-security.html)
-* [Support Services](https://www.juniper.net/us/en/services/support-services.html)
-
-Recommended for you
-
-[![AI-Native Networking Platform Diagram](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "AI-Native Networking Platform Diagram")](https://www.juniper.net/us/en/ai-native-networking-platform.html)
-
-[AI-Native Networking Platform](https://www.juniper.net/us/en/ai-native-networking-platform.html)
-
-Discover the future of networking with Juniper's AI-Native Networking Platform.
-
-[Industry Recognition](https://www.juniper.net/us/en/company/awards-and-industry-recognition.html)
-
-This is Juniper’s time. And people are taking notice.
-
-[Try now](https://www.juniper.net/us/en/try.html)
-
-Explore options and offers to connect with the networking solution you need.
-
-Recommended for you
-
-[![Connected computer, brain, and fingerprints in a cloud to represent Juniper’s Cloud Metro solutions.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Connected computer, brain, and fingerprints in a cloud to represent Juniper’s Cloud Metro solutions.")](https://www.juniper.net/us/en/solutions/ip-transport-solution/metro.html)
-
-[Cloud Metro](https://www.juniper.net/us/en/solutions/ip-transport-solution/metro.html)
-
-Apply cloud principles to metro networks and achieve sustainable business growth.
-
-[Experience 5G](https://www.juniper.net/us/en/solutions/5g-networking.html)
-
-Unlock the full power and potential of your network with our open, ecosystem approach. 
-
-Recommended for you
-
-[![data center server room](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "data center server room")](https://www.juniper.net/us/en/the-feed/topics/400g-and-800g/in-the-lab-with-juniper-networks-ceo-rami-rahim-400g-ptx10008.html)
-
-[In the Lab](https://www.juniper.net/us/en/the-feed/topics/400g-and-800g/in-the-lab-with-juniper-networks-ceo-rami-rahim-400g-ptx10008.html)
-
-Hear from Juniper Networks CEO Rami Rahim as he visits the lab to hear about the powerful performance of the 400G-capable PTX10008 router.
-
-[Cloud Services Products](https://www.juniper.net/us/en/products/cloud-services.html)
-
-The Juniper Mist Cloud delivers a modern microservices cloud architecture to meet your digital transformation goals for the AI-Driven Enterprise.
-
-Recommended for you
-
-[![Zero Trust Security](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Zero Trust Security")](https://www.juniper.net/us/en/solutions/data-center/zero-trust-data-center.html)
-
-[Zero Trust Data Center](https://www.juniper.net/us/en/solutions/data-center/zero-trust-data-center.html)
-
-Apply a Zero Trust framework to your data center network security architecture to protect data and applications.
-
-[Offers & Trials](https://www.juniper.net/us/en/forms/security-director-trial.html)
-
-Discover how you can manage security on-premises, in the cloud, and from the cloud with Security Director Cloud.
-
-Recommended for you
-
-[Offers & Trials](https://www.juniper.net/us/en/try.html)
-
-Explore options to quickly connect you with the networking solution you need.
-
-See more Products
-
-[All Products](https://www.juniper.net/us/en/products.html)
-
-See all of our product families in one place.
-
-[Products A - Z](https://www.juniper.net/us/en/products/products-a-to-z.html)
-
-Get a list of products by name.
-
-Recommended for you
-
-[All Solutions](https://www.juniper.net/us/en/solutions.html)
-
-Browse all Juniper solutions.
-
-[Offers & Trials](https://www.juniper.net/us/en/try.html)
-
-Explore options to quickly connect you with the networking solution you need.
-
-Recommended for you
-
-[All Industries](https://www.juniper.net/us/en/solutions.html)
-
-Browse all Juniper industry solutions.
-
-[Offers & Trials](https://www.juniper.net/us/en/try.html)
-
-Explore options to quickly connect you with the networking solution you need.
-
-Recommended for you
-
-[Offer & Trials](https://www.juniper.net/us/en/try.html)
-
-Explore options to quickly connect you with the networking solution you need.
-
-Customers
-
-* [Work with us](javascript:void(0);)
-
-* [](javascript:void(0);)
-* [Getting Started](javascript:void(0);)
-* [Software Downloads](javascript:void(0);)
-* [Documentation](javascript:void(0);)
-* [Training & Certifications](javascript:void(0);)
-* [Community](javascript:void(0);)
-* [Support](https://support.juniper.net/support/requesting-support/)
-
-* [Our Customers](javascript:void(0);)
-* [Success Stories](https://www.juniper.net/us/en/customers.html)
-* [Elevate Awards](javascript:void(0);)
-* [Share Your Story](https://www.juniper.net/us/en/forms/participate-in-our-elevate-program.html)
-
-Getting Started
-
-* [Welcome to Juniper](https://www.juniper.net/us/en/customers/welcome.html)
-* [Create a Juniper Account](https://userregistration.juniper.net/)
-* [Activate Licenses](https://license.juniper.net/licensemanage/)
-* [Quick Start by Product](https://www.juniper.net/documentation/quickstart/us/en/quick-start/)
-* [Contact Support](https://support.juniper.net/support/requesting-support/)
-* [Design Center](https://www.juniper.net/documentation/#cat=design_center)
-* [Free Training](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=JUNIPER-OPEN-LEARNING&TrackId=jnet-nav)
-
-Software Downloads
-
-* [Junos](https://support.juniper.net/support/downloads/?p=junos)
-* [EX Series](https://support.juniper.net/support/downloads/?f=ex)
-* [SRX Series](https://support.juniper.net/support/downloads/?f=srx)
-* [MX Series](https://support.juniper.net/support/downloads/?f=mx)
-* [QFX Series](https://support.juniper.net/support/downloads/?f=qfx)
-* [Junos Space](https://support.juniper.net/support/downloads/?f=space)
-* [vSRX Evaluation](https://support.juniper.net/support/downloads/?p=vsrxeval)
-* [vQFX Evaluation](https://support.juniper.net/support/downloads/?p=vqfx-evaluation)
-* [ACX Series](https://support.juniper.net/support/downloads/?f=acx)
-* [PTX Series](https://support.juniper.net/support/downloads/?f=ptx)
-* [All Downloads](https://support.juniper.net/support/downloads/)
-
-Documentation
-
-* [Product Documentation](https://www.juniper.net/documentation/)
-* [Day One Books](https://www.juniper.net/documentation/jnbooks/us/en/day-one-books)
-* [Knowledge Base](https://supportportal.juniper.net/s/knowledge?language=en_US)
-* [Product & Feature Data (Pathfinder)](https://apps.juniper.net/home/)
-* [Problem Report Search](https://prsearch.juniper.net/home)
-
-Training & Certifications
-
-Grow and transform your networking skills with our technical training and certification programs.
-
-* [Juniper Training](https://www.juniper.net/us/en/training.html)
-* [All-Access Training Pass](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=ALL-ACCESS-TRAINING-PASS-HOME&TrackId=jnet-nav)
-* [Schedule of Live Classes](https://learningportal.juniper.net/juniper/schedule_classes.aspx?&TrackId=jnet-nav)
-* [On-Demand Courses](https://learningportal.juniper.net/juniper/user_activity_search.aspx?search=On-Demand&taxonomyList=%23M02%2C%23T01&TrackId=jnet-nav)
-* [Free Training](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=JUNIPER-OPEN-LEARNING&TrackId=jnet-nav)
-* [Juniper Certification](https://www.juniper.net/us/en/training/certification.html)
-* [Private Training](https://www.juniper.net/us/en/training/private-training.html)
-
-[Community](https://community.juniper.net/home)
-
-Get answers and share your Juniper expertise with peers.
-
-* [Automation](https://community.juniper.net/communities/community-home?CommunityKey=bdb90a90-a9bd-4226-8f03-051df7d28113)
-* [Cloud](https://community.juniper.net/communities/community-home?CommunityKey=2f0a624d-2503-4ea5-8e6c-97cf5598792d)
-* [Data Center](https://community.juniper.net/communities/community-home?CommunityKey=470237c0-2d17-48b5-a547-29e8176f3f88)
-* [Junos OS](https://community.juniper.net/communities/community-home?CommunityKey=eb6abdf0-8614-4216-b6fe-4f05be483f4d)
-* [Management](https://community.juniper.net/communities/community-home?CommunityKey=bbcf4e2d-5491-4b98-9893-50ee88084b4a)
-* [Routing](https://community.juniper.net/communities/community-home?CommunityKey=18c17e96-c010-4653-84e4-f21341a8f208)
-* [SD-WAN](https://community.juniper.net/communities/community-home?CommunityKey=310d1a41-12fa-4627-9a99-880145a7c87c)
-* [Security](https://community.juniper.net/answers/communities/community-home?CommunityKey=f7afe91c-bfb3-40a0-acf5-880a1a475a9d)
-* [Switching](https://community.juniper.net/communities/community-home?CommunityKey=3f850801-038e-4123-b639-82ed4eb777ec)
-* [Wireless](https://community.juniper.net/communities/community-home?CommunityKey=fc55f457-fcbe-457d-bac2-e8b42a5508b0)
-
-[Elevate Awards](https://www.juniper.net/us/en/customers/elevate-awards.html)
-
-Celebrating innovators who use Juniper solutions to make a difference in the world.
-
-* [Current Awards](https://www.juniper.net/us/en/customers/elevate-awards.html)
-* [Past Awards](https://www.juniper.net/us/en/customers/elevate-awards/elevate-awards-past-winners.html)
-
-Recommended for you
-
-[![Handsome Hispanic Student Uses Laptop while Listening to a Lecture at the University, He Raises Hand and Asks Lecturer a Question. Multi Ethnic Group of Modern Bright Students.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Handsome Hispanic Student Uses Laptop while Listening to a Lecture at the University, He Raises Hand and Asks Lecturer a Question. Multi Ethnic Group of Modern Bright Students.")](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=ALL-ACCESS-TRAINING-PASS-HOME&TrackId=jnet-nav)
-
-[All-Access Training Pass](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=ALL-ACCESS-TRAINING-PASS-HOME&TrackId=jnet-nav)
-
-Every Juniper class for an entire year.
-
-[On-Demand Courses](https://learningportal.juniper.net/juniper/user_activity_search.aspx?search=On-Demand&taxonomyList=%23M02%2C%23T01&TrackId=jnet-nav)
-
-Hands-on, lab-based, self-paced training.
-
-[Juniper Open Learning](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=JUNIPER-OPEN-LEARNING)
-
-Free training and discounted certifications
-
-More Communities
-
-[TechPost](https://community.juniper.net/home/techpost)
-
-Articles by network engineers, for network engineers.
-
-[Training & Certification](https://community.juniper.net/communities/community-home?CommunityKey=378e2ac4-2cc1-4e53-93fe-0406b7f5859d)
-
-Get advice on your Juniper learning journey.
-
-Recommended for you
-
-[![elevate-awards-portrait_v01](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "elevate-awards-portrait_v01")](https://www.juniper.net/us/en/customers/elevate-awards.html)
-
-[See the 2023 honorees](https://www.juniper.net/us/en/customers/elevate-awards.html)
-
-Partners
-
-* [Juniper Partners](javascript:void(0);)
-* [Find a Partner](https://juniper.my.site.com/prm/s/partnerlocator)
-* [Find a Distributor](https://juniper.my.site.com/prm/s/distributorlocator)
-* [Find a Services Partner](https://www.juniper.net/content/dam/www/assets/additional-resources/us/en/worldwide-listing-jpa-services-partners.pdf)
-* [Public Cloud Partnerships](https://www.juniper.net/us/en/solutions/public-cloud-partnership.html)
-* [Strategic Alliances](https://www.juniper.net/us/en/partners/strategic-alliances.html)
-* [Solution Partners](https://www.juniper.net/us/en/partners/solution-partners.html)
-* [Technology Alliances](https://www.juniper.net/us/en/partners/technology-alliances.html)
-
-* [](javascript:void(0);)
-
-* [Become a Partner](javascript:void(0);)
-* [Overview](https://www.juniper.net/us/en/partners.html)
-* [Create a Partner Account](https://juniper.my.site.com/prm/s/onboarding)
-
-* [Enrolled Partners](javascript:void(0);)
-* [Partner Log In](https://partners.juniper.net/partnercenter/index.page)
-* [Learning Academy](http://jpartnertraining.juniper.net/)
-* [Juniper Champions](https://content.juniper.net/champions)
-
-Company
-
-* [Company](javascript:void(0);)
-* [About Us](https://www.juniper.net/us/en/company.html)
-* [Company Profile](https://www.juniper.net/us/en/company/profile.html)
-* [Inclusion & Diversity](https://www.juniper.net/us/en/company/inclusion-diversity.html)
-* [Innovation](https://www.juniper.net/us/en/company/juniper-innovations.html)
-* [Climate Change & Sustainability](https://www.juniper.net/us/en/company/climate-change-and-sustainability.html)
-* [Leadership](https://www.juniper.net/us/en/company/leadership.html)
-* [Our Values](https://www.juniper.net/us/en/company/culture-careers/values.html)
-
-* [Careers](javascript:void(0);)
-* [Culture & Careers](https://www.juniper.net/us/en/company/culture-careers.html)
-* [Current Openings](https://jobs.juniper.net/careers)
-
-* [Press & Analysts](javascript:void(0);)
-* [Analyst Relations](https://www.juniper.net/us/en/company/analyst-relations.html)
-* [Investor Relations](https://investor.juniper.net/investor-relations/default.aspx)
-* [Newsroom](https://newsroom.juniper.net/overview/default.aspx)
-
-* [Why Juniper?](javascript:void(0);)
-* [Industry Recognition](https://www.juniper.net/us/en/company/awards-and-industry-recognition.html)
-* [Community](https://community.juniper.net/home)
-* [Customer Success Stories](https://www.juniper.net/us/en/customers.html)
-* [Contact Sales](https://www.juniper.net/us/en/how-to-buy/form.html)
-* [Partnerships](https://www.juniper.net/content/juniper/us/en/partners-old)
-
-Support
-
-* [](javascript:void(0);)
-* [Juniper Support](https://support.juniper.net/support/)
-
-* [Self-Service Tools](javascript:void(0);)
-* [Welcome to Juniper](https://www.juniper.net/us/en/customers/welcome.html)
-* [Getting Started](https://www.juniper.net/documentation/dayoneplus/us/en/day-one-plus)
-* [Juniper Support Portal](https://supportportal.juniper.net/)
-* [Product License Keys](https://license.juniper.net/licensemanage/)
-* [Serial Number Entitlement Search](https://supportportal.juniper.net/s/serial-number-entitlement)
-* [Update Install Base](https://supportportal.juniper.net/)
-* [Contact Support](https://support.juniper.net/support/requesting-support/)
-
-* [Downloads](javascript:void(0);)
-* [ACX Series](https://support.juniper.net/support/downloads/?f=acx)
-* [EX Series](https://support.juniper.net/support/downloads/?f=ex)
-* [MX Series](https://support.juniper.net/support/downloads/?f=mx)
-* [PTX Series](https://support.juniper.net/support/downloads/?f=ptx)
-* [QFX Series](https://support.juniper.net/support/downloads/?f=qfx)
-* [SRX Series](https://support.juniper.net/support/downloads/?f=srx)
-* [Junos Space](https://support.juniper.net/support/downloads/?f=space)
-* [SSG Series](https://support.juniper.net/support/downloads/?f=ssg)
-* [All Downloads](https://support.juniper.net/support/downloads/)
-
-* [](javascript:void(0);)
-
-* [Documentation](javascript:void(0);)
-* [Knowledge Base](https://supportportal.juniper.net/s/knowledge?language=en_US)
-* [Product Documentation](https://www.juniper.net/documentation/)
-* [Problem Report Search](https://prsearch.juniper.net/InfoCenter/index?page=prsearch)
-* [Product & Feature Data (Pathfinder)](https://apps.juniper.net/home/)
-* [Community](https://community.juniper.net/home)
-* [Security Intelligence](https://threatlabs.juniper.net/home/search/#/list/ips?page_number=1&page_size=20)
-* [Report a Vulnerability](https://www.juniper.net/us/en/report-a-security-vulnerability.html)
-
-Training
-
-* [Training](javascript:void(0);)
-* [Juniper Training](https://www.juniper.net/us/en/training.html)
-* [Schedule of Live Classes](https://learningportal.juniper.net/juniper/schedule_classes.aspx?&TrackId=jnet-nav)
-* [On-demand Courses](https://learningportal.juniper.net/juniper/user_activity_search.aspx?search=On-Demand&taxonomyList=%23M02%2C%23T01&TrackId=jnet-nav)
-* [Free Training](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=JUNIPER-OPEN-LEARNING&TrackId=jnet-nav)
-* [All Courses](https://learningportal.juniper.net/juniper/user_activity_search.aspx?search=course&taxonomyList=%23M01%2C%23M02%2C%23T01&TrackId=jnet-nav)
-* [Payment Options](https://www.juniper.net/us/en/training/purchase-options.html)
-
-* [Certification](javascript:void(0);)
-* [Juniper Certification](https://www.juniper.net/us/en/training/certification.html)
-* [Certification Tracks](https://www.juniper.net/us/en/training/certification/tracks.html)
-* [Certification Resources](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=JUNIPER-CERTIFICATION-PROGRAM-HOME&TrackId=jnet-nav)
-* [Exam Registration](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=JUNIPER-CERTIFICATION-PROGRAM-HOME&TrackId=jnet-nav)
-* [Recertification](https://www.juniper.net/us/en/training/certification/recertification.html)
-* [Manage My Certs](https://www.certmetrics.com/juniper/login.aspx?ReturnUrl=%2fjuniper%2f)
-
-Events & Demos
-
-* [Events and Ideas](javascript:void(0);)
-* [AI-Native NOW](https://www.juniper.net/us/en/events/ai-native-now.html)
-* [The Feed (Videos & Podcasts)](https://www.juniper.net/us/en/the-feed.html)
-* [Juniper Summit](https://www.juniper.net/us/en/the-feed/summits.html)
-* [All Global Events](https://www.juniper.net/us/en/events.html)
-
-* [Demos, Offers & Trials](javascript:void(0);)
-* [Test Drive Juniper](https://www.juniper.net/us/en/try.html)
-
-* [Conversations](javascript:void(0);)
-* [Elevate Community](https://community.juniper.net/home)
-* [Juniper Threat Labs](https://threatlabs.juniper.net/home/#/)
-* [Twitter: @JuniperNetworks](https://twitter.com/JuniperNetworks)
-
-[The Feed](https://www.juniper.net/us/en/the-feed.html)
-
-[LOG IN](https://www.juniper.net/content/juniper/utils/secure/login.html)
-
-My Account
-
-* [Access Partner Center](https://partners.juniper.net/partnercenter/index.page)
-* [Edit Account Information](https://userregistration.juniper.net/entitlement/editAcctInfo.do)
-* [Register a New Product](https://tools.juniper.net/svcreg/SRegSerialNum.jsp)
-* [Create an Account](https://userregistration.juniper.net/entitlement/setupAccountInfo.do)
-* [Log out](javascript:void(0);)
-
-[CONTACT US](https://www.juniper.net/us/en/company/contact-us.html)
-
-[Try Now](https://www.juniper.net/us/en/try.html)
+* [United States - English](https://www.juniper.net/content/juniper/language-masters/en_us.html)
+* [Brazil - Português](https://www.juniper.net/br/pt.html)
+* [China - 中文](https://www.juniper.net/cn/zh.html)
+* [France - Français](https://www.juniper.net/fr/fr.html)
+* [Germany - Deutsch](https://www.juniper.net/de/de.html)
+* [Israel - English](https://www.juniper.net/il/en.html)
+* [Italy - Italiano](https://www.juniper.net/it/it.html)
+* [Japan - 日本語](https://www.juniper.net/jp/ja.html)
+* [Korea - 한국어](https://www.juniper.net/kr/ko.html)
+* [Mexico - Español](https://www.juniper.net/mx/es.html)
+* [Spain - Español](https://www.juniper.net/es/es.html)
+* [The Netherlands - Nederlands](https://www.juniper.net/nl/nl.html)
+* [United Kingdom - English](https://www.juniper.net/gb/en.html)
+
+[![logo image alt text](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "logo image alt text")](https://www.juniper.net/us/en.html)
+
+* [Solutions](#)
+* [Products](#)
+* [Services](https://www.juniper.net/us/en/services.html)
+* [Partners](#)
+* [Support and Documentation](#)
+* [Learn](#)
 
 All Company Products And Solutions Support Documentation Training Blogs
 
-Americas
+* * [United States - English](https://www.juniper.net/content/juniper/language-masters/en_us.html)
+    * [Brazil - Português](https://www.juniper.net/br/pt.html)
+    * [China - 中文](https://www.juniper.net/cn/zh.html)
+    * [France - Français](https://www.juniper.net/fr/fr.html)
+    * [Germany - Deutsch](https://www.juniper.net/de/de.html)
+    * [Israel - English](https://www.juniper.net/il/en.html)
+    * [Italy - Italiano](https://www.juniper.net/it/it.html)
+    * [Japan - 日本語](https://www.juniper.net/jp/ja.html)
+    * [Korea - 한국어](https://www.juniper.net/kr/ko.html)
+    * [Mexico - Español](https://www.juniper.net/mx/es.html)
+    * [Spain - Español](https://www.juniper.net/es/es.html)
+    * [The Netherlands - Nederlands](https://www.juniper.net/nl/nl.html)
+    * [United Kingdom - English](https://www.juniper.net/gb/en.html)
+    
+* [Try](https://www.juniper.net/us/en/try.html)
+* [](#)
 
-* [Brazil - Português](https://www.juniper.net/br/pt.html "Brazil - Português")
-* [Mexico - Español](https://www.juniper.net/mx/es.html "Mexico - Español")
-* [United States - English](https://www.juniper.net/us/en.html "United States - English")
+### Solutions
 
-Asia
+Featured solutions
 
-* [China - 中文](https://www.juniper.net/cn/zh.html "China - 中文")
-* [Japan - 日本語](https://www.juniper.net/jp/ja.html "Japan - 日本語")
-* [Korea - 한국어](https://www.juniper.net/kr/ko.html "Korea - 한국어")
+AI
 
-Europe
+Campus and branch
 
-* [France - Français](https://www.juniper.net/fr/fr.html "France - Français")
-* [Germany - Deutsch](https://www.juniper.net/de/de.html "Germany - Deutsch")
-* [Israel - English](https://www.juniper.net/il/en.html "Israel - English")
-* [Italy - Italiano](https://www.juniper.net/it/it.html "Italy - Italiano")
-* [The Netherlands - Nederlands](https://www.juniper.net/nl/nl.html "The Netherlands - Nederlands")
-* [Spain - Español](https://www.juniper.net/es/es.html "Spain - Español")
-* [United Kingdom - English](https://www.juniper.net/gb/en.html "United Kingdom - English")
+Data center
+
+WAN
+
+Security
+
+Service provider
+
+Cloud operator
+
+Industries
+
+![Friends group having addicted fun using mobile smart phone - Close up of people hands sharing content on social media network with smartphone - Technology concept with millenials online with cellphone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Friends group having addicted fun using mobile smart phone - Close up of people hands sharing content on social media network with smartphone - Technology concept with millenials online with cellphone")
+
+###### Welcome to the NOW Way to Wi-Fi
+
+Take your networking performance to new heights with a modern, cloud-native, AI-Native architecture. Only Juniper can help you unleash the full potential of Wi-Fi 7 with our AI-Native platform for innovation.
+
+[Prepare for liftoff](https://www.juniper.net/us/en/dm/the-now-way-to-wifi.html)
+
+![Business intelligence analyst dashboard on virtual screen. Big data Graphs Charts.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Business intelligence analyst dashboard on virtual screen. Big data Graphs Charts.")
+
+###### AI Data Center Networking
+
+Juniper’s AI data center solution is a quick way to deploy high performing AI training and inference networks that are the most flexible to design and easiest to manage with limited IT resources.
+
+[Find out more](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure.html)
+
+![Enterprise AI-Native Networking](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Enterprise AI-Native Networking")
+
+###### Enterprise AI‑Native Routing
+
+Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabilities for unmatched performance, reliability, and sustainability at scale.
+
+[Explore enterprise routing](https://www.juniper.net/us/en/solutions/enterprise-routing.html)
+
+* ### AI for networking
+    
+* * [AIOps](https://www.juniper.net/us/en/solutions/artificial-intelligence-for-it-operations-aiops.html)
+    * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
+    * [Wired access](https://www.juniper.net/us/en/solutions/wired-access.html)
+    * [Wireless access](https://www.juniper.net/us/en/solutions/wireless-access.html)
+    * [SD-WAN](https://www.juniper.net/us/en/solutions/sd-wan.html)
+    * [Enterprise routing](https://www.juniper.net/us/en/solutions/enterprise-routing.html)
+    * [Secure automated data center](https://www.juniper.net/us/en/products/network-automation/apstra/apstra-cloud-services.html)
+
+* ### Networking for AI
+    
+* * [AI data center networking](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure.html)
+    * [Ops4AI](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure/ops4ai-lab.html)
+
+* ### Security
+    
+* * [Secure AI-Native edge](https://www.juniper.net/us/en/solutions/secure-ai-native-edge.html)
+    * [Access Assurance (NAC)](https://www.juniper.net/us/en/products/cloud-services/access-assurance.html)
+    * [Security and threat services](https://www.juniper.net/us/en/solutions/threat-detection-and-mitigation.html)
+
+* ### Campus and branch
+    
+* * [AI for IT operations (AIOps)](https://www.juniper.net/us/en/solutions/artificial-intelligence-for-it-operations-aiops.html)
+    * [Wireless access](https://www.juniper.net/us/en/solutions/wireless-access.html)
+    * [Wired access](https://www.juniper.net/us/en/solutions/wired-access.html)
+    * [SD-WAN](https://www.juniper.net/us/en/solutions/sd-wan.html)
+    * [Secure Access Service Edge (SASE)](https://www.juniper.net/us/en/solutions/secure-ai-native-edge/sase.html)
+    * [Indoor location services](https://www.juniper.net/us/en/solutions/indoor-location.html)
+
+* * [Campus and branch overview](https://www.juniper.net/us/en/campus-and-branch.html)
+
+* ### AI data center
+    
+* * [AI data center networking](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure.html)
+    * [Apstra automation](https://www.juniper.net/us/en/products/network-automation/apstra.html)
+    * [Ops for AI](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure/ops4ai-lab.html)
+    * [IP storage networking](https://www.juniper.net/us/en/solutions/data-center/ip-networking-storage.html)
+    * [400G and 800G](https://www.juniper.net/us/en/solutions/400g-and-800g.html)
+
+* * [See all data center solutions](https://www.juniper.net/us/en/solutions/data-center.html)
+    * [Juniper data center validated designs](https://www.juniper.net/documentation/validated-designs/us/en/data-center/)
+
+* ### [Automated secure data center](https://www.juniper.net/us/en/solutions/data-center.html)
+    
+* * [Apstra automation](https://www.juniper.net/us/en/products/network-automation/apstra.html)
+    * [Automated data center fabrics](https://www.juniper.net/us/en/solutions/data-center/network-fabrics.html)
+    * [Cloud-native data center](https://www.juniper.net/us/en/solutions/data-center/cloud-native.html)
+
+* ### Zero Trust data center
+    
+* * [Zero Trust data center](https://www.juniper.net/us/en/solutions/data-center/zero-trust-data-center.html)
+
+* ### Data center interconnect
+    
+* * [Data center interconnect](https://www.juniper.net/us/en/solutions/data-center/data-center-interconnect.html)
+
+![Zero trust security](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Zero trust security")
+
+###### Ops4AI Lab
+
+Visit our lab in Sunnyvale, CA and see our AI data center solution for yourself. You can try out your own model’s functionality and performance, too.
+
+[Vist the lab](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure/ops4ai-lab.html)
+
+* ### WAN
+    
+* * [SD-WAN](https://www.juniper.net/us/en/solutions/sd-wan.html)
+    * [Enterprise routing](https://www.juniper.net/us/en/solutions/enterprise-routing.html)
+    * [Data center interconnect](https://www.juniper.net/us/en/solutions/data-center/data-center-interconnect.html)
+
+![Enterprise AI-Native Networking](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Enterprise AI-Native Networking")
+
+###### Enterprise AI‑Native Routing
+
+Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabilities for unmatched performance, reliability, and sustainability at scale.
+
+[Explore enterprise routing](https://www.juniper.net/us/en/solutions/enterprise-routing.html)
+
+* ### Security
+    
+* * [Secure AI-Native edge](https://www.juniper.net/us/en/solutions/secure-ai-native-edge.html)
+    * [Zero Trust data center](https://www.juniper.net/us/en/solutions/data-center/zero-trust-data-center.html)
+
+* * [Security overview](https://www.juniper.net/us/en/security.html)
+
+* ### WAN
+    
+* * [WAN automation](https://www.juniper.net/us/en/solutions/automation/paragon.html)
+    * [Metro access and aggregation](https://www.juniper.net/us/en/solutions/ip-transport-solution/metro.html)
+    * [Core](https://www.juniper.net/us/en/solutions/ip-transport-solution.html)
+    * [Multi-service edge](https://www.juniper.net/us/en/solutions/ip-transport-solution.html)
+    * [Data center interconnect](https://www.juniper.net/us/en/solutions/data-center/data-center-interconnect.html)
+    * [Converged optical routing architecture (CORA)](https://www.juniper.net/us/en/solutions/converged-optical-routing-architecture-cora.html)
+    * [400G and 800G](https://www.juniper.net/us/en/solutions/400g-and-800g.html)
+    * [Passive optical networking (PON)](https://www.juniper.net/us/en/solutions/pon.html)
+    * [5G networking](https://www.juniper.net/us/en/solutions/5g-networking.html)
+    * [Open RAN](https://www.juniper.net/us/en/solutions/5g-networking/open-ran.html)
+    * [Service provider security](https://www.juniper.net/us/en/solutions/service-provider-security.html)
+
+* ### Data center
+    
+* * [Data center networks](https://www.juniper.net/us/en/solutions/data-center.html)
+    * [Telco and edge cloud](https://www.juniper.net/us/en/solutions/telco-cloud.html)
+    * [400G and 800G](https://www.juniper.net/us/en/solutions/400g-and-800g.html)
+    * [Data center interconnect](https://www.juniper.net/us/en/solutions/data-center/data-center-interconnect.html)
+
+* ### Managed services
+    
+* * [Managed services](https://www.juniper.net/us/en/solutions/managed-services.html)
+    * [Managed SD-WAN](https://www.juniper.net/us/en/solutions/sd-wan/managed-sd-wan.html)
+
+* * [Service provider overview](https://www.juniper.net/us/en/service-provider.html)
+
+* ### Data center
+    
+* * [Data center networking](https://www.juniper.net/us/en/solutions/data-center.html)
+    * [AI data center](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure.html)
+    * [IP storage networking](https://www.juniper.net/us/en/solutions/data-center/ip-networking-storage.html)
+    * [Zero Trust data center](https://www.juniper.net/us/en/solutions/data-center/zero-trust-data-center.html)
+    * [Cloud-native data center](https://www.juniper.net/us/en/solutions/data-center/cloud-native.html)
+    * [400G and 800G](https://www.juniper.net/us/en/solutions/400g-and-800g.html)
+
+* ### WAN
+    
+* * [Data center interconnect](https://www.juniper.net/us/en/solutions/data-center/data-center-interconnect.html)
+    * [WAN automation](https://www.juniper.net/us/en/solutions/automation/paragon.html)
+    * [Cloud routing](https://www.juniper.net/us/en/solutions/cloud-routing.html)
+    * [400G and 800G](https://www.juniper.net/us/en/solutions/400g-and-800g.html)
+    * [Converged optical routing architecture (CORA)](https://www.juniper.net/us/en/solutions/converged-optical-routing-architecture-cora.html)
+
+* * [Cloud operator overview](https://www.juniper.net/us/en/cloud-operator.html)
+    * [Cloud operator validated designs](https://www.juniper.net/documentation/validated-designs/)
+
+* ### [Industries](https://www.juniper.net/us/en/solutions/industries.html)
+    
+* * [Government (federal, state and local)](https://www.juniper.net/us/en/solutions/government.html)
+    * [Education](https://www.juniper.net/us/en/solutions/education.html)
+    * [Healthcare](https://www.juniper.net/us/en/solutions/healthcare.html)
+    * [Retail](https://www.juniper.net/us/en/solutions/retail.html)
+    * [Energy and utilities](https://www.juniper.net/us/en/solutions/energy-utilities.html)
+    * [Media and entertainment](https://www.juniper.net/us/en/solutions/media-and-entertainment.html)
+
+![Handsome Hispanic Student Uses Laptop while Listening to a Lecture at the University, He Raises Hand and Asks Lecturer a Question. Multi Ethnic Group of Modern Bright Students.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Handsome Hispanic Student Uses Laptop while Listening to a Lecture at the University, He Raises Hand and Asks Lecturer a Question. Multi Ethnic Group of Modern Bright Students.")
+
+###### Webinar: Achieving Digital Transformation in Higher Education with AI Networking
+
+Digital transformation is a top priority for Higher Education IT leaders, but the foundation for change is reliable, simplified network connectivity.
+
+[Register now](https://www.juniper.net/us/en/forms/2024/higher-education-summit-september-2024.html)
+
+* [AI-Native Networking Platform](https://www.juniper.net/us/en/ai-native-networking-platform.html)
+* [Juniper Validated Designs (JVD)](https://www.juniper.net/us/en/solutions/blueprint-for-ai-native-acceleration/juniper-validated-designs.html)
+* [See all solutions](https://www.juniper.net/us/en/solutions.html)
+
+### Products
+
+Wireless access
+
+Wired access
+
+SD-WAN / SASE
+
+Routing and switching
+
+Security
+
+Mist AI™
+
+Management software
+
+Network operating system
+
+Blueprint for AI-Native Acceleration
+
+Optics
+
+* ### [Wireless access points](https://www.juniper.net/us/en/products/access-points.html)
+    
+* * [Wi-Fi 7](https://www.juniper.net/us/en/products/access-points.html?filters=wi-fi-standard:wi-fi-7-(802-11be))
+    * [Wi-Fi 6E and Wi-Fi 6](https://www.juniper.net/us/en/products/access-points.html?filters=wi-fi-standard:wi-fi-6-(-802-11ax))
+    * [Bluetooth LE](https://www.juniper.net/us/en/products/access-points/bt11-access-point.html)
+    * [On-prem Edge](https://www.juniper.net/us/en/products/access-points/edge.html)
+
+* ### Services
+    
+* * [Wireless Assurance (Wi-Fi)](https://www.juniper.net/us/en/products/cloud-services/wi-fi-assurance.html)
+    * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
+    * [Asset Visibility (Indoor Location)](https://www.juniper.net/us/en/products/cloud-services/asset-visibility.html)
+    * [User Engagement (Indoor Location)](https://www.juniper.net/us/en/products/cloud-services/user-engagement.html)
+    * [Premium Analytics](https://www.juniper.net/us/en/products/cloud-services/premium-analytics.html)
+    * [Access Assurance (NAC)](https://www.juniper.net/us/en/products/cloud-services/access-assurance.html)
+
+* ### Switches
+    
+* * [EX enterprise](https://www.juniper.net/us/en/products/switches/ex-series.html)
+
+* ### Services
+    
+* * [Wired Assurance](https://www.juniper.net/us/en/products/cloud-services/wired-assurance.html)
+    * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
+    * [Premium Analytics](https://www.juniper.net/us/en/products/cloud-services/premium-analytics.html)
+    * [Access Assurance (NAC)](https://www.juniper.net/us/en/products/cloud-services/access-assurance.html)
+
+* ### SD-WAN
+    
+* * [Session Smart Routers](https://www.juniper.net/us/en/products/routers/session-smart-router.html)
+    * [Next-generation firewalls](https://www.juniper.net/us/en/products/security/srx-series.html?filters=location:branch)
+
+* ### Edge security
+    
+* * [Secure Services Edge (SSE)](https://www.juniper.net/us/en/products/security/secure-edge.html)
+    * [Secure Connect](https://www.juniper.net/us/en/products/security/juniper-secure-connect.html)
+
+* ### Services
+    
+* * [WAN Assurance](https://www.juniper.net/us/en/products/cloud-services/wan-assurance.html)
+    * [Security Assurance](https://www.juniper.net/us/en/products/cloud-services/wan-assurance.html)
+    * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
+    * [Premium Analytics](https://www.juniper.net/us/en/products/cloud-services/premium-analytics.html)
+
+* ### [Routers](https://www.juniper.net/us/en/products/routers.html)
+    
+* * [ACX access and aggregation](https://www.juniper.net/us/en/products/routers/acx-series.html)
+    * [MX multi-service](https://www.juniper.net/us/en/products/routers/mx-series.html)
+    * [PTX packet transport](https://www.juniper.net/us/en/products/routers/ptx-series.html)
+
+* ### [Switches](https://www.juniper.net/us/en/products/switches.html)
+    
+* * [EX enterprise](https://www.juniper.net/us/en/products/switches/ex-series.html)
+    * [QFX data center](https://www.juniper.net/us/en/products/switches/qfx-series.html)
+
+* ### Operations
+    
+
+* ### Data center automation
+    
+* * [Apstra Intent-Based Networking](https://www.juniper.net/us/en/products/network-automation/apstra.html)
+    * [Data center cloud services](https://www.juniper.net/us/en/products/network-automation/apstra/apstra-cloud-services.html)
+
+* ### WAN automation
+    
+* * [Edge Routing Assurance](https://www.juniper.net/us/en/products/cloud-services/routing-assurance.html)
+    * [Paragon Automation](https://www.juniper.net/us/en/products/network-automation/paragon-automation.html)
+    * [Paragon Active Assurance](https://www.juniper.net/us/en/products/network-automation/paragon-active-assurance.html)
+    * [Paragon Planner](https://www.juniper.net/us/en/products/network-automation/paragon-planner.html)
+    * [Paragon Insights](https://www.juniper.net/us/en/products/network-automation/paragon-insights.html)
+    * [Paragon Pathfinder](https://www.juniper.net/us/en/products/network-automation/paragon-pathfinder.html)
+    * [RAN Intelligent Controller](https://www.juniper.net/us/en/products/network-automation/ran-intelligent-controller.html)
+
+* ### Firewalls
+    
+* * [SRX next-generation firewalls](https://www.juniper.net/us/en/products/security/srx-series.html)
+
+* ### Edge security
+    
+* * [Secure Services Edge (SSE)](https://www.juniper.net/us/en/products/security/secure-edge.html)
+    * [Secure Connect](https://www.juniper.net/us/en/products/security/juniper-secure-connect.html)
+
+* ### Network access control (NAC)
+    
+* * [Access Assurance](https://www.juniper.net/us/en/products/cloud-services/access-assurance.html)
+
+* ### Security management and services
+    
+* * [Security Director](https://www.juniper.net/us/en/products/security/security-director-network-security-management.html)
+    * [Security Assurance](https://www.juniper.net/us/en/products/cloud-services/wan-assurance.html)
+    * [Advanced Threat Protection](https://www.juniper.net/us/en/products/security/advanced-threat-prevention.html)
+    * [SecIntel (ATP)](https://www.juniper.net/us/en/products/security/secintel-threat-intelligence.html)
+
+* * [See all security products](https://www.juniper.net/us/en/products/security.html)
+    * [See security validated designs](https://www.juniper.net/documentation/validated-designs/us/en/security/)
+
+* ### Mist AI™
+    
+* * [Cloud subscription services](https://www.juniper.net/us/en/products/cloud-services.html)
+    * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
+    * [See all Mist AI products](https://www.juniper.net/us/en/products/mist-ai.html)
+
+* ### Learn more
+    
+* * [Explainable AI](https://www.juniper.net/us/en/dm/explainable-ai.html)
+
+![Bob Friday and Jessica Garrison speaking](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bob Friday and Jessica Garrison speaking")
+
+###### Bob Friday Talks
+
+Join Bob as he ventures into all the knowns -- and -- unknowns -- of AI.
+
+[Catch the latest episode](https://www.juniper.net/us/en/legal-notices/content/juniper/en/us/executive-insights/bob-friday)
+
+* ### [Campus and branch](https://www.juniper.net/us/en/campus-and-branch.html)
+    
+* * [Wireless Assurance (Wi-Fi)](https://www.juniper.net/us/en/products/cloud-services/wi-fi-assurance.html)
+    * [Wired Assurance](https://www.juniper.net/us/en/products/cloud-services/wired-assurance.html)
+    * [WAN Assurance](https://www.juniper.net/us/en/products/cloud-services/wan-assurance.html)
+    * [Access Assurance (NAC)](https://www.juniper.net/us/en/products/cloud-services/access-assurance.html)
+    * [Premium Analytics](https://www.juniper.net/us/en/products/cloud-services/premium-analytics.html)
+    * [Asset Visibility (Indoor Location)](https://www.juniper.net/us/en/products/cloud-services/asset-visibility.html)
+    * [User Engagement (Indoor Location)](https://www.juniper.net/us/en/products/cloud-services/user-engagement.html)
+    * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
+
+* ### Data center
+    
+* * [Apstra Intent-Based Networking](https://www.juniper.net/us/en/products/network-automation/apstra.html)
+    * [Data center cloud services](https://www.juniper.net/us/en/products/network-automation/apstra/apstra-cloud-services.html)
+    * [Marvis VNA for Data Center](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant/marvis-vna-for-data-center.html)
+
+* ### WAN
+    
+* * [Routing Assurance](https://www.juniper.net/us/en/products/cloud-services/routing-assurance.html)
+    * [Paragon Automation](https://www.juniper.net/us/en/products/network-automation/paragon-automation.html)
+    * [Paragon Active Assurance](https://www.juniper.net/us/en/products/network-automation/paragon-active-assurance.html)
+    * [Paragon Planner](https://www.juniper.net/us/en/products/network-automation/paragon-planner.html)
+    * [Paragon Insights](https://www.juniper.net/us/en/products/network-automation/paragon-insights.html)
+    * [Paragon Pathfinder](https://www.juniper.net/us/en/products/network-automation/paragon-pathfinder.html)
+    * [RAN Intelligent Controller](https://www.juniper.net/us/en/products/network-automation/ran-intelligent-controller.html)
+    * [Marvis VNA for Routing](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
+
+* ### Security
+    
+* * [Security Director](https://www.juniper.net/us/en/products/security/security-director-network-security-management.html)
+    * [Security Assurance](https://www.juniper.net/us/en/products/cloud-services/wan-assurance.html)
+
+* ### [Network operating system](https://www.juniper.net/us/en/products/network-operating-system.html)
+    
+* * [Junos OS](https://www.juniper.net/us/en/products/network-operating-system/junos-os.html)
+    * [Junos OS Evolved](https://www.juniper.net/us/en/products/network-operating-system/junos-evolved.html)
+
+* ### Learn
+    
+* * [Free training](https://www.juniper.net/us/en/solutions/blueprint-for-ai-native-acceleration.html)
+    * [Training and certification](https://www.juniper.net/us/en/training.html)
+
+* ### Try
+    
+* * [AI on us](https://www.juniper.net/us/en/forms/juniper-mist-ai-on-us.html)
+    * [Free AP](https://www.juniper.net/us/en/forms/free-gear.html)
+    * [WAN 2x](https://www.juniper.net/us/en/forms/2024/juniper-wan2x-incentive-program.html)
+    * [Security buy 1 get 2](https://www.juniper.net/us/en/forms/2024/security-buy-1-get-2-years-free-subscription.html)
+
+* ### Buy
+    
+* * [Enterprise Agreements](https://www.juniper.net/us/en/solutions/enterprise-agreements.html)
+    * [Networking as a Service (NaaS)](https://www.juniper.net/us/en/solutions/naas-network-as-a-service.html)
+    * [Cloud marketplace](https://www.juniper.net/us/en/solutions/public-cloud-partnership.html)
+
+* ### Deploy and optimize
+    
+* * [Juniper Validated Designs (JVD)](https://www.juniper.net/us/en/solutions/blueprint-for-ai-native-acceleration/juniper-validated-designs.html)
+    * [Support Insights](https://www.juniper.net/us/en/services/support-services/support-insights.html)
+    * [AI Care Services](https://www.juniper.net/us/en/the-feed/topics/operations/proactive-network-support-with-juniper-ai-care-services.html)
+
+* * [Blueprint for AI-Native Acceleration](https://www.juniper.net/us/en/solutions/blueprint-for-ai-native-acceleration.html)
+
+* ### [Optics](https://www.juniper.net/us/en/products/pluggable-optics.html)
+    
+* * [Coherent optics](https://www.juniper.net/us/en/products/pluggable-optics/jco-series.html)
+    * [Qualified optics](https://www.juniper.net/us/en/products/pluggable-optics/qualified-optics.html)
+    * [Application-specific pluggables](https://www.juniper.net/us/en/products/pluggable-optics/application-specific-pluggables.html)
+    * [Optical and electrical cables](https://www.juniper.net/us/en/products/pluggable-optics/optical-and-electrical-cables.html)
+
+* [AI-Native Networking Platform](https://www.juniper.net/us/en/ai-native-networking-platform.html)
+* [Trial and demos](https://www.juniper.net/us/en/try.html)
+* [All products A-Z](https://www.juniper.net/us/en/products/products-a-to-z.html)
+
+### Partners
+
+Partners
+
+* ### Our partners
+    
+* * [Find a partner](https://juniper.my.site.com/prm/s/partnerlocator)
+    * [Find a distributor](https://juniper.my.site.com/prm/s/distributorlocator)
+    * [Find a services partner](https://www.juniper.net/content/dam/www/assets/additional-resources/us/en/worldwide-listing-jpa-services-partners.pdf)
+    * [Public cloud partnerships](https://www.juniper.net/us/en/solutions/public-cloud-partnership.html)
+    * [Strategic alliances](https://www.juniper.net/us/en/partners/strategic-alliances.html)
+    * [Solution partners](https://www.juniper.net/us/en/partners/solution-partners.html)
+    * [Technology alliances](https://www.juniper.net/us/en/partners/technology-alliances.html)
+
+* ### Become a partner
+    
+* * [Partner program overview](https://www.juniper.net/us/en/partners.html)
+    * [Partner application](https://juniper.my.site.com/prm/s/onboarding)
+
+* ### Enrolled partner
+    
+* * [Partner log in](https://partners.juniper.net/partnercenter/index.page)
+    * [Learning Academy](https://jpartnertraining.juniper.net/)
+    * [Juniper Champions](https://content.juniper.net/champions)
+
+### Support and Documentation
+
+Support and Documentation
+
+* ### Documentation
+    
+* * [Product documentation](https://www.juniper.net/documentation/)
+    * [Mist documentation](https://www.juniper.net/documentation/product/us/en/mist/)
+    * [Quick starts](https://www.juniper.net/documentation/quickstart/us/en/quick-start/)
+    * [Product and feature data (Pathfinder)](https://apps.juniper.net/home/)
+    * [Knowledge Base](https://supportportal.juniper.net/s/knowledge?language=en_US)
+    * [Search for a Problem Report](https://prsearch.juniper.net/InfoCenter/index?page=prsearch)
+
+* ### Downloads
+    
+* * [EX Series](https://support.juniper.net/support/downloads/?f=ex)
+    * [SRX Series](https://support.juniper.net/support/downloads/?f=srx)
+    * [MX Series](https://support.juniper.net/support/downloads/?f=mx)
+    * [QFX Series](https://support.juniper.net/support/downloads/?f=qfx)
+    * [ACX Series](https://support.juniper.net/support/downloads/?f=acx)
+    * [See all software downloads](https://support.juniper.net/support/downloads/)
+
+* ### Tools and resources
+    
+* * [Juniper support](https://support.juniper.net/support/)
+    * [Elevate community](https://community.juniper.net/home)
+    * [Juniper Threat Labs](https://threatlabs.juniper.net/home/#/)
+    * [Security intelligence](https://threatlabs.juniper.net/home/search/#/list/ips?page_number=1&page_size=20)
+    * [Product license keys](https://license.juniper.net/licensemanage/)
+    * [Serial number entitlement search](https://supportportal.juniper.net/s/serial-number-entitlement)
+    * [Report a vulnerability](https://www.juniper.net/us/en/report-a-security-vulnerability.html)
+    * [Contact Support](https://support.juniper.net/support/requesting-support/)
+
+* ### Juniper Support Portal
+    
+* * [Log in](https://supportportal.juniper.net/s/?language=en_US)
+
+![Business professional holding a tablet with digital screen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Business professional holding a tablet with digital screen")
+
+###### The Juniper Support Portal (JSP) mobile app is now available!
+
+Get Juniper support anytime, anywhere with the JSP mobile application, now available for Android and iOS!
+
+[Download now](https://supportportal.juniper.net/s/article/Juniper-Support-Portal-Mobile-Application-Release-Notes?language=en_US)
+
+* [End of Life (EoL)](https://support.juniper.net/support/eol/)
+
+### Learn
+
+About Juniper
+
+Training
+
+Events
+
+The Feed
+
+Resources
+
+Technology learning topics
+
+Thought leadership and insights
+
+* ### Company
+    
+* * [About us](https://www.juniper.net/us/en/company.html)
+    * [Company profile](https://www.juniper.net/us/en/company/profile.html)
+    * [Leadership](https://www.juniper.net/us/en/company/leadership.html)
+    * [Newsroom](https://newsroom.juniper.net/overview/default.aspx)
+    * [Awards and recognition](https://www.juniper.net/us/en/company/awards-and-industry-recognition.html)
+    * [Our sustainable future](https://www.juniper.net/us/en/company/climate-change-and-sustainability.html)
+    * [Corporate social responsibility](https://www.juniper.net/us/en/company/corporate-responsibility.html)
+    * [Juniper innovations](https://www.juniper.net/us/en/company/juniper-innovations.html)
+    * [Executive Briefing Program](https://www.juniper.net/us/en/company/executive-briefing.html)
+
+* ### Careers
+    
+* * [Current job openings](https://jobs.juniper.net/careers)
+    * [Company culture and careers](https://www.juniper.net/us/en/company/culture-careers.html)
+    * [Inclusion and diversity](https://www.juniper.net/us/en/company/inclusion-diversity.html)
+    * [Our values](https://www.juniper.net/us/en/company/culture-careers/values.html)
+
+* ### Media and analyst relations
+    
+* * [Global media contacts](https://www.juniper.net/us/en/company/contact-us/media.html)
+    * [Industry analyst and influencer relations](https://www.juniper.net/us/en/company/analyst-relations.html)
+    * [Investor relations](https://investor.juniper.net/investor-relations/default.aspx)
+
+* ### Training
+    
+* * [Training overview](https://www.juniper.net/us/en/training.html)
+    * [Schedule of live classes](https://learningportal.juniper.net/juniper/schedule_classes.aspx?&TrackId=jnet-nav)
+    * [On-demand courses](https://learningportal.juniper.net/juniper/user_activity_search.aspx?search=On-Demand&taxonomyList=%23M02%2C%23T01&TrackId=jnet-nav)
+    * [Free training](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=JUNIPER-OPEN-LEARNING&TrackId=jnet-nav)
+    * [All courses](https://learningportal.juniper.net/juniper/user_activity_search.aspx?search=course&taxonomyList=%23M01%2C%23M02%2C%23T01&TrackId=jnet-nav)
+    * [Payment options](https://www.juniper.net/us/en/training/purchase-options.html)
+    * [Learning Portal](https://learningportal.juniper.net/juniper/default.aspx?&TrackId=jnet-nav)
+
+* ### Certification
+    
+* * [Juniper certification](https://www.juniper.net/us/en/training/certification.html)
+    * [Certification tracks](https://www.juniper.net/us/en/training/certification.html)
+    * [Certification resources](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=JUNIPER-CERTIFICATION-PROGRAM-HOME&TrackId=jnet-nav)
+    * [Exam registration](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=JUNIPER-CERTIFICATION-PROGRAM-HOME&TrackId=jnet-nav)
+    * [Recertification](https://www.juniper.net/us/en/training/certification/recertification.html)
+    * [Manage my certifications](https://cp.certmetrics.com/juniper/en/login)
+
+![Audience raising hands up while businessman is speaking in training at the office.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Audience raising hands up while businessman is speaking in training at the office.")
+
+###### Juniper certification and training news
+
+[See the latest](https://www.juniper.net/us/en/training/news.html)
+
+![Ringing of the bell](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ringing of the bell")
+
+###### All global events
+
+[See the latest](https://www.juniper.net/us/en/events.html)
+
+![AI-native-now](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "AI-native-now")
+
+###### AI-Native NOW event series
+
+[Register now](https://www.juniper.net/us/en/events/ai-native-now.html)
+
+* ### Videos
+    
+* * [The Feed](https://www.juniper.net/us/en/the-feed.html)
+    * [Browse by topic](https://www.juniper.net/us/en/the-feed/topics.html)
+    * [Video series](https://www.juniper.net/us/en/the-feed/series.html)
+    * [Leadership voices](https://www.juniper.net/us/en/the-feed/series/leadership-voices.html)
+
+* ### Podcasts
+    
+* * [Channel chats](https://www.juniper.net/us/en/the-feed/series/channel-chats.html)
+    * [Be bold](https://www.juniper.net/us/en/the-feed/series/be-bold.html)
+
+![Juniper's Christina Hendrix at the head of a conference table. With the text "The NOW Way to Network" overlayed, with "NOW" emphasizing the "O" in green color.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Glowing")
+
+###### The NOW Way to Network
+
+[Watch the video series](https://www.juniper.net/us/en/the-feed/series/the-now-way-to-network.html)
+
+* ### Customers
+    
+* * [Customer success stories](https://www.juniper.net/us/en/customers.html)
+    * [Getting started](https://www.juniper.net/us/en/customers/welcome.html)
+    * [Create a Juniper account](https://userregistration.juniper.net/)
+    * [Activate licenses](https://license.juniper.net/licensemanage/)
+    * [Customer advocacy program](https://www.juniper.net/us/en/forms/participate-in-our-elevate-program.html)
+
+* ### Documentation
+    
+* * [Product documentation](https://www.juniper.net/documentation/)
+    * [Mist documentation](https://www.juniper.net/documentation/product/us/en/mist/)
+    * [Quick starts](https://www.juniper.net/documentation/quickstart/us/en/quick-start/)
+    * [Juniper Validated Designs (JVD)](https://www.juniper.net/documentation/validated-designs/)
+    * [Product and feature data (Pathfinder)](https://apps.juniper.net/home/)
+    * [Knowledge Base](https://supportportal.juniper.net/s/knowledge?language=en_US)
+    * [Search for a Problem Report](https://prsearch.juniper.net/InfoCenter/index?page=prsearch)
+
+* ### Popular resources
+    
+* * [Software downloads](https://support.juniper.net/support/downloads/)
+    * [Blogs](https://blogs.juniper.net/)
+    * [Elevate community](https://community.juniper.net/home)
+    * [Juniper Threat Labs](https://threatlabs.juniper.net/home/#/)
+
+* ### AI
+    
+* * [What is AI-Native Networking?](https://www.juniper.net/us/en/research-topics/what-is-ai-native-networking.html)
+    * [What is AI for networking?](https://www.juniper.net/us/en/research-topics/what-is-ai-for-networking.html)
+    * [What is AIOps?](https://www.juniper.net/us/en/research-topics/what-is-aiops.html)
+    * [What is AI data center networking?](https://www.juniper.net/us/en/research-topics/what-is-ai-data-center-networking.html)
+    * [What is explainable AI (XAI)?](https://www.juniper.net/us/en/research-topics/what-is-explainable-ai-xai.html)
+
+* ### Data center
+    
+* * [What is AI data center networking?](https://www.juniper.net/us/en/research-topics/what-is-ai-data-center-networking.html)
+    * [What is a data center network?](https://www.juniper.net/us/en/research-topics/what-is-a-data-center-network.html)
+    * [What is data center fabric?](https://www.juniper.net/us/en/research-topics/what-is-data-center-fabric.html)
+    * [What is intent-based networking?](https://www.juniper.net/us/en/research-topics/what-is-intent-based-networking.html)
+    * [What is 400G?](https://www.juniper.net/us/en/research-topics/what-is-400g.html)
+
+* ### Network routing and switching
+    
+* * [What is a router?](https://www.juniper.net/us/en/research-topics/what-is-a-router.html)
+    * [What is a network switch?](https://www.juniper.net/us/en/research-topics/what-is-a-network-switch.html)
+
+* ### SD-WAN / SASE
+    
+* * [What is SD-WAN?](https://www.juniper.net/us/en/research-topics/what-is-sd-wan.html)
+    * [SD-WAN explained](https://www.juniper.net/us/en/research-topics/sd-wan-explained.html)
+    * [What is SASE?](https://www.juniper.net/us/en/research-topics/what-is-sase.html)
+
+* ### Security
+    
+* * [What is advanced threat prevention?](https://www.juniper.net/us/en/research-topics/what-is-advanced-threat-prevention.html)
+    * [What is IDS and IPS?](https://www.juniper.net/us/en/research-topics/what-is-ids-ips.html)
+
+* ### Wireless
+    
+* * [What is an access point in networking?](https://www.juniper.net/us/en/research-topics/what-is-an-access-point-in-networking.html)
+    * [Wi-Fi explained](https://www.juniper.net/us/en/research-topics/wifi-explained.html)
+    * [What is Wi-Fi 7?](https://www.juniper.net/us/en/research-topics/what-is-wi-fi-7.html)
+    * [What is Wi-Fi 6E?](https://www.juniper.net/us/en/research-topics/what-is-wi-fi-6e.html)
+    * [What is Wi-Fi 6?](https://www.juniper.net/us/en/research-topics/what-is-wi-fi-6.html)
+
+* * [See all learning topics](https://www.juniper.net/us/en/research-topics.html)
+
+![AI Native Now](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "AI Native Now")
+
+###### Executive insights
+
+Dive deep with leading experts and thought leaders on all the topics that matter most to your business, from AI to network security to driving rapid, relevant transformation for your business.
+
+[Learn more](https://www.juniper.net/us/en/executive-insights.html)
+
+![A keynote speaker giving a presentation at a conference. There are dozens of people sitting around them. The presentation is displayed via projector on all the walls in the room.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "A keynote speaker giving a presentation at a conference. There are dozens of people sitting around them. The presentation is displayed via projector on all the walls in the room.")
+
+###### Leadership voices
+
+Juniper Networks’ leaders operate on the front lines of creating the network of the future. Take a look around to see what’s on their minds.
+
+[Watch now](https://www.juniper.net/us/en/the-feed/series/leadership-voices.html)
+
+* Solutions
+* Products
+* [Services](https://www.juniper.net/us/en/services.html)
+* Partners
+* Support and Documentation
+* Learn
+
+Back
+
+Solutions
+
+Featured solutions
+
+AI
+
+Campus and branch
+
+Data center
+
+WAN
+
+Security
+
+Service provider
+
+Cloud operator
+
+Industries
+
+![Friends group having addicted fun using mobile smart phone - Close up of people hands sharing content on social media network with smartphone - Technology concept with millenials online with cellphone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Friends group having addicted fun using mobile smart phone - Close up of people hands sharing content on social media network with smartphone - Technology concept with millenials online with cellphone")
+
+###### Welcome to the NOW Way to Wi-Fi
+
+Take your networking performance to new heights with a modern, cloud-native, AI-Native architecture. Only Juniper can help you unleash the full potential of Wi-Fi 7 with our AI-Native platform for innovation.
+
+[Prepare for liftoff](https://www.juniper.net/us/en/dm/the-now-way-to-wifi.html)
+
+![Business intelligence analyst dashboard on virtual screen. Big data Graphs Charts.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Business intelligence analyst dashboard on virtual screen. Big data Graphs Charts.")
+
+###### AI Data Center Networking
+
+Juniper’s AI data center solution is a quick way to deploy high performing AI training and inference networks that are the most flexible to design and easiest to manage with limited IT resources.
+
+[Find out more](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure.html)
+
+![Enterprise AI-Native Networking](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Enterprise AI-Native Networking")
+
+###### Enterprise AI‑Native Routing
+
+Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabilities for unmatched performance, reliability, and sustainability at scale.
+
+[Explore enterprise routing](https://www.juniper.net/us/en/solutions/enterprise-routing.html)
+
+* ### AI for networking
+    
+* * [AIOps](https://www.juniper.net/us/en/solutions/artificial-intelligence-for-it-operations-aiops.html)
+    * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
+    * [Wired access](https://www.juniper.net/us/en/solutions/wired-access.html)
+    * [Wireless access](https://www.juniper.net/us/en/solutions/wireless-access.html)
+    * [SD-WAN](https://www.juniper.net/us/en/solutions/sd-wan.html)
+    * [Enterprise routing](https://www.juniper.net/us/en/solutions/enterprise-routing.html)
+    * [Secure automated data center](https://www.juniper.net/us/en/products/network-automation/apstra/apstra-cloud-services.html)
+
+* ### Networking for AI
+    
+* * [AI data center networking](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure.html)
+    * [Ops4AI](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure/ops4ai-lab.html)
+
+* ### Security
+    
+* * [Secure AI-Native edge](https://www.juniper.net/us/en/solutions/secure-ai-native-edge.html)
+    * [Access Assurance (NAC)](https://www.juniper.net/us/en/products/cloud-services/access-assurance.html)
+    * [Security and threat services](https://www.juniper.net/us/en/solutions/threat-detection-and-mitigation.html)
+
+* ### Campus and branch
+    
+* * [AI for IT operations (AIOps)](https://www.juniper.net/us/en/solutions/artificial-intelligence-for-it-operations-aiops.html)
+    * [Wireless access](https://www.juniper.net/us/en/solutions/wireless-access.html)
+    * [Wired access](https://www.juniper.net/us/en/solutions/wired-access.html)
+    * [SD-WAN](https://www.juniper.net/us/en/solutions/sd-wan.html)
+    * [Secure Access Service Edge (SASE)](https://www.juniper.net/us/en/solutions/secure-ai-native-edge/sase.html)
+    * [Indoor location services](https://www.juniper.net/us/en/solutions/indoor-location.html)
+
+* * [Campus and branch overview](https://www.juniper.net/us/en/campus-and-branch.html)
+
+* ### AI data center
+    
+* * [AI data center networking](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure.html)
+    * [Apstra automation](https://www.juniper.net/us/en/products/network-automation/apstra.html)
+    * [Ops for AI](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure/ops4ai-lab.html)
+    * [IP storage networking](https://www.juniper.net/us/en/solutions/data-center/ip-networking-storage.html)
+    * [400G and 800G](https://www.juniper.net/us/en/solutions/400g-and-800g.html)
+
+* * [See all data center solutions](https://www.juniper.net/us/en/solutions/data-center.html)
+    * [Juniper data center validated designs](https://www.juniper.net/documentation/validated-designs/us/en/data-center/)
+
+* ### [Automated secure data center](https://www.juniper.net/us/en/solutions/data-center.html)
+    
+* * [Apstra automation](https://www.juniper.net/us/en/products/network-automation/apstra.html)
+    * [Automated data center fabrics](https://www.juniper.net/us/en/solutions/data-center/network-fabrics.html)
+    * [Cloud-native data center](https://www.juniper.net/us/en/solutions/data-center/cloud-native.html)
+
+* ### Zero Trust data center
+    
+* * [Zero Trust data center](https://www.juniper.net/us/en/solutions/data-center/zero-trust-data-center.html)
+
+* ### Data center interconnect
+    
+* * [Data center interconnect](https://www.juniper.net/us/en/solutions/data-center/data-center-interconnect.html)
+
+![Zero trust security](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Zero trust security")
+
+###### Ops4AI Lab
+
+Visit our lab in Sunnyvale, CA and see our AI data center solution for yourself. You can try out your own model’s functionality and performance, too.
+
+[Vist the lab](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure/ops4ai-lab.html)
+
+* ### WAN
+    
+* * [SD-WAN](https://www.juniper.net/us/en/solutions/sd-wan.html)
+    * [Enterprise routing](https://www.juniper.net/us/en/solutions/enterprise-routing.html)
+    * [Data center interconnect](https://www.juniper.net/us/en/solutions/data-center/data-center-interconnect.html)
+
+![Enterprise AI-Native Networking](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Enterprise AI-Native Networking")
+
+###### Enterprise AI‑Native Routing
+
+Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabilities for unmatched performance, reliability, and sustainability at scale.
+
+[Explore enterprise routing](https://www.juniper.net/us/en/solutions/enterprise-routing.html)
+
+* ### Security
+    
+* * [Secure AI-Native edge](https://www.juniper.net/us/en/solutions/secure-ai-native-edge.html)
+    * [Zero Trust data center](https://www.juniper.net/us/en/solutions/data-center/zero-trust-data-center.html)
+
+* * [Security overview](https://www.juniper.net/us/en/security.html)
+
+* ### WAN
+    
+* * [WAN automation](https://www.juniper.net/us/en/solutions/automation/paragon.html)
+    * [Metro access and aggregation](https://www.juniper.net/us/en/solutions/ip-transport-solution/metro.html)
+    * [Core](https://www.juniper.net/us/en/solutions/ip-transport-solution.html)
+    * [Multi-service edge](https://www.juniper.net/us/en/solutions/ip-transport-solution.html)
+    * [Data center interconnect](https://www.juniper.net/us/en/solutions/data-center/data-center-interconnect.html)
+    * [Converged optical routing architecture (CORA)](https://www.juniper.net/us/en/solutions/converged-optical-routing-architecture-cora.html)
+    * [400G and 800G](https://www.juniper.net/us/en/solutions/400g-and-800g.html)
+    * [Passive optical networking (PON)](https://www.juniper.net/us/en/solutions/pon.html)
+    * [5G networking](https://www.juniper.net/us/en/solutions/5g-networking.html)
+    * [Open RAN](https://www.juniper.net/us/en/solutions/5g-networking/open-ran.html)
+    * [Service provider security](https://www.juniper.net/us/en/solutions/service-provider-security.html)
+
+* ### Data center
+    
+* * [Data center networks](https://www.juniper.net/us/en/solutions/data-center.html)
+    * [Telco and edge cloud](https://www.juniper.net/us/en/solutions/telco-cloud.html)
+    * [400G and 800G](https://www.juniper.net/us/en/solutions/400g-and-800g.html)
+    * [Data center interconnect](https://www.juniper.net/us/en/solutions/data-center/data-center-interconnect.html)
+
+* ### Managed services
+    
+* * [Managed services](https://www.juniper.net/us/en/solutions/managed-services.html)
+    * [Managed SD-WAN](https://www.juniper.net/us/en/solutions/sd-wan/managed-sd-wan.html)
+
+* * [Service provider overview](https://www.juniper.net/us/en/service-provider.html)
+
+* ### Data center
+    
+* * [Data center networking](https://www.juniper.net/us/en/solutions/data-center.html)
+    * [AI data center](https://www.juniper.net/us/en/solutions/data-center/ai-infrastructure.html)
+    * [IP storage networking](https://www.juniper.net/us/en/solutions/data-center/ip-networking-storage.html)
+    * [Zero Trust data center](https://www.juniper.net/us/en/solutions/data-center/zero-trust-data-center.html)
+    * [Cloud-native data center](https://www.juniper.net/us/en/solutions/data-center/cloud-native.html)
+    * [400G and 800G](https://www.juniper.net/us/en/solutions/400g-and-800g.html)
+
+* ### WAN
+    
+* * [Data center interconnect](https://www.juniper.net/us/en/solutions/data-center/data-center-interconnect.html)
+    * [WAN automation](https://www.juniper.net/us/en/solutions/automation/paragon.html)
+    * [Cloud routing](https://www.juniper.net/us/en/solutions/cloud-routing.html)
+    * [400G and 800G](https://www.juniper.net/us/en/solutions/400g-and-800g.html)
+    * [Converged optical routing architecture (CORA)](https://www.juniper.net/us/en/solutions/converged-optical-routing-architecture-cora.html)
+
+* * [Cloud operator overview](https://www.juniper.net/us/en/cloud-operator.html)
+    * [Cloud operator validated designs](https://www.juniper.net/documentation/validated-designs/)
+
+* ### [Industries](https://www.juniper.net/us/en/solutions/industries.html)
+    
+* * [Government (federal, state and local)](https://www.juniper.net/us/en/solutions/government.html)
+    * [Education](https://www.juniper.net/us/en/solutions/education.html)
+    * [Healthcare](https://www.juniper.net/us/en/solutions/healthcare.html)
+    * [Retail](https://www.juniper.net/us/en/solutions/retail.html)
+    * [Energy and utilities](https://www.juniper.net/us/en/solutions/energy-utilities.html)
+    * [Media and entertainment](https://www.juniper.net/us/en/solutions/media-and-entertainment.html)
+
+![Handsome Hispanic Student Uses Laptop while Listening to a Lecture at the University, He Raises Hand and Asks Lecturer a Question. Multi Ethnic Group of Modern Bright Students.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Handsome Hispanic Student Uses Laptop while Listening to a Lecture at the University, He Raises Hand and Asks Lecturer a Question. Multi Ethnic Group of Modern Bright Students.")
+
+###### Webinar: Achieving Digital Transformation in Higher Education with AI Networking
+
+Digital transformation is a top priority for Higher Education IT leaders, but the foundation for change is reliable, simplified network connectivity.
+
+[Register now](https://www.juniper.net/us/en/forms/2024/higher-education-summit-september-2024.html)
+
+* [AI-Native Networking Platform](https://www.juniper.net/us/en/ai-native-networking-platform.html)
+* [Juniper Validated Designs (JVD)](https://www.juniper.net/us/en/solutions/blueprint-for-ai-native-acceleration/juniper-validated-designs.html)
+* [See all solutions](https://www.juniper.net/us/en/solutions.html)
+
+Back
+
+Products
+
+Wireless access
+
+Wired access
+
+SD-WAN / SASE
+
+Routing and switching
+
+Security
+
+Mist AI™
+
+Management software
+
+Network operating system
+
+Blueprint for AI-Native Acceleration
+
+Optics
+
+* ### [Wireless access points](https://www.juniper.net/us/en/products/access-points.html)
+    
+* * [Wi-Fi 7](https://www.juniper.net/us/en/products/access-points.html?filters=wi-fi-standard:wi-fi-7-(802-11be))
+    * [Wi-Fi 6E and Wi-Fi 6](https://www.juniper.net/us/en/products/access-points.html?filters=wi-fi-standard:wi-fi-6-(-802-11ax))
+    * [Bluetooth LE](https://www.juniper.net/us/en/products/access-points/bt11-access-point.html)
+    * [On-prem Edge](https://www.juniper.net/us/en/products/access-points/edge.html)
+
+* ### Services
+    
+* * [Wireless Assurance (Wi-Fi)](https://www.juniper.net/us/en/products/cloud-services/wi-fi-assurance.html)
+    * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
+    * [Asset Visibility (Indoor Location)](https://www.juniper.net/us/en/products/cloud-services/asset-visibility.html)
+    * [User Engagement (Indoor Location)](https://www.juniper.net/us/en/products/cloud-services/user-engagement.html)
+    * [Premium Analytics](https://www.juniper.net/us/en/products/cloud-services/premium-analytics.html)
+    * [Access Assurance (NAC)](https://www.juniper.net/us/en/products/cloud-services/access-assurance.html)
+
+* ### Switches
+    
+* * [EX enterprise](https://www.juniper.net/us/en/products/switches/ex-series.html)
+
+* ### Services
+    
+* * [Wired Assurance](https://www.juniper.net/us/en/products/cloud-services/wired-assurance.html)
+    * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
+    * [Premium Analytics](https://www.juniper.net/us/en/products/cloud-services/premium-analytics.html)
+    * [Access Assurance (NAC)](https://www.juniper.net/us/en/products/cloud-services/access-assurance.html)
+
+* ### SD-WAN
+    
+* * [Session Smart Routers](https://www.juniper.net/us/en/products/routers/session-smart-router.html)
+    * [Next-generation firewalls](https://www.juniper.net/us/en/products/security/srx-series.html?filters=location:branch)
+
+* ### Edge security
+    
+* * [Secure Services Edge (SSE)](https://www.juniper.net/us/en/products/security/secure-edge.html)
+    * [Secure Connect](https://www.juniper.net/us/en/products/security/juniper-secure-connect.html)
+
+* ### Services
+    
+* * [WAN Assurance](https://www.juniper.net/us/en/products/cloud-services/wan-assurance.html)
+    * [Security Assurance](https://www.juniper.net/us/en/products/cloud-services/wan-assurance.html)
+    * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
+    * [Premium Analytics](https://www.juniper.net/us/en/products/cloud-services/premium-analytics.html)
+
+* ### [Routers](https://www.juniper.net/us/en/products/routers.html)
+    
+* * [ACX access and aggregation](https://www.juniper.net/us/en/products/routers/acx-series.html)
+    * [MX multi-service](https://www.juniper.net/us/en/products/routers/mx-series.html)
+    * [PTX packet transport](https://www.juniper.net/us/en/products/routers/ptx-series.html)
+
+* ### [Switches](https://www.juniper.net/us/en/products/switches.html)
+    
+* * [EX enterprise](https://www.juniper.net/us/en/products/switches/ex-series.html)
+    * [QFX data center](https://www.juniper.net/us/en/products/switches/qfx-series.html)
+
+* ### Operations
+    
+
+* ### Data center automation
+    
+* * [Apstra Intent-Based Networking](https://www.juniper.net/us/en/products/network-automation/apstra.html)
+    * [Data center cloud services](https://www.juniper.net/us/en/products/network-automation/apstra/apstra-cloud-services.html)
+
+* ### WAN automation
+    
+* * [Edge Routing Assurance](https://www.juniper.net/us/en/products/cloud-services/routing-assurance.html)
+    * [Paragon Automation](https://www.juniper.net/us/en/products/network-automation/paragon-automation.html)
+    * [Paragon Active Assurance](https://www.juniper.net/us/en/products/network-automation/paragon-active-assurance.html)
+    * [Paragon Planner](https://www.juniper.net/us/en/products/network-automation/paragon-planner.html)
+    * [Paragon Insights](https://www.juniper.net/us/en/products/network-automation/paragon-insights.html)
+    * [Paragon Pathfinder](https://www.juniper.net/us/en/products/network-automation/paragon-pathfinder.html)
+    * [RAN Intelligent Controller](https://www.juniper.net/us/en/products/network-automation/ran-intelligent-controller.html)
+
+* ### Firewalls
+    
+* * [SRX next-generation firewalls](https://www.juniper.net/us/en/products/security/srx-series.html)
+
+* ### Edge security
+    
+* * [Secure Services Edge (SSE)](https://www.juniper.net/us/en/products/security/secure-edge.html)
+    * [Secure Connect](https://www.juniper.net/us/en/products/security/juniper-secure-connect.html)
+
+* ### Network access control (NAC)
+    
+* * [Access Assurance](https://www.juniper.net/us/en/products/cloud-services/access-assurance.html)
+
+* ### Security management and services
+    
+* * [Security Director](https://www.juniper.net/us/en/products/security/security-director-network-security-management.html)
+    * [Security Assurance](https://www.juniper.net/us/en/products/cloud-services/wan-assurance.html)
+    * [Advanced Threat Protection](https://www.juniper.net/us/en/products/security/advanced-threat-prevention.html)
+    * [SecIntel (ATP)](https://www.juniper.net/us/en/products/security/secintel-threat-intelligence.html)
+
+* * [See all security products](https://www.juniper.net/us/en/products/security.html)
+    * [See security validated designs](https://www.juniper.net/documentation/validated-designs/us/en/security/)
+
+* ### Mist AI™
+    
+* * [Cloud subscription services](https://www.juniper.net/us/en/products/cloud-services.html)
+    * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
+    * [See all Mist AI products](https://www.juniper.net/us/en/products/mist-ai.html)
+
+* ### Learn more
+    
+* * [Explainable AI](https://www.juniper.net/us/en/dm/explainable-ai.html)
+
+![Bob Friday and Jessica Garrison speaking](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bob Friday and Jessica Garrison speaking")
+
+###### Bob Friday Talks
+
+Join Bob as he ventures into all the knowns -- and -- unknowns -- of AI.
+
+[Catch the latest episode](https://www.juniper.net/us/en/legal-notices/content/juniper/en/us/executive-insights/bob-friday)
+
+* ### [Campus and branch](https://www.juniper.net/us/en/campus-and-branch.html)
+    
+* * [Wireless Assurance (Wi-Fi)](https://www.juniper.net/us/en/products/cloud-services/wi-fi-assurance.html)
+    * [Wired Assurance](https://www.juniper.net/us/en/products/cloud-services/wired-assurance.html)
+    * [WAN Assurance](https://www.juniper.net/us/en/products/cloud-services/wan-assurance.html)
+    * [Access Assurance (NAC)](https://www.juniper.net/us/en/products/cloud-services/access-assurance.html)
+    * [Premium Analytics](https://www.juniper.net/us/en/products/cloud-services/premium-analytics.html)
+    * [Asset Visibility (Indoor Location)](https://www.juniper.net/us/en/products/cloud-services/asset-visibility.html)
+    * [User Engagement (Indoor Location)](https://www.juniper.net/us/en/products/cloud-services/user-engagement.html)
+    * [Marvis Virtual Network Assistant (VNA)](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
+
+* ### Data center
+    
+* * [Apstra Intent-Based Networking](https://www.juniper.net/us/en/products/network-automation/apstra.html)
+    * [Data center cloud services](https://www.juniper.net/us/en/products/network-automation/apstra/apstra-cloud-services.html)
+    * [Marvis VNA for Data Center](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant/marvis-vna-for-data-center.html)
+
+* ### WAN
+    
+* * [Routing Assurance](https://www.juniper.net/us/en/products/cloud-services/routing-assurance.html)
+    * [Paragon Automation](https://www.juniper.net/us/en/products/network-automation/paragon-automation.html)
+    * [Paragon Active Assurance](https://www.juniper.net/us/en/products/network-automation/paragon-active-assurance.html)
+    * [Paragon Planner](https://www.juniper.net/us/en/products/network-automation/paragon-planner.html)
+    * [Paragon Insights](https://www.juniper.net/us/en/products/network-automation/paragon-insights.html)
+    * [Paragon Pathfinder](https://www.juniper.net/us/en/products/network-automation/paragon-pathfinder.html)
+    * [RAN Intelligent Controller](https://www.juniper.net/us/en/products/network-automation/ran-intelligent-controller.html)
+    * [Marvis VNA for Routing](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant.html)
+
+* ### Security
+    
+* * [Security Director](https://www.juniper.net/us/en/products/security/security-director-network-security-management.html)
+    * [Security Assurance](https://www.juniper.net/us/en/products/cloud-services/wan-assurance.html)
+
+* ### [Network operating system](https://www.juniper.net/us/en/products/network-operating-system.html)
+    
+* * [Junos OS](https://www.juniper.net/us/en/products/network-operating-system/junos-os.html)
+    * [Junos OS Evolved](https://www.juniper.net/us/en/products/network-operating-system/junos-evolved.html)
+
+* ### Learn
+    
+* * [Free training](https://www.juniper.net/us/en/solutions/blueprint-for-ai-native-acceleration.html)
+    * [Training and certification](https://www.juniper.net/us/en/training.html)
+
+* ### Try
+    
+* * [AI on us](https://www.juniper.net/us/en/forms/juniper-mist-ai-on-us.html)
+    * [Free AP](https://www.juniper.net/us/en/forms/free-gear.html)
+    * [WAN 2x](https://www.juniper.net/us/en/forms/2024/juniper-wan2x-incentive-program.html)
+    * [Security buy 1 get 2](https://www.juniper.net/us/en/forms/2024/security-buy-1-get-2-years-free-subscription.html)
+
+* ### Buy
+    
+* * [Enterprise Agreements](https://www.juniper.net/us/en/solutions/enterprise-agreements.html)
+    * [Networking as a Service (NaaS)](https://www.juniper.net/us/en/solutions/naas-network-as-a-service.html)
+    * [Cloud marketplace](https://www.juniper.net/us/en/solutions/public-cloud-partnership.html)
+
+* ### Deploy and optimize
+    
+* * [Juniper Validated Designs (JVD)](https://www.juniper.net/us/en/solutions/blueprint-for-ai-native-acceleration/juniper-validated-designs.html)
+    * [Support Insights](https://www.juniper.net/us/en/services/support-services/support-insights.html)
+    * [AI Care Services](https://www.juniper.net/us/en/the-feed/topics/operations/proactive-network-support-with-juniper-ai-care-services.html)
+
+* * [Blueprint for AI-Native Acceleration](https://www.juniper.net/us/en/solutions/blueprint-for-ai-native-acceleration.html)
+
+* ### [Optics](https://www.juniper.net/us/en/products/pluggable-optics.html)
+    
+* * [Coherent optics](https://www.juniper.net/us/en/products/pluggable-optics/jco-series.html)
+    * [Qualified optics](https://www.juniper.net/us/en/products/pluggable-optics/qualified-optics.html)
+    * [Application-specific pluggables](https://www.juniper.net/us/en/products/pluggable-optics/application-specific-pluggables.html)
+    * [Optical and electrical cables](https://www.juniper.net/us/en/products/pluggable-optics/optical-and-electrical-cables.html)
+
+* [AI-Native Networking Platform](https://www.juniper.net/us/en/ai-native-networking-platform.html)
+* [Trial and demos](https://www.juniper.net/us/en/try.html)
+* [All products A-Z](https://www.juniper.net/us/en/products/products-a-to-z.html)
+
+Back
+
+Partners
+
+Partners
+
+* ### Our partners
+    
+* * [Find a partner](https://juniper.my.site.com/prm/s/partnerlocator)
+    * [Find a distributor](https://juniper.my.site.com/prm/s/distributorlocator)
+    * [Find a services partner](https://www.juniper.net/content/dam/www/assets/additional-resources/us/en/worldwide-listing-jpa-services-partners.pdf)
+    * [Public cloud partnerships](https://www.juniper.net/us/en/solutions/public-cloud-partnership.html)
+    * [Strategic alliances](https://www.juniper.net/us/en/partners/strategic-alliances.html)
+    * [Solution partners](https://www.juniper.net/us/en/partners/solution-partners.html)
+    * [Technology alliances](https://www.juniper.net/us/en/partners/technology-alliances.html)
+
+* ### Become a partner
+    
+* * [Partner program overview](https://www.juniper.net/us/en/partners.html)
+    * [Partner application](https://juniper.my.site.com/prm/s/onboarding)
+
+* ### Enrolled partner
+    
+* * [Partner log in](https://partners.juniper.net/partnercenter/index.page)
+    * [Learning Academy](https://jpartnertraining.juniper.net/)
+    * [Juniper Champions](https://content.juniper.net/champions)
+
+Back
+
+Support and Documentation
+
+Support and Documentation
+
+* ### Documentation
+    
+* * [Product documentation](https://www.juniper.net/documentation/)
+    * [Mist documentation](https://www.juniper.net/documentation/product/us/en/mist/)
+    * [Quick starts](https://www.juniper.net/documentation/quickstart/us/en/quick-start/)
+    * [Product and feature data (Pathfinder)](https://apps.juniper.net/home/)
+    * [Knowledge Base](https://supportportal.juniper.net/s/knowledge?language=en_US)
+    * [Search for a Problem Report](https://prsearch.juniper.net/InfoCenter/index?page=prsearch)
+
+* ### Downloads
+    
+* * [EX Series](https://support.juniper.net/support/downloads/?f=ex)
+    * [SRX Series](https://support.juniper.net/support/downloads/?f=srx)
+    * [MX Series](https://support.juniper.net/support/downloads/?f=mx)
+    * [QFX Series](https://support.juniper.net/support/downloads/?f=qfx)
+    * [ACX Series](https://support.juniper.net/support/downloads/?f=acx)
+    * [See all software downloads](https://support.juniper.net/support/downloads/)
+
+* ### Tools and resources
+    
+* * [Juniper support](https://support.juniper.net/support/)
+    * [Elevate community](https://community.juniper.net/home)
+    * [Juniper Threat Labs](https://threatlabs.juniper.net/home/#/)
+    * [Security intelligence](https://threatlabs.juniper.net/home/search/#/list/ips?page_number=1&page_size=20)
+    * [Product license keys](https://license.juniper.net/licensemanage/)
+    * [Serial number entitlement search](https://supportportal.juniper.net/s/serial-number-entitlement)
+    * [Report a vulnerability](https://www.juniper.net/us/en/report-a-security-vulnerability.html)
+    * [Contact Support](https://support.juniper.net/support/requesting-support/)
+
+* ### Juniper Support Portal
+    
+* * [Log in](https://supportportal.juniper.net/s/?language=en_US)
+
+![Business professional holding a tablet with digital screen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Business professional holding a tablet with digital screen")
+
+###### The Juniper Support Portal (JSP) mobile app is now available!
+
+Get Juniper support anytime, anywhere with the JSP mobile application, now available for Android and iOS!
+
+[Download now](https://supportportal.juniper.net/s/article/Juniper-Support-Portal-Mobile-Application-Release-Notes?language=en_US)
+
+* [End of Life (EoL)](https://support.juniper.net/support/eol/)
+
+Back
+
+Learn
+
+About Juniper
+
+Training
+
+Events
+
+The Feed
+
+Resources
+
+Technology learning topics
+
+Thought leadership and insights
+
+* ### Company
+    
+* * [About us](https://www.juniper.net/us/en/company.html)
+    * [Company profile](https://www.juniper.net/us/en/company/profile.html)
+    * [Leadership](https://www.juniper.net/us/en/company/leadership.html)
+    * [Newsroom](https://newsroom.juniper.net/overview/default.aspx)
+    * [Awards and recognition](https://www.juniper.net/us/en/company/awards-and-industry-recognition.html)
+    * [Our sustainable future](https://www.juniper.net/us/en/company/climate-change-and-sustainability.html)
+    * [Corporate social responsibility](https://www.juniper.net/us/en/company/corporate-responsibility.html)
+    * [Juniper innovations](https://www.juniper.net/us/en/company/juniper-innovations.html)
+    * [Executive Briefing Program](https://www.juniper.net/us/en/company/executive-briefing.html)
+
+* ### Careers
+    
+* * [Current job openings](https://jobs.juniper.net/careers)
+    * [Company culture and careers](https://www.juniper.net/us/en/company/culture-careers.html)
+    * [Inclusion and diversity](https://www.juniper.net/us/en/company/inclusion-diversity.html)
+    * [Our values](https://www.juniper.net/us/en/company/culture-careers/values.html)
+
+* ### Media and analyst relations
+    
+* * [Global media contacts](https://www.juniper.net/us/en/company/contact-us/media.html)
+    * [Industry analyst and influencer relations](https://www.juniper.net/us/en/company/analyst-relations.html)
+    * [Investor relations](https://investor.juniper.net/investor-relations/default.aspx)
+
+* ### Training
+    
+* * [Training overview](https://www.juniper.net/us/en/training.html)
+    * [Schedule of live classes](https://learningportal.juniper.net/juniper/schedule_classes.aspx?&TrackId=jnet-nav)
+    * [On-demand courses](https://learningportal.juniper.net/juniper/user_activity_search.aspx?search=On-Demand&taxonomyList=%23M02%2C%23T01&TrackId=jnet-nav)
+    * [Free training](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=JUNIPER-OPEN-LEARNING&TrackId=jnet-nav)
+    * [All courses](https://learningportal.juniper.net/juniper/user_activity_search.aspx?search=course&taxonomyList=%23M01%2C%23M02%2C%23T01&TrackId=jnet-nav)
+    * [Payment options](https://www.juniper.net/us/en/training/purchase-options.html)
+    * [Learning Portal](https://learningportal.juniper.net/juniper/default.aspx?&TrackId=jnet-nav)
+
+* ### Certification
+    
+* * [Juniper certification](https://www.juniper.net/us/en/training/certification.html)
+    * [Certification tracks](https://www.juniper.net/us/en/training/certification.html)
+    * [Certification resources](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=JUNIPER-CERTIFICATION-PROGRAM-HOME&TrackId=jnet-nav)
+    * [Exam registration](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=JUNIPER-CERTIFICATION-PROGRAM-HOME&TrackId=jnet-nav)
+    * [Recertification](https://www.juniper.net/us/en/training/certification/recertification.html)
+    * [Manage my certifications](https://cp.certmetrics.com/juniper/en/login)
+
+![Audience raising hands up while businessman is speaking in training at the office.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Audience raising hands up while businessman is speaking in training at the office.")
+
+###### Juniper certification and training news
+
+[See the latest](https://www.juniper.net/us/en/training/news.html)
+
+![Ringing of the bell](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ringing of the bell")
+
+###### All global events
+
+[See the latest](https://www.juniper.net/us/en/events.html)
+
+![AI-native-now](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "AI-native-now")
+
+###### AI-Native NOW event series
+
+[Register now](https://www.juniper.net/us/en/events/ai-native-now.html)
+
+* ### Videos
+    
+* * [The Feed](https://www.juniper.net/us/en/the-feed.html)
+    * [Browse by topic](https://www.juniper.net/us/en/the-feed/topics.html)
+    * [Video series](https://www.juniper.net/us/en/the-feed/series.html)
+    * [Leadership voices](https://www.juniper.net/us/en/the-feed/series/leadership-voices.html)
+
+* ### Podcasts
+    
+* * [Channel chats](https://www.juniper.net/us/en/the-feed/series/channel-chats.html)
+    * [Be bold](https://www.juniper.net/us/en/the-feed/series/be-bold.html)
+
+![Juniper's Christina Hendrix at the head of a conference table. With the text "The NOW Way to Network" overlayed, with "NOW" emphasizing the "O" in green color.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Glowing")
+
+###### The NOW Way to Network
+
+[Watch the video series](https://www.juniper.net/us/en/the-feed/series/the-now-way-to-network.html)
+
+* ### Customers
+    
+* * [Customer success stories](https://www.juniper.net/us/en/customers.html)
+    * [Getting started](https://www.juniper.net/us/en/customers/welcome.html)
+    * [Create a Juniper account](https://userregistration.juniper.net/)
+    * [Activate licenses](https://license.juniper.net/licensemanage/)
+    * [Customer advocacy program](https://www.juniper.net/us/en/forms/participate-in-our-elevate-program.html)
+
+* ### Documentation
+    
+* * [Product documentation](https://www.juniper.net/documentation/)
+    * [Mist documentation](https://www.juniper.net/documentation/product/us/en/mist/)
+    * [Quick starts](https://www.juniper.net/documentation/quickstart/us/en/quick-start/)
+    * [Juniper Validated Designs (JVD)](https://www.juniper.net/documentation/validated-designs/)
+    * [Product and feature data (Pathfinder)](https://apps.juniper.net/home/)
+    * [Knowledge Base](https://supportportal.juniper.net/s/knowledge?language=en_US)
+    * [Search for a Problem Report](https://prsearch.juniper.net/InfoCenter/index?page=prsearch)
+
+* ### Popular resources
+    
+* * [Software downloads](https://support.juniper.net/support/downloads/)
+    * [Blogs](https://blogs.juniper.net/)
+    * [Elevate community](https://community.juniper.net/home)
+    * [Juniper Threat Labs](https://threatlabs.juniper.net/home/#/)
+
+* ### AI
+    
+* * [What is AI-Native Networking?](https://www.juniper.net/us/en/research-topics/what-is-ai-native-networking.html)
+    * [What is AI for networking?](https://www.juniper.net/us/en/research-topics/what-is-ai-for-networking.html)
+    * [What is AIOps?](https://www.juniper.net/us/en/research-topics/what-is-aiops.html)
+    * [What is AI data center networking?](https://www.juniper.net/us/en/research-topics/what-is-ai-data-center-networking.html)
+    * [What is explainable AI (XAI)?](https://www.juniper.net/us/en/research-topics/what-is-explainable-ai-xai.html)
+
+* ### Data center
+    
+* * [What is AI data center networking?](https://www.juniper.net/us/en/research-topics/what-is-ai-data-center-networking.html)
+    * [What is a data center network?](https://www.juniper.net/us/en/research-topics/what-is-a-data-center-network.html)
+    * [What is data center fabric?](https://www.juniper.net/us/en/research-topics/what-is-data-center-fabric.html)
+    * [What is intent-based networking?](https://www.juniper.net/us/en/research-topics/what-is-intent-based-networking.html)
+    * [What is 400G?](https://www.juniper.net/us/en/research-topics/what-is-400g.html)
+
+* ### Network routing and switching
+    
+* * [What is a router?](https://www.juniper.net/us/en/research-topics/what-is-a-router.html)
+    * [What is a network switch?](https://www.juniper.net/us/en/research-topics/what-is-a-network-switch.html)
+
+* ### SD-WAN / SASE
+    
+* * [What is SD-WAN?](https://www.juniper.net/us/en/research-topics/what-is-sd-wan.html)
+    * [SD-WAN explained](https://www.juniper.net/us/en/research-topics/sd-wan-explained.html)
+    * [What is SASE?](https://www.juniper.net/us/en/research-topics/what-is-sase.html)
+
+* ### Security
+    
+* * [What is advanced threat prevention?](https://www.juniper.net/us/en/research-topics/what-is-advanced-threat-prevention.html)
+    * [What is IDS and IPS?](https://www.juniper.net/us/en/research-topics/what-is-ids-ips.html)
+
+* ### Wireless
+    
+* * [What is an access point in networking?](https://www.juniper.net/us/en/research-topics/what-is-an-access-point-in-networking.html)
+    * [Wi-Fi explained](https://www.juniper.net/us/en/research-topics/wifi-explained.html)
+    * [What is Wi-Fi 7?](https://www.juniper.net/us/en/research-topics/what-is-wi-fi-7.html)
+    * [What is Wi-Fi 6E?](https://www.juniper.net/us/en/research-topics/what-is-wi-fi-6e.html)
+    * [What is Wi-Fi 6?](https://www.juniper.net/us/en/research-topics/what-is-wi-fi-6.html)
+
+* * [See all learning topics](https://www.juniper.net/us/en/research-topics.html)
+
+![AI Native Now](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "AI Native Now")
+
+###### Executive insights
+
+Dive deep with leading experts and thought leaders on all the topics that matter most to your business, from AI to network security to driving rapid, relevant transformation for your business.
+
+[Learn more](https://www.juniper.net/us/en/executive-insights.html)
+
+![A keynote speaker giving a presentation at a conference. There are dozens of people sitting around them. The presentation is displayed via projector on all the walls in the room.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "A keynote speaker giving a presentation at a conference. There are dozens of people sitting around them. The presentation is displayed via projector on all the walls in the room.")
+
+###### Leadership voices
+
+Juniper Networks’ leaders operate on the front lines of creating the network of the future. Take a look around to see what’s on their minds.
+
+[Watch now](https://www.juniper.net/us/en/the-feed/series/leadership-voices.html)
+
+[Try](https://www.juniper.net/us/en/try.html)
 
 1. [Legal Notices](https://www.juniper.net/us/en/legal-notices.html)
 2. DMCA Policy
@@ -625,66 +1480,75 @@ Juniper may modify this Trademark Policy from time to time, and we will post the
 
 Back to top
 
-Get updates from Juniper
+[![Juniper Networks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Juniper Networks Logo png")](https://www.juniper.net/us/en.html)
 
-[Sign Up](https://www.juniper.net/us/en/forms/subscription-management.html "Sign Up")
+[](https://www.facebook.com/JuniperNetworks/)[](https://twitter.com/JuniperNetworks/)[](https://www.instagram.com/junipernetworks/)[](https://www.linkedin.com/company/juniper-networks)[](https://www.youtube.com/user/JuniperNetworks)
 
-Follow Us
+* ### Company
+    
+* * [About us](https://www.juniper.net/us/en/company.html)
+    * [Careers](https://www.juniper.net/us/en/company/culture-careers.html)
+    * [Corporate responsibility](https://www.juniper.net/us/en/company/corporate-responsibility.html)
+    * [Newsroom](https://newsroom.juniper.net/overview/default.aspx)
+    * [Investor relations](https://investor.juniper.net/investor-relations/default.aspx)
+    * [Contact us](https://www.juniper.net/us/en/company/contact-us.html)
 
-[](https://www.facebook.com/JuniperNetworks/)
+* ### Popular resources
+    
+* * [Events](https://www.juniper.net/us/en/events.html)
+    * [Blogs](https://blogs.juniper.net/)
+    * [Community](https://community.juniper.net/home)
+    * [Image library](https://www.juniper.net/us/en/company/images.html)
+    * [Manage email preferences](https://www.juniper.net/us/en/forms/subscription-management.html)
+    * [Sitemap](https://www.juniper.net/us/en/site-map.html)
+    * [Partner login](https://partners.juniper.net/partnercenter/index.page)
 
-[](https://twitter.com/JuniperNetworks/)
+#### Stay in touch
 
-[](https://www.youtube.com/user/JuniperNetworks)
+\*
 
-[](https://www.linkedin.com/company/juniper-networks)
+Invalid email formatt
 
-[](https://www.instagram.com/junipernetworks/)
+Email Submitted Sucessfully
 
-[About Us](https://www.juniper.net/us/en/company.html)
+There are required fields that need filling before you can submit.
 
-[Careers](https://www.juniper.net/us/en/company/culture-careers.html)
+Subscribe
 
-[Corporate Responsibility](https://www.juniper.net/us/en/company/corporate-responsibility.html)
+ ✓
 
-[Investor Relations](https://investor.juniper.net/investor-relations/default.aspx)
+Send me updates about Juniper Networks news and product details.
 
-[Newsroom](https://newsroom.juniper.net/overview/default.aspx)
+Read about Juniper's [privacy policy.](https://www.juniper.net/us/en/privacy-policy.html)
 
-[Image Library](https://www.juniper.net/us/en/company/images.html)
+Invalid Captcha
 
-[Blogs](https://blogs.juniper.net/)
+Something Went Wrong. Please try again.
 
-[Community](https://community.juniper.net/home)
+[](https://www.facebook.com/JuniperNetworks/)[](https://twitter.com/JuniperNetworks/)[](https://www.instagram.com/junipernetworks/)[](https://www.linkedin.com/company/juniper-networks)[](https://www.youtube.com/user/JuniperNetworks)
 
-[Events](https://events.juniper.net/)
+* * [Privacy](https://www.juniper.net/us/en/privacy-policy.html)
+    * [Legal](https://www.juniper.net/us/en/legal-notices.html)
+    * [DMCA policy](https://www.juniper.net/us/en/legal-notices/dmca-policy.html)
+    * [Do not sell or share my personal information](https://privacyportal.onetrust.com/webform/5cbb04b9-7de5-4f1c-8087-2c178a5ef9f7/bd3af8c7-8e43-4efb-b041-8920cad4d824)
+    * [Feedback](https://www.juniper.net/us/en/feedback.html)
+    * [Report a vulnerability](https://www.juniper.net/us/en/report-a-security-vulnerability.html)
+    
 
-[Offers & Trials](https://www.juniper.net/us/en/try.html)
+© 1999 - 2024 Juniper Networks, Inc. All rights reserved.
 
-[Contact Sales](https://www.juniper.net/us/en/how-to-buy/form.html)
+Scroll to top
 
-[Find a Partner](https://juniper.my.site.com/prm/s/partnerlocator)
-
-[Find a Distributor](https://juniper.my.site.com/prm/s/distributorlocator)
-
-[Partner Login](https://partners.juniper.net/partnercenter/index.page)
-
-© 1999 - 2024 Juniper Networks, Inc. All rights reserved.  
-
-[Contact Us](https://www.juniper.net/us/en/company/contact-us.html)
-
-[+1-866-298-6428 (Americas)](tel:18662986428)
-
-[Feedback](https://www.juniper.net/us/en/feedback.html)
-
-[Report a Vulnerability](https://www.juniper.net/us/en/report-a-security-vulnerability.html)
-
-[Site Map](https://www.juniper.net/us/en/site-map.html)
-
-[Privacy Notice](https://www.juniper.net/us/en/privacy-policy.html)
-
-[Do Not Sell or Share My Personal Information](https://privacyportal.onetrust.com/webform/5cbb04b9-7de5-4f1c-8087-2c178a5ef9f7/bd3af8c7-8e43-4efb-b041-8920cad4d824)
-
-[Legal Notices](https://www.juniper.net/us/en/legal-notices.html)
-
-[DMCA Policy](https://www.juniper.net/us/en/legal-notices/dmca-policy.html)
+* [United States - English](https://www.juniper.net/content/juniper/language-masters/en_us.html)
+* [Brazil - Português](https://www.juniper.net/br/pt.html)
+* [China - 中文](https://www.juniper.net/cn/zh.html)
+* [France - Français](https://www.juniper.net/fr/fr.html)
+* [Germany - Deutsch](https://www.juniper.net/de/de.html)
+* [Israel - English](https://www.juniper.net/il/en.html)
+* [Italy - Italiano](https://www.juniper.net/it/it.html)
+* [Japan - 日本語](https://www.juniper.net/jp/ja.html)
+* [Korea - 한국어](https://www.juniper.net/kr/ko.html)
+* [Mexico - Español](https://www.juniper.net/mx/es.html)
+* [Spain - Español](https://www.juniper.net/es/es.html)
+* [The Netherlands - Nederlands](https://www.juniper.net/nl/nl.html)
+* [United Kingdom - English](https://www.juniper.net/gb/en.html)
