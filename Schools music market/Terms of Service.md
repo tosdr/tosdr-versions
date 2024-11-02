@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/the-guitar-components-worksheet/)
+ [](https://schoolsmusicmarket.com/product/using-a-graphics-score-composition-worksheet/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/musical-reflection-drawing-worksheet/)
+ [](https://schoolsmusicmarket.com/product/solfege-handsigns-minamilist-boho-series-display-poster/)
 
 ###### Browse By Year/Grade
 
