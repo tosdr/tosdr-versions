@@ -135,6 +135,14 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Japan Times](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431337.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51)](https://www.japantimes.co.jp/news/2024/10/31/japan/autumn-leaves-forecast-october/ "Warm weather causes record-breaking delay for autumn foliage in Japan")
 
+[How Japan’s new kingmaker party won over young voters](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/ninivaggipoliticsyouth-vote-dpp/ "How Japan’s new kingmaker party won over young voters")
+
+  [![Democratic Party for the People chief Yuichiro Tamaki’s personal YouTube channel has more than 326,000 subscribers, by far the highest number among party leaders.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431666.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People chief Yuichiro Tamaki’s personal YouTube channel has more than 326,000 subscribers, by far the highest number among party leaders.")](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/ninivaggipoliticsyouth-vote-dpp/ "How Japan’s new kingmaker party won over young voters")
+
+[Uniqlo store manager arrested over filming of women in fitting rooms](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
+
+  [![Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431597.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
+
 [LDP and DPP inch closer together on economic policy cooperation](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/ldp-dpp-policy-meeting/ "LDP and DPP inch closer together on economic policy cooperation")
 
   [![Democratic Party for the People Secretary-General Kazuya Shimba (left) and Liberal Democratic Party Secretary-General Hiroshi Moriyama meet in the Diet building in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431382.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People Secretary-General Kazuya Shimba (left) and Liberal Democratic Party Secretary-General Hiroshi Moriyama meet in the Diet building in Tokyo on Thursday.")](https://www.japantimes.co.jp/news/2024/10/31/japan/politics/ldp-dpp-policy-meeting/ "LDP and DPP inch closer together on economic policy cooperation")
@@ -142,14 +150,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 [North Korea fires off ICBM with longest flight time yet](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
 
   [![A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431287.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.")](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
-
-['Peak Japan' is now, so seize the moment, Japan](https://www.japantimes.co.jp/commentary/2024/10/30/japan/peak-japan-now/ "'Peak Japan' is now, so seize the moment, Japan")
-
-  [![Anna Sawai and Hiroyuki Sanada won the outstanding lead actress and actor awards in a drama series, respectively, for "Shogun" at the 76th Primetime Emmy Awards in Los Angeles on Sept. 15.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431099.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Anna Sawai and Hiroyuki Sanada won the outstanding lead actress and actor awards in a drama series, respectively, for "Shogun" at the 76th Primetime Emmy Awards in Los Angeles on Sept. 15.")](https://www.japantimes.co.jp/commentary/2024/10/30/japan/peak-japan-now/ "'Peak Japan' is now, so seize the moment, Japan")
-
-[Dodgers star Shohei Ohtani basks in glow of first World Series title](https://www.japantimes.co.jp/sports/2024/10/31/baseball/mlb/ohtani-first-world-series-title/ "Dodgers star Shohei Ohtani basks in glow of first World Series title")
-
-  [![Shohei Ohtani holds the World Series trophy after the Dodgers clinched the title at Yankee Stadium on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431398.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani holds the World Series trophy after the Dodgers clinched the title at Yankee Stadium on Wednesday.")](https://www.japantimes.co.jp/sports/2024/10/31/baseball/mlb/ohtani-first-world-series-title/ "Dodgers star Shohei Ohtani basks in glow of first World Series title")
 
 Editors' Picks
 --------------
@@ -161,6 +161,20 @@ Editors' Picks
 By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
 
   [![Japan Times](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431337.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51)](https://www.japantimes.co.jp/news/2024/10/31/japan/autumn-leaves-forecast-october/ "Warm weather causes record-breaking delay for autumn foliage in Japan")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[How Japan’s new kingmaker party won over young voters](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/ninivaggipoliticsyouth-vote-dpp/ "How Japan’s new kingmaker party won over young voters")
+
+By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
+
+  [![Democratic Party for the People chief Yuichiro Tamaki’s personal YouTube channel has more than 326,000 subscribers, by far the highest number among party leaders.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431666.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People chief Yuichiro Tamaki’s personal YouTube channel has more than 326,000 subscribers, by far the highest number among party leaders.")](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/ninivaggipoliticsyouth-vote-dpp/ "How Japan’s new kingmaker party won over young voters")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Uniqlo store manager arrested over filming of women in fitting rooms](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
+
+  [![Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431597.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -178,20 +192,6 @@ By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse
 
   [![A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431287.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man at a rail station in Seoul watches a news broadcast on Thursday with file footage of a North Korean missile test.")](https://www.japantimes.co.jp/news/2024/10/31/asia-pacific/north-korea-missile-defense-chiefs/ "North Korea fires off ICBM with longest flight time yet")
 
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
-
-['Peak Japan' is now, so seize the moment, Japan](https://www.japantimes.co.jp/commentary/2024/10/30/japan/peak-japan-now/ "'Peak Japan' is now, so seize the moment, Japan")
-
-By [Joshua W. Walker](https://www.japantimes.co.jp/author/316/joshua-w-walker/ "Joshua W. Walker")  
-
-  [![Anna Sawai and Hiroyuki Sanada won the outstanding lead actress and actor awards in a drama series, respectively, for "Shogun" at the 76th Primetime Emmy Awards in Los Angeles on Sept. 15.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/30/431099.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Anna Sawai and Hiroyuki Sanada won the outstanding lead actress and actor awards in a drama series, respectively, for "Shogun" at the 76th Primetime Emmy Awards in Los Angeles on Sept. 15.")](https://www.japantimes.co.jp/commentary/2024/10/30/japan/peak-japan-now/ "'Peak Japan' is now, so seize the moment, Japan")
-
-[BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
-
-[Dodgers star Shohei Ohtani basks in glow of first World Series title](https://www.japantimes.co.jp/sports/2024/10/31/baseball/mlb/ohtani-first-world-series-title/ "Dodgers star Shohei Ohtani basks in glow of first World Series title")
-
-  [![Shohei Ohtani holds the World Series trophy after the Dodgers clinched the title at Yankee Stadium on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431398.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani holds the World Series trophy after the Dodgers clinched the title at Yankee Stadium on Wednesday.")](https://www.japantimes.co.jp/sports/2024/10/31/baseball/mlb/ohtani-first-world-series-title/ "Dodgers star Shohei Ohtani basks in glow of first World Series title")
-
 Podcast
 -------
 
@@ -202,11 +202,11 @@ Podcast
 Longform
 --------
 
-  [![When Italy’s Cavour aircraft carrier visited Japan in August, it was the latest in a string of other ports of call by European nations such as Britain, Germany and France, all of whom are engaging in military and defense industry partnerships in East Asia.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/429804.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "When Italy’s Cavour aircraft carrier visited Japan in August, it was the latest in a string of other ports of call by European nations such as Britain, Germany and France, all of whom are engaging in military and defense industry partnerships in East Asia.")](https://www.japantimes.co.jp/news/2024/10/25/asia-pacific/europe-japan-defense-cooperation/ "Will Europe's pivot to Asia have any teeth?")
+  [![Akira Oishi (left) and Shinichi Okanobori have taken on the responsibility of surveying the flora and fauna of Mount Tenran and Mount Tonosu in Saitama Prefecture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431194.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Akira Oishi (left) and Shinichi Okanobori have taken on the responsibility of surveying the flora and fauna of Mount Tenran and Mount Tonosu in Saitama Prefecture.")](https://www.japantimes.co.jp/environment/2024/11/02/wildlife/japan-ecosystem-biodiversity-loss/ "Inside Japan's 100-year project to monitor its deteriorating biodiversity")
 
-[Will Europe's pivot to Asia have any teeth?](https://www.japantimes.co.jp/news/2024/10/25/asia-pacific/europe-japan-defense-cooperation/ "Will Europe's pivot to Asia have any teeth?")
+[Inside Japan's 100-year project to monitor its deteriorating biodiversity](https://www.japantimes.co.jp/environment/2024/11/02/wildlife/japan-ecosystem-biodiversity-loss/ "Inside Japan's 100-year project to monitor its deteriorating biodiversity")
 
-By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez")  
+By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
 
 SUSTAINABLE JAPAN
 -----------------
@@ -253,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[U.S. spy agencies issue new warning on Russia’s election misinformation campaign](https://www.japantimes.co.jp/news/2024/11/02/world/politics/us-intelligence-russia-election-interference/ "U.S. spy agencies issue new warning on Russia’s election misinformation campaign")
+[IMF Asia-Pacific chief urges Japan to start debt cuts](https://www.japantimes.co.jp/business/2024/11/02/economy/imf-asia-chief-japan-debt-cuts/ "IMF Asia-Pacific chief urges Japan to start debt cuts")
 
-56 mins ago
+52 mins ago
 
-[China researchers develop AI model for military use on back of Meta's Llama](https://www.japantimes.co.jp/news/2024/11/02/asia-pacific/china-ai-military-model/ "China researchers develop AI model for military use on back of Meta's Llama")
-
-1 hours ago
-
-[In Ukraine, hopes of war breakthrough slim whoever wins U.S. election](https://www.japantimes.co.jp/news/2024/11/02/world/politics/ukraine-us-presidential-election/ "In Ukraine, hopes of war breakthrough slim whoever wins U.S. election")
+[Western and central Japan drenched by record rainfall for November](https://www.japantimes.co.jp/news/2024/11/02/japan/west-japan-rain-november/ "Western and central Japan drenched by record rainfall for November")
 
 1 hours ago
 
-[Ishiba to meet with U.S. and Chinese leaders during multilateral summits](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
-
-1 hours ago
-
-[U.S. expands oversight on property deals near military sites](https://www.japantimes.co.jp/news/2024/11/02/world/us-property-oversight-military-bases/ "U.S. expands oversight on property deals near military sites")
+[U.N. panel adopts nuclear abolition resolution proposed by Japan](https://www.japantimes.co.jp/news/2024/11/02/japan/un-panel-adopts-japan-nuke-resolution/ "U.N. panel adopts nuclear abolition resolution proposed by Japan")
 
 2 hours ago
+
+[Can quake-prone Japan ever embrace nuclear energy again?](https://www.japantimes.co.jp/news/2024/11/02/japan/society/nuclear-fears-quake-prone-japan/ "Can quake-prone Japan ever embrace nuclear energy again?")
+
+2 hours ago
+
+[Land minister Tetsuo Saito set to lead Komeito](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/tetsuo-saito-komeito-leader/ "Land minister Tetsuo Saito set to lead Komeito")
+
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
