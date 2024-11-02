@@ -156,17 +156,17 @@ Shop
 
 [* Printers](https://hp.com/us-en/shop/cat/printers "Printers")
 
-[* Business printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=LaserJet,LaserJet-Tank,OfficeJet,Smart-Tank "Business printers")
-
 [* Laser printers](https://www.hp.com/us-en/shop/vwa/printers/prnttyp=Laser "Laser printers")
 
-[* Inkjet printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=DeskJet,ENVY,OfficeJet,Smart-Tank,Tango "Inkjet printers")
+[* Business printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=LaserJet,LaserJet-Tank,OfficeJet,Smart-Tank "Business printers")
+
+[* Large format plotter printers](https://www.hp.com/us-en/shop/slp/designjet-plotter-printers "Large format plotter printers")
 
 [* Home printers](https://www.hp.com/us-en/shop/vwa/printers/segm=Home "Home printers")
 
-[* Tank printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=LaserJet-Tank,Smart-Tank "Tank printers")
+[* Inkjet printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=DeskJet,ENVY,OfficeJet,Smart-Tank,Tango "Inkjet printers")
 
-[* Large format plotter printers](https://www.hp.com/us-en/shop/slp/designjet-plotter-printers "Large format plotter printers")
+[* Tank printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=LaserJet-Tank,Smart-Tank "Tank printers")
 
 [* HP All-In Plan](https://www.hp.com/us-en/shop/cv/all-in-plan-printers "HP All-In Plan")
 
@@ -174,7 +174,7 @@ Shop
 
 * Shop Accessories
 
-[* Accessories store](https://www.hp.com/us-en/shop/cat/accessories-88342--1 "Accessories store")
+[* View all accessories](https://www.hp.com/us-en/shop/cat/accessories-88342--1 "View all accessories")
 
 [* Monitors](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Monitors "Monitors")
 
@@ -309,11 +309,11 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 * Shop Print
 
-[* Ink, Toner, & Paper](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Printers](https://hp.com/us-en/shop/cat/printers)[* Business printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=LaserJet,LaserJet-Tank,OfficeJet,Smart-Tank)[* Laser printers](https://www.hp.com/us-en/shop/vwa/printers/prnttyp=Laser)[* Inkjet printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=DeskJet,ENVY,OfficeJet,Smart-Tank,Tango)[* Home printers](https://www.hp.com/us-en/shop/vwa/printers/segm=Home)[* Tank printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=LaserJet-Tank,Smart-Tank)[* Large format plotter printers](https://www.hp.com/us-en/shop/slp/designjet-plotter-printers)[* HP All-In Plan](https://www.hp.com/us-en/shop/cv/all-in-plan-printers)[* Instant Ink](https://www.hp.com/us-en/shop/cv/instantink)
+[* Ink, Toner, & Paper](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Printers](https://hp.com/us-en/shop/cat/printers)[* Laser printers](https://www.hp.com/us-en/shop/vwa/printers/prnttyp=Laser)[* Business printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=LaserJet,LaserJet-Tank,OfficeJet,Smart-Tank)[* Large format plotter printers](https://www.hp.com/us-en/shop/slp/designjet-plotter-printers)[* Home printers](https://www.hp.com/us-en/shop/vwa/printers/segm=Home)[* Inkjet printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=DeskJet,ENVY,OfficeJet,Smart-Tank,Tango)[* Tank printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=LaserJet-Tank,Smart-Tank)[* HP All-In Plan](https://www.hp.com/us-en/shop/cv/all-in-plan-printers)[* Instant Ink](https://www.hp.com/us-en/shop/cv/instantink)
 
 * Shop Accessories
 
-[* Accessories store](https://www.hp.com/us-en/shop/cat/accessories-88342--1)[* Monitors](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Monitors)[* Docking stations & hubs](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Workspace-Accessories;typeworkacc=Docking-Stations,USB-Hubs)[* Mice & keyboards](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Mice-Keyboards)[* Chargers & power adapters](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Chargers-Adapters)[* Bundles](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/ordr=Bundles)[* Bags & sleeves](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Bags-Sleeves)[* Care packs & services](https://www.hp.com/us-en/shop/cat/care-packs-88343--1)[* Hybrid Work](https://www.hp.com/us-en/shop/cat/hybrid-work)[* Remote Work bundles](https://www.hp.com/us-en/shop/slp/hybrid-work-solutions/bundles)
+[* View all accessories](https://www.hp.com/us-en/shop/cat/accessories-88342--1)[* Monitors](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Monitors)[* Docking stations & hubs](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Workspace-Accessories;typeworkacc=Docking-Stations,USB-Hubs)[* Mice & keyboards](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Mice-Keyboards)[* Chargers & power adapters](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Chargers-Adapters)[* Bundles](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/ordr=Bundles)[* Bags & sleeves](https://www.hp.com/us-en/shop/vwa/accessories-88342--1/subcat=Bags-Sleeves)[* Care packs & services](https://www.hp.com/us-en/shop/cat/care-packs-88343--1)[* Hybrid Work](https://www.hp.com/us-en/shop/cat/hybrid-work)[* Remote Work bundles](https://www.hp.com/us-en/shop/slp/hybrid-work-solutions/bundles)
 
 * Problem solving
 
