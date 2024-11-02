@@ -95,7 +95,7 @@ Search
 
 Use this form to search the site. Enter your search query and press enter to search.
 
-877-667-4265 Call Now - Open 24/7 877-667-4265
+(877) 667-4265 Call Now - Open 24/7 (877) 667-4265
 
 DISCLAIMERS AND TERMS OF USE
 ============================
