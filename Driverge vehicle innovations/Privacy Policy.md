@@ -1,6 +1,6 @@
 [Skip to content](#content "Skip to content")
 
-[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MTk5OjU1NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDUzIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjUzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.driverge.com/)[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MTk5OjEyMDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDIyMSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIyMjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.driverge.com/)
+[![Driverge Vehicle Innovations](https://www.driverge.com/wp-content/uploads/2020/01/cropped-Driverge-Horiz-Registerd-200x53.png)](https://www.driverge.com/)[![Driverge Vehicle Innovations](https://www.driverge.com/wp-content/uploads/2024/09/driverge-logo-transparent-white.png)](https://www.driverge.com/)
 
 * [Driverge Canada](https://wheelchairvans.ca/)
 * [News & Product Updates](https://www.driverge.com/about/driverge-news/)
@@ -69,7 +69,12 @@
         * [Chrysler](https://www.driverge.com/vehicles/chrysler/)
         * [Mercedes](https://www.driverge.com/vehicles/mercedes-benz/)
         * Nissan (Coming Soon)
-    * Upfitting Partners (Coming Soon)
+    * Upfitting PartnersMenu Toggle
+        * [Adrian Steel Cargo Van Solutions](https://www.driverge.com/adrian-steel-cargo-van-solutions/)
+        * [Knaack Manufacturing Company](https://www.driverge.com/knaack-manufacturing-company/)
+        * [Ranger Design Cargo Van Equipment](https://www.driverge.com/ranger-design-cargo-van-equipment/)
+        * [Tommy Gate Truck And Van Lift Gates](https://www.driverge.com/tommy-gate-truck-and-van-lift-gates/)
+        * [Weather Guard Truck & Van Equipment](https://www.driverge.com/weather-guard-truck-van-equipment/)
 * [Industries](#)Menu Toggle
     * [Fleet Solutions](https://www.driverge.com/industry-solutions/commercial-van-fleet-sales/)
     * [NEMT Vans](https://www.driverge.com/industry-solutions/non-emergency-medical-transport/)
@@ -100,7 +105,7 @@ Search for:
 
 [Search](#)
 
-[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MzI2OjU1NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDUzIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjUzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.driverge.com/)[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MzI2OjEyMDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDIyMSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIyMjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.driverge.com/)
+[![Driverge Vehicle Innovations](https://www.driverge.com/wp-content/uploads/2020/01/cropped-Driverge-Horiz-Registerd-200x53.png)](https://www.driverge.com/)[![Driverge Vehicle Innovations](https://www.driverge.com/wp-content/uploads/2024/09/driverge-logo-transparent-white.png)](https://www.driverge.com/)
 
 Main Menu
 
@@ -164,7 +169,12 @@ Main Menu
         * [Chrysler](https://www.driverge.com/vehicles/chrysler/)
         * [Mercedes](https://www.driverge.com/vehicles/mercedes-benz/)
         * Nissan (Coming Soon)
-    * Upfitting Partners (Coming Soon)
+    * Upfitting PartnersMenu Toggle
+        * [Adrian Steel Cargo Van Solutions](https://www.driverge.com/adrian-steel-cargo-van-solutions/)
+        * [Knaack Manufacturing Company](https://www.driverge.com/knaack-manufacturing-company/)
+        * [Ranger Design Cargo Van Equipment](https://www.driverge.com/ranger-design-cargo-van-equipment/)
+        * [Tommy Gate Truck And Van Lift Gates](https://www.driverge.com/tommy-gate-truck-and-van-lift-gates/)
+        * [Weather Guard Truck & Van Equipment](https://www.driverge.com/weather-guard-truck-van-equipment/)
 * [Industries](#)Menu Toggle
     * [Fleet Solutions](https://www.driverge.com/industry-solutions/commercial-van-fleet-sales/)
     * [NEMT Vans](https://www.driverge.com/industry-solutions/non-emergency-medical-transport/)
@@ -419,7 +429,7 @@ When designing your custom wheelchair accessible vehicle, floor plan configurati
 
 ×
 
-![](data:image/svg+xml;nitro-empty-id=ODQzOjU5Mw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzc4IDMxNCIgd2lkdGg9Ijc3OCIgaGVpZ2h0PSIzMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![](https://www.driverge.com/wp-content/uploads/2022/01/driverge-cannabis-laws-and-regulations.png)
 
 Please fill out the form below to receive immediate access to our Laws and Regulations for Transporting Cannabis by State whitepaper.
 
