@@ -153,14 +153,3 @@ These terms and conditions are governed by and construed in accordance with the 
 * [Terms](https://freespeech.org/terms/)
 * [Privacy](https://freespeech.org/privacy/)
 * [Contact](https://freespeech.org/contact-us/)
-
-Fight The Real Fright
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20545%20327'%3E%3C/svg%3E)
-
-![](https://freespeech.org/wp-content/uploads/2023/06/unnamed-300x180.png)](https://freespeech.org/donate-all/)
-
-Election day is less than a week away! FSTV is working around the clock to deliver truth-driven coverage. Your support amplifies unfiltered journalism that safeguards democracy.  
-[**Pitch in this Halloween for a special $10,000 matching treat.**](https://freespeech.org/donate-all/)
-
-×
