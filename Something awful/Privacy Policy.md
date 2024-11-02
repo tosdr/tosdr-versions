@@ -205,28 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Chapter Six](https://www.somethingawful.com/feature-articles/chapter-six/1/)
-* [04-02-2007](https://www.somethingawful.com/forum-fridays/ff04-02-2007/1/)
-* [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
-* [Cute Animals Fighting!](https://www.somethingawful.com/photoshop-phriday/cute-animals-fighting/1/)
-* [September 10, 2007](https://www.somethingawful.com/forum-fridays/ff09-10-07/1/)
+* [I Hate You Page 01](https://www.somethingawful.com/cliff-yablonski/i-hate-you-01/)
+* [Welcome to the DynaMars Corporation Cycnus Station Update Kiosk](https://www.somethingawful.com/news/dynamars-kiosk/1/)
+* [Far Side For Real](https://www.somethingawful.com/photoshop-phriday/far-side-for/1/)
+* [1UP Video Game SWAT](https://www.somethingawful.com/fashion-swat/fashion-1up-revue/1/)
+* [FightingArts, FORKLIFTACTION, LikeMyTattoo, and RaveChat](https://www.somethingawful.com/weekend-web/fightingarts-forkliftaction-like/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [Election Day Shennanigans - Plans, Food, Parties, etc.](http://forums.somethingawful.com/showthread.php?threadid=4074130 "Election Day Shennanigans - Plans, Food, Parties, etc.")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [The Official General Bullshit Maine Thread](http://forums.somethingawful.com/showthread.php?threadid=4074139 "The Official General Bullshit Maine Thread")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Hot Yachts Miami](http://forums.somethingawful.com/showthread.php?threadid=4074141 "Hot Yachts Miami")
-* ![](https://fi.somethingawful.com/forums/posticons/hell-suck.gif) [Relationship deal breakers](http://forums.somethingawful.com/showthread.php?threadid=4074071 "Relationship deal breakers")
 * ![](https://fi.somethingawful.com/forums/posticons/guns-review.gif) [What really grinds your gears?](http://forums.somethingawful.com/showthread.php?threadid=4074123 "What really grinds your gears?")
 * ![](https://fi.somethingawful.com/forums/posticons/pi-herps.gif) [How much do you write?](http://forums.somethingawful.com/showthread.php?threadid=4074098 "How much do you write?")
-* ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [Election Day Shennanigans - Plans, Food, Parties, etc.](http://forums.somethingawful.com/showthread.php?threadid=4074130 "Election Day Shennanigans - Plans, Food, Parties, etc.")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Hot Yachts Miami](http://forums.somethingawful.com/showthread.php?threadid=4074141 "Hot Yachts Miami")
 
 ### Random Articles
 
-* [Flat Earth Society](https://www.somethingawful.com/weekend-web/flat-earth-society/1/)
-* [Attack, Destroy, Kill! Please.](https://www.somethingawful.com/news/attack-destroy-kill/)
-* [Thank Jesus for Easy Politics](https://www.somethingawful.com/news/thank-jesus-for/)
-* [It's Time For Some Culture On Here](https://www.somethingawful.com/news/its-time-for/)
-* [Greasnin Goes to California, Pt. 3](https://www.somethingawful.com/news/greasnin-goes-california-3/)
+* [TwoGuns/Badassbillycamp Page](https://www.somethingawful.com/awful-links/awful-link-716/)
+* [Leave a Message in the Anonymous Town Hall Complaint Box](https://www.somethingawful.com/news/anonymous-town-hall/1/)
+* [Bridge XYZ](https://www.somethingawful.com/comedy-goldmine/bridge-xyz/1/)
+* [Beware Your Fantasies of Football](https://www.somethingawful.com/news/danger-fantasy-football/)
+* [The Plain People](https://www.somethingawful.com/news/the-plain-people/)
 
 [Random!](https://www.somethingawful.com/random/)
 
