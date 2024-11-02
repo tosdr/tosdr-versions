@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ He who receives an idea from me receives it without lessening me, as he who lights his candle at mine receives light without darkening me”
+“ The best way to predict the future is to invent it”
 
-[Thomas Jefferson](http://dangerousprototypes.com/2012/02/20/presidents-in-favor-of-open-source/)
+[Alan Kay](http://en.wikipedia.org/wiki/Alan_Kay)
 
 [](https://www.adafruit.com/about)
 
