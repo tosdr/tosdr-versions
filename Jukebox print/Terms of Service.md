@@ -116,7 +116,7 @@ EUR
             
             * [Silk Matte](https://www.jukeboxprint.com/silk-matte-business-cards)
             * [Mohawk Superfine](https://www.jukeboxprint.com/mohawk-superfine-business-cards)
-            * [Textured Matte](https://www.jukeboxprint.com/textured-matte-business-cards)
+            * [Sandy Matte](https://www.jukeboxprint.com/sandy-matte-business-cards)
             * [Spot UV](https://www.jukeboxprint.com/spot-uv-business-cards)
             * [Cannabis](https://www.jukeboxprint.com/cannabis-business-cards)
             * [Square](https://www.jukeboxprint.com/square-business-cards)
@@ -150,7 +150,7 @@ EUR
     
     Information[#### Mohawk Superfine Business Cards](https://www.jukeboxprint.com/mohawk-superfine-business-cards)[Indulge in our most luxurious, uncoated, ultra-white stock. Perfect for every special occasion, our Mohawk Superfine collection is available in 18pt and rigid 36pt thicknesses.](https://www.jukeboxprint.com/mohawk-superfine-business-cards)
     
-    Information[#### Textured Matte Business Cards](https://www.jukeboxprint.com/textured-matte-business-cards)[Elevate your brand with our unique Textured Matte Business Cards. Impress visually and tactilely with a sandy matte finish.](https://www.jukeboxprint.com/textured-matte-business-cards)
+    Information[#### Sandy Matte Business Cards](https://www.jukeboxprint.com/sandy-matte-business-cards)[Elevate your brand with our unique Sandy Matte Business Cards. Impress visually and tactilely with a sandy matte finish.](https://www.jukeboxprint.com/sandy-matte-business-cards)
     
     Information[#### Spot UV Business Cards](https://www.jukeboxprint.com/spot-uv-business-cards)[Experience the excitement of a unique business card with added spot gloss.](https://www.jukeboxprint.com/spot-uv-business-cards)
     
