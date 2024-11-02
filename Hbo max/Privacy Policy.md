@@ -136,9 +136,37 @@ Asia Pacific
 
 [English](https://www.hbomax.com/privacy/en-apac "Asia - English Privacy Policy")
 
+[繁體中文 (香港)](https://www.hbomax.com/privacy/zh-hk-apac)
+
+[繁體中文 (臺灣)](https://www.hbomax.com/privacy/zh-tw-apac)
+
+[ภาษาไทย](https://www.hbomax.com/privacy/th-apac)
+
+[Filipino](https://www.hbomax.com/privacy/tl-apac)
+
+[Bahasa Melayu](https://www.hbomax.com/privacy/ms-apac)
+
+[Bahasa Indonesia](https://www.hbomax.com/privacy/id-apac)
+
+[简体中文](https://www.hbomax.com/privacy/zh-apac)
+
 ### Legal Bases Chart
 
 [English](https://www.hbomax.com/privacy/legal-bases/en-apac "Asia - English Privacy Policy")
+
+[繁體中文 (香港)](https://www.hbomax.com/privacy/legal-bases/zh-hk-apac)
+
+[繁體中文 (臺灣)](https://www.hbomax.com/privacy/legal-bases/zh-tw-apac)
+
+[ภาษาไทย](https://www.hbomax.com/privacy/legal-bases/th-apac)
+
+[Filipino](https://www.hbomax.com/privacy/legal-bases/tl-apac)
+
+[Bahasa Melayu](https://www.hbomax.com/privacy/legal-bases/ms-apac)
+
+[Bahasa Indonesia](https://www.hbomax.com/privacy/legal-bases/id-apac)
+
+[简体中文](https://www.hbomax.com/privacy/legal-bases/zh-apac)
 
 [Privacy Policy](https://www.hbomax.com/privacy)[Children's Privacy Policy](https://www.hbomax.com/privacy/children)[Terms of Use](https://www.hbomax.com/terms-of-use)
 
