@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want to see behind the curtain? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's how we feed the squirrel
+More Farking, less working
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Sunday, turn the clocks back, giving most Farkers an extra hour of drinking](https://www.fark.com/goto/13448934) ( [usatoday.com](https://www.fark.com/goto/13448934) ) » [(2 comments)](https://www.fark.com/comments/13448934/Sunday-turn-clocks-back-giving-most-Farkers-an-extra-hour-of-drinking) |
-| [Discussion](https://www.fark.com/discussion/) | ["What is the best way to let my son know I saw his wife with another man? Is there a Hallmark card for that?" (possible nsfw content on page)](https://www.fark.com/goto/13449094) ( [thesun.co.uk](https://www.fark.com/goto/13449094) ) » [(1 comment)](https://www.fark.com/comments/13449094/What-is-best-way-to-let-my-son-know-I-saw-his-wife-with-another-man-Is-there-a-Hallmark-card-for-that-possible-nsfw-content-on-page) |
-| [Sports](https://www.fark.com/sports/) | [Jets WR Malachi Corley scored an amazing.....touchback last night. Commence the "the offense should NOT be penalized for fumbling the ball out of the endzone" nerdslap](https://www.fark.com/goto/13449164) ( [si.com](https://www.fark.com/goto/13449164) ) » [(10 comments)](https://www.fark.com/comments/13449164/Jets-WR-Malachi-Corley-scored-an-amazingtouchback-last-night-Commence-the-offense-should-NOT-be-penalized-for-fumbling-ball-out-of-endzone-nerdslap) |
-| [Business](https://www.fark.com/business/) | [Meet the chief gnome handler from Asda](https://www.fark.com/goto/13448900) ( [metro.co.uk](https://www.fark.com/goto/13448900) ) » [(6 comments)](https://www.fark.com/comments/13448900/Meet-chief-gnome-handler-from-Asda) |
-| [STEM](https://www.fark.com/stem/) | [Scientists catch sperm defying the laws of physics, viscosity of Jergens](https://www.fark.com/goto/13449216) ( [sciencealert.com](https://www.fark.com/goto/13449216) ) » [(3 comments)](https://www.fark.com/comments/13449216/Scientists-catch-sperm-defying-laws-of-physics-viscosity-of-Jergens) |
-| [Entertainment](https://www.fark.com/entertainment/) | [To celebrate the release of their first album in 16 years, The Cure will play a special Show Of A Lost World at London's Troxy which will be live streamed on youtube. Get back combing & liberally apply your eyeliner. House lights down at 16:00 ET](https://www.fark.com/goto/13448588) ( [youtube.com](https://www.fark.com/goto/13448588) ) » [(5 comments)](https://www.fark.com/comments/13448588/To-celebrate-release-of-their-first-album-in-16-years-The-Cure-will-play-a-special-Show-Of-A-Lost-World-at-Londons-Troxy-which-will-be-live-streamed-on-youtube-Get-back-combing-liberally-apply-your-eyeliner-House-lights-down-at-1600-ET) |
-| [Fandom](https://www.fark.com/fandom/) | [Burning Man burn rate burned through reserves, burn organizers may be burned out](https://www.fark.com/goto/13449114) ( [ktvu.com](https://www.fark.com/goto/13449114) ) » [(4 comments)](https://www.fark.com/comments/13449114/Burning-Man-burn-rate-burned-through-reserves-burn-organizers-may-be-burned-out) |
-| [D'awww](https://www.fark.com/dawww/) | [Great bear costume kid, but you're only supposed to take one or two](https://www.fark.com/goto/13449048) ( [wfsb.com](https://www.fark.com/goto/13449048) ) » [(1 comment)](https://www.fark.com/comments/13449048/Great-bear-costume-kid-but-youre-only-supposed-to-take-one-two) |
-| [Food](https://www.fark.com/food/) | [Pies aren't meant to include glue](https://www.fark.com/goto/13449082) ( [dailymail.co.uk](https://www.fark.com/goto/13449082) ) » [(4 comments)](https://www.fark.com/comments/13449082/Pies-arent-meant-to-include-glue) |
-| [Politics](https://www.fark.com/politics/) | [Europe's Green parties to Jill Stein: You're not helping](https://www.fark.com/goto/13449278) ( [theguardian.com](https://www.fark.com/goto/13449278) ) » [(12 comments)](https://www.fark.com/comments/13449278/Europes-Green-parties-to-Jill-Stein-Youre-not-helping) |
+| [Main](https://www.fark.com/) | [Jimmy Kimmel spreads the word that the Great Pumpkin is streaming](https://www.fark.com/goto/13449430) ( [msn.com](https://www.fark.com/goto/13449430) ) » [(1 comment)](https://www.fark.com/comments/13449430/Jimmy-Kimmel-spreads-word-that-Great-Pumpkin-is-streaming) |
+| [Discussion](https://www.fark.com/discussion/) | [Tonight on Smackdown: Cody & Randy team up to face Imperium. Liv & Nia have a face to face before Crown Jewel tomorrow. Meanwhile, IYO vs Lash vs Piper vs Bianca in a Fatal 4-way. See what else gets announced for CJ starting at 8 PM ET on USA](https://www.fark.com/goto/13448916) ( [wwe.com](https://www.fark.com/goto/13448916) ) » [(31 comments)](https://www.fark.com/comments/13448916/Tonight-on-Smackdown-Cody-Randy-team-up-to-face-Imperium-Liv-Nia-have-a-face-to-face-before-Crown-Jewel-tomorrow-Meanwhile-IYO-vs-Lash-vs-Piper-vs-Bianca-in-a-Fatal-4-way-See-what-else-gets-announced-for-CJ-starting-at-8-PM-ET-on-USA) |
+| [Sports](https://www.fark.com/sports/) | [Tonight on Smackdown: Cody & Randy team up to face Imperium. Liv & Nia have a face to face before Crown Jewel tomorrow. Meanwhile, IYO vs Lash vs Piper vs Bianca in a Fatal 4-way. See what else gets announced for CJ starting at 8 PM ET on USA](https://www.fark.com/goto/13448916) ( [wwe.com](https://www.fark.com/goto/13448916) ) » [(31 comments)](https://www.fark.com/comments/13448916/Tonight-on-Smackdown-Cody-Randy-team-up-to-face-Imperium-Liv-Nia-have-a-face-to-face-before-Crown-Jewel-tomorrow-Meanwhile-IYO-vs-Lash-vs-Piper-vs-Bianca-in-a-Fatal-4-way-See-what-else-gets-announced-for-CJ-starting-at-8-PM-ET-on-USA) |
+| [Business](https://www.fark.com/business/) | [Nvidia punts Intel out of the Dow](https://www.fark.com/goto/13449506) ( [cnbc.com](https://www.fark.com/goto/13449506) ) » [(4 comments)](https://www.fark.com/comments/13449506/Nvidia-punts-Intel-out-of-Dow) |
+| [STEM](https://www.fark.com/stem/) | [Semen. Is there anything it can't do?](https://www.fark.com/goto/13449382) ( [mdedge.com](https://www.fark.com/goto/13449382) ) » [(7 comments)](https://www.fark.com/comments/13449382/Semen-Is-there-anything-it-cant-do) |
+| [Entertainment](https://www.fark.com/entertainment/) | [For sale, baby shoes, worn lots of times](https://www.fark.com/goto/13449362) ( [nature.com](https://www.fark.com/goto/13449362) ) » [(2 comments)](https://www.fark.com/comments/13449362/For-sale-baby-shoes-worn-lots-of-times) |
+| [Fandom](https://www.fark.com/fandom/) | [Goths are cool again, thanks to Beetlejuice](https://www.fark.com/goto/13449064) ( [edition.cnn.com](https://www.fark.com/goto/13449064) ) » [(72 comments)](https://www.fark.com/comments/13449064/Goths-are-cool-again-thanks-to-Beetlejuice) |
+| [D'awww](https://www.fark.com/dawww/) | [I found these and they followed me home. Can we keep them?](https://www.fark.com/goto/13449290) ( [aol.com](https://www.fark.com/goto/13449290) ) » [(9 comments)](https://www.fark.com/comments/13449290/I-found-these-they-followed-me-home-Can-we-keep-them) |
+| [Food](https://www.fark.com/food/) | [A group of farmers calling themselves the "oat mafia" are encouraging other farmers to grow oats while doing their best to muscle in on territory currently held by General Mills and Quaker Oats](https://www.fark.com/goto/13449320) ( [arcamax.com](https://www.fark.com/goto/13449320) ) » [(7 comments)](https://www.fark.com/comments/13449320/A-group-of-farmers-calling-themselves-oat-mafia-are-encouraging-other-farmers-to-grow-oats-while-doing-their-best-to-muscle-in-on-territory-currently-held-by-General-Mills-Quaker-Oats) |
+| [Politics](https://www.fark.com/politics/) | [Cobb County, GA election officials distract DeJoy with shiny jangling car keys long enough to get 3,000 delayed ballots mailed to voters](https://www.fark.com/goto/13449176) ( [apnews.com](https://www.fark.com/goto/13449176) ) » [(1 comment)](https://www.fark.com/comments/13449176/Cobb-County-GA-election-officials-distract-DeJoy-with-shiny-jangling-car-keys-long-enough-to-get-3000-delayed-ballots-mailed-to-voters) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 01 2024 15:42:45  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 01 2024 21:42:52  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
