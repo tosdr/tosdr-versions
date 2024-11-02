@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/ufo-boven-waddenzee/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/de-ene-paal-is-de-andere-niet/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
