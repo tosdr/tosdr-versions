@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Friday, November 1 2024
+Saturday, November 2 2024
 
 Latest
 
-* [Los Angeles Housing Authority hit by another ransomware attack](https://digitpatrox.com/los-angeles-housing-authority-hit-by-another-ransomware-attack/)
-* [Proofpoint acquires data security posture management firm Normalyze](https://digitpatrox.com/proofpoint-acquires-data-security-posture-management-firm-normalyze/)
-* [Apple to expand its satellite services with Globalstar – Computerworld](https://digitpatrox.com/apple-to-expand-its-satellite-services-with-globalstar-computerworld/)
-* [Apple Intelligence’s ‘Reduce Interruptions’ Mode Can Help You Deal With All Your Notifications](https://digitpatrox.com/apple-intelligences-reduce-interruptions-mode-can-help-you-deal-with-all-your-notifications/)
-* [Saint Xavier University notifies 212K people of data breach that compromised SSNs, credit cards, and medical info](https://digitpatrox.com/saint-xavier-university-notifies-212k-people-of-data-breach-that-compromised-ssns-credit-cards-and-medical-info/)
-* [Best Electric Bikes – Consumer Reports](https://digitpatrox.com/best-electric-bikes-consumer-reports/)
-* [Google Explains How It Improved Meet Call Quality](https://digitpatrox.com/google-explains-how-it-improved-meet-call-quality/)
-* [Dropbox layoffs continue as firm cuts another 20% of staff](https://digitpatrox.com/dropbox-layoffs-continue-as-firm-cuts-another-20-of-staff/)
-* [Australian Companies Focus on Growth for Tech Spending](https://digitpatrox.com/australian-companies-focus-on-growth-for-tech-spending/)
-* [Apexel TM6 TeleMacro lens review](https://digitpatrox.com/apexel-tm6-telemacro-lens-review/)
+* [NYT Strands Today: Hints, Answers & Spangram for November 2](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-2/)
+* [Microsoft’s Recall delayed once again as roll-out fiasco continues](https://digitpatrox.com/microsofts-recall-delayed-once-again-as-roll-out-fiasco-continues/)
+* [Microsoft delays Recall rollout to December – Computerworld](https://digitpatrox.com/microsoft-delays-recall-rollout-to-december-computerworld/)
+* [My 11 Favorite Tools for Fall Yard Clean-Up](https://digitpatrox.com/my-11-favorite-tools-for-fall-yard-clean-up/)
+* [Will a VPN stop Facebook and Instagram from mining my data?](https://digitpatrox.com/will-a-vpn-stop-facebook-and-instagram-from-mining-my-data/)
+* [How to Use Apple AirPods Pro 2 Earbuds as Hearing Aids](https://digitpatrox.com/how-to-use-apple-airpods-pro-2-earbuds-as-hearing-aids/)
+* [23andMe May Be Sold, Here’s How to Delete Your Data](https://digitpatrox.com/23andme-may-be-sold-heres-how-to-delete-your-data/)
+* [Midnight Blizzard is on the rampage again, and enterprises should be wary of its new tactics](https://digitpatrox.com/midnight-blizzard-is-on-the-rampage-again-and-enterprises-should-be-wary-of-its-new-tactics/)
+* [5 Generative AI Trends to Watch in 2025](https://digitpatrox.com/5-generative-ai-trends-to-watch-in-2025/)
+* [Kindle Paperwhite (2024) review: The best gets better](https://digitpatrox.com/kindle-paperwhite-2024-review-the-best-gets-better/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Los-Angeles-Housing-Authority-hit-by-another-ransomware-attack.jpg)](https://digitpatrox.com/los-angeles-housing-authority-hit-by-another-ransomware-attack/)
+* [![](https://beebom.com/wp-content/uploads/2024/07/strands-today-hints-and-answers.jpg?w=1252&quality=75)](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-2/)
     
-    [Los Angeles Housing Authority hit by another ransomware attack](https://digitpatrox.com/los-angeles-housing-authority-hit-by-another-ransomware-attack/)
+    [NYT Strands Today: Hints, Answers & Spangram for November 2](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-2/)
     
-    6 mins ago
+    10 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/greuPGTj7YGkGtpfwUb7wE-1200-80.jpg)](https://digitpatrox.com/proofpoint-acquires-data-security-posture-management-firm-normalyze/)
+* [![](https://cdn.mos.cms.futurecdn.net/mzXSoufuS9gE7qjNjE7mpS-1200-80.jpg)](https://digitpatrox.com/microsofts-recall-delayed-once-again-as-roll-out-fiasco-continues/)
     
-    [Proofpoint acquires data security posture management firm Normalyze](https://digitpatrox.com/proofpoint-acquires-data-security-posture-management-firm-normalyze/)
+    [Microsoft’s Recall delayed once again as roll-out fiasco continues](https://digitpatrox.com/microsofts-recall-delayed-once-again-as-roll-out-fiasco-continues/)
     
-    36 mins ago
+    2 hours ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3596648-0-40920000-1730480713-AMF-Emergency-SOS-via-satellite-exterior.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/apple-to-expand-its-satellite-services-with-globalstar-computerworld/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3596591-0-81279800-1730492801-0-Microsoft-Windows-Recall-privacy.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/microsoft-delays-recall-rollout-to-december-computerworld/)
     
-    [Apple to expand its satellite services with Globalstar – Computerworld](https://digitpatrox.com/apple-to-expand-its-satellite-services-with-globalstar-computerworld/)
+    [Microsoft delays Recall rollout to December – Computerworld](https://digitpatrox.com/microsoft-delays-recall-rollout-to-december-computerworld/)
     
-    58 mins ago
+    2 hours ago
     
-* [![](https://lifehacker.com/imagery/articles/01JBM1JF3GZGQ2ZDWDEF38TCWE/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/apple-intelligences-reduce-interruptions-mode-can-help-you-deal-with-all-your-notifications/)
+* [![](https://lifehacker.com/imagery/articles/01J5MXKNTG4WWMQCMXR9QZ3093/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/my-11-favorite-tools-for-fall-yard-clean-up/)
     
-    [Apple Intelligence’s ‘Reduce Interruptions’ Mode Can Help You Deal With All Your Notifications](https://digitpatrox.com/apple-intelligences-reduce-interruptions-mode-can-help-you-deal-with-all-your-notifications/)
+    [My 11 Favorite Tools for Fall Yard Clean-Up](https://digitpatrox.com/my-11-favorite-tools-for-fall-yard-clean-up/)
     
-    1 hour ago
+    2 hours ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Saint-Xavier-University-notifies-212K-people-of-major-data-breach.jpg)](https://digitpatrox.com/saint-xavier-university-notifies-212k-people-of-data-breach-that-compromised-ssns-credit-cards-and-medical-info/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Will-a-VPN-stop-Facebook-Instagram-and-Threads-from-mining-my-data_.jpg)](https://digitpatrox.com/will-a-vpn-stop-facebook-and-instagram-from-mining-my-data/)
     
-    [Saint Xavier University notifies 212K people of data breach that compromised SSNs, credit cards, and medical info](https://digitpatrox.com/saint-xavier-university-notifies-212k-people-of-data-breach-that-compromised-ssns-credit-cards-and-medical-info/)
+    [Will a VPN stop Facebook and Instagram from mining my data?](https://digitpatrox.com/will-a-vpn-stop-facebook-and-instagram-from-mining-my-data/)
     
     2 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [6 mins ago
+* [10 mins ago
     
-    ### Los Angeles Housing Authority hit by another ransomware attack](https://digitpatrox.com/los-angeles-housing-authority-hit-by-another-ransomware-attack/)
-* [36 mins ago
+    ### NYT Strands Today: Hints, Answers & Spangram for November 2](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-2/)
+* [2 hours ago
     
-    ### Proofpoint acquires data security posture management firm Normalyze](https://digitpatrox.com/proofpoint-acquires-data-security-posture-management-firm-normalyze/)
-* [58 mins ago
+    ### Microsoft’s Recall delayed once again as roll-out fiasco continues](https://digitpatrox.com/microsofts-recall-delayed-once-again-as-roll-out-fiasco-continues/)
+* [2 hours ago
     
-    ### Apple to expand its satellite services with Globalstar – Computerworld](https://digitpatrox.com/apple-to-expand-its-satellite-services-with-globalstar-computerworld/)
+    ### Microsoft delays Recall rollout to December – Computerworld](https://digitpatrox.com/microsoft-delays-recall-rollout-to-december-computerworld/)
 
 Most Popular Topics
 
-* [August 21, 2024
+* [2 days ago
     
-    ### The Best Smartphone Deals for August 2024](https://digitpatrox.com/the-best-smartphone-deals-for-august-2024/)
-* [August 30, 2024
+    ### Talking Cars 457: Driving the 2025 Mini Cooper S](https://digitpatrox.com/talking-cars-457-driving-the-2025-mini-cooper-s/)
+* [1 day ago
     
-    ### How to Get Your Strength Training Done in Less Time, According to Science](https://digitpatrox.com/how-to-get-your-strength-training-done-in-less-time-according-to-science/)
-* [August 11, 2024
+    ### NYT Connections Today: Hints and Answers for November 1, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-1-2024/)
+* [4 weeks ago
     
-    ### How to find your oldest social media posts and delete them](https://digitpatrox.com/how-to-find-your-oldest-social-media-posts-and-delete-them/)
+    ### A Bank of America outage showed customers blanked-out account balances](https://digitpatrox.com/a-bank-of-america-outage-showed-customers-blanked-out-account-balances/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### Google Explains How It Improved Meet Call Quality](https://digitpatrox.com/google-explains-how-it-improved-meet-call-quality/)
 * [3 hours ago
     
-    ### Dropbox layoffs continue as firm cuts another 20% of staff](https://digitpatrox.com/dropbox-layoffs-continue-as-firm-cuts-another-20-of-staff/)
-* [3 hours ago
+    ### 23andMe May Be Sold, Here’s How to Delete Your Data](https://digitpatrox.com/23andme-may-be-sold-heres-how-to-delete-your-data/)
+* [4 hours ago
     
-    ### Australian Companies Focus on Growth for Tech Spending](https://digitpatrox.com/australian-companies-focus-on-growth-for-tech-spending/)
+    ### Midnight Blizzard is on the rampage again, and enterprises should be wary of its new tactics](https://digitpatrox.com/midnight-blizzard-is-on-the-rampage-again-and-enterprises-should-be-wary-of-its-new-tactics/)
+* [4 hours ago
+    
+    ### 5 Generative AI Trends to Watch in 2025](https://digitpatrox.com/5-generative-ai-trends-to-watch-in-2025/)
 
 Most Viewed Topics
 
-* [August 28, 2024
+* [August 12, 2024
     
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
