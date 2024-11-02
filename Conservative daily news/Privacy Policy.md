@@ -181,6 +181,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [More Hunters Than Ever Are Using AR-Style Rifles](https://www.thegunpage.com/more-hunters-than-ever-are-using-ar-style-rifles/10611611)
 * [How to Quickly Zero Your Rifle and Save on Ammo](https://www.thegunpage.com/how-to-quickly-zero-your-rifle-and-save-on-ammo/10611607)
 * [New Calibers For Savage 110 Magpul Scout](https://www.thegunpage.com/new-calibers-for-savage-110-magpul-scout/10611609)
 * [The Taurus 608 Competition Is Built For Speed](https://www.thegunpage.com/the-taurus-608-competition-is-built-for-speed/10611610)
@@ -190,7 +191,6 @@ Recent Posts
 * [SHAMELESS! Bloomberg Trying to Buy Ballots Again](https://www.thegunpage.com/shameless-bloomberg-trying-to-buy-ballots-again/10611599)
 * [NEW CZ Shadow 2 Target: CZ's Most Accurate Pistol Ever?](https://www.thegunpage.com/new-cz-shadow-2-target-czs-most-accurate-pistol-ever/10611601)
 * [Circuit Court Rules D.C. Mag Restriction Is Constitutional](https://www.thegunpage.com/circuit-court-rules-d-c-mag-restriction-is-constitutional/10611598)
-* [Legends: Sue Ann Sandusky 1952-2024](https://www.thegunpage.com/legends-sue-ann-sandusky-1952-2024/10611602)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* TMann on [President Joe Biden’s Schedule for Friday, November 1, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-1-2024/#comment-782988)
 * Stanley Warner on [The Democrat Party’s Hypocritical Deliberate Hate Strategy](https://www.conservativedailynews.com/2024/10/the-democrat-partys-hypocritical-deliberate-hate-strategy/#comment-782983)
 * Jeff L. on [The Left (Democrats, “News” Media) Always in a Flutter at Words](https://www.conservativedailynews.com/2024/10/the-left-democrats-news-media-always-in-a-flutter-at-words/#comment-782973)
 * charles wilkins on [Ewwww That Smell…](https://www.conservativedailynews.com/2024/10/ewwww-that-smell/#comment-782967)
@@ -240,7 +241,6 @@ Recent Comments
 * Stanley Warner on [The Democrats Are Done. They Are Out Of Gas And Ideas](https://www.conservativedailynews.com/2024/10/the-democrats-are-done-they-are-out-of-gas-and-ideas/#comment-782948)
 * charles wilkins on [New York Voter Delivers Two-Word Response When MSNBC Asks If ‘Threat To Democracy’ Attack On Trump Resonates](https://www.conservativedailynews.com/2024/10/new-york-voter-delivers-two-word-response-when-msnbc-asks-if-threat-to-democracy-attack-on-trump-resonates/#comment-782944)
 * Stanley Warner on [The Closing Arguments Could Not Be More Different](https://www.conservativedailynews.com/2024/10/the-closing-arguments-could-not-be-more-different/#comment-782936)
-* Stanley Warner on [Dangerous Rhetoric](https://www.conservativedailynews.com/2024/10/dangerous-rhetoric-2/#comment-782925)
 
 [Close](#)
 
