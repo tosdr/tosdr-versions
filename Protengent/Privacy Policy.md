@@ -16,258 +16,31 @@
 
 [![](img/icn_myacnt.webp)My Account](https://protegent360.com/my-account)
 
-Protegent
-=========
+Download Protegent Antivirus Demo
+=================================
 
-### World’s only Antivirus with Data Recovery Software
+World's Only Antivirus with Data Recovery Software
+==================================================
 
-Over 17 Million  
-Satisfied Customers
--------------------------------------
+#### With 30% Extra Features
 
-[See all Products](https://protegent360.com/buy-now)
+[Demo Download](#down-btn)
 
-[Buy Now](https://protegent360.com/antivirus)
+![](img/antivirus.webp)
 
-[![](img/tashu-btn.png)](https://protegent360.com/tashu/)
+Choose the level of protection that fits your needs  
+Start your free trial today!
+==================================================================================
 
-Our Product Range
-=================
+Download **Protegent Antivirus** Product Demo for complete protection from all online threats. 24x7 protection for your PC/Laptop with real-time threat updates. Browse risk-free and shop online with Pro-active Data Recovery Software.
 
-Protegent Antivirus
+Aruba Afghanistan Angola Anguilla Åland Islands Albania Andorra United Arab Emirates Argentina Armenia American Samoa Antarctica French Southern Territories Antigua and Barbuda Australia Austria Azerbaijan Burundi Belgium Benin Bonaire, Sint Eustatius and Saba Burkina Faso Bangladesh Bulgaria Bahrain Bahamas Bosnia and Herzegovina Saint Barthélemy Belarus Belize Bermuda Bolivia, Plurinational State of Brazil Barbados Brunei Darussalam Bhutan Bouvet Island Botswana Central African Republic Canada Cocos (Keeling) Islands Switzerland Chile China Côte d'Ivoire Cameroon Congo, the Democratic Republic of the Congo Cook Islands Colombia Comoros Cape Verde Costa Rica Cuba Curaçao Christmas Island Cayman Islands Cyprus Czech Republic Germany Djibouti Dominica Denmark Dominican Republic Algeria Ecuador Egypt Eritrea Western Sahara Spain Estonia Ethiopia Finland Fiji Falkland Islands (Malvinas) France Faroe Islands Micronesia, Federated States of Gabon United Kingdom Georgia Guernsey Ghana Gibraltar Guinea Guadeloupe Gambia Guinea-Bissau Equatorial Guinea Greece Grenada Greenland Guatemala French Guiana Guam Guyana Hong Kong Heard Island and McDonald Islands Honduras Croatia Haiti Hungary Indonesia Isle of Man India British Indian Ocean Territory Ireland Iran, Islamic Republic of Iraq Iceland Israel Italy Jamaica Jersey Jordan Japan Kazakhstan Kenya Kyrgyzstan Cambodia Kiribati Saint Kitts and Nevis Korea, Republic of Kuwait Lao People's Democratic Republic Lebanon Liberia Libya Saint Lucia Liechtenstein Sri Lanka Lesotho Lithuania Luxembourg Latvia Macao Saint Martin (French part) Morocco Monaco Moldova, Republic of Madagascar Maldives Mexico Marshall Islands Macedonia, the former Yugoslav Republic of Mali Malta Myanmar Montenegro Mongolia Northern Mariana Islands Mozambique Mauritania Montserrat Martinique Mauritius Malawi Malaysia Mayotte Namibia New Caledonia Niger Norfolk Island Nigeria Nicaragua Niue Netherlands Norway Nepal Nauru New Zealand Oman Pakistan Panama Pitcairn Peru Philippines Palau Papua New Guinea Poland Puerto Rico Korea, Democratic People's Republic of Portugal Paraguay Palestine, State of French Polynesia Qatar Réunion Romania Russian Federation Rwanda Saudi Arabia Sudan Senegal Singapore South Georgia and the South Sandwich Islands Saint Helena, Ascension and Tristan da Cunha Svalbard and Jan Mayen Solomon Islands Sierra Leone El Salvador San Marino Somalia Saint Pierre and Miquelon Serbia South Sudan Sao Tome and Principe Suriname Slovakia Slovenia Sweden Swaziland Sint Maarten (Dutch part) Seychelles Syrian Arab Republic Turks and Caicos Islands Chad Togo Thailand Tajikistan Tokelau Turkmenistan Timor-Leste Tonga Trinidad and Tobago Tunisia Turkey Tuvalu Taiwan, Province of China Tanzania, United Republic of Uganda Ukraine United States Minor Outlying Islands Uruguay United States Uzbekistan Holy See (Vatican City State) Saint Vincent and the Grenadines Venezuela, Bolivarian Republic of Virgin Islands, British Virgin Islands, U.S. Viet Nam Vanuatu Wallis and Futuna Samoa Yemen South Africa Zambia Zimbabwe
 
-1 Year / 1 User 3 Year / 1 User
+ I agree with the END USER LICENSE AGREEMENT PROTEGENT
 
-~₹ 750.00~ ₹490.00
+Submit
 
-![Protegent Antivirus](uploads/prod-img-antivirus.webp)
-
-**Supported Operating Systems**
-
-Windows 11, 10, 8, 8.1, 7, Vista (Service Pack 1), Windows XP (Service Pack 3), Windows Server.
-
-[Buy Now](javascript:void('0'))
-
-Cloud Technology
-
-Data Recovery
-
-Fast Installation
-
-Ransomware Protection
-
-Advance DNA Scan
-
-USB Threat Protection
-
-Offline Update and Activation
-
-Protegent Total Security
-
-1 Year / 1 User
-
-~₹ 1250.00~ ₹550.00
-
-![Protegent Total Security](uploads/prod-img-total-security.webp)
-
-**Supported Operating Systems**
-
-Windows-based: 11, 10, 8, 8.1, 7, and Windows Server.
-
-[Buy Now](javascript:void('0'))
-
-Cloud Technology
-
-Data Recovery
-
-Fast Installation
-
-Ransomware Protection
-
-Advance DNA Scan
-
-USB Threat Protection
-
-Offline Update and Activation
-
-Advance Firewall
-
-Parental Control
-
-Protegent Complete Security
-
-1 Year / 1 User
-
-~₹ 2000.00~ ₹850.00
-
-![Protegent Complete Security](uploads/prod-img-complete-security.webp)
-
-**Supported Operating Systems**
-
-Windows-based: Windows 11, 10, 8, 8.1, 7, Windows XP (Service Pack 3), Windows Server.
-
-[Buy Now](javascript:void('0'))
-
-Cloud Technology
-
-Data Recovery
-
-Fast Installation
-
-Ransomware Protection
-
-Advance DNA Scan
-
-USB Threat Protection
-
-Offline Update and Activation
-
-Activity Reporter
-
-Port Locker
-
-Locate Laptop
-
-Sys Boost
-
-Crash Proof
-
-Benefits
-========
-
-![](img/icn-fast-scan.webp)
-
-#### Fastest  
-Scanning
-
-![](img/icn-quick-install.webp)
-
-#### Quick  
-Installation
-
-![](img/icn-ransomeware.webp)
-
-#### Ransomware  
-Protection
-
-![](img/icn-cloud-protection.webp)
-
-#### Cloud  
-Protection
-
-![](img/icn-fast-pc.webp)
-
-#### Never Slows Down  
-your PC
-
-![](img/icn-extra-feature.webp)
-
-#### 75% Extra Features from  
-the Best Products Available
-
-Global Leader In Cybersecurity
-==============================
-
-![](img/icn-total-years.webp)
-
-### 29 Years
-
-#### Industry Experience
-
-![](img/icn-total-customers.webp)
-
-### 17 Million +
-
-#### Satisfied Customers
-
-![](img/icn-countries.webp)
-
-### 125+ Countries
-
-#### Worldwide Customers
-
-Our Customer Stories  
-Better Service Starts Here
-=================================================
-
-Protegent antivirus software is an excellent product. I use it for my laptop, computer, and mobile device.
-
-Dimple Matharu
-
-I’ve been using Protegent complete security software for many years and trust me, it gives you all-around protection without breaking your bank.
-
-Ashutosh Kaushik
-
-Have been using Protegent complete security software for 5 consecutive years. Highly recommended for people who are looking for the best antivirus software.
-
-Adya Agrawal
-
-I am totally satisfied with the Protegent antivirus software.
-
-Simran Joshi
-
-Excellent antivirus software with unique features.
-
-Akshay Malhotra
-
-Protegent antivirus software is the best and an affordable one. I am loving it.
-
-Kapil Purohit
-
-Protegent complete security software is the best as it has 6 different modules that cater to all your security needs, be it protecting your data from theft, improving your system’s performance, or keeping an eye on your kid’s activities.
-
-Preeti Rai
-
-Have been using and recommending Protegent total security software to others for years. It is lightweight and it improved my system’s performance.
-
-Anand Rathore
-
-Protegent antivirus software is the world’s no#1 software with in-built data recovery software.
-
-Anjali Seth
-
-![](img/complete-protection.webp)
-
-Give your family the Complete Protection
-========================================
-
-Protegent Antivirus Software
-============================
-
-[Free Trial](https://protegent360.com/protegent-antivirus-demo-download)
-
-Think Beyond Antivirus Think Protegent
-======================================
-
-Protegent Antivirus - Downloading, Installation & User Interface
-================================================================
-
-[Watch on YouTube](https://youtu.be/CUNh4OS7Agc)
-
-[![](img/on-youtube.webp)](https://youtu.be/CUNh4OS7Agc)
-
-Recognitions
-============
-
-![](img/recog-1.webp)
-
-![](img/recog-2.webp)
-
-![](img/recog-3.webp)
-
-![](img/recog-4.webp)
-
-![](img/recog-3.webp)
-
-![](img/img-100-safe.webp)
-
-![](img/since-1994.webp)
-
-![](img/try-it-free.webp)
-
-![](img/oem-tieup.webp)
-
-![](img/certiified.webp)
+[![](img/demo-download1.webp)](#)
 
 ##### ![](https://protegent360.com/img/protegent-logo.webp)
 
