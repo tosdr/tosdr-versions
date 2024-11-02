@@ -42,7 +42,7 @@ Product![](/static_images/landing/dropdown-caret.svg)
 
 [HTTP Request](https://help.taskade.com/en/articles/9421110-http-request)
 
-[Webhooks](https://www.taskade.com/feedback/integrations/p/webhooks)
+[Webhooks](https://help.taskade.com/en/articles/9494976-webhooks-automation-trigger)
 
 [Project Views](https://www.taskade.com/new)![](/static_images/landing/dropdown-caret.svg)
 
@@ -198,7 +198,7 @@ Tools![](/static_images/landing/dropdown-caret.svg)
 
 [Pricing](https://www.taskade.com/pricing)
 
-[Contact Sales](https://taskade.com/request-demo)[Log in](https://www.taskade.com/login)[Sign upSign up for free](https://www.taskade.com/signup)
+[Contact sales](https://taskade.com/request-demo)[Log in](https://www.taskade.com/login)[Sign upSign up for free](https://www.taskade.com/signup)
 
 [](https://www.taskade.com/ "Taskade")
 
