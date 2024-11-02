@@ -116,7 +116,6 @@ Menu
 * [New](https://www.cdkeys.com/new)
 * [Coming Soon](https://www.cdkeys.com/coming-soon)
 
-* [My Account](https://www.cdkeys.com/customer/account/login/)
 * [Wishlist](https://www.cdkeys.com/wishlist/)
 * [My Cart](https://www.cdkeys.com/checkout/cart/)
 * [Checkout](https://www.cdkeys.com/checkout/)
@@ -458,11 +457,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-2.    [![Sea of Thieves Xbox One / PC](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/hero_8_.jpg)   No 2. \-84%](https://www.cdkeys.com/xbox-live/sea-of-thieves-xbox-one)
+2.    [![Sea of Thieves Xbox One / PC](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/hero_8_.jpg)   No 2. \-86%](https://www.cdkeys.com/xbox-live/sea-of-thieves-xbox-one)
     
     **[Sea of Thieves: 2024 Edition Xbox One / Xbox Series X|S / PC](https://www.cdkeys.com/xbox-live/sea-of-thieves-xbox-one "Sea of Thieves: 2024 Edition Xbox One / Xbox Series X|S / PC")**
     
-    Special Price $10.39 RRP $64.99
+    Special Price $8.79 RRP $64.99
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -530,11 +529,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-9.    [![Minecraft: Java & Bedrock Edition PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_88__2_1.jpg)   No 9. \-64%](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww)
+9.    [![Minecraft: Java & Bedrock Edition PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_88__2_1.jpg)   No 9. \-65%](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww)
     
     **[Minecraft: Java & Bedrock Edition PC (WW)](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww "Minecraft: Java & Bedrock Edition PC (WW)")**
     
-    Special Price $11.69 RRP $32.49
+    Special Price $11.39 RRP $32.49
     
     [Add to Wish List](# "Add to Wish List")
     
