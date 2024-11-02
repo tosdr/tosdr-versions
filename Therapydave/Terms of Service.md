@@ -148,7 +148,7 @@ Contact Information
 
 If you have any questions or concerns about this Agreement, please contact us at 2440 Willamette Street, Suite 101-C, Eugene, Oregon, 97405 or by phone at 541-705-4666.
 
-_“At first I thought I had to do what everyone else wanted and that I just had to get through the day meeting everyone’s demands. Then I learned that I can state my boundaries and what I will and won’t do and what I do and don’t want to do. And people actually respected that (the majority of people, there’s still people who try to push and get what they want more than anything).”_
+_“Before therapy I thought I could change people with my love, affection, loyalty, etc. Not only did I think I \*could\* but I think I thought that it was somehow also my duty to do so. Then I learned about codependency and how it was not my responsibility to change people nor is it possible. I learned that people are who they are and, other than a respectful request, it's best to take people at face value and use boundaries. As a result, I no longer make as much space for people in my life who drain me and do not fill my cup.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
