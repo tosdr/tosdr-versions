@@ -56,11 +56,11 @@ Learn & Connect
 
 [Accountant Console](https://getdivvy.com/product/accountant-console)[Accountant Partner Program](https://getdivvy.com/accountant-partner-program)[Pricing for Accountants](https://getdivvy.com/product/pricing#accountants)[Accountant Community Login](https://billcommunity.bettermode.io/)[Request a Demo](https://getdivvy.com/demo-request)
 
-Your change management checklist
+5 Steps to CAS Success
 
-[Read the Article](https://getdivvy.com/accountant-resource-center/articles/your-change-management-checklist)
+[Download the Guide](https://getdivvy.com/guides/5-steps-to-cas-success)
 
-![](https://cdn.prod.website-files.com/63e56114746188c54e2936e0/67058aaa09fd160b74e9fc7c_image%2094.png)
+![](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/67254e525e79b3d7141f9efa_5-steps-to-cas-success.webp)
 
 Solutions
 
