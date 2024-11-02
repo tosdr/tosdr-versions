@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/TREVONTE-D-REYNOLDS--326x245.jpg)](https://cwbchicago.com/2024/10/hijacker-took-victim-on-40-minute-horror-ride-then-crashed-in-a-fiery-explosion-prosecutors.html "Hijacker took delivery driver on 40-minute horror ride, then crashed in a fiery explosion: prosecutors")
+
+Auburn Gresham
+
+### [Hijacker took delivery driver on 40-minute horror ride, then crashed in a fiery explosion: prosecutors](https://cwbchicago.com/2024/10/hijacker-took-victim-on-40-minute-horror-ride-then-crashed-in-a-fiery-explosion-prosecutors.html "Hijacker took delivery driver on 40-minute horror ride, then crashed in a fiery explosion: prosecutors")
+
+[October 31, 2024 4:19 PM](https://cwbchicago.com/2024/10)
+
+Prosecutors say a South Holland man carjacked and kidnapped a delivery driver, taking him on a 40-minute horror ride until they ultimately crashed and the hijacked vehicle burst into flames.[](https://cwbchicago.com/2024/10/hijacker-took-victim-on-40-minute-horror-ride-then-crashed-in-a-fiery-explosion-prosecutors.html "Hijacker took delivery driver on 40-minute horror ride, then crashed in a fiery explosion: prosecutors")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/05/Leni-Manaa-Hoppenworth-326x245.jpg)](https://cwbchicago.com/2024/10/alderman-who-vowed-to-stop-talking-about-crime-reverses-course-as-shootings-soar-180-people-are-leaving-edgewater-because-they-dont-feel-safe.html "Alderman who vowed to stop talking about crime, reverses course as shootings soar 180%: ‘outraged and disheartened’")
+
+Edgewater
+
+### [Alderman who vowed to stop talking about crime, reverses course as shootings soar 180%: ‘outraged and disheartened’](https://cwbchicago.com/2024/10/alderman-who-vowed-to-stop-talking-about-crime-reverses-course-as-shootings-soar-180-people-are-leaving-edgewater-because-they-dont-feel-safe.html "Alderman who vowed to stop talking about crime, reverses course as shootings soar 180%: ‘outraged and disheartened’")
+
+[October 31, 2024 9:22 AM](https://cwbchicago.com/2024/10)
+
+Just five months after announcing she would no longer talk about crime in her constituent newsletters because doing so is racist and fuels an “inaccurate public perception about crime rates,” Ald. Leni Manaa-Hoppenworth (48th) reversed course this morning.[](https://cwbchicago.com/2024/10/alderman-who-vowed-to-stop-talking-about-crime-reverses-course-as-shootings-soar-180-people-are-leaving-edgewater-because-they-dont-feel-safe.html "Alderman who vowed to stop talking about crime, reverses course as shootings soar 180%: ‘outraged and disheartened’")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/chains-326x245.jpg)](https://cwbchicago.com/2024/10/chain-snatchings-reported-near-belmont-harbor-north-avenue-beach.html "Chain snatchings reported near Belmont Harbor, North Avenue Beach")
 
 Gold Coast
@@ -252,26 +272,6 @@ Gold Coast
 [October 31, 2024 4:47 AM](https://cwbchicago.com/2024/10)
 
 The city’s chain-snatching robbery problem appears to have migrated north, with two incidents reported along the lakefront this week: one near Belmont Harbor and another near North Avenue Beach.[](https://cwbchicago.com/2024/10/chain-snatchings-reported-near-belmont-harbor-north-avenue-beach.html "Chain snatchings reported near Belmont Harbor, North Avenue Beach")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/irving-kimball-041a--326x245.jpg)](https://cwbchicago.com/2024/10/woman-shot-while-driving-in-irving-park.html "Woman shot while driving in Irving Park")
-
-Irving Park
-
-### [Woman shot while driving in Irving Park](https://cwbchicago.com/2024/10/woman-shot-while-driving-in-irving-park.html "Woman shot while driving in Irving Park")
-
-[October 31, 2024 4:34 AM](https://cwbchicago.com/2024/10)
-
-Chicago police said the woman was driving in the 3400 block of West Irving Park Road when a man in another vehicle shot at her around 11:40 p.m.[](https://cwbchicago.com/2024/10/woman-shot-while-driving-in-irving-park.html "Woman shot while driving in Irving Park")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Tevon-Jackson-326x245.jpg)](https://cwbchicago.com/2024/10/concealed-carry-holder-charged-with-shooting-outside-loyola-red-line-station.html "Concealed carry holder charged with shooting outside Loyola Red Line station")
-
-Rogers Park
-
-### [Concealed carry holder charged with shooting outside Loyola Red Line station](https://cwbchicago.com/2024/10/concealed-carry-holder-charged-with-shooting-outside-loyola-red-line-station.html "Concealed carry holder charged with shooting outside Loyola Red Line station")
-
-[October 30, 2024 7:02 PM](https://cwbchicago.com/2024/10)
-
-A judge on Wednesday detained a concealed carry holder after prosecutors accused the man of firing his gun during an argument, leaving two men injured outside the Loyola Red Line. But even in the court files, documents differ as to whether Tevon Jackson, 24, shot one man or two.[](https://cwbchicago.com/2024/10/concealed-carry-holder-charged-with-shooting-outside-loyola-red-line-station.html "Concealed carry holder charged with shooting outside Loyola Red Line station")
 
 Search
 
