@@ -131,6 +131,8 @@ If you want to delete cookies follow the instructions at: [How to Clear Your Bro
 
 Save settings
 
+[Click here to review or change your personal data consent.](javascript:googlefc.callbackQueue.push(googlefc.showRevocationMessage))
+
 [](#)Cookies make wikiHow better. By continuing to use our site, you agree to our [cookie policy](https://www.wikihow.com/wikiHow:Cookie-Policy).
 
 [Random Article](https://www.wikihow.com/Special:Randomizer)[Write An Article](https://www.wikihow.com/Special:CreatePage)
@@ -195,4 +197,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-161
+143
