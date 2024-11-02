@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Love you guys!
+Thank you so much. Your shit rocks!
 
-Elan
+Albert Curutchet
