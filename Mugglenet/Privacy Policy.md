@@ -356,15 +356,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-During the Harry Potter and the Philosopher’s/Sorcerer’s Stone film, viewers can hear Rubeus Hagrid playing Hedwig’s Theme on a flute right before the trio approaches and asks him about obtaining Norbert.
+The name Voldemort comes from the French words meaning “fly from death,” and his entire goal is to conquer death.
 
 ### Potter History
 
-June 10, 2011 – The running time for Harry Potter and the Deathly Hallows – Part 2 is revealed to be 125 minutes, the shortest of the eight.
+December 11, 2007 – Harry Potter and the Order of the Phoenix is released on DVD in the United States, a whole month after fans in the United Kingdom got their hands on it.
 
 ### Potter Quote
 
-“I knew I could do it this time, because I’d already done it. . . . Does that make sense?”
+“She stopped you killing me. And I’ve seen the real you, I saw you last year. You’re a wreck. You’re barely alive. That’s where all your power got you. You’re in hiding. You’re ugly, you’re foul —”
 
 [](#)
 
