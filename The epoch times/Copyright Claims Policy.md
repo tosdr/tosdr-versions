@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [US Manufacturing Slump Deepens as More Jobs Cut, New Orders Drop](https://www.theepochtimes.com/business/us-manufacturing-slump-deepens-as-more-jobs-cut-new-orders-drop-5752244)
+    
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![US Manufacturing Slump Deepens as More Jobs Cut, New Orders Drop](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Manufacturing Slump Deepens as More Jobs Cut, New Orders Drop](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722409-GettyImages-1151712640-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/us-manufacturing-slump-deepens-as-more-jobs-cut-new-orders-drop-5752244)
+* [Secret Service Releases Internal Review Into July 13 Attempted Assassination of Trump](https://www.theepochtimes.com/us/secret-service-releases-internal-review-into-july-13-attempted-assassination-of-trump-5752408)
+    
+    2hr By [Rachel Acenas](https://www.theepochtimes.com/author/rachel-acenas)
+    
+    [![Secret Service Releases Internal Review Into July 13 Attempted Assassination of Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Secret Service Releases Internal Review Into July 13 Attempted Assassination of Trump](https://img.theepochtimes.com/assets/uploads/2024/11/01/id5752411-APTOPIX_Election_2024_Trump_24195806515160-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/secret-service-releases-internal-review-into-july-13-attempted-assassination-of-trump-5752408)
+* [Day in Photos: Shooting Scene, Returning to Court, and a Penguin Colony](https://www.theepochtimes.com/article/day-in-photos-shooting-scene-returning-to-court-and-drug-seizure-5751996)
+    
+    3hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Shooting Scene, Returning to Court, and a Penguin Colony](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Shooting Scene, Returning to Court, and a Penguin Colony](https://img.theepochtimes.com/assets/uploads/2024/11/01/id5752352-GettyImages-2182312514-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-shooting-scene-returning-to-court-and-drug-seizure-5751996)
+* [Pennsylvania Supreme Court Rules Undated Ballots Cannot Be Counted](https://www.theepochtimes.com/us/pennsylvania-supreme-court-rules-undated-ballots-cannot-be-counted-5752144)
+    
+    3hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![Pennsylvania Supreme Court Rules Undated Ballots Cannot Be Counted](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Pennsylvania Supreme Court Rules Undated Ballots Cannot Be Counted](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750683-GettyImages-2171844038KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-supreme-court-rules-undated-ballots-cannot-be-counted-5752144)
+* [Supreme Court Rejects GOP Challenge in Pennsylvania Provisional Ballot Case](https://www.theepochtimes.com/us/supreme-court-rejects-gop-request-for-relief-in-pennsylvania-ballot-case-5750912)
+    
+    5hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![Supreme Court Rejects GOP Challenge in Pennsylvania Provisional Ballot Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Supreme Court Rejects GOP Challenge in Pennsylvania Provisional Ballot Case](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748818-10232024-DSC06716-SCOTUSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-rejects-gop-request-for-relief-in-pennsylvania-ballot-case-5750912)
+* [Judge Sets Date for NYC Mayor Eric Adams’ Bribery and Corruption Trial](https://www.theepochtimes.com/us/judge-sets-date-for-nyc-mayor-eric-adams-bribery-and-corruption-trial-5752378)
+    
+    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Judge Sets Date for NYC Mayor Eric Adams’ Bribery and Corruption Trial](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Judge Sets Date for NYC Mayor Eric Adams’ Bribery and Corruption Trial](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730962-GettyImages-2173761964-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-sets-date-for-nyc-mayor-eric-adams-bribery-and-corruption-trial-5752378)
 * [New Treasury Rule Expands Oversight of Foreign Land Buys Near Military Bases](https://www.theepochtimes.com/us/new-treasury-rule-expands-oversight-of-foreign-land-buys-near-military-bases-5752368)
     
-    NEW By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    6hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
     
     [![New Treasury Rule Expands Oversight of Foreign Land Buys Near Military Bases](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![New Treasury Rule Expands Oversight of Foreign Land Buys Near Military Bases](https://img.theepochtimes.com/assets/uploads/2023/12/25/id5552780-DSC03775-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-treasury-rule-expands-oversight-of-foreign-land-buys-near-military-bases-5752368)
+    ![New Treasury Rule Expands Oversight of Foreign Land Buys Near Military Bases](https://img.theepochtimes.com/assets/uploads/2024/11/01/id5752496-DSC03775KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-treasury-rule-expands-oversight-of-foreign-land-buys-near-military-bases-5752368)
+* [Security Tight as NYC Prepares for Marathon 2 Days Before Election](https://www.theepochtimes.com/sports/security-tight-as-nyc-prepares-for-marathon-2-days-before-election-5752315)
+    
+    6hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
+    
+    [![Security Tight as NYC Prepares for Marathon 2 Days Before Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Security Tight as NYC Prepares for Marathon 2 Days Before Election](https://img.theepochtimes.com/assets/uploads/2023/11/05/id5523400-Tamirat-Tola-AP23309605419599-205x123.jpg.webp)](https://www.theepochtimes.com/sports/security-tight-as-nyc-prepares-for-marathon-2-days-before-election-5752315)
+* [How Everyday Lies Can Make You Sick](https://www.theepochtimes.com/health/how-everyday-lies-can-make-you-sick-5719868)
+    
+    6hr By [Robert Backer](https://www.theepochtimes.com/expert/robert-backer), [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert) and [Yuhong Dong](https://www.theepochtimes.com/expert/yuhong-dong-experts)
+    
+    [![How Everyday Lies Can Make You Sick](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![How Everyday Lies Can Make You Sick](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744158-Untitled_Artwork-honesty-205x123.jpg.webp)](https://www.theepochtimes.com/health/how-everyday-lies-can-make-you-sick-5719868)
 * [Michigan Supreme Court Dismisses COVID-19 Mandate Challenge](https://www.theepochtimes.com/us/michigan-supreme-court-dismisses-covid-19-mandate-challenge-5752262)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Michigan Supreme Court Dismisses COVID-19 Mandate Challenge](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Michigan Supreme Court Dismisses COVID-19 Mandate Challenge](https://img.theepochtimes.com/assets/uploads/2020/04/06/michigan-department-of-health-human-services-205x123.jpg.webp)](https://www.theepochtimes.com/us/michigan-supreme-court-dismisses-covid-19-mandate-challenge-5752262)
-* [Hospital Mask Mandates Come Back in California’s Bay Area: What We Know](https://www.theepochtimes.com/article/hospital-mask-mandates-come-back-in-californias-bay-area-what-we-know-5752380)
-    
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Hospital Mask Mandates Come Back in California’s Bay Area: What We Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Hospital Mask Mandates Come Back in California’s Bay Area: What We Know](https://img.theepochtimes.com/assets/uploads/2023/09/26/id5499051-Ohio-hospital-COVID-19-patient-205x123.jpg.webp)](https://www.theepochtimes.com/article/hospital-mask-mandates-come-back-in-californias-bay-area-what-we-know-5752380)
-* [Next US President to Face Slowing Economy, Experts Warn](https://www.theepochtimes.com/article/next-us-president-to-face-slowing-economy-experts-warn-5751564)
-    
-    NEW By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
-    
-    [![Next US President to Face Slowing Economy, Experts Warn](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Next US President to Face Slowing Economy, Experts Warn](https://img.theepochtimes.com/assets/uploads/2024/11/01/id5752442-Economy-for-next-president-6-205x123.jpg.webp)](https://www.theepochtimes.com/article/next-us-president-to-face-slowing-economy-experts-warn-5751564)
-* [Vance Tells Joe Rogan He Was the Sickest He’d Been in 15 Years After COVID Vaccination](https://www.theepochtimes.com/us/vance-tells-joe-rogan-he-was-the-sickest-hed-been-in-15-years-after-covid-vaccination-5752264)
-    
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Vance Tells Joe Rogan He Was the Sickest He’d Been in 15 Years After COVID Vaccination](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Vance Tells Joe Rogan He Was the Sickest He’d Been in 15 Years After COVID Vaccination](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751712-JD-Vance-Joe-Rogan-205x123.jpg.webp)](https://www.theepochtimes.com/us/vance-tells-joe-rogan-he-was-the-sickest-hed-been-in-15-years-after-covid-vaccination-5752264)
-* [Texas Doctor Gets 10-Year Prison Term for $54 Million Medicare Fraud](https://www.theepochtimes.com/us/texas-doctor-gets-10-year-prison-term-for-54-million-medicare-fraud-5752240)
-    
-    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Texas Doctor Gets 10-Year Prison Term for $54 Million Medicare Fraud](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Texas Doctor Gets 10-Year Prison Term for $54 Million Medicare Fraud](https://img.theepochtimes.com/assets/uploads/2023/10/04/id5503629-shutterstock_115761625-205x123.jpg.webp)](https://www.theepochtimes.com/us/texas-doctor-gets-10-year-prison-term-for-54-million-medicare-fraud-5752240)
-* [IRS Announces Updated Retirement Plan Contribution Limits for 2025](https://www.theepochtimes.com/us/irs-announces-updated-retirement-plan-contribution-limits-for-2025-post-5752190)
-    
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![IRS Announces Updated Retirement Plan Contribution Limits for 2025](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![IRS Announces Updated Retirement Plan Contribution Limits for 2025](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748640-01042024-DSC06070-IRS.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/irs-announces-updated-retirement-plan-contribution-limits-for-2025-post-5752190)
-* [China Conducts Unprecedented Dual Carrier Exercises in South China Sea](https://www.theepochtimes.com/china/china-conducts-unprecedented-dual-carrier-exercises-in-south-china-sea-5752194)
-    
-    2hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
-    
-    [![China Conducts Unprecedented Dual Carrier Exercises in South China Sea](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![China Conducts Unprecedented Dual Carrier Exercises in South China Sea](https://img.theepochtimes.com/assets/uploads/2024/06/25/id5674982-GettyImages-809966856-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-conducts-unprecedented-dual-carrier-exercises-in-south-china-sea-5752194)
-* [Chinese National Gets Indicted for Stealing Trade Secrets From Global Investment Company](https://www.theepochtimes.com/china/chinese-national-gets-indicted-for-stealing-trade-secrets-from-global-investment-company-5752186)
-    
-    2hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
-    
-    [![Chinese National Gets Indicted for Stealing Trade Secrets From Global Investment Company](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Chinese National Gets Indicted for Stealing Trade Secrets From Global Investment Company](https://img.theepochtimes.com/assets/uploads/2024/07/29/id5695814-07292024-DSC09126-DOJ-205x123.jpg.webp)](https://www.theepochtimes.com/china/chinese-national-gets-indicted-for-stealing-trade-secrets-from-global-investment-company-5752186)
-* [Federal Judge Sends Case Over Elon Musk’s $1 Million Giveaways Back to Philadelphia Court](https://www.theepochtimes.com/us/federal-judge-sends-elon-musks-case-back-to-philadelphia-court-5752273)
-    
-    3hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![Federal Judge Sends Case Over Elon Musk’s $1 Million Giveaways Back to Philadelphia Court](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Federal Judge Sends Case Over Elon Musk’s $1 Million Giveaways Back to Philadelphia Court](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751389-GettyImages-2180769486-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-sends-elon-musks-case-back-to-philadelphia-court-5752273)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
