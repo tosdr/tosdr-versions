@@ -105,20 +105,20 @@ Top downloads
 
 Latest releases
 
-* [Great Golf](https://www.myabandonware.com/game/great-golf-apx)
-* [GP World](https://www.myabandonware.com/game/gp-world-anw)
-* [Guilty Gear X ver 1.5](https://www.myabandonware.com/game/guilty-gear-x-ver-1-5-sq3)
-* [RPG Maker 95](https://www.myabandonware.com/game/rpg-maker-95-sq1)
-* [Virtua Golf](https://www.myabandonware.com/game/virtua-golf-t4w)
+* [Wangan Midnight: Maximum Tune](https://www.myabandonware.com/game/wangan-midnight-maximum-tune-t51)
+* [Spica Adventure](https://www.myabandonware.com/game/spica-adventure-t50)
+* [Wangan Midnight: Maximum Tune 2](https://www.myabandonware.com/game/wangan-midnight-maximum-tune-2-t4z)
+* [Star Trek: Voyager - The Arcade Game](https://www.myabandonware.com/game/star-trek-voyager-the-arcade-game-t4y)
+* [Sports Jam](https://www.myabandonware.com/game/sports-jam-t4x)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [The Punisher: Eternity Disk](https://www.myabandonware.com/game/the-punisher-eternity-disk-g99)
-* [Premier Picks](https://www.myabandonware.com/game/premier-picks-7jx)
-* [More War: The Return of the Horde](https://www.myabandonware.com/game/more-war-the-return-of-the-horde-eq0)
+* [Bubble Trouble: Golly! Ghost! 2](https://www.myabandonware.com/game/bubble-trouble-golly-ghost-2-s5x)
+* [Pinball Graffiti](https://www.myabandonware.com/game/pinball-graffiti-p5j)
+* [Jeopardy!](https://www.myabandonware.com/game/jeopardy-plu)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
