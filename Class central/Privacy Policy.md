@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. English
+1. python
     
-2. project management
+2. English
     
-3. cyber security
+3. computer science
     
 
 Popular subjects
 ----------------
 
-1. [Communication Skills
+1. [Web Development
+    
+    13,418 courses](https://www.classcentral.com/subject/web-development)
+2. [Communication Skills
     
     4,089 courses](https://www.classcentral.com/subject/communication-skills)
-2. [Artificial Intelligence
+3. [Data Analysis
     
-    13,040 courses](https://www.classcentral.com/subject/ai)
-3. [Psychology
-    
-    2,464 courses](https://www.classcentral.com/subject/psychology)
+    8,521 courses](https://www.classcentral.com/subject/data-analysis)
 
 Popular courses
 ---------------
 
-1. [Direct Tax Laws and Practice
+1. [Medicine and the Arts: Humanising Healthcare
     
-    Tezpur University](https://www.classcentral.com/course/swayam-direct-tax-laws-and-practice-14009)
-2. [Introduction to Biology - The Secret of Life
+    University of Cape Town](https://www.classcentral.com/course/medicine-and-the-arts-3015)
+2. [Arab-Islamic History: From Tribes to Empires
     
-    Massachusetts Institute of Technology](https://www.classcentral.com/course/biology-massachusetts-institute-of-technology-int-637)
-3. [ODS en la Agenda 2030 de las Naciones Unidas: Retos de los Objetivos de Desarrollo Sostenible
+    Tel Aviv University](https://www.classcentral.com/course/humanities-tel-aviv-university-arab-islamic-histo-9365)
+3. [The Bible's Prehistory, Purpose, and Political Future
     
-    Universitat Politècnica de València](https://www.classcentral.com/course/sustainable-development-universitat-politecnica-d-9740)
+    Emory University](https://www.classcentral.com/course/biblefuture-1406)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
