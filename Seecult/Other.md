@@ -430,11 +430,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zampa-di-leone/zampa-di-leone-u-ub-quotsvetozar-markovicquot-47-192008/0093-g.jpg?itok=nGE16bG2)](http://seecult.org/galerija/galerija-umetnika/zampa-di-leone/zampa-di-leone-u-ub-svetozar-markovic-47-192008)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-2009/2010/jelena-banjac-n.jpg?itok=0rnde9nl)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20092010)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival/leaders-201007/novo14.jpg?itok=NjqO3BFz)](http://seecult.org/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival/leaders-201007)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/maraton-simona-trpceskog/simon9.jpg?itok=Hnp9f9AV)](http://seecult.org/galerija/foto-galerija/foto-arhiva/maraton-simona-trpceskog)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -450,6 +450,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Odloženi brojni događaji zbog žalosti](http://seecult.org/vest/odlozeni-brojni-dogadaji-zbog-zalosti)
 * [Automatski crtež](http://seecult.org/vest/automatski-crtez)
 * [Tragovima jugoslovenskih glumica: Željka Cvjetan-Gortinski](http://seecult.org/vest/tragovima-jugoslovenskih-glumica-zeljka-cvjetan-gortinski)
 * [Uzbudljiv program 20. Slobodne zone](http://seecult.org/vest/uzbudljiv-program-20-slobodne-zone)
@@ -459,7 +460,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Tatjani Mandić Rigonat nagrada Bojan Stupica za 2024.](http://seecult.org/vest/tatjani-mandic-rigonat-nagrada-bojan-stupica-za-2024)
 * [Legat Bate Stojkovića u Jugoslovenskoj kinoteci](http://seecult.org/vest/legat-bate-stojkovica-u-jugoslovenskoj-kinoteci)
 * [Zafranović: Zlo se ponavlja](http://seecult.org/vest/zafranovic-zlo-se-ponavlja)
-* [Performansi i predavanje na izložbi Ere Milivojevića](http://seecult.org/vest/performansi-i-predavanje-na-izlozbi-ere-milivojevica)
 
 * [Konkursi](#tab1_1)
 
