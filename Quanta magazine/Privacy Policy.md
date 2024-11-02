@@ -291,35 +291,23 @@ Past Week
 
 _By_ [Ben Brubaker](https://www.quantamagazine.org/authors/brubaker_ben)
 
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/10/RamanujanQuest-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
-
-[#### Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
-
-_By_ [Jordana Cepelewicz](https://www.quantamagazine.org/authors/jordana-cepelewicz)
-
 [![An illustration of concentric rings of a radiating wave in space, with chopsticks that appear poised to pluck a particle out of the wave.](https://www.quantamagazine.org/wp-content/uploads/2024/10/Detecting-Gravitons_crSenor-Salme-Thumbnail.webp)](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
 
 [#### It Might Be Possible to Detect Gravitons After All](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
 
 _By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
 
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/10/RamanujanQuest-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
+
+[#### Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
+
+_By_ [Jordana Cepelewicz](https://www.quantamagazine.org/authors/jordana-cepelewicz)
+
 [![An illustration shows a cell with its organs arranged by shape, as if in separate compartments.](https://www.quantamagazine.org/wp-content/uploads/2024/10/EukaryoteExplainer-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/)
 
 [#### Meet the Eukaryote, the First Cell to Get Organized](https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/)
 
 _By_ [Molly Herring](https://www.quantamagazine.org/authors/mollyherring)
-
-[![An illustration shows zero lit by spotlight; it flickers in a cave that looks like a brain.](https://www.quantamagazine.org/wp-content/uploads/2024/10/ZeroNeurosciene_crMaggieChiang_Thumbnail.webp)](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
-
-[#### How the Human Brain Contends With the Strangeness of Zero](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
-
-_By_ [Yasemin Saplakoglu](https://www.quantamagazine.org/authors/yasemin-saplakoglu)
-
-[![Two white dots orbiting each other against a black background with purple material streaming onto them.](https://www.quantamagazine.org/wp-content/uploads/2024/10/FinalParsecProblem-crLucianoCombi_etal_2022_ApJ_928_187-Thumbnail.jpg)](https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/)
-
-[#### How Do Merging Supermassive Black Holes Pass the Final Parsec?](https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/)
-
-_By_ [Jonathan O'Callaghan](https://www.quantamagazine.org/authors/jonathan-ocallaghan)
 
 The Quanta Newsletter
 
