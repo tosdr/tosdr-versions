@@ -4,7 +4,7 @@
 * [Games](https://an1.com/games/)
     
     * [All Games](https://an1.com/games/)
-    * [Action (720)](https://an1.com/games/action/)
+    * [Action (721)](https://an1.com/games/action/)
     * [Cards (35)](https://an1.com/games/cards/)
     * [Arcade (517)](https://an1.com/games/arcade/)
     * [RPG (4)](https://an1.com/games/rpg/)
@@ -12,7 +12,7 @@
     * [Casual (291)](https://an1.com/games/casual/)
     * [Strategy (278)](https://an1.com/games/strategy/)
     * [Sport (197)](https://an1.com/games/sport/)
-    * [Simulations (457)](https://an1.com/games/simulations/)
+    * [Simulations (458)](https://an1.com/games/simulations/)
     * [Race (316)](https://an1.com/games/race/)
     * [Desktop (32)](https://an1.com/games/desktop/)
     * [Logical (152)](https://an1.com/games/logical/)
