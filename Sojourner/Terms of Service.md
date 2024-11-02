@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-c2d97ac45351ee5aa92a0af6af61691e
+dadcb6a8eaddf36bf6e6f3a321b0682d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![18 mm by 3 mm gray fairy wing pearls with gray rondelles](https://sojourner.biz/images/cache/pearls/PE0212.200.jpg)](https://sojourner.biz/beads/pearls/18-mm-by-3-mm-gray-fairy-wing-pearls-with-gray-rondelles.html "18 mm by 3 mm gray fairy wing pearls with gray rondelles")
+[![Verdant necklace](https://sojourner.biz/images/cache/N0001verdant.200.jpg)](https://sojourner.biz/jewelry/necklaces/verdant-necklace.html "Verdant necklace")
 
-#### [18 mm by 3 mm gray fairy wing pearls with gray rondelles](https://sojourner.biz/beads/pearls/18-mm-by-3-mm-gray-fairy-wing-pearls-with-gray-rondelles.html "18 mm by 3 mm gray fairy wing pearls with gray rondelles")
+#### [Verdant necklace](https://sojourner.biz/jewelry/necklaces/verdant-necklace.html "Verdant necklace")
 
-$12.00
+$75.00
 
 ### Best Sellers
 
