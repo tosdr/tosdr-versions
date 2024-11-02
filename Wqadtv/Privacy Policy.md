@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        
+        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        
     *  [![](https://media.tegna-media.com/assets/WTHR/images/de974210-a5c5-439e-bf7e-ad594d534210/de974210-a5c5-439e-bf7e-ad594d534210_16x9.jpg) ![](https://media.tegna-media.com/assets/WTHR/images/de974210-a5c5-439e-bf7e-ad594d534210/de974210-a5c5-439e-bf7e-ad594d534210_360x203.jpg)](https://www.wqad.com/article/news/local/heres-how-illinois-and-iowa-residents-can-get-help-paying-their-heating-bills-through-liheap/526-f3c105fb-b502-4754-99bb-d55546ae2a9c)
         
         #### [Here's how Illinois and Iowa residents can get help paying their heating bills through LIHEAP](https://www.wqad.com/article/news/local/heres-how-illinois-and-iowa-residents-can-get-help-paying-their-heating-bills-through-liheap/526-f3c105fb-b502-4754-99bb-d55546ae2a9c)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/9e8767ea-c5de-459f-a343-684e16583258/20241102T030337/9e8767ea-c5de-459f-a343-684e16583258_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9e8767ea-c5de-459f-a343-684e16583258/20241102T030337/9e8767ea-c5de-459f-a343-684e16583258_360x203.jpg)](https://www.wqad.com/article/news/local/project-renewal-50th-anniversary/526-0a7817ad-e6be-423c-be03-5ad894fafd72)
-        
-        #### [Project Renewal celebrating its 50th anniversary and new expansion](https://www.wqad.com/article/news/local/project-renewal-50th-anniversary/526-0a7817ad-e6be-423c-be03-5ad894fafd72)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -58,7 +58,7 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/96ca2f17-e6d7-4522-96fd-32dce357810d/20241102T115103/96ca2f17-e6d7-4522-96fd-32dce357810d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/96ca2f17-e6d7-4522-96fd-32dce357810d/20241102T115103/96ca2f17-e6d7-4522-96fd-32dce357810d_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [On and off rain chances next few days](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [On and off rain chances next few days starting later tonight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/CCT/images/b1e01515-82dd-44ad-8a0b-57c01077f448/20241101T112918/b1e01515-82dd-44ad-8a0b-57c01077f448_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/b1e01515-82dd-44ad-8a0b-57c01077f448/20241101T112918/b1e01515-82dd-44ad-8a0b-57c01077f448_360x203.jpg)](https://www.wqad.com/article/news/nation-world/3-days-after-historic-floods-at-least-158-dead-spain/507-f60dff0f-6da0-435c-a4cb-307248d57aff)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-52°
+58°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
