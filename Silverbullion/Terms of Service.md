@@ -5,6 +5,7 @@
     * [Why Buy Precious Metals?](https://silverbullion.com.sg/why-buy-precious-metals)
     
     * Buy Precious Metals
+    * [Promotions](https://silverbullion.com.sg/Shop/Buy/Promo)
     * [Silver Coins](https://silverbullion.com.sg/Shop/Buy/Silver_Coins)
     * [Gold Coins](https://silverbullion.com.sg/Shop/Buy/Gold_Coins)
     * [Silver Bars](https://silverbullion.com.sg/Shop/Buy/Silver_Bars)
@@ -151,6 +152,7 @@
     * [Why Buy Precious Metals?](https://silverbullion.com.sg/why-buy-precious-metals)
     
     * Buy Precious Metals
+    * [Promotions](https://silverbullion.com.sg/Shop/Buy/Promo)
     * [Silver Coins](https://silverbullion.com.sg/Shop/Buy/Silver_Coins)
     * [Gold Coins](https://silverbullion.com.sg/Shop/Buy/Gold_Coins)
     * [Silver Bars](https://silverbullion.com.sg/Shop/Buy/Silver_Bars)
@@ -373,4 +375,4 @@ S.T.A.R. Bullion Storage and Silver Bullion logos and names are registered trade
 
 ×Close
 
-[](https://silverbullion.com.sg/Account/DormantPopup?rand=0.0599120916146376)
+[](https://silverbullion.com.sg/Account/DormantPopup?rand=0.0715577346605983)
