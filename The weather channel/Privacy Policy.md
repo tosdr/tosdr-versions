@@ -52,7 +52,7 @@ Radar & Maps
 News & Media
 ------------
 
-[Top Weather Stories](https://weather.com/news/trending/video/this-sleeping-giant-awakens-each-fall-in-north-carolina)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/news/trending/video/this-sleeping-giant-awakens-each-fall-in-north-carolina)
+[Top Weather Stories](https://weather.com/travel/video/start-planning-your-winter-weather-travel-now)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/travel/video/start-planning-your-winter-weather-travel-now)
 
 Products
 --------
@@ -83,7 +83,7 @@ Arrow Left
 
 Arrow Right
 
-[My DashboardNEW](https://weather.com/mydashboard)[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoVideo](https://weather.com/news/trending/video/this-sleeping-giant-awakens-each-fall-in-north-carolina)
+[My DashboardNEW](https://weather.com/mydashboard)[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoVideo](https://weather.com/travel/video/start-planning-your-winter-weather-travel-now)
 
 More ForecastsMoreArrow down
 
