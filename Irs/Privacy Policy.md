@@ -43,8 +43,8 @@ Information Menu
     
 * Menu Toggle menu
 
-Main navigation mobile
-----------------------
+Main navigation
+---------------
 
 [![Home](/themes/custom/pup_base/IRS-Logo.svg)](https://www.irs.gov/ "Home")* [File](https://www.irs.gov/filing)
     
@@ -264,7 +264,7 @@ Info Menu Mobile
 * [Charities & Nonprofits](https://www.irs.gov/charities-and-nonprofits)
 * [Tax Pros](https://www.irs.gov/tax-professionals "Tax Pros")
 
-1. [Home](https://www.irs.gov/node/58476)
+1. [Home](https://www.irs.gov/)
 2. [Our Agency](https://www.irs.gov/about-irs)
 3. IRS privacy policy
 
