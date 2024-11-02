@@ -204,23 +204,23 @@ Trânsito
 
 Rua no Centro de Maceió terá sentido único a partir deste sábado (2)
 
-Rua no Centro de Maceió terá sentido único a partir deste sábado (2)](https://www.tnh1.com.br/noticia/nid/rua-no-centro-de-maceio-tera-sentido-unico-a-partir-deste-sabado-2/ "Rua no Centro de Maceió terá sentido único a partir deste sábado (2)")[![Morre youtuber que explorava a natureza após picada de cobra mamba-verde](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/2/csm_1_youtuber_dingo_dinkelman-41162641_633596fd97.jpg)
+Rua no Centro de Maceió terá sentido único a partir deste sábado (2)](https://www.tnh1.com.br/noticia/nid/rua-no-centro-de-maceio-tera-sentido-unico-a-partir-deste-sabado-2/ "Rua no Centro de Maceió terá sentido único a partir deste sábado (2)")[![O significado por trás do clipe macabro de Anitta e The Weeknd; assista ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/7/csm_anitta-barriga-reproducao-youtube_45bdea1ed7.jpg)
 
-sul-africano
+Novo hit
 
-sul-africano
+Novo hit
 
-Morre youtuber que explorava a natureza após picada de cobra mamba-verde
+O significado por trás do clipe macabro de Anitta e The Weeknd; assista
 
-Morre youtuber que explorava a natureza após picada de cobra mamba-verde](https://www.tnh1.com.br/noticia/nid/morre-youtuber-que-explorava-a-natureza-apos-picada-de-cobra-mamba-verde/ "Morre youtuber que explorava a natureza após picada de cobra mamba-verde")[![Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/8/csm_escola-estadual-maceio-confusao-google-maps_00b0c6c833.png)
+O significado por trás do clipe macabro de Anitta e The Weeknd; assista](https://www.tnh1.com.br/noticia/nid/o-significado-por-tras-do-clipe-macabro-de-anitta-e-the-weeknd-assista/ "O significado por trás do clipe macabro de Anitta e The Weeknd; assista ")[![Motorista por aplicativo é esfaqueado cinco vezes durante briga em tentativa de assalto](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/0/csm_csm_motorista-de-aplicativo-pixabay_f8f27deb27_da32b98b0b.jpeg)
 
-EM MACEIÓ
+No Tabuleiro
 
-EM MACEIÓ
+No Tabuleiro
 
-Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont
+Motorista por aplicativo é esfaqueado cinco vezes durante briga em tentativa de assalto
 
-Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont](https://www.tnh1.com.br/noticia/nid/confusao-causa-panico-e-correria-durante-jogos-internos-em-escola-no-santos-dumont/ "Confusão causa pânico e correria durante jogos internos em escola no Santos Dumont ")
+Motorista por aplicativo é esfaqueado cinco vezes durante briga em tentativa de assalto](https://www.tnh1.com.br/noticia/nid/motorista-por-aplicativo-e-esfaqueado-cinco-vezes-durante-briga-em-tentativa-de-assalto/ "Motorista por aplicativo é esfaqueado cinco vezes durante briga em tentativa de assalto")
 
 [![O uso de neve artificial em estações de esqui no Chile diante de incertezas sobre o clima](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/2/csm_neve-artificial-chile-reproducao-BBC_0c0934ce20.jpg)
 
