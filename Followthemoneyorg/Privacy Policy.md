@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Independent Spending by Type of Office Targeted, 2009–2016](/assets/Images/teasers/small/IS.JPG)](https://www.followthemoney.org/research/institute-reports/independent-spending-overview-2015-and-2016)
+[![Duke Energy giving](/assets/Images/teasers/small/DukeEnergy2000-2014.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-duke-energy/)
+
+Duke Energy giving to sitting governors, 2000-14
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
