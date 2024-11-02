@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Damaszio](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255424.thumb.jpeg.56dbf46160d69092326f69cdebb2361f.jpeg)](https://www.clubedohardware.com.br/profile/1255424-damaszio/ "Ir ao perfil de Damaszio")
-        
-        1
-        
-        [Qual melhor tipo de memória para combinar com o meu setup?](https://www.clubedohardware.com.br/forums/topic/1701254-qual-melhor-tipo-de-mem%C3%B3ria-para-combinar-com-o-meu-setup/?do=getNewComment "Qual melhor tipo de memória para combinar com o meu setup?")
-        
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Damaszio](https://www.clubedohardware.com.br/profile/1255424-damaszio/ "Ir ao perfil de Damaszio")  
-        33 minutos atrás
-        
-    * [![dopz](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%237162c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ED%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255423-dopz/ "Ir ao perfil de dopz")
+    * [![sagaki](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1213601.thumb.jpeg.2a5eb46e0756f01100b187e1c2001546.jpeg)](https://www.clubedohardware.com.br/profile/1213601-sagaki/ "Ir ao perfil de sagaki")
         
         0
         
-        [trocar as peças do computador tira o ban HDWI?](https://www.clubedohardware.com.br/forums/topic/1701253-trocar-as-pe%C3%A7as-do-computador-tira-o-ban-hdwi/?do=getNewComment "trocar as peças do computador tira o ban HDWI?")
+        [É normal o Ryzen 5500 ficar com a frequência em 4.2 GHz?](https://www.clubedohardware.com.br/forums/topic/1701264-%C3%A9-normal-o-ryzen-5500-ficar-com-a-frequ%C3%AAncia-em-42-ghz/?do=getNewComment "É normal o Ryzen 5500 ficar com a frequência em 4.2 GHz?")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [sagaki](https://www.clubedohardware.com.br/profile/1213601-sagaki/ "Ir ao perfil de sagaki")  
+        27 minutos atrás
+        
+    * [![Isaac Davi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/3x4.thumb.jpg.584980acab584a76f677bef9134cde8e.jpg)](https://www.clubedohardware.com.br/profile/608706-isaac-davi/ "Ir ao perfil de Isaac Davi")
+        
+        0
+        
+        [Gigabyte F2A78M-DS2 liga, sem vídeo... o que fazer?](https://www.clubedohardware.com.br/forums/topic/1701263-gigabyte-f2a78m-ds2-liga-sem-v%C3%ADdeo-o-que-fazer/?do=getNewComment "Gigabyte F2A78M-DS2 liga, sem vídeo... o que fazer?")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [dopz](https://www.clubedohardware.com.br/profile/1255423-dopz/ "Ir ao perfil de dopz")  
-        35 minutos atrás
+        Por [Isaac Davi](https://www.clubedohardware.com.br/profile/608706-isaac-davi/ "Ir ao perfil de Isaac Davi")  
+        30 minutos atrás
         
-    * [![Eduardo Ponce](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1126998.thumb.png.821dd5b7bb653a988cfc2c1103c55c93.png)](https://www.clubedohardware.com.br/profile/1126998-eduardo-ponce/ "Ir ao perfil de Eduardo Ponce")
+    * [![Isaac Davi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/3x4.thumb.jpg.584980acab584a76f677bef9134cde8e.jpg)](https://www.clubedohardware.com.br/profile/608706-isaac-davi/ "Ir ao perfil de Isaac Davi")
         
-        2
+        0
         
-        [Pc desligando mesmo depois de trocar a pasta térmica.](https://www.clubedohardware.com.br/forums/topic/1701252-pc-desligando-mesmo-depois-de-trocar-a-pasta-t%C3%A9rmica/?do=getNewComment "Pc desligando mesmo depois de trocar a pasta térmica.")
+        [placa-mãe Bluecase BMBF68-D sem vídeo, mas liga normalmente](https://www.clubedohardware.com.br/forums/topic/1701262-placa-m%C3%A3e-bluecase-bmbf68-d-sem-v%C3%ADdeo-mas-liga-normalmente/?do=getNewComment "placa-mãe Bluecase BMBF68-D sem vídeo, mas liga normalmente")
         
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Eduardo Ponce](https://www.clubedohardware.com.br/profile/1126998-eduardo-ponce/ "Ir ao perfil de Eduardo Ponce")  
-        50 minutos atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Isaac Davi](https://www.clubedohardware.com.br/profile/608706-isaac-davi/ "Ir ao perfil de Isaac Davi")  
+        47 minutos atrás
         
-    * [![johnnykah](https://www.clubedohardware.com.br/uploads/members/monthly_2021_10/imported-photo-974393.thumb.jpeg.e6b7a96997d66cbb9ec7ad702b07ed4e.jpeg)](https://www.clubedohardware.com.br/profile/974393-johnnykah/ "Ir ao perfil de johnnykah")
+    * [![Matheus Lourenço 185](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4af62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EML%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1191370-matheus-louren%C3%A7o-185/ "Ir ao perfil de Matheus Lourenço 185")
+        
+        0
+        
+        [Orientação do RGB das fans](https://www.clubedohardware.com.br/forums/topic/1701261-orienta%C3%A7%C3%A3o-do-rgb-das-fans/?do=getNewComment "Orientação do RGB das fans")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Matheus Lourenço 185](https://www.clubedohardware.com.br/profile/1191370-matheus-louren%C3%A7o-185/ "Ir ao perfil de Matheus Lourenço 185")  
+        1 hora atrás
+        
+    * [![matheuscamillo](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c494%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1057101-matheuscamillo/ "Ir ao perfil de matheuscamillo")
         
         1
         
-        [Consumo da GPU cai e CPU sobe em alguns jogos](https://www.clubedohardware.com.br/forums/topic/1701251-consumo-da-gpu-cai-e-cpu-sobe-em-alguns-jogos/?do=getNewComment "Consumo da GPU cai e CPU sobe em alguns jogos")
+        [Com R$8000,00: ASUS TUF GAMING B550M Plus, Ryzen 7 5700x3D, 16GB e RTX 4060Ti](https://www.clubedohardware.com.br/forums/topic/1701260-com-r800000-asus-tuf-gaming-b550m-plus-ryzen-7-5700x3d-16gb-e-rtx-4060ti/?do=getNewComment "Com R$8000,00: ASUS TUF GAMING B550M Plus, Ryzen 7 5700x3D, 16GB e RTX 4060Ti")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [matheuscamillo](https://www.clubedohardware.com.br/profile/1057101-matheuscamillo/ "Ir ao perfil de matheuscamillo")  
+        2 horas atrás
+        
+    * [![Amos Machado](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255430.thumb.png.b1f174e80f3c9265e0385c0744e1cb44.png)](https://www.clubedohardware.com.br/profile/1255430-amos-machado/ "Ir ao perfil de Amos Machado")
+        
+        0
+        
+        [Placa de vídeo e placa-mãe](https://www.clubedohardware.com.br/forums/topic/1701259-placa-de-v%C3%ADdeo-e-placa-m%C3%A3e/?do=getNewComment "Placa de vídeo e placa-mãe")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [johnnykah](https://www.clubedohardware.com.br/profile/974393-johnnykah/ "Ir ao perfil de johnnykah")  
-        56 minutos atrás
+        Por [Amos Machado](https://www.clubedohardware.com.br/profile/1255430-amos-machado/ "Ir ao perfil de Amos Machado")  
+        2 horas atrás
         
-    * [![MathDog](https://www.clubedohardware.com.br/uploads/members/monthly_2023_03/imported-photo-1216263.thumb.png.b9d2bb78c1d68bec36c27d26b1b05b20.png)](https://www.clubedohardware.com.br/profile/1216263-mathdog/ "Ir ao perfil de MathDog")
+    * [![Guimasson](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252816.thumb.jpeg.460e1193d8191a3ae8077f6a208cdacf.jpeg)](https://www.clubedohardware.com.br/profile/1252816-guimasson/ "Ir ao perfil de Guimasson")
+        
+        1
+        
+        [Indicação de notebook gamer até R$ 5000,00](https://www.clubedohardware.com.br/forums/topic/1701258-indica%C3%A7%C3%A3o-de-notebook-gamer-at%C3%A9-r-500000/?do=getNewComment "Indicação de notebook gamer até R$ 5000,00")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [Guimasson](https://www.clubedohardware.com.br/profile/1252816-guimasson/ "Ir ao perfil de Guimasson")  
+        3 horas atrás
+        
+    * [![NANDOfluis](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1205476.thumb.jpeg.a806bd037978f4e2d2434eb1ca35dbe7.jpeg)](https://www.clubedohardware.com.br/profile/1205476-nandofluis/ "Ir ao perfil de NANDOfluis")
         
         3
         
-        [Quanto vale o meu PC de 1 ano de uso? Ryzen 7 5700X + GeForce RTX 3060](https://www.clubedohardware.com.br/forums/topic/1701250-quanto-vale-o-meu-pc-de-1-ano-de-uso-ryzen-7-5700x-geforce-rtx-3060/?do=getNewComment "Quanto vale o meu PC de 1 ano de uso? Ryzen 7 5700X + GeForce RTX 3060")
+        [O que é o relatório de desvio de consumo no HWInfo? É perigoso?](https://www.clubedohardware.com.br/forums/topic/1701257-o-que-%C3%A9-o-relat%C3%B3rio-de-desvio-de-consumo-no-hwinfo-%C3%A9-perigoso/?do=getNewComment "O que é o relatório de desvio de consumo no HWInfo? É perigoso?")
         
-        [Quanto vale meu equipamento usado?](https://www.clubedohardware.com.br/forums/forum/174-quanto-vale-meu-equipamento-usado/ "Quanto vale meu equipamento usado?")  
-        Por [MathDog](https://www.clubedohardware.com.br/profile/1216263-mathdog/ "Ir ao perfil de MathDog")  
-        1 hora atrás
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [NANDOfluis](https://www.clubedohardware.com.br/profile/1205476-nandofluis/ "Ir ao perfil de NANDOfluis")  
+        4 horas atrás
         
-    * [![TheDemonLena](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1090527.thumb.jpeg.46d8e381bc7d55d703f4d44ef16fc161.jpeg)](https://www.clubedohardware.com.br/profile/1090527-thedemonlena/ "Ir ao perfil de TheDemonLena")
-        
-        4
-        
-        [Essa configuração vale a pena em 2024? Pentium E5200 + 8GB DDR2 + GeForce GT 210](https://www.clubedohardware.com.br/forums/topic/1701249-essa-configura%C3%A7%C3%A3o-vale-a-pena-em-2024-pentium-e5200-8gb-ddr2-geforce-gt-210/?do=getNewComment "Essa configuração vale a pena em 2024? Pentium E5200 + 8GB DDR2 + GeForce GT 210")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [TheDemonLena](https://www.clubedohardware.com.br/profile/1090527-thedemonlena/ "Ir ao perfil de TheDemonLena")  
-        1 hora atrás
-        
-    * [![Salominho](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1247173.thumb.png.d83d22690f544358ad686a8d79c08d33.png)](https://www.clubedohardware.com.br/profile/1247173-salominho/ "Ir ao perfil de Salominho")
-        
-        0
-        
-        [Celular custo-benefício de até R$ 1.300](https://www.clubedohardware.com.br/forums/topic/1701248-celular-custo-benef%C3%ADcio-de-at%C3%A9-r-1300/?do=getNewComment "Celular custo-benefício de até R$ 1.300")
-        
-        [Smartphones, celulares, tablets e apps](https://www.clubedohardware.com.br/forums/forum/195-smartphones-celulares-tablets-e-apps/ "Smartphones, celulares, tablets e apps")  
-        Por [Salominho](https://www.clubedohardware.com.br/profile/1247173-salominho/ "Ir ao perfil de Salominho")  
-        1 hora atrás
-        
-    * [![Diogo22](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23bd62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ED%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255421-diogo22/ "Ir ao perfil de Diogo22")
-        
-        7
-        
-        [gostaria de saber se o cabo molex da minha fonte consegue conectar nas fans](https://www.clubedohardware.com.br/forums/topic/1701247-gostaria-de-saber-se-o-cabo-molex-da-minha-fonte-consegue-conectar-nas-fans/?do=getNewComment "gostaria de saber se o cabo molex da minha fonte consegue conectar nas fans")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Diogo22](https://www.clubedohardware.com.br/profile/1255421-diogo22/ "Ir ao perfil de Diogo22")  
-        1 hora atrás
-        
-    * [![Lokisdeaths](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255420.thumb.png.e5f8654456fe5c90d1989897bf128bee.png)](https://www.clubedohardware.com.br/profile/1255420-lokisdeaths/ "Ir ao perfil de Lokisdeaths")
-        
-        4
-        
-        [queria compra uma placa de Vídeo mas não entendo nada](https://www.clubedohardware.com.br/forums/topic/1701246-queria-compra-uma-placa-de-v%C3%ADdeo-mas-n%C3%A3o-entendo-nada/?do=getNewComment "queria compra uma placa de Vídeo mas não entendo nada")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Lokisdeaths](https://www.clubedohardware.com.br/profile/1255420-lokisdeaths/ "Ir ao perfil de Lokisdeaths")  
-        2 horas atrás
-        
-    * [![SergioP](https://www.clubedohardware.com.br/uploads/members/monthly_2020_09/imported-photo-1096935.thumb.jpeg.d3630fa85239c0ace53a1d0c60e80125.jpeg)](https://www.clubedohardware.com.br/profile/1096935-sergiop/ "Ir ao perfil de SergioP")
+    * [![Skrt](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255428.thumb.jpeg.d8a55c1d68c6f30c1575efefe25a147d.jpeg)](https://www.clubedohardware.com.br/profile/1255428-skrt/ "Ir ao perfil de Skrt")
         
         1
         
-        [Processador Ryzen 5 5600GT com memória DDR4 (2x) 8gb 2666.](https://www.clubedohardware.com.br/forums/topic/1701245-processador-ryzen-5-5600gt-com-mem%C3%B3ria-ddr4-2x-8gb-2666/?do=getNewComment "Processador Ryzen 5 5600GT com memória DDR4  (2x) 8gb 2666.")
+        [Pc com config boa, mas demora até pra abrir gerenciador de tarefas](https://www.clubedohardware.com.br/forums/topic/1701256-pc-com-config-boa-mas-demora-at%C3%A9-pra-abrir-gerenciador-de-tarefas/?do=getNewComment "Pc com config boa, mas demora até pra abrir gerenciador de tarefas")
         
         [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [SergioP](https://www.clubedohardware.com.br/profile/1096935-sergiop/ "Ir ao perfil de SergioP")  
-        2 horas atrás
+        Por [Skrt](https://www.clubedohardware.com.br/profile/1255428-skrt/ "Ir ao perfil de Skrt")  
+        5 horas atrás
+        
+    * [![Carlos2022](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4628e%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EC%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1201148-carlos2022/ "Ir ao perfil de Carlos2022")
+        
+        1
+        
+        [Quais conhecimentos são necessários para ser um técnico em informática completo?](https://www.clubedohardware.com.br/forums/topic/1701255-quais-conhecimentos-s%C3%A3o-necess%C3%A1rios-para-ser-um-t%C3%A9cnico-em-inform%C3%A1tica-completo/?do=getNewComment "Quais conhecimentos são necessários para ser um técnico em informática completo?")
+        
+        [Estudos e mercado de trabalho](https://www.clubedohardware.com.br/forums/forum/59-estudos-e-mercado-de-trabalho/ "Estudos e mercado de trabalho")  
+        Por [Carlos2022](https://www.clubedohardware.com.br/profile/1201148-carlos2022/ "Ir ao perfil de Carlos2022")  
+        5 horas atrás
         
     
 
