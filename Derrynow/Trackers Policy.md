@@ -266,37 +266,14 @@ Most Popular
 [PICTURES: GAA stars and partners dazzle on red carpet at glamorous 2024 All-Star awards](https://www.derrynow.com/news/national-news/1645727/pictures-gaa-stars-and-partners-dazzle-on-red-carpet-at-glamorous-2024-all-star-awards.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Derry thronged for finale of Europe’s biggest Halloween celebration](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry thronged for finale of Europe’s biggest Halloween celebration")](https://www.derrynow.com/story-telling/pictures---videos/1645082/in-pictures-derry-thronged-for-finale-of-europes-biggest-halloween-celebration.html)
+[![When and where to watch Munster vs All Blacks XV | TV, stream, time, tickets and teams](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "When and where to watch Munster vs All Blacks XV | TV, stream, time, tickets and teams")](https://www.derrynow.com/news/national-news/1645875/when-and-where-to-watch-munster-vs-all-blacks-xv-tv-stream-time-tickets-and-teams.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+The Maori All Blacks perform 'The Haka' before the match between Munster and the New Zealand Maori All Blacks at Thomond Park, Limerick in 2016. Photo: Diarmuid Greene/Sportsfile
 
-[IN PICTURES: Derry thronged for finale of Europe’s biggest Halloween celebration](https://www.derrynow.com/story-telling/pictures---videos/1645082/in-pictures-derry-thronged-for-finale-of-europes-biggest-halloween-celebration.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[![Kaci McConnell-Doherty with her British Championship](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Kaci McConnell-Doherty with her British Championship")](https://www.derrynow.com/news/derry-news/1645036/derry-girl-crowned-british-national-open-champion-in-irish-dancing.html)
-
-Kaci McConnell-Doherty with her British Championship
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry girl crowned British National Open Champion in Irish dancing](https://www.derrynow.com/news/derry-news/1645036/derry-girl-crowned-british-national-open-champion-in-irish-dancing.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Andy Brett on the podium of the World Championships](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Andy Brett on the podium of the World Championships")](https://www.derrynow.com/news/derry-sport/1645157/derry-brothers-dominate-at-world-karate-and-kickboxing-championships.html)
-
-Andy Brett on the podium of the World Championships
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry Brothers Dominate at World Karate and Kickboxing Championships](https://www.derrynow.com/news/derry-sport/1645157/derry-brothers-dominate-at-world-karate-and-kickboxing-championships.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police deal with disorder following Derry City's clash with Shelbourne](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police deal with disorder following Derry City's clash with Shelbourne")](https://www.derrynow.com/news/local-news/1645694/police-deal-with-disorder-following-derry-city-s-clash-with-shelbourne.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police deal with disorder following Derry City's clash with Shelbourne](https://www.derrynow.com/news/local-news/1645694/police-deal-with-disorder-following-derry-city-s-clash-with-shelbourne.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[When and where to watch Munster vs All Blacks XV | TV, stream, time, tickets and teams](https://www.derrynow.com/news/national-news/1645875/when-and-where-to-watch-munster-vs-all-blacks-xv-tv-stream-time-tickets-and-teams.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: NWRC Higher Education and Access graduation ceremony in Derry's Millennium Forum](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: NWRC Higher Education and Access graduation ceremony in Derry's Millennium Forum")](https://www.derrynow.com/story-telling/pictures---videos/1645624/in-pictures-nwrc-higher-education-and-access-graduation-ceremony-in-derry-s-millennium-forum.html)
 
@@ -305,6 +282,27 @@ Andy Brett on the podium of the World Championships
 [IN PICTURES: NWRC Higher Education and Access graduation ceremony in Derry's Millennium Forum](https://www.derrynow.com/story-telling/pictures---videos/1645624/in-pictures-nwrc-higher-education-and-access-graduation-ceremony-in-derry-s-millennium-forum.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![IN PICTURES: Derry thronged for finale of Europe’s biggest Halloween celebration](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry thronged for finale of Europe’s biggest Halloween celebration")](https://www.derrynow.com/story-telling/pictures---videos/1645682/in-pictures-derry-gets-in-the-spooky-spirit-with-finale-halloween-parade.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry gets in the spooky spirit with finale Halloween parade](https://www.derrynow.com/story-telling/pictures---videos/1645682/in-pictures-derry-gets-in-the-spooky-spirit-with-finale-halloween-parade.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Investigation launched following serious sexually motivated attack on woman in Drumahoe](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Investigation launched following serious sexually motivated attack on woman in Drumahoe")](https://www.derrynow.com/news/local-news/1645846/investigation-launched-following-serious-sexually-motivated-attack-on-woman-in-drumahoe.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Investigation launched following serious sexually motivated attack on woman in Drumahoe](https://www.derrynow.com/news/local-news/1645846/investigation-launched-following-serious-sexually-motivated-attack-on-woman-in-drumahoe.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police deal with disorder following Derry City's clash with Shelbourne](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police deal with disorder following Derry City's clash with Shelbourne")](https://www.derrynow.com/news/local-news/1645694/police-deal-with-disorder-following-derry-city-s-clash-with-shelbourne.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police deal with disorder following Derry City's clash with Shelbourne](https://www.derrynow.com/news/local-news/1645694/police-deal-with-disorder-following-derry-city-s-clash-with-shelbourne.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1645556/derry-death-notices-saturday-november-2-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -312,12 +310,19 @@ Andy Brett on the podium of the World Championships
 [Derry Death Notices - Saturday, November 2, 2024](https://www.derrynow.com/news/deaths/1645556/derry-death-notices-saturday-november-2-2024.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Motorists advised about delays in Ballykelly following road traffic accident](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Motorists advised about delays in Ballykelly following road traffic accident")](https://www.derrynow.com/news/county-derry-post/1645487/motorists-advised-about-delays-in-ballykelly-following-road-traffic-accident.html)
+[![Quantity of suspected Class A drugs seized in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Quantity of suspected Class A drugs seized in Derry")](https://www.derrynow.com/news/local-news/1645784/quantity-of-suspected-class-a-drugs-seized-in-derry.html)
 
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Motorists advised about delays in Ballykelly following road traffic accident](https://www.derrynow.com/news/county-derry-post/1645487/motorists-advised-about-delays-in-ballykelly-following-road-traffic-accident.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Quantity of suspected Class A drugs seized in Derry](https://www.derrynow.com/news/local-news/1645784/quantity-of-suspected-class-a-drugs-seized-in-derry.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man arrested as kilos of cocaine discovered hidden in passenger's luggage at Dublin Airport](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested as kilos of cocaine discovered hidden in passenger's luggage at Dublin Airport")](https://www.derrynow.com/news/national-news/1645831/man-arrested-as-kilos-of-cocaine-discovered-hidden-in-passenger-s-luggage-at-dublin-airport.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Man arrested as kilos of cocaine discovered hidden in passenger's luggage at Dublin Airport](https://www.derrynow.com/news/national-news/1645831/man-arrested-as-kilos-of-cocaine-discovered-hidden-in-passenger-s-luggage-at-dublin-airport.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Worker settles Tesco claims of sexual harassment and victimisation for £45,000](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Worker settles Tesco claims of sexual harassment and victimisation for £45,000")](https://www.derrynow.com/news/northern-ireland/1642729/worker-settles-claims-of-sexual-harassment-and-victimisation-for-45-000.html)
 
@@ -326,20 +331,18 @@ Andy Brett on the podium of the World Championships
 [Worker settles claims of sexual harassment and victimisation for £45,000](https://www.derrynow.com/news/northern-ireland/1642729/worker-settles-claims-of-sexual-harassment-and-victimisation-for-45-000.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1645635/shelbourne-crowned-champions-at-the-brandywell-after-late-harry-wood-winner-against-derry-city.html)
-
-Shelbourne players celebrate the goal which won the title. Pic by Stephen McCarthy/ Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Shelbourne crowned champions at the Brandywell after late Harry Wood winner against Derry City](https://www.derrynow.com/news/derry-sport/1645635/shelbourne-crowned-champions-at-the-brandywell-after-late-harry-wood-winner-against-derry-city.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Derry thronged for finale of Europe’s biggest Halloween celebration](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry thronged for finale of Europe’s biggest Halloween celebration")](https://www.derrynow.com/story-telling/pictures---videos/1645682/in-pictures-derry-gets-in-the-spooky-spirit-with-finale-halloween-parade.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry gets in the spooky spirit with finale Halloween parade](https://www.derrynow.com/story-telling/pictures---videos/1645682/in-pictures-derry-gets-in-the-spooky-spirit-with-finale-halloween-parade.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: NWRC Higher Education and Access graduation ceremony in Derry's Millennium Forum](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: NWRC Higher Education and Access graduation ceremony in Derry's Millennium Forum")](https://www.derrynow.com/story-telling/pictures---videos/1645624/in-pictures-nwrc-higher-education-and-access-graduation-ceremony-in-derry-s-millennium-forum.html)
 
@@ -403,13 +406,6 @@ Multimedia
 
 [PICTURES: The Elemental Garden at Ebrington Square](https://www.derrynow.com/news/pictures---videos/1643204/pictures-the-elemental-garden-at-ebrington-square.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: SPOOKTACULAR children’s Hallowe’en workshops in Swatragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: SPOOKTACULAR children’s Hallowe’en workshops in Swatragh")](https://www.derrynow.com/news/pictures---videos/1642135/pictures-spooktacular-childrens-halloween-workshops-in-swatragh.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: SPOOKTACULAR children’s Hallowe’en workshops in Swatragh](https://www.derrynow.com/news/pictures---videos/1642135/pictures-spooktacular-childrens-halloween-workshops-in-swatragh.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -511,14 +507,28 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry group launches campaign to address need for mandatory training and better pay for carers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry group launches campaign to address need for mandatory training and better pay for carers")](https://www.derrynow.com/news/local-news/1642054/derry-group-launches-campaign-to-addressneed-for-mandatory-training-and-better-pay-for-carers.html)
+[![‘DYCW is a key community service from the heart of the city!’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "‘DYCW is a key community service from the heart of the city!’")](https://www.derrynow.com/news/local-news/1645623/dycw-is-a-key-community-service-from-the-heart-of-the-city.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[‘DYCW is a key community service from the heart of the city!’](https://www.derrynow.com/news/local-news/1645623/dycw-is-a-key-community-service-from-the-heart-of-the-city.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Investigation launched following serious sexually motivated attack on woman in Drumahoe](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Investigation launched following serious sexually motivated attack on woman in Drumahoe")](https://www.derrynow.com/news/local-news/1645846/investigation-launched-following-serious-sexually-motivated-attack-on-woman-in-drumahoe.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Investigation launched following serious sexually motivated attack on woman in Drumahoe](https://www.derrynow.com/news/local-news/1645846/investigation-launched-following-serious-sexually-motivated-attack-on-woman-in-drumahoe.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry group launches campaign to address need for mandatory training and better pay for carers](https://www.derrynow.com/resizer/165/93/true/2024_10_29/2cf7603d-e5c4-4e63-b4b7-606bd9f800a0-1730198429797_1730198443.JPG--.JPG?1730198443588 "Derry group launches campaign to address need for mandatory training and better pay for carers")](https://www.derrynow.com/news/local-news/1642054/derry-group-launches-campaign-to-addressneed-for-mandatory-training-and-better-pay-for-carers.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Derry group launches campaign to address need for mandatory training and better pay for carers](https://www.derrynow.com/news/local-news/1642054/derry-group-launches-campaign-to-addressneed-for-mandatory-training-and-better-pay-for-carers.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Quantity of suspected Class A drugs seized in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Quantity of suspected Class A drugs seized in Derry")](https://www.derrynow.com/news/local-news/1645784/quantity-of-suspected-class-a-drugs-seized-in-derry.html)
+[![Quantity of suspected Class A drugs seized in Derry](https://www.derrynow.com/resizer/165/93/true/2024_11_02/2021-11-30_00_49_53_1638224617370-jpeg.jpeg-1730544329556.jpg--.jpg?1730544329607 "Quantity of suspected Class A drugs seized in Derry")](https://www.derrynow.com/news/local-news/1645784/quantity-of-suspected-class-a-drugs-seized-in-derry.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -538,22 +548,6 @@ Advertise with Us
 
 [Police deal with disorder following Derry City's clash with Shelbourne](https://www.derrynow.com/news/local-news/1645694/police-deal-with-disorder-following-derry-city-s-clash-with-shelbourne.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_11_01/2976010-1730497807751.jpg--.jpg?1730497808714 "Derry City")](https://www.derrynow.com/news/derry-sport/1645635/shelbourne-crowned-champions-at-the-brandywell-after-late-harry-wood-winner-against-derry-city.html)
-
-Shelbourne players celebrate the goal which won the title. Pic by Stephen McCarthy/ Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Shelbourne crowned champions at the Brandywell after late Harry Wood winner against Derry City](https://www.derrynow.com/news/derry-sport/1645635/shelbourne-crowned-champions-at-the-brandywell-after-late-harry-wood-winner-against-derry-city.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![The Bloody Sunday Trust has expressed disappointment in Dublin’s inaction on trade sanctions and arms embargo on Israel](https://www.derrynow.com/resizer/165/93/true/393772964_657356509876277_1244941634573180153_n-1697924793243.jpg--.jpg?1697924828386 "The Bloody Sunday Trust has expressed disappointment in Dublin’s inaction on trade sanctions and arms embargo on Israel")](https://www.derrynow.com/news/derry-news/1645511/the-bloody-sunday-trust-has-expressed-disappointment-in-dublins-inaction-on-trade-sanctions-and-arms-embargo-on-israel.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[The Bloody Sunday Trust has expressed disappointment in Dublin’s inaction on trade sanctions and arms embargo on Israel](https://www.derrynow.com/news/derry-news/1645511/the-bloody-sunday-trust-has-expressed-disappointment-in-dublins-inaction-on-trade-sanctions-and-arms-embargo-on-israel.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
