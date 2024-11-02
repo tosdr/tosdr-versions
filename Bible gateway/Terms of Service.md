@@ -39,11 +39,11 @@ account
     * [Deals](https://faithgateway.com/collections/biblegateway-special-deals?utm_source=bg&utm_medium=referral&utm_campaign=nav_deals)
     * [More](https://faithgateway.com/?utm_source=bg&utm_medium=referral&utm_campaign=nav_more)
 
-[Get Daily inspiration from C.S. Lewis? Sign up today!](https://www.biblegateway.com/landing/cslewis/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=alert_cslewis20240708)
+[FIND FOCUS with an ad-free experience with BibleGateway+. Try it FREE!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=bgplus_alert_5permonth_adfreefocus20241017)
 
 close
 
-[FIND FOCUS with an ad-free experience with Bible Gateway Plus. Try it free today!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_adfreefocus20241017)
+[For less than $5/mo. gain access to $3,100 worth of premium resources to enhance your study of Scripture. Start your free trial today!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_3100for5_053024)
 
 close
 
