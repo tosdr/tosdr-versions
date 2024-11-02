@@ -186,11 +186,10 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Lane Wickham Barton Jr.](https://cdn.returningveterans.org/images/honor/Battle_of_the_Bulge.jpg)  
+![Erine Quatier](https://cdn.returningveterans.org/images/honor/7_Erine_Quatier__O.png)  
 
-**In Memory of Lane Wickham Barton Jr.**  
-United States Army  
-Submitted by Sarah Smith](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Erine Quatier**  
+Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -233,5 +232,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/02/24 - 2:23:11  
+Printed 11/02/24 - 8:27:51  
 © 2024 Returning Veterans Project
