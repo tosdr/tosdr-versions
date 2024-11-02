@@ -305,7 +305,7 @@
 
 [#Новгородская область](https://er.ru/activity/news?tags%5B0%5D=773) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Никитин](https://er.ru/activity/news?tags%5B0%5D=2486) [#Храбров](https://er.ru/activity/news?tags%5B0%5D=1095704) [#наставничество](https://er.ru/activity/news?tags%5B0%5D=72627) [#академияполитики](https://er.ru/activity/news?tags%5B0%5D=1091743) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#первички](https://er.ru/activity/news?tags%5B0%5D=127619)
 
-Сегодня 09:30
+02.11.24
 
 [![«Это не спецоперация Кремля, а выбор народа»: Дмитрий Медведев в интервью RT — о результатах парламентских выборов в Грузии](https://cdn.er.ru/media/news/November2024/lMYzAFNf4HbZYxWVFt1L-small.jpg)](https://er.ru/activity/news/eto-ne-specoperaciya-kremlya-a-vybor-naroda-dmitrij-medvedev-v-intervyu-rt-o-rezultatah-parlamentskih-vyborov-v-gruzii)
 
@@ -313,7 +313,7 @@
 
 [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#Совбез](https://er.ru/activity/news?tags%5B0%5D=2879) [#интервью](https://er.ru/activity/news?tags%5B0%5D=82) [#Грузия](https://er.ru/activity/news?tags%5B0%5D=1915) [#выборы](https://er.ru/activity/news?tags%5B0%5D=31)
 
-Сегодня 09:00
+02.11.24
 
 [![Ольга Занко: В проекте бюджета страны на 2025 год на поддержку НКО планируется направить 419 миллиардов рублей](https://cdn.er.ru/media/news/November2024/FczY1Gwu0N1UqjjlTzi7-small.JPG)](https://er.ru/activity/news/olga-zanko-v-proekte-byudzheta-strany-na-2025-god-na-podderzhku-nko-planiruetsya-napravit-419-milliardov-rublej)
 
