@@ -132,119 +132,107 @@ Política de privacidade
 
 [](https://whatsapp.com/channel/0029VaA51oy9hXF2RfactE03 "WhatsApp Clube do Hardware")
 
-* ### Popular agora
-    
-    * [![Mano.diego](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c497%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1053442-manodiego/ "Ir ao perfil de Mano.diego")
-        
-        17
-        
-        [Upgrade para Ryzen 7 5700x3d: RTX 3060 12gb ou RTX 4060 ti 8gb?](https://www.clubedohardware.com.br/forums/topic/1701216-upgrade-para-ryzen-7-5700x3d-rtx-3060-12gb-ou-rtx-4060-ti-8gb/ "Visualizar tópico")
-        
-        Por [Mano.diego](https://www.clubedohardware.com.br/profile/1053442-manodiego/ "Ir ao perfil de Mano.diego")  
-        2 horas atrás
-        
-    
 * ### Últimos tópicos
     
-    * [![perito_](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23628ac4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EP%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1100081-perito_/ "Ir ao perfil de perito_")
+    * [![Damaszio](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255424.thumb.jpeg.56dbf46160d69092326f69cdebb2361f.jpeg)](https://www.clubedohardware.com.br/profile/1255424-damaszio/ "Ir ao perfil de Damaszio")
+        
+        1
+        
+        [Qual melhor tipo de memória para combinar com o meu setup?](https://www.clubedohardware.com.br/forums/topic/1701254-qual-melhor-tipo-de-mem%C3%B3ria-para-combinar-com-o-meu-setup/?do=getNewComment "Qual melhor tipo de memória para combinar com o meu setup?")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Damaszio](https://www.clubedohardware.com.br/profile/1255424-damaszio/ "Ir ao perfil de Damaszio")  
+        33 minutos atrás
+        
+    * [![dopz](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%237162c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ED%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255423-dopz/ "Ir ao perfil de dopz")
         
         0
         
-        [vale a pena trocar um Ryzen 5 5600x pelo Ryzen 7 5700x3d?](https://www.clubedohardware.com.br/forums/topic/1701222-vale-a-pena-trocar-um-ryzen-5-5600x-pelo-ryzen-7-5700x3d/?do=getNewComment "vale a pena trocar um Ryzen 5 5600x pelo Ryzen 7 5700x3d?")
+        [trocar as peças do computador tira o ban HDWI?](https://www.clubedohardware.com.br/forums/topic/1701253-trocar-as-pe%C3%A7as-do-computador-tira-o-ban-hdwi/?do=getNewComment "trocar as peças do computador tira o ban HDWI?")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [perito\_](https://www.clubedohardware.com.br/profile/1100081-perito_/ "Ir ao perfil de perito_")  
-        agora
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [dopz](https://www.clubedohardware.com.br/profile/1255423-dopz/ "Ir ao perfil de dopz")  
+        35 minutos atrás
         
-    * [![Raphael Augusto Gomes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255406.thumb.png.1728b499649075bed92ac9912fb67859.png)](https://www.clubedohardware.com.br/profile/1255406-raphael-augusto-gomes/ "Ir ao perfil de Raphael Augusto Gomes")
+    * [![Eduardo Ponce](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1126998.thumb.png.821dd5b7bb653a988cfc2c1103c55c93.png)](https://www.clubedohardware.com.br/profile/1126998-eduardo-ponce/ "Ir ao perfil de Eduardo Ponce")
         
-        0
+        2
         
-        [Erro Desconhecido Quando Jogo - Tela Pisca](https://www.clubedohardware.com.br/forums/topic/1701221-erro-desconhecido-quando-jogo-tela-pisca/?do=getNewComment "Erro Desconhecido Quando Jogo - Tela Pisca")
+        [Pc desligando mesmo depois de trocar a pasta térmica.](https://www.clubedohardware.com.br/forums/topic/1701252-pc-desligando-mesmo-depois-de-trocar-a-pasta-t%C3%A9rmica/?do=getNewComment "Pc desligando mesmo depois de trocar a pasta térmica.")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Raphael Augusto Gomes](https://www.clubedohardware.com.br/profile/1255406-raphael-augusto-gomes/ "Ir ao perfil de Raphael Augusto Gomes")  
-        22 minutos atrás
-        
-    * [![Cantoinzin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255405.thumb.png.2fe56177d2bffa1d808ed92ebc6698ea.png)](https://www.clubedohardware.com.br/profile/1255405-cantoinzin/ "Ir ao perfil de Cantoinzin")
-        
-        5
-        
-        [Pessoal estou querendo comprar um pc gamer de até R$6000](https://www.clubedohardware.com.br/forums/topic/1701220-pessoal-estou-querendo-comprar-um-pc-gamer-de-at%C3%A9-r6000/?do=getNewComment "Pessoal estou querendo comprar um pc gamer de até R$6000")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Cantoinzin](https://www.clubedohardware.com.br/profile/1255405-cantoinzin/ "Ir ao perfil de Cantoinzin")  
-        44 minutos atrás
-        
-    * [![SnoxP718](https://www.clubedohardware.com.br/uploads/members/monthly_2024_01/Mash_Vandead_Portrait.thumb.webp.9f59817e6da9865665349fafc81bc28f.webp)](https://www.clubedohardware.com.br/profile/1235576-snoxp718/ "Ir ao perfil de SnoxP718")
-        
-        0
-        
-        [Controle Ípega 9076 no modo PC](https://www.clubedohardware.com.br/forums/topic/1701219-controle-%C3%ADpega-9076-no-modo-pc/?do=getNewComment "Controle Ípega 9076 no modo PC")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [SnoxP718](https://www.clubedohardware.com.br/profile/1235576-snoxp718/ "Ir ao perfil de SnoxP718")  
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Eduardo Ponce](https://www.clubedohardware.com.br/profile/1126998-eduardo-ponce/ "Ir ao perfil de Eduardo Ponce")  
         50 minutos atrás
         
-    * [![Gabriel Soares007](https://www.clubedohardware.com.br/uploads/members/monthly_2021_10/imported-photo-1174970.thumb.png.76a4355ce49a60dc6e32d01a2c791ccb.png)](https://www.clubedohardware.com.br/profile/1174970-gabriel-soares007/ "Ir ao perfil de Gabriel Soares007")
+    * [![johnnykah](https://www.clubedohardware.com.br/uploads/members/monthly_2021_10/imported-photo-974393.thumb.jpeg.e6b7a96997d66cbb9ec7ad702b07ed4e.jpeg)](https://www.clubedohardware.com.br/profile/974393-johnnykah/ "Ir ao perfil de johnnykah")
+        
+        1
+        
+        [Consumo da GPU cai e CPU sobe em alguns jogos](https://www.clubedohardware.com.br/forums/topic/1701251-consumo-da-gpu-cai-e-cpu-sobe-em-alguns-jogos/?do=getNewComment "Consumo da GPU cai e CPU sobe em alguns jogos")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [johnnykah](https://www.clubedohardware.com.br/profile/974393-johnnykah/ "Ir ao perfil de johnnykah")  
+        56 minutos atrás
+        
+    * [![MathDog](https://www.clubedohardware.com.br/uploads/members/monthly_2023_03/imported-photo-1216263.thumb.png.b9d2bb78c1d68bec36c27d26b1b05b20.png)](https://www.clubedohardware.com.br/profile/1216263-mathdog/ "Ir ao perfil de MathDog")
         
         3
         
-        [Placa de vídeo para jogos até R$2.000 com i7 9700KF e fonte 500w](https://www.clubedohardware.com.br/forums/topic/1701218-placa-de-v%C3%ADdeo-para-jogos-at%C3%A9-r2000-com-i7-9700kf-e-fonte-500w/?do=getNewComment "Placa de vídeo para jogos até R$2.000 com i7 9700KF e fonte 500w")
+        [Quanto vale o meu PC de 1 ano de uso? Ryzen 7 5700X + GeForce RTX 3060](https://www.clubedohardware.com.br/forums/topic/1701250-quanto-vale-o-meu-pc-de-1-ano-de-uso-ryzen-7-5700x-geforce-rtx-3060/?do=getNewComment "Quanto vale o meu PC de 1 ano de uso? Ryzen 7 5700X + GeForce RTX 3060")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Gabriel Soares007](https://www.clubedohardware.com.br/profile/1174970-gabriel-soares007/ "Ir ao perfil de Gabriel Soares007")  
-        54 minutos atrás
+        [Quanto vale meu equipamento usado?](https://www.clubedohardware.com.br/forums/forum/174-quanto-vale-meu-equipamento-usado/ "Quanto vale meu equipamento usado?")  
+        Por [MathDog](https://www.clubedohardware.com.br/profile/1216263-mathdog/ "Ir ao perfil de MathDog")  
+        1 hora atrás
         
-    * [![iso](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252166.thumb.jpeg.51f26fce9958b2d8a0af2d08b5dc621a.jpeg)](https://www.clubedohardware.com.br/profile/1252166-iso/ "Ir ao perfil de iso")
+    * [![TheDemonLena](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1090527.thumb.jpeg.46d8e381bc7d55d703f4d44ef16fc161.jpeg)](https://www.clubedohardware.com.br/profile/1090527-thedemonlena/ "Ir ao perfil de TheDemonLena")
         
         4
         
-        [É melhor usar dois SSD de 500gb ou um de 1tb?](https://www.clubedohardware.com.br/forums/topic/1701217-%C3%A9-melhor-usar-dois-ssd-de-500gb-ou-um-de-1tb/?do=getNewComment "É melhor usar dois SSD de 500gb ou um de 1tb?")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [iso](https://www.clubedohardware.com.br/profile/1252166-iso/ "Ir ao perfil de iso")  
-        2 horas atrás
-        
-    * [![Mano.diego](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c497%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1053442-manodiego/ "Ir ao perfil de Mano.diego")
-        
-        17
-        
-        [Upgrade para Ryzen 7 5700x3d: RTX 3060 12gb ou RTX 4060 ti 8gb?](https://www.clubedohardware.com.br/forums/topic/1701216-upgrade-para-ryzen-7-5700x3d-rtx-3060-12gb-ou-rtx-4060-ti-8gb/?do=getNewComment "Upgrade para Ryzen 7 5700x3d: RTX 3060 12gb ou RTX 4060 ti 8gb?")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Mano.diego](https://www.clubedohardware.com.br/profile/1053442-manodiego/ "Ir ao perfil de Mano.diego")  
-        2 horas atrás
-        
-    * [![roberto alencar](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462bf%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ERA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1182465-roberto-alencar/ "Ir ao perfil de roberto alencar")
-        
-        1
-        
-        [especificação da memória RAM para Lenovo Ideapad 310 15ISK 80UH](https://www.clubedohardware.com.br/forums/topic/1701215-especifica%C3%A7%C3%A3o-da-mem%C3%B3ria-ram-para-lenovo-ideapad-310-15isk-80uh/?do=getNewComment "especificação da memória RAM para Lenovo Ideapad 310 15ISK 80UH")
-        
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [roberto alencar](https://www.clubedohardware.com.br/profile/1182465-roberto-alencar/ "Ir ao perfil de roberto alencar")  
-        2 horas atrás
-        
-    * [![Erick Luiz Ferreira](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255402.thumb.jpeg.b607264aaf5d45328b9e99975162e1f2.jpeg)](https://www.clubedohardware.com.br/profile/1255402-erick-luiz-ferreira/ "Ir ao perfil de Erick Luiz Ferreira")
-        
-        1
-        
-        [Queria Montar um Pc Gamer](https://www.clubedohardware.com.br/forums/topic/1701214-queria-montar-um-pc-gamer/?do=getNewComment "Queria Montar um Pc Gamer")
+        [Essa configuração vale a pena em 2024? Pentium E5200 + 8GB DDR2 + GeForce GT 210](https://www.clubedohardware.com.br/forums/topic/1701249-essa-configura%C3%A7%C3%A3o-vale-a-pena-em-2024-pentium-e5200-8gb-ddr2-geforce-gt-210/?do=getNewComment "Essa configuração vale a pena em 2024? Pentium E5200 + 8GB DDR2 + GeForce GT 210")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Erick Luiz Ferreira](https://www.clubedohardware.com.br/profile/1255402-erick-luiz-ferreira/ "Ir ao perfil de Erick Luiz Ferreira")  
+        Por [TheDemonLena](https://www.clubedohardware.com.br/profile/1090527-thedemonlena/ "Ir ao perfil de TheDemonLena")  
+        1 hora atrás
+        
+    * [![Salominho](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1247173.thumb.png.d83d22690f544358ad686a8d79c08d33.png)](https://www.clubedohardware.com.br/profile/1247173-salominho/ "Ir ao perfil de Salominho")
+        
+        0
+        
+        [Celular custo-benefício de até R$ 1.300](https://www.clubedohardware.com.br/forums/topic/1701248-celular-custo-benef%C3%ADcio-de-at%C3%A9-r-1300/?do=getNewComment "Celular custo-benefício de até R$ 1.300")
+        
+        [Smartphones, celulares, tablets e apps](https://www.clubedohardware.com.br/forums/forum/195-smartphones-celulares-tablets-e-apps/ "Smartphones, celulares, tablets e apps")  
+        Por [Salominho](https://www.clubedohardware.com.br/profile/1247173-salominho/ "Ir ao perfil de Salominho")  
+        1 hora atrás
+        
+    * [![Diogo22](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23bd62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ED%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255421-diogo22/ "Ir ao perfil de Diogo22")
+        
+        7
+        
+        [gostaria de saber se o cabo molex da minha fonte consegue conectar nas fans](https://www.clubedohardware.com.br/forums/topic/1701247-gostaria-de-saber-se-o-cabo-molex-da-minha-fonte-consegue-conectar-nas-fans/?do=getNewComment "gostaria de saber se o cabo molex da minha fonte consegue conectar nas fans")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Diogo22](https://www.clubedohardware.com.br/profile/1255421-diogo22/ "Ir ao perfil de Diogo22")  
+        1 hora atrás
+        
+    * [![Lokisdeaths](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255420.thumb.png.e5f8654456fe5c90d1989897bf128bee.png)](https://www.clubedohardware.com.br/profile/1255420-lokisdeaths/ "Ir ao perfil de Lokisdeaths")
+        
+        4
+        
+        [queria compra uma placa de Vídeo mas não entendo nada](https://www.clubedohardware.com.br/forums/topic/1701246-queria-compra-uma-placa-de-v%C3%ADdeo-mas-n%C3%A3o-entendo-nada/?do=getNewComment "queria compra uma placa de Vídeo mas não entendo nada")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Lokisdeaths](https://www.clubedohardware.com.br/profile/1255420-lokisdeaths/ "Ir ao perfil de Lokisdeaths")  
         2 horas atrás
         
-    * [![Raivos](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254912.thumb.jpeg.f40c9465dbe7b41f4d7a2634e326e044.jpeg)](https://www.clubedohardware.com.br/profile/1254912-raivos/ "Ir ao perfil de Raivos")
+    * [![SergioP](https://www.clubedohardware.com.br/uploads/members/monthly_2020_09/imported-photo-1096935.thumb.jpeg.d3630fa85239c0ace53a1d0c60e80125.jpeg)](https://www.clubedohardware.com.br/profile/1096935-sergiop/ "Ir ao perfil de SergioP")
         
         1
         
-        [Fans ARGB focadas em estetica](https://www.clubedohardware.com.br/forums/topic/1701213-fans-argb-focadas-em-estetica/?do=getNewComment "Fans ARGB focadas em estetica")
+        [Processador Ryzen 5 5600GT com memória DDR4 (2x) 8gb 2666.](https://www.clubedohardware.com.br/forums/topic/1701245-processador-ryzen-5-5600gt-com-mem%C3%B3ria-ddr4-2x-8gb-2666/?do=getNewComment "Processador Ryzen 5 5600GT com memória DDR4  (2x) 8gb 2666.")
         
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Raivos](https://www.clubedohardware.com.br/profile/1254912-raivos/ "Ir ao perfil de Raivos")  
-        3 horas atrás
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [SergioP](https://www.clubedohardware.com.br/profile/1096935-sergiop/ "Ir ao perfil de SergioP")  
+        2 horas atrás
         
     
 
@@ -402,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
