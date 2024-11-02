@@ -244,20 +244,6 @@ MuggleNet Archive Select Month November 2024  (1) October 2024  (27) September
 
 ### November 2024
 
-#### Fri, Nov 1
-
-Harry is left with the Dursleys; wizarding world celebrates the fall of Voldemort
-
-Recurs yearly
-
-1981
-
-Natalia Tena's birthday
-
-Recurs yearly
-
-Nymphadora Tonks
-
 #### Sat, Nov 2
 
 Hagrid returns from recruiting giants
@@ -346,6 +332,20 @@ Recurs yearly
 
 1992
 
+#### Fri, Nov 8
+
+Chris Rankin's birthday
+
+Recurs yearly
+
+Percy Weasley
+
+Colin Creevey is Petrified
+
+Recurs yearly
+
+1992
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -356,15 +356,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The name Voldemort comes from the French words meaning “fly from death,” and his entire goal is to conquer death.
+Magic makes electronics go haywire, so Muggle devices don’t work at or near Hogwarts.
 
 ### Potter History
 
-May 27, 2010 – Entertainment Weekly names Harry Potter one of the Greatest Characters of the Past 20 Years.
+December 11, 2008 – The first stop for Harry Potter: The Exhibition is announced as Chicago, Illinois, opening on April 30, 2009.
 
 ### Potter Quote
 
-“We’d better get to bed before Snape comes along and tries to frame us for something else.”
+“Sir, I wondered what you know about . . . about Horcruxes?”
 
 [](#)
 
