@@ -70,9 +70,9 @@ If you have any questions about our privacy policies, contact us at [info@karenw
 
 [![YouTube button](/images/youtube/youtube-button-64.png "Visit our YouTube channel")](https://www.youtube.com/c/Karenware)
 
-Downloads Today: 50  
+Downloads Today: 66  
 More than 6000 downloads monthly  
-Received $0.00 this month\* — Thanks!
+Received $28.01 this month\* — Thanks!
 
 ### Recently
 
@@ -110,6 +110,6 @@ Subscribe to receive new issues of the newsletter about Karen and her free Power
 
 [Click here to Subscribe](https://www.karenware.com/subscribe)
 
-November Revenue\* $0.00  
+November Revenue\* $28.01  
 \*Licenses + Donations - PayPal Fees  
-Aug $173 Jul $225 Jun $324 May $200 Apr $700 Mar $273 Feb $405 Jan $56 (2023) Dec $349 Nov $546 Oct $253 Sep $232 Aug $189 Jul $379 Jun $188 May $484 Apr $212 Mar $519 Feb $89 Jan $462 (2022) Dec $1088 Nov $151 Oct $133 USD — Thanks again!
+Oct $211 Sep $166 Aug $173 Jul $225 Jun $324 May $200 Apr $700 Mar $273 Feb $405 Jan $56 (2023) Dec $349 Nov $546 Oct $253 Sep $232 Aug $189 Jul $379 Jun $188 May $484 Apr $212 Mar $519 Feb $89 Jan $462 (2022) Dec $1088 Nov $151 Oct $133 USD — Thanks again!
