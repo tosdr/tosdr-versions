@@ -326,7 +326,7 @@ Analytics cookies can also be managed via the following links:
 * [Careers](https://maxrewards.co/careers)
 * [Help Center](https://help.maxrewards.com/)
 
-Join over 400,000 members  
+Join over 500,000 members  
 maximizing their rewards
 
 [![Download on Google Play](/stores/google-play-store.svg)](https://play.google.com/store/apps/details?id=com.maxrewards)[![Download on the App Store](/stores/apple-app-store.svg)](https://apps.apple.com/us/app/maxrewards-rewards-cashback/id1435710443)
