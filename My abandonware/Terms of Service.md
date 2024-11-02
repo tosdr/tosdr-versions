@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Great Golf](https://www.myabandonware.com/game/great-golf-apx)
+* [GP World](https://www.myabandonware.com/game/gp-world-anw)
 * [Guilty Gear X ver 1.5](https://www.myabandonware.com/game/guilty-gear-x-ver-1-5-sq3)
 * [RPG Maker 95](https://www.myabandonware.com/game/rpg-maker-95-sq1)
 * [Virtua Golf](https://www.myabandonware.com/game/virtua-golf-t4w)
-* [Vampire Night](https://www.myabandonware.com/game/vampire-night-t4v)
-* [Under Defeat](https://www.myabandonware.com/game/under-defeat-t4u)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
