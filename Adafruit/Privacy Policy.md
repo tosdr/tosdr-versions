@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ This is not the age of pamphleteers. It is the age of engineers. The spark-gap is mightier than the pen”
+“ He who receives an idea from me receives it without lessening me, as he who lights his candle at mine receives light without darkening me”
 
-[Lancelot Hogben](http://en.wikipedia.org/wiki/Lancelot_Hogben)
+[Thomas Jefferson](http://dangerousprototypes.com/2012/02/20/presidents-in-favor-of-open-source/)
 
 [](https://www.adafruit.com/about)
 
