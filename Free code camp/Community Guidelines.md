@@ -4,8 +4,6 @@ Search  Submit your search query
 
 [Forum](https://forum.freecodecamp.org/) [Donate](https://www.freecodecamp.org/donate/)
 
-ADVERTISEMENT
-
 October 14, 2019 / [#freeCodeCamp.org](https://www.freecodecamp.org/news/tag/freecodecamp/)
 
 The freeCodeCamp Code of Conduct
