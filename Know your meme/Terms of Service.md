@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/454/dumb-ahh-pumpkin.jpg "The Weekly Meme Roundup: A Tale Of Two Internets")
+* [!["All I Want For Christmas Is You"](https://i.kym-cdn.com/featured_items/icons/wide/000/026/471/Mariah_Carey_-_All_I_Want_for_Christmas_Is_You_(Make_My_Wish_Come_True_Edition)_2-36_screenshot_(2).png "She Is Risen")
     
-    The Weekly Meme Roundup: A Tale Of Two Internets](https://knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-a-tale-of-two-internets)
+    She Is Risen](https://knowyourmeme.com/memes/all-i-want-for-christmas-is-you)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/453/rule_63.jpg "What Is Rule 63 Of The Internet? The Internet Adage About Gender-Bent Fan Art Explained")
+* [![Twitch's Erobb221 Emote 'OGRE' Continues To Be Impactful Four Years Later](https://i.kym-cdn.com/featured_items/icons/wide/000/026/470/2.jpg "Twitch's Erobb221 Emote 'OGRE' Continues To Be Impactful Four Years Later")
     
-    What Is Rule 63 Of The Internet? The Internet Adage About Gender-Bent Fan Art Explained](https://knowyourmeme.com/editorials/guides/what-is-rule-63-of-the-internet-the-internet-adage-about-gender-bent-fan-art-explained)
+    Twitch's Erobb221 Emote 'OGRE' Continues To Be Impactful Four Years Later](https://knowyourmeme.com/memes/ogre-erobb221-twitch)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/452/creepychan.jpg "Where Are They Now? Here's What Allison Harvard, AKA 'Creepy Chan,' Has Been Up To Since Her Early Internet Fame")
+* [![Nintendo Launchs Music Streaming App for Switch Online Subscribers](https://i.kym-cdn.com/featured_items/icons/wide/000/026/469/Nintendo_muic_app_Cover.jpg "Nintendo Launchs Music Streaming App for Switch Online Subscribers")
     
-    Where Are They Now? Here's What Allison Harvard, AKA 'Creepy Chan,' Has Been Up To Since Her Early Internet Fame](https://knowyourmeme.com/editorials/guides/where-are-they-now-heres-what-allison-harvard-aka-creepy-chan-has-been-up-to-since-her-early-internet-fame-and-americas-next-top-model)
+    Nintendo Launchs Music Streaming App for Switch Online Subscribers](https://knowyourmeme.com/memes/subcultures/nintendo-music-app)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/451/fp2.jpg "Why Are TikTokers Trying To 'Cancel Out' Their Family Members' Votes? The Viral 'U.S. Election 2024' Trend Explained")
+* [![But You Didn't Have To Cut Me Off TikTok Trend refers to a TikTok trend that grew popular in late October 2024, typically used by creators to show off their Halloween costumes, set to the song Somebody That I Used To Know by Gotye. The trend starts with two people posing and then taking turns to dance through each line of the chorus of the song. By October 31st, 2024, the trend had gathered over 40,000 videos on the platform.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/468/didnt_have_to_cut_me_off.jpg "Gotye's 2011 Hit Continues To Prove Itself As The Recipe To Viral Success With This Halloween TikTok Trend")
     
-    Why Are TikTokers Trying To 'Cancel Out' Their Family Members' Votes? The Viral 'U.S. Election 2024' Trend Explained](https://knowyourmeme.com/editorials/guides/why-are-tiktokers-trying-to-cancel-out-their-family-members-votes-the-viral-us-election-2024-trend-explained)
+    Gotye's 2011 Hit Continues To Prove Itself As The Recipe To Viral Success With This Halloween TikTok Trend](https://knowyourmeme.com/memes/but-you-didnt-have-to-cut-me-off-tiktok-trend)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/450/1.jpg "What Does 'Winter Is Coming' Mean? The Viral 'Game Of Thrones' Meme From Ned Stark Explained")
+* [![TikTokers Showing Off Their Revealing Halloween Costumes With The 'No Revenge' Trend](https://i.kym-cdn.com/featured_items/icons/wide/000/026/467/norevengecover.jpg "TikTokers Showing Off Their Revealing Halloween Costumes With The 'No Revenge' Trend")
     
-    What Does 'Winter Is Coming' Mean? The Viral 'Game Of Thrones' Meme From Ned Stark Explained](https://knowyourmeme.com/editorials/guides/what-does-winter-is-coming-mean-the-viral-game-of-thrones-meme-from-ned-stark-explained)
+    TikTokers Showing Off Their Revealing Halloween Costumes With The 'No Revenge' Trend](https://knowyourmeme.com/memes/no-revenge-halloween-costume-trend)
     
 
 ##### Also Trending:
 
-[Johnny Somali's South Korea Hunt Down Controversy](https://knowyourmeme.com/memes/events/johnny-somalis-south-korea-hunt-down-controversy "Johnny Somali's South Korea Hunt Down Controversy")
+[AI Generated Minecraft](https://knowyourmeme.com/memes/ai-generated-minecraft "AI Generated Minecraft") [Dragon Age Veilguard Reviews Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-reviews-controversy "Dragon Age Veilguard Reviews Controversy") [Johnny Somali's South Korea Hunt Down Controversy](https://knowyourmeme.com/memes/events/johnny-somalis-south-korea-hunt-down-controversy "Johnny Somali's South Korea Hunt Down Controversy") [Maia Poet 'Lazy Eye' Controversy](https://knowyourmeme.com/memes/events/maia-poet-left-and-joined-team-maga-lazy-eye-controversy "Maia Poet 'Lazy Eye' Controversy") [Russian Court $20 Decillion Google Fine](https://knowyourmeme.com/memes/events/russian-court-20000000000000000000000000000000000-fine-against-google "Russian Court $20 Decillion Google Fine")
 
 Terms of Service and Use
 ========================
@@ -263,7 +263,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### O HAI! You must login or signup first!
+### Greetings! You must login or signup first!
 
 |     |     |
 | --- | --- |
