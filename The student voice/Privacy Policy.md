@@ -422,6 +422,6 @@ We try to respond to all legitimate requests within one month. Occasionally it m
 
 [Page load link](#)
 
-![Cleantalk Pixel](https://moderate3-v4.cleantalk.org/pixel/bbcc0e99f9fc5a20b53acad8a030f412.gif)                                                                        
+![Cleantalk Pixel](https://moderate10-v4.cleantalk.org/pixel/0126266333ac5fc6f5f8254824a20cc3.gif)                                                                        
 
 [Go to Top](#)
