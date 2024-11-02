@@ -102,6 +102,7 @@
     * [PETA Shopping Guide](https://www.petashoppingguide.com/?en_txn7=Navigation::Shop-Subnav "PETA Shopping Guide")
     * [PETA-Approved Vegan](https://petaapprovedvegan.peta.org/?en_txn7=Navigation::shop-subnav "PETA Approved Vegan")
     * [PETA Presents](https://presents.peta.org/?en_txn7=Navigation::Shop-Subnav "PETA Presents")
+    * [Holiday Gift Ideas](https://shop.peta.org/trending/vegan-holiday-gift-ideas-that-help-animals.html?en_txn7=Navigation::Shop-Subnav)
     
 * [About](https://www.peta.org/about-peta/ "About")
     
@@ -189,6 +190,7 @@
     * [PETA Shopping Guide](https://www.petashoppingguide.com/?en_txn7=Navigation::Shop-Subnav "PETA Shopping Guide")
     * [PETA-Approved Vegan](https://petaapprovedvegan.peta.org/?en_txn7=Navigation::shop-subnav "PETA Approved Vegan")
     * [PETA Presents](https://presents.peta.org/?en_txn7=Navigation::Shop-Subnav "PETA Presents")
+    * [Holiday Gift Ideas](https://shop.peta.org/trending/vegan-holiday-gift-ideas-that-help-animals.html?en_txn7=Navigation::Shop-Subnav)
     
 * [About](https://www.peta.org/about-peta/ "About")
     
