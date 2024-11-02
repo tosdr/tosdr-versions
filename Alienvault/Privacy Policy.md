@@ -163,11 +163,11 @@
             
         * [Blog Read the latest coverage on security matters](https://www.alienvault.com/blogs)
             
-            Blog: Security Essentials
+            blog
             
-            ##### A Look at the Social Engineering Element of Spear Phishing Attacks
+            ##### Ngioweb Remains Active 7 Years Later
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/a-look-at-the-social-engineering-element-of-spear-phishing-attacks)
+            [Learn more](https://cybersecurity.att.com/blogs/labs-research/ngioweb-remains-active-7-years-later)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -399,13 +399,13 @@ If you wish to view a current list of all Data Processors, click here: [https://
 
 From the Blog
 
-![David Balaban](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Alejandro Prada nespral](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### David Balaban
+#### Alejandro Prada nespral
 
-Oct 21, 2024
+Nov 1, 2024
 
-### [A Look at the Social Engineering Element of Spear Phishing Attacks](https://cybersecurity.att.com/blogs/security-essentials/a-look-at-the-social-engineering-element-of-spear-phishing-attacks)
+### [Ngioweb Remains Active 7 Years Later](https://cybersecurity.att.com/blogs/labs-research/ngioweb-remains-active-7-years-later)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
