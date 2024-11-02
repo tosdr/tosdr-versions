@@ -73,11 +73,11 @@
 
 MBFC News
 
+* [November 2, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of Oct 27th – Nov 2nd](https://mediabiasfactcheck.com/2024/11/02/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-oct-27th-nov-2nd/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of Oct 27th – Nov 2nd")
+* [November 2, 2024 | MBFC’s Daily Vetted Fact Checks for 11/02/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/02/mbfcs-daily-vetted-fact-checks-for-11-02-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/02/2024 (Weekend Edition)")
 * [November 1, 2024 | Media News Daily: Top Stories for 11/01/2024](https://mediabiasfactcheck.com/2024/11/01/media-news-daily-top-stories-for-11-01-2024/ "Media News Daily: Top Stories for 11/01/2024")
 * [November 1, 2024 | MBFC’s Daily Vetted Fact Checks for 11/01/2024](https://mediabiasfactcheck.com/2024/11/01/mbfcs-daily-vetted-fact-checks-for-11-01-2024/ "MBFC’s Daily Vetted Fact Checks for 11/01/2024")
 * [October 31, 2024 | Media News Daily: Top Stories for 10/31/2024](https://mediabiasfactcheck.com/2024/10/31/media-news-daily-top-stories-for-10-31-2024/ "Media News Daily: Top Stories for 10/31/2024")
-* [October 31, 2024 | MBFC’s Daily Vetted Fact Checks for 10/31/2024](https://mediabiasfactcheck.com/2024/10/31/mbfcs-daily-vetted-fact-checks-for-10-31-2024/ "MBFC’s Daily Vetted Fact Checks for 10/31/2024")
-* [October 30, 2024 | Media News Daily: Top Stories for 10/30/2024](https://mediabiasfactcheck.com/2024/10/30/media-news-daily-top-stories-for-10-30-2024/ "Media News Daily: Top Stories for 10/30/2024")
 
 Search for:  
 
@@ -153,6 +153,18 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [WKAR – NPR – East Lansing – Bias and Credibility](https://mediabiasfactcheck.com/wkar-npr-east-lansing-bias/)
+    
+    November 2, 2024
+    
+* [Patriot Voice News – Bias and Credibility](https://mediabiasfactcheck.com/patriot-voice-news-bias-and-credibility/)
+    
+    November 2, 2024
+    
+* [Surrey Comet – Bias and Credibility](https://mediabiasfactcheck.com/surrey-comet-bias/)
+    
+    November 2, 2024
+    
 * [The Morning News – Bias and Credibility](https://mediabiasfactcheck.com/the-morning-news-bias-and-credibility/)
     
     November 1, 2024
@@ -173,40 +185,28 @@ No related posts.
     
     November 1, 2024
     
-* [Brian Williams Bias Rating](https://mediabiasfactcheck.com/brian-williams-bias-rating/)
-    
-    October 31, 2024
-    
-* [Juneau Empire – Bias and Credibility](https://mediabiasfactcheck.com/juneau-empire-bias/)
-    
-    October 31, 2024
-    
-* [The Information – Bias and Credibility](https://mediabiasfactcheck.com/the-information-bias-and-credibility/)
-    
-    October 31, 2024
-    
 
 #### Recently Updated Pages
 
+* [Credible Pollsters Used By MBFC](https://mediabiasfactcheck.com/credible-pollsters-used-by-mbfc/ "View Credible Pollsters Used By MBFC") - November 2, 2024
+    
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 2, 2024
+    
+* [WKAR – NPR – East Lansing – Bias and Credibility](https://mediabiasfactcheck.com/wkar-npr-east-lansing-bias/ "View WKAR – NPR – East Lansing – Bias and Credibility") - November 2, 2024
+    
+* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - November 2, 2024
+    
+* [Patriot Voice News – Bias and Credibility](https://mediabiasfactcheck.com/patriot-voice-news-bias-and-credibility/ "View Patriot Voice News – Bias and Credibility") - November 2, 2024
+    
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 2, 2024
+    
+* [Surrey Comet – Bias and Credibility](https://mediabiasfactcheck.com/surrey-comet-bias/ "View Surrey Comet – Bias and Credibility") - November 2, 2024
+    
+* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - November 2, 2024
+    
 * [Committee for a Responsible Federal Budget – Bias and Credibility](https://mediabiasfactcheck.com/committee-for-a-responsible-federal-budget/ "View Committee for a Responsible Federal Budget – Bias and Credibility") - November 1, 2024
     
 * [The Bulwark – Bias and Credibility](https://mediabiasfactcheck.com/the-bulwark/ "View The Bulwark – Bias and Credibility") - November 1, 2024
-    
-* [Scientific American – Bias and Credibility](https://mediabiasfactcheck.com/scientific-american/ "View Scientific American – Bias and Credibility") - November 1, 2024
-    
-* [SmartNews – Bias and Credibility](https://mediabiasfactcheck.com/smartnews/ "View SmartNews – Bias and Credibility") - November 1, 2024
-    
-* [Washington Times – Bias and Credibility](https://mediabiasfactcheck.com/washington-times/ "View Washington Times – Bias and Credibility") - November 1, 2024
-    
-* [ZeroHedge – Bias and Credibility](https://mediabiasfactcheck.com/zero-hedge/ "View ZeroHedge – Bias and Credibility") - November 1, 2024
-    
-* [The Young Turks – Bias and Credibility](https://mediabiasfactcheck.com/the-young-turks/ "View The Young Turks – Bias and Credibility") - November 1, 2024
-    
-* [Daily Express – Bias and Credibility](https://mediabiasfactcheck.com/daily-express/ "View Daily Express – Bias and Credibility") - November 1, 2024
-    
-* [Leading Britain’s Conversation (LBC) – Bias and Credibility](https://mediabiasfactcheck.com/london-broadcasting-company-lbc/ "View Leading Britain’s Conversation (LBC) – Bias and Credibility") - November 1, 2024
-    
-* [US News World Report – Bias and Credibility](https://mediabiasfactcheck.com/us-news-world-report/ "View US News World Report – Bias and Credibility") - November 1, 2024
     
 
 #### Today’s Top Page Views
@@ -219,8 +219,8 @@ No related posts.
 * [Newsweek - Bias and Credibility](https://mediabiasfactcheck.com/newsweek/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [Daily Beast - Bias and Credibility](https://mediabiasfactcheck.com/daily-beast/)
 * [Electoral College Map 2024 - Harris vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
+* [Daily Beast - Bias and Credibility](https://mediabiasfactcheck.com/daily-beast/)
 
 #### Subscribe via Email
 
