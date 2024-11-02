@@ -15,6 +15,11 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/eufy-smarttrack-card-e30-rechargeable-wallet-tracker-apple-find-my/)
+    
+    [eufy SmartTrack Card E30 Rechargeable Wallet Tracker Only Needs Once-a-Year Charging](https://www.coolthings.com/eufy-smarttrack-card-e30-rechargeable-wallet-tracker-apple-find-my/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/vizio-micme-soundbar-subwoofer-two-mics-karaoke-machine/)
     
     [Vizio MicMe Transforms from Soundbar to Karaoke Machine](https://www.coolthings.com/vizio-micme-soundbar-subwoofer-two-mics-karaoke-machine/)
@@ -24,11 +29,6 @@
     
     [Sennheiser Profile Wireless Combines Tabletop Mic, Handheld Mic, and Clip-On Mics in One Setup](https://www.coolthings.com/sennheiser-profile-wireless-combines-tabletop-handheld-clip-on-mics-all-in-one-system/)
     -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-2-in-1-laptops-for-seamless-switching-between-pc-and-tablet/)
-    
-    [The Best 2-in-1 Laptops for Seamless Switching Between PC and Tablet](https://www.coolthings.com/the-best-2-in-1-laptops-for-seamless-switching-between-pc-and-tablet/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
