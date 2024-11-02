@@ -36,6 +36,7 @@ Toggle Site Navigation
 * [Solutions](https://www.lightspeedsystems.com/solutions/) Open Solutions submenu
     * [Security & Compliance](https://www.lightspeedsystems.com/solutions/security-compliance/) Open Security & Compliance submenu
         * [Compliance](https://www.lightspeedsystems.com/challenges/compliance/)
+        * [Student Data Privacy](https://www.lightspeedsystems.com/challenges/student-data-privacy/)
         * [OH SB 29](https://www.lightspeedsystems.com/challenges/compliance-ohio-sb29/)
         * [TX Scope](https://www.lightspeedsystems.com/challenges/compliance-scope-act/)
         * [AI](https://www.lightspeedsystems.com/solutions/security-compliance/support-ai-edtech-success-school-districts/)
