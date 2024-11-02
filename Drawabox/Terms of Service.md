@@ -24,11 +24,11 @@
 
 [](javascript:ShowNextAnnouncement(false,'next'))
 
-[](https://drawabox.com/rec/uncomfortable/whattodraw)
+[](https://drawabox.com/rec/bucci/digitalpainting)
 
-[](https://drawabox.com/rec/zapata/shading)
+[](https://drawabox.com/rec/proko/figuredrawing)
 
-[](https://amzn.to/3KUTasJ)
+[](https://amzn.to/2SjhDei)
 
 [](https://amzn.to/4cDKBhz)
 
