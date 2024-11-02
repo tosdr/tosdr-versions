@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/oorlog/mh17-duitse-experts-wijzen-naar-ukraiense-gevechtsvliegtuigen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/twitter-onthuld-censuur-op-grote-schaal/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
