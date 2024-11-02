@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/mind-control/lyme-en-aids-menselijke-uitvindingen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/enorme-ufo-waargenomen-bij-iss/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
