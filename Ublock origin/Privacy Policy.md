@@ -789,6 +789,7 @@ uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
     * [Source (for developers)](https://github.com/gorhill/uBlock/tree/master/dist#build-instructions-for-developers)
     * [uBlock Origin Core (Node.js)](https://github.com/gorhill/uBlock/tree/master/platform/nodejs#ublock-origin-core)
     * [About Safari, Canary, Tor and Kiwi support](https://github.com/gorhill/uBlock/wiki/About-Safari-and-Canary-support)
+    * [About Google Chrome's "This extension may soon no longer be supported"](https://github.com/gorhill/uBlock/wiki/About-Google-Chrome's-%22This-extension-may-soon-no-longer-be-supported%22)
 * [The toolbar icon](https://github.com/gorhill/uBlock/wiki/Toolbar-icon)
 * [The popup user interface](https://github.com/gorhill/uBlock/wiki/Quick-guide:-popup-user-interface)
     * [The per-site switches](https://github.com/gorhill/uBlock/wiki/Per-site-switches)
