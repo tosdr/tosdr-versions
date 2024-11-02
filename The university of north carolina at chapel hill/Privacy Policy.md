@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
+* [![](https://www.unc.edu/wp-content/uploads/2024/11/VALOR_Hero1-250x141.jpg)
+    
+    VALOR serves veterans statewide](https://www.unc.edu/posts/2024/11/01/valor-serves-veterans-statewide/)
 * [![](https://www.unc.edu/wp-content/uploads/2024/10/RCHero-250x141.jpg)
     
     Royal Caribbean gift will support Carolina’s Galapagos programs](https://www.unc.edu/posts/2024/11/01/royal-caribbean-gift-will-support-carolinas-galapagos-programs/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/11/TarHeelTributeHero2-250x141.png)
-    
-    Tar Heel Tribute honors those who served](https://www.unc.edu/posts/2024/11/01/tar-heel-tribute-honors-those-who-served/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=3de6d7892e&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=c66cc98c87&text=%prefix%%text%%suffix%&post_id=224688&type=%type%)
 
 ### Share on Mastodon
 
