@@ -91,13 +91,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Why finding bird flu in a U.S. pig for the first time is raising new worries](https://www.sciencenews.org/article/influenza-pig-bird-flu-us)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")13 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")19 hours ago
             
         * [Psychology](https://www.sciencenews.org/topic/psychology)
             
             ### [Smiles tweaked by AI can boost attraction, a speed-dating study shows](https://www.sciencenews.org/article/smiles-ai-attraction-speed-dating)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")16 hours ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")22 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Why finding bird flu in a U.S. pig for the first time is raising new worries](https://www.sciencenews.org/article/influenza-pig-bird-flu-us)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")13 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")19 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -188,13 +188,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [50 years ago, scientists found a new moon orbiting Jupiter](https://www.sciencenews.org/article/50-years-ago-jupiter-new-moon)
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")18 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")November 1, 2024
             
         * [Space](https://www.sciencenews.org/topic/space)
             
             ### [A distant quasar’s black hole is oddly huge for its galaxy](https://www.sciencenews.org/article/quasar-black-hole-oddly-huge)
             
-            By [Ken Croswell](https://www.sciencenews.org/author/ken-croswell "Posts by Ken Croswell")20 hours ago
+            By [Ken Croswell](https://www.sciencenews.org/author/ken-croswell "Posts by Ken Croswell")November 1, 2024
             
         * [Science & Society](https://www.sciencenews.org/topic/science-society)
             
