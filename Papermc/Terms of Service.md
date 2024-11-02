@@ -88,7 +88,7 @@ Jun **14**
 * [Jun 14, 2024](https://papermc.io/threads/1-21.1221/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 9,912
+* 9,927
 * 2
 
 ### The 1.21 Update​
@@ -204,7 +204,7 @@ May **28**
 * [May 28, 2024](https://papermc.io/threads/paper-velocity-1-20-6.1152/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,347
+* 8,349
 * 6
 
 ### The 1.20.5/6 Update​
@@ -302,7 +302,7 @@ Mar **26**
 * [Mar 26, 2024](https://papermc.io/threads/announcing-the-end-of-life-of-waterfall.1088/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 17,859
+* 17,861
 * 11
 
 Announcing the end of life of Waterfall​
@@ -340,7 +340,7 @@ Mar **22**
 * [Mar 22, 2024](https://papermc.io/threads/important-dev-psa-future-removal-of-cb-package-relocation.1106/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,624
+* 14,630
 * 12
 
 ### Future removal of CB package relocation + moving away from obfuscation at runtime​
@@ -438,7 +438,7 @@ Dec **31**
 * [Dec 31, 2023](https://papermc.io/threads/new-years-post.1009/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 26,448
+* 26,466
 * 6
 
 Happy New Year from PaperMC!​
@@ -582,7 +582,7 @@ Dec **25**
 * [Dec 25, 2023](https://papermc.io/threads/paper-velocity-1-20-4.998/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,696
+* 8,700
 * 1
 
 ### The 1.20.4 Update​
@@ -761,7 +761,7 @@ Jun **11**
 * [Jun 11, 2023](https://papermc.io/threads/paper-velocity-1-20-1.783/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,884
+* 13,885
 * 9
 
 ### The 1.20(.1) Update​
@@ -882,7 +882,7 @@ Mar **15**
 * [Mar 15, 2023](https://papermc.io/threads/paper-velocity-1-19-4.680/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,368
+* 8,369
 * 3
 
 ### The 1.19.4 Update​
@@ -954,7 +954,7 @@ Dec **11**
 * [Dec 11, 2022](https://papermc.io/threads/paper-velocity-1-19-3.592/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,779
+* 13,780
 * 1
 
 ### The 1.19.3 Update​
@@ -1051,7 +1051,7 @@ Jul **30**
 * [Jul 30, 2022](https://papermc.io/threads/paper-1-19-1.394/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 15,066
+* 15,068
 * 1
 
 ### The 1.19.1 Update​
@@ -1094,7 +1094,7 @@ Jun **12**
 * [Jun 12, 2022](https://papermc.io/threads/paper-1-19.344/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 37,530
+* 37,534
 * 18
 
 ### The 1.19 Update​
@@ -1166,7 +1166,7 @@ Mar **04**
 * [Mar 4, 2022](https://papermc.io/threads/paper-1-18-2.185/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 23,782
+* 23,784
 * 12
 
 ### The 1.18.2 Update​
@@ -1295,7 +1295,7 @@ Dec **14**
 * [Dec 14, 2021](https://papermc.io/threads/welcome-to-papermc.1/)
 * [kashike](https://papermc.io/home/authors/kashike.1/)
 
-* 8,816
+* 8,819
 * 2
 
 [![kashike](https://secure.gravatar.com/avatar/c50766d24721f3cdd0ff9e8ead43134b?s=48)](https://papermc.io/members/kashike.1/)
@@ -1340,7 +1340,7 @@ Views
 
 127
 
-[Help](https://papermc.io/forums/velocity-help/) [Today at 9:08 AM](https://papermc.io/threads/paper-velocity-command-aliases.1429/latest)
+[Help](https://papermc.io/forums/velocity-help/) [Yesterday at 9:08 AM](https://papermc.io/threads/paper-velocity-command-aliases.1429/latest)
 
 [YuanYuanOwO](https://papermc.io/members/yuanyuanowo.12188/)
 
@@ -1351,7 +1351,7 @@ Views
 Question [try createBlockData got java.lang.NullPointerException: null](https://papermc.io/threads/try-createblockdata-got-java-lang-nullpointerexception-null.1432/)
 
 * [creamgod45](https://papermc.io/members/creamgod45.12166/)
-* [Yesterday at 6:59 AM](https://papermc.io/threads/try-createblockdata-got-java-lang-nullpointerexception-null.1432/)
+* [Thursday at 6:59 AM](https://papermc.io/threads/try-createblockdata-got-java-lang-nullpointerexception-null.1432/)
 * [Plugin Development](https://papermc.io/forums/paper-plugin-development/)
 
 Replies
@@ -1360,9 +1360,9 @@ Replies
 
 Views
 
-57
+60
 
-[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Yesterday at 1:30 PM](https://papermc.io/threads/try-createblockdata-got-java-lang-nullpointerexception-null.1432/latest)
+[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Thursday at 1:30 PM](https://papermc.io/threads/try-createblockdata-got-java-lang-nullpointerexception-null.1432/latest)
 
 [stefvanschie](https://papermc.io/members/stefvanschie.38/)
 
@@ -1384,7 +1384,7 @@ Replies
 
 Views
 
-60
+61
 
 [Help](https://papermc.io/forums/paper-help/) [Tuesday at 5:43 AM](https://papermc.io/threads/command-error.1431/latest)
 
@@ -1408,7 +1408,7 @@ Replies
 
 Views
 
-83
+85
 
 [Help](https://papermc.io/forums/paper-help/) [Sunday at 3:11 PM](https://papermc.io/threads/the-problem-with-the-time-of-despawn-of-discarded-items.1428/latest)
 
@@ -1432,7 +1432,7 @@ Views
 
 85
 
-[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Saturday at 7:13 PM](https://papermc.io/threads/why-do-my-commands-not-work.1427/latest)
+[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Oct 26, 2024](https://papermc.io/threads/why-do-my-commands-not-work.1427/latest)
 
 [electronicboy](https://papermc.io/members/electronicboy.2/)
 
@@ -1452,9 +1452,9 @@ Replies
 
 Views
 
-245
+246
 
-[Discussion](https://papermc.io/forums/paper-discussion/) [Saturday at 7:05 PM](https://papermc.io/threads/villager-restocking-differences-to-vanilla.1321/latest)
+[Discussion](https://papermc.io/forums/paper-discussion/) [Oct 26, 2024](https://papermc.io/threads/villager-restocking-differences-to-vanilla.1321/latest)
 
 [User670](https://papermc.io/members/user670.11999/)
 
@@ -1546,7 +1546,7 @@ Replies
 
 Views
 
-203
+204
 
 [Help](https://papermc.io/forums/paper-help/) [Oct 21, 2024](https://papermc.io/threads/paper-server-has-crashed-fatal-error-in-java-runtime-envoirement.1417/latest)
 
