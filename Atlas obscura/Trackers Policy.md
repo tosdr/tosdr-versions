@@ -16,35 +16,7 @@ Open main menu
 
 Loading...
 
-Upcoming Experiences
-
-[View All Experiences »](https://www.atlasobscura.com/events)
-
-   [![](https://img.atlasobscura.com/qCD_zfu1RLyFP5Gm_fQOivD9S5cOVFJ3SNZOfTaCuss/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9lNWUz/NTU4My1kODVhLTRj/OGQtOTA3ZC0wZTMz/ZTUxY2E0ZTYzMzJi/MGVjMDAxYjllOTY2/MTRfNlVXeFlkZkEu/anBn.jpg)
-
-Wild Life: An Explorer's Guide to the World's Living Wonders](https://www.atlasobscura.com/experiences/wild-life-book-event-portland)
-
-   [![](https://img.atlasobscura.com/47GmlwimpzPiGelKZ8NPUfhFPGMn4DXU85l8m12kxFo/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9hNjg3/MmE5NS05ZmZjLTRm/YzQtYTg3NS03M2Q3/ZjJjZTIxOTA4MTEx/N2MxZTk1MWE0NmQy/OTBfYXJuZS12ZXJi/aXN0LTB3dTVXYWlL/NnBVLXVuc3BsYXNo/LmpwZw.jpg)
-
-Members Only
-
-Monster of the Month w/ Colin Dickey: The Albatwitch](https://www.atlasobscura.com/experiences/monster-of-the-month-w-colin-dickey-the-albatwitch)
-
-   [![](https://img.atlasobscura.com/iBmYQnBuFHN6USDGinknmm1IrzJw7Y2XxZIT_GHYChg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy82OGVh/ZmQzZi01NzEyLTQz/Y2MtOTU3OS0zMWE3/ZTQ4MzdjYTQxZTlj/OTNiYjNhYTM2OWVk/MmJfdWMzeGtqa1Eu/anBn.jpg)
-
-Wild Life: An Explorer's Guide to the World's Living Wonders](https://www.atlasobscura.com/experiences/wild-life-book-event-toronto)
-
-   [![](https://img.atlasobscura.com/rHgWDyNgbn2PLJ4fPnve5r--YDSMfBkSbNDqnDrd6NE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8xODAz/Mjk3OS0xYThiLTQ1/YjQtYjFkMC1hNDhk/MTcxZmUxNTBhZjcx/MWI1MGE0MjY5NTAy/ZjZfanVuaW9yLWZl/cnJlaXJhLTdlc1JQ/VHQzOG5JLXVuc3Bs/YXNoLmpwZw.jpg)
-
-Members Only
-
-Accidental Discoveries](https://www.atlasobscura.com/experiences/accidental-discoveries-6)
-
-   [![](https://img.atlasobscura.com/BtMUa2zrDFXc-OVssjz_wOvaZew_1XXphWiyJnyDX48/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81YjU4/YTZlMS1jMDk3LTRh/M2EtOTVmZi1lMTI5/NDE0ZWQwYTBiY2I5/NDY5NjcwMDM3MmUw/MjdfVW50aXRsZWQu/anBn.jpg)
-
-Members Only
-
-Monster of the Month w/ Colin Dickey: Frankenstein](https://www.atlasobscura.com/experiences/monster-of-the-month-w-colin-dickey-frankenstein)
+Loading...
 
 Upcoming Courses
 
@@ -70,121 +42,11 @@ Tree Communication With Annie Novak](https://www.atlasobscura.com/experiences/tr
 
 Piecemaker: Sewing a Sampler Quilt With Aaron Sanders Head](https://www.atlasobscura.com/experiences/quilting-online-course)
 
-Top Destinations
+Loading...
 
-Latest Places
+Loading...
 
-[Most Popular Places](https://www.atlasobscura.com/places?sort=likes_count) [Random Place](https://www.atlasobscura.com/random) [Lists](https://www.atlasobscura.com/lists) [Itineraries](https://www.atlasobscura.com/itineraries)[Add a Place](https://www.atlasobscura.com/places/new)[Download the App](https://app.atlasobscura.com/)
-
-Top Destinations
-
-[View All Destinations »](https://www.atlasobscura.com/destinations)
-
-### Countries
-
-* [Australia](https://www.atlasobscura.com/things-to-do/australia "Australia")
-* [Canada](https://www.atlasobscura.com/things-to-do/canada "Canada")
-* [China](https://www.atlasobscura.com/things-to-do/china "China")
-* [France](https://www.atlasobscura.com/things-to-do/france "France")
-* [Germany](https://www.atlasobscura.com/things-to-do/germany "Germany")
-* [India](https://www.atlasobscura.com/things-to-do/india "India")
-* [Italy](https://www.atlasobscura.com/things-to-do/italy "Italy")
-* [Japan](https://www.atlasobscura.com/things-to-do/japan "Japan")
-
-### Cities
-
-* [Amsterdam](https://www.atlasobscura.com/things-to-do/amsterdam-netherlands "Amsterdam")
-* [Barcelona](https://www.atlasobscura.com/things-to-do/barcelona-spain "Barcelona")
-* [Beijing](https://www.atlasobscura.com/things-to-do/beijing-china "Beijing")
-* [Berlin](https://www.atlasobscura.com/things-to-do/berlin-germany "Berlin")
-* [Boston](https://www.atlasobscura.com/things-to-do/boston-massachusetts "Boston")
-* [Budapest](https://www.atlasobscura.com/things-to-do/budapest-hungary "Budapest")
-* [Chicago](https://www.atlasobscura.com/things-to-do/chicago-illinois "Chicago")
-* [London](https://www.atlasobscura.com/things-to-do/london-england "London")
-* [Los Angeles](https://www.atlasobscura.com/things-to-do/los-angeles-california "Los Angeles")
-* [Mexico City](https://www.atlasobscura.com/things-to-do/mexico-city-mexico "Mexico City")
-* [Montreal](https://www.atlasobscura.com/things-to-do/montreal-quebec "Montreal")
-* [Moscow](https://www.atlasobscura.com/things-to-do/moscow-russia "Moscow")
-* [New Orleans](https://www.atlasobscura.com/things-to-do/new-orleans-louisiana "New Orleans")
-* [New York City](https://www.atlasobscura.com/things-to-do/new-york "New York City")
-* [Paris](https://www.atlasobscura.com/things-to-do/paris-france "Paris")
-* [Philadelphia](https://www.atlasobscura.com/things-to-do/philadelphia-pennsylvania "Philadelphia")
-* [Rome](https://www.atlasobscura.com/things-to-do/rome-italy "Rome")
-* [San Francisco](https://www.atlasobscura.com/things-to-do/san-francisco-california "San Francisco")
-* [Seattle](https://www.atlasobscura.com/things-to-do/seattle-washington "Seattle")
-* [Stockholm](https://www.atlasobscura.com/things-to-do/stockholm-sweden "Stockholm")
-* [Tokyo](https://www.atlasobscura.com/things-to-do/tokyo-japan "Tokyo")
-* [Toronto](https://www.atlasobscura.com/things-to-do/toronto-ontario "Toronto")
-* [Vienna](https://www.atlasobscura.com/things-to-do/vienna-austria "Vienna")
-* [Washington, D.C.](https://www.atlasobscura.com/things-to-do/washington-dc "Washington, D.C.")
-
-Latest Places
-
-[View All Places »](https://www.atlasobscura.com/places?sort=published_at)
-
-   [![Metal waves marking how high the water got during Hurricane Hazel](https://img.atlasobscura.com/JcMZC6z6IPLiimwLuN5s7fIOxAtlzf7VWlHknjSpULY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lN2Y2/OGZhMy0yMjU1LTQw/NjMtYmQ2Mi0yNzYx/OTk0Y2UwZWQwNzgx/ZDYyNTg2YTk4MWQx/NTFfZmVkNWJmZDYt/OGE0NS00YjlhLTky/MDctNDhmOTVkMDI4/MmUyLTFfYWxsXzI2/NzY5LmpwZw.jpg)
-
-Hurricane Hazel Memorial Plaque](https://www.atlasobscura.com/places/hurricane-hazel-memorial-plaque)
-
-   [![Swim through the chilly waters to this sweltering sauna.](https://img.atlasobscura.com/Py1fmXWrrEt-JOlSPrFpLb-sRxs2b4tnBlC2V4ZL_-M/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85ODNl/Zjk2Mi05NmU2LTQx/ZmUtYjQwYi1jMGMy/OWRjNjIxYmI0NTIx/Yjk0MDc0NzRhMDcx/ZjFfMjAyMjA1MDZf/MTkwMTA5LmpwZw.jpg)
-
-Floating Sauna Lake Derby](https://www.atlasobscura.com/places/floating-sauna-on-lake-derby-tasmania)
-
-   [![](https://img.atlasobscura.com/hhbWB7NfolItGEKS50JsUl0ywQPw5UEJqsjN538jGw0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83ODQx/YjBiMi01ZDNlLTQz/MGEtYjMxNC05NTZk/NjQ0ZDFjNzk2MDg0/YWFhY2JlNTJkOTFm/ZDRfMjAyNDA4MzBf/MTc0NTQ1LmpwZw.jpg)
-
-Maison de la Littérature](https://www.atlasobscura.com/places/maison-de-la-litterature)
-
-   [![Wolford Chapel, with its Canadian flag outside.](https://img.atlasobscura.com/bWZxn8U6JOmypE78_WkTkzd7AF7WQzuxE2T5W71NMGE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jOWI0/MDAwNi04ZjE5LTRl/ZmQtODYyOS0zNTZi/YWQxYjA2ZDQ0YWM3/OTE0NmM2MzU5Yjk5/ZDhfMjUzNTc0MTc1/NzdfMjQ1N2NmM2Q0/YV9rLmpwZw.jpg)
-
-Wolford Chapel](https://www.atlasobscura.com/places/wolford-chapel)
-
-Latest Places to Eat & Drink
-
-[View All Places to Eat »](https://www.atlasobscura.com/cool-places-to-eat)
-
-   [![](https://img.atlasobscura.com/jaDz2TbGvVoE1mN7zXoqJ5nmmwFfhZ5bztztb3ItHq0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lNTdh/NDUwNy01NmRiLTQx/YzgtOWU0Mi02M2Zj/MmFlMzIxNzJjMDQz/NDBjYWQ5ZmJmYzlk/YThfYm95YXJkZWUy/LmpwZw.jpg)
-
-Chef Boyardee Statue](https://www.atlasobscura.com/places/chef-boyardee-statue)
-
-   [![Cevapčići at Sarajevo ‘84](https://img.atlasobscura.com/LE8qSSozBNYlyyHbL6Tz8u29d7LsFp_hglJAupgVfA8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wZTZj/NmVhYi1jMGEwLTQx/NTUtYjQ0Zi1kY2Mz/ZmFhMGFkYmYyOGVj/YzgwMjY5NDI4ZGMz/YmNfYjA2NWM2Zjkt/ZGJlMi00MmNiLTgy/N2YtMmZmZTJkOTAx/Nzc4LkpQRw.jpg)
-
-Sarajevo ‘84](https://www.atlasobscura.com/places/sarajevo-84)
-
-   [![In this salad, rice gets topped with pinches of toasted coconut, dried fish, finely-sliced herbs and vegetables, bean sprouts, a tiny knot of noodles, crushed black pepper and dried chili. ](https://img.atlasobscura.com/gQIl5_2prwKwbxcG4VdRWmHZ42_9k05Hvhma2Mu-5EE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yYmFm/YmI4MTVkODdkNWYy/YTNfMjAyMCBSaWNl/IFNhbGFkIHdpdGgg/TmFtIEJ1ZHUgRHJl/c3NpbmcgWWFsYSBU/aGFpbGFuZC0yNzI1/LmpwZw.jpg)
-
-Thai-Islam Phochana](https://www.atlasobscura.com/places/thai-islam-phochana)
-
-   [![With fat chunks of crab meat swimming in a lush coconut milk curry, it's no wonder this dish is so popular.](https://img.atlasobscura.com/l8puxatAy37DyemvB5yemqnL0De5nEIeo6ztO19a5C8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zZTA2/M2Y2MS1hYzUzLTRi/ZDYtYjIzMC04Y2U0/ODk0MjE5NjAyYmFk/MDVmNDE2MjgwNTNj/NzZfMjAyMSBDcmFi/IEN1cnJ5IFNlcnZl/ZCBvdmVyIFRoaW4g/UmljZSBOb29kbGVz/IFBodWtldCBUaGFp/bGFuZC03NzQ4Lmpw/Zw.jpg)
-
-Raya](https://www.atlasobscura.com/places/raya)
-
-   [![Meet boba tea's ancestral cousin.](https://img.atlasobscura.com/CwjPub0FbmraLphLV-Is6aMl2Zw2H7rlTjMxM0pvDMs/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zZDZi/NGEzNDNhNWFiNzZh/ZGRfMjAyMCBSZWFs/IFNhZ28gUGVhcmxz/IERyZXNzZWQgd2l0/aCBDb2NvbnV0IE1p/bGsgS2h1YW4gS2hh/bnVuIFBoYXR0aGFs/dW5nIFRoYWlsYW5k/LTU2MjcuanBn.jpg)
-
-Kanomwaan Pakee](https://www.atlasobscura.com/places/kanomwaan-pakee)
-
-Recent Stories
-
-[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
-
-Most Recent Stories
-
-[View All Stories »](https://www.atlasobscura.com/articles)
-
-   [![The Resolute Desk is considered the greatest of the presidential desks.](https://img.atlasobscura.com/fYV5xg1uuIrzVEsoO5ACJxXeTt6FeQo3qCG7Y8YkID8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8wN2IwOTQzNy01/NWY0LTRlN2YtYTA0/OC0wZTk5NjdjZmNl/YWI2YjFiNDliMDU0/ZDVhYmJlMjlfMWFj/YmJlYTQyYTM4ZTJm/Yzk5X0JhcmFja19P/YmFtYV9zaXR0aW5n/X2F0X3RoZV9SZXNv/bHV0ZV9kZXNrXzIw/MDkuanBn.jpg)
-
-7 Presidential Stories They Don't Teach in History Class](https://www.atlasobscura.com/articles/weird-president-stories)
-
-   [![Like some political issues, Watergate salad can be polarizing.](https://img.atlasobscura.com/rMYBm5_90JP9afI_wgupmXs9veJlIOn1PCHGMZGk8gc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy84NzVjOGQyZS01/ZDRlLTQyODEtYmIz/YS0yNGFiM2ZmY2Mx/ODdjYzk2YjJkZTBj/OWJlNDkxNzFfODA0/NDRlMjQtNzdkYy00/M2MxLWJlYmItN2Q1/ZTlkZjM3NzdjNmQ0/MGE4ZGRhNjgzYTgw/ZDk3X0lNR185ODI2/IDIuanBn.jpg)
-
-7 Candidates for Your Election Day Menu](https://www.atlasobscura.com/articles/political-food-election-recipes)
-
-   [![An award-winning bronze sculpture featured in the Beaufort County Library depicts a Gullah woman carrying a sweetgrass basket full of vegetables.](https://img.atlasobscura.com/ksXBvnpRdomzN87CyovbStaXjffQo-5KQZCcrOdtUXE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy80M2NlMWYxMjAy/MzU3YzVmNDRfaW1h/Z2U0LmpwZw.jpg)
-
-The Unique Gullah Geechee History of South Carolina](https://www.atlasobscura.com/articles/the-unique-gullah-geechee-history-of-south-carolina)
-
-   [![This map of Poyais from the 1820s fooled hundreds of people.](https://img.atlasobscura.com/9OKAcXKipFUm7-c566nReowSNyAtIZq6YlCkhoVxnwo/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9jZGUyYWQ2NS1m/ZjZlLTQ2OGYtOTE4/OC05OTNlNTZjMTc3/NDliMmE0MWE0MGJm/ZmIyMGZkNGRfR3Jl/Z29yIE1hY0dyZWdv/ciwgQSBNYXAgb2Yg/UGFydCBvZiB0aGUg/RGlzdHJpY3Qgb2Yg/UG95YWlzIHRoZSBQ/cm9wZXJ0eSBvZiBI/LkUuIFNpciBHcmVn/b3IgTWFjR3JlZ29y/IDE4MjAuLCAxODIw/LiBDb3VydGVzeSBv/ZiBEYW5pZWwgQ3Jv/dWNoIFJhcmUgQm9v/a3MuICAoMSkuanBn.jpg)
-
-This Map Shows a Fictional Country Created by a Con Man](https://www.atlasobscura.com/articles/gregor-macgregor-map-of-poyais)
+Loading...
 
 No search results found for  
 “”
