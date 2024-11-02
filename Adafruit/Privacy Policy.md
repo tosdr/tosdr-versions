@@ -83,13 +83,13 @@ Search
     
     $4.50](https://www.adafruit.com/product/6066)
     
+    ![Angled shot of unplugged soldering iron.](https://cdn-shop.adafruit.com/230x173/6045-08.jpg)[iFixit FixHub - Power Series Smart Soldering Iron
+    
+    $79.95](https://www.adafruit.com/product/6045)
+    
     ![Angled shot of green, credit-card-sized microcontroller in black rubber bumper case.](https://cdn-shop.adafruit.com/230x173/6056-06.jpg)[Protective Silicone Bumper for Raspberry Pi 5
     
     $3.00](https://www.adafruit.com/product/6056)
-    
-    ![Angled shot of rectangular breakout board with three 2-pin terminal blocks.](https://cdn-shop.adafruit.com/230x173/6062-00.jpg)[Adafruit INA3221 - Triple 0-26 VDC, ±3.2 Amp Power Monitor
-    
-    $10.95](https://www.adafruit.com/product/6062)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The most worth-while thing is to try to put happiness into the lives of others”
+“ This is not the age of pamphleteers. It is the age of engineers. The spark-gap is mightier than the pen”
 
-[Robert Baden-Powell](https://en.wikipedia.org/wiki/Robert_Baden-Powell,_1st_Baron_Baden-Powell)
+[Lancelot Hogben](http://en.wikipedia.org/wiki/Lancelot_Hogben)
 
 [](https://www.adafruit.com/about)
 
