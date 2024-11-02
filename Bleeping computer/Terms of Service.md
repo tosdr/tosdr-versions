@@ -36,18 +36,18 @@
         
         Microsoft delays Windows Recall again, now by December](https://www.bleepingcomputer.com/news/microsoft/microsoft-delays-windows-recall-again-now-by-december/)
     
+    * [![Microsoft SharePoint RCE bug exploited to breach corporate network](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft SharePoint RCE bug exploited to breach corporate network](https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-rce-bug-exploited-to-breach-corporate-network/)
+    * [![Microsoft shares workaround for Outlook freezes when copying text](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft shares workaround for Outlook freezes when copying text](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-outlook-freezes-when-copying-text/)
     * [![Prepare for your first cybersecurity job with this $46 course bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Prepare for your first cybersecurity job with this $46 course bundle](https://www.bleepingcomputer.com/offer/deals/prepare-for-your-first-cybersecurity-job-with-this-46-course-bundle/)
     * [![Microsoft warns Azure Virtual Desktop users of black screen issues](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft warns Azure Virtual Desktop users of black screen issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-azure-virtual-desktop-users-of-black-screen-issues/)
-    * [![LA housing authority confirms breach claimed by Cactus ransomware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        LA housing authority confirms breach claimed by Cactus ransomware](https://www.bleepingcomputer.com/news/security/la-housing-authority-confirms-breach-claimed-by-cactus-ransomware/)
-    * [![OpenAI's new ChatGPT Search Chrome extension feels like a search hijacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        OpenAI's new ChatGPT Search Chrome extension feels like a search hijacker](https://www.bleepingcomputer.com/news/security/openais-new-chatgpt-search-chrome-extension-feels-like-a-search-hijacker/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -355,12 +355,12 @@ Popular Stories
 * [![Android](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Android malware "FakeCall" now reroutes bank calls to attackers](https://www.bleepingcomputer.com/news/security/android-malware-fakecall-now-reroutes-bank-calls-to-attackers/)
+* [![ChatGPT](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    OpenAI's new ChatGPT Search Chrome extension feels like a search hijacker](https://www.bleepingcomputer.com/news/security/openais-new-chatgpt-search-chrome-extension-feels-like-a-search-hijacker/)
 * [![Cloud Hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Hackers steal 15,000 cloud credentials from exposed Git config files](https://www.bleepingcomputer.com/news/security/hackers-steal-15-000-cloud-credentials-from-exposed-git-config-files/)
-* [![Interbank](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Interbank confirms data breach following failed extortion, data leak](https://www.bleepingcomputer.com/news/security/interbank-confirms-data-breach-following-failed-extortion-data-leak/)
 
 ##### Follow us:
 
