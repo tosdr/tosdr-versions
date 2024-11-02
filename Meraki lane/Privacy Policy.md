@@ -41,17 +41,17 @@ Main Menu
     
     [Fashion](https://www.merakilane.com/category/fashion/)
     
+    [![How to Apply Cream Contour | 10 Tips and Tutorials | If you want a more lifted, sculpted appearance, learning how to contour your face will really elevate your makeup routine (and look)! Applying contour and highlight instantly enhances your face, giving the appearance of a mini face lift. Cream contour sticks, palettes, and bronzers are extremely blendable and easy to use, even for beginners. Click to learn how to contour your cheeks, forehead, nose, and jawline with cream makeup products.](https://www.merakilane.com/wp-content/uploads/2024/11/7-copy-6.png)](https://www.merakilane.com/how-to-apply-cream-contour-10-tips-and-tutorials/)
+    
+    ### [How to Apply Cream Contour: 10 Tips and Tutorials](https://www.merakilane.com/how-to-apply-cream-contour-10-tips-and-tutorials/)
+    
+    [![25 Low Maintenance Hairstyles for Curly Hair | Curly hair isn’t always the easiest to style, but when you have the right hair haircut hair products, and styling techniques, the options are endless. Whether you have a pixie haircut, bob, lob, medium length, or long curly hair that's thin, fine, or thick, this post is a great how-to guide for curly hair! Click to learn what hair cut is best for your face shape plus simple and easy curly hair updos for all hair lengths with step-by-step tutorials!](https://www.merakilane.com/wp-content/uploads/2024/10/3-4.png)](https://www.merakilane.com/25-low-maintenance-hairstyles-for-curly-hair/)
+    
+    ### [25 Low Maintenance Hairstyles for Curly Hair](https://www.merakilane.com/25-low-maintenance-hairstyles-for-curly-hair/)
+    
     [![Contour Placement 101 | 31 Things to Know | Face contouring can transform your entire look, lifting your cheekbones and sculpting your face, or in some cases, softening your most angular features. Cream contour sticks, contour wands, and creamy contour palettes work best, and we're sharing all the tips and hacks you need for round faces, oval faces, square faces, diamond faces, and heart-shaped faces in this post. Click to learn where to apply contour, highlight, and blush for your face shape!](https://www.merakilane.com/wp-content/uploads/2024/10/8-3.png)](https://www.merakilane.com/contour-placement-101-31-things-to-know/)
     
     ### [Contour Placement 101: 31 Things to Know](https://www.merakilane.com/contour-placement-101-31-things-to-know/)
-    
-    [![Skin Slugging for Beginners | 10 Tips and Products | If you're an avid scroller of BeautyTok and want to know the benefits of adding skin slugging to your skincare routine (and how to do it at home), this post is for you! Skin slugging is an overnight moisturizing technique that involves applying an occlusive ointment, usually petroleum (vaseline) to the skin to create a barrier to seal in moisture. It's especially helpful for dry skin and those who live in cold climates. Click for details!](https://www.merakilane.com/wp-content/uploads/2024/10/7-3.png)](https://www.merakilane.com/skin-slugging-for-beginners-10-tips-and-products/)
-    
-    ### [Skin Slugging for Beginners: 10 Tips and Products](https://www.merakilane.com/skin-slugging-for-beginners-10-tips-and-products/)
-    
-    [![12 Low Maintenance Hairstyles for Fine Hair | If you have straight, thin hair, your biggest struggle is adding volume to your strands. The best way to do this is to make sure you have the right haircut for fine hair (short bob, medium or shoulder length with face-framing layers, curtain bangs), use the right hair products and styling techniques (texturizing spray, velcro rollers), and choose the right hairstyles (claw clips, half up half down, messy buns). Click for our best fine hair hacks!](https://www.merakilane.com/wp-content/uploads/2024/10/3-3.png)](https://www.merakilane.com/12-low-maintenance-hairstyles-for-fine-hair/)
-    
-    ### [12 Low Maintenance Hairstyles for Fine Hair](https://www.merakilane.com/12-low-maintenance-hairstyles-for-fine-hair/)
     
 * [Wellness](https://www.merakilane.com/category/wellness/)
     
@@ -67,17 +67,17 @@ Main Menu
     
     [Natural Remedies](https://www.merakilane.com/category/natural-remedies/)
     
+    [![15 Chia Seed Water Recipes for Digestive Health | Chia seeds offer many health benefits -- they improve gut health and digestion, boost energy and aid in hydration, stabilize blood sugar, reduce inflammation, and more. Chia seeds are known for their high fiber content, making chia water a natural remedy for constipation or bloating. Chia seeds also help with weight management by making you feel full for longer. Click for our favorite chia water recipes to kickstart your morning routine!](https://www.merakilane.com/wp-content/uploads/2024/11/5.png)](https://www.merakilane.com/15-chia-seed-water-recipes-for-digestive-health/)
+    
+    ### [15 Chia Seed Water Recipes for Digestive Health](https://www.merakilane.com/15-chia-seed-water-recipes-for-digestive-health/)
+    
+    [![8 Pilates Arm Workouts for Women to Tone Your Arms | Pilates is a full body, low impact exercise that strengthens your muscles while improving alignment and flexibility. It also increases mobility and balance, decreases stress, and helps prevent injury. There’s a strong emphasis on core stability and strength, although it also targets muscles in the arms, back, and legs. Can't get to the studio? We're sharing quick mat pilates arm workouts you can do at home with and without weights!](https://www.merakilane.com/wp-content/uploads/2024/10/6-4.png)](https://www.merakilane.com/8-pilates-arm-workouts-to-tone-your-arms/)
+    
+    ### [8 Pilates Arm Workouts to Tone Your Arms](https://www.merakilane.com/8-pilates-arm-workouts-to-tone-your-arms/)
+    
     [![9 Daily Hygiene Routine Tips Every Girl Should Know | Even if you're not a girly girl, there are basic hygiene habits you need to include in your daily routine that go above and beyond warding off unpleasant body odour and feminine smells. Personal hygiene is an important part of a good self-care routine and should include your dental health, hands, armpits, hair, scalp, and feminine area (especially when you're on your period). Perfect for tweens, teen, and beyond, click for our best tips.](https://www.merakilane.com/wp-content/uploads/2024/10/5-3.png)](https://www.merakilane.com/9-daily-hygiene-routine-tips-every-girl-should-know/)
     
     ### [9 Daily Hygiene Routine Tips Every Girl Should Know](https://www.merakilane.com/9-daily-hygiene-routine-tips-every-girl-should-know/)
-    
-    [![26 Okra Water Recipes to Control Your Blood Sugar | Okra water is exactly what it sounds like — water infused with slices of fresh okra. It's a natural, plant-based beverage. Also known as lady fingers or gumbo, okra offers many health benefits, from controlling blood sugar levels, to improving digestive and heart health, to hydrating and detoxifying the body. Click to learn how to make homemade okra water, plus 26 unique flavor combinations to satisfy your taste buds.](https://www.merakilane.com/wp-content/uploads/2024/10/4-3.png)](https://www.merakilane.com/26-okra-water-recipes-to-control-your-blood-sugar/)
-    
-    ### [26 Okra Water Recipes to Control Your Blood Sugar](https://www.merakilane.com/26-okra-water-recipes-to-control-your-blood-sugar/)
-    
-    [![9 Stretches and Exercises to Improve Your Flexibility | If you feel stiff and inflexible, you’re not alone. Flexibility isn’t just necessary for dancers and gymnasts, it’s essential for everyday movement. Flexibility is also a key component to injury prevention. Not sure how to improve your flexibility? We've got you covered. We're sharing 5 stretches and 4 exercises you can easily add to your daily routine to improve mobility and prevent injury. Click for more!](https://www.merakilane.com/wp-content/uploads/2024/10/1-1.png)](https://www.merakilane.com/9-stretches-and-exercises-to-improve-your-flexibility/)
-    
-    ### [9 Stretches and Exercises to Improve Your Flexibility](https://www.merakilane.com/9-stretches-and-exercises-to-improve-your-flexibility/)
     
 * [Mental Health](https://www.merakilane.com/category/mental-health/)
     
