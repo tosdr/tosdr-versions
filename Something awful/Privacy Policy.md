@@ -205,28 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Mylar Cocoon Man!](https://www.somethingawful.com/photoshop-phriday/promotional-image-blanket/)
-* [That Insidious Beast: Screen Burn](https://www.somethingawful.com/news/insidious-screen-burn/1/)
-* [Love-Shy and My Tiny Dick](https://www.somethingawful.com/weekend-web/loveshy-tinydick/1/)
-* [Reasonable Ransom Note Demands!](https://www.somethingawful.com/photoshop-phriday/considerate-ransom-notes/)
+* [Kung Fu in our Daily Lives](https://www.somethingawful.com/comedy-goldmine/kung-fu-our/1/)
+* [Something Awful does Fark](https://www.somethingawful.com/comedy-goldmine/something-awful-does/1/)
+* [Dudes Who Need Ninjitsu Moves Done on Them](https://www.somethingawful.com/news/steve-returns-ninjitsu/1/)
+* [Turbo; The Conjuring; Red 2; Only God Forgives; The Frozen Ground](https://www.somethingawful.com/current-movie-reviews/turbo-conjuring/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/guns-review.gif) [What really grinds your gears?](http://forums.somethingawful.com/showthread.php?threadid=4074123 "What really grinds your gears?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [damn your election is on a tuesday](http://forums.somethingawful.com/showthread.php?threadid=4074166 "damn your election is on a tuesday")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Hot Yachts Miami](http://forums.somethingawful.com/showthread.php?threadid=4074141 "Hot Yachts Miami")
 * ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [Election Day Shennanigans - Plans, Food, Parties, etc.](http://forums.somethingawful.com/showthread.php?threadid=4074130 "Election Day Shennanigans - Plans, Food, Parties, etc.")
-* ![](https://fi.somethingawful.com/forums/posticons/pi-herps.gif) [How much do you write?](http://forums.somethingawful.com/showthread.php?threadid=4074098 "How much do you write?")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [Quack](http://forums.somethingawful.com/showthread.php?threadid=4074171 "Quack")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [The Official General Bullshit Maine Thread](http://forums.somethingawful.com/showthread.php?threadid=4074139 "The Official General Bullshit Maine Thread")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [damn your election is on a tuesday](http://forums.somethingawful.com/showthread.php?threadid=4074166 "damn your election is on a tuesday")
-* ![](https://fi.somethingawful.com/forums/posticons/guns-review.gif) [What really grinds your gears?](http://forums.somethingawful.com/showthread.php?threadid=4074123 "What really grinds your gears?")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [Quack](http://forums.somethingawful.com/showthread.php?threadid=4074171 "Quack")
 
 ### Random Articles
 
-* [Monster Gallery (Thanks, Confounded!)](https://www.somethingawful.com/awful-links/taxidermy-monster-gallery/)
-* [10 Additional Tiers from the Penny Arcade Kickstarter](https://www.somethingawful.com/news/penny-arcade-kickstarter/)
-* [The Church of What's Happenin' Now](https://www.somethingawful.com/daily-dirt/church-whats-happenin/)
-* [Dear Leader Perishes in Act of Heroism](https://www.somethingawful.com/news/kim-jong-gone/)
-* [SA Celebrity Stalker: Extreme Edition](https://www.somethingawful.com/news/celeb-stalker-extreme/)
+* [Barkwire.com Dog Reviews: Trotter](https://www.somethingawful.com/news/barkwire-trotter/1/)
+* [Ten Four, Good Buddy](https://www.somethingawful.com/news/trucker-radio-voice/)
+* [Get dow with your bad self.](https://www.somethingawful.com/news/get-dow-with/)
+* [Guardians of the Galaxy; Get On Up; A Most Wanted Man](https://www.somethingawful.com/current-movie-reviews/guardians-james-brown/)
+* [Our Country is Exploding With Flavor!](https://www.somethingawful.com/news/our-country-exploding/)
 
 [Random!](https://www.somethingawful.com/random/)
 
