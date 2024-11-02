@@ -253,23 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[North Korea says will stand by Russia until 'victory' in Ukraine](https://www.japantimes.co.jp/news/2024/11/01/asia-pacific/north-korea-stand-by-russia/ "North Korea says will stand by Russia until 'victory' in Ukraine")
+[U.S. spy agencies issue new warning on Russia’s election misinformation campaign](https://www.japantimes.co.jp/news/2024/11/02/world/politics/us-intelligence-russia-election-interference/ "U.S. spy agencies issue new warning on Russia’s election misinformation campaign")
 
-10 hours ago
+56 mins ago
 
-[Russia speeds up advance in Ukraine as mood darkens in Kyiv](https://www.japantimes.co.jp/news/2024/11/01/world/russia-advancing-ukraine/ "Russia speeds up advance in Ukraine as mood darkens in Kyiv")
+[China researchers develop AI model for military use on back of Meta's Llama](https://www.japantimes.co.jp/news/2024/11/02/asia-pacific/china-ai-military-model/ "China researchers develop AI model for military use on back of Meta's Llama")
 
-10 hours ago
+1 hours ago
 
-[Japan cuts growth forecast again for current fiscal year on weak exports](https://www.japantimes.co.jp/business/2024/11/01/economy/cabinet-office-growth-forecast-cut/ "Japan cuts growth forecast again for current fiscal year on weak exports")
+[In Ukraine, hopes of war breakthrough slim whoever wins U.S. election](https://www.japantimes.co.jp/news/2024/11/02/world/politics/ukraine-us-presidential-election/ "In Ukraine, hopes of war breakthrough slim whoever wins U.S. election")
 
-10 hours ago
+1 hours ago
 
-[Japan’s potential kingmaker says BOJ shouldn’t hike before March](https://www.japantimes.co.jp/business/2024/11/01/tamaki-boj-rates/ "Japan’s potential kingmaker says BOJ shouldn’t hike before March")
+[Ishiba to meet with U.S. and Chinese leaders during multilateral summits](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
 
-11 hours ago
+1 hours ago
 
-[Japan, EU launch defense and security tie-up amid mutual China concerns](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/eu-japan-defense-security-partnership/ "Japan, EU launch defense and security tie-up amid mutual China concerns")
+[U.S. expands oversight on property deals near military sites](https://www.japantimes.co.jp/news/2024/11/02/world/us-property-oversight-military-bases/ "U.S. expands oversight on property deals near military sites")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
