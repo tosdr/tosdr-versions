@@ -150,10 +150,11 @@ Latest reactions
 
 Latest forum posts
 
-* [New MSX2 owner, intro, and some questions](https://www.msx.org/forum/msx-talk/general-discussion/new-msx2-owner-intro-and-some-questions?page=1 "New MSX2 owner, intro, and some questions")
 * [Hydlide 3 tips?](https://www.msx.org/forum/msx-talk/software/hydlide-3-tips "Hydlide 3 tips?")
-* [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=62 "List of undumped MSX software (PLEASE HELP!)")
 * [OpenMSX for Trimui Smart Pro Handheld](https://www.msx.org/forum/msx-talk/emulation/openmsx-for-trimui-smart-pro-handheld "OpenMSX for Trimui Smart Pro Handheld")
+* [Sony HB-F1XD MSX2 Disk Help](https://www.msx.org/forum/msx-talk/general-discussion/sony-hb-f1xd-msx2-disk-help "Sony HB-F1XD MSX2 Disk Help")
+* [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=62 "List of undumped MSX software (PLEASE HELP!)")
+* [New MSX2 owner, intro, and some questions](https://www.msx.org/forum/msx-talk/general-discussion/new-msx2-owner-intro-and-some-questions?page=1 "New MSX2 owner, intro, and some questions")
 * [Programming book recommendations](https://www.msx.org/forum/msx-talk/development/programming-book-recommendations "Programming book recommendations")
 * [MSX Goa'uld. Turn an MSX into a MSX 2+?](https://www.msx.org/forum/msx-talk/hardware/msx-goauld-turn-an-msx-into-a-msx-2?page=3 "MSX Goa'uld. Turn an MSX into a MSX 2+?")
 * [TRH9000 - The Yamaha V9990 based open-source video card for the MSX](https://www.msx.org/forum/msx-talk/hardware/trh9000-the-yamaha-v9990-based-open-source-video-card-for-the-msx?page=23 "TRH9000 - The Yamaha V9990 based open-source video card for the MSX")
@@ -162,7 +163,6 @@ Latest forum posts
 * [What is the point of bits \[3:0\] in the R15 of the PSG](https://www.msx.org/forum/msx-talk/hardware/what-is-the-point-of-bits-30-in-the-r14-of-the-psg?page=1 "What is the point of bits [3:0] in the R15 of the PSG")
 * [superimpose difference between victor MSX1 and MSX2?](https://www.msx.org/forum/msx-talk/graphics-and-music/superimpose-difference-between-victor-msx1-and-msx2 "superimpose difference between victor MSX1 and MSX2?")
 * [What is the best architecture for a MSX 1 disk game? BIN files or a MSX-DOS program?](https://www.msx.org/forum/msx-talk/development/what-is-the-best-architecture-for-a-msx-1-disk-game-bin-files-or-a-msx-do "What is the best architecture for a MSX 1 disk game? BIN files or a MSX-DOS program?")
-* [SymbOS MSX multitasking operating system - help needed!](https://www.msx.org/forum/development/msx-development/symbos-msx-multitasking-operating-system-help-needed?page=401 "SymbOS MSX multitasking operating system - help needed!")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
