@@ -1,5 +1,7 @@
 error: no ad slot id exists: undefined
 
+[Breaking: Early voting in Georgia ends with nearly 4 million ballots cast](https://www.ajc.com/politics/turnout-tops-38-million-as-early-voting-wraps-up-in-georgia-live-coverage/VDYLODTHGFCOVPAQIW5R64Z7SA/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1792)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1792)](https://www.ajc.com/)
 
 Log In
