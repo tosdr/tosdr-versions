@@ -44,7 +44,7 @@ Apart from the above consents, you may not otherwise download or copy, store in 
 
 Whizz is registered with the UK Information Commissioner’s Office in the UK. Our registration number is Z8747153 and we have been registered since 10 September 2004. Details of our registration can be found at www.ico.org.uk.
 
-Our Data Protection Policy in compliance with the UK General Data Protection Regulation (“UK GDPR) and the EU Regulation 2016/679 General Data Protection Regulation (“EU GDPR”) can be found [here](https://www.whizz.com/wp-content/uploads/2022/12/Data-Protection-Policy-1-2-22.pdf). Privacy Statements explain individually to students’, teachers’ and home subscribers how their personal data will be treated as they make use of this site, and they can be found [here](https://www.whizz.com/privacy-policy/). Changes to the Data Protection Policy and to Privacy Statements will be posted on this site from time to time.
+Our Data Protection Policy in compliance with the UK General Data Protection Regulation (“UK GDPR) and the EU Regulation 2016/679 General Data Protection Regulation (“EU GDPR”) can be found [here](https://www.whizz.com/wp-content/uploads/2022/12/Data-Protection-Policy-1-2-22.pdf.pagespeed.ce.CNINP7Muqi.pdf). Privacy Statements explain individually to students’, teachers’ and home subscribers how their personal data will be treated as they make use of this site, and they can be found [here](https://www.whizz.com/privacy-policy/). Changes to the Data Protection Policy and to Privacy Statements will be posted on this site from time to time.
 
 ### Anti-Bribery Policy
 
