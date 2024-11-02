@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-e7fd25391c2cba45bb0b6df122da8d14
+d832cf16f6c3d95f633ffcdcbb9137c9
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![20 mm by 15 mm flat oval forest agate beads](https://www.sojourner.biz/images/cache/stone/STN002.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/20-mm-by-15-mm-flat-oval-forest-agate-beads.html "20 mm by 15 mm flat oval forest agate beads")
+[![16 mm by 11 mm vintage Czech glass blue oval beads](https://www.sojourner.biz/images/cache/glass/GL0178.200.jpg)](https://www.sojourner.biz/beads/glass/16-mm-by-11-mm-vintage-czech-glass-blue-oval-beads.html "16 mm by 11 mm vintage Czech glass blue oval beads")
 
-#### [20 mm by 15 mm flat oval forest agate beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/20-mm-by-15-mm-flat-oval-forest-agate-beads.html "20 mm by 15 mm flat oval forest agate beads")
+#### [16 mm by 11 mm vintage Czech glass blue oval beads](https://www.sojourner.biz/beads/glass/16-mm-by-11-mm-vintage-czech-glass-blue-oval-beads.html "16 mm by 11 mm vintage Czech glass blue oval beads")
 
-$15.00
+$9.00
 
 ### Best Sellers
 
