@@ -117,57 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=c47772b3d00949a83138ee798b3bcce2104f0c04ffb2ca3c9aedc54e7f440b4f&c=107397403)  
-Highlands Auto Engineering
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=129147087)  
+Safe Train Mokgethwa (PTY) Ltd
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=c47772b3d00949a83138ee798b3bcce2104f0c04ffb2ca3c9aedc54e7f440b4f&c=4860124)  
-LEONARD
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=2824897)  
+Lion Software Develepment
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=c47772b3d00949a83138ee798b3bcce2104f0c04ffb2ca3c9aedc54e7f440b4f&c=18422347)  
-Oak Tree Immigration
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=187156619)  
+IEMS (PTY) ltd
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=c47772b3d00949a83138ee798b3bcce2104f0c04ffb2ca3c9aedc54e7f440b4f&c=48177731)  
-Import Maaw
-
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=c47772b3d00949a83138ee798b3bcce2104f0c04ffb2ca3c9aedc54e7f440b4f&c=151375620)  
-Echo Recording Studio cc
-
-![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=c47772b3d00949a83138ee798b3bcce2104f0c04ffb2ca3c9aedc54e7f440b4f&c=39286586)  
-Super Sound Man (PTY) Ltd
-
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=c47772b3d00949a83138ee798b3bcce2104f0c04ffb2ca3c9aedc54e7f440b4f&c=76109093)  
-TurboFibre
-
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=c47772b3d00949a83138ee798b3bcce2104f0c04ffb2ca3c9aedc54e7f440b4f&c=3058571)  
-MONSTER SECURITY GUARDING
-
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=c47772b3d00949a83138ee798b3bcce2104f0c04ffb2ca3c9aedc54e7f440b4f&c=59185433)  
-Wiselink Broadband Dundee
-
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=c47772b3d00949a83138ee798b3bcce2104f0c04ffb2ca3c9aedc54e7f440b4f&c=20566886)  
-LEO DEVELOPMENT GROUP
-
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=c47772b3d00949a83138ee798b3bcce2104f0c04ffb2ca3c9aedc54e7f440b4f&c=14105445)  
-Durbanville Classifieds (Pty) Ltd
-
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=c47772b3d00949a83138ee798b3bcce2104f0c04ffb2ca3c9aedc54e7f440b4f&c=90559251)  
-Sarabi
-
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=c47772b3d00949a83138ee798b3bcce2104f0c04ffb2ca3c9aedc54e7f440b4f&c=51573241)  
-UMVIKELI PRIVATE SECURITY
-
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=c47772b3d00949a83138ee798b3bcce2104f0c04ffb2ca3c9aedc54e7f440b4f&c=3034204)  
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=3797423)  
 SMART GUY PCS (PTY) LTD
 
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=c47772b3d00949a83138ee798b3bcce2104f0c04ffb2ca3c9aedc54e7f440b4f&c=13800424)  
-High Point Marketing CC t/a Leads For Africa
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=25699680)  
+MONSTER SECURITY SERVICES
+
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=116512175)  
+Kaylas Creations
+
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=103627676)  
+kidoscabbie
+
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=122433840)  
+Nogana Events and Decor
+
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=78267972)  
+UMVIKELI PRIVATE SECURITY
+
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=64722183)  
+Little Nutty Professors
+
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=38533163)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=131663123)  
+Imvubu General Trading
+
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=110652754)  
+Forgotten Goods (Pty) Ltd
+
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=59218228)  
+SA Security Brokerz (Pty) Ltd
+
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=5a2ff99a1d9603b5d103bc04fa5bf8b1ee0625eb02c2b2cbeb80a49b728f4294&c=83232853)  
+Norton Medical & Consult - Namibia
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
