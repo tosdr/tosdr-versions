@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs IND - Stumps](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-tour-of-india-2024 "New Zealand v India, 3rd Test - Stumps")[BRHW vs HBHW - Live](https://www.cricbuzz.com/live-cricket-scores/101302/brhw-vs-hbhw-10th-match-womens-big-bash-league-2024 "Brisbane Heat Women v Hobart Hurricanes Women, 10th Match - Live")[MLRW vs PRSW - Preview](https://www.cricbuzz.com/live-cricket-scores/101311/mlrw-vs-prsw-11th-match-womens-big-bash-league-2024 "Melbourne Renegades Women v Perth Scorchers Women, 11th Match - Preview")[WI vs ENG - Preview](https://www.cricbuzz.com/live-cricket-scores/95151/wi-vs-eng-2nd-odi-england-tour-of-west-indies-2024 "West Indies v England, 2nd ODI - Preview")[USA vs NEP - Preview](https://www.cricbuzz.com/live-cricket-scores/107044/usa-vs-nep-42nd-match-icc-cricket-world-cup-league-two-2023-27 "United States of America v Nepal, 42nd Match - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs IND - Live](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-tour-of-india-2024 "New Zealand v India, 3rd Test - Live")[INDA vs AUSA - Live](https://www.cricbuzz.com/live-cricket-scores/96530/inda-vs-ausa-1st-unofficial-test-india-a-tour-of-australia-2024 "India A v Australia A, 1st unofficial Test - Live")[PRSW vs MLRW - Complete](https://www.cricbuzz.com/live-cricket-scores/101311/prsw-vs-mlrw-11th-match-womens-big-bash-league-2024 "Perth Scorchers Women v Melbourne Renegades Women, 11th Match - Complete")[BRHW vs HBHW - HBHW Won](https://www.cricbuzz.com/live-cricket-scores/101302/brhw-vs-hbhw-10th-match-womens-big-bash-league-2024 "Brisbane Heat Women v Hobart Hurricanes Women, 10th Match - HBHW Won")[WI vs ENG - Preview](https://www.cricbuzz.com/live-cricket-scores/95151/wi-vs-eng-2nd-odi-england-tour-of-west-indies-2024 "West Indies v England, 2nd ODI - Preview")
 
 AllLive NowToday
 
@@ -56,7 +56,7 @@ AllLive NowToday
     
     New Zealand v India 2024
     
-    [New Zealand vs India](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-v-india-2024 "New Zealand v India, 3rd Test - Stumps")
+    [New Zealand vs India  LIVE](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-v-india-2024 "New Zealand v India, 3rd Test - Live")
     
     3rd Test
     
@@ -75,6 +75,12 @@ AllLive NowToday
 * [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/95151/wi-vs-eng-2nd-odi-west-indies-v-england-2024 "West Indies v England, 2nd ODI - Preview")
     
     2nd ODI
+    
+* Australia v Pakistan
+    
+    [Australia vs Pakistan](https://www.cricbuzz.com/live-cricket-scores/92012/aus-vs-pak-1st-odi-australia-v-pakistan "Australia v Pakistan, 1st ODI - Upcoming")
+    
+    1st ODI
     
 * ICC CWC League Two 2023-27
     
@@ -112,15 +118,15 @@ AllLive NowToday
     
 * Sheffield Shield 2024-25
     
-    [New South Wales vs Queensland  LIVE](https://www.cricbuzz.com/live-cricket-scores/102880/nsw-vs-ql-7th-match-sheffield-shield-2024-25 "New South Wales v Queensland, 7th Match - Live")
-    
-    7th Match
-    
-* [Tasmania vs Western Australia  LIVE](https://www.cricbuzz.com/live-cricket-scores/102882/tas-vs-wa-8th-match-sheffield-shield-2024-25 "Tasmania v Western Australia, 8th Match - Live")
+    [Tasmania vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/102882/tas-vs-wa-8th-match-sheffield-shield-2024-25 "Tasmania v Western Australia, 8th Match - Stumps")
     
     8th Match
     
-* [South Australia vs Victoria  LIVE](https://www.cricbuzz.com/live-cricket-scores/102889/saus-vs-vic-9th-match-sheffield-shield-2024-25 "South Australia v Victoria, 9th Match - Live")
+* [New South Wales vs Queensland](https://www.cricbuzz.com/live-cricket-scores/102880/nsw-vs-ql-7th-match-sheffield-shield-2024-25 "New South Wales v Queensland, 7th Match - Stumps")
+    
+    7th Match
+    
+* [South Australia vs Victoria](https://www.cricbuzz.com/live-cricket-scores/102889/saus-vs-vic-9th-match-sheffield-shield-2024-25 "South Australia v Victoria, 9th Match - Stumps")
     
     9th Match
     
@@ -146,13 +152,13 @@ AllLive NowToday
     
 * CSA Four-Day Series Division Two 2024-25
     
-    [Limpopo vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/104322/limpo-vs-estorm-2nd-match-csa-four-day-series-division-two-2024-25 "Limpopo v Eastern Storm, 2nd Match - Stumps")
-    
-    2nd Match
-    
-* [South Western Districts vs Border](https://www.cricbuzz.com/live-cricket-scores/104314/swd-vs-bor-1st-match-csa-four-day-series-division-two-2024-25 "South Western Districts v Border, 1st Match - Stumps")
+    [South Western Districts vs Border](https://www.cricbuzz.com/live-cricket-scores/104314/swd-vs-bor-1st-match-csa-four-day-series-division-two-2024-25 "South Western Districts v Border, 1st Match - Stumps")
     
     1st Match
+    
+* [Limpopo vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/104322/limpo-vs-estorm-2nd-match-csa-four-day-series-division-two-2024-25 "Limpopo v Eastern Storm, 2nd Match - Stumps")
+    
+    2nd Match
     
 * WOMEN
     
@@ -170,19 +176,19 @@ AllLive NowToday
     
     9th Match
     
-* [Brisbane Heat Women vs Hobart Hurricanes Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/101302/brhw-vs-hbhw-10th-match-wbbl-2024 "Brisbane Heat Women v Hobart Hurricanes Women, 10th Match - Live")
+* [Brisbane Heat Women vs Hobart Hurricanes Women](https://www.cricbuzz.com/live-cricket-scores/101302/brhw-vs-hbhw-10th-match-wbbl-2024 "Brisbane Heat Women v Hobart Hurricanes Women, 10th Match - HBHW Won")
     
     10th Match
     
-* [Melbourne Renegades Women vs Perth Scorchers Women](https://www.cricbuzz.com/live-cricket-scores/101311/mlrw-vs-prsw-11th-match-wbbl-2024 "Melbourne Renegades Women v Perth Scorchers Women, 11th Match - Preview")
+* [Perth Scorchers Women vs Melbourne Renegades Women](https://www.cricbuzz.com/live-cricket-scores/101311/prsw-vs-mlrw-11th-match-wbbl-2024 "Perth Scorchers Women v Melbourne Renegades Women, 11th Match - Complete")
     
     11th Match
     
-* [Melbourne Stars Women vs Hobart Hurricanes Women](https://www.cricbuzz.com/live-cricket-scores/101314/mlsw-vs-hbhw-12th-match-wbbl-2024 "Melbourne Stars Women v Hobart Hurricanes Women, 12th Match - Upcoming")
+* [Melbourne Stars Women vs Hobart Hurricanes Women](https://www.cricbuzz.com/live-cricket-scores/101314/mlsw-vs-hbhw-12th-match-wbbl-2024 "Melbourne Stars Women v Hobart Hurricanes Women, 12th Match - Preview")
     
     12th Match
     
-* [Melbourne Renegades Women vs Adelaide Strikers Women](https://www.cricbuzz.com/live-cricket-scores/101318/mlrw-vs-adsw-13th-match-wbbl-2024 "Melbourne Renegades Women v Adelaide Strikers Women, 13th Match - Upcoming")
+* [Melbourne Renegades Women vs Adelaide Strikers Women](https://www.cricbuzz.com/live-cricket-scores/101318/mlrw-vs-adsw-13th-match-wbbl-2024 "Melbourne Renegades Women v Adelaide Strikers Women, 13th Match - Preview")
     
     13th Match
     
@@ -507,41 +513,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132307/gill-pant-fifties-lead-indias-recovery "Gill, Pant fifties lead India's recovery")
+
+[Gill, Pant fifties lead India's recovery](https://www.cricbuzz.com/cricket-news/132307/gill-pant-fifties-lead-indias-recovery "Gill, Pant fifties lead India's recovery")
+
+1h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132306/wyatt-hodge-masterclass-eclipses-harris-blitz-as-hurricanes-down-heat-in-tall-chase "Wyatt-Hodge masterclass eclipses Harris' blitz as Hurricanes down Heat in tall chase")
+
+[Wyatt-Hodge masterclass eclipses Harris' blitz as Hurricanes down Heat in tall chase](https://www.cricbuzz.com/cricket-news/132306/wyatt-hodge-masterclass-eclipses-harris-blitz-as-hurricanes-down-heat-in-tall-chase "Wyatt-Hodge masterclass eclipses Harris' blitz as Hurricanes down Heat in tall chase")
+
+2h ago
+
   [](https://www.cricbuzz.com/cricket-news/132305/november-2024-news-digest "November 2024 - News Digest")
 
 [November 2024 - News Digest](https://www.cricbuzz.com/cricket-news/132305/november-2024-news-digest "November 2024 - News Digest")
 
-11m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132304/mohali-to-chattogram-rabadas-south-africa-rollercoaster "Mohali to Chattogram - Rabada's South Africa rollercoaster")
 
 [Mohali to Chattogram - Rabada's South Africa rollercoaster](https://www.cricbuzz.com/cricket-news/132304/mohali-to-chattogram-rabadas-south-africa-rollercoaster "Mohali to Chattogram - Rabada's South Africa rollercoaster")
 
-9h ago
+15h ago
 
   [](https://www.cricbuzz.com/cricket-news/132303/najmul-hossain-to-lead-bangladesh-against-afghanistan-in-three-odis "Najmul Hossain to lead Bangladesh against Afghanistan in three-ODIs")
 
 [Najmul Hossain to lead Bangladesh against Afghanistan in three-ODIs](https://www.cricbuzz.com/cricket-news/132303/najmul-hossain-to-lead-bangladesh-against-afghanistan-in-three-odis "Najmul Hossain to lead Bangladesh against Afghanistan in three-ODIs")
 
-9h ago
+15h ago
 
   [](https://www.cricbuzz.com/cricket-news/132302/india-fumble-early-shot-at-redemption-in-mumbai "India fumble early shot at redemption in Mumbai")
 
 [India fumble early shot at redemption in Mumbai](https://www.cricbuzz.com/cricket-news/132302/india-fumble-early-shot-at-redemption-in-mumbai "India fumble early shot at redemption in Mumbai")
 
-11h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132301/battered-england-seek-quick-turnaround "Battered England seek quick turnaround")
-
-[Battered England seek quick turnaround](https://www.cricbuzz.com/cricket-news/132301/battered-england-seek-quick-turnaround "Battered England seek quick turnaround")
-
-11h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132300/georgia-volls-92-headlines-thunders-sizzling-win "Georgia Voll's 92 headlines Thunder's sizzling win")
-
-[Georgia Voll's 92 headlines Thunder's sizzling win](https://www.cricbuzz.com/cricket-news/132300/georgia-volls-92-headlines-thunders-sizzling-win "Georgia Voll's 92 headlines Thunder's sizzling win")
-
-13h ago
+17h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
