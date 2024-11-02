@@ -77,6 +77,20 @@ Europe
 
 [English](https://www.max.com/privacy/children/en-apac "Asia - English Privacy Policy")
 
+[繁體中文 (香港)](https://www.max.com/privacy/children/zh-hk-apac)
+
+[繁體中文 (臺灣)](https://www.max.com/privacy/children/zh-tw-apac)
+
+[ภาษาไทย](https://www.max.com/privacy/children/th-apac)
+
+[Filipino](https://www.max.com/privacy/children/tl-apac)
+
+[Bahasa Melayu](https://www.max.com/privacy/children/ms-apac)
+
+[Bahasa Indonesia](https://www.max.com/privacy/children/id-apac)
+
+[简体中文](https://www.max.com/privacy/children/zh-apac)
+
 [Privacy Policy](https://www.max.com/privacy)[Children's Privacy Policy](https://www.max.com/privacy/children)[Terms of Use](https://www.max.com/terms-of-use)
 
 [Do Not Sell My Personal Information](#compliance-link)
