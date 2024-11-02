@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/visit-and-learn/visit/planning-your-visit/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/footer/copyright/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/visit-and-learn/visit/planning-your-visit/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/footer/copyright/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
