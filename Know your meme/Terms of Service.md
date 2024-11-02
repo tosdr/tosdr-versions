@@ -122,7 +122,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Maia Poet 'Lazy Eye' Controversy](https://knowyourmeme.com/memes/events/maia-poet-left-and-joined-team-maga-lazy-eye-controversy "Maia Poet 'Lazy Eye' Controversy") [Nintendo Music App](https://knowyourmeme.com/memes/subcultures/nintendo-music-app "Nintendo Music App") [MrBeast Crypto Scam Allegations](https://knowyourmeme.com/memes/events/mrbeast-crypto-scam-allegations "MrBeast Crypto Scam Allegations") [Kei Trucks](https://knowyourmeme.com/memes/subcultures/kei-trucks "Kei Trucks") [Dragon Age Veilguard Reviews Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-reviews-controversy "Dragon Age Veilguard Reviews Controversy") [Joe Biden Biting Baby](https://knowyourmeme.com/memes/joe-biden-biting-baby "Joe Biden Biting Baby")
+[Dragon Age Veilguard Reviews Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-reviews-controversy "Dragon Age Veilguard Reviews Controversy") [MrBeast Crypto Scam Allegations](https://knowyourmeme.com/memes/events/mrbeast-crypto-scam-allegations "MrBeast Crypto Scam Allegations") [Maia Poet 'Lazy Eye' Controversy](https://knowyourmeme.com/memes/events/maia-poet-left-and-joined-team-maga-lazy-eye-controversy "Maia Poet 'Lazy Eye' Controversy") [Russian Court $20 Decillion Google Fine](https://knowyourmeme.com/memes/events/russian-court-20000000000000000000000000000000000-fine-against-google "Russian Court $20 Decillion Google Fine") [Johnny Somali's South Korea Hunt Down Controversy](https://knowyourmeme.com/memes/events/johnny-somalis-south-korea-hunt-down-controversy "Johnny Somali's South Korea Hunt Down Controversy") [Joe Biden Biting Baby](https://knowyourmeme.com/memes/joe-biden-biting-baby "Joe Biden Biting Baby") [Kei Trucks](https://knowyourmeme.com/memes/subcultures/kei-trucks "Kei Trucks")
 
 Terms of Service and Use
 ========================
@@ -263,7 +263,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### 'lo! You must login or signup first!
+### O HAI! You must login or signup first!
 
 |     |     |
 | --- | --- |
