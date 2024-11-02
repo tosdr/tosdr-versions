@@ -205,27 +205,28 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Teen Movies](https://www.somethingawful.com/photoshop-phriday/teen-movies/1/)
-* [Beyond The Mat!](https://www.somethingawful.com/photoshop-phriday/wrestlers-natural-environment/1/)
-* [Yahoo Answers Part I](https://www.somethingawful.com/weekend-web/yahoo-answers-part1/1/)
-* [I was an Everquest attention whore](https://www.somethingawful.com/news/was-an-everquest/)
-* [John Cena's Face Superimposed on Cats](https://www.somethingawful.com/photoshop-phriday/feline-cena-animorphs/)
+* [Chapter Six](https://www.somethingawful.com/feature-articles/chapter-six/1/)
+* [04-02-2007](https://www.somethingawful.com/forum-fridays/ff04-02-2007/1/)
+* [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
+* [Cute Animals Fighting!](https://www.somethingawful.com/photoshop-phriday/cute-animals-fighting/1/)
+* [September 10, 2007](https://www.somethingawful.com/forum-fridays/ff09-10-07/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [another obligatory photoshop thread to shit on trump](http://forums.somethingawful.com/showthread.php?threadid=4074043 "another obligatory photoshop thread to shit on trump")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [The Official General Bullshit Maine Thread](http://forums.somethingawful.com/showthread.php?threadid=4074139 "The Official General Bullshit Maine Thread")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Hot Yachts Miami](http://forums.somethingawful.com/showthread.php?threadid=4074141 "Hot Yachts Miami")
 * ![](https://fi.somethingawful.com/forums/posticons/hell-suck.gif) [Relationship deal breakers](http://forums.somethingawful.com/showthread.php?threadid=4074071 "Relationship deal breakers")
 * ![](https://fi.somethingawful.com/forums/posticons/guns-review.gif) [What really grinds your gears?](http://forums.somethingawful.com/showthread.php?threadid=4074123 "What really grinds your gears?")
-* ![](https://fi.somethingawful.com/forums/posticons/lf-mccain.gif) [Whats the most psychotic boomer meltdown youve ever witnessed?](http://forums.somethingawful.com/showthread.php?threadid=4074046 "Whats the most psychotic boomer meltdown youve ever witnessed?")
 * ![](https://fi.somethingawful.com/forums/posticons/pi-herps.gif) [How much do you write?](http://forums.somethingawful.com/showthread.php?threadid=4074098 "How much do you write?")
+* ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [Election Day Shennanigans - Plans, Food, Parties, etc.](http://forums.somethingawful.com/showthread.php?threadid=4074130 "Election Day Shennanigans - Plans, Food, Parties, etc.")
 
 ### Random Articles
 
-* [P-Town Juggalos](https://www.somethingawful.com/awful-links/awful-link-1113/)
-* [Things You Should Already Know By Now: Opening a Checking Account](https://www.somethingawful.com/guides/checking-account/1/)
-* [Nokia's Cell Phone Avatars](https://www.somethingawful.com/awful-links/awful-link-2742/)
-* [Don Draper pitches the sexy diarrhea woman to Viberzi](https://www.somethingawful.com/news/viberzi-mad-men/)
-* [The Evolution of the Average Man](https://www.somethingawful.com/feature-articles/evolution-average-man/1/)
+* [Flat Earth Society](https://www.somethingawful.com/weekend-web/flat-earth-society/1/)
+* [Attack, Destroy, Kill! Please.](https://www.somethingawful.com/news/attack-destroy-kill/)
+* [Thank Jesus for Easy Politics](https://www.somethingawful.com/news/thank-jesus-for/)
+* [It's Time For Some Culture On Here](https://www.somethingawful.com/news/its-time-for/)
+* [Greasnin Goes to California, Pt. 3](https://www.somethingawful.com/news/greasnin-goes-california-3/)
 
 [Random!](https://www.somethingawful.com/random/)
 
