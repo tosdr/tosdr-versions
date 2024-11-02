@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [What We Know About Iran’s Nuclear Weapons Program](https://www.theepochtimes.com/world/what-we-know-about-irans-nuclear-weapons-program-5742231)
+* [Biden Speaks to Unions in Battleground Pennsylvania Days Before Election](https://www.theepochtimes.com/us/biden-speaks-to-unions-in-battleground-pennsylvania-days-before-election-5752534)
     
-    NEW By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    NEW By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
     
-    [![What We Know About Iran’s Nuclear Weapons Program](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Biden Speaks to Unions in Battleground Pennsylvania Days Before Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![What We Know About Iran’s Nuclear Weapons Program](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5740028-nuclear-facility-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/what-we-know-about-irans-nuclear-weapons-program-5742231)
-* [Rick Scott Looks to Fend Off Democrat Challenger for Florida’s Senate Seat](https://www.theepochtimes.com/us/rick-scott-looks-to-fend-off-democrat-challenger-for-floridas-senate-seat-5751103)
+    ![Biden Speaks to Unions in Battleground Pennsylvania Days Before Election](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752583-Biden-Union-Featured-Image-e1730522777927-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-speaks-to-unions-in-battleground-pennsylvania-days-before-election-5752534)
+* [Ex-Louisville Officer Convicted of Civil Rights Abuse in Breonna Taylor Case](https://www.theepochtimes.com/us/ex-louisville-officer-convicted-of-civil-rights-abuse-in-breonna-taylor-case-5752627)
     
-    NEW By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    NEW By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
     
-    [![Rick Scott Looks to Fend Off Democrat Challenger for Florida’s Senate Seat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Ex-Louisville Officer Convicted of Civil Rights Abuse in Breonna Taylor Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Rick Scott Looks to Fend Off Democrat Challenger for Florida’s Senate Seat](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719576-Rick-Scott_JF_09042024-205x123.jpg.webp)](https://www.theepochtimes.com/us/rick-scott-looks-to-fend-off-democrat-challenger-for-floridas-senate-seat-5751103)
-* [DOJ to Post Officials in 27 States to Monitor Voting Rights Compliance on Election Day](https://www.theepochtimes.com/us/doj-to-post-officials-in-27-states-to-monitor-voting-rights-compliance-on-election-day-5752495)
+    ![Ex-Louisville Officer Convicted of Civil Rights Abuse in Breonna Taylor Case](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752710-Brett-Hankison-AP24289558812402-205x123.jpg)](https://www.theepochtimes.com/us/ex-louisville-officer-convicted-of-civil-rights-abuse-in-breonna-taylor-case-5752627)
+* [See the Human Brain Like Never Before](https://www.theepochtimes.com/article/see-the-human-brain-like-never-before-5746540)
     
-    6hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    NEW By [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert)
     
-    [![DOJ to Post Officials in 27 States to Monitor Voting Rights Compliance on Election Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![See the Human Brain Like Never Before](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![DOJ to Post Officials in 27 States to Monitor Voting Rights Compliance on Election Day](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752582-usa-election-GettyImages-2181096933-205x123.jpg.webp)](https://www.theepochtimes.com/us/doj-to-post-officials-in-27-states-to-monitor-voting-rights-compliance-on-election-day-5752495)
-* [US Manufacturing Slump Deepens as More Jobs Cut, New Orders Drop](https://www.theepochtimes.com/business/us-manufacturing-slump-deepens-as-more-jobs-cut-new-orders-drop-5752244)
+    ![See the Human Brain Like Never Before](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750794-image1-205x123.png.webp)](https://www.theepochtimes.com/article/see-the-human-brain-like-never-before-5746540)
+* [Trump, Harris Campaign in Battleground States in the Final Weekend Before Election](https://www.theepochtimes.com/us/trump-harris-campaign-in-battleground-states-in-the-final-weekend-before-election-5752638)
     
-    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    2hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![US Manufacturing Slump Deepens as More Jobs Cut, New Orders Drop](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump, Harris Campaign in Battleground States in the Final Weekend Before Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Manufacturing Slump Deepens as More Jobs Cut, New Orders Drop](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722409-GettyImages-1151712640-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/us-manufacturing-slump-deepens-as-more-jobs-cut-new-orders-drop-5752244)
-* [Secret Service Releases Internal Review Into July 13 Attempted Assassination of Trump](https://www.theepochtimes.com/us/secret-service-releases-internal-review-into-july-13-attempted-assassination-of-trump-5752408)
+    ![Trump, Harris Campaign in Battleground States in the Final Weekend Before Election](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747997-Kamala-Harris-Donald-Trump-3-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-harris-campaign-in-battleground-states-in-the-final-weekend-before-election-5752638)
+* [GOP’s Early Voting Lead, Registration Gains Boost 2024 Odds in Swing State Nevada](https://www.theepochtimes.com/us/gops-early-voting-lead-registration-gains-boost-2024-odds-in-swing-state-nevada-5752613)
     
-    8hr By [Rachel Acenas](https://www.theepochtimes.com/author/rachel-acenas)
+    2hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
     
-    [![Secret Service Releases Internal Review Into July 13 Attempted Assassination of Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![GOP’s Early Voting Lead, Registration Gains Boost 2024 Odds in Swing State Nevada](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Secret Service Releases Internal Review Into July 13 Attempted Assassination of Trump](https://img.theepochtimes.com/assets/uploads/2024/11/01/id5752411-APTOPIX_Election_2024_Trump_24195806515160-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/secret-service-releases-internal-review-into-july-13-attempted-assassination-of-trump-5752408)
-* [Day in Photos: Shooting Scene, Returning to Court, and a Penguin Colony](https://www.theepochtimes.com/article/day-in-photos-shooting-scene-returning-to-court-and-drug-seizure-5751996)
+    ![GOP’s Early Voting Lead, Registration Gains Boost 2024 Odds in Swing State Nevada](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752701-Better-Nells-OP_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/gops-early-voting-lead-registration-gains-boost-2024-odds-in-swing-state-nevada-5752613)
+* [Trump Consistently Gaining Hispanic Voters](https://www.theepochtimes.com/us/trump-consistently-gaining-hispanic-voters-5749475)
     
-    9hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    2hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
     
-    [![Day in Photos: Shooting Scene, Returning to Court, and a Penguin Colony](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Consistently Gaining Hispanic Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Day in Photos: Shooting Scene, Returning to Court, and a Penguin Colony](https://img.theepochtimes.com/assets/uploads/2024/11/01/id5752352-GettyImages-2182312514-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-shooting-scene-returning-to-court-and-drug-seizure-5751996)
-* [Pennsylvania Supreme Court Rules Undated Ballots Cannot Be Counted](https://www.theepochtimes.com/us/pennsylvania-supreme-court-rules-undated-ballots-cannot-be-counted-5752144)
+    ![Trump Consistently Gaining Hispanic Voters](https://img.theepochtimes.com/assets/uploads/2016/08/12/GettyImages-167757932-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-consistently-gaining-hispanic-voters-5749475)
+* [High Stakes: A Snapshot of the Economy Heading Into Election Day](https://www.theepochtimes.com/business/high-stakes-a-snapshot-of-the-economy-heading-into-election-day-5752088)
     
-    9hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    3hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![Pennsylvania Supreme Court Rules Undated Ballots Cannot Be Counted](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![High Stakes: A Snapshot of the Economy Heading Into Election Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Pennsylvania Supreme Court Rules Undated Ballots Cannot Be Counted](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750683-GettyImages-2171844038KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-supreme-court-rules-undated-ballots-cannot-be-counted-5752144)
-* [Supreme Court Rejects GOP Challenge in Pennsylvania Provisional Ballot Case](https://www.theepochtimes.com/us/supreme-court-rejects-gop-request-for-relief-in-pennsylvania-ballot-case-5750912)
+    ![High Stakes: A Snapshot of the Economy Heading Into Election Day](https://img.theepochtimes.com/assets/uploads/2024/07/25/id5693547-GettyImages-148449213-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/high-stakes-a-snapshot-of-the-economy-heading-into-election-day-5752088)
+* [Trump and Harris Campaign in Battleground States Near Election Finish Line](https://www.theepochtimes.com/us/endgame-trump-and-harris-campaign-in-battleground-states-near-election-finish-line-5752581)
     
-    11hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    4hr By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson), [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson) and [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
     
-    [![Supreme Court Rejects GOP Challenge in Pennsylvania Provisional Ballot Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump and Harris Campaign in Battleground States Near Election Finish Line](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Supreme Court Rejects GOP Challenge in Pennsylvania Provisional Ballot Case](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748818-10232024-DSC06716-SCOTUSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-rejects-gop-request-for-relief-in-pennsylvania-ballot-case-5750912)
-* [Judge Sets Date for NYC Mayor Eric Adams’ Bribery and Corruption Trial](https://www.theepochtimes.com/us/judge-sets-date-for-nyc-mayor-eric-adams-bribery-and-corruption-trial-5752378)
+    ![Trump and Harris Campaign in Battleground States Near Election Finish Line](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747997-Kamala-Harris-Donald-Trump-3-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/endgame-trump-and-harris-campaign-in-battleground-states-near-election-finish-line-5752581)
+* [One More Named Storm Likely as the End of Hurricane Season Nears](https://www.theepochtimes.com/us/one-more-named-storm-likely-as-the-end-of-hurricane-season-nears-5752061)
     
-    11hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    4hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
     
-    [![Judge Sets Date for NYC Mayor Eric Adams’ Bribery and Corruption Trial](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![One More Named Storm Likely as the End of Hurricane Season Nears](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Judge Sets Date for NYC Mayor Eric Adams’ Bribery and Corruption Trial](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730962-GettyImages-2173761964-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-sets-date-for-nyc-mayor-eric-adams-bribery-and-corruption-trial-5752378)
-* [New Treasury Rule Expands Oversight of Foreign Land Buys Near Military Bases](https://www.theepochtimes.com/us/new-treasury-rule-expands-oversight-of-foreign-land-buys-near-military-bases-5752368)
+    ![One More Named Storm Likely as the End of Hurricane Season Nears](https://img.theepochtimes.com/assets/uploads/2024/11/01/id5752365-topicaloutlook111-205x123.png.webp)](https://www.theepochtimes.com/us/one-more-named-storm-likely-as-the-end-of-hurricane-season-nears-5752061)
+* [How 3rd Party Candidates Could Affect the 2024 Presidential Election](https://www.theepochtimes.com/us/how-3rd-party-candidates-could-affect-the-2024-presidential-election-5745242)
     
-    12hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    6hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![New Treasury Rule Expands Oversight of Foreign Land Buys Near Military Bases](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![How 3rd Party Candidates Could Affect the 2024 Presidential Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![New Treasury Rule Expands Oversight of Foreign Land Buys Near Military Bases](https://img.theepochtimes.com/assets/uploads/2024/11/01/id5752496-DSC03775KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-treasury-rule-expands-oversight-of-foreign-land-buys-near-military-bases-5752368)
+    ![How 3rd Party Candidates Could Affect the 2024 Presidential Election](https://img.theepochtimes.com/assets/uploads/2016/12/13/Election-Recount-Jill_phil9a-ap-205x123.jpg.webp)](https://www.theepochtimes.com/us/how-3rd-party-candidates-could-affect-the-2024-presidential-election-5745242)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
