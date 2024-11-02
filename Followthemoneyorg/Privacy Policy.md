@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![leg incumbents](/assets/logos/LegIncumbentSuccess2012.png)](http://www.followthemoney.org/assets/ANNUAL-REPORTS/NIMSP-Annual-Report-2013.pdf)
-
-In 2012, most legislative incumbents won.
+[![Independent Spending by Type of Office Targeted, 2009–2016](/assets/Images/teasers/small/IS.JPG)](https://www.followthemoney.org/research/institute-reports/independent-spending-overview-2015-and-2016)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
