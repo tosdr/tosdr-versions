@@ -305,7 +305,7 @@
 
 [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Деньнародногоединства](https://er.ru/activity/news?tags%5B0%5D=124570) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#флешмоб](https://er.ru/activity/news?tags%5B0%5D=18278) [#акция](https://er.ru/activity/news?tags%5B0%5D=238)
 
-Сегодня 13:57
+03.11.24
 
 [![«Единая Россия», фонд «Наша Правда» и МГЕР доставили технику военным на линии боевого соприкосновения](https://cdn.er.ru/media/news/November2024/EZ2R45xo9Z1grMMqVijN-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-fond-nasha-pravda-i-mger-dostavili-tehniku-voennym-na-linii-boevogo-soprikosnoveniya)
 
@@ -313,7 +313,7 @@
 
 [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#нашаправда](https://er.ru/activity/news?tags%5B0%5D=1094120) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#БПЛА](https://er.ru/activity/news?tags%5B0%5D=1094194) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Амелин](https://er.ru/activity/news?tags%5B0%5D=36283)
 
-Сегодня 13:26
+03.11.24
 
 [![«Единая Россия» передала продукты для выпечки хлеба жителям освобожденных населенных пунктов Харьковской области](https://cdn.er.ru/media/news/November2024/azQcNW4MagJ962qC2uQG-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-produkty-dlya-vypechki-hleba-zhitelyam-osvobozhdennyh-naselennyh-punktov-harkovskoj-oblasti)
 
@@ -321,7 +321,7 @@
 
 [#Туров](https://er.ru/activity/news?tags%5B0%5D=24396) [#Харьковская область](https://er.ru/activity/news?tags%5B0%5D=1093485) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#гуманитарнаяпомощь](https://er.ru/activity/news?tags%5B0%5D=109132) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 11:11
+03.11.24
 
 [![«Единая Россия» и фонд «Наша правда» передали средства РЭБ коммунальным службам Херсонской области](https://cdn.er.ru/media/news/November2024/I0fFpWjW3RBz3Lns6aTY-small.jpeg)](https://er.ru/activity/news/edinaya-rossiya-i-fond-nasha-pravda-peredali-sredstva-reb-kommunalnym-sluzhbam-hersonskoj-oblasti)
 
@@ -329,7 +329,7 @@
 
 [#Херсонская область](https://er.ru/activity/news?tags%5B0%5D=1093586) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#фондНашаПравда](https://er.ru/activity/news?tags%5B0%5D=1095727) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#приемграждан](https://er.ru/activity/news?tags%5B0%5D=103849) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640)
 
-Сегодня 10:34
+03.11.24
 
 [![«Пытаются управлять, создавая кризисы»: Дмитрий Медведев в интервью RT — о политике США и неустойчивости однополярного мира](https://cdn.er.ru/media/news/November2024/rWGZfcVh9GvDV1PnJeiJ-small.jpg)](https://er.ru/activity/news/pytayutsya-upravlyat-sozdavaya-krizisy-dmitrij-medvedev-v-intervyu-rt-o-politike-ssha-i-neustojchivosti-odnopolyarnogo-mira)
 
@@ -337,7 +337,7 @@
 
 [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#интервью](https://er.ru/activity/news?tags%5B0%5D=82) [#США](https://er.ru/activity/news?tags%5B0%5D=320) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#геополитика](https://er.ru/activity/news?tags%5B0%5D=16239)
 
-Сегодня 09:00
+03.11.24
 
 [![Владимир Якушев отметил опыт Новгородской «Единой России» по работе с партактивом и поддержке молодых политиков](https://cdn.er.ru/media/news/November2024/qvNd9hYvNY1Yk0O2XXNS-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-otmetil-opyt-novgorodskoj-edinoj-rossii-po-rabote-s-partaktivom-i-podderzhke-molodyh-politikov)
 
