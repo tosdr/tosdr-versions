@@ -1,5 +1,9 @@
 [Hallo, Pooh, you're just in time for a little smackerel of something](https://vkt979ywwg.execute-api.us-east-1.amazonaws.com/ProdStage)
 
+[![Get 51% Off With the Black Friday Sale. Hurry! Ends soon!](https://cdn.innovativelanguage.com/sns/em/2024/November/BF/HP%20Banners%20No%20Date/homepage_web-banner_hebrew.png)](https://www.hebrewpod101.com/blackfriday-lp?src=banner_hp)
+
+[![Get 51% Off With the Black Friday Sale. Hurry! Ends soon!](https://cdn.innovativelanguage.com/sns/em/2024/November/BF/homepage_mob-banner.gif)](https://www.hebrewpod101.com/blackfriday-lp?src=mbanner_hp)
+
 ![Home](/static/images/hebrewpod101/splash/logo-desktop-transparent.svg)
 
 Sign In
