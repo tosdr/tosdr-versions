@@ -68,20 +68,20 @@ travel • live • work • interact • share • repeat • 
 [fun from day one!](#)
 ----------------------
 
-* [fun from day one!](#tab_67274d44936a8)
+* [fun from day one!](#tab_6727a3c8426e5)
     ---------------------------------------
     
-    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_67274d44936a8)
+    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_6727a3c8426e5)
     
-* [fomo no more!](#tab_67274d44936b7)
+* [fomo no more!](#tab_6727a3c842700)
     -----------------------------------
     
-    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_67274d44936b7)
+    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_6727a3c842700)
     
-* [we’ve got you covered, dude](#tab_67274d44936c3)
+* [we’ve got you covered, dude](#tab_6727a3c842719)
     -------------------------------------------------
     
-    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_67274d44936c3)
+    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_6727a3c842719)
     
 
 ##### [view facilities](https://www.viahostels.com/facilities/)
@@ -117,6 +117,8 @@ follow us on social
 
 [](https://www.instagram.com/viaamsterdam/)
 
+[Via – your place for buzzing experiences and con ![Via – your place for buzzing experiences and connections👯‍♀️💛⭐](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DB50XE5CtF4/) 
+
 [Cheers to the weekend!🥂🤩 #weekendvibes #goo ![Cheers to the weekend!🥂🤩
 #weekendvibes #goodvibesonly #hostellife #viaamsterdam #solotravel](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DB1VKmmB4oo/) 
 
@@ -147,9 +149,6 @@ Join us at Via for a week full of boos and brews🍻🧙‍♀️
 [Still don’t have your plans for the biggest danc ![Still don’t have your plans for the biggest dance weekend of the year?🪩 No need to stress! Follow this guide, and you’re guaranteed a blast🎉🤩
 Psst, if your favorite event is sold out, check out TicketSwap—a safe app for buying and selling tickets!🎫
 #ade #adeamsterdam #amsterdamdanceevent #viaamsterdam #dancelife #partytime](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBGP653Ngud/) 
-
-[Ice, ice baby!😎 The Amsterdam ice bar is a must ![Ice, ice baby!😎 The Amsterdam ice bar is a must-visit! We loved every frosty moment and highly recommend it for an unforgettable night while in the city!🍸❄️ Book your tickets through the link in our bio!!🙌 
-#ChillVibes #amsterdamlife #viaamsterdam #solotravel #travelwithus #icebar](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DBEaD6UisW1/) 
 
 current & upcoming events
 -------------------------
