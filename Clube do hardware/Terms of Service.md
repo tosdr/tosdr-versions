@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_2064720514_menu)
+ [Compartilhar](#elShareItem_662824673_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1232017651_menu)
+ [Compartilhar](#elShareItem_1214674069_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,25 +365,75 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![Eduardo_fv](https://www.clubedohardware.com.br/uploads/members/monthly_2023_11/imported-photo-1233076.thumb.png.33ecbbf2f9ae4211cb43177177c9db8c.png)](https://www.clubedohardware.com.br/profile/1233076-eduardo_fv/ "Ir ao perfil de Eduardo_fv")
+    * [![Felipe Delmondes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255475.thumb.png.73cc849831baff195209b9843ac8a120.png)](https://www.clubedohardware.com.br/profile/1255475-felipe-delmondes/ "Ir ao perfil de Felipe Delmondes")
         
         0
+        
+        [Placa-mãe ROG STRIX B760-F GAMING - frequência maxima suportada](https://www.clubedohardware.com.br/forums/topic/1701352-placa-m%C3%A3e-rog-strix-b760-f-gaming-frequ%C3%AAncia-maxima-suportada/?do=getNewComment "Placa-mãe ROG STRIX B760-F GAMING - frequência maxima suportada")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Felipe Delmondes](https://www.clubedohardware.com.br/profile/1255475-felipe-delmondes/ "Ir ao perfil de Felipe Delmondes")  
+        7 minutos atrás
+        
+    * [![Bruno Gamer](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255474.thumb.jpeg.36d8ff8594f0dbe6ed6067cb9c60f448.jpeg)](https://www.clubedohardware.com.br/profile/1255474-bruno-gamer/ "Ir ao perfil de Bruno Gamer")
+        
+        2
+        
+        [A ASUS Tuf Gaming Z690-PLUS D4 suporta processadores Intel 14ª geração?](https://www.clubedohardware.com.br/forums/topic/1701349-a-asus-tuf-gaming-z690-plus-d4-suporta-processadores-intel-14%C2%AA-gera%C3%A7%C3%A3o/?do=getNewComment "A ASUS Tuf Gaming Z690-PLUS D4 suporta processadores Intel 14ª geração?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Bruno Gamer](https://www.clubedohardware.com.br/profile/1255474-bruno-gamer/ "Ir ao perfil de Bruno Gamer")  
+        47 minutos atrás
+        
+    * [![Andrezin003](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1215980.thumb.jpeg.d8bd65142fa8c936e5b56a3a90953ef0.jpeg)](https://www.clubedohardware.com.br/profile/1215980-andrezin003/ "Ir ao perfil de Andrezin003")
+        
+        2
+        
+        [Ryzen 5 5600GT suporta memórias RAM de 2400Mhz?](https://www.clubedohardware.com.br/forums/topic/1701348-ryzen-5-5600gt-suporta-mem%C3%B3rias-ram-de-2400mhz/?do=getNewComment "Ryzen 5 5600GT suporta memórias RAM de 2400Mhz?")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Andrezin003](https://www.clubedohardware.com.br/profile/1215980-andrezin003/ "Ir ao perfil de Andrezin003")  
+        3 horas atrás
+        
+    * [![Bruno Cost4](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254187.thumb.jpeg.7f3cbb7ebcf7c312afe771d6c8a69a85.jpeg)](https://www.clubedohardware.com.br/profile/1254187-bruno-cost4/ "Ir ao perfil de Bruno Cost4")
+        
+        0
+        
+        [O dragon’s dogma 2 já está melhor otimizado ou tem previsão?](https://www.clubedohardware.com.br/forums/topic/1701347-o-dragon%E2%80%99s-dogma-2-j%C3%A1-est%C3%A1-melhor-otimizado-ou-tem-previs%C3%A3o/?do=getNewComment "O dragon’s dogma 2 já está melhor otimizado ou tem previsão?")
+        
+        [Jogos](https://www.clubedohardware.com.br/forums/forum/104-jogos/ "Jogos")  
+        Por [Bruno Cost4](https://www.clubedohardware.com.br/profile/1254187-bruno-cost4/ "Ir ao perfil de Bruno Cost4")  
+        4 horas atrás
+        
+    * [![Luiz Felipe Muniz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255235.thumb.jpeg.7d02eee0110674cf8edd71f885c8469b.jpeg)](https://www.clubedohardware.com.br/profile/1255235-luiz-felipe-muniz/ "Ir ao perfil de Luiz Felipe Muniz")
+        
+        2
+        
+        [Troquei de hardware mas mantive meu HD com o Windows, vai funcionar no novo PC?](https://www.clubedohardware.com.br/forums/topic/1701346-troquei-de-hardware-mas-mantive-meu-hd-com-o-windows-vai-funcionar-no-novo-pc/?do=getNewComment "Troquei de hardware mas mantive meu HD com o Windows, vai funcionar no novo PC?")
+        
+        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
+        Por [Luiz Felipe Muniz](https://www.clubedohardware.com.br/profile/1255235-luiz-felipe-muniz/ "Ir ao perfil de Luiz Felipe Muniz")  
+        5 horas atrás
+        
+    * [![Eduardo_fv](https://www.clubedohardware.com.br/uploads/members/monthly_2023_11/imported-photo-1233076.thumb.png.33ecbbf2f9ae4211cb43177177c9db8c.png)](https://www.clubedohardware.com.br/profile/1233076-eduardo_fv/ "Ir ao perfil de Eduardo_fv")
+        
+        2
         
         [Monitor Novo: Jogar Competitivo a 200Hz e histórias a 75Hz, Como Fica?](https://www.clubedohardware.com.br/forums/topic/1701345-monitor-novo-jogar-competitivo-a-200hz-e-hist%C3%B3rias-a-75hz-como-fica/?do=getNewComment "Monitor Novo: Jogar Competitivo a 200Hz e histórias a 75Hz, Como Fica?")
         
         [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
         Por [Eduardo\_fv](https://www.clubedohardware.com.br/profile/1233076-eduardo_fv/ "Ir ao perfil de Eduardo_fv")  
-        1 hora atrás
+        7 horas atrás
         
     * [![zezinho69](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%237fc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EZ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255472-zezinho69/ "Ir ao perfil de zezinho69")
         
-        1
+        2
         
-        [Imagem dando tela preta,artefatos e ficando com cores aleatórias!](https://www.clubedohardware.com.br/forums/topic/1701344-imagem-dando-tela-pretaartefatos-e-ficando-com-cores-aleat%C3%B3rias/?do=getNewComment "Imagem dando tela preta,artefatos e ficando com cores aleatórias!")
+        [GeForce RTX 2060 Rise Mode e Ryzen 5 4500 dando artefatos e tela preta](https://www.clubedohardware.com.br/forums/topic/1701344-geforce-rtx-2060-rise-mode-e-ryzen-5-4500-dando-artefatos-e-tela-preta/?do=getNewComment "GeForce RTX 2060 Rise Mode e Ryzen 5 4500 dando artefatos e tela preta")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
         Por [zezinho69](https://www.clubedohardware.com.br/profile/1255472-zezinho69/ "Ir ao perfil de zezinho69")  
-        2 horas atrás
+        8 horas atrás
         
     * [![Lazaro Nogueira](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1221364.thumb.jpeg.aebddc177fe34344a3b7b13aabcce389.jpeg)](https://www.clubedohardware.com.br/profile/1221364-lazaro-nogueira/ "Ir ao perfil de Lazaro Nogueira")
         
@@ -393,7 +443,7 @@ Mais opções...
         
         [Jogo não roda ou dá erro](https://www.clubedohardware.com.br/forums/forum/278-jogo-n%C3%A3o-roda-ou-d%C3%A1-erro/ "Jogo não roda ou dá erro")  
         Por [Lazaro Nogueira](https://www.clubedohardware.com.br/profile/1221364-lazaro-nogueira/ "Ir ao perfil de Lazaro Nogueira")  
-        3 horas atrás
+        9 horas atrás
         
     * [![Victormoraes123](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2387c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255471-victormoraes123/ "Ir ao perfil de Victormoraes123")
         
@@ -403,7 +453,7 @@ Mais opções...
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
         Por [Victormoraes123](https://www.clubedohardware.com.br/profile/1255471-victormoraes123/ "Ir ao perfil de Victormoraes123")  
-        3 horas atrás
+        9 horas atrás
         
     * [![gustavohvh](https://www.clubedohardware.com.br/uploads/members/monthly_2020_11/imported-photo-1084063.thumb.png.d215d75ba64ba188c7de7d848571b5d8.png)](https://www.clubedohardware.com.br/profile/1084063-gustavohvh/ "Ir ao perfil de gustavohvh")
         
@@ -413,57 +463,7 @@ Mais opções...
         
         [Recomendações de lojas e serviços](https://www.clubedohardware.com.br/forums/forum/12-recomenda%C3%A7%C3%B5es-de-lojas-e-servi%C3%A7os/ "Recomendações de lojas e serviços")  
         Por [gustavohvh](https://www.clubedohardware.com.br/profile/1084063-gustavohvh/ "Ir ao perfil de gustavohvh")  
-        4 horas atrás
-        
-    * [![GH0STDRAGON](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251242.thumb.jpeg.40a50ee1e8106f76d01277ec6a92ba3d.jpeg)](https://www.clubedohardware.com.br/profile/1251242-gh0stdragon/ "Ir ao perfil de GH0STDRAGON")
-        
-        1
-        
-        [Uma fonte de 650w dá conta da rx 6800xt?](https://www.clubedohardware.com.br/forums/topic/1701340-uma-fonte-de-650w-d%C3%A1-conta-da-rx-6800xt/?do=getNewComment "Uma fonte de 650w dá conta da rx 6800xt?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [GH0STDRAGON](https://www.clubedohardware.com.br/profile/1251242-gh0stdragon/ "Ir ao perfil de GH0STDRAGON")  
-        5 horas atrás
-        
-    * [![Modraken](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251975.thumb.png.7a5910a0cde801204f006e4d68ec109f.png)](https://www.clubedohardware.com.br/profile/1251975-modraken/ "Ir ao perfil de Modraken")
-        
-        2
-        
-        [Comprar um i7 6700 tá valendo a pena?](https://www.clubedohardware.com.br/forums/topic/1701339-comprar-um-i7-6700-t%C3%A1-valendo-a-pena/?do=getNewComment "Comprar um i7 6700 tá valendo a pena?")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Modraken](https://www.clubedohardware.com.br/profile/1251975-modraken/ "Ir ao perfil de Modraken")  
-        5 horas atrás
-        
-    * [![_Gabriel V](https://www.clubedohardware.com.br/uploads/members/monthly_2020_04/panteeera.thumb.jpg.b56336548b1db5987b58800813d2749f.jpg)](https://www.clubedohardware.com.br/profile/1072063-_gabriel-v/ "Ir ao perfil de _Gabriel V")
-        
-        0
-        
-        VENDO [Tablet Xiaomi Redmi Pad 10.61 128gb 4gb De memória RAM](https://www.clubedohardware.com.br/forums/topic/1701338-tablet-xiaomi-redmi-pad-1061-128gb-4gb-de-mem%C3%B3ria-ram/?do=getNewComment "Tablet Xiaomi Redmi Pad 10.61 128gb 4gb De memória RAM")
-        
-        [Classificados](https://www.clubedohardware.com.br/forums/forum/50-classificados/ "Classificados")  
-        Por [\_Gabriel V](https://www.clubedohardware.com.br/profile/1072063-_gabriel-v/ "Ir ao perfil de _Gabriel V")  
-        6 horas atrás
-        
-    * [![TtyZz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255466.thumb.jpeg.1ec7c7b2992d2a8914d8b98eec1e7e8f.jpeg)](https://www.clubedohardware.com.br/profile/1255466-ttyzz/ "Ir ao perfil de TtyZz")
-        
-        1
-        
-        [Defeito na placa-mãe (Power led + e -)](https://www.clubedohardware.com.br/forums/topic/1701337-defeito-na-placa-m%C3%A3e-power-led-e/?do=getNewComment "Defeito na placa-mãe (Power led + e -)")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [TtyZz](https://www.clubedohardware.com.br/profile/1255466-ttyzz/ "Ir ao perfil de TtyZz")  
-        6 horas atrás
-        
-    * [![Guilherme Espíndola](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4627f%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EGE%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/930427-guilherme-esp%C3%ADndola/ "Ir ao perfil de Guilherme Espíndola")
-        
-        2
-        
-        [Pen-Drive - Local não disponível e erro ao aplicar segurança](https://www.clubedohardware.com.br/forums/topic/1701336-pen-drive-local-n%C3%A3o-dispon%C3%ADvel-e-erro-ao-aplicar-seguran%C3%A7a/?do=getNewComment "Pen-Drive - Local não disponível e erro ao aplicar segurança")
-        
-        [Pen drives e cartões de memória](https://www.clubedohardware.com.br/forums/forum/142-pen-drives-e-cart%C3%B5es-de-mem%C3%B3ria/ "Pen drives e cartões de memória")  
-        Por [Guilherme Espíndola](https://www.clubedohardware.com.br/profile/930427-guilherme-esp%C3%ADndola/ "Ir ao perfil de Guilherme Espíndola")  
-        6 horas atrás
+        10 horas atrás
         
     
 
@@ -624,10 +624,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&cd%5Bitem_id%5D=690576&cd%5Bitem_name%5D=Regras+do+Clube+do+Hardware&cd%5Bitem_type%5D=topic&cd%5Bcategory_name%5D=Avisos da administração)
