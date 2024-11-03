@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Break Up With HimOld Dominion<br><br>5:38pm |
-| She'S Somebody'S DaughterDrew Baldridge<br><br>5:35pm |
-| I Got A GuyPost Malone Ft Luke Combs<br><br>5:32pm |
-| My Kinda PartyJason Aldean<br><br>5:29pm |
-| I Am Not OkayJelly Roll<br><br>5:26pm |
+| Cowboys Cry TooKelsea Ballerini Ft Noah Kahan<br><br>6:55pm |
+| White HorseChris Stapleton<br><br>6:52pm |
+| Am I OkMegan Moroney<br><br>6:48pm |
+| Chasin' YouMorgan Wallen<br><br>6:40pm |
+| Whiskey DrinkJason Aldean<br><br>6:37pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-News Talk • Eastern
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
+Top 40 • Pacific NW
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
