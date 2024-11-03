@@ -31,6 +31,71 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Insultan y lanzan lodo a la comitiva de los reyes de España
+===========================================================
+
+Los monarcas españoles, el presidente del Gobierno de España, Pedro Sánchez, y el presidente regional de Valencia, Carlos Mazón, visitaron la zona de Paiporta.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El rey Felipe habló con los afectados durante su visita a Paiporta. Personas indignadas han recibido con insultos a la comitiva y se han encarado con ella, mientras que tanto el rey como la reina ha intentado mediar. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/Espana.jpg)
+
+##### Agencia EFE
+
+Con gritos de “**fuera**” y **lanzamiento de barro** fue recibida la comitiva de los **reyes de España**, el **presidente del Gobierno, Pedro Sánchez**, y **el presidente regional de Valencia, Carlos Mazón**.
+
+Ellos llegaron a **Paiporta**, epicentro de las inundaciones que asolaron la región por la Dana.
+
+Numerosas personas indignadas recibieron con insultos a la comitiva y se encararon con ella, mientras que tanto el **rey Felipe** como **la reina Letizia** intentaron mediar con jóvenes que se les acercaron.
+
+El hecho ocurrió este domingo 3 de noviembre de 2024, en un pueblo donde ha habido al menos 62 muertos por las inundaciones, que provocaron 213 fallecimientos en Valencia, así como un número indeterminados de desaparecidos en el mayor desastre natural en **España** en lo que va de siglo.
+
+### Más noticias
+
+* [Ecuatoriano relata devastación tras DANA en España](https://www.elcomercio.com/actualidad/mundo/ecuatoriano-relata-devastacion-dana.html "Ecuatoriano relata devastación tras DANA en España")
+* [Más fallecidos se contabilizan en Valencia y llegan más policías y militares](https://www.elcomercio.com/actualidad/mundo/fallecidos-reportan-valencia-policias-y-militares.html "Más fallecidos se contabilizan en Valencia y llegan más policías y militares")
+* [Efectos de la DANA como consecuencia del cambio climático](https://www.elcomercio.com/actualidad/mundo/inundaciones-temporal-espana-deja-fallecidos.html "Efectos de la DANA como consecuencia del cambio climático")
+
+La visita de los Reyes de España
+--------------------------------
+
+Los **reyes de España, Felipe VI y Letizia**, llegaron a la localidad de **Paiporta**, la conocida como “zona cero” del temporal que asoló **Valencia**, y donde se sigue sacando agua, fango y lodo de cada domicilio.
+
+La visita del monarca y su esposa se produce este domingo donde la A**gencia Estatal de Meteorología (Aemet)** ha establecido el aviso de nivel naranja (riesgo importante de lluvias con tormentas fuertes) en el litoral de la provincia de **Valencia** y el litoral e interior norte de la vecina provincia de **Castellón** por precipitaciones que podrían acumular 100 litros por metro cuadrado en doce horas.
+
+A pesar de que la idea inicial era acudir primero al **Centro de Coordinación de Emergencias (Cecopi),** los reyes se dirigieron directamente a **Paiporta**, al puesto de mando avanzado, antes de dirigirse hacia la localidad de **Chiva** para conocer de primera mano la magnitud de la tragedia y acompañar a los afectados. 
+
+El 3 de noviembre es una fecha histórica para Cuenca, Bahía de Caráquez y Cañar 
+================================================================================
+
+El 3 de noviembre marca hitos de independencia y cantonización en Ecuador.
+--------------------------------------------------------------------------
+
+![El 3 de noviembre es clave en Ecuador, se conmemora la independencia de Cuenca, la cantonización de Bahía de Caráquez y la creación de la provincia de Cañar. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Independencias-Cuenca.jpg)
+
+El **3 de noviembre** es una fecha clave en la historia de Ecuador, marcada por i**mportantes eventos de independencia y cantonización**. En 1820, **Cuenca** proclamó su libertad del dominio español, consolidándose como una **ciudad de relevancia histórica y cultural**, hoy reconocida como **Patrimonio de la Humanidad**. En 1875, **Bahía de Caráquez** **se convirtió en cantón** bajo el nombre Sucre, en honor al héroe independentista **Antonio José de Sucre**. Finalmente, en 1880, **se creó la provincia de Cañar**, inicialmente llamada Azogues, en homenaje a la **resistencia del pueblo cañari**. 
+
+### Más noticias
+
+* [Siete lugares para visitar en Cuenca durante el feriado de Difuntos](https://www.elcomercio.com/actualidad/cuenca/siete-lugares-visitar-cuenca-feriado.html "https://www.elcomercio.com/actualidad/cuenca/siete-lugares-visitar-cuenca-feriado.html")
+* [¿Desde cuándo comienza el feriado en Ecuador?](https://www.elcomercio.com/actualidad/ecuador/desde-cuando-comienza-el-feriado-ecuador.html "https://www.elcomercio.com/actualidad/ecuador/desde-cuando-comienza-el-feriado-ecuador.html")
+
+**Independencia de Cuenca** 
+----------------------------
+
+De acuerdo con la [Asamblea Nacional](https://www.asambleanacional.gob.ec/es/blogs/liuba-cuesta/46724-3-de-noviembre-independencia-de-cuenca "https://www.asambleanacional.gob.ec/es/blogs/liuba-cuesta/46724-3-de-noviembre-independencia-de-cuenca"), el 3 de noviembre de 1820, **Cuenca proclamó su independencia del dominio español**, inspirada por la reciente liberación de Guayaquil.  
+
+Liderados por **Tomás Ordóñez** y apoyados por el alcalde **José María Vázquez de Noboa**, los patriotas se armaron y se atrincheraron en la **Plaza de San Sebastián**, donde lograron finalmente la **libertad de la ciudad**. Con el tiempo, Cuenca se convirtió en cuna de figuras importantes de Ecuador y fue declarada **Patrimonio de la Humanidad**. Su legado se celebra hoy con actos conmemorativos, honrando su historia y contribución al país. 
+
+**Cantonización de Bahía de Caráquez** 
+---------------------------------------
+
+**Bahía de Caráquez**, o Villa de San Antonio de Morga, **fue cantonizada el 3 de noviembre de 1875** bajo el nombre de Sucre en honor al **Mariscal Antonio José de Sucre**, héroe de la independencia. Fundada como asentamiento en 1624, **su origen se remonta a los primeros habitantes Caras** en el 1500 a.C., y más tarde jugó un rol estratégico durante la colonia y en las gestas libertarias. Hoy, **Bahía de Caráquez** celebra su historia como un lugar de importancia histórica y cultural en Ecuador, a decir de la web [HazteVerEcuador](https://hazteverecuador.com/3-de-noviembre-de-1875-cantonizacion-de-bahia-de-caraquez/#google_vignette "https://hazteverecuador.com/3-de-noviembre-de-1875-cantonizacion-de-bahia-de-caraquez/#google_vignette"). 
+
+**Creación de la provincia de Cañar** 
+--------------------------------------
+
+Según la página de la [gobernación de Cañar](https://gobernacioncanar.gob.ec/resena-historica/#:~:text=El%20hist%C3%B3rico%203%20de%20Noviembre,Gobernador%20fue%20don%20Ram%C3%B3n%20Pesantez. "https://gobernacioncanar.gob.ec/resena-historica/#:~:text=El%20hist%C3%B3rico%203%20de%20Noviembre,Gobernador%20fue%20don%20Ram%C3%B3n%20Pesantez."), el 3 de noviembre de 1880, mediante decreto del **Congreso ecuatoriano**, se estableció la provincia **inicialmente llamada Azogues**, bajo el liderazgo de su primer gobernador, **Ramón Pesantez**. Más adelante, su nombre cambió a **Provincia del Cañar** en homenaje a la importante historia del **pueblo cañari** en la región. Actualmente, la provincia está conformada por siete cantones: Azogues, Cañar, Biblián, La Troncal, El Tambo, Déleg y Suscal. 
+
 ¿Cuáles son los feriados recuperables de 2024 en Ecuador?
 =========================================================
 
@@ -88,56 +153,6 @@ El calendario de feriados de Ecuador fue preestablecido para los años 2023, 202
 
   
 
-Cumbres borrascosas
-===================
-
-Colisionan de agendas en las cumbres Latinoamericana y Apec.
-------------------------------------------------------------
-
-![Jose Felix Valdivieso, columnista en EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/11/Jose-Felix-Valdivieso2.jpg)
-
-Las cosas del corazón no tienen agenda, pero las de la política sí. El 14 y 15 de noviembre el **Ecuador** será protagonista de la **política Latinoamericana**. Albergará en la ciudad de **Cuenca** la XXIX Cumbre Iberoamericana de **Jefes** de **Estado** y de **Gobierno**. No obstante, cierta borrasca se cierne sobre la **Cumbre cuencana** por motivos imposibles de soslayar: En el Perú tendrá lugar la **reunión** de la APEC desde el 10 de noviembre hasta el 16 del mismo mes.
-
-La **colisión** de **agendas** es evidente, tanto como la falta de **planificación**. De momento, la ministra de Relaciones Exteriores y Movilidad Humana, Gabriela Sommerfeld ha confirmado la asistencia de 9 presidentes, incluidos el Rey de España, Felipe VI, y el presidente Sánchez. No se nos puede escapar —aunque a algunos se les haya escapado la tortuga— que el año pasado, en la **Cumbre** de la **República Dominicana**, de los 22 miembros que la integran, acudieron hasta 14 **presidentes** o **primeros ministros**.
-
-Tampoco fue una buena idea el **asalto** a la **embajada mexicana** en **Quito** para apresar a Jorge Glas. La **presidenta mexicana**, Claudia Sheinbaum, será una ausencia notable, si bien la ministra Sommerfeld, ha expresado su **confianza** en que finalmente **México** envíe a una **representación**. Pero eso no es lo mismo a que venga la propia **presidenta Sheinbaum**, como cabeza de una de las potencias del **continente**.
-
-La **borrasca** se acentúa, porque en el vecino **Perú** estarán de **celebración**. El inicio de la novela _**Cumbres Borrascosas**_ yaintuía los problemas: «_He vuelto hace unos instantes de visitar a mi casero y ya se me figura que ese **solitario vecino** va a inquietarme por más de una causa_». No solo se inaugurará el megapuerto de Chancay en el Perú, que inevitablemente empañará el **protagonismo** del puerto de Guayaquil, sino que este será también inaugurado por el presidente Xi en el marco de una visita de estado, aparte de la APEC.
-
-Cuando Xi se moviliza, toda **China** viaja con él. Para entendernos, los **viajes** de los **presidentes chinos** hoy en día son como los viajes de los **presidentes americanos**. Hay todo un **ecosistema** que se mueve a su alrededor, que igualmente se desplaza en esos **viajes presidenciales**, y que es necesario comprender en toda su **dimensión**, para saber aprovecharlos al máximo. ¿Está **Ecuador** en ello?
-
-Pero no todo pueden ser **malas noticias**. En el camino de **preparación** de la **Cumbre Latinoamericana**, los 22 países **integrantes** de la misma han realizado una **declaración** esperanzadora. Han reforzado la **cooperación** en **ciencia** e **innovación**, promoviendo asimismo la IA en español y portugués.
-
-«El **desarrollo científico** es la única respuesta a los **problemas** que enfrentamos. No podemos delegar en otros esa **responsabilidad**» —ha señalado el [secretario general Iberoamericano, Andrés Allamand](https://www.segib.org/secretaria-general/andres-allamand-2/).
-
-Como se decía, la **política** es una **cuestión** de **agenda**, no entiende de otra cosa. Y no se puede permitir choques, ni solapamientos. En la segunda edición de _El continente olvidado_, Michael Reid señala que debe figurar en la **agenda latinoamericana** el romper el debate **histórico** entre el **libre mercado** sin restricciones y el **proteccionismo**, y el dejar de alimentar la **visión** del **poder** como un patrimonio personal.  «_Para llegar ahí se requiere un nuevo tipo de **política**: frente a la **polarización** y **confrontación** ofrecida por **populistas**_ — _y a veces por sus **oponentes**_—_, Latinoamérica necesita **construcción** de **consensos**, donde el estado, el sector privado y la **sociedad civil** trabajen juntos para fijar **metas** a medio plazo y responsabilicen al **gobierno** de su **cumplimiento**_».
-
-Aunque la **visión** de Reid en este libro es menos **optimista**, despeja un tanto la **borrasca** de las cumbres, añadiendo cierta **pausa** a todo, y para ello cita al **liberal** argentino Bautista Alberdi: «_Las **naciones**, como los hombres, no tienen alas; hacen sus viajes a pie, paso a paso_». ¡Que así sea la agenda!
-
-Antiturismo
-===========
-
-El antiturismo quizá no sea tan espantoso como lo pintan, tal vez es la única solución.
----------------------------------------------------------------------------------------
-
-![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
-
-El **turismo** masivo ha convertido destinos únicos en **escenarios** de **sobreexplotación** que distorsionan la esencia de estos lugares y degradan la vida de los **residentes**. En **Barcelona**, la presencia masiva de **turistas** ha llevado a la **población local** a manifestarse contra lo que consideran una **invasión**; mientras que **Venecia**, ya al borde de la ruina por el arribo constante de **cruceros**, observa cómo sus canales y **ecosistema** se deterioran.
-
-En Bali, el **aumento** de **precios** de **productos básicos** debido a la demanda **turística** afecta la vida de las **comunidades locales**; Islandia se enfrenta a visitantes que ignoran las **normas** de **protección natural**, y Machu Picchu intenta frenar el daño de sus **ruinas**.
-
-Las medidas **antiturismo** incluyen limitar las **viviendas turísticas** en Barcelona o Nueva York, cobrar tasas de entrada a **Venecia**, restringir el número diario de visitantes en Santorini, prohibir **tours** guiados en zonas sensibles de Tokio, desviar **turistas** a áreas menos saturadas en Amsterdam o promover el **turismo** en **temporadas** bajas en Roma. Pero estas acciones no reducen el **impacto ambiental**, ni cultural, ni protegen la **calidad** de **vida** de los **residentes**.
-
-Esta sobrecarga de **turistas** no encuentra una respuesta que no sean manifestaciones o **agresiones** a los **turistas**, y la idea de una “**colaboración internacional**” para un **turismo** sostenible suena hipócrita, porque en la práctica cada país compite por atraer más **visitantes** que el otro.
-
-Además, las grandes **cadenas hoteleras**, plataformas como Airbnb, aerolíneas, tour **operadores internacionales** y gigantes de la intermediación **digital** no muestran intención alguna de reducir la sobreexplotación de **destinos** saturados como París y al contrario, **capitales** de **riesgo** compran edificios familiares para ponerlos en Airbnb, como sucede en Portugal.
-
-Con una **estructura** basada en maximizar **beneficios** y minimizar **costos**, la posibilidad de que los gigantes del **turismo** sacrifiquen **ganancias** para promover un **turismo** respetuoso y sostenible es un engaño que sirve para grandilocuentes **declaraciones** de la **burocracia internacional**, que se reúne en costosos **hoteles** de **destinos** saturados con **fondos públicos**.
-
-El **turismo** **masivo** seguirá dejando sin **viviendas** a las familias, transformando negativamente las **comunidades locales**, contaminando, inflando **precios** y convirtiendo paraísos en infiernos de **masas** de **visitantes**, que poco les importa el **destino** y la vida de los **residentes**.
-
-El **antiturismo** quizá no sea tan espantoso como lo pintan, tal vez es la única **solución**.
-
 Cartas a Quito / 3 de noviembre de 2024
 =======================================
 
@@ -174,6 +189,56 @@ La campaña presidencial en Ecuador se enfoca en ataques y alianzas, con Noboa y
 **6.-** Al parecer, al PSC y RC5 les quedaría en su **afán** de **poder**, continuar aferrándose a la boya de la **Asamblea**, en la cual han logrado **acumular** relativo poder con base en apoyarse mutuamente (condicionando al **gobierno** de turno),  juntos no por razones  **ideológicas,** sino por interés, es decir, por  un **pragmatismo** puro y duro, que llama la **atención** y despierta dudas…  En los últimos días, nuevamente se juntaron, el PSC apoyó  la terna de la **Asamblea** al CPCCS a efecto de la renovación parcial de la C. Constitucional, terna **propuesta** por el **correísmo** y encabezada  por Angélica Porras, quien en su momento fue una de las decididas atacantes a la **Fiscal General**; y, en reciprocidad, el apoyo de RC5 al hasta hace poco **rechazado** y ahora apoyado O. Vera – de las filas **socialcristianas** – para ocupar la primera vicepresidencia de la **Asamblea**, con lo cual dicha tienda se asegura, por un lado, un puesto en el influyente **Consejo** de **Administración Legislativa** CAL y, por otro lado, retomar la **conducción** de la **Asamblea**, aunque sea temporalmente, toda vez que la actual **presidenta correista** V. Veloz, en enero, deberá ausentarse para realizar su **campaña** de **reelección** como **asambleísta**.
 
 Daría la **impresión**, por tanto, que, tanto el PSC y RC5 comparten el mismo **fantasma** en **Carondelet**, y que el PSC para efectos **prácticos**, a momentos sus siglas pudieran interpretarse como **Partido Social** “**Correista**”, en razón de su constante cercanía y **convergencia**, es decir, por la fiel **convivencia** de su unión de **conveniencia**…
+
+Antiturismo
+===========
+
+El antiturismo quizá no sea tan espantoso como lo pintan, tal vez es la única solución.
+---------------------------------------------------------------------------------------
+
+![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
+
+El **turismo** masivo ha convertido destinos únicos en **escenarios** de **sobreexplotación** que distorsionan la esencia de estos lugares y degradan la vida de los **residentes**. En **Barcelona**, la presencia masiva de **turistas** ha llevado a la **población local** a manifestarse contra lo que consideran una **invasión**; mientras que **Venecia**, ya al borde de la ruina por el arribo constante de **cruceros**, observa cómo sus canales y **ecosistema** se deterioran.
+
+En Bali, el **aumento** de **precios** de **productos básicos** debido a la demanda **turística** afecta la vida de las **comunidades locales**; Islandia se enfrenta a visitantes que ignoran las **normas** de **protección natural**, y Machu Picchu intenta frenar el daño de sus **ruinas**.
+
+Las medidas **antiturismo** incluyen limitar las **viviendas turísticas** en Barcelona o Nueva York, cobrar tasas de entrada a **Venecia**, restringir el número diario de visitantes en Santorini, prohibir **tours** guiados en zonas sensibles de Tokio, desviar **turistas** a áreas menos saturadas en Amsterdam o promover el **turismo** en **temporadas** bajas en Roma. Pero estas acciones no reducen el **impacto ambiental**, ni cultural, ni protegen la **calidad** de **vida** de los **residentes**.
+
+Esta sobrecarga de **turistas** no encuentra una respuesta que no sean manifestaciones o **agresiones** a los **turistas**, y la idea de una “**colaboración internacional**” para un **turismo** sostenible suena hipócrita, porque en la práctica cada país compite por atraer más **visitantes** que el otro.
+
+Además, las grandes **cadenas hoteleras**, plataformas como Airbnb, aerolíneas, tour **operadores internacionales** y gigantes de la intermediación **digital** no muestran intención alguna de reducir la sobreexplotación de **destinos** saturados como París y al contrario, **capitales** de **riesgo** compran edificios familiares para ponerlos en Airbnb, como sucede en Portugal.
+
+Con una **estructura** basada en maximizar **beneficios** y minimizar **costos**, la posibilidad de que los gigantes del **turismo** sacrifiquen **ganancias** para promover un **turismo** respetuoso y sostenible es un engaño que sirve para grandilocuentes **declaraciones** de la **burocracia internacional**, que se reúne en costosos **hoteles** de **destinos** saturados con **fondos públicos**.
+
+El **turismo** **masivo** seguirá dejando sin **viviendas** a las familias, transformando negativamente las **comunidades locales**, contaminando, inflando **precios** y convirtiendo paraísos en infiernos de **masas** de **visitantes**, que poco les importa el **destino** y la vida de los **residentes**.
+
+El **antiturismo** quizá no sea tan espantoso como lo pintan, tal vez es la única **solución**.
+
+Cumbres borrascosas
+===================
+
+Colisionan de agendas en las cumbres Latinoamericana y Apec.
+------------------------------------------------------------
+
+![Jose Felix Valdivieso, columnista en EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/11/Jose-Felix-Valdivieso2.jpg)
+
+Las cosas del corazón no tienen agenda, pero las de la política sí. El 14 y 15 de noviembre el **Ecuador** será protagonista de la **política Latinoamericana**. Albergará en la ciudad de **Cuenca** la XXIX Cumbre Iberoamericana de **Jefes** de **Estado** y de **Gobierno**. No obstante, cierta borrasca se cierne sobre la **Cumbre cuencana** por motivos imposibles de soslayar: En el Perú tendrá lugar la **reunión** de la APEC desde el 10 de noviembre hasta el 16 del mismo mes.
+
+La **colisión** de **agendas** es evidente, tanto como la falta de **planificación**. De momento, la ministra de Relaciones Exteriores y Movilidad Humana, Gabriela Sommerfeld ha confirmado la asistencia de 9 presidentes, incluidos el Rey de España, Felipe VI, y el presidente Sánchez. No se nos puede escapar —aunque a algunos se les haya escapado la tortuga— que el año pasado, en la **Cumbre** de la **República Dominicana**, de los 22 miembros que la integran, acudieron hasta 14 **presidentes** o **primeros ministros**.
+
+Tampoco fue una buena idea el **asalto** a la **embajada mexicana** en **Quito** para apresar a Jorge Glas. La **presidenta mexicana**, Claudia Sheinbaum, será una ausencia notable, si bien la ministra Sommerfeld, ha expresado su **confianza** en que finalmente **México** envíe a una **representación**. Pero eso no es lo mismo a que venga la propia **presidenta Sheinbaum**, como cabeza de una de las potencias del **continente**.
+
+La **borrasca** se acentúa, porque en el vecino **Perú** estarán de **celebración**. El inicio de la novela _**Cumbres Borrascosas**_ yaintuía los problemas: «_He vuelto hace unos instantes de visitar a mi casero y ya se me figura que ese **solitario vecino** va a inquietarme por más de una causa_». No solo se inaugurará el megapuerto de Chancay en el Perú, que inevitablemente empañará el **protagonismo** del puerto de Guayaquil, sino que este será también inaugurado por el presidente Xi en el marco de una visita de estado, aparte de la APEC.
+
+Cuando Xi se moviliza, toda **China** viaja con él. Para entendernos, los **viajes** de los **presidentes chinos** hoy en día son como los viajes de los **presidentes americanos**. Hay todo un **ecosistema** que se mueve a su alrededor, que igualmente se desplaza en esos **viajes presidenciales**, y que es necesario comprender en toda su **dimensión**, para saber aprovecharlos al máximo. ¿Está **Ecuador** en ello?
+
+Pero no todo pueden ser **malas noticias**. En el camino de **preparación** de la **Cumbre Latinoamericana**, los 22 países **integrantes** de la misma han realizado una **declaración** esperanzadora. Han reforzado la **cooperación** en **ciencia** e **innovación**, promoviendo asimismo la IA en español y portugués.
+
+«El **desarrollo científico** es la única respuesta a los **problemas** que enfrentamos. No podemos delegar en otros esa **responsabilidad**» —ha señalado el [secretario general Iberoamericano, Andrés Allamand](https://www.segib.org/secretaria-general/andres-allamand-2/).
+
+Como se decía, la **política** es una **cuestión** de **agenda**, no entiende de otra cosa. Y no se puede permitir choques, ni solapamientos. En la segunda edición de _El continente olvidado_, Michael Reid señala que debe figurar en la **agenda latinoamericana** el romper el debate **histórico** entre el **libre mercado** sin restricciones y el **proteccionismo**, y el dejar de alimentar la **visión** del **poder** como un patrimonio personal.  «_Para llegar ahí se requiere un nuevo tipo de **política**: frente a la **polarización** y **confrontación** ofrecida por **populistas**_ — _y a veces por sus **oponentes**_—_, Latinoamérica necesita **construcción** de **consensos**, donde el estado, el sector privado y la **sociedad civil** trabajen juntos para fijar **metas** a medio plazo y responsabilicen al **gobierno** de su **cumplimiento**_».
+
+Aunque la **visión** de Reid en este libro es menos **optimista**, despeja un tanto la **borrasca** de las cumbres, añadiendo cierta **pausa** a todo, y para ello cita al **liberal** argentino Bautista Alberdi: «_Las **naciones**, como los hombres, no tienen alas; hacen sus viajes a pie, paso a paso_». ¡Que así sea la agenda!
 
 Fiscalía investiga ataque armado a Joselito Argüello, candidato a la Asamblea
 =============================================================================
@@ -758,113 +823,3 @@ En la segunda mitad, Deportivo Quito mantuvo la presión y fue más propositivo,
 Finalmente, el esfuerzo de la ‘AKD’ dio frutos a los 73 minutos, cuando J**osé Luis Rivera anotó el gol del empate** con un remate raso desde media distancia, imposible de atajar.
 
 Con este empate, Deportivo Quito llega al partido de vuelta con la oportunidad de cerrar la serie en casa y mantener vivo el sueño del ascenso a la Serie B.
-
-Evo Morales cumple su primer día de huelga de hambre
-====================================================
-
-Morales reclamó por la intervención policial y militar en la que fueron capturados 66 de sus simpatizantes.
------------------------------------------------------------------------------------------------------------
-
-![Un hombre se enfrenta con miembros de la Policía Militar Boliviana durante un bloqueo por simpatizantes del expresidente de Bolivia, Evo Morales, en Parotani (Bolivia). EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/Bolivia-1.jpg)
-
-##### Agencia EFE
-
-El **expresidente de Bolivia, Evo Morales**, (2006-2019) cumple este sábado 2 de noviembre de 2024 su primer día de **huelga de hambre.**
-
-Él repudió la intervención **policial y militar** que se ejecutó en la víspera en el principal punto de bloqueo de carreteras y la captura de 66 de sus seguidores, a quienes el Gobierno los investigará por “terrorismo”.
-
-El **Gobierno de Bolivia** ejecutó este viernes 1 de noviembre un **operativo policial y militar** para despejar la carretera en **Parotani**, en el centro del país, el punto principal de bloqueo de los leales a **Morales** que cumplían 19 días con la medida de presión.
-
-La acción de las fuerzas de seguridad logró la detención de **66 personas que bloqueaban la ruta,** de las cuales 56 fueron trasladadas hasta **La Pa**z, sede de Gobierno, para ser procesadas por el delito de terrorismo, informó **el ministro de Gobierno (Interior), Eduardo del Castillo**.
-
-### Más noticias
-
-* [Evo Morales denunció ataque armado en su contra](https://www.elcomercio.com/actualidad/mundo/evo-morales-ataque-armado-bolivia.html "Evo Morales denunció ataque armado en su contra")
-* [Bloqueos en defensa de Evo Morales obstruyen el paso de 300 camiones](https://www.elcomercio.com/actualidad/mundo/bloqueos-defensa-evo-morales-obstruyen-paso-300-camiones.html "Bloqueos en defensa de Evo Morales obstruyen el paso de 300 camiones ")
-
-Los reclamos por la detención de 66 simpatizantes
--------------------------------------------------
-
-“Semejante intervención policial y militar en Parotani, por tierra y por aire, por ambos lados (de la ruta) prácticamente toda esa carretera militarizada. El Gobierno tiene derecho a garantizar el libre tránsito, por supuesto, pero con semejante represión (es) una nueva provocación por parte del Gobierno”, dijo **Evo Morales a la radio Kawsachun Coca.**
-
-**Morales** fue entrevistado hoy en el auditorio de esa emisora cocalera, en el **Trópico de Cochabamba**, su bastión político y sindical, donde cumple su primer día de ayuno voluntario para forzar al Ejecutivo un diálogo en el cual se aborden sus demandas políticas y económicas.
-
-El exmandatario repudió la aprehensión de sus seguidores durante el operativo policial y militar y su traslado a La Paz, y comparó esta acción con las medidas que tomaba el expresidente Gonzalo Sánchez de Lozada (2002-2003) cuando **Morales era cocalero en el Trópico**.
-
-Un pedido de Evo Morales
-------------------------
-
-**Morales** pidió a sus seguidores que consideren hacer una pausa en los bloqueos para evitar “hechos de sangre” ante el avance del operativo policial y militar.
-
-Sin embargo, sus seguidores decidieron mantener la medida de presión y destacaron su decisión de iniciar una huelga de hambre ante lo que consideraron una “brutalidad del **Gobierno de Luis Arce**“.
-
-Los bloqueos de carreteras en el **Trópico de Cochabamba** que conecta con el oriente de Bolivia cumplen 20 días, así como las rutas hacia el sur del país.
-
-Mientras que la vía principal hacia el occidente fue totalmente liberada tras la intervención de las fuerzas de seguridad y militares en medio de enfrentamientos con gases lacrimógenos y dinamita.
-
-El **presidente Arce** dijo en la víspera que “no es posible ningún diálogo mientras se siga asfixiando la economía” y anunció que el desbloqueo en Parotani es “el primer paso” para seguir trabajando en la liberación de todas las carreteras que se mantienen cortadas.
-
-Los **seguidores de Morales** exigen con los bloqueos que se retiren los procesos judiciales contra su líder por trata de personas y estupro, se resuelvan los problemas económicos y también en defensa de la candidatura presidencial del político para los comicios de 2025.
-
-**Arce y Morales** están distanciados desde 2021 por diferencias en la administración del Estado que se profundizaron ante la necesidad de renovar la directiva nacional del **MAS** y elegir al candidato oficialista para las elecciones de 2025.
-
-En el Día contra la Impunidad de los crímenes a periodistas, familias claman justicia
-=====================================================================================
-
-La sociedad y los familiares de los periodistas asesinados anhelan conocer la verdad no solo para conseguir justicia sino para sentar precedentes
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-![En el memorial a los periodistas asesinados en Washington se inscribieron los nombres de Paúl, Javier y Efraín.](https://www.elcomercio.com/wp-content/uploads/2024/10/memorial.jpg)
-
-El **2 de noviembre** se declaró como el **Día internacional para poner fin a la impunidad de los crímenes contra periodistas en el mundo.** Esta conmemoración se realiza desde 2014, luego de que en una asamblea de las Naciones Unidas en 2013 se lo estableciera.
-
-### Más noticias
-
-* [Fiscalía presentó varias pruebas en los primeros días de audiencia del caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-presento-varias-pruebas-audiencia-caso-metastasis.html "Fiscalía presentó varias pruebas en los primeros días de audiencia del caso Metástasis")
-* [Caso Pamela Ati: Fiscalía tomó una decisión final](https://www.elcomercio.com/actualidad/seguridad/caso-pamela-ati-fiscalia-decision-final.html "Caso Pamela Ati: Fiscalía tomó una decisión final")
-* [Correísmo no logró censurar a Mónica Palencia](https://www.elcomercio.com/actualidad/politica/juicio-politico-monica-palencia-desarrolla-asamblea.html "Correísmo no logró censurar a Mónica Palencia")
-
-Nueve de cada 10 casos de asesinatos no se resuelven
-----------------------------------------------------
-
-Según la **Organización de las Naciones Unidas** para la Educación, la Ciencia y la Cultura (Unesco), entre 2006 y 2024, más de 1 700 periodistas fueron asesinados en el mundo.
-
-**Cerca de nueve de cada 10 casos** de estos asesinatos siguen sin resolverse judicialmente, según el Observatorio de Periodistas Asesinados, de la Unesco.
-
-La**s Naciones Unidas** recalcan que la **impunidad conduce a más asesinatos** y, a menudo, es un síntoma de la agudización del conflicto.
-
-Crimen de Paúl, Javier y Efraín sigue impune
---------------------------------------------
-
-En Ecuador, el **asesinato de Paúl Rivas, Javier Ortega y Efraín Segarra** se mantiene en la impunidad. Aún no se han establecido responsabilidades a ninguna persona ni por acciones ni por omisiones.
-
-**Ricardo Rivas**, vocero del colectivo Nos Faltan 3 y hermano del fotoperiodista Paúl Rivas, asesinado en Colombia por grupos guerrilleros junto a Javier Ortega y Efraín Segarra, señala que siguen a la espera de verdad y justicia.
-
-En mayo, las familias **recibieron las actas** que estaban clasificadas de las sesiones que mantuvo el Consejo en el momento del secuestro. Sin embargo, **las actas estaban mutiladas**.
-
-Por ello, ahora **las familias atraviesan** un proceso para conocer lo que no se les entregó y, sobre todo, para que se e**stablezcan responsabilidades.**
-
-Rivas señala que en marzo se cumplirán **siete años del asesinato** y aún no hay respuestas del Estado ecuatoriano. Ante la impunidad, **no existe en Ecuador un precedente** que permita detener la intimidación y, aún peor, los crímenes contra los periodistas.
-
-Ecuador necesita **establecer precedentes** que permitan cuidar a los periodistas, quienes transparentan lo que pasa en la sociedad y no permitir que más de ellos sean amedrentados y silenciados, añade Ricardo.
-
-> 📌 Pronunciamiento de las familias de Paúl Rivas, Javier Ortega y Efraín Segarra sobre el incumplimiento a la sentencia en la desclasificación de las actas del secuestro y posterior asesinato del equipo periodístico de [@elcomerciocom](https://twitter.com/elcomerciocom?ref_src=twsrc%5Etfw) [pic.twitter.com/5vL6rF2C5l](https://t.co/5vL6rF2C5l)
-> 
-> — Nos Faltan Tres (@nosfaltan3) [May 17, 2024](https://twitter.com/nosfaltan3/status/1791538423829844029?ref_src=twsrc%5Etfw)
-
-Hijas de Fernando Villavicencio esperan sanciones
--------------------------------------------------
-
-**Fernando Villavicencio**, periodista y candidato presidencial de Ecuador, **fue asesinado el 9 de agosto** de 2023. Villavicencio se encontraba en un **mitin político en Quito** cuando ocurrió el ataque.
-
-En este caso, la Fiscalía señaló a alias ‘Invisible’ como el que dio la orden desde la cárcel de Cotopaxi. Además, a tres personas más como cómplices y pidió una condena de 25 años.
-
-**Amanda y Tamia Villavicencio**, hijas del excandidato presidencial, publicaron en su cuenta de X la reacción a la sentencia. “Hoy dimos el primer **paso en la lucha por justicia** para nuestro padre, Fernando Villavicencio”, dijo.
-
-Y agregó: “No olvidamos a los autores **intelectuales, cómplices y omisiones del Estado**. Si permitimos la impunidad, **nadie en Ecuador estará a salvo**”.
-
-Fiscalía lleva dos investigaciones previas más para dar con los presuntos autores intelectuales y las posibles omisiones [relacionadas con el delito](https://es.wikipedia.org/wiki/Fernando_Villavicencio "https://es.wikipedia.org/wiki/Fernando_Villavicencio").
-
-> [#CasoVILLAVICENCIO](https://twitter.com/hashtag/CasoVILLAVICENCIO?src=hash&ref_src=twsrc%5Etfw) Hoy dimos el primer paso en la lucha por justicia para nuestro padre, Fernando Villavicencio. No olvidamos a los autores intelectuales, cómplices y omisiones del Estado. Si permitimos la impunidad, nadie en Ecuador estará a salvo. [#PorFernando](https://twitter.com/hashtag/PorFernando?src=hash&ref_src=twsrc%5Etfw) [#NadieSeCansa](https://twitter.com/hashtag/NadieSeCansa?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/65uH4WPJcr](https://t.co/65uH4WPJcr)
-> 
-> — Tamia Villavicencio (@TamiaVillavice1) [July 13, 2024](https://twitter.com/TamiaVillavice1/status/1811920208489033924?ref_src=twsrc%5Etfw)
