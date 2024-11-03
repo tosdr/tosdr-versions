@@ -82,31 +82,31 @@ BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e regi�
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/9/csm_ssp-realiza-operacao-em-casa-de-shows-no-jaragua-e-constata-irregularidades_56c5b6bcf2.jpeg)
+   [![PM apreende 26 armas de fogo e mais de 41kg de drogas em uma semana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/0/csm_pm-apreende-26-armas-de-fogo-e-mais-de-41kg-de-drogas-em-uma-semana_3158660567.jpg)
+
+Polícia
+
+PM apreende 26 armas de fogo e mais de 41kg de drogas em uma semana](https://www.tnh1.com.br/noticia/nid/pm-apreende-26-armas-de-fogo-e-mais-de-41kg-de-drogas-em-uma-semana/ "PM apreende 26 armas de fogo e mais de 41kg de drogas em uma semana")   [![Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/9/csm_ssp-realiza-operacao-em-casa-de-shows-no-jaragua-e-constata-irregularidades_56c5b6bcf2.jpeg)
 
 irregularidades
 
-Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://www.tnh1.com.br/noticia/nid/casa-de-shows-em-maceio-e-alvo-de-operacao-da-policia-e-donos-sao-levados-a-delegacia/ "Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia")   [![Sem dinheiro, homem é vítima de tiros em tentativa de assalto em bar no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/4/csm_campo_grande_alagoas_eadde23442.png)
+Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://www.tnh1.com.br/noticia/nid/casa-de-shows-em-maceio-e-alvo-de-operacao-da-policia-e-donos-sao-levados-a-delegacia/ "Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia")   [![Sem dinheiro, homem é vítima de tiros em tentativa de assalto em bar no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/4/csm_campo_grande_alagoas_eadde23442.png)
 
 Polícia
 
-Sem dinheiro, homem é vítima de tiros em tentativa de assalto em bar no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/sem-dinheiro-homem-e-vitima-de-tiros-em-tentativa-de-assalto-em-bar-no-interior-de-alagoas/ "Sem dinheiro, homem é vítima de tiros em tentativa de assalto em bar no interior de Alagoas")   [![Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/6/csm_policial-penal-sergipe-morte-alagoas-arquivo-pessoal_807100c4a0.jpg)
+Sem dinheiro, homem é vítima de tiros em tentativa de assalto em bar no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/sem-dinheiro-homem-e-vitima-de-tiros-em-tentativa-de-assalto-em-bar-no-interior-de-alagoas/ "Sem dinheiro, homem é vítima de tiros em tentativa de assalto em bar no interior de Alagoas")   [![Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/6/csm_policial-penal-sergipe-morte-alagoas-arquivo-pessoal_807100c4a0.jpg)
 
 30 anos
 
-Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policial-penal-de-sergipe-e-morto-a-tiros-apos-sofrer-atentado-no-interior-de-alagoas/ "Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas")   [![Homem é socorrido em estado grave após ser baleado na cabeça em União dos Palmares](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/4/csm_disparo-arma-fogo-reproducao_c16d2689dd.jpg)
+Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policial-penal-de-sergipe-e-morto-a-tiros-apos-sofrer-atentado-no-interior-de-alagoas/ "Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas")   [![Homem é socorrido em estado grave após ser baleado na cabeça em União dos Palmares](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/4/csm_disparo-arma-fogo-reproducao_c16d2689dd.jpg)
 
 No interior
 
-Homem é socorrido em estado grave após ser baleado na cabeça em União dos Palmares](https://www.tnh1.com.br/noticia/nid/homem-e-socorrido-em-estado-grave-apos-ser-baleado-na-cabeca-em-uniao-dos-palmares/ "Homem é socorrido em estado grave após ser baleado na cabeça em União dos Palmares")   [![Em dois dias, Polícia Militar apreende armas e drogas na capital e interior](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/1/csm_em-dois-dias-policia-militar-apreende-armas-e-drogas-na-capital-e-interior_496463dc4c.jpg)
+Homem é socorrido em estado grave após ser baleado na cabeça em União dos Palmares](https://www.tnh1.com.br/noticia/nid/homem-e-socorrido-em-estado-grave-apos-ser-baleado-na-cabeca-em-uniao-dos-palmares/ "Homem é socorrido em estado grave após ser baleado na cabeça em União dos Palmares")   [![Em dois dias, Polícia Militar apreende armas e drogas na capital e interior](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/1/csm_em-dois-dias-policia-militar-apreende-armas-e-drogas-na-capital-e-interior_496463dc4c.jpg)
 
 Polícia
 
-Em dois dias, Polícia Militar apreende armas e drogas na capital e interior](https://www.tnh1.com.br/noticia/nid/em-dois-dias-policia-militar-apreende-armas-e-drogas-na-capital-e-interior/ "Em dois dias, Polícia Militar apreende armas e drogas na capital e interior")   [![Vídeos: veja como foi simulação de assalto à loja com reféns no Centro de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/c/csm_Simulo_CATE_3110_DCS_PMAL_15_756fc02df6.jpg)
-
-polícia militar
-
-Vídeos: veja como foi simulação de assalto à loja com reféns no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/videos-veja-como-foi-simulacao-de-assalto-a-loja-com-refens-no-centro-de-maceio/ "Vídeos: veja como foi simulação de assalto à loja com reféns no Centro de Maceió")
+Em dois dias, Polícia Militar apreende armas e drogas na capital e interior](https://www.tnh1.com.br/noticia/nid/em-dois-dias-policia-militar-apreende-armas-e-drogas-na-capital-e-interior/ "Em dois dias, Polícia Militar apreende armas e drogas na capital e interior")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -115,6 +115,16 @@ Vídeos: veja como foi simulação de assalto à loja com reféns no Centro de M
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
+
+Últimas de Pessoas&Negócios
+
+[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
+
+   [![Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/b/csm_Noah_Verde_234e420532.jpeg)
+
+Pessoas & Negócios
+
+Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](https://www.tnh1.com.br/noticia/nid/noah-verde-gerente-executiva-de-marketing-do-sesi-senai-faz-aniversario/ "Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -188,15 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/6/csm_policial-penal-sergipe-morte-alagoas-arquivo-pessoal_08bd7b2227.jpg)
-
-30 anos
-
-30 anos
-
-Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas
-
-Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policial-penal-de-sergipe-e-morto-a-tiros-apos-sofrer-atentado-no-interior-de-alagoas/ "Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas")[![Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/9/csm_ssp-realiza-operacao-em-casa-de-shows-no-jaragua-e-constata-irregularidades_37a21d41fd.jpeg)
+[![Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/9/csm_ssp-realiza-operacao-em-casa-de-shows-no-jaragua-e-constata-irregularidades_37a21d41fd.jpeg)
 
 irregularidades
 
@@ -204,7 +206,15 @@ irregularidades
 
 Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia
 
-Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://www.tnh1.com.br/noticia/nid/casa-de-shows-em-maceio-e-alvo-de-operacao-da-policia-e-donos-sao-levados-a-delegacia/ "Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia")[![Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/b/csm_sabrina-gomes-sindrome-de-cushing-reproducao_7a72cca2b4.jpg)
+Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://www.tnh1.com.br/noticia/nid/casa-de-shows-em-maceio-e-alvo-de-operacao-da-policia-e-donos-sao-levados-a-delegacia/ "Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia")[![Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/6/csm_policial-penal-sergipe-morte-alagoas-arquivo-pessoal_08bd7b2227.jpg)
+
+30 anos
+
+30 anos
+
+Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas
+
+Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policial-penal-de-sergipe-e-morto-a-tiros-apos-sofrer-atentado-no-interior-de-alagoas/ "Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas")[![Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/b/csm_sabrina-gomes-sindrome-de-cushing-reproducao_7a72cca2b4.jpg)
 
 24 anos
 
@@ -212,7 +222,7 @@ Casa de shows em Maceió é alvo de operação da polícia e donos são levados 
 
 Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio
 
-Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio](https://www.tnh1.com.br/noticia/nid/jovem-com-tumor-raro-que-levou-a-mudanca-na-cor-de-pele-tenta-obter-remedio/ "Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio")[![Jornalista diz o que motivou a queda de Liam Payne e surpreende](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/e/csm_liam-payne-reproducao-redes-sociais__1__5b3526ed72.jpg)
+Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio](https://www.tnh1.com.br/noticia/nid/jovem-com-tumor-raro-que-levou-a-mudanca-na-cor-de-pele-tenta-obter-remedio/ "Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio")[![Jornalista diz o que motivou a queda de Liam Payne e surpreende](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/e/csm_liam-payne-reproducao-redes-sociais__1__5b3526ed72.jpg)
 
 caiu de prédio
 
@@ -222,7 +232,23 @@ Jornalista diz o que motivou a queda de Liam Payne e surpreende
 
 Jornalista diz o que motivou a queda de Liam Payne e surpreende](https://www.tnh1.com.br/noticia/nid/jornalista-diz-o-que-motivou-a-queda-de-liam-payne-e-surpreende/ "Jornalista diz o que motivou a queda de Liam Payne e surpreende")
 
-[![Chuva põe São Paulo em estado de atenção; 60 mil estão sem energia na cidade](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/0/csm_chuva_sp_agencia_3069336608.png)
+[![PM apreende 26 armas de fogo e mais de 41kg de drogas em uma semana](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/0/csm_pm-apreende-26-armas-de-fogo-e-mais-de-41kg-de-drogas-em-uma-semana_f2f7ff5af8.jpg)
+
+Polícia
+
+Polícia
+
+PM apreende 26 armas de fogo e mais de 41kg de drogas em uma semana
+
+PM apreende 26 armas de fogo e mais de 41kg de drogas em uma semana](https://www.tnh1.com.br/noticia/nid/pm-apreende-26-armas-de-fogo-e-mais-de-41kg-de-drogas-em-uma-semana/ "PM apreende 26 armas de fogo e mais de 41kg de drogas em uma semana")[![Mais de 4,3 milhões de candidatos participam hoje do Enem 2024](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/f/csm_Enem_AB_2d210fe4df.jpg)
+
+Educação
+
+Educação
+
+Mais de 4,3 milhões de candidatos participam hoje do Enem 2024
+
+Mais de 4,3 milhões de candidatos participam hoje do Enem 2024](https://www.tnh1.com.br/noticia/nid/mais-de-43-milhoes-de-candidatos-participam-hoje-do-enem-2024/ "Mais de 4,3 milhões de candidatos participam hoje do Enem 2024")[![Chuva põe São Paulo em estado de atenção; 60 mil estão sem energia na cidade](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/0/csm_chuva_sp_agencia_3069336608.png)
 
 Brasil
 
@@ -238,23 +264,7 @@ Mundo
 
 EUA chegam a eleição sob desânimo recorde com a economia
 
-EUA chegam a eleição sob desânimo recorde com a economia](https://www.tnh1.com.br/noticia/nid/eua-chegam-a-eleicao-sob-desanimo-recorde-com-a-economia/ "EUA chegam a eleição sob desânimo recorde com a economia")[![Lula visitará sala de monitoramento do Enem neste domingo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/1/csm_Lula_enem_1a10fe54b5.png)
-
-Educação
-
-Educação
-
-Lula visitará sala de monitoramento do Enem neste domingo
-
-Lula visitará sala de monitoramento do Enem neste domingo](https://www.tnh1.com.br/noticia/nid/lula-visitara-sala-de-monitoramento-do-enem-neste-domingo/ "Lula visitará sala de monitoramento do Enem neste domingo")[![Bancos devolveram ao INSS quase R$ 8 bi em benefícios não sacados](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_previdencia-inss-agencia-brasil__1__9dc6e6fc09.jpg)
-
-Economia
-
-Economia
-
-Bancos devolveram ao INSS quase R$ 8 bi em benefícios não sacados
-
-Bancos devolveram ao INSS quase R$ 8 bi em benefícios não sacados](https://www.tnh1.com.br/noticia/nid/bancos-devolveram-ao-inss-quase-r-8-bi-em-beneficios-nao-sacados/ "Bancos devolveram ao INSS quase R$ 8 bi em benefícios não sacados")
+EUA chegam a eleição sob desânimo recorde com a economia](https://www.tnh1.com.br/noticia/nid/eua-chegam-a-eleicao-sob-desanimo-recorde-com-a-economia/ "EUA chegam a eleição sob desânimo recorde com a economia")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
