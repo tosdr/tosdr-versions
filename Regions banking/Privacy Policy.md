@@ -348,11 +348,11 @@ Related Insights
 
 [How to get more out of your bank’s app](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/maximize-your-mobile-phone-phone-for-smart-financial-planning)
 
-[Easy Money Management](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/easy-money-management-with-or-without-a-checking-account)
-
-[Checking Account Alternatives](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/checking-account--alternatives)
-
 [4 Factors to Opening a Checking Account for Teens](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/should-your-teen-have-a-student-checking-account)
+
+[5 checking account mistakes to avoid](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/checking-account-mistakes)
+
+[4 Tips for Choosing a Checking Account](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/opening-a-checking-account)
 
 [See All Insights](https://www.regions.com/Insights/InsightsLibrary)
 
