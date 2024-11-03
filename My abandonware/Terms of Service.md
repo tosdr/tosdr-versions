@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [ActRaiser](https://www.myabandonware.com/game/actraiser-b9t)
+* [Air Buster](https://www.myabandonware.com/game/air-buster-8ho)
+* [BlaZeon](https://www.myabandonware.com/game/blazeon-b9l)
 * [Kabi-Island](https://www.myabandonware.com/game/kabi-island-t69)
 * [Block Buster](https://www.myabandonware.com/game/block-buster-t68)
-* [Juggler](https://www.myabandonware.com/game/juggler-t67)
-* [Balloon Fight](https://www.myabandonware.com/game/balloon-fight-t66)
-* [Journey to the West](https://www.myabandonware.com/game/journey-to-the-west-t65)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
