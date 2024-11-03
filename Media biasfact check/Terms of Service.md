@@ -73,11 +73,11 @@
 
 MBFC News
 
+* [November 3, 2024 | MBFC’s Daily Vetted Fact Checks for 11/03/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/03/mbfcs-daily-vetted-fact-checks-for-11-03-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/03/2024 (Weekend Edition)")
 * [November 2, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of Oct 27th – Nov 2nd](https://mediabiasfactcheck.com/2024/11/02/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-oct-27th-nov-2nd/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of Oct 27th – Nov 2nd")
 * [November 2, 2024 | MBFC’s Daily Vetted Fact Checks for 11/02/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/02/mbfcs-daily-vetted-fact-checks-for-11-02-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/02/2024 (Weekend Edition)")
 * [November 1, 2024 | Media News Daily: Top Stories for 11/01/2024](https://mediabiasfactcheck.com/2024/11/01/media-news-daily-top-stories-for-11-01-2024/ "Media News Daily: Top Stories for 11/01/2024")
 * [November 1, 2024 | MBFC’s Daily Vetted Fact Checks for 11/01/2024](https://mediabiasfactcheck.com/2024/11/01/mbfcs-daily-vetted-fact-checks-for-11-01-2024/ "MBFC’s Daily Vetted Fact Checks for 11/01/2024")
-* [October 31, 2024 | Media News Daily: Top Stories for 10/31/2024](https://mediabiasfactcheck.com/2024/10/31/media-news-daily-top-stories-for-10-31-2024/ "Media News Daily: Top Stories for 10/31/2024")
 
 Search for:  
 
@@ -153,6 +153,14 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [Rochdale Online – Bias and Credibility](https://mediabiasfactcheck.com/rochdale-online-bias-and-credibility/)
+    
+    November 3, 2024
+    
+* [North Delco News – Bias and Credibility](https://mediabiasfactcheck.com/north-delco-news-bias/)
+    
+    November 3, 2024
+    
 * [Samnytt – Bias and Credibility](https://mediabiasfactcheck.com/samnytt-bias-and-credibility/)
     
     November 2, 2024
@@ -177,36 +185,28 @@ No related posts.
     
     November 2, 2024
     
-* [The Morning News – Bias and Credibility](https://mediabiasfactcheck.com/the-morning-news-bias-and-credibility/)
-    
-    November 1, 2024
-    
-* [Samtiden – Bias and Credibility](https://mediabiasfactcheck.com/samtiden-bias-and-credibility/)
-    
-    November 1, 2024
-    
 
 #### Recently Updated Pages
 
-* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - November 2, 2024
+* [Electoral College Map 2024 – Harris vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/ "View Electoral College Map 2024 – Harris vs. Trump") - November 3, 2024
+    
+* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - November 3, 2024
+    
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 3, 2024
+    
+* [Rochdale Online – Bias and Credibility](https://mediabiasfactcheck.com/rochdale-online-bias-and-credibility/ "View Rochdale Online – Bias and Credibility") - November 3, 2024
+    
+* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - November 3, 2024
+    
+* [North Delco News – Bias and Credibility](https://mediabiasfactcheck.com/north-delco-news-bias/ "View North Delco News – Bias and Credibility") - November 3, 2024
     
 * [Samnytt – Bias and Credibility](https://mediabiasfactcheck.com/samnytt-bias-and-credibility/ "View Samnytt – Bias and Credibility") - November 2, 2024
     
 * [Credible Pollsters Used By MBFC](https://mediabiasfactcheck.com/credible-pollsters-used-by-mbfc/ "View Credible Pollsters Used By MBFC") - November 2, 2024
     
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 2, 2024
-    
 * [Pan Atlantic Research – Bias and Credibility](https://mediabiasfactcheck.com/pan-atlantic-research-bias-and-credibility/ "View Pan Atlantic Research – Bias and Credibility") - November 2, 2024
     
 * [AV Club – Bias and Credibility](https://mediabiasfactcheck.com/av-club/ "View AV Club – Bias and Credibility") - November 2, 2024
-    
-* [Jezebel – Bias and Credibility](https://mediabiasfactcheck.com/jezebel/ "View Jezebel – Bias and Credibility") - November 2, 2024
-    
-* [Left Bias](https://mediabiasfactcheck.com/left/ "View Left Bias") - November 2, 2024
-    
-* [Splinter – Bias and Credibility](https://mediabiasfactcheck.com/splinter/ "View Splinter – Bias and Credibility") - November 2, 2024
-    
-* [Syrian Arab News Agency (SANA) – Bias and Credibility](https://mediabiasfactcheck.com/syrian-arab-news-agency-sana-bias-and-credibility/ "View Syrian Arab News Agency (SANA) – Bias and Credibility") - November 2, 2024
     
 
 #### Today’s Top Page Views
@@ -216,11 +216,11 @@ No related posts.
 * [Emerson College Polling - Bias and Credibility](https://mediabiasfactcheck.com/emerson-college-polling-bias-and-credibility/)
 * [Marist Poll - Bias and Credibility](https://mediabiasfactcheck.com/marist-poll-bias-and-credibility/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
-* [MBFC's Daily Vetted Fact Checks for 11/02/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/02/mbfcs-daily-vetted-fact-checks-for-11-02-2024-weekend-edition/)
 * [Electoral College Map 2024 - Harris vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
+* [MBFC's Daily Vetted Fact Checks for 11/02/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/02/mbfcs-daily-vetted-fact-checks-for-11-02-2024-weekend-edition/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [Echelon Insights - Bias and Credibility](https://mediabiasfactcheck.com/echelon-insights-bias-and-credibility/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
+* [The Des Moines Register - Bias and Credibility](https://mediabiasfactcheck.com/the-des-moines-register/)
 
 #### Subscribe via Email
 
