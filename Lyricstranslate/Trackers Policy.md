@@ -137,11 +137,25 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![florazina](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1420537-1713978583.jpg)](https://lyricstranslate.com/en/translator/florazina "florazina")
+[![fatix](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1590177-1721597011.png)](https://lyricstranslate.com/en/translator/fatix "fatix")
+
+New comment
+
+the lyrics are updated as a result of my request ...  [more](https://lyricstranslate.com/en/comment/1173857#comment-1173857)
+
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+
+New translation
+
+[Alberto Rabagliati - Lascia cantare il cuore](https://lyricstranslate.com/en/alberto-rabagliati-lascia-cantare-il-cuore-spanish)
+
+Italian → Spanish
+
+[![Matthew Bofenkamp](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1275342-1660789961.png)](https://lyricstranslate.com/en/translator/matthew-bofenkamp "Matthew Bofenkamp")
 
 New song
 
-[Zetra - Satellite](https://lyricstranslate.com/en/zetra-satellite-lyrics)
+[Stacy Kamatu - Coka Mucie](https://lyricstranslate.com/en/stacy-kamatu-coka-mucie-lyrics)
 
 English
 
@@ -149,57 +163,41 @@ English
 
 New translation
 
-[Caterina Valente - Personalità](https://lyricstranslate.com/en/caterina-valente-personalita-english)
+[Alberto Rabagliati - Lascia cantare il cuore](https://lyricstranslate.com/en/alberto-rabagliati-lascia-cantare-il-cuore-english)
 
 Italian → English
 
-[![MickG](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1435159-1570457783.jpg)](https://lyricstranslate.com/en/translator/mickg "MickG")
-
-New request
-
-[Koji Tamaki - 終わらない夏 (Owaranai natsu)](https://lyricstranslate.com/en/request/%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E5%A4%8F)
-
-Japanese → English
-
-[![MickG](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1435159-1570457783.jpg)](https://lyricstranslate.com/en/translator/mickg "MickG")
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
 
 New song
 
-[Koji Tamaki - 終わらない夏](https://lyricstranslate.com/en/koji-tamaki-owaranai-natsu-lyrics)
+[Alberto Rabagliati - Lascia cantare il cuore](https://lyricstranslate.com/en/alberto-rabagliati-lascia-cantare-il-cuore-lyrics)
 
-Japanese
+Italian
 
-[![Ferris.tho](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1412962-1721167552.jpg)](https://lyricstranslate.com/en/translator/ferristho "Ferris.tho")
-
-New translation
-
-[Bar Tzabary - ג'וני (Johnny)](https://lyricstranslate.com/en/bar-tzabary-johnny-arabic)
-
-Hebrew → Arabic
-
-[![julietarab](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1050123-1706250255.jpg)](https://lyricstranslate.com/en/translator/julietarab "julietarab")
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
 
 New song
 
-[The Clancy Brothers and Tommy Makem - Courtin’ in the Kitchen (Hearty and Hellish Version)](https://lyricstranslate.com/en/clancy-brothers-and-t-courtin-kitchen-lyrics)
+[Karin Park - Shine](https://lyricstranslate.com/en/karin-park-shine-lyrics)
 
 English
 
-[![novo_balanco](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1611343-1730054811.jpg)](https://lyricstranslate.com/en/translator/novobalanco "novo_balanco")
-
-New request
-
-[Marie Laforêt - L'Air Que Tu Jouais Pour Moi](https://lyricstranslate.com/en/request/lair-que-tu-jouais-pour-moi)
-
-French → English
-
-[![Don Juan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110108-1727386627.png)](https://lyricstranslate.com/en/translator/don-juan "Don Juan")
+[![floraamy](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/floraamy "floraamy")
 
 New translation
 
-[Mina - Buttalo Via](https://lyricstranslate.com/en/mina-buttalo-english)
+[BABYMONSTER - CLIK CLAK](https://lyricstranslate.com/en/babymonster-clik-clak-turkish-0)
 
-Italian → English
+English → Turkish
+
+[![floraamy](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/floraamy "floraamy")
+
+New translation
+
+[Rosé - APT.](https://lyricstranslate.com/en/rose-apt-turkish-3)
+
+English → Turkish
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
