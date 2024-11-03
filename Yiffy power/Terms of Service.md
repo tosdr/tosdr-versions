@@ -1,5 +1,3 @@
-🎃 HALLOWEEN DEAL : 15% OFF for your first month with the code "KINKTOBER"
-
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20260'%3E%3C/svg%3E)
 
 ![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20260'%3E%3C/svg%3E)
@@ -107,23 +105,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 487 1
+0 497 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/judy-hopps-directed-by-promagentis/)
+[](https://yiff-party.com/yiff/64216/)
 
-[judy hopps directed by promagentis](https://yiff-party.com/yiff-ai-premium/judy-hopps-directed-by-promagentis/)
+[#64216](https://yiff-party.com/yiff/64216/)
 
-0 49 0
+0 188 0
 
 October 4, 2024
 
-[](https://yiff-party.com/yiff/nintendo-and-etc-created-by-masik00masik/)
+[](https://yiff-party.com/yiff/jaden-yuki-universal-studios-and-etc-created-by-interxpecial/)
 
-[nintendo and etc created by masik00masik](https://yiff-party.com/yiff/nintendo-and-etc-created-by-masik00masik/)
+[jaden yuki (universal studios and etc) created by interxpecial](https://yiff-party.com/yiff/jaden-yuki-universal-studios-and-etc-created-by-interxpecial/)
 
-0 2 0
+0 4 0
 
 November 3, 2024
 
