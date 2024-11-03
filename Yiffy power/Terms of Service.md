@@ -105,23 +105,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 497 1
+0 506 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/64216/)
+[](https://yiff-party.com/yiff/ethan-itakiso-and-katie-kinktober-created-by-roof-legs/)
 
-[#64216](https://yiff-party.com/yiff/64216/)
+[ethan, itakiso, and katie (kinktober) created by roof legs](https://yiff-party.com/yiff/ethan-itakiso-and-katie-kinktober-created-by-roof-legs/)
 
-0 188 0
+0 75 0
 
 October 4, 2024
 
-[](https://yiff-party.com/yiff/jaden-yuki-universal-studios-and-etc-created-by-interxpecial/)
+[](https://yiff-party.com/yiff/julia-caernarvon-and-lucas-arynn-nintendo-and-etc-created-by-roly/)
 
-[jaden yuki (universal studios and etc) created by interxpecial](https://yiff-party.com/yiff/jaden-yuki-universal-studios-and-etc-created-by-interxpecial/)
+[julia caernarvon and lucas arynn (nintendo and etc) created by roly](https://yiff-party.com/yiff/julia-caernarvon-and-lucas-arynn-nintendo-and-etc-created-by-roly/)
 
-0 4 0
+0 2 0
 
 November 3, 2024
 
