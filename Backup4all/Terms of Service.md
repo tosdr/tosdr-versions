@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to generate a self signed certificate](https://www.backup4all.com/how-to-generate-a-self-signed-certificate-kb.html)  
+* [How to back up data files from dinCloud using ...](https://www.backup4all.com/how-to-back-up-data-files-from-dincloud-using-backup4all-kb.html)  
     
-* [Automatically run a backup when the USB drive ...](https://www.backup4all.com/configuring-a-backup-to-run-automatically-when-the-usb-drive-is-plugged-in-kb.html)  
+* [How to back up data files from Mandic using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-mandic-using-backup4all-kb.html)  
     
-* [How to restore a backup to Google Cloud Stora ...](https://www.backup4all.com/how-to-restore-a-backup-to-google-cloud-storage-kb.html)  
+* [What are Backup operators?](https://www.backup4all.com/what-are-backup-operators-kb.html)  
     
-* [Why the mirror files are not deleted from des ...](https://www.backup4all.com/why-the-mirror-files-are-not-deleted-from-destination-kb.html)  
+* [How to Backup to SFTP?](https://www.backup4all.com/how-to-backup-to-sftp-kb.html)  
     
-* [How to back up data files from LeoNovus using ...](https://www.backup4all.com/how-to-back-up-data-files-from-leonovus-using-backup4all-kb.html)  
+* [How to schedule multiple backup jobs at once](https://www.backup4all.com/how-to-schedule-multiple-backup-jobs-at-once-kb.html)  
     
 
 Choose language:
