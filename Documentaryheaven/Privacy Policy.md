@@ -128,39 +128,39 @@ Advertisement
     Diary of a Porn Virgin
     
     Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
-* [![No-Go Zones: Seven Mile Road, Detroit, USA](/wp-content/thumbnails/16527-100x70.jpg?x53432)
+* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
     
-    No-Go Zones: Seven Mile Road, Detroit, USA
+    Louis Theroux: Drinking To Oblivion
     
-    Seven Mile Road located in Detroit is one of the most dangerous no-go zones in the United States. Those who live or dare to come here to visit are literally playing with their lives. It is a territor...](https://documentaryheaven.com/no-go-zones-seven-mile-road/ "No-Go Zones: Seven Mile Road, Detroit, USA")
+    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 
 ###### Throwback Documentaries
 
-* [![The Great Famine](/wp-content/thumbnails/8866-100x70.jpg?x53432)
+* [![Phil Ochs: There but for Fortune](/wp-content/thumbnails/6805-100x70.jpg?x53432)
     
-    The Great Famine
+    Phil Ochs: There but for Fortune
     
-    The Great Famine was a period of mass starvation, disease and emigration in Ireland between 1845 and 1852. It is sometimes referred to, mostly outside Ireland, as the Irish Potato Famine because one-t](https://documentaryheaven.com/great-famine/ "The Great Famine")
-* [![Ground Zero: Syria](/wp-content/thumbnails/6864-100x70.jpg?x53432)
+    As the United States continues to embroil itself in foreign wars, Phil Ochs: There But For Fortune is a timely and relevant tribute to an unlikely American hero. Over the course of a meteoric music ca](https://documentaryheaven.com/phil-ochs-there-but-for-fortune/ "Phil Ochs: There but for Fortune")
+* [![Ancient Aliens Debunked](/wp-content/thumbnails/6744-100x70.jpg?x53432)
     
-    Ground Zero: Syria
+    Ancient Aliens Debunked
     
-    Ground Zero: Syria is a compiled photojournalist and videographer Robert King’s footage into a series of raw, largely unedited vignettes that present a snapshot of the ancient city as it crumbles and](https://documentaryheaven.com/ground-zero-syria/ "Ground Zero: Syria")
-* [![Kim Dotcom: Caught in the Web](/wp-content/thumbnails/16611-100x70.jpg?x53432)
+    Ancient Aliens Debunked is a 3 hour refutation of the theories proposed on the History Channel series Ancient Aliens. It is essentially a point by point critique of the "ancient astronaut theory" whic](https://documentaryheaven.com/ancient-aliens-debunked/ "Ancient Aliens Debunked")
+* [![Punk In Drublic](/wp-content/thumbnails/16644-100x70.jpg?x53432)
     
-    Kim Dotcom: Caught in the Web
+    Punk In Drublic
     
-    In 2012, the filesharing site MegaUpload is taken offline, its owners accused of massive internet piracy. In 2016 the independent filmmakers of this documentary finally managed to secure an interview](https://documentaryheaven.com/kim-dotcom-caught-in-web/ "Kim Dotcom: Caught in the Web")
-* [![World’s Scariest Ghosts Caught on Tape](/wp-content/thumbnails/3242-100x70.jpg?x53432)
+    Punk in Drublic is a music festival that was designed by NOFX frontman Fat Mike. He combined craft beer and the punk scene heavyweights NOFX, Bad Religion, Pennywise, Rancid, The Offspring, Descenden](https://documentaryheaven.com/punk-in-drublic/ "Punk In Drublic")
+* [![The Fall of Milosevic](/wp-content/thumbnails/13994-100x70.jpg?x53432)
     
-    World’s Scariest Ghosts Caught on Tape
+    The Fall of Milosevic
     
-    Everyone has heard ghost stories, but what if those stories were true?Hosted by James Coburn, this show investigates some modern ghost tales in which possible evidence of the supernatural has show](https://documentaryheaven.com/world%e2%80%99s-scariest-ghosts-caught-on-tape/ "World’s Scariest Ghosts Caught on Tape")
-* [![Rungs in a Ladder: Jacob Bannon](/wp-content/thumbnails/6910-100x70.jpg?x53432)
+    Slobodan Milošević, former president of Yugoslavia and Serbia was the first head of state to be tried by an international court for war crimes and genocide. Milosevic had driven whole communities from](https://documentaryheaven.com/fall-of-milosevic/ "The Fall of Milosevic")
+* [![The Prime Minister and the Press](/wp-content/thumbnails/1846-100x70.jpg?x53432)
     
-    Rungs in a Ladder: Jacob Bannon
+    The Prime Minister and the Press
     
-    "Rungs in a Ladder" is the latest short form documentary by production team McFarland and Pecci. A meditation on life, art, and purpose, the film centers on Jacob Bannon, an accomplished visual artist](https://documentaryheaven.com/rungs-in-a-ladder-jacob-bannon/ "Rungs in a Ladder: Jacob Bannon")
+    Media watchdog Reporters Without Borders recently ranked Italy at the bottom of the list for countries in the European Union on its press freedom index. Prime Minister Silvio Berlusconi is not only I](https://documentaryheaven.com/the-prime-minister-and-the-press/ "The Prime Minister and the Press")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
