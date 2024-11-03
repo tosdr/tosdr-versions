@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/gevaarlijk-vlees/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/de-kosmos-verandert-ons-zo-boven-zo-beneden/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
