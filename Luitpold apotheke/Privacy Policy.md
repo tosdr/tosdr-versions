@@ -349,25 +349,25 @@ Mo-Fr 8:00 - 17:00
 
 Klick des Tages
 
-[PHYSIOGEL® DMT Creme - normale bis trockene Haut 75ml](https://www.medikamente-per-klick.de/product?artnr=04359092&simpleContentAttachmentId=14183&wochenklick)  
+[Grippostad C Stickpack bei Erkältung 12Stk](https://www.medikamente-per-klick.de/product?artnr=09671871&simpleContentAttachmentId=14183&wochenklick)  
 **Sonderangebot**  
-[![Jetzt 10% extra sparen mit Gutschein Code: gaviscon10](/images/products/medikamenteperklick/mittel/04359092_m.jpg "Jetzt 10% extra sparen mit Gutschein Code: gaviscon10")](https://www.medikamente-per-klick.de/product?artnr=04359092&simpleContentAttachmentId=14183&wochenklick)
+[![Sonderangebot](/images/products/medikamenteperklick/mittel/09671871_m.jpg "Sonderangebot")](https://www.medikamente-per-klick.de/product?artnr=09671871&simpleContentAttachmentId=14183&wochenklick)
 
-UVP2:
+VK1:
 
-13,90 €\*
+16,37 €\*
 
 Ihr Preis:
 
-10,23 €\*
+9,18 €\*
 
 Sie sparen:
 
-3,67 € \-26%
+7,19 € \-44%
 
-2024-11-04 12:00:00
+2024-11-10 20:00:00
 
-[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=04359092&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
+[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=09671871&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
 
 layoutStyle2
 
@@ -662,4 +662,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=xbfecqmcsdwpycjyghfmxddawejqdirs&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=qmralerfvwoxtaoznmmkcmieqtdmyoxk&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
