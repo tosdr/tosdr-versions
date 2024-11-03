@@ -1,6 +1,6 @@
- [### ![](/images/promobar/goal-red.svg) From Zero to Cybersecurity Analyst
+ [### ![](/images/promobar/book-green.svg) Coursera Cuts Jobs Despite $100M Revenue Milestone
 
-View](https://www.classcentral.com/report/google-cybersecurity-certificate-launch-your-career/)
+View](https://www.classcentral.com/report/cousera-layoffs-2024/)
 
 Close
 
@@ -414,11 +414,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. digital marketing
+1. c
     
-2. javascript
+2. sql
     
-3. harvard
+3. graphic design
     
 
 Popular subjects
