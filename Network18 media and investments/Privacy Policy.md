@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Sun, Nov 03, 2024
+Mon, Nov 04, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Singham Again Review](https://www.news18.com/movies/singham-again-review-rohit-shetty-deserves-brownie-points-for-ambition-ajay-devgn-leaves-you-wanting-for-more-9106060.html)
-    * [Bhool Bhulaiyaa 3 Review](https://www.news18.com/movies/bhool-bhulaiyaa-3-review-kartik-aaryan-vidya-balan-and-madhuri-dixits-star-power-cant-save-this-lackluster-film-9106040.html)
-    * [India vs NZ](https://www.news18.com/cricket/ind-vs-nz-live-score-3rd-test-day-3-india-national-cricket-team-vs-new-zealand-national-cricket-team-commentary-streaming-scorecard-mumbai-wankhede-liveblog-9107448.html)
-    * [India-Canada Ties](https://www.news18.com/world/canadian-strategy-to-attack-mea-on-india-being-named-as-cyber-adversary-9107483.html)
-    * [US Elections](https://www.news18.com/elections/us-election/)
-    * [West Asia Tensions](https://www.news18.com/world/hezbollah-commander-jaafar-khader-faour-responsible-for-rocket-attack-on-children-killed-in-lebanon-israel-latest-news-9107574.html)
+    * [US Presidential Election](https://www.news18.com/world/donald-trump-leads-harris-in-every-swing-state-us-election-2024-republican-democratic-9107951.html)
+    * [WTC Points Table](https://www.news18.com/cricket/how-can-india-qualify-for-wtc-2025-final-after-losing-3rd-test-against-new-zealand-9107708.html)
+    * [NTPC Green Energy IPO](https://www.news18.com/business/ipo/ntpc-green-energy-ipo-opening-date-size-price-all-you-need-to-know-9107634.html)
+    * [Amitabh Bachchan](https://www.news18.com/movies/amitabh-bachchans-old-tweets-on-aishwarya-rais-birthday-viral-as-bachchans-skip-wishing-her-feel-good-9107655.html)
+    * [Kartik Aaryan](https://www.news18.com/movies/bhool-bhulaiyaa-3-star-kartik-aaryan-opens-up-about-his-girlfriend-her-name-is-9107719.html)
+    * [Maharashtra Elections](https://www.news18.com/elections/assembly/maharashtra/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -169,12 +169,12 @@ Follow us on
 
 In Trends:
 
-* [Singham Again Review](https://www.news18.com/movies/singham-again-review-rohit-shetty-deserves-brownie-points-for-ambition-ajay-devgn-leaves-you-wanting-for-more-9106060.html)
-* [Bhool Bhulaiyaa 3 Review](https://www.news18.com/movies/bhool-bhulaiyaa-3-review-kartik-aaryan-vidya-balan-and-madhuri-dixits-star-power-cant-save-this-lackluster-film-9106040.html)
-* [India vs NZ](https://www.news18.com/cricket/ind-vs-nz-live-score-3rd-test-day-3-india-national-cricket-team-vs-new-zealand-national-cricket-team-commentary-streaming-scorecard-mumbai-wankhede-liveblog-9107448.html)
-* [India-Canada Ties](https://www.news18.com/world/canadian-strategy-to-attack-mea-on-india-being-named-as-cyber-adversary-9107483.html)
-* [US Elections](https://www.news18.com/elections/us-election/)
-* [West Asia Tensions](https://www.news18.com/world/hezbollah-commander-jaafar-khader-faour-responsible-for-rocket-attack-on-children-killed-in-lebanon-israel-latest-news-9107574.html)
+* [US Presidential Election](https://www.news18.com/world/donald-trump-leads-harris-in-every-swing-state-us-election-2024-republican-democratic-9107951.html)
+* [WTC Points Table](https://www.news18.com/cricket/how-can-india-qualify-for-wtc-2025-final-after-losing-3rd-test-against-new-zealand-9107708.html)
+* [NTPC Green Energy IPO](https://www.news18.com/business/ipo/ntpc-green-energy-ipo-opening-date-size-price-all-you-need-to-know-9107634.html)
+* [Amitabh Bachchan](https://www.news18.com/movies/amitabh-bachchans-old-tweets-on-aishwarya-rais-birthday-viral-as-bachchans-skip-wishing-her-feel-good-9107655.html)
+* [Kartik Aaryan](https://www.news18.com/movies/bhool-bhulaiyaa-3-star-kartik-aaryan-opens-up-about-his-girlfriend-her-name-is-9107719.html)
+* [Maharashtra Elections](https://www.news18.com/elections/assembly/maharashtra/)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
@@ -302,7 +302,7 @@ If you have questions or concerns about this Policy, please contact Network18 at
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Nov 03, 2024
+Nov 04, 2024
 
 [View All](https://www.news18.com/short-news/)
 
