@@ -222,39 +222,39 @@ Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio
 
 Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio](https://www.tnh1.com.br/noticia/nid/jovem-com-tumor-raro-que-levou-a-mudanca-na-cor-de-pele-tenta-obter-remedio/ "Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio")
 
-[![Em Maceió, estudantes revisam conteúdos de humanas e dicas de redação ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/f/csm_02-11-24-Pre-Vestibular-Educar-e-Massa-Por-Joyce-Juliana-059_b8c1616e34.jpg)
+[![Chuva põe São Paulo em estado de atenção; 60 mil estão sem energia na cidade](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/0/csm_chuva_sp_agencia_3069336608.png)
 
-aulão pré-enem
+Brasil
 
-aulão pré-enem
+Brasil
 
-Em Maceió, estudantes revisam conteúdos de humanas e dicas de redação
+Chuva põe São Paulo em estado de atenção; 60 mil estão sem energia na cidade
 
-Em Maceió, estudantes revisam conteúdos de humanas e dicas de redação](https://www.tnh1.com.br/noticia/nid/em-maceio-estudantes-revisam-conteudos-de-humanas-e-dicas-de-redacao/ "Em Maceió, estudantes revisam conteúdos de humanas e dicas de redação ")[![Filho do cantor Jottapê nasce no carro a caminho do hospital; veja vídeo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/f/csm_Jotape_b29a1b93f2.png)
+Chuva põe São Paulo em estado de atenção; 60 mil estão sem energia na cidade](https://www.tnh1.com.br/noticia/nid/chuva-poe-sao-paulo-em-estado-de-atencao-60-mil-estao-sem-energia-na-cidade/ "Chuva põe São Paulo em estado de atenção; 60 mil estão sem energia na cidade")[![EUA chegam a eleição sob desânimo recorde com a economia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/6/csm_dolar_freepik_4e982de889.png)
 
-Gente Famosa
+Mundo
 
-Gente Famosa
+Mundo
 
-Filho do cantor Jottapê nasce no carro a caminho do hospital; veja vídeo
+EUA chegam a eleição sob desânimo recorde com a economia
 
-Filho do cantor Jottapê nasce no carro a caminho do hospital; veja vídeo](https://www.tnh1.com.br/noticia/nid/filho-do-cantor-jottape-nasce-no-carro-a-caminho-do-hospital-veja-video/ "Filho do cantor Jottapê nasce no carro a caminho do hospital; veja vídeo")[![Enem: quantos minutos gastar por questão? É melhor começar pelas perguntas ou pela redação?](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/b/csm_enem_provas_b32d405ef7.png)
-
-Educação
+EUA chegam a eleição sob desânimo recorde com a economia](https://www.tnh1.com.br/noticia/nid/eua-chegam-a-eleicao-sob-desanimo-recorde-com-a-economia/ "EUA chegam a eleição sob desânimo recorde com a economia")[![Lula visitará sala de monitoramento do Enem neste domingo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/1/csm_Lula_enem_1a10fe54b5.png)
 
 Educação
 
-Enem: quantos minutos gastar por questão? É melhor começar pelas perguntas ou pela redação?
+Educação
 
-Enem: quantos minutos gastar por questão? É melhor começar pelas perguntas ou pela redação?](https://www.tnh1.com.br/noticia/nid/enem-quantos-minutos-gastar-por-questao-e-melhor-comecar-pelas-perguntas-ou-pela-redacao/ "Enem: quantos minutos gastar por questão? É melhor começar pelas perguntas ou pela redação?")[![Terceira edição da Copa do Interior de Futebol começa neste domingo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/4/csm_terceira-edicao-da-copa-do-interior-de-futebol-comeca-nesta-domingo_ad31417859.jpeg)
+Lula visitará sala de monitoramento do Enem neste domingo
 
-futebol amador
+Lula visitará sala de monitoramento do Enem neste domingo](https://www.tnh1.com.br/noticia/nid/lula-visitara-sala-de-monitoramento-do-enem-neste-domingo/ "Lula visitará sala de monitoramento do Enem neste domingo")[![Bancos devolveram ao INSS quase R$ 8 bi em benefícios não sacados](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_previdencia-inss-agencia-brasil__1__9dc6e6fc09.jpg)
 
-futebol amador
+Economia
 
-Terceira edição da Copa do Interior de Futebol começa neste domingo
+Economia
 
-Terceira edição da Copa do Interior de Futebol começa neste domingo](https://www.tnh1.com.br/noticia/nid/terceira-edicao-da-copa-do-interior-de-futebol-comeca-neste-domingo/ "Terceira edição da Copa do Interior de Futebol começa neste domingo")
+Bancos devolveram ao INSS quase R$ 8 bi em benefícios não sacados
+
+Bancos devolveram ao INSS quase R$ 8 bi em benefícios não sacados](https://www.tnh1.com.br/noticia/nid/bancos-devolveram-ao-inss-quase-r-8-bi-em-beneficios-nao-sacados/ "Bancos devolveram ao INSS quase R$ 8 bi em benefícios não sacados")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
