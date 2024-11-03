@@ -35,10 +35,13 @@ Search  Search
     * [![](https://yoast.com/cdn-cgi/image/width=40%2Cheight=40%2Cfit=crop%2Cf=auto%2Conerror=redirect/app/uploads/2022/09/giving_back.png)Giving backOur community involvement activities](https://yoast.com/about-us/community/)
 * Search  Search
     
-* CURRENCY selected='selected'USD ($)EUR (€)GBP (£)
+* CURRENCY USD ($) selected='selected'EUR (€)GBP (£)
     
 
-* [Login](https://my.yoast.com/)
+* [My Account](https://my.yoast.com/)
+    * [MyYoast](https://my.yoast.com/)
+    * [My academy courses](https://academy.yoast.com/courses/)
+    * [Logout](https://yoast.com/wp/wp-login.php?action=logout&_wpnonce=680dc1adfe)
 * [Cart](https://yoast.com/checkout/)
 * Search
 * Navigation menu
@@ -348,7 +351,7 @@ Subscribe for free SEO tips » [Privacy notice](https://yoast.com/privacy-notic
 * [Review notice](https://yoast.com/review-notice/)
 * [Contact us](https://yoast.com/contact/)
 
-CURRENCY selected='selected'USD ($)EUR (€)GBP (£)
+CURRENCY USD ($) selected='selected'EUR (€)GBP (£)
 
 **© 2003-2024 Yoast BV** Yoast is a trademark of Yoast BV
 
