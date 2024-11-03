@@ -31,6 +31,680 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Tres extranjeros y un ecuatoriano fueron detenidos en Manabí con droga
+======================================================================
+
+Los procesados fueron arrestados junto con una carga de droga que pesaba 1,5 toneladas.
+---------------------------------------------------------------------------------------
+
+![La operación fue ejecutada por la Policía Nacional en la ciudad de Portoviejo. Cortesía: Policía](https://www.elcomercio.com/wp-content/uploads/2024/11/Manabi.jpg)
+
+Los líderes de una presunta estructura **narcodelictiva internacional** fueron detenidos este 3 de noviembre de 2024, con una **carga droga en Manabí.**
+
+La operación fue ejecutada por la **Policía Nacional** en **Portoviejo** donde capturaron a cuatro presuntos narcotraficantes. Dos son de nacionalidad mexicana, un colombiano y un ecuatoriano.
+
+Los cuatro procesados fueron arrestados junto con una carga de droga que pesaba **1,5 toneladas.**
+
+El coronel **Renán Miller, jefe de la Policía de Manabí,** informó que atraparon a los sospechosos en delito flagrante tras allanar una **casa en Portoviejo** donde encontraron el cargamento.
+
+Había 1 295 bloques tipo ladrillos de cocaína pura que iba a ser distribuida en casi 15 millones.
+
+“La red operaba en **Ecuador** y la incautación de la droga está valorada en más de 75 millones de dólares en los **Estados Unidos**” expresó.
+
+### Más noticias
+
+* [10 fallecidos en siniestro de tránsito en Morona Santiago](https://www.elcomercio.com/actualidad/seguridad/fallecidos-siniestro-transito-morona-santiago.html "10 fallecidos en siniestro de tránsito en Morona Santiago")
+* [Fiscalía investiga ataque armado a Joselito Argüello, candidato a la Asamblea](https://www.elcomercio.com/actualidad/seguridad/joselito-arguello-aspirante-asambleista-victima-ataque-armado-salinas.html "Fiscalía investiga ataque armado a Joselito Argüello, candidato a la Asamblea")
+* [El uso legítimo de la fuerza policial se intensificó este 2024 en Ecuador](https://www.elcomercio.com/actualidad/seguridad/uso-legitimo-fuerza-policia-intensifico-2024-ecuador.html "El uso legítimo de la fuerza policial se intensificó este 2024 en Ecuador")
+
+Los extranjeros no tienen antecedentes en Ecuador
+-------------------------------------------------
+
+Miller informó que los detenidos extranjeros **no tienen antecedentes penales** en **Ecuador**.
+
+En la operación se incautó **una camioneta y seis celulares** que serán analizados por los peritos para establecer cómo estaba conformada la red internacional.
+
+A través de la revisión de los equipos, la **Fiscalía General del Estado** también pretende conocer los nexos de la presunta banda con los carteles mexicanos y colombianos.
+
+Esta operación fue liderada por la **Unidad Nacional de Investigación de Sustancias Químicas** (UNSQ).
+
+La **Policía** afirma que con la captura de los cuatro procesados se desmanteló una red de tráfico de drogas intencionalidad que tenía su **Centro de Operación en Manabí**.
+
+En este 2024, la **Policía y las Fuerzas Armadas del Ecuador** han incautado más de 246 toneladas.
+
+Algunas de aquellas incautaciones están vinculadas a la **captura de once presuntos narcos** considerados por el actual Gobierno como objetivos de alto valor por liderar los mandos altos en las organizaciones criminales vinculadas al tráfico internacional de drogas.
+
+En lo que va del 2024 se han decomisado cerca de 20 toneladas de cocaína pura en **Manabí**. La mayoría de droga fue decomisada en **Manta, Portoviejo y Puerto López.**
+
+Estrenos musicales para endulzar el oído en este feriado
+========================================================
+
+Un playlist con los estrenos más destacados de la última quincena de octubre.
+-----------------------------------------------------------------------------
+
+![Lady Gaga estrenó nuevo sencillo. Foto. Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-31T174636.033.jpg)
+
+Durante la última **quincena** de octubre varios artistas lanzaron nuevos álbumes y sencillos que capturaron la atención del público. A continuación, te presentamos algunos de los estrenos más destacados.
+
+### **Más noticias:**
+
+* [WhatsApp planea incorporar una nueva función relacionada con la música](https://www.elcomercio.com/tecnologia/whatsapp-funcion-musica-estados.html "https://www.elcomercio.com/tecnologia/whatsapp-funcion-musica-estados.html") 
+* [Liam Payne y la controversia de la ‘cocaína rosa’](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html")
+* [Autopsia de Liam Payne reveló inquietantes detalles de su muerte](https://www.elcomercio.com/tendencias/entretenimiento/autopsia-liam-payne-detalles-muertes.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/autopsia-liam-payne-detalles-muertes.html?source=Internal&ref=Single+Content+Link")
+
+**Estrenos musicales para endulzar el oído en este feriado**
+------------------------------------------------------------
+
+The **Weeknd** lanzó su esperada canción y video musical titulado **São Paulo**, en colaboración con la superestrella brasileña Anitta.
+
+Dirigido por FREEKA, el video presenta un giro oscuro y sorprendente, donde **Anitta**, quien aparece embarazada en la narrativa, revela un rostro inquietante que emerge de su vientre.
+
+Estas imágenes perturbadoras aportan un nuevo y audaz capítulo visual al universo creativo de The Weeknd.
+
+**Lady Gaga**, ganadora de 13 premios **Grammy**, presentó su nuevo sencillo **DISEASE**, el primer adelanto de su esperado álbum, cariñosamente denominado ‘LG7’, que verá la luz en la primavera de 2025.
+
+Este lanzamiento marca su regreso al pop, luego del álbum conceptual ‘**Harlequin’**, que acompaña la película ‘**Joker: Folie à Deux**‘.
+
+‘**Harlequin’** debutó en el número 1 de la lista Billboard Jazz y alcanzó el top 20 de la Billboard 200, recibiendo elogios de la crítica, incluyendo una destacada reseña de Rolling Stone.
+
+**Más música para escuchar durante este feriado**
+-------------------------------------------------
+
+**Il mare calmo della sera** es la canción principal del nuevo álbum de Andrea Bocelli, titulado ‘Duets’. Con ese celebra sus 30 años en la música.
+
+Esta versión reimaginada de uno de los éxitos más perdurables de Bocelli cuenta con la colaboración de la legendaria superestrella del country Chris Stapleton.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBwtuqEvRSH/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por The Tonight Show (@fallontonight)](https://www.instagram.com/reel/DBwtuqEvRSH/?utm_source=ig_embed&utm_campaign=loading)
+
+Este último aporta su potente y distintiva voz a esta brillante interpretación. Con 10 premios Grammy y 11 premios ACM, Stapleton añade una nueva dimensión a la emotiva melodía.
+
+**El pop se suma a la lista de estrenos musicales**
+---------------------------------------------------
+
+Joaquina lanzó Todo y nada, un himno cautivador que refleja las relaciones breves, pero impactantes que dejan huella en nuestras vidas.
+
+Esta vibrante canción pop narra la historia de un romance adolescente secreto, capturando la emoción y el desorden del amor joven a través de la frase “hacemos un desastre, pero nos divertimos”.
+
+Con su mezcla de ilusión y energía, Todo y nada evoca esos momentos lúdicos e inolvidables que todos hemos experimentado.
+
+Moisés Caicedo, el héroe del Chelsea ante el Manchester United
+==============================================================
+
+El ecuatoriano fue el mejor jugador del partido y clave para que los 'Blues' se llevaran un punto como visitantes.
+------------------------------------------------------------------------------------------------------------------
+
+![Moisés Caicedo fue el mejor jugador del partido entre el Chelsea y el Manchester United.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-71.jpg)
+
+El **Chelsea** rescató un empate 1-1 ante el Manchester United en la décima jornada de la Premier League, jugada este domingo 3 de noviembre. La gran figura del partido fue **Moisés Caicedo**, quien anotó el gol del empate para los ‘Blues’.
+
+Gracias a este valioso punto, el equipo londinense escaló posiciones y se mantiene en los puestos de clasificación a la **Champions League**. Actualmente, ocupa el cuarto lugar con 18 puntos, a siete del líder Liverpool, que tiene 25.
+
+### Más noticias:
+
+* [(Video) Moisés Caicedo celebró su cumpleaños con un golazo en el Chelsea](https://www.elcomercio.com/deportes/futbol/video-moises-caicedo-celebro-su-cumpleanos-con-un-golazo-en-el-chelsea.html "(Video) Moisés Caicedo celebró su cumpleaños con un golazo en el Chelsea")
+* [Chelsea y Ecuador celebran el cumpleaños de Moisés Caicedo](https://www.elcomercio.com/deportes/futbol/chelsea-ecuador-celebran-cumpleanos-de-moises-caicedo.html "Chelsea y Ecuador celebran el cumpleaños de Moisés Caicedo")
+* [Moisés Caicedo motivó a Alan Franco a ganar la Libertadores](https://www.elcomercio.com/deportes/futbol/moises-caicedo-motivo-a-alan-franco-a-ganar-la-libertadores.html "Moisés Caicedo motivó a Alan Franco a ganar la Libertadores")
+
+Caicedo fue el jugador destacado del compromiso. **Dominó el mediocampo**, como ha hecho a lo largo de la temporada, y resultó un verdadero dolor de cabeza para el Manchester United, **consolidándose como el héroe de los visitantes.**
+
+El mediocampista ecuatoriano terminó el partido con un **golazo, una precisión de pases del 84%**, ganó 9 de 17 duelos, realizó dos despejes, tres entradas, una intercepción y obtuvo una calificación de 7.6 puntos en SofaScore, la más alta de su equipo.
+
+Manchester United abrió el marcador
+-----------------------------------
+
+En la última jugada del primer tiempo, el **Manchester United** tuvo su oportunidad más clara con un remate de Marcus Rashford. El delantero inglés disparó desde dentro del área, y el balón impactó en la unión entre el poste y el travesaño, quedando el gol a centímetros.
+
+Fue un partido parejo, de ida y vuelta, y muy intenso en la primera mitad. Sin embargo, ambos **equipos carecieron de contundencia** y apenas generaron ocasiones claras de gol.
+
+A los 68 minutos, el arquero del Chelsea, Robert Sánchez, cometió un penal al intentar frenar una jugada de **Rasmus Højlund**, que lo superó con un regate.
+
+**Bruno Fernandes,** capitán del Manchester United, tomó la responsabilidad y convirtió la pena máxima, poniendo en ventaja a su equipo y desatando la euforia en Old Trafford.
+
+> BRUNO FERNANDES PONE EL 1-0 DEL UNITED VS. CHELSEA.  
+>   
+> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/pq1PUdKwwn](https://t.co/pq1PUdKwwn)
+> 
+> — SportsCenter (@SC\_ESPN) [November 3, 2024](https://twitter.com/SC_ESPN/status/1853135324186108021?ref_src=twsrc%5Etfw)
+
+Moisés Caicedo, golazo y el empate
+----------------------------------
+
+La alegría le duró poco a los locales, pues, corría el minuto 74 en Old Trafford, el ‘Teatro de los Sueños’. El partido iba 1-0 a favor del **United**, pero Moisés Caicedo tenía otros planes.
+
+En un tiro de esquina lanzado al área sin mucho peligro, el brasileño **Casemiro** despejó el balón hasta los linderos del área. Sin embargo, no contaba con que le quedaría a uno de los jugadores más destacados del partido y de la temporada.
+
+**Moisés Caicedo**, que ya estaba teniendo un gran partido, visualizó la oportunidad perfecta. Sin pensarlo dos veces, conectó un potente remate de primera. El disparo salió a ras de piso, veloz y directo, tan preciso que, pese al esfuerzo de Onana por detenerlo, el gol fue inevitable.
+
+Finalmente, su anotación sirvió para sacar un empate ante un rival complicado, en una cancha difícil.
+
+> ¡¡QUE GOLAZO MOI!! ¡CAICEDO LE DIO DE VOLEA Y MARCA EL 1-1 DE CHELSEA VS. UNITED!  
+>   
+> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/daQTGgJUrr](https://t.co/daQTGgJUrr)
+> 
+> — SportsCenter (@SC\_ESPN) [November 3, 2024](https://twitter.com/SC_ESPN/status/1853136470652912001?ref_src=twsrc%5Etfw)
+
+No te pierdas nuestro Especial de Halloween
+-------------------------------------------
+
+(Video) Moisés Caicedo celebró su cumpleaños con un golazo en el Chelsea
+========================================================================
+
+El 'Niño Moi' anotó su primer gol en la temporada 2024/25 con la camiseta del Chelsea.
+--------------------------------------------------------------------------------------
+
+![Moisés Caicedo celebrando su gol con el Chelsea ante Manchester United.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-70.jpg)
+
+**Moisés** **Caicedo** cumplió 23 años el sábado 2 de noviembre, y el 3 de noviembre, en su primer partido tras el cumpleaños, el **ecuatoriano anotó un golazo** en el encuentro entre Chelsea y Manchester United por la Premier League.
+
+El ecuatoriano sigue demostrando que es uno de los mejores jugadores, no solo de los ‘Blues’, sino también de toda la **Premier League**. En uno de los partidos más importantes de la temporada, el ‘**Niño Moi’ fue la diferencia.**
+
+### Más noticias:
+
+* [Chelsea y Ecuador celebran el cumpleaños de Moisés Caicedo](https://www.elcomercio.com/deportes/futbol/chelsea-ecuador-celebran-cumpleanos-de-moises-caicedo.html "Chelsea y Ecuador celebran el cumpleaños de Moisés Caicedo")
+* [Moisés Caicedo motivó a Alan Franco a ganar la Libertadores](https://www.elcomercio.com/deportes/futbol/moises-caicedo-motivo-a-alan-franco-a-ganar-la-libertadores.html "Moisés Caicedo motivó a Alan Franco a ganar la Libertadores")
+* [Moisés Caicedo y el Chelsea se despidieron de la Carabao Cup](https://www.elcomercio.com/deportes/futbol/moises-caicedo-y-el-chelsea-se-despidieron-de-la-carabao-cup.html "Moisés Caicedo y el Chelsea se despidieron de la Carabao Cup")
+
+El golazo de Moisés Caicedo
+---------------------------
+
+Corría el minuto 74 en Old Trafford, el ‘Teatro de los Sueños’. El partido iba 1-0 a favor del United, pero **Moisés Caicedo** tenía otros planes.
+
+En un tiro de esquina lanzado al área sin mucho peligro, el brasileño **Casemiro** despejó el balón hasta los linderos del área. Sin embargo, no contaba con que le quedaría a uno de los jugadores más destacados del partido y de la temporada.
+
+Moisés Caicedo, que ya estaba teniendo un gran partido, visualizó la oportunidad perfecta. **Sin pensarlo dos veces, conectó un potente remate de primera**. El disparo salió a ras de piso, veloz y directo, tan preciso que, pese al esfuerzo de Onana por detenerlo, el gol fue inevitable.
+
+Finalmente, su **anotación sirvió para sacar un empate** ante un rival complicado, en una cancha difícil.
+
+> ¡¡QUE GOLAZO MOI!! ¡CAICEDO LE DIO DE VOLEA Y MARCA EL 1-1 DE CHELSEA VS. UNITED!  
+>   
+> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/daQTGgJUrr](https://t.co/daQTGgJUrr)
+> 
+> — SportsCenter (@SC\_ESPN) [November 3, 2024](https://twitter.com/SC_ESPN/status/1853136470652912001?ref_src=twsrc%5Etfw)
+
+Su primer gol de la temporada
+-----------------------------
+
+Este fue el **primer gol de Moisés Caicedo** en la temporada 2024/25, y curiosamente no es la primera vez que marca contra el Manchester United. En su etapa con el Brighton Hove & Albion también les anotó, y fue su primer gol en la Premier League, igualmente con un remate de media distancia.
+
+En cuanto al Chelsea, este es su **segundo gol desde que llegó en la temporada 2023/24**. Curiosamente, sus dos goles con los ‘Blues’ han sido desde fuera del área, ambos auténticos golazos.
+
+No te pierdas nuestro Especial de Halloween
+-------------------------------------------
+
+Alcalde de Cuenca planteó alzar diques de las lagunas de El Cajas para las sequías
+==================================================================================
+
+Cristián Zamora propuso la iniciativa al presidente Daniel Noboa. Lo hizo en la sesión los 204 años de independencia. La idea es acumular agua para los estiajes.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![La sesión solemne por los 204 años de independencia de Cuenca empezó a las 11:00 en el Salón de la Cuidad. Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/11/Cuenca-1.jpg)
+
+Casi dos doras duró la **sesión solemne por los 204 años de independencia** de **Cuenca**. A las 11:00 empezó en el Salón de la Cuidad de la Municipalidad, en el Centro Histórico de la capital azuaya.
+
+Asistieron el **presidente de la República, Daniel Noboa**, la **presidenta de la Asamblea, Viviana Veloz** y ministros de Estado. Además, estuvieron el **alcalde de Cuenca, Cristián Zamora**, **el prefecto de Azuay, Juan Cristóbal Lloret**, y el gobernador azuayo, Santiago Malo.
+
+Entre los condecorados estuvo el **campeón olímpico de Marcha**, **Daniel Pintado Álvarez**. Este reconocimiento fue concedido por el Concejo Cantonal por sus triunfos en los J**uegos Olímpicos de París 2024.**
+
+### Más noticias
+
+* [Turismo crece en Cuenca y otras provincias en este feriado](https://www.elcomercio.com/actualidad/ecuador/turismo-independencia-cuenca-feriado-difuntos.html "Turismo crece en Cuenca y otras provincias en este feriado")
+* [Cuenca llega a 204 años de independencia como la ciudad más industrial de Ecuador](https://www.elcomercio.com/actualidad/cuenca/cuenca-motor-industrial-de-ecuador.html "Cuenca llega a 204 años de independencia como la ciudad más industrial de Ecuador")
+* [Cuenca celebra sus fiestas con conciertos y artesanías de 12 países](https://www.elcomercio.com/actualidad/ecuador/cuenca-celebra-fiestas-conciertos-artesanias-paises.html "Cuenca celebra sus fiestas con conciertos y artesanías de 12 países")
+
+Daniel Noboa destacó el aporte del Gobierno en Cuenca
+-----------------------------------------------------
+
+**Noboa** habló de las inversiones realizadas en sus 11 meses de **Gobierno**. Destacó los cinco millones de dólares destinados para alimentación escolar, uniformes, textos y mantenimiento de instituciones educativas.
+
+En **Azuay**, agregó, se ejecutaron proyectos de infraestructura como la vía **Medio Ejido-Sayausí**, la rehabilitación de la **Panamericana Norte** y el mantenimiento de la carretera **Salado-Léntag**.
+
+En el ámbito social, **Noboa** resaltó que son más de 33 000 personas de grupos vulnerables que tienen el apoyo del Gobierno mediante servicios y la entrega de bonos.
+
+Además, indicó sobre el apoyo a emprendimientos con **BanEcuador**. Y la potencialización de negocios y generación de empleo. Citó una inversión de más de 6,7 millones de dólares.
+
+Con el **Banco de Desarrollo** se financió el proyecto de **Movilidad Urbana Sostenible** que permitirá bajar los efectos de los gases invernadero. Fueron 24,2 millones de dólares, aseguró el Mandatario.
+
+**Noboa** dijo que ha posicionado a **Cuenca** como sede de **la Cumbre Iberoamericana de Jefes de Estado,**que se cumplirá entre el 14 y 15 de noviembre de 2024.
+
+“Cuenca se lo merece y toda Iberoamérica la estará viendo en estos días”.
+
+Según él, esta **Cumbre** atraerá a líderes de toda Iberoamérica para tratar temas como la innovación, inclusión y sostenibilidad. “**El mundo será testigo de su potencial**, su cultura y el talento de su gente”.
+
+Los pedidos del Alcalde de Cuenca
+---------------------------------
+
+En su discurso, el alcalde de Cuenca, **Cristián Zamora**, pidió al Mandatario, que ordene al **Ministerio del Ambiente** que permita **alzar los diques** en las **lagunas** del **Parque Nacional Cajas.**
+
+La intención es aumentar las reservas de agua en las épocas lluviosas para ser utilizada en las de sequía como las tres registradas en los últimos 12 meses. En la actual ya contabilizan 104 días y hace año fueron 117 días. En marzo y abril de 2024 también hubo estiaje.
+
+**Zamora** dijo que esta obra estará pensada en que las sequías pueden ser peores en el futuro por el cambio climático. “Necesitamos agua para que la gente tenga el líquido vital”.
+
+Zamora señaló que no existen **cortes de agua** en **Cuenca** porque los habitantes de la ciudad bajaron el consumo en un 12% desde el inicio de la sequía.
+
+El **Alcalde de Cuenca** también solicitó al presidente Noboa que se autorice el **proyecto hidroeléctrico Soldados.** “Hay un problema social. Estamos dispuestos con el Prefecto (Azuay) a conversar con las comunidades para hacerles entender la importancia de la generación”.
+
+El proyecto integral está compuesto por una presa de 42 metros de altura, con una capacidad de 21 Hm3 y dos centrales en cascada Soldados, de siete MW y Yanuncay, de 15 MW.
+
+El proyecto ya cuenta con licencia ambiental y título habilitante para su construcción.
+
+Willian Pacho tiene maravillado a su DT del PSG, Luis Enrique
+=============================================================
+
+Willian Pacho es un fuera de serie, y así lo reconoce uno de los mejores entrenadores españoles de la historia.
+---------------------------------------------------------------------------------------------------------------
+
+![Willian Pacho en un partido con el París Saint-Germain en la Ligue 1 2024/45.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-69.jpg)
+
+**Willian Pacho** llegó al **París Saint-Germain** en la temporada 2024/25, su primer gran salto a uno de los gigantes de Europa. En tan solo tres meses, el ecuatoriano ha demostrado su calidad y ha justificado su lugar en el equipo más grande de Francia.
+
+Su talento no ha pasado desapercibido para **Luis Enrique**, quien ha elogiado al formado en Independiente del Valle por su desempeño en defensa y el **impacto positivo en el PSG**.
+
+### Más noticias:
+
+* [Willian Pacho y PSG ganan el duelo de ecuatorianos en Francia](https://www.elcomercio.com/deportes/futbol/willian-pacho-psg-ganan-duelo-ecuatorianos-en-francia.html "Willian Pacho y PSG ganan el duelo de ecuatorianos en Francia")
+* [El PSG y Willian Pacho igualan en la tercera fecha de Champions](https://www.elcomercio.com/deportes/psg-willian-pacho-champions-psv.html "El PSG y Willian Pacho igualan en la tercera fecha de Champions")
+* [PSG celebra, a lo grande, cumpleaños de Willian Pacho](https://www.elcomercio.com/deportes/futbol/wullian-pacho-cumple-anios-psg.html "PSG celebra, a lo grande, cumpleaños de Willian Pacho")
+
+El técnico español destacó la **capacidad de adaptación de Pacho a las altas exigencias del club** y lo considera uno de los jugadores más valiosos de la temporada, siendo titular indiscutible y referente en la zaga.
+
+“Está aportando mucho en cosas que necesitábamos, como ganar duelos y sacar el balón de manera solvente y cómoda. Es físicamente poderoso, **recupera balones sin cometer faltas y ha sido una incorporación que valoramos desde el minuto uno**,” comentó Luis Enrique en una rueda de prensa el 1 de noviembre.
+
+Willian Pacho en el PSG
+-----------------------
+
+Desde su llegada a París, **Pacho se ha consolidado como titular**, con 13 partidos jugados, de los cuales inició en 12. En Ligue 1, el campeonato francés, ha disputado 10 encuentros y ha sido elegido en dos ocasiones para el equipo de la semana.
+
+En defensa, el ecuatoriano **acumula 18 intercepciones, 21 entradas, ha recuperado 48 balones**, suma 29 despejes y tiene un 64 % de efectividad en los duelos, siendo una auténtica muralla.
+
+Además, su precisión en los pases es uno de sus puntos fuertes: Pacho cuenta con una asistencia, un pase clave y una eficacia del 95% en sus envíos. Según el portal SofaScore, Willian Pacho tiene una calificación de 7**,19, una de las más altas de la Ligue 1.**
+
+Mientras que en la **Champions League**, a pesar de estar debutando en el torneo, ha demostrado estar a la altura. Tiene tres partidos jugados y todos los minutos posibles.
+
+Willian Pacho ha sido uno de los **puntos fuertes del equipo**, acumulando ocho intercepciones, siete entradas, 20 recuperaciones de balón y 14 despejes. Además, ha ganado el 50 % de sus duelos y cuenta con una calificación de 7,20 puntos.
+
+No te pierdas nuestro Especial de Halloween
+-------------------------------------------
+
+Documentales ecuatorianos en uno de los festivales más importantes del mundo 
+=============================================================================
+
+La 37 edición del IDFA de cine documental promete una rica selección, al destacar proyectos innovadores.
+--------------------------------------------------------------------------------------------------------
+
+![El Festival Internacional de Cine Documental de Ámsterdam (IDFA) celebra su 37 edición. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/festival-cine-documental.jpg)
+
+El **[Festival Internacional de Cine Documental de Ámsterdam](https://www.instagram.com/idfafestival/ "https://www.instagram.com/idfafestival/")** (IDFA) es uno de los eventos más esperados en el calendario cinematográfico. Este año, la 37 edición se llevará a cabo del 14 al 24 de noviembre de 2024.  
+
+### Más noticias
+
+* [Margot Robbie, la Barbie, se](https://www.elcomercio.com/tendencias/entretenimiento/margot-robbie-barbie-estrena-madre.html "https://www.elcomercio.com/tendencias/entretenimiento/margot-robbie-barbie-estrena-madre.html") [e](https://www.elcomercio.com/tendencias/entretenimiento/margot-robbie-barbie-estrena-madre.html "https://www.elcomercio.com/tendencias/entretenimiento/margot-robbie-barbie-estrena-madre.html")[strena como madre](https://www.elcomercio.com/tendencias/entretenimiento/margot-robbie-barbie-estrena-madre.html "https://www.elcomercio.com/tendencias/entretenimiento/margot-robbie-barbie-estrena-madre.html")
+* [Seis películas recomendadas para el feriado de Difuntos](https://www.elcomercio.com/tendencias/cine/cine-peliculas-feriado-difuntos.html "https://www.elcomercio.com/tendencias/cine/cine-peliculas-feriado-difuntos.html") 
+
+Con una rica tradición que **celebra el cine documental**, el festival se ha consolidado como **un punto de encuentro para cineastas, críticos y amantes del género**. 
+
+**Cine documental para todo gusto**  
+-------------------------------------
+
+El IDFA no solo exhibe películas, sino que también **fomenta la innovación a través de su programa DocLab**. Este espacio se dedica a proyectos que **combinan el cine con nuevas tecnologías**, lo que ofrece una **plataforma para experiencias interactivas y narrativas inmersivas**. Durante la conferencia de prensa del festival, **Orwa Nyrabia**, director artístico, destacó la **importancia de estas iniciativas** para atraer a un público diverso y comprometido, de acuerdo con la [página del festival](https://festival.idfa.nl/en/news/persconferentie-idfa-2024/ "https://festival.idfa.nl/en/news/persconferentie-idfa-2024/").  
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBL5qGHq1Uu/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de IDFA (@idfafestival)](https://www.instagram.com/reel/DBL5qGHq1Uu/?utm_source=ig_embed&utm_campaign=loading)
+
+**Proyectos latinoamericanos en el IDFA** 
+------------------------------------------
+
+Un aspecto notable de esta edición es la **fuerte representación de proyectos latinoamericanos**. Cinco obras destacadas participarán en el **IDFA Project Space**, un programa diseñado para **fortalecer proyectos documentales emergentes**. Entre ellos se encuentra ‘Grounded’, del colombiano **Simón Uribe Martínez**, que explora la vida en una remota aldea amazónica 
+
+Este enfoque no solo **resalta la riqueza cultural de la región**, sino que también ofrece una ventana a realidades poco representadas en el cine global, según la web [Latamcinema](https://www.latamcinema.com/proyectos-latinoamericanos-de-documental-se-fortalecen-en-el-idfa-project-space/ "https://www.latamcinema.com/proyectos-latinoamericanos-de-documental-se-fortalecen-en-el-idfa-project-space/"). 
+
+**Ecuador se hace presente en el festival** 
+--------------------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBpU5E1PCJh/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de ADRIAN VANEGAS (@a98studios)](https://www.instagram.com/p/DBpU5E1PCJh/?utm_source=ig_embed&utm_campaign=loading)
+
+Desde Ecuador, los documentales elegidos son ‘Huaquero’ de **Juan Carlos Donoso**, ‘¿Cómo suturar la tierra?’ de **Wil Paucar**, ‘Ecos de luz’ de **Misha Vallejo** y ‘Torobo: El nombre de las plantas’ de **Manolo Sarmiento**. 
+
+Desde su creación en 1988, **el IDFA ha estado dedicado a fomentar la calidad, la innovación y la diversidad en el cine documental**, captando la atención de cineastas, críticos, productores y amantes del cine a nivel global. 
+
+Barcelona SC confía en Segundo Alejandro Castillo como su DT
+============================================================
+
+Desde que el 'Mortero' asumió las riendas del club, el 'Ídolo' está invicto en la Liga Pro.
+-------------------------------------------------------------------------------------------
+
+![Segundo Alejandro Castillo en una rueda de prensa como entrenador de Barcelona SC en 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-68.jpg)
+
+**Barcelona SC** ha tenido tres entrenadores en lo que va de la temporada 2024. El último en asumir el cargo es un conocido del club, que ya en ocasiones anteriores salvó al equipo como DT interino: el histórico **Segundo Alejandro Castillo**.
+
+El ‘Mortero’ fue el reemplazo temporal tras la salida de Diego López a principios del primer semestre. Ahora, la dirigencia lo ha colocado nuevamente en los banquillos tras la partida de **Ariel Holan**, hace casi un mes. Pero esta vez la situación es diferente.
+
+### Más noticias:
+
+* [Aucas rescató el empate y frenó a Barcelona SC en la Liga Pro](https://www.elcomercio.com/deportes/futbol/aucas-rescato-el-empate-y-freno-a-barcelona-sc-en-la-liga-pro.html "Aucas rescató el empate y frenó a Barcelona SC en la Liga Pro")
+* [Segundo Alejandro Castillo dirigirá su segundo Clásico del Astillero](https://www.elcomercio.com/deportes/futbol/segundo-alejandro-castillo-dirigira-su-segundo-clasico-del-astillero.html "Segundo Alejandro Castillo dirigirá su segundo Clásico del Astillero")
+* [Barcelona SC es líder de la Liga Pro, pero en multas](https://www.elcomercio.com/deportes/futbol/barcelonasc-es-lider-liga-pro-pero-en-multas.html "Barcelona SC es líder de la Liga Pro, pero en multas")
+
+Cuando asumió por primera vez en el año, Segundo Alejandro Castillo sabía que el club buscaba un DT para el resto de la temporada. Ahora, el **‘Mortero’ cuenta con el respaldo** de la dirigencia hasta el final del torneo.
+
+Barcelona SC confía en Alejandro Castillo
+-----------------------------------------
+
+El pasado 1 de noviembre, previo al empate 1-1 entre Barcelona SC y Aucas en el estadio Gonzalo Pozo Ripalda, el portal Studio Fútbol informó que el ‘Ídolo’ estaba en búsqueda de un nuevo DT.
+
+Esta información fue desmentida por el presidente del club, **Antonio Álvarez**, a través de su cuenta de X, donde aclaró que no están en busca de un entrenador ni ahora ni para 2025, ya que confían plenamente en el técnico actual.
+
+“Nadie ha llamado ni ha hablado con ningún director técnico para que venga a dirigir a Barcelona SC, ni hoy ni en 2025. **Segundo Alejandro Castillo es nuestro DT y cuenta con todo nuestro apoyo”,** escribió.
+
+Asimismo, Álvarez señaló que este tipo de rumores generan problemas dentro del equipo, lo que desean evitar para **mantener viva la esperanza de ganar la etapa del torneo.**
+
+Los números del ‘Mortero’
+-------------------------
+
+En lo que va de la temporada 2024, Segundo Alejandro Castillo ha dirigido **cuatro** **partidos**. Uno a finales de abril y tres en los últimos compromisos del equipo.
+
+Desde que asumió el cargo, su **equipo se mantiene invicto**, con dos empates y dos victorias. Empató 1-1 y venció 2-1 a Emelec, goleó 4-0 a Delfín e igualó 1-1 con Aucas.
+
+En total, el equipo de Castillo ha anotado ocho goles y ha recibido solo tres, logrando un **rendimiento del 66,66%.**
+
+No te pierdas nuestro Especial de Halloween
+-------------------------------------------
+
+Más de 75 millones de votantes en Estados Unidos ya sufragaron
+==============================================================
+
+Más de 75 millones de personas, la mitad de los votantes de 2020, ya han votado en EE.UU.
+-----------------------------------------------------------------------------------------
+
+![Personas votan anticipadamente en el Centro Comunitario Columbia Heights, en Wahington (Estados Unidos). Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/Estados-UNidos.jpg)
+
+##### Agencia EFE
+
+Un total de 7**5 millones de personas** ya emitido su voto hasta el sábado 2 de noviembre de 2024 en las elecciones de **Estados Unidos**. Esa cantidad representa más del 48 % del número total emitido en las **elecciones presidenciales de 2020**, cuando votaron 154,6 millones de **estadounidenses**.
+
+En el caso del **voto anticipado en person**a, el nivel de participación **supera** ya, a dos días de la jornada electoral del 5 de noviembre, el total de votos depositados de este modo en las elecciones presidenciales de 2020 y muestra cómo la manera de votar de los estadounidenses está cambiando.
+
+La **opción del voto anticipado (tanto por correo, como en persona)**, que se hizo más popular durante la pandemia, muestra que los votantes ya no están esperando al día de las elecciones, sino que son muchos los que prefieren emitir su voto o por correo o votando de manera anticipada en un centro de votación.
+
+### Más noticias
+
+* [Lotería de visas de Estados Unidos extiende plazo para participar](https://www.elcomercio.com/actualidad/mundo/loteria-visas-extiende-plazo-inscripcion.html "Lotería de visas de Estados Unidos extiende plazo para participar")
+* [Las elecciones en Estados Unidos se realizarán el 5 de noviembre de 2024](https://www.elcomercio.com/actualidad/mundo/elecciones-estados-unidos-realizaran-5-noviembre-2024.html "Las elecciones en Estados Unidos se realizarán el 5 de noviembre de 2024")
+* [Las elecciones en Estados Unidos se perfilan como las más ajustadas del siglo](https://www.elcomercio.com/actualidad/mundo/elecciones-estados-unidos-perfilan-ajustadas-siglo.html "Las elecciones en Estados Unidos se perfilan como las más ajustadas del siglo")
+
+Las votaciones por estados en EE.UU.
+------------------------------------
+
+En **Georgia** -uno de los estados clave para estas elecciones-, más de 4 millones ya han votado, lo que marca casi el 80% de la participación total del estado en 2020, según el rastreador de votación anticipada del **Laboratorio Electoral de la Universidad de Florida.**
+
+Mientras que en otros estados, como **Arizona y Carolina del Nort**e, aproximadamente la mitad de los votantes ya han ejercido su derecho al voto.
+
+En esta campaña, el candidato republicano a la presidencia, **Donald Trump**, ha animado a sus seguidores para que voten de manera anticipada.
+
+Lo que representa un cambio con respecto a las elecciones de 2020, cuando el expresidente y muchos **políticos republicanos** criticaron la votación anticipada y sobre todo por correo por considerarla, sin pruebas, expuesta al fraude.
+
+Si bien aún no se conocen los candidatos elegidos por los votantes anticipados, los datos sobre quiénes emitieron esos votos brindan pistas. Según un análisis de NBC News, **Pensilvania** ha visto un aumento de nuevas mujeres registradas como **demócratas**, mientras que **Arizona** ha visto un aumento de la participación de hombres registrados como **republicanos.**
+
+Turismo crece en Cuenca y otras provincias en este feriado
+==========================================================
+
+El turismo en Cuenca y otras provincias se consolida como uno de los más exitosos del año.
+------------------------------------------------------------------------------------------
+
+![Las ferias y conciertos destacan como uno de los principales atractivos en Cuenca durante el feriado. Foto: Facebook Ministerio de Turismo.](https://www.elcomercio.com/wp-content/uploads/2024/11/turismo-feriado-Cuenca.jpg)
+
+La **visita de turistas a Cuenca** durante el **feriado de Difuntos e independencia** de la ciudad ha sido positiva. Las **ocupaciones hoteleras** han superado el 90%, con un 97% en algunos casos. Este incremento se debe a **eventos artísticos como el concierto de Piso 21**, que han atraído a una gran multitud. 
+
+### Más noticias
+
+* [El 3 de noviembre es una fecha histórica para Cuenca, Bahía de Caráquez y Cañar](https://www.elcomercio.com/tendencias/cultura/cuenca-bahia-caraquez-canar-independencia-efemerides.html "https://www.elcomercio.com/tendencias/cultura/cuenca-bahia-caraquez-canar-independencia-efemerides.html") 
+* [Cuenca celebra sus fiestas con conciertos y artesanías de 12 países](https://www.elcomercio.com/actualidad/ecuador/cuenca-celebra-fiestas-conciertos-artesanias-paises.html "https://www.elcomercio.com/actualidad/ecuador/cuenca-celebra-fiestas-conciertos-artesanias-paises.html")
+
+Por otro lado, el **crecimiento del turismo en otras provincias**, a pesar de los desafíos como cortes de luz y lluvias, no se ha quedado atrás. Este feriado se perfila como **uno de los mejores para el sector turístico en lo que va del** 2024.
+
+**Datos del feriado por la Independencia de Cuenca**  
+------------------------------------------------------
+
+**Juan Pablo Vanegas**, presidente de la **Cámara de Turismo de Azuay**, comentó que la **visita de turistas a Cuenca** en este **feriado de Difuntos e Independencia de Cuenca** se perfila como positiva.
+
+Vanegas destacó que **las ocupaciones en hoteles han superado el 90%**, incluso con un **95-97% de ocupación en algunos de ellos**. Esto se está evaluando a la espera de los resultados que se arrojarán el día de hoy, domingo 3 de noviembre, día en el que se festeja la **independencia de Cuenca**. 
+
+**Eventos artísticos destacados** 
+----------------------------------
+
+Uno de los puntos altos en Cuenca ha sido la realización de **ferias y conciertos**. “Lo que atrajo a mucha gente fueron los **eventos artísticos**, con un lleno casi total del estadio (**Estadio Alejandro Serrano Aguilar**) para el último concierto de **Piso 21**, lo que generó que muchas personas aprovecharan la ocasión”, destacó Vanegas.
+
+“Hubo boletos que se entregaron a los turistas; eso también contribuyó a que este fuera **uno de los mejores feriados**”, señaló. Días atrás se anunció la presentación de artistas como la banda colombiana **Piso 21**, el panameño reguetonero **Aldo Ranks** y el rapero **Vico C**. 
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DB6bZuhNe4n/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Municipio de Cuenca (@municipio\_cuenca)](https://www.instagram.com/p/DB6bZuhNe4n/?utm_source=ig_embed&utm_campaign=loading)
+
+**Datos de otras provincias** 
+------------------------------
+
+Por su parte, **Holbach Muñetón**, presidente de la **Federación de Cámaras de Turismo del Ecuador**, compartió datos hasta el momento que arroja el feriado: 
+
+**Santa Elena**, hasta ayer, registró un 60%, a la espera de que suba. **Sucumbíos** se mantiene con un 25% de ocupación, y en centros de diversión alcanza el 30%. **Cuenca** alcanzó un 95% el viernes y este sábado se mantuvo igual. **Santo Domingo de los Tsáchilas** presenta un 50%. **Napo** muestra cifras elevadas. **Baños de Agua Santa** está casi en un 90%. **Manta** supera el 70%. 
+
+10 fallecidos en siniestro de tránsito en Morona Santiago
+=========================================================
+
+El hecho ocurrió en el sitio denominado puente Negro. La camioneta cayó al río Paute, en el cantón Santiago de Méndez, en la Amazonía de Ecuador.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El Cuerpo de Bomberos de Méndez confirmó que hay adultos y niños fallecidos. Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/11/Morona.jpg)
+
+En el sector de **Bella Unión**, ubicado en el cantón **Santiago de Méndez**, se registró un fatal siniestro de tránsito. Una camioneta cayó cerca de 60 mestros en el **río Paute.**
+
+El hecho fue reportado al ECU-911 a las 05:22 de este domingo 3 de noviembre de 2024.
+
+Según los informes preliminares de la **Policía Nacional**, el siniestro se produjo por “una pérdida de pista” en el sitio en el que se unen los **ríos Paute y Negro.** El vehículo se estrelló contra el barranco y el **río** Paute.
+
+El jefe del **Cuerpo de Bomberos de Méndez**, John Cordero, confirmó que existen 10 fallecidos, que pertenecían a dos familias.
+
+Son **ocho adultos y dos menores de edad.** Además, una niña, de seis años, resultó herida. El automotor es de placas GSK-1429.
+
+### Más noticias
+
+* [Fiscalía investiga ataque armado a Joselito Argüello, candidato a la Asamblea](https://www.elcomercio.com/actualidad/seguridad/joselito-arguello-aspirante-asambleista-victima-ataque-armado-salinas.html "Fiscalía investiga ataque armado a Joselito Argüello, candidato a la Asamblea")
+* [El uso legítimo de la fuerza policial se intensificó este 2024 en Ecuador](https://www.elcomercio.com/actualidad/seguridad/uso-legitimo-fuerza-policia-intensifico-2024-ecuador.html "El uso legítimo de la fuerza policial se intensificó este 2024 en Ecuador")
+
+El rescate de los cuerpos en Santiago de Méndez
+-----------------------------------------------
+
+Al sitio acudieron los equipos de **emergencia de Macas**, la capital provincial de **Morona Santiago**.
+
+Además, se solicitó apoyo de los **Bomberos de Sucúa** para las labores de extracción y recuperación de los cuerpos.
+
+Las autoridades de **Morona Santiago** emitirán un comunicado con todos los detalles de este siniestro.
+
+El tránsito vehicular fue suspendido durante dos horas en la **vía Bella Unión-Limón Indanza**. La intención es facilitar las labores de rescate de los cuerpos y el automotor.
+
+Luis Miguel no tiene covid-19, la verdadera razón de su aparente enfermedad 
+============================================================================
+
+Luis Miguel pospuso varios conciertos en México debido a problemas de salud que han generado rumores.
+-----------------------------------------------------------------------------------------------------
+
+![Luis Miguel agradeció a sus seguidores por su apoyo en cuanto al tema de una enfermedad que lo aqueja. Foto: Instagram @luismiguel.](https://www.elcomercio.com/wp-content/uploads/2024/11/Luis-Miguel-salud-1.jpg)
+
+**Luis Miguel**, conocido como ‘El Sol’, ha pospuesto varios de sus **conciertos en México** debido a **problemas de salud**, lo que ha generado preocupación entre sus seguidores y dejado **incertidumbre sobre su estado**. 
+
+### Más noticias
+
+* [Fans de Luis Miguel recuperan la calma luego de un sustazo](https://www.elcomercio.com/tendencias/entretenimiento/luis-miguel-fans-susto-conciertos-salud.html "https://www.elcomercio.com/tendencias/entretenimiento/luis-miguel-fans-susto-conciertos-salud.html")
+* [Conciertos cancelados de Luis Miguel generan controversia entre sus fanáticos](https://www.elcomercio.com/tendencias/cancelacion-conciertos-luis-miguel-salud-fans.html "https://www.elcomercio.com/tendencias/cancelacion-conciertos-luis-miguel-salud-fans.html")
+
+**Fechas afectadas por la salud de Luis Miguel** 
+-------------------------------------------------
+
+La gira, que incluía **presentaciones en varias ciudades**, se vio interrumpida, lo que afectó **fechas programadas** en Ciudad de México el 24 y 28 de octubre, Pachuca el 27, Querétaro el 29, e Irapuato el 31. Ante la situación, el equipo del cantante decidió **reprogramar estos conciertos**. 
+
+**Mensaje de agradecimiento a sus seguidores** 
+-----------------------------------------------
+
+A través de un **mensaje en redes sociales**, Luis Miguel agradeció el apoyo y la comprensión de sus seguidores, se informó que las entradas adquiridas serán válidas para las **nuevas fechas**, las cuales se anunciarán próximamente. 
+
+**Regreso programado en Puebla** 
+---------------------------------
+
+Se esperaba que el artista **retome sus presentaciones** el 2 de noviembre en el Estadio Hermanos Serdán de Puebla. **Darío León**, su productor, confirmó la noticia en el programa ‘Venga la alegría’, al asegurar que **Luis Miguel se encuentra en mejor condición** y listo para regresar a los escenarios. 
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBwQ1_6BaXY/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Venga la Alegría (@vengalaalegria)](https://www.instagram.com/reel/DBwQ1_6BaXY/?utm_source=ig_embed&utm_campaign=loading)
+
+**Michelle Salas tranquiliza a los fans** 
+------------------------------------------
+
+Además, **su hija Michelle Salas** compartió recientemente su viaje a Colombia en redes sociales, lo que ha traído tranquilidad a los seguidores al indicar que **la situación familiar no es tan grave como se había especulado**. 
+
+**Descartan covid-19 como causa de su malestar** 
+-------------------------------------------------
+
+Según información de [Emisoras Unidas](https://emisorasunidas.com/2024/11/02/verdadera-enfermedad-que-sufre-luis-miguel/ "https://emisorasunidas.com/2024/11/02/verdadera-enfermedad-que-sufre-luis-miguel/"), el **diagnóstico de covid-19** que circulaba en medios de entretenimiento fue descartado. En cambio, la verdadera causa de su malestar sería una **inflamación en las cuerdas vocales**, derivada de su intensa agenda de conciertos. 
+
+**Fernanda Familiar desmiente rumores** 
+----------------------------------------
+
+La **conductora Fernanda Familiar** aportó detalles adicionales sobre el **estado de salud del artista**. En su programa, Familiar comentó que **allegados al cantante confirmaron que Luis Miguel no sufrió de covid-19** ni de problemas respiratorios severos, como se había especulado. “Lo que yo sé es que **Luis Miguel** ha tenido muchos conciertos, **se le inflamaron las cuerdas vocales**, no tuvo covid ni problemas respiratorios”, afirmó Familiar, citada por Emisoras Unidas. 
+
+**Rumores de neumonía quedan atrás** 
+-------------------------------------
+
+El periodista **Gustavo Adolfo Infante** había sugerido previamente que el cantante podría presentar **síntomas de neumonía**. Sin embargo, Familiar desmintió esta versión, al reiterar que **Luis Miguel se encuentra bien de salud** y que la **inflamación en sus cuerdas vocales** es la única razón de su descanso temporal. 
+
+**La causa: una agenda de conciertos intensa** 
+-----------------------------------------------
+
+**Luis Miguel, conocido por éxitos como La incondicional, ha mantenido una agenda intensa**, y esta exigencia habría provocado el **desgaste de sus cuerdas vocales**. Familiar expresó su deseo de que el artista reciba el tratamiento adecuado para su recuperación. 
+
+**Fuentes cercanas** aseguran que **el cantante está estable** y que su pausa en los conciertos es temporal. Esta actualización ha traído tranquilidad a sus seguidores, quienes se encontraban preocupados por los rumores previos sobre su salud. 
+
+Megaparque Centenario Agustín Intriago aporta al cambio en Manta
+================================================================
+
+La ciudad de Manta celebra la inauguración del Megaparque Centenario Agustín Intriago.
+--------------------------------------------------------------------------------------
+
+![El Megaparque será un nuevo atractivo turístico de Manta.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-3-7.jpg)
+
+La ciudad de Manta celebra la inauguración del **Megaparque Centenario Agustín Intriago**, un proyecto que promete transformar el **sector de La Poza** y dejar atrás años de **contaminación e inseguridad**.
+
+### Más noticias
+
+* [Operativos en Durán y Manta se realizan ante la inseguridad](https://www.elcomercio.com/actualidad/seguridad/operativos-duran-manta-inseguridad.html "Operativos en Durán y Manta se realizan ante la inseguridad")
+* [Incendio consume el 60% del barco pesquero Jostin en el Puerto de Manta](https://www.elcomercio.com/actualidad/ecuador/incendio-consume-el-60-del-barco-pesquero-jostin-en-el-puerto-de-manta.html "Incendio consume el 60% del barco pesquero Jostin en el Puerto de Manta")
+* [Llegada de cruceros a Manta dinamiza la economía de la región](https://www.elcomercio.com/actualidad/ecuador/cruceros-manta-temporada-economia.html "Llegada de cruceros a Manta dinamiza la economía de la región")
+
+Con **16 hectáreas**, de las cuales 7 se destinan a áreas verdes con más de **600 árboles plantados**, este espacio refleja el **compromiso de la Alcaldía del Cambio.**
+
+**Marciana Valdivieso**, alcaldesa actual, ha seguido los pasos de su antecesor **Agustín Intriago**, quien inició los estudios para este parque en 2019.
+
+> El megaparque era tu gran sueño, Agustín. La obra que cambiará la historia de Manta para siempre se llamará como tú, como es la voluntad de nuestra Manta. Amaste a esta tierra como la propia familia y por ella, lo damos todo. Este 4 de noviembre, en la sesión solemne que también… [pic.twitter.com/zZmjp0jnf6](https://t.co/zZmjp0jnf6)
+> 
+> — Marciana Valdivieso (@marcivaldivieso) [October 30, 2024](https://twitter.com/marcivaldivieso/status/1851743440993730963?ref_src=twsrc%5Etfw)
+
+Los estudios y planeación iniciaron en **2019, y en 2022** el proyecto recibió recursos no reembolsables, permitiendo que hoy este parque sea una realidad. El **Megaparque se perfila como el lugar de encuentro de las familias mantenses** y como un punto turístico clave. Además de su enorme extensión, alberga la fuente más grande del litoral, que con **70 chorros de agua iluminados** crea una atmósfera única.
+
+Este nuevo espacio, además, incorpora una colina mirador de **7,5 metros de altura**, ofreciendo vistas panorámicas inigualables de los atardeceres y paisajes de Manta. La infraestructura busca, además, reactivar la economía local con su **megateatro al aire libre** y su cercanía al mar.
+
+Un Megaparque para el bienestar de todos
+----------------------------------------
+
+**Emilio Macías**, coordinador de Infraestructuras del Municipio de Manta, relató cómo este proyecto inició como un sueño en 2019. Menciona que antes los mantenses visitaban parques en otras ciudades, y al recorrer **Portoviejo con el alcalde Intriago**, se propusieron crear algo similar en su propio cantón.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-31-at-10.52.47-1024x768.jpeg)
+
+Foto: Municipio de Manta
+
+Este sector era antes un **muelle artesanal** y con el crecimiento rápido de Manta, enfrentó problemas de saneamiento, acumulando **aguas negras y escombros tras el terremoto de 2016**.
+
+La necesidad de espacios recreativos y verdes en Manta fue uno de los **motores principales del proyecto**. Macías recuerda los **desafíos enfrentados**, como la búsqueda de fondos fuera del país para hacer realidad este parque.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-31-at-10.53.17-1024x768.jpeg)
+
+Foto: Municipio de Manta
+
+Petroecuador finalmente aportó el financiamiento necesario, alcanzando un costo de **21 millones de dólares**, haciendo de este **parque el único en el país con vistas al mar** y la más alta inversión en un proyecto recreativo de estas características.
+
+El Megaparque es un **proyecto diseñado no solo para los turistas**, sino para todos los mantenses, quienes ahora cuentan con un espacio que, además de disfrutar la playa, **brinda oportunidades de recreación** y esparcimiento.
+
+Los 600 árboles sembrados en sus hectáreas verdes representan el **compromiso ambiental y de sostenibilidad de Manta**.
+
+Grandes eventos y el esparcimiento en el Megaparque de Manta
+------------------------------------------------------------
+
+El **Megaparque Centenario** incluye un teatro al aire libre con capacidad para **5 000 personas**, lo cual permitirá la realización de **eventos de gran escala**. Con camerinos, acondicionamiento acústico y facilidades para artistas, el teatro fue diseñado para cubrir todas las **necesidades logísticas de eventos públicos**.
+
+Según Macías, este espacio está preparado para **albergar actividades durante todo el año**, ofreciendo a la comunidad un lugar de **entretenimiento constante**.
+
+Adicionalmente, el parque cuenta con una **fuente de agua única en el perfil costero**, que combina una pileta seca para el juego seguro de niños y una pileta húmeda con chorros de agua de hasta 12 metros de altura.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-31-at-10.52.17-1024x768.jpeg)
+
+Foto: Municipio de Manta
+
+Esta fuente, equipada con iluminación colorida, se convirtió rápidamente en una **atracción visual**. Ubicada en el centro del parque, esta instalación representa el **esfuerzo de Manta por ofrecer un espacio recreativo** que reúna a sus habitantes en un ambiente seguro y estético.
+
+El proyecto culmina con una colina mirador que ofrece **vistas panorámicas de la costa y del puerto de Manta**. Esta colina se diseñó con **áreas de descanso** y un mirador que, en días despejados, permite contemplar hasta el horizonte.
+
+Macías resaltó que, además de ser un espacio estético, el mirador también conecta a los visitantes con la riqueza **visual de la ciudad y su crecimiento**.
+
+Hoy es el Día de Godzilla, efeméride dedicada al ‘rey de los monstruos’ 
+========================================================================
+
+El 3 de noviembre se celebra el Día de Godzilla, para homenajear al icónico ‘kaiju’ que ha marcado la cultura pop desde 1954.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Godzilla, conocido como ‘Gojira’ en Japón, debutó en 1954 como símbolo de destrucción y esperanza. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-de-Godzilla.jpg)
+
+El 3 de noviembre es una fecha significativa para los **amantes del cine y la cultura pop**. Este día se conmemora el **Día de Godzilla**, un evento que celebra al legendario monstruo conocido como el **“Rey de los Kaiju”**.  
+
+### Más noticias
+
+* [Te contamos la historia de Godzilla, el rey de los monstruos en el cine](https://www.elcomercio.com/tendencias/cine/godzilla-historia-cine-japon.html "https://www.elcomercio.com/tendencias/cine/godzilla-historia-cine-japon.html") 
+* [Las mascotas y la saga ‘X-Men’ intentarán ganar a ‘Godzilla’ en cartelera](https://www.elcomercio.com/tendencias/entretenimiento/mascotas-saga-xmen-peliculas-cine.html "https://www.elcomercio.com/tendencias/entretenimiento/mascotas-saga-xmen-peliculas-cine.html")
+
+Desde su **primera aparición en 1954**, Godzilla ha dejado una huella imborrable en la industria cinematográfica y en la cultura popular a nivel mundial. **La historia de este colosal ser es rica y fascinante**, llena de simbolismos que reflejan los miedos y esperanzas de varias generaciones. 
+
+**Orígenes de Godzilla** 
+-------------------------
+
+**Godzilla**, conocido como **‘Gojira’** en Japón, hizo su debut en la **película ‘Gojira’** (1954), producida por el **estudio Toho**. La creación de este monstruo fue inspirada por los **horrores de la bomba atómica** lanzada sobre Hiroshima y Nagasaki durante la **Segunda Guerra Mundial**.  
+
+La figura de **Godzilla** simboliza tanto la destrucción como la esperanza de renacimiento, convirtiéndose en un ícono cultural que trasciende fronteras. El **nombre “Gojira”** es una **combinación de las palabras japonesas “gorira” (gorila) y “kujira” (ballena**), lo que refleja su naturaleza híbrida y su imponente tamaño, según [Infobae](https://www.infobae.com/malditos-nerds/2023/11/17/los-origenes-de-godzilla-el-rey-de-los-kaiju/ "https://www.infobae.com/malditos-nerds/2023/11/17/los-origenes-de-godzilla-el-rey-de-los-kaiju/").  
+
+**Godzilla en el cine** 
+------------------------
+
+Desde su estreno, **Godzilla ha protagonizado más de 30 películas**, convirtiéndose en un **pilar del cine japonés y mundial.** Las historias han evolucionado, pero el tema central sigue siendo la lucha entre el ser humano y la naturaleza desatada. A lo largo de las décadas, Godzilla ha enfrentado a otros monstruos icónicos como **King Kong, Mothra y Ghidorah,** lo que ha ampliado su universo narrativo, siguiendo con Infobae.  
+
+**Celebración del Día de Godzilla** 
+------------------------------------
+
+Cada año, **el 3 de noviembre se celebra el Día de Godzilla** en honor a su **estreno original**. Este evento ha ganado popularidad entre los fanáticos del cine y la c**ultura ‘geek’**.  
+
+En **Japón**, las festividades incluyen **proyecciones especiales de películas clásicas, eventos temáticos en cines y ferias dedicadas a productos relacionados con Godzill**a. Los fanáticos también comparten sus recuerdos y experiencias a través de redes sociales. 
+
+**Curiosidades de Godzilla**   
+-------------------------------
+
+* Godzilla iba a ser originalmente un **pulpo gigante mutante**, pero el productor **Tomoyuki Tanaka** optó por un diseño más parecido a un dinosaurio.  
+
+* En la película clásica de 1954, el **icónico rugido de Godzilla** se creó al frotar un guante de cuero cubierto de resina de pino sobre las cuerdas de un contrabajo.  
+
+* En 1992, un traje de Godzilla **valorado en 39 000 dólares** fue robado de un garaje de Tokio y apareció en la orilla del lago Okutama, asustando a una mujer que paseaba por allí.  
+
+* Entre 1977 y 1979, **Marvel publicó una serie de 24 cómics** en los que Godzilla se enfrentó a los Vengadores y a los Cuatro Fantásticos.  
+
+* Godzilla recibió una **estrella en el Paseo de la Fama de Hollywood** en 2004 para celebrar su 50 cumpleaños. 
+
 Insultan y lanzan lodo a la comitiva de los reyes de España
 ===========================================================
 
@@ -153,67 +827,6 @@ El calendario de feriados de Ecuador fue preestablecido para los años 2023, 202
 
   
 
-Cartas a Quito / 3 de noviembre de 2024
-=======================================
-
-Estas son las cartas a Quito de este domingo 3 de noviembre de 2024
--------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Celebrando la independencia de Cuenca, un legado de libertad
-------------------------------------------------------------
-
-El 3 de noviembre es una fecha que resuena profundamente en el corazón de todos los cuencanos y ecuatorianos. En este día, recordamos la valiente proclamación de independencia de Cuenca en 1820, un acto que simboliza la lucha por la libertad y el deseo de un futuro mejor. Esta conmemoración no solo es un homenaje a aquellos patriotas que se levantaron contra el yugo español, sino también una oportunidad para reflexionar sobre el legado que nos han dejado. La independencia de Cuenca fue el resultado de un esfuerzo colectivo, donde hombres y mujeres se unieron en la Plaza de San Sebastián para exigir su derecho a ser libres. Inspirados por la reciente independencia de Guayaquil, los cuencanos se organizaron para desarmar a las tropas españolas y proclamar su libertad. Este acto heroico, aunque efímero, marcó el inicio de un camino hacia la soberanía que culminaría con la Batalla de Pichincha en 1822. Es fundamental recordar que la independencia no fue solo un evento militar; fue una manifestación del deseo de un pueblo por gobernarse a sí mismo. Hoy, al celebrar esta importante fecha, debemos fomentar en las nuevas generaciones el entendimiento del valor de la libertad y la responsabilidad que conlleva. La independencia no es solo un recuerdo del pasado; es un llamado a construir un futuro en el que prevalezcan los valores democráticos y el respeto por los derechos humanos. Invito a todos los cuencanos a participar activamente en las celebraciones del 3 de noviembre. Asistamos a los desfiles, compartamos historias sobre nuestros héroes y recordemos que cada uno de nosotros tiene un papel que desempeñar en la construcción de una sociedad más justa y libre. Que este día nos inspire a seguir luchando por nuestros ideales y a mantener vivo el espíritu patriota que nos une como ecuatorianos.
-
-Mateo Sebastián Enríquez
-
-Pensando en voz alta
-====================
-
-La campaña presidencial en Ecuador se enfoca en ataques y alianzas, con Noboa y Topic como posibles rivales del correísmo.
---------------------------------------------------------------------------------------------------------------------------
-
-![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
-
-**1.-** En la **carrera** para ocupar el sillón de Carondelet, en vez de presentarse **propuestas**, parecería que la contienda se ha caracterizado, hasta el momento por lo menos y en algunos casos – por enfocarse en **desprestigiar** al **oponente**,  ya sea por razones ciertas  y/o por lo que es peor, por **motivos** falsos.  Puede ser que, más adelante y dependiendo de las **tendencias** de las **encuestas**, ya no sea el blanco principal de los cañones Noboa, sino más bien quien aparezca tercero, quien sería la piedra en el zapato, pese a que, las **encuestas** no siempre aciertan, son relativas, tienen margen de error  e incluso algunas son  parcializadas.
-
-**2.**– La **campaña** sucia se explica, ya que el capital de los **políticos** es el Voto, y en ese orden de **prioridades** e ideas, si es necesario asaltar la verdad en aras de mantener, **recuperar** o conseguir votos, probablemente algunos (sin generalizar) estarían dispuestos y resueltos a hacerlo.
-
-**3.-** Aunque resulta aventurado y aún **temprano**, parecería hasta el momento que, las **posibilidades** de éxito del **correísmo** para  llegar a la **presidencia**, estarían lejanas ya sea con Noboa o Topic (de consolidarse su **candidatura**) o incluso con otro candidato  que sea la sorpresa y que llegue a **segunda vuelta**.
-
-**4.-** J. Topic, **controversial** y reincidente **candidato**, en el caso de llegar a una **segunda vuelta** con L. González, dicha **situación** pudiera resultar poco atractiva al **correísmo**, ya que Topic llegaría relativamente fresco, generando **expectativas** sobre todo en **materia** de **seguridad** vs. un devaluado correísmo; consecuentemente, para RC5 el **incremento** de las posibilidades de Topic le sería conveniente  hasta un punto, esto es, hasta el hito o punto de **equilibrio político** en el que le permita acercarse lo suficiente a Noboa, pero no superarlo, de tal **suerte** que el voto se diluya lo necesario, pero no lo suficiente para que llegue Topic, ni para que reviva la **posibilidad** de que Noboa gane ampliamente; situación por cierto que no dejaría  de ser un **dolor** de **cabeza** para Noboa, superado incluso por el generado por la relación con su **vicepresidenta**.
-
-**5.-** Para el PSC, Topic sin **perjuicio** de competir con su **electorado**, podría ser  una suerte de desertor que se volvió aventajado **contendor**, lo cual no les debe hacer ninguna gracia, entre otros motivos, ya que desnudaría que el PSC, pese a su **maquinaria partidista**, cada vez estaría más alejado de la posibilidad de llegar a la **presidencia** de la **república**, al punto que Topic con el auspicio de SUMA – **partido político** joven y pequeño en comparación con el **social cristianismo** – como van las cosas, superaría con **amplitud** al **candidato** del PSC.
-
-**6.-** Al parecer, al PSC y RC5 les quedaría en su **afán** de **poder**, continuar aferrándose a la boya de la **Asamblea**, en la cual han logrado **acumular** relativo poder con base en apoyarse mutuamente (condicionando al **gobierno** de turno),  juntos no por razones  **ideológicas,** sino por interés, es decir, por  un **pragmatismo** puro y duro, que llama la **atención** y despierta dudas…  En los últimos días, nuevamente se juntaron, el PSC apoyó  la terna de la **Asamblea** al CPCCS a efecto de la renovación parcial de la C. Constitucional, terna **propuesta** por el **correísmo** y encabezada  por Angélica Porras, quien en su momento fue una de las decididas atacantes a la **Fiscal General**; y, en reciprocidad, el apoyo de RC5 al hasta hace poco **rechazado** y ahora apoyado O. Vera – de las filas **socialcristianas** – para ocupar la primera vicepresidencia de la **Asamblea**, con lo cual dicha tienda se asegura, por un lado, un puesto en el influyente **Consejo** de **Administración Legislativa** CAL y, por otro lado, retomar la **conducción** de la **Asamblea**, aunque sea temporalmente, toda vez que la actual **presidenta correista** V. Veloz, en enero, deberá ausentarse para realizar su **campaña** de **reelección** como **asambleísta**.
-
-Daría la **impresión**, por tanto, que, tanto el PSC y RC5 comparten el mismo **fantasma** en **Carondelet**, y que el PSC para efectos **prácticos**, a momentos sus siglas pudieran interpretarse como **Partido Social** “**Correista**”, en razón de su constante cercanía y **convergencia**, es decir, por la fiel **convivencia** de su unión de **conveniencia**…
-
-Antiturismo
-===========
-
-El antiturismo quizá no sea tan espantoso como lo pintan, tal vez es la única solución.
----------------------------------------------------------------------------------------
-
-![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
-
-El **turismo** masivo ha convertido destinos únicos en **escenarios** de **sobreexplotación** que distorsionan la esencia de estos lugares y degradan la vida de los **residentes**. En **Barcelona**, la presencia masiva de **turistas** ha llevado a la **población local** a manifestarse contra lo que consideran una **invasión**; mientras que **Venecia**, ya al borde de la ruina por el arribo constante de **cruceros**, observa cómo sus canales y **ecosistema** se deterioran.
-
-En Bali, el **aumento** de **precios** de **productos básicos** debido a la demanda **turística** afecta la vida de las **comunidades locales**; Islandia se enfrenta a visitantes que ignoran las **normas** de **protección natural**, y Machu Picchu intenta frenar el daño de sus **ruinas**.
-
-Las medidas **antiturismo** incluyen limitar las **viviendas turísticas** en Barcelona o Nueva York, cobrar tasas de entrada a **Venecia**, restringir el número diario de visitantes en Santorini, prohibir **tours** guiados en zonas sensibles de Tokio, desviar **turistas** a áreas menos saturadas en Amsterdam o promover el **turismo** en **temporadas** bajas en Roma. Pero estas acciones no reducen el **impacto ambiental**, ni cultural, ni protegen la **calidad** de **vida** de los **residentes**.
-
-Esta sobrecarga de **turistas** no encuentra una respuesta que no sean manifestaciones o **agresiones** a los **turistas**, y la idea de una “**colaboración internacional**” para un **turismo** sostenible suena hipócrita, porque en la práctica cada país compite por atraer más **visitantes** que el otro.
-
-Además, las grandes **cadenas hoteleras**, plataformas como Airbnb, aerolíneas, tour **operadores internacionales** y gigantes de la intermediación **digital** no muestran intención alguna de reducir la sobreexplotación de **destinos** saturados como París y al contrario, **capitales** de **riesgo** compran edificios familiares para ponerlos en Airbnb, como sucede en Portugal.
-
-Con una **estructura** basada en maximizar **beneficios** y minimizar **costos**, la posibilidad de que los gigantes del **turismo** sacrifiquen **ganancias** para promover un **turismo** respetuoso y sostenible es un engaño que sirve para grandilocuentes **declaraciones** de la **burocracia internacional**, que se reúne en costosos **hoteles** de **destinos** saturados con **fondos públicos**.
-
-El **turismo** **masivo** seguirá dejando sin **viviendas** a las familias, transformando negativamente las **comunidades locales**, contaminando, inflando **precios** y convirtiendo paraísos en infiernos de **masas** de **visitantes**, que poco les importa el **destino** y la vida de los **residentes**.
-
-El **antiturismo** quizá no sea tan espantoso como lo pintan, tal vez es la única **solución**.
-
 Cumbres borrascosas
 ===================
 
@@ -240,586 +853,41 @@ Como se decía, la **política** es una **cuestión** de **agenda**, no entiende
 
 Aunque la **visión** de Reid en este libro es menos **optimista**, despeja un tanto la **borrasca** de las cumbres, añadiendo cierta **pausa** a todo, y para ello cita al **liberal** argentino Bautista Alberdi: «_Las **naciones**, como los hombres, no tienen alas; hacen sus viajes a pie, paso a paso_». ¡Que así sea la agenda!
 
-Fiscalía investiga ataque armado a Joselito Argüello, candidato a la Asamblea
-=============================================================================
+Antiturismo
+===========
 
-El abogado Joselito Argüello fue atacado en Salinas, Santa Elena, tras una reunión política
--------------------------------------------------------------------------------------------
-
-![El abogado Joselito Argüello, quien es candidato a la Asamblea Nacional en las próximas elecciones, fue atacado a tiros este sábado 2 de noviembre en Salinas.](https://www.elcomercio.com/wp-content/uploads/2024/11/joselito.jpg)
-
-El abogado **Joselito Argüello** y su padre fueron víctimas de un ataque armado este sábado 2 de noviembre en **Salinas**, provincia de **Santa Elena**. La **Fiscalía** abrió una investigación de oficio, para esclarecer el hecho violento.
-
-### Más noticias
-
-* [Policía despliega efectivos para seguridad de candidatos presidenciales](https://www.elcomercio.com/actualidad/politica/policia-despliega-efectivos-para-seguridad-candidatos-presidenciales.html "Policía despliega efectivos para seguridad de candidatos presidenciales")
-* [Secuestro de exalcaldesa de Colimes, Jackeline Ordóñez, sigue sin resolverse](https://www.elcomercio.com/actualidad/secuestro-exalcaldesa-colimes-jackeline-ordonez.html "Secuestro de exalcaldesa de Colimes, Jackeline Ordóñez, sigue sin resolverse")
-* [El uso legítimo de la fuerza policial se intensificó este 2024 en Ecuador](https://www.elcomercio.com/actualidad/seguridad/uso-legitimo-fuerza-policia-intensifico-2024-ecuador.html "El uso legítimo de la fuerza policial se intensificó este 2024 en Ecuador")
-
-El ataque armado fue confirmado por el candidato a la Presidencia por el Partido Socialista Ecuatoriano (PSE), **Pedro Granja**. **Argüello** también aspira llegar a la Asamblea Nacional con esta misma organización política.
-
-“Acaban de balear a **Joselo Argüell**o en Salinas. Su padre recibió varios impactos y está más grave. Están en el hospital. Minutos antes estuvimos juntos en un evento en Santa Elena. Esto es sencillamente un horror”, publicó Granja en sus redes sociales.
-
-Un comunicado del Partido Socialista
-------------------------------------
-
-Asimismo, el PSE emitió un comunicado donde condenó el ataque y exigió a las autoridades garantizar la seguridad de sus candidatos. “Demandamos que se inicien las **investigaciones y se asegure justicia**“, señaló la organización.
-
-> 🚨Urgente [pic.twitter.com/bgnegfcm3R](https://t.co/bgnegfcm3R)
-> 
-> — Partido Socialista Ecuatoriano (@PSEcuatoriano) [November 2, 2024](https://twitter.com/PSEcuatoriano/status/1852843960311431402?ref_src=twsrc%5Etfw)
-
-“La Fiscalía abrió –de oficio– una investigación previa, luego de que un abogado y su acompañante fueran heridos de bala por parte de sujetos no identificados, durante un presunto intento de robo en el cantón **Salinas**“, publicó en sus redes sociales.
-
-Además, agregó que junto a la Policía se realizó el levantamiento de indicios balísticos y el reconocimiento del lugar de los hechos, entre otras diligencias, para esclarecer lo ocurrido.
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#SantaElena](https://twitter.com/hashtag/SantaElena?src=hash&ref_src=twsrc%5Etfw): [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) abrió –de oficio– una investigación previa, luego de que un abogado y su acompañante fueran heridos de bala por parte de sujetos no identificados, durante un presunto intento de [#Robo](https://twitter.com/hashtag/Robo?src=hash&ref_src=twsrc%5Etfw) en el cantón [#Salinas](https://twitter.com/hashtag/Salinas?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/tbw4p6mX9a](https://t.co/tbw4p6mX9a)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [November 3, 2024](https://twitter.com/FiscaliaEcuador/status/1852865314100269469?ref_src=twsrc%5Etfw)
-
-Más de un millón de personas asistieron al desfile de Muertos en Ciudad de México
-=================================================================================
-
-El recorrido tuvo una duración aproximada de cinco horas. Desfilaron más de 6 000 personas.
--------------------------------------------------------------------------------------------
-
-![El recorrido comenzó en la Puerta de los Leones del Bosque de Chapultepec, avanzando por el emblemático Paseo de la Reforma, Avenida Juárez, y la Calle 5 de Mayo, hasta llegar al Zócalo. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/Ciudad-de-Mexico.jpg)
-
-##### Agencia EFE
-
-El **desfile del Día de Muertos** en la **Ciudad de México** reunió a 1,3 millones de personas que disfrutaron de un recorrido lleno de cultura, historia y tradición por las principales calles de la capital mexicana, según datos del gobierno local.
-
-El evento comenzó en la **Puerta de los Leones del Bosque de Chapultepec,** avanzando por el emblemático **Paseo de la Reforma, Avenida Juárez, y la Calle 5 de May**o, hasta llegar al **Zócalo** con una duración aproximada de **cinco horas**.
-
-“Vengo todos los años soy de la **Ciudad de Méxic**o y me encanta porque viene mucho turista, entonces imagínate lo increíble para los que vivimos aquí recibir a tanta gente y enseñar nuestras tradiciones que son tan bonitas y tan coloridas”, explicó Paola Delgado, quien acudió con su hijo.
-
-### Más noticias
-
-* [Ciudad de México recibirá a siete millones de personas por Día de Muertos](https://www.elcomercio.com/actualidad/mundo/ciudad-mexico-preve-7-millones-personas-100-millones-dolares-dia-muertos.html "Ciudad de México recibirá a siete millones de personas por Día de Muertos")
-* [Mexicanos comienzan a colocar enormes altares para celebrar el Día de Muertos](https://www.elcomercio.com/actualidad/mundo/mexicanos-comienzan-colocar-enormes-altares-celebrar-dia-muertos.html "Mexicanos comienzan a colocar enormes altares para celebrar el Día de Muertos")
-
-Los participantes del desfile de Día de Muertos
------------------------------------------------
-
-Este 2024, el desfile, en el que figuraron más de 6 000 personas, contó con la participación especial de **Oaxaca** (sur), uno de los estados más ricos en tradiciones indígenas; delegaciones de **Pochutla**, Istmo de **Tehuantepec y Valles Centrales** llevaron carros alegóricos inspirados en la cosmovisión indígena y en los elementos característicos del **Día de Muertos.**
-
-Esta colaboración incluyó **figuras monumentales y decoraciones espectaculares**, como una enorme representación de un axolote, el animal ancestral de los lagos mexicanos, que simboliza la conexión entre la vida y la muerte​.
-
-“Si tuviera que destacar algo sería a la gente, que le da toda la magia, cómo se disfrazan, cómo se entregan a esta celebración y el cariño que le ponen”, destacó **Marjorie, turista chilena** que buscó la forma de hacer coincidir sus vacaciones con esta celebración en **México**.
-
-Un homenaje a personalidades mexicanas
---------------------------------------
-
-**La Secretaría de Cultura de la Ciudad de México** rindió homenaje a figuras importantes de la historia mexicana; tres carros alegóricos fueron dedicados a la poetisa **Rosario Castellanos,** la cantante **Lucha Villa** y el pintor muralista **David Alfaro Siqueiros**, quienes dejaron un legado significativo en la cultura mexicana.
-
-Este desfile, es ya una tradición desde 2016, cuando fue inspirado por la película **Spectre de James Bond** y se ha convertido en un atractivo para cientos de miles de capitalinos y turistas que salen a las calles a festejar el día más importante en la cultura mexicana.
-
-Cuenca llega a 204 años de independencia como la ciudad más industrial de Ecuador
-=================================================================================
-
-Cuenca no solo celebra su libertad, sino también su rol fundamental en la economía ecuatoriana, consolidándose como un motor industrial.
-----------------------------------------------------------------------------------------------------------------------------------------
-
-![Trabajadora del sector industrial en una empresa de cartones en Cuenca.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-1-13.jpg)
-
-Cada **3 de noviembre**, **Cuenca conmemora su independencia**, un momento clave en su historia que marca su identidad y fortaleza. Este domingo, la capital de Azuay no solo celebra su libertad, sino también su rol fundamental en la **economía ecuatoriana**, consolidándose como un **motor industrial** y generador de empleo que impulsa el desarrollo del Ecuador.
-
-### Más noticias
-
-* [Siete lugares para visitar en Cuenca durante el feriado de Difuntos](https://www.elcomercio.com/actualidad/cuenca/siete-lugares-visitar-cuenca-feriado.html "Siete lugares para visitar en Cuenca durante el feriado de Difuntos")
-* [Cuenca apunta a superar el 90% de ocupación hotelera en feriado de Difuntos e Independencia](https://www.elcomercio.com/actualidad/ecuador/cuenca-apunta-superar-90-ocupacion-hotelera-feriado-difuntos-independencia.html "Cuenca apunta a superar el 90% de ocupación hotelera en feriado de Difuntos e Independencia")
-* [Cuenca tiene dos momentos para proyectar su economía y cultura](https://www.elcomercio.com/opinion/editorial/cuenca-tiene-momentos-proyectar-economia-cultura.html "Cuenca tiene dos momentos para proyectar su economía y cultura")
-
-Andrés Robalino, director ejecutivo de la **Cámara de Industrias, Producción y Empleo de Cuenca**, resaltó la importancia histórica de la ciudad en la **economía ecuatoriana**, destacándola como un centro industrial en crecimiento.
-
-“Cuenca ha sido una ciudad industrial desde hace **80 o 90 años** y es un sector que evoluciona a niveles tecnológicamente desarrollados”, afirmó **Robalino**.
-
-Explicó que la industria local representa un porcentaje significativo del **Producto Interno Bruto (PIB) de la ciudad**, siendo un generador clave de empleo y de **impuestos para el Ecuador**. De los aproximadamente **130 000 empleos adecuados en Cuenca**, el sector industrial emplea a unas **70 000 personas**, sumando tanto empleos directos como indirectos.
-
-Principales sectores industriales de Cuenca
--------------------------------------------
-
-Según Robalino, el **sector del cartón y papel** es actualmente el más importante en la economía de Cuenca, debido a su relación con las exportaciones nacionales de productos como el **banano, camarón, flores y brócoli**.
-
-> [#Entrevista](https://twitter.com/hashtag/Entrevista?src=hash&ref_src=twsrc%5Etfw) por [#RCNCatólica](https://twitter.com/hashtag/RCNCat%C3%B3lica?src=hash&ref_src=twsrc%5Etfw) 🎙️  
->   
-> Situación del Azuay [#crisisenergética](https://twitter.com/hashtag/crisisenerg%C3%A9tica?src=hash&ref_src=twsrc%5Etfw) 💡  
->   
-> "Vamos a tener una caída en ventas y en producción", [@arovalino](https://twitter.com/arovalino?ref_src=twsrc%5Etfw), director ejecutivo de CIPEM. [pic.twitter.com/FcDhT3KaUP](https://t.co/FcDhT3KaUP)
-> 
-> — Cámara CIPEM (@cipemec) [October 30, 2024](https://twitter.com/cipemec/status/1851693821597274180?ref_src=twsrc%5Etfw)
-
-Le sigue el sector de la **línea blanca**, y después la producción de **neumáticos y cerámica plana**. Además, Cuenca concentra el **80% de la producción nacional de licores**. Otros sectores relevantes incluyen la **fabricación de muebles**, productos plásticos, y bienes tradicionales como los sombreros de **paja toquilla y joyería.**
-
-En cuanto al impacto de los **cortes de luz recientes**, Robalino indicó que estos han afectado a más de un tercio de la **producción industrial de Cuenca**.
-
-Retos y proyecciones económicas para Cuenca
--------------------------------------------
-
-De cara al futuro, Robalino mencionó que las **proyecciones económicas para Cuenca** están influenciadas por factores externos, **especialmente en el ámbito político y judicial**.
-
-Sin embargo, destacó que existen oportunidades de crecimiento dentro de la industria local, como la mejora en **productividad y la innovación tecnológica**. “Estamos trabajando en el desarrollo de clústeres con una visión a futuro y en sectores específicos que permitan a la **industria local seguir avanzando**“, explicó.
-
-Sostenibilidad energética y desafíos políticos
-----------------------------------------------
-
-La **Cámara de Industrias**, explicó Robalino, también está promoviendo iniciativas en el uso de energía alternativa, especialmente gas natural, para enfrentar la **crisis energética**. La expectativa es que, con una nueva ley, las **empresas de Cuenca** puedan importar gas de manera directa, mejorando así su competitividad.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBMdi-IBk5Y/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Cámara CIPEM (@cipemec)](https://www.instagram.com/p/DBMdi-IBk5Y/?utm_source=ig_embed&utm_campaign=loading)
-
-Pese a estos esfuerzos, Robalino expresó que la **inestabilidad política** y los conflictos sociales en el país continúan siendo un obstáculo para la estabilidad y crecimiento del **sector industrial en Cuenca**.
-
-Cuenca, destino turístico del Ecuador
--------------------------------------
-
-Cuenca es uno de los destinos turísticos más importantes de Ecuador, afirma **Juan Pablo Vanegas**, presidente de la **[Cámara de Turismo de Azuay](https://www.azuay.gob.ec/index.php/2023/06/30/azuay-busca-internacionalizar-su-turismo/ "https://www.azuay.gob.ec/index.php/2023/06/30/azuay-busca-internacionalizar-su-turismo/")**. Con una oferta de más de **3 000 servicios turísticos**, la ciudad se posiciona como un lugar prioritario en la toma de decisiones de **viaje a nivel nacional**.
-
-Según **Vanegas**, el turismo en Cuenca **genera empleo, especialmente entre los jóvenes**, y contribuye de forma significativa a la **economía a través de impuestos**.
-
-Las fiestas de Cuenca representan una oportunidad crucial para el **sector turístico**, con expectativas de una ocupación hotelera que **supere el 80%**. Esto implica una alta demanda de las más de 10 000 plazas disponibles en la ciudad.
-
-> ¡Camina por toda la ciudad y descubre porque [#CuencaLoTieneTodo](https://twitter.com/hashtag/CuencaLoTieneTodo?src=hash&ref_src=twsrc%5Etfw)! 📔🥳  
->   
-> 🚘 Peatonizamos los siguientes puntos de la ciudad a partir del 31 de octubre al 3 de noviembre, como parte de todas las actividades preparadas por los 204 años de Independencia.[#AmorPorCuenca](https://twitter.com/hashtag/AmorPorCuenca?src=hash&ref_src=twsrc%5Etfw) ❤️💛 [pic.twitter.com/IIkdOCoWXJ](https://t.co/IIkdOCoWXJ)
-> 
-> — Municipio Cuenca (@MunicipioCuenca) [October 30, 2024](https://twitter.com/MunicipioCuenca/status/1851740021654511728?ref_src=twsrc%5Etfw)
-
-Además, se espera la visita de aproximadamente **50 000 personas al día**, quienes no solo ocupan hoteles, sino también **departamentos y hogares familiares**. Este flujo de turistas promete un **impulso económico considerable** en la ciudad durante estas celebraciones.
-
-Respecto a la situación energética, Vanegas señala que el gobierno provincial se comprometió a evitar **cortes de energía en áreas turísticas y zonas de alta concentración**. Según explica, esto brindará una mayor seguridad para los visitantes y permitirá a los **negocios locales operar sin interrupciones**.
-
-Impacto económico de las festividades y el turismo en Cuenca
-------------------------------------------------------------
-
-Según Vanegas, los feriados importantes pueden generar entre **20 y 80 millones de dólares en Cuenca**. Este impacto económico depende del **flujo turístico y del nivel de ocupación de los establecimientos hoteleros**.
-
-Vanegas resalta que, a pesar de las **interrupciones energéticas** en las últimas semanas, la expectativa de alta **ocupación en las festividades** genera optimismo para la reactivación del sector.
-
-Para mitigar posibles afectaciones por **cortes de energía**, el sector privado ha realizado inversiones en **generadores eléctricos y plantas de respaldo**. Vanegas destaca que las autoridades locales y provinciales han asegurado que no habrá interrupciones en las áreas turísticas, especialmente en el centro histórico, **Calle Larga** y zonas de eventos masivos.
-
-Estos esfuerzos buscan asegurar una **experiencia fluida y segura** para los visitantes durante las festividades, lo cual es esencial para mantener la reputación de Cuenca como un destino confiable.
-
-Retos y recuperación en el turismo de Cuenca
---------------------------------------------
-
-Vanegas también subraya que las restricciones energéticas han impactado la ocupación hotelera en los meses previos.
-
-En octubre, un mes tradicionalmente favorable para el sector, los niveles de ocupación fueron bajos debido a la incertidumbre energética. Esta situación, afirma, no solo afecta a turistas, sino también a ejecutivos y visitantes corporativos, disminuyendo el flujo de viajeros y la actividad en general.
-
-El sector productivo en cifras
-------------------------------
-
-El Boletín de cifras del sector productivo de octubre de 2024 revela que el **desempeño económico** de la **provincia de Azuay** presenta una dinámica mixta en ventas y exportaciones en comparación al año anterior.
-
-En términos de ventas locales, se reporta una disminución del **1,2%**, mientras que las exportaciones experimentaron un crecimiento del **23,9%** en el mismo periodo. Estos datos reflejan tanto una contracción en el mercado interno como un **fortalecimiento en la demanda** internacional de productos locales.
-
-El sector de **comercio, manufactura y agricultura en Azuay** muestran variaciones de desempeño: el comercio registró ventas por **1 594 millones de dólares**, con una contribución significativa en la economía provincial, mientras que la manufactura y la **agricultura** mantienen su relevancia pese a fluctuaciones menores en sus cifras interanuales.
-
-Comparado con otras provincias, **Azuay** ocupa una posición relevante en el sector productivo ecuatoriano, aunque no alcanza la magnitud de provincias como **Pichincha o Guayas**, que dominan las ventas y exportaciones nacionales.
-
-El uso legítimo de la fuerza policial se intensificó este 2024 en Ecuador
-=========================================================================
-
-En 2024, la Policía Nacional de Ecuador ha intensificado el uso legítimo de la fuerza, abatiendo a 100 presuntos delincuentes en enfrentamientos.
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Policía de Ecuador recurrió más al uso legítimo de la fuerza en los primeros 10 meses del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/policia.jpg)
-
-La **Policía de Ecuador** terminó con la vida de 100 **presuntos delincuentes** en los primeros diez meses de 2024. Las muertes se registraron en enfrentamientos donde los agentes dispararon “en uso legítimo de la fuerza”, según anunció la misma institución[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [En el feriado de Difuntos habrá operativos con 52 786 policías](https://www.elcomercio.com/actualidad/seguridad/feriado-difuntos-habra-operativos-52-786-policias.html "En el feriado de Difuntos habrá operativos con 52 786 policías")
-* [Militares de Ecuador desmontan altar de culto a la ‘santa muerte’](https://www.elcomercio.com/actualidad/seguridad/militares-ecuador-desmontan-altar-culto-santa-muerte-quevedo.html "Militares de Ecuador desmontan altar de culto a la ‘santa muerte’")
-* [Más de 285 000 migrantes de Venezuela, Ecuador y otros países cruzaron el Darién](https://www.elcomercio.com/actualidad/mundo/mas-migrantes-venezuela-ecuador-paises-cruzaron-darien.html "Más de 285 000 migrantes de Venezuela, Ecuador y otros países cruzaron el Darién")
-
-La mayoría de las muertes se registraron en la provincia de Guayas (44). De ellas, 34 fueron dentro de **Guayaquil** y su área metropolitana.
-
-16 presuntos delincuentes abatidos se registran en la provincia de **Los Río**s y nueve en **El Oro**, provincia fronteriza con Perú. Mientras que **Manabí** tiene siete presuntos delincuentes abatidos.
-
-Estas cuatro provincias, que concentran la mayor parte de los casos de presuntos delincuentes abatidos por la Policía, se encuentran dentro del último **estado de excepción** decretado por el presidente, **Daniel Noboa**. El objetivo es combatir a las bandas de crimen organizado.
-
-“Como Policía de Ecuador, privilegiamos siempre la vida. Sin embargo, en defensa de nuestros ciudadanos, así como el de nuestros servidores policiales, hemos hecho uso legítimo de la fuerza”. Esto señaló el comandante general de la Policía, **Víctor Zárate**, en sus redes sociales, para explicar el elevado número de presuntos **delincuentes fallecidos**.
-
-Las actuaciones letales de la Policía ecuatoriana aumentaron desde 2023 y contrastan con los seis casos que se registraron en 2022.
-
-Esto se debe a las disposiciones marcadas por el Gobierno para enfrentar la crecida de la delincuencia. Esto incluye que los policías puedan hacer uso de las **armas de fuego** para repeler una ataque o para neutralizar a un delincuente en flagrancia que represente una amenaza.
-
-País con más muertes en Latinoamérica
--------------------------------------
-
-Ecuador se volvió el primer país de Latinoamérica en homicidios per cápita, con una tasa de 47,2 por cada 100 000 habitantes en 2023, ocho veces mayor respecto a 2016. Esto es producto del auge de la violencia de los grupos criminales, principalmente dedicados al narcotráfico.
-
-Desde inicios de año, el presidente Noboa elevó la **lucha contra el crimen** organizado a la categoría de “**conflicto armado interno**“. Con esto pasó a catalogar a estas bandas como **grupos terroristas** y actores **beligerantes** no estatales, a la vez que decretó un estado de excepción con el que, entre otras acciones, militarizó las **cárceles controlada**s por estas organizaciones.
-
-En el transcurso de esta estrategia surgieron denuncias de presuntas violaciones a los derechos humanos. Por ejemplo, **Amnistía Internacional** (AI) expresó esta semana su preocupación por lo que considera un **deterioro de la situación de derechos humanos en Ecuador**.
-
-Esas denuncias de organizaciones defensoras de los derechos humanos incluyen detenciones llevadas a cabo con **escasa evidencia de garantías procesale**s, actos de tortura y otros **malos trato**s dentro de las prisiones, y **ejecuciones extrajudiciales** y desapariciones forzadas.
-
-De acuerdo al Gobierno, las muertes violentas a nivel nacional han descendido un 17 % en 2024 respecto al año anterior. Pero los episodios de violencia criminal no han cesado, a la vez que también se siguen reportando secuestros y extorsiones. 
-
-Margot Robbie, la Barbie, se estrena como madre
-===============================================
-
-La actriz Margot Robbie, conocida por su papel en Barbie, dio a luz a su primer hijo junto a su esposo Tom Ackerley. La noticia fue confirmada este 2 de noviembre.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![La relación entre Margot y Tom comenzó en 2013, cuando se conocieron en el set de Suite Française. Redes sociales](https://www.elcomercio.com/wp-content/uploads/2024/11/Barbie.jpg)
-
-**Margot Robbie y Tom Ackerley** han recibido a su primer hijo, según informaron medios internacionales este 2 de noviembre.
-
-La llegada del bebé se produce tres meses después de que la actriz difundiera su embarazo durante unas vacaciones en el lago de **Como, Italia**.
-
-### Más noticias
-
-* [El país donde se habla mejor español, según la inteligencia artificial](https://www.elcomercio.com/tecnologia/inteligencia-artificial-espanol-dialecto.html "El país donde se habla mejor español, según la inteligencia artificial ")
-* [Cazzu cuenta cómo casi pierde a su hija en el parto](https://www.elcomercio.com/afull/cazzu-nodal-hija-revelaciones.html "Cazzu cuenta cómo casi pierde a su hija en el parto")
-
-La historia de amor de Margot Robbie y Tom Ackerley
----------------------------------------------------
-
-La relación entre **Margot y Tom** comenzó en 2013, cuando se conocieron en el set de **Suite Française**.
-
-Aunque inicialmente eran solo amigos, **Margot** confesó haber estado enamorada de **Tom** desde el principio, pero pensaba que él nunca sentiría lo mismo.
-
-“Siempre estuve enamorada de él”, dijo **Robbie**, recordando cómo finalmente se atrevió a expresar sus sentimientos.
-
-Un matrimonio discreto y exitoso
---------------------------------
-
-**Margot y Tom** se casaron en una ceremonia íntima en **Byron Bay, Australia, en 2016**. Desde entonces, han mantenido su vida personal alejada del ojo público.
-
-En entrevistas recientes, Margot ha compartido lo afortunada que se siente por tener a Tom a su lado, describiéndolo como un “marido normie” que prefiere estar detrás de la cámara.
-
-El futuro de Margot Robbie y Tom Ackerley
------------------------------------------
-
-La llegada del bebé coincide con un momento de gran éxito profesional para **Margot**, quien fue productora y protagonista de la exitosa película **Barbie**.
-
-En una entrevista anterior, expresó su deseo de tener una familia numerosa en el futuro: “Quiero ver una gran cena de Navidad con toneladas de niños allí”, aunque aclaró que no era el momento adecuado para expandir su familia.
-
-Inamhi emite una advertencia por el clima de este domingo 3 de noviembre de 2024
-================================================================================
-
-Ecuador está en alerta por condiciones meteorológicas adversas hasta el 5 de noviembre.
+El antiturismo quizá no sea tan espantoso como lo pintan, tal vez es la única solución.
 ---------------------------------------------------------------------------------------
 
-![En algunos sectores de la Sierra y Amazonía se esperan lluvias con tormentas](https://www.elcomercio.com/wp-content/uploads/2024/11/lluvias-cuenca.jpg)
+![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
 
-El Instituto Nacional de Meteorología e Hidrología (**Inamhi**) emitió el Boletín No. 57, este sábado 2 de noviembre de 2024. En el documento se establece una advertencia para **Ecuador** por las **condiciones climáticas**[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+El **turismo** masivo ha convertido destinos únicos en **escenarios** de **sobreexplotación** que distorsionan la esencia de estos lugares y degradan la vida de los **residentes**. En **Barcelona**, la presencia masiva de **turistas** ha llevado a la **población local** a manifestarse contra lo que consideran una **invasión**; mientras que **Venecia**, ya al borde de la ruina por el arribo constante de **cruceros**, observa cómo sus canales y **ecosistema** se deterioran.
 
-### Más noticias
+En Bali, el **aumento** de **precios** de **productos básicos** debido a la demanda **turística** afecta la vida de las **comunidades locales**; Islandia se enfrenta a visitantes que ignoran las **normas** de **protección natural**, y Machu Picchu intenta frenar el daño de sus **ruinas**.
 
-* [Quito registró fuertes lluvias en el inicio del feriado](https://www.elcomercio.com/actualidad/quito/quito-fuertes-lluvias-jueves-feriado.html "Quito registró fuertes lluvias en el inicio del feriado")
-* [Tarde y noche de lluvias en una importante región de Ecuador, según el Inamhi](https://www.elcomercio.com/actualidad/ecuador/tarde-noche-lluvias-importante-region-ecuador-segun-inamhi.html "Tarde y noche de lluvias en una importante región de Ecuador, según el Inamhi ")
-* [La central hidroeléctrica Mazar reanudó sus operaciones](https://www.elcomercio.com/actualidad/negocios/central-hidroelectrica-mazar-reanudo-operaciones.html "La central hidroeléctrica Mazar reanudó sus operaciones")
+Las medidas **antiturismo** incluyen limitar las **viviendas turísticas** en Barcelona o Nueva York, cobrar tasas de entrada a **Venecia**, restringir el número diario de visitantes en Santorini, prohibir **tours** guiados en zonas sensibles de Tokio, desviar **turistas** a áreas menos saturadas en Amsterdam o promover el **turismo** en **temporadas** bajas en Roma. Pero estas acciones no reducen el **impacto ambiental**, ni cultural, ni protegen la **calidad** de **vida** de los **residentes**.
 
-Lluvias y tormentas afectarán a varias provincias de Ecuador
+Esta sobrecarga de **turistas** no encuentra una respuesta que no sean manifestaciones o **agresiones** a los **turistas**, y la idea de una “**colaboración internacional**” para un **turismo** sostenible suena hipócrita, porque en la práctica cada país compite por atraer más **visitantes** que el otro.
+
+Además, las grandes **cadenas hoteleras**, plataformas como Airbnb, aerolíneas, tour **operadores internacionales** y gigantes de la intermediación **digital** no muestran intención alguna de reducir la sobreexplotación de **destinos** saturados como París y al contrario, **capitales** de **riesgo** compran edificios familiares para ponerlos en Airbnb, como sucede en Portugal.
+
+Con una **estructura** basada en maximizar **beneficios** y minimizar **costos**, la posibilidad de que los gigantes del **turismo** sacrifiquen **ganancias** para promover un **turismo** respetuoso y sostenible es un engaño que sirve para grandilocuentes **declaraciones** de la **burocracia internacional**, que se reúne en costosos **hoteles** de **destinos** saturados con **fondos públicos**.
+
+El **turismo** **masivo** seguirá dejando sin **viviendas** a las familias, transformando negativamente las **comunidades locales**, contaminando, inflando **precios** y convirtiendo paraísos en infiernos de **masas** de **visitantes**, que poco les importa el **destino** y la vida de los **residentes**.
+
+El **antiturismo** quizá no sea tan espantoso como lo pintan, tal vez es la única **solución**.
+
+Cartas a Quito / 3 de noviembre de 2024
+=======================================
+
+Estas son las cartas a Quito de este domingo 3 de noviembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Celebrando la independencia de Cuenca, un legado de libertad
 ------------------------------------------------------------
 
-Según el Inamhi, Ecuador está en alerta por **lluvias intensas, tormentas eléctricas** y ráfagas de viento, especialmente en la **Sierra y Amazonía**, con un nivel de amenaza **meteorológica medio y alto**.
+El 3 de noviembre es una fecha que resuena profundamente en el corazón de todos los cuencanos y ecuatorianos. En este día, recordamos la valiente proclamación de independencia de Cuenca en 1820, un acto que simboliza la lucha por la libertad y el deseo de un futuro mejor. Esta conmemoración no solo es un homenaje a aquellos patriotas que se levantaron contra el yugo español, sino también una oportunidad para reflexionar sobre el legado que nos han dejado. La independencia de Cuenca fue el resultado de un esfuerzo colectivo, donde hombres y mujeres se unieron en la Plaza de San Sebastián para exigir su derecho a ser libres. Inspirados por la reciente independencia de Guayaquil, los cuencanos se organizaron para desarmar a las tropas españolas y proclamar su libertad. Este acto heroico, aunque efímero, marcó el inicio de un camino hacia la soberanía que culminaría con la Batalla de Pichincha en 1822. Es fundamental recordar que la independencia no fue solo un evento militar; fue una manifestación del deseo de un pueblo por gobernarse a sí mismo. Hoy, al celebrar esta importante fecha, debemos fomentar en las nuevas generaciones el entendimiento del valor de la libertad y la responsabilidad que conlleva. La independencia no es solo un recuerdo del pasado; es un llamado a construir un futuro en el que prevalezcan los valores democráticos y el respeto por los derechos humanos. Invito a todos los cuencanos a participar activamente en las celebraciones del 3 de noviembre. Asistamos a los desfiles, compartamos historias sobre nuestros héroes y recordemos que cada uno de nosotros tiene un papel que desempeñar en la construcción de una sociedad más justa y libre. Que este día nos inspire a seguir luchando por nuestros ideales y a mantener vivo el espíritu patriota que nos une como ecuatorianos.
 
-Estas condiciones meteorológicas se registrarán hasta el 5 de noviembre de 2024.
-
-Los días de mayor intensidad están previstos para este **sábado 2 y domingo 3 de noviembre**, con áreas críticas en la región amazónica, especialmente en las provincias de **Sucumbíos, Orellana, Napo y Pastaza.** Además, habrá lluvias intensas en la provincia de **Tungurahua**, en la Sierra centro.
-
-Este fenómeno está influenciado por el ingreso de masas de aire húmedo procedentes de la Amazonía y el sur del continente. Además, coincide con el ingreso de la **onda tropical Madden-Julian**, que intensifica las condiciones de inestabilidad.
-
-Posibles afectaciones, según el Inamhi
---------------------------------------
-
-La advertencia meteorológica establece que:
-
-* Es probable que se produzca acumulación de agua en hogares, negocios y caminos susceptibles.
-* Las condiciones de las vías podrían verse afectadas por agua estancada, deslizamientos de tierra y bancos de niebla.
-* Posibles desbordamientos de cuerpos de agua en aquellas localidades con mayor saturación e intensidad de lluvias, como zonas de estribación de cordillera oriental y occidental.
-* No refugiarse debajo de árboles, no manejar herramientas ni objetos metálicos durante la ocurrencia de tormentas.
-
-Por su parte, la **Secretaría de Gestión de Riesgo**s recomendó seguir las indicaciones de las autoridades y estar preparados para evacuar si es necesario. La advertencia meteorológica estará vigente hasta las 07:00 del 5 de noviembre, momento en que se espera una disminución de las condiciones de riesgo.
-
-Militares de Ecuador desmontan altar de culto a la ‘santa muerte’
-=================================================================
-
-El Grupo de Fuerzas Especiales N.° 26 Cenepa y otras instituciones intervinieron locales en Quevedo y Buena Fe que incumplían el toque de queda.
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-![En el lugar también encontraron tres motocicletas sin documentación.](https://www.elcomercio.com/wp-content/uploads/2024/11/militares.jpg)
-
-El **Ejército** de Ecuador informó que allanó un **local** en el que se realizaba una fiesta en honor a la **“santa muerte”**, en la Costa ecuatoriana. La reunión se realizaba en un horario fuera del **toque de queda**, detalló la Institución, este sábado 2 de noviembre de 2024[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Propuesta de Daniel Noboa sobre bases militares extranjeras irá al Pleno de la Asamblea](https://www.elcomercio.com/actualidad/politica/propuesta-daniel-noboa-bases-militares-extranjeras-pleno-asamblea.html "Propuesta de Daniel Noboa sobre bases militares extranjeras irá al Pleno de la Asamblea")
-* [Asamblea define la comisión para tratar sobre bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/asamblea-definio-comision-propuesta-bases-militares-extranjeras.html "Asamblea define la comisión para tratar sobre  bases militares extranjeras")
-* [España incauta el mayor cargamento de droga de su historia](https://www.elcomercio.com/actualidad/mundo/espana-mayor-cargamento-droga-ecuador.html "España incauta el mayor cargamento de droga de su historia")
-
-Un grupo de militares y policías ejecutaron una intervención en locales de las ciudades de **Quevedo y Buena Fe**, en **Los Ríos**. En uno de los negocios allanados encontraron un **altar de culto a la “santa muerte”**. El mismo quedó desmantelado.
-
-Según los uniformados, el allanamiento se dio, luego de que los propietarios de los locales intentaran bloquear el acceso de los agentes del orden, una vez que se percataron de su presencia.
-
-> 𝑫𝒆𝒔𝒎𝒂𝒏𝒕𝒆𝒍𝒂𝒏 𝒂𝒍𝒕𝒂𝒓 𝒅𝒆 𝒍𝒂 𝒔𝒂𝒏𝒕𝒂 𝒎𝒖𝒆𝒓𝒕𝒆 𝒆𝒏 𝒐𝒑𝒆𝒓𝒂𝒄𝒊𝒐́𝒏 𝒎𝒊𝒍𝒊𝒕𝒂𝒓 𝒆𝒏 𝑸𝒖𝒆𝒗𝒆𝒅𝒐  
->   
-> El Grupo de Fuerzas Especiales N.• 26 Cenepa con otras instituciones del Estado ejecutaron una intervención en locales de Quevedo y Buena Fe que… [pic.twitter.com/5pNZXpb96H](https://t.co/5pNZXpb96H)
-> 
-> — Ejército Ecuatoriano (@EjercitoECU) [November 2, 2024](https://twitter.com/EjercitoECU/status/1852761887999426851?ref_src=twsrc%5Etfw)
-
-“Dentro de uno de los locales se sorprendió a los presentes en una fiesta en honor a la santa muerte. En el sitio, se desmanteló un altar dedicado a esta figura. La misma fue destruida en presencia del propietario del lugar”, señalaron las FF.AA..
-
-Además, agregó que en el lugar se encontraron **tres motocicletas sin documentación**. Todas estas pruebas se entregaron a las autoridades para los procedimientos legales correspondientes.
-
-Rituales relacionados con bandas criminales
--------------------------------------------
-
-Pese a que la Constitución garantiza la libertad de culto, el **uso de rituales relacionado**s con la muerte han sido vinculados con **bandas criminales**. A las mismas se les atribuye el auge de la inseguridad y la violencia que afronta el país desde hace unos cuatro años.
-
-El pasado 3 de octubre, el presidente **Daniel Noboa** declaró un nuevo estado de excepción por sesenta días en las provincias de **Guayas, Los Ríos, El Oro, Manabí, Santa Elena** y **Orellana**. Así como en el cantón **Camilo Ponce Enríquez**, una zona minera en la provincia de Azuay, y en Quito.
-
-Ese estado de excepción implicó también un **toque de queda** de 22:00 a 5:00 en algunas de las localidades con mayores índices de criminalidad, como Guayaquil (Guayas), y Babahoyo y Quevedo, en la vecina de **Los Ríos**.
-
-Aucas rescató el empate y frenó a Barcelona SC en la Liga Pro
-=============================================================
-
-Barcelona SC no logró continuar con su racha de victorias bajo la dirección de Segundo Alejandro Castillo.
-----------------------------------------------------------------------------------------------------------
-
-![Aucas y Barcelona SC igualaron en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-67.jpg)
-
-**Barcelona Sporting Club** empató 1-1 como visitante ante **Aucas** el sábado 2 de noviembre, en la duodécima jornada de la segunda etapa de la Liga Pro Serie A 2024.
-
-Desde la llegada de **Segundo Alejandro Castillo**, el equipo canario suma tres partidos invictos consecutivos, pero este empate podría complicar sus opciones de ganar la etapa.
-
-### Más noticias:
-
-* [Damián Díaz demandó a Barcelona Sporting Club por deudas pendientes](https://www.elcomercio.com/deportes/futbol/damian-diaz-demando-barcelona-sporting-club-deudas-pendientes.html "Damián Díaz demandó a Barcelona Sporting Club por deudas pendientes")
-* [Vinícius Jr. respalda a jugadores del Barcelona tras ser víctimas de racismo](https://www.elcomercio.com/deportes/futbol/vinicius-jr-respalda-a-jugadores-del-barcelona-tras-ser-victimas-de-racismo.html "Vinícius Jr. respalda a jugadores del Barcelona tras ser víctimas de racismo")
-* [Barcelona SC goleó y así quedó la tabla de posiciones en la fecha 11](https://www.elcomercio.com/deportes/futbol/barcelona-goleada-delfin-tabla-posiciones-fecha11.html "Barcelona SC goleó y así quedó la tabla de posiciones en la fecha 11")
-
-**Barcelona SC se encuentra en la cuarta posición con 20 puntos**, tres por debajo de Independiente del Valle, Liga de Quito y Orense, que lideran el torneo, aunque estos equipos aún deben disputar sus encuentros de la fecha 12.
-
-**Aucas**, por otro lado, sigue sin levantar cabeza en el campeonato y, con solo dos victorias, se ubica en el puesto 12 con 10 puntos.
-
-Janner Corozo sigue de dulce con el gol
----------------------------------------
-
-Aucas arrancó muy bien en el Gonzalo Pozo Ripalda, dominando el mediocampo y generando peligro por las bandas. Sin embargo, Barcelona SC aprovechó una jugada clave con sus figuras de la segunda etapa, **Braian Oyola y Janner Corozo.**
-
-Oyola recibió el balón en el costado derecho y, con un gran pase, habilitó a Corozo, quien marcó con un potente remate cruzado desde fuera del área, adelantando a los canarios en el marcador.
-
-> Janner!!!!! 🏹  
->   
-> Así fue el golazo de Corozo tras gran asistencia del ‘mini pony’ Oyola.[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/VO8La1CKsU](https://t.co/VO8La1CKsU)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [November 2, 2024](https://twitter.com/zapping_ecu/status/1852820789390922231?ref_src=twsrc%5Etfw)
-
-Pese al gol, Aucas continuó generando peligro y mantuvo el dominio, mientras que **Barcelona SC** aprovechaba pocas oportunidades para sorprender.
-
-Aucas empató y hubo expulsiones
--------------------------------
-
-En la segunda mitad, **Aucas logró responder** y consiguió el tanto del empate. A los 58 minutos, Carlos Rolón aprovechó un error del arquero Víctor Mendoza, que salió a rechazar un tiro de esquina sin éxito, y niveló el marcador en la ‘Caldera del Sur’.
-
-> Al Papá se lo respeta 😎  
->   
-> Rolón puso el empate luego de un tiro de esquina. Cabezazo y 1-1.[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/IBHSaKgx1q](https://t.co/IBHSaKgx1q)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [November 2, 2024](https://twitter.com/zapping_ecu/status/1852837115400204751?ref_src=twsrc%5Etfw)
-
-La intensidad del partido aumentó, y a los 61 minutos, ambos equipos **quedaron con 10 jugadores**. Juan Cruz González fue expulsado en Aucas, mientras que Braian Oyola dejó el campo para Barcelona SC, tras ver la roja del juez Álex Cajas, que exageró la situación, que solo ameritaba para amarilla.
-
-Guayaquil tendrá estos horarios de cortes de luz este 3 de noviembre de 2024
-============================================================================
-
-Guayaquil tendrá cortes de luz de ocho horas durante este domingo 3 de noviembre de 2024.
------------------------------------------------------------------------------------------
-
-![Estos horarios de cortes de luz están programados para este 3 de noviembre de 2024, en Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/11/20241015132743-cuenca-cortes-de-luz-scaled.jpg)
-
-Durante este domingo 3 de noviembre de 2024, que se conmemora la **Independencia de Cuenca**, los **cortes de luz** en **Guayaquil** tendrán nuevos horarios[.](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/ "https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/")
-
-### Más noticias
-
-* [Los cortes de luz continúan durante 3 de noviembre, revise el horario para](https://www.elcomercio.com/actualidad/quito/cortes-luz-3-de-noviembre-horario-quito-feriado.html "Los cortes de luz continúan durante 3 de noviembre, revise el horario para Quito") [Q](https://www.elcomercio.com/actualidad/quito/cortes-luz-3-de-noviembre-horario-quito-feriado.html "Los cortes de luz continúan durante 3 de noviembre, revise el horario para Quito")[uito](https://www.elcomercio.com/actualidad/quito/cortes-luz-3-de-noviembre-horario-quito-feriado.html "Los cortes de luz continúan durante 3 de noviembre, revise el horario para Quito")
-* [Horarios de cortes de luz en Ecuador bajarán del 5 al 10 de novi](https://www.elcomercio.com/actualidad/negocios/horario-cortes-luz-ecuador-bajaran-noviembre.html "Horarios de cortes de luz en Ecuador bajarán del 5 al 10 de noviembre")[e](https://www.elcomercio.com/actualidad/negocios/horario-cortes-luz-ecuador-bajaran-noviembre.html "Horarios de cortes de luz en Ecuador bajarán del 5 al 10 de noviembre")[mbre](https://www.elcomercio.com/actualidad/negocios/horario-cortes-luz-ecuador-bajaran-noviembre.html "Horarios de cortes de luz en Ecuador bajarán del 5 al 10 de noviembre")
-* [Lluvias aumentan y Coca Codo Sinclair entrega más energía en Ecuador](https://www.elcomercio.com/actualidad/negocios/lluvias-aumentan-coca-codo-sinclair-entrega-mas-energia-ecuador.html "Lluvias aumentan y Coca Codo Sinclair entrega más energía en Ecuador")
-
-Este cronograma incluye horarios de racionamiento de **seis hasta ocho horas** y estará vigente durante todo el feriado, del **viernes 1 al lunes 4 de noviembre** de 2024.
-
-La nueva planificación se estructura con el propósito de “**minimizar el impacto** en la ciudadanía durante los días de asueto”, señaló el Ministerio de Energía. Antes de este fechas los cortes era de hasta 8 horas al día.
-
-Horarios de cortes de luz en Guayaquil
---------------------------------------
-
-La Empresa Eléctrica Pública Estratégica Corporación Nacional de Electricidad (CNEL) anunció los nuevos horarios que se aplicarán en Guayaquil a este domingo 3 de noviembre.
-
-Para el viernes 1 de noviembre, **los racionamientos** serán de ocho horas para el [sector residencial](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil").
-
-Los cortes del suministro eléctrico se harán en **franjas horarias**, durante la madrugada y en la mañana, y otras en la tarde y noche.
-
-En el siguiente documento encontrará el horario de los cortes de luz desde el viernes 1 hasta el lunes 4 de noviembre de 2024.
-
-Los cortes de luz continúan durante 3 de noviembre, revise el horario para Quito
-================================================================================
-
-La Empresa Eléctrica Quito (EEQ) publicó los nuevos horarios de cortes pare este domingo 3 de noviembre.
---------------------------------------------------------------------------------------------------------
-
-![Durante el feriado de noviembre, Quito tendrá nuevos horarios de cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-de-luz-3112024.jpg)
-
-El Ministerio de Energía modificó los horarios de cortes de luz para el feriado por el **Día de los Difuntos** y la **Independencia de Cuenca**, en Ecuador. Conozca los horarios para este domingo 3 de noviembre de 2024.
-
-### Más noticias
-
-* [Horarios de cortes de luz en Ecuador bajarán del 5 al 10 de noviembre](https://www.elcomercio.com/actualidad/negocios/horario-cortes-luz-ecuador-bajaran-noviembre.html "Horarios de cortes de luz en Ecuador bajarán del 5 al 10 de noviembre")
-* [Cortes de luz en Guayaquil, con nuevos horarios del 1 al 4 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-nuevos-horarios-1-al-4-de-noviembre.html "Cortes de luz en Guayaquil, con nuevos horarios del 1 al 4 de noviembre")
-* [La central hidroeléctrica Mazar reanudó sus operaciones](https://www.elcomercio.com/actualidad/negocios/central-hidroelectrica-mazar-reanudo-operaciones.html "La central hidroeléctrica Mazar reanudó sus operaciones")
-
-Este nuevo cronograma incluye horarios de racionamiento de seis hasta ocho horas diarias y estará vigente durante los días de asueto, desde viernes 1 hasta el lunes 4 de noviembre de 2024.
-
-Cortes de luz en Quito este 3 de noviembre de 2024
---------------------------------------------------
-
-La Empresa Eléctrica Quito (EEQ) publicó los nuevos horarios de cortes para la capital durante este domingo 3 de noviembre, en su [página web](https://www.eeq.com.ec/cortes-de-servicio1 "https://www.eeq.com.ec/cortes-de-servicio1").
-
-Para el **sector residencial**, los cortes durarán seis horas diarias, mientras que en **zonas industriales** las interrupciones podrían alcanzar hasta 14 horas en ciertos sectores.
-
-A continuación, los detalles de los cortes para este 3 de noviembre en diferentes sectores de Quito:
-
-**Miraflores, Río Coca, Conocoto, Tumbaco y Cumbayá:** la interrupción del servicio se programó de 07:00 a 10:00 y de 21:00 a 24:00.  
-**Luluncoto, Chilibulo, La Floresta, Cristianía y Eplicachima**: estos sectores tendrán cortes de luz de 09:00 a 12:00 y de 18:00 a 21:00.  
-**La Carolina, Nueva Cumbayá, Tababela, Los Bancos, Pérez Guerrero y El Obraje (Machachi)**: el suministro se interrumpirá de10:00 a 13:00 y de 21:00 a 24:00.
-
-**Chimbacalle, Belisario Quevedo, Granda Centeno, Gualo, Andalucía, Cotocollao e Inga Bajo:** el racionaiento será de 08:00 a 11:00 y de 21:00 a 24:00.
-
-La EEQ ofrece un cuadro detallado con los horarios para otros sectores, que la ciudadanía puede consultar para evitar inconvenientes y organizar sus actividades. En el documento están los horarios desde 1 al 4 de noviembre de 2024.
-
-Razones del cambio de horarios de los cortes de luz
----------------------------------------------------
-
-El Ministerio de Energía señaló que los nuevos horarios buscan reducir el impacto en los ciudadanos durante el feriado. De este modo, los cortes interfieran lo menos posible en las actividades cotidianas y momentos de descanso.
-
-Entre los factores que motivaron este ajuste destacan las recientes lluvias en la cuenca hidrográfica oriental, las cuales permitieron mejorar las condiciones de los ríos que abastecen la central hidroeléctrica Coca Codo Sinclair.
-
-Heidi Klum se transformó en E.T. y brilló en la fiesta de Halloween 2024
-========================================================================
-
-Klum reafirmó su título como la reina de Halloween con un impresionante disfraz de E.T., el extraterrestre de la película de Steven Spielberg.
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-![La modelo alemana, Heidi Klum, acompañada por su esposo Tom Kaulitz, deslumbró en su fiesta anual en Nueva York. Tomado de las redes sociales de Heidi Klum](https://www.elcomercio.com/wp-content/uploads/2024/11/Halloween.jpg)
-
-**Heidi Klum**, conocida por sus elaborados disfraces de **Halloween**, no decepcionó en 2024.
-
-Para esta celebración, Klum eligió transformarse en **E.T.**, el querido extraterrestre que cautivó al mundo en 1982. Este disfraz no solo fue una elección nostálgica, sino también un trabajo meticuloso que requirió más de siete horas de preparación.
-
-### Más noticias
-
-* [Video capta cuando el asesino de Halloween ejecuta a una de sus víctimas en Orlando](https://www.elcomercio.com/actualidad/tiroteo-orlando-halloween.html "Video capta cuando el asesino de Halloween  ejecuta a una de sus víctimas en Orlando")
-* [Además de Halloween y el Día del Escudo, esto se celebra el 31 de octubre](https://www.elcomercio.com/tendencias/cultura/efemerides-octubre-halloween-dia-escudo.html "Además de Halloween y el Día del Escudo, esto se celebra el 31 de octubre ")
-
-El proceso de transformación
-----------------------------
-
-La transformación de **Klum** fue un espectáculo en sí mismo.
-
-Desde temprano en la mañana del 31 de octubre, compartió detalles del proceso en sus redes sociales, permitiendo a sus 12,3 millones de seguidores ver cómo se convertía en el icónico personaje.
-
-El disfraz incluyó ojos animatrónicos y prótesis que ocultaban su rostro dentro del cuello largo del extraterrestre.
-
-**Klum** expresó su amor por **E.T.**, revelando que ha sido fan desde los nueve años: “He sido fan de E.T. desde que tenía nueve años”.
-
-La Fiesta Anual de Halloween
-----------------------------
-
-La fiesta anual de Halloween de Klum se llevó a cabo en **Nueva York** y reunió a numerosas celebridades.
-
-Entre los asistentes estaban C**hase Stokes, Kelsea Ballerini, Ice-T y Coco Austin**, así como su hija Leni Klum.
-
-**Tom Kaulitz** también se unió a la diversión, disfrazándose como el mismo E.T., lo que añadió un toque especial a la presentación.
-
-La entrada triunfal estuvo acompañada por efectos especiales que incluyeron humo y luces, creando una atmósfera mágica\].
-
-Un legado de Klum
------------------
-
-**Heidi Klum** no solo se ha destacado por sus disfraces espectaculares, sino también por el compromiso que muestra cada año.
-
-Su dedicación para hacer de cada **Halloween** un evento memorable ha dejado huella en la cultura popular.
-
-“Siempre tiene que ser diferente. Completamente diferente”, afirmó **Klum** mientras reflexionaba sobre futuros disfraces. Con cada celebración, continúa inspirando a otros a abrazar la creatividad y el espíritu festivo.
-
-Alan Franco y Gonzalo Plata pelearán por un título en Brasil
-============================================================
-
-La edición de la Copa de Brasil 2024 garantiza un campeón ecuatoriano, ya que cada finalista cuenta con un representante tricolor.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![Gonzalo Plata, jugador del Flamengo, y Alan Franco, jugador del Atlético Mineiro, se enfrentarán en la final de la Copa de Brasil.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-65.jpg)
-
-Flamengo, con **Gonzalo Plata**, recibirá este domingo 3 de noviembre a Atlético Mineiro, donde juega **Alan Franco**, en el partido de ida de la final de la Copa de Brasil.
-
-Será la primera vez que el ‘Mengão’ y el ‘Galo’ se enfrenten en la final de este torneo que reúne a 92 equipos de todos los estados de Brasil. Sin embargo, ambos equipos ya se han enfrentado seis veces en ediciones anteriores de la Copa, con tres victorias para **Flamengo**, dos para **Atlético Mineiro** y un empate.
-
-### Más noticias:
-
-* [Gonzalo Plata está apadrinado por un crack brasileño en el Flamengo](https://www.elcomercio.com/deportes/futbol/gonzalo-plata-esta-apadrinado-crack-brasileno-flamengo.html "Gonzalo Plata está apadrinado por un crack brasileño en el Flamengo")
-* [Moisés Caicedo motivó a Alan Franco a ganar la Libertadores](https://www.elcomercio.com/deportes/futbol/moises-caicedo-motivo-a-alan-franco-a-ganar-la-libertadores.html "Moisés Caicedo motivó a Alan Franco a ganar la Libertadores")
-* [Alan Franco y su regreso triunfal al Atlético Mineiro con la final de la Libertadores](https://www.elcomercio.com/deportes/futbol/alan-franco-regreso-triunfal-atletico-mineiro-final-copa-libertadores.html "Alan Franco y su regreso triunfal al Atlético Mineiro con la final de la Libertadores")
-
-La temporada de los finalistas
-------------------------------
-
-**Flamengo, que ya ha levantado la Copa en cuatro ocasiones** (1990, 2006, 2013 y 2022), busca ampliar su palmarés. Atlético Mineiro, por su parte, aspira a su tercera coronación en este torneo, habiendo ganado en 2014 y 2021.
-
-Atlético Mineiro, con **Alan Franco como figura destacada, aseguró su lugar en la final de la Copa Libertadores** tras vencer al argentino River Plate y llegó a esta última instancia de la Copa de Brasil tras eliminar por un gol de diferencia a Vasco da Gama en semifinales. Flamengo, que cuenta con Gonzalo Plata desde este año, avanzó a la final tras dejar en el camino a Corinthians.
-
-El Flamengo, al que se unió **Gonzalo Plat**a en 2024, suma siete victorias en sus últimos 10 partidos como local, pero tendrá dos bajas importantes: Bruno Henrique, quien está suspendido, y el uruguayo De la Cruz, que enfrenta dolores musculares y se espera que esté disponible para el partido de vuelta el domingo 10 de noviembre. A pesar de que Gerson no participó en el último entrenamiento, se espera que sea titular en este partido de ida.
-
-**Atlético Mineiro también presenta dos ausencias claves**: el delantero Deyverson y el mediocampista Vera, ambos inhabilitados por haber jugado esta misma competición en otros equipos durante la temporada.
-
-El **partido de vuelta, que definirá al campeón**, se jugará el próximo domingo 10 de noviembre en el estadio Arena MRV de Belo Horizonte, casa del Atlético Mineiro.
-
-Ficha del partido
------------------
-
-Flamengo vs. Atlético Mineiro
-
-**Competición**: Copa de Brasil.
-
-**Fecha**: Domingo 3 de noviembre.
-
-**Hora**: 14:00 (hora Ecuador).
-
-Deportivo Quito igualó como visitante ante Toreros en el Torneo de Ascenso
-==========================================================================
-
-Deportivo Quito cerrará la llave de octavos de final ante su gente en la capital.
----------------------------------------------------------------------------------
-
-![Deportivo Quito igualó con Toreros en la ida de los octavos de final del Torneo de Ascenso 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-63.jpg)
-
-**Deportivo** **Quito** logró un **valioso empate 1-1 en Guayaquil** en la ida de los octavos de final del Torneo de Ascenso frente a Toreros, el equipo filial de Barcelona Sporting Club, este sábado 2 de noviembre.
-
-En el Estadio Alejandro Ponce Noboa, **numerosos hinchas del equipo capitalino estuvieron presentes** para alentar a la ‘AKD’, apoyando al equipo en su lucha por el ascenso a la Serie B.
-
-### Más noticias:
-
-* [Deportivo Quito vs. Toreros y siete partidos más del Ascenso Nacional](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ascenso-nacional-toreros.html "Deportivo Quito vs. Toreros y siete partidos más del Ascenso Nacional")
-* [Deportivo Quito viajó a Guayaquil para jugar los octavos de final del ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-viaje-guayaquil-ascenso-octavos-final-toreros.html "Deportivo Quito viajó a Guayaquil para jugar los octavos de final del ascenso")
-* [Deportivo Quito y tres equipos históricos buscan ascender a la B](https://www.elcomercio.com/deportes/futbol/deportivo-quito-equipos-ascenso-serieb.html "Deportivo Quito y tres equipos históricos buscan ascender a la B")
-
-El partido de vuelta se jugará el próximo sábado 9 de noviembre en el estadio Gonzalo Pozo Ripalda, propiedad de Aucas. Se espera que la dirigencia de **Deportivo Quito ponga a la venta unas 15 000 entradas**, en vista de la gran acogida de sus aficionados en los dieciseisavos de final.
-
-Empate valioso para el Deportivo Quito
---------------------------------------
-
-Toreros, equipo filial de Barcelona SC, **aprovechó un error en la salida** de los visitantes para robar el balón y, frente al arquero Allan Fiallos, definió con un remate cruzado que abrió el marcador.
-
-A pesar de la desventaja, **el Quito no se desanimó y salió en busca del empate**, animado por su afición que viajó a Guayaquil para alentarlos. Los capitalinos tuvieron algunas ocasiones antes del descanso, aunque no lograron concretar.
-
-En la segunda mitad, Deportivo Quito mantuvo la presión y fue más propositivo, mientras Toreros se mostró cauteloso, consciente de su ventaja y evitando errores. A los 54 minutos, **Toreros casi amplía la diferencia** con un remate de Fiallos dentro del área, pero el arquero de la ‘AKD’ reaccionó a tiempo para rechazar el disparo.
-
-Finalmente, el esfuerzo de la ‘AKD’ dio frutos a los 73 minutos, cuando J**osé Luis Rivera anotó el gol del empate** con un remate raso desde media distancia, imposible de atajar.
-
-Con este empate, Deportivo Quito llega al partido de vuelta con la oportunidad de cerrar la serie en casa y mantener vivo el sueño del ascenso a la Serie B.
+Mateo Sebastián Enríquez
