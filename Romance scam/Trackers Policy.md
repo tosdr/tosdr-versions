@@ -1,25 +1,25 @@
 [](#)
 
-* [Forum Index](https://romancescam.com/index.php?sid=6442905459c02b2e476bf8c3f18f9d2a)
+* [Forum Index](https://romancescam.com/index.php?sid=5b255745837fce620727302cec253565)
 * [Home](https://scamdigger.com/ "Scamdigger Home")
-* [FAQ](https://romancescam.com/forum/app.php/help/faq?sid=6442905459c02b2e476bf8c3f18f9d2a "Frequently Asked Questions")
-* [Rules](https://romancescam.com/forum/app.php/rules?sid=6442905459c02b2e476bf8c3f18f9d2a "View the Rules of this Board")
-* [Scam Info](https://romancescam.com/forum/app.php/scaminfo?sid=6442905459c02b2e476bf8c3f18f9d2a)
-* [Search](https://romancescam.com/forum/app.php/search?sid=6442905459c02b2e476bf8c3f18f9d2a)
-* [Contact us](https://romancescam.com/forum/app.php/contactadmin?sid=6442905459c02b2e476bf8c3f18f9d2a)
+* [FAQ](https://romancescam.com/forum/app.php/help/faq?sid=5b255745837fce620727302cec253565 "Frequently Asked Questions")
+* [Rules](https://romancescam.com/forum/app.php/rules?sid=5b255745837fce620727302cec253565 "View the Rules of this Board")
+* [Search](https://romancescam.com/forum/app.php/search?sid=5b255745837fce620727302cec253565)
+* [Scam Info](https://romancescam.com/forum/app.php/scaminfo?sid=5b255745837fce620727302cec253565)
+* [Contact us](https://romancescam.com/forum/app.php/contactadmin?sid=5b255745837fce620727302cec253565)
 
-* [Login](https://romancescam.com/ucp.php?mode=login&redirect=index.php&sid=6442905459c02b2e476bf8c3f18f9d2a "Login")
-* [Register](https://romancescam.com/ucp.php?mode=register&sid=6442905459c02b2e476bf8c3f18f9d2a)
+* [Login](https://romancescam.com/ucp.php?mode=login&redirect=index.php&sid=5b255745837fce620727302cec253565 "Login")
+* [Register](https://romancescam.com/ucp.php?mode=register&sid=5b255745837fce620727302cec253565)
 * [](#)
 
 * [Home](https://scamdigger.com/ "Scamdigger Home")
-* [FAQ](https://romancescam.com/forum/app.php/help/faq?sid=6442905459c02b2e476bf8c3f18f9d2a "Frequently Asked Questions")
-* [Rules](https://romancescam.com/forum/app.php/rules?sid=6442905459c02b2e476bf8c3f18f9d2a "View the Rules of this Board")
-* [Scam Info](https://romancescam.com/forum/app.php/scaminfo?sid=6442905459c02b2e476bf8c3f18f9d2a)
-* [Search](https://romancescam.com/forum/app.php/search?sid=6442905459c02b2e476bf8c3f18f9d2a)
-* [Contact us](https://romancescam.com/forum/app.php/contactadmin?sid=6442905459c02b2e476bf8c3f18f9d2a)
+* [FAQ](https://romancescam.com/forum/app.php/help/faq?sid=5b255745837fce620727302cec253565 "Frequently Asked Questions")
+* [Rules](https://romancescam.com/forum/app.php/rules?sid=5b255745837fce620727302cec253565 "View the Rules of this Board")
+* [Search](https://romancescam.com/forum/app.php/search?sid=5b255745837fce620727302cec253565)
+* [Scam Info](https://romancescam.com/forum/app.php/scaminfo?sid=5b255745837fce620727302cec253565)
+* [Contact us](https://romancescam.com/forum/app.php/contactadmin?sid=5b255745837fce620727302cec253565)
 
-[ScamDigger Forum](https://romancescam.com/index.php?sid=6442905459c02b2e476bf8c3f18f9d2a "Forum Index")
+[ScamDigger Forum](https://romancescam.com/index.php?sid=5b255745837fce620727302cec253565 "Forum Index")
 ========================================================================================================
 
 #### Please report romance scams and dating scams here. We accept reports on Russian scammers and Nigerian scammers.
@@ -29,19 +29,19 @@ Disclaimer regarding pictures posted on the board: please understand that you ar
   
 [\*\* Reverse Phone Number Lookup](https://www.dpbolvw.net/click-101138131-15354851)![](https://www.ftjcfx.com/image-101138131-15354851) [\*\* Reverse Email Search](https://www.anrdoezrs.net/click-101138131-15354852)![](https://www.lduhtrp.net/image-101138131-15354852) [\*\* Reverse Address Lookup](https://www.kqzyfj.com/click-101138131-15354844)![](https://www.lduhtrp.net/image-101138131-15354844) [\*\* Reverse Username Search](https://www.anrdoezrs.net/click-101138131-15354850)![](https://www.lduhtrp.net/image-101138131-15354850)
 
-* It is currently Sat Nov 02, 2024 9:29 pm
-* [Forum Index](https://romancescam.com/index.php?sid=6442905459c02b2e476bf8c3f18f9d2a)
+* It is currently Sun Nov 03, 2024 3:33 am
+* [Forum Index](https://romancescam.com/index.php?sid=5b255745837fce620727302cec253565)
 
-It is currently Sat Nov 02, 2024 9:29 pm
+It is currently Sun Nov 03, 2024 3:33 am
 
-* [NEW MEMBERS READ HERE FIRST!!](https://romancescam.com/viewforum.php?f=43&sid=6442905459c02b2e476bf8c3f18f9d2a)
+* [NEW MEMBERS READ HERE FIRST!!](https://romancescam.com/viewforum.php?f=43&sid=5b255745837fce620727302cec253565)
     
     Statistics
     
     Last post
     
 
-* [Instructions, How To Use This Site](https://romancescam.com/viewforum.php?f=73&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Instructions, How To Use This Site](https://romancescam.com/viewforum.php?f=73&sid=5b255745837fce620727302cec253565)  
     Instructions, How To Use This Site
     
     Topics: **11**
@@ -49,11 +49,11 @@ It is currently Sat Nov 02, 2024 9:29 pm
     Topics: **11**  
     Posts: **12**
     
-    [Re: == How to use this board!…](https://romancescam.com/viewtopic.php?p=247014&sid=6442905459c02b2e476bf8c3f18f9d2a#p247014 "Re: == How to use this board! Help file and forum rules ==")  
-    by [Marisa](https://romancescam.com/memberlist.php?mode=viewprofile&u=2&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=247014&sid=6442905459c02b2e476bf8c3f18f9d2a#p247014 "View the latest post")  
+    [Re: == How to use this board!…](https://romancescam.com/viewtopic.php?p=247014&sid=5b255745837fce620727302cec253565#p247014 "Re: == How to use this board! Help file and forum rules ==")  
+    by [Marisa](https://romancescam.com/memberlist.php?mode=viewprofile&u=2&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=247014&sid=5b255745837fce620727302cec253565#p247014 "View the latest post")  
     Sat Jun 02, 2012 3:23 am
     
-* [Frequently Asked Questions (FAQ's)](https://romancescam.com/viewforum.php?f=74&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Frequently Asked Questions (FAQ's)](https://romancescam.com/viewforum.php?f=74&sid=5b255745837fce620727302cec253565)  
     Frequently Asked Questions (FAQ's)
     
     Topics: **23**
@@ -61,11 +61,11 @@ It is currently Sat Nov 02, 2024 9:29 pm
     Topics: **23**  
     Posts: **35**
     
-    [Re: The Healing Process](https://romancescam.com/viewtopic.php?p=382168&sid=6442905459c02b2e476bf8c3f18f9d2a#p382168 "Re: The Healing Process")  
-    by [FrumpyBB](https://romancescam.com/memberlist.php?mode=viewprofile&u=7928&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=382168&sid=6442905459c02b2e476bf8c3f18f9d2a#p382168 "View the latest post")  
+    [Re: The Healing Process](https://romancescam.com/viewtopic.php?p=382168&sid=5b255745837fce620727302cec253565#p382168 "Re: The Healing Process")  
+    by [FrumpyBB](https://romancescam.com/memberlist.php?mode=viewprofile&u=7928&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=382168&sid=5b255745837fce620727302cec253565#p382168 "View the latest post")  
     Thu May 01, 2014 7:58 pm
     
-* [Useful tools](https://romancescam.com/viewforum.php?f=75&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Useful tools](https://romancescam.com/viewforum.php?f=75&sid=5b255745837fce620727302cec253565)  
     Useful tools to detect scammers
     
     Topics: **13**
@@ -73,11 +73,11 @@ It is currently Sat Nov 02, 2024 9:29 pm
     Topics: **13**  
     Posts: **21**
     
-    [Re: A good app to identify ce…](https://romancescam.com/viewtopic.php?p=648223&sid=6442905459c02b2e476bf8c3f18f9d2a#p648223 "Re: A good app to identify celebrities")  
-    by [BobbO45](https://romancescam.com/memberlist.php?mode=viewprofile&u=103590&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=648223&sid=6442905459c02b2e476bf8c3f18f9d2a#p648223 "View the latest post")  
+    [Re: A good app to identify ce…](https://romancescam.com/viewtopic.php?p=648223&sid=5b255745837fce620727302cec253565#p648223 "Re: A good app to identify celebrities")  
+    by [BobbO45](https://romancescam.com/memberlist.php?mode=viewprofile&u=103590&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=648223&sid=5b255745837fce620727302cec253565#p648223 "View the latest post")  
     Sat Jun 26, 2021 8:31 pm
     
-* [Information about scams in different languages](https://romancescam.com/viewforum.php?f=18&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Information about scams in different languages](https://romancescam.com/viewforum.php?f=18&sid=5b255745837fce620727302cec253565)  
     Information about scams in different languages
     
     Topics: **23**
@@ -85,91 +85,91 @@ It is currently Sat Nov 02, 2024 9:29 pm
     Topics: **23**  
     Posts: **31**
     
-    [Re: Informácie o romantických…](https://romancescam.com/viewtopic.php?p=675791&sid=6442905459c02b2e476bf8c3f18f9d2a#p675791 "Re: Informácie o romantických podvodoch od A po Z v Slovenskom jazyku / Slovak language")  
-    by [Menofpentagon](https://romancescam.com/memberlist.php?mode=viewprofile&u=105283&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=675791&sid=6442905459c02b2e476bf8c3f18f9d2a#p675791 "View the latest post")  
+    [Re: Informácie o romantických…](https://romancescam.com/viewtopic.php?p=675791&sid=5b255745837fce620727302cec253565#p675791 "Re: Informácie o romantických podvodoch od A po Z v Slovenskom jazyku / Slovak language")  
+    by [Menofpentagon](https://romancescam.com/memberlist.php?mode=viewprofile&u=105283&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=675791&sid=5b255745837fce620727302cec253565#p675791 "View the latest post")  
     Sun Jan 22, 2023 1:28 pm
     
 
-* [AFRICAN SCAMMERS - Listed according to the photos they use.](https://romancescam.com/viewforum.php?f=44&sid=6442905459c02b2e476bf8c3f18f9d2a)
+* [AFRICAN SCAMMERS - Listed according to the photos they use.](https://romancescam.com/viewforum.php?f=44&sid=5b255745837fce620727302cec253565)
     
     Statistics
     
     Last post
     
 
-* [White Females](https://romancescam.com/viewforum.php?f=1&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [White Females](https://romancescam.com/viewforum.php?f=1&sid=5b255745837fce620727302cec253565)  
     African scammers posing as white women.
     
-    Topics: **5541**
+    Topics: **5542**
     
-    Topics: **5541**  
-    Posts: **37225**
+    Topics: **5542**  
+    Posts: **37228**
     
-    [Re: Noah, +1 602-786-3592](https://romancescam.com/viewtopic.php?p=698099&sid=6442905459c02b2e476bf8c3f18f9d2a#p698099 "Re: Noah, +1 602-786-3592")  
-    by [IceFM](https://romancescam.com/memberlist.php?mode=viewprofile&u=5465&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=698099&sid=6442905459c02b2e476bf8c3f18f9d2a#p698099 "View the latest post")  
-    Sat Nov 02, 2024 2:22 pm
+    [www.vaild.work/login.html \[\] …](https://romancescam.com/viewtopic.php?p=698117&sid=5b255745837fce620727302cec253565#p698117 "www.vaild.work/login.html [] shop paypal cashapp online click to buy cloned cards dumps track 1&2 vaild ccv fullz store")  
+    by [thaona](https://romancescam.com/memberlist.php?mode=viewprofile&u=107654&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=698117&sid=5b255745837fce620727302cec253565#p698117 "View the latest post")  
+    Sun Nov 03, 2024 2:00 am
     
-* [Black Females](https://romancescam.com/viewforum.php?f=4&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Black Females](https://romancescam.com/viewforum.php?f=4&sid=5b255745837fce620727302cec253565)  
     African scammers posing as black women.
     
-    Topics: **643**
+    Topics: **644**
     
-    Topics: **643**  
-    Posts: **5960**
+    Topics: **644**  
+    Posts: **5961**
     
-    [Mamee, alfredezu267@gmail.com](https://romancescam.com/viewtopic.php?p=697981&sid=6442905459c02b2e476bf8c3f18f9d2a#p697981 "Mamee, alfredezu267@gmail.com")  
-    by [Bix](https://romancescam.com/memberlist.php?mode=viewprofile&u=39100&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=697981&sid=6442905459c02b2e476bf8c3f18f9d2a#p697981 "View the latest post")  
-    Tue Oct 29, 2024 6:37 pm
+    [www.vaild.work/login.html :: …](https://romancescam.com/viewtopic.php?p=698137&sid=5b255745837fce620727302cec253565#p698137 "www.vaild.work/login.html :: SELL DUMPS ATM CLONE CARDS Cloning Cards BANK LOGIN PAYPAL CASHAPP WU available 200 ACC VER")  
+    by [thaona](https://romancescam.com/memberlist.php?mode=viewprofile&u=107654&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=698137&sid=5b255745837fce620727302cec253565#p698137 "View the latest post")  
+    Sun Nov 03, 2024 3:06 am
     
-* [White Males](https://romancescam.com/viewforum.php?f=3&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [White Males](https://romancescam.com/viewforum.php?f=3&sid=5b255745837fce620727302cec253565)  
     African scammers posing as white men.
     
-    Topics: **3487**
+    Topics: **3482**
     
-    Topics: **3487**  
-    Posts: **30787**
+    Topics: **3482**  
+    Posts: **30765**
     
-    [Re: Henry Matteo, henrymatteo…](https://romancescam.com/viewtopic.php?p=698100&sid=6442905459c02b2e476bf8c3f18f9d2a#p698100 "Re: Henry Matteo, henrymatteo78@gmail.con")  
-    by [IceFM](https://romancescam.com/memberlist.php?mode=viewprofile&u=5465&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=698100&sid=6442905459c02b2e476bf8c3f18f9d2a#p698100 "View the latest post")  
-    Sat Nov 02, 2024 2:31 pm
+    [www.vaild.work/login.html :: …](https://romancescam.com/viewtopic.php?p=698136&sid=5b255745837fce620727302cec253565#p698136 "www.vaild.work/login.html :: SELL CLONING ATM CARDS APPROVED Cloned Cards Pin TRACK 1&2 LARGEST STORE CC+CVV SSN+DOB/CHE")  
+    by [thaona](https://romancescam.com/memberlist.php?mode=viewprofile&u=107654&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=698136&sid=5b255745837fce620727302cec253565#p698136 "View the latest post")  
+    Sun Nov 03, 2024 3:03 am
     
-* [Black Males](https://romancescam.com/viewforum.php?f=5&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Black Males](https://romancescam.com/viewforum.php?f=5&sid=5b255745837fce620727302cec253565)  
     African scammers posing as black men.
     
-    Topics: **177**
+    Topics: **178**
     
-    Topics: **177**  
-    Posts: **392**
+    Topics: **178**  
+    Posts: **393**
     
-    [zara02649@gmail.com](https://romancescam.com/viewtopic.php?p=697419&sid=6442905459c02b2e476bf8c3f18f9d2a#p697419 "zara02649@gmail.com")  
-    by [Myra](https://romancescam.com/memberlist.php?mode=viewprofile&u=33100&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=697419&sid=6442905459c02b2e476bf8c3f18f9d2a#p697419 "View the latest post")  
-    Sun Oct 06, 2024 4:39 pm
+    [www.vaild.work/login.html :: …](https://romancescam.com/viewtopic.php?p=698135&sid=5b255745837fce620727302cec253565#p698135 "www.vaild.work/login.html :: DUMPS CLONE Cards Atm TRACK 1&2 BIGGEST EMV CCV2 HIGH VALID DAILY FRESH UPDATE AUTO CHECK R")  
+    by [thaona](https://romancescam.com/memberlist.php?mode=viewprofile&u=107654&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=698135&sid=5b255745837fce620727302cec253565#p698135 "View the latest post")  
+    Sun Nov 03, 2024 2:58 am
     
-* [Military scams](https://romancescam.com/viewforum.php?f=91&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Military scams](https://romancescam.com/viewforum.php?f=91&sid=5b255745837fce620727302cec253565)  
     African scammers posing as military personnel.
     
-    Topics: **827**
+    Topics: **826**
     
-    Topics: **827**  
-    Posts: **23577**
+    Topics: **826**  
+    Posts: **23575**
     
-    [genaustinscottmiller522@gmail…](https://romancescam.com/viewtopic.php?p=698078&sid=6442905459c02b2e476bf8c3f18f9d2a#p698078 "genaustinscottmiller522@gmail.com")  
-    by [Bix](https://romancescam.com/memberlist.php?mode=viewprofile&u=39100&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=698078&sid=6442905459c02b2e476bf8c3f18f9d2a#p698078 "View the latest post")  
-    Fri Nov 01, 2024 3:16 pm
+    [www.vaild.work/login.html :: …](https://romancescam.com/viewtopic.php?p=698134&sid=5b255745837fce620727302cec253565#p698134 "www.vaild.work/login.html :: buy Dumps SHIPING CLONING CARDS ATMDUMPS TRACK 1/2 VAILD 100% NO BANNED CARDS AND GOOD BALA")  
+    by [thaona](https://romancescam.com/memberlist.php?mode=viewprofile&u=107654&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=698134&sid=5b255745837fce620727302cec253565#p698134 "View the latest post")  
+    Sun Nov 03, 2024 2:52 am
     
-* [Prosecution of African Scammers](https://romancescam.com/viewforum.php?f=80&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Prosecution of African Scammers](https://romancescam.com/viewforum.php?f=80&sid=5b255745837fce620727302cec253565)  
     Is it possible?
     
-    Topics: **27**
+    Topics: **28**
     
-    Topics: **27**  
-    Posts: **224**
+    Topics: **28**  
+    Posts: **225**
     
-    [Report Blackmails with BTC-wa…](https://romancescam.com/viewtopic.php?p=681903&sid=6442905459c02b2e476bf8c3f18f9d2a#p681903 "Report Blackmails with BTC-wallets")  
-    by [IceFM](https://romancescam.com/memberlist.php?mode=viewprofile&u=5465&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=681903&sid=6442905459c02b2e476bf8c3f18f9d2a#p681903 "View the latest post")  
-    Tue Jun 13, 2023 10:14 pm
+    [www.vaild.work/login.html :: …](https://romancescam.com/viewtopic.php?p=698133&sid=5b255745837fce620727302cec253565#p698133 "www.vaild.work/login.html :: SELL DUMPS SKIMMER CLONED PIN ATM DARKNET UPDATES EMV X2 SOFTWARE SMART CARDS")  
+    by [thaona](https://romancescam.com/memberlist.php?mode=viewprofile&u=107654&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=698133&sid=5b255745837fce620727302cec253565#p698133 "View the latest post")  
+    Sun Nov 03, 2024 2:50 am
     
-* [How African Romance Scams Work](https://romancescam.com/viewforum.php?f=77&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [How African Romance Scams Work](https://romancescam.com/viewforum.php?f=77&sid=5b255745837fce620727302cec253565)  
     How African Romance Scams Work
     
     Topics: **20**
@@ -177,43 +177,43 @@ It is currently Sat Nov 02, 2024 9:29 pm
     Topics: **20**  
     Posts: **2253**
     
-    [Re: Fake Nigerian documents](https://romancescam.com/viewtopic.php?p=697407&sid=6442905459c02b2e476bf8c3f18f9d2a#p697407 "Re: Fake Nigerian documents")  
-    by [IceFM](https://romancescam.com/memberlist.php?mode=viewprofile&u=5465&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=697407&sid=6442905459c02b2e476bf8c3f18f9d2a#p697407 "View the latest post")  
+    [Re: Fake Nigerian documents](https://romancescam.com/viewtopic.php?p=697407&sid=5b255745837fce620727302cec253565#p697407 "Re: Fake Nigerian documents")  
+    by [IceFM](https://romancescam.com/memberlist.php?mode=viewprofile&u=5465&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=697407&sid=5b255745837fce620727302cec253565#p697407 "View the latest post")  
     Sun Oct 06, 2024 12:44 pm
     
 
-* [RUSSIAN SCAMMERS/RUSSIAN DETECTIVE](https://romancescam.com/viewforum.php?f=45&sid=6442905459c02b2e476bf8c3f18f9d2a)
+* [RUSSIAN SCAMMERS/RUSSIAN DETECTIVE](https://romancescam.com/viewforum.php?f=45&sid=5b255745837fce620727302cec253565)
     
     Statistics
     
     Last post
     
 
-* [Russian scammers](https://romancescam.com/viewforum.php?f=6&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Russian scammers](https://romancescam.com/viewforum.php?f=6&sid=5b255745837fce620727302cec253565)  
     Scammers from Russia, Ukraine, or any other former Soviet Union countries.
     
-    Topics: **1180**
+    Topics: **1181**
     
-    Topics: **1180**  
-    Posts: **19643**
+    Topics: **1181**  
+    Posts: **19644**
     
-    [Angelina; <elrosaleszy26@gmai…](https://romancescam.com/viewtopic.php?p=698113&sid=6442905459c02b2e476bf8c3f18f9d2a#p698113 "Angelina; <elrosaleszy26@gmail.com>")  
-    by [IceFM](https://romancescam.com/memberlist.php?mode=viewprofile&u=5465&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=698113&sid=6442905459c02b2e476bf8c3f18f9d2a#p698113 "View the latest post")  
-    Sat Nov 02, 2024 5:17 pm
+    [www.vaild.work/login.html :: …](https://romancescam.com/viewtopic.php?p=698132&sid=5b255745837fce620727302cec253565#p698132 "www.vaild.work/login.html :: emv software i do transfer cashapp paypal sell dumps pin track 1&2 cloned cards atm")  
+    by [thaona](https://romancescam.com/memberlist.php?mode=viewprofile&u=107654&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=698132&sid=5b255745837fce620727302cec253565#p698132 "View the latest post")  
+    Sun Nov 03, 2024 2:48 am
     
-* [Prosecution of Russian Scammers](https://romancescam.com/viewforum.php?f=33&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Prosecution of Russian Scammers](https://romancescam.com/viewforum.php?f=33&sid=5b255745837fce620727302cec253565)  
     Questions or ideas about ways to prosecute Russian scammers
     
-    Topics: **7**
+    Topics: **8**
     
-    Topics: **7**  
-    Posts: **74**
+    Topics: **8**  
+    Posts: **75**
     
-    [Re: New ways of payments](https://romancescam.com/viewtopic.php?p=694203&sid=6442905459c02b2e476bf8c3f18f9d2a#p694203 "Re: New ways of payments")  
-    by [IceFM](https://romancescam.com/memberlist.php?mode=viewprofile&u=5465&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=694203&sid=6442905459c02b2e476bf8c3f18f9d2a#p694203 "View the latest post")  
-    Wed May 22, 2024 7:45 pm
+    [www.vaild.work/login.html :: …](https://romancescam.com/viewtopic.php?p=698131&sid=5b255745837fce620727302cec253565#p698131 "www.vaild.work/login.html :: Best Dumps with Track 2\Track 1\State\City\Zip updates CLONED CARDS PIN USA Cashapp Paypal")  
+    by [thaona](https://romancescam.com/memberlist.php?mode=viewprofile&u=107654&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=698131&sid=5b255745837fce620727302cec253565#p698131 "View the latest post")  
+    Sun Nov 03, 2024 2:44 am
     
-* [How Russian Romance Scams Work](https://romancescam.com/viewforum.php?f=78&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [How Russian Romance Scams Work](https://romancescam.com/viewforum.php?f=78&sid=5b255745837fce620727302cec253565)  
     How Russian Romance Scams Work
     
     Topics: **10**
@@ -221,43 +221,43 @@ It is currently Sat Nov 02, 2024 9:29 pm
     Topics: **10**  
     Posts: **914**
     
-    [Re: Fake Russian documents](https://romancescam.com/viewtopic.php?p=698017&sid=6442905459c02b2e476bf8c3f18f9d2a#p698017 "Re: Fake Russian documents")  
-    by [IceFM](https://romancescam.com/memberlist.php?mode=viewprofile&u=5465&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=698017&sid=6442905459c02b2e476bf8c3f18f9d2a#p698017 "View the latest post")  
+    [Re: Fake Russian documents](https://romancescam.com/viewtopic.php?p=698017&sid=5b255745837fce620727302cec253565#p698017 "Re: Fake Russian documents")  
+    by [IceFM](https://romancescam.com/memberlist.php?mode=viewprofile&u=5465&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=698017&sid=5b255745837fce620727302cec253565#p698017 "View the latest post")  
     Wed Oct 30, 2024 2:48 pm
     
 
-* [GENERAL DISCUSSION](https://romancescam.com/viewforum.php?f=47&sid=6442905459c02b2e476bf8c3f18f9d2a)
+* [GENERAL DISCUSSION](https://romancescam.com/viewforum.php?f=47&sid=5b255745837fce620727302cec253565)
     
     Statistics
     
     Last post
     
 
-* [General discussion](https://romancescam.com/viewforum.php?f=13&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [General discussion](https://romancescam.com/viewforum.php?f=13&sid=5b255745837fce620727302cec253565)  
     Discussion of scam and scambaiting NOT related to any particular scammer
     
-    Topics: **3**
+    Topics: **4**
     
-    Topics: **3**  
-    Posts: **318**
+    Topics: **4**  
+    Posts: **319**
     
-    [Re: Scammers Photoshop Fine A…](https://romancescam.com/viewtopic.php?p=697747&sid=6442905459c02b2e476bf8c3f18f9d2a#p697747 "Re: Scammers Photoshop Fine Art - Gallery 2")  
-    by [Bix](https://romancescam.com/memberlist.php?mode=viewprofile&u=39100&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=697747&sid=6442905459c02b2e476bf8c3f18f9d2a#p697747 "View the latest post")  
-    Mon Oct 21, 2024 3:42 pm
+    [www.vaild.work/login.html \[\] …](https://romancescam.com/viewtopic.php?p=698128&sid=5b255745837fce620727302cec253565#p698128 "www.vaild.work/login.html [] BUY CLONED CARDS ATM CASHAPP PAYPAL CASHOUT DEBIT CARDS DUMPS+PIN CVV CC FULL TRACK 1/2 + P")  
+    by [thaona](https://romancescam.com/memberlist.php?mode=viewprofile&u=107654&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=698128&sid=5b255745837fce620727302cec253565#p698128 "View the latest post")  
+    Sun Nov 03, 2024 2:34 am
     
-* [Articles and media](https://romancescam.com/viewforum.php?f=83&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Articles and media](https://romancescam.com/viewforum.php?f=83&sid=5b255745837fce620727302cec253565)  
     Articles and media
     
-    Topics: **584**
+    Topics: **585**
     
-    Topics: **584**  
-    Posts: **1607**
+    Topics: **585**  
+    Posts: **1608**
     
-    [New Lovescamtactic by mourners](https://romancescam.com/viewtopic.php?p=696072&sid=6442905459c02b2e476bf8c3f18f9d2a#p696072 "New Lovescamtactic by mourners")  
-    by [IceFM](https://romancescam.com/memberlist.php?mode=viewprofile&u=5465&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=696072&sid=6442905459c02b2e476bf8c3f18f9d2a#p696072 "View the latest post")  
-    Thu Aug 08, 2024 12:40 pm
+    [www.vaild.work/login.html :: …](https://romancescam.com/viewtopic.php?p=698129&sid=5b255745837fce620727302cec253565#p698129 "www.vaild.work/login.html :: Buy Dumps Track 1&2 Clone Card ATM TRANSFER US Track 1&2(USA)CITY+STATE+ZIP+PHONE+DOB+E-MAI")  
+    by [thaona](https://romancescam.com/memberlist.php?mode=viewprofile&u=107654&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=698129&sid=5b255745837fce620727302cec253565#p698129 "View the latest post")  
+    Sun Nov 03, 2024 2:37 am
     
-* [Dating and Social Networking Sites](https://romancescam.com/viewforum.php?f=20&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Dating and Social Networking Sites](https://romancescam.com/viewforum.php?f=20&sid=5b255745837fce620727302cec253565)  
     Scam-related reviews of the dating and social networking sites. Only people with a 10+ postcount can post in this section.
     
     Topics: **110**
@@ -265,179 +265,179 @@ It is currently Sat Nov 02, 2024 9:29 pm
     Topics: **110**  
     Posts: **903**
     
-    [Re: GFD-GoFreeDate](https://romancescam.com/viewtopic.php?p=697722&sid=6442905459c02b2e476bf8c3f18f9d2a#p697722 "Re: GFD-GoFreeDate")  
-    by [Bix](https://romancescam.com/memberlist.php?mode=viewprofile&u=39100&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=697722&sid=6442905459c02b2e476bf8c3f18f9d2a#p697722 "View the latest post")  
+    [Re: GFD-GoFreeDate](https://romancescam.com/viewtopic.php?p=697722&sid=5b255745837fce620727302cec253565#p697722 "Re: GFD-GoFreeDate")  
+    by [Bix](https://romancescam.com/memberlist.php?mode=viewprofile&u=39100&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=697722&sid=5b255745837fce620727302cec253565#p697722 "View the latest post")  
     Mon Oct 21, 2024 5:20 am
     
-* [Voting polls](https://romancescam.com/viewforum.php?f=19&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Voting polls](https://romancescam.com/viewforum.php?f=19&sid=5b255745837fce620727302cec253565)  
     If you want to know the opinion of our visitors, create your poll. Please don't submit scammers here!
     
-    Topics: **19**
+    Topics: **20**
     
-    Topics: **19**  
-    Posts: **483**
+    Topics: **20**  
+    Posts: **484**
     
-    [Re: Did you find your scammer…](https://romancescam.com/viewtopic.php?p=674637&sid=6442905459c02b2e476bf8c3f18f9d2a#p674637 "Re: Did you find your scammer listed here?")  
-    by [Lilttt](https://romancescam.com/memberlist.php?mode=viewprofile&u=105242&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=674637&sid=6442905459c02b2e476bf8c3f18f9d2a#p674637 "View the latest post")  
-    Sat Dec 17, 2022 7:30 pm
+    [www.vaild.work/login.html :: …](https://romancescam.com/viewtopic.php?p=698130&sid=5b255745837fce620727302cec253565#p698130 "www.vaild.work/login.html :: transfer cashapp paypal bank logins cc fullz otp non vbv dumps pin cloned cards track 1&2")  
+    by [thaona](https://romancescam.com/memberlist.php?mode=viewprofile&u=107654&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=698130&sid=5b255745837fce620727302cec253565#p698130 "View the latest post")  
+    Sun Nov 03, 2024 2:40 am
     
 
-* [OTHER SCAMMERS](https://romancescam.com/viewforum.php?f=46&sid=6442905459c02b2e476bf8c3f18f9d2a)
+* [OTHER SCAMMERS](https://romancescam.com/viewforum.php?f=46&sid=5b255745837fce620727302cec253565)
     
     Statistics
     
     Last post
     
 
-* [Other types of African scams](https://romancescam.com/viewforum.php?f=79&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Other types of African scams](https://romancescam.com/viewforum.php?f=79&sid=5b255745837fce620727302cec253565)  
     419 Scams, Lottery scams & Other African Dangers to Beware Of
     
-    Topics: **64**
+    Topics: **65**
     
-    Topics: **64**  
-    Posts: **9148**
+    Topics: **65**  
+    Posts: **9149**
     
-    [+22958860276](https://romancescam.com/viewtopic.php?p=698114&sid=6442905459c02b2e476bf8c3f18f9d2a#p698114 "+22958860276")  
-    by [Bix](https://romancescam.com/memberlist.php?mode=viewprofile&u=39100&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=698114&sid=6442905459c02b2e476bf8c3f18f9d2a#p698114 "View the latest post")  
-    Sat Nov 02, 2024 8:07 pm
+    [www.vaild.work/login.html \[\] …](https://romancescam.com/viewtopic.php?p=698126&sid=5b255745837fce620727302cec253565#p698126 "www.vaild.work/login.html [] Sell Cvv cloned cards cashapp paypal Good Fresh, Cc Fullz Info, Dumps Track 1/2, WU Transfe")  
+    by [thaona](https://romancescam.com/memberlist.php?mode=viewprofile&u=107654&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=698126&sid=5b255745837fce620727302cec253565#p698126 "View the latest post")  
+    Sun Nov 03, 2024 2:24 am
     
 
-* [VICTIM SUPPORT - Join as a victim, leave as a victor.](https://romancescam.com/viewforum.php?f=48&sid=6442905459c02b2e476bf8c3f18f9d2a)
+* [VICTIM SUPPORT - Join as a victim, leave as a victor.](https://romancescam.com/viewforum.php?f=48&sid=5b255745837fce620727302cec253565)
     
     Statistics
     
     Last post
     
 
-* [Support and Advice.](https://romancescam.com/viewforum.php?f=22&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Support and Advice.](https://romancescam.com/viewforum.php?f=22&sid=5b255745837fce620727302cec253565)  
     Emotional Support, Compassionate Friends
     
-    Topics: **14**
+    Topics: **15**
     
-    Topics: **14**  
-    Posts: **1412**
+    Topics: **15**  
+    Posts: **1413**
     
-    [My Mom Fell Victim to a Roman…](https://romancescam.com/viewtopic.php?p=697153&sid=6442905459c02b2e476bf8c3f18f9d2a#p697153 "My Mom Fell Victim to a Romance Scam—Here’s How it Happened, and What You Should Watch Out For")  
-    by [MikeLAX446](https://romancescam.com/memberlist.php?mode=viewprofile&u=107587&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=697153&sid=6442905459c02b2e476bf8c3f18f9d2a#p697153 "View the latest post")  
-    Wed Sep 25, 2024 4:58 pm
+    [www.vaild.work/login.html \[\] …](https://romancescam.com/viewtopic.php?p=698124&sid=5b255745837fce620727302cec253565#p698124 "www.vaild.work/login.html [] do transfer cashapp paypal wu bank payonee sell dumps pin cloned cards atm cc fullz info de")  
+    by [thaona](https://romancescam.com/memberlist.php?mode=viewprofile&u=107654&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=698124&sid=5b255745837fce620727302cec253565#p698124 "View the latest post")  
+    Sun Nov 03, 2024 2:19 am
     
-* [Supporting Romancescam](https://romancescam.com/viewforum.php?f=81&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Supporting Romancescam](https://romancescam.com/viewforum.php?f=81&sid=5b255745837fce620727302cec253565)  
     How You Can Support the Fight
     
-    Topics: **7**
+    Topics: **8**
     
-    Topics: **7**  
-    Posts: **190**
+    Topics: **8**  
+    Posts: **191**
     
-    [Re: Donations will be back so…](https://romancescam.com/viewtopic.php?p=505291&sid=6442905459c02b2e476bf8c3f18f9d2a#p505291 "Re: Donations will be back soon!!! EDIT They are!")  
-    by [Igulinka](https://romancescam.com/memberlist.php?mode=viewprofile&u=62168&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=505291&sid=6442905459c02b2e476bf8c3f18f9d2a#p505291 "View the latest post")  
-    Sun Nov 06, 2016 7:24 pm
+    [www.vaild.work/login.html \[\] …](https://romancescam.com/viewtopic.php?p=698125&sid=5b255745837fce620727302cec253565#p698125 "www.vaild.work/login.html [] Buy Valid Clone ATM Cards Dumps with the Pin SMR Cashapp Paypal Buy Valid Cvv CC Dumps Trac")  
+    by [thaona](https://romancescam.com/memberlist.php?mode=viewprofile&u=107654&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=698125&sid=5b255745837fce620727302cec253565#p698125 "View the latest post")  
+    Sun Nov 03, 2024 2:21 am
     
 
-* [NON-ENGLISH SPEAKING SECTION](https://romancescam.com/viewforum.php?f=49&sid=6442905459c02b2e476bf8c3f18f9d2a)
+* [NON-ENGLISH SPEAKING SECTION](https://romancescam.com/viewforum.php?f=49&sid=5b255745837fce620727302cec253565)
     
     Statistics
     
     Last post
     
 
-* [Африканские мошенники](https://romancescam.com/viewforum.php?f=94&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Африканские мошенники](https://romancescam.com/viewforum.php?f=94&sid=5b255745837fce620727302cec253565)  
     Русская секция для обсуждения мошенников из Нигерии и Ганы
     
-    Topics: **170**
+    Topics: **171**
     
-    Topics: **170**  
-    Posts: **396**
+    Topics: **171**  
+    Posts: **397**
     
-    [Re: Frank Williams - fw690570…](https://romancescam.com/viewtopic.php?p=675704&sid=6442905459c02b2e476bf8c3f18f9d2a#p675704 "Re: Frank Williams - fw6905707@gmail.com")  
-    by [Pandora](https://romancescam.com/memberlist.php?mode=viewprofile&u=32041&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=675704&sid=6442905459c02b2e476bf8c3f18f9d2a#p675704 "View the latest post")  
-    Thu Jan 19, 2023 10:47 pm
+    [www.vaild.work/login.html \[\] …](https://romancescam.com/viewtopic.php?p=698123&sid=5b255745837fce620727302cec253565#p698123 "www.vaild.work/login.html [] cloned cards atm skimmer for sale dumps pin track 1&2 cashapp paypal vaild 100%")  
+    by [thaona](https://romancescam.com/memberlist.php?mode=viewprofile&u=107654&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=698123&sid=5b255745837fce620727302cec253565#p698123 "View the latest post")  
+    Sun Nov 03, 2024 2:16 am
     
-* [Scammer aus Westafrika](https://romancescam.com/viewforum.php?f=24&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Scammer aus Westafrika](https://romancescam.com/viewforum.php?f=24&sid=5b255745837fce620727302cec253565)  
     Über Romance Scammer aus Westafrika
     
-    Topics: **316**
+    Topics: **317**
     
-    Topics: **316**  
-    Posts: **1254**
+    Topics: **317**  
+    Posts: **1255**
     
-    [Re: Scammer using Pic of Alis…](https://romancescam.com/viewtopic.php?p=694043&sid=6442905459c02b2e476bf8c3f18f9d2a#p694043 "Re: Scammer using Pic of Alison Angel")  
-    by [Harper99](https://romancescam.com/memberlist.php?mode=viewprofile&u=107093&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=694043&sid=6442905459c02b2e476bf8c3f18f9d2a#p694043 "View the latest post")  
-    Mon May 13, 2024 2:50 pm
+    [www.vaild.work/login.html \[\] …](https://romancescam.com/viewtopic.php?p=698122&sid=5b255745837fce620727302cec253565#p698122 "www.vaild.work/login.html [] DUMPS TRACK !&@ IST FILE  EMV Reader/Writer v8.6 EMV Software.MSR FUllz Dead Cashapp Paypal")  
+    by [thaona](https://romancescam.com/memberlist.php?mode=viewprofile&u=107654&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=698122&sid=5b255745837fce620727302cec253565#p698122 "View the latest post")  
+    Sun Nov 03, 2024 2:13 am
     
-* [Scammer aus den GUS-Staaten](https://romancescam.com/viewforum.php?f=25&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Scammer aus den GUS-Staaten](https://romancescam.com/viewforum.php?f=25&sid=5b255745837fce620727302cec253565)  
     Zur Diskussion über Romance Scammer aus Russland und Osteuropa
     
-    Topics: **29**
+    Topics: **30**
     
-    Topics: **29**  
-    Posts: **142**
+    Topics: **30**  
+    Posts: **143**
     
-    [Re: Darusha Dascha <dariatend…](https://romancescam.com/viewtopic.php?p=497728&sid=6442905459c02b2e476bf8c3f18f9d2a#p497728 "Re: Darusha Dascha <dariatenderness@yahoo.com>")  
-    by [Manorainjan](https://romancescam.com/memberlist.php?mode=viewprofile&u=75886&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=497728&sid=6442905459c02b2e476bf8c3f18f9d2a#p497728 "View the latest post")  
-    Tue Aug 23, 2016 8:37 am
+    [www.vaild.work/login.html \[\] …](https://romancescam.com/viewtopic.php?p=698121&sid=5b255745837fce620727302cec253565#p698121 "www.vaild.work/login.html [] SELLING Cards Cloned Track 1&2 dumps pin software emv paypal cashapp FRESH CVVS FULLZ DUMPS")  
+    by [thaona](https://romancescam.com/memberlist.php?mode=viewprofile&u=107654&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=698121&sid=5b255745837fce620727302cec253565#p698121 "View the latest post")  
+    Sun Nov 03, 2024 2:12 am
     
-* [Estafadores de Africa](https://romancescam.com/viewforum.php?f=86&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Estafadores de Africa](https://romancescam.com/viewforum.php?f=86&sid=5b255745837fce620727302cec253565)  
     la discusión de los estafadores africanos en español
     
-    Topics: **19**
+    Topics: **20**
     
-    Topics: **19**  
-    Posts: **66**
+    Topics: **20**  
+    Posts: **67**
     
-    [Re: US.millitaryleaveoffice@m…](https://romancescam.com/viewtopic.php?p=634173&sid=6442905459c02b2e476bf8c3f18f9d2a#p634173 "Re: US.millitaryleaveoffice@mail.com")  
-    by [Myra](https://romancescam.com/memberlist.php?mode=viewprofile&u=33100&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=634173&sid=6442905459c02b2e476bf8c3f18f9d2a#p634173 "View the latest post")  
-    Wed Nov 18, 2020 12:10 am
+    [www.vaild.work/login.html \[\] …](https://romancescam.com/viewtopic.php?p=698120&sid=5b255745837fce620727302cec253565#p698120 "www.vaild.work/login.html [] Dumps atm Skimmer Cloned Cards cashapp paypal All cards are validated before delivery 100%")  
+    by [thaona](https://romancescam.com/memberlist.php?mode=viewprofile&u=107654&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=698120&sid=5b255745837fce620727302cec253565#p698120 "View the latest post")  
+    Sun Nov 03, 2024 2:11 am
     
-* [Estafadores de Rusia](https://romancescam.com/viewforum.php?f=87&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Estafadores de Rusia](https://romancescam.com/viewforum.php?f=87&sid=5b255745837fce620727302cec253565)  
     la discusión de los estafadores rusos en español
     
-    Topics: **3**
+    Topics: **4**
     
-    Topics: **3**  
-    Posts: **5**
+    Topics: **4**  
+    Posts: **6**
     
-    [Re: =CÓMO UBICAR EL ORIGEN DE…](https://romancescam.com/viewtopic.php?p=542663&sid=6442905459c02b2e476bf8c3f18f9d2a#p542663 "Re: =CÓMO UBICAR EL ORIGEN DE UN CORREO ELECTRÓNICO=")  
-    by [brian-andres.gold-chacon](https://romancescam.com/memberlist.php?mode=viewprofile&u=88679&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=542663&sid=6442905459c02b2e476bf8c3f18f9d2a#p542663 "View the latest post")  
-    Sun Oct 08, 2017 4:14 am
+    [www.vaild.work/login.html \[\] …](https://romancescam.com/viewtopic.php?p=698118&sid=5b255745837fce620727302cec253565#p698118 "www.vaild.work/login.html [] SELL CVV FULLZ INFO GOOD USA-UK-CA-AU-INTER,PASS VBV/BIN/DOB,D+PIN 101 Cashapp paypal clone")  
+    by [thaona](https://romancescam.com/memberlist.php?mode=viewprofile&u=107654&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=698118&sid=5b255745837fce620727302cec253565#p698118 "View the latest post")  
+    Sun Nov 03, 2024 2:02 am
     
-* [Non-English speaking users](https://romancescam.com/viewforum.php?f=82&sid=6442905459c02b2e476bf8c3f18f9d2a)  
+* [Non-English speaking users](https://romancescam.com/viewforum.php?f=82&sid=5b255745837fce620727302cec253565)  
     Questions to be Answered in Your Own Language
     
-    Topics: **47**
+    Topics: **48**
     
-    Topics: **47**  
-    Posts: **227**
+    Topics: **48**  
+    Posts: **228**
     
-    [Durantroger052@gmail.com (Slo…](https://romancescam.com/viewtopic.php?p=687109&sid=6442905459c02b2e476bf8c3f18f9d2a#p687109 "Durantroger052@gmail.com (Slovak language)")  
-    by [Menofpentagon](https://romancescam.com/memberlist.php?mode=viewprofile&u=105283&sid=6442905459c02b2e476bf8c3f18f9d2a) [View the latest post](https://romancescam.com/viewtopic.php?p=687109&sid=6442905459c02b2e476bf8c3f18f9d2a#p687109 "View the latest post")  
-    Thu Oct 26, 2023 6:13 am
+    [www.vaild.work/login.html \[\] …](https://romancescam.com/viewtopic.php?p=698119&sid=5b255745837fce620727302cec253565#p698119 "www.vaild.work/login.html [] Sell Paypal, Cashapp - cloned cards- cc store fullz dead uk Bank Logins,WU Trf,Dumps+Pin,Gi")  
+    by [thaona](https://romancescam.com/memberlist.php?mode=viewprofile&u=107654&sid=5b255745837fce620727302cec253565) [View the latest post](https://romancescam.com/viewtopic.php?p=698119&sid=5b255745837fce620727302cec253565#p698119 "View the latest post")  
+    Sun Nov 03, 2024 2:06 am
     
 
-### [Login](https://romancescam.com/ucp.php?mode=login&redirect=index.php&sid=6442905459c02b2e476bf8c3f18f9d2a)  •  [Register](https://romancescam.com/ucp.php?mode=register&sid=6442905459c02b2e476bf8c3f18f9d2a)
+### [Login](https://romancescam.com/ucp.php?mode=login&redirect=index.php&sid=5b255745837fce620727302cec253565)  •  [Register](https://romancescam.com/ucp.php?mode=register&sid=5b255745837fce620727302cec253565)
 
-Username:  Password:  [I forgot my password](https://romancescam.com/forum/app.php/user/forgot_password?sid=6442905459c02b2e476bf8c3f18f9d2a) | Remember me     
+Username:  Password:  [I forgot my password](https://romancescam.com/forum/app.php/user/forgot_password?sid=5b255745837fce620727302cec253565) | Remember me     
 
 ### Who is online
 
-In total there are **337** users online :: 3 registered, 0 hidden and 334 guests (based on users active over the past 15 minutes)  
+In total there are **316** users online :: 2 registered, 0 hidden and 314 guests (based on users active over the past 15 minutes)  
 Most users ever online was **1689** on Wed Feb 12, 2020 1:57 am  
 
 ### Statistics
 
-Total posts **149207** • Total topics **13693** • Total members **86744** • Our newest member **[Craven34](https://romancescam.com/memberlist.php?mode=viewprofile&u=107653&sid=6442905459c02b2e476bf8c3f18f9d2a)**
+Total posts **149230** • Total topics **13706** • Total members **86745** • Our newest member **[thaona](https://romancescam.com/memberlist.php?mode=viewprofile&u=107654&sid=5b255745837fce620727302cec253565)**
 
-* [Forum Index](https://romancescam.com/index.php?sid=6442905459c02b2e476bf8c3f18f9d2a)
-* [Cookie Policy](https://romancescam.com/forum/app.php/cookie-policy?sid=6442905459c02b2e476bf8c3f18f9d2a)
-* [Contact us](https://romancescam.com/forum/app.php/contactadmin?sid=6442905459c02b2e476bf8c3f18f9d2a)
-* [Delete cookies](https://romancescam.com/ucp.php?mode=delete_cookies&sid=6442905459c02b2e476bf8c3f18f9d2a)
+* [Forum Index](https://romancescam.com/index.php?sid=5b255745837fce620727302cec253565)
+* [Cookie Policy](https://romancescam.com/forum/app.php/cookie-policy?sid=5b255745837fce620727302cec253565)
+* [Contact us](https://romancescam.com/forum/app.php/contactadmin?sid=5b255745837fce620727302cec253565)
+* [Delete cookies](https://romancescam.com/ucp.php?mode=delete_cookies&sid=5b255745837fce620727302cec253565)
 * All times are UTC
 
 Powered by [phpBB](https://www.phpbb.com/)® Forum Software © phpBB Limited
 
 Style we\_universal created by [INVENTEA](https://inventea.com/ "phpBB styles, HTML5 & CSS3 templates") | [nextgen](https://nextgen.gt/ "phpBB styles")
 
-[Privacy](https://romancescam.com/ucp.php?mode=privacy&sid=6442905459c02b2e476bf8c3f18f9d2a "Privacy") | [Terms](https://romancescam.com/ucp.php?mode=terms&sid=6442905459c02b2e476bf8c3f18f9d2a "Terms")
+[Privacy](https://romancescam.com/ucp.php?mode=privacy&sid=5b255745837fce620727302cec253565 "Privacy") | [Terms](https://romancescam.com/ucp.php?mode=terms&sid=5b255745837fce620727302cec253565 "Terms")
 
 [](#)
 
