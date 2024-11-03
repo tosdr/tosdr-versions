@@ -103,10 +103,6 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
     
     She Is Risen](https://knowyourmeme.com/memes/all-i-want-for-christmas-is-you)
     
-* [![Twitch's Erobb221 Emote 'OGRE' Continues To Be Impactful Four Years Later](https://i.kym-cdn.com/featured_items/icons/wide/000/026/470/2.jpg "Twitch's Erobb221 Emote 'OGRE' Continues To Be Impactful Four Years Later")
-    
-    Twitch's Erobb221 Emote 'OGRE' Continues To Be Impactful Four Years Later](https://knowyourmeme.com/memes/ogre-erobb221-twitch)
-    
 * [![Nintendo Launchs Music Streaming App for Switch Online Subscribers](https://i.kym-cdn.com/featured_items/icons/wide/000/026/469/Nintendo_muic_app_Cover.jpg "Nintendo Launchs Music Streaming App for Switch Online Subscribers")
     
     Nintendo Launchs Music Streaming App for Switch Online Subscribers](https://knowyourmeme.com/memes/subcultures/nintendo-music-app)
@@ -119,10 +115,14 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
     
     TikTokers Showing Off Their Revealing Halloween Costumes With The 'No Revenge' Trend](https://knowyourmeme.com/memes/no-revenge-halloween-costume-trend)
     
+* [![Yakuza Fans On Reddit Are Attempting To Meme Hypothetical Game 'Found Judgment' Into Existence](https://i.kym-cdn.com/featured_items/icons/wide/000/026/466/Screenshot_2024-10-31_at_12.20.53_PM.jpg "Yakuza Fans On Reddit Are Attempting To Meme Hypothetical Game 'Found Judgment' Into Existence")
+    
+    Yakuza Fans On Reddit Are Attempting To Meme Hypothetical Game 'Found Judgment' Into Existence](https://knowyourmeme.com/memes/found-judgment)
+    
 
 ##### Also Trending:
 
-[Dragon Age Veilguard Reviews Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-reviews-controversy "Dragon Age Veilguard Reviews Controversy") [AI Generated Minecraft](https://knowyourmeme.com/memes/ai-generated-minecraft "AI Generated Minecraft") [Resilient Jenkins](https://knowyourmeme.com/memes/people/resilient-jenkins-jenkins-resilience-crew "Resilient Jenkins")
+[AI Generated Minecraft](https://knowyourmeme.com/memes/ai-generated-minecraft "AI Generated Minecraft") [Dragon Age Veilguard Reviews Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-reviews-controversy "Dragon Age Veilguard Reviews Controversy") [Resilient Jenkins](https://knowyourmeme.com/memes/people/resilient-jenkins-jenkins-resilience-crew "Resilient Jenkins") [Johnny Somali's South Korea Hunt Down Controversy](https://knowyourmeme.com/memes/events/johnny-somalis-south-korea-hunt-down-controversy "Johnny Somali's South Korea Hunt Down Controversy") [Nintendo Music App](https://knowyourmeme.com/memes/subcultures/nintendo-music-app "Nintendo Music App")
 
 Privacy Policy
 ==============
@@ -318,7 +318,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hey! You must login or signup first!
+### Hello! You must login or signup first!
 
 |     |     |
 | --- | --- |
