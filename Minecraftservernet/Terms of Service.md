@@ -29,13 +29,15 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![Foundation-Craft](plugins/MineCraft/icons/25x25xFoundation-Craft_1694578831.png.pagespeed.ic.3NY6E8gU-J.png)
+[![TheCavernMC](plugins/MineCraft/icons/25x25xTheCavernMC_1730281447.png.pagespeed.ic.l_7w2MQwbX.png)
 
-Foundation Craft](https://minecraft-server.net/details/Foundation-Craft/ "Foundation Craft")[![Total__Anarchy](plugins/MineCraft/icons/25x25xTotal__Anarchy_1729888751.png.pagespeed.ic.6R9WISDLl7.jpg)
+The Cavern \[1.21\] Survival Towny](https://minecraft-server.net/details/TheCavernMC/ "The Cavern [1.21] Survival Towny") [Laps Network - Factory Builder](https://minecraft-server.net/details/LapsNetwork/ "Laps Network - Factory Builder")[![mcprison](plugins/MineCraft/icons/25x25xmcprison_1722027662.png.pagespeed.ic.0wYsTOy-Nc.png)
 
-Total Anarchy](https://minecraft-server.net/details/Total__Anarchy/ "Total Anarchy")[![Folas1337](plugins/MineCraft/icons/Folas1337_1706960544.png)
+STAFF NEEDED - PURPLE PRISON](https://minecraft-server.net/details/mcprison/ "STAFF NEEDED - PURPLE PRISON")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
 
-~~ MetaUnion ~~ \[Friendly Community, No Pay2Win, RPG Survival, Creative\]](https://minecraft-server.net/details/Folas1337/ "~~ MetaUnion ~~ [Friendly Community, No Pay2Win, RPG Survival, Creative]") [CliveOverflow SMP](https://minecraft-server.net/details/CLineNebulousSMP/ "CliveOverflow SMP") [HappySMP](https://minecraft-server.net/details/CrystalisPrison/ "HappySMP")
+BEST SURVIVAL • CrackexMc](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexMc")[![NovaAnarchy](plugins/MineCraft/icons/25x25xNovaAnarchy_1727505642.png.pagespeed.ic.bKePTc9CBi.png)
+
+Nova Anarchy](https://minecraft-server.net/details/NovaAnarchy/ "Nova Anarchy")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -121,4 +123,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.0621 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05927 - Created by [Debaucus](https://debauc.us/)
