@@ -197,13 +197,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/bear-charges-at-russian-hunter/87310903/) [Russian Man With Balls of Steel Doesn't Shoot Mama Bear that Charges Him](https://www.ebaumsworld.com/videos/bear-charges-at-russian-hunter/87310903/)
+    [![a man sipping whiskey in his cluttered home | video of a man drinking and his wife leaving him in the backround](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/man-reviews-scotch-while-his-wife-packs-up-her-things-and-leaves-him-in-the-background/85847868/) [Man Reviews Scotch While His Wife Packs Up Her Things and Leaves Him in The Background](https://www.ebaumsworld.com/videos/man-reviews-scotch-while-his-wife-packs-up-her-things-and-leaves-him-in-the-background/85847868/)
     
-    [![Screenshot proof of NFL rigging during a Cleveland Browns and Washington Rednecks NFL football game](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/did-this-man-find-proof-the-nfl-is-rigged/85155857/) [Did This Man Find Proof The NFL is Rigged?](https://www.ebaumsworld.com/videos/did-this-man-find-proof-the-nfl-is-rigged/85155857/)
+    [![a tiny camera in a bluetooth headset](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/24-people-who-found-hidden-cameras-in-normal-items/86438450/) [24 People Who Found Hidden Cameras in Normal Items](https://www.ebaumsworld.com/pictures/24-people-who-found-hidden-cameras-in-normal-items/86438450/)
     
-    [![fat dude on waterslide](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/fat-guy-gets-huge-air-on-water-slide/85148225/) [Overweight Guy Wows Everyone With Huge Air On Water Slide](https://www.ebaumsworld.com/videos/fat-guy-gets-huge-air-on-water-slide/85148225/)
+    [![2020 memes - they dont want to put me on either - condom talking to a mask cartoon](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/30-memes-that-capture-the-hot-mess-that-is-2020/86434297/) [30 Memes That Capture the Suck of 2020](https://www.ebaumsworld.com/pictures/30-memes-that-capture-the-hot-mess-that-is-2020/86434297/)
     
-    [![Insane Childhood Stories As Told By Twitter Users](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/insane-childhood-stories-as-told-by-twitter-users/87497005/) [19 Insane Childhood Stories As Told By Twitter Users](https://trending.ebaumsworld.com/pictures/insane-childhood-stories-as-told-by-twitter-users/87497005/)
+    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/23-people-who-got-bad-tattoos-that-were-inked-with-regret/87510467/) [23 People Who Got Bad Tattoos That Were Inked With Regret](https://trending.ebaumsworld.com/pictures/23-people-who-got-bad-tattoos-that-were-inked-with-regret/87510467/)
     
 
 * Advertisement
