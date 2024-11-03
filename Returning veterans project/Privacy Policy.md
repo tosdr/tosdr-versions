@@ -186,11 +186,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Alan Burgess ](https://cdn.returningveterans.org/images/honor/Alan_Burgess.jpg)  
+![Larry Parks Jr.](https://cdn.returningveterans.org/images/honor/20_Larry_Parks_Jr_.jpg)  
 
-**In Memory of Alan Burgess**  
-United States Army National Guard  
-Submitted by Brother Edward Burgess](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Larry Parks Jr.**  
+United States Army  
+Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -233,5 +233,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/02/24 - 8:31:52  
+Printed 11/03/24 - 1:25:52  
 © 2024 Returning Veterans Project
