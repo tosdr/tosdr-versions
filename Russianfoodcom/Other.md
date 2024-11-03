@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,6 +148,7 @@
 
 Сейчас читают
 
+* [Куриные голени, фаршированные грибами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174529)
 * [Запечённые куриные тефтели в кунжуте](https://www.russianfood.com/recipes/recipe.php?rid=172904)
 
 |     |
@@ -281,7 +282,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173618#comments) | 02.11.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173618#comments) | 02.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -452,8 +453,8 @@
 
 |     |     |     |
 | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735596.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173377) | [![](//img1.russianfood.com/dycontent/images_upl/728/alt1_727072.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173618) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746744.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174258) |
-| [Салат с рыбными консервами, свежими овощами и отварным картофелем](https://www.russianfood.com/recipes/recipe.php?rid=173377) | [Салат с курицей, пекинской капустой и огурцами](https://www.russianfood.com/recipes/recipe.php?rid=173618) | [Оладьи с помидорами и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=174258) |
+| [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746744.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174258) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735596.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173377) | [![](//img1.russianfood.com/dycontent/images_upl/728/alt1_727072.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173618) |
+| [Оладьи с помидорами и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=174258) | [Салат с рыбными консервами, свежими овощами и отварным картофелем](https://www.russianfood.com/recipes/recipe.php?rid=173377) | [Салат с курицей, пекинской капустой и огурцами](https://www.russianfood.com/recipes/recipe.php?rid=173618) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -469,5 +470,3 @@
 [![Рейтинг@Mail.ru](//top-fwz1.mail.ru/counter?id=1447532;t=452;l=1)](http://top.mail.ru/jump?from=1447532)       
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
-
-(133)
