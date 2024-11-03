@@ -159,7 +159,7 @@ Rechercher sur Le Parisien
     * [Vie étudiante](https://www.leparisien.fr/etudiant/vie-etudiante/)
     * [Jobs Stages](https://www.leparisien.fr/etudiant/jobs-stages/)
     * [Agenda sorties](https://www.leparisien.fr/etudiant/sortir/)
-    * [Halloween 2024](https://www.leparisien.fr/etudiant/sortir/paris/halloween/)
+    * [Réveillon 2025](https://www.leparisien.fr/etudiant/sortir/paris/reveillon/)
     
 * [Le Parisien Jardin](https://www.leparisien.fr/jardin/)
     
