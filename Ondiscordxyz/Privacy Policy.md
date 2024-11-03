@@ -115,7 +115,7 @@ Note that Bots on Discord has no access to or control over these cookies that ar
 
 By using our website, you hereby consent to our Privacy Policy.
 
-**Tip:** You can click on tags to see a bot's description for that tag.
+**Tip:** Do you have feedback for us? Let us know on our [Discord server](https://discord.gg/bvm6vSv)!
 
 onDiscord.xyz is not affiliated with Discord Inc.
 
