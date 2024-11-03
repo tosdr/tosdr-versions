@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![PA Supreme Court Donors](/assets/logos/RaisedByPASCCan.png)](https://www.followthemoney.org/research/institute-research/high-court-contests-competition-controversy-and-cash-in-pennsylvania-and-wisconsin)
+[![Energy $$ in CO](/assets/Images/teasers/small/Energy-to-CO-2013-14.png)](http://www.followthemoney.org/research/blog/energy-dollars-in-denver/)
 
-Who gives to Pennsylvania’s supreme court candidates?
+Energy Giving in Colorado, 2013-14.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
