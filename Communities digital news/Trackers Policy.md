@@ -34,33 +34,33 @@ Search for:
 
 [Joe wants to smack Trump ‘in the ass’ in latest outburst](https://americanwirenews.com/joe-wants-to-smack-trump-in-the-ass-in-latest-outburst/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cuomo-oreilly-smith-1200x630.jpg)](https://americanwirenews.com/oreilly-dismisses-gop-belief-that-kamala-has-power-as-vp-shes-lucky-she-can-order-lunch/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ford-1200-x-628-1200x630.jpg)](https://americanwirenews.com/hollywood-legend-latest-filthy-rich-celebrity-fat-cat-to-endorse-kamala/)
 
-[O’Reilly dismisses GOP belief that Kamala has power as VP: ‘She’s lucky she can order lunch!’](https://americanwirenews.com/oreilly-dismisses-gop-belief-that-kamala-has-power-as-vp-shes-lucky-she-can-order-lunch/)
+[Hollywood legend latest filthy rich celebrity fat cat to endorse Kamala](https://americanwirenews.com/hollywood-legend-latest-filthy-rich-celebrity-fat-cat-to-endorse-kamala/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-irs-whistleblowers-1200x630.jpg)](https://americanwirenews.com/house-republicans-furious-about-alleged-irs-whistleblower-retaliation-accept-a-demotion-or-resign/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mayorkas-border-1200x630.jpg)](https://americanwirenews.com/republicans-call-on-mayorkas-to-return-to-covid-era-border-policy-amid-rapid-surge-in-tuberculosis/)
 
-[House Republicans furious about alleged IRS whistleblower retaliation: ‘Accept a demotion or resign’](https://americanwirenews.com/house-republicans-furious-about-alleged-irs-whistleblower-retaliation-accept-a-demotion-or-resign/)
+[Republicans call on Mayorkas to return to COVID-era border policy amid rapid surge in tuberculosis](https://americanwirenews.com/republicans-call-on-mayorkas-to-return-to-covid-era-border-policy-amid-rapid-surge-in-tuberculosis/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/01/SG-Kamala-Harris-1200x630.jpg)](https://americanwirenews.com/harris-camp-sends-mixed-signals-in-ads-targeting-jewish-arab-american-voters/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ballot-austin1-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/lawmakers-want-answers-from-pentagon-over-failure-to-send-absentee-ballots-to-active-duty-service-members/)
 
-[Harris camp sends mixed signals in ads targeting Jewish, Arab-American voters](https://americanwirenews.com/harris-camp-sends-mixed-signals-in-ads-targeting-jewish-arab-american-voters/)
+[Lawmakers want answers from Pentagon over failure to send absentee ballots to active-duty service members](https://americanwirenews.com/lawmakers-want-answers-from-pentagon-over-failure-to-send-absentee-ballots-to-active-duty-service-members/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-amish-1200x630.jpg)](https://americanwirenews.com/amish-voters-could-be-the-key-to-trumps-success-in-pennsylvania-they-want-to-be-left-alone/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-abcleavitt-1200-x-628-1200x630.jpg)](https://americanwirenews.com/could-this-be-the-next-white-house-press-secretary-trumps-national-spokeswoman-gives-masterclass-in-handling-regime-media/)
 
-[Amish voters could be the key to Trump’s success in Pennsylvania: ‘They want to be left alone’](https://americanwirenews.com/amish-voters-could-be-the-key-to-trumps-success-in-pennsylvania-they-want-to-be-left-alone/)
+[Could this be the next White House Press Secretary?](https://americanwirenews.com/could-this-be-the-next-white-house-press-secretary-trumps-national-spokeswoman-gives-masterclass-in-handling-regime-media/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-paul-1200x630.jpg)](https://americanwirenews.com/ron-paul-expresses-interest-in-working-with-elon-if-trump-is-elected-lets-end-the-fed/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-trump-harris-1200x630.jpg)](https://americanwirenews.com/experts-dont-buy-shock-poll-that-says-kamala-harris-is-suddenly-ahead-in-iowa/)
 
-[Ron Paul expresses interest in working with Elon if Trump is elected: ‘Let’s end the Fed!’](https://americanwirenews.com/ron-paul-expresses-interest-in-working-with-elon-if-trump-is-elected-lets-end-the-fed/)
+[Experts don’t buy ‘shock poll’ that says Kamala Harris is suddenly ahead in Iowa](https://americanwirenews.com/experts-dont-buy-shock-poll-that-says-kamala-harris-is-suddenly-ahead-in-iowa/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-browns-1200x630.jpg)](https://americanwirenews.com/daughter-of-nfl-legend-endorses-trump-slams-dems-for-taking-away-womens-rights/)
 
 [Daughter of NFL legend endorses Trump, slams Dems for ‘taking away women’s rights’](https://americanwirenews.com/daughter-of-nfl-legend-endorses-trump-slams-dems-for-taking-away-womens-rights/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-roganfetterman-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-djt-aberenson-split-1200-x-628-1200x630.jpg)
 
-### Rogan pushes Fetterman to answer why Dems are flooding swing states with illegals](https://americanwirenews.com/rogan-pushes-fetterman-to-answer-why-dems-are-flooding-swing-states-with-illegals/)
+### Famous former New York Times reporter explains ‘Why I’m voting for Donald J. Trump’](https://americanwirenews.com/famous-former-new-york-times-reporter-explains-why-im-voting-for-donald-j-trump/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -78,9 +78,21 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ford-1200-x-628-220x180.jpg)](https://americanwirenews.com/hollywood-legend-latest-filthy-rich-celebrity-fat-cat-to-endorse-kamala/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-harris-220x180.jpg)](https://americanwirenews.com/cnn-shocks-audience-points-out-how-insincere-kamala-has-opposite-messages-in-ads-for-each-state/)
 
-[Hollywood legend latest filthy rich celebrity fat cat to endorse Kamala](https://americanwirenews.com/hollywood-legend-latest-filthy-rich-celebrity-fat-cat-to-endorse-kamala/)
+[CNN shocks audience, points out how Kamala tells voters opposite messages based on their state](https://americanwirenews.com/cnn-shocks-audience-points-out-how-insincere-kamala-has-opposite-messages-in-ads-for-each-state/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-shasta-ballot-box-220x180.jpg)](https://americanwirenews.com/california-property-manager-arrested-for-bragging-on-reddit-that-he-voted-multiple-times/)
+
+[California property manager arrested for bragging on Reddit that he voted multiple times](https://americanwirenews.com/california-property-manager-arrested-for-bragging-on-reddit-that-he-voted-multiple-times/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rashida-kam-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/squad-member-declines-to-endorse-kamala-as-muslim-mutiny-over-gaza-persists/)
+
+[Squad member declines to endorse Kamala as Muslim mutiny over Gaza persists](https://americanwirenews.com/squad-member-declines-to-endorse-kamala-as-muslim-mutiny-over-gaza-persists/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gabbard-cheney-220x180.jpg)](https://americanwirenews.com/tulsi-sets-the-record-straight-on-cowardly-dick-and-liz-cheney/)
+
+[Tulsi sets the record straight on ‘cowardly’ Dick and Liz Cheney](https://americanwirenews.com/tulsi-sets-the-record-straight-on-cowardly-dick-and-liz-cheney/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-goldberg-220x180.jpg)](https://americanwirenews.com/cnn-analyst-called-out-for-letting-tds-get-the-better-of-him-over-cheney-comments/)
 
@@ -163,18 +175,6 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-dreamers-protest-220x180.jpg)](https://americanwirenews.com/illegal-immigrant-dreamers-eligible-to-sign-up-for-obamacare-for-the-first-time/)
 
 [Illegal immigrant ‘dreamers’ eligible to sign up for Obamacare for the first time](https://americanwirenews.com/illegal-immigrant-dreamers-eligible-to-sign-up-for-obamacare-for-the-first-time/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-patrick-cuban-220x180.png)](https://americanwirenews.com/buckle-up-danica-patrick-has-a-big-bold-video-girl-message-for-mark-cuban/)
-
-[Buckle up! Danica Patrick has a big, bold video girl-message for Mark Cuban](https://americanwirenews.com/buckle-up-danica-patrick-has-a-big-bold-video-girl-message-for-mark-cuban/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-walz-220x180.jpg)](https://americanwirenews.com/tim-walz-answers-why-kamala-didnt-fix-anything-over-last-3-5-years/)
-
-[Tim Walz answers why Kamala didn’t fix anything over last 3.5 years](https://americanwirenews.com/tim-walz-answers-why-kamala-didnt-fix-anything-over-last-3-5-years/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jimmy_garland-split1-1200-x-628-220x180.jpg)](https://americanwirenews.com/critics-wonder-if-doj-will-go-after-jimmy-kimmel-for-election-interference-like-it-did-to-trump-supporter/)
-
-[Critics wonder if DOJ will go after Jimmy Kimmel for ‘election interference’ like it did to Trump supporter](https://americanwirenews.com/critics-wonder-if-doj-will-go-after-jimmy-kimmel-for-election-interference-like-it-did-to-trump-supporter/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -318,11 +318,13 @@ Getty Images](https://americanwirenews.com/new-harvard-study-shows-dems-pushed-h
 
 ### [CULTURE & SOCIETY](https://www.commdiginews.com/category/featured-culture-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-1284970558-1-1200x630.jpg)](https://americanwirenews.com/police-say-two-influencers-rejected-lifejackets-before-drowning-they-get-in-the-way-of-their-tanning/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kelce-1200x630.jpg)](https://americanwirenews.com/jason-kelce-attacks-fan-goes-ballistic-on-guy-for-calling-taylor-swifts-boy-toy-the-other-f-word/)
 
-Getty Images
+[Jason Kelce attacks fan, goes ballistic on guy for calling Taylor Swift’s boy toy the other F-word](https://americanwirenews.com/jason-kelce-attacks-fan-goes-ballistic-on-guy-for-calling-taylor-swifts-boy-toy-the-other-f-word/)
 
-[Police say two influencers rejected lifejackets before drowning: ‘They get in the way of their tanning’](https://americanwirenews.com/police-say-two-influencers-rejected-lifejackets-before-drowning-they-get-in-the-way-of-their-tanning/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kelce-220x180.jpg)](https://americanwirenews.com/jason-kelce-attacks-fan-goes-ballistic-on-guy-for-calling-taylor-swifts-boy-toy-the-other-f-word/)
+
+[Jason Kelce attacks fan, goes ballistic on guy for calling Taylor Swift’s boy toy the other F-word](https://americanwirenews.com/jason-kelce-attacks-fan-goes-ballistic-on-guy-for-calling-taylor-swifts-boy-toy-the-other-f-word/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-1284970558-1-220x180.jpg)](https://americanwirenews.com/police-say-two-influencers-rejected-lifejackets-before-drowning-they-get-in-the-way-of-their-tanning/)
 
@@ -341,9 +343,5 @@ Getty Images](https://americanwirenews.com/police-say-two-influencers-rejected-l
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sheriff-bob-gualtieri-220x180.jpg)](https://americanwirenews.com/florida-county-41-of-45-people-arrested-for-looting-after-hurricanes-helene-and-milton-are-noncitizens/)
 
 [Florida county: 41 of 45 people arrested for looting after Hurricanes Helene and Milton are noncitizens](https://americanwirenews.com/florida-county-41-of-45-people-arrested-for-looting-after-hurricanes-helene-and-milton-are-noncitizens/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-penn-state-220x180.png)](https://americanwirenews.com/penn-state-national-champion-wrestling-team-joins-trump-on-stage-at-rally-in-happy-valley/)
-
-[Penn State national champion wrestling team joins Trump on stage at rally in Happy Valley](https://americanwirenews.com/penn-state-national-champion-wrestling-team-joins-trump-on-stage-at-rally-in-happy-valley/)
 
 © 2024. All Rights Reserved. American Wire News
