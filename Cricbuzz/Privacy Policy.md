@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs IND - Live](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-tour-of-india-2024 "New Zealand v India, 3rd Test - Live")[ADSW vs MLRW - MLRW Won](https://www.cricbuzz.com/live-cricket-scores/101318/adsw-vs-mlrw-13th-match-womens-big-bash-league-2024 "Adelaide Strikers Women v Melbourne Renegades Women, 13th Match - MLRW Won")[UAE vs NED - Live](https://www.cricbuzz.com/live-cricket-scores/108928/uae-vs-ned-43rd-match-icc-cricket-world-cup-league-two-2023-27 "United Arab Emirates v Netherlands, 43rd Match - Live")[WI vs ENG - ENG Won](https://www.cricbuzz.com/live-cricket-scores/95151/wi-vs-eng-2nd-odi-england-tour-of-west-indies-2024 "West Indies v England, 2nd ODI - ENG Won")[USA vs NEP - USA Won](https://www.cricbuzz.com/live-cricket-scores/107044/usa-vs-nep-42nd-match-icc-cricket-world-cup-league-two-2023-27 "United States of America v Nepal, 42nd Match - USA Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs IND - NZ Won](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-tour-of-india-2024 "New Zealand v India, 3rd Test - NZ Won")[ADSW vs MLRW - MLRW Won](https://www.cricbuzz.com/live-cricket-scores/101318/adsw-vs-mlrw-13th-match-womens-big-bash-league-2024 "Adelaide Strikers Women v Melbourne Renegades Women, 13th Match - MLRW Won")[UAE vs NED - Live](https://www.cricbuzz.com/live-cricket-scores/108928/uae-vs-ned-43rd-match-icc-cricket-world-cup-league-two-2023-27 "United Arab Emirates v Netherlands, 43rd Match - Live")[WI vs ENG - ENG Won](https://www.cricbuzz.com/live-cricket-scores/95151/wi-vs-eng-2nd-odi-england-tour-of-west-indies-2024 "West Indies v England, 2nd ODI - ENG Won")[USA vs NEP - USA Won](https://www.cricbuzz.com/live-cricket-scores/107044/usa-vs-nep-42nd-match-icc-cricket-world-cup-league-two-2023-27 "United States of America v Nepal, 42nd Match - USA Won")
 
 AllLive NowToday
 
@@ -56,7 +56,7 @@ AllLive NowToday
     
     New Zealand v India 2024
     
-    [New Zealand vs India  LIVE](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-v-india-2024 "New Zealand v India, 3rd Test - Live")
+    [New Zealand vs India](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-v-india-2024 "New Zealand v India, 3rd Test - NZ Won")
     
     3rd Test
     
@@ -130,7 +130,7 @@ AllLive NowToday
     
     7th Match
     
-* [South Australia vs Victoria  LIVE](https://www.cricbuzz.com/live-cricket-scores/102889/saus-vs-vic-9th-match-sheffield-shield-2024-25 "South Australia v Victoria, 9th Match - Live")
+* [South Australia vs Victoria](https://www.cricbuzz.com/live-cricket-scores/102889/saus-vs-vic-9th-match-sheffield-shield-2024-25 "South Australia v Victoria, 9th Match - Stumps")
     
     9th Match
     
@@ -146,37 +146,29 @@ AllLive NowToday
     
     15th Match
     
-* [Northern Knights vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107323/nk-vs-akl-13th-match-the-ford-trophy-2024-25 "Northern Knights v Auckland, 13th Match - Complete")
+* [Northern Knights vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107323/nk-vs-akl-13th-match-the-ford-trophy-2024-25 "Northern Knights v Auckland, 13th Match - AKL Won")
     
     13th Match
     
-* [Canterbury vs Central Districts](https://www.cricbuzz.com/live-cricket-scores/107315/cntbry-vs-cd-14th-match-the-ford-trophy-2024-25 "Canterbury v Central Districts, 14th Match - Complete")
+* [Canterbury vs Central Districts](https://www.cricbuzz.com/live-cricket-scores/107315/cntbry-vs-cd-14th-match-the-ford-trophy-2024-25 "Canterbury v Central Districts, 14th Match - CNTBRY Won")
     
     14th Match
     
 * CSA Four-Day Series Division Two 2024-25
     
-    [South Western Districts vs Border](https://www.cricbuzz.com/live-cricket-scores/104314/swd-vs-bor-1st-match-csa-four-day-series-division-two-2024-25 "South Western Districts v Border, 1st Match - Stumps")
-    
-    1st Match
-    
-* [Limpopo vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/104322/limpo-vs-estorm-2nd-match-csa-four-day-series-division-two-2024-25 "Limpopo v Eastern Storm, 2nd Match - Stumps")
+    [Limpopo vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/104322/limpo-vs-estorm-2nd-match-csa-four-day-series-division-two-2024-25 "Limpopo v Eastern Storm, 2nd Match - Stumps")
     
     2nd Match
+    
+* [South Western Districts vs Border](https://www.cricbuzz.com/live-cricket-scores/104314/swd-vs-bor-1st-match-csa-four-day-series-division-two-2024-25 "South Western Districts v Border, 1st Match - Stumps")
+    
+    1st Match
     
 * WOMEN
     
     WBBL 2024
     
-    [Sydney Thunder Women vs Adelaide Strikers Women](https://www.cricbuzz.com/live-cricket-scores/101288/sytw-vs-adsw-8th-match-wbbl-2024 "Sydney Thunder Women v Adelaide Strikers Women, 8th Match - SYTW Won")
-    
-    8th Match
-    
-* [Melbourne Stars Women vs Sydney Sixers Women](https://www.cricbuzz.com/live-cricket-scores/101294/mlsw-vs-sysw-9th-match-wbbl-2024 "Melbourne Stars Women v Sydney Sixers Women, 9th Match - MLSW Won")
-    
-    9th Match
-    
-* [Brisbane Heat Women vs Hobart Hurricanes Women](https://www.cricbuzz.com/live-cricket-scores/101302/brhw-vs-hbhw-10th-match-wbbl-2024 "Brisbane Heat Women v Hobart Hurricanes Women, 10th Match - HBHW Won")
+    [Brisbane Heat Women vs Hobart Hurricanes Women](https://www.cricbuzz.com/live-cricket-scores/101302/brhw-vs-hbhw-10th-match-wbbl-2024 "Brisbane Heat Women v Hobart Hurricanes Women, 10th Match - HBHW Won")
     
     10th Match
     
@@ -191,6 +183,10 @@ AllLive NowToday
 * [Adelaide Strikers Women vs Melbourne Renegades Women](https://www.cricbuzz.com/live-cricket-scores/101318/adsw-vs-mlrw-13th-match-wbbl-2024 "Adelaide Strikers Women v Melbourne Renegades Women, 13th Match - MLRW Won")
     
     13th Match
+    
+* [Perth Scorchers Women vs Brisbane Heat Women](https://www.cricbuzz.com/live-cricket-scores/101327/prsw-vs-brhw-14th-match-wbbl-2024 "Perth Scorchers Women v Brisbane Heat Women, 14th Match - Upcoming")
+    
+    14th Match
     
 * Kenya Women tour of Rwanda 2024
     
@@ -509,41 +505,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
-  [](https://www.cricbuzz.com/cricket-news/132317/pant-keeps-indias-hopes-afloat-in-chaotic-morning-session "Pant keeps India's hopes afloat in chaotic morning session")
+  [](https://www.cricbuzz.com/cricket-news/132323/many-questions-in-indias-way-following-stunning-drop-off "Many questions in India's way following stunning drop-off ")
 
-[Pant keeps India's hopes afloat in chaotic morning session](https://www.cricbuzz.com/cricket-news/132317/pant-keeps-indias-hopes-afloat-in-chaotic-morning-session "Pant keeps India's hopes afloat in chaotic morning session")
+[Many questions in India's way following stunning drop-off](https://www.cricbuzz.com/cricket-news/132323/many-questions-in-indias-way-following-stunning-drop-off "Many questions in India's way following stunning drop-off ")
 
-56m ago
+32m ago
 
-  [](https://www.cricbuzz.com/cricket-news/132316/why-the-ball-change-in-mackay-wasnt-probably-a-case-of-ball-tampering "Why the ball change in Mackay wasn't probably a case of ball tampering")
+  [](https://www.cricbuzz.com/cricket-news/132322/lost-for-words-in-terms-of-whats-happened-over-the-last-three-weeks "'Lost for words in terms of what's happened over the last three weeks'")
 
-[Why the ball change in Mackay wasn't probably a case of ball tampering](https://www.cricbuzz.com/cricket-news/132316/why-the-ball-change-in-mackay-wasnt-probably-a-case-of-ball-tampering "Why the ball change in Mackay wasn't probably a case of ball tampering")
-
-2h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132315/mcsweeney-webster-seal-comfortable-chase-for-australia-a "McSweeney, Webster seal comfortable chase for Australia A")
-
-[McSweeney, Webster seal comfortable chase for Australia A](https://www.cricbuzz.com/cricket-news/132315/mcsweeney-webster-seal-comfortable-chase-for-australia-a "McSweeney, Webster seal comfortable chase for Australia A")
+['Lost for words in terms of what's happened over the last three weeks'](https://www.cricbuzz.com/cricket-news/132322/lost-for-words-in-terms-of-whats-happened-over-the-last-three-weeks "'Lost for words in terms of what's happened over the last three weeks'")
 
 2h ago
 
-  [](https://www.cricbuzz.com/cricket-news/132314/livingstone-special-helps-england-square-series "Livingstone special helps England square series")
+  [](https://www.cricbuzz.com/cricket-news/132321/wtc-scenarios-india-need-big-result-in-australia-after-home-stumble "WTC Scenarios: India need big result in Australia after home stumble")
 
-[Livingstone special helps England square series](https://www.cricbuzz.com/cricket-news/132314/livingstone-special-helps-england-square-series "Livingstone special helps England square series")
+[WTC Scenarios: India need big result in Australia after home stumble](https://www.cricbuzz.com/cricket-news/132321/wtc-scenarios-india-need-big-result-in-australia-after-home-stumble "WTC Scenarios: India need big result in Australia after home stumble")
+
+2h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132320/rohit-expresses-frustration-over-pants-controversy-inducing-dismissal "Don't know how that Pant decision was overturned: Rohit Sharma")
+
+[Don't know how that Pant decision was overturned: Rohit Sharma](https://www.cricbuzz.com/cricket-news/132320/rohit-expresses-frustration-over-pants-controversy-inducing-dismissal "Don't know how that Pant decision was overturned: Rohit Sharma")
+
+3h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132319/stats-lowest-total-defended-against-india-in-india "Stats: India plummet to new nadir at home")
+
+[Stats: India plummet to new nadir at home](https://www.cricbuzz.com/cricket-news/132319/stats-lowest-total-defended-against-india-in-india "Stats: India plummet to new nadir at home")
+
+4h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132318/ajaz-stars-again-at-wankhede-as-new-zealand-seal-historic-whitewash "Ajaz stars again at Wankhede as New Zealand seal historic whitewash")
+
+[Ajaz stars again at Wankhede as New Zealand seal historic whitewash](https://www.cricbuzz.com/cricket-news/132318/ajaz-stars-again-at-wankhede-as-new-zealand-seal-historic-whitewash "Ajaz stars again at Wankhede as New Zealand seal historic whitewash")
 
 5h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132313/utkarsh-srivastava-i-think-i-needed-to-earn-the-respect-of-everyone "Utkarsh Srivastava: I think I needed to earn the respect of everyone")
-
-[Utkarsh Srivastava: I think I needed to earn the respect of everyone](https://www.cricbuzz.com/cricket-news/132313/utkarsh-srivastava-i-think-i-needed-to-earn-the-respect-of-everyone "Utkarsh Srivastava: I think I needed to earn the respect of everyone")
-
-12h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132312/rishabh-pant-and-shubman-gill-take-different-routes-up-the-spin-hill "Pant and Gill take different routes up the spin hill")
-
-[Pant and Gill take different routes up the spin hill](https://www.cricbuzz.com/cricket-news/132312/rishabh-pant-and-shubman-gill-take-different-routes-up-the-spin-hill "Pant and Gill take different routes up the spin hill")
-
-16h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
