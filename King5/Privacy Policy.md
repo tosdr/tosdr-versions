@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KGW/images/b5a82e2c-05ff-47e4-8b93-573c9fca414d/20241028T234930/b5a82e2c-05ff-47e4-8b93-573c9fca414d_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/b5a82e2c-05ff-47e4-8b93-573c9fca414d/20241028T234930/b5a82e2c-05ff-47e4-8b93-573c9fca414d_360x203.jpg)](https://www.king5.com/article/news/local/portland-public-market-downtown-james-beard/283-6dae3d82-b20d-4787-9210-3ff162dc9396)
+        
+        #### [James Beard Public Market announces new home and partial plans for opening in Portland](https://www.king5.com/article/news/local/portland-public-market-downtown-james-beard/283-6dae3d82-b20d-4787-9210-3ff162dc9396)
+        
     *  [![](https://media.king5.com/assets/KING/images/7dc502e5-fd9b-4a45-bb07-40be3dcea5e0/20241102T144855/7dc502e5-fd9b-4a45-bb07-40be3dcea5e0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7dc502e5-fd9b-4a45-bb07-40be3dcea5e0/20241102T144855/7dc502e5-fd9b-4a45-bb07-40be3dcea5e0_360x203.jpg)](https://www.king5.com/article/news/local/boulder-blocks-sr-11-south-bellingham-rockslide/281-68f81431-f516-4d71-9bed-1b80595bb541)
         
         #### [SR 11 south of Bellingham reopens after 'car-sized' boulders blocked road in rockslide](https://www.king5.com/article/news/local/boulder-blocks-sr-11-south-bellingham-rockslide/281-68f81431-f516-4d71-9bed-1b80595bb541)
-        
-    *  [![](https://media.king5.com/assets/KING/images/93d0d771-dd20-47e9-b31a-388b59c6360c/20241102T150646/93d0d771-dd20-47e9-b31a-388b59c6360c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/93d0d771-dd20-47e9-b31a-388b59c6360c/20241102T150646/93d0d771-dd20-47e9-b31a-388b59c6360c_360x203.jpg)](https://www.king5.com/article/money/markets/real-estate/homebuyers-refinance-hopefuls-waiting-interest-rate-drop/281-9099d6cb-8b52-42a3-b30b-2f1266f66505)
-        
-        #### [Be prepared: What homebuyers and refinance hopefuls can do while waiting on an interest rate drop](https://www.king5.com/article/money/markets/real-estate/homebuyers-refinance-hopefuls-waiting-interest-rate-drop/281-9099d6cb-8b52-42a3-b30b-2f1266f66505)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-53°
+47°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
