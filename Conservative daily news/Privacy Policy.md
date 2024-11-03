@@ -2,7 +2,7 @@ Saturday, November 2 2024
 
 Breaking News
 
-* [Mark Cuban Backtracks On Claim That Trump Is ‘Never Around Strong, Intelligent Women’ |](https://www.conservativedailynews.com/2024/11/mark-cuban-backtracks-on-claim-that-trump-is-never-around-strong-intelligent-women/)
+* [Mark Cuban Backtracks On Claim That Trump Is ‘Never Around Strong, Intelligent Women’](https://www.conservativedailynews.com/2024/11/mark-cuban-backtracks-on-claim-that-trump-is-never-around-strong-intelligent-women/)
 * [President Joe Biden’s Schedule for Saturday, November 2, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-saturday-november-2-2024/)
 * [Why Should Anyone Waste A Minute On Liz Cheney](https://www.conservativedailynews.com/2024/11/why-should-anyone-waste-a-minute-on-liz-cheney/)
 * [Legalizing Pot In Florida Is A Bad Idea — Just Ask Colorado and California](https://www.conservativedailynews.com/2024/11/legalizing-pot-in-florida-is-a-bad-idea-just-ask-colorado-and-california/)
@@ -133,7 +133,7 @@ Recent Posts
 
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Mark-Cuban-220x150.jpg)](https://www.conservativedailynews.com/2024/11/mark-cuban-backtracks-on-claim-that-trump-is-never-around-strong-intelligent-women/)
     
-    [Mark Cuban Backtracks On Claim That Trump Is ‘Never Around Strong, Intelligent Women’ |](https://www.conservativedailynews.com/2024/11/mark-cuban-backtracks-on-claim-that-trump-is-never-around-strong-intelligent-women/)
+    [Mark Cuban Backtracks On Claim That Trump Is ‘Never Around Strong, Intelligent Women’](https://www.conservativedailynews.com/2024/11/mark-cuban-backtracks-on-claim-that-trump-is-never-around-strong-intelligent-women/)
     
     November 2, 2024
     
