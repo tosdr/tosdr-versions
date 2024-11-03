@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=Zyd92goAAVEAAABcD7w)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZyfSIgoAAVEAAABcDn8)
 
 Es noticia
 
@@ -11,6 +11,7 @@ Es noticia
 * [Voluntarios Valencia](https://www.elmundo.es/comunidad-valenciana/2024/11/03/6727327de4d4d8d4638b457a.html)
 * [Alcalde Aldaia](https://www.elmundo.es/comunidad-valenciana/2024/11/02/67264f1ae4d4d866248b45aa.html)
 * [Alerta roja Almería](https://www.elmundo.es/andalucia/2024/11/03/672765d921efa0461b8b457c.html)
+* [Cataluña suspende clases](https://www.elmundo.es/cataluna/2024/11/03/6727702e21efa0bf168b4572.html)
 * [Pedro Sánchez](https://www.elmundo.es/pais-vasco/2024/11/03/6727280de9cf4aa82b8b456d.html)
 * [Podemos](https://www.elmundo.es/espana/2024/11/03/6726780d21efa0b8488b45a4.html)
 * [Mafalda Bulgaria](https://www.elmundo.es/loc/famosos/2024/11/02/67225287e9cf4a55618b456f.html)
