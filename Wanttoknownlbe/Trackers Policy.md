@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/karskens-presenteert-zwartboek-partijdig-nos-journaal/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/wat-is-waar-wie-het-weet-mag-het-zeggen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -131,6 +131,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### Jankende NOS-journalisten, ga in de spiegel kijken…!!
+
+[Het begint op een soap te lijken namelijk een strijd van de…](https://www.wanttoknow.nl/overige/jankende-nos-journalisten-ga-in-de-spiegel-kijken/comment-page-1/#comment-626348)
 
 ![ikzie](https://secure.gravatar.com/avatar/99005f7fd1b9bebeaf2ae5766f00b3c6?s=50&d=identicon&r=g)
 
@@ -379,14 +387,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Weten dat het goed komt…
 
 [Een prachtig stuk van Sander Compagner !. Wij kopen nogal ee…](https://www.wanttoknow.nl/overige/weten-dat-het-goed-komt/comment-page-1/#comment-626317)
-
-![Arend Zeevat](https://secure.gravatar.com/avatar/54f43225736f1bab22ea8f9a12c4d3a3?s=50&d=identicon&r=g)
-
-##### **Arend Zeevat** reacts on:
-
-##### Micha Kat vrij en vertelt over gevangenisstraf..
-
-[Micha was en is een fenomeen. Zonder hem te willen verheerli…](https://www.wanttoknow.nl/overige/pedofilie-misbruik/micha-kat-vrij-en-vertelt-over-gevangenisstraf/comment-page-1/#comment-626316)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
