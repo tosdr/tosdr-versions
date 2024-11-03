@@ -107,63 +107,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New comment
-
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1173087#comment-1173087)
-
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New comment
-
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1173086#comment-1173086)
-
-[![cryingforbread](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/cryingforbread "cryingforbread")
+[![Екатерина Гридчина](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1506869-1625830787.png)](https://lyricstranslate.com/en/translator/%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0-%D0%B3%D1%80%D0%B8%D0%B4%D1%87%D0%B8%D0%BD%D0%B0 "Екатерина Гридчина")
 
 New translation
 
-[SHOJOSKIP - arisu (Arisu)](https://lyricstranslate.com/en/shojoskip-arisu-transliteration)
+[Marko Škugor - Ti budi ti](https://lyricstranslate.com/en/marko-skugor-ti-budi-ti-russian)
 
-Japanese → Transliteration
+Croatian → Russian
 
-[![sandalia](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1607618-1707125848.jpg)](https://lyricstranslate.com/en/translator/sandalia "sandalia")
-
-New translation
-
-[Jean Ferrat - 17 ans](https://lyricstranslate.com/en/jean-ferrat-17-ans-italian)
-
-French → Italian
-
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+[![𝟕𝐭𝐡𝐖𝐚𝐫𝐝𝐋𝐨𝐫𝐝](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1528888-1730142440.png)](https://lyricstranslate.com/en/translator/%F0%9D%9F%95%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%96%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9D%F0%9D%90%8B%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%9D "𝟕𝐭𝐡𝐖𝐚𝐫𝐝𝐋𝐨𝐫𝐝")
 
 New song
 
-[Lil B - Choppin Paper Up](https://lyricstranslate.com/en/lil-b-choppin-paper-lyrics)
+[BONES - FoundFootage](https://lyricstranslate.com/en/bones-foundfootage-lyrics)
 
 English
 
-[![cryingforbread](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/cryingforbread "cryingforbread")
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+
+New translation
+
+[Peer Tasi - הלב שמח (HaLev Sameach)](https://lyricstranslate.com/en/peer-tasi-halev-sameach-arabic)
+
+Hebrew → Arabic
+
+[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1725792559.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
+
+New translation
+
+[BABYMONSTER - Woke Up In Tokyo](https://lyricstranslate.com/en/babymonster-woke-tokyo-english-0)
+
+English → English
+
+[![𝟕𝐭𝐡𝐖𝐚𝐫𝐝𝐋𝐨𝐫𝐝](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1528888-1730142440.png)](https://lyricstranslate.com/en/translator/%F0%9D%9F%95%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%96%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9D%F0%9D%90%8B%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%9D "𝟕𝐭𝐡𝐖𝐚𝐫𝐝𝐋𝐨𝐫𝐝")
 
 New song
 
-[SHOJOSKIP - arisu](https://lyricstranslate.com/en/shojoskip-arisu-lyrics)
+[BONES - TrespassersWillBeShot,SurvivorsWillBeShotAgain](https://lyricstranslate.com/en/bones-trespasserswillbeshotsur-lyrics)
 
-Japanese
+English
 
-[![Bru Rodrigues](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/bru-rodrigues "Bru Rodrigues")
+[![𝟕𝐭𝐡𝐖𝐚𝐫𝐝𝐋𝐨𝐫𝐝](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1528888-1730142440.png)](https://lyricstranslate.com/en/translator/%F0%9D%9F%95%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%96%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9D%F0%9D%90%8B%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%9D "𝟕𝐭𝐡𝐖𝐚𝐫𝐝𝐋𝐨𝐫𝐝")
 
-New idiom
+New song
 
-[X9 morre cedo](https://lyricstranslate.com/en/idiom/x9-morre-cedo)
+[BONES - PoorSport](https://lyricstranslate.com/en/bones-poorsport-lyrics)
 
-[![Bru Rodrigues](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/bru-rodrigues "Bru Rodrigues")
+English
 
-New explanation of idiom
+[![Ivan Luden](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1408270-1553443086.jpg)](https://lyricstranslate.com/en/translator/ivan-luden "Ivan Luden")
 
-[Ameaça ou aviso a alguém, para que não conte algum segredo...](https://lyricstranslate.com/en/amea%C3%A7a-ou-aviso-algu%C3%A9m-para-que-n%C3%A3o-conte-algum-segredo)
+New request
 
-Portuguese → Portuguese
+[Leonid Kaganov - Если б Путин... (Yesli b Putin...)](https://lyricstranslate.com/en/request/%D0%B5%D1%81%D0%BB%D0%B8-%D0%B1-%D0%BF%D1%83%D1%82%D0%B8%D0%BD-1)
+
+Russian → Serbian
+
+[![𝟕𝐭𝐡𝐖𝐚𝐫𝐝𝐋𝐨𝐫𝐝](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1528888-1730142440.png)](https://lyricstranslate.com/en/translator/%F0%9D%9F%95%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%96%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9D%F0%9D%90%8B%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%9D "𝟕𝐭𝐡𝐖𝐚𝐫𝐝𝐋𝐨𝐫𝐝")
+
+New song
+
+[BONES - FoDa94'](https://lyricstranslate.com/en/bones-foda94-lyrics)
+
+English
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
