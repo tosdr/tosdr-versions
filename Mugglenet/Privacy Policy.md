@@ -356,15 +356,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The name Voldemort comes from the French words meaning “fly from death,” and his entire goal is to conquer death.
+Forty versions of Salazar Slytherin’s infamous locket had to be created to accommodate Harry Potter and Ron Weasley’s failed attempts to destroy it during filming.
 
 ### Potter History
 
-December 11, 2007 – Harry Potter and the Order of the Phoenix is released on DVD in the United States, a whole month after fans in the United Kingdom got their hands on it.
+May 21-24, 2009 – The first LeakyCon is held in Boston, Massachusetts.
 
 ### Potter Quote
 
-“She stopped you killing me. And I’ve seen the real you, I saw you last year. You’re a wreck. You’re barely alive. That’s where all your power got you. You’re in hiding. You’re ugly, you’re foul —”
+“Hey! Mr. English guy! I think your egg is hatching!”
 
 [](#)
 
