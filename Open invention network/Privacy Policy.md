@@ -210,45 +210,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> _We continuously look for ways to integrate the best technologies in our payment solutions, which helps to deliver capabilities and services that our merchant and bank customers value and trust. We provide our customers safer and faster digital transaction services, and open source is a significant innovation driver in these offerings. We are pleased to join the Open Invention Network and support its role in protecting Open Source software._
+> The OpenWrt developers believe that openness and collaboration across domains is the groundwork which nurtures Linux development. The new partnership with Open Invention Network will be one of the building blocks pushing OpenWrt forward and advance Linux innovation in general.  
 
-Christophe DuquenneGroup Chief Technology & Operations Officer, Worldline
+Gregers PetersenRelationship Manager and DeveloperOpenWrt
 
-> As a global leader in open source, SUSE enables innovation from the largest data centers in the world to cloud environments, and our technology is embedded in every day devices like cars, points of sale and MRIs. Open source infrastructure is the power behind the cloud and digital transformation, and our customers rely on us for mission critical business outcomes and for innovation. As a leader in bringing open source solutions to enterprises, including enterprise Linux, we see firsthand why … [Read more](https://openinventionnetwork.com/testimonial/thomas-di-giacomo-suse/ "Complete testimonial by Thomas Di Giacomo")
+> Freedom to participate in open source projects and adopt Linux and other open source code has been enabled through broad based participation in the OIN cross-license, which has become a litmus test for authenticity in the open source community. Joining the OIN community demonstrates an explicit recognition among signatories of a commitment to open source technologies and the set of norms required around the appropriate use of patents in an increasingly open source-centric world. Companies that … [Read more](https://openinventionnetwork.com/testimonial/keith-bergelt-open-invention-network/ "Complete testimonial by Keith Bergelt")
 
-Thomas Di GiacomoPresident of Engineering & InnovationSUSE
+Keith BergeltCEOOpen Invention Network
 
-> Linux can be found in consumer and professional systems in use around the globe. We are committed to redesigning the lifestyles of people around the world, by providing them with excitement and peace of mind. One way we create sophisticated products is by using advanced open platforms, and we are committed to ensuring their ongoing development.  
+> Linux and open source are critical elements in today’s mobile, cloud and enterprise computing environments. By joining the Open Invention Network, we are helping ensure the ongoing development of open solutions that promote market growth in key lines of business.  
 
-Tetsuro FuseJVCKENWOODVice Operating Officer
-
-> Linux, and more broadly open source software, is a foundational technology in the desktop, mobile, networking, cloud and embedded computing environments. We are committed to open solutions that promote advances in all of the sectors that depend on advanced x86 and ARM platforms. Joining OIN is another way we are demonstrating our commitment to open innovation and collaboration.  
-
-Richard BrownVP MarketingVIA Technologies
-
-> The OIN membership supports Kontron on many levels. With our focus on building out our IoT framework, it makes perfect sense to be a part of an open source community that protects the rights of all members within the community, especially to reduce our patent risk around Linux related technology.  
-
-Jens WiegandCTO / EVP Software & ElectronicsKontron
-
-> Alibaba and Ant congratulate Open Invention Network on this impressive milestone. OIN has taken a leadership role and worked tirelessly to improve intellectual property protection for Linux system and open source software. Alibaba and Ant look forward to continued partnership with OIN and the international open source community to foster innovation and reduce IP risks.  
-
-Roger Shang - Alibaba Group Senior Legal Director // Benjamin Bai - Ant Group VP of Intellectual Property
+Guru PaiSenior Vice President & Chief Product OfficerVerizon
 
 > Huawei is committed to offering the highest-quality ICT and smart devices. Linux and OSS are critical elements of technologies we are developing and integrating with carriers and enterprises around the globe. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux and other core open source projects.  
 
 Jianxin DingHead of Global Intellectual PropertyHuawei
 
-> Global adoption of Linux and other open source technologies is an irreversible trend. For the last 15 years, they have transformed almost every industry. By sharing innovation, Linux and open source capabilities have soared, application interoperability is unprecedented, connectivity is virtually everywhere, while business and consumer productivity are at all-time highs. By blocking patent aggression in open source, OIN has enabled safer investments in product development and helped to enable th… [Read more](https://openinventionnetwork.com/testimonial/nec-and-necam/ "Complete testimonial by Hirotake Konda - GM, IP Management Division & Department Manager, NEC // Jackson Chen - Senior Associate General Counsel, NCAM")
+> Our stated mission is “Enabling Leading-Edge Technologies” and continuously improving ourselves so that we can offer products and services that satisfy our customers worldwide and contribute to the development of our society through the development of the most advanced technologies. In order to further promote this effort, we believe that the utilization of open source software will be essential. Open source platforms enable the rapid deployment of advanced computing and testing solutions. W… [Read more](https://openinventionnetwork.com/testimonial/advantest/ "Complete testimonial by Koichi Tsukui")
 
-Hirotake Konda - GM, IP Management Division & Department Manager, NEC // Jackson Chen - Senior Associate General Counsel, NCAM
+Koichi TsukuiChief Technology Officer, Advantest
 
-> Although TAIYO YUDEN does not directly incorporate open source software in our products, our customers do, and it is important for us to support open source initiatives that are critical to the continued success of our clients.  
+> _RBC recognizes open source as a significant enabler of innovation and it was important for us to join the Open Invention Network and support its role in protecting Linux system open source software from patent litigation risk._
 
-Shigetoshi AkinoGeneral Manager, Intellectual Property DivisionTAIYO YUDEN
+Lucille D’SouzaVP & Associate General Counsel, RBC Strategy & Operations
 
-> At the time of OIN’s founding, open source was nascent, and most software was built in silos. During the past 15 years, we have been pleased to watch the OIN community grow from 6 members to more than 3,300. The OIN community’s powerful cross license has enabled businesses to safely develop and sell innovative new systems and platforms that have revolutionized the way the world conducts business.  
+> _We are incredibly focused on pleasing our customers. One of the most effective ways to do that is to develop the systems and technologies that enable our customers to innovate. Building and leveraging open technologies enables businesses to more easily integrate their solutions — while empowering them to focus more of their resources in the powerful, distinguishing technologies that customers pursue. We are pleased to be part of the OIN community protecting open projects that encourage innovat… [Read more](https://openinventionnetwork.com/testimonial/tokyo-electron-device/ "Complete testimonial by Kazuki Shinoda")_
 
-Peter TotoSenior VP, IP CounselSony Corporation of America
+Kazuki ShinodaSVP, Tokyo Electron Device, Ltd.
+
+> Open source technology enables new levels of innovation and helps to underpin our ongoing growth, as we fuse physical and digital technologies in cyber-physical systems. By joining OIN, we are demonstrating our commitment to contribute to open source technology and supporting it with patent non-aggression in Linux.  
+
+Dr. Shiro SaitoExecutive Officer, Corporate EVP, General Executive for TechnologyToshiba
+
+> Yandex likes Linux. We use it, commit to it. We advocate the creation of a secure zone around the Linux kernel, free from patent wars. The same goals are pursued by the Open Invention Network, which unites thousands of companies around the world.  
+
+Yandex
+
+> We see incredible value in the Free and Open Source Software (FOSS) communities. Our work in collecting, preserving and making source code available to developers, academics and government entities, will enable developers to continue to innovate. We are very pleased for OIN’s sponsorship and its support in maintaining the technical and scientific knowledge that may be lost without preservation and may be further useful to developers from an intellectual property perspective.  
+
+Robert DiCosmoFounder & CEOSoftware Heritage
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
