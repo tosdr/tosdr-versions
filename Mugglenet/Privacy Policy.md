@@ -338,15 +338,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Originally, the Weasleys’ cousin who was a Squib was going to have a child who would be a first year during “Goblet of Fire”. The child, Mafalda, was cut and her role was given to Rita Skeeter.
+The Hogwarts school motto, Draco Dormiens Nunquam Titillandus, means “Never Tickle a Sleeping Dragon.”
 
 ### Potter History
 
-August 8, 2012 – The Harry Potter series is voted the best ever teen fiction book series in a poll on NPR.
+July 16, 2009 – Harry Potter and the Half-Blood Prince film breaks records to have the highest grossing first 24 hours of all time.
 
 ### Potter Quote
 
-“One day you’ll read Hogwarts, A History, and perhaps that will remind you that you can’t Apparate or Disapparate inside Hogwarts.
+“The disapproval of cowards is praise to the brave.”
 
 [](#)
 
