@@ -143,13 +143,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![The Dodgers' Shohei Ohtani embraces teammate Enrique Hernandez following Game 5 of the World Series at Yankee Stadium in New York on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431591.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Dodgers' Shohei Ohtani embraces teammate Enrique Hernandez following Game 5 of the World Series at Yankee Stadium in New York on Wednesday.")](https://www.japantimes.co.jp/sports/2024/11/01/baseball/shohei-ohtani-world-series-future/ "Shohei Ohtani in position to continue winning after first World Series title")
 
-[Warm weather causes record-breaking delay for autumn foliage in Japan](https://www.japantimes.co.jp/news/2024/10/31/japan/autumn-leaves-forecast-october/ "Warm weather causes record-breaking delay for autumn foliage in Japan")
+[Ishiba to meet with U.S. and Chinese leaders during multilateral summits](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
 
-  [![Japan Times](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431337.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51)](https://www.japantimes.co.jp/news/2024/10/31/japan/autumn-leaves-forecast-october/ "Warm weather causes record-breaking delay for autumn foliage in Japan")
+  [![Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431770.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ")](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
 
-[Hotel worker found dead in Chiba in suspected murder](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/chiba-hotel-worker-murder/ "Hotel worker found dead in Chiba in suspected murder")
+[At Japan’s hottest festival, crowds threaten to smother the flames](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
 
-  [![The Chiba Prefectural Police headquaters in the city of Chiba](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431632.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Chiba Prefectural Police headquaters in the city of Chiba")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/chiba-hotel-worker-murder/ "Hotel worker found dead in Chiba in suspected murder")
+  [![The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431318.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.")](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
 
 Editors' Picks
 --------------
@@ -178,17 +178,17 @@ By [Jason Coskrey](https://www.japantimes.co.jp/author/181/jason-coskrey/ "Jason
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Warm weather causes record-breaking delay for autumn foliage in Japan](https://www.japantimes.co.jp/news/2024/10/31/japan/autumn-leaves-forecast-october/ "Warm weather causes record-breaking delay for autumn foliage in Japan")
+[Ishiba to meet with U.S. and Chinese leaders during multilateral summits](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
 
-By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
+  [![Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431770.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ")](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
 
-  [![Japan Times](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/31/431337.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51)](https://www.japantimes.co.jp/news/2024/10/31/japan/autumn-leaves-forecast-october/ "Warm weather causes record-breaking delay for autumn foliage in Japan")
+[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[At Japan’s hottest festival, crowds threaten to smother the flames](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
 
-[Hotel worker found dead in Chiba in suspected murder](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/chiba-hotel-worker-murder/ "Hotel worker found dead in Chiba in suspected murder")
+By [Shawn B. Swinger](https://www.japantimes.co.jp/author/5552/shawn-b-swinger/ "Shawn B. Swinger")  
 
-  [![The Chiba Prefectural Police headquaters in the city of Chiba](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431632.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Chiba Prefectural Police headquaters in the city of Chiba")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/chiba-hotel-worker-murder/ "Hotel worker found dead in Chiba in suspected murder")
+  [![The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431318.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.")](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
 
 Podcast
 -------
@@ -251,21 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Badenoch beats Jenrick to succeed Sunak at helm of U.K. Tories](https://www.japantimes.co.jp/news/2024/11/02/world/politics/kemi-badenoch-uk-conservative-party/ "Badenoch beats Jenrick to succeed Sunak at helm of U.K. Tories")
+[How global lessons can improve prospects for women in rural Japan](https://www.japantimes.co.jp/business/2024/11/03/women-work-asako-osaki/ "How global lessons can improve prospects for women in rural Japan")
 
-10 hours ago
+6 mins ago
 
-[Nuclear fuel debris extracted from Fukushima No. 1 reactor](https://www.japantimes.co.jp/news/2024/11/02/japan/tepco-nuclear-fuel-debris/ "Nuclear fuel debris extracted from Fukushima No. 1 reactor")
+[Biden left the presidential race, but his legacy depends on it](https://www.japantimes.co.jp/news/2024/11/03/world/politics/joe-biden-legacy-election/ "Biden left the presidential race, but his legacy depends on it")
 
-11 hours ago
+2 hours ago
 
-[Tokyo government looks to ensure everyone has a bed at evacuation centers](https://www.japantimes.co.jp/news/2024/11/02/japan/tokyo-subsidies-disaster-center-beds/ "Tokyo government looks to ensure everyone has a bed at evacuation centers")
+[Iran’s supreme leader threatens Israel with ‘crushing response’ to strikes](https://www.japantimes.co.jp/news/2024/11/03/world/iran-leader-threatens-israel/ "Iran’s supreme leader threatens Israel with ‘crushing response’ to strikes")
 
-11 hours ago
+3 hours ago
 
-[IMF Asia-Pacific chief urges Japan to start debt cuts](https://www.japantimes.co.jp/business/2024/11/02/economy/imf-asia-chief-japan-debt-cuts/ "IMF Asia-Pacific chief urges Japan to start debt cuts")
+[North Korean white paper says South’s president has raised risk of nuclear war](https://www.japantimes.co.jp/news/2024/11/03/asia-pacific/politics/north-korea-white-paper/ "North Korean white paper says South’s president has raised risk of nuclear war")
 
-[Western and central Japan drenched by record rainfall for November](https://www.japantimes.co.jp/news/2024/11/02/japan/west-japan-rain-november/ "Western and central Japan drenched by record rainfall for November")
+3 hours ago
+
+[Amid flood cleanup in Spain, residents try to make sense of the disaster](https://www.japantimes.co.jp/news/2024/11/03/world/spain-flooding-clean-up/ "Amid flood cleanup in Spain, residents try to make sense of the disaster")
+
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
