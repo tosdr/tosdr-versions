@@ -1,6 +1,6 @@
 [Grey Arrows Drone Club UK](https://greyarro.ws/)
 
-* [About](https://greyarro.ws/about)
+* [About our Club](https://greyarro.ws/about)
 * [FAQ](https://greyarro.ws/faq)
 * [Terms of Service](https://greyarro.ws/tos)
 * [Privacy Policy](https://greyarro.ws/privacy)
