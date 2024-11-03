@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs IND - NZ Won](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-tour-of-india-2024 "New Zealand v India, 3rd Test - NZ Won")[ADSW vs MLRW - MLRW Won](https://www.cricbuzz.com/live-cricket-scores/101318/adsw-vs-mlrw-13th-match-womens-big-bash-league-2024 "Adelaide Strikers Women v Melbourne Renegades Women, 13th Match - MLRW Won")[UAE vs NED - Live](https://www.cricbuzz.com/live-cricket-scores/108928/uae-vs-ned-43rd-match-icc-cricket-world-cup-league-two-2023-27 "United Arab Emirates v Netherlands, 43rd Match - Live")[WI vs ENG - ENG Won](https://www.cricbuzz.com/live-cricket-scores/95151/wi-vs-eng-2nd-odi-england-tour-of-west-indies-2024 "West Indies v England, 2nd ODI - ENG Won")[USA vs NEP - USA Won](https://www.cricbuzz.com/live-cricket-scores/107044/usa-vs-nep-42nd-match-icc-cricket-world-cup-league-two-2023-27 "United States of America v Nepal, 42nd Match - USA Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs IND - NZ Won](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-tour-of-india-2024 "New Zealand v India, 3rd Test - NZ Won")[AUS vs PAK - Preview](https://www.cricbuzz.com/live-cricket-scores/92012/aus-vs-pak-1st-odi-pakistan-tour-of-australia-2024 "Australia v Pakistan, 1st ODI - Preview")[ADSW vs MLRW - MLRW Won](https://www.cricbuzz.com/live-cricket-scores/101318/adsw-vs-mlrw-13th-match-womens-big-bash-league-2024 "Adelaide Strikers Women v Melbourne Renegades Women, 13th Match - MLRW Won")[WI vs ENG - ENG Won](https://www.cricbuzz.com/live-cricket-scores/95151/wi-vs-eng-2nd-odi-england-tour-of-west-indies-2024 "West Indies v England, 2nd ODI - ENG Won")[UAE vs NED - UAE Won](https://www.cricbuzz.com/live-cricket-scores/108928/uae-vs-ned-43rd-match-icc-cricket-world-cup-league-two-2023-27 "United Arab Emirates v Netherlands, 43rd Match - UAE Won")
 
 AllLive NowToday
 
@@ -80,19 +80,15 @@ AllLive NowToday
     
 * ICC CWC League Two 2023-27
     
-    [United Arab Emirates vs Oman](https://www.cricbuzz.com/live-cricket-scores/108921/uae-vs-oman-41st-match-icc-cwc-league-two-2023-27 "United Arab Emirates v Oman, 41st Match - OMAN Won")
-    
-    41st Match
-    
-* [United States of America vs Nepal](https://www.cricbuzz.com/live-cricket-scores/107044/usa-vs-nep-42nd-match-icc-cwc-league-two-2023-27 "United States of America v Nepal, 42nd Match - USA Won")
+    [United States of America vs Nepal](https://www.cricbuzz.com/live-cricket-scores/107044/usa-vs-nep-42nd-match-icc-cwc-league-two-2023-27 "United States of America v Nepal, 42nd Match - USA Won")
     
     42nd Match
     
-* [United Arab Emirates vs Netherlands  LIVE](https://www.cricbuzz.com/live-cricket-scores/108928/uae-vs-ned-43rd-match-icc-cwc-league-two-2023-27 "United Arab Emirates v Netherlands, 43rd Match - Live")
+* [United Arab Emirates vs Netherlands](https://www.cricbuzz.com/live-cricket-scores/108928/uae-vs-ned-43rd-match-icc-cwc-league-two-2023-27 "United Arab Emirates v Netherlands, 43rd Match - UAE Won")
     
     43rd Match
     
-* [Nepal vs Scotland](https://www.cricbuzz.com/live-cricket-scores/107052/nep-vs-sco-44th-match-icc-cwc-league-two-2023-27 "Nepal v Scotland, 44th Match - Upcoming")
+* [Nepal vs Scotland](https://www.cricbuzz.com/live-cricket-scores/107052/nep-vs-sco-44th-match-icc-cwc-league-two-2023-27 "Nepal v Scotland, 44th Match - Preview")
     
     44th Match
     
@@ -108,11 +104,11 @@ AllLive NowToday
     
     1st Match
     
-* [Warriors vs North West](https://www.cricbuzz.com/live-cricket-scores/104740/war-vs-nwest-3rd-match-csa-four-day-series-division-one-2024-25 "Warriors v North West, 3rd Match - Stumps")
+* [Warriors vs North West](https://www.cricbuzz.com/live-cricket-scores/104740/war-vs-nwest-3rd-match-csa-four-day-series-division-one-2024-25 "Warriors v North West, 3rd Match - Match drawn")
     
     3rd Match
     
-* [Knights vs Boland](https://www.cricbuzz.com/live-cricket-scores/104738/kng-vs-bol-2nd-match-csa-four-day-series-division-one-2024-25 "Knights v Boland, 2nd Match - Stumps")
+* [Knights vs Boland](https://www.cricbuzz.com/live-cricket-scores/104738/kng-vs-bol-2nd-match-csa-four-day-series-division-one-2024-25 "Knights v Boland, 2nd Match - KNG Won")
     
     2nd Match
     
@@ -156,11 +152,11 @@ AllLive NowToday
     
 * CSA Four-Day Series Division Two 2024-25
     
-    [Limpopo vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/104322/limpo-vs-estorm-2nd-match-csa-four-day-series-division-two-2024-25 "Limpopo v Eastern Storm, 2nd Match - Stumps")
+    [Limpopo vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/104322/limpo-vs-estorm-2nd-match-csa-four-day-series-division-two-2024-25 "Limpopo v Eastern Storm, 2nd Match - LIMPO Won")
     
     2nd Match
     
-* [South Western Districts vs Border](https://www.cricbuzz.com/live-cricket-scores/104314/swd-vs-bor-1st-match-csa-four-day-series-division-two-2024-25 "South Western Districts v Border, 1st Match - Stumps")
+* [South Western Districts vs Border](https://www.cricbuzz.com/live-cricket-scores/104314/swd-vs-bor-1st-match-csa-four-day-series-division-two-2024-25 "South Western Districts v Border, 1st Match - SWD Won")
     
     1st Match
     
@@ -509,37 +505,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Many questions in India's way following stunning drop-off](https://www.cricbuzz.com/cricket-news/132323/many-questions-in-indias-way-following-stunning-drop-off "Many questions in India's way following stunning drop-off ")
 
-32m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132322/lost-for-words-in-terms-of-whats-happened-over-the-last-three-weeks "'Lost for words in terms of what's happened over the last three weeks'")
 
 ['Lost for words in terms of what's happened over the last three weeks'](https://www.cricbuzz.com/cricket-news/132322/lost-for-words-in-terms-of-whats-happened-over-the-last-three-weeks "'Lost for words in terms of what's happened over the last three weeks'")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/132321/wtc-scenarios-india-need-big-result-in-australia-after-home-stumble "WTC Scenarios: India need big result in Australia after home stumble")
 
 [WTC Scenarios: India need big result in Australia after home stumble](https://www.cricbuzz.com/cricket-news/132321/wtc-scenarios-india-need-big-result-in-australia-after-home-stumble "WTC Scenarios: India need big result in Australia after home stumble")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/132320/rohit-expresses-frustration-over-pants-controversy-inducing-dismissal "Don't know how that Pant decision was overturned: Rohit Sharma")
 
 [Don't know how that Pant decision was overturned: Rohit Sharma](https://www.cricbuzz.com/cricket-news/132320/rohit-expresses-frustration-over-pants-controversy-inducing-dismissal "Don't know how that Pant decision was overturned: Rohit Sharma")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132319/stats-lowest-total-defended-against-india-in-india "Stats: India plummet to new nadir at home")
 
 [Stats: India plummet to new nadir at home](https://www.cricbuzz.com/cricket-news/132319/stats-lowest-total-defended-against-india-in-india "Stats: India plummet to new nadir at home")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132318/ajaz-stars-again-at-wankhede-as-new-zealand-seal-historic-whitewash "Ajaz stars again at Wankhede as New Zealand seal historic whitewash")
 
 [Ajaz stars again at Wankhede as New Zealand seal historic whitewash](https://www.cricbuzz.com/cricket-news/132318/ajaz-stars-again-at-wankhede-as-new-zealand-seal-historic-whitewash "Ajaz stars again at Wankhede as New Zealand seal historic whitewash")
 
-5h ago
+11h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
