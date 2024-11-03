@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![26 Facts About Time Savings ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/26-facts-about-time-savings/)
+[![23 Facts About The Calder Memorial Trophy ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/23-facts-about-the-calder-memorial-trophy/)
 
-General
+Sports
 
-02 Nov 2024
+03 Nov 2024
 
-[26 Facts About Time Savings](https://facts.net/general/26-facts-about-time-savings/)
+[23 Facts About The Calder Memorial Trophy](https://facts.net/lifestyle/sports/23-facts-about-the-calder-memorial-trophy/)
 
-[![30 Facts About The Roman Empire ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/30-facts-about-the-roman-empire/)
+[![50 Facts About Coffee Around The World ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2283%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/food/50-facts-about-coffee-around-the-world/)
 
-History
+Food
 
-02 Nov 2024
+03 Nov 2024
 
-[30 Facts About The Roman Empire](https://facts.net/history/30-facts-about-the-roman-empire/)
+[50 Facts About Coffee Around The World](https://facts.net/lifestyle/food/50-facts-about-coffee-around-the-world/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
