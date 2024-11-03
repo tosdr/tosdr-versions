@@ -6,7 +6,7 @@ Discover the universities with top developer talent. Based on 860,000 student te
 
 [](# "Previous Notification")[](# "Next Notification")
 
-[![HackerRank Logo](https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png)](https://www.hackerrank.com/ "Hackerrank")
+[![HackerRank Logo](https://sandbox.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png)](https://sandbox.hackerrank.com/ "Hackerrank")
 
 [Back](#)
 
@@ -22,11 +22,11 @@ Discover the universities with top developer talent. Based on 860,000 student te
             
             Conduct stellar technical interviews.
             
-        * [Engage](https://www.hackerrank.com/products/engage/)
+        * [Engage](https://sandbox.hackerrank.com/products/engage/)
             
             Promote your tech brand.
             
-        * [SkillUp](https://www.hackerrank.com/products/skillup/)
+        * [SkillUp](https://sandbox.hackerrank.com/products/skillup/)
             
             Mobilize your tech talent.
             
@@ -41,11 +41,11 @@ Discover the universities with top developer talent. Based on 860,000 student te
             
             Ensure fairness with AI-powered plagiarism detection.
             
-        * [Real World Questions](https://www.hackerrank.com/features/real-world-questions/)
+        * [Real World Questions](https://sandbox.hackerrank.com/features/real-world-questions/)
             
             Assess technical hires with real-world coding questions.
             
-        * [Integrations](https://www.hackerrank.com/integrations/)
+        * [Integrations](https://sandbox.hackerrank.com/integrations/)
             
             Seamlessly connect with your favorite tools.
             
@@ -55,10 +55,10 @@ Discover the universities with top developer talent. Based on 860,000 student te
     
     * What We Do
         
-        * [Set Up Your Skills Strategy](https://www.hackerrank.com/solutions/skills-strategy/)
-        * [Showcase Your Tech Brand](https://www.hackerrank.com/solutions/talent-brand/)
-        * [Optimize Your Hiring Process](https://www.hackerrank.com/solutions/optimize-hiring/)
-        * [Mobilize Your Internal Talent](https://www.hackerrank.com/solutions/internal-mobility/)
+        * [Set Up Your Skills Strategy](https://sandbox.hackerrank.com/solutions/skills-strategy/)
+        * [Showcase Your Tech Brand](https://sandbox.hackerrank.com/solutions/talent-brand/)
+        * [Optimize Your Hiring Process](https://sandbox.hackerrank.com/solutions/optimize-hiring/)
+        * [Mobilize Your Internal Talent](https://sandbox.hackerrank.com/solutions/internal-mobility/)
         
     * Use Cases
         
@@ -82,7 +82,7 @@ Discover the universities with top developer talent. Based on 860,000 student te
             
             Guides, datasheets, and data-driven content.
             
-        * [Customer Stories](https://www.hackerrank.com/customers/)
+        * [Customer Stories](https://sandbox.hackerrank.com/customers/)
             
             How leading companies use HackerRank.
             
@@ -97,7 +97,7 @@ Discover the universities with top developer talent. Based on 860,000 student te
             
             Discover what's new with HackerRank.
             
-        * [Responsible AI](https://www.hackerrank.com/about-us/responsible-ai/)
+        * [Responsible AI](https://sandbox.hackerrank.com/about-us/responsible-ai/)
             
             Learn more about how we work with AI.
             
@@ -132,7 +132,7 @@ Discover the universities with top developer talent. Based on 860,000 student te
 * [Sub-processor List](https://www.hackerrank.com/about-us/sub-processor-list)
 * [Data Processing Addendum](https://www.hackerrank.com/about-us/data-processing-addendum)
 * [Technical and Organizational Measures](https://www.hackerrank.com/about-us/technical-organizational-measures)
-* [Professional Services Addendum](https://www.hackerrank.com/about-us/professional-services-addendum/)
+* [Professional Services Addendum](https://sandbox.hackerrank.com/about-us/professional-services-addendum/)
 * [AI Feature Terms](https://www.hackerrank.com/about-us/ai-feature-terms/)
 
 HackerRank Privacy Policy
@@ -358,29 +358,29 @@ We may make changes to this Privacy Policy at any time. The “Last Updated” d
 * [Products](https://www.hackerrank.com/products)
     * [Screen](https://www.hackerrank.com/products/screen/)
     * [Interview](https://www.hackerrank.com/products/interview/)
-    * [Engage](https://www.hackerrank.com/products/engage/)
-    * [SkillUp](https://www.hackerrank.com/products/skillup/)
+    * [Engage](https://sandbox.hackerrank.com/products/engage/)
+    * [SkillUp](https://sandbox.hackerrank.com/products/skillup/)
     * [Certified Assessments](https://www.hackerrank.com/features/certified-assessments/)
     * [Plagiarism Detection](https://www.hackerrank.com/features/plagiarism-detection/)
-    * [Real World Questions](https://www.hackerrank.com/features/real-world-questions/)
+    * [Real World Questions](https://sandbox.hackerrank.com/features/real-world-questions/)
 * [Solutions](https://www.hackerrank.com/products/developer-skills-platform/)
-    * [Set Up a Skills Strategy](https://www.hackerrank.com/solutions/skills-strategy/)
-    * [Showcase Your Talent Brand](https://www.hackerrank.com/solutions/talent-brand/)
-    * [Optimize Your Hiring Process](https://www.hackerrank.com/solutions/optimize-hiring/)
-    * [Mobilize Your Internal Talent](https://www.hackerrank.com/solutions/internal-mobility/)
-* [Resources](https://www.hackerrank.com/resources/)
+    * [Set Up a Skills Strategy](https://sandbox.hackerrank.com/solutions/skills-strategy/)
+    * [Showcase Your Talent Brand](https://sandbox.hackerrank.com/solutions/talent-brand/)
+    * [Optimize Your Hiring Process](https://sandbox.hackerrank.com/solutions/optimize-hiring/)
+    * [Mobilize Your Internal Talent](https://sandbox.hackerrank.com/solutions/internal-mobility/)
+* [Resources](https://sandbox.hackerrank.com/resources/)
     * [Blog](https://www.hackerrank.com/blog/)
     * [Customer Stories](https://www.hackerrank.com/customers/)
     * [Roles Directory](https://www.hackerrank.com/roles-directory)
-    * [Partners](https://www.hackerrank.com/partners/)
+    * [Partners](https://sandbox.hackerrank.com/partners/)
     * [Integrations](https://www.hackerrank.com/integrations/)
     * [What’s New](https://www.hackerrank.com/whats-new/)
-* [About Us](https://www.hackerrank.com/about-us/)
-    * [Careers](https://www.hackerrank.com/careers/)
+* [About Us](https://sandbox.hackerrank.com/about-us/)
+    * [Careers](https://sandbox.hackerrank.com/careers/)
     * [Our Team](https://www.hackerrank.com/about-us/our-team/)
-    * [Newsroom](https://www.hackerrank.com/about-us/newsroom/)
+    * [Newsroom](https://sandbox.hackerrank.com/about-us/newsroom/)
     * [Status](https://status.hackerrank.com/)
-    * [Trust](https://www.hackerrank.com/trust/)
+    * [Trust](https://sandbox.hackerrank.com/trust/)
     * [Social Links](#)
         * [HackerRank](https://www.hackerrank.com/)
         * [Facebook](https://www.facebook.com/hackerrank/)
