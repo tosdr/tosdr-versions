@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can copd be caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-copd-be-caused-by-asbestos.jpg "Can COPD Be Caused By Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/can-copd-be-caused-by-asbestos/ "Can COPD Be Caused By Asbestos?")
+[![What does back pain feel like with lung cancer?](https://www.pintas.com/wp-content/uploads/2020/09/chicago-personal-injury-lawyer-what-does-back-pain-feel-like-with-lung-cancer.jpg "What Does Back Pain Feel Like With Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/back-pain-with-lung-cancer "What Does Back Pain Feel Like With Lung Cancer?")
 
-[#### Can COPD Be Caused By Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/can-copd-be-caused-by-asbestos/)
+[#### What Does Back Pain Feel Like With Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/back-pain-with-lung-cancer)
 
-[![What is a healthy alternative to baby powder?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-is-a-healthy-alternative-to-baby-powder.jpg "What Is a Healthy Alternative to Baby Powder?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/baby-powder-alternatives "What Is a Healthy Alternative to Baby Powder?")
+[![Can you sue for mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesotheliomacan-you-sue-for-mesothelioma-scaled.jpg "Can You Sue for Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-sue-for-mesothelioma/ "Can You Sue for Mesothelioma?")
 
-[#### What Is a Healthy Alternative to Baby Powder?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/baby-powder-alternatives)
+[#### Can You Sue for Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-sue-for-mesothelioma/)
 
-[![Can i file a sex abuse claim against the mormon church anonymously?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-2-300x201.jpg "Can I File a Sex Abuse Claim Against the Mormon Church Anonymously?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/can-i-file-a-sexual-abuse-claim-against-the-mormon-church-anonymously/ "Can I File a Sex Abuse Claim Against the Mormon Church Anonymously?")
+[![How do you get malignant mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/mesothelioma-lawyer-how-do-you-get-malignant-mesothelioma-scaled.jpg "How Do You Get Malignant Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-malignant-mesothelioma/ "How Do You Get Malignant Mesothelioma?")
 
-[#### Can I File a Sex Abuse Claim Against the Mormon Church Anonymously?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/can-i-file-a-sexual-abuse-claim-against-the-mormon-church-anonymously/)
+[#### How Do You Get Malignant Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-malignant-mesothelioma/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
