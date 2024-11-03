@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What does back pain feel like with lung cancer?](https://www.pintas.com/wp-content/uploads/2020/09/chicago-personal-injury-lawyer-what-does-back-pain-feel-like-with-lung-cancer.jpg "What Does Back Pain Feel Like With Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/back-pain-with-lung-cancer "What Does Back Pain Feel Like With Lung Cancer?")
+[![What type of ovarian cancer is caused by talc?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyerwhat-type-of-ovarian-cancer-is-caused-by-talc-scaled.jpg "What Type of Ovarian Cancer Is Caused By Talc?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/what-type-of-ovarian-cancer-is-caused-by-talc/ "What Type of Ovarian Cancer Is Caused By Talc?")
 
-[#### What Does Back Pain Feel Like With Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/back-pain-with-lung-cancer)
+[#### What Type of Ovarian Cancer Is Caused By Talc?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/what-type-of-ovarian-cancer-is-caused-by-talc/)
 
-[![Can you sue for mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesotheliomacan-you-sue-for-mesothelioma-scaled.jpg "Can You Sue for Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-sue-for-mesothelioma/ "Can You Sue for Mesothelioma?")
+[![How do you know if you have been exposed to asbestos?](https://www.pintas.com/wp-content/uploads/2020/11/lung-cancer-lawyer-how-do-you-know-if-you-have-been-exposed-to-asbestos.jpg "How Do You Know if You Have Been Exposed to Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-know-if-you-have-been-exposed-to-asbestos/ "How Do You Know if You Have Been Exposed to Asbestos?")
 
-[#### Can You Sue for Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-sue-for-mesothelioma/)
+[#### How Do You Know if You Have Been Exposed to Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-know-if-you-have-been-exposed-to-asbestos/)
 
-[![How do you get malignant mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/mesothelioma-lawyer-how-do-you-get-malignant-mesothelioma-scaled.jpg "How Do You Get Malignant Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-malignant-mesothelioma/ "How Do You Get Malignant Mesothelioma?")
+[![What are the signs of end stage lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-are-the-signs-of-end-stage-lung-cancer.jpg "What Are the Signs of End Stage Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/signs-of-end-stage-lung-cancer "What Are the Signs of End Stage Lung Cancer?")
 
-[#### How Do You Get Malignant Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-malignant-mesothelioma/)
+[#### What Are the Signs of End Stage Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/signs-of-end-stage-lung-cancer)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
