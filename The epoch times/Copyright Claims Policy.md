@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Day in Photos: Commemorations, Flood Devastation, and a New Leader](https://www.theepochtimes.com/article/day-in-photos-commemorations-flood-devastation-and-a-new-leader-5752872)
+* [Harris Makes Surprise Appearance on ‘SNL,’ Drawing Alarm from FCC Commissioner](https://www.theepochtimes.com/us/harris-makes-surprise-appearance-on-snl-drawing-alarm-from-fcc-commissioner-5753168)
     
-    4hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Day in Photos: Commemorations, Flood Devastation, and a New Leader](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Harris Makes Surprise Appearance on ‘SNL,’ Drawing Alarm from FCC Commissioner](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Day in Photos: Commemorations, Flood Devastation, and a New Leader](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752974-APTOPIX_Spain_Floods_24307369522033-OP_2-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-commemorations-flood-devastation-and-a-new-leader-5752872)
-* [In Photos: Highlights of the 2024 Election Season](https://www.theepochtimes.com/article/in-photos-highlights-of-the-2024-election-season-5752855)
+    ![Harris Makes Surprise Appearance on ‘SNL,’ Drawing Alarm from FCC Commissioner](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753137-Harris-Saturday-Night-Live-AP24308146998137-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-makes-surprise-appearance-on-snl-drawing-alarm-from-fcc-commissioner-5753168)
+* [Trump and Harris Transgender Policies Are Miles Apart](https://www.theepochtimes.com/us/trump-and-harris-transgender-policies-are-miles-apart-5748889)
     
-    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    NEW By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle) and [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
     
-    [![In Photos: Highlights of the 2024 Election Season](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump and Harris Transgender Policies Are Miles Apart](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![In Photos: Highlights of the 2024 Election Season](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752988-Trump-Harris-8-2-SB-SB-lead3-4-205x123.jpg.webp)](https://www.theepochtimes.com/article/in-photos-highlights-of-the-2024-election-season-5752855)
-* [Georgia Judge Dismisses GOP Effort to Halt Weekend Absentee Ballot Drop-Offs](https://www.theepochtimes.com/us/georgia-judge-dismisses-gop-effort-to-halt-weekend-absentee-ballot-drop-offs-5752936)
+    ![Trump and Harris Transgender Policies Are Miles Apart](https://img.theepochtimes.com/assets/uploads/2024/03/15/id5608051-Riley-Gaines-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-and-harris-transgender-policies-are-miles-apart-5748889)
+* [Harris in Michigan as Trump Hits 3 Swing States on Final Sunday Before Election](https://www.theepochtimes.com/us/harris-in-michigan-as-trump-hits-3-swing-states-on-final-sunday-on-campaign-trail-5753176)
     
-    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Georgia Judge Dismisses GOP Effort to Halt Weekend Absentee Ballot Drop-Offs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Harris in Michigan as Trump Hits 3 Swing States on Final Sunday Before Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Georgia Judge Dismisses GOP Effort to Halt Weekend Absentee Ballot Drop-Offs](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752938-Election_2024_Absentee_Ballots_Georgia_24307721220522-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-judge-dismisses-gop-effort-to-halt-weekend-absentee-ballot-drop-offs-5752936)
-* [FBI Says It Has Been Impersonated in 2 Fake Election Security Videos](https://www.theepochtimes.com/us/fbi-says-it-has-been-impersonated-in-2-fake-election-security-videos-5752937)
+    ![Harris in Michigan as Trump Hits 3 Swing States on Final Sunday Before Election](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752792-Kamala-Harris-Donald-CampaignTrump-1-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-in-michigan-as-trump-hits-3-swing-states-on-final-sunday-on-campaign-trail-5753176)
+* [Russia Keeps the West Guessing as It Mulls Nuclear Strategy Shift](https://www.theepochtimes.com/world/russia-keeps-the-west-guessing-as-it-mulls-nuclear-strategy-shift-5750421)
     
-    9hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    2hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
     
-    [![FBI Says It Has Been Impersonated in 2 Fake Election Security Videos](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Russia Keeps the West Guessing as It Mulls Nuclear Strategy Shift](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![FBI Says It Has Been Impersonated in 2 Fake Election Security Videos](https://img.theepochtimes.com/assets/uploads/2024/08/13/id5704881-08122024-DSC00079-FBI-205x123.jpg.webp)](https://www.theepochtimes.com/us/fbi-says-it-has-been-impersonated-in-2-fake-election-security-videos-5752937)
-* [Washington Housing Commission Sued Over Alleged Racial Discrimination](https://www.theepochtimes.com/us/washington-housing-commission-sued-over-alleged-racial-discrimination-5752419)
+    ![Russia Keeps the West Guessing as It Mulls Nuclear Strategy Shift](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750464-AP24303563368078-205x123.jpg.webp)](https://www.theepochtimes.com/world/russia-keeps-the-west-guessing-as-it-mulls-nuclear-strategy-shift-5750421)
+* [US Holds Trilateral Drill With South Korea, Japan After North Korea Launches Missile Test](https://www.theepochtimes.com/us/us-holds-trilateral-drill-with-south-korea-japan-after-north-korea-launches-missile-test-5753116)
     
-    11hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    3hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
     
-    [![Washington Housing Commission Sued Over Alleged Racial Discrimination](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Holds Trilateral Drill With South Korea, Japan After North Korea Launches Missile Test](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Washington Housing Commission Sued Over Alleged Racial Discrimination](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730106-House-sale_1KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/washington-housing-commission-sued-over-alleged-racial-discrimination-5752419)
-* [TGI Fridays Files for Bankruptcy Amid Financial Struggles](https://www.theepochtimes.com/business/tgi-fridays-files-for-bankruptcy-amid-financial-struggles-5752800)
+    ![US Holds Trilateral Drill With South Korea, Japan After North Korea Launches Missile Test](https://img.theepochtimes.com/assets/uploads/2023/02/19/US-fighters-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-holds-trilateral-drill-with-south-korea-japan-after-north-korea-launches-missile-test-5753116)
+* [2024-25 College Basketball Preview: 10 Storylines to Follow](https://www.theepochtimes.com/sports/2024-25-college-basketball-preview-10-storylines-to-follow-5753081)
     
-    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    3hr By [Ross Kelly](https://www.theepochtimes.com/author/ross-kelly)
     
-    [![TGI Fridays Files for Bankruptcy Amid Financial Struggles](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![2024-25 College Basketball Preview: 10 Storylines to Follow](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![TGI Fridays Files for Bankruptcy Amid Financial Struggles](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752836-TGIF-205x123.jpg.webp)](https://www.theepochtimes.com/business/tgi-fridays-files-for-bankruptcy-amid-financial-struggles-5752800)
-* [Georgia Logs More Than 4 Million Votes as Early Voting Period Ends](https://www.theepochtimes.com/us/georgia-logs-more-than-4-million-votes-as-early-voting-period-ends-5752727)
+    ![2024-25 College Basketball Preview: 10 Storylines to Follow](https://img.theepochtimes.com/assets/uploads/2024/06/07/id5664318-Dan-Hurley-205x123.jpg.webp)](https://www.theepochtimes.com/sports/2024-25-college-basketball-preview-10-storylines-to-follow-5753081)
+* [California Takes Controversial Approach to Fentanyl Crisis](https://www.theepochtimes.com/article/california-takes-controversial-approach-to-fentanyl-crisis-5735361)
     
-    13hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    4hr By [Beige Luciano-Adams](https://www.theepochtimes.com/author/beige-luciano-adams)
     
-    [![Georgia Logs More Than 4 Million Votes as Early Voting Period Ends](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![California Takes Controversial Approach to Fentanyl Crisis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Georgia Logs More Than 4 Million Votes as Early Voting Period Ends](https://img.theepochtimes.com/assets/uploads/2024/11/01/id5752499-early-voting-Georgia-GettyImages-2181595370KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-logs-more-than-4-million-votes-as-early-voting-period-ends-5752727)
-* [Washington Governor Activates National Guard to Counter Potential Election Violence](https://www.theepochtimes.com/us/washington-governor-activates-national-guard-to-counter-potential-election-violence-5752754)
+    ![California Takes Controversial Approach to Fentanyl Crisis](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752839-outside2-205x123.jpg.webp)](https://www.theepochtimes.com/article/california-takes-controversial-approach-to-fentanyl-crisis-5735361)
+* [Florida Voters to Decide on Abortion Amendment to Constitution](https://www.theepochtimes.com/us/florida-voters-to-decide-on-abortion-amendment-to-constitution-5749756)
     
-    13hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    5hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
     
-    [![Washington Governor Activates National Guard to Counter Potential Election Violence](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Florida Voters to Decide on Abortion Amendment to Constitution](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Washington Governor Activates National Guard to Counter Potential Election Violence](https://img.theepochtimes.com/assets/uploads/2024/06/19/id5671590-GettyImages-1211829923-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/washington-governor-activates-national-guard-to-counter-potential-election-violence-5752754)
-* [Nvidia to Replace Intel in Dow Jones Index](https://www.theepochtimes.com/business/nvidia-to-replace-intel-in-dow-jones-index-5752761)
+    ![Florida Voters to Decide on Abortion Amendment to Constitution](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752990-GettyImages-2180020199-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/florida-voters-to-decide-on-abortion-amendment-to-constitution-5749756)
+* [Ménière’s Disease: An Inner Ear Disorder Causing Tinnitus and Vertigo, 5 Alternative Remedies](https://www.theepochtimes.com/health/menieres-disease-symptoms-causes-treatments-and-natural-approaches-5747369)
     
-    14hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    5hr By [Mercura Wang](https://www.theepochtimes.com/author/mercura-wang)
     
-    [![Nvidia to Replace Intel in Dow Jones Index](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Ménière’s Disease: An Inner Ear Disorder Causing Tinnitus and Vertigo, 5 Alternative Remedies](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Nvidia to Replace Intel in Dow Jones Index](https://img.theepochtimes.com/assets/uploads/2024/08/18/id5707672-Nvidia-logo-e1723974133794.-LS_1-205x123.jpg.webp)](https://www.theepochtimes.com/business/nvidia-to-replace-intel-in-dow-jones-index-5752761)
-* [Pentagon Announces $425 Million Additional Military Aid to Ukraine](https://www.theepochtimes.com/world/pentagon-announces-425-million-additional-military-aid-to-ukraine-5752714)
+    ![Ménière’s Disease: An Inner Ear Disorder Causing Tinnitus and Vertigo, 5 Alternative Remedies](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751467-Menieres_Disease-205x123.jpg.webp)](https://www.theepochtimes.com/health/menieres-disease-symptoms-causes-treatments-and-natural-approaches-5747369)
+* [Texas Senate Race Closer Than Expected](https://www.theepochtimes.com/us/texas-senate-race-closer-than-expected-5750675)
     
-    14hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    6hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
     
-    [![Pentagon Announces $425 Million Additional Military Aid to Ukraine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Texas Senate Race Closer Than Expected](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Pentagon Announces $425 Million Additional Military Aid to Ukraine](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752910-Russia_Ukraine_War_24306326990458-SB-205x123.jpg.webp)](https://www.theepochtimes.com/world/pentagon-announces-425-million-additional-military-aid-to-ukraine-5752714)
+    ![Texas Senate Race Closer Than Expected](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742837-Election_2024_Texas_Senate_24290038543069-205x123.jpg.webp)](https://www.theepochtimes.com/us/texas-senate-race-closer-than-expected-5750675)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
