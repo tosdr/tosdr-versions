@@ -128,39 +128,39 @@ Advertisement
     Diary of a Porn Virgin
     
     Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
-* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
+* [![No-Go Zones: Seven Mile Road, Detroit, USA](/wp-content/thumbnails/16527-100x70.jpg?x53432)
     
-    Louis Theroux: Drinking To Oblivion
+    No-Go Zones: Seven Mile Road, Detroit, USA
     
-    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
+    Seven Mile Road located in Detroit is one of the most dangerous no-go zones in the United States. Those who live or dare to come here to visit are literally playing with their lives. It is a territor...](https://documentaryheaven.com/no-go-zones-seven-mile-road/ "No-Go Zones: Seven Mile Road, Detroit, USA")
 
 ###### Throwback Documentaries
 
-* [![Marc Dutroux – The Monster of Belgium](/wp-content/thumbnails/4605-100x70.jpg?x53432)
+* [![A Cow At My Table](/wp-content/thumbnails/1378-100x70.jpg?x53432)
     
-    Marc Dutroux – The Monster of Belgium
+    A Cow At My Table
     
-    Marc Dutroux (born 6 November 1956 in Brussels) is one of the sickest human beings ever born. He is a Belgian criminal, convicted of having, in 1995 and 1996, kidnapped, tortured and sexually abused s](https://documentaryheaven.com/the-monster-of-belgium/ "Marc Dutroux – The Monster of Belgium")
-* [![Affluenza](/wp-content/thumbnails/592-100x70.png?x53432)
+    A Cow at My Table is a documentary film examining Western attitudes towards farm animals and meat.It covers the conflict between animal rights advocates and the meat industry, and their respective](https://documentaryheaven.com/a-cow-at-my-table/ "A Cow At My Table")
+* [![Provos: The Secret War](/wp-content/thumbnails/3478-100x70.jpg?x53432)
     
-    Affluenza
+    Provos: The Secret War
     
-    Through revealing personal stories, expert commentary, hilarious old film clips, dramatized vignettes, and "anti-commercial" breaks, Affluenza examines the high cost of achieving the most extravagant](https://documentaryheaven.com/affluenza/ "Affluenza")
-* [![The Hacker Wars](/wp-content/thumbnails/9835-100x70.jpg?x53432)
+    Where does one begin with the IRA? In the 17th century with the first Protestant settlers in the Northeast of Ireland? With Patrick Pearse's seizure of the GPO building in Dublin in 1916? With the P](https://documentaryheaven.com/provos-the-secret-war/ "Provos: The Secret War")
+* [![The Human Microchipping Agenda](/wp-content/thumbnails/7018-100x70.jpg?x53432)
     
-    The Hacker Wars
+    The Human Microchipping Agenda
     
-    Ripped from international headlines, The Hacker Wars takes us directly to the front lines of the battle for the fate of the Internet, freedom and privacy. The film itself tells us the story of an anar](https://documentaryheaven.com/hacker-wars/ "The Hacker Wars")
-* [![The Rich Kids Of Instagram](/wp-content/thumbnails/11931-100x70.jpg?x53432)
+    A documentary that confronts the microchipping agenda, showing that the weapon of propaganda has been used against the public for decades in order to familiarize us with the idea of being chipped.](https://documentaryheaven.com/human-microchipping-agenda/ "The Human Microchipping Agenda")
+* [![They Chose China](/wp-content/thumbnails/1049-100x70.jpg?x53432)
     
-    The Rich Kids Of Instagram
+    They Chose China
     
-    With the rise of Instagram we saw the worlds richest 1% of people gain a means to show off their jet-setting lifestyles to the remaining 99% of us. This being said Instagram now gets roughly 70 millio](https://documentaryheaven.com/rich-kids-of-instagram/ "The Rich Kids Of Instagram")
-* [![Children Full of Life](/wp-content/thumbnails/2648-100x70.jpg?x53432)
+    In January 1954, months after the end of the Korean War, U.S. soldiers held in POW camps were at last free to return home. A small group, however, refused repatriation to the U.S. and, after being giv](https://documentaryheaven.com/they-chose-china/ "They Chose China")
+* [![Gravity and Me: The Force that Shapes our Lives](/wp-content/thumbnails/14822-100x70.jpg?x53432)
     
-    Children Full of Life
+    Gravity and Me: The Force that Shapes our Lives
     
-    This is a very moving award-winning documentary from Japan NHK which follows the life of a class of 10 year old students through an academic year in which they learn more about the realities of life a](https://documentaryheaven.com/full-of-life/ "Children Full of Life")
+    Would you like to loose a little bit of weight without doing any exercise or dieting? Or perhaps age just a little slower than your friends? Well you might be surprised to hear that the laws of physic](https://documentaryheaven.com/gravity-me-force-that-shapes-our-lives/ "Gravity and Me: The Force that Shapes our Lives")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
