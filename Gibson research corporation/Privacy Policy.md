@@ -107,7 +107,7 @@
     *  [Big Number Calculator](https://www.grc.com/Big-Number-Calculator.htm)
     *  [The Quiet Canine](https://www.grc.com/tqc/TheQuietCanine.htm)
 
-[**_NOW SpinRite 6.1_** – Fast and useful for spinning **_and_** solid state mass storage!](https://www.grc.com/sr/spinrite.htm)
+[**_Click Here_** – for the SpinRite 6.1 video walkthrough.](https://www.grc.com/sr/spinrite.htm)
 
   
 ![](/image/transpixel.gif)![GRC.COM Logo](/image/grc.gif)
@@ -210,10 +210,10 @@ To return to the previous page, press your browser's **BACK** button.
 
 |     |     |     |
 | --- | --- | --- |
-| [![Jump to top of page](https://www.grctech.com/_uxf3wqxzlmd0l_/image/grc-icon.gif "Jump to top of page")](#top) | Gibson Research Corporation is owned and operated by Steve Gibson.  The contents  <br>of this page are Copyright (c) 2024 Gibson Research Corporation. SpinRite, ShieldsUP,  <br>NanoProbe, and any other indicated trademarks are registered trademarks of Gibson  <br>Research Corporation, Laguna Hills, CA, USA. GRC's web and customer [privacy policy](https://www.grc.com/privacy.htm). | [![Jump to top of page](https://www.grctech.com/_uxf3wqxzlmd0l_/image/jumptotop.png "Jump to top of page")](#top) |
+| [![Jump to top of page](https://www.grctech.com/_ml3vs15xj0imb_/image/grc-icon.gif "Jump to top of page")](#top) | Gibson Research Corporation is owned and operated by Steve Gibson.  The contents  <br>of this page are Copyright (c) 2024 Gibson Research Corporation. SpinRite, ShieldsUP,  <br>NanoProbe, and any other indicated trademarks are registered trademarks of Gibson  <br>Research Corporation, Laguna Hills, CA, USA. GRC's web and customer [privacy policy](https://www.grc.com/privacy.htm). | [![Jump to top of page](https://www.grctech.com/_ml3vs15xj0imb_/image/jumptotop.png "Jump to top of page")](#top) |
 
   
 
 |     |     |
 | --- | --- |
-| Last Edit: Mar 28, 2008 at 06:46 (6,063.51 days ago) | Viewed 35 times per day |
+| Last Edit: Mar 28, 2008 at 06:46 (6,063.76 days ago) | Viewed 36 times per day |
