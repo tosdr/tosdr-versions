@@ -39,7 +39,7 @@ Wildfire Games [Powered by Invision Community](https://www.invisioncommunity.com
 * [FAQ](https://trac.wildfiregames.com/wiki/FAQ#Gameplay)
 * [Wildfire Games Homepage](https://www.wildfiregames.com/)
 * [0 A.D. Homepage](https://www.play0ad.com/)
-* [Development](http://trac.wildfiregames.com/)
+* [Development](https://gitea.wildfiregames.com/)
 * #### [Forums](#)
     
     * [Back](#)
