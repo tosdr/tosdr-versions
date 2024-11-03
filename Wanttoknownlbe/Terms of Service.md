@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/edith-schippers-homeopathie-bewijs-heilzame-werking/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/bewezen-mazelenvaccinaties-veroorzaken-mazelen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
@@ -183,6 +183,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### Jankende NOS-journalisten, ga in de spiegel kijken…!!
+
+[Ouderwets en niet meer van deze tijd is een uiting welke vol…](https://www.wanttoknow.nl/overige/jankende-nos-journalisten-ga-in-de-spiegel-kijken/comment-page-1/#comment-626349)
 
 ![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
 
@@ -431,14 +439,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Pfizer-mRNA-oplichterij bekend bij autoriteiten..!!
 
 [Helaas beginnen de gevaccineerden om me heen neer te vallen…](https://www.wanttoknow.nl/gezondheid/corona-kwestie/pfizer-mrna-oplichterij-bekend-bij-autoriteiten/comment-page-1/#comment-626318)
-
-![Marie-José](https://secure.gravatar.com/avatar/c913238cd212a2c5422b677c807b1129?s=50&d=identicon&r=g)
-
-##### **Marie-José** reacts on:
-
-##### Weten dat het goed komt…
-
-[Een prachtig stuk van Sander Compagner !. Wij kopen nogal ee…](https://www.wanttoknow.nl/overige/weten-dat-het-goed-komt/comment-page-1/#comment-626317)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
