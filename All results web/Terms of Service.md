@@ -1,4 +1,4 @@
-[![What's your question?](/static/logos/allresultsweb.com.svg)](https://www.allresultsweb.com/?ueid=7d6b3045-a9f5-4ba9-be2f-3bd9aa72c1c2&ad=dirN "What's your question?")
+[![What's your question?](/static/logos/allresultsweb.com.svg)](https://www.allresultsweb.com/?ueid=871b45ba-84e7-449d-93a3-88273f696a47&ad=dirN "What's your question?")
 
 Ask Media Group, LLC Terms of Service
 
@@ -276,7 +276,7 @@ Oakland, CA 94612
 
 If you have any questions or concerns with respect to these Terms of Service or Sites and Services, please contact us [here](https://help.askmediagroup.com/hc/en-us).
 
-* [Privacy Policy](https://www.allresultsweb.com/privacy?ueid=7d6b3045-a9f5-4ba9-be2f-3bd9aa72c1c2&ad=dirN "Privacy Policy")
-* [Terms of Service](https://www.allresultsweb.com/terms?ueid=7d6b3045-a9f5-4ba9-be2f-3bd9aa72c1c2&ad=dirN "Terms of Service")
+* [Privacy Policy](https://www.allresultsweb.com/privacy?ueid=871b45ba-84e7-449d-93a3-88273f696a47&ad=dirN "Privacy Policy")
+* [Terms of Service](https://www.allresultsweb.com/terms?ueid=871b45ba-84e7-449d-93a3-88273f696a47&ad=dirN "Terms of Service")
 * [Help](https://help.askmediagroup.com/hc/en-us?domain={SITE_NAME}&u={CID} "Help")
 * © 2024 Ask Media Group, LLC
