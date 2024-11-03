@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Kamala Harris comes face-to-face with 'herself' in surprise 'SNL' appearance days before election](https://nypost.com/2024/11/02/entertainment/kamala-harris-makes-surprise-appearance-in-snl-final-pre-election-show/)
-
 Privacy Notice Highlights
 =========================
 
