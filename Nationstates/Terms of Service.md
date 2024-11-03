@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [\[DRAFT\] freedom To CAPITALIZE (25)](https://forum.nationstates.net/viewtopic.php?t=557854&f=24&view=unread#unread ""[DRAFT] freedom To CAPITALIZE" (25 posts)")
-* [A Reignited Wildfire (Heldervin war)… (470)](https://forum.nationstates.net/viewtopic.php?t=552898&f=5&view=unread#unread ""A Reignited Wildfire (Heldervin war) [OOC/semi closed/MT]" (470 posts)")
-* [Spell the AN's name wrong. (12,267)](https://forum.nationstates.net/viewtopic.php?t=473890&f=25&view=unread#unread ""Spell the AN's name wrong." (12,267 posts)")
-* [The Collective Security League Assemb… (954)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (954 posts)")
-* [Hot or Cold: BN/BU Edition (1,497)](https://forum.nationstates.net/viewtopic.php?t=553202&f=25&view=unread#unread ""Hot or Cold: BN/BU Edition" (1,497 posts)")
+* [Guess Who BN Is! (6,512)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (6,512 posts)")
+* [2023-24 Israel-Iran proxy conflict (1,049)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (1,049 posts)")
+* [American Politics: The Final Week (6,798)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: The Final Week" (6,798 posts)")
+* [Guess AU's favorite irl country (561)](https://forum.nationstates.net/viewtopic.php?t=554724&f=25&view=unread#unread ""Guess AU's favorite irl country" (561 posts)")
+* [What TNO faction would AN join? (38)](https://forum.nationstates.net/viewtopic.php?t=557876&f=25&view=unread#unread ""What TNO faction would AN join?" (38 posts)")
 
 Advertisement
 
