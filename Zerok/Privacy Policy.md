@@ -88,7 +88,7 @@ Navigation menu
 * [Permanent link](https://zero-k.info/mediawiki/index.php?title=Zero-K:Privacy_policy&oldid=3970 "Permanent link to this revision of the page")
 * [Page information](https://zero-k.info/mediawiki/index.php?title=Zero-K:Privacy_policy&action=info "More information about this page")
 
-* This page was last edited on 25 May 2018, at 08:45.
+* This page was last edited on 25 May 2018, at 07:45.
 * Content is available under [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/) unless otherwise noted.
 
 * [Privacy policy](https://zero-k.info/mediawiki/Zero-K:Privacy_policy "Zero-K:Privacy policy")
