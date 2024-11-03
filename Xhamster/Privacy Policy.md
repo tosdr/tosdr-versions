@@ -26,7 +26,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Videos](https://xhamster.com/)
 
-[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%222200%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%2C%223002%22%3A%7B%22g%22%3A%22e%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A3%7D%2C%223004%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A3%7D%7D&xhStatsUid=6726a878ddd352.56274542a51&xhSessionToken=9d0825f67030bedfd1ba1775e82d8ef02da6cc4f&xhSessionStartedAt=1730586744)
+[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%222200%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%2C%223002%22%3A%7B%22g%22%3A%22f%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A3%7D%2C%223004%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A3%7D%7D&xhStatsUid=6726fe20e22ce7.004268479f1&xhSessionToken=2cf124519cf8e3c693482bc606e22ab26e46609a&xhSessionStartedAt=1730608672)
 
 [Categories](https://xhamster.com/categories)
 
@@ -52,12 +52,12 @@ Premium Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_
 
 * [Upload](https://xhamster.com/creator-signup?source=uploadHeader)
 
-[🎃 HALLOWEEN SALE – 50% OFF! 👻 No Tricks, Just Scary Good Treats! Join Faphouse Now](https://faphouse.com/?utm_source=xhamster-headline&utm_campaign=halloween-2024&utm_medium=desktop-headline)
+[LUSTY HEROES Fucking hot sex game Play with us](https://xh.lustyheroes.com/?pid=xh_promo_banner_anon)
 
 Privacy Policy
 ==============
 
-Effective Date: November 02, 2024
+Effective Date: November 03, 2024
 
 Last Modified: January 04, 2024
 
