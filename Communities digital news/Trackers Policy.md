@@ -26,13 +26,13 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/rf-pexels-judge-gavel-1200x630.jpg)](https://americanwirenews.com/major-blow-to-gop-scotus-upholds-provisional-ballot-ruling-in-battleground-state/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-snlkam-1200-x-628-1200x630.jpg)](https://americanwirenews.com/kamala-too-chicken-to-sit-down-with-joe-rogan-but-drops-everything-to-go-on-snl/)
 
-[Major blow to GOP: SCOTUS upholds provisional ballot ruling in battleground state](https://americanwirenews.com/major-blow-to-gop-scotus-upholds-provisional-ballot-ruling-in-battleground-state/)
+[Kamala too chicken to sit down with Joe Rogan but drops everything to go on SNL](https://americanwirenews.com/kamala-too-chicken-to-sit-down-with-joe-rogan-but-drops-everything-to-go-on-snl/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-nick-bosa-1200x630.jpg)](https://americanwirenews.com/nfl-declines-to-suspend-star-player-for-wearing-maga-hat-but-he-may-still-face-punishment/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-biden-1200x630.jpg)](https://americanwirenews.com/joe-wants-to-smack-trump-in-the-ass-in-latest-outburst/)
 
-[NFL declines to suspend star player for wearing MAGA hat, but he may still face punishment](https://americanwirenews.com/nfl-declines-to-suspend-star-player-for-wearing-maga-hat-but-he-may-still-face-punishment/)
+[Joe wants to smack Trump ‘in the ass’ in latest outburst](https://americanwirenews.com/joe-wants-to-smack-trump-in-the-ass-in-latest-outburst/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cuomo-oreilly-smith-1200x630.jpg)](https://americanwirenews.com/oreilly-dismisses-gop-belief-that-kamala-has-power-as-vp-shes-lucky-she-can-order-lunch/)
 
@@ -58,9 +58,9 @@ Search for:
 
 [Daughter of NFL legend endorses Trump, slams Dems for ‘taking away women’s rights’](https://americanwirenews.com/daughter-of-nfl-legend-endorses-trump-slams-dems-for-taking-away-womens-rights/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-butler-usss-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-roganfetterman-1200-x-628-1200x630.jpg)
 
-### Investigation into Trump assassination attempt may result in disciplinary action for Secret Service](https://americanwirenews.com/investigation-into-trump-assassination-attempt-may-result-in-disciplinary-action-for-secret-service/)
+### Rogan pushes Fetterman to answer why Dems are flooding swing states with illegals](https://americanwirenews.com/rogan-pushes-fetterman-to-answer-why-dems-are-flooding-swing-states-with-illegals/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -77,6 +77,10 @@ Search for:
 ### [NFL legend joins Trump in Green Bay, slams Biden for ‘garbage’ insult](https://americanwirenews.com/nfl-legend-joins-trump-in-green-bay-slams-biden-for-garbage-insult/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ford-1200-x-628-220x180.jpg)](https://americanwirenews.com/hollywood-legend-latest-filthy-rich-celebrity-fat-cat-to-endorse-kamala/)
+
+[Hollywood legend latest filthy rich celebrity fat cat to endorse Kamala](https://americanwirenews.com/hollywood-legend-latest-filthy-rich-celebrity-fat-cat-to-endorse-kamala/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-goldberg-220x180.jpg)](https://americanwirenews.com/cnn-analyst-called-out-for-letting-tds-get-the-better-of-him-over-cheney-comments/)
 
@@ -171,10 +175,6 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jimmy_garland-split1-1200-x-628-220x180.jpg)](https://americanwirenews.com/critics-wonder-if-doj-will-go-after-jimmy-kimmel-for-election-interference-like-it-did-to-trump-supporter/)
 
 [Critics wonder if DOJ will go after Jimmy Kimmel for ‘election interference’ like it did to Trump supporter](https://americanwirenews.com/critics-wonder-if-doj-will-go-after-jimmy-kimmel-for-election-interference-like-it-did-to-trump-supporter/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Elon-Musk-2-220x180.jpg)](https://americanwirenews.com/desperate-left-trying-to-find-a-way-to-revoke-elon-musks-us-citizenship/)
-
-[Desperate Left trying to find a way to revoke Elon Musk’s US citizenship](https://americanwirenews.com/desperate-left-trying-to-find-a-way-to-revoke-elon-musks-us-citizenship/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
