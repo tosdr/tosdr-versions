@@ -188,23 +188,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/3/csm_charles4_8ee254ed73.jpg)
-
-Família Real
-
-Família Real
-
-Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'
-
-Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'](https://www.tnh1.com.br/noticia/nid/rei-charles-finalmente-cumpre-vontade-de-elizabeth-e-toma-dura-decisao-contra-filho-problema/ "Rei Charles finalmente cumpre vontade de Elizabeth e toma dura decisão contra 'filho problema'")[![Rua no Centro de Maceió terá sentido único a partir deste sábado (2)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/c/csm_Rua_proxima_ao_TRT_tera_sentido_unico_a_partir_deste_sabado__2__0_foto_Reproducao_Google_2a0c37fd70.jpeg)
-
-Trânsito
-
-Trânsito
-
-Rua no Centro de Maceió terá sentido único a partir deste sábado (2)
-
-Rua no Centro de Maceió terá sentido único a partir deste sábado (2)](https://www.tnh1.com.br/noticia/nid/rua-no-centro-de-maceio-tera-sentido-unico-a-partir-deste-sabado-2/ "Rua no Centro de Maceió terá sentido único a partir deste sábado (2)")[![Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/6/csm_policial-penal-sergipe-morte-alagoas-arquivo-pessoal_08bd7b2227.jpg)
+[![Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/6/csm_policial-penal-sergipe-morte-alagoas-arquivo-pessoal_08bd7b2227.jpg)
 
 30 anos
 
@@ -212,7 +196,15 @@ Rua no Centro de Maceió terá sentido único a partir deste sábado (2)](https:
 
 Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas
 
-Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policial-penal-de-sergipe-e-morto-a-tiros-apos-sofrer-atentado-no-interior-de-alagoas/ "Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas")[![Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/b/csm_sabrina-gomes-sindrome-de-cushing-reproducao_7a72cca2b4.jpg)
+Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policial-penal-de-sergipe-e-morto-a-tiros-apos-sofrer-atentado-no-interior-de-alagoas/ "Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas")[![Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/9/csm_ssp-realiza-operacao-em-casa-de-shows-no-jaragua-e-constata-irregularidades_37a21d41fd.jpeg)
+
+irregularidades
+
+irregularidades
+
+Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia
+
+Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://www.tnh1.com.br/noticia/nid/casa-de-shows-em-maceio-e-alvo-de-operacao-da-policia-e-donos-sao-levados-a-delegacia/ "Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia")[![Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/b/csm_sabrina-gomes-sindrome-de-cushing-reproducao_7a72cca2b4.jpg)
 
 24 anos
 
@@ -220,7 +212,15 @@ Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de 
 
 Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio
 
-Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio](https://www.tnh1.com.br/noticia/nid/jovem-com-tumor-raro-que-levou-a-mudanca-na-cor-de-pele-tenta-obter-remedio/ "Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio")
+Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio](https://www.tnh1.com.br/noticia/nid/jovem-com-tumor-raro-que-levou-a-mudanca-na-cor-de-pele-tenta-obter-remedio/ "Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio")[![Jornalista diz o que motivou a queda de Liam Payne e surpreende](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/e/csm_liam-payne-reproducao-redes-sociais__1__5b3526ed72.jpg)
+
+caiu de prédio
+
+caiu de prédio
+
+Jornalista diz o que motivou a queda de Liam Payne e surpreende
+
+Jornalista diz o que motivou a queda de Liam Payne e surpreende](https://www.tnh1.com.br/noticia/nid/jornalista-diz-o-que-motivou-a-queda-de-liam-payne-e-surpreende/ "Jornalista diz o que motivou a queda de Liam Payne e surpreende")
 
 [![Chuva põe São Paulo em estado de atenção; 60 mil estão sem energia na cidade](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/0/csm_chuva_sp_agencia_3069336608.png)
 
