@@ -36,18 +36,18 @@
         
         Sophos reveals 5-year battle with Chinese hackers attacking network devices](https://www.bleepingcomputer.com/news/security/sophos-reveals-5-year-battle-with-chinese-hackers-attacking-network-devices/)
     
+    * [![ChatGPT-4o can be used for autonomous voice-based scams](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        ChatGPT-4o can be used for autonomous voice-based scams](https://www.bleepingcomputer.com/news/security/chatgpt-4o-can-be-used-for-autonomous-voice-based-scams/)
+    * [![Get 2TB lifetime cloud storage with FileJump — secure storage, no fees](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Get 2TB lifetime cloud storage with FileJump — secure storage, no fees](https://www.bleepingcomputer.com/offer/deals/get-2tb-lifetime-cloud-storage-with-filejump-secure-storage-no-fees/)
     * [![Microsoft SharePoint RCE bug exploited to breach corporate network](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft SharePoint RCE bug exploited to breach corporate network](https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-rce-bug-exploited-to-breach-corporate-network/)
     * [![Microsoft Outlook workaround fixes freezes when copying text](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft Outlook workaround fixes freezes when copying text](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-workaround-fixes-freezes-when-copying-text/)
-    * [![Prepare for your first cybersecurity job with this $46 course bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Prepare for your first cybersecurity job with this $46 course bundle](https://www.bleepingcomputer.com/offer/deals/prepare-for-your-first-cybersecurity-job-with-this-46-course-bundle/)
-    * [![Microsoft warns Azure Virtual Desktop users of black screen issues](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft warns Azure Virtual Desktop users of black screen issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-azure-virtual-desktop-users-of-black-screen-issues/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
