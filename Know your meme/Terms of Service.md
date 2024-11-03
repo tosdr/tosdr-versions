@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [!["All I Want For Christmas Is You"](https://i.kym-cdn.com/featured_items/icons/wide/000/026/471/Mariah_Carey_-_All_I_Want_for_Christmas_Is_You_(Make_My_Wish_Come_True_Edition)_2-36_screenshot_(2).png "She Is Risen")
+* [![earlier that day.. IDONTCARE FOR il" Dicky FOR Lil' Dicky ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/490/8675309.jpg "21 Years Ago, Lucille Bluth Said She Doesn't Care For Gob, Inspiring Memes")
     
-    She Is Risen](https://knowyourmeme.com/memes/all-i-want-for-christmas-is-you)
+    21 Years Ago, Lucille Bluth Said She Doesn't Care For Gob, Inspiring Memes](https://knowyourmeme.com/memes/i-dont-care-for-x)
     
-* [![Nintendo Launchs Music Streaming App for Switch Online Subscribers](https://i.kym-cdn.com/featured_items/icons/wide/000/026/469/Nintendo_muic_app_Cover.jpg "Nintendo Launchs Music Streaming App for Switch Online Subscribers")
+* [![Use The 'I Know X Got Me' Snowclone To Shout Out Your Coping Mechanisms](https://i.kym-cdn.com/featured_items/icons/wide/000/026/489/cover4.jpg "It's The Birthday Of 'If Nobody Got Me, I Know God Got Me'")
     
-    Nintendo Launchs Music Streaming App for Switch Online Subscribers](https://knowyourmeme.com/memes/subcultures/nintendo-music-app)
+    It's The Birthday Of 'If Nobody Got Me, I Know God Got Me'](https://knowyourmeme.com/memes/if-nobody-got-me-i-know-god-got-me)
     
-* [![But You Didn't Have To Cut Me Off TikTok Trend refers to a TikTok trend that grew popular in late October 2024, typically used by creators to show off their Halloween costumes, set to the song Somebody That I Used To Know by Gotye. The trend starts with two people posing and then taking turns to dance through each line of the chorus of the song. By October 31st, 2024, the trend had gathered over 40,000 videos on the platform.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/468/didnt_have_to_cut_me_off.jpg "Gotye's 2011 Hit Continues To Prove Itself As The Recipe To Viral Success With This Halloween TikTok Trend")
+* [![The Humble Japanese Kei Truck Becomes A Cult Car Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/488/1.jpg "The Humble Japanese Kei Truck Becomes A Cult Car Meme")
     
-    Gotye's 2011 Hit Continues To Prove Itself As The Recipe To Viral Success With This Halloween TikTok Trend](https://knowyourmeme.com/memes/but-you-didnt-have-to-cut-me-off-tiktok-trend)
+    The Humble Japanese Kei Truck Becomes A Cult Car Meme](https://knowyourmeme.com/memes/subcultures/kei-trucks)
     
-* [![TikTokers Showing Off Their Revealing Halloween Costumes With The 'No Revenge' Trend](https://i.kym-cdn.com/featured_items/icons/wide/000/026/467/norevengecover.jpg "TikTokers Showing Off Their Revealing Halloween Costumes With The 'No Revenge' Trend")
+* [![Johnny Somali's picture and a screenshot of him getting attacked](https://i.kym-cdn.com/featured_items/icons/wide/000/026/487/Johnny_Somali_hunt_down_Cover.jpg "Korean Streamers Hunt Down American Kick Streamer Johnny Somali After His Actions In The Country")
     
-    TikTokers Showing Off Their Revealing Halloween Costumes With The 'No Revenge' Trend](https://knowyourmeme.com/memes/no-revenge-halloween-costume-trend)
+    Korean Streamers Hunt Down American Kick Streamer Johnny Somali After His Actions In The Country](https://knowyourmeme.com/memes/events/johnny-somalis-south-korea-hunt-down-controversy)
     
-* [![Yakuza Fans On Reddit Are Attempting To Meme Hypothetical Game 'Found Judgment' Into Existence](https://i.kym-cdn.com/featured_items/icons/wide/000/026/466/Screenshot_2024-10-31_at_12.20.53_PM.jpg "Yakuza Fans On Reddit Are Attempting To Meme Hypothetical Game 'Found Judgment' Into Existence")
+* [![Ongezellig (sometimes called 'zellig by fans) is a web animation series created by Studio Massa, a one-man animation studio based out of the Netherlands, and hosted on YouTube. The title translates to "uninviting" or "uncomfortable" in Dutch. The series tells the story of Maya, Coco, and Mymy, three adopted sisters trying to pass their history class. The pilot of the show was released in several parts on YouTube between 2018 and 2022. The show gained a notable following on 4chan's /qa/ and /co/ boards after 2018, as well as spinoff boards like soyak.party.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/486/zellig.jpg "This Short Dutch Animation Gathered A Fanatic 4chan Fanbase Before It Was Discontinued")
     
-    Yakuza Fans On Reddit Are Attempting To Meme Hypothetical Game 'Found Judgment' Into Existence](https://knowyourmeme.com/memes/found-judgment)
+    This Short Dutch Animation Gathered A Fanatic 4chan Fanbase Before It Was Discontinued](https://knowyourmeme.com/memes/cultures/ongezellig)
     
 
 ##### Also Trending:
 
-[AI Generated Minecraft](https://knowyourmeme.com/memes/ai-generated-minecraft "AI Generated Minecraft") [Dragon Age Veilguard Reviews Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-reviews-controversy "Dragon Age Veilguard Reviews Controversy") [Resilient Jenkins](https://knowyourmeme.com/memes/people/resilient-jenkins-jenkins-resilience-crew "Resilient Jenkins") [Johnny Somali's South Korea Hunt Down Controversy](https://knowyourmeme.com/memes/events/johnny-somalis-south-korea-hunt-down-controversy "Johnny Somali's South Korea Hunt Down Controversy") [Nintendo Music App](https://knowyourmeme.com/memes/subcultures/nintendo-music-app "Nintendo Music App")
+[Peanut the Squirrel / P'Nut](https://knowyourmeme.com/memes/peanut-the-squirrel-pnut "Peanut the Squirrel / P'Nut") [Freaky Homunculus Vibrator](https://knowyourmeme.com/memes/subcultures/freaky-homunculus-vibrator "Freaky Homunculus Vibrator") [Wait a Minute, I'm White!](https://knowyourmeme.com/memes/wait-a-minute-im-white "Wait a Minute, I'm White!") [Kei Trucks](https://knowyourmeme.com/memes/subcultures/kei-trucks "Kei Trucks")
 
 Terms of Service and Use
 ========================
@@ -263,7 +263,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hey! You must login or signup first!
+### Word Up! You must login or signup first!
 
 |     |     |
 | --- | --- |
