@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Sidi-Mohamed-Abdallahi-326x245.jpg)](https://cwbchicago.com/2024/10/terrorism-hate-crime-charges-added-in-weekend-shooting-of-jewish-man-after-cops-crack-suspects-phone.html "Terrorism, hate crime charges added in weekend shooting of Jewish man after cops crack suspect’s phone")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/bb910-326x245.jpg)](https://cwbchicago.com/2024/11/2-more-victims-are-found-shot-with-no-calls-of-gunfire-in-areas-previously-served-by-shotspotter.html "2 more victims are found shot with no calls of gunfire in areas previously served by ShotSpotter")
 
-West Rogers Park
+Roseland
 
-### [Terrorism, hate crime charges added in weekend shooting of Jewish man after cops crack suspect’s phone](https://cwbchicago.com/2024/10/terrorism-hate-crime-charges-added-in-weekend-shooting-of-jewish-man-after-cops-crack-suspects-phone.html "Terrorism, hate crime charges added in weekend shooting of Jewish man after cops crack suspect’s phone")
+### [2 more victims are found shot with no calls of gunfire in areas previously served by ShotSpotter](https://cwbchicago.com/2024/11/2-more-victims-are-found-shot-with-no-calls-of-gunfire-in-areas-previously-served-by-shotspotter.html "2 more victims are found shot with no calls of gunfire in areas previously served by ShotSpotter")
 
-[October 31, 2024 5:03 PM](https://cwbchicago.com/2024/10)
+[November 1, 2024 7:37 AM](https://cwbchicago.com/2024/11)
 
-Officials on Thursday announced the addition of hate crime and terrorism charges against the man accused of shooting a Jewish man in West Rogers Park over the weekend. [](https://cwbchicago.com/2024/10/terrorism-hate-crime-charges-added-in-weekend-shooting-of-jewish-man-after-cops-crack-suspects-phone.html "Terrorism, hate crime charges added in weekend shooting of Jewish man after cops crack suspect’s phone")
+Companies that want to pitch the city of Chicago on technology that could replace ShotSpotter’s gunfire sensors originally had until 3 p.m. today to get their paperwork turned in. But the city has extended the deadline for for proposals for services that sound a lot like ShotSpotter.[](https://cwbchicago.com/2024/11/2-more-victims-are-found-shot-with-no-calls-of-gunfire-in-areas-previously-served-by-shotspotter.html "2 more victims are found shot with no calls of gunfire in areas previously served by ShotSpotter")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/TREVONTE-D-REYNOLDS--326x245.jpg)](https://cwbchicago.com/2024/10/hijacker-took-victim-on-40-minute-horror-ride-then-crashed-in-a-fiery-explosion-prosecutors.html "Hijacker took delivery driver on 40-minute horror ride, then crashed in a fiery explosion: prosecutors")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/7200-block-north-damen-map-chicago-326x245.jpg)](https://cwbchicago.com/2024/11/15-year-old-boy-shot-in-rogers-park-on-halloween-night.html "15-year-old boy shot in Rogers Park on Halloween night")
 
-Auburn Gresham
+Rogers Park
 
-### [Hijacker took delivery driver on 40-minute horror ride, then crashed in a fiery explosion: prosecutors](https://cwbchicago.com/2024/10/hijacker-took-victim-on-40-minute-horror-ride-then-crashed-in-a-fiery-explosion-prosecutors.html "Hijacker took delivery driver on 40-minute horror ride, then crashed in a fiery explosion: prosecutors")
+### [15-year-old boy shot in Rogers Park on Halloween night](https://cwbchicago.com/2024/11/15-year-old-boy-shot-in-rogers-park-on-halloween-night.html "15-year-old boy shot in Rogers Park on Halloween night")
 
-[October 31, 2024 4:19 PM](https://cwbchicago.com/2024/10)
+[November 1, 2024 4:39 AM](https://cwbchicago.com/2024/11)
 
-Prosecutors say a South Holland man carjacked and kidnapped a delivery driver, taking him on a 40-minute horror ride until they ultimately crashed and the hijacked vehicle burst into flames.[](https://cwbchicago.com/2024/10/hijacker-took-victim-on-40-minute-horror-ride-then-crashed-in-a-fiery-explosion-prosecutors.html "Hijacker took delivery driver on 40-minute horror ride, then crashed in a fiery explosion: prosecutors")
+A 15-year-old boy was shot in Rogers Park on Halloween night, police say, making him the eighth person shot in the neighborhood during October.[](https://cwbchicago.com/2024/11/15-year-old-boy-shot-in-rogers-park-on-halloween-night.html "15-year-old boy shot in Rogers Park on Halloween night")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/05/Leni-Manaa-Hoppenworth-326x245.jpg)](https://cwbchicago.com/2024/10/alderman-who-vowed-to-stop-talking-about-crime-reverses-course-as-shootings-soar-180-people-are-leaving-edgewater-because-they-dont-feel-safe.html "Alderman who vowed to stop talking about crime, reverses course as shootings soar 180%: ‘outraged and disheartened’")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/5900-north-kenmore-map-326x245.jpg)](https://cwbchicago.com/2024/10/woman-shot-in-edgewater-alley-as-shootings-soar-300-this-year.html "Woman shot in Edgewater alley as shootings soar 300% this year")
 
 Edgewater
 
-### [Alderman who vowed to stop talking about crime, reverses course as shootings soar 180%: ‘outraged and disheartened’](https://cwbchicago.com/2024/10/alderman-who-vowed-to-stop-talking-about-crime-reverses-course-as-shootings-soar-180-people-are-leaving-edgewater-because-they-dont-feel-safe.html "Alderman who vowed to stop talking about crime, reverses course as shootings soar 180%: ‘outraged and disheartened’")
+### [Woman shot in Edgewater alley as shootings soar 300% this year](https://cwbchicago.com/2024/10/woman-shot-in-edgewater-alley-as-shootings-soar-300-this-year.html "Woman shot in Edgewater alley as shootings soar 300% this year")
 
-[October 31, 2024 9:22 AM](https://cwbchicago.com/2024/10)
+[October 31, 2024 6:14 PM](https://cwbchicago.com/2024/10)
 
-Just five months after announcing she would no longer talk about crime in her constituent newsletters because doing so is racist and fuels an “inaccurate public perception about crime rates,” Ald. Leni Manaa-Hoppenworth (48th) reversed course this morning.[](https://cwbchicago.com/2024/10/alderman-who-vowed-to-stop-talking-about-crime-reverses-course-as-shootings-soar-180-people-are-leaving-edgewater-because-they-dont-feel-safe.html "Alderman who vowed to stop talking about crime, reverses course as shootings soar 180%: ‘outraged and disheartened’")
+A woman was shot in an Edgewater alley this afternoon, Ald. Leni Manaa-Hoppenworth (48th) said in an email. Shootings in the neighborhood are now up 300% compared to last year.[](https://cwbchicago.com/2024/10/woman-shot-in-edgewater-alley-as-shootings-soar-300-this-year.html "Woman shot in Edgewater alley as shootings soar 300% this year")
 
 Search
 
