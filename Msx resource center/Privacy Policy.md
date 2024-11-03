@@ -137,8 +137,8 @@ MSX Music player
 
 Latest reactions
 
-* [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
 * [MinQ:ExtrA by NukegaraDHP released](https://www.msx.org/news/software/en/minqextra-by-nukegaradhp-released "MinQ:ExtrA by NukegaraDHP released")
+* [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
 * [Nextor 2.1.2 released](https://www.msx.org/news/en/nextor-212-released "Nextor 2.1.2 released")
 * [Christmas Quiz 2024](https://www.msx.org/news/en/christmas-quiz-2024 "Christmas Quiz 2024")
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
@@ -150,14 +150,14 @@ Latest reactions
 
 Latest forum posts
 
-* [How do I get to the 2nd and other partitions "drives"?](https://www.msx.org/forum/msx-talk/openmsx/how-do-i-get-to-the-2nd-and-other-partitions-drives "How do I get to the 2nd and other partitions "drives"?")
+* [Kazuhiko Nishi's other MSX projects](https://www.msx.org/forum/msx-talk/general-discussion/kazuhiko-nishis-other-msx-projects "Kazuhiko Nishi's other MSX projects")
+* [Power Chupin 2.6 was unleashed!](https://www.msx.org/forum/msx-talk/software/power-chupin-26-was-unleashed "Power Chupin 2.6 was unleashed!")
 * [Can't get MoonLightSaga to work](https://www.msx.org/forum/msx-talk/software/cant-get-moonlightsaga-to-work "Can't get MoonLightSaga to work")
+* [How do I get to the 2nd and other partitions "drives"?](https://www.msx.org/forum/msx-talk/openmsx/how-do-i-get-to-the-2nd-and-other-partitions-drives "How do I get to the 2nd and other partitions "drives"?")
 * [Letter P on boot logo](https://www.msx.org/forum/msx-talk/general-discussion/letter-p-on-boot-logo "Letter P on boot logo")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=63 "List of undumped MSX software (PLEASE HELP!)")
-* [Kazuhiko Nishi's other MSX projects](https://www.msx.org/forum/msx-talk/general-discussion/kazuhiko-nishis-other-msx-projects "Kazuhiko Nishi's other MSX projects")
 * [What is the point of bits \[3:0\] in the R15 of the PSG](https://www.msx.org/forum/msx-talk/hardware/what-is-the-point-of-bits-30-in-the-r14-of-the-psg?page=1 "What is the point of bits [3:0] in the R15 of the PSG")
 * [TRH9000 - The Yamaha V9990 based open-source video card for the MSX](https://www.msx.org/forum/msx-talk/hardware/trh9000-the-yamaha-v9990-based-open-source-video-card-for-the-msx?page=24 "TRH9000 - The Yamaha V9990 based open-source video card for the MSX")
-* [Power Chupin 2.6 was unleashed!](https://www.msx.org/forum/msx-talk/software/power-chupin-26-was-unleashed "Power Chupin 2.6 was unleashed!")
 * [Sony HB-F1XD MSX2 Disk Help](https://www.msx.org/forum/msx-talk/general-discussion/sony-hb-f1xd-msx2-disk-help "Sony HB-F1XD MSX2 Disk Help")
 * [OpenMSX for Trimui Smart Pro Handheld](https://www.msx.org/forum/msx-talk/emulation/openmsx-for-trimui-smart-pro-handheld?page=1 "OpenMSX for Trimui Smart Pro Handheld")
 * [keyboard connector for Victor HC-9x DSUB 20-pin from mouser](https://www.msx.org/forum/msx-talk/hardware/keyboard-connector-for-victor-hc-9x-dsub-20-pin-from-mouser "keyboard connector for Victor HC-9x DSUB 20-pin from mouser")
