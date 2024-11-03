@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-d832cf16f6c3d95f633ffcdcbb9137c9
+409796d81e49d1e9d30d63266d14100e
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![16 mm by 11 mm vintage Czech glass blue oval beads](https://www.sojourner.biz/images/cache/glass/GL0178.200.jpg)](https://www.sojourner.biz/beads/glass/16-mm-by-11-mm-vintage-czech-glass-blue-oval-beads.html "16 mm by 11 mm vintage Czech glass blue oval beads")
+[![10 mm round vintage German glass beads](https://www.sojourner.biz/images/cache/glass/GL0140.200.jpg)](https://www.sojourner.biz/beads/glass/10-mm-round-vintage-german-glass-beads.html "10 mm round vintage German glass beads")
 
-#### [16 mm by 11 mm vintage Czech glass blue oval beads](https://www.sojourner.biz/beads/glass/16-mm-by-11-mm-vintage-czech-glass-blue-oval-beads.html "16 mm by 11 mm vintage Czech glass blue oval beads")
+#### [10 mm round vintage German glass beads](https://www.sojourner.biz/beads/glass/10-mm-round-vintage-german-glass-beads.html "10 mm round vintage German glass beads")
 
-$9.00
+$8.00
 
 ### Best Sellers
 
