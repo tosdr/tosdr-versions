@@ -93,7 +93,13 @@ Search site
 
 [Severe Thunderstorm Warning
 
-from SUN 7:33 AM CST until SUN 8:30 AM CST, Cooke County](https://www.fox4news.com/weather-alerts)
+from SUN 1:44 PM CST until SUN 2:30 PM CST, Jack County](https://www.fox4news.com/weather-alerts)
+
+2
+
+[Severe Thunderstorm Watch
+
+from SUN 11:58 AM CST until SUN 5:00 PM CST, Wise County, Palo Pinto County, Jack County](https://www.fox4news.com/weather-alerts)
 
 Privacy Policy
 ==============
@@ -406,35 +412,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![AMBER Alert issued for missing 12-year-old out of Kaufman County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/amber-alert.jpg?ve=1&tl=1)
+ [![Millions in central US on alert for more severe weather after tornadoes tear through Oklahoma City](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/mon-severe-outlook.png?ve=1&tl=1)
 
- ![AMBER Alert issued for missing 12-year-old out of Kaufman County](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/amber-alert.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-alert-issued-missing-12-year-old-our-kaufman-county)
+ ![Millions in central US on alert for more severe weather after tornadoes tear through Oklahoma City](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/mon-severe-outlook.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/millions-central-us-alert-more-severe-weather-after-tornadoes-tear-through-oklahoma-city)
 
-### [AMBER Alert issued for missing 12-year-old out of Kaufman County](https://www.fox4news.com/news/amber-alert-issued-missing-12-year-old-our-kaufman-county)
+### [Millions in central US on alert for more severe weather after tornadoes tear through Oklahoma City](https://www.fox4news.com/weather/millions-central-us-alert-more-severe-weather-after-tornadoes-tear-through-oklahoma-city)
 
- [![Watch: Jason Kelce smashes Penn State heckler's phone for calling Travis Kelce a homophobic slur](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/kelse.jpg?ve=1&tl=1)
+ [![Garland Police investigate deadly shooting: 16-year-old charged with murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/09/32/18/94697dcb-police-tape-police-lights.png?ve=1&tl=1)
 
- ![Watch: Jason Kelce smashes Penn State heckler's phone for calling Travis Kelce a homophobic slur](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/kelse.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jason-kelce-phone-slams-video-penn-state-taylor-swift)
+ ![Garland Police investigate deadly shooting: 16-year-old charged with murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/09/32/18/592/333/94697dcb-police-tape-police-lights.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/garland-police-investigate-deadly-shooting-16-year-old-charged-murder)
 
-### [Watch: Jason Kelce smashes Penn State heckler's phone for calling Travis Kelce a homophobic slur](https://www.fox4news.com/news/jason-kelce-phone-slams-video-penn-state-taylor-swift)
+### [Garland Police investigate deadly shooting: 16-year-old charged with murder](https://www.fox4news.com/news/garland-police-investigate-deadly-shooting-16-year-old-charged-murder)
 
- [![Dallas Police investigate death in Pleasant Grove](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/110324-sh-dpd-fx-disturbance-emergency-call-_kdfw0_00.08.52.52.jpg?ve=1&tl=1)
+ [![Disturbance in the Caribbean likely to become Tropical Storm Rafael this week](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/2-atl-1.jpg?ve=1&tl=1)
 
- ![Dallas Police investigate death in Pleasant Grove](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/110324-sh-dpd-fx-disturbance-emergency-call-_kdfw0_00.08.52.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-police-investigate-death-pleasant-grove)
+ ![Disturbance in the Caribbean likely to become Tropical Storm Rafael this week](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/2-atl-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tropical-storm-rafael-disturbance-caribbean-gulf-of-mexico)
 
-### [Dallas Police investigate death in Pleasant Grove](https://www.fox4news.com/news/dallas-police-investigate-death-pleasant-grove)
+### [Disturbance in the Caribbean likely to become Tropical Storm Rafael this week](https://www.fox4news.com/news/tropical-storm-rafael-disturbance-caribbean-gulf-of-mexico)
 
- [![Texas refuses federal election monitors on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-1784075134.jpg?ve=1&tl=1)
+ [![Dallas weather: Scattered storms Sunday, Monday](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/screenshot-2024-11-03-092813.png?ve=1&tl=1)
 
- ![Texas refuses federal election monitors on Election Day](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-1784075134.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/texas-federal-election-monitors-election-day-reject)
+ ![Dallas weather: Scattered storms Sunday, Monday](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/screenshot-2024-11-03-092813.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-scattered-storms-sunday-monday)
 
-### [Texas refuses federal election monitors on Election Day](https://www.fox4news.com/election/texas-federal-election-monitors-election-day-reject)
+### [Dallas weather: Scattered storms Sunday, Monday](https://www.fox4news.com/weather/dallas-weather-scattered-storms-sunday-monday)
 
- [![Famous streamer Kai Cenat says he's the victim of yet another swatting call](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/11/32/18/gettyimages-1431445107.jpg?ve=1&tl=1)
+ [![Who's winning the presidential election with 2 days to go?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/trump-harris-1.jpg?ve=1&tl=1)
 
- ![Famous streamer Kai Cenat says he's the victim of yet another swatting call](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/11/32/18/592/333/gettyimages-1431445107.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kai-cenat-twitch-swatted-marietta-mansion)
+ ![Who's winning the presidential election with 2 days to go?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/trump-harris-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/whos-winning-harris-trump-november-3-2024)
 
-### [Famous streamer Kai Cenat says he's the victim of yet another swatting call](https://www.fox4news.com/news/kai-cenat-twitch-swatted-marietta-mansion)
+### [Who's winning the presidential election with 2 days to go?](https://www.fox4news.com/news/whos-winning-harris-trump-november-3-2024)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
