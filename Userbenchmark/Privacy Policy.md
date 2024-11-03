@@ -140,7 +140,7 @@ Amazon Ebay
 
 deals
 
-[CPU](https://www.userbenchmark.com/Go/HotCPUAmazon/lbFMultiA/0) [GPU](https://www.userbenchmark.com/Go/HotGPUAmazon/lbFMultiA/0) [SSD](https://www.userbenchmark.com/Go/HotSSDAmazon/lbFMultiA/0) [HDD](https://www.userbenchmark.com/Go/HotHDDAmazon/lbFMultiA/0) [USB](https://www.userbenchmark.com/Go/HotUSBAmazon/lbFMultiA/0) [RAM](https://www.userbenchmark.com/Go/HotRAMAmazon/lbFMultiA/0) [MBD](https://www.userbenchmark.com/Go/HotWWWAmazon/lbFMultiA/0)
+[CPU](https://www.userbenchmark.com/Go/HotCPUAmazon/lbFMultiB/0) [GPU](https://www.userbenchmark.com/Go/HotGPUAmazon/lbFMultiB/0) [SSD](https://www.userbenchmark.com/Go/HotSSDAmazon/lbFMultiB/0) [HDD](https://www.userbenchmark.com/Go/HotHDDAmazon/lbFMultiB/0) [USB](https://www.userbenchmark.com/Go/HotUSBAmazon/lbFMultiB/0) [RAM](https://www.userbenchmark.com/Go/HotRAMAmazon/lbFMultiB/0) [MBD](https://www.userbenchmark.com/Go/HotWWWAmazon/lbFMultiB/0)
 
 If you buy something via a price link, UserBenchmark may earn a commission
 
