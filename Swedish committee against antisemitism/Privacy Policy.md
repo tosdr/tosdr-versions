@@ -24,7 +24,7 @@
     * [Ungdomsutbildning](https://skma.se/utbildning/skmas-ungdomsutbildning/)
     * [Undervisnings­material](https://skma.se/utbildning/undervisningsmaterial/)
     * [Tips till lärare](https://skma.se/2022/03/niclas-blom-och-mathan-shastin-ravid-tips-till-larare-som-undervisar-om-antisemitism/)
-* [ELSA-priset](https://skma.se/elsa-priset/)
+* [Elsapriset](https://skma.se/elsapriset/)
 * [Om oss](#)
     * [Om SKMA](https://skma.se/om/)
     * [Medlemmar i SKMA](https://skma.se/om/medlemmar/)
