@@ -8,7 +8,7 @@
 
 [Series](https://www.cricbuzz.com/cricket-schedule/series/all)
 
-[New Zealand tour of India, 2024](https://www.cricbuzz.com/cricket-series/8395/new-zealand-tour-of-india-2024 "New Zealand tour of India, 2024") [India tour of South Africa, 2024](https://www.cricbuzz.com/cricket-series/8404/india-tour-of-south-africa-2024 "India tour of South Africa, 2024") [South Africa tour of Bangladesh, 2024](https://www.cricbuzz.com/cricket-series/9033/south-africa-tour-of-bangladesh-2024 "South Africa tour of Bangladesh, 2024") [England tour of West Indies, 2024](https://www.cricbuzz.com/cricket-series/8107/england-tour-of-west-indies-2024 "England tour of West Indies, 2024") [New Zealand Women tour of India 2024](https://www.cricbuzz.com/cricket-series/9073/new-zealand-women-tour-of-india-2024 "New Zealand Women tour of India 2024") [Womens Big Bash League 2024](https://www.cricbuzz.com/cricket-series/8525/womens-big-bash-league-2024 "Womens Big Bash League 2024") [Pakistan tour of Australia, 2024](https://www.cricbuzz.com/cricket-series/7781/pakistan-tour-of-australia-2024 "Pakistan tour of Australia, 2024") [Ranji Trophy Elite 2024-25](https://www.cricbuzz.com/cricket-series/8339/ranji-trophy-elite-2024-25 "Ranji Trophy Elite 2024-25") [New Zealand tour of Sri Lanka, 2024](https://www.cricbuzz.com/cricket-series/9083/new-zealand-tour-of-sri-lanka-2024 "New Zealand tour of Sri Lanka, 2024") [All Series »](https://www.cricbuzz.com/cricket-schedule/series/all)
+[New Zealand tour of India, 2024](https://www.cricbuzz.com/cricket-series/8395/new-zealand-tour-of-india-2024 "New Zealand tour of India, 2024") [India tour of South Africa, 2024](https://www.cricbuzz.com/cricket-series/8404/india-tour-of-south-africa-2024 "India tour of South Africa, 2024") [Afghanistan v Bangladesh in UAE, 2024](https://www.cricbuzz.com/cricket-series/9091/afghanistan-v-bangladesh-in-uae-2024 "Afghanistan v Bangladesh in UAE, 2024") [India tour of Australia, 2024-25](https://www.cricbuzz.com/cricket-series/7745/india-tour-of-australia-2024-25 "India tour of Australia, 2024-25") [England tour of West Indies, 2024](https://www.cricbuzz.com/cricket-series/8107/england-tour-of-west-indies-2024 "England tour of West Indies, 2024") [Womens Big Bash League 2024](https://www.cricbuzz.com/cricket-series/8525/womens-big-bash-league-2024 "Womens Big Bash League 2024") [Pakistan tour of Australia, 2024](https://www.cricbuzz.com/cricket-series/7781/pakistan-tour-of-australia-2024 "Pakistan tour of Australia, 2024") [Ranji Trophy Elite 2024-25](https://www.cricbuzz.com/cricket-series/8339/ranji-trophy-elite-2024-25 "Ranji Trophy Elite 2024-25") [New Zealand tour of Sri Lanka, 2024](https://www.cricbuzz.com/cricket-series/9083/new-zealand-tour-of-sri-lanka-2024 "New Zealand tour of Sri Lanka, 2024") [All Series »](https://www.cricbuzz.com/cricket-schedule/series/all)
 
 [Teams](https://www.cricbuzz.com/cricket-team)
 
@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[WI vs ENG - Live](https://www.cricbuzz.com/live-cricket-scores/95151/wi-vs-eng-2nd-odi-england-tour-of-west-indies-2024 "West Indies v England, 2nd ODI - Live")[NZ vs IND - Stumps](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-tour-of-india-2024 "New Zealand v India, 3rd Test - Stumps")[USA vs NEP - Ings Break](https://www.cricbuzz.com/live-cricket-scores/107044/usa-vs-nep-42nd-match-icc-cricket-world-cup-league-two-2023-27 "United States of America v Nepal, 42nd Match - Ings Break")[INDA vs AUSA - Stumps](https://www.cricbuzz.com/live-cricket-scores/96530/inda-vs-ausa-1st-unofficial-test-india-a-tour-of-australia-2024 "India A v Australia A, 1st unofficial Test - Stumps")[MLSW vs HBHW - Preview](https://www.cricbuzz.com/live-cricket-scores/101314/mlsw-vs-hbhw-12th-match-womens-big-bash-league-2024 "Melbourne Stars Women v Hobart Hurricanes Women, 12th Match - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs IND - Stumps](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-tour-of-india-2024 "New Zealand v India, 3rd Test - Stumps")[INDA vs AUSA - Live](https://www.cricbuzz.com/live-cricket-scores/96530/inda-vs-ausa-1st-unofficial-test-india-a-tour-of-australia-2024 "India A v Australia A, 1st unofficial Test - Live")[HBHW vs MLSW - Live](https://www.cricbuzz.com/live-cricket-scores/101314/hbhw-vs-mlsw-12th-match-womens-big-bash-league-2024 "Hobart Hurricanes Women v Melbourne Stars Women, 12th Match - Live")[MLRW vs ADSW - Preview](https://www.cricbuzz.com/live-cricket-scores/101318/mlrw-vs-adsw-13th-match-womens-big-bash-league-2024 "Melbourne Renegades Women v Adelaide Strikers Women, 13th Match - Preview")[WI vs ENG - ENG Won](https://www.cricbuzz.com/live-cricket-scores/95151/wi-vs-eng-2nd-odi-england-tour-of-west-indies-2024 "West Indies v England, 2nd ODI - ENG Won")
 
 AllLive NowToday
 
@@ -60,19 +60,13 @@ AllLive NowToday
     
     3rd Test
     
-* South Africa tour of Bangladesh, 2024
-    
-    [South Africa vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/108425/rsa-vs-ban-2nd-test-south-africa-tour-of-bangladesh-2024 "South Africa v Bangladesh, 2nd Test - RSA Won")
-    
-    2nd Test
-    
 * West Indies v England, 2024
     
     [England vs West Indies](https://www.cricbuzz.com/live-cricket-scores/95142/eng-vs-wi-1st-odi-west-indies-v-england-2024 "England v West Indies, 1st ODI - WI Won")
     
     1st ODI
     
-* [West Indies vs England  LIVE](https://www.cricbuzz.com/live-cricket-scores/95151/wi-vs-eng-2nd-odi-west-indies-v-england-2024 "West Indies v England, 2nd ODI - Live")
+* [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/95151/wi-vs-eng-2nd-odi-west-indies-v-england-2024 "West Indies v England, 2nd ODI - ENG Won")
     
     2nd ODI
     
@@ -82,17 +76,19 @@ AllLive NowToday
     
     1st ODI
     
+* South Africa tour of Bangladesh, 2024
+    
+    [South Africa vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/108425/rsa-vs-ban-2nd-test-south-africa-tour-of-bangladesh-2024 "South Africa v Bangladesh, 2nd Test - RSA Won")
+    
+    2nd Test
+    
 * ICC CWC League Two 2023-27
     
-    [Scotland vs United States of America](https://www.cricbuzz.com/live-cricket-scores/107036/sco-vs-usa-40th-match-icc-cwc-league-two-2023-27 "Scotland v United States of America, 40th Match - SCO Won")
-    
-    40th Match
-    
-* [United Arab Emirates vs Oman](https://www.cricbuzz.com/live-cricket-scores/108921/uae-vs-oman-41st-match-icc-cwc-league-two-2023-27 "United Arab Emirates v Oman, 41st Match - OMAN Won")
+    [United Arab Emirates vs Oman](https://www.cricbuzz.com/live-cricket-scores/108921/uae-vs-oman-41st-match-icc-cwc-league-two-2023-27 "United Arab Emirates v Oman, 41st Match - OMAN Won")
     
     41st Match
     
-* [United States of America vs Nepal](https://www.cricbuzz.com/live-cricket-scores/107044/usa-vs-nep-42nd-match-icc-cwc-league-two-2023-27 "United States of America v Nepal, 42nd Match - Ings Break")
+* [United States of America vs Nepal](https://www.cricbuzz.com/live-cricket-scores/107044/usa-vs-nep-42nd-match-icc-cwc-league-two-2023-27 "United States of America v Nepal, 42nd Match - USA Won")
     
     42nd Match
     
@@ -122,35 +118,35 @@ AllLive NowToday
     
 * Sheffield Shield 2024-25
     
-    [New South Wales vs Queensland](https://www.cricbuzz.com/live-cricket-scores/102880/nsw-vs-ql-7th-match-sheffield-shield-2024-25 "New South Wales v Queensland, 7th Match - Stumps")
-    
-    7th Match
-    
-* [Tasmania vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/102882/tas-vs-wa-8th-match-sheffield-shield-2024-25 "Tasmania v Western Australia, 8th Match - Stumps")
+    [Tasmania vs Western Australia  LIVE](https://www.cricbuzz.com/live-cricket-scores/102882/tas-vs-wa-8th-match-sheffield-shield-2024-25 "Tasmania v Western Australia, 8th Match - Live")
     
     8th Match
     
-* [South Australia vs Victoria](https://www.cricbuzz.com/live-cricket-scores/102889/saus-vs-vic-9th-match-sheffield-shield-2024-25 "South Australia v Victoria, 9th Match - Stumps")
+* [New South Wales vs Queensland  LIVE](https://www.cricbuzz.com/live-cricket-scores/102880/nsw-vs-ql-7th-match-sheffield-shield-2024-25 "New South Wales v Queensland, 7th Match - Live")
+    
+    7th Match
+    
+* [South Australia vs Victoria  LIVE](https://www.cricbuzz.com/live-cricket-scores/102889/saus-vs-vic-9th-match-sheffield-shield-2024-25 "South Australia v Victoria, 9th Match - Live")
     
     9th Match
     
 * Australia A v India A
     
-    [India A vs Australia A](https://www.cricbuzz.com/live-cricket-scores/96530/inda-vs-ausa-1st-unofficial-test-australia-a-v-india-a "India A v Australia A, 1st unofficial Test - Stumps")
+    [India A vs Australia A  LIVE](https://www.cricbuzz.com/live-cricket-scores/96530/inda-vs-ausa-1st-unofficial-test-australia-a-v-india-a "India A v Australia A, 1st unofficial Test - Live")
     
     1st unofficial Test
     
 * The Ford Trophy 2024-25
     
-    [Otago vs Wellington](https://www.cricbuzz.com/live-cricket-scores/107331/otg-vs-wel-15th-match-the-ford-trophy-2024-25 "Otago v Wellington, 15th Match - Preview")
+    [Otago vs Wellington  LIVE](https://www.cricbuzz.com/live-cricket-scores/107331/otg-vs-wel-15th-match-the-ford-trophy-2024-25 "Otago v Wellington, 15th Match - Live")
     
     15th Match
     
-* [Northern Knights vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107323/nk-vs-akl-13th-match-the-ford-trophy-2024-25 "Northern Knights v Auckland, 13th Match - Preview")
+* [Northern Knights vs Auckland  LIVE](https://www.cricbuzz.com/live-cricket-scores/107323/nk-vs-akl-13th-match-the-ford-trophy-2024-25 "Northern Knights v Auckland, 13th Match - Live")
     
     13th Match
     
-* [Canterbury vs Central Districts](https://www.cricbuzz.com/live-cricket-scores/107315/cntbry-vs-cd-14th-match-the-ford-trophy-2024-25 "Canterbury v Central Districts, 14th Match - Preview")
+* [Canterbury vs Central Districts  LIVE](https://www.cricbuzz.com/live-cricket-scores/107315/cntbry-vs-cd-14th-match-the-ford-trophy-2024-25 "Canterbury v Central Districts, 14th Match - Live")
     
     14th Match
     
@@ -184,7 +180,7 @@ AllLive NowToday
     
     11th Match
     
-* [Melbourne Stars Women vs Hobart Hurricanes Women](https://www.cricbuzz.com/live-cricket-scores/101314/mlsw-vs-hbhw-12th-match-wbbl-2024 "Melbourne Stars Women v Hobart Hurricanes Women, 12th Match - Preview")
+* [Hobart Hurricanes Women vs Melbourne Stars Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/101314/hbhw-vs-mlsw-12th-match-wbbl-2024 "Hobart Hurricanes Women v Melbourne Stars Women, 12th Match - Live")
     
     12th Match
     
@@ -513,37 +509,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Utkarsh Srivastava: I think I needed to earn the respect of everyone](https://www.cricbuzz.com/cricket-news/132313/utkarsh-srivastava-i-think-i-needed-to-earn-the-respect-of-everyone "Utkarsh Srivastava: I think I needed to earn the respect of everyone")
 
-37m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132312/rishabh-pant-and-shubman-gill-take-different-routes-up-the-spin-hill "Pant and Gill take different routes up the spin hill")
 
 [Pant and Gill take different routes up the spin hill](https://www.cricbuzz.com/cricket-news/132312/rishabh-pant-and-shubman-gill-take-different-routes-up-the-spin-hill "Pant and Gill take different routes up the spin hill")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132311/hridoy-urges-bangladesh-to-look-ahead-to-ct-2025-preparations "Hridoy urges Bangladesh to look ahead to CT 2025 preparations")
 
 [Hridoy urges Bangladesh to look ahead to CT 2025 preparations](https://www.cricbuzz.com/cricket-news/132311/hridoy-urges-bangladesh-to-look-ahead-to-ct-2025-preparations "Hridoy urges Bangladesh to look ahead to CT 2025 preparations")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/132310/jadeja-ashwin-combine-to-keep-india-marginally-in-front "Jadeja, Ashwin combine to keep India marginally in front")
 
 [Jadeja, Ashwin combine to keep India marginally in front](https://www.cricbuzz.com/cricket-news/132310/jadeja-ashwin-combine-to-keep-india-marginally-in-front "Jadeja, Ashwin combine to keep India marginally in front")
 
-7h ago
+13h ago
 
   [](https://www.cricbuzz.com/cricket-news/132309/nathan-mcsweeney-puts-australia-a-on-course "Nathan McSweeney puts Australia A on course")
 
 [Nathan McSweeney puts Australia A on course](https://www.cricbuzz.com/cricket-news/132309/nathan-mcsweeney-puts-australia-a-on-course "Nathan McSweeney puts Australia A on course")
 
-8h ago
+14h ago
 
   [](https://www.cricbuzz.com/cricket-news/132308/ajaz-fifer-puts-game-in-the-balance "Ajaz fifer puts game in the balance")
 
 [Ajaz fifer puts game in the balance](https://www.cricbuzz.com/cricket-news/132308/ajaz-fifer-puts-game-in-the-balance "Ajaz fifer puts game in the balance")
 
-10h ago
+16h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
