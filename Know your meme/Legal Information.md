@@ -122,7 +122,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[AI Generated Minecraft](https://knowyourmeme.com/memes/ai-generated-minecraft "AI Generated Minecraft") [Dragon Age Veilguard Reviews Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-reviews-controversy "Dragon Age Veilguard Reviews Controversy") [Resilient Jenkins](https://knowyourmeme.com/memes/people/resilient-jenkins-jenkins-resilience-crew "Resilient Jenkins") [Wait a Minute, I'm White!](https://knowyourmeme.com/memes/wait-a-minute-im-white "Wait a Minute, I'm White!")
+[Dragon Age Veilguard Reviews Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-reviews-controversy "Dragon Age Veilguard Reviews Controversy") [AI Generated Minecraft](https://knowyourmeme.com/memes/ai-generated-minecraft "AI Generated Minecraft") [Resilient Jenkins](https://knowyourmeme.com/memes/people/resilient-jenkins-jenkins-resilience-crew "Resilient Jenkins")
 
 Copyright Infringement Notice
 =============================
@@ -188,7 +188,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hauu! You must login or signup first!
+### Hi! You must login or signup first!
 
 |     |     |
 | --- | --- |
