@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
-* [Lebens­versicherung: Höherer Garan­tiezins ab 2025](https://www.test.de/Lebensversicherung-Hoeherer-Garantiezins-ab-2025-6140352-0/ "Lebensversicherung - Höherer Garantiezins ab 2025")
-* [Verpackungs­ärger: Poppadom Linsenchips](https://www.test.de/Verpackungsaerger-Poppadom-Linsenchips-6095390-0/ "Verpackungsärger - Poppadom Linsenchips")
-* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
-* [Barrierefrei reisen: Urlaub ohne Hinder­nisse](https://www.test.de/Barrierefrei-reisen-Urlaub-ohne-Hindernisse-6024514-0/ "Barrierefrei reisen - Urlaub ohne Hindernisse")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
+* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
+* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
+* [Diät­konzepte im Test: Welche Diät beim Abnehmen hilft](https://www.test.de/Diaetkonzepte-im-Test-Welche-Diaet-beim-Abnehmen-hilft-6072458-0/ "Diätkonzepte im Test - Welche Diät beim Abnehmen hilft")
+* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
-* [Lebens­versicherung: Höherer Garan­tiezins ab 2025](https://www.test.de/Lebensversicherung-Hoeherer-Garantiezins-ab-2025-6140352-0/ "Lebensversicherung - Höherer Garantiezins ab 2025")
-* [Verpackungs­ärger: Poppadom Linsenchips](https://www.test.de/Verpackungsaerger-Poppadom-Linsenchips-6095390-0/ "Verpackungsärger - Poppadom Linsenchips")
-* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
-* [Barrierefrei reisen: Urlaub ohne Hinder­nisse](https://www.test.de/Barrierefrei-reisen-Urlaub-ohne-Hindernisse-6024514-0/ "Barrierefrei reisen - Urlaub ohne Hindernisse")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
+* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
+* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
+* [Diät­konzepte im Test: Welche Diät beim Abnehmen hilft](https://www.test.de/Diaetkonzepte-im-Test-Welche-Diaet-beim-Abnehmen-hilft-6072458-0/ "Diätkonzepte im Test - Welche Diät beim Abnehmen hilft")
+* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
-* [Lebens­versicherung: Höherer Garan­tiezins ab 2025](https://www.test.de/Lebensversicherung-Hoeherer-Garantiezins-ab-2025-6140352-0/ "Lebensversicherung - Höherer Garantiezins ab 2025")
-* [Verpackungs­ärger: Poppadom Linsenchips](https://www.test.de/Verpackungsaerger-Poppadom-Linsenchips-6095390-0/ "Verpackungsärger - Poppadom Linsenchips")
-* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
-* [Barrierefrei reisen: Urlaub ohne Hinder­nisse](https://www.test.de/Barrierefrei-reisen-Urlaub-ohne-Hindernisse-6024514-0/ "Barrierefrei reisen - Urlaub ohne Hindernisse")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
+* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
+* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
+* [Diät­konzepte im Test: Welche Diät beim Abnehmen hilft](https://www.test.de/Diaetkonzepte-im-Test-Welche-Diaet-beim-Abnehmen-hilft-6072458-0/ "Diätkonzepte im Test - Welche Diät beim Abnehmen hilft")
+* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
-* [Lebens­versicherung: Höherer Garan­tiezins ab 2025](https://www.test.de/Lebensversicherung-Hoeherer-Garantiezins-ab-2025-6140352-0/ "Lebensversicherung - Höherer Garantiezins ab 2025")
-* [Verpackungs­ärger: Poppadom Linsenchips](https://www.test.de/Verpackungsaerger-Poppadom-Linsenchips-6095390-0/ "Verpackungsärger - Poppadom Linsenchips")
-* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
-* [Barrierefrei reisen: Urlaub ohne Hinder­nisse](https://www.test.de/Barrierefrei-reisen-Urlaub-ohne-Hindernisse-6024514-0/ "Barrierefrei reisen - Urlaub ohne Hindernisse")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
+* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
+* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
+* [Diät­konzepte im Test: Welche Diät beim Abnehmen hilft](https://www.test.de/Diaetkonzepte-im-Test-Welche-Diaet-beim-Abnehmen-hilft-6072458-0/ "Diätkonzepte im Test - Welche Diät beim Abnehmen hilft")
+* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
 
 Service Stiftung Warentest
 
