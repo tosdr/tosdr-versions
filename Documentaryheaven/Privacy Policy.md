@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![A Cow At My Table](/wp-content/thumbnails/1378-100x70.jpg?x53432)
+* [![The Great Famine](/wp-content/thumbnails/8866-100x70.jpg?x53432)
     
-    A Cow At My Table
+    The Great Famine
     
-    A Cow at My Table is a documentary film examining Western attitudes towards farm animals and meat.It covers the conflict between animal rights advocates and the meat industry, and their respective](https://documentaryheaven.com/a-cow-at-my-table/ "A Cow At My Table")
-* [![Provos: The Secret War](/wp-content/thumbnails/3478-100x70.jpg?x53432)
+    The Great Famine was a period of mass starvation, disease and emigration in Ireland between 1845 and 1852. It is sometimes referred to, mostly outside Ireland, as the Irish Potato Famine because one-t](https://documentaryheaven.com/great-famine/ "The Great Famine")
+* [![Ground Zero: Syria](/wp-content/thumbnails/6864-100x70.jpg?x53432)
     
-    Provos: The Secret War
+    Ground Zero: Syria
     
-    Where does one begin with the IRA? In the 17th century with the first Protestant settlers in the Northeast of Ireland? With Patrick Pearse's seizure of the GPO building in Dublin in 1916? With the P](https://documentaryheaven.com/provos-the-secret-war/ "Provos: The Secret War")
-* [![The Human Microchipping Agenda](/wp-content/thumbnails/7018-100x70.jpg?x53432)
+    Ground Zero: Syria is a compiled photojournalist and videographer Robert King’s footage into a series of raw, largely unedited vignettes that present a snapshot of the ancient city as it crumbles and](https://documentaryheaven.com/ground-zero-syria/ "Ground Zero: Syria")
+* [![Kim Dotcom: Caught in the Web](/wp-content/thumbnails/16611-100x70.jpg?x53432)
     
-    The Human Microchipping Agenda
+    Kim Dotcom: Caught in the Web
     
-    A documentary that confronts the microchipping agenda, showing that the weapon of propaganda has been used against the public for decades in order to familiarize us with the idea of being chipped.](https://documentaryheaven.com/human-microchipping-agenda/ "The Human Microchipping Agenda")
-* [![They Chose China](/wp-content/thumbnails/1049-100x70.jpg?x53432)
+    In 2012, the filesharing site MegaUpload is taken offline, its owners accused of massive internet piracy. In 2016 the independent filmmakers of this documentary finally managed to secure an interview](https://documentaryheaven.com/kim-dotcom-caught-in-web/ "Kim Dotcom: Caught in the Web")
+* [![World’s Scariest Ghosts Caught on Tape](/wp-content/thumbnails/3242-100x70.jpg?x53432)
     
-    They Chose China
+    World’s Scariest Ghosts Caught on Tape
     
-    In January 1954, months after the end of the Korean War, U.S. soldiers held in POW camps were at last free to return home. A small group, however, refused repatriation to the U.S. and, after being giv](https://documentaryheaven.com/they-chose-china/ "They Chose China")
-* [![Gravity and Me: The Force that Shapes our Lives](/wp-content/thumbnails/14822-100x70.jpg?x53432)
+    Everyone has heard ghost stories, but what if those stories were true?Hosted by James Coburn, this show investigates some modern ghost tales in which possible evidence of the supernatural has show](https://documentaryheaven.com/world%e2%80%99s-scariest-ghosts-caught-on-tape/ "World’s Scariest Ghosts Caught on Tape")
+* [![Rungs in a Ladder: Jacob Bannon](/wp-content/thumbnails/6910-100x70.jpg?x53432)
     
-    Gravity and Me: The Force that Shapes our Lives
+    Rungs in a Ladder: Jacob Bannon
     
-    Would you like to loose a little bit of weight without doing any exercise or dieting? Or perhaps age just a little slower than your friends? Well you might be surprised to hear that the laws of physic](https://documentaryheaven.com/gravity-me-force-that-shapes-our-lives/ "Gravity and Me: The Force that Shapes our Lives")
+    "Rungs in a Ladder" is the latest short form documentary by production team McFarland and Pecci. A meditation on life, art, and purpose, the film centers on Jacob Bannon, an accomplished visual artist](https://documentaryheaven.com/rungs-in-a-ladder-jacob-bannon/ "Rungs in a Ladder: Jacob Bannon")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
