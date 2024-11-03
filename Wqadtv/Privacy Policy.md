@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/86a370bc-4cdf-4939-bb21-a699ab8434cd/20241103T030702/86a370bc-4cdf-4939-bb21-a699ab8434cd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/86a370bc-4cdf-4939-bb21-a699ab8434cd/20241103T030702/86a370bc-4cdf-4939-bb21-a699ab8434cd_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e44f90d5-d84e-4265-9a8f-c251c2ddc386/20241103T131240/e44f90d5-d84e-4265-9a8f-c251c2ddc386_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e44f90d5-d84e-4265-9a8f-c251c2ddc386/20241103T131240/e44f90d5-d84e-4265-9a8f-c251c2ddc386_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [On and off rain chances next few days starting later tonight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Plenty of rain chances next few days](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/CCT/images/b1e01515-82dd-44ad-8a0b-57c01077f448/20241101T112918/b1e01515-82dd-44ad-8a0b-57c01077f448_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/b1e01515-82dd-44ad-8a0b-57c01077f448/20241101T112918/b1e01515-82dd-44ad-8a0b-57c01077f448_360x203.jpg)](https://www.wqad.com/article/news/nation-world/3-days-after-historic-floods-at-least-158-dead-spain/507-f60dff0f-6da0-435c-a4cb-307248d57aff)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-48°
+49°
 
-![Rain Shower](/assets/shared-images/weather-icons/drizzle-night_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
