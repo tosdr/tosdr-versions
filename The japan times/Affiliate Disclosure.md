@@ -143,13 +143,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![The Dodgers' Shohei Ohtani embraces teammate Enrique Hernandez following Game 5 of the World Series at Yankee Stadium in New York on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431591.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Dodgers' Shohei Ohtani embraces teammate Enrique Hernandez following Game 5 of the World Series at Yankee Stadium in New York on Wednesday.")](https://www.japantimes.co.jp/sports/2024/11/01/baseball/shohei-ohtani-world-series-future/ "Shohei Ohtani in position to continue winning after first World Series title")
 
+[In pictures: Dodgers fans fete World Series title with party fit for Hollywood](https://www.japantimes.co.jp/sports/2024/11/02/baseball/mlb/dodgers-party-world-series/ "In pictures: Dodgers fans fete World Series title with party fit for Hollywood")
+
+  [![Shohei Ohtani speaks during the Dodgers' World Series celebration on Friday at Dodger Stadium in Los Angeles. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431804.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani speaks during the Dodgers' World Series celebration on Friday at Dodger Stadium in Los Angeles. ")](https://www.japantimes.co.jp/sports/2024/11/02/baseball/mlb/dodgers-party-world-series/ "In pictures: Dodgers fans fete World Series title with party fit for Hollywood")
+
 [Ishiba to meet with U.S. and Chinese leaders during multilateral summits](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
 
   [![Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431770.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ")](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
-
-[At Japan’s hottest festival, crowds threaten to smother the flames](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
-
-  [![The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431318.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.")](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
 
 Editors' Picks
 --------------
@@ -176,19 +176,19 @@ By [Jason Coskrey](https://www.japantimes.co.jp/author/181/jason-coskrey/ "Jason
 
   [![The Dodgers' Shohei Ohtani embraces teammate Enrique Hernandez following Game 5 of the World Series at Yankee Stadium in New York on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431591.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Dodgers' Shohei Ohtani embraces teammate Enrique Hernandez following Game 5 of the World Series at Yankee Stadium in New York on Wednesday.")](https://www.japantimes.co.jp/sports/2024/11/01/baseball/shohei-ohtani-world-series-future/ "Shohei Ohtani in position to continue winning after first World Series title")
 
+[BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
+
+[In pictures: Dodgers fans fete World Series title with party fit for Hollywood](https://www.japantimes.co.jp/sports/2024/11/02/baseball/mlb/dodgers-party-world-series/ "In pictures: Dodgers fans fete World Series title with party fit for Hollywood")
+
+By [Joshua Mellin](https://www.japantimes.co.jp/author/5840/joshua-mellin/ "Joshua Mellin")  
+
+  [![Shohei Ohtani speaks during the Dodgers' World Series celebration on Friday at Dodger Stadium in Los Angeles. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431804.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani speaks during the Dodgers' World Series celebration on Friday at Dodger Stadium in Los Angeles. ")](https://www.japantimes.co.jp/sports/2024/11/02/baseball/mlb/dodgers-party-world-series/ "In pictures: Dodgers fans fete World Series title with party fit for Hollywood")
+
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
 [Ishiba to meet with U.S. and Chinese leaders during multilateral summits](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
 
   [![Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431770.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ")](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
-
-[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
-
-[At Japan’s hottest festival, crowds threaten to smother the flames](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
-
-By [Shawn B. Swinger](https://www.japantimes.co.jp/author/5552/shawn-b-swinger/ "Shawn B. Swinger")  
-
-  [![The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431318.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.")](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
 
 Podcast
 -------
@@ -209,9 +209,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[How global lessons can improve prospects for women in rural Japan](https://www.japantimes.co.jp/business/2024/11/03/women-work-asako-osaki/ "How global lessons can improve prospects for women in rural Japan")
-
-6 mins ago
-
-[Biden left the presidential race, but his legacy depends on it](https://www.japantimes.co.jp/news/2024/11/03/world/politics/joe-biden-legacy-election/ "Biden left the presidential race, but his legacy depends on it")
+[Spate of robberies in Kanto highlight importance of home security](https://www.japantimes.co.jp/news/2024/11/03/japan/crime-legal/japan-robbery-safeguard/ "Spate of robberies in Kanto highlight importance of home security")
 
 2 hours ago
 
-[Iran’s supreme leader threatens Israel with ‘crushing response’ to strikes](https://www.japantimes.co.jp/news/2024/11/03/world/iran-leader-threatens-israel/ "Iran’s supreme leader threatens Israel with ‘crushing response’ to strikes")
+[Former Rengo head Koga urges CDP, DPP to merge](https://www.japantimes.co.jp/news/2024/11/03/japan/politics/japan-rengo-koga-opposition-parties/ "Former Rengo head Koga urges CDP, DPP to merge")
 
-3 hours ago
+4 hours ago
 
-[North Korean white paper says South’s president has raised risk of nuclear war](https://www.japantimes.co.jp/news/2024/11/03/asia-pacific/politics/north-korea-white-paper/ "North Korean white paper says South’s president has raised risk of nuclear war")
+[Status quo or disruption? Breaking down the U.S. election's impact on Japan](https://www.japantimes.co.jp/news/2024/11/03/japan/politics/us-presidential-election-japan-preview/ "Status quo or disruption? Breaking down the U.S. election's impact on Japan")
 
-3 hours ago
+4 hours ago
 
-[Amid flood cleanup in Spain, residents try to make sense of the disaster](https://www.japantimes.co.jp/news/2024/11/03/world/spain-flooding-clean-up/ "Amid flood cleanup in Spain, residents try to make sense of the disaster")
+[Japan recognizes 3,987 people in autumn honors](https://www.japantimes.co.jp/news/2024/11/03/japan/japan-autumn-honors/ "Japan recognizes 3,987 people in autumn honors")
 
-3 hours ago
+5 hours ago
+
+[How global lessons can improve prospects for women in rural Japan](https://www.japantimes.co.jp/business/2024/11/03/women-work-asako-osaki/ "How global lessons can improve prospects for women in rural Japan")
+
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
