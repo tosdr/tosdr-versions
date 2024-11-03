@@ -1,6 +1,6 @@
 [comma](https://comma.ai/)
 
-[openpilot](https://comma.ai/openpilot) [comma 3X](https://comma.ai/shop/comma-3x) [shop](https://comma.ai/shop) [connect](https://comma.ai/connect) [compatibility](https://comma.ai/vehicles) [setup guides](https://comma.ai/setup) [support & FAQs](https://comma.ai/support) [blog](https://blog.comma.ai/) [jobs - we're hiring!](https://github.com/commaai/jobs)
+[openpilot](https://comma.ai/openpilot) [comma 3X](https://comma.ai/shop/comma-3x) [shop](https://comma.ai/shop) [connect](https://comma.ai/connect) [compatibility](https://comma.ai/vehicles) [setup guides](https://comma.ai/setup) [support & FAQs](https://comma.ai/support) [blog](https://blog.comma.ai/) [jobs - we're hiring!](https://comma.ai/jobs.html)
 
 Latest from the blog:
 
@@ -129,7 +129,7 @@ new](https://comma.ai/shop/comma-3x)[body](https://comma.ai/shop/body) [connect]
 
 **Company** [Blog](https://blog.comma.ai/) [Jobs
 
-we're hiring!](https://github.com/commaai/jobs)[Leaderboard
+we're hiring!](https://comma.ai/jobs.html)[Leaderboard
 
 New Challenge!](https://comma.ai/leaderboard.html)
 
