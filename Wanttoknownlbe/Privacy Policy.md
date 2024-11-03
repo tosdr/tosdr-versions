@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/hpv-vaccin-gardasil-vernielt-eierstokken-jonge-vrouw/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/merck-35-miljoen-voor-website-vaccin-promoties/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
