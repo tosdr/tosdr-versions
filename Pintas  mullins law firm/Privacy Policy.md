@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Is spectracide safer than roundup?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-is-spectracide-safer-than-roundup.jpg "Is Spectracide Safer Than Roundup?")](https://www.pintas.com/lawsuit/roundup-weed-killer/is-spectracide-safer-than-roundup/ "Is Spectracide Safer Than Roundup?")
+[![Can copd be caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-copd-be-caused-by-asbestos.jpg "Can COPD Be Caused By Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/can-copd-be-caused-by-asbestos/ "Can COPD Be Caused By Asbestos?")
 
-[#### Is Spectracide Safer Than Roundup?](https://www.pintas.com/lawsuit/roundup-weed-killer/is-spectracide-safer-than-roundup/)
+[#### Can COPD Be Caused By Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/can-copd-be-caused-by-asbestos/)
 
-[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-abuse-common-in-the-mormon-church/ "Is Clergy Sexual Abuse Common in the Mormon Church?")
+[![What is a healthy alternative to baby powder?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-is-a-healthy-alternative-to-baby-powder.jpg "What Is a Healthy Alternative to Baby Powder?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/baby-powder-alternatives "What Is a Healthy Alternative to Baby Powder?")
 
-[#### Is Clergy Sexual Abuse Common in the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-abuse-common-in-the-mormon-church/)
+[#### What Is a Healthy Alternative to Baby Powder?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/baby-powder-alternatives)
 
-[![How do you get mesothelioma lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-how-do-you-get-mesothelioma-lung-cancer.jpg "How Do You Get Mesothelioma Lung Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-mesothelioma-lung-cancer/ "How Do You Get Mesothelioma Lung Cancer?")
+[![Can i file a sex abuse claim against the mormon church anonymously?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-2-300x201.jpg "Can I File a Sex Abuse Claim Against the Mormon Church Anonymously?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/can-i-file-a-sexual-abuse-claim-against-the-mormon-church-anonymously/ "Can I File a Sex Abuse Claim Against the Mormon Church Anonymously?")
 
-[#### How Do You Get Mesothelioma Lung Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-mesothelioma-lung-cancer/)
+[#### Can I File a Sex Abuse Claim Against the Mormon Church Anonymously?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/can-i-file-a-sexual-abuse-claim-against-the-mormon-church-anonymously/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
