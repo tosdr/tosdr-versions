@@ -1,24 +1,10 @@
 [](https://modrinth.com/)
 
-[Mods](https://modrinth.com/mods)
+Discover contentDiscover
 
-[Resource Packs](https://modrinth.com/resourcepacks)
+[Host a server](https://modrinth.com/servers)
 
-[Data Packs](https://modrinth.com/datapacks)
-
-[Modpacks](https://modrinth.com/modpacks)
-
-[Shaders](https://modrinth.com/shaders)
-
-[Plugins](https://modrinth.com/plugins)
-
-Browse
-
-[Mods](https://modrinth.com/mods) [Resource Packs](https://modrinth.com/resourcepacks) [Data Packs](https://modrinth.com/datapacks) [Plugins](https://modrinth.com/plugins) [Shaders](https://modrinth.com/shaders) [Modpacks](https://modrinth.com/modpacks)
-
-More
-
-[Get Modrinth App](https://modrinth.com/app) [Upgrade to Modrinth+](https://modrinth.com/plus)
+[Get Modrinth AppModrinth App](https://modrinth.com/app)
 
 [Sign in](https://modrinth.com/auth/sign-in)
 
@@ -80,7 +66,7 @@ _Version 2022-11_
 
 Modrinth is [open source](https://github.com/modrinth).
 
-prod@[20e3f5f](https://github.com/modrinth/code/tree/20e3f5f3a27498ba706412ae31427b10919acf56)
+prod@[7c4dcb2](https://github.com/modrinth/code/tree/7c4dcb281739f59d63b26710ce2d643f1c24c67c)
 
 © Rinth, Inc.
 
