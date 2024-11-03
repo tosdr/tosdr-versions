@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Official_Data676](https://www.clubedohardware.com.br/uploads/members/monthly_2021_05/imported-photo-1156208.thumb.jpeg.409fed5c646791266a7cb7f42930425d.jpeg)](https://www.clubedohardware.com.br/profile/1156208-official_data676/ "Ir ao perfil de Official_Data676")
+    * [![_Gabriel V](https://www.clubedohardware.com.br/uploads/members/monthly_2020_04/panteeera.thumb.jpg.b56336548b1db5987b58800813d2749f.jpg)](https://www.clubedohardware.com.br/profile/1072063-_gabriel-v/ "Ir ao perfil de _Gabriel V")
         
         0
         
-        [peças boas para montagem de pc gamer](https://www.clubedohardware.com.br/forums/topic/1701312-pe%C3%A7as-boas-para-montagem-de-pc-gamer/?do=getNewComment "peças boas para montagem de pc gamer")
+        VENDO [Tablet Xiaomi Redmi Pad 10.61 128gb 4gb De memória RAM](https://www.clubedohardware.com.br/forums/topic/1701338-tablet-xiaomi-redmi-pad-1061-128gb-4gb-de-mem%C3%B3ria-ram/?do=getNewComment "Tablet Xiaomi Redmi Pad 10.61 128gb 4gb De memória RAM")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Official\_Data676](https://www.clubedohardware.com.br/profile/1156208-official_data676/ "Ir ao perfil de Official_Data676")  
-        agora
+        [Classificados](https://www.clubedohardware.com.br/forums/forum/50-classificados/ "Classificados")  
+        Por [\_Gabriel V](https://www.clubedohardware.com.br/profile/1072063-_gabriel-v/ "Ir ao perfil de _Gabriel V")  
+        5 minutos atrás
         
-    * [![Davi DS](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23a462c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EDD%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/882058-davi-ds/ "Ir ao perfil de Davi DS")
+    * [![TtyZz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255466.thumb.jpeg.1ec7c7b2992d2a8914d8b98eec1e7e8f.jpeg)](https://www.clubedohardware.com.br/profile/1255466-ttyzz/ "Ir ao perfil de TtyZz")
         
         0
         
-        [Internet via cabo parou de funcionar acima de 10mb de velocidade](https://www.clubedohardware.com.br/forums/topic/1701310-internet-via-cabo-parou-de-funcionar-acima-de-10mb-de-velocidade/?do=getNewComment "Internet via cabo parou de funcionar acima de 10mb de velocidade")
+        [Defeito na placa-mãe (Power led + e -)](https://www.clubedohardware.com.br/forums/topic/1701337-defeito-na-placa-m%C3%A3e-power-led-e/?do=getNewComment "Defeito na placa-mãe (Power led + e -)")
         
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [Davi DS](https://www.clubedohardware.com.br/profile/882058-davi-ds/ "Ir ao perfil de Davi DS")  
-        54 minutos atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [TtyZz](https://www.clubedohardware.com.br/profile/1255466-ttyzz/ "Ir ao perfil de TtyZz")  
+        9 minutos atrás
         
-    * [![RAFAELYUNES](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254835.thumb.jpeg.fb99c0074c94ebf711fba8e7958d09d2.jpeg)](https://www.clubedohardware.com.br/profile/1254835-rafaelyunes/ "Ir ao perfil de RAFAELYUNES")
+    * [![Guilherme Espíndola](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4627f%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EGE%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/930427-guilherme-esp%C3%ADndola/ "Ir ao perfil de Guilherme Espíndola")
+        
+        0
+        
+        [Pen-Drive - Local não disponível e erro ao aplicar segurança](https://www.clubedohardware.com.br/forums/topic/1701336-pen-drive-local-n%C3%A3o-dispon%C3%ADvel-e-erro-ao-aplicar-seguran%C3%A7a/?do=getNewComment "Pen-Drive - Local não disponível e erro ao aplicar segurança")
+        
+        [Pen drives e cartões de memória](https://www.clubedohardware.com.br/forums/forum/142-pen-drives-e-cart%C3%B5es-de-mem%C3%B3ria/ "Pen drives e cartões de memória")  
+        Por [Guilherme Espíndola](https://www.clubedohardware.com.br/profile/930427-guilherme-esp%C3%ADndola/ "Ir ao perfil de Guilherme Espíndola")  
+        13 minutos atrás
+        
+    * [![Kelvin Meneses](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255464.thumb.png.0e1e069d7830e2e89a6bf09f5876aede.png)](https://www.clubedohardware.com.br/profile/1255464-kelvin-meneses/ "Ir ao perfil de Kelvin Meneses")
         
         1
         
-        [Fonte MSI MAG A650BN para Radeon RX6600 e Ryzen 5 5600 vale ou é bomba?](https://www.clubedohardware.com.br/forums/topic/1701309-fonte-msi-mag-a650bn-para-radeon-rx6600-e-ryzen-5-5600-vale-ou-%C3%A9-bomba/?do=getNewComment "Fonte MSI MAG A650BN para Radeon RX6600 e Ryzen 5 5600 vale ou é bomba?")
+        [Estou realizando um sonho Sem muita experiência](https://www.clubedohardware.com.br/forums/topic/1701335-estou-realizando-um-sonho-sem-muita-experi%C3%AAncia/?do=getNewComment "Estou realizando um sonho Sem muita experiência")
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [RAFAELYUNES](https://www.clubedohardware.com.br/profile/1254835-rafaelyunes/ "Ir ao perfil de RAFAELYUNES")  
-        1 hora atrás
+        Por [Kelvin Meneses](https://www.clubedohardware.com.br/profile/1255464-kelvin-meneses/ "Ir ao perfil de Kelvin Meneses")  
+        27 minutos atrás
         
-    * [![tiowk](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253007.thumb.png.8e8901cf78f4d53631ae178f7cbc1987.png)](https://www.clubedohardware.com.br/profile/1253007-tiowk/ "Ir ao perfil de tiowk")
-        
-        1
-        
-        [Upgrade de placa de vídeo até R$2.500,00 nessa black friday, sugestões?](https://www.clubedohardware.com.br/forums/topic/1701308-upgrade-de-placa-de-v%C3%ADdeo-at%C3%A9-r250000-nessa-black-friday-sugest%C3%B5es/?do=getNewComment "Upgrade de placa de vídeo até R$2.500,00 nessa black friday, sugestões?")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [tiowk](https://www.clubedohardware.com.br/profile/1253007-tiowk/ "Ir ao perfil de tiowk")  
-        1 hora atrás
-        
-    * [![CoebbitGG](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255445.thumb.png.75100088c9cc031bc980eeb5e392c928.png)](https://www.clubedohardware.com.br/profile/1255445-coebbitgg/ "Ir ao perfil de CoebbitGG")
-        
-        2
-        
-        [Meu computador dá energia mas sem vídeo](https://www.clubedohardware.com.br/forums/topic/1701307-meu-computador-d%C3%A1-energia-mas-sem-v%C3%ADdeo/?do=getNewComment "Meu computador dá energia mas sem vídeo")
-        
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [CoebbitGG](https://www.clubedohardware.com.br/profile/1255445-coebbitgg/ "Ir ao perfil de CoebbitGG")  
-        1 hora atrás
-        
-    * [![Mickael8696](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255443.thumb.png.2f010c7c451bca05fe0451cf67d0e4b3.png)](https://www.clubedohardware.com.br/profile/1255443-mickael8696/ "Ir ao perfil de Mickael8696")
-        
-        2
-        
-        [Placa de Vídeo GeForce RTX 4060 em placa-mãe PCIe 3.0, tem problema?](https://www.clubedohardware.com.br/forums/topic/1701306-placa-de-v%C3%ADdeo-geforce-rtx-4060-em-placa-m%C3%A3e-pcie-30-tem-problema/?do=getNewComment "Placa de Vídeo GeForce RTX 4060 em placa-mãe PCIe 3.0, tem problema?")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Mickael8696](https://www.clubedohardware.com.br/profile/1255443-mickael8696/ "Ir ao perfil de Mickael8696")  
-        1 hora atrás
-        
-    * [![JpGazeto](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/2995e9666a5d3aaedad00e2322f2d08e4fc58977_hq.thumb.gif.d0873d911a0533606d37c655cc53f4a8.gif)](https://www.clubedohardware.com.br/profile/631634-jpgazeto/ "Ir ao perfil de JpGazeto")
+    * [![LeonardoCandinho](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254562.thumb.jpeg.0ec31fba06a61cd6c8e3cafb361a8d74.jpeg)](https://www.clubedohardware.com.br/profile/1254562-leonardocandinho/ "Ir ao perfil de LeonardoCandinho")
         
         0
         
-        [Upgrade na GPU e Fonte até R$4500](https://www.clubedohardware.com.br/forums/topic/1701305-upgrade-na-gpu-e-fonte-at%C3%A9-r4500/?do=getNewComment "Upgrade na GPU e Fonte até R$4500")
+        [Ryzen 5 3600+RTX 4060ti não consegue nem rodar o lol direito](https://www.clubedohardware.com.br/forums/topic/1701334-ryzen-5-3600rtx-4060ti-n%C3%A3o-consegue-nem-rodar-o-lol-direito/?do=getNewComment "Ryzen 5 3600+RTX 4060ti não consegue nem rodar o lol direito")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [JpGazeto](https://www.clubedohardware.com.br/profile/631634-jpgazeto/ "Ir ao perfil de JpGazeto")  
-        1 hora atrás
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [LeonardoCandinho](https://www.clubedohardware.com.br/profile/1254562-leonardocandinho/ "Ir ao perfil de LeonardoCandinho")  
+        59 minutos atrás
         
-    * [![DaniloBrito](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1247667.thumb.png.5b33c473da96ef9f19da602beea51633.png)](https://www.clubedohardware.com.br/profile/1247667-danilobrito/ "Ir ao perfil de DaniloBrito")
+    * [![Gabriel Henrique9858](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251449.thumb.png.a173d8dd84fce4abaed32e8639b26391.png)](https://www.clubedohardware.com.br/profile/1251449-gabriel-henrique9858/ "Ir ao perfil de Gabriel Henrique9858")
         
         0
         
-        Outro [Botão em HMTL que imprime apenas uma imagem .jpg](https://www.clubedohardware.com.br/forums/topic/1701304-bot%C3%A3o-em-hmtl-que-imprime-apenas-uma-imagem-jpg/?do=getNewComment "Botão em HMTL que imprime apenas uma imagem .jpg")
-        
-        [Programação - iniciantes](https://www.clubedohardware.com.br/forums/forum/181-programa%C3%A7%C3%A3o-iniciantes/ "Programação - iniciantes")  
-        Por [DaniloBrito](https://www.clubedohardware.com.br/profile/1247667-danilobrito/ "Ir ao perfil de DaniloBrito")  
-        1 hora atrás
-        
-    * [![Silvazx](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/file.thumb.jpeg.9c0adcc507712f8681aed378f4dcb337.jpeg)](https://www.clubedohardware.com.br/profile/1254269-silvazx/ "Ir ao perfil de Silvazx")
-        
-        4
-        
-        [Ryzen 7 8700f ou Ryzen 7 5700x3D?](https://www.clubedohardware.com.br/forums/topic/1701303-ryzen-7-8700f-ou-ryzen-7-5700x3d/?do=getNewComment "Ryzen 7 8700f ou Ryzen 7 5700x3D?")
+        [Letra no meio do processador intel.](https://www.clubedohardware.com.br/forums/topic/1701331-letra-no-meio-do-processador-intel/?do=getNewComment "Letra no meio do processador intel.")
         
         [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Silvazx](https://www.clubedohardware.com.br/profile/1254269-silvazx/ "Ir ao perfil de Silvazx")  
+        Por [Gabriel Henrique9858](https://www.clubedohardware.com.br/profile/1251449-gabriel-henrique9858/ "Ir ao perfil de Gabriel Henrique9858")  
         1 hora atrás
         
-    * [![Minato4](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255442.thumb.png.1b9620a2f3d6f7fb54208d8e6721be29.png)](https://www.clubedohardware.com.br/profile/1255442-minato4/ "Ir ao perfil de Minato4")
+    * [![vitorzs](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1168970.thumb.png.746e2293c90309b740a3f22d13f6f554.png)](https://www.clubedohardware.com.br/profile/1168970-vitorzs/ "Ir ao perfil de vitorzs")
         
-        2
+        3
         
-        [Rise mode Zeus 550W suporta Ryzen 5 5600GT e Radeon RX 6600?](https://www.clubedohardware.com.br/forums/topic/1701302-rise-mode-zeus-550w-suporta-ryzen-5-5600gt-e-radeon-rx-6600/?do=getNewComment "Rise mode Zeus 550W suporta Ryzen 5 5600GT e Radeon RX 6600?")
+        [Rx 6650 XT XFX Swift começa a usar 100% da tensão mas o consumo cai em 40W](https://www.clubedohardware.com.br/forums/topic/1701330-rx-6650-xt-xfx-swift-come%C3%A7a-a-usar-100-da-tens%C3%A3o-mas-o-consumo-cai-em-40w/?do=getNewComment "Rx 6650 XT XFX Swift começa a usar 100% da tensão mas o consumo cai em 40W")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Minato4](https://www.clubedohardware.com.br/profile/1255442-minato4/ "Ir ao perfil de Minato4")  
-        1 hora atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [vitorzs](https://www.clubedohardware.com.br/profile/1168970-vitorzs/ "Ir ao perfil de vitorzs")  
+        2 horas atrás
+        
+    * [![Fabricio S S J](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462a0%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EFS%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253956-fabricio-s-s-j/ "Ir ao perfil de Fabricio S S J")
+        
+        0
+        
+        [teclado desligando sozinho, aterramento resolve?](https://www.clubedohardware.com.br/forums/topic/1701329-teclado-desligando-sozinho-aterramento-resolve/?do=getNewComment "teclado desligando sozinho, aterramento resolve?")
+        
+        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
+        Por [Fabricio S S J](https://www.clubedohardware.com.br/profile/1253956-fabricio-s-s-j/ "Ir ao perfil de Fabricio S S J")  
+        2 horas atrás
+        
+    * [![Iz4](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255457.thumb.png.4f5a0c708b6948746e12c0b4ccba0c47.png)](https://www.clubedohardware.com.br/profile/1255457-iz4/ "Ir ao perfil de Iz4")
+        
+        0
+        
+        [BIOS reconhece meu SSD e pendrive, mas ao dar boot, aparece o erro “Select boot](https://www.clubedohardware.com.br/forums/topic/1701327-bios-reconhece-meu-ssd-e-pendrive-mas-ao-dar-boot-aparece-o-erro-%E2%80%9Cselect-boot/?do=getNewComment "BIOS reconhece meu SSD e pendrive, mas ao dar boot, aparece o erro “Select boot")
+        
+        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
+        Por [Iz4](https://www.clubedohardware.com.br/profile/1255457-iz4/ "Ir ao perfil de Iz4")  
+        2 horas atrás
+        
+    * [![O tal do Boechat](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1234753.thumb.jpeg.2d70c13f594c4049dc05132c165fe630.jpeg)](https://www.clubedohardware.com.br/profile/1234753-o-tal-do-boechat/ "Ir ao perfil de O tal do Boechat")
+        
+        1
+        
+        [Cursor do mouse agindo estranhamente, ficando escuro e dando atrasos](https://www.clubedohardware.com.br/forums/topic/1701325-cursor-do-mouse-agindo-estranhamente-ficando-escuro-e-dando-atrasos/?do=getNewComment "Cursor do mouse agindo estranhamente, ficando escuro e dando atrasos")
+        
+        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
+        Por [O tal do Boechat](https://www.clubedohardware.com.br/profile/1234753-o-tal-do-boechat/ "Ir ao perfil de O tal do Boechat")  
+        3 horas atrás
         
     
 
