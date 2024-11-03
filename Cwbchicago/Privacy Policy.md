@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Sidi-Mohamed-Abdallahi-326x245.jpg)](https://cwbchicago.com/2024/10/terrorism-hate-crime-charges-added-in-weekend-shooting-of-jewish-man-after-cops-crack-suspects-phone.html "Terrorism, hate crime charges added in weekend shooting of Jewish man after cops crack suspect’s phone")
+
+West Rogers Park
+
+### [Terrorism, hate crime charges added in weekend shooting of Jewish man after cops crack suspect’s phone](https://cwbchicago.com/2024/10/terrorism-hate-crime-charges-added-in-weekend-shooting-of-jewish-man-after-cops-crack-suspects-phone.html "Terrorism, hate crime charges added in weekend shooting of Jewish man after cops crack suspect’s phone")
+
+[October 31, 2024 5:03 PM](https://cwbchicago.com/2024/10)
+
+Officials on Thursday announced the addition of hate crime and terrorism charges against the man accused of shooting a Jewish man in West Rogers Park over the weekend. [](https://cwbchicago.com/2024/10/terrorism-hate-crime-charges-added-in-weekend-shooting-of-jewish-man-after-cops-crack-suspects-phone.html "Terrorism, hate crime charges added in weekend shooting of Jewish man after cops crack suspect’s phone")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/TREVONTE-D-REYNOLDS--326x245.jpg)](https://cwbchicago.com/2024/10/hijacker-took-victim-on-40-minute-horror-ride-then-crashed-in-a-fiery-explosion-prosecutors.html "Hijacker took delivery driver on 40-minute horror ride, then crashed in a fiery explosion: prosecutors")
 
 Auburn Gresham
@@ -262,16 +272,6 @@ Edgewater
 [October 31, 2024 9:22 AM](https://cwbchicago.com/2024/10)
 
 Just five months after announcing she would no longer talk about crime in her constituent newsletters because doing so is racist and fuels an “inaccurate public perception about crime rates,” Ald. Leni Manaa-Hoppenworth (48th) reversed course this morning.[](https://cwbchicago.com/2024/10/alderman-who-vowed-to-stop-talking-about-crime-reverses-course-as-shootings-soar-180-people-are-leaving-edgewater-because-they-dont-feel-safe.html "Alderman who vowed to stop talking about crime, reverses course as shootings soar 180%: ‘outraged and disheartened’")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/chains-326x245.jpg)](https://cwbchicago.com/2024/10/chain-snatchings-reported-near-belmont-harbor-north-avenue-beach.html "Chain snatchings reported near Belmont Harbor, North Avenue Beach")
-
-Gold Coast
-
-### [Chain snatchings reported near Belmont Harbor, North Avenue Beach](https://cwbchicago.com/2024/10/chain-snatchings-reported-near-belmont-harbor-north-avenue-beach.html "Chain snatchings reported near Belmont Harbor, North Avenue Beach")
-
-[October 31, 2024 4:47 AM](https://cwbchicago.com/2024/10)
-
-The city’s chain-snatching robbery problem appears to have migrated north, with two incidents reported along the lakefront this week: one near Belmont Harbor and another near North Avenue Beach.[](https://cwbchicago.com/2024/10/chain-snatchings-reported-near-belmont-harbor-north-avenue-beach.html "Chain snatchings reported near Belmont Harbor, North Avenue Beach")
 
 Search
 
