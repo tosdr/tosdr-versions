@@ -214,7 +214,7 @@ Navigation menu
 * [Permanent link](https://zero-k.info/mediawiki/index.php?title=Zero-K:Code_of_Conduct&oldid=9025 "Permanent link to this revision of the page")
 * [Page information](https://zero-k.info/mediawiki/index.php?title=Zero-K:Code_of_Conduct&action=info "More information about this page")
 
-* This page was last edited on 1 December 2023, at 18:00.
+* This page was last edited on 1 December 2023, at 17:00.
 * Content is available under [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/) unless otherwise noted.
 
 * [Privacy policy](https://zero-k.info/mediawiki/Zero-K:Privacy_policy "Zero-K:Privacy policy")
