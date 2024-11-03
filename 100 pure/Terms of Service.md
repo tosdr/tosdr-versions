@@ -368,7 +368,7 @@ ADD TO TOTE
 
 ### [Green Tea EGCG Concentrate Cream](https://www.100percentpure.com/products/green-tea-egcg-concentrate-cream)
 
-691 reviews (691)
+692 reviews (692)
 
 $48.00
 
@@ -428,7 +428,7 @@ ADD TO TOTE
 
 ### [Vitamin C Serum](https://www.100percentpure.com/products/vitamin-c-serum)
 
-1419 reviews (1419)
+1421 reviews (1421)
 
 $58.00
 
