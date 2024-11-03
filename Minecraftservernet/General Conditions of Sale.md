@@ -29,15 +29,17 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![subhexe](plugins/MineCraft/icons/25x25xsubhexe_1730621381.png.pagespeed.ic.-7W86X42zf.jpg)
+[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
 
-Exe Paradise](https://minecraft-server.net/details/subhexe/ "Exe Paradise") [BuildixMC](https://minecraft-server.net/details/Buildix/ "BuildixMC")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
+1.21 Vanilla+ No Grief](https://minecraft-server.net/details/MCVerseCity/ "1.21 Vanilla+ No Grief")[![axn](plugins/MineCraft/icons/25x25xaxn_1729107605.png.pagespeed.ic.WJSivFsGJ1.jpg)
 
-Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![MysticNetworkMC](plugins/MineCraft/icons/25x25xMysticNetworkMC_1729054234.png.pagespeed.ic.AboSi7capL.png)
+Anarchy Network](https://minecraft-server.net/details/axn/ "Anarchy Network")[![PLAYKRETMCPL](plugins/MineCraft/icons/25x25xPLAYKRETMCPL_1699453929.png.pagespeed.ic.csO5XeMY1u.png)
 
-Mystic Network Skyblock](https://minecraft-server.net/details/MysticNetworkMC/ "Mystic Network Skyblock")[![HearthCraft](plugins/MineCraft/icons/25x25xHearthCraft_1729617449.png.pagespeed.ic.HiP4ZJr9ct.jpg)
+Minecraft Bedrock PL](https://minecraft-server.net/details/PLAYKRETMCPL/ "Minecraft Bedrock PL")[![SkyKingdoms](plugins/MineCraft/icons/25x25xSkyKingdoms_1720407634.png.pagespeed.ic._J3-_Ygvrw.png)
 
-HearthCraft SMP \[1.20.x\] - A no-griefing, no-resets economy experience](https://minecraft-server.net/details/HearthCraft/ "HearthCraft SMP [1.20.x] - A no-griefing, no-resets economy experience")
+Survival Update! - Sky Kingdoms](https://minecraft-server.net/details/SkyKingdoms/ "Survival Update! - Sky Kingdoms")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
+
+Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -114,4 +116,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.07146 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06478 - Created by [Debaucus](https://debauc.us/)
