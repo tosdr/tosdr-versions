@@ -81,7 +81,7 @@ Privacy Policy
 
 Messages
 
-3,615
+3,616
 
 * May 26, 2018
 
@@ -221,7 +221,7 @@ Reactions: LostMyShy, Robbie2Rosie, Woncrinklz and 1 other person
 
 Share:
 
-[X (Twitter)](#_xfUid-1-1730594680) [LinkedIn](#_xfUid-1-1730594680) [Reddit](#_xfUid-1-1730594680) [Pinterest](#_xfUid-1-1730594680) [Tumblr](#_xfUid-1-1730594680) [WhatsApp](#_xfUid-1-1730594680) [Email](#_xfUid-1-1730594680) [Share](#_xfUid-1-1730594680) [Link](#_xfUid-1-1730594680)
+[X (Twitter)](#_xfUid-1-1730616258) [LinkedIn](#_xfUid-1-1730616258) [Reddit](#_xfUid-1-1730616258) [Pinterest](#_xfUid-1-1730616258) [Tumblr](#_xfUid-1-1730616258) [WhatsApp](#_xfUid-1-1730616258) [Email](#_xfUid-1-1730616258) [Share](#_xfUid-1-1730616258) [Link](#_xfUid-1-1730616258)
 
 * [Forums](https://www.adisc.org/forum/) 
 * [About Us](https://www.adisc.org/forum/#about-us.65) 
@@ -235,7 +235,7 @@ Share:
 * [Help](https://www.adisc.org/forum/help/)
 * [RSS](https://www.adisc.org/forum/forums/-/index.rss "RSS")
 
-[Community platform by XenForo® © 2010-2024 XenForo Ltd.](https://xenforo.com/)
+[Community platform by XenForo® © 2010-2024 XenForo Ltd.](https://xenforo.com/) | [Xenforo Add-ons © by ©XenTR](https://xentr.net/)
 
 [Discord Integration](https://xenforo.com/community/resources/6058/) © Jason Axelrod of [8WAYRUN](https://8wayrun.com/)
 
@@ -246,7 +246,7 @@ Share:
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1730594680%2C5aefa4b171d15ab636935eb39516ccee) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1730594680%2C5aefa4b171d15ab636935eb39516ccee)
+    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1730616258%2Ca2447b9a58131e13555577287397b23b) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1730616258%2Ca2447b9a58131e13555577287397b23b)
     
     * Essential cookies
     
