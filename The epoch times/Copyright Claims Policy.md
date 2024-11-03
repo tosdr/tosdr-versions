@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Harris Makes Surprise Appearance on ‘SNL,’ Drawing Alarm from FCC Commissioner](https://www.theepochtimes.com/us/harris-makes-surprise-appearance-on-snl-drawing-alarm-from-fcc-commissioner-5753168)
+* [Rep. Raskin Says Democrats Will Accept Election Outcome If ‘Free and Fair’](https://www.theepochtimes.com/us/rep-raskin-says-democrats-will-accept-election-outcome-if-free-and-fair-5753112)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    NEW By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
     
-    [![Harris Makes Surprise Appearance on ‘SNL,’ Drawing Alarm from FCC Commissioner](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Rep. Raskin Says Democrats Will Accept Election Outcome If ‘Free and Fair’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris Makes Surprise Appearance on ‘SNL,’ Drawing Alarm from FCC Commissioner](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753137-Harris-Saturday-Night-Live-AP24308146998137-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-makes-surprise-appearance-on-snl-drawing-alarm-from-fcc-commissioner-5753168)
-* [Trump and Harris Transgender Policies Are Miles Apart](https://www.theepochtimes.com/us/trump-and-harris-transgender-policies-are-miles-apart-5748889)
+    ![Rep. Raskin Says Democrats Will Accept Election Outcome If ‘Free and Fair’](https://img.theepochtimes.com/assets/uploads/2024/06/08/id5665177-06032024-DSC02153-Jamie-Raskin-205x123.jpg.webp)](https://www.theepochtimes.com/us/rep-raskin-says-democrats-will-accept-election-outcome-if-free-and-fair-5753112)
+* [Mpox Cases Spike 500 Percent in Africa in Past Year](https://www.theepochtimes.com/world/mpox-cases-spike-500-percent-in-africa-in-past-year-5753131)
     
-    NEW By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle) and [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
+    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Trump and Harris Transgender Policies Are Miles Apart](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Mpox Cases Spike 500 Percent in Africa in Past Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump and Harris Transgender Policies Are Miles Apart](https://img.theepochtimes.com/assets/uploads/2024/03/15/id5608051-Riley-Gaines-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-and-harris-transgender-policies-are-miles-apart-5748889)
-* [Harris in Michigan as Trump Hits 3 Swing States on Final Sunday Before Election](https://www.theepochtimes.com/us/harris-in-michigan-as-trump-hits-3-swing-states-on-final-sunday-on-campaign-trail-5753176)
+    ![Mpox Cases Spike 500 Percent in Africa in Past Year](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5726787-AP24251685407074.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/mpox-cases-spike-500-percent-in-africa-in-past-year-5753131)
+* [Market Analysts Say Don’t Worry, Election’s Impact on Returns Will Likely Be Minimal](https://www.theepochtimes.com/business/market-analysts-say-dont-worry-elections-impact-on-returns-will-likely-be-minimal-5752941)
     
-    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    2hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
     
-    [![Harris in Michigan as Trump Hits 3 Swing States on Final Sunday Before Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Market Analysts Say Don’t Worry, Election’s Impact on Returns Will Likely Be Minimal](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris in Michigan as Trump Hits 3 Swing States on Final Sunday Before Election](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752792-Kamala-Harris-Donald-CampaignTrump-1-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-in-michigan-as-trump-hits-3-swing-states-on-final-sunday-on-campaign-trail-5753176)
-* [Russia Keeps the West Guessing as It Mulls Nuclear Strategy Shift](https://www.theepochtimes.com/world/russia-keeps-the-west-guessing-as-it-mulls-nuclear-strategy-shift-5750421)
+    ![Market Analysts Say Don’t Worry, Election’s Impact on Returns Will Likely Be Minimal](https://img.theepochtimes.com/assets/uploads/2024/08/16/id5707266-GettyImages-2164984365_squared-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/market-analysts-say-dont-worry-elections-impact-on-returns-will-likely-be-minimal-5752941)
+* [Major Chinese Airlines See Significant Profit Drop Despite Record High Passenger Traffic](https://www.theepochtimes.com/china/major-chinese-airlines-see-significant-profit-drop-in-3rd-quarter-despite-record-high-passenger-traffic-5752806)
     
-    2hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    2hr By [Alex Wu](https://www.theepochtimes.com/author/alex-wu)
     
-    [![Russia Keeps the West Guessing as It Mulls Nuclear Strategy Shift](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Major Chinese Airlines See Significant Profit Drop Despite Record High Passenger Traffic](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Russia Keeps the West Guessing as It Mulls Nuclear Strategy Shift](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750464-AP24303563368078-205x123.jpg.webp)](https://www.theepochtimes.com/world/russia-keeps-the-west-guessing-as-it-mulls-nuclear-strategy-shift-5750421)
-* [US Holds Trilateral Drill With South Korea, Japan After North Korea Launches Missile Test](https://www.theepochtimes.com/us/us-holds-trilateral-drill-with-south-korea-japan-after-north-korea-launches-missile-test-5753116)
+    ![Major Chinese Airlines See Significant Profit Drop Despite Record High Passenger Traffic](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753312-china-aircraft-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/major-chinese-airlines-see-significant-profit-drop-in-3rd-quarter-despite-record-high-passenger-traffic-5752806)
+* [2024 Election Is 2 Days Away: Here’s What the Final Polls Show](https://www.theepochtimes.com/us/2024-election-is-2-days-away-heres-what-the-final-polls-show-5753194)
     
-    3hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![US Holds Trilateral Drill With South Korea, Japan After North Korea Launches Missile Test](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![2024 Election Is 2 Days Away: Here’s What the Final Polls Show](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Holds Trilateral Drill With South Korea, Japan After North Korea Launches Missile Test](https://img.theepochtimes.com/assets/uploads/2023/02/19/US-fighters-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-holds-trilateral-drill-with-south-korea-japan-after-north-korea-launches-missile-test-5753116)
-* [2024-25 College Basketball Preview: 10 Storylines to Follow](https://www.theepochtimes.com/sports/2024-25-college-basketball-preview-10-storylines-to-follow-5753081)
+    ![2024 Election Is 2 Days Away: Here’s What the Final Polls Show](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753277-Harris-Trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/2024-election-is-2-days-away-heres-what-the-final-polls-show-5753194)
+* [Epoch Times Reporters Reveal Their Most Memorable Moments Covering the Race to the White House 2024](https://www.theepochtimes.com/us/epoch-times-reporters-reveal-their-most-memorable-moments-covering-the-race-to-the-white-house-2024-post-5752039)
     
-    3hr By [Ross Kelly](https://www.theepochtimes.com/author/ross-kelly)
+    4hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester), [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle), [John Haughey](https://www.theepochtimes.com/author/john-haughey), [Madalina Vasiliu](https://www.theepochtimes.com/author/madalina-vasiliu), [Emel Akan](https://www.theepochtimes.com/author/emel-akan) and [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
     
-    [![2024-25 College Basketball Preview: 10 Storylines to Follow](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Epoch Times Reporters Reveal Their Most Memorable Moments Covering the Race to the White House 2024](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![2024-25 College Basketball Preview: 10 Storylines to Follow](https://img.theepochtimes.com/assets/uploads/2024/06/07/id5664318-Dan-Hurley-205x123.jpg.webp)](https://www.theepochtimes.com/sports/2024-25-college-basketball-preview-10-storylines-to-follow-5753081)
-* [California Takes Controversial Approach to Fentanyl Crisis](https://www.theepochtimes.com/article/california-takes-controversial-approach-to-fentanyl-crisis-5735361)
+    ![Epoch Times Reporters Reveal Their Most Memorable Moments Covering the Race to the White House 2024](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753244-ET-Team-at-Dem-Convention-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/epoch-times-reporters-reveal-their-most-memorable-moments-covering-the-race-to-the-white-house-2024-post-5752039)
+* [Final NYT/Siena Poll Shows Harris, Trump Leading in Different Key Battleground States](https://www.theepochtimes.com/us/final-nyt-siena-poll-shows-harris-trump-leading-in-different-key-battleground-states-5753183)
     
-    4hr By [Beige Luciano-Adams](https://www.theepochtimes.com/author/beige-luciano-adams)
+    4hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![California Takes Controversial Approach to Fentanyl Crisis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Final NYT/Siena Poll Shows Harris, Trump Leading in Different Key Battleground States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![California Takes Controversial Approach to Fentanyl Crisis](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752839-outside2-205x123.jpg.webp)](https://www.theepochtimes.com/article/california-takes-controversial-approach-to-fentanyl-crisis-5735361)
-* [Florida Voters to Decide on Abortion Amendment to Constitution](https://www.theepochtimes.com/us/florida-voters-to-decide-on-abortion-amendment-to-constitution-5749756)
+    ![Final NYT/Siena Poll Shows Harris, Trump Leading in Different Key Battleground States](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753178-trump-harris-MixCollage-03-Nov-2024-02-49-PM-8502-205x123.jpg.webp)](https://www.theepochtimes.com/us/final-nyt-siena-poll-shows-harris-trump-leading-in-different-key-battleground-states-5753183)
+* [Tariffs Are a Business Savior to Some, Inflation Trigger for Others](https://www.theepochtimes.com/us/tariffs-are-a-business-savior-to-some-inflation-trigger-for-others-5751790)
     
-    5hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    5hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
     
-    [![Florida Voters to Decide on Abortion Amendment to Constitution](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Tariffs Are a Business Savior to Some, Inflation Trigger for Others](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Florida Voters to Decide on Abortion Amendment to Constitution](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752990-GettyImages-2180020199-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/florida-voters-to-decide-on-abortion-amendment-to-constitution-5749756)
-* [Ménière’s Disease: An Inner Ear Disorder Causing Tinnitus and Vertigo, 5 Alternative Remedies](https://www.theepochtimes.com/health/menieres-disease-symptoms-causes-treatments-and-natural-approaches-5747369)
+    ![Tariffs Are a Business Savior to Some, Inflation Trigger for Others](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753058-IMGL1854-205x123.jpg.webp)](https://www.theepochtimes.com/us/tariffs-are-a-business-savior-to-some-inflation-trigger-for-others-5751790)
+* [Estée Lauder Is Paying the Price for Relying Too Much on China, Analysts Say](https://www.theepochtimes.com/business/estee-lauder-is-paying-the-price-for-relying-too-much-on-china-analysts-say-5752657)
     
-    5hr By [Mercura Wang](https://www.theepochtimes.com/author/mercura-wang)
+    6hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
     
-    [![Ménière’s Disease: An Inner Ear Disorder Causing Tinnitus and Vertigo, 5 Alternative Remedies](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Estée Lauder Is Paying the Price for Relying Too Much on China, Analysts Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Ménière’s Disease: An Inner Ear Disorder Causing Tinnitus and Vertigo, 5 Alternative Remedies](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751467-Menieres_Disease-205x123.jpg.webp)](https://www.theepochtimes.com/health/menieres-disease-symptoms-causes-treatments-and-natural-approaches-5747369)
-* [Texas Senate Race Closer Than Expected](https://www.theepochtimes.com/us/texas-senate-race-closer-than-expected-5750675)
+    ![Estée Lauder Is Paying the Price for Relying Too Much on China, Analysts Say](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753238-Estee-Lauder-cosmetics-counter-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/estee-lauder-is-paying-the-price-for-relying-too-much-on-china-analysts-say-5752657)
+* [FCC Commissioner Raises Concerns Over ‘Equal Time Rule’ After Harris ‘SNL’ Appearance](https://www.theepochtimes.com/us/harris-makes-surprise-appearance-on-snl-drawing-alarm-from-fcc-commissioner-5753168)
     
-    6hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
+    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Texas Senate Race Closer Than Expected](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![FCC Commissioner Raises Concerns Over ‘Equal Time Rule’ After Harris ‘SNL’ Appearance](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Texas Senate Race Closer Than Expected](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5742837-Election_2024_Texas_Senate_24290038543069-205x123.jpg.webp)](https://www.theepochtimes.com/us/texas-senate-race-closer-than-expected-5750675)
+    ![FCC Commissioner Raises Concerns Over ‘Equal Time Rule’ After Harris ‘SNL’ Appearance](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753318-Harris-Saturday-Night-Live-GettyImages-2181942074-205x123.jpg)](https://www.theepochtimes.com/us/harris-makes-surprise-appearance-on-snl-drawing-alarm-from-fcc-commissioner-5753168)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
