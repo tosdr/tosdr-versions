@@ -99,8 +99,8 @@
 * [![Support Independent Tech Journalism, Become A Patron!](/content/images/patreon-btn.svg)](https://www.patreon.com/HotHardware?fan_landing=true)
 
 * TRENDING:
+* [Ryzen 7 9800X3D](https://hothardware.com/tags/ryzen-7-9800x3d)
 * [Arrow Lake Core Ultra 200S](https://hothardware.com/reviews/intel-core-ultra-200s-arrow-lake-cpu-review)
-* [Prime Day Ryzen 9 9950X Build](https://hothardware.com/reviews/prime-day-ryzen-9-9950x-gaming-rig-build-with-amd-corsair-and-asrock)
 * [AMD EPYC Turin](https://hothardware.com/news/amd-epyc-5th-gen-launch)
 * [Core Ultra 200V](https://hothardware.com/news/lunar-lake-launch-ifa-berlin)
 * [AMD Ryzen AI 300](https://hothardware.com/reviews/asus-zenbook-s16-with-amd-ryzen-ai-review)
