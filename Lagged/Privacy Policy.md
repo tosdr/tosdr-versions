@@ -235,9 +235,9 @@ Games you might like
 
 [Ragdoll Playground](https://lagged.com/en/g/ragdoll-playground) ![Ragdoll Playground Game](https://imgs2.dab3games.com/ragdollbreak-ft1135.png)
 
-[Choir](https://lagged.com/en/g/choir) ![Choir Game](https://imgs2.dab3games.com/choir-big.png)
-
 [Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://imgs2.dab3games.com/magic-piano-tiles-ft17.png)
+
+[Choir](https://lagged.com/en/g/choir) ![Choir Game](https://imgs2.dab3games.com/choir-big.png)
 
 [Ice Cream Stack Run](https://lagged.com/en/g/ice-cream-stack-run) ![Ice Cream Stack Run Game](https://imgs2.dab3games.com/ice-cream-stack-run29.png)
 
