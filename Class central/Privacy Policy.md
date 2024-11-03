@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. hacking
+1. marketing
     
-2. javascript
+2. c
     
-3. computer science
+3. data science
     
 
 Popular subjects
 ----------------
 
-1. [Web Development
+1. [Graphic Design
     
-    13,418 courses](https://www.classcentral.com/subject/web-development)
-2. [Communication Skills
+    4,228 courses](https://www.classcentral.com/subject/graphic-design)
+2. [Project Management
     
-    4,089 courses](https://www.classcentral.com/subject/communication-skills)
-3. [Data Analysis
+    4,030 courses](https://www.classcentral.com/subject/project-management)
+3. [Digital Marketing
     
-    8,521 courses](https://www.classcentral.com/subject/data-analysis)
+    6,050 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 ---------------
 
-1. [Medicine and the Arts: Humanising Healthcare
+1. [Understanding Dementia
     
-    University of Cape Town](https://www.classcentral.com/course/medicine-and-the-arts-3015)
-2. [Arab-Islamic History: From Tribes to Empires
+    University of Tasmania](https://www.classcentral.com/course/independent-understanding-dementia-981)
+2. [Product Management Fundamentals
     
-    Tel Aviv University](https://www.classcentral.com/course/humanities-tel-aviv-university-arab-islamic-histo-9365)
-3. [The Bible's Prehistory, Purpose, and Political Future
+    University System of Maryland](https://www.classcentral.com/course/product-management-the-university-of-maryland-col-19098)
+3. [Introducción a los encofrados y las cimbras en obra civil y edificación
     
-    Emory University](https://www.classcentral.com/course/biblefuture-1406)
+    Universitat Politècnica de València](https://www.classcentral.com/course/civil-engineering-universitat-politecnica-de-vale-11880)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
