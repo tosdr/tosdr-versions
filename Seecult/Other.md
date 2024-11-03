@@ -361,20 +361,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.mglc-lj.si](http://www.mglc-lj.si/)
     
-    [10:00 Od mnogoboštva do hrišćanstva: rotonda u Stojniku, BG](javascript:void(0);)
-    
-    **06.09.2024 | 10:00**
-    
-    Narodni muzej Srbije, Trg Republike 1a, Beograd
-    
-    **OD MNOGOBOŠTVA DO HRIŠĆANSTVA: ROTONDA U STOJNIKU** - izložba posvećena jedinstvenoj građevini tog tipa na prostoru centralnobalkanskih rimskih provincija, koja je bila i paganski hram i hrišćanska crkva (5.9.-3.11.2024.)
-    
-    Autori izložbe: Tatjana Cvjetićanin, Maja Franković i Adam Crnobrnja
-    
-    Saradnice na izložbi: Olga Špehar i Jelena Premović
-    
-    [http://www.narodnimuzej.rs](http://www.narodnimuzej.rs/)
-    
     [10:00 Magičnost drevnog - Venija Vučinić Turinski, BG](javascript:void(0);)
     
     **06.09.2024 | 10:00**
@@ -388,6 +374,20 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     autorka: dr Rajka Bošković
     
     [https://www.msub.org.rs](https://www.msub.org.rs/)
+    
+    [10:00 Od mnogoboštva do hrišćanstva: rotonda u Stojniku, BG](javascript:void(0);)
+    
+    **06.09.2024 | 10:00**
+    
+    Narodni muzej Srbije, Trg Republike 1a, Beograd
+    
+    **OD MNOGOBOŠTVA DO HRIŠĆANSTVA: ROTONDA U STOJNIKU** - izložba posvećena jedinstvenoj građevini tog tipa na prostoru centralnobalkanskih rimskih provincija, koja je bila i paganski hram i hrišćanska crkva (5.9.-3.11.2024.)
+    
+    Autori izložbe: Tatjana Cvjetićanin, Maja Franković i Adam Crnobrnja
+    
+    Saradnice na izložbi: Olga Špehar i Jelena Premović
+    
+    [http://www.narodnimuzej.rs](http://www.narodnimuzej.rs/)
     
     [10:00 New Era: umjetnički diskursi o društvenim i klimatskim promjenama, BL](javascript:void(0);)
     
@@ -430,11 +430,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/lokalna-podrska/igp5858.jpg?itok=X1aD8eQH)](http://seecult.org/galerija/galerija-umetnika/karavukovo/lokalna-podrska)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/karavukova-jazbina/f03.jpg?itok=o8zCCEir)](http://seecult.org/galerija/galerija-umetnika/karavukovo/karavukova-jazbina)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/51-oktobarski-salon/tereza-hubbard/alexander-birchler/hwp-60.jpg?itok=p6Qwh_Co)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/51-oktobarski-salon/tereza-hubbardalexander-birchler)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/duran-duran/simon-le-bon.jpg?itok=ZSR_McB7)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/duran-duran)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -450,16 +450,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Dualnost Milene Pavlović Barili](http://seecult.org/vest/dualnost-milene-pavlovic-barili)
+* [Domaći filmovi na DOK Lajpcigu](http://seecult.org/vest/domaci-filmovi-na-dok-lajpcigu)
 * [Odloženi brojni događaji zbog žalosti](http://seecult.org/vest/odlozeni-brojni-dogadaji-zbog-zalosti)
+* [Legat Milana Mladenovića u NBS](http://seecult.org/vest/legat-milana-mladenovica-u-nbs)
 * [Automatski crtež](http://seecult.org/vest/automatski-crtez)
 * [Tragovima jugoslovenskih glumica: Željka Cvjetan-Gortinski](http://seecult.org/vest/tragovima-jugoslovenskih-glumica-zeljka-cvjetan-gortinski)
 * [Uzbudljiv program 20. Slobodne zone](http://seecult.org/vest/uzbudljiv-program-20-slobodne-zone)
 * [Portugalske Veštice u JDP-u](http://seecult.org/vest/portugalske-vestice-u-jdp-u)
 * [21\. Čembalo, živa umetnost](http://seecult.org/vest/21-cembalo-ziva-umetnost)
 * [Izolacija – šta je stvarnost, a šta manipulacija](http://seecult.org/vest/izolacija-sta-je-stvarnost-sta-manipulacija)
-* [Tatjani Mandić Rigonat nagrada Bojan Stupica za 2024.](http://seecult.org/vest/tatjani-mandic-rigonat-nagrada-bojan-stupica-za-2024)
-* [Legat Bate Stojkovića u Jugoslovenskoj kinoteci](http://seecult.org/vest/legat-bate-stojkovica-u-jugoslovenskoj-kinoteci)
-* [Zafranović: Zlo se ponavlja](http://seecult.org/vest/zafranovic-zlo-se-ponavlja)
 
 * [Konkursi](#tab1_1)
 
