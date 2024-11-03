@@ -186,10 +186,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![John G. Todd](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
+![U.S. Army Transportation Corps Aviation Association (TCAA)](https://cdn.returningveterans.org/images/honor/CCF01272010_00000.jpg)  
 
-**In Memory of John G. Todd**  
-United States Army](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of U.S. Army Transportation Corps Aviation Association (TCAA)**  
+United States Army  
+Submitted by Ted Cimral](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -232,5 +233,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/03/24 - 7:32:20  
+Printed 11/03/24 - 1:26:42  
 © 2024 Returning Veterans Project
