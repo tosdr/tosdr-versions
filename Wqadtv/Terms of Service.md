@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/lee-county-iowa-crash-fatal/526-5f3917b3-1ce9-42ae-be15-58642a57b94e)
         
-        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        #### [Florida man killed in Lee County, Iowa crash](https://www.wqad.com/article/news/local/lee-county-iowa-crash-fatal/526-5f3917b3-1ce9-42ae-be15-58642a57b94e) [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/lee-county-iowa-crash-fatal/526-5f3917b3-1ce9-42ae-be15-58642a57b94e)
         
-    *  [![](https://media.tegna-media.com/assets/WTHR/images/de974210-a5c5-439e-bf7e-ad594d534210/de974210-a5c5-439e-bf7e-ad594d534210_16x9.jpg) ![](https://media.tegna-media.com/assets/WTHR/images/de974210-a5c5-439e-bf7e-ad594d534210/de974210-a5c5-439e-bf7e-ad594d534210_360x203.jpg)](https://www.wqad.com/article/news/local/heres-how-illinois-and-iowa-residents-can-get-help-paying-their-heating-bills-through-liheap/526-f3c105fb-b502-4754-99bb-d55546ae2a9c)
+        #### [Man killed in Lee County, Iowa crash](https://www.wqad.com/article/news/local/lee-county-iowa-crash-fatal/526-5f3917b3-1ce9-42ae-be15-58642a57b94e)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a17a2202-921a-4f5a-b012-1b145c73f7e7/20241103T181642/a17a2202-921a-4f5a-b012-1b145c73f7e7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a17a2202-921a-4f5a-b012-1b145c73f7e7/20241103T181642/a17a2202-921a-4f5a-b012-1b145c73f7e7_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/rock-falls-illinois-shooting-suspect-arrested-johnathon-parker-whiteside-county-sheriffs-office/526-98ff16fc-1abf-4502-918b-bbe2816ecf30)
         
-        #### [Here's how Illinois and Iowa residents can get help paying their heating bills through LIHEAP](https://www.wqad.com/article/news/local/heres-how-illinois-and-iowa-residents-can-get-help-paying-their-heating-bills-through-liheap/526-f3c105fb-b502-4754-99bb-d55546ae2a9c)
+        #### [Suspect in Rock Falls shooting arrested, sheriff's office says](https://www.wqad.com/article/news/local/public-safety/rock-falls-illinois-shooting-suspect-arrested-johnathon-parker-whiteside-county-sheriffs-office/526-98ff16fc-1abf-4502-918b-bbe2816ecf30)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -58,7 +59,7 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/e44f90d5-d84e-4265-9a8f-c251c2ddc386/20241103T131240/e44f90d5-d84e-4265-9a8f-c251c2ddc386_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e44f90d5-d84e-4265-9a8f-c251c2ddc386/20241103T131240/e44f90d5-d84e-4265-9a8f-c251c2ddc386_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Plenty of rain chances next few days](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Showers, rumbles of thunder to return late](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/CCT/images/b1e01515-82dd-44ad-8a0b-57c01077f448/20241101T112918/b1e01515-82dd-44ad-8a0b-57c01077f448_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/b1e01515-82dd-44ad-8a0b-57c01077f448/20241101T112918/b1e01515-82dd-44ad-8a0b-57c01077f448_360x203.jpg)](https://www.wqad.com/article/news/nation-world/3-days-after-historic-floods-at-least-158-dead-spain/507-f60dff0f-6da0-435c-a4cb-307248d57aff)
         
@@ -86,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-49°
+60°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
