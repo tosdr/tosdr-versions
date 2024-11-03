@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/rhythm-ready-2-body-percussion-worksheet/)
+ [](https://schoolsmusicmarket.com/product/design-your-own-guitar-colouring-activity/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/exploring-hip-hop-bass-lines/)
+ [](https://schoolsmusicmarket.com/product/instrument-family-music-jeopardy-great-for-subs/)
 
 ###### Browse By Year/Grade
 
