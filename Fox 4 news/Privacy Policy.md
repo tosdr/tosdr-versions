@@ -91,6 +91,10 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
+[Severe Thunderstorm Warning
+
+from SUN 7:33 AM CST until SUN 8:30 AM CST, Cooke County](https://www.fox4news.com/weather-alerts)
+
 Privacy Policy
 ==============
 
@@ -408,6 +412,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 ### [AMBER Alert issued for missing 12-year-old out of Kaufman County](https://www.fox4news.com/news/amber-alert-issued-missing-12-year-old-our-kaufman-county)
 
+ [![Watch: Jason Kelce smashes Penn State heckler's phone for calling Travis Kelce a homophobic slur](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/kelse.jpg?ve=1&tl=1)
+
+ ![Watch: Jason Kelce smashes Penn State heckler's phone for calling Travis Kelce a homophobic slur](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/kelse.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jason-kelce-phone-slams-video-penn-state-taylor-swift)
+
+### [Watch: Jason Kelce smashes Penn State heckler's phone for calling Travis Kelce a homophobic slur](https://www.fox4news.com/news/jason-kelce-phone-slams-video-penn-state-taylor-swift)
+
+ [![Dallas Police investigate death in Pleasant Grove](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/110324-sh-dpd-fx-disturbance-emergency-call-_kdfw0_00.08.52.52.jpg?ve=1&tl=1)
+
+ ![Dallas Police investigate death in Pleasant Grove](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/110324-sh-dpd-fx-disturbance-emergency-call-_kdfw0_00.08.52.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-police-investigate-death-pleasant-grove)
+
+### [Dallas Police investigate death in Pleasant Grove](https://www.fox4news.com/news/dallas-police-investigate-death-pleasant-grove)
+
  [![Texas refuses federal election monitors on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-1784075134.jpg?ve=1&tl=1)
 
  ![Texas refuses federal election monitors on Election Day](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-1784075134.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/texas-federal-election-monitors-election-day-reject)
@@ -419,18 +435,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Famous streamer Kai Cenat says he's the victim of yet another swatting call](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/11/32/18/592/333/gettyimages-1431445107.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kai-cenat-twitch-swatted-marietta-mansion)
 
 ### [Famous streamer Kai Cenat says he's the victim of yet another swatting call](https://www.fox4news.com/news/kai-cenat-twitch-swatted-marietta-mansion)
-
- [![Gateway Church removes elders after investigation into Robert Morris sexual abuse accusations](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/robert-morris.jpg?ve=1&tl=1)
-
- ![Gateway Church removes elders after investigation into Robert Morris sexual abuse accusations](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/robert-morris.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/gateway-church-elders-robert-morris-sexual-abuse-accusations)
-
-### [Gateway Church removes elders after investigation into Robert Morris sexual abuse accusations](https://www.fox4news.com/news/gateway-church-elders-robert-morris-sexual-abuse-accusations)
-
- [![Kamala Harris appearing on SNL tonight, AP sources say](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2162425995-scaled.jpg?ve=1&tl=1)
-
- ![Kamala Harris appearing on SNL tonight, AP sources say](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2162425995-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kamala-harris-snl-appearance-tonight)
-
-### [Kamala Harris appearing on SNL tonight, AP sources say](https://www.fox4news.com/news/kamala-harris-snl-appearance-tonight)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
