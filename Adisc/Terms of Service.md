@@ -85,7 +85,7 @@ Not open for further replies.
 
 Messages
 
-3,615
+3,616
 
 * Feb 14, 2008
 
@@ -247,7 +247,7 @@ Not open for further replies.
 
 Share:
 
-[X (Twitter)](#_xfUid-1-1730594680) [LinkedIn](#_xfUid-1-1730594680) [Reddit](#_xfUid-1-1730594680) [Pinterest](#_xfUid-1-1730594680) [Tumblr](#_xfUid-1-1730594680) [WhatsApp](#_xfUid-1-1730594680) [Email](#_xfUid-1-1730594680) [Share](#_xfUid-1-1730594680) [Link](#_xfUid-1-1730594680)
+[X (Twitter)](#_xfUid-1-1730616259) [LinkedIn](#_xfUid-1-1730616259) [Reddit](#_xfUid-1-1730616259) [Pinterest](#_xfUid-1-1730616259) [Tumblr](#_xfUid-1-1730616259) [WhatsApp](#_xfUid-1-1730616259) [Email](#_xfUid-1-1730616259) [Share](#_xfUid-1-1730616259) [Link](#_xfUid-1-1730616259)
 
 * [Forums](https://www.adisc.org/forum/) 
 * [About Us](https://www.adisc.org/forum/#about-us.65) 
@@ -261,7 +261,7 @@ Share:
 * [Help](https://www.adisc.org/forum/help/)
 * [RSS](https://www.adisc.org/forum/forums/-/index.rss "RSS")
 
-[Community platform by XenForo® © 2010-2024 XenForo Ltd.](https://xenforo.com/)
+[Community platform by XenForo® © 2010-2024 XenForo Ltd.](https://xenforo.com/) | [Xenforo Add-ons © by ©XenTR](https://xentr.net/)
 
 [Discord Integration](https://xenforo.com/community/resources/6058/) © Jason Axelrod of [8WAYRUN](https://8wayrun.com/)
 
@@ -272,7 +272,7 @@ Share:
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1730594680%2C2faf302e358600848b8a4d6e77d8549b) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1730594680%2C2faf302e358600848b8a4d6e77d8549b)
+    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1730616259%2C0d409b76a9b6f631ec09a48818252575) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1730616259%2C0d409b76a9b6f631ec09a48818252575)
     
     * Essential cookies
     
