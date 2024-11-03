@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Jannie Schutte - myFinance-Online.co.za
+Hugo van Sittert
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=537153fdb98bfa0936c0d77a5c42ee8b46735056d1e90c0817b304112eac9040&c=159492770)  
-Import Maaw
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=8b21db79a36a9ceb47f9ed48d3684a6840f1d5d50f7955e6dd49b10ce779ffee&c=182764616)  
+TurboFibre
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=537153fdb98bfa0936c0d77a5c42ee8b46735056d1e90c0817b304112eac9040&c=72654598)  
-Van Der Merwe Olieverspreiders
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=8b21db79a36a9ceb47f9ed48d3684a6840f1d5d50f7955e6dd49b10ce779ffee&c=73522566)  
+Gemini-IT Group
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=537153fdb98bfa0936c0d77a5c42ee8b46735056d1e90c0817b304112eac9040&c=169023900)  
-NEW BEGINNINGS DESIGNS
+![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=8b21db79a36a9ceb47f9ed48d3684a6840f1d5d50f7955e6dd49b10ce779ffee&c=199051627)  
+Quad Biking Cape Town
 
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=537153fdb98bfa0936c0d77a5c42ee8b46735056d1e90c0817b304112eac9040&c=116333825)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=8b21db79a36a9ceb47f9ed48d3684a6840f1d5d50f7955e6dd49b10ce779ffee&c=70223104)  
+VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=537153fdb98bfa0936c0d77a5c42ee8b46735056d1e90c0817b304112eac9040&c=197253257)  
-Alliance Energy
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=8b21db79a36a9ceb47f9ed48d3684a6840f1d5d50f7955e6dd49b10ce779ffee&c=188132305)  
+Kainos (Pty) Ltd
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=537153fdb98bfa0936c0d77a5c42ee8b46735056d1e90c0817b304112eac9040&c=132705608)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=8b21db79a36a9ceb47f9ed48d3684a6840f1d5d50f7955e6dd49b10ce779ffee&c=46905109)  
+OrgChart Hosting Pty Ltd
 
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=537153fdb98bfa0936c0d77a5c42ee8b46735056d1e90c0817b304112eac9040&c=39815211)  
-De light Investments(Pty)Ltd trading as Serene Memorials
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=8b21db79a36a9ceb47f9ed48d3684a6840f1d5d50f7955e6dd49b10ce779ffee&c=16936619)  
+TechnoDezi PTY(LTD)
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=537153fdb98bfa0936c0d77a5c42ee8b46735056d1e90c0817b304112eac9040&c=6289822)  
-PROGRAPHIX PTY LTD
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=8b21db79a36a9ceb47f9ed48d3684a6840f1d5d50f7955e6dd49b10ce779ffee&c=134516836)  
+Wiselink Broadband Vryheid
 
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=537153fdb98bfa0936c0d77a5c42ee8b46735056d1e90c0817b304112eac9040&c=159667266)  
-FlipDesign - Renovation Contracting Firm
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=8b21db79a36a9ceb47f9ed48d3684a6840f1d5d50f7955e6dd49b10ce779ffee&c=214088358)  
+MONSTER SECURITY SERVICES
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=537153fdb98bfa0936c0d77a5c42ee8b46735056d1e90c0817b304112eac9040&c=202537354)  
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=8b21db79a36a9ceb47f9ed48d3684a6840f1d5d50f7955e6dd49b10ce779ffee&c=67215530)  
 Tagline Brands
 
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=537153fdb98bfa0936c0d77a5c42ee8b46735056d1e90c0817b304112eac9040&c=154810722)  
-Peter Salvage Pty Ltd
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=8b21db79a36a9ceb47f9ed48d3684a6840f1d5d50f7955e6dd49b10ce779ffee&c=13904160)  
+SLOANE STAR MEAT MARKET
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=537153fdb98bfa0936c0d77a5c42ee8b46735056d1e90c0817b304112eac9040&c=185580579)  
-Qothiphango Mining
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=8b21db79a36a9ceb47f9ed48d3684a6840f1d5d50f7955e6dd49b10ce779ffee&c=56153902)  
+VIV'S TRUCKS (Pty) Ltd. (117)
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=537153fdb98bfa0936c0d77a5c42ee8b46735056d1e90c0817b304112eac9040&c=33216295)  
-Kinetic Power Solutions (Pty) Ltd.
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=8b21db79a36a9ceb47f9ed48d3684a6840f1d5d50f7955e6dd49b10ce779ffee&c=48018115)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=537153fdb98bfa0936c0d77a5c42ee8b46735056d1e90c0817b304112eac9040&c=129013228)  
-Imhoff Equestrian Centre
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=8b21db79a36a9ceb47f9ed48d3684a6840f1d5d50f7955e6dd49b10ce779ffee&c=25137665)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=537153fdb98bfa0936c0d77a5c42ee8b46735056d1e90c0817b304112eac9040&c=184348754)  
-Well Hung Art
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=8b21db79a36a9ceb47f9ed48d3684a6840f1d5d50f7955e6dd49b10ce779ffee&c=78137022)  
+Brilliant Roof Products
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
