@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The art of progress is to preserve order amid change and to preserve change amid order”
+“ It's easier to ask forgiveness than it is to get permission”
 
-[Alfred North Whitehead](http://en.wikipedia.org/wiki/Alfred_North_Whitehead)
+[Grace Hopper](http://en.wikipedia.org/wiki/Grace_Hopper)
 
 [](https://www.adafruit.com/about)
 
