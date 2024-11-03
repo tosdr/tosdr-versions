@@ -31,6 +31,187 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+¿Cuáles son los feriados recuperables de 2024 en Ecuador?
+=========================================================
+
+Del 2023 al 2025, Ecuador tiene un calendario de feriados programados para promover el turismo en el país.
+----------------------------------------------------------------------------------------------------------
+
+![Los feriados recuperables en Ecuador, en 2024, se dan por el calendario de feriados establecido.](https://www.elcomercio.com/wp-content/uploads/2024/10/feriados-recuperables-ecuador.jpg)
+
+En 2024, **Ecuador** tuvo **feriados** recuperables y feriados no recuperables.
+
+El último feriado de Ecuador, en el calendario 2024, será el de **Navidad**, el miércoles 25 de diciembre.
+
+### Más noticias:
+
+* [Ministerio de Energía anuncia decisión sobre cortes de luz para feriados de noviembre](https://www.elcomercio.com/actualidad/ecuador/cenae-decision-horas-cortes-luz-feriado-noviembre.html "Ministerio de Energía anuncia decisión sobre cortes de luz para feriados de noviembre")
+* [Daniel Noboa redujo el IVA para incentivar el turismo en los feriados de noviembre](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-iva-feriados-noviembre.html "Daniel Noboa redujo el IVA para incentivar el turismo en los feriados de noviembre")
+* [¿Cuántos días de descanso hay por los feriados de noviembre?](https://www.elcomercio.com/actualidad/ecuador/dias-descanso-feriados-noviembre.html "¿Cuántos días de descanso hay por los feriados de noviembre?")
+
+Feriados recuperables y no recuperables de 2024 en Ecuador
+----------------------------------------------------------
+
+El feriado de Navidad, el último del año, **no es recuperable**.
+
+Sí es recuperable el feriado creado por el presidente **Daniel Noboa** por decreto ejecutivo para el jueves 31 de octubre.
+
+En los sectores público y privado, se deberá programar el tiempo para la recuperación o el pago de ese tiempo, si los empleados trabajaron.
+
+Los **días recuperables corresponden a los que se salen del calendario oficial**.
+
+Por ejemplo, cuando el Gobierno determina una **jornada libre,** por alguna eventualidad.
+
+Este fue el caso del **jueves 31 de octubre**.
+
+En **2024**, Ecuador cuenta con 10 feriados nacionales no recuperables:
+
+* **Año Nuevo** que fue el lunes 1 de enero
+* **Carnaval**, el lunes 12 y martes 13 de febrero
+* **Viernes Santo**, el viernes 29 de marzo
+* **Día del Trabajo**, el 1 de mayo y se trasladó al viernes 3 de mayo
+* **Batalla del Pichincha**, el viernes 24 de mayo
+* **Primer Grito de Independencia**, sábado 10 de agosto y se trasladó al viernes 9 de agosto
+* **Independencia de Guayaquil**, miércoles 9 de octubre y se trasladó al viernes 11 de octubre
+
+A estos se suman los últimos del **año**:
+
+* **Día de Difuntos**, sábado 2 de noviembre, que se trasladó al viernes 1 de noviembre
+* **Independencia de Cuenca**, que es este domingo 3 noviembre, se trasladó al lunes 4 de noviembre
+* **Navidad**, el miércoles 25 de diciembre, no es trasladable.
+
+Ecuador, con sus 10 asuetos anuales, es uno de los países con **menos descansos** obligatorios en la región.
+
+**Chile, Argentina y Colombia** son los países con más feriados en Latinoamérica. Este 2024, sus ciudadanos disfrutarán de 20, 19 y 18 asuetos respectivamente.
+
+El calendario de feriados de Ecuador fue preestablecido para los años 2023, 2024 y 2025, con el fin de contribuir al turismo en el país.
+
+  
+
+Cumbres borrascosas
+===================
+
+Colisionan de agendas en las cumbres Latinoamericana y Apec.
+------------------------------------------------------------
+
+![Jose Felix Valdivieso, columnista en EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/11/Jose-Felix-Valdivieso2.jpg)
+
+Las cosas del corazón no tienen agenda, pero las de la política sí. El 14 y 15 de noviembre el **Ecuador** será protagonista de la **política Latinoamericana**. Albergará en la ciudad de **Cuenca** la XXIX Cumbre Iberoamericana de **Jefes** de **Estado** y de **Gobierno**. No obstante, cierta borrasca se cierne sobre la **Cumbre cuencana** por motivos imposibles de soslayar: En el Perú tendrá lugar la **reunión** de la APEC desde el 10 de noviembre hasta el 16 del mismo mes.
+
+La **colisión** de **agendas** es evidente, tanto como la falta de **planificación**. De momento, la ministra de Relaciones Exteriores y Movilidad Humana, Gabriela Sommerfeld ha confirmado la asistencia de 9 presidentes, incluidos el Rey de España, Felipe VI, y el presidente Sánchez. No se nos puede escapar —aunque a algunos se les haya escapado la tortuga— que el año pasado, en la **Cumbre** de la **República Dominicana**, de los 22 miembros que la integran, acudieron hasta 14 **presidentes** o **primeros ministros**.
+
+Tampoco fue una buena idea el **asalto** a la **embajada mexicana** en **Quito** para apresar a Jorge Glas. La **presidenta mexicana**, Claudia Sheinbaum, será una ausencia notable, si bien la ministra Sommerfeld, ha expresado su **confianza** en que finalmente **México** envíe a una **representación**. Pero eso no es lo mismo a que venga la propia **presidenta Sheinbaum**, como cabeza de una de las potencias del **continente**.
+
+La **borrasca** se acentúa, porque en el vecino **Perú** estarán de **celebración**. El inicio de la novela _**Cumbres Borrascosas**_ yaintuía los problemas: «_He vuelto hace unos instantes de visitar a mi casero y ya se me figura que ese **solitario vecino** va a inquietarme por más de una causa_». No solo se inaugurará el megapuerto de Chancay en el Perú, que inevitablemente empañará el **protagonismo** del puerto de Guayaquil, sino que este será también inaugurado por el presidente Xi en el marco de una visita de estado, aparte de la APEC.
+
+Cuando Xi se moviliza, toda **China** viaja con él. Para entendernos, los **viajes** de los **presidentes chinos** hoy en día son como los viajes de los **presidentes americanos**. Hay todo un **ecosistema** que se mueve a su alrededor, que igualmente se desplaza en esos **viajes presidenciales**, y que es necesario comprender en toda su **dimensión**, para saber aprovecharlos al máximo. ¿Está **Ecuador** en ello?
+
+Pero no todo pueden ser **malas noticias**. En el camino de **preparación** de la **Cumbre Latinoamericana**, los 22 países **integrantes** de la misma han realizado una **declaración** esperanzadora. Han reforzado la **cooperación** en **ciencia** e **innovación**, promoviendo asimismo la IA en español y portugués.
+
+«El **desarrollo científico** es la única respuesta a los **problemas** que enfrentamos. No podemos delegar en otros esa **responsabilidad**» —ha señalado el [secretario general Iberoamericano, Andrés Allamand](https://www.segib.org/secretaria-general/andres-allamand-2/).
+
+Como se decía, la **política** es una **cuestión** de **agenda**, no entiende de otra cosa. Y no se puede permitir choques, ni solapamientos. En la segunda edición de _El continente olvidado_, Michael Reid señala que debe figurar en la **agenda latinoamericana** el romper el debate **histórico** entre el **libre mercado** sin restricciones y el **proteccionismo**, y el dejar de alimentar la **visión** del **poder** como un patrimonio personal.  «_Para llegar ahí se requiere un nuevo tipo de **política**: frente a la **polarización** y **confrontación** ofrecida por **populistas**_ — _y a veces por sus **oponentes**_—_, Latinoamérica necesita **construcción** de **consensos**, donde el estado, el sector privado y la **sociedad civil** trabajen juntos para fijar **metas** a medio plazo y responsabilicen al **gobierno** de su **cumplimiento**_».
+
+Aunque la **visión** de Reid en este libro es menos **optimista**, despeja un tanto la **borrasca** de las cumbres, añadiendo cierta **pausa** a todo, y para ello cita al **liberal** argentino Bautista Alberdi: «_Las **naciones**, como los hombres, no tienen alas; hacen sus viajes a pie, paso a paso_». ¡Que así sea la agenda!
+
+Antiturismo
+===========
+
+El antiturismo quizá no sea tan espantoso como lo pintan, tal vez es la única solución.
+---------------------------------------------------------------------------------------
+
+![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
+
+El **turismo** masivo ha convertido destinos únicos en **escenarios** de **sobreexplotación** que distorsionan la esencia de estos lugares y degradan la vida de los **residentes**. En **Barcelona**, la presencia masiva de **turistas** ha llevado a la **población local** a manifestarse contra lo que consideran una **invasión**; mientras que **Venecia**, ya al borde de la ruina por el arribo constante de **cruceros**, observa cómo sus canales y **ecosistema** se deterioran.
+
+En Bali, el **aumento** de **precios** de **productos básicos** debido a la demanda **turística** afecta la vida de las **comunidades locales**; Islandia se enfrenta a visitantes que ignoran las **normas** de **protección natural**, y Machu Picchu intenta frenar el daño de sus **ruinas**.
+
+Las medidas **antiturismo** incluyen limitar las **viviendas turísticas** en Barcelona o Nueva York, cobrar tasas de entrada a **Venecia**, restringir el número diario de visitantes en Santorini, prohibir **tours** guiados en zonas sensibles de Tokio, desviar **turistas** a áreas menos saturadas en Amsterdam o promover el **turismo** en **temporadas** bajas en Roma. Pero estas acciones no reducen el **impacto ambiental**, ni cultural, ni protegen la **calidad** de **vida** de los **residentes**.
+
+Esta sobrecarga de **turistas** no encuentra una respuesta que no sean manifestaciones o **agresiones** a los **turistas**, y la idea de una “**colaboración internacional**” para un **turismo** sostenible suena hipócrita, porque en la práctica cada país compite por atraer más **visitantes** que el otro.
+
+Además, las grandes **cadenas hoteleras**, plataformas como Airbnb, aerolíneas, tour **operadores internacionales** y gigantes de la intermediación **digital** no muestran intención alguna de reducir la sobreexplotación de **destinos** saturados como París y al contrario, **capitales** de **riesgo** compran edificios familiares para ponerlos en Airbnb, como sucede en Portugal.
+
+Con una **estructura** basada en maximizar **beneficios** y minimizar **costos**, la posibilidad de que los gigantes del **turismo** sacrifiquen **ganancias** para promover un **turismo** respetuoso y sostenible es un engaño que sirve para grandilocuentes **declaraciones** de la **burocracia internacional**, que se reúne en costosos **hoteles** de **destinos** saturados con **fondos públicos**.
+
+El **turismo** **masivo** seguirá dejando sin **viviendas** a las familias, transformando negativamente las **comunidades locales**, contaminando, inflando **precios** y convirtiendo paraísos en infiernos de **masas** de **visitantes**, que poco les importa el **destino** y la vida de los **residentes**.
+
+El **antiturismo** quizá no sea tan espantoso como lo pintan, tal vez es la única **solución**.
+
+Cartas a Quito / 3 de noviembre de 2024
+=======================================
+
+Estas son las cartas a Quito de este domingo 3 de noviembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Celebrando la independencia de Cuenca, un legado de libertad
+------------------------------------------------------------
+
+El 3 de noviembre es una fecha que resuena profundamente en el corazón de todos los cuencanos y ecuatorianos. En este día, recordamos la valiente proclamación de independencia de Cuenca en 1820, un acto que simboliza la lucha por la libertad y el deseo de un futuro mejor. Esta conmemoración no solo es un homenaje a aquellos patriotas que se levantaron contra el yugo español, sino también una oportunidad para reflexionar sobre el legado que nos han dejado. La independencia de Cuenca fue el resultado de un esfuerzo colectivo, donde hombres y mujeres se unieron en la Plaza de San Sebastián para exigir su derecho a ser libres. Inspirados por la reciente independencia de Guayaquil, los cuencanos se organizaron para desarmar a las tropas españolas y proclamar su libertad. Este acto heroico, aunque efímero, marcó el inicio de un camino hacia la soberanía que culminaría con la Batalla de Pichincha en 1822. Es fundamental recordar que la independencia no fue solo un evento militar; fue una manifestación del deseo de un pueblo por gobernarse a sí mismo. Hoy, al celebrar esta importante fecha, debemos fomentar en las nuevas generaciones el entendimiento del valor de la libertad y la responsabilidad que conlleva. La independencia no es solo un recuerdo del pasado; es un llamado a construir un futuro en el que prevalezcan los valores democráticos y el respeto por los derechos humanos. Invito a todos los cuencanos a participar activamente en las celebraciones del 3 de noviembre. Asistamos a los desfiles, compartamos historias sobre nuestros héroes y recordemos que cada uno de nosotros tiene un papel que desempeñar en la construcción de una sociedad más justa y libre. Que este día nos inspire a seguir luchando por nuestros ideales y a mantener vivo el espíritu patriota que nos une como ecuatorianos.
+
+Mateo Sebastián Enríquez
+
+Pensando en voz alta
+====================
+
+La campaña presidencial en Ecuador se enfoca en ataques y alianzas, con Noboa y Topic como posibles rivales del correísmo.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
+
+**1.-** En la **carrera** para ocupar el sillón de Carondelet, en vez de presentarse **propuestas**, parecería que la contienda se ha caracterizado, hasta el momento por lo menos y en algunos casos – por enfocarse en **desprestigiar** al **oponente**,  ya sea por razones ciertas  y/o por lo que es peor, por **motivos** falsos.  Puede ser que, más adelante y dependiendo de las **tendencias** de las **encuestas**, ya no sea el blanco principal de los cañones Noboa, sino más bien quien aparezca tercero, quien sería la piedra en el zapato, pese a que, las **encuestas** no siempre aciertan, son relativas, tienen margen de error  e incluso algunas son  parcializadas.
+
+**2.**– La **campaña** sucia se explica, ya que el capital de los **políticos** es el Voto, y en ese orden de **prioridades** e ideas, si es necesario asaltar la verdad en aras de mantener, **recuperar** o conseguir votos, probablemente algunos (sin generalizar) estarían dispuestos y resueltos a hacerlo.
+
+**3.-** Aunque resulta aventurado y aún **temprano**, parecería hasta el momento que, las **posibilidades** de éxito del **correísmo** para  llegar a la **presidencia**, estarían lejanas ya sea con Noboa o Topic (de consolidarse su **candidatura**) o incluso con otro candidato  que sea la sorpresa y que llegue a **segunda vuelta**.
+
+**4.-** J. Topic, **controversial** y reincidente **candidato**, en el caso de llegar a una **segunda vuelta** con L. González, dicha **situación** pudiera resultar poco atractiva al **correísmo**, ya que Topic llegaría relativamente fresco, generando **expectativas** sobre todo en **materia** de **seguridad** vs. un devaluado correísmo; consecuentemente, para RC5 el **incremento** de las posibilidades de Topic le sería conveniente  hasta un punto, esto es, hasta el hito o punto de **equilibrio político** en el que le permita acercarse lo suficiente a Noboa, pero no superarlo, de tal **suerte** que el voto se diluya lo necesario, pero no lo suficiente para que llegue Topic, ni para que reviva la **posibilidad** de que Noboa gane ampliamente; situación por cierto que no dejaría  de ser un **dolor** de **cabeza** para Noboa, superado incluso por el generado por la relación con su **vicepresidenta**.
+
+**5.-** Para el PSC, Topic sin **perjuicio** de competir con su **electorado**, podría ser  una suerte de desertor que se volvió aventajado **contendor**, lo cual no les debe hacer ninguna gracia, entre otros motivos, ya que desnudaría que el PSC, pese a su **maquinaria partidista**, cada vez estaría más alejado de la posibilidad de llegar a la **presidencia** de la **república**, al punto que Topic con el auspicio de SUMA – **partido político** joven y pequeño en comparación con el **social cristianismo** – como van las cosas, superaría con **amplitud** al **candidato** del PSC.
+
+**6.-** Al parecer, al PSC y RC5 les quedaría en su **afán** de **poder**, continuar aferrándose a la boya de la **Asamblea**, en la cual han logrado **acumular** relativo poder con base en apoyarse mutuamente (condicionando al **gobierno** de turno),  juntos no por razones  **ideológicas,** sino por interés, es decir, por  un **pragmatismo** puro y duro, que llama la **atención** y despierta dudas…  En los últimos días, nuevamente se juntaron, el PSC apoyó  la terna de la **Asamblea** al CPCCS a efecto de la renovación parcial de la C. Constitucional, terna **propuesta** por el **correísmo** y encabezada  por Angélica Porras, quien en su momento fue una de las decididas atacantes a la **Fiscal General**; y, en reciprocidad, el apoyo de RC5 al hasta hace poco **rechazado** y ahora apoyado O. Vera – de las filas **socialcristianas** – para ocupar la primera vicepresidencia de la **Asamblea**, con lo cual dicha tienda se asegura, por un lado, un puesto en el influyente **Consejo** de **Administración Legislativa** CAL y, por otro lado, retomar la **conducción** de la **Asamblea**, aunque sea temporalmente, toda vez que la actual **presidenta correista** V. Veloz, en enero, deberá ausentarse para realizar su **campaña** de **reelección** como **asambleísta**.
+
+Daría la **impresión**, por tanto, que, tanto el PSC y RC5 comparten el mismo **fantasma** en **Carondelet**, y que el PSC para efectos **prácticos**, a momentos sus siglas pudieran interpretarse como **Partido Social** “**Correista**”, en razón de su constante cercanía y **convergencia**, es decir, por la fiel **convivencia** de su unión de **conveniencia**…
+
+Fiscalía investiga ataque armado a Joselito Argüello, candidato a la Asamblea
+=============================================================================
+
+El abogado Joselito Argüello fue atacado en Salinas, Santa Elena, tras una reunión política
+-------------------------------------------------------------------------------------------
+
+![El abogado Joselito Argüello, quien es candidato a la Asamblea Nacional en las próximas elecciones, fue atacado a tiros este sábado 2 de noviembre en Salinas.](https://www.elcomercio.com/wp-content/uploads/2024/11/joselito.jpg)
+
+El abogado **Joselito Argüello** y su padre fueron víctimas de un ataque armado este sábado 2 de noviembre en **Salinas**, provincia de **Santa Elena**. La **Fiscalía** abrió una investigación de oficio, para esclarecer el hecho violento.
+
+### Más noticias
+
+* [Policía despliega efectivos para seguridad de candidatos presidenciales](https://www.elcomercio.com/actualidad/politica/policia-despliega-efectivos-para-seguridad-candidatos-presidenciales.html "Policía despliega efectivos para seguridad de candidatos presidenciales")
+* [Secuestro de exalcaldesa de Colimes, Jackeline Ordóñez, sigue sin resolverse](https://www.elcomercio.com/actualidad/secuestro-exalcaldesa-colimes-jackeline-ordonez.html "Secuestro de exalcaldesa de Colimes, Jackeline Ordóñez, sigue sin resolverse")
+* [El uso legítimo de la fuerza policial se intensificó este 2024 en Ecuador](https://www.elcomercio.com/actualidad/seguridad/uso-legitimo-fuerza-policia-intensifico-2024-ecuador.html "El uso legítimo de la fuerza policial se intensificó este 2024 en Ecuador")
+
+El ataque armado fue confirmado por el candidato a la Presidencia por el Partido Socialista Ecuatoriano (PSE), **Pedro Granja**. **Argüello** también aspira llegar a la Asamblea Nacional con esta misma organización política.
+
+“Acaban de balear a **Joselo Argüell**o en Salinas. Su padre recibió varios impactos y está más grave. Están en el hospital. Minutos antes estuvimos juntos en un evento en Santa Elena. Esto es sencillamente un horror”, publicó Granja en sus redes sociales.
+
+Un comunicado del Partido Socialista
+------------------------------------
+
+Asimismo, el PSE emitió un comunicado donde condenó el ataque y exigió a las autoridades garantizar la seguridad de sus candidatos. “Demandamos que se inicien las **investigaciones y se asegure justicia**“, señaló la organización.
+
+> 🚨Urgente [pic.twitter.com/bgnegfcm3R](https://t.co/bgnegfcm3R)
+> 
+> — Partido Socialista Ecuatoriano (@PSEcuatoriano) [November 2, 2024](https://twitter.com/PSEcuatoriano/status/1852843960311431402?ref_src=twsrc%5Etfw)
+
+“La Fiscalía abrió –de oficio– una investigación previa, luego de que un abogado y su acompañante fueran heridos de bala por parte de sujetos no identificados, durante un presunto intento de robo en el cantón **Salinas**“, publicó en sus redes sociales.
+
+Además, agregó que junto a la Policía se realizó el levantamiento de indicios balísticos y el reconocimiento del lugar de los hechos, entre otras diligencias, para esclarecer lo ocurrido.
+
+> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#SantaElena](https://twitter.com/hashtag/SantaElena?src=hash&ref_src=twsrc%5Etfw): [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) abrió –de oficio– una investigación previa, luego de que un abogado y su acompañante fueran heridos de bala por parte de sujetos no identificados, durante un presunto intento de [#Robo](https://twitter.com/hashtag/Robo?src=hash&ref_src=twsrc%5Etfw) en el cantón [#Salinas](https://twitter.com/hashtag/Salinas?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/tbw4p6mX9a](https://t.co/tbw4p6mX9a)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [November 3, 2024](https://twitter.com/FiscaliaEcuador/status/1852865314100269469?ref_src=twsrc%5Etfw)
+
 Más de un millón de personas asistieron al desfile de Muertos en Ciudad de México
 =================================================================================
 
@@ -687,305 +868,3 @@ Fiscalía lleva dos investigaciones previas más para dar con los presuntos auto
 > [#CasoVILLAVICENCIO](https://twitter.com/hashtag/CasoVILLAVICENCIO?src=hash&ref_src=twsrc%5Etfw) Hoy dimos el primer paso en la lucha por justicia para nuestro padre, Fernando Villavicencio. No olvidamos a los autores intelectuales, cómplices y omisiones del Estado. Si permitimos la impunidad, nadie en Ecuador estará a salvo. [#PorFernando](https://twitter.com/hashtag/PorFernando?src=hash&ref_src=twsrc%5Etfw) [#NadieSeCansa](https://twitter.com/hashtag/NadieSeCansa?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/65uH4WPJcr](https://t.co/65uH4WPJcr)
 > 
 > — Tamia Villavicencio (@TamiaVillavice1) [July 13, 2024](https://twitter.com/TamiaVillavice1/status/1811920208489033924?ref_src=twsrc%5Etfw)
-
-Más de 285 000 migrantes de Venezuela, Ecuador y otros países cruzaron el Darién
-================================================================================
-
-La cooperación española instaló en Bajo Chiquito una clínica para apoyar a la emergencia humanitaria de los migrantes que buscan llegar a Estados Unidos.
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Migrantes cruzan el río Tuquesa luego de atravesar la selva del Darién, este jueves en el Darien (Panamá). EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/Darien.jpg)
-
-##### Agencia EFE
-
-El director de la **Agencia Española de Cooperación Internacional para el Desarrollo (Aecid**), Antón Leis, visitó el poblado al que llegan a diario cientos de migrantes tras atravesar durante días la peligrosa selva del **Darién**, la frontera natural entre **Colombia y Panamá.**
-
-Él recordó que nadie “recorre miles de kilómetros por capricho y mucho menos para cometer delitos”, sino porque huyen de guerras, hambre o miseria, las causas profundas de la crisis migratoria global.
-
-**Leis** llegó a **Bajo Chiquito** tras ascender en canoa durante horas el **río Tuquesa**, donde se iba cruzando con embarcaciones repletas de migrantes que, tras pasar una noche en ese poblado indígena, continúan su trayecto de más de 6 000 kilómetros hasta la frontera con Estados Unidos, el objetivo de muchos.
-
-Entre los más de 285 000 migrantes que han atravesado en lo que va de 2024 la selva, la mayoría son **venezolanos**, pero también hay nacionales de **Colombia, Haití, Ecuador, China, Bangladesh, Palestina, Afganistán, la India**, la R.D. **Congo** o **Somalia**, entre otros muchos países, con problemáticas que se repiten.
-
-### Más noticias
-
-* [Estados Unidos y Panamá frenan migración ilegal de ecuatorianos por el Darién](https://www.elcomercio.com/actualidad/mundo/estados-unidos-panama-migracion-ecuatorianos-darien.html "Estados Unidos y Panamá frenan migración ilegal de ecuatorianos por el Darién")
-* [Asamblea aprueba resolución para solicitar orden de detención contra Nicolás Maduro](https://www.elcomercio.com/actualidad/politica/asamblea-aprueba-resolucion-solicitar-orden-detencion-nicolas-maduro.html "Asamblea aprueba resolución para solicitar orden de detención contra Nicolás Maduro")
-
-“Queremos que la migración sea una opción, no una obligación, entonces es bueno trabajar esas causas profundas. La gente no recorre miles de kilómetros por capricho y mucho menos para ir a cometer delitos o ir a molestar a otras comunidades, sino porque hay causas subyacentes importantes: guerras, **conflictos, hambre, miseria, pobreza, desigualdades, violencia**“, explicó el director de la **Aecid**.
-
-En **Centroamérica**, los proyectos activos de la **cooperación española** relacionados con la crisis migratoria ascienden a 7,2 millones de euros (unos 7,8 millones de dólares), anotó, con programas como escuelas taller, el apoyo en **Honduras** a mujeres retornadas, o el caso de **Panamá**, donde en **Darién** han invertido durante los dos últimos años unos 3 millones de euros (3,2 millones de dólares).
-
-Una clínica española en el Darién 
-----------------------------------
-
-Desde septiembre de 2024, la cooperación española instaló además en **Bajo Chiquito** una clínica para responder a esta emergencia humanitaria, como parte del proyecto **START** (Equipo Técnico Español de Ayuda y Respuesta, por sus siglas en inglés).
-
-Allí, la decena de voluntarios del sistema sanitario español, en rotaciones cada dos semanas, han atendido desde entonces, además de población local, a unas 1 800 personas en tránsito, alrededor del 8,2 % del total de las llegadas a **Bajo Chiquito**, sobre todo mujeres y niños, de **más de 30 países.** 
-
-Entre el personal médico, enteramente femenino en esta ocasión, se encuentra Claudia Ruiz, que dejó por unas semanas el Hospital Central de la Cruz Roja en el que trabaja en Madrid, por una clínica en la que reconoce emocionada que además de atender infecciones, lesiones cutáneas o “pies destrozados” por llevarlos mojados durante días sin quitarse la botas, hay también “mucha patología de salud mental”.
-
-“La tuvimos que dejar” en la selva 
------------------------------------
-
-El **venezolano Miguel Alviárez** lleva a su bebé de dos meses colgado mientras trata de cruzar el río. La zona es demasiado profunda, retrocede, en busca de un lugar más seguro. Su esposa le acompaña. En el segundo intento logran superar ese último obstáculo. **Bajo Chiquito** queda a unos pocos metros. 
-
-Pero lejos de sentirse eufórico después de días en la selva, **Miguel** lamenta que tuvieran que dejar a una mujer en el camino, y repite que lo hizo por su bebé, que no podían esperar más.
-
-“En la mitad de la selva está, y me da cosa, yo quisiera regresarme, pero es que los pies ya no los aguanto, los tengo reventados totalmente por debajo de los dedos. Me siento mal por la señora, ella vino con nosotros”, repite el joven, de 32 años, sobre esa mujer con sobrepeso y “las piernas hinchadas”, que iba acompañaba de una joven y su hija de unos cuatro años.
-
-**Yusmary Bueno y su esposo, Eduardo Morales**, también lamentan que no pudieron hacer nada por la mujer, porque oscurecía y debían seguir adelante, tras casi una semana en la selva, ralentizados por las lluvias y las continuas crecidas de los ríos. 
-
-“No podíamos esperar más (…) y nos quedamos sin comida”, relata Yusmary, acompañada de sus cuatro hijos, el menor de cuatro años.
-
-Willian Pacho y PSG ganan el duelo de ecuatorianos en Francia
-=============================================================
-
-Por primera vez en la historia del campeonato francés, dos jugadores ecuatorianos se enfrentaron en el campo de juego.
-----------------------------------------------------------------------------------------------------------------------
-
-![Willian Pacho en un partido con el París Saint-Germain (PSG).](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-62.jpg)
-
-El París Saint-Germain de **Willian Pacho** venció 1-0 al Lens de **Jhoanner** **Chávez** en la décima jornada de la Ligue 1. Ambos ecuatorianos fueron titulares y disputaron los 90 minutos del partido.
-
-Un gol de Ousmane Dembélé en los primeros minutos fue suficiente para que los **parisinos se llevaran la victoria** y se mantuvieran como líderes del campeonato francés, sumando 26 puntos.
-
-### Más noticias:
-
-* [El PSG y Willian Pacho igualan en la tercera fecha de Champions](https://www.elcomercio.com/deportes/psg-willian-pacho-champions-psv.html "El PSG y Willian Pacho igualan en la tercera fecha de Champions")
-* [Brighton y Pervis Estupiñán eliminados de la Carabao Cup](https://www.elcomercio.com/deportes/futbol/brighton-pervis-estupinan-carabao-cup.html "Brighton y Pervis Estupiñán eliminados de la Carabao Cup")
-* [Chelsea y Ecuador celebran el cumpleaños de Moisés Caicedo](https://www.elcomercio.com/deportes/futbol/chelsea-ecuador-celebran-cumpleanos-de-moises-caicedo.html "Chelsea y Ecuador celebran el cumpleaños de Moisés Caicedo")
-
-Histórico enfrentamiento ecuatoriano en la Ligue 1
---------------------------------------------------
-
-Tanto **Pacho como Chávez hicieron historia** al protagonizar el primer duelo entre ecuatorianos en la Ligue 1.
-
-Willian continúa consolidándose como un j**ugador clave en la defensa de Luis Enrique,** siendo titular indiscutible. El central tuvo una actuación destacada, ganando 5 de 6 duelos, registrando tres entradas y un 89% de precisión en sus pases, lo que le valió una calificación de 6,6 puntos en SofaScore.
-
-Por su parte, **Jhoanner** **Chávez**, pese a la derrota, dejó una buena impresión jugando en el sector derecho, una posición que no es la habitual para él. Esto podría ser útil como **variante de emergencia para Sebastián Beccacece** en la selección ecuatoriana.
-
-Chávez acertó el 80% de sus pases, **realizó un pase clave**, bloqueó un remate, hizo cuatro despejes, dos intercepcionesn y una entrada, con una calificación de 7, una de las mejores de su equipo.
-
-París Saint-Germain y Willian Pacho se llevan la victoria
----------------------------------------------------------
-
-El único gol del encuentro en el Parque de los Príncipes llegó a los tres minutos. El PSG recuperó el balón en mitad de cancha y lanzó un rápido contragolpe con **Barcola**, quien avanzó por la izquierda y, al llegar al área, habilitó a **Ousmane Dembélé**, quien definió frente al arco vacío.
-
-> Dembélé is quietly having the best season of his career btw, elite movement here. [pic.twitter.com/8ehehWRsld](https://t.co/8ehehWRsld)
-> 
-> — Gasipo (@gasipo\_opinions) [November 2, 2024](https://twitter.com/gasipo_opinions/status/1852758406756503623?ref_src=twsrc%5Etfw)
-
-Luego del gol, los locales mantuvieron la presión en el área rival, pero no lograron ampliar la ventaja.
-
-El Lens generó su primera ocasión de peligro a los 32 minutos, con un remate de Deiver Machado tras un centro de Chávez, que atajó Donnarumma. Los visitantes siguieron intentando el empate en el tramo final de la primera mitad, pero sin éxito.
-
-En la segunda mitad, el PSG **perdió algo de control ante un Lens intens**o, decidido a buscar la igualdad. Sin embargo, todo cambió a los 59 minutos cuando **Abdukodir Khusanov fue expulsado**, dejando a Lens con diez hombres.
-
-Con la ventaja numérica, el PSG retomó el dominio del balón y creó varias ocasiones, aunque sin poder ampliar el marcador. Finalmente, el **gol** **temprano de Dembélé fue suficiente** para asegurar los tres puntos.
-
-El país donde se habla mejor español, según la inteligencia artificial 
-=======================================================================
-
-Cada país de habla hispana posee características y tradiciones orales muy propias de su región.
------------------------------------------------------------------------------------------------
-
-![Según la IA, Colombia, España y México son los países donde se habla mejor español. Foto: Diario El Tiempo de Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/11/inteligencia-artificial-espanol.jpg)
-
-La **inteligencia artificial** ha ayudado a responder una pregunta inquietante: ¿en qué país **se habla el mejor español**?  
-
-### Más noticias
-
-* [Estudiante crea inteligencia artificial que traduce lenguaje de señas al inglés](https://www.elcomercio.com/tecnologia/inteligencia-artificial-lenguaje-senas-tecnologia.html "https://www.elcomercio.com/tecnologia/inteligencia-artificial-lenguaje-senas-tecnologia.html")
-* [La inteligencia artificial como socia en la batalla contra el cambio climático](https://www.elcomercio.com/tendencias/ambiente/inteligencia-artificial-cambio-climatico-efemeride.html "https://www.elcomercio.com/tendencias/ambiente/inteligencia-artificial-cambio-climatico-efemeride.html") 
-
-El orgullo que sienten las personas por su país puede llevarlos a afirmar que su dialecto y formas de expresión oral son superiores a la de otras naciones con la misma lengua. Sin embargo, el tema tiene muchos matices y es debatible. 
-
-**Características de la lengua** 
----------------------------------
-
-**Estudios realizados por lingüistas** alrededor del mundo afirmaron que **cada país de habla hispana posee características y tradiciones orales muy propias** de su región. Incluso, el acento y la jerga coloquial presentan cambios entre las ciudades de un mismo territorio. 
-
-**La claridad en la comunicación** 
------------------------------------
-
-No obstante, **la claridad y la neutralidad del acento** juega un papel importante a la hora de clasificar las regiones que comparten un mismo idioma. Un ejemplo de esto es el **dialecto de Chile y Argentina** que, según expertos, es un poco **más complejo de entender** debido a su entonación, velocidad y léxico. 
-
-**El español en el mundo** 
----------------------------
-
-**El español es uno de los idiomas más hablados en el mundo**, expandido a nivel global por la colonización. Se estima que es la lengua oficial de aproximadamente 21 países, tal y como lo afirma el medio ABC. 
-
-Sumado a esto, es **la segunda lengua nativa más hablada del mundo**, siendo superada por el **chino mandarín**. 
-
-La **mayor concentración de hispanohablantes** se encuentra en tres países: Argentina, Colombia y España. 
-
-**Perspectivas académicas** 
-----------------------------
-
-“Al menos, desde un planteamiento riguroso y científico, **no hay ningún país en el que se pueda decir que se habla el mejor español**. Sin embargo, podemos hablar acerca de qué lugares **hablan o manejan mejor el lenguaje que otros**, y eso se debe a la formación personal, al conocimiento de la ortografía y la gramática”, explicó **Alejandro Torrealba**, profesor de español colombiano. 
-
-**Opinión de la inteligencia artificial** 
-------------------------------------------
-
-Contrario al pensamiento del profesor, la **inteligencia artificial** tiene una percepción diferente, entregando un top tre de los países que hablan mejor el español. 
-
-**Factores de evaluación** 
----------------------------
-
-Al preguntarle a **ChatGPT** sobre el país que mejor habla la lengua hispana, destacó que **el concepto puede llegar a ser subjetivo**, debido a las variaciones culturales de cada territorio. 
-
-Sin embargo, explicó que **el acento, el vocabulario y la claridad comunicativa** son factores que podrían evaluar y abordar puntos de vista para posicionar a un país como el mejor en el dialecto. 
-
-### **Colombia** 
-
-**En el puesto número uno se encuentra Colombia** que, según la percepción de la **inteligencia artificial**, se lleva el título por su **neutralidad y claridad** en el castellano. 
-
-El territorio colombiano es cuna de **varios dialectos regionales**, atractivos para el resto del mundo, como lo es el acento paisa, oriundo de la región antioqueña y cafetera del país. 
-
-Sin embargo, **el español que se habla en Bogotá** y en ciertas ciudades de la región andina, es considerado como uno con **los estándares más neutros y claros**, facilitando su comprensión. Según la IA, “es uno de los mejores modelos de español debido a su pronunciación y gramática”. 
-
-### **España** 
-
-La **inteligencia artificial i**ndicó que muchas personas consideran que el español de España, en especial en de la **región de Castilla**, es el más estándar de la forma del lenguaje, influenciando la gramática de otros países. 
-
-### **México** 
-
-El país centroamericano ocupa el último puesto del top tres entregado por la **inteligencia artificial de OpenAI**, debido a la claridad y neutralidad de ciertas ciudades en el territorio. 
-
-“**El español mexicano es muy influyente en medios de comunicación y entretenimiento**, y su acento es ampliamente reconocido. También se considera que el español de México **es muy comprensible para los hispanohablantes de otros países**”, reveló la IA. 
-
-Sumado a esto, el cine mexicano y su trabajo de doblaje han logrado que en otros países de habla hispana reproduzcan expresiones y modismos propios de la nación. 
-
-Nicaragua registra 772 muertes por siniestros en las carreteras
-===============================================================
-
-Nicaragua registró en 2023 su máximo histórico de muertos en las carreteras: 1 014, según los datos policiales.
----------------------------------------------------------------------------------------------------------------
-
-![Bandera de Nicaragua.](https://www.elcomercio.com/wp-content/uploads/2024/10/Nicaragua-wikipedia-ok.jpg)
-
-Al menos **772 personas** fallecieron y otras 2250 resultaron heridas en siniestros en las carreteras en lo que va de 2024 en **Nicaragua,** según un informe de la **Dirección de Seguridad de Tránsito de la Policía Nacional** divulgado este miércoles en Managua.
-
-### Más noticias
-
-* [Trump eliminaría los permisos humanitarios para Venezuela, Cuba, Nicaragua y Haití](https://www.elcomercio.com/actualidad/mundo/trump-promete-eliminar-permisos-humanitarios-venezuela-cuba-nicaragua-haiti.html "Trump eliminaría los permisos humanitarios para Venezuela, Cuba, Nicaragua y Haití")
-* [Régimen cubano reporta tercer apagón total en tres días; la crisis energética se agrava](https://www.elcomercio.com/actualidad/mundo/regimen-cubano-reporta-tercer-apagon-total-en-tres-dias-la-crisis-energetica-se-agrava.html "Régimen cubano reporta tercer apagón total en tres días; la crisis energética se agrava")
-* [Miss Universo de Nicaragua está en ‘exilio indefinido’](https://www.elcomercio.com/tendencias/entretenimiento/miss-universo-nicaragua-exilio-escandalo.html "https://www.elcomercio.com/tendencias/entretenimiento/miss-universo-nicaragua-exilio-escandalo.html")
-
-Esa cifra es inferior a los **801 muertos y 2 454 lesionados** ocurridos en el mismo período del año pasado, dijo el inspector general de la **Policía de Nicaragua**, comisionado general Jaime Vanegas, en una comparecencia con medios oficiales.
-
-Nicaragua registró en 2023 su **máximo histórico de muertos en las carreteras: 1 014**, según los datos policiales.
-
-Hasta el 29 de octubre de 2024, la Policía Nacional ha suspendido **36 180 licencias de conducir,** y detuvo a **5 195 conductores ebrios**, según el último informe semanal.
-
-Es decir, suspendieron un promedio diario de **120 licencias y detuvieron a 17 conductores** por día por manejar en estado de ebriedad.
-
-Asimismo, el jefe policial informó sobre un **plan de tránsito** que comenzaron a ejecutar en este mes con el fin de detectar y **detener a los conductores sin licencia,** para evitar siniestros de tráfico, principalmente de motociclistas.
-
-“Desde que iniciamos el plan hasta la fecha llevamos **432 personas que están detenidas** por conducir sin ningún documento, no están acreditados, no tienen licencia de conducir”, indicó.
-
-Vanegas explicó que la primera vez los **detienen por 24 horas**, y si son reincidentes por 72 horas.
-
-“Y nos reservamos el derecho de ejercer la **acción penal** por exposición de personas al peligro”, avisó.
-
-Del total de fallecidos en 2023, el **52,5 % fueron conductores de motocicletas**, principalmente hombres de entre 21 años y 40 años de edad.
-
-Las principales **causas de los siniestros de tráfic**o fueron giros indebidos, conducir en estado de ebriedad, invasión de carril, exceso de velocidad, desatender las **señales de tránsito** e imprudencia peatonal, de acuerdo con la Policía Nacional.
-
-Los días sábado, domingo y lunes, entre las 17:00 y las 04:00, se registraron la mayor cantidad de accidentes viales en Nicaragua.
-
-Los accidentes de tráfico se ubican entre las primeras **10 causas de defunción en el país centroamericano**, que encabezan, en ese orden, el infarto agudo al miocardio, los tumores malignos, la insuficiencia renal y la diabetes, según el mapa nacional de la salud en Nicaragua. 
-
-Brighton dejó escapar la victoria, y el Liverpool es el nuevo líder
-===================================================================
-
-El Brighton no aguantó la ventaja y dejó escapar la oportunidad de meterse en puestos de Uefa Champions League.
----------------------------------------------------------------------------------------------------------------
-
-![Pervis Estupiñán en un partido con el Brighton en la Premier League 2024/25.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-61.jpg)
-
-**Brighton** y **Liverpool** volvieron a protagonizar un gran partido, esta vez en la Premier League. Las ‘Gaviotas’ no lograron mantener su ventaja y perdieron 2-1 en Anfield. **Pervis Estupiñán** fue titular y disputó todo el encuentro.
-
-El conjunto de Sussex mostró carácter y planteó un esquema sólido tanto en defensa como en ataque, buscando sorprender en territorio de los ‘Reds’. Sin embargo, la **i**ntensidad del Liverpool fue demasiado, y el **Brighton no consiguió mantener el resultado.**
-
-### Más noticias:
-
-* [Brighton y Pervis Estupiñán eliminados de la Carabao Cup](https://www.elcomercio.com/deportes/futbol/brighton-pervis-estupinan-carabao-cup.html "Brighton y Pervis Estupiñán eliminados de la Carabao Cup")
-* [¿A qué hora juegan Moisés Caicedo y Pervis Estupiñán en la Carabao Cup?](https://www.elcomercio.com/deportes/futbol/a-que-hora-juegan-moises-caicedo-pervis-estupinan-carabao-cup.html "¿A qué hora juegan Moisés Caicedo y Pervis Estupiñán en la Carabao Cup?")
-* [Pervis Estupiñán y el Brighton sorprenden en la Premier League](https://www.elcomercio.com/deportes/previs-estupinan-brighton-premier-league.html "Pervis Estupiñán y el Brighton sorprenden en la Premier League")
-
-Estupiñán, quien cada vez se afianza más como titular, tuvo una actuación destacada. El **ex Liga de Quito** estuvo muy atento en defensa, neutralizando en varias ocasiones a Mohamed Salah, aunque en el gol de la remontada no lo logró.
-
-Registró **tres despejes, tres intercepciones** y tres entradas exitosas, con un 89% de precisión en sus pases, obteniendo una calificación de 6.5 en SofaScore.
-
-Partidazo entre Brighton y Liverpool
-------------------------------------
-
-Así como en la **Carabao Cup,** **Liverpool y Brighton** ofrecieron un emocionante partido de ida y vuelta. Durante la primera mitad, el Brighton lució mejor, dominando la posesión y generando más remates al arco que los ‘Reds’.
-
-El marcador se abrió al minuto 14, con un gol de **Ferdi** **Kadioglu**, quien finalizó una gran jugada colectiva con un remate cruzado. Sin embargo, en el segundo tiempo, el **Brighton** bajó el ritmo y el Liverpool tomó control.
-
-> ¡BRIGHTON DA EL GOLPE EN ANFIELD! Kadioglu sacó un fierrazo tremendo y la clavó para el 1-0 ante Liverpool.  
->   
-> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) en [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) Premium [pic.twitter.com/O9lkmTNLLS](https://t.co/O9lkmTNLLS)
-> 
-> — SportsCenter (@SC\_ESPN) [November 2, 2024](https://twitter.com/SC_ESPN/status/1852731859651723484?ref_src=twsrc%5Etfw)
-
-A los 69 minutos, **Cody Gakpo** empató con un cabezazo y, solo cuatro minutos después, **Mohamed Salah** anotó el gol de la remontada con un potente disparo en el área.
-
-> ¡LO DIO VUELTA EN UNA RÁFAGA! ¡GOLAZO DE MO SALAH!  
->   
-> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) en [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) Premium [pic.twitter.com/Zl7YzyMFy1](https://t.co/Zl7YzyMFy1)
-> 
-> — SportsCenter (@SC\_ESPN) [November 2, 2024](https://twitter.com/SC_ESPN/status/1852750533162893770?ref_src=twsrc%5Etfw)
-
-En los minutos finales, el **Brighton** intentó reponerse del golpe y comenzó a controlar nuevamente el esférico, pero fue demasiado tarde y no logró evitar la derrota.
-
-Con este resultado, el **Liverpool alcanzó los 25 puntos y se colocó como líder de la Premier League**, aprovechando el tropiezo del Manchester City. El Brighton, por su parte, se mantiene en el séptimo puesto con 19 puntos.
-
-No te pierdes nuestro Especial de Halloween
--------------------------------------------
-
-Jennifer López invita a los latinos a votar por Kamala Harris 
-==============================================================
-
-Jennifer López se une a la banda Maná en Las Vegas para alentar a la comunidad latina a votar por Kamala Harris.
-----------------------------------------------------------------------------------------------------------------
-
-![Jennifer López enfatizó en Nevada la importancia de votar para que Kamala Harris derrote a Donald Trump. Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/11/Jennifer-Lopez-Kamala-Harris.jpg)
-
-**Jennifer López**, la artista puertorriqueña se presentó sin dudar en un evento realizado en **Las Vegas** para ofrecer su apoyo a **Kamala Harris**, la **candidata demócrata** en las elecciones del 5 de noviembre. 
-
-### Más noticias
-
-* [Kamala Harris ofrece un ‘liderazgo nuevo’](https://www.elcomercio.com/actualidad/mundo/kamala-harris-ofrece-liderazgo-nuevo.html "https://www.elcomercio.com/actualidad/mundo/kamala-harris-ofrece-liderazgo-nuevo.html")
-* [Jennifer Lopez con nuevo romance, dicen medios internacionales](https://www.elcomercio.com/afull/jennifer-lopez-ben-affleck.html "https://www.elcomercio.com/afull/jennifer-lopez-ben-affleck.html")
-
-Este jueves 31 de octubre de 2024, según [La Nación](https://www.lanacion.com.ar/estados-unidos/jennifer-lopez-llama-a-las-mujeres-y-los-latinos-a-votar-por-harris-nid01112024/ "https://www.lanacion.com.ar/estados-unidos/jennifer-lopez-llama-a-las-mujeres-y-los-latinos-a-votar-por-harris-nid01112024/"), la **cantante Jennifer López** hizo un **llamado a las mujeres y a la comunidad latina** para que voten por **Kamala Harris** en las elecciones presidenciales, con la esperanza de lograr **un final al estilo de Hollywood**, donde “la chica buena” triunfa. 
-
-**Importancia del voto** 
--------------------------
-
-La ‘diva del pop’ afirmó en un **mitin en Nevada**, uno de los siete estados más competitivos en estas elecciones, que es crucial responder “presente” para que la vicepresidenta demócrata pueda vencer a su contrincante, el expresidente republicano **Donald Trump**, el próximo martes. 
-
-**Indignación por comentarios ofensivos** 
-------------------------------------------
-
-De acuerdo con [CNN](https://cnnespanol.cnn.com/2024/11/01/jennifer-lopez-kamala-harris-donald-trump-latinos-ofendidos-trax "https://cnnespanol.cnn.com/2024/11/01/jennifer-lopez-kamala-harris-donald-trump-latinos-ofendidos-trax"), los **comentarios de la actriz y estrella del pop** durante el mitin de Harris en **Las Vegas** se produjeron en medio de la indignación por las declaraciones de un comediante pro-Trump, quien se refirió a **Puerto Rico**, la tierra natal de los padres de López, como una “isla flotante de basura”. 
-
-**Defensa de la comunidad latina** 
------------------------------------
-
-López expresó: “En el **Madison Square Garden**, nos recordó quién es realmente y cómo se siente realmente”. Añadió que no solo los puertorriqueños **se sintieron ofendidos**, sino que todos los latinos en el país, así como cualquier persona de carácter decente, también lo estaban. 
-
-**Recorrido por estados clave** 
---------------------------------
-
-La aparición de Harris en **Las Vegas**, acompañada de López, tuvo lugar durante un recorrido por los disputados estados del oeste de **Arizona y Nevada**, donde las **encuestas de CNN** publicadas a principios de esta semana revelaron carreras muy reñidas sin un claro líder. 
-
-**Maná se une al apoyo** 
--------------------------
-
-Según [EFE](https://efe.com/mundo/2024-11-01/mana-jlo-kamala-harris-elecciones-eeuu/ "https://efe.com/mundo/2024-11-01/mana-jlo-kamala-harris-elecciones-eeuu/"), la **banda de rock mexicana Maná** también ha respaldado a **Jennifer López** en su apoyo a la vicepresidenta y candidata demócrata **Kamala Harris**. Este jueves, ambos se unieron a su campaña en Las Vegas, Nevada, un estado donde **el voto latino podría ser determinante**. Antes de que la intérprete de Get Right hablara, Maná interpretó algunos de sus éxitos más conocidos, como Mariposa traicionera, En el muelle de San Blas y Clavado en un bar. 
-
-“Es un honor estar aquí apoyando a una candidata que admiro mucho. Creemos en su astucia, entusiasmo e inteligencia. Sería un honor tener a **la primera presidenta mujer de los Estados Unidos**”, afirmó en español el vocalista **Fher Olvera**, según lo citado por EFE.
