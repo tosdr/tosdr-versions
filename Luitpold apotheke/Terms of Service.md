@@ -395,11 +395,9 @@ Auszeichnung von n-tv & DISQ
 
 Service & Info
 
-* [![Sebamed](/images/generic_attachments/attachments/medikamenteperklick/Sebamed_Medi_per_Klick_Duschen_190x60_70012340_19_L01.jpg "H&S - Markenshop")](https://www.medikamente-per-klick.de/markenshops/sebamed/sebamed-empfindliche-haut)
-* [![Calcium Verla](/images/generic_attachments/attachments/medikamenteperklick/Verla_Calcium-Verla_190x60_1021.jpg "Calcium Verla")](https://www.medikamente-per-klick.de/themenshops/mineralstoffe-und-vitamine/calcium-verla)
+* [![Kneipp](/images/generic_attachments/attachments/medikamenteperklick/Kneipp-Duschen_lebensfreude_Luitpold_190x60px.jpg "Kneipp")](https://www.medikamente-per-klick.de/markenshops/kneipp/duschen/duschgel)
 * [![H&S - Markenshop](/images/generic_attachments/attachments/medikamenteperklick/hunds-arzneitees_190x60.jpg "H&S - Markenshop")](https://www.medikamente-per-klick.de/markenshops/h-und-s/erkaeltung-und-husten)
-* [![Espumisan Themenshop](/images/generic_attachments/attachments/medikamenteperklick/espumisan_190x60 px.jpg "Espumisan Themenshop")](https://www.medikamente-per-klick.de/themenshops/blaehungen-und-voellegefuehl)
-* [![Doppelherz Kollagen Beauty](/images/generic_attachments/attachments/medikamenteperklick/Kollagen_190x60_Headline.jpg "Doppelherz Kollagen Beauty")](https://www.medikamente-per-klick.de/product?artnr=13332904)
+* [![Doppelherz Vitamin D3 K2](/images/generic_attachments/attachments/medikamenteperklick/Doppelherz_190x60_d3-2000+k2.jpg "Doppelherz Vitamin D3 K2")](https://www.medikamente-per-klick.de/product?artnr=14063820)
 * [![zum Partnershop - Saniklick](/images/generic_attachments/attachments/medikamenteperklick/sani2.jpg "zum Partnershop - Saniklick")](https://www.saniklick.de/)
 
 Unsere Marken
@@ -650,4 +648,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=zwvvsgthptahjhzovcrxjjcqiaerzaiw&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=oqgzvucgmxjfyukmfhdfkcpxhrfbknre&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
