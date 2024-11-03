@@ -220,7 +220,7 @@ Search
     
     [![](https://s3-us-west-2.amazonaws.com/catsy.1040/MENU-2410-HXT-PPC-72HR-LIFESTYLE-SURVIVAL-BUNDLE-854x674.jpg )](https://4patriots.com/category/solar-food-combo-kits)[Bundle & Save](https://4patriots.com/category/solar-food-combo-kits)
     
-    [![](https://s3-us-west-2.amazonaws.com/catsy.1040/MENU-2410-PPGS-X-LIFESTYLE-OUTDOORS-854x674.jpg )](https://4patriots.com/product/ultracharge-patriot-power-generator-2000x-sidekick-package)["Ultracharge" Backup Power Package](https://4patriots.com/product/ultracharge-patriot-power-generator-2000x-sidekick-package)﻿
+    [![](https://s3-us-west-2.amazonaws.com/catsy.1040/MENU-2410-PPGS-X-LIFESTYLE-OUTDOORS-854x674.jpg )](https://4patriots.com/product/ultracharge-patriot-power-generator-2000x-sidekick-bundle)["Ultracharge" Backup Power Package](https://4patriots.com/product/ultracharge-patriot-power-generator-2000x-sidekick-bundle)﻿
     
     [![](https://s3-us-west-2.amazonaws.com/catsy.1040/MENU-2410-FBR-LIFESTYLE-KITCHEN-854x674.jpg)](https://4patriots.com/product/emergency-food-ration-bars)["No Prep" Emergency Food Bars](https://4patriots.com/category/water-filtration/long-term-water-storage)
     
