@@ -205,27 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Kung Fu in our Daily Lives](https://www.somethingawful.com/comedy-goldmine/kung-fu-our/1/)
-* [Something Awful does Fark](https://www.somethingawful.com/comedy-goldmine/something-awful-does/1/)
-* [Dudes Who Need Ninjitsu Moves Done on Them](https://www.somethingawful.com/news/steve-returns-ninjitsu/1/)
-* [Turbo; The Conjuring; Red 2; Only God Forgives; The Frozen Ground](https://www.somethingawful.com/current-movie-reviews/turbo-conjuring/1/)
+* [The Bat Farm](https://www.somethingawful.com/icq-pranks/icq-transcript-bat/1/)
+* [Getting to Know Your Dance Dance Revolution Dancers](https://www.somethingawful.com/guides/guide-getting-know/1/)
+* [Dark Stories: Tales from Beyond the Grave (pt. 1)](https://www.somethingawful.com/movie-reviews/dark-stories-tales/1/)
+* [I don't give a fuuuuuuuck!](https://www.somethingawful.com/awfulvision/mayonaise-corn-pig/1/)
+* [Big Monsters of Rodeo!](https://www.somethingawful.com/icq-pranks/icq-transcript-big-2/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/guns-review.gif) [What really grinds your gears?](http://forums.somethingawful.com/showthread.php?threadid=4074123 "What really grinds your gears?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [damn your election is on a tuesday](http://forums.somethingawful.com/showthread.php?threadid=4074166 "damn your election is on a tuesday")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Hot Yachts Miami](http://forums.somethingawful.com/showthread.php?threadid=4074141 "Hot Yachts Miami")
-* ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [Election Day Shennanigans - Plans, Food, Parties, etc.](http://forums.somethingawful.com/showthread.php?threadid=4074130 "Election Day Shennanigans - Plans, Food, Parties, etc.")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [The Official General Bullshit Maine Thread](http://forums.somethingawful.com/showthread.php?threadid=4074139 "The Official General Bullshit Maine Thread")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [Quack](http://forums.somethingawful.com/showthread.php?threadid=4074171 "Quack")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [damn your election is on a tuesday](http://forums.somethingawful.com/showthread.php?threadid=4074166 "damn your election is on a tuesday")
 
 ### Random Articles
 
-* [Barkwire.com Dog Reviews: Trotter](https://www.somethingawful.com/news/barkwire-trotter/1/)
-* [Ten Four, Good Buddy](https://www.somethingawful.com/news/trucker-radio-voice/)
-* [Get dow with your bad self.](https://www.somethingawful.com/news/get-dow-with/)
-* [Guardians of the Galaxy; Get On Up; A Most Wanted Man](https://www.somethingawful.com/current-movie-reviews/guardians-james-brown/)
-* [Our Country is Exploding With Flavor!](https://www.somethingawful.com/news/our-country-exploding/)
+* [the flow forum II](https://www.somethingawful.com/awful-links/awful-link-4041/)
+* [Barry Dutter](https://www.somethingawful.com/awful-links/awful-link-2159/)
+* [Cast Fetish](https://www.somethingawful.com/awful-links/awful-link-1975/)
+* [You Can Put All Your Fears to Rest: The Force Awakens is Good](https://www.somethingawful.com/news/star-wars-fears/)
+* [Steve Bradenton Cartoons](https://www.somethingawful.com/awful-links/bradenton-political-cartoon/)
 
 [Random!](https://www.somethingawful.com/random/)
 
