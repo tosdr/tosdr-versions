@@ -121,9 +121,9 @@ Other languages:
 * [اردو](https://meta.miraheze.org/wiki/Terms_of_Use/ur "استعمال کی شرائط (4% translated)")
 * [हिन्दी](https://meta.miraheze.org/wiki/Terms_of_Use/hi "उपयोग की शर्तें (8% translated)")
 * [বাংলা](https://meta.miraheze.org/wiki/Terms_of_Use/bn "ব্যবহারের শর্তাবলী (4% translated)")
-* [中文（简体）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-hans "使用条款 (92% translated)")
-* [中文（繁體）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-hant "使用條款 (22% translated)")
-* [中文（香港）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-hk "使用條款 (8% translated)")
+* [中文（简体）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-hans "使用条款 (94% translated)")
+* [中文（繁體）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-hant "使用條款 (71% translated)")
+* [中文（香港）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-hk "使用條款 (45% translated)")
 * [日本語](https://meta.miraheze.org/wiki/Terms_of_Use/ja "利用規約 (39% translated)")
 * [한국어](https://meta.miraheze.org/wiki/Terms_of_Use/ko "이용 약관 (2% translated)")
 
