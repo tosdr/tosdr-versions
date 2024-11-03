@@ -189,10 +189,10 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**Preview** | Christmas with John Rutter at Preston Hollow](https://video.nhpbs.org/video/preview-benrob?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Wynonna** | Austin City Limits](https://video.nhpbs.org/video/wynonna-a21szo?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Ready, Set, Vote** | The State We're In](https://video.nhpbs.org/video/ready-set-vote-i5hrhf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**H.R. McMaster** | Firing Line](https://video.nhpbs.org/video/hr-mcmaster-ua3jpo?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**full episode, 11/1/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-11124-yrro6a?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**November 1, 2024** | Amanpour and Company](https://video.nhpbs.org/video/november-1-2024-ifkuy6?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**H.R. McMaster** | Firing Line](https://video.nhpbs.org/video/hr-mcmaster-ua3jpo?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Season 5 Preview** | Miss Scarlet](https://video.nhpbs.org/video/season-5-preview-mvzfcs?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Young Lionness Learns to Hunt Giraffes** | Nature](https://video.nhpbs.org/video/young-lionness-learns-to-hunt-giraffes?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
