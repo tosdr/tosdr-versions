@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [In Photos: Highlights of the 2024 Election Season](https://www.theepochtimes.com/article/in-photos-highlights-of-the-2024-election-season-5752855)
+    
+    1hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![In Photos: Highlights of the 2024 Election Season](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![In Photos: Highlights of the 2024 Election Season](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752988-Trump-Harris-8-2-SB-SB-lead3-4-205x123.jpg.webp)](https://www.theepochtimes.com/article/in-photos-highlights-of-the-2024-election-season-5752855)
+* [Georgia Judge Dismisses GOP Effort to Halt Weekend Absentee Ballot Drop-Offs](https://www.theepochtimes.com/us/georgia-judge-dismisses-gop-effort-to-halt-weekend-absentee-ballot-drop-offs-5752936)
+    
+    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Georgia Judge Dismisses GOP Effort to Halt Weekend Absentee Ballot Drop-Offs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Georgia Judge Dismisses GOP Effort to Halt Weekend Absentee Ballot Drop-Offs](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752938-Election_2024_Absentee_Ballots_Georgia_24307721220522-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-judge-dismisses-gop-effort-to-halt-weekend-absentee-ballot-drop-offs-5752936)
+* [FBI Says It Has Been Impersonated in 2 Fake Election Security Videos](https://www.theepochtimes.com/us/fbi-says-it-has-been-impersonated-in-2-fake-election-security-videos-5752937)
+    
+    5hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![FBI Says It Has Been Impersonated in 2 Fake Election Security Videos](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![FBI Says It Has Been Impersonated in 2 Fake Election Security Videos](https://img.theepochtimes.com/assets/uploads/2024/08/13/id5704881-08122024-DSC00079-FBI-205x123.jpg.webp)](https://www.theepochtimes.com/us/fbi-says-it-has-been-impersonated-in-2-fake-election-security-videos-5752937)
+* [Washington Housing Commission Sued Over Alleged Racial Discrimination](https://www.theepochtimes.com/us/washington-housing-commission-sued-over-alleged-racial-discrimination-5752419)
+    
+    6hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    
+    [![Washington Housing Commission Sued Over Alleged Racial Discrimination](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Washington Housing Commission Sued Over Alleged Racial Discrimination](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730106-House-sale_1KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/washington-housing-commission-sued-over-alleged-racial-discrimination-5752419)
 * [TGI Fridays Files for Bankruptcy Amid Financial Struggles](https://www.theepochtimes.com/business/tgi-fridays-files-for-bankruptcy-amid-financial-struggles-5752800)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![TGI Fridays Files for Bankruptcy Amid Financial Struggles](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![TGI Fridays Files for Bankruptcy Amid Financial Struggles](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752836-TGIF-205x123.jpg.webp)](https://www.theepochtimes.com/business/tgi-fridays-files-for-bankruptcy-amid-financial-struggles-5752800)
 * [Georgia Logs More Than 4 Million Votes as Early Voting Period Ends](https://www.theepochtimes.com/us/georgia-logs-more-than-4-million-votes-as-early-voting-period-ends-5752727)
     
-    2hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    8hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![Georgia Logs More Than 4 Million Votes as Early Voting Period Ends](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Georgia Logs More Than 4 Million Votes as Early Voting Period Ends](https://img.theepochtimes.com/assets/uploads/2024/11/01/id5752499-early-voting-Georgia-GettyImages-2181595370KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-logs-more-than-4-million-votes-as-early-voting-period-ends-5752727)
 * [Washington Governor Activates National Guard to Counter Potential Election Violence](https://www.theepochtimes.com/us/washington-governor-activates-national-guard-to-counter-potential-election-violence-5752754)
     
-    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    9hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Washington Governor Activates National Guard to Counter Potential Election Violence](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Washington Governor Activates National Guard to Counter Potential Election Violence](https://img.theepochtimes.com/assets/uploads/2024/06/19/id5671590-GettyImages-1211829923-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/washington-governor-activates-national-guard-to-counter-potential-election-violence-5752754)
 * [Nvidia to Replace Intel in Dow Jones Index](https://www.theepochtimes.com/business/nvidia-to-replace-intel-in-dow-jones-index-5752761)
     
-    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    9hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![Nvidia to Replace Intel in Dow Jones Index](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Nvidia to Replace Intel in Dow Jones Index](https://img.theepochtimes.com/assets/uploads/2024/08/18/id5707672-Nvidia-logo-e1723974133794.-LS_1-205x123.jpg.webp)](https://www.theepochtimes.com/business/nvidia-to-replace-intel-in-dow-jones-index-5752761)
 * [Pentagon Announces $425 Million Additional Military Aid to Ukraine](https://www.theepochtimes.com/world/pentagon-announces-425-million-additional-military-aid-to-ukraine-5752714)
     
-    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    9hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Pentagon Announces $425 Million Additional Military Aid to Ukraine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Pentagon Announces $425 Million Additional Military Aid to Ukraine](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752910-Russia_Ukraine_War_24306326990458-SB-205x123.jpg.webp)](https://www.theepochtimes.com/world/pentagon-announces-425-million-additional-military-aid-to-ukraine-5752714)
-* [How the 7 Swing States Will Count Votes and Post Election Results](https://www.theepochtimes.com/article/how-the-7-swing-states-will-count-votes-and-post-election-results-5739956)
+* [Ed Sheeran Wins Copyright Infringement Lawsuit Over ‘Thinking Out Loud’](https://www.theepochtimes.com/us/ed-sheeran-wins-copyright-infringement-lawsuit-over-thinking-out-loud-5752744)
     
-    3hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson), [Allan Stein](https://www.theepochtimes.com/author/allan-stein), [John Haughey](https://www.theepochtimes.com/author/john-haughey), [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester), [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman), [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh), [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback), [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord) and [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
+    9hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![How the 7 Swing States Will Count Votes and Post Election Results](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Ed Sheeran Wins Copyright Infringement Lawsuit Over ‘Thinking Out Loud’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![How the 7 Swing States Will Count Votes and Post Election Results](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752776-7-states-9-205x123.jpg.webp)](https://www.theepochtimes.com/article/how-the-7-swing-states-will-count-votes-and-post-election-results-5739956)
-* [Homebuyers Lose $33,250 in Purchasing Power as Mortgage Rates Exceed 7 Percent: Report](https://www.theepochtimes.com/real-estate/homebuyers-lose-33250-in-purchasing-power-as-mortgage-rates-exceed-7-percent-report-5752257)
-    
-    4hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Homebuyers Lose $33,250 in Purchasing Power as Mortgage Rates Exceed 7 Percent: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Homebuyers Lose $33,250 in Purchasing Power as Mortgage Rates Exceed 7 Percent: Report](https://img.theepochtimes.com/assets/uploads/2024/02/20/id5591462-GettyImages-1739426931KO-205x123.jpg.webp)](https://www.theepochtimes.com/real-estate/homebuyers-lose-33250-in-purchasing-power-as-mortgage-rates-exceed-7-percent-report-5752257)
-* [US to Deploy More Bombers, Fighter Jets to Middle East as Carrier Strike Group Departs](https://www.theepochtimes.com/world/us-to-deploy-more-bombers-fighter-jets-to-middle-east-as-carrier-strike-group-departs-5752589)
-    
-    4hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
-    
-    [![US to Deploy More Bombers, Fighter Jets to Middle East as Carrier Strike Group Departs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US to Deploy More Bombers, Fighter Jets to Middle East as Carrier Strike Group Departs](https://img.theepochtimes.com/assets/uploads/2024/02/01/id5578503-lloyd-austin-feb-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-to-deploy-more-bombers-fighter-jets-to-middle-east-as-carrier-strike-group-departs-5752589)
-* [New Trends in Single-Family Home Rentals Go Upscale](https://www.theepochtimes.com/real-estate/new-trends-in-single-family-home-rentals-go-upscale-as-demand-for-build-to-rent-homes-soars-5752357)
-    
-    5hr By [Mary Prenon](https://www.theepochtimes.com/author/mary-prenon)
-    
-    [![New Trends in Single-Family Home Rentals Go Upscale](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![New Trends in Single-Family Home Rentals Go Upscale](https://img.theepochtimes.com/assets/uploads/2024/03/28/id5616991-NerdWallet_Millennial_Money_BNPL_Rent_24086529375784-205x123.jpeg.webp)](https://www.theepochtimes.com/real-estate/new-trends-in-single-family-home-rentals-go-upscale-as-demand-for-build-to-rent-homes-soars-5752357)
-* [Biden Speaks to Unions in Battleground Pennsylvania Days Before Election](https://www.theepochtimes.com/us/biden-speaks-to-unions-in-battleground-pennsylvania-days-before-election-5752534)
-    
-    6hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
-    
-    [![Biden Speaks to Unions in Battleground Pennsylvania Days Before Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden Speaks to Unions in Battleground Pennsylvania Days Before Election](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752583-Biden-Union-Featured-Image-e1730522777927-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-speaks-to-unions-in-battleground-pennsylvania-days-before-election-5752534)
+    ![Ed Sheeran Wins Copyright Infringement Lawsuit Over ‘Thinking Out Loud’](https://img.theepochtimes.com/assets/uploads/2023/04/25/id5220619-Ed-Sheeran-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/ed-sheeran-wins-copyright-infringement-lawsuit-over-thinking-out-loud-5752744)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
