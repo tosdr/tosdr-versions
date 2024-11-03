@@ -93,7 +93,13 @@ Search site
 
 [Severe Thunderstorm Warning
 
-from SUN 7:33 AM CST until SUN 8:30 AM CST, Cooke County](https://www.fox4news.com/weather-alerts)
+from SUN 1:44 PM CST until SUN 2:30 PM CST, Jack County](https://www.fox4news.com/weather-alerts)
+
+2
+
+[Severe Thunderstorm Watch
+
+from SUN 11:58 AM CST until SUN 5:00 PM CST, Wise County, Palo Pinto County, Jack County](https://www.fox4news.com/weather-alerts)
 
 Terms of Use
 ============
