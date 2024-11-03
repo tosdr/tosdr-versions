@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-409796d81e49d1e9d30d63266d14100e
+6ac7c3382e9da0e3461beec5b0917806
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![10 mm round vintage German glass beads](https://www.sojourner.biz/images/cache/glass/GL0140.200.jpg)](https://www.sojourner.biz/beads/glass/10-mm-round-vintage-german-glass-beads.html "10 mm round vintage German glass beads")
+[![2 mm micro-faceted amethyst beads](https://www.sojourner.biz/images/cache/amethyst/YST022one.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/amethyst/2-mm-micro-faceted-amethyst-beads.html "2 mm micro-faceted amethyst beads")
 
-#### [10 mm round vintage German glass beads](https://www.sojourner.biz/beads/glass/10-mm-round-vintage-german-glass-beads.html "10 mm round vintage German glass beads")
+#### [2 mm micro-faceted amethyst beads](https://www.sojourner.biz/beads/stone-a-l/amethyst/2-mm-micro-faceted-amethyst-beads.html "2 mm micro-faceted amethyst beads")
 
-$8.00
+$18.00
 
 ### Best Sellers
 
