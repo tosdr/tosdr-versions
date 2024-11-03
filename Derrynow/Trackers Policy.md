@@ -259,42 +259,21 @@ Advertise with Us
 
 Most Popular
 
-[![When and where to watch Munster vs All Blacks XV | TV, stream, time, tickets and teams](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "When and where to watch Munster vs All Blacks XV | TV, stream, time, tickets and teams")](https://www.derrynow.com/news/national-news/1645875/when-and-where-to-watch-munster-vs-all-blacks-xv-tv-stream-time-tickets-and-teams.html)
-
-The Maori All Blacks perform 'The Haka' before the match between Munster and the New Zealand Maori All Blacks at Thomond Park, Limerick in 2016. Photo: Diarmuid Greene/Sportsfile
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[When and where to watch Munster vs All Blacks XV | TV, stream, time, tickets and teams](https://www.derrynow.com/news/national-news/1645875/when-and-where-to-watch-munster-vs-all-blacks-xv-tv-stream-time-tickets-and-teams.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry thronged for finale of Europe’s biggest Halloween celebration](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry thronged for finale of Europe’s biggest Halloween celebration")](https://www.derrynow.com/story-telling/pictures---videos/1645682/in-pictures-derry-gets-in-the-spooky-spirit-with-finale-halloween-parade.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry gets in the spooky spirit with finale Halloween parade](https://www.derrynow.com/story-telling/pictures---videos/1645682/in-pictures-derry-gets-in-the-spooky-spirit-with-finale-halloween-parade.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Investigation launched following serious sexually motivated attack on woman in Drumahoe](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Investigation launched following serious sexually motivated attack on woman in Drumahoe")](https://www.derrynow.com/news/local-news/1645846/investigation-launched-following-serious-sexually-motivated-attack-on-woman-in-drumahoe.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Investigation launched following serious sexually motivated attack on woman in Drumahoe](https://www.derrynow.com/news/local-news/1645846/investigation-launched-following-serious-sexually-motivated-attack-on-woman-in-drumahoe.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Funeral details announced as family pays tribute to former broadcaster David Davin-Power](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Funeral details announced as family pays tribute to former broadcaster David Davin-Power")](https://www.derrynow.com/news/national-news/1645844/funeral-details-announced-as-family-pays-tribute-to-former-broadcaster-david-davin-power.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Funeral details announced as family pays tribute to former broadcaster David Davin-Power](https://www.derrynow.com/news/national-news/1645844/funeral-details-announced-as-family-pays-tribute-to-former-broadcaster-david-davin-power.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1645576/derry-death-notices-sunday-november-3-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Sunday, November 3, 2024](https://www.derrynow.com/news/deaths/1645576/derry-death-notices-sunday-november-3-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police in Derry investigating sexually motivated attack on a woman in her 40s](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry investigating sexually motivated attack on a woman in her 40s")](https://www.derrynow.com/news/local-news/1646432/police-in-derry-investigating-sexually-motivated-attack-on-a-woman-in-her-40s.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police in Derry investigating sexually motivated attack on a woman in her 40s](https://www.derrynow.com/news/local-news/1646432/police-in-derry-investigating-sexually-motivated-attack-on-a-woman-in-her-40s.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Ciaran McDermott handing over a framed signed Celtic jersey on behalf of Celtic FC, to Monica McGuigan for fundraising event for Children In Crossfire. With Felix Healy, Drive 105. (Pho - Tom Heaney, ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ciaran McDermott handing over a framed signed Celtic jersey on behalf of Celtic FC, to Monica McGuigan for fundraising event for Children In Crossfire. With Felix Healy, Drive 105. (Pho - Tom Heaney, ")](https://www.derrynow.com/news/derry-news/1646260/derry-woman-to-climb-kilimanjaro-for-children-in-crossfire.html)
 
@@ -304,6 +283,13 @@ Ciaran McDermott handing over a framed signed Celtic jersey on behalf of Celtic 
 
 [Derry woman to climb Kilimanjaro for Children in Crossfire](https://www.derrynow.com/news/derry-news/1646260/derry-woman-to-climb-kilimanjaro-for-children-in-crossfire.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry nun Sister Clare Crockett to be declared ‘Servant of God'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry nun Sister Clare Crockett to be declared ‘Servant of God'")](https://www.derrynow.com/news/local-news/1646259/derry-nun-sister-clare-crockett-to-be-declared-servant-of-god.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry nun Sister Clare Crockett to be declared ‘Servant of God'](https://www.derrynow.com/news/local-news/1646259/derry-nun-sister-clare-crockett-to-be-declared-servant-of-god.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![County Derry man to make history with New York Giants in NFL](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man to make history with New York Giants in NFL")](https://www.derrynow.com/news/derry-sport/1646270/county-derry-man-to-make-history-with-new-york-giants-in-nfl.html)
 
@@ -323,6 +309,13 @@ NI Health Minister Mike Nesbitt is welcomed to the Women's Aid Centre by CEO Mar
 [Health Minister whistle-stop visit to Women’s Aid Centre in Derry](https://www.derrynow.com/news/local-news/1645618/health-minister-whistle-stop-visit-to-womens-aid-centre-in-derry.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Families of the Disappeared appeal for help to end their pain](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Families of the Disappeared appeal for help to end their pain")](https://www.derrynow.com/news/national-news/1645886/families-of-the-disappeared-appeal-for-help-to-end-their-pain.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Families of the Disappeared appeal for help to end their pain](https://www.derrynow.com/news/national-news/1645886/families-of-the-disappeared-appeal-for-help-to-end-their-pain.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1646191/institute-left-frustrated-against-10-man-annagh-at-the-brandywell.html)
 
 Benny McLaughlin in action for Institiute today. Pic by Tom Heaney, nwpresspics
@@ -332,12 +325,19 @@ Benny McLaughlin in action for Institiute today. Pic by Tom Heaney, nwpresspics
 [Institute left frustrated against 10-man Annagh at the Brandywell](https://www.derrynow.com/news/derry-sport/1646191/institute-left-frustrated-against-10-man-annagh-at-the-brandywell.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Families of the Disappeared appeal for help to end their pain](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Families of the Disappeared appeal for help to end their pain")](https://www.derrynow.com/news/national-news/1645886/families-of-the-disappeared-appeal-for-help-to-end-their-pain.html)
+[![Annual Christmas Craft Fair at St Mary's College this November](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Annual Christmas Craft Fair at St Mary's College this November")](https://www.derrynow.com/news/local-news/1644033/annual-christmas-craft-fair-at-st-mary-s-college-this-november.html)
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Families of the Disappeared appeal for help to end their pain](https://www.derrynow.com/news/national-news/1645886/families-of-the-disappeared-appeal-for-help-to-end-their-pain.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Annual Christmas Craft Fair at St Mary's College this November](https://www.derrynow.com/news/local-news/1644033/annual-christmas-craft-fair-at-st-mary-s-college-this-november.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![North West Migrants Forum launches new phase of Hidden History Project](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "North West Migrants Forum launches new phase of Hidden History Project")](https://www.derrynow.com/news/local-news/1644162/north-west-migrants-forum-launches-new-phase-of-hidden-history-project.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[North West Migrants Forum launches new phase of Hidden History Project](https://www.derrynow.com/news/local-news/1644162/north-west-migrants-forum-launches-new-phase-of-hidden-history-project.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,14 +515,48 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![North West Migrants Forum launches new phase of Hidden History Project](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "North West Migrants Forum launches new phase of Hidden History Project")](https://www.derrynow.com/news/local-news/1644162/north-west-migrants-forum-launches-new-phase-of-hidden-history-project.html)
+[![Ballinderry Shamrocks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinderry Shamrocks")](https://www.derrynow.com/news/derry-sport/1646569/ryan-bell-hails-massive-victory-for-ballinderry.html)
+
+Ballinderry celebrate their Intermediate title win at Owenbeg. Pic by George Sweeney, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Ryan Bell hails 'massive' victory for Ballinderry](https://www.derrynow.com/news/derry-sport/1646569/ryan-bell-hails-massive-victory-for-ballinderry.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Craigbane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Craigbane")](https://www.derrynow.com/news/derry-sport/1646562/craigbane-book-their-place-in-ulster-semi-finals-with-thrilling-victory-over-knockbride.html)
+
+Craigbane have booked their place in the Ulster semi-finals.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Craigbane book their place in Ulster semi-finals with thrilling victory over Knockbride](https://www.derrynow.com/news/derry-sport/1646562/craigbane-book-their-place-in-ulster-semi-finals-with-thrilling-victory-over-knockbride.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry nun Sister Clare Crockett to be declared ‘Servant of God'](https://www.derrynow.com/resizer/165/93/true/2024_11_03/IDNM_04-11-24_Sister_Clare_Crockett-1730622286437.jpg--.jpg?1730622286474 "Derry nun Sister Clare Crockett to be declared ‘Servant of God'")](https://www.derrynow.com/news/local-news/1646259/derry-nun-sister-clare-crockett-to-be-declared-servant-of-god.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry nun Sister Clare Crockett to be declared ‘Servant of God'](https://www.derrynow.com/news/local-news/1646259/derry-nun-sister-clare-crockett-to-be-declared-servant-of-god.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police in Derry investigating sexually motivated attack on a woman in her 40s](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Police in Derry investigating sexually motivated attack on a woman in her 40s")](https://www.derrynow.com/news/local-news/1646432/police-in-derry-investigating-sexually-motivated-attack-on-a-woman-in-her-40s.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police in Derry investigating sexually motivated attack on a woman in her 40s](https://www.derrynow.com/news/local-news/1646432/police-in-derry-investigating-sexually-motivated-attack-on-a-woman-in-her-40s.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![North West Migrants Forum launches new phase of Hidden History Project](https://www.derrynow.com/resizer/165/93/true/2024_10_31/Hidden_History_main-1730379176614.jpg--.jpg?1730379176690 "North West Migrants Forum launches new phase of Hidden History Project")](https://www.derrynow.com/news/local-news/1644162/north-west-migrants-forum-launches-new-phase-of-hidden-history-project.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [North West Migrants Forum launches new phase of Hidden History Project](https://www.derrynow.com/news/local-news/1644162/north-west-migrants-forum-launches-new-phase-of-hidden-history-project.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Ciaran McDermott handing over a framed signed Celtic jersey on behalf of Celtic FC, to Monica McGuigan for fundraising event for Children In Crossfire. With Felix Healy, Drive 105. (Pho - Tom Heaney, ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ciaran McDermott handing over a framed signed Celtic jersey on behalf of Celtic FC, to Monica McGuigan for fundraising event for Children In Crossfire. With Felix Healy, Drive 105. (Pho - Tom Heaney, ")](https://www.derrynow.com/news/derry-news/1646260/derry-woman-to-climb-kilimanjaro-for-children-in-crossfire.html)
+[![Ciaran McDermott handing over a framed signed Celtic jersey on behalf of Celtic FC, to Monica McGuigan for fundraising event for Children In Crossfire. With Felix Healy, Drive 105. (Pho - Tom Heaney, ](https://www.derrynow.com/resizer/165/93/true/2024_11_03/FRAMED_CELTIC_JERSEY_FUNDRAISER_FOR_CHILDREN_IN_CROSSFIRE-1730623690862.JPG--.JPG?1730623693095 "Ciaran McDermott handing over a framed signed Celtic jersey on behalf of Celtic FC, to Monica McGuigan for fundraising event for Children In Crossfire. With Felix Healy, Drive 105. (Pho - Tom Heaney, ")](https://www.derrynow.com/news/derry-news/1646260/derry-woman-to-climb-kilimanjaro-for-children-in-crossfire.html)
 
 Ciaran McDermott handing over a framed signed Celtic jersey on behalf of Celtic FC, to Monica McGuigan for fundraising event for Children In Crossfire. With Felix Healy, Drive 105. (Pho - Tom Heaney,
 
@@ -530,38 +564,6 @@ Ciaran McDermott handing over a framed signed Celtic jersey on behalf of Celtic 
 
 [Derry woman to climb Kilimanjaro for Children in Crossfire](https://www.derrynow.com/news/derry-news/1646260/derry-woman-to-climb-kilimanjaro-for-children-in-crossfire.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Annual Christmas Craft Fair at St Mary's College this November](https://www.derrynow.com/resizer/165/93/true/2024_10_31/St_Mary_s_Christmas_Craft_Fair-1730374127668.jpg--.jpg?1730374127696 "Annual Christmas Craft Fair at St Mary's College this November")](https://www.derrynow.com/news/local-news/1644033/annual-christmas-craft-fair-at-st-mary-s-college-this-november.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Annual Christmas Craft Fair at St Mary's College this November](https://www.derrynow.com/news/local-news/1644033/annual-christmas-craft-fair-at-st-mary-s-college-this-november.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry man to make history with New York Giants in NFL](https://www.derrynow.com/resizer/165/93/true/1628330593748.JPG--.JPG?1628330593000 "County Derry man to make history with New York Giants in NFL")](https://www.derrynow.com/news/derry-sport/1646270/county-derry-man-to-make-history-with-new-york-giants-in-nfl.html)
-
-Jude McAtamney
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[County Derry man to make history with New York Giants in NFL](https://www.derrynow.com/news/derry-sport/1646270/county-derry-man-to-make-history-with-new-york-giants-in-nfl.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Sunday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%2811%29-1695307374487.jpg--.jpg?1695307374613 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1645576/derry-death-notices-sunday-november-3-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday, November 3, 2024](https://www.derrynow.com/news/deaths/1645576/derry-death-notices-sunday-november-3-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Institute](https://www.derrynow.com/resizer/165/93/true/2024_11_02/8M8A7678-1730583662858.jpg--.jpg?1730583663574 "Institute")](https://www.derrynow.com/news/derry-sport/1646191/institute-left-frustrated-against-10-man-annagh-at-the-brandywell.html)
-
-Benny McLaughlin in action for Institiute today. Pic by Tom Heaney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Institute left frustrated against 10-man Annagh at the Brandywell](https://www.derrynow.com/news/derry-sport/1646191/institute-left-frustrated-against-10-man-annagh-at-the-brandywell.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
