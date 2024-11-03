@@ -43,7 +43,7 @@ account
 
 close
 
-[FIND FOCUS with an ad-free experience with Bible Gateway Plus. Try it free today!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_adfreefocus20241017)
+[Find answers to your Bible questions with Bible Gateway Plus. Try it free today!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_answerquestions0516)
 
 close
 
