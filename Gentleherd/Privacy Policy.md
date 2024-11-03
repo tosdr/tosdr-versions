@@ -645,6 +645,6 @@ Your personal data will be used to support your experience throughout this websi
 
  Register
 
-![facebook_pixel](https://www.facebook.com/tr?id=386724052628427&ev=PageView&noscript=1&eid=386724052628427e74c0439-46be-423c-bfb0-9b6177350f54&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
+![facebook_pixel](https://www.facebook.com/tr?id=386724052628427&ev=PageView&noscript=1&eid=386724052628427e97afc0f-6cda-4b06-9d08-823e2600debe&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
 
-![facebook_pixel](https://www.facebook.com/tr?id=1010714329333125&ev=PageView&noscript=1&eid=1010714329333125e74c0439-46be-423c-bfb0-9b6177350f54&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
+![facebook_pixel](https://www.facebook.com/tr?id=1010714329333125&ev=PageView&noscript=1&eid=1010714329333125e97afc0f-6cda-4b06-9d08-823e2600debe&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
