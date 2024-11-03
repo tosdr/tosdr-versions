@@ -134,6 +134,76 @@ Política de privacidade
 
 * ### Últimos tópicos
     
+    * [![Eduardo_fv](https://www.clubedohardware.com.br/uploads/members/monthly_2023_11/imported-photo-1233076.thumb.png.33ecbbf2f9ae4211cb43177177c9db8c.png)](https://www.clubedohardware.com.br/profile/1233076-eduardo_fv/ "Ir ao perfil de Eduardo_fv")
+        
+        0
+        
+        [Monitor Novo: Jogar Competitivo a 200Hz e histórias a 75Hz, Como Fica?](https://www.clubedohardware.com.br/forums/topic/1701345-monitor-novo-jogar-competitivo-a-200hz-e-hist%C3%B3rias-a-75hz-como-fica/?do=getNewComment "Monitor Novo: Jogar Competitivo a 200Hz e histórias a 75Hz, Como Fica?")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [Eduardo\_fv](https://www.clubedohardware.com.br/profile/1233076-eduardo_fv/ "Ir ao perfil de Eduardo_fv")  
+        1 hora atrás
+        
+    * [![zezinho69](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%237fc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EZ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255472-zezinho69/ "Ir ao perfil de zezinho69")
+        
+        1
+        
+        [Imagem dando tela preta,artefatos e ficando com cores aleatórias!](https://www.clubedohardware.com.br/forums/topic/1701344-imagem-dando-tela-pretaartefatos-e-ficando-com-cores-aleat%C3%B3rias/?do=getNewComment "Imagem dando tela preta,artefatos e ficando com cores aleatórias!")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [zezinho69](https://www.clubedohardware.com.br/profile/1255472-zezinho69/ "Ir ao perfil de zezinho69")  
+        2 horas atrás
+        
+    * [![Lazaro Nogueira](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1221364.thumb.jpeg.aebddc177fe34344a3b7b13aabcce389.jpeg)](https://www.clubedohardware.com.br/profile/1221364-lazaro-nogueira/ "Ir ao perfil de Lazaro Nogueira")
+        
+        0
+        
+        [Travamentos no Elden Ring 1.16.](https://www.clubedohardware.com.br/forums/topic/1701343-travamentos-no-elden-ring-116/?do=getNewComment "Travamentos no Elden Ring 1.16.")
+        
+        [Jogo não roda ou dá erro](https://www.clubedohardware.com.br/forums/forum/278-jogo-n%C3%A3o-roda-ou-d%C3%A1-erro/ "Jogo não roda ou dá erro")  
+        Por [Lazaro Nogueira](https://www.clubedohardware.com.br/profile/1221364-lazaro-nogueira/ "Ir ao perfil de Lazaro Nogueira")  
+        3 horas atrás
+        
+    * [![Victormoraes123](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2387c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255471-victormoraes123/ "Ir ao perfil de Victormoraes123")
+        
+        0
+        
+        [PC Gamer até 5000 raeis](https://www.clubedohardware.com.br/forums/topic/1701342-pc-gamer-at%C3%A9-5000-raeis/?do=getNewComment "PC Gamer até 5000 raeis")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Victormoraes123](https://www.clubedohardware.com.br/profile/1255471-victormoraes123/ "Ir ao perfil de Victormoraes123")  
+        3 horas atrás
+        
+    * [![gustavohvh](https://www.clubedohardware.com.br/uploads/members/monthly_2020_11/imported-photo-1084063.thumb.png.d215d75ba64ba188c7de7d848571b5d8.png)](https://www.clubedohardware.com.br/profile/1084063-gustavohvh/ "Ir ao perfil de gustavohvh")
+        
+        0
+        
+        [Loja de informática em campinas](https://www.clubedohardware.com.br/forums/topic/1701341-loja-de-inform%C3%A1tica-em-campinas/?do=getNewComment "Loja de informática em campinas")
+        
+        [Recomendações de lojas e serviços](https://www.clubedohardware.com.br/forums/forum/12-recomenda%C3%A7%C3%B5es-de-lojas-e-servi%C3%A7os/ "Recomendações de lojas e serviços")  
+        Por [gustavohvh](https://www.clubedohardware.com.br/profile/1084063-gustavohvh/ "Ir ao perfil de gustavohvh")  
+        4 horas atrás
+        
+    * [![GH0STDRAGON](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251242.thumb.jpeg.40a50ee1e8106f76d01277ec6a92ba3d.jpeg)](https://www.clubedohardware.com.br/profile/1251242-gh0stdragon/ "Ir ao perfil de GH0STDRAGON")
+        
+        1
+        
+        [Uma fonte de 650w dá conta da rx 6800xt?](https://www.clubedohardware.com.br/forums/topic/1701340-uma-fonte-de-650w-d%C3%A1-conta-da-rx-6800xt/?do=getNewComment "Uma fonte de 650w dá conta da rx 6800xt?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [GH0STDRAGON](https://www.clubedohardware.com.br/profile/1251242-gh0stdragon/ "Ir ao perfil de GH0STDRAGON")  
+        5 horas atrás
+        
+    * [![Modraken](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251975.thumb.png.7a5910a0cde801204f006e4d68ec109f.png)](https://www.clubedohardware.com.br/profile/1251975-modraken/ "Ir ao perfil de Modraken")
+        
+        2
+        
+        [Comprar um i7 6700 tá valendo a pena?](https://www.clubedohardware.com.br/forums/topic/1701339-comprar-um-i7-6700-t%C3%A1-valendo-a-pena/?do=getNewComment "Comprar um i7 6700 tá valendo a pena?")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Modraken](https://www.clubedohardware.com.br/profile/1251975-modraken/ "Ir ao perfil de Modraken")  
+        5 horas atrás
+        
     * [![_Gabriel V](https://www.clubedohardware.com.br/uploads/members/monthly_2020_04/panteeera.thumb.jpg.b56336548b1db5987b58800813d2749f.jpg)](https://www.clubedohardware.com.br/profile/1072063-_gabriel-v/ "Ir ao perfil de _Gabriel V")
         
         0
@@ -142,97 +212,27 @@ Política de privacidade
         
         [Classificados](https://www.clubedohardware.com.br/forums/forum/50-classificados/ "Classificados")  
         Por [\_Gabriel V](https://www.clubedohardware.com.br/profile/1072063-_gabriel-v/ "Ir ao perfil de _Gabriel V")  
-        5 minutos atrás
+        6 horas atrás
         
     * [![TtyZz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255466.thumb.jpeg.1ec7c7b2992d2a8914d8b98eec1e7e8f.jpeg)](https://www.clubedohardware.com.br/profile/1255466-ttyzz/ "Ir ao perfil de TtyZz")
         
-        0
+        1
         
         [Defeito na placa-mãe (Power led + e -)](https://www.clubedohardware.com.br/forums/topic/1701337-defeito-na-placa-m%C3%A3e-power-led-e/?do=getNewComment "Defeito na placa-mãe (Power led + e -)")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
         Por [TtyZz](https://www.clubedohardware.com.br/profile/1255466-ttyzz/ "Ir ao perfil de TtyZz")  
-        9 minutos atrás
+        6 horas atrás
         
     * [![Guilherme Espíndola](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4627f%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EGE%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/930427-guilherme-esp%C3%ADndola/ "Ir ao perfil de Guilherme Espíndola")
         
-        0
+        2
         
         [Pen-Drive - Local não disponível e erro ao aplicar segurança](https://www.clubedohardware.com.br/forums/topic/1701336-pen-drive-local-n%C3%A3o-dispon%C3%ADvel-e-erro-ao-aplicar-seguran%C3%A7a/?do=getNewComment "Pen-Drive - Local não disponível e erro ao aplicar segurança")
         
         [Pen drives e cartões de memória](https://www.clubedohardware.com.br/forums/forum/142-pen-drives-e-cart%C3%B5es-de-mem%C3%B3ria/ "Pen drives e cartões de memória")  
         Por [Guilherme Espíndola](https://www.clubedohardware.com.br/profile/930427-guilherme-esp%C3%ADndola/ "Ir ao perfil de Guilherme Espíndola")  
-        13 minutos atrás
-        
-    * [![Kelvin Meneses](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255464.thumb.png.0e1e069d7830e2e89a6bf09f5876aede.png)](https://www.clubedohardware.com.br/profile/1255464-kelvin-meneses/ "Ir ao perfil de Kelvin Meneses")
-        
-        1
-        
-        [Estou realizando um sonho Sem muita experiência](https://www.clubedohardware.com.br/forums/topic/1701335-estou-realizando-um-sonho-sem-muita-experi%C3%AAncia/?do=getNewComment "Estou realizando um sonho Sem muita experiência")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Kelvin Meneses](https://www.clubedohardware.com.br/profile/1255464-kelvin-meneses/ "Ir ao perfil de Kelvin Meneses")  
-        27 minutos atrás
-        
-    * [![LeonardoCandinho](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254562.thumb.jpeg.0ec31fba06a61cd6c8e3cafb361a8d74.jpeg)](https://www.clubedohardware.com.br/profile/1254562-leonardocandinho/ "Ir ao perfil de LeonardoCandinho")
-        
-        0
-        
-        [Ryzen 5 3600+RTX 4060ti não consegue nem rodar o lol direito](https://www.clubedohardware.com.br/forums/topic/1701334-ryzen-5-3600rtx-4060ti-n%C3%A3o-consegue-nem-rodar-o-lol-direito/?do=getNewComment "Ryzen 5 3600+RTX 4060ti não consegue nem rodar o lol direito")
-        
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [LeonardoCandinho](https://www.clubedohardware.com.br/profile/1254562-leonardocandinho/ "Ir ao perfil de LeonardoCandinho")  
-        59 minutos atrás
-        
-    * [![Gabriel Henrique9858](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251449.thumb.png.a173d8dd84fce4abaed32e8639b26391.png)](https://www.clubedohardware.com.br/profile/1251449-gabriel-henrique9858/ "Ir ao perfil de Gabriel Henrique9858")
-        
-        0
-        
-        [Letra no meio do processador intel.](https://www.clubedohardware.com.br/forums/topic/1701331-letra-no-meio-do-processador-intel/?do=getNewComment "Letra no meio do processador intel.")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Gabriel Henrique9858](https://www.clubedohardware.com.br/profile/1251449-gabriel-henrique9858/ "Ir ao perfil de Gabriel Henrique9858")  
-        1 hora atrás
-        
-    * [![vitorzs](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1168970.thumb.png.746e2293c90309b740a3f22d13f6f554.png)](https://www.clubedohardware.com.br/profile/1168970-vitorzs/ "Ir ao perfil de vitorzs")
-        
-        3
-        
-        [Rx 6650 XT XFX Swift começa a usar 100% da tensão mas o consumo cai em 40W](https://www.clubedohardware.com.br/forums/topic/1701330-rx-6650-xt-xfx-swift-come%C3%A7a-a-usar-100-da-tens%C3%A3o-mas-o-consumo-cai-em-40w/?do=getNewComment "Rx 6650 XT XFX Swift começa a usar 100% da tensão mas o consumo cai em 40W")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [vitorzs](https://www.clubedohardware.com.br/profile/1168970-vitorzs/ "Ir ao perfil de vitorzs")  
-        2 horas atrás
-        
-    * [![Fabricio S S J](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462a0%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EFS%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253956-fabricio-s-s-j/ "Ir ao perfil de Fabricio S S J")
-        
-        0
-        
-        [teclado desligando sozinho, aterramento resolve?](https://www.clubedohardware.com.br/forums/topic/1701329-teclado-desligando-sozinho-aterramento-resolve/?do=getNewComment "teclado desligando sozinho, aterramento resolve?")
-        
-        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
-        Por [Fabricio S S J](https://www.clubedohardware.com.br/profile/1253956-fabricio-s-s-j/ "Ir ao perfil de Fabricio S S J")  
-        2 horas atrás
-        
-    * [![Iz4](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255457.thumb.png.4f5a0c708b6948746e12c0b4ccba0c47.png)](https://www.clubedohardware.com.br/profile/1255457-iz4/ "Ir ao perfil de Iz4")
-        
-        0
-        
-        [BIOS reconhece meu SSD e pendrive, mas ao dar boot, aparece o erro “Select boot](https://www.clubedohardware.com.br/forums/topic/1701327-bios-reconhece-meu-ssd-e-pendrive-mas-ao-dar-boot-aparece-o-erro-%E2%80%9Cselect-boot/?do=getNewComment "BIOS reconhece meu SSD e pendrive, mas ao dar boot, aparece o erro “Select boot")
-        
-        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
-        Por [Iz4](https://www.clubedohardware.com.br/profile/1255457-iz4/ "Ir ao perfil de Iz4")  
-        2 horas atrás
-        
-    * [![O tal do Boechat](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1234753.thumb.jpeg.2d70c13f594c4049dc05132c165fe630.jpeg)](https://www.clubedohardware.com.br/profile/1234753-o-tal-do-boechat/ "Ir ao perfil de O tal do Boechat")
-        
-        1
-        
-        [Cursor do mouse agindo estranhamente, ficando escuro e dando atrasos](https://www.clubedohardware.com.br/forums/topic/1701325-cursor-do-mouse-agindo-estranhamente-ficando-escuro-e-dando-atrasos/?do=getNewComment "Cursor do mouse agindo estranhamente, ficando escuro e dando atrasos")
-        
-        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
-        Por [O tal do Boechat](https://www.clubedohardware.com.br/profile/1234753-o-tal-do-boechat/ "Ir ao perfil de O tal do Boechat")  
-        3 horas atrás
+        6 horas atrás
         
     
 
