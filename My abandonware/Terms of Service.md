@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
-* [Untouchable](https://www.myabandonware.com/game/untouchable-t5u)
-* [Treasure Hunter](https://www.myabandonware.com/game/treasure-hunter-t5t)
-* [Thunder Shooting](https://www.myabandonware.com/game/thunder-shooting-t5s)
-* [Tennis Pro '92](https://www.myabandonware.com/game/tennis-pro-92-t5r)
-* [Tasac 2010](https://www.myabandonware.com/game/tasac-2010-t5q)
+* [Kabi-Island](https://www.myabandonware.com/game/kabi-island-t69)
+* [Block Buster](https://www.myabandonware.com/game/block-buster-t68)
+* [Juggler](https://www.myabandonware.com/game/juggler-t67)
+* [Balloon Fight](https://www.myabandonware.com/game/balloon-fight-t66)
+* [Journey to the West](https://www.myabandonware.com/game/journey-to-the-west-t65)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
