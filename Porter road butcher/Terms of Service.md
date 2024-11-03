@@ -2,11 +2,7 @@
 
 Flat Rate Shipping on Orders $125+ [details](#)
 
-15% off smoking cuts [save](https://porterroad.com/collections/smoker)
-
 Flat Rate Shipping on Orders $125+ [details](#)
-
-15% off smoking cuts [save](https://porterroad.com/collections/smoker)
 
 ![close button](//porterroad.com/cdn/shop/t/145/assets/x.svg?v=149134315310457235151695148459)
 
