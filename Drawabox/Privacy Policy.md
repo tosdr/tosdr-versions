@@ -26,9 +26,9 @@
 
 [](https://drawabox.com/rec/zapata/shading)
 
-[](https://amzn.to/2BA10no)
+[](https://amzn.to/4cDKBhz)
 
-[](https://amzn.to/4bl6tx5)
+[](https://drawabox.com/rec/bucci/digitalpainting)
 
 [](https://drawabox.com/rec/proko/figuredrawing)
 
