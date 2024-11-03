@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs IND - Stumps](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-tour-of-india-2024 "New Zealand v India, 3rd Test - Stumps")[INDA vs AUSA - Live](https://www.cricbuzz.com/live-cricket-scores/96530/inda-vs-ausa-1st-unofficial-test-india-a-tour-of-australia-2024 "India A v Australia A, 1st unofficial Test - Live")[HBHW vs MLSW - Live](https://www.cricbuzz.com/live-cricket-scores/101314/hbhw-vs-mlsw-12th-match-womens-big-bash-league-2024 "Hobart Hurricanes Women v Melbourne Stars Women, 12th Match - Live")[MLRW vs ADSW - Preview](https://www.cricbuzz.com/live-cricket-scores/101318/mlrw-vs-adsw-13th-match-womens-big-bash-league-2024 "Melbourne Renegades Women v Adelaide Strikers Women, 13th Match - Preview")[WI vs ENG - ENG Won](https://www.cricbuzz.com/live-cricket-scores/95151/wi-vs-eng-2nd-odi-england-tour-of-west-indies-2024 "West Indies v England, 2nd ODI - ENG Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs IND - Live](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-tour-of-india-2024 "New Zealand v India, 3rd Test - Live")[ADSW vs MLRW - MLRW Won](https://www.cricbuzz.com/live-cricket-scores/101318/adsw-vs-mlrw-13th-match-womens-big-bash-league-2024 "Adelaide Strikers Women v Melbourne Renegades Women, 13th Match - MLRW Won")[UAE vs NED - Live](https://www.cricbuzz.com/live-cricket-scores/108928/uae-vs-ned-43rd-match-icc-cricket-world-cup-league-two-2023-27 "United Arab Emirates v Netherlands, 43rd Match - Live")[WI vs ENG - ENG Won](https://www.cricbuzz.com/live-cricket-scores/95151/wi-vs-eng-2nd-odi-england-tour-of-west-indies-2024 "West Indies v England, 2nd ODI - ENG Won")[USA vs NEP - USA Won](https://www.cricbuzz.com/live-cricket-scores/107044/usa-vs-nep-42nd-match-icc-cricket-world-cup-league-two-2023-27 "United States of America v Nepal, 42nd Match - USA Won")
 
 AllLive NowToday
 
@@ -56,23 +56,19 @@ AllLive NowToday
     
     New Zealand v India 2024
     
-    [New Zealand vs India](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-v-india-2024 "New Zealand v India, 3rd Test - Stumps")
+    [New Zealand vs India  LIVE](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-v-india-2024 "New Zealand v India, 3rd Test - Live")
     
     3rd Test
     
 * West Indies v England, 2024
     
-    [England vs West Indies](https://www.cricbuzz.com/live-cricket-scores/95142/eng-vs-wi-1st-odi-west-indies-v-england-2024 "England v West Indies, 1st ODI - WI Won")
-    
-    1st ODI
-    
-* [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/95151/wi-vs-eng-2nd-odi-west-indies-v-england-2024 "West Indies v England, 2nd ODI - ENG Won")
+    [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/95151/wi-vs-eng-2nd-odi-west-indies-v-england-2024 "West Indies v England, 2nd ODI - ENG Won")
     
     2nd ODI
     
 * Australia v Pakistan
     
-    [Australia vs Pakistan](https://www.cricbuzz.com/live-cricket-scores/92012/aus-vs-pak-1st-odi-australia-v-pakistan "Australia v Pakistan, 1st ODI - Upcoming")
+    [Australia vs Pakistan](https://www.cricbuzz.com/live-cricket-scores/92012/aus-vs-pak-1st-odi-australia-v-pakistan "Australia v Pakistan, 1st ODI - Preview")
     
     1st ODI
     
@@ -92,13 +88,17 @@ AllLive NowToday
     
     42nd Match
     
-* [United Arab Emirates vs Netherlands](https://www.cricbuzz.com/live-cricket-scores/108928/uae-vs-ned-43rd-match-icc-cwc-league-two-2023-27 "United Arab Emirates v Netherlands, 43rd Match - Preview")
+* [United Arab Emirates vs Netherlands  LIVE](https://www.cricbuzz.com/live-cricket-scores/108928/uae-vs-ned-43rd-match-icc-cwc-league-two-2023-27 "United Arab Emirates v Netherlands, 43rd Match - Live")
     
     43rd Match
     
 * [Nepal vs Scotland](https://www.cricbuzz.com/live-cricket-scores/107052/nep-vs-sco-44th-match-icc-cwc-league-two-2023-27 "Nepal v Scotland, 44th Match - Upcoming")
     
     44th Match
+    
+* [Oman vs Netherlands](https://www.cricbuzz.com/live-cricket-scores/108931/oman-vs-ned-45th-match-icc-cwc-league-two-2023-27 "Oman v Netherlands, 45th Match - Upcoming")
+    
+    45th Match
     
 * DOMESTIC
     
@@ -116,13 +116,17 @@ AllLive NowToday
     
     2nd Match
     
+* [Lions vs Titans](https://www.cricbuzz.com/live-cricket-scores/104748/lions-vs-tit-4th-match-csa-four-day-series-division-one-2024-25 "Lions v Titans, 4th Match - Upcoming")
+    
+    4th Match
+    
 * Sheffield Shield 2024-25
     
-    [Tasmania vs Western Australia  LIVE](https://www.cricbuzz.com/live-cricket-scores/102882/tas-vs-wa-8th-match-sheffield-shield-2024-25 "Tasmania v Western Australia, 8th Match - Live")
+    [Tasmania vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/102882/tas-vs-wa-8th-match-sheffield-shield-2024-25 "Tasmania v Western Australia, 8th Match - Stumps")
     
     8th Match
     
-* [New South Wales vs Queensland  LIVE](https://www.cricbuzz.com/live-cricket-scores/102880/nsw-vs-ql-7th-match-sheffield-shield-2024-25 "New South Wales v Queensland, 7th Match - Live")
+* [New South Wales vs Queensland](https://www.cricbuzz.com/live-cricket-scores/102880/nsw-vs-ql-7th-match-sheffield-shield-2024-25 "New South Wales v Queensland, 7th Match - Stumps")
     
     7th Match
     
@@ -132,33 +136,33 @@ AllLive NowToday
     
 * Australia A v India A
     
-    [India A vs Australia A  LIVE](https://www.cricbuzz.com/live-cricket-scores/96530/inda-vs-ausa-1st-unofficial-test-australia-a-v-india-a "India A v Australia A, 1st unofficial Test - Live")
+    [India A vs Australia A](https://www.cricbuzz.com/live-cricket-scores/96530/inda-vs-ausa-1st-unofficial-test-australia-a-v-india-a "India A v Australia A, 1st unofficial Test - AUSA Won")
     
     1st unofficial Test
     
 * The Ford Trophy 2024-25
     
-    [Otago vs Wellington  LIVE](https://www.cricbuzz.com/live-cricket-scores/107331/otg-vs-wel-15th-match-the-ford-trophy-2024-25 "Otago v Wellington, 15th Match - Live")
+    [Otago vs Wellington](https://www.cricbuzz.com/live-cricket-scores/107331/otg-vs-wel-15th-match-the-ford-trophy-2024-25 "Otago v Wellington, 15th Match - OTG Won")
     
     15th Match
     
-* [Northern Knights vs Auckland  LIVE](https://www.cricbuzz.com/live-cricket-scores/107323/nk-vs-akl-13th-match-the-ford-trophy-2024-25 "Northern Knights v Auckland, 13th Match - Live")
+* [Northern Knights vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107323/nk-vs-akl-13th-match-the-ford-trophy-2024-25 "Northern Knights v Auckland, 13th Match - Complete")
     
     13th Match
     
-* [Canterbury vs Central Districts  LIVE](https://www.cricbuzz.com/live-cricket-scores/107315/cntbry-vs-cd-14th-match-the-ford-trophy-2024-25 "Canterbury v Central Districts, 14th Match - Live")
+* [Canterbury vs Central Districts](https://www.cricbuzz.com/live-cricket-scores/107315/cntbry-vs-cd-14th-match-the-ford-trophy-2024-25 "Canterbury v Central Districts, 14th Match - Complete")
     
     14th Match
     
 * CSA Four-Day Series Division Two 2024-25
     
-    [Limpopo vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/104322/limpo-vs-estorm-2nd-match-csa-four-day-series-division-two-2024-25 "Limpopo v Eastern Storm, 2nd Match - Stumps")
-    
-    2nd Match
-    
-* [South Western Districts vs Border](https://www.cricbuzz.com/live-cricket-scores/104314/swd-vs-bor-1st-match-csa-four-day-series-division-two-2024-25 "South Western Districts v Border, 1st Match - Stumps")
+    [South Western Districts vs Border](https://www.cricbuzz.com/live-cricket-scores/104314/swd-vs-bor-1st-match-csa-four-day-series-division-two-2024-25 "South Western Districts v Border, 1st Match - Stumps")
     
     1st Match
+    
+* [Limpopo vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/104322/limpo-vs-estorm-2nd-match-csa-four-day-series-division-two-2024-25 "Limpopo v Eastern Storm, 2nd Match - Stumps")
+    
+    2nd Match
     
 * WOMEN
     
@@ -180,11 +184,11 @@ AllLive NowToday
     
     11th Match
     
-* [Hobart Hurricanes Women vs Melbourne Stars Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/101314/hbhw-vs-mlsw-12th-match-wbbl-2024 "Hobart Hurricanes Women v Melbourne Stars Women, 12th Match - Live")
+* [Hobart Hurricanes Women vs Melbourne Stars Women](https://www.cricbuzz.com/live-cricket-scores/101314/hbhw-vs-mlsw-12th-match-wbbl-2024 "Hobart Hurricanes Women v Melbourne Stars Women, 12th Match - MLSW Won")
     
     12th Match
     
-* [Melbourne Renegades Women vs Adelaide Strikers Women](https://www.cricbuzz.com/live-cricket-scores/101318/mlrw-vs-adsw-13th-match-wbbl-2024 "Melbourne Renegades Women v Adelaide Strikers Women, 13th Match - Preview")
+* [Adelaide Strikers Women vs Melbourne Renegades Women](https://www.cricbuzz.com/live-cricket-scores/101318/adsw-vs-mlrw-13th-match-wbbl-2024 "Adelaide Strikers Women v Melbourne Renegades Women, 13th Match - MLRW Won")
     
     13th Match
     
@@ -505,39 +509,39 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132317/pant-keeps-indias-hopes-afloat-in-chaotic-morning-session "Pant keeps India's hopes afloat in chaotic morning session")
+
+[Pant keeps India's hopes afloat in chaotic morning session](https://www.cricbuzz.com/cricket-news/132317/pant-keeps-indias-hopes-afloat-in-chaotic-morning-session "Pant keeps India's hopes afloat in chaotic morning session")
+
+56m ago
+
+  [](https://www.cricbuzz.com/cricket-news/132316/why-the-ball-change-in-mackay-wasnt-probably-a-case-of-ball-tampering "Why the ball change in Mackay wasn't probably a case of ball tampering")
+
+[Why the ball change in Mackay wasn't probably a case of ball tampering](https://www.cricbuzz.com/cricket-news/132316/why-the-ball-change-in-mackay-wasnt-probably-a-case-of-ball-tampering "Why the ball change in Mackay wasn't probably a case of ball tampering")
+
+2h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132315/mcsweeney-webster-seal-comfortable-chase-for-australia-a "McSweeney, Webster seal comfortable chase for Australia A")
+
+[McSweeney, Webster seal comfortable chase for Australia A](https://www.cricbuzz.com/cricket-news/132315/mcsweeney-webster-seal-comfortable-chase-for-australia-a "McSweeney, Webster seal comfortable chase for Australia A")
+
+2h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132314/livingstone-special-helps-england-square-series "Livingstone special helps England square series")
+
+[Livingstone special helps England square series](https://www.cricbuzz.com/cricket-news/132314/livingstone-special-helps-england-square-series "Livingstone special helps England square series")
+
+5h ago
+
   [](https://www.cricbuzz.com/cricket-news/132313/utkarsh-srivastava-i-think-i-needed-to-earn-the-respect-of-everyone "Utkarsh Srivastava: I think I needed to earn the respect of everyone")
 
 [Utkarsh Srivastava: I think I needed to earn the respect of everyone](https://www.cricbuzz.com/cricket-news/132313/utkarsh-srivastava-i-think-i-needed-to-earn-the-respect-of-everyone "Utkarsh Srivastava: I think I needed to earn the respect of everyone")
 
-6h ago
+12h ago
 
   [](https://www.cricbuzz.com/cricket-news/132312/rishabh-pant-and-shubman-gill-take-different-routes-up-the-spin-hill "Pant and Gill take different routes up the spin hill")
 
 [Pant and Gill take different routes up the spin hill](https://www.cricbuzz.com/cricket-news/132312/rishabh-pant-and-shubman-gill-take-different-routes-up-the-spin-hill "Pant and Gill take different routes up the spin hill")
-
-10h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132311/hridoy-urges-bangladesh-to-look-ahead-to-ct-2025-preparations "Hridoy urges Bangladesh to look ahead to CT 2025 preparations")
-
-[Hridoy urges Bangladesh to look ahead to CT 2025 preparations](https://www.cricbuzz.com/cricket-news/132311/hridoy-urges-bangladesh-to-look-ahead-to-ct-2025-preparations "Hridoy urges Bangladesh to look ahead to CT 2025 preparations")
-
-11h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132310/jadeja-ashwin-combine-to-keep-india-marginally-in-front "Jadeja, Ashwin combine to keep India marginally in front")
-
-[Jadeja, Ashwin combine to keep India marginally in front](https://www.cricbuzz.com/cricket-news/132310/jadeja-ashwin-combine-to-keep-india-marginally-in-front "Jadeja, Ashwin combine to keep India marginally in front")
-
-13h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132309/nathan-mcsweeney-puts-australia-a-on-course "Nathan McSweeney puts Australia A on course")
-
-[Nathan McSweeney puts Australia A on course](https://www.cricbuzz.com/cricket-news/132309/nathan-mcsweeney-puts-australia-a-on-course "Nathan McSweeney puts Australia A on course")
-
-14h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132308/ajaz-fifer-puts-game-in-the-balance "Ajaz fifer puts game in the balance")
-
-[Ajaz fifer puts game in the balance](https://www.cricbuzz.com/cricket-news/132308/ajaz-fifer-puts-game-in-the-balance "Ajaz fifer puts game in the balance")
 
 16h ago
 
