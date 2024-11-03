@@ -273,7 +273,7 @@ STD testing, birth control, abortion, and more in-person and online.
 
 Or call [1-800-230-7526](tel:18002307526)
 
-[![Planned Parenthood Federation of America Inc.](/static/assets/img/planned-parenthood-stacked-tag.6916ef62aa8e.svg)](https://www.plannedparenthood.org/)
+[](https://www.plannedparenthood.org/)
 
 Planned Parenthood Federation of America, Inc. (PPFA) works to protect and expand access to sexual and reproductive health care and education, and provides support to its member affiliates. Planned Parenthood affiliates are separately incorporated public charities that operate health centers across the U.S. as trusted sources of health care and education for people of all genders in communities across the country. PPFA is tax-exempt under Internal Revenue Code section 501(c)(3) - EIN 13-1644147. Donations are tax-deductible to the fullest extent allowable under the law.
 
