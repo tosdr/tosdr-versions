@@ -3,6 +3,7 @@ top of page
 [![Screenshot 2024-01-13 at 6_edited_edited](https://static.wixstatic.com/media/0a8e45_60ff7ca3bff3423584c62b64435f6fb5~mv2.jpg/v1/crop/x_0,y_0,w_460,h_260/fill/w_100,h_56,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Screenshot%202024-01-13%20at%206_edited_edited.jpg)](https://www.blazeapp.net/)
 
 * [Feed](https://www.blazeapp.net/feed)
+* [US ELECTION](https://www.blazeapp.net/election)
 * [App](https://www.blazeapp.net/mobile-app)
 * [Search](https://www.blazeapp.net/members-list)
 * [Clips](https://www.blazeapp.net/clips)
