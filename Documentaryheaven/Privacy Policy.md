@@ -118,6 +118,11 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
+* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
+    
+    The new world order – Illuminati, Freemasons and other secret societies
+    
+    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
 * [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
     Why The Industrial Revolution Happened Here
@@ -128,39 +133,34 @@ Advertisement
     Diary of a Porn Virgin
     
     Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
-* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
-    
-    Louis Theroux: Drinking To Oblivion
-    
-    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 
 ###### Throwback Documentaries
 
-* [![Phil Ochs: There but for Fortune](/wp-content/thumbnails/6805-100x70.jpg?x53432)
+* [![WiFi Fraud?](/wp-content/thumbnails/809-100x70.png?x53432)
     
-    Phil Ochs: There but for Fortune
+    WiFi Fraud?
     
-    As the United States continues to embroil itself in foreign wars, Phil Ochs: There But For Fortune is a timely and relevant tribute to an unlikely American hero. Over the course of a meteoric music ca](https://documentaryheaven.com/phil-ochs-there-but-for-fortune/ "Phil Ochs: There but for Fortune")
-* [![Ancient Aliens Debunked](/wp-content/thumbnails/6744-100x70.jpg?x53432)
+    Panorama examines concerns about WiFi Technology.](https://documentaryheaven.com/wifi-fraud/ "WiFi Fraud?")
+* [![An Extra’s Life – On the Set of Band of Brothers](/wp-content/thumbnails/6496-100x70.jpg?x53432)
     
-    Ancient Aliens Debunked
+    An Extra’s Life – On the Set of Band of Brothers
     
-    Ancient Aliens Debunked is a 3 hour refutation of the theories proposed on the History Channel series Ancient Aliens. It is essentially a point by point critique of the "ancient astronaut theory" whic](https://documentaryheaven.com/ancient-aliens-debunked/ "Ancient Aliens Debunked")
-* [![Punk In Drublic](/wp-content/thumbnails/16644-100x70.jpg?x53432)
+    A behind the scenes look at the experiences of the extras who worked on the HBO mini-series Band of Brothers. Shot entirely on the set in Hatfield, England, this short documentary provides a rare insi](https://documentaryheaven.com/an-extras-life-on-the-set-of-band-of-brothers/ "An Extra’s Life – On the Set of Band of Brothers")
+* [![Richard Ramirez: The Night Stalker](/wp-content/thumbnails/16447-100x70.jpg?x53432)
     
-    Punk In Drublic
+    Richard Ramirez: The Night Stalker
     
-    Punk in Drublic is a music festival that was designed by NOFX frontman Fat Mike. He combined craft beer and the punk scene heavyweights NOFX, Bad Religion, Pennywise, Rancid, The Offspring, Descenden](https://documentaryheaven.com/punk-in-drublic/ "Punk In Drublic")
-* [![The Fall of Milosevic](/wp-content/thumbnails/13994-100x70.jpg?x53432)
+    In 1985 Los Angeles would be terrorized by a series of brutal sexual assaults and murders. Man, women, the elderly, and children were all in the sadistic killer's sights. This indiscriminate targetin](https://documentaryheaven.com/richard-ramirez-night-stalker/ "Richard Ramirez: The Night Stalker")
+* [![Burning Desire The Seduction of Smoking](/wp-content/thumbnails/8872-100x70.jpeg?x53432)
     
-    The Fall of Milosevic
+    Burning Desire The Seduction of Smoking
     
-    Slobodan Milošević, former president of Yugoslavia and Serbia was the first head of state to be tried by an international court for war crimes and genocide. Milosevic had driven whole communities from](https://documentaryheaven.com/fall-of-milosevic/ "The Fall of Milosevic")
-* [![The Prime Minister and the Press](/wp-content/thumbnails/1846-100x70.jpg?x53432)
+    Cigarettes are the most lethal consumer product on the planet, every year over 5 million customers of the tobacco industry die. In this documentary series, Peter Taylor investigates why thousands of y](https://documentaryheaven.com/burning-desire-seduction-of-smoking/ "Burning Desire The Seduction of Smoking")
+* [![North Korean Super Spy](/wp-content/thumbnails/7059-100x70.jpg?x53432)
     
-    The Prime Minister and the Press
+    North Korean Super Spy
     
-    Media watchdog Reporters Without Borders recently ranked Italy at the bottom of the list for countries in the European Union on its press freedom index. Prime Minister Silvio Berlusconi is not only I](https://documentaryheaven.com/the-prime-minister-and-the-press/ "The Prime Minister and the Press")
+    As the Korean peninsula teeters on the brink of war, North Korea’s former top female spy reveals details behind the rogue state’s most deadly terrorist attack.Kim Hyon Hui is the femme fatale behi](https://documentaryheaven.com/north-korean-super-spy/ "North Korean Super Spy")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
