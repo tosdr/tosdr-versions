@@ -70,7 +70,7 @@ Suggested Searches
 
 ### NASA’s Hubble, Webb Probe Surprisingly Smooth Disk Around Vega
 
-article1 day ago](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-probe-surprisingly-smooth-disk-around-vega/)[![What’s Up: November 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2024/05/milkyway-desrt-tree-credit-preston-dyches-1.jpg)
+article2 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-probe-surprisingly-smooth-disk-around-vega/)[![What’s Up: November 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2024/05/milkyway-desrt-tree-credit-preston-dyches-1.jpg)
 
 5 min read
 
@@ -247,13 +247,13 @@ Back
 
 ### NASA’s Hubble, Webb Probe Surprisingly Smooth Disk Around Vega
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-probe-surprisingly-smooth-disk-around-vega/)[![‘Blood-Soaked’ Eyes: NASA’s Webb, Hubble Examine Galaxy Pair](https://science.nasa.gov/wp-content/uploads/2024/10/webb-stsci-01j9rrkbba1ddr83vfrx24gs08-2k.jpg)
+article 2 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-probe-surprisingly-smooth-disk-around-vega/)[![‘Blood-Soaked’ Eyes: NASA’s Webb, Hubble Examine Galaxy Pair](https://science.nasa.gov/wp-content/uploads/2024/10/webb-stsci-01j9rrkbba1ddr83vfrx24gs08-2k.jpg)
 
 5 min read
 
 ### ‘Blood-Soaked’ Eyes: NASA’s Webb, Hubble Examine Galaxy Pair
 
-article 2 days ago](https://science.nasa.gov/missions/webb/blood-soaked-eyes-nasas-webb-hubble-examine-galaxy-pair/)[![NASA’s SPHEREx observatory](https://www.nasa.gov/wp-content/uploads/2024/10/1-spherex-telescope.jpg?w=1024)
+article 3 days ago](https://science.nasa.gov/missions/webb/blood-soaked-eyes-nasas-webb-hubble-examine-galaxy-pair/)[![NASA’s SPHEREx observatory](https://www.nasa.gov/wp-content/uploads/2024/10/1-spherex-telescope.jpg?w=1024)
 
 6 min read
 
@@ -335,7 +335,7 @@ article 1 day ago](https://science.nasa.gov/solar-system/skywatching/whats-up-no
 
 ### NASA’s Hubble, Webb Probe Surprisingly Smooth Disk Around Vega
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-probe-surprisingly-smooth-disk-around-vega/)[![NASA’s SPHEREx observatory](https://www.nasa.gov/wp-content/uploads/2024/10/1-spherex-telescope.jpg?w=1024)
+article 2 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-probe-surprisingly-smooth-disk-around-vega/)[![NASA’s SPHEREx observatory](https://www.nasa.gov/wp-content/uploads/2024/10/1-spherex-telescope.jpg?w=1024)
 
 6 min read
 
@@ -347,7 +347,7 @@ article 2 days ago](https://www.nasa.gov/missions/spherex/why-nasas-spherex-miss
 
 ### ‘Blood-Soaked’ Eyes: NASA’s Webb, Hubble Examine Galaxy Pair
 
-article 2 days ago](https://science.nasa.gov/missions/webb/blood-soaked-eyes-nasas-webb-hubble-examine-galaxy-pair/)
+article 3 days ago](https://science.nasa.gov/missions/webb/blood-soaked-eyes-nasas-webb-hubble-examine-galaxy-pair/)
 
 ### Highlights
 
