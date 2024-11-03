@@ -430,11 +430,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-film/marina-abramovic-era-milivojevic-nesa-paripovic-zoran-popovic-u-zagrebu-februar-1972/menz-zagreb-1972.jpg?itok=thdhPQfX)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-film/marina-abramovic-era)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/its-z1/25-0216.jpg?itok=5l6CPxrt)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/its-z1)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/tinariwen.jpg?itok=f-F9cEpV)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/strip/aleksandar-zograf/zograf.jpg?itok=Tyh2-0jl)](http://seecult.org/galerija/foto-galerija/strip/aleksandar-zograf)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
