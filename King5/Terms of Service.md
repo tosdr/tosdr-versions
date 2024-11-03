@@ -30,9 +30,9 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KGW/images/b5a82e2c-05ff-47e4-8b93-573c9fca414d/20241028T234930/b5a82e2c-05ff-47e4-8b93-573c9fca414d_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/b5a82e2c-05ff-47e4-8b93-573c9fca414d/20241028T234930/b5a82e2c-05ff-47e4-8b93-573c9fca414d_360x203.jpg)](https://www.king5.com/article/news/local/portland-public-market-downtown-james-beard/283-6dae3d82-b20d-4787-9210-3ff162dc9396)
+    *  [![](https://media.king5.com/assets/KING/images/d58fd671-813a-43c6-af08-fdd7c0700976/20241103T050918/d58fd671-813a-43c6-af08-fdd7c0700976_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d58fd671-813a-43c6-af08-fdd7c0700976/20241103T050918/d58fd671-813a-43c6-af08-fdd7c0700976_360x203.jpg)](https://www.king5.com/article/news/local/questions-over-lynnwood-station-parking-sound-transit-says-ridership-steady/281-34b1440a-7561-4460-a2a4-e2258007e47d)
         
-        #### [James Beard Public Market announces new home and partial plans for opening in Portland](https://www.king5.com/article/news/local/portland-public-market-downtown-james-beard/283-6dae3d82-b20d-4787-9210-3ff162dc9396)
+        #### [Amid questions over Lynnwood station parking, Sound Transit says ridership is steady](https://www.king5.com/article/news/local/questions-over-lynnwood-station-parking-sound-transit-says-ridership-steady/281-34b1440a-7561-4460-a2a4-e2258007e47d)
         
     *  [![](https://media.king5.com/assets/KING/images/7dc502e5-fd9b-4a45-bb07-40be3dcea5e0/20241102T144855/7dc502e5-fd9b-4a45-bb07-40be3dcea5e0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7dc502e5-fd9b-4a45-bb07-40be3dcea5e0/20241102T144855/7dc502e5-fd9b-4a45-bb07-40be3dcea5e0_360x203.jpg)](https://www.king5.com/article/news/local/boulder-blocks-sr-11-south-bellingham-rockslide/281-68f81431-f516-4d71-9bed-1b80595bb541)
         
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/230e05fa-45a2-4f08-bdee-0c6a35721660/20241102T144749/230e05fa-45a2-4f08-bdee-0c6a35721660_16x9.jpg) ![](https://media.king5.com/assets/KING/images/230e05fa-45a2-4f08-bdee-0c6a35721660/20241102T144749/230e05fa-45a2-4f08-bdee-0c6a35721660_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/8ce9b990-e097-408a-9b67-343447d04be7/20241103T053005/8ce9b990-e097-408a-9b67-343447d04be7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8ce9b990-e097-408a-9b67-343447d04be7/20241103T053005/8ce9b990-e097-408a-9b67-343447d04be7_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-47°
+48°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
