@@ -20,6 +20,26 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Image credit:  Jim Stephenson](https://southwarknews.co.uk/wp-content/uploads/2024/11/Screenshot_1-11-2024_145520_www.ribaj_.com_-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/)
+    
+    ### [Unique Peckham home could be named House of the Year](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/) 
+    
+    [![Rose with Molly at Royal Parks Half Marathon](https://southwarknews.co.uk/wp-content/uploads/2024/11/Rose-with-Molly-at-Royal-Parks_Credit_Rose-Bainbridge-Photography-1-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/lifesaving-hospital-celebrated-by-marathon-running-mum/)
+    
+    ### [Lifesaving hospital celebrated by marathon running mum](https://southwarknews.co.uk/area/waterloo/lifesaving-hospital-celebrated-by-marathon-running-mum/)
+    
+    [![Staff at The Colombo Centre want everyone to stay fit regardless of income](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_5516-360x180.jpeg)](https://southwarknews.co.uk/news/community/blackfriars-gym-offering-free-memberships-for-cost-of-living-crisis/)
+    
+    ### [Blackfriars gym offering free memberships for cost of living crisis](https://southwarknews.co.uk/news/community/blackfriars-gym-offering-free-memberships-for-cost-of-living-crisis/)
+    
+    [![Lower Road (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-28-10-2024-at-11.51-360x180.jpg)](https://southwarknews.co.uk/news/southwark-councils-failure-to-renew-a-bus-lane-that-was-catching-out-thousands-of-drivers-begs-an-important-question-what-else-could-they-be-failing-to-check/)
+    
+    ### [Southwark Council’s failure to renew a bus lane that was catching out thousands of drivers begs an important question: what else could they be failing to check?](https://southwarknews.co.uk/news/southwark-councils-failure-to-renew-a-bus-lane-that-was-catching-out-thousands-of-drivers-begs-an-important-question-what-else-could-they-be-failing-to-check/)
+    
+    [![Sir Ben Okri, former Booker Prize winner © Ben Okri](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sir-Ben-Okri-©-Ben-Okri-360x180.png)](https://southwarknews.co.uk/area/borough/award-winning-poet-sir-ben-okri-to-perform-armistice-day-tribute-at-southwark-cathedral/)
+    
+    ### [Award-winning poet Sir Ben Okri to perform Armistice Day tribute at Southwark Cathedral](https://southwarknews.co.uk/area/borough/award-winning-poet-sir-ben-okri-to-perform-armistice-day-tribute-at-southwark-cathedral/)
+    
     [![Meet Santa and his elves at the winter wonderland!](https://southwarknews.co.uk/wp-content/uploads/2024/10/20231201-Surrey-Quays-Christmas-Enlivenment-7-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/free-christmas-fun-is-coming-to-surrey-quays-featuring-ice-fishing-polar-bear-racing-and-santa/)
     
     ### [Free Christmas fun is coming to Surrey Quays, featuring ice fishing, polar bear racing and Santa](https://southwarknews.co.uk/area/rotherhithe/free-christmas-fun-is-coming-to-surrey-quays-featuring-ice-fishing-polar-bear-racing-and-santa/)
@@ -35,26 +55,6 @@
     [![](https://southwarknews.co.uk/wp-content/uploads/2022/08/Homeless-e1659455240704-360x180.png)](https://southwarknews.co.uk/area/london/people-sleeping-rough-on-the-streets-of-london-has-reached-a-record-high/)
     
     ### [People sleeping rough on the streets of London has reached a record high](https://southwarknews.co.uk/area/london/people-sleeping-rough-on-the-streets-of-london-has-reached-a-record-high/)
-    
-    [![Rachel Bentley, Liberal Democrat councillor](https://southwarknews.co.uk/wp-content/uploads/2024/06/Rachel-Bentley-Liberal-Democrat-candidate-for-Bermondsey-and-Old-Southwark-360x180.jpg)](https://southwarknews.co.uk/featured/labour-budget-has-let-down-people-in-southwark-claim-local-lib-dems/)
-    
-    ### [Labour Budget has ‘let down’ people in Southwark, claim local Lib Dems](https://southwarknews.co.uk/featured/labour-budget-has-let-down-people-in-southwark-claim-local-lib-dems/)
-    
-    [![Southwark Council Leader Kieron Williams in his Tooley Street office](https://southwarknews.co.uk/wp-content/uploads/2024/05/IMG_1259-scaled-e1716997618169-360x180.jpg)](https://southwarknews.co.uk/area/southwark/leader-of-southwark-council-welcomes-budget-announcement/)
-    
-    ### [Leader of Southwark Council welcomes Budget announcement](https://southwarknews.co.uk/area/southwark/leader-of-southwark-council-welcomes-budget-announcement/) 
-    
-    [![At a hustings in early September local activist Jane Lyons backing her number one Conservative leadership candidate Kemi Badenoch. They first met when Kemi stood as the Conservative parliamentary candidate for Dulwich and West Norwood in 2010.](https://southwarknews.co.uk/wp-content/uploads/2024/11/PHOTO-2024-11-01-15-03-17-e1730476724989-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/kemi-badenoch-how-the-battle-for-dulwich-shaped-the-firebrand-and-tory-leadership-hopeful/)
-    
-    ### [Kemi Badenoch: How the battle for Dulwich shaped the firebrand and Tory leadership hopeful](https://southwarknews.co.uk/news/news-plus/kemi-badenoch-how-the-battle-for-dulwich-shaped-the-firebrand-and-tory-leadership-hopeful/)
-    
-    [![Elephant and Castle station. Credit: Sunil060902 (Wikimedia Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Elephant__Castle_tube_stn_Bakerloo_west_look_south-360x180.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/commuter-chaos-after-fire-alert-at-elephant-and-castle/)
-    
-    ### [Commuter chaos after fire alert at Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/commuter-chaos-after-fire-alert-at-elephant-and-castle/)
-    
-    [![L-R: Luke Norbury, Children's Residential Manager; Clare Pitchford, Senior Service Development Officer; Cllr Ali, Deputy Leader and Cabinet Member for Children, Education & Refugees; Claire Boadu, Project Manager](https://southwarknews.co.uk/wp-content/uploads/2024/10/666903CD-1ABC-40EB-BF27-184D1A4D97E2-e1730288357971-360x180.jpeg)](https://southwarknews.co.uk/news/community/vacant-property-transformed-into-new-childrens-home/)
-    
-    ### [Vacant property transformed into new children’s home](https://southwarknews.co.uk/news/community/vacant-property-transformed-into-new-childrens-home/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,26 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Image credit:  Jim Stephenson](https://southwarknews.co.uk/wp-content/uploads/2024/11/Screenshot_1-11-2024_145520_www.ribaj_.com_-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/)
+    
+    ### [Unique Peckham home could be named House of the Year](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/) 
+    
+    [![Rose with Molly at Royal Parks Half Marathon](https://southwarknews.co.uk/wp-content/uploads/2024/11/Rose-with-Molly-at-Royal-Parks_Credit_Rose-Bainbridge-Photography-1-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/lifesaving-hospital-celebrated-by-marathon-running-mum/)
+    
+    ### [Lifesaving hospital celebrated by marathon running mum](https://southwarknews.co.uk/area/waterloo/lifesaving-hospital-celebrated-by-marathon-running-mum/)
+    
+    [![Staff at The Colombo Centre want everyone to stay fit regardless of income](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_5516-360x180.jpeg)](https://southwarknews.co.uk/news/community/blackfriars-gym-offering-free-memberships-for-cost-of-living-crisis/)
+    
+    ### [Blackfriars gym offering free memberships for cost of living crisis](https://southwarknews.co.uk/news/community/blackfriars-gym-offering-free-memberships-for-cost-of-living-crisis/)
+    
+    [![Lower Road (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-28-10-2024-at-11.51-360x180.jpg)](https://southwarknews.co.uk/news/southwark-councils-failure-to-renew-a-bus-lane-that-was-catching-out-thousands-of-drivers-begs-an-important-question-what-else-could-they-be-failing-to-check/)
+    
+    ### [Southwark Council’s failure to renew a bus lane that was catching out thousands of drivers begs an important question: what else could they be failing to check?](https://southwarknews.co.uk/news/southwark-councils-failure-to-renew-a-bus-lane-that-was-catching-out-thousands-of-drivers-begs-an-important-question-what-else-could-they-be-failing-to-check/)
+    
+    [![Sir Ben Okri, former Booker Prize winner © Ben Okri](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sir-Ben-Okri-©-Ben-Okri-360x180.png)](https://southwarknews.co.uk/area/borough/award-winning-poet-sir-ben-okri-to-perform-armistice-day-tribute-at-southwark-cathedral/)
+    
+    ### [Award-winning poet Sir Ben Okri to perform Armistice Day tribute at Southwark Cathedral](https://southwarknews.co.uk/area/borough/award-winning-poet-sir-ben-okri-to-perform-armistice-day-tribute-at-southwark-cathedral/)
+    
     [![Meet Santa and his elves at the winter wonderland!](https://southwarknews.co.uk/wp-content/uploads/2024/10/20231201-Surrey-Quays-Christmas-Enlivenment-7-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/free-christmas-fun-is-coming-to-surrey-quays-featuring-ice-fishing-polar-bear-racing-and-santa/)
     
     ### [Free Christmas fun is coming to Surrey Quays, featuring ice fishing, polar bear racing and Santa](https://southwarknews.co.uk/area/rotherhithe/free-christmas-fun-is-coming-to-surrey-quays-featuring-ice-fishing-polar-bear-racing-and-santa/)
@@ -120,26 +140,6 @@ View All Result
     [![](https://southwarknews.co.uk/wp-content/uploads/2022/08/Homeless-e1659455240704-360x180.png)](https://southwarknews.co.uk/area/london/people-sleeping-rough-on-the-streets-of-london-has-reached-a-record-high/)
     
     ### [People sleeping rough on the streets of London has reached a record high](https://southwarknews.co.uk/area/london/people-sleeping-rough-on-the-streets-of-london-has-reached-a-record-high/)
-    
-    [![Rachel Bentley, Liberal Democrat councillor](https://southwarknews.co.uk/wp-content/uploads/2024/06/Rachel-Bentley-Liberal-Democrat-candidate-for-Bermondsey-and-Old-Southwark-360x180.jpg)](https://southwarknews.co.uk/featured/labour-budget-has-let-down-people-in-southwark-claim-local-lib-dems/)
-    
-    ### [Labour Budget has ‘let down’ people in Southwark, claim local Lib Dems](https://southwarknews.co.uk/featured/labour-budget-has-let-down-people-in-southwark-claim-local-lib-dems/)
-    
-    [![Southwark Council Leader Kieron Williams in his Tooley Street office](https://southwarknews.co.uk/wp-content/uploads/2024/05/IMG_1259-scaled-e1716997618169-360x180.jpg)](https://southwarknews.co.uk/area/southwark/leader-of-southwark-council-welcomes-budget-announcement/)
-    
-    ### [Leader of Southwark Council welcomes Budget announcement](https://southwarknews.co.uk/area/southwark/leader-of-southwark-council-welcomes-budget-announcement/) 
-    
-    [![At a hustings in early September local activist Jane Lyons backing her number one Conservative leadership candidate Kemi Badenoch. They first met when Kemi stood as the Conservative parliamentary candidate for Dulwich and West Norwood in 2010.](https://southwarknews.co.uk/wp-content/uploads/2024/11/PHOTO-2024-11-01-15-03-17-e1730476724989-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/kemi-badenoch-how-the-battle-for-dulwich-shaped-the-firebrand-and-tory-leadership-hopeful/)
-    
-    ### [Kemi Badenoch: How the battle for Dulwich shaped the firebrand and Tory leadership hopeful](https://southwarknews.co.uk/news/news-plus/kemi-badenoch-how-the-battle-for-dulwich-shaped-the-firebrand-and-tory-leadership-hopeful/)
-    
-    [![Elephant and Castle station. Credit: Sunil060902 (Wikimedia Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Elephant__Castle_tube_stn_Bakerloo_west_look_south-360x180.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/commuter-chaos-after-fire-alert-at-elephant-and-castle/)
-    
-    ### [Commuter chaos after fire alert at Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/commuter-chaos-after-fire-alert-at-elephant-and-castle/)
-    
-    [![L-R: Luke Norbury, Children's Residential Manager; Clare Pitchford, Senior Service Development Officer; Cllr Ali, Deputy Leader and Cabinet Member for Children, Education & Refugees; Claire Boadu, Project Manager](https://southwarknews.co.uk/wp-content/uploads/2024/10/666903CD-1ABC-40EB-BF27-184D1A4D97E2-e1730288357971-360x180.jpeg)](https://southwarknews.co.uk/news/community/vacant-property-transformed-into-new-childrens-home/)
-    
-    ### [Vacant property transformed into new children’s home](https://southwarknews.co.uk/news/community/vacant-property-transformed-into-new-childrens-home/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -345,29 +345,17 @@ Website
 
 ### Popular Articles
 
-[![The crime scene has now been lifted (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/854499bc-cc33-4774-a60b-c375552a69f6-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
-
-### [Two people stabbed in broad daylight in Bermondsey](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
-
-[29th October 2024](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
-
 [![A map of the proposed Bakerloo Line extension to Lewisham. Credit: Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bakerloo-Line-Extension-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
 
 ### [Bakerloo Line extension shunned in Budget](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
 
 [31st October 2024](https://southwarknews.co.uk/area/southwark/bakerloo-line-extension-shunned-in-budget/)
 
-[![L: A car driving into the bus gate that is not signposted. R: A sign indicating a 'with-flow' bus lane that does not exist.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-25-10-2024-at-11.44-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
+[![The crime scene has now been lifted (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/854499bc-cc33-4774-a60b-c375552a69f6-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
 
-### [Exclusive: Bus lane on Lower Road that catches out thousands of drivers is ‘fake’](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
+### [Two people stabbed in broad daylight in Bermondsey](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
 
-[25th October 2024](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
-
-[![Mr Vinod Patel, lead for dental services for cancer and the review](https://southwarknews.co.uk/wp-content/uploads/2024/10/mr-vinod-patel-120x86.jpg)](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
-
-### [South London hospital recognised for innovation in preventing tooth necrosis](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
-
-[26th October 2024](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
+[29th October 2024](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
 
 [![(photo: Network Rail)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-28-10-2024-at-11.25-120x86.jpg)](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
 
@@ -375,13 +363,49 @@ Website
 
 [28th October 2024](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
 
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bleecker3-copy-120x86.jpg)](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
+[![Southwark Council wants 20,000 new homes to be built around the Old Kent Road over the next 18 years. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/Old-Kent-Road-120x86.jpg)](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
 
-### [Five new food and drink openings in south London](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
+### [Old Kent Road: What are people’s views on plans for 20,000 new homes?](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
 
-[25th October 2024](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
+[29th October 2024](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
+
+[![Chair Martin Boyd with Southwark’s Cheryl Russell, director of landlord services and Councillor Sarah King,cabinet member for council homes at the Southwark HomeOwners conference](https://southwarknews.co.uk/wp-content/uploads/2024/10/MBSarahKingCherylRussell-1024x683-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
+
+### [Exclusive: Director of resident services resigns from Southwark Council](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
+
+[30th October 2024](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
+
+[![Ryan Wintle steps out onto the pitch ahead of Millwall's game against Swansea City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/R-Wintle-627228-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/there-was-an-added-edge-for-him-neil-harris-discusses-why-he-started-millwall-midfielder/)
+
+### [‘There was an added edge for him’ – Neil Harris discusses why he started Millwall midfielder](https://southwarknews.co.uk/sport/football/millwall/there-was-an-added-edge-for-him-neil-harris-discusses-why-he-started-millwall-midfielder/)
+
+[28th October 2024](https://southwarknews.co.uk/sport/football/millwall/there-was-an-added-edge-for-him-neil-harris-discusses-why-he-started-millwall-midfielder/)
 
 ### Featured Articles
+
+[![A 1770 King's Bench Prison scene in which a man says: 'You can't suffer when you have powerful friends'. Credit: British Museum (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/08/A-1770-Kings-Bench-Prison-scene-in-which-a-man-says-You-cant-suffer-when-you-have-powerful-friends.-Credit-British-Museum-Creative-Commons-120x86.png)](https://southwarknews.co.uk/area/southwark/southwarks-most-eccentric-laws-past-and-present/)
+
+### [Southwark’s most eccentric laws past and present](https://southwarknews.co.uk/area/southwark/southwarks-most-eccentric-laws-past-and-present/)
+
+[3rd November 2024](https://southwarknews.co.uk/area/southwark/southwarks-most-eccentric-laws-past-and-present/)
+
+[![Image credit:  Jim Stephenson](https://southwarknews.co.uk/wp-content/uploads/2024/11/Screenshot_1-11-2024_145520_www.ribaj_.com_-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/)
+
+### [Unique Peckham home could be named House of the Year](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/) 
+
+[3rd November 2024](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/)
+
+[![Staff at The Colombo Centre want everyone to stay fit regardless of income](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_5516-120x86.jpeg)](https://southwarknews.co.uk/news/community/blackfriars-gym-offering-free-memberships-for-cost-of-living-crisis/)
+
+### [Blackfriars gym offering free memberships for cost of living crisis](https://southwarknews.co.uk/news/community/blackfriars-gym-offering-free-memberships-for-cost-of-living-crisis/)
+
+[3rd November 2024](https://southwarknews.co.uk/news/community/blackfriars-gym-offering-free-memberships-for-cost-of-living-crisis/)
+
+[![Sir Ben Okri, former Booker Prize winner © Ben Okri](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sir-Ben-Okri-©-Ben-Okri-120x86.png)](https://southwarknews.co.uk/area/borough/award-winning-poet-sir-ben-okri-to-perform-armistice-day-tribute-at-southwark-cathedral/)
+
+### [Award-winning poet Sir Ben Okri to perform Armistice Day tribute at Southwark Cathedral](https://southwarknews.co.uk/area/borough/award-winning-poet-sir-ben-okri-to-perform-armistice-day-tribute-at-southwark-cathedral/)
+
+[3rd November 2024](https://southwarknews.co.uk/area/borough/award-winning-poet-sir-ben-okri-to-perform-armistice-day-tribute-at-southwark-cathedral/)
 
 [![Meet Santa and his elves at the winter wonderland!](https://southwarknews.co.uk/wp-content/uploads/2024/10/20231201-Surrey-Quays-Christmas-Enlivenment-7-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/free-christmas-fun-is-coming-to-surrey-quays-featuring-ice-fishing-polar-bear-racing-and-santa/)
 
@@ -394,30 +418,6 @@ Website
 ### [Artists wanted to paint three new murals in Peckham](https://southwarknews.co.uk/area/peckham/artists-wanted-to-paint-three-new-murals-in-peckham/)
 
 [2nd November 2024](https://southwarknews.co.uk/area/peckham/artists-wanted-to-paint-three-new-murals-in-peckham/)
-
-[![Govind atop a horse at an event](https://southwarknews.co.uk/wp-content/uploads/2024/11/Govind_5-120x86.jpg)](https://southwarknews.co.uk/area/waterloo/evelina-hospital-supports-teen-patient-at-national-dressage-competition/)
-
-### [Evelina Hospital supports teen patient at national dressage competition](https://southwarknews.co.uk/area/waterloo/evelina-hospital-supports-teen-patient-at-national-dressage-competition/)
-
-[2nd November 2024](https://southwarknews.co.uk/area/waterloo/evelina-hospital-supports-teen-patient-at-national-dressage-competition/)
-
-[![The Dulwich Village junction LTN. Credit: One Dulwich](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2421-1-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/ltn-hailed-as-eco-friendly-using-indian-stones-quarried-5000-miles-away/)
-
-### [LTN hailed as eco-friendly using ‘Indian stones quarried 5,000 miles away’](https://southwarknews.co.uk/area/dulwich/ltn-hailed-as-eco-friendly-using-indian-stones-quarried-5000-miles-away/)
-
-[2nd November 2024](https://southwarknews.co.uk/area/dulwich/ltn-hailed-as-eco-friendly-using-indian-stones-quarried-5000-miles-away/)
-
-[![Boardwalk at Canada Water (© Brendan Bell)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Asif-Khan-boardwalk-at-Canada-Water_2_©-Brendan-Bell-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/bikes-will-not-be-able-to-use-the-red-boardwalk-at-canada-water/)
-
-### [Bikes will not be able to use the red boardwalk at Canada Water](https://southwarknews.co.uk/area/rotherhithe/bikes-will-not-be-able-to-use-the-red-boardwalk-at-canada-water/)
-
-[2nd November 2024](https://southwarknews.co.uk/area/rotherhithe/bikes-will-not-be-able-to-use-the-red-boardwalk-at-canada-water/)
-
-[![Rachel Bentley, Liberal Democrat councillor](https://southwarknews.co.uk/wp-content/uploads/2024/06/Rachel-Bentley-Liberal-Democrat-candidate-for-Bermondsey-and-Old-Southwark-120x86.jpg)](https://southwarknews.co.uk/featured/labour-budget-has-let-down-people-in-southwark-claim-local-lib-dems/)
-
-### [Labour Budget has ‘let down’ people in Southwark, claim local Lib Dems](https://southwarknews.co.uk/featured/labour-budget-has-let-down-people-in-southwark-claim-local-lib-dems/)
-
-[1st November 2024](https://southwarknews.co.uk/featured/labour-budget-has-let-down-people-in-southwark-claim-local-lib-dems/)
 
 ### USEFUL PAGES
 
