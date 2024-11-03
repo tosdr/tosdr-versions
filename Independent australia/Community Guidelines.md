@@ -135,12 +135,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [School lunches, royal tours, foreign wars & the myth of Australia’s classless society](https://independentaustralia.net/article-display/school-lunches-royal-tours-foreign-wars-the-myth-of-australias-classless-society,19125 "Permanent Link : School lunches, royal tours, foreign wars & the myth of Australia’s classless society")
+* [POEM: The Odours](https://independentaustralia.net/article-display/poem-the-odours,19132 "Permanent Link : POEM: The Odours")
+* [Trump triumph? It's the end of the world as we know it](https://independentaustralia.net/article-display/trump-triumph-its-the-end-of-the-world-as-we-know-it,19135 "Permanent Link : Trump triumph? It's the end of the world as we know it")
 * [James Reyne — All lit up](https://independentaustralia.net/article-display/james-reyne-all-lit-up,19122 "Permanent Link : James Reyne — All lit up")
 * ['Democracy is a system in which parties lose elections.' So they should.](https://independentaustralia.net/article-display/democracy-is-a-system-in-which-parties-lose-elections-so-they-should,19134 "Permanent Link : 'Democracy is a system in which parties lose elections.' So they should.")
 * [Terrifier 3 slashes its way into cinematic history](https://independentaustralia.net/article-display/terrifier-3-slashes-its-way-into-cinematic-history,19133 "Permanent Link : Terrifier 3 slashes its way into cinematic history")
 * [John Farnham memoir reveals shocking secrets](https://independentaustralia.net/article-display/john-farnham-memoir-reveals-shocking-secrets,19131 "Permanent Link : John Farnham memoir reveals shocking secrets")
-* [CARTOONS: U.S. a 'garbage can for the world' according to Trump](https://independentaustralia.net/article-display/cartoons-us-a-garbage-can-for-the-world-according-to-trump,19126 "Permanent Link : CARTOONS: U.S. a 'garbage can for the world' according to Trump")
-* [Morals versus ethics: Australia's flawed justice system](https://independentaustralia.net/article-display/morals-versus-ethics-australias-flawed-justice-system,19130 "Permanent Link : Morals versus ethics: Australia's flawed justice system")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
