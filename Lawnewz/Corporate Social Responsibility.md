@@ -125,13 +125,13 @@ Top of Today
     
     ### ['Oh, f---!': Bodycam shows Florida cop hitting 8-year-old on dirt bike with patrol car as boy's family watches on in horror](https://lawandcrime.com/caught-on-video/oh-f-bodycam-shows-florida-cop-hitting-8-year-old-on-dirt-bike-with-patrol-car-as-boys-family-watches-on-in-horror/)
     
-4. [![Anastasia Elizabeth Vaughn(Otter Tail County Jail)](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Anastasia-Elizabeth-VaughnOtter-Tail-County-Jail-432x243.jpeg)](https://lawandcrime.com/crime/shoeless-grandma-left-infant-in-roadside-ditch-on-rainy-day-ran-away-then-told-cops-she-was-looking-for-a-child-after-day-drinking-sheriff/)
+4. [![Jack Smith, on the left; Donald Trump, in the center; Antonin Scalia, on the right.](https://am23.mediaite.com/lc/cnt/uploads/2024/11/Smith-Trump-Scalia-432x243.jpg)](https://lawandcrime.com/high-profile/special-counsel-smith-answers-to-no-one-attorneys-who-represented-trump-during-mueller-probe-look-to-kneecap-mar-a-lago-case-with-an-assist-from-antonin-scalia/)
+    
+    ### ['Special counsel Smith answers to no one': Attorneys who represented Trump during Mueller probe look to kneecap Mar-a-Lago case – with an assist from Antonin Scalia](https://lawandcrime.com/high-profile/special-counsel-smith-answers-to-no-one-attorneys-who-represented-trump-during-mueller-probe-look-to-kneecap-mar-a-lago-case-with-an-assist-from-antonin-scalia/)
+    
+5. [![Anastasia Elizabeth Vaughn(Otter Tail County Jail)](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Anastasia-Elizabeth-VaughnOtter-Tail-County-Jail-432x243.jpeg)](https://lawandcrime.com/crime/shoeless-grandma-left-infant-in-roadside-ditch-on-rainy-day-ran-away-then-told-cops-she-was-looking-for-a-child-after-day-drinking-sheriff/)
     
     ### [Shoeless grandma left infant in roadside ditch on rainy day, ran away, then told cops she was 'looking for a child' after day-drinking: Sheriff](https://lawandcrime.com/crime/shoeless-grandma-left-infant-in-roadside-ditch-on-rainy-day-ran-away-then-told-cops-she-was-looking-for-a-child-after-day-drinking-sheriff/)
-    
-5. [![Dustin Kjersem](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Dustin-Kjersem-432x243.jpg)](https://lawandcrime.com/crime/man-initially-reported-as-victim-of-bear-attack-actually-died-from-chop-wounds-inside-camping-tent-cops/)
-    
-    ### [Man initially reported as victim of bear attack actually died from 'chop wounds' inside camping tent: Cops](https://lawandcrime.com/crime/man-initially-reported-as-victim-of-bear-attack-actually-died-from-chop-wounds-inside-camping-tent-cops/)
     
 
 [](http://eepurl.com/c89Jdb)
