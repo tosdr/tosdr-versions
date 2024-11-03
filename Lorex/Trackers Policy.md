@@ -534,7 +534,7 @@ Your cart is empty
     
     [Deals of the Day](https://www.lorex.com/pages/promotions#dotd)
     
-    [Halloween Sale](https://www.lorex.com/pages/promotions)
+    [Big Savings on Security](https://www.lorex.com/pages/promotions)
     
     [Lorex Clearance Outlet](https://www.lorex.com/pages/outlet)
     
