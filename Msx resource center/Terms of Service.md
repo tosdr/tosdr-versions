@@ -153,8 +153,11 @@ Latest reactions
 
 Latest forum posts
 
-* [What is the point of bits \[3:0\] in the R15 of the PSG](https://www.msx.org/forum/msx-talk/hardware/what-is-the-point-of-bits-30-in-the-r14-of-the-psg?page=1 "What is the point of bits [3:0] in the R15 of the PSG")
+* [Letter P on boot logo](https://www.msx.org/forum/msx-talk/general-discussion/letter-p-on-boot-logo "Letter P on boot logo")
+* [Can't get MoonLightSaga to work](https://www.msx.org/forum/msx-talk/software/cant-get-moonlightsaga-to-work "Can't get MoonLightSaga to work")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=63 "List of undumped MSX software (PLEASE HELP!)")
+* [Kazuhiko Nishi's other MSX projects](https://www.msx.org/forum/msx-talk/general-discussion/kazuhiko-nishis-other-msx-projects "Kazuhiko Nishi's other MSX projects")
+* [What is the point of bits \[3:0\] in the R15 of the PSG](https://www.msx.org/forum/msx-talk/hardware/what-is-the-point-of-bits-30-in-the-r14-of-the-psg?page=1 "What is the point of bits [3:0] in the R15 of the PSG")
 * [TRH9000 - The Yamaha V9990 based open-source video card for the MSX](https://www.msx.org/forum/msx-talk/hardware/trh9000-the-yamaha-v9990-based-open-source-video-card-for-the-msx?page=24 "TRH9000 - The Yamaha V9990 based open-source video card for the MSX")
 * [Power Chupin 2.6 was unleashed!](https://www.msx.org/forum/msx-talk/software/power-chupin-26-was-unleashed "Power Chupin 2.6 was unleashed!")
 * [Sony HB-F1XD MSX2 Disk Help](https://www.msx.org/forum/msx-talk/general-discussion/sony-hb-f1xd-msx2-disk-help "Sony HB-F1XD MSX2 Disk Help")
@@ -163,9 +166,6 @@ Latest forum posts
 * [The Matrix digital rain on MSX](https://www.msx.org/forum/msx-talk/development/the-matrix-digital-rain-on-msx?page=1 "The Matrix digital rain on MSX")
 * [RIP Fabio Belavenuto](https://www.msx.org/forum/msx-talk/general-discussion/rip-fabio-belavenuto?page=2 "RIP Fabio Belavenuto")
 * [Hydlide 3 tips?](https://www.msx.org/forum/msx-talk/software/hydlide-3-tips "Hydlide 3 tips?")
-* [New MSX2 owner, intro, and some questions](https://www.msx.org/forum/msx-talk/general-discussion/new-msx2-owner-intro-and-some-questions?page=1 "New MSX2 owner, intro, and some questions")
-* [Programming book recommendations](https://www.msx.org/forum/msx-talk/development/programming-book-recommendations "Programming book recommendations")
-* [MSX Goa'uld. Turn an MSX into a MSX 2+?](https://www.msx.org/forum/msx-talk/hardware/msx-goauld-turn-an-msx-into-a-msx-2?page=3 "MSX Goa'uld. Turn an MSX into a MSX 2+?")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
