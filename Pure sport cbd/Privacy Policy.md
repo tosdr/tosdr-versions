@@ -65,7 +65,6 @@ Free UK Shipping with orders over £50
     
     Free Salty Pace Sports Bottle with orders over £75](https://puresportcbd.com/en-us/collections/all)
     
-* [APPAREL SALE](https://puresportcbd.com/en-us/collections/apparel-sale)
 * Our story
     
     * [OUR STORY](https://puresportcbd.com/en-us#)
@@ -170,7 +169,6 @@ Free UK Shipping with orders over £50
     
     Free Salty Pace Sports Bottle with orders over £75](https://puresportcbd.com/en-us/collections/all)
     
-* [APPAREL SALE](https://puresportcbd.com/en-us/collections/apparel-sale)
 * [Our story](#)
     
     * [OUR STORY](https://puresportcbd.com/en-us#)
