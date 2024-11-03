@@ -110,7 +110,7 @@ There are certain other small aspects to creating projects that all authors shou
 
 Modrinth is [open source](https://github.com/modrinth).
 
-prod@[e81e056](https://github.com/modrinth/code/tree/e81e056758178f6e089e305017c67ac736f28469)
+prod@[c7a2a3e](https://github.com/modrinth/code/tree/c7a2a3e29bd6b3a35dae80743b8a860c5d2f54b4)
 
 © Rinth, Inc.
 
