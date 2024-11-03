@@ -402,11 +402,23 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![AMBER Alert issued for missing 12-year-old out of Kaufman County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/amber-alert.jpg?ve=1&tl=1)
+
+ ![AMBER Alert issued for missing 12-year-old out of Kaufman County](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/amber-alert.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-alert-issued-missing-12-year-old-our-kaufman-county)
+
+### [AMBER Alert issued for missing 12-year-old out of Kaufman County](https://www.fox4news.com/news/amber-alert-issued-missing-12-year-old-our-kaufman-county)
+
  [![Texas refuses federal election monitors on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-1784075134.jpg?ve=1&tl=1)
 
  ![Texas refuses federal election monitors on Election Day](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-1784075134.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/texas-federal-election-monitors-election-day-reject)
 
 ### [Texas refuses federal election monitors on Election Day](https://www.fox4news.com/election/texas-federal-election-monitors-election-day-reject)
+
+ [![Famous streamer Kai Cenat says he's the victim of yet another swatting call](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/11/32/18/gettyimages-1431445107.jpg?ve=1&tl=1)
+
+ ![Famous streamer Kai Cenat says he's the victim of yet another swatting call](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/11/32/18/592/333/gettyimages-1431445107.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kai-cenat-twitch-swatted-marietta-mansion)
+
+### [Famous streamer Kai Cenat says he's the victim of yet another swatting call](https://www.fox4news.com/news/kai-cenat-twitch-swatted-marietta-mansion)
 
  [![Gateway Church removes elders after investigation into Robert Morris sexual abuse accusations](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/robert-morris.jpg?ve=1&tl=1)
 
@@ -419,18 +431,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Kamala Harris appearing on SNL tonight, AP sources say](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2162425995-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kamala-harris-snl-appearance-tonight)
 
 ### [Kamala Harris appearing on SNL tonight, AP sources say](https://www.fox4news.com/news/kamala-harris-snl-appearance-tonight)
-
- [![Jason Kelce smashes Penn State fan's phone for using homophobic slur to attack Travis Kelce, Taylor Swift](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/fnc-getty-jason-kelce.jpg?ve=1&tl=1)
-
- ![Jason Kelce smashes Penn State fan's phone for using homophobic slur to attack Travis Kelce, Taylor Swift](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/fnc-getty-jason-kelce.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jason-kelce-phone-slams-video-penn-state-taylor-swift)
-
-### [Jason Kelce smashes Penn State fan's phone for using homophobic slur to attack Travis Kelce, Taylor Swift](https://www.fox4news.com/news/jason-kelce-phone-slams-video-penn-state-taylor-swift)
-
- [![Man charged with murder in Northwest Dallas shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Dallas-Police-generic-Dallas-PD-DPD-logo.png?ve=1&tl=1)
-
- ![Man charged with murder in Northwest Dallas shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Dallas-Police-generic-Dallas-PD-DPD-logo.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-charged-murder-northwest-dallas-shooting)
-
-### [Man charged with murder in Northwest Dallas shooting](https://www.fox4news.com/news/man-charged-murder-northwest-dallas-shooting)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
