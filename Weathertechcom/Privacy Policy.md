@@ -1,6 +1,8 @@
 [Skip to Main Content](#maincontent)
 
-$  
+ 
+
+$   
 
 [Skip to Main Content](#maincontent) [WeatherTech](https://www.weathertech.com/)
 
@@ -79,7 +81,7 @@ Privacy Policy
 WEATHERTECH WEBSITE PRIVACY POLICY
 ----------------------------------
 
-### Last Updated / Effective Date: 10/10/2024
+### Last Updated / Effective Date: 10/30/2024
 
 WeatherTech Direct, LLC and any of its affiliates (together "**WeatherTech**" or "**we**", "**us**" or "**our**") value your privacy. This Privacy Policy ("**Policy**") describes how we collect, use, store and share your Personal Information when you visit our websites, including [http://www.weathertech.com](http://www.weathertech.com/) (the "**Site**").
 
@@ -138,7 +140,7 @@ We collect certain Personal Information from you directly or automatically using
 | **Business Purposes** | * To facilitate transactions<br>* To create accounts<br>* To inform our business strategies<br>* To engage in product research and development<br>* To monitor and improve our products<br>* To administer surveys<br>* To place, fulfil and deliver your orders<br>* To take and process payments<br>* To keep a record of your purchases and<br>* To process returns. | * Identifiers<br>* Customer Records<br>* Commercial Information<br>* Internet Activity |
 | **Communication Purposes** | * To respond to your requests or inquiries<br>* To send you newsletters and updates<br>* To provide information about our products<br>* To send you warranty information and product recall information<br>* To notify you of new products and<br>* To comply with privacy rights requests. | * Identifiers<br>* Customer Records<br>* Commercial Information<br>* Internet Activity |
 | **Website Management Purposes** | * To troubleshoot problems with the Site<br>* To help improve the Site and<br>* To understand how you get to the Site. | * Identifiers<br>* Internet Activity<br>* Geolocation Data |
-| **Marketing & Advertising Purposes** | * To send you promotions and<br>* To serve you targeted advertising.<br><br>We use cookies, session replay software, web beacons, pixel tags and other tracking technologies (collectively "Cookies") when you use our Site. To learn more about how we use Cookies and your options to limit the data collected from our Site, please visit our Cookie Policy . | * Identifiers<br>* Internet Activity<br>* Commercial Information<br>* Geolocation Data |
+| **Marketing & Advertising Purposes** | * To send you promotions<br>* To serve you targeted advertising<br>* To track the success of our marketing campaigns and<br>* To serve targeted advertising to individuals who may have similar interests.<br><br>We use cookies, session replay software, web beacons, pixel tags and other tracking technologies (collectively "Cookies") when you use our Site. To learn more about how we use Cookies and your options to limit the data collected from our Site, please visit our [cookie policy](https://www.weathertech.com/service/cookie-policy/). | * Identifiers<br>* Internet Activity<br>* Commercial Information<br>* Geolocation Data |
 | **For Compliance and Legal Purposes** | * To protect our legal rights and the rights of third parties. | * Identifiers<br>* Internet Activity<br>* Geolocation Data |
 | **Analytics** | * To perform analytics on your use of the Site and<br>* To understand Site demographics and user preferences. | * Identifiers<br>* Customer Records |
 
@@ -193,9 +195,9 @@ The Site may link to websites not owned or controlled by WeatherTech. WeatherTec
 
 We use the YouTube application programming interface (API) services to allow you to access YouTube content from our Site. Your use of YouTube is governed by YouTube’s terms of service and privacy policy and not by our Terms of Use or this Policy. We encourage you to read the YouTube terms of service and privacy policy which are available on its website at [https://www.youtube.com/t/terms](https://www.youtube.com/t/terms).
 
-We are active on social media, including Facebook, Tiktok, YouTube, X (previously known as Twitter), Instagram, and LinkedIn ("Social Media"). We may post (or re-post) on the Site and our Social Media pages any comments or content that you post on our Social Media pages. Your use of Social Media is governed by the privacy policies and terms of the third parties that own and operate those websites and not by this Policy. We encourage you to review those policies and terms.
+We are active on social media, including Facebook, TikTok, YouTube, X (previously known as Twitter), Instagram, and LinkedIn ("Social Media"). We may post (or re-post) on the Site and our Social Media pages any comments or content that you post on our Social Media pages. Your use of Social Media is governed by the privacy policies and terms of the third parties that own and operate those websites and not by this Policy. We encourage you to review those policies and terms.
 
-### XI. FINANCIAL INCENTIVE OFFERINGS
+### XI. NOTICE OF FINANCIAL INCENTIVE
 
 From time to time, we may offer financial incentives such as special promotions and discounts for customers who sign up to receive our marketing emails or create accounts with us. When you sign up for these special promotions and discounts, we will collect certain Personal Information from you such as Identifiers (your name and email) and Commercial Information (your purchase history). You can opt-in to a financial incentive by following the sign-up instructions provided. You may withdraw from financial incentives at any time by unsubscribing from marketing emails or contacting us using the information provided below.
 
