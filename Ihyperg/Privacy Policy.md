@@ -14,34 +14,36 @@
     * [Gadgets](https://www.ihyperg.com/search/label/Gadgets%20News)
     * [Artificial intelligence](https://www.ihyperg.com/search/label/AI%20News)
     * [Gaming](https://www.ihyperg.com/search/label/Games%20News)
+* [ ]  Blog
+    * [Pichype](https://www.ihyperg.com/search/label/Pichype)
+    * [VROF](https://www.ihyperg.com/search/label/VROF)
 * [ ]  Pages
+    * [Bridge Milky](https://www.ihyperg.com/p/how-to-use-launcher-bridge-milky.html)
+    * [Bridge Star](https://www.ihyperg.com/p/how-to-use-launcher-bridge-star-launcher.html)
+    * [Milky FAQ](https://www.ihyperg.com/p/milky-launcher-frequently-asked.html)
+    * [Star FAQ](https://www.ihyperg.com/p/star-launcher-frequently-asked-question.html)
     * [Filters & Overlays Guide](https://www.ihyperg.com/p/how-to-use-filters-and-overlays-for.html)
     * [Adjust & HSL Guide](https://www.ihyperg.com/p/how-to-use-adjust-and-hsl-tools-for-pro.html)
     * [Body Editor Guide](https://www.ihyperg.com/p/body-editor-perfect-your-photos-with.html)
     * [Frame Editor Guide](https://www.ihyperg.com/p/frame-editor-add-creative-borders-to.html)
     * [BG Remove & BG Change Guide](https://www.ihyperg.com/p/effortlessly-edit-backgrounds-with.html)
-* [ ]  FAQ
-    * [Bridge Milky](https://www.ihyperg.com/p/how-to-use-launcher-bridge-milky.html)
-    * [Bridge Star](https://www.ihyperg.com/p/how-to-use-launcher-bridge-star-launcher.html)
-    * [Milky FAQ](https://www.ihyperg.com/p/milky-launcher-frequently-asked.html)
-    * [Star FAQ](https://www.ihyperg.com/p/star-launcher-frequently-asked-question.html)
-* [ ]  About Apps
+* [ ]  Apps
     * [Pichype Photo Editor Pro](https://www.ihyperg.com/p/pichype-photo-editor.html)
     * [VROF Photo Editor Lite](https://www.ihyperg.com/p/monhype-photo-motion.html)
     * [Star Launcher Prime](https://www.ihyperg.com/p/star-launcher-prime.html)
     * [Milky Launcher Pro](https://www.ihyperg.com/p/milky-launcher-pro.html)
 * [ ]  Links
     * [Play Store](https://play.google.com/store/apps/dev?id=6896025788077665075)
-    * [Twitter Account](https://x.com/ihyperg_com)
-    * [Discord Server](https://discord.gg/Q7RJ3H6wqw)
-    * [Google News](https://discord.gg/Q7RJ3H6wqw)
+    * [Instagram Account](https://instagram.com/ihyperg)
+    * [Twitter](https://x.com/ihyperg_com)
+    * [Discord](https://discord.gg/Q7RJ3H6wqw)
 * [ ]  SiteMap
     * [Posts Sitemap](https://ihyperg.com/sitemap.xml)
     * [Pages Sitemap](https://ihyperg.com/sitemap-pages.xml)
 * [Privacy Policy](https://www.ihyperg.com/p/privacy-policy.html)
 * [About Us](https://www.ihyperg.com/p/about.html)
 
-Discover iHyperg’s apps on Google Play! From powerful photo editors to productivity tools – we’ve got what you need. [Open](https://play.google.com/store/apps/dev?id=6896025788077665075)
+Discover iHyperg’s apps on Google Play! [Open](https://play.google.com/store/apps/dev?id=6896025788077665075)
 
 [Home](https://www.ihyperg.com/) 
 
