@@ -93,7 +93,7 @@ Most Read
     
 4. 4. [Dystopika is a beautiful cyberpunk city builder without the ugly details](https://arstechnica.com/gaming/2024/11/dystopika-takes-all-the-management-out-of-a-cyberpunk-city-simulator/)
     
-5. 5. [What is happening with Boeing’s Starliner spacecraft?](https://arstechnica.com/space/2024/11/nearly-two-months-after-starliners-return-boeing-remains-mum-on-its-future/)
+5. 5. [Starlink enters National Radio Quiet Zone—but reportedly cut off access for some](https://arstechnica.com/tech-policy/2024/11/starlink-enters-national-radio-quiet-zone-but-reportedly-cut-off-access-for-some/)
     
 
 Customize
