@@ -248,8 +248,8 @@ About Us
 
 Get the National App
 
-* [![Download on the Apple App Store](/content/dam/National/functional/app-store-badges/Download_on_the_App_Store_Badge_US-UK.png.timestamped.png/1684769925391.png)](https://itunes.apple.com/app/apple-store/id675304115?pt=2088707&ct=ncr-us-footer&mt=8)
-* [![Get it on Google Play](/content/dam/National/functional/app-store-badges/google-play-badge-US-UK.png.timestamped.png/1684770769435.png)](https://play.google.com/store/apps/details?id=com.ehi.national.mobile)
+* [![Download on the Apple App Store](/content/dam/National/functional/app-store-badges/Download_on_the_App_Store_Badge_US-UK.png.timestamped.png/1684769925863.png)](https://itunes.apple.com/app/apple-store/id675304115?pt=2088707&ct=ncr-us-footer&mt=8)
+* [![Get it on Google Play](/content/dam/National/functional/app-store-badges/google-play-badge-US-UK.png.timestamped.png/1684770769491.png)](https://play.google.com/store/apps/details?id=com.ehi.national.mobile)
 
 ### Share Like a Pro
 
@@ -263,7 +263,7 @@ Share Like a Pro
 * [Privacy Policy](https://privacy.ehi.com/en-us/home.html)
 * [Cookie Policy](https://privacy.ehi.com/en-us/home.html)
 * [Consumer Health Data Privacy Statement](https://privacy.ehi.com/health)
-* [Privacy Choices ![](/content/dam/National/functional/icons/privacy-choices.png.timestamped.png/1686770284599.png)](#one_trust) 
-* [AdChoices ![](/content/dam/National/functional/icons/AdChoices Logo.png.timestamped.png/1638365131186.png)](https://optout.aboutads.info/) 
+* [Privacy Choices ![](/content/dam/National/functional/icons/privacy-choices.png.timestamped.png/1686770284698.png)](#one_trust) 
+* [AdChoices ![](/content/dam/National/functional/icons/AdChoices Logo.png.timestamped.png/1638365131105.png)](https://optout.aboutads.info/) 
 
 © 2024 Enterprise Holdings, Inc. All Rights Reserved
