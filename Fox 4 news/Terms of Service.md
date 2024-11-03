@@ -91,6 +91,10 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
+[Severe Thunderstorm Warning
+
+from SUN 7:33 AM CST until SUN 8:30 AM CST, Cooke County](https://www.fox4news.com/weather-alerts)
+
 Terms of Use
 ============
 
