@@ -29,11 +29,11 @@ Search for:
 
 News Ticker
 
+* [\[ November 3, 2024 \] Citizen Volunteers Do More Than FEMA National News](https://americanfreepress.net/citizen-volunteers-do-more-than-fema/ "Citizen Volunteers Do More Than FEMA")
 * [\[ November 2, 2024 \] Elon Musk: Analyzing the Good, the Bad, the Ugly … and the Downright Puzzling Subscriber Only](https://americanfreepress.net/elon-musk-analyzing-the-good-the-bad-the-ugly-and-the-downright-puzzling/ "Elon Musk: Analyzing the Good, the Bad, the Ugly … and the Downright Puzzling")
 * [\[ November 2, 2024 \] Mystery Drones ‘Swarm’ U.S. Bases Conspiracy Buzz](https://americanfreepress.net/mystery-drones-swarm-u-s-bases/ "Mystery Drones ‘Swarm’ U.S. Bases")
 * [\[ November 1, 2024 \] Biden/Harris Have Managed to Increase Foreign-Born Population to Record Levels Subscriber Only](https://americanfreepress.net/biden-harris-have-managed-to-increase-foreign-born-population-to-record-levels/ "Biden/Harris Have Managed to Increase Foreign-Born Population to Record Levels")
 * [\[ November 1, 2024 \] Illegal Immigrants Using Biden Phone App to Enter the U.S. National News](https://americanfreepress.net/illegal-immigrants-using-biden-phone-app-to-enter-the-u-s/ "Illegal Immigrants Using Biden Phone App to Enter the U.S.")
-* [\[ October 31, 2024 \] Issue 43 & 44 2024 News You May Have Missed Subscriber Only](https://americanfreepress.net/issue-43-44-2024-news-you-may-have-missed/ "Issue 43 & 44 2024 News You May Have Missed")
 
 [Home](https://americanfreepress.net/)PRIVACY POLICY
 
@@ -268,11 +268,11 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Articles
 
+* [Citizen Volunteers Do More Than FEMA](https://americanfreepress.net/citizen-volunteers-do-more-than-fema/)
 * [Elon Musk: Analyzing the Good, the Bad, the Ugly … and the Downright Puzzling](https://americanfreepress.net/elon-musk-analyzing-the-good-the-bad-the-ugly-and-the-downright-puzzling/)
 * [Mystery Drones ‘Swarm’ U.S. Bases](https://americanfreepress.net/mystery-drones-swarm-u-s-bases/)
 * [Arizona Lawman Sues Biden, Harris for Defamation](https://americanfreepress.net/arizona-lawman-sues-biden-harris-for-defamation/)
 * [Biden/Harris Have Managed to Increase Foreign-Born Population to Record Levels](https://americanfreepress.net/biden-harris-have-managed-to-increase-foreign-born-population-to-record-levels/)
-* [Illegal Immigrants Using Biden Phone App to Enter the U.S.](https://americanfreepress.net/illegal-immigrants-using-biden-phone-app-to-enter-the-u-s/)
 
 ###### Recent Comments
 
@@ -318,4 +318,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=880021284)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=1570329466)
