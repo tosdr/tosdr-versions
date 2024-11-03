@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Молодая Гвардия Единой России» и «Волонтерская Рота» организовали в Москве флешмоб ко Дню народного единства](https://cdn.er.ru/media/news/November2024/KpUdoWulZyExsvB7DObD-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-volonterskaya-rota-organizovali-v-moskve-fleshmob-ko-dnyu-narodnogo-edinstva)
+
+[«Молодая Гвардия Единой России» и «Волонтерская Рота» организовали в Москве флешмоб ко Дню народного единства](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-volonterskaya-rota-organizovali-v-moskve-fleshmob-ko-dnyu-narodnogo-edinstva)
+
+[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Деньнародногоединства](https://er.ru/activity/news?tags%5B0%5D=124570) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#флешмоб](https://er.ru/activity/news?tags%5B0%5D=18278) [#акция](https://er.ru/activity/news?tags%5B0%5D=238)
+
+Сегодня 13:57
+
+[![«Единая Россия», фонд «Наша Правда» и МГЕР доставили технику военным на линии боевого соприкосновения](https://cdn.er.ru/media/news/November2024/EZ2R45xo9Z1grMMqVijN-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-fond-nasha-pravda-i-mger-dostavili-tehniku-voennym-na-linii-boevogo-soprikosnoveniya)
+
+[«Единая Россия», фонд «Наша Правда» и МГЕР доставили технику военным на линии боевого соприкосновения](https://er.ru/activity/news/edinaya-rossiya-fond-nasha-pravda-i-mger-dostavili-tehniku-voennym-na-linii-boevogo-soprikosnoveniya)
+
+[#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#нашаправда](https://er.ru/activity/news?tags%5B0%5D=1094120) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#БПЛА](https://er.ru/activity/news?tags%5B0%5D=1094194) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Амелин](https://er.ru/activity/news?tags%5B0%5D=36283)
+
+Сегодня 13:26
+
 [![«Единая Россия» передала продукты для выпечки хлеба жителям освобожденных населенных пунктов Харьковской области](https://cdn.er.ru/media/news/November2024/azQcNW4MagJ962qC2uQG-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-produkty-dlya-vypechki-hleba-zhitelyam-osvobozhdennyh-naselennyh-punktov-harkovskoj-oblasti)
 
 [«Единая Россия» передала продукты для выпечки хлеба жителям освобожденных населенных пунктов Харьковской области](https://er.ru/activity/news/edinaya-rossiya-peredala-produkty-dlya-vypechki-hleba-zhitelyam-osvobozhdennyh-naselennyh-punktov-harkovskoj-oblasti)
@@ -330,22 +346,6 @@
 [#Новгородская область](https://er.ru/activity/news?tags%5B0%5D=773) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Никитин](https://er.ru/activity/news?tags%5B0%5D=2486) [#Храбров](https://er.ru/activity/news?tags%5B0%5D=1095704) [#наставничество](https://er.ru/activity/news?tags%5B0%5D=72627) [#академияполитики](https://er.ru/activity/news?tags%5B0%5D=1091743) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#первички](https://er.ru/activity/news?tags%5B0%5D=127619)
 
 02.11.24
-
-[![«Это не спецоперация Кремля, а выбор народа»: Дмитрий Медведев в интервью RT — о результатах парламентских выборов в Грузии](https://cdn.er.ru/media/news/November2024/lMYzAFNf4HbZYxWVFt1L-small.jpg)](https://er.ru/activity/news/eto-ne-specoperaciya-kremlya-a-vybor-naroda-dmitrij-medvedev-v-intervyu-rt-o-rezultatah-parlamentskih-vyborov-v-gruzii)
-
-[«Это не спецоперация Кремля, а выбор народа»: Дмитрий Медведев в интервью RT — о результатах парламентских выборов в Грузии](https://er.ru/activity/news/eto-ne-specoperaciya-kremlya-a-vybor-naroda-dmitrij-medvedev-v-intervyu-rt-o-rezultatah-parlamentskih-vyborov-v-gruzii)
-
-[#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#Совбез](https://er.ru/activity/news?tags%5B0%5D=2879) [#интервью](https://er.ru/activity/news?tags%5B0%5D=82) [#Грузия](https://er.ru/activity/news?tags%5B0%5D=1915) [#выборы](https://er.ru/activity/news?tags%5B0%5D=31)
-
-02.11.24
-
-[![Ольга Занко: В проекте бюджета страны на 2025 год на поддержку НКО планируется направить 419 миллиардов рублей](https://cdn.er.ru/media/news/November2024/FczY1Gwu0N1UqjjlTzi7-small.JPG)](https://er.ru/activity/news/olga-zanko-v-proekte-byudzheta-strany-na-2025-god-na-podderzhku-nko-planiruetsya-napravit-419-milliardov-rublej)
-
-[Ольга Занко: В проекте бюджета страны на 2025 год на поддержку НКО планируется направить 419 миллиардов рублей](https://er.ru/activity/news/olga-zanko-v-proekte-byudzheta-strany-na-2025-god-na-podderzhku-nko-planiruetsya-napravit-419-milliardov-rublej)
-
-[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#поддержка](https://er.ru/activity/news?tags%5B0%5D=519)
-
-01.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
