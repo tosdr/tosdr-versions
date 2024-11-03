@@ -244,32 +244,6 @@ MuggleNet Archive Select Month November 2024  (1) October 2024  (27) September
 
 ### November 2024
 
-#### Sat, Nov 2
-
-Hagrid returns from recruiting giants
-
-Recurs yearly
-
-1995
-
-Harry, Fred, and George are banned from Quidditch
-
-Recurs yearly
-
-1995
-
-Peter Mullan's birthday
-
-Recurs yearly
-
-Yaxley
-
-Ron snogs Lavender
-
-Recurs yearly
-
-1996
-
 #### Sun, Nov 3
 
 Sirius Black's birthday
@@ -346,6 +320,14 @@ Recurs yearly
 
 1992
 
+#### Sat, Nov 9
+
+Harry catches the Snitch in his mouth during his first Quidditch match
+
+Recurs yearly
+
+1991
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -356,15 +338,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Forty versions of Salazar Slytherin’s infamous locket had to be created to accommodate Harry Potter and Ron Weasley’s failed attempts to destroy it during filming.
+The first autographed copy of Harry Potter and the Half-Blood Prince was shipped across the Atlantic in a trunk and taken via armored truck to a secret location.
 
 ### Potter History
 
-May 21-24, 2009 – The first LeakyCon is held in Boston, Massachusetts.
+January 9, 2006 – The IMAX version of Harry Potter and the Goblet of Fire is revealed to be the highest-grossing IMAX film ever.
 
 ### Potter Quote
 
-“Hey! Mr. English guy! I think your egg is hatching!”
+“Only this morning, for instance, I took a wrong turning on the way to the bathroom and found myself in a beautifully proportioned room I have never seen before, containing a really rather magnificent collection of chamber pots. When I went back to investigate more closely, I discovered that the room had vanished.”
 
 [](#)
 
