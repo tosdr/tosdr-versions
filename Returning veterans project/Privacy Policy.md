@@ -186,11 +186,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![U.S. Army Transportation Corps Aviation Association (TCAA)](https://cdn.returningveterans.org/images/honor/CCF01272010_00000.jpg)  
+![Alan Burgess ](https://cdn.returningveterans.org/images/honor/Alan_Burgess.jpg)  
 
-**In Honor of U.S. Army Transportation Corps Aviation Association (TCAA)**  
-United States Army  
-Submitted by Ted Cimral](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Memory of Alan Burgess**  
+United States Army National Guard  
+Submitted by Brother Edward Burgess](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -233,5 +233,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/02/24 - 2:28:11  
+Printed 11/02/24 - 8:31:52  
 © 2024 Returning Veterans Project
