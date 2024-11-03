@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -146,6 +146,10 @@
 | [Картинки с выставок](https://www.russianfood.com/themes/?theme_id=18) | 4,98 |
 | Репортажи с выставок производителей продуктов питания. Рассказы о продукции известных и еще неизвестных брендов |     |
 
+Сейчас читают
+
+* [Запечённые куриные тефтели в кунжуте](https://www.russianfood.com/recipes/recipe.php?rid=172904)
+
 |     |
 | --- |
 | Поиск рецептов<br>-------------- |
@@ -166,6 +170,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Вкусное из простого. ПЕЧЕНЬ по-необычному (10)](https://www.russianfood.com/reading/?post_id=22822) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/468/sm_467779.jpg)](https://www.russianfood.com/reading/?post_id=22822)
+
+Жареная картошка с говяжьей печенью. Печёночный рулет с морковью и сыром. Жареные пирожки с печенью и картофелем. Куриная печень, запечённая с овощами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22822)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22822#comments) | 03.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Для борьбы с осенней хандрой. Лучшие СЛАДОСТИ №24-44](https://www.russianfood.com/reading/?post_id=22821) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/743/sm_742792.jpg)](https://www.russianfood.com/reading/?post_id=22821)
+
+Торт из печенья с бананами и сливочным сыром. Творожно-тыквенная запеканка. Домашние кукурузные палочки. Творожное печенье. Кофейно-сливочный мусс с печеньем. Тыквенный чизкейк. Пирог "Медовик" с маком.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22821)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие сладости](https://www.russianfood.com/blogs/?id=327533) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22821#comments) | 03.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -193,7 +225,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_6 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174705#comments) | 02.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_8 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174705#comments) | 02.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -249,7 +281,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173618#comments) | 02.11.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173618#comments) | 02.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -349,34 +381,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_6 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=174675#comments) | 31.10.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Шпинатный бисквитный рулет с красной рыбой и сливочно-сырным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174686) |     |
-
-[![Фото к рецепту: Шпинатный бисквитный рулет с красной рыбой и сливочно-сырным кремом](//img1.russianfood.com/dycontent/images_upl/748/sm_747702.jpg "Фото к рецепту: Шпинатный бисквитный рулет с красной рыбой и сливочно-сырным кремом")](https://www.russianfood.com/recipes/recipe.php?rid=174686)
-
-Из бисквитного теста с добавлением шпината выпекается корж и затем сворачивается с начинкой в яркий зелёный рулет. В качестве начинки – кусочки солёной красной рыбы и нежнейший крем из сливок и творожного сыра. Праздничный закусочный рулет для новогоднего стола можно оформить в виде Змеи – символа 2025 года.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174686)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [BakingNews](https://www.russianfood.com/blogs/?id=413626) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174686#comments) | 31.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Для нескучного обеда.) Лучшие СУПЫ №24-44](https://www.russianfood.com/reading/?post_id=22806) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/747/sm_746648.jpg)](https://www.russianfood.com/reading/?post_id=22806)
-
-Грибной суп с лапшой. Сливочный суп с копчёной курицей. Суп с зелёной чечевицей и сладким перцем. Томатный суп с тушёнкой и макаронами. Грибной суп с гречкой и колбасками. Суп со стручковой фасолью и грибами. Суп с вёшенками, фрикадельками и пекинской капустой.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22806)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие супы](https://www.russianfood.com/blogs/?id=325357) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22806#comments) | 31.10.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -448,8 +452,8 @@
 
 |     |     |     |
 | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/728/alt1_727072.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173618) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746744.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174258) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735596.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173377) |
-| [Салат с курицей, пекинской капустой и огурцами](https://www.russianfood.com/recipes/recipe.php?rid=173618) | [Оладьи с помидорами и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=174258) | [Салат с рыбными консервами, свежими овощами и отварным картофелем](https://www.russianfood.com/recipes/recipe.php?rid=173377) |
+| [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735596.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173377) | [![](//img1.russianfood.com/dycontent/images_upl/728/alt1_727072.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173618) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746744.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174258) |
+| [Салат с рыбными консервами, свежими овощами и отварным картофелем](https://www.russianfood.com/recipes/recipe.php?rid=173377) | [Салат с курицей, пекинской капустой и огурцами](https://www.russianfood.com/recipes/recipe.php?rid=173618) | [Оладьи с помидорами и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=174258) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -466,4 +470,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(125)
+(133)
