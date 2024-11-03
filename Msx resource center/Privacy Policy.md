@@ -150,10 +150,10 @@ Latest reactions
 
 Latest forum posts
 
-* [TRH9000 - The Yamaha V9990 based open-source video card for the MSX](https://www.msx.org/forum/msx-talk/hardware/trh9000-the-yamaha-v9990-based-open-source-video-card-for-the-msx?page=23 "TRH9000 - The Yamaha V9990 based open-source video card for the MSX")
-* [Power Chupin 2.6 was unleashed!](https://www.msx.org/forum/msx-talk/software/power-chupin-26-was-unleashed "Power Chupin 2.6 was unleashed!")
-* [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=62 "List of undumped MSX software (PLEASE HELP!)")
 * [What is the point of bits \[3:0\] in the R15 of the PSG](https://www.msx.org/forum/msx-talk/hardware/what-is-the-point-of-bits-30-in-the-r14-of-the-psg?page=1 "What is the point of bits [3:0] in the R15 of the PSG")
+* [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=63 "List of undumped MSX software (PLEASE HELP!)")
+* [TRH9000 - The Yamaha V9990 based open-source video card for the MSX](https://www.msx.org/forum/msx-talk/hardware/trh9000-the-yamaha-v9990-based-open-source-video-card-for-the-msx?page=24 "TRH9000 - The Yamaha V9990 based open-source video card for the MSX")
+* [Power Chupin 2.6 was unleashed!](https://www.msx.org/forum/msx-talk/software/power-chupin-26-was-unleashed "Power Chupin 2.6 was unleashed!")
 * [Sony HB-F1XD MSX2 Disk Help](https://www.msx.org/forum/msx-talk/general-discussion/sony-hb-f1xd-msx2-disk-help "Sony HB-F1XD MSX2 Disk Help")
 * [OpenMSX for Trimui Smart Pro Handheld](https://www.msx.org/forum/msx-talk/emulation/openmsx-for-trimui-smart-pro-handheld?page=1 "OpenMSX for Trimui Smart Pro Handheld")
 * [keyboard connector for Victor HC-9x DSUB 20-pin from mouser](https://www.msx.org/forum/msx-talk/hardware/keyboard-connector-for-victor-hc-9x-dsub-20-pin-from-mouser "keyboard connector for Victor HC-9x DSUB 20-pin from mouser")
