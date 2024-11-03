@@ -320,15 +320,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![  ](https://static.ffx.io/images/$zoom_0.1873%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_16/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c5545d3161618df8f6b1918bcafe0e54883f4550)](https://www.afr.com/life-and-luxury/design/homewares-that-last-forever-how-is-that-good-business-20241021-p5kk1t)
+[![ ](https://static.ffx.io/images/$zoom_0.5171%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/8c59e2ef988f4dc028a5b3ae9f5a81019bf4a106)](https://www.afr.com/life-and-luxury/food-and-wine/is-this-australia-s-best-shiraz-20241029-p5kmes)
 
-### [Homewares that last forever? How is that good business?](https://www.afr.com/life-and-luxury/design/homewares-that-last-forever-how-is-that-good-business-20241021-p5kk1t)
+### [Is this Australia’s best shiraz?](https://www.afr.com/life-and-luxury/food-and-wine/is-this-australia-s-best-shiraz-20241029-p5kmes)
 
-* Glynis Traill-Nash
+* 54 mins ago
+* Max Allen
 
-* ### [This sustainable car fuel has ‘no performance deficit’](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/this-sustainable-car-fuel-has-no-performance-deficit-20241010-p5khbz)
+* ### [This physio sold his business for $100 million. Here’s how he relaxes](https://www.afr.com/life-and-luxury/health-and-wellness/this-physio-sold-his-business-for-100-million-here-s-how-he-relaxes-20241029-p5km9c)
     
-* ### [Ever heard of a beer farm? This paddock-to-pint brewery is onto something](https://www.afr.com/life-and-luxury/food-and-wine/ever-heard-of-a-beer-farm-this-paddock-to-pint-brewery-is-onto-something-20241023-p5kkrk)
+* ### [The jewellery I never take off](https://www.afr.com/life-and-luxury/fashion-and-style/the-jewellery-i-never-take-off-20241016-p5kiol)
     
 
 [Rich List](https://www.afr.com/rich-list)
