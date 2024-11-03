@@ -65,6 +65,13 @@ No registration or internet community membership is needed to use the Sportracti
 
 The Sportractive app offers sharing, sync, upload and export functions. With these a user can share data, entered or collected by the use of the app, with other apps or internet services.
 
+Sportractive supports data exchange via Health Connect from version 5.2 and Android 9. The user can grant the following health-related permissions:
+
+* Read & Write Body Measurement data: Weight, Body Fat
+* Write Workout data: Exercise, Exercise Route, Heart Rate, Speed, Distance, Elevation Gained, Total Calories Burned
+
+This data is collected solely for the purpose of improving the user experience and providing functions related to health and fitness. This data is processed locally on the user's device and is not passed on to third parties. The user has the option to grant or deny these permissions within the app settings.
+
 Sportractive does not transmit user data to a third party. Security procedures are in place to protect the confidentiality of your information. Sportractive uses encryption methods to protect your data.
 
 The Sportractive app Data Sync can store workouts, body measurements and other data on Google Drive for Apps and additionally synchronize between a user's devices. The data is stored encrypted in a protected directory on Google Drive for Apps. Other apps do not have access to it and the Sportractive app does not have access to other data in Google Drive.
