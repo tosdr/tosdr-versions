@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-3e915d6f2ea30fa495d1cba4af1a6718
+813c5f2015635768d13d6273dc6d6dab
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Swarovski eyeball clasp](https://sojourner.biz/images/cache/SKU0155variations.200.jpg)](https://sojourner.biz/clasps/swarovski/swarovski-eyeball-clasp.html "Swarovski eyeball clasp")
+[![14 mm round fire agate beads](https://sojourner.biz/images/cache/stone/FA0001.200.jpg)](https://sojourner.biz/beads/stone-a-l/fire-agate/14-mm-round-fire-agate-beads.html "14 mm round fire agate beads")
 
-#### [Swarovski eyeball clasp](https://sojourner.biz/clasps/swarovski/swarovski-eyeball-clasp.html "Swarovski eyeball clasp")
+#### [14 mm round fire agate beads](https://sojourner.biz/beads/stone-a-l/fire-agate/14-mm-round-fire-agate-beads.html "14 mm round fire agate beads")
 
-$23.00
+$22.00
 
 ### Best Sellers
 
