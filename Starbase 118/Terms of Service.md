@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2018/04/fleet-768x306.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/october-2024-post-counts/)
+
+### [October 2024 Post Counts](https://www.starbase118.net/2024/october-2024-post-counts/)
+
+amackenzie November 3, 2024
+
+October was a month of profound exploration and storytelling prowess within our distinguished Fleet. We saw a slight dip in our overall averages this month,
+
+[Read More »](https://www.starbase118.net/2024/october-2024-post-counts/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-gnai-uss-artemis-a-sarpeidon-award/)
 
 ### [Award Winner – Gnai, USS Artemis-A (Sarpeidon Award)](https://www.starbase118.net/2024/award-winner-gnai-uss-artemis-a-sarpeidon-award/)
@@ -377,18 +389,6 @@ Federation News Service October 31, 2024
 EARTH, SOL SYSTEM – The USS Artemis-A (NCC-81287) caps off their shore leave with an intimate gathering to recognize the achievements of the crew and
 
 [Read More »](https://www.starbase118.net/2024/a-somber-shore-leave-ends-as-the-artemis-prepares-to-return-to-the-borderlands/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/11/Amity3-768x576.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/amity-outpost-struggles-to-rebuild-trust-after-frontier-day/)
-
-### [Amity Outpost struggles to rebuild trust After Frontier Day](https://www.starbase118.net/2024/amity-outpost-struggles-to-rebuild-trust-after-frontier-day/)
-
-Federation News Service October 28, 2024
-
-BAROSSA NEBULA – With reconstruction efforts nearing completion, Ambassador Vataix and her blended crew of Diplomatic Corps staff and Starfleet officers face the difficult task
-
-[Read More »](https://www.starbase118.net/2024/amity-outpost-struggles-to-rebuild-trust-after-frontier-day/)
 
 Ready to get started?
 ---------------------
