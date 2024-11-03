@@ -76,13 +76,13 @@ Search:
 
 [](https://www.401gold.ca/my-account/)
 
-$0.00
+$3,188.00
 
 #### Cart
 
 Secure checkout
 
-0
+1
 
 Terms & Conditions
 ==================
