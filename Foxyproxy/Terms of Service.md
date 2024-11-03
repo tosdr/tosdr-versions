@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I love FoxyProxy so I can watch British tele !
+Thanks for the excellent service and speed of response.
 
-Jim Stockbauer
+Graham Parkinson
