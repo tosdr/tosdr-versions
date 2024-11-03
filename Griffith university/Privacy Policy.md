@@ -825,7 +825,7 @@ We take privacy complaints seriously.
 
 4. See “Privacy Contacts” below for information on how to contact the Privacy Officer.
 
-#### **[Privacy Contacts](https://www.griffith.edu.au/about-griffith/corporate-governance/plans-publications/?a=1954803)**
+#### **[Privacy Contacts](https://www.griffith.edu.au/about-griffith/corporate-governance/plans-publications/?external-uuid=81118fb2-bf31-4409-9f3b-0f7513e899af)**
 
 Can I stay anonymous or use a pseudonym?
 
