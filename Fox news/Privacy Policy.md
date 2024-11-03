@@ -315,22 +315,29 @@
 
 This material may not be published, broadcast, rewritten, or redistributed. ©2024 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by [Factset](https://go.factset.com/legal). Powered and implemented by [FactSet Digital Solutions](https://www.factset.com/solutions/digital-solutions). [Legal Statement](https://www.factset.com/privacy). Mutual Fund and ETF data provided by [Refinitiv Lipper](https://lipperalpha.refinitiv.com/).
 
-     [![Harris' plane reportedly takes detour on way to the Blue Wall for 'Saturday Night Live' stop - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/720/405/83a125b9257193d3254d4f3f49684834.jpg?tl=1&ve=1)
+     [![Harris jets off to New York for 'SNL' cameo, Trump team slams her for 'cosplaying with her elitist friends' - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/720/405/71b467876827ca3eb3dc27cb1ba08a30.jpg?tl=1&ve=1)
 
-LIVE FROM NEW YORK](https://www.foxnews.com/media/kamala-harris-appear-saturday-night-live-tonight)
+LIVE FROM NY](https://www.foxnews.com/media/kamala-harris-appears-snl-final-episode-before-election)
 
-### [Harris' plane reportedly takes detour on way to the Blue Wall for 'Saturday Night Live' stop](https://www.foxnews.com/media/kamala-harris-appear-saturday-night-live-tonight)
+### [Harris jets off to New York for 'SNL' cameo, Trump team slams her for 'cosplaying with her elitist friends'](https://www.foxnews.com/media/kamala-harris-appears-snl-final-episode-before-election)
 
-* [Shock poll has Harris leading Trump in Iowa by narrow margin](https://www.foxnews.com/politics/shock-poll-harris-leading-trump-iowa-3-point-shift-toward-vice-president-red-state)
-* [LIVE UPDATES: Harris campaign posts video message from Harrison Ford](https://www.foxnews.com/live-news/donald-trump-kamala-harris-election-news-11-2-24?asdf)
+* [Shock poll that has Harris leading Trump in Iowa called 'clear outlier'](https://www.foxnews.com/politics/shock-poll-harris-leading-trump-iowa-3-point-shift-toward-vice-president-red-state)
+* [WATCH: Jimmy Failla hits Times Square to ask people if Trump or Kamala will win](https://www.foxnews.com/video/6364136932112)
+* [WATCH: Harris 'way too liberal' to be the president, explains Ron DeSantis](https://www.foxnews.com/video/6364133896112)
 
-[](https://www.foxnews.com/video/6364131937112)
+     [![Trump vows he will break into the Blue Wall as he zips around Virginia, North Carolina - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/d2fa57a520aea8b530da3fdf2f7646a8.jpg?tl=1&ve=1)
 
-### [WATCH LIVE: Former President Trump delivers remarks in North Carolina](https://www.foxnews.com/video/6364131937112)
+‘MAKING THE ROUNDS’](https://www.foxnews.com/live-news/donald-trump-kamala-harris-election-news-11-2-24?asdf)LIVE UPDATES
+
+### [Trump vows he will break into the Blue Wall as he zips around Virginia, North Carolina](https://www.foxnews.com/live-news/donald-trump-kamala-harris-election-news-11-2-24?asdf)
+
+* [Trump invites group of 'brave' women who stood up to 'radical left' on stage](https://www.foxnews.com/sports/trump-invites-brave-womens-swim-team-who-stood-up-to-transgender-athlete-rally-stage)
 
 [Video](https://www.foxnews.com/video/6364132778112) WATCH
 
 ### [Sneering President Biden talks 'smack' about Republicans with profane jab](https://www.foxnews.com/video/6364132778112)
+
+* [Social media erupts after Biden's 'smack' comment](https://www.foxnews.com/media/biden-calls-republicans-guys-youd-like-smack-a-just-feel-unity)
 
      [![Democrats have an enormous dilemma if Kamala Harris loses election - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/9f69c1623054771dd6f6d3cd0cb4a0c8.jpg?tl=1&ve=1)
 
@@ -344,15 +351,15 @@ BLAME GAME](https://www.foxnews.com/opinion/democrats-have-enormous-dilemma-kama
 
 ### [GOP candidate has mic-drop moment when Dem rival accuses her of favoring the rich](https://www.foxnews.com/politics/gop-candidate-new-hampshire-points-out-dem-opponent-millionaire-after-being-accused-favoring-rich)
 
-     [![Trump rails against ‘gender insanity’ as college team thanks him for stance - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/58be9666df961d3bad3340d1c10ed795.png?tl=1&ve=1)
+     [![Georgia judge issues mail-in ballot ruling three days before election - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/343/193/fulton-county-absentee-ballot.jpg?tl=1&ve=1)
 
-‘COMMON SENSE’](https://www.foxnews.com/sports/trump-invites-brave-womens-swim-team-who-stood-up-to-transgender-athlete-rally-stage)
+RETURN POLICY](https://www.foxnews.com/politics/georgia-judge-voters-hand-mail-ballots-rejection-gop-lawsuit)
 
-### [Trump rails against ‘gender insanity’ as college team thanks him for stance](https://www.foxnews.com/sports/trump-invites-brave-womens-swim-team-who-stood-up-to-transgender-athlete-rally-stage)
+### [Georgia judge issues mail-in ballot ruling three days before election](https://www.foxnews.com/politics/georgia-judge-voters-hand-mail-ballots-rejection-gop-lawsuit)
 
-     [![I’m a former New York Times reporter — here’s why I’m voting for Trump - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/10/343/193/88c735c0-file-66.png?tl=1&ve=1)
+     [![I’m a former New York Times reporter — here’s why I’m voting for Trump - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/ab6a3ee5c34958d540f46b5d34bc3381.jpg?tl=1&ve=1)
 
-THE ONLY CHOICE](https://www.foxnews.com/opinion/alex-berenson-why-im-voting-donald-j-trump)OPINION
+THEY'VE GONE TOO FAR](https://www.foxnews.com/opinion/alex-berenson-why-im-voting-donald-j-trump)OPINION
 
 ### [ALEX BERENSON: I’m a former New York Times reporter — here’s why I’m voting for Trump](https://www.foxnews.com/opinion/alex-berenson-why-im-voting-donald-j-trump)
 
@@ -360,13 +367,11 @@ THE ONLY CHOICE](https://www.foxnews.com/opinion/alex-berenson-why-im-voting-don
 
 ### [Joe Rogan grills Fetterman on controversial immigration bill, gets him to concede point](https://www.foxnews.com/video/6364132528112)
 
-     [![Volleyball coach suspended after blowing whistle on transgender player speaks out - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/3d367f20ec12e8ce16fe738058f4766a.jpg?tl=1&ve=1)
+     [![Abortion supporters rally for Harris in blue state as issue hits the ballot across the country - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/343/193/a2.jpg?tl=1&ve=1)
 
-TRYING TO ‘SILENCE’](https://www.outkick.com/sports/suspended-san-jose-state-volleyball-melissa-batie-smoose-fleming)
+'WON'T GO BACK'](https://www.foxnews.com/politics/abortion-supporters-womens-march-boston-turn-out-droves-support-harris-presidency)
 
-### [Volleyball coach suspended after blowing whistle on transgender player speaks out](https://www.outkick.com/sports/suspended-san-jose-state-volleyball-melissa-batie-smoose-fleming)
-
-* [San Jose State suspends coach who spoke out against trans player on volleyball team](https://www.outkick.com/sports/san-jose-state-melissa-batie-smoose-blaire-fleming-volleyball-suspended)
+### [Abortion supporters rally for Harris in blue state as issue hits the ballot across the country](https://www.foxnews.com/politics/abortion-supporters-womens-march-boston-turn-out-droves-support-harris-presidency)
 
 [Video](https://www.foxnews.com/video/6364120170112) WATCH
 
@@ -403,17 +408,67 @@ TUNE IN
 
 ### Watch special coverage of election night on Tuesday starting at 6 PM ET on FOX News Channel](https://www.foxnews.com/media/fox-news-media-announces-expansive-2024-election-coverage)
 
-    [![Wayfair's Black Friday Preview event lets you save big, earlier - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/10/208/117/commerce-wayfair-early-black-friday-istock-915652690.png?tl=1&ve=1)
+    [![Unwrap the new Stanley and Comfort & Joy water bottle collection - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/10/208/117/istock-1456552297.jpg?tl=1&ve=1)
 
 Commerce
 
-### Wayfair's Black Friday Preview event lets you save big, earlier](https://www.foxnews.com/lifestyle/wayfair-black-friday-preview-sale-event)
+### Unwrap the new Stanley and Comfort & Joy water bottle collection](https://www.foxnews.com/lifestyle/stanley-water-bottles-comfort-joy-collection)
 
-      [![Unwind with some laughs on ‘FOX News Saturday Night’ - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/5614615980001)
-
-[VIDEO](https://www.foxnews.com/video)
+[](https://www.foxnews.com/video/5614615980001)
 
 ### [WATCH LIVE: Unwind with some laughs on ‘FOX News Saturday Night’](https://www.foxnews.com/video/5614615980001)
+
+     [![Key voting bloc in swing state seeing ‘seismic shift’ towards Trump - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/arab-michigan-voter-sees-seismic-shift-among-people-from-his-community-trump-hes-about-ending-wars)
+
+[MEDIA](https://www.foxnews.com/category/media)
+
+### [Key voting bloc in swing state seeing ‘seismic shift’ towards Trump](https://www.foxnews.com/media/arab-michigan-voter-sees-seismic-shift-among-people-from-his-community-trump-hes-about-ending-wars)
+
+     [![Bill Maher torches liberal media for Trump narrative, powerful Dem lawmaker agrees with him - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/bill-maher-blasts-press-distorting-donald-trumps-liz-cheney-comments-dont-lie-me)
+
+[POLITICS ON LATE NIGHT](https://www.foxnews.com/category/entertainment/politics-on-late-night)
+
+### [Bill Maher torches liberal media for Trump narrative, powerful Dem lawmaker agrees with him](https://www.foxnews.com/media/bill-maher-blasts-press-distorting-donald-trumps-liz-cheney-comments-dont-lie-me)
+
+     [![Republicans score victory in Georgia fight over election observers, RNC chairman says - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/republicans-score-victory-georgia-fight-over-election-observers-rnc-chairman-says)
+
+[BATTLEGROUND VOICES](https://www.foxnews.com/category/politics/elections/battleground-voters)
+
+### [Republicans score victory in Georgia fight over election observers, RNC chairman says](https://www.foxnews.com/politics/republicans-score-victory-georgia-fight-over-election-observers-rnc-chairman-says)
+
+      [![Piers Morgan says a Trump win would be 'greatest comeback' in history of politics - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6364136296112) WATCH
+
+[one nation with brian kilmeade](https://www.foxnews.com/video)
+
+### [Piers Morgan says a Trump win would be 'greatest comeback' in history of politics](https://www.foxnews.com/video/6364136296112)
+
+     [![Political cartoons of the day - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/politics-cartoons-slideshow)
+
+[Politics](https://www.foxnews.com/category/politics)
+
+### [Political cartoons of the day](https://www.foxnews.com/politics/politics-cartoons-slideshow)
+
+     [![Elon Musk reacts as social media mourns Peanut the Squirrel - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/peanut-squirrel-social-media-firestorm-new-york-officials-euthanize-beloved-rodent)
+
+[ADOPTABLE PETS](https://www.foxnews.com/category/lifestyle/adoptable-pets)
+
+### [Elon Musk reacts as social media mourns Peanut the Squirrel](https://www.foxnews.com/us/peanut-squirrel-social-media-firestorm-new-york-officials-euthanize-beloved-rodent)
+
+     [![What early voting data shows in key battleground as state sees record turnout - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/georgias-nearly-4-million-early-votes-bode-well-trump-top-state-republican-says)
+
+[BATTLEGROUND VOICES](https://www.foxnews.com/category/politics/elections/battleground-voters)
+
+### [What early voting data shows in key battleground as state sees record turnout](https://www.foxnews.com/politics/georgias-nearly-4-million-early-votes-bode-well-trump-top-state-republican-says)
+
+[](https://www.foxnews.com/games)
+
+### [PLAY NOW! Crosswords ♠ Word Search ♦ Crazy Crystals ♣ Stack & Match ♥ 5 Across!](https://www.foxnews.com/games)
+
+     [![Auto Workers for Trump leader addresses rally after Ford announces layoffs - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/politics/auto-workers-trump-leader-addresses-michigan-rally-ford-motors-announces-layoffs-holidays)
+
+[DONALD TRUMP](https://www.foxbusiness.com/tag/donald-trump)
+
+### [Auto Workers for Trump leader addresses rally after Ford announces layoffs](https://www.foxbusiness.com/politics/auto-workers-trump-leader-addresses-michigan-rally-ford-motors-announces-layoffs-holidays)
 
       [![AOC calls Green Party 'predatory' over VP nominee's position on women's sports - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/aoc-calls-green-party-predatory-because-vp-nominee-doesnt-want-biological-males-female-sports)SPORTS
 
@@ -423,93 +478,39 @@ Commerce
 
 ### [AOC calls Green Party 'predatory' over VP nominee's position on women's sports](https://www.foxnews.com/sports/aoc-calls-green-party-predatory-because-vp-nominee-doesnt-want-biological-males-female-sports)
 
+     [![Celebrity suffers prompter mishap during speech for Harris - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/cardi-b-suffers-teleprompter-glitch-during-harris-rally-wisconsin)
+
+[CARDI B](https://www.foxnews.com/category/person/cardi-b)
+
+### [Celebrity suffers prompter mishap during speech for Harris](https://www.foxnews.com/politics/cardi-b-suffers-teleprompter-glitch-during-harris-rally-wisconsin)
+
      [![Actor John Leguizamo fails to sway Latino Trump voters in undercover focus group - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/john-leguizamo-fails-sway-latino-trump-voters-despite-his-inflammatory-rhetoric)
 
 [LATINO](https://www.foxnews.com/category/latino)
 
 ### [Actor John Leguizamo fails to sway Latino Trump voters in undercover focus group](https://www.foxnews.com/media/john-leguizamo-fails-sway-latino-trump-voters-despite-his-inflammatory-rhetoric)
 
+[](https://www.foxnews.com/politics/early-in-person-voting-ending-saturday-north-carolina-new-mexico-south-carolina-virginia-west-virginia)
+
+[VIRGINIA](https://www.foxnews.com/category/us/us-regions/southeast/virginia)
+
+### [Early in-person voting ends in four states, including one key battleground as election nears](https://www.foxnews.com/politics/early-in-person-voting-ending-saturday-north-carolina-new-mexico-south-carolina-virginia-west-virginia)
+
+     [![Expert sheds light on the ‘elephant in the room’ that Harris has been quiet about - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/media/finance-expert-issues-warning-elephant-room-harris-has-been-quiet-about)
+
+[MEDIA](https://www.foxbusiness.com/tag/media)
+
+### [Expert sheds light on the ‘elephant in the room’ that Harris has been quiet about](https://www.foxbusiness.com/media/finance-expert-issues-warning-elephant-room-harris-has-been-quiet-about)
+
+     [![Volleyball coach suspended after blowing whistle on transgender player speaks out - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/suspended-san-jose-state-volleyball-melissa-batie-smoose-fleming)
+
+### [Volleyball coach suspended after blowing whistle on transgender player speaks out](https://www.outkick.com/sports/suspended-san-jose-state-volleyball-melissa-batie-smoose-fleming)
+
      [![See the wildest police bookings of the week - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/mugshots-week-oct-27-nov-2-2024)
 
 [CRIME](https://www.foxnews.com/category/us/crime)
 
 ### [See the wildest police bookings of the week](https://www.foxnews.com/us/mugshots-week-oct-27-nov-2-2024)
-
-      [![Trump senior adviser: We have significant advantages heading into Election Day - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6364131538112) WATCH
-
-[fox report weekend](https://www.foxnews.com/video)
-
-### [Trump senior adviser: We have significant advantages heading into Election Day](https://www.foxnews.com/video/6364131538112)
-
-     [![Political cartoons of the day - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/politics-cartoons-slideshow)
-
-[Politics](https://www.foxnews.com/category/politics)
-
-### [Political cartoons of the day](https://www.foxnews.com/politics/politics-cartoons-slideshow)
-
-     [![Bill Maher torches liberal media for Trump narrative, powerful Dem lawmaker agrees with him - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/bill-maher-blasts-press-distorting-donald-trumps-liz-cheney-comments-dont-lie-me)
-
-[POLITICS ON LATE NIGHT](https://www.foxnews.com/category/entertainment/politics-on-late-night)
-
-### [Bill Maher torches liberal media for Trump narrative, powerful Dem lawmaker agrees with him](https://www.foxnews.com/media/bill-maher-blasts-press-distorting-donald-trumps-liz-cheney-comments-dont-lie-me)
-
-      [![Vivek Ramaswamy fires up MAGA crowd at Penn State-Ohio State game - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/vivek-ramaswamy-fires-up-maga-crowd-penn-state-vs-ohio-state-game-over-trumps-early-voting-numbers)SPORTS
-
-'LOOKING GOOD'
-
-[COLLEGE FOOTBALL](https://www.foxnews.com/category/sports/ncaa-fb)
-
-### [Vivek Ramaswamy fires up MAGA crowd at Penn State-Ohio State game](https://www.foxnews.com/sports/vivek-ramaswamy-fires-up-maga-crowd-penn-state-vs-ohio-state-game-over-trumps-early-voting-numbers)
-
-[](https://www.foxnews.com/games)
-
-### [PLAY NOW! Crosswords ♠ Word Search ♦ Crazy Crystals ♣ Stack & Match ♥ 5 Across!](https://www.foxnews.com/games)
-
-     [![Soda giant beats blue state in legal fight, judge slams gov for 'predatory' tactic - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/lifestyle/pepsico-beats-ny-ag-letitia-james-predatory-lawsuit-over-plastics-pollution)
-
-[PEPSICO](https://www.foxbusiness.com/tag/pepsico)
-
-### [Soda giant beats blue state in legal fight, judge slams gov for 'predatory' tactic](https://www.foxbusiness.com/lifestyle/pepsico-beats-ny-ag-letitia-james-predatory-lawsuit-over-plastics-pollution)
-
-     [![Elon Musk says ‘Trump will save the squirrels’ after state officials euthanize beloved pet - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/peanut-squirrel-social-media-firestorm-new-york-officials-euthanize-beloved-rodent)
-
-[ADOPTABLE PETS](https://www.foxnews.com/category/lifestyle/adoptable-pets)
-
-### [Elon Musk says ‘Trump will save the squirrels’ after state officials euthanize beloved pet](https://www.foxnews.com/us/peanut-squirrel-social-media-firestorm-new-york-officials-euthanize-beloved-rodent)
-
-      [![Woman credits this drink of choice to 105 years of life: 'A perfect match' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/woman-credits-drink-choice-105-years-life-a-perfect-match)FOOD
-
-CHEERS
-
-[BEER](https://www.foxnews.com/category/lifestyle/drinks/beer)
-
-### [Woman credits this drink of choice to 105 years of life: 'A perfect match'](https://www.foxnews.com/food-drink/woman-credits-drink-choice-105-years-life-a-perfect-match)
-
-      [![Horse dies after racing at Breeders' Cup, PETA delivers scathing statement - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/horse-dies-after-racing-breeders-cup-peta-delivers-scathing-statement)SPORTS
-
-'NO REASON'
-
-[HORSE RACING](https://www.foxnews.com/category/sports/horse-racing)
-
-### [Horse dies after racing at Breeders' Cup, PETA delivers scathing statement](https://www.foxnews.com/sports/horse-dies-after-racing-breeders-cup-peta-delivers-scathing-statement)
-
-     [![Auto Workers for Trump leader addresses rally after Ford announces layoffs - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/politics/auto-workers-trump-leader-addresses-michigan-rally-ford-motors-announces-layoffs-holidays)
-
-[DONALD TRUMP](https://www.foxbusiness.com/tag/donald-trump)
-
-### [Auto Workers for Trump leader addresses rally after Ford announces layoffs](https://www.foxbusiness.com/politics/auto-workers-trump-leader-addresses-michigan-rally-ford-motors-announces-layoffs-holidays)
-
-     [![Key Democrats ‘nauseously optimistic’ Harris will defeat Trump on Tuesday - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/dem-insiders-head-final-election-stretch-confident-harris-win-nauseously-optimistic)
-
-[KAMALA HARRIS](https://www.foxnews.com/category/person/kamala-harris)
-
-### [Key Democrats ‘nauseously optimistic’ Harris will defeat Trump on Tuesday](https://www.foxnews.com/politics/dem-insiders-head-final-election-stretch-confident-harris-win-nauseously-optimistic)
-
-     [![Celebrity suffers prompter mishap during speech for Harris - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/cardi-b-suffers-teleprompter-glitch-during-harris-rally-wisconsin)
-
-[CARDI B](https://www.foxnews.com/category/person/cardi-b)
-
-### [Celebrity suffers prompter mishap during speech for Harris](https://www.foxnews.com/politics/cardi-b-suffers-teleprompter-glitch-during-harris-rally-wisconsin)
 
       [![Fast food giant announces it's closing more than a hundred locations across US - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/lifestyle/wendys-close-140-restaurants-end-year)LIFESTYLE
 
@@ -519,19 +520,13 @@ CHAIN REACTION
 
 ### [Fast food giant announces it's closing more than a hundred locations across US](https://www.foxbusiness.com/lifestyle/wendys-close-140-restaurants-end-year)
 
-[](https://www.foxnews.com/politics/early-in-person-voting-ending-saturday-north-carolina-new-mexico-south-carolina-virginia-west-virginia)
+      [![Woman credits drink of choice for 105 years of life: 'A perfect match' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/woman-credits-drink-choice-105-years-life-a-perfect-match)FOOD
 
-[VIRGINIA](https://www.foxnews.com/category/us/us-regions/southeast/virginia)
+CHEERS
 
-### [Early in-person voting ends in four states, including one key battleground as election nears](https://www.foxnews.com/politics/early-in-person-voting-ending-saturday-north-carolina-new-mexico-south-carolina-virginia-west-virginia)
+[BEER](https://www.foxnews.com/category/lifestyle/drinks/beer)
 
-      [![Wedding-day backlash has bride questioning her ‘no children' rule - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/wedding-day-backlash-bride-questioning-no-children-rule-be-rude)LIFESTYLE
-
-'BE JUST AS RUDE'
-
-[LIFESTYLE](https://www.foxnews.com/category/lifestyle)
-
-### [Wedding-day backlash has bride questioning her ‘no children' rule](https://www.foxnews.com/lifestyle/wedding-day-backlash-bride-questioning-no-children-rule-be-rude)
+### [Woman credits drink of choice for 105 years of life: 'A perfect match'](https://www.foxnews.com/food-drink/woman-credits-drink-choice-105-years-life-a-perfect-match)
 
      [![Why did Jeff Bezos play defense? Who got tangled in Yankees fans? - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/fox-news-digitals-news-quiz-november-1-2024)
 
@@ -539,47 +534,13 @@ CHAIN REACTION
 
 ### [Why did Jeff Bezos play defense? Who got tangled in Yankees fans?](https://www.foxnews.com/lifestyle/fox-news-digitals-news-quiz-november-1-2024)
 
-      [![Ex-college football star Brady Quinn rips Penn State over loss to Ohio State - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/ex-college-football-star-brady-quinn-rips-penn-state-atrocious-play-calling-latest-loss-ohio-state)SPORTS
+      [!['American Pickers' Mike Wolfe recalls late co-star Frank Fritz's final moments - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/american-pickers-star-mike-wolfe-holding-frank-fritzs-hand-when-late-co-star-took-his-last-breath)ENTERTAINMENT
 
-‘ATROCIOUS’
+HEARTBREAKING GOODBYE
 
-[COLLEGE FOOTBALL](https://www.foxnews.com/category/sports/ncaa-fb)
+[ENTERTAINMENT](https://www.foxnews.com/category/entertainment)
 
-### [Ex-college football star Brady Quinn rips Penn State over loss to Ohio State](https://www.foxnews.com/sports/ex-college-football-star-brady-quinn-rips-penn-state-atrocious-play-calling-latest-loss-ohio-state)
-
-     [![Botched art heist claims two Warhol portraits, damages two others - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/warhol-prints-stolen-amateurish-heist-2-more-damaged-getaway-dutch-gallery)
-
-[WORLD](https://www.foxnews.com/category/world)
-
-### [Botched art heist claims two Warhol portraits, damages two others](https://www.foxnews.com/world/warhol-prints-stolen-amateurish-heist-2-more-damaged-getaway-dutch-gallery)
-
-      [![Cowboys star reportedly not traveling with team due to ‘disciplinary reasons’ - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/cowboys-ezekiel-elliott-out-vs-falcons-due-disciplinary-reasons-report)SPORTS
-
-STAYING HOME
-
-[DALLAS COWBOYS](https://www.foxnews.com/category/sports/nfl/dallas-cowboys)
-
-### [Cowboys star reportedly not traveling with team due to ‘disciplinary reasons’](https://www.foxnews.com/sports/cowboys-ezekiel-elliott-out-vs-falcons-due-disciplinary-reasons-report)
-
-     [![Republicans score victory in Georgia fight over election observers, RNC chairman says - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/republicans-score-victory-georgia-fight-over-election-observers-rnc-chairman-says)
-
-[BATTLEGROUND VOICES](https://www.foxnews.com/category/politics/elections/battleground-voters)
-
-### [Republicans score victory in Georgia fight over election observers, RNC chairman says](https://www.foxnews.com/politics/republicans-score-victory-georgia-fight-over-election-observers-rnc-chairman-says)
-
-      [![Lost sheet music of renowned pianist and composer found 200 years after his death - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/travel/lost-chopin-sheet-music-found-200-years-death)TRAVEL
-
-'SIGNIFICANT DISCOVERY'
-
-[TRAVEL](https://www.foxnews.com/category/travel)
-
-### [Lost sheet music of renowned pianist and composer found 200 years after his death](https://www.foxnews.com/travel/lost-chopin-sheet-music-found-200-years-death)
-
-     [![West coast mansion that resembles the White House sells for a whopping price - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/real-estate/23m-white-house-replica-mansion-california-sells)
-
-[REAL ESTATE](https://www.foxbusiness.com/tag/real-estate)
-
-### [West coast mansion that resembles the White House sells for a whopping price](https://www.foxbusiness.com/real-estate/23m-white-house-replica-mansion-california-sells)
+### ['American Pickers' Mike Wolfe recalls late co-star Frank Fritz's final moments](https://www.foxnews.com/entertainment/american-pickers-star-mike-wolfe-holding-frank-fritzs-hand-when-late-co-star-took-his-last-breath)
 
       [![Colin Kaepernick suggests Trump 'targeted' and 'minimized him' for kneeling - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/colin-kaepernick-suggests-trump-targeted-minimized-him-national-anthem-protests)SPORTS
 
@@ -589,31 +550,71 @@ SIDELINE VIEW
 
 ### [Colin Kaepernick suggests Trump 'targeted' and 'minimized him' for kneeling](https://www.foxnews.com/sports/colin-kaepernick-suggests-trump-targeted-minimized-him-national-anthem-protests)
 
-     [![Key voting bloc in swing state seeing ‘seismic shift’ towards Trump - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/arab-michigan-voter-sees-seismic-shift-among-people-from-his-community-trump-hes-about-ending-wars)
+     [![West coast mansion that resembles the White House sells for a whopping price - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/real-estate/23m-white-house-replica-mansion-california-sells)
 
-[MEDIA](https://www.foxnews.com/category/media)
+[REAL ESTATE](https://www.foxbusiness.com/tag/real-estate)
 
-### [Key voting bloc in swing state seeing ‘seismic shift’ towards Trump](https://www.foxnews.com/media/arab-michigan-voter-sees-seismic-shift-among-people-from-his-community-trump-hes-about-ending-wars)
+### [West coast mansion that resembles the White House sells for a whopping price](https://www.foxbusiness.com/real-estate/23m-white-house-replica-mansion-california-sells)
 
-     [![Expert sheds light on the ‘elephant in the room’ that Harris has been quiet about - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/media/finance-expert-issues-warning-elephant-room-harris-has-been-quiet-about)
+      [![Louisville football player stretchered off field, hospitalized after injury - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/louisville-football-player-stretchered-off-hospitalized-after-suffering-injury-game)SPORTS
 
-[MEDIA](https://www.foxbusiness.com/tag/media)
+SCARY SITUATION
 
-### [Expert sheds light on the ‘elephant in the room’ that Harris has been quiet about](https://www.foxbusiness.com/media/finance-expert-issues-warning-elephant-room-harris-has-been-quiet-about)
+[LOUISVILLE CARDINALS](https://www.foxnews.com/category/sports/ncaa/louisville-cardinals)
 
-      [![‘Modern Family’ star Julie Bowen gets real about dry eye diagnosis - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/health/modern-familys-julie-bowen-chronic-dry-eye-what-know-progressive-condition)HEALTH
+### [Louisville football player stretchered off field, hospitalized after injury](https://www.foxnews.com/sports/louisville-football-player-stretchered-off-hospitalized-after-suffering-injury-game)
+
+      [![Former college football star Brady Quinn rips Penn State over loss to Ohio State - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/ex-college-football-star-brady-quinn-rips-penn-state-atrocious-play-calling-latest-loss-ohio-state)SPORTS
+
+‘ATROCIOUS’
+
+[COLLEGE FOOTBALL](https://www.foxnews.com/category/sports/ncaa-fb)
+
+### [Former college football star Brady Quinn rips Penn State over loss to Ohio State](https://www.foxnews.com/sports/ex-college-football-star-brady-quinn-rips-penn-state-atrocious-play-calling-latest-loss-ohio-state)
+
+      [![Cowboys star reportedly not traveling with team due to ‘disciplinary reasons’ - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/cowboys-ezekiel-elliott-out-vs-falcons-due-disciplinary-reasons-report)SPORTS
+
+STAYING HOME
+
+[DALLAS COWBOYS](https://www.foxnews.com/category/sports/nfl/dallas-cowboys)
+
+### [Cowboys star reportedly not traveling with team due to ‘disciplinary reasons’](https://www.foxnews.com/sports/cowboys-ezekiel-elliott-out-vs-falcons-due-disciplinary-reasons-report)
+
+     [![Soda giant beats blue state in legal fight, judge slams gov for 'predatory' tactic - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/lifestyle/pepsico-beats-ny-ag-letitia-james-predatory-lawsuit-over-plastics-pollution)
+
+[PEPSICO](https://www.foxbusiness.com/tag/pepsico)
+
+### [Soda giant beats blue state in legal fight, judge slams gov for 'predatory' tactic](https://www.foxbusiness.com/lifestyle/pepsico-beats-ny-ag-letitia-james-predatory-lawsuit-over-plastics-pollution)
+
+     [![Botched art heist claims two Warhol portraits, damages two others - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/warhol-prints-stolen-amateurish-heist-2-more-damaged-getaway-dutch-gallery)
+
+[WORLD](https://www.foxnews.com/category/world)
+
+### [Botched art heist claims two Warhol portraits, damages two others](https://www.foxnews.com/world/warhol-prints-stolen-amateurish-heist-2-more-damaged-getaway-dutch-gallery)
+
+      [![Wedding-day backlash has bride questioning her ‘no children' rule - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/wedding-day-backlash-bride-questioning-no-children-rule-be-rude)LIFESTYLE
+
+'BE JUST AS RUDE'
+
+[LIFESTYLE](https://www.foxnews.com/category/lifestyle)
+
+### [Wedding-day backlash has bride questioning her ‘no children' rule](https://www.foxnews.com/lifestyle/wedding-day-backlash-bride-questioning-no-children-rule-be-rude)
+
+      [![Lost sheet music of renowned pianist and composer found 200 years after his death - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/travel/lost-chopin-sheet-music-found-200-years-death)TRAVEL
+
+'SIGNIFICANT DISCOVERY'
+
+[TRAVEL](https://www.foxnews.com/category/travel)
+
+### [Lost sheet music of renowned pianist and composer found 200 years after his death](https://www.foxnews.com/travel/lost-chopin-sheet-music-found-200-years-death)
+
+      [![‘Modern Family’ star Julie Bowen gets real about stressful condition - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/health/modern-familys-julie-bowen-chronic-dry-eye-what-know-progressive-condition)HEALTH
 
 HEALTH ALERT
 
 [HEALTH](https://www.foxnews.com/category/health)
 
-### [‘Modern Family’ star Julie Bowen gets real about dry eye diagnosis](https://www.foxnews.com/health/modern-familys-julie-bowen-chronic-dry-eye-what-know-progressive-condition)
-
-     [![What early voting data shows in key battleground as state sees record turnout - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/georgias-nearly-4-million-early-votes-bode-well-trump-top-state-republican-says)
-
-[BATTLEGROUND VOICES](https://www.foxnews.com/category/politics/elections/battleground-voters)
-
-### [What early voting data shows in key battleground as state sees record turnout](https://www.foxnews.com/politics/georgias-nearly-4-million-early-votes-bode-well-trump-top-state-republican-says)
+### [‘Modern Family’ star Julie Bowen gets real about stressful condition](https://www.foxnews.com/health/modern-familys-julie-bowen-chronic-dry-eye-what-know-progressive-condition)
 
      [![FOX News viewership crushes MSNBC, CNN in news-packed October - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/fox-news-viewership-crushes-msnbc-cnn-october)
 
@@ -655,9 +656,9 @@ TIP YOUR SAFETY CAP
 
 ### ['Googly eye' creates a spooky sight as seen by NASA's Perseverance rover over Mars](https://www.foxweather.com/earth-space/nasa-mars-rover-records-partial-eclipse-googly-eye)
 
-     [![Video shows Jason Kelce slamming man’s phone after being heckled on college campus - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/video-appears-show-jason-kelce-slamming-cell-phone-while-walking-crowd-penn-state)
+     [![Video shows Jason Kelce slamming man’s phone after being heckled - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/video-appears-show-jason-kelce-slamming-cell-phone-while-walking-crowd-penn-state)
 
-### [Video shows Jason Kelce slamming man’s phone after being heckled on college campus](https://www.outkick.com/sports/video-appears-show-jason-kelce-slamming-cell-phone-while-walking-crowd-penn-state)
+### [Video shows Jason Kelce slamming man’s phone after being heckled](https://www.outkick.com/sports/video-appears-show-jason-kelce-slamming-cell-phone-while-walking-crowd-penn-state)
 
      [![Parents trust AI for medical advice more than doctors, researchers find - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/category/tech/artificial-intelligence)
 
@@ -731,21 +732,21 @@ Airline passenger sparks DEBATE](https://www.foxnews.com/travel/airline-passenge
 [OutKick](https://www.outkick.com/)
 -----------------------------------
 
-     [![Boise State Forfeiting Second Match Against SJSU, Transgender Blaire Fleming - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/boise-state-forfeiting-sjsu-transgender-blaire-fleming-november)
+     [![Clemson Tigers Fans Try To Pull A Texas After Controversial Onside Kick Review - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/louisville-stuns-clemson-home-ending-tigers-playoff-hopes)
+
+### [Clemson Tigers Fans Try To Pull A Texas After Controversial Onside Kick Review](https://www.outkick.com/sports/louisville-stuns-clemson-home-ending-tigers-playoff-hopes)
+
+### [Colorado Benefits From Wild Day In Big 12; Deion Sanders And Buffs Have A Path To College Football Playoff](https://www.outkick.com/sports/colorado-deion-sanders-big-12-college-football-playoff)
+
+   [![BOULDER, COLORADO - OCTOBER 26: Head coach Deion Sanders of the Colorado Buffaloes walks the field prior to the game against the Cincinnati Bearcats at Folsom Field on October 26, 2024 in Boulder, Colorado. (Photo by Andrew Wevers/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/colorado-deion-sanders-big-12-college-football-playoff)
 
 ### [Boise State Forfeiting Second Match Against SJSU, Transgender Blaire Fleming](https://www.outkick.com/sports/boise-state-forfeiting-sjsu-transgender-blaire-fleming-november)
+
+   [![Boise State Forfeiting Second Match Against SJSU, Transgender Blaire Fleming - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/boise-state-forfeiting-sjsu-transgender-blaire-fleming-november)
 
 ### [Michigan’s Season Goes From Bad To Worse With Blowout Loss To Oregon](https://www.outkick.com/sports/michigans-season-goes-from-bad-worse-blowout-loss-oregon)
 
    [![ANN ARBOR, MICHIGAN - SEPTEMBER 28: Head coach Sherrone Moore of the Michigan Wolverines looks on while playing the Minnesota Golden Gophers at Michigan Stadium on September 28, 2024 in Ann Arbor, Michigan.  (Photo by Gregory Shamus/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/michigans-season-goes-from-bad-worse-blowout-loss-oregon)
-
-### [ULM Assistant Coach Rushes After Player In Wild Moment, Teammate Needed To Intervene On Sidelines](https://www.outkick.com/sports/ulm-assistant-coach-pushes-player-louisiana-monroe)
-
-   [![BOONE, NC - OCTOBER 19: A member of the University of Louisiana-Monroe football team holds his helmet during a game between the Louisiana-Monroe Warhawks and the Appalachian State Mountaineers on October 19, 2019, at Kidd Brewer Stadium in Boone, North Carolina.  (Photo by Mary Holt/Icon Sportswire via Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/ulm-assistant-coach-pushes-player-louisiana-monroe)
-
-### [Sloppy And Stumbling Home, Georgia Could Use A Good Detox After Another Shaky Performance](https://www.outkick.com/sports/sloppy-stumbling-home-georgia-could-use-good-detox-after-another-shaky-performance)
-
-   [![JACKSONVILLE, FLORIDA - NOVEMBER 02: CJ Allen #3 of the Georgia Bulldogs celebrates an interception during the 4th quarter of a game against the Florida Gators at EverBank Stadium on November 02, 2024 in Jacksonville, Florida. (Photo by James Gilbert/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/sloppy-stumbling-home-georgia-could-use-good-detox-after-another-shaky-performance)
 
 [Digital Originals](https://www.foxnews.com/category/us/digital-originals)
 --------------------------------------------------------------------------
@@ -807,9 +808,13 @@ Airline passenger sparks DEBATE](https://www.foxnews.com/travel/airline-passenge
 [Elections](https://www.foxnews.com/elections)
 ----------------------------------------------
 
-     [![AOC calls Green Party 'predatory' because VP nominee doesn't want 'biological males in female sports' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/aoc-calls-green-party-predatory-because-vp-nominee-doesnt-want-biological-males-female-sports)
+     [![Biden calls Republicans the 'guys you'd like to smack in the a--': 'Just feel the unity' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/biden-calls-republicans-guys-youd-like-smack-a-just-feel-unity)
+
+### [Biden calls Republicans the 'guys you'd like to smack in the a--': 'Just feel the unity'](https://www.foxnews.com/media/biden-calls-republicans-guys-youd-like-smack-a-just-feel-unity)
 
 ### [AOC calls Green Party 'predatory' because VP nominee doesn't want 'biological males in female sports'](https://www.foxnews.com/sports/aoc-calls-green-party-predatory-because-vp-nominee-doesnt-want-biological-males-female-sports)
+
+   [![Rep. Alexandria Ocasio-Cortez (D-N.Y.) slammed X owner Elon Musk on his platform after he claims &quot;shes not that smart.&quot; - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/aoc-calls-green-party-predatory-because-vp-nominee-doesnt-want-biological-males-female-sports)
 
 ### [Kamala Harris to appear on 'Saturday Night Live' tonight: Reports](https://www.foxnews.com/media/kamala-harris-appear-saturday-night-live-tonight)
 
@@ -818,10 +823,6 @@ Airline passenger sparks DEBATE](https://www.foxnews.com/travel/airline-passenge
 ### [John Leguizamo fails to sway Latino Trump voters on 'Daily Show' despite his 'inflammatory' rhetoric](https://www.foxnews.com/media/john-leguizamo-fails-sway-latino-trump-voters-despite-his-inflammatory-rhetoric)
 
    [![&quot;Trump-curious&quot; Latino voters expressed their support for the former President on &quot;The Daily Show.&quot; - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/john-leguizamo-fails-sway-latino-trump-voters-despite-his-inflammatory-rhetoric)
-
-### [Republicans score victory in Georgia fight over election observers, RNC chairman says](https://www.foxnews.com/politics/republicans-score-victory-georgia-fight-over-election-observers-rnc-chairman-says)
-
-   [![Rural counties won by former President Trump in 2020 have so far outpaced blue strongholds in percentage of population voting early - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/republicans-score-victory-georgia-fight-over-election-observers-rnc-chairman-says)
 
 [Personal Freedoms](https://www.foxnews.com/category/us/personal-freedoms)
 --------------------------------------------------------------------------
@@ -959,9 +960,13 @@ Airline passenger sparks DEBATE](https://www.foxnews.com/travel/airline-passenge
 [Entertainment](https://www.foxnews.com/entertainment)
 ------------------------------------------------------
 
-     [![Reese Witherspoon, Penélope Cruz, Linda Evangelista turn heads on star-studded red carpet: PHOTOS - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/reese-witherspoon-penelope-cruz-linda-evangelista-turn-heads-star-studded-red-carpet-photos)
+     [!['American Pickers' star Mike Wolfe says he held Frank Fritz's hand when late co-star 'took his last breath' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/american-pickers-star-mike-wolfe-holding-frank-fritzs-hand-when-late-co-star-took-his-last-breath)
+
+### ['American Pickers' star Mike Wolfe says he held Frank Fritz's hand when late co-star 'took his last breath'](https://www.foxnews.com/entertainment/american-pickers-star-mike-wolfe-holding-frank-fritzs-hand-when-late-co-star-took-his-last-breath)
 
 ### [Reese Witherspoon, Penélope Cruz, Linda Evangelista turn heads on star-studded red carpet: PHOTOS](https://www.foxnews.com/entertainment/reese-witherspoon-penelope-cruz-linda-evangelista-turn-heads-star-studded-red-carpet-photos)
+
+   [![Reese Witherspoon, Penelope Cruz, Linda Evangelista split - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/reese-witherspoon-penelope-cruz-linda-evangelista-turn-heads-star-studded-red-carpet-photos)
 
 ### [Fox News Entertainment Newsletter: Teri Garr dead at 79, Tom Brady reacts to ex Gisele Bündchen's pregnancy](https://www.foxnews.com/entertainment/fox-news-entertainment-newsletter-teri-garr-dead-79-tom-brady-reacts-ex-gisele-bundchens-pregnancy)
 
@@ -971,28 +976,24 @@ Airline passenger sparks DEBATE](https://www.foxnews.com/travel/airline-passenge
 
    [![CAMBERLEY, ENGLAND - APRIL 14: King Charles III inspects the 200th Sovereigns parade at Royal Military Academy Sandhurst on April 14, 2023 in Camberley, England. The parade marks the end of 44 weeks of training for 171 Officer Cadets. It is the first time King Charles III has inspected Sovereigns Parade at Sandhurst since becoming Monarch. /  LONDON, UNITED KINGDOM - JUNE 05: (EMBARGOED FOR PUBLICATION IN UK NEWSPAPERS UNTIL 24 HOURS AFTER CREATE DATE AND TIME) Prince Andrew, Duke of York and Prince Charles, Prince of Wales attend a Service of Thanksgiving to celebrate Queen Elizabeth IIs Diamond Jubilee at St Pauls Cathedral on June 5, 2012 in London, England. For only the second time in its history the UK celebrates the Diamond Jubilee of a monarch. Her Majesty Queen Elizabeth II celebrates the 60th anniversary of her ascension to the throne. Thousands of wellwishers from around the world have flocked to London to witness the spectacle of the weekends celebrations. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/king-charles-cuts-prince-andrews-1-million-allowance-private-security-book)
 
-### [Election 2024: Trump, Harris’ top Hollywood celebrity supporters](https://www.foxnews.com/entertainment/election-2024-trump-harris-top-hollywood-celebrity-supporters)
-
-   [![Taylor Swift, Drea de Matteo, Kelsey Grammer - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/election-2024-trump-harris-top-hollywood-celebrity-supporters)
-
 [Sports](https://www.foxnews.com/sports)
 ----------------------------------------
 
-     [![Vivek Ramaswamy fires up MAGA crowd at Penn State-Ohio State game over Trump's early voting numbers - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/vivek-ramaswamy-fires-up-maga-crowd-penn-state-vs-ohio-state-game-over-trumps-early-voting-numbers)
+     [![Louisville football player stretchered off, hospitalized after suffering injury in game - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/louisville-football-player-stretchered-off-hospitalized-after-suffering-injury-game)
+
+### [Louisville football player stretchered off, hospitalized after suffering injury in game](https://www.foxnews.com/sports/louisville-football-player-stretchered-off-hospitalized-after-suffering-injury-game)
+
+### [2024 Heisman Watch: Cam Ward tops leaderboard, Shedeur Sanders enters the mix](https://www.foxnews.com/sports/2024-heisman-watch)
+
+   [![2024 Heisman Watch: Cam Ward tops leaderboard, Shedeur Sanders enters the mix - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/2024-heisman-watch)
+
+### [Michigan's trick play fails miserably; backup quarterback gets leveled by television camera](https://www.foxnews.com/sports/michigan-trick-play-fails-miserably-backup-quarterback-gets-levels-television-camera)
+
+   [![Michigan quarterback Alex Orji (10) runs out of bound trying to make a catch against Oregon during the second half at Michigan Stadium in Ann Arbor on Saturday, Nov. 2, 2024. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/michigan-trick-play-fails-miserably-backup-quarterback-gets-levels-television-camera)
 
 ### [Vivek Ramaswamy fires up MAGA crowd at Penn State-Ohio State game over Trump's early voting numbers](https://www.foxnews.com/sports/vivek-ramaswamy-fires-up-maga-crowd-penn-state-vs-ohio-state-game-over-trumps-early-voting-numbers)
 
-### [Ex-college football star Brady Quinn rips Penn State for 'atrocious' play-calling in latest loss to Ohio State](https://www.foxnews.com/sports/ex-college-football-star-brady-quinn-rips-penn-state-atrocious-play-calling-latest-loss-ohio-state)
-
-   [![FOX sports commentator Brady Quinn looks on in the game between the  Nebraska Cornhuskers and the Indiana Hoosiers at Memorial Stadium on October 19, 2024 in Bloomington, Indiana. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/ex-college-football-star-brady-quinn-rips-penn-state-atrocious-play-calling-latest-loss-ohio-state)
-
-### [Horse dies after racing at Breeders' Cup; PETA delivers scathing statement](https://www.foxnews.com/sports/horse-dies-after-racing-breeders-cup-peta-delivers-scathing-statement)
-
-   [![Jayarebe ridden by Sean Levey on their way to winning the Hampton Court Stakes on day three of Royal Ascot at Ascot Racecourse, Berkshire. Picture date: Thursday June 20, 2024. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/horse-dies-after-racing-breeders-cup-peta-delivers-scathing-statement)
-
-### [Cowboys' Ezekiel Elliott out vs. Falcons for disciplinary reasons: report](https://www.foxnews.com/sports/cowboys-ezekiel-elliott-out-vs-falcons-due-disciplinary-reasons-report)
-
-   [![Ezekiel Elliott #21 of the Dallas Cowboys warms up prior to a game against the Philadelphia Eagles at AT&amp;T Stadium on December 24, 2022 in Arlington, Texas. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/cowboys-ezekiel-elliott-out-vs-falcons-due-disciplinary-reasons-report)
+   [![Vivek Ramaswamy speaks during the Conservative Political Action Conference, CPAC 2024, at National Harbor, in Oxon Hill, Md., Saturday, Feb. 24, 2024. Ramaswamy had purchased a 7.7% stake in Buzzfeed, the Pulitzer Prize winning digital media outlet that went into restructuring last year. Shares skyrocketed more than 50% before the market open on Wednesday, May 22. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/vivek-ramaswamy-fires-up-maga-crowd-penn-state-vs-ohio-state-game-over-trumps-early-voting-numbers)
 
 [U.S.](https://www.foxnews.com/us)
 ----------------------------------
@@ -1263,21 +1264,21 @@ Airline passenger sparks DEBATE](https://www.foxnews.com/travel/airline-passenge
 [Media](https://www.foxnews.com/media)
 --------------------------------------
 
-     [![Kamala Harris to appear on 'Saturday Night Live' tonight: Reports - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/kamala-harris-appear-saturday-night-live-tonight)
+     [![Kamala Harris appears on 'SNL' in final episode before election - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/kamala-harris-appears-snl-final-episode-before-election)
+
+### [Kamala Harris appears on 'SNL' in final episode before election](https://www.foxnews.com/media/kamala-harris-appears-snl-final-episode-before-election)
+
+### [Biden calls Republicans the 'guys you'd like to smack in the a--': 'Just feel the unity'](https://www.foxnews.com/media/biden-calls-republicans-guys-youd-like-smack-a-just-feel-unity)
+
+   [![U.S. President Joe Biden talks briefly with reporters as he departs the White House on October 24, 2024 in Washington, DC. With less than two weeks until Election Day, Biden told reporters that he is going to the battleground state of Arizona to formally apologize to Native Americans for the country&rsquo;s role in the Indian boarding school system.  (Photo by Chip Somodevilla/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/biden-calls-republicans-guys-youd-like-smack-a-just-feel-unity)
 
 ### [Kamala Harris to appear on 'Saturday Night Live' tonight: Reports](https://www.foxnews.com/media/kamala-harris-appear-saturday-night-live-tonight)
+
+   [![Kamala Harris has been portrayed by Maya Rudolph, right, on &quot;Saturday Night Live.&quot; - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/kamala-harris-appear-saturday-night-live-tonight)
 
 ### [John Leguizamo fails to sway Latino Trump voters on 'Daily Show' despite his 'inflammatory' rhetoric](https://www.foxnews.com/media/john-leguizamo-fails-sway-latino-trump-voters-despite-his-inflammatory-rhetoric)
 
    [![&quot;Trump-curious&quot; Latino voters expressed their support for the former President on &quot;The Daily Show.&quot; - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/john-leguizamo-fails-sway-latino-trump-voters-despite-his-inflammatory-rhetoric)
-
-### [Hulk Hogan teases possible Trump admin role while donning orange sanitation worker vest on Halloween](https://www.foxnews.com/media/hulk-hogan-teases-possible-trump-admin-role-while-donning-orange-sanitation-worker-vest-halloween)
-
-   [![Hulk Hogan teases possible Trump admin role while donning orange sanitation worker vest on Halloween - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/hulk-hogan-teases-possible-trump-admin-role-while-donning-orange-sanitation-worker-vest-halloween)
-
-### [Former Obama fundraiser makes big prediction about 2024 race and Donald Trump: ‘I see him winning’](https://www.foxnews.com/media/former-obama-fundraiser-makes-big-prediction-about-2024-race-donald-trump-i-see-him-winning)
-
-   [![Former Obama Fundraiser Don Peebles ripped Vice President Kamala Harris, saying she doesnt have the charisma of real &quot;change&quot; candidates like former President Barack Obama. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/former-obama-fundraiser-makes-big-prediction-about-2024-race-donald-trump-i-see-him-winning)
 
 [Antisemitism Exposed](https://www.foxnews.com/category/topic/anti-semitism)
 ----------------------------------------------------------------------------
