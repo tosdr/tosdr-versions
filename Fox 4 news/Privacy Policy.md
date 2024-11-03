@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![National Sandwich Day 2024 deals and freebies](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/mcalisters.jpeg?ve=1&tl=1)
+ [![Texas refuses federal election monitors on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-1784075134.jpg?ve=1&tl=1)
 
- ![National Sandwich Day 2024 deals and freebies](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/mcalisters.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sandwich-day-deals-free-promos-today-november-3-2024)
+ ![Texas refuses federal election monitors on Election Day](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-1784075134.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/texas-federal-election-monitors-election-day-reject)
 
-### [National Sandwich Day is Sunday. Here are some deals and freebies](https://www.fox4news.com/news/sandwich-day-deals-free-promos-today-november-3-2024)
+### [Texas refuses federal election monitors on Election Day](https://www.fox4news.com/election/texas-federal-election-monitors-election-day-reject)
 
- [![Forney man allegedly provided alcohol to minors before sexual assault](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/steven-wright.jpg?ve=1&tl=1)
+ [![Gateway Church removes elders after investigation into Robert Morris sexual abuse accusations](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/robert-morris.jpg?ve=1&tl=1)
 
- ![Forney man allegedly provided alcohol to minors before sexual assault](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/steven-wright.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/forney-man-allegedly-provided-alcohol-minors-before-sexual-assault)
+ ![Gateway Church removes elders after investigation into Robert Morris sexual abuse accusations](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/robert-morris.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/gateway-church-elders-robert-morris-sexual-abuse-accusations)
 
-### [Forney man allegedly provided alcohol to minors before sexual assault](https://www.fox4news.com/news/forney-man-allegedly-provided-alcohol-minors-before-sexual-assault)
+### [Gateway Church removes elders after investigation into Robert Morris sexual abuse accusations](https://www.fox4news.com/news/gateway-church-elders-robert-morris-sexual-abuse-accusations)
 
- [![Peanut the squirrel seized, euthanized in NY state raid; Elon Musk reacts](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/11/32/18/gray-dancer-photo-collage-1280-x-720-px-28.png?ve=1&tl=1)
+ [![Kamala Harris appearing on SNL tonight, AP sources say](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2162425995-scaled.jpg?ve=1&tl=1)
 
- ![Peanut the squirrel seized, euthanized in NY state raid; Elon Musk reacts](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/11/32/18/592/333/gray-dancer-photo-collage-1280-x-720-px-28.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/peanut-squirrel-seized-euthanized-ny-state-raid)
+ ![Kamala Harris appearing on SNL tonight, AP sources say](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2162425995-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kamala-harris-snl-appearance-tonight)
 
-### [Peanut the squirrel seized, euthanized in NY state raid; Elon Musk reacts](https://www.fox4news.com/news/peanut-squirrel-seized-euthanized-ny-state-raid)
+### [Kamala Harris appearing on SNL tonight, AP sources say](https://www.fox4news.com/news/kamala-harris-snl-appearance-tonight)
 
- [![Moms open Fort Worth storefront that offers free clothing](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/110124-kst-fort-worth-community-closet_kdfwfd94_18_00.07.45.56.jpg?ve=1&tl=1)
+ [![Jason Kelce smashes Penn State fan's phone for using homophobic slur to attack Travis Kelce, Taylor Swift](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/fnc-getty-jason-kelce.jpg?ve=1&tl=1)
 
- ![Moms open Fort Worth storefront that offers free clothing](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/110124-kst-fort-worth-community-closet_kdfwfd94_18_00.07.45.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-community-collaborative-closet)
+ ![Jason Kelce smashes Penn State fan's phone for using homophobic slur to attack Travis Kelce, Taylor Swift](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/fnc-getty-jason-kelce.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jason-kelce-phone-slams-video-penn-state-taylor-swift)
 
-### [Moms open Fort Worth storefront that offers free clothing](https://www.fox4news.com/news/fort-worth-community-collaborative-closet)
+### [Jason Kelce smashes Penn State fan's phone for using homophobic slur to attack Travis Kelce, Taylor Swift](https://www.fox4news.com/news/jason-kelce-phone-slams-video-penn-state-taylor-swift)
 
- [![Dallas-based TGI Fridays files for Chapter 11 bankruptcy](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/32/18/GettyImages-849533224.jpg?ve=1&tl=1)
+ [![Man charged with murder in Northwest Dallas shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Dallas-Police-generic-Dallas-PD-DPD-logo.png?ve=1&tl=1)
 
- ![Dallas-based TGI Fridays files for Chapter 11 bankruptcy](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/32/18/592/333/GettyImages-849533224.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-based-tgi-fridays-files-chapter-11-bankruptcy)
+ ![Man charged with murder in Northwest Dallas shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Dallas-Police-generic-Dallas-PD-DPD-logo.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-charged-murder-northwest-dallas-shooting)
 
-### [Dallas-based TGI Fridays files for Chapter 11 bankruptcy](https://www.fox4news.com/news/dallas-based-tgi-fridays-files-chapter-11-bankruptcy)
+### [Man charged with murder in Northwest Dallas shooting](https://www.fox4news.com/news/man-charged-murder-northwest-dallas-shooting)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
