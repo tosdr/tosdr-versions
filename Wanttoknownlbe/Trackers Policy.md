@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/twitter-onthuld-censuur-op-grote-schaal/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/karskens-presenteert-zwartboek-partijdig-nos-journaal/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
