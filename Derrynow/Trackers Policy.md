@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-02 Nov 2024
+03 Nov 2024
 
 * [Home
     
@@ -275,12 +275,12 @@ The Maori All Blacks perform 'The Haka' before the match between Munster and the
 [When and where to watch Munster vs All Blacks XV | TV, stream, time, tickets and teams](https://www.derrynow.com/news/national-news/1645875/when-and-where-to-watch-munster-vs-all-blacks-xv-tv-stream-time-tickets-and-teams.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: NWRC Higher Education and Access graduation ceremony in Derry's Millennium Forum](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: NWRC Higher Education and Access graduation ceremony in Derry's Millennium Forum")](https://www.derrynow.com/story-telling/pictures---videos/1645624/in-pictures-nwrc-higher-education-and-access-graduation-ceremony-in-derry-s-millennium-forum.html)
+[![Investigation launched following serious sexually motivated attack on woman in Drumahoe](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Investigation launched following serious sexually motivated attack on woman in Drumahoe")](https://www.derrynow.com/news/local-news/1645846/investigation-launched-following-serious-sexually-motivated-attack-on-woman-in-drumahoe.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[IN PICTURES: NWRC Higher Education and Access graduation ceremony in Derry's Millennium Forum](https://www.derrynow.com/story-telling/pictures---videos/1645624/in-pictures-nwrc-higher-education-and-access-graduation-ceremony-in-derry-s-millennium-forum.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Investigation launched following serious sexually motivated attack on woman in Drumahoe](https://www.derrynow.com/news/local-news/1645846/investigation-launched-following-serious-sexually-motivated-attack-on-woman-in-drumahoe.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Derry thronged for finale of Europe’s biggest Halloween celebration](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry thronged for finale of Europe’s biggest Halloween celebration")](https://www.derrynow.com/story-telling/pictures---videos/1645682/in-pictures-derry-gets-in-the-spooky-spirit-with-finale-halloween-parade.html)
 
@@ -289,19 +289,12 @@ The Maori All Blacks perform 'The Haka' before the match between Munster and the
 [IN PICTURES: Derry gets in the spooky spirit with finale Halloween parade](https://www.derrynow.com/story-telling/pictures---videos/1645682/in-pictures-derry-gets-in-the-spooky-spirit-with-finale-halloween-parade.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Investigation launched following serious sexually motivated attack on woman in Drumahoe](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Investigation launched following serious sexually motivated attack on woman in Drumahoe")](https://www.derrynow.com/news/local-news/1645846/investigation-launched-following-serious-sexually-motivated-attack-on-woman-in-drumahoe.html)
+[![Funeral details announced as family pays tribute to former broadcaster David Davin-Power](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Funeral details announced as family pays tribute to former broadcaster David Davin-Power")](https://www.derrynow.com/news/national-news/1645844/funeral-details-announced-as-family-pays-tribute-to-former-broadcaster-david-davin-power.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Investigation launched following serious sexually motivated attack on woman in Drumahoe](https://www.derrynow.com/news/local-news/1645846/investigation-launched-following-serious-sexually-motivated-attack-on-woman-in-drumahoe.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police deal with disorder following Derry City's clash with Shelbourne](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police deal with disorder following Derry City's clash with Shelbourne")](https://www.derrynow.com/news/local-news/1645694/police-deal-with-disorder-following-derry-city-s-clash-with-shelbourne.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police deal with disorder following Derry City's clash with Shelbourne](https://www.derrynow.com/news/local-news/1645694/police-deal-with-disorder-following-derry-city-s-clash-with-shelbourne.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Funeral details announced as family pays tribute to former broadcaster David Davin-Power](https://www.derrynow.com/news/national-news/1645844/funeral-details-announced-as-family-pays-tribute-to-former-broadcaster-david-davin-power.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1645556/derry-death-notices-saturday-november-2-2024.html)
 
@@ -310,12 +303,14 @@ The Maori All Blacks perform 'The Haka' before the match between Munster and the
 [Derry Death Notices - Saturday, November 2, 2024](https://www.derrynow.com/news/deaths/1645556/derry-death-notices-saturday-november-2-2024.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Quantity of suspected Class A drugs seized in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Quantity of suspected Class A drugs seized in Derry")](https://www.derrynow.com/news/local-news/1645784/quantity-of-suspected-class-a-drugs-seized-in-derry.html)
+[!['Awful news' - Popular Dublin Airport restaurant announces closure until next year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Awful news' - Popular Dublin Airport restaurant announces closure until next year")](https://www.derrynow.com/news/national-news/1645827/awful-news-popular-dublin-airport-restaurant-announces-closure-until-next-year.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+File photo. Credit: Rudy and Peter Skitterians/Pixabay
 
-[Quantity of suspected Class A drugs seized in Derry](https://www.derrynow.com/news/local-news/1645784/quantity-of-suspected-class-a-drugs-seized-in-derry.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+['Awful news' - Popular Dublin Airport restaurant announces closure until next year](https://www.derrynow.com/news/national-news/1645827/awful-news-popular-dublin-airport-restaurant-announces-closure-until-next-year.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man arrested as kilos of cocaine discovered hidden in passenger's luggage at Dublin Airport](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested as kilos of cocaine discovered hidden in passenger's luggage at Dublin Airport")](https://www.derrynow.com/news/national-news/1645831/man-arrested-as-kilos-of-cocaine-discovered-hidden-in-passenger-s-luggage-at-dublin-airport.html)
 
@@ -324,12 +319,19 @@ The Maori All Blacks perform 'The Haka' before the match between Munster and the
 [Man arrested as kilos of cocaine discovered hidden in passenger's luggage at Dublin Airport](https://www.derrynow.com/news/national-news/1645831/man-arrested-as-kilos-of-cocaine-discovered-hidden-in-passenger-s-luggage-at-dublin-airport.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Worker settles Tesco claims of sexual harassment and victimisation for £45,000](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Worker settles Tesco claims of sexual harassment and victimisation for £45,000")](https://www.derrynow.com/news/northern-ireland/1642729/worker-settles-claims-of-sexual-harassment-and-victimisation-for-45-000.html)
+[![Quantity of suspected Class A drugs seized in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Quantity of suspected Class A drugs seized in Derry")](https://www.derrynow.com/news/local-news/1645784/quantity-of-suspected-class-a-drugs-seized-in-derry.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Worker settles claims of sexual harassment and victimisation for £45,000](https://www.derrynow.com/news/northern-ireland/1642729/worker-settles-claims-of-sexual-harassment-and-victimisation-for-45-000.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Quantity of suspected Class A drugs seized in Derry](https://www.derrynow.com/news/local-news/1645784/quantity-of-suspected-class-a-drugs-seized-in-derry.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![RTE Late Late Show viewers hail guest a 'national treasure' as Kielty ticks off bucket list](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "RTE Late Late Show viewers hail guest a 'national treasure' as Kielty ticks off bucket list")](https://www.derrynow.com/news/national-news/1645763/rte-late-late-show-viewers-hail-guest-a-national-treasure-as-kielty-ticks-off-bucket-list.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[RTE Late Late Show viewers hail guest a 'national treasure' as Kielty ticks off bucket list](https://www.derrynow.com/news/national-news/1645763/rte-late-late-show-viewers-hail-guest-a-national-treasure-as-kielty-ticks-off-bucket-list.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -507,14 +509,41 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![‘DYCW is a key community service from the heart of the city!’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "‘DYCW is a key community service from the heart of the city!’")](https://www.derrynow.com/news/local-news/1645623/dycw-is-a-key-community-service-from-the-heart-of-the-city.html)
+[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1646191/institute-left-frustrated-against-10-man-annagh-at-the-brandywell.html)
+
+Benny McLaughlin in action for Institiute today. Pic by Tom Heaney, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Institute left frustrated against 10-man Annagh at the Brandywell](https://www.derrynow.com/news/derry-sport/1646191/institute-left-frustrated-against-10-man-annagh-at-the-brandywell.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Health Minister whistle-stop visit to Women’s Aid Centre in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Health Minister whistle-stop visit to Women’s Aid Centre in Derry")](https://www.derrynow.com/news/local-news/1645618/health-minister-whistle-stop-visit-to-womens-aid-centre-in-derry.html)
+
+NI Health Minister Mike Nesbitt is welcomed to the Women's Aid Centre by CEO Marie Brown. Included are Alderman Darren Guy and Alderman Janice Montgomery. (Photo: Jim McCafferty Photography)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Health Minister whistle-stop visit to Women’s Aid Centre in Derry](https://www.derrynow.com/news/local-news/1645618/health-minister-whistle-stop-visit-to-womens-aid-centre-in-derry.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![MacD on Music: Getner Done](https://www.derrynow.com/resizer/165/93/true/2024_11_01/GETNER_Derry_Square-1730453293359_1730453330.jpg--.jpg?1730453330846 "MacD on Music: Getner Done")](https://www.derrynow.com/news/arts---entertainment/1644750/macd-on-music-getner-done.html)
+
+Getner
+
+[Arts & Entertainment](https://www.derrynow.com/section/2211/arts-entertainment)
+
+[MacD on Music: Getner Done](https://www.derrynow.com/news/arts---entertainment/1644750/macd-on-music-getner-done.html)
+-----------------------------------------------------------------------------------------------------------------------
+
+[![‘DYCW is a key community service from the heart of the city!’](https://www.derrynow.com/resizer/165/93/true/2024_11_01/29-10-24_DYCW_lotto_visit_01-1730494543916.jpg--.jpg?1730494544932 "‘DYCW is a key community service from the heart of the city!’")](https://www.derrynow.com/news/local-news/1645623/dycw-is-a-key-community-service-from-the-heart-of-the-city.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [‘DYCW is a key community service from the heart of the city!’](https://www.derrynow.com/news/local-news/1645623/dycw-is-a-key-community-service-from-the-heart-of-the-city.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Investigation launched following serious sexually motivated attack on woman in Drumahoe](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Investigation launched following serious sexually motivated attack on woman in Drumahoe")](https://www.derrynow.com/news/local-news/1645846/investigation-launched-following-serious-sexually-motivated-attack-on-woman-in-drumahoe.html)
+[![Investigation launched following serious sexually motivated attack on woman in Drumahoe](https://www.derrynow.com/resizer/165/93/true/2024_11_02/1632648154255.jpg--police_deploy_stinger_during_county_derry_car_chase-1730556894464.jpg--.jpg?1730556894483 "Investigation launched following serious sexually motivated attack on woman in Drumahoe")](https://www.derrynow.com/news/local-news/1645846/investigation-launched-following-serious-sexually-motivated-attack-on-woman-in-drumahoe.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -527,27 +556,6 @@ Advertise with Us
 
 [Derry group launches campaign to address need for mandatory training and better pay for carers](https://www.derrynow.com/news/local-news/1642054/derry-group-launches-campaign-to-addressneed-for-mandatory-training-and-better-pay-for-carers.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Quantity of suspected Class A drugs seized in Derry](https://www.derrynow.com/resizer/165/93/true/2024_11_02/2021-11-30_00_49_53_1638224617370-jpeg.jpeg-1730544329556.jpg--.jpg?1730544329607 "Quantity of suspected Class A drugs seized in Derry")](https://www.derrynow.com/news/local-news/1645784/quantity-of-suspected-class-a-drugs-seized-in-derry.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Quantity of suspected Class A drugs seized in Derry](https://www.derrynow.com/news/local-news/1645784/quantity-of-suspected-class-a-drugs-seized-in-derry.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices -Saturday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%285%29-1695307343689.jpg--.jpg?1695307343746 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1645556/derry-death-notices-saturday-november-2-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, November 2, 2024](https://www.derrynow.com/news/deaths/1645556/derry-death-notices-saturday-november-2-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police deal with disorder following Derry City's clash with Shelbourne](https://www.derrynow.com/resizer/165/93/true/2024_11_02/1632648154255.jpg--police_deploy_stinger_during_county_derry_car_chase-1730507966120.jpg--.jpg?1730507966128 "Police deal with disorder following Derry City's clash with Shelbourne")](https://www.derrynow.com/news/local-news/1645694/police-deal-with-disorder-following-derry-city-s-clash-with-shelbourne.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police deal with disorder following Derry City's clash with Shelbourne](https://www.derrynow.com/news/local-news/1645694/police-deal-with-disorder-following-derry-city-s-clash-with-shelbourne.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
