@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Circus](https://www.myabandonware.com/game/circus-4g1)
 * [Cyberball](https://www.myabandonware.com/game/cyberball-6de)
 * [Cyberball 2072](https://www.myabandonware.com/game/cyberball-2072-jyr)
 * [The Incredible Hulk](https://www.myabandonware.com/game/the-incredible-hulk-td5)
 * [Cyber Troopers Virtual On](https://www.myabandonware.com/game/cyber-troopers-virtual-on-baq)
-* [Computer Intro!](https://www.myabandonware.com/game/computer-intro-t5p)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
