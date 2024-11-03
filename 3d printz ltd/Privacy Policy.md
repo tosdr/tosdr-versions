@@ -10,7 +10,7 @@
 
 Quick Links
 
-* [PLA 1.75mm Filament](https://3dprintz.co.uk/collections/pla)
+* [PLA 1.75mm Filament](https://3dprintz.co.uk/collections/pla-1-75mm-3d-printing-filament)
 * [ABS 1.75mm Filament](https://3dprintz.co.uk/collections/abs-1-75mm)
 * [PETG 1.75mm Filament](https://3dprintz.co.uk/collections/petg)
 * [TPU Flex 1.75mm Filament](https://3dprintz.co.uk/collections/tpu-flex-filament)
@@ -32,7 +32,7 @@ Quick Links
     * [Skirr PTFE Tubing](https://3dprintz.co.uk/products/skirr-ptfe-bowden-tubing)
 * [Shop by Filament](#)
     * [PLA Filament](#)
-        * [PLA 1.75mm](https://3dprintz.co.uk/collections/pla/PLA-Filament)
+        * [PLA 1.75mm](https://3dprintz.co.uk/collections/pla-1-75mm-3d-printing-filament/PLA-Filament)
         * [PLA 2.85mm](https://3dprintz.co.uk/collections/pla-2-85mm)
         * [EASY-PLA Filament](https://3dprintz.co.uk/collections/fiberlogy-filament)
         * [PLA - Magic Silk Tri Colour](https://3dprintz.co.uk/collections/magic-silk-tri-colour-silk-filament)
@@ -93,7 +93,7 @@ Quick Links
     * [Skirr PTFE Tubing](https://3dprintz.co.uk/products/skirr-ptfe-bowden-tubing)
 * [Shop by Filament](#)
     * [PLA Filament](#)
-        * [PLA 1.75mm](https://3dprintz.co.uk/collections/pla/PLA-Filament)
+        * [PLA 1.75mm](https://3dprintz.co.uk/collections/pla-1-75mm-3d-printing-filament/PLA-Filament)
         * [PLA 2.85mm](https://3dprintz.co.uk/collections/pla-2-85mm)
         * [EASY-PLA Filament](https://3dprintz.co.uk/collections/fiberlogy-filament)
         * [PLA - Magic Silk Tri Colour](https://3dprintz.co.uk/collections/magic-silk-tri-colour-silk-filament)
