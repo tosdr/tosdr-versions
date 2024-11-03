@@ -50,7 +50,19 @@ Idosa é achada morta com sinais de envenenamento no Flexal; filha está interna
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Alagoas tem sete trechos de praias impróprios para banho; veja quais](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/8/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_c379360075.jpeg)
+   [![Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/9/csm_pm-combate-crimes-de-trafico-e-de-receptacao-em-sao-jose-da-tapera-e-maceio_36d7839bbc.jpg)
+
+Alagoas
+
+Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió](https://www.tnh1.com.br/noticia/nid/policia-combate-crimes-de-trafico-e-de-receptacao-em-sao-jose-da-tapera-e-maceio/ "Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió")   [![Jovem morre após se afogar na praia de Lagoa do Pau, em Coruripe](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/2/csm_corpo-de-bombeiros-salva-quatro-turistas-argentinos-de-afogamento-na-praia-do-frances_-_foto_Corpo_de_Bombeiros_a78260941c.jpg)
+
+Alagoas
+
+Jovem morre após se afogar na praia de Lagoa do Pau, em Coruripe](https://www.tnh1.com.br/noticia/nid/jovem-morre-apos-se-afogar-na-praia-de-lagoa-do-pau-em-coruripe/ "Jovem morre após se afogar na praia de Lagoa do Pau, em Coruripe")   [![Confira os ganhadores da edição deste domingo, 3, do Alagoas dá Sorte](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
+
+Alagoas
+
+Confira os ganhadores da edição deste domingo, 3, do Alagoas dá Sorte](https://www.tnh1.com.br/noticia/nid/confira-os-ganhadores-da-edicao-deste-domingo-3-do-alagoas-da-sorte/ "Confira os ganhadores da edição deste domingo, 3, do Alagoas dá Sorte")   [![Alagoas tem sete trechos de praias impróprios para banho; veja quais](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/8/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_c379360075.jpeg)
 
 balneabilidade
 
@@ -62,19 +74,7 @@ Veja como deve ficar o tempo em Alagoas para o fim de semana de Finados](https:/
 
 Alagoas
 
-Mais de 500 policiais farão segurança durante provas do Enem em Alagoas](https://www.tnh1.com.br/noticia/nid/mais-de-500-policiais-farao-seguranca-durante-provas-do-enem-em-alagoas/ "Mais de 500 policiais farão segurança durante provas do Enem em Alagoas")   [![Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/7/csm_paulo-dantas-envia-projeto-de-lei-a-assembleia-que-indeniza-viuva-do-auditor-fiscal-joao-de-assis_087606c821.jpg)
-
-governador
-
-Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis](https://www.tnh1.com.br/noticia/nid/paulo-dantas-envia-projeto-de-lei-a-assembleia-que-indeniza-viuva-do-auditor-fiscal-joao-de-assis/ "Paulo Dantas envia projeto de lei à Assembleia que indeniza viúva do auditor fiscal João de Assis")   [![Primeira-dama de Maceió prestigia a cultura popular alagoana durante visita à Ilha do Ferro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/a/csm_marina_ilha_ferro_fdfa1a953b.jpeg)
-
-em Pão de Açúcar
-
-Primeira-dama de Maceió prestigia a cultura popular alagoana durante visita à Ilha do Ferro](https://www.tnh1.com.br/noticia/nid/primeira-dama-de-maceio-prestigia-a-cultura-popular-alagoana-durante-visita-a-ilha-do-ferro/ "Primeira-dama de Maceió prestigia a cultura popular alagoana durante visita à Ilha do Ferro")   [![BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/3/csm_BKR_cafe__1__d8f6b6c1ba.jpeg)
-
-Alagoas
-
-BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região](https://www.tnh1.com.br/noticia/nid/brk-reune-jornalistas-para-apresentar-dados-sobre-saneamento-em-maceio-e-regiao/ "BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e região ")
+Mais de 500 policiais farão segurança durante provas do Enem em Alagoas](https://www.tnh1.com.br/noticia/nid/mais-de-500-policiais-farao-seguranca-durante-provas-do-enem-em-alagoas/ "Mais de 500 policiais farão segurança durante provas do Enem em Alagoas")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,7 +82,19 @@ BRK reúne jornalistas para apresentar dados sobre saneamento em Maceió e regi�
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![PM apreende 26 armas de fogo e mais de 41kg de drogas em uma semana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/0/csm_pm-apreende-26-armas-de-fogo-e-mais-de-41kg-de-drogas-em-uma-semana_3158660567.jpg)
+   [![Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/e/csm_Suspeito_Esturpo_Espancamento_38f6868c03.jpg)
+
+Polícia
+
+Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho](https://www.tnh1.com.br/noticia/nid/suspeito-de-estuprar-crianca-de-10-anos-e-espancado-por-populares-no-jacintinho/ "Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho")   [![Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/9/csm_pm-combate-crimes-de-trafico-e-de-receptacao-em-sao-jose-da-tapera-e-maceio_36d7839bbc.jpg)
+
+Alagoas
+
+Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió](https://www.tnh1.com.br/noticia/nid/policia-combate-crimes-de-trafico-e-de-receptacao-em-sao-jose-da-tapera-e-maceio/ "Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió")   [![Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/6/csm_Duplo_Homicidio_Murici_25b9c2b96f.jpg)
+
+Polícia
+
+Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici](https://www.tnh1.com.br/noticia/nid/apos-discussao-por-som-alto-tio-e-sobrinho-de-17-anos-sao-assassinados-a-tiros-em-murici/ "Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici")   [![PM apreende 26 armas de fogo e mais de 41kg de drogas em uma semana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/0/csm_pm-apreende-26-armas-de-fogo-e-mais-de-41kg-de-drogas-em-uma-semana_3158660567.jpg)
 
 Polícia
 
@@ -94,23 +106,21 @@ Casa de shows em Maceió é alvo de operação da polícia e donos são levados 
 
 Polícia
 
-Sem dinheiro, homem é vítima de tiros em tentativa de assalto em bar no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/sem-dinheiro-homem-e-vitima-de-tiros-em-tentativa-de-assalto-em-bar-no-interior-de-alagoas/ "Sem dinheiro, homem é vítima de tiros em tentativa de assalto em bar no interior de Alagoas")   [![Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/6/csm_policial-penal-sergipe-morte-alagoas-arquivo-pessoal_807100c4a0.jpg)
-
-30 anos
-
-Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policial-penal-de-sergipe-e-morto-a-tiros-apos-sofrer-atentado-no-interior-de-alagoas/ "Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas")   [![Homem é socorrido em estado grave após ser baleado na cabeça em União dos Palmares](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/4/csm_disparo-arma-fogo-reproducao_c16d2689dd.jpg)
-
-No interior
-
-Homem é socorrido em estado grave após ser baleado na cabeça em União dos Palmares](https://www.tnh1.com.br/noticia/nid/homem-e-socorrido-em-estado-grave-apos-ser-baleado-na-cabeca-em-uniao-dos-palmares/ "Homem é socorrido em estado grave após ser baleado na cabeça em União dos Palmares")   [![Em dois dias, Polícia Militar apreende armas e drogas na capital e interior](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/1/csm_em-dois-dias-policia-militar-apreende-armas-e-drogas-na-capital-e-interior_496463dc4c.jpg)
-
-Polícia
-
-Em dois dias, Polícia Militar apreende armas e drogas na capital e interior](https://www.tnh1.com.br/noticia/nid/em-dois-dias-policia-militar-apreende-armas-e-drogas-na-capital-e-interior/ "Em dois dias, Polícia Militar apreende armas e drogas na capital e interior")
+Sem dinheiro, homem é vítima de tiros em tentativa de assalto em bar no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/sem-dinheiro-homem-e-vitima-de-tiros-em-tentativa-de-assalto-em-bar-no-interior-de-alagoas/ "Sem dinheiro, homem é vítima de tiros em tentativa de assalto em bar no interior de Alagoas")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
 [Literatura](https://www.tnh1.com.br/index.php?id=789 "Literatura")
+
+Últimas de Literatura
+
+[Leia tudo sobre Literatura](https://www.tnh1.com.br/index.php?id=789 "Ir para Literatura")
+
+   [![Bombeiros resgatam cinco pessoas que ficaram isoladas em ilha de Barra Nova](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/1/csm_bombeiros_ascom_cbm_a8d8cd4682.jpg)
+
+Artigos
+
+Bombeiros resgatam cinco pessoas que ficaram isoladas em ilha de Barra Nova](https://www.tnh1.com.br/noticia/nid/bombeiros-resgatam-cinco-pessoas-que-ficaram-isoladas-em-ilha-de-barra-nova/ "Bombeiros resgatam cinco pessoas que ficaram isoladas em ilha de Barra Nova")
 
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
@@ -120,7 +130,7 @@ Em dois dias, Polícia Militar apreende armas e drogas na capital e interior](ht
 
 [Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
 
-   [![Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/b/csm_Noah_Verde_234e420532.jpeg)
+   [![Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/b/csm_Noah_Verde_234e420532.jpeg)
 
 Pessoas & Negócios
 
@@ -198,7 +208,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/9/csm_ssp-realiza-operacao-em-casa-de-shows-no-jaragua-e-constata-irregularidades_37a21d41fd.jpeg)
+[![Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/9/csm_ssp-realiza-operacao-em-casa-de-shows-no-jaragua-e-constata-irregularidades_37a21d41fd.jpeg)
 
 irregularidades
 
@@ -206,7 +216,7 @@ irregularidades
 
 Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia
 
-Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://www.tnh1.com.br/noticia/nid/casa-de-shows-em-maceio-e-alvo-de-operacao-da-policia-e-donos-sao-levados-a-delegacia/ "Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia")[![Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/6/csm_policial-penal-sergipe-morte-alagoas-arquivo-pessoal_08bd7b2227.jpg)
+Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://www.tnh1.com.br/noticia/nid/casa-de-shows-em-maceio-e-alvo-de-operacao-da-policia-e-donos-sao-levados-a-delegacia/ "Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia")[![Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/6/csm_policial-penal-sergipe-morte-alagoas-arquivo-pessoal_08bd7b2227.jpg)
 
 30 anos
 
@@ -214,15 +224,7 @@ Casa de shows em Maceió é alvo de operação da polícia e donos são levados 
 
 Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas
 
-Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policial-penal-de-sergipe-e-morto-a-tiros-apos-sofrer-atentado-no-interior-de-alagoas/ "Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas")[![Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/b/csm_sabrina-gomes-sindrome-de-cushing-reproducao_7a72cca2b4.jpg)
-
-24 anos
-
-24 anos
-
-Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio
-
-Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio](https://www.tnh1.com.br/noticia/nid/jovem-com-tumor-raro-que-levou-a-mudanca-na-cor-de-pele-tenta-obter-remedio/ "Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio")[![Jornalista diz o que motivou a queda de Liam Payne e surpreende](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/e/csm_liam-payne-reproducao-redes-sociais__1__5b3526ed72.jpg)
+Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policial-penal-de-sergipe-e-morto-a-tiros-apos-sofrer-atentado-no-interior-de-alagoas/ "Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas")[![Jornalista diz o que motivou a queda de Liam Payne e surpreende](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/e/csm_liam-payne-reproducao-redes-sociais__1__5b3526ed72.jpg)
 
 caiu de prédio
 
@@ -230,41 +232,49 @@ caiu de prédio
 
 Jornalista diz o que motivou a queda de Liam Payne e surpreende
 
-Jornalista diz o que motivou a queda de Liam Payne e surpreende](https://www.tnh1.com.br/noticia/nid/jornalista-diz-o-que-motivou-a-queda-de-liam-payne-e-surpreende/ "Jornalista diz o que motivou a queda de Liam Payne e surpreende")
+Jornalista diz o que motivou a queda de Liam Payne e surpreende](https://www.tnh1.com.br/noticia/nid/jornalista-diz-o-que-motivou-a-queda-de-liam-payne-e-surpreende/ "Jornalista diz o que motivou a queda de Liam Payne e surpreende")[![Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/b/csm_sabrina-gomes-sindrome-de-cushing-reproducao_7a72cca2b4.jpg)
 
-[![PM apreende 26 armas de fogo e mais de 41kg de drogas em uma semana](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/0/csm_pm-apreende-26-armas-de-fogo-e-mais-de-41kg-de-drogas-em-uma-semana_f2f7ff5af8.jpg)
+24 anos
 
-Polícia
+24 anos
 
-Polícia
+Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio
 
-PM apreende 26 armas de fogo e mais de 41kg de drogas em uma semana
+Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio](https://www.tnh1.com.br/noticia/nid/jovem-com-tumor-raro-que-levou-a-mudanca-na-cor-de-pele-tenta-obter-remedio/ "Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio")
 
-PM apreende 26 armas de fogo e mais de 41kg de drogas em uma semana](https://www.tnh1.com.br/noticia/nid/pm-apreende-26-armas-de-fogo-e-mais-de-41kg-de-drogas-em-uma-semana/ "PM apreende 26 armas de fogo e mais de 41kg de drogas em uma semana")[![Mais de 4,3 milhões de candidatos participam hoje do Enem 2024](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/f/csm_Enem_AB_2d210fe4df.jpg)
-
-Educação
-
-Educação
-
-Mais de 4,3 milhões de candidatos participam hoje do Enem 2024
-
-Mais de 4,3 milhões de candidatos participam hoje do Enem 2024](https://www.tnh1.com.br/noticia/nid/mais-de-43-milhoes-de-candidatos-participam-hoje-do-enem-2024/ "Mais de 4,3 milhões de candidatos participam hoje do Enem 2024")[![Chuva põe São Paulo em estado de atenção; 60 mil estão sem energia na cidade](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/0/csm_chuva_sp_agencia_3069336608.png)
+[![Enem: Jovem atrasado passa por baixo de portão para entrar a tempo da prova; veja](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/d/csm_Enem_Jovem_Mebaixo_Portao_f199bbc1f6.jpg)
 
 Brasil
 
 Brasil
 
-Chuva põe São Paulo em estado de atenção; 60 mil estão sem energia na cidade
+Enem: Jovem atrasado passa por baixo de portão para entrar a tempo da prova; veja
 
-Chuva põe São Paulo em estado de atenção; 60 mil estão sem energia na cidade](https://www.tnh1.com.br/noticia/nid/chuva-poe-sao-paulo-em-estado-de-atencao-60-mil-estao-sem-energia-na-cidade/ "Chuva põe São Paulo em estado de atenção; 60 mil estão sem energia na cidade")[![EUA chegam a eleição sob desânimo recorde com a economia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/6/csm_dolar_freepik_4e982de889.png)
+Enem: Jovem atrasado passa por baixo de portão para entrar a tempo da prova; veja](https://www.tnh1.com.br/noticia/nid/enem-jovem-atrasado-passa-por-baixo-de-portao-para-entrar-a-tempo-da-prova-veja/ "Enem: Jovem atrasado passa por baixo de portão para entrar a tempo da prova; veja")[![Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/e/csm_Suspeito_Esturpo_Espancamento_c04c3f904d.jpg)
 
-Mundo
+Polícia
 
-Mundo
+Polícia
 
-EUA chegam a eleição sob desânimo recorde com a economia
+Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho
 
-EUA chegam a eleição sob desânimo recorde com a economia](https://www.tnh1.com.br/noticia/nid/eua-chegam-a-eleicao-sob-desanimo-recorde-com-a-economia/ "EUA chegam a eleição sob desânimo recorde com a economia")
+Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho](https://www.tnh1.com.br/noticia/nid/suspeito-de-estuprar-crianca-de-10-anos-e-espancado-por-populares-no-jacintinho/ "Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho")[![Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/9/csm_pm-combate-crimes-de-trafico-e-de-receptacao-em-sao-jose-da-tapera-e-maceio_ff97ae23ff.jpg)
+
+Alagoas
+
+Alagoas
+
+Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió
+
+Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió](https://www.tnh1.com.br/noticia/nid/policia-combate-crimes-de-trafico-e-de-receptacao-em-sao-jose-da-tapera-e-maceio/ "Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió")[![Homem é preso ao tentar fugir por telhados após estuprar mulher em Goiás](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/d/csm_Homem_Prisao_Estupro_cdaeec9bbc.jpg)
+
+Brasil
+
+Brasil
+
+Homem é preso ao tentar fugir por telhados após estuprar mulher em Goiás
+
+Homem é preso ao tentar fugir por telhados após estuprar mulher em Goiás](https://www.tnh1.com.br/noticia/nid/homem-e-preso-ao-tentar-fugir-por-telhados-apos-estuprar-mulher-em-goias/ "Homem é preso ao tentar fugir por telhados após estuprar mulher em Goiás")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
