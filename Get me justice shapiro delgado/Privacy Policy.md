@@ -292,7 +292,7 @@ Request Free Consultation test
 * 
 * 
 * 
-* Name
+* Phone
     
     This field is for validation purposes and should be left unchanged.
     
@@ -323,7 +323,7 @@ Request Free Consultation
 * 
 * 
 * 
-* Email
+* Phone
     
     This field is for validation purposes and should be left unchanged.
     
