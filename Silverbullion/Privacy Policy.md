@@ -237,6 +237,8 @@
     
     * [Contact Us](https://silverbullion.com.sg/ContactUs)
 
+× Credit and Debit card payment are currently unavailable at this moment.
+
 Privacy Policy
 ==============
 
@@ -428,4 +430,4 @@ S.T.A.R. Bullion Storage and Silver Bullion logos and names are registered trade
 
 ×Close
 
-[](https://silverbullion.com.sg/Account/DormantPopup?rand=0.730557317254393)
+[](https://silverbullion.com.sg/Account/DormantPopup?rand=0.76611528208764)
