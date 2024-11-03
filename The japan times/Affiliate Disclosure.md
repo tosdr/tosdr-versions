@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 03, 2024](https://www.japantimes.co.jp/archive/2024/11/03/ "archive page")
+[November 04, 2024](https://www.japantimes.co.jp/archive/2024/11/04/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,64 +131,68 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[How Japan’s new kingmaker party won over young voters](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/ninivaggipoliticsyouth-vote-dpp/ "How Japan’s new kingmaker party won over young voters")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-  [![Democratic Party for the People chief Yuichiro Tamaki’s personal YouTube channel has more than 326,000 subscribers, by far the highest number among party leaders.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431666.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People chief Yuichiro Tamaki’s personal YouTube channel has more than 326,000 subscribers, by far the highest number among party leaders.")](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/ninivaggipoliticsyouth-vote-dpp/ "How Japan’s new kingmaker party won over young voters")
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-[Uniqlo store manager arrested over filming of women in fitting rooms](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-  [![Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431597.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-[Shohei Ohtani in position to continue winning after first World Series title](https://www.japantimes.co.jp/sports/2024/11/01/baseball/shohei-ohtani-world-series-future/ "Shohei Ohtani in position to continue winning after first World Series title")
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-  [![The Dodgers' Shohei Ohtani embraces teammate Enrique Hernandez following Game 5 of the World Series at Yankee Stadium in New York on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431591.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Dodgers' Shohei Ohtani embraces teammate Enrique Hernandez following Game 5 of the World Series at Yankee Stadium in New York on Wednesday.")](https://www.japantimes.co.jp/sports/2024/11/01/baseball/shohei-ohtani-world-series-future/ "Shohei Ohtani in position to continue winning after first World Series title")
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-[In pictures: Dodgers fans fete World Series title with party fit for Hollywood](https://www.japantimes.co.jp/sports/2024/11/02/baseball/mlb/dodgers-party-world-series/ "In pictures: Dodgers fans fete World Series title with party fit for Hollywood")
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-  [![Shohei Ohtani speaks during the Dodgers' World Series celebration on Friday at Dodger Stadium in Los Angeles. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431804.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani speaks during the Dodgers' World Series celebration on Friday at Dodger Stadium in Los Angeles. ")](https://www.japantimes.co.jp/sports/2024/11/02/baseball/mlb/dodgers-party-world-series/ "In pictures: Dodgers fans fete World Series title with party fit for Hollywood")
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-[Ishiba to meet with U.S. and Chinese leaders during multilateral summits](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
+[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
-  [![Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431770.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ")](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
+  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
 Editors' Picks
 --------------
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
-[How Japan’s new kingmaker party won over young voters](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/ninivaggipoliticsyouth-vote-dpp/ "How Japan’s new kingmaker party won over young voters")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
+By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
 
-  [![Democratic Party for the People chief Yuichiro Tamaki’s personal YouTube channel has more than 326,000 subscribers, by far the highest number among party leaders.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431666.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People chief Yuichiro Tamaki’s personal YouTube channel has more than 326,000 subscribers, by far the highest number among party leaders.")](https://www.japantimes.co.jp/news/2024/11/01/japan/politics/ninivaggipoliticsyouth-vote-dpp/ "How Japan’s new kingmaker party won over young voters")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Uniqlo store manager arrested over filming of women in fitting rooms](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
-
-  [![Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431597.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
-
-[BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
-
-[Shohei Ohtani in position to continue winning after first World Series title](https://www.japantimes.co.jp/sports/2024/11/01/baseball/shohei-ohtani-world-series-future/ "Shohei Ohtani in position to continue winning after first World Series title")
-
-By [Jason Coskrey](https://www.japantimes.co.jp/author/181/jason-coskrey/ "Jason Coskrey")  
-
-  [![The Dodgers' Shohei Ohtani embraces teammate Enrique Hernandez following Game 5 of the World Series at Yankee Stadium in New York on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431591.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Dodgers' Shohei Ohtani embraces teammate Enrique Hernandez following Game 5 of the World Series at Yankee Stadium in New York on Wednesday.")](https://www.japantimes.co.jp/sports/2024/11/01/baseball/shohei-ohtani-world-series-future/ "Shohei Ohtani in position to continue winning after first World Series title")
-
-[BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
-
-[In pictures: Dodgers fans fete World Series title with party fit for Hollywood](https://www.japantimes.co.jp/sports/2024/11/02/baseball/mlb/dodgers-party-world-series/ "In pictures: Dodgers fans fete World Series title with party fit for Hollywood")
-
-By [Joshua Mellin](https://www.japantimes.co.jp/author/5840/joshua-mellin/ "Joshua Mellin")  
-
-  [![Shohei Ohtani speaks during the Dodgers' World Series celebration on Friday at Dodger Stadium in Los Angeles. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431804.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani speaks during the Dodgers' World Series celebration on Friday at Dodger Stadium in Los Angeles. ")](https://www.japantimes.co.jp/sports/2024/11/02/baseball/mlb/dodgers-party-world-series/ "In pictures: Dodgers fans fete World Series title with party fit for Hollywood")
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Ishiba to meet with U.S. and Chinese leaders during multilateral summits](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-  [![Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431770.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ")](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+
+[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
+
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+
+By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
+
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+
+[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+
+By F.D. Flam  
+
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
 Podcast
 -------
@@ -209,9 +213,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,25 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Spate of robberies in Kanto highlight importance of home security](https://www.japantimes.co.jp/news/2024/11/03/japan/crime-legal/japan-robbery-safeguard/ "Spate of robberies in Kanto highlight importance of home security")
-
-2 hours ago
-
-[Former Rengo head Koga urges CDP, DPP to merge](https://www.japantimes.co.jp/news/2024/11/03/japan/politics/japan-rengo-koga-opposition-parties/ "Former Rengo head Koga urges CDP, DPP to merge")
+[Joint Russia sea drills signal start of Indonesian foreign policy shift](https://www.japantimes.co.jp/news/2024/11/03/asia-pacific/joint-indonesia-russia-sea-drills/ "Joint Russia sea drills signal start of Indonesian foreign policy shift")
 
 4 hours ago
 
-[Status quo or disruption? Breaking down the U.S. election's impact on Japan](https://www.japantimes.co.jp/news/2024/11/03/japan/politics/us-presidential-election-japan-preview/ "Status quo or disruption? Breaking down the U.S. election's impact on Japan")
+[Top Slovak mountaineer dies in Nepal after historic ascent](https://www.japantimes.co.jp/news/2024/11/03/world/slovak-mountaineer-dies/ "Top Slovak mountaineer dies in Nepal after historic ascent")
 
 4 hours ago
 
-[Japan recognizes 3,987 people in autumn honors](https://www.japantimes.co.jp/news/2024/11/03/japan/japan-autumn-honors/ "Japan recognizes 3,987 people in autumn honors")
+[U.S. bomber joins air drill with South Korea and Japan](https://www.japantimes.co.jp/news/2024/11/03/japan/us-bomber-joins-air-drill/ "U.S. bomber joins air drill with South Korea and Japan")
 
 5 hours ago
 
-[How global lessons can improve prospects for women in rural Japan](https://www.japantimes.co.jp/business/2024/11/03/women-work-asako-osaki/ "How global lessons can improve prospects for women in rural Japan")
+[Spate of robberies in Kanto highlight importance of home security](https://www.japantimes.co.jp/news/2024/11/03/japan/crime-legal/japan-robbery-safeguard/ "Spate of robberies in Kanto highlight importance of home security")
 
-6 hours ago
+8 hours ago
+
+[Former Rengo head Koga urges CDP and DPP to merge](https://www.japantimes.co.jp/news/2024/11/03/japan/politics/japan-rengo-koga-opposition-parties/ "Former Rengo head Koga urges CDP and DPP to merge")
+
+10 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
