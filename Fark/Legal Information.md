@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want to see behind the curtain? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Come for the Total, stay for the Farking.
+It's how we feed the squirrel
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [This story has EVERYTHING (subby must have meant -had- since it's from 2019)](https://www.fark.com/goto/13450314) ( [apnews.com](https://www.fark.com/goto/13450314) ) » [(10 comments)](https://www.fark.com/comments/13450314/This-story-has-EVERYTHING-subby-must-have-meant-had-since-its-from-2019) |
-| [Discussion](https://www.fark.com/discussion/) | [Starting one hour later than usual, it's Big Clive Live, at 5:00 PM ET. Previews of new stuff, ranting, and whoofles. Scrufdog LIT](https://www.fark.com/goto/13450258) ( [twitch.tv](https://www.fark.com/goto/13450258) ) » [(9 comments)](https://www.fark.com/comments/13450258/Starting-one-hour-later-than-usual-its-Big-Clive-Live-at-500-PM-ET-Previews-of-new-stuff-ranting-whoofles-Scrufdog-LIT) |
-| [Sports](https://www.fark.com/sports/) | [Two pucks, one goal. Some of you hockey nerd Farkers may find video NSFW as announcers comment on dual puck situation: "I've never seen one slammed home on a wrap-around" and "I've never seen one sit there this long"](https://www.fark.com/goto/13450490) ( [awfulannouncing.com](https://www.fark.com/goto/13450490) ) » [(0 comments)](https://www.fark.com/comments/13450490/Two-pucks-one-goal-Some-of-you-hockey-nerd-Farkers-may-find-video-NSFW-as-announcers-comment-on-dual-puck-situation-Ive-never-seen-one-slammed-home-on-a-wrap-around-Ive-never-seen-one-sit-there-this-long) |
-| [Business](https://www.fark.com/business/) | [Flying electric taxi being tested could reduce commute time by 90% for up to four people at a time](https://www.fark.com/goto/13450176) ( [ktvu.com](https://www.fark.com/goto/13450176) ) » [(22 comments)](https://www.fark.com/comments/13450176/Flying-electric-taxi-being-tested-could-reduce-commute-time-by-90-for-up-to-four-people-at-a-time) |
-| [STEM](https://www.fark.com/stem/) | [Space the final frontier. These are the voyages of Vlad Putin and Kim Jung-un. Their ongoing mission: Fark it for the rest of us](https://www.fark.com/goto/13450288) ( [arstechnica.com](https://www.fark.com/goto/13450288) ) » [(0 comments)](https://www.fark.com/comments/13450288/Space-final-frontier-These-are-voyages-of-Vlad-Putin-Kim-Jung-un-Their-ongoing-mission-Fark-it-for-rest-of-us) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Having sex with 101 men in a day gets you 12 million Tiktok views, some clapback](https://www.fark.com/goto/13450266) ( [metro.co.uk](https://www.fark.com/goto/13450266) ) » [(12 comments)](https://www.fark.com/comments/13450266/Having-sex-with-101-men-in-a-day-gets-you-12-million-Tiktok-views-some-clapback) |
-| [Fandom](https://www.fark.com/fandom/) | [Hildebrandt Brothers reunite to work in a post-fantasy world](https://www.fark.com/goto/13450452) ( [pcgamer.com](https://www.fark.com/goto/13450452) ) » [(1 comment)](https://www.fark.com/comments/13450452/Hildebrandt-Brothers-reunite-to-work-in-a-post-fantasy-world) |
-| [D'awww](https://www.fark.com/dawww/) | [Light-saber photography](https://www.fark.com/goto/13450476) ( [bbc.com](https://www.fark.com/goto/13450476) ) » [(0 comments)](https://www.fark.com/comments/13450476/Light-saber-photography) |
-| [Food](https://www.fark.com/food/) | [Your prayers have been answered at last---a brie and burrata cheese flavored ice cream from Baskin Robbins](https://www.fark.com/goto/13450264) ( [yahoo.com](https://www.fark.com/goto/13450264) ) » [(0 comments)](https://www.fark.com/comments/13450264/Your-prayers-have-been-answered-at-last-a-brie-burrata-cheese-flavored-ice-cream-from-Baskin-Robbins) |
-| [Politics](https://www.fark.com/politics/) | [Maya Rudolph to be played by Kamala Harris on tonight's SNL](https://www.fark.com/goto/13450424) ( [nypost.com](https://www.fark.com/goto/13450424) ) » [(18 comments)](https://www.fark.com/comments/13450424/Maya-Rudolph-to-be-played-by-Kamala-Harris-on-tonights-SNL) |
+| [Main](https://www.fark.com/) | [Your daily reminder that we're all alive during the absolute stupidest of timelines](https://www.fark.com/goto/13450232) ( [tmz.com](https://www.fark.com/goto/13450232) ) » [(43 comments)](https://www.fark.com/comments/13450232/Your-daily-reminder-that-were-all-alive-during-absolute-stupidest-of-timelines) |
+| [Discussion](https://www.fark.com/discussion/) | [It's the final show before the election, and the cold open will no doubt be all politics. Will we be treated to another offbeat song about something insane? Will Pete Davidson return? John Mulaney hosts, Chappell Roan sings. SNL, 11:30PM ET on NBC](https://www.fark.com/goto/13449662) ( [billboard.com](https://www.fark.com/goto/13449662) ) » [(405 comments)](https://www.fark.com/comments/13449662/Its-final-show-before-election-the-cold-open-will-no-doubt-be-all-politics-Will-we-be-treated-to-another-offbeat-song-about-something-insane-Will-Pete-Davidson-return-John-Mulaney-hosts-Chappell-Roan-sings-SNL-1130PM-ET-on-NBC) |
+| [Sports](https://www.fark.com/sports/) | [Tim Tebow briefly goes PG-rated, rants about excessive injury faking that is turning football into soccer](https://www.fark.com/goto/13450492) ( [awfulannouncing.com](https://www.fark.com/goto/13450492) ) » [(0 comments)](https://www.fark.com/comments/13450492/Tim-Tebow-briefly-goes-PG-rated-rants-about-excessive-injury-faking-that-is-turning-football-into-soccer) |
+| [Business](https://www.fark.com/business/) | [Flying electric taxi being tested could reduce commute time by 90% for up to four people at a time](https://www.fark.com/goto/13450176) ( [ktvu.com](https://www.fark.com/goto/13450176) ) » [(33 comments)](https://www.fark.com/comments/13450176/Flying-electric-taxi-being-tested-could-reduce-commute-time-by-90-for-up-to-four-people-at-a-time) |
+| [STEM](https://www.fark.com/stem/) | [Space the final frontier. These are the voyages of Vlad Putin and Kim Jung-un. Their ongoing mission: Fark it for the rest of us](https://www.fark.com/goto/13450288) ( [arstechnica.com](https://www.fark.com/goto/13450288) ) » [(7 comments)](https://www.fark.com/comments/13450288/Space-final-frontier-These-are-voyages-of-Vlad-Putin-Kim-Jung-un-Their-ongoing-mission-Fark-it-for-rest-of-us) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Season 7, time for a wedding](https://www.fark.com/goto/13450352) ( [giantfreakinrobot.com](https://www.fark.com/goto/13450352) ) » [(0 comments)](https://www.fark.com/comments/13450352/Season-7-time-for-a-wedding) |
+| [Fandom](https://www.fark.com/fandom/) | [Luke Skywalker and Han Solo both endorsed Kamala Harris. Emperor Palpatine inconsolable](https://www.fark.com/goto/13450458) ( [rollingstone.com](https://www.fark.com/goto/13450458) ) » [(12 comments)](https://www.fark.com/comments/13450458/Luke-Skywalker-Han-Solo-both-endorsed-Kamala-Harris-Emperor-Palpatine-inconsolable) |
+| [D'awww](https://www.fark.com/dawww/) | [Light-saber photography](https://www.fark.com/goto/13450476) ( [bbc.com](https://www.fark.com/goto/13450476) ) » [(5 comments)](https://www.fark.com/comments/13450476/Light-saber-photography) |
+| [Food](https://www.fark.com/food/) | [Your prayers have been answered at last---a brie and burrata cheese flavored ice cream from Baskin Robbins](https://www.fark.com/goto/13450264) ( [yahoo.com](https://www.fark.com/goto/13450264) ) » [(4 comments)](https://www.fark.com/comments/13450264/Your-prayers-have-been-answered-at-last-a-brie-burrata-cheese-flavored-ice-cream-from-Baskin-Robbins) |
+| [Politics](https://www.fark.com/politics/) | [You know who Trump is really angry at right now for some reason, especially because He gave him $22 million to "make it so"? Chris LaCivitas, his campaign manager. He even reverts to mafia classic "He's dead to me". I wonder why he feels this today](https://www.fark.com/goto/13450354) ( [rawstory.com](https://www.fark.com/goto/13450354) ) » [(11 comments)](https://www.fark.com/comments/13450354/You-know-who-Trump-is-really-angry-at-right-now-for-some-reason-especially-because-He-gave-him-$22-million-to-make-it-so-Chris-LaCivitas-his-campaign-manager-He-even-reverts-to-mafia-classic-Hes-dead-to-me-I-wonder-why-he-feels-this-today) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 02 2024 21:42:27  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 03 2024 02:44:09  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
