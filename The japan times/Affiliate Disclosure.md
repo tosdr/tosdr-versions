@@ -131,68 +131,64 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[Western and central Japan drenched by record rainfall for November](https://www.japantimes.co.jp/news/2024/11/02/japan/west-japan-rain-november/ "Western and central Japan drenched by record rainfall for November")
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![The Meteorological Agency said that, as of 2:10 p.m Saturday, a total of 188 observation points in western and central Japan had recorded their largest-ever 24-hour rainfall for November](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431794.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Meteorological Agency said that, as of 2:10 p.m Saturday, a total of 188 observation points in western and central Japan had recorded their largest-ever 24-hour rainfall for November")](https://www.japantimes.co.jp/news/2024/11/02/japan/west-japan-rain-november/ "Western and central Japan drenched by record rainfall for November")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[At Japan’s hottest festival, crowds threaten to smother the flames](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431318.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.")](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[Ishiba to meet with U.S. and Chinese leaders during multilateral summits](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+  [![Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431770.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ")](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
 
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+[In pictures: Dodgers fans fete World Series title with party fit for Hollywood](https://www.japantimes.co.jp/sports/2024/11/02/baseball/mlb/dodgers-party-world-series/ "In pictures: Dodgers fans fete World Series title with party fit for Hollywood")
 
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![Shohei Ohtani speaks during the Dodgers' World Series celebration on Friday at Dodger Stadium in Los Angeles. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431804.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani speaks during the Dodgers' World Series celebration on Friday at Dodger Stadium in Los Angeles. ")](https://www.japantimes.co.jp/sports/2024/11/02/baseball/mlb/dodgers-party-world-series/ "In pictures: Dodgers fans fete World Series title with party fit for Hollywood")
 
-[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+[Uniqlo store manager arrested over filming of women in fitting rooms](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
 
-  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+  [![Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431597.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
 
 Editors' Picks
 --------------
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
-
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
-
-By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
-
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
-
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[Western and central Japan drenched by record rainfall for November](https://www.japantimes.co.jp/news/2024/11/02/japan/west-japan-rain-november/ "Western and central Japan drenched by record rainfall for November")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![The Meteorological Agency said that, as of 2:10 p.m Saturday, a total of 188 observation points in western and central Japan had recorded their largest-ever 24-hour rainfall for November](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431794.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Meteorological Agency said that, as of 2:10 p.m Saturday, a total of 188 observation points in western and central Japan had recorded their largest-ever 24-hour rainfall for November")](https://www.japantimes.co.jp/news/2024/11/02/japan/west-japan-rain-november/ "Western and central Japan drenched by record rainfall for November")
 
 [LIFE](https://www.japantimes.co.jp/life/ "LIFE")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[At Japan’s hottest festival, crowds threaten to smother the flames](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
 
-By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
+By [Shawn B. Swinger](https://www.japantimes.co.jp/author/5552/shawn-b-swinger/ "Shawn B. Swinger")  
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
-
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
-
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
-
-By F.D. Flam  
-
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431318.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.")](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+[Ishiba to meet with U.S. and Chinese leaders during multilateral summits](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+  [![Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431770.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ")](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
 
-  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+[BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
+
+[In pictures: Dodgers fans fete World Series title with party fit for Hollywood](https://www.japantimes.co.jp/sports/2024/11/02/baseball/mlb/dodgers-party-world-series/ "In pictures: Dodgers fans fete World Series title with party fit for Hollywood")
+
+By [Joshua Mellin](https://www.japantimes.co.jp/author/5840/joshua-mellin/ "Joshua Mellin")  
+
+  [![Shohei Ohtani speaks during the Dodgers' World Series celebration on Friday at Dodger Stadium in Los Angeles. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431804.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani speaks during the Dodgers' World Series celebration on Friday at Dodger Stadium in Los Angeles. ")](https://www.japantimes.co.jp/sports/2024/11/02/baseball/mlb/dodgers-party-world-series/ "In pictures: Dodgers fans fete World Series title with party fit for Hollywood")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Uniqlo store manager arrested over filming of women in fitting rooms](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
+
+  [![Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431597.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
 
 Podcast
 -------
@@ -257,23 +253,19 @@ Latest News
 
 [Joint Russia sea drills signal start of Indonesian foreign policy shift](https://www.japantimes.co.jp/news/2024/11/03/asia-pacific/joint-indonesia-russia-sea-drills/ "Joint Russia sea drills signal start of Indonesian foreign policy shift")
 
-4 hours ago
+9 hours ago
 
 [Top Slovak mountaineer dies in Nepal after historic ascent](https://www.japantimes.co.jp/news/2024/11/03/world/slovak-mountaineer-dies/ "Top Slovak mountaineer dies in Nepal after historic ascent")
 
-4 hours ago
+10 hours ago
 
 [U.S. bomber joins air drill with South Korea and Japan](https://www.japantimes.co.jp/news/2024/11/03/japan/us-bomber-joins-air-drill/ "U.S. bomber joins air drill with South Korea and Japan")
 
-5 hours ago
+11 hours ago
 
 [Spate of robberies in Kanto highlight importance of home security](https://www.japantimes.co.jp/news/2024/11/03/japan/crime-legal/japan-robbery-safeguard/ "Spate of robberies in Kanto highlight importance of home security")
 
-8 hours ago
-
 [Former Rengo head Koga urges CDP and DPP to merge](https://www.japantimes.co.jp/news/2024/11/03/japan/politics/japan-rengo-koga-opposition-parties/ "Former Rengo head Koga urges CDP and DPP to merge")
-
-10 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
