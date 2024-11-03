@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 2, 2024**
+**November 3, 2024**
 
 * * *
 
@@ -229,6 +229,8 @@ this hour
 
 * * *
 
+* [Why No Deep-Diving Crocodiles: Sinuses](https://www.sciencedaily.com/releases/2024/10/241029203003.htm)
+* [Revolutionary High-Speed 3D Bioprinter](https://www.sciencedaily.com/releases/2024/11/241101123841.htm)
 * [First Blueprint of the Human Spliceosome](https://www.sciencedaily.com/releases/2024/10/241031151843.htm)
 * [Bacteria Work Together in Difficult Conditions](https://www.sciencedaily.com/releases/2024/09/240913105250.htm)
 * [Animal Viruses With Potential to Infect Humans](https://www.sciencedaily.com/releases/2024/10/241031130355.htm)
@@ -237,8 +239,6 @@ this hour
 * [Echolocating Bats Use an Acoustic Cognitive Map](https://www.sciencedaily.com/releases/2024/10/241031151724.htm)
 * [Neurotech Boosts Spatial Memory Without Surgery](https://www.sciencedaily.com/releases/2024/10/241030145640.htm)
 * [Surprisingly Smooth Disk Around Vega](https://www.sciencedaily.com/releases/2024/11/241101123528.htm)
-* [Low-Level Lead Poisoning Is Still Pervasive](https://www.sciencedaily.com/releases/2024/10/241030171917.htm)
-* [Quantum Network Link Between Cities](https://www.sciencedaily.com/releases/2024/10/241030145638.htm)
 
 Trending Topics
 ---------------
@@ -253,15 +253,15 @@ this week
 
 [Leukemia](https://www.sciencedaily.com/news/health_medicine/leukemia/)
 
-[Wounds and Healing](https://www.sciencedaily.com/news/health_medicine/wounds_and_healing/)
+[Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
-[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
-
 [Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+
+[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
