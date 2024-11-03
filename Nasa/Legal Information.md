@@ -313,13 +313,13 @@ article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-blo
 
 ### NASA’s New Edition of Graphic Novel Features Europa Clipper
 
-article 22 hours ago](https://science.nasa.gov/science-research/planetary-science/astrobiology/nasas-new-edition-of-graphic-novel-features-europa-clipper/)[![30 Years On, NASA’s Wind Is a Windfall for Studying our Neighborhood in Space](https://science.nasa.gov/wp-content/uploads/2023/07/windv3_0.jpg)
+article 1 day ago](https://science.nasa.gov/science-research/planetary-science/astrobiology/nasas-new-edition-of-graphic-novel-features-europa-clipper/)[![30 Years On, NASA’s Wind Is a Windfall for Studying our Neighborhood in Space](https://science.nasa.gov/wp-content/uploads/2023/07/windv3_0.jpg)
 
 5 min read
 
 ### 30 Years On, NASA’s Wind Is a Windfall for Studying our Neighborhood in Space
 
-article 23 hours ago](https://science.nasa.gov/science-research/heliophysics/30-years-on-nasas-wind-is-a-windfall-for-studying-our-neighborhood-in-space/)[![What’s Up: November 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2024/05/milkyway-desrt-tree-credit-preston-dyches-1.jpg)
+article 1 day ago](https://science.nasa.gov/science-research/heliophysics/30-years-on-nasas-wind-is-a-windfall-for-studying-our-neighborhood-in-space/)[![What’s Up: November 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2024/05/milkyway-desrt-tree-credit-preston-dyches-1.jpg)
 
 5 min read
 
@@ -357,19 +357,19 @@ article 2 days ago](https://science.nasa.gov/missions/webb/blood-soaked-eyes-nas
 
 ### NASA’s New Edition of Graphic Novel Features Europa Clipper
 
-article 22 hours ago](https://science.nasa.gov/science-research/planetary-science/astrobiology/nasas-new-edition-of-graphic-novel-features-europa-clipper/)[![Exoasteroids](https://science.nasa.gov/wp-content/uploads/2023/04/exoasteroid-logo.jpg)
+article 1 day ago](https://science.nasa.gov/science-research/planetary-science/astrobiology/nasas-new-edition-of-graphic-novel-features-europa-clipper/)[![Exoasteroids](https://science.nasa.gov/wp-content/uploads/2023/04/exoasteroid-logo.jpg)
 
 1 min read
 
 ### Exoasteroids
 
-article 22 hours ago](https://science.nasa.gov/citizen-science/exoasteroids/)[![Title slide for Meet the Authors. Image shows the three participating authors with meeting information.](https://www.nasa.gov/wp-content/uploads/2024/10/meet-the-authors-oct-2024.jpg?w=577)
+article 1 day ago](https://science.nasa.gov/citizen-science/exoasteroids/)[![Title slide for Meet the Authors. Image shows the three participating authors with meeting information.](https://www.nasa.gov/wp-content/uploads/2024/10/meet-the-authors-oct-2024.jpg?w=577)
 
 2 min read
 
 ### Meet the Authors – October 2024
 
-article 23 hours ago](https://www.nasa.gov/meet-the-authors-october-2024-2/)
+article 1 day ago](https://www.nasa.gov/meet-the-authors-october-2024-2/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 3 weeks ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring
 
 ### From Mars Rovers to Factory Assembly Lines
 
-article 22 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/from-mars-rovers-to-factory-assembly-lines/)[![Mario Perez, back, holds a deployable solar panel as Craig Turczynski, left, secures it to the Advanced Composite Solar Sail System (ACS3) spacecraft in the Integration Facility of NASA Ames Research Center.](https://www.nasa.gov/wp-content/uploads/2024/10/acs3-test-and-final-preparation-for-launch.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/from-mars-rovers-to-factory-assembly-lines/)[![Mario Perez, back, holds a deployable solar panel as Craig Turczynski, left, secures it to the Advanced Composite Solar Sail System (ACS3) spacecraft in the Integration Facility of NASA Ames Research Center.](https://www.nasa.gov/wp-content/uploads/2024/10/acs3-test-and-final-preparation-for-launch.jpg?w=1024)
 
 4 min read
 
@@ -451,7 +451,7 @@ article 3 days ago](https://www.nasa.gov/general/nasa-technologies-named-among-t
 
 ### 30 Years On, NASA’s Wind Is a Windfall for Studying our Neighborhood in Space
 
-article 23 hours ago](https://science.nasa.gov/science-research/heliophysics/30-years-on-nasas-wind-is-a-windfall-for-studying-our-neighborhood-in-space/)
+article 1 day ago](https://science.nasa.gov/science-research/heliophysics/30-years-on-nasas-wind-is-a-windfall-for-studying-our-neighborhood-in-space/)
 
 ### Highlights
 
