@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Day in Photos: Commemorations, Flood Devastation, and a New Leader](https://www.theepochtimes.com/article/day-in-photos-commemorations-flood-devastation-and-a-new-leader-5752872)
+    
+    4hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Commemorations, Flood Devastation, and a New Leader](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Commemorations, Flood Devastation, and a New Leader](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752974-APTOPIX_Spain_Floods_24307369522033-OP_2-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-commemorations-flood-devastation-and-a-new-leader-5752872)
 * [In Photos: Highlights of the 2024 Election Season](https://www.theepochtimes.com/article/in-photos-highlights-of-the-2024-election-season-5752855)
     
-    1hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![In Photos: Highlights of the 2024 Election Season](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![In Photos: Highlights of the 2024 Election Season](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752988-Trump-Harris-8-2-SB-SB-lead3-4-205x123.jpg.webp)](https://www.theepochtimes.com/article/in-photos-highlights-of-the-2024-election-season-5752855)
 * [Georgia Judge Dismisses GOP Effort to Halt Weekend Absentee Ballot Drop-Offs](https://www.theepochtimes.com/us/georgia-judge-dismisses-gop-effort-to-halt-weekend-absentee-ballot-drop-offs-5752936)
     
-    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Georgia Judge Dismisses GOP Effort to Halt Weekend Absentee Ballot Drop-Offs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Georgia Judge Dismisses GOP Effort to Halt Weekend Absentee Ballot Drop-Offs](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752938-Election_2024_Absentee_Ballots_Georgia_24307721220522-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-judge-dismisses-gop-effort-to-halt-weekend-absentee-ballot-drop-offs-5752936)
 * [FBI Says It Has Been Impersonated in 2 Fake Election Security Videos](https://www.theepochtimes.com/us/fbi-says-it-has-been-impersonated-in-2-fake-election-security-videos-5752937)
     
-    5hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    9hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![FBI Says It Has Been Impersonated in 2 Fake Election Security Videos](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![FBI Says It Has Been Impersonated in 2 Fake Election Security Videos](https://img.theepochtimes.com/assets/uploads/2024/08/13/id5704881-08122024-DSC00079-FBI-205x123.jpg.webp)](https://www.theepochtimes.com/us/fbi-says-it-has-been-impersonated-in-2-fake-election-security-videos-5752937)
 * [Washington Housing Commission Sued Over Alleged Racial Discrimination](https://www.theepochtimes.com/us/washington-housing-commission-sued-over-alleged-racial-discrimination-5752419)
     
-    6hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    11hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
     [![Washington Housing Commission Sued Over Alleged Racial Discrimination](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Washington Housing Commission Sued Over Alleged Racial Discrimination](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730106-House-sale_1KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/washington-housing-commission-sued-over-alleged-racial-discrimination-5752419)
 * [TGI Fridays Files for Bankruptcy Amid Financial Struggles](https://www.theepochtimes.com/business/tgi-fridays-files-for-bankruptcy-amid-financial-struggles-5752800)
     
-    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![TGI Fridays Files for Bankruptcy Amid Financial Struggles](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![TGI Fridays Files for Bankruptcy Amid Financial Struggles](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752836-TGIF-205x123.jpg.webp)](https://www.theepochtimes.com/business/tgi-fridays-files-for-bankruptcy-amid-financial-struggles-5752800)
 * [Georgia Logs More Than 4 Million Votes as Early Voting Period Ends](https://www.theepochtimes.com/us/georgia-logs-more-than-4-million-votes-as-early-voting-period-ends-5752727)
     
-    8hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    13hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![Georgia Logs More Than 4 Million Votes as Early Voting Period Ends](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Georgia Logs More Than 4 Million Votes as Early Voting Period Ends](https://img.theepochtimes.com/assets/uploads/2024/11/01/id5752499-early-voting-Georgia-GettyImages-2181595370KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-logs-more-than-4-million-votes-as-early-voting-period-ends-5752727)
 * [Washington Governor Activates National Guard to Counter Potential Election Violence](https://www.theepochtimes.com/us/washington-governor-activates-national-guard-to-counter-potential-election-violence-5752754)
     
-    9hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    13hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Washington Governor Activates National Guard to Counter Potential Election Violence](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Washington Governor Activates National Guard to Counter Potential Election Violence](https://img.theepochtimes.com/assets/uploads/2024/06/19/id5671590-GettyImages-1211829923-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/washington-governor-activates-national-guard-to-counter-potential-election-violence-5752754)
 * [Nvidia to Replace Intel in Dow Jones Index](https://www.theepochtimes.com/business/nvidia-to-replace-intel-in-dow-jones-index-5752761)
     
-    9hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    14hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![Nvidia to Replace Intel in Dow Jones Index](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Nvidia to Replace Intel in Dow Jones Index](https://img.theepochtimes.com/assets/uploads/2024/08/18/id5707672-Nvidia-logo-e1723974133794.-LS_1-205x123.jpg.webp)](https://www.theepochtimes.com/business/nvidia-to-replace-intel-in-dow-jones-index-5752761)
 * [Pentagon Announces $425 Million Additional Military Aid to Ukraine](https://www.theepochtimes.com/world/pentagon-announces-425-million-additional-military-aid-to-ukraine-5752714)
     
-    9hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    14hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Pentagon Announces $425 Million Additional Military Aid to Ukraine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Pentagon Announces $425 Million Additional Military Aid to Ukraine](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752910-Russia_Ukraine_War_24306326990458-SB-205x123.jpg.webp)](https://www.theepochtimes.com/world/pentagon-announces-425-million-additional-military-aid-to-ukraine-5752714)
-* [Ed Sheeran Wins Copyright Infringement Lawsuit Over ‘Thinking Out Loud’](https://www.theepochtimes.com/us/ed-sheeran-wins-copyright-infringement-lawsuit-over-thinking-out-loud-5752744)
-    
-    9hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Ed Sheeran Wins Copyright Infringement Lawsuit Over ‘Thinking Out Loud’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Ed Sheeran Wins Copyright Infringement Lawsuit Over ‘Thinking Out Loud’](https://img.theepochtimes.com/assets/uploads/2023/04/25/id5220619-Ed-Sheeran-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/ed-sheeran-wins-copyright-infringement-lawsuit-over-thinking-out-loud-5752744)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
