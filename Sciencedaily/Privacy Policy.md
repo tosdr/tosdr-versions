@@ -238,15 +238,15 @@ this week
 
 [Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
-[Educational Technology](https://www.sciencedaily.com/news/computers_math/educational_technology/)
-
 [Communications](https://www.sciencedaily.com/news/computers_math/communications/)
+
+[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
-
 [Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
+
+[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
 [Biotechnology](https://www.sciencedaily.com/news/plants_animals/biotechnology/)
 
