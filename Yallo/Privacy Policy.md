@@ -1,10 +1,10 @@
-[![null](https://sunrise-yallo.cdn.prismic.io/sunrise-yallo/1e8bd9f7-9675-449e-bf92-abfd9f45bbc6_yalloweenLogo_2023.svg)](https://www.yallo.ch/fr/ "Aller à la page d'accueil yallo.")[Aller au contenu.](#)
+[](https://www.yallo.ch/fr/ "Aller à la page d'accueil yallo.")[Aller au contenu.](#)
 
 Mobile
 
 Internet
 
-[TV](https://www.yallo.ch/fr/tv) [Aide](https://support.yallo.ch/hc/fr) [🎃 Hot Deals](https://www.yallo.ch/fr/deals)
+[TV](https://www.yallo.ch/fr/tv) [Aide](https://support.yallo.ch/hc/fr) [🔥 Black Friday Deals](https://www.yallo.ch/fr/deals)
 
 [0800 00 48 48](tel:0800004848)
 
@@ -329,9 +329,15 @@ Quick Links
 
 [Services de réparation](https://www.yallo.ch/fr/repair)
 
+[yallo Blog](https://www.yallo.ch/fr/blog)
+
 [Nouveau sur yallo?](https://www.yallo.ch/fr/welcome)
 
 Offres
+
+[Offres mobiles BLACK FRIDAY](https://www.yallo.ch/fr/blackfriday)
+
+[BLACK PACK](https://www.yallo.ch/fr/black-pack)
 
 [Abonnement mobile](https://www.yallo.ch/fr/mobile-products)
 
