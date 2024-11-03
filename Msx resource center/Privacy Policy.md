@@ -138,6 +138,7 @@ MSX Music player
 Latest reactions
 
 * [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
+* [MinQ:ExtrA by NukegaraDHP released](https://www.msx.org/news/software/en/minqextra-by-nukegaradhp-released "MinQ:ExtrA by NukegaraDHP released")
 * [Nextor 2.1.2 released](https://www.msx.org/news/en/nextor-212-released "Nextor 2.1.2 released")
 * [Christmas Quiz 2024](https://www.msx.org/news/en/christmas-quiz-2024 "Christmas Quiz 2024")
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
@@ -146,12 +147,12 @@ Latest reactions
 * [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/news/hardware/en/msx-pico-cartridge "MSX Pico - multi Flash ROM cartridge")
 * [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
 * [MGLOAD](https://www.msx.org/downloads/mgload-0 "MGLOAD")
-* [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 
 Latest forum posts
 
-* [Letter P on boot logo](https://www.msx.org/forum/msx-talk/general-discussion/letter-p-on-boot-logo "Letter P on boot logo")
+* [How do I get to the 2nd and other partitions "drives"?](https://www.msx.org/forum/msx-talk/openmsx/how-do-i-get-to-the-2nd-and-other-partitions-drives "How do I get to the 2nd and other partitions "drives"?")
 * [Can't get MoonLightSaga to work](https://www.msx.org/forum/msx-talk/software/cant-get-moonlightsaga-to-work "Can't get MoonLightSaga to work")
+* [Letter P on boot logo](https://www.msx.org/forum/msx-talk/general-discussion/letter-p-on-boot-logo "Letter P on boot logo")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=63 "List of undumped MSX software (PLEASE HELP!)")
 * [Kazuhiko Nishi's other MSX projects](https://www.msx.org/forum/msx-talk/general-discussion/kazuhiko-nishis-other-msx-projects "Kazuhiko Nishi's other MSX projects")
 * [What is the point of bits \[3:0\] in the R15 of the PSG](https://www.msx.org/forum/msx-talk/hardware/what-is-the-point-of-bits-30-in-the-r14-of-the-psg?page=1 "What is the point of bits [3:0] in the R15 of the PSG")
@@ -162,7 +163,6 @@ Latest forum posts
 * [keyboard connector for Victor HC-9x DSUB 20-pin from mouser](https://www.msx.org/forum/msx-talk/hardware/keyboard-connector-for-victor-hc-9x-dsub-20-pin-from-mouser "keyboard connector for Victor HC-9x DSUB 20-pin from mouser")
 * [The Matrix digital rain on MSX](https://www.msx.org/forum/msx-talk/development/the-matrix-digital-rain-on-msx?page=1 "The Matrix digital rain on MSX")
 * [RIP Fabio Belavenuto](https://www.msx.org/forum/msx-talk/general-discussion/rip-fabio-belavenuto?page=2 "RIP Fabio Belavenuto")
-* [Hydlide 3 tips?](https://www.msx.org/forum/msx-talk/software/hydlide-3-tips "Hydlide 3 tips?")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
