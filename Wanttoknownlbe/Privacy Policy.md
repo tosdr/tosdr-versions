@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/mind-control/5-juni-1968-robert-kennedy-vermoord/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/alien-interview/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
