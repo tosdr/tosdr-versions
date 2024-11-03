@@ -205,25 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Big Dog T-Shirt Fan Art](https://www.somethingawful.com/comedy-goldmine/big-dogs-shirts/1/)
-* [The Assboat](https://www.somethingawful.com/comedy-goldmine/the-assboat/1/)
-* [The Pizza Matrix](https://www.somethingawful.com/comedy-goldmine/the-pizza-matrix/1/)
-* [Videogame Mix-Ups](https://www.somethingawful.com/comedy-goldmine/videogame-mixups/1/)
-* [Bin Laden's Mountain Fortress](https://www.somethingawful.com/photoshop-phriday/bin-ladens-mountain/1/)
+* [Requiem: Bloodymare](https://www.somethingawful.com/mmo-roulette/bloodymare/1/)
+* [ASDA Story](https://www.somethingawful.com/mmo-roulette/asda/1/)
+* [Manga Fighter](https://www.somethingawful.com/mmo-roulette/mangafight/1/)
+* [GoonZu](https://www.somethingawful.com/mmo-roulette/goonzu/1/)
+* [Existo](https://www.somethingawful.com/movie-reviews/existo/1/)
 
 ### Popular Threads
 
 * ![](https://forumimages.somethingawful.com/forums/posticons/icon23-banme.gif) [Toodles](http://forums.somethingawful.com/showthread.php?threadid=4074209 "Toodles")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [Quack](http://forums.somethingawful.com/showthread.php?threadid=4074171 "Quack")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [damn your election is on a tuesday](http://forums.somethingawful.com/showthread.php?threadid=4074166 "damn your election is on a tuesday")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-zounds.gif) [ITT We are the wise old master who the young adventurers listen to for some](http://forums.somethingawful.com/showthread.php?threadid=4074222 "ITT We are the wise old master who the young adventurers listen to for some")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/books.png) [Moby-Dick is the greatest book I've ever read](http://forums.somethingawful.com/showthread.php?threadid=4074228 "Moby-Dick is the greatest book I've ever read")
 
 ### Random Articles
 
-* [The Tiger King and I: Part 4 - Chainsaws and Colostomy Bags](https://www.somethingawful.com/news/tiger-king4/)
-* [Transformers](https://www.somethingawful.com/rom-pit/transformers/)
-* [A Letter From An Insane Girl](https://www.somethingawful.com/comedy-goldmine/letter-from-an/1/)
-* [Lauren's Cartoon 6: The Story of the Fairy Mermaid](https://www.somethingawful.com/flash-tub/auren-cartoon-mermaid/)
-* [Joy Angeles' Erotic Female Relieving Observance website](https://www.somethingawful.com/awful-links/awful-link-3397/)
+* [Any of you queers remember Xena?](https://www.somethingawful.com/news/any-you-queers/)
+* [Me and that Falcon](https://www.somethingawful.com/news/garage-sale-falcon/1/)
+* [It's Time to be a Team Player!](https://www.somethingawful.com/news/its-time-be/)
+* [Trump vs. Trump](https://www.somethingawful.com/news/donald-trump-contradictions/)
+* [LoveByrd and Donkey Kong Universe](https://www.somethingawful.com/weekend-web/lovebyrd-donkey-kong/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
