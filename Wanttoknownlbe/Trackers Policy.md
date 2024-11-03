@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/kijk-onze-basis-trillingen-en-frequenties/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/dokter-ghis-doet-haar-mond-open/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
