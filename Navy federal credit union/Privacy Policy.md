@@ -1,6 +1,6 @@
 [Skip to Main Content](#main-content)
 
-[NFCU Mobile Logo](https://www.navyfederal.org/) [NFCU Desktop Logo](https://www.navyfederal.org/)
+[](https://www.navyfederal.org/)[](https://www.navyfederal.org/)
 
 [Sign In](https://digitalapps.navyfederal.org/signin/) [Sign Out](https://links.navyfederal.org/signout)
 
@@ -265,7 +265,7 @@ Please enter a search term
 * [Branches & ATMs](https://www.navyfederal.org/branches-atms.html)
 * Routing Number: **256074974**
 
-To continue enjoying all the features of Navy Federal Online, please use a compatible browser. You can confirm your browser capability [here](https://www.navyfederal.org/policy/browser-support.html).
+To continue enjoying all the features of Navy Federal Online, please use a compatible browser. [Confirm your browser capability.](https://www.navyfederal.org/policy/browser-support.html)
 
 For full functionality of this site it is necessary to enable JavaScript. Here are the [instructions for how to enable JavaScript in your web browser](https://www.enable-javascript.com/).
 
@@ -415,7 +415,7 @@ Policy & Disclaimers
 
 * [Navy Federal Credit Union is federally insured by NCUA](https://www.navyfederal.org/content/dam/nfculibs/pdfs/savings/1116e.pdf)
 * [Equal Housing Lender](https://www.navyfederal.org/content/dam/nfculibs/pdfs/mortgage-equity/3035_ehl_poster.pdf)
-* Equal Opportunity Employer
+* Equal Opportunity Employer, including disability/vets
 
 NMLS ID 399807
 
