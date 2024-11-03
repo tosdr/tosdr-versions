@@ -196,63 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Kobus Venter
+Shaun Gartshore
 
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=92d761e2aa4774ac8e6054945917989a7d9491b90043e68f23a897562f099adf&c=106843465)  
-Calonet
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=a9e23e942124c7acb87c621d4fcb568cbcf4f43e711805582bb18583ce5c071a&c=94077973)  
+VIR Electrical (PTY) LTD
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=92d761e2aa4774ac8e6054945917989a7d9491b90043e68f23a897562f099adf&c=11226536)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=a9e23e942124c7acb87c621d4fcb568cbcf4f43e711805582bb18583ce5c071a&c=4171554)  
+Echo Recording Studio cc
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=92d761e2aa4774ac8e6054945917989a7d9491b90043e68f23a897562f099adf&c=87963340)  
-Multi CNC Solutions CC
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=a9e23e942124c7acb87c621d4fcb568cbcf4f43e711805582bb18583ce5c071a&c=72590024)  
+SLOANE STAR MEAT MARKET
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=92d761e2aa4774ac8e6054945917989a7d9491b90043e68f23a897562f099adf&c=23825458)  
-kidoscabbie
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=a9e23e942124c7acb87c621d4fcb568cbcf4f43e711805582bb18583ce5c071a&c=112341202)  
+APTV Telecoms CC
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=92d761e2aa4774ac8e6054945917989a7d9491b90043e68f23a897562f099adf&c=81707767)  
-MSPCloud (Pty) Ltd
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=a9e23e942124c7acb87c621d4fcb568cbcf4f43e711805582bb18583ce5c071a&c=64736183)  
+NJR ICT Services (Pty) Ltd
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=92d761e2aa4774ac8e6054945917989a7d9491b90043e68f23a897562f099adf&c=7132924)  
-PROGRAPHIX PTY LTD
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=a9e23e942124c7acb87c621d4fcb568cbcf4f43e711805582bb18583ce5c071a&c=169090520)  
+Baby Toddles Infant Care
 
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=92d761e2aa4774ac8e6054945917989a7d9491b90043e68f23a897562f099adf&c=117397304)  
-Firstweb Hosting & Design
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=a9e23e942124c7acb87c621d4fcb568cbcf4f43e711805582bb18583ce5c071a&c=52163679)  
+KTEN PARTS
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=92d761e2aa4774ac8e6054945917989a7d9491b90043e68f23a897562f099adf&c=174386289)  
-LEONARD
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=a9e23e942124c7acb87c621d4fcb568cbcf4f43e711805582bb18583ce5c071a&c=142942610)  
+High Point Marketing CC t/a Leads For Africa
 
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=92d761e2aa4774ac8e6054945917989a7d9491b90043e68f23a897562f099adf&c=178930298)  
-Forgotten Goods (Pty) Ltd
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=a9e23e942124c7acb87c621d4fcb568cbcf4f43e711805582bb18583ce5c071a&c=139958489)  
+Highlands Auto Engineering
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=92d761e2aa4774ac8e6054945917989a7d9491b90043e68f23a897562f099adf&c=203178994)  
-Westside Car Audio CC
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=a9e23e942124c7acb87c621d4fcb568cbcf4f43e711805582bb18583ce5c071a&c=28044000)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=92d761e2aa4774ac8e6054945917989a7d9491b90043e68f23a897562f099adf&c=202614387)  
-IEMS (PTY) ltd
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=a9e23e942124c7acb87c621d4fcb568cbcf4f43e711805582bb18583ce5c071a&c=176777506)  
+Vplay Grafix
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=92d761e2aa4774ac8e6054945917989a7d9491b90043e68f23a897562f099adf&c=46294306)  
-Henry's Home Renovations
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=a9e23e942124c7acb87c621d4fcb568cbcf4f43e711805582bb18583ce5c071a&c=127119928)  
+Goju-Ryu Pretoria East
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=92d761e2aa4774ac8e6054945917989a7d9491b90043e68f23a897562f099adf&c=132961817)  
-TechnoDezi PTY(LTD)
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=a9e23e942124c7acb87c621d4fcb568cbcf4f43e711805582bb18583ce5c071a&c=12283476)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=92d761e2aa4774ac8e6054945917989a7d9491b90043e68f23a897562f099adf&c=168397032)  
-Nilbet T/A Waterman
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=a9e23e942124c7acb87c621d4fcb568cbcf4f43e711805582bb18583ce5c071a&c=44557367)  
+Cpower Projects t/a Pro Pure Water
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=92d761e2aa4774ac8e6054945917989a7d9491b90043e68f23a897562f099adf&c=192449366)  
-Kaylas Creations
+![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=a9e23e942124c7acb87c621d4fcb568cbcf4f43e711805582bb18583ce5c071a&c=170911628)  
+Eruca (PTY)Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
