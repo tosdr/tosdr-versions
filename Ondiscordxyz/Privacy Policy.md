@@ -115,7 +115,7 @@ Note that Bots on Discord has no access to or control over these cookies that ar
 
 By using our website, you hereby consent to our Privacy Policy.
 
-**Tip:** Sorting your searches by relevance give you more relevant results compared to other sorting options.
+**Tip:** Want to share some bots with your friends? Log in and create a list!
 
 onDiscord.xyz is not affiliated with Discord Inc.
 
