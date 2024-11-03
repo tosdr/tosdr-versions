@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Dylan Mulvaney](https://www.women.com/img/gallery/memoirs-we-cant-wait-to-read-in-2025/intro-1730318048.jpg)](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
+*  [![Dolly Parton smiling](https://www.women.com/img/gallery/why-dolly-parton-is-childless-by-choice-not-that-we-deserve-to-ask/intro-1730135417.jpg)](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
     
     [Living](https://www.women.com/category/living/)
     
-    [Living](https://www.women.com/category/living/) By Amanda Chatel
+    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
     
-    [Memoirs We Can't Wait To Read In 2025](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
-    ===================================================================================================
+    [Why Dolly Parton Is Childless By Choice (Not That We Deserve To Ask)](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
+    ===================================================================================================================================================================
     
-    There are some celebrity memoirs we'd love to see and others we wish didn't exist. But as far as 2025 goes, expect some memoirs that are really, really good.
+    The decision to have or not have a child is a big one. For Dolly Parton, her career played a major role in her choice to not have kids.
     
-    By Amanda Chatel [Read More](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
+    By Madison Emily Whisenand [Read More](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
     
-* *  [![Kylie Jenner at an event](https://www.women.com/img/gallery/kylie-jenner-is-showing-us-the-trendiest-way-to-wear-watches-in-2024/intro-1730230338.jpg)](https://www.women.com/1700478/kylie-jenner-trendiest-way-wear-watches-2024/)
+* *  [![Dylan Mulvaney](https://www.women.com/img/gallery/memoirs-we-cant-wait-to-read-in-2025/intro-1730318048.jpg)](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
+        
+        [Living](https://www.women.com/category/living/)
+        
+        [Living](https://www.women.com/category/living/) By Amanda Chatel
+        
+        ### [Memoirs We Can't Wait To Read In 2025](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
+        
+        There are some celebrity memoirs we'd love to see and others we wish didn't exist. But as far as 2025 goes, expect some memoirs that are really, really good.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
+        
+    *  [![Kylie Jenner at an event](https://www.women.com/img/gallery/kylie-jenner-is-showing-us-the-trendiest-way-to-wear-watches-in-2024/intro-1730230338.jpg)](https://www.women.com/1700478/kylie-jenner-trendiest-way-wear-watches-2024/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
@@ -66,22 +78,34 @@
         
         By Bernadette Roe [Read More](https://www.women.com/1700478/kylie-jenner-trendiest-way-wear-watches-2024/)
         
-    *  [![Ariana Grande on the red carpet](https://www.women.com/img/gallery/ariana-grande-songs-that-beautifully-explore-grief-and-loss/intro-1730293079.jpg)](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
-        
-        [Wellness](https://www.women.com/category/wellness/)
-        
-        [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
-        
-        ### [Ariana Grande Songs That Beautifully Explore Grief And Loss](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
-        
-        Ariana Grande knows exactly what it means to channel pain through music. We're revisiting the singer's most healing tracks of all time.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
-        
 
 More Stories
 ------------
 
+*  [![gwen stefani and husband](https://www.women.com/img/gallery/the-5-biggest-glow-downs-in-celebrity-fashion-history/intro-1730321365.jpg)](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    
+    ### [The 5 Biggest Glow-Downs In Celebrity Fashion History](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
+    
+    Celebrity glow-downs don't have to be bad. As Lady Gaga and Angelina Jolie age, they're leaving behind bold statement pieces in favor of timeless classics.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
+    
+*  [![Kourtney Kardashian kissing Travis Barker](https://www.women.com/img/gallery/10-awkward-celebrity-pda-moments-we-wish-we-didnt-have-to-see/intro-1730224757.jpg)](https://www.women.com/1700545/awkward-celebrity-pda-moments/)
+    
+    [Relationships](https://www.women.com/category/relationships/)
+    
+    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+    
+    ### [10 Awkward Celebrity PDA Moments We Wish We Didn't Have To See](https://www.women.com/1700545/awkward-celebrity-pda-moments/)
+    
+    We love to see celebrity couples happy, but sometimes their public displays of affection get a little too steamy. These awkward moments were definitely NSFW.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1700545/awkward-celebrity-pda-moments/)
+    
 *  [![A woman reading a book](https://www.women.com/img/gallery/the-5-best-books-of-the-2020s-for-millennials/intro-1730307958.jpg)](https://www.women.com/1701412/best-books-for-women-in-30s/)
     
     [Living](https://www.women.com/category/living/)
@@ -93,6 +117,18 @@ More Stories
     For millenials in their early 30s, it can be difficult to navigate the changing tides of adulthood. These five books offer insight, wisdom and inspiration.
     
     By Bernadette Roe [Read More](https://www.women.com/1701412/best-books-for-women-in-30s/)
+    
+*  [![Ariana Grande on the red carpet](https://www.women.com/img/gallery/ariana-grande-songs-that-beautifully-explore-grief-and-loss/intro-1730293079.jpg)](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
+    
+    [Wellness](https://www.women.com/category/wellness/)
+    
+    [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
+    
+    ### [Ariana Grande Songs That Beautifully Explore Grief And Loss](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
+    
+    Ariana Grande knows exactly what it means to channel pain through music. We're revisiting the singer's most healing tracks of all time.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
     
 *  [![Oprah Winfrey smiling](https://www.women.com/img/gallery/why-oprah-is-unapologetically-childless-by-choice/intro-1730134315.jpg)](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
     
@@ -369,42 +405,6 @@ More Stories
     It's pretty common for celebs to change up their hair, but these famous folks showed us exactly how freeing a dramatic cut can be.
     
     By Emily Hutchinson [Read More](https://www.women.com/1692420/celebs-took-stunning-leap-from-long-to-short-hair/)
-    
-*  [![Kelly Clarkson smiling](https://www.women.com/img/gallery/kelly-clarksons-stunning-hair-transformation/intro-1729180430.jpg)](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [Kelly Clarkson's Stunning Hair Transformation](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
-    
-    The only thing more impressive than Kelly Clarkson's vocal range is the range of hairstyles she's rocked so well over the years.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1690898/kelly-clarkson-stunning-hair-transformation/)
-    
-*  [![Kate Middleton smiling](https://www.women.com/img/gallery/kate-middletons-biggest-makeup-mistakes-of-all-time/intro-1729179483.jpg)](https://www.women.com/1690849/kate-middleton-biggest-makeup-mistakes-all-time/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
-    
-    ### [Kate Middleton's Biggest Makeup Mistakes Of All Time](https://www.women.com/1690849/kate-middleton-biggest-makeup-mistakes-all-time/)
-    
-    No one aces their glam every time, but it's tough when you're one of the most photographed women in the world.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1690849/kate-middleton-biggest-makeup-mistakes-all-time/)
-    
-*  [![Ariana Grande](https://www.women.com/img/gallery/love-lessons-weve-learned-from-ariana-grande/intro-1729105894.jpg)](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
-    
-    [Wellness](https://www.women.com/category/wellness/)
-    
-    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
-    
-    ### [Love Lessons We've Learned From Ariana Grande](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
-    
-    Ariana Grande has always been somewhat open about her myriad relationships. When it comes to navigating love, she's a well of knowledge.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1690200/love-lessons-learned-from-ariana-grande/)
     
 
 Back
