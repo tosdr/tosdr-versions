@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Duggie Small](https://cdn.comedy.co.uk/images/library/people/300x200/d/duggie_small.jpg "Duggie Small")](https://www.comedy.co.uk/features/comedy_chronicles/duggie-small/) Features
+
+[Comedy Chronicles: Up and away - The big fall of Duggie Small](https://www.comedy.co.uk/features/comedy_chronicles/duggie-small/)
+
 [![Joey Page](https://cdn.comedy.co.uk/images/library/people/300x200/j/joey_page_2024.jpg "Joey Page")](https://www.comedy.co.uk/live/fgwg/joey-page/) Live
 
 [First Gig, Worst Gig: Joey Page](https://www.comedy.co.uk/live/fgwg/joey-page/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![The cast of the Red Dwarf USA pilot](https://cdn.comedy.co.uk/images/library/misc/300x200/r/red_dwarf_usa_pilot.jpg "The cast of the Red Dwarf USA pilot")](https://www.comedy.co.uk/tv/red_dwarf/features/red-dwarf-usa/) TV
 
 [Red Dwarf USA: Failure to launch](https://www.comedy.co.uk/tv/red_dwarf/features/red-dwarf-usa/)
-
-[![Image shows left to right: Emmy Fyles, Joy Harvey](https://cdn.comedy.co.uk/images/library/misc/300x200/e/emmy_fyles_joy_harvey.jpg "Image shows left to right: Emmy Fyles, Joy Harvey")](https://www.comedy.co.uk/live/features/emmy-fyles-and-joy-harvey-interview/) Live
-
-[Emmy Fyles and Joy Harvey do(n't) like boys](https://www.comedy.co.uk/live/features/emmy-fyles-and-joy-harvey-interview/)
 
 #### Subscribe to our newsletters
 
