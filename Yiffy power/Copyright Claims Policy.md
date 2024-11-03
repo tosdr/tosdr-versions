@@ -83,23 +83,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 498 1
+0 506 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/sisu-directed-by-animalshenmi/)
+[](https://yiff-party.com/yiff/ethan-itakiso-and-katie-kinktober-created-by-roof-legs/)
 
-[sisu directed by animalshenmi](https://yiff-party.com/yiff-ai-premium/sisu-directed-by-animalshenmi/)
+[ethan, itakiso, and katie (kinktober) created by roof legs](https://yiff-party.com/yiff/ethan-itakiso-and-katie-kinktober-created-by-roof-legs/)
 
-0 56 0
+0 75 0
 
 October 4, 2024
 
-[](https://yiff-party.com/yiff/lamb-massive-monster-studio-and-etc-created-by-masik00masik/)
+[](https://yiff-party.com/yiff/julia-caernarvon-and-lucas-arynn-nintendo-and-etc-created-by-roly/)
 
-[lamb (massive monster (studio) and etc) created by masik00masik](https://yiff-party.com/yiff/lamb-massive-monster-studio-and-etc-created-by-masik00masik/)
+[julia caernarvon and lucas arynn (nintendo and etc) created by roly](https://yiff-party.com/yiff/julia-caernarvon-and-lucas-arynn-nintendo-and-etc-created-by-roly/)
 
-0 1 0
+0 2 0
 
 November 3, 2024
 
