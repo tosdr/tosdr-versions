@@ -205,24 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Bat Farm](https://www.somethingawful.com/icq-pranks/icq-transcript-bat/1/)
-* [Getting to Know Your Dance Dance Revolution Dancers](https://www.somethingawful.com/guides/guide-getting-know/1/)
-* [Dark Stories: Tales from Beyond the Grave (pt. 1)](https://www.somethingawful.com/movie-reviews/dark-stories-tales/1/)
-* [I don't give a fuuuuuuuck!](https://www.somethingawful.com/awfulvision/mayonaise-corn-pig/1/)
-* [Big Monsters of Rodeo!](https://www.somethingawful.com/icq-pranks/icq-transcript-big-2/1/)
+* [Big Dog T-Shirt Fan Art](https://www.somethingawful.com/comedy-goldmine/big-dogs-shirts/1/)
+* [The Assboat](https://www.somethingawful.com/comedy-goldmine/the-assboat/1/)
+* [The Pizza Matrix](https://www.somethingawful.com/comedy-goldmine/the-pizza-matrix/1/)
+* [Videogame Mix-Ups](https://www.somethingawful.com/comedy-goldmine/videogame-mixups/1/)
+* [Bin Laden's Mountain Fortress](https://www.somethingawful.com/photoshop-phriday/bin-ladens-mountain/1/)
 
 ### Popular Threads
 
+* ![](https://forumimages.somethingawful.com/forums/posticons/icon23-banme.gif) [Toodles](http://forums.somethingawful.com/showthread.php?threadid=4074209 "Toodles")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [Quack](http://forums.somethingawful.com/showthread.php?threadid=4074171 "Quack")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [damn your election is on a tuesday](http://forums.somethingawful.com/showthread.php?threadid=4074166 "damn your election is on a tuesday")
 
 ### Random Articles
 
-* [the flow forum II](https://www.somethingawful.com/awful-links/awful-link-4041/)
-* [Barry Dutter](https://www.somethingawful.com/awful-links/awful-link-2159/)
-* [Cast Fetish](https://www.somethingawful.com/awful-links/awful-link-1975/)
-* [You Can Put All Your Fears to Rest: The Force Awakens is Good](https://www.somethingawful.com/news/star-wars-fears/)
-* [Steve Bradenton Cartoons](https://www.somethingawful.com/awful-links/bradenton-political-cartoon/)
+* [The Tiger King and I: Part 4 - Chainsaws and Colostomy Bags](https://www.somethingawful.com/news/tiger-king4/)
+* [Transformers](https://www.somethingawful.com/rom-pit/transformers/)
+* [A Letter From An Insane Girl](https://www.somethingawful.com/comedy-goldmine/letter-from-an/1/)
+* [Lauren's Cartoon 6: The Story of the Fairy Mermaid](https://www.somethingawful.com/flash-tub/auren-cartoon-mermaid/)
+* [Joy Angeles' Erotic Female Relieving Observance website](https://www.somethingawful.com/awful-links/awful-link-3397/)
 
 [Random!](https://www.somethingawful.com/random/)
 
