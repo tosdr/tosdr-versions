@@ -275,13 +275,6 @@ The Maori All Blacks perform 'The Haka' before the match between Munster and the
 [When and where to watch Munster vs All Blacks XV | TV, stream, time, tickets and teams](https://www.derrynow.com/news/national-news/1645875/when-and-where-to-watch-munster-vs-all-blacks-xv-tv-stream-time-tickets-and-teams.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Investigation launched following serious sexually motivated attack on woman in Drumahoe](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Investigation launched following serious sexually motivated attack on woman in Drumahoe")](https://www.derrynow.com/news/local-news/1645846/investigation-launched-following-serious-sexually-motivated-attack-on-woman-in-drumahoe.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Investigation launched following serious sexually motivated attack on woman in Drumahoe](https://www.derrynow.com/news/local-news/1645846/investigation-launched-following-serious-sexually-motivated-attack-on-woman-in-drumahoe.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![IN PICTURES: Derry thronged for finale of Europe’s biggest Halloween celebration](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry thronged for finale of Europe’s biggest Halloween celebration")](https://www.derrynow.com/story-telling/pictures---videos/1645682/in-pictures-derry-gets-in-the-spooky-spirit-with-finale-halloween-parade.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -289,19 +282,19 @@ The Maori All Blacks perform 'The Haka' before the match between Munster and the
 [IN PICTURES: Derry gets in the spooky spirit with finale Halloween parade](https://www.derrynow.com/story-telling/pictures---videos/1645682/in-pictures-derry-gets-in-the-spooky-spirit-with-finale-halloween-parade.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Investigation launched following serious sexually motivated attack on woman in Drumahoe](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Investigation launched following serious sexually motivated attack on woman in Drumahoe")](https://www.derrynow.com/news/local-news/1645846/investigation-launched-following-serious-sexually-motivated-attack-on-woman-in-drumahoe.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Investigation launched following serious sexually motivated attack on woman in Drumahoe](https://www.derrynow.com/news/local-news/1645846/investigation-launched-following-serious-sexually-motivated-attack-on-woman-in-drumahoe.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Funeral details announced as family pays tribute to former broadcaster David Davin-Power](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Funeral details announced as family pays tribute to former broadcaster David Davin-Power")](https://www.derrynow.com/news/national-news/1645844/funeral-details-announced-as-family-pays-tribute-to-former-broadcaster-david-davin-power.html)
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
 
 [Funeral details announced as family pays tribute to former broadcaster David Davin-Power](https://www.derrynow.com/news/national-news/1645844/funeral-details-announced-as-family-pays-tribute-to-former-broadcaster-david-davin-power.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1645556/derry-death-notices-saturday-november-2-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, November 2, 2024](https://www.derrynow.com/news/deaths/1645556/derry-death-notices-saturday-november-2-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
 
 [!['Awful news' - Popular Dublin Airport restaurant announces closure until next year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Awful news' - Popular Dublin Airport restaurant announces closure until next year")](https://www.derrynow.com/news/national-news/1645827/awful-news-popular-dublin-airport-restaurant-announces-closure-until-next-year.html)
 
@@ -332,6 +325,13 @@ File photo. Credit: Rudy and Peter Skitterians/Pixabay
 
 [RTE Late Late Show viewers hail guest a 'national treasure' as Kielty ticks off bucket list](https://www.derrynow.com/news/national-news/1645763/rte-late-late-show-viewers-hail-guest-a-national-treasure-as-kielty-ticks-off-bucket-list.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Worker settles Tesco claims of sexual harassment and victimisation for £45,000](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Worker settles Tesco claims of sexual harassment and victimisation for £45,000")](https://www.derrynow.com/news/northern-ireland/1642729/worker-settles-claims-of-sexual-harassment-and-victimisation-for-45-000.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Worker settles claims of sexual harassment and victimisation for £45,000](https://www.derrynow.com/news/northern-ireland/1642729/worker-settles-claims-of-sexual-harassment-and-victimisation-for-45-000.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -509,6 +509,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1645576/derry-death-notices-sunday-november-3-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, November 3, 2024](https://www.derrynow.com/news/deaths/1645576/derry-death-notices-sunday-november-3-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1646191/institute-left-frustrated-against-10-man-annagh-at-the-brandywell.html)
 
 Benny McLaughlin in action for Institiute today. Pic by Tom Heaney, nwpresspics
@@ -518,7 +525,7 @@ Benny McLaughlin in action for Institiute today. Pic by Tom Heaney, nwpresspics
 [Institute left frustrated against 10-man Annagh at the Brandywell](https://www.derrynow.com/news/derry-sport/1646191/institute-left-frustrated-against-10-man-annagh-at-the-brandywell.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Health Minister whistle-stop visit to Women’s Aid Centre in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Health Minister whistle-stop visit to Women’s Aid Centre in Derry")](https://www.derrynow.com/news/local-news/1645618/health-minister-whistle-stop-visit-to-womens-aid-centre-in-derry.html)
+[![Health Minister whistle-stop visit to Women’s Aid Centre in Derry](https://www.derrynow.com/resizer/165/93/true/2024_11_01/IDNM_04-11-24_UU_Mike_visit_01-1730494325648.jpg--.jpg?1730494328355 "Health Minister whistle-stop visit to Women’s Aid Centre in Derry")](https://www.derrynow.com/news/local-news/1645618/health-minister-whistle-stop-visit-to-womens-aid-centre-in-derry.html)
 
 NI Health Minister Mike Nesbitt is welcomed to the Women's Aid Centre by CEO Marie Brown. Included are Alderman Darren Guy and Alderman Janice Montgomery. (Photo: Jim McCafferty Photography)
 
@@ -549,13 +556,6 @@ Getner
 
 [Investigation launched following serious sexually motivated attack on woman in Drumahoe](https://www.derrynow.com/news/local-news/1645846/investigation-launched-following-serious-sexually-motivated-attack-on-woman-in-drumahoe.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry group launches campaign to address need for mandatory training and better pay for carers](https://www.derrynow.com/resizer/165/93/true/2024_10_29/2cf7603d-e5c4-4e63-b4b7-606bd9f800a0-1730198429797_1730198443.JPG--.JPG?1730198443588 "Derry group launches campaign to address need for mandatory training and better pay for carers")](https://www.derrynow.com/news/local-news/1642054/derry-group-launches-campaign-to-addressneed-for-mandatory-training-and-better-pay-for-carers.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry group launches campaign to address need for mandatory training and better pay for carers](https://www.derrynow.com/news/local-news/1642054/derry-group-launches-campaign-to-addressneed-for-mandatory-training-and-better-pay-for-carers.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
