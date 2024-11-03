@@ -5,21 +5,21 @@ mh-nexus.de
 
 [Skip to content](#start_here)
 
- Search [Advanced search](https://forum.mh-nexus.de/search.php?sid=1e65e80b3428d9d59eb7fd0eee20a29b "Advanced search") 
+ Search [Advanced search](https://forum.mh-nexus.de/search.php?sid=bdd39e8b0df146be15dfc1346fe72ec8 "Advanced search") 
 
 * [Quick links](#)
     
-    * [Unanswered topics](https://forum.mh-nexus.de/search.php?search_id=unanswered&sid=1e65e80b3428d9d59eb7fd0eee20a29b)
-    * [Active topics](https://forum.mh-nexus.de/search.php?search_id=active_topics&sid=1e65e80b3428d9d59eb7fd0eee20a29b)
+    * [Unanswered topics](https://forum.mh-nexus.de/search.php?search_id=unanswered&sid=bdd39e8b0df146be15dfc1346fe72ec8)
+    * [Active topics](https://forum.mh-nexus.de/search.php?search_id=active_topics&sid=bdd39e8b0df146be15dfc1346fe72ec8)
     
-    * [Search](https://forum.mh-nexus.de/search.php?sid=1e65e80b3428d9d59eb7fd0eee20a29b)
+    * [Search](https://forum.mh-nexus.de/search.php?sid=bdd39e8b0df146be15dfc1346fe72ec8)
     
-* [FAQ](https://forum.mh-nexus.de/app.php/help/faq?sid=1e65e80b3428d9d59eb7fd0eee20a29b "Frequently Asked Questions")
-* [Login](https://forum.mh-nexus.de/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=1e65e80b3428d9d59eb7fd0eee20a29b "Login")
-* [Register](https://forum.mh-nexus.de/ucp.php?mode=register&sid=1e65e80b3428d9d59eb7fd0eee20a29b)
+* [FAQ](https://forum.mh-nexus.de/app.php/help/faq?sid=bdd39e8b0df146be15dfc1346fe72ec8 "Frequently Asked Questions")
+* [Login](https://forum.mh-nexus.de/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=bdd39e8b0df146be15dfc1346fe72ec8 "Login")
+* [Register](https://forum.mh-nexus.de/ucp.php?mode=register&sid=bdd39e8b0df146be15dfc1346fe72ec8)
 
-* [mh-nexus.de](http://mh-nexus.de/) [Board index](https://forum.mh-nexus.de/index.php?sid=1e65e80b3428d9d59eb7fd0eee20a29b)
-* [Search](https://forum.mh-nexus.de/search.php?sid=1e65e80b3428d9d59eb7fd0eee20a29b "View the advanced search options")
+* [mh-nexus.de](http://mh-nexus.de/) [Board index](https://forum.mh-nexus.de/index.php?sid=bdd39e8b0df146be15dfc1346fe72ec8)
+* [Search](https://forum.mh-nexus.de/search.php?sid=bdd39e8b0df146be15dfc1346fe72ec8 "View the advanced search options")
 
 mh-nexus.de - Privacy policy
 ----------------------------
@@ -34,14 +34,16 @@ Your account will at a bare minimum contain a uniquely identifiable name (herein
   
 Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account at “mh-nexus.de”, so please guard it carefully and under no circumstance will anyone affiliated with “mh-nexus.de”, phpBB or another 3rd party, legitimately ask you for your password. Should you forget your password for your account, you can use the “I forgot my password” feature provided by the phpBB software. This process will ask you to submit your user name and your email, then the phpBB software will generate a new password to reclaim your account.
 
-* [mh-nexus.de](http://mh-nexus.de/) [Board index](https://forum.mh-nexus.de/index.php?sid=1e65e80b3428d9d59eb7fd0eee20a29b)
+* [mh-nexus.de](http://mh-nexus.de/) [Board index](https://forum.mh-nexus.de/index.php?sid=bdd39e8b0df146be15dfc1346fe72ec8)
 * All times are UTC+01:00
-* [Delete cookies](https://forum.mh-nexus.de/ucp.php?mode=delete_cookies&sid=1e65e80b3428d9d59eb7fd0eee20a29b)
+* [Delete cookies](https://forum.mh-nexus.de/ucp.php?mode=delete_cookies&sid=bdd39e8b0df146be15dfc1346fe72ec8)
 
 Powered by [phpBB](https://www.phpbb.com/)® Forum Software © phpBB Limited
 
-[Privacy](https://forum.mh-nexus.de/ucp.php?mode=privacy&sid=1e65e80b3428d9d59eb7fd0eee20a29b "Privacy") | [Terms](https://forum.mh-nexus.de/ucp.php?mode=terms&sid=1e65e80b3428d9d59eb7fd0eee20a29b "Terms")
+[Privacy](https://forum.mh-nexus.de/ucp.php?mode=privacy&sid=bdd39e8b0df146be15dfc1346fe72ec8 "Privacy") | [Terms](https://forum.mh-nexus.de/ucp.php?mode=terms&sid=bdd39e8b0df146be15dfc1346fe72ec8 "Terms")
 
 [](#)
 
 [](#)
+
+![](/app.php/cron/cron.task.core.tidy_search?sid=bdd39e8b0df146be15dfc1346fe72ec8)
