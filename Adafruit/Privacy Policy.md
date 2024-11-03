@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Elegance is not a dispensable luxury but a quality that decides between success and failure”
+“ The art of progress is to preserve order amid change and to preserve change amid order”
 
-[Edsger W. Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
+[Alfred North Whitehead](http://en.wikipedia.org/wiki/Alfred_North_Whitehead)
 
 [](https://www.adafruit.com/about)
 
