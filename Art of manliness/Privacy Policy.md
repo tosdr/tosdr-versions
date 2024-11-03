@@ -131,6 +131,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [Bro Splits: Are They Right For You?](https://www.artofmanliness.com/health-fitness/fitness/bro-splits/)
 
+[![A person is skillfully tending to the injured leg of another lying on the ground, marked by a red arrow, treating what appears to be a gunshot wound.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/how-to-treat-a-gunshot-wound/)
+
+[Skill of the Week: Treat a Gunshot Wound](https://www.artofmanliness.com/health-fitness/health/how-to-treat-a-gunshot-wound/)
+
 [![Four of the best protein bars—Peak Protein, David Protein Bar, MET-Rx, and KIND Protein—are artfully displayed against a neutral background, showcasing their appeal as top choices for protein supplements.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/the-4-best-protein-bars/)
 
 [The 4 Best Protein Bars](https://www.artofmanliness.com/health-fitness/the-4-best-protein-bars/)
@@ -142,10 +146,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![A person in a white shirt demonstrates the Skill of the Week by tending to another's leg injury in a forest. The injured individual, clad in an orange jacket, lies on the ground as they receive care and treatment for shock amidst the tranquil woodland setting.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/how-to-treat-someone-for-shock/)
 
 [Skill of the Week: Treat Someone for Shock](https://www.artofmanliness.com/health-fitness/health/how-to-treat-someone-for-shock/)
-
-[![A hand holds a scoop of protein powder, hovering above an open blue container, with a hint of creatine ready to boost your workout mix.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-1024-the-safe-effective-supplement-that-can-improve-your-body-and-brain/)
-
-[Podcast #1,024: The Safe, Effective Supplement That Can Improve Your Body and Brain](https://www.artofmanliness.com/health-fitness/health/podcast-1024-the-safe-effective-supplement-that-can-improve-your-body-and-brain/)
 
 [![A group of men in swim trunks standing in a line participate in History's Hardest P.E. Program.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/program-review/the-insanely-difficult-standards-of-historys-hardest-p-e-program/)
 
