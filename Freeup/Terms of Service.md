@@ -405,30 +405,30 @@ Build. Track. Sign Contracts.
 |     |     |
 | --- | --- |
 | **Timestamp** | **Audit** |
-| October 10, 2019 10:35 am EDT | Client Terms of Use Uploaded by Matt Harrison - matt@freeeup.com IP 145.224.104.42 |
-| November 6, 2019 2:55 pm EDT | Nathan Hirsch - nathan@freeeup.com added by Connor Gillivan - connor@freeeup.com as a CC'd Recipient Ip: 67.164.190.54, 127.0.0.1 |
-| February 12, 2020 3:11 pm EDT | Nathan Hirsch - nathan@freeeup.com added by Connor Gillivan - connor@freeeup.com as a CC'd Recipient Ip: 47.205.73.94, 127.0.0.1 |
-| March 11, 2020 12:52 pm EDT | Nathan Hirsch - nathan@freeeup.com added by Connor Gillivan - connor@freeeup.com as a CC'd Recipient Ip: 47.205.73.94 |
-| March 18, 2020 11:19 am EDT | Nathan Hirsch - nathan@freeeup.com added by Connor Gillivan - connor@freeeup.com as a CC'd Recipient Ip: 75.76.54.155 |
-| April 24, 2020 4:35 pm EDT | Nathan Hirsch - nathan@freeeup.com added by Connor Gillivan - connor@freeeup.com as a CC'd Recipient Ip: 75.76.54.155 |
-| April 24, 2020 5:19 pm EDT | Nathan Hirsch - nathan@freeeup.com added by Connor Gillivan - connor@freeeup.com as a CC'd Recipient Ip: 75.76.54.155 |
-| June 6, 2020 10:50 am EDT | Document owner connor@freeeup.com has handed over this document to matt@freeeup.com 2020-06-06 10:50:13 - 75.76.112.50 |
-| June 6, 2020 10:50 am EDT | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 75.76.112.50 |
-| August 18, 2020 12:31 am EDT | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 75.76.64.133 |
-| August 27, 2020 4:37 pm EDT | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 75.76.64.133 |
-| August 28, 2020 12:07 pm EDT | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 47.201.160.204 |
-| September 13, 2020 10:20 pm EDT | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 75.76.64.133 |
-| September 22, 2020 4:41 pm EDT | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 75.76.64.133 |
-| September 22, 2020 4:45 pm EDT | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 75.76.64.133 |
-| January 25, 2021 2:20 pm EDT | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 47.201.170.170 |
-| August 14, 2021 8:32 am EDT | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 35.142.164.29 |
-| January 17, 2022 11:40 am EDT | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 47.201.171.87 |
-| January 18, 2022 9:45 pm EDT | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 35.142.164.29 |
-| January 18, 2022 10:36 pm EDT | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 35.142.164.29 |
-| February 24, 2022 1:29 pm EDT | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 47.201.168.141 |
-| February 24, 2022 4:20 pm EDT | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 47.201.168.141 |
-| December 4, 2022 2:25 pm EDT | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 47.201.172.54 |
-| July 27, 2023 12:08 pm EDT | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 145.224.104.42 |
+| October 10, 2019 10:35 am EST | Client Terms of Use Uploaded by Matt Harrison - matt@freeeup.com IP 145.224.104.42 |
+| November 6, 2019 2:55 pm EST | Nathan Hirsch - nathan@freeeup.com added by Connor Gillivan - connor@freeeup.com as a CC'd Recipient Ip: 67.164.190.54, 127.0.0.1 |
+| February 12, 2020 3:11 pm EST | Nathan Hirsch - nathan@freeeup.com added by Connor Gillivan - connor@freeeup.com as a CC'd Recipient Ip: 47.205.73.94, 127.0.0.1 |
+| March 11, 2020 12:52 pm EST | Nathan Hirsch - nathan@freeeup.com added by Connor Gillivan - connor@freeeup.com as a CC'd Recipient Ip: 47.205.73.94 |
+| March 18, 2020 11:19 am EST | Nathan Hirsch - nathan@freeeup.com added by Connor Gillivan - connor@freeeup.com as a CC'd Recipient Ip: 75.76.54.155 |
+| April 24, 2020 4:35 pm EST | Nathan Hirsch - nathan@freeeup.com added by Connor Gillivan - connor@freeeup.com as a CC'd Recipient Ip: 75.76.54.155 |
+| April 24, 2020 5:19 pm EST | Nathan Hirsch - nathan@freeeup.com added by Connor Gillivan - connor@freeeup.com as a CC'd Recipient Ip: 75.76.54.155 |
+| June 6, 2020 10:50 am EST | Document owner connor@freeeup.com has handed over this document to matt@freeeup.com 2020-06-06 10:50:13 - 75.76.112.50 |
+| June 6, 2020 10:50 am EST | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 75.76.112.50 |
+| August 18, 2020 12:31 am EST | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 75.76.64.133 |
+| August 27, 2020 4:37 pm EST | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 75.76.64.133 |
+| August 28, 2020 12:07 pm EST | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 47.201.160.204 |
+| September 13, 2020 10:20 pm EST | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 75.76.64.133 |
+| September 22, 2020 4:41 pm EST | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 75.76.64.133 |
+| September 22, 2020 4:45 pm EST | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 75.76.64.133 |
+| January 25, 2021 2:20 pm EST | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 47.201.170.170 |
+| August 14, 2021 8:32 am EST | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 35.142.164.29 |
+| January 17, 2022 11:40 am EST | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 47.201.171.87 |
+| January 18, 2022 9:45 pm EST | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 35.142.164.29 |
+| January 18, 2022 10:36 pm EST | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 35.142.164.29 |
+| February 24, 2022 1:29 pm EST | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 47.201.168.141 |
+| February 24, 2022 4:20 pm EST | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 47.201.168.141 |
+| December 4, 2022 2:25 pm EST | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 47.201.172.54 |
+| July 27, 2023 12:08 pm EST | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 145.224.104.42 |
 
 ![ Audit trial Qr code ](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0AQMAAABuVIRkAAAABlBMVEX///8AAABVwtN+AAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAOlJREFUOI2dlcERhUAMQukg/XeZDvhA/N5xdcZ9HjAhyQqSqwtYeIuWF7n3efbMlRpnJttPDAyH33koxf3ISoKYN6WWbeKzXn8b9pJaSvJfDSsKmYlZXYaW6SfXhiqtnlMHUornZ82rcNyS47BQ8/IScTmvH2tWKGPZ5NMz46dWuqlnZ6J4HFby6dh9vHZSwunHkl2QuXnMULSscKzodDzSNccJzJUkzd2x3LQlepWuqjkaWL8En080nHm26vVUzXeIpJ7e95whmhxqzucTq5ddkfd8LdmCPFd6VgieZ9xfqeb8z+BZiGLLPzd/wdIWg/LQAAAAAElFTkSuQmCC)
 
