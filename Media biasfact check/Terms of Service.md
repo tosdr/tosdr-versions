@@ -211,16 +211,16 @@ No related posts.
 
 #### Today’s Top Page Views
 
-* [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [AtlasIntel Polling - Bias and Credibility](https://mediabiasfactcheck.com/atlasintel-polling-bias-and-credibility/)
+* [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
+* [Emerson College Polling - Bias and Credibility](https://mediabiasfactcheck.com/emerson-college-polling-bias-and-credibility/)
 * [Marist Poll - Bias and Credibility](https://mediabiasfactcheck.com/marist-poll-bias-and-credibility/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
-* [Echelon Insights - Bias and Credibility](https://mediabiasfactcheck.com/echelon-insights-bias-and-credibility/)
-* [Emerson College Polling - Bias and Credibility](https://mediabiasfactcheck.com/emerson-college-polling-bias-and-credibility/)
-* [Newsweek - Bias and Credibility](https://mediabiasfactcheck.com/newsweek/)
-* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
+* [MBFC's Daily Vetted Fact Checks for 11/02/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/02/mbfcs-daily-vetted-fact-checks-for-11-02-2024-weekend-edition/)
 * [Electoral College Map 2024 - Harris vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
+* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [Echelon Insights - Bias and Credibility](https://mediabiasfactcheck.com/echelon-insights-bias-and-credibility/)
+* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 
 #### Subscribe via Email
 
