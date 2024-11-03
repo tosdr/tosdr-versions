@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
-* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
-* [Beitrags­bemessungs­grenzen: Sozial­abgaben steigen 2025 kräftig](https://www.test.de/Beitragsbemessungsgrenzen-Sozialabgaben-steigen-2025-kraeftig-6154427-0/ "Beitragsbemessungsgrenzen - Sozialabgaben steigen 2025 kräftig")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
+* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
+* [Immobilie erben: Haus geerbt – was jetzt zu tun ist](https://www.test.de/Haus-geerbt-6092774-0/ "Immobilie erben - Haus geerbt – was jetzt zu tun ist")
+* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
+* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
+* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
-* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
-* [Beitrags­bemessungs­grenzen: Sozial­abgaben steigen 2025 kräftig](https://www.test.de/Beitragsbemessungsgrenzen-Sozialabgaben-steigen-2025-kraeftig-6154427-0/ "Beitragsbemessungsgrenzen - Sozialabgaben steigen 2025 kräftig")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
+* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
+* [Immobilie erben: Haus geerbt – was jetzt zu tun ist](https://www.test.de/Haus-geerbt-6092774-0/ "Immobilie erben - Haus geerbt – was jetzt zu tun ist")
+* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
+* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
+* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
-* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
-* [Beitrags­bemessungs­grenzen: Sozial­abgaben steigen 2025 kräftig](https://www.test.de/Beitragsbemessungsgrenzen-Sozialabgaben-steigen-2025-kraeftig-6154427-0/ "Beitragsbemessungsgrenzen - Sozialabgaben steigen 2025 kräftig")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
+* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
+* [Immobilie erben: Haus geerbt – was jetzt zu tun ist](https://www.test.de/Haus-geerbt-6092774-0/ "Immobilie erben - Haus geerbt – was jetzt zu tun ist")
+* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
+* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
+* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
-* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
-* [Beitrags­bemessungs­grenzen: Sozial­abgaben steigen 2025 kräftig](https://www.test.de/Beitragsbemessungsgrenzen-Sozialabgaben-steigen-2025-kraeftig-6154427-0/ "Beitragsbemessungsgrenzen - Sozialabgaben steigen 2025 kräftig")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
+* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
+* [Immobilie erben: Haus geerbt – was jetzt zu tun ist](https://www.test.de/Haus-geerbt-6092774-0/ "Immobilie erben - Haus geerbt – was jetzt zu tun ist")
+* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
+* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
+* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
 
 Service Stiftung Warentest
 
