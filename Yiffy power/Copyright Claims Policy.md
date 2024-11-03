@@ -83,21 +83,21 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 506 1
+0 526 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/ethan-itakiso-and-katie-kinktober-created-by-roof-legs/)
+[](https://yiff-party.com/yiff/bandai-namco-and-etc-created-by-dragonweirdo/)
 
-[ethan, itakiso, and katie (kinktober) created by roof legs](https://yiff-party.com/yiff/ethan-itakiso-and-katie-kinktober-created-by-roof-legs/)
+[bandai namco and etc created by dragonweirdo](https://yiff-party.com/yiff/bandai-namco-and-etc-created-by-dragonweirdo/)
 
-0 75 0
+0 65 0
 
-October 4, 2024
+October 5, 2024
 
-[](https://yiff-party.com/yiff/julia-caernarvon-and-lucas-arynn-nintendo-and-etc-created-by-roly/)
+[](https://yiff-party.com/yiff/dreik-and-hatsu-created-by-drakeraynier/)
 
-[julia caernarvon and lucas arynn (nintendo and etc) created by roly](https://yiff-party.com/yiff/julia-caernarvon-and-lucas-arynn-nintendo-and-etc-created-by-roly/)
+[dreik and hatsu created by drakeraynier](https://yiff-party.com/yiff/dreik-and-hatsu-created-by-drakeraynier/)
 
 0 2 0
 
