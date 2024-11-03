@@ -130,10 +130,10 @@ English
 * Top Trends
     * [Singham Again Review](https://www.news18.com/movies/singham-again-review-rohit-shetty-deserves-brownie-points-for-ambition-ajay-devgn-leaves-you-wanting-for-more-9106060.html)
     * [Bhool Bhulaiyaa 3 Review](https://www.news18.com/movies/bhool-bhulaiyaa-3-review-kartik-aaryan-vidya-balan-and-madhuri-dixits-star-power-cant-save-this-lackluster-film-9106040.html)
-    * [India vs NZ](https://www.news18.com/cricket/ind-vs-nz-3rd-test-day-2-india-turn-tables-at-wankhede-against-kiwis-as-shubman-gill-spinners-shine-9107196.html)
-    * [India-Canada Ties](https://www.news18.com/world/absurd-india-protests-canadian-ministers-allegations-against-amit-shah-9107088.html)
+    * [India vs NZ](https://www.news18.com/cricket/ind-vs-nz-live-score-3rd-test-day-3-india-national-cricket-team-vs-new-zealand-national-cricket-team-commentary-streaming-scorecard-mumbai-wankhede-liveblog-9107448.html)
+    * [India-Canada Ties](https://www.news18.com/world/canadian-strategy-to-attack-mea-on-india-being-named-as-cyber-adversary-9107483.html)
     * [US Elections](https://www.news18.com/elections/us-election/)
-    * [SRK Birthday](https://www.news18.com/movies/suhana-khan-drops-pics-with-shah-rukh-khan-aryan-wishes-her-dad-on-his-59th-birthday-love-you-the-most-9106951.html)
+    * [West Asia Tensions](https://www.news18.com/world/hezbollah-commander-jaafar-khader-faour-responsible-for-rocket-attack-on-children-killed-in-lebanon-israel-latest-news-9107574.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -171,10 +171,10 @@ In Trends:
 
 * [Singham Again Review](https://www.news18.com/movies/singham-again-review-rohit-shetty-deserves-brownie-points-for-ambition-ajay-devgn-leaves-you-wanting-for-more-9106060.html)
 * [Bhool Bhulaiyaa 3 Review](https://www.news18.com/movies/bhool-bhulaiyaa-3-review-kartik-aaryan-vidya-balan-and-madhuri-dixits-star-power-cant-save-this-lackluster-film-9106040.html)
-* [India vs NZ](https://www.news18.com/cricket/ind-vs-nz-3rd-test-day-2-india-turn-tables-at-wankhede-against-kiwis-as-shubman-gill-spinners-shine-9107196.html)
-* [India-Canada Ties](https://www.news18.com/world/absurd-india-protests-canadian-ministers-allegations-against-amit-shah-9107088.html)
+* [India vs NZ](https://www.news18.com/cricket/ind-vs-nz-live-score-3rd-test-day-3-india-national-cricket-team-vs-new-zealand-national-cricket-team-commentary-streaming-scorecard-mumbai-wankhede-liveblog-9107448.html)
+* [India-Canada Ties](https://www.news18.com/world/canadian-strategy-to-attack-mea-on-india-being-named-as-cyber-adversary-9107483.html)
 * [US Elections](https://www.news18.com/elections/us-election/)
-* [SRK Birthday](https://www.news18.com/movies/suhana-khan-drops-pics-with-shah-rukh-khan-aryan-wishes-her-dad-on-his-59th-birthday-love-you-the-most-9106951.html)
+* [West Asia Tensions](https://www.news18.com/world/hezbollah-commander-jaafar-khader-faour-responsible-for-rocket-attack-on-children-killed-in-lebanon-israel-latest-news-9107574.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
