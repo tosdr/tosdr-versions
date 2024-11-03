@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
-* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
-* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
-* [Diät­konzepte im Test: Welche Diät beim Abnehmen hilft](https://www.test.de/Diaetkonzepte-im-Test-Welche-Diaet-beim-Abnehmen-hilft-6072458-0/ "Diätkonzepte im Test - Welche Diät beim Abnehmen hilft")
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Pauschalr­eisen: Insolventer Reise­ver­anstalter FTI – alle Reisen abge­sagt](https://www.test.de/Pauschalreisen-Reiseveranstalter-FTI-insolvent-was-das-fuer-Kunden-heisst-6125329-0/ "Pauschalreisen - Insolventer Reiseveranstalter FTI – alle Reisen abgesagt")
+* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
+* [Onlinebroker: Vision Capital unerlaubt](https://www.test.de/Onlinebroker-Vision-Capital-unerlaubt-6063664-0/ "Onlinebroker - Vision Capital unerlaubt")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Erdnuss­butter im Test: Wenig Zucker − reichlich Peanuts](https://www.test.de/Erdnussbutter-im-Test-Wenig-Zucker-reichlich-Peanuts-6029831-0/ "Erdnussbutter im Test - Wenig Zucker − reichlich Peanuts")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
-* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
-* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
-* [Diät­konzepte im Test: Welche Diät beim Abnehmen hilft](https://www.test.de/Diaetkonzepte-im-Test-Welche-Diaet-beim-Abnehmen-hilft-6072458-0/ "Diätkonzepte im Test - Welche Diät beim Abnehmen hilft")
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Pauschalr­eisen: Insolventer Reise­ver­anstalter FTI – alle Reisen abge­sagt](https://www.test.de/Pauschalreisen-Reiseveranstalter-FTI-insolvent-was-das-fuer-Kunden-heisst-6125329-0/ "Pauschalreisen - Insolventer Reiseveranstalter FTI – alle Reisen abgesagt")
+* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
+* [Onlinebroker: Vision Capital unerlaubt](https://www.test.de/Onlinebroker-Vision-Capital-unerlaubt-6063664-0/ "Onlinebroker - Vision Capital unerlaubt")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Erdnuss­butter im Test: Wenig Zucker − reichlich Peanuts](https://www.test.de/Erdnussbutter-im-Test-Wenig-Zucker-reichlich-Peanuts-6029831-0/ "Erdnussbutter im Test - Wenig Zucker − reichlich Peanuts")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
-* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
-* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
-* [Diät­konzepte im Test: Welche Diät beim Abnehmen hilft](https://www.test.de/Diaetkonzepte-im-Test-Welche-Diaet-beim-Abnehmen-hilft-6072458-0/ "Diätkonzepte im Test - Welche Diät beim Abnehmen hilft")
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Pauschalr­eisen: Insolventer Reise­ver­anstalter FTI – alle Reisen abge­sagt](https://www.test.de/Pauschalreisen-Reiseveranstalter-FTI-insolvent-was-das-fuer-Kunden-heisst-6125329-0/ "Pauschalreisen - Insolventer Reiseveranstalter FTI – alle Reisen abgesagt")
+* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
+* [Onlinebroker: Vision Capital unerlaubt](https://www.test.de/Onlinebroker-Vision-Capital-unerlaubt-6063664-0/ "Onlinebroker - Vision Capital unerlaubt")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Erdnuss­butter im Test: Wenig Zucker − reichlich Peanuts](https://www.test.de/Erdnussbutter-im-Test-Wenig-Zucker-reichlich-Peanuts-6029831-0/ "Erdnussbutter im Test - Wenig Zucker − reichlich Peanuts")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
-* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
-* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
-* [Diät­konzepte im Test: Welche Diät beim Abnehmen hilft](https://www.test.de/Diaetkonzepte-im-Test-Welche-Diaet-beim-Abnehmen-hilft-6072458-0/ "Diätkonzepte im Test - Welche Diät beim Abnehmen hilft")
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Pauschalr­eisen: Insolventer Reise­ver­anstalter FTI – alle Reisen abge­sagt](https://www.test.de/Pauschalreisen-Reiseveranstalter-FTI-insolvent-was-das-fuer-Kunden-heisst-6125329-0/ "Pauschalreisen - Insolventer Reiseveranstalter FTI – alle Reisen abgesagt")
+* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
+* [Onlinebroker: Vision Capital unerlaubt](https://www.test.de/Onlinebroker-Vision-Capital-unerlaubt-6063664-0/ "Onlinebroker - Vision Capital unerlaubt")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Erdnuss­butter im Test: Wenig Zucker − reichlich Peanuts](https://www.test.de/Erdnussbutter-im-Test-Wenig-Zucker-reichlich-Peanuts-6029831-0/ "Erdnussbutter im Test - Wenig Zucker − reichlich Peanuts")
 
 Service Stiftung Warentest
 
