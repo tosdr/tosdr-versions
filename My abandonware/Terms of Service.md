@@ -105,20 +105,20 @@ Top downloads
 
 Latest releases
 
-* [Circus](https://www.myabandonware.com/game/circus-4g1)
-* [Cyberball](https://www.myabandonware.com/game/cyberball-6de)
-* [Cyberball 2072](https://www.myabandonware.com/game/cyberball-2072-jyr)
-* [The Incredible Hulk](https://www.myabandonware.com/game/the-incredible-hulk-td5)
-* [Cyber Troopers Virtual On](https://www.myabandonware.com/game/cyber-troopers-virtual-on-baq)
+* [Untouchable](https://www.myabandonware.com/game/untouchable-t5u)
+* [Treasure Hunter](https://www.myabandonware.com/game/treasure-hunter-t5t)
+* [Thunder Shooting](https://www.myabandonware.com/game/thunder-shooting-t5s)
+* [Tennis Pro '92](https://www.myabandonware.com/game/tennis-pro-92-t5r)
+* [Tasac 2010](https://www.myabandonware.com/game/tasac-2010-t5q)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Bubble Trouble: Golly! Ghost! 2](https://www.myabandonware.com/game/bubble-trouble-golly-ghost-2-s5x)
-* [Pinball Graffiti](https://www.myabandonware.com/game/pinball-graffiti-p5j)
-* [Jeopardy!](https://www.myabandonware.com/game/jeopardy-plu)
+* [Multi Sports](https://www.myabandonware.com/game/multi-sports-k8v)
+* [The Universal Military Simulator: The American Civil War - Scenario Disk One](https://www.myabandonware.com/game/the-universal-military-simulator-the-american-civil-war-scenario-disk-one-ah8)
+* [Rolling Crash](https://www.myabandonware.com/game/rolling-crash-sdv)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
