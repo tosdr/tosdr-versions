@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-0d6fadd877c703d07a545db344278067
+3e915d6f2ea30fa495d1cba4af1a6718
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Emerald and silver clasp](https://sojourner.biz/images/cache/SKU0435-1front.200.jpg)](https://sojourner.biz/clasps/glass/emerald-and-silver-clasp.html "Emerald and silver clasp")
+[![Swarovski eyeball clasp](https://sojourner.biz/images/cache/SKU0155variations.200.jpg)](https://sojourner.biz/clasps/swarovski/swarovski-eyeball-clasp.html "Swarovski eyeball clasp")
 
-#### [Emerald and silver clasp](https://sojourner.biz/clasps/glass/emerald-and-silver-clasp.html "Emerald and silver clasp")
+#### [Swarovski eyeball clasp](https://sojourner.biz/clasps/swarovski/swarovski-eyeball-clasp.html "Swarovski eyeball clasp")
 
-$28.50
+$23.00
 
 ### Best Sellers
 
