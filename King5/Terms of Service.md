@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-educacin-de-votantes-inundaciones-mortales-en-espaa/281-d7afe3a4-69f8-4d70-9d35-a05035b93e21)
+        
+        #### [Cinco Cosas: Educación de votantes, Inundaciones mortales en España, y cobertura de salud en el estado de Washington](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-educacin-de-votantes-inundaciones-mortales-en-espaa/281-d7afe3a4-69f8-4d70-9d35-a05035b93e21)
+        
     *  [![](https://media.king5.com/assets/KING/images/d58fd671-813a-43c6-af08-fdd7c0700976/20241103T050918/d58fd671-813a-43c6-af08-fdd7c0700976_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d58fd671-813a-43c6-af08-fdd7c0700976/20241103T050918/d58fd671-813a-43c6-af08-fdd7c0700976_360x203.jpg)](https://www.king5.com/article/news/local/questions-over-lynnwood-station-parking-sound-transit-says-ridership-steady/281-34b1440a-7561-4460-a2a4-e2258007e47d)
         
         #### [Amid questions over Lynnwood station parking, Sound Transit says ridership is steady](https://www.king5.com/article/news/local/questions-over-lynnwood-station-parking-sound-transit-says-ridership-steady/281-34b1440a-7561-4460-a2a4-e2258007e47d)
-        
-    *  [![](https://media.king5.com/assets/KING/images/7dc502e5-fd9b-4a45-bb07-40be3dcea5e0/20241102T144855/7dc502e5-fd9b-4a45-bb07-40be3dcea5e0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7dc502e5-fd9b-4a45-bb07-40be3dcea5e0/20241102T144855/7dc502e5-fd9b-4a45-bb07-40be3dcea5e0_360x203.jpg)](https://www.king5.com/article/news/local/boulder-blocks-sr-11-south-bellingham-rockslide/281-68f81431-f516-4d71-9bed-1b80595bb541)
-        
-        #### [SR 11 south of Bellingham reopens after 'car-sized' boulders blocked road in rockslide](https://www.king5.com/article/news/local/boulder-blocks-sr-11-south-bellingham-rockslide/281-68f81431-f516-4d71-9bed-1b80595bb541)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/8ce9b990-e097-408a-9b67-343447d04be7/20241103T053005/8ce9b990-e097-408a-9b67-343447d04be7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8ce9b990-e097-408a-9b67-343447d04be7/20241103T053005/8ce9b990-e097-408a-9b67-343447d04be7_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/f7e9c299-acb9-4055-9a71-82d8b856091a/20241103T194441/f7e9c299-acb9-4055-9a71-82d8b856091a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f7e9c299-acb9-4055-9a71-82d8b856091a/20241103T194441/f7e9c299-acb9-4055-9a71-82d8b856091a_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-48°
+53°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
