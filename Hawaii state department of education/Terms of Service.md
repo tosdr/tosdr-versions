@@ -4,8 +4,6 @@
 
                         
 
-* ............................ ![](/PublishingImages/masterpage/alert_icon.png) **_Important Alert:_** Waimānalo El & Inter is closed today, 11/1, due to water main break
-
 [![logo](/PublishingImages/masterpage/hidoe-logo.png)](https://www.hawaiipublicschools.org/)
 
 Hawaiʻi State Department of Education  
