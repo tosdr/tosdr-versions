@@ -182,6 +182,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [CMP Class Teaches Advanced M1 Garand Rifle Maintenance](https://www.thegunpage.com/cmp-class-teaches-advanced-m1-garand-rifle-maintenance/10611631)
 * [New Podcast, Built to Survive, Launches](https://www.thegunpage.com/new-podcast-built-to-survive-launches/10611625)
 * [Silencer Saturday #353: The SilencerCo Velos LBP](https://www.thegunpage.com/silencer-saturday-353-the-silencerco-velos-lbp/10611627)
 * [Ballistics for Dummies: A Beginner’s Guide to Bullet Flight](https://www.thegunpage.com/ballistics-for-dummies-a-beginners-guide-to-bullet-flight/10611619)
@@ -190,7 +191,6 @@ Recent Posts
 * [POTD: Spooky Zastava USA M90](https://www.thegunpage.com/potd-spooky-zastava-usa-m90/10611616)
 * [TFB Podcast Roundup 153: The November 1st Roundup](https://www.thegunpage.com/tfb-podcast-roundup-153-the-november-1st-roundup/10611617)
 * [More Hunters Than Ever Are Using AR-Style Rifles](https://www.thegunpage.com/more-hunters-than-ever-are-using-ar-style-rifles/10611611)
-* [How to Quickly Zero Your Rifle and Save on Ammo](https://www.thegunpage.com/how-to-quickly-zero-your-rifle-and-save-on-ammo/10611607)
 * [New Calibers For Savage 110 Magpul Scout](https://www.thegunpage.com/new-calibers-for-savage-110-magpul-scout/10611609)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
