@@ -19,10 +19,6 @@ Jacobin
 
 [J](https://jacobin.com/)
 
-Access granted by
-
-TULANE UNIVERSITY LIB
-
 * [Subscribe](https://jacobin.com/subscribe)
 * [Back Issues](https://jacobin.com/storeissues)
 * [Donate](https://jacobin.com/donate)
@@ -37,10 +33,6 @@ TULANE UNIVERSITY LIB
 * [Advertise](https://jacobin.com/advertise)
 
  Search Icon
-
-Institutional access granted by TULANE UNIVERSITY LIB
-
-Log in below to access your personal account
 
 Privacy Policy
 ==============
