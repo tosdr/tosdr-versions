@@ -129,11 +129,11 @@ English
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
     * [US Elections](https://www.news18.com/world/us-election-2024-live-updates-over-41-million-americans-cast-their-votes-in-early-voting-liveblog-9107950.html)
+    * [Rupali Ganguly](https://www.news18.com/movies/rupali-ganguly-stepdaughter-says-she-feeds-her-dad-medications-like-rhea-chakraborty-did-to-sushant-singh-rajput-9108113.html)
     * [Canada Temple Attack](https://www.news18.com/world/devotees-attacked-at-hindu-temple-in-canada-by-khalistani-extremists-trudeau-condemns-9108053.html)
+    * [Maharashtra Elections](https://www.news18.com/elections/)
     * [NTPC Green Energy IPO](https://www.news18.com/business/ipo/ntpc-green-energy-ipo-opening-date-size-price-all-you-need-to-know-9107634.html)
     * [Sunil Grover](https://www.news18.com/movies/sunil-grover-trolled-for-asking-asli-mein-kuch-tha-to-triptii-dimri-about-bold-scenes-in-ranbir-kapoors-animal-9108095.html)
-    * [Taapsee Pannu](https://www.news18.com/movies/taapsee-pannu-reveals-not-being-paid-much-for-shah-rukh-khans-dunki-they-feel-they-are-doing-a-favour-9107674.html)
-    * [Latest News](https://www.news18.com/news/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,11 +170,11 @@ Follow us on
 In Trends:
 
 * [US Elections](https://www.news18.com/world/us-election-2024-live-updates-over-41-million-americans-cast-their-votes-in-early-voting-liveblog-9107950.html)
+* [Rupali Ganguly](https://www.news18.com/movies/rupali-ganguly-stepdaughter-says-she-feeds-her-dad-medications-like-rhea-chakraborty-did-to-sushant-singh-rajput-9108113.html)
 * [Canada Temple Attack](https://www.news18.com/world/devotees-attacked-at-hindu-temple-in-canada-by-khalistani-extremists-trudeau-condemns-9108053.html)
+* [Maharashtra Elections](https://www.news18.com/elections/)
 * [NTPC Green Energy IPO](https://www.news18.com/business/ipo/ntpc-green-energy-ipo-opening-date-size-price-all-you-need-to-know-9107634.html)
 * [Sunil Grover](https://www.news18.com/movies/sunil-grover-trolled-for-asking-asli-mein-kuch-tha-to-triptii-dimri-about-bold-scenes-in-ranbir-kapoors-animal-9108095.html)
-* [Taapsee Pannu](https://www.news18.com/movies/taapsee-pannu-reveals-not-being-paid-much-for-shah-rukh-khans-dunki-they-feel-they-are-doing-a-favour-9107674.html)
-* [Latest News](https://www.news18.com/news/)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
