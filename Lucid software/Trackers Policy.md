@@ -204,7 +204,7 @@ Cookies
 | \_cq\_tuid | Cheq | ESSENTIAL | Client-side cookie that is used to detect tab sessions per device. | Tab Session |
 | cq.\*\_v | Cheq | ESSENTIAL | This client-side cookie is part of the Pixel Guard, a client-side cookie, that detects bots and malicious traffic. | 3 months |
 | custom\_document\_picker | Lucid Software Inc | ESSENTIAL | Used to determine what document picker to use in the product. | Session |
-| customerAccessPin | Lucid Software Inc | ESSENTIAL | Used to enable Lucid support teams access to a customer's documents; This requires the customer to expressly give permission to Lucid support teams by generating a pin which is then stored as a cookie. | 1 day |
+| customerAccessPin | Lucid Software Inc | ESSENTIAL | Used to enable Lucid support teams access to a customer's documents; This requires the customer to expressly give permission to Lucid support teams by generating a pin which is then stored as a cookie. | 6 months |
 | dashboardUiState | Skilljar | PERSONALIZATION | Stores some state information about the dashboard. Primarily, to show or collapse the left nav on subsequent page views. | n/a |
 | ^\_dc\_gtm\_.\* | Google Analytics | ANALYTICS | Used by Google Analytics to store number of service requests. | 1 minute |
 | direct\_to\_buy | Lucid Software Inc | ESSENTIAL | Used to determine where a user should be directed in the payment flow. | Session |
@@ -381,7 +381,7 @@ Cookies
 | SSORedirect | Lucid Software Inc | ESSENTIAL | This cookie is used to track the last used Single Sign On method. This allows users to be redirected to their previously used Identity Provider, such as Google, Microsoft, or SAML Identity Provider. | 365 Days |
 | \_ssuma | Basis Technologies | MARKETING | Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers. | 30 days |
 | successfullyRenderedWithGl | Lucid Software Inc | ESSENTIAL | Used to indicate we've rendered with WebGL properly. | 1 week |
-| SupportPins | Lucid Software Inc | ESSENTIAL | This cookie is used to authorize a Lucid Support user to impersonate users that have USE\_IMPERSONATION\_PIN permissions. | 180 days (6 months) |
+| SupportPins | Lucid Software Inc | ESSENTIAL | This cookie is used to authorize a Lucid Support user to impersonate users that have USE\_IMPERSONATION\_PIN permissions. | 6 months |
 | ^t$ | Gainsight Inc | ESSENTIAL | Internal cookie set for internal community analytics events - session value | Session |
 | taboola\_fp\_td\_user\_id | Taboola Inc | MARKETING | Indicates that the user clicked on an item that was recommended by Taboola’s Services. This is used for reporting and analytics purposes. | 1 year |
 | taboola global:last-external | Taboola Inc | MARKETING | Used for attribution purposes to see what link or page led a user to the current page. | Local Storage (deleted when the user deletes it) |
