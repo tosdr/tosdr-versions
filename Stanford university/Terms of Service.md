@@ -150,10 +150,10 @@ Stanford respects the intellectual property rights of others. If you believe you
 * [Medicine](https://med.stanford.edu/)
 * [Sustainability](https://sustainability.stanford.edu/)
 
-### Departments
+### Academics
 
-* [Departments A \- to  Z](https://www.stanford.edu/list/academic/)
-* [Interdisciplinary Programs](https://www.stanford.edu/list/interdisc/)
+* [Undergraduate Majors](https://majors.stanford.edu/majors)
+* [Graduate Programs](https://gradadmissions.stanford.edu/explore-programs)
 
 ### Research
 
