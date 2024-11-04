@@ -6,9 +6,9 @@ EARNINGS CALL - illumin's Q3 earnings call is Nov 8
 
 * [Product](#)
     * [Technology](#)
-        * [Canvas](https://illumin.com/product/journey-canvas/)
+        * [Canvas](https://illumin.com/product/canvas/)
         * [Data](https://illumin.com/product/audience-engagement-map/)
-        * [Intelligence](https://illumin.com/product/pathlight-analysis/)
+        * [Intelligence](https://illumin.com/product/intelligence/)
         * [Channels](https://illumin.com/product/channels/)
         * [How to work with illumin](https://illumin.com/product/service-levels/)
     * [By use case](#)
@@ -30,9 +30,9 @@ EARNINGS CALL - illumin's Q3 earnings call is Nov 8
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Best Halloween ads 2024](https://illumin.com/wp-content/uploads/2024/11/halloween-263x300.jpg)
+    * ![INSIDE SCOOP WEBINAR: Measuring ROI and Impact with Data in Drive-to-Store Advertising](https://illumin.com/wp-content/uploads/2024/11/illumin_InsideScoop-Blog-1-263x300.png)
         
-        Best Halloween ads 2024[Read More](https://illumin.com/insights/blog/best-halloween-ads-2024/)
+        INSIDE SCOOP WEBINAR: Measuring ROI and Impact with Data in Drive-to-Store Advertising[Read More](https://illumin.com/insights/podcasts-webinars/webinar-measuring-roi-impact-data-drive-store-ads/)
         
 * [Company](#)
     * [Company](#)
@@ -45,7 +45,7 @@ EARNINGS CALL - illumin's Q3 earnings call is Nov 8
         
         Build a career building the future of advertising.
         
-        [See open roles](https://go.illumin.com/careers-at-illumin)
+        [See open roles](https://illumin.com/careers/)
         
 * [Investors](#)
     * [Investor Information](#)
@@ -118,9 +118,9 @@ Newsletter signup
 [![logo-footer](https://illumin.com/wp-content/uploads/2024/08/logo.svg)](https://illumin.com/)
 
 * Product
-    * [Canvas](https://illumin.com/product/journey-canvas/)
+    * [Canvas](https://illumin.com/product/canvas/)
     * [Data](https://illumin.com/product/audience-engagement-map/)
-    * [Intelligence](https://illumin.com/product/pathlight-analysis/)
+    * [Intelligence](https://illumin.com/product/intelligence/)
     * [Request A Demo](https://illumin.com/product/request-a-demo/)
     * [Support](https://support.illumin.com/csm)
 * Company
