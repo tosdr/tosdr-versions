@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Names in the News: Alpha Natural Resources](/assets/Images/teasers/full/ANR-Coal-by-Party.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-alpha-natural-resources/)
+[![PhilipMorris](/assets/logos/PhilipMorrisByRecipient2011-12.png)](http://www.followthemoney.org/research/institute-research/big-tobacco-wins-tax-battles)
+
+Look at this tobacco giant’s giving.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
