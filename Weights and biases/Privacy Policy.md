@@ -162,6 +162,7 @@
 * [Support Policy](https://wandb.ai/site/support-policy/)
 * [DPA](https://wandb.ai/site/dpa/)
 * [Privacy Policy](https://wandb.ai/site/privacy)
+* [Modern Slavery Statement](https://wandb.ai/site/modern-slavery-statement/)
 
 * [Website Terms of Use](https://wandb.ai/site/website-terms-of-use)
 * [Master Service Agreement](https://wandb.ai/site/terms/)
@@ -169,6 +170,7 @@
 * [Support Policy](https://wandb.ai/site/support-policy/)
 * [DPA](https://wandb.ai/site/dpa/)
 * [Privacy Policy](https://wandb.ai/site/privacy)
+* [Modern Slavery Statement](https://wandb.ai/site/modern-slavery-statement/)
 
 * [Website Terms of Use](https://wandb.ai/site/website-terms-of-use)
 * [Master Service Agreement](https://wandb.ai/site/terms/)
@@ -176,6 +178,7 @@
 * [Support Policy](https://wandb.ai/site/support-policy/)
 * [DPA](https://wandb.ai/site/dpa/)
 * [Privacy Policy](https://wandb.ai/site/privacy)
+* [Modern Slavery Statement](https://wandb.ai/site/modern-slavery-statement/)
 
 * [Website Terms of Use](https://wandb.ai/site/website-terms-of-use)
 * [Master Service Agreement](https://wandb.ai/site/terms/)
@@ -183,6 +186,7 @@
 * [Support Policy](https://wandb.ai/site/support-policy/)
 * [DPA](https://wandb.ai/site/dpa/)
 * [Privacy Policy](https://wandb.ai/site/privacy)
+* [Modern Slavery Statement](https://wandb.ai/site/modern-slavery-statement/)
 
 Privacy Policy
 ==============
