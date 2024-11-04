@@ -336,7 +336,7 @@ Follow @Firefox
 * [Instagram (@firefox)](https://www.instagram.com/firefox/)
 * [YouTube (@firefoxchannel)](https://www.youtube.com/user/firefoxchannel)
 
-[Language](https://www.mozilla.org/locales/) Language Čeština Deutsch English Español (de España) Français magyar Italiano Melayu Nederlands Polski Română Go
+[Language](https://www.mozilla.org/locales/) Language Čeština Deutsch Ελληνικά English Español (de España) Français magyar Italiano 한국어 Melayu Nederlands Polski Português (do Brasil) Română Türkçe Українська Tiếng Việt 正體中文 (繁體) Go
 
 * [Website Privacy Notice](https://www.mozilla.org/en-US/privacy/websites/)
 * [Cookies](https://www.mozilla.org/en-US/privacy/websites/cookie-settings/)
