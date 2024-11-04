@@ -1,10 +1,10 @@
-**Why We Ask:** Our mission and operations are funded 100% by conservatives like _you_. Please help us continue to extend Liberty to the next generation and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us) today.
+**Did you know?** _The Patriot Post_ is funded 100% by its readers. Help us stay front and center in the fight for Liberty and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us).
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111604-mid-day-digest-2024-11-01?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111666-mid-day-digest-2024-11-04?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -189,7 +189,7 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111604-mid-day-digest-2024-11-01?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111666-mid-day-digest-2024-11-04?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -213,8 +213,8 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Allen West The Rules of Radicals](https://patriotpost.us/opinion/111607-the-rules-of-radicals-2024-11-04)
 *      [Jeff Jacoby What Makes Vote-Buying Wrong?](https://patriotpost.us/opinion/111629-what-makes-vote-buying-wrong-2024-11-04)
 *      [The Washington Stand Headwinds for Harris: Miniscule Job Growth in Last Pre-Election Report](https://patriotpost.us/opinion/111639-headwinds-for-harris-miniscule-job-growth-in-last-pre-election-report-2024-11-04)
+*      [Guest Commentary Kamala to the Rescue?](https://patriotpost.us/opinion/111667-kamala-to-the-rescue-2024-11-04)
 *      [The Babylon Bee In Disgusting Call for Violence, Trump Says Politicians Should Stop Sending Kids Off to War](https://patriotpost.us/opinion/111652-in-disgusting-call-for-violence-trump-says-politicians-should-stop-sending-kids-off-to-war-2024-11-04)
-*      [Christine Yeargin The Path to Saving America Runs Through Homeschooling](https://patriotpost.us/opinion/111609-the-path-to-saving-america-runs-through-homeschooling-2024-11-02)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,11 +228,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
