@@ -495,12 +495,7 @@ Skype: [vpnuk.info](skype:vpnuk.info?chat)
   
   
 
-* [](https://www.facebook.com/vpnuk "Follow us on Facebook-square")
-* [](https://www.twitter.com/vpnuk "Follow us on Twitter")
-* [](https://www.tiktok.com/@vpnuk.net "Follow us on tiktok")
-* [](https://www.youtube.com/@vpnuk "Follow us on Youtube-play")
-* [](mailto:tickets@helpdesk-vpn.uk "Follow us on Email")
-* [](https://www.github.com/vpnuk/ "Follow us on GitHub")
+[](https://www.facebook.com/vpnuk "Follow us on Facebook-square")  [](https://www.twitter.com/vpnuk "Follow us on Twitter")  [](https://www.tiktok.com/@vpnuk.net "Follow us on tiktok")  [](https://www.youtube.com/@vpnuk "Follow us on Youtube-play")  [](mailto:tickets@helpdesk-vpn.uk "Follow us on Email") [](https://www.github.com/vpnuk/ "Follow us on GitHub")
 
 Translate
 
@@ -555,10 +550,3 @@ Download VPNUK
 [Amazon Fire Devices](https://www.amazon.co.uk/VPNUK/dp/B083SK7XHG/)  
 
 © 2024 [VPNUK](https://www.vpnuk.net/ "VPNUK") – All rights reserved
-
-* [](https://www.facebook.com/vpnuk "Follow us on Facebook-square")
-* [](https://www.twitter.com/vpnuk "Follow us on X")
-* [](https://www.tiktok.com/@vpnuk.net "Follow us on Tiktok")
-* [](https://www.youtube.com/@vpnuk "Follow us on YouTube")
-* [](mailto:tickets@helpdesk-vpn.uk "Contact us")
-* [](https://github.com/vpnuk/ "Follow us on Github")
