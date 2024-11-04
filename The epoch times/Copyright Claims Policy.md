@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Federal Judge Rules Iowa Officials Can Challenge Ballots of Potential Noncitizen Voters](https://www.theepochtimes.com/us/federal-judge-rules-iowa-officials-can-challenge-ballots-of-potential-noncitizen-voters-5753408)
+* [Supreme Court Agrees to Hear Race-Tinged Louisiana Electoral Dispute](https://www.theepochtimes.com/us/supreme-court-agrees-to-hear-race-tinged-louisiana-electoral-dispute-5752364)
     
-    NEW By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    NEW By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
-    [![Federal Judge Rules Iowa Officials Can Challenge Ballots of Potential Noncitizen Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Supreme Court Agrees to Hear Race-Tinged Louisiana Electoral Dispute](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Federal Judge Rules Iowa Officials Can Challenge Ballots of Potential Noncitizen Voters](https://img.theepochtimes.com/assets/uploads/2019/12/28/midterm-voting-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-rules-iowa-officials-can-challenge-ballots-of-potential-noncitizen-voters-5753408)
-* [Harris to Make Final Pitch in Pivotal Pennsylvania With 3 Rallies](https://www.theepochtimes.com/us/harris-to-make-final-pitch-in-pivotal-pennsylvania-with-3-rallies-5753384)
+    ![Supreme Court Agrees to Hear Race-Tinged Louisiana Electoral Dispute](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746869-10232024-DSC06732-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-agrees-to-hear-race-tinged-louisiana-electoral-dispute-5752364)
+* [New York Times Tech Union Goes on Strike 1 Day Before Election](https://www.theepochtimes.com/us/new-york-times-tech-union-goes-on-strike-1-day-before-election-5753613)
     
-    NEW By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Harris to Make Final Pitch in Pivotal Pennsylvania With 3 Rallies](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![New York Times Tech Union Goes on Strike 1 Day Before Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris to Make Final Pitch in Pivotal Pennsylvania With 3 Rallies](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753386-Harris-in-Michigan-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-to-make-final-pitch-in-pivotal-pennsylvania-with-3-rallies-5753384)
-* [GOP Underdog Gaining Momentum in Nevada US Senate Race](https://www.theepochtimes.com/us/gop-underdog-gaining-momentum-in-nevada-us-senate-race-5753269)
+    ![New York Times Tech Union Goes on Strike 1 Day Before Election](https://img.theepochtimes.com/assets/uploads/2024/08/19/id5707904-EpochImages-2825526988-xl-SB-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-times-tech-union-goes-on-strike-1-day-before-election-5753613)
+* [Israel Detains ‘Iranian Operative’ During Operation in Syria](https://www.theepochtimes.com/world/israel-detains-iranian-operative-during-opperation-in-syria-5753477)
     
-    7hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    2hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
     
-    [![GOP Underdog Gaining Momentum in Nevada US Senate Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Israel Detains ‘Iranian Operative’ During Operation in Syria](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![GOP Underdog Gaining Momentum in Nevada US Senate Race](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753400-race_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/gop-underdog-gaining-momentum-in-nevada-us-senate-race-5753269)
-* [State Treasurers Urge Public Pension Funds to Divest From China](https://www.theepochtimes.com/business/state-treasurers-urge-public-pension-funds-to-divest-from-china-5753204)
+    ![Israel Detains ‘Iranian Operative’ During Operation in Syria](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753591-Israeli-soldiers-AP24287547587231-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-detains-iranian-operative-during-opperation-in-syria-5753477)
+* [Candidates Make Final Pitches in Swing States on Eve of Election](https://www.theepochtimes.com/us/candidates-make-final-pitches-in-swing-states-on-eve-of-election-5753552)
     
-    9hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    2hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![State Treasurers Urge Public Pension Funds to Divest From China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Candidates Make Final Pitches in Swing States on Eve of Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![State Treasurers Urge Public Pension Funds to Divest From China](https://img.theepochtimes.com/assets/uploads/2023/09/13/id5528310-ChinaGettyImages-930380954-205x123.jpg.webp)](https://www.theepochtimes.com/business/state-treasurers-urge-public-pension-funds-to-divest-from-china-5753204)
-* [Medicare, Chronic Disease, and Drug Prices: Where Trump and Harris Stand on Health Policy](https://www.theepochtimes.com/us/medicare-chronic-disease-and-drug-prices-where-trump-and-harris-stand-on-health-policy-5751175)
+    ![Candidates Make Final Pitches in Swing States on Eve of Election](https://img.theepochtimes.com/assets/uploads/2024/11/id5753503-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/candidates-make-final-pitches-in-swing-states-on-eve-of-election-5753552)
+* [Voting on Election Day? Here’s Everything You Need to Know](https://www.theepochtimes.com/us/voting-on-election-day-heres-everything-you-need-to-know-5751453)
     
-    10hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
+    3hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
-    [![Medicare, Chronic Disease, and Drug Prices: Where Trump and Harris Stand on Health Policy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Voting on Election Day? Here’s Everything You Need to Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Medicare, Chronic Disease, and Drug Prices: Where Trump and Harris Stand on Health Policy](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752939-Untitled_Artwork-8-205x123.jpg.webp)](https://www.theepochtimes.com/us/medicare-chronic-disease-and-drug-prices-where-trump-and-harris-stand-on-health-policy-5751175)
-* [Pennsylvania Investigating Possible Fraudulent Voter Registration Forms, Top Election Official Says](https://www.theepochtimes.com/us/pennsylvania-investigating-possible-fraudulent-voter-registration-forms-top-election-official-says-5753275)
+    ![Voting on Election Day? Here’s Everything You Need to Know](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751495-BallotKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/voting-on-election-day-heres-everything-you-need-to-know-5751453)
+* [How Pennsylvania Became the Most Consequential Swing State](https://www.theepochtimes.com/article/how-pennsylvania-became-the-most-consequential-swing-state-5744000)
     
-    10hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    5hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![Pennsylvania Investigating Possible Fraudulent Voter Registration Forms, Top Election Official Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![How Pennsylvania Became the Most Consequential Swing State](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Pennsylvania Investigating Possible Fraudulent Voter Registration Forms, Top Election Official Says](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753377-mail-in-ballot-GettyImages-2181265963-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-investigating-possible-fraudulent-voter-registration-forms-top-election-official-says-5753275)
-* [RFK Jr. Says Trump Would Push to End Adding Fluoride to Drinking Water](https://www.theepochtimes.com/us/rfk-jr-says-trump-would-push-to-end-adding-fluoride-to-drinking-water-5753245)
+    ![How Pennsylvania Became the Most Consequential Swing State](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753340-Pennsylvania-10-205x123.jpg.webp)](https://www.theepochtimes.com/article/how-pennsylvania-became-the-most-consequential-swing-state-5744000)
+* [This Pennsylvania County Built America, and May Decide the Next President](https://www.theepochtimes.com/us/this-pennsylvania-county-built-america-and-may-decide-the-next-president-5753103)
     
-    11hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    6hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![RFK Jr. Says Trump Would Push to End Adding Fluoride to Drinking Water](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![This Pennsylvania County Built America, and May Decide the Next President](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![RFK Jr. Says Trump Would Push to End Adding Fluoride to Drinking Water](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750483-09102024-DSC08867-RFK-JR-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/rfk-jr-says-trump-would-push-to-end-adding-fluoride-to-drinking-water-5753245)
-* [Majority of Gen Z Are of Voting Age This Year—Here Are the Issues They Care About Most](https://www.theepochtimes.com/article/majority-of-gen-z-of-voting-age-this-year-here-are-the-issues-they-care-about-most-5751580)
+    ![This Pennsylvania County Built America, and May Decide the Next President](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753550-10252024-DSC06785-Bethlehem-Steel-Plant-view-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/this-pennsylvania-county-built-america-and-may-decide-the-next-president-5753103)
+* [This Election Year, School Choice Is a Partisan Issue](https://www.theepochtimes.com/us/this-election-year-school-choice-is-a-partisan-issue-5750839)
     
-    12hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson) and [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    6hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
     
-    [![Majority of Gen Z Are of Voting Age This Year—Here Are the Issues They Care About Most](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![This Election Year, School Choice Is a Partisan Issue](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Majority of Gen Z Are of Voting Age This Year—Here Are the Issues They Care About Most](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753195-grey-205x123.jpg.webp)](https://www.theepochtimes.com/article/majority-of-gen-z-of-voting-age-this-year-here-are-the-issues-they-care-about-most-5751580)
-* [Harris Confirms She Voted by Mail, Doesn’t Say If She Voted for California’s Crime Measure](https://www.theepochtimes.com/us/harris-confirms-she-voted-by-mail-declines-to-say-if-she-voted-for-californias-crime-measure-5753280)
+    ![This Election Year, School Choice Is a Partisan Issue](https://img.theepochtimes.com/assets/uploads/2024/01/14/id5565600-Year-of-School-Choice-v3-205x123.jpg.webp)](https://www.theepochtimes.com/us/this-election-year-school-choice-is-a-partisan-issue-5750839)
+* [Impact of the Election on the Federal Judiciary](https://www.theepochtimes.com/us/impact-of-the-election-on-the-federal-judiciary-5752184)
     
-    12hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    6hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
-    [![Harris Confirms She Voted by Mail, Doesn’t Say If She Voted for California’s Crime Measure](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Impact of the Election on the Federal Judiciary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris Confirms She Voted by Mail, Doesn’t Say If She Voted for California’s Crime Measure](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753343-Harris-AP24308673820069-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-confirms-she-voted-by-mail-declines-to-say-if-she-voted-for-californias-crime-measure-5753280)
-* [Rep. Raskin Says Democrats Will Accept Election Outcome If ‘Free and Fair’](https://www.theepochtimes.com/us/rep-raskin-says-democrats-will-accept-election-outcome-if-free-and-fair-5753112)
+    ![Impact of the Election on the Federal Judiciary](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750712-10232024-DSC06716-SCOTUS-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/impact-of-the-election-on-the-federal-judiciary-5752184)
+* [Unusual CCP Statement Sparks Speculation: Is Xi Jinping Losing Power?](https://www.theepochtimes.com/china/unusual-ccp-statement-sparks-speculation-is-xi-jinping-losing-power-5751949)
     
-    13hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    6hr By [Haizhong Ning](https://www.theepochtimes.com/author/haizhong-ning) and [Cindy Li](https://www.theepochtimes.com/author/cindy-li)
     
-    [![Rep. Raskin Says Democrats Will Accept Election Outcome If ‘Free and Fair’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Unusual CCP Statement Sparks Speculation: Is Xi Jinping Losing Power?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Rep. Raskin Says Democrats Will Accept Election Outcome If ‘Free and Fair’](https://img.theepochtimes.com/assets/uploads/2024/06/08/id5665177-06032024-DSC02153-Jamie-Raskin-205x123.jpg.webp)](https://www.theepochtimes.com/us/rep-raskin-says-democrats-will-accept-election-outcome-if-free-and-fair-5753112)
+    ![Unusual CCP Statement Sparks Speculation: Is Xi Jinping Losing Power?](https://img.theepochtimes.com/assets/uploads/2023/10/14/id5529778-Maoid5251802-GettyImages-495536135-205x123.jpeg.webp)](https://www.theepochtimes.com/china/unusual-ccp-statement-sparks-speculation-is-xi-jinping-losing-power-5751949)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
