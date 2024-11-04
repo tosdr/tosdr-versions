@@ -38,7 +38,7 @@ cross
     
     ###### DataHub
     
-    The foundation for trusted data](https://boomi.com/platform/datahub/)[![Flow - Menu Icon](https://boomi.com/wp-content/uploads/Flow-Menu-Icon.svg)
+    Establish a foundation for trusted data](https://boomi.com/platform/datahub/)[![Flow - Menu Icon](https://boomi.com/wp-content/uploads/Flow-Menu-Icon.svg)
     
     ###### Flow
     
@@ -126,6 +126,10 @@ cross
     
     [###### Embedded & software providers](https://boomi.com/partners/embedded-software-providers/)[###### System integrators](https://boomi.com/partners/system-integrators/)[###### Technology partner program](https://boomi.com/partners/technology-partner-program/)
     
+    ###### Technology Alliances
+    
+    [###### Amazon Web Services](https://boomi.com/partners/amazon-web-services/)[###### ServiceNow](https://boomi.com/solutions/application/servicenow/)
+    
     [Explore partner program](https://boomi.com/partners/)
     
 * [Contact us](https://boomi.com/company/contact/)
@@ -211,7 +215,7 @@ cross
         
         ###### DataHub
         
-        The foundation for trusted data](https://boomi.com/platform/datahub/)
+        Establish a foundation for trusted data](https://boomi.com/platform/datahub/)
     * [![Flow - Menu Icon](https://boomi.com/wp-content/uploads/Flow-Menu-Icon.svg)
         
         ###### Flow
@@ -400,6 +404,11 @@ cross
     * [###### Embedded & software providers](https://boomi.com/partners/embedded-software-providers/)
     * [###### System integrators](https://boomi.com/partners/system-integrators/)
     * [###### Technology partner program](https://boomi.com/partners/technology-partner-program/)
+    
+    Technology Alliances
+    
+    * [###### Amazon Web Services](https://boomi.com/partners/amazon-web-services/)
+    * [###### ServiceNow](https://boomi.com/solutions/application/servicenow/)
     
     * [Start free trial](https://boomi.com/form/trial/)
     * [Request a demo](https://boomi.com/custom-demo-request/)
