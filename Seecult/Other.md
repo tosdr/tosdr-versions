@@ -434,11 +434,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/biografija/intervju/zestoki.jpg?itok=rfvZxQmp)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/biografija-intervju)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/nes-paripovic/primeri-analiticke-skulpture/primeri-analiticke-skulpture-detalj3-1978a.jpg?itok=02wpv-NZ)](http://seecult.org/galerija/galerija-umetnika/nesa-paripovic/primeri-analiticke-skulpture)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/paco-002.jpg?itok=w9Gkmi1D)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival/brazilian-girls-201007/didi-gutman-brazilian-girls-hard-rock.jpg?itok=HUG4iqDE)](http://seecult.org/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival/brazilian-girls-201007)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
