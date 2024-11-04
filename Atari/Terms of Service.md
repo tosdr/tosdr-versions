@@ -272,9 +272,9 @@ Apparel & Collectibles
 
 [![Atari Cross Body Bag](files/all-over-print-utility-crossbody-bag-white-front-3-669ea057697f3copy.jpg)
 
-Atari Cross Body Bag](https://www.atari.com/products/camp-crossbody-bag)[![Shop All Tees](files/Product_Image_69de8aa2-7b78-43eb-8297-73a00248ca02.png)
+Atari Cross Body Bag](https://www.atari.com/products/camp-crossbody-bag)[![](files/unisex-heavy-blend-hoodie-black-front-6724d30b1d643copy.jpg)
 
-Shop All Tees](https://www.atari.com/collections/atari-tshirts)
+Shop All Hoodies](https://www.atari.com/collections/sweatshirts)
 
 Apparel & Collectibles
 
@@ -324,9 +324,9 @@ COLLECTIONS
 
 Atari Cross Body Bag](https://www.atari.com/products/camp-crossbody-bag)
 
-[![Shop All Tees](files/Product_Image_69de8aa2-7b78-43eb-8297-73a00248ca02.png)
+[![](files/unisex-heavy-blend-hoodie-black-front-6724d30b1d643copy.jpg)
 
-Shop All Tees](https://www.atari.com/collections/atari-tshirts)
+Shop All Hoodies](https://www.atari.com/collections/sweatshirts)
 
 \*\*New!\*\*/collections/summer-camp-2024
 
@@ -341,6 +341,10 @@ Atari 7800+](https://www.atari.com/collections/7800)
 [![](files/ThumbsUp_-ATAORGDECSET-Image5-160835-Daniel.jpg)
 
 Atari x Thumbs Up!](https://www.atari.com/collections/atari-x-thumbs-up)
+
+[![](files/classic-dad-hat-black-front-6724d1d04c296copy.jpg)
+
+Jaguar](https://www.atari.com/collections/jaguar)
 
 [![RCT x errornogo](files/Product_Image_aa18f2b3-48b8-439e-9d63-e9d86801f87f.png)
 
@@ -359,6 +363,10 @@ Atari 7800+](https://www.atari.com/collections/7800)
 [![](files/ThumbsUp_-ATAORGDECSET-Image5-160835-Daniel.jpg)
 
 Atari x Thumbs Up!](https://www.atari.com/collections/atari-x-thumbs-up)
+
+[![](files/classic-dad-hat-black-front-6724d1d04c296copy.jpg)
+
+Jaguar](https://www.atari.com/collections/jaguar)
 
 [![RCT x errornogo](files/Product_Image_aa18f2b3-48b8-439e-9d63-e9d86801f87f.png)
 
