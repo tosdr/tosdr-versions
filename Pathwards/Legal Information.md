@@ -71,6 +71,10 @@
 * [Investor Relations](https://www.pathward.com/investor-relations/)
 * [Careers](https://www.pathward.com/about-us/people-culture/careers/)
 
+Close
+
+**OFFICE CLOSURE:**  Our offices will be closed on Monday, November 11th in observance of the holiday. Normal business hours will resume on Tuesday, November 12th.
+
 Privacy Policy
 --------------
 
