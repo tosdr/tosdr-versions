@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [Exploding Neutron-Stars: Dance of Electrons](https://www.sciencedaily.com/releases/2024/11/241104112242.htm)
+* [Synthetic Genes for Medicine and Biotech](https://www.sciencedaily.com/releases/2024/11/241104112240.htm)
+* [Fossil of Huge Terror Bird Discovered](https://www.sciencedaily.com/releases/2024/11/241104112355.htm)
+* [Fastest-Feeding Black Hole in the Early Universe](https://www.sciencedaily.com/releases/2024/11/241104112032.htm)
 * [Indigenous Cultural Burning in Australia](https://www.sciencedaily.com/releases/2024/11/241101123754.htm)
 * [Why No Deep-Diving Crocodiles: Sinuses](https://www.sciencedaily.com/releases/2024/10/241029203003.htm)
 * [Revolutionary High-Speed 3D Bioprinter](https://www.sciencedaily.com/releases/2024/11/241101123841.htm)
 * [First Blueprint of the Human Spliceosome](https://www.sciencedaily.com/releases/2024/10/241031151843.htm)
 * [Bacteria Work Together in Difficult Conditions](https://www.sciencedaily.com/releases/2024/09/240913105250.htm)
 * [Animal Viruses With Potential to Infect Humans](https://www.sciencedaily.com/releases/2024/10/241031130355.htm)
-* [Sugar in Utero and Midlife Chronic Disease](https://www.sciencedaily.com/releases/2024/10/241031185320.htm)
-* [Chemists Just Broke a 100-Year-Old Rule](https://www.sciencedaily.com/releases/2024/10/241031151834.htm)
-* [Echolocating Bats Use an Acoustic Cognitive Map](https://www.sciencedaily.com/releases/2024/10/241031151724.htm)
-* [Neurotech Boosts Spatial Memory Without Surgery](https://www.sciencedaily.com/releases/2024/10/241030145640.htm)
 
 Trending Topics
 ---------------
@@ -249,9 +249,9 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
-
 [Wounds and Healing](https://www.sciencedaily.com/news/health_medicine/wounds_and_healing/)
+
+[Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
 
 [Lymphoma](https://www.sciencedaily.com/news/health_medicine/lymphoma/)
 
@@ -259,17 +259,17 @@ this week
 
 [Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
 
-[Engineering and Construction](https://www.sciencedaily.com/news/matter_energy/engineering_and_construction/)
+[Big Bang](https://www.sciencedaily.com/news/space_time/big_bang/)
 
-[Satellites](https://www.sciencedaily.com/news/space_time/satellites/)
+[Virtual Environment](https://www.sciencedaily.com/news/matter_energy/virtual_reality/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
 
-[Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
+[Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
 
-[Forest](https://www.sciencedaily.com/news/earth_climate/forests/)
+[Animal Learning and Intelligence](https://www.sciencedaily.com/news/plants_animals/animal_learning_and_intelligence/)
 
   
 
