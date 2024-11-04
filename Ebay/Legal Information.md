@@ -1,4 +1,4 @@
-8436775687486f168a5d-7506-4b36-b6f9-45e433a28a17:192f61fc4db19997
+843708087044b46b2572-a5db-46ad-8efb-51d4911429da:192f769382b19997
 
 [Skip to main content](#mainContent)
 
@@ -12,7 +12,6 @@
 * [Brand Outlet](https://www.ebay.com/b/Brand-Outlet/bn_7115532402)
 * [Gift Cards](https://www.ebay.com/giftcards)
 * [Help & Contact](https://www.ebay.com/help/home)
-* [![Get the coupon](https://ir.ebaystatic.com/cr/v/c01/EB-20355_NA_093024_CC_Q4_US_CustomerMoments_APACHolidaySFC_RW44_Doodle_150x30_FINAL.png.gif)](https://www.ebay.com/e/daily-deals/24-rw44-apac)
 
 * [Sell](https://www.ebay.com/sl/sell)
 * [Watchlist](https://www.ebay.com/mye/myebay/watchlist "Watchlist")[Expand Watch List](#gh-wl-click)
