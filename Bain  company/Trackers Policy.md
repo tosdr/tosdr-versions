@@ -121,11 +121,11 @@
     * [Korea (한국어)](https://www.bain.com/ko/about-bain/cookie-policy/ "Korea (한국어)")
     * [Japan (日本語)](https://www.bain.com/ja/about-bain/cookie-policy/ "Japan (日本語)")
     
-* [Red Folder (0)](#)
+* [Saved items (0)](#)
     
-    [Red Folder (0)](https://www.bain.com/about/red-folder-landing/)
+    [Saved items (0)](https://www.bain.com/about/curated-for-you-landing/)
     
-    #### You have no saved content in your Red Folder.
+    #### You have no saved items.
     
     Bookmark content that interests you and it will be saved here for you to read or share later.
     
@@ -575,15 +575,15 @@
         * [Japan (日本語)](https://www.bain.com/ja/about-bain/cookie-policy/ "Japan (日本語)")
         
     
-* [Red Folder  (0)](#)
+* [Saved items  (0)](#)
     
     [![](/contentassets/0b88e3e10a7b4592809517c28b75847e/logo_red_bain.svg)](https://www.bain.com/)
     
     Main menu
     
-    [Red Folder (0)](https://www.bain.com/about/red-folder-landing/)
+    [Saved items (0)](https://www.bain.com/about/curated-for-you-landing/)
     
-    #### You have no saved content in your Red Folder.
+    #### You have no saved items.
     
     Bookmark content that interests you and it will be saved here for you to read or share later.
     
@@ -751,13 +751,13 @@ Search insights, services, and experts"
 
 ###### Recently Visited Pages
 
-Content added to Red Folder
+Content added to saved items
 
-[Red Folder (0)](https://www.bain.com/about/red-folder-landing/) Close
+[Saved items (0)](https://www.bain.com/about/curated-for-you-landing/) Close
 
-Removed from Red Folder
+Removed from saved items
 
-[Red Folder (0)](https://www.bain.com/about/red-folder-landing/) Close
+[Saved items (0)](https://www.bain.com/about/curated-for-you-landing/) Close
 
 About Bain
 
