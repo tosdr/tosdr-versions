@@ -784,11 +784,7 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn 2% Cash Back from Rakuten.ca with Sephora Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/301451/en-stickyfooter-1170x60_sephora31.png "Sephora Canada Coupons, Promo Codes")
-
-2% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/sephora?sourceName=stickyfooter1)
+[![](//static.rakuten.ca/img/campaign_entity/258100/en_stickyfooter-1170x60_new_stores.png)](https://www.rakuten.ca/new-stores)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
