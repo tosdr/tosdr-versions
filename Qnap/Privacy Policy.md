@@ -3,6 +3,7 @@
     ==================================================================================================================================================
     
 * 
+* [Join Community](https://community.qnap.com/c/en)
 * [Sign in](https://www.qnap.com/oauth/login?lang=en)
     
      ![Avatar](https://www.qnap.com/assets/img/header/member/qid.svg)QNAP ID
@@ -122,6 +123,10 @@ About Us
 --------
 
  [![Member](https://www.qnap.com/assets/img/header/globe-w.svg) Global - English](javascript:void(0);)
+
+[![Official Community](https://www.qnap.com/assets/img/header/community-w.svg)
+
+Join Community](https://community.qnap.com/c/en)
 
 * [Software Store](https://account.qnap.com/oauth/auth?lang=en&response_type=code&client_id=5d77080ed6b82f062b138be7&redirect_uri=https%3A%2F%2Fsoftware.qnap.com%2Freceive_auth&state=lang%3Den)
 * [Warranty](https://account.qnap.com/oauth/auth?lang=en&response_type=code&client_id=5b8e2d66d6b82f0a86def499&redirect_uri=https%3A%2F%2Fsoftware.qnap.com%2Fows%2Freceive_auth&state=lang%3Den)
