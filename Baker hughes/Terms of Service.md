@@ -49,7 +49,7 @@ External
             
             On-Demand Solutions
             
-            Go beyond equipment sales.
+            Go beyond equipment sales and rentals.
             
             [Explore](https://www.bakerhughes.com/ondemand-solutions)
             
@@ -1014,7 +1014,7 @@ Search
             
             On-Demand Solutions
             
-            Go beyond equipment sales.
+            Go beyond equipment sales and rentals.
             
             [Explore](https://www.bakerhughes.com/ondemand-solutions)
             
