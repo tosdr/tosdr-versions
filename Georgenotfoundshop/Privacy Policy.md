@@ -1,9 +1,5 @@
 [Skip to content](#MainContent)
 
-  
-
-[It's George's birthday weekend and YOU get presents! ENJOY 25-70% OFF EVERYTHING](https://georgenotfound.shop/collections/birthday-sale-2024)
-
     
 
 * Shop
@@ -326,7 +322,7 @@ USD $ | United States
     * [Skeppy](https://skeppyshop.com/)
     
 
- Search[![](//georgenotfound.shop/cdn/shop/t/59/assets/cart-sad.svg?v=99485669083633826651730306011 )](https://georgenotfound.shop/cart)Cart
+ Search[![](//georgenotfound.shop/cdn/shop/t/57/assets/cart-sad.svg?v=99485669083633826651722456451 )](https://georgenotfound.shop/cart)Cart
 
 Item added to your cart
 -----------------------
