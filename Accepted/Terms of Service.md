@@ -349,6 +349,6 @@ Effective as of December 22, 2022
 Accepted.com 117 Kendrick Street, Ste 300, Needham MA, 02494-2722 +1 (310) 815-9553  
 © 2023 Accepted.
 
-[](https://www.facebook.com/Accepted)[](https://www.instagram.com/medschooladmissions/)[](https://www.linkedin.com/company/accepted.com)[](https://www.youtube.com/user/AcceptedVideo)
+[](https://www.facebook.com/Accepted)[](https://www.instagram.com/mbaadmissions)[](https://www.linkedin.com/company/accepted.com)[](https://www.youtube.com/user/AcceptedVideo)
 
 ↑
