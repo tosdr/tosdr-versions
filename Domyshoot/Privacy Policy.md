@@ -32,21 +32,21 @@ Tools
 
 [Remove Background
 
-Remove backgrounds from any image in just one click](https://www.domyshoot.com/free-background-remover)[White Background
+Remove backgrounds from any image in just one click](https://www.domyshoot.com/tools/free-background-remover)[White Background
 
-Automatically change background of your photo to white](#)[Change Background Color
+Automatically change background of your photo to white](https://www.domyshoot.com/tools/white-background)[Change Background Color
 
-Remove the background and change the color of your product photos](#)[Image Resizer
+Remove the background and change the color of your product photos](https://www.domyshoot.com/tools/change-background-color)[Image Resizer
 
-Easily resize image without losing quality and aspect ratio](#)
+Easily resize image without losing quality and aspect ratio](https://www.domyshoot.com/tools/free-image-resizer)
 
 #### For Creative Content
 
 [Batch Editor
 
-Edit your eCommerce product photos in bulk and save time and money](#)[AI Background
+Edit your eCommerce product photos in bulk and save time and money](https://www.domyshoot.com/tools/batch-photo-editor)[AI Background
 
-Enhance your eCommerce product photos with high quality, contextual backgrounds](#)
+Enhance your eCommerce product photos with high quality, contextual backgrounds](https://www.domyshoot.com/tools/ai-backgrounds)
 
 [![](https://cdn.prod.website-files.com/66e28da2135dc201d50ee880/671cc79521e92b16458c8632_designStudio_header_img.webp)
 
@@ -441,7 +441,7 @@ WHATEVER YOU SELL
 
 AI TOOLS
 
-[AI Product Photography](https://www.domyshoot.com/ai-product-photography)[Listing Generator](https://app.domyshoot.com/?utm_source=https://www.dresma.com/)[AI Background Generator](https://www.domyshoot.com/ai-backgrounds)[Remove Background](https://www.domyshoot.com/free-background-remover)[Change Background Color](https://www.domyshoot.com/change-background-color)[Image Resizer](https://www.domyshoot.com/free-image-resizer)[Batch Editor](https://www.domyshoot.com/batch-photo-editor)
+[AI Product Photography](https://www.domyshoot.com/ai-product-photography)[Listing Generator](https://app.domyshoot.com/?utm_source=https://www.dresma.com/)[AI Background Generator](https://www.domyshoot.com/tools/ai-backgrounds)[Remove Background](https://www.domyshoot.com/tools/free-background-remover)[Change Background Color](https://www.domyshoot.com/tools/change-background-color)[Image Resizer](https://www.domyshoot.com/tools/free-image-resizer)[Batch Editor](https://www.domyshoot.com/tools/batch-photo-editor)
 
 WORK TYPES
 
