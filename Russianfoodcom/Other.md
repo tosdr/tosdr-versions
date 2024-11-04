@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_8.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,13 +148,11 @@
 
 Сейчас читают
 
-* [Буженина классическая из свинины](https://www.russianfood.com/recipes/recipe.php?rid=174699)
+* [Квас морковный](https://www.russianfood.com/recipes/recipe.php?rid=45878)
 * [Рисовые зразы с черносливом](https://www.russianfood.com/recipes/recipe.php?rid=170787)
 * [Котлеты из свинины с грибами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=165915)
 * [Запеканка из макарон с консервированным тунцом и томатным соусом](https://www.russianfood.com/recipes/recipe.php?rid=166078)
 * [Помидоры, запечённые с чесноком](https://www.russianfood.com/recipes/recipe.php?rid=174387)
-* [Свекольные рулетики с творожной начинкой](https://www.russianfood.com/recipes/recipe.php?rid=174405)
-* [Пирог "Медовик" с маком](https://www.russianfood.com/recipes/recipe.php?rid=158466)
 * [Печенье с колбасой и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174440)
 
 |     |
@@ -204,7 +202,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174721#comments) | 04.11.24 |     |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_8 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174721#comments) | 04.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -288,7 +286,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174607#comments) | 03.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174607#comments) | 03.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -316,7 +314,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174661#comments) | 03.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_8 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174661#comments) | 03.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -344,7 +342,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174475#comments) | 03.11.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174475#comments) | 03.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -459,10 +457,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746109.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174661) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744456.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174526) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748222.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174721) | [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747385.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174699) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744486.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174534) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744422.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174475) | [![](//img1.russianfood.com/dycontent/images_upl/746/alt1_745160.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174623) |
-| [Тыквенный пирог "Три стакана"](https://www.russianfood.com/recipes/recipe.php?rid=174661) | [Рассольник с перловкой и морской капустой](https://www.russianfood.com/recipes/recipe.php?rid=174526) | [Тёртый пирог "Лимонник"](https://www.russianfood.com/recipes/recipe.php?rid=174721) | [Буженина классическая из свинины](https://www.russianfood.com/recipes/recipe.php?rid=174699) | [Сырный суп с цветной капустой, грибами и сливками](https://www.russianfood.com/recipes/recipe.php?rid=174534) | [Овощной суп с брокколи, рисом и стручковой фасолью](https://www.russianfood.com/recipes/recipe.php?rid=174475) | [Картофельная запеканка с твёрдым сыром и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174623) |
-| [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746250.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174664) | [![](//img1.russianfood.com/dycontent/images_upl/746/alt1_745244.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174639) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744762.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174607) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743566.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174568) |
-| [Чили из свинины с тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174664) | [Свёкла, фаршированная мясным фаршем и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174639) | [Тыквенные кексы с изюмом](https://www.russianfood.com/recipes/recipe.php?rid=174607) | [Калачи "Московские"](https://www.russianfood.com/recipes/recipe.php?rid=174568) |
+| [![](//img1.russianfood.com/dycontent/images_upl/746/alt1_745244.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174639) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744422.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174475) | [![](//img1.russianfood.com/dycontent/images_upl/746/alt1_745160.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174623) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743566.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174568) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744486.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174534) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746250.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174664) | [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747385.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174699) |
+| [Свёкла, фаршированная мясным фаршем и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174639) | [Овощной суп с брокколи, рисом и стручковой фасолью](https://www.russianfood.com/recipes/recipe.php?rid=174475) | [Картофельная запеканка с твёрдым сыром и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174623) | [Калачи "Московские"](https://www.russianfood.com/recipes/recipe.php?rid=174568) | [Сырный суп с цветной капустой, грибами и сливками](https://www.russianfood.com/recipes/recipe.php?rid=174534) | [Чили из свинины с тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174664) | [Буженина классическая из свинины](https://www.russianfood.com/recipes/recipe.php?rid=174699) |
+| [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746109.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174661) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744456.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174526) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748222.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174721) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744762.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174607) |
+| [Тыквенный пирог "Три стакана"](https://www.russianfood.com/recipes/recipe.php?rid=174661) | [Рассольник с перловкой и морской капустой](https://www.russianfood.com/recipes/recipe.php?rid=174526) | [Тёртый пирог "Лимонник"](https://www.russianfood.com/recipes/recipe.php?rid=174721) | [Тыквенные кексы с изюмом](https://www.russianfood.com/recipes/recipe.php?rid=174607) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -479,4 +477,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(149)
+(132)
