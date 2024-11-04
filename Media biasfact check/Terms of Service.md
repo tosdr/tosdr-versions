@@ -73,11 +73,11 @@
 
 MBFC News
 
+* [November 4, 2024 | Media News Daily: Top Stories for 11/04/2024](https://mediabiasfactcheck.com/2024/11/04/media-news-daily-top-stories-for-11-04-2024/ "Media News Daily: Top Stories for 11/04/2024")
+* [November 4, 2024 | MBFC’s Daily Vetted Fact Checks for 11/04/2024](https://mediabiasfactcheck.com/2024/11/04/mbfcs-daily-vetted-fact-checks-for-11-04-2024/ "MBFC’s Daily Vetted Fact Checks for 11/04/2024")
 * [November 3, 2024 | MBFC’s Daily Vetted Fact Checks for 11/03/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/03/mbfcs-daily-vetted-fact-checks-for-11-03-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/03/2024 (Weekend Edition)")
 * [November 2, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of Oct 27th – Nov 2nd](https://mediabiasfactcheck.com/2024/11/02/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-oct-27th-nov-2nd/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of Oct 27th – Nov 2nd")
 * [November 2, 2024 | MBFC’s Daily Vetted Fact Checks for 11/02/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/02/mbfcs-daily-vetted-fact-checks-for-11-02-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/02/2024 (Weekend Edition)")
-* [November 1, 2024 | Media News Daily: Top Stories for 11/01/2024](https://mediabiasfactcheck.com/2024/11/01/media-news-daily-top-stories-for-11-01-2024/ "Media News Daily: Top Stories for 11/01/2024")
-* [November 1, 2024 | MBFC’s Daily Vetted Fact Checks for 11/01/2024](https://mediabiasfactcheck.com/2024/11/01/mbfcs-daily-vetted-fact-checks-for-11-01-2024/ "MBFC’s Daily Vetted Fact Checks for 11/01/2024")
 
 Search for:  
 
@@ -188,6 +188,8 @@ No related posts.
 
 #### Recently Updated Pages
 
+* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - November 4, 2024
+    
 * [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - November 3, 2024
     
 * [Cicero – Bias and Credibility](https://mediabiasfactcheck.com/cicero-bias-and-credibility/ "View Cicero – Bias and Credibility") - November 3, 2024
@@ -199,8 +201,6 @@ No related posts.
 * [Voice of Rural America – Bias and Credibility](https://mediabiasfactcheck.com/voice-of-rural-america-bias-and-credibility/ "View Voice of Rural America – Bias and Credibility") - November 3, 2024
     
 * [Electoral College Map 2024 – Harris vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/ "View Electoral College Map 2024 – Harris vs. Trump") - November 3, 2024
-    
-* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - November 3, 2024
     
 * [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 3, 2024
     
@@ -218,9 +218,9 @@ No related posts.
 * [Electoral College Map 2024 - Harris vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
-* [MBFC's Daily Vetted Fact Checks for 11/03/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/03/mbfcs-daily-vetted-fact-checks-for-11-03-2024-weekend-edition/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [The Hill - Bias and Credibility](https://mediabiasfactcheck.com/the-hill/)
+* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [MBFC's Daily Vetted Fact Checks for 11/03/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/03/mbfcs-daily-vetted-fact-checks-for-11-03-2024-weekend-edition/)
 
 #### Subscribe via Email
 
