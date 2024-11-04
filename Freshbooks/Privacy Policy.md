@@ -467,7 +467,7 @@ Amsterdam, Netherlands
 * [Accessibility](https://www.freshbooks.com/accessibility)
 * [Accounting Partner Program](https://www.freshbooks.com/policies/accountant-program-terms)
 * [Terms and Conditions of FreshBooks’ Referral Program](https://www.freshbooks.com/policies/terms-and-conditions-of-freshbooks-referral-program)
-* [Instant Payouts Hyperlink](https://www.freshbooks.com/policies/instant-payouts-hyperlink)
+* [Instant Payouts](https://www.freshbooks.com/policies/instant-payouts)
 
 [![Freshbooks Logo](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/logos/freshbooks-logo.svg)](https://www.freshbooks.com/)
 
