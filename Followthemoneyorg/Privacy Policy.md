@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![PhilipMorris](/assets/logos/PhilipMorrisByRecipient2011-12.png)](http://www.followthemoney.org/research/institute-research/big-tobacco-wins-tax-battles)
+[![Incumbents2010](/assets/logos/IncumbentsGraph04-10.png)](http://www.followthemoney.org/research/institute-research/tea-party-in-the-2010-state-elections-hot-or-tepid)
 
-Look at this tobacco giant’s giving.
+Look at the power of incumbency.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
