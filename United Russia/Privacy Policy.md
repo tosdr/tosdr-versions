@@ -299,6 +299,38 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия», МГЕР и фонд «Наша Правда» передали помощь бойцам на Селидово-Кураховском и Торецком направлениях](https://cdn.er.ru/media/news/November2024/SeSCfEEWTfv8ixkOwzby-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-mger-i-fond-nasha-pravda-peredali-pomosh-bojcam-na-selidovo-kurahovskom-i-toreckom-napravleniyah)
+
+[«Единая Россия», МГЕР и фонд «Наша Правда» передали помощь бойцам на Селидово-Кураховском и Торецком направлениях](https://er.ru/activity/news/edinaya-rossiya-mger-i-fond-nasha-pravda-peredali-pomosh-bojcam-na-selidovo-kurahovskom-i-toreckom-napravleniyah)
+
+[#Амелин](https://er.ru/activity/news?tags%5B0%5D=36283) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#нашаправда](https://er.ru/activity/news?tags%5B0%5D=1094120) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152)
+
+Сегодня 18:14
+
+[![Владимир Якушев передал технику подразделениям группировки войск «Центр» на передовой](https://cdn.er.ru/media/news/November2024/X7F4pzfdVYNBAqECTh6i-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-peredal-tehniku-podrazdeleniyam-gruppirovki-vojsk-centr-na-peredovoj)
+
+[Владимир Якушев передал технику подразделениям группировки войск «Центр» на передовой](https://er.ru/activity/news/vladimir-yakushev-peredal-tehniku-podrazdeleniyam-gruppirovki-vojsk-centr-na-peredovoj)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152)
+
+Сегодня 17:11
+
+[![«Единая Россия»: Выставка «Сила V правде – гордость и победа» открылась в Самаре в День народного единства](https://cdn.er.ru/media/news/November2024/F73I0GlwzIGwL4ifS4B5-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-otkrylas-v-samare-v-den-narodnogo-edinstva)
+
+[«Единая Россия»: Выставка «Сила V правде – гордость и победа» открылась в Самаре в День народного единства](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-otkrylas-v-samare-v-den-narodnogo-edinstva)
+
+[#Самарская область](https://er.ru/activity/news?tags%5B0%5D=2275) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Федорищев](https://er.ru/activity/news?tags%5B0%5D=1095521) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#техника](https://er.ru/activity/news?tags%5B0%5D=2305) [#военнаятехника](https://er.ru/activity/news?tags%5B0%5D=136750) [#экспозиция](https://er.ru/activity/news?tags%5B0%5D=3390)
+
+Сегодня 14:47
+
+[![«Единая Россия» организует гуманитарную помощь жителям освобождённого посёлка Горняк в ДНР](https://cdn.er.ru/img/stubs/small/4.jpg)](https://er.ru/activity/news/edinaya-rossiya-organizuet-gumanitarnuyu-pomosh-zhitelyam-osvobozhdyonnogo-posyolka-gornyak-v-dnr)
+
+[«Единая Россия» организует гуманитарную помощь жителям освобождённого посёлка Горняк в ДНР](https://er.ru/activity/news/edinaya-rossiya-organizuet-gumanitarnuyu-pomosh-zhitelyam-osvobozhdyonnogo-posyolka-gornyak-v-dnr)
+
+[#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Пушилин](https://er.ru/activity/news?tags%5B0%5D=1092774) [#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978)
+
+Сегодня 13:36
+
 [![Владимир Васильев: На переломных этапах истории сплочённость народа поднимала нашу страну на великие ратные подвиги и трудовые свершения](https://cdn.er.ru/media/news/November2024/Wy5rVcMncEiEvxgLsoKl-small.jpg)](https://er.ru/activity/news/vladimir-vasilev-na-perelomnyh-etapah-istorii-splochyonnost-naroda-podnimala-nashu-stranu-na-velikie-ratnye-podvigi-i-trudovye-sversheniya)
 
 [Владимир Васильев: На переломных этапах истории сплочённость народа поднимала нашу страну на великие ратные подвиги и трудовые свершения](https://er.ru/activity/news/vladimir-vasilev-na-perelomnyh-etapah-istorii-splochyonnost-naroda-podnimala-nashu-stranu-na-velikie-ratnye-podvigi-i-trudovye-sversheniya)
@@ -314,38 +346,6 @@
 [#ДАМедведев](https://er.ru/activity/news?tags%5B0%5D=1095750) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172) [#ДеньНародногоЕдинства](https://er.ru/activity/news?tags%5B0%5D=1093309)
 
 Сегодня 09:44
-
-[![«Молодая Гвардия Единой России» и «Волонтерская Рота» организовали в Москве флешмоб ко Дню народного единства](https://cdn.er.ru/media/news/November2024/KpUdoWulZyExsvB7DObD-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-volonterskaya-rota-organizovali-v-moskve-fleshmob-ko-dnyu-narodnogo-edinstva)
-
-[«Молодая Гвардия Единой России» и «Волонтерская Рота» организовали в Москве флешмоб ко Дню народного единства](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-volonterskaya-rota-organizovali-v-moskve-fleshmob-ko-dnyu-narodnogo-edinstva)
-
-[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Деньнародногоединства](https://er.ru/activity/news?tags%5B0%5D=124570) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#флешмоб](https://er.ru/activity/news?tags%5B0%5D=18278) [#акция](https://er.ru/activity/news?tags%5B0%5D=238)
-
-03.11.24
-
-[![«Единая Россия», фонд «Наша Правда» и МГЕР доставили технику военным на линии боевого соприкосновения](https://cdn.er.ru/media/news/November2024/EZ2R45xo9Z1grMMqVijN-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-fond-nasha-pravda-i-mger-dostavili-tehniku-voennym-na-linii-boevogo-soprikosnoveniya)
-
-[«Единая Россия», фонд «Наша Правда» и МГЕР доставили технику военным на линии боевого соприкосновения](https://er.ru/activity/news/edinaya-rossiya-fond-nasha-pravda-i-mger-dostavili-tehniku-voennym-na-linii-boevogo-soprikosnoveniya)
-
-[#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#нашаправда](https://er.ru/activity/news?tags%5B0%5D=1094120) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#БПЛА](https://er.ru/activity/news?tags%5B0%5D=1094194) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Амелин](https://er.ru/activity/news?tags%5B0%5D=36283)
-
-03.11.24
-
-[![«Единая Россия» передала продукты для выпечки хлеба жителям освобожденных населенных пунктов Харьковской области](https://cdn.er.ru/media/news/November2024/azQcNW4MagJ962qC2uQG-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-produkty-dlya-vypechki-hleba-zhitelyam-osvobozhdennyh-naselennyh-punktov-harkovskoj-oblasti)
-
-[«Единая Россия» передала продукты для выпечки хлеба жителям освобожденных населенных пунктов Харьковской области](https://er.ru/activity/news/edinaya-rossiya-peredala-produkty-dlya-vypechki-hleba-zhitelyam-osvobozhdennyh-naselennyh-punktov-harkovskoj-oblasti)
-
-[#Туров](https://er.ru/activity/news?tags%5B0%5D=24396) [#Харьковская область](https://er.ru/activity/news?tags%5B0%5D=1093485) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#гуманитарнаяпомощь](https://er.ru/activity/news?tags%5B0%5D=109132) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-03.11.24
-
-[![«Единая Россия» и фонд «Наша правда» передали средства РЭБ коммунальным службам Херсонской области](https://cdn.er.ru/media/news/November2024/I0fFpWjW3RBz3Lns6aTY-small.jpeg)](https://er.ru/activity/news/edinaya-rossiya-i-fond-nasha-pravda-peredali-sredstva-reb-kommunalnym-sluzhbam-hersonskoj-oblasti)
-
-[«Единая Россия» и фонд «Наша правда» передали средства РЭБ коммунальным службам Херсонской области](https://er.ru/activity/news/edinaya-rossiya-i-fond-nasha-pravda-peredali-sredstva-reb-kommunalnym-sluzhbam-hersonskoj-oblasti)
-
-[#Херсонская область](https://er.ru/activity/news?tags%5B0%5D=1093586) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#фондНашаПравда](https://er.ru/activity/news?tags%5B0%5D=1095727) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#приемграждан](https://er.ru/activity/news?tags%5B0%5D=103849) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640)
-
-03.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
