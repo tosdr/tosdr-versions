@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Владимир Васильев: На переломных этапах истории сплочённость народа поднимала нашу страну на великие ратные подвиги и трудовые свершения](https://cdn.er.ru/media/news/November2024/Wy5rVcMncEiEvxgLsoKl-small.jpg)](https://er.ru/activity/news/vladimir-vasilev-na-perelomnyh-etapah-istorii-splochyonnost-naroda-podnimala-nashu-stranu-na-velikie-ratnye-podvigi-i-trudovye-sversheniya)
+
+[Владимир Васильев: На переломных этапах истории сплочённость народа поднимала нашу страну на великие ратные подвиги и трудовые свершения](https://er.ru/activity/news/vladimir-vasilev-na-perelomnyh-etapah-istorii-splochyonnost-naroda-podnimala-nashu-stranu-na-velikie-ratnye-podvigi-i-trudovye-sversheniya)
+
+[#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172) [#Деньнародногоединства](https://er.ru/activity/news?tags%5B0%5D=124570) [#4ноября](https://er.ru/activity/news?tags%5B0%5D=112331)
+
+Сегодня 10:00
+
+[![Дмитрий Медведев: Искренняя любовь к Родине, уважение к своим предкам, стремление быть достойными их славных подвигов помогут нам победить](https://cdn.er.ru/media/news/November2024/fhSYVB89DzziDbW3XsMx-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-iskrennyaya-lyubov-k-rodine-uvazhenie-k-svoim-predkam-stremlenie-byt-dostojnymi-ih-slavnyh-podvigov-pomogut-nam-pobedit)
+
+[Дмитрий Медведев: Искренняя любовь к Родине, уважение к своим предкам, стремление быть достойными их славных подвигов помогут нам победить](https://er.ru/activity/news/dmitrij-medvedev-iskrennyaya-lyubov-k-rodine-uvazhenie-k-svoim-predkam-stremlenie-byt-dostojnymi-ih-slavnyh-podvigov-pomogut-nam-pobedit)
+
+[#ДАМедведев](https://er.ru/activity/news?tags%5B0%5D=1095750) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172) [#ДеньНародногоЕдинства](https://er.ru/activity/news?tags%5B0%5D=1093309)
+
+Сегодня 09:44
+
 [![«Молодая Гвардия Единой России» и «Волонтерская Рота» организовали в Москве флешмоб ко Дню народного единства](https://cdn.er.ru/media/news/November2024/KpUdoWulZyExsvB7DObD-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-volonterskaya-rota-organizovali-v-moskve-fleshmob-ko-dnyu-narodnogo-edinstva)
 
 [«Молодая Гвардия Единой России» и «Волонтерская Рота» организовали в Москве флешмоб ко Дню народного единства](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-volonterskaya-rota-organizovali-v-moskve-fleshmob-ko-dnyu-narodnogo-edinstva)
@@ -330,22 +346,6 @@
 [#Херсонская область](https://er.ru/activity/news?tags%5B0%5D=1093586) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#фондНашаПравда](https://er.ru/activity/news?tags%5B0%5D=1095727) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#приемграждан](https://er.ru/activity/news?tags%5B0%5D=103849) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640)
 
 03.11.24
-
-[![«Пытаются управлять, создавая кризисы»: Дмитрий Медведев в интервью RT — о политике США и неустойчивости однополярного мира](https://cdn.er.ru/media/news/November2024/rWGZfcVh9GvDV1PnJeiJ-small.jpg)](https://er.ru/activity/news/pytayutsya-upravlyat-sozdavaya-krizisy-dmitrij-medvedev-v-intervyu-rt-o-politike-ssha-i-neustojchivosti-odnopolyarnogo-mira)
-
-[«Пытаются управлять, создавая кризисы»: Дмитрий Медведев в интервью RT — о политике США и неустойчивости однополярного мира](https://er.ru/activity/news/pytayutsya-upravlyat-sozdavaya-krizisy-dmitrij-medvedev-v-intervyu-rt-o-politike-ssha-i-neustojchivosti-odnopolyarnogo-mira)
-
-[#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#интервью](https://er.ru/activity/news?tags%5B0%5D=82) [#США](https://er.ru/activity/news?tags%5B0%5D=320) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#геополитика](https://er.ru/activity/news?tags%5B0%5D=16239)
-
-03.11.24
-
-[![Владимир Якушев отметил опыт Новгородской «Единой России» по работе с партактивом и поддержке молодых политиков](https://cdn.er.ru/media/news/November2024/qvNd9hYvNY1Yk0O2XXNS-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-otmetil-opyt-novgorodskoj-edinoj-rossii-po-rabote-s-partaktivom-i-podderzhke-molodyh-politikov)
-
-[Владимир Якушев отметил опыт Новгородской «Единой России» по работе с партактивом и поддержке молодых политиков](https://er.ru/activity/news/vladimir-yakushev-otmetil-opyt-novgorodskoj-edinoj-rossii-po-rabote-s-partaktivom-i-podderzhke-molodyh-politikov)
-
-[#Новгородская область](https://er.ru/activity/news?tags%5B0%5D=773) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Никитин](https://er.ru/activity/news?tags%5B0%5D=2486) [#Храбров](https://er.ru/activity/news?tags%5B0%5D=1095704) [#наставничество](https://er.ru/activity/news?tags%5B0%5D=72627) [#академияполитики](https://er.ru/activity/news?tags%5B0%5D=1091743) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#первички](https://er.ru/activity/news?tags%5B0%5D=127619)
-
-02.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
