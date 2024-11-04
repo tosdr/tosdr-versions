@@ -66,17 +66,17 @@
         
         By Madison Emily Whisenand [Read More](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
         
-    *  [![Dylan Mulvaney](https://www.women.com/img/gallery/memoirs-we-cant-wait-to-read-in-2025/intro-1730318048.jpg)](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
+    *  [![gwen stefani and husband](https://www.women.com/img/gallery/the-5-biggest-glow-downs-in-celebrity-fashion-history/intro-1730321365.jpg)](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
         
-        [Living](https://www.women.com/category/living/)
+        [Fashion](https://www.women.com/category/fashion/)
         
-        [Living](https://www.women.com/category/living/) By Amanda Chatel
+        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
         
-        ### [Memoirs We Can't Wait To Read In 2025](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
+        ### [The 5 Biggest Glow-Downs In Celebrity Fashion History](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
         
-        There are some celebrity memoirs we'd love to see and others we wish didn't exist. But as far as 2025 goes, expect some memoirs that are really, really good.
+        Celebrity glow-downs don't have to be bad. As Lady Gaga and Angelina Jolie age, they're leaving behind bold statement pieces in favor of timeless classics.
         
-        By Amanda Chatel [Read More](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
+        By Amanda Chatel [Read More](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
         
 
 More Stories
@@ -94,18 +94,6 @@ More Stories
     
     By Emily Hutchinson [Read More](https://www.women.com/1700084/what-went-down-solemender-after-shark-tank/)
     
-*  [![gwen stefani and husband](https://www.women.com/img/gallery/the-5-biggest-glow-downs-in-celebrity-fashion-history/intro-1730321365.jpg)](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-    
-    ### [The 5 Biggest Glow-Downs In Celebrity Fashion History](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
-    
-    Celebrity glow-downs don't have to be bad. As Lady Gaga and Angelina Jolie age, they're leaving behind bold statement pieces in favor of timeless classics.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
-    
 *  [![Kourtney Kardashian kissing Travis Barker](https://www.women.com/img/gallery/10-awkward-celebrity-pda-moments-we-wish-we-didnt-have-to-see/intro-1730224757.jpg)](https://www.women.com/1700545/awkward-celebrity-pda-moments/)
     
     [Relationships](https://www.women.com/category/relationships/)
@@ -117,6 +105,18 @@ More Stories
     We love to see celebrity couples happy, but sometimes their public displays of affection get a little too steamy. These awkward moments were definitely NSFW.
     
     By Emily Hutchinson [Read More](https://www.women.com/1700545/awkward-celebrity-pda-moments/)
+    
+*  [![Dylan Mulvaney](https://www.women.com/img/gallery/memoirs-we-cant-wait-to-read-in-2025/intro-1730318048.jpg)](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Amanda Chatel
+    
+    ### [Memoirs We Can't Wait To Read In 2025](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
+    
+    There are some celebrity memoirs we'd love to see and others we wish didn't exist. But as far as 2025 goes, expect some memoirs that are really, really good.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
     
 *  [![Kylie Jenner at an event](https://www.women.com/img/gallery/kylie-jenner-is-showing-us-the-trendiest-way-to-wear-watches-in-2024/intro-1730230338.jpg)](https://www.women.com/1700478/kylie-jenner-trendiest-way-wear-watches-2024/)
     
