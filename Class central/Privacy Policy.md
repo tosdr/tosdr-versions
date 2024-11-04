@@ -399,11 +399,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [6 Best Photography Courses for 2024](https://www.classcentral.com/report/best-photography-courses/)
-2. [9 Best Adobe Lightroom Courses for 2024](https://www.classcentral.com/report/best-adobe-lightroom-courses/)
-3. [10 Best English Grammar Courses for 2024](https://www.classcentral.com/report/best-english-grammar-courses/)
-4. [7 Best Email Marketing Courses for 2024](https://www.classcentral.com/report/best-email-marketing-courses/)
-5. [\[2024\] TOEFL Test Preparation with 80+ Online Resources](https://www.classcentral.com/report/toefl-preparation/)
+1. [Learn Something New: 100 Most Popular Courses For November](https://www.classcentral.com/report/most-popular-november-2024/)
+2. [6 Best Photography Courses for 2024](https://www.classcentral.com/report/best-photography-courses/)
+3. [9 Best Adobe Lightroom Courses for 2024](https://www.classcentral.com/report/best-adobe-lightroom-courses/)
+4. [10 Best English Grammar Courses for 2024](https://www.classcentral.com/report/best-english-grammar-courses/)
+5. [7 Best Email Marketing Courses for 2024](https://www.classcentral.com/report/best-email-marketing-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. python
+1. java
     
-2. English
+2. law
     
-3. javascript
+3. machine learning
     
 
 Popular subjects
 ----------------
 
-1. [Graphic Design
+1. [Psychology
     
-    4,228 courses](https://www.classcentral.com/subject/graphic-design)
-2. [Project Management
+    2,475 courses](https://www.classcentral.com/subject/psychology)
+2. [Web Development
     
-    4,030 courses](https://www.classcentral.com/subject/project-management)
-3. [Digital Marketing
+    13,432 courses](https://www.classcentral.com/subject/web-development)
+3. [Python
     
-    6,050 courses](https://www.classcentral.com/subject/digital-marketing)
+    9,752 courses](https://www.classcentral.com/subject/python)
 
 Popular courses
 ---------------
 
-1. [Understanding Dementia
+1. [Introduction to HTML5
     
-    University of Tasmania](https://www.classcentral.com/course/independent-understanding-dementia-981)
-2. [Product Management Fundamentals
+    University of Michigan](https://www.classcentral.com/course/introhtml-4307)
+2. [Project Management: The Basics for Success
     
-    University System of Maryland](https://www.classcentral.com/course/product-management-the-university-of-maryland-col-19098)
-3. [Introducción a los encofrados y las cimbras en obra civil y edificación
+    University of California, Irvine](https://www.classcentral.com/course/basicprojmanage-2782)
+3. [Python for Data Science
     
-    Universitat Politècnica de València](https://www.classcentral.com/course/civil-engineering-universitat-politecnica-de-vale-11880)
+    University of California, San Diego](https://www.classcentral.com/course/python-the-university-of-california-san-diego-pyt-8209)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
