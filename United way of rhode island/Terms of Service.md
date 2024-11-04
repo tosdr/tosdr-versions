@@ -147,13 +147,25 @@ In the News
 
 [See all news](https://www.unitedwayri.org/about-us/newsroom/)
 
+![74C56VQ3HCC5PCQRTGHKXOFIGU](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/74C56VQ3HCC5PCQRTGHKXOFIGU-1024x683-landscape-8c4d01eb17ae1784bfc06e61778aca88-.jpg "74C56VQ3HCC5PCQRTGHKXOFIGU")
+
+#### No matter who wins the presidential election, we must tackle the issues in Rhode Island ourselves
+
+November 4, 2024
+
+###### The Boston Globe RI
+
+Addressing housing, education, and workforce problems will require a renewed commitment to collective work, community engagement, and social justice, according to United Way of Rhode Island.
+
+[READ ON SITE](https://www.bostonglobe.com/2024/10/30/metro/no-matter-who-wins-presidential-election-we-must-tackle-issues-rhode-island-ourselves/)
+
 ![Untitled design (6)](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/Untitled-design-6-scaled-1024x576-landscape-2ccee2f3915133fb24872bc9acd6ebc8-.jpg "Untitled design (6)")
 
 #### United Way of Rhode Island impulsa la equidad y el compromiso cívico
 
 September 26, 2024
 
-###### United Way of Rhode Island impulsa la equidad y el compromiso cívico
+###### WPRI 12 Informa
 
 En una reciente entrevista en 12 Informa, María Elena Wah-Fitta, Manager of Brand Voice en United Way of Rhode Island, destacó los esfuerzos de la organización para promover la equidad racial y apoyar a las comunidades más vulnerables del estado.
 
@@ -170,18 +182,6 @@ July 23, 2024
 Kyle Bennett, who has long been at the forefront of [United Way of Rhode Island](https://www.unitedwayri.org/)'s legislative and policy work, has been promoted to the organization's Chief of Staff & Public Affairs Officer. Most recently, he served as senior director of public policy and equity, and joined United Way in 2006.
 
 [READ ON SITE](https://www.golocalprov.com/business/People-on-the-Move-Bennett-Named-Chief-of-Staff-Public-Affairs-Officer-a)
-
-![Courtney_Bourns_Headshot-transformed-1365x2048](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/Courtney_Bourns_Headshot-transformed-1365x2048-1-683x1024-landscape-8e1d6bf6977d12f28280f94d6e825f3f-.jpeg "Courtney_Bourns_Headshot-transformed-1365x2048")
-
-#### Grantmakers Council of R.I. names Bourns new executive director
-
-July 17, 2024
-
-###### PBN
-
-Courtney Bourns, who has served as a strategy and program consultant for multiple foundations across the country for the last six years, has been named the new executive director for the Grantmakers Council of Rhode Island, the financial support nonprofit announced Tuesday.
-
-[VIEW ON SITE](https://pbn.com/grantmakers-council-of-r-i-names-bourns-new-executive-director/)
 
 Press Releases
 
