@@ -206,7 +206,7 @@ Select your language English日本語
                 
             * [Intelligent Chemistry](https://www.bakerhughes.com/processing-services/intelligent-chemistry)
                 
-            * [Leucipa automated field production solution](https://www.bakerhughes.com/leucipa-automated-field-production-solution)
+            * [Leucipa Automated Field Production Solution](https://www.bakerhughes.com/oilfield-services-and-equipment-digital/leucipa-automated-field-production-solution)
                 
             * [Production Optimization](https://www.bakerhughes.com/production/production-optimization)
                 
@@ -333,7 +333,7 @@ Select your language English日本語
             
             [Explore](https://www.bakerhughes.com/oilfield-services-and-equipment-digital)
             
-            * [Leucipa automated field production solution](https://www.bakerhughes.com/leucipa-automated-field-production-solution)
+            * [Leucipa Automated Field Production Solution](https://www.bakerhughes.com/oilfield-services-and-equipment-digital/leucipa-automated-field-production-solution)
                 
             * [Subsurface Modeling](https://www.bakerhughes.com/oilfield-services-and-equipment-digital/subsurface-modeling)
                 
@@ -590,7 +590,7 @@ Select your language English日本語
             
             [Explore](https://www.bakerhughes.com/oilfield-services-and-equipment-digital)
             
-            * [Leucipa automated field production solution](https://www.bakerhughes.com/leucipa-automated-field-production-solution)
+            * [Leucipa Automated Field Production Solution](https://www.bakerhughes.com/oilfield-services-and-equipment-digital/leucipa-automated-field-production-solution)
                 
             * [Subsurface Modeling](https://www.bakerhughes.com/oilfield-services-and-equipment-digital/subsurface-modeling)
                 
@@ -1171,7 +1171,7 @@ Search
                 
             * [Intelligent Chemistry](https://www.bakerhughes.com/processing-services/intelligent-chemistry)
                 
-            * [Leucipa automated field production solution](https://www.bakerhughes.com/leucipa-automated-field-production-solution)
+            * [Leucipa Automated Field Production Solution](https://www.bakerhughes.com/oilfield-services-and-equipment-digital/leucipa-automated-field-production-solution)
                 
             * [Production Optimization](https://www.bakerhughes.com/production/production-optimization)
                 
@@ -1298,7 +1298,7 @@ Search
             
             [Explore](https://www.bakerhughes.com/oilfield-services-and-equipment-digital)
             
-            * [Leucipa automated field production solution](https://www.bakerhughes.com/leucipa-automated-field-production-solution)
+            * [Leucipa Automated Field Production Solution](https://www.bakerhughes.com/oilfield-services-and-equipment-digital/leucipa-automated-field-production-solution)
                 
             * [Subsurface Modeling](https://www.bakerhughes.com/oilfield-services-and-equipment-digital/subsurface-modeling)
                 
@@ -1555,7 +1555,7 @@ Search
             
             [Explore](https://www.bakerhughes.com/oilfield-services-and-equipment-digital)
             
-            * [Leucipa automated field production solution](https://www.bakerhughes.com/leucipa-automated-field-production-solution)
+            * [Leucipa Automated Field Production Solution](https://www.bakerhughes.com/oilfield-services-and-equipment-digital/leucipa-automated-field-production-solution)
                 
             * [Subsurface Modeling](https://www.bakerhughes.com/oilfield-services-and-equipment-digital/subsurface-modeling)
                 
