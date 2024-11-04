@@ -206,7 +206,7 @@ If you are a California resident, you have certain rights as provided in the Cal
     We may update this Privacy Policy from time to time to reflect changes to our information practices. When we make changes to this Privacy Policy, we will revise the "Posted" and "Effective" dates at the beginning of this Privacy Policy. If the changes to the Privacy Policy are material, we will notify you a notice on the Site or via email if we have your email address on file.
     
 
-[![Powered by REALDEFENSE](images/xpowered-by-realdefense.png.pagespeed.ic.ca-eP_QNos.png)](https://www.realdefen.se/)
+[![Powered by REALDEFENSE](/pagespeed_static/1.JiBnMqyl6S.gif)](https://www.realdefen.se/)
 
 [150 S Los Robles Ave. Suite 400
 
@@ -232,12 +232,12 @@ Trademarks: Microsoft, Windows® logos are registered trademarks of Microsoft Co
 * [Privacy Policy](https://www.getmydrivers.com/privacy-policy.html)
 * [Sitemap](https://www.getmydrivers.com/sitemap.html)
 
-[![AppEsteem](images/xappesteem_seal_with_r-90x77.png.pagespeed.ic.-ezfaYup-L.png)](https://customer.appesteem.com/certified?q=RealDefense)
+[![AppEsteem](/pagespeed_static/1.JiBnMqyl6S.gif)](https://customer.appesteem.com/certified?q=RealDefense)
 
-![This site is protected by Trustwave's Trusted Commerce program](https://sealserver.trustwave.com/seal_image.php?customerId=43c164a5135e4aafa40260a4e8656b46&size=105x54&style=invert "This site is protected by Trustwave's Trusted Commerce program")
+![This site is protected by Trustwave's Trusted Commerce program](/pagespeed_static/1.JiBnMqyl6S.gif "This site is protected by Trustwave's Trusted Commerce program")
 
-[![BBB A+ Accredited Business](images/xBBB-72x50.png.pagespeed.ic.Q8ZDPmhfs2.png)](https://www.bbb.org/losangelessiliconvalley/business-reviews/computer-hardware/ustech-support-in-santa-monica-ca-13196224)
+[![BBB A+ Accredited Business](/pagespeed_static/1.JiBnMqyl6S.gif)](https://www.bbb.org/losangelessiliconvalley/business-reviews/computer-hardware/ustech-support-in-santa-monica-ca-13196224)
 
-[![GeoTrust](images/xgt-secured-seal-90x43.gif.pagespeed.ic.IErs5SxiUT.png)](https://www.geocerts.com/ssl-checker?domain=www.getmydrivers.com#domain)
+[![GeoTrust](/pagespeed_static/1.JiBnMqyl6S.gif)](https://www.geocerts.com/ssl-checker?domain=www.getmydrivers.com#domain)
 
 [](https://www.facebook.com/getmydrivers)
