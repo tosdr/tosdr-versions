@@ -61,17 +61,9 @@
     * [Giving 101](https://www.charitynavigator.org/donor-basics/giving-101.html)
     * [Give a Donation in Your Loved One’s Name](https://www.charitynavigator.org/donor-basics/giving-101/Gifting-Donations/)
     * [Donation Refunds](https://www.charitynavigator.org/donor-basics/giving-101/donation-refunds.html)
-    * [Cost Per Outcome](https://www.charitynavigator.org/donor-basics/giving-101/cost-per-outcome.html)
     * [Support Underfunded Charities](https://www.charitynavigator.org/donor-basics/giving-101/support-underfunded-charities/)
-    * [Pros and Cons of Community Foundations](https://www.charitynavigator.org/donor-basics/giving-101/pros-cons-donating-to-community-foundations.html)
-    * [Why Did a Charity Send Me Money?](https://www.charitynavigator.org/donor-basics/giving-101/why-charities-send-gifts.html)
     * [Introduction to Effective Giving](https://www.charitynavigator.org/donor-basics/giving-101/introduction-to-effective-giving.html)
     * [Does My Small Donation Really Matter?](https://www.charitynavigator.org/donor-basics/giving-101/does-my-small-donation-matter.html)
-    
-    * [Charity Spotlight](https://www.charitynavigator.org/donor-basics/charity-spotlight.html)
-    * [Capital Region Sponsor-A-Scholar](https://www.charitynavigator.org/donor-basics/charity-spotlight/capital-region-sponsor-a-scholar.html)
-    * [DuPage PADS](https://www.charitynavigator.org/donor-basics/charity-spotlight/dupage-pads.html)
-    * [The Brotherhood Sister Sol](https://www.charitynavigator.org/donor-basics/charity-spotlight/brotherhood-sister-sol.html)
     
     * [Other Ways To Give](https://www.charitynavigator.org/donor-basics/other-ways-to-give.html)
     * [How to Donate Food and Prevent Food Waste](https://www.charitynavigator.org/donor-basics/other-ways-to-give/how-to-donate-food-prevent-waste.html)
@@ -89,12 +81,11 @@
     * [Become a Sponsor](https://www.charitynavigator.org/support-charity-navigator/sponsorship.html)
     
     * [Thought Leadership & News](https://www.charitynavigator.org/about-us/news-thought-leadership.html)
+    * [Giving Guide: Finding and Evaluating Effective Nonprofits](https://www.charitynavigator.org/about-us/news-thought-leadership/2024-finding-and-evaluating-effective-nonprofits.html)
     * [2024 Methodology Enhancement](https://www.charitynavigator.org/about-us/news-thought-leadership/2024-spring-methodology-update.html)
     * [Reflecting on 2023: A Year of Challenges and Growth in Philanthropy](https://www.charitynavigator.org/about-us/news-thought-leadership/2023-reflections.html)
     * [2023 Holiday Season Donation Trends](https://www.charitynavigator.org/about-us/news-thought-leadership/2023-holiday-giving-insights/)
-    * [2023 Fall Methodology Update](https://www.charitynavigator.org/about-us/news-thought-leadership/2023-fall-methodology-update/)
     * [Donors Prefer Charities that Earn All Four Beacons](https://www.charitynavigator.org/about-us/news-thought-leadership/donor-preferences-charity-ratings.html)
-    * [Why Advisories are now Alerts](https://www.charitynavigator.org/about-us/news-thought-leadership/advisories-are-now-alerts.html)
     
     * [Our Methodology](https://www.charitynavigator.org/about-us/our-methodology.html)
     * [Ratings](https://www.charitynavigator.org/about-us/our-methodology/ratings.html)
@@ -167,17 +158,9 @@
     * [Giving 101](https://www.charitynavigator.org/donor-basics/giving-101.html)
     * [Give a Donation in Your Loved One’s Name](https://www.charitynavigator.org/donor-basics/giving-101/Gifting-Donations/)
     * [Donation Refunds](https://www.charitynavigator.org/donor-basics/giving-101/donation-refunds.html)
-    * [Cost Per Outcome](https://www.charitynavigator.org/donor-basics/giving-101/cost-per-outcome.html)
     * [Support Underfunded Charities](https://www.charitynavigator.org/donor-basics/giving-101/support-underfunded-charities/)
-    * [Pros and Cons of Community Foundations](https://www.charitynavigator.org/donor-basics/giving-101/pros-cons-donating-to-community-foundations.html)
-    * [Why Did a Charity Send Me Money?](https://www.charitynavigator.org/donor-basics/giving-101/why-charities-send-gifts.html)
     * [Introduction to Effective Giving](https://www.charitynavigator.org/donor-basics/giving-101/introduction-to-effective-giving.html)
     * [Does My Small Donation Really Matter?](https://www.charitynavigator.org/donor-basics/giving-101/does-my-small-donation-matter.html)
-    
-    * [Charity Spotlight](https://www.charitynavigator.org/donor-basics/charity-spotlight.html)
-    * [Capital Region Sponsor-A-Scholar](https://www.charitynavigator.org/donor-basics/charity-spotlight/capital-region-sponsor-a-scholar.html)
-    * [DuPage PADS](https://www.charitynavigator.org/donor-basics/charity-spotlight/dupage-pads.html)
-    * [The Brotherhood Sister Sol](https://www.charitynavigator.org/donor-basics/charity-spotlight/brotherhood-sister-sol.html)
     
     * [Other Ways To Give](https://www.charitynavigator.org/donor-basics/other-ways-to-give.html)
     * [How to Donate Food and Prevent Food Waste](https://www.charitynavigator.org/donor-basics/other-ways-to-give/how-to-donate-food-prevent-waste.html)
@@ -195,12 +178,11 @@
     * [Become a Sponsor](https://www.charitynavigator.org/support-charity-navigator/sponsorship.html)
     
     * [Thought Leadership & News](https://www.charitynavigator.org/about-us/news-thought-leadership.html)
+    * [Giving Guide: Finding and Evaluating Effective Nonprofits](https://www.charitynavigator.org/about-us/news-thought-leadership/2024-finding-and-evaluating-effective-nonprofits.html)
     * [2024 Methodology Enhancement](https://www.charitynavigator.org/about-us/news-thought-leadership/2024-spring-methodology-update.html)
     * [Reflecting on 2023: A Year of Challenges and Growth in Philanthropy](https://www.charitynavigator.org/about-us/news-thought-leadership/2023-reflections.html)
     * [2023 Holiday Season Donation Trends](https://www.charitynavigator.org/about-us/news-thought-leadership/2023-holiday-giving-insights/)
-    * [2023 Fall Methodology Update](https://www.charitynavigator.org/about-us/news-thought-leadership/2023-fall-methodology-update/)
     * [Donors Prefer Charities that Earn All Four Beacons](https://www.charitynavigator.org/about-us/news-thought-leadership/donor-preferences-charity-ratings.html)
-    * [Why Advisories are now Alerts](https://www.charitynavigator.org/about-us/news-thought-leadership/advisories-are-now-alerts.html)
     
     * [Our Methodology](https://www.charitynavigator.org/about-us/our-methodology.html)
     * [Ratings](https://www.charitynavigator.org/about-us/our-methodology/ratings.html)
@@ -314,7 +296,7 @@ This Privacy Policy includes the following sections:
             * Donor Tools.  We also offer visitors to the Platform the opportunity to learn more about and participate in other activities that may enhance their philanthropic experience.  Visitors may choose to explore "Volunteer Opportunities" or to utilize the "Estate Planner" or "Giving Circle Finder" functionalities. Each of these Services is enabled by third parties:  "Volunteer Opportunities" is enabled by Golden; the "Estate Planner" tool by FreeWill; and "Giving Circle Finder" by Philanthropy Together and Grapevine. We do not control the privacy practices of these third parties and encourage you to review the [Golden's privacy policy](https://www.goldenvolunteer.com/privacy-policy/), [FreeWill's privacy policy](https://www.freewill.com/privacy), [Philanthropy Together's privacy policy](https://philanthropytogether.org/privacy-policy/), and [Grapevine's privacy policy](https://www.grapevine.org/assets/docs/grapevine-privacy.pdf) before using these Services.  
                   
                 
-            * Contact Us. We provide a "Contact Us" link on the Platform that allows you to start a discussion with Charity Navigator staff, intended for you to be able to ask questions, request additional information, and provide feedback to us.   Our "Contact Us" functionality is powered by Tender or Salesforce. Tender and/or Salesforce collects your name and email address, and shares this information with us. We do not control the privacy practices of Tender or Salesforce, and we encourage you to review the [privacy policy of Tender](https://tenderapp.com/privacy/) and the [privacy policy of Salesforce](https://www.salesforce.com/company/privacy/) for more information regarding their privacy practices before using the "Contact Us" functionality. When you use this Service, we keep that correspondence, including your email address and information you volunteer in that correspondence, so that we have a history of past correspondence to reference if you reach out in the future.   
+            * Contact Us. We provide a "Contact Us" link on the Platform that allows you to start a discussion with Charity Navigator staff, intended for you to be able to ask questions, request additional information, and provide feedback to us.   Our "Contact Us" functionality is powered by Tender or Salesforce. Tender and/or Salesforce collects your name and email address, and shares this information with us. We do not control the privacy practices of Tender or Salesforce, and we encourage you to review the [privacy policy of Tender](https://tenderapp.com/privacy/) and the privacy policy of Salesforce for more information regarding their privacy practices before using the "Contact Us" functionality. When you use this Service, we keep that correspondence, including your email address and information you volunteer in that correspondence, so that we have a history of past correspondence to reference if you reach out in the future.   
                   
                 
             * Electronic Mail, Regular Mail, and Phone Calls. You may, on your own initiative, reach out to Charity Navigator by electronic mail, regular hard-copy mail or by telephone. We collect any information you share with us through such communications, such as your name and contact information and information you volunteer in your communication, and may use and share such information consistent with this Policy.  
