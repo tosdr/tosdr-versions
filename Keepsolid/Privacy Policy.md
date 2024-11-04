@@ -22,6 +22,8 @@ Solutions
 
 [User Office](https://my.keepsolid.com/)
 
+[Save big while keeping your digital life safe from lurking cyber threats.](https://www.keepsolid.com/promo/halloween?utm_source=site_ks&utm_medium=banner_small&utm_campaign=halloween2024)
+
 KEEPSOLID INC. PRIVACY POLICY
 =============================
 
