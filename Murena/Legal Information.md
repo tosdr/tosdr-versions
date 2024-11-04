@@ -67,7 +67,7 @@ Shop
 
 Resources
 
-[* Support](https://murena.com/support)[* Murena Partners](https://murena.com/murena-partners)[* Blog](https://murena.com/blog)[* Documentation](https://doc.e.foundation/)[* Community](https://community.e.foundation/)
+[* FAQ](https://murena.com/faq)[* Murena Partners](https://murena.com/murena-partners)[* Blog](https://murena.com/blog)[* Documentation](https://doc.e.foundation/)[* Community](https://community.e.foundation/)
 
 About
 
