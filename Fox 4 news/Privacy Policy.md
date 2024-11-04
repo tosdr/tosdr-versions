@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![NBC files Equal Time notice for Harris' SNL cameo following backlash](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2181946136-a.jpg?ve=1&tl=1)
+ [![Presidential polls today: Who's winning in Trump vs. Harris race with 1 day left?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2162600246.jpg?ve=1&tl=1)
 
- ![NBC files Equal Time notice for Harris' SNL cameo following backlash](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2181946136-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nbc-files-equal-time-notice-harris-snl-cameo-following-backlash)
+ ![Presidential polls today: Who's winning in Trump vs. Harris race with 1 day left?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2162600246.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/presidential-polls-today-whos-winning-trump-vs-harris-nov-4-2024)
 
-### [NBC files Equal Time notice for Harris' SNL cameo following backlash](https://www.fox4news.com/news/nbc-files-equal-time-notice-harris-snl-cameo-following-backlash)
+### [Presidential polls today: Who's winning in Trump vs. Harris race with 1 day left?](https://www.fox4news.com/news/presidential-polls-today-whos-winning-trump-vs-harris-nov-4-2024)
 
- [![Lightning strike sets Irving home on fire](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-irving-old-towne-dr-lightning-strike-fire-9p_kdf_00.00.02.36.jpg?ve=1&tl=1)
+ [![Dallas singer shot while signing autographs after show, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/10/32/18/51195e31-2ef85d8f-8a40e072-50d05abb-police-tape-police-lights-2.png?ve=1&tl=1)
 
- ![Lightning strike sets Irving home on fire](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-irving-old-towne-dr-lightning-strike-fire-9p_kdf_00.00.02.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lightning-fire-irving)
+ ![Dallas singer shot while signing autographs after show, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/10/32/18/592/333/51195e31-2ef85d8f-8a40e072-50d05abb-police-tape-police-lights-2.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jada-thomas-black-academy-of-arts-and-letters-shot)
 
-### [Lightning strike sets Irving home on fire](https://www.fox4news.com/news/lightning-fire-irving)
+### [Dallas singer shot while signing autographs after show, police say](https://www.fox4news.com/news/jada-thomas-black-academy-of-arts-and-letters-shot)
 
- [![Ted Cruz, Colin Allred make final push to voters | Texas: The Issue Is](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/cruz-allred-texas-senate.jpg?ve=1&tl=1)
+ [![Potential Tropical Cyclone 18 expected to become Rafael before moving into Gulf of Mexico](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/11/32/18/ptc-18-monday-7am-track.jpg?ve=1&tl=1)
 
- ![Ted Cruz, Colin Allred make final push to voters | Texas: The Issue Is](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/cruz-allred-texas-senate.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/ted-cruz-colin-allred-make-final-push-voters-texas-issue-is)
+ ![Potential Tropical Cyclone 18 expected to become Rafael before moving into Gulf of Mexico](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/11/32/18/592/333/ptc-18-monday-7am-track.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/potential-tropical-cyclone-18-expected-become-rafael-before-moving-gulf-mexico)
 
-### [Ted Cruz, Colin Allred make final push to voters | Texas: The Issue Is](https://www.fox4news.com/election/ted-cruz-colin-allred-make-final-push-voters-texas-issue-is)
+### [Potential Tropical Cyclone 18 expected to become Rafael before moving into Gulf of Mexico](https://www.fox4news.com/news/potential-tropical-cyclone-18-expected-become-rafael-before-moving-gulf-mexico)
 
- [![Famous streamer Kai Cenat says he's the victim of yet another swatting call](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/11/32/18/gettyimages-1431445107.jpg?ve=1&tl=1)
+ [![Election Day freebies and deals](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2053039115-scaled.jpg?ve=1&tl=1)
 
- ![Famous streamer Kai Cenat says he's the victim of yet another swatting call](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/11/32/18/592/333/gettyimages-1431445107.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kai-cenat-twitch-swatted-marietta-mansion)
+ ![Election Day freebies and deals](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2053039115-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/election-day-freebies-deals-2024)
 
-### [Famous streamer Kai Cenat says he's the victim of yet another swatting call](https://www.fox4news.com/news/kai-cenat-twitch-swatted-marietta-mansion)
+### [Election Day freebies and deals](https://www.fox4news.com/news/election-day-freebies-deals-2024)
 
- [![Suspect arrested in Collin County chase that went into Oklahoma](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/jose-rodriguez-mug.png?ve=1&tl=1)
+ [![Quincy Jones, legendary producer and composer, dies at 91](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/jones-2.jpg?ve=1&tl=1)
 
- ![Suspect arrested in Collin County chase that went into Oklahoma](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/jose-rodriguez-mug.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/collin-county-chase-into-oklahoma)
+ ![Quincy Jones, legendary producer and composer, dies at 91](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/jones-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/quincy-jones-dies-producer-composer-91)
 
-### [Suspect arrested in Collin County chase that went into Oklahoma](https://www.fox4news.com/news/collin-county-chase-into-oklahoma)
+### [Quincy Jones, legendary producer and composer, dies at 91: 'Truly one of a kind'](https://www.fox4news.com/news/quincy-jones-dies-producer-composer-91)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
