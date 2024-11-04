@@ -334,15 +334,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.7947%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_213/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a4b95062edad441df4d47e263b78297d0ff5423c)](https://www.afr.com/companies/mining/mark-creasy-banks-lithium-windfall-by-selling-at-the-top-20241101-p5kn5y)
+[![White Energy chairman Brian Flannery has Manzoice in this year’s Melbourne Cup.](https://static.ffx.io/images/$zoom_0.5516%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c0f0808f8c6c1ddb16fe16ae0ea945a1de472c45)](https://www.afr.com/companies/sport/rich-lister-was-told-get-a-hobby-now-his-horse-is-in-the-cup-20241103-p5knh8)
 
-### [Mark Creasy banks lithium windfall by selling at the top](https://www.afr.com/companies/mining/mark-creasy-banks-lithium-windfall-by-selling-at-the-top-20241101-p5kn5y)
+### [Rich Lister was told ‘get a hobby’, now his horse is in the Cup](https://www.afr.com/companies/sport/rich-lister-was-told-get-a-hobby-now-his-horse-is-in-the-cup-20241103-p5knh8)
 
-* Peter Ker
+* Zoe Samios
 
-* ### [Property downturn nips into Walker Group profit](https://www.afr.com/property/commercial/property-downturn-nips-into-walker-group-profit-20241030-p5kmqb)
+* ### [Mark Creasy banks lithium windfall by selling at the top](https://www.afr.com/companies/mining/mark-creasy-banks-lithium-windfall-by-selling-at-the-top-20241101-p5kn5y)
     
-* ### [Rich Lister Nick Politis lobs $77m takeover bid for Qld pub owner](https://www.afr.com/property/commercial/rich-lister-nick-politis-lobs-77m-takeover-bid-for-qld-pub-owner-20241030-p5kmj3)
+* ### [Property downturn nips into Walker Group profit](https://www.afr.com/property/commercial/property-downturn-nips-into-walker-group-profit-20241030-p5kmqb)
     
 
 [The Australian Financial Review](https://www.afr.com/)
