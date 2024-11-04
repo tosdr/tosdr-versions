@@ -91,15 +91,15 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
-[Severe Thunderstorm Warning
+[Flash Flood Warning
 
-from SUN 1:44 PM CST until SUN 2:30 PM CST, Jack County](https://www.fox4news.com/weather-alerts)
+from SUN 5:14 PM CST until SUN 8:15 PM CST, Cooke County](https://www.fox4news.com/weather-alerts)
 
 2
 
-[Severe Thunderstorm Watch
+[Tornado Watch
 
-from SUN 11:58 AM CST until SUN 5:00 PM CST, Wise County, Palo Pinto County, Jack County](https://www.fox4news.com/weather-alerts)
+until SUN 8:00 PM CST, Cooke County, Lamar County, Fannin County](https://www.fox4news.com/weather-alerts)
 
 Privacy Policy
 ==============
@@ -412,35 +412,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Millions in central US on alert for more severe weather after tornadoes tear through Oklahoma City](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/mon-severe-outlook.png?ve=1&tl=1)
+ [![Suspect arrested in Collin County chase that went into Oklahoma](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/jose-rodriguez-mug.png?ve=1&tl=1)
 
- ![Millions in central US on alert for more severe weather after tornadoes tear through Oklahoma City](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/mon-severe-outlook.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/millions-central-us-alert-more-severe-weather-after-tornadoes-tear-through-oklahoma-city)
+ ![Suspect arrested in Collin County chase that went into Oklahoma](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/jose-rodriguez-mug.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/collin-county-chase-into-oklahoma)
 
-### [Millions in central US on alert for more severe weather after tornadoes tear through Oklahoma City](https://www.fox4news.com/weather/millions-central-us-alert-more-severe-weather-after-tornadoes-tear-through-oklahoma-city)
+### [Suspect arrested in Collin County chase that went into Oklahoma](https://www.fox4news.com/news/collin-county-chase-into-oklahoma)
 
- [![Garland Police investigate deadly shooting: 16-year-old charged with murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/09/32/18/94697dcb-police-tape-police-lights.png?ve=1&tl=1)
+ [![Mike Wolfe held Frank Fritz's hand as 'American Pickers' co-star took his last breath](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-123653054-1.jpg?ve=1&tl=1)
 
- ![Garland Police investigate deadly shooting: 16-year-old charged with murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/09/32/18/592/333/94697dcb-police-tape-police-lights.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/garland-police-investigate-deadly-shooting-16-year-old-charged-murder)
+ ![Mike Wolfe held Frank Fritz's hand as 'American Pickers' co-star took his last breath](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-123653054-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mike-wolfe-held-frank-fritzs-hand-american-pickers-co-star-took-his-last-breath)
 
-### [Garland Police investigate deadly shooting: 16-year-old charged with murder](https://www.fox4news.com/news/garland-police-investigate-deadly-shooting-16-year-old-charged-murder)
+### [Mike Wolfe held Frank Fritz's hand as 'American Pickers' co-star took his last breath](https://www.fox4news.com/news/mike-wolfe-held-frank-fritzs-hand-american-pickers-co-star-took-his-last-breath)
 
- [![Disturbance in the Caribbean likely to become Tropical Storm Rafael this week](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/2-atl-1.jpg?ve=1&tl=1)
+ [![US bombers arrive in Middle East as concerns of Iranian attack on Israel mount](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/b-52-stratofortress-strategic-bombers.jpg?ve=1&tl=1)
 
- ![Disturbance in the Caribbean likely to become Tropical Storm Rafael this week](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/2-atl-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tropical-storm-rafael-disturbance-caribbean-gulf-of-mexico)
+ ![US bombers arrive in Middle East as concerns of Iranian attack on Israel mount](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/b-52-stratofortress-strategic-bombers.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/us-bombers-middle-east-iran-israel)
 
-### [Disturbance in the Caribbean likely to become Tropical Storm Rafael this week](https://www.fox4news.com/news/tropical-storm-rafael-disturbance-caribbean-gulf-of-mexico)
+### [US bombers arrive in Middle East as concerns of Iranian attack on Israel mount](https://www.fox4news.com/news/us-bombers-middle-east-iran-israel)
 
- [![Dallas weather: Scattered storms Sunday, Monday](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/screenshot-2024-11-03-092813.png?ve=1&tl=1)
+ [![James Van Der Beek diagnosed with colorectal cancer](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1478911127-scaled.jpg?ve=1&tl=1)
 
- ![Dallas weather: Scattered storms Sunday, Monday](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/screenshot-2024-11-03-092813.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-scattered-storms-sunday-monday)
+ ![James Van Der Beek diagnosed with colorectal cancer](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1478911127-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/james-van-der-beek-colorectal-cancer)
 
-### [Dallas weather: Scattered storms Sunday, Monday](https://www.fox4news.com/weather/dallas-weather-scattered-storms-sunday-monday)
+### [James Van Der Beek diagnosed with colorectal cancer](https://www.fox4news.com/news/james-van-der-beek-colorectal-cancer)
 
- [![Who's winning the presidential election with 2 days to go?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/trump-harris-1.jpg?ve=1&tl=1)
+ [![Catch a sneak peek of this year's Starbucks holiday cup designs before they're in stores](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/warm-wishes-starbucks.jpg?ve=1&tl=1)
 
- ![Who's winning the presidential election with 2 days to go?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/trump-harris-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/whos-winning-harris-trump-november-3-2024)
+ ![Catch a sneak peek of this year's Starbucks holiday cup designs before they're in stores](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/warm-wishes-starbucks.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/starbucks-holiday-cups-2024)
 
-### [Who's winning the presidential election with 2 days to go?](https://www.fox4news.com/news/whos-winning-harris-trump-november-3-2024)
+### [Catch a sneak peek of this year's Starbucks holiday cup designs before they're in stores](https://www.fox4news.com/news/starbucks-holiday-cups-2024)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
