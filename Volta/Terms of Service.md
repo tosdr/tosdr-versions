@@ -112,8 +112,8 @@ Previous Next
 
 * Magnetic Cables
 * [![Volta MAX 240W Cable Set](//www.voltacharger.com/cdn/shop/files/Max240WCGIblack.webp?v=1730729404&width=104)Volta Max 240W Cable Set](https://voltacharger.com/products/volta-max-240w-cable)
-* [![Volta Max Cable Only](//www.voltacharger.com/cdn/shop/files/BlackMaxcg.webp?v=1729188604&width=104)Volta Max Cable (Only)](https://voltacharger.com/products/volta-max-cable-only)
-* [![Volta Max Tips Only](//www.voltacharger.com/cdn/shop/files/3Tipsmax.webp?v=1727565731&width=104)Volta Max Tips (Only)](https://voltacharger.com/products/volta-max-tips-only)
+* [![Volta Max Cable Only](//www.voltacharger.com/cdn/shop/files/BlackMaxcg.webp?v=1730738178&width=104)Volta Max Cable (Only)](https://voltacharger.com/products/volta-max-cable-only)
+* [![Volta Max Tips Only](//www.voltacharger.com/cdn/shop/files/3Tipsmax.webp?v=1730738723&width=104)Volta Max Tips (Only)](https://voltacharger.com/products/volta-max-tips-only)
 
 * Chargers
 * [![TravelGo 140W Power Adapter](//www.voltacharger.com/cdn/shop/files/140WProductImage_f3ca8f9b-2a7b-471b-812a-9b4100697c6a.webp?v=1713271175&width=104)TravelGo 140W Power Adapter](https://voltacharger.com/products/volta-140w-travel-adapter)
