@@ -26,7 +26,7 @@ WSECU Routing Number: **325181028**
     ### Checking
     
     * [Personal Checking](https://wsecu.org/checking-and-savings/checking)
-    * [Youth Accounts](https://wsecu.org/checking-and-savings/youth-accounts-ages-18-25)
+    * [Youth Checking](https://wsecu.org/checking-and-savings/youth-checking)
     
     ### Savings
     
@@ -40,7 +40,7 @@ WSECU Routing Number: **325181028**
     * [Personal Savings Calculator](https://wsecu.org/resources/personal-savings-calculator)
     * [How to Order Checks](https://wsecu.org/resources/how-to-order-checks)
     * [FAQ](https://wsecu.org/resources?topic=Checking+and+Savings&format=FAQ)
-    * [View All](https://wsecu.org/resources?topic=Checking+and+Savings)
+    * [View All](https://wsecu.org/resources-and-support?topic=Checking+and+Savings)
     
      [![](/Images/Mega%20Menu/share-certificates.jpg) Earn 3.85% APY on 7-month Certificates Open today](https://wsecu.org/checking-and-savings/share-certificates)
     
@@ -109,7 +109,7 @@ WSECU Routing Number: **325181028**
     * [Home Equity Calculator](https://wsecu.org/resources/home-equity-calculator)
     * [Auto Loan Calculator](https://wsecu.org/resources/auto-loan-calculator)
     * [Homebuying Education](https://wsecu.org/resources?focus=format&topic=Home+Mortgage&format=Article)
-    * [View All](https://wsecu.org/resources?topic=Home+Mortgage)
+    * [View All](https://wsecu.org/resources-and-support?topic=Loans)
     
      [![](/Images/Mega%20Menu/mortgage-counseling.jpg) Sit down with a homeownership counselor. Schedule appointment](https://appointments.wsecu.org/s/TinaL)
     
@@ -194,15 +194,15 @@ WSECU Routing Number: **325181028**
     
     * [Bill Pay](https://wsecu.org/resources/bill-pay)
     * [Loan Payments](https://wsecu.org/resources/how-to-make-loan-payments)
-    * [Money Transfers](https://wsecu.org/resources?topic=Money+Transfers)
-    * [Online and Mobile Banking](https://wsecu.org/resources?topic=Online+and+Mobile+Banking)
+    * [Money Transfers](https://wsecu.org/support?topic=Money+Transfers)
+    * [Online and Mobile Banking](https://wsecu.org/support?topic=Online+and+Mobile+Banking)
     
     ### General Help
     
     * [Rates](https://wsecu.org/resources/rates-quick-links)
-    * [FAQ](https://wsecu.org/resources?format=FAQ)
-    * [How To's](https://wsecu.org/resources?format=How+to)
-    * [View All Support](https://wsecu.org/resources)
+    * [FAQ](https://wsecu.org/support?format=FAQ)
+    * [How To's](https://wsecu.org/support?format=How+to)
+    * [View All Support](https://wsecu.org/support)
     
      [![](/Images/Mega%20Menu/Everfi.jpg) Explore our Financial Wellness Tools Let's Go](https://wsecu.org/financial-wellness)
     
@@ -278,7 +278,7 @@ Go back to the search field
     ### Checking
     
     * [Personal Checking](https://wsecu.org/checking-and-savings/checking)
-    * [Youth Accounts](https://wsecu.org/checking-and-savings/youth-accounts-ages-18-25)
+    * [Youth Checking](https://wsecu.org/checking-and-savings/youth-checking)
     
     ### Savings
     
@@ -292,7 +292,7 @@ Go back to the search field
     * [Personal Savings Calculator](https://wsecu.org/resources/personal-savings-calculator)
     * [How to Order Checks](https://wsecu.org/resources/how-to-order-checks)
     * [FAQ](https://wsecu.org/resources?topic=Checking+and+Savings&format=FAQ)
-    * [View All](https://wsecu.org/resources?topic=Checking+and+Savings)
+    * [View All](https://wsecu.org/resources-and-support?topic=Checking+and+Savings)
     
      [![](/Images/Mega%20Menu/share-certificates.jpg) Earn 3.85% APY on 7-month Certificates Open today](https://wsecu.org/checking-and-savings/share-certificates)
     
@@ -361,7 +361,7 @@ Go back to the search field
     * [Home Equity Calculator](https://wsecu.org/resources/home-equity-calculator)
     * [Auto Loan Calculator](https://wsecu.org/resources/auto-loan-calculator)
     * [Homebuying Education](https://wsecu.org/resources?focus=format&topic=Home+Mortgage&format=Article)
-    * [View All](https://wsecu.org/resources?topic=Home+Mortgage)
+    * [View All](https://wsecu.org/resources-and-support?topic=Loans)
     
      [![](/Images/Mega%20Menu/mortgage-counseling.jpg) Sit down with a homeownership counselor. Schedule appointment](https://appointments.wsecu.org/s/TinaL)
     
@@ -446,15 +446,15 @@ Go back to the search field
     
     * [Bill Pay](https://wsecu.org/resources/bill-pay)
     * [Loan Payments](https://wsecu.org/resources/how-to-make-loan-payments)
-    * [Money Transfers](https://wsecu.org/resources?topic=Money+Transfers)
-    * [Online and Mobile Banking](https://wsecu.org/resources?topic=Online+and+Mobile+Banking)
+    * [Money Transfers](https://wsecu.org/support?topic=Money+Transfers)
+    * [Online and Mobile Banking](https://wsecu.org/support?topic=Online+and+Mobile+Banking)
     
     ### General Help
     
     * [Rates](https://wsecu.org/resources/rates-quick-links)
-    * [FAQ](https://wsecu.org/resources?format=FAQ)
-    * [How To's](https://wsecu.org/resources?format=How+to)
-    * [View All Support](https://wsecu.org/resources)
+    * [FAQ](https://wsecu.org/support?format=FAQ)
+    * [How To's](https://wsecu.org/support?format=How+to)
+    * [View All Support](https://wsecu.org/support)
     
      [![](/Images/Mega%20Menu/Everfi.jpg) Explore our Financial Wellness Tools Let's Go](https://wsecu.org/financial-wellness)
     
@@ -659,7 +659,7 @@ Banking
 * [Checking](https://wsecu.org/checking-and-savings/checking)
 * [Credit Cards](https://wsecu.org/credit-cards)
 * [Share Certificates](https://wsecu.org/checking-and-savings/share-certificates)
-* [Youth Accounts](https://wsecu.org/checking-and-savings/youth-accounts-ages-18-25)
+* [Youth Accounts](https://wsecu.org/checking-and-savings/youth-checking)
 
 Loans
 -----
