@@ -1,7 +1,7 @@
 Terms & Conditions
 ==================
 
-The Web site and Service(s) are provided by WeMod LLC, a Massachusetts company with a principal place of business located at 68 Harrison Ave, 6th Floor, Boston, MA 02111.
+The Web site and Service(s) are provided by WeMod LLC, a company with a principal place of business located at 390 NE 191st St STE 8621 Miami, FL 33179.
 
 SECTION I: DEFINITIONS, AGREEMENT TO BE BOUND
 ---------------------------------------------
