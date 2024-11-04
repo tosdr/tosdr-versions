@@ -186,11 +186,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![U.S. Army Transportation Corps Aviation Association (TCAA)](https://cdn.returningveterans.org/images/honor/CCF01272010_00000.jpg)  
+![Retired Lt. Col. Jack Greene](https://cdn.returningveterans.org/images/honor/Jack_Greene.jpg)  
 
-**In Honor of U.S. Army Transportation Corps Aviation Association (TCAA)**  
-United States Army  
-Submitted by Ted Cimral](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Retired Lt. Col. Jack Greene**  
+United States Marine Corps  
+Submitted by Cliff and Dolly Mastrangelo](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -233,5 +233,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/03/24 - 1:26:42  
+Printed 11/03/24 - 7:26:26  
 © 2024 Returning Veterans Project
