@@ -233,6 +233,7 @@ Contact Us
 
 Recent Comments
 
+* Richard McDonough on [Ana Kasparian the Latest “Progressive” to Leave the “Cruel” Intolerant Left](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/#comment-783016)
 * Sundevil75 on [Legalizing Pot In Florida Is A Bad Idea — Just Ask Colorado and California](https://www.conservativedailynews.com/2024/11/legalizing-pot-in-florida-is-a-bad-idea-just-ask-colorado-and-california/#comment-783007)
 * charles wilkins on [Here’s How Much More Everyday Items Cost Than When You Voted Four Years Ago](https://www.conservativedailynews.com/2024/10/heres-how-much-more-everyday-items-cost-than-when-you-voted-four-years-ago/#comment-783006)
 * charles wilkins on [Headless In D.C.](https://www.conservativedailynews.com/2024/10/headless-in-d-c/#comment-783005)
@@ -241,7 +242,6 @@ Recent Comments
 * Stanley Warner on [Problem-Riddled Boeing Axes Entire Diversity Division](https://www.conservativedailynews.com/2024/11/problem-riddled-boeing-axes-entire-diversity-division/#comment-782996)
 * Stanley Warner on [Ana Kasparian the Latest “Progressive” to Leave the “Cruel” Intolerant Left](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/#comment-782995)
 * Terry Carlson on [Ana Kasparian the Latest “Progressive” to Leave the “Cruel” Intolerant Left](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/#comment-782994)
-* TMann on [President Joe Biden’s Schedule for Friday, November 1, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-1-2024/#comment-782988)
 
 [Close](#)
 
