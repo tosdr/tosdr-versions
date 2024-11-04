@@ -74,7 +74,7 @@ $11.11/mo
 
 $11.11/mo
 
-5g
+4g
 
 100GB
 
@@ -84,7 +84,7 @@ Use data across 9 countries
 
 [More info](https://pages.circles.life/sg/esim/)
 
-5g
+4g
 
 100GB (4G)
 
@@ -134,7 +134,7 @@ $8/mo
 
 $12/mo
 
-4g
+5g
 
 260GB
 
@@ -342,6 +342,10 @@ HELP
 [Contact Us](https://pages.circles.life/sg/help-center/#contact)[Track My Order](https://activate-shop.circles.life/manage/order?reset=true)[Lost SIM](https://activate-shop.circles.life/manage/order?reset=true)[FAQs](https://circlesasiasupport.zendesk.com/hc/en-us)
 
 [![Circles.Life logo](/sg/assets/general/footer-logo.svg)](https://pages.circles.life/sg/)
+
+![Circles.Life logo](/sg/assets/general/mark-of-trust-certified.png)
+
+![Circles.Life logo](/sg/assets/general/mark-of-trust-certified.png)
 
 * * *
 
