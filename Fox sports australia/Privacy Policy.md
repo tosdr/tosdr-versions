@@ -18,38 +18,64 @@ FOX SCORES
     
 * [Men's ODI
     
-    4/11 14:30 AEST
-    
     |     |     |
     | --- | --- |
-    | AUS | –   |
-    | PAK | –   |
+    | AUS | 2 /36 |
+    | PAK | 203 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI2024-250501)
 * [Sheffield Shield
     
-    |     |     |
-    | --- | --- |
-    | NSW | 239 & 2 /118 |
-    | QLD | 5 /406d |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250107)
-* [Sheffield Shield
+    WA won by inns & 45 runs
     
     |     |     |
     | --- | --- |
-    | TAS | 317 & 5 /52 |
+    | TAS | 317 & 98 |
     | WA  | 9 /460d |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250108)
 * [Sheffield Shield
     
+    Match Drawn
+    
+    |     |     |
+    | --- | --- |
+    | NSW | 239 & 4 /256 |
+    | QLD | 5 /406d |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250107)
+* [Sheffield Shield
+    
+    SA won by 138 runs
+    
     |     |     |
     | --- | --- |
     | SA  | 307 & 8 /270d |
-    | VIC | 232 & 1 /49 |
+    | VIC | 232 & 207 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250109)
+* NRL
+    
+* [Women's PC
+    
+    10/11 11:40 AEST
+    
+    |     |     |
+    | --- | --- |
+    | PNG | –   |
+    | SAM | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/WPAC20240401)
+* [Women's PC
+    
+    10/11 13:50 AEST
+    
+    |     |     |
+    | --- | --- |
+    | AUS | –   |
+    | NZL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/WPAC20240501)
 * Motorsport
     
 * [Formula 1
@@ -186,16 +212,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250914)
 * [NFL
     
-    2nd Qtr
-    
-    |     |     |
-    | --- | --- |
-    | MIN | 0   |
-    | IND | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250907)
-* [NFL
-    
     Full Time
     
     |     |     |
@@ -204,6 +220,16 @@ FOX SCORES
     | LAR | 26  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250913)
+* [NFL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | MIN | 21  |
+    | IND | 13  |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250907)
 * Basketball
     
 * [NBL
@@ -228,22 +254,22 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010148/box-score)
 * [NBA
     
-    4th Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | NO  | 89  |
-    | ATL | 98  |
+    | NO  | 111 |
+    | ATL | 126 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010150/box-score)
 * [NBA
     
-    Half Time
+    Full Time
     
     |     |     |
     | --- | --- |
-    | DAL | 65  |
-    | ORL | 40  |
+    | DAL | 108 |
+    | ORL | 85  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010149/box-score)
 * Football
@@ -264,20 +290,20 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | TOT | 4   |
-    | AVL | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251006)
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
     | MUN | 1   |
     | CHE | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251003)
+* [Premier League
+    
+    5/11 7:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | FUL | –   |
+    | BRE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251008)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
