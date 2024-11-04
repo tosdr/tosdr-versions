@@ -307,6 +307,22 @@ Log in or sign up to view your favorites [Find someone else's favorites](https:/
     
     ![Jewelry working on an Engagement Ring](//images.shaneco.com/is/image/ShaneCo/2023-Nav-Brand-ER_750x520?wid=750) HAND-SELECTED, HAND-SET, HANDCRAFTED. [Shop Engagement Rings](https://www.shaneco.com/engagement-rings?promo_name=nav&promo_id=engagement&promo_creative=image_spring)
     
+* [Holiday Gifts](https://www.shaneco.com/christmas-gift-ideas?promo_name=nav&promo_id=gifts&promo_creative=top)
+    
+    HOLIDAY GIFTING HOLIDAY GIFTING
+    
+    [The Gift Guide](https://www.shaneco.com/christmas-gift-ideas?promo_name=nav&promo_id=gifts&promo_creative=shopguide) [Top Gifts](https://www.shaneco.com/gift-ideas/christmas-presents/c?promo_name=nav&promo_id=gifts&promo_creative=topgifts) [Tom's Favorites](https://www.shaneco.com/fashion-jewelry/toms-favorites/c?promo_name=nav&promo_id=gifts&promo_creative=tomsfav) [The Loupe: The Gift Edit](https://www.shaneco.com/theloupe/gifts-for/holiday-gift-ideas/)
+    
+    FEATURED GIFTS FEATURED GIFTS
+    
+    [Tennis Bracelets](https://www.shaneco.com/bracelets/tennis-bracelets/c?promo_name=nav&promo_id=gifts&promo_creative=tennis) [Stud Earrings](https://www.shaneco.com/studs/landing?promo_name=nav&promo_id=gifts&promo_creative=studs) [Pendants](https://www.shaneco.com/necklaces/pendant-necklaces/c?promo_name=nav&promo_id=gifts&promo_creative=pendants) [Rings](https://www.shaneco.com/fashion-rings/c?promo_name=nav&promo_id=gifts&promo_creative=rings)
+    
+    [![Holiday Gifts](//images.shaneco.com/is/image/ShaneCo/2024_Gift_Holiday_Nav_327x199?wid=278)](https://www.shaneco.com/christmas-gift-ideas?promo_name=nav&promo_id=gifts&promo_creative=image)
+    
+    ### THE HOLIDAY GIFT GUIDE
+    
+    [Shop Gifts](https://www.shaneco.com/christmas-gift-ideas?promo_name=nav&promo_id=gifts&promo_creative=image)
+    
 * [Wedding Bands](https://www.shaneco.com/engagement-wedding/wedding-bands?promo_name=nav&promo_id=wb&promo_creative=top)
     
     WOMEN'S STYLE WOMEN'S BY STYLE [Shop All](https://www.shaneco.com/wedding-bands/c?promo_name=nav&promo_id=wb&promo_creative=womens_all)
@@ -370,34 +386,6 @@ Log in or sign up to view your favorites [Find someone else's favorites](https:/
     [White Gold](https://www.shaneco.com/fashion-jewelry/c/whitegold?promo_name=nav&promo_id=jewelry&promo_creative=metal_whitegold) [Rose Gold](https://www.shaneco.com/fashion-jewelry/c/rosegold?promo_name=nav&promo_id=jewelry&promo_creative=metal_rosegold) [Yellow Gold](https://www.shaneco.com/fashion-jewelry/c/yellowgold?promo_name=nav&promo_id=jewelry&promo_creative=metal_yellowgold) [Sterling Silver](https://www.shaneco.com/fashion-jewelry/c/sterlingsilver?promo_name=nav&promo_id=jewelry&promo_creative=metal_silver)
     
     ![Woman resting her chin on her hand earing fine jewelry](//images.shaneco.com/is/image/ShaneCo/2023-Nav-Brand-FineJewelry-600x619?wid=600) SHINE NEVER GOES OUT OF STYLE [Shop Fine Jewelry](https://www.shaneco.com/fashion-jewelry/c?promo_name=nav&promo_id=jewelry&promo_creative=image)
-    
-* [Gift Ideas](https://www.shaneco.com/gift-ideas?promo_name=nav&promo_id=gifts&promo_creative=top)
-    
-    GIFTS FOR HER GIFTS FOR HER [Shop All](https://www.shaneco.com/gift-ideas?promo_name=nav&promo_id=gifts&promo_creative=forher_top)
-    
-    [Anniversary](https://www.shaneco.com/gifts/anniversary?promo_name=nav&promo_id=gifts&promo_creative=forher_anniversary) [Graduation](https://www.shaneco.com/gift-ideas/graduation-gifts/c?promo_name=nav&promo_id=gifts&promo_creative=forher_graduation) [Birthday](https://www.shaneco.com/gifts/birthday?promo_name=nav&promo_id=gifts&promo_creative=forher_birthday) [Birthstones](https://www.shaneco.com/birthstones-by-month?promo_name=nav&promo_id=gifts&promo_creative=forher_birthstones) [Stud Earrings](https://www.shaneco.com/studs/landing?promo_name=nav&promo_id=gifts&promo_creative=forher_studs) [Wife & Mom](https://www.shaneco.com/gifts/wife-mother?promo_name=nav&promo_id=gifts&promo_creative=forher_mom) [Personalized Gifts](https://www.shaneco.com/personalized-jewelry?promo_name=nav&promo_id=gifts&promo_creative=forher_personalized) [Family Jewelry](https://www.shaneco.com/family-collection/c?promo_name=nav&promo_id=gifts&promo_creative=forher_familycollection) [Mother & Child Collection](https://www.shaneco.com/necklaces/mother-and-child-necklaces/c?promo_name=nav&promo_id=gifts&promo_creative=forher_motherchild) [Bridesmaids](https://www.shaneco.com/gifts/bride-bridesmaids?promo_name=nav&promo_id=gifts&promo_creative=forher_bridesmaids)
-    
-    GIFTS FOR HIM GIFTS FOR HIM [Shop All](https://www.shaneco.com/gifts/for-him?promo_name=nav&promo_id=gifts&promo_creative=forhim)
-    
-    [Dad](https://www.shaneco.com/gifts/husband-and-father?promo_name=nav&promo_id=gifts&promo_creative=forhim_father) [Groomsmen](https://www.shaneco.com/gifts/groomsmen?promo_name=nav&promo_id=gifts&promo_creative=forhim_groomsmen) [Graduation](https://www.shaneco.com/gifts/graduation-gifts?promo_name=nav&promo_id=gifts&promo_creative=forhim_graduation)
-    
-    GIFTS BY CATEGORY GIFTS BY CATEGORY
-    
-    [Stud Earrings](https://www.shaneco.com/studs/landing?promo_name=nav&promo_id=gifts&promo_creative=top_studs) [Necklaces](https://www.shaneco.com/necklaces/c?promo_name=nav&promo_id=gifts&promo_creative=style_necklaces) [Earrings](https://www.shaneco.com/earrings/c?promo_name=nav&promo_id=gifts&promo_creative=style_earrings) [Rings](https://www.shaneco.com/fashion-rings/c?promo_name=nav&promo_id=gifts&promo_creative=style_rings) [Bracelets](https://www.shaneco.com/bracelets/c?promo_name=nav&promo_id=gifts&promo_creative=style_bracelets)
-    
-    [GIFT CARDS](https://www.shaneco.com/gift-card/jewelry-gift-cards-for-him-or-her/p/90000102?promo_name=nav&promo_id=gifts&promo_creative=giftcards)
-    
-    GIFTS BY PRICE GIFTS BY PRICE
-    
-    [Under $250](https://www.shaneco.com/fashion-jewelry/c?q=:relevant:priceFilter:71-275&promo_name=nav&promo_id=gifts&promo_creative=price_u250) [Under $500](https://www.shaneco.com/fashion-jewelry/c?q=:relevant:priceFilter:275-595&promo_name=nav&promo_id=gifts&promo_creative=price_u500) [Under $1000](https://www.shaneco.com/fashion-jewelry/c?q=:relevant:priceFilter:595-1095&promo_name=nav&promo_id=gifts&promo_creative=price_u1000) [Under $2500](https://www.shaneco.com/fashion-jewelry/c?q=:relevant:priceFilter:1095-2750&promo_name=nav&promo_id=gifts&promo_creative=price_u2500) [Under $5000](https://www.shaneco.com/fashion-jewelry/c?q=:relevant:priceFilter:2750-5500&promo_name=nav&promo_id=gifts&promo_creative=price_u5000) [Over $5000](https://www.shaneco.com/fashion-jewelry/c?q=:relevant:priceFilter:5000-45000&promo_name=nav&promo_id=gifts&promo_creative=price_o5000)
-    
-    GIFTS BY STYLE GIFTS BY STYLE
-    
-    [Traditional Gifts](https://www.shaneco.com/gift-ideas/traditional-gifts/c?promo_name=nav&promo_id=gifts&promo_creative=style_traditional) [Elegant Gifts](https://www.shaneco.com/gift-ideas/elegant-gifts/c?promo_name=nav&promo_id=gifts&promo_creative=style_elegant)[Trendy Gifts](https://www.shaneco.com/gift-ideas/trendy-gifts/c?promo_name=nav&promo_id=gifts&promo_creative=style_trendy)
-    
-    [GIFT FINDER QUIZ](https://www.shaneco.com/gift-finder?promo_name=nav&promo_id=gifts&promo_creative=giftquiz)
-    
-    ![Young Woman wearing Fine Jewelry](//images.shaneco.com/is/image/ShaneCo/2023-Nav-Brand_GiftIdeas_654x398?wid=654) MADE TO BE PASSED DOWN FOR GENERATIONS [Shop Gifts](https://www.shaneco.com/gift-ideas?promo_name=nav&promo_id=gifts&promo_creative=image)
     
 * [Personalize](https://www.shaneco.com/personalized-jewelry?promo_name=nav&promo_id=personalize&promo_creative=top)
     
