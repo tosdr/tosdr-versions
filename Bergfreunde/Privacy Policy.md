@@ -10,7 +10,7 @@ Bergfreund Hannes
 
 Ein Kundenkonto bietet Dir viele Vorteile:
 
-30% Gutschein auf Pre-Black Friday Highlights \*\*
+5€ Willkommensrabatt \*\*
 
 Exklusiver Zugang zu Rabattaktionen
 
@@ -72,10 +72,6 @@ Portofrei ab € 69 (DE)
 100 Tage Rückgaberecht
 
 HINWEIS: Um bei uns bestellen zu können musst Du [» Bitte aktiviere Javascript!» Javascript aktivieren!](https://www.bergfreunde.de/javascript-aktivieren/ "Anleitung zum Aktivieren von Javascript")
-
-[](https://www.bergfreunde.de/p/exklusive-deals/?listorderby=bfcustomsort&listorder=asc "Pre-Black Friday Highlights")
-
-30% Gutschein auf PRE-BLACK HIGHLIGHTS »
 
 Menü
 
@@ -1145,9 +1141,9 @@ Von Zeit zu Zeit ist es erforderlich, den Inhalt der vorliegenden Datenschutzhin
 
 Stand: Juli 2024
 
-![Bergfreund Johannes - Einkäufer](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-johannes.png) Bergfreund Johannes - Einkäufer
+![Bergfreund Matthias - Geschäftsführung](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-matthias.png) Bergfreund Matthias - Geschäftsführung
 
-"Ich finde die besten & neuesten Outdoor-Produkte für Dich!"
+"Wir alle müssen mehr Verantwortung übernehmen, damit die Natur uns erhalten bleibt."
 
 [Portofrei ab € 69 (DE)](https://www.bergfreunde.de/versandkosten/ "Finde mehr Info zu den Versandkosten hier!")
 
@@ -1155,11 +1151,11 @@ Stand: Juli 2024
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Gehe hier zu den Rückgabe-Richtlinien")
 
-[![So bewerten uns 43142 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+[![So bewerten uns 43161 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 43.142 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+So bewerten uns 43.161 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
@@ -1185,7 +1181,7 @@ Kundenkonto eröffnen
 
  
 
-* 30% Gutschein auf Pre-Black Friday Highlights \*\*
+* 5€ Willkommensrabatt \*\*
     
 * Exklusiver Zugang zu Rabattaktionen
     
@@ -1225,7 +1221,7 @@ Kundenservice
 * [Pflegewiki](https://www.bergfreunde.de/pflegewiki/ "Pflegewiki von Bergfreunde")
 
 * \* Die durchgestrichenen Preise entsprechen unseren Markteinführungspreisen der aktuellen Saison.
-* \*\* Der Code ist gültig vom 31.10.2024 bis inkl. 03.11.2024, 23.59 Uhr. Gutscheincode im Warenkorb eingeben und 30% werden automatisch abgezogen. Der Code ist nur gültig für PRE-Black Friday Highlight Artikel, erreichbar unter der folgenden Landingpage: [https://www.bergfreunde.de/p/exklusive-deals/](https://www.bergfreunde.de/p/exklusive-deals/). Der Gutschein ist nur einmalig einlösbar und gilt nicht bei bereits getätigten Bestellungen. Nicht mit anderen Aktionsgutscheinen kombinierbar. Keine Barauszahlung möglich.
+* \*\* Der Gutschein gilt ab einem Mindestabnahmewert (nach Retoure) von 40 Euro. Gutscheine für die Erstellung eines Kundenkonto können nur einmal pro Person und Bestellung eingelöst werden. Der Gutschein kann nicht für bereits ausgeführte Bestellungen benutzt werden und ist nicht mit weiteren Gutscheinen kombinierbar.
 
 Highlights
 
