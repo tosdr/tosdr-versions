@@ -1,6 +1,6 @@
-[🇺🇸 Veteran's Day Deal: Survival Food + FREE Water Filtration![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
+[America Loves This Delicious 4-Week Survival Food Kit![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
 
-Learn More](https://products.4patriots.com/holiday/veterans-day/improved-3month-kit?afid=mkt&aff_sub=20241104_cam_4p_ecom_announce_3moplatuwf-vet-4pevent&utm_campaign=mkt_ecom_3moplatuwf-vet-4pevent_20241104&utm_medium=ecom&utm_source=cam&utm_content=announce&utm_term=4p&nb_klid={{)![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
+Learn More](https://4patriots.com/product/4-week-emergency-survival-food-kit)![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
 
 [SHOP](https://4patriots.com/category/shop-all)
 
@@ -366,11 +366,11 @@ If you are using the Site from outside the United States, please be aware that P
 * Right to Delete: You have the right to request the deletion of your personal information that 4P has collected.
 * Right to Opt-Out: You can opt out of the sale of your personal information and the use of your personal information for interest-based advertising.
 
-4\. Exercising Your Rights: To exercise any of the above rights, please complete [this form](https://4patriots.com/pages/ccpa-form). 4P may reasonably require additional information to verify your identity before we can process your request.
+4\. Exercising Your Rights: To exercise any of the above rights, please complete [this form](https://4patriots.com/page/frequently-asked-questions). 4P may reasonably require additional information to verify your identity before we can process your request.
 
 5\. Non-Discrimination: 4P will not discriminate against you for exercising any of your privacy rights under State law.
 
-Certain States may provide similar rights to residents to access, rectify, delete, or port their personal information, and the right to appeal decisions regarding such requests. These requests can be made through [this form](https://4patriots.com/pages/ccpa-form).
+Certain States may provide similar rights to residents to access, rectify, delete, or port their personal information, and the right to appeal decisions regarding such requests. These requests can be made through [this form](https://4patriots.com/page/frequently-asked-questions).
 
 If you have any questions or need further assistance regarding your rights or our privacy practices, please contact us using the information provided in the "Contact Us" section of our Site.
 
