@@ -226,9 +226,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Sends More Than $2.5 Million to Consumers Deceived by Credit Karma’s Allegedly False “Pre-Approved” Credit Offers](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-sends-more-25-million-consumers-deceived-credit-karmas-allegedly-false-pre-approved-credit)
+    ### [FTC Sends More Than $17 Million to Consumers Harmed by Brigit’s Deceptive Claims, Junk Fees, and Confusing Cancellation Process](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-sends-more-17-million-consumers-harmed-brigits-deceptive-claims-junk-fees-confusing-cancellation)
     
-    October 31, 2024
+    November 4, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
@@ -237,9 +237,9 @@ Main Menu Mega
     
     Nov07
     
-    ### [Office Hours for Librarians - November 7, 2024](https://www.ftc.gov/news-events/events/2024/11/office-hours-librarians-november-7-2024)
+    ### [Ex Parte Meeting on Unfair or Deceptive Fees Rulemaking between Commissioner Ferguson's Office and the Travel Management Coalition](https://www.ftc.gov/news-events/events/2024/11/ex-parte-meeting-unfair-or-deceptive-fees-rulemaking-between-commissioner-fergusons-office-travel)
     
-    Thursday, November 7, 2024 | 2:00PM - 3:00PM
+    Thursday, November 7, 2024 | 10:30AM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
@@ -406,6 +406,31 @@ Breadcrumb
 2. [Policy and Notices](https://www.ftc.gov/policy-notices)
 
 [Vea esta página en español](https://www.ftc.gov/es/politica-de-privacidad-0)
+
+Policy and Notices Menu
+-----------------------
+
+[Policy and Notices](https://www.ftc.gov/policy-notices)
+--------------------------------------------------------
+
+* [Privacy Policy](https://www.ftc.gov/privacy)
+    * [Internet Cookies](https://www.ftc.gov/policy-notices/privacy-policy/internet-cookies)
+    * [Privacy Act Systems](https://www.ftc.gov/policy-notices/privacy-policy/privacy-act-systems)
+    * [Privacy Impact Assessments](https://www.ftc.gov/policy-notices/privacy-policy/privacy-impact-assessments)
+    * [Privacy Policy FAQs](https://www.ftc.gov/policy-notices/privacy-policy/privacy-policy-faqs)
+    * [Third-Party Services](https://www.ftc.gov/policy-notices/privacy-policy/third-party-services)
+    * [Make a Privacy Act Request](https://www.ftc.gov/policy-notices/privacy-policy/make-privacy-act-request)
+* [Website Policy](https://www.ftc.gov/policy-notices/website-policy)
+* [Accessibility](https://www.ftc.gov/policy-notices/accessibility)
+* [Digital Government Strategy](https://www.ftc.gov/policy-notices/digital-government-strategy)
+* [Notification and Federal Employee Antidiscrimination and Retaliation Act (No FEAR) P.L. 107-174](https://www.ftc.gov/policy-notices/no-fear-act)
+* [Open Government](https://www.ftc.gov/policy-notices/open-government)
+* [Artificial Intelligence Compliance Plan](https://www.ftc.gov/ai)
+* [Controlled Unclassified Information (CUI)](https://www.ftc.gov/policy-notices/controlled-unclassified-information)
+* [Plain Writing](https://www.ftc.gov/policy-notices/plain-writing)
+* [Small Business Non-retaliation Policy](https://www.ftc.gov/system/files?file=attachments/site-information/small_business_non-retaliation_policy_3-12-19.pdf)
+* [Transition to Internet Protocol version 6 (IPV6)](https://www.ftc.gov/system/files?file=attachments/site-information/ipv6_memorandum_signed.pdf)
+* [Vulnerability Disclosure Policy](https://www.ftc.gov/policy-notices/vulnerability-disclosure-policy)
 
 What Does the FTC Do with Your Personal Information?
 ----------------------------------------------------
