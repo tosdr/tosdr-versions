@@ -2,6 +2,8 @@
 
 [Skip to main content](#site_main)
 
+Alerts
+
 Welcome to Our New Website! [**Subscribe Here to Receive Alerts to Stay Informed!**](https://threeforks.municipalimpact.com/subscribe)
 
 [Contact Us](https://www.threeforksmontana.us/contact-us)
@@ -199,9 +201,28 @@ Three Forks, MT 59752
 Powered by [MunicipalImpact.com](https://www.municipalimpact.com/)  
 [Admin](https://clients.municipalimpact.com/client/?e=fd9435d9ca85e8a8563e00474436c432)
 
+Alert
+-----
+
+### [Discolored Water Warning](https://www.threeforksmontana.us/alerts)
+
+11/04/2024
+
+Discolored water alert - you may have what looks like "dirty" water due to the Three Forks Volunteer Firefighters helping to put out a structure fire last night. Please run it for 10-15 minutes if you experience brown water.  
+  
+This is caused by more water flowing through the mains than normal usage, which stirs up sediment that settles in the bottom of mains and service lines.
+
+Okay, Got It!
+
 Alerts
 ------
 
-### No active alerts at this time.
+### [Discolored Water Warning](https://www.threeforksmontana.us/alerts)
+
+11/04/2024
+
+Discolored water alert - you may have what looks like "dirty" water due to the Three Forks Volunteer Firefighters helping to put out a structure fire last night. Please run it for 10-15 minutes if you experience brown water.  
+  
+This is caused by more water flowing through the mains than normal usage, which stirs up sediment that settles in the bottom of mains and service lines.
 
 Okay, Got It!
