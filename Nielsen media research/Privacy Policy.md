@@ -4,7 +4,7 @@
 
 [**Audience measurement**](https://www.nielsen.com/solutions/audience-measurement/#audience-measurement)
 
-[Audio measurement](https://www.nielsen.com/solutions/audience-measurement/#audio-measurement)
+[Advanced audiences](https://www.nielsen.com/solutions/audience-measurement/advanced-audiences/)
 
 [Cross-media measurement](https://www.nielsen.com/solutions/audience-measurement/#cross-media-measurement)
 
@@ -13,6 +13,8 @@
 [Streaming measurement](https://www.nielsen.com/solutions/audience-measurement/#digital-measurement)
 
 [TV measurement](https://www.nielsen.com/solutions/audience-measurement/#tv-measurement)
+
+[Audio measurement](https://www.nielsen.com/solutions/audience-measurement/#audio-measurement)
 
 [**Media planning**](https://www.nielsen.com/solutions/media-planning/)
 
