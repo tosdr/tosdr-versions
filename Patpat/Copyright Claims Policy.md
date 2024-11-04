@@ -1,5 +1,3 @@
-Free Shipping Over $45.00
-
 Easy returns within 30 days
 
 24/7 Online customer service
@@ -68,9 +66,9 @@ Email: copyright@patpat.com
 
 Last updated on October 11, 2018
 
-#### Subscribe and Unlock 20% Off Now!
+#### Subscribe and Unlock 15% Off Now!
 
-Subscribe to our newsletter or text and receive a 20% OFF CODE for your next purchase! Plus, enjoy exclusive updates, special deals, and insights into new product launches. Subscribe now and start saving!
+Subscribe to our newsletter or text and receive a 15% OFF CODE for your next purchase! Plus, enjoy exclusive updates, special deals, and insights into new product launches. Subscribe now and start saving!
 
 JOIN
 
@@ -78,7 +76,7 @@ JOIN
 
 JOIN
 
-20% OFF
+15% OFF
 
 Thank for subscribing! You will receive an email with your discount code shortly!
 
