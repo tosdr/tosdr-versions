@@ -50,13 +50,13 @@ Search for:
 
 [NBC files Equal Time notice with the FCC late Sunday after fallout over Kamala’s SNL gift](https://americanwirenews.com/nbc-files-equal-time-notice-with-the-fcc-late-sunday-after-fallout-over-kamalas-snl-gift/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-trump-harris-1200x630.jpg)](https://americanwirenews.com/experts-dont-buy-shock-poll-that-says-kamala-harris-is-suddenly-ahead-in-iowa/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-kennedy-1200x630.jpg)](https://americanwirenews.com/rfk-jr-makes-a-big-day-one-promise-if-trump-wins/)
 
-[Experts don’t buy ‘shock poll’ that says Kamala Harris is suddenly ahead in Iowa](https://americanwirenews.com/experts-dont-buy-shock-poll-that-says-kamala-harris-is-suddenly-ahead-in-iowa/)
+[RFK Jr. makes a big ‘day one’ promise if Trump wins](https://americanwirenews.com/rfk-jr-makes-a-big-day-one-promise-if-trump-wins/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-browns-1200x630.jpg)](https://americanwirenews.com/daughter-of-nfl-legend-endorses-trump-slams-dems-for-taking-away-womens-rights/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kaepernick-1200x630.jpg)](https://americanwirenews.com/kaepernick-whines-that-he-was-targeted-and-minimized-by-trump-over-anthem-protests/)
 
-[Daughter of NFL legend endorses Trump, slams Dems for ‘taking away women’s rights’](https://americanwirenews.com/daughter-of-nfl-legend-endorses-trump-slams-dems-for-taking-away-womens-rights/)
+[Kaepernick whines that he was ‘targeted’ and ‘minimized’ by Trump over anthem protests](https://americanwirenews.com/kaepernick-whines-that-he-was-targeted-and-minimized-by-trump-over-anthem-protests/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-maria-ted11200-x-628-1200x630.jpg)
 
@@ -64,19 +64,69 @@ Search for:
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Don Jr. trolls Biden’s ‘garbage’ insult on Halloween: ‘Embrace their hate’](https://americanwirenews.com/don-jr-trolls-bidens-garbage-insult-on-halloween-embrace-their-hate/)
+### [CNN analyst called out for letting TDS get the better of him over Cheney comments](https://americanwirenews.com/cnn-analyst-called-out-for-letting-tds-get-the-better-of-him-over-cheney-comments/)
 
-### [Live shot goes sideways when likely Kamala voter reveals her reasons: ‘I’m ill and I need birth control’](https://americanwirenews.com/live-shot-goes-sideways-when-likely-kamala-voter-reveals-her-reasons-im-ill-and-i-need-birth-control/)
+### [Lindsey Graham slams ‘bullsh\*t’ from Liz Cheney: ‘She is selling out conservatism to stay relevant’](https://americanwirenews.com/lindsey-graham-slams-bullsht-from-liz-cheney-she-is-selling-out-conservatism-to-stay-relevant/)
 
-### [‘You’re to ask no follow-up questions’: Pro-Kamala media in lockstep over brutal October jobs numbers](https://americanwirenews.com/youre-to-ask-no-follow-up-questions-pro-kamala-media-in-lockstep-over-brutal-october-jobs-numbers/)
+### [Plug gets pulled on Joe after human ‘garbage’ gaffe](https://americanwirenews.com/plug-gets-pulled-on-joe-after-human-garbage-gaffe/)
 
-### [JD Vance dishes on personal experience with COVID vaccine: ‘Sick as I’ve ever been’](https://americanwirenews.com/jd-vance-dishes-on-personal-experience-with-covid-vaccine-sick-as-ive-ever-been/)
+### [Dem AG to probe Trump over ‘possible death threat’ to Cheney in latest lawfare op](https://americanwirenews.com/dem-ag-to-probe-trump-over-possible-death-threat-to-cheney-in-latest-lawfare-op/)
 
-### [‘I’m done!’ Hugh Hewitt rips off headset, storms off ‘unfair’ WaPo Live stream](https://americanwirenews.com/im-done-hugh-hewitt-rips-off-headset-storms-off-unfair-wapo-live-stream/)
+### [Racial bomb-thrower dives down conspiracy theorist rabbit hole, details how Trump will ‘steal’ election](https://americanwirenews.com/racial-bomb-thrower-dives-down-conspiracy-theorist-rabbit-hole-details-how-trump-will-steal-election/)
 
-### [News outlet gets surprising results after surveying Tim Walz’s hometown for support](https://americanwirenews.com/news-outlet-gets-surprising-results-after-surveying-tim-walzs-hometown-for-support/)
+### [Even Trump’s haters aren’t buying Liz Cheney’s spin on his comments: ‘Bald-faced lie’](https://americanwirenews.com/even-trumps-haters-arent-buying-liz-cheneys-spin-on-his-comments-bald-faced-lie/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-charlie-kirk-220x180.jpg)](https://americanwirenews.com/this-one-is-going-viral-you-almost-feel-sorry-for-this-poor-uneducated-kid-challenging-charlie-kirk/)
+
+[This one is going viral: You almost feel sorry for this poor uneducated kid challenging Charlie Kirk](https://americanwirenews.com/this-one-is-going-viral-you-almost-feel-sorry-for-this-poor-uneducated-kid-challenging-charlie-kirk/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cardib-220x180.jpg)](https://americanwirenews.com/she-mad-cardi-b-unloads-on-critics-of-bungled-kamala-rally-speech-with-expletive-rant/)
+
+[She mad! Cardi-B UNLOADS on critics of bungled Kamala rally speech with expletive rant](https://americanwirenews.com/she-mad-cardi-b-unloads-on-critics-of-bungled-kamala-rally-speech-with-expletive-rant/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2022/09/SG-free-speech-220x180.png)](https://americanwirenews.com/freedom-of-speech-is-on-this-ballot-uk-like-rules-imprisonments-for-violations-seem-imminent-with-kamala/)
+
+[Freedom of speech is on this ballot. UK-like rules, imprisonments for violations seem imminent with Kamala](https://americanwirenews.com/freedom-of-speech-is-on-this-ballot-uk-like-rules-imprisonments-for-violations-seem-imminent-with-kamala/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hunt-mckinnon-220x180.jpg)](https://americanwirenews.com/granny-gap-and-pssed-puerto-ricans-could-decide-the-race-says-circus-creator/)
+
+[‘Granny gap’ and ‘p\*ssed’ Puerto Ricans could decide the race, says ‘Circus’ creator](https://americanwirenews.com/granny-gap-and-pssed-puerto-ricans-could-decide-the-race-says-circus-creator/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cnn-trump-mic-220x180.jpg)](https://americanwirenews.com/cnns-van-jones-sees-trumps-on-stage-behavior-as-obscene-hes-fellating-a-microphone/)
+
+[CNN’s Van Jones sees Trump’s on-stage behavior as obscene ‘he’s fellating a microphone’](https://americanwirenews.com/cnns-van-jones-sees-trumps-on-stage-behavior-as-obscene-hes-fellating-a-microphone/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-nfl-trump-shirt-220x180.jpg)](https://americanwirenews.com/nfl-fan-told-to-remove-trump-t-shirt-by-security-at-bills-dolphins-game-pushes-back/)
+
+[NFL fan told to remove Trump T-shirt by security at Bills-Dolphins game pushes back](https://americanwirenews.com/nfl-fan-told-to-remove-trump-t-shirt-by-security-at-bills-dolphins-game-pushes-back/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-times-strike-220x180.jpg)](https://americanwirenews.com/they-did-it-hundreds-of-new-york-times-staffers-go-on-strike-the-day-before-election/)
+
+[They did it: Hundreds of New York Times staffers go on strike the day before election](https://americanwirenews.com/they-did-it-hundreds-of-new-york-times-staffers-go-on-strike-the-day-before-election/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ingraham-220x180.jpg)](https://americanwirenews.com/tearful-moms-riveting-video-goes-viral-for-vivid-picture-of-struggling-america-under-kamala/)
+
+[Tearful mom’s riveting video goes viral for vivid picture of struggling America under Kamala](https://americanwirenews.com/tearful-moms-riveting-video-goes-viral-for-vivid-picture-of-struggling-america-under-kamala/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-california-voting-220x180.jpg)](https://americanwirenews.com/voter-records-his-experience-at-poll-to-show-how-easy-it-is-to-lie-i-take-your-word-for-it-its-california/)
+
+[Voter records his experience at poll to show how easy it is to lie: ‘I take your word for it — it’s California’](https://americanwirenews.com/voter-records-his-experience-at-poll-to-show-how-easy-it-is-to-lie-i-take-your-word-for-it-its-california/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/03/RF-Trump-McConnell-220x180.jpg)](https://americanwirenews.com/trump-trolls-mitch-mcconnell-for-endorsing-him/)
+
+[Trump trolls Mitch McConnell for endorsing him](https://americanwirenews.com/trump-trolls-mitch-mcconnell-for-endorsing-him/)
+
+(Official White House Photo by Shealah Craighead)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-dcmickeyd-1200-x-628-220x180.jpg)](https://americanwirenews.com/deep-blue-city-business-owners-board-up-prepare-for-possible-election-violence/)
+
+[Deep blue city business owners board up, prepare for possible election violence](https://americanwirenews.com/deep-blue-city-business-owners-board-up-prepare-for-possible-election-violence/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ferrell-220x180.jpg)](https://americanwirenews.com/actor-will-ferrells-new-harris-ad-sounds-like-a-threat-this-time-we-will-hold-you-personally-responsible/)
+
+[Actor Will Ferrell’s new Harris ad sounds like a threat: ‘this time, we will hold you personally responsible’](https://americanwirenews.com/actor-will-ferrells-new-harris-ad-sounds-like-a-threat-this-time-we-will-hold-you-personally-responsible/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-harris-220x180.jpg)](https://americanwirenews.com/cnn-shocks-audience-points-out-how-insincere-kamala-has-opposite-messages-in-ads-for-each-state/)
 
@@ -97,6 +147,10 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gabbard-cheney-220x180.jpg)](https://americanwirenews.com/tulsi-sets-the-record-straight-on-cowardly-dick-and-liz-cheney/)
 
 [Tulsi sets the record straight on ‘cowardly’ Dick and Liz Cheney](https://americanwirenews.com/tulsi-sets-the-record-straight-on-cowardly-dick-and-liz-cheney/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-trump-harris-220x180.jpg)](https://americanwirenews.com/experts-dont-buy-shock-poll-that-says-kamala-harris-is-suddenly-ahead-in-iowa/)
+
+[Experts don’t buy ‘shock poll’ that says Kamala Harris is suddenly ahead in Iowa](https://americanwirenews.com/experts-dont-buy-shock-poll-that-says-kamala-harris-is-suddenly-ahead-in-iowa/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-abcleavitt-1200-x-628-220x180.jpg)](https://americanwirenews.com/could-this-be-the-next-white-house-press-secretary-trumps-national-spokeswoman-gives-masterclass-in-handling-regime-media/)
 
@@ -121,58 +175,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-biden-220x180.jpg)](https://americanwirenews.com/joe-wants-to-smack-trump-in-the-ass-in-latest-outburst/)
 
 [Joe wants to smack Trump ‘in the ass’ in latest outburst](https://americanwirenews.com/joe-wants-to-smack-trump-in-the-ass-in-latest-outburst/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ford-1200-x-628-220x180.jpg)](https://americanwirenews.com/hollywood-legend-latest-filthy-rich-celebrity-fat-cat-to-endorse-kamala/)
-
-[Hollywood legend latest filthy rich celebrity fat cat to endorse Kamala](https://americanwirenews.com/hollywood-legend-latest-filthy-rich-celebrity-fat-cat-to-endorse-kamala/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-irs-whistleblowers-220x180.jpg)](https://americanwirenews.com/house-republicans-furious-about-alleged-irs-whistleblower-retaliation-accept-a-demotion-or-resign/)
-
-[House Republicans furious about alleged IRS whistleblower retaliation: ‘Accept a demotion or resign’](https://americanwirenews.com/house-republicans-furious-about-alleged-irs-whistleblower-retaliation-accept-a-demotion-or-resign/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-paul-220x180.jpg)](https://americanwirenews.com/ron-paul-expresses-interest-in-working-with-elon-if-trump-is-elected-lets-end-the-fed/)
-
-[Ron Paul expresses interest in working with Elon if Trump is elected: ‘Let’s end the Fed!’](https://americanwirenews.com/ron-paul-expresses-interest-in-working-with-elon-if-trump-is-elected-lets-end-the-fed/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cuomo-oreilly-smith-220x180.jpg)](https://americanwirenews.com/oreilly-dismisses-gop-belief-that-kamala-has-power-as-vp-shes-lucky-she-can-order-lunch/)
-
-[O’Reilly dismisses GOP belief that Kamala has power as VP: ‘She’s lucky she can order lunch!’](https://americanwirenews.com/oreilly-dismisses-gop-belief-that-kamala-has-power-as-vp-shes-lucky-she-can-order-lunch/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/rf-pexels-judge-gavel-220x180.jpg)](https://americanwirenews.com/major-blow-to-gop-scotus-upholds-provisional-ballot-ruling-in-battleground-state/)
-
-[Major blow to GOP: SCOTUS upholds provisional ballot ruling in battleground state](https://americanwirenews.com/major-blow-to-gop-scotus-upholds-provisional-ballot-ruling-in-battleground-state/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-butler-usss-220x180.jpg)](https://americanwirenews.com/investigation-into-trump-assassination-attempt-may-result-in-disciplinary-action-for-secret-service/)
-
-[Investigation into Trump assassination attempt may result in disciplinary action for Secret Service](https://americanwirenews.com/investigation-into-trump-assassination-attempt-may-result-in-disciplinary-action-for-secret-service/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-nick-bosa-220x180.jpg)](https://americanwirenews.com/nfl-declines-to-suspend-star-player-for-wearing-maga-hat-but-he-may-still-face-punishment/)
-
-[NFL declines to suspend star player for wearing MAGA hat, but he may still face punishment](https://americanwirenews.com/nfl-declines-to-suspend-star-player-for-wearing-maga-hat-but-he-may-still-face-punishment/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-amish-220x180.jpg)](https://americanwirenews.com/amish-voters-could-be-the-key-to-trumps-success-in-pennsylvania-they-want-to-be-left-alone/)
-
-[Amish voters could be the key to Trump’s success in Pennsylvania: ‘They want to be left alone’](https://americanwirenews.com/amish-voters-could-be-the-key-to-trumps-success-in-pennsylvania-they-want-to-be-left-alone/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/01/SG-Kamala-Harris-220x180.jpg)](https://americanwirenews.com/harris-camp-sends-mixed-signals-in-ads-targeting-jewish-arab-american-voters/)
-
-[Harris camp sends mixed signals in ads targeting Jewish, Arab-American voters](https://americanwirenews.com/harris-camp-sends-mixed-signals-in-ads-targeting-jewish-arab-american-voters/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-goldberg-220x180.jpg)](https://americanwirenews.com/cnn-analyst-called-out-for-letting-tds-get-the-better-of-him-over-cheney-comments/)
-
-[CNN analyst called out for letting TDS get the better of him over Cheney comments](https://americanwirenews.com/cnn-analyst-called-out-for-letting-tds-get-the-better-of-him-over-cheney-comments/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-lindseyfox-1200-x-628-220x180.jpg)](https://americanwirenews.com/lindsey-graham-slams-bullsht-from-liz-cheney-she-is-selling-out-conservatism-to-stay-relevant/)
-
-[Lindsey Graham slams ‘bullsh\*t’ from Liz Cheney: ‘She is selling out conservatism to stay relevant’](https://americanwirenews.com/lindsey-graham-slams-bullsht-from-liz-cheney-she-is-selling-out-conservatism-to-stay-relevant/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-votojoe-1200-x-628-220x180.jpg)](https://americanwirenews.com/plug-gets-pulled-on-joe-after-human-garbage-gaffe/)
-
-[Plug gets pulled on Joe after human ‘garbage’ gaffe](https://americanwirenews.com/plug-gets-pulled-on-joe-after-human-garbage-gaffe/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kris-meyes-220x180.jpg)](https://americanwirenews.com/dem-ag-to-probe-trump-over-possible-death-threat-to-cheney-in-latest-lawfare-op/)
-
-[Dem AG to probe Trump over ‘possible death threat’ to Cheney in latest lawfare op](https://americanwirenews.com/dem-ag-to-probe-trump-over-possible-death-threat-to-cheney-in-latest-lawfare-op/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -260,29 +262,29 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/12/SG-Trump-Cheney-1200x630.jpg)](https://americanwirenews.com/liz-cheney-gets-pummeled-over-dishonest-spin-on-alleged-trump-death-threat/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-biden-beccera-1200x630.jpg)](https://americanwirenews.com/conservative-group-suing-biden-admin-over-docs-on-taxpayer-funds-aiding-illegals/)
 
-[Liz Cheney gets pummeled over dishonest spin on alleged Trump ‘death’ threat](https://americanwirenews.com/liz-cheney-gets-pummeled-over-dishonest-spin-on-alleged-trump-death-threat/)
+[Conservative group suing Biden admin over docs on taxpayer funds aiding illegals](https://americanwirenews.com/conservative-group-suing-biden-admin-over-docs-on-taxpayer-funds-aiding-illegals/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/12/SG-Trump-Cheney-220x180.jpg)](https://americanwirenews.com/liz-cheney-gets-pummeled-over-dishonest-spin-on-alleged-trump-death-threat/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-biden-beccera-220x180.jpg)](https://americanwirenews.com/conservative-group-suing-biden-admin-over-docs-on-taxpayer-funds-aiding-illegals/)
 
-[Liz Cheney gets pummeled over dishonest spin on alleged Trump ‘death’ threat](https://americanwirenews.com/liz-cheney-gets-pummeled-over-dishonest-spin-on-alleged-trump-death-threat/)
+[Conservative group suing Biden admin over docs on taxpayer funds aiding illegals](https://americanwirenews.com/conservative-group-suing-biden-admin-over-docs-on-taxpayer-funds-aiding-illegals/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-dreamers-protest-220x180.jpg)](https://americanwirenews.com/illegal-immigrant-dreamers-eligible-to-sign-up-for-obamacare-for-the-first-time/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jennifer-lopez-220x180.jpg)](https://americanwirenews.com/emotional-j-lo-backs-harris-internet-questions-her-motive-she-warned-us-about-trump-but-not-diddy/)
 
-[Illegal immigrant ‘dreamers’ eligible to sign up for Obamacare for the first time](https://americanwirenews.com/illegal-immigrant-dreamers-eligible-to-sign-up-for-obamacare-for-the-first-time/)
+[Emotional J.Lo backs Harris, internet questions her motive: ‘She warned us about Trump but not Diddy’](https://americanwirenews.com/emotional-j-lo-backs-harris-internet-questions-her-motive-she-warned-us-about-trump-but-not-diddy/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-patrick-cuban-220x180.png)](https://americanwirenews.com/buckle-up-danica-patrick-has-a-big-bold-video-girl-message-for-mark-cuban/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liz-kamala-split-1200-x-628-1-220x180.jpg)](https://americanwirenews.com/liar-kamalas-closing-message-defending-lying-neocon-liz-cheney/)
 
-[Buckle up! Danica Patrick has a big, bold video girl-message for Mark Cuban](https://americanwirenews.com/buckle-up-danica-patrick-has-a-big-bold-video-girl-message-for-mark-cuban/)
+[Liar Kamala’s closing message? Defending lying neocon Liz Cheney](https://americanwirenews.com/liar-kamalas-closing-message-defending-lying-neocon-liz-cheney/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-walz-220x180.jpg)](https://americanwirenews.com/tim-walz-answers-why-kamala-didnt-fix-anything-over-last-3-5-years/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-dearborndjt-tlaib-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-makes-play-for-the-michigan-muslim-vote-with-visit-to-rashida-tlaibs-home-turf/)
 
-[Tim Walz answers why Kamala didn’t fix anything over last 3.5 years](https://americanwirenews.com/tim-walz-answers-why-kamala-didnt-fix-anything-over-last-3-5-years/)
+[Trump makes play for the Michigan Muslim vote with visit to Rashida Tlaib’s home turf](https://americanwirenews.com/trump-makes-play-for-the-michigan-muslim-vote-with-visit-to-rashida-tlaibs-home-turf/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jimmy_garland-split1-1200-x-628-220x180.jpg)](https://americanwirenews.com/critics-wonder-if-doj-will-go-after-jimmy-kimmel-for-election-interference-like-it-did-to-trump-supporter/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-jr-220x180.jpg)](https://americanwirenews.com/don-jr-trolls-bidens-garbage-insult-on-halloween-embrace-their-hate/)
 
-[Critics wonder if DOJ will go after Jimmy Kimmel for ‘election interference’ like it did to Trump supporter](https://americanwirenews.com/critics-wonder-if-doj-will-go-after-jimmy-kimmel-for-election-interference-like-it-did-to-trump-supporter/)
+[Don Jr. trolls Biden’s ‘garbage’ insult on Halloween: ‘Embrace their hate’](https://americanwirenews.com/don-jr-trolls-bidens-garbage-insult-on-halloween-embrace-their-hate/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -320,6 +322,10 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Jason Kelce attacks fan, goes ballistic on guy for calling Taylor Swift’s boy toy the other F-word](https://americanwirenews.com/jason-kelce-attacks-fan-goes-ballistic-on-guy-for-calling-taylor-swifts-boy-toy-the-other-f-word/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liepman-kcen-220x180.jpg)](https://americanwirenews.com/texas-news-anchor-overwhelmed-with-emotion-as-she-announces-co-anchors-passing/)
+
+[Texas news anchor overwhelmed with emotion as she announces co-anchor’s passing](https://americanwirenews.com/texas-news-anchor-overwhelmed-with-emotion-as-she-announces-co-anchors-passing/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-tucker-carlson-ghost-attack-220x180.jpg)](https://americanwirenews.com/tucker-reveals-he-was-physically-mauled-in-bed-by-possible-demon-who-left-claw-marks/)
 
 [Tucker reveals he was ‘physically mauled’ in bed by possible demon who left ‘claw marks’](https://americanwirenews.com/tucker-reveals-he-was-physically-mauled-in-bed-by-possible-demon-who-left-claw-marks/)
@@ -335,9 +341,5 @@ Getty Images](https://americanwirenews.com/oklahoma-towns-entire-police-force-re
 [Police say two influencers rejected lifejackets before drowning: ‘They get in the way of their tanning’
 
 Getty Images](https://americanwirenews.com/police-say-two-influencers-rejected-lifejackets-before-drowning-they-get-in-the-way-of-their-tanning/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-loomis-220x180.jpg)](https://americanwirenews.com/singer-offers-heartfelt-apology-after-botching-national-anthem-asking-for-do-over-i-am-so-sorry/)
-
-[Singer offers heartfelt apology after botching national anthem, asking for do-over: ‘I am so sorry’](https://americanwirenews.com/singer-offers-heartfelt-apology-after-botching-national-anthem-asking-for-do-over-i-am-so-sorry/)
 
 © 2024. All Rights Reserved. American Wire News
