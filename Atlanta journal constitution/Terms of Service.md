@@ -1,7 +1,5 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Georgia Republicans escalate attacks on counties that accepted weekend ballots](https://www.ajc.com/politics/republicans-escalate-attacks-as-georgia-counties-accept-ballots-over-weekend/AXIXFC3PGNBUDEHKI2363OOQRM/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1792)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1792)](https://www.ajc.com/)
 
 Log In
