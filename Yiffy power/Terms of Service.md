@@ -105,25 +105,25 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 526 1
+0 541 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/bandai-namco-and-etc-created-by-dragonweirdo/)
+[](https://yiff-party.com/yiff/ashley-kinktober-2024-and-etc-created-by-maiteik/)
 
-[bandai namco and etc created by dragonweirdo](https://yiff-party.com/yiff/bandai-namco-and-etc-created-by-dragonweirdo/)
+[ashley (kinktober 2024 and etc) created by maiteik](https://yiff-party.com/yiff/ashley-kinktober-2024-and-etc-created-by-maiteik/)
 
-0 65 0
+0 149 0
 
 October 5, 2024
 
-[](https://yiff-party.com/yiff/dreik-and-hatsu-created-by-drakeraynier/)
+[](https://yiff-party.com/yiff-ai-premium/directed-by-foxedfoxyfox-4/)
 
-[dreik and hatsu created by drakeraynier](https://yiff-party.com/yiff/dreik-and-hatsu-created-by-drakeraynier/)
+[directed by foxedfoxyfox](https://yiff-party.com/yiff-ai-premium/directed-by-foxedfoxyfox-4/)
 
-0 2 0
+0 1 0
 
-November 3, 2024
+November 4, 2024
 
 [Affiliation](https://yiff-party.com/yiff-party-affiliation/) / [Partner](https://yiff-party.com/website-yiff-partner/) / [DMCA](https://yiff-party.com/dmca-yiff-party-com/) / [Terms](https://yiff-party.com/terms-and-conditions/) / [Sitemap](https://yiff-party.com/sitemap/) / [Contact](https://yiff-party.com/Contact/)
 
