@@ -31,6 +31,569 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+El ecuatoriano compra solo ciertos alimentos por los cortes de luz
+==================================================================
+
+La crisis energética en Ecuador afectó el consumo y la conservación de alimentos en los hogares. Expertos sugieren medidas para evitar pérdidas y riesgos sanitarios.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz afectan directamente actividades esenciales, una de ellas, la conservación de alimentos en los hogares.](https://www.elcomercio.com/wp-content/uploads/2024/10/alimentos-cortes.jpg)
+
+**Ecuador** atraviesa por una grave **crisis energética** desde hace más de un mes. El déficit de energía y la prolongada sequía han obligado a programar **cortes de luz** en todo el país. Este lunes 4 de noviembre del 2024 los racionamientos eléctricos son de hasta ocho horas al día[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Cortes de luz en Quito, con nuevos horarios del 1 al 4 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-nuevos-horarios-1-al-4-de-noviembre.html "Cortes de luz en Quito, con nuevos horarios del 1 al 4 de noviembre")
+* [Gobierno acordó con telefónicas medidas de compensación por los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/gobierno-medidas-compensacion-telefonicas-cortes-luz.html "Gobierno acordó con telefónicas medidas de compensación por los cortes de luz")
+* [Bancos privados en Ecuador ofrecen diferir créditos por cortes de luz, ¿en qué consiste?](https://www.elcomercio.com/actualidad/negocios/bancos-privados-en-ecuador-ofrecen-diferir-creditos-por-cortes-de-luz-en-que-consiste.html "Bancos privados en Ecuador ofrecen diferir créditos por cortes de luz, ¿en qué consiste?")
+
+Los prolongados **cortes de luz** plantean desafíos para las autoridades, empresarios y familias. La interrupción del suministro eléctrico afecta directamente actividades esenciales, una de ellas, la conservación de alimentos en los hogares.
+
+Cambios de hábitos de compras en el contexto de cortes de luz
+-------------------------------------------------------------
+
+Debido a los **cortes de luz**, las familias han cambiado sus hábitos de compra, evitando alimentos perecibles.
+
+Por ejemplo, **Silvia Viteri** y su esposo, desde que empezaron los racionamientos, ya no compran muchos **productos perecibles**, como **carnes y lácteos**, solo lo hacen en pequeñas cantidades. “Compramos casi lo que vamos a consumir cada día”, señalaron.
+
+Asimismo, **Lorena Yunda**, madre de familia de 47 años, dijo que todos sus productos cárnicos siempre los tiene en la parte del **congelador de su refrigeradora** y durante los **cortes de luz** no se llegan a descongelar. Sin embargo, ha dejado de comprar alimentos y está utilizando todo lo que tiene en su casa.
+
+Por su parte, **Liliana Martínez**, también señaló que ha dejado de comprar alimentos desde que empezaron los racionamientos eléctricos. “Estoy consumiendo todo lo que tengo en la refrigeradora, no se me ha echado a perder nada y compro a diario lo que me falta”, dijo. Aunque no está segura de que los alimentos estén bien conservados en los locales pequeños.
+
+Así, lo cortes de luz han cambiado los hábitos de compra, especialmente en las tiendas del país, que representa el 65% del consumo en el Ecuador.
+
+**Diego Gizzi**, director de Retail de dichter & neira, señaló que el 66% de los tenderos en Ecuador considera que los apagones han impactado negativamente sus ventas, y que solo 2 de cada 10 tenderos cuentan con un plan para hacer frente a estos cortes, como contar con un generador eléctrico o tener dinero para comprar uno de estos equipos.
+
+No solo afecta a los comerciantes, sino que también limita las opciones de los consumidores, quienes dependen de estos puntos de venta para su abastecimiento cotidiano, dijo.
+
+En este contexto, **Daniel Arteaga**, docente especialista en tecnología de alimentos, señaló la importancia de conservar adecuadamente los alimentos para evitar **pérdidas económicas** y **riesgos sanitarios**.
+
+El experto hizo recomendaciones para proteger los alimentos perecederos y prevenir posibles intoxicaciones debido a los prologados cortes de energía.
+
+Recomendaciones para conservar alimentos
+----------------------------------------
+
+* **Preparar refrigerador y congelador antes del corte.** Poner la temperatura al nivel más bajo un par de horas antes del corte de energía para que los alimentos mantengan una temperatura segura por más tiempo.
+* **Evitar abrir las puertas durante el corte.** Mantener cerradas las puertas del refrigerador y congelador para conservar el frío. Un refrigerador cerrado y bien aislado puede mantener una temperatura segura entre 4 y 6 horas, mientras que un congelador puede hacerlo hasta 24 horas.
+* **Organización de alimentos.** Colocar alimentos altamente perecederos, como carnes, pescados y lácteos, en la zona más fría del refrigerador.
+* **Revisar temperaturas al restablecerse la electricidad**. Verificar que los alimentos no hayan superado los 5°C por más de dos horas, en especial los de origen animal, para evitar riesgo de crecimiento bacteriano. Un termómetro de cocina puede ser útil.
+* **Usar acumuladores de frío.** Tener bolsas de hielo o acumuladores en el congelador para ayudar a mantener la baja temperatura en caso de interrupciones prolongadas.
+
+Estas medidas minimizarán el impacto de los cortes de luz en la seguridad alimentaria, reduciendo el riesgo de consumir alimentos en mal estado, señaló Arteaga.
+
+Nueva alerta en España por DANA y sube el número de fallecidos
+==============================================================
+
+Los efectos de DANA siguen sumando alertas y víctimas en España.
+----------------------------------------------------------------
+
+![Personas retiran el lodo acumulado en una calle de la localidad valenciana de Paiporta.](https://www.elcomercio.com/wp-content/uploads/2024/11/mundo-2-1.jpg)
+
+**Valenciana, Cataluña y Aragón** están en alerta por las fuertes lluvias. Para este lunes, 4 de noviembre de 2024, se contempla un aviso naranja, que implica un riesgo importante. Esto según la Agencia Estatal de Meteorología (Aemet).
+
+En **Valencia**, la provincia más afectada por el denominado fenómeno **DANA** ((Depresión Aislada en Niveles Altos), el aviso naranja estará vigente en principio durante todo el día.
+
+El litoral norte tiene riesgo de precipitación acumulada en una hora de 40 mm, los mismos que en el litoral sur de **Castellón**.
+
+### Más noticias
+
+* [Ecuatoriano relata devastación tras DANA en España](https://www.elcomercio.com/actualidad/mundo/ecuatoriano-relata-devastacion-dana.html "Ecuatoriano relata devastación tras DANA en España")
+* [Cancelan el Gran Premio de MotoGP de la Comunitat Valenciana por la DANA](https://www.elcomercio.com/deportes/motor/moto-gp-gran-premio-valencia-dana.html "Cancelan el Gran Premio de MotoGP de la Comunitat Valenciana por la DANA")
+* [Efectos de la DANA como consecuencia del cambio climático](https://www.elcomercio.com/actualidad/mundo/inundaciones-temporal-espana-deja-fallecidos.html "Efectos de la DANA como consecuencia del cambio climático")
+* [Insultan y lanzan lodo a la comitiva de los reyes de España](https://www.elcomercio.com/actualidad/mundo/insultan-lanzan-lodo-comitiva-reyes-espana.html "Insultan y lanzan lodo a la comitiva de los reyes de España")
+
+DANA y alertas en poblados afectados
+------------------------------------
+
+Los **avisos naranjas** se mantienen también en el litoral norte y el interior de **Castellón**, donde hay posibilidades de lluvia acumulada en 12 horas de hasta 100 mm. Los chubascos serán localizados y las localidades próximas podrían tener acumulados muy dispares.  
+  
+La misma alerta está activada en el prelitoral y el litoral sur de Tarragona, si bien en este caso el **peligro** de precipitación acumulada en 12 horas es de hasta 150 mm.  
+  
+A partir del mediodía se extiende el aviso amarillo -riesgo- a la zona del **Bajo Aragón de Teruel**, el interior sur de **Castellón**, el litoral de Barcelona y el litoral norte, el prelitoral norte y la depresión central de Tarragona, donde podría llover hasta 20 mm en una hora.
+
+Habilitar opción de teletrabajo
+-------------------------------
+
+**Valencia, Tarragona y Castellón** están en alerta por tormentas que pueden ir acompañadas de granizo.
+
+Por otra parte, la **Conselleria de Educación, Cultura, Universidades y Empleo** recomendaron habilitar la opción del teletrabajo para las personas afectadas por **DANA**.
+
+Protección Civil envía nuevas alertas móviles
+---------------------------------------------
+
+Del mismo modo, se emitió una alerta de **protección civil** mediante el sistema ES-Alert, informando a la población de las zonas afectadas que se van a registrar chubascos intensos.
+
+Ante la mayor vulnerabilidad de vías, viviendas e infraestructuras de los municipios afectados por la **DANA**, se recomendó a la población extremar la precaución y seguir los consejos de autoprotección, especialmente en las poblaciones más dañadas por las inundaciones.
+
+El número de **personas fallecidas** debido a los efectos de **DANA** ya suman más de 200 muertos. Este domingo, 3 de noviembre, se hablaba de 217 víctimas.
+
+¿Habrá Pico y placa en Quito el lunes 4 de noviembre?
+=====================================================
+
+Recuerda que en noviembre deben matricular autos con placas terminadas en 0. Revisa los horarios del Pico y placa y evita multas
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Los agentes metropolitanos vigilan el cumplimiento de la medida en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/pico-domingo.jpg)
+
+El **Municipio de Quito** implementó la medida de **Pico y placa** en la capital de los ecuatorianos para tratar de controlar el flujo vehicular dentro de la ciudad.
+
+### Más noticias
+
+* [Pico y placa se suspende en Quito por cinco días](https://www.elcomercio.com/actualidad/quito/pico-y-placa-se-suspende-en-quito-por-cinco-dias.html "Pico y placa se suspende en Quito por cinco días")
+* [Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito](https://www.elcomercio.com/actualidad/quito/paradas-de-la-ecovia-registran-nuevos-cierres-por-trabajos-en-quito.html "Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito")
+* [Cajero automático de una farmacia fue extraído con explosivos](https://www.elcomercio.com/actualidad/seguridad/cajero-automatico-farmacia-robo-explosivos-llano-grande.html "Cajero automático de una farmacia fue extraído con explosivos")
+
+¿Cómo se aplica el Pico y placa?
+--------------------------------
+
+La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
+
+La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
+
+El esquema de aplicación del Pico y Placa
+-----------------------------------------
+
+Según el **último dígito de la placa**, el cronograma es el siguiente:
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes**: placas terminadas en 3 y 4.
+* **Miércoles**: placas terminadas en 5 y 6.
+* **Jueves**: placas terminadas en 7 y 8.
+* **Viernes:** placas terminadas en 9 y 0.
+
+Este lunes 4 de noviembre habrá libre movilidad
+-----------------------------------------------
+
+Ecuador está finalizando un largo **feriado nacional** en conmemoración al **Día de Difuntos** y la **Independencia de Cuenca.** Estos se trasladaron a los días más próximos, de acuerdo con la ley de Feriados vigente.
+
+Así, e**l feriado de Difuntos** se trasladó viernes 1 de noviembre y el día de asueto por la Independencia de Cuenca, al lunes 4 de noviembre.
+
+De acuerdo con la normativa del Pico y placa, **este lunes 4 de noviembre habrá libre movilidad** en el Distrito Metropolitano de Quito, pues la medida [no se aplica los feriados.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+Además, recuerda que en noviembre se inicia el período de revisión y matriculación para los autos con placas terminadas en 0.
+
+> 💁Recuerda que sábados, domingos y feriados existe libre movilidad vehicular.  
+>   
+> 🚦Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/NQ11DGBee1](https://t.co/NQ11DGBee1)
+> 
+> — AMTQuito (@AMT\_Quito) [October 20, 2024](https://twitter.com/AMT_Quito/status/1847941090327896277?ref_src=twsrc%5Etfw)
+
+Guayaquil tendrá cortes de luz este 4 de noviembre y estos son los horarios
+===========================================================================
+
+Cortes de luz en Guayaquil se mantienen para el último día del feriado.
+-----------------------------------------------------------------------
+
+![Cortes de luz continúan en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/luz.jpg)
+
+Este 4 de noviembre de 2024, en el final del feriado por el **Día de Difuntos** e **Independencia de Cuenca**, los **cortes de luz** en Guayaquil tienen horarios establecidos[.](https://es.wikipedia.org/wiki/Guayaquil)[](https://es.wikipedia.org/wiki/Guayaquil)
+
+El cronograma de **apagones** está definido e incluye horarios de seis hasta ocho horas. La nueva planificación se dio desde el inicio de los días de descanso.
+
+### Más noticias
+
+* [Horarios de cortes de luz en Ecuador bajarán del 5 al 10 de noviembre](https://www.elcomercio.com/actualidad/negocios/horario-cortes-luz-ecuador-bajaran-noviembre.html "Horarios de cortes de luz en Ecuador bajarán del 5 al 10 de noviembre")
+* [Cortes de luz en Guayaquil, con nuevos horarios del 1 al 4 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-nuevos-horarios-1-al-4-de-noviembre.html "Cortes de luz en Guayaquil, con nuevos horarios del 1 al 4 de noviembre")
+* [La central hidroeléctrica Mazar reanudó sus operaciones](https://www.elcomercio.com/actualidad/negocios/central-hidroelectrica-mazar-reanudo-operaciones.html "La central hidroeléctrica Mazar reanudó sus operaciones")
+
+Cortes de luz en sectores de Quito
+----------------------------------
+
+La **Empresa Eléctrica Pública Estratégica Corporación Nacional de Electricidad (CNEL)** publicó los horarios hasta este lunes, 4 de noviembre.
+
+En sitios como en **Garzota 6, Comisión de Tránsito del Guayas y Ciudadela Guayacanes**, los cortes están fijados de 08:00 a 12:00 y de 16:00 a 20:00.
+
+El horario es el mismo para zonas como **Colinas del Bosque, urbanización Puerto Azul y Nueva Esperanza**.
+
+Los ajustes en los horarios se dieron luego de las recientes lluvias en la cuenca hidrográfica oriental. Estas mejoraron las condiciones de los ríos que abastecen la central hidroeléctrica **Coca Codo Sinclair**.
+
+Consejos que tomar en cuenta
+----------------------------
+
+Las medidas de seguridad, como mantenerse en los domicilios, son vitales durante los cortes de luz. Ante alguna emergencia hay que llamar al **Ecu 911**.
+
+En caso de vivir en urbanización, edificio o condominio se debe coordinar con la administración y los vecinos, para tener un **plan de emergencia**.
+
+Es importante no circular por calles oscuras y **desoladas**. Es mejor tomar rutas con mayor concurrencia. Es crucial no exhibir pertenencias, como teléfonos. A la par, mantenerse alerta sobre lo que sucede en el entorno.
+
+James Van Der Beek revela su diagnóstico de cáncer colorrectal
+==============================================================
+
+El actor James Van Der Beek, conocido por su papel en Dawson's Creek, ha compartido públicamente que ha sido diagnosticado con esta enfermedad.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+![James Van Der Beek se muestra optimista y está recibiendo el apoyo de su familia. Redes Sociales](https://www.elcomercio.com/wp-content/uploads/2024/11/James-Van-Der.jpg)
+
+El actor **James Van Der Beek**, de 47 años, confirmó que padece **cáncer colorrectal**.
+
+En una declaración a People, el actor mencionó: “He estado lidiando con este diagnóstico en privado y tomando medidas para resolverlo, con el apoyo de mi increíble familia”.
+
+Esta noticia ha conmocionado a sus seguidores, quienes lo han visto crecer en la pantalla desde su papel protagónico en **Dawson’s Creek.**
+
+### Más noticias
+
+* [Heidi Klum se transformó en E.T. y brilló en la fiesta de Halloween 2024](https://www.elcomercio.com/tendencias/entretenimiento/heidi-klum-transformo-et-brillo-fiesta-halloween.html "Heidi Klum se transformó en E.T.  y brilló en la fiesta de Halloween 2024")
+* [Margot Robbie, la Barbie, se estrena como madre](https://www.elcomercio.com/tendencias/entretenimiento/margot-robbie-barbie-estrena-madre.html "Margot Robbie, la Barbie, se estrena como madre")
+* [Estrenos musicales para endulzar el oído en este feriado](https://www.elcomercio.com/tendencias/entretenimiento/estrenos-musica-octubre-feriado-entretenimiento.html "Estrenos musicales para endulzar el oído en este feriado")
+
+La importancia del apoyo familiar
+---------------------------------
+
+**Van Der Beek** ha destacado la importancia del respaldo familiar en este momento difícil. Comparte seis hijos con su **esposa Kimberly**, quienes han sido una fuente de fortaleza durante su tratamiento.
+
+“Hay razones para ser optimista y me siento bien”, afirmó el actor.
+
+Conciencia sobre el cáncer colorrectal
+--------------------------------------
+
+El **cáncer colorrectal** se origina en el colon o el recto y es una de las formas más comunes de cáncer en los **Estados Unidos.**
+
+Según la **American Cancer Society**, aproximadamente uno de cada 23 hombres y una de cada 25 mujeres recibirán este diagnóstico a lo largo de sus vidas.
+
+**Van Der Beek** planea participar en un especial benéfico titulado **The Real Full Monty,** que tiene como objetivo aumentar la conciencia sobre las pruebas y la investigación del cáncer colorrectal.
+
+Proyectos futuros de Van Der Beek
+---------------------------------
+
+A pesar de su diagnóstico, **Van Der Beek** continúa trabajando en nuevos proyectos.
+
+Se espera que aparezca en la película original de **Tubi Sidelined: The QB and Me**, que se estrenará el 29 de noviembre.
+
+Además, está programado para participar en el especial benéfico mencionado anteriormente, donde varios actores se unirán para ayudar a desestigmatizar las pruebas para este **tipo de cáncer.**
+
+Quito exonera el estacionamiento para vehículos eléctricos
+==========================================================
+
+Quito implementa la exoneración del 100% en estacionamientos. ¿Cómo beneficiarte de este beneficio?
+---------------------------------------------------------------------------------------------------
+
+![La Zona Azul ofrece en sus áreas un total de 8 994 plazas de estacionamiento. Foto: Epmmop](https://www.elcomercio.com/wp-content/uploads/2021/12/zonaazul1.jpg)
+
+El **Municipio de Quito** iniciará una iniciativa innovadora para fomentar la movilidad sostenible.
+
+Desde el próximo 5 de noviembre de 2024, los propietarios de autos eléctricos se beneficiarán de la exoneración del 100% en los costos de estacionamiento.
+
+Esta medida, en cumplimiento de la normativa nacional vigente, busca incentivar el uso de vehículos eléctricos y contribuir a un entorno más limpio en **Quito**.
+
+### Más noticias
+
+* [Actividades en museos de Quito por el feriado del Día de los Difuntos](https://www.elcomercio.com/actualidad/quito/museos-actividades-quito-feriado-dia-difuntos.html "Actividades en museos de Quito por el feriado del Día de los Difuntos")
+* [Implicados en explosión de un cajero automático en Quito libres en menos de 24 horas](https://www.elcomercio.com/actualidad/quito/explosion-cajero-automatico-quito.html "Implicados en explosión de un cajero automático en Quito libres en menos de 24 horas")
+* [Iglesias del Centro Histórico de Quito son siempre una alternativa para el feriado](https://www.elcomercio.com/actualidad/quito/iglesias-centro-historico-quito-alternativa-visita-feriado.html "Iglesias del Centro Histórico de Quito son siempre una alternativa para el feriado")
+
+Proceso para acceder al beneficio
+---------------------------------
+
+Para acceder a este beneficio, los usuarios deben seguir un procedimiento simple. Al ingresar a un estacionamiento, es necesario tomar un ticket.
+
+Al salir, los **conductores** deben presentar el ticket junto con la **matrícula del vehículo** en el punto de recaudación.
+
+Este proceso asegura que solo los autos eléctricos accedan a la exoneración, garantizando así un uso adecuado del sistema.
+
+Estacionamiento en Zona Azul
+----------------------------
+
+En los espacios designados como **Zona Azul**, los usuarios también podrán beneficiarse de la exoneración.
+
+Sin embargo, es importante que presenten la **matrícula del vehículo** antes de la emisión del ticket para solicitar esta ventaja.
+
+El **tiempo máximo** permitido de estacionamiento en estas áreas es de **dos horas**, lo que permite una gestión eficiente del espacio público y facilita el acceso a los conductores de autos eléctricos.
+
+Un aporte de Quito con la movilidad verde
+-----------------------------------------
+
+Las **tarifas diferenciadas** aplicarán todos los días, incluyendo feriados, lo que refleja un enfoque proactivo hacia la sostenibilidad y el bienestar de los ciudadanos.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Captura-de-pantalla-2024-11-02-a-las-06.05.55-1024x474.png)
+
+**Quito** busca no solo reducir la huella de carbono, sino también hacer más atractivo el uso de vehículos que respetan el medio ambiente.
+
+Beneficios para vehículos híbridos
+----------------------------------
+
+Además de la exoneración para autos eléctricos, los vehículos híbridos también recibirán un beneficio.
+
+Estos vehículos disfrutarán de una reducción del 50% en el costo de estacionamiento, en concordancia con la normativa local vigente.
+
+Liga de Quito venció a Emelec y presiona en la Liga Pro
+=======================================================
+
+La 'U' sigue en la pelea por ganar la segunda etapa de la Liga Pro, luchando hasta el final.
+--------------------------------------------------------------------------------------------
+
+![Ezequiel Piovi anotó en el partido entre Liga de Quito y Emelec por la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-75.jpg)
+
+Tras la victoria de Independiente del Valle, **Liga de Quito** tenía una sola misión para mantenerse en la disputa, vencer a **Emelec**. Y así lo hizo en la jornada 12 de la Liga Pro, este domingo 3 de noviembre, en el estadio George Capwell.
+
+Los albos ganaron 0-1 y con este triunfo, el **‘Rey de Copas’ igualó a Independiente del Valle con 26 puntos**. Aunque los ‘rayados’ lideran por diferencia de goles, el ganador de la etapa podría definirse la próxima semana cuando ambos equipos se enfrenten en el estadio Rodrigo Paz Delgado.
+
+### Más noticias:
+
+* [Un golpeado Emelec recibe al favorito Liga de Quito](https://www.elcomercio.com/deportes/futbol/un-golpeado-emelec-recibe-al-favorito-liga-de-quito.html "Un golpeado Emelec recibe al favorito Liga de Quito")
+* [Liga de Quito, a cuatro partidos de una nueva final en la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-a-cuatro-partidos-de-una-nueva-final-en-la-liga-pro.html "Liga de Quito, a cuatro partidos de una nueva final en la Liga Pro")
+* [Así fue como Marco Angulo aterrizó en Liga de Quito](https://www.elcomercio.com/deportes/futbol/asi-fue-como-marco-angulo-aterrizo-en-liga-de-quito.html "Así fue como Marco Angulo aterrizó en Liga de Quito")
+
+Un error le dio la ventaja a Liga de Quito
+------------------------------------------
+
+El estadio **George Capwell** fue testigo de la búsqueda de **Liga de Quito** por conseguir su primera victoria en seis años en este escenario, ante un Emelec que atraviesa un momento complicado.
+
+Los primeros minutos del partido fueron cautelosos, con ambos equipos llegando al área rival sin mayor peligro. Sin embargo, cuando lograban arriesgar, o fallaba la puntería, o los arqueros respondían bien.
+
+Por parte de Liga de Quito, el capitán **Ezequiel Piovi destacó**, dominando el mediocampo y siendo uno de los jugadores más incisivos e intensos al atacar.
+
+Cerca del final del primer tiempo, **Liga de Quito abrió el marcador gracias a Piovi,** con complicidad del arquero Gilmar Napa.
+
+El capitán lanzó un centro al área buscando a Álex Arce, que parecía controlado, pero Napa tuvo un error de cálculo, y el balón se le escapó de las manos para entrar en la red y darle la ventaja a la ‘U’.
+
+> Se le escapó 🕊️ a Napa  
+>   
+> El arquero de [@CSEmelec](https://twitter.com/CSEmelec?ref_src=twsrc%5Etfw) salió en blanco y permitió que [@LDU\_Oficial](https://twitter.com/LDU_Oficial?ref_src=twsrc%5Etfw) se adelante en el marcador tras un centro de Piovi.[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/kQfpVFznAp](https://t.co/kQfpVFznAp)
+> 
+> — Zapping Ecuador (@zapping\_ecu) [November 3, 2024](https://twitter.com/zapping_ecu/status/1853186266784833611?ref_src=twsrc%5Etfw)
+
+En la segunda mitad, el equipo de **Pablo ‘Vitamina’ Sánchez dominó el esférico** y fue quien más remates al arco intentó, aunque no tuvo la misma fortuna que en el primer tiempo.
+
+**Emelec**, por su parte, tuvo una oportunidad de oro a los 60 minutos con un **cabezazo** de Joao Quiñónez, que Alexander Domínguez no alcanzó a reaccionar y se estrelló en el **poste**.
+
+Para el último cuarto de hora, el **‘Bombillo’ despertó y empezó a llegar con más frecuencia** al área rival, pero no estuvieron finos de cara a portería.
+
+Finalmente, el gol de **Ezequiel Piovi** fue suficiente para que Liga de Quito se llevara los tres puntos en un estadio donde no ganaba desde hace seis años.
+
+No te pierdas nuestro Especial de Halloween
+-------------------------------------------
+
+Comisión para reforma sobre bases militares extranjeras en Ecuador tiene Presidenta
+===================================================================================
+
+La reforma a la Constitución sobre bases militares extranjeras en Ecuador está en la Asamblea Nacional.
+-------------------------------------------------------------------------------------------------------
+
+![El Pleno de la Asamblea definió la comisión que tratará la reforma sobre bases militares extranjeras.](https://www.elcomercio.com/wp-content/uploads/2024/11/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-2.jpg)
+
+La propuesta del presidente **Daniel Noboa**, sobre reformar la Constitución de la República para la operación de bases militares extranjeras en Ecuador, está en manos de una comisión ocasional en la **[Asamblea Nacional](https://www.asambleanacional.gob.ec/es/noticia/101181-comision-que-tratara-la-reforma-parcial-la-constitucion)**.
+
+Este domingo, 3 de noviembre de 2024, la delegación definida en el **Pleno del Legislativo**, eligió a las cabezas de la delegación.
+
+### Más noticias
+
+* [Asamblea define la comisión para tratar sobre bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/asamblea-definio-comision-propuesta-bases-militares-extranjeras.html "Asamblea define la comisión para tratar sobre  bases militares extranjeras")
+* [Propuesta de Daniel Noboa sobre bases militares extranjeras irá al Pleno de la Asamblea](https://www.elcomercio.com/actualidad/politica/propuesta-daniel-noboa-bases-militares-extranjeras-pleno-asamblea.html "Propuesta de Daniel Noboa sobre bases militares extranjeras irá al Pleno de la Asamblea")
+* [Daniel Noboa envió a la Asamblea proyecto de bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/daniel-noboa-envio-asamblea-proyecto-bases-militares-extranjeras-constitucion-reforma.html "Daniel Noboa envió a la Asamblea proyecto de bases militares extranjeras")
+
+Bases militares extranjeras y la Asamblea Nacional
+--------------------------------------------------
+
+La Comisión está integrada por **Gissela Garzón, Sofía Sánchez, Mariana Yumbay, Arturo Ugsha, Rafael Dávila, Nathaly Murillo y Jorge Peñafiel**.
+
+Por medio de una sesión virtual, la comisión ocasional definió a los dos **legisladores** que, desde este 3 de octubre, presiden la delegación.
+
+Se trata de **Gissela Garzón y Rafael Dávila**, quienes ejercerán como presidenta y vicepresidente, respectivamente.
+
+> [#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw)  
+> Comisión que tratará la reforma parcial a la Constitución eligió a su Presidenta y Vicepresidente  
+> Más detalles en el siguiente link ➡️ [https://t.co/SeQbTqDaq4](https://t.co/SeQbTqDaq4) [pic.twitter.com/WKZvcAMIih](https://t.co/WKZvcAMIih)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [November 3, 2024](https://twitter.com/AsambleaEcuador/status/1853198476752146755?ref_src=twsrc%5Etfw)
+
+Los legisladores tienen la tarea de analizar la reforma al artículo 5 de la **Constitución de la República**, relacionado con el tema de las bases militares extranjeras en Ecuador.
+
+Eso tras la propuesta de **Daniel Noboa** y el visto bueno de la Corte Constitucional.
+
+La legisladora **Gissela Garzón** informó que en la próxima sesión se avocará conocimiento del proyecto de reforma constitucional y se presentará el cronograma de actividades. El proyecto de reforma ingresó a la Asamblea Nacional, el 17 de octubre de 2024.
+
+Normativa para reforma a la Constitución
+----------------------------------------
+
+La restricción para las operaciones de bases militares extranjeras en Ecuador se instauró durante el mandato de **Rafael Correa**.
+
+El último rastro fue la **Base de Manta**, que cerró en 2009. Esta funcionaba a través de un acuerdo bilateral.
+
+Las reformas a la Constitución tienen varias vías: consulta popular, reforma parcial o asamblea constituyente. **Daniel Noboa** se inclinó por la segunda.
+
+Luego de la **Asamblea**, el proceso sigue con la convocatoria al referendo. Este mecanismo procede cuando el cambio al texto constitucional afecte el carácter o los elementos constitutivos del Estado.
+
+La pregunta propuesta es: **“¿Está usted de acuerdo con eliminar la prohibición de establecer bases militares extranjeras o instalaciones extranjeras con propósitos militares en el territorio nacional, y de ceder bases militares nacionales a fuerzas armadas o de seguridad extranjeras, reformando parcialmente la Constitución de conformidad con el Anexo de la pregunta?”**.
+
+  
+
+Horarios de cortes de luz en Quito para este 4 de noviembre
+===========================================================
+
+Cortes de luz en Quito se extienden desde lapsos de seis horas.
+---------------------------------------------------------------
+
+![Imagen referencial de cortes de luz por crisis en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz.jpg)
+
+En el último día de **feriado**, este 4 de noviembre de 2024, por el **Día de Difuntos** e Independencia de Cuenca, los **cortes de luz** se mantendrán en Quito. Los horarios están definidos.
+
+La suspensión de energía eléctrica tiene franjas de seis y ocho horas. Se puede consultar el detalle de sectores a través de la [Empresa Eléctrica Quito (EEQ)](https://www.eeq.com.ec/cortes-de-servicio1).
+
+### Más noticias
+
+* [Horarios de cortes de luz en Ecuador bajarán del 5 al 10 de noviembre](https://www.elcomercio.com/actualidad/negocios/horario-cortes-luz-ecuador-bajaran-noviembre.html "Horarios de cortes de luz en Ecuador bajarán del 5 al 10 de noviembre")
+* [Cortes de luz en Guayaquil, con nuevos horarios del 1 al 4 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-nuevos-horarios-1-al-4-de-noviembre.html "Cortes de luz en Guayaquil, con nuevos horarios del 1 al 4 de noviembre")
+* [La central hidroeléctrica Mazar reanudó sus operaciones](https://www.elcomercio.com/actualidad/negocios/central-hidroelectrica-mazar-reanudo-operaciones.html "La central hidroeléctrica Mazar reanudó sus operaciones")
+
+Cortes de luz en sectores de Quito
+----------------------------------
+
+En los horarios de **cortes de luz** hay diferenciación por **sectores residencial**es y las zonas industriales. En el primer caso, los racionamientos se extenderán durarán seis horas diarias y en el segundo, hasta por 14.
+
+En sitios como Río Coca, los apagones van de 07:00 a 10:00 y de 21:00 a 24:00. Lo propio está definido para **Miraflores, Conocoto, Tumbaco y Cumbayá**.
+
+En cambio, en zonas como **Chilibulo, La Floresta, Cristianía, Luluncoto y Epiclachima**, los racionamientos están fijado de 09:00 a 12:00 y de 18:00 a 21:00.
+
+El avance de la crisis energética
+---------------------------------
+
+Los ajustes en los horarios se dieron luego de las recientes lluvias en la cuenca hidrográfica oriental. Estas mejoraron las condiciones de los ríos que abastecen la central hidroeléctrica **Coca Codo Sinclair**.
+
+Consejos por los cortes de luz
+------------------------------
+
+Para los periodos de cortes de luz es necesario contar con **linternas** en buen estado, una por cada integrante de la familia, con baterías de repuesto. Otra opción es adquirir focos recargables que estén con batería máxima.
+
+Mantener cargado el celular al 100% antes del **apagón** es fundamental, aunque podrían darse problemas de conexión debido a los cortes de energía.
+
+A la par, es menester contar con combustible suficiente en su **vehículo** para, de ser necesario, salir a un punto seguro. No se debe dejar objetos de fácil acceso en el automotor o en el entorno del domicilio.
+
+Tener **agua** suficiente para cualquier necesidad básica, pues, también están previstos racionamientos de agua. De igual forma, el botiquín debe estar abastecido.
+
+Max Verstappen arrasó en el Gran Premio de Sao Paulo de la Fórmula 1
+====================================================================
+
+Max Verstappen dio un golpe de autoridad en la pelea por su cuarto título mundial de la Fórmula 1.
+--------------------------------------------------------------------------------------------------
+
+![Max Verstappen celebra que ganó el Gran Premio de Sao Paulo de la Fórmula 1](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-73.jpg)
+
+**Max Verstappen** amplió su ventaja en el campeonato de Fórmula Uno al lograr una impresionante victoria en el **Gran Premio de Sao Paulo**. Este fue el vigésimo primer evento de la temporada, que tuvo lugar este domingo 3 de noviembre en el circuito de Interlagos.
+
+Verstappen, de 27 años, **decimoséptimo en la salida** \-fue duodécimo en la calificación y recibió una sanción de cinco puestos en parrilla-, protagonizó la remontada del día para firmar su sexagésima segunda victoria en la categoría reina.
+
+### Más noticias:
+
+* [Leclerc y Sainz hacen ‘uno-dos’ con Ferrari en la Fórmula 1](https://www.elcomercio.com/deportes/formula-1-gran-premio-estados-unidos-leclerc-sainz.html "Leclerc y Sainz hacen ‘uno-dos’ con Ferrari en la Fórmula 1")
+* [El experimentado Daniel Ricciardo abandona la Fórmula 1](https://www.elcomercio.com/deportes/daniel-ricciardo-formula-uno-retiro.html "El experimentado Daniel Ricciardo abandona la Fórmula 1")
+* [Kendry Páez anotó en la victoria de Independiente del Valle](https://www.elcomercio.com/deportes/futbol/kendry-paez-anoto-en-la-victoria-de-independiente-del-valle.html "Kendry Páez anotó en la victoria de Independiente del Valle")
+
+Además, con este triunfo, el piloto de **Red Bull logró la octava del curso,** ganando -con la vuelta rápida, incluida- por delante de los dos pilotos de Alpine, los franceses Esteban Ocon y Pierre Gasly, que fueron segundo y tercero, respectivamente.
+
+Max Verstappen y una espectacular carrera
+-----------------------------------------
+
+Verstappen, que no ganaba desde el **Gran Premio de España**, en Montmeló (Barcelona) dio un paso importante hacia su cuarto título. A falta de tres pruebas para el cierre, el próximo 8 de diciembre en Abu Dabi.
+
+El ídolo deportivo de los Países Bajos **lidera ahora el Mundial con 393 puntos**. Tiene 62 más que el inglés Lando Norris (McLaren), que concluyó sexto después de haber salido desde la ‘pole’.
+
+El mexicano **Sergio Pérez** (Red Bull) concluyó undécimo, tres puestos por delante del doble campeón mundial asturiano Fernando Alonso (Aston Martin), decimocuarto.
+
+El otro español, Carlos Sainz (Ferrari), y el **argentino Franco Colapinto** (Williams) abandonaron a causa de sendos accidentes, sin lamentar daños personales.
+
+En el que fue, de lejos, el mejor fin de semana del año de Alpine -que colocó a sus dos pilotos en el podio, a ambos lados del astro neerlandés y que avanzó al sexto puesto del Mundial de constructores-, el inglés George Russell (Mercedes) y el monegasco **Charles Leclerc** (Ferrari) concluyeron cuarto y quinto, respectivamente.
+
+Séptimo, por detrás de Norris -el gran derrotado de la jornada- fue el japonés Yuki Tsunoda (RB), que se clasificó un puesto por delante del otro McLaren, el del australiano Oscar Piastri.
+
+El neozelandés **Liam Lawson** (RB) y el séptuple campeón mundial inglés Lewis Hamilton (Mercedes), que fue décimo, también entraron en los puntos.
+
+¿Cuándo es la próxima carrera?
+------------------------------
+
+La próxima prueba, el **Gran Premio de Las Vegas**, el antepenúltimo del Mundial, se disputará el próximo 24 de noviembre. Se realizará en el circuito urbano de esa localidad del estado de Nevada. 
+
+No te pierdas nuestro Especial de Halloween
+-------------------------------------------
+
+Kendry Páez anotó en la victoria de Independiente del Valle
+===========================================================
+
+El conjunto rayado no se baja del objetivo de ser el primer campeón directo de la Liga Pro.
+-------------------------------------------------------------------------------------------
+
+![Kendry Páez se reencontró con el gol en Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-72.jpg)
+
+**Independiente del Valle** cumplió con su tarea al derrotar 2-0 a El Nacional, que presentó un equipo alternativo, en la jornada 12 de la Liga Pro, este domingo 3 de noviembre.
+
+Los goleadores del compromiso fueron **Jeison Medina**, quien recuperó el ritmo goleador que lo llevó a destacar en Aucas, y **Kendry Páez**, que anotó su primer gol con IDV tras seis partidos sin marcar.
+
+### Más noticias:
+
+* [Barcelona SC confía en Segundo Alejandro Castillo como su DT](https://www.elcomercio.com/deportes/futbol/barcelona-sc-confia-en-segundo-alejandro-castillo-como-su-dt.html "Barcelona SC confía en Segundo Alejandro Castillo como su DT")
+* [Aucas rescató el empate y frenó a Barcelona SC en la Liga Pro](https://www.elcomercio.com/deportes/futbol/aucas-rescato-el-empate-y-freno-a-barcelona-sc-en-la-liga-pro.html "Aucas rescató el empate y frenó a Barcelona SC en la Liga Pro")
+* [Independiente del Valle es finalista de la Copa Ecuador](https://www.elcomercio.com/deportes/copa-ecuador-independiente-finalista-catolica.html "Independiente del Valle es finalista de la Copa Ecuador")
+
+Gracias a este triunfo, Independiente del Valle se coloca como el nuevo **líder en solitario** de la segunda etapa del campeonato ecuatoriano con 26 puntos. Si se mantiene así, se convertirá en el primer campeón directo desde la creación de la Liga Pro.
+
+**El** **Nacional**, que ya se aseguró su clasificación a la Copa Libertadores como finalista de la Copa Ecuador, ocupa el décimo lugar en la tabla con 15 puntos.
+
+Independiente del Valle busca el campeonato directo
+---------------------------------------------------
+
+El equipo negriazul fue claramente superior en su casa, frente a un El Nacional que **optó por un plantel mixto**, dando descanso a varios de sus artífices en la clasificación a la final de la Copa Ecuador.
+
+El primer gol en el Estadio IDV llegó rápidamente, a los 22 minutos, cuando **Jeison Medina** se infiltró entre los centrales para recibir un pase del chileno Fernández y definir con el arco vacío. Con esta anotación, Medina alcanzó los 18 goles en la Liga Pro, quedando a solo dos del goleador del torneo, Álex Arce.
+
+> Estuvo donde debía 🫡  
+>   
+> Jeison Medina llegó para cerrar la jugada y poner a ganar a [@IDV\_EC](https://twitter.com/IDV_EC?ref_src=twsrc%5Etfw).[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/m4PPl3yJ0o](https://t.co/m4PPl3yJ0o)
+> 
+> — Zapping Ecuador (@zapping\_ecu) [November 3, 2024](https://twitter.com/zapping_ecu/status/1853143601930203209?ref_src=twsrc%5Etfw)
+
+En la segunda mitad, el dominio de los locales continuó, y el gol de la tranquilidad llegó con una brillante jugada. **Kendry Páez** realizó un pase magistral para romper la defensa de los “puros criollos”, permitiendo que el balón llegara a Jeison Medina, quien, en lugar de intentar el gol personal, devolvió el pase a Páez, que definió con gran calidad.
+
+> Lo piden, lo tienen 💎  
+>   
+> Kendry Páez tocó y fue a recibir para ampliar la ventaja de [@IDV\_EC](https://twitter.com/IDV_EC?ref_src=twsrc%5Etfw).[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/tzHVSCfhmg](https://t.co/tzHVSCfhmg)
+> 
+> — Zapping Ecuador (@zapping\_ecu) [November 3, 2024](https://twitter.com/zapping_ecu/status/1853155419792810280?ref_src=twsrc%5Etfw)
+
+Se viene una final adelantada
+-----------------------------
+
+En la jornada 13 de la Liga Pro, la antepenúltima de la segunda etapa, Independiente del Valle visitará a **Liga** **de Quito** en lo que promete ser una final adelantada.
+
+El compromiso se jugará el sábado 9 de noviembre a las 19:00 en el **Estadio Rodrigo Paz Delgado**. Si IDV gana, estará a un paso de convertirse en el primer campeón directo bajo el formato de Liga Pro.
+
+No te pierdas nuestro Especial de Halloween
+-------------------------------------------
+
+¿Cómo denunciar especulación en los precios de generadores y equipos eléctricos?
+================================================================================
+
+La Superintendencia de Competencia Económica informó sobre los canales que se pueden utilizar para presentar las denuncias de alzas de precios.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+![Generadores eléctricos, power banks y UPS, las opciones de los ecuatorianos para afrontar la crisis energética. Foto: Pixabay](https://www.elcomercio.com/wp-content/uploads/2024/10/generadores_720.jpg)
+
+La **Superintendencia de Competencia Económica** controlará cualquier tipo de práctica o acuerdo que incremente los precios de bienes y servicios del sector energético en **Ecuador**.
+
+El **superintendente, Hans W. Ehmig Dillon,** pidió a los operadores económicos, “abstenerse de cometer este tipo de actos e invitó a la ciudadanía a informar acerca de cualquier irregularidad que sea detectada”.
+
+### Más noticias
+
+* [Horarios de cortes de luz en Ecuador bajarán del 5 al 10 de noviembre](https://www.elcomercio.com/actualidad/negocios/horario-cortes-luz-ecuador-bajaran-noviembre.html "Horarios de cortes de luz en Ecuador bajarán del 5 al 10 de noviembre")
+* [La central hidroeléctrica Mazar reanudó sus operaciones](https://www.elcomercio.com/actualidad/negocios/central-hidroelectrica-mazar-reanudo-operaciones.html "La central hidroeléctrica Mazar reanudó sus operaciones")
+* [Los cortes de luz continúan durante 3 de noviembre, revise el horario para Quito](https://www.elcomercio.com/actualidad/quito/cortes-luz-3-de-noviembre-horario-quito-feriado.html "Los cortes de luz continúan durante 3 de noviembre, revise el horario para Quito")
+
+Cómo denunciar el incremento de precios
+---------------------------------------
+
+Los ciudadanos que identifiquen aumentos podrán denunciar a través de la **ventanilla virtual** de su página [www.sce.gob.ec](http://www.sce.gob.ec/) o mediante las redes sociales de la institución en **Facebook**, **X**, **Instagram** y **LinkedIn**.
+
+El exhorto de **Hans W. Ehmig Dillon** está dirigido a los **fabricantes, importadores, distribuidores, comercializadores y operadores económicos** de cualquier tipo de producto y servicio relacionado con el sector energético.
+
+Es decir, de **generadores eléctricos a diésel, gasolina, inversores**, **convertidores de voltaje, baterías**, entre otros.
+
+La advertencia de la Superintendencia
+-------------------------------------
+
+El documento advierte abstenerse de realizar cualquier tipo de acto, práctica para subir los precios de estos bienes y servicios y/o sus márgenes de ganancia.
+
+El Superintendente también solicita “trasladar al usuario final los beneficios arancelarios (**0% de arancel**)” establecidos en la **Resolución 009-0024** emitida por el **Comité de Comercio Exterior (Comex).**
+
 Tres extranjeros y un ecuatoriano fueron detenidos en Manabí con droga
 ======================================================================
 
@@ -413,481 +976,3 @@ En total, el equipo de Castillo ha anotado ocho goles y ha recibido solo tres, l
 
 No te pierdas nuestro Especial de Halloween
 -------------------------------------------
-
-Más de 75 millones de votantes en Estados Unidos ya sufragaron
-==============================================================
-
-Más de 75 millones de personas, la mitad de los votantes de 2020, ya han votado en EE.UU.
------------------------------------------------------------------------------------------
-
-![Personas votan anticipadamente en el Centro Comunitario Columbia Heights, en Wahington (Estados Unidos). Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/Estados-UNidos.jpg)
-
-##### Agencia EFE
-
-Un total de 7**5 millones de personas** ya emitido su voto hasta el sábado 2 de noviembre de 2024 en las elecciones de **Estados Unidos**. Esa cantidad representa más del 48 % del número total emitido en las **elecciones presidenciales de 2020**, cuando votaron 154,6 millones de **estadounidenses**.
-
-En el caso del **voto anticipado en person**a, el nivel de participación **supera** ya, a dos días de la jornada electoral del 5 de noviembre, el total de votos depositados de este modo en las elecciones presidenciales de 2020 y muestra cómo la manera de votar de los estadounidenses está cambiando.
-
-La **opción del voto anticipado (tanto por correo, como en persona)**, que se hizo más popular durante la pandemia, muestra que los votantes ya no están esperando al día de las elecciones, sino que son muchos los que prefieren emitir su voto o por correo o votando de manera anticipada en un centro de votación.
-
-### Más noticias
-
-* [Lotería de visas de Estados Unidos extiende plazo para participar](https://www.elcomercio.com/actualidad/mundo/loteria-visas-extiende-plazo-inscripcion.html "Lotería de visas de Estados Unidos extiende plazo para participar")
-* [Las elecciones en Estados Unidos se realizarán el 5 de noviembre de 2024](https://www.elcomercio.com/actualidad/mundo/elecciones-estados-unidos-realizaran-5-noviembre-2024.html "Las elecciones en Estados Unidos se realizarán el 5 de noviembre de 2024")
-* [Las elecciones en Estados Unidos se perfilan como las más ajustadas del siglo](https://www.elcomercio.com/actualidad/mundo/elecciones-estados-unidos-perfilan-ajustadas-siglo.html "Las elecciones en Estados Unidos se perfilan como las más ajustadas del siglo")
-
-Las votaciones por estados en EE.UU.
-------------------------------------
-
-En **Georgia** -uno de los estados clave para estas elecciones-, más de 4 millones ya han votado, lo que marca casi el 80% de la participación total del estado en 2020, según el rastreador de votación anticipada del **Laboratorio Electoral de la Universidad de Florida.**
-
-Mientras que en otros estados, como **Arizona y Carolina del Nort**e, aproximadamente la mitad de los votantes ya han ejercido su derecho al voto.
-
-En esta campaña, el candidato republicano a la presidencia, **Donald Trump**, ha animado a sus seguidores para que voten de manera anticipada.
-
-Lo que representa un cambio con respecto a las elecciones de 2020, cuando el expresidente y muchos **políticos republicanos** criticaron la votación anticipada y sobre todo por correo por considerarla, sin pruebas, expuesta al fraude.
-
-Si bien aún no se conocen los candidatos elegidos por los votantes anticipados, los datos sobre quiénes emitieron esos votos brindan pistas. Según un análisis de NBC News, **Pensilvania** ha visto un aumento de nuevas mujeres registradas como **demócratas**, mientras que **Arizona** ha visto un aumento de la participación de hombres registrados como **republicanos.**
-
-Turismo crece en Cuenca y otras provincias en este feriado
-==========================================================
-
-El turismo en Cuenca y otras provincias se consolida como uno de los más exitosos del año.
-------------------------------------------------------------------------------------------
-
-![Las ferias y conciertos destacan como uno de los principales atractivos en Cuenca durante el feriado. Foto: Facebook Ministerio de Turismo.](https://www.elcomercio.com/wp-content/uploads/2024/11/turismo-feriado-Cuenca.jpg)
-
-La **visita de turistas a Cuenca** durante el **feriado de Difuntos e independencia** de la ciudad ha sido positiva. Las **ocupaciones hoteleras** han superado el 90%, con un 97% en algunos casos. Este incremento se debe a **eventos artísticos como el concierto de Piso 21**, que han atraído a una gran multitud. 
-
-### Más noticias
-
-* [El 3 de noviembre es una fecha histórica para Cuenca, Bahía de Caráquez y Cañar](https://www.elcomercio.com/tendencias/cultura/cuenca-bahia-caraquez-canar-independencia-efemerides.html "https://www.elcomercio.com/tendencias/cultura/cuenca-bahia-caraquez-canar-independencia-efemerides.html") 
-* [Cuenca celebra sus fiestas con conciertos y artesanías de 12 países](https://www.elcomercio.com/actualidad/ecuador/cuenca-celebra-fiestas-conciertos-artesanias-paises.html "https://www.elcomercio.com/actualidad/ecuador/cuenca-celebra-fiestas-conciertos-artesanias-paises.html")
-
-Por otro lado, el **crecimiento del turismo en otras provincias**, a pesar de los desafíos como cortes de luz y lluvias, no se ha quedado atrás. Este feriado se perfila como **uno de los mejores para el sector turístico en lo que va del** 2024.
-
-**Datos del feriado por la Independencia de Cuenca**  
-------------------------------------------------------
-
-**Juan Pablo Vanegas**, presidente de la **Cámara de Turismo de Azuay**, comentó que la **visita de turistas a Cuenca** en este **feriado de Difuntos e Independencia de Cuenca** se perfila como positiva.
-
-Vanegas destacó que **las ocupaciones en hoteles han superado el 90%**, incluso con un **95-97% de ocupación en algunos de ellos**. Esto se está evaluando a la espera de los resultados que se arrojarán el día de hoy, domingo 3 de noviembre, día en el que se festeja la **independencia de Cuenca**. 
-
-**Eventos artísticos destacados** 
-----------------------------------
-
-Uno de los puntos altos en Cuenca ha sido la realización de **ferias y conciertos**. “Lo que atrajo a mucha gente fueron los **eventos artísticos**, con un lleno casi total del estadio (**Estadio Alejandro Serrano Aguilar**) para el último concierto de **Piso 21**, lo que generó que muchas personas aprovecharan la ocasión”, destacó Vanegas.
-
-“Hubo boletos que se entregaron a los turistas; eso también contribuyó a que este fuera **uno de los mejores feriados**”, señaló. Días atrás se anunció la presentación de artistas como la banda colombiana **Piso 21**, el panameño reguetonero **Aldo Ranks** y el rapero **Vico C**. 
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DB6bZuhNe4n/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Municipio de Cuenca (@municipio\_cuenca)](https://www.instagram.com/p/DB6bZuhNe4n/?utm_source=ig_embed&utm_campaign=loading)
-
-**Datos de otras provincias** 
-------------------------------
-
-Por su parte, **Holbach Muñetón**, presidente de la **Federación de Cámaras de Turismo del Ecuador**, compartió datos hasta el momento que arroja el feriado: 
-
-**Santa Elena**, hasta ayer, registró un 60%, a la espera de que suba. **Sucumbíos** se mantiene con un 25% de ocupación, y en centros de diversión alcanza el 30%. **Cuenca** alcanzó un 95% el viernes y este sábado se mantuvo igual. **Santo Domingo de los Tsáchilas** presenta un 50%. **Napo** muestra cifras elevadas. **Baños de Agua Santa** está casi en un 90%. **Manta** supera el 70%. 
-
-10 fallecidos en siniestro de tránsito en Morona Santiago
-=========================================================
-
-El hecho ocurrió en el sitio denominado puente Negro. La camioneta cayó al río Paute, en el cantón Santiago de Méndez, en la Amazonía de Ecuador.
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El Cuerpo de Bomberos de Méndez confirmó que hay adultos y niños fallecidos. Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/11/Morona.jpg)
-
-En el sector de **Bella Unión**, ubicado en el cantón **Santiago de Méndez**, se registró un fatal siniestro de tránsito. Una camioneta cayó cerca de 60 mestros en el **río Paute.**
-
-El hecho fue reportado al ECU-911 a las 05:22 de este domingo 3 de noviembre de 2024.
-
-Según los informes preliminares de la **Policía Nacional**, el siniestro se produjo por “una pérdida de pista” en el sitio en el que se unen los **ríos Paute y Negro.** El vehículo se estrelló contra el barranco y el **río** Paute.
-
-El jefe del **Cuerpo de Bomberos de Méndez**, John Cordero, confirmó que existen 10 fallecidos, que pertenecían a dos familias.
-
-Son **ocho adultos y dos menores de edad.** Además, una niña, de seis años, resultó herida. El automotor es de placas GSK-1429.
-
-### Más noticias
-
-* [Fiscalía investiga ataque armado a Joselito Argüello, candidato a la Asamblea](https://www.elcomercio.com/actualidad/seguridad/joselito-arguello-aspirante-asambleista-victima-ataque-armado-salinas.html "Fiscalía investiga ataque armado a Joselito Argüello, candidato a la Asamblea")
-* [El uso legítimo de la fuerza policial se intensificó este 2024 en Ecuador](https://www.elcomercio.com/actualidad/seguridad/uso-legitimo-fuerza-policia-intensifico-2024-ecuador.html "El uso legítimo de la fuerza policial se intensificó este 2024 en Ecuador")
-
-El rescate de los cuerpos en Santiago de Méndez
------------------------------------------------
-
-Al sitio acudieron los equipos de **emergencia de Macas**, la capital provincial de **Morona Santiago**.
-
-Además, se solicitó apoyo de los **Bomberos de Sucúa** para las labores de extracción y recuperación de los cuerpos.
-
-Las autoridades de **Morona Santiago** emitirán un comunicado con todos los detalles de este siniestro.
-
-El tránsito vehicular fue suspendido durante dos horas en la **vía Bella Unión-Limón Indanza**. La intención es facilitar las labores de rescate de los cuerpos y el automotor.
-
-Luis Miguel no tiene covid-19, la verdadera razón de su aparente enfermedad 
-============================================================================
-
-Luis Miguel pospuso varios conciertos en México debido a problemas de salud que han generado rumores.
------------------------------------------------------------------------------------------------------
-
-![Luis Miguel agradeció a sus seguidores por su apoyo en cuanto al tema de una enfermedad que lo aqueja. Foto: Instagram @luismiguel.](https://www.elcomercio.com/wp-content/uploads/2024/11/Luis-Miguel-salud-1.jpg)
-
-**Luis Miguel**, conocido como ‘El Sol’, ha pospuesto varios de sus **conciertos en México** debido a **problemas de salud**, lo que ha generado preocupación entre sus seguidores y dejado **incertidumbre sobre su estado**. 
-
-### Más noticias
-
-* [Fans de Luis Miguel recuperan la calma luego de un sustazo](https://www.elcomercio.com/tendencias/entretenimiento/luis-miguel-fans-susto-conciertos-salud.html "https://www.elcomercio.com/tendencias/entretenimiento/luis-miguel-fans-susto-conciertos-salud.html")
-* [Conciertos cancelados de Luis Miguel generan controversia entre sus fanáticos](https://www.elcomercio.com/tendencias/cancelacion-conciertos-luis-miguel-salud-fans.html "https://www.elcomercio.com/tendencias/cancelacion-conciertos-luis-miguel-salud-fans.html")
-
-**Fechas afectadas por la salud de Luis Miguel** 
--------------------------------------------------
-
-La gira, que incluía **presentaciones en varias ciudades**, se vio interrumpida, lo que afectó **fechas programadas** en Ciudad de México el 24 y 28 de octubre, Pachuca el 27, Querétaro el 29, e Irapuato el 31. Ante la situación, el equipo del cantante decidió **reprogramar estos conciertos**. 
-
-**Mensaje de agradecimiento a sus seguidores** 
------------------------------------------------
-
-A través de un **mensaje en redes sociales**, Luis Miguel agradeció el apoyo y la comprensión de sus seguidores, se informó que las entradas adquiridas serán válidas para las **nuevas fechas**, las cuales se anunciarán próximamente. 
-
-**Regreso programado en Puebla** 
----------------------------------
-
-Se esperaba que el artista **retome sus presentaciones** el 2 de noviembre en el Estadio Hermanos Serdán de Puebla. **Darío León**, su productor, confirmó la noticia en el programa ‘Venga la alegría’, al asegurar que **Luis Miguel se encuentra en mejor condición** y listo para regresar a los escenarios. 
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBwQ1_6BaXY/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Venga la Alegría (@vengalaalegria)](https://www.instagram.com/reel/DBwQ1_6BaXY/?utm_source=ig_embed&utm_campaign=loading)
-
-**Michelle Salas tranquiliza a los fans** 
-------------------------------------------
-
-Además, **su hija Michelle Salas** compartió recientemente su viaje a Colombia en redes sociales, lo que ha traído tranquilidad a los seguidores al indicar que **la situación familiar no es tan grave como se había especulado**. 
-
-**Descartan covid-19 como causa de su malestar** 
--------------------------------------------------
-
-Según información de [Emisoras Unidas](https://emisorasunidas.com/2024/11/02/verdadera-enfermedad-que-sufre-luis-miguel/ "https://emisorasunidas.com/2024/11/02/verdadera-enfermedad-que-sufre-luis-miguel/"), el **diagnóstico de covid-19** que circulaba en medios de entretenimiento fue descartado. En cambio, la verdadera causa de su malestar sería una **inflamación en las cuerdas vocales**, derivada de su intensa agenda de conciertos. 
-
-**Fernanda Familiar desmiente rumores** 
-----------------------------------------
-
-La **conductora Fernanda Familiar** aportó detalles adicionales sobre el **estado de salud del artista**. En su programa, Familiar comentó que **allegados al cantante confirmaron que Luis Miguel no sufrió de covid-19** ni de problemas respiratorios severos, como se había especulado. “Lo que yo sé es que **Luis Miguel** ha tenido muchos conciertos, **se le inflamaron las cuerdas vocales**, no tuvo covid ni problemas respiratorios”, afirmó Familiar, citada por Emisoras Unidas. 
-
-**Rumores de neumonía quedan atrás** 
--------------------------------------
-
-El periodista **Gustavo Adolfo Infante** había sugerido previamente que el cantante podría presentar **síntomas de neumonía**. Sin embargo, Familiar desmintió esta versión, al reiterar que **Luis Miguel se encuentra bien de salud** y que la **inflamación en sus cuerdas vocales** es la única razón de su descanso temporal. 
-
-**La causa: una agenda de conciertos intensa** 
------------------------------------------------
-
-**Luis Miguel, conocido por éxitos como La incondicional, ha mantenido una agenda intensa**, y esta exigencia habría provocado el **desgaste de sus cuerdas vocales**. Familiar expresó su deseo de que el artista reciba el tratamiento adecuado para su recuperación. 
-
-**Fuentes cercanas** aseguran que **el cantante está estable** y que su pausa en los conciertos es temporal. Esta actualización ha traído tranquilidad a sus seguidores, quienes se encontraban preocupados por los rumores previos sobre su salud. 
-
-Megaparque Centenario Agustín Intriago aporta al cambio en Manta
-================================================================
-
-La ciudad de Manta celebra la inauguración del Megaparque Centenario Agustín Intriago.
---------------------------------------------------------------------------------------
-
-![El Megaparque será un nuevo atractivo turístico de Manta.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-3-7.jpg)
-
-La ciudad de Manta celebra la inauguración del **Megaparque Centenario Agustín Intriago**, un proyecto que promete transformar el **sector de La Poza** y dejar atrás años de **contaminación e inseguridad**.
-
-### Más noticias
-
-* [Operativos en Durán y Manta se realizan ante la inseguridad](https://www.elcomercio.com/actualidad/seguridad/operativos-duran-manta-inseguridad.html "Operativos en Durán y Manta se realizan ante la inseguridad")
-* [Incendio consume el 60% del barco pesquero Jostin en el Puerto de Manta](https://www.elcomercio.com/actualidad/ecuador/incendio-consume-el-60-del-barco-pesquero-jostin-en-el-puerto-de-manta.html "Incendio consume el 60% del barco pesquero Jostin en el Puerto de Manta")
-* [Llegada de cruceros a Manta dinamiza la economía de la región](https://www.elcomercio.com/actualidad/ecuador/cruceros-manta-temporada-economia.html "Llegada de cruceros a Manta dinamiza la economía de la región")
-
-Con **16 hectáreas**, de las cuales 7 se destinan a áreas verdes con más de **600 árboles plantados**, este espacio refleja el **compromiso de la Alcaldía del Cambio.**
-
-**Marciana Valdivieso**, alcaldesa actual, ha seguido los pasos de su antecesor **Agustín Intriago**, quien inició los estudios para este parque en 2019.
-
-> El megaparque era tu gran sueño, Agustín. La obra que cambiará la historia de Manta para siempre se llamará como tú, como es la voluntad de nuestra Manta. Amaste a esta tierra como la propia familia y por ella, lo damos todo. Este 4 de noviembre, en la sesión solemne que también… [pic.twitter.com/zZmjp0jnf6](https://t.co/zZmjp0jnf6)
-> 
-> — Marciana Valdivieso (@marcivaldivieso) [October 30, 2024](https://twitter.com/marcivaldivieso/status/1851743440993730963?ref_src=twsrc%5Etfw)
-
-Los estudios y planeación iniciaron en **2019, y en 2022** el proyecto recibió recursos no reembolsables, permitiendo que hoy este parque sea una realidad. El **Megaparque se perfila como el lugar de encuentro de las familias mantenses** y como un punto turístico clave. Además de su enorme extensión, alberga la fuente más grande del litoral, que con **70 chorros de agua iluminados** crea una atmósfera única.
-
-Este nuevo espacio, además, incorpora una colina mirador de **7,5 metros de altura**, ofreciendo vistas panorámicas inigualables de los atardeceres y paisajes de Manta. La infraestructura busca, además, reactivar la economía local con su **megateatro al aire libre** y su cercanía al mar.
-
-Un Megaparque para el bienestar de todos
-----------------------------------------
-
-**Emilio Macías**, coordinador de Infraestructuras del Municipio de Manta, relató cómo este proyecto inició como un sueño en 2019. Menciona que antes los mantenses visitaban parques en otras ciudades, y al recorrer **Portoviejo con el alcalde Intriago**, se propusieron crear algo similar en su propio cantón.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-31-at-10.52.47-1024x768.jpeg)
-
-Foto: Municipio de Manta
-
-Este sector era antes un **muelle artesanal** y con el crecimiento rápido de Manta, enfrentó problemas de saneamiento, acumulando **aguas negras y escombros tras el terremoto de 2016**.
-
-La necesidad de espacios recreativos y verdes en Manta fue uno de los **motores principales del proyecto**. Macías recuerda los **desafíos enfrentados**, como la búsqueda de fondos fuera del país para hacer realidad este parque.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-31-at-10.53.17-1024x768.jpeg)
-
-Foto: Municipio de Manta
-
-Petroecuador finalmente aportó el financiamiento necesario, alcanzando un costo de **21 millones de dólares**, haciendo de este **parque el único en el país con vistas al mar** y la más alta inversión en un proyecto recreativo de estas características.
-
-El Megaparque es un **proyecto diseñado no solo para los turistas**, sino para todos los mantenses, quienes ahora cuentan con un espacio que, además de disfrutar la playa, **brinda oportunidades de recreación** y esparcimiento.
-
-Los 600 árboles sembrados en sus hectáreas verdes representan el **compromiso ambiental y de sostenibilidad de Manta**.
-
-Grandes eventos y el esparcimiento en el Megaparque de Manta
-------------------------------------------------------------
-
-El **Megaparque Centenario** incluye un teatro al aire libre con capacidad para **5 000 personas**, lo cual permitirá la realización de **eventos de gran escala**. Con camerinos, acondicionamiento acústico y facilidades para artistas, el teatro fue diseñado para cubrir todas las **necesidades logísticas de eventos públicos**.
-
-Según Macías, este espacio está preparado para **albergar actividades durante todo el año**, ofreciendo a la comunidad un lugar de **entretenimiento constante**.
-
-Adicionalmente, el parque cuenta con una **fuente de agua única en el perfil costero**, que combina una pileta seca para el juego seguro de niños y una pileta húmeda con chorros de agua de hasta 12 metros de altura.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-31-at-10.52.17-1024x768.jpeg)
-
-Foto: Municipio de Manta
-
-Esta fuente, equipada con iluminación colorida, se convirtió rápidamente en una **atracción visual**. Ubicada en el centro del parque, esta instalación representa el **esfuerzo de Manta por ofrecer un espacio recreativo** que reúna a sus habitantes en un ambiente seguro y estético.
-
-El proyecto culmina con una colina mirador que ofrece **vistas panorámicas de la costa y del puerto de Manta**. Esta colina se diseñó con **áreas de descanso** y un mirador que, en días despejados, permite contemplar hasta el horizonte.
-
-Macías resaltó que, además de ser un espacio estético, el mirador también conecta a los visitantes con la riqueza **visual de la ciudad y su crecimiento**.
-
-Hoy es el Día de Godzilla, efeméride dedicada al ‘rey de los monstruos’ 
-========================================================================
-
-El 3 de noviembre se celebra el Día de Godzilla, para homenajear al icónico ‘kaiju’ que ha marcado la cultura pop desde 1954.
------------------------------------------------------------------------------------------------------------------------------
-
-![Godzilla, conocido como ‘Gojira’ en Japón, debutó en 1954 como símbolo de destrucción y esperanza. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-de-Godzilla.jpg)
-
-El 3 de noviembre es una fecha significativa para los **amantes del cine y la cultura pop**. Este día se conmemora el **Día de Godzilla**, un evento que celebra al legendario monstruo conocido como el **“Rey de los Kaiju”**.  
-
-### Más noticias
-
-* [Te contamos la historia de Godzilla, el rey de los monstruos en el cine](https://www.elcomercio.com/tendencias/cine/godzilla-historia-cine-japon.html "https://www.elcomercio.com/tendencias/cine/godzilla-historia-cine-japon.html") 
-* [Las mascotas y la saga ‘X-Men’ intentarán ganar a ‘Godzilla’ en cartelera](https://www.elcomercio.com/tendencias/entretenimiento/mascotas-saga-xmen-peliculas-cine.html "https://www.elcomercio.com/tendencias/entretenimiento/mascotas-saga-xmen-peliculas-cine.html")
-
-Desde su **primera aparición en 1954**, Godzilla ha dejado una huella imborrable en la industria cinematográfica y en la cultura popular a nivel mundial. **La historia de este colosal ser es rica y fascinante**, llena de simbolismos que reflejan los miedos y esperanzas de varias generaciones. 
-
-**Orígenes de Godzilla** 
--------------------------
-
-**Godzilla**, conocido como **‘Gojira’** en Japón, hizo su debut en la **película ‘Gojira’** (1954), producida por el **estudio Toho**. La creación de este monstruo fue inspirada por los **horrores de la bomba atómica** lanzada sobre Hiroshima y Nagasaki durante la **Segunda Guerra Mundial**.  
-
-La figura de **Godzilla** simboliza tanto la destrucción como la esperanza de renacimiento, convirtiéndose en un ícono cultural que trasciende fronteras. El **nombre “Gojira”** es una **combinación de las palabras japonesas “gorira” (gorila) y “kujira” (ballena**), lo que refleja su naturaleza híbrida y su imponente tamaño, según [Infobae](https://www.infobae.com/malditos-nerds/2023/11/17/los-origenes-de-godzilla-el-rey-de-los-kaiju/ "https://www.infobae.com/malditos-nerds/2023/11/17/los-origenes-de-godzilla-el-rey-de-los-kaiju/").  
-
-**Godzilla en el cine** 
-------------------------
-
-Desde su estreno, **Godzilla ha protagonizado más de 30 películas**, convirtiéndose en un **pilar del cine japonés y mundial.** Las historias han evolucionado, pero el tema central sigue siendo la lucha entre el ser humano y la naturaleza desatada. A lo largo de las décadas, Godzilla ha enfrentado a otros monstruos icónicos como **King Kong, Mothra y Ghidorah,** lo que ha ampliado su universo narrativo, siguiendo con Infobae.  
-
-**Celebración del Día de Godzilla** 
-------------------------------------
-
-Cada año, **el 3 de noviembre se celebra el Día de Godzilla** en honor a su **estreno original**. Este evento ha ganado popularidad entre los fanáticos del cine y la c**ultura ‘geek’**.  
-
-En **Japón**, las festividades incluyen **proyecciones especiales de películas clásicas, eventos temáticos en cines y ferias dedicadas a productos relacionados con Godzill**a. Los fanáticos también comparten sus recuerdos y experiencias a través de redes sociales. 
-
-**Curiosidades de Godzilla**   
--------------------------------
-
-* Godzilla iba a ser originalmente un **pulpo gigante mutante**, pero el productor **Tomoyuki Tanaka** optó por un diseño más parecido a un dinosaurio.  
-
-* En la película clásica de 1954, el **icónico rugido de Godzilla** se creó al frotar un guante de cuero cubierto de resina de pino sobre las cuerdas de un contrabajo.  
-
-* En 1992, un traje de Godzilla **valorado en 39 000 dólares** fue robado de un garaje de Tokio y apareció en la orilla del lago Okutama, asustando a una mujer que paseaba por allí.  
-
-* Entre 1977 y 1979, **Marvel publicó una serie de 24 cómics** en los que Godzilla se enfrentó a los Vengadores y a los Cuatro Fantásticos.  
-
-* Godzilla recibió una **estrella en el Paseo de la Fama de Hollywood** en 2004 para celebrar su 50 cumpleaños. 
-
-Insultan y lanzan lodo a la comitiva de los reyes de España
-===========================================================
-
-Los monarcas españoles, el presidente del Gobierno de España, Pedro Sánchez, y el presidente regional de Valencia, Carlos Mazón, visitaron la zona de Paiporta.
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El rey Felipe habló con los afectados durante su visita a Paiporta. Personas indignadas han recibido con insultos a la comitiva y se han encarado con ella, mientras que tanto el rey como la reina ha intentado mediar. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/Espana.jpg)
-
-##### Agencia EFE
-
-Con gritos de “**fuera**” y **lanzamiento de barro** fue recibida la comitiva de los **reyes de España**, el **presidente del Gobierno, Pedro Sánchez**, y **el presidente regional de Valencia, Carlos Mazón**.
-
-Ellos llegaron a **Paiporta**, epicentro de las inundaciones que asolaron la región por la Dana.
-
-Numerosas personas indignadas recibieron con insultos a la comitiva y se encararon con ella, mientras que tanto el **rey Felipe** como **la reina Letizia** intentaron mediar con jóvenes que se les acercaron.
-
-El hecho ocurrió este domingo 3 de noviembre de 2024, en un pueblo donde ha habido al menos 62 muertos por las inundaciones, que provocaron 213 fallecimientos en Valencia, así como un número indeterminados de desaparecidos en el mayor desastre natural en **España** en lo que va de siglo.
-
-### Más noticias
-
-* [Ecuatoriano relata devastación tras DANA en España](https://www.elcomercio.com/actualidad/mundo/ecuatoriano-relata-devastacion-dana.html "Ecuatoriano relata devastación tras DANA en España")
-* [Más fallecidos se contabilizan en Valencia y llegan más policías y militares](https://www.elcomercio.com/actualidad/mundo/fallecidos-reportan-valencia-policias-y-militares.html "Más fallecidos se contabilizan en Valencia y llegan más policías y militares")
-* [Efectos de la DANA como consecuencia del cambio climático](https://www.elcomercio.com/actualidad/mundo/inundaciones-temporal-espana-deja-fallecidos.html "Efectos de la DANA como consecuencia del cambio climático")
-
-La visita de los Reyes de España
---------------------------------
-
-Los **reyes de España, Felipe VI y Letizia**, llegaron a la localidad de **Paiporta**, la conocida como “zona cero” del temporal que asoló **Valencia**, y donde se sigue sacando agua, fango y lodo de cada domicilio.
-
-La visita del monarca y su esposa se produce este domingo donde la A**gencia Estatal de Meteorología (Aemet)** ha establecido el aviso de nivel naranja (riesgo importante de lluvias con tormentas fuertes) en el litoral de la provincia de **Valencia** y el litoral e interior norte de la vecina provincia de **Castellón** por precipitaciones que podrían acumular 100 litros por metro cuadrado en doce horas.
-
-A pesar de que la idea inicial era acudir primero al **Centro de Coordinación de Emergencias (Cecopi),** los reyes se dirigieron directamente a **Paiporta**, al puesto de mando avanzado, antes de dirigirse hacia la localidad de **Chiva** para conocer de primera mano la magnitud de la tragedia y acompañar a los afectados. 
-
-El 3 de noviembre es una fecha histórica para Cuenca, Bahía de Caráquez y Cañar 
-================================================================================
-
-El 3 de noviembre marca hitos de independencia y cantonización en Ecuador.
---------------------------------------------------------------------------
-
-![El 3 de noviembre es clave en Ecuador, se conmemora la independencia de Cuenca, la cantonización de Bahía de Caráquez y la creación de la provincia de Cañar. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Independencias-Cuenca.jpg)
-
-El **3 de noviembre** es una fecha clave en la historia de Ecuador, marcada por i**mportantes eventos de independencia y cantonización**. En 1820, **Cuenca** proclamó su libertad del dominio español, consolidándose como una **ciudad de relevancia histórica y cultural**, hoy reconocida como **Patrimonio de la Humanidad**. En 1875, **Bahía de Caráquez** **se convirtió en cantón** bajo el nombre Sucre, en honor al héroe independentista **Antonio José de Sucre**. Finalmente, en 1880, **se creó la provincia de Cañar**, inicialmente llamada Azogues, en homenaje a la **resistencia del pueblo cañari**. 
-
-### Más noticias
-
-* [Siete lugares para visitar en Cuenca durante el feriado de Difuntos](https://www.elcomercio.com/actualidad/cuenca/siete-lugares-visitar-cuenca-feriado.html "https://www.elcomercio.com/actualidad/cuenca/siete-lugares-visitar-cuenca-feriado.html")
-* [¿Desde cuándo comienza el feriado en Ecuador?](https://www.elcomercio.com/actualidad/ecuador/desde-cuando-comienza-el-feriado-ecuador.html "https://www.elcomercio.com/actualidad/ecuador/desde-cuando-comienza-el-feriado-ecuador.html")
-
-**Independencia de Cuenca** 
-----------------------------
-
-De acuerdo con la [Asamblea Nacional](https://www.asambleanacional.gob.ec/es/blogs/liuba-cuesta/46724-3-de-noviembre-independencia-de-cuenca "https://www.asambleanacional.gob.ec/es/blogs/liuba-cuesta/46724-3-de-noviembre-independencia-de-cuenca"), el 3 de noviembre de 1820, **Cuenca proclamó su independencia del dominio español**, inspirada por la reciente liberación de Guayaquil.  
-
-Liderados por **Tomás Ordóñez** y apoyados por el alcalde **José María Vázquez de Noboa**, los patriotas se armaron y se atrincheraron en la **Plaza de San Sebastián**, donde lograron finalmente la **libertad de la ciudad**. Con el tiempo, Cuenca se convirtió en cuna de figuras importantes de Ecuador y fue declarada **Patrimonio de la Humanidad**. Su legado se celebra hoy con actos conmemorativos, honrando su historia y contribución al país. 
-
-**Cantonización de Bahía de Caráquez** 
----------------------------------------
-
-**Bahía de Caráquez**, o Villa de San Antonio de Morga, **fue cantonizada el 3 de noviembre de 1875** bajo el nombre de Sucre en honor al **Mariscal Antonio José de Sucre**, héroe de la independencia. Fundada como asentamiento en 1624, **su origen se remonta a los primeros habitantes Caras** en el 1500 a.C., y más tarde jugó un rol estratégico durante la colonia y en las gestas libertarias. Hoy, **Bahía de Caráquez** celebra su historia como un lugar de importancia histórica y cultural en Ecuador, a decir de la web [HazteVerEcuador](https://hazteverecuador.com/3-de-noviembre-de-1875-cantonizacion-de-bahia-de-caraquez/#google_vignette "https://hazteverecuador.com/3-de-noviembre-de-1875-cantonizacion-de-bahia-de-caraquez/#google_vignette"). 
-
-**Creación de la provincia de Cañar** 
---------------------------------------
-
-Según la página de la [gobernación de Cañar](https://gobernacioncanar.gob.ec/resena-historica/#:~:text=El%20hist%C3%B3rico%203%20de%20Noviembre,Gobernador%20fue%20don%20Ram%C3%B3n%20Pesantez. "https://gobernacioncanar.gob.ec/resena-historica/#:~:text=El%20hist%C3%B3rico%203%20de%20Noviembre,Gobernador%20fue%20don%20Ram%C3%B3n%20Pesantez."), el 3 de noviembre de 1880, mediante decreto del **Congreso ecuatoriano**, se estableció la provincia **inicialmente llamada Azogues**, bajo el liderazgo de su primer gobernador, **Ramón Pesantez**. Más adelante, su nombre cambió a **Provincia del Cañar** en homenaje a la importante historia del **pueblo cañari** en la región. Actualmente, la provincia está conformada por siete cantones: Azogues, Cañar, Biblián, La Troncal, El Tambo, Déleg y Suscal. 
-
-¿Cuáles son los feriados recuperables de 2024 en Ecuador?
-=========================================================
-
-Del 2023 al 2025, Ecuador tiene un calendario de feriados programados para promover el turismo en el país.
-----------------------------------------------------------------------------------------------------------
-
-![Los feriados recuperables en Ecuador, en 2024, se dan por el calendario de feriados establecido.](https://www.elcomercio.com/wp-content/uploads/2024/10/feriados-recuperables-ecuador.jpg)
-
-En 2024, **Ecuador** tuvo **feriados** recuperables y feriados no recuperables.
-
-El último feriado de Ecuador, en el calendario 2024, será el de **Navidad**, el miércoles 25 de diciembre.
-
-### Más noticias:
-
-* [Ministerio de Energía anuncia decisión sobre cortes de luz para feriados de noviembre](https://www.elcomercio.com/actualidad/ecuador/cenae-decision-horas-cortes-luz-feriado-noviembre.html "Ministerio de Energía anuncia decisión sobre cortes de luz para feriados de noviembre")
-* [Daniel Noboa redujo el IVA para incentivar el turismo en los feriados de noviembre](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-iva-feriados-noviembre.html "Daniel Noboa redujo el IVA para incentivar el turismo en los feriados de noviembre")
-* [¿Cuántos días de descanso hay por los feriados de noviembre?](https://www.elcomercio.com/actualidad/ecuador/dias-descanso-feriados-noviembre.html "¿Cuántos días de descanso hay por los feriados de noviembre?")
-
-Feriados recuperables y no recuperables de 2024 en Ecuador
-----------------------------------------------------------
-
-El feriado de Navidad, el último del año, **no es recuperable**.
-
-Sí es recuperable el feriado creado por el presidente **Daniel Noboa** por decreto ejecutivo para el jueves 31 de octubre.
-
-En los sectores público y privado, se deberá programar el tiempo para la recuperación o el pago de ese tiempo, si los empleados trabajaron.
-
-Los **días recuperables corresponden a los que se salen del calendario oficial**.
-
-Por ejemplo, cuando el Gobierno determina una **jornada libre,** por alguna eventualidad.
-
-Este fue el caso del **jueves 31 de octubre**.
-
-En **2024**, Ecuador cuenta con 10 feriados nacionales no recuperables:
-
-* **Año Nuevo** que fue el lunes 1 de enero
-* **Carnaval**, el lunes 12 y martes 13 de febrero
-* **Viernes Santo**, el viernes 29 de marzo
-* **Día del Trabajo**, el 1 de mayo y se trasladó al viernes 3 de mayo
-* **Batalla del Pichincha**, el viernes 24 de mayo
-* **Primer Grito de Independencia**, sábado 10 de agosto y se trasladó al viernes 9 de agosto
-* **Independencia de Guayaquil**, miércoles 9 de octubre y se trasladó al viernes 11 de octubre
-
-A estos se suman los últimos del **año**:
-
-* **Día de Difuntos**, sábado 2 de noviembre, que se trasladó al viernes 1 de noviembre
-* **Independencia de Cuenca**, que es este domingo 3 noviembre, se trasladó al lunes 4 de noviembre
-* **Navidad**, el miércoles 25 de diciembre, no es trasladable.
-
-Ecuador, con sus 10 asuetos anuales, es uno de los países con **menos descansos** obligatorios en la región.
-
-**Chile, Argentina y Colombia** son los países con más feriados en Latinoamérica. Este 2024, sus ciudadanos disfrutarán de 20, 19 y 18 asuetos respectivamente.
-
-El calendario de feriados de Ecuador fue preestablecido para los años 2023, 2024 y 2025, con el fin de contribuir al turismo en el país.
-
-  
-
-Cumbres borrascosas
-===================
-
-Colisionan de agendas en las cumbres Latinoamericana y Apec.
-------------------------------------------------------------
-
-![Jose Felix Valdivieso, columnista en EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/11/Jose-Felix-Valdivieso2.jpg)
-
-Las cosas del corazón no tienen agenda, pero las de la política sí. El 14 y 15 de noviembre el **Ecuador** será protagonista de la **política Latinoamericana**. Albergará en la ciudad de **Cuenca** la XXIX Cumbre Iberoamericana de **Jefes** de **Estado** y de **Gobierno**. No obstante, cierta borrasca se cierne sobre la **Cumbre cuencana** por motivos imposibles de soslayar: En el Perú tendrá lugar la **reunión** de la APEC desde el 10 de noviembre hasta el 16 del mismo mes.
-
-La **colisión** de **agendas** es evidente, tanto como la falta de **planificación**. De momento, la ministra de Relaciones Exteriores y Movilidad Humana, Gabriela Sommerfeld ha confirmado la asistencia de 9 presidentes, incluidos el Rey de España, Felipe VI, y el presidente Sánchez. No se nos puede escapar —aunque a algunos se les haya escapado la tortuga— que el año pasado, en la **Cumbre** de la **República Dominicana**, de los 22 miembros que la integran, acudieron hasta 14 **presidentes** o **primeros ministros**.
-
-Tampoco fue una buena idea el **asalto** a la **embajada mexicana** en **Quito** para apresar a Jorge Glas. La **presidenta mexicana**, Claudia Sheinbaum, será una ausencia notable, si bien la ministra Sommerfeld, ha expresado su **confianza** en que finalmente **México** envíe a una **representación**. Pero eso no es lo mismo a que venga la propia **presidenta Sheinbaum**, como cabeza de una de las potencias del **continente**.
-
-La **borrasca** se acentúa, porque en el vecino **Perú** estarán de **celebración**. El inicio de la novela _**Cumbres Borrascosas**_ yaintuía los problemas: «_He vuelto hace unos instantes de visitar a mi casero y ya se me figura que ese **solitario vecino** va a inquietarme por más de una causa_». No solo se inaugurará el megapuerto de Chancay en el Perú, que inevitablemente empañará el **protagonismo** del puerto de Guayaquil, sino que este será también inaugurado por el presidente Xi en el marco de una visita de estado, aparte de la APEC.
-
-Cuando Xi se moviliza, toda **China** viaja con él. Para entendernos, los **viajes** de los **presidentes chinos** hoy en día son como los viajes de los **presidentes americanos**. Hay todo un **ecosistema** que se mueve a su alrededor, que igualmente se desplaza en esos **viajes presidenciales**, y que es necesario comprender en toda su **dimensión**, para saber aprovecharlos al máximo. ¿Está **Ecuador** en ello?
-
-Pero no todo pueden ser **malas noticias**. En el camino de **preparación** de la **Cumbre Latinoamericana**, los 22 países **integrantes** de la misma han realizado una **declaración** esperanzadora. Han reforzado la **cooperación** en **ciencia** e **innovación**, promoviendo asimismo la IA en español y portugués.
-
-«El **desarrollo científico** es la única respuesta a los **problemas** que enfrentamos. No podemos delegar en otros esa **responsabilidad**» —ha señalado el [secretario general Iberoamericano, Andrés Allamand](https://www.segib.org/secretaria-general/andres-allamand-2/).
-
-Como se decía, la **política** es una **cuestión** de **agenda**, no entiende de otra cosa. Y no se puede permitir choques, ni solapamientos. En la segunda edición de _El continente olvidado_, Michael Reid señala que debe figurar en la **agenda latinoamericana** el romper el debate **histórico** entre el **libre mercado** sin restricciones y el **proteccionismo**, y el dejar de alimentar la **visión** del **poder** como un patrimonio personal.  «_Para llegar ahí se requiere un nuevo tipo de **política**: frente a la **polarización** y **confrontación** ofrecida por **populistas**_ — _y a veces por sus **oponentes**_—_, Latinoamérica necesita **construcción** de **consensos**, donde el estado, el sector privado y la **sociedad civil** trabajen juntos para fijar **metas** a medio plazo y responsabilicen al **gobierno** de su **cumplimiento**_».
-
-Aunque la **visión** de Reid en este libro es menos **optimista**, despeja un tanto la **borrasca** de las cumbres, añadiendo cierta **pausa** a todo, y para ello cita al **liberal** argentino Bautista Alberdi: «_Las **naciones**, como los hombres, no tienen alas; hacen sus viajes a pie, paso a paso_». ¡Que así sea la agenda!
-
-Antiturismo
-===========
-
-El antiturismo quizá no sea tan espantoso como lo pintan, tal vez es la única solución.
----------------------------------------------------------------------------------------
-
-![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
-
-El **turismo** masivo ha convertido destinos únicos en **escenarios** de **sobreexplotación** que distorsionan la esencia de estos lugares y degradan la vida de los **residentes**. En **Barcelona**, la presencia masiva de **turistas** ha llevado a la **población local** a manifestarse contra lo que consideran una **invasión**; mientras que **Venecia**, ya al borde de la ruina por el arribo constante de **cruceros**, observa cómo sus canales y **ecosistema** se deterioran.
-
-En Bali, el **aumento** de **precios** de **productos básicos** debido a la demanda **turística** afecta la vida de las **comunidades locales**; Islandia se enfrenta a visitantes que ignoran las **normas** de **protección natural**, y Machu Picchu intenta frenar el daño de sus **ruinas**.
-
-Las medidas **antiturismo** incluyen limitar las **viviendas turísticas** en Barcelona o Nueva York, cobrar tasas de entrada a **Venecia**, restringir el número diario de visitantes en Santorini, prohibir **tours** guiados en zonas sensibles de Tokio, desviar **turistas** a áreas menos saturadas en Amsterdam o promover el **turismo** en **temporadas** bajas en Roma. Pero estas acciones no reducen el **impacto ambiental**, ni cultural, ni protegen la **calidad** de **vida** de los **residentes**.
-
-Esta sobrecarga de **turistas** no encuentra una respuesta que no sean manifestaciones o **agresiones** a los **turistas**, y la idea de una “**colaboración internacional**” para un **turismo** sostenible suena hipócrita, porque en la práctica cada país compite por atraer más **visitantes** que el otro.
-
-Además, las grandes **cadenas hoteleras**, plataformas como Airbnb, aerolíneas, tour **operadores internacionales** y gigantes de la intermediación **digital** no muestran intención alguna de reducir la sobreexplotación de **destinos** saturados como París y al contrario, **capitales** de **riesgo** compran edificios familiares para ponerlos en Airbnb, como sucede en Portugal.
-
-Con una **estructura** basada en maximizar **beneficios** y minimizar **costos**, la posibilidad de que los gigantes del **turismo** sacrifiquen **ganancias** para promover un **turismo** respetuoso y sostenible es un engaño que sirve para grandilocuentes **declaraciones** de la **burocracia internacional**, que se reúne en costosos **hoteles** de **destinos** saturados con **fondos públicos**.
-
-El **turismo** **masivo** seguirá dejando sin **viviendas** a las familias, transformando negativamente las **comunidades locales**, contaminando, inflando **precios** y convirtiendo paraísos en infiernos de **masas** de **visitantes**, que poco les importa el **destino** y la vida de los **residentes**.
-
-El **antiturismo** quizá no sea tan espantoso como lo pintan, tal vez es la única **solución**.
-
-Cartas a Quito / 3 de noviembre de 2024
-=======================================
-
-Estas son las cartas a Quito de este domingo 3 de noviembre de 2024
--------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Celebrando la independencia de Cuenca, un legado de libertad
-------------------------------------------------------------
-
-El 3 de noviembre es una fecha que resuena profundamente en el corazón de todos los cuencanos y ecuatorianos. En este día, recordamos la valiente proclamación de independencia de Cuenca en 1820, un acto que simboliza la lucha por la libertad y el deseo de un futuro mejor. Esta conmemoración no solo es un homenaje a aquellos patriotas que se levantaron contra el yugo español, sino también una oportunidad para reflexionar sobre el legado que nos han dejado. La independencia de Cuenca fue el resultado de un esfuerzo colectivo, donde hombres y mujeres se unieron en la Plaza de San Sebastián para exigir su derecho a ser libres. Inspirados por la reciente independencia de Guayaquil, los cuencanos se organizaron para desarmar a las tropas españolas y proclamar su libertad. Este acto heroico, aunque efímero, marcó el inicio de un camino hacia la soberanía que culminaría con la Batalla de Pichincha en 1822. Es fundamental recordar que la independencia no fue solo un evento militar; fue una manifestación del deseo de un pueblo por gobernarse a sí mismo. Hoy, al celebrar esta importante fecha, debemos fomentar en las nuevas generaciones el entendimiento del valor de la libertad y la responsabilidad que conlleva. La independencia no es solo un recuerdo del pasado; es un llamado a construir un futuro en el que prevalezcan los valores democráticos y el respeto por los derechos humanos. Invito a todos los cuencanos a participar activamente en las celebraciones del 3 de noviembre. Asistamos a los desfiles, compartamos historias sobre nuestros héroes y recordemos que cada uno de nosotros tiene un papel que desempeñar en la construcción de una sociedad más justa y libre. Que este día nos inspire a seguir luchando por nuestros ideales y a mantener vivo el espíritu patriota que nos une como ecuatorianos.
-
-Mateo Sebastián Enríquez
