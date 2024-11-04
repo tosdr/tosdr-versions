@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/of-de-russen-hun-officiele-bewijs-mogen-laten-zien/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/boeken/familie-van-licht-familie-van-duisternis-2-2/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
@@ -183,6 +183,30 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
+
+##### **inhetmeer** reacts on:
+
+##### Fleur Agema moet/wil KLEUR BEKENNEN…!!
+
+[Ah.......en mocht er iemand hier willen roepen dat ik uit mi…](https://www.wanttoknow.nl/overige/fleur-agema-moet-wil-kleur-bekennen/comment-page-1/#comment-626352)
+
+![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
+
+##### **inhetmeer** reacts on:
+
+##### Fleur Agema moet/wil KLEUR BEKENNEN…!!
+
+[werk van chemtrails.......en maar roepen over milieuvervuili…](https://www.wanttoknow.nl/overige/fleur-agema-moet-wil-kleur-bekennen/comment-page-1/#comment-626351)
+
+![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
+
+##### **inhetmeer** reacts on:
+
+##### Fleur Agema moet/wil KLEUR BEKENNEN…!!
+
+[In de oppositie was Agema nogal eens stevig te horen........…](https://www.wanttoknow.nl/overige/fleur-agema-moet-wil-kleur-bekennen/comment-page-1/#comment-626350)
 
 ![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
 
@@ -415,30 +439,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Poetin verklaart Rusland GMO-vrij..!!
 
 [Ik ben heel blij met dit positieve nieuws! Eindelijk is deze…](https://www.wanttoknow.nl/nieuws/poetin-verklaart-rusland-gmo-vrij/comment-page-1/#comment-626321)
-
-![ikzie](https://secure.gravatar.com/avatar/99005f7fd1b9bebeaf2ae5766f00b3c6?s=50&d=identicon&r=g)
-
-##### **ikzie** reacts on:
-
-##### Pfizer-mRNA-oplichterij bekend bij autoriteiten..!!
-
-[Hier onder de mensen die ik ken hetzelfde. Eergisteren een h…](https://www.wanttoknow.nl/gezondheid/corona-kwestie/pfizer-mrna-oplichterij-bekend-bij-autoriteiten/comment-page-1/#comment-626320)
-
-![Senjutsu](https://secure.gravatar.com/avatar/744ec16c6541fe3eb3d9745c3bf7eff8?s=50&d=identicon&r=g)
-
-##### **Senjutsu** reacts on:
-
-##### Trump, ‘Q’ en meer…!
-
-[Icke en Jensen lichten een paar tipjes van de sluier op. Wil…](https://www.wanttoknow.nl/politiek/trump-q-en-meer/comment-page-1/#comment-626319)
-
-![El](https://secure.gravatar.com/avatar/7fbad5c4c90866e3a51ba5c36ceac8d1?s=50&d=identicon&r=g)
-
-##### **El** reacts on:
-
-##### Pfizer-mRNA-oplichterij bekend bij autoriteiten..!!
-
-[Helaas beginnen de gevaccineerden om me heen neer te vallen…](https://www.wanttoknow.nl/gezondheid/corona-kwestie/pfizer-mrna-oplichterij-bekend-bij-autoriteiten/comment-page-1/#comment-626318)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
