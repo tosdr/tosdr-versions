@@ -154,40 +154,6 @@ Les différentes catégories de données personnelles collectées lors votre sou
 * Réponses à nos enquêtes;
 * Cookies et autres traceurs (cf. [Politique de cookies](https://www.bfmtv.com/cookies/)).
 
-### Utilisation de la technologie Utiq
-
-La technologie Utiq est fournie par Utiq SA/NV, une société européenne d’Adtech, en collaboration avec des opérateurs télécoms qui l’alimentent. Cette technologie contribue à réaliser nos activités de marketing digital.
-
-Nous utilisons la technologie Utiq sur ce site web. Si vous consentez à son activation, nous l’utiliserons pour vous reconnaître en tant que même visiteur et collecter des informations sur votre navigation sur ce site web afin de vous offrir du contenu et de la publicité personnalisés et réaliser des analyses, dans le respect des consentements que vous nous avez donnés. Si vous activez la technologie Utiq sur certains de nos autres sites web, nous pourrons vous y reconnaître et lier vos activités sur ces sites web.
-
-Cette technologie n’est pas activée par défaut et nécessite votre consentement pour être utilisée. Elle ne peut l’être que si vous êtes également client d’un des opérateurs télécom partenaires d’Utiq.
-
-Nous agissons en tant que responsable de traitement conjoint avec Utiq pour les traitements de données effectués dans le cadre de certaines finalités. Dans le cadre de notre accord de responsables conjoints :
-
-* Nous collectons votre consentement à l’activation de la technologie Utiq, qui inclut les traitements de données effectués par Utiq et votre opérateur télécom en vue de cette activation
-* Nous vous offrons un lien dédié au bas de ce site web pour vous fournir des informations sur cette technologie et les contrôles qui vous sont offerts.
-* Utiq met à votre disposition un portail ([consenthub](https://consenthub.utiq.com/)) pour faciliter l’exercice de vos droits en matière de protection des données et vous permettre de gérer facilement vos consentements Utiq. À tout moment. En un seul endroit.
-* Ainsi même si vous pouvez exercer vos droits à l’égard de l’un des responsables de traitement, Utiq demeure le point de contact principal pour toute question ou demande que vous pourriez avoir en relation avec la technologie Utiq.
-
-Pour consulter et gérer tous les consentements Utiq que vous avez donné jusqu’à présent, accédez au [consenthub](https://consenthub.utiq.com/) d'Utiq.
-
-Vous pouvez également retirer votre consentement Utiq uniquement pour ce site [ici](https://www.bfmtv.com/cookies/#utiqOut)
-
-Pour plus d'informations, veuillez consulter la [Politique relative à l’utilisation des données personnelles d’Utiq.](https://consenthub.utiq.com/pages/privacy-statement)
-
-NEXTRADIOTV n’a aucun contrôle sur les résultats des moteurs de recherche tels que Google. Lors de la suppression de vos données sur nos sites, NEXTRADIOTV demande la désindexation de la page supprimée.
-
-  
-
-### First ID
-
-Lors de votre navigation sur les sites NextRadioTV, sous réserve de consentement, nous pouvons utiliser un identifiant personnalisé afin d’améliorer votre expérience de navigation sur le site, aussi bien pour la personnalisation du contenu que des publicités ciblées.
-
-  
-Cet identifiant unique est stocké dans un cookie et est réglementé par les consentements donnés sur les sites d’un réseau d’éditeurs et fournisseurs AdTech, également à des fins de suivi de fonctionnement de l’ID, généré par la société First-ID (co-responsable de traitement).
-
-Cet identifiant ne permet pas de vous identifier directement, mais permet de suivre votre navigation afin de mieux vous connaître. Pour en savoir plus, consultez la politique de confidentialité First-ID : [https://www.first-id.fr/politique-de-confidentialite](https://www.first-id.fr/politique-de-confidentialite). Vous pouvez consulter votre identifiant sur la page : [whatismy.first-id.fr](https://whatismy.first-id.fr/) et vous opposer au traitement.
-
 ### Sur quelle base légale collectons-nous vos données personnelles ?
 
 Nous collectons et traitons vos Données Personnelles sur la base de votre consentement ou de votre souscription à certaines prestations additionnelles accessibles sur nos Services (tels qu’un jeu-concours, une inscription à une newsletter, etc).
@@ -244,7 +210,27 @@ Vos données à caractère personnelle sont collectées et traitées uniquement 
 
   
 
-### Pour quelle durée de conservation ?
+Des identifiants publicitaires partagés sont déposés sur nos sites. Ils visent à remplacer les cookies tiers pour identifier les internautes afin de les cibler via des campagnes personnalisées.
+
+  
+
+### Utiq
+
+La technologie Utiq est fournie par Utiq SA/NV, une société européenne d’Adtech, en collaboration avec des opérateurs télécoms qui l’alimentent. Cette technologie contribue à réaliser nos activités de marketing digital. Nous utilisons la technologie Utiq sur ce site web. Si vous consentez à son activation, nous l’utiliserons pour vous reconnaître en tant que même visiteur et collecter des informations sur votre navigation sur ce site web afin de vous offrir du contenu et de la publicité personnalisés et réaliser des analyses, dans le respect des consentements que vous nous avez donnés. Si vous activez la technologie Utiq sur certains de nos autres sites web, nous pourrons vous y reconnaître et lier vos activités sur ces sites web. Cette technologie n’est pas activée par défaut et nécessite votre consentement pour être utilisée. Elle ne peut l’être que si vous êtes également client d’un des opérateurs télécom partenaires d’Utiq. Nous agissons en tant que responsable de traitement conjoint avec Utiq pour les traitements de données effectués dans le cadre de certaines finalités. Dans le cadre de notre accord de responsables conjoints :
+
+* Nous collectons votre consentement à l’activation de la technologie Utiq, qui inclut les traitements de données effectués par Utiq et votre opérateur télécom en vue de cette activation
+* Nous vous offrons un lien dédié au bas de ce site web pour vous fournir des informations sur cette technologie et les contrôles qui vous sont offerts.
+* Utiq met à votre disposition un portail (**[consenthub](https://consenthub.utiq.com/)**) pour faciliter l’exercice de vos droits en matière de protection des données et vous permettre de gérer facilement vos consentements Utiq. À tout moment. En un seul endroit.
+* Ainsi même si vous pouvez exercer vos droits à l’égard de l’un des responsables de traitement, Utiq demeure le point de contact principal pour toute question ou demande que vous pourriez avoir en relation avec la technologie Utiq.
+
+Pour consulter et gérer tous les consentements Utiq que vous avez donné jusqu’à présent, accédez au **[consenthub](https://consenthub.utiq.com/)** d'Utiq. Vous pouvez également retirer votre consentement Utiq uniquement pour ce site **[ici](https://www.bfmtv.com/cookies/#utiqOut)** Pour plus d'informations, veuillez consulter la **[Politique relative à l’utilisation des données personnelles d’Utiq.](https://consenthub.utiq.com/pages/privacy-statement)** NEXTRADIOTV n’a aucun contrôle sur les résultats des moteurs de recherche tels que Google. Lors de la suppression de vos données sur nos sites, NEXTRADIOTV demande la désindexation de la page supprimée.  
+
+### First ID
+
+Lors de votre navigation sur les sites NextRadioTV, sous réserve de consentement, nous pouvons utiliser un identifiant personnalisé afin d’améliorer votre expérience de navigation sur le site, aussi bien pour la personnalisation du contenu que des publicités ciblées. Cet identifiant unique est stocké dans un cookie et est réglementé par les consentements donnés sur les sites d’un réseau d’éditeurs et fournisseurs AdTech, également à des fins de suivi de fonctionnement de l’ID, généré par la société First-ID (co-responsable de traitement). Cet identifiant ne permet pas de vous identifier directement, mais permet de suivre votre navigation afin de mieux vous connaître. Pour en savoir plus, consultez la politique de confidentialité First-ID : **[https://www.first-id.fr/politique-de-confidentialite](https://www.first-id.fr/politique-de-confidentialite)**. Vous pouvez consulter votre identifiant sur la page : **[whatismy.first-id.fr](https://whatismy.first-id.fr/)** et vous opposer au traitement.  
+
+La durée de conservation de vos données :
+-----------------------------------------
 
 Nous ne conservons vos données que pendant la durée nécessaire à l’accomplissement des finalités mentionnées ci-dessus ou pour nous permettre de répondre à nos obligations légales.
 
@@ -252,7 +238,8 @@ Les données à caractère personnel utilisées à des fins de prospection comme
 
   
 
-### Vers quels destinataires ?
+Vers quels destinataires ?
+--------------------------
 
 Vos données à caractère personnel pourront être traitées par le personnel habilité du Groupe, ainsi que par des partenaires ou prestataires de NEXTRADIOTV dans le cadre de fourniture de prestations ou services. Le recours à ces partenaires ou prestataires est nécessaire à la bonne exécution des services fournis par NEXTRADIOTV et ses filiales. Les traitements en résultant peuvent nécessiter votre consentement ou relever de l'exécution du contrat ou de l'intérêt légitime du Groupe ou de tiers.
 
@@ -262,13 +249,22 @@ Si ces destinataires sont amenés à traiter vos données en dehors de l’Union
 
   
 
-### Quelle sécurité pour vos données ?
+Quelle sécurité pour vos données ?
+----------------------------------
 
 Nous avons mis en place des mesures techniques et organisationnelles permettant de protéger l'intégrité, la disponibilité et la confidentialité de vos données de façon appropriée selon leur nature, leur traitement et leur accessibilité. Il peut s’agir par exemple de chiffrement des données, de gestion de droits d’accès, de flux sécurisés…
 
 Le respect de la sécurité et de la protection de vos données s’impose à l’ensemble de nos collaborateurs ainsi qu’à nos prestataires intervenant dans leurs traitements.
 
-  
+Sur quelle base légale collectons-nous vos données personnelles ?
+-----------------------------------------------------------------
+
+Nous collectons et traitons vos Données Personnelles sur la base de votre consentement ou de votre souscription à certaines prestations additionnelles accessibles sur nos Services (tels qu’un jeu-concours, une inscription à une newsletter, etc).  
+
+Actualisation des données transmises
+------------------------------------
+
+Il est important que les informations que vous nous communiquez soient exactes et à jour et que vous nous informiez sans délai de tout changement significatif vous concernant.  
 
 À propos de vos droits
 ----------------------
@@ -322,7 +318,7 @@ Nous sommes susceptibles de faire évoluer la présente politique de protection 
 
   
 
-_Date dernière mise à jour : Juin 2024_
+_Date dernière mise à jour : Novembre 2024_
 
 * [BFMTV](https://www.bfmtv.com/ "BFMTV")
 * Politique données personnelles
@@ -330,15 +326,15 @@ _Date dernière mise à jour : Juin 2024_
 Les plus lus
 ------------
 
-1. [![Des participants à une rave party à Pluguffan, près de Quimper, le 30 mars 2024 (illustration).](https://images.bfmtv.com/HYgbFjfB-9TAlGQoN_XgLQ7xT_w=/0x76:768x508/300x0/images/Des-participants-a-une-rave-party-a-Pluguffan-pres-de-Quimper-le-30-mars-2024-1835198.jpg)
+1. [![Les dégâts causés par les inondations dans la ville de Paiporta, près de Valence, le 1er novembre 2024.](https://images.bfmtv.com/mQqJZOF0Z8DSOFUOxTIeWnu4YO8=/0x106:2048x1258/300x0/images/Les-degats-causes-par-les-inondations-dans-la-ville-de-Paiporta-pres-de-Valence-le-1er-novembre-2024-1968495.jpg)
     
-    ![Des participants à une rave party à Pluguffan, près de Quimper, le 30 mars 2024 (illustration).](https://images.bfmtv.com/HYgbFjfB-9TAlGQoN_XgLQ7xT_w=/0x76:768x508/300x0/images/Des-participants-a-une-rave-party-a-Pluguffan-pres-de-Quimper-le-30-mars-2024-1835198.jpg)
+    ![Les dégâts causés par les inondations dans la ville de Paiporta, près de Valence, le 1er novembre 2024.](https://images.bfmtv.com/mQqJZOF0Z8DSOFUOxTIeWnu4YO8=/0x106:2048x1258/300x0/images/Les-degats-causes-par-les-inondations-dans-la-ville-de-Paiporta-pres-de-Valence-le-1er-novembre-2024-1968495.jpg)
     
-    ### Jets de pierres, battes de baseball... Une rave-party dégénère entre teufeurs et gens du voyage près de Rennes](https://www.bfmtv.com/police-justice/ille-et-vilaine-une-rave-party-degenere-entre-teufeurs-et-gens-du-voyage-faisant-14-blesses_AN-202411030087.html "Jets de pierres, battes de baseball... Une rave-party dégénère entre teufeurs et gens du voyage près de Rennes")
-2. [### Élection américaine 2024: Kamala Harris ou Donald Trump, à qui le vote des minorités ira-t-il?](https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/election-americaine-2024-kamala-harris-ou-donald-trump-a-qui-le-vote-des-minorites-ira-t-il_AN-202411030046.html "Élection américaine 2024: Kamala Harris ou Donald Trump, à qui le vote des minorités ira-t-il?")
-3. [### Voyages, publicités... Comment certains influenceurs essaient de limiter leur impact écologique](https://www.bfmtv.com/tech/vie-numerique/voyages-publicites-comment-certains-influenceurs-essaient-de-limiter-leur-impact-ecologique_AN-202411030048.html "Voyages, publicités... Comment certains influenceurs essaient de limiter leur impact écologique")
-4. [### UFC: la démonstration de Moreno qui surclasse Albazi et rêve de reconquérir sa ceinture](https://rmcsport.bfmtv.com/sports-de-combat/mma/ufc/ufc-la-demonstration-de-moreno-qui-surclasse-albazi-et-reve-de-reconquerir-sa-ceinture_AN-202411030076.html "UFC: la démonstration de Moreno qui surclasse Albazi et rêve de reconquérir sa ceinture")
-5. [### Mort de Liam Payne: le corps du chanteur va être remis à sa famille et rapatrié en Angleterre](https://www.bfmtv.com/people/musique/mort-de-liam-payne-le-corps-du-chanteur-va-etre-remis-a-sa-famille-et-rapatrie-en-angleterre_AN-202411020394.html "Mort de Liam Payne: le corps du chanteur va être remis à sa famille et rapatrié en Angleterre")
+    ### "C'est un cimetière": près de Valence, le parking inondé d'un centre commercial suscite toutes les craintes](https://www.bfmtv.com/international/europe/espagne/c-est-un-cimetiere-pres-de-valence-le-parking-inonde-d-un-centre-commercial-suscite-toutes-les-craintes_AV-202411030320.html ""C'est un cimetière": près de Valence, le parking inondé d'un centre commercial suscite toutes les craintes")
+2. [### Jets de pierres, battes de baseball... Une rave-party dégénère entre teufeurs et gens du voyage près de Rennes](https://www.bfmtv.com/police-justice/ille-et-vilaine-une-rave-party-degenere-entre-teufeurs-et-gens-du-voyage-faisant-14-blesses_AN-202411030087.html "Jets de pierres, battes de baseball... Une rave-party dégénère entre teufeurs et gens du voyage près de Rennes")
+3. [### Élection américaine 2024: le grand retour de Donald Trump, de l'assaut du Capitole à la présidentielle](https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/election-americaine-2024-le-grand-retour-de-donald-trump-de-l-assaut-du-capitole-a-la-presidentielle_GN-202411040036.html "Élection américaine 2024: le grand retour de Donald Trump, de l'assaut du Capitole à la présidentielle")
+4. [### Air France suspend le survol de la zone de la Mer Rouge "au titre du principe de précaution", des vols déroutés](https://www.bfmtv.com/economie/entreprises/aeronautique/air-france-suspend-le-survol-de-la-zone-de-la-mer-rouge-au-titre-du-principe-de-precaution-des-vols-deroutes_AN-202411030417.html "Air France suspend le survol de la zone de la Mer Rouge "au titre du principe de précaution", des vols déroutés")
+5. [### Restrictions, contrôles: ce qu'il faut savoir sur la ZTL qui entre en vigueur à Paris ce lundi](https://www.bfmtv.com/paris/restrictions-controles-ce-qu-il-faut-savoir-sur-la-ztl-qui-entre-en-vigueur-a-paris-ce-lundi_AV-202411030313.html "Restrictions, contrôles: ce qu'il faut savoir sur la ZTL qui entre en vigueur à Paris ce lundi")
 
 ![BFMTV](/assets/v8/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
