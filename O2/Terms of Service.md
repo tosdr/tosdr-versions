@@ -540,6 +540,9 @@ Shop
 In relation to consumer credit, Telefónica UK Limited is authorised and regulated by the Financial Conduct Authority (Reference Number 718822)
 
 * [Home](https://www.o2.co.uk/)
+* [Terms & Conditions](https://www.o2.co.uk/termsandconditions)
+
+Website Terms of Use
 
 Related links
 -------------
