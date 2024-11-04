@@ -128,7 +128,7 @@ Informations légales et contractuelles
 ======================================
 
 * [Conditions générales](#e4db94b6-09cd-42ee-8dc0-4cb27fd70f5e)
-* [Liste des prix et tarifs](#b9545ec0-6b9b-43bd-b0c1-0638ae8b03cc)
+* [Liste des prix et tarifs](#pricelist)
 * [Récapitulatifs contractuels](#b641eced-e7f0-4507-82d5-1e473faff927)
 * [Déclaration de protection des données](#da3fe5c2-d89a-4709-ab83-55af610cb824)
 * [Déclarations de protection des données spécifiques](#204fde48-057e-4ac8-ae70-a56290f6dfaf)
@@ -144,7 +144,7 @@ Conditions générales
 
 [Conditions générales applicables à tous les services](#)
 
-[Conditions générales pour consommateurs et petites entreprises(PDF, 237Kb)](https://www.proximus.be/dam/jcr:9891e8ea-2901-4979-b411-b991ef793734/cdn/sites/iportal/documents/pdfs/common/from20191101/Conditions-g-n-rales-pour-les-consommateurs-et-les-petites-entreprises---FR~2024-10-25-12-09-57~cache.pdf)
+[Conditions générales pour consommateurs et petites entreprises(PDF, 257Kb)](https://www.proximus.be/dam/jcr:9891e8ea-2901-4979-b411-b991ef793734/cdn/sites/iportal/documents/pdfs/common/from20191101/Conditions-g-n-rales-pour-les-consommateurs-et-les-petites-entreprises---FR~2024-10-25-12-09-57~cache.pdf)
 
 [Téléphonie fixe](#)
 
@@ -219,8 +219,9 @@ Conditions générales
 
 [Internet Fixe](#)
 
-* Contrats conclus à partir du 01/01/2024: [DSC Internet(PDF, 5.0Mb)](https://www.proximus.be/dam/jcr:9262d38d-0099-477f-b9da-84f31ebaa7d5/cdn/sites/iportal/documents/pdfs/common/PDFS-of-Terms-and-conditions/internet-20240101-csd-fr~2024-01-11-09-17-00~cache.pdf)
+* Contrats conclus à partir du 01/11/2024: [DSC Internet(PDF, 5.0Mb)](https://www.proximus.be/dam/jcr:9d55e58e-1fe8-4556-a713-d5d58e617d00/cdn/sites/iportal/documents/pdfs/common/PDFS-of-Terms-and-conditions/20241101-internet-csd-fr~2024-10-28-15-03-11~cache.pdf)
 * Versions précédentes applicables aux:
+    * Contrats conclus à partir du 01/01/2024 au 31/10/2024: [DSC Internet(PDF, 5.0Mb)](https://www.proximus.be/dam/jcr:9262d38d-0099-477f-b9da-84f31ebaa7d5/cdn/sites/iportal/documents/pdfs/common/PDFS-of-Terms-and-conditions/internet-20240101-csd-fr~2024-01-11-09-17-00~cache.pdf)
     * Contrats conclus à partir du 14/08/2023 au 31/12/2023: [DSC Internet(PDF, 5.0Mb)](https://www.proximus.be/dam/jcr:67ed5f5a-5d89-4808-823c-a2445afa23d2/cdn/sites/iportal/documents/pdfs/common/PDFS-of-Terms-and-conditions/20230814-internet-csd-fr~2023-12-20-08-29-45~cache.pdf)
     * Contrats conclus à partir du 10/01/2022 au 13/08/2023: [Conditions Générales pour Internet(PDF, 277Kb)](https://www.proximus.be/dam/jcr:df4397e3-bf0c-4738-8067-36976b7bf89c/cdn/sites/iportal/documents/pdfs/common/PDFS-of-Terms-and-conditions/GTC-_Internet_20220110_FR~2023-12-20-08-40-05~cache.pdf) et [DSC Internet(PDF, 673Kb)](https://www.proximus.be/dam/jcr:f59864f9-161c-469b-ac43-0462f425d4b8/cdn/sites/iportal/documents/pdfs/common/PDFS-of-Terms-and-conditions/Internet_CSD_20220110_FR~2023-01-02-06-38-21~cache.pdf)
     * Contrats conclus avant 10/01/2022: [Conditions Générales pour Internet(PDF, 313Kb)](https://www.proximus.be/dam/jcr:3dd67d34-470f-43c8-9aa6-53d4a1757a62/cdn/sites/iportal/documents/pdfs/common/gtc-internet-aup-ss-slg-fr.pdf0~2023-12-20-08-43-34~cache.pdf)
@@ -243,7 +244,7 @@ Conditions générales
     * Contrats pour Fixed Voice Infinity conclus à partir du 01/07/2020 au 03/01/2024: [DSC Fixed Voice Infinity(PDF, 857Kb)](https://www.proximus.be/dam/jcr:9403709b-4533-4f68-ac02-5aa58c2d8804/cdn/sites/iportal/documents/pdfs/common/PDFS-of-Terms-and-conditions/Fixed_Voice_Infinity_CSD_20220110_FR~2023-12-20-09-15-17~cache.pdf)
     * Contrats pour Business Trunking conclus à partir du 08/02/2023 au 14/01/2024: [DSC Business Trunking(PDF, 1.4Mb)](https://www.proximus.be/dam/jcr:830bf764-f679-4e05-b851-5e86041a596f/cdn/sites/iportal/documents/pdfs/common/PDFS-of-Terms-and-conditions/Business_Trunking_CSD_FR_20230208~2023-02-13-08-58-12~cache.pdf)
     * Contrats pour Business Trunking conclus à partir du 01/07/2020 au 07/02/2023: [DSC Business Trunking(PDF, 1349Kb)](https://www.proximus.be/dam/jcr:1cf6b191-1017-4737-a5c2-9c87b586048a/cdn/sites/iportal/documents/pdfs/common/PDFS-of-Terms-and-conditions/Business_Trunking_CSD_20220110_FR~2023-01-02-06-38-20~cache.pdf)
-    * Contrats pour PSTN/ISDN conclus avant 01/07/2020: [Conditions Générales pour ISDN/PSTN(PDF, 222Kb)](https://www.proximus.be/dam/jcr:5d24e576-4960-4c24-a12f-2d3f277214db/cdn/sites/iportal/documents/pdfs/common/GTC_TELEPHONIE_112012_FR~2021-08-16-15-05-14~cache.pdf)
+    * Contrats pour PSTN/ISDN conclus avant 01/07/2020: [Conditions Générales pour ISDN/PSTN(PDF, 222Kb)](https://www.proximus.be/dam/jcr:5d24e576-4960-4c24-a12f-2d3f277214db/cdn/sites/iportal/documents/pdfs/common/GTC_TELEPHONIE_112012_FR~2021-08-16-15-05-13~cache.pdf)
     * Contrats pour IP (VoIP) conclus à partir du 12/06/2017 au 01/07/2020: [Conditions Générales pour VoIP(PDF, 360Kb)](https://www.proximus.be/dam/jcr:bbc4a40f-de23-4979-b290-f75feddc31c0/cdn/sites/iportal/documents/pdfs/common/GTC_VoiP_apres_12_juin_2017_FR~2022-01-21-09-23-44~cache.pdf)
     * Contrats pour IP (VoIP) conclus avant 12/06/2017: [Conditions Générales pour VoIP(PDF, 243Kb)](https://www.proximus.be/dam/jcr:4ce3520e-7276-415a-9566-5befd242b29a/cdn/sites/iportal/documents/pdfs/common/GTC_FR_VoIP~2022-01-21-09-23-42~cache.pdf)
 * Conditions générales pour Numéros Marketing:
@@ -254,8 +255,10 @@ Conditions générales
 
 [Connectivité Mobile](#)
 
-* Contrats conclus à partir du 01/01/2024: [DSC Connectivité Mobile(PDF, 1.9Mb)](https://www.proximus.be/dam/jcr:0b0ac6ac-ee82-4148-9642-5d7c0553962f/cdn/sites/iportal/documents/pdfs/common/PDFS-of-Terms-and-conditions/20230101_Mobile-Connectivity_CSD_FR~2024-09-23-11-11-58~cache.pdf)
-* Contrats conclus avant 01/01/2024: [Conditions Générales de la Connectivité Mobile(PDF, 326Kb)](https://www.proximus.be/dam/jcr:dbbbe9dd-b74e-4c27-9db3-61c0fa142352/cdn/sites/iportal/documents/pdfs/common/PDFS-of-Terms-and-conditions/GTC_Mobile_20220110_FR~2023-12-21-12-22-53~cache.pdf)
+* Contrats conclus à partir du 01/11/2024: [DSC Connectivité Mobile(PDF, 2.0Mb)](https://www.proximus.be/dam/jcr:22a0a8d5-7783-4230-8b69-16dc8c27f0ca/cdn/sites/iportal/documents/pdfs/common/PDFS-of-Terms-and-conditions/20241101_Mobile-Connectivity_CSD_FR~2024-10-31-08-32-41~cache.pdf)
+* Versions précédentes applicables aux:
+    * Contrats conclus à partir du 01/01/2024 au 31/10/2024: [DSC Connectivité Mobile(PDF, 1.9Mb)](https://www.proximus.be/dam/jcr:0b0ac6ac-ee82-4148-9642-5d7c0553962f/cdn/sites/iportal/documents/pdfs/common/PDFS-of-Terms-and-conditions/20230101_Mobile-Connectivity_CSD_FR~2024-09-23-11-11-58~cache.pdf)
+    * Contrats conclus avant 01/01/2024: [Conditions Générales de la Connectivité Mobile(PDF, 326Kb)](https://www.proximus.be/dam/jcr:dbbbe9dd-b74e-4c27-9db3-61c0fa142352/cdn/sites/iportal/documents/pdfs/common/PDFS-of-Terms-and-conditions/GTC_Mobile_20220110_FR~2023-12-21-12-22-53~cache.pdf)
 * Documents supplémentaires:
     * [Internet Acceptable Use Policy(PDF, 328Kb)](https://www.proximus.be/dam/jcr:5d33f48d-4f6b-442f-9cab-835283bd8bac/cdn/sites/iportal/documents/pdfs/common/aup_v2_fr~2022-01-21-09-23-31~cache.pdf)
 
@@ -266,6 +269,25 @@ Conditions générales
 * Entretien des centraux téléphoniques (PABX)
     * [Contrats conclus à partir du 05/05/2023(PDF, 206Kb)](https://www.proximus.be/dam/jcr:a3b56d06-e663-48f3-9e74-5836ec94a26a/cdn/sites/iportal/documents/pdfs/common/20230505_pabx_maintenance_fr~2023-05-03-15-17-21~cache.pdf)
     * [Contrats conclus avant 04/05/2023(PDF, 235Kb)](https://www.proximus.be/dam/jcr:0a13c716-206e-40d0-8dc7-751de0afb8dd/cdn/sites/iportal/documents/pdfs/common/pabx_maintenance_fr~2022-01-21-09-23-51~cache.pdf)
+
+#### Proximus met à jour ses Conditions générales pour les consommateurs et petites entreprises dès le 1er janvier 2025
+
+Proximus modifiera l'article 13 des Conditions générales pour les consommateurs et petites entreprises, en excluant spécifiquement sa responsabilité extracontractuelle ainsi que celle de ses employés et administrateurs pour les dommages de toute nature.
+
+Voir plus Voir moins
+
+La clause suivante sera ajoutée dans un nouvel article 13.6 :
+
+"13.6. Dans la mesure où la loi l'autorise, la responsabilité extracontractuelle de Proximus ainsi que celle de ses administrateurs et employés en cas de dommage de toute nature est exclue. La responsabilité extracontractuelle de Proximus ainsi que celle de ses administrateurs et employés en cas de dommage de toute nature est exclue."
+
+Quant à l'ancien article 13.6, il sera remplacé par la clause suivante :
+
+~13.6. Aucune limitation de la responsabilité ne s’applique en cas de dommage corporel ou de décès imputable à Proximus ou dans tout autre cas non autorisé par la loi.~
+
+"13.7. Aucune disposition des présentes Conditions générales ne peut avoir pour effet :
+
+* d'exclure la responsabilité en cas de faute intentionnelle ou grave ;
+* de limiter ou d'exclure la responsabilité en cas de dommage corporel ou de décès, ou toute autre responsabilité ne pouvant être légalement exclue ou limitée."
 
 #### Mise à jour des Conditions Générales pour les Clients Professionnels et des Conditions d’Utilisation d’un accès Internet via le réseau Proximus à partir du 01/12.
 
@@ -636,7 +658,7 @@ Les prix des produits et services Proximus peuvent être consultés sur les page
 
 [Tarifs des communications](#)
 
-* [_​_Autres réseaux fixes nationaux(PDF, 99Kb)](https://www.proximus.be/dam/jcr:f9bba4cc-816d-45c1-b835-6caf3de02e39/cdn/sites/iportal/documents/pdfs/res/other_fixed_networks_fr~2022-03-21-13-22-44~cache.pdf)
+* [_​_Autres réseaux fixes nationaux(PDF, 99Kb)](https://www.proximus.be/dam/jcr:f9bba4cc-816d-45c1-b835-6caf3de02e39/cdn/sites/iportal/documents/pdfs/res/other_fixed_networks_fr~2022-03-21-13-22-43~cache.pdf)
 * [_​_Appels & SMS surtaxés(PDF, 60Kb)](https://www.proximus.be/dam/jcr:bb48b14f-c918-4f6a-afd6-e0002b653f34/cdn/sites/iportal/documents/pdfs/common/num-ros-payants-et-sms-payants~2023-07-27-08-03-45~cache.pdf)
 
 #### A. Privé
@@ -647,7 +669,7 @@ Les prix des produits et services Proximus peuvent être consultés sur les page
 **Appels nationaux (ligne fixe)**
 
 * [_​_Free Calls National(PDF, 62.5Kb)](https://www.proximus.be/dam/jcr:b04107d6-bf68-4b5b-9cd1-693b9084310b/cdn/sites/iportal/documents/pdfs/res/rates_-free_calls_national-_fr~2023-07-03-06-10-29~cache.pdf)
-* [_​_Unlimited Calls National(PDF, 108.4Kb)](https://www.proximus.be/dam/jcr:9f60e010-f8e0-4c09-8e3f-bb1d17145b43/cdn/sites/iportal/documents/pdfs/res/Pricelist_Unlimited_Calls_National_RES_FR.PDF~2022-02-21-12-08-13~cache.pdf)
+* [_​_Unlimited Calls National(PDF, 108.4Kb)](https://www.proximus.be/dam/jcr:9f60e010-f8e0-4c09-8e3f-bb1d17145b43/cdn/sites/iportal/documents/pdfs/res/Pricelist_Unlimited_Calls_National_RES_FR.PDF~2022-02-21-12-08-12~cache.pdf)
 
 **Appels internationaux (ligne fixe)**
 
@@ -693,7 +715,7 @@ Les prix des produits et services Proximus peuvent être consultés sur les page
 **Unlimited Calls (ligne fixe)**
 
 * [_​_Unlimited Calls National (Enterprise)(PDF, 101Kb)](https://www.proximus.be/dam/jcr:c865c35d-bdc6-46b3-9622-7fbcc6d91129/cdn/sites/iportal/documents/pdfs/res/Pricelist_Unlimited_Calls_National_FR.PDF~2022-02-21-12-07-45~cache.pdf)
-* [_​_Unlimited Calls National/International (Enterprise)(PDF, 290Kb)](https://www.proximus.be/dam/jcr:85021768-8a20-42d6-8bbd-cab41c68a7a7/cdn/sites/iportal/documents/pdfs/cor/Pricelist_Unlimited_Calls_National_International_Ent_FR~2021-12-22-16-04-17~cache.pdf)
+* [_​_Unlimited Calls National/International (Enterprise)(PDF, 290Kb)](https://www.proximus.be/dam/jcr:85021768-8a20-42d6-8bbd-cab41c68a7a7/cdn/sites/iportal/documents/pdfs/cor/Pricelist_Unlimited_Calls_National_International_Ent_FR~2021-12-22-16-04-18~cache.pdf)
 
 **Call Credit (ligne fixe)**
 
@@ -759,6 +781,38 @@ Pour plus d’informations, veuillez contacter votre account manager ou appeler 
 
 * [_​_Proximus Fuse(PDF, 47.5Kb)](https://www.proximus.be/dam/jcr:9f072859-f3c5-4e2a-9312-ad06dbd32bb7/cdn/sites/iportal/documents/pdfs/res/rates_fuse_fr~2021-02-01-09-17-44~cache.pdf)
 * [_​_Fuse Extended(PDF, 48.1Kb)](https://www.proximus.be/dam/jcr:56d7c32e-9bf1-4797-9c42-456f79ec1b10/cdn/sites/iportal/documents/pdfs/res/rates_fuse_extended_fr~2021-02-01-09-17-43~cache.pdf)
+
+Modifications tarifaires de certains produits au 01/01/2025
+-----------------------------------------------------------
+
+Comme annoncé sur votre facture de novembre, le prix de certains produits augmente avec effet au 01/01/2025. Les produits professionnels soumis à l'indexation des prix ont été annoncés via un message séparé joint à votre facture de novembre.
+
+Détails de ces adaptations:
+
+Voir plus Voir moins
+
+##### 1\. Abonnements
+
+* [(Business) Flex packs et Mobile en Business Flex packs(PDF, 58 KB)](https://www.proximus.be/dam/jcr:f28c9226-bde0-4b79-be95-7a1beba83e00/cdn/sites/iportal/documents/pdfs/common/price-announcement-01012025/temp_pack_Flex_fr.pdf)
+* [Beats packs (Belfius)(PDF, 51 KB)](https://www.proximus.be/dam/jcr:3b0245c2-3326-460f-aaf1-faa5cffbc0d6/cdn/sites/iportal/documents/pdfs/common/price-announcement-01012025/temp_pack_Belfius_fr.pdf)
+* [Epic Combo packs(PDF, 46 KB)](https://www.proximus.be/dam/jcr:b48713cb-ff9e-4dd2-ac4c-962a4632aa63/cdn/sites/iportal/documents/pdfs/common/price-announcement-01012025/temp_pack_Epic_fr.pdf)
+* [Autres packs (Particuliers et Business)(PDF, 70 KB)](https://www.proximus.be/dam/jcr:182ab9ed-aac8-4998-b4c9-5db4e7ff90b2/cdn/sites/iportal/documents/pdfs/common/price-announcement-01012025/temp_pack_fr.pdf)
+* [Enterprise Pack Together(PDF, 95 KB)](https://www.proximus.be/dam/jcr:93ddcc2d-cd23-4e1d-b586-18b89e662872/cdn/sites/iportal/documents/pdfs/common/price-announcement-01012025/temp_pack_together_fr.pdf)
+* [Enterprise Call & Surf packs(PDF, 97 KB)](https://www.proximus.be/dam/jcr:39d30653-6321-4ee1-9dde-04561e55348c/cdn/sites/iportal/documents/pdfs/common/price-announcement-01012025/temp_pack_call_surf_fr.pdf)
+* [Mobile & Réduction multi-mobile hors pack(PDF, 53 KB)](https://www.proximus.be/dam/jcr:60069179-42f1-4391-9413-8392cddb95f6/cdn/sites/iportal/documents/pdfs/common/price-announcement-01012025/temp_mobile_abo_fr.pdf)
+* [Téléphonie fixe hors pack(PDF, 97 KB)](https://www.proximus.be/dam/jcr:5872a928-66eb-4b4f-a3eb-a695f1bed5ea/cdn/sites/iportal/documents/pdfs/common/price-announcement-01012025/temp_fix_fr.pdf)
+* [Internet hors pack(PDF, 97 KB)](https://www.proximus.be/dam/jcr:416ed5b8-8997-4a1a-a818-43ef9c7379dd/cdn/sites/iportal/documents/pdfs/common/price-announcement-01012025/temp_internet_fr.pdf)
+* [Options(PDF, 46 KB)](https://www.proximus.be/dam/jcr:87a94af4-1e11-49d2-b895-78bed6205e53/cdn/sites/iportal/documents/pdfs/common/price-announcement-01012025/temp_options_fr.pdf)
+
+##### 2\. Prix des appels à partir de la ligne fixe
+
+* [Classic(PDF, 58 KB)](https://www.proximus.be/dam/jcr:a7dd0cd6-2055-4278-bec8-9736e4b3fd96/cdn/sites/iportal/documents/pdfs/common/price-announcement-01012025/temp_classic_fr.pdf)
+* [I-Office Classic(PDF, 161 KB)](https://www.proximus.be/dam/jcr:3db75798-a05a-4e4b-8df9-5f305d490773/cdn/sites/iportal/documents/pdfs/common/price-announcement-01012025/temp_ebu_ioffice_classic_fr.pdf)
+* [I-Office No Limit(PDF, 166 KB)](https://www.proximus.be/dam/jcr:dac0313c-4aad-4698-b495-927a19ecf3f9/cdn/sites/iportal/documents/pdfs/common/price-announcement-01012025/temp_ebu_ioffice_nolimit_fr.pdf)
+
+##### 3\. Utilisation mobile hors forfait
+
+* [Utilisation mobile hors forfait(PDF, 48 KB)](https://www.proximus.be/dam/jcr:5e71d226-8f3a-4530-82db-3b904a2cb58c/cdn/sites/iportal/documents/pdfs/common/price-announcement-01012025/temp_mobile_usage_fr.pdf)
 
 Récapitulatifs contractuels
 ---------------------------
