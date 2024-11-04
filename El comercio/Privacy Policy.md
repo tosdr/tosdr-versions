@@ -31,6 +31,570 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+(Video) Kamala Harrys aparece en programa cómico y desata la polémica
+=====================================================================
+
+Un regulador de la Comisión Federal de Comunicaciones (FCC, en inglés) de EE. UU. afirmó que la aparición sorpresa en video de la candidata demócrata, Kamala Harris, en el programa ‘Saturday Night Live‘ (SNL) este fin de semana violó las reglas del programa de “tiempo igualitario” entre todos los candidatos a la Casa Blanca. Más \[…\]
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![La candidata demócrata a la Presidencia de los Estados Unidos, la vicepresidenta de los Estados Unidos, Kamala Harris, habla durante un acto de campaña este domingo, en East Lansing, Michigan (EE.UU.).](https://www.elcomercio.com/wp-content/uploads/2024/11/a781b884132401b35e4cab68106667bde6418c9d.jpg)
+
+Un regulador de la Comisión Federal de Comunicaciones (FCC, en inglés) de EE. UU. afirmó que la aparición sorpresa en video de la candidata demócrata, **Kamala Harris**, en el programa ‘**Saturday Night Live**‘ (SNL) este fin de semana **violó las reglas del programa** de “tiempo igualitario” entre todos los candidatos a la Casa Blanca[.](https://es.wikipedia.org/wiki/Kamala_Harris "https://es.wikipedia.org/wiki/Kamala_Harris")
+
+### Más noticias
+
+* [Jennifer López invita a los latinos a votar por Kamala Harris](https://www.elcomercio.com/tendencias/musica/jennifer-lopez-kamala-harris-voto-latino.html "Jennifer López invita a los latinos a votar por Kamala Harris ")
+* [Estas son las 5 propuestas claves de Donald Trump y Kamala Harris](https://www.elcomercio.com/actualidad/mundo/son-5-propuestas-claves-donald-trump-kamala-harris.html "Estas son las 5 propuestas claves de Donald Trump y Kamala Harris")
+
+Kamala Harris y su aparición en un video
+----------------------------------------
+
+Brendan Carr, un comisionado de la FCC, dijo este lunes 4 de noviembre de 2024 en la red social X que la **aparición de Harris** en el programa “es un esfuerzo claro y descarado para evadir la regulación de tiempo igualitario de la FCC”.
+
+“El objetivo de la regulación es evitar exactamente este tipo de **conducta sesgada y partidista**: un programa autorizado que usa las ondas de radio públicas para ejercer su influencia a favor de un candidato en vísperas de una elección. A menos que el programa haya ofrecido **tiempo igualitario** a otras campañas calificadas”, agregó Carr, que fue designado por **Trump**.
+
+> Live from New York, it's Saturday night.[pic.twitter.com/qQ2IJdqqFA](https://t.co/qQ2IJdqqFA)
+> 
+> — Kamala Harris (@KamalaHarris) [November 3, 2024](https://twitter.com/KamalaHarris/status/1852921714516103218?ref_src=twsrc%5Etfw)
+
+Temporada 50 de SNL
+-------------------
+
+Lorne Michaels, el productor ejecutivo de SNL, que está celebrando su **temporada número 50 en NBC**, le dijo a The Hollywood Reporter en septiembre que ni Harris ni su contrincante republicano, Donald Trump, aparecerían en el programa.  
+  
+“No se puede traer a las personas reales que se postulan debido a las **leyes electorales** y las disposiciones de tiempo igualitario”, dijo Michaels al medio.  
+  
+“No se puede tener a los candidatos principales sin tener a **todos los candidatos**, y hay muchos candidatos menores que solo están en las papeletas en, digamos, tres estados y eso se vuelve realmente complicado”, añadió.
+
+La aparición de Kamala Harris en SNL
+------------------------------------
+
+El sábado, Harris apareció por sorpresa junto con su imitadora **Maya Rudolph** para pedir voto y hacer chistes sobre su rival.  
+  
+Harris hizo un cameo durante unos minutos en el programa de comedia que se emite en vivo desde Nueva York para pedir a los estadounidenses que le ayuden a “poner fin al **drámala**“, un juego de palabras que Rudolph ha popularizado durante la **campaña** haciendo imitaciones de la candidata demócrata.  
+  
+Como si ambas se enfrentaran en un espejo y **vestidas exactamente iguales**, Harris dijo a su ‘alter ego’: “no te preocupes, tú puedes hacer cosas que tu rival no puede hacer, como abrir puertas”.  
+  
+El chiste era en referencia a un video de esta semana en el que **Trump** tiene dificultades para subirse a un **camión de la basura** con el que quería mofarse del comentario del presidente Joe Biden, que llamó a sus seguidores “basura”.  
+  
+Algunos espectadores apuntaron que el ‘**sketch**‘ fue muy parecido a otro segmento cómico en el que Trump participó con el excomediante de SNL **Jimmy Fallon** en el Tonight Show de Fallon en 2015.
+
+Embajada en España tiene noticias del ecuatoriano desaparecido en Valencia
+==========================================================================
+
+La Embajada de Ecuador en España tiene información sobre el ecuatoriano desaparecido en Valencia por inundaciones
+-----------------------------------------------------------------------------------------------------------------
+
+![UTIEL (VALENCIA), 04/11/2024.-Miembros del Ejército de Tierra y bomberos Forestales limpian las calles tras el paso de la dana, este lunes en Utiel (Valencia), donde continúan las labores de limpieza.](https://www.elcomercio.com/wp-content/uploads/2024/11/c54ac446d77e02dbfb886436f478853611b48331.jpg)
+
+  
+La Embajada del **Ecuador** en España anunció el fallecimiento de Leonardo Robespiel Zambrano Carranza, un **compatriota ecuatoriano desaparecido en Valencia**, y expresó su solidaridad a sus familiares. El Consulado en Valencia ha gestionado donaciones y ayuda para los afectados[.](https://es.wikipedia.org/wiki/Gota_fr%C3%ADa_de_2024_en_Espa%C3%B1a "https://es.wikipedia.org/wiki/Gota_fr%C3%ADa_de_2024_en_Espa%C3%B1a")
+
+Más noticias
+------------
+
+* [Ecuatoriano está desaparecido tras emergencia por lluvias en Valencia](https://www.elcomercio.com/actualidad/mundo/dana-deja-victimas-mortales-ecuatorianos.html "Ecuatoriano está desaparecido tras emergencia por lluvias en Valencia")
+* [Más fallecidos se contabilizan en Valencia y llegan más policías y militares](https://www.elcomercio.com/actualidad/mundo/fallecidos-reportan-valencia-policias-y-militares.html "Más fallecidos se contabilizan en Valencia y llegan más policías y militares")
+
+El destino del ecuatoriano desaparecido en Valencia
+---------------------------------------------------
+
+La Embajada del Ecuador en España dio a conocer este 4 de noviembre del 2024 el **fallecimiento** de Leonardo Robespiel Zambrano Carranza, ciudadano ecuatoriano en Valencia.
+
+En un comunicado, la Embajada expresó su solidaridad con la **familia** y su compromiso de apoyo, especialmente a quienes se han visto afectados por recientes situaciones difíciles en España. Además, el Consulado de Ecuador en Valencia, junto con la Embajada, ha venido **trabajando** para ofrecer **asistencia** a los ciudadanos ecuatorianos, incluyendo apoyo psicológico y material para los más vulnerables.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DB9BPZ4iCnv/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Embajada del Ecuador en España (@embajadaecuesp)](https://www.instagram.com/p/DB9BPZ4iCnv/?utm_source=ig_embed&utm_campaign=loading)
+
+Donaciones para los damnificados
+--------------------------------
+
+Desde el inicio de la crisis, el Consulado de Valencia y la **comunidad** ecuatoriana han gestionado donaciones para los damnificados. Organizaciones como el **Club de Leones de Valencia**, la comunidad ecuatoriana en España y varios organismos estatales han brindado apoyo constante.
+
+La embajadora de Ecuador en España, Wilma Andrade, informó que el **Comité de Crisis** ha sistematizado la información de los compatriotas afectados y asegura que el trabajo de apoyo continuará. Estas acciones incluyen el despliegue de recursos para la entrega de **donaciones** y el acompañamiento a las familias en medio de la tragedia.
+
+Más informaciones de ecuatorianos desaparecidos
+-----------------------------------------------
+
+La Embajada, a través de este comunicado, solicitó a quienes tengan **información** sobre **compatriotas** desaparecidos que contacten a los consulados ecuatorianos en Valencia, Andalucía y Castilla La Mancha, ya que la ayuda sigue en marcha.
+
+Los consulados locales de Ecuador están disponibles a través de **correos electrónicos específicos**, lo que facilita el contacto directo con los familiares de las personas afectadas en las diferentes regiones de España. Las gestiones de apoyo se mantendrán hasta que todos los casos sean atendidos y se logre brindar el respaldo adecuado a cada uno de los ciudadanos ecuatorianos.
+
+**Embajadora del Ecuador en España**
+------------------------------------
+
+Contactos para ciudadanos en Valencia: cecuvalencia@cancilleria.gob.ec  
+Contactos para ciudadanos en Andalucía: cecumalaga@cancilleria.gob.ec  
+Contactos para ciudadanos en Castilla La Mancha: cecumadrid@cancilleria.gob.ec
+
+El pasado viernes, la Cancillería ecuatoriana informó de que habían sido encontrados con vida doce compatriotas y destacado la coordinación mantenida con las autoridades españolas.
+
+Considerada como la peor dana o gota fría del siglo en España, el fenómeno ha causado la muerte de más de 210 personas y destrucción, especialmente en la Comunidad Valenciana, la más afectada, así como en Castilla La Mancha y Andalucía, según fuentes gubernamentales. 
+
+Policía libera a mujer víctima de secuestro en Guayas
+=====================================================
+
+Una mujer fue víctima de secuestro. La Policía la encontró en Guayas.
+---------------------------------------------------------------------
+
+![Imagen referencial de secuestro.](https://www.elcomercio.com/wp-content/uploads/2024/11/secuestro.jpg)
+
+Una mujer fue víctima de la delincuencia en **Guayas**. La Policía desarrolló labores de inteligencia para dar con el paradero[.](https://es.wikipedia.org/wiki/Provincia_del_Guayas)
+
+La institución del **orden** informó sobre los resultados, este lunes, 4 de noviembre de 2024.
+
+### Más noticias
+
+* [El uso legítimo de la fuerza policial se intensificó este 2024 en Ecuador](https://www.elcomercio.com/actualidad/seguridad/uso-legitimo-fuerza-policia-intensifico-2024-ecuador.html "El uso legítimo de la fuerza policial se intensificó este 2024 en Ecuador")
+* [Más fallecidos se contabilizan en Valencia y llegan más policías y militares](https://www.elcomercio.com/actualidad/mundo/fallecidos-reportan-valencia-policias-y-militares.html "Más fallecidos se contabilizan en Valencia y llegan más policías y militares")
+* [En el feriado de Difuntos habrá operativos con 52 786 policías](https://www.elcomercio.com/actualidad/seguridad/feriado-difuntos-habra-operativos-52-786-policias.html "En el feriado de Difuntos habrá operativos con 52 786 policías")
+
+> [#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw) | VÍCTIMA LIBERADA  
+>   
+> Esta madrugada fue liberada Norma O., en el sector de Balzar, [#Guayas](https://twitter.com/hashtag/Guayas?src=hash&ref_src=twsrc%5Etfw), misma que habría sido secuestrada el pasado 1 de noviembre del 2024, en una hacienda ubicada en la vía a [#Colimes](https://twitter.com/hashtag/Colimes?src=hash&ref_src=twsrc%5Etfw) [#Guayas](https://twitter.com/hashtag/Guayas?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> Durante las labores investigativas y operativas se… [pic.twitter.com/YM4EmrrA9L](https://t.co/YM4EmrrA9L)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [November 4, 2024](https://twitter.com/PoliciaEcuador/status/1853463124315193426?ref_src=twsrc%5Etfw)
+
+Rescate de víctima de secuestro en Guayas
+-----------------------------------------
+
+La **[Policía](https://www.policia.gob.ec/)** detalló que la madrugada de este último día de **feriado de Difuntos e Independencia de Cuenca**, los efectivos liberaron a Norma O. La mujer se encontraba en el sector de Balzar.
+
+El secuestro se dio el 1 de noviembre de 2024. Ella estaba en una hacienda ubicada en la vía a **Colimes**, Guayas.
+
+Durante las labores investigativas y operativas se realizaron varios allanamientos en la vía **Mocache- Palenque**, donde se encontraron dos armas de fuego.
+
+No obstante, la institución del orden indicó que las **investigaciones** continúan para ubicar a los responsables del hecho delictivo.
+
+Otros resultados durante el feriado
+-----------------------------------
+
+El domingo, 3 de noviembre, en **Santo Domingo de los Tsáchilas**, un servidor policial fue víctima de un intento de secuestro.
+
+Los protagonistas fueron individuos armados. El efectivo, según la **Policía**, en defensa propia, **abatió** a dos antisociales.
+
+Un adolescente resultó herido por otro de los presuntos implicados. Los **antisociales** estaban en un vehículo Kia Sportage gris.
+
+El hecho se dio en la **Urbanización Chiguilpe**, sector del parque Jelen Tenka. Unidades policiales se encontraban realizando patrullaje preventivo, cuando fueron alertados por radio la solicitud de auxilio.
+
+Los fallecidos
+--------------
+
+La Policía indicó que luego del hecho, durante un operativo de búsqueda en la zona, aproximadamente a dos cuadras del sitio del incidente, se encontró a un **hombre sin signos vitales**.
+
+Del mismo modo, los uniformados verificaron que en una casa de salud se encontraba otro abatido y un **adolescente** herido quienes estarían vinculados al hecho delictivo.
+
+Técnico Universitario y Universidad Católica cierran la fecha 12 de la LigaPro
+==============================================================================
+
+Técnico Universitario y Universidad Católica cierran la fecha 12 de la LigaPro hoy a las 15:00 en el estadio Bellavista de Ambato.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Universidad Católica visitará a Técnico Universitario por la fecha 12 de la LigaPro.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2.jpg)
+
+La **fecha 12 de la segunda fase de la LigaPro 2024** culmina hoy con el partido entre **Técnico Universitario y Universidad Católica**. Este encuentro, programado para las **15:00 en el estadio Bellavista de Ambato**, representa una oportunidad para que ambos equipos busquen mejorar su posición en la tabla y cerrar la jornada con un buen resultado.
+
+### Más noticias
+
+* [¿Cuándo juegan Liga de Quito e Independiente del Valle?](https://www.elcomercio.com/deportes/cuando-juegan-liga-de-quito-independiente-del-valle.html "¿Cuándo juegan Liga de Quito e Independiente del Valle?")
+* [Así está la tabla de posiciones de la LigaPro](https://www.elcomercio.com/deportes/asi-esta-la-tabla-de-posiciones-de-la-ligapro.html "Así está la tabla de posiciones de la LigaPro")
+* [Universidad Católica desperdicia la chance de incomodar a los líderes de Liga Pro](https://www.elcomercio.com/deportes/universidad-catolica-liga-pro-cumbaya.html "Universidad Católica desperdicia la chance de incomodar a los líderes de Liga Pro")
+
+**Técnico Universitario** llega a este compromiso en la parte media de la tabla de la segunda fase, con la necesidad de sumar puntos para **consolidarse en la clasificación** y mejorar su ubicación en la tabla acumulada.
+
+Por otro lado, **Universidad Católica** se encuentra en una posición competitiva en ambas tablas y buscará aprovechar este enfrentamiento para acercarse a los **primeros lugares de la segunda fase**, donde los puntos son vitales para asegurar un cupo en **competiciones internacionales**.
+
+> 🔝| Lunes a puro fútbol ⚽  
+>   
+> Fecha 1️⃣2️⃣ de la [#LigaProEcuabet](https://twitter.com/hashtag/LigaProEcuabet?src=hash&ref_src=twsrc%5Etfw) 🆚 [@TecnicoUOficial](https://twitter.com/TecnicoUOficial?ref_src=twsrc%5Etfw)  
+>   
+> 📍 Ambato  
+> ⏰ 15h00  
+> 🏟 Estadio Bellavista  
+>   
+> ¡Vamos Cammaratas! 🔵⚪[#FamiliaCammarata](https://twitter.com/hashtag/FamiliaCammarata?src=hash&ref_src=twsrc%5Etfw)[#PorLaPrimera](https://twitter.com/hashtag/PorLaPrimera?src=hash&ref_src=twsrc%5Etfw)[#TodosPorCatólica](https://twitter.com/hashtag/TodosPorCat%C3%B3lica?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/7NUu9CeGA0](https://t.co/7NUu9CeGA0)
+> 
+> — UNIVERSIDAD CATÓLICA OFICIAL (@UCatolicaEC) [November 4, 2024](https://twitter.com/UCatolicaEC/status/1853439990916591749?ref_src=twsrc%5Etfw)
+
+Importancia de los puntos en la segunda fase
+--------------------------------------------
+
+**Universidad Católica** acumula una cantidad importante de puntos en esta segunda fase y ocupa una **posición favorable en la clasificación**. Un triunfo hoy le permitiría avanzar y acercarse a los primeros puestos, en una fase caracterizada por la **competencia cerrada**.
+
+Con una diferencia de goles positiva, el equipo visitante **buscará aprovechar este partido para reforzar sus aspiraciones** de mantenerse entre los principales contendientes.
+
+Por su parte, **Técnico Universitario**, en una posición más modesta, considera este partido como una oportunidad para alejarse de la zona baja y sumar puntos valiosos en la tabla acumulada.
+
+Cada punto cuenta, especialmente en esta etapa final de la segunda fase, y el **equipo local intentará aprovechar su condición de anfitrión** en el estadio Bellavista para obtener un resultado favorable.
+
+Repercusiones en la tabla acumulada
+-----------------------------------
+
+Más allá de la segunda fase, el encuentro entre **Técnico Universitario y Universidad Católica** también influye en la tabla acumulada de la LigaPro 2024.
+
+> [#ConvocadosRodillo](https://twitter.com/hashtag/ConvocadosRodillo?src=hash&ref_src=twsrc%5Etfw)  
+>   
+> 𝙇𝙚𝙨 𝙥𝙧𝙚𝙨𝙚𝙣𝙩𝙖𝙢𝙤𝙨 𝙖 𝙡𝙤𝙨 [#𝘼𝙡𝙗𝙞𝙧𝙧𝙤𝙟𝙤𝙨](https://twitter.com/hashtag/%F0%9D%98%BC%F0%9D%99%A1%F0%9D%99%97%F0%9D%99%9E%F0%9D%99%A7%F0%9D%99%A7%F0%9D%99%A4%F0%9D%99%9F%F0%9D%99%A4%F0%9D%99%A8?src=hash&ref_src=twsrc%5Etfw) 𝙥𝙖𝙧𝙖 𝙡𝙖 𝙛𝙚𝙘𝙝𝙖 1️⃣2️⃣ 🇦🇹[#TécnicoPresente](https://twitter.com/hashtag/T%C3%A9cnicoPresente?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/KBxNYhMZeF](https://t.co/KBxNYhMZeF)
+> 
+> — TécnicoUniversitario (@TecnicoUOficial) [November 4, 2024](https://twitter.com/TecnicoUOficial/status/1853473517934727451?ref_src=twsrc%5Etfw)
+
+Universidad Católica se ubica en los **primeros puestos de la acumulada**, mientras que Técnico Universitario se encuentra en la mitad de la tabla. Un resultado positivo podría significar un avance importante para **ambos equipos**, ya sea en la búsqueda de **clasificaciones internacionales** o en la intención de alejarse de los compromisos en la parte baja de la clasificación general.
+
+Con este partido, la **fecha 12 de la segunda fase** llega a su fin, y ambos equipos buscarán **cerrar la jornada con un resultado positivo**.
+
+¿Cuándo juegan Liga de Quito e Independiente del Valle?
+=======================================================
+
+Este partido impacta no solo la clasificación de la segunda fase, sino también la tabla general, que definirá los cupos a torneos internacionales.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Independiente del Valle se enfrentó a Liga de Quito el pasado 18 de mayo.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-1.jpg)
+
+La **LigaPro 2024** entra en su etapa más decisiva, y el duelo entre **Liga de Quito e Independiente del Valle** surge como uno de los encuentros **más relevantes de la temporada**. Ambos equipos muestran un desempeño destacado tanto en la primera fase como en la segunda, ubicándose entre los **líderes de la tabla acumulada**.
+
+### Más noticias
+
+* [Así está la tabla de posiciones de la LigaPro](https://www.elcomercio.com/deportes/asi-esta-la-tabla-de-posiciones-de-la-ligapro.html "Así está la tabla de posiciones de la LigaPro")
+* [Liga de Quito venció a Emelec y presiona en la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-vencio-a-emelec-y-presiona-en-la-liga-pro.html "Liga de Quito venció a Emelec y presiona en la Liga Pro")
+* [Kendry Páez anotó en la victoria de Independiente del Valle](https://www.elcomercio.com/deportes/futbol/kendry-paez-anoto-en-la-victoria-de-independiente-del-valle.html "Kendry Páez anotó en la victoria de Independiente del Valle")
+
+Este partido impacta no solo la clasificación de la **segunda fase**, sino también la tabla general, que definirá los cupos a **torneos internacionales** y la posición final de cada equipo en el campeonato ecuatoriano.
+
+**Independiente del Valle** ocupa el primer lugar en la tabla acumulada con **61 puntos en 27 partidos**, mientras que **Liga de Quito** se ubica en el segundo puesto con **56 puntos**.
+
+La diferencia entre ambos equipos es de cinco puntos, lo cual convierte este enfrentamiento en una oportunidad **clave para que Liga de Quito** reduzca esa distancia o para que **Independiente del Valle** aumente su ventaja. Durante el torneo, ambos conjuntos consolidaron sus posiciones en los primeros lugares, destacando como **protagonistas de esta edición de la LigaPro**.
+
+Duelo directo por la cima de la segunda fase
+--------------------------------------------
+
+En la **segunda fase de la LigaPro**, la competencia sigue igual de apretada. **Independiente del Valle** lidera con 26 puntos y una diferencia de goles de +13, seguido de cerca por **Liga de Quito**, con la misma cantidad de puntos pero con una diferencia de goles de +11.
+
+> 🎙️ Rueda de prensa post [#EmelecLIGA](https://twitter.com/hashtag/EmelecLIGA?src=hash&ref_src=twsrc%5Etfw) | 🗣️ DT. Pablo “Vitamina” Sánchez: “Hicimos un buen primer tiempo, pero nos costó el gol. Sabíamos que si no llegaba el segundo gol el partido iba a ir por donde fue, había que jugar algo a lo que no estamos acostumbrados, a defender y cuidar… [pic.twitter.com/IbA656H1a8](https://t.co/IbA656H1a8)
+> 
+> — LDU Oficial (@LDU\_Oficial) [November 3, 2024](https://twitter.com/LDU_Oficial/status/1853216860013027830?ref_src=twsrc%5Etfw)
+
+Esta **ajustada diferencia** convierte al próximo partido entre ambos equipos en un enfrentamiento importante para determinar quién tomará la **delantera en esta fase**.
+
+El partido está programado para el **sábado 9 de noviembre a las 15:30 en el Estadio Rodrigo Paz Delgado**, correspondiente a la **fecha 13 de la segunda fase**.
+
+Esta jornada representa una oportunidad para que ambos equipos demuestren su superioridad en el torneo. Una victoria para cualquiera de los dos significará un **paso importante en la lucha por el liderato de esta etapa**, consolidando su posición frente a otros equipos que buscan asegurar su participación en competencias internacionales.
+
+Implicaciones en la tabla acumulada
+-----------------------------------
+
+Más allá de la segunda fase, este encuentro afecta de forma directa la **tabla acumulada de la LigaPro 2024**. Esta clasificación general resulta fundamental, pues determina los cupos a torneos internacionales y la posición final de cada equipo.
+
+**Independiente del Valle**, con sus 61 puntos, busca mantener la ventaja sobre Liga de Quito y asegurar el liderato en la acumulada. Por su parte, **Liga de Quito, con 56 puntos**, intentará reducir esa brecha para acercarse a la cima.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DB7vn0oMhNm/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por LigaPro (@ligaproec)](https://www.instagram.com/reel/DB7vn0oMhNm/?utm_source=ig_embed&utm_campaign=loading)
+
+El resultado de este partido podría redefinir el **panorama del campeonato y la lucha por los primeros lugares**. Este enfrentamiento entre Liga de Quito e Independiente del Valle, dos equipos que destacan a lo largo de la temporada, se perfila como uno de los **encuentros más esperados y decisivos de la fase actual del torneo**.
+
+El cuerpo de Liam Payne será embalsamado antes del traslado a Londres
+=====================================================================
+
+Un paso adicional se realiza para el traslado del cuerpo del músico británico Liam Payne, exmiembro de la agrupación One Direction. El cadáver del músico fue trasladado a un sitio en Buenos Aires para ser embalsamado. Luego, el cuerpo será trasladado a Londres, donde está previsto desarrollar el funeral. Más noticias Cuerpo de Liam Payne es \[…\]
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Liam Pyne falleció en Argentina.](https://www.elcomercio.com/wp-content/uploads/2024/11/lyan.jpg)
+
+Un paso adicional se realiza para el traslado del cuerpo del músico británico **Liam Payne**, exmiembro de la agrupación **One Direction**[.](https://es.wikipedia.org/wiki/Liam_Payne)[](https://es.wikipedia.org/wiki/Liam_Payne)
+
+El cadáver del músico fue trasladado a un sitio en **Buenos Aires** para ser embalsamado. Luego, el cuerpo será trasladado a **Londres**, donde está previsto desarrollar el funeral.
+
+### Más noticias
+
+* [¿Qué pasó con el perro de Liam Payne?](https://www.elcomercio.com/tendencias/trending/paso-perro-liam-payne.html "¿Qué pasó con el perro de Liam Payne?")
+* [Policía allanó hotel donde se hospedó Liam Payne](https://www.elcomercio.com/tendencias/entretenimiento/policia-allano-hotel-liam-payne.html "Policía allanó hotel donde se hospedó Liam Payne")
+* [La novia de Liam Payne reapareció en redes sociales con una conmovedora revelación](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-novia-redes-sociales.html "La novia de Liam Payne reapareció en redes sociales con una conmovedora revelación")
+* [Autopsia de Liam Payne reveló inquietantes detalles de su muerte](https://www.elcomercio.com/tendencias/entretenimiento/autopsia-liam-payne-detalles-muertes.html "Autopsia de Liam Payne reveló inquietantes detalles de su muerte")
+
+Cuerpo de Liam Payne es embalsamado
+-----------------------------------
+
+De acuerdo con versiones difundidas en medios internacionales, el proceso en el cuerpo de **Liam Payne** se realizaría en el **[Cementerio Británico](https://www.cementeriobritanico.org.ar/)**. Este es el camposanto más grande de **Buenos Aires**.
+
+El proceso de embalsamamiento podría durar unas 48 horas. El padre de Liam, **Geoff Payne**, se encuentra en Argentina a la espera de trasladar a su **hijo**. El músico falleció en ese país.
+
+Según el diario argentino La Nación, a través de fuentes judiciales, **Geoff Payne** logró repatriar el cuerpo de su hijo después de **dos semanas de trámites.**
+
+Detalles de la muerte
+---------------------
+
+El músico falleció a los 31 años, el miércoles 16 de octubre de 2024, tras caer del balcón de su habitación en el hotel Casa Sur Palermo en **Buenos Aires**.
+
+No obstante, antes de la caída, el personal del hotel realizó una llamada al 911 preocupados. Esto debido a que estaban preocupados por el supuesto comportamiento agresivo de **Payne**.
+
+La autopsia confirmó que Payne sufrió traumas múltiples y hemorragias internas y externas. Sin embargo, las lesiones en la cabeza fueron las más graves y las que provocaron su muerte. 
+
+El cuerpo presentó **25 lesiones** como consecuencia de la caída desde unos 14 metros. El organismo de Payne tenía una mezcla de drogas.
+
+¿Cuándo juega la Selección de Ecuador contra Bolivia?
+=====================================================
+
+La Selección de Ecuador jugará en Guayaquil ante Bolivia en las eliminatorias al Mundial 2026.
+----------------------------------------------------------------------------------------------
+
+![Félix Torres (i) con la Selección de Ecuador en las eliminatorias al Mundial 2022 en Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/10/a_1.jpg)
+
+La **Selección de Ecuador y la de Bolivia** empiezan la cuenta regresiva para poner en escena el juego de la fecha 11 de las eliminatorias sudamericanas al Mundial 2026.
+
+Este encuentro para ambas escuadras es fundamental. La **Selección de Ecuador ocupa el quinto lugar en la tabla con 13 puntos** y un gol diferencia positivo de +2. La campaña se sostiene en cuatro victorias, cuatro empates y dos derrotas.
+
+### Más noticias:
+
+* [Independiente, Liga, Orense y sus opciones para ganar la etapa](https://www.elcomercio.com/deportes/futbol/independiente-liga-orense-candidatos-ligapro.html "Independiente, Liga, Orense y sus opciones para ganar la etapa")
+* [Brighton y Pervis Estupiñán eliminados de la Carabao Cup](https://www.elcomercio.com/deportes/futbol/brighton-pervis-estupinan-carabao-cup.html "Brighton y Pervis Estupiñán eliminados de la Carabao Cup")
+* [Moisés Caicedo y el Chelsea se despidieron de la Carabao Cup](https://www.elcomercio.com/deportes/futbol/moises-caicedo-y-el-chelsea-se-despidieron-de-la-carabao-cup.html "Moisés Caicedo y el Chelsea se despidieron de la Carabao Cup")
+
+**Bolivia es séptima con 12 puntos** y un gol diferencia negativo de -10, que la confirman como la máxima sorpresa en las 10 fechas agotadas, y con opciones ciertas de pelear por uno de los cupos del Mundial 2026.
+
+El despertar de la ‘Verde’ se dio desde las séptima fecha cuando decidieron **‘abandonar’ la ciudad de La Paz y se trasladaron a El Alto**, ubicada a 4 150 metros sobre el nivel del mar, 600 metros más alta que su tradicional casa.
+
+En El Alto le ganaron a Venezuela (4-0) y Colombia (1-0). Sorprendieron a **propios y extraños al vencer a Chile en Santiago por 1-2**. Argentina los volvió a la realidad y les ganó 6-0 en el Monumental de Buenos Aires con un triplete de Lionel Messi.
+
+Pese a esa derrota, la expectativa en Bolivia está instalada con su Selección para alcanzar su segunda clasificación a un Mundial, **luego de haber dicho presente en Estados Unidos 1994**, con una generación de jugadores liderada por Marco Antonio Etcheverry.
+
+Su clasificación se concretó en el **Monumental de Guayaquil el 19 de septiembre de 1993**. El empate 1-1 les sirvió a los bolivianos el boleto para su primera Copa del Mundo, mientras que la Tri se quedó en el camino y sumaba, una vez más, un fracaso futbolístico.
+
+La última vez de Bolivia en Guayaquil
+-------------------------------------
+
+El jueves 7 de octubre de 2021, Bolivia visitó el Monumental por las eliminatorias al Mundial Catar 2022.
+
+Esa noche la Tri, al mando del argentino Gustavo Alfaro, ganó 3-0 con tantos de Michael Estrada y un doblete de Enner Valencia, que se consolidaba como el **máximo goleador histórico de Ecuador** de todos los tiempos.
+
+Al final de las eliminatorias**, Ecuador se clasificó para Catar 2022, y Bolivia se quedó en el camino**, tal como ha sucedido desde Francia 1998, donde se han quedado en los últimos puestos de la tabla de posiciones y rápidamente sin opciones de pelear por un cupo.
+
+Esa noche la formación tricolor fue con Moisés Ramírez en el arco; la línea defensiva estuvo conformada por Pervis Estupiñán, Piero Hincapié**, Félix Torres y Byron Castillo**; en la mitad de la cancha estuvieron Gonzalo Plata, Moisés Caicedo, Carlos Gruezo y Ángel Mena.
+
+La zona de ataque estuvo conformada por **Michael Estada y Enner Valencia**, los goleadores de ese juego.
+
+En el 2024, la cita será el jueves 14 de noviembre en el estadio Monumental. El compromiso arrancará a las 19:00.
+
+San viernes – El especial Halloween
+-----------------------------------
+
+Vuelo que cubría la ruta Bogotá-Madrid es tendencia en redes
+============================================================
+
+Avión tuvo que aterrizar con anticipación debido a una emergencia.
+------------------------------------------------------------------
+
+![Un avión que cubría la ruta Bogotá-Madrid tuvo complicaciones. (Foto referencial)](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-25.jpg)
+
+Un vuelo que c**ubría la ruta entre Bogotá y Madrid** atravesó una emergencia que obligó al piloto a aterrizar con anticipación[.](https://es.wikipedia.org/wiki/Bogot%C3%A1)
+
+En la aerolínea se movilizaban **250 pasajeros** y nueve integrantes de la tripulación. El hecho ocurrió el 31 de octubre de 2024.
+
+### Más noticias
+
+* [Huracán Milton afecta a los vuelos, aeropuerto de Quito está a la espera](https://www.elcomercio.com/actualidad/quito/operaciones-aeropuerto-quito-normales-huracan-milton.html "Huracán Milton afecta a los vuelos, aeropuerto de Quito está a la espera")
+* [Cancillería se pronuncia sobre ecuatorianos en España ante las inundaciones](https://www.elcomercio.com/actualidad/ecuador/cancilleria-se-pronuncia-ecuatorianos-espana-fuertes-lluvias.html "Cancillería se pronuncia sobre ecuatorianos en España ante las inundaciones")
+* [Huracán Milton afecta a los vuelos, aeropuerto de Quito está a la espera](https://www.elcomercio.com/actualidad/quito/operaciones-aeropuerto-quito-normales-huracan-milton.html "Huracán Milton afecta a los vuelos, aeropuerto de Quito está a la espera")
+
+Vuelo Bogotá-Madrid enfrentó emergencia
+---------------------------------------
+
+El aterrizaje anticipado se dio debido a una dificultad técnica que el avión sufrió durante el recorrido entre ambas ciudades.
+
+Según reportó El País, **el avión presentó una despresurización en la cabina**. Esto se refiere a la pérdida de presión de aire. La aeronave se encontraba en el **océano Atlántico** cuando las alarmas se encendieron.
+
+Nuevo vuelo para los pasajeros
+------------------------------
+
+El vuelo pudo desviarse hacia el aeropuerto de Ponta Delgada, en las Azores, **Portugal**. Ya en el lugar, los pasajeros recibieron asistencia y, además, el avión fue inspeccionado.
+
+El aterrizaje se dio tras la coordinación entre el capitán y el personal de la torre de control, con los protocolos de seguridad correspondientes.
+
+Los ocupantes ocuparon otro vuelo con destino al aeropuerto **Adolfo Suárez de Madrid-Barajas**, el 1 de noviembre de 2024.
+
+El hecho es tendencia en redes
+------------------------------
+
+Las noticias sobre **vuelos con desperfectos técnicos** capturan la atención en redes sociales debido a su alto impacto emocional y la percepción de riesgo que generan.
+
+Los incidentes aéreos evocan **temor y ansiedad**, pues el público asocia la aviación con potenciales peligros catastróficos. En segundos, testigos y pasajeros pueden compartir **imágenes** y **videos** del incidente, intensificando la difusión y el interés general.
+
+Además, la conectividad digital permite que estos eventos se **viralicen rápidamente**, impulsados por el interés en temas de seguridad y experiencias personales intensas. El papel de las redes en amplificar las novedades de estas situaciones contribuye a su rápida propagación y a que el público siga de cerca cada detalle. Esto es lo que sucedió con el vuelo Bogotá-Madrid.
+
+Así está la tabla de posiciones de la LigaPro
+=============================================
+
+La clasificación es clave, ya que determina los cupos a torneos internacionales y los equipos que descenderán a la Serie B.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Partido entre Independiente del Valle y El Nacional por una fecha de la LigaPro.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo.jpg)
+
+La tabla de posiciones de la **LigaPro 2024** muestra los resultados acumulados de los equipos en el **campeonato ecuatoriano de fútbol**, tanto en la primera como en la **segunda fase**.
+
+### Más noticias
+
+* [Liga de Quito venció a Emelec y presiona en la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-vencio-a-emelec-y-presiona-en-la-liga-pro.html "Liga de Quito venció a Emelec y presiona en la Liga Pro")
+* [Un golpeado Emelec recibe al favorito Liga de Quito](https://www.elcomercio.com/deportes/futbol/un-golpeado-emelec-recibe-al-favorito-liga-de-quito.html "Un golpeado Emelec recibe al favorito Liga de Quito")
+* [Kendry Páez anotó en la victoria de Independiente del Valle](https://www.elcomercio.com/deportes/futbol/kendry-paez-anoto-en-la-victoria-de-independiente-del-valle.html "Kendry Páez anotó en la victoria de Independiente del Valle")
+
+La clasificación es clave, ya que determina los **cupos a torneos internacionales** y los equipos que descenderán a la **Serie B**. Los únicos equipos que tienen un partido pendiente son T**écnico Universitario y Universidad Católica** que se enfrentarán este 4 de noviembre a las 15:00.
+
+Tabla de posiciones de la segunda fase de la LigaPro
+----------------------------------------------------
+
+La segunda fase de la LigaPro 2024 tiene una competencia cerrada en los primeros lugares. **Independiente del Valle** lidera esta fase con 26 puntos, obtenidos en 12 partidos jugados y con una diferencia de goles de 13, gracias a sus 25 goles a favor y 12 en contra.
+
+**Liga de Quito** le sigue en el segundo puesto también con 26 puntos, pero con una diferencia de goles de 11, resultado de 22 goles anotados y 11 recibidos.
+
+En el tercer lugar se encuentra **Orense SC**, que ha sumado 23 puntos y mantiene una diferencia de goles de 4. Mushuc Runa ocupa la cuarta posición con 21 puntos y una diferencia de +5, mientras que Universidad Católica, con un partido menos, suma 20 puntos y tiene una diferencia de +6.
+
+Más abajo, **Barcelona SC** está en el **sexto puesto** con 20 puntos y una diferencia de +2. **Libertad y Delfín** se encuentran en el **séptimo y octavo lugar respectivamente**, ambos con 16 puntos, aunque Libertad tiene una diferencia de goles de -2 y Delfín de -3.
+
+Los equipos en los últimos lugares de esta fase enfrentan dificultades para avanzar en la tabla. **Deportivo Cuenca y Cumbayá** tienen 9 puntos cada uno, y **Emelec** cierra la clasificación con solo 7 puntos y una diferencia de goles de -7.
+
+Esta segunda fase es clave para los equipos que aspiran a mejorar su posición en la tabla acumulada o a evitar el descenso.
+
+> Tabla de posiciones de la [#LigaPro](https://twitter.com/hashtag/LigaPro?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/QjpX5jv5g0](https://t.co/QjpX5jv5g0)
+> 
+> — Orlando Silva (@osilvaca7) [November 4, 2024](https://twitter.com/osilvaca7/status/1853442392646467625?ref_src=twsrc%5Etfw)
+
+Tabla de posiciones acumulada de la LigaPro
+-------------------------------------------
+
+**Independiente del Valle** ocupa el primer lugar en la tabla acumulada con **61 puntos**, después de disputar 27 partidos y con una diferencia de gol de +28. El equipo ha registrado 48 goles a favor y 20 en contra.
+
+Por su parte, **Liga de Quito** se ubica en la segunda posición con **56 puntos** y una diferencia de gol de +20, logrando también 48 goles a favor, pero con 28 en contra.
+
+**Barcelona SC** sigue en la tercera posición con **51 puntos**. El equipo ha marcado 42 goles y recibido 24, lo que le otorga una diferencia de +18 en su cuenta. **Universidad Católica** está en el cuarto puesto con 45 puntos, habiendo disputado un partido menos que los demás equipos en los primeros lugares. Su diferencia de goles es +17, con 52 goles a favor y 35 en contra.
+
+### Zona media de la tabla
+
+En la mitad de la tabla, se encuentran equipos como **SD Aucas y Mushuc Runa**, ambos con 39 puntos. SD Aucas posee una diferencia de gol de +5, mientras que **Mushuc Runa** cuenta con +4.
+
+Más abajo, con 38 puntos, está **Orense SC**, cuya diferencia de goles es -3, producto de sus 26 goles a favor y 29 en contra. **El Nacional** se encuentra en la octava posición con **36 puntos** y una diferencia de -1.
+
+**Emelec y Macará**, ambos con 32 puntos, ocupan el **noveno y décimo lugar respectivamente**. Emelec tiene una diferencia de goles de -2, mientras que **Macará** cuenta con -6 en su saldo de goles. Técnico Universitario sigue de cerca con 31 puntos y una diferencia de goles de 0.
+
+### Zona de descenso
+
+En la parte baja de la tabla, **Deportivo Cuenca y Delfín** suman 25 puntos cada uno. Deportivo Cuenca tiene una diferencia de goles de -2, mientras que Delfín presenta una diferencia negativa de -18.
+
+**Imbabura SC y Cumbayá** también están en la zona de riesgo con 23 puntos cada uno; **Imbabura** tiene una diferencia de -23 y **Cumbayá** de -19. En la última posición se encuentra **Libertad**, con 20 puntos y una diferencia de goles de -19, lo cual lo coloca en una situación comprometida respecto al descenso.
+
+Esta tabla acumulada muestra una **situación peleada en la parte alta**, mientras que en la zona baja, varios equipos luchan por **permanecer en la Serie A**.
+
+> 🇪🇨 [#LigaPro](https://twitter.com/hashtag/LigaPro?src=hash&ref_src=twsrc%5Etfw) TABLA ACUMULADA 2024 📈  
+>   
+> ⌛️ Quedan tres fechas y se definen los clasificados a las copas y los dos descensos  
+>   
+> ¡Mucho por definirse todavía! 💥 [pic.twitter.com/q6WFWZMkyQ](https://t.co/q6WFWZMkyQ)
+> 
+> — Diario Olé Ecuador (@DiarioOleEc) [November 3, 2024](https://twitter.com/DiarioOleEc/status/1853208501083898170?ref_src=twsrc%5Etfw)
+
+Próximos encuentros de la fecha 13 en la segunda fase de la LigaPro
+-------------------------------------------------------------------
+
+La fecha 13 de la **segunda fase de la LigaPro 2024** presenta una serie de encuentros que serán determinantes para definir las posiciones finales. Los partidos iniciarán el viernes 8 de noviembre con el duelo entre **Delfín y Mushuc Runa**, programado para las 19:00.
+
+El sábado 9 de noviembre, **Universidad Católica se enfrentará a SD Aucas** a las 13:30.
+
+Más tarde, a las 16:00, **Macará recibirá a Emelec**. El cierre de la jornada del sábado será a las 19:00, con el enfrentamiento entre **Liga de Quito e Independiente del Valle**, un duelo clave entre los equipos que encabezan la tabla.
+
+El domingo 10 de noviembre, **El Nacional se medirá ante Libertad** a las 13:00, seguido por el partido entre **Orense SC y Técnico Universitario** a las 15:30. La jornada del domingo concluirá a las 18:00 con el encuentro entre **Barcelona SC y Cumbayá**.
+
+Finalmente, el lunes 11 de noviembre, **Imbabura SC recibirá a Deportivo Cuenca** a las 19:00, cerrando así la fecha 13 de la segunda fase.
+
+Estos partidos serán cruciales para los equipos que buscan mejorar sus posiciones en la **tabla acumulada** o asegurar sus puestos en la **clasificación de la segunda fase**.
+
+Sacerdote reportado como desaparecido fue hallado en Panzaleo
+=============================================================
+
+La Fiscalía informó sobre el religioso Enrique Fabián Arcos Sevilla este 4 de noviembre.
+----------------------------------------------------------------------------------------
+
+![El sacerdote Enrique Arcos se encontraba desaparecido.](https://www.elcomercio.com/wp-content/uploads/2024/11/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-3.jpg)
+
+El sacerdote **Enrique Fabián Arcos Sevilla**, reportado como desaparecido desde el 30 de octubre de 2024 en Ambato, ya fue localizado.
+
+La mañana de este lunes, 4 de noviembre de 2024, la **Fiscalía** informó sobre el desenlace de la búsqueda del religioso, tras cuatro días de labores. El punto final fue Panzaleo, provincia de Cotopaxi.
+
+### Más noticias
+
+* [Torrenciales lluvias en España dejan muertos, desaparecidos e inundaciones](https://www.elcomercio.com/actualidad/torrenciales-lluvias-en-espana-dejan-muertos-desaparecidos-e-inundaciones.html "Torrenciales lluvias en España dejan muertos, desaparecidos e inundaciones")
+* [Fiscalía exhumó 75 cadáveres en cementerio de Ambato](https://www.elcomercio.com/actualidad/ecuador/fiscalia-exhumacion-cadaveres-cementerio-ambato.html "Fiscalía exhumó 75 cadáveres en cementerio de Ambato")
+* [Policía localizó a 63 personas desaparecidas en Ecuador, ¿cuáles fueron las causas?](https://www.elcomercio.com/actualidad/seguridad/policia-localizo-63-personas-desaparecidas-ecuador-causas.html "Policía localizó a 63 personas desaparecidas en Ecuador, ¿cuáles fueron las causas?")
+
+> 🚨 AYÚDANOS A ENCONTRARLO 🚨  
+>   
+> ARCOS SEVILLA ENRIQUE FABIÁN, reportado como desaparecido el 30 de octubre de 2024, en Ambato, [#Tungurahua](https://twitter.com/hashtag/Tungurahua?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> 📞 Si tienes información comunícate al 1800 DELITO (335486).[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/eGDyeXgctY](https://t.co/eGDyeXgctY)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [November 1, 2024](https://twitter.com/PoliciaEcuador/status/1852380525542936639?ref_src=twsrc%5Etfw)
+
+Sacerdote desaparecido en Ambato
+--------------------------------
+
+Las autoridades hallaron el cuerpo sin vida del **sacerdote Enrique Fabián Arcos Sevilla**. La última vez que vieron con vida al hombre de 53 años fue en la ciudadela Cristóbal Colón, en Ambato.
+
+El día de la desaparición, el religioso conducía su **vehículo KIA** rojo con placas TBK-4069.
+
+Según se conoció, el **cadáver** presentaba rastros de violencia. Sin embargo, la Fiscalía aún no amplía la información con los detalles del hecho.
+
+El reporte
+----------
+
+La **Diócesis de Ambato** se pronunció cuando se dio la desaparición del sacerdote y emitió un comunicado oficial. En el documento, la institución confirmó la desaparición del padre Arcos Sevilla.
+
+La **organización religiosa,** a la par, pidió a los fieles mantenerse en oración. Además, se solicitó evitar rumores y especulaciones.
+
+Manta cumple 102 años y tiene un deseo: agua potable
+====================================================
+
+Manta celebra hoy 102 años de cantonización con sed. La ciudad, de 260 mil habitantes, sufrió la semana anterior la mayor escasez de agua de este 2024
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El megaparque de Manta será inaugurado este lunes 4 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-24.jpg)
+
+**Manta** celebra este lunes 4 de noviembre de 2024 102 años de **cantonización** con sed. La ciudad, de 260 000 habitantes, sufrió la semana anterior la **mayor escasez de agua potable** de este 2024, y aún no recupera el servicio de redistribución[.](https://es.wikipedia.org/wiki/Manta_(Ecuador) "https://es.wikipedia.org/wiki/Manta_(Ecuador)")
+
+### Más noticias
+
+* [Megaparque Centenario Agustín Intriago aporta al cambio en Manta](https://www.elcomercio.com/actualidad/ecuador/megaparque-centenario-agustin-intriago-siembra-cambio-manta.html "Megaparque Centenario Agustín Intriago aporta  al cambio en Manta")
+* [Llegada de cruceros a Manta dinamiza la economía de la región](https://www.elcomercio.com/actualidad/ecuador/cruceros-manta-temporada-economia.html "Llegada de cruceros a Manta dinamiza la economía de la región")
+
+Manta y el agua potable
+-----------------------
+
+Miguel Cevallos, gerente de la Empresa Pública Aguas de Manta, informó que el problema surgió por una **avería** en el sistema de bombeo **El Ceibal** y por eso el 70% de la población se quedó sin líquido. Y aunque ya repararon el daño, el servicio sigue con intermitencia en los barrios **bajos de Manta**, mientras que en la zona rural y en los sectores altos aún no se recupera el abastecimiento hasta la próxima semana.
+
+La falta de agua ha sido un problema eterno de Manta. Hace un **siglo**, sus pobladores traían el líquido en burros desde el **cerro de Montecristi,** ubicado a 12 kilómetros. Y actualmente la ciudad se provee desde el cantón **Rocafuerte**, donde cruza el río Portoviejo. Su estación de bombeo queda a 35 kilómetros.
+
+Manta sufre por el agua en **verano**, debido a los niveles bajos (55 centímetros) en los ríos donde se capta el líquido y en invierno por la **turbiedad** y palizadas que generan las lluvias. También existe la escasez por **daño en tuberías** y falta de mantenimiento de los equipos.  
+  
+Cevallos informó que los **cortes de luz** también han **afectado la distribución**. “Los barrios se abastecen de manera progresiva porque la recuperación total del agua toma entre 15 a 30 día”, explicó.
+
+Actualmente, algunas familias de la zona rural reciben el agua por medio de tanqueros de forma gratuita.  
+Manta también se abastece desde el acueducto **La Esperanza** que, pretendía enviar agua al fallido proyecto de la Refinería del Pacífico, pero el líquido se queda en el camino debido a que es captado, a través de pinchazos clandestinos, por agricultores de cinco cantones de Manabí. Por eso Manta ha puesto sus ojos al mar. Con un proyecto de 5.2 millones de dólares, pretende captar el agua del Océano Pacífico y potabilizarla para la población de la zona rural.
+
+Agua potable desde el mar
+-------------------------
+
+Un estudio financiado por la **Agencia Francesa de Desarrollo** (AFD) determina que la desalinización es la solución para dotar de líquido a Manta y terminar con su problema eterno: la **escasez**. La alcaldesa de Manta, Marciana Valdivieso, cree que el **agua del Océano** es la **solución definitiva**. “Frente a la ciudad tenemos un gigantesco mar que será la fuente de captación para potabilizar el líquido”, expresó.
+
+Ella informó que la planta se construirá en la playa **La Tiñosa, al sur de Manta**, y comprenderá dos modulares desalinizadores. Dijo que el agua se potabilizará mediante una técnica denominada ósmosis inversa que elimina las partículas de sal y posteriormente la purifica.
+
+Este proyecto busca entregar agua a la zona rural y posteriormente, con la construcción de otras plantas, se pretende abastecer a toda la ciudad. “Le vamos a decir **adiós a un problema que lleva años**”, agregó. La construcción de las primeras plantas **desaladoras** se financiará con 5,2 millones de dólares entregados a la Alcaldía de Manta por el Comité de la Reconstrucción.
+
+Las fiestas de Manta
+--------------------
+
+Hoy **Manta** celebra los 102 años de **cantonización** con un acto cívico que arrancó a las 08:40 en la avenida Malecón. Ocho horas después será la Sesión Solemne con el presidente **Daniel Noboa.** En el acto se inaugurará un megaparque, aún en construcción, que lleva el nombre del primer alcalde asesinado de Manta, **Agustín Intriago.**
+
+La obra se levanta a orillas del mar en 16 hectáreas y tendrá piletas, áreas verdes, un mirador y un teatro con capacidad para 4 500 personas. El parque se construye por un financiamiento de Petroecuador que donó **20 millones de dólares al Municipio de Manta** a cambio de que le exonerara los impuestos por 50 años.
+
 Siniestro de tránsito en Quito deja dos personas fallecidas este 4 de noviembre
 ===============================================================================
 
@@ -39,9 +603,9 @@ La mañana de este último día de feriado de Difuntos se registró un siniestro
 
 ![Siniestro de tránsito se produjo en la av. Simón Bolívar.](https://www.elcomercio.com/wp-content/uploads/2024/11/siniestro-quito.jpg)
 
-En el último día de **feriado de Difuntos e Independencia de Cuenca**, un siniestro de tránsito se produjo en Quito, con un saldo mortal.
+En el último día de **feriado de Difuntos e Independencia de Cuenca**, un siniestro de tránsito se produjo en **Quito**, con un saldo mortal[.](https://es.wikipedia.org/wiki/Quito)
 
-El hecho ocurrió a las 06:20, de este lunes, 4 de noviembre de 2024, , según el reporte del **Cuerpo de Bomberos**.
+El hecho ocurrió a las 06:20, de este lunes, 4 de noviembre de 2024, según el reporte del **Cuerpo de Bomberos**.
 
 ### Más noticias
 
@@ -73,10 +637,10 @@ El chasis del vehículo se desprendió producto del **siniestro**. En la cabina 
 
 En el lugar, los uniformados desarrollaron **maniobras de rescate** para extraer a las víctimas y entregarlas a Medicina Legal para los trámites legales pertinentes.
 
-Integrantes de la Unidad Nacional de Investigación Operativa de Accidentología Vial de la Policía Nacional del Ecuador (SIAT) acudieron para las investigaciones de la causa del siniestro de tránsito.
+Integrantes de la **Unidad Nacional de Investigación Operativa de Accidentología Vial de la Policía Nacional del Ecuador (SIAT)** acudieron para las investigaciones de la causa del siniestro de tránsito.
 
-El Delegado de protección de datos en Ecuado, guardián de la privacidad digital
-===============================================================================
+El Delegado de protección de datos en Ecuador, guardián de la privacidad digital
+================================================================================
 
 El avance digital en Ecuador crea el rol del Delegado de Protección de Datos para asegurar la privacidad ciudadana.
 -------------------------------------------------------------------------------------------------------------------
@@ -370,6 +934,26 @@ Al oeste, la [av. Mariscal Sucre](https://es.wikipedia.org/wiki/Quito "https://
 > 
 > — El Comercio (@elcomerciocom) [June 9, 2024](https://twitter.com/elcomerciocom/status/1799837694727434657?ref_src=twsrc%5Etfw)
 
+Oportunismo inmoral
+===================
+
+El efecto invernadero produce el calentamiento global y el deshielo de nevados y de los polos y la intensa deforestación.
+-------------------------------------------------------------------------------------------------------------------------
+
+![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
+
+La peor demostración de **mezquindad** y **oportunismo** inmoral es el **aprovechamiento** de las **tragedias** y su utilización como **peldaños electorales** o como purificadores de glosas y sentencias justamente impartidas, por la **Contraloría** y por el poder judicial, a una amplia serie de individuos deshonestos, que se apropiaron del dinero de los ecuatorianos.
+
+El país se sacudió sorprendido por el **abrupto ataque** incendiario a la capital y a varias ciudades, las imágenes dantescas de gigantescas **lenguas de fuego** que consumían **árboles** y plantas en parques y laderas y ponían en serio riesgo la integridad de algunas **viviendas** causaron **angustia** y desazón **ciudadana**. Los “linces”, que están a la **expectativa** de todo pretexto que les permita disfrazar su **desprestigio**, aprovecharon esta desesperada **situación** para levantar la **imagen** alicaída del primer personero municipal, haciéndole aparecer como un superhéroe, que vencía al **azaroso suceso**, minimizando la heroica presencia de los **bomberos**, de una **comunidad solidaria** y de otras **autoridades** nacionales, como la ministra del interior. Fueron dirigidos, desde el exterior, por su líder prófugo, a través de **estribillos** y lemas que enaltecían a su muy cuestionado **coideario municipal**. No han faltado ridículas manifestaciones de **correistas pagados** que han gritado, en **Carondelet**, “fuera, Noboa, fuera”, ni tampoco la **presencia** en las **redes** de la **opinión** del abogado del exvicepresidente y también del expresidente prófugo, que manifiestó “hay un ambiente propicio para que **Noboa** sucumba y deje el **poder**”. La gente se pregunta si la **concreción** de estas **absurdas** **provocaciones** oportunistas cambiarían el desastre climático y la **tremenda sequía**. 
+
+El **efecto** **invernadero** produce el **calentamiento global** y el **deshielo** de **nevados** y de los polos y la intensa **deforestación**, con la tala incesante de **árboles en bosques y selvas**, limitan la evaporación natural y la formación de nubes, originando un **cambio climático total** con una **sequía mundial**.
+
+El **Ecuador** ha contado con varias **plantas hidroeléctricas** construidas hace muchos años y que son las que funcionan, hasta ahora, a diferencia de las construidas en el período largo de la **Revolución Ciudadanas, q**ue trabajan en forma parcial, repleta de **defectos**, como la de Coca Codo Sinclair proyectada para que produzca 1500 megavatios, pero en realidad su **generación** no llega a los 500 megas; situada en una zona de inmenso riesgo por la erosión que produce el **Río Coca,** corre el inminente **peligro** de desaparecer y destruir los oleoductos del OCP y suspender la conducción del petróleo.  No es admisible que los gobiernos que han dirigido al país durante 30 años, no hayan tomado medidas preventivas para cambiar la **matriz energética,** como lo hicieron países vecinos. El **gobierno** de los infames, 10 años en el poder, encargó a su **vicepresidente** el “**cambio de matriz energética”** ¿hubo algún cambio? No, Ninguno, se dedicó a reparar refinerías de petróleo con presupuestos iniciales bajos, **costos finales** elevadísimos y resultados muy pobres, a **construir hidroeléctricas** con similar esquema, costo inicial bajo y final muy aumentado, con un apuro inusitado, con **préstamos internacionales** caros. El apresuramiento era justificado (había que acelerar el cobro de coimas y sobornos). Pasó la década en la que se prohibió el **desarrollo** de la **termoeléctrica** para privilegiar los jugosos contratos del **levantamiento** de **hidroeléctricas** y no se previeron alternativas para la **generación** de **electricidad**, como los paneles solares, o la energía eólica (del viento), o lo que acaba de contratar el gobierno actual con el Japón, un **parque geotérmico**.
+
+Con sin igual descaro la **candidata**, representante de los **corruptos**, minimiza la existencia del peor estiaje de la **historia**, no menciona la corruptela de los 10 años de su **gobierno** y se manifiesta **crítica** acérrima con la **gestión**, probablemente no óptima, pero de apenas 1 año del gobierno del presidente Noboa. Miente al plantear que si se mantenía en buen estado las **termoeléctricas** se solucionaba el problema, pues no dice que, en el mejor de los casos, el aporte de esta **generación** no llega al 30%, porcentaje deficitario para **compensar** el **tremendo déficit** que nos agobia, ni tampoco recuerda que fue su presidente el que se opuso al **desarrollo** de estas **plantas** **termoeléctricas**.
+
+En **circunstancias difíciles**, como la actual, el **oportunismo** es **inmoral**, impresiona como **traición a la patria,** al igual que la oferta de liberar a Glas, a pesar de las **sentencias ejecutoriadas** que tiene, en un acto que constituiría burla e **irrespeto a la justicia nacional** y de apoyo traicionero a la p**osición mexicana** en contra del **Ecuador**.
+
 El voto latino impacta, como nunca, en las elecciones de EE. UU.
 ================================================================
 
@@ -397,26 +981,6 @@ Según un estudio de **Pew Research Center, el 65% de los latinos** considera qu
 Las comunidades latinas tienen grandes expectativas respecto al nuevo gobierno que emerja tras estas elecciones. Muchos esperan que se tomen medidas concretas para abordar problemas como la falta de acceso a servicios básicos, la discriminación y la violencia racial. Además, hay un fuerte deseo por ver políticas que promuevan la inclusión económica y social.
 
 La **polarización no solo afecta a los votantes**; también repercute en cómo se perciben las campañas electorales. La retórica incendiaria utilizada por Trump ha alimentado tensiones raciales y sociales, mientras que Harris ha tratado de posicionarse como una defensora de los derechos civiles. Sin embargo, ambos candidatos han sido criticados por no abordar adecuadamente las preocupaciones de todos los sectores de la población.
-
-Oportunismo inmoral
-===================
-
-El efecto invernadero produce el calentamiento global y el deshielo de nevados y de los polos y la intensa deforestación.
--------------------------------------------------------------------------------------------------------------------------
-
-![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
-
-La peor demostración de **mezquindad** y **oportunismo** inmoral es el **aprovechamiento** de las **tragedias** y su utilización como **peldaños electorales** o como purificadores de glosas y sentencias justamente impartidas, por la **Contraloría** y por el poder judicial, a una amplia serie de individuos deshonestos, que se apropiaron del dinero de los ecuatorianos.
-
-El país se sacudió sorprendido por el **abrupto ataque** incendiario a la capital y a varias ciudades, las imágenes dantescas de gigantescas **lenguas de fuego** que consumían **árboles** y plantas en parques y laderas y ponían en serio riesgo la integridad de algunas **viviendas** causaron **angustia** y desazón **ciudadana**. Los “linces”, que están a la **expectativa** de todo pretexto que les permita disfrazar su **desprestigio**, aprovecharon esta desesperada **situación** para levantar la **imagen** alicaída del primer personero municipal, haciéndole aparecer como un superhéroe, que vencía al **azaroso suceso**, minimizando la heroica presencia de los **bomberos**, de una **comunidad solidaria** y de otras **autoridades** nacionales, como la ministra del interior. Fueron dirigidos, desde el exterior, por su líder prófugo, a través de **estribillos** y lemas que enaltecían a su muy cuestionado **coideario municipal**. No han faltado ridículas manifestaciones de **correistas pagados** que han gritado, en **Carondelet**, “fuera, Noboa, fuera”, ni tampoco la **presencia** en las **redes** de la **opinión** del abogado del exvicepresidente y también del expresidente prófugo, que manifiestó “hay un ambiente propicio para que **Noboa** sucumba y deje el **poder**”. La gente se pregunta si la **concreción** de estas **absurdas** **provocaciones** oportunistas cambiarían el desastre climático y la **tremenda sequía**. 
-
-El **efecto** **invernadero** produce el **calentamiento global** y el **deshielo** de **nevados** y de los polos y la intensa **deforestación**, con la tala incesante de **árboles en bosques y selvas**, limitan la evaporación natural y la formación de nubes, originando un **cambio climático total** con una **sequía mundial**.
-
-El **Ecuador** ha contado con varias **plantas hidroeléctricas** construidas hace muchos años y que son las que funcionan, hasta ahora, a diferencia de las construidas en el período largo de la **Revolución Ciudadanas, q**ue trabajan en forma parcial, repleta de **defectos**, como la de Coca Codo Sinclair proyectada para que produzca 1500 megavatios, pero en realidad su **generación** no llega a los 500 megas; situada en una zona de inmenso riesgo por la erosión que produce el **Río Coca,** corre el inminente **peligro** de desaparecer y destruir los oleoductos del OCP y suspender la conducción del petróleo.  No es admisible que los gobiernos que han dirigido al país durante 30 años, no hayan tomado medidas preventivas para cambiar la **matriz energética,** como lo hicieron países vecinos. El **gobierno** de los infames, 10 años en el poder, encargó a su **vicepresidente** el “**cambio de matriz energética”** ¿hubo algún cambio? No, Ninguno, se dedicó a reparar refinerías de petróleo con presupuestos iniciales bajos, **costos finales** elevadísimos y resultados muy pobres, a **construir hidroeléctricas** con similar esquema, costo inicial bajo y final muy aumentado, con un apuro inusitado, con **préstamos internacionales** caros. El apresuramiento era justificado (había que acelerar el cobro de coimas y sobornos). Pasó la década en la que se prohibió el **desarrollo** de la **termoeléctrica** para privilegiar los jugosos contratos del **levantamiento** de **hidroeléctricas** y no se previeron alternativas para la **generación** de **electricidad**, como los paneles solares, o la energía eólica (del viento), o lo que acaba de contratar el gobierno actual con el Japón, un **parque geotérmico**.
-
-Con sin igual descaro la **candidata**, representante de los **corruptos**, minimiza la existencia del peor estiaje de la **historia**, no menciona la corruptela de los 10 años de su **gobierno** y se manifiesta **crítica** acérrima con la **gestión**, probablemente no óptima, pero de apenas 1 año del gobierno del presidente Noboa. Miente al plantear que si se mantenía en buen estado las **termoeléctricas** se solucionaba el problema, pues no dice que, en el mejor de los casos, el aporte de esta **generación** no llega al 30%, porcentaje deficitario para **compensar** el **tremendo déficit** que nos agobia, ni tampoco recuerda que fue su presidente el que se opuso al **desarrollo** de estas **plantas** **termoeléctricas**.
-
-En **circunstancias difíciles**, como la actual, el **oportunismo** es **inmoral**, impresiona como **traición a la patria,** al igual que la oferta de liberar a Glas, a pesar de las **sentencias ejecutoriadas** que tiene, en un acto que constituiría burla e **irrespeto a la justicia nacional** y de apoyo traicionero a la p**osición mexicana** en contra del **Ecuador**.
 
 Más remesas llegan al Ecuador durante este 2024
 ===============================================
@@ -467,513 +1031,3 @@ Las provincias que más concentraron el flujo de remesas durante el segundo trim
 Esta concentración es significativa, ya que es 16,2% superior al monto registrado en el primer trimestre de 2024 y un 13,2% más que en el mismo periodo del 2023.
 
 Este fenómeno se debe a la gran cantidad de hogares que dependen de las remesas en estas regiones y a la amplia disponibilidad de servicios financieros, según el **Banco Central de Ecuador.**
-
-Un futbolista peruano falleció impactado por un rayo
-====================================================
-
-El partido se disputaba en el estadio de Coto Coto, en Chicha. Jugaban los equipos de Juventud Bellavista y Familia Chocca. Hay jugadores heridos.
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen referencial. El hecho sucedió alrededor de las 16:00 de este domingo 3 de noviembre, en el estadio de Coto Coto, en Chicha.](https://www.elcomercio.com/wp-content/uploads/2023/04/video-capta-caida-rayo-sobre-one-world-trade-center-nueva-york.jpg)
-
-##### Agencia EFE
-
-El **defensor peruano José Hugo de la Cruz Meza**, falleció este domingo 3 de noviembre. Él fue **alcanzado por un rayo**.
-
-**De la Cruz Meza** murió en pleno partido. El rayo también causó, al menos, un herido, informaron medios peruanos.
-
-A más del defensa fallecido, el **portero Juan Choca** se encuentra en estado grave con quemaduras severas.
-
-Se desconoce si el estado de salud de los otros jugadores que fueron alcanzados por el rayo.
-
-### Más noticias
-
-* [Perú Mucho Gusto 2024: sabores, cultura y turismo en Lima](https://www.elcomercio.com/afull/peru-mucho-gusto-2024-sabores-cultura-y-turismo-en-lima.html "Perú Mucho Gusto 2024: sabores, cultura y turismo en Lima")
-* [Perú ratifica que revisará las remesas de los migrantes para combatir la delincuencia](https://www.elcomercio.com/actualidad/mundo/peru-ratifica-revisara-remesas-migrantes-combatir-delincuencia.html "Perú ratifica que revisará las remesas de los migrantes para combatir la delincuencia")
-
-Los afectados por el rayo en Perú
----------------------------------
-
-El hecho sucedió alrededor de las 16:00 horas en el estadio de **Coto Coto, en Chicha**. Esa zona está situada en el departamento de **Huancayo**, donde jugaban bajo una tormenta dos equipos locales: **Juventud Bellavista y Familia Chocca.**
-
-Un vídeo muestra el momento preciso de la caída del rayo sobre varios futbolistas que se desvanecen al mismo tiempo sobre el césped.
-
-El rayo impactó segundos después de que se suspendiera el partido por la tormenta y cuando los jugadores se retiraban del campo.
-
-Medios peruanos informaron que los heridos fueron trasladados de inmediato al **hospital Carrión de Huancayo,** Allí, los médicos certificaron el fallecimiento de **Jose Hugo de la Cruz Meza** al momento de su llegada.
-
-El ecuatoriano compra solo ciertos alimentos por los cortes de luz
-==================================================================
-
-La crisis energética en Ecuador afectó el consumo y la conservación de alimentos en los hogares. Expertos sugieren medidas para evitar pérdidas y riesgos sanitarios.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz afectan directamente actividades esenciales, una de ellas, la conservación de alimentos en los hogares.](https://www.elcomercio.com/wp-content/uploads/2024/10/alimentos-cortes.jpg)
-
-**Ecuador** atraviesa por una grave **crisis energética** desde hace más de un mes. El déficit de energía y la prolongada sequía han obligado a programar **cortes de luz** en todo el país. Este lunes 4 de noviembre del 2024 los racionamientos eléctricos son de hasta ocho horas al día[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Cortes de luz en Quito, con nuevos horarios del 1 al 4 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-nuevos-horarios-1-al-4-de-noviembre.html "Cortes de luz en Quito, con nuevos horarios del 1 al 4 de noviembre")
-* [Gobierno acordó con telefónicas medidas de compensación por los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/gobierno-medidas-compensacion-telefonicas-cortes-luz.html "Gobierno acordó con telefónicas medidas de compensación por los cortes de luz")
-* [Bancos privados en Ecuador ofrecen diferir créditos por cortes de luz, ¿en qué consiste?](https://www.elcomercio.com/actualidad/negocios/bancos-privados-en-ecuador-ofrecen-diferir-creditos-por-cortes-de-luz-en-que-consiste.html "Bancos privados en Ecuador ofrecen diferir créditos por cortes de luz, ¿en qué consiste?")
-
-Los prolongados **cortes de luz** plantean desafíos para las autoridades, empresarios y familias. La interrupción del suministro eléctrico afecta directamente actividades esenciales, una de ellas, la conservación de alimentos en los hogares.
-
-Cambios de hábitos de compras en el contexto de cortes de luz
--------------------------------------------------------------
-
-Debido a los **cortes de luz**, las familias han cambiado sus hábitos de compra, evitando alimentos perecibles.
-
-Por ejemplo, **Silvia Viteri** y su esposo, desde que empezaron los racionamientos, ya no compran muchos **productos perecibles**, como **carnes y lácteos**, solo lo hacen en pequeñas cantidades. “Compramos casi lo que vamos a consumir cada día”, señalaron.
-
-Asimismo, **Lorena Yunda**, madre de familia de 47 años, dijo que todos sus productos cárnicos siempre los tiene en la parte del **congelador de su refrigeradora** y durante los **cortes de luz** no se llegan a descongelar. Sin embargo, ha dejado de comprar alimentos y está utilizando todo lo que tiene en su casa.
-
-Por su parte, **Liliana Martínez**, también señaló que ha dejado de comprar alimentos desde que empezaron los racionamientos eléctricos. “Estoy consumiendo todo lo que tengo en la refrigeradora, no se me ha echado a perder nada y compro a diario lo que me falta”, dijo. Aunque no está segura de que los alimentos estén bien conservados en los locales pequeños.
-
-Así, lo cortes de luz han cambiado los hábitos de compra, especialmente en las tiendas del país, que representa el 65% del consumo en el Ecuador.
-
-**Diego Gizzi**, director de Retail de dichter & neira, señaló que el 66% de los tenderos en Ecuador considera que los apagones han impactado negativamente sus ventas, y que solo 2 de cada 10 tenderos cuentan con un plan para hacer frente a estos cortes, como contar con un generador eléctrico o tener dinero para comprar uno de estos equipos.
-
-No solo afecta a los comerciantes, sino que también limita las opciones de los consumidores, quienes dependen de estos puntos de venta para su abastecimiento cotidiano, dijo.
-
-En este contexto, **Daniel Arteaga**, docente especialista en tecnología de alimentos, señaló la importancia de conservar adecuadamente los alimentos para evitar **pérdidas económicas** y **riesgos sanitarios**.
-
-El experto hizo recomendaciones para proteger los alimentos perecederos y prevenir posibles intoxicaciones debido a los prologados cortes de energía.
-
-Recomendaciones para conservar alimentos
-----------------------------------------
-
-* **Preparar refrigerador y congelador antes del corte.** Poner la temperatura al nivel más bajo un par de horas antes del corte de energía para que los alimentos mantengan una temperatura segura por más tiempo.
-* **Evitar abrir las puertas durante el corte.** Mantener cerradas las puertas del refrigerador y congelador para conservar el frío. Un refrigerador cerrado y bien aislado puede mantener una temperatura segura entre 4 y 6 horas, mientras que un congelador puede hacerlo hasta 24 horas.
-* **Organización de alimentos.** Colocar alimentos altamente perecederos, como carnes, pescados y lácteos, en la zona más fría del refrigerador.
-* **Revisar temperaturas al restablecerse la electricidad**. Verificar que los alimentos no hayan superado los 5°C por más de dos horas, en especial los de origen animal, para evitar riesgo de crecimiento bacteriano. Un termómetro de cocina puede ser útil.
-* **Usar acumuladores de frío.** Tener bolsas de hielo o acumuladores en el congelador para ayudar a mantener la baja temperatura en caso de interrupciones prolongadas.
-
-Estas medidas minimizarán el impacto de los cortes de luz en la seguridad alimentaria, reduciendo el riesgo de consumir alimentos en mal estado, señaló Arteaga.
-
-Nueva alerta en España por DANA y sube el número de fallecidos
-==============================================================
-
-Los efectos de DANA siguen sumando alertas y víctimas en España.
-----------------------------------------------------------------
-
-![Personas retiran el lodo acumulado en una calle de la localidad valenciana de Paiporta.](https://www.elcomercio.com/wp-content/uploads/2024/11/mundo-2-1.jpg)
-
-**Valenciana, Cataluña y Aragón** están en alerta por las fuertes lluvias. Para este lunes, 4 de noviembre de 2024, se contempla un aviso naranja, que implica un riesgo importante. Esto según la Agencia Estatal de Meteorología (Aemet).
-
-En **Valencia**, la provincia más afectada por el denominado fenómeno **DANA** ((Depresión Aislada en Niveles Altos), el aviso naranja estará vigente en principio durante todo el día.
-
-El litoral norte tiene riesgo de precipitación acumulada en una hora de 40 mm, los mismos que en el litoral sur de **Castellón**.
-
-### Más noticias
-
-* [Ecuatoriano relata devastación tras DANA en España](https://www.elcomercio.com/actualidad/mundo/ecuatoriano-relata-devastacion-dana.html "Ecuatoriano relata devastación tras DANA en España")
-* [Cancelan el Gran Premio de MotoGP de la Comunitat Valenciana por la DANA](https://www.elcomercio.com/deportes/motor/moto-gp-gran-premio-valencia-dana.html "Cancelan el Gran Premio de MotoGP de la Comunitat Valenciana por la DANA")
-* [Efectos de la DANA como consecuencia del cambio climático](https://www.elcomercio.com/actualidad/mundo/inundaciones-temporal-espana-deja-fallecidos.html "Efectos de la DANA como consecuencia del cambio climático")
-* [Insultan y lanzan lodo a la comitiva de los reyes de España](https://www.elcomercio.com/actualidad/mundo/insultan-lanzan-lodo-comitiva-reyes-espana.html "Insultan y lanzan lodo a la comitiva de los reyes de España")
-
-DANA y alertas en poblados afectados
-------------------------------------
-
-Los **avisos naranjas** se mantienen también en el litoral norte y el interior de **Castellón**, donde hay posibilidades de lluvia acumulada en 12 horas de hasta 100 mm. Los chubascos serán localizados y las localidades próximas podrían tener acumulados muy dispares.  
-  
-La misma alerta está activada en el prelitoral y el litoral sur de Tarragona, si bien en este caso el **peligro** de precipitación acumulada en 12 horas es de hasta 150 mm.  
-  
-A partir del mediodía se extiende el aviso amarillo -riesgo- a la zona del **Bajo Aragón de Teruel**, el interior sur de **Castellón**, el litoral de Barcelona y el litoral norte, el prelitoral norte y la depresión central de Tarragona, donde podría llover hasta 20 mm en una hora.
-
-Habilitar opción de teletrabajo
--------------------------------
-
-**Valencia, Tarragona y Castellón** están en alerta por tormentas que pueden ir acompañadas de granizo.
-
-Por otra parte, la **Conselleria de Educación, Cultura, Universidades y Empleo** recomendaron habilitar la opción del teletrabajo para las personas afectadas por **DANA**.
-
-Protección Civil envía nuevas alertas móviles
----------------------------------------------
-
-Del mismo modo, se emitió una alerta de **protección civil** mediante el sistema ES-Alert, informando a la población de las zonas afectadas que se van a registrar chubascos intensos.
-
-Ante la mayor vulnerabilidad de vías, viviendas e infraestructuras de los municipios afectados por la **DANA**, se recomendó a la población extremar la precaución y seguir los consejos de autoprotección, especialmente en las poblaciones más dañadas por las inundaciones.
-
-El número de **personas fallecidas** debido a los efectos de **DANA** ya suman más de 200 muertos. Este domingo, 3 de noviembre, se hablaba de 217 víctimas.
-
-¿Habrá Pico y placa en Quito el lunes 4 de noviembre?
-=====================================================
-
-Recuerda que en noviembre deben matricular autos con placas terminadas en 0. Revisa los horarios del Pico y placa y evita multas
---------------------------------------------------------------------------------------------------------------------------------
-
-![Los agentes metropolitanos vigilan el cumplimiento de la medida en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/pico-domingo.jpg)
-
-El **Municipio de Quito** implementó la medida de **Pico y placa** en la capital de los ecuatorianos para tratar de controlar el flujo vehicular dentro de la ciudad.
-
-### Más noticias
-
-* [Pico y placa se suspende en Quito por cinco días](https://www.elcomercio.com/actualidad/quito/pico-y-placa-se-suspende-en-quito-por-cinco-dias.html "Pico y placa se suspende en Quito por cinco días")
-* [Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito](https://www.elcomercio.com/actualidad/quito/paradas-de-la-ecovia-registran-nuevos-cierres-por-trabajos-en-quito.html "Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito")
-* [Cajero automático de una farmacia fue extraído con explosivos](https://www.elcomercio.com/actualidad/seguridad/cajero-automatico-farmacia-robo-explosivos-llano-grande.html "Cajero automático de una farmacia fue extraído con explosivos")
-
-¿Cómo se aplica el Pico y placa?
---------------------------------
-
-La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
-
-La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
-
-El esquema de aplicación del Pico y Placa
------------------------------------------
-
-Según el **último dígito de la placa**, el cronograma es el siguiente:
-
-* **Lunes:** placas terminadas en 1 y 2.
-* **Martes**: placas terminadas en 3 y 4.
-* **Miércoles**: placas terminadas en 5 y 6.
-* **Jueves**: placas terminadas en 7 y 8.
-* **Viernes:** placas terminadas en 9 y 0.
-
-Este lunes 4 de noviembre habrá libre movilidad
------------------------------------------------
-
-Ecuador está finalizando un largo **feriado nacional** en conmemoración al **Día de Difuntos** y la **Independencia de Cuenca.** Estos se trasladaron a los días más próximos, de acuerdo con la ley de Feriados vigente.
-
-Así, e**l feriado de Difuntos** se trasladó viernes 1 de noviembre y el día de asueto por la Independencia de Cuenca, al lunes 4 de noviembre.
-
-De acuerdo con la normativa del Pico y placa, **este lunes 4 de noviembre habrá libre movilidad** en el Distrito Metropolitano de Quito, pues la medida [no se aplica los feriados.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-Además, recuerda que en noviembre se inicia el período de revisión y matriculación para los autos con placas terminadas en 0.
-
-> 💁Recuerda que sábados, domingos y feriados existe libre movilidad vehicular.  
->   
-> 🚦Respeta las normas de tránsito y evita sanciones.  
->   
-> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/NQ11DGBee1](https://t.co/NQ11DGBee1)
-> 
-> — AMTQuito (@AMT\_Quito) [October 20, 2024](https://twitter.com/AMT_Quito/status/1847941090327896277?ref_src=twsrc%5Etfw)
-
-Guayaquil tendrá cortes de luz este 4 de noviembre y estos son los horarios
-===========================================================================
-
-Cortes de luz en Guayaquil se mantienen para el último día del feriado.
------------------------------------------------------------------------
-
-![Cortes de luz continúan en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/luz.jpg)
-
-Este 4 de noviembre de 2024, en el final del feriado por el **Día de Difuntos** e **Independencia de Cuenca**, los **cortes de luz** en Guayaquil tienen horarios establecidos[.](https://es.wikipedia.org/wiki/Guayaquil)[](https://es.wikipedia.org/wiki/Guayaquil)
-
-El cronograma de **apagones** está definido e incluye horarios de seis hasta ocho horas. La nueva planificación se dio desde el inicio de los días de descanso.
-
-### Más noticias
-
-* [Horarios de cortes de luz en Ecuador bajarán del 5 al 10 de noviembre](https://www.elcomercio.com/actualidad/negocios/horario-cortes-luz-ecuador-bajaran-noviembre.html "Horarios de cortes de luz en Ecuador bajarán del 5 al 10 de noviembre")
-* [Cortes de luz en Guayaquil, con nuevos horarios del 1 al 4 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-nuevos-horarios-1-al-4-de-noviembre.html "Cortes de luz en Guayaquil, con nuevos horarios del 1 al 4 de noviembre")
-* [La central hidroeléctrica Mazar reanudó sus operaciones](https://www.elcomercio.com/actualidad/negocios/central-hidroelectrica-mazar-reanudo-operaciones.html "La central hidroeléctrica Mazar reanudó sus operaciones")
-
-Cortes de luz en sectores de Quito
-----------------------------------
-
-La **Empresa Eléctrica Pública Estratégica Corporación Nacional de Electricidad (CNEL)** publicó los horarios hasta este lunes, 4 de noviembre.
-
-En sitios como en **Garzota 6, Comisión de Tránsito del Guayas y Ciudadela Guayacanes**, los cortes están fijados de 08:00 a 12:00 y de 16:00 a 20:00.
-
-El horario es el mismo para zonas como **Colinas del Bosque, urbanización Puerto Azul y Nueva Esperanza**.
-
-Los ajustes en los horarios se dieron luego de las recientes lluvias en la cuenca hidrográfica oriental. Estas mejoraron las condiciones de los ríos que abastecen la central hidroeléctrica **Coca Codo Sinclair**.
-
-Consejos que tomar en cuenta
-----------------------------
-
-Las medidas de seguridad, como mantenerse en los domicilios, son vitales durante los cortes de luz. Ante alguna emergencia hay que llamar al **Ecu 911**.
-
-En caso de vivir en urbanización, edificio o condominio se debe coordinar con la administración y los vecinos, para tener un **plan de emergencia**.
-
-Es importante no circular por calles oscuras y **desoladas**. Es mejor tomar rutas con mayor concurrencia. Es crucial no exhibir pertenencias, como teléfonos. A la par, mantenerse alerta sobre lo que sucede en el entorno.
-
-James Van Der Beek revela su diagnóstico de cáncer colorrectal
-==============================================================
-
-El actor James Van Der Beek, conocido por su papel en Dawson's Creek, ha compartido públicamente que ha sido diagnosticado con esta enfermedad.
------------------------------------------------------------------------------------------------------------------------------------------------
-
-![James Van Der Beek se muestra optimista y está recibiendo el apoyo de su familia. Redes Sociales](https://www.elcomercio.com/wp-content/uploads/2024/11/James-Van-Der.jpg)
-
-El actor **James Van Der Beek**, de 47 años, confirmó que padece **cáncer colorrectal**.
-
-En una declaración a People, el actor mencionó: “He estado lidiando con este diagnóstico en privado y tomando medidas para resolverlo, con el apoyo de mi increíble familia”.
-
-Esta noticia ha conmocionado a sus seguidores, quienes lo han visto crecer en la pantalla desde su papel protagónico en **Dawson’s Creek.**
-
-### Más noticias
-
-* [Heidi Klum se transformó en E.T. y brilló en la fiesta de Halloween 2024](https://www.elcomercio.com/tendencias/entretenimiento/heidi-klum-transformo-et-brillo-fiesta-halloween.html "Heidi Klum se transformó en E.T.  y brilló en la fiesta de Halloween 2024")
-* [Margot Robbie, la Barbie, se estrena como madre](https://www.elcomercio.com/tendencias/entretenimiento/margot-robbie-barbie-estrena-madre.html "Margot Robbie, la Barbie, se estrena como madre")
-* [Estrenos musicales para endulzar el oído en este feriado](https://www.elcomercio.com/tendencias/entretenimiento/estrenos-musica-octubre-feriado-entretenimiento.html "Estrenos musicales para endulzar el oído en este feriado")
-
-La importancia del apoyo familiar
----------------------------------
-
-**Van Der Beek** ha destacado la importancia del respaldo familiar en este momento difícil. Comparte seis hijos con su **esposa Kimberly**, quienes han sido una fuente de fortaleza durante su tratamiento.
-
-“Hay razones para ser optimista y me siento bien”, afirmó el actor.
-
-Conciencia sobre el cáncer colorrectal
---------------------------------------
-
-El **cáncer colorrectal** se origina en el colon o el recto y es una de las formas más comunes de cáncer en los **Estados Unidos.**
-
-Según la **American Cancer Society**, aproximadamente uno de cada 23 hombres y una de cada 25 mujeres recibirán este diagnóstico a lo largo de sus vidas.
-
-**Van Der Beek** planea participar en un especial benéfico titulado **The Real Full Monty,** que tiene como objetivo aumentar la conciencia sobre las pruebas y la investigación del cáncer colorrectal.
-
-Proyectos futuros de Van Der Beek
----------------------------------
-
-A pesar de su diagnóstico, **Van Der Beek** continúa trabajando en nuevos proyectos.
-
-Se espera que aparezca en la película original de **Tubi Sidelined: The QB and Me**, que se estrenará el 29 de noviembre.
-
-Además, está programado para participar en el especial benéfico mencionado anteriormente, donde varios actores se unirán para ayudar a desestigmatizar las pruebas para este **tipo de cáncer.**
-
-Quito exonera el estacionamiento para vehículos eléctricos
-==========================================================
-
-Quito implementa la exoneración del 100% en estacionamientos. ¿Cómo beneficiarte de este beneficio?
----------------------------------------------------------------------------------------------------
-
-![La Zona Azul ofrece en sus áreas un total de 8 994 plazas de estacionamiento. Foto: Epmmop](https://www.elcomercio.com/wp-content/uploads/2021/12/zonaazul1.jpg)
-
-El **Municipio de Quito** iniciará una iniciativa innovadora para fomentar la movilidad sostenible.
-
-Desde el próximo 5 de noviembre de 2024, los propietarios de autos eléctricos se beneficiarán de la exoneración del 100% en los costos de estacionamiento.
-
-Esta medida, en cumplimiento de la normativa nacional vigente, busca incentivar el uso de vehículos eléctricos y contribuir a un entorno más limpio en **Quito**.
-
-### Más noticias
-
-* [Actividades en museos de Quito por el feriado del Día de los Difuntos](https://www.elcomercio.com/actualidad/quito/museos-actividades-quito-feriado-dia-difuntos.html "Actividades en museos de Quito por el feriado del Día de los Difuntos")
-* [Implicados en explosión de un cajero automático en Quito libres en menos de 24 horas](https://www.elcomercio.com/actualidad/quito/explosion-cajero-automatico-quito.html "Implicados en explosión de un cajero automático en Quito libres en menos de 24 horas")
-* [Iglesias del Centro Histórico de Quito son siempre una alternativa para el feriado](https://www.elcomercio.com/actualidad/quito/iglesias-centro-historico-quito-alternativa-visita-feriado.html "Iglesias del Centro Histórico de Quito son siempre una alternativa para el feriado")
-
-Proceso para acceder al beneficio
----------------------------------
-
-Para acceder a este beneficio, los usuarios deben seguir un procedimiento simple. Al ingresar a un estacionamiento, es necesario tomar un ticket.
-
-Al salir, los **conductores** deben presentar el ticket junto con la **matrícula del vehículo** en el punto de recaudación.
-
-Este proceso asegura que solo los autos eléctricos accedan a la exoneración, garantizando así un uso adecuado del sistema.
-
-Estacionamiento en Zona Azul
-----------------------------
-
-En los espacios designados como **Zona Azul**, los usuarios también podrán beneficiarse de la exoneración.
-
-Sin embargo, es importante que presenten la **matrícula del vehículo** antes de la emisión del ticket para solicitar esta ventaja.
-
-El **tiempo máximo** permitido de estacionamiento en estas áreas es de **dos horas**, lo que permite una gestión eficiente del espacio público y facilita el acceso a los conductores de autos eléctricos.
-
-Un aporte de Quito con la movilidad verde
------------------------------------------
-
-Las **tarifas diferenciadas** aplicarán todos los días, incluyendo feriados, lo que refleja un enfoque proactivo hacia la sostenibilidad y el bienestar de los ciudadanos.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Captura-de-pantalla-2024-11-02-a-las-06.05.55-1024x474.png)
-
-**Quito** busca no solo reducir la huella de carbono, sino también hacer más atractivo el uso de vehículos que respetan el medio ambiente.
-
-Beneficios para vehículos híbridos
-----------------------------------
-
-Además de la exoneración para autos eléctricos, los vehículos híbridos también recibirán un beneficio.
-
-Estos vehículos disfrutarán de una reducción del 50% en el costo de estacionamiento, en concordancia con la normativa local vigente.
-
-Liga de Quito venció a Emelec y presiona en la Liga Pro
-=======================================================
-
-La 'U' sigue en la pelea por ganar la segunda etapa de la Liga Pro, luchando hasta el final.
---------------------------------------------------------------------------------------------
-
-![Ezequiel Piovi anotó en el partido entre Liga de Quito y Emelec por la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-75.jpg)
-
-Tras la victoria de Independiente del Valle, **Liga de Quito** tenía una sola misión para mantenerse en la disputa, vencer a **Emelec**. Y así lo hizo en la jornada 12 de la Liga Pro, este domingo 3 de noviembre, en el estadio George Capwell.
-
-Los albos ganaron 0-1 y con este triunfo, el **‘Rey de Copas’ igualó a Independiente del Valle con 26 puntos**. Aunque los ‘rayados’ lideran por diferencia de goles, el ganador de la etapa podría definirse la próxima semana cuando ambos equipos se enfrenten en el estadio Rodrigo Paz Delgado.
-
-### Más noticias:
-
-* [Un golpeado Emelec recibe al favorito Liga de Quito](https://www.elcomercio.com/deportes/futbol/un-golpeado-emelec-recibe-al-favorito-liga-de-quito.html "Un golpeado Emelec recibe al favorito Liga de Quito")
-* [Liga de Quito, a cuatro partidos de una nueva final en la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-a-cuatro-partidos-de-una-nueva-final-en-la-liga-pro.html "Liga de Quito, a cuatro partidos de una nueva final en la Liga Pro")
-* [Así fue como Marco Angulo aterrizó en Liga de Quito](https://www.elcomercio.com/deportes/futbol/asi-fue-como-marco-angulo-aterrizo-en-liga-de-quito.html "Así fue como Marco Angulo aterrizó en Liga de Quito")
-
-Un error le dio la ventaja a Liga de Quito
-------------------------------------------
-
-El estadio **George Capwell** fue testigo de la búsqueda de **Liga de Quito** por conseguir su primera victoria en seis años en este escenario, ante un Emelec que atraviesa un momento complicado.
-
-Los primeros minutos del partido fueron cautelosos, con ambos equipos llegando al área rival sin mayor peligro. Sin embargo, cuando lograban arriesgar, o fallaba la puntería, o los arqueros respondían bien.
-
-Por parte de Liga de Quito, el capitán **Ezequiel Piovi destacó**, dominando el mediocampo y siendo uno de los jugadores más incisivos e intensos al atacar.
-
-Cerca del final del primer tiempo, **Liga de Quito abrió el marcador gracias a Piovi,** con complicidad del arquero Gilmar Napa.
-
-El capitán lanzó un centro al área buscando a Álex Arce, que parecía controlado, pero Napa tuvo un error de cálculo, y el balón se le escapó de las manos para entrar en la red y darle la ventaja a la ‘U’.
-
-> Se le escapó 🕊️ a Napa  
->   
-> El arquero de [@CSEmelec](https://twitter.com/CSEmelec?ref_src=twsrc%5Etfw) salió en blanco y permitió que [@LDU\_Oficial](https://twitter.com/LDU_Oficial?ref_src=twsrc%5Etfw) se adelante en el marcador tras un centro de Piovi.[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/kQfpVFznAp](https://t.co/kQfpVFznAp)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [November 3, 2024](https://twitter.com/zapping_ecu/status/1853186266784833611?ref_src=twsrc%5Etfw)
-
-En la segunda mitad, el equipo de **Pablo ‘Vitamina’ Sánchez dominó el esférico** y fue quien más remates al arco intentó, aunque no tuvo la misma fortuna que en el primer tiempo.
-
-**Emelec**, por su parte, tuvo una oportunidad de oro a los 60 minutos con un **cabezazo** de Joao Quiñónez, que Alexander Domínguez no alcanzó a reaccionar y se estrelló en el **poste**.
-
-Para el último cuarto de hora, el **‘Bombillo’ despertó y empezó a llegar con más frecuencia** al área rival, pero no estuvieron finos de cara a portería.
-
-Finalmente, el gol de **Ezequiel Piovi** fue suficiente para que Liga de Quito se llevara los tres puntos en un estadio donde no ganaba desde hace seis años.
-
-No te pierdas nuestro Especial de Halloween
--------------------------------------------
-
-Comisión para reforma sobre bases militares extranjeras en Ecuador tiene Presidenta
-===================================================================================
-
-La reforma a la Constitución sobre bases militares extranjeras en Ecuador está en la Asamblea Nacional.
--------------------------------------------------------------------------------------------------------
-
-![El Pleno de la Asamblea definió la comisión que tratará la reforma sobre bases militares extranjeras.](https://www.elcomercio.com/wp-content/uploads/2024/11/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-2.jpg)
-
-La propuesta del presidente **Daniel Noboa**, sobre reformar la Constitución de la República para la operación de bases militares extranjeras en Ecuador, está en manos de una comisión ocasional en la **[Asamblea Nacional](https://www.asambleanacional.gob.ec/es/noticia/101181-comision-que-tratara-la-reforma-parcial-la-constitucion)**.
-
-Este domingo, 3 de noviembre de 2024, la delegación definida en el **Pleno del Legislativo**, eligió a las cabezas de la delegación.
-
-### Más noticias
-
-* [Asamblea define la comisión para tratar sobre bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/asamblea-definio-comision-propuesta-bases-militares-extranjeras.html "Asamblea define la comisión para tratar sobre  bases militares extranjeras")
-* [Propuesta de Daniel Noboa sobre bases militares extranjeras irá al Pleno de la Asamblea](https://www.elcomercio.com/actualidad/politica/propuesta-daniel-noboa-bases-militares-extranjeras-pleno-asamblea.html "Propuesta de Daniel Noboa sobre bases militares extranjeras irá al Pleno de la Asamblea")
-* [Daniel Noboa envió a la Asamblea proyecto de bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/daniel-noboa-envio-asamblea-proyecto-bases-militares-extranjeras-constitucion-reforma.html "Daniel Noboa envió a la Asamblea proyecto de bases militares extranjeras")
-
-Bases militares extranjeras y la Asamblea Nacional
---------------------------------------------------
-
-La Comisión está integrada por **Gissela Garzón, Sofía Sánchez, Mariana Yumbay, Arturo Ugsha, Rafael Dávila, Nathaly Murillo y Jorge Peñafiel**.
-
-Por medio de una sesión virtual, la comisión ocasional definió a los dos **legisladores** que, desde este 3 de octubre, presiden la delegación.
-
-Se trata de **Gissela Garzón y Rafael Dávila**, quienes ejercerán como presidenta y vicepresidente, respectivamente.
-
-> [#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw)  
-> Comisión que tratará la reforma parcial a la Constitución eligió a su Presidenta y Vicepresidente  
-> Más detalles en el siguiente link ➡️ [https://t.co/SeQbTqDaq4](https://t.co/SeQbTqDaq4) [pic.twitter.com/WKZvcAMIih](https://t.co/WKZvcAMIih)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [November 3, 2024](https://twitter.com/AsambleaEcuador/status/1853198476752146755?ref_src=twsrc%5Etfw)
-
-Los legisladores tienen la tarea de analizar la reforma al artículo 5 de la **Constitución de la República**, relacionado con el tema de las bases militares extranjeras en Ecuador.
-
-Eso tras la propuesta de **Daniel Noboa** y el visto bueno de la Corte Constitucional.
-
-La legisladora **Gissela Garzón** informó que en la próxima sesión se avocará conocimiento del proyecto de reforma constitucional y se presentará el cronograma de actividades. El proyecto de reforma ingresó a la Asamblea Nacional, el 17 de octubre de 2024.
-
-Normativa para reforma a la Constitución
-----------------------------------------
-
-La restricción para las operaciones de bases militares extranjeras en Ecuador se instauró durante el mandato de **Rafael Correa**.
-
-El último rastro fue la **Base de Manta**, que cerró en 2009. Esta funcionaba a través de un acuerdo bilateral.
-
-Las reformas a la Constitución tienen varias vías: consulta popular, reforma parcial o asamblea constituyente. **Daniel Noboa** se inclinó por la segunda.
-
-Luego de la **Asamblea**, el proceso sigue con la convocatoria al referendo. Este mecanismo procede cuando el cambio al texto constitucional afecte el carácter o los elementos constitutivos del Estado.
-
-La pregunta propuesta es: **“¿Está usted de acuerdo con eliminar la prohibición de establecer bases militares extranjeras o instalaciones extranjeras con propósitos militares en el territorio nacional, y de ceder bases militares nacionales a fuerzas armadas o de seguridad extranjeras, reformando parcialmente la Constitución de conformidad con el Anexo de la pregunta?”**.
-
-  
-
-Horarios de cortes de luz en Quito para este 4 de noviembre
-===========================================================
-
-Cortes de luz en Quito se extienden desde lapsos de seis horas.
----------------------------------------------------------------
-
-![Imagen referencial de cortes de luz por crisis en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz.jpg)
-
-En el último día de **feriado**, este 4 de noviembre de 2024, por el **Día de Difuntos** e Independencia de Cuenca, los **cortes de luz** se mantendrán en Quito. Los horarios están definidos.
-
-La suspensión de energía eléctrica tiene franjas de seis y ocho horas. Se puede consultar el detalle de sectores a través de la [Empresa Eléctrica Quito (EEQ)](https://www.eeq.com.ec/cortes-de-servicio1).
-
-### Más noticias
-
-* [Horarios de cortes de luz en Ecuador bajarán del 5 al 10 de noviembre](https://www.elcomercio.com/actualidad/negocios/horario-cortes-luz-ecuador-bajaran-noviembre.html "Horarios de cortes de luz en Ecuador bajarán del 5 al 10 de noviembre")
-* [Cortes de luz en Guayaquil, con nuevos horarios del 1 al 4 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-nuevos-horarios-1-al-4-de-noviembre.html "Cortes de luz en Guayaquil, con nuevos horarios del 1 al 4 de noviembre")
-* [La central hidroeléctrica Mazar reanudó sus operaciones](https://www.elcomercio.com/actualidad/negocios/central-hidroelectrica-mazar-reanudo-operaciones.html "La central hidroeléctrica Mazar reanudó sus operaciones")
-
-Cortes de luz en sectores de Quito
-----------------------------------
-
-En los horarios de **cortes de luz** hay diferenciación por **sectores residencial**es y las zonas industriales. En el primer caso, los racionamientos se extenderán durarán seis horas diarias y en el segundo, hasta por 14.
-
-En sitios como Río Coca, los apagones van de 07:00 a 10:00 y de 21:00 a 24:00. Lo propio está definido para **Miraflores, Conocoto, Tumbaco y Cumbayá**.
-
-En cambio, en zonas como **Chilibulo, La Floresta, Cristianía, Luluncoto y Epiclachima**, los racionamientos están fijado de 09:00 a 12:00 y de 18:00 a 21:00.
-
-El avance de la crisis energética
----------------------------------
-
-Los ajustes en los horarios se dieron luego de las recientes lluvias en la cuenca hidrográfica oriental. Estas mejoraron las condiciones de los ríos que abastecen la central hidroeléctrica **Coca Codo Sinclair**.
-
-Consejos por los cortes de luz
-------------------------------
-
-Para los periodos de cortes de luz es necesario contar con **linternas** en buen estado, una por cada integrante de la familia, con baterías de repuesto. Otra opción es adquirir focos recargables que estén con batería máxima.
-
-Mantener cargado el celular al 100% antes del **apagón** es fundamental, aunque podrían darse problemas de conexión debido a los cortes de energía.
-
-A la par, es menester contar con combustible suficiente en su **vehículo** para, de ser necesario, salir a un punto seguro. No se debe dejar objetos de fácil acceso en el automotor o en el entorno del domicilio.
-
-Tener **agua** suficiente para cualquier necesidad básica, pues, también están previstos racionamientos de agua. De igual forma, el botiquín debe estar abastecido.
-
-Max Verstappen arrasó en el Gran Premio de Sao Paulo de la Fórmula 1
-====================================================================
-
-Max Verstappen dio un golpe de autoridad en la pelea por su cuarto título mundial de la Fórmula 1.
---------------------------------------------------------------------------------------------------
-
-![Max Verstappen celebra que ganó el Gran Premio de Sao Paulo de la Fórmula 1](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-73.jpg)
-
-**Max Verstappen** amplió su ventaja en el campeonato de Fórmula Uno al lograr una impresionante victoria en el **Gran Premio de Sao Paulo**. Este fue el vigésimo primer evento de la temporada, que tuvo lugar este domingo 3 de noviembre en el circuito de Interlagos.
-
-Verstappen, de 27 años, **decimoséptimo en la salida** \-fue duodécimo en la calificación y recibió una sanción de cinco puestos en parrilla-, protagonizó la remontada del día para firmar su sexagésima segunda victoria en la categoría reina.
-
-### Más noticias:
-
-* [Leclerc y Sainz hacen ‘uno-dos’ con Ferrari en la Fórmula 1](https://www.elcomercio.com/deportes/formula-1-gran-premio-estados-unidos-leclerc-sainz.html "Leclerc y Sainz hacen ‘uno-dos’ con Ferrari en la Fórmula 1")
-* [El experimentado Daniel Ricciardo abandona la Fórmula 1](https://www.elcomercio.com/deportes/daniel-ricciardo-formula-uno-retiro.html "El experimentado Daniel Ricciardo abandona la Fórmula 1")
-* [Kendry Páez anotó en la victoria de Independiente del Valle](https://www.elcomercio.com/deportes/futbol/kendry-paez-anoto-en-la-victoria-de-independiente-del-valle.html "Kendry Páez anotó en la victoria de Independiente del Valle")
-
-Además, con este triunfo, el piloto de **Red Bull logró la octava del curso,** ganando -con la vuelta rápida, incluida- por delante de los dos pilotos de Alpine, los franceses Esteban Ocon y Pierre Gasly, que fueron segundo y tercero, respectivamente.
-
-Max Verstappen y una espectacular carrera
------------------------------------------
-
-Verstappen, que no ganaba desde el **Gran Premio de España**, en Montmeló (Barcelona) dio un paso importante hacia su cuarto título. A falta de tres pruebas para el cierre, el próximo 8 de diciembre en Abu Dabi.
-
-El ídolo deportivo de los Países Bajos **lidera ahora el Mundial con 393 puntos**. Tiene 62 más que el inglés Lando Norris (McLaren), que concluyó sexto después de haber salido desde la ‘pole’.
-
-El mexicano **Sergio Pérez** (Red Bull) concluyó undécimo, tres puestos por delante del doble campeón mundial asturiano Fernando Alonso (Aston Martin), decimocuarto.
-
-El otro español, Carlos Sainz (Ferrari), y el **argentino Franco Colapinto** (Williams) abandonaron a causa de sendos accidentes, sin lamentar daños personales.
-
-En el que fue, de lejos, el mejor fin de semana del año de Alpine -que colocó a sus dos pilotos en el podio, a ambos lados del astro neerlandés y que avanzó al sexto puesto del Mundial de constructores-, el inglés George Russell (Mercedes) y el monegasco **Charles Leclerc** (Ferrari) concluyeron cuarto y quinto, respectivamente.
-
-Séptimo, por detrás de Norris -el gran derrotado de la jornada- fue el japonés Yuki Tsunoda (RB), que se clasificó un puesto por delante del otro McLaren, el del australiano Oscar Piastri.
-
-El neozelandés **Liam Lawson** (RB) y el séptuple campeón mundial inglés Lewis Hamilton (Mercedes), que fue décimo, también entraron en los puntos.
-
-¿Cuándo es la próxima carrera?
-------------------------------
-
-La próxima prueba, el **Gran Premio de Las Vegas**, el antepenúltimo del Mundial, se disputará el próximo 24 de noviembre. Se realizará en el circuito urbano de esa localidad del estado de Nevada. 
-
-No te pierdas nuestro Especial de Halloween
--------------------------------------------
