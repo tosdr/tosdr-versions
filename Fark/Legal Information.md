@@ -232,9 +232,7 @@ If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Total access  
-Total knowledge  
-Total Fark
+More Farking, less working
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Before making a donation to a war museum, make sure your donation won't require a visit from the bomb squad](https://www.fark.com/goto/13451366) ( [spokesman.com](https://www.fark.com/goto/13451366) ) » [(0 comments)](https://www.fark.com/comments/13451366/Before-making-a-donation-to-a-war-museum-make-sure-your-donation-wont-require-a-visit-from-bomb-squad) |
-| [Discussion](https://www.fark.com/discussion/) | [Will ZSJ fend off The Dragon's challenge? Can Taichi dethrone David Finlay? Who will win the 2024 Super Jr. Tag League? POWER STRUGGLE: SUPER Jr. TAG LEAGUE starts @ 1:00 AM ET on NJPWWorld.com, the King of Sports](https://www.fark.com/goto/13451004) ( [news.njpw1972.com](https://www.fark.com/goto/13451004) ) » [(10 comments)](https://www.fark.com/comments/13451004/Will-ZSJ-fend-off-The-Dragons-challenge-Can-Taichi-dethrone-David-Finlay-Who-will-win-2024-Super-Jr-Tag-League-POWER-STRUGGLE-SUPER-Jr-TAG-LEAGUE-starts-100-AM-ET-on-NJPWWorldcom-King-of-Sports) |
-| [Sports](https://www.fark.com/sports/) | [Texas high school football is okay with naming stadiums after men that covered up rape allegations just so long as they won football games](https://www.fark.com/goto/13451166) ( [kwtx.com](https://www.fark.com/goto/13451166) ) » [(4 comments)](https://www.fark.com/comments/13451166/Texas-high-school-football-is-okay-with-naming-stadiums-after-men-that-covered-up-rape-allegations-just-so-long-as-they-won-football-games) |
-| [Business](https://www.fark.com/business/) | [When your tech company gives you the boot, it's time to put on the apron and shuck oysters](https://www.fark.com/goto/13451074) ( [cnbc.com](https://www.fark.com/goto/13451074) ) » [(2 comments)](https://www.fark.com/comments/13451074/When-your-tech-company-gives-you-boot-its-time-to-put-on-apron-shuck-oysters) |
-| [STEM](https://www.fark.com/stem/) | [It's a streetlight](https://www.fark.com/goto/13451122) ( [futurism.com](https://www.fark.com/goto/13451122) ) » [(2 comments)](https://www.fark.com/comments/13451122/Its-a-streetlight) |
-| [Entertainment](https://www.fark.com/entertainment/) | [MrBeast investigates MrBeast, determines MrBeast did nothing wrong](https://www.fark.com/goto/13451100) ( [yahoo.com](https://www.fark.com/goto/13451100) ) » [(3 comments)](https://www.fark.com/comments/13451100/MrBeast-investigates-MrBeast-determines-MrBeast-did-nothing-wrong) |
-| [Fandom](https://www.fark.com/fandom/) | [Luke Skywalker and Han Solo both endorsed Kamala Harris. Emperor Palpatine inconsolable](https://www.fark.com/goto/13450458) ( [rollingstone.com](https://www.fark.com/goto/13450458) ) » [(53 comments)](https://www.fark.com/comments/13450458/Luke-Skywalker-Han-Solo-both-endorsed-Kamala-Harris-Emperor-Palpatine-inconsolable) |
+| [Main](https://www.fark.com/) | [Don't mess with a Missionary Man](https://www.fark.com/goto/13451126) ( [news.yahoo.com](https://www.fark.com/goto/13451126) ) » [(10 comments)](https://www.fark.com/comments/13451126/Dont-mess-with-a-Missionary-Man) |
+| [Discussion](https://www.fark.com/discussion/) | [\*points at everything\*](https://www.fark.com/goto/13451392) ( [psychologytoday.com](https://www.fark.com/goto/13451392) ) » [(2 comments)](https://www.fark.com/comments/13451392/points-at-everything) |
+| [Sports](https://www.fark.com/sports/) | [It's all fun and games until you lose next week because the NFL not only suspends your star defensive player for flipping the refs and the crowd "the bird", but half your defense for reposting that gesture on social media to criticize the refs](https://www.fark.com/goto/13451330) ( [msn.com](https://www.fark.com/goto/13451330) ) » [(8 comments)](https://www.fark.com/comments/13451330/Its-all-fun-games-until-you-lose-next-week-because-NFL-not-only-suspends-your-star-defensive-player-for-flipping-refs-the-crowd-bird-but-half-your-defense-for-reposting-that-gesture-on-social-media-to-criticize-refs) |
+| [Business](https://www.fark.com/business/) | [Xitter has started unblocking block feature, on instruction by blockchain-obsessed blockhead](https://www.fark.com/goto/13451446) ( [gizmodo.com](https://www.fark.com/goto/13451446) ) » [(7 comments)](https://www.fark.com/comments/13451446/Xitter-has-started-unblocking-block-feature-on-instruction-by-blockchain-obsessed-blockhead) |
+| [STEM](https://www.fark.com/stem/) | [Looks like somebody's going to get a November surprise](https://www.fark.com/goto/13451156) ( [weartv.com](https://www.fark.com/goto/13451156) ) » [(2 comments)](https://www.fark.com/comments/13451156/Looks-like-somebodys-going-to-get-a-November-surprise) |
+| [Entertainment](https://www.fark.com/entertainment/) | [\[Dawson's\_Creek\_Crying.gif\]](https://www.fark.com/goto/13451142) ( [cnn.com](https://www.fark.com/goto/13451142) ) » [(5 comments)](https://www.fark.com/comments/13451142/Dawsons_Creek_Cryinggif) |
+| [Fandom](https://www.fark.com/fandom/) | [Artist launches GoFundMe in hopes of restoring their masterpiece to its previous glory. Fark: A 1990 Volvo station wagon](https://www.fark.com/goto/13451184) ( [sfstandard.com](https://www.fark.com/goto/13451184) ) » [(5 comments)](https://www.fark.com/comments/13451184/Artist-launches-GoFundMe-in-hopes-of-restoring-their-masterpiece-to-its-previous-glory-Fark-A-1990-Volvo-station-wagon) |
 | [D'awww](https://www.fark.com/dawww/) | [Light-saber photography](https://www.fark.com/goto/13450476) ( [bbc.com](https://www.fark.com/goto/13450476) ) » [(11 comments)](https://www.fark.com/comments/13450476/Light-saber-photography) |
-| [Food](https://www.fark.com/food/) | [Forgotten New England dessert is apparently now popular in Japan, but could it regain popularity here in the states?](https://www.fark.com/goto/13451280) ( [wbznewsradio.iheart.com](https://www.fark.com/goto/13451280) ) » [(1 comment)](https://www.fark.com/comments/13451280/Forgotten-New-England-dessert-is-apparently-now-popular-in-Japan-but-could-it-regain-popularity-here-in-states) |
-| [Politics](https://www.fark.com/politics/) | [Thank you for your email. This is an automated response to let you know that I will be away from my desk on Wednesday, November 6](https://www.fark.com/goto/13451214) ( [mcsweeneys.net](https://www.fark.com/goto/13451214) ) » [(5 comments)](https://www.fark.com/comments/13451214/Thank-you-for-your-email-This-is-an-automated-response-to-let-you-know-that-I-will-be-away-from-my-desk-on-Wednesday-November-6) |
+| [Food](https://www.fark.com/food/) | [New copyright law means that you may finally be able to taste a McFlurry](https://www.fark.com/goto/13451488) ( [npr.org](https://www.fark.com/goto/13451488) ) » [(1 comment)](https://www.fark.com/comments/13451488/New-copyright-law-means-that-you-may-finally-be-able-to-taste-a-McFlurry) |
+| [Politics](https://www.fark.com/politics/) | [NYT is preparing for lawsuits if Donold wins and their sanewashing of Trump had nothing to do with fears of a Trump presidency it was just them standing up to the Liberals, farking Liberals the New York Times hates farking Liberals](https://www.fark.com/goto/13451510) ( [mediaite.com](https://www.fark.com/goto/13451510) ) » [(13 comments)](https://www.fark.com/comments/13451510/NYT-is-preparing-for-lawsuits-if-Donold-wins-their-sanewashing-of-Trump-had-nothing-to-do-with-fears-of-a-Trump-presidency-it-was-just-them-standing-up-to-Liberals-farking-Liberals-New-York-Times-hates-farking-Liberals) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 04 2024 02:43:09  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 04 2024 08:42:38  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
