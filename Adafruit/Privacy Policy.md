@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Hardware eventually fails. Software eventually works”
+“ Adversity is revealing of character”
 
-[Michael Hartung](http://www.ibm.com/ibm/greateribm/connections/connections_article40.shtml)
+[Unknown](https://www.adafruit.com/quotes)
 
 [](https://www.adafruit.com/about)
 
