@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/us-vaccinatierechtbank-vergoedt-vaccinatieschade/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/is-janet-ossebaard-nog-in-leven/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
