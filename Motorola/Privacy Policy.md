@@ -19,9 +19,9 @@
     
     Compare
     
-    * [* razr+ 2024 - $200 off](https://www.motorola.com/us/smartphones-razr-plus-gen-2/p "razr+ 2024 - $200 off")
+    * [* razr+ 2024 - Free BOSE EARBUDS](https://www.motorola.com/us/smartphones-razr-plus-gen-2/p "razr+ 2024 - Free BOSE EARBUDS")
     * [* razr 2023 - $350 off](https://www.motorola.com/us/smartphones-razr-gen-3/p?skuId=984 "razr 2023 - $350 off")
-    * [* HARVEST SALE](https://www.motorola.com/us/specials "HARVEST  SALE")
+    * [* LEAK SALE](https://www.motorola.com/us/specials "LEAK  SALE")
     * [* Compare phones](https://www.motorola.com/us/compare-smartphones "Compare phones")
     * [* Tablet](https://www.motorola.com/us/lenovo-tab-p11/p "Tablet")
     * [](#)
