@@ -357,8 +357,8 @@ SEARCH LOCATIONS
 
 * [About Us](https://waxcenter.com/pages/about-us)
 * [Franchising](https://waxcenter.com/pages/ewc-franchise-page)
-* [Corporate Careers](https://careers.waxcenter.com/corporate)
-* [In Center Careers](https://careers.waxcenter.com/careers-home)
+* [Corporate Careers](https://waxcenter.com/pages/corporate-careers)
+* [In Center Careers](https://waxcenter.com/pages/in-center-careers)
 * [Hygiene Safety Standards](https://waxcenter.com/pages/hygiene-standards)
 * [Investors](https://investors.waxcenter.com/)
 
