@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/11/photography-arjun-mark-feature.jpg)
+
+[](https://theinspirationgrid.com/creative-beauty-photography-by-arjun-mark/)
+
+### Creative Beauty Photography by Arjun Mark
+
+![](https://inspgr.id/app/uploads/2024/11/illustration-mark-long-feature.jpg)
+
+[](https://theinspirationgrid.com/editorial-illustrations-by-mark-long/)
+
+### Playful Editorial Illustrations by Mark Long
+
 ![](https://inspgr.id/app/uploads/2024/10/art-cote-escriva-feature.jpg)
 
 [](https://theinspirationgrid.com/creepy-disney-art-toys-by-cote-escriva/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/adorable-mythical-creature-illustrations-by-amrit-pal-singh/)
 
 ### Mythical Creatures Illustrated by Amrit Pal Singh
-
-![](https://inspgr.id/app/uploads/2024/10/photography-dasha-pears-24-feature.jpg)
-
-[](https://theinspirationgrid.com/psychorealism-surreal-images-by-dasha-pears/)
-
-### Psychorealism: Surreal Images by Dasha Pears
-
-![](https://inspgr.id/app/uploads/2024/10/art-max-siedentopf-feature.jpg)
-
-[](https://theinspirationgrid.com/democracy-other-hyper-realistic-sculptures-by-max-siedentopf/)
-
-### Democracy & Other Hyper-Realistic Sculptures by Max Siedentopf
 
 Awesome products for creatives
 ------------------------------
