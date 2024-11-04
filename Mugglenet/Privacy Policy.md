@@ -338,15 +338,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Hogwarts school motto, Draco Dormiens Nunquam Titillandus, means “Never Tickle a Sleeping Dragon.”
+There is a rumor that when the House points counter was built for the “Harry Potter” film series, it caused a nationwide shortage of Indian glass beads.
 
 ### Potter History
 
-July 16, 2009 – Harry Potter and the Half-Blood Prince film breaks records to have the highest grossing first 24 hours of all time.
+June 23, 2011 – Pottermore was announced in a YouTube video.
 
 ### Potter Quote
 
-“The disapproval of cowards is praise to the brave.”
+“That is the enemy – their arrogance, their power lust, their barbarity. He’s the key to our victory.”
 
 [](#)
 
