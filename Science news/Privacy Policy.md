@@ -184,7 +184,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-    * * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
+    * * [Astronomy](https://www.sciencenews.org/topic/astronomy)
+            
+            ### [A zombie star’s spiky filaments shed light on a 12th century supernova](https://www.sciencenews.org/article/zombie-star-supernova-filaments)
+            
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")1 hour ago
+            
+        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
             ### [50 years ago, scientists found a new moon orbiting Jupiter](https://www.sciencenews.org/article/50-years-ago-jupiter-new-moon)
             
@@ -195,12 +201,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [A distant quasar’s black hole is oddly huge for its galaxy](https://www.sciencenews.org/article/quasar-black-hole-oddly-huge)
             
             By [Ken Croswell](https://www.sciencenews.org/author/ken-croswell "Posts by Ken Croswell")November 1, 2024
-            
-        * [Science & Society](https://www.sciencenews.org/topic/science-society)
-            
-            ### [Using AI, historians track how astronomy ideas spread in the 16th century](https://www.sciencenews.org/article/artificial-intelligence-astronomy-ai)
-            
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")October 30, 2024
             
 
 Privacy Policy
