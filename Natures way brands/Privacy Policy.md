@@ -1417,7 +1417,7 @@ Effective: March 31, 2024                   Last updated: April
 
 [![Nature's Way](//naturesway.com/cdn/shop/files/New_logo.png?v=1703178659)](https://naturesway.com/)
 
-#### Please sign up for our newsletter to receive updates & discounts
+#### Sign up for our newsletter to receive updates & discounts
 
 * [Twitter](https://twitter.com/NaturesWayBrand)
 * [Facebook](https://www.facebook.com/NaturesWayBrands/)
