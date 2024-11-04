@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-1992770c196f7825187c69c9c9c345a3
+db0d384a3e7cacce352664a5f97d09ac
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![10 mm round vintage German blue glass beads](https://www.sojourner.biz/images/cache/glass/GL0153.200.jpg)](https://www.sojourner.biz/beads/glass/10-mm-round-vintage-german-blue-glass-beads.html "10 mm round vintage German blue glass beads")
+[![8 mm by 6 mm oval purple polka dot Czech beads](https://www.sojourner.biz/images/cache/glass/GL0002.200.jpg)](https://www.sojourner.biz/beads/glass/8-mm-by-6-mm-oval-purple-polka-dot-czech-beads.html "8 mm by 6 mm oval purple polka dot Czech beads")
 
-#### [10 mm round vintage German blue glass beads](https://www.sojourner.biz/beads/glass/10-mm-round-vintage-german-blue-glass-beads.html "10 mm round vintage German blue glass beads")
+#### [8 mm by 6 mm oval purple polka dot Czech beads](https://www.sojourner.biz/beads/glass/8-mm-by-6-mm-oval-purple-polka-dot-czech-beads.html "8 mm by 6 mm oval purple polka dot Czech beads")
 
-$7.00
+$8.00
 
 ### Best Sellers
 
