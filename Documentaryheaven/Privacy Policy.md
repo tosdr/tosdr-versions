@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![WiFi Fraud?](/wp-content/thumbnails/809-100x70.png?x53432)
+* [![Freedom Downtime: The Story of Kevin Mitnick](/wp-content/thumbnails/1263-100x70.jpeg?x53432)
     
-    WiFi Fraud?
+    Freedom Downtime: The Story of Kevin Mitnick
     
-    Panorama examines concerns about WiFi Technology.](https://documentaryheaven.com/wifi-fraud/ "WiFi Fraud?")
-* [![An Extra’s Life – On the Set of Band of Brothers](/wp-content/thumbnails/6496-100x70.jpg?x53432)
+    Can you launch a nuclear missile by whistling into a payphone? The unofficial story of Kevin Mitnick, possibly the first citizen in American history to be jailed without a bail-hearing. He went to jai](https://documentaryheaven.com/freedom-downtime-the-story-of-kevin-mitnick/ "Freedom Downtime: The Story of Kevin Mitnick")
+* [![Scotland: The Edge of Europe](/wp-content/thumbnails/12913-100x70.jpg?x53432)
     
-    An Extra’s Life – On the Set of Band of Brothers
+    Scotland: The Edge of Europe
     
-    A behind the scenes look at the experiences of the extras who worked on the HBO mini-series Band of Brothers. Shot entirely on the set in Hatfield, England, this short documentary provides a rare insi](https://documentaryheaven.com/an-extras-life-on-the-set-of-band-of-brothers/ "An Extra’s Life – On the Set of Band of Brothers")
-* [![Richard Ramirez: The Night Stalker](/wp-content/thumbnails/16447-100x70.jpg?x53432)
+    Scotland sits on the very edge of the continent but how European is this nation located on the geographical margin? This film predates the Brexit vote but still provides us with an interesting lo](https://documentaryheaven.com/scotland-edge-of-europe/ "Scotland: The Edge of Europe")
+* [![The Elephant in the Room](/wp-content/thumbnails/745-100x70.png?x53432)
     
-    Richard Ramirez: The Night Stalker
+    The Elephant in the Room
     
-    In 1985 Los Angeles would be terrorized by a series of brutal sexual assaults and murders. Man, women, the elderly, and children were all in the sadistic killer's sights. This indiscriminate targetin](https://documentaryheaven.com/richard-ramirez-night-stalker/ "Richard Ramirez: The Night Stalker")
-* [![Burning Desire The Seduction of Smoking](/wp-content/thumbnails/8872-100x70.jpeg?x53432)
+    The Elephant in the Room is a documentary following British filmmaker Dean Puckett through his journey into the 9/11 Truth Movement: a global movement of ‘conspiracy theorists’ who believe that th](https://documentaryheaven.com/elephant-in-the-room/ "The Elephant in the Room")
+* [![Half Ton World](/wp-content/thumbnails/9579-100x70.jpg?x53432)
     
-    Burning Desire The Seduction of Smoking
+    Half Ton World
     
-    Cigarettes are the most lethal consumer product on the planet, every year over 5 million customers of the tobacco industry die. In this documentary series, Peter Taylor investigates why thousands of y](https://documentaryheaven.com/burning-desire-seduction-of-smoking/ "Burning Desire The Seduction of Smoking")
-* [![North Korean Super Spy](/wp-content/thumbnails/7059-100x70.jpg?x53432)
+    2013 was the year obesity became a worldwide emergency and there are now currently over 300 million people around the world who are now considered to be clinically obese, some of them are truly supers](https://documentaryheaven.com/half-ton-world/ "Half Ton World")
+* [![GAEA GIRLS](/wp-content/thumbnails/2553-100x70.jpg?x53432)
     
-    North Korean Super Spy
+    GAEA GIRLS
     
-    As the Korean peninsula teeters on the brink of war, North Korea’s former top female spy reveals details behind the rogue state’s most deadly terrorist attack.Kim Hyon Hui is the femme fatale behi](https://documentaryheaven.com/north-korean-super-spy/ "North Korean Super Spy")
+    "This fascinating film follows the physically grueling and mentally exhausting training regimen of several young wanna-be GAEA GIRLS, a group of Japanese women wrestlers. The idea of them may seem lik](https://documentaryheaven.com/gaea-girls/ "GAEA GIRLS")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
