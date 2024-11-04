@@ -90,11 +90,11 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 [Snag a bag and mag!](https://independent-australia.myshopify.com/collections/bags/products/bag-and-mag-bundle-exclusive-subscriber-offer-discounted-price)
 
-['Mistake or misconduct? NACC Inspector's damning findings](https://independentaustralia.net/article-display/mistake-or-misconduct-nacc-inspectors-damning-findings,19124)
+[Some very basic questions for the Reserve Bank of Australia](https://independentaustralia.net/article-display/some-very-basic-questions-for-the-reserve-bank-of-australia,19136)
 
-[Australia gets revenge as Bluey conquers the United States](https://independentaustralia.net/article-display/australia-gets-revenge-as-bluey-conquers-the-united-states,19129)
+[Norway’s economy still leads the world, with Australia and the USA advancing](https://independentaustralia.net/article-display/politics-display/norways-economy-still-leads-the-world-with-australia-and-the-usa-advancing,19137)
 
-[Why Canada has cut permanent migration and Australia shouldn’t](https://independentaustralia.net/article-display/why-canada-has-cut-permanent-migration-and-australia-shouldnt,19127)
+[Trump triumph? It's the end of the world as we know it](https://independentaustralia.net/article-display/trump-triumph-its-the-end-of-the-world-as-we-know-it,19135)
 
 Comments Policy
 
@@ -134,13 +134,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
+* [How Trump might steal election victory from Kamala Harris](https://independentaustralia.net/article-display/how-trump-might-steal-election-victory-from-kamala-harris,19138 "Permanent Link : How Trump might steal election victory from Kamala Harris")
 * [Norway’s economy still leads the world, with Australia and the USA advancing](https://independentaustralia.net/article-display/norways-economy-still-leads-the-world-with-australia-and-the-usa-advancing,19137 "Permanent Link : Norway’s economy still leads the world, with Australia and the USA advancing")
 * [Some very basic questions for the Reserve Bank of Australia](https://independentaustralia.net/article-display/some-very-basic-questions-for-the-reserve-bank-of-australia,19136 "Permanent Link : Some very basic questions for the Reserve Bank of Australia")
 * [POEM: The Odours](https://independentaustralia.net/article-display/poem-the-odours,19132 "Permanent Link : POEM: The Odours")
 * [Trump triumph? It's the end of the world as we know it](https://independentaustralia.net/article-display/trump-triumph-its-the-end-of-the-world-as-we-know-it,19135 "Permanent Link : Trump triumph? It's the end of the world as we know it")
 * [James Reyne — All lit up](https://independentaustralia.net/article-display/james-reyne-all-lit-up,19122 "Permanent Link : James Reyne — All lit up")
 * ['Democracy is a system in which parties lose elections.' So they should](https://independentaustralia.net/article-display/democracy-is-a-system-in-which-parties-lose-elections-so-they-should,19134 "Permanent Link : 'Democracy is a system in which parties lose elections.' So they should")
-* [Terrifier 3 slashes its way into cinematic history](https://independentaustralia.net/article-display/terrifier-3-slashes-its-way-into-cinematic-history,19133 "Permanent Link : Terrifier 3 slashes its way into cinematic history")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
