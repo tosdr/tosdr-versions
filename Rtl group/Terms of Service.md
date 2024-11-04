@@ -307,6 +307,14 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-RTL Deutschland goes Eurovision](/.galleries/images/Eurovision_16-9.jpg?__scale=undefined&description=)
+    
+    RTL Deutschland goes Eurovision
+    
+    04.11.2024
+    
+    RTL Deutschland is joining forces with Stefan Raab and ARD to search for the star act that will represent Germany at the 2025 Eurovision Song Contest.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Deutschland-goes-Eurovision/)
+    
 * [![slide-UFA expands in Hungary](/.galleries/images/Ute-Biernat-Emese-Acs_16-9.jpg?__scale=undefined&description=)
     
     UFA expands in Hungary
@@ -338,14 +346,6 @@ Europe's leading entertainment brand
     28.10.2024
     
     Trends, innovations and ongoing challenges facing the TV and media industry: RTL Group executives participated in panel discussions at one of Europe’s leading conferences, which focused on the role of media in an AI-driven world.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Medientage-Muenchen-2024/)
-    
-* [![slide-Four Blauer Panther Awards for UFA and RTL Deutschland](/.galleries/images/Blue-Panther_16-9.png?__scale=undefined&description=)
-    
-    Four Blauer Panther Awards for UFA and RTL Deutschland
-    
-    25.10.2024
-    
-    Productions from RTL Deutschland and UFA have been honoured at the 2024 Blauer Panther TV & Streaming Awards.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Four-Blauer-Panther-Awards-for-UFA-and-RTL-Deutschland/)
     
 
 [![image-0](/.galleries/images/rtl-group/Career-at-RTL_Photoshooting.jpg)](https://jobsearch.createyourowncareer.com/RTL/?locale=en_US)
