@@ -478,7 +478,7 @@
     
     [See More](https://us.eufy.com/collections/security-accessory?ref=navimenu_2_6_4_2_copy)
     
-* Baby
+* Baby New
     
     1. Baby
     2. Breast Pump
@@ -503,11 +503,11 @@
         
         [Baby Monitors](https://us.eufy.com/collections/baby-monitor?ref=navimenu_3_1_2_copy)
         
-        Peace of Mind, Anytime
+        Constant Care with Hybrid Monitoring
         
         Feature Products
         
-        [Baby Monitor E110](https://us.eufy.com/products/t83001d2?ref=navimenu_3_1_2_1_copy) [Baby Monitor E210](https://us.eufy.com/products/e83121d1?ref=navimenu_3_1_2_2_copy)
+        [Baby Monitor E21](https://us.eufy.com/products/e8354121?ref=navimenu_3_1_2_1_copy) [Baby Monitor E20](https://us.eufy.com/products/e8352121?ref=navimenu_3_1_2_2_copy)
         
         [Shop Baby Monitors](https://us.eufy.com/collections/baby-monitor?ref=navimenu_3_1_2_all_copy) [More About Baby Monitors](https://www.eufy.com/video-baby-monitor?ref=navimenu_3_1_2_more_copy)
         
@@ -545,8 +545,8 @@
     * [Smart Sock S320](https://www.eufy.com/products/e8340132?ref=navimenu_3_3_2_img)
     * [Smart Sock S340 2-Cam Bundle](https://www.eufy.com/products/bundle-e8340133-1-t8360121-1?ref=navimenu_3_3_3_img)
     
-    * [Baby Monitor E110](https://www.eufy.com/products/t83001d2?ref=navimenu_3_4_1_img)
-    * [Baby Monitor E210](https://www.eufy.com/products/e83121d1?ref=navimenu_3_4_2_img)
+    * [Baby Monitor E20](https://www.eufy.com/products/e8352121?ref=navimenu_3_4_1_img)
+    * [Baby Monitor E21](https://www.eufy.com/products/e8354121?ref=navimenu_3_4_2_img)
     * [Baby Monitor E110 2-Cam Bundle](https://www.eufy.com/products/bundle-t83001d2-1-t83101w1-1?ref=navimenu_3_4_3_img)
     
 * Smart Lights New
@@ -676,7 +676,7 @@ Search our shop
 
 * Clean
 * Security New
-* Baby
+* Baby New
 * Smart Lights New
 * Special Offers
 * Business
