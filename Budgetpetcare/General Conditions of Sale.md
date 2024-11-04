@@ -1,10 +1,10 @@
-HALLOWEEN SUPER SALE!
+HOLIDAY SEASON SALE!
 
 20% Off + 10% **Cashback**
 
 on all orders -
 
-Use Code : SPOOKY
+Use Code : HDEALS20
 
 * [![Free Shipping](/images/truck.png)FREE SHIPPING\* | Guaranteed Delivery](https://www.budgetpetcare.com/ship_returns.aspx)
     
