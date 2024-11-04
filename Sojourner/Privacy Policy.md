@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-db0d384a3e7cacce352664a5f97d09ac
+7491a5efabed7e1f77024ed1fa42c2a2
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![8 mm by 6 mm oval purple polka dot Czech beads](https://www.sojourner.biz/images/cache/glass/GL0002.200.jpg)](https://www.sojourner.biz/beads/glass/8-mm-by-6-mm-oval-purple-polka-dot-czech-beads.html "8 mm by 6 mm oval purple polka dot Czech beads")
+[![Murano rosy swirl clasp](https://www.sojourner.biz/images/cache/SKU0409front.200.jpg)](https://www.sojourner.biz/clasps/bracelet-clasps/murano-rosy-swirl-clasp.html "Murano rosy swirl clasp")
 
-#### [8 mm by 6 mm oval purple polka dot Czech beads](https://www.sojourner.biz/beads/glass/8-mm-by-6-mm-oval-purple-polka-dot-czech-beads.html "8 mm by 6 mm oval purple polka dot Czech beads")
+#### [Murano rosy swirl clasp](https://www.sojourner.biz/clasps/bracelet-clasps/murano-rosy-swirl-clasp.html "Murano rosy swirl clasp")
 
-$8.00
+$26.00
 
 ### Best Sellers
 
