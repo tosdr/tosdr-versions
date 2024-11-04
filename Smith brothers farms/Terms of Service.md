@@ -188,7 +188,7 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (43)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (44)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (29)](https://www.smithbrothersfarms.com/on-special)
         
@@ -234,7 +234,7 @@ Hi
         * [Eggs (7)](https://www.smithbrothersfarms.com/eggs)
             
         
-    * [Cheese (57)](https://www.smithbrothersfarms.com/cheese)
+    * [Cheese (58)](https://www.smithbrothersfarms.com/cheese)
         
         * BACK
         * [Block Cheese (6)](https://www.smithbrothersfarms.com/blocks)
@@ -245,7 +245,7 @@ Hi
             
         * [Cream Cheese (10)](https://www.smithbrothersfarms.com/cream-cheese)
             
-        * [Artisan Cheese (12)](https://www.smithbrothersfarms.com/other-cheese)
+        * [Artisan Cheese (13)](https://www.smithbrothersfarms.com/other-cheese)
             
         * [Single Serve (12)](https://www.smithbrothersfarms.com/single-serve-cheeses)
             
@@ -318,12 +318,12 @@ Hi
         * [Coffee (26)](https://www.smithbrothersfarms.com/coffee-2)
             
         
-    * [Snacks (37)](https://www.smithbrothersfarms.com/snacks)
+    * [Snacks (36)](https://www.smithbrothersfarms.com/snacks)
         
         * BACK
         * [Salsa, Dips & Hummus (15)](https://www.smithbrothersfarms.com/salsa)
             
-        * [Chips, Crackers & Nuts (19)](https://www.smithbrothersfarms.com/chips-and-crackers)
+        * [Chips, Crackers & Nuts (18)](https://www.smithbrothersfarms.com/chips-and-crackers)
             
         * [Peanut Butter (3)](https://www.smithbrothersfarms.com/peanut-butter-2)
             
