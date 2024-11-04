@@ -26,7 +26,6 @@ USD CAD
     * [Fundraise](https://mybutchershoppe.com/pages/fundraise)
     * [News/Events](https://mybutchershoppe.com/blogs/news-events)
 * [Order Online](https://mybutchershoppe.com/collections)
-    * [Butcher Bucks](https://mybutchershoppe.com/products/butcher-bucks)
     * [Subs](https://order.toasttab.com/online/big-oak-cafe-410-stouffer-ave)
     * [Pizza](https://order.toasttab.com/online/big-oak-cafe-410-stouffer-ave)
     * [Party Trays](https://mybutchershoppe.com/collections/party-trays)
