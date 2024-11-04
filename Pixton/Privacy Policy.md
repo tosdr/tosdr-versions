@@ -12,7 +12,7 @@
 Data Processing Addendum
 ========================
 
-_Last Update: May, 2024_
+_Last Update: November, 2024_
 
 THIS DATA PROCESSING ADDENDUM (“DPA”) is entered into and forms part of the Terms of Use (the “Agreement”) by and between: (1) Pixton Comics Inc. (“Vendor” or “Pixton”); and (2) the entity or other person (“Customer”) who is a counterparty to the Agreement (together the “Parties” and each a “Party”).
 
@@ -50,7 +50,13 @@ THIS DATA PROCESSING ADDENDUM (“DPA”) is entered into and forms part of the 
 
 **International data transfers from and to Canada.** Pixton is resident in Canada and any international data transfers to Pixton are to Canada. Personal Information may be transferred from EU Member States and the EEA member countries (Norway, Liechtenstein, and Iceland) (collectively, “EEA”) to countries offering an adequate level of data protection. The European Commission has determined Canada, including PIPEDA to which Pixton is subject in respect of the international transfer of Personal Information, provides an adequate level of data protection as reflected in the adequacy decisions (“Adequacy Decision”), as relevant and applicable, without any further safeguard being necessary. On the basis that Pixton is subject to PIPEDA including in respect of the international transfer of Personal Information, the Adequacy Decision, and the data protection provisions in this DPA, the Parties are not implementing additional safeguards such as SCCs.
 
+**Customer audit rights.** Pixton shall provide Customer with reasonable assistance so that the Customer may verify Pixton’s compliance with its obligations under this DPA, and to satisfy any audit or inspection request by Customer that is mandated under Applicable Law.
+
+**Assistance with customer’s other data protection rights and obligations.** Taking into account the nature of the Processing and the information available to Pixton, Pixton will provide assistance as required by Processors to Controllers under Applicable Law, including the assistance required under Article 28(3) of the GDPR (and the corresponding provisions of the UK GDPR) including to demonstrate compliance, to the extent such assistance is applicable to Pixton’s Processing of the Customer’s Personal Information.
+
 **Return and deletion.** Subject to Applicable Law, Pixton will retain Personal Information associated with an Account as long as is reasonably necessary to comply with Pixton’s legitimate business purposes, legal requirements, and Applicable Laws.
+
+**Liability.** The total aggregate liability of either Party towards the other Party, howsoever arising, under or in connection with this DPA will under no circumstances exceed any limitations or caps on, and shall be subject to any indemnities and exclusions of liability agreed by the Parties in the Agreement; provided that this will not affect any Party’s direct liability to third-party individuals under relevant third-party beneficiary provisions of Applicable Law, such as Article 82 of the GDPR (and the corresponding provisions of the UK GDPR), if and as they apply.
 
 **Reasonable changes to comply with Applicable Laws.** Customer shall not unreasonably withhold or delay agreement to any consequential variations to this DPA proposed by Pixton to protect either Party against additional risks associated with the transfer and processing of Personal Information. If Customer proposes any other variations to this DPA which it reasonably considers to be necessary to address the requirements of Applicable Laws, the Parties shall promptly discuss the proposed variations and negotiate in good faith with a view to agreeing and implementing those or alternative variations as soon as is reasonably practicable. Notwithstanding the foregoing, upon notice to the Customer, Pixton may revise this DPA so as to incorporate any mandatory data protection provisions, standard contractual clauses (known as SCCs) or other terms that are required by any relevant competent data protection authority under Applicable Law.
 
