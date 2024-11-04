@@ -1,6 +1,6 @@
-[Old Navy: Early Black Friday! 50% off deals + 2% Cash Back
+[HP Canada: Black Friday Early Access Sale on now! Save up to 60% + 2% Cash Back
 
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/old-navy-canada?store=old-navy-canada&sourceName=sitewide-sticky-header)
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/hp-canada?store=hp-canada&sourceName=sitewide-sticky-header)
 
 [](https://www.rakuten.ca/)
 
@@ -77,7 +77,9 @@ FR
         
         Recommended Stores
         
-        [icebreaker
+        [Levi's
+        
+        2% Cash Back](https://www.rakuten.ca/levis)[icebreaker
         
         2% Cash Back](https://www.rakuten.ca/icebreaker)[H&M
         
@@ -85,9 +87,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/simons)[Gap Canada
         
-        4% Cash Back](https://www.rakuten.ca/gap-canada)[American Eagle
-        
-        2% Cash Back](https://www.rakuten.ca/american-eagle)
+        4% Cash Back](https://www.rakuten.ca/gap-canada)
         
         Featured Shops & Deals
         
@@ -147,7 +147,7 @@ FR
         
         7.5% Cash Back](https://www.rakuten.ca/hellofresh)[TEMU
         
-        2% Cash Back](https://www.rakuten.ca/temu)
+        3% Cash Back](https://www.rakuten.ca/temu)
         
         Featured Shops & Deals
         
@@ -293,7 +293,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/wayfair)[TEMU
         
-        2% Cash Back](https://www.rakuten.ca/temu)
+        3% Cash Back](https://www.rakuten.ca/temu)
         
         Featured Shops & Deals
         
@@ -379,7 +379,7 @@ FR
         
         10% Cash Back](https://www.rakuten.ca/petsmart)[TEMU
         
-        2% Cash Back](https://www.rakuten.ca/temu)[Rover
+        3% Cash Back](https://www.rakuten.ca/temu)[Rover
         
         Up to $15 Cash Back](https://www.rakuten.ca/rover)[Well.ca
         
