@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Federal Judge Rules Iowa Officials Can Challenge Ballots of Potential Noncitizen Voters](https://www.theepochtimes.com/us/federal-judge-rules-iowa-officials-can-challenge-ballots-of-potential-noncitizen-voters-5753408)
+    
+    NEW By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![Federal Judge Rules Iowa Officials Can Challenge Ballots of Potential Noncitizen Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Federal Judge Rules Iowa Officials Can Challenge Ballots of Potential Noncitizen Voters](https://img.theepochtimes.com/assets/uploads/2019/12/28/midterm-voting-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-rules-iowa-officials-can-challenge-ballots-of-potential-noncitizen-voters-5753408)
+* [Harris to Make Final Pitch in Pivotal Pennsylvania With 3 Rallies](https://www.theepochtimes.com/us/harris-to-make-final-pitch-in-pivotal-pennsylvania-with-3-rallies-5753384)
+    
+    NEW By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    
+    [![Harris to Make Final Pitch in Pivotal Pennsylvania With 3 Rallies](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Harris to Make Final Pitch in Pivotal Pennsylvania With 3 Rallies](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753386-Harris-in-Michigan-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-to-make-final-pitch-in-pivotal-pennsylvania-with-3-rallies-5753384)
 * [GOP Underdog Gaining Momentum in Nevada US Senate Race](https://www.theepochtimes.com/us/gop-underdog-gaining-momentum-in-nevada-us-senate-race-5753269)
     
-    1hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    7hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
     
     [![GOP Underdog Gaining Momentum in Nevada US Senate Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![GOP Underdog Gaining Momentum in Nevada US Senate Race](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753400-race_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/gop-underdog-gaining-momentum-in-nevada-us-senate-race-5753269)
 * [State Treasurers Urge Public Pension Funds to Divest From China](https://www.theepochtimes.com/business/state-treasurers-urge-public-pension-funds-to-divest-from-china-5753204)
     
-    3hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    9hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
     
     [![State Treasurers Urge Public Pension Funds to Divest From China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![State Treasurers Urge Public Pension Funds to Divest From China](https://img.theepochtimes.com/assets/uploads/2023/09/13/id5528310-ChinaGettyImages-930380954-205x123.jpg.webp)](https://www.theepochtimes.com/business/state-treasurers-urge-public-pension-funds-to-divest-from-china-5753204)
 * [Medicare, Chronic Disease, and Drug Prices: Where Trump and Harris Stand on Health Policy](https://www.theepochtimes.com/us/medicare-chronic-disease-and-drug-prices-where-trump-and-harris-stand-on-health-policy-5751175)
     
-    4hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
+    10hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
     
     [![Medicare, Chronic Disease, and Drug Prices: Where Trump and Harris Stand on Health Policy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Medicare, Chronic Disease, and Drug Prices: Where Trump and Harris Stand on Health Policy](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752939-Untitled_Artwork-8-205x123.jpg.webp)](https://www.theepochtimes.com/us/medicare-chronic-disease-and-drug-prices-where-trump-and-harris-stand-on-health-policy-5751175)
 * [Pennsylvania Investigating Possible Fraudulent Voter Registration Forms, Top Election Official Says](https://www.theepochtimes.com/us/pennsylvania-investigating-possible-fraudulent-voter-registration-forms-top-election-official-says-5753275)
     
-    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    10hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Pennsylvania Investigating Possible Fraudulent Voter Registration Forms, Top Election Official Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Pennsylvania Investigating Possible Fraudulent Voter Registration Forms, Top Election Official Says](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753377-mail-in-ballot-GettyImages-2181265963-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-investigating-possible-fraudulent-voter-registration-forms-top-election-official-says-5753275)
 * [RFK Jr. Says Trump Would Push to End Adding Fluoride to Drinking Water](https://www.theepochtimes.com/us/rfk-jr-says-trump-would-push-to-end-adding-fluoride-to-drinking-water-5753245)
     
-    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    11hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![RFK Jr. Says Trump Would Push to End Adding Fluoride to Drinking Water](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![RFK Jr. Says Trump Would Push to End Adding Fluoride to Drinking Water](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750483-09102024-DSC08867-RFK-JR-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/rfk-jr-says-trump-would-push-to-end-adding-fluoride-to-drinking-water-5753245)
 * [Majority of Gen Z Are of Voting Age This Year—Here Are the Issues They Care About Most](https://www.theepochtimes.com/article/majority-of-gen-z-of-voting-age-this-year-here-are-the-issues-they-care-about-most-5751580)
     
-    6hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson) and [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    12hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson) and [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
     [![Majority of Gen Z Are of Voting Age This Year—Here Are the Issues They Care About Most](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Majority of Gen Z Are of Voting Age This Year—Here Are the Issues They Care About Most](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753195-grey-205x123.jpg.webp)](https://www.theepochtimes.com/article/majority-of-gen-z-of-voting-age-this-year-here-are-the-issues-they-care-about-most-5751580)
 * [Harris Confirms She Voted by Mail, Doesn’t Say If She Voted for California’s Crime Measure](https://www.theepochtimes.com/us/harris-confirms-she-voted-by-mail-declines-to-say-if-she-voted-for-californias-crime-measure-5753280)
     
-    6hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    12hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
     [![Harris Confirms She Voted by Mail, Doesn’t Say If She Voted for California’s Crime Measure](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Harris Confirms She Voted by Mail, Doesn’t Say If She Voted for California’s Crime Measure](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753343-Harris-AP24308673820069-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-confirms-she-voted-by-mail-declines-to-say-if-she-voted-for-californias-crime-measure-5753280)
 * [Rep. Raskin Says Democrats Will Accept Election Outcome If ‘Free and Fair’](https://www.theepochtimes.com/us/rep-raskin-says-democrats-will-accept-election-outcome-if-free-and-fair-5753112)
     
-    7hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    13hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
     
     [![Rep. Raskin Says Democrats Will Accept Election Outcome If ‘Free and Fair’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Rep. Raskin Says Democrats Will Accept Election Outcome If ‘Free and Fair’](https://img.theepochtimes.com/assets/uploads/2024/06/08/id5665177-06032024-DSC02153-Jamie-Raskin-205x123.jpg.webp)](https://www.theepochtimes.com/us/rep-raskin-says-democrats-will-accept-election-outcome-if-free-and-fair-5753112)
-* [Mpox Cases Spike 500 Percent in Africa in Past Year](https://www.theepochtimes.com/world/mpox-cases-spike-500-percent-in-africa-in-past-year-5753131)
-    
-    7hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Mpox Cases Spike 500 Percent in Africa in Past Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Mpox Cases Spike 500 Percent in Africa in Past Year](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5726787-AP24251685407074.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/mpox-cases-spike-500-percent-in-africa-in-past-year-5753131)
-* [Market Analysts Say Don’t Worry, Election’s Impact on Returns Will Likely Be Minimal](https://www.theepochtimes.com/business/market-analysts-say-dont-worry-elections-impact-on-returns-will-likely-be-minimal-5752941)
-    
-    8hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
-    
-    [![Market Analysts Say Don’t Worry, Election’s Impact on Returns Will Likely Be Minimal](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Market Analysts Say Don’t Worry, Election’s Impact on Returns Will Likely Be Minimal](https://img.theepochtimes.com/assets/uploads/2024/08/16/id5707310-GettyImages-2164984365_squared-LSeditKO-205x123.jpg.webp)](https://www.theepochtimes.com/business/market-analysts-say-dont-worry-elections-impact-on-returns-will-likely-be-minimal-5752941)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
