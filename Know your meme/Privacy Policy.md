@@ -99,6 +99,10 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
+* [![This Man From 'The Boondocks' Easily Avoids Ragebait With One Simple Trick](https://i.kym-cdn.com/featured_items/icons/wide/000/026/491/cover3.jpg "This Man From 'The Boondocks' Easily Avoids Ragebait With One Simple Trick")
+    
+    This Man From 'The Boondocks' Easily Avoids Ragebait With One Simple Trick](https://knowyourmeme.com/memes/wait-a-minute-im-white)
+    
 * [![earlier that day.. IDONTCARE FOR il" Dicky FOR Lil' Dicky ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/490/8675309.jpg "21 Years Ago, Lucille Bluth Said She Doesn't Care For Gob, Inspiring Memes")
     
     21 Years Ago, Lucille Bluth Said She Doesn't Care For Gob, Inspiring Memes](https://knowyourmeme.com/memes/i-dont-care-for-x)
@@ -115,14 +119,10 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
     
     Korean Streamers Hunt Down American Kick Streamer Johnny Somali After His Actions In The Country](https://knowyourmeme.com/memes/events/johnny-somalis-south-korea-hunt-down-controversy)
     
-* [![Ongezellig (sometimes called 'zellig by fans) is a web animation series created by Studio Massa, a one-man animation studio based out of the Netherlands, and hosted on YouTube. The title translates to "uninviting" or "uncomfortable" in Dutch. The series tells the story of Maya, Coco, and Mymy, three adopted sisters trying to pass their history class. The pilot of the show was released in several parts on YouTube between 2018 and 2022. The show gained a notable following on 4chan's /qa/ and /co/ boards after 2018, as well as spinoff boards like soyak.party.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/486/zellig.jpg "This Short Dutch Animation Gathered A Fanatic 4chan Fanbase Before It Was Discontinued")
-    
-    This Short Dutch Animation Gathered A Fanatic 4chan Fanbase Before It Was Discontinued](https://knowyourmeme.com/memes/cultures/ongezellig)
-    
 
 ##### Also Trending:
 
-[Peanut the Squirrel / P'Nut](https://knowyourmeme.com/memes/peanut-the-squirrel-pnut "Peanut the Squirrel / P'Nut")
+[Olivia Rodrigo's Space Question](https://knowyourmeme.com/memes/olivia-rodrigos-space-question "Olivia Rodrigo's Space Question") [Peanut the Squirrel](https://knowyourmeme.com/memes/peanut-the-squirrel-pnut "Peanut the Squirrel") [AI-Generated Minecraft](https://knowyourmeme.com/memes/ai-generated-minecraft "AI-Generated Minecraft") [The Most Mysterious Song On The Internet](https://knowyourmeme.com/memes/the-most-mysterious-song-on-the-internet "The Most Mysterious Song On The Internet") [Hmm Today I Will Vote for a Third Party](https://knowyourmeme.com/memes/hmm-today-i-will-vote-for-a-third-party "Hmm Today I Will Vote for a Third Party")
 
 Privacy Policy
 ==============
@@ -318,7 +318,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hello! You must login or signup first!
+### O HAI! You must login or signup first!
 
 |     |     |
 | --- | --- |
