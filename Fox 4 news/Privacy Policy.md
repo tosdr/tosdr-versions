@@ -91,6 +91,16 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
+[Tornado Watch
+
+until MON 6:00 PM CST, Collin County, Somervell County, Johnson County, Hood County, Fannin County, Kaufman County, Denton County, Hunt County, Parker County, Dallas County, Wise County, Rockwall County, Delta County, Erath County, Van Zandt County, Rains County, Cooke County, Hopkins County, Lamar County, Tarrant County, Ellis County](https://www.fox4news.com/weather-alerts)
+
+2
+
+[Tornado Watch
+
+from MON 10:56 AM CST until MON 6:00 PM CST, Red River County](https://www.fox4news.com/weather-alerts)
+
 Privacy Policy
 ==============
 
@@ -402,35 +412,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Presidential polls today: Who's winning in Trump vs. Harris race with 1 day left?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2162600246.jpg?ve=1&tl=1)
+ [![Dak Prescott to miss 'multiple weeks' with hamstring injury, reports say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2182716450-scaled.jpg?ve=1&tl=1)
 
- ![Presidential polls today: Who's winning in Trump vs. Harris race with 1 day left?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2162600246.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/presidential-polls-today-whos-winning-trump-vs-harris-nov-4-2024)
+ ![Dak Prescott to miss 'multiple weeks' with hamstring injury, reports say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2182716450-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dak-prescott-injury-multiple-weeks)
 
-### [Presidential polls today: Who's winning in Trump vs. Harris race with 1 day left?](https://www.fox4news.com/news/presidential-polls-today-whos-winning-trump-vs-harris-nov-4-2024)
+### [Dak Prescott to miss 'multiple weeks' with hamstring injury, reports say](https://www.fox4news.com/sports/dak-prescott-injury-multiple-weeks)
 
- [![Dallas singer shot while signing autographs after show, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/10/32/18/51195e31-2ef85d8f-8a40e072-50d05abb-police-tape-police-lights-2.png?ve=1&tl=1)
+ [![Plano motorcyclist killed in Saturday crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/ambulance.jpg?ve=1&tl=1)
 
- ![Dallas singer shot while signing autographs after show, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/10/32/18/592/333/51195e31-2ef85d8f-8a40e072-50d05abb-police-tape-police-lights-2.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jada-thomas-black-academy-of-arts-and-letters-shot)
+ ![Plano motorcyclist killed in Saturday crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/ambulance.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/plano-motorcyclist-killed-saturday-crash)
 
-### [Dallas singer shot while signing autographs after show, police say](https://www.fox4news.com/news/jada-thomas-black-academy-of-arts-and-letters-shot)
+### [Plano motorcyclist killed in Saturday crash](https://www.fox4news.com/news/plano-motorcyclist-killed-saturday-crash)
 
- [![Potential Tropical Cyclone 18 expected to become Rafael before moving into Gulf of Mexico](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/11/32/18/ptc-18-monday-7am-track.jpg?ve=1&tl=1)
+ [![How many electoral votes does each state have?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/screenshot-2024-11-04-124641.png?ve=1&tl=1)
 
- ![Potential Tropical Cyclone 18 expected to become Rafael before moving into Gulf of Mexico](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/11/32/18/592/333/ptc-18-monday-7am-track.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/potential-tropical-cyclone-18-expected-become-rafael-before-moving-gulf-mexico)
+ ![How many electoral votes does each state have?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/screenshot-2024-11-04-124641.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/how-many-electoral-votes-does-each-state-have)
 
-### [Potential Tropical Cyclone 18 expected to become Rafael before moving into Gulf of Mexico](https://www.fox4news.com/news/potential-tropical-cyclone-18-expected-become-rafael-before-moving-gulf-mexico)
+### [How many electoral votes does each state have?](https://www.fox4news.com/election/how-many-electoral-votes-does-each-state-have)
 
- [![Election Day freebies and deals](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2053039115-scaled.jpg?ve=1&tl=1)
+ [![Tropical Depression 18 forms, expected to become Rafael before moving into Gulf of Mexico](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/11/32/18/td-18-monday-1pm-track.jpg?ve=1&tl=1)
 
- ![Election Day freebies and deals](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2053039115-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/election-day-freebies-deals-2024)
+ ![Tropical Depression 18 forms, expected to become Rafael before moving into Gulf of Mexico](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/11/32/18/592/333/td-18-monday-1pm-track.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/potential-tropical-cyclone-18-expected-become-rafael-before-moving-gulf-mexico)
 
-### [Election Day freebies and deals](https://www.fox4news.com/news/election-day-freebies-deals-2024)
+### [Tropical Depression 18 forms, expected to become Rafael before moving into Gulf of Mexico](https://www.fox4news.com/news/potential-tropical-cyclone-18-expected-become-rafael-before-moving-gulf-mexico)
 
- [![Quincy Jones, legendary producer and composer, dies at 91](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/jones-2.jpg?ve=1&tl=1)
+ [![More northern lights could come as sun hits solar maximum, NASA says](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2151878499.jpg?ve=1&tl=1)
 
- ![Quincy Jones, legendary producer and composer, dies at 91](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/jones-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/quincy-jones-dies-producer-composer-91)
+ ![More northern lights could come as sun hits solar maximum, NASA says](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2151878499.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/northern-lights-nasa-sun-solar-maximum)
 
-### [Quincy Jones, legendary producer and composer, dies at 91: 'Truly one of a kind'](https://www.fox4news.com/news/quincy-jones-dies-producer-composer-91)
+### [More northern lights could come as sun hits solar maximum, NASA says](https://www.fox4news.com/news/northern-lights-nasa-sun-solar-maximum)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
