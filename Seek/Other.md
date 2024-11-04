@@ -19,7 +19,7 @@ Menu
 
 Australia
 
-[Australia](https://www.seek.com.au/)[Hong Kong](https://hk.jobsdb.com/)[Indonesia](https://id.jobstreet.com/)[Malaysia](https://my.jobstreet.com/)[New Zealand](https://www.seek.co.nz/)[Philippines](https://www.jobstreet.com.ph/)[Singapore](https://sg.jobstreet.com/)[Thailand](https://th.jobsdb.com/)
+[Australia](https://www.seek.com.au/)[Hong Kong](https://hk.jobsdb.com/)[Indonesia](https://id.jobstreet.com/)[Malaysia](https://my.jobstreet.com/)[New Zealand](https://www.seek.co.nz/)[Philippines](https://ph.jobstreet.com/)[Singapore](https://sg.jobstreet.com/)[Thailand](https://th.jobsdb.com/)
 
 [Employer site](https://talent.seek.com.au/)
 
@@ -276,7 +276,7 @@ Social
 
 Australia
 
-[**Australia**](https://www.seek.com.au/)[Hong Kong](https://hk.jobsdb.com/)[Indonesia](https://id.jobstreet.com/)[Malaysia](https://my.jobstreet.com/)[New Zealand](https://www.seek.co.nz/)[Philippines](https://www.jobstreet.com.ph/)[Singapore](https://sg.jobstreet.com/)[Thailand](https://th.jobsdb.com/)
+[**Australia**](https://www.seek.com.au/)[Hong Kong](https://hk.jobsdb.com/)[Indonesia](https://id.jobstreet.com/)[Malaysia](https://my.jobstreet.com/)[New Zealand](https://www.seek.co.nz/)[Philippines](https://ph.jobstreet.com/)[Singapore](https://sg.jobstreet.com/)[Thailand](https://th.jobsdb.com/)
 
 [Terms & conditions](https://www.seek.com.au/terms/)
 
