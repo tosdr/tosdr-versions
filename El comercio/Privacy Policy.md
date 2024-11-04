@@ -31,6 +31,138 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+El voto latino impacta, como nunca, en las elecciones de EE. UU.
+================================================================
+
+La votación latina será crucial en las elecciones del 5 de noviembre entre Kamala Harris y Donald Trump.
+--------------------------------------------------------------------------------------------------------
+
+![Voluntarios de la organización Hispanic Federation envian mensajes de texto días antes de los comicios electorales promoviendo la intención al voto este viernes, en Nueva York (Estados Unidos).](https://www.elcomercio.com/wp-content/uploads/2024/11/Voto-latino-en-Estados-Unidos.jpg)
+
+Las **elecciones presidenciales de Estados Unidos del 5 de noviembre de 2024** se perfilan como una de las más reñidas en la historia reciente, con **Kamala Harris y Donald Trump** compitiendo por la Casa Blanca en un ambiente marcado por la polarización política. En este contexto, el **voto latino** emerge como un factor decisivo que podría inclinar la balanza en estados clave.
+
+> La comunidad latina, que ha demostrado su creciente influencia electoral, tiene expectativas altas respecto a las políticas migratorias y sociales que podrían implementarse bajo un nuevo gobierno.
+
+La comunidad latina en **Estados Unidos** se ha convertido en un bloque electoral significativo y representa aproximadamente el 18% del electorado.
+
+En comicios pasados, su participación ha sido fundamental para determinar el resultado en estados bisagra como **Arizona, Nevada y Georgia.** En esta ocasión, se espera que el voto latino juegue un papel crucial en la contienda entre **Harris y Trump**, especialmente dado que ambos candidatos han abordado temas que resuenan profundamente en esta comunidad.
+
+Las **campañas de Harris y Trump** han exacerbado la polarización en el país, especialmente en temas económicos, sociales y migratorios.
+
+Trump ha continuado su discurso antiinmigrante, prometiendo reforzar las fronteras y desmantelar políticas que benefician a los inmigrantes. Por el contrario, Harris ha abogado por una reforma migratoria integral que incluya un camino hacia la ciudadanía para millones de indocumentados.
+
+Sin embargo, su administración también enfrenta críticas por no haber cumplido con todas sus promesas respecto a la migración durante su tiempo como vicepresidenta. La retórica de ambos candidatos ha generado divisiones profundas dentro de la sociedad estadounidense.
+
+Según un estudio de **Pew Research Center, el 65% de los latinos** considera que la inmigración es un tema muy importante en su decisión electoral. Esta preocupación se traduce en un deseo de ver cambios significativos en las políticas migratorias y una mayor protección para los derechos de los inmigrantes.
+
+Las comunidades latinas tienen grandes expectativas respecto al nuevo gobierno que emerja tras estas elecciones. Muchos esperan que se tomen medidas concretas para abordar problemas como la falta de acceso a servicios básicos, la discriminación y la violencia racial. Además, hay un fuerte deseo por ver políticas que promuevan la inclusión económica y social.
+
+La **polarización no solo afecta a los votantes**; también repercute en cómo se perciben las campañas electorales. La retórica incendiaria utilizada por Trump ha alimentado tensiones raciales y sociales, mientras que Harris ha tratado de posicionarse como una defensora de los derechos civiles. Sin embargo, ambos candidatos han sido criticados por no abordar adecuadamente las preocupaciones de todos los sectores de la población.
+
+Oportunismo inmoral
+===================
+
+El efecto invernadero produce el calentamiento global y el deshielo de nevados y de los polos y la intensa deforestación.
+-------------------------------------------------------------------------------------------------------------------------
+
+![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
+
+La peor demostración de **mezquindad** y **oportunismo** inmoral es el **aprovechamiento** de las **tragedias** y su utilización como **peldaños electorales** o como purificadores de glosas y sentencias justamente impartidas, por la **Contraloría** y por el poder judicial, a una amplia serie de individuos deshonestos, que se apropiaron del dinero de los ecuatorianos.
+
+El país se sacudió sorprendido por el **abrupto ataque** incendiario a la capital y a varias ciudades, las imágenes dantescas de gigantescas **lenguas de fuego** que consumían **árboles** y plantas en parques y laderas y ponían en serio riesgo la integridad de algunas **viviendas** causaron **angustia** y desazón **ciudadana**. Los “linces”, que están a la **expectativa** de todo pretexto que les permita disfrazar su **desprestigio**, aprovecharon esta desesperada **situación** para levantar la **imagen** alicaída del primer personero municipal, haciéndole aparecer como un superhéroe, que vencía al **azaroso suceso**, minimizando la heroica presencia de los **bomberos**, de una **comunidad solidaria** y de otras **autoridades** nacionales, como la ministra del interior. Fueron dirigidos, desde el exterior, por su líder prófugo, a través de **estribillos** y lemas que enaltecían a su muy cuestionado **coideario municipal**. No han faltado ridículas manifestaciones de **correistas pagados** que han gritado, en **Carondelet**, “fuera, Noboa, fuera”, ni tampoco la **presencia** en las **redes** de la **opinión** del abogado del exvicepresidente y también del expresidente prófugo, que manifiestó “hay un ambiente propicio para que **Noboa** sucumba y deje el **poder**”. La gente se pregunta si la **concreción** de estas **absurdas** **provocaciones** oportunistas cambiarían el desastre climático y la **tremenda sequía**. 
+
+El **efecto** **invernadero** produce el **calentamiento global** y el **deshielo** de **nevados** y de los polos y la intensa **deforestación**, con la tala incesante de **árboles en bosques y selvas**, limitan la evaporación natural y la formación de nubes, originando un **cambio climático total** con una **sequía mundial**.
+
+El **Ecuador** ha contado con varias **plantas hidroeléctricas** construidas hace muchos años y que son las que funcionan, hasta ahora, a diferencia de las construidas en el período largo de la **Revolución Ciudadanas, q**ue trabajan en forma parcial, repleta de **defectos**, como la de Coca Codo Sinclair proyectada para que produzca 1500 megavatios, pero en realidad su **generación** no llega a los 500 megas; situada en una zona de inmenso riesgo por la erosión que produce el **Río Coca,** corre el inminente **peligro** de desaparecer y destruir los oleoductos del OCP y suspender la conducción del petróleo.  No es admisible que los gobiernos que han dirigido al país durante 30 años, no hayan tomado medidas preventivas para cambiar la **matriz energética,** como lo hicieron países vecinos. El **gobierno** de los infames, 10 años en el poder, encargó a su **vicepresidente** el “**cambio de matriz energética”** ¿hubo algún cambio? No, Ninguno, se dedicó a reparar refinerías de petróleo con presupuestos iniciales bajos, **costos finales** elevadísimos y resultados muy pobres, a **construir hidroeléctricas** con similar esquema, costo inicial bajo y final muy aumentado, con un apuro inusitado, con **préstamos internacionales** caros. El apresuramiento era justificado (había que acelerar el cobro de coimas y sobornos). Pasó la década en la que se prohibió el **desarrollo** de la **termoeléctrica** para privilegiar los jugosos contratos del **levantamiento** de **hidroeléctricas** y no se previeron alternativas para la **generación** de **electricidad**, como los paneles solares, o la energía eólica (del viento), o lo que acaba de contratar el gobierno actual con el Japón, un **parque geotérmico**.
+
+Con sin igual descaro la **candidata**, representante de los **corruptos**, minimiza la existencia del peor estiaje de la **historia**, no menciona la corruptela de los 10 años de su **gobierno** y se manifiesta **crítica** acérrima con la **gestión**, probablemente no óptima, pero de apenas 1 año del gobierno del presidente Noboa. Miente al plantear que si se mantenía en buen estado las **termoeléctricas** se solucionaba el problema, pues no dice que, en el mejor de los casos, el aporte de esta **generación** no llega al 30%, porcentaje deficitario para **compensar** el **tremendo déficit** que nos agobia, ni tampoco recuerda que fue su presidente el que se opuso al **desarrollo** de estas **plantas** **termoeléctricas**.
+
+En **circunstancias difíciles**, como la actual, el **oportunismo** es **inmoral**, impresiona como **traición a la patria,** al igual que la oferta de liberar a Glas, a pesar de las **sentencias ejecutoriadas** que tiene, en un acto que constituiría burla e **irrespeto a la justicia nacional** y de apoyo traicionero a la p**osición mexicana** en contra del **Ecuador**.
+
+Más remesas llegan al Ecuador durante este 2024
+===============================================
+
+El 73,1% del dinero enviado por los migrantes llegó desde Estados Unidos. Las provincias más beneficiadas con Guayas, Azuay, Pichincha y Cañar.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+![Ecuador recibió 1 611,1 millones millones de dólares por concepto de remesas en el segundo trimestre de 2024. Cortesía: Freepik](https://www.elcomercio.com/wp-content/uploads/2024/04/remesas.jpg)
+
+Durante el segundo trimestre de 2024, **Ecuador** recibió un importante flujo de remesas. Fueron 1 611,1 millones de dólares.
+
+Esa cantidad representó un crecimiento del 15,6% con relación al primer trimestre de 2024, según el informe del **Banco Central del Ecuador.**
+
+En el primer trimestre de 2024 fueron 1 393,7 millones de dólares. Es decir, en el primer trimestre de este 2024 llegaron 3 004,8 millones de dólares.
+
+En el mismo **semestre** de **2023** arribaron 2 545,44 millones de dólares por concepto de **remesas.**
+
+Según la data del **Banco Central del Ecuador**, eso significa un aumento de 459,36 millones de dólares al comparar los dos primeros trimestres de 2023 y 2024,
+
+### Más noticias
+
+* [Perú ratifica que revisará las remesas de los migrantes para combatir la delincuencia](https://www.elcomercio.com/actualidad/mundo/peru-ratifica-revisara-remesas-migrantes-combatir-delincuencia.html "Perú ratifica que revisará las remesas de los migrantes para combatir la delincuencia")
+* [Cuenca tiene dos momentos para proyectar su economía y cultura](https://www.elcomercio.com/opinion/editorial/cuenca-tiene-momentos-proyectar-economia-cultura.html "Cuenca tiene dos momentos para proyectar su economía y cultura")
+
+Giros de remesas y promedio por transacción
+-------------------------------------------
+
+En total, durante el segundo trimestre de 2024 se registraron 5 182 926 giros, lo que significa un aumento del 14,7% en comparación con los 4 517 304 giros del primer trimestre de 2024.
+
+En comparación con el mismo periodo del 2023, el crecimiento fue del 19,8%. **Cada giro, en promedio, fue de 310,9 dólares.**
+
+Los países desde donde llegan las remesas
+-----------------------------------------
+
+El desglose de las **remesas** revela que el 73,1% del total recibido provino de **Estados Unidos**. Desde ese país llegaron 1 177,8 millones en el segundo semestre de 2024.
+
+Este monto representa un incremento del 19,7% en comparación con el **primer trimestre de 2024,** cuando se recibieron 983,8 millones. Comparado con el segundo trimestre de 2023, el crecimiento es del 19,6%.
+
+Las remesas desde **España** alcanzaron 263,8 millones de dólares, equivalentes al 16,4% del flujo total, con un incremento del 15,8% respecto al primer trimestre de 2024.
+
+Los datos del **Banco Central** también muestran que las remesas desde **Italia** alcanzaron 40,2 millones, lo que representa el 2,5% del total.
+
+Las provincias de Ecuador que más reciben remesas
+-------------------------------------------------
+
+Las provincias que más concentraron el flujo de remesas durante el segundo trimestre de 2024 fueron **Guayas, Azuay, Pichincha y Cañar**. Entre las cuatro sumaron 1 152,9 millones, lo que representa el 71,6% del total.
+
+Esta concentración es significativa, ya que es 16,2% superior al monto registrado en el primer trimestre de 2024 y un 13,2% más que en el mismo periodo del 2023.
+
+Este fenómeno se debe a la gran cantidad de hogares que dependen de las remesas en estas regiones y a la amplia disponibilidad de servicios financieros, según el **Banco Central de Ecuador.**
+
+Un futbolista peruano falleció impactado por un rayo
+====================================================
+
+El partido se disputaba en el estadio de Coto Coto, en Chicha. Jugaban los equipos de Juventud Bellavista y Familia Chocca. Hay jugadores heridos.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen referencial. El hecho sucedió alrededor de las 16:00 de este domingo 3 de noviembre, en el estadio de Coto Coto, en Chicha.](https://www.elcomercio.com/wp-content/uploads/2023/04/video-capta-caida-rayo-sobre-one-world-trade-center-nueva-york.jpg)
+
+##### Agencia EFE
+
+El **defensor peruano José Hugo de la Cruz Meza**, falleció este domingo 3 de noviembre. Él fue **alcanzado por un rayo**.
+
+**De la Cruz Meza** murió en pleno partido. El rayo también causó, al menos, un herido, informaron medios peruanos.
+
+A más del defensa fallecido, el **portero Juan Choca** se encuentra en estado grave con quemaduras severas.
+
+Se desconoce si el estado de salud de los otros jugadores que fueron alcanzados por el rayo.
+
+### Más noticias
+
+* [Perú Mucho Gusto 2024: sabores, cultura y turismo en Lima](https://www.elcomercio.com/afull/peru-mucho-gusto-2024-sabores-cultura-y-turismo-en-lima.html "Perú Mucho Gusto 2024: sabores, cultura y turismo en Lima")
+* [Perú ratifica que revisará las remesas de los migrantes para combatir la delincuencia](https://www.elcomercio.com/actualidad/mundo/peru-ratifica-revisara-remesas-migrantes-combatir-delincuencia.html "Perú ratifica que revisará las remesas de los migrantes para combatir la delincuencia")
+
+Los afectados por el rayo en Perú
+---------------------------------
+
+El hecho sucedió alrededor de las 16:00 horas en el estadio de **Coto Coto, en Chicha**. Esa zona está situada en el departamento de **Huancayo**, donde jugaban bajo una tormenta dos equipos locales: **Juventud Bellavista y Familia Chocca.**
+
+Un vídeo muestra el momento preciso de la caída del rayo sobre varios futbolistas que se desvanecen al mismo tiempo sobre el césped.
+
+El rayo impactó segundos después de que se suspendiera el partido por la tormenta y cuando los jugadores se retiraban del campo.
+
+Medios peruanos informaron que los heridos fueron trasladados de inmediato al **hospital Carrión de Huancayo,** Allí, los médicos certificaron el fallecimiento de **Jose Hugo de la Cruz Meza** al momento de su llegada.
+
 El ecuatoriano compra solo ciertos alimentos por los cortes de luz
 ==================================================================
 
@@ -792,187 +924,6 @@ Su primer gol de la temporada
 Este fue el **primer gol de Moisés Caicedo** en la temporada 2024/25, y curiosamente no es la primera vez que marca contra el Manchester United. En su etapa con el Brighton Hove & Albion también les anotó, y fue su primer gol en la Premier League, igualmente con un remate de media distancia.
 
 En cuanto al Chelsea, este es su **segundo gol desde que llegó en la temporada 2023/24**. Curiosamente, sus dos goles con los ‘Blues’ han sido desde fuera del área, ambos auténticos golazos.
-
-No te pierdas nuestro Especial de Halloween
--------------------------------------------
-
-Alcalde de Cuenca planteó alzar diques de las lagunas de El Cajas para las sequías
-==================================================================================
-
-Cristián Zamora propuso la iniciativa al presidente Daniel Noboa. Lo hizo en la sesión los 204 años de independencia. La idea es acumular agua para los estiajes.
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![La sesión solemne por los 204 años de independencia de Cuenca empezó a las 11:00 en el Salón de la Cuidad. Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/11/Cuenca-1.jpg)
-
-Casi dos doras duró la **sesión solemne por los 204 años de independencia** de **Cuenca**. A las 11:00 empezó en el Salón de la Cuidad de la Municipalidad, en el Centro Histórico de la capital azuaya.
-
-Asistieron el **presidente de la República, Daniel Noboa**, la **presidenta de la Asamblea, Viviana Veloz** y ministros de Estado. Además, estuvieron el **alcalde de Cuenca, Cristián Zamora**, **el prefecto de Azuay, Juan Cristóbal Lloret**, y el gobernador azuayo, Santiago Malo.
-
-Entre los condecorados estuvo el **campeón olímpico de Marcha**, **Daniel Pintado Álvarez**. Este reconocimiento fue concedido por el Concejo Cantonal por sus triunfos en los J**uegos Olímpicos de París 2024.**
-
-### Más noticias
-
-* [Turismo crece en Cuenca y otras provincias en este feriado](https://www.elcomercio.com/actualidad/ecuador/turismo-independencia-cuenca-feriado-difuntos.html "Turismo crece en Cuenca y otras provincias en este feriado")
-* [Cuenca llega a 204 años de independencia como la ciudad más industrial de Ecuador](https://www.elcomercio.com/actualidad/cuenca/cuenca-motor-industrial-de-ecuador.html "Cuenca llega a 204 años de independencia como la ciudad más industrial de Ecuador")
-* [Cuenca celebra sus fiestas con conciertos y artesanías de 12 países](https://www.elcomercio.com/actualidad/ecuador/cuenca-celebra-fiestas-conciertos-artesanias-paises.html "Cuenca celebra sus fiestas con conciertos y artesanías de 12 países")
-
-Daniel Noboa destacó el aporte del Gobierno en Cuenca
------------------------------------------------------
-
-**Noboa** habló de las inversiones realizadas en sus 11 meses de **Gobierno**. Destacó los cinco millones de dólares destinados para alimentación escolar, uniformes, textos y mantenimiento de instituciones educativas.
-
-En **Azuay**, agregó, se ejecutaron proyectos de infraestructura como la vía **Medio Ejido-Sayausí**, la rehabilitación de la **Panamericana Norte** y el mantenimiento de la carretera **Salado-Léntag**.
-
-En el ámbito social, **Noboa** resaltó que son más de 33 000 personas de grupos vulnerables que tienen el apoyo del Gobierno mediante servicios y la entrega de bonos.
-
-Además, indicó sobre el apoyo a emprendimientos con **BanEcuador**. Y la potencialización de negocios y generación de empleo. Citó una inversión de más de 6,7 millones de dólares.
-
-Con el **Banco de Desarrollo** se financió el proyecto de **Movilidad Urbana Sostenible** que permitirá bajar los efectos de los gases invernadero. Fueron 24,2 millones de dólares, aseguró el Mandatario.
-
-**Noboa** dijo que ha posicionado a **Cuenca** como sede de **la Cumbre Iberoamericana de Jefes de Estado,**que se cumplirá entre el 14 y 15 de noviembre de 2024.
-
-“Cuenca se lo merece y toda Iberoamérica la estará viendo en estos días”.
-
-Según él, esta **Cumbre** atraerá a líderes de toda Iberoamérica para tratar temas como la innovación, inclusión y sostenibilidad. “**El mundo será testigo de su potencial**, su cultura y el talento de su gente”.
-
-Los pedidos del Alcalde de Cuenca
----------------------------------
-
-En su discurso, el alcalde de Cuenca, **Cristián Zamora**, pidió al Mandatario, que ordene al **Ministerio del Ambiente** que permita **alzar los diques** en las **lagunas** del **Parque Nacional Cajas.**
-
-La intención es aumentar las reservas de agua en las épocas lluviosas para ser utilizada en las de sequía como las tres registradas en los últimos 12 meses. En la actual ya contabilizan 104 días y hace año fueron 117 días. En marzo y abril de 2024 también hubo estiaje.
-
-**Zamora** dijo que esta obra estará pensada en que las sequías pueden ser peores en el futuro por el cambio climático. “Necesitamos agua para que la gente tenga el líquido vital”.
-
-Zamora señaló que no existen **cortes de agua** en **Cuenca** porque los habitantes de la ciudad bajaron el consumo en un 12% desde el inicio de la sequía.
-
-El **Alcalde de Cuenca** también solicitó al presidente Noboa que se autorice el **proyecto hidroeléctrico Soldados.** “Hay un problema social. Estamos dispuestos con el Prefecto (Azuay) a conversar con las comunidades para hacerles entender la importancia de la generación”.
-
-El proyecto integral está compuesto por una presa de 42 metros de altura, con una capacidad de 21 Hm3 y dos centrales en cascada Soldados, de siete MW y Yanuncay, de 15 MW.
-
-El proyecto ya cuenta con licencia ambiental y título habilitante para su construcción.
-
-Willian Pacho tiene maravillado a su DT del PSG, Luis Enrique
-=============================================================
-
-Willian Pacho es un fuera de serie, y así lo reconoce uno de los mejores entrenadores españoles de la historia.
----------------------------------------------------------------------------------------------------------------
-
-![Willian Pacho en un partido con el París Saint-Germain en la Ligue 1 2024/45.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-69.jpg)
-
-**Willian Pacho** llegó al **París Saint-Germain** en la temporada 2024/25, su primer gran salto a uno de los gigantes de Europa. En tan solo tres meses, el ecuatoriano ha demostrado su calidad y ha justificado su lugar en el equipo más grande de Francia.
-
-Su talento no ha pasado desapercibido para **Luis Enrique**, quien ha elogiado al formado en Independiente del Valle por su desempeño en defensa y el **impacto positivo en el PSG**.
-
-### Más noticias:
-
-* [Willian Pacho y PSG ganan el duelo de ecuatorianos en Francia](https://www.elcomercio.com/deportes/futbol/willian-pacho-psg-ganan-duelo-ecuatorianos-en-francia.html "Willian Pacho y PSG ganan el duelo de ecuatorianos en Francia")
-* [El PSG y Willian Pacho igualan en la tercera fecha de Champions](https://www.elcomercio.com/deportes/psg-willian-pacho-champions-psv.html "El PSG y Willian Pacho igualan en la tercera fecha de Champions")
-* [PSG celebra, a lo grande, cumpleaños de Willian Pacho](https://www.elcomercio.com/deportes/futbol/wullian-pacho-cumple-anios-psg.html "PSG celebra, a lo grande, cumpleaños de Willian Pacho")
-
-El técnico español destacó la **capacidad de adaptación de Pacho a las altas exigencias del club** y lo considera uno de los jugadores más valiosos de la temporada, siendo titular indiscutible y referente en la zaga.
-
-“Está aportando mucho en cosas que necesitábamos, como ganar duelos y sacar el balón de manera solvente y cómoda. Es físicamente poderoso, **recupera balones sin cometer faltas y ha sido una incorporación que valoramos desde el minuto uno**,” comentó Luis Enrique en una rueda de prensa el 1 de noviembre.
-
-Willian Pacho en el PSG
------------------------
-
-Desde su llegada a París, **Pacho se ha consolidado como titular**, con 13 partidos jugados, de los cuales inició en 12. En Ligue 1, el campeonato francés, ha disputado 10 encuentros y ha sido elegido en dos ocasiones para el equipo de la semana.
-
-En defensa, el ecuatoriano **acumula 18 intercepciones, 21 entradas, ha recuperado 48 balones**, suma 29 despejes y tiene un 64 % de efectividad en los duelos, siendo una auténtica muralla.
-
-Además, su precisión en los pases es uno de sus puntos fuertes: Pacho cuenta con una asistencia, un pase clave y una eficacia del 95% en sus envíos. Según el portal SofaScore, Willian Pacho tiene una calificación de 7**,19, una de las más altas de la Ligue 1.**
-
-Mientras que en la **Champions League**, a pesar de estar debutando en el torneo, ha demostrado estar a la altura. Tiene tres partidos jugados y todos los minutos posibles.
-
-Willian Pacho ha sido uno de los **puntos fuertes del equipo**, acumulando ocho intercepciones, siete entradas, 20 recuperaciones de balón y 14 despejes. Además, ha ganado el 50 % de sus duelos y cuenta con una calificación de 7,20 puntos.
-
-No te pierdas nuestro Especial de Halloween
--------------------------------------------
-
-Documentales ecuatorianos en uno de los festivales más importantes del mundo 
-=============================================================================
-
-La 37 edición del IDFA de cine documental promete una rica selección, al destacar proyectos innovadores.
---------------------------------------------------------------------------------------------------------
-
-![El Festival Internacional de Cine Documental de Ámsterdam (IDFA) celebra su 37 edición. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/festival-cine-documental.jpg)
-
-El **[Festival Internacional de Cine Documental de Ámsterdam](https://www.instagram.com/idfafestival/ "https://www.instagram.com/idfafestival/")** (IDFA) es uno de los eventos más esperados en el calendario cinematográfico. Este año, la 37 edición se llevará a cabo del 14 al 24 de noviembre de 2024.  
-
-### Más noticias
-
-* [Margot Robbie, la Barbie, se](https://www.elcomercio.com/tendencias/entretenimiento/margot-robbie-barbie-estrena-madre.html "https://www.elcomercio.com/tendencias/entretenimiento/margot-robbie-barbie-estrena-madre.html") [e](https://www.elcomercio.com/tendencias/entretenimiento/margot-robbie-barbie-estrena-madre.html "https://www.elcomercio.com/tendencias/entretenimiento/margot-robbie-barbie-estrena-madre.html")[strena como madre](https://www.elcomercio.com/tendencias/entretenimiento/margot-robbie-barbie-estrena-madre.html "https://www.elcomercio.com/tendencias/entretenimiento/margot-robbie-barbie-estrena-madre.html")
-* [Seis películas recomendadas para el feriado de Difuntos](https://www.elcomercio.com/tendencias/cine/cine-peliculas-feriado-difuntos.html "https://www.elcomercio.com/tendencias/cine/cine-peliculas-feriado-difuntos.html") 
-
-Con una rica tradición que **celebra el cine documental**, el festival se ha consolidado como **un punto de encuentro para cineastas, críticos y amantes del género**. 
-
-**Cine documental para todo gusto**  
--------------------------------------
-
-El IDFA no solo exhibe películas, sino que también **fomenta la innovación a través de su programa DocLab**. Este espacio se dedica a proyectos que **combinan el cine con nuevas tecnologías**, lo que ofrece una **plataforma para experiencias interactivas y narrativas inmersivas**. Durante la conferencia de prensa del festival, **Orwa Nyrabia**, director artístico, destacó la **importancia de estas iniciativas** para atraer a un público diverso y comprometido, de acuerdo con la [página del festival](https://festival.idfa.nl/en/news/persconferentie-idfa-2024/ "https://festival.idfa.nl/en/news/persconferentie-idfa-2024/").  
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBL5qGHq1Uu/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de IDFA (@idfafestival)](https://www.instagram.com/reel/DBL5qGHq1Uu/?utm_source=ig_embed&utm_campaign=loading)
-
-**Proyectos latinoamericanos en el IDFA** 
-------------------------------------------
-
-Un aspecto notable de esta edición es la **fuerte representación de proyectos latinoamericanos**. Cinco obras destacadas participarán en el **IDFA Project Space**, un programa diseñado para **fortalecer proyectos documentales emergentes**. Entre ellos se encuentra ‘Grounded’, del colombiano **Simón Uribe Martínez**, que explora la vida en una remota aldea amazónica 
-
-Este enfoque no solo **resalta la riqueza cultural de la región**, sino que también ofrece una ventana a realidades poco representadas en el cine global, según la web [Latamcinema](https://www.latamcinema.com/proyectos-latinoamericanos-de-documental-se-fortalecen-en-el-idfa-project-space/ "https://www.latamcinema.com/proyectos-latinoamericanos-de-documental-se-fortalecen-en-el-idfa-project-space/"). 
-
-**Ecuador se hace presente en el festival** 
---------------------------------------------
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBpU5E1PCJh/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de ADRIAN VANEGAS (@a98studios)](https://www.instagram.com/p/DBpU5E1PCJh/?utm_source=ig_embed&utm_campaign=loading)
-
-Desde Ecuador, los documentales elegidos son ‘Huaquero’ de **Juan Carlos Donoso**, ‘¿Cómo suturar la tierra?’ de **Wil Paucar**, ‘Ecos de luz’ de **Misha Vallejo** y ‘Torobo: El nombre de las plantas’ de **Manolo Sarmiento**. 
-
-Desde su creación en 1988, **el IDFA ha estado dedicado a fomentar la calidad, la innovación y la diversidad en el cine documental**, captando la atención de cineastas, críticos, productores y amantes del cine a nivel global. 
-
-Barcelona SC confía en Segundo Alejandro Castillo como su DT
-============================================================
-
-Desde que el 'Mortero' asumió las riendas del club, el 'Ídolo' está invicto en la Liga Pro.
--------------------------------------------------------------------------------------------
-
-![Segundo Alejandro Castillo en una rueda de prensa como entrenador de Barcelona SC en 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-68.jpg)
-
-**Barcelona SC** ha tenido tres entrenadores en lo que va de la temporada 2024. El último en asumir el cargo es un conocido del club, que ya en ocasiones anteriores salvó al equipo como DT interino: el histórico **Segundo Alejandro Castillo**.
-
-El ‘Mortero’ fue el reemplazo temporal tras la salida de Diego López a principios del primer semestre. Ahora, la dirigencia lo ha colocado nuevamente en los banquillos tras la partida de **Ariel Holan**, hace casi un mes. Pero esta vez la situación es diferente.
-
-### Más noticias:
-
-* [Aucas rescató el empate y frenó a Barcelona SC en la Liga Pro](https://www.elcomercio.com/deportes/futbol/aucas-rescato-el-empate-y-freno-a-barcelona-sc-en-la-liga-pro.html "Aucas rescató el empate y frenó a Barcelona SC en la Liga Pro")
-* [Segundo Alejandro Castillo dirigirá su segundo Clásico del Astillero](https://www.elcomercio.com/deportes/futbol/segundo-alejandro-castillo-dirigira-su-segundo-clasico-del-astillero.html "Segundo Alejandro Castillo dirigirá su segundo Clásico del Astillero")
-* [Barcelona SC es líder de la Liga Pro, pero en multas](https://www.elcomercio.com/deportes/futbol/barcelonasc-es-lider-liga-pro-pero-en-multas.html "Barcelona SC es líder de la Liga Pro, pero en multas")
-
-Cuando asumió por primera vez en el año, Segundo Alejandro Castillo sabía que el club buscaba un DT para el resto de la temporada. Ahora, el **‘Mortero’ cuenta con el respaldo** de la dirigencia hasta el final del torneo.
-
-Barcelona SC confía en Alejandro Castillo
------------------------------------------
-
-El pasado 1 de noviembre, previo al empate 1-1 entre Barcelona SC y Aucas en el estadio Gonzalo Pozo Ripalda, el portal Studio Fútbol informó que el ‘Ídolo’ estaba en búsqueda de un nuevo DT.
-
-Esta información fue desmentida por el presidente del club, **Antonio Álvarez**, a través de su cuenta de X, donde aclaró que no están en busca de un entrenador ni ahora ni para 2025, ya que confían plenamente en el técnico actual.
-
-“Nadie ha llamado ni ha hablado con ningún director técnico para que venga a dirigir a Barcelona SC, ni hoy ni en 2025. **Segundo Alejandro Castillo es nuestro DT y cuenta con todo nuestro apoyo”,** escribió.
-
-Asimismo, Álvarez señaló que este tipo de rumores generan problemas dentro del equipo, lo que desean evitar para **mantener viva la esperanza de ganar la etapa del torneo.**
-
-Los números del ‘Mortero’
--------------------------
-
-En lo que va de la temporada 2024, Segundo Alejandro Castillo ha dirigido **cuatro** **partidos**. Uno a finales de abril y tres en los últimos compromisos del equipo.
-
-Desde que asumió el cargo, su **equipo se mantiene invicto**, con dos empates y dos victorias. Empató 1-1 y venció 2-1 a Emelec, goleó 4-0 a Delfín e igualó 1-1 con Aucas.
-
-En total, el equipo de Castillo ha anotado ocho goles y ha recibido solo tres, logrando un **rendimiento del 66,66%.**
 
 No te pierdas nuestro Especial de Halloween
 -------------------------------------------
