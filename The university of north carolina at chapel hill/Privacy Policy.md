@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/11/VALOR_Hero1-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/11/SerenitySpaceHERO-250x141.jpg)
     
-    VALOR serves veterans statewide](https://www.unc.edu/posts/2024/11/01/valor-serves-veterans-statewide/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/RCHero-250x141.jpg)
+    Serenity now available for students](https://www.unc.edu/posts/2024/11/04/serenity-now-available-for-students/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/VotingHero-250x141.jpg)
     
-    Royal Caribbean gift will support Carolina’s Galapagos programs](https://www.unc.edu/posts/2024/11/01/royal-caribbean-gift-will-support-carolinas-galapagos-programs/)
+    What to know about voting on Election Day](https://www.unc.edu/posts/2024/11/04/what-to-know-about-voting-on-election-day/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=79e5bc1442&text=%prefix%%text%%suffix%&post_id=233259&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=b9f417822b&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
