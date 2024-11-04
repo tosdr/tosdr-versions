@@ -41,9 +41,9 @@ International schoolsUK editionAustralia edition
         
     * Staff management & Finance
         
-        * [Staff Management Subscription Recruitment, training and wellbeing solutions in one all-inclusive subscription](https://www.tes.com/en-gb/for-schools/magazine-subscription)
+        * [Staff Management Subscription Recruitment, training and wellbeing solutions in one all-inclusive subscription](https://www.edukey.co.uk/en-gb/for-schools/staff-management)
             
-        * [Tes magazine School-wide magazine subscriptions](https://www.tes.com/for-schools/magazine-subscription)
+        * [Tes magazine School-wide magazine subscriptions](https://www.edukey.co.uk/en-gb/for-schools/magazine-subscription)
             
         * [EduPay Award-winning payroll and HR software](https://www.tes.com/en-gb/for-schools/edupay)
             
@@ -94,9 +94,9 @@ TES Close
         
     * [Staff management & Finance](https://www.tes.com/for-schools/staff-management) Open
         
-        * [Staff Management Subscription](https://www.tes.com/en-gb/for-schools/magazine-subscription)
+        * [Staff Management Subscription](https://www.edukey.co.uk/en-gb/for-schools/staff-management)
             
-        * [Tes magazine](https://www.tes.com/for-schools/magazine-subscription)
+        * [Tes magazine](https://www.edukey.co.uk/en-gb/for-schools/magazine-subscription)
             
         * [EduPay](https://www.tes.com/en-gb/for-schools/edupay)
             
