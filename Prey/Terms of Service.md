@@ -118,13 +118,13 @@ Blog
 
 Latest updates & insights about security](https://preyproject.com/blog)
 
-[![MDM for Healthcare: how MDM helps for HIPAA compliance](https://cdn.prod.website-files.com/664e6b29f3ed49c2317db2f2/67228e7e9870c4e7ed47ceb1_MDM-for-Healthcare-how-MDM-helps-for-HIPAA-compliance.png)
+[![The Healthcare Data Breach Epidemic of 2024](https://cdn.prod.website-files.com/664e6b29f3ed49c2317db2f2/6728d066d2f5fa23e0cbfe8e_The-Healthcare-Data-Breach-Epidemic-of-2024.png)
 
 Editor's Pick
 
-MDM for Healthcare: how MDM helps for HIPAA compliance
+The Healthcare Data Breach Epidemic of 2024
 
-Choosing the right MDM solution is key for healthcare organizations to stay HIPAA compliant and protect patient data](https://preyproject.com/blog/mdm-for-healthcare-how-mdm-helps-for-hipaa-compliance)
+Healthcare data breaches affect millions, but IT teams aren't helpless. From device management to dark web monitoring, learn how to protect patient data and maintain trust in an increasingly hostile digital landscape.](https://preyproject.com/blog/the-healthcare-data-breach-epidemic)
 
 Menu icon
 
