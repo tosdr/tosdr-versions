@@ -1,5 +1,5 @@
   
-Shipping – G FUEL                                                                                                                                       
+Shipping – G FUEL                                                                                                                            
 
 [Skip to content](#MainContent)  
 
@@ -553,7 +553,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/602/assets/app-store-badge.svg?v=123926581890561309811730494730)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/602/assets/google-play-badge.png?v=132395384020293405351730494730)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/603/assets/app-store-badge.svg?v=123926581890561309811730495474)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/603/assets/google-play-badge.png?v=132395384020293405351730495474)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
@@ -575,11 +575,11 @@ Rated 4.8 out of 5 stars
 
 80 Reviews
 
-4.8
+4.7
 
-Rated 4.8 out of 5 stars
+Rated 4.7 out of 5 stars
 
-10 Reviews
+11 Reviews
 
 4.0
 
