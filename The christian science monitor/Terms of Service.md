@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Moldova’s pro-West president, reelected, slams external ‘hostile forces’](https://www.csmonitor.com/World/Europe/2024/1103/moldova-election-eu-russia-intimidation "Moldova’s pro-West president, reelected, slams external ‘hostile forces’")
+
 [### An unwanted kiss shook Spanish soccer – and society. A new documentary explores why.](https://www.csmonitor.com/World/Europe/2024/1101/spain-women-soccer-football-netflix-seacabo-jenni-hermoso "An unwanted kiss shook Spanish soccer – and society. A new documentary explores why.")
 
 [### Immigration is not just a US challenge. But on eve of election, it feels that way.](https://www.csmonitor.com/World/Americas/2024/1101/election-border-migrants-Mexico-Trump-Harris "Immigration is not just a US challenge. But on eve of election, it feels that way.")
-
-[### Spain’s recent floods are the worst in living memory. What caused them?](https://www.csmonitor.com/World/Europe/2024/1101/Spain-flash-floods-drought-climate-change "Spain’s recent floods are the worst in living memory. What caused them?")
 
 * * *
 
