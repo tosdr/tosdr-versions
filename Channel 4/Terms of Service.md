@@ -64,7 +64,6 @@
         * [Chateau: DIY](https://www.channel4.com/4viewers/take-part/chateau-DIY)
         * [Come Dine With Me](https://www.channel4.com/4viewers/take-part/come-dine-me)
         * [Countdown](https://www.channel4.com/4viewers/take-part/countdown)
-        * [FilmFear](https://www.channel4.com/4viewers/take-part/filmfear)
         * [First Dates](https://www.channel4.com/4viewers/take-part/first-dates)
         * [Four in a Bed](https://www.channel4.com/4viewers/take-part/four-in-a-bed)
         * [The Game of Wool](https://www.channel4.com/4viewers/takepart/game-of-wool)
@@ -82,7 +81,6 @@
         * [A New Life in the Sun](https://www.channel4.com/4viewers/take-part/new-life-sun)
         * [Open House: The Great Sex Experiment](https://www.channel4.com/4viewers/take-part/open-house)
         * [A Place in the Sun](https://www.channel4.com/4viewers/take-part/apits)
-        * [Popmaster TV](https://www.channel4.com/4viewers/popmaster-tv)
         * [Stacey Solomon's Renovation Rescue](https://www.channel4.com/4viewers/take-part/renovation-rescue)
         
     
@@ -91,10 +89,8 @@
     * Latest updates
         
         * [4Viewers Blog](https://www.channel4.com/4viewers/community/blog)
-        * [Looking For Something Scary To Watch This Halloween?](https://www.channel4.com/4viewers/blog/halloween)
         * [Upcoming Changes on Sky and Freesat](https://www.channel4.com/4viewers/blog/upcoming-changes)
         * [Formula 1 on Channel 4](https://www.channel4.com/4viewers/blog/formula-1-2024)
-        * [Upcoming Changes on Sky and Freesat](https://www.channel4.com/4viewers/blog/upcoming-changes)
         * [Walter Presents](https://www.channel4.com/4viewers/blog/walter-presents)
         * [Energy Tips from 4](https://www.channel4.com/4viewers/blog/energy-saving-tips)
         * [Help! I need somebody, not just anybody](https://www.channel4.com/4viewers/news/help-i-need-somebody-not-just-anybody)
