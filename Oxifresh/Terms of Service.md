@@ -443,15 +443,15 @@ What Customers Are Saying
 
 Based on 302,780 Carpet Cleaning Services Reviews
 
-Quick service I loved the same day service , Cory was very proffesional and efficient, the house has a whole new vibe now after he cleaned the floors, I highly recommend to other people! **SJ.** - Indianapolis, IN - 11/03/2024
+**RG.** - Aubrey, TX - 11/03/2024
 
 (5.0 Out of 5 stars)
 
-OxiFresh technician, Wyatt, was prompt, friendly and courteous. He communicated clearly and did an excellent job of cleaning our carpet and furniture. Highly recommend! **EM.** - Bastrop, TX - 11/02/2024
+Speed and job well done. **RM.** - Waxhaw, NC - 11/02/2024
 
 (5.0 Out of 5 stars)
 
-Prompt, professional with excellent service. Top quality work. Thank you **MH.** - Loganville, GA - 11/02/2024
+**JW.** - Dearborn, MI - 11/02/2024
 
 (5.0 Out of 5 stars)
 
