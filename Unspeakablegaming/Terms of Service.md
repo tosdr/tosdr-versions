@@ -56,9 +56,9 @@ Header - Shapes Theme
     * [![PENCIL SHARPENER/ERASER](//www.unspeakable.com/cdn/shop/files/DSC_1059.jpg?v=1729004618&width=700)
         
         PENCIL SHARPENER/ERASER](https://www.unspeakable.com/products/pencil-sharpener-eraser)
-    * [![UNSPEAKABLE ICON BLANKET](//www.unspeakable.com/cdn/shop/files/DSC03064_1.jpg?v=1727707389&width=700)
+    * [![4" FLASHLIGHT](//www.unspeakable.com/cdn/shop/files/DSC_1134.jpg?v=1730738735&width=700)
         
-        UNSPEAKABLE ICON BLANKET](https://www.unspeakable.com/products/unspeakable-icon-blanket)
+        4" FLASHLIGHT](https://www.unspeakable.com/products/4-flashlight)
     
     [View All](https://www.unspeakable.com/collections/merch)
     
