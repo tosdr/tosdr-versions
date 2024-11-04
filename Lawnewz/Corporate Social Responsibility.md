@@ -99,25 +99,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Patrick Montgomery, inset and background, shows him wrestling with an officer during the riots at the U.S. Capitol on Jan. 6, 2021 (U.S. Attorney's Office).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/jan6-432x243.jpg)](https://lawandcrime.com/high-profile/quit-doing-your-job-and-be-an-american-jan-6-rioter-wrestled-officer-for-his-baton-kicked-him-in-the-chest-with-his-boot/)
+1. [![Kristofer Kelle McDonald (WCSC).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Kristofer-Kelle-McDonald-432x243.jpg)](https://lawandcrime.com/crime/theres-just-no-excuse-nighttime-hunter-fatally-shot-woman-thinking-he-heard-deer-deputies-say/)
     
-    ### ['Quit doing your job and be an American': Jan. 6 rioter wrestled officer for his baton, kicked him in the chest with his boot](https://lawandcrime.com/high-profile/quit-doing-your-job-and-be-an-american-jan-6-rioter-wrestled-officer-for-his-baton-kicked-him-in-the-chest-with-his-boot/)
+    ### ['There’s just no excuse': Nighttime hunter shot woman thinking he heard deer, deputies say](https://lawandcrime.com/crime/theres-just-no-excuse-nighttime-hunter-fatally-shot-woman-thinking-he-heard-deer-deputies-say/)
     
-2. [![Donald Trump, JD Vance](https://am21.mediaite.com/lc/cnt/uploads/2024/09/AP24234763183231-432x243.jpg)](https://lawandcrime.com/high-profile/lacked-judicial-authority-trump-and-jd-vance-got-special-treatment-when-judges-dismissed-complaint-over-eating-the-cats-rhetoric-lawsuit-says/)
+2. [![Wayne Streeter and Alana Cagle](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Wayne-Streeter-and-Alana-Cagle-432x243.jpg)](https://lawandcrime.com/crime/man-who-wanted-to-have-sex-on-beach-while-tied-up-was-hit-with-hatchet-choked-by-woman-and-her-boyfriend-cops/)
     
-    ### ['Lacked judicial authority': Trump and JD Vance got 'special treatment' when judges dismissed complaint over 'eating the cats' rhetoric, lawsuit says](https://lawandcrime.com/high-profile/lacked-judicial-authority-trump-and-jd-vance-got-special-treatment-when-judges-dismissed-complaint-over-eating-the-cats-rhetoric-lawsuit-says/)
+    ### [Man who wanted to have sex on beach while tied up was hit with hatchet, choked by woman and her boyfriend: Cops](https://lawandcrime.com/crime/man-who-wanted-to-have-sex-on-beach-while-tied-up-was-hit-with-hatchet-choked-by-woman-and-her-boyfriend-cops/)
     
-3. [![Inset: Body camera footage from the Sarasota Police officer who struck Gerard Butler with his patrol car (Sarasota (Fla.) Police Department). Background: Gerard Butler laying in the street after being hit by a Sarasota Police officer (Sarasota (Fla.) Police Department).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Gerard-Butler-Sarasota-Police-dirt-bike-incident-432x243.jpg)](https://lawandcrime.com/caught-on-video/oh-f-bodycam-shows-florida-cop-hitting-8-year-old-on-dirt-bike-with-patrol-car-as-boys-family-watches-on-in-horror/)
+3. [![Kamala Harris SNL appearance](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Harris-SNL-appearance-FCC-432x243.jpg)](https://lawandcrime.com/high-profile/clear-and-blatant-snl-appearance-by-kamala-harris-violates-fccs-equal-time-law-republican-commissioner-says/)
     
-    ### ['Oh, f---!': Bodycam shows Florida cop hitting 8-year-old on dirt bike with patrol car as boy's family watches on in horror](https://lawandcrime.com/caught-on-video/oh-f-bodycam-shows-florida-cop-hitting-8-year-old-on-dirt-bike-with-patrol-car-as-boys-family-watches-on-in-horror/)
+    ### ['Clear and blatant': SNL appearance by Kamala Harris violates FCC's 'equal time' law, Republican commissioner says](https://lawandcrime.com/high-profile/clear-and-blatant-snl-appearance-by-kamala-harris-violates-fccs-equal-time-law-republican-commissioner-says/)
     
-4. [![Jack Smith, on the left; Donald Trump, in the center; Antonin Scalia, on the right.](https://am23.mediaite.com/lc/cnt/uploads/2024/11/Smith-Trump-Scalia-432x243.jpg)](https://lawandcrime.com/high-profile/special-counsel-smith-answers-to-no-one-attorneys-who-represented-trump-during-mueller-probe-look-to-kneecap-mar-a-lago-case-with-an-assist-from-antonin-scalia/)
+4. [![Kristofer Kelle McDonald (WCSC).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Kristofer-Kelle-McDonald-432x243.jpg)](https://lawandcrime.com/crime/theres-just-no-excuse-nighttime-hunter-fatally-shot-woman-thinking-he-heard-deer-deputies-say/)
     
-    ### ['Special counsel Smith answers to no one': Attorneys who represented Trump during Mueller probe look to kneecap Mar-a-Lago case – with an assist from Antonin Scalia](https://lawandcrime.com/high-profile/special-counsel-smith-answers-to-no-one-attorneys-who-represented-trump-during-mueller-probe-look-to-kneecap-mar-a-lago-case-with-an-assist-from-antonin-scalia/)
+    ### ['There’s just no excuse': Nighttime hunter shot woman thinking he heard deer, deputies say](https://lawandcrime.com/crime/theres-just-no-excuse-nighttime-hunter-fatally-shot-woman-thinking-he-heard-deer-deputies-say/)
     
-5. [![Anastasia Elizabeth Vaughn(Otter Tail County Jail)](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Anastasia-Elizabeth-VaughnOtter-Tail-County-Jail-432x243.jpeg)](https://lawandcrime.com/crime/shoeless-grandma-left-infant-in-roadside-ditch-on-rainy-day-ran-away-then-told-cops-she-was-looking-for-a-child-after-day-drinking-sheriff/)
+5. [![Jack Smith, on the left; Joe Biden, in the middle; Donald Trump, on the right.](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Smith-Biden-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/it-makes-no-difference-if-the-president-acquiesced-republican-ags-say-jack-smiths-office-is-unconstitutional-because-of-his-independence-from-biden/)
     
-    ### [Shoeless grandma left infant in roadside ditch on rainy day, ran away, then told cops she was 'looking for a child' after day-drinking: Sheriff](https://lawandcrime.com/crime/shoeless-grandma-left-infant-in-roadside-ditch-on-rainy-day-ran-away-then-told-cops-she-was-looking-for-a-child-after-day-drinking-sheriff/)
+    ### ['It makes no difference if the President acquiesced': Republican AGs say Jack Smith's office is unconstitutional because of his independence from Biden](https://lawandcrime.com/high-profile/it-makes-no-difference-if-the-president-acquiesced-republican-ags-say-jack-smiths-office-is-unconstitutional-because-of-his-independence-from-biden/)
     
 
 [](http://eepurl.com/c89Jdb)
