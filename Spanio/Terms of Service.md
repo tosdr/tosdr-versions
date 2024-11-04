@@ -339,6 +339,6 @@ Company
 
 Socials
 
-[Facebook](https://www.facebook.com/Span-100114435667344)[Youtube](https://www.youtube.com/channel/UClLe-YG5QZKFJAlJhwdYPGA)[X](https://twitter.com/span_io?lang=en)[Instagram](https://www.instagram.com/get_span/)[TikTok](https://www.tiktok.com/@span.io)[LinkedIn](https://www.linkedin.com/company/spanio)
+[Facebook](https://www.facebook.com/Span-100114435667344)[YouTube](https://www.youtube.com/channel/UClLe-YG5QZKFJAlJhwdYPGA)[X](https://twitter.com/span_io?lang=en)[Instagram](https://www.instagram.com/get_span/)[TikTok](https://www.tiktok.com/@span.io)[LinkedIn](https://www.linkedin.com/company/spanio)
 
 [Support](https://support.span.io/hc/en-us/)[Legal](https://www.span.io/legal)[Accessibility](#)
