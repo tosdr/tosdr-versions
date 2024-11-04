@@ -565,9 +565,7 @@ Nächste Seite
 
 [Mein Konto](https://www.test.de/Hilfe-5836822-5225600/)
 
-Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
-
-     ![](https://cdn.test.de/file/image/c2/21/26597259-9f5e-4153-8975-ec30fa557d0b-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+     ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -588,20 +586,20 @@ Weitere spannende Themen
 Neueste Tests
 
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
+* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
-* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 
 test.de entdecken
 
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
-* [Augen­brauen­stifte im Test: Sieben für schöne Augen­brauen](https://www.test.de/Augenbrauenstifte-im-Test-Acht-fuer-schoene-Augenbrauen-5933385-0/ "Augenbrauenstifte im Test - Sieben für schöne Augenbrauen")
-* [Wild: Hirsch, Hase, Reh: Echte Alternativen für Fleisch­fans](https://www.test.de/Wild-Hirsch-Hase-Reh-Echte-Alternativen-fuer-Fleischfans-5934969-0/ "Wild - Hirsch, Hase, Reh: Echte Alternativen für Fleischfans")
+* [Finanz­aufsicht: Gefälschte E-Mails](https://www.test.de/Finanzaufsicht-Gefaelschte-E-Mails-6020298-0/ "Finanzaufsicht - Gefälschte E-Mails")
+* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
+* [Das Renten-Set: Formulare für Ihre Rentenplanung](https://www.test.de/Das-Renten-Set-Formulare-fuer-Ihre-Rentenplanung-6138022-0/ "Das Renten-Set - Formulare für Ihre Rentenplanung")
+* [Dubioses Fest­geld: Vorsicht bei Alpha Blue Sky](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Alpha-Blue-Sky-6146449-0/ "Dubioses Festgeld - Vorsicht bei Alpha Blue Sky")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
 
 Fußbereich
 
@@ -2702,9 +2700,7 @@ Nächste Seite
 
 Nächste Seite
 
-Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
-
-     ![](https://cdn.test.de/file/image/c2/21/26597259-9f5e-4153-8975-ec30fa557d0b-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+     ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -2725,24 +2721,22 @@ Weitere spannende Themen
 Neueste Tests
 
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
+* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
-* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 
 test.de entdecken
 
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
-* [Augen­brauen­stifte im Test: Sieben für schöne Augen­brauen](https://www.test.de/Augenbrauenstifte-im-Test-Acht-fuer-schoene-Augenbrauen-5933385-0/ "Augenbrauenstifte im Test - Sieben für schöne Augenbrauen")
-* [Wild: Hirsch, Hase, Reh: Echte Alternativen für Fleisch­fans](https://www.test.de/Wild-Hirsch-Hase-Reh-Echte-Alternativen-fuer-Fleischfans-5934969-0/ "Wild - Hirsch, Hase, Reh: Echte Alternativen für Fleischfans")
+* [Finanz­aufsicht: Gefälschte E-Mails](https://www.test.de/Finanzaufsicht-Gefaelschte-E-Mails-6020298-0/ "Finanzaufsicht - Gefälschte E-Mails")
+* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
+* [Das Renten-Set: Formulare für Ihre Rentenplanung](https://www.test.de/Das-Renten-Set-Formulare-fuer-Ihre-Rentenplanung-6138022-0/ "Das Renten-Set - Formulare für Ihre Rentenplanung")
+* [Dubioses Fest­geld: Vorsicht bei Alpha Blue Sky](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Alpha-Blue-Sky-6146449-0/ "Dubioses Festgeld - Vorsicht bei Alpha Blue Sky")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
 
-Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
-
-     ![](https://cdn.test.de/file/image/c2/21/26597259-9f5e-4153-8975-ec30fa557d0b-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+     ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -2758,7 +2752,7 @@ Mobilrufnummer 2  Eltern-Geburtstag  Untertitel 2
 
 Ja, ich möchte diesen und weitere Newsletter der Stiftung Warentest abonnieren und bin mit der Auswertung meiner Newsletternutzung einverstanden. [Informationen zu den Newslettern und zum Datenschutz.](https://www.test.de/datenschutz/#id5105473)
 
-     ![](https://cdn.test.de/file/image/c2/21/26597259-9f5e-4153-8975-ec30fa557d0b-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+     ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -2783,38 +2777,38 @@ Weitere spannende Themen
 Neueste Tests
 
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
+* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
-* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 
 test.de entdecken
 
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
-* [Augen­brauen­stifte im Test: Sieben für schöne Augen­brauen](https://www.test.de/Augenbrauenstifte-im-Test-Acht-fuer-schoene-Augenbrauen-5933385-0/ "Augenbrauenstifte im Test - Sieben für schöne Augenbrauen")
-* [Wild: Hirsch, Hase, Reh: Echte Alternativen für Fleisch­fans](https://www.test.de/Wild-Hirsch-Hase-Reh-Echte-Alternativen-fuer-Fleischfans-5934969-0/ "Wild - Hirsch, Hase, Reh: Echte Alternativen für Fleischfans")
+* [Finanz­aufsicht: Gefälschte E-Mails](https://www.test.de/Finanzaufsicht-Gefaelschte-E-Mails-6020298-0/ "Finanzaufsicht - Gefälschte E-Mails")
+* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
+* [Das Renten-Set: Formulare für Ihre Rentenplanung](https://www.test.de/Das-Renten-Set-Formulare-fuer-Ihre-Rentenplanung-6138022-0/ "Das Renten-Set - Formulare für Ihre Rentenplanung")
+* [Dubioses Fest­geld: Vorsicht bei Alpha Blue Sky](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Alpha-Blue-Sky-6146449-0/ "Dubioses Festgeld - Vorsicht bei Alpha Blue Sky")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
 
 Neueste Tests
 
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
+* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
-* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 
 test.de entdecken
 
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
-* [Augen­brauen­stifte im Test: Sieben für schöne Augen­brauen](https://www.test.de/Augenbrauenstifte-im-Test-Acht-fuer-schoene-Augenbrauen-5933385-0/ "Augenbrauenstifte im Test - Sieben für schöne Augenbrauen")
-* [Wild: Hirsch, Hase, Reh: Echte Alternativen für Fleisch­fans](https://www.test.de/Wild-Hirsch-Hase-Reh-Echte-Alternativen-fuer-Fleischfans-5934969-0/ "Wild - Hirsch, Hase, Reh: Echte Alternativen für Fleischfans")
+* [Finanz­aufsicht: Gefälschte E-Mails](https://www.test.de/Finanzaufsicht-Gefaelschte-E-Mails-6020298-0/ "Finanzaufsicht - Gefälschte E-Mails")
+* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
+* [Das Renten-Set: Formulare für Ihre Rentenplanung](https://www.test.de/Das-Renten-Set-Formulare-fuer-Ihre-Rentenplanung-6138022-0/ "Das Renten-Set - Formulare für Ihre Rentenplanung")
+* [Dubioses Fest­geld: Vorsicht bei Alpha Blue Sky](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Alpha-Blue-Sky-6146449-0/ "Dubioses Festgeld - Vorsicht bei Alpha Blue Sky")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
 
 Service Stiftung Warentest
 
