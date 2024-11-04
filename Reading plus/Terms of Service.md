@@ -69,8 +69,8 @@ Search
 
 * [Research & Results](https://www.readingplus.com/research-results/)
 * [Overview](https://www.readingplus.com/research-results/)
-* [Efficacy](https://www.dreambox.com/resources/research?curriculum=reading&first=25)
-* [Success Stories](https://www.dreambox.com/resources/case-study?curriculum=reading&first=25)
+* [Efficacy](https://www.discoveryeducation.com/solutions/literacy/dreambox-reading-plus/research/)
+* [Success Stories](https://www.discoveryeducation.com/success-stories/)
 * [Alignments](https://www.readingplus.com/reading-curriculum-alignment/)
 * [Evaluations](https://www.readingplus.com/evaluations/)
 
@@ -253,8 +253,8 @@ This Agreement constitutes the entire agreement and understanding between the Pa
 
 * [Research & Results](https://www.readingplus.com/research-results/)
 * [Overview](https://www.readingplus.com/research-results/)
-* [Efficacy](https://www.dreambox.com/resources/research?curriculum=reading&first=25)
-* [Success Stories](https://www.dreambox.com/resources/case-study?curriculum=reading&first=25)
+* [Efficacy](https://www.discoveryeducation.com/solutions/literacy/dreambox-reading-plus/research/)
+* [Success Stories](https://www.discoveryeducation.com/success-stories/)
 * [Alignments](https://www.readingplus.com/reading-curriculum-alignment/)
 * [Evaluations](https://www.readingplus.com/evaluations/)
 
