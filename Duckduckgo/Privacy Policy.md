@@ -312,7 +312,7 @@ DuckDuckGo is the independent Internet privacy company for anyone who’s tired 
 
 © 2024 [DuckDuckGo](https://duckduckgo.com/)
 
-Privacy, simplified.
+Your protection, our priority.
 
 ### Learn More
 
@@ -454,16 +454,16 @@ DuckDuckGo is the independent Internet privacy company for anyone who’s tired 
 
 © 2024 [DuckDuckGo](https://duckduckgo.com/)
 
-Privacy, simplified.
+Your protection, our priority.
 
 © 2024 [DuckDuckGo](https://duckduckgo.com/)
 
-Privacy, simplified.
+Your protection, our priority.
 
 © 2024 [DuckDuckGo](https://duckduckgo.com/)
 
-Privacy, simplified.
+Your protection, our priority.
 
 © 2024 [DuckDuckGo](https://duckduckgo.com/)
 
-Privacy, simplified.
+Your protection, our priority.
