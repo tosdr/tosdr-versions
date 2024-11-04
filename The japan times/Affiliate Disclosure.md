@@ -31,8 +31,8 @@ Subscribe
  ![Search](/theme_japantimes/images/search_icon.svg)
 
 * [Post-election tumult](https://www.japantimes.co.jp/news/japan/politics/ "Post-election tumult")
-* [North Korea in Ukraine](https://www.japantimes.co.jp/about-us/link-policy/tag/north-korea/ "North Korea in Ukraine")
-* [U.S. Presidential election](https://www.japantimes.co.jp/about-us/link-policy/tag/2024-us-presidential-election/ "U.S. Presidential election")
+* [North Korea in Ukraine](https://www.japantimes.co.jp/tag/north-korea/ "North Korea in Ukraine")
+* [U.S. Presidential election](https://www.japantimes.co.jp/tag/2024-us-presidential-election/ "U.S. Presidential election")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
 
@@ -139,17 +139,17 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431318.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.")](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
 
+[Spate of burglaries in Kanto highlight importance of home security](https://www.japantimes.co.jp/news/2024/11/03/japan/crime-legal/japan-robbery-safeguard/ "Spate of burglaries in Kanto highlight importance of home security")
+
+  [![Police officers investigate near a house in Tokyo where a resident was assaulted by a group of burglars on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/03/431861.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Police officers investigate near a house in Tokyo where a resident was assaulted by a group of burglars on Saturday.")](https://www.japantimes.co.jp/news/2024/11/03/japan/crime-legal/japan-robbery-safeguard/ "Spate of burglaries in Kanto highlight importance of home security")
+
+[Status quo or disruption? Breaking down the U.S. election's impact on Japan](https://www.japantimes.co.jp/news/2024/11/03/japan/politics/us-presidential-election-japan-preview/ "Status quo or disruption? Breaking down the U.S. election's impact on Japan")
+
+  [![Republican presidential candidate Donald Trump and Kamala Harris, the Democratic candidate, face off in an election Tuesday that will have wide-ranging implications for Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/03/431885.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Republican presidential candidate Donald Trump and Kamala Harris, the Democratic candidate, face off in an election Tuesday that will have wide-ranging implications for Japan.")](https://www.japantimes.co.jp/news/2024/11/03/japan/politics/us-presidential-election-japan-preview/ "Status quo or disruption? Breaking down the U.S. election's impact on Japan")
+
 [Ishiba to meet with U.S. and Chinese leaders during multilateral summits](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
 
   [![Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431770.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ")](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
-
-[In pictures: Dodgers fans fete World Series title with party fit for Hollywood](https://www.japantimes.co.jp/sports/2024/11/02/baseball/mlb/dodgers-party-world-series/ "In pictures: Dodgers fans fete World Series title with party fit for Hollywood")
-
-  [![Shohei Ohtani speaks during the Dodgers' World Series celebration on Friday at Dodger Stadium in Los Angeles. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431804.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani speaks during the Dodgers' World Series celebration on Friday at Dodger Stadium in Los Angeles. ")](https://www.japantimes.co.jp/sports/2024/11/02/baseball/mlb/dodgers-party-world-series/ "In pictures: Dodgers fans fete World Series title with party fit for Hollywood")
-
-[Uniqlo store manager arrested over filming of women in fitting rooms](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
-
-  [![Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431597.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
 
 Editors' Picks
 --------------
@@ -172,23 +172,25 @@ By [Shawn B. Swinger](https://www.japantimes.co.jp/author/5552/shawn-b-swinger/ 
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Ishiba to meet with U.S. and Chinese leaders during multilateral summits](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
+[Spate of burglaries in Kanto highlight importance of home security](https://www.japantimes.co.jp/news/2024/11/03/japan/crime-legal/japan-robbery-safeguard/ "Spate of burglaries in Kanto highlight importance of home security")
 
-  [![Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431770.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ")](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
-[BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
-
-[In pictures: Dodgers fans fete World Series title with party fit for Hollywood](https://www.japantimes.co.jp/sports/2024/11/02/baseball/mlb/dodgers-party-world-series/ "In pictures: Dodgers fans fete World Series title with party fit for Hollywood")
-
-By [Joshua Mellin](https://www.japantimes.co.jp/author/5840/joshua-mellin/ "Joshua Mellin")  
-
-  [![Shohei Ohtani speaks during the Dodgers' World Series celebration on Friday at Dodger Stadium in Los Angeles. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431804.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani speaks during the Dodgers' World Series celebration on Friday at Dodger Stadium in Los Angeles. ")](https://www.japantimes.co.jp/sports/2024/11/02/baseball/mlb/dodgers-party-world-series/ "In pictures: Dodgers fans fete World Series title with party fit for Hollywood")
+  [![Police officers investigate near a house in Tokyo where a resident was assaulted by a group of burglars on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/03/431861.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Police officers investigate near a house in Tokyo where a resident was assaulted by a group of burglars on Saturday.")](https://www.japantimes.co.jp/news/2024/11/03/japan/crime-legal/japan-robbery-safeguard/ "Spate of burglaries in Kanto highlight importance of home security")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Uniqlo store manager arrested over filming of women in fitting rooms](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
+[Status quo or disruption? Breaking down the U.S. election's impact on Japan](https://www.japantimes.co.jp/news/2024/11/03/japan/politics/us-presidential-election-japan-preview/ "Status quo or disruption? Breaking down the U.S. election's impact on Japan")
 
-  [![Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431597.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested a Uniqlo store manager on suspicion of secretly filming women in the outlet's fitting rooms.")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/uniqlo-manager-voyeurism/ "Uniqlo store manager arrested over filming of women in fitting rooms")
+By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson") and [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+
+  [![Republican presidential candidate Donald Trump and Kamala Harris, the Democratic candidate, face off in an election Tuesday that will have wide-ranging implications for Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/03/431885.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Republican presidential candidate Donald Trump and Kamala Harris, the Democratic candidate, face off in an election Tuesday that will have wide-ranging implications for Japan.")](https://www.japantimes.co.jp/news/2024/11/03/japan/politics/us-presidential-election-japan-preview/ "Status quo or disruption? Breaking down the U.S. election's impact on Japan")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Ishiba to meet with U.S. and Chinese leaders during multilateral summits](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
+
+  [![Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431770.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ")](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
 
 Podcast
 -------
@@ -251,21 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Joint Russia sea drills signal start of Indonesian foreign policy shift](https://www.japantimes.co.jp/news/2024/11/03/asia-pacific/joint-indonesia-russia-sea-drills/ "Joint Russia sea drills signal start of Indonesian foreign policy shift")
+[Canada Navy chief sees more chances for multiservice exercises with Japan](https://www.japantimes.co.jp/news/2024/11/04/japan/canada-navy-commander-interview/ "Canada Navy chief sees more chances for multiservice exercises with Japan")
 
-9 hours ago
+1 mins ago
 
-[Top Slovak mountaineer dies in Nepal after historic ascent](https://www.japantimes.co.jp/news/2024/11/03/world/slovak-mountaineer-dies/ "Top Slovak mountaineer dies in Nepal after historic ascent")
+[Top diplomat says Foreign Ministry will ‘quietly examine’ revising SOFA pact](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/foreign-minister-iwaya-interview/ "Top diplomat says Foreign Ministry will ‘quietly examine’ revising SOFA pact")
 
-10 hours ago
+40 mins ago
 
-[U.S. bomber joins air drill with South Korea and Japan](https://www.japantimes.co.jp/news/2024/11/03/japan/us-bomber-joins-air-drill/ "U.S. bomber joins air drill with South Korea and Japan")
+[Netanyahu’s office accused of leaks to foil Gaza cease-fire](https://www.japantimes.co.jp/news/2024/11/04/world/politics/israeli-leak-netanyahu-aide/ "Netanyahu’s office accused of leaks to foil Gaza cease-fire")
 
-11 hours ago
+54 mins ago
 
-[Spate of robberies in Kanto highlight importance of home security](https://www.japantimes.co.jp/news/2024/11/03/japan/crime-legal/japan-robbery-safeguard/ "Spate of robberies in Kanto highlight importance of home security")
+[Chinese solar firms, ever-nimble, go where U.S. tariffs don't reach](https://www.japantimes.co.jp/business/2024/11/04/tech/chinese-solar-firms-us-tariffs/ "Chinese solar firms, ever-nimble, go where U.S. tariffs don't reach")
 
-[Former Rengo head Koga urges CDP and DPP to merge](https://www.japantimes.co.jp/news/2024/11/03/japan/politics/japan-rengo-koga-opposition-parties/ "Former Rengo head Koga urges CDP and DPP to merge")
+1 hours ago
+
+[Moldova's pro-Western Sandu claims election win after meddling allegations](https://www.japantimes.co.jp/news/2024/11/04/world/politics/moldova-sandu-election-meddling/ "Moldova's pro-Western Sandu claims election win after meddling allegations")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
