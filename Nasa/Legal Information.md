@@ -281,7 +281,7 @@ article 3 days ago](https://www.nasa.gov/science-research/we-are-all-made-of-cel
 
 ### Station Science Top News: Oct. 25, 2024
 
-article 5 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-25-2024/)
+article 6 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-25-2024/)
 
 ### Highlights
 
@@ -369,7 +369,7 @@ article 2 days ago](https://science.nasa.gov/citizen-science/exoasteroids/)[![Ti
 
 ### Meet the Authors – October 2024
 
-article 2 days ago](https://www.nasa.gov/meet-the-authors-october-2024-2/)
+article 3 days ago](https://www.nasa.gov/meet-the-authors-october-2024-2/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 3 weeks ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring
 
 ### From Mars Rovers to Factory Assembly Lines
 
-article 2 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/from-mars-rovers-to-factory-assembly-lines/)[![Mario Perez, back, holds a deployable solar panel as Craig Turczynski, left, secures it to the Advanced Composite Solar Sail System (ACS3) spacecraft in the Integration Facility of NASA Ames Research Center.](https://www.nasa.gov/wp-content/uploads/2024/10/acs3-test-and-final-preparation-for-launch.jpg?w=1024)
+article 3 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/from-mars-rovers-to-factory-assembly-lines/)[![Mario Perez, back, holds a deployable solar panel as Craig Turczynski, left, secures it to the Advanced Composite Solar Sail System (ACS3) spacecraft in the Integration Facility of NASA Ames Research Center.](https://www.nasa.gov/wp-content/uploads/2024/10/acs3-test-and-final-preparation-for-launch.jpg?w=1024)
 
 4 min read
 
