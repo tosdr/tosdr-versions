@@ -215,13 +215,13 @@ Call Now for a FREE Quote! [1-877-OXI-FRESH](tel:18776943737) **OR**
     * [Consideration Request](https://www.oxifresh.com/carpet-cleaning-companies/carpet-cleaning-franchise/considerationrequest/)
 * [Franchisee Login](https://www.oxifresh.com/login/index.html)
 
-![The World's Greenest Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-2.png)
+![Fast 1 Hour Dry Time Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-1.png)
 
 Zip Code  QUOTE & SCHEDULE
 
 Enter your zip/postal code above to find carpet cleaning services in your area, get a free quote or book online!
 
-Average 4.7 Stars Based on 302,612 Reviews
+Average 4.7 Stars Based on 302,780 Reviews
 
 * [Home](https://www.oxifresh.com/)
 * \>
@@ -441,17 +441,17 @@ What Customers Are Saying
 
 ### Average 4.7 stars (Out of 5)
 
-Based on 302,612 Carpet Cleaning Services Reviews
+Based on 302,780 Carpet Cleaning Services Reviews
 
-**BL.** - Miami, FL - 11/02/2024
-
-(5.0 Out of 5 stars)
-
-**JS.** - Washington, DC - 11/02/2024
+Quick service I loved the same day service , Cory was very proffesional and efficient, the house has a whole new vibe now after he cleaned the floors, I highly recommend to other people! **SJ.** - Indianapolis, IN - 11/03/2024
 
 (5.0 Out of 5 stars)
 
-**BW.** - Scottsdale, AZ - 11/02/2024
+OxiFresh technician, Wyatt, was prompt, friendly and courteous. He communicated clearly and did an excellent job of cleaning our carpet and furniture. Highly recommend! **EM.** - Bastrop, TX - 11/02/2024
+
+(5.0 Out of 5 stars)
+
+Prompt, professional with excellent service. Top quality work. Thank you **MH.** - Loganville, GA - 11/02/2024
 
 (5.0 Out of 5 stars)
 
