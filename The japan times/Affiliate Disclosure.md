@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 04, 2024](https://www.japantimes.co.jp/archive/2024/11/04/ "archive page")
+[November 05, 2024](https://www.japantimes.co.jp/archive/2024/11/05/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,13 +131,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Western and central Japan drenched by record rainfall for November](https://www.japantimes.co.jp/news/2024/11/02/japan/west-japan-rain-november/ "Western and central Japan drenched by record rainfall for November")
+[Tokyo's climate goals rely on a fuel that is falling out of favor](https://www.japantimes.co.jp/environment/2024/11/03/energy/tokyo-hydrogen-decarbonization-plan/ "Tokyo's climate goals rely on a fuel that is falling out of favor")
 
-  [![The Meteorological Agency said that, as of 2:10 p.m Saturday, a total of 188 observation points in western and central Japan had recorded their largest-ever 24-hour rainfall for November](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431794.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Meteorological Agency said that, as of 2:10 p.m Saturday, a total of 188 observation points in western and central Japan had recorded their largest-ever 24-hour rainfall for November")](https://www.japantimes.co.jp/news/2024/11/02/japan/west-japan-rain-november/ "Western and central Japan drenched by record rainfall for November")
-
-[At Japan’s hottest festival, crowds threaten to smother the flames](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
-
-  [![The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431318.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.")](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
+  [![The Tokyo Hydrogen Museum in the capital's Koto Ward on Thursday. The capital is targeting the “full use” of hydrogen produced using renewable energy “in all fields” by 2050 as part of its decarbonization drive.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/03/431714.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Tokyo Hydrogen Museum in the capital's Koto Ward on Thursday. The capital is targeting the “full use” of hydrogen produced using renewable energy “in all fields” by 2050 as part of its decarbonization drive.")](https://www.japantimes.co.jp/environment/2024/11/03/energy/tokyo-hydrogen-decarbonization-plan/ "Tokyo's climate goals rely on a fuel that is falling out of favor")
 
 [Spate of burglaries in Kanto highlight importance of home security](https://www.japantimes.co.jp/news/2024/11/03/japan/crime-legal/japan-robbery-safeguard/ "Spate of burglaries in Kanto highlight importance of home security")
 
@@ -147,28 +143,24 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Republican presidential candidate Donald Trump and Kamala Harris, the Democratic candidate, face off in an election Tuesday that will have wide-ranging implications for Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/03/431885.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Republican presidential candidate Donald Trump and Kamala Harris, the Democratic candidate, face off in an election Tuesday that will have wide-ranging implications for Japan.")](https://www.japantimes.co.jp/news/2024/11/03/japan/politics/us-presidential-election-japan-preview/ "Status quo or disruption? Breaking down the U.S. election's impact on Japan")
 
-[Ishiba to meet with U.S. and Chinese leaders during multilateral summits](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
+[Gifu police officer arrested over alleged sex with underage girl](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
 
-  [![Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431770.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ")](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
+  [![The Gifu Prefectural Police headquarters in the city of Gifu](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431571.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Gifu Prefectural Police headquarters in the city of Gifu")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
+
+[At Japan’s hottest festival, crowds threaten to smother the flames](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
+
+  [![The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431318.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.")](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
 
 Editors' Picks
 --------------
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[ENVIRONMENT](https://www.japantimes.co.jp/environment/ "ENVIRONMENT")
 
-[Western and central Japan drenched by record rainfall for November](https://www.japantimes.co.jp/news/2024/11/02/japan/west-japan-rain-november/ "Western and central Japan drenched by record rainfall for November")
+[Tokyo's climate goals rely on a fuel that is falling out of favor](https://www.japantimes.co.jp/environment/2024/11/03/energy/tokyo-hydrogen-decarbonization-plan/ "Tokyo's climate goals rely on a fuel that is falling out of favor")
 
-By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+By [Chris Russell](https://www.japantimes.co.jp/author/170/chris-russell/ "Chris Russell")  
 
-  [![The Meteorological Agency said that, as of 2:10 p.m Saturday, a total of 188 observation points in western and central Japan had recorded their largest-ever 24-hour rainfall for November](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431794.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Meteorological Agency said that, as of 2:10 p.m Saturday, a total of 188 observation points in western and central Japan had recorded their largest-ever 24-hour rainfall for November")](https://www.japantimes.co.jp/news/2024/11/02/japan/west-japan-rain-november/ "Western and central Japan drenched by record rainfall for November")
-
-[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
-
-[At Japan’s hottest festival, crowds threaten to smother the flames](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
-
-By [Shawn B. Swinger](https://www.japantimes.co.jp/author/5552/shawn-b-swinger/ "Shawn B. Swinger")  
-
-  [![The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431318.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.")](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
+  [![The Tokyo Hydrogen Museum in the capital's Koto Ward on Thursday. The capital is targeting the “full use” of hydrogen produced using renewable energy “in all fields” by 2050 as part of its decarbonization drive.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/03/431714.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Tokyo Hydrogen Museum in the capital's Koto Ward on Thursday. The capital is targeting the “full use” of hydrogen produced using renewable energy “in all fields” by 2050 as part of its decarbonization drive.")](https://www.japantimes.co.jp/environment/2024/11/03/energy/tokyo-hydrogen-decarbonization-plan/ "Tokyo's climate goals rely on a fuel that is falling out of favor")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -188,9 +180,17 @@ By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Ishiba to meet with U.S. and Chinese leaders during multilateral summits](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
+[Gifu police officer arrested over alleged sex with underage girl](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
 
-  [![Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/02/431770.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, attends a news conference at the party's headquarters in Tokyo on Monday. ")](https://www.japantimes.co.jp/news/2024/11/02/japan/politics/ishiba-xi-biden-us-china/ "Ishiba to meet with U.S. and Chinese leaders during multilateral summits")
+  [![The Gifu Prefectural Police headquarters in the city of Gifu](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431571.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Gifu Prefectural Police headquarters in the city of Gifu")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
+
+[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
+
+[At Japan’s hottest festival, crowds threaten to smother the flames](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
+
+By [Shawn B. Swinger](https://www.japantimes.co.jp/author/5552/shawn-b-swinger/ "Shawn B. Swinger")  
+
+  [![The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431318.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.")](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
 
 Podcast
 -------
@@ -255,23 +255,23 @@ Latest News
 
 [Fifth time’s a charm as H3 rocket puts defense satellite in orbit](https://www.japantimes.co.jp/news/2024/11/04/japan/h3-rocket-x-band-satellite/ "Fifth time’s a charm as H3 rocket puts defense satellite in orbit")
 
-1 hours ago
+7 hours ago
 
 [Sikh activists see it as freedom. India calls it terrorism.](https://www.japantimes.co.jp/news/2024/11/04/asia-pacific/politics/sikh-activists-india-terrorism/ "Sikh activists see it as freedom. India calls it terrorism.")
 
-1 hours ago
+7 hours ago
 
 [Indonesia volcano eruption kills six and sets villages aflame](https://www.japantimes.co.jp/news/2024/11/04/asia-pacific/indonesia-volcano-eruption/ "Indonesia volcano eruption kills six and sets villages aflame")
 
-2 hours ago
+8 hours ago
 
 [Horse-trading continues ahead of next week's prime minister vote](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/parties-lobby-prime-minister-election/ "Horse-trading continues ahead of next week's prime minister vote")
 
-2 hours ago
+8 hours ago
 
-[Alleged recruiter of Saitama robbery ring arrested](https://www.japantimes.co.jp/news/2024/11/04/japan/crime-legal/crime-recruiter-arrested/ "Alleged recruiter of Saitama robbery ring arrested")
+[Alleged recruiter of Saitama burglary ring arrested](https://www.japantimes.co.jp/news/2024/11/04/japan/crime-legal/crime-recruiter-arrested/ "Alleged recruiter of Saitama burglary ring arrested")
 
-3 hours ago
+9 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
