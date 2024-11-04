@@ -83,7 +83,7 @@ Web map
     * [Departments](https://www.uab.cat/web/research/itineraries/uab-research/departments-1345667277389.html)
     * [Institutes & research centres](https://www.uab.cat/web/research/itineraries/uab-research/institutes-research-centres-1345667277372.html)
     * [UAB Research Portal](https://portalrecerca.uab.cat/en)
-    * [Management of international grants](https://www.uab.cat/web/research/itineraries/research-management/management-of-international-grants-1345844190197.html)
+    * [Management of international grants](https://www.uab.cat/web/research/itineraries/research-management/management-of-international-grants/what-we-do-1345844204562.html "Management of international grants")
     * [Tools & resources for scientific research](https://www.uab.cat/web/research/itineraries/research-management/access-to-resources-and-tools-1345848634982.html "Tools & resources for scientific research")
     * [Research calls portal](https://portalajuts.uab.cat/)
     * [EGRETA: UAB research output](https://www.uab.cat/web/research/itineraries/research-management/egreta-1345831017218.html)
