@@ -332,15 +332,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Sycamore wands are known to combust if they grow bored from a lack of excitement.
+Originally, the Weasleys’ cousin who was a Squib was going to have a child who would be a first year during “Goblet of Fire”. The child, Mafalda, was cut and her role was given to Rita Skeeter.
 
 ### Potter History
 
-August 10, 2004 – Harry Potter and the Order of the Phoenix is released in paperback; debuts at #1 on all charts.
+July 2, 1998 – Harry Potter and the Chamber of Secrets is published in the United Kingdom. The book skyrockets straight to the #1 spot on the BookTrack Best Seller List.
 
 ### Potter Quote
 
-“Welcome to a new year at Hogwarts! Before we begin our banquet, I would like to say a few words. And here they are: Nitwit! Blubber! Oddment! Tweak!”
+“One day you’ll read Hogwarts, A History, and perhaps that will remind you that you can’t Apparate or Disapparate inside Hogwarts.
 
 [](#)
 
