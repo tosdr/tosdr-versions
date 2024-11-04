@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [Indigenous Cultural Burning in Australia](https://www.sciencedaily.com/releases/2024/11/241101123754.htm)
 * [Why No Deep-Diving Crocodiles: Sinuses](https://www.sciencedaily.com/releases/2024/10/241029203003.htm)
 * [Revolutionary High-Speed 3D Bioprinter](https://www.sciencedaily.com/releases/2024/11/241101123841.htm)
 * [First Blueprint of the Human Spliceosome](https://www.sciencedaily.com/releases/2024/10/241031151843.htm)
@@ -238,7 +239,6 @@ this hour
 * [Chemists Just Broke a 100-Year-Old Rule](https://www.sciencedaily.com/releases/2024/10/241031151834.htm)
 * [Echolocating Bats Use an Acoustic Cognitive Map](https://www.sciencedaily.com/releases/2024/10/241031151724.htm)
 * [Neurotech Boosts Spatial Memory Without Surgery](https://www.sciencedaily.com/releases/2024/10/241030145640.htm)
-* [Surprisingly Smooth Disk Around Vega](https://www.sciencedaily.com/releases/2024/11/241101123528.htm)
 
 Trending Topics
 ---------------
@@ -257,9 +257,9 @@ this week
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
-
 [Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+
+[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
 [Communications](https://www.sciencedaily.com/news/computers_math/communications/)
 
