@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
-* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
-* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
-* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
-* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
-* [Private Alters­vorsorge: Mit Vorsorgebeiträgen Steuern sparen](https://www.test.de/Private-Altersvorsorge-Mit-Vorsorgebeitraegen-Steuern-sparen-5973366-0/ "Private Altersvorsorge - Mit Vorsorgebeiträgen Steuern sparen")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
+* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
+* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
-* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
-* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
-* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
-* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
-* [Private Alters­vorsorge: Mit Vorsorgebeiträgen Steuern sparen](https://www.test.de/Private-Altersvorsorge-Mit-Vorsorgebeitraegen-Steuern-sparen-5973366-0/ "Private Altersvorsorge - Mit Vorsorgebeiträgen Steuern sparen")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
+* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
+* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
-* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
-* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
-* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
-* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
-* [Private Alters­vorsorge: Mit Vorsorgebeiträgen Steuern sparen](https://www.test.de/Private-Altersvorsorge-Mit-Vorsorgebeitraegen-Steuern-sparen-5973366-0/ "Private Altersvorsorge - Mit Vorsorgebeiträgen Steuern sparen")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
+* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
+* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
-* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
-* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
-* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
-* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
-* [Private Alters­vorsorge: Mit Vorsorgebeiträgen Steuern sparen](https://www.test.de/Private-Altersvorsorge-Mit-Vorsorgebeitraegen-Steuern-sparen-5973366-0/ "Private Altersvorsorge - Mit Vorsorgebeiträgen Steuern sparen")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
+* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
+* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
 
 Service Stiftung Warentest
 
