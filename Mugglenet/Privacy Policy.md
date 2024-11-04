@@ -244,12 +244,6 @@ MuggleNet Archive Select Month November 2024  (2) October 2024  (27) September
 
 ### November 2024
 
-#### Sun, Nov 3
-
-Sirius Black's birthday
-
-Recurs yearly
-
 #### Mon, Nov 4
 
 Binns tells class about the Chamber of Secrets
@@ -338,15 +332,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-There is a rumor that when the House points counter was built for the “Harry Potter” film series, it caused a nationwide shortage of Indian glass beads.
+A legend says that the founders of Hogwarts found the Pensieve partially buried in the ground where they decided to build the school.
 
 ### Potter History
 
-June 23, 2011 – Pottermore was announced in a YouTube video.
+December 3, 2008 – The Associated Press reveals that 8 million copies of “The Tales of Beedle the Bard” will be released worldwide.
 
 ### Potter Quote
 
-“That is the enemy – their arrogance, their power lust, their barbarity. He’s the key to our victory.”
+“Don’t worry. You’re just as sane as I am.”
 
 [](#)
 
