@@ -116,6 +116,7 @@ Menu
 * [New](https://www.cdkeys.com/new)
 * [Coming Soon](https://www.cdkeys.com/coming-soon)
 
+* [My Account](https://www.cdkeys.com/customer/account/login/)
 * [Wishlist](https://www.cdkeys.com/wishlist/)
 * [My Cart](https://www.cdkeys.com/checkout/cart/)
 * [Checkout](https://www.cdkeys.com/checkout/)
@@ -457,11 +458,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-2.    [![Sea of Thieves Xbox One / PC](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/hero_8_.jpg)   No 2. \-86%](https://www.cdkeys.com/xbox-live/sea-of-thieves-xbox-one)
+2.    [![Sea of Thieves Xbox One / PC](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/hero_8_.jpg)   No 2. \-84%](https://www.cdkeys.com/xbox-live/sea-of-thieves-xbox-one)
     
     **[Sea of Thieves: 2024 Edition Xbox One / Xbox Series X|S / PC](https://www.cdkeys.com/xbox-live/sea-of-thieves-xbox-one "Sea of Thieves: 2024 Edition Xbox One / Xbox Series X|S / PC")**
     
-    Special Price $8.79 RRP $64.99
+    Special Price $10.39 RRP $64.99
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -487,11 +488,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-5.    [![Red Dead Redemption 2 PC - Rockstar Games Launcher](https://cdn.cdkeys.com/245x340/media/catalog/product/f/i/fifa-22-pc-game-origin-cover_4_.jpg)   No 5. \-76%](https://www.cdkeys.com/pc/red-dead-redemption-2-pc-rockstar-cd-key)
+5.    [![Red Dead Redemption 2 PC - Rockstar Games Launcher](https://cdn.cdkeys.com/245x340/media/catalog/product/f/i/fifa-22-pc-game-origin-cover_4_.jpg)   No 5. \-77%](https://www.cdkeys.com/pc/red-dead-redemption-2-pc-rockstar-cd-key)
     
     **[Red Dead Redemption 2 PC - Rockstar Games Launcher](https://www.cdkeys.com/pc/red-dead-redemption-2-pc-rockstar-cd-key "Red Dead Redemption 2 PC - Rockstar Games Launcher")**
     
-    Special Price $18.79 RRP $77.99
+    Special Price $18.19 RRP $77.99
     
     [Add to Wish List](# "Add to Wish List")
     
