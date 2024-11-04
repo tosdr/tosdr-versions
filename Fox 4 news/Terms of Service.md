@@ -91,15 +91,15 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
-[Severe Thunderstorm Warning
+[Flash Flood Warning
 
-from SUN 1:44 PM CST until SUN 2:30 PM CST, Jack County](https://www.fox4news.com/weather-alerts)
+from SUN 5:14 PM CST until SUN 8:15 PM CST, Cooke County](https://www.fox4news.com/weather-alerts)
 
 2
 
-[Severe Thunderstorm Watch
+[Tornado Watch
 
-from SUN 11:58 AM CST until SUN 5:00 PM CST, Wise County, Palo Pinto County, Jack County](https://www.fox4news.com/weather-alerts)
+until SUN 8:00 PM CST, Cooke County, Lamar County, Fannin County](https://www.fox4news.com/weather-alerts)
 
 Terms of Use
 ============
