@@ -326,7 +326,7 @@ Follow us
 * [Youtube Youtube](https://www.youtube.com/channel/UCBIucJqzWm9H7Q0oxO7tfUQ)
 * [Twitter Twitter](https://twitter.com/rovio)
 
-© 2009 - 2024 Rovio Entertainment Corporation. All rights reserved.
+© 2009 - 2024 Rovio Entertainment Ltd. All rights reserved.
 
 * [Privacy Notice](https://www.rovio.com/privacy/)
 * [Terms of Service](https://www.rovio.com/terms-of-service/)
