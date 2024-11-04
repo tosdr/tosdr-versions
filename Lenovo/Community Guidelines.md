@@ -447,7 +447,7 @@ Hamburger Menu
     
     * Shop
         
-        [Shop all Education](https://www.lenovo.com/us/en/student/) [Students Discounts](https://www.lenovo.com/us/en/landingpage/students-and-teachers/) [Laptops by Major](https://www.lenovo.com/us/en/d/laptops-for-college/) [Laptops by Grade](https://www.lenovo.com/us/en/d/student-laptops/shop-by-grade/) [Student Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/students/)
+        [Shop all Education](https://www.lenovo.com/us/en/student/) [Students Discounts](https://www.lenovo.com/us/en/landingpage/students-and-teachers/) [Laptops by Grade](https://www.lenovo.com/us/en/d/student-laptops/shop-by-grade/) [Laptops by Major](https://www.lenovo.com/us/en/d/laptops-for-college/) [Student Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/students/)
         
         Quick Links
         
@@ -458,12 +458,12 @@ Hamburger Menu
     
 * [Gaming](https://www.lenovo.com/us/en/gaming/store/)
     
-    * [Shop](https://www.lenovo.com/us/en/gaming/store/) [Shop All Gaming](https://www.lenovo.com/us/en/gaming/store/) [Gaming Laptops](https://www.lenovo.com/us/en/d/gaming-laptops/) [Gaming Desktops](https://www.lenovo.com/us/en/d/gaming-desktops/) [Gaming Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/gaming-accessories/)
+    * [Shop](https://www.lenovo.com/us/en/gaming/store/) [Shop All Gaming](https://www.lenovo.com/us/en/gaming/store/) [Gaming Laptops](https://www.lenovo.com/us/en/d/gaming-laptops/) [Gaming Desktops](https://www.lenovo.com/us/en/d/gaming-desktops/) [Gaming Handhelds](https://www.lenovo.com/us/en/p/handheld/legion-go/len106g0001) [Gaming Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/gaming-accessories/)
         
         Gaming By Brand
         
-        [Lenovo Legion](https://www.lenovo.com/us/en/legion/) [Lenovo LOQ](https://www.lenovo.com/us/en/c/lenovo-loq/) [Gaming Content Creators](https://www.lenovo.com/us/en/creator/pcs-for-digital-content-creators/)
-    * [Best Selling](https://www.lenovo.com/us/en/gaming/store/) [Legion Pro 5i 16"](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-5-series/legion-pro-5i-gen-9-(16-inch-intel)/len101g0033) [Legion Tower 7i](https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/legion-tower-7i-gen-8-intel/len102g0007) [Legion Go](https://www.lenovo.com/us/en/p/handheld/legion-go/len106g0001)
+        [Lenovo Legion](https://www.lenovo.com/us/en/legion/) [Lenovo LOQ](https://www.lenovo.com/us/en/c/lenovo-loq/)
+    * [Best Selling](https://www.lenovo.com/us/en/gaming/store/) [Legion 7i Gen 9](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-7-series/legion-7i-gen-9-16-inch-intel/len101g0037) [Legion Tower 5 Gen 8](https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/legion-tower-5-gen-8-amd/len102g0005) [LOQ with RTX 4050](https://www.lenovo.com/us/en/p/laptops/loq-laptops/lenovo-loq-15irx9/len101q0005)
         
         Quick Links
         
@@ -804,7 +804,7 @@ skip to main content
         [AI PC](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Copilot+ PCs](https://www.lenovo.com/us/en/copilot-plus-pc/index.html) [AI-Powered Gaming PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI-Powered%2520Gaming%2520PCs) [Shop All Laptops](https://www.lenovo.com/us/en/laptops/results)
     * Best Selling Laptops
         
-        [ThinkPad X1 Carbon Gen 12](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-carbon-gen-12-(14-inch-intel)/len101t0083) [ThinkPad E16 Gen 2](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpade/lenovo-thinkpad-e16-gen-2-(16-inch-intel)/len101t0088) [Legion Pro 5i Gaming (16" Intel)](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-5-series/legion-pro-5i-gen-9-(16-inch-intel)/len101g0033) [Lenovo Slim 7i (14” Intel)](https://www.lenovo.com/us/en/p/laptops/lenovo/lenovo_slim_series/lenovo-slim-7i-gen-9-(14-inch-intel)/len101l0044) [IdeaPad 5i 2-in-1 (16″ Intel)](https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-2-in-1-series/lenovo-ideapad-5i-2-in-1-gen-9-(16-inch-intel)/len101i0103)
+        [ThinkPad X1 Carbon Gen 12](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-carbon-gen-12-(14-inch-intel)/len101t0083) [ThinkPad E16 Gen 2](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpade/lenovo-thinkpad-e16-gen-2-(16-inch-intel)/len101t0088) [Legion Pro 5i Gaming (16" Intel)](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-5-series/legion-pro-5i-gen-9-(16-inch-intel)/len101g0033) [Lenovo Slim 7i (14” Intel)](https://www.lenovo.com/us/en/p/laptops/lenovo/lenovo_slim_series/lenovo-slim-7i-gen-9-(14-inch-intel)/len101l0044) [IdeaPad Slim 5 (16″ AMD)](https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-500/lenovo-ideapad-slim-5-gen-9-16-inch-amd/len101i0093)
         
         Quick Links
         
@@ -855,7 +855,7 @@ skip to main content
     * [Software & Subscriptions](https://www.lenovo.com/us/en/dc/accessories-and-software/software) [PDF Editors](https://www.lenovo.com/us/en/dc/accessories-and-software/software?visibleDatas=706%3APDF%2520Software) [Graphics & Creativity](https://www.lenovo.com/us/en/dc/accessories-and-software/software?visibleDatas=706%3AGraphics%2520%2526%2520Design) [Security](https://www.lenovo.com/us/en/dc/accessories-and-software/software?visibleDatas=706%3ANorton%2520Subscriptions%2CSecurity) [Utilities](https://www.lenovo.com/us/en/dc/accessories-and-software/software?visibleDatas=706%3AUtilities) [Subscriptions](https://www.lenovo.com/us/en/dc/accessories-and-software/software%20subscription) [Microsoft 365](https://www.lenovo.com/us/en/business/software/microsoft-365-business/) [Google Workspace](https://www.lenovo.com/us/en/business/software/google-workspace/) [Lenovo Vantage](https://www.lenovo.com/us/en/software/vantage) [Amazon Music](https://www.lenovo.com/us/en/dc/accessories-and-software/software%20subscription?IPromoID=122913&visibleDatas=1008%3AAmazon) [Shop All Software](https://www.lenovo.com/us/en/dc/accessories-and-software/software)
     * Quick Links
         
-        [Find Compatible Accessories](https://www.lenovo.com/us/en/compatibilityfinder/) [Web Exclusives](https://www.lenovo.com/us/en/d/web-exclusive-accessories-deals/) [Yes, Lenovo Sells That Brand](https://www.lenovo.com/us/en/d/deals/electronics/) [Bundle & Save](https://www.lenovo.com/us/en/dc/accessories-and-software/convenience-bundles) [Accessory Deals](https://www.lenovo.com/us/en/d/deals/accessories/) [New Arrivals](https://www.lenovo.com/us/en/d/accessories-and-software/new-accessories/) [PC Support](https://pcsupport.lenovo.com/us/en/) [Warranty Lookup & Extension](https://support.lenovo.com/us/en/warranty-upgrade-and-services/?source=ecom_warranty) [Teens Accessories](https://www.lenovo.com/us/en/d/accessories/teens-accessories/) [Streaming & Podcasting](https://www.lenovo.com/us/en/d/streaming-and-podcasting/)
+        [Find Compatible Accessories](https://www.lenovo.com/us/en/compatibilityfinder/) [Web Exclusives](https://www.lenovo.com/us/en/d/web-exclusive-accessories-deals/) [Bundle & Save](https://www.lenovo.com/us/en/dc/accessories-and-software/convenience-bundles) [Accessory Deals](https://www.lenovo.com/us/en/d/deals/accessories/) [New Arrivals](https://www.lenovo.com/us/en/d/accessories-and-software/new-accessories/) [PC Support](https://pcsupport.lenovo.com/us/en/) [Warranty Lookup & Extension](https://support.lenovo.com/us/en/warranty-upgrade-and-services/?source=ecom_warranty) [Accessories For Teens](https://www.lenovo.com/us/en/d/accessories/teens-accessories/) [Streaming & Podcasting](https://www.lenovo.com/us/en/d/streaming-and-podcasting/) [Shop All Brands](https://www.lenovo.com/us/en/d/deals/electronics/)
     
 * [Monitors](https://www.lenovo.com/us/en/d/accessories-and-monitors/monitors/monitor-buying-guide/)
     
@@ -1209,6 +1209,6 @@ Please select a Country / Region
 
 Compare  ()
 
-removeAll _x_
+_x_
 
 Call
