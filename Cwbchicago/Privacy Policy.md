@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/1200-block-south-prairie-chicago-map-326x245.jpg)](https://cwbchicago.com/2024/11/cops-medical-examiner-continue-investigation-after-woman-was-found-dead-next-to-severed-foot-in-south-loop-stairwell.html "Cops, medical examiner continue investigation after woman was found dead next to severed foot in South Loop stairwell")
+
+South Loop
+
+### [Cops, medical examiner continue investigation after woman was found dead next to severed foot in South Loop stairwell](https://cwbchicago.com/2024/11/cops-medical-examiner-continue-investigation-after-woman-was-found-dead-next-to-severed-foot-in-south-loop-stairwell.html "Cops, medical examiner continue investigation after woman was found dead next to severed foot in South Loop stairwell")
+
+[November 2, 2024 5:40 AM](https://cwbchicago.com/2024/11)
+
+Police continue to investigate the death of a woman who was found dead, lying next to her severed foot at the bottom of a luxury high-rise stairwell in the South Loop. [](https://cwbchicago.com/2024/11/cops-medical-examiner-continue-investigation-after-woman-was-found-dead-next-to-severed-foot-in-south-loop-stairwell.html "Cops, medical examiner continue investigation after woman was found dead next to severed foot in South Loop stairwell")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Jayda-Boatman-Devon-Glass-Jaylen-Sprouts-and-Nigah-Threets-326x245.jpg)](https://cwbchicago.com/2024/11/group-robbed-woman-on-cta-bus-while-one-recorded-it-all-on-their-phone-prosecutors.html "Group robbed woman on CTA bus while one recorded it all on their phone: prosecutors")
+
+Gage Park
+
+### [Group robbed woman on CTA bus while one recorded it all on their phone: prosecutors](https://cwbchicago.com/2024/11/group-robbed-woman-on-cta-bus-while-one-recorded-it-all-on-their-phone-prosecutors.html "Group robbed woman on CTA bus while one recorded it all on their phone: prosecutors")
+
+[November 1, 2024 7:34 PM](https://cwbchicago.com/2024/11)
+
+Four individuals face charges of robbery and mob action for allegedly mugging a woman on a CTA bus, with one of them recording the incident on their phone. Two of the accused were on pretrial release for other cases; one was wearing an ankle monitor.[](https://cwbchicago.com/2024/11/group-robbed-woman-on-cta-bus-while-one-recorded-it-all-on-their-phone-prosecutors.html "Group robbed woman on CTA bus while one recorded it all on their phone: prosecutors")
+
 [![](https://cwbchicago.com/wp-content/uploads/2023/12/Generic-red-tape-edited-326x245.jpg)](https://cwbchicago.com/2024/11/man-shot-9-year-old-grazed-outside-uptown-school.html "Man shot, 9-year-old grazed outside Uptown school")
 
 Uptown
@@ -252,26 +272,6 @@ Uptown
 [November 1, 2024 6:44 PM](https://cwbchicago.com/2024/11)
 
 A man was shot and a 9-year-old girl was grazed by a bullet when at least two gunmen opened fire near William C. Goudy Technology Academy, 5120 N Winthrop, in Uptown on Friday afternoon.[](https://cwbchicago.com/2024/11/man-shot-9-year-old-grazed-outside-uptown-school.html "Man shot, 9-year-old grazed outside Uptown school")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Lori-clown-326x245.jpg)](https://cwbchicago.com/2024/11/police-oversight-agency-recommends-cop-be-fired-for-posting-pic-of-former-mayor-in-clown-makeup.html "Police oversight agency recommends cop be fired for posting pic of former mayor in clown makeup")
-
-Citywide
-
-### [Police oversight agency recommends cop be fired for posting pic of former mayor in clown makeup](https://cwbchicago.com/2024/11/police-oversight-agency-recommends-cop-be-fired-for-posting-pic-of-former-mayor-in-clown-makeup.html "Police oversight agency recommends cop be fired for posting pic of former mayor in clown makeup")
-
-[November 1, 2024 11:28 AM](https://cwbchicago.com/2024/11)
-
-The agency charged with investigating wrongdoing by Chicago police officers recommended that an officer be fired for, mostly, posting a picture to Facebook of former Mayor Lori Lightfoot in “blackface,” when the image actually showed her in clown make-up, according to reports released Friday.[](https://cwbchicago.com/2024/11/police-oversight-agency-recommends-cop-be-fired-for-posting-pic-of-former-mayor-in-clown-makeup.html "Police oversight agency recommends cop be fired for posting pic of former mayor in clown makeup")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Melvin-Kirk-326x245.jpg)](https://cwbchicago.com/2024/11/burglar-caught-with-30k-worth-of-eyeglasses-just-4-days-after-being-arrested-for-shoplifting-prosecutors.html "Burglar caught with $30K worth of eyeglasses just 4 days after being arrested for shoplifting: prosecutors")
-
-Loop
-
-### [Burglar caught with $30K worth of eyeglasses just 4 days after being arrested for shoplifting: prosecutors](https://cwbchicago.com/2024/11/burglar-caught-with-30k-worth-of-eyeglasses-just-4-days-after-being-arrested-for-shoplifting-prosecutors.html "Burglar caught with $30K worth of eyeglasses just 4 days after being arrested for shoplifting: prosecutors")
-
-[November 1, 2024 8:22 AM](https://cwbchicago.com/2024/11)
-
-Prosecutors have charged a man with burglarizing a downtown LensCrafters just four days after he was released to await trial on shoplifting charges.[](https://cwbchicago.com/2024/11/burglar-caught-with-30k-worth-of-eyeglasses-just-4-days-after-being-arrested-for-shoplifting-prosecutors.html "Burglar caught with $30K worth of eyeglasses just 4 days after being arrested for shoplifting: prosecutors")
 
 Search
 
