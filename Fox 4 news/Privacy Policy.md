@@ -91,16 +91,6 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
-[Flash Flood Warning
-
-from SUN 5:14 PM CST until SUN 8:15 PM CST, Cooke County](https://www.fox4news.com/weather-alerts)
-
-2
-
-[Tornado Watch
-
-until SUN 8:00 PM CST, Cooke County, Lamar County, Fannin County](https://www.fox4news.com/weather-alerts)
-
 Privacy Policy
 ==============
 
@@ -412,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![NBC files Equal Time notice for Harris' SNL cameo following backlash](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2181946136-a.jpg?ve=1&tl=1)
+
+ ![NBC files Equal Time notice for Harris' SNL cameo following backlash](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2181946136-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nbc-files-equal-time-notice-harris-snl-cameo-following-backlash)
+
+### [NBC files Equal Time notice for Harris' SNL cameo following backlash](https://www.fox4news.com/news/nbc-files-equal-time-notice-harris-snl-cameo-following-backlash)
+
+ [![Lightning strike sets Irving home on fire](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-irving-old-towne-dr-lightning-strike-fire-9p_kdf_00.00.02.36.jpg?ve=1&tl=1)
+
+ ![Lightning strike sets Irving home on fire](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-irving-old-towne-dr-lightning-strike-fire-9p_kdf_00.00.02.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lightning-fire-irving)
+
+### [Lightning strike sets Irving home on fire](https://www.fox4news.com/news/lightning-fire-irving)
+
+ [![Ted Cruz, Colin Allred make final push to voters | Texas: The Issue Is](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/cruz-allred-texas-senate.jpg?ve=1&tl=1)
+
+ ![Ted Cruz, Colin Allred make final push to voters | Texas: The Issue Is](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/cruz-allred-texas-senate.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/ted-cruz-colin-allred-make-final-push-voters-texas-issue-is)
+
+### [Ted Cruz, Colin Allred make final push to voters | Texas: The Issue Is](https://www.fox4news.com/election/ted-cruz-colin-allred-make-final-push-voters-texas-issue-is)
+
+ [![Famous streamer Kai Cenat says he's the victim of yet another swatting call](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/11/32/18/gettyimages-1431445107.jpg?ve=1&tl=1)
+
+ ![Famous streamer Kai Cenat says he's the victim of yet another swatting call](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/11/32/18/592/333/gettyimages-1431445107.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kai-cenat-twitch-swatted-marietta-mansion)
+
+### [Famous streamer Kai Cenat says he's the victim of yet another swatting call](https://www.fox4news.com/news/kai-cenat-twitch-swatted-marietta-mansion)
+
  [![Suspect arrested in Collin County chase that went into Oklahoma](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/jose-rodriguez-mug.png?ve=1&tl=1)
 
  ![Suspect arrested in Collin County chase that went into Oklahoma](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/jose-rodriguez-mug.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/collin-county-chase-into-oklahoma)
 
 ### [Suspect arrested in Collin County chase that went into Oklahoma](https://www.fox4news.com/news/collin-county-chase-into-oklahoma)
-
- [![Mike Wolfe held Frank Fritz's hand as 'American Pickers' co-star took his last breath](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-123653054-1.jpg?ve=1&tl=1)
-
- ![Mike Wolfe held Frank Fritz's hand as 'American Pickers' co-star took his last breath](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-123653054-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mike-wolfe-held-frank-fritzs-hand-american-pickers-co-star-took-his-last-breath)
-
-### [Mike Wolfe held Frank Fritz's hand as 'American Pickers' co-star took his last breath](https://www.fox4news.com/news/mike-wolfe-held-frank-fritzs-hand-american-pickers-co-star-took-his-last-breath)
-
- [![US bombers arrive in Middle East as concerns of Iranian attack on Israel mount](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/b-52-stratofortress-strategic-bombers.jpg?ve=1&tl=1)
-
- ![US bombers arrive in Middle East as concerns of Iranian attack on Israel mount](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/b-52-stratofortress-strategic-bombers.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/us-bombers-middle-east-iran-israel)
-
-### [US bombers arrive in Middle East as concerns of Iranian attack on Israel mount](https://www.fox4news.com/news/us-bombers-middle-east-iran-israel)
-
- [![James Van Der Beek diagnosed with colorectal cancer](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1478911127-scaled.jpg?ve=1&tl=1)
-
- ![James Van Der Beek diagnosed with colorectal cancer](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1478911127-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/james-van-der-beek-colorectal-cancer)
-
-### [James Van Der Beek diagnosed with colorectal cancer](https://www.fox4news.com/news/james-van-der-beek-colorectal-cancer)
-
- [![Catch a sneak peek of this year's Starbucks holiday cup designs before they're in stores](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/warm-wishes-starbucks.jpg?ve=1&tl=1)
-
- ![Catch a sneak peek of this year's Starbucks holiday cup designs before they're in stores](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/warm-wishes-starbucks.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/starbucks-holiday-cups-2024)
-
-### [Catch a sneak peek of this year's Starbucks holiday cup designs before they're in stores](https://www.fox4news.com/news/starbucks-holiday-cups-2024)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
