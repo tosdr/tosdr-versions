@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![36 Facts About Salt Caves ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/36-facts-about-salt-caves/)
+[![23 Facts About The Calder Memorial Trophy ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/23-facts-about-the-calder-memorial-trophy/)
 
-Earth & Life Science
+Sports
 
-29 Oct 2024
+03 Nov 2024
 
-[36 Facts About Salt Caves](https://facts.net/earth-and-life-science/36-facts-about-salt-caves/)
+[23 Facts About The Calder Memorial Trophy](https://facts.net/lifestyle/sports/23-facts-about-the-calder-memorial-trophy/)
 
-[![30 Facts About Dopamine Beta Hydroxylase Deficiency ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-dopamine-beta-hydroxylase-deficiency/)
+[![50 Facts About Coffee Around The World ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2283%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/food/50-facts-about-coffee-around-the-world/)
 
-Health Science
+Food
 
-29 Oct 2024
+03 Nov 2024
 
-[30 Facts About Dopamine Beta Hydroxylase Deficiency](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-dopamine-beta-hydroxylase-deficiency/)
+[50 Facts About Coffee Around The World](https://facts.net/lifestyle/food/50-facts-about-coffee-around-the-world/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
@@ -366,7 +366,6 @@ The Terms constitute the entire agreement between you and Facts.net relating t
 * [Privacy Policy](https://facts.net/privacy-policy/)
 * [Submit Facts](https://facts.net/fact-submission-page/)
 * [More Facts](https://facts.net/more-category/)
-* [Shop Facts.net Merchandise](https://shop.facts.net/)
 * [🇩🇪 Fakten auf Deutsch](https://de.facts.net/)
 * [🇫🇷 Faits en français](https://fr.facts.net/)
 * [🇪🇸 Hechos en Español](https://es.facts.net/)
