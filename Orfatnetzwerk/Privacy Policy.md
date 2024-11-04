@@ -2,7 +2,7 @@
 
 * [Fernsehen](https://tv.orf.at/)
 * [ORF ON](https://on.orf.at/)
-* [Kids](https://kids.orf.at/)
+* [KIDS](https://kids.orf.at/)
 * [Sound](https://sound.orf.at/)
 * [Topos](https://topos.orf.at/)
 * [Debatte](https://debatte.orf.at/)
@@ -25,7 +25,7 @@ Navigation
 * [Sound](https://sound.orf.at/)
 * [Topos](https://topos.orf.at/)
 * [ORF ON](https://on.orf.at/)
-* [ORF Kids](https://kids.orf.at/)
+* [ORF KIDS](https://kids.orf.at/)
 * [Fernsehen](https://tv.orf.at/)
 * [Alle ORF Angebote](https://orf.at/uebersicht/)
 
@@ -146,7 +146,7 @@ Die Dauer der Datenverarbeitung richtet sich insbesondere auch nach den gesetzli
 * [Sound](https://sound.orf.at/)
 * [Topos](https://topos.orf.at/)
 * [ORF ON](https://on.orf.at/)
-* [ORF Kids](https://kids.orf.at/)
+* [ORF KIDS](https://kids.orf.at/)
 * [Fernsehen](https://tv.orf.at/)
 * [Radio](https://radio.orf.at/)
 * [Alle ORF-Angebote](https://orf.at/uebersicht/)
