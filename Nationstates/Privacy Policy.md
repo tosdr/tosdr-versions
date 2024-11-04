@@ -34,10 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Give an (IC) Nickname to the AN (76)](https://forum.nationstates.net/viewtopic.php?t=557881&f=25&view=unread#unread ""Give an (IC) Nickname to the AN" (76 posts)")
-* [American Politics: The Final Week (7,020)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: The Final Week" (7,020 posts)")
-* [Would you chill with AU¿ (1,927)](https://forum.nationstates.net/viewtopic.php?t=551805&f=25&view=unread#unread ""Would you chill with AU¿" (1,927 posts)")
-* [Wikipedia Game Vol. IV (1,049)](https://forum.nationstates.net/viewtopic.php?t=551271&f=25&view=unread#unread ""Wikipedia Game Vol. IV" (1,049 posts)")
+* [The Collective Security League Assemb… (1,060)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (1,060 posts)")
+* [What is your relationship with AU? II (2,809)](https://forum.nationstates.net/viewtopic.php?t=553319&f=25&view=unread#unread ""What is your relationship with AU?  II" (2,809 posts)")
+* [Ukrainian War VII: Everything has a p… (8,635)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (8,635 posts)")
+* [American Politics: The Final Week (7,155)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: The Final Week" (7,155 posts)")
+* [1961: The Coldest War | OOC | Open (154)](https://forum.nationstates.net/viewtopic.php?t=556925&f=31&view=unread#unread ""1961: The Coldest War | OOC | Open" (154 posts)")
 
 Advertisement
 
