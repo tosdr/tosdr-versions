@@ -141,15 +141,15 @@ Atos homepage](https://atos.net/en/)
         Press releases
         --------------
         
+        * [Atos Sustainable Workplace research finds device lifespan can double while still delighting users](https://atos.net/en/2024/press-release_2024_11_04/atos-sustainable-workplace-research-finds-device-lifespan-can-double-while-still-delighting-users)
         * [Eviden manages co-ordination of CYDERCO project for the European Cybersecurity Competence Center (ECCC)](https://atos.net/en/2024/press-release_2024_10_28/eviden-manages-co-ordination-of-cyderco-project-for-the-european-cybersecurity-competence-center-eccc)
         * [US District Court for the Southern District of New York orders a new trial on compensatory damages in Atos’ litigation with TriZetto](https://atos.net/en/2024/press-release/financial-information-press-releases_2024_10_25/us-district-court-for-the-southern-district-of-new-york-orders-a-new-trial-on-compensatory-damages-in-atos-litigation-with-trizetto)
-        * [Decisive new step in the completion of the financial restructuring: Atos’ accelerated safeguard plan approved by the specialized Commercial Court of Nanterre](https://atos.net/en/2024/press-release_2024_10_24/decisive-new-step-in-the-completion-of-the-financial-restructuring-atos-accelerated-safeguard-plan-approved-by-the-specialized-commercial-court-of-nanterre)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Oct 28, 2024
+        Nov 4, 2024
         
-        ### Eviden manages co-ordination of CYDERCO project for the European Cybersecurity Competence Center (ECCC)
+        ### Atos Sustainable Workplace research finds device lifespan can double while still delighting users
         
     * [Atos Research Community](https://atos.net/en/atos-research-community)
         
