@@ -390,6 +390,8 @@ Prior versions of this Privacy Policy are available [here](https://unstoppabledo
 
 [Merch](https://shop.unstoppabledomains.com/)
 
+[DNS Pricing](https://unstoppabledomains.com/dns-pricing)
+
 ###### Company
 
 [About Us](https://unstoppabledomains.com/about)
