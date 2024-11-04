@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What type of cancer is mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-what-type-of-cancer-is-mesothelioma.jpg "What Type of Cancer Is Mesothelioma?")](https://www.pintas.com/lung-cancer/what-type-of-cancer-is-mesothelioma/ "What Type of Cancer Is Mesothelioma?")
+[![Have mormon church officials sexually abused children?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormom-3-300x225.jpg "Have Mormon Church Officials Sexually Abused Children?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-children/ "Have Mormon Church Officials Sexually Abused Children?")
 
-[#### What Type of Cancer Is Mesothelioma?](https://www.pintas.com/lung-cancer/what-type-of-cancer-is-mesothelioma/)
+[#### Have Mormon Church Officials Sexually Abused Children?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-children/)
 
-[![Can someone be arrested for emotional abuse?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-someone-be-arrested-for-emotional-abuse.jpg "Can Someone Be Arrested for Emotional Abuse?")](https://www.pintas.com/faq/can-someone-be-arrested-for-emotional-abuse/ "Can Someone Be Arrested for Emotional Abuse?")
+[![What is the safest herbicide?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-is-the-safest-herbicide-scaled.jpg "What Is the Safest Herbicide?")](https://www.pintas.com/lawsuit/roundup-weed-killer/what-is-the-safest-herbicide "What Is the Safest Herbicide?")
 
-[#### Can Someone Be Arrested for Emotional Abuse?](https://www.pintas.com/faq/can-someone-be-arrested-for-emotional-abuse/)
+[#### What Is the Safest Herbicide?](https://www.pintas.com/lawsuit/roundup-weed-killer/what-is-the-safest-herbicide)
 
-[![Can i file a talcum powder lawsuit?](https://www.pintas.com/wp-content/uploads/2020/03/johnson-and-johnson-talcum-powder-lawsuit-lawyer-can-i-file-a-talcum-powder-lawsuit.jpg "Can I File a Talcum Powder Lawsuit?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-i-file-a-talcum-powder-lawsuit/ "Can I File a Talcum Powder Lawsuit?")
+[![Can mesothelioma go into remission?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-can-mesothelioma-go-into-remission.jpg "Can Mesothelioma Go Into Remission?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-go-into-remission/ "Can Mesothelioma Go Into Remission?")
 
-[#### Can I File a Talcum Powder Lawsuit?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-i-file-a-talcum-powder-lawsuit/)
+[#### Can Mesothelioma Go Into Remission?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-go-into-remission/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
