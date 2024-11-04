@@ -268,12 +268,12 @@ PSNI
 [Police in Derry investigating sexually motivated attack on a woman in her 40s](https://www.derrynow.com/news/local-news/1646432/police-in-derry-investigating-sexually-motivated-attack-on-a-woman-in-her-40s.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1645576/derry-death-notices-sunday-november-3-2024.html)
+[![Derry nun Sister Clare Crockett to be declared ‘Servant of God'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry nun Sister Clare Crockett to be declared ‘Servant of God'")](https://www.derrynow.com/news/local-news/1646259/derry-nun-sister-clare-crockett-to-be-declared-servant-of-god.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Death Notices - Sunday, November 3, 2024](https://www.derrynow.com/news/deaths/1645576/derry-death-notices-sunday-november-3-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------
+[Derry nun Sister Clare Crockett to be declared ‘Servant of God'](https://www.derrynow.com/news/local-news/1646259/derry-nun-sister-clare-crockett-to-be-declared-servant-of-god.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Ciaran McDermott handing over a framed signed Celtic jersey on behalf of Celtic FC, to Monica McGuigan for fundraising event for Children In Crossfire. With Felix Healy, Drive 105. (Pho - Tom Heaney, ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ciaran McDermott handing over a framed signed Celtic jersey on behalf of Celtic FC, to Monica McGuigan for fundraising event for Children In Crossfire. With Felix Healy, Drive 105. (Pho - Tom Heaney, ")](https://www.derrynow.com/news/derry-news/1646260/derry-woman-to-climb-kilimanjaro-for-children-in-crossfire.html)
 
@@ -283,13 +283,6 @@ Ciaran McDermott handing over a framed signed Celtic jersey on behalf of Celtic 
 
 [Derry woman to climb Kilimanjaro for Children in Crossfire](https://www.derrynow.com/news/derry-news/1646260/derry-woman-to-climb-kilimanjaro-for-children-in-crossfire.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry nun Sister Clare Crockett to be declared ‘Servant of God'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry nun Sister Clare Crockett to be declared ‘Servant of God'")](https://www.derrynow.com/news/local-news/1646259/derry-nun-sister-clare-crockett-to-be-declared-servant-of-god.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry nun Sister Clare Crockett to be declared ‘Servant of God'](https://www.derrynow.com/news/local-news/1646259/derry-nun-sister-clare-crockett-to-be-declared-servant-of-god.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![County Derry man to make history with New York Giants in NFL](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man to make history with New York Giants in NFL")](https://www.derrynow.com/news/derry-sport/1646270/county-derry-man-to-make-history-with-new-york-giants-in-nfl.html)
 
@@ -325,19 +318,26 @@ Ballinderry celebrate their Intermediate title win at Owenbeg. Pic by George Swe
 [Families of the Disappeared appeal for help to end their pain](https://www.derrynow.com/news/national-news/1645886/families-of-the-disappeared-appeal-for-help-to-end-their-pain.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police probe potential link between two knifepoint sexually motivated attacks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police probe potential link between two knifepoint sexually motivated attacks")](https://www.derrynow.com/news/northern-ireland/1646446/police-probe-potential-link-between-two-knifepoint-sexually-motivated-attacks.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Police probe potential link between two knifepoint sexually motivated attacks](https://www.derrynow.com/news/northern-ireland/1646446/police-probe-potential-link-between-two-knifepoint-sexually-motivated-attacks.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Sinn Fein suspends councillor over allegations of inappropriate messages](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein suspends councillor over allegations of inappropriate messages")](https://www.derrynow.com/news/national-news/1646647/sinn-fein-suspends-councillor-over-allegations-of-inappropriate-messages.html)
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
 
 [Sinn Fein suspends councillor over allegations of inappropriate messages](https://www.derrynow.com/news/national-news/1646647/sinn-fein-suspends-councillor-over-allegations-of-inappropriate-messages.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![North West Migrants Forum launches new phase of Hidden History Project](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "North West Migrants Forum launches new phase of Hidden History Project")](https://www.derrynow.com/news/local-news/1644162/north-west-migrants-forum-launches-new-phase-of-hidden-history-project.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[North West Migrants Forum launches new phase of Hidden History Project](https://www.derrynow.com/news/local-news/1644162/north-west-migrants-forum-launches-new-phase-of-hidden-history-project.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Annual Christmas Craft Fair at St Mary's College this November](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Annual Christmas Craft Fair at St Mary's College this November")](https://www.derrynow.com/news/local-news/1644033/annual-christmas-craft-fair-at-st-mary-s-college-this-november.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Annual Christmas Craft Fair at St Mary's College this November](https://www.derrynow.com/news/local-news/1644033/annual-christmas-craft-fair-at-st-mary-s-college-this-november.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,6 +515,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1645575/derry-death-notices-monday-november-4-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, November 4, 2024](https://www.derrynow.com/news/deaths/1645575/derry-death-notices-monday-november-4-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Ballinderry Shamrocks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinderry Shamrocks")](https://www.derrynow.com/news/derry-sport/1646569/ryan-bell-hails-massive-victory-for-ballinderry.html)
 
 Ballinderry celebrate their Intermediate title win at Owenbeg. Pic by George Sweeney, nwpresspics
@@ -524,7 +531,7 @@ Ballinderry celebrate their Intermediate title win at Owenbeg. Pic by George Swe
 [Ryan Bell hails 'massive' victory for Ballinderry](https://www.derrynow.com/news/derry-sport/1646569/ryan-bell-hails-massive-victory-for-ballinderry.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Craigbane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Craigbane")](https://www.derrynow.com/news/derry-sport/1646562/craigbane-book-their-place-in-ulster-semi-finals-with-thrilling-victory-over-knockbride.html)
+[![Craigbane](https://www.derrynow.com/resizer/165/93/true/2024_11_03/Craigbane_v_Moneymore__2-1730660443354.jpg--.jpg?1730660443871 "Craigbane")](https://www.derrynow.com/news/derry-sport/1646562/craigbane-book-their-place-in-ulster-semi-finals-with-thrilling-victory-over-knockbride.html)
 
 Craigbane have booked their place in the Ulster semi-finals.
 
@@ -555,15 +562,6 @@ PSNI
 
 [North West Migrants Forum launches new phase of Hidden History Project](https://www.derrynow.com/news/local-news/1644162/north-west-migrants-forum-launches-new-phase-of-hidden-history-project.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ciaran McDermott handing over a framed signed Celtic jersey on behalf of Celtic FC, to Monica McGuigan for fundraising event for Children In Crossfire. With Felix Healy, Drive 105. (Pho - Tom Heaney, ](https://www.derrynow.com/resizer/165/93/true/2024_11_03/FRAMED_CELTIC_JERSEY_FUNDRAISER_FOR_CHILDREN_IN_CROSSFIRE-1730623690862.JPG--.JPG?1730623693095 "Ciaran McDermott handing over a framed signed Celtic jersey on behalf of Celtic FC, to Monica McGuigan for fundraising event for Children In Crossfire. With Felix Healy, Drive 105. (Pho - Tom Heaney, ")](https://www.derrynow.com/news/derry-news/1646260/derry-woman-to-climb-kilimanjaro-for-children-in-crossfire.html)
-
-Ciaran McDermott handing over a framed signed Celtic jersey on behalf of Celtic FC, to Monica McGuigan for fundraising event for Children In Crossfire. With Felix Healy, Drive 105. (Pho - Tom Heaney,
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry woman to climb Kilimanjaro for Children in Crossfire](https://www.derrynow.com/news/derry-news/1646260/derry-woman-to-climb-kilimanjaro-for-children-in-crossfire.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
