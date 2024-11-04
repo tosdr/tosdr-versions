@@ -26,7 +26,7 @@ Equip ISP proxies and enjoy unbeatable speed and stability.](https://smartproxy.
 
 Dive into a 10M+ ethically-sourced mobile IP pool with 160+ locations and 700+ ASNs.](https://smartproxy.com/proxies/mobile)
 
-[Datacenter
+[Datacenter Proxies
 
 Power up your projects with stability and exceptional speed of 500K+ IPs worldwide.](https://smartproxy.com/proxies/datacenter-proxies)
 
