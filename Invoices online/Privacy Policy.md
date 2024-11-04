@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Henry Venter
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=25557325)  
-Vplay Grafix
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=de23705f2493591cebdf525f70d7c0e0246d62ffd43191e3d31a1a8653ad284b&c=83008401)  
+Myfinance-Online
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=113462692)  
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=de23705f2493591cebdf525f70d7c0e0246d62ffd43191e3d31a1a8653ad284b&c=112456957)  
+Tantra Sound and Lightz
+
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=de23705f2493591cebdf525f70d7c0e0246d62ffd43191e3d31a1a8653ad284b&c=138571195)  
+Gemini-IT Group
+
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=de23705f2493591cebdf525f70d7c0e0246d62ffd43191e3d31a1a8653ad284b&c=188129577)  
+NEW BEGINNINGS DESIGNS
+
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=de23705f2493591cebdf525f70d7c0e0246d62ffd43191e3d31a1a8653ad284b&c=108227183)  
+Bloem Rugby Academy PTY (Ltd)
+
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=de23705f2493591cebdf525f70d7c0e0246d62ffd43191e3d31a1a8653ad284b&c=56286373)  
+Abandoned Vehicle and Truck Solutions
+
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=de23705f2493591cebdf525f70d7c0e0246d62ffd43191e3d31a1a8653ad284b&c=105987863)  
+AquariumSmiths
+
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=de23705f2493591cebdf525f70d7c0e0246d62ffd43191e3d31a1a8653ad284b&c=139160218)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
+
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=de23705f2493591cebdf525f70d7c0e0246d62ffd43191e3d31a1a8653ad284b&c=182416300)  
+Website Café (PTY) LTD
+
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=de23705f2493591cebdf525f70d7c0e0246d62ffd43191e3d31a1a8653ad284b&c=76153426)  
 Brand's Fountains Deco and Events Coordinatoin
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=109343057)  
-Cpower Projects t/a Pro Pure Water
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=de23705f2493591cebdf525f70d7c0e0246d62ffd43191e3d31a1a8653ad284b&c=157171435)  
+SLOANE STAR MEAT MARKET
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=73265607)  
-Mtunzini Group
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=de23705f2493591cebdf525f70d7c0e0246d62ffd43191e3d31a1a8653ad284b&c=48025837)  
+Vplay Letsheng Mall
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=162774532)  
-CGHK Enterprises (PTY) LTD
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=de23705f2493591cebdf525f70d7c0e0246d62ffd43191e3d31a1a8653ad284b&c=198926657)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=23467368)  
-J.M. HUMAN RESOURCES
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=de23705f2493591cebdf525f70d7c0e0246d62ffd43191e3d31a1a8653ad284b&c=55219613)  
+Multi CNC Solutions CC
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=33895030)  
-Well Hung Art
-
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=6215195)  
-Immediate Health (pty)ltd
-
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=194874987)  
-Enhle Oarabile Kea
-
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=109146324)  
-MONSTER SECURITY GUARDING
-
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=186365575)  
-Kinetic Power Solutions (Pty) Ltd.
-
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=157746106)  
-IEMS (PTY) ltd
-
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=49337435)  
-Beyond Laser CNC Cutting Technology South Africa CC
-
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=32876899)  
-OrgChart Hosting Pty Ltd
-
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=184658440)  
-Tagline Brands
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=de23705f2493591cebdf525f70d7c0e0246d62ffd43191e3d31a1a8653ad284b&c=55338218)  
+Wiselink Broadband Dundee
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
