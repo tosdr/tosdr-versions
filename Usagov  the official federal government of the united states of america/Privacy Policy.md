@@ -33,7 +33,7 @@ Search   ![Search](/themes/custom/usagov/components/searchbar/images/search--dar
     * [Free commercial downloads](https://www.usa.gov/free-commercial-downloads)
     * [Paperwork Reduction Act statements](https://www.usa.gov/paperwork-reduction-act-statements)
 
-Visit [vote.gov](https://www.vote.gov/) to learn how to register to vote or to update your registration.
+Election Day is Tuesday, November 5. [Find your polling place](https://www.usa.gov/find-polling-place).
 
 [](#paragraph--id--2532)
 
