@@ -80,8 +80,8 @@ Trending Posts
 * [Kaiser workers’ strike enters second week in Southern California](https://therealnews.com/kaiser-workers-strike-enters-second-week-in-southern-california)
 * [How will railroad workers vote after Biden and Congress blocked their strike?](https://therealnews.com/how-will-railroad-workers-vote-after-biden-and-congress-blocked-their-strike)
 * [Trump could win this election. Here's what MAGA has in store.](https://therealnews.com/trump-could-win-this-election-heres-what-maga-has-in-store)
-* [This CEO left coal miners penniless. Why did a West Virginia town give him a lucrative tax break to build a luxury hotel?](https://therealnews.com/this-ceo-left-coal-miners-penniless-why-did-a-west-virginia-town-give-him-a-lucrative-tax-break-to-build-a-luxury-hotel)
 * [On Losing a Loved One to Alzheimer's—and Trumpism](https://therealnews.com/on-losing-a-loved-one-to-alzheimers-and-trumpism)
+* [Israeli forces arrest all but 1 doctor at last operational North Gaza hospital](https://therealnews.com/israeli-forces-arrest-all-but-1-doctor-at-last-operational-north-gaza-hospital)
 
 Close
 
@@ -144,8 +144,8 @@ Trending Posts
 * [Kaiser workers’ strike enters second week in Southern California](https://therealnews.com/kaiser-workers-strike-enters-second-week-in-southern-california)
 * [How will railroad workers vote after Biden and Congress blocked their strike?](https://therealnews.com/how-will-railroad-workers-vote-after-biden-and-congress-blocked-their-strike)
 * [Trump could win this election. Here's what MAGA has in store.](https://therealnews.com/trump-could-win-this-election-heres-what-maga-has-in-store)
-* [This CEO left coal miners penniless. Why did a West Virginia town give him a lucrative tax break to build a luxury hotel?](https://therealnews.com/this-ceo-left-coal-miners-penniless-why-did-a-west-virginia-town-give-him-a-lucrative-tax-break-to-build-a-luxury-hotel)
 * [On Losing a Loved One to Alzheimer's—and Trumpism](https://therealnews.com/on-losing-a-loved-one-to-alzheimers-and-trumpism)
+* [Israeli forces arrest all but 1 doctor at last operational North Gaza hospital](https://therealnews.com/israeli-forces-arrest-all-but-1-doctor-at-last-operational-north-gaza-hospital)
 
 [Skip to content](#main)
 
