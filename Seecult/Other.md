@@ -375,20 +375,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.msub.org.rs](https://www.msub.org.rs/)
     
-    [10:00 Od mnogoboštva do hrišćanstva: rotonda u Stojniku, BG](javascript:void(0);)
-    
-    **06.09.2024 | 10:00**
-    
-    Narodni muzej Srbije, Trg Republike 1a, Beograd
-    
-    **OD MNOGOBOŠTVA DO HRIŠĆANSTVA: ROTONDA U STOJNIKU** - izložba posvećena jedinstvenoj građevini tog tipa na prostoru centralnobalkanskih rimskih provincija, koja je bila i paganski hram i hrišćanska crkva (5.9.-3.11.2024.)
-    
-    Autori izložbe: Tatjana Cvjetićanin, Maja Franković i Adam Crnobrnja
-    
-    Saradnice na izložbi: Olga Špehar i Jelena Premović
-    
-    [http://www.narodnimuzej.rs](http://www.narodnimuzej.rs/)
-    
     [10:00 New Era: umjetnički diskursi o društvenim i klimatskim promjenama, BL](javascript:void(0);)
     
     **06.09.2024 | 10:00**
@@ -427,14 +413,32 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://msurs.net](http://msurs.net/)
     
+    [11:00 Misterij majstora Fortezze - Europska baština šibenskoga gravera, ZG](javascript:void(0);)
+    
+    **11.09.2024 | 11:00**
+    
+    Galerija Klovićevi dvori, Jezuitski trg 4, Zagreb
+    
+    **MISTERIJ MAJSTORA FORTEZZE - EUROPSKA BAŠTINA ŠIBENSKOGA GRAVERA** - izložba (10.9.-10.11.2024.)
+    
+    Autorice izložbe: Marina Lambaša, Flora Turner Vučetić
+    
+    Organizacija izložbe: Galerija Klovićevi dvori i Muzej grada Šibenika
+    
+    Kustosice izložbe: Jasmina Bavoljak, Marina Lambaša
+    
+    Likovni postav izložbe: Dinko Uglešić
+    
+    [https://gkd.hr](https://gkd.hr/)
+    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/its-z1/25-0216.jpg?itok=5l6CPxrt)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/its-z1)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/biografija/intervju/zestoki.jpg?itok=rfvZxQmp)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/biografija-intervju)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/strip/aleksandar-zograf/zograf.jpg?itok=Tyh2-0jl)](http://seecult.org/galerija/foto-galerija/strip/aleksandar-zograf)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/paco-002.jpg?itok=w9Gkmi1D)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
