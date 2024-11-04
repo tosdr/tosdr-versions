@@ -17,6 +17,7 @@ Back
     * [Black Friday Sneak Peek](https://www.bose.com/c/holiday-sale)
     * [Gift Guide](https://www.bose.com/holiday-gift-guide)
     * [Exclusive Drops](https://www.bose.com/c/exclusives)
+    * [Gift Sets](https://www.bose.com/c/sets)
     * [Gift Cards](https://www.bose.com/gift-cards)
     
     Back
@@ -52,6 +53,7 @@ Back
     * [Gifts](https://www.bose.com/holiday-gift-guide)
     
     * [Accessories](https://www.bose.com/c/accessories)
+    * [Sets](https://www.bose.com/c/sets)
     * [All Products](https://www.bose.com/c/all-products)
     
     Back
