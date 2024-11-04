@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I love your service and support.
+Many thanks for a good service, kept me up to date with the going on's in the UK during my 6 months in the USA.
 
-William Rolson
+Chris Watts
