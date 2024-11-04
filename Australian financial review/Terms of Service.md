@@ -324,10 +324,9 @@ Advertise
 
 ### [Is this Australia’s best shiraz?](https://www.afr.com/life-and-luxury/food-and-wine/is-this-australia-s-best-shiraz-20241029-p5kmes)
 
-* 54 mins ago
 * Max Allen
 
-* ### [This physio sold his business for $100 million. Here’s how he relaxes](https://www.afr.com/life-and-luxury/health-and-wellness/this-physio-sold-his-business-for-100-million-here-s-how-he-relaxes-20241029-p5km9c)
+* ### [This physio sold his business for $100m. Here’s how he relaxes](https://www.afr.com/life-and-luxury/health-and-wellness/this-physio-sold-his-business-for-100-million-here-s-how-he-relaxes-20241029-p5km9c)
     
 * ### [The jewellery I never take off](https://www.afr.com/life-and-luxury/fashion-and-style/the-jewellery-i-never-take-off-20241016-p5kiol)
     
