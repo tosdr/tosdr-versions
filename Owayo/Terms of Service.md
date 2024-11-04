@@ -8,9 +8,9 @@
     
 * + [Head and neck](https://www.owayo.com/productservice/products/head-and-neck-us.htm)
     
-    * [Hats and Headbands](https://www.owayo.com/productservice/products/caps-and-headbands-us.htm)
-    * [Neck Warmer](https://www.owayo.com/custom-neck-warmers.htm)
-    * [Face Masks](https://www.owayo.com/buy-face-masks.htm)
+    * [Hats](https://www.owayo.com/productservice/products/caps-and-headbands-us.htm)
+    * [Headbands](https://www.owayo.com/custom-headbands.htm)
+    * [Neck Gaiters](https://www.owayo.com/custom-neck-gaiters.htm)
     * [Hair Accessories](https://www.owayo.com/productservice/products/hair-accessories-us.htm)
     
 * + [Merchandise](https://www.owayo.com/productservice/products/merchandise-us.htm)
@@ -95,11 +95,11 @@ Your shopping cart is empty.
     
     more [Head and neck](https://www.owayo.com/productservice/products/head-and-neck-us.htm)
     
-    * [Hats and Headbands](https://www.owayo.com/productservice/products/caps-and-headbands-us.htm)
+    * [Hats](https://www.owayo.com/productservice/products/caps-and-headbands-us.htm)
     
-    * [Neck Warmer](https://www.owayo.com/custom-neck-warmers.htm)
+    * [Headbands](https://www.owayo.com/custom-headbands.htm)
     
-    * [Face Masks](https://www.owayo.com/buy-face-masks.htm)
+    * [Neck Gaiters](https://www.owayo.com/custom-neck-gaiters.htm)
     
     * [Hair Accessories](https://www.owayo.com/productservice/products/hair-accessories-us.htm)
     
