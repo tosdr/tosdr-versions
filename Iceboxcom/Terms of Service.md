@@ -4,7 +4,9 @@ YOUR NATURAL DIAMOND JEWELER
 
 [![Icebox ](/assets/public-2020/img/logos/bfcf00d9a70b7f8b520fb5a2a42187be.png)](https://www.icebox.com/)
 
-[](javascript:void(0);)[Our Locations](https://www.icebox.com/locations)[](javascript:void(0);)
+[Our Locations](https://www.icebox.com/locations)[](javascript:void(0);)
+
+[](javascript:void(0);)
 
 [0](javascript:void(0);)
 
