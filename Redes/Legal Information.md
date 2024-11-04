@@ -112,11 +112,11 @@ Hasta el próximo 12 de noviembre las startups interesadas pueden inscribirse y 
 
 Noticia
 
-Internacionalización
+Transformación Digital PYMES
 
-Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas
+Red.es participa en Gastronomic Forum Barcelona con su stand informativo del programa de ayudas Kit Digital
 
-[Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas](http://red.es/es/actualidad/noticias/abierto-hasta-el-2-de-diciembre-el-plazo-de-inscripciones-para-ser-parte-del "Ir al contenido de: Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas")
+[Red.es participa en Gastronomic Forum Barcelona con su stand informativo del programa de ayudas Kit Digital](http://red.es/es/actualidad/noticias/redes-participa-en-gastronomic-forum-barcelona-con-su-stand-informativo-del-0 "Ir al contenido de: Red.es participa en Gastronomic Forum Barcelona con su stand informativo del programa de ayudas Kit Digital")
 
 Noticia
 
