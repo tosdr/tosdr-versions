@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WTLV/images/de9f0543-d476-48b5-b617-b0d719cc3eba/20240909T161850/de9f0543-d476-48b5-b617-b0d719cc3eba_16x9.jpg) ![](https://media.tegna-media.com/assets/WTLV/images/de9f0543-d476-48b5-b617-b0d719cc3eba/20240909T161850/de9f0543-d476-48b5-b617-b0d719cc3eba_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-train-vs-vehicle-crash-injures-2-people/526-a0b640da-be90-4ab5-bca5-1c953f6c22bc)
+        
+        #### [Davenport train vs. vehicle crash injures 2 people](https://www.wqad.com/article/news/local/davenport-train-vs-vehicle-crash-injures-2-people/526-a0b640da-be90-4ab5-bca5-1c953f6c22bc)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/a17a2202-921a-4f5a-b012-1b145c73f7e7/20241103T181642/a17a2202-921a-4f5a-b012-1b145c73f7e7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a17a2202-921a-4f5a-b012-1b145c73f7e7/20241103T181642/a17a2202-921a-4f5a-b012-1b145c73f7e7_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/rock-falls-illinois-shooting-suspect-arrested-johnathon-parker-whiteside-county-sheriffs-office/526-98ff16fc-1abf-4502-918b-bbe2816ecf30)
         
         #### [Suspect in Rock Falls shooting arrested, sheriff's office says](https://www.wqad.com/article/news/local/public-safety/rock-falls-illinois-shooting-suspect-arrested-johnathon-parker-whiteside-county-sheriffs-office/526-98ff16fc-1abf-4502-918b-bbe2816ecf30)
-        
-    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/lee-county-iowa-crash-fatal/526-5f3917b3-1ce9-42ae-be15-58642a57b94e)
-        
-        #### [Florida man killed in Lee County, Iowa crash](https://www.wqad.com/article/news/local/lee-county-iowa-crash-fatal/526-5f3917b3-1ce9-42ae-be15-58642a57b94e)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c8884433-3082-4835-8078-1204342cf315/20241103T235210/c8884433-3082-4835-8078-1204342cf315_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c8884433-3082-4835-8078-1204342cf315/20241103T235210/c8884433-3082-4835-8078-1204342cf315_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f8896a03-7a57-4c5f-985b-b9e3777c75b2/20241002T132251/f8896a03-7a57-4c5f-985b-b9e3777c75b2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f8896a03-7a57-4c5f-985b-b9e3777c75b2/20241002T132251/f8896a03-7a57-4c5f-985b-b9e3777c75b2_360x203.jpg)](https://www.wqad.com/article/weather/winter-2024-2025-outlook/526-c12bd23a-2ef8-48bf-9ec0-6f675f612cb1)
         
-        #### [Showers, rumbles of thunder to return late](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [What to expect this upcoming winter 2024-2025](https://www.wqad.com/article/weather/winter-2024-2025-outlook/526-c12bd23a-2ef8-48bf-9ec0-6f675f612cb1)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/b1e01515-82dd-44ad-8a0b-57c01077f448/20241101T112918/b1e01515-82dd-44ad-8a0b-57c01077f448_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/b1e01515-82dd-44ad-8a0b-57c01077f448/20241101T112918/b1e01515-82dd-44ad-8a0b-57c01077f448_360x203.jpg)](https://www.wqad.com/article/news/nation-world/3-days-after-historic-floods-at-least-158-dead-spain/507-f60dff0f-6da0-435c-a4cb-307248d57aff)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/936150c3-262c-49e7-94ee-6431335eec93/20241104T131112/936150c3-262c-49e7-94ee-6431335eec93_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/936150c3-262c-49e7-94ee-6431335eec93/20241104T131112/936150c3-262c-49e7-94ee-6431335eec93_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Spanish residents appeal for help, 3 days after historic floods left at least 158 dead](https://www.wqad.com/article/news/nation-world/3-days-after-historic-floods-at-least-158-dead-spain/507-f60dff0f-6da0-435c-a4cb-307248d57aff)
+        #### [Rain and a few thunderstorms likely by Monday evening](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-62°
+65°
 
-![Light Rain](/assets/shared-images/weather-icons/drizzle-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
