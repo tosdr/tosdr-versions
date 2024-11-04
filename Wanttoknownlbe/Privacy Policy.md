@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/merck-35-miljoen-voor-website-vaccin-promoties/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mind-control/hillary-clinton-mind-control-en-kindermisbruik/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
