@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7491a5efabed7e1f77024ed1fa42c2a2
+eaf5c1bc71ea10c1123d3815c3656104
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Murano rosy swirl clasp](https://www.sojourner.biz/images/cache/SKU0409front.200.jpg)](https://www.sojourner.biz/clasps/bracelet-clasps/murano-rosy-swirl-clasp.html "Murano rosy swirl clasp")
+[![2 mm micro-faceted rose quartz beads](https://www.sojourner.biz/images/cache/rose_quartz/RQ0016one.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/rose-quartz/2-mm-micro-faceted-rose-quartz-beads.html "2 mm micro-faceted rose quartz beads")
 
-#### [Murano rosy swirl clasp](https://www.sojourner.biz/clasps/bracelet-clasps/murano-rosy-swirl-clasp.html "Murano rosy swirl clasp")
+#### [2 mm micro-faceted rose quartz beads](https://www.sojourner.biz/beads/stone-m-z/rose-quartz/2-mm-micro-faceted-rose-quartz-beads.html "2 mm micro-faceted rose quartz beads")
 
-$26.00
+$14.00
 
 ### Best Sellers
 
@@ -189,16 +189,16 @@ $26.00
     $15.00
 5. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
     $28.00
-6. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
-    $17.00
+6. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
+    $23.00
 7. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
-8. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
-    $23.00
+8. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+    $17.00
 9. [Sterling silver tiny lily clasp](https://www.sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [Large oval pearl clasp](https://www.sojourner.biz/clasps/pearl/large-oval-pearl-clasp.html "Large oval pearl clasp")  
-    $35.00
+10. [Black and white playful cat sauce dish](https://www.sojourner.biz/tabletop/black-and-white-playful-cat-sauce-dish.html "Black and white playful cat sauce dish")  
+    $7.00
 
 [Top](#)
 
