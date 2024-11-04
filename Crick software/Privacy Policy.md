@@ -44,7 +44,7 @@
     * [Free webinars](https://cricksoft.com/docsplus/free-webinars/)
     * [Free consultation](https://cricksoft.com/docsplus/free-consultation/)
     * [LearningGrids](https://cricksoft.com/docsplus/learninggrids/)
-    * [DocsPlus for 16+](https://cricksoft.com/docsplus/college/)
+    * [DocsPlus for 16+](https://cricksoft.com/docsplus-for-16/)
     
     Training & Support
     
