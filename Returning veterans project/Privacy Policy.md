@@ -186,11 +186,16 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Jon Ricket](https://cdn.returningveterans.org/images/honor/18_J_Ricket.jpg)  
-
-**In Honor of Jon Ricket**  
+**In Honor of All the men and women that are serving or have served**  
 United States Air Force  
-Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+United States Air National Guard  
+United States Army  
+United States Army National Guard  
+United States Coast Guard  
+United States Navy  
+United States Reserves  
+United States Marine Corps  
+Submitted by Joseph Lee](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -233,5 +238,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/04/24 - 1:27:08  
+Printed 11/04/24 - 7:27:30  
 © 2024 Returning Veterans Project
