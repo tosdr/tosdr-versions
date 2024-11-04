@@ -24,7 +24,7 @@ reduziert
 
 Warenkorb Warenkorb
 
-* [Inspiration](https://www.mirapodo.de/inspiration/)
+* [Weihnachten](https://www.mirapodo.de/weihnachten/)
 
 * [Damen-Mode](https://www.mirapodo.de/damen/)
 
@@ -98,9 +98,9 @@ Baumarkt![](https://i.otto.de/i/otto/2e04cc29-0785-5cbf-ad7b-24c9bc19c946/?h=200
 
 <Zurück[Baumarkt](https://www.mirapodo.de/baumarkt/)
 
-Inspiration![](https://i.otto.de/i/otto/mpp360_124228_152637/?h=200&upscale=true&w=200)
+Weihnachten![](https://i.otto.de/i/otto/dd72ce01-65ca-5ce4-81c3-3a78d55731c0/?h=200&upscale=true&w=200)
 
-<Zurück[Inspiration](https://www.mirapodo.de/inspiration/)
+<Zurück[Weihnachten](https://www.mirapodo.de/weihnachten/)
 
 Marken![](https://i.otto.de/i/otto/001_2020_28_kund_repraesentant_fuer_marken_kleine_shoppromotion_72615/?h=200&upscale=true&w=200)
 
