@@ -143,7 +143,7 @@ F2Pool is not obligated to monitor access to or use of the Services. However, we
 
 ### VIII. Privacy; User Personal Information
 
-1\. F2Pool respects User’s privacy. Our F2Pool privacy policy (“Privacy Policy”) governs how we collect, store, disclose and use your information. You agree to the use of the following information by F2Pool according to the terms of our Privacy Policy in accordance with applicable relevant laws, regulations:
+1\. F2Pool respects User’s privacy. Our F2Pool [privacy policy](https://www.f2pool.com/privacy) (“[Privacy Policy](https://www.f2pool.com/privacy)”) governs how we collect, store, disclose and use your information. You agree to the use of the following information by F2Pool according to the terms of our [Privacy Policy](https://www.f2pool.com/privacy) in accordance with applicable relevant laws, regulations:
 
 (a) Personal information provided to F2Pool in connection with the F2Pool Account registration process.
 
