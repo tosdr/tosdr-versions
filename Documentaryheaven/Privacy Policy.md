@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Ross Kemp on Gangs – St Louis](/wp-content/thumbnails/625-100x70.png?x53432)
+* [![The Tiger Tanks](/wp-content/thumbnails/4457-100x70.jpg?x53432)
     
-    Ross Kemp on Gangs – St Louis
+    The Tiger Tanks
     
-    Ross’s examines Middle America’s gang culture with a visit to St. Louis, Missouri; where he takes a look at how this Midwestern municipality with a population of 342,000 people, there are around 380,0](https://documentaryheaven.com/ross-kemp-on-gangs-st-louis/ "Ross Kemp on Gangs – St Louis")
-* [![Fall Of The Republic: The Presidency Of Barack Obama](/wp-content/thumbnails/2515-100x70.jpg?x53432)
+    The Tiger Tanks Tiger I is the common name of a German heavy tank of World War II. The initial official German designation was Panzerkampfwagen VI Ausführung H (abbreviated PzKpfw VI Ausf. H, Ausführu](https://documentaryheaven.com/the-tiger-tanks/ "The Tiger Tanks")
+* [![Putin, Russia and The West](/wp-content/thumbnails/6445-100x70.png?x53432)
     
-    Fall Of The Republic: The Presidency Of Barack Obama
+    Putin, Russia and The West
     
-    Fall Of The Republic documents how an offshore corporate cartel is bankrupting the US economy by design. Leaders are now declaring that world government has arrived and that the dollar will be replace](https://documentaryheaven.com/fall-of-the-republic-the-presidency-of-barack-obama/ "Fall Of The Republic: The Presidency Of Barack Obama")
-* [![Screamadelica – Classic Albums (Primal Scream)](/wp-content/thumbnails/5827-100x70.jpg?x53432)
+    Taking Control Vladimir Putin, after eight years as president of Russia and four more as prime minister, is stubbornly holding onto power. He has announced his intention to return as president and dec](https://documentaryheaven.com/putin-russia-and-the-west/ "Putin, Russia and The West")
+* [![THORIUM REMIX 2016](/wp-content/thumbnails/12479-100x70.jpg?x53432)
     
-    Screamadelica – Classic Albums (Primal Scream)
+    THORIUM REMIX 2016
     
-    Primal Scream's seminal album Screamadelica was released in 1991, and synthesized the band's rock 'n' roll roots with the dance culture of that time; for many, the album's sound and imagery came to be](https://documentaryheaven.com/screamadelica-classic-albums-primal-scream/ "Screamadelica – Classic Albums (Primal Scream)")
-* [![Koyaanisqatsi: Life out of Balance](/wp-content/thumbnails/261-100x70.png?x53432)
+    This film sets about exploring the potential that Thorium has for being a safe means to produce an abundance of energy. Thorium itself is easily found but requires a very different type of nuclear rea](https://documentaryheaven.com/thorium-remix-2016/ "THORIUM REMIX 2016")
+* [![The Architect](/wp-content/thumbnails/9418-100x70.jpg?x53432)
     
-    Koyaanisqatsi: Life out of Balance
+    The Architect
     
-    The amazing documentary film contains several cinematic sequences accompanied by recurring musical themes. The chapters on the Koyaanisqatsi DVD are separated and named by the titles of the musical se](https://documentaryheaven.com/koyaanisqatsi-life-out-of-balance/ "Koyaanisqatsi: Life out of Balance")
-* [![The Dyatlov Pass Case](/wp-content/thumbnails/14073-100x70.jpg?x53432)
+    Vice News meets up with James Mitchell who was found to be the head of a program the United States set up in order to extract intelligence from captured "terrorists" via controversial forms of interro](https://documentaryheaven.com/architect/ "The Architect")
+* [![Wired: South Korea](/wp-content/thumbnails/6733-100x70.jpg?x53432)
     
-    The Dyatlov Pass Case
+    Wired: South Korea
     
-    In 1959 a group of Russian hikers decided to head out on an expedition of a mountainous region of the western Soviet Union, the group itself consisted of 9 experienced men and women, all of whom were](https://documentaryheaven.com/dyatlov-pass-case/ "The Dyatlov Pass Case")
+    In South Korea addiction to gaming has become an epidemic, with murders attributed to it and psychiatric units struggling to cope. And whilst the South binges, North Korean cyber warriors have been st](https://documentaryheaven.com/wired-south-korea/ "Wired: South Korea")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
