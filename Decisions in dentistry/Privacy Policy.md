@@ -182,6 +182,13 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Starting January 1, 2025, new legislation will exp ![Starting January 1, 2025, new legislation will expand the duties of dental assistants in California. While aimed at modernizing dental practices, dental hygienists express concern over the impact of these changes on patient care. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DB6dhrjNlzx/) 
+
 [The rising demand for immediate tooth replacement ![The rising demand for immediate tooth replacement has pressured clinicians to provide quick solutions, but without proper planning, these can lead to failures. This article outlines 10 essential keys for achieving optimal esthetic and functional outcomes in immediate implant placement, ensuring long-term success and patient satisfaction. Link in bio.⁠
 ⁠
 ⁠
@@ -219,13 +226,6 @@ Your Dentist⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBtetHQsKDl/) 
-
-[Sharing the news that smoking negatively impacts t ![Sharing the news that smoking negatively impacts the oral microbiome may help push patients toward tobacco cessation. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBq56nlMopd/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
