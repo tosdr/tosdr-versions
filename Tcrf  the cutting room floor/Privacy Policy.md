@@ -7,28 +7,33 @@ From The Cutting Room Floor
 
 [Jump to navigation](#mw-head) [Jump to search](#p-search)
 
-~Blah blah blah someone copy paste a boilerplate privacy policy here because nobody really cares.~
+The Cutting Room Floor has no formal privacy policy. Those are a lot of legalese, and we don't have the money or the lawyers for that.
 
-~All data is used and abused for logging, statistics, and other data. However, we won't sell it unless someone offers us many many _**many**_ dollars.~
+**What data we do store is limited, and only kept as needed:**
+
+* All contributions made (edits, uploads, etc.) are attributed to the user who does so, and are publicly logged (with [rare exceptions](http://www.mediawiki.org/wiki/Manual:RevisionDelete "mw:Manual:RevisionDelete"))
+* When you visit this website, we log your IP address, your browser, and what page referred you, if any.
+* When you create an account, you also provide:
+    * Your username. This is displayed across the wiki, and used for crediting and attribution.
+    * Your email address (optional). This is used if you opt in to features like watch lists and change notices, and is used for resetting your password.
+    * Your "real name" (optional). MediaWiki uses this in place of your username in some areas. It does not have to be your actual real name.
+    * Additional information you provide after creating an account, your preferences, settings, etc.
+
+**We do not sell your personal information, nor do we provide it to third parties.**
+
+The Cutting Room Floor does not use any advertising platforms or analytics tools. The best privacy policy is simply not needing one.
+
+Retrieved from "[https://tcrf.net/index.php?title=The\_Cutting\_Room\_Floor:Privacy\_policy&oldid=1718814](https://tcrf.net/index.php?title=The_Cutting_Room_Floor:Privacy_policy&oldid=1718814)"
+
+[Category](https://tcrf.net/Special:Categories "Special:Categories"):
+
+* [The Cutting Room Floor](https://tcrf.net/Category:The_Cutting_Room_Floor "Category:The Cutting Room Floor")
 
   
-The Cutting Room Floor has no formal privacy policy, because those are a lot of legalese and we don't really have money for that. Instead, have some basics:
 
-* We don't sell any of your information.
-* The only information we collect when you visit here is your IP address (kind of required for the internet to work).
-* If you register, we collect some further (optional) information:
-    * Your email address. This is only used to send you opted-in system emails (e.g. watch lists, change notices) or for password resets, and is never given out or sold.
-    * Your "real name". MediaWiki probably displays this information somewhere. Nothing stops you from entering a fake one, and we don't sell it or give it out.
-    * Your username. You can enter anything for this as well, used for logging in and probably crediting people.
+* * *
 
-We use (non-Google) analytics software to track access. That software collects different things, which are not cross-referenced with the above. Aggregated versions of these statistics may be released, but never sold:
-
-* Your IP address.
-* Various browser details, such as user agent, resolution, etc.
-* The page that referred you, if any.
-* Your visits to this site and pages accessed.
-
-Retrieved from "[https://tcrf.net/index.php?title=The\_Cutting\_Room\_Floor:Privacy\_policy&oldid=1619944](https://tcrf.net/index.php?title=The_Cutting_Room_Floor:Privacy_policy&oldid=1619944)"
+[The Cutting Room Floor](https://tcrf.net/Category:The_Cutting_Room_Floor "Category:The Cutting Room Floor")
 
 Navigation menu
 ---------------
@@ -95,10 +100,10 @@ Navigation menu
 * [Related changes](https://tcrf.net/Special:RecentChangesLinked/The_Cutting_Room_Floor:Privacy_policy "Recent changes in pages linked from this page [k]")
 * [Special pages](https://tcrf.net/Special:SpecialPages "A list of all special pages [q]")
 * [Printable version](https://tcrf.net/index.php?title=The_Cutting_Room_Floor:Privacy_policy&printable=yes "Printable version of this page [p]")
-* [Permanent link](https://tcrf.net/index.php?title=The_Cutting_Room_Floor:Privacy_policy&oldid=1619944 "Permanent link to this revision of the page")
+* [Permanent link](https://tcrf.net/index.php?title=The_Cutting_Room_Floor:Privacy_policy&oldid=1718814 "Permanent link to this revision of the page")
 * [Page information](https://tcrf.net/index.php?title=The_Cutting_Room_Floor:Privacy_policy&action=info "More information about this page")
 
-* This page was last edited on 27 June 2024, at 18:42.
+* This page was last edited on 3 November 2024, at 23:44.
 * Content is available under [Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/) unless otherwise noted.
 
 * [Privacy policy](https://tcrf.net/The_Cutting_Room_Floor:Privacy_policy "The Cutting Room Floor:Privacy policy")
