@@ -184,12 +184,12 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**The state of the race in critical battleground of Wisconsin** | PBS News Hour](https://video.nhpbs.org/video/battleground-1730579212?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**News Wrap: Israeli attacks kill dozens in Gaza and Lebanon** | PBS News Hour](https://video.nhpbs.org/video/news-wrap-1730669495?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Firelighters: Fire is Medicine Preview** | Local, USA](https://video.nhpbs.org/video/local-usa-firelighters-fire-is-medicine-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview** | Christmas with John Rutter at Preston Hollow](https://video.nhpbs.org/video/preview-benrob?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Wynonna** | Austin City Limits](https://video.nhpbs.org/video/wynonna-a21szo?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Ready, Set, Vote** | The State We're In](https://video.nhpbs.org/video/ready-set-vote-i5hrhf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**H.R. McMaster** | Firing Line](https://video.nhpbs.org/video/hr-mcmaster-ua3jpo?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Ready, Set, Vote** | The State We're In](https://video.nhpbs.org/video/ready-set-vote-i5hrhf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**full episode, 11/1/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-11124-yrro6a?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**November 1, 2024** | Amanpour and Company](https://video.nhpbs.org/video/november-1-2024-ifkuy6?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Young Lionness Learns to Hunt Giraffes** | Nature](https://video.nhpbs.org/video/young-lionness-learns-to-hunt-giraffes?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
