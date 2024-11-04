@@ -227,6 +227,33 @@ Yes
 
 No
 
+![](https://play-lh.googleusercontent.com/a/ACg8ocLeMsgT8wO-8CDeH8YcZZBa7hwSZpYJTguhBG8wbMutc_JivQ=s32-mo)
+
+LonelyLeo100
+
+_more\_vert_
+
+* Flag inappropriate
+* Show review history
+
+November 2, 2024
+
+Since February 11, It has blocked 92 scam texts. Every day I would get at least 6 scam texts. Using a couple key words it blocked them and I have only received 2 in my inbox. So far I am loving this app. It is worth the one time fee. Update: Since August 16 the app has blocked 396 spam and scam messages. I am so happy I do not have to be irritated by those messages any more.
+
+3 people found this review helpful
+
+Did you find this helpful?
+
+Yes
+
+No
+
+Mezo SMS AI - Spam Blocker, Text Blocker
+
+March 31, 2024
+
+Hi. Thanks for the feedback. We are glad to know that Key Messages is working awesome for you.
+
 ![](https://play-lh.googleusercontent.com/a/ACg8ocLm6yMboh4OnkIO6hl2m4gQrHkZ4CV3GdU_sFRZX-rznWkpYw=s32-mo)
 
 Alexander Cory
@@ -240,27 +267,6 @@ October 24, 2024
 Mezo SMS is just the best. I had to buy it. Ive been using the app's "message content" feature to block tons of political ad texts and other spam. It just blocks them if theyre not in my contacts. So if i want to receive a message from someone i just add them to my contacts. Its pretty easy to use. Definitely recommend it.
 
 2 people found this review helpful
-
-Did you find this helpful?
-
-Yes
-
-No
-
-![](https://play-lh.googleusercontent.com/a-/ALV-UjVB6oZGX3dO31ivrdye8mBqskFOH7bdNiIaY_fd3293iAdx83pphA=s32)
-
-Rafael “El Guapo” Castillo
-
-_more\_vert_
-
-* Flag inappropriate
-* Show review history
-
-September 25, 2024
-
-09/25/2024 uo: I can send and receive images IF and only if I use data instead of Wi-Fi. 01/28/2023 update: This text app is great for filtering out spam, but it can't send or receive images unless they're very small and even then not alway. Very robust, feature filled app. Paid version highly ecommended. I love being able to block messages and avoid spam.
-
-7 people found this review helpful
 
 Did you find this helpful?
 
@@ -305,7 +311,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGDVhOHRRYUJHMlJMbTN2SmUxandWeGc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljLcZqs)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGE1PUEdrSHBxUGRsb1JLR3JsdzhDWkE9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljLRkT4)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/qw_MVfLwKrZduwQyyU9qx1246GCpOGNIgnoqUezlcfpfAFKmZ0aH1iBqLA7bsYLa6hs=s64)
 
@@ -361,7 +367,7 @@ Google Play[Play Pass](https://play.google.com/store/pass/getstarted)[Play Point
 
 Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentguide)[Family sharing](https://support.google.com/googleplay/answer/7007852)
 
-[Terms of Service](https://play.google.com/intl/en_us/about/play-terms.html)
+[Terms of Service](https://play.google.com/intl/en-US_us/about/play-terms.html)
 
 [Privacy](https://policies.google.com/privacy)
 
@@ -373,4 +379,4 @@ Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentgu
 
 ![](https://ssl.gstatic.com/store/images/regionflags/us.png)
 
-United States (English)
+United States (English (United States))
