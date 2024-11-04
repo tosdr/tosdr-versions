@@ -149,8 +149,8 @@ Nov 13
 
 #### Popular Posts
 
-* [How to Fix Slow Fortnite Downloads on PC and Mobile](https://speedify.com/blog/combining-internet-connections/how-to-fix-slow-fortnite-downloads/)
 * [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
+* [How to Fix Slow Fortnite Downloads on PC and Mobile](https://speedify.com/blog/combining-internet-connections/how-to-fix-slow-fortnite-downloads/)
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
 
 ### Bonding Apps
