@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/onbekende-ufo-stort-13-november-op-aarde/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/us-vaccinatierechtbank-vergoedt-vaccinatieschade/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -131,6 +131,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
+
+##### **inhetmeer** reacts on:
+
+##### Fleur Agema moet/wil KLEUR BEKENNEN…!!
+
+[En voor de duidelijkheid.......het was een secretaresse-baan…](https://www.wanttoknow.nl/overige/fleur-agema-moet-wil-kleur-bekennen/comment-page-1/#comment-626353)
 
 ![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
 
@@ -379,14 +387,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Wat is tijd..??
 
 [Indien interesse, lees de artikelen van Alfred Webre . https…](https://www.wanttoknow.nl/inspiratie/wat-is-tijd/comment-page-1/#comment-626322)
-
-![G.B](https://secure.gravatar.com/avatar/d2b0486de9a7604f3d778736859422c3?s=50&d=identicon&r=g)
-
-##### **G.B** reacts on:
-
-##### Poetin verklaart Rusland GMO-vrij..!!
-
-[Ik ben heel blij met dit positieve nieuws! Eindelijk is deze…](https://www.wanttoknow.nl/nieuws/poetin-verklaart-rusland-gmo-vrij/comment-page-1/#comment-626321)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
