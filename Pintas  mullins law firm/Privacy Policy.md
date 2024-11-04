@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![I was sexually abused by the mormon church, now what?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-scaled-e1681853603360-300x230.jpg "I Was Sexually Abused by the Mormon Church, Now What?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/i-was-sexually-abused-by-the-mormon-church-now-what/ "I Was Sexually Abused by the Mormon Church, Now What?")
+[![How common is abuse in elderly care facilities?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-common-is-abuse-in-elderly-care-facilities-scaled.jpg "How Common Is Abuse in Elderly Care Facilities?")](https://www.pintas.com/faq/how-common-is-abuse-in-elderly-care-facilities/ "How Common Is Abuse in Elderly Care Facilities?")
 
-[#### I Was Sexually Abused by the Mormon Church, Now What?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/i-was-sexually-abused-by-the-mormon-church-now-what/)
+[#### How Common Is Abuse in Elderly Care Facilities?](https://www.pintas.com/faq/how-common-is-abuse-in-elderly-care-facilities/)
 
-[![How long does it take to settle a nursing home lawsuit?](https://www.pintas.com/wp-content/uploads/2021/04/a-neglected-senior-in-a-wheelchair-300x200.jpg "How Long Does it Take to Settle a Nursing Home Lawsuit?")](https://www.pintas.com/practice-areas/personal-injury/nursing-home-abuse-lawyer/nursing-home-settlement-timeline/ "How Long Does it Take to Settle a Nursing Home Lawsuit?")
+[![What causes abdominal mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-what-causes-abdominal-mesothelioma-scaled.jpg "What Causes Abdominal Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-causes-abdominal-mesothelioma/ "What Causes Abdominal Mesothelioma?")
 
-[#### How Long Does it Take to Settle a Nursing Home Lawsuit?](https://www.pintas.com/practice-areas/personal-injury/nursing-home-abuse-lawyer/nursing-home-settlement-timeline/)
+[#### What Causes Abdominal Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-causes-abdominal-mesothelioma/)
 
-[![How do you know if you have stage 1 lung cancer?](https://www.pintas.com/wp-content/uploads/2020/11/how-do-you-know-if-you-have-stage-1-lung-cancer.jpg "How Do You Know if You Have Stage 1 Lung Cancer?")](https://www.pintas.com/lung-cancer/how-do-you-know-if-you-have-stage-1-lung-cancer/ "How Do You Know if You Have Stage 1 Lung Cancer?")
+[![Can a ct scan tell if a lung nodule is cancerous?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-ct-scan-tell-if-a-lung-nodule-is-cancerous.jpg "Can a CT Scan Tell If a Lung Nodule Is Cancerous?")](https://www.pintas.com/practice-areas/lung-cancer/can-a-ct-scan-tell-if-a-lung-nodule-is-cancerous/ "Can a CT Scan Tell If a Lung Nodule Is Cancerous?")
 
-[#### How Do You Know if You Have Stage 1 Lung Cancer?](https://www.pintas.com/lung-cancer/how-do-you-know-if-you-have-stage-1-lung-cancer/)
+[#### Can a CT Scan Tell If a Lung Nodule Is Cancerous?](https://www.pintas.com/practice-areas/lung-cancer/can-a-ct-scan-tell-if-a-lung-nodule-is-cancerous/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
