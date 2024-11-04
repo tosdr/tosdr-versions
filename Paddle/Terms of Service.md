@@ -52,7 +52,7 @@ Recurring, automated B2B billing](https://www.paddle.com/billing/invoicing)[####
 
 Reduce your risk with fraud prevention & protection](https://www.paddle.com/billing/fraud-protection)
 
-[![Benchmarkit 2024 SaaS Metrics Report webinar](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpromo-products.1cde34f6.jpg&w=3840&q=75)](https://www.paddle.com/events/webinars/benchmarkit-2024-saas-metrics-benchmarks-report-webinar)
+[![Boost your sales by up to 7X: Proven Black Friday tactics for software companies](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpromo-products.d6d02b69.jpg&w=3840&q=75)](https://www.paddle.com/events/webinars/unleashing-black-friday-success?utm_medium=website&utm_source=website-banner&utm_campaign=webinars_fy2024_q4_core_paddle_happy_hour_webinar_series&utm_content=top-page-banner)
 
 [Integrations](https://www.paddle.com/integrations) [Quickstart guide](https://developer.paddle.com/build/overview) [Dev docs](https://developer.paddle.com/) [Billing sandbox](https://sandbox-login.paddle.com/signup)
 
