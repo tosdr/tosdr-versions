@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![A Christmas Carol (ish). Nick Mohammed. Credit: Matt Crockett](https://cdn.comedy.co.uk/images/library/misc/300x200/c/christmas_carol_ish_mr_swallow.jpg "A Christmas Carol (ish). Nick Mohammed. Credit: Matt Crockett")](https://www.comedy.co.uk/live/features/nick-mohammed-mr-swallow-interview/) Live
+
+[Nick Mohammed on bringing Mr Swallow to the West End](https://www.comedy.co.uk/live/features/nick-mohammed-mr-swallow-interview/)
+
 [![Duggie Small](https://cdn.comedy.co.uk/images/library/people/300x200/d/duggie_small.jpg "Duggie Small")](https://www.comedy.co.uk/features/comedy_chronicles/duggie-small/) Features
 
 [Comedy Chronicles: Up and away - The big fall of Duggie Small](https://www.comedy.co.uk/features/comedy_chronicles/duggie-small/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Image shows left to right: Barry Cryer, Josh Barry](https://cdn.comedy.co.uk/images/library/misc/300x200/b/beyond_the_title_barry_cryer.jpg "Image shows left to right: Barry Cryer, Josh Barry")](https://www.comedy.co.uk/online/features/beyond-the-title-podcast-comedy-top-5/) Online
 
 [Beyond The Title podcast: Comedy top 5](https://www.comedy.co.uk/online/features/beyond-the-title-podcast-comedy-top-5/)
-
-[![The cast of the Red Dwarf USA pilot](https://cdn.comedy.co.uk/images/library/misc/300x200/r/red_dwarf_usa_pilot.jpg "The cast of the Red Dwarf USA pilot")](https://www.comedy.co.uk/tv/red_dwarf/features/red-dwarf-usa/) TV
-
-[Red Dwarf USA: Failure to launch](https://www.comedy.co.uk/tv/red_dwarf/features/red-dwarf-usa/)
 
 #### Subscribe to our newsletters
 
