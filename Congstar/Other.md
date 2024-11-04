@@ -182,22 +182,20 @@
 Verbraucher­informationen für congstar Kunden
 =============================================
 
-  
-Gesetzliche Informationen zu deinen Rechten als Verbraucher\*in nach den Vorschriften über Verträge im Fernabsatz und im elektronischen Geschäftsverkehr.
+Gesetzliche Informationen zu deinen Rechten als Verbraucher nach den Vorschriften über Verträge im Fernabsatz und im elektronischen Geschäftsverkehr.
 
 Vertragspartner
 ---------------
 
-congstar ist eine Marke der Telekom Deutschland GmbH. Vertragspartner der im Shop angebotenen congstar Produkte ist, soweit nicht anders angegeben, die Telekom Deutschland GmbH, Landgrabenweg 151, 53227 Bonn, Telefon: 0221 79 700 700, E-Mail: kundenservice@congstar.de. Weitere Details über uns findest du unter [congstar.de/kontakt](https://www.congstar.de/hilfe-service/kontakt/).
+congstar ist eine Marke der Telekom Deutschland GmbH. Vertragspartner der im Shop angebotenen congstar Produkte ist, soweit nicht anders angegeben, die Telekom Deutschland GmbH, Landgrabenweg 151, 53227 Bonn, Telefon: 0221 79 700 700, E-Mail: kundenservice@congstar.de. Weitere Details über uns findest du unter congstar.de/kontakt.
 
 Bestellablauf
 -------------
 
-Du kannst die gewünschten Produkte unter www.congstar.de auswählen und diese unverbindlich über den Bestellbutton in den Warenkorb legen. Den Inhalt des Warenkorbs kannst du jederzeit durch Anklicken des Buttons „Warenkorb“ ansehen. Nachdem du alle gewünschten Produkte ausgewählt hast, werden diese nochmals im Warenkorb zusammenfassend dargestellt. Durch Anklicken des Buttons „Löschen“ können die ausgewählten Produkte wieder aus dem Warenkorb entfernt werden. Wenn du die Produkte im Warenkorb bestellen möchtest, klicke auf den Button „Weiter zur Kasse“..
+Du kannst die gewünschten Produkte unter www.congstar.de auswählen und diese unverbindlich über den Bestellbutton in den Warenkorb legen. Den Inhalt des Warenkorbs kannst du jederzeit durch Anklicken des Buttons „Warenkorb“ ansehen. Nachdem du alle gewünschten Produkte ausgewählt hast, werden diese nochmals im Warenkorb zusammenfassend dargestellt. Durch Anklicken des Buttons „Löschen“ können die ausgewählten Produkte wieder aus dem Warenkorb entfernt werden. Wenn du die Produkte im Warenkorb bestellen möchtest, klicke auf den Button „Weiter zur Kasse“.
 
-An dieser Stelle kannst du dich entweder mit einem bereits erstellten „meincongstar“ Kundenkonto einloggen oder eine neue Registrierung durchführen, um deine Bestellung abzuschließen. Bitte gebe an dieser Stelle deine Daten ein, diese werden verschlüsselt übertragen. Die Pflichtangaben sind mit einem \* gekennzeichnet. Diese Eingaben bestätigst du bei jedem Schritt bitte mit dem Button „Weiter“.
-
-Nach der Eingabe deiner Daten und der Wahl einer Legitimationsmethode wird dir eine Übersicht der ausgewählten Leistungen sowie deiner eingegebenen Daten angezeigt. An dieser Stelle können die eingegeben Daten nochmals korrigiert werden.
+An dieser Stelle kannst du dich entweder mit einem bereits erstellten „meincongstar“ Kundenkonto einloggen oder eine neue Registrierung durchführen, um deine Bestellung abzuschließen. Bitte gebe an dieser Stelle deine Daten ein, diese werden verschlüsselt übertragen. Die Pflichtangaben sind mit einem \* gekennzeichnet. Diese Eingaben bestätigst du bei jedem Schritt bitte mit dem Button „Weiter“.  
+Nach der Eingabe deiner Daten und der Wahl einer Identifikationsmethode wird dir eine Übersicht der ausgewählten Leistungen sowie deiner eingegebenen Daten angezeigt. An dieser Stelle können die eingegeben Daten nochmals korrigiert werden.
 
 Unterhalb der Zusammenfassung deiner gewählten Produkte und Daten, werden die für den Vertragsschluss erforderlichen Einwilligungen abgefragt. Erst durch Anklicken des Buttons „Zahlungspflichtig bestellen“ gibst du ein verbindliches Bestellangebot ab.
 
@@ -210,12 +208,12 @@ Eine Bestellung im Online-Shop ist erst ab 18 Jahren möglich.
 Widerrufsrecht
 --------------
 
-Als Verbraucher steht Dir bei Bestellungen in unserem Shop ein 14-tägiges Widerrufsrecht zu. Nähere Details zu Deinem Widerrufsrecht erhältst Du im Rahmen des Bestellprozesses und unter [congstar.de/widerruf](https://www.congstar.de/widerruf/).
+Als Verbraucher steht Dir bei Bestellungen in unserem Shop ein 14-tägiges Widerrufsrecht zu. Nähere Details zu Deinem Widerrufsrecht erhältst Du im Rahmen des Bestellprozesses und unter congstar.de/widerruf.
 
 Preise, Versandkosten
 ---------------------
 
-Alle Preise in unserem Online-Shop beinhalten die gesetzliche Umsatzsteuer und alle sonstigen Preisbestandteile. Unsere Versandkosten in Höhe von 4,99 € pro Bestellung eines Endgeräts bzw. Smartphones oder von Internet & Festnetz Hardware enthalten die gesetzliche Umsatzsteuer und alle sonstigen Preisbestandteile. Weitere Zusatzkosten, die nicht über uns abgeführt oder in Rechnung gestellt werden, (z. B. Zölle) fallen nicht an.
+Alle Preise in unserem Online-Shop beinhalten die gesetzliche Umsatzsteuer und alle sonstigen Preisbestandteile. Unsere Versandkosten in Höhe von 4,99 € pro Bestellung eines Endgeräts bzw. Smartphones oder von Internet & Festnetz Hardware enthalten die gesetzliche Umsatzsteuer und alle sonstigen Preisbestandteile. Weitere Zusatzkosten, die nicht über uns abgeführt oder in Rechnung gestellt werden (z. B. Zölle), fallen nicht an.
 
 Lieferung
 ---------
@@ -230,30 +228,30 @@ Lieferzeiten
 
 Bezüglich der beauftragten Festnetz- und Internettarife, Mobilfunktarife oder digitalen Produkte gelten die im Bestellprozess zugestimmten allgemeinen Geschäftsbedingung (AGB) zu vereinbarten Bedingungen für die Bereitstellung, denen du im Bestellprozess zugestimmt hast. Die Lieferzeiten von Festnetz- und Mobilfunkprodukten werden dir im Rahmen des Bestellprozesses angezeigt. Bei der Beauftragung eines Festnetz-Tarifes kannst du uns einen Wunschtermin angeben. Nach Eingang deines Auftrages prüfen wir, wann wir dir die Leistung bereitstellen können. Den konkreten Bereitstellungstermin erhältst du dann mit der Auftragsbestätigung.
 
-**Bestellung Handy** \- Die Ware wird nach Einzug des Einmalpreises per Lastschrift versandfertig gemacht. du erhältst die Ware 10 bis 14 Tage nach Bestellung. Wenn du deine Rufnummer von einem anderen Provider mitbringst (Rufnummernmitnahme), muss das genaue Übernahmedatum noch festgelegt werden. Dein Handy erhältst du rechtzeitig 1 bis 3 Tage vor dem Übernahmedatum, frühestens 10 bis 14 Tage nach der Bestellung.
+Bestellung Handy - Die Ware wird nach Einzug des Einmalpreises bzw. der Anzahlung versandfertig gemacht. Du erhältst die Ware abhängig von deiner gewählten Zahlungsmethode innerhalb von  14 Tagen nach Bestellung. Wenn du deine Rufnummer von einem anderen Provider mitbringst (Rufnummernmitnahme), muss das genaue Übernahmedatum noch festgelegt werden. Dein Handy erhältst du rechtzeitig 1 bis 3 Tage vor dem Übernahmedatum, innerhalb von 14 Tagen nach der Bestellung.
 
-**Bestellung Festnetz & Internet** - Bei einer Bestellung von Festnetz & Internet Produkten erhältst du die Hardware ca. 14 Arbeitstage vor dem Schaltungstermin. Nach Auftragseingang prüfen wir, wann wir dir den Anschluss bereitstellen können. Der Schaltungstermin wird dir zeitnah per E-Mail mitgeteilt.
+Bestellung Festnetz & Internet - Bei einer Bestellung von Festnetz & Internet Produkten erhältst du die Hardware einige Tage vor dem Schaltungstermin. Dieser wird dir zeitnah in deiner Auftragsbestätigung mitgeteilt oder du kannst ihn im Anschluss an deine Bestellung in der App einsehen. 
 
 Zahlung
 -------
 
-Du kannst bei uns ganz bequem per SEPA-Lastschriftverfahren mit Bankeinzug bezahlen.
+Du kannst bei uns ganz bequem per SEPA-Lastschriftverfahren mit Bankeinzug oder per PayPal bezahlen.
 
-Wenn du bei uns einkaufst (z.B. ein Endgerät oder eine Prepaid SIM-Karte), ist der Rechnungsbetrag umgehend fällig. Die Belastung deines Kontos erfolgt innerhalb von zwei Werktagen nach Bestellung der Ware.
+Wenn du bei uns einkaufst (z.B. ein Endgerät oder eine Prepaid SIM-Karte), ist der Rechnungsbetrag umgehend fällig. Die Belastung deines Kontos erfolgt abhängig von deiner gewählten Zahlungsmethode innerhalb von zwei Werktagen nach Bestellung der Ware.
 
-Den regelmäßigen Bankeinzug deiner monatlichen Rechnung (z.B. von deinem Mobilfunkvertrag oder einem Ratenplan) kündigen wir Dir jeweils frühzeitig an. Einige Banken bieten den Service der Vormerkung an. Du wirst auf deinem Kontoauszug darüber informiert - der Rechnungsbetrag ist „vorgemerkt mit Datum tt.mm.jjjj“. Deine aktuelle Rechnung kannst du sieben Tage vor Fälligkeit der Rechnung online über dein [meincongstar Kundencenter](https://www.congstar.de/meincongstar/meine-rechnungen/) abrufen. Dort stellen wir Dir auch alle Rechnungen der letzten 12 Monate zur Verfügung. Damit du keine Rechnung verpasst, erinnern wir Dich in einer E-Mail daran, sobald eine neue Rechnung vorliegt. Dein Konto wird dann zum kommunizierten Fälligkeitstermin belastet, das sind ca. sieben Tage nach Rechnungsstellung. Solltest Du bei congstar eine Ratenzahlung vereinbart haben, so ist diese jeweils entweder zum 1. oder zum 15. jeden Monats fällig und wird zu diesem Datum eingezogen.
+Den regelmäßigen Einzug deiner monatlichen Rechnung (z.B. von deinem Mobilfunkvertrag oder einem Ratenplan) kündigen wir Dir jeweils frühzeitig an. Einige Banken bieten beim SEPA-Lastschriftverfahren den Service der Vormerkung an. Du wirst auf deinem Kontoauszug darüber informiert - der Rechnungsbetrag ist „vorgemerkt mit Datum tt.mm.jjjj“. Deine aktuelle Rechnung kannst du sieben Tage vor Fälligkeit der Rechnung online über dein meincongstar Kundencenter oder auf deinem Smartphone in der congstar App abrufen. Dort stellen wir Dir auch alle Rechnungen der letzten 12 Monate zur Verfügung. Damit du keine Rechnung verpasst, erinnern wir Dich in einer E-Mail daran, sobald eine neue Rechnung vorliegt. Dein Konto wird dann zum kommunizierten Fälligkeitstermin belastet, das sind abhängig von deiner gewählten Zahlungsmethode ca. fünf bis sieben Tage nach Rechnungsstellung. Solltest Du bei congstar eine Ratenzahlung vereinbart haben, so ist diese jeweils entweder zum 1. oder zum 15. jeden Monats fällig und wird zu diesem Datum eingezogen.
 
 Die Bereitstellung der digitalen Produkte erfolgt unmittelbar nach Abschluss der Bestellung durch Klicken des Buttons „zahlungspflichtig bestellen“ und dem Abschluss des Bezahlvorganges.
 
 Gewährleistung und Garantie
 ---------------------------
 
-Für die in unserem Shop angebotene Waren und digitalen Produkte bestehen die gesetzlichen Mängelansprüche. Sofern der Hersteller für die Waren oder digitalen Produkten eine Herstellergarantie übernimmt, bestehen die gesetzlichen Mängelansprüche und die Herstellergarantie nebeneinander. Die Garantiebedingungen des jeweiligen Herstellers findest du unter „Garantiebedingungen“. Wenn du Fragen hast oder unseren Kundenservice kontaktieren möchtest, findest du alle Kontaktwege unter [congstar.de/kontakt](https://www.congstar.de/hilfe-service/kontakt/).
+Für die in unserem Shop angebotenen Waren und digitalen Produkte bestehen die gesetzlichen Mängelansprüche. Sofern der Hersteller für die Waren oder digitalen Produkten eine Herstellergarantie übernimmt, bestehen die gesetzlichen Mängelansprüche und die Herstellergarantie nebeneinander. Die Garantiebedingungen des jeweiligen Herstellers findest du unter „Garantiebedingungen“. Wenn du Fragen hast oder unseren Kundenservice kontaktieren möchtest, findest du alle Kontaktwege unter congstar.de/kontakt.
 
 Speicherung des Vertragstextes
 ------------------------------
 
-Wir speichern deine Vertragsdaten und senden dir die Vertragsunterlagen per E-Mail zu. Im Kundencenter [meincongstar Kundencenter](https://www.congstar.de/login/) kannst du nach Eingabe deiner persönlichen Zugangsdaten den Auftragsstatus deines Tarifes bzw. den Bestellstatus deiner bestellten Ware einsehen. Ferner kannst du dort jederzeit deine aktuellen Vertragsdaten einsehen und ändern, sowie deine persönlichen Daten verwalten.
+Wir speichern deine Vertragsdaten und senden dir die Vertragsunterlagen per E-Mail zu. Im r meincongstar Kundencenter wie auch in der congstar App kannst du nach Eingabe deiner persönlichen Zugangsdaten den Auftragsstatus deines Tarifes bzw. den Bestellstatus deiner bestellten Ware einsehen. Ferner kannst du dort jederzeit deine aktuellen Vertragsdaten einsehen und ändern, sowie deine persönlichen Daten verwalten.
 
 Vertragssprache
 ---------------
@@ -267,17 +265,19 @@ Du hast eine Beanstandung zur Qualität unserer Dienstleistungen, zur Vertragsdu
 
 Tel: 0221 79 700 700
 
-Servicezeiten: Montag - Samstag von 8 bis 22 Uhr  
+Servicezeiten: 
+
+Montag - Samstag von 8 bis 22 Uhr  
 Sonn- und feiertags von 9 bis 18 Uhr
 
-All unsere weiteren Kontaktmöglichkeiten findest du unter [congstar.de/kontakt.](https://www.congstar.de/hilfe-service/kontakt/)
+All unsere weiteren Kontaktmöglichkeiten findest du unter congstar.de/kontakt.
 
-Alternativ kannst du natürlich auch über unser [Kontaktformular](https://www.congstar.de/hilfe-service/kontakt/kontaktformular/) mit uns in Verbindung treten. Die Bearbeitungsdauer bei Beanstandungen zur Qualität unserer Dienstleistungen, zur Vertragsdurchführung oder zu deiner Abrechnung beträgt durchschnittlich 3 Arbeitstage. Die konkrete Dauer kann natürlich je nach Anliegen sehr unterschiedlich sein. Meistens geht es aber zum Glück schneller.
+Alternativ kannst du natürlich auch über unser Kontaktformular mit uns in Verbindung treten. Die Bearbeitungsdauer bei Beanstandungen zur Qualität unserer Dienstleistungen, zur Vertragsdurchführung oder zu deiner Abrechnung beträgt durchschnittlich 3 Arbeitstage. Die konkrete Dauer kann natürlich je nach Anliegen sehr unterschiedlich sein. Meistens geht es aber zum Glück schneller.
 
 Informationen zu Festnetz- und Mobilfunktarifen
 -----------------------------------------------
 
-Informationen über Festnetz- und Mobilfunktarife, die auf Grundlage von Allgemeinen Geschäftsbedingungen angeboten werden, wie Informationen über Leistungen, Preise, Vertragslaufzeiten, Kündigungsbedingungen und sonstige Informationen (wie z.B. Informationen über den Anbieterwechsel) und über Deine Rechte als Endnutzer findest du in den für das jeweilige Produkt geltenden Allgemeinen Geschäftsbedingungen, Leistungsbeschreibungen und Preislisten. Diese Dokumente, kannst du unter [constar.de/agb](https://www.congstar.de/agb/) und im Rahmen des Bestellprozesses abrufen. Die Datenübertragungsrate der bereitgestellten Festnetz-Internetverträge kannst du über die Breitbandmessung Desktop-App der Bundesnetzagentur unter www.breitbandmessung.de überprüfen. Informationen über die tatsächliche standortbezogene Mobilfunknetzabdeckung der Telekom, einschließlich einer Kartendarstellung zur aktuellen Netzabdeckung, findest du im Internet unter [telekom.de/netz/mobilfunk-netzausbau](https://www.congstar.de/weiterleitung/?r=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL3d3dy50ZWxla29tLmRlL25ldHovbW9iaWxmdW5rLW5ldHphdXNiYXUifQ.V0Sh8vIJ20P3DMS5pRyH6sZzTIma1x7xfyd4rv34yMw&cHash=1a58c934fcd115b2cc16c971364db8e9).
+Informationen über Festnetz- und Mobilfunktarife, die auf Grundlage von Allgemeinen Geschäftsbedingungen angeboten werden, wie Informationen über Leistungen, Preise, Vertragslaufzeiten, Kündigungsbedingungen und sonstige Informationen (wie z.B. Informationen über den Anbieterwechsel) und über Deine Rechte als Endnutzer findest du in den für das jeweilige Produkt geltenden Allgemeinen Geschäftsbedingungen, Leistungsbeschreibungen und Preislisten. Diese Dokumente, kannst du unter constar.de/agb und im Rahmen des Bestellprozesses abrufen. Die Datenübertragungsrate der bereitgestellten Festnetz-Internetverträge kannst du über die Breitbandmessung Desktop-App der Bundesnetzagentur unter www.breitbandmessung.de überprüfen. Informationen über die tatsächliche standortbezogene Mobilfunknetzabdeckung der Telekom, einschließlich einer Kartendarstellung zur aktuellen Netzabdeckung, findest du im Internet unter telekom.de/netz/mobilfunk-netzausbau.
 
 Schlichtungs­stelle
 -------------------
@@ -292,17 +292,17 @@ Postfach 8001
 
 Telefax: 030 224 80518
 
-Nähere Details zum Verfahrensablauf erhältst du auf der Internetseite der Bundesnetzagentur unter [bundesnetzagentur.de](https://www.congstar.de/weiterleitung/?r=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL3d3dy5idW5kZXNuZXR6YWdlbnR1ci5kZSJ9.87Eb6O_3XSrTcJzoLyF-J7YITP2W0-BGCqMYQJM19vQ&cHash=9fc72e57075cc654612ff3b4b7e9cc95).
+Nähere Details zum Verfahrensablauf erhältst du auf der Internetseite der Bundesnetzagentur unter bundesnetzagentur.de.
 
 Online-Streitbeilegung
 ----------------------
 
-Die EU-Kommission stellt eine Online-Plattform zur Online-Streitbeilegung (OS-Plattform) in Verbraucherangelegenheiten bereit. Diese Plattform erreichst du unter [ec.europa.eu/consumers/odr](https://www.congstar.de/weiterleitung/?r=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2VjLmV1cm9wYS5ldS9jb25zdW1lcnMvb2RyL21haW4vaW5kZXguY2ZtP2V2ZW50PW1haW4uaG9tZS5jaG9vc2VMYW5ndWFnZSJ9.45avtqy2ia04Ha-sWFAUGRkL1hB3g2D6RyNeBrXgjhs&cHash=63f08b4f7755b4b623602535c39fc79c).
+Die EU-Kommission stellt eine Online-Plattform zur Online-Streitbeilegung (OS-Plattform) in Verbraucherangelegenheiten bereit. Diese Plattform erreichst du unter ec.europa.eu/consumers/odr.
 
 Compliance-Hinweise
 -------------------
 
-Bei Anhaltspunkten für Verstöße gegen Gesetze oder Regelungen von congstar bzw. der Deutschen Telekom hast du die Möglichkeit, uns diese über unser Hinweisgeberportal "Tell me!" zu melden. Das Hinweisgeberportal der Deutschen Telekom erreichst du unter [telekom.com/tell-me](https://www.congstar.de/weiterleitung/?r=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL3d3dy50ZWxla29tLmNvbS9kZS9rb256ZXJuL2NvbXBsaWFuY2UvaGlud2Vpc2dlYmVycG9ydGFsIn0.ddLjYSTPydpLSRH4i-vNKA_oq1lBPJCozZI98vi8fn0&cHash=5d2b5822c079316b8511d702e58e25cc).
+Bei Anhaltspunkten für Verstöße gegen Gesetze oder Regelungen von congstar bzw. der Deutschen Telekom hast du die Möglichkeit, uns diese über unser Hinweisgeberportal "Tell me!" zu melden. Das Hinweisgeberportal der Deutschen Telekom erreichst du unter telekom.com/tell-me.
 
 Besser einkaufen
 
