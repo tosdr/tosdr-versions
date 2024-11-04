@@ -49,7 +49,7 @@ DMCA
 
 ### Login to 5play.org
 
-[](https://www.facebook.com/dialog/oauth?client_id=281507214574045&redirect_uri=https%3A%2F%2F5play.org%2Findex.php%3Fdo%3Dauth-social%26provider%3Dfc&scope=public_profile%2Cemail&display=popup&state=de33c2a9170bdaa0abca387d30f75ca0&response_type=code)[](https://accounts.google.com/o/oauth2/auth?client_id=609340283350-apppi0njujq31fe388ckhmtvsv9optgk.apps.googleusercontent.com&redirect_uri=https%3A%2F%2F5play.org%2Findex.php%3Fdo%3Dauth-social%26provider%3Dgoogle&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&state=de33c2a9170bdaa0abca387d30f75ca0&response_type=code)
+[](https://www.facebook.com/dialog/oauth?client_id=281507214574045&redirect_uri=https%3A%2F%2F5play.org%2Findex.php%3Fdo%3Dauth-social%26provider%3Dfc&scope=public_profile%2Cemail&display=popup&state=2a108052f65f567c044fe240ffce5854&response_type=code)[](https://accounts.google.com/o/oauth2/auth?client_id=609340283350-apppi0njujq31fe388ckhmtvsv9optgk.apps.googleusercontent.com&redirect_uri=https%3A%2F%2F5play.org%2Findex.php%3Fdo%3Dauth-social%26provider%3Dgoogle&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&state=2a108052f65f567c044fe240ffce5854&response_type=code)
 
 Login  [Forgot your password?](https://5play.org/index.php?do=lostpassword&lang=en) Password  
 
