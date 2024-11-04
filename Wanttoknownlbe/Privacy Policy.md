@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/big-pharma/stop-de-dodelijke-marketing-van-de-farmaceutische-industrie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/koninklijk-bloed/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
