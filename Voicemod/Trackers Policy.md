@@ -204,3 +204,15 @@ Supercharge Your Voice
 * [3rd Party Software](https://voicemod.notion.site/3ce7ec8daebb4d228b2bf2310daeccd5 "3rd Party Software")
 
 Facebook Instagram YouTube LinkedIn Tik Tok Discord Reddit
+
+Connecting issues? Please download the latest Voicemod version
+
+[Download Now!](https://voicemod.link/download-now)
+
+This is default text for notification bar
+
+Learn more
+
+[](javascript:void(0))[](javascript:void(0))
+
+[](javascript:void(0))
