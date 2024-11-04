@@ -10,7 +10,6 @@ DISMISS
 
 * [Scores](https://www.foxsports.com/scores)
 * [Watch](https://www.foxsports.com/live)
-* [WORLD SERIES](https://www.foxsports.com/mlb/world-series)
 * [Odds](https://www.foxsports.com/odds)
 * [FOX Super 6](https://www.foxsports.com/fox-super-6)
 * [Tom Brady](https://www.foxsports.com/personalities/tom-brady)
