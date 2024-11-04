@@ -105,20 +105,20 @@ Top downloads
 
 Latest releases
 
-* [The Indian in the Cupboard](https://www.myabandonware.com/game/the-indian-in-the-cupboard-ssn)
-* [Basketball](https://www.myabandonware.com/game/basketball-agh)
-* [ActRaiser](https://www.myabandonware.com/game/actraiser-b9t)
-* [Air Buster](https://www.myabandonware.com/game/air-buster-8ho)
-* [BlaZeon](https://www.myabandonware.com/game/blazeon-b9l)
+* [The Golden Compass](https://www.myabandonware.com/game/the-golden-compass-tfc)
+* [Carrier](https://www.myabandonware.com/game/carrier-t6e)
+* [Kung-Fu Street](https://www.myabandonware.com/game/kung-fu-street-t6d)
+* [Bubble World](https://www.myabandonware.com/game/bubble-world-t6c)
+* [Kitchen War](https://www.myabandonware.com/game/kitchen-war-t6b)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Multi Sports](https://www.myabandonware.com/game/multi-sports-k8v)
-* [The Universal Military Simulator: The American Civil War - Scenario Disk One](https://www.myabandonware.com/game/the-universal-military-simulator-the-american-civil-war-scenario-disk-one-ah8)
-* [Rolling Crash](https://www.myabandonware.com/game/rolling-crash-sdv)
+* [Games That Didn't Make It](https://www.myabandonware.com/game/games-that-didn-t-make-it-3kd)
+* [Judge Dredd](https://www.myabandonware.com/game/judge-dredd-sg2)
+* [Phantomas en la luna](https://www.myabandonware.com/game/phantomas-en-la-luna-k7h)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
