@@ -195,26 +195,26 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111628-be-still-and-know-2024-11-04)
+     [](https://patriotpost.us/memes/111635-just-like-that-2024-11-04)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34456)
+     [](https://patriotpost.us/cartoons/34460)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Tony Perkins This Tuesday, Don’t Waste Your Responsibility](https://patriotpost.us/opinion/111636-this-tuesday-dont-waste-your-responsibility-2024-11-04)
+*      [Rich Lowry Kamala Harris Sells Faux Unity — Yet Again](https://patriotpost.us/opinion/111634-kamala-harris-sells-faux-unity-yet-again-2024-11-04)
+*      [Gary Bauer Job Creation Collapse](https://patriotpost.us/opinion/111630-job-creation-collapse-2024-11-04)
 *      [Allen West The Rules of Radicals](https://patriotpost.us/opinion/111607-the-rules-of-radicals-2024-11-04)
+*      [Jeff Jacoby What Makes Vote-Buying Wrong?](https://patriotpost.us/opinion/111629-what-makes-vote-buying-wrong-2024-11-04)
+*      [The Washington Stand Headwinds for Harris: Miniscule Job Growth in Last Pre-Election Report](https://patriotpost.us/opinion/111639-headwinds-for-harris-miniscule-job-growth-in-last-pre-election-report-2024-11-04)
+*      [The Babylon Bee In Disgusting Call for Violence, Trump Says Politicians Should Stop Sending Kids Off to War](https://patriotpost.us/opinion/111652-in-disgusting-call-for-violence-trump-says-politicians-should-stop-sending-kids-off-to-war-2024-11-04)
 *      [Christine Yeargin The Path to Saving America Runs Through Homeschooling](https://patriotpost.us/opinion/111609-the-path-to-saving-america-runs-through-homeschooling-2024-11-02)
-*      [Allen West The Desperation of Kamala Harris](https://patriotpost.us/opinion/111606-the-desperation-of-kamala-harris-2024-11-02)
-*      [Matthew Continetti The Trump Flex](https://patriotpost.us/opinion/111605-the-trump-flex-2024-11-02)
-*      [The Washington Stand The Mastery of Freedom: Self-Control in Election Season](https://patriotpost.us/opinion/111608-the-mastery-of-freedom-self-control-in-election-season-2024-11-02)
-*      [Josh Hammer The Final Choice: Civilizational Arson Versus Civilizational Sanity](https://patriotpost.us/opinion/111587-the-final-choice-civilizational-arson-versus-civilizational-sanity-2024-11-01)
-*      [Victor Davis Hanson Once Joyful Harris Now Goes the Full McCarthyite](https://patriotpost.us/opinion/111584-once-joyful-harris-now-goes-the-full-mccarthyite-2024-11-01)
-*      [Erick Erickson Garbage In/Garbage Out](https://patriotpost.us/opinion/111583-garbage-in-slash-garbage-out-2024-11-01)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -236,7 +236,7 @@ Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
-“I rejoice in a belief that intellectual light will spring up in the dark corners of the earth; that freedom of enquiry will produce liberality of conduct; that mankind will reverse the absurd position that the many were, made for the few; and that they will not continue slaves in one part of the globe, when they can become freemen in another.” —George Washington (1789)
+“The great desideratum in Government is, so to modify the sovereignty as that it may be sufficiently neutral between different parts of the Society to controul one part from invading the rights of another, and at the same time sufficiently controuled itself, from setting up an interest adverse to that of the entire Society.” —James Madison (1787)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
