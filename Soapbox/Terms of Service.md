@@ -46,10 +46,8 @@ Menu icon Menu
         
     
 * [Our Mission](https://www.soapboxsoaps.com/pages/ourmission)
-* [Build a Bundle](https://www.soapboxsoaps.com/collections)
-* [Retail Partners](https://www.soapboxsoaps.com/)
-* [Hope Code](https://www.soapboxsoaps.com/)
-* [Contact Us](https://www.soapboxsoaps.com/)
+* [Stores](https://www.soapboxsoaps.com/pages/store-locator)
+* [Hope Code](https://www.soapboxsoaps.com/pages/hope)
 
  Cancel Search icon Spinner icon
 
@@ -112,10 +110,8 @@ Search icon Search
         
     
 * [Our Mission](https://www.soapboxsoaps.com/pages/ourmission)
-* [Build a Bundle](https://www.soapboxsoaps.com/collections)
-* [Retail Partners](https://www.soapboxsoaps.com/)
-* [Hope Code](https://www.soapboxsoaps.com/)
-* [Contact Us](https://www.soapboxsoaps.com/)
+* [Stores](https://www.soapboxsoaps.com/pages/store-locator)
+* [Hope Code](https://www.soapboxsoaps.com/pages/hope)
 
 Terms of service
 ================
@@ -329,7 +325,5 @@ Close icon
 Chevron down icon Chevron down icon
 
        
-
-     
 
 {"themeColor":"#574cd5","iconColor":"#574cd5","showLogo":true,"topBottomPosition":10,"rightLeftPosition":10,"iconSize":"small","iconCustomSize":64,"position":"bottom-right"}
