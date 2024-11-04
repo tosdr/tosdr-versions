@@ -30,14 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WTLV/images/de9f0543-d476-48b5-b617-b0d719cc3eba/20240909T161850/de9f0543-d476-48b5-b617-b0d719cc3eba_16x9.jpg) ![](https://media.tegna-media.com/assets/WTLV/images/de9f0543-d476-48b5-b617-b0d719cc3eba/20240909T161850/de9f0543-d476-48b5-b617-b0d719cc3eba_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-train-vs-vehicle-crash-injures-2-people/526-a0b640da-be90-4ab5-bca5-1c953f6c22bc)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f8cb8cf4-79a8-4935-8446-a854f43645c7/20240924T141722/f8cb8cf4-79a8-4935-8446-a854f43645c7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f8cb8cf4-79a8-4935-8446-a854f43645c7/20240924T141722/f8cb8cf4-79a8-4935-8446-a854f43645c7_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/falling-leaves-water-systems-phosphorous-nitrates-tips-how-to-help/526-c3b7b96d-c5b7-4c2a-8847-ccf372491b7b)
         
-        #### [Davenport train vs. vehicle crash injures 2 people](https://www.wqad.com/article/news/local/davenport-train-vs-vehicle-crash-injures-2-people/526-a0b640da-be90-4ab5-bca5-1c953f6c22bc)
+        #### [Autumn's falling leaves could spell trouble for our local waterways](https://www.wqad.com/article/news/local/the-current/falling-leaves-water-systems-phosphorous-nitrates-tips-how-to-help/526-c3b7b96d-c5b7-4c2a-8847-ccf372491b7b) [![](https://media.tegna-media.com/assets/WQAD/images/f8cb8cf4-79a8-4935-8446-a854f43645c7/20240924T141722/f8cb8cf4-79a8-4935-8446-a854f43645c7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f8cb8cf4-79a8-4935-8446-a854f43645c7/20240924T141722/f8cb8cf4-79a8-4935-8446-a854f43645c7_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/falling-leaves-water-systems-phosphorous-nitrates-tips-how-to-help/526-c3b7b96d-c5b7-4c2a-8847-ccf372491b7b)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a17a2202-921a-4f5a-b012-1b145c73f7e7/20241103T181642/a17a2202-921a-4f5a-b012-1b145c73f7e7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a17a2202-921a-4f5a-b012-1b145c73f7e7/20241103T181642/a17a2202-921a-4f5a-b012-1b145c73f7e7_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/rock-falls-illinois-shooting-suspect-arrested-johnathon-parker-whiteside-county-sheriffs-office/526-98ff16fc-1abf-4502-918b-bbe2816ecf30)
+        #### [All those falling leaves outside could spell trouble for local waterways](https://www.wqad.com/article/news/local/the-current/falling-leaves-water-systems-phosphorous-nitrates-tips-how-to-help/526-c3b7b96d-c5b7-4c2a-8847-ccf372491b7b)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f8b21bfb-928e-4622-924b-2344ac851f64/20241104T221103/f8b21bfb-928e-4622-924b-2344ac851f64_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f8b21bfb-928e-4622-924b-2344ac851f64/20241104T221103/f8b21bfb-928e-4622-924b-2344ac851f64_360x203.jpg)](https://www.wqad.com/article/news/local/usda-disaster-declaration-henry-marshall-putnam-county/526-edc7cadf-3cf9-4ab0-b2aa-921a500ce755)
         
-        #### [Suspect in Rock Falls shooting arrested, sheriff's office says](https://www.wqad.com/article/news/local/public-safety/rock-falls-illinois-shooting-suspect-arrested-johnathon-parker-whiteside-county-sheriffs-office/526-98ff16fc-1abf-4502-918b-bbe2816ecf30)
+        #### [USDA issues disaster declaration for Henry, Marshall and Putnam counties](https://www.wqad.com/article/news/local/usda-disaster-declaration-henry-marshall-putnam-county/526-edc7cadf-3cf9-4ab0-b2aa-921a500ce755) [![](https://media.tegna-media.com/assets/WQAD/images/f8b21bfb-928e-4622-924b-2344ac851f64/20241104T221103/f8b21bfb-928e-4622-924b-2344ac851f64_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f8b21bfb-928e-4622-924b-2344ac851f64/20241104T221103/f8b21bfb-928e-4622-924b-2344ac851f64_360x203.jpg)](https://www.wqad.com/article/news/local/usda-disaster-declaration-henry-marshall-putnam-county/526-edc7cadf-3cf9-4ab0-b2aa-921a500ce755)
         
+        #### [Disaster declaration in effect for Henry, Marshall and Putnam counties](https://www.wqad.com/article/news/local/usda-disaster-declaration-henry-marshall-putnam-county/526-edc7cadf-3cf9-4ab0-b2aa-921a500ce755)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -56,13 +58,14 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f8b21bfb-928e-4622-924b-2344ac851f64/20241104T221103/f8b21bfb-928e-4622-924b-2344ac851f64_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f8b21bfb-928e-4622-924b-2344ac851f64/20241104T221103/f8b21bfb-928e-4622-924b-2344ac851f64_360x203.jpg)](https://www.wqad.com/article/news/local/usda-disaster-declaration-henry-marshall-putnam-county/526-edc7cadf-3cf9-4ab0-b2aa-921a500ce755)
+        
+        #### [USDA issues disaster declaration for Henry, Marshall and Putnam counties](https://www.wqad.com/article/news/local/usda-disaster-declaration-henry-marshall-putnam-county/526-edc7cadf-3cf9-4ab0-b2aa-921a500ce755) [![](https://media.tegna-media.com/assets/WQAD/images/f8b21bfb-928e-4622-924b-2344ac851f64/20241104T221103/f8b21bfb-928e-4622-924b-2344ac851f64_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f8b21bfb-928e-4622-924b-2344ac851f64/20241104T221103/f8b21bfb-928e-4622-924b-2344ac851f64_360x203.jpg)](https://www.wqad.com/article/news/local/usda-disaster-declaration-henry-marshall-putnam-county/526-edc7cadf-3cf9-4ab0-b2aa-921a500ce755)
+        
+        #### [Disaster declaration in effect for Henry, Marshall and Putnam counties](https://www.wqad.com/article/news/local/usda-disaster-declaration-henry-marshall-putnam-county/526-edc7cadf-3cf9-4ab0-b2aa-921a500ce755)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/f8896a03-7a57-4c5f-985b-b9e3777c75b2/20241002T132251/f8896a03-7a57-4c5f-985b-b9e3777c75b2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f8896a03-7a57-4c5f-985b-b9e3777c75b2/20241002T132251/f8896a03-7a57-4c5f-985b-b9e3777c75b2_360x203.jpg)](https://www.wqad.com/article/weather/winter-2024-2025-outlook/526-c12bd23a-2ef8-48bf-9ec0-6f675f612cb1)
         
         #### [What to expect this upcoming winter 2024-2025](https://www.wqad.com/article/weather/winter-2024-2025-outlook/526-c12bd23a-2ef8-48bf-9ec0-6f675f612cb1)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/936150c3-262c-49e7-94ee-6431335eec93/20241104T131112/936150c3-262c-49e7-94ee-6431335eec93_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/936150c3-262c-49e7-94ee-6431335eec93/20241104T131112/936150c3-262c-49e7-94ee-6431335eec93_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [Rain and a few thunderstorms likely by Monday evening](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,7 +89,7 @@ Navigation
 
 Davenport, IA »
 
-65°
+66°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
