@@ -26,9 +26,9 @@ Menü
             
             [Heizung steuern](https://homematic-ip.com/de/heizung-steuern)
     * [Geld sparen](https://homematic-ip.com/de/geld-sparen)
-        *  [![](/sites/default/files/styles/product_view_teaser/public/images/frau-mit-smartphone-und-baby-2_1.jpg.webp?itok=-jk025CM)](https://homematic-ip.com/de/energie-sparen)
+        *  [![](/sites/default/files/styles/product_view_teaser/public/images/frau-mit-smartphone-und-baby-2_1.jpg.webp?itok=-jk025CM)](https://homematic-ip.com/de/energie-sparen-2)
             
-            [Energie sparen](https://homematic-ip.com/de/energie-sparen)
+            [Energie sparen](https://homematic-ip.com/de/energie-sparen-2)
         *  [![](/sites/default/files/styles/product_view_teaser/public/images/033-hmip-mood-stills.jpg.webp?itok=b5_6PViR)](https://homematic-ip.com/de/heizung-steuern)
             
             [Heizung steuern](https://homematic-ip.com/de/heizung-steuern)
