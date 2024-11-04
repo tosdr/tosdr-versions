@@ -359,6 +359,7 @@ Company
 * [CA Privacy Notice](https://www.grammarly.com/privacy-policy#sectionSingleColumn_2GTlr2rezIDBVoeckgjhjO)
 * [Security](https://www.grammarly.com/security)
 * [Accessibility](https://www.grammarly.com/accessibility-statement)
+* Manage my cookie preferences
 
 Connect
 
