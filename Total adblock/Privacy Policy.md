@@ -244,7 +244,7 @@ Login
 
 [](https://www.facebook.com/totaladblock "Navigate to https://www.facebook.com/totaladblock")[](https://instagram.com/totaladblockco "Navigate to https://instagram.com/totaladblockco")[](https://twitter.com/totaladblocker "Navigate to https://twitter.com/totaladblocker")[](https://www.youtube.com/totalav "Navigate to https://www.youtube.com/totalav")
 
-© 2024 Total Security Limited
+© 2025 Total Security Limited
 
 All Rights Reserved
 
