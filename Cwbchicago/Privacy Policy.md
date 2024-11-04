@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/bb910-326x245.jpg)](https://cwbchicago.com/2024/11/2-more-victims-are-found-shot-with-no-calls-of-gunfire-in-areas-previously-served-by-shotspotter.html "2 more victims are found shot with no calls of gunfire in areas previously served by ShotSpotter")
+[![](https://cwbchicago.com/wp-content/uploads/2023/12/Generic-red-tape-edited-326x245.jpg)](https://cwbchicago.com/2024/11/man-shot-9-year-old-grazed-outside-uptown-school.html "Man shot, 9-year-old grazed outside Uptown school")
 
-Roseland
+Uptown
 
-### [2 more victims are found shot with no calls of gunfire in areas previously served by ShotSpotter](https://cwbchicago.com/2024/11/2-more-victims-are-found-shot-with-no-calls-of-gunfire-in-areas-previously-served-by-shotspotter.html "2 more victims are found shot with no calls of gunfire in areas previously served by ShotSpotter")
+### [Man shot, 9-year-old grazed outside Uptown school](https://cwbchicago.com/2024/11/man-shot-9-year-old-grazed-outside-uptown-school.html "Man shot, 9-year-old grazed outside Uptown school")
 
-[November 1, 2024 7:37 AM](https://cwbchicago.com/2024/11)
+[November 1, 2024 6:44 PM](https://cwbchicago.com/2024/11)
 
-Companies that want to pitch the city of Chicago on technology that could replace ShotSpotter’s gunfire sensors originally had until 3 p.m. today to get their paperwork turned in. But the city has extended the deadline for for proposals for services that sound a lot like ShotSpotter.[](https://cwbchicago.com/2024/11/2-more-victims-are-found-shot-with-no-calls-of-gunfire-in-areas-previously-served-by-shotspotter.html "2 more victims are found shot with no calls of gunfire in areas previously served by ShotSpotter")
+A man was shot and a 9-year-old girl was grazed by a bullet when at least two gunmen opened fire near William C. Goudy Technology Academy, 5120 N Winthrop, in Uptown on Friday afternoon.[](https://cwbchicago.com/2024/11/man-shot-9-year-old-grazed-outside-uptown-school.html "Man shot, 9-year-old grazed outside Uptown school")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/7200-block-north-damen-map-chicago-326x245.jpg)](https://cwbchicago.com/2024/11/15-year-old-boy-shot-in-rogers-park-on-halloween-night.html "15-year-old boy shot in Rogers Park on Halloween night")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Lori-clown-326x245.jpg)](https://cwbchicago.com/2024/11/police-oversight-agency-recommends-cop-be-fired-for-posting-pic-of-former-mayor-in-clown-makeup.html "Police oversight agency recommends cop be fired for posting pic of former mayor in clown makeup")
 
-Rogers Park
+Citywide
 
-### [15-year-old boy shot in Rogers Park on Halloween night](https://cwbchicago.com/2024/11/15-year-old-boy-shot-in-rogers-park-on-halloween-night.html "15-year-old boy shot in Rogers Park on Halloween night")
+### [Police oversight agency recommends cop be fired for posting pic of former mayor in clown makeup](https://cwbchicago.com/2024/11/police-oversight-agency-recommends-cop-be-fired-for-posting-pic-of-former-mayor-in-clown-makeup.html "Police oversight agency recommends cop be fired for posting pic of former mayor in clown makeup")
 
-[November 1, 2024 4:39 AM](https://cwbchicago.com/2024/11)
+[November 1, 2024 11:28 AM](https://cwbchicago.com/2024/11)
 
-A 15-year-old boy was shot in Rogers Park on Halloween night, police say, making him the eighth person shot in the neighborhood during October.[](https://cwbchicago.com/2024/11/15-year-old-boy-shot-in-rogers-park-on-halloween-night.html "15-year-old boy shot in Rogers Park on Halloween night")
+The agency charged with investigating wrongdoing by Chicago police officers recommended that an officer be fired for, mostly, posting a picture to Facebook of former Mayor Lori Lightfoot in “blackface,” when the image actually showed her in clown make-up, according to reports released Friday.[](https://cwbchicago.com/2024/11/police-oversight-agency-recommends-cop-be-fired-for-posting-pic-of-former-mayor-in-clown-makeup.html "Police oversight agency recommends cop be fired for posting pic of former mayor in clown makeup")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/5900-north-kenmore-map-326x245.jpg)](https://cwbchicago.com/2024/10/woman-shot-in-edgewater-alley-as-shootings-soar-300-this-year.html "Woman shot in Edgewater alley as shootings soar 300% this year")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Melvin-Kirk-326x245.jpg)](https://cwbchicago.com/2024/11/burglar-caught-with-30k-worth-of-eyeglasses-just-4-days-after-being-arrested-for-shoplifting-prosecutors.html "Burglar caught with $30K worth of eyeglasses just 4 days after being arrested for shoplifting: prosecutors")
 
-Edgewater
+Loop
 
-### [Woman shot in Edgewater alley as shootings soar 300% this year](https://cwbchicago.com/2024/10/woman-shot-in-edgewater-alley-as-shootings-soar-300-this-year.html "Woman shot in Edgewater alley as shootings soar 300% this year")
+### [Burglar caught with $30K worth of eyeglasses just 4 days after being arrested for shoplifting: prosecutors](https://cwbchicago.com/2024/11/burglar-caught-with-30k-worth-of-eyeglasses-just-4-days-after-being-arrested-for-shoplifting-prosecutors.html "Burglar caught with $30K worth of eyeglasses just 4 days after being arrested for shoplifting: prosecutors")
 
-[October 31, 2024 6:14 PM](https://cwbchicago.com/2024/10)
+[November 1, 2024 8:22 AM](https://cwbchicago.com/2024/11)
 
-A woman was shot in an Edgewater alley this afternoon, Ald. Leni Manaa-Hoppenworth (48th) said in an email. Shootings in the neighborhood are now up 300% compared to last year.[](https://cwbchicago.com/2024/10/woman-shot-in-edgewater-alley-as-shootings-soar-300-this-year.html "Woman shot in Edgewater alley as shootings soar 300% this year")
+Prosecutors have charged a man with burglarizing a downtown LensCrafters just four days after he was released to await trial on shoplifting charges.[](https://cwbchicago.com/2024/11/burglar-caught-with-30k-worth-of-eyeglasses-just-4-days-after-being-arrested-for-shoplifting-prosecutors.html "Burglar caught with $30K worth of eyeglasses just 4 days after being arrested for shoplifting: prosecutors")
 
 Search
 
