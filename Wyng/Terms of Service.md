@@ -420,7 +420,7 @@ COMPANY
 
 ![](/wp-content/uploads/2024/03/21972-312_SOC_NonCPA.png)](https://www.wyng.com/blog/wyng-soc-2-compliance/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](/wp-content/uploads/2024/03/ISV-certified-24-black.png)](https://machalliance.org/members)![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+![](/wp-content/uploads/2024/11/ISV-certified.svg)](https://machalliance.org/members)![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
 ![](/wp-content/uploads/2024/03/HIPAA-Compliance.png)
 
