@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a6ee52ff47492d2c51aac091e4b312d1
+e472259407d60814e73f2313cbe80c2d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![8 mm to 10 mm turquoise nuggets](https://sojourner.biz/images/cache/stone/TU0006.200.jpg)](https://sojourner.biz/beads/stone-m-z/turquoise/8-mm-to-10-mm-turquoise-nuggets.html "8 mm to 10 mm turquoise nuggets")
+[![EB22 bead](https://sojourner.biz/images/cache/EB22lbl.200.jpg)](https://sojourner.biz/beads/metal/eb22-bead.html "EB22 bead")
 
-#### [8 mm to 10 mm turquoise nuggets](https://sojourner.biz/beads/stone-m-z/turquoise/8-mm-to-10-mm-turquoise-nuggets.html "8 mm to 10 mm turquoise nuggets")
+#### [EB22 bead](https://sojourner.biz/beads/metal/eb22-bead.html "EB22 bead")
 
-$50.00
+$2.60
 
 ### Best Sellers
 
