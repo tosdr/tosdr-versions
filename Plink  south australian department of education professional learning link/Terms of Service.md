@@ -1,3 +1,7 @@
+We use cookies to make our system easier for you to use. For more information, see our [Cookie Policy](https://www.plink.sa.edu.au/pages/cookiepolicy.jsf "Cookie-Richtlinie").
+
+Understood
+
 Plink
 =====
 
