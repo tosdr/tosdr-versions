@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/het-parijse-effect/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/of-de-russen-hun-officiele-bewijs-mogen-laten-zien/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
