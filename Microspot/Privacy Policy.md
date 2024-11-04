@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/6997.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/1450.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -87,6 +87,10 @@ Visitez l'une de nos quelques environ
 [![Samsung TV](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0714-CM1-Promos-KW43-456.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMDIwOTR8aW1hZ2UvanBlZ3xhR0l5TDJobE5pODROakI0TkRnMFgwa3lORjh3TnpFMFgwTk5NVjlRY205dGIzTmZTMWMwTTE4ME5UWXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMemcyTUhnME9EUmZTVEkwWHpBM01UUmZRMDB4WDFCeWIyMXZjMTlMVnpRelh6UTFOaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8Y2ZkZDU4ZmViZjc2NzhiYzU5NGI4NDFlYTdhMTIwNTQ4YzZlMWUyZDdiMTIwMjk5ODQ0ODcxOTI5MGU4NTQ4OQ&w=2360&q=75)
 
 ACTION549.95 SAMSUNG QE55Q60DAUXXN Smart TV 55"](https://www.microspot.ch/fr/product/samsung-qe55q60dauxxn-smart-tv-55-qled-ultra-hd-4k-0014117737)
+
+[![DREAME Z30](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0721-CM3-Haushalt-Spielzeug-Pampers2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzMDI0OXxpbWFnZS9qcGVnfGFETXlMMmd4TlM4NE5qQjRORGcwWDBreU5GOHdOekl4WDBOTk0xOUlZWFZ6YUdGc2RGOVRjR2xsYkhwbGRXZGZVR0Z0Y0dWeWN6SXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMemcyTUhnME9EUmZTVEkwWHpBM01qRmZRMDB6WDBoaGRYTm9ZV3gwWDFOd2FXVnNlbVYxWjE5UVlXMXdaWEp6TWk1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRfDRhN2RkNDY1MGIwZjY5ZDlmNjE0ZGY2MGFiNmJhYTA5MTM5ODkzYjU0OGIyZWZiM2VmMmZkNWY4MmQ2MjEzMzM&w=2360&q=75)
+
+379.95au lieu de 549.95DREAME Z30](https://www.microspot.ch/fr/product/dreame-z30-0014189219)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0710-CM3-PROMO-HAMA-PAMPERS-Herbstputz-KW43-452.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyNTM4NXxpbWFnZS9qcGVnfGFEQTRMMmd6WlM4NE5qQjRORGcwWDBreU5GOHdOekV3WDBOTk0xOVFVazlOVDE5SVFVMUJYMUJCVFZCRlVsTmZTR1Z5WW5OMGNIVjBlbDlMVnpRelh6UTFNaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2T0RZd2VEUTRORjlKTWpSZk1EY3hNRjlEVFROZlVGSlBUVTlmU0VGTlFWOVFRVTFRUlZKVFgwaGxjbUp6ZEhCMWRIcGZTMWMwTTE4ME5USXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8MDZjMjQ1YjVlODQ2MzQ1MjkyMmIxZTc2MTE1ZGNkOTAzYWE2MmY5YTVkYTMxMzQ1MGIzNTAzNzY2OTljNzc0MQ&w=2360&q=75)
 
@@ -152,16 +156,16 @@ DELONGHI
 
 Rivelia EXAM440.55.G](https://www.microspot.ch/fr/cms/blog/conseils/delonghi-rivelia)
 
-![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F915x515-I24-SoMe-Blog-Kenwood.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxNDUxNjZ8aW1hZ2UvanBlZ3xhR1ZpTDJoaVl5ODVNVFY0TlRFMVgwa3lORjlUYjAxbFgwSnNiMmRmUzJWdWQyOXZaQzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2T1RFMWVEVXhOVjlKTWpSZlUyOU5aVjlDYkc5blgwdGxibmR2YjJRdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa3xmYzA3ZWVjMjRjNjViNGJjZmUyODgxZmIyYTE1Mjc1MWU3MjdjMGI2Nzg3NDhlZWU5Y2E4YTFiMTFiODRiNGJh&w=2360&q=75)
+![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F915x515-I24-SoMe-Blog-Sony-Makroobjektive.jpg%3Fcontext%3DbWFzdGVyfGNtc3w3NjAwNnxpbWFnZS9qcGVnfGFEWTVMMmhqTmk4NU1UVjROVEUxWDBreU5GOVRiMDFsWDBKc2IyZGZVMjl1ZVY5TllXdHliMjlpYW1WcmRHbDJaUzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2T1RFMWVEVXhOVjlKTWpSZlUyOU5aVjlDYkc5blgxTnZibmxmVFdGcmNtOXZZbXBsYTNScGRtVXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8NWQ0YWI3Njk4Yjc1MzZlZWZmZDEwZDI0ZGU3ODI3Njg3ZjRhZmE1YjAxZDBhNDdkYTAzOTAxOWQyNDFiNDcyMg&w=2360&q=75)
 
-[Test: KENWOOD Cooking Chef XL](https://www.microspot.ch/fr/cms/blog/conseils/kenwood-cooking-chf-xl)
+[Test des objectifs macro de SONY](https://www.microspot.ch/fr/cms/blog/conseils/sony-makro)
 
 
----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
-Cuisiner, je le fais encore relativement bien, mais je suis plutôt nul en pâtisserie. Je suis donc d'autant plus curieux de découvrir le Cooking Chef XL de Kenwood. Parce qu'il ne s'agit pas seulement de savoir cuisiner, mais aussi de préparer de délicieux desserts grâce également à l'aide de l'application. En tout cas, à l'avenir je consacrerai plus de temps à la pâtisserie.
+Photographier les plus petits détails en grand format – voilà le but de la macrophotographie. Pour ce faire, il faut des objectifs spéciaux qui fournissent la qualité d'image des objectifs « normaux », mais qui minimisent la distance de mise au point. J'ai reçu de SONY deux modèles à tester : une focale fixe et un télézoom. Dans ce blog, je te donne une recommandation pour savoir lequel des deux modèles te convient le mieux.
 
-[Continuer la lecture](https://www.microspot.ch/fr/cms/blog/conseils/kenwood-cooking-chef-xl)
+[Continuer la lecture](https://www.microspot.ch/fr/cms/blog/conseils/sony-makro)
 
 Nos opérateurs
 --------------
@@ -209,17 +213,17 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Commandé aujourd'hui avant 20h
-
-livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
-
 [Garantie Plus
 
 prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
 
-[Frais de port gratuits pour livraison
+[Commandé aujourd'hui avant 20h
 
-à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
+[Retrait gratuit
+
+dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
