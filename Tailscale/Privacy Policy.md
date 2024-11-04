@@ -22,6 +22,7 @@ Explore
 * [Integrations](https://tailscale.com/integrations)
 * [Features](https://tailscale.com/features)
 * [Compare Tailscale](https://tailscale.com/compare)
+* [Partnerships](https://tailscale.com/partnerships)
 
 Solutions
 
