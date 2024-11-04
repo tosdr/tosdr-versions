@@ -315,38 +315,35 @@
 
 This material may not be published, broadcast, rewritten, or redistributed. ©2024 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by [Factset](https://go.factset.com/legal). Powered and implemented by [FactSet Digital Solutions](https://www.factset.com/solutions/digital-solutions). [Legal Statement](https://www.factset.com/privacy). Mutual Fund and ETF data provided by [Refinitiv Lipper](https://lipperalpha.refinitiv.com/).
 
-     [![Polls expose widespread frustration as Americans weigh in on 2024 choices in deadlocked race - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/720/405/051453792edbaf46d0c64a655e21643b.jpg?tl=1&ve=1)
+     [![NBC files equal time notice with FCC over Harris' SNL appearance amid backlash - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/720/405/9d4f83d4a6c8bc8eb5d229b15ae45071.jpg?tl=1&ve=1)
 
-'WRONG TRACK'](https://www.foxnews.com/politics/national-polls-show-trump-harris-tight-race-electorate-unhappy-choices)
+ON THE CLOCK](https://www.foxnews.com/media/nbc-files-equal-time-notice-harris-snl-cameo-following-backlash)
 
-### [Polls expose widespread frustration as Americans weigh in on 2024 choices in deadlocked race](https://www.foxnews.com/politics/national-polls-show-trump-harris-tight-race-electorate-unhappy-choices)
+### [NBC files equal time notice with FCC over Harris' SNL appearance amid backlash](https://www.foxnews.com/media/nbc-files-equal-time-notice-harris-snl-cameo-following-backlash)
 
+* [Trump ad airs during NBC's NASCAR race coverage amid Harris 'SNL' uproar](https://www.foxnews.com/sports/trump-election-ad-airs-during-nbcs-nascar-nfl-coverage-amid-harris-snl-uproar)
+* [FCC commissioner says Harris’ SNL appearance was 'designed to evade' rules](https://www.foxnews.com/politics/fcc-commissioner-rips-nbc-over-harris-last-minute-snl-appearance-plainly-designed-evade-rules)
+
+     [![Major pollster drops final battleground poll as Americans get ready for Election Day - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/0548fe62c8e23d315fed21f9b2f9340e.jpg?tl=1&ve=1)
+
+'TOO CLOSE TO CALL'](https://www.foxnews.com/politics/major-pollster-drops-final-battleground-poll-numbers)
+
+### [Major pollster drops final battleground poll as Americans get ready for Election Day](https://www.foxnews.com/politics/major-pollster-drops-final-battleground-poll-numbers)
+
+* [Polls expose widespread frustration as Americans weigh in on 2024 candidates](https://www.foxnews.com/politics/national-polls-show-trump-harris-tight-race-electorate-unhappy-choices)
 * [Poll shows which way Americans are leaning as the race enters the homestretch](https://www.foxnews.com/politics/trump-harris-neck-neck-battleground-states-under-48-hours-until-election-day-polls-find)
-* [Major pollster declares race ‘too close to call’ in final battleground poll](https://www.foxnews.com/politics/major-pollster-drops-final-battleground-poll-numbers)
 
-[](https://www.foxnews.com/video/6364146016112)
+                             [![Massive security fences return to DC, including at White House and VP Harris’ house - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/fc480e384880c36dd8e432fb582ffd55.jpg?tl=1&ve=1)     ![Treasury building - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/a3d78926e46b33dd33308d5e62bfef90.jpg?tl=1&ve=1)      ![Near White House - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/ead15eca767d673cdbad7f11d64e084f.jpg?tl=1&ve=1)      ![Fence/construction equipment - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/99b61bea9feb032d1e0dbe211262445e.jpg?tl=1&ve=1)      ![Chain link security fence - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/05450d6b02e22999a23ca35f661e7d0c.jpg?tl=1&ve=1)
 
-### [WATCH LIVE: Trump makes final push as Americans gear up to head to the polls](https://www.foxnews.com/video/6364146016112)
+‘DO NOT CROSS'](https://www.foxnews.com/live-news/donald-trump-kamala-harris-election-news-11-3-24)LIVE UPDATES
 
-     [![Former Trump primary rival Nikki Haley makes her 2024 choice crystal clear - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/f515d5bb9d36f680e6c89f4ae616d36f.jpg?tl=1&ve=1)
+### [Massive security fences return to DC, including at White House and VP Harris’ house](https://www.foxnews.com/live-news/donald-trump-kamala-harris-election-news-11-3-24)
 
-'EASY CALL'](https://www.foxnews.com/media/nikki-haley-pens-supportive-op-ed-favor-trump-ahead-election-day-easy-call)
+     [![Critics rip Will Ferrell after he jokingly threatens to hold voters 'responsible' in Harris ad - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/678cb0c795fb0229781bf8c1aa413568.jpg?tl=1&ve=1)
 
-### [Former Trump primary rival Nikki Haley makes her 2024 choice crystal clear](https://www.foxnews.com/media/nikki-haley-pens-supportive-op-ed-favor-trump-ahead-election-day-easy-call)
+'THIS ISN'T FUNNY'](https://www.foxnews.com/politics/actor-ferrell-threatens-voters-new-harris-campaign-ad-shut-f-k-up-gary)
 
-     [![Dem strategist James Carville goes off the rails when explaining 2024 prediction - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/116ff1b74ba981d9221d42f599ffcd72.jpg?tl=1&ve=1)
-
-'UNBELIEVABLE'](https://www.foxnews.com/media/james-carville-predicts-kamala-win-election-because-trump-stone-a-nuts)
-
-### [Dem strategist James Carville goes off the rails when explaining 2024 prediction](https://www.foxnews.com/media/james-carville-predicts-kamala-win-election-because-trump-stone-a-nuts)
-
-     [![Danica Patrick throws shade on VP Harris' high-profile guest speakers with 'Diddy party' jab - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/c9dae7705288ac80d5c0f61fd8dcd41b.jpg?tl=1&ve=1)
-
-REVVED UP](https://www.foxnews.com/live-news/donald-trump-kamala-harris-election-news-11-3-24)LIVE UPDATES
-
-### [Danica Patrick throws shade on VP Harris' high-profile guest speakers with 'Diddy party' jab](https://www.foxnews.com/live-news/donald-trump-kamala-harris-election-news-11-3-24)
-
-* [Trump's team unleashes on Harris for 'living out her warped fantasy' in 'SNL' skit](https://www.foxnews.com/media/kamala-harris-appears-snl-final-episode-before-election)
+### [Critics rip Will Ferrell after he jokingly threatens to hold voters 'responsible' in Harris ad](https://www.foxnews.com/politics/actor-ferrell-threatens-voters-new-harris-campaign-ad-shut-f-k-up-gary)
 
      [![Former MSNBC anchor says he will forever hold grudge against Biden 'no matter who wins' - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/859b15158b7801b08bc4b07249a2bd2b.jpg?tl=1&ve=1)
 
@@ -354,29 +351,37 @@ REVVED UP](https://www.foxnews.com/live-news/donald-trump-kamala-harris-election
 
 ### [Former MSNBC anchor says he will forever hold grudge against Biden 'no matter who wins'](https://www.foxnews.com/media/mehdi-hasan-says-he-never-forgive-biden-not-weaponizing-doj-put-trump-trial-before-election)
 
+     [![Former Trump primary rival Nikki Haley makes her 2024 choice crystal clear - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/f515d5bb9d36f680e6c89f4ae616d36f.jpg?tl=1&ve=1)
+
+'EASY CALL'](https://www.foxnews.com/media/nikki-haley-pens-supportive-op-ed-favor-trump-ahead-election-day-easy-call)
+
+### [Former Trump primary rival Nikki Haley makes her 2024 choice crystal clear](https://www.foxnews.com/media/nikki-haley-pens-supportive-op-ed-favor-trump-ahead-election-day-easy-call)
+
      [![Super Bowl champ fires off anti-Trump post, tells NFL star supporter to leave US - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/343/193/asante-samuel2.jpg?tl=1&ve=1)
 
 OUT OF BOUNDS](https://www.foxnews.com/sports/super-bowl-champ-encourages-leveon-bell-leave-us-after-harris-post-fires-off-anti-trump-criticism)SPORTS
 
 ### [Super Bowl champ fires off anti-Trump post, tells NFL star supporter to leave US](https://www.foxnews.com/sports/super-bowl-champ-encourages-leveon-bell-leave-us-after-harris-post-fires-off-anti-trump-criticism)
 
-     [![Woman with pro-Harris sign ‘creeped’ out after trickster says she will house migrants - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/7df95acd9b029bab1013af8366463f31.jpg?tl=1&ve=1)
+     [![Dem strategist James Carville goes off the rails when explaining 2024 prediction - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/116ff1b74ba981d9221d42f599ffcd72.jpg?tl=1&ve=1)
 
-'MAKES ME ANGRY'](https://www.foxnews.com/politics/massachusetts-residents-claim-theyre-being-trolled-fake-harris-postcards-saying-migrant-family-moving)
+'UNBELIEVABLE'](https://www.foxnews.com/media/james-carville-predicts-kamala-win-election-because-trump-stone-a-nuts)
 
-### [Woman with pro-Harris sign ‘creeped’ out after trickster says she will house migrants](https://www.foxnews.com/politics/massachusetts-residents-claim-theyre-being-trolled-fake-harris-postcards-saying-migrant-family-moving)
+### [Dem strategist James Carville goes off the rails when explaining 2024 prediction](https://www.foxnews.com/media/james-carville-predicts-kamala-win-election-because-trump-stone-a-nuts)
 
-      [![Former Republican governor reveals 'biggest surprise upset' to brace for - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/ed12246739affd6d8349c440d4587b43.jpg?tl=1&ve=1)Video
+      [![VP won't explain how she voted on key issue because it's 'the Sunday before the election' - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/8e391a915fea3ddd9b9772173ad5f6c1.jpg?tl=1&ve=1)Video
 
-PLOT TWIST](https://www.foxnews.com/video/6364147888112)WATCH
+‘HONESTLY’](https://www.foxnews.com/video/6364162293112)WATCH
 
-### [Former Republican governor reveals 'biggest surprise upset' to brace for](https://www.foxnews.com/video/6364147888112)
+### [VP won't explain how she voted on key issue because it's 'the Sunday before the election'](https://www.foxnews.com/video/6364162293112)
 
 [Video
 
 'SCARY'](https://www.foxnews.com/video/6364157618112)watch
 
 ### [Former Obama campaign manager sounds alarm on early voting numbers](https://www.foxnews.com/video/6364157618112)
+
+* ['The early vote numbers are a little scary'](https://www.foxnews.com/media/early-voting-numbers-scary-harris-democrats-panicking-former-obama-campaign-manager-warns)
 
 * [Fox News Channel  
     Pay TV Login Required](https://www.foxnews.com/video/5614615980001)
@@ -403,7 +408,7 @@ OUTKICK
 
 ### Dallas Cowboys are a mess and quarterback Dak Prescott knows it](https://www.outkick.com/sports/checking-cowboys-prescott-injured-doesnt-think-team-good-mccarthy-frustrated)
 
-    [![Watch special coverage of election night on Tuesday starting at 6 PM ET on FOX News Channel - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/208/117/c4d1753b9b7e5698b66d43e87553aece.jpg?tl=1&ve=1)
+    [![Watch special coverage of election night on Tuesday starting at 6 PM ET on FOX News Channel - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/208/117/db3bcd3eaea2136ba82317bfce405a5d.jpg?tl=1&ve=1)
 
 TUNE IN
 
@@ -415,11 +420,9 @@ Commerce
 
 ### Unwrap the new Stanley and Comfort & Joy water bottle collection](https://www.foxnews.com/lifestyle/stanley-water-bottles-comfort-joy-collection)
 
-      [![Today’s top stories on ‘Jesse Watters Primetime’ - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/5614615980001)
+[](https://www.foxnews.com/video/5614615980001)
 
-[VIDEO](https://www.foxnews.com/video)
-
-### [WATCH LIVE: Today’s top stories on ‘Jesse Watters Primetime’](https://www.foxnews.com/video/5614615980001)
+### [WATCH LIVE: Today’s top stories on ‘Hannity’](https://www.foxnews.com/video/5614615980001)
 
 [](https://www.foxnews.com/elections)
 
@@ -433,17 +436,17 @@ FOX NEWS ELECTION HUB
 
 ### [How to watch Election Day coverage on FOX News Digital](https://www.foxnews.com/politics/how-watch-election-day-coverage-fox-news-digital)
 
-     [![Biden judge rules state can check ballots of potential noncitizens in blow to ACLU - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/biden-judge-rules-iowa-can-check-ballots-potential-noncitizens-blow-aclu)
-
-[POLITICS](https://www.foxnews.com/category/politics)
-
-### [Biden judge rules state can check ballots of potential noncitizens in blow to ACLU](https://www.foxnews.com/politics/biden-judge-rules-iowa-can-check-ballots-potential-noncitizens-blow-aclu)
-
 [Video](https://www.foxnews.com/video/6364149353112) watch
 
 [America's Newsroom](https://www.foxnews.com/video)
 
 ### [Bill Hemmer highlights the shifting dynamics of Democrats' once-solid blue wall](https://www.foxnews.com/video/6364149353112)
+
+      [![Reluctant Trump voter reveals why she ditched supporting the Democratic ticket - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6364164473112) WATCH
+
+[the story with martha maccallum](https://www.foxnews.com/video)
+
+### [Reluctant Trump voter reveals why she ditched supporting the Democratic ticket](https://www.foxnews.com/video/6364164473112)
 
      [![Political cartoons of the day - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/politics-cartoons-slideshow)
 
@@ -451,19 +454,17 @@ FOX NEWS ELECTION HUB
 
 ### [Political cartoons of the day](https://www.foxnews.com/politics/politics-cartoons-slideshow)
 
-     [![Man allegedly beats up stranger for wearing pro-Trump hat in supermarket - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/new-york-man-allegedly-beats-up-stranger-wearing-pro-trump-hat-supermarket-police)
+     [![Iran threatens to modify its nuclear doctrine as it plans 'tooth-breaking' attack on Israel - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/iran-threatens-use-more-powerful-warheads-against-israel-next-attack-report)
 
-[NEW YORK](https://www.foxnews.com/category/us/us-regions/northeast/new-york)
+[IRAN](https://www.foxnews.com/category/world/conflicts/iran)
 
-### [Man allegedly beats up stranger for wearing pro-Trump hat in supermarket](https://www.foxnews.com/us/new-york-man-allegedly-beats-up-stranger-wearing-pro-trump-hat-supermarket-police)
+### [Iran threatens to modify its nuclear doctrine as it plans 'tooth-breaking' attack on Israel](https://www.foxnews.com/world/iran-threatens-use-more-powerful-warheads-against-israel-next-attack-report)
 
-      [![Ivanka Trump shares the fitness routine that ‘transformed’ her body - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/health/ivanka-trump-shares-fitness-routine-transformed-body-safe-steady)HEALTH
+     [![Bill Clinton resorts to extreme rhetoric to make the case against Trump in rare interview - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/bill-clinton-says-would-travesty-donald-trump-becomes-president-again-rare-interview)
 
-'SAFE AND STEADY'
+[MEDIA](https://www.foxnews.com/category/media)
 
-[HEALTH](https://www.foxnews.com/category/health)
-
-### [Ivanka Trump shares the fitness routine that ‘transformed’ her body](https://www.foxnews.com/health/ivanka-trump-shares-fitness-routine-transformed-body-safe-steady)
+### [Bill Clinton resorts to extreme rhetoric to make the case against Trump in rare interview](https://www.foxnews.com/media/bill-clinton-says-would-travesty-donald-trump-becomes-president-again-rare-interview)
 
 [](https://www.foxnews.com/games)
 
@@ -477,11 +478,25 @@ FOX NEWS ELECTION HUB
 
 ### [College football offensive line coach's meltdown toward player draws backlash](https://www.foxnews.com/sports/college-football-offensive-line-coachs-meltdown-toward-player-draws-backlash-absolute-disgrace)
 
-     [![Iran reportedly threatens more powerful warheads against Israel in next attack - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/iran-threatens-use-more-powerful-warheads-against-israel-next-attack-report)
+      [![Ivanka Trump shares the fitness routine that ‘transformed’ her body - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/health/ivanka-trump-shares-fitness-routine-transformed-body-safe-steady)HEALTH
 
-[IRAN](https://www.foxnews.com/category/world/conflicts/iran)
+'SAFE AND STEADY'
 
-### [Iran reportedly threatens more powerful warheads against Israel in next attack](https://www.foxnews.com/world/iran-threatens-use-more-powerful-warheads-against-israel-next-attack-report)
+[HEALTH](https://www.foxnews.com/category/health)
+
+### [Ivanka Trump shares the fitness routine that ‘transformed’ her body](https://www.foxnews.com/health/ivanka-trump-shares-fitness-routine-transformed-body-safe-steady)
+
+     [![Man allegedly beats up stranger for wearing pro-Trump hat in supermarket - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/new-york-man-allegedly-beats-up-stranger-wearing-pro-trump-hat-supermarket-police)
+
+[NEW YORK](https://www.foxnews.com/category/us/us-regions/northeast/new-york)
+
+### [Man allegedly beats up stranger for wearing pro-Trump hat in supermarket](https://www.foxnews.com/us/new-york-man-allegedly-beats-up-stranger-wearing-pro-trump-hat-supermarket-police)
+
+     [![GOP senator says Harris could lose out on key swing state due to critical campaign mistake - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/cruz-harris-made-mistake-tapping-walz-instead-pas-shapiro-vp)
+
+[TED CRUZ](https://www.foxnews.com/category/person/ted-cruz)
+
+### [GOP senator says Harris could lose out on key swing state due to critical campaign mistake](https://www.foxnews.com/politics/cruz-harris-made-mistake-tapping-walz-instead-pas-shapiro-vp)
 
       [![NFL legend Brett Favre offers bleak analysis of 2024 presidential election - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/nfl-legend-brett-favre-offers-bleak-analysis-2024-presidential-election)SPORTS
 
@@ -491,45 +506,29 @@ THROW OUT THE PLAYBOOK
 
 ### [NFL legend Brett Favre offers bleak analysis of 2024 presidential election](https://www.foxnews.com/sports/nfl-legend-brett-favre-offers-bleak-analysis-2024-presidential-election)
 
+     [![Democrat-heavy counties accused of accepting late ballots now facing legal action - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/georgia-republicans-trump-campaign-file-lawsuit-halt-counties-illegally-accepting-early-voting-ballots)
+
+[POLITICS](https://www.foxbusiness.com/category/)
+
+### [Democrat-heavy counties accused of accepting late ballots now facing legal action](https://www.foxnews.com/politics/georgia-republicans-trump-campaign-file-lawsuit-halt-counties-illegally-accepting-early-voting-ballots)
+
      [![US bombers flex muscles in the Middle East due to threats of an imminent attack - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/us-bombers-arrive-middle-east-concerns-iranian-attack-israel-mount)
 
 [MIDDLE EAST](https://www.foxnews.com/category/world/world-regions/middle-east)
 
 ### [US bombers flex muscles in the Middle East due to threats of an imminent attack](https://www.foxnews.com/world/us-bombers-arrive-middle-east-concerns-iranian-attack-israel-mount)
 
-     [![GOP senator says VP Harris made a big mistake early in her campaign - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/cruz-harris-made-mistake-tapping-walz-instead-pas-shapiro-vp)
+     [![Voters claim they’re being targeted with mysterious postcards for supporting Harris - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/massachusetts-residents-claim-theyre-being-trolled-fake-harris-postcards-saying-migrant-family-moving)
 
-[TED CRUZ](https://www.foxnews.com/category/person/ted-cruz)
+[KAMALA HARRIS](https://www.foxnews.com/category/person/kamala-harris)
 
-### [GOP senator says VP Harris made a big mistake early in her campaign](https://www.foxnews.com/politics/cruz-harris-made-mistake-tapping-walz-instead-pas-shapiro-vp)
+### [Voters claim they’re being targeted with mysterious postcards for supporting Harris](https://www.foxnews.com/politics/massachusetts-residents-claim-theyre-being-trolled-fake-harris-postcards-saying-migrant-family-moving)
 
-     [![Trump Treasury pick vows to end '$1 trillion' in subsidies for EVs, solar - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/media/trumps-potential-treasury-pick-gives-sneak-peek-into-musk-collaboration)
+[Video](https://www.foxnews.com/video/6364082649112) WATCH
 
-[MEDIA](https://www.foxbusiness.com/tag/media)
+[VIDEO](https://www.foxnews.com/video)
 
-### [Trump Treasury pick vows to end '$1 trillion' in subsidies for EVs, solar](https://www.foxbusiness.com/media/trumps-potential-treasury-pick-gives-sneak-peek-into-musk-collaboration)
-
-      [![Reporter called out for serving up a softball question to Harris right out of the gate - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6364153097112) WATCH
-
-[america reports](https://www.foxnews.com/video)
-
-### [Reporter called out for serving up a softball question to Harris right out of the gate](https://www.foxnews.com/video/6364153097112)
-
-      [![Volleyball player sues school, says team wasn’t warned about trans athlete on women's roster - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/san-jose-states-brooke-slusser-reacts-coachs-suspension-they-took-away-only-safe-space-we-had)SPORTS
-
-BLOWING THE WHISTLE
-
-[NCAA](https://www.foxnews.com/category/sports/ncaa)
-
-### [Volleyball player sues school, says team wasn’t warned about trans athlete on women's roster](https://www.foxnews.com/sports/san-jose-states-brooke-slusser-reacts-coachs-suspension-they-took-away-only-safe-space-we-had)
-
-      [![Why the end of daylight saving time can negatively affect your health - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/health/daylight-saving-health-impacts)HEALTH
-
-BEAT THE CLOCK
-
-[HEALTH](https://www.foxnews.com/category/health)
-
-### [Why the end of daylight saving time can negatively affect your health](https://www.foxnews.com/health/daylight-saving-health-impacts)
+### [Disney actor attempts to sway Trump voters while undercover but the comedy backfires](https://www.foxnews.com/video/6364082649112)
 
       [![Woman credits drink of choice for 105 years of life: 'A perfect match' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/woman-credits-drink-choice-105-years-life-a-perfect-match)FOOD
 
@@ -539,25 +538,17 @@ CHEERS
 
 ### [Woman credits drink of choice for 105 years of life: 'A perfect match'](https://www.foxnews.com/food-drink/woman-credits-drink-choice-105-years-life-a-perfect-match)
 
-     [![Test yourself on voting booths, fall foods, holidays and more - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-voting-booths-fall-foods-holidays)
+      [![Former Republican governor reveals 'biggest surprise upset' to brace for - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6364147888112) WATCH
 
-[LIFESTYLE](https://www.foxnews.com/category/lifestyle)
+[Fox & Friends](https://www.foxnews.com/video)
 
-### [Test yourself on voting booths, fall foods, holidays and more](https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-voting-booths-fall-foods-holidays)
+### [Former Republican governor reveals 'biggest surprise upset' to brace for](https://www.foxnews.com/video/6364147888112)
 
-      [![Rams star ejected after throwing punch at Seahawks defender - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/rams-star-puka-nacua-ejected-after-throwing-punch-seahawks-defender)SPORTS
+      [![Harris does informal gaggles with media but has yet to hold official press conference - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/106-days-kamala-harris-has-yet-do-formal-press-conference-since-emerging-democratic-nominee)106 DAYS
 
-HIT THE SHOWERS
+[MEDIA](https://www.foxnews.com/category/media)
 
-[LOS ANGELES RAMS](https://www.foxnews.com/category/sports/nfl/los-angeles-rams)
-
-### [Rams star ejected after throwing punch at Seahawks defender](https://www.foxnews.com/sports/rams-star-puka-nacua-ejected-after-throwing-punch-seahawks-defender)
-
-     [![Community that's banned alcohol sales for 120 years will put issue to voters - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/politics/new-jersey-suburb-poised-eliminate-alcohol-sale-prohibition-law-120-years)
-
-[Politics](https://www.foxbusiness.com/category/politics)
-
-### [Community that's banned alcohol sales for 120 years will put issue to voters](https://www.foxbusiness.com/politics/new-jersey-suburb-poised-eliminate-alcohol-sale-prohibition-law-120-years)
+### [Harris does informal gaggles with media but has yet to hold official press conference](https://www.foxnews.com/media/106-days-kamala-harris-has-yet-do-formal-press-conference-since-emerging-democratic-nominee)
 
       [![Eagles' Saquon Barkley stuns NFL fans with backward hurdle over Jaguars defender - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/eagles-saquon-barkley-stuns-nfl-fans-backward-hurdle-over-jaguars-defender)SPORTS
 
@@ -567,63 +558,63 @@ HIT THE SHOWERS
 
 ### [Eagles' Saquon Barkley stuns NFL fans with backward hurdle over Jaguars defender](https://www.foxnews.com/sports/eagles-saquon-barkley-stuns-nfl-fans-backward-hurdle-over-jaguars-defender)
 
+      [![Volleyball player sues school, says team wasn’t warned about trans athlete on women's roster - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/san-jose-states-brooke-slusser-reacts-coachs-suspension-they-took-away-only-safe-space-we-had)SPORTS
+
+BLOWING THE WHISTLE
+
+[NCAA](https://www.foxnews.com/category/sports/ncaa)
+
+### [Volleyball player sues school, says team wasn’t warned about trans athlete on women's roster](https://www.foxnews.com/sports/san-jose-states-brooke-slusser-reacts-coachs-suspension-they-took-away-only-safe-space-we-had)
+
+     [![Judge issues blow to ACLU days before election over disputed noncitizen ballot case - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/biden-judge-rules-iowa-can-check-ballots-potential-noncitizens-blow-aclu)
+
+[POLITICS](https://www.foxnews.com/category/politics)
+
+### [Judge issues blow to ACLU days before election over disputed noncitizen ballot case](https://www.foxnews.com/politics/biden-judge-rules-iowa-can-check-ballots-potential-noncitizens-blow-aclu)
+
+     [![Man trapped in creek, pinned underneath tractor for 30 minutes after bridge collapses - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/illinois-man-rescued-bridge-collapse-causes-tractor-trap-him-creek)
+
+[US](https://www.foxnews.com/category/us)
+
+### [Man trapped in creek, pinned underneath tractor for 30 minutes after bridge collapses](https://www.foxnews.com/us/illinois-man-rescued-bridge-collapse-causes-tractor-trap-him-creek)
+
+     [![Trump Treasury pick vows to end '$1 trillion' in subsidies for EVs, solar - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/media/trumps-potential-treasury-pick-gives-sneak-peek-into-musk-collaboration)
+
+[MEDIA](https://www.foxbusiness.com/tag/media)
+
+### [Trump Treasury pick vows to end '$1 trillion' in subsidies for EVs, solar](https://www.foxbusiness.com/media/trumps-potential-treasury-pick-gives-sneak-peek-into-musk-collaboration)
+
+     [![Man convicted for silent prayer outside abortion clinic warns of alarming legal trend in the UK - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/uk-man-warns-about-state-prosecuting-thought-crimes-after-charged-silent-prayer-horrific-implications)
+
+[MEDIA](https://www.foxnews.com/category/media)
+
+### [Man convicted for silent prayer outside abortion clinic warns of alarming legal trend in the UK](https://www.foxnews.com/media/uk-man-warns-about-state-prosecuting-thought-crimes-after-charged-silent-prayer-horrific-implications)
+
      [![Harris asked how she's 'feeling' 48 hours from election, tells reporters Trump 'lost' in 2020 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/harris-asked-how-shes-feeling-48-hours-election-tells-reporters-trump-lost-2020)
 
 [KAMALA HARRIS](https://www.foxnews.com/category/person/kamala-harris)
 
 ### [Harris asked how she's 'feeling' 48 hours from election, tells reporters Trump 'lost' in 2020](https://www.foxnews.com/politics/harris-asked-how-shes-feeling-48-hours-election-tells-reporters-trump-lost-2020)
 
-      [![Blaney wins as NASCAR final four drivers set after controversial finish - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/nascar-cup-series-championship-four-set-after-martinsville-race-ends-controversy)SPORTS
+     [![Community that's banned alcohol sales for 120 years will put issue to voters - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/politics/new-jersey-suburb-poised-eliminate-alcohol-sale-prohibition-law-120-years)
 
-RACE TO THE FINISH
+[Politics](https://www.foxbusiness.com/category/politics)
 
-[NASCAR](https://www.foxnews.com/category/auto/nascar)
+### [Community that's banned alcohol sales for 120 years will put issue to voters](https://www.foxbusiness.com/politics/new-jersey-suburb-poised-eliminate-alcohol-sale-prohibition-law-120-years)
 
-### [Blaney wins as NASCAR final four drivers set after controversial finish](https://www.foxnews.com/sports/nascar-cup-series-championship-four-set-after-martinsville-race-ends-controversy)
+      [![Why the end of daylight saving time can negatively affect your health - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/health/daylight-saving-health-impacts)HEALTH
 
-     [![Bill Clinton resorts to extreme rhetoric to make the case against Trump in rare interview - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/bill-clinton-says-would-travesty-donald-trump-becomes-president-again-rare-interview)
+BEAT THE CLOCK
+
+[HEALTH](https://www.foxnews.com/category/health)
+
+### [Why the end of daylight saving time can negatively affect your health](https://www.foxnews.com/health/daylight-saving-health-impacts)
+
+      [![Odds stacked against Harris-Walz in another competition — and it's not the election - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/trump-vance-ticket-has-done-combined-interviews-compared-harris-walz)102-80
 
 [MEDIA](https://www.foxnews.com/category/media)
 
-### [Bill Clinton resorts to extreme rhetoric to make the case against Trump in rare interview](https://www.foxnews.com/media/bill-clinton-says-would-travesty-donald-trump-becomes-president-again-rare-interview)
-
-      [![Robert De Niro stumps for Harris at Eagles tailgate as presidential race nears end - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/robert-de-niro-stumps-harris-eagles-tailgate-presidential-race-comes-down-wire)SPORTS
-
-FEELING THE HEAT
-
-[PHILADELPHIA EAGLES](https://www.foxnews.com/category/sports/nfl/philadelphia-eagles)
-
-### [Robert De Niro stumps for Harris at Eagles tailgate as presidential race nears end](https://www.foxnews.com/sports/robert-de-niro-stumps-harris-eagles-tailgate-presidential-race-comes-down-wire)
-
-[Video](https://www.foxnews.com/video/6364132778112) WATCH
-
-[big weekend show](https://www.foxnews.com/video)
-
-### [Sneering President Biden talks 'smack' about Republicans with profane jab](https://www.foxnews.com/video/6364132778112)
-
-      [![Lions star puts his dislike for the Packers on full display with outfit choice before matchup - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/lions-star-amon-ra-st-browns-pregame-outfit-features-clear-message-packers-ahead-rivalry-game)SPORTS
-
-SAYS IT ALL
-
-[DETROIT LIONS](https://www.foxnews.com/category/sports/nfl/detroit-lions)
-
-### [Lions star puts his dislike for the Packers on full display with outfit choice before matchup](https://www.foxnews.com/sports/lions-star-amon-ra-st-browns-pregame-outfit-features-clear-message-packers-ahead-rivalry-game)
-
-      [![Why Biden's 'rage politics' could be the left’s biggest weakness yet - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/opinion/jonathan-turley-angry-rhetoric-all-rage-heres-hope)OPINION
-
-ALL THE RAGE
-
-[OPINION](https://www.foxnews.com/category/opinion)
-
-### [JONATHAN TURLEY: Why Biden's 'rage politics' could be the left’s biggest weakness yet](https://www.foxnews.com/opinion/jonathan-turley-angry-rhetoric-all-rage-heres-hope)
-
-      [![Lions star ejected, flips middle finger to Packers fans after illegal hit on WR - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/lions-brian-branch-ejected-flips-middle-finger-packers-fans-after-throwing-illegal-hit)SPORTS
-
-BAD HIT
-
-[DETROIT LIONS](https://www.foxnews.com/category/sports/nfl/detroit-lions)
-
-### [Lions star ejected, flips middle finger to Packers fans after illegal hit on WR](https://www.foxnews.com/sports/lions-brian-branch-ejected-flips-middle-finger-packers-fans-after-throwing-illegal-hit)
+### [Odds stacked against Harris-Walz in another competition — and it's not the election](https://www.foxnews.com/media/trump-vance-ticket-has-done-combined-interviews-compared-harris-walz)
 
      [![FOX News viewership crushes MSNBC, CNN in news-packed October - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/fox-news-viewership-crushes-msnbc-cnn-october)
 
@@ -637,9 +628,9 @@ BAD HIT
 
 ### [FOX News Media announces expansive 2024 election coverage](https://www.foxnews.com/media/fox-news-media-announces-expansive-2024-election-coverage)
 
-     [![‘Squad’ member refuses to endorse Kamala Harris as Gaza war takes toll on Dem voter base - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/category/topic/anti-semitism)
+     [![Chicago authorities under microscope after shooting of Orthodox Jewish man - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/category/topic/anti-semitism)
 
-### [ANTISEMITISM EXPOSED: ‘Squad’ member refuses to endorse Kamala Harris as Gaza war takes toll on Dem voter base](https://www.foxnews.com/category/topic/anti-semitism)
+### [ANTISEMITISM EXPOSED: Chicago authorities under microscope after shooting of Orthodox Jewish man](https://www.foxnews.com/category/topic/anti-semitism)
 
      [![FOX Nation Patriot Awards moves to New York with tickets now on sale - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/fox-nation-patriot-awards-moves-new-york-tickets-now-sale)
 
@@ -669,9 +660,9 @@ TIP YOUR SAFETY CAP
 
 ### [OutKick's Clay Travis explains why he is voting for Donald Trump](https://www.outkick.com/analysis/why-im-voting-donald-trump-2024-clay-travis)
 
-     [![Parents trust AI for medical advice more than doctors, researchers find - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/category/tech/artificial-intelligence)
+     [![Congressional leaders working to put guardrails on rapidly evolving AI - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/category/tech/artificial-intelligence)
 
-### [Parents trust AI for medical advice more than doctors, researchers find](https://www.foxnews.com/category/tech/artificial-intelligence)
+### [Congressional leaders working to put guardrails on rapidly evolving AI](https://www.foxnews.com/category/tech/artificial-intelligence)
 
      [![Delicious recipes, surprising power foods & juicy secrets to eating better - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink)
 
@@ -741,21 +732,21 @@ Airline passenger sparks DEBATE](https://www.foxnews.com/travel/airline-passenge
 [OutKick](https://www.outkick.com/)
 -----------------------------------
 
-     [![NBA to Reinvestigate Lakers' Jaxson Hayes After New Footage of Arrest Involving Girlfriend Surfaces - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/nba-reinvestigate-lakers-jaxson-hayes-amid-ongoing-concerns)
+     [![The Submarines That Terrify America's Enemies: WATCH - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/culture/rob-peters-david-hookstead-interview-different-kinds-of-submarines)
 
-### [NBA to Reinvestigate Lakers' Jaxson Hayes After New Footage of Arrest Involving Girlfriend Surfaces](https://www.outkick.com/sports/nba-reinvestigate-lakers-jaxson-hayes-amid-ongoing-concerns)
+### [The Submarines That Terrify America's Enemies: WATCH](https://www.outkick.com/culture/rob-peters-david-hookstead-interview-different-kinds-of-submarines)
 
-### [Refs Blow Fumble Call On Saquon Barkley, No One Knows Why It Wasn't Overturned](https://www.outkick.com/sports/refs-blow-fumble-call-saquon-barkley-no-one-knows-why-wasnt-overturned)
+### [Cris Collinsworth Makes Questionable Claim About Vikings’ Sam Darnold](https://www.outkick.com/sports/cris-collinsworth-makes-questionable-declarations-about-sam-darnold)
 
-   [![PHILADELPHIA, PENNSYLVANIA - NOVEMBER 03: Saquon Barkley #26 of the Philadelphia Eagles looks on prior to a game against the Jacksonville Jaguars at Lincoln Financial Field on November 03, 2024 in Philadelphia, Pennsylvania. (Photo by Elsa/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/refs-blow-fumble-call-saquon-barkley-no-one-knows-why-wasnt-overturned)
+   [![INGLEWOOD, CALIFORNIA - OCTOBER 24: Sam Darnold #14 of the Minnesota Vikings looks on from the sideline before a game against Los Angeles Rams at SoFi Stadium on October 24, 2024 in Inglewood, California. (Photo by Ric Tapia/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/cris-collinsworth-makes-questionable-declarations-about-sam-darnold)
 
-### [Derek Carr Responds After Former Teammate Michael Thomas Ripped Him On X](https://www.outkick.com/sports/derek-carr-responds-michael-thomas-rant-social-media)
+### [NFL Fans Agree: Matt Eberflus' Speech To Motivate The Chicago Bears Totally Stunk](https://www.outkick.com/sports/nfl-fans-agree-matt-eberflus-speech-motivate-chicago-bears-totally-stunk)
 
-   [![Derek Carr Responds After Former Teammate Michael Thomas Ripped Him On X - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/derek-carr-responds-michael-thomas-rant-social-media)
+   [![LANDOVER, MARYLAND - OCTOBER 27: Head coach Matt Eberflus of the Chicago Bears stands on the sideline during an NFL football game against the Washington Commanders at Northwest Stadium on October 27, 2024 in Landover, Maryland. The Commanders defeated the Bears 18-15. (Kara Durrette/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/nfl-fans-agree-matt-eberflus-speech-motivate-chicago-bears-totally-stunk)
 
-### [Chaos In Detroit Gets Brian Banch Ejected And Tom Brady Possibly In Trouble With NFL](https://www.outkick.com/sports/chaos-detroit-gets-brian-banch-ejected-tom-brady-possibly-trouble-nfl)
+### [Milwaukee Bucks Player Has Home Broken Into While Playing Saturday Night](https://www.outkick.com/sports/milwaukee-bucks-player-has-home-broken-while-playing-saturday-night)
 
-   [![GREEN BAY, WISCONSIN - NOVEMBER 03: Brian Branch #32 of the Detroit Lions is escorted off the field after being ejected during the second quarter of a game against the Green Bay Packers at Lambeau Field on November 03, 2024 in Green Bay, Wisconsin. (Photo by Patrick McDermott/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/chaos-detroit-gets-brian-banch-ejected-tom-brady-possibly-trouble-nfl)
+   [![PHILADELPHIA, PA - OCTOBER 23: Bobby Portis #9 of the Milwaukee Bucks looks on during the game against the Philadelphia 76ers on October 23, 2024 at the Wells Fargo Center in Philadelphia, Pennsylvania NOTE TO USER: User expressly acknowledges and agrees that, by downloading and/or using this Photograph, user is consenting to the terms and conditions of the Getty Images License Agreement. Mandatory Copyright Notice: Copyright 2024 NBAE (Photo by Jesse D. Garrabrant/NBAE via Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/milwaukee-bucks-player-has-home-broken-while-playing-saturday-night)
 
 [Digital Originals](https://www.foxnews.com/category/us/digital-originals)
 --------------------------------------------------------------------------
@@ -817,9 +808,13 @@ Airline passenger sparks DEBATE](https://www.foxnews.com/travel/airline-passenge
 [Elections](https://www.foxnews.com/elections)
 ----------------------------------------------
 
-     [![Biden judge rules Iowa can check ballots of potential noncitizens in blow to ACLU - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/biden-judge-rules-iowa-can-check-ballots-potential-noncitizens-blow-aclu)
+     [![Actor Will Ferrell 'threatens' voters in new Harris campaign ad: 'Shut the f--k up, Gary' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/actor-ferrell-threatens-voters-new-harris-campaign-ad-shut-f-k-up-gary)
+
+### [Actor Will Ferrell 'threatens' voters in new Harris campaign ad: 'Shut the f--k up, Gary'](https://www.foxnews.com/politics/actor-ferrell-threatens-voters-new-harris-campaign-ad-shut-f-k-up-gary)
 
 ### [Biden judge rules Iowa can check ballots of potential noncitizens in blow to ACLU](https://www.foxnews.com/politics/biden-judge-rules-iowa-can-check-ballots-potential-noncitizens-blow-aclu)
+
+   [![A poll worker holds an American flag near a voting booth at a polling location inside Seafood City Market during the last day of early voting in Las Vegas, Nevada, US, on Friday, Nov. 1, 2024. Donald Trump and his allies are telling supporters that they&apos;re on pace for a runaway victory barring fraud, setting the stage for outrage and legal challenges if the election doesn&apos;t break in favor of Republicans. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/biden-judge-rules-iowa-can-check-ballots-potential-noncitizens-blow-aclu)
 
 ### [Massachusetts residents claim they’re being trolled with fake Harris postcards saying migrant family moving in](https://www.foxnews.com/politics/massachusetts-residents-claim-theyre-being-trolled-fake-harris-postcards-saying-migrant-family-moving)
 
@@ -828,10 +823,6 @@ Airline passenger sparks DEBATE](https://www.foxnews.com/travel/airline-passenge
 ### [Nikki Haley pens supportive op-ed in favor of Trump ahead of Election Day: 'Easy call'](https://www.foxnews.com/media/nikki-haley-pens-supportive-op-ed-favor-trump-ahead-election-day-easy-call)
 
    [![Nikki Haley wrote a supportive op-ed about President Trump on Sunday. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/nikki-haley-pens-supportive-op-ed-favor-trump-ahead-election-day-easy-call)
-
-### [Georgia Republicans, Trump campaign file lawsuit to halt counties 'illegally accepting' early voting ballots](https://www.foxnews.com/politics/georgia-republicans-trump-campaign-file-lawsuit-halt-counties-illegally-accepting-early-voting-ballots)
-
-   [![Georgia Republicans have filed a federal suit about alleged early voting infractions. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/georgia-republicans-trump-campaign-file-lawsuit-halt-counties-illegally-accepting-early-voting-ballots)
 
 [Personal Freedoms](https://www.foxnews.com/category/us/personal-freedoms)
 --------------------------------------------------------------------------
@@ -988,28 +979,32 @@ Airline passenger sparks DEBATE](https://www.foxnews.com/travel/airline-passenge
 [Sports](https://www.foxnews.com/sports)
 ----------------------------------------
 
-     [![Lions' Brian Branch ejected, flips middle finger to Packers fans after throwing illegal hit - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/lions-brian-branch-ejected-flips-middle-finger-packers-fans-after-throwing-illegal-hit)
+     [![Trump election ad airs during NBC's NASCAR, NFL coverage amid Harris 'SNL' uproar - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/trump-election-ad-airs-during-nbcs-nascar-nfl-coverage-amid-harris-snl-uproar)
+
+### [Trump election ad airs during NBC's NASCAR, NFL coverage amid Harris 'SNL' uproar](https://www.foxnews.com/sports/trump-election-ad-airs-during-nbcs-nascar-nfl-coverage-amid-harris-snl-uproar)
+
+### [Vikings defense swarms Joe Flacco, Colts on way to dominant win at home](https://www.foxnews.com/sports/vikings-defense-swarms-joe-flacco-colts-way-dominant-win-home)
+
+   [![Minnesota Vikings quarterback Sam Darnold (14) throws a pass against the Indianapolis Colts during the first quarter at U.S. Bank Stadium. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/vikings-defense-swarms-joe-flacco-colts-way-dominant-win-home)
+
+### [Lions fight through rain, raucous Lambeau crowd to beat Packers](https://www.foxnews.com/sports/lions-fight-through-rain-raucous-lambeau-crowd-beat-packers)
+
+   [![Detroit Lions quarterback Jared Goff (16) celebrates as he runs off the field following the game against the Green Bay Packers at Lambeau Field. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/lions-fight-through-rain-raucous-lambeau-crowd-beat-packers)
 
 ### [Lions' Brian Branch ejected, flips middle finger to Packers fans after throwing illegal hit](https://www.foxnews.com/sports/lions-brian-branch-ejected-flips-middle-finger-packers-fans-after-throwing-illegal-hit)
 
-### [Robert De Niro stumps for Harris at Eagles tailgate as presidential race comes down to wire](https://www.foxnews.com/sports/robert-de-niro-stumps-harris-eagles-tailgate-presidential-race-comes-down-wire)
-
-   [![US actor Robert De Niro speaks during a &quot;Get out the Vote&quot; tailgate rally in support of US Vice President and Democratic presidential candidate Kamala Harris, outside Lincoln Financial Field, home of the Philadelphia Eagles, on November 3, 2024, in Philadelphia, Pennsylvania. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/robert-de-niro-stumps-harris-eagles-tailgate-presidential-race-comes-down-wire)
-
-### [Lions star Amon-Ra St Brown's pregame outfit features clear message for Packers ahead of rivalry game](https://www.foxnews.com/sports/lions-star-amon-ra-st-browns-pregame-outfit-features-clear-message-packers-ahead-rivalry-game)
-
-   [![Detroit Lions wide receiver Amon-Ra St. Brown (14) catches a pass in front of Green Bay Packers cornerback Keisean Nixon (25) to score a touchdown during the second quarter at Lambeau Field. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/lions-star-amon-ra-st-browns-pregame-outfit-features-clear-message-packers-ahead-rivalry-game)
-
-### [Rams star Puka Nacua ejected after throwing punch at Seahawks defender](https://www.foxnews.com/sports/rams-star-puka-nacua-ejected-after-throwing-punch-seahawks-defender)
-
-   [![Los Angeles Rams wide receiver Puka Nacua, left, runs against Seattle Seahawks safety Julian Love (20) during the first half of an NFL football game in Seattle, Sunday, Nov. 3, 2024. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/rams-star-puka-nacua-ejected-after-throwing-punch-seahawks-defender)
+   [![Detroit Lions safety Brian Branch reacts after being disqualified by the referee during the first half against Green Bay Packers at Lambeau Field in Green Bay, Wis. on Sunday, Nov. 3, 2024. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/lions-brian-branch-ejected-flips-middle-finger-packers-fans-after-throwing-illegal-hit)
 
 [U.S.](https://www.foxnews.com/us)
 ----------------------------------
 
-     [![New York man allegedly beats up stranger for wearing pro-Trump hat in supermarket: police - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/new-york-man-allegedly-beats-up-stranger-wearing-pro-trump-hat-supermarket-police)
+     [![Illinois man rescued after bridge collapse causes tractor to trap him in creek - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/illinois-man-rescued-bridge-collapse-causes-tractor-trap-him-creek)
+
+### [Illinois man rescued after bridge collapse causes tractor to trap him in creek](https://www.foxnews.com/us/illinois-man-rescued-bridge-collapse-causes-tractor-trap-him-creek)
 
 ### [New York man allegedly beats up stranger for wearing pro-Trump hat in supermarket: police](https://www.foxnews.com/us/new-york-man-allegedly-beats-up-stranger-wearing-pro-trump-hat-supermarket-police)
+
+   [![Robert Yott was arrested for allegedly beating up a stranger at a supermarket for wearing a MAGA hat. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/new-york-man-allegedly-beats-up-stranger-wearing-pro-trump-hat-supermarket-police)
 
 ### [Hurricane Helene: More than 100 reported dead in North Carolina, 7 unaccounted for](https://www.foxnews.com/us/hurricane-helene-more-than-90-reported-dead-north-carolina-authorities-cant-confirm-how-many-missing)
 
@@ -1018,10 +1013,6 @@ Airline passenger sparks DEBATE](https://www.foxnews.com/travel/airline-passenge
 ### [Pennsylvania 'Hamas operative' charged with synagogue vandalism, donated to Squad Dems: report](https://www.foxnews.com/us/pennsylvania-hamas-operative-charged-synagogue-vandalism-donated-squad-dems-report)
 
    [![Mohamad Hamad sent what&apos;s believed to be a selfie on Signal after allegedly stealing a U.S.-Israel flag. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/pennsylvania-hamas-operative-charged-synagogue-vandalism-donated-squad-dems-report)
-
-### [Key players in Menendez brothers' resentencing who could set killers free by Thanksgiving](https://www.foxnews.com/us/key-players-menendez-brothers-resentencing-who-could-set-killers-free-thanksgiving)
-
-   [![Key players in Menendez brothers&apos; resentencing who could set killers free by Thanksgiving - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/key-players-menendez-brothers-resentencing-who-could-set-killers-free-thanksgiving)
 
 [Family](https://www.foxnews.com/family)
 ----------------------------------------
@@ -1140,9 +1131,13 @@ Airline passenger sparks DEBATE](https://www.foxnews.com/travel/airline-passenge
 [Autos](https://www.foxnews.com/auto)
 -------------------------------------
 
-     [![NASCAR Cup Series' Championship Four set after Martinsville race ends in controversy - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/nascar-cup-series-championship-four-set-after-martinsville-race-ends-controversy)
+     [![Trump election ad airs during NBC's NASCAR, NFL coverage amid Harris 'SNL' uproar - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/trump-election-ad-airs-during-nbcs-nascar-nfl-coverage-amid-harris-snl-uproar)
+
+### [Trump election ad airs during NBC's NASCAR, NFL coverage amid Harris 'SNL' uproar](https://www.foxnews.com/sports/trump-election-ad-airs-during-nbcs-nascar-nfl-coverage-amid-harris-snl-uproar)
 
 ### [NASCAR Cup Series' Championship Four set after Martinsville race ends in controversy](https://www.foxnews.com/sports/nascar-cup-series-championship-four-set-after-martinsville-race-ends-controversy)
+
+   [![Ryan Blaney (12) leads Brad Keselowski (6) out of Turn 4 during a NASCAR Cup Series auto race at Martinsville Speedway in Martinsville, Va., Sunday, Nov. 3, 2024. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/nascar-cup-series-championship-four-set-after-martinsville-race-ends-controversy)
 
 ### [Bulk of truckers back Trump and are wary of a Harris presidency, says big-rig big shot](https://www.foxnews.com/politics/many-truckers-backing-trump-seriously-concerned-potential-harris-presidency-trucking-executive)
 
@@ -1151,10 +1146,6 @@ Airline passenger sparks DEBATE](https://www.foxnews.com/travel/airline-passenge
 ### [On this day in history, October 31, 1926, escape artist Harry Houdini shackled eternally by Grim Reaper](https://www.foxnews.com/lifestyle/this-day-history-oct-31-1926-escape-artist-harry-houdini-shackled-grim-reaper)
 
    [![Hungarian-born American magician, escape artist, and psychic debunker Harry Houdini (1874 - 1926) shows his handcuffs as he stands in a wooden box on a boat and prepares to be submerged, a predicament from which he will escape to the delight of onlookers, East River, July 7, 1912. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/this-day-history-oct-31-1926-escape-artist-harry-houdini-shackled-grim-reaper)
-
-### [Mercedes owner goes viral using vape to test vehicle's high-tech air filter](https://www.foxnews.com/health/mercedes-owner-goes-viral-using-vape-test-vehicles-high-tech-air-filter)
-
-   [![Sheldon Shuffield (@thisdadtiktoks) posted his video to TikTok in August, which now has nearly 23 million views. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/health/mercedes-owner-goes-viral-using-vape-test-vehicles-high-tech-air-filter)
 
 [Travel + Outdoors](https://www.foxnews.com/travel)
 ---------------------------------------------------
@@ -1220,9 +1211,9 @@ Airline passenger sparks DEBATE](https://www.foxnews.com/travel/airline-passenge
 
 ### [Hurricane Watch issued as Potential Tropical Cyclone 18 expected to become Rafael in Caribbean Sea](https://www.foxweather.com/weather-news/tropical-cyclone-18-tropical-storm-rafael)
 
-### [Oklahoma City under Tornado Watch again after tornadoes ripped through metro area](https://www.foxweather.com/weather-news/plains-central-us-severe-weather-threat-november-2024)
+### [Millions from Texas to Midwest on alert for severe weather through Monday](https://www.foxweather.com/weather-news/plains-central-us-severe-weather-threat-november-2024)
 
-   [![Oklahoma City under Tornado Watch again after tornadoes ripped through metro area - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxweather.com/weather-news/plains-central-us-severe-weather-threat-november-2024)
+   [![Millions from Texas to Midwest on alert for severe weather through Monday - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxweather.com/weather-news/plains-central-us-severe-weather-threat-november-2024)
 
 ### [Oklahoma City metro slammed by severe weather as tornadoes leave widespread damage, injuries](https://www.foxweather.com/weather-news/oklahoma-city-tornadoes-severe-weather-november-2024)
 
@@ -1235,21 +1226,21 @@ Airline passenger sparks DEBATE](https://www.foxnews.com/travel/airline-passenge
 [Full Episodes](https://www.foxnews.com/video/topics/latest-news-video)
 -----------------------------------------------------------------------
 
-      [![The Story w/ Martha MacCallum - Sunday, November 3 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6364161552112)
+      [![Fox News at Night - Sunday, November 3 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6364165638112)
 
-### [The Story w/ Martha MacCallum - Sunday, November 3](https://www.foxnews.com/video/6364161552112)
+### [Fox News at Night - Sunday, November 3](https://www.foxnews.com/video/6364165638112)
 
-### [Outnumbered - Sunday, November 3](https://www.foxnews.com/video/6364161632112)
+### [Jesse Watters Primetime - Sunday, November 3](https://www.foxnews.com/video/6364164667112)
 
-    [![Outnumbered - Sunday, November 3 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6364161632112)
+    [![Jesse Watters Primetime - Sunday, November 3 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6364164667112)
 
-### [One Nation with Brian Kilmeade - Saturday, November 2](https://www.foxnews.com/video/6364139500112)
+### [Special Report w/ Bret Baier - Sunday, November 3](https://www.foxnews.com/video/6364161875112)
 
-    [![One Nation with Brian Kilmeade - Saturday, November 2 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6364139500112)
+    [![Special Report w/ Bret Baier - Sunday, November 3 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6364161875112)
 
-### [Life, Liberty & Levin - Saturday, November 2](https://www.foxnews.com/video/6364137184112)
+### [The Five - Sunday, November 3](https://www.foxnews.com/video/6364162323112)
 
-    [![Life, Liberty &amp; Levin - Saturday, November 2 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6364137184112)
+    [![The Five - Sunday, November 3 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6364162323112)
 
 [Latest Wires](https://www.foxnews.com/category/topic/associated-press)
 -----------------------------------------------------------------------
@@ -1273,21 +1264,21 @@ Airline passenger sparks DEBATE](https://www.foxnews.com/travel/airline-passenge
 [Media](https://www.foxnews.com/media)
 --------------------------------------
 
-     [![Mehdi Hasan says he will 'never' forgive Biden for not weaponizing DOJ to put Trump on trial before election - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/mehdi-hasan-says-he-never-forgive-biden-not-weaponizing-doj-put-trump-trial-before-election)
+     [![106 days: Kamala Harris has yet to do formal press conference since emerging as Democratic nominee - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/106-days-kamala-harris-has-yet-do-formal-press-conference-since-emerging-democratic-nominee)
 
-### [Mehdi Hasan says he will 'never' forgive Biden for not weaponizing DOJ to put Trump on trial before election](https://www.foxnews.com/media/mehdi-hasan-says-he-never-forgive-biden-not-weaponizing-doj-put-trump-trial-before-election)
+### [106 days: Kamala Harris has yet to do formal press conference since emerging as Democratic nominee](https://www.foxnews.com/media/106-days-kamala-harris-has-yet-do-formal-press-conference-since-emerging-democratic-nominee)
 
-### [Nikki Haley pens supportive op-ed in favor of Trump ahead of Election Day: 'Easy call'](https://www.foxnews.com/media/nikki-haley-pens-supportive-op-ed-favor-trump-ahead-election-day-easy-call)
+### [Trump-Vance ticket has done combined 102 interviews since August compared to 80 for Harris-Walz](https://www.foxnews.com/media/trump-vance-ticket-has-done-combined-interviews-compared-harris-walz)
 
-   [![Nikki Haley wrote a supportive op-ed about President Trump on Sunday. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/nikki-haley-pens-supportive-op-ed-favor-trump-ahead-election-day-easy-call)
+   [![From left: former President Trump; Sen. JD Vance, R-Ohio; Vice President Kamala Harris; and Minnesota Gov. Tim Walz. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/trump-vance-ticket-has-done-combined-interviews-compared-harris-walz)
 
-### [Bill Clinton says it would be a 'travesty' if Donald Trump becomes president again in rare interview](https://www.foxnews.com/media/bill-clinton-says-would-travesty-donald-trump-becomes-president-again-rare-interview)
+### [NBC files Equal Time notice for Harris' SNL cameo following backlash](https://www.foxnews.com/media/nbc-files-equal-time-notice-harris-snl-cameo-following-backlash)
 
-   [![Former President Bill Clinton speaks in support of the Harris Walz presidential campaign during the Fort Valley GOTV Community Fish Fry at the Agricultural Technology Conference Center on October 13, 2024 in Fort Valley, Georgia. With 22 days until the election, recent polls in Georgia show that Republican presidential nominee, former President Donald Trump leads his opponent Democratic presidential nominee, Vice President Kamala Harris by one point. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/bill-clinton-says-would-travesty-donald-trump-becomes-president-again-rare-interview)
+   [![Kamala Harris made a cameo on Saturday Night Live on November 2. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/nbc-files-equal-time-notice-harris-snl-cameo-following-backlash)
 
-### [James Carville predicts Kamala will win election because Trump is 'stone a-- nuts'](https://www.foxnews.com/media/james-carville-predicts-kamala-win-election-because-trump-stone-a-nuts)
+### [Early voting numbers are 'scary' for Harris, Democrats are 'panicking,' former Obama campaign manager warns](https://www.foxnews.com/media/early-voting-numbers-scary-harris-democrats-panicking-former-obama-campaign-manager-warns)
 
-   [![James Carville joins MSNBC and tells &quot;Morning Joe&quot; that Kamala Harris is going to win the election. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/james-carville-predicts-kamala-win-election-because-trump-stone-a-nuts)
+   [![Obama 2012 campaign manager Jim Messina said on MSNBC Sunday that the Harris campaign team is being forced to make tough decisions before Election Day. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/early-voting-numbers-scary-harris-democrats-panicking-former-obama-campaign-manager-warns)
 
 [Antisemitism Exposed](https://www.foxnews.com/category/topic/anti-semitism)
 ----------------------------------------------------------------------------
@@ -1330,9 +1321,13 @@ Airline passenger sparks DEBATE](https://www.foxnews.com/travel/airline-passenge
 [Fox News Podcasts](https://radio.foxnews.com/podcast/)
 -------------------------------------------------------
 
-     [![James Van Der Beek’s battle with cancer - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/11/03/james-van-der-beeks-battle-with-cancer/)
+     [![What You Need To Know Before Election Day - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/11/03/what-you-need-to-know-before-election-day/)
+
+### [What You Need To Know Before Election Day](https://radio.foxnews.com/2024/11/03/what-you-need-to-know-before-election-day/)
 
 ### [James Van Der Beek’s battle with cancer](https://radio.foxnews.com/2024/11/03/james-van-der-beeks-battle-with-cancer/)
+
+   [![James Van Der Beek&rsquo;s battle with cancer - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/11/03/james-van-der-beeks-battle-with-cancer/)
 
 ### [Extra: Why Everyone’s Watching Wisconsin This Election](https://radio.foxnews.com/2024/11/03/extra-why-everyones-watching-wisconsin-this-election/)
 
@@ -1341,10 +1336,6 @@ Airline passenger sparks DEBATE](https://www.foxnews.com/travel/airline-passenge
 ### [Fans Crash Morrissey Concert](https://radio.foxnews.com/2024/11/03/fans-crash-morrissey-concert/)
 
    [![Fans Crash Morrissey Concert - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/11/03/fans-crash-morrissey-concert/)
-
-### [Fox Sports Update – NFC North Prize Fight](https://radio.foxnews.com/2024/11/03/fox-sports-update-nfc-north-prize-fight/)
-
-   [![Fox Sports Update &ndash; NFC North Prize Fight - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/11/03/fox-sports-update-nfc-north-prize-fight/)
 
 ##### [U.S.](https://www.foxnews.com/us)
 
