@@ -19,6 +19,7 @@
     * [DJI Forum](https://forum.dji.com/?site=brandsite&from=nav)
     * [Media Center](https://www.dji.com/media-center?site=brandsite&from=nav)
     * [DJI Trust Center](https://www.dji.com/trust-center?site=brandsite&from=nav)
+    * [DJI Blog](https://viewpoints.dji.com/blog?site=brandsite&from=nav)
     * [Careers](https://we.dji.com/index_en.html?site=brandsite&from=nav)
     
 * [Support](https://www.dji.com/support?site=brandsite&from=nav)
@@ -949,7 +950,7 @@ You can learn more about how we handle user data through the [DJI Privacy Policy
 Product Categories
 
 * [Consumer](https://www.dji.com/products/consumer?site=brandsite&from=footer)
-* [Professional](https://www.dji.com/products/professional?site=brandsite&from=footer)
+* [Professional](https://pro.dji.com/?site=brandsite&from=footer)
 * [Enterprise](https://www.dji.com/products/enterprise?site=brandsite&from=footer)
 * [Components](https://www.dji.com/products/components?site=brandsite&from=footer)
 
@@ -996,6 +997,7 @@ Explore
 * [Media Center](https://www.dji.com/media-center?site=brandsite&from=footer)
 * [Buying Guides](https://store.dji.com/guides/?site=brandsite&from=footer)
 * [DJI Trust Center](https://www.dji.com/trust-center?site=brandsite&from=footer)
+* [DJI Blog](https://viewpoints.dji.com/blog?site=brandsite&from=footer)
 
 Community
 
