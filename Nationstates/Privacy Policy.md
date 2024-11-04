@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Which of the 2 ANs is most likely to… (5,395)](https://forum.nationstates.net/viewtopic.php?t=532491&f=25&view=unread#unread ""Which of the 2 ANs is most likely to be YN's enemy?" (5,395 posts)")
-* [Guess AU's favorite irl country (575)](https://forum.nationstates.net/viewtopic.php?t=554724&f=25&view=unread#unread ""Guess AU's favorite irl country" (575 posts)")
-* [American Politics: The Final Week (6,882)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: The Final Week" (6,882 posts)")
-* [Empires: 2024 REVIVED IC (65)](https://forum.nationstates.net/viewtopic.php?t=557841&f=31&view=unread#unread ""Empires: 2024 REVIVED IC" (65 posts)")
-* [Give an (IC) Nickname to the AN (61)](https://forum.nationstates.net/viewtopic.php?t=557881&f=25&view=unread#unread ""Give an (IC) Nickname to the AN" (61 posts)")
+* [Give an (IC) Nickname to the AN (76)](https://forum.nationstates.net/viewtopic.php?t=557881&f=25&view=unread#unread ""Give an (IC) Nickname to the AN" (76 posts)")
+* [American Politics: The Final Week (7,020)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: The Final Week" (7,020 posts)")
+* [Would you chill with AU¿ (1,927)](https://forum.nationstates.net/viewtopic.php?t=551805&f=25&view=unread#unread ""Would you chill with AU¿" (1,927 posts)")
+* [Wikipedia Game Vol. IV (1,049)](https://forum.nationstates.net/viewtopic.php?t=551271&f=25&view=unread#unread ""Wikipedia Game Vol. IV" (1,049 posts)")
 
 Advertisement
 
