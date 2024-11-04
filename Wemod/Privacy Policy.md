@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-We at WeMod LLC are committed to protecting your privacy. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used and is provided by WeMod LLC, a Massachusetts company with a principal place of business located at 68 Harrison Ave, 6th Floor, Boston, MA 02111. If you have requests concerning your personal information or any questions please contact us support@wemod.com.
+We at WeMod LLC are committed to protecting your privacy. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used and is provided by WeMod LLC, a company with a principal place of business located at 390 NE 191st St STE 8621 Miami, FL 33179. If you have requests concerning your personal information or any questions please contact us support@wemod.com.
 
 **If you have objections to the Privacy Policy, you should immediately discontinue use of the Web site and the Services offered by us.**
 
