@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-03 Nov 2024
+04 Nov 2024
 
 * [Home
     
@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1645576/derry-death-notices-sunday-november-3-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday, November 3, 2024](https://www.derrynow.com/news/deaths/1645576/derry-death-notices-sunday-november-3-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Police in Derry investigating sexually motivated attack on a woman in her 40s](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry investigating sexually motivated attack on a woman in her 40s")](https://www.derrynow.com/news/local-news/1646432/police-in-derry-investigating-sexually-motivated-attack-on-a-woman-in-her-40s.html)
 
 PSNI
@@ -274,6 +267,13 @@ PSNI
 
 [Police in Derry investigating sexually motivated attack on a woman in her 40s](https://www.derrynow.com/news/local-news/1646432/police-in-derry-investigating-sexually-motivated-attack-on-a-woman-in-her-40s.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1645576/derry-death-notices-sunday-november-3-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, November 3, 2024](https://www.derrynow.com/news/deaths/1645576/derry-death-notices-sunday-november-3-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Ciaran McDermott handing over a framed signed Celtic jersey on behalf of Celtic FC, to Monica McGuigan for fundraising event for Children In Crossfire. With Felix Healy, Drive 105. (Pho - Tom Heaney, ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ciaran McDermott handing over a framed signed Celtic jersey on behalf of Celtic FC, to Monica McGuigan for fundraising event for Children In Crossfire. With Felix Healy, Drive 105. (Pho - Tom Heaney, ")](https://www.derrynow.com/news/derry-news/1646260/derry-woman-to-climb-kilimanjaro-for-children-in-crossfire.html)
 
@@ -300,14 +300,23 @@ Jude McAtamney
 [County Derry man to make history with New York Giants in NFL](https://www.derrynow.com/news/derry-sport/1646270/county-derry-man-to-make-history-with-new-york-giants-in-nfl.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Health Minister whistle-stop visit to Women’s Aid Centre in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Health Minister whistle-stop visit to Women’s Aid Centre in Derry")](https://www.derrynow.com/news/local-news/1645618/health-minister-whistle-stop-visit-to-womens-aid-centre-in-derry.html)
+[![Craigbane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Craigbane")](https://www.derrynow.com/news/derry-sport/1646562/craigbane-book-their-place-in-ulster-semi-finals-with-thrilling-victory-over-knockbride.html)
 
-NI Health Minister Mike Nesbitt is welcomed to the Women's Aid Centre by CEO Marie Brown. Included are Alderman Darren Guy and Alderman Janice Montgomery. (Photo: Jim McCafferty Photography)
+Craigbane have booked their place in the Ulster semi-finals.
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Health Minister whistle-stop visit to Women’s Aid Centre in Derry](https://www.derrynow.com/news/local-news/1645618/health-minister-whistle-stop-visit-to-womens-aid-centre-in-derry.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Craigbane book their place in Ulster semi-finals with thrilling victory over Knockbride](https://www.derrynow.com/news/derry-sport/1646562/craigbane-book-their-place-in-ulster-semi-finals-with-thrilling-victory-over-knockbride.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ballinderry Shamrocks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinderry Shamrocks")](https://www.derrynow.com/news/derry-sport/1646569/ryan-bell-hails-massive-victory-for-ballinderry.html)
+
+Ballinderry celebrate their Intermediate title win at Owenbeg. Pic by George Sweeney, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Ryan Bell hails 'massive' victory for Ballinderry](https://www.derrynow.com/news/derry-sport/1646569/ryan-bell-hails-massive-victory-for-ballinderry.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Families of the Disappeared appeal for help to end their pain](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Families of the Disappeared appeal for help to end their pain")](https://www.derrynow.com/news/national-news/1645886/families-of-the-disappeared-appeal-for-help-to-end-their-pain.html)
 
@@ -316,28 +325,19 @@ NI Health Minister Mike Nesbitt is welcomed to the Women's Aid Centre by CEO Mar
 [Families of the Disappeared appeal for help to end their pain](https://www.derrynow.com/news/national-news/1645886/families-of-the-disappeared-appeal-for-help-to-end-their-pain.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1646191/institute-left-frustrated-against-10-man-annagh-at-the-brandywell.html)
+[![Police probe potential link between two knifepoint sexually motivated attacks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police probe potential link between two knifepoint sexually motivated attacks")](https://www.derrynow.com/news/northern-ireland/1646446/police-probe-potential-link-between-two-knifepoint-sexually-motivated-attacks.html)
 
-Benny McLaughlin in action for Institiute today. Pic by Tom Heaney, nwpresspics
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Police probe potential link between two knifepoint sexually motivated attacks](https://www.derrynow.com/news/northern-ireland/1646446/police-probe-potential-link-between-two-knifepoint-sexually-motivated-attacks.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Institute left frustrated against 10-man Annagh at the Brandywell](https://www.derrynow.com/news/derry-sport/1646191/institute-left-frustrated-against-10-man-annagh-at-the-brandywell.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Sinn Fein suspends councillor over allegations of inappropriate messages](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein suspends councillor over allegations of inappropriate messages")](https://www.derrynow.com/news/national-news/1646647/sinn-fein-suspends-councillor-over-allegations-of-inappropriate-messages.html)
 
-[![Annual Christmas Craft Fair at St Mary's College this November](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Annual Christmas Craft Fair at St Mary's College this November")](https://www.derrynow.com/news/local-news/1644033/annual-christmas-craft-fair-at-st-mary-s-college-this-november.html)
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Annual Christmas Craft Fair at St Mary's College this November](https://www.derrynow.com/news/local-news/1644033/annual-christmas-craft-fair-at-st-mary-s-college-this-november.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![North West Migrants Forum launches new phase of Hidden History Project](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "North West Migrants Forum launches new phase of Hidden History Project")](https://www.derrynow.com/news/local-news/1644162/north-west-migrants-forum-launches-new-phase-of-hidden-history-project.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[North West Migrants Forum launches new phase of Hidden History Project](https://www.derrynow.com/news/local-news/1644162/north-west-migrants-forum-launches-new-phase-of-hidden-history-project.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Sinn Fein suspends councillor over allegations of inappropriate messages](https://www.derrynow.com/news/national-news/1646647/sinn-fein-suspends-councillor-over-allegations-of-inappropriate-messages.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -345,7 +345,7 @@ Advertise with Us
 
 Multimedia
 
-[![IN PICTURES: Derry thronged for finale of Europe’s biggest Halloween celebration](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry thronged for finale of Europe’s biggest Halloween celebration")](https://www.derrynow.com/story-telling/pictures---videos/1645682/in-pictures-derry-gets-in-the-spooky-spirit-with-finale-halloween-parade.html)
+[![IN PICTURES: Derry gets in the spooky spirit with finale Halloween parade](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry gets in the spooky spirit with finale Halloween parade")](https://www.derrynow.com/story-telling/pictures---videos/1645682/in-pictures-derry-gets-in-the-spooky-spirit-with-finale-halloween-parade.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
