@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/advice/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/make-a-submission/document/50SCMA_SCF_00DBHOH_BILL11228_1/rongowhakaata-claims-settlement-bill/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/advice/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/make-a-submission/document/50SCMA_SCF_00DBHOH_BILL11228_1/rongowhakaata-claims-settlement-bill/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
