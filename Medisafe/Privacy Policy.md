@@ -168,7 +168,7 @@ Privacy Policy
 **PRIVACY POLICY – MEDISAFE PROJECT**
 =====================================
 
-**_UPDATED February 28, 2024_**
+**_UPDATED Sept. 9, 2024_**
 
 We have the highest regard for your privacy and personal information and realize that the success of our services depends on the trust that you have in the way we handle your personal information. By entrusting us with your information, we would like to assure you of our commitment to keep such information private. We have taken considerable steps to protect the confidentiality, security and integrity of this information. We encourage you to review the following information carefully.
 
@@ -244,7 +244,8 @@ We also use “Google Analytics” to collect information about the use of the S
 
 **HOW DO WE USE THE INFORMATION WE COLLECT**
 
-* Provision of service – we use the Personal Information you provide us for the provision and improvement of our Service to you, operate our business, and provide information that you request form us. For example, data collected automatically on the Service may be used to help diagnose problems with our servers, to make our Service more useful, to customize it and personalize its content for you (for example, we will use your Health information to send you reminders to take your medications).
+* Provision of service – we use the Personal Information you provide us for the provision and improvement of our Service to you, operate our business, and provide information that you request from us. For example, data collected automatically on the Service may be used to help diagnose problems with our servers, to make our Service more useful, to customize it and personalize its content for you (for example, we will use your Health information to send you reminders to take your medications).
+* Artificial Intelligence – we may use Personal Information or Health Information you provide through use of the Services to create insights and improve your medication adherence, such as determining the best time to send medication reminders in accordance to your Services usage and schedule changes. Other AI uses may include voice and tone personalization. We will only provide suggested insights based on your input, we will not use AI to make any decisions on your behalf that would impact your rights or freedoms.
 * General communication – we also use your Personal Information to send you texts, emails or other communications regarding general adherence information, Service maintenance and other technical support, updates, or changes to this Privacy Policy or any other relevant agreements, and to respond to your inquiries.
 * Marketing purposes – subject to your marketing preferences, we may use your Personal Information (such as your email address or phone number) to communicate with you. We may also send you promotional material concerning our services or our partners’ services (which we believe may interest you), including but not limited to, by building an automated profile based on your Personal Information, for marketing purposes.
     * Opt-out of receiving marketing materials – If you do not want us to use or share your Personal Information for marketing purposes, you may opt-out by contacting us in accordance with this Privacy Policy, by clicking the “unsubscribe” button included in every marketing communication you receive from us, or with respect to tracking technologies, by using the cookie preferences menu displayed on our Site. Please note that even if you opt-out, we may still use and share your Personal Information with third parties for non-marketing purposes (for example to fulfill your requests, communicate with you and respond to your inquiries, etc.).
@@ -255,7 +256,7 @@ We also use “Google Analytics” to collect information about the use of the S
 
 **WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION**
 
-* Research partners – we may share your Personal Information with third parties, such as research institutes, healthcare systems and healthcare providers. They may associate it with other information that they have about you, for improved healthcare, research purposes and the improvement of our Service.
+* Research partners – we may share your Personal Information with third parties, such as research institutes, pharmaceutical manufacturers, healthcare systems and healthcare providers. They may associate it with other information that they have about you, for improved healthcare, research purposes and the improvement of our Service.
 * Providers of personalized third party content – from time to time, we may also ask whether you would like us to share your Personal Information with another company that may want to send you information about their products or services. If you consent to such transfer by us of your Personal Information to another company, please note that the information provided will be subject to such company’s privacy practices and shall not be within our control.
 * Content providers – we may also use your Personal Information in order to provide you with personalized third party content or links to third party sites that might interest you. We provide this third party content and/or links to third party sites for information purposes only and are not liable for such content or sites. For more information see the “Links to other Websites or Apps” section below.
 * Third Party Health Apps – we participate in Apple HealthKit, Samsung S-Health and Google Fit frameworks. We will use information that you consent that we receive from those third party health apps for medical research purposes, internally in order to improve our products and services and in the form of aggregated and/or analytical data as described in the Use of Aggregated Data section of the Privacy Policy, and may transfer this data to third parties for such purposes. We may provide users with the ability to share their Medisafe data with other authorized services on their device after receiving their consent for the same. We will not sell any Personal Information nor will we use this data for advertising purposes. Please note that when you share information with third party apps, such information will be subject to their privacy policy, over which we have no control. In order to learn more, please visit each of [Apple](https://www.apple.com/ios/health/), [Samsung](https://health.apps.samsung.com/), or [Google](https://www.google.com/fit/)’s relevant pages and their respective privacy policies.
@@ -318,6 +319,9 @@ You need to help us prevent unauthorized access to your account by protecting yo
 Personal Information is defined under the CCPA as any information that identifies, relates to, describes, references, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer, household or device.
 
 Personal Information does not include: Publicly available information that is lawfully made available in government records; information that a consumer has made available to the public; De-identified or aggregated consumer information, and information excluded from the CCPA’s or CPRA’s scope such as Health or medical information covered by the Health Insurance Portability and Accountability Act of 1996 (HIPPA) and the California Confidentiality of Medical Information Act (CMIA);clinical trial data, and any Personal Information covered by certain sector-specific privacy laws, such as the Fair Credit Reporting Act (FRCA), the Gramm-Leach-Bliley Act (GLBA), the California Financial Information Privacy Act (FIPA) and the Driver’s Privacy Protection Act of 1994.
+
+**MY HEALTH MY DATA ACT-RELATED INFORMATION:  
+**For more information regarding your rights under the Washington State My Health My Data Act, please refer to our [Consumer Data Privacy Policy](https://www.medisafe.com/consumer-health-data-privacy-policy/).
 
 **Collection, disclosure and sharing of Personal Information  
 **In the preceding twelve (12) months, we have collected the following Personal Information:  
@@ -400,7 +404,7 @@ MEDISAFE UK
 
 You may also contact our Data Protection Officer: [\[email protected\]](https://www.medisafe.com/cdn-cgi/l/email-protection)
 
-This policy was last updated on the 28th day of February, 2024.
+This policy was last updated on the 9th day of September, 2024.
 
 Want to Learn More?
 -------------------
