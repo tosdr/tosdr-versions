@@ -6,7 +6,6 @@ Menu
 
 * [Home](https://www.steganos.com/en/)
     * [About Steganos](https://www.steganos.com/en/about-steganos)
-    * [Career](https://www.steganos.com/en/jobs-at-steganos)
     * [Press](https://www.steganos.com/en/press-center)
 * [Products](https://www.steganos.com/)
     * [Steganos VPN Online Shield](https://www.steganos.com/en/products/steganos-vpn-online-shield)
