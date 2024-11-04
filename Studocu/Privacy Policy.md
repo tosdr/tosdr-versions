@@ -49,6 +49,7 @@ Add Books
 Studylists
 
 * You don't have any Studylists yet.
+Create a Studylist
 
 Privacy Policy
 
