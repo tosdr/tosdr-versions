@@ -98,17 +98,17 @@
 StackAdapt Platform Terms of Use
 ================================
 
-These Terms of Use are effective as of August 2024.
+These Terms of Use are effective as of November 2024.
 
-These Platform Terms of Use (together with the StackAdapt Privacy Policy and any other policies, addenda and notices made available to you, collectively, the “Agreement”) govern your (referred to throughout as the “Company”) relationship with StackAdapt Inc. (“StackAdapt”) relating to the Platform (as defined below) offered by StackAdapt on the StackAdapt web site (the _“Site”_) or on any StackAdapt mobile application (the _“App”_) owned and operated by StackAdapt (including but not limited to StackAdapt.com and any and all web sites or mobile applications now or hereafter owned or operated by StackAdapt). The date on which you first log into your Account (as defined below) is hereinafter referred to as the “Effective Date”.
+These Platform Terms of Use (together with any policies, addenda and notices made available to you, collectively, the “Agreement”) govern your (referred to throughout as the “Company”) relationship with StackAdapt Inc. (“StackAdapt”) relating to the Platform (as defined below) offered by StackAdapt on the StackAdapt web site (the _“Site”_) or on any StackAdapt mobile application (the _“App”_) owned and operated by StackAdapt (including but not limited to StackAdapt.com and any and all web sites or mobile applications now or hereafter owned or operated by StackAdapt). The date on which you first log into your Account (as defined below) is hereinafter referred to as the “Effective Date”.
 
 Please read these Platform Terms of Use carefully and be sure you fully understand the terms and conditions. The Agreement constitutes a binding legal agreement between you and StackAdapt Inc.
 
 Your use of the Platform constitutes your agreement to all such terms, conditions, and notices in effect at such time. You hereby represent and warrant that (i) you are lawfully able to enter into and perform a legally binding contract, (ii) if you are entering the Agreement on behalf of your employer and you are authorized to do so, and (iii) agree to be bound by the Agreement. Please retain a copy of the Agreement for your records.
 
-You should also read the [StackAdapt Privacy Policy](https://www.stackadapt.com/legal-document-centre/platform-and-services-privacy-policy) and [StackAdapt Artificial Intelligence (“AI”) Terms of Use](https://www.stackadapt.com/legal-document-centre/ai-terms-of-use) which are incorporated by reference into the Agreement. If you do not accept and agree to be bound by all of the terms of the Agreement, including the StackAdapt Privacy Policy and StackAdapt AI Terms of Use, do not access the Platform through the Site or use the Platform.
+You should also read the [Data Processing Agreement](https://www.stackadapt.com/legal-document-centre/data-processing-agreement) and [StackAdapt Artificial Intelligence (“AI”) Terms of Use](https://www.stackadapt.com/legal-document-centre/ai-terms-of-use) which are incorporated by reference into the Agreement. If you do not accept and agree to be bound by all of the terms of the Agreement, including the StackAdapt Privacy Policy and StackAdapt AI Terms of Use, do not access the Platform through the Site or use the Platform.
 
-StackAdapt may update or revise the Agreement (including the StackAdapt Privacy Policy, any other policies, addenda and notices made available relating to the Platform) from time to time. You agree that you will review the Agreement periodically. You are free to decide whether or not to accept a modified version of the Agreement, but accepting the Agreement, as modified, is required for you to continue using the Platform.
+StackAdapt may update or revise the Agreement (including any policies, addenda, and notices made available relating to the Platform) from time to time. You agree that you will review the Agreement periodically. You are free to decide whether or not to accept a modified version of the Agreement, but accepting the Agreement, as modified, is required for you to continue using the Platform.
 
 You may have to click “accept” or “agree” to show your acceptance of any modified version of the Agreement. If you do not agree to the terms of the Agreement or any modified version of the Agreement, your sole recourse is to terminate your use of the Platform, in which case you will no longer have access to your Account (as defined below). Except as otherwise expressly stated by StackAdapt any use of the Platform is subject to the version of the Agreement in effect at the time of use.
 
@@ -281,7 +281,7 @@ Company understands that the Platform collects aggregated and non-personally ide
 6\. Artificial Intelligence
 ---------------------------
 
-The StackAdapt AI Terms of Use (available at [https://www.stackadapt.com/legal-document-centre/ai-terms-of-use](https://www.stackadapt.com/legal-document-centre/ai-terms-of-use) govern your use of AI products, features, and tools offered by the Company. If you are using the AI products, features, and tools offered by the Company on behalf of a business or employer, that business or employer agrees to the StackAdapt AI Terms of Use in effect at such time.
+The [StackAdapt AI Terms of Use](https://www.stackadapt.com/legal-document-centre/ai-terms-of-use) govern your use of AI products, features, and tools offered by the Company. If you are using the AI products, features, and tools offered by the Company on behalf of a business or employer, that business or employer agrees to the StackAdapt AI Terms of Use in effect at such time.
 
 7\. Confidentiality
 -------------------
