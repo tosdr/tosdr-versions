@@ -3,16 +3,6 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[Drop + Bees.Keys ZX CSTM80 Decorative Case
-
-A black-and-rainbow throwback.
-
-Shop Now
-
-_keyboard\_arrow\_right_](https://drop.com/buy/drop-bees-keys-cstm80-zx-decorative-case)
-
-Free Standard Shipping in the US on orders over $99
-
 Free Standard Shipping in the US on orders over $99
 
 [Drop](https://drop.com/)
