@@ -720,6 +720,13 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [FutureLearn Lowers The Prices Of Thousands Of Short Course Upgrades](https://www.futurelearn.com/info/press/futurelearn-lowers-the-prices-of-thousands-of-short-course-upgrades)
+    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    FutureLearn, a leader in online learning, has announced price reductions on thousands of online courses. …
+    
+    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
+    
 * [Lifelong Learning, Longevity And Innovative Tech: Rethinking Education At The BCCI 120th Anniversary Gala Dinner](https://www.futurelearn.com/info/press/lifelong-learning-longevity-and-innovative-tech-rethinking-education-at-the-bcci-120th-anniversary-gala-dinner)
     -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
@@ -744,15 +751,6 @@ Powered By
     Thinking about taking an online accounting degree to learn specialist knowledge and improve your career …
     
     Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
-    
-* [![software engineer working](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-97-150x150.png)](https://www.futurelearn.com/info/blog/software-engineering-degree-guide)
-    
-    [A complete guide to software engineering degrees](https://www.futurelearn.com/info/blog/software-engineering-degree-guide)
-    ---------------------------------------------------------------------------------------------------------------------------
-    
-    Thinking about taking an online software engineering degree to learn specialist knowledge and improve your …
-    
-    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees), [IT & Computer Science](https://www.futurelearn.com/info/it-computer-science)
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
