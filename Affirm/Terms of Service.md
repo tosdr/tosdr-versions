@@ -52,7 +52,13 @@ Canada (Fr)](https://www.affirm.com/fr-ca/terms)[![](data:image/svg+xml;charset=
 
 ![The American flag](https://images.ctfassets.net/4rc1asww3mw7/5BkSbOYcnHWds4kzGrfLdC/528d46ec5e7715a69c9c7079740f4774/USA.png?w=24&h=24&q=50&fm=png)
 
-United States](https://www.affirm.com/terms)
+United States](https://www.affirm.com/terms)[![](data:image/svg+xml;charset=utf-8,%3Csvg height='24' width='24' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAABNVBMVEUAAAAAIHl2hq7t4OHNIzjLEyrMFCrPJjvy5OZ1ha8AHGYAEEgAIncAI3xcc6xcc6wAI3sAIXAAIHAAHWEAI3kAJHwAJHwAIHAAG2Ln5+cjPoEmQ4yHh4fm5ubh5e/WqbnOQlOvMUHuusDaVGXpyc3TeoXgann++vrp6enMEyrLFCrLFCrt3+Hy5ebo6OjVe4brys3aVWXtuL+vMD/PQlPWqrnk5OSPj48AHGAAIG8AHGEAIHcAIHAAI3sAHWV1hq/y5eYAIXj88PLTJz3PFCvTKD0AJH1cc6wAJHx8jrwRMoUUNod/kL3++fn////u8fZ6jbt0iLh2irl8irjgsLzcU2TRHDLtpq/99vf29/r28fTuq7PgaXjhbHvyvsT54+XTJjzPFiz54uX99fbspa3v8fb++PluLY73AAAAQnRSTlMAEleq2e/t2ahWEgNT1f791FUDCYv5+I8JA4+LA1X4+VMS1NUSVv3+V+3v7aqnV1YS1dQSU/lVAwmPCQNV1RJWqBL2ktYwAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AoDChcT4mzEngAAAPFJREFUGBllwdErQ2EcgOH3PedbYS6UZGq7QEkpEqUo/zslJZpCSu424kYpRGdnP+ebuPE8kvnng4ZAW91VrC/UFxDmddtKsW7FpT4hS26OsVKsW0Fx5TCRNI341TKJy27YeFWs52xcmJIzfkT7lWzKRtKpfbKeQ7oxIDtKUZIpSElmWgmyITDgh4X8s1bcxUS3B71uTNyn9SArxhARZGtufu1F40mxXnxnwePpVMx8RoOJz2LhuTOr7LoYlZVi3YoUN52zgvJxVPFnFKMBJQ8bX7cdx4pR0n9cvUXgwOvYUazPt/rxDgk44dDxaWTpjcY3m+9oZWFm/e8AAAAASUVORK5CYII=)
+
+![UK flag](https://images.ctfassets.net/4rc1asww3mw7/6sOGECs0QWWIJeCgwB6lWN/9185fa603d46333e0f2473dbc06719a7/UK.png?w=24&h=24&q=50&fm=png)
+
+United Kingdom](https://www.affirm.com/en-gb/terms)
 
 For shoppers[How it works](https://www.affirm.com/how-it-works)[Affirm Card™](https://www.affirm.com/card)[Affirm Money™](https://www.affirm.com/money)[Help](https://www.affirm.com/help/)
 
