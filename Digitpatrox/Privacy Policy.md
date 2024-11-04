@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Sunday, November 3 2024
+Monday, November 4 2024
 
 Latest
 
-* [Target Black Friday deals live — 21 best early sales I’d add to my cart now](https://digitpatrox.com/target-black-friday-deals-live-21-best-early-sales-id-add-to-my-cart-now/)
-* [ChatGPT-4o can be used for autonomous voice-based scams](https://digitpatrox.com/chatgpt-4o-can-be-used-for-autonomous-voice-based-scams/)
-* [How Track Star became your favorite musician’s favorite TikTok show](https://digitpatrox.com/how-track-star-became-your-favorite-musicians-favorite-tiktok-show/)
-* [Bike League Codes (November 2024)](https://digitpatrox.com/bike-league-codes-november-2024/)
-* [25 New Holiday Movies for 2024](https://digitpatrox.com/25-new-holiday-movies-for-2024/)
-* [How to check for viruses on Android (and get rid of them)](https://digitpatrox.com/how-to-check-for-viruses-on-android-and-get-rid-of-them/)
-* [Should You Use Synthetic Oil in Your Car?](https://digitpatrox.com/should-you-use-synthetic-oil-in-your-car/)
-* [Everything You Need to Know About Apple TV+](https://digitpatrox.com/everything-you-need-to-know-about-apple-tv/)
-* [AeroPress vs Chemex: Which brews a better coffee?](https://digitpatrox.com/aeropress-vs-chemex-which-brews-a-better-coffee/)
-* [Eight Sleep Pod 4 Ultra review: for sale, good night’s sleep, just $4,700](https://digitpatrox.com/eight-sleep-pod-4-ultra-review-for-sale-good-nights-sleep-just-4700/)
+* [Review: The Soundboks 4 ‘Portable’ Speaker Is Overkill (in a Good Way)](https://digitpatrox.com/review-the-soundboks-4-portable-speaker-is-overkill-in-a-good-way/)
+* [Everything You Need for Your Next Homecoming Tailgate Party](https://digitpatrox.com/everything-you-need-for-your-next-homecoming-tailgate-party/)
+* [How to Change Your Action Button Based on Focus Mode](https://digitpatrox.com/how-to-change-your-action-button-based-on-focus-mode/)
+* [NYT Strands today — hints, spangram and answers for game #246 (Monday, November 4 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-246-monday-november-4-2024/)
+* [Meet Interlock — The new ransomware targeting FreeBSD servers](https://digitpatrox.com/meet-interlock-the-new-ransomware-targeting-freebsd-servers/)
+* [Can Nintendo’s Alarmo run Doom? You bet it can](https://digitpatrox.com/can-nintendos-alarmo-run-doom-you-bet-it-can/)
+* [NYT Strands Today: Hints, Answers & Spangram for November 4](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-4/)
+* [Top Antivirus for Small Businesses in 2024](https://digitpatrox.com/top-antivirus-for-small-businesses-in-2024/)
+* [The Arlo Pro 5S Spotlight Security Camera Is $400 Off](https://digitpatrox.com/the-arlo-pro-5s-spotlight-security-camera-is-400-off/)
+* [How to Check for Viruses on Linux (And Remove Them)](https://digitpatrox.com/how-to-check-for-viruses-on-linux-and-remove-them/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/gd53qMe296oAeJEE2UdNkf-1200-80.jpg)](https://digitpatrox.com/target-black-friday-deals-live-21-best-early-sales-id-add-to-my-cart-now/)
+* [![](https://lifehacker.com/imagery/articles/01JBD793102W8Q6ZAV5KD9S0DE/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/review-the-soundboks-4-portable-speaker-is-overkill-in-a-good-way/)
     
-    [Target Black Friday deals live — 21 best early sales I’d add to my cart now](https://digitpatrox.com/target-black-friday-deals-live-21-best-early-sales-id-add-to-my-cart-now/)
+    [Review: The Soundboks 4 ‘Portable’ Speaker Is Overkill (in a Good Way)](https://digitpatrox.com/review-the-soundboks-4-portable-speaker-is-overkill-in-a-good-way/)
     
-    1 hour ago
+    12 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/11/01/robot-support.jpg)](https://digitpatrox.com/chatgpt-4o-can-be-used-for-autonomous-voice-based-scams/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1727368859/prod/content/dam/CRO-Images-2024/Home/CR-Home-InlineHero-Best-Gear-for-Your-Homecoming-Tailgate-0924)](https://digitpatrox.com/everything-you-need-for-your-next-homecoming-tailgate-party/)
     
-    [ChatGPT-4o can be used for autonomous voice-based scams](https://digitpatrox.com/chatgpt-4o-can-be-used-for-autonomous-voice-based-scams/)
+    [Everything You Need for Your Next Homecoming Tailgate Party](https://digitpatrox.com/everything-you-need-for-your-next-homecoming-tailgate-party/)
     
-    1 hour ago
+    43 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/W-tgjLb-aqnRGhQ8Pln4ukGSRv8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25710447/VST_1103_Site.jpg)](https://digitpatrox.com/how-track-star-became-your-favorite-musicians-favorite-tiktok-show/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/how-to-use-the-action-button.png)](https://digitpatrox.com/how-to-change-your-action-button-based-on-focus-mode/)
     
-    [How Track Star became your favorite musician’s favorite TikTok show](https://digitpatrox.com/how-track-star-became-your-favorite-musicians-favorite-tiktok-show/)
+    [How to Change Your Action Button Based on Focus Mode](https://digitpatrox.com/how-to-change-your-action-button-based-on-focus-mode/)
+    
+    46 mins ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/TPjnbnuxSnR2Hxho3tzVYJ-1200-80.jpg)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-246-monday-november-4-2024/)
+    
+    [NYT Strands today — hints, spangram and answers for game #246 (Monday, November 4 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-246-monday-november-4-2024/)
     
     2 hours ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/Roblox-Bike-League-main-menu-screen.jpg)](https://digitpatrox.com/bike-league-codes-november-2024/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/05/07/hacker-box.jpg)](https://digitpatrox.com/meet-interlock-the-new-ransomware-targeting-freebsd-servers/)
     
-    [Bike League Codes (November 2024)](https://digitpatrox.com/bike-league-codes-november-2024/)
+    [Meet Interlock — The new ransomware targeting FreeBSD servers](https://digitpatrox.com/meet-interlock-the-new-ransomware-targeting-freebsd-servers/)
     
     2 hours ago
-    
-* [![](https://lifehacker.com/imagery/articles/01JBHE3RXDM2EF1FPNQTW5YQNP/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/25-new-holiday-movies-for-2024/)
-    
-    [25 New Holiday Movies for 2024](https://digitpatrox.com/25-new-holiday-movies-for-2024/)
-    
-    4 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [1 hour ago
+* [12 mins ago
     
-    ### Target Black Friday deals live — 21 best early sales I’d add to my cart now](https://digitpatrox.com/target-black-friday-deals-live-21-best-early-sales-id-add-to-my-cart-now/)
-* [1 hour ago
+    ### Review: The Soundboks 4 ‘Portable’ Speaker Is Overkill (in a Good Way)](https://digitpatrox.com/review-the-soundboks-4-portable-speaker-is-overkill-in-a-good-way/)
+* [43 mins ago
     
-    ### ChatGPT-4o can be used for autonomous voice-based scams](https://digitpatrox.com/chatgpt-4o-can-be-used-for-autonomous-voice-based-scams/)
-* [2 hours ago
+    ### Everything You Need for Your Next Homecoming Tailgate Party](https://digitpatrox.com/everything-you-need-for-your-next-homecoming-tailgate-party/)
+* [46 mins ago
     
-    ### How Track Star became your favorite musician’s favorite TikTok show](https://digitpatrox.com/how-track-star-became-your-favorite-musicians-favorite-tiktok-show/)
+    ### How to Change Your Action Button Based on Focus Mode](https://digitpatrox.com/how-to-change-your-action-button-based-on-focus-mode/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [September 7, 2024
     
-    ### Here comes the holodeck — AI breakthrough lets you play a game from an image](https://digitpatrox.com/here-comes-the-holodeck-ai-breakthrough-lets-you-play-a-game-from-an-image/)
-* [September 3, 2024
+    ### 7 best Tim Burton movies, ranked](https://digitpatrox.com/7-best-tim-burton-movies-ranked/)
+* [August 23, 2024
     
-    ### The 6 Best Antivirus Software Options for Windows in 2024](https://digitpatrox.com/the-6-best-antivirus-software-options-for-windows-in-2024/)
-* [5 days ago
+    ### Microsoft shares temp fix for Linux boot issues on dual-boot systems](https://digitpatrox.com/microsoft-shares-temp-fix-for-linux-boot-issues-on-dual-boot-systems/)
+* [September 23, 2024
     
-    ### Mac Mini with M4 Pro and 64GB RAM Leaked Ahead of the Launch](https://digitpatrox.com/mac-mini-with-m4-pro-and-64gb-ram-leaked-ahead-of-the-launch/)
+    ### Don’t Buy a Print Server, Build One on Linux Instead. Here’s How](https://digitpatrox.com/dont-buy-a-print-server-build-one-on-linux-instead-heres-how/)
 
 Last Modified Topics
 
+* [3 hours ago
+    
+    ### NYT Strands Today: Hints, Answers & Spangram for November 4](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-4/)
+* [4 hours ago
+    
+    ### Top Antivirus for Small Businesses in 2024](https://digitpatrox.com/top-antivirus-for-small-businesses-in-2024/)
 * [5 hours ago
     
-    ### Should You Use Synthetic Oil in Your Car?](https://digitpatrox.com/should-you-use-synthetic-oil-in-your-car/)
-* [5 hours ago
-    
-    ### Everything You Need to Know About Apple TV+](https://digitpatrox.com/everything-you-need-to-know-about-apple-tv/)
-* [6 hours ago
-    
-    ### AeroPress vs Chemex: Which brews a better coffee?](https://digitpatrox.com/aeropress-vs-chemex-which-brews-a-better-coffee/)
+    ### The Arlo Pro 5S Spotlight Security Camera Is $400 Off](https://digitpatrox.com/the-arlo-pro-5s-spotlight-security-camera-is-400-off/)
 
 Most Viewed Topics
 
-* [August 28, 2024
+* [August 13, 2024
     
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
-* [August 13, 2024
-    
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
