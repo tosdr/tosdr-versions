@@ -361,20 +361,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.mglc-lj.si](http://www.mglc-lj.si/)
     
-    [10:00 Magičnost drevnog - Venija Vučinić Turinski, BG](javascript:void(0);)
-    
-    **06.09.2024 | 10:00**
-    
-    **[Muzej savremene umetnosti Beograd](http://seecult.org/institucija/muzej-savremene-umetnosti-beograd)**
-    
-    Ciklus izložbi: Umetnost i ličnost - skulptorke iz kolekcije MSU
-    
-    **MAGIČNOST DREVNOG - VENIJA VUČINIĆ TURINSKI** (1934, Kolašin) - izložba (5.9.-23.11.2024.)
-    
-    autorka: dr Rajka Bošković
-    
-    [https://www.msub.org.rs](https://www.msub.org.rs/)
-    
     [10:00 New Era: umjetnički diskursi o društvenim i klimatskim promjenama, BL](javascript:void(0);)
     
     **06.09.2024 | 10:00**
@@ -413,6 +399,20 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://msurs.net](http://msurs.net/)
     
+    [10:00 Magičnost drevnog - Venija Vučinić Turinski, BG](javascript:void(0);)
+    
+    **06.09.2024 | 10:00**
+    
+    **[Muzej savremene umetnosti Beograd](http://seecult.org/institucija/muzej-savremene-umetnosti-beograd)**
+    
+    Ciklus izložbi: Umetnost i ličnost - skulptorke iz kolekcije MSU
+    
+    **MAGIČNOST DREVNOG - VENIJA VUČINIĆ TURINSKI** (1934, Kolašin) - izložba (5.9.-23.11.2024.)
+    
+    autorka: dr Rajka Bošković
+    
+    [https://www.msub.org.rs](https://www.msub.org.rs/)
+    
     [11:00 Misterij majstora Fortezze - Europska baština šibenskoga gravera, ZG](javascript:void(0);)
     
     **11.09.2024 | 11:00**
@@ -434,11 +434,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/nes-paripovic/primeri-analiticke-skulpture/primeri-analiticke-skulpture-detalj3-1978a.jpg?itok=02wpv-NZ)](http://seecult.org/galerija/galerija-umetnika/nesa-paripovic/primeri-analiticke-skulpture)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/its-z1/06.jpg?itok=CFmSQkmW)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/its-z1)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival/brazilian-girls-201007/didi-gutman-brazilian-girls-hard-rock.jpg?itok=HUG4iqDE)](http://seecult.org/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival/brazilian-girls-201007)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/mozart_0.jpg?itok=NG-_lTph)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
