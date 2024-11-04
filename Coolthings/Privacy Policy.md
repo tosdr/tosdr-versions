@@ -15,6 +15,11 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/mudita-kompakt-minimalist-phone-pocket-sized-ereader/)
+    
+    [Mudita Kompakt Puts Minimalist Phone Functions in a Pocket-Sized E-Reader](https://www.coolthings.com/mudita-kompakt-minimalist-phone-pocket-sized-ereader/)
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/eufy-smarttrack-card-e30-rechargeable-wallet-tracker-apple-find-my/)
     
     [eufy SmartTrack Card E30 Rechargeable Wallet Tracker Only Needs Once-a-Year Charging](https://www.coolthings.com/eufy-smarttrack-card-e30-rechargeable-wallet-tracker-apple-find-my/)
@@ -24,11 +29,6 @@
     
     [Vizio MicMe Transforms from Soundbar to Karaoke Machine](https://www.coolthings.com/vizio-micme-soundbar-subwoofer-two-mics-karaoke-machine/)
     ----------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/sennheiser-profile-wireless-combines-tabletop-handheld-clip-on-mics-all-in-one-system/)
-    
-    [Sennheiser Profile Wireless Combines Tabletop Mic, Handheld Mic, and Clip-On Mics in One Setup](https://www.coolthings.com/sennheiser-profile-wireless-combines-tabletop-handheld-clip-on-mics-all-in-one-system/)
-    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
@@ -43,6 +43,11 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/jansport-venture-pack-travel-backpack-40l-carry-on/)
+    
+    [JanSport Venture Pack Finally Adds a Travel Backpack to the Popular Outfit’s Range](https://www.coolthings.com/jansport-venture-pack-travel-backpack-40l-carry-on/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/insta360-ace-pro-2-8k-video-dual-ai-chips-wind-guard-audio/)
     
     [Insta360 Ace Pro 2 Brings 8K Video, Dual AI Chips, and Improved Audio Recording](https://www.coolthings.com/insta360-ace-pro-2-8k-video-dual-ai-chips-wind-guard-audio/)
@@ -52,11 +57,6 @@
     
     [Ultimate Ears Miniroll Speaker Can Be Mounted on Bag Straps, Handlebars, and a Whole Lot More](https://www.coolthings.com/ultimate-ears-miniroll-portable-bluetooth-speaker-rear-mounting-strap/)
     --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/outisan-e-wagon-air-motorized-utility-cart-150-pounds-load-10-degree-inclines/)
-    
-    [Outisan e-Wagon Air Motorized Utility Cart Makes Hauling 150 Pounds Easier than Ever](https://www.coolthings.com/outisan-e-wagon-air-motorized-utility-cart-150-pounds-load-10-degree-inclines/)
-    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
