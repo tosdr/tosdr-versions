@@ -1,4 +1,4 @@
-               Privacyverklaring | Kronch diervoeders                             
+               Privacyverklaring | Kronch diervoeders                         
 
 top of page
 
@@ -8,11 +8,11 @@ top of page
 
 * [HOME](https://www.kronch.nl/)
 * [HONDEN](https://www.kronch.nl/honden)
-    * [BASIC - ADULT](https://www.kronch.nl/hondenvoer-basic)
-    * [MAIN - ADULT SENIOR](https://www.kronch.nl/hondenvoer-senior)
-    * [OPTIMAL - PUPPYVOER](https://www.kronch.nl/puppyvoer)
+    * [BASIC - ADULT](https://www.kronch.nl/hondenvoer-met-zalm-basic)
+    * [MAIN - ADULT SENIOR](https://www.kronch.nl/main-senior-hondenvoer-met-zalm)
+    * [OPTIMAL - PUPPYVOER](https://www.kronch.nl/optimal-puppyvoer-met-zalm)
     * [PUPPYPAKKET OPTIMAL - KRONCH](https://www.kronch.nl/puppypakket)
-    * [ACTIVE - HIGH ENERGY](https://www.kronch.nl/active)
+    * [ACTIVE - HIGH ENERGY](https://www.kronch.nl/active-high-energy-hondenvoer)
     * [GRAANVRIJ - ADULT](https://www.kronch.nl/graanvrij-hondenvoer)
     * [LAKSE KRONCH "ORIGINAL" 100% ZALM](https://www.kronch.nl/lakse-kronch-original-100-zalm)
     * [LAKSE KRONCH "POCKET"](https://www.kronch.nl/lakse-kronch-pocket)
