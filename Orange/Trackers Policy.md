@@ -325,7 +325,7 @@ Orange peut être amené à modifier sa politique cookies, nous vous invitons à
 
  
 
-Dernière mise à jour le 22 avril 2024
+Dernière mise à jour le 22 octobre 2024
 
 * [1\. Un cookie qu’est-ce que c’est ?](#chapitre1)
 * [2\. Un cookie à quoi ça sert ?](#chapitre2)
