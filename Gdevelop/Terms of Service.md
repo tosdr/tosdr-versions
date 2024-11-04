@@ -318,8 +318,8 @@ Türkçe
 
 Join the community
 
-* [](https://forum.gdevelop.io/ "forums")
 * [](https://discord.gg/GDevelop "discord")
+* [](https://forum.gdevelop.io/ "forums")
 
 Stay tuned
 
