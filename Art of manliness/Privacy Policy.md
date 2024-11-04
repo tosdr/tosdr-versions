@@ -649,6 +649,12 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/knowledge-of-men/podcast-plutarchs-lives/)
+
+[Podcast #1,035
+
+###### A Bible for Heroes — The Influential Book Read By History’s Eminent Men](https://www.artofmanliness.com/character/knowledge-of-men/podcast-plutarchs-lives/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/behavior/podcast-1034-are-you-a-thrill-seeker-or-a-chill-seeker/)
 
 [Podcast #1,034
@@ -666,12 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #941
 
 ###### How to Avoid Death by Comfort](https://www.artofmanliness.com/health-fitness/health/podcast-941-how-to-avoid-death-by-comfort/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/living/reading/podcast-1032-lee-child-the-writer-jack-reacher-the-character-and-the-enduring-appeal-of-lone-wolves/)
-
-[Podcast #1,032
-
-###### Lee Child the Writer, Jack Reacher the Character, and the Enduring Appeal of Lone Wolves](https://www.artofmanliness.com/living/reading/podcast-1032-lee-child-the-writer-jack-reacher-the-character-and-the-enduring-appeal-of-lone-wolves/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
