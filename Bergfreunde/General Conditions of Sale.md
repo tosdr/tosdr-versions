@@ -384,22 +384,22 @@ Menü
     
 * [Winter](https://www.bergfreunde.de/winterausruestung/)
     
-    * [Skibekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--ski/ "Skibekleidung anzeigen")
+    * [Skibekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--/ "Skibekleidung anzeigen")
         * [Skijacken](https://www.bergfreunde.de/skijacken/ "Skijacken anzeigen")
         * [Skihosen](https://www.bergfreunde.de/skihosen/ "Skihosen anzeigen")
         * [Skiunterwäsche](https://www.bergfreunde.de/skiunterwaesche/ "Skiunterwäsche anzeigen")
         * [Skisocken](https://www.bergfreunde.de/skisocken/ "Skisocken anzeigen")
-        * [Skihandschuhe](https://www.bergfreunde.de/handschuhe/einsatzbereich--ski/ "Skihandschuhe anzeigen")
-        * [Skipullover](https://www.bergfreunde.de/pullover-hoodies/einsatzbereich--ski/ "Skipullover anzeigen")
-        * [» Alles anzeigen](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--ski/ "Skibekleidung anzeigen")
-    * [Winterbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--ski/?bfc-einsatzbereich[]=snowboard&bfc-einsatzbereich[]=langlauf&bfc-einsatzbereich[]=eisklettern&bfc-einsatzbereich[]=expedition "Winterbekleidung anzeigen")
+        * [Skihandschuhe](https://www.bergfreunde.de/handschuhe/einsatzbereich--/ "Skihandschuhe anzeigen")
+        * [Skipullover](https://www.bergfreunde.de/pullover-hoodies/einsatzbereich--/ "Skipullover anzeigen")
+        * [» Alles anzeigen](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--/ "Skibekleidung anzeigen")
+    * [Winterbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--/?bfc-einsatzbereich[]=snowboard&bfc-einsatzbereich[]=langlauf&bfc-einsatzbereich[]=&bfc-einsatzbereich[]=expedition "Winterbekleidung anzeigen")
         * [Winterjacken](https://www.bergfreunde.de/winterjacken/ "Winterjacken anzeigen")
         * [Daunenjacken](https://www.bergfreunde.de/daunenjacken/ "Daunenjacken anzeigen")
         * [Winterhosen](https://www.bergfreunde.de/winterhosen/ "Winterhosen anzeigen")
         * [Merinounterwäsche](https://www.bergfreunde.de/merinounterwaesche/ "Merinounterwäsche anzeigen")
         * [Merinosocken](https://www.bergfreunde.de/merinosocken/ "Merinosocken anzeigen")
         * [Handschuhe](https://www.bergfreunde.de/handschuhe/ "Handschuhe anzeigen")
-        * [» Alles anzeigen](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--ski/?bfc-einsatzbereich[]=snowboard&bfc-einsatzbereich[]=langlauf&bfc-einsatzbereich[]=eisklettern&bfc-einsatzbereich[]=expedition "Winterbekleidung anzeigen")
+        * [» Alles anzeigen](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--/?bfc-einsatzbereich[]=snowboard&bfc-einsatzbereich[]=langlauf&bfc-einsatzbereich[]=&bfc-einsatzbereich[]=expedition "Winterbekleidung anzeigen")
     * [Ski-Ausrüstung](https://www.bergfreunde.de/ski-ausruestung/ "Ski-Ausrüstung anzeigen")
         * [Skihelme](https://www.bergfreunde.de/skihelme/ "Skihelme anzeigen")
         * [Skibrillen](https://www.bergfreunde.de/skibrillen/ "Skibrillen anzeigen")
@@ -463,7 +463,7 @@ Menü
         * [Pulsuhren](https://www.bergfreunde.de/uhren/einsatzbereich--running/ "Pulsuhren anzeigen")
         * [» Alles anzeigen](https://www.bergfreunde.de/running/ "Running anzeigen")
     * [Wintersport](https://www.bergfreunde.de/wintersport/ "Wintersport anzeigen")
-        * [Skibekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--ski/ "Skibekleidung anzeigen")
+        * [Skibekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--/ "Skibekleidung anzeigen")
         * [Ski-Ausrüstung](https://www.bergfreunde.de/ski-ausruestung/ "Ski-Ausrüstung anzeigen")
         * [Winterschuhe](https://www.bergfreunde.de/winterschuhe/ "Winterschuhe anzeigen")
         * [Schneeschuhe](https://www.bergfreunde.de/schneeschuhe/ "Schneeschuhe anzeigen")
@@ -838,9 +838,9 @@ Weiterführende Informationen:
 
 Stand März 2024
 
-![Bergfreundin Johanna - Nachhaltigkeitsmanagement](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-johanna.png) Bergfreundin Johanna - Nachhaltigkeitsmanagement
+![Bergfreund Thomas - Versand](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-thomas.png) Bergfreund Thomas - Versand
 
-"Ich suche nach kleinen und großen Ideen, wie die Bergfreunde nachhaltiger werden können."
+"Wir geben alles, damit Dein Paket schnell bei Dir ankommt."
 
 [Portofrei ab € 69 (DE)](https://www.bergfreunde.de/versandkosten/ "Finde mehr Info zu den Versandkosten hier!")
 
@@ -848,11 +848,11 @@ Stand März 2024
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Gehe hier zu den Rückgabe-Richtlinien")
 
-[![So bewerten uns 43057 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+[![So bewerten uns 43092 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 43.057 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+So bewerten uns 43.092 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
