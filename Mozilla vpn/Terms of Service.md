@@ -185,7 +185,7 @@ Please download Firefox ESR (Extended Support Release) to use Firefox.
 Mozilla Subscription Services | Terms of Service
 ================================================
 
-Version 2.0, effective February 5, 2024
+Version 2.0, effective November 4, 2024
 
 Mozilla Corporation offers various services to improve your privacy and security online, including Mozilla VPN and Firefox Relay (the “Services”).
 
@@ -231,7 +231,7 @@ We only offer Mozilla VPN as a paid subscription service.
 
 ### You Must Be Eligible
 
-You must be in a country where the Service is available to download Mozilla VPN and use the Service. Currently, the Service is available in Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malaysia, Malta, the Netherlands, New Zealand, Poland, Portugal, Romania, Slovakia, Slovenia, Singapore, Spain, Sweden, Switzerland, the United Kingdom, and the United States.
+You must be in a country where the Service is available to download Mozilla VPN and use the Service. Currently, the Service is available in Australia, Austria, Bangladesh, Belgium, Brazil, Bulgaria, Canada, Chile, Colombia, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Germany, Greece, Hungary, India, Indonesia, Ireland, Italy, Kenya, Latvia, Lithuania, Luxembourg, Malaysia, Malta, Mexico, Morocco, the Netherlands, New Zealand, Nigeria, Norway, Poland, Portugal, Romania, Saudi Arabia, Senegal, Slovakia, Slovenia, Singapore, South Africa, South Korea, Spain, Sweden, Switzerland, Taiwan, Thailand, Türkiye, Uganda, Ukraine, the United Kingdom, the United States, and Vietnam.
 
 ### Permissions Necessary to Provide Mozilla VPN
 
@@ -397,7 +397,7 @@ Follow @Firefox
 * [Instagram (@firefox)](https://www.instagram.com/firefox/)
 * [YouTube (@firefoxchannel)](https://www.youtube.com/user/firefoxchannel)
 
-[Language](https://www.mozilla.org/locales/) Language Čeština Deutsch English Español (de España) Français magyar Italiano Melayu Nederlands Polski Română Go
+[Language](https://www.mozilla.org/locales/) Language Čeština Deutsch Ελληνικά English Español (de España) Français magyar Italiano 한국어 Melayu Nederlands Polski Português (do Brasil) Română Türkçe Українська Tiếng Việt 正體中文 (繁體) Go
 
 * [Website Privacy Notice](https://www.mozilla.org/en-US/privacy/websites/)
 * [Cookies](https://www.mozilla.org/en-US/privacy/websites/cookie-settings/)
