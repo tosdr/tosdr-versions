@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/overheid-brussel-we-zijn-geen-5g-proefkonijnen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/leerschool-2013%e2%80%99/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
