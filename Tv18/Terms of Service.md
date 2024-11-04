@@ -98,7 +98,7 @@ Discover CNBCTV18
 * [NewStartup Gurukul](https://hindi.cnbctv18.com/startup-gurukul?utm_source=cnbc_hp&utm_medium=website_redirect&utm_campaign=startup_gurukul "Startup Gurukul")
 * [NewLatest News](https://www.cnbctv18.com/latest-news/ "Latest News")
 * [LiveMarket Live](https://www.cnbctv18.com/market-live/ "Market Live")
-* [NewDiwali 2024](https://www.cnbctv18.com/diwali.htm "Diwali 2024")
+* [NewCalculators](https://www.cnbctv18.com/calculators/ "Calculators")
 
 [Home](https://www.cnbctv18.com/ "Home")
 ----------------------------------------
