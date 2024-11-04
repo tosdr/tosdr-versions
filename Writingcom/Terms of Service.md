@@ -12,13 +12,13 @@
 
 Est. %%EST%%
 
-  [![*Binoculars*](https://images.Writing.Com/imgs/writing.com/writers/e21/binoculars.png "Binoculars")  View Portfolio](https://www.writing.com/main/portfolio/view/%%REPLACE%%)  [![](https://www.Writing.Com/nw.gif)](https://www.writing.com/main/portfolio/view/%%REPLACE%% "New Window.")
+  [![*Binoculars*](https://images.Writing.Com/imgs/writing.com/writers/e21/binoculars.png "Binoculars")  View Portfolio](https://www.writing.com/main/portfolio/view/%%REPLACE%%)  [![Open in new Window.](https://www.Writing.Com/nw.gif)](https://www.writing.com/main/portfolio/view/%%REPLACE%% "New Window.")
 
-  [![*Notepad*](https://images.Writing.Com/imgs/writing.com/writers/e21/notepad.png "Notepad")  Visit Notebook](https://www.writing.com/main/profile/notebook/%%REPLACE%%)  [![](https://www.Writing.Com/nw.gif)](https://www.writing.com/main/profile/notebook/%%REPLACE%% "New Window.")
+  [![*Notepad*](https://images.Writing.Com/imgs/writing.com/writers/e21/notepad.png "Notepad")  Visit Notebook](https://www.writing.com/main/profile/notebook/%%REPLACE%%)  [![Open in new Window.](https://www.Writing.Com/nw.gif)](https://www.writing.com/main/profile/notebook/%%REPLACE%% "New Window.")
 
-  [![*Dollar*](https://images.Writing.Com/imgs/writing.com/writers/e21/dollar.png "Dollar")  Send Gift Points](https://www.writing.com/main/my_gifts/recipient_username/%%REPLACE%%)  [![](https://www.Writing.Com/nw.gif)](https://www.writing.com/main/my_gifts/recipient_username/%%REPLACE%% "New Window.")
+  [![*Dollar*](https://images.Writing.Com/imgs/writing.com/writers/e21/dollar.png "Dollar")  Send Gift Points](https://www.writing.com/main/my_gifts/recipient_username/%%REPLACE%%)  [![Open in new Window.](https://www.Writing.Com/nw.gif)](https://www.writing.com/main/my_gifts/recipient_username/%%REPLACE%% "New Window.")
 
-[Request Review: %%RRINFO%%](https://www.writing.com/main/profile/reviews/%%REPLACE%%)  [![](https://www.Writing.Com/nw.gif)](https://www.writing.com/main/profile/reviews/%%REPLACE%% "New Window.")
+[Request Review: %%RRINFO%%](https://www.writing.com/main/profile/reviews/%%REPLACE%%)  [![Open in new Window.](https://www.Writing.Com/nw.gif)](https://www.writing.com/main/profile/reviews/%%REPLACE%% "New Window.")
 
  [![*Ribbonb*](https://images.Writing.Com/imgs/writing.com/writers/e21/ribbonb.png "Ribbonb") Awards](https://www.writing.com/main/profile/awardicons/%%REPLACE%%)
 
@@ -28,11 +28,11 @@ Est. %%EST%%
 
 un: **%%REPLACE%%**
 
-  [![*At*](https://images.Writing.Com/imgs/writing.com/writers/e21/at.png "At")  Send Email](https://www.writing.com/main/em/action/new/toid/%%UID%%/in/1)  [![](https://www.Writing.Com/nw.gif)](javascript:LaunchPop('https://www.Writing.Com/main/em/action/new/toid/%%UID%%',   'mess', '710', '540') "New Window.")
+  [![*At*](https://images.Writing.Com/imgs/writing.com/writers/e21/at.png "At")  Send Email](https://www.writing.com/main/em/action/new/toid/%%UID%%/in/1)  [![Open in new Window.](https://www.Writing.Com/nw.gif)](javascript:LaunchPop('https://www.Writing.Com/main/em/action/new/toid/%%UID%%',   'mess', '710', '540') "New Window.")
 
-  [![*Badge*](https://images.Writing.Com/imgs/writing.com/writers/e21/badge.png "Badge")  Send Merit Badge](https://www.writing.com/main/badges/badgeto_un/%%REPLACE%%)  [![](https://www.Writing.Com/nw.gif)](https://www.writing.com/main/badges/badgeto_un/%%REPLACE%% "New Window.")
+  [![*Badge*](https://images.Writing.Com/imgs/writing.com/writers/e21/badge.png "Badge")  Send Merit Badge](https://www.writing.com/main/badges/badgeto_un/%%REPLACE%%)  [![Open in new Window.](https://www.Writing.Com/nw.gif)](https://www.writing.com/main/badges/badgeto_un/%%REPLACE%% "New Window.")
 
-  [![*Ribbonb*](https://images.Writing.Com/imgs/writing.com/writers/e21/ribbonb.png "Ribbonb")  Send Awardicon](https://www.writing.com/main/awardicons/awardto_id/%%REPLACE%%)  [![](https://www.Writing.Com/nw.gif)](https://www.writing.com/main/awardicons/awardto_id/%%REPLACE%% "New Window.")
+  [![*Ribbonb*](https://images.Writing.Com/imgs/writing.com/writers/e21/ribbonb.png "Ribbonb")  Send Awardicon](https://www.writing.com/main/awardicons/awardto_id/%%REPLACE%%)  [![Open in new Window.](https://www.Writing.Com/nw.gif)](https://www.writing.com/main/awardicons/awardto_id/%%REPLACE%% "New Window.")
 
  
 
@@ -107,4 +107,4 @@ We reserve the right to amend these Terms from time to time in our sole discreti
 12\. GOVERNING LAW  
 This TERMS OF SERVICE agreement and any disputes arising from it or the services of Writing.Com will be governed by and construed in accordance with the laws of the Commonwealth of Pennsylvania.
 
-(Generated in 0.03 seconds at 11:29am on Nov 04, 2024.)
+(Generated in 0.03 seconds at 5:32pm on Nov 04, 2024.)
