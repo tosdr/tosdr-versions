@@ -36,6 +36,9 @@
         
         Sophos reveals 5-year battle with Chinese hackers attacking network devices](https://www.bleepingcomputer.com/news/security/sophos-reveals-5-year-battle-with-chinese-hackers-attacking-network-devices/)
     
+    * [![Meet Interlock — The new ransomware targeting FreeBSD servers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Meet Interlock — The new ransomware targeting FreeBSD servers](https://www.bleepingcomputer.com/news/security/meet-interlock-the-new-ransomware-targeting-freebsd-servers/)
     * [![ChatGPT-4o can be used for autonomous voice-based scams](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         ChatGPT-4o can be used for autonomous voice-based scams](https://www.bleepingcomputer.com/news/security/chatgpt-4o-can-be-used-for-autonomous-voice-based-scams/)
@@ -45,9 +48,6 @@
     * [![Microsoft SharePoint RCE bug exploited to breach corporate network](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft SharePoint RCE bug exploited to breach corporate network](https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-rce-bug-exploited-to-breach-corporate-network/)
-    * [![Microsoft Outlook workaround fixes freezes when copying text](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft Outlook workaround fixes freezes when copying text](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-workaround-fixes-freezes-when-copying-text/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
