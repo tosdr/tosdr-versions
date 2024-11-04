@@ -6,6 +6,12 @@ Dismiss
 
 FutureLearn uses cookies to enhance your experience of the website. All but strictly necessary cookies are currently disabled for this browser. Turn on JavaScript to exercise your cookie preferences for all non-essential cookies. You can read FutureLearn's Cookie policy [here](https://www.futurelearn.com/info/terms/cookie-policy).
 
+Dismiss
+
+New lower prices! Get up to 50% off 1000s of courses.
+
+[Explore courses](https://www.futurelearn.com/courses)
+
 Search term
 
 Search
