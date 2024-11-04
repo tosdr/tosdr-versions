@@ -1,6 +1,6 @@
-**Did you know?** _The Patriot Post_ is funded 100% by its readers. Help us stay front and center in the fight for Liberty and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us).
+**Why We Ask:** Our mission and operations are funded 100% by conservatives like _you_. Please help us continue to extend Liberty to the next generation and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -195,7 +195,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111627-1-timothy-4-12-2024-11-03)
+     [](https://patriotpost.us/memes/111628-be-still-and-know-2024-11-04)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -207,6 +207,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Allen West The Rules of Radicals](https://patriotpost.us/opinion/111607-the-rules-of-radicals-2024-11-04)
 *      [Christine Yeargin The Path to Saving America Runs Through Homeschooling](https://patriotpost.us/opinion/111609-the-path-to-saving-america-runs-through-homeschooling-2024-11-02)
 *      [Allen West The Desperation of Kamala Harris](https://patriotpost.us/opinion/111606-the-desperation-of-kamala-harris-2024-11-02)
 *      [Matthew Continetti The Trump Flex](https://patriotpost.us/opinion/111605-the-trump-flex-2024-11-02)
@@ -214,7 +215,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Josh Hammer The Final Choice: Civilizational Arson Versus Civilizational Sanity](https://patriotpost.us/opinion/111587-the-final-choice-civilizational-arson-versus-civilizational-sanity-2024-11-01)
 *      [Victor Davis Hanson Once Joyful Harris Now Goes the Full McCarthyite](https://patriotpost.us/opinion/111584-once-joyful-harris-now-goes-the-full-mccarthyite-2024-11-01)
 *      [Erick Erickson Garbage In/Garbage Out](https://patriotpost.us/opinion/111583-garbage-in-slash-garbage-out-2024-11-01)
-*      [David Harsanyi RFK Is a Dangerous Quack](https://patriotpost.us/opinion/111582-rfk-is-a-dangerous-quack-2024-11-01)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,9 +228,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+[Wear Your Patriotism on Your Sleeve
 
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
