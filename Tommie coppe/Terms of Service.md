@@ -1,32 +1,32 @@
 [Skip to main content](#main-content)
 
-Up To 50% off Meloni's Must Haves DETAILS
+BOGO Free Shirts & Bras! DETAILS
 
-BOGO Free Compression Socks! DETAILS
+Save up to $75 on Infrared Therapy DETAILS
 
-MELONI'S MUST HAVES
-
-Close the Modal
-
-#### SAVE UP TO 50%
-
-[SHOP NOW](https://www.tommiecopper.com/special/melonis-must-haves/)
-
-Offer valid 11/1/2024 8AM ET - 11/4/2024 6AM ET.
-
-Up to 50% off Meloni's Must Haves discounts priced as marked. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
-
-COMPRESSION SOCKS
+BUY 1 GET 1 FREE
 
 Close the Modal
 
-#### Buy 1 Get 1 Free Today!
+#### Mix & match or double up. Compression shirts and bras are buy one get one FREE!
 
-[SHOP NOW](https://www.tommiecopper.com/compression-socks/)
+[SHOP NOW](https://www.tommiecopper.com/special/best-selling-shirts-bras)
 
-Offer valid 11/1/2024 8AM ET - 11/4/2024 6AM ET.
+Offer valid 11/4/2024 8AM ET - 11/6/2024 6AM ET.
 
-To receive Buy 1 Get 1 Free discount on all compression socks, must add two (2) eligible full-price items to cart. Discount automatically applied on lowest priced item. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+To receive Buy 1 Get 1 Free discount on Compression Bras & Shirts, must add two (2) eligible full-price bras and/or shirts to cart. Discount automatically applied on lowest priced item. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+
+INFRARED & RED LIGHT THERAPY
+
+Close the Modal
+
+#### Save Up To $75 on Infrared & Red Light Therapy Devices
+
+[SHOP NOW](https://www.tommiecopper.com/featured/infrared-red-light-devices/)
+
+Offer valid 11/4/2024 8AM ET - 11/6/2024 6AM ET.
+
+Infrared & Red Light Therapy Device discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
