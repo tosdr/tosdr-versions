@@ -20,7 +20,7 @@
     * [Grammar Guide](https://prowritingaid.com/en/GrammarGuide)
     * [Community](https://community.prowritingaid.com/home)
     * [Events](https://prowritingaid.com/online-creative-writing-classes)
-    * [FAQ](https://help.prowritingaid.com/)
+    * [Help Center](https://help.prowritingaid.com/)
 
 [Log in](https://prowritingaid.com/en/Account/Login2)[Sign up – it's free](https://prowritingaid.com/sign-up)
 
@@ -198,15 +198,15 @@ Features
 
 Learn More
 
-[Pricing](https://prowritingaid.com/pricing)[Blog](https://prowritingaid.com/blog)[Grammar Guide](https://prowritingaid.com/en/GrammarGuide)[FAQ](https://help.prowritingaid.com/)
+[Pricing](https://prowritingaid.com/pricing)[Blog](https://prowritingaid.com/blog)[Grammar Guide](https://prowritingaid.com/en/GrammarGuide)[Help Center](https://help.prowritingaid.com/)
 
 Company
 
 [About Us](https://prowritingaid.com/about-us)[Careers & Culture](https://prowritingaid.com/careers)[Affiliates](https://prowritingaid.com/affiliates)[Terms of Service](https://prowritingaid.com/en/Home/TermsOfService)[Privacy Policy](https://prowritingaid.com/en/Home/Privacy)[Cookie Policy](https://prowritingaid.com/en/Home/CookiePolicy)[GDPR](https://prowritingaid.com/en/Home/GDPR)[Sitemap](https://prowritingaid.com/en/Sitemap)
 
-Contact Us
+Need support?
 
-[Drop us a line](https://prowritingaid.com/en/Home/Contact)or let's stay in touch via:
+[Visit our Help Center](https://help.prowritingaid.com/)or let's stay in touch via:
 
 [](https://www.facebook.com/prowritingaid)[](https://twitter.com/prowritingaid)[](https://www.instagram.com/prowritingaid.insta/)[](https://www.youtube.com/channel/UClh8Sjuq-j17zxjfvvxmcIg)[](https://www.linkedin.com/company/prowritingaid)
 
