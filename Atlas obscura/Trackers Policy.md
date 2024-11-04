@@ -14,7 +14,34 @@ Force Open Search
 
 Open main menu
 
-Loading...
+![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
+
+Take your next trip with Atlas Obscura!
+---------------------------------------
+
+Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
+
+[Visit Adventures](https://www.atlasobscura.com/adventures/)
+
+Trips Highlight
+
+   [![Iceland - Northern Lights Aurora Borealis](https://img.atlasobscura.com/IyfPPV5wjzkxDQgpZ2TrTeys3Qwfd6OINBjYZ-z_oys/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy81MTA5/ZGM1YS01NmNjLTRh/MzUtOThhNC02Yzc1/MDEzN2Y3YzdhYzkx/ZmNlNTMwODk5NDE1/MGZfSWNlbGFuZCAx/IC0gTWFuIExvb2tp/bmcgYXQgTm9ydGhl/cm4gTGlnaHRzLnBu/Zw.png)](https://www.atlasobscura.com/adventures/trips/iceland-winter)
+
+Iceland • 8 days, 7 nights
+
+[Iceland in Winter: Northern Lights & Geothermal Marvels](https://www.atlasobscura.com/adventures/trips/iceland-winter)
+
+from
+
+   [![West Africa djembe](https://img.atlasobscura.com/7bKepEPqLJz5bMfvNetIHSXGyU6GJH_5ZmRGiBK8yvo/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy83OGU0/YWIzZS0xNDM5LTRi/ZDctOWRlZC0zZTcw/YzhlNTYxNTJkMjA5/NzIzN2M3MWU1YTk2/NWJfV2VzdCBBZnJp/Y2EgNCAtIGFmcmlj/YW4gZHJ1bW1pbmcu/cG5n.png)](https://www.atlasobscura.com/adventures/trips/west-africa)
+
+Benin • 13 days, 12 nights
+
+[NEW - Rhythms & Rituals: West Africa's Spiritual Traditions](https://www.atlasobscura.com/adventures/trips/west-africa)
+
+from
+
+[View all trips](https://www.atlasobscura.com/adventures/trips)
 
 Loading...
 
@@ -22,9 +49,53 @@ Loading...
 
 Loading...
 
-Loading...
+Latest Places to Eat & Drink
 
-Loading...
+[View All Places to Eat »](https://www.atlasobscura.com/cool-places-to-eat)
+
+   [![](https://img.atlasobscura.com/jaDz2TbGvVoE1mN7zXoqJ5nmmwFfhZ5bztztb3ItHq0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lNTdh/NDUwNy01NmRiLTQx/YzgtOWU0Mi02M2Zj/MmFlMzIxNzJjMDQz/NDBjYWQ5ZmJmYzlk/YThfYm95YXJkZWUy/LmpwZw.jpg)
+
+Chef Boyardee Statue](https://www.atlasobscura.com/places/chef-boyardee-statue)
+
+   [![Cevapčići at Sarajevo ‘84](https://img.atlasobscura.com/LE8qSSozBNYlyyHbL6Tz8u29d7LsFp_hglJAupgVfA8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wZTZj/NmVhYi1jMGEwLTQx/NTUtYjQ0Zi1kY2Mz/ZmFhMGFkYmYyOGVj/YzgwMjY5NDI4ZGMz/YmNfYjA2NWM2Zjkt/ZGJlMi00MmNiLTgy/N2YtMmZmZTJkOTAx/Nzc4LkpQRw.jpg)
+
+Sarajevo ‘84](https://www.atlasobscura.com/places/sarajevo-84)
+
+   [![In this salad, rice gets topped with pinches of toasted coconut, dried fish, finely-sliced herbs and vegetables, bean sprouts, a tiny knot of noodles, crushed black pepper and dried chili. ](https://img.atlasobscura.com/gQIl5_2prwKwbxcG4VdRWmHZ42_9k05Hvhma2Mu-5EE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yYmFm/YmI4MTVkODdkNWYy/YTNfMjAyMCBSaWNl/IFNhbGFkIHdpdGgg/TmFtIEJ1ZHUgRHJl/c3NpbmcgWWFsYSBU/aGFpbGFuZC0yNzI1/LmpwZw.jpg)
+
+Thai-Islam Phochana](https://www.atlasobscura.com/places/thai-islam-phochana)
+
+   [![With fat chunks of crab meat swimming in a lush coconut milk curry, it's no wonder this dish is so popular.](https://img.atlasobscura.com/l8puxatAy37DyemvB5yemqnL0De5nEIeo6ztO19a5C8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zZTA2/M2Y2MS1hYzUzLTRi/ZDYtYjIzMC04Y2U0/ODk0MjE5NjAyYmFk/MDVmNDE2MjgwNTNj/NzZfMjAyMSBDcmFi/IEN1cnJ5IFNlcnZl/ZCBvdmVyIFRoaW4g/UmljZSBOb29kbGVz/IFBodWtldCBUaGFp/bGFuZC03NzQ4Lmpw/Zw.jpg)
+
+Raya](https://www.atlasobscura.com/places/raya)
+
+   [![Meet boba tea's ancestral cousin.](https://img.atlasobscura.com/CwjPub0FbmraLphLV-Is6aMl2Zw2H7rlTjMxM0pvDMs/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zZDZi/NGEzNDNhNWFiNzZh/ZGRfMjAyMCBSZWFs/IFNhZ28gUGVhcmxz/IERyZXNzZWQgd2l0/aCBDb2NvbnV0IE1p/bGsgS2h1YW4gS2hh/bnVuIFBoYXR0aGFs/dW5nIFRoYWlsYW5k/LTU2MjcuanBn.jpg)
+
+Kanomwaan Pakee](https://www.atlasobscura.com/places/kanomwaan-pakee)
+
+Recent Stories
+
+[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
+
+Most Recent Stories
+
+[View All Stories »](https://www.atlasobscura.com/articles)
+
+   [![View from the overlook on Kuwohi of the mountain peaks and ridges of Great Smoky Mountains National Park.](https://img.atlasobscura.com/0hut3npUOFGbZAda6j1utVanzRDUt5KMjjy5J58oWx0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy82ZGYwZDlkZGM2/NzZhMmUxYTBfS3V3/b2hpXzAxLmpwZw.jpg)
+
+The Tallest of the Great Smoky Mountains Is—Officially—Kuwohi](https://www.atlasobscura.com/articles/kuwohi-not-clingmans-dome)
+
+   [![The Resolute Desk is considered the greatest of the presidential desks.](https://img.atlasobscura.com/fYV5xg1uuIrzVEsoO5ACJxXeTt6FeQo3qCG7Y8YkID8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8wN2IwOTQzNy01/NWY0LTRlN2YtYTA0/OC0wZTk5NjdjZmNl/YWI2YjFiNDliMDU0/ZDVhYmJlMjlfMWFj/YmJlYTQyYTM4ZTJm/Yzk5X0JhcmFja19P/YmFtYV9zaXR0aW5n/X2F0X3RoZV9SZXNv/bHV0ZV9kZXNrXzIw/MDkuanBn.jpg)
+
+7 Presidential Stories They Don't Teach in History Class](https://www.atlasobscura.com/articles/weird-president-stories)
+
+   [![Like some political issues, Watergate salad can be polarizing.](https://img.atlasobscura.com/rMYBm5_90JP9afI_wgupmXs9veJlIOn1PCHGMZGk8gc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy84NzVjOGQyZS01/ZDRlLTQyODEtYmIz/YS0yNGFiM2ZmY2Mx/ODdjYzk2YjJkZTBj/OWJlNDkxNzFfODA0/NDRlMjQtNzdkYy00/M2MxLWJlYmItN2Q1/ZTlkZjM3NzdjNmQ0/MGE4ZGRhNjgzYTgw/ZDk3X0lNR185ODI2/IDIuanBn.jpg)
+
+7 Candidates for Your Election Day Menu](https://www.atlasobscura.com/articles/political-food-election-recipes)
+
+   [![An award-winning bronze sculpture featured in the Beaufort County Library depicts a Gullah woman carrying a sweetgrass basket full of vegetables.](https://img.atlasobscura.com/ksXBvnpRdomzN87CyovbStaXjffQo-5KQZCcrOdtUXE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy80M2NlMWYxMjAy/MzU3YzVmNDRfaW1h/Z2U0LmpwZw.jpg)
+
+The Unique Gullah Geechee History of South Carolina](https://www.atlasobscura.com/articles/the-unique-gullah-geechee-history-of-south-carolina)
 
 No search results found for  
 “”
