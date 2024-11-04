@@ -25,7 +25,7 @@ From the blog:
 Master Terms of Service
 =======================
 
-_Last Updated: June 14, 2023. Please note that our English language terms are authoritative._
+_Last Updated: October 23, 2024. Please note that our English language terms are authoritative._
 
 Welcome to hCaptcha! Thank you for being a part of our community. All users of the "Services" (defined below) must agree to the following terms (the "Terms of Service"). Under these Terms of Service, "IMI", "we" and "us" refers to Intuition Machines, Inc. and its subsidiaries, affiliates, officers, agents, employees, representatives, and agents, and our "website" includes any website under our control, including www.hcaptcha.com and www.imachines.com.
 
@@ -149,7 +149,7 @@ If, for any reason, the Requester does not accept performance of a task you comp
 
 14\. Contributor Qualifications and Skills
 
-By performing tasks, you may accrue qualifications and skills, which we will grant in our discretion. We reserve the right to create, edit, or revoke your qualifications and skills at any time, for any reason or no reason at all. Because we do not discriminate on the basis of national origin, race, color, gender, sexual orientation, or any other class protected by law, you will have the same opportunity as any other Contributor to achieve access to tasks as your qualifications and skills accumulate. As a Contributor, if you believe that problematic test questions have affected your qualifications, skills, or rewards, you may provide well-supported contentions describing of problematic test questions via the task interface or via a ticket in our support system, for example via email at [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection).
+By performing tasks, you may accrue qualifications and skills, which we will grant in our discretion. We reserve the right to create, edit, or revoke your qualifications and skills at any time, for any reason or no reason at all. Because we do not discriminate on the basis of national origin, race, color, gender, sexual orientation, or any other class protected by law, you will have the same opportunity as any other Contributor to achieve access to tasks as your qualifications and skills accumulate. As a Contributor, if you believe that problematic test questions have affected your qualifications, skills, or rewards, you may provide well-supported contentions describing of problematic test questions via the task interface or via a ticket in our support system, for example via email at support@hcaptcha.com.
 
 15\. Our Use of Information
 
@@ -253,7 +253,7 @@ Assignability. You may not assign these Terms of Service without our prior writt
 
 Severability. If any provision of these Terms of Service is found invalid or unenforceable for any reason, it will not affect the validity and enforceability of any remaining provisions.
 
-Notice.  All notices related to these Terms of Service will be sent by e-mail or posted on our website. You must send notices to us at [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection). E-mail notices are deemed written notices for all purposes for which written notices may be required. E-mail notices are deemed received the business day after transmission of properly addressed to the intended recipient.
+Notice.  All notices related to these Terms of Service will be sent by e-mail or posted on our website. You must send notices to us at support@imachines.com. E-mail notices are deemed written notices for all purposes for which written notices may be required. E-mail notices are deemed received the business day after transmission of properly addressed to the intended recipient.
 
 Amendments.  No modification or amendment to these Terms of Service by anyone other than IMI shall be binding upon IMI unless in a written instrument signed by a duly authorized representative of IMI.
 
@@ -304,9 +304,7 @@ Except where we terminate this Customer Appendix or the Terms of Service as a re
 
 The maximum permitted peak RPS rate for hCaptcha Integrators or Customers is one thousand (1,000) requests per second to entities within your account ("RPS"), unless otherwise specified by a written contractual agreement between you and us.
 
-The maximum number of requests per month permitted under the hCaptcha Publisher (free) tier is one million (1,000,000) for Integrators, aside from use of the hCaptcha Services in a web application firewall or DDoS protection context, in which case the maximum number of monthly requests permitted is one hundred thousand (100,000). In the event that you exceed this quota without prior written authorization from us, your account will no longer be eligible for earnings, and we may elect to terminate your service if you continue to exceed the Publisher request quota. Please note that this quota applies across all accounts used by an organization or individual: in the event that you have signed up for ten free accounts, the total permitted requests per month is shared across them.
-
-Please note that only 100,000 requests per month are potentially eligible for earnings. Accounts that exceed this quantity of requests will no longer be eligible for earnings in that quarterly cycle. Similarly, earnings for eligible accounts do not roll over: accounts that do not reach the minimum payout threshold of 10 USD in a quarterly cycle window, do not opt in for a withdrawal during that that cycle and prior to reconciliation, or do not provide valid PayPal accounts prior to attempted transfers, will not retain those earnings points in the next cycle.
+The maximum number of requests per month permitted under the hCaptcha Publisher (free) tier is one million (1,000,000) for Integrators, aside from use of the hCaptcha Services in a web application firewall or DDoS protection context, in which case the maximum number of monthly requests permitted is one hundred thousand (100,000). In the event that you exceed this quota without prior written authorization from us, we may elect to terminate your service if you continue to exceed the Publisher request quota. Please note that this quota applies across all accounts used by an organization or individual: in the event that you have signed up for ten free accounts, the total permitted requests per month is shared across them.
 
 In the event that you are an Integrator or Customer of the hCaptcha Enterprise service and your API usage as measured by RPS exceeds the provisioned rate for your service tier, we may elect to modify your service or to charge an overage rate. In the event that your peak RPS rate exceeds the provisioned rate by a factor of 10 for 10 or more minutes in total within a 30 day period and the majority of these requests are, in our sole judgment, not malicious traffic, we may elect to charge you at your contractually specified overage rate for all API requests made in that month.
 
@@ -328,15 +326,13 @@ You acknowledge and agree that the Service and any of its data accessed by you s
 
 No person, entity, or organization sanctioned by the United States (a "Sanctioned Actor") or located in, organized under the laws of, or maintaining the citizenship of any Embargoed Countries is eligible for rewards or to use the Services as an Integrator. For the avoidance of doubt, this includes any Sanctioned Actors designated by the Office of Foreign Assets Control ("OFAC") of the US Department of the Treasury.
 
-For the avoidance of doubt, we also reserve the right to remove earnings eligibility, including retroactively, or terminate accounts for residents and citizens of countries designated as high risk by us at our sole discretion. This list currently includes citizens of the Russian Federation (Russia) and Belarus.
+For the avoidance of doubt, we also reserve the right to remove service eligibility, including retroactively, or terminate accounts for residents and citizens of countries designated as high risk by us at our sole discretion. This list currently includes citizens of the Russian Federation (Russia) and Belarus.
 
 10\. Integrator Incentives
 
-Please note: the Integrator Incentives program is ending effective June 15, 2023. After that date, no account will be eligible for incentives. The terms in this section 10 ("Integrator Incentives") apply to traffic received prior to that date.
+Please note: the Integrator Incentives program ended effective June 15, 2023. After that date, no account was eligible for incentives. The terms in this section 10 ("Integrator Incentives") below apply to traffic received prior to that date.
 
-We may from time to time make Integrator accounts eligible for incentives. These incentives are currently denominated via HMT points, where 1 HMT point is equal to 1 US dollar. Your incentive points may be increased, decreased, or eliminated at any time, including retroactively, at our sole discretion. PayPal is currently the only means of receiving these incentive points in cash form. Incentives are only available to Integrators with valid PayPal accounts and eligibility remains subject to all of our other Terms, including Sections 7 and 9. Payment schedules, formulas for calculating incentives, and types of requests eligible may change at any time. Information on payment schedules is maintained at: [https://www.hcaptcha.com/payment-schedules](https://www.hcaptcha.com/payment-schedules). Incentives do not accrue across payment schedule windows. If you have not opted in for a withdrawal using a valid PayPal account prior to a payment period's reconciliation window, you will no longer be eligible to receive incentives related to traffic in that period.
-
-You may alternatively assign any benefit from your incentives to a registered charity from the list made available on the Settings page in our dashboard, in which case a periodic aggregated payment from all eligible traffic may be made to that charity, subject to our Terms. Please note that this assignment of incentive points is not tax deductible by you.
+Incentive points may be increased, decreased, or eliminated at any time, including retroactively, at our sole discretion. Incentive points not withdrawn as of June 15, 2023 have expired, and may not be withdrawn after that date.
 
 Miscellaneous
 -------------
@@ -345,20 +341,20 @@ You may not assign, transfer, or delegate these Terms of Service or your rights 
 
 Translations of these Terms of Service are provided on a best-effort basis. In the event of any substantive difference between the English language Terms of Service and a translation thereof, the English language Terms of Service shall be construed as authoritative.
 
-Please contact us at [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection) if you have any questions regarding these Terms of Service.
+Please contact us at [support@hcaptcha.com](mailto:support@hcaptcha.com) if you have any questions regarding these Terms of Service.
 
 Business Continuity Planning Statement
 --------------------------------------
 
 Intuition Machines, Inc has developed a Business Continuity Plan on how we will respond to events that significantly disrupt our hCaptcha business. Since the timing and impact of disasters and disruptions is unpredictable, we will have to be flexible in responding to actual events as they occur. With that in mind, we are providing you with this information on our business continuity plan.
 
-‍**Contacting Us** – If after a significant business disruption you cannot contact us as you usually do at [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection), you should go to our website at hcaptcha.com or hcaptchastatus.com.
+‍**Contacting Us** – If after a significant business disruption you cannot contact us as you usually do at support@hcaptcha.com, you should go to our website at hcaptcha.com or hcaptchastatus.com.
 
 ‍**Our Business Continuity Plan** – We plan to quickly recover and resume business operations after a significant business disruption and respond by safeguarding our employees and property, making a financial and operational assessment, protecting the firm’s books and records, and allowing our customers and their end users to transact online. In short, our business continuity plan is designed to permit our firm to resume operations as quickly as possible, given the scope and severity of the significant business disruption.  Our business continuity plan addresses: data backup and recovery; all mission critical systems; financial and operational assessments; alternative communications with customers, employees, and oversight bodies; alternate physical location of employees; critical supplier and customer impact; regulatory reporting; and giving our customers prompt notice if we are unable to continue our business. Our core supplier pool backs up our important records in a geographically separate area. While every emergency situation poses unique problems based on external factors, such as time of day and the severity of the disruption, we have been advised by this supplier pool that their objective is to restore their own operations and be able to resume services rapidly. Although we have worked to reduce risk by using a diverse set of suppliers, your services could be modified or interrupted during this period.**‍**
 
 **Varying Disruptions** – Significant business disruptions can vary in their scope, such as only our firm, a single building housing our firm, the neighborhood where our firm is located, the city where we are located, or the whole region. Within each of these areas, the severity of the disruption can also vary from minimal to severe. In a disruption to our firm, our business district, city, or region or a building housing our firm, we will transfer our operations to a local site when needed and expect no material disruption to business operations. In either situation, we plan to continue in business, transfer operations to alternative suppliers if necessary, and notify you through our website at hcaptcha.com and our status page at hcaptchastatus.com as to how to contact us. If the significant business disruption is so severe that it prevents us from remaining in business, we will notify you expeditiously.
 
-‍**For more information** – If you have questions about our business continuity planning, you can contact us at [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection).  
+‍**For more information** – If you have questions about our business continuity planning, you can contact us at support@hcaptcha.com.  
 
 [](https://www.hcaptcha.com/labeling)
 
