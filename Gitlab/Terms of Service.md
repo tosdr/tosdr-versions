@@ -1075,6 +1075,7 @@
                     * [ ]  [Reliability:Database Reliability Team](https://handbook.gitlab.com/handbook/engineering/infrastructure/core-platform/data_stores/database-reliability/)
                         * [ ]  [DBRE Escalation Process](https://handbook.gitlab.com/handbook/engineering/infrastructure/core-platform/data_stores/database-reliability/dbre-escalation-process/)
                 * [ ]  [Core Platform:Systems Stage](https://handbook.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/)
+                    * [ ]  [Core Platform:Git Team](https://handbook.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/git/)
                     * [ ]  [Core Platform:Gitaly Team](https://handbook.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/gitaly/)
                         * [ ]  [Debugging the Gitaly service](https://handbook.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/gitaly/debug/)
                     * [ ]  [Distribution](https://handbook.gitlab.com/handbook/engineering/infrastructure/core-platform/systems/distribution/)
