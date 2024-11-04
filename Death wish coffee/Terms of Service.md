@@ -20,7 +20,7 @@
         * [Espresso Capsules](https://www.deathwishcoffee.com/collections/espresso-capsules)
         * [Instant](https://www.deathwishcoffee.com/products/death-wish-instant-coffee-1)
     * [Everyday Roasts](https://www.deathwishcoffee.com/collections/core-roasts)
-        * [Light Roast](https://www.deathwishcoffee.com/products/light-roast-coffee)
+        * [Light Roast](https://www.deathwishcoffee.com/collections/light-roast)
         * [Medium Roast](https://www.deathwishcoffee.com/collections/medium-roast)
         * [Dark Roast](https://www.deathwishcoffee.com/collections/dark-roast)
         * [Espresso Roast](https://www.deathwishcoffee.com/collections/espresso-roast)
@@ -82,7 +82,7 @@
     * [![Medium Roast Death Wish Coffee & Gateway Mug](//www.deathwishcoffee.com/cdn/shop/files/MR_Mug_Chemex_Resized.jpg?crop=center&height=500&v=1694033032&width=500)](https://www.deathwishcoffee.com/collections/core-roasts "Medium Roast Death Wish Coffee & Gateway Mug")
         
         [Everyday Roasts](https://www.deathwishcoffee.com/collections/core-roasts)
-        * [Light Roast](https://www.deathwishcoffee.com/products/light-roast-coffee)
+        * [Light Roast](https://www.deathwishcoffee.com/collections/light-roast)
         * [Medium Roast](https://www.deathwishcoffee.com/collections/medium-roast)
         * [Dark Roast](https://www.deathwishcoffee.com/collections/dark-roast)
         * [Espresso Roast](https://www.deathwishcoffee.com/collections/espresso-roast)
