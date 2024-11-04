@@ -165,32 +165,6 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Features
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/engineeredbasedadaptation_1400x1050.jpg)](https://www.icr.org/article/continuous-environmental-tracking-)
-
-[Continuous Environmental Tracking : An Engineering-Base.,.](https://www.icr.org/article/continuous-environmental-tracking-/)
-
-Purpose The Institute for Creation Research is engaged in our biggest science initiative in the last two decades, and it could be our most important...
-
-BY: [RANDY J. GULIUZZA, P.E., M.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=203)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/WhataWonderful.jpg)](https://www.icr.org/article/wonderful-2022-in-review)
-
-[What a Wonderful Year! 2022 in Review](https://www.icr.org/article/wonderful-2022-in-review/)
-
-Longtime readers of Acts & Facts may fondly recall how in the January issue ICR founder Dr. Henry M. Morris would sum up ICR’s major activities...
-
-BY: [RANDY J. GULIUZZA, P.E., M.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=203)
-
-[![](/i/Main%20Stage%20-%201400x1050/creation_kids_0321_humanhand.jpg)](https://www.icr.org/article/creation-kids-human-hands)
-
-[Creation Kids: Human Hands](https://www.icr.org/article/creation-kids-human-hands/)
-
-by Christy Hardy and Susan Windsor\* You’re never too young to be a creation scientist! Kids, discover fun facts about God’s creation...
-
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
