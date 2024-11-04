@@ -51,7 +51,7 @@ Search
 User account menu
 -----------------
 
-[![Shopping cart](/themes/react-app/src/assets/icon-cart-empty-white.svg)](https://www.lelo.com/cart)
+[![Shopping cart](/themes/react-app/src/assets/icons/icon-cart-empty-white.svg)](https://www.lelo.com/cart)
 
 back to menu
 ------------
