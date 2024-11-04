@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [DEATH NOTE Killer Within – The Official Rules to survive](https://en.bandainamcoent.eu/death-note/news/death-note-killer-within-the-official-rules-survive)
 * [DEATH NOTE Killer Within coming to PlayStation and PC on November 5](https://en.bandainamcoent.eu/death-note/news/death-note-killer-within-coming-playstation-and-pc-november-5)
-* [Little Nightmares Goes Trick-or-Treating in the Candy Factory for Halloween](https://en.bandainamcoent.eu/little-nightmares/news/little-nightmares-goes-trick-or-treating-the-candy-factory-halloween)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
