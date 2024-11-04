@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [GOP Underdog Gaining Momentum in Nevada US Senate Race](https://www.theepochtimes.com/us/gop-underdog-gaining-momentum-in-nevada-us-senate-race-5753269)
+    
+    1hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    
+    [![GOP Underdog Gaining Momentum in Nevada US Senate Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![GOP Underdog Gaining Momentum in Nevada US Senate Race](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753400-race_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/gop-underdog-gaining-momentum-in-nevada-us-senate-race-5753269)
+* [State Treasurers Urge Public Pension Funds to Divest From China](https://www.theepochtimes.com/business/state-treasurers-urge-public-pension-funds-to-divest-from-china-5753204)
+    
+    3hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    
+    [![State Treasurers Urge Public Pension Funds to Divest From China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![State Treasurers Urge Public Pension Funds to Divest From China](https://img.theepochtimes.com/assets/uploads/2023/09/13/id5528310-ChinaGettyImages-930380954-205x123.jpg.webp)](https://www.theepochtimes.com/business/state-treasurers-urge-public-pension-funds-to-divest-from-china-5753204)
+* [Medicare, Chronic Disease, and Drug Prices: Where Trump and Harris Stand on Health Policy](https://www.theepochtimes.com/us/medicare-chronic-disease-and-drug-prices-where-trump-and-harris-stand-on-health-policy-5751175)
+    
+    4hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
+    
+    [![Medicare, Chronic Disease, and Drug Prices: Where Trump and Harris Stand on Health Policy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Medicare, Chronic Disease, and Drug Prices: Where Trump and Harris Stand on Health Policy](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752939-Untitled_Artwork-8-205x123.jpg.webp)](https://www.theepochtimes.com/us/medicare-chronic-disease-and-drug-prices-where-trump-and-harris-stand-on-health-policy-5751175)
+* [Pennsylvania Investigating Possible Fraudulent Voter Registration Forms, Top Election Official Says](https://www.theepochtimes.com/us/pennsylvania-investigating-possible-fraudulent-voter-registration-forms-top-election-official-says-5753275)
+    
+    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Pennsylvania Investigating Possible Fraudulent Voter Registration Forms, Top Election Official Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Pennsylvania Investigating Possible Fraudulent Voter Registration Forms, Top Election Official Says](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753377-mail-in-ballot-GettyImages-2181265963-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-investigating-possible-fraudulent-voter-registration-forms-top-election-official-says-5753275)
+* [RFK Jr. Says Trump Would Push to End Adding Fluoride to Drinking Water](https://www.theepochtimes.com/us/rfk-jr-says-trump-would-push-to-end-adding-fluoride-to-drinking-water-5753245)
+    
+    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![RFK Jr. Says Trump Would Push to End Adding Fluoride to Drinking Water](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![RFK Jr. Says Trump Would Push to End Adding Fluoride to Drinking Water](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750483-09102024-DSC08867-RFK-JR-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/rfk-jr-says-trump-would-push-to-end-adding-fluoride-to-drinking-water-5753245)
+* [Majority of Gen Z Are of Voting Age This Year—Here Are the Issues They Care About Most](https://www.theepochtimes.com/article/majority-of-gen-z-of-voting-age-this-year-here-are-the-issues-they-care-about-most-5751580)
+    
+    6hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson) and [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    
+    [![Majority of Gen Z Are of Voting Age This Year—Here Are the Issues They Care About Most](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Majority of Gen Z Are of Voting Age This Year—Here Are the Issues They Care About Most](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753195-grey-205x123.jpg.webp)](https://www.theepochtimes.com/article/majority-of-gen-z-of-voting-age-this-year-here-are-the-issues-they-care-about-most-5751580)
+* [Harris Confirms She Voted by Mail, Doesn’t Say If She Voted for California’s Crime Measure](https://www.theepochtimes.com/us/harris-confirms-she-voted-by-mail-declines-to-say-if-she-voted-for-californias-crime-measure-5753280)
+    
+    6hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    
+    [![Harris Confirms She Voted by Mail, Doesn’t Say If She Voted for California’s Crime Measure](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Harris Confirms She Voted by Mail, Doesn’t Say If She Voted for California’s Crime Measure](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753343-Harris-AP24308673820069-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-confirms-she-voted-by-mail-declines-to-say-if-she-voted-for-californias-crime-measure-5753280)
 * [Rep. Raskin Says Democrats Will Accept Election Outcome If ‘Free and Fair’](https://www.theepochtimes.com/us/rep-raskin-says-democrats-will-accept-election-outcome-if-free-and-fair-5753112)
     
-    NEW By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    7hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
     
     [![Rep. Raskin Says Democrats Will Accept Election Outcome If ‘Free and Fair’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Rep. Raskin Says Democrats Will Accept Election Outcome If ‘Free and Fair’](https://img.theepochtimes.com/assets/uploads/2024/06/08/id5665177-06032024-DSC02153-Jamie-Raskin-205x123.jpg.webp)](https://www.theepochtimes.com/us/rep-raskin-says-democrats-will-accept-election-outcome-if-free-and-fair-5753112)
 * [Mpox Cases Spike 500 Percent in Africa in Past Year](https://www.theepochtimes.com/world/mpox-cases-spike-500-percent-in-africa-in-past-year-5753131)
     
-    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    7hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![Mpox Cases Spike 500 Percent in Africa in Past Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Mpox Cases Spike 500 Percent in Africa in Past Year](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5726787-AP24251685407074.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/mpox-cases-spike-500-percent-in-africa-in-past-year-5753131)
 * [Market Analysts Say Don’t Worry, Election’s Impact on Returns Will Likely Be Minimal](https://www.theepochtimes.com/business/market-analysts-say-dont-worry-elections-impact-on-returns-will-likely-be-minimal-5752941)
     
-    2hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
+    8hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
     
     [![Market Analysts Say Don’t Worry, Election’s Impact on Returns Will Likely Be Minimal](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Market Analysts Say Don’t Worry, Election’s Impact on Returns Will Likely Be Minimal](https://img.theepochtimes.com/assets/uploads/2024/08/16/id5707266-GettyImages-2164984365_squared-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/market-analysts-say-dont-worry-elections-impact-on-returns-will-likely-be-minimal-5752941)
-* [Major Chinese Airlines See Significant Profit Drop Despite Record High Passenger Traffic](https://www.theepochtimes.com/china/major-chinese-airlines-see-significant-profit-drop-in-3rd-quarter-despite-record-high-passenger-traffic-5752806)
-    
-    2hr By [Alex Wu](https://www.theepochtimes.com/author/alex-wu)
-    
-    [![Major Chinese Airlines See Significant Profit Drop Despite Record High Passenger Traffic](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Major Chinese Airlines See Significant Profit Drop Despite Record High Passenger Traffic](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753312-china-aircraft-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/major-chinese-airlines-see-significant-profit-drop-in-3rd-quarter-despite-record-high-passenger-traffic-5752806)
-* [2024 Election Is 2 Days Away: Here’s What the Final Polls Show](https://www.theepochtimes.com/us/2024-election-is-2-days-away-heres-what-the-final-polls-show-5753194)
-    
-    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![2024 Election Is 2 Days Away: Here’s What the Final Polls Show](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![2024 Election Is 2 Days Away: Here’s What the Final Polls Show](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753277-Harris-Trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/2024-election-is-2-days-away-heres-what-the-final-polls-show-5753194)
-* [Epoch Times Reporters Reveal Their Most Memorable Moments Covering the Race to the White House 2024](https://www.theepochtimes.com/us/epoch-times-reporters-reveal-their-most-memorable-moments-covering-the-race-to-the-white-house-2024-post-5752039)
-    
-    4hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester), [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle), [John Haughey](https://www.theepochtimes.com/author/john-haughey), [Madalina Vasiliu](https://www.theepochtimes.com/author/madalina-vasiliu), [Emel Akan](https://www.theepochtimes.com/author/emel-akan) and [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
-    
-    [![Epoch Times Reporters Reveal Their Most Memorable Moments Covering the Race to the White House 2024](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Epoch Times Reporters Reveal Their Most Memorable Moments Covering the Race to the White House 2024](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753244-ET-Team-at-Dem-Convention-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/epoch-times-reporters-reveal-their-most-memorable-moments-covering-the-race-to-the-white-house-2024-post-5752039)
-* [Final NYT/Siena Poll Shows Harris, Trump Leading in Different Key Battleground States](https://www.theepochtimes.com/us/final-nyt-siena-poll-shows-harris-trump-leading-in-different-key-battleground-states-5753183)
-    
-    4hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![Final NYT/Siena Poll Shows Harris, Trump Leading in Different Key Battleground States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Final NYT/Siena Poll Shows Harris, Trump Leading in Different Key Battleground States](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753178-trump-harris-MixCollage-03-Nov-2024-02-49-PM-8502-205x123.jpg.webp)](https://www.theepochtimes.com/us/final-nyt-siena-poll-shows-harris-trump-leading-in-different-key-battleground-states-5753183)
-* [Tariffs Are a Business Savior to Some, Inflation Trigger for Others](https://www.theepochtimes.com/us/tariffs-are-a-business-savior-to-some-inflation-trigger-for-others-5751790)
-    
-    5hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
-    
-    [![Tariffs Are a Business Savior to Some, Inflation Trigger for Others](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Tariffs Are a Business Savior to Some, Inflation Trigger for Others](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753058-IMGL1854-205x123.jpg.webp)](https://www.theepochtimes.com/us/tariffs-are-a-business-savior-to-some-inflation-trigger-for-others-5751790)
-* [Estée Lauder Is Paying the Price for Relying Too Much on China, Analysts Say](https://www.theepochtimes.com/business/estee-lauder-is-paying-the-price-for-relying-too-much-on-china-analysts-say-5752657)
-    
-    6hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
-    
-    [![Estée Lauder Is Paying the Price for Relying Too Much on China, Analysts Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Estée Lauder Is Paying the Price for Relying Too Much on China, Analysts Say](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753238-Estee-Lauder-cosmetics-counter-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/estee-lauder-is-paying-the-price-for-relying-too-much-on-china-analysts-say-5752657)
-* [FCC Commissioner Raises Concerns Over ‘Equal Time Rule’ After Harris ‘SNL’ Appearance](https://www.theepochtimes.com/us/harris-makes-surprise-appearance-on-snl-drawing-alarm-from-fcc-commissioner-5753168)
-    
-    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![FCC Commissioner Raises Concerns Over ‘Equal Time Rule’ After Harris ‘SNL’ Appearance](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![FCC Commissioner Raises Concerns Over ‘Equal Time Rule’ After Harris ‘SNL’ Appearance](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753318-Harris-Saturday-Night-Live-GettyImages-2181942074-205x123.jpg)](https://www.theepochtimes.com/us/harris-makes-surprise-appearance-on-snl-drawing-alarm-from-fcc-commissioner-5753168)
+    ![Market Analysts Say Don’t Worry, Election’s Impact on Returns Will Likely Be Minimal](https://img.theepochtimes.com/assets/uploads/2024/08/16/id5707310-GettyImages-2164984365_squared-LSeditKO-205x123.jpg.webp)](https://www.theepochtimes.com/business/market-analysts-say-dont-worry-elections-impact-on-returns-will-likely-be-minimal-5752941)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
