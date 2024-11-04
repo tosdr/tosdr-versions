@@ -58,6 +58,7 @@ Menu
     * [Wheels](https://www.xchair.com/products/fs-wheels)
     * [Stool Conversion](https://www.xchair.com/products/stool-conversion)
     * [All Office Chair Upgrades](https://www.xchair.com/collections/all-office-chair-upgrades)
+    * [All Accessories](https://www.xchair.com/collections/accessories)
     
     Office Essentials
     
@@ -67,6 +68,7 @@ Menu
     * [Power Hub](https://www.xchair.com/products/power-hub)
     * [Footrest](https://www.xchair.com/products/under-desk-3-inch-footrest)
     * [Shop All Office Essentials](https://www.xchair.com/collections/all-office-essentials)
+    * [All Accessories](https://www.xchair.com/collections/accessories)
     
     *       [![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
         
@@ -89,7 +91,7 @@ Menu
         
         Learn About The Dynamic Variable Lumbar (DVL)® Support.](https://www.xchair.com/pages/ergonomics)
     
-* [Sale](https://www.xchair.com/collections/refurbished)
+* [Sale](https://www.xchair.com/collections/sale)
 
 * [BAG](https://www.xchair.com/cart)
 * [SIGN IN](https://www.xchair.com/account/login)
@@ -131,6 +133,7 @@ Office Chair Upgrades
 * [Wheels](https://www.xchair.com/products/fs-wheels)
 * [Stool Conversion](https://www.xchair.com/products/stool-conversion)
 * [All Office Chair Upgrades](https://www.xchair.com/collections/all-office-chair-upgrades)
+* [All Accessories](https://www.xchair.com/collections/accessories)
 
 Office Essentials
 
@@ -140,6 +143,7 @@ Office Essentials
 * [Power Hub](https://www.xchair.com/products/power-hub)
 * [Footrest](https://www.xchair.com/products/under-desk-3-inch-footrest)
 * [Shop All Office Essentials](https://www.xchair.com/collections/all-office-essentials)
+* [All Accessories](https://www.xchair.com/collections/accessories)
 
 Why X-Chair
 
