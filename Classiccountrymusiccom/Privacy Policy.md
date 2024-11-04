@@ -98,9 +98,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Jamey Johnson Explains How Toby Keith’s...](https://classiccountrymusic.com/jamey-johnson-explains-how-toby-keiths-death-motivated-him-to-release-his-new-album/)
+* [Jimmy Buffett’s Daughter Delaney Accepts His...](https://classiccountrymusic.com/jimmy-buffetts-daughter-delaney-accepts-his-star-on-the-music-city-walk-of-fame/)
 * [Lee Ann Womack Dresses As Parker...](https://classiccountrymusic.com/lee-ann-womack-dresses-as-parker-mccollum-for-halloween-nails-it/)
-* [91-Year-Old Willie Nelson Releases New Album](https://classiccountrymusic.com/91-year-old-willie-nelson-releases-new-album/)
-* [Rex Linn Surprises Reba McEntire With...](https://classiccountrymusic.com/rex-linn-surprises-reba-mcentire-with-spooky-halloween-costume/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
@@ -122,9 +122,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/outlaw) [See All](https://classiccountrymusic.com/genre/outlaw)
 
+* [Jamey Johnson Explains How Toby Keith’s...](https://classiccountrymusic.com/jamey-johnson-explains-how-toby-keiths-death-motivated-him-to-release-his-new-album/)
 * [Hank Williams Jr. & Waylon Jennings’...](https://classiccountrymusic.com/hank-williams-jr-waylon-jennings-the-conversation-reaches-new-milestone-45-years-later/)
 * [Bronze Statue of Merle Haggard Unveiled...](https://classiccountrymusic.com/bronze-statue-of-merle-haggard-unveiled-in-muskogee-oklahoma/)
-* [Allman Brothers Band Member Johnny Neel...](https://classiccountrymusic.com/allman-brothers-band-member-johnny-neel-dies-at-70/)
 
 Privacy Policy
 ==============
