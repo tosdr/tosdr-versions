@@ -268,29 +268,6 @@ Derry's bywash
 [Motorists urged to find alternative routes into Derry city centre due to ongoing incident](https://www.derrynow.com/news/local-news/1646708/motorists-urged-to-find-alternative-routes-into-derry-city-centre-due-to-ongoing-incident.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police in Derry investigating sexually motivated attack on a woman in her 40s](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry investigating sexually motivated attack on a woman in her 40s")](https://www.derrynow.com/news/local-news/1646432/police-in-derry-investigating-sexually-motivated-attack-on-a-woman-in-her-40s.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police in Derry investigating sexually motivated attack on a woman in her 40s](https://www.derrynow.com/news/local-news/1646432/police-in-derry-investigating-sexually-motivated-attack-on-a-woman-in-her-40s.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry nun Sister Clare Crockett to be declared ‘Servant of God'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry nun Sister Clare Crockett to be declared ‘Servant of God'")](https://www.derrynow.com/news/local-news/1646259/derry-nun-sister-clare-crockett-to-be-declared-servant-of-god.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry nun Sister Clare Crockett to be declared ‘Servant of God'](https://www.derrynow.com/news/local-news/1646259/derry-nun-sister-clare-crockett-to-be-declared-servant-of-god.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1645575/derry-death-notices-monday-november-4-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, November 4, 2024](https://www.derrynow.com/news/deaths/1645575/derry-death-notices-monday-november-4-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry man charged with number of serious domestic abuse offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with number of serious domestic abuse offences")](https://www.derrynow.com/news/local-news/1646866/derry-man-charged-with-number-of-serious-domestic-abuse-offences.html)
 
 Derry Magistrate's Court
@@ -299,6 +276,13 @@ Derry Magistrate's Court
 
 [Derry man charged with number of serious domestic abuse offences](https://www.derrynow.com/news/local-news/1646866/derry-man-charged-with-number-of-serious-domestic-abuse-offences.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1645575/derry-death-notices-monday-november-4-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, November 4, 2024](https://www.derrynow.com/news/deaths/1645575/derry-death-notices-monday-november-4-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man charged with burglary of a parochial house remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with burglary of a parochial house remanded")](https://www.derrynow.com/news/local-news/1646861/derry-man-charged-with-burglary-of-a-parochial-house-remanded.html)
 
@@ -309,30 +293,19 @@ St Joseph's Church, Galliagh
 [Derry man charged with burglary of a parochial house remanded](https://www.derrynow.com/news/local-news/1646861/derry-man-charged-with-burglary-of-a-parochial-house-remanded.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Craigbane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Craigbane")](https://www.derrynow.com/news/derry-sport/1646562/craigbane-book-their-place-in-ulster-semi-finals-with-thrilling-victory-over-knockbride.html)
-
-Craigbane have booked their place in the Ulster semi-finals.
+[![PICTURES: Derry City fans out in force for Derry v. Shelbourne game](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Derry City fans out in force for Derry v. Shelbourne game")](https://www.derrynow.com/news/derry-sport/1646895/pictures-derry-city-fans-out-in-force-for-derry-v-shelbourne-game.html)
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Craigbane book their place in Ulster semi-finals with thrilling victory over Knockbride](https://www.derrynow.com/news/derry-sport/1646562/craigbane-book-their-place-in-ulster-semi-finals-with-thrilling-victory-over-knockbride.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PICTURES: Derry City fans out in force for Derry v. Shelbourne game](https://www.derrynow.com/news/derry-sport/1646895/pictures-derry-city-fans-out-in-force-for-derry-v-shelbourne-game.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police probe potential link between two knifepoint sexually motivated attacks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police probe potential link between two knifepoint sexually motivated attacks")](https://www.derrynow.com/news/northern-ireland/1646446/police-probe-potential-link-between-two-knifepoint-sexually-motivated-attacks.html)
+[![IN PICTURES: Fun and excitement as Cullens Halloween Carnival Funfair comes to Ebrington](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Fun and excitement as Cullens Halloween Carnival Funfair comes to Ebrington")](https://www.derrynow.com/story-telling/pictures---videos/1646906/in-pictures-fun-and-excitement-as-cullens-halloween-carnival-funfair-comes-to-ebrington.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Police probe potential link between two knifepoint sexually motivated attacks](https://www.derrynow.com/news/northern-ireland/1646446/police-probe-potential-link-between-two-knifepoint-sexually-motivated-attacks.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ballinderry Shamrocks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinderry Shamrocks")](https://www.derrynow.com/news/derry-sport/1646569/ryan-bell-hails-massive-victory-for-ballinderry.html)
-
-Ballinderry celebrate their Intermediate title win at Owenbeg. Pic by George Sweeney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Ryan Bell hails 'massive' victory for Ballinderry](https://www.derrynow.com/news/derry-sport/1646569/ryan-bell-hails-massive-victory-for-ballinderry.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Fun and excitement as Cullens Halloween Carnival Funfair comes to Ebrington](https://www.derrynow.com/story-telling/pictures---videos/1646906/in-pictures-fun-and-excitement-as-cullens-halloween-carnival-funfair-comes-to-ebrington.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![£65m investment announced for six new community spaces](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£65m investment announced for six new community spaces")](https://www.derrynow.com/news/derry-news/1646875/65m-investment-announced-for-six-new-community-spaces.html)
 
@@ -343,11 +316,50 @@ Ulster University Dome, artist impression
 [£65m investment announced for six new community spaces](https://www.derrynow.com/news/derry-news/1646875/65m-investment-announced-for-six-new-community-spaces.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Mayor of Derry and Strabane at the landing of the first EasyJet flight from Edinburgh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mayor of Derry and Strabane at the landing of the first EasyJet flight from Edinburgh")](https://www.derrynow.com/news/derry-news/1646939/history-as-new-edinburgh-and-liverpool-easyjet-flights-take-off-from-city-of-derry-airport.html)
+
+Mayor of Derry and Strabane at the landing of the first EasyJet flight from Edinburgh
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[History as new Edinburgh and Liverpool easyJet flights take off from City of Derry airport](https://www.derrynow.com/news/derry-news/1646939/history-as-new-edinburgh-and-liverpool-easyjet-flights-take-off-from-city-of-derry-airport.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Rally for women's safety to be held in Derry following series of attacks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Rally for women's safety to be held in Derry following series of attacks")](https://www.derrynow.com/news/local-news/1646819/rally-for-women-s-safety-to-be-held-in-derry-following-series-of-attacks.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Rally for women's safety to be held in Derry following series of attacks](https://www.derrynow.com/news/local-news/1646819/rally-for-women-s-safety-to-be-held-in-derry-following-series-of-attacks.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PSNI press conference on the recent attacks to women in the city](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI press conference on the recent attacks to women in the city")](https://www.derrynow.com/news/derry-news/1647164/derry-psni-reassurance-for-women-following-recent-attacks-in-city-area.html)
+
+PSNI press conference on the recent attacks to women in the city
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry PSNI 'reassurance' for women following recent attacks in city area](https://www.derrynow.com/news/derry-news/1647164/derry-psni-reassurance-for-women-following-recent-attacks-in-city-area.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Tony 'Toe' O'Connor's 50th birthday celebrations in Link 48](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Tony 'Toe' O'Connor's 50th birthday celebrations in Link 48")](https://www.derrynow.com/story-telling/pictures---videos/1646971/in-pictures-tony-toe-o-connor-s-50th-birthday-celebrations-in-link-48.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Tony 'Toe' O'Connor's 50th birthday celebrations in Link 48](https://www.derrynow.com/story-telling/pictures---videos/1646971/in-pictures-tony-toe-o-connor-s-50th-birthday-celebrations-in-link-48.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Fun and excitement as Cullens Halloween Carnival Funfair comes to Ebrington](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Fun and excitement as Cullens Halloween Carnival Funfair comes to Ebrington")](https://www.derrynow.com/story-telling/pictures---videos/1646906/in-pictures-fun-and-excitement-as-cullens-halloween-carnival-funfair-comes-to-ebrington.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Fun and excitement as Cullens Halloween Carnival Funfair comes to Ebrington](https://www.derrynow.com/story-telling/pictures---videos/1646906/in-pictures-fun-and-excitement-as-cullens-halloween-carnival-funfair-comes-to-ebrington.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: Derry City fans out in force for Derry v. Shelbourne game](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Derry City fans out in force for Derry v. Shelbourne game")](https://www.derrynow.com/news/derry-sport/1646895/pictures-derry-city-fans-out-in-force-for-derry-v-shelbourne-game.html)
 
@@ -404,20 +416,6 @@ Multimedia
 
 [IN PICTURES: Óglach Michael Meenan 50th anniversary commemoration in Derry](https://www.derrynow.com/story-telling/pictures---videos/1644091/in-pictures-oglach-michael-meenan-50th-anniversary-commemoration-in-derry.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Thursday: Partytime out and about in Derry's Sugar Nightclub (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about in Derry's Sugar Nightclub (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1639817/throwback-thursday-partytime-out-and-about-in-derry-s-sugar-nightclub-2009.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Thursday: Partytime out and about in Derry's Sugar Nightclub (2009)](https://www.derrynow.com/story-telling/pictures---videos/1639817/throwback-thursday-partytime-out-and-about-in-derry-s-sugar-nightclub-2009.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Derry Halloween cross community supper dance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Derry Halloween cross community supper dance")](https://www.derrynow.com/news/pictures---videos/1643188/pictures-derry-halloween-cross-community-supper-dance.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Derry Halloween cross community supper dance](https://www.derrynow.com/news/pictures---videos/1643188/pictures-derry-halloween-cross-community-supper-dance.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,57 +517,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry man charged with number of serious domestic abuse offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with number of serious domestic abuse offences")](https://www.derrynow.com/news/local-news/1646866/derry-man-charged-with-number-of-serious-domestic-abuse-offences.html)
+[![Derry former viral sensation 'Frostbit Boy' launches company to promote charity and prize giveaways](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry former viral sensation 'Frostbit Boy' launches company to promote charity and prize giveaways")](https://www.derrynow.com/news/home/1647093/derry-former-viral-sensation-frostbit-boy-launches-company-to-promote-charity-and-prize-giveaways.html)
 
-Derry Magistrate's Court
+[Home](https://www.derrynow.com/)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry former viral sensation 'Frostbit Boy' launches company to promote charity and prize giveaways](https://www.derrynow.com/news/home/1647093/derry-former-viral-sensation-frostbit-boy-launches-company-to-promote-charity-and-prize-giveaways.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Derry man charged with number of serious domestic abuse offences](https://www.derrynow.com/news/local-news/1646866/derry-man-charged-with-number-of-serious-domestic-abuse-offences.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Glen Miller](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Glen Miller")](https://www.derrynow.com/news/derry-news/1647166/community-stands-united-local-business-owner-glen-miller-to-distribute-personal-safety-alarms-at-womens-rally-in-the-greater-north-west.html)
 
-[![Derry community organisations honoured at 2024 Pride of Place Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry community organisations honoured at 2024 Pride of Place Awards")](https://www.derrynow.com/news/local-news/1646864/derry-community-organisations-honoured-at-2024-pride-of-place-awards.html)
-
-Mayor of Derry City and Strabane District Council, Councillor Lilian Seenoi-Barr with representatives from DEEDS at the 2024 Pride of Place Awards
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry community organisations honoured at 2024 Pride of Place Awards](https://www.derrynow.com/news/local-news/1646864/derry-community-organisations-honoured-at-2024-pride-of-place-awards.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man charged with burglary of a parochial house remanded](https://www.derrynow.com/resizer/165/93/true/2024_11_04/DSC_9566-938x624-1-1730720634175.jpg--.jpg?1730720634205 "Derry man charged with burglary of a parochial house remanded")](https://www.derrynow.com/news/local-news/1646861/derry-man-charged-with-burglary-of-a-parochial-house-remanded.html)
-
-St Joseph's Church, Galliagh
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man charged with burglary of a parochial house remanded](https://www.derrynow.com/news/local-news/1646861/derry-man-charged-with-burglary-of-a-parochial-house-remanded.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![£65m investment announced for six new community spaces](https://www.derrynow.com/resizer/165/93/true/2024_11_04/UU_Dome_2-1730721425330.png--.png?1730721425370 "£65m investment announced for six new community spaces")](https://www.derrynow.com/news/derry-news/1646875/65m-investment-announced-for-six-new-community-spaces.html)
-
-Ulster University Dome, artist impression
+Glen Miller
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[£65m investment announced for six new community spaces](https://www.derrynow.com/news/derry-news/1646875/65m-investment-announced-for-six-new-community-spaces.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Community Stands United: Local Business Owner Glen Miller to Distribute Personal Safety Alarms at Women’s Rally in the Greater North West](https://www.derrynow.com/news/derry-news/1647166/community-stands-united-local-business-owner-glen-miller-to-distribute-personal-safety-alarms-at-womens-rally-in-the-greater-north-west.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Rally for women's safety to be held in Derry following series of attacks](https://www.derrynow.com/resizer/165/93/true/2024_11_04/465557570_505200242514632_1398749434527257691_n-1730717614887.jpg--.jpg?1730717614963 "Rally for women's safety to be held in Derry following series of attacks")](https://www.derrynow.com/news/local-news/1646819/rally-for-women-s-safety-to-be-held-in-derry-following-series-of-attacks.html)
+[![Mayor issues rallying call to Derry City fans ahead of FAI Cup final](https://www.derrynow.com/resizer/165/93/true/2024_11_04/MayorFAICup0411247-1730738932916.jpg--.jpg?1730738933505 "Mayor issues rallying call to Derry City fans ahead of FAI Cup final")](https://www.derrynow.com/news/derry-sport/1647217/mayor-issues-rallying-call-to-derry-city-fans-ahead-of-fai-cup-final.html)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Mayor issues rallying call to Derry City fans ahead of FAI Cup final](https://www.derrynow.com/news/derry-sport/1647217/mayor-issues-rallying-call-to-derry-city-fans-ahead-of-fai-cup-final.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PSNI press conference on the recent attacks to women in the city](https://www.derrynow.com/resizer/165/93/true/2024_11_04/20241104_135835-1730737140339_1730741442.jpg--.jpg?1730741442072 "PSNI press conference on the recent attacks to women in the city")](https://www.derrynow.com/news/derry-news/1647164/derry-psni-reassurance-for-women-following-recent-attacks-in-city-area.html)
+
+PSNI press conference on the recent attacks to women in the city
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry PSNI 'reassurance' for women following recent attacks in city area](https://www.derrynow.com/news/derry-news/1647164/derry-psni-reassurance-for-women-following-recent-attacks-in-city-area.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![C](https://www.derrynow.com/resizer/165/93/true/1518086819560.jpg--.jpg?1518086819000 "C")](https://www.derrynow.com/news/county-derry-post/1646951/the-british-chancellors-budget-on-wednesday-has-created-anxiety-and-uncertainty-for-the-farming-community-in-the-north.html)
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[The British Chancellor’s budget on Wednesday has created anxiety and uncertainty for the farming community in the North](https://www.derrynow.com/news/county-derry-post/1646951/the-british-chancellors-budget-on-wednesday-has-created-anxiety-and-uncertainty-for-the-farming-community-in-the-north.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry to host annual North West Future of Energy Conference](https://www.derrynow.com/resizer/165/93/true/2024_11_04/DSCF0334-min-1730728150419.jpg--.jpg?1730728156607 "Derry to host annual North West Future of Energy Conference")](https://www.derrynow.com/news/local-news/1647017/derry-to-host-annual-north-west-future-of-energy-conference.html)
+
+Speakers at the 2023 North West Future of Energy Conference
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Rally for women's safety to be held in Derry following series of attacks](https://www.derrynow.com/news/local-news/1646819/rally-for-women-s-safety-to-be-held-in-derry-following-series-of-attacks.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Motorists urged to find alternative routes into Derry city centre due to ongoing incident](https://www.derrynow.com/resizer/165/93/true/2024_11_04/bywash-1730708084005.JPG--.JPG?1730708084030 "Motorists urged to find alternative routes into Derry city centre due to ongoing incident")](https://www.derrynow.com/news/local-news/1646708/motorists-urged-to-find-alternative-routes-into-derry-city-centre-due-to-ongoing-incident.html)
-
-Derry's bywash
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Motorists urged to find alternative routes into Derry city centre due to ongoing incident](https://www.derrynow.com/news/local-news/1646708/motorists-urged-to-find-alternative-routes-into-derry-city-centre-due-to-ongoing-incident.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry to host annual North West Future of Energy Conference](https://www.derrynow.com/news/local-news/1647017/derry-to-host-annual-north-west-future-of-energy-conference.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
