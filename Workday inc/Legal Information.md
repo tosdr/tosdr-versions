@@ -63,6 +63,8 @@ Skip to main content
                 
                 * #### [Financial Planning](https://www.workday.com/en-us/products/adaptive-planning/financial-planning/overview.html "Financial Planning")
                     
+                * #### [Close & Consolidation](https://www.workday.com/en-us/products/adaptive-planning/epm-close-and-consolidation-software.html "Close & Consolidation")
+                    
                 * #### [Workforce Planning](https://www.workday.com/en-us/products/adaptive-planning/workforce-planning/overview.html "Workforce Planning")
                     
                 * #### [Operational Planning](https://www.workday.com/en-us/products/adaptive-planning/operational-planning/overview.html "Operational Planning")
