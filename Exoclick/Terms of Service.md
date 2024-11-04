@@ -46,7 +46,7 @@ Terms & Conditions
 
 **TERMS AND CONDITIONS FOR PUBLISHER(S) AND ADVERTISER(S)**
 
-Effective on 12 December 2023
+Effective on 31 October 2024
 
 **THIS IS A LEGAL AGREEMENT BETWEEN YOU (“PUBLISHER” OR “ADVERTISER”) AND EXOCLICK, S.L. (“EXOCLICK NETWORK” OR “EXOCLICK PLATFORM”) STATING THE TERMS AND CONDITIONS THAT GOVERN YOUR PARTICIPATION IN THE EXOCLICK NETWORK. PLEASE READ THESE EXOCLICK TERMS AND CONDITIONS (“AGREEMENT”) AND THE DATA PROCESSING AGREEMENT (“DPA”) BEFORE PRESSING THE “SIGNUP” BUTTON AT THE BOTTOM OF THE SIGNUP PAGE. BY PRESSING “SIGNUP” YOU ARE AGREEING TO BE BOUND BY THE TERMS AND CONDITIONS AND THE DATA PROCESSING AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS AND THE DATA PROCESSING AGREEMENT, YOU WILL BE UNABLE TO PARTICIPATE ON THE EXOCLICK NETWORK.**
 
@@ -92,7 +92,7 @@ Advertisers and Publishers shall always comply with ExoClick’s policies, inclu
 
 **TWO.- PUBLISHER ELIGIBLE WEBSITE(S).**
 
-2.1. ExoClick reserves the right to approve or to deny the affiliation of a Publisher at any time. If not approved, Publisher shall not be entitled to the payment of the revenue displayed in its Administration Panel. It is the Publisher’s obligation to make sure it complies, at all times, with ExoClicks’ eligibility rules. The following are examples of Publisher´s Website(s) that are not eligible for participation on the ExoClick Network:
+2.1. ExoClick reserves the right to approve or to deny the affiliation of a Publisher at any time. If not approved, Publisher shall not be entitled to the payment of the revenue displayed in its Administration Panel. It is the Publisher’s obligation to make sure it complies, at all times, with ExoClicks’ eligibility rules available in [Publisher Guidelines](https://www.exoclick.com/guidelines/).  The following are examples of Publisher´s Website(s) that are not eligible for participation on the ExoClick Network:
 
 – Websites which contain material that infringes the rights of others (including but not limited to copyright and other intellectual property rights) or which promotes copyright piracy.
 
@@ -118,11 +118,11 @@ Advertisers and Publishers shall always comply with ExoClick’s policies, inclu
 
 – Websites presenting no added value to the users.
 
-2.2. ExoClick does not control or monitor Publishers Website(s). However, a Website may be brought to its attention or may be checked for any reason. If ExoClick determines that Publisher’s Website(s) includes any forbidden content, ExoClick may close Publisher’s account without prior notification. In such a case, as a penalty for the breach of this Agreement Publisher shall not be entitled to the payment of any amounts remaining in its Administration Panel, regardless of any other or further liability incurred by the Publisher.
+2.2. ExoClick does not control or monitor Publishers Website(s). However, a Website may be brought to its attention or may be checked for any reason at ExoClick’s sole discretion, at any time. If ExoClick determines that Publisher’s Website(s) includes any forbidden content, ExoClick may close Publisher’s account without prior notification. In such a case, as a penalty for the breach of this Agreement Publisher shall not be entitled to the payment of any amounts remaining in its Administration Panel, regardless of any other or further liability incurred by the Publisher.
 
 **THREE.- SUB-PUBLISHERS.**
 
-Publishers who are operating a network with Sub-Publishers themselves hereby guarantee to communicate this Agreement to their Sub-Publishers and to monitor and enforce their compliance. Publishers will be held liable for the conduct of their Sub-Publishers.
+Publishers who are operating a network with Sub-Publishers themselves hereby guarantee to communicate this Agreement to their Sub-Publishers and to monitor and enforce their compliance. Publishers will be held liable for the conduct of their Sub-Publishers. Sub-Publishers shall be bound by terms of, at least, equal nature and content to those set forth herein to the Publisher.
 
 **FOUR.- MISUSE.**
 
@@ -136,7 +136,7 @@ Publishers who are operating a network with Sub-Publishers themselves hereby gua
 
 4.2.3. Brand-Bidding.
 
-4.3. Any form of misuse will lead to the blocking of the Publishers’ accounts immediately. In this case Publishers may raise an objection (i.e. via letter, fax, e-mail) within a month in order to provide a statement and evidence that the chosen form of advertising has been in accordance with this Agreement. If the Publisher cannot confute the breach of this Agreement, ExoClick will issue a notice of termination. In the event of termination, the Agreement will be wound up and liquidated pursuant to the stipulations of Clause 12 of this Agreement. As a penalty for the breach of this Agreement, the Publisher shall not be entitled to any remuneration, regardless of any other or further liability incurred by the Publisher.
+4.3. Any form of misuse will lead to the blocking of the Publishers’ accounts immediately. In this case Publishers may raise an objection (i.e. via certified letter, fax, and/or e-mail with confirmation of receipt) within a month in order to provide a statement and evidence that the chosen form of advertising has been in accordance with this Agreement. If the Publisher cannot confute the breach of this Agreement, ExoClick will issue a notice of termination. In the event of termination, the Agreement will be wound up and liquidated pursuant to the stipulations of Clause 12 of this Agreement. As a penalty for the breach of this Agreement, the Publisher shall not be entitled to any remuneration, regardless of any other or further liability incurred by the Publisher.
 
 4.4. Fraudulent Impressions. ExoClick’s ad server will be the official counter for determining the number of Advertising Material delivered under and amounts payable under this Agreement. Any method to artificially and/or fraudulently inflates the volume of impressions or clicks is strictly forbidden. Counts of impressions or clicks will be decided solely on the basis of reports generated by ExoClick Advertising Network. Any method to artificially and/or fraudulently inflate the volume of impressions or clicks is strictly forbidden. These prohibited methods include but are not limited to: framing an ad-banner’s click-through destination, auto-spawning of browsers, running ‘spiders’ against the Publisher’s own Website, automatic redirecting of users or any other technique of generating automatic or fraudulent (as determined by ExoClick, acting reasonably, or based on industry practices) click-through and/or impressions. Advertising Material may not be placed on a page which reloads automatically. Publisher may not require users to click on Advertising Material prior to entering a Website or any area therein or provide incentives of any nature to encourage or require users to click on Advertising Material. Publisher’s clicks-throughs of any link other than ExoClick’s Advertising Material, or use of any other means of artificially enhancing click results shall be a material breach of this Agreement, and upon such occurrence, ExoClick may terminate this Agreement without prior notification. Such termination is at the sole discretion of ExoClick and is not in lieu of any other remedy available at law or equity. ExoClick’s ad server will be the official counter for determining the number of Advertising Material delivered under and amounts payable under this Agreement.
 
@@ -252,33 +252,68 @@ ExoClick is hereby authorized to use the trade names or trademarks of Publishers
 
 Advertiser will indemnify and hold ExoClick harmless of any liabilities, losses or damages of any nature which are directly or indirectly derived from Advertiser’s infringements of this Agreement.
 
-**THIRTEEN.- TERMINATION; CANCELLATION.**
+**THIRTEEN. – COMPLIANCE**
 
-13.1. ExoClick may at any time, in its sole discretion, immediately terminate this Agreement, or cancel any Ad(s) with or without cause. ExoClick will make commercially reasonable efforts to notify Advertiser(s), Publisher(s) and Third Parties via e-mail of any such termination or cancellation within a reasonable period of time.
+Publisher(s) and Advertiser(s) represent and warrant to ExoClick that:
+
+1. They comply with all applicable laws and regulations as set forth in this Agreement, including, without limitation any anti-corruption, anti-money laundering, and anti-terrorist financing laws and/or regulations, as well as any other criminal, administrative, or tax laws.
+2. They are not involved, directly or through third parties, in any activity, practice, or conduct constituting a criminal offense, including offenses relating to corruption, money laundering, and the financing of terrorism, as well as offenses relating to financial crime.
+3. They have not been convicted by final judgment of any criminal offense, and they are not and have not been subject to any investigation by any authority or received any inquiry in connection with actual or suspected illegal transactions.
+4. Are not a ‘Restricted Party, nor its officers and/or employees, that is, a person or entity that is (i) listed or controlled by a listed person or entity or acting on behalf of a person or entity included on a ‘Sanctions List’; (ii) in or under the control of, a national or resident of any jurisdiction subject to any country or territory subject to sanctions.
+
+Sanctions List shall mean any of the lists of designated or sanctioned (or equivalent) persons or entities issued by any authority, as amended from time to time, including, but not limited to:
+
+* Those administered by the Office of Foreign Assets Control of the U.S. Treasury Department (OFAC); 
+* The lists of the Financial Action Task Force, (FAFT);
+* The “Restricted Party Lists” of the Council of the European Union;
+
+As well as any other Sanctions List issued by a local authority.
+
+Publishers further represent and warrant to ExoClick that:
+
+(i) No part of their income and/or compensation related to the ExoClick Referral Program, is, has been, or will be directly or indirectly or through third parties, offered, promised, guaranteed, given, delivered, or paid to any person for any unlawful purpose.
+
+(ii) No part of their income and/or compensation related to the ExoClick Referral Program is, has been, or will be used directly or indirectly to conduct business or commercial activities with or for the benefit of any sanctioned person or entity, and they further confirm that they do not intend to circumvent or avoid, or attempt to circumvent, any of the prohibitions set forth in any Sanctions List.
+
+Advertisers represent and warrant to ExoClick that:
+
+(i) The origin of their funds comes from lawful activities which are in no way related to corruption, money laundering, terrorist financing, or any other unlawful activity. 
+
+(ii) They will not use ExoClick related transactions directly or indirectly to conduct business or commercial activities with or for the benefit of any Restricted Party.
+
+In addition, Publisher(s) and Advertiser(s) shall have the following obligations under this Agreement:
+
+(i) Maintain effective controls to ensure that improper payments are not made, offered, solicited, or received by third parties on their behalf.
+
+(ii) Provide ExoClick, upon request, with evidence of the controls and measures that have been put in place to comply with its commitments under this Agreement.
+
+**FOURTEEN. – TERMINATION; CANCELLATION.**
+
+14.1. ExoClick may at any time, in its sole discretion, immediately terminate this Agreement, or cancel any Ad(s) with or without cause. ExoClick will make commercially reasonable efforts to notify Advertiser(s), Publisher(s) and Third Parties via e-mail of any such termination or cancellation within a reasonable period of time.
 
 Advertiser(s) may cancel any Ads and/or terminate this Agreement with or without cause at any time by deactivating a campaign in the Administration Panel.
 
 Publisher(s) may cancel or terminate this Agreement by removing the ExoClick Javascript Tag from the Publisher´s Website(s).
 
-12.3. If either party does not fulfill a material obligation defined in this Agreement, the other party has the right to terminate this Agreement sixty (60) days following written notice to the party in breach, provided that such material breach remains uncured, without prejudice of the right to claim the damages caused to the non-breaching party.
+14.2. If either party does not fulfill a material obligation defined in this Agreement, the other party has the right to terminate this Agreement sixty (60) days following written notice to the party in breach, provided that such material breach remains uncured, without prejudice of the right to claim the damages caused to the non-breaching party.
 
-**FOURTEEN.- CONFIDENTIALITY.**
+**FIFTEEN. – CONFIDENTIALITY.**
 
-14.1. You agree not to disclose ExoClick Confidential Information without ExoClick’s prior written consent. “Network Confidential Information” includes without limitation: (i) all Network software, technology, programming, technical specifications, materials, guidelines and documentation You learn, develop or obtain that relate to the ExoClick Network; (ii) click-through rates or other statistics provided to You by ExoClick; and (iii) any other information designated in writing by ExoClick as “confidential” or any designation to the same effect. ExoClick Network Confidential Information does not include information that has become publicly known through no breach by You or ExoClick, or information that has been (i) independently developed without access to ExoClick Network Confidential Information, as evidenced in writing; (ii) rightfully received by You from a third party; or (iii) required to be disclosed by law or by a governmental authority.
+15.1. You agree not to disclose ExoClick Confidential Information without ExoClick’s prior written consent. “Network Confidential Information” includes without limitation: (i) all Network software, technology, programming, technical specifications, materials, guidelines and documentation You learn, develop or obtain that relate to the ExoClick Network; (ii) click-through rates or other statistics provided to You by ExoClick; and (iii) any other information designated in writing by ExoClick as “confidential” or any designation to the same effect. ExoClick Network Confidential Information does not include information that has become publicly known through no breach by You or ExoClick, or information that has been (i) independently developed without access to ExoClick Network Confidential Information, as evidenced in writing; (ii) rightfully received by You from a third party; or (iii) required to be disclosed by law or by a governmental authority.
 
-14.2. Publisher acknowledges that ExoClick might be ordered by a Court or Administrative Authority to disclose information regarding the services being provided to the Publisher or to disclose Publisher’s identity under certain circumstances and specially where Publisher’s Website(s) contain(s) or link(s) to unauthorized copyrighted materials from third parties. ExoClick will be fully entitled to disclose such information upon receiving a request for disclosure from a Court or Administrative Authority which ExoClick reasonably deems as being competent to issue such a request.
+15.2. Publisher acknowledges that ExoClick might be ordered by a Court or Administrative Authority to disclose information regarding the services being provided to the Publisher or to disclose Publisher’s identity under certain circumstances and specially where Publisher’s Website(s) contain(s) or link(s) to unauthorized copyrighted materials from third parties. ExoClick will be fully entitled to disclose such information upon receiving a request for disclosure from a Court or Administrative Authority which ExoClick reasonably deems as being competent to issue such a request.
 
-**FIFTEEN.- DATA PROTECTION.**
+**SIXTEEN.- DATA PROTECTION.**
 
-15.1. Each party shall include conspicuously on its website(s), a privacy policy that describes how such party collects, uses, stores and discloses users’ personal data if any is collected, including without limitation e-mail addresses, and instructs users how to opt-out of such practices.
+16.1. Each party shall include conspicuously on its website(s), a privacy policy that describes how such party collects, uses, stores and discloses users’ personal data if any is collected, including without limitation e-mail addresses, and instructs users how to opt-out of such practices.
 
-15.2. ExoClick has a Privacy Policy in its website which explains the use we make of personal data that you provide to us or that we gather from you and the measures we take to protect your privacy. The Privacy Policy also details how you may request that we amend or delete your personal data from our records as well as how to request that we cease all contact with you. Please read the Privacy Policy carefully as once you use our services you will be regarded as having read and accepted its terms.
+16.2. ExoClick has a Privacy Policy in its website which explains the use we make of personal data that you provide to us or that we gather from you and the measures we take to protect your privacy. The Privacy Policy also details how you may request that we amend or delete your personal data from our records as well as how to request that we cease all contact with you. Please read the Privacy Policy carefully as once you use our services you will be regarded as having read and accepted its terms.
 
 15.3. In accordance with ExoClick’s Privacy Policy, ExoClick may transfer your personal data to providers who require access to your personal data in order to provide the services that EXOCLICK has hired from them, and with whom EXOCLICK has subscribed confidentiality and data processing agreements that are necessary and mandatory by the privacy protection regulation. Some of the technology service providers hired by ExoClick are located in countries that do not have a data protection regulation equivalent to the European (“Third Countries”). These service providers have signed the confidentiality and data processing agreements required by the regulation, which apply the warranties and safeguards needed to preserve your privacy. For further information regarding warranties to your privacy, you may contact ExoClick at the electronic or postal addresses indicated in the Privacy Policy.
 
-15.4. If ExoClick processes any personal data of end users in EEA (“End Users”) in connection with the provision of its services, the [Data Processing Agreement](https://www.exoclick.com/data-processing-agreement/) (“**DPA**”) is applicable to such processing. In addition, ExoClick services may involve cross-border data exchanges with clients located in countries outside the EEA. In which case, when these countries do not benefit from an adequacy decision under the Article 45 of the GDPR, the parties agree to use a variety of measures to ensure that End Users personal data transferred to these countries receives adequate protection in accordance with the General Data Protection Regulation (“GDPR”), such as signing the Standard Contractual Clauses adopted by the European Commission.
+16.4. If ExoClick processes any personal data of end users in EEA (“End Users”) in connection with the provision of its services, the [Data Processing Agreement](https://www.exoclick.com/data-processing-agreement/) (“**DPA**”) is applicable to such processing. In addition, ExoClick services may involve cross-border data exchanges with clients located in countries outside the EEA. In which case, when these countries do not benefit from an adequacy decision under the Article 45 of the GDPR, the parties agree to use a variety of measures to ensure that End Users personal data transferred to these countries receives adequate protection in accordance with the General Data Protection Regulation (“GDPR”), such as signing the Standard Contractual Clauses adopted by the European Commission.
 
-15.5. Publisher’s privacy policy available to End Users shall disclose that third party advertisers may place cookies on the browsers of visitors to Publisher’s Website(s). In accordance to EU Directive 2002/58/EC as amended by Directive 2009/136/EC, Publishers must provide End Users with clear and comprehensive information regarding any devices (such as cookies or local shared objects) in use at their websites for storing information in the User’s terminal equipment or retrieving already stored information from the said terminal equipment. 
+16.5. Publisher’s privacy policy available to End Users shall disclose that third party advertisers may place cookies on the browsers of visitors to Publisher’s Website(s). In accordance to EU Directive 2002/58/EC as amended by Directive 2009/136/EC, Publishers must provide End Users with clear and comprehensive information regarding any devices (such as cookies or local shared objects) in use at their websites for storing information in the User’s terminal equipment or retrieving already stored information from the said terminal equipment. 
 
 Publishers must also implement an opt-in system which ensures that the prior and informed consent is obtained from End Users in the European Union before any such devices are used or installed in the End Users’ terminal equipment. Therefore, Publishers must allow End Users to express their choice by a clear positive act as well as to modify it with the same simplicity.
 
@@ -286,59 +321,59 @@ ExoClick makes the cookies information available to the Publisher in its Privacy
 
 ExoClick reserves the right to audit Publisher’s consent collection mechanisms to ensure compliance with the applicable data protection regulations. Such audits will involve a review of relevant consent forms and documentation, with proper advance notice, no more than once a year, unless significant compliance concerns arise. Publisher agrees to provide necessary cooperation and access.  Furthermore, Publishers must also provide ExoClick, when applicable, with proof of consent upon request so that ExoClick can rely on it at any time.
 
-15.6. Each party warrants to the other that, during the term of this Agreement, and the DPA, it shall comply with all applicable rules and regulations (including but not limited to laws governing privacy, and data protection).
+16.6. Each party warrants to the other that, during the term of this Agreement, and the DPA, it shall comply with all applicable rules and regulations (including but not limited to laws governing privacy, and data protection).
 
-**SIXTEEN.- INDEMNIFICATION. LIMITATION OF LIABILITY.**
+**SEVENTEEN.- INDEMNIFICATION. LIMITATION OF LIABILITY.**
 
-16.1. Indemnification. You agree to indemnify, defend and hold ExoClick and its officers, directors, shareholders, successors, affiliates, employees, agents and representatives harmless from and against any and all costs, claims, demands, liabilities, expenses, losses, damages and attorney fees arising from any claims and lawsuits or proceeding for libel, slander, copyright, and trademark violation as well as all other claims resulting from (i) the participation on the ExoClick Network, (ii) operation of the Publisher’s Website(s) submitted to ExoClick for participation on the ExoClick Network or (iii) otherwise arising from a relationship with ExoClick. You also agree to indemnify ExoClick for any legal fees incurred by ExoClick, acting reasonably, in investigating or enforcing its rights under this Agreement.
+17.1. Indemnification. You agree to indemnify, defend and hold ExoClick and its officers, directors, shareholders, successors, affiliates, employees, agents and representatives harmless from and against any and all costs, claims, demands, liabilities, expenses, losses, damages and attorney fees arising from any claims and lawsuits or proceeding for libel, slander, copyright, and trademark violation as well as all other claims resulting from (i) the participation on the ExoClick Network, (ii) operation of the Publisher’s Website(s) submitted to ExoClick for participation on the ExoClick Network or (iii) otherwise arising from a relationship with ExoClick. You also agree to indemnify ExoClick for any legal fees incurred by ExoClick, acting reasonably, in investigating or enforcing its rights under this Agreement.
 
-16.2. Limitation of Liability. UNDER NO CIRCUMSTANCES WILL EXOCLICK BE LIABLE TO PUBLISHER WITH RESPECT TO ANY SUBJECT MATTER OF THESE TERMS AND CONDITIONS UNDER CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY, WHETHER OR NOT EXOCLICK HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE, FOR INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR EXEMPLARY DAMAGES ARISING FROM ANY PROVISION OF THESE TERMS, INCLUDING, BUT NOT LIMITED TO, LOSS OF REVENUE OR ANTICIPATED PROFITS OR LOST BUSINESS. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE. IN NO EVENT SHALL EXOCLICK’S AGGREGATE LIABILITY ARISING OUT OF THESE TERMS AND CONDITIONS EXCEED THE LAST MONTH’S PAYMENTS TO THE PUBLISHER.
+17.2. Limitation of Liability. UNDER NO CIRCUMSTANCES WILL EXOCLICK BE LIABLE TO PUBLISHER WITH RESPECT TO ANY SUBJECT MATTER OF THESE TERMS AND CONDITIONS UNDER CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY, WHETHER OR NOT EXOCLICK HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE, FOR INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR EXEMPLARY DAMAGES ARISING FROM ANY PROVISION OF THESE TERMS, INCLUDING, BUT NOT LIMITED TO, LOSS OF REVENUE OR ANTICIPATED PROFITS OR LOST BUSINESS. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE. IN NO EVENT SHALL EXOCLICK’S AGGREGATE LIABILITY ARISING OUT OF THESE TERMS AND CONDITIONS EXCEED THE LAST MONTH’S PAYMENTS TO THE PUBLISHER.
 
-**SEVENTEEN.- MODIFICATION.**
+**EIGHTEEN.- MODIFICATION.**
 
-17.1. ExoClick reserves the right to amend the provisions of the present Agreement that are minor in scope or nature, and to do so without citing any reasons, provided such modifications do not lead to the Agreement as a whole being restructured. ExoClick will communicate, by e-mail or electronic means or through the Administration Panel, the modified conditions at least two weeks prior to the Effective Date. Publishers who do not object in writing to the modification within four weeks after the receipt of the communication will be deemed to have accepted the respective modification. ExoClick will specifically indicate the possibility of objecting to the modification and the consequences of the four-week deadline.
+18.1. ExoClick reserves the right to amend the provisions of the present Agreement that are minor in scope or nature, and to do so without citing any reasons, provided such modifications do not lead to the Agreement as a whole being restructured. ExoClick will communicate, by e-mail or electronic means or through the Administration Panel, the modified conditions at least two weeks prior to the Effective Date. Publishers who do not object in writing to the modification within four weeks after the receipt of the communication will be deemed to have accepted the respective modification. ExoClick will specifically indicate the possibility of objecting to the modification and the consequences of the four-week deadline.
 
-17.2. If the Publisher(s) objects to the new (modified) Terms, ExoClick´s request to so modify them will be deemed to have been rejected. The Agreement will then be continued without the proposed modification. The right of the parties to terminate their participation on the ExoClick Network remains unaffected hereby. The possibility of terminating the Agreement will also be indicated specifically.
+18.2. If the Publisher(s) objects to the new (modified) Terms, ExoClick´s request to so modify them will be deemed to have been rejected. The Agreement will then be continued without the proposed modification. The right of the parties to terminate their participation on the ExoClick Network remains unaffected hereby. The possibility of terminating the Agreement will also be indicated specifically.
 
-**EIGHTTEEN.- NON-SOLICITATION.**
+**NINETEEN.- NON-SOLICITATION.**
 
 During the term of this Agreement, and any renewal thereof, and for one (1) year after its termination for any reason, Advertiser agrees that it will not do business directly or indirectly with any Publisher listed on the ExoClick Network, or directly or indirectly solicit or induce such Publisher to do business directly with the Advertiser. Advertiser understands and agrees that this prohibition is a key consideration and inducement for ExoClick to enter into this Agreement with Advertiser, and to provide the services hereunder.
 
-**NINETEEN.– DISPUTE RESOLUTION.**
+**TWENTY.– DISPUTE RESOLUTION.**
 
-19.1. This Agreement shall be governed by and interpreted in accordance with the laws of Spain.
+20.1. This Agreement shall be governed by and interpreted in accordance with the laws of Spain.
 
-19.2. For any matter related to the interpretation or execution of this Agreement, the parties expressly waive to submit to any courts which might have jurisdiction over the subject matter, and agree to submit to the sole competence and jurisdiction of the Courts of the City of Barcelona.
+20.2. For any matter related to the interpretation or execution of this Agreement, the parties expressly waive to submit to any courts which might have jurisdiction over the subject matter, and agree to submit to the sole competence and jurisdiction of the Courts of the City of Barcelona.
 
-**TWENTY.- GENERAL PROVISIONS.**
+**TWENTY ONE.- GENERAL PROVISIONS.**
 
-20.1. Force Majeure. Except for payment obligations, if either party is prevented from performing or is unable to perform any of its obligations under this Agreement due to causes beyond the reasonable control of the party invoking this provision, including but not limited to acts of God, acts of civil or military authorities, riots or civil disobedience, wars, strikes or labor disputes (each, a “Force Majeure Event”), such party’s performance shall be excused and the time for performance shall be extended accordingly provided that the party immediately takes all reasonably necessary steps to resume full performance. If such party remains unable to resume full performance fifteen (15) days after the Force Majeure Event, the other party may terminate this Agreement upon written notice.
+21.1. Force Majeure. Except for payment obligations, if either party is prevented from performing or is unable to perform any of its obligations under this Agreement due to causes beyond the reasonable control of the party invoking this provision, including but not limited to acts of God, acts of civil or military authorities, riots or civil disobedience, wars, strikes or labor disputes (each, a “Force Majeure Event”), such party’s performance shall be excused and the time for performance shall be extended accordingly provided that the party immediately takes all reasonably necessary steps to resume full performance. If such party remains unable to resume full performance fifteen (15) days after the Force Majeure Event, the other party may terminate this Agreement upon written notice.
 
-20.2. Severability. Should any of the provisions of this Agreement be adjudged invalid or unenforceable by the rules and regulations of Spain or a Spanish court, such provisions shall be deemed several from the remainder of this Agreement and not affect the validity or enforceability of the remainder of this Agreement. In that case, such provisions shall be changed and interpreted to achieve the purposes of those provisions as much as possible within the extent of relevant laws or judgment of the court.
+21.2. Severability. Should any of the provisions of this Agreement be adjudged invalid or unenforceable by the rules and regulations of Spain or a Spanish court, such provisions shall be deemed several from the remainder of this Agreement and not affect the validity or enforceability of the remainder of this Agreement. In that case, such provisions shall be changed and interpreted to achieve the purposes of those provisions as much as possible within the extent of relevant laws or judgment of the court.
 
-20.3. Survival. Sections 13, 14, 15, 18 and 19 shall survive termination or expiration of this Agreement for any reason. All other rights and obligations of the parties under this Agreement shall expire upon termination of this Agreement, except that all payment obligations accrued hereunder prior to termination or expiration shall survive such termination.
+21.3. Survival. Sections 14, 15, 16, 19, and 20 shall survive termination or expiration of this Agreement for any reason. All other rights and obligations of the parties under this Agreement shall expire upon termination of this Agreement, except that all payment obligations accrued hereunder prior to termination or expiration shall survive such termination.
 
-20.4. Assignment. ExoClick is hereby authorized to assign, sublicense, delegate or otherwise transfer any of its rights or obligations under this Agreement without the prior written consent of the other partyprovided that the assignee shall assume all rights and obligations under this Agreement
+21.4. Assignment. ExoClick is hereby authorized to assign, sublicense, delegate or otherwise transfer any of its rights or obligations under this Agreement without the prior written consent of the other partyprovided that the assignee shall assume all rights and obligations under this Agreement
 
 Publisher/Advertiser shall not assign, sublicense, delegate or otherwise transfer any of its rights or obligations. However, Publisher/Advertiser may, without the consent of ExoClick, assign this Agreement to an entity merging with, consolidating with, or purchasing substantially all its assets or stock, provided that the assignee shall assume in writing all rights and obligations under this Agreement.
 
-20.5. Notices. All notices and other communications hereunder shall be in writing and shall be deemed to have been duly given when delivered in person (including by internationally recognized commercial delivery service), and on the day the notice is sent when sent by verified facsimile or email with confirmation receipt, if the time of transmission is during recipient’s business day, or if not on the next business day thereafter, in each case to the respective parties at the postal or email addresses provided by the them in writing.
+21.5. Notices. All notices and other communications hereunder shall be in writing and shall be deemed to have been duly given when delivered in person (including by internationally recognized commercial delivery service), and on the day the notice is sent when sent by verified facsimile or email with confirmation receipt, if the time of transmission is during recipient’s business day, or if not on the next business day thereafter, in each case to the respective parties at the postal or email addresses provided by the them in writing.
 
 Either party may change its address by providing the other party with written notice of the change in accordance with this section.
 
-20.6. Relationship of Parties. The parties are independent contractors and will have no right to assume or create any obligation or responsibility on behalf of the other party. Neither party shall hold itself out as an agent of the other party. This Agreement will not be construed to create or imply any partnership, agency, joint venture or formal business entity of any kind.
+21.6. Relationship of Parties. The parties are independent contractors and will have no right to assume or create any obligation or responsibility on behalf of the other party. Neither party shall hold itself out as an agent of the other party. This Agreement will not be construed to create or imply any partnership, agency, joint venture or formal business entity of any kind.
 
-20.7. Waiver. No delay or failure by either party to exercise any right or remedy under this Agreement will constitute a waiver of such right or remedy. All waivers must be in writing and signed by an authorized representative of the party waiving its rights. A waiver by any party of any breach or covenant shall not be construed as a waiver of any succeeding breach of any other covenant.
+21.7. Waiver. No delay or failure by either party to exercise any right or remedy under this Agreement will constitute a waiver of such right or remedy. All waivers must be in writing and signed by an authorized representative of the party waiving its rights. A waiver by any party of any breach or covenant shall not be construed as a waiver of any succeeding breach of any other covenant.
 
-20.8. Entire Agreement. This Agreement constitutes the entire agreement between the parties and supersedes all previous agreements, oral or written, with respect to the subject matter of this Agreement. The information and documents provided by Publisher(s) and Advertiser(s) to ExoClick, as requested by the latest in order to enter the Agreement, shall be also considered as part of this Agreement. This Agreement may not be amended without the written consent of the parties.
+21.8. Entire Agreement. This Agreement constitutes the entire agreement between the parties and supersedes all previous agreements, oral or written, with respect to the subject matter of this Agreement. The information and documents provided by Publisher(s) and Advertiser(s) to ExoClick, as requested by the latest in order to enter the Agreement, shall be also considered as part of this Agreement. This Agreement may not be amended without the written consent of the parties.
 
-20.9. Headings. The headings of the articles and paragraphs contained in this Agreement are inserted for convenience and are not intended to be part of or to affect the interpretation of this Agreement.
+21.9. Headings. The headings of the articles and paragraphs contained in this Agreement are inserted for convenience and are not intended to be part of or to affect the interpretation of this Agreement.
 
-20.10. Construction. The parties acknowledge and agree that the Agreement has been jointly prepared and its provisions will not be construed more strictly against either party as a result of its participation in such preparation.
+21.10. Construction. The parties acknowledge and agree that the Agreement has been jointly prepared and its provisions will not be construed more strictly against either party as a result of its participation in such preparation.
 
-20.11. Counterparts. This Agreement may be executed in counterparts or online, which taken together shall form one legal instrument.
+21.11. Counterparts. This Agreement may be executed in counterparts or online, which taken together shall form one legal instrument.
 
-20.12. No Third Party Beneficiaries. This Agreement shall be binding upon and inure solely to the benefit of the parties hereto and their permitted assigns and nothing herein, express or implied, is intended to or shall confer upon any other person any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement.
+1.12. No Third Party Beneficiaries. This Agreement shall be binding upon and inure solely to the benefit of the parties hereto and their permitted assigns and nothing herein, express or implied, is intended to or shall confer upon any other person any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement.
 
 #### [Advertisers](https://www.exoclick.com/advertisers-2/)
 
