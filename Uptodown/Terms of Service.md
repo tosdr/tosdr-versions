@@ -227,7 +227,7 @@ PRODUCTS AND SERVICES
 * [About us](https://en.uptodown.com/aboutus/uptodown)
 * [Publish your app](https://en.uptodown.com/developers-zone)
 * [Advertising](https://en.uptodown.com/advertising)
-* [Uptodown TurboNew](https://en.uptodown.com/uptodown-turbo)
+* [Uptodown TurboNew](https://en.uptodown.com/turbo?platform=android)
 * [FAQs & Support](https://support.uptodown.com/hc/en-us)
 * [Editorial policy](https://en.uptodown.com/about-us/editors)
 * [We're hiring](https://uptodown.factorialhr.es/)
