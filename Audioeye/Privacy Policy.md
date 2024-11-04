@@ -310,7 +310,7 @@ Start Free Trial
 PRIVACY POLICY
 ==============
 
-**Last Revised: June 2, 2023**
+**Last Revised: Nov 4, 2023**
 
 AudioEye® is committed to improving the lives of those with disabilities. Central to this mission is our commitment to transparency about the data we collect, how it is used, and with whom it is shared. Safeguarding the personal information of visitors to our website and websites using the AudioEye products and services is extremely important to us.
 
@@ -336,7 +336,7 @@ _**Via our Website, AudioEye Help Desk or Generally**_
 
 When you use the Services, we collect information that you directly provide to us via the website and via any agreements that you complete with respect to the Services. This information may include, for example, your name, residence address, phone number, e-mail address and other information, some of which is optional and some of which is required for us to complete your request.
 
-For example, when you interact with AudioEye’s Help Desk function on our website or a website of one of our Clients, such as by using AudioEye’s Visual Toolkit, we will collect information that you directly provide us and which is necessary to assist you with your query, such as your name, your comments/questions, and your e-mail address. You may also optionally provide your phone number and relevant information relating to any assistive technology that you might use in connection with the Services. Similarly, when you contact us for information, such as by completing the contact-us form at [www.audioeye.com/contact-us](https://www.audioeye.com/contact-us/)), we will collect information that you directly provide us, such as your name, job title, e-mail address, phone number, company/government agency name and website URL. You may also optionally provide information regarding a referral source and any other information you choose to provide. As another example, if you request an accessibility analysis or request a demo, we may collect your name, job title, e-mail address, phone number, company/government agency name and website URL.
+For example, when you interact with AudioEye’s Help Desk function on our website or a website of one of our Clients, we will collect information that you directly provide us and which is necessary to assist you with your query, such as your name, your comments/questions, and your e-mail address. You may also optionally provide your phone number and relevant information relating to any assistive technology that you might use in connection with the Services. Similarly, when you contact us for information, such as by completing the contact-us form at [www.audioeye.com/contact-us](https://www.audioeye.com/contact-us/)), we will collect information that you directly provide us, such as your name, job title, e-mail address, phone number, company/government agency name and website URL. You may also optionally provide information regarding a referral source and any other information you choose to provide. As another example, if you request an accessibility analysis or request a demo, we may collect your name, job title, e-mail address, phone number, company/government agency name and website URL.
 
 ### **Information from External Sources**
 
