@@ -185,7 +185,7 @@ Watch now
 
 ![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6697f8538fda39861386b5c0_arrow_right_blue.svg)](https://youtu.be/GjIB3bXR6OI?si=br9lC04Uy076JVPj&t=2)
 
-[Sign up Free](https://app.ketch.com/sign-up?utm_campaign=plg&utm_source=website&utm_medium=nav&utm_term=desktop)[Request a Demo](https://content.ketch.com/request-demo-nav)
+[Sign Up Free](https://app.ketch.com/sign-up?utm_campaign=plg&utm_source=website&utm_medium=nav&utm_term=desktop)[Request a Demo](https://content.ketch.com/request-demo-nav)
 
 ![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/655cd3cab38d87a85d29127e_search.svg)
 
@@ -714,7 +714,7 @@ We do not knowingly collect personal data about children. Our websites and syste
 
 [![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/658486905aaf27e917a1beb8_ic_facebook.svg)](https://www.facebook.com/KetchTrustByDesign)[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/664b4bf77f5c688d9772b879_658486905aaf27e917a1beb8_ic_x-01.svg)](https://twitter.com/ketch_digital)[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6344c52f4fdb8f0f858091b9_ic_linkedin.svg)](https://www.linkedin.com/company/ketchdigital/)[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6344c52e8cdc7cf2f303b856_ic_youtube.svg)](https://www.youtube.com/channel/UCYMaETSDcyTS6pFE5jAQJcw)
 
-[Sign Up](https://app.ketch.com/sign-up?utm_campaign=Pricing&utm_source=plg&utm_medium=footer&utm_term=free)[Request a Demo](https://content.ketch.com/request-demo)
+[Sign In](https://app.ketch.com/)[Sign Up](https://app.ketch.com/sign-up?utm_campaign=Pricing&utm_source=plg&utm_medium=footer&utm_term=free)[Request a Demo](https://content.ketch.com/request-demo)
 
 [Platform](https://www.ketch.com/platform/overview)
 
