@@ -1,3 +1,5 @@
+![](https://www.facebook.com/tr?id=466953673018979&ev=PageView&noscript=1)  Privacy Policy - Our Terms & Policies | TechGig                                         
+
 [](javascript:void(0))
 
 Privacy Policy
