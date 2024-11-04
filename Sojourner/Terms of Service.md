@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-e472259407d60814e73f2313cbe80c2d
+0a6664ad4b411601f2635f399fd4c228
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![EB22 bead](https://sojourner.biz/images/cache/EB22lbl.200.jpg)](https://sojourner.biz/beads/metal/eb22-bead.html "EB22 bead")
+[![8 mm Ercole Moretti millefiori beads](https://sojourner.biz/images/cache/glass/MF005.200.webp)](https://sojourner.biz/8-mm-ercole-moretti-millefiori-beads.html "8 mm Ercole Moretti millefiori beads")
 
-#### [EB22 bead](https://sojourner.biz/beads/metal/eb22-bead.html "EB22 bead")
+#### [8 mm Ercole Moretti millefiori beads](https://sojourner.biz/8-mm-ercole-moretti-millefiori-beads.html "8 mm Ercole Moretti millefiori beads")
 
-$2.60
+$2.00
 
 ### Best Sellers
 
