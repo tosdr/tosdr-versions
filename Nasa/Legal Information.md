@@ -269,13 +269,13 @@ article 4 days ago](https://www.nasa.gov/missions/spherex/why-nasas-spherex-miss
 
 ### Research Operations and Integration
 
-article 3 days ago](https://www.nasa.gov/hrp/research-operations-integration/sample-collection-and-portable-systems-and-blood-collection-data/)[![](https://www.nasa.gov/wp-content/uploads/2024/03/bone-cells.png?w=609)
+article 4 days ago](https://www.nasa.gov/hrp/research-operations-integration/sample-collection-and-portable-systems-and-blood-collection-data/)[![](https://www.nasa.gov/wp-content/uploads/2024/03/bone-cells.png?w=609)
 
 5 min read
 
 ### We Are All Made of Cells: Space and the Immune System
 
-article 3 days ago](https://www.nasa.gov/science-research/we-are-all-made-of-cells-space-and-the-immune-system/)[![Exterior view of the International Space Station with Earth visible in the background. The station’s robotic arm and multiple scientific equipment modules are attached to its surface.](https://www.nasa.gov/wp-content/uploads/2024/10/iss061e143436.jpg?w=1024)
+article 4 days ago](https://www.nasa.gov/science-research/we-are-all-made-of-cells-space-and-the-immune-system/)[![Exterior view of the International Space Station with Earth visible in the background. The station’s robotic arm and multiple scientific equipment modules are attached to its surface.](https://www.nasa.gov/wp-content/uploads/2024/10/iss061e143436.jpg?w=1024)
 
 2 min read
 
@@ -291,7 +291,7 @@ article 6 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-
 
 ### International SWOT Satellite Spots Planet-Rumbling Greenland Tsunami
 
-article 3 days ago](https://www.nasa.gov/missions/swot/international-swot-satellite-spots-planet-rumbling-greenland-tsunami/)[![Map shows orange and red colors spanning most of Antarctica and part of the Southern Ocean, indicating areas of low ozone concentrations.](https://www.nasa.gov/wp-content/uploads/2024/10/ozone-geos5-20240928-hires.jpg?w=996)
+article 4 days ago](https://www.nasa.gov/missions/swot/international-swot-satellite-spots-planet-rumbling-greenland-tsunami/)[![Map shows orange and red colors spanning most of Antarctica and part of the Southern Ocean, indicating areas of low ozone concentrations.](https://www.nasa.gov/wp-content/uploads/2024/10/ozone-geos5-20240928-hires.jpg?w=996)
 
 5 min read
 
@@ -307,25 +307,25 @@ article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-blo
 
 ### Highlights
 
-[![NASA’s New Edition of Graphic Novel Features Europa Clipper](https://science.nasa.gov/wp-content/uploads/2024/11/clilpperwallpaper.png)
+[![Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass](https://science.nasa.gov/wp-content/uploads/2024/11/wispr-magellan-4thflyby.gif)
+
+4 min read
+
+### Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass
+
+article 2 hours ago](https://science.nasa.gov/science-research/heliophysics/final-venus-flyby-for-nasas-parker-solar-probe-queues-closest-sun-pass/)[![NASA’s New Edition of Graphic Novel Features Europa Clipper](https://science.nasa.gov/wp-content/uploads/2024/11/clilpperwallpaper.png)
 
 2 min read
 
 ### NASA’s New Edition of Graphic Novel Features Europa Clipper
 
-article 2 days ago](https://science.nasa.gov/science-research/planetary-science/astrobiology/nasas-new-edition-of-graphic-novel-features-europa-clipper/)[![30 Years On, NASA’s Wind Is a Windfall for Studying our Neighborhood in Space](https://science.nasa.gov/wp-content/uploads/2023/07/windv3_0.jpg)
+article 3 days ago](https://science.nasa.gov/science-research/planetary-science/astrobiology/nasas-new-edition-of-graphic-novel-features-europa-clipper/)[![30 Years On, NASA’s Wind Is a Windfall for Studying our Neighborhood in Space](https://science.nasa.gov/wp-content/uploads/2023/07/windv3_0.jpg)
 
 5 min read
 
 ### 30 Years On, NASA’s Wind Is a Windfall for Studying our Neighborhood in Space
 
-article 3 days ago](https://science.nasa.gov/science-research/heliophysics/30-years-on-nasas-wind-is-a-windfall-for-studying-our-neighborhood-in-space/)[![What’s Up: November 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2024/05/milkyway-desrt-tree-credit-preston-dyches-1.jpg)
-
-5 min read
-
-### What’s Up: November 2024 Skywatching Tips from NASA
-
-article 3 days ago](https://science.nasa.gov/solar-system/skywatching/whats-up-november-2024-skywatching-tips-from-nasa/)
+article 3 days ago](https://science.nasa.gov/science-research/heliophysics/30-years-on-nasas-wind-is-a-windfall-for-studying-our-neighborhood-in-space/)
 
 ### Featured
 
@@ -351,25 +351,25 @@ article 4 days ago](https://science.nasa.gov/missions/webb/blood-soaked-eyes-nas
 
 ### Highlights
 
-[![NASA’s New Edition of Graphic Novel Features Europa Clipper](https://science.nasa.gov/wp-content/uploads/2024/11/clilpperwallpaper.png)
+[![NASA’s NEOWISE Spacecraft Re-Enters Atmosphere, But More Discoveries Await!](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/neowise-citizenscience-logos.jpg)
 
 2 min read
 
-### NASA’s New Edition of Graphic Novel Features Europa Clipper
+### NASA’s NEOWISE Spacecraft Re-Enters Atmosphere, But More Discoveries Await!
 
-article 2 days ago](https://science.nasa.gov/science-research/planetary-science/astrobiology/nasas-new-edition-of-graphic-novel-features-europa-clipper/)[![Exoasteroids](https://science.nasa.gov/wp-content/uploads/2023/04/exoasteroid-logo.jpg)
+article 2 hours ago](https://science.nasa.gov/get-involved/citizen-science/nasas-neowise-spacecraft-re-enters-atmosphere-but-more-discoveries-await/)[![Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass](https://science.nasa.gov/wp-content/uploads/2024/11/wispr-magellan-4thflyby.gif)
 
-1 min read
+4 min read
 
-### Exoasteroids
+### Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass
 
-article 2 days ago](https://science.nasa.gov/citizen-science/exoasteroids/)[![Title slide for Meet the Authors. Image shows the three participating authors with meeting information.](https://www.nasa.gov/wp-content/uploads/2024/10/meet-the-authors-oct-2024.jpg?w=577)
+article 2 hours ago](https://science.nasa.gov/science-research/heliophysics/final-venus-flyby-for-nasas-parker-solar-probe-queues-closest-sun-pass/)[![Sadie Coffin Named Association for Advancing Participatory Sciences/NASA Citizen Science Leaders Series Fellow](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/sadie-coffin.jpg)
 
 2 min read
 
-### Meet the Authors – October 2024
+### Sadie Coffin Named Association for Advancing Participatory Sciences/NASA Citizen Science Leaders Series Fellow
 
-article 3 days ago](https://www.nasa.gov/meet-the-authors-october-2024-2/)
+article 2 hours ago](https://science.nasa.gov/get-involved/citizen-science/sadie-coffin-named-association-for-advancing-participatory-sciences-nasa-citizen-science-leaders-series-fellow/)
 
 ### Highlights
 
@@ -417,7 +417,13 @@ article 2 weeks ago](https://science.nasa.gov/technology/rps/after-60-years-nucl
 
 ### Featured
 
-[![Three students standing next to an Artemis tree with a bulletin board in the background that reads NASA STEM Artemis Moon Trees](https://www.nasa.gov/wp-content/uploads/2024/10/artemis-moon-trees-spr-24-with-3-girls-rosalee-armstrong-1.png?w=688)
+[![Professional Learning: Using Children’s Books to Build STEM Habits of Mind](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2024/STEMbooks_24-10-14-Shannon_Verstynen.jpg)
+
+3 min read
+
+### Professional Learning: Using Children’s Books to Build STEM Habits of Mind
+
+article 1 hour ago](https://science.nasa.gov/learning-resources/science-activation/professional-learning-using-childrens-books-to-build-stem-habits-of-mind/)[![Three students standing next to an Artemis tree with a bulletin board in the background that reads NASA STEM Artemis Moon Trees](https://www.nasa.gov/wp-content/uploads/2024/10/artemis-moon-trees-spr-24-with-3-girls-rosalee-armstrong-1.png?w=688)
 
 8 min read
 
@@ -429,13 +435,7 @@ article 4 days ago](https://www.nasa.gov/learning-resources/artemis-i-moon-tree-
 
 ### Watch How Students Help NASA Grow Plants in Space: Growing Beyond Earth
 
-article 7 days ago](https://science.nasa.gov/learning-resources/science-activation/watch-how-students-help-nasa-grow-plants-in-space-growing-beyond-earth/)[![Kites in the Classroom: Training Teachers to Conduct Remote Sensing Missions](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/Kite%20with%20Aeropod%20-%20Lisa%20Ogiemwonyi.png)
-
-3 min read
-
-### Kites in the Classroom: Training Teachers to Conduct Remote Sensing Missions
-
-article 1 week ago](https://science.nasa.gov/learning-resources/science-activation/kites-in-the-classroom-training-teachers-to-conduct-remote-sensing-missions/)
+article 1 week ago](https://science.nasa.gov/learning-resources/science-activation/watch-how-students-help-nasa-grow-plants-in-space-growing-beyond-earth/)
 
 ### Featured
 
