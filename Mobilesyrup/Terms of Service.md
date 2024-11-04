@@ -16,6 +16,12 @@
 
 * [SyrupArcade](https://mobilesyrup.com/categories/gaming/)
     
+    [](https://mobilesyrup.com/2024/11/03/i-spoke-with-karl-janisse-writer-of-passage-of-the-unknown-9-universe/)
+    
+    Nov 3, 2024 | 11:01 AM EST
+    
+    ### [Canadian writer Karl Janisse on Passage from the Unknown 9 universe](https://mobilesyrup.com/2024/11/03/i-spoke-with-karl-janisse-writer-of-passage-of-the-unknown-9-universe/)
+    
     [](https://mobilesyrup.com/2024/11/01/destiny-rising-mobile-game-begins-closed-alpha-test-canada-us/)
     
     Nov 1, 2024 | 3:11 PM EDT
@@ -46,13 +52,13 @@
     
     ### [Apple is working on a game-focused App Store companion: report](https://mobilesyrup.com/2024/10/23/apple-game-focused-app-store-companion-report/)
     
-    [](https://mobilesyrup.com/2024/10/23/netflix-ted-new-daily-word-game-ted-tumblewords/)
-    
-    Oct 23, 2024 | 11:22 AM EDT
-    
-    ### [Netflix and TED partner on new daily word game](https://mobilesyrup.com/2024/10/23/netflix-ted-new-daily-word-game-ted-tumblewords/)
-    
     * [Gaming](https://mobilesyrup.com/categories/gaming/)
+        
+        [](https://mobilesyrup.com/2024/11/03/i-spoke-with-karl-janisse-writer-of-passage-of-the-unknown-9-universe/)
+        
+        Nov 3, 2024 | 11:01 AM EST
+        
+        ### [Canadian writer Karl Janisse on Passage from the Unknown 9 universe](https://mobilesyrup.com/2024/11/03/i-spoke-with-karl-janisse-writer-of-passage-of-the-unknown-9-universe/)
         
         [](https://mobilesyrup.com/2024/11/01/destiny-rising-mobile-game-begins-closed-alpha-test-canada-us/)
         
@@ -83,12 +89,6 @@
         Oct 23, 2024 | 2:26 PM EDT
         
         ### [Apple is working on a game-focused App Store companion: report](https://mobilesyrup.com/2024/10/23/apple-game-focused-app-store-companion-report/)
-        
-        [](https://mobilesyrup.com/2024/10/23/netflix-ted-new-daily-word-game-ted-tumblewords/)
-        
-        Oct 23, 2024 | 11:22 AM EDT
-        
-        ### [Netflix and TED partner on new daily word game](https://mobilesyrup.com/2024/10/23/netflix-ted-new-daily-word-game-ted-tumblewords/)
         
     
 * [News](https://mobilesyrup.com/categories/news/)
@@ -512,6 +512,12 @@
     
 * [Reviews](https://mobilesyrup.com/categories/reviews/)
     
+    [](https://mobilesyrup.com/2024/11/02/withings-scanwatch-vitals-review-fitness-tracker/)
+    
+    Nov 2, 2024 | 11:04 AM EDT
+    
+    ### [The Withings ScanWatch Vitals is my favourite fitness tracker](https://mobilesyrup.com/2024/11/02/withings-scanwatch-vitals-review-fitness-tracker/)
+    
     [](https://mobilesyrup.com/2024/11/01/im-in-love-with-this-ipad-monitor-arm/)
     
     Nov 1, 2024 | 5:05 PM EDT
@@ -541,12 +547,6 @@
     Oct 24, 2024 | 5:12 PM EDT
     
     ### [Rumour: Samsung is developing a triple-screen smartphone](https://mobilesyrup.com/2024/10/24/rumour-samsung-is-developing-a-triple-screen-smartphone/)
-    
-    [](https://mobilesyrup.com/2024/10/24/future-iphone-borrow-display-tech-apple-smartwatch/)
-    
-    Oct 24, 2024 | 4:33 PM EDT
-    
-    ### [Future iPhones might borrow display tech from Apple’s latest smartwatch](https://mobilesyrup.com/2024/10/24/future-iphone-borrow-display-tech-apple-smartwatch/)
     
     * [Smartphones](https://mobilesyrup.com/categories/reviews/reviews-smartphones/)
         
@@ -702,6 +702,12 @@
         
     * [Accessories](https://mobilesyrup.com/categories/reviews/reviews-accessories/)
         
+        [](https://mobilesyrup.com/2024/11/02/withings-scanwatch-vitals-review-fitness-tracker/)
+        
+        Nov 2, 2024 | 11:04 AM EDT
+        
+        ### [The Withings ScanWatch Vitals is my favourite fitness tracker](https://mobilesyrup.com/2024/11/02/withings-scanwatch-vitals-review-fitness-tracker/)
+        
         [](https://mobilesyrup.com/2024/11/01/im-in-love-with-this-ipad-monitor-arm/)
         
         Nov 1, 2024 | 5:05 PM EDT
@@ -731,12 +737,6 @@
         Sep 25, 2024 | 1:00 PM EDT
         
         ### [Google Pixel Buds Pro 2 Review: Winged for your comfort](https://mobilesyrup.com/2024/09/25/google-pixel-buds-pro-2-review/)
-        
-        [](https://mobilesyrup.com/2024/09/25/hands-on-with-the-nothing-ear-open-review/)
-        
-        Sep 25, 2024 | 9:55 AM EDT
-        
-        ### [Hands-on with the Nothing Ear (Open): A design you don’t see often](https://mobilesyrup.com/2024/09/25/hands-on-with-the-nothing-ear-open-review/)
         
     * [Gaming](https://mobilesyrup.com/categories/reviews/reviews-gaming/)
         
@@ -817,6 +817,18 @@
     
 * [Features](https://mobilesyrup.com/categories/features/)
     
+    [](https://mobilesyrup.com/2024/11/03/i-spoke-with-karl-janisse-writer-of-passage-of-the-unknown-9-universe/)
+    
+    Nov 3, 2024 | 11:01 AM EST
+    
+    ### [Canadian writer Karl Janisse on Passage from the Unknown 9 universe](https://mobilesyrup.com/2024/11/03/i-spoke-with-karl-janisse-writer-of-passage-of-the-unknown-9-universe/)
+    
+    [](https://mobilesyrup.com/2024/11/02/the-best-way-to-play-wii-gamecube-games-2024-2025/)
+    
+    Nov 2, 2024 | 2:32 PM EDT
+    
+    ### [Super Brad Odyssey 2: The best way to play Wii and GameCube games in 2024](https://mobilesyrup.com/2024/11/02/the-best-way-to-play-wii-gamecube-games-2024-2025/)
+    
     [](https://mobilesyrup.com/2024/10/31/qualcomm-ar-smartglasses-future/)
     
     Oct 31, 2024 | 11:13 AM EDT
@@ -840,18 +852,6 @@
     Oct 25, 2024 | 1:27 PM EDT
     
     ### [OxygenOS 15: very smooth, very AI](https://mobilesyrup.com/2024/10/25/oxygenos-15-very-mindful-ai-very/)
-    
-    [](https://mobilesyrup.com/2024/10/20/nhl-goalie-mask-designed-on-ipad/)
-    
-    Oct 20, 2024 | 2:28 PM EDT
-    
-    ### [Your favourite NHL Goalie mask was likely designed on iPad](https://mobilesyrup.com/2024/10/20/nhl-goalie-mask-designed-on-ipad/)
-    
-    [](https://mobilesyrup.com/2024/10/19/canada-local-thunk-balatro-apple-arcade/)
-    
-    Oct 19, 2024 | 2:22 PM EDT
-    
-    ### [Canadian-made Balatro on mobile is perfect for my gaming habits](https://mobilesyrup.com/2024/10/19/canada-local-thunk-balatro-apple-arcade/)
     
     * [Carriers](https://mobilesyrup.com/categories/features/features-carriers/)
         
@@ -969,6 +969,12 @@
         
     * [General](https://mobilesyrup.com/categories/features/features-general/)
         
+        [](https://mobilesyrup.com/2024/11/02/the-best-way-to-play-wii-gamecube-games-2024-2025/)
+        
+        Nov 2, 2024 | 2:32 PM EDT
+        
+        ### [Super Brad Odyssey 2: The best way to play Wii and GameCube games in 2024](https://mobilesyrup.com/2024/11/02/the-best-way-to-play-wii-gamecube-games-2024-2025/)
+        
         [](https://mobilesyrup.com/2024/10/31/qualcomm-ar-smartglasses-future/)
         
         Oct 31, 2024 | 11:13 AM EDT
@@ -999,14 +1005,14 @@
         
         ### [Your favourite NHL Goalie mask was likely designed on iPad](https://mobilesyrup.com/2024/10/20/nhl-goalie-mask-designed-on-ipad/)
         
-        [](https://mobilesyrup.com/2024/10/19/canada-local-thunk-balatro-apple-arcade/)
-        
-        Oct 19, 2024 | 2:22 PM EDT
-        
-        ### [Canadian-made Balatro on mobile is perfect for my gaming habits](https://mobilesyrup.com/2024/10/19/canada-local-thunk-balatro-apple-arcade/)
-        
     
 * [Resources](https://mobilesyrup.com/categories/resources/)
+    
+    [](https://mobilesyrup.com/2024/11/03/how-to-watch-the-2024-u-s-presidential-election-in-canada/)
+    
+    Nov 3, 2024 | 2:28 PM EST
+    
+    ### [How to watch the 2024 U.S. presidential election in Canada](https://mobilesyrup.com/2024/11/03/how-to-watch-the-2024-u-s-presidential-election-in-canada/)
     
     [](https://mobilesyrup.com/2024/10/31/how-to-know-which-mac-is-right-for-you/)
     
@@ -1037,12 +1043,6 @@
     Oct 26, 2024 | 11:03 AM EDT
     
     ### [Telecom news roundup: pre-Black Friday pricing action \[Oct. 19-25\]](https://mobilesyrup.com/2024/10/26/telecom-news-roundup-pre-black-friday-pricing-action/)
-    
-    [](https://mobilesyrup.com/2024/10/24/crave-november-2024-new-content/)
-    
-    Oct 24, 2024 | 4:09 PM EDT
-    
-    ### [New on Crave: November 2024](https://mobilesyrup.com/2024/10/24/crave-november-2024-new-content/)
     
     * [General](https://mobilesyrup.com/categories/resources/general-resources/)
         
@@ -1084,6 +1084,12 @@
         
     * [Streaming](https://mobilesyrup.com/categories/resources/resources-streaming/)
         
+        [](https://mobilesyrup.com/2024/11/03/how-to-watch-the-2024-u-s-presidential-election-in-canada/)
+        
+        Nov 3, 2024 | 2:28 PM EST
+        
+        ### [How to watch the 2024 U.S. presidential election in Canada](https://mobilesyrup.com/2024/11/03/how-to-watch-the-2024-u-s-presidential-election-in-canada/)
+        
         [](https://mobilesyrup.com/2024/10/30/new-prime-video-canada-november-2024/)
         
         Oct 30, 2024 | 5:33 PM EDT
@@ -1113,12 +1119,6 @@
         Oct 24, 2024 | 12:18 PM EDT
         
         ### [New on Netflix Canada: November 2024](https://mobilesyrup.com/2024/10/24/new-on-netflix-canada-november-2024/)
-        
-        [](https://mobilesyrup.com/2024/10/22/streaming-in-canada-apple-tv-plus-crave-netflix-prime-video-before-billy-crystal/)
-        
-        Oct 22, 2024 | 7:02 PM EDT
-        
-        ### [Streaming in Canada on Apple TV+, Crave, Netflix and Prime Video \[Oct. 21-27\]](https://mobilesyrup.com/2024/10/22/streaming-in-canada-apple-tv-plus-crave-netflix-prime-video-before-billy-crystal/)
         
     * [How-to's](https://mobilesyrup.com/categories/resources/resources-how-tos/)
         
@@ -1354,6 +1354,12 @@
     
 * [Streaming](https://mobilesyrup.com/categories/streaming/)
     
+    [](https://mobilesyrup.com/2024/11/03/i-spoke-with-karl-janisse-writer-of-passage-of-the-unknown-9-universe/)
+    
+    Nov 3, 2024 | 11:01 AM EST
+    
+    ### [Canadian writer Karl Janisse on Passage from the Unknown 9 universe](https://mobilesyrup.com/2024/11/03/i-spoke-with-karl-janisse-writer-of-passage-of-the-unknown-9-universe/)
+    
     [](https://mobilesyrup.com/2024/11/01/haikyu-dumpster-battle-crunchyroll/)
     
     Nov 1, 2024 | 12:17 PM EDT
@@ -1384,13 +1390,13 @@
     
     ### [Amazon’s God of War series has been completely rebooted: report](https://mobilesyrup.com/2024/10/18/amazon-god-of-war-series-reboot-report/)
     
-    [](https://mobilesyrup.com/2024/10/17/bell-usa-network-oxygen-true-crime-canada/)
-    
-    Oct 17, 2024 | 6:02 PM EDT
-    
-    ### [Bell brings USA Network and Oxygen True Crime to Canada](https://mobilesyrup.com/2024/10/17/bell-usa-network-oxygen-true-crime-canada/)
-    
     * [Streaming](https://mobilesyrup.com/categories/streaming/)
+        
+        [](https://mobilesyrup.com/2024/11/03/i-spoke-with-karl-janisse-writer-of-passage-of-the-unknown-9-universe/)
+        
+        Nov 3, 2024 | 11:01 AM EST
+        
+        ### [Canadian writer Karl Janisse on Passage from the Unknown 9 universe](https://mobilesyrup.com/2024/11/03/i-spoke-with-karl-janisse-writer-of-passage-of-the-unknown-9-universe/)
         
         [](https://mobilesyrup.com/2024/11/01/haikyu-dumpster-battle-crunchyroll/)
         
@@ -1421,12 +1427,6 @@
         Oct 18, 2024 | 12:26 PM EDT
         
         ### [Amazon’s God of War series has been completely rebooted: report](https://mobilesyrup.com/2024/10/18/amazon-god-of-war-series-reboot-report/)
-        
-        [](https://mobilesyrup.com/2024/10/17/bell-usa-network-oxygen-true-crime-canada/)
-        
-        Oct 17, 2024 | 6:02 PM EDT
-        
-        ### [Bell brings USA Network and Oxygen True Crime to Canada](https://mobilesyrup.com/2024/10/17/bell-usa-network-oxygen-true-crime-canada/)
         
     
 * [Videos](https://mobilesyrup.com/videos/)
