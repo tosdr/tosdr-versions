@@ -31,6 +31,345 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Siniestro de tránsito en Quito deja dos personas fallecidas este 4 de noviembre
+===============================================================================
+
+La mañana de este último día de feriado de Difuntos se registró un siniestro de tránsito.
+-----------------------------------------------------------------------------------------
+
+![Siniestro de tránsito se produjo en la av. Simón Bolívar.](https://www.elcomercio.com/wp-content/uploads/2024/11/siniestro-quito.jpg)
+
+En el último día de **feriado de Difuntos e Independencia de Cuenca**, un siniestro de tránsito se produjo en Quito, con un saldo mortal.
+
+El hecho ocurrió a las 06:20, de este lunes, 4 de noviembre de 2024, , según el reporte del **Cuerpo de Bomberos**.
+
+### Más noticias
+
+* [10 fallecidos en siniestro de tránsito en Morona Santiago](https://www.elcomercio.com/actualidad/seguridad/fallecidos-siniestro-transito-morona-santiago.html "10 fallecidos en siniestro de tránsito en Morona Santiago")
+* [Siniestro de tránsito en la avenida Simón Bolívar deja cinco personas heridas](https://www.elcomercio.com/actualidad/quito/siniestro-transito-avenida-simon-bolivar-heridos.html "Siniestro de tránsito en la avenida Simón Bolívar deja cinco personas heridas")
+* [Así funciona el Pico y placa en Quito este lunes 4 de noviembre, en feriado](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-lunes-4-de-noviembre.html "Así funciona el Pico y placa en Quito este lunes 4 de noviembre, en feriado")
+
+> 💥🚗 [#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | Nuestro equipo atiende una emergencia por un siniestro de tránsito en la Av. Simón Bolívar, sector San Juan de Cumbayá, sentido sur – norte.  
+>   
+> 🖤🖤 Lamentablemente, se registra dos personas fallecidas.  
+>   
+> 🙏Por favor, conduce con precaución.[#BomberosQuito](https://twitter.com/hashtag/BomberosQuito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/FOJuRBsjKw](https://t.co/FOJuRBsjKw)
+> 
+> — Bomberos Quito (@BomberosQuito) [November 4, 2024](https://twitter.com/BomberosQuito/status/1853419659388760496?ref_src=twsrc%5Etfw)
+
+Siniestro de tránsito en Quito y personas fallecidas
+----------------------------------------------------
+
+El **siniestro de tránsito** ocurrió en la **av. Simón Bolívar**, a la altura de San Juan de Cumbayá. Hasta las 08:30, la vía, en sentido sur-norte, permanecía cerrada.
+
+Según información del **Cuerpo de Bomberos**, la restricción podría durar entre una y dos horas, debido al desarrollo de las pericias, como el levantamiento de los cuerpos de las ocupantes del vehículo.
+
+Al sitio, además, acudió personal de la **Policía Nacional**. Se verificó que se trató de un volcamiento de un camión pequeño que transportaba planchas de cartón.
+
+Detalles del siniestro
+----------------------
+
+El chasis del vehículo se desprendió producto del **siniestro**. En la cabina del automotor, los efectivos encontraron a las dos personas.
+
+En el lugar, los uniformados desarrollaron **maniobras de rescate** para extraer a las víctimas y entregarlas a Medicina Legal para los trámites legales pertinentes.
+
+Integrantes de la Unidad Nacional de Investigación Operativa de Accidentología Vial de la Policía Nacional del Ecuador (SIAT) acudieron para las investigaciones de la causa del siniestro de tránsito.
+
+El Delegado de protección de datos en Ecuado, guardián de la privacidad digital
+===============================================================================
+
+El avance digital en Ecuador crea el rol del Delegado de Protección de Datos para asegurar la privacidad ciudadana.
+-------------------------------------------------------------------------------------------------------------------
+
+![Lorena Naranjo Godoy, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lorena-Naranjo-Godoy.jpg)
+
+El desarrollo exponencial de los **avances tecnológicos** impacta directamente a las personas a través de su **manifestación digital**, sus datos personales. Debido a esta evidente transformación digital que experimenta el Ecuador, la **figura** del Delegado de Protección de Datos (DPD) emerge como un actor fundamental para garantizar el adecuado tratamiento de la información personal de los **ciudadanos**. Esta nueva posición, establecida por la Ley Orgánica de Protección de Datos Personales (LOPDP) y su reglamento, representa un paso significativo hacia la **protección efectiva** de la **privacidad** y la protección de datos personales en el país.
+
+El DPD es un profesional especializado que actúa como intermediario entre los responsables del **tratamiento de datos** que son las personas naturales o jurídicas, públicas o privadas con o sin finalidad de lucro que para su **misión** o **gestión** ordinaria procesan datos de sus usuarios o clientes, como por ejemplo una universidad, un hospital, un banco, una **empresa** de retail, una ONG o una institución pública. Asimismo, el DPD interactúa con los encargados de tratamiento, titulares de los datos y con la **Autoridad de Protección de Datos Personales,** (Superintendencia de Protección de Datos Personales, cuya máxima autoridad es Fabrizzio Peralta), para quien es punto de contacto.
+
+Su principal **misión** es **supervisar** y garantizar el cumplimiento de la **normativa** de protección de datos dentro de las empresas, **organizaciones** e instituciones; para lo cual debe brindar asesoramiento y supervisión en el análisis de riesgo, evaluación de impacto, evaluación de **medidas de seguridad y supervisar su aplicación.**
+
+Es decir, acompañar en la **gestión de riesgos en derechos y libertades** sobre los activos de información que contienen **tratamiento de datos personales** y en esto se distingue del análisis de riesgo en seguridad de la información, el cual se realiza sobre los **activos de información** y asociados para garantizar la **confidencialidad, integridad y disponibilidad de la información**.
+
+Otra de las funciones del DPD es la comunicación y atención de derechos de los titulares, el manejo de incidentes en **datos personales**, incluido la **notificación a las autoridades de protección de datos** en caso de violaciones de seguridad, por ejemplo filtración de datos personales no autorizados; y, la capacitación y el desarrollo de una **cultura de protección de datos**.
+
+La **legislación ecuatoriana** establece que la designación de un DPD es obligatoria para: a) entidades del sector público; b) organizaciones que realicen **tratamiento masivo** o gran escala de datos personales; c) organizaciones que procesen datos sensibles; o, d) cuando el volumen, naturaleza, alcance o finalidades del tratamiento requieran supervisión constante.
+
+**P**ara ser DPD se requiere ser mayor de edad; estar en goce de los **derechos políticos**; tener título de tercer nivel en Derecho, Sistemas de Información, Telecomunicaciones, o de Tecnologías; y, acreditar experiencia profesional de por lo menos cinco años. No podrán ser delegados de protección de datos personales: a) quienes formen parte de los **órganos de administración y control** del responsable y encargado de tratamiento; b) los socios o accionistas del responsable y encargado; c) los cónyuges de los administradores, directores o comisarios de la compañía, en caso de haberlos, del responsable y encargado, o sus parientes hasta el cuarto grado de consanguinidad o segundo de afinidad; y, quienes tengan conflictos de intereses con el responsable y encargado, para lo cual la **Autoridad de Protección de Datos Personales.**
+
+El **delegado de Protección de Datos** se constituye como una figura clave en el nuevo ecosistema digital en Ecuador, su labor diaria impacta directamente en la protección de la privacidad y la protección de **datos personales de los ciudadanos**. Sin embargo, el Delegado de Protección de Datos Personales (DPO) suele confundirse con el Oficial de Seguridad de la Información (OSI), debido a que sus roles tienen como objetivo proteger información; sin embargo, tienen **ámbitos de aplicación distintos y complementarios**.
+
+En el caso del OSI su responsabilidad es **salvaguardar la confidencialidad**, integridad y disponibilidad de la información; implementar y **colaborar con el seguimiento de medidas de seguridad;** realizar auditorías y evaluaciones de riesgo y desarrollar políticas y procedimientos de seguridad. Es decir, el OSI se centra en la **seguridad de la información** en general, mientras que DPO se enfoca en la protección en el tratamiento de los datos personales y debe dar seguimiento de medidas técnicas, tecnológicas, organizativas, administrativas y jurídicas por lo que su enfoque es más regulatorio y/o de cumplimiento.
+
+Por cuanto sus roles son sustanciales no pueden **recaer las delegacione**s de DPD y OSI sobre la misma persona, ya que la ley requiere que no exista conflicto de interés y, por el contrario, los personales que ostenten estos roles deben trabajar juntos para **asegurar una protección integral de la información**.
+
+Es importante destacar que el Delegado de Protección de Datos Personales debe actuar de **manera independiente y objetiva,** y debe tener los conocimientos y habilidades necesarios para cumplir con sus responsabilidades, esto es **conocimientos técnicos y legales** relacionados con el adecuado tratamiento de datos personales.
+
+Sus principales desafíos son la resistencia al **cambio por parte de las empresas**, organizaciones e instituciones que requiere comprender la importancia del manejo adecuado de los datos personales a su cargo; **recursos limitados** para implementar políticas, procesos y procedimientos que mitigan riesgos sobre el tratamiento inadecuado de datos personales.
+
+Al DPD se le debe garantizar total **independencia del responsable** y del encargado del tratamiento de **datos personales**, pues debe ser capaz de proteger al titular y garantizar el cumplimiento de la ley y de asesorar a las directivas para una toma adecuada y oportuna de decisiones sobre el adecuado tratamiento de datos personales.
+
+La **efectiva implementación** de esta figura contribuirá significativamente a la protección de los derechos fundamentales de los ciudadanos en la era digital, alineando a Ecuador con los estándares internacionales en materia de **protección de datos personales**.
+
+Estados Unidos votará por más de 140 iniciativas en las urnas el 5 de noviembre
+===============================================================================
+
+Los estadounidenses no solo elegirán a su futuro presidente, sino que también votarán 146 de estas medidas populares.
+---------------------------------------------------------------------------------------------------------------------
+
+![Votantes estadounidenses en un centro electoral en Freedom Freedom, Ohio, EE. UU.](https://www.elcomercio.com/wp-content/uploads/2024/10/elecciones-estados-unidos-aborto-drogas-efe.jpg)
+
+Más de **140 iniciativas populares** se someterán a votación **este noviembre** en 41 estados de [Estados Unidos](https://www.elcomercio.com/actualidad/mundo/elecciones-estados-unidos-realizaran-5-noviembre-2024.html "https://www.elcomercio.com/actualidad/mundo/elecciones-estados-unidos-realizaran-5-noviembre-2024.html"). Se trata de una consulta masiva que abordará temas tan diversos como el **aborto, la inmigración, la legalización de la marihuana** o el **salario mínimo**.
+
+### Más noticias
+
+* [Las elecciones en Estados Unidos se realizarán el 5 de noviembre de 2024](https://www.elcomercio.com/actualidad/mundo/elecciones-estados-unidos-realizaran-5-noviembre-2024.html "Las elecciones en Estados Unidos se realizarán el 5 de noviembre de 2024")
+* [Nicky Jam retira su apoyo a Donald Trump](https://www.elcomercio.com/actualidad/mundo/nicky-jam-retira-apoyo-donald-trump.html "Nicky Jam retira su apoyo a Donald Trump ")
+* [Bad Bunny muestra su apoyo a Kamala Harris](https://www.elcomercio.com/actualidad/mundo/bad-bunny-muestra-apoyo-kamala-harris.html "Bad Bunny muestra su apoyo a Kamala Harris ")
+
+Una **iniciativa popular es una ley**, cuestión o pregunta que se plantea en una **papeleta de un estado** o una ciudad durante unas elecciones y que puede haber sido propuesta por los **propios habitantes** o por los legisladores, según define la página web Ballot Measure.
+
+El martes 5 de noviembre, los estadounidenses no solo elegirán a su **futuro presidente**, sino que también votarán **146 de estas medidas populare**s, de las cuales 77 vienen de legisladores y 57 de ciudadanos.
+
+Estos son los temas principales que se votarán en las urnas:
+
+**1\. Aborto**
+--------------
+
+El aborto será el **tema más recurrente en las papeletas** del próximo 5 de noviembre: los votantes decidirán sobre **11 medidas electorales** relativas a este tema, 10 de las cuales fijan derechos constitucionales relacionados con los **derechos reproductivo**s.
+
+En el caso de **Arizona, Florida, Missouri y Dakota del Sur**, las medidas están destinadas a proteger el derecho al aborto hasta la viabilidad fetal -es decir, hasta las **23 o 24 semanas de embarazo**\-, aunque con algunas **excepciones dependiendo** de cada estado.
+
+En Maryland, Montana, Nevada y Nueva York, las propuestas se enfocan en **consolidar el derecho** a abortar hasta la **viabilidad del feto** (algo que ya es legal en estos estados), garantizando este derecho a todas las personas independientemente de factores como su etnia u orientación sexual.
+
+Mientras, en Nebraska se proponen **dos enmiendas constitucionales:** una para proteger el aborto hasta la **viabilidad del feto** y otra para prohibirlo después del **primer trimestre de embarazo** (a excepción de casos de emergencia médica o de agresiones sexuales e incesto).
+
+ **2. Salarios**
+----------------
+
+Este 2024, los **salarios de la población estadounidense** también se someterán a votación: en Alaska y Missouri, las iniciativas populares proponen **elevar el salario mínimo a 15 dólares** la hora y fijar una serie de requisitos que permitan la **baja remunerada por enfermedad.**
+
+En California, la medida **elevaría el salario mínimo a 18 dólares por hora;** en Massachusetts se incrementaría el **salario de los trabajadores** que reciben propinas para equipararlo al **salario mínimo** y en Nebraska la propuesta garantizaría la baja por enfermedad remunerada para los empleados.
+
+Por su parte, en **Arizona se someterá a voto si los trabajadores** que reciben propinas deben cobrar un 25 % menos que el salario mínimo por hora.
+
+Entre 1996 y 2022, se presentaron con **éxito 28 iniciativas electorales** para incrementar los salarios mínimos de varios estados, de las cuales un 92 % fueron aprobadas, según la web Ballot Measure.
+
+**3\. Inmigración**
+-------------------
+
+Aunque la **inmigración es uno de los temas más comentados por las campañas** de ambos candidatos -especialmente por la del expresidente Donald Trump- solo hay una iniciativa popular que contemple esta cuestión, y es de lo más polémica.
+
+Así, los **ciudadanos de Arizona** votarán por una iniciativa que pretende hacer varios cambios en la **legislación penal y de inmigración**, entre ellos permitir que la policía detenga y deporte a los ciudadanos de países extranjeros que entren en el estado por lugares distintos a los puertos oficiales (algo que compete al gobierno federal).
+
+**4\. Marihuana y otras drogas**
+--------------------------------
+
+**Dakota del Norte y Dakota del Sur** votarán por tercera vez **si quieren legalizar o no la marihuana c**on fines recreativos, mientras que los ciudadanos de Florida decidirán si legalizar esta droga para todos los mayores de 21 años.
+
+Por su parte, Nebraska presenta una medida que pretende **legalizar la marihuana** con propósitos médicos.
+
+Más allá del cannabis, **Massachussets decidirá si legalizar o no determinadas sustancias psicodélicas**; de aprobar esta medida, se convertiría en el tercer estado en **legalizar estos productos**, después de Oregón (2020) y Colorado (2022).
+
+**5\. Justicia criminal**
+-------------------------
+
+En cuanto a la justicia criminal, California abordará la **cadena perpetua para los culpables de tráfico sexual** de menores y Colorado pretende **aumentar las penas para determinados delitos de drogas** y robos, además de eliminar el derecho a fianza en casos de asesinato en primer grado, entre otras medidas.
+
+Además, Colorado también votará una medida que propone **asignar ingresos estatales** a un nuevo fondo para la **contratación, retención, formación** y prestaciones por fallecimiento de las fuerzas del orden.
+
+**6\. Ciudadanía y sistema electoral**
+--------------------------------------
+
+Este año se lleva a las urnas el debate s**obre si los ciudadanos extranjeros pueden votar o no**: en este sentido, Idaho, Iowa, Kentucky, Missouri, Carolina del Norte, Oklahoma, Carolina del Sur y Wisconsin presentan enmiendas constitucionales que **prohibirían el voto de los no ciudadanos.**
+
+Según el **Centro de Estrategia de Iniciativas Electorales**, en las papeletas del 5 de noviembre figuran 39 medidas relacionadas con los procedimientos de votación o la democracia.
+
+Así podrás ver la lluvia de estrellas Táuridas 
+===============================================
+
+La lluvia de estrellas Táuridas alcanzará su pico el 4 y 5 de noviembre, se espera un espectáculo celestial fascinante.
+-----------------------------------------------------------------------------------------------------------------------
+
+![La lluvia de estrellas Táuridas se originan del cometa 2P/Encke. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/lluvia-de-estrellas-tauridas-1.jpg)
+
+La **Lluvia de estrellas Táuridas** es un **fenómeno astronómico** de gran belleza. Este evento **se produce cuando partículas de polvo y rocas del espacio ingresan a la atmósfera terrestre,** creando impresionantes estrellas fugaces.  
+
+### Más noticias
+
+* [Cuándo y cómo ver la lluvia de meteoros Oriónidas](https://www.elcomercio.com/tendencias/ciencia/lluvia-meteoros-orionidas-astronomia.html "https://www.elcomercio.com/tendencias/ciencia/lluvia-meteoros-orionidas-astronomia.html")
+* [¿Qué es la Luna Llena del Cazador que se podrá ver mañana en Ecuador?](https://www.elcomercio.com/tendencias/ciencia/luna-llena-cazador-astronomia-ecuador.html "https://www.elcomercio.com/tendencias/ciencia/luna-llena-cazador-astronomia-ecuador.html")
+
+En 2024, las **Táuridas** tendrán su **pico de actividad entre el 4 y el 5 de noviembre**, lo que supondrá una oportunidad única para los amantes de la astronomía y la naturaleza. 
+
+**Origen de las Táuridas** 
+---------------------------
+
+**Las Táuridas se originan del cometa 2P/Encke**, un cometa periódico que completa su órbita alrededor del Sol cada tres años. Este cometa se desintegró hace millones de años, al **formar un campo de escombros que la Tierra atraviesa cada año**. Esta lluvia tiene dos corrientes: las Táuridas del Norte y las Táuridas del Sur, siendo estas últimas las más visibles en noviembre, de acuerdo con [AS](https://mexico.as.com/actualidad/lluvia-de-estrellas-tauridas-del-sur-2024-cuando-es-a-que-hora-y-como-verlas-en-septiembre-desde-mexico-n/ "https://mexico.as.com/actualidad/lluvia-de-estrellas-tauridas-del-sur-2024-cuando-es-a-que-hora-y-como-verlas-en-septiembre-desde-mexico-n/") y el Observatorio Astronómico de Quito. 
+
+![Foto: Observatorio Astronómico de Quito.  ](https://www.elcomercio.com/wp-content/uploads/2024/10/lluvia-de-estrellas-tauridas-1024x683.jpg)
+
+Foto: Observatorio Astronómico de Quito.
+
+**¿Cuándo y dónde observarlas?** 
+---------------------------------
+
+La **actividad de las Táuridas** comenzó el 23 de septiembre y se extenderá hasta el 8 de diciembre de 2024. Sin embargo, **los días más destacados serán el 4 y el 5 de noviembre.** Durante estos días, **se podrán observar hasta diez meteoros por hora** en condiciones óptimas. La mejor hora para verlas será **después de la medianoche**, cuando el cielo esté más oscuro, siguiendo con AS.  
+
+**Consejos para la observación** 
+---------------------------------
+
+* **Ubicación:** Busca un lugar alejado de las luces urbanas. 
+
+* **Tiempo:** Las condiciones meteorológicas deben ser favorables; un cielo despejado es ideal. 
+
+* **Equipamiento:** No se necesita equipo especial, pero unas mantas o sillas cómodas pueden mejorar la experiencia. 
+
+**Características del fenómeno** 
+---------------------------------
+
+**Las Táuridas son conocidas por sus bolas de fuego brillantes**. A diferencia de otras **lluvias de meteoros**, son menos frecuentes, pero pueden ser más espectaculares debido a su tamaño y velocidad. Se mueven a aproximadamente 29 km/s, lo que les permite ser visibles durante más tiempo en el cielo, de acuerdo con [StarWalk](https://starwalk.space/es/news/southern-and-northern-taurid-meteor-showers "https://starwalk.space/es/news/southern-and-northern-taurid-meteor-showers").  
+
+**Cómo fotografiar las Táuridas** 
+----------------------------------
+
+Para aquellos interesados en capturar este fenómeno, aquí algunos consejos: 
+
+1. **Equipo necesario:** 
+
+* Cámara DSLR o sin espejo. 
+
+* Lente gran angular. 
+
+* Trípode para estabilidad. 
+
+2. **Configuración recomendada:** 
+
+* Apertura amplia (f/2.8 o menor). 
+
+* ISO alto (1600-3200). 
+
+* Velocidad de obturación larga (20-30 segundos). 
+
+3. **Encuadre:** Localiza la **constelación de Tauro** en el cielo, ya que es desde donde parecen originarse los meteoros 
+
+Quincy Jones deja un gran legado en la música popular
+=====================================================
+
+Quincy Jones, el productor detrás del trabajo de Michael Jackson, falleció hoy en California.
+---------------------------------------------------------------------------------------------
+
+![El músico y productor Quincy Jones falleció en Los Angeles, Califronia.](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-23.jpg)
+
+**Quincy Jones**, uno de los músicos más polifacéticos de las últimas décadas, con contribuciones importantes a géneros como el jazz, el pop, el funk o el soul y productor de algunas de las más destacadas estrellas de la música, **ha fallecido** en California a los **91 años**.
+
+### Más noticias
+
+* [Quincy Jones dice que Michael Jackson plagió algunas de sus canciones](https://www.elcomercio.com/tendencias/entretenimiento/entrevista-quincyjones-michaeljackson-plagio-canciones.html "https://www.elcomercio.com/tendencias/entretenimiento/entrevista-quincyjones-michaeljackson-plagio-canciones.html")
+* [Michael Jackson marcó una era musical](https://www.elcomercio.com/actualidad/michael-jackson-marco-musical.html)
+
+Quincy Jones y sus récords
+--------------------------
+
+El ganador de **27 premios Grammy** (de un récord de 79 nominaciones) y miembro del Salón de la Fama del Rock & Roll murió en la noche del domingo en su casa en el barrio Bel Air de Los Ángeles, rodeado de su familia, que no ha concretado las causas del fallecimiento.  
+  
+Su figura en el **mundo de la música**, con una carrera de más de 60 años, era tan respetada que el artista era conocido solo con el apelativo de **“Q”**.  
+  
+**Jones** rompió barreras creativas: músico, compositor, productor, **director**, arreglista, **artista**, propietario y ejecutivo de un sello discográfico, productor de cine y televisión, editor de revistas e incluso **filántropo**, recuerdan este lunes las revistas especializadas.
+
+Educado en el mundo del jazz, Jones se convirtió en una de las figuras más formidables de la música pop. Recogió seis de sus 27 premios **Grammy** por su álbum de 1990 **“Back on the Block”** y fue tres veces galardonado como productor del año, recuerda la prensa especializada.
+
+El anuncio de la familia de Quincy Jones
+----------------------------------------
+
+“Con el corazón lleno, pero roto, debemos compartir la **noticia del fallecimiento de nuestro padre** y hermano Quincy Jones. Y aunque esta es una pérdida increíble para nuestra familia, celebramos la gran vida que vivió y sabemos que nunca habrá otro como él”, dijo la **familia Jones** en el comunicado emitido por el promotor que difunden medios locales.
+
+“Era verdaderamente único y **lo extrañaremos profundamente**; nos reconforta y enorgullece enormemente saber que el amor y la alegría, que eran la esencia de su ser, fueron compartidos con el mundo a través de todo lo que creó. A través de su música y su amor sin límites, el corazón de Quincy Jones latirá por la eternidad”, agregaron en el comunicado.
+
+Los inicios de Quincy Jones
+---------------------------
+
+Quincy Delight Jones, **nació en Chicago,** el 14 de marzo de 1933. Su madre trabajaba en un banco antes de ser ingresada en una institución mental por esquizofrenia; su padre era un carpintero que jugaba **béisbol** semiprofesional.
+
+Se inició en el mundo del espectáculo como **trompetista** y también como pianista, evolucionando pronto a **compositor**, instrumentista y director de orquesta. Además, pasó a desempeñar el cargo de directivo de una importante empresa discográfica norteamericana, convirtiéndose pronto en un **productor discográfico y cinematográfico muy premiado.**
+
+De la amplia gama de actividades realizadas por Quincy Jones destaca la composición sinfónica titulada “Black Requiem” estrenada por la **Orquesta Sinfónica de Houston** con un coro de 80 voces, con Ray Charles como solista, así como la producción de los discos **“Thriller”, en 1987, y “Bad”, dos de los últimos y más premiados trabajos de Michael Jackson.**
+
+Jones ha trabajado siempre en toda clase de **lenguajes musicales,** pero el título de “músico de jazz” es el que más le enorgullecía.
+
+Trabajo como productor
+----------------------
+
+Durante nueve años, 1980 a 1989, Jones se dedicó a **producir discos de sus amigos:** Michael Jackson, Chaka Khan, James Ingram o Patti Austin, y de otros artistas célebres como: **Frank Sinatra** o Donna Summer, así como a componer entre otras, la banda sonora de la película **“El color púrpura”,** de Steven Spielberg.
+
+En 1989, Jones vuelve a publicar discos, nueve años después del éxito espectacular obtenido con “The Dude”, que sirvió para añadir más premios a su colección de **Grammys y Oscars.**
+
+Así, en este año edita “Back on the block”, expresión coloquial para indicar su vuelta con **nombre propio,** trabajo con el que **Jones** repite de nuevo la fórmula de convocar a cantantes e instrumentistas dispares de la música negra, desde el jazz al rap-urbano.  
+  
+En 1990, y en el marco de la XXIV edición del Mercado Internacional del Disco, MIDEM, celebrado en **Cannes** le fue concedida la insignia oficial de la Legión de Honor.
+
+El 20 de febrero de 1991 consiguió **6 “Grammy”** durante la 33 edición de estos premios que concede anualmente la Academia Nacional de Artes y Ciencias Discográficas de Estados Unidos. Con estos nuevos 6 galardones, entre los que figuran los de **mejor álbum, productor,** canción de rap para grupo y arreglo instrumental, Jones suma ya 25 a lo largo de carrera profesional.
+
+We are the world
+----------------
+
+En 1985, Jones llegó a los titulares internacionales como productor de “**We Are the World”** de USA for Africa, el sencillo dedicado a la ayuda a la hambruna en África; Michael Jackson fue coautor de la canción con **Lionel Richie** y lideró su elenco estelar de vocalistas.
+
+Se casó en tres ocasiones, con tres actrices, Peggy Lipton, Ulla Andersson y Jeri Caldwell, y tuvo una relación de siete años con la también intérprete **Nastassja Kinski**.
+
+Así funciona el Pico y placa en Quito este lunes 4 de noviembre, en feriado
+===========================================================================
+
+Revisa los límites del Pico y placa y evita ser sancionado con multas. Recuerda que los estacionamientos de borde son gratuitos.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Los agentes metropolitanos vigilan la aplicación de la medida en la ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/10/Pico-lunes-nov.jpg)
+
+El **Pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+Además, se debe recordar que **durante los feriados y los fines de semana** la medida no aplica.
+
+### Más noticias
+
+* [Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito](https://www.elcomercio.com/actualidad/quito/paradas-de-la-ecovia-registran-nuevos-cierres-por-trabajos-en-quito.html "Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito")
+* [Cajero automático de una farmacia fue extraído con explosivos](https://www.elcomercio.com/actualidad/seguridad/cajero-automatico-farmacia-robo-explosivos-llano-grande.html "Cajero automático de una farmacia fue extraído con explosivos")
+* [Caso Pamela Ati: Fiscalía tomó una decisión final](https://www.elcomercio.com/actualidad/seguridad/caso-pamela-ati-fiscalia-decision-final.html "Caso Pamela Ati: Fiscalía tomó una decisión final")
+
+Así como hay excepciones, **los vehículos que pertenecen a adultos mayores**, personas con discapacidad, vehículos eléctricos y los oficiales pueden circular con normalidad a cualquier hora.
+
+La restricción depende del **último dígito de la placa del vehículo**. Este lunes hay libre movilidad debido a que es feriado.
+
+Horarios del Pico y placa
+-------------------------
+
+En la mañana la medida se aplica de **06:00 a 09:30 y en la tarde, de 16:00 a 20:00.**
+
+Las autoridades locales hacen un llamado a la **colaboración ciudadana** y al respeto de estas normativas, en aras de garantizar una mejor movilidad urbana.
+
+Multas por infringir la medida
+------------------------------
+
+La multa por incumplirla es del 15% del **Salario Básico Unificado**, es decir 69 dólares la primera vez.
+
+Si la incumples una segunda vez, la sanción será del **25%, es decir, 115 dólares.**
+
+Y si infringes una tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
+
+Límites en Quito para Pico y placa
+----------------------------------
+
+Esta medida se aplica en el **Distrito Metropolitano.** En el norte la restricción está presente en la avenida de Los Narcisos y teniendo como puntos de referencia la **Escuela Superior de la Policía** y Puente Villorita.
+
+Desde los puntos anteriores esta medida se extiende hasta la avenida **Morán Valverde**. Es decir, todas las vías entre Los Narcisos y Morán Valverde tiene restricción de lunes a viernes.
+
+El otro límite vehicular es la **avenida Simón Bolívar**, donde se acaba la restricción vehicular y sus puntos de referencia son Intercambiador de La Granados e Intercambiador de Carapungo.
+
+Al oeste, la [av. Mariscal Sucre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") hasta la intersección de la av. **Manuel Córdova Galarza** (redondel El Condado).
+
+> ⚠️ ¡No caigas en multas! Conoce por dónde puedes circular en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/VAySmVN9kd](https://t.co/VAySmVN9kd) [pic.twitter.com/Gyso7gkL1O](https://t.co/Gyso7gkL1O)
+> 
+> — El Comercio (@elcomerciocom) [June 9, 2024](https://twitter.com/elcomerciocom/status/1799837694727434657?ref_src=twsrc%5Etfw)
+
 El voto latino impacta, como nunca, en las elecciones de EE. UU.
 ================================================================
 
@@ -635,295 +974,6 @@ El neozelandés **Liam Lawson** (RB) y el séptuple campeón mundial inglés Lew
 ------------------------------
 
 La próxima prueba, el **Gran Premio de Las Vegas**, el antepenúltimo del Mundial, se disputará el próximo 24 de noviembre. Se realizará en el circuito urbano de esa localidad del estado de Nevada. 
-
-No te pierdas nuestro Especial de Halloween
--------------------------------------------
-
-Kendry Páez anotó en la victoria de Independiente del Valle
-===========================================================
-
-El conjunto rayado no se baja del objetivo de ser el primer campeón directo de la Liga Pro.
--------------------------------------------------------------------------------------------
-
-![Kendry Páez se reencontró con el gol en Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-72.jpg)
-
-**Independiente del Valle** cumplió con su tarea al derrotar 2-0 a El Nacional, que presentó un equipo alternativo, en la jornada 12 de la Liga Pro, este domingo 3 de noviembre.
-
-Los goleadores del compromiso fueron **Jeison Medina**, quien recuperó el ritmo goleador que lo llevó a destacar en Aucas, y **Kendry Páez**, que anotó su primer gol con IDV tras seis partidos sin marcar.
-
-### Más noticias:
-
-* [Barcelona SC confía en Segundo Alejandro Castillo como su DT](https://www.elcomercio.com/deportes/futbol/barcelona-sc-confia-en-segundo-alejandro-castillo-como-su-dt.html "Barcelona SC confía en Segundo Alejandro Castillo como su DT")
-* [Aucas rescató el empate y frenó a Barcelona SC en la Liga Pro](https://www.elcomercio.com/deportes/futbol/aucas-rescato-el-empate-y-freno-a-barcelona-sc-en-la-liga-pro.html "Aucas rescató el empate y frenó a Barcelona SC en la Liga Pro")
-* [Independiente del Valle es finalista de la Copa Ecuador](https://www.elcomercio.com/deportes/copa-ecuador-independiente-finalista-catolica.html "Independiente del Valle es finalista de la Copa Ecuador")
-
-Gracias a este triunfo, Independiente del Valle se coloca como el nuevo **líder en solitario** de la segunda etapa del campeonato ecuatoriano con 26 puntos. Si se mantiene así, se convertirá en el primer campeón directo desde la creación de la Liga Pro.
-
-**El** **Nacional**, que ya se aseguró su clasificación a la Copa Libertadores como finalista de la Copa Ecuador, ocupa el décimo lugar en la tabla con 15 puntos.
-
-Independiente del Valle busca el campeonato directo
----------------------------------------------------
-
-El equipo negriazul fue claramente superior en su casa, frente a un El Nacional que **optó por un plantel mixto**, dando descanso a varios de sus artífices en la clasificación a la final de la Copa Ecuador.
-
-El primer gol en el Estadio IDV llegó rápidamente, a los 22 minutos, cuando **Jeison Medina** se infiltró entre los centrales para recibir un pase del chileno Fernández y definir con el arco vacío. Con esta anotación, Medina alcanzó los 18 goles en la Liga Pro, quedando a solo dos del goleador del torneo, Álex Arce.
-
-> Estuvo donde debía 🫡  
->   
-> Jeison Medina llegó para cerrar la jugada y poner a ganar a [@IDV\_EC](https://twitter.com/IDV_EC?ref_src=twsrc%5Etfw).[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/m4PPl3yJ0o](https://t.co/m4PPl3yJ0o)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [November 3, 2024](https://twitter.com/zapping_ecu/status/1853143601930203209?ref_src=twsrc%5Etfw)
-
-En la segunda mitad, el dominio de los locales continuó, y el gol de la tranquilidad llegó con una brillante jugada. **Kendry Páez** realizó un pase magistral para romper la defensa de los “puros criollos”, permitiendo que el balón llegara a Jeison Medina, quien, en lugar de intentar el gol personal, devolvió el pase a Páez, que definió con gran calidad.
-
-> Lo piden, lo tienen 💎  
->   
-> Kendry Páez tocó y fue a recibir para ampliar la ventaja de [@IDV\_EC](https://twitter.com/IDV_EC?ref_src=twsrc%5Etfw).[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/tzHVSCfhmg](https://t.co/tzHVSCfhmg)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [November 3, 2024](https://twitter.com/zapping_ecu/status/1853155419792810280?ref_src=twsrc%5Etfw)
-
-Se viene una final adelantada
------------------------------
-
-En la jornada 13 de la Liga Pro, la antepenúltima de la segunda etapa, Independiente del Valle visitará a **Liga** **de Quito** en lo que promete ser una final adelantada.
-
-El compromiso se jugará el sábado 9 de noviembre a las 19:00 en el **Estadio Rodrigo Paz Delgado**. Si IDV gana, estará a un paso de convertirse en el primer campeón directo bajo el formato de Liga Pro.
-
-No te pierdas nuestro Especial de Halloween
--------------------------------------------
-
-¿Cómo denunciar especulación en los precios de generadores y equipos eléctricos?
-================================================================================
-
-La Superintendencia de Competencia Económica informó sobre los canales que se pueden utilizar para presentar las denuncias de alzas de precios.
------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Generadores eléctricos, power banks y UPS, las opciones de los ecuatorianos para afrontar la crisis energética. Foto: Pixabay](https://www.elcomercio.com/wp-content/uploads/2024/10/generadores_720.jpg)
-
-La **Superintendencia de Competencia Económica** controlará cualquier tipo de práctica o acuerdo que incremente los precios de bienes y servicios del sector energético en **Ecuador**.
-
-El **superintendente, Hans W. Ehmig Dillon,** pidió a los operadores económicos, “abstenerse de cometer este tipo de actos e invitó a la ciudadanía a informar acerca de cualquier irregularidad que sea detectada”.
-
-### Más noticias
-
-* [Horarios de cortes de luz en Ecuador bajarán del 5 al 10 de noviembre](https://www.elcomercio.com/actualidad/negocios/horario-cortes-luz-ecuador-bajaran-noviembre.html "Horarios de cortes de luz en Ecuador bajarán del 5 al 10 de noviembre")
-* [La central hidroeléctrica Mazar reanudó sus operaciones](https://www.elcomercio.com/actualidad/negocios/central-hidroelectrica-mazar-reanudo-operaciones.html "La central hidroeléctrica Mazar reanudó sus operaciones")
-* [Los cortes de luz continúan durante 3 de noviembre, revise el horario para Quito](https://www.elcomercio.com/actualidad/quito/cortes-luz-3-de-noviembre-horario-quito-feriado.html "Los cortes de luz continúan durante 3 de noviembre, revise el horario para Quito")
-
-Cómo denunciar el incremento de precios
----------------------------------------
-
-Los ciudadanos que identifiquen aumentos podrán denunciar a través de la **ventanilla virtual** de su página [www.sce.gob.ec](http://www.sce.gob.ec/) o mediante las redes sociales de la institución en **Facebook**, **X**, **Instagram** y **LinkedIn**.
-
-El exhorto de **Hans W. Ehmig Dillon** está dirigido a los **fabricantes, importadores, distribuidores, comercializadores y operadores económicos** de cualquier tipo de producto y servicio relacionado con el sector energético.
-
-Es decir, de **generadores eléctricos a diésel, gasolina, inversores**, **convertidores de voltaje, baterías**, entre otros.
-
-La advertencia de la Superintendencia
--------------------------------------
-
-El documento advierte abstenerse de realizar cualquier tipo de acto, práctica para subir los precios de estos bienes y servicios y/o sus márgenes de ganancia.
-
-El Superintendente también solicita “trasladar al usuario final los beneficios arancelarios (**0% de arancel**)” establecidos en la **Resolución 009-0024** emitida por el **Comité de Comercio Exterior (Comex).**
-
-Tres extranjeros y un ecuatoriano fueron detenidos en Manabí con droga
-======================================================================
-
-Los procesados fueron arrestados junto con una carga de droga que pesaba 1,5 toneladas.
----------------------------------------------------------------------------------------
-
-![La operación fue ejecutada por la Policía Nacional en la ciudad de Portoviejo. Cortesía: Policía](https://www.elcomercio.com/wp-content/uploads/2024/11/Manabi.jpg)
-
-Los líderes de una presunta estructura **narcodelictiva internacional** fueron detenidos este 3 de noviembre de 2024, con una **carga droga en Manabí.**
-
-La operación fue ejecutada por la **Policía Nacional** en **Portoviejo** donde capturaron a cuatro presuntos narcotraficantes. Dos son de nacionalidad mexicana, un colombiano y un ecuatoriano.
-
-Los cuatro procesados fueron arrestados junto con una carga de droga que pesaba **1,5 toneladas.**
-
-El coronel **Renán Miller, jefe de la Policía de Manabí,** informó que atraparon a los sospechosos en delito flagrante tras allanar una **casa en Portoviejo** donde encontraron el cargamento.
-
-Había 1 295 bloques tipo ladrillos de cocaína pura que iba a ser distribuida en casi 15 millones.
-
-“La red operaba en **Ecuador** y la incautación de la droga está valorada en más de 75 millones de dólares en los **Estados Unidos**” expresó.
-
-### Más noticias
-
-* [10 fallecidos en siniestro de tránsito en Morona Santiago](https://www.elcomercio.com/actualidad/seguridad/fallecidos-siniestro-transito-morona-santiago.html "10 fallecidos en siniestro de tránsito en Morona Santiago")
-* [Fiscalía investiga ataque armado a Joselito Argüello, candidato a la Asamblea](https://www.elcomercio.com/actualidad/seguridad/joselito-arguello-aspirante-asambleista-victima-ataque-armado-salinas.html "Fiscalía investiga ataque armado a Joselito Argüello, candidato a la Asamblea")
-* [El uso legítimo de la fuerza policial se intensificó este 2024 en Ecuador](https://www.elcomercio.com/actualidad/seguridad/uso-legitimo-fuerza-policia-intensifico-2024-ecuador.html "El uso legítimo de la fuerza policial se intensificó este 2024 en Ecuador")
-
-Los extranjeros no tienen antecedentes en Ecuador
--------------------------------------------------
-
-Miller informó que los detenidos extranjeros **no tienen antecedentes penales** en **Ecuador**.
-
-En la operación se incautó **una camioneta y seis celulares** que serán analizados por los peritos para establecer cómo estaba conformada la red internacional.
-
-A través de la revisión de los equipos, la **Fiscalía General del Estado** también pretende conocer los nexos de la presunta banda con los carteles mexicanos y colombianos.
-
-Esta operación fue liderada por la **Unidad Nacional de Investigación de Sustancias Químicas** (UNSQ).
-
-La **Policía** afirma que con la captura de los cuatro procesados se desmanteló una red de tráfico de drogas intencionalidad que tenía su **Centro de Operación en Manabí**.
-
-En este 2024, la **Policía y las Fuerzas Armadas del Ecuador** han incautado más de 246 toneladas.
-
-Algunas de aquellas incautaciones están vinculadas a la **captura de once presuntos narcos** considerados por el actual Gobierno como objetivos de alto valor por liderar los mandos altos en las organizaciones criminales vinculadas al tráfico internacional de drogas.
-
-En lo que va del 2024 se han decomisado cerca de 20 toneladas de cocaína pura en **Manabí**. La mayoría de droga fue decomisada en **Manta, Portoviejo y Puerto López.**
-
-Estrenos musicales para endulzar el oído en este feriado
-========================================================
-
-Un playlist con los estrenos más destacados de la última quincena de octubre.
------------------------------------------------------------------------------
-
-![Lady Gaga estrenó nuevo sencillo. Foto. Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-31T174636.033.jpg)
-
-Durante la última **quincena** de octubre varios artistas lanzaron nuevos álbumes y sencillos que capturaron la atención del público. A continuación, te presentamos algunos de los estrenos más destacados.
-
-### **Más noticias:**
-
-* [WhatsApp planea incorporar una nueva función relacionada con la música](https://www.elcomercio.com/tecnologia/whatsapp-funcion-musica-estados.html "https://www.elcomercio.com/tecnologia/whatsapp-funcion-musica-estados.html") 
-* [Liam Payne y la controversia de la ‘cocaína rosa’](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html")
-* [Autopsia de Liam Payne reveló inquietantes detalles de su muerte](https://www.elcomercio.com/tendencias/entretenimiento/autopsia-liam-payne-detalles-muertes.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/autopsia-liam-payne-detalles-muertes.html?source=Internal&ref=Single+Content+Link")
-
-**Estrenos musicales para endulzar el oído en este feriado**
-------------------------------------------------------------
-
-The **Weeknd** lanzó su esperada canción y video musical titulado **São Paulo**, en colaboración con la superestrella brasileña Anitta.
-
-Dirigido por FREEKA, el video presenta un giro oscuro y sorprendente, donde **Anitta**, quien aparece embarazada en la narrativa, revela un rostro inquietante que emerge de su vientre.
-
-Estas imágenes perturbadoras aportan un nuevo y audaz capítulo visual al universo creativo de The Weeknd.
-
-**Lady Gaga**, ganadora de 13 premios **Grammy**, presentó su nuevo sencillo **DISEASE**, el primer adelanto de su esperado álbum, cariñosamente denominado ‘LG7’, que verá la luz en la primavera de 2025.
-
-Este lanzamiento marca su regreso al pop, luego del álbum conceptual ‘**Harlequin’**, que acompaña la película ‘**Joker: Folie à Deux**‘.
-
-‘**Harlequin’** debutó en el número 1 de la lista Billboard Jazz y alcanzó el top 20 de la Billboard 200, recibiendo elogios de la crítica, incluyendo una destacada reseña de Rolling Stone.
-
-**Más música para escuchar durante este feriado**
--------------------------------------------------
-
-**Il mare calmo della sera** es la canción principal del nuevo álbum de Andrea Bocelli, titulado ‘Duets’. Con ese celebra sus 30 años en la música.
-
-Esta versión reimaginada de uno de los éxitos más perdurables de Bocelli cuenta con la colaboración de la legendaria superestrella del country Chris Stapleton.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBwtuqEvRSH/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por The Tonight Show (@fallontonight)](https://www.instagram.com/reel/DBwtuqEvRSH/?utm_source=ig_embed&utm_campaign=loading)
-
-Este último aporta su potente y distintiva voz a esta brillante interpretación. Con 10 premios Grammy y 11 premios ACM, Stapleton añade una nueva dimensión a la emotiva melodía.
-
-**El pop se suma a la lista de estrenos musicales**
----------------------------------------------------
-
-Joaquina lanzó Todo y nada, un himno cautivador que refleja las relaciones breves, pero impactantes que dejan huella en nuestras vidas.
-
-Esta vibrante canción pop narra la historia de un romance adolescente secreto, capturando la emoción y el desorden del amor joven a través de la frase “hacemos un desastre, pero nos divertimos”.
-
-Con su mezcla de ilusión y energía, Todo y nada evoca esos momentos lúdicos e inolvidables que todos hemos experimentado.
-
-Moisés Caicedo, el héroe del Chelsea ante el Manchester United
-==============================================================
-
-El ecuatoriano fue el mejor jugador del partido y clave para que los 'Blues' se llevaran un punto como visitantes.
-------------------------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo fue el mejor jugador del partido entre el Chelsea y el Manchester United.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-71.jpg)
-
-El **Chelsea** rescató un empate 1-1 ante el Manchester United en la décima jornada de la Premier League, jugada este domingo 3 de noviembre. La gran figura del partido fue **Moisés Caicedo**, quien anotó el gol del empate para los ‘Blues’.
-
-Gracias a este valioso punto, el equipo londinense escaló posiciones y se mantiene en los puestos de clasificación a la **Champions League**. Actualmente, ocupa el cuarto lugar con 18 puntos, a siete del líder Liverpool, que tiene 25.
-
-### Más noticias:
-
-* [(Video) Moisés Caicedo celebró su cumpleaños con un golazo en el Chelsea](https://www.elcomercio.com/deportes/futbol/video-moises-caicedo-celebro-su-cumpleanos-con-un-golazo-en-el-chelsea.html "(Video) Moisés Caicedo celebró su cumpleaños con un golazo en el Chelsea")
-* [Chelsea y Ecuador celebran el cumpleaños de Moisés Caicedo](https://www.elcomercio.com/deportes/futbol/chelsea-ecuador-celebran-cumpleanos-de-moises-caicedo.html "Chelsea y Ecuador celebran el cumpleaños de Moisés Caicedo")
-* [Moisés Caicedo motivó a Alan Franco a ganar la Libertadores](https://www.elcomercio.com/deportes/futbol/moises-caicedo-motivo-a-alan-franco-a-ganar-la-libertadores.html "Moisés Caicedo motivó a Alan Franco a ganar la Libertadores")
-
-Caicedo fue el jugador destacado del compromiso. **Dominó el mediocampo**, como ha hecho a lo largo de la temporada, y resultó un verdadero dolor de cabeza para el Manchester United, **consolidándose como el héroe de los visitantes.**
-
-El mediocampista ecuatoriano terminó el partido con un **golazo, una precisión de pases del 84%**, ganó 9 de 17 duelos, realizó dos despejes, tres entradas, una intercepción y obtuvo una calificación de 7.6 puntos en SofaScore, la más alta de su equipo.
-
-Manchester United abrió el marcador
------------------------------------
-
-En la última jugada del primer tiempo, el **Manchester United** tuvo su oportunidad más clara con un remate de Marcus Rashford. El delantero inglés disparó desde dentro del área, y el balón impactó en la unión entre el poste y el travesaño, quedando el gol a centímetros.
-
-Fue un partido parejo, de ida y vuelta, y muy intenso en la primera mitad. Sin embargo, ambos **equipos carecieron de contundencia** y apenas generaron ocasiones claras de gol.
-
-A los 68 minutos, el arquero del Chelsea, Robert Sánchez, cometió un penal al intentar frenar una jugada de **Rasmus Højlund**, que lo superó con un regate.
-
-**Bruno Fernandes,** capitán del Manchester United, tomó la responsabilidad y convirtió la pena máxima, poniendo en ventaja a su equipo y desatando la euforia en Old Trafford.
-
-> BRUNO FERNANDES PONE EL 1-0 DEL UNITED VS. CHELSEA.  
->   
-> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/pq1PUdKwwn](https://t.co/pq1PUdKwwn)
-> 
-> — SportsCenter (@SC\_ESPN) [November 3, 2024](https://twitter.com/SC_ESPN/status/1853135324186108021?ref_src=twsrc%5Etfw)
-
-Moisés Caicedo, golazo y el empate
-----------------------------------
-
-La alegría le duró poco a los locales, pues, corría el minuto 74 en Old Trafford, el ‘Teatro de los Sueños’. El partido iba 1-0 a favor del **United**, pero Moisés Caicedo tenía otros planes.
-
-En un tiro de esquina lanzado al área sin mucho peligro, el brasileño **Casemiro** despejó el balón hasta los linderos del área. Sin embargo, no contaba con que le quedaría a uno de los jugadores más destacados del partido y de la temporada.
-
-**Moisés Caicedo**, que ya estaba teniendo un gran partido, visualizó la oportunidad perfecta. Sin pensarlo dos veces, conectó un potente remate de primera. El disparo salió a ras de piso, veloz y directo, tan preciso que, pese al esfuerzo de Onana por detenerlo, el gol fue inevitable.
-
-Finalmente, su anotación sirvió para sacar un empate ante un rival complicado, en una cancha difícil.
-
-> ¡¡QUE GOLAZO MOI!! ¡CAICEDO LE DIO DE VOLEA Y MARCA EL 1-1 DE CHELSEA VS. UNITED!  
->   
-> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/daQTGgJUrr](https://t.co/daQTGgJUrr)
-> 
-> — SportsCenter (@SC\_ESPN) [November 3, 2024](https://twitter.com/SC_ESPN/status/1853136470652912001?ref_src=twsrc%5Etfw)
-
-No te pierdas nuestro Especial de Halloween
--------------------------------------------
-
-(Video) Moisés Caicedo celebró su cumpleaños con un golazo en el Chelsea
-========================================================================
-
-El 'Niño Moi' anotó su primer gol en la temporada 2024/25 con la camiseta del Chelsea.
---------------------------------------------------------------------------------------
-
-![Moisés Caicedo celebrando su gol con el Chelsea ante Manchester United.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-70.jpg)
-
-**Moisés** **Caicedo** cumplió 23 años el sábado 2 de noviembre, y el 3 de noviembre, en su primer partido tras el cumpleaños, el **ecuatoriano anotó un golazo** en el encuentro entre Chelsea y Manchester United por la Premier League.
-
-El ecuatoriano sigue demostrando que es uno de los mejores jugadores, no solo de los ‘Blues’, sino también de toda la **Premier League**. En uno de los partidos más importantes de la temporada, el ‘**Niño Moi’ fue la diferencia.**
-
-### Más noticias:
-
-* [Chelsea y Ecuador celebran el cumpleaños de Moisés Caicedo](https://www.elcomercio.com/deportes/futbol/chelsea-ecuador-celebran-cumpleanos-de-moises-caicedo.html "Chelsea y Ecuador celebran el cumpleaños de Moisés Caicedo")
-* [Moisés Caicedo motivó a Alan Franco a ganar la Libertadores](https://www.elcomercio.com/deportes/futbol/moises-caicedo-motivo-a-alan-franco-a-ganar-la-libertadores.html "Moisés Caicedo motivó a Alan Franco a ganar la Libertadores")
-* [Moisés Caicedo y el Chelsea se despidieron de la Carabao Cup](https://www.elcomercio.com/deportes/futbol/moises-caicedo-y-el-chelsea-se-despidieron-de-la-carabao-cup.html "Moisés Caicedo y el Chelsea se despidieron de la Carabao Cup")
-
-El golazo de Moisés Caicedo
----------------------------
-
-Corría el minuto 74 en Old Trafford, el ‘Teatro de los Sueños’. El partido iba 1-0 a favor del United, pero **Moisés Caicedo** tenía otros planes.
-
-En un tiro de esquina lanzado al área sin mucho peligro, el brasileño **Casemiro** despejó el balón hasta los linderos del área. Sin embargo, no contaba con que le quedaría a uno de los jugadores más destacados del partido y de la temporada.
-
-Moisés Caicedo, que ya estaba teniendo un gran partido, visualizó la oportunidad perfecta. **Sin pensarlo dos veces, conectó un potente remate de primera**. El disparo salió a ras de piso, veloz y directo, tan preciso que, pese al esfuerzo de Onana por detenerlo, el gol fue inevitable.
-
-Finalmente, su **anotación sirvió para sacar un empate** ante un rival complicado, en una cancha difícil.
-
-> ¡¡QUE GOLAZO MOI!! ¡CAICEDO LE DIO DE VOLEA Y MARCA EL 1-1 DE CHELSEA VS. UNITED!  
->   
-> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/daQTGgJUrr](https://t.co/daQTGgJUrr)
-> 
-> — SportsCenter (@SC\_ESPN) [November 3, 2024](https://twitter.com/SC_ESPN/status/1853136470652912001?ref_src=twsrc%5Etfw)
-
-Su primer gol de la temporada
------------------------------
-
-Este fue el **primer gol de Moisés Caicedo** en la temporada 2024/25, y curiosamente no es la primera vez que marca contra el Manchester United. En su etapa con el Brighton Hove & Albion también les anotó, y fue su primer gol en la Premier League, igualmente con un remate de media distancia.
-
-En cuanto al Chelsea, este es su **segundo gol desde que llegó en la temporada 2023/24**. Curiosamente, sus dos goles con los ‘Blues’ han sido desde fuera del área, ambos auténticos golazos.
 
 No te pierdas nuestro Especial de Halloween
 -------------------------------------------
