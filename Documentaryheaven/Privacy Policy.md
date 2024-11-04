@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Freedom Downtime: The Story of Kevin Mitnick](/wp-content/thumbnails/1263-100x70.jpeg?x53432)
+* [![Ross Kemp on Gangs – St Louis](/wp-content/thumbnails/625-100x70.png?x53432)
     
-    Freedom Downtime: The Story of Kevin Mitnick
+    Ross Kemp on Gangs – St Louis
     
-    Can you launch a nuclear missile by whistling into a payphone? The unofficial story of Kevin Mitnick, possibly the first citizen in American history to be jailed without a bail-hearing. He went to jai](https://documentaryheaven.com/freedom-downtime-the-story-of-kevin-mitnick/ "Freedom Downtime: The Story of Kevin Mitnick")
-* [![Scotland: The Edge of Europe](/wp-content/thumbnails/12913-100x70.jpg?x53432)
+    Ross’s examines Middle America’s gang culture with a visit to St. Louis, Missouri; where he takes a look at how this Midwestern municipality with a population of 342,000 people, there are around 380,0](https://documentaryheaven.com/ross-kemp-on-gangs-st-louis/ "Ross Kemp on Gangs – St Louis")
+* [![Fall Of The Republic: The Presidency Of Barack Obama](/wp-content/thumbnails/2515-100x70.jpg?x53432)
     
-    Scotland: The Edge of Europe
+    Fall Of The Republic: The Presidency Of Barack Obama
     
-    Scotland sits on the very edge of the continent but how European is this nation located on the geographical margin? This film predates the Brexit vote but still provides us with an interesting lo](https://documentaryheaven.com/scotland-edge-of-europe/ "Scotland: The Edge of Europe")
-* [![The Elephant in the Room](/wp-content/thumbnails/745-100x70.png?x53432)
+    Fall Of The Republic documents how an offshore corporate cartel is bankrupting the US economy by design. Leaders are now declaring that world government has arrived and that the dollar will be replace](https://documentaryheaven.com/fall-of-the-republic-the-presidency-of-barack-obama/ "Fall Of The Republic: The Presidency Of Barack Obama")
+* [![Screamadelica – Classic Albums (Primal Scream)](/wp-content/thumbnails/5827-100x70.jpg?x53432)
     
-    The Elephant in the Room
+    Screamadelica – Classic Albums (Primal Scream)
     
-    The Elephant in the Room is a documentary following British filmmaker Dean Puckett through his journey into the 9/11 Truth Movement: a global movement of ‘conspiracy theorists’ who believe that th](https://documentaryheaven.com/elephant-in-the-room/ "The Elephant in the Room")
-* [![Half Ton World](/wp-content/thumbnails/9579-100x70.jpg?x53432)
+    Primal Scream's seminal album Screamadelica was released in 1991, and synthesized the band's rock 'n' roll roots with the dance culture of that time; for many, the album's sound and imagery came to be](https://documentaryheaven.com/screamadelica-classic-albums-primal-scream/ "Screamadelica – Classic Albums (Primal Scream)")
+* [![Koyaanisqatsi: Life out of Balance](/wp-content/thumbnails/261-100x70.png?x53432)
     
-    Half Ton World
+    Koyaanisqatsi: Life out of Balance
     
-    2013 was the year obesity became a worldwide emergency and there are now currently over 300 million people around the world who are now considered to be clinically obese, some of them are truly supers](https://documentaryheaven.com/half-ton-world/ "Half Ton World")
-* [![GAEA GIRLS](/wp-content/thumbnails/2553-100x70.jpg?x53432)
+    The amazing documentary film contains several cinematic sequences accompanied by recurring musical themes. The chapters on the Koyaanisqatsi DVD are separated and named by the titles of the musical se](https://documentaryheaven.com/koyaanisqatsi-life-out-of-balance/ "Koyaanisqatsi: Life out of Balance")
+* [![The Dyatlov Pass Case](/wp-content/thumbnails/14073-100x70.jpg?x53432)
     
-    GAEA GIRLS
+    The Dyatlov Pass Case
     
-    "This fascinating film follows the physically grueling and mentally exhausting training regimen of several young wanna-be GAEA GIRLS, a group of Japanese women wrestlers. The idea of them may seem lik](https://documentaryheaven.com/gaea-girls/ "GAEA GIRLS")
+    In 1959 a group of Russian hikers decided to head out on an expedition of a mountainous region of the western Soviet Union, the group itself consisted of 9 experienced men and women, all of whom were](https://documentaryheaven.com/dyatlov-pass-case/ "The Dyatlov Pass Case")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
