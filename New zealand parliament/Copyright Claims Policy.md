@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/47HansS_20040629_00001199/locke-keith-local-government-auckland-amendment-bill/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/mps-and-electorates/members-of-parliament/kemp-takutai/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/47HansS_20040629_00001199/locke-keith-local-government-auckland-amendment-bill/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/mps-and-electorates/members-of-parliament/kemp-takutai/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
