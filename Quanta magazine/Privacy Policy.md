@@ -291,35 +291,23 @@ Past Week
 
 _By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
 
-[![A line creating an optimal path through an array of dots](https://www.quantamagazine.org/wp-content/uploads/2024/10/DijkstraOptimality_crDaveWhyte-Thumbnail.webp)](https://www.quantamagazine.org/computer-scientists-establish-the-best-way-to-traverse-a-graph-20241025/)
-
-[#### Computer Scientists Establish the Best Way to Traverse a Graph](https://www.quantamagazine.org/computer-scientists-establish-the-best-way-to-traverse-a-graph-20241025/)
-
-_By_ [Ben Brubaker](https://www.quantamagazine.org/authors/brubaker_ben)
-
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/10/RamanujanQuest-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
-
-[#### Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
-
-_By_ [Jordana Cepelewicz](https://www.quantamagazine.org/authors/jordana-cepelewicz)
-
 [![A person laying on a bunkbed resembling a graph](https://www.quantamagazine.org/wp-content/uploads/2024/11/BunkbedDebunked_cr-Irene-Perez-for-Quanta-Magazine-Thumbnail.webp)](https://www.quantamagazine.org/maths-bunkbed-conjecture-has-been-debunked-20241101/)
 
 [#### Math’s ‘Bunkbed Conjecture’ Has Been Debunked](https://www.quantamagazine.org/maths-bunkbed-conjecture-has-been-debunked-20241101/)
 
 _By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
 
+[![A line creating an optimal path through an array of dots](https://www.quantamagazine.org/wp-content/uploads/2024/10/DijkstraOptimality_crDaveWhyte-Thumbnail.webp)](https://www.quantamagazine.org/computer-scientists-establish-the-best-way-to-traverse-a-graph-20241025/)
+
+[#### Computer Scientists Establish the Best Way to Traverse a Graph](https://www.quantamagazine.org/computer-scientists-establish-the-best-way-to-traverse-a-graph-20241025/)
+
+_By_ [Ben Brubaker](https://www.quantamagazine.org/authors/brubaker_ben)
+
 [![An illustration shows a cell with its organs arranged by shape, as if in separate compartments.](https://www.quantamagazine.org/wp-content/uploads/2024/10/EukaryoteExplainer-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/)
 
 [#### Meet the Eukaryote, the First Cell to Get Organized](https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/)
 
 _By_ [Molly Herring](https://www.quantamagazine.org/authors/mollyherring)
-
-[![An illustration shows zero lit by spotlight; it flickers in a cave that looks like a brain.](https://www.quantamagazine.org/wp-content/uploads/2024/10/ZeroNeurosciene_crMaggieChiang_Thumbnail.webp)](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
-
-[#### How the Human Brain Contends With the Strangeness of Zero](https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/)
-
-_By_ [Yasemin Saplakoglu](https://www.quantamagazine.org/authors/yasemin-saplakoglu)
 
 The Quanta Newsletter
 
