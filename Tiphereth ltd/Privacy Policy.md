@@ -26,8 +26,6 @@
 
 [Donate](https://www.tiphereth.org.uk/support-donate)
 
-[Regular Donors](https://www.tiphereth.org.uk/regular-donors)
-
 [Jobs](https://www.tiphereth.org.uk/jobs)
 
 [Contact](https://www.tiphereth.org.uk/contact)
@@ -35,6 +33,8 @@
 [Buy Firewood](https://www.tiphereth.org.uk/new-dropdown)
 
 [Buy Firewood](https://www.tiphereth.org.uk/support-compost-and-firewood)
+
+[Login Account](#)
 
 [](https://twitter.com/tipherethltd)[](https://www.facebook.com/tiphereth.camphilledinburgh)[](https://www.instagram.com/printstudiotiphereth/)
 
@@ -66,8 +66,6 @@ Open Menu Close Menu
 
 [Donate](https://www.tiphereth.org.uk/support-donate)
 
-[Regular Donors](https://www.tiphereth.org.uk/regular-donors)
-
 [Jobs](https://www.tiphereth.org.uk/jobs)
 
 [Contact](https://www.tiphereth.org.uk/contact)
@@ -75,6 +73,8 @@ Open Menu Close Menu
 [Buy Firewood](https://www.tiphereth.org.uk/new-dropdown)
 
 [Buy Firewood](https://www.tiphereth.org.uk/support-compost-and-firewood)
+
+[Login Account](#)
 
 [](https://twitter.com/tipherethltd)[](https://www.facebook.com/tiphereth.camphilledinburgh)[](https://www.instagram.com/printstudiotiphereth/)
 
@@ -108,8 +108,6 @@ Open Menu Close Menu
 
 [Donate](https://www.tiphereth.org.uk/support-donate)
 
-[Regular Donors](https://www.tiphereth.org.uk/regular-donors)
-
 [Jobs](https://www.tiphereth.org.uk/jobs)
 
 [Contact](https://www.tiphereth.org.uk/contact)
@@ -119,6 +117,8 @@ Open Menu Close Menu
 [Back](https://www.tiphereth.org.uk/)
 
 [Buy Firewood](https://www.tiphereth.org.uk/support-compost-and-firewood)
+
+[Login Account](#)
 
 [](https://twitter.com/tipherethltd)
 
