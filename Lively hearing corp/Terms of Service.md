@@ -40,7 +40,7 @@ With our advanced hearing aids and recommended expert care, you'll be hearing be
 
 [Start your 100-day trial](https://www.listenlively.com/survey)[Shop for hearing aids ›](https://www.listenlively.com/product)
 
-![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop-test2.dd0b3ca5.jpg)
+![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop.dae76a02.jpg)
 
 [Our clearest  
 sound, our most discreet design](https://www.listenlively.com/product)[Our clearest  
@@ -85,7 +85,7 @@ Try Enhance Select hearing aids for 100 days. If you're not fully satisfied, we'
 90% of customers using Enhance Select Premium report hearing better\*
 ---------------------------------------------------------------------
 
-4.6 out of 5(3881 reviews)
+4.6 out of 5(3903 reviews)
 
 * _**95%** report hearing friends & family better_
 * _**95%** report asking others to repeat themselves less_
@@ -126,13 +126,16 @@ Your new hearing aids work right out of the box, whether you choose custom-progr
 
 With our **Premium Package**, our Audiology Team works with you remotely to improve your hearing.
 
+**Need more information?**  
+Visit our [How it Works page](https://www.listenlively.com/how-it-works) to watch an explainer video, or to read the answers to the video's key questions.
+
 [Get started](https://www.listenlively.com/survey)
 
 #### Hearing aids for every budget & lifestyle
 
 ### Everything you need for better hearing
 
-4.6 out of 5(3881 reviews)
+4.6 out of 5(3903 reviews)
 
 ![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/hp-bundle.0d06c898.jpg)
 
@@ -272,7 +275,7 @@ Shop
 
 Why Jabra Enhance
 
-[Expert care & support](https://www.listenlively.com/hearing-care) [How it works](https://www.listenlively.com/#how_it_works) [Customer reviews](https://www.listenlively.com/reviews)
+[Expert care & support](https://www.listenlively.com/hearing-care) [How it works](https://www.listenlively.com/how-it-works) [Customer reviews](https://www.listenlively.com/reviews)
 
 Hearing resources
 
