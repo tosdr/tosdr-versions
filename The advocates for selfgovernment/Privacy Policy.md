@@ -1,7 +1,14 @@
+Beta
+
 Password Reset Confirmation
 ---------------------------
 
 If an account matching the email you entered was found, you will receive an email with a link to reset your password.
+
+Welcome to our Beta
+-------------------
+
+The Advocates of Self-Government is preparing a new experience for our users.
 
 User Not Found
 --------------
@@ -60,159 +67,6 @@ Enable Dark Mode
     Read more](https://www.theadvocates.org/political-type-comparison/)
     
     Most Popular
-    
-    * [![](https://www.theadvocates.org/wp-content/uploads/2024/05/asg-whitehouse-resized.jpeg)
-        
-        ### The World’s Smallest Political Quiz
-        
-        Discover your political type and what your answers mean
-        
-        Read more
-        
-        23242153 Respondents  
-        by **The Advocates**
-        
-        Duration
-        
-        2.5 Min](https://www.theadvocates.org/qep/the-worlds-smallest-political-quiz/)
-        
-    * [![](https://www.theadvocates.org/wp-content/uploads/2023/06/gun-control-resized.jpeg)
-        
-        ### Gun Control Survey
-        
-        Discover if your political type score matches with your views on specific issues, and compare your results to others.
-        
-        Read more
-        
-        850 Respondents  
-        by **The Advocates**
-        
-        Duration
-        
-        7 Min](https://www.theadvocates.org/qep/gun-control-survey/)
-        
-    * [![](https://www.theadvocates.org/wp-content/uploads/2022/12/AdobeStock_68336479-scaled-resized.jpeg)
-        
-        ### Federal Spending Survey
-        
-        Discover if your political type score matches with your views on specific issues, and compare your results to others.
-        
-        Read more
-        
-        2270 Respondents  
-        by **The Advocates**
-        
-        Duration
-        
-        4.5 Min](https://www.theadvocates.org/qep/federal-spending-survey/)
-        
-    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/national-security-and-foreign-policy-resized.jpeg)
-        
-        ### National Security And Foreign Policy
-        
-        Discover if your political type score matches with your views on specific issues, and compare your results to others.
-        
-        Read more
-        
-        2500 Respondents  
-        by **The Advocates**
-        
-        Duration
-        
-        4 Min](https://www.theadvocates.org/qep/national-security-survey/)
-        
-    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/government-debt-resized.jpeg)
-        
-        ### Government Debt, Money, and Monetary Policy
-        
-        Discover if your political type score matches with your views on specific issues, and compare your results to others.
-        
-        Read more
-        
-        1140 Respondents  
-        by **The Advocates**
-        
-        Duration
-        
-        3 Min](https://www.theadvocates.org/qep/government-debt-money-and-monetary-policy/)
-        
-    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/worlds-smallest-quiz-resized.jpeg)
-        
-        ### Identity Politics and Political Correctness
-        
-        Discover if your political type score matches with your views on specific issues, and compare your results to others.
-        
-        Read more
-        
-        2250 Respondents  
-        by **The Advocates**
-        
-        Duration
-        
-        4 Min](https://www.theadvocates.org/qep/identity-politics-and-political-correctness/)
-        
-    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/do-you-understand-self-government-resized.jpeg)
-        
-        ### Censorship and Free Speech
-        
-        Discover if your political type score matches with your views on specific issues, and compare your results to others.
-        
-        Read more
-        
-        1950 Respondents  
-        by **The Advocates**
-        
-        Duration
-        
-        4.5 Min](https://www.theadvocates.org/qep/censorship-and-free-speech/)
-        
-    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/election-integrity-survey-resized.jpeg)
-        
-        ### Election Integrity Survey
-        
-        Discover if your political type score matches with your views on specific issues, and compare your results to others.
-        
-        Read more
-        
-        860 Respondents  
-        by **The Advocates**
-        
-        Duration
-        
-        3 Min](https://www.theadvocates.org/qep/election-integrity-survey/)
-        
-    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/single-issue-surveys-resized.jpeg)
-        
-        ### Pandemic Survey
-        
-        Discover if your political type score matches with your views on specific issues, and compare your results to others.
-        
-        Read more
-        
-        1450 Respondents  
-        by **The Advocates**
-        
-        Duration
-        
-        4 Min](https://www.theadvocates.org/qep/pandemic-survey/)
-        
-    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/police-accountability-resized.jpeg)
-        
-        ### Police Accountability
-        
-        Discover if your political type score matches with your views on specific issues, and compare your results to others.
-        
-        Read more
-        
-        1120 Respondents  
-        by **The Advocates**
-        
-        Duration
-        
-        3 Min](https://www.theadvocates.org/qep/police-accountability/)
-        
-    
-    [](#)[](#)
     
     [See All Quizzes](https://www.theadvocates.org/quizzes/)
     
