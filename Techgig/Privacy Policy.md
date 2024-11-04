@@ -418,7 +418,7 @@ Please provide an email first!.
 * [Interact with IT industry experts](https://www.techgig.com/webinar)
 * [Assess your skills](https://www.techgig.com/skilltest)
 * [Know about top Companies](https://www.techgig.com/company)
-* [Read Top Tech News](https://www.techgig.com/tech-news)
+* [Read Top Tech Updates](https://www.techgig.com/tech-news)
 
 #### For Developers
 
