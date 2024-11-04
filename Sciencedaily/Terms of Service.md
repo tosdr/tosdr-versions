@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 3, 2024**
+**November 4, 2024**
 
 * * *
 
@@ -253,23 +253,23 @@ this week
 
 [Wounds and Healing](https://www.sciencedaily.com/news/health_medicine/wounds_and_healing/)
 
-[Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
+[Lymphoma](https://www.sciencedaily.com/news/health_medicine/lymphoma/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+[Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
 
-[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
+[Engineering and Construction](https://www.sciencedaily.com/news/matter_energy/engineering_and_construction/)
 
-[Educational Technology](https://www.sciencedaily.com/news/computers_math/educational_technology/)
+[Satellites](https://www.sciencedaily.com/news/space_time/satellites/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
 
-[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
+[Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
 
-[Biotechnology](https://www.sciencedaily.com/news/plants_animals/biotechnology/)
+[Forest](https://www.sciencedaily.com/news/earth_climate/forests/)
 
   
 
