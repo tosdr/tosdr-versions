@@ -6,7 +6,7 @@
 
            
 
-[New｜Only True Pro Sees the Unseen](https://www.eufy.com/eufycam-pro?ref=topbanner_1)
+[New｜Constant Care with Hybrid Baby Monitor E21](https://www.eufy.com/products/e8354121?variant=44328357789882&ref=topbanner_1)
 
 [](https://www.eufy.com/livestream?ref=navimenu_10_copy)
 
