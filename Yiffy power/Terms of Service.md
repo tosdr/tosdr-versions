@@ -105,23 +105,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 541 1
+0 554 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/ashley-kinktober-2024-and-etc-created-by-maiteik/)
+[](https://yiff-party.com/yiff-ai-premium/64700/)
 
-[ashley (kinktober 2024 and etc) created by maiteik](https://yiff-party.com/yiff/ashley-kinktober-2024-and-etc-created-by-maiteik/)
+[#64700](https://yiff-party.com/yiff-ai-premium/64700/)
 
-0 149 0
+0 35 0
 
 October 5, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/directed-by-foxedfoxyfox-4/)
+[](https://yiff-party.com/yiff/warhammer-franchise-created-by-sepiruth/)
 
-[directed by foxedfoxyfox](https://yiff-party.com/yiff-ai-premium/directed-by-foxedfoxyfox-4/)
+[warhammer (franchise) created by sepiruth](https://yiff-party.com/yiff/warhammer-franchise-created-by-sepiruth/)
 
-0 1 0
+0 0 0
 
 November 4, 2024
 
