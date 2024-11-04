@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Finanz­aufsicht: Gefälschte E-Mails](https://www.test.de/Finanzaufsicht-Gefaelschte-E-Mails-6020298-0/ "Finanzaufsicht - Gefälschte E-Mails")
-* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
-* [Das Renten-Set: Formulare für Ihre Rentenplanung](https://www.test.de/Das-Renten-Set-Formulare-fuer-Ihre-Rentenplanung-6138022-0/ "Das Renten-Set - Formulare für Ihre Rentenplanung")
-* [Dubioses Fest­geld: Vorsicht bei Alpha Blue Sky](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Alpha-Blue-Sky-6146449-0/ "Dubioses Festgeld - Vorsicht bei Alpha Blue Sky")
-* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
-* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [„Aktiver“ ETF: Kultfonds ARK Invest – Wert­entwick­lung ohne Glamour](https://www.test.de/ARK-Invest-Augen-auf-bei-aktiven-ETF-6117977-0/ "„Aktiver“ ETF - Kultfonds ARK Invest – Wertentwicklung ohne Glamour")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
+* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
+* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
+* [Interview Mund­geruch: Was gegen schlechten Atem hilft](https://www.test.de/Interview-Mundgeruch-Was-gegen-schlechten-Atem-hilft-5957260-0/ "Interview Mundgeruch - Was gegen schlechten Atem hilft")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Finanz­aufsicht: Gefälschte E-Mails](https://www.test.de/Finanzaufsicht-Gefaelschte-E-Mails-6020298-0/ "Finanzaufsicht - Gefälschte E-Mails")
-* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
-* [Das Renten-Set: Formulare für Ihre Rentenplanung](https://www.test.de/Das-Renten-Set-Formulare-fuer-Ihre-Rentenplanung-6138022-0/ "Das Renten-Set - Formulare für Ihre Rentenplanung")
-* [Dubioses Fest­geld: Vorsicht bei Alpha Blue Sky](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Alpha-Blue-Sky-6146449-0/ "Dubioses Festgeld - Vorsicht bei Alpha Blue Sky")
-* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
-* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [„Aktiver“ ETF: Kultfonds ARK Invest – Wert­entwick­lung ohne Glamour](https://www.test.de/ARK-Invest-Augen-auf-bei-aktiven-ETF-6117977-0/ "„Aktiver“ ETF - Kultfonds ARK Invest – Wertentwicklung ohne Glamour")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
+* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
+* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
+* [Interview Mund­geruch: Was gegen schlechten Atem hilft](https://www.test.de/Interview-Mundgeruch-Was-gegen-schlechten-Atem-hilft-5957260-0/ "Interview Mundgeruch - Was gegen schlechten Atem hilft")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Finanz­aufsicht: Gefälschte E-Mails](https://www.test.de/Finanzaufsicht-Gefaelschte-E-Mails-6020298-0/ "Finanzaufsicht - Gefälschte E-Mails")
-* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
-* [Das Renten-Set: Formulare für Ihre Rentenplanung](https://www.test.de/Das-Renten-Set-Formulare-fuer-Ihre-Rentenplanung-6138022-0/ "Das Renten-Set - Formulare für Ihre Rentenplanung")
-* [Dubioses Fest­geld: Vorsicht bei Alpha Blue Sky](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Alpha-Blue-Sky-6146449-0/ "Dubioses Festgeld - Vorsicht bei Alpha Blue Sky")
-* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
-* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [„Aktiver“ ETF: Kultfonds ARK Invest – Wert­entwick­lung ohne Glamour](https://www.test.de/ARK-Invest-Augen-auf-bei-aktiven-ETF-6117977-0/ "„Aktiver“ ETF - Kultfonds ARK Invest – Wertentwicklung ohne Glamour")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
+* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
+* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
+* [Interview Mund­geruch: Was gegen schlechten Atem hilft](https://www.test.de/Interview-Mundgeruch-Was-gegen-schlechten-Atem-hilft-5957260-0/ "Interview Mundgeruch - Was gegen schlechten Atem hilft")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Finanz­aufsicht: Gefälschte E-Mails](https://www.test.de/Finanzaufsicht-Gefaelschte-E-Mails-6020298-0/ "Finanzaufsicht - Gefälschte E-Mails")
-* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
-* [Das Renten-Set: Formulare für Ihre Rentenplanung](https://www.test.de/Das-Renten-Set-Formulare-fuer-Ihre-Rentenplanung-6138022-0/ "Das Renten-Set - Formulare für Ihre Rentenplanung")
-* [Dubioses Fest­geld: Vorsicht bei Alpha Blue Sky](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Alpha-Blue-Sky-6146449-0/ "Dubioses Festgeld - Vorsicht bei Alpha Blue Sky")
-* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
-* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [„Aktiver“ ETF: Kultfonds ARK Invest – Wert­entwick­lung ohne Glamour](https://www.test.de/ARK-Invest-Augen-auf-bei-aktiven-ETF-6117977-0/ "„Aktiver“ ETF - Kultfonds ARK Invest – Wertentwicklung ohne Glamour")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
+* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
+* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
+* [Interview Mund­geruch: Was gegen schlechten Atem hilft](https://www.test.de/Interview-Mundgeruch-Was-gegen-schlechten-Atem-hilft-5957260-0/ "Interview Mundgeruch - Was gegen schlechten Atem hilft")
 
 Service Stiftung Warentest
 
