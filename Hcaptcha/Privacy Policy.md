@@ -25,7 +25,7 @@ From the blog:
 Privacy Policy
 ==============
 
-_Last updated: November 21, 2023_
+_Last updated: October 23, 2024_
 
 Welcome to hCaptcha! This Privacy Policy describes the practices of Intuition Machines, Inc. ("IMI", "we" or "us") regarding our collection, use, and disclosure of information (including Personal Information, defined below) through our website at www.hcaptcha.com and any other subdomains or domains we use (the "Sites") and the hCaptcha application program interface and related software and materials (collectively, the "Service").
 
@@ -57,30 +57,40 @@ Data Privacy Framework
 ----------------------
 
 ‍  
-Intuition Machines, Inc. ("IM") complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.  IM has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF.  IM has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy notice and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.  To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit https://www.dataprivacyframework.gov/.
+Intuition Machines, Inc. ("IM") complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.  IM has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF.  IM has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy notice and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.  To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit:
+
+https://www.dataprivacyframework.gov/
 
 **Scope:**  
 IM adheres to the EU-U.S. DPF Principles with respect to personal data of individuals in the European Economic Area member states, the United Kingdom (and Gibraltar) and to the Swiss-U.S. DPF Principles with respect to the personal data of individuals in Switzerland ("Covered Individuals") processed by Intuition Machines, Inc. as part of providing our Services ("Personal Data").
 
 **Data processed:**  
-IM provides cloud security services that may be included in other websites and apps, or used within the customer's server environment. In providing these services, IM seeks to minimize collection and retention of data, and maintains no long-term data about End Users of IM services, but may process the following Personal Data of Covered Individuals in the United States:  
+IM provides cloud security services that may be included in other websites and apps, or used within the customer's server environment. In providing these services, IM seeks to minimize collection and retention of data, and maintains no long-term data about End Users of IM services, but may process the following Personal Data of Covered Individuals in the United States:
+
 Communications metadata (e.g. information on originating IP address or other identifier, date and time of interaction);  
-Contact information for our customers and their employees with access to the Services, and similar registered user data; and  
+Contact information for our customers and their employees with access to the Services, and similar registered user data; and
+
 Service support ticketing information (contact detail for individuals initiating the support request and any other personal data shared as part of the support request).
 
 **Purposes for which data is used:**  
 IM may use Personal Data for providing, managing, supporting, deploying, enhancing, or improving our services, as otherwise instructed by the IM customer or other data controller who transmitted, received, or stored the data, or in accordance with contractual requirements. IM may also use Personal Data for other purposes for which the customer or other data controller has obtained the relevant Covered Individual’s consent.
 
 **Inquiries and complaints:**  
-If you are a Covered Individual and believe that IM maintains your Personal Data within the scope of our EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, or Swiss-U.S. DPF certifications, you may submit any privacy or data use concerns concerning such data by emailing [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection) or by mail to: Intuition Machines, Inc. 1065 SW 8th St #704, Miami FL 33130, USA Attention: Privacy  
-IM will respond within 45 days of receiving the communication. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://www.jamsadr.com/DPF-Dispute-Resolution  
-If neither IM nor our U.S.-based third party dispute resolution provider resolves your complaint, you may have the possibility to engage in binding arbitration as provided under the Data Privacy Framework Program (See Data Privacy Framework website).
+If you are a Covered Individual and believe that IM maintains your Personal Data within the scope of our EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, or Swiss-U.S. DPF certifications, you may submit any privacy or data use concerns concerning such data by emailing support@imachines.com or by mail to: Intuition Machines, Inc. 1065 SW 8th St #704, Miami FL 33130, USA Attention: Privacy
+
+IM will respond within 45 days of receiving the communication. In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Intuition Machines, Inc. ("IM") commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS, an alternative dispute resolution provider based in the United States. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at:
+
+https://www.jamsadr.com/DPF-Dispute-Resolution
+
+If neither IM nor our U.S.-based third party dispute resolution provider resolves your complaint, you may have the possibility to engage in binding arbitration as provided under the Data Privacy Framework Program. See Data Privacy Framework website at:
+
+https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction
 
 **Third parties who may receive Personal Data:**  
 IM may disclose Personal Data to its affiliates, as well as to a limited number of third-party business partners, service providers, vendors, suppliers and other contractors (collectively, "Service Providers") for the purpose of assisting us in providing, managing, deploying, enhancing, or improving our services. IM maintains contracts with these IM affiliates and Service Providers restricting their access, use and disclosure of Personal Data in compliance with our Data Privacy Framework obligations, and IM may be liable if such parties fail to meet those obligations and we are responsible for the event giving rise to the damage. We also may share or disclose Personal Data to the extent that the customer or other data controller has obtained the relevant Covered Individual's consent.
 
 **Your rights to access, to limit use, and to limit disclosure:**  
-Covered Individuals have rights to access their stored Personal Data and to limit its use and disclosure. With our Data Privacy Framework certification, 8x8 has committed to respect those rights. If you are an Covered Individual and you wish to request access to or to limit use or disclosure of your Personal Data, please contact us by email to [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection) or by mail to: Intuition Machines, Inc. 1065 SW 8th St #704, Miami FL 33130, USA Attention: Privacy
+Covered Individuals have rights to access their stored Personal Data and to limit its use and disclosure. With our Data Privacy Framework certification, 8x8 has committed to respect those rights. If you are an Covered Individual and you wish to request access to or to limit use or disclosure of your Personal Data, please contact us by email to privacy@imachines.com or by mail to: Intuition Machines, Inc. 1065 SW 8th St #704, Miami FL 33130, USA Attention: Privacy
 
   
 **U.S. Federal Trade Commission enforcement:**  
@@ -158,7 +168,7 @@ How We Secure Information
 
 We implement appropriate technical and organizational measures to protect the information we collect and store, and require all agents who carry out our processing on our behalf to do the same. Unfortunately, no security measures are 100% foolproof, and as such no network or system (including ours) can be guaranteed to be 100% secure against destruction, loss, alteration, unauthorized disclosure of, or access to information we collect and store. If you believe your information may not be secure for any reason, please contact us immediately at:
 
-‍[\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection)
+‍[support@hcaptcha.com](mailto:support@hcaptcha.com)
 
 Warranty Disclaimers
 --------------------
@@ -182,7 +192,7 @@ In accordance with applicable law, you may have the right to:
 
    • Appeal our Decision to decline to process your request.
 
-Please note that listing these rights above does not mean that we necessarily undertake any activity in which they would be relevant or applicable. If you would like to exercise any of these rights, please contact us at: [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection). We will process such requests in accordance with applicable laws.
+Please note that listing these rights above does not mean that we necessarily undertake any activity in which they would be relevant or applicable. If you would like to exercise any of these rights, please contact us at: support@hcaptcha.com. We will process such requests in accordance with applicable laws.
 
 If applicable laws grant you an appeal right and you would like to appeal our decision with respect to your request, you may do so by informing us of this and providing us with information supporting your appeal.
 
@@ -197,7 +207,7 @@ Information from Children
 
 Our Sites and Service are not directed to children under the age of 13 and we do not knowingly collect Personal Information from children under the age of 13. If we learn that we have collected Personal Information of a child under the age 13, we will take reasonable steps to delete such information from our files as soon as is practicable, unless we have a legal obligation to retain it. Please contact us if you believe we have any information from or about a child under the age of 13:
 
-[\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection)
+[support@hcaptcha.com](mailto:support@hcaptcha.com)
 
 Notice to California Residents
 ------------------------------
@@ -249,11 +259,9 @@ Disclosure Regarding Sensitive Personal Information. IMI only uses and discloses
 * To verify or maintain the quality or safety of a product, service, or device that is owned, manufactured, manufactured for, or controlled by IMI, and to improve, upgrade, or enhance the service or device that is owned, manufactured by, manufactured for, or controlled by IMI.
 * For purposes that do not infer characteristics about individuals.
 
-  
-
 Non-Discrimination. California residents have the right not to receive discriminatory treatment by us for the exercise of their rights conferred by the CCPA.  
 
-Authorized Agent.Only you, or someone legally authorized to act on your behalf,may make a verifiable consumer request related to your PersonalInformation. You may also make a verifiable consumer request onbehalf of your minor child. To authorize an agent, provide writtenaurization signed by you and your designated agent and contact usat [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection)for additional instructions.  
+Authorized Agent.Only you, or someone legally authorized to act on your behalf,may make a verifiable consumer request related to your PersonalInformation. You may also make a verifiable consumer request onbehalf of your minor child. To authorize an agent, provide writtenaurization signed by you and your designated agent and contact usat [support@hcaptcha.com](mailto:support@hcaptcha.com) for additional instructions.  
 
 Verification. To protect your privacy, we will take steps to reasonably verify your identity before fulfilling your request submitted under the CCPA.These steps may involve asking you to provide sufficient information that allows us to reasonably verify you are the person about whom we collected Personal Information or an authorized representative. Examples of our verification process may include asking you to provide the email address or phone number we have associated with you, opening a link sent to the contact information provided, and following the instructions on the website you are taken to.
 
@@ -272,7 +280,7 @@ Some of the information you provide us may constitute sensitive data as defined 
 
 Legal Bases for Processing
 
-We only use your personal information as permitted by law. We are required to inform you of the legal bases of our processing of your personal information, which are described below. If you have questions about the legal bases under which we process your personal information, contact us at [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection).
+We only use your personal information as permitted by law. We are required to inform you of the legal bases of our processing of your personal information, which are described below. If you have questions about the legal bases under which we process your personal information, contact us at support@hcaptcha.com.
 
 Processing Purposes
 
@@ -300,7 +308,7 @@ With your consent
 
 Legal Basis
 
-Where our use of your personal information is based upon your consent, you have the right to withdraw it at any time in the manner indicated in the Service or by contacting us at [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection).
+Where our use of your personal information is based upon your consent, you have the right to withdraw it at any time in the manner indicated in the Service or by contacting us at support@hcaptcha.com.
 
 Your Rights
 
@@ -336,7 +344,7 @@ Object to our reliance on our legitimate interests as the basis of our processin
 
 Data Subject Access Rights Requests
 
-We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions. If you would like to submit a complaint about our use of your personal information or response to your requests regarding your personal information, you may contact us at [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection) or submit a complaint to the data protection regulator in your jurisdiction. You can find your data protection regulator at [this](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm) location.
+We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions. If you would like to submit a complaint about our use of your personal information or response to your requests regarding your personal information, you may contact us at support@hcaptcha.com or submit a complaint to the data protection regulator in your jurisdiction. You can find your data protection regulator at [this](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm) location.
 
 Cross-Border Data Transfer
 
@@ -361,7 +369,7 @@ Information collected via technical means such as cookies, webpage counters and 
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-‍[\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection)
+‍[support@hcaptcha.com](mailto:support@hcaptcha.com)
 
 Changes to this Privacy Policy
 ------------------------------
@@ -370,7 +378,7 @@ Any information that we collect is subject to the Privacy Policy in effect at th
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-‍[\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection)
+‍[support@hcaptcha.com](mailto:support@hcaptcha.com)
 
 Cookie Policy
 -------------
@@ -391,7 +399,7 @@ GDPR Note: we believe the hCaptcha anti-bot service (i.e. the Service embedded b
 
 This is not legal advice, and no warranties are provided regarding this analysis. If you have additional questions or concerns, please contact us at:
 
-‍[\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection)‍
+‍[support@hcaptcha.com](mailto:support@hcaptcha.com?subject=Cookie%20Policy)‍
 
 The hCaptcha.com and BotStop.com websites (the Sites) may include additional cookies, as described in this Policy.
 
@@ -507,7 +515,7 @@ Duration
 
 If you have any questions about this Cookie Policy, please contact us at:
 
-‍[\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection)
+‍[support@hcaptcha.com](mailto:support@hcaptcha.com)
 
 Impressum (Site Notice)
 -----------------------
@@ -518,7 +526,7 @@ hCaptcha is a service of Intuition Machines, Inc. ("IMI"), a Delaware US Corpora
 
 Mailed inquiries may be sent to: Intuition Machines, Inc., 350 Alabama St, San Francisco, CA 94110.
 
-Note while local COVID-19 orders remain in effect there are no guarantees that mail will be received in a timely manner, and email ([\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection)) is the correct channel to reach us. The company does not maintain telephone or fax numbers; this is the 21st century.
+Note while local COVID-19 orders remain in effect there are no guarantees that mail will be received in a timely manner, and email (support@hcaptcha.com) is the correct channel to reach us. The company does not maintain telephone or fax numbers; this is the 21st century.
 
 Information about the current management of the company may be obtained on the About page. The company's current CEO is the managing director responsible for content.
 
@@ -553,7 +561,7 @@ IMI is responsible for this website.
 
 If you have any questions, please contact us at:
 
-‍[\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection)
+‍[support@hcaptcha.com](mailto:support@hcaptcha.com)
 
 [](https://www.hcaptcha.com/labeling)
 
