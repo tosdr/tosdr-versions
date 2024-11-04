@@ -328,21 +328,21 @@ Advertise
 
 * ### [This physio sold his business for $100m. Here’s how he relaxes](https://www.afr.com/life-and-luxury/health-and-wellness/this-physio-sold-his-business-for-100-million-here-s-how-he-relaxes-20241029-p5km9c)
     
-* ### [The jewellery I never take off](https://www.afr.com/life-and-luxury/fashion-and-style/the-jewellery-i-never-take-off-20241016-p5kiol)
+* ### [‘I’ve never taken it off’: Six people on a precious piece of jewellery](https://www.afr.com/life-and-luxury/fashion-and-style/the-jewellery-i-never-take-off-20241016-p5kiol)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![White Energy chairman Brian Flannery has Manzoice in this year’s Melbourne Cup.](https://static.ffx.io/images/$zoom_0.5516%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c0f0808f8c6c1ddb16fe16ae0ea945a1de472c45)](https://www.afr.com/companies/sport/rich-lister-was-told-get-a-hobby-now-his-horse-is-in-the-cup-20241103-p5knh8)
+[![Anglo American chief executive Duncan Wanblad is selling his company’s coal assets in Queensland.](https://static.ffx.io/images/$zoom_0.2294%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1eafcbf8f021726be192122a46bffba5bed8dd1e)](https://www.afr.com/companies/mining/billionaire-sam-chong-pays-1-6b-for-anglo-s-stake-in-queensland-mines-20241104-p5knub)
 
-### [Rich Lister was told ‘get a hobby’, now his horse is in the Cup](https://www.afr.com/companies/sport/rich-lister-was-told-get-a-hobby-now-his-horse-is-in-the-cup-20241103-p5knh8)
+### [Billionaire Sam Chong pays $1.6b for Anglo’s stake in Queensland mines](https://www.afr.com/companies/mining/billionaire-sam-chong-pays-1-6b-for-anglo-s-stake-in-queensland-mines-20241104-p5knub)
 
-* Zoe Samios
+* Peter Ker
 
-* ### [Mark Creasy banks lithium windfall by selling at the top](https://www.afr.com/companies/mining/mark-creasy-banks-lithium-windfall-by-selling-at-the-top-20241101-p5kn5y)
+* ### [Rich Lister was told ‘get a hobby’, now his horse is in the Cup](https://www.afr.com/companies/sport/rich-lister-was-told-get-a-hobby-now-his-horse-is-in-the-cup-20241103-p5knh8)
     
-* ### [Property downturn nips into Walker Group profit](https://www.afr.com/property/commercial/property-downturn-nips-into-walker-group-profit-20241030-p5kmqb)
+* ### [Mark Creasy banks lithium windfall by selling at the top](https://www.afr.com/companies/mining/mark-creasy-banks-lithium-windfall-by-selling-at-the-top-20241101-p5kn5y)
     
 
 [The Australian Financial Review](https://www.afr.com/)
