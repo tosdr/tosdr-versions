@@ -33,7 +33,7 @@ English Français Deutsch 日本語 한국어 Italiano Español
     
 * Elai Generative AI Video
     
-    ![](https://www.panopto.com/wp-content/uploads/2024/10/Photo-Half-introducing@2x-1-650x650.png)
+    ![](https://www.panopto.com/wp-content/uploads/2024/11/elai-rounded-edges-1-1.png)
     
     Experience Elai: Cutting Edge Generative AI Video
     
