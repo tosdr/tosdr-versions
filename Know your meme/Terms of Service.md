@@ -122,7 +122,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Peanut the Squirrel / P'Nut](https://knowyourmeme.com/memes/peanut-the-squirrel-pnut "Peanut the Squirrel / P'Nut") [Vegeta Tweeting](https://knowyourmeme.com/memes/vegetas-they-jumped-my-ass "Vegeta Tweeting") [Freaky Homunculus Vibrator](https://knowyourmeme.com/memes/subcultures/freaky-homunculus-vibrator "Freaky Homunculus Vibrator")
+[Peanut the Squirrel / P'Nut](https://knowyourmeme.com/memes/peanut-the-squirrel-pnut "Peanut the Squirrel / P'Nut")
 
 Terms of Service and Use
 ========================
@@ -263,7 +263,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo! You must login or signup first!
+### Namaste! You must login or signup first!
 
 |     |     |
 | --- | --- |
