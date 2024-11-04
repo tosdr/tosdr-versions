@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ We are what we celebrate”
+“ Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth”
 
-[Dean Kamen](http://en.wikipedia.org/wiki/Dean_Kamen)
+[Jules Verne](http://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth)
 
 [](https://www.adafruit.com/about)
 
