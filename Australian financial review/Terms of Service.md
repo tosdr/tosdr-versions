@@ -306,29 +306,31 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![VRC CEO Kylie Rogers](https://static.ffx.io/images/$zoom_0.7098%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_788%2C$y_380/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/649659b03160b455f36b42019d4a3b2cd688ed58)](https://www.afr.com/work-and-careers/workplace/how-victoria-racing-club-s-new-boss-plans-to-turn-around-its-fortunes-20241010-p5khfb)
+[![      ](https://static.ffx.io/images/$zoom_0.6622%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a1f948fa71e1c48a78a9011ebe9e05a45d340611)](https://www.afr.com/work-and-careers/leaders/why-retail-was-the-bunnings-md-s-third-career-choice-and-why-he-stayed-20241104-p5knqm)
 
-### [How Victoria Racing Club’s new boss plans to turn around its fortunes](https://www.afr.com/work-and-careers/workplace/how-victoria-racing-club-s-new-boss-plans-to-turn-around-its-fortunes-20241010-p5khfb)
+### [Why retail was the Bunnings MD’s third career choice, and why he stayed](https://www.afr.com/work-and-careers/leaders/why-retail-was-the-bunnings-md-s-third-career-choice-and-why-he-stayed-20241104-p5knqm)
 
-* Zoe Samios and Patrick Durkin
+* 56 mins ago
+* Sally Patten and Lap Phan
 
-* ### [Netflix’s co-CEO says it’s ‘impossible’ to run the $500b giant alone](https://www.afr.com/companies/media-and-marketing/netflix-s-co-ceo-says-its-impossible-to-run-the-500b-giant-alone-20241014-p5ki1v)
+* ### [How Victoria Racing Club’s new boss plans to turn around its fortunes](https://www.afr.com/work-and-careers/workplace/how-victoria-racing-club-s-new-boss-plans-to-turn-around-its-fortunes-20241010-p5khfb)
     
-* ### [Inside the contest to succeed Ken MacKenzie at the top of BHP](https://www.afr.com/companies/mining/inside-the-contest-to-succeed-ken-mackenzie-at-the-top-of-bhp-20241028-p5klzv)
+* ### [Netflix’s co-CEO says it’s ‘impossible’ to run the $500b giant alone](https://www.afr.com/companies/media-and-marketing/netflix-s-co-ceo-says-its-impossible-to-run-the-500b-giant-alone-20241014-p5ki1v)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.5171%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/8c59e2ef988f4dc028a5b3ae9f5a81019bf4a106)](https://www.afr.com/life-and-luxury/food-and-wine/is-this-australia-s-best-shiraz-20241029-p5kmes)
+[![ ](https://static.ffx.io/images/$zoom_0.3767%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/650c430319769af3bec449a1cd5e6be991ace16a)](https://www.afr.com/technology/can-technology-actually-improve-your-sleep-20241031-p5kmsy)
 
-### [Is this Australia’s best shiraz?](https://www.afr.com/life-and-luxury/food-and-wine/is-this-australia-s-best-shiraz-20241029-p5kmes)
+### [Can technology actually improve your sleep?](https://www.afr.com/technology/can-technology-actually-improve-your-sleep-20241031-p5kmsy)
 
-* Max Allen
+* 56 mins ago
+* John Davidson
 
-* ### [This physio sold his business for $100m. Here’s how he relaxes](https://www.afr.com/life-and-luxury/health-and-wellness/this-physio-sold-his-business-for-100-million-here-s-how-he-relaxes-20241029-p5km9c)
+* ### [This Swiss Alps hotel is so luxurious, you needn’t leave. But you will](https://www.afr.com/life-and-luxury/travel/this-swiss-alps-hotel-is-so-luxurious-you-needn-t-leave-but-you-will-20241024-p5kl51)
     
-* ### [‘I’ve never taken it off’: Six people on a precious piece of jewellery](https://www.afr.com/life-and-luxury/fashion-and-style/the-jewellery-i-never-take-off-20241016-p5kiol)
+* ### [Is this Australia’s best shiraz?](https://www.afr.com/life-and-luxury/food-and-wine/is-this-australia-s-best-shiraz-20241029-p5kmes)
     
 
 [Rich List](https://www.afr.com/rich-list)
