@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-educacin-de-votantes-inundaciones-mortales-en-espaa/281-d7afe3a4-69f8-4d70-9d35-a05035b93e21)
+    *  [![](https://media.king5.com/assets/KING/images/cfa57821-244a-453b-94d0-fd4d33184c59/20241104T193305/cfa57821-244a-453b-94d0-fd4d33184c59_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cfa57821-244a-453b-94d0-fd4d33184c59/20241104T193305/cfa57821-244a-453b-94d0-fd4d33184c59_360x203.jpg)](https://www.king5.com/article/news/local/ecology-chemicals-priority-consumer-products-regulation/281-a9634b85-af8a-416b-86d5-edebbe35ef07)
         
-        #### [Cinco Cosas: Educación de votantes, Inundaciones mortales en España, y cobertura de salud en el estado de Washington](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-educacin-de-votantes-inundaciones-mortales-en-espaa/281-d7afe3a4-69f8-4d70-9d35-a05035b93e21)
+        #### [These 9 products contain chemicals Ecology is targeting this year](https://www.king5.com/article/news/local/ecology-chemicals-priority-consumer-products-regulation/281-a9634b85-af8a-416b-86d5-edebbe35ef07)
         
-    *  [![](https://media.king5.com/assets/KING/images/d58fd671-813a-43c6-af08-fdd7c0700976/20241103T050918/d58fd671-813a-43c6-af08-fdd7c0700976_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d58fd671-813a-43c6-af08-fdd7c0700976/20241103T050918/d58fd671-813a-43c6-af08-fdd7c0700976_360x203.jpg)](https://www.king5.com/article/news/local/questions-over-lynnwood-station-parking-sound-transit-says-ridership-steady/281-34b1440a-7561-4460-a2a4-e2258007e47d)
+    *  [![](https://media.king5.com/assets/KING/images/f97dbfe3-18ac-4699-a7fe-fabaa647237e/20241104T165841/f97dbfe3-18ac-4699-a7fe-fabaa647237e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f97dbfe3-18ac-4699-a7fe-fabaa647237e/20241104T165841/f97dbfe3-18ac-4699-a7fe-fabaa647237e_360x203.jpg)](https://www.king5.com/article/news/local/renton/lynden-transport-capitol-christmas-tree/281-c93a28a1-26e8-4922-8e0e-b35f7019e8dc)
         
-        #### [Amid questions over Lynnwood station parking, Sound Transit says ridership is steady](https://www.king5.com/article/news/local/questions-over-lynnwood-station-parking-sound-transit-says-ridership-steady/281-34b1440a-7561-4460-a2a4-e2258007e47d)
+        #### [Capitol Christmas tree making stop in western Washington this week](https://www.king5.com/article/news/local/renton/lynden-transport-capitol-christmas-tree/281-c93a28a1-26e8-4922-8e0e-b35f7019e8dc)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/48c2de9a-b29f-4e90-8e49-675b4ef0bc8a/20241104T202634/48c2de9a-b29f-4e90-8e49-675b4ef0bc8a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/48c2de9a-b29f-4e90-8e49-675b4ef0bc8a/20241104T202634/48c2de9a-b29f-4e90-8e49-675b4ef0bc8a_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
     *  [![](https://media.king5.com/assets/KING/images/dc8ed2c2-ff35-4731-8a23-68d0a6361322/20241104T132723/dc8ed2c2-ff35-4731-8a23-68d0a6361322_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dc8ed2c2-ff35-4731-8a23-68d0a6361322/20241104T132723/dc8ed2c2-ff35-4731-8a23-68d0a6361322_360x203.jpg)](https://www.king5.com/article/weather/western-washington-weather-fall-storm-monday-commute/281-3e4c9940-d80f-461d-bf6e-75e17a323982)
         
         #### [Fall storm could bring steady rain, gusty winds on Monday](https://www.king5.com/article/weather/western-washington-weather-fall-storm-monday-commute/281-3e4c9940-d80f-461d-bf6e-75e17a323982)
-        
-    *  [![](https://media.king5.com/assets/KING/images/b2cbfa72-ec7d-439a-a0d5-96099d7fa1c0/20241104T124944/b2cbfa72-ec7d-439a-a0d5-96099d7fa1c0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b2cbfa72-ec7d-439a-a0d5-96099d7fa1c0/20241104T124944/b2cbfa72-ec7d-439a-a0d5-96099d7fa1c0_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-52°
+57°
 
-![Rain Shower](/assets/shared-images/weather-icons/drizzle-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
