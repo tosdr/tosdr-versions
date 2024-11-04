@@ -78,10 +78,10 @@ Trending Posts
 * [Back in the crosshairs of GOP hate, many migrants plan to vote defensively](https://therealnews.com/migrants-plan-to-vote-defensively-in-election)
 * ['I'm not interested in changing hearts and minds': The work of an anti-Zionist rabbi](https://therealnews.com/the-work-of-an-anti-zionist-rabbi)
 * [Kaiser workers’ strike enters second week in Southern California](https://therealnews.com/kaiser-workers-strike-enters-second-week-in-southern-california)
-* [Trump could win this election. Here's what MAGA has in store.](https://therealnews.com/trump-could-win-this-election-heres-what-maga-has-in-store)
 * [How will railroad workers vote after Biden and Congress blocked their strike?](https://therealnews.com/how-will-railroad-workers-vote-after-biden-and-congress-blocked-their-strike)
+* [Trump could win this election. Here's what MAGA has in store.](https://therealnews.com/trump-could-win-this-election-heres-what-maga-has-in-store)
 * [This CEO left coal miners penniless. Why did a West Virginia town give him a lucrative tax break to build a luxury hotel?](https://therealnews.com/this-ceo-left-coal-miners-penniless-why-did-a-west-virginia-town-give-him-a-lucrative-tax-break-to-build-a-luxury-hotel)
-* [Israeli forces arrest all but 1 doctor at last operational North Gaza hospital](https://therealnews.com/israeli-forces-arrest-all-but-1-doctor-at-last-operational-north-gaza-hospital)
+* [On Losing a Loved One to Alzheimer's—and Trumpism](https://therealnews.com/on-losing-a-loved-one-to-alzheimers-and-trumpism)
 
 Close
 
@@ -142,10 +142,10 @@ Trending Posts
 * [Back in the crosshairs of GOP hate, many migrants plan to vote defensively](https://therealnews.com/migrants-plan-to-vote-defensively-in-election)
 * ['I'm not interested in changing hearts and minds': The work of an anti-Zionist rabbi](https://therealnews.com/the-work-of-an-anti-zionist-rabbi)
 * [Kaiser workers’ strike enters second week in Southern California](https://therealnews.com/kaiser-workers-strike-enters-second-week-in-southern-california)
-* [Trump could win this election. Here's what MAGA has in store.](https://therealnews.com/trump-could-win-this-election-heres-what-maga-has-in-store)
 * [How will railroad workers vote after Biden and Congress blocked their strike?](https://therealnews.com/how-will-railroad-workers-vote-after-biden-and-congress-blocked-their-strike)
+* [Trump could win this election. Here's what MAGA has in store.](https://therealnews.com/trump-could-win-this-election-heres-what-maga-has-in-store)
 * [This CEO left coal miners penniless. Why did a West Virginia town give him a lucrative tax break to build a luxury hotel?](https://therealnews.com/this-ceo-left-coal-miners-penniless-why-did-a-west-virginia-town-give-him-a-lucrative-tax-break-to-build-a-luxury-hotel)
-* [Israeli forces arrest all but 1 doctor at last operational North Gaza hospital](https://therealnews.com/israeli-forces-arrest-all-but-1-doctor-at-last-operational-north-gaza-hospital)
+* [On Losing a Loved One to Alzheimer's—and Trumpism](https://therealnews.com/on-losing-a-loved-one-to-alzheimers-and-trumpism)
 
 [Skip to content](#main)
 
