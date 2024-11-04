@@ -28,12 +28,51 @@ The store will not work correctly in the case when cookies are disabled.
     
 * [Bestsellers](https://www.womanizer.com/eu/bestseller)
     
+    * [NEW
+        
+        Liberty 2 Iggy Azalea](https://www.womanizer.com/eu/iggy-azalea)
+    * [NEW
+        
+        Vibe](https://www.womanizer.com/eu/vibe)
+    * [Next](https://www.womanizer.com/eu/next)
+    * [NEW
+        
+        24 Days of Pleasure](https://www.womanizer.com/eu/couples-advent-calendar)
+    * [PREMIUM eco](https://www.womanizer.com/eu/eco)
+    * [NEW
+        
+        24 Days of Pleasure](https://www.womanizer.com/eu/24-days-of-pleasure-premium-advent-calendar)
+    * [NEW
+        
+        Blend](https://www.womanizer.com/eu/blend)
+    * [DUO 2](https://www.womanizer.com/eu/duo2)
+    * [Liberty 2](https://www.womanizer.com/eu/liberty-2)
+    * [OG](https://www.womanizer.com/eu/womanizer-og)
     * [All Bestsellers](https://www.womanizer.com/eu/bestseller)
     
     [All Bestsellers](https://www.womanizer.com/eu/bestseller)
     
 * [Sale](https://www.womanizer.com/eu/sale)
     
+    * [Climax Collection](https://www.womanizer.com/eu/climax-collection)
+    * [NEW
+        
+        24 Days of Pleasure](https://www.womanizer.com/eu/24-days-of-pleasure-premium-advent-calendar)
+    * [NEW
+        
+        24 Days of Pleasure](https://www.womanizer.com/eu/couples-advent-calendar)
+    * [Tease Me, Please Me Set](https://www.womanizer.com/eu/tease-me-please-me-set)
+    * [Premium 2](https://www.womanizer.com/eu/premium-2)
+    * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
+    * [InsideOut](https://www.womanizer.com/eu/insideout)
+    * [Pleasure Pair Set](https://www.womanizer.com/eu/pleasure-pair)
+    * [Premium 2 Lilac Special Edition](https://www.womanizer.com/eu/premium2-lilac-special-edition)
+    * [DUO](https://www.womanizer.com/eu/duo)
+    * [Pro40](https://www.womanizer.com/eu/pro-40)
+    * [STARLET 2](https://www.womanizer.com/eu/starlet-2)
+    * [Starlet Snow](https://www.womanizer.com/eu/starlet)
+    * [Classic Pleasure Set](https://www.womanizer.com/eu/classic-pleasure-set)
+    * [Pro / W500](https://www.womanizer.com/eu/w500)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
