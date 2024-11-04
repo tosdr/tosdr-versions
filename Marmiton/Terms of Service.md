@@ -55,18 +55,14 @@ Connexion
     * [Nos livres de cuisine avec](https://www.marmiton.org/recettes/les-livres-de-cuisine-marmiton-tp192022.html)
 
 * [Mieux manger](https://www.marmiton.org/mieux-cuisiner/mieux-manger-tp125264.html)
-* [![Les Jours Les Plus Food
-    ](https://assets.afcdn.com/recipe/20241008/154532_origin.svg)
-    
-    Les Jours Les Plus Food](https://www.marmiton.org/dossier-les-jours-les-plus-food)
 * [![100% Fromages
     ](https://assets.afcdn.com/recipe/20241016/154733_origin.png)
     
     100% Fromages](https://www.marmiton.org/focus-ingredient/cent-pour-cent-fromage-tp121946.html)
-* [![Halloween
-    ](https://assets.afcdn.com/recipe/20241022/154887_origin.png)
+* [![Noël gourmand
+    ](https://assets.afcdn.com/recipe/20241104/155539_origin.png)
     
-    Halloween](https://www.marmiton.org/halloween/halloween-tp123693.html)
+    Noël gourmand](https://www.marmiton.org/dossier-noel)
 * [![Actus
     ](https://assets.afcdn.com/recipe/20241008/154531_origin.svg)
     
