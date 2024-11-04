@@ -357,17 +357,17 @@ Website
 
 [29th October 2024](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
 
-[![(photo: Network Rail)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-28-10-2024-at-11.25-120x86.jpg)](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
-
-### [Major rail disruptions hit south London with no trains at key stations all week](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
-
-[28th October 2024](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
-
 [![Southwark Council wants 20,000 new homes to be built around the Old Kent Road over the next 18 years. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/Old-Kent-Road-120x86.jpg)](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
 
 ### [Old Kent Road: What are people’s views on plans for 20,000 new homes?](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
 
 [29th October 2024](https://southwarknews.co.uk/area/peckham/old-kent-road-what-are-peoples-views-on-plans-for-20000-new-homes/)
+
+[![(photo: Network Rail)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-28-10-2024-at-11.25-120x86.jpg)](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
+
+### [Major rail disruptions hit south London with no trains at key stations all week](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
+
+[28th October 2024](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
 
 [![Chair Martin Boyd with Southwark’s Cheryl Russell, director of landlord services and Councillor Sarah King,cabinet member for council homes at the Southwark HomeOwners conference](https://southwarknews.co.uk/wp-content/uploads/2024/10/MBSarahKingCherylRussell-1024x683-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
 
@@ -375,11 +375,11 @@ Website
 
 [30th October 2024](https://southwarknews.co.uk/area/southwark/exclusive-director-of-resident-services-resigns-from-southwark-council/)
 
-[![Ryan Wintle steps out onto the pitch ahead of Millwall's game against Swansea City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/R-Wintle-627228-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/there-was-an-added-edge-for-him-neil-harris-discusses-why-he-started-millwall-midfielder/)
+[![Tom Burton with his 1963 Dandy edition](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tom-Burton-IMG_5912-e1730203462284-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
 
-### [‘There was an added edge for him’ – Neil Harris discusses why he started Millwall midfielder](https://southwarknews.co.uk/sport/football/millwall/there-was-an-added-edge-for-him-neil-harris-discusses-why-he-started-millwall-midfielder/)
+### [Bermondsey boy reunited with 60-year-old Dandy comic he starred in](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
 
-[28th October 2024](https://southwarknews.co.uk/sport/football/millwall/there-was-an-added-edge-for-him-neil-harris-discusses-why-he-started-millwall-midfielder/)
+[29th October 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
 
 ### Featured Articles
 
