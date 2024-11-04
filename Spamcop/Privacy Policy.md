@@ -1,4 +1,4 @@
-[![[SpamCop.net - protecting the internet through technology]](/images/05logo.png)](https://www.spamcop.net/) [](mailto:bait-9fdf9a54-672897f0@good.julianhaight.com)
+[![[SpamCop.net - protecting the internet through technology]](/images/05logo.png)](https://www.spamcop.net/) [](mailto:bait-9fdf9a54-6728ec6a@good.julianhaight.com)
 
 [Help](https://www.spamcop.net/help.shtml) | [Site Map](https://www.spamcop.net/sitemap.shtml)
 
