@@ -299,13 +299,21 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Владимир Путин назначил депутата Госдумы от «Единой России», участника СВО Евгения Первышова врио главы Тамбовской области](https://cdn.er.ru/media/news/November2024/VC2dcavPMvhRU4SrSYwE-small.jpg)](https://er.ru/activity/news/vladimir-putin-naznachil-deputata-gosdumy-ot-edinoj-rossii-uchastnika-svo-evgeniya-pervyshova-vrio-glavy-tambovskoj-oblasti)
+
+[Владимир Путин назначил депутата Госдумы от «Единой России», участника СВО Евгения Первышова врио главы Тамбовской области](https://er.ru/activity/news/vladimir-putin-naznachil-deputata-gosdumy-ot-edinoj-rossii-uchastnika-svo-evgeniya-pervyshova-vrio-glavy-tambovskoj-oblasti)
+
+[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Первышов](https://er.ru/activity/news?tags%5B0%5D=101048) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872)
+
+04.11.24
+
 [![«Единая Россия», МГЕР и фонд «Наша Правда» передали помощь бойцам на Селидово-Кураховском и Торецком направлениях](https://cdn.er.ru/media/news/November2024/SeSCfEEWTfv8ixkOwzby-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-mger-i-fond-nasha-pravda-peredali-pomosh-bojcam-na-selidovo-kurahovskom-i-toreckom-napravleniyah)
 
 [«Единая Россия», МГЕР и фонд «Наша Правда» передали помощь бойцам на Селидово-Кураховском и Торецком направлениях](https://er.ru/activity/news/edinaya-rossiya-mger-i-fond-nasha-pravda-peredali-pomosh-bojcam-na-selidovo-kurahovskom-i-toreckom-napravleniyah)
 
 [#Амелин](https://er.ru/activity/news?tags%5B0%5D=36283) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#нашаправда](https://er.ru/activity/news?tags%5B0%5D=1094120) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152)
 
-Сегодня 18:14
+04.11.24
 
 [![Владимир Якушев передал технику подразделениям группировки войск «Центр» на передовой](https://cdn.er.ru/media/news/November2024/X7F4pzfdVYNBAqECTh6i-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-peredal-tehniku-podrazdeleniyam-gruppirovki-vojsk-centr-na-peredovoj)
 
@@ -313,7 +321,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152)
 
-Сегодня 17:11
+04.11.24
 
 [![«Единая Россия»: Выставка «Сила V правде – гордость и победа» открылась в Самаре в День народного единства](https://cdn.er.ru/media/news/November2024/F73I0GlwzIGwL4ifS4B5-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-otkrylas-v-samare-v-den-narodnogo-edinstva)
 
@@ -321,7 +329,7 @@
 
 [#Самарская область](https://er.ru/activity/news?tags%5B0%5D=2275) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Федорищев](https://er.ru/activity/news?tags%5B0%5D=1095521) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#техника](https://er.ru/activity/news?tags%5B0%5D=2305) [#военнаятехника](https://er.ru/activity/news?tags%5B0%5D=136750) [#экспозиция](https://er.ru/activity/news?tags%5B0%5D=3390)
 
-Сегодня 14:47
+04.11.24
 
 [![«Единая Россия» организует гуманитарную помощь жителям освобождённого посёлка Горняк в ДНР](https://cdn.er.ru/img/stubs/small/4.jpg)](https://er.ru/activity/news/edinaya-rossiya-organizuet-gumanitarnuyu-pomosh-zhitelyam-osvobozhdyonnogo-posyolka-gornyak-v-dnr)
 
@@ -329,7 +337,7 @@
 
 [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Пушилин](https://er.ru/activity/news?tags%5B0%5D=1092774) [#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978)
 
-Сегодня 13:36
+04.11.24
 
 [![Владимир Васильев: На переломных этапах истории сплочённость народа поднимала нашу страну на великие ратные подвиги и трудовые свершения](https://cdn.er.ru/media/news/November2024/Wy5rVcMncEiEvxgLsoKl-small.jpg)](https://er.ru/activity/news/vladimir-vasilev-na-perelomnyh-etapah-istorii-splochyonnost-naroda-podnimala-nashu-stranu-na-velikie-ratnye-podvigi-i-trudovye-sversheniya)
 
@@ -337,15 +345,7 @@
 
 [#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172) [#Деньнародногоединства](https://er.ru/activity/news?tags%5B0%5D=124570) [#4ноября](https://er.ru/activity/news?tags%5B0%5D=112331)
 
-Сегодня 10:00
-
-[![Дмитрий Медведев: Искренняя любовь к Родине, уважение к своим предкам, стремление быть достойными их славных подвигов помогут нам победить](https://cdn.er.ru/media/news/November2024/fhSYVB89DzziDbW3XsMx-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-iskrennyaya-lyubov-k-rodine-uvazhenie-k-svoim-predkam-stremlenie-byt-dostojnymi-ih-slavnyh-podvigov-pomogut-nam-pobedit)
-
-[Дмитрий Медведев: Искренняя любовь к Родине, уважение к своим предкам, стремление быть достойными их славных подвигов помогут нам победить](https://er.ru/activity/news/dmitrij-medvedev-iskrennyaya-lyubov-k-rodine-uvazhenie-k-svoim-predkam-stremlenie-byt-dostojnymi-ih-slavnyh-podvigov-pomogut-nam-pobedit)
-
-[#ДАМедведев](https://er.ru/activity/news?tags%5B0%5D=1095750) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172) [#ДеньНародногоЕдинства](https://er.ru/activity/news?tags%5B0%5D=1093309)
-
-Сегодня 09:44
+04.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
