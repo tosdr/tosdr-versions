@@ -296,10 +296,10 @@ The effective date of this Notice is Dec. 20, 2023.
 * [Medicine](https://med.stanford.edu/)
 * [Sustainability](https://sustainability.stanford.edu/)
 
-### Departments
+### Academics
 
-* [Departments A \- to  Z](https://www.stanford.edu/list/academic/)
-* [Interdisciplinary Programs](https://www.stanford.edu/list/interdisc/)
+* [Undergraduate Majors](https://majors.stanford.edu/majors)
+* [Graduate Programs](https://gradadmissions.stanford.edu/explore-programs)
 
 ### Research
 
