@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [The Indian in the Cupboard](https://www.myabandonware.com/game/the-indian-in-the-cupboard-ssn)
+* [Basketball](https://www.myabandonware.com/game/basketball-agh)
 * [ActRaiser](https://www.myabandonware.com/game/actraiser-b9t)
 * [Air Buster](https://www.myabandonware.com/game/air-buster-8ho)
 * [BlaZeon](https://www.myabandonware.com/game/blazeon-b9l)
-* [Kabi-Island](https://www.myabandonware.com/game/kabi-island-t69)
-* [Block Buster](https://www.myabandonware.com/game/block-buster-t68)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
