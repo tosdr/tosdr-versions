@@ -97,7 +97,7 @@
     * [Club Sports](https://www.highpoint.edu/club-sports/)
     * [Division I Athletics
         
-        We may not have a football team, but our Division I Athletics make up for it. Students can attend games and competitions for sports ranging from basketball to lacrosse to rowing.](https://www.highpoint.edu/www.highpointpanthers.com/)
+        We may not have a football team, but our Division I Athletics make up for it. Students can attend games and competitions for sports ranging from basketball to lacrosse to rowing.](https://highpointpanthers.com/)
     * [Outdoor Discovery
         
         HPU Outdoor Discovery aims to provide complimentary activities and venture trips that are designed to present every student with new experiences that will build friendships that could last a lifetime.](https://www.highpoint.edu/recreationservices/hpu-outdoor-discovery/)
