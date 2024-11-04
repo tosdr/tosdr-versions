@@ -78,7 +78,7 @@ If you’ve been cited or arrested for DUI or other criminal offense, or injured
 
  [![Google Reviews](https://cdn.powa.com/www.pugetlawgroup.com/images/wp-content/themes/hd-puget/assets/app/img/google-badge-309-critical-desktop.png.webp "Google Reviews")](https://www.google.com/maps/place/Puget+Law+Group/@47.2539037,-122.4406891,15z/data=!4m8!3m7!1s0x549055a72cfe4da9:0x40c4ee8795f32e94!8m2!3d47.2539037!4d-122.4406891!9m1!1b1!16s%2Fg%2F11c4387jcd?entry=ttu)[GET A FREE CASE EVALUATION](https://www.pugetlawgroup.com/contact-us/ "GET A FREE CASE EVALUATION")
 
-1. [Home](https://www.pugetlawgroup.com/)
+1. [Seattle Criminal Defense Lawyer](https://www.pugetlawgroup.com/)
 »2. PRIVACY POLICY
 
 Puget Law Group and its affiliates respect your privacy and is committed to complying with this privacy policy (“Privacy Policy”), which describes what information we collect about you, how we use it, with whom we may share it, and what choices you have regarding our use of your information. This Privacy Policy applies to personal information collected in connection with our website located at https://pugetlawgroup.com and any other webpage that Puget Law Group maintains that links to this Privacy Policy (collectively, the “Site”), any current or future mobile applications associated with Puget Law Group or the website (collectively, the “App”), our email communications, our social media pages, other online or wireless offerings that post a link to the Privacy Policy, and other circumstances in connection with the services we provide (collectively, the “Platform”). 
@@ -172,7 +172,7 @@ Whatever your situation – DUI, Criminal Charge, or Personal Injury – PLG is 
     
     By checking this box I agree to receive communication from Puget Law Group and agree to our [Privacy Policy](https://www.pugetlawgroup.com/privacy-policy/) and [Terms of Use](https://www.pugetlawgroup.com/terms-of-use/).
     
-* Phone
+* Name
     
     This field is for validation purposes and should be left unchanged.
     
