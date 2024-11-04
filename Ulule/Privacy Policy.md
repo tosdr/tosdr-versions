@@ -618,28 +618,6 @@ If you have any questions about the processing of your personal data or if you w
 * by postal mail (with an attached copy of your ID) to the following address Ulule  To the attention of the Data Protection Officer (DPO) 10 rue Penthièvre 75008 Paris France
     
 
-Language and site currency
-
-### Help and resources
-
-* [Start a fundraising](https://www.ulule.com/projects/create?utm_source=ulule&utm_medium=footer&utm_campaign=bas_de_homepage)
-* [FAQ](https://support.ulule.com/hc/)
-* [Contact us](https://www.ulule.com/about/contact-us?utm_source=ulule&utm_medium=footer&utm_campaign=bas_de_homepage)
-* [Statistics](https://www.ulule.com/stats?utm_source=ulule&utm_medium=footer&utm_campaign=bas_de_homepage)
-* [Open API](https://developers.ulule.com/?utm_source=ulule&utm_medium=footer&utm_campaign=bas_de_homepage)
-* [Branding guidelines](https://ulule.frontify.com/)
-
-### Focus on
-
-* [How works Ulule?](https://support.ulule.com/hc/en-us/articles/211812489-What-is-Ulule-)
-* [Supported countries](https://support.ulule.com/hc/en-us/articles/212423305-From-which-country-can-I-start-a-crowdfunding-campaign-on-Ulule-)
-* [Eligible projects](https://support.ulule.com/hc/en-us/articles/212423325-What-kinds-of-projects-are-eligible-)
-
-### About ulule
-
-* [Discover Ulule](https://www.ulule.com/pages/discover/?utm_source=ulule&utm_medium=footer&utm_campaign=bas_de_homepage)
-* [Team](https://www.ulule.com/about/team?utm_source=ulule&utm_medium=footer&utm_campaign=bas_de_homepage)
-
 * * *
 
 Proudly B Corp since 2015
