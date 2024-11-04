@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Moradores dos Flexais ocupam canteiro de obras da Braskem em protesto por realocação](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/1/csm_prostesto_flexais_8b1215e5d8.png)
+   [![MP-AL tenta localizar criança de 11 anos e adolescente de 16 que podem ter sumido juntas em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/9/csm_Plid_tenta_localizar_crianca_de_11_anos_e_adolescente_de_16_que_podem_ter_sumido_juntas_em_Maceio_-_foto_Divulgacao_MPAL_3467abbdc8.jpg)
+
+Desaparecidas
+
+MP-AL tenta localizar criança de 11 anos e adolescente de 16 que podem ter sumido juntas em Maceió](https://www.tnh1.com.br/noticia/nid/mp-al-tenta-localizar-crianca-de-11-anos-e-adolescente-de-16-que-podem-ter-sumido-juntas-em-maceio/ "MP-AL tenta localizar criança de 11 anos e adolescente de 16 que podem ter sumido juntas em Maceió")   [![Veja quais bairros vão receber decoração natalina em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/d/csm_decoracao_natalina_-_foto_Jonathan_Lins_-_Secom_Maceio_5f6b2cafbe.jpeg)
+
+fim de ano
+
+Veja quais bairros vão receber decoração natalina em Maceió](https://www.tnh1.com.br/noticia/nid/veja-quais-bairros-vao-receber-decoracao-natalina-em-maceio/ "Veja quais bairros vão receber decoração natalina em Maceió")   [![Moradores dos Flexais ocupam canteiro de obras da Braskem em protesto por realocação](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/1/csm_prostesto_flexais_8b1215e5d8.png)
 
 em bebedouro
 
-Moradores dos Flexais ocupam canteiro de obras da Braskem em protesto por realocação](https://www.tnh1.com.br/noticia/nid/moradores-dos-flexais-ocupam-canteiro-de-obras-da-braskem-em-protesto-por-realocacao/ "Moradores dos Flexais ocupam canteiro de obras da Braskem em protesto por realocação")   [![Homem é preso suspeito de agredir a própria filha e puxar cabelo de ex-companheira](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
+Moradores dos Flexais ocupam canteiro de obras da Braskem em protesto por realocação](https://www.tnh1.com.br/noticia/nid/moradores-dos-flexais-ocupam-canteiro-de-obras-da-braskem-em-protesto-por-realocacao/ "Moradores dos Flexais ocupam canteiro de obras da Braskem em protesto por realocação")   [![Homem é preso suspeito de agredir a própria filha e puxar cabelo de ex-companheira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
 
 Na Parte Alta
 
-Homem é preso suspeito de agredir a própria filha e puxar cabelo de ex-companheira](https://www.tnh1.com.br/noticia/nid/homem-e-preso-suspeito-de-agredir-a-propria-filha-e-puxar-cabelo-de-ex-companheira/ "Homem é preso suspeito de agredir a própria filha e puxar cabelo de ex-companheira")   [![Vídeo: motorista com sinais de embriaguez atropela ciclista idoso na Rua Fechada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/e/csm_motorista_que_atropelou_idoso_ciclista_pcal_5267fbdc13.jpg)
+Homem é preso suspeito de agredir a própria filha e puxar cabelo de ex-companheira](https://www.tnh1.com.br/noticia/nid/homem-e-preso-suspeito-de-agredir-a-propria-filha-e-puxar-cabelo-de-ex-companheira/ "Homem é preso suspeito de agredir a própria filha e puxar cabelo de ex-companheira")   [![Vídeo: motorista com sinais de embriaguez atropela ciclista idoso na Rua Fechada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/e/csm_motorista_que_atropelou_idoso_ciclista_pcal_5267fbdc13.jpg)
 
 FOI PRESO
 
-Vídeo: motorista com sinais de embriaguez atropela ciclista idoso na Rua Fechada](https://www.tnh1.com.br/noticia/nid/video-motorista-com-sinais-de-embriaguez-atropela-ciclista-idoso-na-rua-fechada/ "Vídeo: motorista com sinais de embriaguez atropela ciclista idoso na Rua Fechada")   [![Em Maceió, estudantes revisam conteúdos de humanas e dicas de redação ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/f/csm_02-11-24-Pre-Vestibular-Educar-e-Massa-Por-Joyce-Juliana-059_194a524bae.jpg)
+Vídeo: motorista com sinais de embriaguez atropela ciclista idoso na Rua Fechada](https://www.tnh1.com.br/noticia/nid/video-motorista-com-sinais-de-embriaguez-atropela-ciclista-idoso-na-rua-fechada/ "Vídeo: motorista com sinais de embriaguez atropela ciclista idoso na Rua Fechada")   [![Em Maceió, estudantes revisam conteúdos de humanas e dicas de redação ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/f/csm_02-11-24-Pre-Vestibular-Educar-e-Massa-Por-Joyce-Juliana-059_194a524bae.jpg)
 
 aulão pré-enem
 
-Em Maceió, estudantes revisam conteúdos de humanas e dicas de redação](https://www.tnh1.com.br/noticia/nid/em-maceio-estudantes-revisam-conteudos-de-humanas-e-dicas-de-redacao/ "Em Maceió, estudantes revisam conteúdos de humanas e dicas de redação ")   [![Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/9/csm_ssp-realiza-operacao-em-casa-de-shows-no-jaragua-e-constata-irregularidades_56c5b6bcf2.jpeg)
-
-irregularidades
-
-Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://www.tnh1.com.br/noticia/nid/casa-de-shows-em-maceio-e-alvo-de-operacao-da-policia-e-donos-sao-levados-a-delegacia/ "Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia")   [![Veja como será o funcionamento dos mercados, shoppings e Comércio no feriado de Finados](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/9/csm_shoppings_maceio_ec160f3d70.png)
-
-neste sábado
-
-Veja como será o funcionamento dos mercados, shoppings e Comércio no feriado de Finados](https://www.tnh1.com.br/noticia/nid/veja-como-sera-o-funcionamento-dos-mercados-shoppings-e-comercio-no-feriado-de-finados/ "Veja como será o funcionamento dos mercados, shoppings e Comércio no feriado de Finados")
+Em Maceió, estudantes revisam conteúdos de humanas e dicas de redação](https://www.tnh1.com.br/noticia/nid/em-maceio-estudantes-revisam-conteudos-de-humanas-e-dicas-de-redacao/ "Em Maceió, estudantes revisam conteúdos de humanas e dicas de redação ")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Veja como será o funcionamento dos mercados, shoppings e Comércio no feriado d
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/9/csm_pm-combate-crimes-de-trafico-e-de-receptacao-em-sao-jose-da-tapera-e-maceio_36d7839bbc.jpg)
+   [![Veja imagens do resgate das cinco pessoas que ficaram ilhadas na praia de Barra Nova](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/f/csm_corpo-de-bombeiros-resgata-cinco-pessoas-que-ficaram-ilhadas-na-praia-de-barra-nova_-_foto_Ascom_CBMAL_540f5d37a4.png)
+
+em marechal
+
+Veja imagens do resgate das cinco pessoas que ficaram ilhadas na praia de Barra Nova](https://www.tnh1.com.br/noticia/nid/veja-imagens-do-resgate-das-cinco-pessoas-que-ficaram-ilhadas-na-praia-de-barra-nova/ "Veja imagens do resgate das cinco pessoas que ficaram ilhadas na praia de Barra Nova")   [![Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/9/csm_pm-combate-crimes-de-trafico-e-de-receptacao-em-sao-jose-da-tapera-e-maceio_36d7839bbc.jpg)
 
 Alagoas
 
-Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió](https://www.tnh1.com.br/noticia/nid/policia-combate-crimes-de-trafico-e-de-receptacao-em-sao-jose-da-tapera-e-maceio/ "Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió")   [![Jovem morre após se afogar na praia de Lagoa do Pau, em Coruripe](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/2/csm_corpo-de-bombeiros-salva-quatro-turistas-argentinos-de-afogamento-na-praia-do-frances_-_foto_Corpo_de_Bombeiros_a78260941c.jpg)
+Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió](https://www.tnh1.com.br/noticia/nid/policia-combate-crimes-de-trafico-e-de-receptacao-em-sao-jose-da-tapera-e-maceio/ "Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió")   [![Jovem morre após se afogar na praia de Lagoa do Pau, em Coruripe](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/2/csm_corpo-de-bombeiros-salva-quatro-turistas-argentinos-de-afogamento-na-praia-do-frances_-_foto_Corpo_de_Bombeiros_a78260941c.jpg)
 
 Alagoas
 
-Jovem morre após se afogar na praia de Lagoa do Pau, em Coruripe](https://www.tnh1.com.br/noticia/nid/jovem-morre-apos-se-afogar-na-praia-de-lagoa-do-pau-em-coruripe/ "Jovem morre após se afogar na praia de Lagoa do Pau, em Coruripe")   [![Confira os ganhadores da edição deste domingo, 3, do Alagoas dá Sorte](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
+Jovem morre após se afogar na praia de Lagoa do Pau, em Coruripe](https://www.tnh1.com.br/noticia/nid/jovem-morre-apos-se-afogar-na-praia-de-lagoa-do-pau-em-coruripe/ "Jovem morre após se afogar na praia de Lagoa do Pau, em Coruripe")   [![Confira os ganhadores da edição deste domingo, 3, do Alagoas dá Sorte](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
 
 Alagoas
 
-Confira os ganhadores da edição deste domingo, 3, do Alagoas dá Sorte](https://www.tnh1.com.br/noticia/nid/confira-os-ganhadores-da-edicao-deste-domingo-3-do-alagoas-da-sorte/ "Confira os ganhadores da edição deste domingo, 3, do Alagoas dá Sorte")   [![Alagoas tem sete trechos de praias impróprios para banho; veja quais](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/8/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_c379360075.jpeg)
+Confira os ganhadores da edição deste domingo, 3, do Alagoas dá Sorte](https://www.tnh1.com.br/noticia/nid/confira-os-ganhadores-da-edicao-deste-domingo-3-do-alagoas-da-sorte/ "Confira os ganhadores da edição deste domingo, 3, do Alagoas dá Sorte")   [![Alagoas tem sete trechos de praias impróprios para banho; veja quais](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/8/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_c379360075.jpeg)
 
 balneabilidade
 
-Alagoas tem sete trechos de praias impróprios para banho; veja quais](https://www.tnh1.com.br/noticia/nid/alagoas-tem-sete-trechos-de-praias-improprios-para-banho-veja-quais/ "Alagoas tem sete trechos de praias impróprios para banho; veja quais")   [![Veja como deve ficar o tempo em Alagoas para o fim de semana de Finados ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/2/csm_previsao-semarh-alagoas_f468f393ad.png)
+Alagoas tem sete trechos de praias impróprios para banho; veja quais](https://www.tnh1.com.br/noticia/nid/alagoas-tem-sete-trechos-de-praias-improprios-para-banho-veja-quais/ "Alagoas tem sete trechos de praias impróprios para banho; veja quais")   [![Veja como deve ficar o tempo em Alagoas para o fim de semana de Finados ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/2/csm_previsao-semarh-alagoas_f468f393ad.png)
 
 Meteorologia
 
-Veja como deve ficar o tempo em Alagoas para o fim de semana de Finados](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-alagoas-para-o-fim-de-semana-de-finados/ "Veja como deve ficar o tempo em Alagoas para o fim de semana de Finados ")   [![Mais de 500 policiais farão segurança durante provas do Enem em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/7/csm_operao_paz_nas_escolas_ascom_pm_1_fb023f294f.jpg)
-
-Alagoas
-
-Mais de 500 policiais farão segurança durante provas do Enem em Alagoas](https://www.tnh1.com.br/noticia/nid/mais-de-500-policiais-farao-seguranca-durante-provas-do-enem-em-alagoas/ "Mais de 500 policiais farão segurança durante provas do Enem em Alagoas")
+Veja como deve ficar o tempo em Alagoas para o fim de semana de Finados](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-alagoas-para-o-fim-de-semana-de-finados/ "Veja como deve ficar o tempo em Alagoas para o fim de semana de Finados ")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Mais de 500 policiais farão segurança durante provas do Enem em Alagoas](https
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Depois de 4 meses, PC divulga novas imagens de suspeito de matar motorista no Jacintinho](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/1/csm_suspeito_homicidio_jaca_divulgacao_pcal_b98e4cde53.jpg)
+   [![PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/e/csm_pm-apreende-drogas-e-prende-autor-de-violencia-domestica-durante-acoes-no-agreste-e-sertao_28c058043b.jpeg)
+
+Polícia
+
+PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão](https://www.tnh1.com.br/noticia/nid/pm-apreende-drogas-e-prende-autor-de-violencia-domestica-durante-acoes-no-agreste-e-sertao/ "PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão")   [![Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/f/csm_mulher-agredida-tentativa-estupro-jacintinho_03a50416af.jpg)
+
+no jacintinho
+
+Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió](https://www.tnh1.com.br/noticia/nid/policia-prende-suspeito-que-agrediu-e-tentou-estuprar-mulher-na-porta-de-casa-em-maceio/ "Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió")   [![Quatro meses do crime: PC divulga novas imagens de suspeito de matar motorista no Jacintinho](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/1/csm_suspeito_homicidio_jaca_divulgacao_pcal_b98e4cde53.jpg)
 
 caso de junho
 
-Depois de 4 meses, PC divulga novas imagens de suspeito de matar motorista no Jacintinho](https://www.tnh1.com.br/noticia/nid/depois-de-4-meses-pc-divulga-novas-imagens-de-suspeito-de-matar-motorista-no-jacintinho/ "Depois de 4 meses, PC divulga novas imagens de suspeito de matar motorista no Jacintinho")   [![Mulher reclama com vizinhos sobre ser espionada com câmera de segurança e é esfaqueada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/a/csm_Central_de_Policia_de_Arapiraca_fb9d405eee.jpg)
+Quatro meses do crime: PC divulga novas imagens de suspeito de matar motorista no Jacintinho](https://www.tnh1.com.br/noticia/nid/quatro-meses-do-crime-pc-divulga-novas-imagens-de-suspeito-de-matar-motorista-no-jacintinho/ "Quatro meses do crime: PC divulga novas imagens de suspeito de matar motorista no Jacintinho")   [![Mulher reclama com vizinhos sobre ser espionada com câmera de segurança e é esfaqueada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/a/csm_Central_de_Policia_de_Arapiraca_fb9d405eee.jpg)
 
 no interior
 
-Mulher reclama com vizinhos sobre ser espionada com câmera de segurança e é esfaqueada](https://www.tnh1.com.br/noticia/nid/mulher-reclama-com-vizinhos-sobre-ser-espionada-com-camera-de-seguranca-e-e-esfaqueada/ "Mulher reclama com vizinhos sobre ser espionada com câmera de segurança e é esfaqueada")   [!['Zé do Peixe': polícia busca por suspeito de matar tio e sobrinho após discussão por som alto](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/6/csm_Duplo_Homicidio_Murici_25b9c2b96f.jpg)
+Mulher reclama com vizinhos sobre ser espionada com câmera de segurança e é esfaqueada](https://www.tnh1.com.br/noticia/nid/mulher-reclama-com-vizinhos-sobre-ser-espionada-com-camera-de-seguranca-e-e-esfaqueada/ "Mulher reclama com vizinhos sobre ser espionada com câmera de segurança e é esfaqueada")   [!['Zé do Peixe': polícia busca por suspeito de matar tio e sobrinho após discussão por som alto](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/6/csm_Duplo_Homicidio_Murici_25b9c2b96f.jpg)
 
 EM MURICI
 
-'Zé do Peixe': polícia busca por suspeito de matar tio e sobrinho após discussão por som alto](https://www.tnh1.com.br/noticia/nid/ze-do-peixe-policia-busca-por-suspeito-de-matar-tio-e-sobrinho-apos-discussao-por-som-alto/ "'Zé do Peixe': polícia busca por suspeito de matar tio e sobrinho após discussão por som alto")   [![Motorista embriagado é preso após tentar atropelar clientes de bar e morder policial ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/9/csm_motorista_mordida_6cde568a0d.jpeg)
+'Zé do Peixe': polícia busca por suspeito de matar tio e sobrinho após discussão por som alto](https://www.tnh1.com.br/noticia/nid/ze-do-peixe-policia-busca-por-suspeito-de-matar-tio-e-sobrinho-apos-discussao-por-som-alto/ "'Zé do Peixe': polícia busca por suspeito de matar tio e sobrinho após discussão por som alto")   [![Motorista embriagado é preso após tentar atropelar clientes de bar e morder policial ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/9/csm_motorista_mordida_6cde568a0d.jpeg)
 
 Veja vídeo
 
-Motorista embriagado é preso após tentar atropelar clientes de bar e morder policial](https://www.tnh1.com.br/noticia/nid/motorista-embriagado-e-preso-apos-tentar-atropelar-clientes-de-bar-e-morder-policial/ "Motorista embriagado é preso após tentar atropelar clientes de bar e morder policial ")   [![Homem é preso suspeito de agredir a própria filha e puxar cabelo de ex-companheira](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
-
-Na Parte Alta
-
-Homem é preso suspeito de agredir a própria filha e puxar cabelo de ex-companheira](https://www.tnh1.com.br/noticia/nid/homem-e-preso-suspeito-de-agredir-a-propria-filha-e-puxar-cabelo-de-ex-companheira/ "Homem é preso suspeito de agredir a própria filha e puxar cabelo de ex-companheira")   [![Corpo de homem é encontrado com 12 tiros na cabeça e no ombro, em Rio Largo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/9/csm_IML_POLICIA_CIENTIFICA_2ea01ade45.jpg)
-
-região metropolitana
-
-Corpo de homem é encontrado com 12 tiros na cabeça e no ombro, em Rio Largo](https://www.tnh1.com.br/noticia/nid/corpo-de-homem-e-encontrado-com-12-tiros-na-cabeca-e-no-ombro-em-rio-largo/ "Corpo de homem é encontrado com 12 tiros na cabeça e no ombro, em Rio Largo")
+Motorista embriagado é preso após tentar atropelar clientes de bar e morder policial](https://www.tnh1.com.br/noticia/nid/motorista-embriagado-e-preso-apos-tentar-atropelar-clientes-de-bar-e-morder-policial/ "Motorista embriagado é preso após tentar atropelar clientes de bar e morder policial ")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -125,6 +125,16 @@ Bombeiros resgatam cinco pessoas que ficaram isoladas em ilha de Barra Nova](htt
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
+
+Últimas de Pessoas&Negócios
+
+[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
+
+   [![Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/b/csm_Noah_Verde_234e420532.jpeg)
+
+Pessoas & Negócios
+
+Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](https://www.tnh1.com.br/noticia/nid/noah-verde-gerente-executiva-de-marketing-do-sesi-senai-faz-aniversario/ "Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -198,7 +208,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/1/csm_Record_Time_Transmissao_2f56fe245b.jpg)
+[![Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/1/csm_Record_Time_Transmissao_2f56fe245b.jpg)
 
 Futebol Nacional
 
@@ -206,7 +216,7 @@ Futebol Nacional
 
 Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025
 
-Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025](https://www.tnh1.com.br/noticia/nid/record-monta-time-de-estrelas-para-transmissao-do-paulistao-e-brasileirao-em-2025/ "Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025")[![Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/6/csm_Duplo_Homicidio_Murici_5cdb5404cd.jpg)
+Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025](https://www.tnh1.com.br/noticia/nid/record-monta-time-de-estrelas-para-transmissao-do-paulistao-e-brasileirao-em-2025/ "Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025")[![Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/6/csm_Duplo_Homicidio_Murici_5cdb5404cd.jpg)
 
 Polícia
 
@@ -214,7 +224,7 @@ Polícia
 
 Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici
 
-Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici](https://www.tnh1.com.br/noticia/nid/apos-discussao-por-som-alto-tio-e-sobrinho-de-17-anos-sao-assassinados-a-tiros-em-murici/ "Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici")[![Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/e/csm_Suspeito_Esturpo_Espancamento_c04c3f904d.jpg)
+Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici](https://www.tnh1.com.br/noticia/nid/apos-discussao-por-som-alto-tio-e-sobrinho-de-17-anos-sao-assassinados-a-tiros-em-murici/ "Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici")[![Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/e/csm_Suspeito_Esturpo_Espancamento_c04c3f904d.jpg)
 
 Polícia
 
@@ -222,49 +232,49 @@ Polícia
 
 Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho
 
-Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho](https://www.tnh1.com.br/noticia/nid/suspeito-de-estuprar-crianca-de-10-anos-e-espancado-por-populares-no-jacintinho/ "Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho")[![Bombeiros resgatam cinco pessoas que ficaram isoladas em ilha de Barra Nova](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/1/csm_bombeiros_ascom_cbm_6b6e8b8ce7.jpg)
+Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho](https://www.tnh1.com.br/noticia/nid/suspeito-de-estuprar-crianca-de-10-anos-e-espancado-por-populares-no-jacintinho/ "Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho")[![CSA anuncia contratação de atacante alagoano; veja elenco até o momento](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/8/csm_CSA-contrata-Klenisson_7fa975e925.jpg)
 
-Artigos
+Temporada 2025
 
-Artigos
+Temporada 2025
 
-Bombeiros resgatam cinco pessoas que ficaram isoladas em ilha de Barra Nova
+CSA anuncia contratação de atacante alagoano; veja elenco até o momento
 
-Bombeiros resgatam cinco pessoas que ficaram isoladas em ilha de Barra Nova](https://www.tnh1.com.br/noticia/nid/bombeiros-resgatam-cinco-pessoas-que-ficaram-isoladas-em-ilha-de-barra-nova/ "Bombeiros resgatam cinco pessoas que ficaram isoladas em ilha de Barra Nova")
+CSA anuncia contratação de atacante alagoano; veja elenco até o momento](https://www.tnh1.com.br/noticia/nid/csa-anuncia-contratacao-de-atacante-alagoano-veja-elenco-ate-o-momento/ "CSA anuncia contratação de atacante alagoano; veja elenco até o momento")
 
-[![Maceió adota novo esquema vacinal contra Poliomielite; entenda a mudança](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/9/csm_Vacinacao-Polio_5cf981f68d.jpeg)
+[![PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/e/csm_pm-apreende-drogas-e-prende-autor-de-violencia-domestica-durante-acoes-no-agreste-e-sertao_32e6835f79.jpeg)
 
-A partir desta segunda
+Polícia
 
-A partir desta segunda
+Polícia
 
-Maceió adota novo esquema vacinal contra Poliomielite; entenda a mudança
+PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão
 
-Maceió adota novo esquema vacinal contra Poliomielite; entenda a mudança](https://www.tnh1.com.br/noticia/nid/maceio-adota-novo-esquema-vacinal-contra-poliomielite-entenda-a-mudanca/ "Maceió adota novo esquema vacinal contra Poliomielite; entenda a mudança")[![Depois de 4 meses, PC divulga novas imagens de suspeito de matar motorista no Jacintinho](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/1/csm_suspeito_homicidio_jaca_divulgacao_pcal_0e0b190fce.jpg)
+PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão](https://www.tnh1.com.br/noticia/nid/pm-apreende-drogas-e-prende-autor-de-violencia-domestica-durante-acoes-no-agreste-e-sertao/ "PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão")[![Guerreiros da Criação: maior prêmio da publicidade alagoana abre inscrições](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/7/csm_premiacao_guerreiros_da_criacao_2_foto_matheus_azevedo_tnh1_564941a91d.jpeg)
 
-caso de junho
+Geral
 
-caso de junho
+Geral
 
-Depois de 4 meses, PC divulga novas imagens de suspeito de matar motorista no Jacintinho
+Guerreiros da Criação: maior prêmio da publicidade alagoana abre inscrições
 
-Depois de 4 meses, PC divulga novas imagens de suspeito de matar motorista no Jacintinho](https://www.tnh1.com.br/noticia/nid/depois-de-4-meses-pc-divulga-novas-imagens-de-suspeito-de-matar-motorista-no-jacintinho/ "Depois de 4 meses, PC divulga novas imagens de suspeito de matar motorista no Jacintinho")[![Mulher reclama com vizinhos sobre ser espionada com câmera de segurança e é esfaqueada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/a/csm_Central_de_Policia_de_Arapiraca_61ef26cc59.jpg)
+Guerreiros da Criação: maior prêmio da publicidade alagoana abre inscrições](https://www.tnh1.com.br/noticia/nid/guerreiros-da-criacao-maior-premio-da-publicidade-alagoana-abre-inscricoes/ "Guerreiros da Criação: maior prêmio da publicidade alagoana abre inscrições")[![Governo abre processo contra Tiktok para impedir acesso de crianças à plataforma](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/6/csm_tik-tok-foto_Pixabay_c5ad3f3fde.jpg)
 
-no interior
+rede social
 
-no interior
+rede social
 
-Mulher reclama com vizinhos sobre ser espionada com câmera de segurança e é esfaqueada
+Governo abre processo contra Tiktok para impedir acesso de crianças à plataforma
 
-Mulher reclama com vizinhos sobre ser espionada com câmera de segurança e é esfaqueada](https://www.tnh1.com.br/noticia/nid/mulher-reclama-com-vizinhos-sobre-ser-espionada-com-camera-de-seguranca-e-e-esfaqueada/ "Mulher reclama com vizinhos sobre ser espionada com câmera de segurança e é esfaqueada")[![Fernando Nunes e Chau do Pife se reúnem em evento gratuito no Arte Pajuçara](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/e/csm_Chau_evento_3cc86b665c.png)
+Governo abre processo contra Tiktok para impedir acesso de crianças à plataforma](https://www.tnh1.com.br/noticia/nid/governo-abre-processo-contra-tiktok-para-impedir-acesso-de-criancas-a-plataforma/ "Governo abre processo contra Tiktok para impedir acesso de crianças à plataforma")[![Neymar sai machucado em partida do Al-Hilal no 2º jogo após volta de lesão](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/5/csm_Neymar_lesao_-_foto_Reproducao_68c811b578.jpg)
 
-Cultura
+Champions da Ásia
 
-Cultura
+Champions da Ásia
 
-Fernando Nunes e Chau do Pife se reúnem em evento gratuito no Arte Pajuçara
+Neymar sai machucado em partida do Al-Hilal no 2º jogo após volta de lesão
 
-Fernando Nunes e Chau do Pife se reúnem em evento gratuito no Arte Pajuçara](https://www.tnh1.com.br/noticia/nid/fernando-nunes-e-chau-do-pife-se-reunem-em-evento-gratuito-no-arte-pajucara/ "Fernando Nunes e Chau do Pife se reúnem em evento gratuito no Arte Pajuçara")
+Neymar sai machucado em partida do Al-Hilal no 2º jogo após volta de lesão](https://www.tnh1.com.br/noticia/nid/neymar-sai-machucado-em-partida-do-al-hilal-no-2o-jogo-apos-volta-de-lesao/ "Neymar sai machucado em partida do Al-Hilal no 2º jogo após volta de lesão")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
