@@ -122,7 +122,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Peanut the Squirrel / P'Nut](https://knowyourmeme.com/memes/peanut-the-squirrel-pnut "Peanut the Squirrel / P'Nut") [Freaky Homunculus Vibrator](https://knowyourmeme.com/memes/subcultures/freaky-homunculus-vibrator "Freaky Homunculus Vibrator") [Wait a Minute, I'm White!](https://knowyourmeme.com/memes/wait-a-minute-im-white "Wait a Minute, I'm White!") [Kei Trucks](https://knowyourmeme.com/memes/subcultures/kei-trucks "Kei Trucks")
+[Peanut the Squirrel / P'Nut](https://knowyourmeme.com/memes/peanut-the-squirrel-pnut "Peanut the Squirrel / P'Nut") [Vegeta Tweeting](https://knowyourmeme.com/memes/vegetas-they-jumped-my-ass "Vegeta Tweeting") [Freaky Homunculus Vibrator](https://knowyourmeme.com/memes/subcultures/freaky-homunculus-vibrator "Freaky Homunculus Vibrator")
 
 Privacy Policy
 ==============
