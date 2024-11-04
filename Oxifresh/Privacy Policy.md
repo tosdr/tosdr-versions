@@ -215,13 +215,13 @@ Call Now for a FREE Quote! [1-877-OXI-FRESH](tel:18776943737) **OR**
     * [Consideration Request](https://www.oxifresh.com/carpet-cleaning-companies/carpet-cleaning-franchise/considerationrequest/)
 * [Franchisee Login](https://www.oxifresh.com/login/index.html)
 
-![Fast 1 Hour Dry Time Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-1.png)
+![The World's Greenest Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-2.png)
 
 Zip Code  QUOTE & SCHEDULE
 
 Enter your zip/postal code above to find carpet cleaning services in your area, get a free quote or book online!
 
-Average 4.7 Stars Based on 302,612 Reviews
+Average 4.7 Stars Based on 302,780 Reviews
 
 * [Home](https://www.oxifresh.com/)
 * \>
@@ -383,17 +383,17 @@ What Customers Are Saying
 
 ### Average 4.7 stars (Out of 5)
 
-Based on 302,612 Carpet Cleaning Services Reviews
+Based on 302,780 Carpet Cleaning Services Reviews
 
-The technician was friendly, professional and on time. Gave new life to my old carpet, even on those heavy traffic areas. And everything was dry in 2 hours just like he said! Will def. use OxiFresh again. **LL.** - Green Bay, WI - 11/02/2024
-
-(5.0 Out of 5 stars)
-
-**BA.** - Lakewood, CO - 11/02/2024
+Fast, friendly and did an excellent job. **MV.** - SAINT PETERS, MO - 11/02/2024
 
 (5.0 Out of 5 stars)
 
-Very nice person cleaned my two chairs and they look great **JF.** - Bismarck, ND - 11/01/2024
+**CP.** - Lake Jackson , TX - 11/02/2024
+
+(4.0 Out of 5 stars)
+
+Good cleaning and friendly people **KH.** - Lakewood , CO - 11/02/2024
 
 (5.0 Out of 5 stars)
 
