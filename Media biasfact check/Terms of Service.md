@@ -219,8 +219,8 @@ No related posts.
 * [Electoral College Map 2024 - Harris vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
-* [The Des Moines Register - Bias and Credibility](https://mediabiasfactcheck.com/the-des-moines-register/)
 * [The Hill - Bias and Credibility](https://mediabiasfactcheck.com/the-hill/)
+* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 
 #### Subscribe via Email
 
