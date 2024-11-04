@@ -77,7 +77,7 @@ In Short:   Some information — such as IP address and/or browser and device 
 
 We automatically collect certain information when you visit, use or navigate the Services or Apps. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services or Apps and other technical information. This information is primarily needed to maintain the security and operation of our Services or Apps, and for our internal analytics and reporting purposes.
 
-Like many businesses, we also collect information through cookies and similar technologies. You can find out more about this in our Cookies Policy: https://www.Epal.gg/registerAgreement.
+Like many businesses, we also collect information through cookies and similar technologies. You can find out more about this in our Cookies Policy: https://policies.epal.gg/epal.html
 
 Online Identifiers. We collect applications; devices; tools and protocols, such as IP (Internet Protocol) addresses; cookie identifiers, or others such as the ones used for analytics and marketing; and other similar data.
 
@@ -120,7 +120,7 @@ Fulfill and manage your orders. We may use your information to fulfill and manag
 
 To post testimonials. We post testimonials on our Services or Apps that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and testimonial. If you wish to update, or delete your testimonial, please contact us at support@epal.gg and be sure to include your name, testimonial location, and contact information.
 
-Deliver targeted advertising to you. We may use your information to develop and display content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness. For more information, see our Cookie Policy: https://www.Epal.gg/registerAgreement.
+Deliver targeted advertising to you. We may use your information to develop and display content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness. For more information, see our Cookie Policy: https://policies.epal.gg/epal.html
 
 administer prize draws and competitions. We may use your information to administer prize draws and competitions when you elect to participate in competitions.
 
@@ -161,11 +161,9 @@ Vital Interests: We may disclose your information where we believe it is necessa
 
 More specifically, we may need to process your data or share your personal information in the following situations:
 
-Vendors, Consultants and Other Third-Party Service Providers. We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on the Services or Apps, which will enable them to collect data about how you interact with the Services or Apps over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes. We have contracts in place with our data processors. This means that they cannot do anything with your personal information unless we have instructed them to do it. They will not share your personal information with any organisation apart from us. They will hold it securely and retain it for the period we instruct.
+Vendors, Consultants and Other Third-Party Service Providers. We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service. We may allow selected third parties to use tracking technology on the Services or Apps, which will enable them to collect data about how you interact with the Services or Apps over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes. We have contracts in place with our data processors. This means that they cannot do anything with your personal information unless we have instructed them to do it. They will not share your personal information with any organisation apart from us. They will hold it securely and retain it for the period we instruct.
 
 Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
-
-Third-Party Advertisers. We may use third-party advertising companies to serve ads when you visit the Services or Apps. These companies may use information about your visits to our Website(s) and other websites that are contained in web cookies and other tracking technologies in order to provide advertisements about goods and services of interest to you. See our Cookie Policy: https://www.Epal.gg/registerAgreement for further information.
 
 Affiliates. We may share your information with our affiliates, in which case we will require those affiliates to honor this privacy policy. Affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us.
 
@@ -180,17 +178,11 @@ In Short:  We only share information with the following third parties.
 
 We only share and disclose your information with the following third parties. We have categorized each party so that you may be easily understand the purpose of our data collection and processing practices. If we have processed your data based on your consent and you wish to revoke your consent, please contact us.
 
-Advertising, Direct Marketing, and Lead Generation
-
-Google AdSense
-
 Allow Users to Connect to their Third-Party Accounts
 
 Facebook account, Google account and Instagram account
 
 Invoice and Billing
-
-PayPal, Stripe, and Apple Pay
 
 User Account Registration and Authentication
 
@@ -205,7 +197,7 @@ Google Analytics
 
 In Short:  We may use cookies and other tracking technologies to collect and store your information.
 
-We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Policy: https://www.Epal.gg/registerAgreement.
+We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Policy: https://policies.epal.gg/epal.html.
 
 6\. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
 ----------------------------------------
@@ -214,7 +206,7 @@ In Short:  If you choose to register or log in to our services using a social m
 
 Our Services or Apps offer you the ability to register and login using your third party social media account details (like your Facebook or Twitter logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile Information we receive may vary depending on the social media provider concerned, but will often include your name, e-mail address, friends list, profile picture as well as other information you choose to make public.
 
-We will use the information we receive only for the purposes that are described in this privacy policy or that are otherwise made clear to you on the Services or Apps. Please note that we do not control, and are not responsible for, other uses of your personal information by your third party social media provider. We recommend that you review their privacy policy to understand how they collect, use and share your personal information, and how you can set your privacy preferences on their sites and apps.
+This information is only used for account authentication and personalisation on the Services or Apps. Please note that we do not control, and are not responsible for, other uses of your personal information by your third party social media provider. We recommend that you review their privacy policy to understand how they collect, use and share your personal information, and how you can set your privacy preferences on their sites and apps.
 
 7\. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
 -----------------------------------------------
@@ -262,7 +254,7 @@ If you would at any time like to review or change the information in your accoun
 
 Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.
 
-Cookies and similar technologies: Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services or Apps. To opt-out of interest-based advertising by advertisers on our Services or Apps visit http://www.aboutads.info/choices/. For further information, please see our Cookie Policy: https://www.Epal.gg/registerAgreement.
+Cookies and similar technologies: Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services or Apps. To opt-out of interest-based advertising by advertisers on our Services or Apps visit http://www.aboutads.info/choices/. For further information, please see our Cookie Policy: https://policies.epal.gg/epal.html.
 
 Opting out of email marketing: You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list – however, we will still need to send you service-related emails that are necessary for the administration and use of your account. To otherwise opt-out, you may:
 
