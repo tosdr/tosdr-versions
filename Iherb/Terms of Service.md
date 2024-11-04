@@ -1135,11 +1135,11 @@ Marken der Woche
 
 [Specials](https://de.iherb.com/specials)[Neu](https://de.iherb.com/new-products)[Ausprobieren](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/catalog/topsellers)
 
-[\-22% auf iHerb-Marken
+[\-22% auf Schlafmittel
 
  
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/iherb-brands?pcode=22HB24)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/sleep?pcode=22SLEEP24)
 
       
 
