@@ -4,6 +4,10 @@ FutureLearn uses cookies to enhance your experience of the website. All but stri
 
 [Skip main navigation](#main-content)
 
+**New lower prices! Get up to 50% off 1000s of courses.** 
+
+[Explore courses](https://www.futurelearn.com/courses)
+
 [![FutureLearn - Learning For Life](https://cdn-wordpress-info.futurelearn.com/wp-content/themes/futurelearn/dist/images/fl_logo.svg)](https://www.futurelearn.com/)
 
 [Subjects](#)
