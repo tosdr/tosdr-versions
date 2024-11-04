@@ -29,17 +29,17 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![StarlightVanilla](plugins/MineCraft/icons/25x25xStarlightVanilla_1709993469.png.pagespeed.ic.z7HQX3Tv5_.jpg)
+[![Opinium](plugins/MineCraft/icons/25x25xOpinium_1729658202.png.pagespeed.ic.uLOW_8Oyyj.jpg)
 
-VPG | Modern Anarchy](https://minecraft-server.net/details/StarlightVanilla/ "VPG | Modern Anarchy")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
+BeanSMP](https://minecraft-server.net/details/Opinium/ "BeanSMP")[![mcprison](plugins/MineCraft/icons/25x25xmcprison_1722027662.png.pagespeed.ic.0wYsTOy-Nc.png)
 
-BEST SURVIVAL • CrackexMc](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexMc")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
+STAFF NEEDED - PURPLE PRISON](https://minecraft-server.net/details/mcprison/ "STAFF NEEDED - PURPLE PRISON")[![PLAYKRETMCPL](plugins/MineCraft/icons/25x25xPLAYKRETMCPL_1699453929.png.pagespeed.ic.csO5XeMY1u.png)
 
-Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")[![CraftedSurvival](plugins/MineCraft/icons/25x25xCraftedSurvival_1724663271.png.pagespeed.ic.7xXnoJyxX-.png)
+Minecraft Bedrock PL](https://minecraft-server.net/details/PLAYKRETMCPL/ "Minecraft Bedrock PL")[![Gladius](plugins/MineCraft/icons/25x25xGladius_1687724866.png.pagespeed.ic.sE5XXSLjhm.png)
 
-Crafted Survival](https://minecraft-server.net/details/CraftedSurvival/ "Crafted Survival")[![Buildix](plugins/MineCraft/icons/25x25xBuildix_1730705540.png.pagespeed.ic.N6dcTxBc80.jpg)
+Gladius SMP SEMI ANARCHY NO CRYSTAL PVP](https://minecraft-server.net/details/Gladius/ "Gladius SMP SEMI ANARCHY NO CRYSTAL PVP")[![axn](plugins/MineCraft/icons/25x25xaxn_1729107605.png.pagespeed.ic.WJSivFsGJ1.jpg)
 
-BuildixMC](https://minecraft-server.net/details/Buildix/ "BuildixMC")
+Anarchy Network](https://minecraft-server.net/details/axn/ "Anarchy Network")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -142,4 +142,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06208 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06718 - Created by [Debaucus](https://debauc.us/)
