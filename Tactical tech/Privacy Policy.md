@@ -14,10 +14,10 @@
     * [Donate](https://tacticaltech.org/donate/)
     * [Shop](https://www.shirtee.com/en/store/everythingwillbefinebytacticaltech/)
 * [News & Stories](https://tacticaltech.org/news/)
-* [Our solutions](https://tacticaltech.org/solutions/):
-    * [Activations](https://tacticaltech.org/activations/)
-    * [Training](https://tacticaltech.org/training/)
-    * [Consultancy](https://tacticaltech.org/consultancy-services/)
+* [Our services](https://tacticaltech.org/our-services/):
+    * [Activations](https://tacticaltech.org/education-events-technology/)
+    * [Training](https://tacticaltech.org/digital-media-literacy-training/)
+    * [Consultancy](https://tacticaltech.org/consultancy-services-technology/)
 * [About us](https://tacticaltech.org/about/):
     * [Our team](https://tacticaltech.org/team-and-board/)
     * [Annual Reports](https://tacticaltech.org/annual-reports/)
