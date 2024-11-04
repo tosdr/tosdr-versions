@@ -289,6 +289,10 @@ Definitions and legal references
 Latest news
 -----------
 
+[![How to Stop Seeing Political Ads Online](/wp-content/uploads/2024/11/Political-ads-1.jpg)
+
+### How to Stop Seeing Political Ads Online](https://adlock.com/blog/how-to-block-political-ads/)
+
 [![How Google Killing Ad-Blocking](/wp-content/uploads/2021/02/D9B0RFbXkAA3Hkh.jpg)
 
 ### How Google Killing Ad-Blocking](https://adlock.com/blog/chrome-killing-adblock/)
@@ -308,10 +312,6 @@ Latest news
 [![How To Watch YouTube Without Ads on Android](/wp-content/uploads/2019/04/YouTubeNew.png)
 
 ### How To Watch YouTube Without Ads on Android](https://adlock.com/blog/how-to-block-youtube-ads-on-android/)
-
-[![How to Get Rid of Ads on USA Today in a Snap](/wp-content/uploads/2024/08/Usa-Today.png)
-
-### How to Get Rid of Ads on USA Today in a Snap](https://adlock.com/blog/remove-ads-on-usa-today/)
 
 [For Android](https://adlock.com/adlock-for-android/)[For Windows](https://adlock.com/adlock-for-windows/)[For Chrome](https://adlock.com/adlock-for-chrome/)[For Safari](https://adlock.com/adlock-for-safari/)[For macOS](https://adlock.com/adlock-for-macos/)[For iOS](https://adlock.com/adblocker-for-iphone-ios/)[For YouTube](https://adlock.com/blog/how-to-block-youtube-ads-on-android/)[For Twitch](https://adlock.com/blog/how-to-block-twitch-ads/)
 
