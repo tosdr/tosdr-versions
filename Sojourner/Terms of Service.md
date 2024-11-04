@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a88d8c2a1a395acc9d135eaa8d8f06b6
+a6ee52ff47492d2c51aac091e4b312d1
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![12 mm irregular round silver pearls](https://sojourner.biz/images/cache/pearls/PE0166.200.jpg)](https://sojourner.biz/beads/pearls/12-mm-irregular-round-silver-pearls.html "12 mm irregular round silver pearls")
+[![8 mm to 10 mm turquoise nuggets](https://sojourner.biz/images/cache/stone/TU0006.200.jpg)](https://sojourner.biz/beads/stone-m-z/turquoise/8-mm-to-10-mm-turquoise-nuggets.html "8 mm to 10 mm turquoise nuggets")
 
-#### [12 mm irregular round silver pearls](https://sojourner.biz/beads/pearls/12-mm-irregular-round-silver-pearls.html "12 mm irregular round silver pearls")
+#### [8 mm to 10 mm turquoise nuggets](https://sojourner.biz/beads/stone-m-z/turquoise/8-mm-to-10-mm-turquoise-nuggets.html "8 mm to 10 mm turquoise nuggets")
 
-$26.00
+$50.00
 
 ### Best Sellers
 
