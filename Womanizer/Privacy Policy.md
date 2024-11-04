@@ -62,8 +62,10 @@ The store will not work correctly in the case when cookies are disabled.
         
         24 Days of Pleasure](https://www.womanizer.com/eu/couples-advent-calendar)
     * [Tease Me, Please Me Set](https://www.womanizer.com/eu/tease-me-please-me-set)
+    * [Dream Team Set](https://www.womanizer.com/eu/dream-team-set)
     * [Premium 2](https://www.womanizer.com/eu/premium-2)
     * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
+    * [LIBERTY](https://www.womanizer.com/eu/liberty)
     * [InsideOut](https://www.womanizer.com/eu/insideout)
     * [Pleasure Pair Set](https://www.womanizer.com/eu/pleasure-pair)
     * [Premium 2 Lilac Special Edition](https://www.womanizer.com/eu/premium2-lilac-special-edition)
@@ -71,8 +73,8 @@ The store will not work correctly in the case when cookies are disabled.
     * [Pro40](https://www.womanizer.com/eu/pro-40)
     * [STARLET 2](https://www.womanizer.com/eu/starlet-2)
     * [Starlet Snow](https://www.womanizer.com/eu/starlet)
+    * [We-Vibe Wand 2](https://www.womanizer.com/eu/we-vibe-wand-2)
     * [Classic Pleasure Set](https://www.womanizer.com/eu/classic-pleasure-set)
-    * [Pro / W500](https://www.womanizer.com/eu/w500)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
