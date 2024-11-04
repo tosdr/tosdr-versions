@@ -434,11 +434,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/its-z1/06.jpg?itok=CFmSQkmW)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/its-z1)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vladan-jeremic/intervju-mikrob.jpg?itok=QDzduSgM)](http://seecult.org/galerija/galerija-umetnika/vladan-jeremic)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/mozart_0.jpg?itok=NG-_lTph)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/xe-logo-positiv.jpg?itok=U2B2iGHi)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -454,6 +454,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Slobodna zona za mlade](http://seecult.org/vest/slobodna-zona-za-mlade)
 * [Dualnost Milene Pavlović Barili](http://seecult.org/vest/dualnost-milene-pavlovic-barili)
 * [Domaći filmovi na DOK Lajpcigu](http://seecult.org/vest/domaci-filmovi-na-dok-lajpcigu)
 * [Odloženi brojni događaji zbog žalosti](http://seecult.org/vest/odlozeni-brojni-dogadaji-zbog-zalosti)
@@ -463,7 +464,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Uzbudljiv program 20. Slobodne zone](http://seecult.org/vest/uzbudljiv-program-20-slobodne-zone)
 * [Portugalske Veštice u JDP-u](http://seecult.org/vest/portugalske-vestice-u-jdp-u)
 * [21\. Čembalo, živa umetnost](http://seecult.org/vest/21-cembalo-ziva-umetnost)
-* [Izolacija – šta je stvarnost, a šta manipulacija](http://seecult.org/vest/izolacija-sta-je-stvarnost-sta-manipulacija)
 
 * [Konkursi](#tab1_1)
 
