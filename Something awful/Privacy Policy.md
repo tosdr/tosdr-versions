@@ -205,27 +205,30 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Hey you fuckin' ass trolls!](https://www.somethingawful.com/awfulvision/ghost-dad-brony/1/)
-* [Spudbook!](https://www.somethingawful.com/awfulvision/sasso-obama-nerf/1/)
-* [Etro's Beards](https://www.somethingawful.com/fashion-swat/etros-beards/1/)
-* [Espanol SWAT](https://www.somethingawful.com/fashion-swat/espanol-swat/1/)
-* [Hiren & Pankaj's Homepage](https://www.somethingawful.com/awful-links/hiren-pankaj-wallpapers/)
+* [The Most Badass Rifts Cover Art According to Steve](https://www.somethingawful.com/dungeons-and-dragons/rifts-cover-art/1/)
+* [The Flushlight shines!](https://www.somethingawful.com/awfulvision/flushlight-mario-comedy/1/)
+* [THE EDGE OF INSANITY!!!](https://www.somethingawful.com/awfulvision/queef-hipster-gay/1/)
+* [I jerked off my dad!](https://www.somethingawful.com/awfulvision/juggalo-cat-incest/1/)
+* [Save-ur-life™ wall posters!](https://www.somethingawful.com/comedy-goldmine/saveurlife-wall-posters/1/)
 
 ### Popular Threads
 
-* ![](https://forumimages.somethingawful.com/forums/posticons/icon23-banme.gif) [Toodles](http://forums.somethingawful.com/showthread.php?threadid=4074209 "Toodles")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/science.png) [I am a servant of the Secret Fire (Not a LOTR thread)](http://forums.somethingawful.com/showthread.php?threadid=4074241 "I am a servant of the Secret Fire (Not a LOTR thread)")
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [Toadies](http://forums.somethingawful.com/showthread.php?threadid=4074259 "Toadies")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/audio.png) [Goooooons! Merry Awful Xmas Music Thread 2K24!](http://forums.somethingawful.com/showthread.php?threadid=4074263 "Goooooons! Merry Awful Xmas Music Thread 2K24!")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/books.png) [Moby-Dick is the greatest book I've ever read](http://forums.somethingawful.com/showthread.php?threadid=4074228 "Moby-Dick is the greatest book I've ever read")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/science.png) [I am a servant of the Secret Fire (Not a LOTR thread)](http://forums.somethingawful.com/showthread.php?threadid=4074241 "I am a servant of the Secret Fire (Not a LOTR thread)")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-explosion.gif) [Did you or your friend(s) get hurt replicating wwe/jackass stunts?](http://forums.somethingawful.com/showthread.php?threadid=4074261 "Did you or your friend(s) get hurt replicating wwe/jackass stunts?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/poll.png) [undecided voter MEGATHREAD](http://forums.somethingawful.com/showthread.php?threadid=4074260 "undecided voter MEGATHREAD")
 * ![](https://fi.somethingawful.com/forums/posticons/ddrd-scsa.gif) [Has anyone noticed that extroverts seem to be more valued by society than](http://forums.somethingawful.com/showthread.php?threadid=4074258 "Has anyone noticed that extroverts seem to be more valued by society than")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-zounds.gif) [ITT We are the wise old master who the young adventurers listen to for some](http://forums.somethingawful.com/showthread.php?threadid=4074222 "ITT We are the wise old master who the young adventurers listen to for some")
+* ![](https://forumimages.somethingawful.com/forums/posticons/icon23-banme.gif) [Toodles](http://forums.somethingawful.com/showthread.php?threadid=4074209 "Toodles")
 
 ### Random Articles
 
-* [The Great American Reach Around - Headin' South & Australia and New Zealand](https://www.somethingawful.com/news/gara-week-six/1/)
-* [Deathbed Testbed](https://www.somethingawful.com/news/deathbed-hardware-reviews/)
-* [ALOD: Semi Automatic Turban](https://www.somethingawful.com/news/alod-semi-automatic/)
-* [Thank You For Purchasing An Internet!](https://www.somethingawful.com/news/thank-you-for-2/)
-* [Conservapedia](https://www.somethingawful.com/awful-links/conservapedia/)
+* [The SA Vs Fark Photoshop Battle](https://www.somethingawful.com/news/sa-vs-fark-2/)
+* [Fishing](https://www.somethingawful.com/guides/guide-fishing/1/)
+* [Milo & Otis + PHOTOSHOP!](https://www.somethingawful.com/photoshop-phriday/milo-otis-betamax/1/)
+* [Duke Nukem 3D](https://www.somethingawful.com/token-healthpack/duke-nukem-3d/1/)
+* [Rick Springfield's Watery Personal Hell!](https://www.somethingawful.com/comedy-goldmine/rick-springfield-cruise/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
