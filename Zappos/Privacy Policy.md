@@ -1,10 +1,8 @@
 [Skip to main content](#main)
 
-Top 10 Giftable Shoes [Shop the Guide](https://www.zappos.com/c/top-10-gifts-shoes)
+Snag casual boots for chilly season. [Shop Our Guide](https://www.zappos.com/c/top-10-casual-boots)
 
-Celebrate! Iconic Converse shoes are back in stock. [Shop Converse](https://www.zappos.com/filters/shoes/CK_XAVoDJNwD4gICAQs.zso?s=isNew%2Fdesc%2FgoLiveDate%2Fdesc%2FrecentSalesStyle%2Fdesc%2F)
-
-Stocking Stuffer Shoes [Shop The Guide](https://www.zappos.com/c/stocking-stuffer-shoes)
+The top 10 UGG® gifts. [Shop Our Guide.](https://www.zappos.com/c/10-most-gifted-ugg)
 
 Cozy Crocs for chilly weather! [Shop The Guide](https://www.zappos.com/c/crocs-fuzzy-edition-2024)
 
