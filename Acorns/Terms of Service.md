@@ -54,7 +54,6 @@ The Fine Print of Acorns
 ------------------------
 
 * [Audited Statement of Financial Condition as of December 31, 2023](https://sqy7rm.media.zestyio.com/Acorns-Securities-SOFC-12-2023-WEBSITE.pdf)
-* [Chevron Sweepstakes](https://www.acorns.com/chevron-sweepstakes/)
 * [Acorns Early Match Terms & Conditions](https://www.acorns.com/early-match-terms/)
 * [GoHenry Promo Offer Terms](https://www.acorns.com/fitbit-ace-lte-terms/)
 * [Terms of Use
