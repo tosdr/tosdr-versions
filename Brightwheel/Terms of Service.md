@@ -2,7 +2,7 @@
 
 [Skip to main content](#content)
 
-[![The logo image of brightwheel, the #1 childcare management software](https://mybrightwheel.com/wp-content/themes/_brightwheel/img/brightwheel-logo-white.svg)](https://mybrightwheel.com/)
+[![brightwheel logo](https://mybrightwheel.com/wp-content/themes/_brightwheel/img/brightwheel-logo-white.svg)](https://mybrightwheel.com/)
 
 [Get a demo](https://mybrightwheel.com/demo/) [Request pricing](https://mybrightwheel.com/pricing/)
 
@@ -311,6 +311,9 @@ All Charges are facilitated through a third-party payment processing service. B
     * [Terms of Service](https://mybrightwheel.com/terms/)
     * [Privacy Policy](https://mybrightwheel.com/privacy/)
 * [Get a demo](https://mybrightwheel.com/demo/ "Request your free, personalized demo and we’ll show you how easy it is to get started on brightwheel.")
+    
+    Contact Sales: (855) 758-6642
+    
 
 [![Shark Tank logo that is hyperlinked to YouTube video where brightwheel pitched its childcare software to the sharks.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20210%2055'%3E%3C/svg%3E)
 
@@ -320,12 +323,12 @@ All Charges are facilitated through a third-party payment processing service. B
 
 ![Shark Tank logo that is hyperlinked to YouTube video where brightwheel pitched its childcare software to the sharks.](https://mybrightwheel.com/wp-content/themes/_brightwheel/img/redesign/SharkTank-mob.svg)](https://www.youtube.com/watch?v=5iKitGJeAZ4)
 
-[![Download the best childcare app for iPhone](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20125%2043'%3E%3C/svg%3E)
+[![App Store Button](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20125%2043'%3E%3C/svg%3E)
 
-![Download the best childcare app for iPhone](https://mybrightwheel.com/wp-content/themes/_brightwheel/img/redesign/appstore.svg)](https://brightwheel.app.link/kBO3XtO5A6)[![Download the best childcare app for Android](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20125%2043'%3E%3C/svg%3E)
+![App Store Button](https://mybrightwheel.com/wp-content/themes/_brightwheel/img/redesign/appstore.svg)](https://brightwheel.app.link/kBO3XtO5A6)[![Google Play Store Button](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20125%2043'%3E%3C/svg%3E)
 
-![Download the best childcare app for Android](https://mybrightwheel.com/wp-content/themes/_brightwheel/img/redesign/googleplay.svg)](https://brightwheel.app.link/J0Geo1W5A6)
+![Google Play Store Button](https://mybrightwheel.com/wp-content/themes/_brightwheel/img/redesign/googleplay.svg)](https://brightwheel.app.link/J0Geo1W5A6)
 
-[](https://www.facebook.com/mybrightwheel/ "This is a link to the Facebook page for brightwheel, the top rated childcare software")[](https://twitter.com/brightwheel "This is a link to the X account for brightwheel, #1 childcare management software")[](https://www.linkedin.com/company/brightwheel/ "This is a link to the LinkedIn page for brightwheel, the easiest all-in-one childcare app")[](https://www.instagram.com/mybrightwheel "This is a link to the Instagram account for brightwheel, the #1 childcare app")[](https://www.youtube.com/channel/UCd6gyC5urEqcNRVVe7thOHg "This is a link to the YouTube channel for brightwheel, the best childcare software")
+[](https://www.facebook.com/mybrightwheel/)[](https://twitter.com/brightwheel)[](https://www.linkedin.com/company/brightwheel/)[](https://www.instagram.com/mybrightwheel)[](https://www.youtube.com/channel/UCd6gyC5urEqcNRVVe7thOHg)
 
 © 2024 Brightwheel - All rights reserved
