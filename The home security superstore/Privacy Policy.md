@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[15% Off Stun Guns & Pepper Spray | Code: SP15](https://www.thehomesecuritysuperstore.com/collections/self-defense?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+Stun+Guns+%26+Pepper+Spray)
+[15% Off All Security Locks | Code: LOCK15](https://www.thehomesecuritysuperstore.com/collections/locks?view=all&utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+All+Security+Locks)
 
-TODAY'S OFFER: :: | 15% Off Stun Guns & Pepper Spray | Code: SP15
+TODAY'S OFFER: :: | 15% Off All Security Locks | Code: LOCK15
 
 TODAY'S OFFER: : :
 
- 15% Off Stun Guns & Pepper Spray Code: SP15
+ 15% Off All Security Locks Code: LOCK15
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
