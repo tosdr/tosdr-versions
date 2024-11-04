@@ -87,23 +87,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+    * * [Anthropology](https://www.sciencenews.org/topic/anthropology)
+            
+            ### [The ‘midlife crisis’ is too simple a story, scientists say](https://www.sciencenews.org/article/midlife-crisis-mental-health-happiness)
+            
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")3 hours ago
+            
+        * [Humans](https://www.sciencenews.org/topic/humans)
+            
+            ### [A phone app could help people have lucid dreams](https://www.sciencenews.org/article/phone-app-help-lucid-dreams)
+            
+            By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")5 hours ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Why finding bird flu in a U.S. pig for the first time is raising new worries](https://www.sciencenews.org/article/influenza-pig-bird-flu-us)
             
             By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")November 1, 2024
-            
-        * [Psychology](https://www.sciencenews.org/topic/psychology)
-            
-            ### [Smiles tweaked by AI can boost attraction, a speed-dating study shows](https://www.sciencenews.org/article/smiles-ai-attraction-speed-dating)
-            
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")November 1, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Limiting sugar in infancy reduces the risk of diabetes and hypertension](https://www.sciencenews.org/article/sugar-infancy-risk-diabetes)
-            
-            By [Skyler Ware](https://www.sciencenews.org/author/skyler-ware "Posts by Skyler Ware")October 31, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A zombie star’s spiky filaments shed light on a 12th century supernova](https://www.sciencenews.org/article/zombie-star-supernova-filaments)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")1 hour ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")7 hours ago
             
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
