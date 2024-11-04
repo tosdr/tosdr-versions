@@ -230,7 +230,7 @@ this week
 
 [Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
 
-[Leukemia](https://www.sciencedaily.com/news/health_medicine/leukemia/)
+[Wounds and Healing](https://www.sciencedaily.com/news/health_medicine/wounds_and_healing/)
 
 [Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
 
@@ -240,7 +240,7 @@ this week
 
 [Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
-[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
+[Educational Technology](https://www.sciencedaily.com/news/computers_math/educational_technology/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
