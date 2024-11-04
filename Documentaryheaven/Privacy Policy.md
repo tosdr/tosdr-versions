@@ -113,54 +113,54 @@ Advertisement
     Prisoners of Katrina
     
     n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
-* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
-    
-    Objectified
-    
-    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 * [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
     
     The new world order – Illuminati, Freemasons and other secret societies
     
     Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
+* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
+    
+    Objectified
+    
+    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 * [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
-* [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
+* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
     
-    Diary of a Porn Virgin
+    Louis Theroux: Drinking To Oblivion
     
-    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
+    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 
 ###### Throwback Documentaries
 
-* [![The Tiger Tanks](/wp-content/thumbnails/4457-100x70.jpg?x53432)
+* [![System Shock: How The Mp3 Changed Music](/wp-content/thumbnails/16453-100x70.jpg?x53432)
     
-    The Tiger Tanks
+    System Shock: How The Mp3 Changed Music
     
-    The Tiger Tanks Tiger I is the common name of a German heavy tank of World War II. The initial official German designation was Panzerkampfwagen VI Ausführung H (abbreviated PzKpfw VI Ausf. H, Ausführu](https://documentaryheaven.com/the-tiger-tanks/ "The Tiger Tanks")
-* [![Putin, Russia and The West](/wp-content/thumbnails/6445-100x70.png?x53432)
+    The '90s was a great time to be in the music industry, things were booming and as a result, there were expensive parties and big album launches, it was just part of the culture. It was the era of NSY](https://documentaryheaven.com/system-shock-how-mp3-changed-music/ "System Shock: How The Mp3 Changed Music")
+* [![The Big Burn](/wp-content/thumbnails/11266-100x70.jpg?x53432)
     
-    Putin, Russia and The West
+    The Big Burn
     
-    Taking Control Vladimir Putin, after eight years as president of Russia and four more as prime minister, is stubbornly holding onto power. He has announced his intention to return as president and dec](https://documentaryheaven.com/putin-russia-and-the-west/ "Putin, Russia and The West")
-* [![THORIUM REMIX 2016](/wp-content/thumbnails/12479-100x70.jpg?x53432)
+    On August 19th 1910, an assistant forest ranger named Edmund Pulaski emerged out of the smoked filled Bitterroot Mountains, that loomed over the town of Wallace, Idaho. For months himself and his](https://documentaryheaven.com/big-burn/ "The Big Burn")
+* [![Crossover Kids](/wp-content/thumbnails/7542-100x70.jpg?x53432)
     
-    THORIUM REMIX 2016
+    Crossover Kids
     
-    This film sets about exploring the potential that Thorium has for being a safe means to produce an abundance of energy. Thorium itself is easily found but requires a very different type of nuclear rea](https://documentaryheaven.com/thorium-remix-2016/ "THORIUM REMIX 2016")
-* [![The Architect](/wp-content/thumbnails/9418-100x70.jpg?x53432)
+    On the surface, Coy Mathis is a typical six-year-old girl. She likes dressing up, gravitates towards the colour pink, and enjoys playing with her dolls. But Coy was born a boy.Recently she won the](https://documentaryheaven.com/crossover-kids/ "Crossover Kids")
+* [![Clearing the Smoke: The Science of Cannabis](/wp-content/thumbnails/6178-100x70.jpg?x53432)
     
-    The Architect
+    Clearing the Smoke: The Science of Cannabis
     
-    Vice News meets up with James Mitchell who was found to be the head of a program the United States set up in order to extract intelligence from captured "terrorists" via controversial forms of interro](https://documentaryheaven.com/architect/ "The Architect")
-* [![Wired: South Korea](/wp-content/thumbnails/6733-100x70.jpg?x53432)
+    Montana PBS’s new documentary, Clearing the Smoke, reveals how cannabis acts on the brain and in the body to treat nausea, pain, epilepsy and potentially even cancer. Extensive interviews with patien](https://documentaryheaven.com/clearing-the-smoke-the-science-of-cannabis/ "Clearing the Smoke: The Science of Cannabis")
+* [![Soviet Top Secret Weapons](/wp-content/thumbnails/7035-100x70.jpg?x53432)
     
-    Wired: South Korea
+    Soviet Top Secret Weapons
     
-    In South Korea addiction to gaming has become an epidemic, with murders attributed to it and psychiatric units struggling to cope. And whilst the South binges, North Korean cyber warriors have been st](https://documentaryheaven.com/wired-south-korea/ "Wired: South Korea")
+    During the period of the Cold War, a large proportion of the Soviet Union’s economy and scientific establishment was dedicated to the development of new and better weapons. The Soviet’s paranoia about](https://documentaryheaven.com/soviet-top-secret-weapons/ "Soviet Top Secret Weapons")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
