@@ -134,104 +134,104 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Francisco Zimmer](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23be62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EFZ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1250944-francisco-zimmer/ "Ir ao perfil de Francisco Zimmer")
+    * [![Gibran M R Davila](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253448.thumb.jpeg.8b669a43a3fa0d8be58b7b385046a034.jpeg)](https://www.clubedohardware.com.br/profile/1253448-gibran-m-r-davila/ "Ir ao perfil de Gibran M R Davila")
+        
+        2
+        
+        [Tendo lag no Escape From Tarkov com uma RTX 4070 Super e R9 5900x](https://www.clubedohardware.com.br/forums/topic/1701428-tendo-lag-no-escape-from-tarkov-com-uma-rtx-4070-super-e-r9-5900x/?do=getNewComment "Tendo lag no Escape From Tarkov com uma RTX 4070 Super e R9 5900x")
+        
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [Gibran M R Davila](https://www.clubedohardware.com.br/profile/1253448-gibran-m-r-davila/ "Ir ao perfil de Gibran M R Davila")  
+        2 horas atrás
+        
+    * [![frosty_ren](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%238bc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EFR%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255520-frosty_ren/ "Ir ao perfil de frosty_ren")
         
         1
         
-        [Vale R$2.100,00? X79 Plus, Xeon E5 2689, 16GB e Radeon RX 580](https://www.clubedohardware.com.br/forums/topic/1701399-vale-r210000-x79-plus-xeon-e5-2689-16gb-e-radeon-rx-580/?do=getNewComment "Vale R$2.100,00? X79 Plus, Xeon E5 2689, 16GB e Radeon RX 580")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Francisco Zimmer](https://www.clubedohardware.com.br/profile/1250944-francisco-zimmer/ "Ir ao perfil de Francisco Zimmer")  
-        2 horas atrás
-        
-    * [![joaovictor22](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23bdc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255507-joaovictor22/ "Ir ao perfil de joaovictor22")
-        
-        0
-        
-        [Conexão a cabo Rede não funciona na Biostar H610M](https://www.clubedohardware.com.br/forums/topic/1701398-conex%C3%A3o-a-cabo-rede-n%C3%A3o-funciona-na-biostar-h610m/?do=getNewComment "Conexão a cabo Rede não funciona na Biostar H610M")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [joaovictor22](https://www.clubedohardware.com.br/profile/1255507-joaovictor22/ "Ir ao perfil de joaovictor22")  
-        2 horas atrás
-        
-    * [![Renan.kkj](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255508.thumb.jpeg.772f63bca6417c11814956fbf10ded1f.jpeg)](https://www.clubedohardware.com.br/profile/1255508-renankkj/ "Ir ao perfil de Renan.kkj")
-        
-        0
-        
-        [memória RAM Kingston fury no Kit Xeon 2630v4](https://www.clubedohardware.com.br/forums/topic/1701397-mem%C3%B3ria-ram-kingston-fury-no-kit-xeon-2630v4/?do=getNewComment "memória RAM Kingston fury no Kit Xeon 2630v4")
+        [Uso de RAM está normal?](https://www.clubedohardware.com.br/forums/topic/1701427-uso-de-ram-est%C3%A1-normal/?do=getNewComment "Uso de RAM está normal?")
         
         [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Renan.kkj](https://www.clubedohardware.com.br/profile/1255508-renankkj/ "Ir ao perfil de Renan.kkj")  
+        Por [frosty\_ren](https://www.clubedohardware.com.br/profile/1255520-frosty_ren/ "Ir ao perfil de frosty_ren")  
         2 horas atrás
         
-    * [![Wonjong](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/Screenshot_30.thumb.png.6cea6af843e96af9849067d5fef412ab.png)](https://www.clubedohardware.com.br/profile/1255502-wonjong/ "Ir ao perfil de Wonjong")
-        
-        1
-        
-        [Novato querendo montar um PC até R$6.000,00](https://www.clubedohardware.com.br/forums/topic/1701396-novato-querendo-montar-um-pc-at%C3%A9-r600000/?do=getNewComment "Novato querendo montar um PC até R$6.000,00")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Wonjong](https://www.clubedohardware.com.br/profile/1255502-wonjong/ "Ir ao perfil de Wonjong")  
-        2 horas atrás
-        
-    * [![mathegs](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23b162c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/689908-mathegs/ "Ir ao perfil de mathegs")
+    * [![frosty_ren](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%238bc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EFR%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255520-frosty_ren/ "Ir ao perfil de frosty_ren")
         
         0
         
-        [Radeon RX 580 chegando a 0% de uso](https://www.clubedohardware.com.br/forums/topic/1701395-radeon-rx-580-chegando-a-0-de-uso/?do=getNewComment "Radeon RX 580 chegando a 0% de uso")
+        [Falha na sincronização de horário - windows 11](https://www.clubedohardware.com.br/forums/topic/1701426-falha-na-sincroniza%C3%A7%C3%A3o-de-hor%C3%A1rio-windows-11/?do=getNewComment "Falha na sincronização de horário - windows 11")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [mathegs](https://www.clubedohardware.com.br/profile/689908-mathegs/ "Ir ao perfil de mathegs")  
+        [Windows 11](https://www.clubedohardware.com.br/forums/forum/284-windows-11/ "Windows 11")  
+        Por [frosty\_ren](https://www.clubedohardware.com.br/profile/1255520-frosty_ren/ "Ir ao perfil de frosty_ren")  
         2 horas atrás
         
-    * [![Jaime Gouveia](https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg)](https://www.clubedohardware.com.br/profile/912331-jaime-gouveia/ "Ir ao perfil de Jaime Gouveia")
+    * [![Joao Victor frz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255492.thumb.jpeg.3fb26868af85dbd3212daf336df6a5ed.jpeg)](https://www.clubedohardware.com.br/profile/1255492-joao-victor-frz/ "Ir ao perfil de Joao Victor frz")
         
-        4
+        1
         
-        [Dicas para pegar um setup bom nessa Black Friday](https://www.clubedohardware.com.br/forums/topic/1701394-dicas-para-pegar-um-setup-bom-nessa-black-friday/?do=getNewComment "Dicas para pegar um setup bom nessa Black Friday")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Jaime Gouveia](https://www.clubedohardware.com.br/profile/912331-jaime-gouveia/ "Ir ao perfil de Jaime Gouveia")  
-        2 horas atrás
-        
-    * [![eduardoul](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255506.thumb.jpeg.31ba5ff1459b2162967a27b7c4b117bb.jpeg)](https://www.clubedohardware.com.br/profile/1255506-eduardoul/ "Ir ao perfil de eduardoul")
-        
-        2
-        
-        [Placa-mãe H61 suporta a GeForce GTX 550 ti?](https://www.clubedohardware.com.br/forums/topic/1701393-placa-m%C3%A3e-h61-suporta-a-geforce-gtx-550-ti/?do=getNewComment "Placa-mãe H61 suporta a GeForce GTX 550 ti?")
+        [diferenca de placas mae](https://www.clubedohardware.com.br/forums/topic/1701425-diferenca-de-placas-mae/?do=getNewComment "diferenca de placas mae")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [eduardoul](https://www.clubedohardware.com.br/profile/1255506-eduardoul/ "Ir ao perfil de eduardoul")  
-        2 horas atrás
+        Por [Joao Victor frz](https://www.clubedohardware.com.br/profile/1255492-joao-victor-frz/ "Ir ao perfil de Joao Victor frz")  
+        3 horas atrás
         
-    * [![vitorzs](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1168970.thumb.png.746e2293c90309b740a3f22d13f6f554.png)](https://www.clubedohardware.com.br/profile/1168970-vitorzs/ "Ir ao perfil de vitorzs")
-        
-        1
-        
-        [qual o melhor processador para o socket PPGA478 de notebook](https://www.clubedohardware.com.br/forums/topic/1701392-qual-o-melhor-processador-para-o-socket-ppga478-de-notebook/?do=getNewComment "qual o melhor processador para o socket PPGA478 de notebook")
-        
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [vitorzs](https://www.clubedohardware.com.br/profile/1168970-vitorzs/ "Ir ao perfil de vitorzs")  
-        2 horas atrás
-        
-    * [![Brutus de udi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255503.thumb.jpeg.f17a32a735c81eb44224c77cb20361bc.jpeg)](https://www.clubedohardware.com.br/profile/1255503-brutus-de-udi/ "Ir ao perfil de Brutus de udi")
+    * [![Evandro Dj](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4bd%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EED%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255431-evandro-dj/ "Ir ao perfil de Evandro Dj")
         
         0
         
-        [falha instalação .msi ou instalador do corel 2024 mesmo com arquivo original](https://www.clubedohardware.com.br/forums/topic/1701391-falha-instala%C3%A7%C3%A3o-msi-ou-instalador-do-corel-2024-mesmo-com-arquivo-original/?do=getNewComment "falha instalação .msi ou instalador do corel 2024 mesmo com arquivo original")
+        [onde comprar stvs2 pro](https://www.clubedohardware.com.br/forums/topic/1701424-onde-comprar-stvs2-pro/?do=getNewComment "onde comprar stvs2 pro")
         
-        [Programas](https://www.clubedohardware.com.br/forums/forum/24-programas/ "Programas")  
-        Por [Brutus de udi](https://www.clubedohardware.com.br/profile/1255503-brutus-de-udi/ "Ir ao perfil de Brutus de udi")  
+        [TV box e similares](https://www.clubedohardware.com.br/forums/forum/143-tv-box-e-similares/ "TV box e similares")  
+        Por [Evandro Dj](https://www.clubedohardware.com.br/profile/1255431-evandro-dj/ "Ir ao perfil de Evandro Dj")  
         3 horas atrás
         
-    * [![Vartrhox](https://www.clubedohardware.com.br/uploads/members/monthly_2023_09/imported-photo-1229292.thumb.png.e692b65abcb51332f560d33cc91dc227.png)](https://www.clubedohardware.com.br/profile/1229292-vartrhox/ "Ir ao perfil de Vartrhox")
+    * [![Proxy.Sys](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255512.thumb.jpeg.1e22e83293814815e7d7585387125cc0.jpeg)](https://www.clubedohardware.com.br/profile/1255512-proxysys/ "Ir ao perfil de Proxy.Sys")
         
-        2
+        0
         
-        [Quero fazer um upgrade na placa de vídeo mas não sei qual escolher](https://www.clubedohardware.com.br/forums/topic/1701390-quero-fazer-um-upgrade-na-placa-de-v%C3%ADdeo-mas-n%C3%A3o-sei-qual-escolher/?do=getNewComment "Quero fazer um upgrade na placa de vídeo mas não sei qual escolher")
+        [Meu PC roda GTA Online?](https://www.clubedohardware.com.br/forums/topic/1701423-meu-pc-roda-gta-online/?do=getNewComment "Meu PC roda GTA Online?")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Vartrhox](https://www.clubedohardware.com.br/profile/1229292-vartrhox/ "Ir ao perfil de Vartrhox")  
+        [Quais jogos meu PC roda?](https://www.clubedohardware.com.br/forums/forum/277-quais-jogos-meu-pc-roda/ "Quais jogos meu PC roda?")  
+        Por [Proxy.Sys](https://www.clubedohardware.com.br/profile/1255512-proxysys/ "Ir ao perfil de Proxy.Sys")  
+        3 horas atrás
+        
+    * [![DHB Serviços](https://www.clubedohardware.com.br/uploads/members/monthly_2022_03/imported-photo-721276.thumb.jpeg.83a046db5afd099829dcb35af56dc64f.jpeg)](https://www.clubedohardware.com.br/profile/721276-dhb-servi%C3%A7os/ "Ir ao perfil de DHB Serviços")
+        
+        0
+        
+        [Aplicativo protoboard Android diagrama elétrico](https://www.clubedohardware.com.br/forums/topic/1701422-aplicativo-protoboard-android-diagrama-el%C3%A9trico/?do=getNewComment "Aplicativo protoboard Android diagrama elétrico")
+        
+        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
+        Por [DHB Serviços](https://www.clubedohardware.com.br/profile/721276-dhb-servi%C3%A7os/ "Ir ao perfil de DHB Serviços")  
+        3 horas atrás
+        
+    * [![sagaki](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1213601.thumb.jpeg.2a5eb46e0756f01100b187e1c2001546.jpeg)](https://www.clubedohardware.com.br/profile/1213601-sagaki/ "Ir ao perfil de sagaki")
+        
+        0
+        
+        [Meu pc está travando quando coloco algum vídeo ou live em tela cheia](https://www.clubedohardware.com.br/forums/topic/1701421-meu-pc-est%C3%A1-travando-quando-coloco-algum-v%C3%ADdeo-ou-live-em-tela-cheia/?do=getNewComment "Meu pc está travando quando coloco algum vídeo ou live em tela cheia")
+        
+        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
+        Por [sagaki](https://www.clubedohardware.com.br/profile/1213601-sagaki/ "Ir ao perfil de sagaki")  
+        3 horas atrás
+        
+    * [![sergio streda](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255518.thumb.jpeg.5b5b8ad9bafffc95b23766c38d764180.jpeg)](https://www.clubedohardware.com.br/profile/1255518-sergio-streda/ "Ir ao perfil de sergio streda")
+        
+        0
+        
+        [Sony VAIO svt151A11L - upgrades..](https://www.clubedohardware.com.br/forums/topic/1701420-sony-vaio-svt151a11l-upgrades/?do=getNewComment "Sony VAIO svt151A11L - upgrades..")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [sergio streda](https://www.clubedohardware.com.br/profile/1255518-sergio-streda/ "Ir ao perfil de sergio streda")  
+        4 horas atrás
+        
+    * [![InforGamer](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1211368.thumb.jpeg.346001a5f652af2b3e4674833777a8fe.jpeg)](https://www.clubedohardware.com.br/profile/1211368-inforgamer/ "Ir ao perfil de InforGamer")
+        
+        0
+        
+        [Travamentos em jogos é normal?](https://www.clubedohardware.com.br/forums/topic/1701419-travamentos-em-jogos-%C3%A9-normal/?do=getNewComment "Travamentos em jogos é normal?")
+        
+        [Jogo não roda ou dá erro](https://www.clubedohardware.com.br/forums/forum/278-jogo-n%C3%A3o-roda-ou-d%C3%A1-erro/ "Jogo não roda ou dá erro")  
+        Por [InforGamer](https://www.clubedohardware.com.br/profile/1211368-inforgamer/ "Ir ao perfil de InforGamer")  
         4 horas atrás
         
     
