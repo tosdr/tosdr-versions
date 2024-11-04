@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Henry Venter
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=6e9abd7b0dab2f4878c8caa5d37fe9bab320816e0fd10374efda2817916918c2&c=213795931)  
-United Paintball Federation
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=25557325)  
+Vplay Grafix
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=6e9abd7b0dab2f4878c8caa5d37fe9bab320816e0fd10374efda2817916918c2&c=126850194)  
-Goju-Ryu Pretoria East
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=113462692)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=6e9abd7b0dab2f4878c8caa5d37fe9bab320816e0fd10374efda2817916918c2&c=12132205)  
-UniTech Solutions Pty Ltd
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=109343057)  
+Cpower Projects t/a Pro Pure Water
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=6e9abd7b0dab2f4878c8caa5d37fe9bab320816e0fd10374efda2817916918c2&c=93904419)  
-National Elite Security Services (PTY) LTD
-
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=6e9abd7b0dab2f4878c8caa5d37fe9bab320816e0fd10374efda2817916918c2&c=162304450)  
-Digifax (Pty) Ltd T/A SecurityHyper
-
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=6e9abd7b0dab2f4878c8caa5d37fe9bab320816e0fd10374efda2817916918c2&c=124674781)  
-Cooper Power Cape Town (Pty) Ltd
-
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=6e9abd7b0dab2f4878c8caa5d37fe9bab320816e0fd10374efda2817916918c2&c=85566713)  
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=73265607)  
 Mtunzini Group
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=6e9abd7b0dab2f4878c8caa5d37fe9bab320816e0fd10374efda2817916918c2&c=46971161)  
-MR Compressors& Industrial Supplies
-
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=6e9abd7b0dab2f4878c8caa5d37fe9bab320816e0fd10374efda2817916918c2&c=66548442)  
-CLEVER STUDENTS
-
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=6e9abd7b0dab2f4878c8caa5d37fe9bab320816e0fd10374efda2817916918c2&c=177231695)  
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=162774532)  
 CGHK Enterprises (PTY) LTD
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=6e9abd7b0dab2f4878c8caa5d37fe9bab320816e0fd10374efda2817916918c2&c=16873996)  
-Itroniq (Pty) Ltd
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=23467368)  
+J.M. HUMAN RESOURCES
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=6e9abd7b0dab2f4878c8caa5d37fe9bab320816e0fd10374efda2817916918c2&c=205677465)  
-INVOICES/JOBCARDS ONLINE
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=33895030)  
+Well Hung Art
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=6e9abd7b0dab2f4878c8caa5d37fe9bab320816e0fd10374efda2817916918c2&c=17103451)  
-Website Café (PTY) LTD
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=6215195)  
+Immediate Health (pty)ltd
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=6e9abd7b0dab2f4878c8caa5d37fe9bab320816e0fd10374efda2817916918c2&c=8972147)  
-Little Nutty Professors
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=194874987)  
+Enhle Oarabile Kea
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=6e9abd7b0dab2f4878c8caa5d37fe9bab320816e0fd10374efda2817916918c2&c=197546026)  
-Van Der Merwe Olieverspreiders
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=109146324)  
+MONSTER SECURITY GUARDING
+
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=186365575)  
+Kinetic Power Solutions (Pty) Ltd.
+
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=157746106)  
+IEMS (PTY) ltd
+
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=49337435)  
+Beyond Laser CNC Cutting Technology South Africa CC
+
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=32876899)  
+OrgChart Hosting Pty Ltd
+
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=fb6fb7e8005b5c0e3b36648454bfe4f762f4163e990099085877be572ae73b19&c=184658440)  
+Tagline Brands
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
