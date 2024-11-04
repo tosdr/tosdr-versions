@@ -1,8 +1,6 @@
 [Skip to content](#content)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
-
-![](https://rslt.io/wp-content/uploads/2021/06/rslt_white_logo.svg)](https://rslt.io/homepage)
+[![](https://rslt.io/wp-content/uploads/2021/06/rslt_white_logo.svg)](https://rslt.io/homepage)
 
 * Solutions
     
@@ -219,9 +217,7 @@ CONTACT@RSLT.IO
 
 New York, NY 10028
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20200'%3E%3C/svg%3E)
-
-![](https://rslt.io/wp-content/uploads/2021/06/rslt_white_logo.svg)](https://rslt.io/)
+[![](https://rslt.io/wp-content/uploads/2021/06/rslt_white_logo.svg)](https://rslt.io/)
 
 Pages
 -----
@@ -248,11 +244,7 @@ Social Media
 * [](https://www.linkedin.com/company/rsltio/)
 * [](https://twitter.com/RSLTNYC)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20800'%3E%3C/svg%3E)
-
-![](https://rslt.io/wp-content/uploads/2021/06/2023-Honoree-Badge-2.png)](https://rslt.io/)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202493%201239'%3E%3C/svg%3E)
+[![](https://rslt.io/wp-content/uploads/2021/06/2023-Honoree-Badge-2.png)](https://rslt.io/)
 
 ![](https://rslt.io/wp-content/uploads/2021/06/Untitled-design-20.png)
 
