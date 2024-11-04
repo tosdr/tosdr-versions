@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/WXIA/images/ab3ae115-01f1-433b-a9da-db8172df4014/20240926T131121/ab3ae115-01f1-433b-a9da-db8172df4014_16x9.jpg) ![](https://media.king5.com/assets/WXIA/images/ab3ae115-01f1-433b-a9da-db8172df4014/20240926T131121/ab3ae115-01f1-433b-a9da-db8172df4014_360x203.jpg)](https://www.king5.com/article/weather/western-washington-weather-fall-storm-monday-commute/281-3e4c9940-d80f-461d-bf6e-75e17a323982)
+        
+        #### [Fall storm could impact Monday morning commute, bring more mountain snow](https://www.king5.com/article/weather/western-washington-weather-fall-storm-monday-commute/281-3e4c9940-d80f-461d-bf6e-75e17a323982)
+        
     *  [![](https://media.king5.com/assets/KING/images/f7e9c299-acb9-4055-9a71-82d8b856091a/20241103T194441/f7e9c299-acb9-4055-9a71-82d8b856091a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f7e9c299-acb9-4055-9a71-82d8b856091a/20241103T194441/f7e9c299-acb9-4055-9a71-82d8b856091a_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KING/images/a8db8538-4a74-4fe2-b903-3df9ac2e8c00/a8db8538-4a74-4fe2-b903-3df9ac2e8c00_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a8db8538-4a74-4fe2-b903-3df9ac2e8c00/a8db8538-4a74-4fe2-b903-3df9ac2e8c00_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-warning-advisory-cascade-snow/281-a2f49c46-65ba-4ba9-b284-13e4bc420412)
-        
-        #### [Here's how much snow is expected in the Cascades Friday](https://www.king5.com/article/weather/weather-blog/winter-storm-warning-advisory-cascade-snow/281-a2f49c46-65ba-4ba9-b284-13e4bc420412)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-53°
+50°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
