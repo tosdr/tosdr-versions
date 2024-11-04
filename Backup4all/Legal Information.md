@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup on two external drives using th ...](https://www.backup4all.com/how-to-backup-on-two-external-drives-using-the-daily-rotation-scheme-kb.html)  
+* [HDD enclosures Backup4all is compatible with](https://www.backup4all.com/which-one-touch-backup-hdd-enclosures-is-backup4all-compatible-with-kb.html)  
     
-* [How to back up data files from Verizon using ...](https://www.backup4all.com/how-to-back-up-data-files-from-verizon-using-backup4all-kb.html)  
+* [How to restore a backup to Dropbox](https://www.backup4all.com/how-to-restore-a-backup-to-dropbox-kb.html)  
     
-* [Differential backup](https://www.backup4all.com/differential-backup-kb.html)  
+* [Using Backup4all - FAQ 5](https://www.backup4all.com/using-backup4all-faq-5-kb.html)  
     
-* [How to backup your data to Google Drive](https://www.backup4all.com/how-to-backup-your-data-to-google-drive-kb.html)  
+* [How to back up data files from CenturyLink us ...](https://www.backup4all.com/how-to-back-up-data-files-from-centurylink-using-backup4all-kb.html)  
     
-* [How to back up data files from QNAP using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-qnap-using-backup4all-kb.html)  
+* [How to configure backups to run sequentially](https://www.backup4all.com/how-to-configure-backups-to-run-sequentially-kb.html)  
     
 
 Choose language:
