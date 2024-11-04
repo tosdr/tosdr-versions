@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Backup MS SQL Server data](https://www.backup4all.com/backup-ms-sql-server-data-kb.html)  
+* [How to back up your data to Scaleway](https://www.backup4all.com/how-to-back-up-your-data-to-scaleway-kb.html)  
     
-* [Using Backup4all - FAQ 9](https://www.backup4all.com/using-backup4all-faq-9-kb.html)  
+* [How to move a backup from a failing hard driv ...](https://www.backup4all.com/how-to-move-a-backup-from-a-failing-hard-drive-to-a-new-one-kb.html)  
     
-* [How to backup your data to dreamObjects](https://www.backup4all.com/how-to-backup-your-data-to-dreamobjects-kb.html)  
+* [How to create a differential backup](https://www.backup4all.com/how-to-create-a-differential-backup-kb.html)  
     
-* [How to use the backup list](https://www.backup4all.com/how-to-use-the-backup-list-kb.html)  
+* [How to back up and restore the Backup4all con ...](https://www.backup4all.com/how-to-back-up-and-restore-the-backup4all-configurations-kb.html)  
     
-* [How to Backup to SFTP?](https://www.backup4all.com/how-to-backup-to-sftp-kb.html)  
+* [How to enable on Linux the ciphers supported ...](https://www.backup4all.com/how-to-enable-on-linux-the-ciphers-supported-by-backup4all-kb.html)  
     
 
 Choose language:
