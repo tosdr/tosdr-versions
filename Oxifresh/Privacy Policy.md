@@ -385,17 +385,17 @@ What Customers Are Saying
 
 Based on 302,780 Carpet Cleaning Services Reviews
 
-The technician was super professional . The cleaning product doesn’t get the areas that need it the most. **MW.** - Saint Charles, MO - 11/03/2024
-
-(4.0 Out of 5 stars)
-
-**IR.** - Saint Augustine, FL - 11/03/2024
+The technician was great, his name is Sean **PW.** - Ballwin, MO - 11/03/2024
 
 (5.0 Out of 5 stars)
 
-**WM.** - Bryn Mawr, PA - 11/02/2024
+Efficient and professional **sf.** - Kansas City, MO - 11/03/2024
 
-(4.0 Out of 5 stars)
+(5.0 Out of 5 stars)
+
+**MR.** - Jasper, IN - 11/02/2024
+
+(5.0 Out of 5 stars)
 
 [MORE REVIEWS](https://www.oxifresh.com/testimonials)
 
