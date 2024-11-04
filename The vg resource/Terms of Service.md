@@ -91,7 +91,7 @@ This page does not work well in portrait mode on mobile. Please rotate your devi
 * [Mario Customs](https://www.spriters-resource.com/custom_edited/mariocustoms/)
 * [Undertale](https://www.spriters-resource.com/pc_computer/undertale/)
 * [Fire Emblem: Heroes](https://www.spriters-resource.com/mobile/fireemblemheroes/)
-* [Osomatsu-san Hesokur...](https://www.spriters-resource.com/mobile/osomatsusanhesokuriwarsbattleoftheneets/)
+* [Pizza Tower](https://www.spriters-resource.com/pc_computer/pizzatower/)
 
 * Affiliates
 * [Sprite Database](https://spritedatabase.net/)
