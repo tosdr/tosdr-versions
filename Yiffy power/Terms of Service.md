@@ -105,23 +105,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 570 1
+0 580 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/olivia-directed-by-corsetlover69/)
+[](https://yiff-party.com/yiff/firestone-and-etc-created-by-maoegou/)
 
-[olivia directed by corsetlover69](https://yiff-party.com/yiff-ai-premium/olivia-directed-by-corsetlover69/)
+[firestone and etc created by maoegou](https://yiff-party.com/yiff/firestone-and-etc-created-by-maoegou/)
 
-0 38 0
+0 87 0
 
-October 5, 2024
+October 6, 2024
 
-[](https://yiff-party.com/yiff/hemyl-ignis-mythology-created-by-raydafr/)
+[](https://yiff-party.com/yiff/mal0-and-scp-1471-a-scp-foundation-created-by-homuro/)
 
-[hemyl-ignis (mythology) created by raydafr](https://yiff-party.com/yiff/hemyl-ignis-mythology-created-by-raydafr/)
+[mal0 and scp-1471-a (scp foundation) created by homuro](https://yiff-party.com/yiff/mal0-and-scp-1471-a-scp-foundation-created-by-homuro/)
 
-0 1 0
+0 3 0
 
 November 4, 2024
 
