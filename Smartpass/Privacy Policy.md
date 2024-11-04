@@ -250,15 +250,15 @@ Webinars](https://www.smartpass.app/smartpass-shipped-registration-page)
 
 The Latest
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66beaa05873d8fc9b49c9306_Book%20Image.avif)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66beaa05873d8fc9b49c9306_Book%20Image.avif)
 
 Free Whitepaper
 
-**The K-12 Guide to Bathroom Passes + Management**](https://www.smartpass.app/ebook/bathroom-passes-management)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66ec1b55e786d669639ecef7_Goodchland%20img.avif)
+**The K-12 Guide to Bathroom Passes + Management**](https://www.smartpass.app/ebook/bathroom-passes-management)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66ec1b55e786d669639ecef7_Goodchland%20img.avif)
 
 Case Study
 
-SmartPass Transforms Student Movement and Boosts Safety at Goochland County Public Schools](https://www.smartpass.app/customers/goochland-county-public-schools)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494770c8fdb7da48836b6b5_blog%20article%20img.avif)
+SmartPass Transforms Student Movement and Boosts Safety at Goochland County Public Schools](https://www.smartpass.app/customers/goochland-county-public-schools)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494770c8fdb7da48836b6b5_blog%20article%20img.avif)
 
 Blog Article
 
@@ -310,7 +310,7 @@ Webinars](https://www.smartpass.app/smartpass-shipped-registration-page)
 
 The Latest
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66beaa05873d8fc9b49c9306_Book%20Image.avif)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66beaa05873d8fc9b49c9306_Book%20Image.avif)
 
 Free Whitepaper
 
@@ -318,7 +318,7 @@ Free Whitepaper
 
 Case Study
 
-SmartPass Transforms Student Movement and Boosts Safety at Goochland County Public Schools](https://www.smartpass.app/customers/goochland-county-public-schools)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494770c8fdb7da48836b6b5_blog%20article%20img.avif)
+SmartPass Transforms Student Movement and Boosts Safety at Goochland County Public Schools](https://www.smartpass.app/customers/goochland-county-public-schools)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494770c8fdb7da48836b6b5_blog%20article%20img.avif)
 
 Blog Article
 
@@ -380,7 +380,7 @@ Uptime](http://smartpass.instatus.com/)
 
 99.99%
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64950f28ed585987154bb92d_apple-link.avif)](https://apps.apple.com/us/app/smartpass-mobile/id1387337686)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64950f28b14166d0612326e8_google-link.avif)](https://play.google.com/store/apps/details?id=app.smartpass.smartpass_mobile)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64950f28ed585987154bb92d_apple-link.avif)](https://apps.apple.com/us/app/smartpass-mobile/id1387337686)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64950f28b14166d0612326e8_google-link.avif)](https://play.google.com/store/apps/details?id=app.smartpass.smartpass_mobile)
 
 Support
 
@@ -416,11 +416,11 @@ Uptime](http://smartpass.instatus.com/)
 
 99.99%
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64950f28ed585987154bb92d_apple-link.avif)](https://apps.apple.com/us/app/smartpass-mobile/id1387337686)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64950f28b14166d0612326e8_google-link.avif)](https://play.google.com/store/apps/details?id=app.smartpass.smartpass_mobile)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64950f28ed585987154bb92d_apple-link.avif)](https://apps.apple.com/us/app/smartpass-mobile/id1387337686)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64950f28b14166d0612326e8_google-link.avif)](https://play.google.com/store/apps/details?id=app.smartpass.smartpass_mobile)
 
 [Sign In](https://app.smartpass.app/)[Demo & Pricing](https://www.smartpass.app/get-started)
 
-![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64f431af97af24f9cf11d897_Safety%20%26%20Security%20Logos.avif)
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64f431af97af24f9cf11d897_Safety%20%26%20Security%20Logos.avif)
 
 Privacy & Trust Center
 ======================
@@ -739,7 +739,7 @@ Over 10,000 principals and school leaders use SmartPass for hall passes, ID Card
 
 [Take a Tour](https://www.smartpass.app/hall-pass-tour)
 
-![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64e380745f742709e09c9b01_smartpass%20movement%20image.avif)
+![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64e380745f742709e09c9b01_smartpass%20movement%20image.avif)
 
 [![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64c58dfcde0296f89ff2f693_Cross.png)](#)
 
@@ -771,7 +771,7 @@ CSPC
 
 SDPC
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64f431af97af24f9cf11d897_Safety%20%26%20Security%20Logos.avif)](https://www.smartpass.app/privacy)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64f431af97af24f9cf11d897_Safety%20%26%20Security%20Logos.avif)](https://www.smartpass.app/privacy)
 
 Safety & Security are our top priority. All SmartPass products are compliant with data protection regulations and standards.
 
@@ -821,7 +821,7 @@ CSPC
 
 SDPC
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64f431af97af24f9cf11d897_Safety%20%26%20Security%20Logos.avif)](https://www.smartpass.app/privacy)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64f431af97af24f9cf11d897_Safety%20%26%20Security%20Logos.avif)](https://www.smartpass.app/privacy)
 
 [Safety & Security](https://www.smartpass.app/privacy) are our top priority. All SmartPass products are compliant with data protection regulations and standards.
 
@@ -841,7 +841,7 @@ CSPC
 
 SDPC
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64f431af97af24f9cf11d897_Safety%20%26%20Security%20Logos.avif)](https://www.smartpass.app/privacy)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64f431af97af24f9cf11d897_Safety%20%26%20Security%20Logos.avif)](https://www.smartpass.app/privacy)
 
 Safety & Security are our top priority. All SmartPass products are compliant with data protection regulations and standards.
 
