@@ -107,10 +107,8 @@ Written notifications may also be sent to the below address, but please note the
 
 1. Pixlr Pte. Ltd.
 2. Attn: Copyright Agent
-3. 11 Collyer Quay
-4. #17-00, The Arcade (Office Suite#1715)
-5. Singapore 049317
-6. dmca@pixlr.com
+3. 30, Cecil Street, #19-08 Prudential Tower, Singapore 049712
+4. dmca@pixlr.com
 
 **PLEASE NOTE THAT UNDER FEDERAL LAW, IF YOU KNOWINGLY MISREPRESENT THAT ONLINE MATERIAL IS INFRINGING, YOU MAY BE SUBJECT TO HEAVY CIVIL PENALTIES. THESE INCLUDE MONETARY DAMAGES, COURT COSTS, AND ATTORNEYS' FEES INCURRED BY US, BY ANY COPYRIGHT OWNER, OR BY ANY COPYRIGHT OWNER'S LICENSEE THAT IS INJURED AS A RESULT OF OUR RELYING UPON YOUR MISREPRESENTATION. YOU MAY ALSO BE SUBJECT TO CRIMINAL PROSECUTION FOR PERJURY.**
 
@@ -223,4 +221,4 @@ The term of Your subscription for Pixlr for Education shall begin on the date wh
 2. the date Pixlr for Education is discontinued.
     
 
-_Last updated: 9 January 2024_
+_Last updated: 28 October 2024_
