@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-d727f0cc9263c8440c63005ae84addc0
+1992770c196f7825187c69c9c9c345a3
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Vermeil tiny lily clasp](https://www.sojourner.biz/images/cache/SKU0200front.200.jpg)](https://www.sojourner.biz/clasps/sterling-only/vermeil-tiny-lily-clasp.html "Vermeil tiny lily clasp")
+[![10 mm round vintage German blue glass beads](https://www.sojourner.biz/images/cache/glass/GL0153.200.jpg)](https://www.sojourner.biz/beads/glass/10-mm-round-vintage-german-blue-glass-beads.html "10 mm round vintage German blue glass beads")
 
-#### [Vermeil tiny lily clasp](https://www.sojourner.biz/clasps/sterling-only/vermeil-tiny-lily-clasp.html "Vermeil tiny lily clasp")
+#### [10 mm round vintage German blue glass beads](https://www.sojourner.biz/beads/glass/10-mm-round-vintage-german-blue-glass-beads.html "10 mm round vintage German blue glass beads")
 
-$10.00
+$7.00
 
 ### Best Sellers
 
