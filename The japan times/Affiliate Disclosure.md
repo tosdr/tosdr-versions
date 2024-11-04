@@ -211,9 +211,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,23 +255,13 @@ Latest News
 
 [Fifth time’s a charm as H3 rocket puts defense satellite in orbit](https://www.japantimes.co.jp/news/2024/11/04/japan/h3-rocket-x-band-satellite/ "Fifth time’s a charm as H3 rocket puts defense satellite in orbit")
 
-7 hours ago
-
 [Sikh activists see it as freedom. India calls it terrorism.](https://www.japantimes.co.jp/news/2024/11/04/asia-pacific/politics/sikh-activists-india-terrorism/ "Sikh activists see it as freedom. India calls it terrorism.")
-
-7 hours ago
 
 [Indonesia volcano eruption kills six and sets villages aflame](https://www.japantimes.co.jp/news/2024/11/04/asia-pacific/indonesia-volcano-eruption/ "Indonesia volcano eruption kills six and sets villages aflame")
 
-8 hours ago
-
 [Horse-trading continues ahead of next week's prime minister vote](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/parties-lobby-prime-minister-election/ "Horse-trading continues ahead of next week's prime minister vote")
 
-8 hours ago
-
 [Alleged recruiter of Saitama burglary ring arrested](https://www.japantimes.co.jp/news/2024/11/04/japan/crime-legal/crime-recruiter-arrested/ "Alleged recruiter of Saitama burglary ring arrested")
-
-9 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
