@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/WXIA/images/ab3ae115-01f1-433b-a9da-db8172df4014/20240926T131121/ab3ae115-01f1-433b-a9da-db8172df4014_16x9.jpg) ![](https://media.king5.com/assets/WXIA/images/ab3ae115-01f1-433b-a9da-db8172df4014/20240926T131121/ab3ae115-01f1-433b-a9da-db8172df4014_360x203.jpg)](https://www.king5.com/article/weather/western-washington-weather-fall-storm-monday-commute/281-3e4c9940-d80f-461d-bf6e-75e17a323982)
-        
-        #### [Fall storm could impact Monday morning commute, bring more mountain snow](https://www.king5.com/article/weather/western-washington-weather-fall-storm-monday-commute/281-3e4c9940-d80f-461d-bf6e-75e17a323982)
-        
-    *  [![](https://media.king5.com/assets/KING/images/f7e9c299-acb9-4055-9a71-82d8b856091a/20241103T194441/f7e9c299-acb9-4055-9a71-82d8b856091a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f7e9c299-acb9-4055-9a71-82d8b856091a/20241103T194441/f7e9c299-acb9-4055-9a71-82d8b856091a_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/df009b3a-ba06-4bc4-a5c8-ac84ad02d0b1/20241104T062037/df009b3a-ba06-4bc4-a5c8-ac84ad02d0b1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/df009b3a-ba06-4bc4-a5c8-ac84ad02d0b1/20241104T062037/df009b3a-ba06-4bc4-a5c8-ac84ad02d0b1_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+    *  [![](https://media.king5.com/assets/KING/images/ac2cc97a-6628-4005-a047-4b6d439506b4/ac2cc97a-6628-4005-a047-4b6d439506b4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ac2cc97a-6628-4005-a047-4b6d439506b4/ac2cc97a-6628-4005-a047-4b6d439506b4_360x203.jpg)](https://www.king5.com/article/weather/western-washington-weather-fall-storm-monday-commute/281-3e4c9940-d80f-461d-bf6e-75e17a323982)
+        
+        #### [Fall storm could impact Monday morning commute, bring more mountain snow](https://www.king5.com/article/weather/western-washington-weather-fall-storm-monday-commute/281-3e4c9940-d80f-461d-bf6e-75e17a323982)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-50°
+51°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
