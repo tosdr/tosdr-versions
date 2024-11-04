@@ -224,13 +224,13 @@ Verkaufen bei OTTO
 
 OTTO Market
 
+Werben bei OTTO
+
+OTTO Advertising
+
 OTTO Partner
 
 OTTO Payments
-
-OTTO for Business
-
-OTTO Advertising
 
 OTTO Affiliate
 
