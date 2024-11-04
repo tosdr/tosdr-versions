@@ -118,15 +118,15 @@ AllLive NowToday
     
 * Sheffield Shield 2024-25
     
-    [Tasmania vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/102882/tas-vs-wa-8th-match-sheffield-shield-2024-25 "Tasmania v Western Australia, 8th Match - Stumps")
+    [Tasmania vs Western Australia  LIVE](https://www.cricbuzz.com/live-cricket-scores/102882/tas-vs-wa-8th-match-sheffield-shield-2024-25 "Tasmania v Western Australia, 8th Match - Live")
     
     8th Match
     
-* [New South Wales vs Queensland](https://www.cricbuzz.com/live-cricket-scores/102880/nsw-vs-ql-7th-match-sheffield-shield-2024-25 "New South Wales v Queensland, 7th Match - Stumps")
+* [New South Wales vs Queensland  LIVE](https://www.cricbuzz.com/live-cricket-scores/102880/nsw-vs-ql-7th-match-sheffield-shield-2024-25 "New South Wales v Queensland, 7th Match - Live")
     
     7th Match
     
-* [South Australia vs Victoria](https://www.cricbuzz.com/live-cricket-scores/102889/saus-vs-vic-9th-match-sheffield-shield-2024-25 "South Australia v Victoria, 9th Match - Stumps")
+* [South Australia vs Victoria  LIVE](https://www.cricbuzz.com/live-cricket-scores/102889/saus-vs-vic-9th-match-sheffield-shield-2024-25 "South Australia v Victoria, 9th Match - Live")
     
     9th Match
     
@@ -505,37 +505,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Many questions in India's way following stunning drop-off](https://www.cricbuzz.com/cricket-news/132323/many-questions-in-indias-way-following-stunning-drop-off "Many questions in India's way following stunning drop-off ")
 
-6h ago
+12h ago
 
   [](https://www.cricbuzz.com/cricket-news/132322/lost-for-words-in-terms-of-whats-happened-over-the-last-three-weeks "'Lost for words in terms of what's happened over the last three weeks'")
 
 ['Lost for words in terms of what's happened over the last three weeks'](https://www.cricbuzz.com/cricket-news/132322/lost-for-words-in-terms-of-whats-happened-over-the-last-three-weeks "'Lost for words in terms of what's happened over the last three weeks'")
 
-8h ago
+14h ago
 
   [](https://www.cricbuzz.com/cricket-news/132321/wtc-scenarios-india-need-big-result-in-australia-after-home-stumble "WTC Scenarios: India need big result in Australia after home stumble")
 
 [WTC Scenarios: India need big result in Australia after home stumble](https://www.cricbuzz.com/cricket-news/132321/wtc-scenarios-india-need-big-result-in-australia-after-home-stumble "WTC Scenarios: India need big result in Australia after home stumble")
 
-8h ago
+14h ago
 
   [](https://www.cricbuzz.com/cricket-news/132320/rohit-expresses-frustration-over-pants-controversy-inducing-dismissal "Don't know how that Pant decision was overturned: Rohit Sharma")
 
 [Don't know how that Pant decision was overturned: Rohit Sharma](https://www.cricbuzz.com/cricket-news/132320/rohit-expresses-frustration-over-pants-controversy-inducing-dismissal "Don't know how that Pant decision was overturned: Rohit Sharma")
 
-9h ago
+15h ago
 
   [](https://www.cricbuzz.com/cricket-news/132319/stats-lowest-total-defended-against-india-in-india "Stats: India plummet to new nadir at home")
 
 [Stats: India plummet to new nadir at home](https://www.cricbuzz.com/cricket-news/132319/stats-lowest-total-defended-against-india-in-india "Stats: India plummet to new nadir at home")
 
-10h ago
+16h ago
 
   [](https://www.cricbuzz.com/cricket-news/132318/ajaz-stars-again-at-wankhede-as-new-zealand-seal-historic-whitewash "Ajaz stars again at Wankhede as New Zealand seal historic whitewash")
 
 [Ajaz stars again at Wankhede as New Zealand seal historic whitewash](https://www.cricbuzz.com/cricket-news/132318/ajaz-stars-again-at-wankhede-as-new-zealand-seal-historic-whitewash "Ajaz stars again at Wankhede as New Zealand seal historic whitewash")
 
-11h ago
+17h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
