@@ -208,15 +208,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/9/csm_ssp-realiza-operacao-em-casa-de-shows-no-jaragua-e-constata-irregularidades_37a21d41fd.jpeg)
-
-irregularidades
-
-irregularidades
-
-Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia
-
-Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://www.tnh1.com.br/noticia/nid/casa-de-shows-em-maceio-e-alvo-de-operacao-da-policia-e-donos-sao-levados-a-delegacia/ "Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia")[![Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/1/csm_Record_Time_Transmissao_2f56fe245b.jpg)
+[![Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/1/csm_Record_Time_Transmissao_2f56fe245b.jpg)
 
 Futebol Nacional
 
@@ -224,7 +216,7 @@ Futebol Nacional
 
 Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025
 
-Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025](https://www.tnh1.com.br/noticia/nid/record-monta-time-de-estrelas-para-transmissao-do-paulistao-e-brasileirao-em-2025/ "Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025")[![Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/6/csm_Duplo_Homicidio_Murici_5cdb5404cd.jpg)
+Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025](https://www.tnh1.com.br/noticia/nid/record-monta-time-de-estrelas-para-transmissao-do-paulistao-e-brasileirao-em-2025/ "Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025")[![Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/6/csm_Duplo_Homicidio_Murici_5cdb5404cd.jpg)
 
 Polícia
 
@@ -232,15 +224,23 @@ Polícia
 
 Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici
 
-Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici](https://www.tnh1.com.br/noticia/nid/apos-discussao-por-som-alto-tio-e-sobrinho-de-17-anos-sao-assassinados-a-tiros-em-murici/ "Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici")[![Bancos devolveram ao INSS quase R$ 8 bi em benefícios não sacados](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/e/csm_previdencia-inss-agencia-brasil__1__9dc6e6fc09.jpg)
+Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici](https://www.tnh1.com.br/noticia/nid/apos-discussao-por-som-alto-tio-e-sobrinho-de-17-anos-sao-assassinados-a-tiros-em-murici/ "Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici")[![Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/e/csm_Suspeito_Esturpo_Espancamento_c04c3f904d.jpg)
 
-Economia
+Polícia
 
-Economia
+Polícia
 
-Bancos devolveram ao INSS quase R$ 8 bi em benefícios não sacados
+Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho
 
-Bancos devolveram ao INSS quase R$ 8 bi em benefícios não sacados](https://www.tnh1.com.br/noticia/nid/bancos-devolveram-ao-inss-quase-r-8-bi-em-beneficios-nao-sacados/ "Bancos devolveram ao INSS quase R$ 8 bi em benefícios não sacados")
+Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho](https://www.tnh1.com.br/noticia/nid/suspeito-de-estuprar-crianca-de-10-anos-e-espancado-por-populares-no-jacintinho/ "Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho")[![Bombeiros resgatam cinco pessoas que ficaram isoladas em ilha de Barra Nova](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/1/csm_bombeiros_ascom_cbm_6b6e8b8ce7.jpg)
+
+Artigos
+
+Artigos
+
+Bombeiros resgatam cinco pessoas que ficaram isoladas em ilha de Barra Nova
+
+Bombeiros resgatam cinco pessoas que ficaram isoladas em ilha de Barra Nova](https://www.tnh1.com.br/noticia/nid/bombeiros-resgatam-cinco-pessoas-que-ficaram-isoladas-em-ilha-de-barra-nova/ "Bombeiros resgatam cinco pessoas que ficaram isoladas em ilha de Barra Nova")
 
 [![Ministro da Educação atribui aumento de inscrições no Enem a programa de incentivo de Lula](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/b/csm_enem_mcamgo_abr_03112024-9_353734725b.jpg)
 
