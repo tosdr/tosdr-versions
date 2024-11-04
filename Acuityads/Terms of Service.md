@@ -1,29 +1,28 @@
 EARNINGS CALL - illumin's Q3 earnings call is Nov 8
 
-[Register](https://stg-illumin-stage.kinsta.cloud/investor-information/earnings-call/)
+[Register](https://illumin.com/investor-information/earnings-call/)
 
-[![logo](https://illumin.com/wp-content/themes/illumin/images/logo.svg)](https://illumin.com/)
+ [![logo-white](https://illumin.com/wp-content/uploads/2024/09/logo-white.svg) ![logo black](https://illumin.com/wp-content/uploads/2024/09/logo-1.svg)](https://illumin.com/)
 
 * [Product](#)
     * [Technology](#)
-        * [Journey Canvas](https://illumin.com/product/journey-canvas/)
-        * [Audience Engagement Map](https://illumin.com/product/audience-engagement-map/)
-        * [Pathlight Analysis](https://illumin.com/product/pathlight-analysis/)
+        * [Canvas](https://illumin.com/product/journey-canvas/)
+        * [Data](https://illumin.com/product/audience-engagement-map/)
+        * [Intelligence](https://illumin.com/product/pathlight-analysis/)
         * [Channels](https://illumin.com/product/channels/)
-        * [How to Work With illumin](https://illumin.com/product/service-levels/)
+        * [How to work with illumin](https://illumin.com/product/service-levels/)
     * [By use case](#)
         * [illumin for Agencies](https://illumin.com/illumin-for-agencies/)
         * [illumin for Brands](https://illumin.com/illumin-for-brands/)
         * [illumin for Political](https://illumin.com/illumin-for-political/)
         * [illumin for Health](https://illumin.com/illumin-for-health/)
-        * [illumin for Social](https://illumin.com/product/case-study-mnco-open-web-to-social/)
-    * ![Illumin The Inside Scoop](https://illumin.com/wp-content/uploads/2024/08/illumin_InsideScoop-Blog-2-1.jpg)
+    * ![](https://illumin.com/wp-content/uploads/2024/08/illumin_InsideScoop-Blog-2-1.jpg)
         
         Webinar
         
         Watch the recording of our 2024 retail advertising trends webinar with Rockerbox!
         
-        [Watch](https://illumin.com/insights/podcasts-webinars/inside-scoop-state-of-holiday-digital-spend/)
+        [Register](https://illumin.com/insights/podcasts-webinars/inside-scoop-state-of-holiday-digital-spend/)
         
 * [Insights](https://illumin.com/insights/)
     * [Insights](#)
@@ -31,7 +30,7 @@ EARNINGS CALL - illumin's Q3 earnings call is Nov 8
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Best Halloween ads 2024](https://illumin.com/wp-content/uploads/2024/10/halloween-263x300.jpg)
+    * ![Best Halloween ads 2024](https://illumin.com/wp-content/uploads/2024/11/halloween-263x300.jpg)
         
         Best Halloween ads 2024[Read More](https://illumin.com/insights/blog/best-halloween-ads-2024/)
         
@@ -46,14 +45,14 @@ EARNINGS CALL - illumin's Q3 earnings call is Nov 8
         
         Build a career building the future of advertising.
         
-        [See open roles](https://illumin.com/careers/)
+        [See open roles](https://go.illumin.com/careers-at-illumin)
         
 * [Investors](#)
     * [Investor Information](#)
         * [Investor Information](https://illumin.com/investor-information/)
         * [Stock Performance](https://illumin.com/stock-performance/)
-        * [News & Press](https://illumin.com/news-press/)
-    * ![illumin Holdings Inc. announces date for Third Quarter 2024 Financial and Operating Results](https://illumin.com/wp-content/uploads/2023/07/Whats-new-with-illumin-263x300.jpg)
+        * [Press](https://illumin.com/news-press/)
+    * ![illumin Holdings Inc. announces date for Third Quarter 2024 Financial and Operating Results](https://illumin.com/wp-content/uploads/2021/05/Whats-new-with-illumin.jpg)
         
         illumin Holdings Inc. announces date for Third Quarter 2024 Financial and Operating Results[Read More](https://illumin.com/news-press/illumin-announces-date-for-q3-2024-financial-and-operating-results/)
         
@@ -61,7 +60,13 @@ EARNINGS CALL - illumin's Q3 earnings call is Nov 8
 
 [Sign In](https://illumin.acuityads.com/) [Sign In](https://illumin.acuityads.com/)
 
- ![illumin](https://illumin.com/wp-content/uploads/2023/03/case-study-banner-mobile@2x.png)
+* [Request a demo](https://illumin.com/product/request-a-demo/)
+* [Sign In](https://illumin.acuityads.com/)
+
+* [ES](https://go.illumin.com/es/home)
+* [FR](https://go.illumin.com/fr/page-daccueil)
+
+ ![](https://illumin.com/wp-content/uploads/2024/10/illumin_Website-company.png)
 
 Terms and Conditions
 ====================
@@ -451,13 +456,29 @@ illumin works with upstream data controllers to ensure no PII enters our system.
 
 A list of Sub-processors will be made available by illumin.
 
-### Subscribe for insights
+![inbox-heart](https://illumin.com/wp-content/themes/illumin/images/inbox-heart.svg)
 
-Get the latest updates delivered right to your inbox.
+Newsletter signup
 
-[![illumin](https://illumin.com/wp-content/uploads/2023/04/logo-white.svg)](https://illumin.com/)
+### Get the latest insights from the Journey Insider
 
-A platform that provides the perfect space for journey planning, execution, and reporting – illumin is more than just a DSP.
+[![logo-footer](https://illumin.com/wp-content/uploads/2024/08/logo.svg)](https://illumin.com/)
+
+* Product
+    * [Canvas](https://illumin.com/product/journey-canvas/)
+    * [Data](https://illumin.com/product/audience-engagement-map/)
+    * [Intelligence](https://illumin.com/product/pathlight-analysis/)
+    * [Request A Demo](https://illumin.com/product/request-a-demo/)
+    * [Support](https://support.illumin.com/csm)
+* Company
+    * [Overview](https://illumin.com/company-overview/)
+    * [Contact](https://illumin.com/contact/)
+    * [Careers](https://illumin.com/careers/)
+* Investors
+    * [Investor Information](https://illumin.com/investor-information/)
+    * [Stock Performance](https://illumin.com/stock-performance/)
+
+[Request a demo](https://illumin.com/product/request-a-demo/)
 
 * [](https://www.linkedin.com/company/illuminhq)
 * [](http://twitter.com/illuminhq)
@@ -465,28 +486,15 @@ A platform that provides the perfect space for journey planning, execution, and 
 * [](https://www.facebook.com/illuminhq)
 * [](https://www.youtube.com/@illuminHQ)
 
-* [Product](#)
-    * [Journey Canvas](https://illumin.com/product/journey-canvas/)
-    * [Audience Engagement Map](https://illumin.com/product/audience-engagement-map/)
-    * [Pathlight Analysis](https://illumin.com/product/pathlight-analysis/)
-    * [Request A Demo](https://illumin.com/product/request-a-demo/)
-    * [Support](https://support.illumin.com/csm)
-* [Insights](#)
-    * [Blog](https://illumin.com/insights/blog/)
-    * [Whitepapers](https://illumin.com/insights/whitepapers/)
-    * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * [Guides](https://illumin.com/insights/guides/)
-    * [Events](https://illumin.com/insights/events/)
-* [Company](#)
-    * [Overview](https://illumin.com/company-overview/)
-    * [Contact](https://illumin.com/contact/)
-    * [Careers](https://illumin.com/careers/)
-* [Investors](#)
-    * [Investor Information](https://illumin.com/investor-information/)
-    * [Stock Performance](https://illumin.com/stock-performance/)
+![](https://illumin.com/wp-content/uploads/2024/10/1-1.png)
 
-© Copyright 2024 illumin. All Rights Reserved.
+![](https://illumin.com/wp-content/uploads/2024/10/2-2.png)
 
+![](https://illumin.com/wp-content/uploads/2024/10/3-2.png)
+
+![](https://illumin.com/wp-content/uploads/2024/10/G2-Footer-5.png)
+
+* © 2024 illumin. All Rights Reserved.
 * [Terms and Conditions](https://illumin.com/legal/terms-and-conditions/)
 * [Technology Policy](https://illumin.com/legal/technology/)
 * [Data Subject Access Request](https://illumin.com/legal/subject-access-request/)
