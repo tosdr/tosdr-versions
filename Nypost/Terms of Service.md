@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Quincy Jones, music titan, dead at 91](https://nypost.com/2024/11/04/entertainment/quincy-jones-music-titan-who-worked-with-everyone-from-frank-sinatra-to-michael-jackson-dies-at-91/)
+
 Terms Of Use
 ============
 
