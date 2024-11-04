@@ -105,23 +105,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 554 1
+0 570 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/64700/)
+[](https://yiff-party.com/yiff-ai-premium/olivia-directed-by-corsetlover69/)
 
-[#64700](https://yiff-party.com/yiff-ai-premium/64700/)
+[olivia directed by corsetlover69](https://yiff-party.com/yiff-ai-premium/olivia-directed-by-corsetlover69/)
 
-0 35 0
+0 38 0
 
 October 5, 2024
 
-[](https://yiff-party.com/yiff/warhammer-franchise-created-by-sepiruth/)
+[](https://yiff-party.com/yiff/hemyl-ignis-mythology-created-by-raydafr/)
 
-[warhammer (franchise) created by sepiruth](https://yiff-party.com/yiff/warhammer-franchise-created-by-sepiruth/)
+[hemyl-ignis (mythology) created by raydafr](https://yiff-party.com/yiff/hemyl-ignis-mythology-created-by-raydafr/)
 
-0 0 0
+0 1 0
 
 November 4, 2024
 
