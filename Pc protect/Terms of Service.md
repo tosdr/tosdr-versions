@@ -249,7 +249,7 @@ Legal
 
 [](https://www.facebook.com/pcprotecthelp "Navigate to https://www.facebook.com/pcprotecthelp")[](https://www.instagram.com/pcprotect_help/ "Navigate to https://www.instagram.com/pcprotect_help/")[](https://twitter.com/PCProtectHelp "Navigate to https://twitter.com/PCProtectHelp")
 
-Copyright © 2024
+Copyright © 2025
 
 ##### 30 Day Money-Back Guarantee
 
