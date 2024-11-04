@@ -359,6 +359,7 @@ Feature Reference
     * [Splunk Observability](https://docs.rollbar.com/docs/splunk-observability)
     * [Zipy.ai](https://docs.zipy.ai/integration/rollbar)
     * [LaunchDarkly](https://docs.rollbar.com/docs/launchdarkly)
+    * [All Quiet - Incident Management](https://docs.allquiet.app/integrations/inbound/rollbar)
 
 Policy and Legal
 ----------------
