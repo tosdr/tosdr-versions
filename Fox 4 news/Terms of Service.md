@@ -91,6 +91,16 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
+[Tornado Watch
+
+until MON 6:00 PM CST, Collin County, Somervell County, Johnson County, Hood County, Fannin County, Kaufman County, Denton County, Hunt County, Parker County, Dallas County, Wise County, Rockwall County, Delta County, Erath County, Van Zandt County, Rains County, Cooke County, Hopkins County, Lamar County, Tarrant County, Ellis County](https://www.fox4news.com/weather-alerts)
+
+2
+
+[Tornado Watch
+
+from MON 10:56 AM CST until MON 6:00 PM CST, Red River County](https://www.fox4news.com/weather-alerts)
+
 Terms of Use
 ============
 
