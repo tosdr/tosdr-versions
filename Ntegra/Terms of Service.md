@@ -1,6 +1,8 @@
 [![](https://cdn.prod.website-files.com/607e95dd55a23da7c01cb8f5/6543cf1eaff95912b51280b8_Ntegra%20Logo.svg)](https://www.ntegra.com/)
 
-[Our Work](https://www.ntegra.com/work)[Our Events](https://www.ntegra.com/events)[Our Resources](https://www.ntegra.com/resources)[Our Blog](https://www.ntegra.com/insights)[Collaborate!](https://www.ntegra.com/contact)
+[Our Work](https://www.ntegra.com/work)[Our Events](https://www.ntegra.com/events)[Our Resources](https://www.ntegra.com/resources)[Our Blog](https://www.ntegra.com/insights)
+
+[Collaborate!](https://www.ntegra.com/contact)
 
 ![](https://cdn.prod.website-files.com/607e95dd55a23da7c01cb8f5/6558828f4c8387a637023ccf_Privacy%20Policy%20Hero.webp)
 
