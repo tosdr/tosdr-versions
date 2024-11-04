@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/lee-county-iowa-crash-fatal/526-5f3917b3-1ce9-42ae-be15-58642a57b94e)
-        
-        #### [Florida man killed in Lee County, Iowa crash](https://www.wqad.com/article/news/local/lee-county-iowa-crash-fatal/526-5f3917b3-1ce9-42ae-be15-58642a57b94e)
-        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/a17a2202-921a-4f5a-b012-1b145c73f7e7/20241103T181642/a17a2202-921a-4f5a-b012-1b145c73f7e7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a17a2202-921a-4f5a-b012-1b145c73f7e7/20241103T181642/a17a2202-921a-4f5a-b012-1b145c73f7e7_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/rock-falls-illinois-shooting-suspect-arrested-johnathon-parker-whiteside-county-sheriffs-office/526-98ff16fc-1abf-4502-918b-bbe2816ecf30)
         
         #### [Suspect in Rock Falls shooting arrested, sheriff's office says](https://www.wqad.com/article/news/local/public-safety/rock-falls-illinois-shooting-suspect-arrested-johnathon-parker-whiteside-county-sheriffs-office/526-98ff16fc-1abf-4502-918b-bbe2816ecf30)
+        
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/lee-county-iowa-crash-fatal/526-5f3917b3-1ce9-42ae-be15-58642a57b94e)
+        
+        #### [Florida man killed in Lee County, Iowa crash](https://www.wqad.com/article/news/local/lee-county-iowa-crash-fatal/526-5f3917b3-1ce9-42ae-be15-58642a57b94e)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-60°
+62°
 
-![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Light Rain](/assets/shared-images/weather-icons/drizzle-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
