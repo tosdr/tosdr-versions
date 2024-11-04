@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-0a6664ad4b411601f2635f399fd4c228
+c713d2566f9ba87102e5dde9187f1971
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![8 mm Ercole Moretti millefiori beads](https://sojourner.biz/images/cache/glass/MF005.200.webp)](https://sojourner.biz/8-mm-ercole-moretti-millefiori-beads.html "8 mm Ercole Moretti millefiori beads")
+[![Colorful glass flower rondels](https://sojourner.biz/images/cache/glass/GL0391.200.jpg)](https://sojourner.biz/beads/glass/colorful-glass-flower-rondels.html "Colorful glass flower rondels")
 
-#### [8 mm Ercole Moretti millefiori beads](https://sojourner.biz/8-mm-ercole-moretti-millefiori-beads.html "8 mm Ercole Moretti millefiori beads")
+#### [Colorful glass flower rondels](https://sojourner.biz/beads/glass/colorful-glass-flower-rondels.html "Colorful glass flower rondels")
 
-$2.00
+$23.00
 
 ### Best Sellers
 
@@ -160,16 +160,16 @@ $2.00
     $15.00
 5. [White pearl toggle clasp](https://sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
     $28.00
-6. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
-    $17.00
+6. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
+    $23.00
 7. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
-8. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
-    $23.00
+8. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+    $17.00
 9. [Sterling silver tiny lily clasp](https://sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [Large oval pearl clasp](https://sojourner.biz/clasps/pearl/large-oval-pearl-clasp.html "Large oval pearl clasp")  
-    $35.00
+10. [Black and white playful cat sauce dish](https://sojourner.biz/tabletop/black-and-white-playful-cat-sauce-dish.html "Black and white playful cat sauce dish")  
+    $7.00
 
 [Top](#)
 
