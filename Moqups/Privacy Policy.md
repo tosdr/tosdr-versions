@@ -296,6 +296,7 @@ Product
 * [Graph Maker](https://moqups.com/graph-maker/)
 * [Online Whiteboard](https://moqups.com/online-whiteboard/)
 * [UML Diagram Tool](https://moqups.com/uml-diagram-tool/)
+* [Moqups vs Balsamiq](https://moqups.com/moqups-vs-balsamiq/)
 
 Templates
 
