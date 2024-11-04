@@ -16,12 +16,11 @@ All
 
 * All
 * Access Control
-* Animal Repellent
 * Audio Jammers & Noise Generators
 * B Rated Safes
 * Bathroom Safety
 * Baton Flashlights
-* Batons
+* Self-Defense Baton
 * Body Cams
 * Byrna® Guns
 * Cell Phone Taser & Stun Guns
@@ -144,9 +143,9 @@ Menu
         * [![Stun Batons - Electric Baton](//www.thehomesecuritysuperstore.com/cdn/shop/collections/StunBatons_500x500_0fdb027e-8661-4c80-9c31-42ff128bacbb.jpg?v=1626708970&width=300)
             
             Stun Batons - Electric Baton](https://www.thehomesecuritysuperstore.com/collections/stun-batons)
-        * [![EZ Close Push Button Batons](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PushButtonBatons_500x500_b374dfd2-c626-452d-b9f1-d787ad9810a2.jpg?v=1563416070&width=300)
+        * [![Push Button Batons](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PushButtonBatons_500x500_b374dfd2-c626-452d-b9f1-d787ad9810a2.jpg?v=1563416070&width=300)
             
-            EZ Close Push Button Batons](https://www.thehomesecuritysuperstore.com/collections/ez-close-push-button-batons)
+            Push Button Batons](https://www.thehomesecuritysuperstore.com/collections/ez-close-push-button-batons)
         * [![Baton Accessories & Attachments](//www.thehomesecuritysuperstore.com/cdn/shop/collections/BatonAccessories_500x500_f04b67c3-16bd-46de-91e3-d884dfd7e104.jpg?v=1563419411&width=300)
             
             Baton Accessories & Attachments](https://www.thehomesecuritysuperstore.com/collections/baton-accessories)
@@ -177,12 +176,12 @@ Menu
         * [![Pepper Spray Keychain](//www.thehomesecuritysuperstore.com/cdn/shop/collections/KeychainPepperSpray_500x500_94fe7cec-1418-487f-aed3-c34f6b972915.jpg?v=1692807936&width=300)
             
             Pepper Spray Keychain](https://www.thehomesecuritysuperstore.com/collections/keychain-pepper-spray)
-        * [![Best Pepper Spray for Women](//www.thehomesecuritysuperstore.com/cdn/shop/collections/WomenPepperSpray_500x500_f9a2ec4a-33f9-41f3-a938-fa77e539ca71.jpg?v=1626712798&width=300)
+        * [![Pepper Spray for Women](//www.thehomesecuritysuperstore.com/cdn/shop/collections/WomenPepperSpray_500x500_f9a2ec4a-33f9-41f3-a938-fa77e539ca71.jpg?v=1626712798&width=300)
             
-            Best Pepper Spray for Women](https://www.thehomesecuritysuperstore.com/collections/women-pepper-spray)
-        * [![Animal Repellent](//www.thehomesecuritysuperstore.com/cdn/shop/collections/AnimalRepellent_500x500_504d40a4-4f3c-4d39-8e65-6633bff5b076.jpg?v=1563420012&width=300)
+            Pepper Spray for Women](https://www.thehomesecuritysuperstore.com/collections/women-pepper-spray)
+        * [![Animal Repellers](//www.thehomesecuritysuperstore.com/cdn/shop/collections/AnimalRepellers_500x500_70a45714-b7d4-43dc-9a4a-541efaec90a2.jpg?v=1730753893&width=300)
             
-            Animal Repellent](https://www.thehomesecuritysuperstore.com/collections/animal-repellent)
+            Animal Repellers](https://www.thehomesecuritysuperstore.com/collections/animal-repellers)
         * [![Bear Pepper Spray](//www.thehomesecuritysuperstore.com/cdn/shop/collections/photo2.jpg?v=1563419293&width=300)
             
             Bear Pepper Spray](https://www.thehomesecuritysuperstore.com/collections/bear-pepper-spray)
@@ -244,10 +243,6 @@ Menu
             
             Holsters](https://www.thehomesecuritysuperstore.com/collections/holsters)
         
-    * [Self-Defense For Women](https://www.thehomesecuritysuperstore.com/collections/self-defense-for-women)
-        
-    * [Tactical Flashlights](https://www.thehomesecuritysuperstore.com/collections/tactical-flashlights)
-        
     * [Metal Detectors](https://www.thehomesecuritysuperstore.com/collections/metal-detectors)
         
     * [SHOP ALL SELF-DEFENSE](https://www.thehomesecuritysuperstore.com/collections/self-defense/%3Fview=all)
@@ -284,14 +279,6 @@ Menu
     * ![Gun Accessories](//www.thehomesecuritysuperstore.com/cdn/shop/collections/GunAccessories_500x500_eab6df39-8bee-43af-a74b-edf89c2e9abc.jpg?v=1563414870&width=60)
         
         [Gun Accessories](https://www.thehomesecuritysuperstore.com/collections/gun-accessories)
-        
-    * ![Self-Defense For Women](//www.thehomesecuritysuperstore.com/cdn/shop/collections/SelfDefenseWomen_500x500_3907525f-d9bf-4f5a-a119-0ff5953a9c5a.jpg?v=1563408270&width=60)
-        
-        [Self-Defense For Women](https://www.thehomesecuritysuperstore.com/collections/self-defense-for-women)
-        
-    * ![Tactical Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/TacticalFlashlights_500x500_485783d6-d1b6-4871-9a9c-1ca1a8d5f2e6.jpg?v=1646083825&width=60)
-        
-        [Tactical Flashlights](https://www.thehomesecuritysuperstore.com/collections/tactical-flashlights)
         
     * ![Metal Detectors](//www.thehomesecuritysuperstore.com/cdn/shop/collections/MetalDetectors_500x500_373b71ac-8f8b-4fb7-9677-e3dd28564391.jpg?v=1615413314&width=60)
         
@@ -392,9 +379,9 @@ Menu
     * [![Stun Batons - Electric Baton](//www.thehomesecuritysuperstore.com/cdn/shop/collections/StunBatons_500x500_0fdb027e-8661-4c80-9c31-42ff128bacbb.jpg?crop=center&height=300&v=1626708970&width=300)
         
         Stun Batons - Electric Baton](https://www.thehomesecuritysuperstore.com/collections/stun-batons)
-    * [![EZ Close Push Button Batons](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PushButtonBatons_500x500_b374dfd2-c626-452d-b9f1-d787ad9810a2.jpg?crop=center&height=300&v=1563416070&width=300)
+    * [![Push Button Batons](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PushButtonBatons_500x500_b374dfd2-c626-452d-b9f1-d787ad9810a2.jpg?crop=center&height=300&v=1563416070&width=300)
         
-        EZ Close Push Button Batons](https://www.thehomesecuritysuperstore.com/collections/ez-close-push-button-batons)
+        Push Button Batons](https://www.thehomesecuritysuperstore.com/collections/ez-close-push-button-batons)
     * [![Baton Accessories & Attachments](//www.thehomesecuritysuperstore.com/cdn/shop/collections/BatonAccessories_500x500_f04b67c3-16bd-46de-91e3-d884dfd7e104.jpg?crop=center&height=300&v=1563419411&width=300)
         
         Baton Accessories & Attachments](https://www.thehomesecuritysuperstore.com/collections/baton-accessories)
@@ -423,12 +410,12 @@ Menu
     * [![Pepper Spray Keychain](//www.thehomesecuritysuperstore.com/cdn/shop/collections/KeychainPepperSpray_500x500_94fe7cec-1418-487f-aed3-c34f6b972915.jpg?crop=center&height=300&v=1692807936&width=300)
         
         Pepper Spray Keychain](https://www.thehomesecuritysuperstore.com/collections/keychain-pepper-spray)
-    * [![Best Pepper Spray for Women](//www.thehomesecuritysuperstore.com/cdn/shop/collections/WomenPepperSpray_500x500_f9a2ec4a-33f9-41f3-a938-fa77e539ca71.jpg?crop=center&height=300&v=1626712798&width=300)
+    * [![Pepper Spray for Women](//www.thehomesecuritysuperstore.com/cdn/shop/collections/WomenPepperSpray_500x500_f9a2ec4a-33f9-41f3-a938-fa77e539ca71.jpg?crop=center&height=300&v=1626712798&width=300)
         
-        Best Pepper Spray for Women](https://www.thehomesecuritysuperstore.com/collections/women-pepper-spray)
-    * [![Animal Repellent](//www.thehomesecuritysuperstore.com/cdn/shop/collections/AnimalRepellent_500x500_504d40a4-4f3c-4d39-8e65-6633bff5b076.jpg?crop=center&height=300&v=1563420012&width=300)
+        Pepper Spray for Women](https://www.thehomesecuritysuperstore.com/collections/women-pepper-spray)
+    * [![Animal Repellers](//www.thehomesecuritysuperstore.com/cdn/shop/collections/AnimalRepellers_500x500_70a45714-b7d4-43dc-9a4a-541efaec90a2.jpg?crop=center&height=300&v=1730753893&width=300)
         
-        Animal Repellent](https://www.thehomesecuritysuperstore.com/collections/animal-repellent)
+        Animal Repellers](https://www.thehomesecuritysuperstore.com/collections/animal-repellers)
     * [![Bear Pepper Spray](//www.thehomesecuritysuperstore.com/cdn/shop/collections/photo2.jpg?crop=center&height=300&v=1563419293&width=300)
         
         Bear Pepper Spray](https://www.thehomesecuritysuperstore.com/collections/bear-pepper-spray)
@@ -581,9 +568,9 @@ Menu
         * [![Survival Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/SurvivalFlashlights_500x500_2851f982-9b99-4559-9455-0a0fe92ba605.jpg?v=1626708375&width=300)
             
             Survival Flashlights](https://www.thehomesecuritysuperstore.com/collections/survival-flashlights)
-        * [![Military and Tactical Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/MilitaryFlashlights_500x500_a2880fb4-dee8-40c5-a18a-c9b0ee756ebf.jpg?v=1563412354&width=300)
+        * [![Tactical Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/TacticalFlashlights_500x500_485783d6-d1b6-4871-9a9c-1ca1a8d5f2e6.jpg?v=1646083825&width=300)
             
-            Military and Tactical Flashlights](https://www.thehomesecuritysuperstore.com/collections/military-and-tactical-flashlights)
+            Tactical Flashlights](https://www.thehomesecuritysuperstore.com/collections/tactical-flashlights)
         * [![Rechargeable Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/RechargeableFlashlights_500x500_ebbb1269-752f-48d5-9e30-a98f78ae6c44.jpg?v=1630009036&width=300)
             
             Rechargeable Flashlights](https://www.thehomesecuritysuperstore.com/collections/rechargeable-flashlights)
@@ -802,9 +789,9 @@ Menu
     * [![Survival Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/SurvivalFlashlights_500x500_2851f982-9b99-4559-9455-0a0fe92ba605.jpg?crop=center&height=300&v=1626708375&width=300)
         
         Survival Flashlights](https://www.thehomesecuritysuperstore.com/collections/survival-flashlights)
-    * [![Military and Tactical Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/MilitaryFlashlights_500x500_a2880fb4-dee8-40c5-a18a-c9b0ee756ebf.jpg?crop=center&height=300&v=1563412354&width=300)
+    * [![Tactical Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/TacticalFlashlights_500x500_485783d6-d1b6-4871-9a9c-1ca1a8d5f2e6.jpg?crop=center&height=300&v=1646083825&width=300)
         
-        Military and Tactical Flashlights](https://www.thehomesecuritysuperstore.com/collections/military-and-tactical-flashlights)
+        Tactical Flashlights](https://www.thehomesecuritysuperstore.com/collections/tactical-flashlights)
     * [![Rechargeable Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/RechargeableFlashlights_500x500_ebbb1269-752f-48d5-9e30-a98f78ae6c44.jpg?crop=center&height=300&v=1630009036&width=300)
         
         Rechargeable Flashlights](https://www.thehomesecuritysuperstore.com/collections/rechargeable-flashlights)
