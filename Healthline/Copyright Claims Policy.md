@@ -190,14 +190,19 @@
 
 Subscribe
 
-[#### Weight Management](https://www.healthline.com/weight-management)
+[#### Skin Care](https://www.healthline.com/skincare)
 
-* [Nutrition](https://www.healthline.com/weight-management/nutrition)
-* [Fitness](https://www.healthline.com/weight-management/fitness)
-* [Mental Well-Being](https://www.healthline.com/weight-management/well-being)
-* [Healthy Habits](https://www.healthline.com/weight-management/healthy-habits)
-* [Treatment](https://www.healthline.com/weight-management/treatment-medication)
-* [Apps](https://www.healthline.com/weight-management/apps-products)
+* [Your Skin](https://www.healthline.com/skincare/skin-youre-in)
+* [Science](https://www.healthline.com/skincare/skin-science)
+* [Ingredients](https://www.healthline.com/skincare/ingredients)
+* [Routine](https://www.healthline.com/skincare/build-your-routine)
+* [Acne](https://www.healthline.com/skincare/acne)
+* [Conditions](https://www.healthline.com/skincare/conditions-and-concerns)
+* [Procedures](https://www.healthline.com/skincare/procedures)
+* [Products](https://www.healthline.com/skincare/products)
+* [Sun Protection](https://www.healthline.com/skincare/sun-protection)
+* [Natural](https://www.healthline.com/skincare/natural-and-diy)
+* [Hair & Nails](https://www.healthline.com/skincare/hair-and-nails)
 
 Ad & Sponsorship Policy
 =======================
