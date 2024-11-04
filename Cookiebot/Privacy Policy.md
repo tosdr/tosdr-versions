@@ -545,4 +545,6 @@ Follow us
 
 [![G2 Badges - Users love us | Cookiebot](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2089%20105'%3E%3C/svg%3E)
 
-![G2 Badges - Users love us | Cookiebot](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/01/Cookiebot-G2-badges.svg)](https://www.g2.com/products/cookiebot-by-usercentrics/reviews)
+![G2 Badges - Users love us | Cookiebot](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/01/Cookiebot-G2-badges.svg)](https://www.g2.com/products/cookiebot-by-usercentrics/reviews)![Compliance-Software-Q3](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
+
+![Compliance-Software-Q3](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/11/Compliance-Software-Q3.svg)
