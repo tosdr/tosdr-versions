@@ -34,7 +34,7 @@ Rated 4.7 out of 5
 
 [5
 
-3,858](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/reviews/?score=5 "Read all 3,858 five-star reviews")[4
+3,860](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/reviews/?score=5 "Read all 3,860 five-star reviews")[4
 
 147](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/reviews/?score=4 "Read all 147 four-star reviews")[3
 
