@@ -332,15 +332,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-A legend says that the founders of Hogwarts found the Pensieve partially buried in the ground where they decided to build the school.
+Sycamore wands are known to combust if they grow bored from a lack of excitement.
 
 ### Potter History
 
-December 3, 2008 – The Associated Press reveals that 8 million copies of “The Tales of Beedle the Bard” will be released worldwide.
+August 10, 2004 – Harry Potter and the Order of the Phoenix is released in paperback; debuts at #1 on all charts.
 
 ### Potter Quote
 
-“Don’t worry. You’re just as sane as I am.”
+“Welcome to a new year at Hogwarts! Before we begin our banquet, I would like to say a few words. And here they are: Nitwit! Blubber! Oddment! Tweak!”
 
 [](#)
 
