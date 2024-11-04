@@ -197,7 +197,6 @@ Browse
         * [IEC C5 Cables](https://www.maplin.co.uk/collections/iec-cables)
         * [IEC C7 Cables](https://www.maplin.co.uk/collections/iec-c7-cables)
         * [IEC C13 Cables](https://www.maplin.co.uk/collections/iec-c13-cables)
-        * [Laptop Power Supply Adapters](https://www.maplin.co.uk/collections/laptop-power-supply-adapters)
         * [CCTV Cables & Adapters](https://www.maplin.co.uk/collections/cctv-cables)
         * [PC Building Power Cables](https://www.maplin.co.uk/collections/pc-building-power-cables)
         
@@ -1007,7 +1006,6 @@ Browse
     * [IEC C5 Cables](https://www.maplin.co.uk/collections/iec-cables)
     * [IEC C7 Cables](https://www.maplin.co.uk/collections/iec-c7-cables)
     * [IEC C13 Cables](https://www.maplin.co.uk/collections/iec-c13-cables)
-    * [Laptop Power Supply Adapters](https://www.maplin.co.uk/collections/laptop-power-supply-adapters)
     * [CCTV Cables & Adapters](https://www.maplin.co.uk/collections/cctv-cables)
     * [PC Building Power Cables](https://www.maplin.co.uk/collections/pc-building-power-cables)
     
