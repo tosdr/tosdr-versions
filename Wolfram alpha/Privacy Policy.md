@@ -1,148 +1,50 @@
-* [WolframAlpha.com](http://www.wolframalpha.com/?source=nav)
-* [WolframCloud.com](https://www.wolframcloud.com/?source=nav)
-* [All Sites & Public Resources...](https://www.wolfram.com/resources/?source=nav)
+[WOLFRAM](https://www.wolfram.com/?source=nav)
+==============================================
 
-  [![](/common/images/gl-logo-spikey.en.png) ![Wolfram](/common/images/gl-logo-wolfram.en.png) ![Computation Meets Knowledge](/common/images/gl-logo-computation-meets-knowledge.en.png)](https://www.wolfram.com/?source=nav)
+[Products](https://www.wolfram.com/products/?source=nav)
 
-* [Products & Services](https://www.wolfram.com/products/?source=nav)
-    * * [Wolfram|One](https://www.wolfram.com/wolfram-one/?source=nav)
-        * [Mathematica](https://www.wolfram.com/mathematica/?source=nav)
-        * [Wolfram|Alpha Notebook Edition](https://www.wolfram.com/wolfram-alpha-notebook-edition/?source=nav)
-        * [Finance Platform](https://www.wolfram.com/finance-platform/?source=nav)
-        * [System Modeler](https://www.wolfram.com/system-modeler/?source=nav)
-        * [Wolfram Player](https://www.wolfram.com/player/?source=nav)
-        * [Wolfram Engine](https://www.wolfram.com/engine/?source=nav)
-        * [WolframScript](https://www.wolfram.com/wolframscript/?source=nav)
-        
-        * * [Enterprise Private Cloud](https://www.wolfram.com/enterprise-private-cloud/?source=nav)
-            * [Application Server](https://www.wolfram.com/application-server/?source=nav)
-            * [Enterprise Mathematica](https://www.wolfram.com/mathematica-enterprise-edition/?source=nav)
-            * [Wolfram|Alpha Appliance](http://products.wolframalpha.com/appliance/?source=nav)
-        * Enterprise Solutions
-            * [Corporate Consulting](http://www.wolframsolutions.com/?source=nav)
-            * [Technical Consulting](https://www.wolfram.com/technical-consulting/?source=nav)
-            * [Wolfram|Alpha Business Solutions](https://products.wolframalpha.com/enterprise?source=nav)
-        
-        * [Resource System](https://resources.wolframcloud.com/?source=nav)
-            * [Data Repository](https://datarepository.wolframcloud.com/?source=nav)
-            * [Neural Net Repository](https://resources.wolframcloud.com/NeuralNetRepository/?source=nav)
-            * [Function Repository](https://resources.wolframcloud.com/FunctionRepository/?source=nav)
-        * [Wolfram|Alpha](http://www.wolframalpha.com/?source=nav)
-            * [Wolfram|Alpha Pro](http://www.wolframalpha.com/pro/?source=nav)
-            * [Problem Generator](http://www.wolframalpha.com/pro/problem-generator/?source=nav)
-            * [API](http://products.wolframalpha.com/api/?source=nav)
-        * [Data Drop](https://datadrop.wolframcloud.com/?source=nav)
-        
-        * [Products for Education](https://www.wolfram.com/education/?source=nav)
-        * Mobile Apps
-            * [Wolfram Player](https://www.wolfram.com/player-app/?source=nav)
-            * [Wolfram Cloud App](https://www.wolfram.com/cloud-app/?source=nav)
-            * [Wolfram|Alpha for Mobile](http://products.wolframalpha.com/mobile/?source=nav)
-            * [Wolfram|Alpha-Powered Apps](http://products.wolframalpha.com/mobile/?source=nav#wapowered)
-        * Services
-            * [Paid Project Support](https://www.wolfram.com/technical-consulting/?source=nav)
-            * [Wolfram U](https://www.wolfram.com/wolfram-u/?source=nav)
-            * [Summer Programs](https://education.wolfram.com/programs/?source=nav)
-    * [All Products & Services »](https://www.wolfram.com/products/?source=nav)
-* [Technologies](https://www.wolfram.com/technologies/?source=nav)
-    * [Wolfram Language Revolutionary knowledge-based programming language.](https://www.wolfram.com/language/?source=nav) [Wolfram Cloud Central infrastructure for Wolfram's cloud products & services.](https://www.wolfram.com/cloud/?source=nav) [Wolfram Science Technology-enabling science of the computational universe.](https://www.wolfram.com/wolfram-science/?source=nav)
-        
-        [Wolfram Notebooks The preeminent environment for any technical workflows.](https://www.wolfram.com/notebooks/?source=nav) [Wolfram Engine Software engine implementing the Wolfram Language.](https://www.wolfram.com/engine/?source=nav) [Wolfram Natural Language Understanding System Knowledge-based broadly deployed natural language.](https://www.wolfram.com/natural-language-understanding/?source=nav)
-        
-        [Wolfram Data Framework Semantic framework for real-world data.](https://www.wolfram.com/data-framework/?source=nav) [Wolfram Universal Deployment System Instant deployment across cloud, desktop, mobile, and more.](https://www.wolfram.com/universal-deployment-system/?source=nav) [Wolfram Knowledgebase Curated computable knowledge powering Wolfram|Alpha.](https://www.wolfram.com/knowledgebase/?source=nav)
-        
-    * [All Technologies »](https://www.wolfram.com/technologies/?source=nav)
-* [Solutions](https://www.wolfram.com/solutions/?source=nav)
-    * * Engineering, R&D
-            * [Aerospace & Defense](https://www.wolfram.com/solutions/industry/aerospace-engineering/?source=nav)
-            * [Chemical Engineering](https://www.wolfram.com/solutions/industry/chemical-engineering/?source=nav)
-            * [Control Systems](https://www.wolfram.com/solutions/industry/control-systems/?source=nav)
-            * [Electrical Engineering](https://www.wolfram.com/solutions/industry/electrical-engineering/?source=nav)
-            * [Image Processing](https://www.wolfram.com/solutions/industry/image-processing/?source=nav)
-            * [Industrial Engineering](https://www.wolfram.com/solutions/industry/industrial-engineering/?source=nav)
-            * [Mechanical Engineering](https://www.wolfram.com/solutions/industry/mechanical-engineering/?source=nav)
-            * [Operations Research](https://www.wolfram.com/solutions/industry/operations-research/?source=nav)
-            * [_More..._](https://www.wolfram.com/solutions/?source=nav)
-        
-        * Finance, Statistics & Business Analysis
-            * [Actuarial Sciences](https://www.wolfram.com/solutions/industry/actuarial-sciences/?source=nav)
-            * [Bioinformatics](https://www.wolfram.com/solutions/industry/bioinformatics/?source=nav)
-            * [Data Science](https://www.wolfram.com/featureset/data-science/?source=nav)
-            * [Econometrics](https://www.wolfram.com/solutions/industry/econometrics/?source=nav)
-            * [Financial Risk Management](https://www.wolfram.com/solutions/industry/financial-risk-management/?source=nav)
-            * [Statistics](https://www.wolfram.com/solutions/industry/statistics/?source=nav)
-            * [_More..._](https://www.wolfram.com/solutions/?source=nav)
-        
-        * Education
-            * [All Solutions for Education](https://www.wolfram.com/education/?source=nav)
-        * Tech & Trends
-            * [Machine Learning](https://www.wolfram.com/featureset/machine-learning/?source=nav)
-            * [Multiparadigm Data Science](http://www.mpdatascience.com/?source=nav)
-            * [High-Performance Computing](https://www.wolfram.com/solutions/hpc/?source=nav)
-            * [Quantum Computation Framework](https://www.wolfram.com/quantum-computation-framework/?source=nav)
-        
-        * Software & Web
-            * [Software Development](https://www.wolfram.com/developer/?source=nav)
-            * [Authoring & Publishing](https://www.wolfram.com/solutions/industry/electronic-publishing/?source=nav)
-            * [Interface Development](https://www.wolfram.com/solutions/industry/interface-development/?source=nav)
-            * [Web Development](https://www.wolfram.com/solutions/industry/web-development/?source=nav)
-        * Sciences
-            * [Astronomy](https://www.wolfram.com/solutions/industry/astronomy/?source=nav)
-            * [Biology](https://www.wolfram.com/solutions/industry/biological-sciences/?source=nav)
-            * [Chemistry](https://www.wolfram.com/solutions/industry/chemistry/?source=nav)
-            * [_More..._](https://www.wolfram.com/solutions/?source=nav)
-    * [All Solutions »](https://www.wolfram.com/solutions/?source=nav)
-* [Learning & Support](https://www.wolfram.com/support/?source=nav)
-    * * Learning
-            * [Wolfram Language Documentation](http://reference.wolfram.com/language/?source=nav)
-            * [Fast Introduction for Programmers](https://www.wolfram.com/language/fast-introduction-for-programmers/?source=nav)
-            * [Wolfram U](https://www.wolfram.com/wolfram-u/?source=nav)
-            * [Videos & Screencasts](https://www.wolfram.com/broadcast/?source=nav)
-        *  
-            * [Wolfram Language Introductory Book](https://www.wolfram.com/language/elementary-introduction/?source=nav)
-            * [Webinars & Training](https://events.wolfram.com/?source=nav)
-            * [Summer Programs](https://education.wolfram.com/programs/?source=nav)
-            * [Books](https://www.wolfram.com/books/?source=nav)
-        
-        * Need Help?
-            * [Support FAQ](https://support.wolfram.com/?source=nav)
-            * [Wolfram Community](http://community.wolfram.com/?source=nav)
-            * [Contact Support](https://www.wolfram.com/support/contact/?source=nav)
-        
-        * Premium Support
-            * [Paid Project Support](https://www.wolfram.com/technical-consulting/?source=nav)
-            * [Technical Consulting](https://www.wolfram.com/technical-consulting/?source=nav)
-    * [All Learning & Support »](https://www.wolfram.com/support/?source=nav)
-* [Company](https://www.wolfram.com/company/?source=nav)
-    * * About
-            * [Company Background](https://www.wolfram.com/company/?source=nav)
-            * [Wolfram Blog](http://blog.wolfram.com/?source=nav)
-            * [Events](http://company.wolfram.com/events/?source=nav)
-            * [Contact Us](https://www.wolfram.com/company/contact/?source=nav)
-        
-        * Work with Us
-            * [Careers at Wolfram](https://www.wolfram.com/company/careers/?source=nav)
-            * [Internships](https://www.wolfram.com/company/careers/?source=nav)
-            * [Other Wolfram Language Jobs](http://community.wolfram.com/content?curTag=jobs&source=nav)
-        
-        * Initiatives
-            * [Wolfram Foundation](http://www.wolframfoundation.org/?source=nav)
-            * [MathWorld](http://mathworld.wolfram.com/?source=nav)
-            * [Computer-Based Math](http://www.computerbasedmath.org/?source=nav)
-            * [_A New Kind of Science_](http://www.wolframscience.com/?source=nav)
-            * [Wolfram Technology for Hackathons](https://www.wolfram.com/hackathons/?source=nav)
-            * [Student Ambassador Program](https://www.wolfram.com/company/careers/ambassador/?source=nav)
-        *  
-            * [Wolfram for Startups](https://www.wolfram.com/startups/?source=nav)
-            * [Demonstrations Project](http://demonstrations.wolfram.com/?source=nav)
-            * [Wolfram Innovator Awards](https://www.wolfram.com/events/technology-conference/innovator-award/?source=nav)
-            * [Wolfram + Raspberry Pi](https://www.wolfram.com/raspberry-pi/?source=nav)
-            * [Summer Programs](https://education.wolfram.com/programs/?source=nav)
-            * [_More..._](https://www.wolfram.com/resources/?source=nav)
-    * [All Company »](https://www.wolfram.com/company/?source=nav)
+* [Wolfram|One](https://www.wolfram.com/wolfram-one/?source=nav)
+* [Mathematica](https://www.wolfram.com/mathematica/?source=nav)
+* [Wolfram|Alpha Notebook Edition](https://www.wolfram.com/wolfram-alpha-notebook-edition/?source=nav)
+* [System Modeler](https://www.wolfram.com/system-modeler/?source=nav)
+* [All Products](https://www.wolfram.com/products/?source=nav)
 
-* [Search](http://search.wolfram.com/?source=nav)
-    * 
+[Consulting & Solutions](https://www.wolfram.com/solutions/?source=nav)
+
+* [Wolfram Consulting](https://www.wolframconsulting.com/?source=nav)
+* [Industry Solutions](https://www.wolfram.com/solutions/?source=nav)
+* [Solutions for Education](https://www.wolfram.com/education/?source=nav)
+
+[Learning & Support](https://www.wolfram.com/resources/?source=nav)
+
+* [Wolfram U Courses](https://www.wolfram.com/wolfram-u/?source=nav)
+* [Wolfram Language Resources](https://www.wolfram.com/language/?source=nav#learning-resources)
+* [Wolfram Community](https://community.wolfram.com/?source=nav)
+* [Support FAQs](https://support.wolfram.com/?source=nav)
+* [Contact Support](https://www.wolfram.com/support/contact/?source=nav)
+
+[Company](https://www.wolfram.com/company/?source=nav)
+
+* [About Wolfram](https://www.wolfram.com/company/?source=nav)
+* [Careers](https://www.wolfram.com/company/careers/?source=nav)
+* [Events](https://events.wolfram.com/?source=nav)
+* [Educational Programs](https://education.wolfram.com/programs/?source=nav)
+* [All Sites and Resources](https://www.wolfram.com/resources/?source=nav#mobile-apps)
+
+[Wolfram|Alpha](https://www.wolframalpha.com/?source=nav)
+
+[Wolfram Cloud](https://www.wolframcloud.com/?source=nav)
+
+[Your Account](https://account.wolfram.com/login/oauth2/sign-in/?source=nav)
+
+* [Your Account](https://account.wolfram.com/?source=nav)
+* [User Portal](https://user.wolfram.com/?source=nav)
+
+[Search](https://search.wolfram.com/?source=nav)
+
+Close  
+
+Enable JavaScript to interact with content and submit forms on Wolfram websites. [Learn how](http://www.enable-javascript.com/)
 
 LEGAL INFORMATION
 =================
@@ -444,7 +346,5 @@ _Effective January 1, 2023_
 * [Site Map](https://www.wolfram.com/site-map/?source=footer)
 * [WolframAlpha.com](http://www.wolframalpha.com/?source=footer)
 * [WolframCloud.com](https://www.wolframcloud.com/?source=footer)
-
-Enable JavaScript to interact with content and submit forms on Wolfram websites. [Learn how »](http://www.enable-javascript.com/)
 
   [![es](/common/images/gl-lang-es.png)](http://www.wolframalpha.com/legal/privacy/wolfram/index.es.html?footer=lang) [![ja](/common/images/gl-lang-ja.png)](http://www.wolframalpha.com/legal/privacy/wolfram/index.ja.html?footer=lang) [![pt-br](/common/images/gl-lang-pt-br.png)](http://www.wolframalpha.com/legal/privacy/wolfram/index.pt-br.html?footer=lang)
