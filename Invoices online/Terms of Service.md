@@ -196,61 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Johan Botha - Brand Xplosion
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=731fd4a3947f0df958ffd7166a04fc5f60cfae694a3a393c4143057773fd98e5&c=43906357)  
-Creative Characters
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=121572420)  
+APTV Telecoms CC
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=731fd4a3947f0df958ffd7166a04fc5f60cfae694a3a393c4143057773fd98e5&c=58623968)  
-Website Café (PTY) LTD
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=201720510)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=731fd4a3947f0df958ffd7166a04fc5f60cfae694a3a393c4143057773fd98e5&c=14845563)  
-SLOANE STAR MEAT MARKET
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=173123681)  
+Wiselink Broadband Vryheid
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=731fd4a3947f0df958ffd7166a04fc5f60cfae694a3a393c4143057773fd98e5&c=93602308)  
-SR Travel Services
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=82404969)  
+Konsortium Operations ( Roamfree Meats )
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=731fd4a3947f0df958ffd7166a04fc5f60cfae694a3a393c4143057773fd98e5&c=178820429)  
-Oukraal Merino's
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=21332439)  
+NWET Pty LTD
 
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=731fd4a3947f0df958ffd7166a04fc5f60cfae694a3a393c4143057773fd98e5&c=116740866)  
-Firstweb Hosting & Design
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=92398574)  
+Karino Merinos ( PTY ) LTD
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=731fd4a3947f0df958ffd7166a04fc5f60cfae694a3a393c4143057773fd98e5&c=194795352)  
-Three Moons Emporium
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=193784605)  
+CBR Verwe/Paints
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=731fd4a3947f0df958ffd7166a04fc5f60cfae694a3a393c4143057773fd98e5&c=119746268)  
-Cape Adventure Zone
-
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=731fd4a3947f0df958ffd7166a04fc5f60cfae694a3a393c4143057773fd98e5&c=183352505)  
-MR Compressors& Industrial Supplies
-
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=731fd4a3947f0df958ffd7166a04fc5f60cfae694a3a393c4143057773fd98e5&c=134090361)  
-Brand's Fountains Deco and Events Coordinatoin
-
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=731fd4a3947f0df958ffd7166a04fc5f60cfae694a3a393c4143057773fd98e5&c=19324792)  
-Durbanville Classifieds (Pty) Ltd
-
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=731fd4a3947f0df958ffd7166a04fc5f60cfae694a3a393c4143057773fd98e5&c=204176470)  
-MOSELA GROUP Pty(ltd)
-
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=731fd4a3947f0df958ffd7166a04fc5f60cfae694a3a393c4143057773fd98e5&c=135038774)  
-Xpress Designs
-
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=731fd4a3947f0df958ffd7166a04fc5f60cfae694a3a393c4143057773fd98e5&c=86127813)  
-RADIO TYGERBERG 104FM NPC
-
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=731fd4a3947f0df958ffd7166a04fc5f60cfae694a3a393c4143057773fd98e5&c=160377348)  
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=132460684)  
 West Coast Horse Trails
+
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=128837718)  
+Prosper Park
+
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=133599194)  
+Westside Car Audio CC
+
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=159733167)  
+Dr V Naik Consult
+
+![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=112180580)  
+Cooper Power
+
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=140408652)  
+Norton Medical & Consult - Namibia
+
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=46213057)  
+MSPCloud (Pty) Ltd
+
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=188276159)  
+Digifax (Pty) Ltd trading as Digirent
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
