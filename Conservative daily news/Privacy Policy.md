@@ -182,6 +182,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Foxtrot Mike and KAK Suppressed .45 ACP Build](https://www.thegunpage.com/foxtrot-mike-and-kak-suppressed-45-acp-build/10611638)
 * [Texas AG, Fairgoers Sue Over State Fair Carry Ban](https://www.thegunpage.com/texas-ag-fairgoers-sue-over-state-fair-carry-ban/10611636)
 * [CMP Class Teaches Advanced M1 Garand Rifle Maintenance](https://www.thegunpage.com/cmp-class-teaches-advanced-m1-garand-rifle-maintenance/10611631)
 * [New Podcast, Built to Survive, Launches](https://www.thegunpage.com/new-podcast-built-to-survive-launches/10611625)
@@ -191,7 +192,6 @@ Recent Posts
 * [TFB Review: Trijicon Tenmile HX 5-25x50mm FFP](https://www.thegunpage.com/tfb-review-trijicon-tenmile-hx-5-25x50mm-ffp/10611615)
 * [POTD: Spooky Zastava USA M90](https://www.thegunpage.com/potd-spooky-zastava-usa-m90/10611616)
 * [TFB Podcast Roundup 153: The November 1st Roundup](https://www.thegunpage.com/tfb-podcast-roundup-153-the-november-1st-roundup/10611617)
-* [More Hunters Than Ever Are Using AR-Style Rifles](https://www.thegunpage.com/more-hunters-than-ever-are-using-ar-style-rifles/10611611)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
