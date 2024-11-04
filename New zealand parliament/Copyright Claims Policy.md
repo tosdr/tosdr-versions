@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/combined/HansDeb_20240924_20240925_12/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/advice/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/combined/HansDeb_20240924_20240925_12/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/advice/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
@@ -97,7 +97,7 @@ Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/r
 
 [![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000)
 
-The House next meets on Tuesday, 5 November 2024](https://www.parliament.nz/en/pb/meetings-of-parliament/)
+The House is meeting today](https://www.parliament.nz/en/pb/meetings-of-parliament/)
 
 * [Calendar](https://www.parliament.nz/en/calendar)
 * [Watch](https://videos.parliament.nz/)
@@ -120,7 +120,7 @@ There is no current live audio feed.
 
 [![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000)
 
-The House next meets on Tuesday, 5 November 2024](https://www.parliament.nz/en/pb/meetings-of-parliament/)
+The House is meeting today](https://www.parliament.nz/en/pb/meetings-of-parliament/)
 
 * [Calendar](https://www.parliament.nz/en/calendar)
 * [Watch](https://videos.parliament.nz/)
