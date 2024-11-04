@@ -2,45 +2,49 @@
 
 Menü
 
-[![Talk-Point Logo Transparent](//talk-point.de/cdn/shop/files/tplogo1_1016x150.png?v=1637826898)](https://talk-point.de/)
+[![talk-point.de logo](//talk-point.de/cdn/shop/files/talk-point-logo_200x30.png?v=1729963456)](https://talk-point.de/)
 
-Alle Kategorien \------ Abdeckplanen Abdichtungen Absorberkühlschränke Abspannseile Abzweiger & Verteiler Access Points Action-Cams Akkuschrauber Alarmanlagen All in One PCs Allesschneider Antennenkabel Arbeitsbekleidung Arbeitsschutz Audio Zubehör Audiokabel Auto & Motorrad Auto Zubehör AV-Umschalter & Verteiler Babyphone Backbleche Backcover Backöfen Badlüfter Balkonset Barbie Bartschneider & Haarschneider Beamer Beamer-Halterungen Bekleidung Bestecke Bewegungsmelder Blu-ray-Brenner Blu-ray-Player Bluetooth-Tracker Blutdruckmessgeräte Bohrer & Bits Bohrmaschinen Bollerwagen Brillen Brotbackautomaten Bräter Bügelbretter Bügeleisen Bürobedarf Campinggeschirr CD-Player portabel Computer Controller Crêpes-Maker Dampfgarer Dampfglätter Dampfreiniger Dart Digital Receiver Displayschutz Displayschutzfolien Drogerie & Gesundheit Drohne Druckerpatronen Dunstabzugshauben Dunstabzugshauben-Zubehör Durchlauferhitzer DVB-T-Antennen DVD-Brenner DVD-Player Dörrautomaten E-Scooter eBook-Reader Eierkocher Eingabestifte Einkocher Eismaschinen ELA Lautsprecher Elektrische Zahnbürsten Elektroartikel Elektroheizungen Elektroinstallation Elektrorasierer Entsafter Epilierer & Ladyshaver Ersatzkannen Espressokocher Espressomaschinen Fahrradhelme Fahrradtaschen Fahrradteile & Fahrradzubehör Fahrradträger Fahrräder Farbbänder Farben und Lacke Fensterreiniger Fernbedienungen Fernseher Festplatten Festplatten-Arrays Festplattengehäuse Fieberthermometer Fitnesszubehör Fleischwolf Folienschweißgeräte Fondues Freisprecheinrichtungen Fritteusen Funkgeräte Funkmikrofone Gaming & Spielen Gaming Headsets Gamingzubehör Gartenpumpen Gateways Gefrierschränke Gefriertruhen Gemüseschneider Geschirrspüler Gesichtspflege Getränke Gewürzmühlen Gimbals Glätteisen GPS-Empfänger Grills Grillzubehör Haarentferner Haartrockner Hairstyler Handschuhe Handwerkzeuge Handy Kabel & Adapter Handy-Akkufachdeckel Handy-Akkus Handy-Ersatzteile Handy-Headsets Handy-Ladegeräte Handy-Zubehör Handyhalterungen Handys & Smartphones Handytaschen Haus & Garten Haushalt & Wohnen Haushaltsgeräteersatzteile HDMI-Kabel Headsets Heckenscheren Heimwerken Heizkissen & Heizdecken Heizkörper Heizstrahler Heizungen Heizungszubehör Herde Häkelnadel Insektenschutz Kabel & Stecker Kabellose Ladegeräte Kabeltrommeln Kaffee & Espresso Kaffeemaschinen Kaffeemaschinen-Reinigung Kaffeemühlen Kaffeepadmaschinen Kaffeezubehör & Espressozubehör Kamera Kamera-Stative Kamera-Zubehör Kamerazubehör Kapselmaschinen Kartenleser Kassetten & Filme Kleber Klimaanlagen Klimaanlagen-Zubehör Kochfelder Kochplatten Kompaktkameras Kopfhörer Kopfhörer-Zubehör Körperpflege Körperpflege-Zubehör Küche & Haushalt Küchenarmaturen Küchengeräte Küchenhelfer Küchenmaschinen Küchenreiben Küchenwaagen Kühlboxen Kühlschrankzubehör Kühlschränke Labelprinter Ladegeräte Ladegeräte für Kamera-Akkus Ladekabel Lampen & Leuchten Laptop Laptoptaschen Laserdrucker Lautsprecher Lautsprecherzubehör LED Lampen Leinwände Leuchtmittel Lichterketten Lichttherapie Luftbefeuchter Lufterfrischer Luftfilter Luftkühler Luftmatratzen Luftreiniger Lunchboxen Lötkolben & Lötstationen Maniküre Massagegeräte Mauspads Medizintechnik Messer Messerschärfer Messgeräte Micro-Schalter Mikrofone Mikrowellen Milchaufschäumer Minibacköfen Miniküchen Mixer Mobilfunkantennen Mode & Accessoires Monitore Monitorhalterungen Motorsensenzubehör MP3-Player Multifunktionsdrucker Multifunktionstücher Multischalter Mundduschen & Dentalcenter Mäuse Mülleimer NAS-Server Navigationsgeräte Netzteile Netzwerk & Kommunikation Netzwerkkabel Netzwerkplayer Netzwerkzubehör NFC-Tags Notebook-Dockingstations Notebooks Notlicht Ohne Kategorie Outdoor & Sport Outdoor-Navigation Pastamaschinen Pavillon PC-Kabel & Adapter PC-Komponenten PC-Systeme Personenwaagen Pfannen Photovoltaik Plattenspieler Pool-Zubehör Powerbanks PowerLine Prozessoren Pumpen & Kompressoren Putze & Mörtel Putze und Mörtel Raclettes Radios Rasierklingen & Scherköpfe Rauchmelder Reinigungsgeräte Reinigungsmittel Reisestecker Reiskocher Repeater Rohlinge Router Rührwerke Saftpressen Sanitärinstallation Sat-Antennen Sat-LNB Sat-Montagezubehör Scanner SCART-Kabel Schalen & Schüsseln Schalter-Zubehör & Steckdosen-Abdeckungen Schaltrelais Schleifmaschinen Schleifmittel Schlüsselanhänger Schneidebretter Schneidwerkzeuge schnurgebundene Telefone schnurlose Telefone Schraubendreher Schraubenschlüssel Schuhpflege Selfie-Sticks Sensoren Signalverstärker Sitzbezüge Smart Home Smarthome-Zentralen Smartwatch-Zubehör Smartwatches Sonnenbrillen sonstige Elektrowerkzeuge sonstige Handwerkzeuge sonstige Küchenmaschinen sonstige Sicherheitstechnik Sonstiges Handyzubehör sonstiges Werkzeugzubehör Soundbars Spanngurt Speicherkarten Spielekonsolen Spielesoftware Spielwaren Sport & Outdoor Sportmatten Sporttaschen Sprudelbäder Staubsauger Staubsauger-Zubehör Staubsaugerbeutel Steckdosen Stichsägen Strandtaschen Stretch-Doppel-Nadel Surfsticks Swimmingpools Switches Sägeblätter Tablet-Taschen Tablet-Tastaturen Tablets Taschen Taschenlampen Tassen & Becher Tastaturen Teekocher Telefon-Headsets Telefon-Zubehör Telefone Thermometer Thermoskannen Thermostate Toaster Transmitter Transportboxen Transportgeräte Trennscheiben Trinkflaschen Trinkgläser TV Stick TV-Halterungen Töpfe Töpfe & Pfannen Türsprechanlagen Uhren USB Sticks USB-Hubs Ventilatoren Verstärker Vorratsdosen VR-Brillen Waffeleisen Wagenheber Wanduhren Warmwasserspeicher Waschmaschinen Waschtrockner Wasserfilter Wasserkocher Wassersprudler WC-Sitze Webcams Wecker Weihnachtsbeleuchtungen Weihnachtsdeko Weinkühlschränke Werkzeugkoffer Wetterstationen WLAN-Sticks Wohnmobil-Zubehör Wärmeflaschen & Wämekissen Wärmeunterbetten Wäscheständer Wäschetrockner Wäschezubehör Zahnbürstenköpfe Zahnpflege Zangen Zelte Zubehör für Gartengeräte Zubehör für Küchengeräte Zubehör Telekommunikation Überwachungskameras Alle Kategorien  Abbrechen
+ Abbrechen
 
 [](#)[](#)[](#)
 
-Dein neuer Job
-
-Karriere bei Talk-Point.de
-
-Karriere bei Talk-Point.de
-
-[](https://talk-point.de/pages/jobs)
+* [Anmelden](https://talk-point.de/customer_authentication/redirect?locale=de&region_country=DE)
 
 [Warenkorb anzeigen](https://talk-point.de/cart)
 
-* [Neuheiten](https://talk-point.de/collections/all?sort=created-descending)
-* [Beste B-Ware](https://talk-point.de/collections/unsere-beste-b-ware)
-    * [B-Ware Smartphones](https://talk-point.de/collections/handy-gebraucht-kaufen)
+* [Neuheiten](https://talk-point.de/collections/neuheiten)
+* Beste B-Ware
+    
+    * B-Ware Smartphones
+        
         * [Wie neu](https://talk-point.de/collections/b-ware-smartphones-wie-neu)
         * [Sehr gut](https://talk-point.de/collections/b-ware-smartphones-sehr-gut)
         * [Gut](https://talk-point.de/collections/b-ware-smartphones-gut)
-    * [B-Ware Tablets](https://talk-point.de/collections/gebrauchte-tablets)
+        
+    * B-Ware Tablets
+        
         * [Wie neu](https://talk-point.de/collections/b-ware-tablets-wie-neu)
         * [Sehr gut](https://talk-point.de/collections/b-ware-tablets-sehr-gut)
         * [Gut](https://talk-point.de/collections/b-ware-tablets-gut)
-    * [B-Ware Smartwatches](https://talk-point.de/collections/gebrauchte-smartwatches)
+        
+    * B-Ware Smartwatches
+        
         * [Wie neu](https://talk-point.de/collections/b-ware-smartwatches-wie-neu)
         * [Sehr gut](https://talk-point.de/collections/b-ware-smartwatches-sehr-gut)
         * [Gut](https://talk-point.de/collections/b-ware-smartwatches-gut)
         * [B-Ware Zubehör](https://talk-point.de/collections/b-ware-smartwatch-zubehor)
-    * [B-Ware Festplatten](https://talk-point.de/collections/refurbished-b-ware-festplatten)
+        
+    * B-Ware Festplatten
+        
         * [Wie neu](https://talk-point.de/collections/b-ware-festplatten-wie-neu)
         * [Sehr gut](https://talk-point.de/collections/b-ware-festplatten-sehr-gut)
         * [Gut](https://talk-point.de/collections/b-ware-festplatten-gut)
+        
     * [B-Ware Kopfhörer](https://talk-point.de/collections/b-ware-kopfhorer)
     * [B-Ware Bluetooth Speaker](https://talk-point.de/collections/bluetooth-lautsprecher-gebraucht-kaufen)
     * [B-Ware für 1,99€](https://talk-point.de/collections/b-ware-bis-1-99)
-* [Smartphones](https://talk-point.de/collections/smartphones)
+    
+* Smartphones
     
     * [Hersteller](https://talk-point.de/collections/smartphones)
         
@@ -73,7 +77,7 @@ Karriere bei Talk-Point.de
         * [bis 1000€](https://talk-point.de/collections/smartphones-bis-1000-euro)
         * [ab 1000€](https://talk-point.de/collections/smartphones-ab-1000-euro)
     
-* [Tablets](https://talk-point.de/collections/tablets)
+* Tablets
     
     * [Hersteller](https://talk-point.de/collections/tablets)
         
@@ -102,7 +106,7 @@ Karriere bei Talk-Point.de
         * [bis 1000€](https://talk-point.de/collections/tablets-bis-1000-euro)
         * [ab 1000€](https://talk-point.de/collections/tablets-ab-1000-euro)
     
-* [Smartwatches](https://talk-point.de/collections/smartwatches)
+* Smartwatches
     
     * [Hersteller](https://talk-point.de/collections/smartwatches)
         
@@ -131,7 +135,7 @@ Karriere bei Talk-Point.de
         * [bis 800€](https://talk-point.de/collections/smartwatches-bis-800-euro)
         * [bis 1000€](https://talk-point.de/collections/smartwatches-bis-1000-euro)
     
-* [Elektronik](https://talk-point.de/collections/elektronik)
+* Elektronik
     
     * [Unterhaltungselektronik](https://talk-point.de/collections/hi-fi)
         
@@ -183,7 +187,7 @@ Karriere bei Talk-Point.de
         * [Drohnen](https://talk-point.de/collections/drohnen)
         * [Spielwaren](https://talk-point.de/collections/spielwaren)
     
-* [Haus & Garten](https://talk-point.de/collections/haushalt)
+* Haus & Garten
     
     * [Große Haushaltsartikel](https://talk-point.de/collections/grosse-haushaltsartikel-1)
         
@@ -271,7 +275,8 @@ Karriere bei Talk-Point.de
         * [TP Zelte](https://talk-point.de/collections/tp-zelte)
         * [TP Kofferset](https://talk-point.de/collections/tp-hartschalen-reisekoffer)
     
-* [Trinkbares](https://talk-point.de/collections/spirituosen)
+* Trinkbares
+    
     * [Alle Spirituosen](https://talk-point.de/collections/spirituosen)
     * [Rotwein](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Rotwein)
     * [Weißwein](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Wei%C3%9Fwein)
@@ -286,24 +291,13 @@ Karriere bei Talk-Point.de
     * [Likör](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Lik%C3%B6r)
     * [Brandy](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Brandy)
     * [Gläser](https://talk-point.de/collections/glaser)
-* [Info](https://talk-point.de/pages/unternehmen)
-    * [AGB](https://talk-point.de/policies/terms-of-service)
-    * [Impressum](https://talk-point.de/policies/legal-notice)
-    * [Widerrufsrecht](https://talk-point.de/policies/refund-policy)
-    * [Datenschutz](https://talk-point.de/pages/gdpr-compliance)
-    * [Entsorgungshinweise](https://talk-point.de/pages/entsorgungshinweise)
-    * [Mängelhaftungsrecht](https://talk-point.de/pages/mangelhaftungsrecht)
-    * [Versandinformationen](https://talk-point.de/pages/versandinformationen)
-    * [Zahlungsinformationen](https://talk-point.de/pages/zahlungsinformationen)
-    * [FAQ](https://talk-point.de/pages/faq-haufig-gestellte-fragen)
-
-* [Anmelden](https://talk-point.de/customer_authentication/redirect?locale=de&region_country=DE)
+    
 
 * [Anmelden](https://talk-point.de/customer_authentication/redirect?locale=de&region_country=DE)
 
 [Schließen](#site-header-nav)
 
-* [Neuheiten](https://talk-point.de/collections/all?sort=created-descending)
+* [Neuheiten](https://talk-point.de/collections/neuheiten)
 * [Beste B-Ware](https://talk-point.de/collections/unsere-beste-b-ware)
     
     Beste B-Ware
@@ -599,19 +593,6 @@ Karriere bei Talk-Point.de
     * [Likör](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Lik%C3%B6r)
     * [Brandy](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Brandy)
     * [Gläser](https://talk-point.de/collections/glaser)
-* [Info](https://talk-point.de/pages/unternehmen)
-    
-    Info
-    
-    * [AGB](https://talk-point.de/policies/terms-of-service)
-    * [Impressum](https://talk-point.de/policies/legal-notice)
-    * [Widerrufsrecht](https://talk-point.de/policies/refund-policy)
-    * [Datenschutz](https://talk-point.de/pages/gdpr-compliance)
-    * [Entsorgungshinweise](https://talk-point.de/pages/entsorgungshinweise)
-    * [Mängelhaftungsrecht](https://talk-point.de/pages/mangelhaftungsrecht)
-    * [Versandinformationen](https://talk-point.de/pages/versandinformationen)
-    * [Zahlungsinformationen](https://talk-point.de/pages/zahlungsinformationen)
-    * [FAQ](https://talk-point.de/pages/faq-haufig-gestellte-fragen)
 
 Datenschutzerklärung
 ====================
@@ -1028,7 +1009,10 @@ Als betroffene Person haben Sie unbeschadet eines anderweitigen verwaltungsrecht
 
 Soweit Sie einen Vertrag mit uns schließen möchten oder sich mit einer Anfrage an uns wenden, ist die Bereitstellung Ihrer personenbezogenen Daten für einen Vertragsabschluss bzw. die Bearbeitung Ihrer Anfrage erforderlich. Sie sind nicht dazu verpflichtet, Ihre personenbezogenen Daten bereitzustellen. Die Nichtbereitstellung Ihrer personenbezogenen Daten hätte jedoch zur Folge, dass wir keinen Vertrag mit Ihnen abschließen bzw. Ihre Anfrage nicht bearbeiten.
 
+Nach oben Nach oben
+
 Info
+----
 
 * [AGB](https://talk-point.de/policies/terms-of-service)
 * [Impressum](https://talk-point.de/policies/legal-notice)
@@ -1043,6 +1027,7 @@ Info
 * [Checkliste Speditionslieferung](https://talk-point.de/pages/checkliste-speditionslieferung)
 
 Service & Informationen
+-----------------------
 
 * [Retoure & Service](https://service.talk-point.de/core/home/de/)
 * [Versandinformationen](https://talk-point.de/pages/versandinformationen)
@@ -1057,42 +1042,38 @@ Service & Informationen
 * [Kontakt](https://talk-point.de/pages/kontakt)
 
 Folgen Sie uns
+--------------
 
-[Finden Sie uns auf Facebook](https://www.facebook.com/TalkPointGmbH/ "Facebook") [Finden Sie uns auf Twitter](https://twitter.com/talkpointgmbh "Twitter") [Finden Sie uns auf Instagram](https://www.instagram.com/talk_point_gmbh/ "Instagram") [Finden Sie uns auf Youtube](https://www.youtube.com/channel/UC7VqsRofwAMRLXgsEzldKzQ "Youtube") [Finden Sie uns auf E-Mail](mailto:info@talk-point.de "E-Mail")
+[Email Talk-Point](mailto:info@talk-point.de "Email") [Finden Sie uns auf Facebook](https://www.facebook.com/TalkPointGmbH/ "Facebook") [Finden Sie uns auf Instagram](https://www.instagram.com/talk_point_gmbh/ "Instagram") [Finden Sie uns auf LinkedIn](https://www.linkedin.com/company/talkpointgmbh "LinkedIn") [Finden Sie uns auf Twitch](https://www.twitch.tv/talkpointgmbh "Twitch") [Finden Sie uns auf X](https://twitter.com/talkpointgmbh "X") [Finden Sie uns auf YouTube](https://www.youtube.com/channel/UC7VqsRofwAMRLXgsEzldKzQ "YouTube")
 
 [![idealo.de](data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiB3aWR0aD0iNzAiIGhlaWdodD0iNzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGc+PHBhdGggZmlsbD0iIzBhMzc2MSIgZD0iTTM1IDY5LjVjMTkuMDU0IDAgMzQuNS0xNS40NDkgMzQuNS0zNC41QzY5LjUgMTUuOTQ5IDU0LjA1NC41IDM1IC41IDE1Ljk0Ni41LjUgMTUuOTQ5LjUgMzUgLjUgNTQuMDUxIDE1Ljk0NiA2OS41IDM1IDY5LjVaIiBzdHJva2U9IiNmZmZmZmYiLz48cGF0aCBmaWxsPSIjZmVjMDAyIiBkPSJtMTYgMTcuMy0yIDEuMi0uMy0uMXYtLjFsLjUtMi4zLTEuOC0xLjZWMTRsMi40LS4yaC4xbDEtMi4yaC4zbC45IDIuMS4xLjEgMi4zLjIuMS4zTDE4IDE2di4xbC40IDIuMy0uMS4ySDE4eiIvPjxwYXRoIGZpbGw9IiNmZWMwMDIiIGQ9Im0yNiAxMi4zLTIgMS4yLS4zLS4xdi0uMWwuNS0yLjMtMS44LTEuNlY5bDIuNC0uMmguMWwxLTIuMmguM2wuOSAyLjEuMS4xIDIuMy4yLjEuM0wyOCAxMXYuMWwuNCAyLjMtLjEuMkgyOHoiLz48cGF0aCBmaWxsPSIjZmVjMDAyIiBkPSJtMzUgMTAuMy0yIDEuMi0uMy0uMXYtLjFsLjUtMi4zLTEuOC0xLjZWN2wyLjQtLjJoLjFsMS0yLjJoLjNsLjkgMi4xLjEuMSAyLjMuMi4xLjNMMzcgOWwuNCAyLjMtLjEuMkgzN3oiLz48cGF0aCBmaWxsPSIjZmVjMDAyIiBkPSJtNDUgMTIuMy0yIDEuMi0uMy0uMXYtLjFsLjUtMi4zLTEuOC0xLjZWOWwyLjQtLjJoLjFsMS0yLjJoLjNsLjkgMi4xLjEuMSAyLjMuMi4xLjNMNDcgMTF2LjFsLjQgMi4zLS4xLjJINDd6Ii8+PHBhdGggZmlsbD0iI2I0YjRiNCIgZD0ibTU0IDE3LjMtMiAxLjItLjMtLjF2LS4xbC41LTIuMy0xLjgtMS42VjE0bDIuNC0uMmguMWwxLTIuMmguM2wuOSAyLjEuMS4xIDIuMy4yLjEuM0w1NiAxNnYuMWwuNCAyLjMtLjEuMkg1NnoiLz48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMTUuMzcgMjUuNDY4aC0yLjI2NnYxLjgwMWgyLjI2NXYtMS44MDFabTAgMi43MzhoLTIuMjY2djYuMjE3aDIuMjY1di02LjIxN1oiLz48cGF0aCBmaWxsPSIjZmZmZmZmIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNi43MDcgMzAuNDkxYzAtLjQyMiAwLS44MDMuMDcyLTEuMTQyLjA3Mi0uMzQuMjM3LS42Ny40NzQtLjkxNy4yMzctLjIzNi41OTctLjQzMiAxLjA1LS41NjYuNDUzLS4xMzQgMS4wOC0uMjA2IDEuODYzLS4yMDZoLjU1NmMuMjU3IDAgLjUwNC4wMi43NTIuMDYyLjI0Ny4wNDEuNDYzLjEwMy42NjkuMjE2LjIwNi4xMDMuMzcuMjM3LjUxNC40MTIuMTM0LjE2NS4yMTYuMzguMjU4LjYzOHYtMy41M2gyLjI2NHY4Ljg5NGgtMi4xM3YtMS4xOTVjLS4wNzMuMjA2LS4xODYuMzQtLjMuNDk1YTEuNTMzIDEuNTMzIDAgMCAxLS40NDIuNDExIDIuMDk2IDIuMDk2IDAgMCAxLS42OS4yNTggMy42OTcgMy42OTcgMCAwIDEtLjg4NS4wODJoLS41NDVjLS43ODMgMC0xLjQtLjA3Mi0xLjg2NC0uMjA2LS40NjMtLjEzNC0uODEzLS4zMTktMS4wNi0uNTY2LS4yMzctLjIzNy0uNDAxLS40OTQtLjQ3My0uODM0LS4wNzItLjM0LS4wNzItLjcyLS4wNzItMS4xNDN2LTEuMTczbC0uMDEuMDFabTIuMTgzLjk1N2MwIC4xODYuMDEuMzYuMDQuNTA1LjAzMi4xNTQuMDgzLjI3OC4xNzYuMzcuMDgyLjEwMy4yMTYuMTc1LjM5MS4yMjcuMTc1LjA1Mi40MTIuMDgyLjczLjA4MmgxLjIzNmMuMjI3IDAgLjQ0My0uMDIuNjU5LS4wNTEuMTk2LS4wMzEuMzUtLjEwMy40ODQtLjE5NmEuODM2LjgzNiAwIDAgMCAuMjg4LS4zOGMuMDcyLS4xNjUuMTAzLS4zNzEuMTAzLS42Mjl2LS42NjljMC0uMjU3LS4wMy0uNDczLS4xMDMtLjYyOGEuODIuODIgMCAwIDAtLjI4OC0uMzggMS4xNzIgMS4xNzIgMCAwIDAtLjQ4NC0uMTk2IDMuNTUyIDMuNTUyIDAgMCAwLS42NTktLjA1MmgtMS4yMzVjLS4zMDkgMC0uNTQ2LjAzMS0uNzMxLjA4My0uMTc1LjA1MS0uMzA5LjEyMy0uMzkxLjIyNmEuNzMuNzMgMCAwIDAtLjE3NS4zN2MtLjAzMS4xNjYtLjA0MS4zNC0uMDQxLjUwNVYzMS40NDhabTEzLjQyMyAxLjE3NGMtLjAzLjM0LS4zNi40MTItLjg4NS40MTJoLTEuNTY1Yy0uNTM1IDAtMS4xMjItLjI2OC0xLjEyMi0uODQ0di0uNDUzaDUuNzk2di0xLjEwMmMwLTIuMTgyLS45OTktMi45NjQtMy41MS0yLjk2NGgtMS42NjhjLTEuNzEgMC0yLjg2Mi43NjEtMi44NjIgMy4xNXYuNjE3YzAgMi42OTcgMS41NjUgMi45ODUgMy4xMyAyLjk4NWgyLjI1NGMxLjk1NiAwIDIuNjU2LS4zOSAyLjY3Ni0xLjhoLTIuMjQ0Wm0tMy41NTEtMi41MDFjMC0uNjkuMjc4LTEuMDYgMS4xNDItMS4wNmgxLjMzOWMuODY0IDAgMS4xNDIuMzYgMS4xNDIgMS4wNnYuMjk4aC0zLjYxM3YtLjI5OGgtLjAxWm02LjY3IDEuOTU2YzAtMS43NCAyLjQ3LTEuNjU4IDIuNjc3LTEuNjU4aDEuNzljLjQ2NCAwIDEuMDgyLjE1NCAxLjI5OC4zODFsLjA0MS4wNDF2LS43MWMwLS42OS0uMjU3LTEuMDctMS4xMjItMS4wN2gtMS4zMzhjLS43MiAwLTEuMTEyLjEwMi0xLjExMi40MTFoLTIuMDM4YzAtMS4zNDkgMS4wOC0xLjgwMSAyLjgzLTEuODAxaDIuNjM2YzEuNTc1IDAgMi4zODguODMzIDIuMzg4IDIuMzU3djQuMzM0aC0yLjI1NHYtLjg0NGwtLjEzNC4yMzZjLS4zOC41NDYtLjY3LjY4LTEuODIyLjY4aC0xLjU4NWMtMS40IDAtMi4yNjUtLjI5OS0yLjI2NS0xLjgwMnYtLjU0NWwuMDEtLjAxWm00Ljk2MiAxLjAyOWMuNjE4IDAgLjg1NS0uMjQ3Ljg1NS0uNzEgMC0uODAzLS4xOTYtLjkxNy0xLjQxLS45MjdoLTEuMDgyYy0uODk1IDAtMS4xMjIuMjE2LTEuMTIyLjctLjAxLjc0MS4yMjcuOTM3IDEuMTIyLjkzN2gxLjYzN1ptNC40MzcgMS4zMTdoMi4yNjR2LTguOTY2aC0yLjI2NHY4Ljk2NlptMy41My00LjE2OWMwLTIuMTUxIDEuNDExLTIuNTgzIDIuNjQ2LTIuNTgzaDMuMjMzYzEuMjM1IDAgMi42NDUuNDMyIDIuNjQ1IDIuNTgzdjEuNTk2YzAgMi4xNTEtMS40MSAyLjU4NC0yLjY0NSAyLjU4NGgtMy4yMzNjLTEuMjM1IDAtMi42NDUtLjQzMi0yLjY0NS0yLjU4NHYtMS41OTZabTIuMTkzIDEuMTg0YzAgLjE4Ni4wMS4zNi4wNDEuNTA1LjAzMS4xNTQuMDgzLjI3OC4xNzUuMzcuMDgzLjEwMy4yMjcuMTc1LjQwMi4yMjcuMTc1LjA1MS40MjIuMDgyLjc0MS4wODJoMS4yMzZjLjI1NyAwIC40NzMtLjAyLjY2OS0uMDUxLjE5NS0uMDMxLjM2LS4xMDMuNDk0LS4xOTZhLjc3Mi43NzIgMCAwIDAgLjI4OC0uMzhjLjA3Mi0uMTY2LjEwMy0uMzcyLjEwMy0uNjR2LS42MzdjMC0uMjU4LS4wMzEtLjQ3NC0uMTAzLS42MzlhLjg5NS44OTUgMCAwIDAtLjI4OC0uMzggMS4yMTUgMS4yMTUgMCAwIDAtLjQ5NC0uMTk2IDMuNzMzIDMuNzMzIDAgMCAwLS42Ny0uMDUyaC0xLjIzNWMtLjMwOSAwLS41NTYuMDMxLS43NDEuMDgzYS44NDMuODQzIDAgMCAwLS40MDEuMjI2LjczLjczIDAgMCAwLS4xNzUuMzdjLS4wMzEuMTY2LS4wNDIuMzQtLjA0Mi41MDV2LjgwM1oiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPjxwYXRoIGZpbGw9IiNGNjAiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTEzLjEwNCAzOC44NGg0My43OTF2LTEuODAyaC00My43OXYxLjgwMloiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPjxwYXRoIGZpbGw9IiNlNmU2ZTYiIGQ9Im0yMS4wNjMgNTguNjg3LTEuMjM1LS43NDguMzAyLS40OTggMS4yMzUuNzQ3Yy4yMzkuMTQ1LjQ1Ni4yMjQuNjUuMjM4YS44MzUuODM1IDAgMCAwIC41MTYtLjEyMmMuMTUyLS4wOTMuMjgtLjIyNy4zODUtLjQuMDk2LS4xNTkuMTUxLS4zMy4xNjYtLjUxMWEuOTA0LjkwNCAwIDAgMC0uMTItLjUzM2MtLjA5Ni0uMTc2LS4yNjMtLjMzNy0uNTAyLS40ODFsLTEuMDkzLS42NjEtMi40OTMgNC4xMi0uNjEzLS4zNyAyLjc5Ny00LjYyMyAxLjcwNSAxLjAzMmMuMzUuMjExLjYwOC40NS43NzcuNzE3LjE2OC4yNjcuMjUuNTQ1LjI0NS44MzRhMS42NCAxLjY0IDAgMCAxLS4yNTIuODRjLS4xOC4yOTctLjM5NS41MTItLjY0Ny42NDZhMS40IDEuNCAwIDAgMS0uODQuMTQ3Yy0uMzA2LS4wMzgtLjYzNC0uMTYzLS45ODMtLjM3NFpNMjYuNDI1IDU4LjE1MWwtMy40MjMgMy45NjctLjY4My0uMjYgMy44NDctNC4zMTguNDQuMTY4LS4xOC40NDNabS0uMzUgNS4xMzYuMDc2LTUuMjQuMTYtLjQ1MS40NC4xNjcuMDExIDUuNzg2LS42ODYtLjI2MlptLjYyNS0xLjkwMi0uMjA4LjU0OC0yLjgzOC0xLjA4LjIwOS0uNTQ4IDIuODM3IDEuMDhaTTI5LjI5NyA1OC41OTRsMS43NjQuMjk3Yy40LjA2Ny43MjguMTg1Ljk4My4zNTMuMjU4LjE3LjQzOC4zODUuNTQyLjY0OC4xMDcuMjYyLjEzLjU2Ni4wNzIuOTEyYTEuNTEyIDEuNTEyIDAgMCAxLS4yNjIuNjQ1Yy0uMTMxLjE4My0uMzAyLjMzLS41MS40NGExLjkgMS45IDAgMCAxLS43MTIuMmwtLjIxLjA0NC0xLjY1OS0uMjc5LjA5LS41NzUgMS4yNTIuMjFjLjI1My4wNDMuNDcyLjAzNS42NTUtLjAyNWEuOTM5LjkzOSAwIDAgMCAuNDQxLS4yOThjLjExMS0uMTM3LjE4Mi0uMjk3LjIxMy0uNDhhMS4xNiAxLjE2IDAgMCAwLS4wMy0uNTU4LjgxOC44MTggMCAwIDAtLjMyMS0uNDJjLS4xNTctLjExNC0uMzctLjE5My0uNjQxLS4yMzlsLTEuMDU4LS4xNzgtLjc5OSA0Ljc1LS43MDYtLjExOC44OTYtNS4zMjlabTIuMjE4IDUuODUzLS44OS0yLjYzNC43MzcuMTIuOTE0IDIuNTk2LS4wMDcuMDQ0LS43NTQtLjEyNlpNMzUuNTcyIDU5LjIwMmwuMDg3IDUuNDAzLS43MDUuMDEtLjA4Ny01LjQwMi43MDUtLjAxMVptMS43MzctLjAyOC4wMS41ODYtNC4xNzUuMDY3LS4wMS0uNTg2IDQuMTc1LS4wNjdaTTQyLjExNSA1OC4yNGwxLjEyMSA1LjI4NS0uNzA0LjE1LTMuNTI2LTMuNTEzLjg2NCA0LjA3Ny0uNy4xNDgtMS4xMi01LjI4Ni43LS4xNDggMy41MzkgMy41MjEtLjg2Ny00LjA4OC42OTMtLjE0N1pNNDguMjQ0IDYwLjg5OGwuMjMxLjUzNS0yLjYyNiAxLjEzNS0uMjMxLS41MzUgMi42MjYtMS4xMzVabS00LjQwNi0zLjM0NyAyLjE0MyA0Ljk2LS42NTcuMjg0LTIuMTQzLTQuOTYuNjU3LS4yODRabTMuMDY4IDEuMjA1LjIzMS41MzUtMi4yOC45ODUtLjIzLS41MzUgMi4yNzktLjk4NVptLS42MDgtMi4yNjguMjMyLjUzOC0yLjU5MiAxLjEyLS4yMzMtLjUzOCAyLjU5My0xLjEyWk00Ny4wNTEgNTYuMDUxbDEuNDg0LTFjLjMzNi0uMjI2LjY1NS0uMzY2Ljk1Ni0uNDIuMzAzLS4wNTUuNTgzLS4wMjMuODQuMDk3LjI1Ni4xMTYuNDgzLjMyLjY4LjYxLjEzOC4yMDYuMjIyLjQyMi4yNTMuNjQ5LjAzMS4yMjQuMDEuNDQ3LS4wNjcuNjcxYTEuOSAxLjkgMCAwIDEtLjM3Ny42MzVsLS4xMjMuMTc3LTEuMzk0Ljk0LS4zMzItLjQ4IDEuMDUzLS43MDljLjIxMy0uMTQ0LjM2Ni0uMy40NTctLjQ3YS45MzkuOTM5IDAgMCAwIC4xMTUtLjUyIDEuMDE2IDEuMDE2IDAgMCAwLS4xNzYtLjQ5NCAxLjE2IDEuMTYgMCAwIDAtLjQwNy0uMzg0LjgxNy44MTcgMCAwIDAtLjUyMS0uMDgzYy0uMTkyLjAyNS0uNDAyLjExNC0uNjMuMjY4bC0uODg5LjYgMi42OTIgMy45OTQtLjU5NC40LTMuMDItNC40OFptNS42NCAyLjcxNi0yLjQ2LTEuMjk3LjYxNy0uNDIgMi40NTEgMS4yNTMuMDI1LjAzNy0uNjM0LjQyN1oiLz48Y2lyY2xlIGZpbGw9IiMwYTM3NjEiIHI9IjUiIGN4PSI2NCIgY3k9IjY0IiBzdHJva2U9IiNmZmZmZmYiLz48cGF0aCBmaWxsPSIjZmZmZmZmIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik02My41NDUgNjIuMTgyYzAtLjI1MS4yMDQtLjQ1NS40NTUtLjQ1NWguMDA0YS40NTUuNDU1IDAgMSAxIDAgLjkxSDY0YS40NTUuNDU1IDAgMCAxLS40NTUtLjQ1NVpNNjQgNjMuNTQ1Yy4yNTEgMCAuNDU0LjIwNC40NTQuNDU1djEuODE4YS40NTUuNDU1IDAgMSAxLS45MDggMFY2NGMwLS4yNTEuMjAzLS40NTUuNDU0LS40NTVaIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz48L2c+CjxtZXRhZGF0YT48cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyI+PHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9Imh0dHBzOi8vaW1nLmlkZWFsby5jb20vYmFkZ2VzLzI1ODM2LzYwMzA3NWU4LTBjYzgtNGM2NS05YmQ4LTkzZDhlYzA2NDZiMiI+PGRjOmlkZW50aWZpZXI+aHR0cHM6Ly9pbWcuaWRlYWxvLmNvbS9iYWRnZXMvMjU4MzYvNjAzMDc1ZTgtMGNjOC00YzY1LTliZDgtOTNkOGVjMDY0NmIyPC9kYzppZGVudGlmaWVyPjxkYzpkYXRlPjIwMjQtMDktMDRUMTM6MjM6MjMuOTc3MTY0NDE3WjwvZGM6ZGF0ZT48L3JkZjpEZXNjcmlwdGlvbj48L3JkZjpSREY+PC9tZXRhZGF0YT48L3N2Zz4= "Meinung zum Shop TALK-POINT bei idealo.de")](https://www.idealo.de/preisvergleich/Shop/25836.html)
 
 [![Geizhals Preisvergleich](https://cdn.shopify.com/s/files/1/0550/1236/0351/files/geizhals_logo_official.png?v=1708095568 "Geizhals Preisvergleich")](https://geizhals.de/)
 
-![Logo](//talk-point.de/cdn/shop/t/18/assets/tp_logo_standard_blue.png?v=115237334944936274241723012581)
+Kontakt
+-------
 
-![Logo](//talk-point.de/cdn/shop/t/18/assets/headphones-blue.png?v=113871395476716333441723012583)
+### Servicehotline:
 
-Servicehotline:
+Sie haben Fragen? Rufen Sie uns an!
 
-Sie haben Fragen? Rufen sie uns an!
-
-+49 (0) 3423 70 998 100
+**+49 (0) 3423 70 998 100**
 
 unsere Geschäftszeiten:
 
 Mo. - Fr.: 09:00 - 16:30 Uhr
 
-oder [kundenservice@talk-point.de](mailto:kundenservice@talk-point.de)
+oder kundenservice@talk-point.de
 
-* * *
+### Ladengeschäft:
 
-![Logo](//talk-point.de/cdn/shop/t/18/assets/tp-store-footer.png?v=24836392576815041191723012582)
+Komm doch einfach mal vorbei:
 
-Ladengeschäft:
-
-Komm doch einfach vorbei
-
-+49 (0) 3423 70 998 11
+**+49 (0) 3423 70 998 11**
 
 unsere Öffnungszeiten:
 
-Mo. - Fr.: 9:30 - 18:00 Uhr
+Mo. - Fr. 9:30 - 18:00 Uhr
 
 TALK-POINT GmbH
 
@@ -1100,9 +1081,201 @@ Bahnhofstraße 21
 
 04838 Eilenburg
 
+ Deutschland (EUR€)
+
+ Belgien (EUR€)
+
+ Bulgarien (EUR€)
+
+ Dänemark (EUR€)
+
+ Deutschland (EUR€)
+
+ Estland (EUR€)
+
+ Finnland (EUR€)
+
+ Frankreich (EUR€)
+
+ Griechenland (EUR€)
+
+ Irland (EUR€)
+
+ Italien (EUR€)
+
+ Kroatien (EUR€)
+
+ Lettland (EUR€)
+
+ Litauen (EUR€)
+
+ Luxemburg (EUR€)
+
+ Malta (EUR€)
+
+ Niederlande (EUR€)
+
+ Österreich (EUR€)
+
+ Polen (EUR€)
+
+ Portugal (EUR€)
+
+ Rumänien (EUR€)
+
+ Schweden (EUR€)
+
+ Slowakei (EUR€)
+
+ Slowenien (EUR€)
+
+ Spanien (EUR€)
+
+ Tschechien (EUR€)
+
+ Ungarn (EUR€)
+
+ Zypern (EUR€)
+
+Land aktualisieren
+
+Land
+----
+
+Deutschland (EUR €)
+
+* [Belgien (EUR €)](#)
+* [Bulgarien (EUR €)](#)
+* [Dänemark (EUR €)](#)
+* [Deutschland (EUR €)](#)
+* [Estland (EUR €)](#)
+* [Finnland (EUR €)](#)
+* [Frankreich (EUR €)](#)
+* [Griechenland (EUR €)](#)
+* [Irland (EUR €)](#)
+* [Italien (EUR €)](#)
+* [Kroatien (EUR €)](#)
+* [Lettland (EUR €)](#)
+* [Litauen (EUR €)](#)
+* [Luxemburg (EUR €)](#)
+* [Malta (EUR €)](#)
+* [Niederlande (EUR €)](#)
+* [Österreich (EUR €)](#)
+* [Polen (EUR €)](#)
+* [Portugal (EUR €)](#)
+* [Rumänien (EUR €)](#)
+* [Schweden (EUR €)](#)
+* [Slowakei (EUR €)](#)
+* [Slowenien (EUR €)](#)
+* [Spanien (EUR €)](#)
+* [Tschechien (EUR €)](#)
+* [Ungarn (EUR €)](#)
+* [Zypern (EUR €)](#)
+
+* American Express
+* Apple Pay
+* Google Pay
+* Maestro
+* Mastercard
+* PayPal
+* Shop Pay
+* Union Pay
+* Visa
+
 Copyright © 2024 Talk-Point.
 
 Powered by Shopcloud
+
+ Deutschland (EUR€)
+
+ Belgien (EUR€)
+
+ Bulgarien (EUR€)
+
+ Dänemark (EUR€)
+
+ Deutschland (EUR€)
+
+ Estland (EUR€)
+
+ Finnland (EUR€)
+
+ Frankreich (EUR€)
+
+ Griechenland (EUR€)
+
+ Irland (EUR€)
+
+ Italien (EUR€)
+
+ Kroatien (EUR€)
+
+ Lettland (EUR€)
+
+ Litauen (EUR€)
+
+ Luxemburg (EUR€)
+
+ Malta (EUR€)
+
+ Niederlande (EUR€)
+
+ Österreich (EUR€)
+
+ Polen (EUR€)
+
+ Portugal (EUR€)
+
+ Rumänien (EUR€)
+
+ Schweden (EUR€)
+
+ Slowakei (EUR€)
+
+ Slowenien (EUR€)
+
+ Spanien (EUR€)
+
+ Tschechien (EUR€)
+
+ Ungarn (EUR€)
+
+ Zypern (EUR€)
+
+Land aktualisieren
+
+Land
+----
+
+Deutschland (EUR €)
+
+* [Belgien (EUR €)](#)
+* [Bulgarien (EUR €)](#)
+* [Dänemark (EUR €)](#)
+* [Deutschland (EUR €)](#)
+* [Estland (EUR €)](#)
+* [Finnland (EUR €)](#)
+* [Frankreich (EUR €)](#)
+* [Griechenland (EUR €)](#)
+* [Irland (EUR €)](#)
+* [Italien (EUR €)](#)
+* [Kroatien (EUR €)](#)
+* [Lettland (EUR €)](#)
+* [Litauen (EUR €)](#)
+* [Luxemburg (EUR €)](#)
+* [Malta (EUR €)](#)
+* [Niederlande (EUR €)](#)
+* [Österreich (EUR €)](#)
+* [Polen (EUR €)](#)
+* [Portugal (EUR €)](#)
+* [Rumänien (EUR €)](#)
+* [Schweden (EUR €)](#)
+* [Slowakei (EUR €)](#)
+* [Slowenien (EUR €)](#)
+* [Spanien (EUR €)](#)
+* [Tschechien (EUR €)](#)
+* [Ungarn (EUR €)](#)
+* [Zypern (EUR €)](#)
 
 * American Express
 * Apple Pay
@@ -1126,3 +1299,16 @@ Zwischensumme des Warenkorbs
 [Warenkorb anzeigen ()](https://talk-point.de/cart)
 
 Kasse
+
+Produkte vergleichen
+--------------------
+
+{"one"=>"Wählen Sie 2 oder 3 Artikel zum Vergleichen aus", "other"=>"{{ count }} von 3 Elementen ausgewählt"}
+
+Wählen Sie das erste zu vergleichende Element aus
+
+Wählen Sie das zweite zu vergleichende Element aus
+
+Wählen Sie das dritte Element zum Vergleichen aus
+
+[Vergleichen](https://talk-point.de/) Alles löschen
