@@ -1,17 +1,38 @@
 [![Flourish logo](/images/Flourish_Logo_Black_small.png)](https://flourish.studio/)
 
-[Features
-========](https://flourish.studio/features)[Examples
-========](https://flourish.studio/examples)[Pricing
-=======](https://flourish.studio/pricing)[Sign up
-=======](https://app.flourish.studio/register)
+[Examples
+========](https://flourish.studio/examples)
 
-[About
------](https://flourish.studio/company)[Blog
-----](https://flourish.studio/blog)[Careers
--------](https://www.lifeatcanva.com/en/locations/united-kingdom/)[Help
-----](https://flourish.studio/resources)[Sign in
--------](https://app.flourish.studio/login)
+Solutions
+=========
+
+**Industry**
+
+[Financial Services](https://flourish.studio/solutions/financial-services) [Professional Services](https://flourish.studio/solutions/professional-services) [Newsrooms](https://flourish.studio/solutions/newsrooms) [Marketing](https://flourish.studio/solutions/marketing) [Nonprofits](https://flourish.studio/solutions/not-for-profit) [Government](https://flourish.studio/solutions/government)
+
+**Usecases**
+
+[Elections and polling](https://flourish.studio/resources/elections) [Sports and competitions](https://flourish.studio/resources/sports) [Maps](https://flourish.studio/visualisations/maps) [Survey responses](https://flourish.studio/resources/visualize-survey-data) [Scrollytelling](https://flourish.studio/visualisations/scrollytelling)
+
+Resources
+=========
+
+**Explore**
+
+[Blog](https://flourish.studio/blog) [Chart guides](https://flourish.studio/visualisations) [What's new](https://flourish.studio/whats-new)
+
+**Learn**
+
+[Help docs](https://helpcenter.flourish.studio/hc/en-us) [Webinars](https://flourish.studio/resources/webinar) [Training](https://flourish.studio/resources/training) [Datasets](https://flourish.studio/resources/datasets) [Accessibility](https://flourish.studio/accessibility)
+
+**Develop**
+
+[Experts network](https://flourish.studio/experts) [Flourish for developers](https://developers.flourish.studio/)
+
+[Pricing
+=======](https://flourish.studio/pricing)
+
+[Log in](https://app.flourish.studio/login) [Sign up](https://app.flourish.studio/register)
 
 Terms and conditions
 ====================
@@ -342,47 +363,61 @@ The Service is subject to trade sanctions and laws and regulations that govern t
 
 Please submit any questions you have about these terms and conditions or an order you have placed or ordering in general, or any complaint or concern in relation to any Service by email to [support@flourish.studio](mailto:support@flourish.studio) or write to us at: Flourish Team, Canva UK Operations Limited, 33-35 Hoxton Square, London N1 6NN
 
-[](https://twitter.com/f_l_o_u_r_i_s_h)[](https://www.linkedin.com/company/f-l-o-u-r-i-s-h)[](https://www.instagram.com/madewithflourish/)
-------------------------------------------------------------------------------------------------------------------------------------------
+#### Company
 
-### [hello@flourish.studio](mailto:hello@flourish.studio)
+* [About us](https://flourish.studio/company)
+* [Careers](https://www.lifeatcanva.com/en/locations/united-kingdom/)
+* [Security](https://flourish.studio/security)
+* [Pricing](https://flourish.studio/pricing)
+* [Terms](https://flourish.studio/terms)
+* [Privacy policy](https://flourish.studio/privacy)
+* [FAQs](https://flourish.studio/resources/faq)
 
-Flourish is a registered trademark of
+#### Explore
 
-Canva UK Operations Ltd, UK company 08825531
+* [Examples](https://flourish.studio/examples)
+* [Elections & polls](https://flourish.studio/resources/elections)
+* [Sports & competitions](https://flourish.studio/resources/sports)
+* [Interactive maps](https://flourish.studio/visualisations/maps)
+* [Survey responses](https://flourish.studio/resources/visualize-survey-data)
+* [Scrollytelling](https://flourish.studio/visualisations/scrollytelling)
+* [Chart guides](https://flourish.studio/visualisations)
+* [Blog](https://flourish.studio/blog)
+
+#### Solutions
+
+* [Financial services](https://flourish.studio/solutions/financial-services)
+* [Professional services](https://flourish.studio/solutions/professional-services)
+* [Newsrooms](https://flourish.studio/solutions/newsrooms)
+* [Marketing](https://flourish.studio/solutions/marketing)
+* [Nonprofits](https://flourish.studio/solutions/not-for-profit)
+* [Government](https://flourish.studio/solutions/government)
+
+#### Resources
+
+* [What's new](https://flourish.studio/whats-new)
+* [Help docs](https://help.flourish.studio/)
+* [Training](https://flourish.studio/resources/training)
+* [Webinars](https://flourish.studio/resources/webinar)
+* [Datasets](https://flourish.studio/resources/datasets)
+* [Accessibility](https://flourish.studio/accessibility)
+* [Experts network](https://flourish.studio/experts)
+* [For developers](https://flourish.studio/developers)
+
+#### Flourish
+
+Flourish is a registered trademark of Canva UK Operations Ltd, UK
+
+company 08825531
 
 33 Hoxton Square
 
 London N1 6NN
 
-[Newsletter](https://flourish.studio/newsletter)
+#### Stay in touch
 
-[Help](https://flourish.studio/resources)
+[Subscribe to our newsletter](https://flourish.studio/newsletter)
 
-[Examples](https://flourish.studio/examples)
+[![](/images/icons/x-logo.svg)](https://x.com/f_l_o_u_r_i_s_h) [![](/images/icons/instagram-logo.svg)](https://www.instagram.com/madewithflourish/) [![](/images/icons/linkedin-logo.svg)](https://www.linkedin.com/company/f-l-o-u-r-i-s-h) [![](/images/icons/youtube-logo.svg)](https://www.youtube.com/channel/UCWTf4OgEH_MiDvfmjPdkTxg)
 
-[Pricing](https://flourish.studio/pricing)
-
-[Security](https://flourish.studio/security)
-
-[Finance](https://flourish.studio/solutions/financial-services)
-
-[Consultancies](https://flourish.studio/solutions/professional-services)
-
-[Newsrooms](https://flourish.studio/solutions/newsrooms)
-
-[Developers](https://flourish.studio/developers)
-
-[Experts](https://flourish.studio/experts)
-
-[Company](https://flourish.studio/company)
-
-[Jobs](https://www.lifeatcanva.com/en/locations/united-kingdom/)
-
-[Blog](https://flourish.studio/blog)
-
-[Terms](https://flourish.studio/terms)
-
-[Privacy](https://flourish.studio/privacy)
-
-[Grid maps: where charts meet maps for easy data comparison Read our latest blog posts »](https://flourish.studio/blog)
+© 2024 Flourish, a Canva UK Operations Limited brand. All rights reserved.
