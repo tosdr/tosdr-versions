@@ -131,7 +131,7 @@ Menu Close
     
     [Acronis Cyber Protect](https://www.acronis.com/en-us/products/cyber-protect/)
     
-    New release
+    \-20%
     
     Complete cyber resilience for small business, including backup and DR, anti-malware and remote endpoint monitoring.
     
@@ -147,6 +147,9 @@ Menu Close
     
     * [Acronis DeviceLock DLP](https://www.acronis.com/en-us/products/devicelock/)
     * [Acronis Snap Deploy](https://www.acronis.com/en-us/products/snap-deploy/)
+        
+        \-20%
+        
     
     For everyone
     
