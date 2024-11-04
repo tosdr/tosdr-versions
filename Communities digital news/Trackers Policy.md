@@ -26,29 +26,29 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-snlkam-1200-x-628-1200x630.jpg)](https://americanwirenews.com/kamala-too-chicken-to-sit-down-with-joe-rogan-but-drops-everything-to-go-on-snl/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trumplittiz-1200-x-628-1200x630.jpg)](https://americanwirenews.com/the-hoaxes-never-stop-as-media-uncorks-another-doozy/)
 
-[Kamala too chicken to sit down with Joe Rogan but drops everything to go on SNL](https://americanwirenews.com/kamala-too-chicken-to-sit-down-with-joe-rogan-but-drops-everything-to-go-on-snl/)
+[The hoaxes never stop as media uncorks another doozy](https://americanwirenews.com/the-hoaxes-never-stop-as-media-uncorks-another-doozy/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-biden-1200x630.jpg)](https://americanwirenews.com/joe-wants-to-smack-trump-in-the-ass-in-latest-outburst/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-ad-1200x630.jpg)](https://americanwirenews.com/the-best-for-last-new-trump-ad-blows-away-any-political-ad-made-in-the-last-decade/)
 
-[Joe wants to smack Trump ‘in the ass’ in latest outburst](https://americanwirenews.com/joe-wants-to-smack-trump-in-the-ass-in-latest-outburst/)
+[The best for last: New Trump ad BLOWS AWAY any political ad made in the last decade!](https://americanwirenews.com/the-best-for-last-new-trump-ad-blows-away-any-political-ad-made-in-the-last-decade/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ford-1200-x-628-1200x630.jpg)](https://americanwirenews.com/hollywood-legend-latest-filthy-rich-celebrity-fat-cat-to-endorse-kamala/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-postcard-1200x630.jpg)](https://americanwirenews.com/letters-thanking-kamala-supporters-for-agreeing-to-house-a-migrant-family-terrify-wealthy-homeowners/)
 
-[Hollywood legend latest filthy rich celebrity fat cat to endorse Kamala](https://americanwirenews.com/hollywood-legend-latest-filthy-rich-celebrity-fat-cat-to-endorse-kamala/)
+[Letters thanking Kamala supporters for agreeing ‘to house a migrant family’ terrify wealthy homeowners](https://americanwirenews.com/letters-thanking-kamala-supporters-for-agreeing-to-house-a-migrant-family-terrify-wealthy-homeowners/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mayorkas-border-1200x630.jpg)](https://americanwirenews.com/republicans-call-on-mayorkas-to-return-to-covid-era-border-policy-amid-rapid-surge-in-tuberculosis/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rubio-brennan-1200x630.jpg)](https://americanwirenews.com/rubio-swats-down-regime-media-propagandist-who-insisted-on-pushing-liz-cheney-hoax/)
 
-[Republicans call on Mayorkas to return to COVID-era border policy amid rapid surge in tuberculosis](https://americanwirenews.com/republicans-call-on-mayorkas-to-return-to-covid-era-border-policy-amid-rapid-surge-in-tuberculosis/)
+[Rubio swats down regime media propagandist who insisted on pushing Liz Cheney hoax](https://americanwirenews.com/rubio-swats-down-regime-media-propagandist-who-insisted-on-pushing-liz-cheney-hoax/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ballot-austin1-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/lawmakers-want-answers-from-pentagon-over-failure-to-send-absentee-ballots-to-active-duty-service-members/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-drea-de-matteo-2-1200x630.jpg)](https://americanwirenews.com/the-sopranos-actress-gets-real-i-think-half-of-hollywood-is-actually-voting-for-trump/)
 
-[Lawmakers want answers from Pentagon over failure to send absentee ballots to active-duty service members](https://americanwirenews.com/lawmakers-want-answers-from-pentagon-over-failure-to-send-absentee-ballots-to-active-duty-service-members/)
+[The Sopranos actress gets real: ‘I think half of Hollywood is actually voting for Trump’](https://americanwirenews.com/the-sopranos-actress-gets-real-i-think-half-of-hollywood-is-actually-voting-for-trump/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-abcleavitt-1200-x-628-1200x630.jpg)](https://americanwirenews.com/could-this-be-the-next-white-house-press-secretary-trumps-national-spokeswoman-gives-masterclass-in-handling-regime-media/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-snl_kam-1200-x-628-1200x630.jpg)](https://americanwirenews.com/nbc-files-equal-time-notice-with-the-fcc-late-sunday-after-fallout-over-kamalas-snl-gift/)
 
-[Could this be the next White House Press Secretary?](https://americanwirenews.com/could-this-be-the-next-white-house-press-secretary-trumps-national-spokeswoman-gives-masterclass-in-handling-regime-media/)
+[NBC files Equal Time notice with the FCC late Sunday after fallout over Kamala’s SNL gift](https://americanwirenews.com/nbc-files-equal-time-notice-with-the-fcc-late-sunday-after-fallout-over-kamalas-snl-gift/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-trump-harris-1200x630.jpg)](https://americanwirenews.com/experts-dont-buy-shock-poll-that-says-kamala-harris-is-suddenly-ahead-in-iowa/)
 
@@ -58,29 +58,33 @@ Search for:
 
 [Daughter of NFL legend endorses Trump, slams Dems for ‘taking away women’s rights’](https://americanwirenews.com/daughter-of-nfl-legend-endorses-trump-slams-dems-for-taking-away-womens-rights/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-djt-aberenson-split-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-maria-ted11200-x-628-1200x630.jpg)
 
-### Famous former New York Times reporter explains ‘Why I’m voting for Donald J. Trump’](https://americanwirenews.com/famous-former-new-york-times-reporter-explains-why-im-voting-for-donald-j-trump/)
+### Ted Cruz warns of ‘true believer’ Kamala, most ‘anti-Israel’ administration in history](https://americanwirenews.com/ted-cruz-warns-of-true-believer-kamala-most-anti-israel-administration-in-history/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Julia Roberts mocked for Kamala ad telling women afraid to vote differently than husbands to lie to them](https://americanwirenews.com/julia-roberts-mocked-for-kamala-ad-telling-women-afraid-to-vote-differently-than-husbands-to-lie-to-them/)
+### [Don Jr. trolls Biden’s ‘garbage’ insult on Halloween: ‘Embrace their hate’](https://americanwirenews.com/don-jr-trolls-bidens-garbage-insult-on-halloween-embrace-their-hate/)
 
-### [Commander in creep: Ghoulish Joe bites on babies at White House Halloween party](https://americanwirenews.com/commander-in-creep-ghoulish-joe-bites-on-babies-at-white-house-halloween-party/)
+### [Live shot goes sideways when likely Kamala voter reveals her reasons: ‘I’m ill and I need birth control’](https://americanwirenews.com/live-shot-goes-sideways-when-likely-kamala-voter-reveals-her-reasons-im-ill-and-i-need-birth-control/)
 
-### [Hate night TV: Jimmy Kimmel’s 20 min anti-Trump rant backfires bigly](https://americanwirenews.com/hate-night-tv-jimmy-kimmels-20-min-anti-trump-rant-backfires-bigly/)
+### [‘You’re to ask no follow-up questions’: Pro-Kamala media in lockstep over brutal October jobs numbers](https://americanwirenews.com/youre-to-ask-no-follow-up-questions-pro-kamala-media-in-lockstep-over-brutal-october-jobs-numbers/)
 
-### [ABC accidentally aired election results of Harris winning PA by 5% with 100% in – a week before the election](https://americanwirenews.com/abc-accidentally-aired-election-results-of-harris-winning-pa-by-5-with-100-in-a-week-before-the-election/)
+### [JD Vance dishes on personal experience with COVID vaccine: ‘Sick as I’ve ever been’](https://americanwirenews.com/jd-vance-dishes-on-personal-experience-with-covid-vaccine-sick-as-ive-ever-been/)
 
-### [Harris surrogate Charlamagne tha God accuses CNN of normalizing ‘demon’ Trump’s ‘facism’](https://americanwirenews.com/harris-surrogate-charlamagne-tha-god-accuses-cnn-of-normalizing-demon-trumps-facism/)
+### [‘I’m done!’ Hugh Hewitt rips off headset, storms off ‘unfair’ WaPo Live stream](https://americanwirenews.com/im-done-hugh-hewitt-rips-off-headset-storms-off-unfair-wapo-live-stream/)
 
-### [NFL legend joins Trump in Green Bay, slams Biden for ‘garbage’ insult](https://americanwirenews.com/nfl-legend-joins-trump-in-green-bay-slams-biden-for-garbage-insult/)
+### [News outlet gets surprising results after surveying Tim Walz’s hometown for support](https://americanwirenews.com/news-outlet-gets-surprising-results-after-surveying-tim-walzs-hometown-for-support/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-harris-220x180.jpg)](https://americanwirenews.com/cnn-shocks-audience-points-out-how-insincere-kamala-has-opposite-messages-in-ads-for-each-state/)
 
 [CNN shocks audience, points out how Kamala tells voters opposite messages based on their state](https://americanwirenews.com/cnn-shocks-audience-points-out-how-insincere-kamala-has-opposite-messages-in-ads-for-each-state/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-djt-aberenson-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/famous-former-new-york-times-reporter-explains-why-im-voting-for-donald-j-trump/)
+
+[Famous former New York Times reporter explains ‘Why I’m voting for Donald J. Trump’](https://americanwirenews.com/famous-former-new-york-times-reporter-explains-why-im-voting-for-donald-j-trump/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-shasta-ballot-box-220x180.jpg)](https://americanwirenews.com/california-property-manager-arrested-for-bragging-on-reddit-that-he-voted-multiple-times/)
 
@@ -93,6 +97,66 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gabbard-cheney-220x180.jpg)](https://americanwirenews.com/tulsi-sets-the-record-straight-on-cowardly-dick-and-liz-cheney/)
 
 [Tulsi sets the record straight on ‘cowardly’ Dick and Liz Cheney](https://americanwirenews.com/tulsi-sets-the-record-straight-on-cowardly-dick-and-liz-cheney/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-abcleavitt-1200-x-628-220x180.jpg)](https://americanwirenews.com/could-this-be-the-next-white-house-press-secretary-trumps-national-spokeswoman-gives-masterclass-in-handling-regime-media/)
+
+[Could this be the next White House Press Secretary?](https://americanwirenews.com/could-this-be-the-next-white-house-press-secretary-trumps-national-spokeswoman-gives-masterclass-in-handling-regime-media/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ballot-austin1-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/lawmakers-want-answers-from-pentagon-over-failure-to-send-absentee-ballots-to-active-duty-service-members/)
+
+[Lawmakers want answers from Pentagon over failure to send absentee ballots to active-duty service members](https://americanwirenews.com/lawmakers-want-answers-from-pentagon-over-failure-to-send-absentee-ballots-to-active-duty-service-members/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mayorkas-border-220x180.jpg)](https://americanwirenews.com/republicans-call-on-mayorkas-to-return-to-covid-era-border-policy-amid-rapid-surge-in-tuberculosis/)
+
+[Republicans call on Mayorkas to return to COVID-era border policy amid rapid surge in tuberculosis](https://americanwirenews.com/republicans-call-on-mayorkas-to-return-to-covid-era-border-policy-amid-rapid-surge-in-tuberculosis/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-roganfetterman-1200-x-628-220x180.jpg)](https://americanwirenews.com/rogan-pushes-fetterman-to-answer-why-dems-are-flooding-swing-states-with-illegals/)
+
+[Rogan pushes Fetterman to answer why Dems are flooding swing states with illegals](https://americanwirenews.com/rogan-pushes-fetterman-to-answer-why-dems-are-flooding-swing-states-with-illegals/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-snlkam-1200-x-628-220x180.jpg)](https://americanwirenews.com/kamala-too-chicken-to-sit-down-with-joe-rogan-but-drops-everything-to-go-on-snl/)
+
+[Kamala too chicken to sit down with Joe Rogan but drops everything to go on SNL](https://americanwirenews.com/kamala-too-chicken-to-sit-down-with-joe-rogan-but-drops-everything-to-go-on-snl/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-biden-220x180.jpg)](https://americanwirenews.com/joe-wants-to-smack-trump-in-the-ass-in-latest-outburst/)
+
+[Joe wants to smack Trump ‘in the ass’ in latest outburst](https://americanwirenews.com/joe-wants-to-smack-trump-in-the-ass-in-latest-outburst/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ford-1200-x-628-220x180.jpg)](https://americanwirenews.com/hollywood-legend-latest-filthy-rich-celebrity-fat-cat-to-endorse-kamala/)
+
+[Hollywood legend latest filthy rich celebrity fat cat to endorse Kamala](https://americanwirenews.com/hollywood-legend-latest-filthy-rich-celebrity-fat-cat-to-endorse-kamala/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-irs-whistleblowers-220x180.jpg)](https://americanwirenews.com/house-republicans-furious-about-alleged-irs-whistleblower-retaliation-accept-a-demotion-or-resign/)
+
+[House Republicans furious about alleged IRS whistleblower retaliation: ‘Accept a demotion or resign’](https://americanwirenews.com/house-republicans-furious-about-alleged-irs-whistleblower-retaliation-accept-a-demotion-or-resign/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-paul-220x180.jpg)](https://americanwirenews.com/ron-paul-expresses-interest-in-working-with-elon-if-trump-is-elected-lets-end-the-fed/)
+
+[Ron Paul expresses interest in working with Elon if Trump is elected: ‘Let’s end the Fed!’](https://americanwirenews.com/ron-paul-expresses-interest-in-working-with-elon-if-trump-is-elected-lets-end-the-fed/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cuomo-oreilly-smith-220x180.jpg)](https://americanwirenews.com/oreilly-dismisses-gop-belief-that-kamala-has-power-as-vp-shes-lucky-she-can-order-lunch/)
+
+[O’Reilly dismisses GOP belief that Kamala has power as VP: ‘She’s lucky she can order lunch!’](https://americanwirenews.com/oreilly-dismisses-gop-belief-that-kamala-has-power-as-vp-shes-lucky-she-can-order-lunch/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/rf-pexels-judge-gavel-220x180.jpg)](https://americanwirenews.com/major-blow-to-gop-scotus-upholds-provisional-ballot-ruling-in-battleground-state/)
+
+[Major blow to GOP: SCOTUS upholds provisional ballot ruling in battleground state](https://americanwirenews.com/major-blow-to-gop-scotus-upholds-provisional-ballot-ruling-in-battleground-state/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-butler-usss-220x180.jpg)](https://americanwirenews.com/investigation-into-trump-assassination-attempt-may-result-in-disciplinary-action-for-secret-service/)
+
+[Investigation into Trump assassination attempt may result in disciplinary action for Secret Service](https://americanwirenews.com/investigation-into-trump-assassination-attempt-may-result-in-disciplinary-action-for-secret-service/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-nick-bosa-220x180.jpg)](https://americanwirenews.com/nfl-declines-to-suspend-star-player-for-wearing-maga-hat-but-he-may-still-face-punishment/)
+
+[NFL declines to suspend star player for wearing MAGA hat, but he may still face punishment](https://americanwirenews.com/nfl-declines-to-suspend-star-player-for-wearing-maga-hat-but-he-may-still-face-punishment/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-amish-220x180.jpg)](https://americanwirenews.com/amish-voters-could-be-the-key-to-trumps-success-in-pennsylvania-they-want-to-be-left-alone/)
+
+[Amish voters could be the key to Trump’s success in Pennsylvania: ‘They want to be left alone’](https://americanwirenews.com/amish-voters-could-be-the-key-to-trumps-success-in-pennsylvania-they-want-to-be-left-alone/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2023/01/SG-Kamala-Harris-220x180.jpg)](https://americanwirenews.com/harris-camp-sends-mixed-signals-in-ads-targeting-jewish-arab-american-voters/)
+
+[Harris camp sends mixed signals in ads targeting Jewish, Arab-American voters](https://americanwirenews.com/harris-camp-sends-mixed-signals-in-ads-targeting-jewish-arab-american-voters/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-goldberg-220x180.jpg)](https://americanwirenews.com/cnn-analyst-called-out-for-letting-tds-get-the-better-of-him-over-cheney-comments/)
 
@@ -109,72 +173,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kris-meyes-220x180.jpg)](https://americanwirenews.com/dem-ag-to-probe-trump-over-possible-death-threat-to-cheney-in-latest-lawfare-op/)
 
 [Dem AG to probe Trump over ‘possible death threat’ to Cheney in latest lawfare op](https://americanwirenews.com/dem-ag-to-probe-trump-over-possible-death-threat-to-cheney-in-latest-lawfare-op/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mystal-220x180.jpg)](https://americanwirenews.com/racial-bomb-thrower-dives-down-conspiracy-theorist-rabbit-hole-details-how-trump-will-steal-election/)
-
-[Racial bomb-thrower dives down conspiracy theorist rabbit hole, details how Trump will ‘steal’ election](https://americanwirenews.com/racial-bomb-thrower-dives-down-conspiracy-theorist-rabbit-hole-details-how-trump-will-steal-election/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liz-cheney-220x180.jpg)](https://americanwirenews.com/even-trumps-haters-arent-buying-liz-cheneys-spin-on-his-comments-bald-faced-lie/)
-
-[Even Trump’s haters aren’t buying Liz Cheney’s spin on his comments: ‘Bald-faced lie’](https://americanwirenews.com/even-trumps-haters-arent-buying-liz-cheneys-spin-on-his-comments-bald-faced-lie/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-biden-beccera-220x180.jpg)](https://americanwirenews.com/conservative-group-suing-biden-admin-over-docs-on-taxpayer-funds-aiding-illegals/)
-
-[Conservative group suing Biden admin over docs on taxpayer funds aiding illegals](https://americanwirenews.com/conservative-group-suing-biden-admin-over-docs-on-taxpayer-funds-aiding-illegals/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jennifer-lopez-220x180.jpg)](https://americanwirenews.com/emotional-j-lo-backs-harris-internet-questions-her-motive-she-warned-us-about-trump-but-not-diddy/)
-
-[Emotional J.Lo backs Harris, internet questions her motive: ‘She warned us about Trump but not Diddy’](https://americanwirenews.com/emotional-j-lo-backs-harris-internet-questions-her-motive-she-warned-us-about-trump-but-not-diddy/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liz-kamala-split-1200-x-628-1-220x180.jpg)](https://americanwirenews.com/liar-kamalas-closing-message-defending-lying-neocon-liz-cheney/)
-
-[Liar Kamala’s closing message? Defending lying neocon Liz Cheney](https://americanwirenews.com/liar-kamalas-closing-message-defending-lying-neocon-liz-cheney/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-dearborndjt-tlaib-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-makes-play-for-the-michigan-muslim-vote-with-visit-to-rashida-tlaibs-home-turf/)
-
-[Trump makes play for the Michigan Muslim vote with visit to Rashida Tlaib’s home turf](https://americanwirenews.com/trump-makes-play-for-the-michigan-muslim-vote-with-visit-to-rashida-tlaibs-home-turf/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liepman-kcen-220x180.jpg)](https://americanwirenews.com/texas-news-anchor-overwhelmed-with-emotion-as-she-announces-co-anchors-passing/)
-
-[Texas news anchor overwhelmed with emotion as she announces co-anchor’s passing](https://americanwirenews.com/texas-news-anchor-overwhelmed-with-emotion-as-she-announces-co-anchors-passing/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-jr-220x180.jpg)](https://americanwirenews.com/don-jr-trolls-bidens-garbage-insult-on-halloween-embrace-their-hate/)
-
-[Don Jr. trolls Biden’s ‘garbage’ insult on Halloween: ‘Embrace their hate’](https://americanwirenews.com/don-jr-trolls-bidens-garbage-insult-on-halloween-embrace-their-hate/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kamala-fnf-220x180.jpg)](https://americanwirenews.com/live-shot-goes-sideways-when-likely-kamala-voter-reveals-her-reasons-im-ill-and-i-need-birth-control/)
-
-[Live shot goes sideways when likely Kamala voter reveals her reasons: ‘I’m ill and I need birth control’](https://americanwirenews.com/live-shot-goes-sideways-when-likely-kamala-voter-reveals-her-reasons-im-ill-and-i-need-birth-control/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2022/08/GettyImages-1065782416-220x180.jpg)](https://americanwirenews.com/youre-to-ask-no-follow-up-questions-pro-kamala-media-in-lockstep-over-brutal-october-jobs-numbers/)
-
-[‘You’re to ask no follow-up questions’: Pro-Kamala media in lockstep over brutal October jobs numbers](https://americanwirenews.com/youre-to-ask-no-follow-up-questions-pro-kamala-media-in-lockstep-over-brutal-october-jobs-numbers/)
-
-Getty Images
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-vance2-220x180.jpg)](https://americanwirenews.com/jd-vance-dishes-on-personal-experience-with-covid-vaccine-sick-as-ive-ever-been/)
-
-[JD Vance dishes on personal experience with COVID vaccine: ‘Sick as I’ve ever been’](https://americanwirenews.com/jd-vance-dishes-on-personal-experience-with-covid-vaccine-sick-as-ive-ever-been/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hugh-hewitt-220x180.jpg)](https://americanwirenews.com/im-done-hugh-hewitt-rips-off-headset-storms-off-unfair-wapo-live-stream/)
-
-[‘I’m done!’ Hugh Hewitt rips off headset, storms off ‘unfair’ WaPo Live stream](https://americanwirenews.com/im-done-hugh-hewitt-rips-off-headset-storms-off-unfair-wapo-live-stream/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-minnesota-voters-220x180.jpg)](https://americanwirenews.com/news-outlet-gets-surprising-results-after-surveying-tim-walzs-hometown-for-support/)
-
-[News outlet gets surprising results after surveying Tim Walz’s hometown for support](https://americanwirenews.com/news-outlet-gets-surprising-results-after-surveying-tim-walzs-hometown-for-support/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/12/SG-Trump-Cheney-220x180.jpg)](https://americanwirenews.com/liz-cheney-gets-pummeled-over-dishonest-spin-on-alleged-trump-death-threat/)
-
-[Liz Cheney gets pummeled over dishonest spin on alleged Trump ‘death’ threat](https://americanwirenews.com/liz-cheney-gets-pummeled-over-dishonest-spin-on-alleged-trump-death-threat/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-tucker-carlson-ghost-attack-220x180.jpg)](https://americanwirenews.com/tucker-reveals-he-was-physically-mauled-in-bed-by-possible-demon-who-left-claw-marks/)
-
-[Tucker reveals he was ‘physically mauled’ in bed by possible demon who left ‘claw marks’](https://americanwirenews.com/tucker-reveals-he-was-physically-mauled-in-bed-by-possible-demon-who-left-claw-marks/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-dreamers-protest-220x180.jpg)](https://americanwirenews.com/illegal-immigrant-dreamers-eligible-to-sign-up-for-obamacare-for-the-first-time/)
-
-[Illegal immigrant ‘dreamers’ eligible to sign up for Obamacare for the first time](https://americanwirenews.com/illegal-immigrant-dreamers-eligible-to-sign-up-for-obamacare-for-the-first-time/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -262,33 +260,29 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-chishooter-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/suspect-who-shot-orthodox-jew-in-chicago-shouting-allahu-akbar-is-a-catch-and-release-illegal-alien/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/12/SG-Trump-Cheney-1200x630.jpg)](https://americanwirenews.com/liz-cheney-gets-pummeled-over-dishonest-spin-on-alleged-trump-death-threat/)
 
-[Suspect who shot Orthodox Jew in Chicago shouting ‘Allahu Akbar’ is a ‘catch and release’ illegal alien](https://americanwirenews.com/suspect-who-shot-orthodox-jew-in-chicago-shouting-allahu-akbar-is-a-catch-and-release-illegal-alien/)
+[Liz Cheney gets pummeled over dishonest spin on alleged Trump ‘death’ threat](https://americanwirenews.com/liz-cheney-gets-pummeled-over-dishonest-spin-on-alleged-trump-death-threat/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-chishooter-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/suspect-who-shot-orthodox-jew-in-chicago-shouting-allahu-akbar-is-a-catch-and-release-illegal-alien/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/12/SG-Trump-Cheney-220x180.jpg)](https://americanwirenews.com/liz-cheney-gets-pummeled-over-dishonest-spin-on-alleged-trump-death-threat/)
 
-[Suspect who shot Orthodox Jew in Chicago shouting ‘Allahu Akbar’ is a ‘catch and release’ illegal alien](https://americanwirenews.com/suspect-who-shot-orthodox-jew-in-chicago-shouting-allahu-akbar-is-a-catch-and-release-illegal-alien/)
+[Liz Cheney gets pummeled over dishonest spin on alleged Trump ‘death’ threat](https://americanwirenews.com/liz-cheney-gets-pummeled-over-dishonest-spin-on-alleged-trump-death-threat/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-garbagebiden1-1200-x-628-220x180.jpg)](https://americanwirenews.com/white-house-may-have-violated-law-by-doctoring-biden-garbage-transcript/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-dreamers-protest-220x180.jpg)](https://americanwirenews.com/illegal-immigrant-dreamers-eligible-to-sign-up-for-obamacare-for-the-first-time/)
 
-[White House may have violated law by doctoring Biden ‘garbage’ transcript](https://americanwirenews.com/white-house-may-have-violated-law-by-doctoring-biden-garbage-transcript/)
+[Illegal immigrant ‘dreamers’ eligible to sign up for Obamacare for the first time](https://americanwirenews.com/illegal-immigrant-dreamers-eligible-to-sign-up-for-obamacare-for-the-first-time/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/08/RF-Getty-Voters-1024x569-1-220x180.jpg)](https://americanwirenews.com/new-harvard-study-shows-dems-pushed-hispanic-voters-toward-trump-with-latinx-label/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-patrick-cuban-220x180.png)](https://americanwirenews.com/buckle-up-danica-patrick-has-a-big-bold-video-girl-message-for-mark-cuban/)
 
-[New Harvard study shows Dems pushed Hispanic voters toward Trump with ‘Latinx’ label
+[Buckle up! Danica Patrick has a big, bold video girl-message for Mark Cuban](https://americanwirenews.com/buckle-up-danica-patrick-has-a-big-bold-video-girl-message-for-mark-cuban/)
 
-Getty Images](https://americanwirenews.com/new-harvard-study-shows-dems-pushed-hispanic-voters-toward-trump-with-latinx-label/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-walz-220x180.jpg)](https://americanwirenews.com/tim-walz-answers-why-kamala-didnt-fix-anything-over-last-3-5-years/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-aldrin-trump-220x180.jpg)](https://americanwirenews.com/godspeed-president-trump-american-hero-offers-wholehearted-2024-endorsement/)
+[Tim Walz answers why Kamala didn’t fix anything over last 3.5 years](https://americanwirenews.com/tim-walz-answers-why-kamala-didnt-fix-anything-over-last-3-5-years/)
 
-[‘Godspeed President Trump’: American hero offers ‘wholehearted’ 2024 endorsement
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jimmy_garland-split1-1200-x-628-220x180.jpg)](https://americanwirenews.com/critics-wonder-if-doj-will-go-after-jimmy-kimmel-for-election-interference-like-it-did-to-trump-supporter/)
 
-(Official White House Photo by Andrea Hanks)](https://americanwirenews.com/godspeed-president-trump-american-hero-offers-wholehearted-2024-endorsement/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-speech-1-220x180.jpg)](https://americanwirenews.com/in-yet-another-flip-flop-kamala-harris-talks-about-deporting-illegal-immigrants/)
-
-[In yet another flip-flop, Kamala Harris talks about deporting illegal immigrants](https://americanwirenews.com/in-yet-another-flip-flop-kamala-harris-talks-about-deporting-illegal-immigrants/)
+[Critics wonder if DOJ will go after Jimmy Kimmel for ‘election interference’ like it did to Trump supporter](https://americanwirenews.com/critics-wonder-if-doj-will-go-after-jimmy-kimmel-for-election-interference-like-it-did-to-trump-supporter/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -326,6 +320,16 @@ Getty Images](https://americanwirenews.com/new-harvard-study-shows-dems-pushed-h
 
 [Jason Kelce attacks fan, goes ballistic on guy for calling Taylor Swift’s boy toy the other F-word](https://americanwirenews.com/jason-kelce-attacks-fan-goes-ballistic-on-guy-for-calling-taylor-swifts-boy-toy-the-other-f-word/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-tucker-carlson-ghost-attack-220x180.jpg)](https://americanwirenews.com/tucker-reveals-he-was-physically-mauled-in-bed-by-possible-demon-who-left-claw-marks/)
+
+[Tucker reveals he was ‘physically mauled’ in bed by possible demon who left ‘claw marks’](https://americanwirenews.com/tucker-reveals-he-was-physically-mauled-in-bed-by-possible-demon-who-left-claw-marks/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-166311199-1-220x180.jpg)](https://americanwirenews.com/oklahoma-towns-entire-police-force-resigns-in-one-day-and-locals-want-answers/)
+
+[Oklahoma town’s ENTIRE police force resigns in one day and locals want answers
+
+Getty Images](https://americanwirenews.com/oklahoma-towns-entire-police-force-resigns-in-one-day-and-locals-want-answers/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-1284970558-1-220x180.jpg)](https://americanwirenews.com/police-say-two-influencers-rejected-lifejackets-before-drowning-they-get-in-the-way-of-their-tanning/)
 
 [Police say two influencers rejected lifejackets before drowning: ‘They get in the way of their tanning’
@@ -335,13 +339,5 @@ Getty Images](https://americanwirenews.com/police-say-two-influencers-rejected-l
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-loomis-220x180.jpg)](https://americanwirenews.com/singer-offers-heartfelt-apology-after-botching-national-anthem-asking-for-do-over-i-am-so-sorry/)
 
 [Singer offers heartfelt apology after botching national anthem, asking for do-over: ‘I am so sorry’](https://americanwirenews.com/singer-offers-heartfelt-apology-after-botching-national-anthem-asking-for-do-over-i-am-so-sorry/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-volusia-county-hernandez-moncayo-220x180.jpg)](https://americanwirenews.com/florida-police-release-footage-of-woman-nearly-raped-by-scumbag-who-shouldnt-be-in-the-u-s/)
-
-[Florida police release footage of woman nearly raped by ‘scumbag’ who shouldn’t be in the U.S.!](https://americanwirenews.com/florida-police-release-footage-of-woman-nearly-raped-by-scumbag-who-shouldnt-be-in-the-u-s/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sheriff-bob-gualtieri-220x180.jpg)](https://americanwirenews.com/florida-county-41-of-45-people-arrested-for-looting-after-hurricanes-helene-and-milton-are-noncitizens/)
-
-[Florida county: 41 of 45 people arrested for looting after Hurricanes Helene and Milton are noncitizens](https://americanwirenews.com/florida-county-41-of-45-people-arrested-for-looting-after-hurricanes-helene-and-milton-are-noncitizens/)
 
 © 2024. All Rights Reserved. American Wire News
