@@ -1,6 +1,6 @@
 [Skip to content](#mainContentBlock)
 
-[Next.js Conf 2024: Your app should be Live by Default – Watch Keynote](https://www.sanity.io/nextjsconf?ref=banner#05979594581b)
+[Unlock seamless workflows and faster delivery with our latest releases - Join the deep dive](https://www.sanity.io/events/developer-deep-dive-launch?ref=banner)
 
 [Sanity](https://www.sanity.io/)
 
