@@ -205,29 +205,28 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [CueTube!](https://www.somethingawful.com/comedy-goldmine/cue-youtube-bitchen/1/)
-* [Disgusting Sights Witnessed At Wal-Mart](https://www.somethingawful.com/comedy-goldmine/disgusting-sights-walmart/1/)
-* [AwfulVision: Reader Mailbag #1!](https://www.somethingawful.com/awfulvision/awfulvision-reader-mailbag/1/)
-* [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
-* [Bizarre Public Scenes](https://www.somethingawful.com/comedy-goldmine/bizarre-public-scenes/1/)
+* [Cars 2; Bad Teacher; The Beaver](https://www.somethingawful.com/current-movie-reviews/cars2-bad-teacher/1/)
+* [SkyMall Product Reviews: Giant Male Silverback Gorilla Statue](https://www.somethingawful.com/news/skymall-gorilla-statue/)
+* [SA Forum Goons vs. The Dating Game](https://www.somethingawful.com/feature-articles/sa-forum-goons/1/)
+* [Movies From Memory: The Matrix](https://www.somethingawful.com/news/movies-from-memory-2/)
+* [September 1, 2008](https://www.somethingawful.com/forum-fridays/ff09-01-08/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/ddrd-scsa.gif) [Has anyone noticed that extroverts seem to be more valued by society than](http://forums.somethingawful.com/showthread.php?threadid=4074258 "Has anyone noticed that extroverts seem to be more valued by society than")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/science.png) [I am a servant of the Secret Fire (Not a LOTR thread)](http://forums.somethingawful.com/showthread.php?threadid=4074241 "I am a servant of the Secret Fire (Not a LOTR thread)")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-explosion.gif) [Did you or your friend(s) get hurt replicating wwe/jackass stunts?](http://forums.somethingawful.com/showthread.php?threadid=4074261 "Did you or your friend(s) get hurt replicating wwe/jackass stunts?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/books.png) [Moby-Dick is the greatest book I've ever read](http://forums.somethingawful.com/showthread.php?threadid=4074228 "Moby-Dick is the greatest book I've ever read")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/audio.png) [Goooooons! Merry Awful Xmas Music Thread 2K24!](http://forums.somethingawful.com/showthread.php?threadid=4074263 "Goooooons! Merry Awful Xmas Music Thread 2K24!")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [Family meeting!](http://forums.somethingawful.com/showthread.php?threadid=4074281 "Family meeting!")
 * ![](https://fi.somethingawful.com/images/shitpost.gif) [Toadies](http://forums.somethingawful.com/showthread.php?threadid=4074259 "Toadies")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-explosion.gif) [Did you or your friend(s) get hurt replicating wwe/jackass stunts?](http://forums.somethingawful.com/showthread.php?threadid=4074261 "Did you or your friend(s) get hurt replicating wwe/jackass stunts?")
+* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Post ITT if you didn't update the SA app and you're on ios](http://forums.somethingawful.com/showthread.php?threadid=4074311 "Post ITT if you didn't update the SA app and you're on ios")
+* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [What's a stereotypical "old person" thing that you do now?](http://forums.somethingawful.com/showthread.php?threadid=4074307 "What's a stereotypical "old person" thing that you do now?")
 
 ### Random Articles
 
-* [SA Behind The Scenes: Our Readers Are Morons](https://www.somethingawful.com/news/sa-behind-scenes/)
-* [Animated Spin-Offs](https://www.somethingawful.com/comedy-goldmine/drawing-animated-series/1/)
-* [The Chinese are on the right track](https://www.somethingawful.com/news/chinese-on-right/)
-* [DREAMS OF THE GREAT EARTH CHANGES](https://www.somethingawful.com/awful-links/awful-link-2452/)
-* [Watching the Olymbics From Home](https://www.somethingawful.com/news/imperial-island-skeleton/1/)
+* [OpenBSD release song lyrics](https://www.somethingawful.com/awful-links/awful-link-4154/)
+* [Worth1000](https://www.somethingawful.com/awful-links/awful-link-1391/)
+* [Subj: FRANCHISE OPPORTUNITY!!](https://www.somethingawful.com/news/roamin-dad-39/)
+* [Through the Feeding Tube](https://www.somethingawful.com/news/through-feeding-tube/)
+* [Monstergeddon Forums > Events > Gatherings > Howard's XXXmas Shindig!](https://www.somethingawful.com/news/monstergeddon-xmas/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
