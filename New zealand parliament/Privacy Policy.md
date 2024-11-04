@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/scl/primary-production/news-archive/watch-public-meetings-of-the-primary-production-committee/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/scl/petitions/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/scl/primary-production/news-archive/watch-public-meetings-of-the-primary-production-committee/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/scl/petitions/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
