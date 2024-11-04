@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Moldova’s pro-West president, reelected, slams external ‘hostile forces’](https://www.csmonitor.com/World/Europe/2024/1103/moldova-election-eu-russia-intimidation "Moldova’s pro-West president, reelected, slams external ‘hostile forces’")
+[### Quincy Jones, music producer of ‘Thriller,’ rose from poverty to show business heights](https://www.csmonitor.com/USA/2024/1104/quincy-jones-producer-thriller-michael-jackson "Quincy Jones, music producer of ‘Thriller,’ rose from poverty to show business heights")
 
-[### An unwanted kiss shook Spanish soccer – and society. A new documentary explores why.](https://www.csmonitor.com/World/Europe/2024/1101/spain-women-soccer-football-netflix-seacabo-jenni-hermoso "An unwanted kiss shook Spanish soccer – and society. A new documentary explores why.")
+[### Mexico City sees potential soccer fields. But garden farmers fight to preserve a legacy.](https://www.csmonitor.com/World/Americas/2024/1104/Mexico-City-chinampas-farming-sustainability-urban-growth "Mexico City sees potential soccer fields. But garden farmers fight to preserve a legacy.")
 
-[### Immigration is not just a US challenge. But on eve of election, it feels that way.](https://www.csmonitor.com/World/Americas/2024/1101/election-border-migrants-Mexico-Trump-Harris "Immigration is not just a US challenge. But on eve of election, it feels that way.")
+[### Years after Breonna Taylor’s death, jury finds Kentucky cop guilty of excessive force](https://www.csmonitor.com/USA/2024/1104/Breonna-Taylor-cop-convicted-2020-protests-BLM "Years after Breonna Taylor’s death, jury finds Kentucky cop guilty of excessive force")
 
 * * *
 
