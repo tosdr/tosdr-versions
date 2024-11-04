@@ -166,7 +166,7 @@ Thank you for signing up to receive updates from St. Jude. You may manage your s
 * [Careers](https://www.stjude.org/jobs.html "Careers")
 * [Media Resources](https://www.stjude.org/media-resources.html "Media Resources")
 
- [](https://health.usnews.com/best-hospitals/area/tn/st-jude-childrens-research-hospital-6520815)[](https://www.nursingworld.org/organizational-programs/magnet/)[](http://www.cancer.gov/research/nci-role/cancer-centers)[](https://www.give.org/charity-reviews/national/Other/ALSAC-St.-Jude-Childrens-Research-Hospital-in-Memphis-tn-2903)[](https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=12847)
+ [](https://health.usnews.com/best-hospitals/area/tn/st-jude-childrens-research-hospital-6520815)[](https://www.nursingworld.org/organizational-programs/magnet/)[](http://www.cancer.gov/research/nci-role/cancer-centers)[](https://www.give.org/charity-reviews/national/Other/ALSAC-St.-Jude-Childrens-Research-Hospital-in-Memphis-tn-2903)[](https://www.charitynavigator.org/ein/351044585)
 
 © Copyright 2024. St. Jude Children's Research Hospital, a not-for-profit, section 501(c)(3).
 
