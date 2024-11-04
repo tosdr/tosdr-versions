@@ -14,7 +14,7 @@ Tiendas
 
  
 
-[](https://www.movistar.es/mimovistar-cliente/publico/servicio/login?urlContenedora=https://www.movistar.es/Privada/DesafioUnico&urlDestino=https://www.movistar.es/static/login/authcol?urlDestino=https://www.movistar.es/autonomos "tiendas movistar")
+[](https://www.movistar.es/auth/login?redirect=https://www.movistar.es "tiendas movistar")
 
 Identifícate
 
@@ -101,7 +101,7 @@ Empresas
 
 [](https://www.movistar.es/mimovistar-cliente/publico/servicio/login?urlContenedora=https://www.movistar.es/Privada/DesafioUnico&urlDestino=https://www.movistar.es/autonomos "identifícate")
 
-[](https://www.movistar.es/mimovistar-cliente/publico/servicio/login?urlContenedora=https://www.movistar.es/Privada/DesafioUnico&urlDestino=https://www.movistar.es/autonomos "Identifícate")
+[](https://www.movistar.es/auth/login?redirect=https://www.movistar.es "Identifícate")
 
 Identifícate
 
@@ -165,7 +165,7 @@ Mi perfil
 
 [Atención al cliente](https://www.movistar.es/mimovistar-cliente/publico/acceso/privado/soporte "Atención al cliente")
 
-[](https://www.movistar.es/mimovistar-cliente/publico/servicio/login?urlContenedora=https://www.movistar.es/Privada/DesafioUnico&urlDestino=https://www.movistar.es/autonomos "identificate")
+[](https://www.movistar.es/auth/logout?redirect=https://www.movistar.es "identificate")
 
 Cerrar sesión
 
