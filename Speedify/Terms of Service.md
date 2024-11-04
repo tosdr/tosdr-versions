@@ -147,7 +147,7 @@ Nov 13
 
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
 * [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
-* [WiFi Login Page Not Showing Up? Here's How to Fix It](https://speedify.com/blog/better-internet-anywhere/fix-wifi-login-page-not-showing-up/)
+* [\[VIDEO\] How to Fix It when WhatsApp Calls Are Not Working](https://speedify.com/blog/fix-whatsapp-calls-not-working/)
 
 ### Bonding Apps
 
