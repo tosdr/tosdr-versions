@@ -26,6 +26,8 @@
 
 [Donate](https://www.tiphereth.org.uk/support-donate)
 
+[Regular Donors](https://www.tiphereth.org.uk/regular-donors)
+
 [Jobs](https://www.tiphereth.org.uk/jobs)
 
 [Contact](https://www.tiphereth.org.uk/contact)
@@ -63,6 +65,8 @@ Open Menu Close Menu
 [Buy our Workshop Products](https://www.tiphereth.org.uk/support-buy-workshop-products)
 
 [Donate](https://www.tiphereth.org.uk/support-donate)
+
+[Regular Donors](https://www.tiphereth.org.uk/regular-donors)
 
 [Jobs](https://www.tiphereth.org.uk/jobs)
 
@@ -103,6 +107,8 @@ Open Menu Close Menu
 [Buy our Workshop Products](https://www.tiphereth.org.uk/support-buy-workshop-products)
 
 [Donate](https://www.tiphereth.org.uk/support-donate)
+
+[Regular Donors](https://www.tiphereth.org.uk/regular-donors)
 
 [Jobs](https://www.tiphereth.org.uk/jobs)
 
