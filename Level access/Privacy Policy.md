@@ -1,12 +1,12 @@
 [Skip To main content](#maincontent)
 
-  ![Arrow Down](data:image/svg+xml;nitro-empty-id=MTM1OjEzOQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQgOCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) ![Arrow Up](data:image/svg+xml;nitro-empty-id=MTM2OjE1Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQgOCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) Toggle alert
+  ![Arrow Down](https://www.levelaccess.com/wp-content/themes/newptheme/assets/img/alert_arrow_down.svg) ![Arrow Up](https://www.levelaccess.com/wp-content/themes/newptheme/assets/img/alert_arrow_up.svg) Toggle alert
 
 Dive into data on the accessibility landscape in Level Access’s next webinar.
 
 [Register today](https://www.levelaccess.com/resources/webinar-the-state-of-digital-accessibility-analysis-insights-and-action-items-for-2025/)
 
-[![Level Access logo](data:image/gif;nitro-empty-id=MTYyOjI2-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.levelaccess.com/)
+[![Level Access logo](https://www.levelaccess.com/wp-content/uploads/2024/10/la-logo-opt.svg)](https://www.levelaccess.com/)
 
 Main menu
 
@@ -65,7 +65,7 @@ Search:  Search Button
 
 Main Menu
 
-![](data:image/svg+xml;nitro-empty-id=NTAxOjEyMg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjggMjkiIHdpZHRoPSIyOCIgaGVpZ2h0PSIyOSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
+![](https://www.levelaccess.com/wp-content/themes/newptheme/assets/img/calendar-icon.svg)
 
 ×
 
@@ -302,7 +302,7 @@ Arlington, VA 22201, USA
 
 We thank you for your interest in our privacy program. Your feedback helps us realize our commitment to provide and improve a transparent and robust privacy program for all people with whom we interact.
 
-![Level Access logo](data:image/gif;nitro-empty-id=ODcyOjIy-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
+![Level Access logo](https://www.levelaccess.com/wp-content/uploads/2024/10/la-logo-opt.svg)
 
 1310 N Courthouse Road  
 Suite 860  
@@ -312,11 +312,11 @@ Arlington, VA 22201
 
 Follow us
 
-[![X previously Twitter logo](data:image/svg+xml;nitro-empty-id=ODkxOjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://twitter.com/levelaccessa11y)
+[![X previously Twitter logo](https://www.levelaccess.com/wp-content/uploads/2023/10/Frame-740.svg)](https://twitter.com/levelaccessa11y)
 
-[![YouTube icon](data:image/svg+xml;nitro-empty-id=OTAwOjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.youtube.com/@LevelAccessA11y)
+[![YouTube icon](https://www.levelaccess.com/wp-content/uploads/2023/10/youtube.svg)](https://www.youtube.com/@LevelAccessA11y)
 
-[![LinkedIn logo](data:image/svg+xml;nitro-empty-id=OTA5OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.linkedin.com/company/level-access/)
+[![LinkedIn logo](https://www.levelaccess.com/wp-content/uploads/2023/10/linkedin.svg)](https://www.linkedin.com/company/level-access/)
 
 Solutions
 
