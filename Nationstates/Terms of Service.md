@@ -34,10 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Using the AN's flag, how do they deal… (8,610)](https://forum.nationstates.net/viewtopic.php?t=508055&f=25&view=unread#unread ""Using the AN's flag, how do they deal with traitors? III" (8,610 posts)")
-* [Create A HOI4 Name List for AN (146)](https://forum.nationstates.net/viewtopic.php?t=556510&f=25&view=unread#unread ""Create A HOI4 Name List for AN" (146 posts)")
-* [Based on the flag, what are AN's real… (19)](https://forum.nationstates.net/viewtopic.php?t=557916&f=25&view=unread#unread ""Based on the flag, what are AN's real life political views?" (19 posts)")
-* [What triggers you about the AN? (10,269)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (10,269 posts)")
+* [American Politics: Judgement Day, Thr… (7,373)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Judgement Day, Thread the First" (7,373 posts)")
+* [Nickname AN's flag (247)](https://forum.nationstates.net/viewtopic.php?t=557547&f=25&view=unread#unread ""Nickname AN's flag" (247 posts)")
+* [Your Nation's Leader Survey (867)](https://forum.nationstates.net/viewtopic.php?t=372815&f=23&view=unread#unread ""Your Nation's Leader Survey" (867 posts)")
+* [The United Powers Assembly Hall (1,398)](https://forum.nationstates.net/viewtopic.php?t=550052&f=5&view=unread#unread ""The United Powers Assembly Hall" (1,398 posts)")
+* [Ukrainian War VII: Everything has a p… (8,650)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (8,650 posts)")
 
 Advertisement
 
