@@ -28,6 +28,8 @@ Accept AllReject All
 
 [Merch](https://shop.unstoppabledomains.com/)
 
+[DNS Pricing](https://unstoppabledomains.com/dns-pricing)
+
 ###### Company
 
 [About Us](https://unstoppabledomains.com/about)
