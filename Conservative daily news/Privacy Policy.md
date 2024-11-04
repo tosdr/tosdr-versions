@@ -2,14 +2,14 @@ Monday, November 4 2024
 
 Breaking News
 
-* [Mysterious PACs Attempting To Split The Vote As Election Draws Near](https://www.conservativedailynews.com/2024/11/mysterious-pacs-attempting-to-split-the-vote-as-election-draws-near/)
-* [All Souls Day. Separating Superstition From Verity.](https://www.conservativedailynews.com/2024/11/all-souls-day-separating-superstition-from-verity/)
-* [Mark Cuban Backtracks On Claim That Trump Is ‘Never Around Strong, Intelligent Women’](https://www.conservativedailynews.com/2024/11/mark-cuban-backtracks-on-claim-that-trump-is-never-around-strong-intelligent-women/)
-* [President Joe Biden’s Schedule for Saturday, November 2, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-saturday-november-2-2024/)
-* [Why Should Anyone Waste A Minute On Liz Cheney](https://www.conservativedailynews.com/2024/11/why-should-anyone-waste-a-minute-on-liz-cheney/)
-* [Legalizing Pot In Florida Is A Bad Idea — Just Ask Colorado and California](https://www.conservativedailynews.com/2024/11/legalizing-pot-in-florida-is-a-bad-idea-just-ask-colorado-and-california/)
-* [Ana Kasparian the Latest “Progressive” to Leave the “Cruel” Intolerant Left](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/)
-* [Court Orders Swing State To Release List Of Over 200,000 Registered Voters Who Did Not Provide Proof Of Citizenship](https://www.conservativedailynews.com/2024/11/court-orders-swing-state-to-release-list-of-over-200000-registered-voters-who-did-not-provide-proof-of-citizenship/)
+* [Melania Trump — Just What The Country Needs](https://www.conservativedailynews.com/2024/11/melania-trump-just-what-the-country-needs/)
+* [Biden-Harris Policies Left American Workers In The Lurch](https://www.conservativedailynews.com/2024/11/biden-harris-policies-left-american-workers-in-the-lurch/)
+* [Final 2024 NY Times/Siena College Polls Shows Contradictions, Surprising Shifts In Key States](https://www.conservativedailynews.com/2024/11/final-2024-ny-times-siena-college-polls-shows-contradictions-surprising-shifts-in-key-states/)
+* [Voter Says He Cast Ballot For Harris As He Fears Her Supporters Would Go Nuts If She Loses](https://www.conservativedailynews.com/2024/11/voter-says-he-cast-ballot-for-harris-as-he-fears-her-supporters-would-go-nuts-if-she-loses/)
+* [Washington Gears Up To Vote On Policies Blamed For High Gas Prices In US](https://www.conservativedailynews.com/2024/11/washington-gears-up-to-vote-on-policies-blamed-for-high-gas-prices-in-us/)
+* [American Adversaries Pull Out The Stops To Derail Trump’s White House Bid](https://www.conservativedailynews.com/2024/11/american-adversaries-pull-out-the-stops-to-derail-trumps-white-house-bid/)
+* [Nevada Reporter Tells MSNBC Republicans’ Statewide Lead In Early Voting ‘Has Caused A Lot Of Concern For Democrats’](https://www.conservativedailynews.com/2024/11/nevada-reporter-tells-msnbc-republicans-statewide-lead-in-early-voting-has-caused-a-lot-of-concern-for-democrats/)
+* [Here’s What Experts Expect — And Hope — To See From Trump’s Government Efficiency Agency](https://www.conservativedailynews.com/2024/11/heres-what-experts-expect-and-hope-to-see-from-trumps-government-efficiency-agency/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -116,82 +116,82 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Ana-Kasparian-220x150.jpg)](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-220x150.jpg)](https://www.conservativedailynews.com/2024/11/final-2024-ny-times-siena-college-polls-shows-contradictions-surprising-shifts-in-key-states/)
     
-    [Ana Kasparian the Latest “Progressive” to Leave the “Cruel” Intolerant Left](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/)
+    [Final 2024 NY Times/Siena College Polls Shows Contradictions, Surprising Shifts In Key States](https://www.conservativedailynews.com/2024/11/final-2024-ny-times-siena-college-polls-shows-contradictions-surprising-shifts-in-key-states/)
     
-    November 1, 2024
+    November 4, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/Oops-mistake-shock-2-220x150.png)](https://www.conservativedailynews.com/2024/10/the-dnc-is-desperate-and-sent-this-to-my-daughter/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5735-220x150.png)](https://www.conservativedailynews.com/2024/11/sorry-joe-rogan-i-have-to-do-saturday-night-live/)
     
-    [The DNC is Desperate and Sent THIS to my Daughter](https://www.conservativedailynews.com/2024/10/the-dnc-is-desperate-and-sent-this-to-my-daughter/)
+    [Sorry, Joe Rogan. I Have To Do Saturday Night Live](https://www.conservativedailynews.com/2024/11/sorry-joe-rogan-i-have-to-do-saturday-night-live/)
     
-    October 31, 2024
+    November 4, 2024
     
 
 Recent Posts
 
-* [![undecided voter](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg101724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/mysterious-pacs-attempting-to-split-the-vote-as-election-draws-near/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/07/Melania-Trump-roundtable-2.jpg)](https://www.conservativedailynews.com/2024/11/melania-trump-just-what-the-country-needs/)
     
-    [Mysterious PACs Attempting To Split The Vote As Election Draws Near](https://www.conservativedailynews.com/2024/11/mysterious-pacs-attempting-to-split-the-vote-as-election-draws-near/)
+    [Melania Trump — Just What The Country Needs](https://www.conservativedailynews.com/2024/11/melania-trump-just-what-the-country-needs/)
     
-    November 3, 2024
+    November 4, 2024
     
-* [![Kamala Harris Liz Cheney 2024 election Joy polls](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/the-democrat-media-push-to-settle-for-divisive-mediocrity/)
+* [![Joe Biden job creation inflation recession economy Bidenomics](https://www.conservativedailynews.com/wp-content/uploads/2022/08/gv080822dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/biden-harris-policies-left-american-workers-in-the-lurch/)
     
-    [The Democrat-Media Push to Settle for Divisive Mediocrity](https://www.conservativedailynews.com/2024/11/the-democrat-media-push-to-settle-for-divisive-mediocrity/)
+    [Biden-Harris Policies Left American Workers In The Lurch](https://www.conservativedailynews.com/2024/11/biden-harris-policies-left-american-workers-in-the-lurch/)
     
-    November 3, 2024
+    November 4, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/01-celebrate-an-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/toon-soon/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-220x150.jpg)](https://www.conservativedailynews.com/2024/11/final-2024-ny-times-siena-college-polls-shows-contradictions-surprising-shifts-in-key-states/)
     
-    [Toon Soon?](https://www.conservativedailynews.com/2024/11/toon-soon/)
+    [Final 2024 NY Times/Siena College Polls Shows Contradictions, Surprising Shifts In Key States](https://www.conservativedailynews.com/2024/11/final-2024-ny-times-siena-college-polls-shows-contradictions-surprising-shifts-in-key-states/)
     
-    November 3, 2024
+    November 4, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg110324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/washington-compost/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/voter-for-harris-220x150.jpg)](https://www.conservativedailynews.com/2024/11/voter-says-he-cast-ballot-for-harris-as-he-fears-her-supporters-would-go-nuts-if-she-loses/)
     
-    [Washington Compost](https://www.conservativedailynews.com/2024/11/washington-compost/)
+    [Voter Says He Cast Ballot For Harris As He Fears Her Supporters Would Go Nuts If She Loses](https://www.conservativedailynews.com/2024/11/voter-says-he-cast-ballot-for-harris-as-he-fears-her-supporters-would-go-nuts-if-she-loses/)
     
-    November 3, 2024
+    November 4, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/church-220x150.jpg)](https://www.conservativedailynews.com/2024/11/all-souls-day-separating-superstition-from-verity/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/11/Voter-ID-220x150.jpg)](https://www.conservativedailynews.com/2024/11/washington-gears-up-to-vote-on-policies-blamed-for-high-gas-prices-in-us/)
     
-    [All Souls Day. Separating Superstition From Verity.](https://www.conservativedailynews.com/2024/11/all-souls-day-separating-superstition-from-verity/)
+    [Washington Gears Up To Vote On Policies Blamed For High Gas Prices In US](https://www.conservativedailynews.com/2024/11/washington-gears-up-to-vote-on-policies-blamed-for-high-gas-prices-in-us/)
     
-    November 2, 2024
+    November 4, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Mark-Cuban-220x150.jpg)](https://www.conservativedailynews.com/2024/11/mark-cuban-backtracks-on-claim-that-trump-is-never-around-strong-intelligent-women/)
+* [![China Russia Iran Hamas](https://www.conservativedailynews.com/wp-content/uploads/2023/10/image-36-220x150.png)](https://www.conservativedailynews.com/2024/11/american-adversaries-pull-out-the-stops-to-derail-trumps-white-house-bid/)
     
-    [Mark Cuban Backtracks On Claim That Trump Is ‘Never Around Strong, Intelligent Women’](https://www.conservativedailynews.com/2024/11/mark-cuban-backtracks-on-claim-that-trump-is-never-around-strong-intelligent-women/)
+    [American Adversaries Pull Out The Stops To Derail Trump’s White House Bid](https://www.conservativedailynews.com/2024/11/american-adversaries-pull-out-the-stops-to-derail-trumps-white-house-bid/)
     
-    November 2, 2024
+    November 4, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/Joe-Biden-speech-220x150.png)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-saturday-november-2-2024/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/11/Counting-ballots-220x150.jpg)](https://www.conservativedailynews.com/2024/11/nevada-reporter-tells-msnbc-republicans-statewide-lead-in-early-voting-has-caused-a-lot-of-concern-for-democrats/)
     
-    [President Joe Biden’s Schedule for Saturday, November 2, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-saturday-november-2-2024/)
+    [Nevada Reporter Tells MSNBC Republicans’ Statewide Lead In Early Voting ‘Has Caused A Lot Of Concern For Democrats’](https://www.conservativedailynews.com/2024/11/nevada-reporter-tells-msnbc-republicans-statewide-lead-in-early-voting-has-caused-a-lot-of-concern-for-democrats/)
     
-    November 2, 2024
+    November 4, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg110224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/garbage-2/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Donald-Trump-sign-executive-order-Air-Force-One.png)](https://www.conservativedailynews.com/2024/11/heres-what-experts-expect-and-hope-to-see-from-trumps-government-efficiency-agency/)
     
-    [Garbage](https://www.conservativedailynews.com/2024/11/garbage-2/)
+    [Here’s What Experts Expect — And Hope — To See From Trump’s Government Efficiency Agency](https://www.conservativedailynews.com/2024/11/heres-what-experts-expect-and-hope-to-see-from-trumps-government-efficiency-agency/)
     
-    November 2, 2024
+    November 4, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [The Banish Backcountry Suppressor Review](https://www.thegunpage.com/the-banish-backcountry-suppressor-review/10611653)
+* [9mm Vs. 10mm: Self-Defense Battle In New Hampshire Parking Lot](https://www.thegunpage.com/9mm-vs-10mm-self-defense-battle-in-new-hampshire-parking-lot/10611650)
+* [Top FIVE 3D Printed Guns ft. Print Shoot Repeat!](https://www.thegunpage.com/top-five-3d-printed-guns-ft-print-shoot-repeat/10611646)
+* [Ohio City Drops Park Gun Ban Thanks To Alert Citizen](https://www.thegunpage.com/ohio-city-drops-park-gun-ban-thanks-to-alert-citizen/10611644)
+* [TFB Weekly Web Deals 112: Deals for November 4th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-112-deals-for-november-4th-2024/10611647)
+* [2024 NSCA National Championship: Team Winchester’s Matarese Secures Third Place In Main Event](https://www.thegunpage.com/2024-nsca-national-championship-team-winchesters-matarese-secures-third-place-in-main-event/10611652)
+* [Magpul’s New PMAG 20 LR/SR GEN M3 Magazine Has Round Count Verification Window](https://www.thegunpage.com/magpuls-new-pmag-20-lr-sr-gen-m3-magazine-has-round-count-verification-window/10611645)
 * [Foxtrot Mike and KAK Suppressed .45 ACP Build](https://www.thegunpage.com/foxtrot-mike-and-kak-suppressed-45-acp-build/10611638)
 * [Texas AG, Fairgoers Sue Over State Fair Carry Ban](https://www.thegunpage.com/texas-ag-fairgoers-sue-over-state-fair-carry-ban/10611636)
 * [CMP Class Teaches Advanced M1 Garand Rifle Maintenance](https://www.thegunpage.com/cmp-class-teaches-advanced-m1-garand-rifle-maintenance/10611631)
-* [New Podcast, Built to Survive, Launches](https://www.thegunpage.com/new-podcast-built-to-survive-launches/10611625)
-* [Silencer Saturday #353: The SilencerCo Velos LBP](https://www.thegunpage.com/silencer-saturday-353-the-silencerco-velos-lbp/10611627)
-* [Ballistics for Dummies: A Beginner’s Guide to Bullet Flight](https://www.thegunpage.com/ballistics-for-dummies-a-beginners-guide-to-bullet-flight/10611619)
-* [Classic SSUSA: The Inaugural NRA World Shooting Championship](https://www.thegunpage.com/classic-ssusa-the-inaugural-nra-world-shooting-championship/10611618)
-* [TFB Review: Trijicon Tenmile HX 5-25x50mm FFP](https://www.thegunpage.com/tfb-review-trijicon-tenmile-hx-5-25x50mm-ffp/10611615)
-* [POTD: Spooky Zastava USA M90](https://www.thegunpage.com/potd-spooky-zastava-usa-m90/10611616)
-* [TFB Podcast Roundup 153: The November 1st Roundup](https://www.thegunpage.com/tfb-podcast-roundup-153-the-november-1st-roundup/10611617)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -233,6 +233,7 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Turning the Page](https://www.conservativedailynews.com/2024/11/turning-the-page/#comment-783017)
 * Richard McDonough on [Ana Kasparian the Latest “Progressive” to Leave the “Cruel” Intolerant Left](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/#comment-783016)
 * Sundevil75 on [Legalizing Pot In Florida Is A Bad Idea — Just Ask Colorado and California](https://www.conservativedailynews.com/2024/11/legalizing-pot-in-florida-is-a-bad-idea-just-ask-colorado-and-california/#comment-783007)
 * charles wilkins on [Here’s How Much More Everyday Items Cost Than When You Voted Four Years Ago](https://www.conservativedailynews.com/2024/10/heres-how-much-more-everyday-items-cost-than-when-you-voted-four-years-ago/#comment-783006)
@@ -241,7 +242,6 @@ Recent Comments
 * Stanley Warner on [Court Orders Swing State To Release List Of Over 200,000 Registered Voters Who Did Not Provide Proof Of Citizenship](https://www.conservativedailynews.com/2024/11/court-orders-swing-state-to-release-list-of-over-200000-registered-voters-who-did-not-provide-proof-of-citizenship/#comment-782997)
 * Stanley Warner on [Problem-Riddled Boeing Axes Entire Diversity Division](https://www.conservativedailynews.com/2024/11/problem-riddled-boeing-axes-entire-diversity-division/#comment-782996)
 * Stanley Warner on [Ana Kasparian the Latest “Progressive” to Leave the “Cruel” Intolerant Left](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/#comment-782995)
-* Terry Carlson on [Ana Kasparian the Latest “Progressive” to Leave the “Cruel” Intolerant Left](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/#comment-782994)
 
 [Close](#)
 
