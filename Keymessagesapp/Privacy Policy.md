@@ -305,7 +305,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGDNQc3VBQ0JOeUZhU2c2alRrRnlIM1E9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljLy2l8)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGDVhOHRRYUJHMlJMbTN2SmUxandWeGc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljLcZqs)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/qw_MVfLwKrZduwQyyU9qx1246GCpOGNIgnoqUezlcfpfAFKmZ0aH1iBqLA7bsYLa6hs=s64)
 
@@ -322,6 +322,14 @@ Robokiller - Spam Call Blocker
 Mobile Heroes
 
 4.1_star_](https://play.google.com/store/apps/details?id=com.robokiller.app)
+
+[![Thumbnail image](https://play-lh.googleusercontent.com/xMP6fnuROLdxkn6bCLuRqqFjuPY634ovxFCf1FVy4baN6Eh2X8C5N3TRuSvoXlVQy6U=s64)
+
+BlueEye
+
+Paradox (Security Systems)
+
+2.7_star_](https://play.google.com/store/apps/details?id=com.paradox.insitegoldv2)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/14NO0m0A4HsPPx_5NE1t00HZA3M2rV0gRAM7609uDeazxcVD7IvzUphL5FV3yf5WLU8=s64)
 
@@ -346,14 +354,6 @@ Should I Answer?
 Mister Group s.r.o.
 
 3.8_star_](https://play.google.com/store/apps/details?id=org.mistergroup.shouldianswer)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/NqnlSzi-bb7-IHRge-fSmLuDnUKkZxjs2Abe-3bAOi3YFWTGBh_DCGrfMyFEIhZn8Zg=s64)
-
-MySudo – Protect your identity
-
-Anonyome Labs, Inc
-
-4.1_star_](https://play.google.com/store/apps/details?id=com.anonyome.mysudo)
 
 [_flag_Flag as inappropriate](https://support.google.com/googleplay/?p=report_content)
 
