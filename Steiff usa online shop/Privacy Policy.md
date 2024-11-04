@@ -46,6 +46,7 @@ Shopping cart
         * [Birthday Gifts](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/gift-ideas/birthday-gifts)
         * [Good Luck Gifts](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/gift-ideas/good-luck-gifts)
         * [Plush Keyrings](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/gift-ideas/plush-keyrings)
+        * [Christmas Gifts](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/gift-ideas/christmas-gifts)
         * [Baby Gifts under $50](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/gift-ideas/baby-gifts-under-50)
         
     
