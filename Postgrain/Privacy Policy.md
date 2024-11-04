@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![Computador numa mesa, simbolizando a inteligência artificial no atendimento](https://postgrain.com/wp-content/uploads/2024/10/THUMB-BLOG-Inteligencia-artificial-em-foco-no-atendimento-ao-cliente-580x290.jpg)](https://postgrain.com/?post_type=post&p=12688)
+[![Moça numa sala com o notebook na sua frente atualizando o cartão de crédito no postgrain](https://postgrain.com/wp-content/uploads/2024/11/THUMB-BLOG-Tutorial-Como-atualizar-os-dados-do-seu-cartao-no-Postgrain-580x290.jpg)](https://postgrain.com/?post_type=post&p=12693)
 
-[Inteligência artificial no atendimento ao cliente](https://postgrain.com/?post_type=post&p=12688)
+[Tutorial: Como atualizar o seu cartão de crédito no Postgrain](https://postgrain.com/?post_type=post&p=12693)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12688)
+[Leia mais](https://postgrain.com/?post_type=post&p=12693)
 
 Ilustração de um dos personagens do Postgrain
 
