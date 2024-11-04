@@ -36,18 +36,18 @@
         
         Synology hurries out patches for zero-days exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/synology-fixed-two-critical-zero-days-exploited-at-pwn2own-within-days/)
     
+    * [![This $50 bundle helps prepare you for the CompTIA exams on a budget](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        This $50 bundle helps prepare you for the CompTIA exams on a budget](https://www.bleepingcomputer.com/offer/deals/this-50-bundle-helps-prepare-you-for-the-comptia-exams-on-a-budget/)
+    * [![Microsoft confirms Windows Server 2025 blue screen, install issues](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft confirms Windows Server 2025 blue screen, install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-server-2025-blue-screen-install-issues/)
+    * [![Cisco says DevHub site leak won’t enable future breaches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Cisco says DevHub site leak won’t enable future breaches](https://www.bleepingcomputer.com/news/security/cisco-says-devhub-site-leak-wont-enable-future-breaches/)
     * [![Meet Interlock — The new ransomware targeting FreeBSD servers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Meet Interlock — The new ransomware targeting FreeBSD servers](https://www.bleepingcomputer.com/news/security/meet-interlock-the-new-ransomware-targeting-freebsd-servers/)
-    * [![ChatGPT-4o can be used for autonomous voice-based scams](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ChatGPT-4o can be used for autonomous voice-based scams](https://www.bleepingcomputer.com/news/security/chatgpt-4o-can-be-used-for-autonomous-voice-based-scams/)
-    * [![Get 2TB lifetime cloud storage with FileJump — secure storage, no fees](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Get 2TB lifetime cloud storage with FileJump — secure storage, no fees](https://www.bleepingcomputer.com/offer/deals/get-2tb-lifetime-cloud-storage-with-filejump-secure-storage-no-fees/)
-    * [![Microsoft SharePoint RCE bug exploited to breach corporate network](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft SharePoint RCE bug exploited to breach corporate network](https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-rce-bug-exploited-to-breach-corporate-network/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
