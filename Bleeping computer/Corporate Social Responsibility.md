@@ -36,18 +36,18 @@
         
         Synology hurries out patches for zero-days exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/synology-fixed-two-critical-zero-days-exploited-at-pwn2own-within-days/)
     
-    * [![This $50 bundle helps prepare you for the CompTIA exams on a budget](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Windows Server 2025 released—here are the new features](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        This $50 bundle helps prepare you for the CompTIA exams on a budget](https://www.bleepingcomputer.com/offer/deals/this-50-bundle-helps-prepare-you-for-the-comptia-exams-on-a-budget/)
-    * [![Microsoft confirms Windows Server 2025 blue screen, install issues](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Windows Server 2025 released—here are the new features](https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-released-here-are-the-new-features/)
+    * [![Custom ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft confirms Windows Server 2025 blue screen, install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-server-2025-blue-screen-install-issues/)
-    * [![Cisco says DevHub site leak won’t enable future breaches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Custom "Pygmy Goat" malware used in Sophos Firewall hack on govt network](https://www.bleepingcomputer.com/news/security/custom-pygmy-goat-malware-used-in-sophos-firewall-hack-on-govt-network/)
+    * [![Windows infected with backdoored Linux VMs in new phishing attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Cisco says DevHub site leak won’t enable future breaches](https://www.bleepingcomputer.com/news/security/cisco-says-devhub-site-leak-wont-enable-future-breaches/)
-    * [![Meet Interlock — The new ransomware targeting FreeBSD servers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Windows infected with backdoored Linux VMs in new phishing attacks](https://www.bleepingcomputer.com/news/security/windows-infected-with-backdoored-linux-vms-in-new-phishing-attacks/)
+    * [![Solving the painful password problem with better policies](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Meet Interlock — The new ransomware targeting FreeBSD servers](https://www.bleepingcomputer.com/news/security/meet-interlock-the-new-ransomware-targeting-freebsd-servers/)
+        Solving the painful password problem with better policies](https://www.bleepingcomputer.com/news/security/solving-the-painful-password-problem-with-better-policies/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -309,12 +309,12 @@ Popular Stories
 * [![ChatGPT](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     OpenAI's new ChatGPT Search Chrome extension feels like a search hijacker](https://www.bleepingcomputer.com/news/security/openais-new-chatgpt-search-chrome-extension-feels-like-a-search-hijacker/)
+* [![Hacker box](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Meet Interlock — The new ransomware targeting FreeBSD servers](https://www.bleepingcomputer.com/news/security/meet-interlock-the-new-ransomware-targeting-freebsd-servers/)
 * [![Azure Virtual Desktop](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Microsoft warns Azure Virtual Desktop users of black screen issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-azure-virtual-desktop-users-of-black-screen-issues/)
-* [![HACLA Housing Authority of the City of Los Angeles](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    LA housing authority confirms breach claimed by Cactus ransomware](https://www.bleepingcomputer.com/news/security/la-housing-authority-confirms-breach-claimed-by-cactus-ransomware/)
 
 ##### Follow us:
 
