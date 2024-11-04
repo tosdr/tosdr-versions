@@ -1,10 +1,10 @@
-**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
+**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111604-mid-day-digest-2024-11-01?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111666-mid-day-digest-2024-11-04?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -108,7 +108,7 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111604-mid-day-digest-2024-11-01?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111666-mid-day-digest-2024-11-04?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -132,8 +132,8 @@ Last Updated: November 15, 2011.
 *      [Allen West The Rules of Radicals](https://patriotpost.us/opinion/111607-the-rules-of-radicals-2024-11-04)
 *      [Jeff Jacoby What Makes Vote-Buying Wrong?](https://patriotpost.us/opinion/111629-what-makes-vote-buying-wrong-2024-11-04)
 *      [The Washington Stand Headwinds for Harris: Miniscule Job Growth in Last Pre-Election Report](https://patriotpost.us/opinion/111639-headwinds-for-harris-miniscule-job-growth-in-last-pre-election-report-2024-11-04)
+*      [Guest Commentary Kamala to the Rescue?](https://patriotpost.us/opinion/111667-kamala-to-the-rescue-2024-11-04)
 *      [The Babylon Bee In Disgusting Call for Violence, Trump Says Politicians Should Stop Sending Kids Off to War](https://patriotpost.us/opinion/111652-in-disgusting-call-for-violence-trump-says-politicians-should-stop-sending-kids-off-to-war-2024-11-04)
-*      [Christine Yeargin The Path to Saving America Runs Through Homeschooling](https://patriotpost.us/opinion/111609-the-path-to-saving-america-runs-through-homeschooling-2024-11-02)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,7 +147,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT6VDT6H9HTK9EJ190K832.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[Wear Your Patriotism on Your Sleeve
+
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
