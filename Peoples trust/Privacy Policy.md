@@ -303,10 +303,6 @@ Privacy Policy
 
 [Home](https://www.peoplestrust.com/en/) > [Legal](https://www.peoplestrust.com/en/legal/) > [Privacy & Security](https://www.peoplestrust.com/en/legal/privacy-security/) > Privacy Policy
 
-**Notice:** Due to a planned system upgrade, online banking will be unavailable between 4:30 am – 10:30 am ET (1:30 am – 07:30 am PT) on Sunday November 03, 2024. We apologize for any inconvenience.
-
-**Attention:** En raison d'une mise à jour de nos systèmes, les services bancaires en ligne seront interrompus entre 04h30 et 10h30 heure de l'Est (01h30 et 07h30 heure du Pacifique), le Dimanche 03 Novembre 2024. Nous vous prions de nous excuser pour tout désagrément occasionné.
-
 ### **PRIVACY POLICY**
 
 #### **Protecting your privacy – we’re in it together!**
