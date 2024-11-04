@@ -102,6 +102,8 @@ Search
         * [Logistics](https://www.floridadisaster.org/dem/response/logistics/)
         * [Operations](https://www.floridadisaster.org/dem/response/operations/)
             * [State Watch Office](https://www.floridadisaster.org/dem/response/operations/state-watch-office/)
+            * [EOC Position Credentialing Program](https://www.floridadisaster.org/dem/response/operations/eoc-position-credentialing-program/)
+                * [EOC Credentialing Program Frequently Asked Questions](https://www.floridadisaster.org/dem/response/operations/eoc-position-credentialing-program/eoc-credentialing-program-frequently-asked-questions/)
         * [Regional Response Coordinators](https://www.floridadisaster.org/dem/response/regional-response-coordinators/)
         * [Technological Hazards](https://www.floridadisaster.org/dem/response/technological-hazards/)
             * [State Emergency Response Commission](https://www.floridadisaster.org/dem/response/technological-hazards/serc/)
@@ -224,9 +226,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Saturday, November 2, 2024**
+**Monday, November 4, 2024**
 
-**...High Pressure to Maintain Mostly Dry Conditions Across North Florida...Plume Of Moisture Embedded Within Onshore Flow Along East Coast To Produce Isolated to Scattered Showers and Thunderstorms Across the Peninsula Throughout the Day****...Breezy Easterly Winds With Gusts Upwards of 15-25 MPH Along Peninsula and Keys****...Locally Sensitive Wildfire Conditions Persist Along the Florida Panhandle Due to Worsening Drought Conditions...****Moderate to High Risk for Rip Currents Along Florida Panhandle and East Coast...Red Tide Has Been Observed At Background to High Concentrations in 76 Samples Along Florida's Gulf Coast Over the Past Week...****Minor to Moderate Riverine Flooding Ongoing For Portions Of The Withlacoochee and St. Johns Rivers...NHC Continues to Monitor Subtropical Storm Patty and Disturbances In the Southwestern Caribbean Sea (80%) and Near the Greater Antilles (10%)...**
+**...High Pressure Continues to Dominate Statewide Keeping Conditions Mostly Dry Across North and West Florida...Isolated Showers to Drift Onshore Along East Coast Then Quickly Move Westward Throughout the Day; Activity to Remain Light and Brief...Breezy Wind Gusts to Continue Nearly Statewide, Especially Across Central and South Florida...Above Normal Temperatures Statewide this Afternoon...Plume of Moisture Moving Westward from Bahamas Toward Southeast Florida and Keys to Bring Isolated to Scattered Showers With Possible Thunderstorms Late Overnight or Early Tuesday Morning...High Risk for Rip Currents Along All Panhandle and East Coast Beaches Due to Dangerous Surf and Onshore Winds...Minor to Moderate Riverine Flooding Continues for Withlacoochee and St. Johns...NHC Continues to Monitor Two (2) Named/Numbered Systems and One (1) Potential Disturbance in the Atlantic Basin...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
