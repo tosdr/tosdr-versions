@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Dolly Parton smiling](https://www.women.com/img/gallery/why-dolly-parton-is-childless-by-choice-not-that-we-deserve-to-ask/intro-1730135417.jpg)](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
+*  [![Stevie Nicks being photographed](https://www.women.com/img/gallery/stevie-nicks-reason-for-being-childless-by-choice-makes-so-much-sense/intro-1730325609.jpg)](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
     
     [Living](https://www.women.com/category/living/)
     
     [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
     
-    [Why Dolly Parton Is Childless By Choice (Not That We Deserve To Ask)](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
-    ===================================================================================================================================================================
+    [Stevie Nicks's Reason For Being Childless By Choice Makes So Much Sense](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
+    ========================================================================================================================================================================
     
-    The decision to have or not have a child is a big one. For Dolly Parton, her career played a major role in her choice to not have kids.
+    While Stevie Nicks has experienced major success in her career, she joins the ranks of the many celebrities who are unapologetically childfree.
     
-    By Madison Emily Whisenand [Read More](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
+    By Madison Emily Whisenand [Read More](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
     
-* *  [![Dylan Mulvaney](https://www.women.com/img/gallery/memoirs-we-cant-wait-to-read-in-2025/intro-1730318048.jpg)](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
+* *  [![Dolly Parton smiling](https://www.women.com/img/gallery/why-dolly-parton-is-childless-by-choice-not-that-we-deserve-to-ask/intro-1730135417.jpg)](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
+        
+        [Living](https://www.women.com/category/living/)
+        
+        [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+        
+        ### [Why Dolly Parton Is Childless By Choice (Not That We Deserve To Ask)](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
+        
+        The decision to have or not have a child is a big one. For Dolly Parton, her career played a major role in her choice to not have kids.
+        
+        By Madison Emily Whisenand [Read More](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
+        
+    *  [![Dylan Mulvaney](https://www.women.com/img/gallery/memoirs-we-cant-wait-to-read-in-2025/intro-1730318048.jpg)](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
         
         [Living](https://www.women.com/category/living/)
         
@@ -66,22 +78,22 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
         
-    *  [![Kylie Jenner at an event](https://www.women.com/img/gallery/kylie-jenner-is-showing-us-the-trendiest-way-to-wear-watches-in-2024/intro-1730230338.jpg)](https://www.women.com/1700478/kylie-jenner-trendiest-way-wear-watches-2024/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-        
-        ### [Kylie Jenner Is Showing Us The Trendiest Way To Wear Watches In 2024](https://www.women.com/1700478/kylie-jenner-trendiest-way-wear-watches-2024/)
-        
-        Thanks to Kylie Jenner, classic time pieces are more on trend than ever. Here's how the star is using the accessory to bridge luxury and practicality.
-        
-        By Bernadette Roe [Read More](https://www.women.com/1700478/kylie-jenner-trendiest-way-wear-watches-2024/)
-        
 
 More Stories
 ------------
 
+*  [![Ehan and Vinay Kamat](https://www.women.com/img/gallery/heres-what-went-down-with-solemender-after-shark-tank/intro-1730216668.jpg)](https://www.women.com/1700084/what-went-down-solemender-after-shark-tank/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Emily Hutchinson
+    
+    ### [Here's What Went Down With Solemender After Shark Tank](https://www.women.com/1700084/what-went-down-solemender-after-shark-tank/)
+    
+    As a young entrepreneur, a lot of doors closed when Ehan Kamat tried to get the word out about Solmender. But all he needed was a little time.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1700084/what-went-down-solemender-after-shark-tank/)
+    
 *  [![gwen stefani and husband](https://www.women.com/img/gallery/the-5-biggest-glow-downs-in-celebrity-fashion-history/intro-1730321365.jpg)](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -105,6 +117,18 @@ More Stories
     We love to see celebrity couples happy, but sometimes their public displays of affection get a little too steamy. These awkward moments were definitely NSFW.
     
     By Emily Hutchinson [Read More](https://www.women.com/1700545/awkward-celebrity-pda-moments/)
+    
+*  [![Kylie Jenner at an event](https://www.women.com/img/gallery/kylie-jenner-is-showing-us-the-trendiest-way-to-wear-watches-in-2024/intro-1730230338.jpg)](https://www.women.com/1700478/kylie-jenner-trendiest-way-wear-watches-2024/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    
+    ### [Kylie Jenner Is Showing Us The Trendiest Way To Wear Watches In 2024](https://www.women.com/1700478/kylie-jenner-trendiest-way-wear-watches-2024/)
+    
+    Thanks to Kylie Jenner, classic time pieces are more on trend than ever. Here's how the star is using the accessory to bridge luxury and practicality.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1700478/kylie-jenner-trendiest-way-wear-watches-2024/)
     
 *  [![A woman reading a book](https://www.women.com/img/gallery/the-5-best-books-of-the-2020s-for-millennials/intro-1730307958.jpg)](https://www.women.com/1701412/best-books-for-women-in-30s/)
     
@@ -381,30 +405,6 @@ More Stories
     When you're on camera as much as the Trump family is, it's expected that there are going to be some makeup mishaps. We're looking at some of the worst.
     
     By Emily Hutchinson [Read More](https://www.women.com/1692500/biggest-makeup-mistakes-from-trump-women/)
-    
-*  [![Sam Taylor-Johnson and Aaron Taylor-Johnson](https://www.women.com/img/gallery/there-are-so-many-red-flags-in-sam-and-aaron-taylor-johnsons-relationship/intro-1729291144.jpg)](https://www.women.com/1692528/red-flags-aaron-taylor-johnson-sam-relationship/)
-    
-    [Relationships](https://www.women.com/category/relationships/)
-    
-    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
-    
-    ### [There Are So Many Red Flags In Sam And Aaron Taylor-Johnson's Relationship](https://www.women.com/1692528/red-flags-aaron-taylor-johnson-sam-relationship/)
-    
-    Sam and Aaron Taylor-Johnson have long raised eyebrows because of their age gap. However, there are more red flags in the relationship than the age difference.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1692528/red-flags-aaron-taylor-johnson-sam-relationship/)
-    
-*  [![Miley Cyrus smiling](https://www.women.com/img/gallery/celebs-who-took-a-stunning-leap-from-long-to-short-hair/intro-1729283248.jpg)](https://www.women.com/1692420/celebs-took-stunning-leap-from-long-to-short-hair/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [Celebs Who Took A Stunning Leap From Long To Short Hair](https://www.women.com/1692420/celebs-took-stunning-leap-from-long-to-short-hair/)
-    
-    It's pretty common for celebs to change up their hair, but these famous folks showed us exactly how freeing a dramatic cut can be.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1692420/celebs-took-stunning-leap-from-long-to-short-hair/)
     
 
 Back
