@@ -211,9 +211,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Canada Navy chief sees more chances for multiservice exercises with Japan](https://www.japantimes.co.jp/news/2024/11/04/japan/canada-navy-commander-interview/ "Canada Navy chief sees more chances for multiservice exercises with Japan")
-
-1 mins ago
-
-[Top diplomat says Foreign Ministry will ‘quietly examine’ revising SOFA pact](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/foreign-minister-iwaya-interview/ "Top diplomat says Foreign Ministry will ‘quietly examine’ revising SOFA pact")
-
-40 mins ago
-
-[Netanyahu’s office accused of leaks to foil Gaza cease-fire](https://www.japantimes.co.jp/news/2024/11/04/world/politics/israeli-leak-netanyahu-aide/ "Netanyahu’s office accused of leaks to foil Gaza cease-fire")
-
-54 mins ago
-
-[Chinese solar firms, ever-nimble, go where U.S. tariffs don't reach](https://www.japantimes.co.jp/business/2024/11/04/tech/chinese-solar-firms-us-tariffs/ "Chinese solar firms, ever-nimble, go where U.S. tariffs don't reach")
+[Fifth time’s a charm as H3 rocket puts defense satellite in orbit](https://www.japantimes.co.jp/news/2024/11/04/japan/h3-rocket-x-band-satellite/ "Fifth time’s a charm as H3 rocket puts defense satellite in orbit")
 
 1 hours ago
 
-[Moldova's pro-Western Sandu claims election win after meddling allegations](https://www.japantimes.co.jp/news/2024/11/04/world/politics/moldova-sandu-election-meddling/ "Moldova's pro-Western Sandu claims election win after meddling allegations")
+[Sikh activists see it as freedom. India calls it terrorism.](https://www.japantimes.co.jp/news/2024/11/04/asia-pacific/politics/sikh-activists-india-terrorism/ "Sikh activists see it as freedom. India calls it terrorism.")
+
+1 hours ago
+
+[Indonesia volcano eruption kills six and sets villages aflame](https://www.japantimes.co.jp/news/2024/11/04/asia-pacific/indonesia-volcano-eruption/ "Indonesia volcano eruption kills six and sets villages aflame")
 
 2 hours ago
+
+[Horse-trading continues ahead of next week's prime minister vote](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/parties-lobby-prime-minister-election/ "Horse-trading continues ahead of next week's prime minister vote")
+
+2 hours ago
+
+[Alleged recruiter of Saitama robbery ring arrested](https://www.japantimes.co.jp/news/2024/11/04/japan/crime-legal/crime-recruiter-arrested/ "Alleged recruiter of Saitama robbery ring arrested")
+
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
