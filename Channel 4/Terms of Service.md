@@ -62,7 +62,6 @@
     * [Take Part](https://www.channel4.com/4viewers/take-part)
         
         * [Chateau: DIY](https://www.channel4.com/4viewers/take-part/chateau-DIY)
-        * [Come Dine With Me](https://www.channel4.com/4viewers/take-part/come-dine-me)
         * [Countdown](https://www.channel4.com/4viewers/take-part/countdown)
         * [First Dates](https://www.channel4.com/4viewers/take-part/first-dates)
         * [Four in a Bed](https://www.channel4.com/4viewers/take-part/four-in-a-bed)
@@ -76,7 +75,6 @@
         * [Kirstie and Phil's Love It or List It](https://www.channel4.com/4viewers/take-part/kirstie-and-phils-love-it-or-list-it)
         * [Location, Location, Location](https://www.channel4.com/4viewers/takepart/location)
         * [Married at First Sight UK](https://www.channel4.com/4viewers/takepart/married-at-first-sight)
-        * [Millionaire Hoarders](https://www.channel4.com/4viewers/take-part/millionaire-hoarders)
         * [Naked Attraction](https://www.channel4.com/4viewers/take-part/naked-attraction)
         * [A New Life in the Sun](https://www.channel4.com/4viewers/take-part/new-life-sun)
         * [Open House: The Great Sex Experiment](https://www.channel4.com/4viewers/take-part/open-house)
