@@ -150,19 +150,19 @@ Latest reactions
 
 Latest forum posts
 
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=73 "WonderTANG! Who wants to juice up your MSX?")
+* [Modificar menu "built in" de la MSX PICO](https://www.msx.org/forum/msx-talk/hardware/modificar-menu-built-in-de-la-msx-pico "Modificar menu "built in" de la MSX PICO")
 * [New V9990 Wolfenstein-3D-Like Interactive Demo](https://www.msx.org/forum/msx-talk/development/new-v9990-wolfenstein-3d-like-interactive-demo "New V9990 Wolfenstein-3D-Like Interactive Demo")
+* [openMSX cartridge type](https://www.msx.org/forum/msx-talk/openmsx/openmsx-cartridge-type?page=1 "openMSX cartridge type")
+* [Can't get MoonLightSaga to work](https://www.msx.org/forum/msx-talk/software/cant-get-moonlightsaga-to-work?page=1 "Can't get MoonLightSaga to work")
+* [HDMI to SCART RGB converter](https://www.msx.org/forum/msx-talk/hardware/hdmi-to-scart-rgb-converter "HDMI to SCART RGB converter")
+* [Power Chupin 2.6 was unleashed!](https://www.msx.org/forum/msx-talk/software/power-chupin-26-was-unleashed "Power Chupin 2.6 was unleashed!")
+* [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=6 "vFM (virtual Full Music) MSX universal audio Cartridge")
+* [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=63 "List of undumped MSX software (PLEASE HELP!)")
+* [MSX2+ Upgraded Yamaha .. help needed](https://www.msx.org/forum/msx-talk/hardware/max2-upgraded-yamaha-help-needed "MSX2+ Upgraded Yamaha .. help needed")
 * [What is the best architecture for a MSX 1 disk game? BIN files or a MSX-DOS program?](https://www.msx.org/forum/msx-talk/development/what-is-the-best-architecture-for-a-msx-1-disk-game-bin-files-or-a-msx-do "What is the best architecture for a MSX 1 disk game? BIN files or a MSX-DOS program?")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=73 "WonderTANG! Who wants to juice up your MSX?")
 * [Moonsound OPL4 HOW TO USE?](https://www.msx.org/forum/msx-talk/hardware/moonsound-opl4-how-to-use "Moonsound OPL4 HOW TO USE?")
 * [What I think an MSX 3 Should be ?](https://www.msx.org/forum/msx-talk/hardware/what-i-think-msx-3-should-be?page=23 "What I think an MSX 3 Should be ?")
-* [MSX2+ Upgraded Yamaha .. help needed](https://www.msx.org/forum/msx-talk/hardware/max2-upgraded-yamaha-help-needed "MSX2+ Upgraded Yamaha .. help needed")
-* [Yamaha AX-350](https://www.msx.org/forum/msx-talk/hardware/yamaha-ax-350 "Yamaha AX-350 ")
-* [Kazuhiko Nishi's other MSX projects](https://www.msx.org/forum/msx-talk/general-discussion/kazuhiko-nishis-other-msx-projects "Kazuhiko Nishi's other MSX projects")
-* [How do I get to the 2nd and other partitions "drives"?](https://www.msx.org/forum/msx-talk/openmsx/how-do-i-get-to-the-2nd-and-other-partitions-drives "How do I get to the 2nd and other partitions "drives"?")
-* [PISA event on 16 novembrer 2024](https://www.msx.org/forum/msx-talk/general-discussion/pisa-event-on-16-novembrer-2024 " PISA event on 16 novembrer 2024")
-* [Power Chupin 2.6 was unleashed!](https://www.msx.org/forum/msx-talk/software/power-chupin-26-was-unleashed "Power Chupin 2.6 was unleashed!")
-* [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
-* [Can't get MoonLightSaga to work](https://www.msx.org/forum/msx-talk/software/cant-get-moonlightsaga-to-work "Can't get MoonLightSaga to work")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
