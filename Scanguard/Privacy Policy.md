@@ -270,7 +270,7 @@ Get in Touch
 
 [support@scanguard.com](https://help.scanguard.com/contact "Navigate to https://help.scanguard.com/contact")
 
-Copyright © Scanguard 2024
+Copyright © Scanguard 2025
 
 [](https://www.facebook.com/scanguardhelp "Navigate to https://www.facebook.com/scanguardhelp")[](https://www.instagram.com/scanguard_help/ "Navigate to https://www.instagram.com/scanguard_help/")[](https://twitter.com/scanguardhelp "Navigate to https://twitter.com/scanguardhelp")
 
