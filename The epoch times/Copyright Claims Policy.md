@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Supreme Court Agrees to Hear Race-Tinged Louisiana Electoral Dispute](https://www.theepochtimes.com/us/supreme-court-agrees-to-hear-race-tinged-louisiana-electoral-dispute-5752364)
+* [Philadelphia Judge Allows Elon Musk’s $1 Million Giveaways to Proceed](https://www.theepochtimes.com/us/philadelphia-judge-allows-elon-musks-1-million-giveaways-to-proceed-5753517)
     
-    NEW By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    NEW By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
-    [![Supreme Court Agrees to Hear Race-Tinged Louisiana Electoral Dispute](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Philadelphia Judge Allows Elon Musk’s $1 Million Giveaways to Proceed](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Supreme Court Agrees to Hear Race-Tinged Louisiana Electoral Dispute](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746869-10232024-DSC06732-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-agrees-to-hear-race-tinged-louisiana-electoral-dispute-5752364)
-* [New York Times Tech Union Goes on Strike 1 Day Before Election](https://www.theepochtimes.com/us/new-york-times-tech-union-goes-on-strike-1-day-before-election-5753613)
+    ![Philadelphia Judge Allows Elon Musk’s $1 Million Giveaways to Proceed](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751254-GettyImages-2180566045-205x123.jpg.webp)](https://www.theepochtimes.com/us/philadelphia-judge-allows-elon-musks-1-million-giveaways-to-proceed-5753517)
+* [Trump Doesn’t Rule Out Banning Certain Vaccines If He Wins Election](https://www.theepochtimes.com/us/trump-doesnt-rule-out-banning-certain-vaccines-if-he-wins-election-5753812)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    NEW By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![New York Times Tech Union Goes on Strike 1 Day Before Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Doesn’t Rule Out Banning Certain Vaccines If He Wins Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![New York Times Tech Union Goes on Strike 1 Day Before Election](https://img.theepochtimes.com/assets/uploads/2024/08/19/id5707904-EpochImages-2825526988-xl-SB-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-times-tech-union-goes-on-strike-1-day-before-election-5753613)
-* [Israel Detains ‘Iranian Operative’ During Operation in Syria](https://www.theepochtimes.com/world/israel-detains-iranian-operative-during-opperation-in-syria-5753477)
+    ![Trump Doesn’t Rule Out Banning Certain Vaccines If He Wins Election](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750966-Trump-AZ-1_JF_10132024-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-doesnt-rule-out-banning-certain-vaccines-if-he-wins-election-5753812)
+* [22 Pesticides Linked to Prostate Cancer](https://www.theepochtimes.com/health/22-pesticides-linked-to-prostate-cancer-5753620)
     
-    2hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    NEW By [George Citroner](https://www.theepochtimes.com/author/george-citroner), Healthline
     
-    [![Israel Detains ‘Iranian Operative’ During Operation in Syria](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![22 Pesticides Linked to Prostate Cancer](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Israel Detains ‘Iranian Operative’ During Operation in Syria](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753591-Israeli-soldiers-AP24287547587231-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-detains-iranian-operative-during-opperation-in-syria-5753477)
-* [Candidates Make Final Pitches in Swing States on Eve of Election](https://www.theepochtimes.com/us/candidates-make-final-pitches-in-swing-states-on-eve-of-election-5753552)
+    ![22 Pesticides Linked to Prostate Cancer](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753926-shutterstock_432180319_fruits_and_vegetables_fruit_vegetable_capsicum_carrot_organic_water_wash_pesticide-205x123.jpg)](https://www.theepochtimes.com/health/22-pesticides-linked-to-prostate-cancer-5753620)
+* [Trump Says He Would Threaten 25 Percent Tariff on Mexican Imports to Stop Illegal Immigration](https://www.theepochtimes.com/us/trump-says-he-may-impose-new-25-percent-tariff-on-mexican-imports-if-elected-5753793)
     
-    2hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Candidates Make Final Pitches in Swing States on Eve of Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Says He Would Threaten 25 Percent Tariff on Mexican Imports to Stop Illegal Immigration](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Candidates Make Final Pitches in Swing States on Eve of Election](https://img.theepochtimes.com/assets/uploads/2024/11/id5753503-1.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/candidates-make-final-pitches-in-swing-states-on-eve-of-election-5753552)
-* [Voting on Election Day? Here’s Everything You Need to Know](https://www.theepochtimes.com/us/voting-on-election-day-heres-everything-you-need-to-know-5751453)
+    ![Trump Says He Would Threaten 25 Percent Tariff on Mexican Imports to Stop Illegal Immigration](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753649-GettyImages-2182728346-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-he-may-impose-new-25-percent-tariff-on-mexican-imports-if-elected-5753793)
+* [Economy Top Factor in Election: Gallup Survey](https://www.theepochtimes.com/us/economy-top-factor-in-election-gallup-survey-5753742)
     
-    3hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    2hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![Voting on Election Day? Here’s Everything You Need to Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Economy Top Factor in Election: Gallup Survey](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Voting on Election Day? Here’s Everything You Need to Know](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751495-BallotKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/voting-on-election-day-heres-everything-you-need-to-know-5751453)
-* [How Pennsylvania Became the Most Consequential Swing State](https://www.theepochtimes.com/article/how-pennsylvania-became-the-most-consequential-swing-state-5744000)
+    ![Economy Top Factor in Election: Gallup Survey](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753668-trump-harris-MixCollage-04-Nov-2024-03-40-PM-2765-205x123.jpg.webp)](https://www.theepochtimes.com/us/economy-top-factor-in-election-gallup-survey-5753742)
+* [Oil Extends Rally, Jumps 2 Percent After OPEC Delays Production Hike Again](https://www.theepochtimes.com/business/oil-extends-rally-jumps-2-percent-after-opec-delays-production-hike-again-5753731)
     
-    5hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    3hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![How Pennsylvania Became the Most Consequential Swing State](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Oil Extends Rally, Jumps 2 Percent After OPEC Delays Production Hike Again](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![How Pennsylvania Became the Most Consequential Swing State](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753340-Pennsylvania-10-205x123.jpg.webp)](https://www.theepochtimes.com/article/how-pennsylvania-became-the-most-consequential-swing-state-5744000)
-* [This Pennsylvania County Built America, and May Decide the Next President](https://www.theepochtimes.com/us/this-pennsylvania-county-built-america-and-may-decide-the-next-president-5753103)
+    ![Oil Extends Rally, Jumps 2 Percent After OPEC Delays Production Hike Again](https://img.theepochtimes.com/assets/uploads/2023/04/17/id5199443-Crude-oil-pump-jack-e1681728018717-205x123.jpg.webp)](https://www.theepochtimes.com/business/oil-extends-rally-jumps-2-percent-after-opec-delays-production-hike-again-5753731)
+* [Lawmakers Urge FTC to Stop Chinese Companies From Undermining US Flag Industry](https://www.theepochtimes.com/china/lawmakers-urge-ftc-to-stop-chinese-companies-from-undermining-us-flag-industry-5753667)
     
-    6hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    4hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
     
-    [![This Pennsylvania County Built America, and May Decide the Next President](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Lawmakers Urge FTC to Stop Chinese Companies From Undermining US Flag Industry](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![This Pennsylvania County Built America, and May Decide the Next President](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753550-10252024-DSC06785-Bethlehem-Steel-Plant-view-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/this-pennsylvania-county-built-america-and-may-decide-the-next-president-5753103)
-* [This Election Year, School Choice Is a Partisan Issue](https://www.theepochtimes.com/us/this-election-year-school-choice-is-a-partisan-issue-5750839)
+    ![Lawmakers Urge FTC to Stop Chinese Companies From Undermining US Flag Industry](https://img.theepochtimes.com/assets/uploads/2024/06/21/id5673315-06212024-DSC07025-Rep-Elise-Stefanik-205x123.jpg.webp)](https://www.theepochtimes.com/china/lawmakers-urge-ftc-to-stop-chinese-companies-from-undermining-us-flag-industry-5753667)
+* [Extra Security Fencing Placed at White House, Harris Residence Ahead of Election](https://www.theepochtimes.com/us/extra-security-fencing-placed-at-white-house-harris-residence-ahead-of-election-5753628)
     
-    6hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
+    4hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
     
-    [![This Election Year, School Choice Is a Partisan Issue](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Extra Security Fencing Placed at White House, Harris Residence Ahead of Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![This Election Year, School Choice Is a Partisan Issue](https://img.theepochtimes.com/assets/uploads/2024/01/14/id5565600-Year-of-School-Choice-v3-205x123.jpg.webp)](https://www.theepochtimes.com/us/this-election-year-school-choice-is-a-partisan-issue-5750839)
-* [Impact of the Election on the Federal Judiciary](https://www.theepochtimes.com/us/impact-of-the-election-on-the-federal-judiciary-5752184)
+    ![Extra Security Fencing Placed at White House, Harris Residence Ahead of Election](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753816-GettyImages-2182028756-LSedit-205x123.webp)](https://www.theepochtimes.com/us/extra-security-fencing-placed-at-white-house-harris-residence-ahead-of-election-5753628)
+* [US Zombie Foreclosures Drop Sharply, ‘Little or No Impact’ on Housing Markets: Report](https://www.theepochtimes.com/real-estate/us-zombie-foreclosures-drop-sharply-little-or-no-impact-on-housing-markets-report-5753227)
     
-    6hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    4hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Impact of the Election on the Federal Judiciary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Zombie Foreclosures Drop Sharply, ‘Little or No Impact’ on Housing Markets: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Impact of the Election on the Federal Judiciary](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750712-10232024-DSC06716-SCOTUS-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/impact-of-the-election-on-the-federal-judiciary-5752184)
-* [Unusual CCP Statement Sparks Speculation: Is Xi Jinping Losing Power?](https://www.theepochtimes.com/china/unusual-ccp-statement-sparks-speculation-is-xi-jinping-losing-power-5751949)
+    ![US Zombie Foreclosures Drop Sharply, ‘Little or No Impact’ on Housing Markets: Report](https://img.theepochtimes.com/assets/uploads/2024/07/10/id5683904-GettyImages-80923030KO-205x123.jpg.webp)](https://www.theepochtimes.com/real-estate/us-zombie-foreclosures-drop-sharply-little-or-no-impact-on-housing-markets-report-5753227)
+* [What We’ve Learned From Early Voting Numbers Ahead of Tuesday’s Election](https://www.theepochtimes.com/us/what-weve-learned-from-early-voting-numbers-ahead-of-tuesdays-election-5753605)
     
-    6hr By [Haizhong Ning](https://www.theepochtimes.com/author/haizhong-ning) and [Cindy Li](https://www.theepochtimes.com/author/cindy-li)
+    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Unusual CCP Statement Sparks Speculation: Is Xi Jinping Losing Power?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![What We’ve Learned From Early Voting Numbers Ahead of Tuesday’s Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Unusual CCP Statement Sparks Speculation: Is Xi Jinping Losing Power?](https://img.theepochtimes.com/assets/uploads/2023/10/14/id5529778-Maoid5251802-GettyImages-495536135-205x123.jpeg.webp)](https://www.theepochtimes.com/china/unusual-ccp-statement-sparks-speculation-is-xi-jinping-losing-power-5751949)
+    ![What We’ve Learned From Early Voting Numbers Ahead of Tuesday’s Election](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753233-FotoJet-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/what-weve-learned-from-early-voting-numbers-ahead-of-tuesdays-election-5753605)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
