@@ -149,9 +149,9 @@ Nov 13
 
 #### Popular Posts
 
-* [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
-* [How to Fix Slow Fortnite Downloads on PC and Mobile](https://speedify.com/blog/combining-internet-connections/how-to-fix-slow-fortnite-downloads/)
+* [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
+* [WiFi Login Page Not Showing Up? Here's How to Fix It](https://speedify.com/blog/better-internet-anywhere/fix-wifi-login-page-not-showing-up/)
 
 ### Bonding Apps
 
