@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/09/halloween_avatar_contest_community_news-768x768.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/winners-of-the-halloween-avatar-contest-2024-are/)
+
+### [Winners of the Halloween Avatar Contest 2024 are…](https://www.starbase118.net/2024/winners-of-the-halloween-avatar-contest-2024-are/)
+
+FltAdml. Tristan Wolf November 4, 2024
+
+Happy Halloween, ghosties and ghoulies! We hope you’re living it up with your candy, costumes, and revelry on this night of demons and devils! Thanks
+
+[Read More »](https://www.starbase118.net/2024/winners-of-the-halloween-avatar-contest-2024-are/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2018/04/fleet-768x306.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/october-2024-post-counts/)
 
 ### [October 2024 Post Counts](https://www.starbase118.net/2024/october-2024-post-counts/)
@@ -377,18 +389,6 @@ Madison Marsh November 1, 2024
 Join us for another in a series of interviews with winners of awards from our 2024 Awards Ceremony. Our goal is to give you insight
 
 [Read More »](https://www.starbase118.net/2024/award-winner-gnai-uss-artemis-a-sarpeidon-award/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/03/Lunaclass-768x399.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/a-somber-shore-leave-ends-as-the-artemis-prepares-to-return-to-the-borderlands/)
-
-### [A Somber Shore Leave Ends As The Artemis Prepares to Return To The Borderlands](https://www.starbase118.net/2024/a-somber-shore-leave-ends-as-the-artemis-prepares-to-return-to-the-borderlands/)
-
-Federation News Service October 31, 2024
-
-EARTH, SOL SYSTEM – The USS Artemis-A (NCC-81287) caps off their shore leave with an intimate gathering to recognize the achievements of the crew and
-
-[Read More »](https://www.starbase118.net/2024/a-somber-shore-leave-ends-as-the-artemis-prepares-to-return-to-the-borderlands/)
 
 Ready to get started?
 ---------------------
