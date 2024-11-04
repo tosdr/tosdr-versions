@@ -79,7 +79,7 @@ Search
     
     $12.50](https://www.adafruit.com/product/6067)
     
-    ![Angled shot of rectangular breakout board with green, 4-pin terminal blocks.](https://cdn-shop.adafruit.com/230x173/6066-00.jpg)[Adafruit Pixel Shifter - For Addressable LEDs
+    ![Demo Shot of the Adafruit Pixel Shifter - For Addressable LEDs](https://cdn-shop.adafruit.com/230x173/6066-04.jpg)[Adafruit Pixel Shifter - For Addressable LEDs
     
     $4.50](https://www.adafruit.com/product/6066)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Adversity is revealing of character”
+“ Let us stand on each other’s shoulders, not each other’s toes”
 
-[Unknown](https://www.adafruit.com/quotes)
+[Dennis Allison](http://en.wikipedia.org/wiki/Tiny_BASIC)
 
 [](https://www.adafruit.com/about)
 
