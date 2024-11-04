@@ -143,15 +143,16 @@
     
 * Partners
     
-    * [Technology Alliance Partners](https://www.mimecast.com/partners/technology-alliance-partners/)
-    * [Partner Integrations](https://integrations.mimecast.com/tech-partners/)
-    * [API Documentation](https://developer.services.mimecast.com/)
+    * [Reseller Partners](https://www.mimecast.com/partners/reseller-partners/)
+    * [Managed Service Providers (MSP)](https://www.mimecast.com/partners/managed-service-providers/)
+    * [Partner Portal](https://portal.mimecast.com/partner/common/login?_ga=2.258711690.1841783995.1684150345-791565797.1683726894)
     
     [Partner overview](https://www.mimecast.com/partners/)
     
-    * [Channel Partners](https://www.mimecast.com/partners/channel-partners/)
-    * [Channel Partner Portal](https://portal.mimecast.com/partner/common/login?_ga=2.258711690.1841783995.1684150345-791565797.1683726894)
-    * [Partner Success](https://www.mimecast.com/partners/partner-success/)
+    * [Technology Alliance Partners](https://www.mimecast.com/partners/technology-alliance-partners/)
+    * [Partner Integrations](https://integrations.mimecast.com/tech-partners/)
+    * [API Documentation](https://developer.services.mimecast.com/)
+    * [Partner Resources](https://www.mimecast.com/partners/partner-success/)
     
     ![TechPartner.jpg](https://assets.mimecast.com/api/public/content/71680926188a4357b6b246fb0177c4b4?v=9a69a64d)
     
@@ -163,7 +164,7 @@
     
     Become a Channel Partner
     
-    [Learn More](https://www.mimecast.com/partners/channel-partners/become-a-channel-partner/)
+    [Learn More](https://www.mimecast.com/partners/reseller-partners/become-a-channel-partner/)
     
 * Resources
     
