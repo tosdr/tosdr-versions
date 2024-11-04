@@ -404,6 +404,15 @@ United States – Section 508 & ADA Compliance
 **Web Content Accessibility Guidelines**  
 ClassLink complies with the web content accessibility guidelines of [WCAG 2.1 Level AA](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.w3.org%2FTR%2FWCAG21%2F&data=05%7C02%7Cmdearaujo%40classlink.com%7C53eac95da9fa4be6ca4e08dc3c63e41a%7Cb5598d85e4124848a74be5f5a1528984%7C0%7C0%7C638451646932538766%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=ybRWe15wq%2BNOOGaGwOe1s7%2FcXdfsig%2Fhv%2Bklr26fafI%3D&reserved=0) as accepted by [Section 508 of the Rehabilitation Act of 1973](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.section508.gov%2F&data=05%7C02%7Cmdearaujo%40classlink.com%7C53eac95da9fa4be6ca4e08dc3c63e41a%7Cb5598d85e4124848a74be5f5a1528984%7C0%7C0%7C638451646932546511%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=AwfxGtA1daAwfu8BRAHeXv5AmHYIuwHpxWy%2FjUQ%2Fkkc%3D&reserved=0) and the [Americans with Disabilities Act (ADA)](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ada.gov%2F&data=05%7C02%7Cmdearaujo%40classlink.com%7C53eac95da9fa4be6ca4e08dc3c63e41a%7Cb5598d85e4124848a74be5f5a1528984%7C0%7C0%7C638451646932554340%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=qMSY1sLpzkqhVh%2FTXulj60OCzNtrsRIYMmG4TQVAaN4%3D&reserved=0).  
 
+![StateRAMP Badge](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/671fa65dc6ecb6e49d66a169_stateramp-badge.png)
+
+StateRAMP
+---------
+
+ClassLink is a member of [StateRAMP](https://stateramp.org/), which represents the shared interests of state and local governments, third-party assessment organizations, and service providers with IaaS, SaaS, and PaaS solutions. ClassLink and StateRAMP believe in the values of transparency, standardization, and community. As a [StateRAMP member](https://stateramp.org/product-list/), we are committed to making the digital landscape a safer, more secure place.  
+
+StateRAMP is based on NIST Special Publication 800-53 Rev. 4 and is modeled after FedRAMP. It implements a "complete once, use many" approach to save time and reduce costs for service providers and governments. It also relies on FedRAMP Authorized Third-Party Assessment Organizations (3PAOs) for assessments.
+
 ![CSA Star Badge](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5faebc3133b578915c4d326a_csa-star-logo.PNG)
 
 United States – Cloud Security Alliance (CSA) Star Recipient
@@ -448,15 +457,6 @@ United States – Family Educational Rights and Privacy Act ([FERPA](https://stu
 The Family Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g; 34 CFR Part 99) is a Federal law that protects the privacy of student education records. The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education. FERPA sets forth protocols for ensuring privacy and security of personally identifiable information of students. ClassLink adheres to the data protection protocols set forth in FERPA.  
 
 ClassLink is [iKeepSafe Certified](https://ikeepsafe.org/certification/ferpa/): _The iKeepSafe FERPA Certification demonstrates compliance with the federal mandates as well as iKeepSafe’s rigorous guidelines through the published Product Profile._
-
-![StateRAMP Badge](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/671fa65dc6ecb6e49d66a169_stateramp-badge.png)
-
-StateRAMP
----------
-
-ClassLink is a member of [StateRAMP](https://stateramp.org/), which represents the shared interests of state and local governments, third-party assessment organizations, and service providers with IaaS, SaaS, and PaaS solutions. ClassLink and StateRAMP believe in the values of transparency, standardization, and community. As a [StateRAMP member](https://stateramp.org/product-list/), we are committed to making the digital landscape a safer, more secure place.  
-
-StateRAMP is based on NIST Special Publication 800-53 Rev. 4 and is modeled after FedRAMP. It implements a "complete once, use many" approach to save time and reduce costs for service providers and governments. It also relies on FedRAMP Authorized Third-Party Assessment Organizations (3PAOs) for assessments.
 
 ![CSPC Badge](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061d879a81ac58_iKS_CSPC2.png)
 
