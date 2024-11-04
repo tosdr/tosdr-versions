@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Hometown HomeLocash<br><br>10:41pm |
-| In Case You Didn'T KnowBrett Young<br><br>10:34pm |
-| Til You Can'TCody Johnson<br><br>10:30pm |
-| High RoadKoe Wetzel Ft Jess Murph<br><br>10:27pm |
-| Shouldve Been A CowboyToby Keith<br><br>10:24pm |
+| LivingDierks Bentley<br><br>4:38am |
+| Just Like JohnnyRedferrin<br><br>4:35am |
+| Lies, Lies, LiesMorgan Wallen<br><br>4:32am |
+| I Got A GuyPost Malone Ft Luke Combs<br><br>4:29am |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>4:25am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
-
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
-
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
