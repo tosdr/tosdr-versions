@@ -83,17 +83,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: iPod fans evade Apple’s DRM to preserve 54 lost clickwheel-era games](https://cdn.arstechnica.net/wp-content/uploads/2024/10/ipod-clickwheel-games-768x432.jpg)](https://arstechnica.com/gaming/2024/11/ipod-fans-evade-apples-drm-to-preserve-54-lost-clickwheel-era-games/)
+1. [![Listing image for first story in Most Read: Laptop, smartphone, and game console prices could soar after the election](https://cdn.arstechnica.net/wp-content/uploads/2024/10/brick-mosaiac-tariff-tech-768x432.jpg)](https://arstechnica.com/tech-policy/2024/11/laptop-smartphone-and-game-console-prices-could-soar-after-the-election/)
     
-    1. [iPod fans evade Apple’s DRM to preserve 54 lost clickwheel-era games](https://arstechnica.com/gaming/2024/11/ipod-fans-evade-apples-drm-to-preserve-54-lost-clickwheel-era-games/)
+    1. [Laptop, smartphone, and game console prices could soar after the election](https://arstechnica.com/tech-policy/2024/11/laptop-smartphone-and-game-console-prices-could-soar-after-the-election/)
     
-2. 2. [Here are 3 science-backed strategies to rein in election anxiety](https://arstechnica.com/security/2024/11/here-are-3-science-backed-strategies-to-rein-in-election-anxiety/)
+2. 2. [US Space Force warns of “mind-boggling” build-up of Chinese capabilities](https://arstechnica.com/space/2024/11/us-space-force-warns-of-mind-boggling-build-up-of-chinese-capabilities/)
     
-3. 3. [US Space Force warns of “mind-boggling” build-up of Chinese capabilities](https://arstechnica.com/space/2024/11/us-space-force-warns-of-mind-boggling-build-up-of-chinese-capabilities/)
+3. 3. [iPod fans evade Apple’s DRM to preserve 54 lost clickwheel-era games](https://arstechnica.com/gaming/2024/11/ipod-fans-evade-apples-drm-to-preserve-54-lost-clickwheel-era-games/)
     
-4. 4. [Dystopika is a beautiful cyberpunk city builder without the ugly details](https://arstechnica.com/gaming/2024/11/dystopika-takes-all-the-management-out-of-a-cyberpunk-city-simulator/)
+4. 4. [China’s long-term lunar plans now depend on developing its own Starship](https://arstechnica.com/space/2024/11/chinas-long-term-lunar-plans-now-depend-on-developing-its-own-starship/)
     
-5. 5. [Thousands of hacked TP-Link routers used in years-long account takeover attacks](https://arstechnica.com/information-technology/2024/11/microsoft-warns-of-8000-strong-botnet-used-in-password-spraying-attacks/)
+5. 5. [Dystopika is a beautiful cyberpunk city builder without the ugly details](https://arstechnica.com/gaming/2024/11/dystopika-takes-all-the-management-out-of-a-cyberpunk-city-simulator/)
     
 
 Customize
