@@ -44,8 +44,6 @@ Capitalized terms used but not defined therein shall have the meanings given to 
 
 **Site and Communities**
 
-[Connect Additional Terms](https://unity.com/legal/terms-of-service/unity-connect)
-
 [Unity Site and Communities Additional Terms](http://unity.com/legal/terms-of-service/site-and-communities)
 
 [Unity Pulse Additional Terms](http://unity.com/legal/pulseterms)
