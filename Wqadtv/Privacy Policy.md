@@ -32,9 +32,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/lee-county-iowa-crash-fatal/526-5f3917b3-1ce9-42ae-be15-58642a57b94e)
         
-        #### [Florida man killed in Lee County, Iowa crash](https://www.wqad.com/article/news/local/lee-county-iowa-crash-fatal/526-5f3917b3-1ce9-42ae-be15-58642a57b94e) [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/lee-county-iowa-crash-fatal/526-5f3917b3-1ce9-42ae-be15-58642a57b94e)
+        #### [Florida man killed in Lee County, Iowa crash](https://www.wqad.com/article/news/local/lee-county-iowa-crash-fatal/526-5f3917b3-1ce9-42ae-be15-58642a57b94e)
         
-        #### [Man killed in Lee County, Iowa crash](https://www.wqad.com/article/news/local/lee-county-iowa-crash-fatal/526-5f3917b3-1ce9-42ae-be15-58642a57b94e)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/a17a2202-921a-4f5a-b012-1b145c73f7e7/20241103T181642/a17a2202-921a-4f5a-b012-1b145c73f7e7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a17a2202-921a-4f5a-b012-1b145c73f7e7/20241103T181642/a17a2202-921a-4f5a-b012-1b145c73f7e7_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/rock-falls-illinois-shooting-suspect-arrested-johnathon-parker-whiteside-county-sheriffs-office/526-98ff16fc-1abf-4502-918b-bbe2816ecf30)
         
         #### [Suspect in Rock Falls shooting arrested, sheriff's office says](https://www.wqad.com/article/news/local/public-safety/rock-falls-illinois-shooting-suspect-arrested-johnathon-parker-whiteside-county-sheriffs-office/526-98ff16fc-1abf-4502-918b-bbe2816ecf30)
@@ -57,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e44f90d5-d84e-4265-9a8f-c251c2ddc386/20241103T131240/e44f90d5-d84e-4265-9a8f-c251c2ddc386_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e44f90d5-d84e-4265-9a8f-c251c2ddc386/20241103T131240/e44f90d5-d84e-4265-9a8f-c251c2ddc386_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c8884433-3082-4835-8078-1204342cf315/20241103T235210/c8884433-3082-4835-8078-1204342cf315_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c8884433-3082-4835-8078-1204342cf315/20241103T235210/c8884433-3082-4835-8078-1204342cf315_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Showers, rumbles of thunder to return late](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -89,7 +88,7 @@ Davenport, IA »
 
 60°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
