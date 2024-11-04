@@ -134,6 +134,8 @@ Sub Menu
 
 search
 
+Our call center is busier than usual at the moment. For immediate service, please complete your [booking online](#). If you have any questions, please check our [FAQ page](https://www.1800gotjunk.com/us_en/frequently-asked-questions). 
+
 ![1-800-GOT-JUNK? team with a junk removal customer](/sites/default/files/hero-banner.jpg)
 
 ![Spring Cleaning 2022 Giveaway](/sites/default/files/mobile_tom_0.jpg)
@@ -866,14 +868,6 @@ Bruno Souza Monteregie Metro 16/03/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Quick, efficient, complete service.
-
-John Blanton Cincinnati 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Jason & Diego very efficient, friendly. Highly recommend.
 
 Rita Flores LA Metro 02/11/2024
@@ -885,6 +879,70 @@ Rita Flores LA Metro 02/11/2024
 Yaseen and Caleb did a nice job. Professional and quick.
 
 James Schuh Wisconsin 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Kegan & Jordan were absolutely amazing!! We would give them more than 5 stars if we could.
+
+Haydn Hart Naples 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Booked a crew at 9am on Saturday for 2pm arrival. Keone and Connor were quick and professional. Would highly recommend
+
+Kyle Krueger Wisconsin 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Eaton and Bobby were wonderful!!
+
+Deb Andersen Naples 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Bo and Ronnie are superstars!
+
+David Zwiers Seattle 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Kaden and Devin were awesome. So quick and helpful :)
+
+x x Madison 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+The best experience! They came on time, were very nice, and completed the removal very quickly.
+
+Zena Bania Columbus 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Arrived on time and did a great job!
+
+Paula Brake Columbus 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Quick, efficient, complete service.
+
+John Blanton Cincinnati 02/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -914,14 +972,6 @@ Ellie Kozarec Cincinnati 02/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Booked a crew at 9am on Saturday for 2pm arrival. Keone and Connor were quick and professional. Would highly recommend
-
-Kyle Krueger Wisconsin 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Kegan and Jordan were awesome and very professional! We would highly recommend 1-800-got-junk!
 
 R Ward Naples 02/11/2024
@@ -946,65 +996,17 @@ Keaton S Naples 02/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Kegan & Jordan were absolutely amazing!! We would give them more than 5 stars if we could.
+The guys were great very friendly and professional.
 
-Haydn Hart Naples 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Kaden and Devin were awesome. So quick and helpful :)
-
-x x Madison 02/11/2024
+Joseph Grier Austin 01/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Eaton and Bobby were wonderful!!
+Nathan and Lucas did a great job!
 
-Deb Andersen Naples 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Bo and Ronnie are superstars!
-
-David Zwiers Seattle 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-The best experience! They came on time, were very nice, and completed the removal very quickly.
-
-Zena Bania Columbus 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Arrived on time and did a great job!
-
-Paula Brake Columbus 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Dylan and Davy were very helpful and fast got rid of everything in less than 5min
-
-Hanane Ahmed Seattle 01/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Keith and Chris did a great job removing some really heavy and unwieldy items from my basement. Thanks guys.
-
-Casey Stang Wisconsin 01/11/2024
+Roger Gilbert Cincinnati 01/11/2024
 
 ### 
 
