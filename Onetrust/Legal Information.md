@@ -174,9 +174,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Building a strong security posture: managing compliance, risk and business engagement in a dynamic landscape](https://www.onetrust.com/resources/building-a-strong-security-posture-managing-compliance-risk-and-business-engagement-in-a-dynamic-landscape/)
+* [EU-US DPF self-certification and compliance checklist](https://www.onetrust.com/resources/eu-us-dpf-self-certification-and-compliance-checklist/)
 * [Building a strong security posture: Managing compliance, risk, and business engagement in a dynamic landscape](https://www.onetrust.com/resources/building-a-strong-security-posture-managing-compliance-risk-and-business-engagement-in-a-dynamic-landscape-webinar/)
-* [Understanding DORA: Implications of the Digital Operational Resilience Act for Third-Party Risk Management](https://www.onetrust.com/resources/understanding-dora-implications-of-the-digital-operational-resilience-act-for-third-party-risk-management-ebook/)
-* [Explore the future of regulatory intelligence: A DataGuidance demo](https://www.onetrust.com/resources/explore-the-future-of-regulatory-intelligence-a-dataguidance-demo-webinar/)
 
 ### Platform
 
