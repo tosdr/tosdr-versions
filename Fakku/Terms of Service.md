@@ -1,6 +1,6 @@
 Mobile Menu
 
-[FAKKU Logo](https://www.fakku.net/ "Fakku!")
+[](https://www.fakku.net/ "Fakku!")
 
 [New Releases](https://www.fakku.net/hentai "Newly Released Hentai Manga")
 
