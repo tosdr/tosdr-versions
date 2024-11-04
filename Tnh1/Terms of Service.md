@@ -216,65 +216,65 @@ irregularidades
 
 Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia
 
-Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://www.tnh1.com.br/noticia/nid/casa-de-shows-em-maceio-e-alvo-de-operacao-da-policia-e-donos-sao-levados-a-delegacia/ "Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia")[![Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/6/csm_policial-penal-sergipe-morte-alagoas-arquivo-pessoal_08bd7b2227.jpg)
+Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia](https://www.tnh1.com.br/noticia/nid/casa-de-shows-em-maceio-e-alvo-de-operacao-da-policia-e-donos-sao-levados-a-delegacia/ "Casa de shows em Maceió é alvo de operação da polícia e donos são levados à delegacia")[![Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/1/csm_Record_Time_Transmissao_2f56fe245b.jpg)
 
-30 anos
+Futebol Nacional
 
-30 anos
+Futebol Nacional
 
-Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas
+Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025
 
-Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/policial-penal-de-sergipe-e-morto-a-tiros-apos-sofrer-atentado-no-interior-de-alagoas/ "Policial penal de Sergipe é morto a tiros após sofrer atentado no interior de Alagoas")[![Jornalista diz o que motivou a queda de Liam Payne e surpreende](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/e/csm_liam-payne-reproducao-redes-sociais__1__5b3526ed72.jpg)
-
-caiu de prédio
-
-caiu de prédio
-
-Jornalista diz o que motivou a queda de Liam Payne e surpreende
-
-Jornalista diz o que motivou a queda de Liam Payne e surpreende](https://www.tnh1.com.br/noticia/nid/jornalista-diz-o-que-motivou-a-queda-de-liam-payne-e-surpreende/ "Jornalista diz o que motivou a queda de Liam Payne e surpreende")[![Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/b/csm_sabrina-gomes-sindrome-de-cushing-reproducao_7a72cca2b4.jpg)
-
-24 anos
-
-24 anos
-
-Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio
-
-Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio](https://www.tnh1.com.br/noticia/nid/jovem-com-tumor-raro-que-levou-a-mudanca-na-cor-de-pele-tenta-obter-remedio/ "Jovem com tumor raro que levou a mudança na cor de pele tenta obter remédio")
-
-[![Enem: Jovem atrasado passa por baixo de portão para entrar a tempo da prova; veja](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/d/csm_Enem_Jovem_Mebaixo_Portao_f199bbc1f6.jpg)
-
-Brasil
-
-Brasil
-
-Enem: Jovem atrasado passa por baixo de portão para entrar a tempo da prova; veja
-
-Enem: Jovem atrasado passa por baixo de portão para entrar a tempo da prova; veja](https://www.tnh1.com.br/noticia/nid/enem-jovem-atrasado-passa-por-baixo-de-portao-para-entrar-a-tempo-da-prova-veja/ "Enem: Jovem atrasado passa por baixo de portão para entrar a tempo da prova; veja")[![Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/e/csm_Suspeito_Esturpo_Espancamento_c04c3f904d.jpg)
+Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025](https://www.tnh1.com.br/noticia/nid/record-monta-time-de-estrelas-para-transmissao-do-paulistao-e-brasileirao-em-2025/ "Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025")[![Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/6/csm_Duplo_Homicidio_Murici_5cdb5404cd.jpg)
 
 Polícia
 
 Polícia
 
-Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho
+Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici
 
-Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho](https://www.tnh1.com.br/noticia/nid/suspeito-de-estuprar-crianca-de-10-anos-e-espancado-por-populares-no-jacintinho/ "Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho")[![Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/9/csm_pm-combate-crimes-de-trafico-e-de-receptacao-em-sao-jose-da-tapera-e-maceio_ff97ae23ff.jpg)
+Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici](https://www.tnh1.com.br/noticia/nid/apos-discussao-por-som-alto-tio-e-sobrinho-de-17-anos-sao-assassinados-a-tiros-em-murici/ "Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici")[![Bancos devolveram ao INSS quase R$ 8 bi em benefícios não sacados](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/e/csm_previdencia-inss-agencia-brasil__1__9dc6e6fc09.jpg)
 
-Alagoas
+Economia
 
-Alagoas
+Economia
 
-Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió
+Bancos devolveram ao INSS quase R$ 8 bi em benefícios não sacados
 
-Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió](https://www.tnh1.com.br/noticia/nid/policia-combate-crimes-de-trafico-e-de-receptacao-em-sao-jose-da-tapera-e-maceio/ "Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió")[![Homem é preso ao tentar fugir por telhados após estuprar mulher em Goiás](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/d/csm_Homem_Prisao_Estupro_cdaeec9bbc.jpg)
+Bancos devolveram ao INSS quase R$ 8 bi em benefícios não sacados](https://www.tnh1.com.br/noticia/nid/bancos-devolveram-ao-inss-quase-r-8-bi-em-beneficios-nao-sacados/ "Bancos devolveram ao INSS quase R$ 8 bi em benefícios não sacados")
 
-Brasil
+[![Ministro da Educação atribui aumento de inscrições no Enem a programa de incentivo de Lula](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/b/csm_enem_mcamgo_abr_03112024-9_353734725b.jpg)
 
-Brasil
+Educação
 
-Homem é preso ao tentar fugir por telhados após estuprar mulher em Goiás
+Educação
 
-Homem é preso ao tentar fugir por telhados após estuprar mulher em Goiás](https://www.tnh1.com.br/noticia/nid/homem-e-preso-ao-tentar-fugir-por-telhados-apos-estuprar-mulher-em-goias/ "Homem é preso ao tentar fugir por telhados após estuprar mulher em Goiás")
+Ministro da Educação atribui aumento de inscrições no Enem a programa de incentivo de Lula
+
+Ministro da Educação atribui aumento de inscrições no Enem a programa de incentivo de Lula](https://www.tnh1.com.br/noticia/nid/ministro-da-educacao-atribui-aumento-de-inscricoes-no-enem-a-programa-de-incentivo-de-lula/ "Ministro da Educação atribui aumento de inscrições no Enem a programa de incentivo de Lula")[!['Pensava que ia me aposentar lá', diz Cléber Machado sobre demissão da Globo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/d/csm_cleber-machado-narrador-_foto_Edu_Moraes_-_Record_TV_0d31024ae1.jpg)
+
+Televisão
+
+Televisão
+
+'Pensava que ia me aposentar lá', diz Cléber Machado sobre demissão da Globo
+
+'Pensava que ia me aposentar lá', diz Cléber Machado sobre demissão da Globo](https://www.tnh1.com.br/noticia/nid/pensava-que-ia-me-aposentar-la-diz-cleber-machado-sobre-demissao-da-globo/ "'Pensava que ia me aposentar lá', diz Cléber Machado sobre demissão da Globo")[![Paulistão Feminino: Corinthians vence Sao Paulo em 1º jogo da semi](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/a/csm_corinthians_semi_paulista_fem_2024_f899a587e1.jpg)
+
+Futebol Nacional
+
+Futebol Nacional
+
+Paulistão Feminino: Corinthians vence Sao Paulo em 1º jogo da semi
+
+Paulistão Feminino: Corinthians vence Sao Paulo em 1º jogo da semi](https://www.tnh1.com.br/noticia/nid/paulistao-feminino-corinthians-vence-sao-paulo-em-1o-jogo-da-semi/ "Paulistão Feminino: Corinthians vence Sao Paulo em 1º jogo da semi")[![Tema da redação do Enem 2024 aborda valorização da herança africana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/9/csm_Tema_Enem_Redacao_8f6170290a.jpg)
+
+Educação
+
+Educação
+
+Tema da redação do Enem 2024 aborda valorização da herança africana
+
+Tema da redação do Enem 2024 aborda valorização da herança africana](https://www.tnh1.com.br/noticia/nid/tema-da-redacao-do-enem-2024-aborda-valorizacao-da-heranca-africana/ "Tema da redação do Enem 2024 aborda valorização da herança africana")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
