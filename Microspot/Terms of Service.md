@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/1450.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/9885.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -74,7 +74,7 @@ Visitez l'une de nos quelques environ
 
 [![hp](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0736-CM2-Retail-Bon2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzNDExOXxpbWFnZS9qcGVnfGFETXpMMmhtWkM4NE5qQjRORGcwWDBreU5GOHdOek0yWDBOTk1sOVNaWFJoYVd4ZlFtOXVNaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2T0RZd2VEUTRORjlKTWpSZk1EY3pObDlEVFRKZlVtVjBZV2xzWDBKdmJqSXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8NmZlNmMwNTgyYTdjNjA3MzIyNTE5OTk5MDFlZTgwYmEwOWI1YjZkZjM3MzVhYTNjMmI2ZGNmODk1OGZhNGM2ZA&w=2360&q=75)
 
-20%Avec bon Coop Retail: 20% sur HP](https://www.microspot.ch/fr/brand/hp)
+20%de rabais avec bon Coop Retail: 20% sur HP](https://www.microspot.ch/fr/brand/hp)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0714-CM1-Promos-KW43-4511.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0NjI1NHxpbWFnZS9qcGVnfGFEWTNMMmd5TkM4NE5qQjRORGcwWDBreU5GOHdOekUwWDBOTk1WOVFjbTl0YjNOZlMxYzBNMTgwTlRFeExtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpDODROakI0TkRnMFgwa3lORjh3TnpFMFgwTk5NVjlRY205dGIzTmZTMWMwTTE4ME5URXhMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQXw3YzAxZGU3Y2FjMTYzMzgzZDJhOGZhNzE5YTIxZjQwMmI4ZDVjNjRjNGE5YjgxOTJiNzZmMWYzODgwNGFkYjky&w=2360&q=75)
 
@@ -86,7 +86,7 @@ Visitez l'une de nos quelques environ
 
 [![Samsung TV](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0714-CM1-Promos-KW43-456.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMDIwOTR8aW1hZ2UvanBlZ3xhR0l5TDJobE5pODROakI0TkRnMFgwa3lORjh3TnpFMFgwTk5NVjlRY205dGIzTmZTMWMwTTE4ME5UWXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMemcyTUhnME9EUmZTVEkwWHpBM01UUmZRMDB4WDFCeWIyMXZjMTlMVnpRelh6UTFOaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8Y2ZkZDU4ZmViZjc2NzhiYzU5NGI4NDFlYTdhMTIwNTQ4YzZlMWUyZDdiMTIwMjk5ODQ0ODcxOTI5MGU4NTQ4OQ&w=2360&q=75)
 
-ACTION549.95 SAMSUNG QE55Q60DAUXXN Smart TV 55"](https://www.microspot.ch/fr/product/samsung-qe55q60dauxxn-smart-tv-55-qled-ultra-hd-4k-0014117737)
+ACTIONSAMSUNG QE55Q60DAUXXN Smart TV 55"](https://www.microspot.ch/fr/product/samsung-qe55q60dauxxn-smart-tv-55-qled-ultra-hd-4k-0014117737)
 
 [![DREAME Z30](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0721-CM3-Haushalt-Spielzeug-Pampers2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzMDI0OXxpbWFnZS9qcGVnfGFETXlMMmd4TlM4NE5qQjRORGcwWDBreU5GOHdOekl4WDBOTk0xOUlZWFZ6YUdGc2RGOVRjR2xsYkhwbGRXZGZVR0Z0Y0dWeWN6SXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMemcyTUhnME9EUmZTVEkwWHpBM01qRmZRMDB6WDBoaGRYTm9ZV3gwWDFOd2FXVnNlbVYxWjE5UVlXMXdaWEp6TWk1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRfDRhN2RkNDY1MGIwZjY5ZDlmNjE0ZGY2MGFiNmJhYTA5MTM5ODkzYjU0OGIyZWZiM2VmMmZkNWY4MmQ2MjEzMzM&w=2360&q=75)
 
@@ -128,8 +128,6 @@ Gadgets](https://www.microspot.ch/fr/cms/gadget)
 Bébé & Famille](https://www.microspot.ch/fr/cms/tout-pour-la-famille-bebe)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-05-Oktober-Mac-M4-FR-CTA.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzNTA4MnxpbWFnZS9qcGVnfGFEQTFMMmd5WXk4eE1UZ3dlRE0xTUY5Sk1qUmZNRFZmVDJ0MGIySmxjbDlOWVdOZlRUUmZSbEpmUTFSQkxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpDOHhNVGd3ZURNMU1GOUpNalJmTURWZlQydDBiMkpsY2w5TllXTmZUVFJmUmxKZlExUkJMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQXxjN2Y0OWYxMmZkZDRjOGE0NjRmZjllYzE1YzUxMjE4ODQyN2NhNGQ5MjFlYTJmZDkzZjk4YjA4MWIxYTg2YjE1&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-I24-05-Oktober-Mac-M4-FR-CTA.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyMzA5MHxpbWFnZS9qcGVnfGFHTTRMMmcyWkM4NE1qaDRNelV3WDBreU5GOHdOVjlQYTNSdlltVnlYMDFoWTE5Tk5GOUdVbDlEVkVFdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3lPSGd6TlRCZlNUSTBYekExWDA5cmRHOWlaWEpmVFdGalgwMDBYMFpTWDBOVVFTNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXxjNGEzNzRmMzUyMjcwYWRmZTU4NjllZWRkZTgxMGQwNjQzODc5YTE1ZjE0MzA3ZTA2NWYzNzE2N2E2MWE4MzRj&w=2360&q=75)](https://www.microspot.ch/fr/cms/macbook-pro-m4-2024)
-
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-05-Oktober-iMac-M4-FR-CTA.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzMzUyMnxpbWFnZS9qcGVnfGFEWmxMMmcyWXk4eE1UZ3dlRE0xTUY5Sk1qUmZNRFZmVDJ0MGIySmxjbDlwVFdGalgwMDBYMFpTWDBOVVFWOVdNaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2TVRFNE1IZ3pOVEJmU1RJMFh6QTFYMDlyZEc5aVpYSmZhVTFoWTE5Tk5GOUdVbDlEVkVGZlZqSXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8ZTU1MDFjNzIxZWU2ZjFhYjljNDhjYTNiZDMyNjI4MWIxMDVkOTE5Y2NlNDRhMTAwZGY4MDI2ODM1MjE5NjI4NQ&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-I24-05-Oktober-iMac-M4-FR-CTA.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzODQyNHxpbWFnZS9qcGVnfGFEQm1MMmhqTnk4NE1qaDRNelV3WDBreU5GOHdOVjlQYTNSdlltVnlYMmxOWVdOZlRUUmZSbEpmUTFSQlgxWXlMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQzg0TWpoNE16VXdYMGt5TkY4d05WOVBhM1J2WW1WeVgybE5ZV05mVFRSZlJsSmZRMVJCWDFZeUxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfDU5ZjRlMDBjYTA0Y2EzZmM0ZmRjMWE4MzExMzc5MzA0OWNlMGMyOTQ3YjVmMWU0NmY4MjY4MGE3MjJlNzdjZTE&w=2360&q=75)](https://www.microspot.ch/fr/cms/imac-m4-2024)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0730-CM3-LEGO-Technic-FR.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxNjIzNTh8aW1hZ2UvanBlZ3xhR1ZtTDJoaVppOHhNVGd3ZURNMU1DMUpNalF0TURjek1DMURUVE10VEVWSFR5MVVaV05vYm1sakxVWlNMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQzh4TVRnd2VETTFNQzFKTWpRdE1EY3pNQzFEVFRNdFRFVkhUeTFVWldOb2JtbGpMVVpTTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8MmFlOTEyYWRkYjliOTdjMTI2ZTA2MTkyYThlODk5MDMxODllMzA4YTQ4OTU4MzM4ZDEwNjUyOTQwMzcyOThkMA&w=2360&q=75)](https://www.microspot.ch/fr/brand/lego)
 
@@ -213,13 +211,13 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Garantie Plus
-
-prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
-
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
+[Garantie Plus
+
+prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
 
 [Retrait gratuit
 
