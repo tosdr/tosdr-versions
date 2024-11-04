@@ -203,50 +203,49 @@ More than 1,000 businesses operate more efficiently with us.
 
 Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=89c2147485aedba152a4f5df8af854a94fd15d8978cb705137fd56e2405bfb4c&c=28037029)  
-Abandoned Vehicle and Truck Solutions
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=b6a62e013ebfd408fc83e874c5686ccf84ba1c777fb97083c635a52f0196e0b3&c=129437069)  
+MONSTER SECURITY GUARDING
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=89c2147485aedba152a4f5df8af854a94fd15d8978cb705137fd56e2405bfb4c&c=142509082)  
-Gemini-IT Group
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=b6a62e013ebfd408fc83e874c5686ccf84ba1c777fb97083c635a52f0196e0b3&c=65829197)  
+BD Maintenance
 
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=89c2147485aedba152a4f5df8af854a94fd15d8978cb705137fd56e2405bfb4c&c=103776878)  
-FX ACCOUNTING
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=b6a62e013ebfd408fc83e874c5686ccf84ba1c777fb97083c635a52f0196e0b3&c=161760297)  
+Myfinance-Online
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=89c2147485aedba152a4f5df8af854a94fd15d8978cb705137fd56e2405bfb4c&c=92898559)  
-VIR Electrical (PTY) LTD
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=b6a62e013ebfd408fc83e874c5686ccf84ba1c777fb97083c635a52f0196e0b3&c=84411702)  
+Mtunzini Group
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=89c2147485aedba152a4f5df8af854a94fd15d8978cb705137fd56e2405bfb4c&c=54136007)  
-Safe-Train Consulting (PTY) Ltd
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=b6a62e013ebfd408fc83e874c5686ccf84ba1c777fb97083c635a52f0196e0b3&c=62926860)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=89c2147485aedba152a4f5df8af854a94fd15d8978cb705137fd56e2405bfb4c&c=107884944)  
-IYD
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=b6a62e013ebfd408fc83e874c5686ccf84ba1c777fb97083c635a52f0196e0b3&c=127841978)  
+All Trucking Solutions
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=89c2147485aedba152a4f5df8af854a94fd15d8978cb705137fd56e2405bfb4c&c=208215977)  
-Website Café (PTY) LTD
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=b6a62e013ebfd408fc83e874c5686ccf84ba1c777fb97083c635a52f0196e0b3&c=186841366)  
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=89c2147485aedba152a4f5df8af854a94fd15d8978cb705137fd56e2405bfb4c&c=146903207)  
-Sonic Electrical Services PTY Ltd
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=b6a62e013ebfd408fc83e874c5686ccf84ba1c777fb97083c635a52f0196e0b3&c=96907981)  
+Wiselink Broadband Vryheid
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=89c2147485aedba152a4f5df8af854a94fd15d8978cb705137fd56e2405bfb4c&c=128160898)  
-Cooper Logistics (Pty) Ltd
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=b6a62e013ebfd408fc83e874c5686ccf84ba1c777fb97083c635a52f0196e0b3&c=199681188)  
+Fox Alarms & Security
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=89c2147485aedba152a4f5df8af854a94fd15d8978cb705137fd56e2405bfb4c&c=147163091)  
-OXYAIDER (PTY) LTD
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=b6a62e013ebfd408fc83e874c5686ccf84ba1c777fb97083c635a52f0196e0b3&c=161670889)  
+FlipDesign - Renovation Contracting Firm
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=89c2147485aedba152a4f5df8af854a94fd15d8978cb705137fd56e2405bfb4c&c=105771701)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=b6a62e013ebfd408fc83e874c5686ccf84ba1c777fb97083c635a52f0196e0b3&c=176107332)  
+Multi CNC Solutions CC
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=89c2147485aedba152a4f5df8af854a94fd15d8978cb705137fd56e2405bfb4c&c=144143770)  
-Itroniq (Pty) Ltd
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=b6a62e013ebfd408fc83e874c5686ccf84ba1c777fb97083c635a52f0196e0b3&c=135372418)  
+Kainos (Pty) Ltd
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=89c2147485aedba152a4f5df8af854a94fd15d8978cb705137fd56e2405bfb4c&c=65767700)  
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=b6a62e013ebfd408fc83e874c5686ccf84ba1c777fb97083c635a52f0196e0b3&c=11227194)  
+Prosper Park
+
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=b6a62e013ebfd408fc83e874c5686ccf84ba1c777fb97083c635a52f0196e0b3&c=102646130)  
+Calonet
+
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=b6a62e013ebfd408fc83e874c5686ccf84ba1c777fb97083c635a52f0196e0b3&c=144325064)  
 RADIO TYGERBERG 104FM NPC
-
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=89c2147485aedba152a4f5df8af854a94fd15d8978cb705137fd56e2405bfb4c&c=61717606)  
-High Point Marketing CC t/a Leads For Africa
-
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=89c2147485aedba152a4f5df8af854a94fd15d8978cb705137fd56e2405bfb4c&c=146959754)  
-APTV Telecoms CC
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
