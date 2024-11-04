@@ -14,6 +14,14 @@ Recommendations
 
 Audio
 
+* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
+    
+    Browse All Our Lists, Essays, and Interviews
+    
+    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
+
+* * *
+
 * [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
     
     How To Read More in 2024
@@ -22,19 +30,11 @@ Audio
 
 * * *
 
-* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/09/26151432/PRH_New-Audio_site_1200x626_Oct2024.jpg)
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/10181536/PRH_Site_1200x628_OCT2024.jpg)
     
-    New Stories to Listen to
+    New Releases
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
-
-* * *
-
-* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
-    
-    Browse All Our Lists, Essays, and Interviews
-    
-    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
 
 * <
     
@@ -264,9 +264,9 @@ Categories
 
 [Board Books](https://www.penguinrandomhouse.com/books/board-books-childrens/)[Picture Books](https://www.penguinrandomhouse.com/books/picture-books-childrens/)[Guided Reading Levels](https://www.penguinrandomhouse.com/books/leveled-readers/)[Middle Grade](https://www.penguinrandomhouse.com/books/middle-grade-books-childrens/)[Activity Books](https://www.penguinrandomhouse.com/books/activity-books-childrens/)[View All \>](https://www.penguinrandomhouse.com/books/childrens/)
 
-[33 Halloween Books for Little Pumpkins
+[Children’s & YA Books That Celebrate Native American Heritage
 
-Learn More >](https://www.penguinrandomhouse.com/the-read-down/not-so-scary-picture-books-for-halloween/)
+Learn More >](https://www.readbrightly.com/native-american-history-experience-kids-teens/)
 
 Popular
 
@@ -338,9 +338,9 @@ Learn More >](https://www.penguinrandomhouse.com/authors/events/)
 
 See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
 
-[A Guide to Stephen King Books
+[A Guide to Colson Whitehead Books
 
-Read More >](https://www.penguinrandomhouse.com/the-read-down/stephen-king-books/)
+Read More >](https://www.penguinrandomhouse.com/the-read-down/colson-whitehead-books/)
 
 [Audio](https://www.penguinrandomhouse.com/books/audiobooks/)
 
