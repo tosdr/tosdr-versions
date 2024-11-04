@@ -377,7 +377,7 @@ Wiedner Hauptstrasse 32
 
 * * *
 
-[+43 1 58900 955](tel: +43 1 58900 955)[datenschutz@roteskreuz.at](mailto:datenschutz@roteskreuz.at)
+[+43 1 58900 955](tel:+43158900955)[datenschutz@roteskreuz.at](mailto:datenschutz@roteskreuz.at)
 
 ### Österreichische Datenschutzbehörde
 
@@ -391,7 +391,7 @@ Barichgasse 40-42
 
 Parteienverkehr nach Abstimmung mit dem zuständigen Sachbearbeiter
 
-[01 52 1520](tel:01 52 1520)[dsb@dsb.gv.at](mailto:dsb@dsb.gv.at)
+[01 52 1520](tel:01521520)[dsb@dsb.gv.at](mailto:dsb@dsb.gv.at)
 
 [](https://www.dsb.gv.at/ "https://www.dsb.gv.at")[https://www.dsb.gv.at](https://www.dsb.gv.at/ "https://www.dsb.gv.at")
 
