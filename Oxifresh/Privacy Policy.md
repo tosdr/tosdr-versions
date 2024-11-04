@@ -385,15 +385,15 @@ What Customers Are Saying
 
 Based on 302,780 Carpet Cleaning Services Reviews
 
-The technician was great, his name is Sean **PW.** - Ballwin, MO - 11/03/2024
+Good cleaning and friendly people **KH.** - Lakewood , CO - 11/02/2024
 
 (5.0 Out of 5 stars)
 
-Efficient and professional **sf.** - Kansas City, MO - 11/03/2024
+Everything **DP.** - San Luis Obispo, CA - 11/02/2024
 
 (5.0 Out of 5 stars)
 
-**MR.** - Jasper, IN - 11/02/2024
+GREAT people. Great service! **GL.** - Lake Villa, IL - 11/02/2024
 
 (5.0 Out of 5 stars)
 
