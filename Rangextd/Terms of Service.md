@@ -242,12 +242,12 @@ Discover the hottest items flying off the shelves.
     
     [See More Deals](https://www.rangextd.com/collections/personal-essentials)
     
-* ![](//savvysmartdeals.com/cdn/shop/files/preview_images/6b2f0772ddcd44f4a4cc0d311225af84.thumbnail.0000000000_small.jpg?v=1722599448)
+* ![](//savvysmartdeals.com/cdn/shop/files/preview_images/eeb11ea8fcec4f4aadcf4f3ad61cb4d7.thumbnail.0000000000_small.jpg?v=1730432247)
     
     Personal Essentials
     -------------------
     
-    [See More Deals](https://www.rangextd.com/collections/personal-essentials)
+    [Home Essentials](https://www.rangextd.com/collections/trending-now)
     
 * ![](//savvysmartdeals.com/cdn/shop/files/preview_images/fbd0669f195d492c8bc200672c5da86e.thumbnail.0000000000_small.jpg?v=1722598662)
     
