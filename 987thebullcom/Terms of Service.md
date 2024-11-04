@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| I Never LieZach Top<br><br>4:39pm |
-| Half Of MeThomas Rhett Ft Riley Green<br><br>4:36pm |
-| She'S Somebody'S DaughterDrew Baldridge<br><br>4:33pm |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:30pm |
-| How Country FeelsRandy Houser<br><br>4:27pm |
+| Hometown HomeLocash<br><br>10:41pm |
+| In Case You Didn'T KnowBrett Young<br><br>10:34pm |
+| Til You Can'TCody Johnson<br><br>10:30pm |
+| High RoadKoe Wetzel Ft Jess Murph<br><br>10:27pm |
+| Shouldve Been A CowboyToby Keith<br><br>10:24pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,19 +358,19 @@ State
 Featured Brands
 ---------------
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
+
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
