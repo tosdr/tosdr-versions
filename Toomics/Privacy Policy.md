@@ -24,7 +24,7 @@ Sign in
 * [_Language_
     
     English](javascript:;)
-* [_Help Center_](https://toomics.com/en/help/zendesk)
+* [_Customer Service_](https://toomics.com/en/help/zendesk)
 
 dropdown menu
 
