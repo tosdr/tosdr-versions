@@ -197,7 +197,7 @@ Folgen Sie uns
 [Zur Übersichtsseite](https://www.bundesregierung.de/breg-de/service "Zurück zur Übersichtsseite")
 
 * [Schwerpunkte der Bundesregierung](https://www.bundesregierung.de/breg-de/schwerpunkte-der-bundesregierung)  
-* [Deutsche Einheit](https://www.bundesregierung.de/breg-de/schwerpunkte-der-bundesregierung/deutsche-einheit)
+* [Friedliche Revolution](https://www.bundesregierung.de/breg-de/schwerpunkte-der-bundesregierung/deutsche-einheit "Externer Link: Zum Internetauftritt "Friedliche Revolution" (Öffnet neues Fenster)")
 * [Regierungsmonitor](https://www.bundesregierung.de/breg-de/bundesregierung/regierungsmonitor)
 * [Bundeskanzler](https://www.bundeskanzler.de/bk-de "Externer Link: Internetseite des Bundeskanzlers (Öffnet neues Fenster)")
 * [Service](https://www.bundesregierung.de/breg-de/service)
