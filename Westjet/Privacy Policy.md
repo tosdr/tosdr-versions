@@ -20,6 +20,24 @@ Menu
 
 Search
 
+0
+
+* All
+* Alerts
+* Offers
+* News
+
+All Notifications
+-----------------
+
+Close
+
+### No New Alerts
+
+Check back later
+
+[View all](https://www.westjet.com/en-ca/get-travel-ready/advisories) [View all](https://www.westjet.com/en-ca/deals) [View all](https://www.westjet.com/en-ca/news)
+
 * Flights
     * [Find Flights](https://www.westjet.com/en-ca/flights)
     * [Direct Flights](https://www.westjet.com/en-ca/flights/direct-flights)
