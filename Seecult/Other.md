@@ -361,6 +361,20 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.mglc-lj.si](http://www.mglc-lj.si/)
     
+    [10:00 Magičnost drevnog - Venija Vučinić Turinski, BG](javascript:void(0);)
+    
+    **06.09.2024 | 10:00**
+    
+    **[Muzej savremene umetnosti Beograd](http://seecult.org/institucija/muzej-savremene-umetnosti-beograd)**
+    
+    Ciklus izložbi: Umetnost i ličnost - skulptorke iz kolekcije MSU
+    
+    **MAGIČNOST DREVNOG - VENIJA VUČINIĆ TURINSKI** (1934, Kolašin) - izložba (5.9.-23.11.2024.)
+    
+    autorka: dr Rajka Bošković
+    
+    [https://www.msub.org.rs](https://www.msub.org.rs/)
+    
     [10:00 New Era: umjetnički diskursi o društvenim i klimatskim promjenama, BL](javascript:void(0);)
     
     **06.09.2024 | 10:00**
@@ -399,20 +413,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://msurs.net](http://msurs.net/)
     
-    [10:00 Magičnost drevnog - Venija Vučinić Turinski, BG](javascript:void(0);)
-    
-    **06.09.2024 | 10:00**
-    
-    **[Muzej savremene umetnosti Beograd](http://seecult.org/institucija/muzej-savremene-umetnosti-beograd)**
-    
-    Ciklus izložbi: Umetnost i ličnost - skulptorke iz kolekcije MSU
-    
-    **MAGIČNOST DREVNOG - VENIJA VUČINIĆ TURINSKI** (1934, Kolašin) - izložba (5.9.-23.11.2024.)
-    
-    autorka: dr Rajka Bošković
-    
-    [https://www.msub.org.rs](https://www.msub.org.rs/)
-    
     [11:00 Misterij majstora Fortezze - Europska baština šibenskoga gravera, ZG](javascript:void(0);)
     
     **11.09.2024 | 11:00**
@@ -434,11 +434,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vladan-jeremic/intervju-mikrob.jpg?itok=QDzduSgM)](http://seecult.org/galerija/galerija-umetnika/vladan-jeremic)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/katarina-radovic/zene/women/014.jpg?itok=SDu6ceU9)](http://seecult.org/galerija/galerija-umetnika/katarina-radovic/zenewomen)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/xe-logo-positiv.jpg?itok=U2B2iGHi)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![digitalizacija, nbs](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/digitalizacija/narodna-biblioteka-srbije/nbs-digi-17.jpg?itok=gp__agRe "digitalizacija, nbs")](http://seecult.org/galerija/foto-galerija/digitalizacija/narodna-biblioteka-srbije)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -454,6 +454,9 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Mogućnost raja Mladena Kovačevića na 30. FAF-u](http://seecult.org/vest/mogucnost-raja-mladena-kovacevica-na-30-faf-u)
+* [Retrospektiva Jovana Kratohvila](http://seecult.org/vest/retrospektiva-jovana-kratohvila)
+* [28\. FKM – Mesto naše slodode](http://seecult.org/vest/28-fkm-mesto-nase-slodode)
 * [Slobodna zona za mlade](http://seecult.org/vest/slobodna-zona-za-mlade)
 * [Dualnost Milene Pavlović Barili](http://seecult.org/vest/dualnost-milene-pavlovic-barili)
 * [Domaći filmovi na DOK Lajpcigu](http://seecult.org/vest/domaci-filmovi-na-dok-lajpcigu)
@@ -461,9 +464,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Legat Milana Mladenovića u NBS](http://seecult.org/vest/legat-milana-mladenovica-u-nbs)
 * [Automatski crtež](http://seecult.org/vest/automatski-crtez)
 * [Tragovima jugoslovenskih glumica: Željka Cvjetan-Gortinski](http://seecult.org/vest/tragovima-jugoslovenskih-glumica-zeljka-cvjetan-gortinski)
-* [Uzbudljiv program 20. Slobodne zone](http://seecult.org/vest/uzbudljiv-program-20-slobodne-zone)
-* [Portugalske Veštice u JDP-u](http://seecult.org/vest/portugalske-vestice-u-jdp-u)
-* [21\. Čembalo, živa umetnost](http://seecult.org/vest/21-cembalo-ziva-umetnost)
 
 * [Konkursi](#tab1_1)
 
