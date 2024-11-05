@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Trust
+
+### Amid costly war with Israel, Hezbollah faces fire from its own supporters](https://www.csmonitor.com/World/Middle-East/2024/1104/hezbollah-israel-lebanon-war-shiite-supporters "Amid costly war with Israel, Hezbollah faces fire from its own supporters")
+
 [Justice
 
 ### An unwanted kiss shook Spanish soccer – and society. A new documentary explores why.](https://www.csmonitor.com/World/Europe/2024/1101/spain-women-soccer-football-netflix-seacabo-jenni-hermoso "An unwanted kiss shook Spanish soccer – and society. A new documentary explores why.")
@@ -99,10 +103,6 @@ Recent Stories
 [Gratitude
 
 ### The delights of US democracy](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1101/The-delights-of-US-democracy "The delights of US democracy")
-
-[Resilience
-
-### ‘A bridge to humanity’: Behind a Monitor series on an underreported story](https://www.csmonitor.com/Podcasts/Why-We-Wrote-This/wwwt_2438 "‘A bridge to humanity’: Behind a Monitor series on an underreported story")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-November 01, 2024
+November 04, 2024
 
-The fabulous world of journalistic nuance
+How we’ll cover Tuesday’s elections
 
-As people in the newsroom will tell you, I am a nuance fanatic. Put simply, if something isn’t nuanced, I generally don’t believe it. The desire for simplicity leads to the temptation to simplify. The results: polarization and bad policy.So I love Whitney Eulich’s story today, for the same reasons I loved Francine Kiefer’s last week. We all must have the freedom to make up our own minds about a difficult issue like immigration. But essential to that is actually understanding the complex portrait of what is happening.
+On Tuesday, we will cover the U.S. elections a little differently. We expect huge demand for information, as well as a desire for sources that won’t incite, frighten, or put a thumb on the partisan scale. So we will put a significant amount of our effort into live updates, which will be calm, insightful, short takes on key news with important analysis or context.The link to the live updates page will be on our homepage. Just come to CSMonitor.com on Tuesday to find it. We’d appreciate your feedback on the idea and the execution. Please email me at editor@csmonitor.com.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Amid costly war with Israel, Hezbollah faces fire from its own supporters](https://www.csmonitor.com/World/Middle-East/2024/1104/hezbollah-israel-lebanon-war-shiite-supporters "Amid costly war with Israel, Hezbollah faces fire from its own supporters")
+
 [### Quincy Jones, music producer of ‘Thriller,’ rose from poverty to show business heights](https://www.csmonitor.com/USA/2024/1104/quincy-jones-producer-thriller-michael-jackson "Quincy Jones, music producer of ‘Thriller,’ rose from poverty to show business heights")
 
 [### Mexico City sees potential soccer fields. But garden farmers fight to preserve a legacy.](https://www.csmonitor.com/World/Americas/2024/1104/Mexico-City-chinampas-farming-sustainability-urban-growth "Mexico City sees potential soccer fields. But garden farmers fight to preserve a legacy.")
-
-[### Years after Breonna Taylor’s death, jury finds Kentucky cop guilty of excessive force](https://www.csmonitor.com/USA/2024/1104/Breonna-Taylor-cop-convicted-2020-protests-BLM "Years after Breonna Taylor’s death, jury finds Kentucky cop guilty of excessive force")
 
 * * *
 
