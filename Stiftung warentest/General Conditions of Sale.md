@@ -364,7 +364,7 @@ Suchen
 * [Login](https://www.test.de/meintest/login/)
 * [Registrieren](https://www.test.de/meintest/registrierung/)
 
-rückwärts zurück
+zurück
 
 * Haushalt
 * Multimedia
@@ -382,7 +382,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v120133963.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v121325242.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Hilfe
@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
-* [Mobil­funk: Call­mobile stellt Betrieb ein](https://www.test.de/Mobilfunk-Callmobile-stellt-Betrieb-ein-5935142-0/ "Mobilfunk - Callmobile stellt Betrieb ein")
-* [Fakten zu H5N1: Was wir über die Vogelgrippe wissen](https://www.test.de/Fakten-zu-H5N1-Was-wir-ueber-die-Vogelgrippe-wissen-6136613-0/ "Fakten zu H5N1 - Was wir über die Vogelgrippe wissen")
-* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
+* [Long Covid: Von Corona ausgebremst – Wo Sie Hilfe finden](https://www.test.de/Long-Covid-Ploetzlich-ausgebremst-5933790-0/ "Long Covid - Von Corona ausgebremst – Wo Sie Hilfe finden")
+* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
 
 Fußbereich
 
@@ -2022,7 +2022,7 @@ Rente & finanzielle Vorsorge
 
 [Shop](https://www.test.de/shop/)
 
-rückwärts zurück
+zurück
 
 * Haushalt
 * Multimedia
@@ -2038,7 +2038,7 @@ rückwärts zurück
 
 weiter
 
-rückwärts zurück
+zurück
 
 * Haushalt
 * Multimedia
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
-* [Mobil­funk: Call­mobile stellt Betrieb ein](https://www.test.de/Mobilfunk-Callmobile-stellt-Betrieb-ein-5935142-0/ "Mobilfunk - Callmobile stellt Betrieb ein")
-* [Fakten zu H5N1: Was wir über die Vogelgrippe wissen](https://www.test.de/Fakten-zu-H5N1-Was-wir-ueber-die-Vogelgrippe-wissen-6136613-0/ "Fakten zu H5N1 - Was wir über die Vogelgrippe wissen")
-* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
+* [Long Covid: Von Corona ausgebremst – Wo Sie Hilfe finden](https://www.test.de/Long-Covid-Ploetzlich-ausgebremst-5933790-0/ "Long Covid - Von Corona ausgebremst – Wo Sie Hilfe finden")
+* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
-* [Mobil­funk: Call­mobile stellt Betrieb ein](https://www.test.de/Mobilfunk-Callmobile-stellt-Betrieb-ein-5935142-0/ "Mobilfunk - Callmobile stellt Betrieb ein")
-* [Fakten zu H5N1: Was wir über die Vogelgrippe wissen](https://www.test.de/Fakten-zu-H5N1-Was-wir-ueber-die-Vogelgrippe-wissen-6136613-0/ "Fakten zu H5N1 - Was wir über die Vogelgrippe wissen")
-* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
+* [Long Covid: Von Corona ausgebremst – Wo Sie Hilfe finden](https://www.test.de/Long-Covid-Ploetzlich-ausgebremst-5933790-0/ "Long Covid - Von Corona ausgebremst – Wo Sie Hilfe finden")
+* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
-* [Mobil­funk: Call­mobile stellt Betrieb ein](https://www.test.de/Mobilfunk-Callmobile-stellt-Betrieb-ein-5935142-0/ "Mobilfunk - Callmobile stellt Betrieb ein")
-* [Fakten zu H5N1: Was wir über die Vogelgrippe wissen](https://www.test.de/Fakten-zu-H5N1-Was-wir-ueber-die-Vogelgrippe-wissen-6136613-0/ "Fakten zu H5N1 - Was wir über die Vogelgrippe wissen")
-* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
+* [Long Covid: Von Corona ausgebremst – Wo Sie Hilfe finden](https://www.test.de/Long-Covid-Ploetzlich-ausgebremst-5933790-0/ "Long Covid - Von Corona ausgebremst – Wo Sie Hilfe finden")
+* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
 
 Service Stiftung Warentest
 
