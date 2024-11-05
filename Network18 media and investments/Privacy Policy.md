@@ -128,8 +128,8 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Trump vs Harris](https://www.news18.com/world/us-election-2024-donald-trump-kamala-harris-us-presidential-election-polls-survey-who-is-leading-swing-states-iowa-9108363.html)
-    * [US Presidential Elections](https://www.news18.com/world/us-election-2024-live-updates-over-41-million-americans-cast-their-votes-in-early-voting-liveblog-9107950.html)
+    * [Trump vs Harris](https://www.news18.com/world/us-elections-2024-race-to-270-electoral-votes-these-are-the-key-states-that-trump-and-harris-must-win-9109713.html)
+    * [US Presidential Elections](https://www.news18.com/world/us-presidential-elections-2024-voting-kamala-harris-donald-trump-ballots-swing-states-november-5-and-6-latest-news-liveblog-9109219.html)
     * [Aishwarya Rai](https://www.news18.com/movies/when-aishwarya-rai-spoke-about-overcoming-challenges-with-abhishek-if-you-can-shut-the-chapter-9109158.html)
     * [Imane Khelif](https://www.news18.com/sports/imane-khelif-paris-olympics-gold-medallist-algerian-boxer-identified-as-man-in-leaked-medical-report-9109316.html)
     * [Meenakshi Seshadri](https://www.news18.com/movies/meenakshi-seshadri-says-rahul-rawail-made-me-cry-refused-to-give-me-my-price-for-sunny-deols-dacait-9108334.html)
@@ -169,8 +169,8 @@ Follow us on
 
 In Trends:
 
-* [Trump vs Harris](https://www.news18.com/world/us-election-2024-donald-trump-kamala-harris-us-presidential-election-polls-survey-who-is-leading-swing-states-iowa-9108363.html)
-* [US Presidential Elections](https://www.news18.com/world/us-election-2024-live-updates-over-41-million-americans-cast-their-votes-in-early-voting-liveblog-9107950.html)
+* [Trump vs Harris](https://www.news18.com/world/us-elections-2024-race-to-270-electoral-votes-these-are-the-key-states-that-trump-and-harris-must-win-9109713.html)
+* [US Presidential Elections](https://www.news18.com/world/us-presidential-elections-2024-voting-kamala-harris-donald-trump-ballots-swing-states-november-5-and-6-latest-news-liveblog-9109219.html)
 * [Aishwarya Rai](https://www.news18.com/movies/when-aishwarya-rai-spoke-about-overcoming-challenges-with-abhishek-if-you-can-shut-the-chapter-9109158.html)
 * [Imane Khelif](https://www.news18.com/sports/imane-khelif-paris-olympics-gold-medallist-algerian-boxer-identified-as-man-in-leaked-medical-report-9109316.html)
 * [Meenakshi Seshadri](https://www.news18.com/movies/meenakshi-seshadri-says-rahul-rawail-made-me-cry-refused-to-give-me-my-price-for-sunny-deols-dacait-9108334.html)
