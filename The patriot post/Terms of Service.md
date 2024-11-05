@@ -1,6 +1,6 @@
-**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
+**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -195,26 +195,27 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111635-just-like-that-2024-11-04)
+     [](https://patriotpost.us/memes/111668-dont-sit-it-out-2024-11-05)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34460)
+     [](https://patriotpost.us/cartoons/34471)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Tony Perkins This Tuesday, Don’t Waste Your Responsibility](https://patriotpost.us/opinion/111636-this-tuesday-dont-waste-your-responsibility-2024-11-04)
-*      [Rich Lowry Kamala Harris Sells Faux Unity — Yet Again](https://patriotpost.us/opinion/111634-kamala-harris-sells-faux-unity-yet-again-2024-11-04)
-*      [Gary Bauer Job Creation Collapse](https://patriotpost.us/opinion/111630-job-creation-collapse-2024-11-04)
-*      [Allen West The Rules of Radicals](https://patriotpost.us/opinion/111607-the-rules-of-radicals-2024-11-04)
-*      [Jeff Jacoby What Makes Vote-Buying Wrong?](https://patriotpost.us/opinion/111629-what-makes-vote-buying-wrong-2024-11-04)
-*      [The Washington Stand Headwinds for Harris: Miniscule Job Growth in Last Pre-Election Report](https://patriotpost.us/opinion/111639-headwinds-for-harris-miniscule-job-growth-in-last-pre-election-report-2024-11-04)
-*      [Guest Commentary Kamala to the Rescue?](https://patriotpost.us/opinion/111667-kamala-to-the-rescue-2024-11-04)
-*      [The Babylon Bee In Disgusting Call for Violence, Trump Says Politicians Should Stop Sending Kids Off to War](https://patriotpost.us/opinion/111652-in-disgusting-call-for-violence-trump-says-politicians-should-stop-sending-kids-off-to-war-2024-11-04)
+*      [Dennis Prager Calling Trump ‘Hitler’ Has Done Permanent Damage to the Moral Realm](https://patriotpost.us/opinion/111685-calling-trump-hitler-has-done-permanent-damage-to-the-moral-realm-2024-11-05)
+*      [Victor Joecks Harris Is Wearing ‘The Emperor’s New Clothes’](https://patriotpost.us/opinion/111683-harris-is-wearing-the-emperors-new-clothes-2024-11-05)
+*      [Salena Zito Trump Has Reason in Pennsylvania to Feel Better Than Harris](https://patriotpost.us/opinion/111686-trump-has-reason-in-pennsylvania-to-feel-better-than-harris-2024-11-05)
+*      [Stephen Moore Thank God for the Electoral College](https://patriotpost.us/opinion/111681-thank-god-for-the-electoral-college-2024-11-05)
+*      [Gary Bauer Poll Position](https://patriotpost.us/opinion/111680-poll-position-2024-11-05)
+*      [Daniel McCarthy How Politics Hasn’t Changed Since Jefferson](https://patriotpost.us/opinion/111682-how-politics-hasnt-changed-since-jefferson-2024-11-05)
+*      [Cal Thomas Is It Too Early to Talk 2028?](https://patriotpost.us/opinion/111684-is-it-too-early-to-talk-2028-2024-11-05)
+*      [Christine Flowers Newspapers Aren’t Giving Liberals the Validation They Need](https://patriotpost.us/opinion/111692-newspapers-arent-giving-liberals-the-validation-they-need-2024-11-05)
+*      [The Babylon Bee Democrats Warn That if Trump Is Elected It Will Be the End of Bureaucracy as We Know It](https://patriotpost.us/opinion/111679-democrats-warn-that-if-trump-is-elected-it-will-be-the-end-of-bureaucracy-as-we-know-it-2024-11-05)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -232,7 +233,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### The Foundation
 
-“The great desideratum in Government is, so to modify the sovereignty as that it may be sufficiently neutral between different parts of the Society to controul one part from invading the rights of another, and at the same time sufficiently controuled itself, from setting up an interest adverse to that of the entire Society.” —James Madison (1787)
+“Let each citizen remember at the moment he is offering his vote that he is not making a present or a compliment to please an individual — or at least that he ought not so to do; but that he is executing one of the most solemn trusts in human society for which he is accountable to God and his country.” —Samuel Adams (1781)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
