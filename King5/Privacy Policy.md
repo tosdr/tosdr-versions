@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/bdacbea2-0741-4b2e-bdfb-2c61bc308328/20241105T045616/bdacbea2-0741-4b2e-bdfb-2c61bc308328_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bdacbea2-0741-4b2e-bdfb-2c61bc308328/20241105T045616/bdacbea2-0741-4b2e-bdfb-2c61bc308328_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-contract-vote-results/281-b0f25eff-472c-48c2-9aca-e11546cf3aa0)
+    *  [![](https://media.king5.com/assets/KING/images/70d65392-40bd-4fc8-8d37-fbd150794c90/20241105T021730/70d65392-40bd-4fc8-8d37-fbd150794c90_16x9.jpg) ![](https://media.king5.com/assets/KING/images/70d65392-40bd-4fc8-8d37-fbd150794c90/20241105T021730/70d65392-40bd-4fc8-8d37-fbd150794c90_360x203.jpg)](https://www.king5.com/article/news/local/centralia-restaurant-backs-out-catering-wedding-same-sex-wedding/281-d06bd0d9-dd0d-44c9-83ee-d440a76a190c)
         
-        #### [Boeing machinists approve new contract, ending strike](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-contract-vote-results/281-b0f25eff-472c-48c2-9aca-e11546cf3aa0)
+        #### [Centralia restaurant backs out of catering wedding after owner learns its for same-sex marriage](https://www.king5.com/article/news/local/centralia-restaurant-backs-out-catering-wedding-same-sex-wedding/281-d06bd0d9-dd0d-44c9-83ee-d440a76a190c)
         
-    *  [![](https://media.king5.com/assets/KING/images/c978d2de-2c74-4860-a22b-cff3293c85aa/20241021T192730/c978d2de-2c74-4860-a22b-cff3293c85aa_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c978d2de-2c74-4860-a22b-cff3293c85aa/20241021T192730/c978d2de-2c74-4860-a22b-cff3293c85aa_360x203.jpg)](https://www.king5.com/article/news/local/remains-2-aviators-killed-navy-growler-crash-returning-washington-this-week/281-9ce4e06e-ad18-4f33-aea9-384d882e66a0)
+    *  [![](https://media.king5.com/assets/KING/images/b6179b5e-781a-4b60-abef-65cbdf76a559/20241104T225546/b6179b5e-781a-4b60-abef-65cbdf76a559_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b6179b5e-781a-4b60-abef-65cbdf76a559/20241104T225546/b6179b5e-781a-4b60-abef-65cbdf76a559_360x203.jpg)](https://www.king5.com/article/news/politics/elections/live-updated-results-2024-general-election-races-washington-state/281-e69d948e-e896-4743-9efa-a7310fcd589f)
         
-        #### [Remains of 2 aviators killed in Navy growler crash returning to Washington this week](https://www.king5.com/article/news/local/remains-2-aviators-killed-navy-growler-crash-returning-washington-this-week/281-9ce4e06e-ad18-4f33-aea9-384d882e66a0)
+        #### [Top races to watch in 2024 general election in Washington](https://www.king5.com/article/news/politics/elections/live-updated-results-2024-general-election-races-washington-state/281-e69d948e-e896-4743-9efa-a7310fcd589f)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/be219516-c884-4662-bf00-0182cc2d5d8f/20241105T063019/be219516-c884-4662-bf00-0182cc2d5d8f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/be219516-c884-4662-bf00-0182cc2d5d8f/20241105T063019/be219516-c884-4662-bf00-0182cc2d5d8f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/4637de92-9717-499d-9442-ebe60f908126/20241105T130013/4637de92-9717-499d-9442-ebe60f908126_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4637de92-9717-499d-9442-ebe60f908126/20241105T130013/4637de92-9717-499d-9442-ebe60f908126_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
