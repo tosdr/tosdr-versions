@@ -236,6 +236,7 @@ About Us
 * [Roland-Garros](https://www.infosys.com/roland-garros.html "Roland-Garros")
 * [ATP](https://www.infosys.com/atp.html "ATP")
 * [International Tennis Hall of Fame](https://www.infosys.com/ithf.html "International Tennis Hall of Fame")
+* [Brand Ambassadors](https://www.infosys.com/rafael-nadal.html "Brand Ambassadors")
 
 * [Formula E](https://www.infosys.com/formulae.html "Formula E")
 * [Madison Square Garden](https://www.infosys.com/madison-square-garden.html "Madison Square Garden")
