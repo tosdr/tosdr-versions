@@ -87,32 +87,32 @@
     Featured Partners
     -----------------
     
-    [![](https://www.collaboraonline.com/wp-content/uploads/2024/07/univention-logo.png)](https://www.collaboraonline.com/partners/univention/)
+    [![](https://www.collaboraonline.com/wp-content/uploads/2024/07/owncloud-logo.png)](https://www.collaboraonline.com/partners/owncloud/)
+    
+    [![](https://www.collaboraonline.com/wp-content/uploads/2024/05/Strato_Logo_2019.svg-1024x220.png)](https://www.collaboraonline.com/partners/strato/)
     
     [![](https://www.collaboraonline.com/wp-content/uploads/2023/06/Nextcloud_Logo.svg-e1709655206423-1024x623.png)](https://www.collaboraonline.com/partners/nextcloud/)
     
-    [![](https://www.collaboraonline.com/wp-content/uploads/2023/06/arawa-e1709655274639.png)](https://www.collaboraonline.com/partners/arawa/)
-    
-    [![](https://www.collaboraonline.com/wp-content/uploads/2024/07/owncloud-logo.png)](https://www.collaboraonline.com/partners/owncloud/)
-    
     [![](https://www.collaboraonline.com/wp-content/uploads/2023/06/jeci_logo.png)](https://www.collaboraonline.com/partners/jeci/)
     
-    [![](https://www.collaboraonline.com/wp-content/uploads/2024/05/Strato_Logo_2019.svg-1024x220.png)](https://www.collaboraonline.com/partners/strato/)
+    [![](https://www.collaboraonline.com/wp-content/uploads/2024/07/univention-logo.png)](https://www.collaboraonline.com/partners/univention/)
+    
+    [![](https://www.collaboraonline.com/wp-content/uploads/2023/06/arawa-e1709655274639.png)](https://www.collaboraonline.com/partners/arawa/)
     
     Featured Integrations
     ---------------------
     
-    [![](https://www.collaboraonline.com/wp-content/uploads/2024/05/Alfresco-logo-1.png)](https://www.collaboraonline.com/integrations/collabora-online-and-alfresco/)
+    [![](https://www.collaboraonline.com/wp-content/uploads/2024/05/Mattermost-logo-1.png)](https://www.collaboraonline.com/integrations/collabora-online-and-mattermost/)
     
     [![](https://www.collaboraonline.com/wp-content/uploads/2024/05/Nuxeo-logo.png)](https://www.collaboraonline.com/integrations/collabora-online-and-nuxeo/)
-    
-    [![](https://www.collaboraonline.com/wp-content/uploads/2024/06/Drupal-logo.png)](https://www.collaboraonline.com/integrations/collabora-online-and-drupal/)
-    
-    [![](https://www.collaboraonline.com/wp-content/uploads/2024/05/Mattermost-logo-1.png)](https://www.collaboraonline.com/integrations/collabora-online-and-mattermost/)
     
     [![](https://www.collaboraonline.com/wp-content/uploads/2024/05/Moodle-logo-1.png)](https://www.collaboraonline.com/integrations/collabora-online-and-moodle/)
     
     [![](https://www.collaboraonline.com/wp-content/uploads/2024/02/OpenText-Logo-2017.png)](https://www.collaboraonline.com/partners/opentext/)
+    
+    [![](https://www.collaboraonline.com/wp-content/uploads/2024/06/Drupal-logo.png)](https://www.collaboraonline.com/integrations/collabora-online-and-drupal/)
+    
+    [![](https://www.collaboraonline.com/wp-content/uploads/2024/05/Alfresco-logo-1.png)](https://www.collaboraonline.com/integrations/collabora-online-and-alfresco/)
     
 * [About Us](#)
     
@@ -162,10 +162,10 @@ X
 Privacy Notice
 --------------
 
-Privacy Notice V1.1
+Privacy Notice V1.2
 ===================
 
-_Date of issue: 18/04/2023_
+_Date of issue: 05/10/2024_
 
 Company
 -------
@@ -227,6 +227,10 @@ First party cookies
 #### Anonymous analytics cookies – \[Google Analytics\] (“\_ga, \_gat”)
 
 Google Analytics is a system used by many websites to record anonymous information about who visits a website. Google set two different cookies with expiry dates ranging from 10 minutes to 2 years. These cookies are used mainly to differentiate between first-time visitors to a website and repeat visitors. They do not contain any personally identifiable information. You can find out more about how Google use cookies at http://www.google.com/intl/en/analytics/privacyoverview.html. You can also review Google’s Privacy Policy on analytics here [http://www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html). You can opt out of Google Analytics on all sites by installing this browser plugin [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout).
+
+#### Matomo analytics cookies (“\_pk\_id, \_pk\_ses, \_pk\_ref, \_pf\_testcookie”)
+
+Matomo is an open source web analytics platform. A web analytics platform is used by a website owner in order to measure, collect, analyse and report visitors data for purposes of understanding and optimizing their website.  
 
 #### PHPSESSID cookie (“PHPSESSID”)
 
@@ -303,11 +307,15 @@ To exercise any of the rights listed below, please contact us using data@collabo
 7. The right to not be subject to decision based solely on automated processing.
 8. The right to lodge a complaint with the Information Commissioner’s Office. You can contact the Information Commissioner’s Office on 0303 123 1113 or via email \[ \] or at the Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF. Alternatively, please contact the relevant supervisory body for the country you are resident.
 
+  
+
+  
+
 * * *
 
-#### Changes from [v1.0](https://www.collaboraoffice.com/privacy-notice-v1/)
+#### Changes from [v1.1](https://www.collaboraoffice.com/privacy-notice-v1_1/)
 
-Update policy notice to reflect the UK leaving the EU and the EU changing the US status to non-adequate requiring an alternative method such as Standard Contractural Clauses to be put in place instead of Privacy Shield.
+Added Matomo tracking details.
 
 ![Collabora Online Logo](https://www.collaboraonline.com/wp-content/uploads/2023/11/collabora-online-white.png)
 
