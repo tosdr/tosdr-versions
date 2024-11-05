@@ -10,11 +10,11 @@
     
 * [Enterprise](https://www.smartcat.com/enterprise/)
 * [Pricing](https://www.smartcat.com/pricing/)
-* [Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&tmp=true&land=us_5642520&lang=en)
-* [Sign in](https://smartcat.com/sign-in?tmp=true&land=us_5642520&lang=en)
+* [Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&tmp=true&land=us_5658195&lang=en)
+* [Sign in](https://smartcat.com/sign-in?tmp=true&land=us_5658195&lang=en)
 * [en](#)
 
-[en](#)[Sign in](https://smartcat.com/sign-in?land=us_5642520&lang=en)[Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&land=us_5642520&lang=en)
+[en](#)[Sign in](https://smartcat.com/sign-in?land=us_5658195&lang=en)[Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&land=us_5658195&lang=en)
 
 Smartcat legal
 
@@ -253,7 +253,7 @@ The consent you give us means that you agree to the above when you create your a
 
 #### **What is Smartcat under the GDPR terminology?**
 
-In relation to your personal data when you are registered as an individual translator Smartcat acts as a controller whereby for certain users who are mainly legal entities Smartcat may act as a processor.
+In relation to your personal data when you are registered on the Platform Smartcat acts as a controller whereby for certain users who are mainly legal entities Smartcat may act as a processor.
 
 #### **What are the Cookies and why do we use them?**
 
