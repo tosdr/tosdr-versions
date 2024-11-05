@@ -68,7 +68,7 @@ Non-Refundable Exclusion
 
 **Please note that this refund policy does not apply to accounts issued for special purposes, including fight plan or special accounts.**
 
-PureVPN supports a variety of payment methods to make it easy for you to get PureVPN. However, please note that some payment methods including CoinGate, Google Play Store and Apple App Store do not support the refund option. We have clearly marked such payment methods “non-refundable” during the checkout process and they are not covered by this policy.
+PureVPN supports a variety of payment methods to make it easy for you to get PureVPN. However, please note that some payment methods including Coinpayment, Google Play Store and Apple App Store do not support the refund option. We have clearly marked such payment methods “non-refundable” during the checkout process and they are not covered by this policy.
 
 This Refund Policy is subject to all PureVPN terms and conditions.
 
