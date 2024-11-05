@@ -111,7 +111,7 @@ FR
         
         up to 2% Cash Back](https://www.rakuten.ca/staples-canada)[HP Canada
         
-        2% Cash Back](https://www.rakuten.ca/hp-canada)[Samsung
+        10% Cash Back](https://www.rakuten.ca/hp-canada)[Samsung
         
         up to 3% Cash Back](https://www.rakuten.ca/samsung.com)
         
