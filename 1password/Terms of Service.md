@@ -427,7 +427,7 @@ Show options
     
 * [Blog](https://blog.1password.com/)
     
-* [1Password University](https://www.1password.university/learn?utm_medium=website-footer)
+* [1Password University](https://www.1password.university/learn)
     
 * [Security](https://1password.com/security)
     
