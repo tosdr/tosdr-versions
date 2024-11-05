@@ -377,7 +377,7 @@ Company
 
 Cookie Settings
 
-[Privacy](https://www.tricount.com/privacy)
+[Privacy](https://www.tricount.com/en/privacy)
 
 [Terms & Conditions](https://www.tricount.com/en/terms-conditions)
 
@@ -403,7 +403,7 @@ Company
 
 Cookie Settings
 
-[Privacy](https://www.tricount.com/privacy)
+[Privacy](https://www.tricount.com/en/privacy)
 
 [Terms & Conditions](https://www.tricount.com/en/terms-conditions)
 
@@ -429,7 +429,7 @@ Company
 
 Cookie Settings
 
-[Privacy](https://www.tricount.com/privacy)
+[Privacy](https://www.tricount.com/en/privacy)
 
 [Terms & Conditions](https://www.tricount.com/en/terms-conditions)
 
