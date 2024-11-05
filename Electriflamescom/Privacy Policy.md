@@ -144,11 +144,11 @@ Search for:
 Electric Fireplace Tips:
 ------------------------
 
+* [Choosing the Perfect Electric Heating Option for Mobile Homes](https://www.electriflames.com/buy/electric-fireplace-for-mobile-home/)
+* [Finding the Ideal Electric Fireplace for Small Spaces](https://www.electriflames.com/buy/best-small-electric-fireplace/)
+* [Comparing Electric Fireplaces & Space Heaters: What’s Best for You?](https://www.electriflames.com/buy/electric-fireplace-vs-space-heater/)
 * [5 Best Places To Install Your Electric Fireplace and Why](https://www.electriflames.com/how-to/where-to-put-electric-fireplace/)
 * [7 Key Tips for Choosing the Perfect Electric Wood Fireplace](https://www.electriflames.com/buy/electric-wood-fire-place/)
-* [Electric Fireplace Sound: 3 Key Facts to Know Before You Buy](https://www.electriflames.com/buy/electric-fireplace-sound/)
-* [Electric Fireplaces With Drawers & 7 Features to Look For](https://www.electriflames.com/buy/electric-fireplace-with-drawers/)
-* [7 Must-Have Features for Choosing a 3D Flame Electric Fireplace](https://www.electriflames.com/buy/3d-flame-electric-fireplace/)
 
 3-Sided Electric Fireplaces
 ---------------------------
