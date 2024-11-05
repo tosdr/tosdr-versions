@@ -175,23 +175,7 @@ Cookies
 
 For magic to happen, we use cookies. Read our [Privacy Policy](https://www.lalal.ai/privacy-policy/) to learn more.
 
-### Necessary
-
-These cookies ensure basic functions such as navigation and authentication. Without them, the website cannot work properly.
-
-### Preferences
-
-They enhance your experience by personalizing the site based on your choices, such as your preferred language or region.
-
-### Analytics
-
-They provide valuable insights into site traffic, user behavior, and performance, allowing us to make informed improvements.
-
-### Marketing
-
-They gather data to provide customized ads. These cookies enable us to present you with relevant and engaging content.
-
-OKAllow Selected
+OK
 
 ![](https://s.lalal.ai/img/loader.png)
 
