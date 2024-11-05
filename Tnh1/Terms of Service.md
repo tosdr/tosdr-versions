@@ -212,23 +212,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/1/csm_Record_Time_Transmissao_2f56fe245b.jpg)
-
-Futebol Nacional
-
-Futebol Nacional
-
-Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025
-
-Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025](https://www.tnh1.com.br/noticia/nid/record-monta-time-de-estrelas-para-transmissao-do-paulistao-e-brasileirao-em-2025/ "Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025")[![Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/6/csm_Duplo_Homicidio_Murici_5cdb5404cd.jpg)
-
-Polícia
-
-Polícia
-
-Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici
-
-Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici](https://www.tnh1.com.br/noticia/nid/apos-discussao-por-som-alto-tio-e-sobrinho-de-17-anos-sao-assassinados-a-tiros-em-murici/ "Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici")[![CSA anuncia contratação de atacante alagoano; veja elenco até o momento](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/8/csm_CSA-contrata-Klenisson_7fa975e925.jpg)
+[![CSA anuncia contratação de atacante alagoano; veja elenco até o momento](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/8/csm_CSA-contrata-Klenisson_7fa975e925.jpg)
 
 Temporada 2025
 
@@ -236,15 +220,31 @@ Temporada 2025
 
 CSA anuncia contratação de atacante alagoano; veja elenco até o momento
 
-CSA anuncia contratação de atacante alagoano; veja elenco até o momento](https://www.tnh1.com.br/noticia/nid/csa-anuncia-contratacao-de-atacante-alagoano-veja-elenco-ate-o-momento/ "CSA anuncia contratação de atacante alagoano; veja elenco até o momento")[![Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/e/csm_Suspeito_Esturpo_Espancamento_c04c3f904d.jpg)
+CSA anuncia contratação de atacante alagoano; veja elenco até o momento](https://www.tnh1.com.br/noticia/nid/csa-anuncia-contratacao-de-atacante-alagoano-veja-elenco-ate-o-momento/ "CSA anuncia contratação de atacante alagoano; veja elenco até o momento")[![Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/8/csm_aguinaldo_rayol_59ea4ec98a.jpeg)
 
-Polícia
+tinha 86 anos
 
-Polícia
+tinha 86 anos
 
-Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho
+Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa
 
-Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho](https://www.tnh1.com.br/noticia/nid/suspeito-de-estuprar-crianca-de-10-anos-e-espancado-por-populares-no-jacintinho/ "Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho")
+Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa](https://www.tnh1.com.br/noticia/nid/agnaldo-rayol-cantor-e-apresentador-morre-apos-levar-queda-em-casa/ "Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa ")[![Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/f/csm_mulher-agredida-tentativa-estupro-jacintinho_2f4484dbfe.jpg)
+
+no jacintinho
+
+no jacintinho
+
+Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió
+
+Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió](https://www.tnh1.com.br/noticia/nid/policia-prende-suspeito-que-agrediu-e-tentou-estuprar-mulher-na-porta-de-casa-em-maceio/ "Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió")[![Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/5/csm_pesticida-saude-reproducao-freepik_0968393968.png)
+
+Exposição
+
+Exposição
+
+Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais
+
+Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais](https://www.tnh1.com.br/noticia/nid/estudo-encontra-22-pesticidas-ligados-ao-cancer-de-prostata-veja-quais/ "Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais ")
 
 [![PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/e/csm_pm-apreende-drogas-e-prende-autor-de-violencia-domestica-durante-acoes-no-agreste-e-sertao_32e6835f79.jpeg)
 
