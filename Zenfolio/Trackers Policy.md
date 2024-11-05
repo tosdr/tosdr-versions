@@ -278,6 +278,6 @@ Help
 * [](https://www.tiktok.com/@zenfolioinc "TikTok")
 * [](https://www.pinterest.com/zenfolio/ "Pinterest")
 
-[**SAVE up to 50%!** Offer Ends Soon.\* – View Plans](https://zenfolio.com/plans-pricing/)
+[Early Black Friday Sale! **SAVE 60%** off annual plans.\* – View Plans](https://zenfolio.com/plans-pricing/)
 
 [Try It FREE](https://zenfolio.com/trial/)
