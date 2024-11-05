@@ -1,4 +1,4 @@
-[![writing_contest_2024](/c/img/resources/mb/mini_banner_20241029_writing_contest_2024.png "writing_contest_2024")](https://myanimelist.net/c/u/writingcontest2024_mb/https/mhwc.myanimelist.net?utm_source=MAL&utm_medium=mb&utm_campaign=writingcontest2024&utm_content=windowopen)
+[![MAL x JAPAN](/c/img/images/event/20210527_MALxJAPAN_MiniBanner/500x72_miniBanner_B.png "MAL x JAPAN")](https://mxj.myanimelist.net/)
 
 [Hide Ads](https://myanimelist.net/membership?_location=mal_h_u)[Login](https://myanimelist.net/login.php)[Sign Up](https://myanimelist.net/register.php)
 
@@ -50,6 +50,9 @@ View all results for ${ keyword }
     * [Report](https://myanimelist.net/modules.php?go=report&_location=mal_h_m)
     * [Staff](https://myanimelist.net/staff?_location=mal_h_m)
     * [MAL Supporter](https://myanimelist.net/membership?_location=mal_h_m)
+* [![20th anniversary](https://cdn.myanimelist.net/images/event/20th_anniversary/badge.png)](https://myanimelist.net/20th_anniversary?utm_source=MAL&utm_medium=globalmenu&utm_content=pageopen)
+
+[](#)[🎂 **Celebrate 20 years of MAL with us!** Grab your profile badge and enter our anniversary giveaway](https://myanimelist.net/20th_anniversary?utm_source=MAL&utm_medium=textribbon&utm_content=pageopen)
 
 MyAnimeList Cookie Policy
 =========================
