@@ -1,5 +1,9 @@
 [Zu Inhalt springen](#site-main)
 
+Wir sind LIVE 🔴 ab 11 Uhr - einschalten lohnt sich! #preisvergleich
+
+Wir sind LIVE 🔴 ab 11 Uhr - einschalten lohnt sich! #preisvergleich
+
 Menü
 
 [![talk-point.de logo](//talk-point.de/cdn/shop/files/talk-point-logo_200x30.png?v=1729963456)](https://talk-point.de/)
@@ -654,12 +658,10 @@ Info
 * [Impressum](https://talk-point.de/policies/legal-notice)
 * [Widerrufsbelehrung](https://talk-point.de/policies/refund-policy)
 * [Datenschutz](https://talk-point.de/policies/privacy-policy)
-* [Cookie Einstellungen](https://talk-point.de/?id=GDPR_769769dd5c4da8efb4d18bf16ca2c677)
 * [Entsorgungshinweise](https://talk-point.de/pages/entsorgungshinweise)
 * [Mängelhaftungsrecht](https://talk-point.de/pages/mangelhaftungsrecht)
 * [News](https://talk-point.de/blogs/news)
 * [GDRP](https://talk-point.de/pages/gdpr-compliance)
-* [MoFuMi](https://talk-point.de/pages/mofumi-mobilfunkmittwoch)
 * [Checkliste Speditionslieferung](https://talk-point.de/pages/checkliste-speditionslieferung)
 
 Service & Informationen
