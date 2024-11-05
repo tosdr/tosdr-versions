@@ -1,5 +1,9 @@
 [Skip to content](#MainContent)
 
+  
+
+[🎄 Extended Christmas Returns Are Here! 🎁 Click here for details](https://veno-scorp.co.uk/pages/christmas-extended-policy)
+
      
 
  * All Gaming Pcs
@@ -32,7 +36,7 @@
 * [Help Support](https://veno-scorp.co.uk/pages/contact)
 * [Deals](https://veno-scorp.co.uk/collections/black-friday)
 
- [![Veno-Scorp](//veno-scorp.co.uk/cdn/shop/files/CHRISMAS_LOGO_5e1dff14-b0c5-4724-8247-6fe56feb583f.png?v=1730469425&width=600) ![Veno-Scorp](//veno-scorp.co.uk/cdn/shop/files/CHRISMAS_LOGO_5e1dff14-b0c5-4724-8247-6fe56feb583f.png?v=1730469425&width=600)](https://veno-scorp.co.uk/)
+ [![Veno-Scorp](//veno-scorp.co.uk/cdn/shop/files/CHRISMAS_LOGO_5e1dff14-b0c5-4724-8247-6fe56feb583f.png?v=1730814428&width=600) ![Veno-Scorp](//veno-scorp.co.uk/cdn/shop/files/CHRISMAS_LOGO_f40bfab4-6f9d-4396-a9e0-d429f963668d.png?v=1730814458&width=600)](https://veno-scorp.co.uk/)
 
  
 
@@ -186,6 +190,7 @@ Need Help?
 * [Free Delivery](#)
 * [Warranty](https://veno-scorp.co.uk/pages/warranty)
 * [Returns](https://veno-scorp.co.uk/pages/return-policy)
+* [Christmas Extended Policy](https://veno-scorp.co.uk/pages/christmas-extended-policy)
 
 Quick Links
 
