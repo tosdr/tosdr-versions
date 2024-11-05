@@ -15,8 +15,8 @@
     * [Shop](https://www.shirtee.com/en/store/everythingwillbefinebytacticaltech/)
 * [News & Stories](https://tacticaltech.org/news/)
 * [Our services](https://tacticaltech.org/our-services/):
-    * [Activations](https://tacticaltech.org/education-events-technology/)
-    * [Training](https://tacticaltech.org/digital-media-literacy-training/)
+    * [Experiences](https://tacticaltech.org/education-events-technology/)
+    * [Skills](https://tacticaltech.org/digital-media-literacy-training/)
     * [Consultancy](https://tacticaltech.org/consultancy-services-technology/)
 * [About us](https://tacticaltech.org/about/):
     * [Our team](https://tacticaltech.org/team-and-board/)
