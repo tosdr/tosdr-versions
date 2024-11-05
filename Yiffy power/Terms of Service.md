@@ -105,23 +105,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 598 1
+0 610 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff-gif/izzy-created-by-janslobonejo/)
+[](https://yiff-party.com/yiff/lop-star-wars-visions-and-etc-created-by-roadiesky/)
 
-[izzy created by janslobonejo](https://yiff-party.com/yiff-gif/izzy-created-by-janslobonejo/)
+[lop (star wars visions and etc) created by roadiesky](https://yiff-party.com/yiff/lop-star-wars-visions-and-etc-created-by-roadiesky/)
 
-0 134 0
+0 85 0
 
 October 6, 2024
 
-[](https://yiff-party.com/yiff/marnie-nintendo-and-etc-created-by-bymetalala/)
+[](https://yiff-party.com/yiff/myrica-created-by-funkybun/)
 
-[marnie (nintendo and etc) created by bymetalala](https://yiff-party.com/yiff/marnie-nintendo-and-etc-created-by-bymetalala/)
+[myrica created by funkybun](https://yiff-party.com/yiff/myrica-created-by-funkybun/)
 
-0 1 0
+0 2 0
 
 November 5, 2024
 
