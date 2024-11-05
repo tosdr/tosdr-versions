@@ -87,13 +87,13 @@ Most Read
     
     1. [China’s long-term lunar plans now depend on developing its own Starship](https://arstechnica.com/space/2024/11/chinas-long-term-lunar-plans-now-depend-on-developing-its-own-starship/)
     
-2. 2. [Laptop, smartphone, and game console prices could soar after the election](https://arstechnica.com/tech-policy/2024/11/laptop-smartphone-and-game-console-prices-could-soar-after-the-election/)
+2. 2. [Drugmaker shut down after black schmutz found in injectable weight-loss drug](https://arstechnica.com/health/2024/11/drugmaker-shut-down-after-black-schmutz-found-in-injectable-weight-loss-drug/)
     
-3. 3. [Drugmaker shut down after black schmutz found in injectable weight-loss drug](https://arstechnica.com/health/2024/11/drugmaker-shut-down-after-black-schmutz-found-in-injectable-weight-loss-drug/)
+3. 3. [Laptop, smartphone, and game console prices could soar after the election](https://arstechnica.com/tech-policy/2024/11/laptop-smartphone-and-game-console-prices-could-soar-after-the-election/)
     
-4. 4. [Endangered bees stop Meta’s plan for nuclear-powered AI data center](https://arstechnica.com/ai/2024/11/endangered-bees-stop-metas-plan-for-nuclear-powered-ai-data-center/)
+4. 4. [Guy makes “dodgy e-bike” from 130 used vapes to make point about e-waste](https://arstechnica.com/gadgets/2024/11/disposable-vapes-from-a-music-festival-can-power-a-beefy-e-bike-20-miles/)
     
-5. 5. [Guy makes “dodgy e-bike” from 130 used vapes to make point about e-waste](https://arstechnica.com/gadgets/2024/11/disposable-vapes-from-a-music-festival-can-power-a-beefy-e-bike-20-miles/)
+5. 5. [Endangered bees stop Meta’s plan for nuclear-powered AI data center](https://arstechnica.com/ai/2024/11/endangered-bees-stop-metas-plan-for-nuclear-powered-ai-data-center/)
     
 
 Customize
