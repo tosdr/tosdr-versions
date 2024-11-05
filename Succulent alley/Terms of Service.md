@@ -148,7 +148,23 @@ As long as the website and the information and services on the website are provi
 
 ![DMCA.com Protection Status](https://images.dmca.com/Badges/DMCA_logo-200w_b.png?ID=4b05f295-c2a9-4ca2-9841-8bb1e12c3049)](https://www.dmca.com/Protection/Status.aspx?ID=4b05f295-c2a9-4ca2-9841-8bb1e12c3049 "DMCA.com Protection Status")
 
-[Scroll to top](#wrapper) Scroll to top
+![Facebook](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2040'%3E%3C/svg%3E "Facebook")
+
+![Facebook](https://succulentalley.com/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png "Facebook")
+
+[![fb-share-icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Facebook Share")
+
+![fb-share-icon](https://succulentalley.com/wp-content/plugins/ultimate-social-media-icons/images/share_icons/fb_icons/en_US.svg "Facebook Share")](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsucculentalley.com%2Fterms-and-conditions)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2040'%3E%3C/svg%3E)
+
+![](https://succulentalley.com/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_pinterest.png)
+
+[![fb-share-icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Pin Share")
+
+![fb-share-icon](https://succulentalley.com/wp-content/plugins/ultimate-social-media-icons/images/share_icons/Pinterest_Save/en_US_save.svg "Pin Share")](#)
+
+  [Scroll to top](#wrapper) Scroll to top
 
 * [Succulents](https://succulentalley.com/category/succulents/)
 * [Cacti](https://succulentalley.com/category/cacti/)
