@@ -556,77 +556,27 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Dark Souls Remastered PC](https://cdn.cdkeys.com/245x340/media/catalog/product/d/a/dark-souls-remastered-pc-buy-cheap-cdkeys_4_.jpg)   No 1. \-63%](https://www.cdkeys.com/pc/dark-souls-remastered-pc-steam-cd-key)
+1.    [![No Man's Sky PC](https://cdn.cdkeys.com/245x340/media/catalog/product/m/i/microsoftteams-image_27_.jpg)   No 1. \-64%](https://www.cdkeys.com/pc/no-mans-sky-pc-steam-cd-key)
     
-    **[Dark Souls Remastered PC](https://www.cdkeys.com/pc/dark-souls-remastered-pc-steam-cd-key "Dark Souls Remastered PC")**
+    **[No Man's Sky PC](https://www.cdkeys.com/pc/no-mans-sky-pc-steam-cd-key "No Man's Sky PC")**
     
-    Special Price $16.79 RRP $45.49
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-2.    [![Sea of Thieves Xbox One / PC](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/hero_8_.jpg)   No 2. \-84%](https://www.cdkeys.com/xbox-live/sea-of-thieves-xbox-one)
-    
-    **[Sea of Thieves: 2024 Edition Xbox One / Xbox Series X|S / PC](https://www.cdkeys.com/xbox-live/sea-of-thieves-xbox-one "Sea of Thieves: 2024 Edition Xbox One / Xbox Series X|S / PC")**
-    
-    Special Price $10.39 RRP $64.99
+    Special Price $18.59 RRP $51.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-3.    [![Cult of the Lamb PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/th-box-heist_2_.jpg)   No 3. \-62%](https://www.cdkeys.com/pc/cult-of-the-lamb-pc-steam)
+2.    [![Call of Duty: Black Ops 6 - Cross-Gen Bundle Xbox One & Xbox Series X|S (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/c/a/call_of_duty-_black_ops_6_-_cross-gen_bundle_1.jpg)   No 2. \-33%](https://www.cdkeys.com/xbox-live/call-of-duty-black-ops-6-cross-gen-bundle-xbox-one-and-xbox-series-x-s-ww)
     
-    **[Cult of the Lamb PC](https://www.cdkeys.com/pc/cult-of-the-lamb-pc-steam "Cult of the Lamb PC")**
+    **[Call of Duty: Black Ops 6 - Cross-Gen Bundle Xbox One & Xbox Series X|S (WW)](https://www.cdkeys.com/xbox-live/call-of-duty-black-ops-6-cross-gen-bundle-xbox-one-and-xbox-series-x-s-ww "Call of Duty: Black Ops 6 - Cross-Gen Bundle Xbox One & Xbox Series X|S (WW)")**
     
-    Special Price $9.69 RRP $25.29
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-4.    [![Ready or Not PC](https://cdn.cdkeys.com/245x340/media/catalog/product/d/4/d4f7e42ae7179d5e6e4c2d741b3bca505bda834c2bc83a50c83ac9abbe014eb1_3_.jpg)   No 4. \-56%](https://www.cdkeys.com/pc/ready-or-not-pc-steam)
-    
-    **[Ready or Not PC](https://www.cdkeys.com/pc/ready-or-not-pc-steam "Ready or Not PC")**
-    
-    Special Price $25.99 RRP $58.49
+    Special Price $61.09 RRP $90.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-5.    [![Red Dead Redemption 2 PC - Rockstar Games Launcher](https://cdn.cdkeys.com/245x340/media/catalog/product/f/i/fifa-22-pc-game-origin-cover_4_.jpg)   No 5. \-77%](https://www.cdkeys.com/pc/red-dead-redemption-2-pc-rockstar-cd-key)
-    
-    **[Red Dead Redemption 2 PC - Rockstar Games Launcher](https://www.cdkeys.com/pc/red-dead-redemption-2-pc-rockstar-cd-key "Red Dead Redemption 2 PC - Rockstar Games Launcher")**
-    
-    Special Price $18.19 RRP $77.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-6.    [![SILENT HILL 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/silent_hill_2.jpg)   No 6. \-33%](https://www.cdkeys.com/pc/silent-hill-2-pc-steam)
-    
-    **[SILENT HILL 2 PC](https://www.cdkeys.com/pc/silent-hill-2-pc-steam "SILENT HILL 2 PC")**
-    
-    Special Price $51.99 RRP $77.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-7.    [![7 Days to Die PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_13_.jpg)   No 7. \-63%](https://www.cdkeys.com/pc/7-days-to-die-pc-steam-cd-key)
-    
-    **[7 Days to Die PC](https://www.cdkeys.com/pc/7-days-to-die-pc-steam-cd-key "7 Days to Die PC")**
-    
-    Special Price $18.19 RRP $49.39
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-8.    [![The Sims 4 Life and Death PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims_4_life_and_death.jpg)   No 8. \-30%
+3.    [![The Sims 4 Life and Death PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims_4_life_and_death.jpg)   No 3. \-30%
     
     DLC](https://www.cdkeys.com/pc/the-sims-4-life-and-death-pc-dlc-ea-app)
     
@@ -638,11 +588,21 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-9.    [![Minecraft: Java & Bedrock Edition PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_88__2_1.jpg)   No 9. \-65%](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww)
+4.    [![Warhammer 40,000: Rogue Trader PC](https://cdn.cdkeys.com/245x340/media/catalog/product/w/h/wh40k.jpg)   No 4. \-63%](https://www.cdkeys.com/pc/warhammer-40-000-rogue-trader-pc-steam)
     
-    **[Minecraft: Java & Bedrock Edition PC (WW)](https://www.cdkeys.com/pc/minecraft-java-bedrock-edition-pc-ww "Minecraft: Java & Bedrock Edition PC (WW)")**
+    **[Warhammer 40,000: Rogue Trader PC](https://www.cdkeys.com/pc/warhammer-40-000-rogue-trader-pc-steam "Warhammer 40,000: Rogue Trader PC")**
     
-    Special Price $11.39 RRP $32.49
+    Special Price $19.49 RRP $51.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+5.    [![Frostpunk 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/r/frostpunk_2_1.jpg)   No 5. \-47%](https://www.cdkeys.com/pc/frostpunk-2-pc-steam)
+    
+    **[Frostpunk 2 PC](https://www.cdkeys.com/pc/frostpunk-2-pc-steam "Frostpunk 2 PC")**
+    
+    Special Price $25.99 RRP $49.39
     
     [Add to Wish List](# "Add to Wish List")
     
