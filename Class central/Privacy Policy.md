@@ -399,11 +399,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [330+ Free University Courses to Learn a New Language](https://www.classcentral.com/report/language-learning-online-courses/)
-2. [Learn Something New: 100 Most Popular Courses For November](https://www.classcentral.com/report/most-popular-november-2024/)
-3. [6 Best Photography Courses for 2024](https://www.classcentral.com/report/best-photography-courses/)
-4. [9 Best Adobe Lightroom Courses for 2024](https://www.classcentral.com/report/best-adobe-lightroom-courses/)
-5. [10 Best English Grammar Courses for 2024](https://www.classcentral.com/report/best-english-grammar-courses/)
+1. [Harvard’s Intro to Python: Earn a Free Certificate](https://www.classcentral.com/report/harvard-cs50-python/)
+2. [330+ Free University Courses to Learn a New Language](https://www.classcentral.com/report/language-learning-online-courses/)
+3. [Learn Something New: 100 Most Popular Courses For November](https://www.classcentral.com/report/most-popular-november-2024/)
+4. [6 Best Photography Courses for 2024](https://www.classcentral.com/report/best-photography-courses/)
+5. [9 Best Adobe Lightroom Courses for 2024](https://www.classcentral.com/report/best-adobe-lightroom-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. digital marketing
+1. python
     
-2. sql
+2. hacking
     
-3. harvard
+3. c
     
 
 Popular subjects
 ----------------
 
-1. [Web Development
-    
-    13,463 courses](https://www.classcentral.com/subject/web-development)
-2. [Data Analysis
+1. [Data Analysis
     
     8,547 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Computer Science
+2. [Computer Science
     
     42,054 courses](https://www.classcentral.com/subject/cs)
+3. [Artificial Intelligence
+    
+    13,262 courses](https://www.classcentral.com/subject/ai)
 
 Popular courses
 ---------------
 
-1. [Financial Markets
+1. [Food as Medicine
     
-    Yale University](https://www.classcentral.com/course/financialmarkets-912)
-2. [CS50's Introduction to Computer Science
+    Monash University](https://www.classcentral.com/course/food-as-medicine-5742)
+2. [Spatial Data Science: The New Frontier in Analytics
     
-    Harvard University](https://www.classcentral.com/course/computer-science-harvard-university-cs50-s-introd-442)
-3. [Functional Foods and Nutraceuticals
+    Esri](https://www.classcentral.com/course/independent-spatial-data-science-the-new-frontier-in-analytics-17227)
+3. [Understanding Medical Research: Your Facebook Friend is Wrong
     
-    Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur](https://www.classcentral.com/course/swayam-functional-foods-and-nutraceuticals-14069)
+    Yale University](https://www.classcentral.com/course/medical-research-19515)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
