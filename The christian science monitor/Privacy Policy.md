@@ -92,29 +92,41 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Compassion
+
+### Mud boots of empathy in Spain](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1105/Mud-boots-of-empathy-in-Spain "Mud boots of empathy in Spain")
+
 [Trust
 
-### Amid costly war with Israel, Hezbollah faces fire from its own supporters](https://www.csmonitor.com/World/Middle-East/2024/1104/hezbollah-israel-lebanon-war-shiite-supporters "Amid costly war with Israel, Hezbollah faces fire from its own supporters")
+### James Madison foresaw the big question worrying voters. What did he say?](https://www.csmonitor.com/Commentary/From-the-Editors/2024/1105/James-Madison-foresaw-the-big-question-worrying-voters.-What-did-he-say "James Madison foresaw the big question worrying voters. What did he say?")
 
-[Justice
+[Innovation
 
-### An unwanted kiss shook Spanish soccer – and society. A new documentary explores why.](https://www.csmonitor.com/World/Europe/2024/1101/spain-women-soccer-football-netflix-seacabo-jenni-hermoso "An unwanted kiss shook Spanish soccer – and society. A new documentary explores why.")
-
-[Gratitude
-
-### The delights of US democracy](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1101/The-delights-of-US-democracy "The delights of US democracy")
+### This app developer is giving displaced young Nigerians an educational lifeline](https://www.csmonitor.com/World/Making-a-difference/2024/1105/nigeria-flowdiary-app-displaced-people "This app developer is giving displaced young Nigerians an educational lifeline")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
 * * *
 
-Featured podcast
+Monitor Daily
 
-[Discover the values that drive the story.
+November 04, 2024
 
-![](//images.csmonitor.com/csm/2022/09/1145231_1_why-we-wrote-this-album-cover-1400_square.png?alias=square_200x200)
+How we’ll cover Tuesday’s elections
 
-### Why We Wrote This](https://www.csmonitor.com/podcasts/why-we-wrote-this?icid=values-tab)
+On Tuesday, we will cover the U.S. elections a little differently. We expect huge demand for information, as well as a desire for sources that won’t incite, frighten, or put a thumb on the partisan scale. So we will put a significant amount of our effort into live updates, which will be calm, insightful, short takes on key news with important analysis or context.The link to the live updates page will be on our homepage. Just come to CSMonitor.com on Tuesday to find it. We’d appreciate your feedback on the idea and the execution. Please email me at editor@csmonitor.com.
+
+[Listen to or read today's issue](https://www.csmonitor.com/Daily)
+
+Live Updates
+
+[Here’s what Monitor reporters are watching.
+
+Read now
+
+![](//images.csmonitor.com/csm/2024/11/1183811_1_1105-election-illo-with-text_square.png?alias=square_200x200)
+
+### Election 2024 coverage](https://www.csmonitor.com/election110524?icid=topics-tab)
 
 News
 
@@ -138,16 +150,6 @@ More
 
 * * *
 
-Monitor Daily
-
-November 04, 2024
-
-How we’ll cover Tuesday’s elections
-
-On Tuesday, we will cover the U.S. elections a little differently. We expect huge demand for information, as well as a desire for sources that won’t incite, frighten, or put a thumb on the partisan scale. So we will put a significant amount of our effort into live updates, which will be calm, insightful, short takes on key news with important analysis or context.The link to the live updates page will be on our homepage. Just come to CSMonitor.com on Tuesday to find it. We’d appreciate your feedback on the idea and the execution. Please email me at editor@csmonitor.com.
-
-[Listen to or read today's issue](https://www.csmonitor.com/Daily)
-
 Regions
 
 [Africa](https://www.csmonitor.com/World/Africa) [Americas](https://www.csmonitor.com/World/Americas) [Asia Pacific](https://www.csmonitor.com/World/Asia-Pacific) [Europe](https://www.csmonitor.com/World/Europe) [Middle East](https://www.csmonitor.com/World/Middle-East)
@@ -158,11 +160,11 @@ Regions
 
 Recent Stories
 
-[### Amid costly war with Israel, Hezbollah faces fire from its own supporters](https://www.csmonitor.com/World/Middle-East/2024/1104/hezbollah-israel-lebanon-war-shiite-supporters "Amid costly war with Israel, Hezbollah faces fire from its own supporters")
+[### AI makes the fashion industry faster and greener. But what will that mean for workers?](https://www.csmonitor.com/World/Asia-South-Central/2024/1105/AI-fast-fashion-workers-garment-industry-climate "AI makes the fashion industry faster and greener. But what will that mean for workers?")
 
-[### Quincy Jones, music producer of ‘Thriller,’ rose from poverty to show business heights](https://www.csmonitor.com/USA/2024/1104/quincy-jones-producer-thriller-michael-jackson "Quincy Jones, music producer of ‘Thriller,’ rose from poverty to show business heights")
+[### Boeing was losing $50 million per day. Then the air machinists ended their strike.](https://www.csmonitor.com/USA/2024/1105/Boeing-union-strike-ends-deal-Joe-Biden "Boeing was losing $50 million per day. Then the air machinists ended their strike.")
 
-[### Mexico City sees potential soccer fields. But garden farmers fight to preserve a legacy.](https://www.csmonitor.com/World/Americas/2024/1104/Mexico-City-chinampas-farming-sustainability-urban-growth "Mexico City sees potential soccer fields. But garden farmers fight to preserve a legacy.")
+[### How the FBI helped a small Kansas town recover stolen funds in a cryptocurrency scheme](https://www.csmonitor.com/USA/2024/1105/Kansas-life-savings-cryptocurrency-FBI "How the FBI helped a small Kansas town recover stolen funds in a cryptocurrency scheme")
 
 * * *
 
