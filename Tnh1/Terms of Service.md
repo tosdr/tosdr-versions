@@ -18,7 +18,19 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![MP-AL tenta localizar criança de 11 anos e adolescente de 16 que podem ter sumido juntas em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/9/csm_Plid_tenta_localizar_crianca_de_11_anos_e_adolescente_de_16_que_podem_ter_sumido_juntas_em_Maceio_-_foto_Divulgacao_MPAL_3467abbdc8.jpg)
+   [![Vídeo: caminhão fica preso em fios elétricos e deixa postes danificados](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/7/csm_caminhao-preso-fios_d75f25eb37.jpg)
+
+AL-101 Norte
+
+Vídeo: caminhão fica preso em fios elétricos e deixa postes danificados](https://www.tnh1.com.br/noticia/nid/video-caminhao-fica-preso-em-fios-eletricos-e-deixa-postes-danificados/ "Vídeo: caminhão fica preso em fios elétricos e deixa postes danificados")   [![Menina de 11 anos deixa bilhete para mãe após fugir de casa: “fui viver minha vida”](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/3/csm_bilhete_meninas_que_fugiram_aa7224b3bb.jpg)
+
+FAMÍLIA PREOCUPADA
+
+Menina de 11 anos deixa bilhete para mãe após fugir de casa: “fui viver minha vida”](https://www.tnh1.com.br/noticia/nid/menina-de-11-anos-deixa-bilhete-para-mae-apos-fugir-de-casa-fui-viver-minha-vida/ "Menina de 11 anos deixa bilhete para mãe após fugir de casa: “fui viver minha vida”")   [![Garota de programa leva tiro em frente a hotel na Pajuçara; suspeito fugiu](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/1/csm_viatura_pm_-_foto_arquivo_004c932c1b.jpg)
+
+Foi socorrida
+
+Garota de programa leva tiro em frente a hotel na Pajuçara; suspeito fugiu](https://www.tnh1.com.br/noticia/nid/garota-de-programa-leva-tiro-em-frente-a-hotel-na-pajucara-suspeito-fugiu/ "Garota de programa leva tiro em frente a hotel na Pajuçara; suspeito fugiu")   [![MP-AL tenta localizar criança de 11 anos e adolescente de 16 que podem ter sumido juntas em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/a/csm_Ministerio_Publico_de_Alagoas_-_foto_MPAL_b04b6ae044.jpg)
 
 Desaparecidas
 
@@ -30,19 +42,7 @@ Veja quais bairros vão receber decoração natalina em Maceió](https://www.tnh
 
 em bebedouro
 
-Moradores dos Flexais ocupam canteiro de obras da Braskem em protesto por realocação](https://www.tnh1.com.br/noticia/nid/moradores-dos-flexais-ocupam-canteiro-de-obras-da-braskem-em-protesto-por-realocacao/ "Moradores dos Flexais ocupam canteiro de obras da Braskem em protesto por realocação")   [![Homem é preso suspeito de agredir a própria filha e puxar cabelo de ex-companheira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
-
-Na Parte Alta
-
-Homem é preso suspeito de agredir a própria filha e puxar cabelo de ex-companheira](https://www.tnh1.com.br/noticia/nid/homem-e-preso-suspeito-de-agredir-a-propria-filha-e-puxar-cabelo-de-ex-companheira/ "Homem é preso suspeito de agredir a própria filha e puxar cabelo de ex-companheira")   [![Vídeo: motorista com sinais de embriaguez atropela ciclista idoso na Rua Fechada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/e/csm_motorista_que_atropelou_idoso_ciclista_pcal_5267fbdc13.jpg)
-
-FOI PRESO
-
-Vídeo: motorista com sinais de embriaguez atropela ciclista idoso na Rua Fechada](https://www.tnh1.com.br/noticia/nid/video-motorista-com-sinais-de-embriaguez-atropela-ciclista-idoso-na-rua-fechada/ "Vídeo: motorista com sinais de embriaguez atropela ciclista idoso na Rua Fechada")   [![Em Maceió, estudantes revisam conteúdos de humanas e dicas de redação ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/f/csm_02-11-24-Pre-Vestibular-Educar-e-Massa-Por-Joyce-Juliana-059_194a524bae.jpg)
-
-aulão pré-enem
-
-Em Maceió, estudantes revisam conteúdos de humanas e dicas de redação](https://www.tnh1.com.br/noticia/nid/em-maceio-estudantes-revisam-conteudos-de-humanas-e-dicas-de-redacao/ "Em Maceió, estudantes revisam conteúdos de humanas e dicas de redação ")
+Moradores dos Flexais ocupam canteiro de obras da Braskem em protesto por realocação](https://www.tnh1.com.br/noticia/nid/moradores-dos-flexais-ocupam-canteiro-de-obras-da-braskem-em-protesto-por-realocacao/ "Moradores dos Flexais ocupam canteiro de obras da Braskem em protesto por realocação")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Em Maceió, estudantes revisam conteúdos de humanas e dicas de redação](https
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Veja imagens do resgate das cinco pessoas que ficaram ilhadas na praia de Barra Nova](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/f/csm_corpo-de-bombeiros-resgata-cinco-pessoas-que-ficaram-ilhadas-na-praia-de-barra-nova_-_foto_Ascom_CBMAL_540f5d37a4.png)
+   [![Concurso da Prefeitura de Viçosa tem inscrições prorrogadas; veja nova data](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/d/csm_vicosa_alaogoas_cidades_89d5ac9cc4.jpeg)
+
+176 vagas
+
+Concurso da Prefeitura de Viçosa tem inscrições prorrogadas; veja nova data](https://www.tnh1.com.br/noticia/nid/concurso-da-prefeitura-de-vicosa-tem-inscricoes-prorrogadas-veja-nova-data/ "Concurso da Prefeitura de Viçosa tem inscrições prorrogadas; veja nova data")   [![Veja imagens do resgate das cinco pessoas que ficaram ilhadas na praia de Barra Nova](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/f/csm_corpo-de-bombeiros-resgata-cinco-pessoas-que-ficaram-ilhadas-na-praia-de-barra-nova_-_foto_Ascom_CBMAL_540f5d37a4.png)
 
 em marechal
 
-Veja imagens do resgate das cinco pessoas que ficaram ilhadas na praia de Barra Nova](https://www.tnh1.com.br/noticia/nid/veja-imagens-do-resgate-das-cinco-pessoas-que-ficaram-ilhadas-na-praia-de-barra-nova/ "Veja imagens do resgate das cinco pessoas que ficaram ilhadas na praia de Barra Nova")   [![Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/9/csm_pm-combate-crimes-de-trafico-e-de-receptacao-em-sao-jose-da-tapera-e-maceio_36d7839bbc.jpg)
+Veja imagens do resgate das cinco pessoas que ficaram ilhadas na praia de Barra Nova](https://www.tnh1.com.br/noticia/nid/veja-imagens-do-resgate-das-cinco-pessoas-que-ficaram-ilhadas-na-praia-de-barra-nova/ "Veja imagens do resgate das cinco pessoas que ficaram ilhadas na praia de Barra Nova")   [![Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/9/csm_pm-combate-crimes-de-trafico-e-de-receptacao-em-sao-jose-da-tapera-e-maceio_36d7839bbc.jpg)
 
 Alagoas
 
-Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió](https://www.tnh1.com.br/noticia/nid/policia-combate-crimes-de-trafico-e-de-receptacao-em-sao-jose-da-tapera-e-maceio/ "Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió")   [![Jovem morre após se afogar na praia de Lagoa do Pau, em Coruripe](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/2/csm_corpo-de-bombeiros-salva-quatro-turistas-argentinos-de-afogamento-na-praia-do-frances_-_foto_Corpo_de_Bombeiros_a78260941c.jpg)
+Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió](https://www.tnh1.com.br/noticia/nid/policia-combate-crimes-de-trafico-e-de-receptacao-em-sao-jose-da-tapera-e-maceio/ "Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió")   [![Jovem morre após se afogar na praia de Lagoa do Pau, em Coruripe](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/2/csm_corpo-de-bombeiros-salva-quatro-turistas-argentinos-de-afogamento-na-praia-do-frances_-_foto_Corpo_de_Bombeiros_a78260941c.jpg)
 
 Alagoas
 
-Jovem morre após se afogar na praia de Lagoa do Pau, em Coruripe](https://www.tnh1.com.br/noticia/nid/jovem-morre-apos-se-afogar-na-praia-de-lagoa-do-pau-em-coruripe/ "Jovem morre após se afogar na praia de Lagoa do Pau, em Coruripe")   [![Confira os ganhadores da edição deste domingo, 3, do Alagoas dá Sorte](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
+Jovem morre após se afogar na praia de Lagoa do Pau, em Coruripe](https://www.tnh1.com.br/noticia/nid/jovem-morre-apos-se-afogar-na-praia-de-lagoa-do-pau-em-coruripe/ "Jovem morre após se afogar na praia de Lagoa do Pau, em Coruripe")   [![Confira os ganhadores da edição deste domingo, 3, do Alagoas dá Sorte](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
 
 Alagoas
 
-Confira os ganhadores da edição deste domingo, 3, do Alagoas dá Sorte](https://www.tnh1.com.br/noticia/nid/confira-os-ganhadores-da-edicao-deste-domingo-3-do-alagoas-da-sorte/ "Confira os ganhadores da edição deste domingo, 3, do Alagoas dá Sorte")   [![Alagoas tem sete trechos de praias impróprios para banho; veja quais](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/8/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_c379360075.jpeg)
+Confira os ganhadores da edição deste domingo, 3, do Alagoas dá Sorte](https://www.tnh1.com.br/noticia/nid/confira-os-ganhadores-da-edicao-deste-domingo-3-do-alagoas-da-sorte/ "Confira os ganhadores da edição deste domingo, 3, do Alagoas dá Sorte")   [![Alagoas tem sete trechos de praias impróprios para banho; veja quais](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/8/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_c379360075.jpeg)
 
 balneabilidade
 
-Alagoas tem sete trechos de praias impróprios para banho; veja quais](https://www.tnh1.com.br/noticia/nid/alagoas-tem-sete-trechos-de-praias-improprios-para-banho-veja-quais/ "Alagoas tem sete trechos de praias impróprios para banho; veja quais")   [![Veja como deve ficar o tempo em Alagoas para o fim de semana de Finados ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/2/csm_previsao-semarh-alagoas_f468f393ad.png)
-
-Meteorologia
-
-Veja como deve ficar o tempo em Alagoas para o fim de semana de Finados](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-alagoas-para-o-fim-de-semana-de-finados/ "Veja como deve ficar o tempo em Alagoas para o fim de semana de Finados ")
+Alagoas tem sete trechos de praias impróprios para banho; veja quais](https://www.tnh1.com.br/noticia/nid/alagoas-tem-sete-trechos-de-praias-improprios-para-banho-veja-quais/ "Alagoas tem sete trechos de praias impróprios para banho; veja quais")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Veja como deve ficar o tempo em Alagoas para o fim de semana de Finados](https:/
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/e/csm_pm-apreende-drogas-e-prende-autor-de-violencia-domestica-durante-acoes-no-agreste-e-sertao_28c058043b.jpeg)
+   [![PF indicia militar da Marinha e irmão por ameaças de morte à família de Moraes](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/4/csm_alexandre_moraes_agencia_5f0cc6400c.png)
+
+Por e-mail
+
+PF indicia militar da Marinha e irmão por ameaças de morte à família de Moraes](https://www.tnh1.com.br/noticia/nid/pf-indicia-militar-da-marinha-e-irmao-por-ameacas-de-morte-a-familia-de-moraes/ "PF indicia militar da Marinha e irmão por ameaças de morte à família de Moraes")   [![Filha é apreendida após invadir casa da mãe e agredi-la com tapas no rosto, na Jatiúca](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/e/csm_CENTRAL-DE-FLAGRANTES-MACEIO-1-1-600x400_274c303b5f.jpg)
+
+parte baixa
+
+Filha é apreendida após invadir casa da mãe e agredi-la com tapas no rosto, na Jatiúca](https://www.tnh1.com.br/noticia/nid/filha-e-apreendida-apos-invadir-casa-da-mae-e-agredi-la-com-tapas-no-rosto-na-jatiuca/ "Filha é apreendida após invadir casa da mãe e agredi-la com tapas no rosto, na Jatiúca")   [![Bruno Henrique é alvo de operação após investigação apontar manipulação em jogo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/4/csm_flamengo-bruno-henrique-foto_marcelo_cortes_crf_cff6fcfb36.jpg)
+
+'SPOT-FIXING"
+
+Bruno Henrique é alvo de operação após investigação apontar manipulação em jogo](https://www.tnh1.com.br/noticia/nid/bruno-henrique-e-alvo-de-operacao-apos-investigacao-apontar-manipulacao-em-jogo/ "Bruno Henrique é alvo de operação após investigação apontar manipulação em jogo")   [![Garota de programa leva tiro em frente a hotel na Pajuçara; suspeito fugiu](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/1/csm_viatura_pm_-_foto_arquivo_004c932c1b.jpg)
+
+Foi socorrida
+
+Garota de programa leva tiro em frente a hotel na Pajuçara; suspeito fugiu](https://www.tnh1.com.br/noticia/nid/garota-de-programa-leva-tiro-em-frente-a-hotel-na-pajucara-suspeito-fugiu/ "Garota de programa leva tiro em frente a hotel na Pajuçara; suspeito fugiu")   [![PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/e/csm_pm-apreende-drogas-e-prende-autor-de-violencia-domestica-durante-acoes-no-agreste-e-sertao_28c058043b.jpeg)
 
 Polícia
 
-PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão](https://www.tnh1.com.br/noticia/nid/pm-apreende-drogas-e-prende-autor-de-violencia-domestica-durante-acoes-no-agreste-e-sertao/ "PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão")   [![Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/f/csm_mulher-agredida-tentativa-estupro-jacintinho_03a50416af.jpg)
+PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão](https://www.tnh1.com.br/noticia/nid/pm-apreende-drogas-e-prende-autor-de-violencia-domestica-durante-acoes-no-agreste-e-sertao/ "PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão")   [![Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/f/csm_mulher-agredida-tentativa-estupro-jacintinho_03a50416af.jpg)
 
 no jacintinho
 
-Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió](https://www.tnh1.com.br/noticia/nid/policia-prende-suspeito-que-agrediu-e-tentou-estuprar-mulher-na-porta-de-casa-em-maceio/ "Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió")   [![Quatro meses do crime: PC divulga novas imagens de suspeito de matar motorista no Jacintinho](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/1/csm_suspeito_homicidio_jaca_divulgacao_pcal_b98e4cde53.jpg)
-
-caso de junho
-
-Quatro meses do crime: PC divulga novas imagens de suspeito de matar motorista no Jacintinho](https://www.tnh1.com.br/noticia/nid/quatro-meses-do-crime-pc-divulga-novas-imagens-de-suspeito-de-matar-motorista-no-jacintinho/ "Quatro meses do crime: PC divulga novas imagens de suspeito de matar motorista no Jacintinho")   [![Mulher reclama com vizinhos sobre ser espionada com câmera de segurança e é esfaqueada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/a/csm_Central_de_Policia_de_Arapiraca_fb9d405eee.jpg)
-
-no interior
-
-Mulher reclama com vizinhos sobre ser espionada com câmera de segurança e é esfaqueada](https://www.tnh1.com.br/noticia/nid/mulher-reclama-com-vizinhos-sobre-ser-espionada-com-camera-de-seguranca-e-e-esfaqueada/ "Mulher reclama com vizinhos sobre ser espionada com câmera de segurança e é esfaqueada")   [!['Zé do Peixe': polícia busca por suspeito de matar tio e sobrinho após discussão por som alto](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/6/csm_Duplo_Homicidio_Murici_25b9c2b96f.jpg)
-
-EM MURICI
-
-'Zé do Peixe': polícia busca por suspeito de matar tio e sobrinho após discussão por som alto](https://www.tnh1.com.br/noticia/nid/ze-do-peixe-policia-busca-por-suspeito-de-matar-tio-e-sobrinho-apos-discussao-por-som-alto/ "'Zé do Peixe': polícia busca por suspeito de matar tio e sobrinho após discussão por som alto")   [![Motorista embriagado é preso após tentar atropelar clientes de bar e morder policial ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/9/csm_motorista_mordida_6cde568a0d.jpeg)
-
-Veja vídeo
-
-Motorista embriagado é preso após tentar atropelar clientes de bar e morder policial](https://www.tnh1.com.br/noticia/nid/motorista-embriagado-e-preso-apos-tentar-atropelar-clientes-de-bar-e-morder-policial/ "Motorista embriagado é preso após tentar atropelar clientes de bar e morder policial ")
+Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió](https://www.tnh1.com.br/noticia/nid/policia-prende-suspeito-que-agrediu-e-tentou-estuprar-mulher-na-porta-de-casa-em-maceio/ "Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -220,23 +220,7 @@ Temporada 2025
 
 CSA anuncia contratação de atacante alagoano; veja elenco até o momento
 
-CSA anuncia contratação de atacante alagoano; veja elenco até o momento](https://www.tnh1.com.br/noticia/nid/csa-anuncia-contratacao-de-atacante-alagoano-veja-elenco-ate-o-momento/ "CSA anuncia contratação de atacante alagoano; veja elenco até o momento")[![Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/8/csm_aguinaldo_rayol_59ea4ec98a.jpeg)
-
-tinha 86 anos
-
-tinha 86 anos
-
-Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa
-
-Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa](https://www.tnh1.com.br/noticia/nid/agnaldo-rayol-cantor-e-apresentador-morre-apos-levar-queda-em-casa/ "Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa ")[![Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/f/csm_mulher-agredida-tentativa-estupro-jacintinho_2f4484dbfe.jpg)
-
-no jacintinho
-
-no jacintinho
-
-Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió
-
-Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió](https://www.tnh1.com.br/noticia/nid/policia-prende-suspeito-que-agrediu-e-tentou-estuprar-mulher-na-porta-de-casa-em-maceio/ "Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió")[![Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/5/csm_pesticida-saude-reproducao-freepik_0968393968.png)
+CSA anuncia contratação de atacante alagoano; veja elenco até o momento](https://www.tnh1.com.br/noticia/nid/csa-anuncia-contratacao-de-atacante-alagoano-veja-elenco-ate-o-momento/ "CSA anuncia contratação de atacante alagoano; veja elenco até o momento")[![Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/5/csm_pesticida-saude-reproducao-freepik_0968393968.png)
 
 Exposição
 
@@ -244,41 +228,57 @@ Exposição
 
 Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais
 
-Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais](https://www.tnh1.com.br/noticia/nid/estudo-encontra-22-pesticidas-ligados-ao-cancer-de-prostata-veja-quais/ "Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais ")
+Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais](https://www.tnh1.com.br/noticia/nid/estudo-encontra-22-pesticidas-ligados-ao-cancer-de-prostata-veja-quais/ "Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais ")[![Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/8/csm_aguinaldo_rayol_59ea4ec98a.jpeg)
 
-[![PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/e/csm_pm-apreende-drogas-e-prende-autor-de-violencia-domestica-durante-acoes-no-agreste-e-sertao_32e6835f79.jpeg)
+tinha 86 anos
 
-Polícia
+tinha 86 anos
 
-Polícia
+Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa
 
-PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão
+Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa](https://www.tnh1.com.br/noticia/nid/agnaldo-rayol-cantor-e-apresentador-morre-apos-levar-queda-em-casa/ "Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa ")[![Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/f/csm_mulher-agredida-tentativa-estupro-jacintinho_2f4484dbfe.jpg)
 
-PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão](https://www.tnh1.com.br/noticia/nid/pm-apreende-drogas-e-prende-autor-de-violencia-domestica-durante-acoes-no-agreste-e-sertao/ "PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão")[![Guerreiros da Criação: maior prêmio da publicidade alagoana abre inscrições](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/7/csm_premiacao_guerreiros_da_criacao_2_foto_matheus_azevedo_tnh1_564941a91d.jpeg)
+no jacintinho
 
-Geral
+no jacintinho
 
-Geral
+Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió
 
-Guerreiros da Criação: maior prêmio da publicidade alagoana abre inscrições
+Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió](https://www.tnh1.com.br/noticia/nid/policia-prende-suspeito-que-agrediu-e-tentou-estuprar-mulher-na-porta-de-casa-em-maceio/ "Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió")
 
-Guerreiros da Criação: maior prêmio da publicidade alagoana abre inscrições](https://www.tnh1.com.br/noticia/nid/guerreiros-da-criacao-maior-premio-da-publicidade-alagoana-abre-inscricoes/ "Guerreiros da Criação: maior prêmio da publicidade alagoana abre inscrições")[![Governo abre processo contra Tiktok para impedir acesso de crianças à plataforma](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/6/csm_tik-tok-foto_Pixabay_c5ad3f3fde.jpg)
+[![Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/c/csm_Praia-do-Sonho-Verde_divulgacao_f8d3e4d94c.jpg)
 
-rede social
+LEVADO A HOSPITAL
 
-rede social
+LEVADO A HOSPITAL
 
-Governo abre processo contra Tiktok para impedir acesso de crianças à plataforma
+Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas
 
-Governo abre processo contra Tiktok para impedir acesso de crianças à plataforma](https://www.tnh1.com.br/noticia/nid/governo-abre-processo-contra-tiktok-para-impedir-acesso-de-criancas-a-plataforma/ "Governo abre processo contra Tiktok para impedir acesso de crianças à plataforma")[![Neymar sai machucado em partida do Al-Hilal no 2º jogo após volta de lesão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/5/csm_Neymar_lesao_-_foto_Reproducao_68c811b578.jpg)
+Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas](https://www.tnh1.com.br/noticia/nid/bombeiro-e-atacado-por-caes-em-praia-do-litoral-norte-de-alagoas/ "Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas")[![Kate Middleton e William ficaram chocados com repercussão de imagem editada dela com filhos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/a/csm_PRINCE_WILLIAM_AND_KATE_MIDDLETON_REPROCUCAO_REDES_SOCIAIS__be87053c83.jpg)
 
-Champions da Ásia
+'Desproporcional'
 
-Champions da Ásia
+'Desproporcional'
 
-Neymar sai machucado em partida do Al-Hilal no 2º jogo após volta de lesão
+Kate Middleton e William ficaram chocados com repercussão de imagem editada dela com filhos
 
-Neymar sai machucado em partida do Al-Hilal no 2º jogo após volta de lesão](https://www.tnh1.com.br/noticia/nid/neymar-sai-machucado-em-partida-do-al-hilal-no-2o-jogo-apos-volta-de-lesao/ "Neymar sai machucado em partida do Al-Hilal no 2º jogo após volta de lesão")
+Kate Middleton e William ficaram chocados com repercussão de imagem editada dela com filhos](https://www.tnh1.com.br/noticia/nid/kate-middleton-e-william-ficaram-chocados-com-repercussao-de-imagem-editada-dela-com-filhos/ "Kate Middleton e William ficaram chocados com repercussão de imagem editada dela com filhos")[!['A Fazenda 16': Sacha Bali desabafa e chora após provocações](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/4/csm_sacha-fazenda-reproducao_387082e290.jpg)
+
+Discussão
+
+Discussão
+
+'A Fazenda 16': Sacha Bali desabafa e chora após provocações
+
+'A Fazenda 16': Sacha Bali desabafa e chora após provocações](https://www.tnh1.com.br/noticia/nid/a-fazenda-16-sacha-bali-desabafa-e-chora-apos-provocacoes/ "'A Fazenda 16': Sacha Bali desabafa e chora após provocações")[![PF indicia militar da Marinha e irmão por ameaças de morte à família de Moraes](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/4/csm_alexandre_moraes_agencia_899bf5c347.png)
+
+Por e-mail
+
+Por e-mail
+
+PF indicia militar da Marinha e irmão por ameaças de morte à família de Moraes
+
+PF indicia militar da Marinha e irmão por ameaças de morte à família de Moraes](https://www.tnh1.com.br/noticia/nid/pf-indicia-militar-da-marinha-e-irmao-por-ameacas-de-morte-a-familia-de-moraes/ "PF indicia militar da Marinha e irmão por ameaças de morte à família de Moraes")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
