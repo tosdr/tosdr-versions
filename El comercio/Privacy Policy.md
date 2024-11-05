@@ -31,86 +31,169 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-La IA y su debut en las artes visuales
-======================================
+Los centros de votación en EE.UU. abren para elegir entre Harris y Trump
+========================================================================
 
-El avance de las tecnologías es insofrenable.
----------------------------------------------
+La votación en las elecciones de EE.UU. se iniciará a diferentes horas, según el huso horario de cada estado
+------------------------------------------------------------------------------------------------------------
 
-![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
+![Un hombre coloca la bandera estadounidense durante un acto electoral del candidato republicano al Senado Kari Lake en Prescott, Arizona, Estados Unidos. Las elecciones estadounidenses se celebran este martes.](https://www.elcomercio.com/wp-content/uploads/2024/11/elecciones-EEUU.jpg)
 
-Imagino al **robot** autor de la pieza subastada en octubre de 2024 en Sotheby’s, deslizándose por sus **pasillos**, con una sonrisa entre **soberbia** y despreciativa, luego de que su obra fuera adquirida por algún ‘milmillonario’ o, quién sabe, por alguien de una de las mafias que gobiernan el **mundo**.
+Los primeros centros de **votación en EE.UU.** abrieron este martes 5 de noviembre de 2024 a las 05:00 hora local (10:00 GMT) para dar comienzo a una jornada de elecciones histórica. En ella, el país elegirá entre la vicepresidenta y candidata demócrata, **Kamala Harris**, y el exmandatario republicano **Donald Trump** (2017-2021).
 
-¿Adónde va?, rumbo a su secreto **estudio** donde prepara su primera exposición sin el auspicio de Aidan Meller, el creador de un algoritmo de **inteligencia artificial** (IA) para dibujar y pintar, cuyo apoyo fue crucial para su **ópera** prima. (Meller, el geniecillo mentor de la artista, es un personaje que exuda fatuidad, posa con sus robotinas y colecciona arte antiguo con unción).
+Más noticias
+------------
 
-El rostro aterrado de Alan Turing
+* [El voto latino impacta, como nunca, en las elecciones de EE. UU.](https://www.elcomercio.com/opinion/editorial/elecciones-estados-unidos-kamala-trump-latinos.html "El voto latino impacta, como nunca, en las elecciones de EE. UU.")
+* [Estas son las 5 propuestas claves de Donald Trump y Kamala Harris](https://www.elcomercio.com/actualidad/mundo/son-5-propuestas-claves-donald-trump-kamala-harris.html "Estas son las 5 propuestas claves de Donald Trump y Kamala Harris")
+* [Las elecciones en Estados Unidos se realizarán el 5 de noviembre de 2024](https://www.elcomercio.com/actualidad/mundo/elecciones-estados-unidos-realizaran-5-noviembre-2024.html "Las elecciones en Estados Unidos se realizarán el 5 de noviembre de 2024")
+
+Elecciones en EE.UU. se iniciaron
 ---------------------------------
 
-El valor de inicio de la **subasta** osciló entre 130.000 y 190.000 dólares pagaderos en **criptomonedas**. Arte, **tecnología** y **finanzas** en una sola tríada verdadera, aquella que rige el destino de la **humanidad** ‘ultramodernista’. Pero, si ya ha habido **imágenes** creadas por la IA, ¿por qué el estruendo de este evento? “Lo que hace que esta obra de **arte** sea diferente de otras obras generadas por IA es que con Ai-Da hay una manifestación **física**… y esta es la primera vez que la obra de un **robot** de este tipo sale a subasta”, advirtió Meller.
+Los primeros en poder acudir a las urnas fueron los vecinos de **Vermont (**noreste), donde los centros de votación abren entre las 05:00 hora local (10:00 GMT) y las 10:00 (15:00 GMT).
 
-Juan Martín Prada recuerda que, en los 60 del **siglo XX**, Max Bense, filósofo y **científico alemán**, propuso una definición de “**estética generativa**” en un escenario más amplio de lo alcanzado con **sistemas generativos** de IA en nuestro tiempo; mientras Christian Vinces alerta: “Nuestros ojos apenas están viendo el comienzo de lo que la IA hará en todo lo concerniente a **nuestras vidas**; las artes no escaparán a sus conquistas”…
+A las 06:00 hora local (11:00 GMT), abrirán sus puertas los **colegios electorales** de otros seis estados (Connecticut, Kentucky, Maine, Nueva Jersey, Nueva York y Virginia). Seguidos media hora después por Ohio, Virginia Occidental y Carolina del Norte, considerado este último un estado “bisagra” clave para determinar quién ocupará la Casa Blanca.
 
-La robotina ha disertado en **foros** y detenido el **resuello** del **público** al verla tan airosa y dueña de un acervo impresionante de **conocimientos**; su obra fue expuesta en la **cumbre mundial** de la ONU sobre IA. Pero esta vez, ingresó al **firmamento** del **arte plástico**, en medio de toda la parafernalia que merece un **acto semejante**, el primero en la **historia**. La obra de formato “heroico”, 1,6 x 2,3 metros, resuelta en técnica mixta, muestra el **rostro** aterrado de Alan Turing, el célebre **científico informático**, pionero de la IA y la computación, parecido al que debió poner **Oppenheimer** al percatarse de que había inventado la **bomba atómica**.
+Los horarios de apertura de los **centros de votació**n varían considerablemente, ya que los 50 estados de EE.UU. y el Distrito de Columbia abarcan seis husos horarios diferentes. Además, cada estado tiene su propia ley electoral con **horarios de apertura** y cierre específicos.
 
-En 2023 el **célebre** cuadro _La chica de la perla_ de Johannes Vermeer fue intervenido por IA y expuesto en el sacratísimo **Museo Mauritshuis** de **La Haya**. Materialidad y calidad táctil, el **ambiente** intimista labrado por la luz **magistral** del **artista**, la seducción que emerge de la **perfección** del **rostro**, fueron reproducidos por los **impulsores** del osado ejercicio, pero, en el escrutinio final, se hallaron dos **zarcillos** rutilantes en vez de uno, y mejillas y pecas con un halo extraño que lucía “**inhumano**”.
+La votación en distintos horarios
+---------------------------------
 
-El **estropicio** que generó este hecho dio vuelta al **mundo**. Vermeer (Países Bajos, 1632-1675) es un artista celebrado como un **notable** exponente del Barroco.
+A medida que avance la mañana, a las 12:00 GMT, comenzará **la votación** en la mayoría de los centros del Distrito de **Columbia** y en 17 estados con diferentes husos horarios. Estos son Alabama, Delaware, Florida, Nuevo Hampshire, Illinois, Indiana, Kansas, Luisiana, Maryland, Massachusetts, Misuri, Rhode Island, Carolina del Sur, Wyoming, Georgia, Pensilvania y Míchigan, estos tres últimos, estados “bisagra”.
 
-Lo axial en el **arte** es una **fusión** entre idea y realización, en **términos kantianos**, esa idoneidad entre dos **facultades mentales**: **imaginación** y **entendimiento**. De ser así, los potenciales de los **sistemas generativos** no deberían verse como una **amenaza** para la **creatividad** **humana**, sino solo para algunas **tecnologías** previas que sí serían reemplazadas. ¿Se cumplirá esta consoladora **hipótesis**?
+Una hora después, a las 13:00 GMT, abrirán los centros en otros 10 estados con distintos husos horarios: Arizona, Iowa, Minnesota, Misisipí, Oklahoma, Dakota del Norte, Dakota del Sur, Tennessee, Texas y Wisconsin.
 
-El **avance** de las **tecnologías** es insofrenable. Nadie puede vaticinar qué puede ocurrir en un tiempo en que es imposible prescindir de la **automatización creativa** y sus **cuestionamientos** éticos. ¿Están preparados los **artistas humanos** para defender sus **creaciones** **visuales**? No. Algunos de los patronos de los recintos de la IA han reconocido su **carencia** de **eticidad** al haber prescindido del consentimiento de los artistas para usarlas en el **adiestramiento** de sus **modelos**. Explotación cruda. “Réplicas o **derivaciones** de la identidad”…
+Media hora más tarde abrirán los centros en Arkansas, y a las 14:00 GMT lo harán en otros seis estados (Colorado, Montana, Nebraska, Nevada, Nuevo México y Utah).
 
-A pesar de la intrusión de la IA en el **mundo** de las **artes plásticas** con esta histórica subasta, queda el respiro de que aún no le es dado crear lenguajes artísticos, ir más allá de las fronteras estilísticas de los **datos e imágenes** con los que ha sido entrenada. Pero proliferan inagotables páginas con **catálogos** de artistas de todas las épocas para su **aplicación** como modelos. Nadie sabe aún cuál será su destino. Sí, en cambio, la **certeza** de que se gestaría un aprovechamiento inmisericorde de **artistas** y arte humanos. Acaso lo que Yuval Harari propone abre un portillo de luz para evitarlo: “Debe ser obligatorio que la IA revele que es una IA”.
+Los últimos en abrir serán California e Idaho, a las 15:00 GMT, seguidos de Washington y Alaska a las 16:00 GMT y finalmente Hawái a las 17:00 GMT.
 
-“José Luis dibuja/ en cada hoja de cada hora/ una risa/ como un aullido/ desde el fondo del tiempo/ desde el fondo del niño/ cada día/ José Luis dibuja nuestra herida”. Líneas de Octavio Paz, “demasiado humanas”, dedicadas a José Luis Cuevas.
+Una contienda muy reñida
+------------------------
 
-“El amor a la naturaleza”, el legado de Humboldt
-================================================
+Las encuestas muestran una **contienda especialmente ajustada entre Harris y Trump**. A nivel nacional, Harris mantiene una **ligera ventaja** de poco más de un punto porcentual con el 48% de apoyo frente al 46,8% de Trump, según el promedio de encuestas del sitio web FiveThirtyEight.
 
-Las agresiones a la naturaleza deben parar, y substituirse con actitudes de defensa de la vida. Alexander von Humboldt dejó huellas en el Ecuador.
---------------------------------------------------------------------------------------------------------------------------------------------------
+Sin embargo, los estadounidenses no deciden por voto popular **quién será su próximo presidente**, sino que designan a un número de electores en cada estado que conforman el Colegio Electoral y que se encargan de elegir al próximo inquilino de la **Casa Blanca**.
 
-![El Ecuador fue uno de los destinos del naturalista Alexander von Humboldt.](https://www.elcomercio.com/wp-content/uploads/2024/10/an-image-of-alexander-von-humboldt-standing-on-a-r-7kSFHOI0TnyTJNbDubRdeg-H6wlTlCoQq-bFOZMdo_ftA.jpeg)
+El Colegio Electoral tiene 538 compromisarios y, para ganar**, Trump o Harris** necesitan al menos una mayoría de 270.
 
-El Ecuador fue uno de los destinos del naturalista Alexander von Humboldt, nacido en 1769 en el seno de una familia acomodada de Prusia. **Explorador desde niño, se dedicó a la observación científica con la idea de “describir cómo funcionaba el mundo”.**
+La mayoría de los estados ya se sabe si se decantarán por **Harris o Trump**, por lo que las elecciones se decidirán en solo siete estados clave, donde las encuestas también reflejan una carrera muy ajustada: Georgia, Carolina del Norte, Míchigan, Wisconsin, Pensilvania, Arizona y Nevada.
 
-Viajes, aventuras e inventos
+244 millones llamados a las urnas
+---------------------------------
+
+Unos **244 millones de estadounidenses** están llamados a las urnas en estas elecciones. De ellos, 80 millones ya ejercieron su derecho al voto por adelantado, tanto en las urnas como por correo, según el recuento de la Universidad de Florida, referencia en este aspecto.
+
+Además del presidente, los estadounidenses elegirán hoy **a los 435 miembros de la Cámara** de Representantes y a un tercio del Senado.
+
+También votarán por varios gobernadores y numerosos alcaldes, además de legislativos estatales. Y decidirán sobre iniciativas ciudadanas, incluidas propuestas para **proteger el aborto o** endurecer las restricciones sobre ese [derecho en 10 estados](https://es.wikipedia.org/wiki/Kamala_Harris "https://es.wikipedia.org/wiki/Kamala_Harris").
+
+Roban ocho casas dentro de ciudadela privada, en Samborondón
+============================================================
+
+El suceso ocurrió la noche del domingo 3 de noviembre en una ciudadela ubicada en la vía Samborondón.
+-----------------------------------------------------------------------------------------------------
+
+![Los sujetos entraron en dos vehículos blancos a la ciudadela.](https://www.elcomercio.com/wp-content/uploads/2024/11/Robo-Sambo.jpg)
+
+Este martes 5 de noviembre de 2024, se conoció sobre un **robo masivo en una ciudadela privada** en el sector de **Samborondón** que ocurrió la noche del domingo 3 de noviembre.
+
+### Más noticias
+
+* [Así funciona el Pico y placa en Quito este martes 5 de noviembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-martes-5-de-noviembre.html "Así funciona el Pico y placa en Quito este martes 5 de noviembre")
+* [En el Día contra la Impunidad de los crímenes a periodistas, familias claman justicia](https://www.elcomercio.com/actualidad/seguridad/dia-contra-impunidad-de-crimenes-a-periodistas-familias-claman-justicia.html "En el Día contra la Impunidad de los crímenes a periodistas, familias claman justicia")
+* [Cortes de luz en Guayaquil este martes 5 de noviembre](https://www.elcomercio.com/actualidad/cortes-de-luz-en-guayaquil-este-martes-5-de-noviembre.html "Cortes de luz en Guayaquil este martes 5 de noviembre")
+
+El robo en la ciudadela
+-----------------------
+
+Videos de cámaras de seguridad muestran el ingreso **de dos vehículos blancos a** una ciudadela privada. Uno de los vehículos habría **tenido el tag de ingreso a** la ciudadela, por lo que el guardia le dio el ingreso, pues este dispositivo de seguridad es de uso único de los residentes.
+
+El conductor de este vehículo le habría i**ndicado al guardia q**ue el segundo vehículo ingresaba con él. Así, los dos autos ingresaron a la ciudadela sin problema.
+
+Luego de ello **se dirigieron a la garita** donde se encontraba el guardia. Al menos dos sujetos se bajaron y neutralizaron al guardia; lo dejaron en el baño de la guardianía.
+
+En los videos se puede ver a uno de ellos hablando **por radio con los demás** y apagar las luces para evitar ser percibido. Al menos nueve antisociales se movilizaban en ambos autos.
+
+Ocho casas fueron irrumpidas
 ----------------------------
 
-Durante cinco años exploró Latinoamérica, vivió en París y Berlín, caminó por los brazos remotos del río Orinoco, en Venezuela, y las estepas kazakas de Rusia y Mongolia, a los 60 años. **Fue considerado por muchos años como el centro del mundo científico, por su cerebro erudito, sus descripciones, mediciones, y su resistencia física.**
+Con el guardia amarrado en un baño**, los sujetos avanzaron a los domicilios.** Rompieron puertas e ingresaron a robar.
 
-Consideró a América como un **“vértice cartesiano”.** La gente le admiraba y le temía por su lenguaje mordaz, y su vida se llenó de viajes y aventuras porque siempre quería experimentar algo nuevo. **Quería despertar el “amor a la naturaleza”.** Y lo consiguió, en una época en que los científicos buscaban leyes universales.
+Entraron a ocho casas cuyos dueños habían **salido de viaje durante el feriado** de cinco días que tuvo Ecuador. Por ello, se encontraban sin ocupantes.
 
-**Escribió más 50 mil cartas, libros, mapas y dibujó -como nadie- a la naturaleza.** Se le ocurrió la idea que **“las zonas de vegetación y climáticas recorren el mundo”.** Y encontró conexiones. Según sus biógrafos, **Humboldt fue el primer científico que habló, en 1800, del nocivo cambio climático provocado por los seres humanos.**
+Según los residentes, los individuos se llevaro**n dinero, joyas, documentos** y más objetos de valor.
 
-Inventó las **isotermas** \-líneas de temperatura y presión que vemos en los mapas del tiempo-. Descubrió el denominado **“ecuador magnético”,** al constatar la ubicación geográfica de nuestro país.
+La **Policía Nacional investiga el hecho** para dar con los responsables y esclarecer cómo sabían qué domicilios estaban vacíos.
 
-Influencia
-----------
+La empresa encargada de la seguridad de la ciudadela no se ha [pronunciado al respecto.](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil")
 
-Pocos como él influyeron en el pensamiento de artistas, científicos y filósofos de su tiempo. El libro **_“Personal Narrative”,_ de Humboldt**, provocó gran admiración en **Charles Darwin**, quien escribió que **“no se habría embarcado en el Beagle ni concebido “El Origen de las Especies”, sin Humboldt”.**
+Así funciona el Pico y placa en Quito este martes 5 de noviembre
+================================================================
 
-Algunos escritores encontraron en los libros de Humboldt el dilema de la convergencia entre la naturaleza y la poesía. **Simón Bolívar lo llamó “el descubridor del Nuevo Mundo”.** Y **Johann Wolfgang von Goethe,** el poeta más grande de Alemania, consideró que **“pasar unos días en compañía de Humboldt era como haber vivido varios años”.**
+Infórmate sobre las restricciones y documentos necesarios para circular en Quito este martes. Revisa la fecha de caducidad de tus documentos.
+---------------------------------------------------------------------------------------------------------------------------------------------
 
-Según **Andrea Wulf**, en el libro **“La invención de la naturaleza: el nuevo mundo de Alexander von Humboldt**”, los ecologistas y los escritores escriben sobre la naturaleza sin saber nada sobre Humboldt: **“Rachel Carson** parte del concepto de la interconexión de Humboldt, y James **Jamen Lovelock** se refiere en la **teoría de la Gaia**, que la Tierra es un organismo vivo, idea desarrollada por Humboldt”.
+![El Pico y placa se aplica en Quito como medida para regular el tránsito.](https://www.elcomercio.com/wp-content/uploads/2024/10/pico-martes.jpg)
 
-El pensamiento de Humboldt pervive. La corriente más famosa de América del Sur lleva su nombre. ¿Quién no ha oído de la **Corriente de Humboldt?** Cientos de monumentos, montañas, ríos, parques, cabos, bahías, cataratas, rutas, cadenas montañosas; **más de 100 animales y 300 plantas, minerales, e inclusive una superficie en la Luna se denomina Mar de Humboldt.** Ninguna persona ha contribuido tanto como él para descifrar la naturaleza.
+La medida d**el Pico y placa** sigue vigente en Quito para restringir la **movilidad de ciertos vehículos** un día de la semana, **según el último dígito** del registro metálico.
 
-Itinerario
-----------
+Más noticias
+------------
 
-El viaje de Humboldt a través de América transcurrió entre 1799 y 1804. Salió de La Coruña, en España, pasó por Tenerife, cruzó el “charco”, visitó Cumaná, Angostura, San Carlos, Caracas y embarcó a Cuba; luego retornó a Cartagena, **recorrió Bogotá, Quito, Guayaquil y Lima**. Navegó hacia México, cruzó el Golfo y llegó al Atlántico, bordeó el este de Estados Unidos, hasta Washington y Filadelfia, y desde allí embarcó hasta Europa, Bordeaux, en Francia.
+* [Caso Pamela Ati: Fiscalía tomó una decisión final](https://www.elcomercio.com/actualidad/seguridad/caso-pamela-ati-fiscalia-decision-final.html "Caso Pamela Ati: Fiscalía tomó una decisión final")
+* [Richard Carapaz brilla como el mejor ciclista de Latinoamérica](https://www.elcomercio.com/deportes/ciclismo/richard-carapaz-mejor-ciclista-latinoamerica-2024.html "Richard Carapaz brilla como el mejor ciclista de Latinoamérica")
+* [Maluma desata toda su creatividad en su nuevo mimado](https://www.elcomercio.com/tendencias/entretenimiento/maluma-creatividad-moda-diseno-hija.html "Maluma desata toda su creatividad en su nuevo mimado")
 
-Humboldt en Ecuador
--------------------
+El esquema de aplicación del Pico y Placa
+-----------------------------------------
 
-El concepto de naturaleza, como una **“cuerda”** que conecta, nos une inseparable a él, aunque nos hemos olvidado de mencionarlo. Igual las nociones de **“equinoccio”** -refrendadas por las misiones científicas francesas y españolas-, y lo más importante, haber descrito, de manera magistral nuestras plantas y animales, y las montañas más hermosas del Ecuador, en especial el volcán Chimborazo, que escaló el 23 de junio de 1802, con un barómetro, un termómetro, un sextante, un horizonte artificial y un cianómetro para medir el azul del cielo.
+En la mañana la medida se aplica en un **horario de 06:00 a 09:30** y en la tarde, de 16:00 a 20:00.
 
-Al llegar a los 5.917 metros y disiparse la niebla y mirar el Chimborazo sobre el cielo azul, Humboldt exclamó: **“¡Qué vista más grandiosa!”. “¡Era como mi estuviéramos atrapados en un globo de aire!”.** Nadie había subido tanto y respirado el aire tan enrarecido.
+Según el **último dígito de la placa**, el cronograma es el siguiente:
 
-El explorador comenzó a ver el mundo de otra manera, **concibió a la Tierra como un gran organismo vivo**, y que toda la naturaleza estaba relacionada. Hoy se sabe que Humboldt subió al Chimborazo con un pie herido y botas incómodas, cargado de instrumentos y parándose constantemente, según testimonio de la investigadora Andrea Wulf.
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes**: placas terminadas en 3 y 4.
+* **Miércoles**: placas terminadas en 5 y 6.
+* **Jueves**: placas terminadas en 7 y 8.
+* **Viernes:** placas terminadas en 9 y 0.
 
-**Su legado es grandioso.** Y el Ecuador no ha obrado con justicia. Alexander von Humboldt no necesita monumentos, sino **un gran museo de Historia Natural para continuar las investigaciones de este científico que enseñó a amar la naturaleza de nuestro hermoso país.**
+Este martes, **todos los vehículos pueden circular** debido a que en feriados no se aplica la medida.
+
+Documentos necesarios para circular
+-----------------------------------
+
+Para circular, es **esencial tener la licencia** y la matrícula vigentes.
+
+Si tu licencia está caducada, debe**s seguir estos pasos** para renovarla:
+
+* Generar una orden de pago en la página de la Agencia Nacional de Tránsito (ANT).
+* Cancelar el valor correspondiente, ya sea en línea o en puntos físicos de pago.
+* Obtener un turno para la emisión de la licencia en la agencia de tu preferencia.
+* Acercarte a la agencia 15 minutos antes de la hora asignada, presentar el turno impreso con la hora y día agendado.
+* Realizar la evaluación teórica.
+* Esperar la entrega de la nueva licencia.
+
+Si tu licencia está **próxima a caducarse y** tu turno es aún lejano, puedes mostrar impreso el turno cuando los agentes de tránsito te detengan.
+
+Colaboración ciudadana en el Pico y placa
+-----------------------------------------
+
+El **Municipio de Quito** insta a los conductores a cumplir con las restricciones del Pico y placa para mejorar el flujo vehicular en las horas pico.
+
+Planificar los recorridos y verificar que todos **los documentos estén en regla** es fundamental para evitar sanciones y garantizar una movilidad más eficiente.
+
+En conclusión, este martes, **los vehículos con placas terminadas en 3 y 4** no pueden circular dentro de Quito. Asegúrate de tener tu licencia y matrícula vigentes para evitar [inconvenientes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zPj1sgdKTa](https://t.co/zPj1sgdKTa)
+> 
+> — AMTQuito (@AMT\_Quito) [October 15, 2024](https://twitter.com/AMT_Quito/status/1846123824149868564?ref_src=twsrc%5Etfw)
 
 Cartas a Quito / 5 de noviembre de 2024
 =======================================
@@ -162,6 +245,87 @@ Es común que las historias de quienes logran cruzar el Darién se centren en lo
 La humanidad nos obliga a reconocer que estas situaciones no son **inevitables**. La **migración** forzada es un síntoma de un mundo en el que el bienestar sigue siendo un privilegio y no un derecho. Las personas que arriesgan sus vidas en el **Darién** no buscan oportunidades en un **país** específico. Buscan un espacio seguro para vivir. Enfrentar la crisis migratoria no es solo cuestión de atender a quienes **transitan** por estas rutas, sino de trabajar en las raíces de esta **desesperación**.
 
 Es imperativo recordar que esta crisis no es ajena a quienes se quedan. El **Darién** no es solo una ruta lejana; representa las fronteras invisibles que hemos trazado en el **mundo**, separando a quienes tienen oportunidades de quienes solo tienen esperanza. Combatir las **causas de la migración forzada** en Ecuador es una responsabilidad que debemos asumir todos. La dignidad humana no debe depender de la suerte, y es nuestra obligación **construir un mundo** en el que nadie deba recorrer miles de kilómetros para encontrarla.
+
+“El amor a la naturaleza”, el legado de Humboldt
+================================================
+
+Las agresiones a la naturaleza deben parar, y substituirse con actitudes de defensa de la vida. Alexander von Humboldt dejó huellas en el Ecuador.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El Ecuador fue uno de los destinos del naturalista Alexander von Humboldt.](https://www.elcomercio.com/wp-content/uploads/2024/10/an-image-of-alexander-von-humboldt-standing-on-a-r-7kSFHOI0TnyTJNbDubRdeg-H6wlTlCoQq-bFOZMdo_ftA.jpeg)
+
+El Ecuador fue uno de los destinos del naturalista Alexander von Humboldt, nacido en 1769 en el seno de una familia acomodada de Prusia. **Explorador desde niño, se dedicó a la observación científica con la idea de “describir cómo funcionaba el mundo”.**
+
+Viajes, aventuras e inventos
+----------------------------
+
+Durante cinco años exploró Latinoamérica, vivió en París y Berlín, caminó por los brazos remotos del río Orinoco, en Venezuela, y las estepas kazakas de Rusia y Mongolia, a los 60 años. **Fue considerado por muchos años como el centro del mundo científico, por su cerebro erudito, sus descripciones, mediciones, y su resistencia física.**
+
+Consideró a América como un **“vértice cartesiano”.** La gente le admiraba y le temía por su lenguaje mordaz, y su vida se llenó de viajes y aventuras porque siempre quería experimentar algo nuevo. **Quería despertar el “amor a la naturaleza”.** Y lo consiguió, en una época en que los científicos buscaban leyes universales.
+
+**Escribió más 50 mil cartas, libros, mapas y dibujó -como nadie- a la naturaleza.** Se le ocurrió la idea que **“las zonas de vegetación y climáticas recorren el mundo”.** Y encontró conexiones. Según sus biógrafos, **Humboldt fue el primer científico que habló, en 1800, del nocivo cambio climático provocado por los seres humanos.**
+
+Inventó las **isotermas** \-líneas de temperatura y presión que vemos en los mapas del tiempo-. Descubrió el denominado **“ecuador magnético”,** al constatar la ubicación geográfica de nuestro país.
+
+Influencia
+----------
+
+Pocos como él influyeron en el pensamiento de artistas, científicos y filósofos de su tiempo. El libro **_“Personal Narrative”,_ de Humboldt**, provocó gran admiración en **Charles Darwin**, quien escribió que **“no se habría embarcado en el Beagle ni concebido “El Origen de las Especies”, sin Humboldt”.**
+
+Algunos escritores encontraron en los libros de Humboldt el dilema de la convergencia entre la naturaleza y la poesía. **Simón Bolívar lo llamó “el descubridor del Nuevo Mundo”.** Y **Johann Wolfgang von Goethe,** el poeta más grande de Alemania, consideró que **“pasar unos días en compañía de Humboldt era como haber vivido varios años”.**
+
+Según **Andrea Wulf**, en el libro **“La invención de la naturaleza: el nuevo mundo de Alexander von Humboldt**”, los ecologistas y los escritores escriben sobre la naturaleza sin saber nada sobre Humboldt: **“Rachel Carson** parte del concepto de la interconexión de Humboldt, y James **Jamen Lovelock** se refiere en la **teoría de la Gaia**, que la Tierra es un organismo vivo, idea desarrollada por Humboldt”.
+
+El pensamiento de Humboldt pervive. La corriente más famosa de América del Sur lleva su nombre. ¿Quién no ha oído de la **Corriente de Humboldt?** Cientos de monumentos, montañas, ríos, parques, cabos, bahías, cataratas, rutas, cadenas montañosas; **más de 100 animales y 300 plantas, minerales, e inclusive una superficie en la Luna se denomina Mar de Humboldt.** Ninguna persona ha contribuido tanto como él para descifrar la naturaleza.
+
+Itinerario
+----------
+
+El viaje de Humboldt a través de América transcurrió entre 1799 y 1804. Salió de La Coruña, en España, pasó por Tenerife, cruzó el “charco”, visitó Cumaná, Angostura, San Carlos, Caracas y embarcó a Cuba; luego retornó a Cartagena, **recorrió Bogotá, Quito, Guayaquil y Lima**. Navegó hacia México, cruzó el Golfo y llegó al Atlántico, bordeó el este de Estados Unidos, hasta Washington y Filadelfia, y desde allí embarcó hasta Europa, Bordeaux, en Francia.
+
+Humboldt en Ecuador
+-------------------
+
+El concepto de naturaleza, como una **“cuerda”** que conecta, nos une inseparable a él, aunque nos hemos olvidado de mencionarlo. Igual las nociones de **“equinoccio”** -refrendadas por las misiones científicas francesas y españolas-, y lo más importante, haber descrito, de manera magistral nuestras plantas y animales, y las montañas más hermosas del Ecuador, en especial el volcán Chimborazo, que escaló el 23 de junio de 1802, con un barómetro, un termómetro, un sextante, un horizonte artificial y un cianómetro para medir el azul del cielo.
+
+Al llegar a los 5.917 metros y disiparse la niebla y mirar el Chimborazo sobre el cielo azul, Humboldt exclamó: **“¡Qué vista más grandiosa!”. “¡Era como mi estuviéramos atrapados en un globo de aire!”.** Nadie había subido tanto y respirado el aire tan enrarecido.
+
+El explorador comenzó a ver el mundo de otra manera, **concibió a la Tierra como un gran organismo vivo**, y que toda la naturaleza estaba relacionada. Hoy se sabe que Humboldt subió al Chimborazo con un pie herido y botas incómodas, cargado de instrumentos y parándose constantemente, según testimonio de la investigadora Andrea Wulf.
+
+**Su legado es grandioso.** Y el Ecuador no ha obrado con justicia. Alexander von Humboldt no necesita monumentos, sino **un gran museo de Historia Natural para continuar las investigaciones de este científico que enseñó a amar la naturaleza de nuestro hermoso país.**
+
+La IA y su debut en las artes visuales
+======================================
+
+El avance de las tecnologías es insofrenable.
+---------------------------------------------
+
+![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
+
+Imagino al **robot** autor de la pieza subastada en octubre de 2024 en Sotheby’s, deslizándose por sus **pasillos**, con una sonrisa entre **soberbia** y despreciativa, luego de que su obra fuera adquirida por algún ‘milmillonario’ o, quién sabe, por alguien de una de las mafias que gobiernan el **mundo**.
+
+¿Adónde va?, rumbo a su secreto **estudio** donde prepara su primera exposición sin el auspicio de Aidan Meller, el creador de un algoritmo de **inteligencia artificial** (IA) para dibujar y pintar, cuyo apoyo fue crucial para su **ópera** prima. (Meller, el geniecillo mentor de la artista, es un personaje que exuda fatuidad, posa con sus robotinas y colecciona arte antiguo con unción).
+
+El rostro aterrado de Alan Turing
+---------------------------------
+
+El valor de inicio de la **subasta** osciló entre 130.000 y 190.000 dólares pagaderos en **criptomonedas**. Arte, **tecnología** y **finanzas** en una sola tríada verdadera, aquella que rige el destino de la **humanidad** ‘ultramodernista’. Pero, si ya ha habido **imágenes** creadas por la IA, ¿por qué el estruendo de este evento? “Lo que hace que esta obra de **arte** sea diferente de otras obras generadas por IA es que con Ai-Da hay una manifestación **física**… y esta es la primera vez que la obra de un **robot** de este tipo sale a subasta”, advirtió Meller.
+
+Juan Martín Prada recuerda que, en los 60 del **siglo XX**, Max Bense, filósofo y **científico alemán**, propuso una definición de “**estética generativa**” en un escenario más amplio de lo alcanzado con **sistemas generativos** de IA en nuestro tiempo; mientras Christian Vinces alerta: “Nuestros ojos apenas están viendo el comienzo de lo que la IA hará en todo lo concerniente a **nuestras vidas**; las artes no escaparán a sus conquistas”…
+
+La robotina ha disertado en **foros** y detenido el **resuello** del **público** al verla tan airosa y dueña de un acervo impresionante de **conocimientos**; su obra fue expuesta en la **cumbre mundial** de la ONU sobre IA. Pero esta vez, ingresó al **firmamento** del **arte plástico**, en medio de toda la parafernalia que merece un **acto semejante**, el primero en la **historia**. La obra de formato “heroico”, 1,6 x 2,3 metros, resuelta en técnica mixta, muestra el **rostro** aterrado de Alan Turing, el célebre **científico informático**, pionero de la IA y la computación, parecido al que debió poner **Oppenheimer** al percatarse de que había inventado la **bomba atómica**.
+
+En 2023 el **célebre** cuadro _La chica de la perla_ de Johannes Vermeer fue intervenido por IA y expuesto en el sacratísimo **Museo Mauritshuis** de **La Haya**. Materialidad y calidad táctil, el **ambiente** intimista labrado por la luz **magistral** del **artista**, la seducción que emerge de la **perfección** del **rostro**, fueron reproducidos por los **impulsores** del osado ejercicio, pero, en el escrutinio final, se hallaron dos **zarcillos** rutilantes en vez de uno, y mejillas y pecas con un halo extraño que lucía “**inhumano**”.
+
+El **estropicio** que generó este hecho dio vuelta al **mundo**. Vermeer (Países Bajos, 1632-1675) es un artista celebrado como un **notable** exponente del Barroco.
+
+Lo axial en el **arte** es una **fusión** entre idea y realización, en **términos kantianos**, esa idoneidad entre dos **facultades mentales**: **imaginación** y **entendimiento**. De ser así, los potenciales de los **sistemas generativos** no deberían verse como una **amenaza** para la **creatividad** **humana**, sino solo para algunas **tecnologías** previas que sí serían reemplazadas. ¿Se cumplirá esta consoladora **hipótesis**?
+
+El **avance** de las **tecnologías** es insofrenable. Nadie puede vaticinar qué puede ocurrir en un tiempo en que es imposible prescindir de la **automatización creativa** y sus **cuestionamientos** éticos. ¿Están preparados los **artistas humanos** para defender sus **creaciones** **visuales**? No. Algunos de los patronos de los recintos de la IA han reconocido su **carencia** de **eticidad** al haber prescindido del consentimiento de los artistas para usarlas en el **adiestramiento** de sus **modelos**. Explotación cruda. “Réplicas o **derivaciones** de la identidad”…
+
+A pesar de la intrusión de la IA en el **mundo** de las **artes plásticas** con esta histórica subasta, queda el respiro de que aún no le es dado crear lenguajes artísticos, ir más allá de las fronteras estilísticas de los **datos e imágenes** con los que ha sido entrenada. Pero proliferan inagotables páginas con **catálogos** de artistas de todas las épocas para su **aplicación** como modelos. Nadie sabe aún cuál será su destino. Sí, en cambio, la **certeza** de que se gestaría un aprovechamiento inmisericorde de **artistas** y arte humanos. Acaso lo que Yuval Harari propone abre un portillo de luz para evitarlo: “Debe ser obligatorio que la IA revele que es una IA”.
+
+“José Luis dibuja/ en cada hoja de cada hora/ una risa/ como un aullido/ desde el fondo del tiempo/ desde el fondo del niño/ cada día/ José Luis dibuja nuestra herida”. Líneas de Octavio Paz, “demasiado humanas”, dedicadas a José Luis Cuevas.
 
 Retos del nuevo gobierno de Estados Unidos en su política internacional
 =======================================================================
@@ -879,138 +1043,3 @@ Más allá de la segunda fase, el encuentro entre **Técnico Universitario y Uni
 Universidad Católica se ubica en los **primeros puestos de la acumulada**, mientras que Técnico Universitario se encuentra en la mitad de la tabla. Un resultado positivo podría significar un avance importante para **ambos equipos**, ya sea en la búsqueda de **clasificaciones internacionales** o en la intención de alejarse de los compromisos en la parte baja de la clasificación general.
 
 Con este partido, la **fecha 12 de la segunda fase** llega a su fin, y ambos equipos buscarán **cerrar la jornada con un resultado positivo**.
-
-¿Cuándo juegan Liga de Quito e Independiente del Valle?
-=======================================================
-
-Este partido impacta no solo la clasificación de la segunda fase, sino también la tabla general, que definirá los cupos a torneos internacionales.
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Independiente del Valle se enfrentó a Liga de Quito el pasado 18 de mayo.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-1.jpg)
-
-La **LigaPro 2024** entra en su etapa más decisiva, y el duelo entre **Liga de Quito e Independiente del Valle** surge como uno de los encuentros **más relevantes de la temporada**. Ambos equipos muestran un desempeño destacado tanto en la primera fase como en la segunda, ubicándose entre los **líderes de la tabla acumulada**.
-
-### Más noticias
-
-* [Así está la tabla de posiciones de la LigaPro](https://www.elcomercio.com/deportes/asi-esta-la-tabla-de-posiciones-de-la-ligapro.html "Así está la tabla de posiciones de la LigaPro")
-* [Liga de Quito venció a Emelec y presiona en la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-vencio-a-emelec-y-presiona-en-la-liga-pro.html "Liga de Quito venció a Emelec y presiona en la Liga Pro")
-* [Kendry Páez anotó en la victoria de Independiente del Valle](https://www.elcomercio.com/deportes/futbol/kendry-paez-anoto-en-la-victoria-de-independiente-del-valle.html "Kendry Páez anotó en la victoria de Independiente del Valle")
-
-Este partido impacta no solo la clasificación de la **segunda fase**, sino también la tabla general, que definirá los cupos a **torneos internacionales** y la posición final de cada equipo en el campeonato ecuatoriano.
-
-**Independiente del Valle** ocupa el primer lugar en la tabla acumulada con **61 puntos en 27 partidos**, mientras que **Liga de Quito** se ubica en el segundo puesto con **56 puntos**.
-
-La diferencia entre ambos equipos es de cinco puntos, lo cual convierte este enfrentamiento en una oportunidad **clave para que Liga de Quito** reduzca esa distancia o para que **Independiente del Valle** aumente su ventaja. Durante el torneo, ambos conjuntos consolidaron sus posiciones en los primeros lugares, destacando como **protagonistas de esta edición de la LigaPro**.
-
-Duelo directo por la cima de la segunda fase
---------------------------------------------
-
-En la **segunda fase de la LigaPro**, la competencia sigue igual de apretada. **Independiente del Valle** lidera con 26 puntos y una diferencia de goles de +13, seguido de cerca por **Liga de Quito**, con la misma cantidad de puntos pero con una diferencia de goles de +11.
-
-> 🎙️ Rueda de prensa post [#EmelecLIGA](https://twitter.com/hashtag/EmelecLIGA?src=hash&ref_src=twsrc%5Etfw) | 🗣️ DT. Pablo “Vitamina” Sánchez: “Hicimos un buen primer tiempo, pero nos costó el gol. Sabíamos que si no llegaba el segundo gol el partido iba a ir por donde fue, había que jugar algo a lo que no estamos acostumbrados, a defender y cuidar… [pic.twitter.com/IbA656H1a8](https://t.co/IbA656H1a8)
-> 
-> — LDU Oficial (@LDU\_Oficial) [November 3, 2024](https://twitter.com/LDU_Oficial/status/1853216860013027830?ref_src=twsrc%5Etfw)
-
-Esta **ajustada diferencia** convierte al próximo partido entre ambos equipos en un enfrentamiento importante para determinar quién tomará la **delantera en esta fase**.
-
-El partido está programado para el **sábado 9 de noviembre a las 15:30 en el Estadio Rodrigo Paz Delgado**, correspondiente a la **fecha 13 de la segunda fase**.
-
-Esta jornada representa una oportunidad para que ambos equipos demuestren su superioridad en el torneo. Una victoria para cualquiera de los dos significará un **paso importante en la lucha por el liderato de esta etapa**, consolidando su posición frente a otros equipos que buscan asegurar su participación en competencias internacionales.
-
-Implicaciones en la tabla acumulada
------------------------------------
-
-Más allá de la segunda fase, este encuentro afecta de forma directa la **tabla acumulada de la LigaPro 2024**. Esta clasificación general resulta fundamental, pues determina los cupos a torneos internacionales y la posición final de cada equipo.
-
-**Independiente del Valle**, con sus 61 puntos, busca mantener la ventaja sobre Liga de Quito y asegurar el liderato en la acumulada. Por su parte, **Liga de Quito, con 56 puntos**, intentará reducir esa brecha para acercarse a la cima.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DB7vn0oMhNm/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por LigaPro (@ligaproec)](https://www.instagram.com/reel/DB7vn0oMhNm/?utm_source=ig_embed&utm_campaign=loading)
-
-El resultado de este partido podría redefinir el **panorama del campeonato y la lucha por los primeros lugares**. Este enfrentamiento entre Liga de Quito e Independiente del Valle, dos equipos que destacan a lo largo de la temporada, se perfila como uno de los **encuentros más esperados y decisivos de la fase actual del torneo**.
-
-El cuerpo de Liam Payne será embalsamado antes del traslado a Londres
-=====================================================================
-
-Un paso adicional se realiza para el traslado del cuerpo del músico británico Liam Payne, exmiembro de la agrupación One Direction. El cadáver del músico fue trasladado a un sitio en Buenos Aires para ser embalsamado. Luego, el cuerpo será trasladado a Londres, donde está previsto desarrollar el funeral. Más noticias Cuerpo de Liam Payne es \[…\]
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Liam Pyne falleció en Argentina.](https://www.elcomercio.com/wp-content/uploads/2024/11/lyan.jpg)
-
-Un paso adicional se realiza para el traslado del cuerpo del músico británico **Liam Payne**, exmiembro de la agrupación **One Direction**[.](https://es.wikipedia.org/wiki/Liam_Payne)[](https://es.wikipedia.org/wiki/Liam_Payne)
-
-El cadáver del músico fue trasladado a un sitio en **Buenos Aires** para ser embalsamado. Luego, el cuerpo será trasladado a **Londres**, donde está previsto desarrollar el funeral.
-
-### Más noticias
-
-* [¿Qué pasó con el perro de Liam Payne?](https://www.elcomercio.com/tendencias/trending/paso-perro-liam-payne.html "¿Qué pasó con el perro de Liam Payne?")
-* [Policía allanó hotel donde se hospedó Liam Payne](https://www.elcomercio.com/tendencias/entretenimiento/policia-allano-hotel-liam-payne.html "Policía allanó hotel donde se hospedó Liam Payne")
-* [La novia de Liam Payne reapareció en redes sociales con una conmovedora revelación](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-novia-redes-sociales.html "La novia de Liam Payne reapareció en redes sociales con una conmovedora revelación")
-* [Autopsia de Liam Payne reveló inquietantes detalles de su muerte](https://www.elcomercio.com/tendencias/entretenimiento/autopsia-liam-payne-detalles-muertes.html "Autopsia de Liam Payne reveló inquietantes detalles de su muerte")
-
-Cuerpo de Liam Payne es embalsamado
------------------------------------
-
-De acuerdo con versiones difundidas en medios internacionales, el proceso en el cuerpo de **Liam Payne** se realizaría en el **[Cementerio Británico](https://www.cementeriobritanico.org.ar/)**. Este es el camposanto más grande de **Buenos Aires**.
-
-El proceso de embalsamamiento podría durar unas 48 horas. El padre de Liam, **Geoff Payne**, se encuentra en Argentina a la espera de trasladar a su **hijo**. El músico falleció en ese país.
-
-Según el diario argentino La Nación, a través de fuentes judiciales, **Geoff Payne** logró repatriar el cuerpo de su hijo después de **dos semanas de trámites.**
-
-Detalles de la muerte
----------------------
-
-El músico falleció a los 31 años, el miércoles 16 de octubre de 2024, tras caer del balcón de su habitación en el hotel Casa Sur Palermo en **Buenos Aires**.
-
-No obstante, antes de la caída, el personal del hotel realizó una llamada al 911 preocupados. Esto debido a que estaban preocupados por el supuesto comportamiento agresivo de **Payne**.
-
-La autopsia confirmó que Payne sufrió traumas múltiples y hemorragias internas y externas. Sin embargo, las lesiones en la cabeza fueron las más graves y las que provocaron su muerte. 
-
-El cuerpo presentó **25 lesiones** como consecuencia de la caída desde unos 14 metros. El organismo de Payne tenía una mezcla de drogas.
-
-¿Cuándo juega la Selección de Ecuador contra Bolivia?
-=====================================================
-
-La Selección de Ecuador jugará en Guayaquil ante Bolivia en las eliminatorias al Mundial 2026.
-----------------------------------------------------------------------------------------------
-
-![Félix Torres (i) con la Selección de Ecuador en las eliminatorias al Mundial 2022 en Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/10/a_1.jpg)
-
-La **Selección de Ecuador y la de Bolivia** empiezan la cuenta regresiva para poner en escena el juego de la fecha 11 de las eliminatorias sudamericanas al Mundial 2026.
-
-Este encuentro para ambas escuadras es fundamental. La **Selección de Ecuador ocupa el quinto lugar en la tabla con 13 puntos** y un gol diferencia positivo de +2. La campaña se sostiene en cuatro victorias, cuatro empates y dos derrotas.
-
-### Más noticias:
-
-* [Independiente, Liga, Orense y sus opciones para ganar la etapa](https://www.elcomercio.com/deportes/futbol/independiente-liga-orense-candidatos-ligapro.html "Independiente, Liga, Orense y sus opciones para ganar la etapa")
-* [Brighton y Pervis Estupiñán eliminados de la Carabao Cup](https://www.elcomercio.com/deportes/futbol/brighton-pervis-estupinan-carabao-cup.html "Brighton y Pervis Estupiñán eliminados de la Carabao Cup")
-* [Moisés Caicedo y el Chelsea se despidieron de la Carabao Cup](https://www.elcomercio.com/deportes/futbol/moises-caicedo-y-el-chelsea-se-despidieron-de-la-carabao-cup.html "Moisés Caicedo y el Chelsea se despidieron de la Carabao Cup")
-
-**Bolivia es séptima con 12 puntos** y un gol diferencia negativo de -10, que la confirman como la máxima sorpresa en las 10 fechas agotadas, y con opciones ciertas de pelear por uno de los cupos del Mundial 2026.
-
-El despertar de la ‘Verde’ se dio desde las séptima fecha cuando decidieron **‘abandonar’ la ciudad de La Paz y se trasladaron a El Alto**, ubicada a 4 150 metros sobre el nivel del mar, 600 metros más alta que su tradicional casa.
-
-En El Alto le ganaron a Venezuela (4-0) y Colombia (1-0). Sorprendieron a **propios y extraños al vencer a Chile en Santiago por 1-2**. Argentina los volvió a la realidad y les ganó 6-0 en el Monumental de Buenos Aires con un triplete de Lionel Messi.
-
-Pese a esa derrota, la expectativa en Bolivia está instalada con su Selección para alcanzar su segunda clasificación a un Mundial, **luego de haber dicho presente en Estados Unidos 1994**, con una generación de jugadores liderada por Marco Antonio Etcheverry.
-
-Su clasificación se concretó en el **Monumental de Guayaquil el 19 de septiembre de 1993**. El empate 1-1 les sirvió a los bolivianos el boleto para su primera Copa del Mundo, mientras que la Tri se quedó en el camino y sumaba, una vez más, un fracaso futbolístico.
-
-La última vez de Bolivia en Guayaquil
--------------------------------------
-
-El jueves 7 de octubre de 2021, Bolivia visitó el Monumental por las eliminatorias al Mundial Catar 2022.
-
-Esa noche la Tri, al mando del argentino Gustavo Alfaro, ganó 3-0 con tantos de Michael Estrada y un doblete de Enner Valencia, que se consolidaba como el **máximo goleador histórico de Ecuador** de todos los tiempos.
-
-Al final de las eliminatorias**, Ecuador se clasificó para Catar 2022, y Bolivia se quedó en el camino**, tal como ha sucedido desde Francia 1998, donde se han quedado en los últimos puestos de la tabla de posiciones y rápidamente sin opciones de pelear por un cupo.
-
-Esa noche la formación tricolor fue con Moisés Ramírez en el arco; la línea defensiva estuvo conformada por Pervis Estupiñán, Piero Hincapié**, Félix Torres y Byron Castillo**; en la mitad de la cancha estuvieron Gonzalo Plata, Moisés Caicedo, Carlos Gruezo y Ángel Mena.
-
-La zona de ataque estuvo conformada por **Michael Estada y Enner Valencia**, los goleadores de ese juego.
-
-En el 2024, la cita será el jueves 14 de noviembre en el estadio Monumental. El compromiso arrancará a las 19:00.
-
-San viernes – El especial Halloween
------------------------------------
