@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Brilliant support again!
+Excellent service. I use it watch formula1 on BBC outside UK. Season is now over, but I will purchase a new proxy subscription once the 2011 season starts! I have recommended the service to several friends.
 
-John Smith
+Fredrik Fottland
