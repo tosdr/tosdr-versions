@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks again for the help and excellent service.
+Good work, fine product and fine team.
 
-Samuel Fast
+Dan Revell
