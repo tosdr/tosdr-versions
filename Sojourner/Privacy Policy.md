@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-e9dbb0276eeab6f59cf7d1c3c775a899
+eb50f46c84bff2bbe4d5faa3026d64e1
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![10 mm by 12 mm square Czech wedges](https://www.sojourner.biz/images/cache/glass/GL0031.200.jpg)](https://www.sojourner.biz/beads/glass/10-mm-by-12-mm-square-czech-wedges.html "10 mm by 12 mm square Czech wedges")
+[![3 mm by 4 mm African glass heishe beads](https://www.sojourner.biz/images/cache/glass/GL0170.200.jpg)](https://www.sojourner.biz/beads/glass/3-mm-by-4-mm-african-glass-heishe-beads.html "3 mm by 4 mm African glass heishe beads")
 
-#### [10 mm by 12 mm square Czech wedges](https://www.sojourner.biz/beads/glass/10-mm-by-12-mm-square-czech-wedges.html "10 mm by 12 mm square Czech wedges")
+#### [3 mm by 4 mm African glass heishe beads](https://www.sojourner.biz/beads/glass/3-mm-by-4-mm-african-glass-heishe-beads.html "3 mm by 4 mm African glass heishe beads")
 
-$5.00
+$6.00
 
 ### Best Sellers
 
@@ -197,8 +197,8 @@ $5.00
     $17.00
 9. [Sterling silver tiny lily clasp](https://www.sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [Black and white playful cat sauce dish](https://www.sojourner.biz/tabletop/black-and-white-playful-cat-sauce-dish.html "Black and white playful cat sauce dish")  
-    $7.00
+10. [Electric yellow Swarovski polka dot clasp](https://www.sojourner.biz/clasps/swarovski/electric-yellow-swarovski-polka-dot-clasp.html "Electric yellow Swarovski polka dot clasp")  
+    $15.00
 
 [Top](#)
 
