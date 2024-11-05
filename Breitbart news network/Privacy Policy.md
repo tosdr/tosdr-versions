@@ -55,11 +55,10 @@
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
 * [Breitbart Fight Club](https://web.breitbart.com/fight-club)
-* [Harris Hate Brigade](https://www.breitbart.com/tag/kamala-harris/)
-* [2024 Election](https://www.breitbart.com/tag/2024-presidential-election/)
-* [WaPo Meltdown](https://www.breitbart.com/tag/washington-post/)
-* [Israel vs Iran](https://www.breitbart.com/tag/israel/)
+* [Election Day](https://www.breitbart.com/tag/2024-presidential-election/)
 * [Illegal Alien Crime](https://www.breitbart.com/tag/illegal-immigration/)
+* [Hollywood Hate](https://www.breitbart.com/entertainment/)
+* [Israel-Hamas War](https://www.breitbart.com/tag/israel/)
 
 Breitbart Privacy Policy
 ========================
