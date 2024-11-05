@@ -432,7 +432,7 @@ Wenn Sie Fragen zur Verarbeitung Ihrer personenbezogenen Daten oder zur Wahrnehm
 Wir überarbeiten diese Datenschutzhinweise bei Änderungen an unserer Website spielaffe.de oder bei sonstigen Anlässen, die dies erforderlich machen. Die jeweils aktuelle Fassung finden Sie stets auf dieser Seite.  
 Die Datenschutzhinweise wurden zuletzt am 22.10.2024 aktualisiert.
 
-[![Spielaffe](#)Spielaffe · Über 3.000 Online-Spiele kostenlos spielen](https://www.spielaffe.de/)[![Medienratgeber](#)Der Medienratgeber für Familien](https://www.schau-hin.info/)[![Co2 neutrale Website](#)](https://www.spielaffe.de/Statisch/co2_neutrales-spielaffe "Co2 neutrale Website")
+[Spielaffe · Über 3.000 Online-Spiele kostenlos spielen](https://www.spielaffe.de/)[Der Medienratgeber für Familien](https://www.schau-hin.info/)[](https://www.spielaffe.de/Statisch/co2_neutrales-spielaffe "Co2 neutrale Website")
 
 [Impressum und Kontakt](https://www.spielaffe.de/Impressum "Impressum und Kontakt")•[FAQ](https://www.spielaffe.de/Statisch/FAQ "FAQ")•[Kooperationen und Partner](https://www.spielaffe.de/Statisch/Kooperationen "Kooperationen und Partner")•[Alterskennzeichnung](https://www.spielaffe.de/Statisch/Alterskennzeichnung "Alterskennzeichnung")•[Datenschutzhinweise](https://www.spielaffe.de/Statisch/Datenschutz "Datenschutzhinweise")•[Datenschutz-Manager](javascript: void() "Datenschutz-Manager")•[Utiq-Verwaltung](https://www.spielaffe.de/utiq-verwalten/ "Utiq-Verwaltung")
 
