@@ -30,7 +30,7 @@
         * [People with Neurodivergence](https://988lifeline.org/help-yourself/individuals-with-neurodivergence/)
         * [LGBTQI+](https://988lifeline.org/help-yourself/lgbtqi/)
         * [Loss Survivors](https://988lifeline.org/help-yourself/loss-survivors/)
-        * [Native American, Indian, Indigenous, & Alaska Natives](https://988lifeline.org/help-yourself/native-american-indian-indigenous-alaska-natives/)
+        * [American Indian, Alaska Natives, Indigenous Peoples](https://988lifeline.org/help-yourself/americanindian-alaskanatives-indigenouspeoples/)
         * [Veterans & Service Members](https://988lifeline.org/help-yourself/veterans-service-members/)
         * [Youth](https://988lifeline.org/help-yourself/youth/)
     * [Help Someone Else](https://988lifeline.org/help-someone-else/)
