@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/70d65392-40bd-4fc8-8d37-fbd150794c90/20241105T021730/70d65392-40bd-4fc8-8d37-fbd150794c90_16x9.jpg) ![](https://media.king5.com/assets/KING/images/70d65392-40bd-4fc8-8d37-fbd150794c90/20241105T021730/70d65392-40bd-4fc8-8d37-fbd150794c90_360x203.jpg)](https://www.king5.com/article/news/local/centralia-restaurant-backs-out-catering-wedding-same-sex-wedding/281-d06bd0d9-dd0d-44c9-83ee-d440a76a190c)
+    *  [![](https://media.king5.com/assets/KING/images/bdacbea2-0741-4b2e-bdfb-2c61bc308328/20241105T045616/bdacbea2-0741-4b2e-bdfb-2c61bc308328_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bdacbea2-0741-4b2e-bdfb-2c61bc308328/20241105T045616/bdacbea2-0741-4b2e-bdfb-2c61bc308328_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-contract-vote-results/281-b0f25eff-472c-48c2-9aca-e11546cf3aa0)
         
-        #### [Centralia restaurant backs out of catering wedding after owner learns its for same-sex marriage](https://www.king5.com/article/news/local/centralia-restaurant-backs-out-catering-wedding-same-sex-wedding/281-d06bd0d9-dd0d-44c9-83ee-d440a76a190c) [![](https://media.king5.com/assets/KING/images/70d65392-40bd-4fc8-8d37-fbd150794c90/20241105T021730/70d65392-40bd-4fc8-8d37-fbd150794c90_16x9.jpg) ![](https://media.king5.com/assets/KING/images/70d65392-40bd-4fc8-8d37-fbd150794c90/20241105T021730/70d65392-40bd-4fc8-8d37-fbd150794c90_360x203.jpg)](https://www.king5.com/article/news/local/centralia-restaurant-backs-out-catering-wedding-same-sex-wedding/281-d06bd0d9-dd0d-44c9-83ee-d440a76a190c)
+        #### [Boeing machinists approve new contract, ending strike](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-contract-vote-results/281-b0f25eff-472c-48c2-9aca-e11546cf3aa0)
         
-        #### [Centralia restaurant facing backlash after refusing to cater for same-sex wedding](https://www.king5.com/article/news/local/centralia-restaurant-backs-out-catering-wedding-same-sex-wedding/281-d06bd0d9-dd0d-44c9-83ee-d440a76a190c)
-    *  [![](https://media.king5.com/assets/KING/images/03aefb5b-8c8e-41c6-97df-2068d451c870/20241105T015213/03aefb5b-8c8e-41c6-97df-2068d451c870_16x9.jpg) ![](https://media.king5.com/assets/KING/images/03aefb5b-8c8e-41c6-97df-2068d451c870/20241105T015213/03aefb5b-8c8e-41c6-97df-2068d451c870_360x203.jpg)](https://www.king5.com/article/news/politics/elections/how-king-county-voters-ensure-ballot-counted/281-12f95d8f-cf44-41ea-bb1b-15dbdf7f8c57)
+    *  [![](https://media.king5.com/assets/KING/images/c978d2de-2c74-4860-a22b-cff3293c85aa/20241021T192730/c978d2de-2c74-4860-a22b-cff3293c85aa_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c978d2de-2c74-4860-a22b-cff3293c85aa/20241021T192730/c978d2de-2c74-4860-a22b-cff3293c85aa_360x203.jpg)](https://www.king5.com/article/news/local/remains-2-aviators-killed-navy-growler-crash-returning-washington-this-week/281-9ce4e06e-ad18-4f33-aea9-384d882e66a0)
         
-        #### [Is your ballot counted? Here's what King County voters need to know](https://www.king5.com/article/news/politics/elections/how-king-county-voters-ensure-ballot-counted/281-12f95d8f-cf44-41ea-bb1b-15dbdf7f8c57)
+        #### [Remains of 2 aviators killed in Navy growler crash returning to Washington this week](https://www.king5.com/article/news/local/remains-2-aviators-killed-navy-growler-crash-returning-washington-this-week/281-9ce4e06e-ad18-4f33-aea9-384d882e66a0)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -57,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a03fcb14-e560-4e82-b0b4-5f8ea8cfc896/20241105T013445/a03fcb14-e560-4e82-b0b4-5f8ea8cfc896_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a03fcb14-e560-4e82-b0b4-5f8ea8cfc896/20241105T013445/a03fcb14-e560-4e82-b0b4-5f8ea8cfc896_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/be219516-c884-4662-bf00-0182cc2d5d8f/20241105T063019/be219516-c884-4662-bf00-0182cc2d5d8f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/be219516-c884-4662-bf00-0182cc2d5d8f/20241105T063019/be219516-c884-4662-bf00-0182cc2d5d8f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-50°
+45°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
