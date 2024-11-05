@@ -480,7 +480,7 @@ AXA Business Insurance is designed to keep your business running, whatever lies 
 Tips and tools
 
 * [Business Guardian Angel](https://www.axa.co.uk/business-insurance/business-guardian-angel/ "Business Guardian Angel")
-* [Business Insurance Wizard](https://www.axa.co.uk/business-insurance/business-insurance-wizard/ "Business Insurance Wizard")
+* [Guide to renewals](https://www.axa.co.uk/business-insurance/guide-to-business-insurance-renewals/ "Guide to renewals")
 * [Premiums explained](https://www.axa.co.uk/business-insurance/premium-change/ "Premiums explained")
 
 [Cover by occupation](https://www.axa.co.uk/business-insurance/business-insurance-by-occupation/)
