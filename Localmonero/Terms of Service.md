@@ -6,11 +6,11 @@
 
 #### LocalMonero will be winding down
 
-The winding down process begins May 7th, 2024, and finishes on November 7th, 2024. Our [support](https://localmonero.co/support) staff will be available for help throughout this period.
+The winding down process begins May 7th, 2024, and finishes after November 7th, 2024. Our [support](https://localmonero.co/support) staff will be available for help throughout this period.
 
 1. Effective immediately, all new signups and ad postings are disabled;
 2. On May 14th, 2024, new trades will be disabled as well;
-3. On November 7th, 2024, the website will be taken down. Please reclaim any funds from your arbitration bond wallet prior to that date, otherwise the funds may be considered abandoned/forfeited.
+3. After November 7th, 2024, the website will be taken down. Please reclaim any funds from your arbitration bond wallet prior to that date, otherwise the funds may be considered abandoned/forfeited.
 
 [Read more](https://localmonero.co/blog/announcements/winding-down)
 
@@ -34,7 +34,7 @@ If you do not agree with any of these Terms of Service please do not use this si
 2\. Allowed jurisdictions & Compliance with laws
 ------------------------------------------------
 
-Services provided by Blue Sunday Limited or your own usage of these services might not be legally allowed in certain jurisdictions. By accepting these terms and services you confirm that you are not a resident of a such jurisdiction. Although our website may be accessed outside of Samoa, we make no representation that the services comply with the laws of any other country. If you use the services from outside of the Seychelles, you are solely responsible for ensuring compliance with your local laws. You warrant that will use the website and the services in compliance with all applicable federal and state laws and regulations governing Money Service Businesses or Cryptoasset Businesses or Virtual Asset Service Providers or similar applicable regulation of the jurisdiction you are located in and the laws of Samoa.
+Services provided by Blue Sunday Limited or your own usage of these services might not be legally allowed in certain jurisdictions. By accepting these terms and services you confirm that you are not a resident of a such jurisdiction. Although our website may be accessed outside of Samoa, we make no representation that the services comply with the laws of any other country. If you use the services from outside of the Samoa, you are solely responsible for ensuring compliance with your local laws. You warrant that will use the website and the services in compliance with all applicable federal and state laws and regulations governing Money Service Businesses or Cryptoasset Businesses or Virtual Asset Service Providers or similar applicable regulation of the jurisdiction you are located in and the laws of Samoa.
 
 3\. LocalMonero arbitration protection fees
 -------------------------------------------
@@ -106,7 +106,7 @@ Your use of this site is at your own risk. LocalMonero does not facilitate or pr
 14\. Resolution of Disputes
 ---------------------------
 
-Any dispute, claim, controversy or action arising out of or related to (a) the Terms of Service or the existence, breach, termination, enforcement, interpretation or validity thereof, or (b) your account(s), the operations and Services of the Site, or (c) your access to or use of the Services at any time, shall be subject to the exclusive jurisdiction of the courts of the Seychelles. For the avoidance of doubt, and without limiting the generality of the foregoing, this provision expressly applies to any claim, whether in tort, contract or otherwise, against LocalMonero. You irrevocably and unconditionally agree and consent to the jurisdiction and venue of the courts of Samoa, and you waive any objections thereto, including under the doctrine of forum non conveniens or other similar doctrines. You and LocalMonero agree that any party hereto may bring claims against the others only on an individual basis and not as a plaintiff or class member in any purported class or representative action or proceeding. No adjudicator may consolidate or join more than one person’s or party’s claims and may not otherwise preside over any form of a consolidated, representative, or class proceeding. Any relief awarded to any one LocalMonero user cannot and may not affect any other LocalMonero users.  
+Any dispute, claim, controversy or action arising out of or related to (a) the Terms of Service or the existence, breach, termination, enforcement, interpretation or validity thereof, or (b) your account(s), the operations and Services of the Site, or (c) your access to or use of the Services at any time, shall be subject to the exclusive jurisdiction of the courts of the Samoa. For the avoidance of doubt, and without limiting the generality of the foregoing, this provision expressly applies to any claim, whether in tort, contract or otherwise, against LocalMonero. You irrevocably and unconditionally agree and consent to the jurisdiction and venue of the courts of Samoa, and you waive any objections thereto, including under the doctrine of forum non conveniens or other similar doctrines. You and LocalMonero agree that any party hereto may bring claims against the others only on an individual basis and not as a plaintiff or class member in any purported class or representative action or proceeding. No adjudicator may consolidate or join more than one person’s or party’s claims and may not otherwise preside over any form of a consolidated, representative, or class proceeding. Any relief awarded to any one LocalMonero user cannot and may not affect any other LocalMonero users.  
 JURY TRIAL WAIVER: TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE PARTIES HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVE ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL ACTION OR PROCEEDING OF ANY KIND WHATSOVER ARISING OUT OF OR RELATING TO THESE TERMS OF SERVICE OR ANY BREACH THEREOF, ANY USE OR ATTEMPTED USE OF THE SITE OR THE SERVICE BY YOU, AND/OR ANY OTHER MATTER INVOLVING THE PARTIES.
 
 16\. No Investment Advice
@@ -208,7 +208,7 @@ This site may link you to other sites on the Internet. These sites may contain i
 32\. Jurisdictional Issues
 --------------------------
 
-Users of LocalMonero.co are themselves responsible for making sure they are in compliance with legislation of the jurisdiction they operate in. The Materials and all other content in this site are presented solely for the purpose of providing entertainment and information and promoting programs, films, music, and other products available. The site is controlled and operated by Blue Sunday Limited, Seychelles.
+Users of LocalMonero.co are themselves responsible for making sure they are in compliance with legislation of the jurisdiction they operate in. The Materials and all other content in this site are presented solely for the purpose of providing entertainment and information and promoting programs, films, music, and other products available. The site is controlled and operated by Blue Sunday Limited, Samoa.
 
 Privacy policy
 --------------
