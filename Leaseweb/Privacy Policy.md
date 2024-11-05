@@ -180,6 +180,7 @@ Skip to Header Skip to Main Content Skip to Footer
     
     [Leaseweb Labs](https://labs.leaseweb.com/ "Leaseweb Labs")
     
+* [Videos](https://www.leaseweb.com/en/resources/videos "Videos")
 * About Us
     
     Leaseweb
@@ -440,6 +441,7 @@ Language
     
     [Leaseweb Labs](https://labs.leaseweb.com/ "Leaseweb Labs")
     
+* [Videos](https://www.leaseweb.com/en/resources/videos "Videos")
 * About Us
     
     Leaseweb
