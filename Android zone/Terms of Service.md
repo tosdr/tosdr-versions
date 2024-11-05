@@ -34,6 +34,11 @@ Our websites use cookies to distinguish you from other users of our website. Thi
         
     *  Español (España)
         
+* [Theme](#elNavTheme_menu)
+    *  Elegant - Light (Default)
+        
+    *  Villain - Dark Theme
+        
 * [Privacy Policy](https://android-zone.ws/privacy/)
 * [Contact Us](https://android-zone.ws/contact/)
 
@@ -71,6 +76,6 @@ Important Information
 
 This website uses cookies. To learn more, visit our [Privacy Policy](https://android-zone.ws/privacy/).
 
-  [I accept](https://android-zone.ws/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9hbmRyb2lkLXpvbmUud3Mv&csrfKey=1a2f4db5dd235bdb508cc10aab625a28)
+  [I accept](https://android-zone.ws/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9hbmRyb2lkLXpvbmUud3Mv&csrfKey=3c14b70e2b1049c710a951dad8767d3a)
 
  Change theme
