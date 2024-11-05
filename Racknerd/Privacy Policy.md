@@ -1,3 +1,7 @@
+###### OUR LATEST 11-11 KVM VPS DEALS - NOW LIVE!
+
+[REVEAL DEALS >](https://www.racknerd.com/11-11/)
+
 DISCOUNT
 
 Save 15% off for life on all dedicated servers using promo code: **15OFFDEDI**
