@@ -87,4 +87,4 @@ Find us also on the following platforms
 **Contact**  
 [info@ipv64.net](mailto:info@ipv64.net "Kontakt E-Mail")
 
-© 2024 Copyright: IPv64.net - [Version 1.0.6](https://ipv64.net/release_notes) - [Datenschutzerklärung](https://ipv64.net/datenschutz)
+© 2024 Copyright: IPv64.net - [Version 1.0.7](https://ipv64.net/release_notes) - [Datenschutzerklärung](https://ipv64.net/datenschutz)
