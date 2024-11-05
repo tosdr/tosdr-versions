@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 4, 2024**
+**November 5, 2024**
 
 * * *
 
@@ -208,6 +208,9 @@ this hour
 
 * * *
 
+* [Bio-Based Fibers May Be Worse Than Plastics](https://www.sciencedaily.com/releases/2024/11/241105114318.htm)
+* [Towards a Hydrogen-Powered Future](https://www.sciencedaily.com/releases/2024/11/241105114155.htm)
+* [Deaf Male Mosquitoes Don't Mate](https://www.sciencedaily.com/releases/2024/11/241105113844.htm)
 * [AI for Real-Time, Patient-Focused Insight](https://www.sciencedaily.com/releases/2024/11/241104150638.htm)
 * [Tonga Eruption: Seismic Wave 15 Minutes Earlier](https://www.sciencedaily.com/releases/2024/11/241104150630.htm)
 * [The Secrets of Baseball's Magic Mud](https://www.sciencedaily.com/releases/2024/11/241104150622.htm)
@@ -215,9 +218,6 @@ this hour
 * [Synthetic Genes for Medicine and Biotech](https://www.sciencedaily.com/releases/2024/11/241104112240.htm)
 * [Fossil of Huge Terror Bird Discovered](https://www.sciencedaily.com/releases/2024/11/241104112355.htm)
 * [Fastest-Feeding Black Hole in the Early Universe](https://www.sciencedaily.com/releases/2024/11/241104112032.htm)
-* [Indigenous Cultural Burning in Australia](https://www.sciencedaily.com/releases/2024/11/241101123754.htm)
-* [Why No Deep-Diving Crocodiles: Sinuses](https://www.sciencedaily.com/releases/2024/10/241029203003.htm)
-* [Revolutionary High-Speed 3D Bioprinter](https://www.sciencedaily.com/releases/2024/11/241101123841.htm)
 
 Trending Topics
 ---------------
@@ -228,19 +228,19 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
-
 [Lymphoma](https://www.sciencedaily.com/news/health_medicine/lymphoma/)
 
 [Skin Cancer](https://www.sciencedaily.com/news/health_medicine/skin_cancer/)
 
+[Wounds and Healing](https://www.sciencedaily.com/news/health_medicine/wounds_and_healing/)
+
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Big Bang](https://www.sciencedaily.com/news/space_time/big_bang/)
+[Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
+
+[Quantum Computers](https://www.sciencedaily.com/news/computers_math/quantum_computers/)
 
 [Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
-
-[Satellites](https://www.sciencedaily.com/news/space_time/satellites/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
