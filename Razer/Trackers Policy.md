@@ -1461,7 +1461,7 @@ Your Cart is empty.
 * [RazerStore Rewards](https://www.razer.com/store/rewards)
 * [Log In](#)
 
-For a limited time, all orders will enjoy free shipping to the United States. [Shop Now \>](https://www.razer.com/store)
+Discover our Immersive specials and get SILENT HILL 2 with purchase of select products. [Learn More \>](https://www.razer.com/campaigns/silent-hill-2)
 
 RAZER LEGAL
 ===========
