@@ -119,7 +119,7 @@ Name of the cookie: ARRAffinity.
 [Legal notice](https://hacknplan.com/legal-notice-v3)  
 [Privacy policy](https://hacknplan.com/privacy-policy-v4)  
 [Cookie policy](https://hacknplan.com/cookie-policy-v2/cookie-policy-v3)  
-[Terms of Service](https://hacknplan.com/terms-of-service-v3)
+[Terms of Service](https://hacknplan.com/terms-of-service-v4)
 
 * [Follow](https://www.twitter.com/hacknplan/ "Follow on Twitter")
 * [Follow](https://www.linkedin.com/company/hacknplan "Follow on LinkedIn")
