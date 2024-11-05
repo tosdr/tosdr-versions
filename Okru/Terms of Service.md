@@ -12,7 +12,11 @@ Close
 
 ![](data:,)
 
-[![](//i.okcdn.ru/i?r=BDEtjN7Zne-BVzZrRFypJtPdyZxg7shgG0BEdqTncVMSyiJF9JVQZJhPpPOIcIDc5ec)![](//i.okcdn.ru/i?r=BDEtjN7Zne-BVzZrRFypJtPdDoXbfCYG4xDpfxcBVW04SCJF9JVQZJhPpPOIcIDc5ec)](https://ok.ru/dk?st.cmd=anonymMain)
+[![](//i.okcdn.ru/i?r=BDEtjN7Zne-BVzZrRFypJtPdyZxg7shgG0BEdqTncVMSyiJF9JVQZJhPpPOIcIDc5ec)![](//i.okcdn.ru/i?r=BDEtjN7Zne-BVzZrRFypJtPdDoXbfCYG4xDpfxcBVW04SCJF9JVQZJhPpPOIcIDc5ec)
+
+Stop Cyberbullying Day
+
+11.11 is Anti-Cyberbullying Day. 💛 It's a sign of love and support to help defeat online hate.](https://ok.ru/dk?st.cmd=anonymMain)
 
 English
 
