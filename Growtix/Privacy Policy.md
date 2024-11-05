@@ -6,149 +6,301 @@ Toggle navigation [![](/img/Leap_Conventions_Logo_White.png)](https://leapevent.
 Leap Conventions - Privacy Policy
 =================================
 
-  
-  
-  
-  
-
 #### Last Updated: July 19, 2024
 
 This Privacy Policy describes the information collected through this website (the “**Site**”) and the related products and services we provide, whether online or offline, and how that information is collected, used, and disclosed. The Site, our products and services (including any mobile apps, online platforms, and other software (our “**Software**”)), and all related content, technology, and tools are, together, referred to as the “**Services**.” Leap Conventions, a brand of Nortap Technology Inc. dba Leap Event Technology (“**Company**,” “**we**,” “**us**,” or “**our**”) and its suppliers may collect or receive the types of information described below as a result of your access to and use of the Services (together, “**Collected Information**”). This Privacy Policy applies to all visitors to and users of the Services.
 
 This Privacy Policy also explains your rights and choices regarding your personal information (if applicable), how we communicate changes to this Privacy Policy, and how you may contact us regarding questions or issues with respect to any matter addressed by this Privacy Policy.
 
-This Privacy Policy is incorporated into and made a part of our [terms and conditions](https://purchase.growtix.com/terms), any applicable mobile app end user license agreement, and any other agreement that references this Privacy Policy or governs access to or use of the Services (together, our “**Terms**”).
+This Privacy Policy is incorporated into and made a part of our [terms and conditions](https://checkout.conventions.leapevent.tech/terms), any applicable mobile app end user license agreement, and any other agreement that references this Privacy Policy or governs access to or use of the Services (together, our “**Terms**”).
 
 **By accessing, browsing, or otherwise using the Services, by accepting or entering into our Terms, you agree on behalf of yourself and any organization or company that you represent (together, “you”) that you have read and understand this Privacy Policy and that you consent to our collection, use, and disclosure of your personal information and other Collected Information pursuant to the terms of this Privacy Policy. If you do not agree with this Privacy Policy, do not access or use the Services.**
 
-### The Leap Event Technology/Client Relationship
+### Table of Contents
 
-Leap Event Technology acts as a data processor for and on behalf of partners and clients in event management related services included but not limited to registration and ticketing, credit card processing, event data management, etc. Personal data processed by Leap Event Technology on behalf of clients are not used by Leap Event Technology for any purpose other than the fulfillment of contracted services with said clients, or any other purpose outlined in this privacy policy.
+1\. Changes to this Privacy Policy  
+2\. Information We Collect and How We use and Disclose It  
+3\. Other Information Collected  
+4\. Retention of Personal Information  
+5\. Automated Processing  
+6\. International Transfers of Personal Information; Data Privacy Framework  
+7\. Your Choices and Access  
+8\. Additional Information for Certain U.S. Residents
 
-Being that Leap Event Technology is an event management and ticketing service provider, customers are permitted to create accounts with Leap Event Technology that allow them access to their personal data that has been processed by Leap Event Technology. Access to personal data stored by our clients within the Leap Event Technology system can be achieved by creating an account with Leap Event Technology.
+9\. Additional Information for Individuals Located in the EEA  
+10\. Additional Information for Canadian Residents  
+11\. Exercise Your Rights  
+12\. Accuracy & Information Security  
+13\. Access by Children  
+14\. Third-Party Websites and Services  
+15\. Contact Us
 
-### Tracking Technologies
+### 1\. Changes to this Privacy Policy
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do link this automatically collected data to other information we collect about you.
+We reserve the right to modify this Privacy Policy at any time. All changes will be effective immediately upon posting of the updated Privacy Policy on the Site and, by accessing or using the Services after any changes are made, you agree to those changes. Material changes will be clearly posted on the Site or otherwise communicated to you (e.g., via email).
 
-Leap Event Technology and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
+### 2\. Information We Collect and How We use and Disclose It
 
-We partner with a third party to either display advertising on our web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.
+The information we collect generally falls into the following categories:
 
-To opt-out of interest-based advertising by participating companies in the following consumer choice mechanisms, please visit:
+* Information that you voluntarily submit to us, for example, your contact information, payment information, user-generated content, and job applications.
+* Information collected through your use of the Services, for example, user activity, data collected by the servers used to operate the Services (e.g., IP addresses and device information), data collected by analytics and advertising services, data collected when you connect using or share information via social media platforms, and data collected by cookies and tracking technologies.
 
-* Digital Advertising Alliance (DAA)’s self-regulatory opt-out page and mobile application-based “AppChoices” download page‍
-* European Interactive Digital Advertising Alliance (EDAA)’s consumer opt-out page‍
-* Network Advertising Initiative (NAI)’s self-regulatory opt-out page‍‍
+**Collection**. We will collect any and all information that you choose to submit to us through, using, or in connection with the Services, including, without limitation, the types of information described below.
 
-### Data Deletion Policy
+| Categories | Examples and Subcategories Include, For Example: | Purposes (defined below) |
+| --- | --- | --- |
+| **Identifiers** | Your first and last name, email address, postal address, telephone number.<br><br>Usernames, login information, social media accounts and login information. | * Services and Purpose Collected; Communication with You.<br>* Event Registration and Ticketing.<br>* Personalization.<br>* Donations.<br>* Promotional Communications.<br>* Disclosing Collected Information.<br>* Retargeting and Advertising by Partners.<br>* Evaluation and Improvement.<br>* De-Identified Data and Aggregated Data.<br>* Lawful Processes; Protection of Company.<br>* Business Transactions.<br>* Services and Purpose Collected; Communication with You.<br>* Event Registration and Ticketing.<br>* Personalization.<br>* Donations.<br>* Promotional Communications.<br>* Disclosing Collected Information.<br>* Retargeting and Advertising by Partners.<br>* Evaluation and Improvement.<br>* De-Identified Data and Aggregated Data.<br>* Lawful Processes; Protection of Company.<br>* Business Transactions. |
+| Protected Classifications Under Applicable Law | Age (40 years or older), gender. |
+| Internet or Other Electronic Network Activity | IP addresses, MAC Address, log files, login information, cookies, pixels, beacons, other unique online identifiers, and device and user activity information (e.g., search parameters, online activity such as date and time of accessing our websites, website addresses accessed, the length of website visit, and other usage data). |
+| Professional or Employment Related Information | Business contact information, job title, entity you represent or work for, business telephone number, business address, business email address. |
+| Audio, Electronic, Visual, Thermal, Olfactory, or Similar Information | If the Services allow, you may upload photos and videos. |
+| Contact Forms and Requests for Information or Support | The Identifiers you submit, details about the products or services you are interested in, the entity you represent, and the subject matter you are interested in. |
+| Chat and Messaging | The Identifiers you submit and all text and other information and content you provide or input through such Chat and Messaging features (where provided to you). |
+| Inferences | Preferences, behaviors, characteristics (including, for example, age, gender), and similar information inferred from the above categories of information. |
 
-Data stored within the Leap Event Technology systems is collected and processed with an end to service Leap Event Technology clients and their customers in event related services. This personal data is defined as necessary data in providing contracted services for Leap Event Technology clients and their customers.
+**Purposes We Process Your Information For.** In addition to the uses and sharing described above, Company and its suppliers may use and disclose Collected Information as described below. We do not use, sell, rent, or otherwise disclose Collected Information except as stated in this Privacy Notice and as required or permitted by applicable law.
 
-Leap Event Technology is a data controller in regard to your user account created within Leap Event Technology. Only an email address and name are required to create an account within Leap Event Technology and said account is used to access data that has been processed on behalf of our clients. Leap Event Technology accounts will remain active within the system with the purpose of accessing data processed by our clients. You can request for your user account to be removed from the Leap Event Technology system by submitting a request to [\[email protected\]](https://purchase.growtix.com/cdn-cgi/l/email-protection).
+Services and Purpose Collected; Communication with You. We will use and share your personal information and other Collected Information for the purpose for which it was collected, for example, to facilitate account creation and administration, to process and communicate with you in connection with your use of the Services (including your buying event tickets, purchases, and account activity), your requests for information, user-generated content you provide, and opportunities at Company, to administer your account (where applicable) and Company business activities, to provide customer support to users of the Services, and to provide you with information and communications that you request. This includes, for example, providing your name and other information about you to the applicable Event Partner when you purchase a ticket or register for an event. Your location information will be used, for example, to understand where our users are located and to determine what services are available in those areas. User-generated content will be used for the purpose for which it was provided, including to make that content available to other users of the Services, if applicable, as discussed above and in our Terms.
 
-### Sub-Processors
+Event Registration and Ticketing. Some of our Services allow you to register for events, or order or purchase tickets for an event. If you use the Services to register for events, or order or purchase tickets for an event, the applicable event organizer or promoter (“**Event Partner**”) will also collect your information—such as your name, contact information (as discussed above), and applicable payment information—through the Services. By using the Services to interact with the Event Partner or related event, you hereby direct us to disclose your information to the Event Partner. The Event Partner’s collection may be necessary, for example, in order for you to gain admittance to events or for identification verification purposes, or otherwise as set forth in such Event Partner’s privacy policies. The Event Partner will use your information that they collect in accordance with their privacy policies. This Privacy Policy will not govern or control the applicable Event Partner’s use of your information and we encourage you to consult and review the Event Partner’s privacy policies. If you have questions about a particular Event Partner’s use of the information you provide in connection with an event, please contact that Event Partner directly.
 
-Leap Event Technology engages with sub-processors, subcontractors and content delivery networks to assist it in providing Leap Event Technology Services. In this instance, sub-processors are defined as any entity that processes personal data for and on behalf of Leap Event Technology and its clients. It is the responsibility of Leap Event Technology to determine that your data is securely processed by our sub-processors.
+Personalization. To tailor the content and information that we may send or display to you, to suggest personalized help and instructions, and to otherwise personalize your experience while visiting or using our Services.
 
-Leap Event Technology sub-processors and their uses are indicated below:
+Donations. If you elect to donate to an organization through the Services (which organization may be a customer of Company), Company and/or the organization will collect the information you provide when making the donation, including your name, contact information (as discussed above), and applicable payment information. These organizations will use this information in accordance with their privacy policies. We use just-in-time information to let you know when data will be collected independently by such organizations and that it will be processed in accordance with the applicable organization’s privacy policies. If you have questions about a particular organization’s use of the information you submit in connection with a donation, please contact that organization directly.
 
-Google: Analytics data, geocoding.  
-AWS: Data hosting services.  
-SmartyStreets: Address verification.  
-Sendgrid: Email communications with client customers and others as deemed necessary functions within Leap Event Technology.  
-Twilio: SMS communications with client customers, 2FA, and others as deemed necessary functions within Leap Event Technology.  
-Stripe.com: Merchant Services  
-Leap Event Technology: Streaming service and meet and greet service.  
-Logrocket: Admin session replay and tracking.  
-Pendo: User behavior tracking and analytics.  
-Epic Photo Ops: Third party photo op company.  
-Authorize.net: Merchant services.  
-Stripe.com: Merchant services.  
-Propay: Merchant services.  
-PayPal Merchant services.  
-Bambora: Merchant services.  
-Square: Merchant services.  
-Cybersource: Merchant services.  
-Google: Analytics.  
+Promotional Communications. Company may, to the extent permitted by applicable law and in accordance with your preferences, use Collected Information to send you promotional communications about Company, our products and services, and other products, services and events that you may be interested in. Company will obtain your prior consent for such promotional communications solely to the extent required by applicable law. In order to provide you with a personalized experience, these communications may be tailored to your preferences based on, for example, inferences we make using your visits to the Services or the links you click on in Company emails. You may opt out of receiving promotional communications from us at any time by following the unsubscribe instructions contained in the applicable email or by contacting us using the contact information provided below under “Contact Us.” Specifically with regard to text messaging, if you opt in to receiving text messages (SMS and MMS) on the Services when prompted, Company may send you autodialed and other text messages at the telephone number you provide relating to your use of the Services. Consenting to receiving text messages is not required to buy goods or services or to otherwise do business with us. Message and data rates may apply. Note that, even if you opt out of receiving promotional communications from Company, you may still receive administrative communications from us with respect to your use of the Services.
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+Disclosing Collected Information.
 
-### California, Virginia, and Applicable U.S. State Law Privacy:
+* To our Affiliates Subsidiaries and Related Entities: Based on how you use the Services and the information that you provide to or request from us, we may share your name, contact information, and related Collected Information with our affiliated companies who have products or services that we think may be of interest to you. Our affiliated companies may contact you directly with respect to such products and services, provided that if applicable law requires, your prior consent will be obtained. You may opt out of receiving communications from any such affiliated company pursuant to that affiliate’s own policies. You may opt out of receiving communications from us by contacting us using the information below under “Contact Us.”
+* To Our Third-Party Suppliers and Service Providers: We will disclose Collected Information to our and our affiliates’ respective suppliers, vendors, and service providers as necessary for us to provide the Services and our products and services to you and to engage in the use and sharing of Collected Information as permitted by this Privacy Notice and applicable law. These third parties include, without limitation, our website management and hosting suppliers, customer support providers, those handling the processing and delivery of mailings, cloud storage providers, website analytics providers, payment processors (if and as applicable), product installers, and email service suppliers. Our service providers are authorized to and may use and disclose Collected Information as necessary for them to provide the applicable products and services to us and as provided by their own privacy policies and our agreements with those third parties.
 
-This section of our Privacy Policy supplements the information contained throughout the Privacy Policy and applies solely to visitors, users, and others who reside in the State of California, the Commonwealth of Virginia, or other jurisdictions granted similar rights and setting forth similar requirements as the foregoing jurisdictions. We adopt this notice to comply with the California Consumer Privacy Act of 2018, as amended, (“CCPA”) and other California privacy laws; Virginia’s Consumer Data Protection Act, as amended, and any other similarly structured U.S. state laws that requires this notice under applicable law.
+Retargeting and Advertising by Event Partners. In addition to the Company’s direct marketing to you, we collect your Contact Information as described above to allow our Event Partners to provide you information and marketing or promotional communications regarding events you may be interested in. Where required by applicable law, we will obtain your consent before including your information in such lists and before providing such information to our Event Partners, or, where required by applicable law, the ability to opt-out of such activities. The use of your information by Event Partners for these purposes is governed by the Event Partner’s privacy policy as set forth in the “Event Registration and Ticketing” section above.
 
-**Collection.** We collect certain categories of personal information about you. We collect the following types of categories of personal information:
+Evaluation and Improvement. We may use and disclose Collected Information to analyze, develop, and improve the content, materials, products, and services that we provide; to inform marketing and communication plans and strategies; to understand user demographics and preferences; to analyze the effectiveness of the Services; and to evaluate user needs and customize Services content and the user experience. To better understand how users access and use our Services, both on an aggregated an individualized basis, including monitoring, evaluating, and analyzing which features and portions of the Services are most popular; for troubleshooting, for statistical purposes, including, for example, identifying geographic regions of visitors to our Services; evaluating frequently asked questions from visitors; and for other statistical purposes.
 
-* Identifiers: including but not limited to name, telephone number, address, email address
-* Commercial Information: including but not limited to financial account information, payment card information, purchase and transaction history;
-* Internet or other electronic network activity information: including but not limited to computer and connection information, IP address, and cookies and other tracking technologies described further above; and
-* Inferences: drawn from the above categories of personal information.
-* Sensitive personal information: account login and password information
+De-Identified and Aggregated Data. We may de-identify and/or aggregate personal information and user-generated content, and aggregate other Collected Information, and use and disclose that aggregate and/or de-identified data for our business purposes, in each case to the extent permitted by applicable law. We may also combine aggregate and/or de-identified data with other data in our possession for purposes of using and disclosing information as described in this Privacy Notice and as permitted under applicable law.
 
-**Purposes.** We collect personal information for the business and commercial purposes set forth in the privacy policy above.
+Lawful Processes; Protection of Company. We may use and share Collected Information in accordance with and in response to regulatory authorities, courts with competent jurisdiction, valid law enforcement requests, governmental agency requests, emergency services, and other necessary third parties for legal, protection, security, safety purposes (e.g., to comply with laws or regulations, to respond to subpoenas and legal processes, to perform credit checks, to protect the safety of our employees, agents, and customers, or any other person) and to prevent fraud. We may use Collected Information and share it with third parties if we believe doing so is necessary or appropriate to protect our rights or the rights of others, including to enforce our agreements, policies, and terms, to bring legal action, to protect our operations and assets, or to pursue remedies or limit damages that we may sustain.
 
-**Sources.** Consistent with the Privacy Policy above, we collect certain categories of personal data directly from you and, in some circumstances, third parties. The categories of sources that we collect personal data from in the prior 12 months includes the following:
+Business Transactions. If Company undergoes a change in control, acquisition, merger, reorganization, asset sale (in whole or in part), or similar transaction, we may transfer, sell, share, or otherwise disclose Collected Information to the subsequent owner(s) or successor(s) of those transactions. We may also disclose Collected Information in connection with the evaluation of those transactions. Those owner(s), successor(s), and other recipients will be bound by this Privacy Notice as it applies to the information disclosed. Also, if Company or any of its assets are acquired or if Company goes out of business, enters bankruptcy, or goes through some other change in control or reorganization, Collected Information may be one of the assets transferred to or acquired by a third party.
 
-* Information Collected from Event Attendees;
+With Your Consent. With your consent, we may use and share your personal information and other Collected Information in ways not specifically described in this Privacy Notice.
+
+**Disclosures to Third Parties.** Pursuant to and consistent with the purposes for collecting your information as set forth in this Privacy Notice we disclose certain categories of personal information to third parties for a business (or other) purpose.
+
+| Categories of Information | Categories of Third Parties Disclosed to | Purposes for Disclosure |
+| --- | --- | --- |
+| Identifiers | Affiliates, Subsidiaries, and Related Entities.<br><br>Subsequent owner(s), successor(s), or assignee(s) or Company.<br><br>Third Party Service Providers, which include, for example, payment processing companies, data analytics and advertising providers, fraud prevention providers, cloud storage providers, IT service providers, delivery partners, and marketing companies.<br><br>Law Enforcement. | * Services and Purpose Collected; Communication with You.<br>* Payment.<br>* Event Registration and Ticketing.<br>* Personalization.<br>* Donations.<br>* Promotional Communications.<br>* Disclosing Collected Information.<br>* Retargeting and Advertising by Partners.<br>* Evaluation and Improvement.<br>* De-Identified Data and Aggregated Data.<br>* Lawful Processes; Protection of Company.<br>* Business Transactions. |
+| Protected Classifications Under Applicable Law |
+| Internet or Other Electronic Network Activity |
+| Professional or Employment Related Information |
+| Audio, Electronic, Visual, Thermal, Olfactory, or Similar Information |
+| Contact Forms and Requests for Information or Support |
+
+**User-Generated Content.** We will collect all data and other content that you enter into, submit to, upload to, or transmit using our Services. You are responsible for any and all text, images, video, audio, comments, data, information, and other content and material that you submit, create, post, upload, embed, display, communicate, distribute, or transmit using our Services and all such content and material are provided at your own risk. This includes any content or material provided that is intended to be made accessible or viewable by other users of our Services, including, as applicable, the general public (e.g., event information submitted by event organizers and promoters, forum and discussion board posts, reviews and testimonials, blog post comments, photographs (as applicable and if such features are made available to you)). We cannot guarantee that such user-generated content will not be viewed by unauthorized persons. You understand that, even after removal, copies of user-generated content you have provided may remain viewable in cached and archived pages and may have been copied or stored by Internet archives and other users of the Services. Company will make user-generated content available to other users of the Services and to the public, as applicable, and will use and disclose user-generated content for the purpose for which it was provided (including as may be indicated at the point of collection).
+
+**Payment.** Payments submitted in connection with the Services (including ticket purchases, Software subscription fees, and hardware fees) must be made via the Services by credit, debit card, or through alternate payment methods (such as Google Pay, PayPal, etc.) where such alternate payment methods are made available as an option. Please note that alternate payment methods may be provided by third parties (e.g., Google Pay via Google), subject to that third party’s privacy policy. This privacy policy does not apply to such third party’s collection and use of your information. Please review the applicable third party’s privacy policy. With regard to credit and debit card payment, all credit and debit card information is provided directly to our third-party payment processor. Company does not directly access, handle, or store your credit or debit card information. To submit payment using the Services, you will need to provide your name, email address, telephone number, and your credit or debit card number, expiration date, and security code, as well as any such information as necessary to verify the applicable payment. Our payment processor will use your payment-related information in accordance with its privacy policy. Where online storefront on the Services is hosted or powered by a third party, we encourage you to review any posted terms and privacy policies.
+
+**Push Notifications.** Where our mobile applications allow for the delivery of “push notifications”, you can also opt-out of receiving those notifications by going into your mobile phone device settings and toggling the notifications switch to off.
+
+**Legal Basis For Processing.** Where law applicable to our processing of your data requires us to have a legal basis for processing your personal information, we process your personal information under the following basis:
+
+* Our Contract With You: Our processing is necessary to perform our obligations under a contract with you or to perform steps requested by you prior to entering into a contract with you: (e.g., to verify the information you have provided to us).
+* Our Legitimate Interests: Our processing is necessary for our legitimate interests, including to protect the security of our services; to protect the health and safety of you or others; to establish, protect and defend our legal rights and interests; to prevent fraud and verify identity and authorization of clients; to understand and analyze usage trends; and to improve our products and services. Additionally, we have a legitimate interest in promoting our operations and goals as an organization and sending marketing communications for that purpose.
+* Legal Compliance: Where our processing is required to comply with applicable law (for example, to maintain your payment transaction history for tax reporting purposes) e.g., in response to subpoenas, court orders and other lawful requests by regulators, courts and law enforcement agencies, or related to national security requests.
+* Your Consent: When we have your express consent as defined by applicable law.
+
+### 3\. Other Information Collected
+
+As you navigate and use the Services, certain information can be passively collected using various technologies. We passively collect a variety of types of information in a variety of ways, including as described below.
+
+**User Activity.** We collect information on how the Services are used, for example, the features you use, the links that you click on, your search parameters, data reflecting transactions that have taken place using the Services (e.g., ticketing), how you interact with other users, performance statistics, and other usage data.
+
+**IP Addresses and Related Data.** The servers used to operate and provide the Services may collect data pertaining to you and the equipment, software, and communication methods you use to access the Internet and the Services, including IP addresses assigned to the computers and other devices from where you access the Internet, your Internet service provider (ISP), device ID numbers and unique identifiers, your media access control (MAC) address, your operating system, your device’s screen resolution, your web browser type, the pages you access on the Services, the websites you access before and after visiting the Services, the length of time you spend on the Services, date and time stamps, clickstream data, your approximate geographic location, performance statistics, and usage data. Company may use this information to administer the Services and their servers, to generate statistical information, to monitor and analyze Service traffic and usage patterns, to monitor and help prevent fraud, to investigate complaints and violations of our policies, and to improve the Services.
+
+We may combine this information with other Collected Information (including personal information) and information obtained from third parties for security reasons and to protect our rights or the rights of others. The suppliers that we use to provide the Services may collect information about your visits to the Services and other websites. Some of this information may be collected using cookies and similar tracking technologies as explained below under “Cookies and Tracking Technologies.”
+
+**Location Information.** In addition to the approximate geographic location information collected as discussed above, we may, with your consent, access more specific location information to enhance the user experience and increase the usefulness of the Services. This includes both geographical location information that you input using the Services (e.g., when you enter a zip code, city, or street address) and, as applicable, geographical location information collected by device-based location services (including GPS data). You may choose to allow us to access your location by granting the Services access to your location when prompted or through your device’s location services settings. Company may also use the Google Maps API(s). Pursuant to the [Google Maps APIs Terms of Service](https://developers.google.com/maps/terms), use of this location feature is also subject to [Google’s Privacy Policy](https://www.google.com/policies/privacy). For information on how Google categorizes location information, please visit [Types of location data used by Google](https://www.google.com/policies/technologies/location-data/). Both the [Google Terms of Service](https://policies.google.com/terms) and [Google’s Privacy Policy](https://www.google.com/policies/privacy) are incorporated into this Privacy Policy by this reference.
+
+**Analytics.** The Services use third-party analytics tools (e.g., Google Analytics) to collect and process data about your use of the Services, including when you visit the Services, URLs of the websites that you visit prior to visiting the Services and when you visit those websites, and IP addresses assigned to the devices from where you access the Internet. Our analytics providers may set and read cookies to collect this data and your web browser will automatically send data collected by those cookies to our analytics providers. Our analytics providers use this data to provide us with reports that we will use to improve the Services’ structure and content.
+
+For more information on how Google uses this data, visit [Google’s Privacy Notice](https://www.google.com/policies/privacy) and Google’s page on [How Google uses data when you use our partners' sites or apps](https://www.google.com/policies/privacy/partners). To prevent this data from being used by Google Analytics, follow the instructions to download and install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) for each browser you use. Using the Google Analytics Opt-out Browser Add-on will not prevent Company from using other analytics tools and will not prevent data from being sent to the Service itself or to Google. For more information about how Google Analytics uses cookies to measure user interactions on websites, visit [Google Analytics Cookie Usage on Websites](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage). You may disable cookies as discussed below, but that may impact your use and enjoyment of the Service.
+
+**Advertising Networks, Personalized Advertising, Remarketing, and Retargeting.** From time to time the Services may use or participate in advertising networks and related advertising services that are managed and provided by third-party advertising servers, advertising agencies, technology vendors, and research firms, including Google Ads and advertising services provided by Meta (sometimes referred to the Meta “tracking pixel”). These services collect information about your visits to and interactions with the Services and other websites and will use that information to target advertisements for goods and services and to display those advertisements on other websites. The information collected may be associated with your personal information.
+
+Through Google Ads, Google uses your Internet searches, cookies, and similar identifiers (e.g., pixel tags) to collect information about your visits to the Service and your interaction with our products and services to generate targeted advertisements to you on other websites that you visit across the Internet. We may also enable and implement Google Analytics Advertising Features on the Service.
+
+To opt out of remarketing advertising provided through Google, to customize your ad preferences, or to limit Google’s collection or use this information, visit [Google’s Safety Center](https://www.google.com/safetycenter/tools) and [Google’s Ad Settings](https://www.google.com/settings/ads) and follow [Google’s personalized ad opt-out instructions](https://support.google.com/ads/answer/2662922?hl=en&ref_topic=7048998). Opting out will not affect your use of the Service.
+
+For certain Meta advertising services, Meta Ireland is a Joint Controller (as defined in the GDPR) and that information required under the GDPR related to such processing can be found at [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy). We work with Meta and use their advertising services to measure and improve our ads and marketing efforts, as well as to display more relevant advertising to you. For further information on how Meta Ireland processes your personal information, including the legal basis, and the ways to exercise your rights, please visit [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy). If you have a Meta account but do not wish Meta to collect data relating to you via the Services, we suggest that you take the steps outlined below under “Social Media.”
+
+**To change your preferences with respect to certain online ads and to obtain more information about third-party ad networks and online behavioral advertising, please visit the [National Advertising Initiative Consumer opt-out page](http://www.networkadvertising.org/choices) or the [Digital Advertising Alliance Self-Regulatory Program](http://www.aboutads.info/).** Please remember that changing your settings with individual web browsers or ad networks will not necessarily carry over to other browsers or ad networks. As a result, depending on the opt-outs you request, you may still see our ads from time to time. Your device may also include a feature (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.
+
+**Social Media.** The Services may implement widgets, tools, or applications provided by social media platforms and the Services may otherwise allow for interaction, integration, or content sharing with third-party social media platforms and companies. We may be required to implement cookies, plug-ins, and APIs provided by those social media platforms in order to facilitate those communications and features. By choosing to use any third-party social media platform or choosing to share content or communications with any social media platform, you allow us to share information with the designated social media platform. Interactions, integrations, and content sharing with social media platforms and their features may require or allow the social media company to collect information from or about you, whether through cookies, registration information, or otherwise. We encourage you to review the privacy policy of any social media platform that you use or visit in connection with the Services, as those platforms’ respective privacy policies will govern their collection, use, and disclosure of information they collect from you. We are not responsible for any use or disclosure of your information or content by third-party platforms, which you use at your own risk.
+
+**Our Social Media Pages.** Company is active on social media. You may have the opportunity to comment on social media platforms regarding, as well as send us reviews and testimonials regarding, Company and the products and services we offer and/or to submit or upload related photos and other materials. Company reserves the right to post on the Services, other websites, and social media pages any comments, photos, or content that you post on our social media pages or provide to us (whether through social media or otherwise) to the extent permitted by applicable law.
+
+**Single Sign-on.** When and where provided by Company in its sole discretion, you may have the option of logging into and/or linking your online Company account by providing your log-in information for certain third-party services. If you choose to use these single sign-on features (when and where available in the Services), we may access, handle, and store content and information that you have provided through or that is tied to the applicable third-party service account. These features may require us to implement cookies, plug-ins, and APIs provided by the applicable third parties. We do not and cannot control any policies or terms of any third-party service. Any information you provide in connection with a third-party service will be governed by that third-party service’s privacy policy.
+
+**Cookies and Tracking Technologies.** The Services automatically use cookies to track your use of the Services in order to facilitate and enhance the user experience on the Services and for other purposes as described below. Cookies are small pieces of information that are stored on your device’s hard drive by your web browser. We use cookies to learn and track how you access and use the Services, including when and how users visit the Services and how popular particular Service pages are and aren’t. We also use cookies to recognize Services users, to help display information on the Services, and to improve your enjoyment and the usefulness of the Services, for example, by remembering and displaying certain information.
+
+The Services may use both cookies that we implement and cookies implemented by our suppliers and other third parties. “First-party” cookies allow your browser to talk to the actual website that you are visiting, whereas “third-party” cookies allow your browser to talk to third-party websites, such as the source of an ad that appears on the website you are visiting or a third-party analytics provider. Our suppliers may use cookies and tracking technologies to track Service users across the Internet to understand how you get to the Services and for the analytics purposes disclosed in this Privacy Policy. We do not have access or control over these cookies and this Privacy Policy does not cover the use of third-party cookies. Click here for information on the cookies used by Facebook. Click here and here for information on the cookies used by Google.
+
+A cookie can either be a “session” cookie or a “persistent” cookie. Session cookies exist only for so long as you are visiting the applicable website. Session cookies are typically deleted or removed when you exit or quit your browser application. Persistent cookies exist for a set period of time, for example, six (6) months or one (1) year. Each time you visit a website that has implemented a persistent cookie, that cookie will remain active until its predetermined expiration date. You can also manually delete persistent cookies as discussed above.
+
+The types of information collected by a cookie and the purposes for which that information is used depends on the type of cookie. By way of illustration, the types of cookies used, the types of information collected by those cookies, and the purposes for which that information are used are described below. We may combine information collected by cookies with other Collected Information.
+
+* Operationally necessary cookies (also called essential cookies). These are cookies that are required for the operation of the Services. For example, these cookies are required to identify irregular website behavior, prevent fraudulent activity, and improve security. They also allow users of the Services to make use of its functions. Without these cookies, features and services you have requested will not be able to be provided.
+* Functional cookies. These cookies allow us to offer you enhanced functionality when accessing or using the Services. This may include remembering choices you make, for example, remembering your preferences or settings, remembering if you reacted to something on or through the Services so that you are not asked to react to it again, remembering if you have used any feature of the Services before, and enabling social media components. If functional cookies are disabled, various functions of the Services may be unavailable to you or may not work the way you want them to.
+* Performance cookies (also called analytical cookies). These cookies assess the performance of the Services, including as part of our analytic practices to help us understand how visitors use and interact with the Services, for example, which pages on our websites users visit most often. These cookies also enable us to personalize content and remember your preferences. These cookies help us improve the way our websites work and provide a better, personalized user experience.
+* Advertising or targeted cookies. These cookies record your visits to the Services, the pages you visit on our websites, and the links you have clicked. They gather information about your browsing habits and remember that you have visited a particular website. Company and its third-party advertising platforms or networks may use this information to make the Services and its content more relevant to your interests (this is sometimes called “behavioral” or “targeted” advertising and is further discussed above). These cookies are also used to limit the number of times you see an advertisement and to help measure the effectiveness of advertising campaigns. To find out more about interest-based ads and your choices, please visit the [Digital Advertising Alliance](http://digitaladvertisingalliance.org/), the [Network Advertising Initiative](https://www.networkadvertising.org/), the [Interactive Advertising Bureau (IAB) Europe](https://www.iabeurope.eu/), [http://www.allaboutcookies.org](http://www.allaboutcookies.org/), and [http://www.youronlinechoices.com](http://www.youronlinechoices.com/).
+
+For more information about cookies, including about advertising cookies and your choices regarding cookies, we suggest you visit the following websites: [https://www.consumer.ftc.gov/articles/0042-online-tracking](https://www.consumer.ftc.gov/articles/0042-online-tracking); [http://www.allaboutcookies.org](http://www.allaboutcookies.org/); and [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+
+Most browsers automatically accept cookies. Browsers generally also allow users to manage cookies in the browser’s settings. For example, a browser may allow you to reject cookies from certain websites, reject certain types of cookies regardless of the website, reject or disable all cookies from all websites, and/or delete previously stored cookies. Some browsers also give you the option of being notified every time a cookie is sent to your browser by a website. You can disable or limit cookies but doing so may impact your use and enjoyment of the Services and other websites. For example, the Services may not be able to be personalized for you, may no longer capture or remember your preferences or other choices you have made on the Services in the past, and may not remember your name or contact information or other information you have entered using the Services, and our website may not recognize the device(s) you use to access the Services.
+
+Changing your cookie preferences in one browser will not necessarily carry over to other browsers, so you may need to adjust your preferences each time you get a new device, install a new browser, upgrade an existing browser, or alter or delete a browser’s cookie file.
+
+The Services may also use the following types of tracking technologies: web beacons (also called clear GIFs), flash cookies, and pixels (also called pixel tags). Web beacons are tiny graphics with unique identifiers that function similar to how cookies function but, in contrast to cookies, web beacons are embedded invisibly on websites. Flash cookies collect and store information about your use of a website and are commonly used for advertisements and videos. Cookie management tools provided by your browser will not remove and cannot be used to manage Flash cookies. Click here for information on how to manage Flash cookies. Pixel tags can be placed on websites or within emails to track your interactions with those websites and when emails are opened.
+
+**How We Respond to Do-Not-Track Signals.** Due to the automatic collection of data using cookies as described above, we do not honor “do not track” requests. For this reason, your selection of the “Do Not Track” option provided by your browser may not have any effect on our collection of information using cookies and tracking technologies.
+
+However, residents of certain U.S. states may opt out by broadcasting an Opt-Out Preference Signal under applicable law, including the Global Privacy Control (GPC), depending on which browsers and/or browser extensions you use that may support such a signal. To look at extensions and browsers supporting the GPC browser signal, visit here: [https://globalprivacycontrol.org/](https://globalprivacycontrol.org/). Note that if you choose to use the GPC signal, you will need to turn it on for each supported browser or browser extension you use.
+
+**Embedded Content.** The Services may incorporate content, including feeds, scripts embedded in the Services’ code, and visible content (e.g., videos), provided by third parties. In some cases, those third parties collect data about how you interact with their content.
+
+**Information that We Obtain from Third-Party Sources.** We may obtain data about users of the Services from various third-party companies and public sources, whether offline or online (e.g., marketing companies, analytics consultants, publicly available social media profiles, other public sources of information), and we may combine that data with Collected Information. This enhances our existing information about our users and customers and improves our ability to contact you and our marketing’s relevancy.
+
+### 4\. Retention of Personal Information
+
+We will retain your personal information for as long as it’s needed to fulfill the purposes outlined in this Privacy Policy and our Terms unless a longer retention period is required or permitted by law (e.g., tax, accounting, or other legal requirements).
+
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it; if that is not possible (e.g., because your personal information has been stored in back-up archives), we will securely store your personal information and isolate it from any further processing until deletion is possible.
+
+#### 5\. Automated Processing
+
+Other than as may be described in this Privacy Policy, you will not be subject to decisions based on automated information processing without your prior consent.
+
+#### 6\. International Transfers of Personal Information; Data Privacy Framework
+
+Due to the fact that Company’s business is international, your personal information and other Collected Information may be transferred to, stored in, and processed in any country where our or our suppliers’ servers, databases, or facilities are located or operated. By accessing, receiving, or using the Services or by providing consent to us (where consent is required by applicable law), you specifically acknowledge and agree that information will be transferred outside of the country from which you access the Services (including, for example, to the United States, Canada, and Australia) and that such countries’ data protection and related laws, regulations, and rules may be different than, and may not be as protective as, those of the jurisdiction from where you access the Services. Your use of or access to the Services constitutes your consent to such transfers.
+
+Additionally, where required by applicable law, we have ensured that your personal information included in such transfers is adequately protected through the use of contractual clauses or other adequate measures allowed or required under such applicable laws for example, by signing relevant EU standard contractual clauses as approved by the European Commission (the form for these clauses can be found [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)). Subject to applicable law, you have the right to obtain details about the mechanism under which your personal information is transferred cross-border. For more information about these transfer mechanisms, please contact us as set out in the “Contact Us” section below.
+
+We comply with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF as set forth by the U.S. Department of Commerce.
+
+We have certified to the U.S. Department of Commerce that we adhere to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) under the UK Extension to the EU-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
+
+We are responsible for the processing of personal data we receive, under the DPF, and subsequently, we are responsible for personal data we transfer to a third party acting as an agent on our behalf. We comply with the DPF Principles for all onward transfers of personal data from the EU and the UK, including the onward transfer liability provisions.
+
+The Federal Trade Commission has jurisdiction over our compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, we commit to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF to TRUSTe, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit https://feedback-form.truste.com/watchdog/request for more information or to file a complaint. These dispute resolution services are provided at no cost to you.
+
+For complaints regarding DPF compliance not resolved by any of the other DPF mechanisms, you have the possibility, under certain conditions, to invoke binding arbitration. To learn more about this option, visit the DPF’s "[How to Submit a Complaint](https://www.dataprivacyframework.gov/s/)" page. Please note that the foregoing processes apply only to the resolution of disputes regarding personal information received by us under the DPF. All other disputes that you may have with us must be resolved in accordance with the terms and conditions of any applicable websites, mobile apps, email newsletters, email subscriptions or other digital properties owned or controlled by the Company.
+
+#### 7\. Your Choices and Access
+
+The purpose of this section of the Privacy Policy is to inform you of our privacy options. Some U.S. states and other jurisdictions outside of the U.S. provide these options and rights to their residents.
+
+Depending on the laws applicable to Company’s processing of your personal information and the location in which you reside, you may have the ability to exercise the rights listed below and in this section of the Privacy Policy. Subject to foregoing, in addition to all application limitations, exemptions, or exceptions—regarding our collection and use of your personal information—these rights may include, to the extent applicable:
+
+* **Right to Access:** You may have the right to request access to any of your personal information that we hold. Specifically, you have the right to request the disclosure of (1) what personal information has been collected; (2) the categories of sources from which the personal information was collected; (3) the business or commercial purpose for collection or selling personal information; (4) the categories of third parties with whom we share personal information; and (5) the specific pieces of personal information we have collected about you.
+* **Right to Data Portability:** You may have the right to receive all such personal information about you from Topstep in a structured, commonly used and machine-readable format, and also to require us to transmit it to another entity where this is technically feasible.
+* **Right to Deletion:** You may have the right to request the deletion of your personal information that we have collected.
+* **Right to Correction:** You may have the right to request the correction of your personal information that we collected.
+* **Right to Withdraw Consent:** In the event your personal information is processed on the basis of your consent, you may have the right to withdraw consent at any time with effect for the future.
+
+To exercise these rights, please see the “Exercise Your Rights” section of the Privacy Policy below. Additionally, if you have any concerns, complaints, or other issues with regard to our collection, use or other processing of your personal information, please contact us via the means set forth under the “Contact Us” section of the Privacy Policy below.
+
+#### 8\. Additional Information for Certain U.S. Residents
+
+Certain U.S. states require additional disclosures and provide users residing in such U.S. states with additional choices and rights. This section of the Privacy Policy only applies to individuals located in such U.S. states and where such U.S. state data protection laws apply to Company’s processing of your personal information.
+
+**Sources.** Consistent with the Privacy Policy above, we collect certain categories of personal information directly from you and, in some circumstances, third parties. The categories of sources that we collect personal information from in the prior 12 months includes the following:
+
+* Company’s third party service providers;
+* Event Partners;
 * Online advertising networks;
-* Third party websites and mobile applicable (e.g., websites that share information with us or our advertising partners);
-* Our websites; and
+* Affiliated and related companies
+* Third party websites and mobile applications (e.g., websites that share information with us or our advertising partners);
+* Social media companies;
+* Our Services; and
 * Your communications with us.
 
-**Disclosures to Third Parties.** Pursuant to and consistent with the purposes for collecting your information as set forth in this Privacy Policy we disclose certain categories of personal data to third parties who are considered “service providers” or “processors” under applicable law. The categories of personal information we may disclose include:
+**Rights.** Applicable laws in your jurisdiction that are applicable to our processing of your personal information may grant you certain rights—subject to all applicable limitations, exemptions, or exceptions—regarding our collection and use of your personal information. In addition to those rights set forth in the “Your Choices and Access” section of the Privacy Policy above, these rights may include, to the extent applicable and to the extent granted under applicable law:
 
-* Identifiers: including but not limited to name, telephone number, address, email address
-* Commercial Information: including but not limited to financial account information, payment card information, purchase and transaction history
-* Internet or other electronic network activity information: including but not limited to computer and connection information, IP address, and cookies and other tracking technologies described further above; and
-* Inferences: drawn from the above categories of personal information.
-
-As described in this Privacy Policy above, applicable business purposes for such disclosures include, without limitation, product and service fulfillment, internal operations, prevention of fraud and other harm, and legal compliance.
-
-The categories of third party service providers to which we may share the above categories of information, include, without limitation, payment processing companies, data analytics providers, fraud prevention providers, cloud storage providers, IT service providers, delivery partners, and marketing companies.
-
-In the preceding twelve (12) months, we may have sold or shared personal information or used personal information for targeted advertising purposes; however, we do not use your personal information to profile you in furtherance of decisions that produce legal or significantly similar effects (as defined under applicable law). To the extent applicable law grants you the right to opt-out of the sale of your personal information or the sharing of your personal information for targeted advertising purposes, you can opt-out by submitting information via the [DO NOT SELL OR SHARE MY PERSONAL INFORMATION form](https://purchase.growtix.com/privacy_policy_optout) or by exercising the methods set forth under the “Exercising Your Rights” section below.
-
-Your Rights and Choices
-
-California, Virginia, and other applicable U.S. State laws may grant you certain rights—subject to all applicable limitations, exemptions, or exceptions—regarding our collection and use of your personal information. These rights include, to the extent applicable and to the extent granted under applicable law:
-
-* The right to confirm whether personal information about you is processed and to access such personal information;
-* The right to request the disclosures of (1) what personal information has been collected; (2) the categories of sources from which the personal information was collected; (3) the business or commercial purpose for collection or selling personal information; (4) the categories of third parties with whom we share personal information; and (5) the specific pieces of personal information we have collected about you, also called data portability;
-* The right to request the deletion of your personal information that we have collected;
-* The right to request the correction of your personal information that we collected;
 * The right to opt-out of targeted advertising and the sharing of personal information that is shared for cross-contextual behavioral advertising purposes;
-* The right to opt-out of the automated profiling of your personal information in furtherance of decisions that produce legal or similarly significant effects concerning you;
 * The right to opt-out of the sale of your personal information;
-* The right to limit our processing of sensitive personal information to what is necessary; and
 * The right to not be discriminated against due to your exercise of your rights under applicable law. We do not discriminate against users for exercising the rights granted to them under applicable law.
 
-The above rights are only exercisable by you where applicable law in the jurisdiction in which you reside actually grants you the right being exerted. When exercising your right to deletion (to the extent applicable), please identify the information that you wish to be deleted and whether you would like to delete your account. Please note that the exercising of your right to deletion will result in the deletion of the personal information that we have collected about you. This may result in our inability to further provide services to you in the future.
+We do not use your personal information to profile you in furtherance of decisions that produce legal or significantly similar effects (as may be defined under applicable law).
 
-**Exercising Your Rights.** To exercise the rights described above only to the extent applicable law grants you such rights, please submit a verifiable consumer request to:
+The above rights are only exercisable by you where the applicable law grants you the right being exerted and where no exception or exemption under applicable law applies. You may also have a registered agent (if and only as permitted under applicable law) that you authorize to act on your behalf. If you have a registered agent act on your behalf, we have the right to authenticate such agent’s authority to act. To exercise the rights described herein (only to the extent applicable), you may submit a verifiable request to us through the methods set forth under the “Exercise Your Rights” section below.
 
-Email us: [\[email protected\]](https://purchase.growtix.com/cdn-cgi/l/email-protection)
+**Selling and Sharing.** We may sell your personal data to, and share your personal data with, third parties for the purpose of cross-contextual behavioral advertising purposes (e.g., targeted advertising and remarketing). Applicable U.S. state data protection laws hold such disclosures and sharing to be considered “selling” or “sharing”. Therefore, you have the right to opt out of such selling and sharing.
 
-Only you or a registered agent (if and only as permitted under applicable law) that you authorize to act on your behalf, may make a verifiable consumer request related to your personal information. If you have a registered agent act on your behalf, we have the right to authenticate such agent’s authority to act. You may only make a verifiable consumer request for access or data portability twice within a 12-month period. The verifiable consumer request must:
+In the preceding 12 months, we have sold or shared the following categories of personal data with the following categories of third parties and for the following purposes:
+
+| Category of Personal Data Sold or Shared | Category of Third-Party Recipient | Purpose |
+| --- | --- | --- |
+| **Identifiers** | Analytics, marketing, advertising, and remarketing partners and service providers.<br><br>Our customers who have products and events that may be of interest to you. | Our own analytical and targeted advertising purposes (including, without limitation, cross-contextual behavioral advertising).<br><br>Specifically, to target advertisements for goods and services and to display those advertisements on other websites.<br><br>To provide our customers with your information so they may provide you with information about other events or information that may be of interest to you, and for those customers to send you marketing and promotional communications, to the extent permitted by applicable law. |
+| **Internet or other electronic network activity information** | Analytics, marketing, advertising, and remarketing partners and service providers.<br><br>Our customers who have products and events that may be of interest to you. | Our own analytical and targeted advertising purposes (including, without limitation, cross-contextual behavioral advertising).<br><br>Specifically, to target advertisements for goods and services and to display those advertisements on other websites.<br><br>To provide our customers with your information so they may provide you with information about other events or information that may be of interest to you, and for those customers to send you marketing and promotional communications, to the extent permitted by applicable law. |
+
+You have the right to opt out of the selling or sharing of your personal data as described herein. Nevada residents may also have the right to opt out of the sale of certain categories of personal information under Nevada state law. You may exercise this right to opt out by contacting us through the methods set forth below under the “Exercise Your Rights” section of the Privacy Notice, or by clicking the “[Do Not Sell or Share My Personal Information](https://leapevent.tech/legal/do-not-sell/)” link.
+
+We do not knowingly sell or share for cross-contextual behavioral advertising purposes, the personal data of anyone under the age of 16 years old. See the “Children” section of this Privacy Policy below for more information.
+
+#### 9\. Additional Information for Individuals Located in the EEA
+
+This section of the Privacy Notice applies to residents of countries or jurisdictions located in the EEA, including, without limitation, the European Union and the United Kingdom.
+
+**Rights**. To the extent the European Union’s General Data Protection Regulation or other law granting particular rights to data subjects applies to you (including, without limitation, those located in the United Kingdom) and subject to all applicable exceptions and exemptions granted under such applicable laws, you may have the following rights with regard to our processing of your personal information:
+
+* Right to Restrict Personal Information Use and Right to Object: You have the right to restrict our use of your personal information where (i) you contest the accuracy of the personal information; (ii) the use is unlawful but you do not want us to erase the personal information; (iii) we no longer need the personal information for the relevant purposes, but you require it for the establishment, exercise or defense of legal claims; or (iv) you have objected to our personal information use justified on our legitimate interests pending verification as to whether Company has compelling interests to continue the relevant personal information use.
+* Lodge a Complaint: You also have the right to lodge a complaint with a supervisory authority, in particular in your country of residence, if you consider that the collection and use of your personal information violates this Privacy Policy or applicable law.
+
+#### 10\. Additional Information for Canadian Residents
+
+If you are a Canadian resident, in addition to those rights set forth in the “Your Choices and Access” section of the Privacy Notice above, you have the right to lodge a complaint with the Office of the Privacy Commissioner of Canada and/or the applicable Canadian provincial regulatory body if you believe that the collection and use of your personal information violates this Privacy Notice or applicable law.
+
+#### 11\. Exercise Your Rights
+
+If this Privacy Policy expressly stated above that you have certain rights or applicable law grants you certain rights as it relates to this Privacy Policy and Collected Information, you may submit a verifiable request to us by
+
+Emailing: [\[email protected\]](https://purchase.growtix.com/cdn-cgi/l/email-protection)  
+Toll-Free Telephone Number: 1-855-223-3237
+
+Only you or a registered agent (if and only as permitted under applicable law) that you authorize to act on your behalf, may make a verifiable consumer request related to your personal information. If you have a registered agent act on your behalf, we have the right to authenticate such agent’s authority to act. Without limiting the foregoing, the verifiable consumer request must:
 
 * Provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative.
 * Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
 
 We cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. Making a verifiable consumer request does not require you to create an account with us. We will only use personal information provided in a verifiable consumer request to verify the requestor’s identity or authority to make the request.
 
-Response Timing and Format. Your request will be responded to within 45 days, and in any event, we will respond to you within the timeframe required under applicable law. We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
+We will respond to your request within the applicable timeframe required under applicable law. If we deny your request, you can appeal such denial by emailing us at [\[email protected\]](https://purchase.growtix.com/cdn-cgi/l/email-protection).
 
-If we deny your request, you can appeal such denial by [\[email protected\]](https://purchase.growtix.com/cdn-cgi/l/email-protection).
+#### 12\. Accuracy & Information Security
 
-### Questions
+Personal information you provide to us should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up to date.
 
-For questions or comments on this policy email [\[email protected\]](https://purchase.growtix.com/cdn-cgi/l/email-protection) or write Privacy Manager, Leap Event Technology, 10675 Perry Hwy, #1316, Wexford, PA 15090
+We have implemented reasonable and appropriate administrative, technical, physical, and organizational security measures designed to help protect against the unauthorized access, unauthorized disclosure, loss, theft, misuse, and alteration of information under our control. This includes implementing measures designed to limit access of employees to, and the use of, your personal information. We do not publish all of our security measures online because this may reduce the effectiveness of our security measures. We educate our employees with respect to their obligations to protect your Collected Information. However, Company does not and cannot guarantee that unauthorized access, unauthorized disclosure, loss, theft, misuse, and alteration of information will not occur. The storage and communication of information can never be completely secure.
 
-  
-  
-[Do Not Sell or Share My Personal Information](https://purchase.growtix.com/privacy_optout)  
-  
-  
+If you become aware of any breach of the Services’ security or of this Privacy Policy, please notify us at [\[email protected\]](https://purchase.growtix.com/cdn-cgi/l/email-protection) immediately. If our security system is breached, we will notify you of the breach only if and to the extent required under applicable law.
+
+#### 13\. Access by Children
+
+The Services are not directed at children under 16 years of age. Company does not knowingly collect or use information from children under 16 through the Services. If a parent or legal guardian becomes aware that a child under the age of 16 has provided information to us through the Services, the parent or legal guardian should contact us using the information below under “Contact Us” and we will use commercially reasonable efforts to delete that information.
+
+#### 14\. Third-Party Websites and Services
+
+The Services may link to, or be linked to, websites, applications, or services not maintained or controlled by Company. Company is not responsible for the privacy policies or practices of any third parties or any third-party websites, applications, or services. This Privacy Policy does not apply to any third-party websites, applications, or services or to any personal or other information that you may provide to third parties. You should read the privacy policy for each website, application, and service that you visit or use.
+
+#### 15\. Contact Us
+
+If you have any questions or concerns regarding this Privacy Policy, contact us by email at [\[email protected\]](https://purchase.growtix.com/cdn-cgi/l/email-protection), by telephone at 1-855-223-3237, or by mail at 10675 Perry Hwy, #1316, Wexford, PA 15090.
 
 [![](/img/Leap_Conventions_Logo.png)](https://leapevent.tech/)
 
