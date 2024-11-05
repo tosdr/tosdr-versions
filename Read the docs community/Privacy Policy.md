@@ -15,9 +15,9 @@ Project setup and configuration
 
 * [Configuration file overview](https://docs.readthedocs.io/en/stable/config-file/index.html)
 * [Configuration file reference](https://docs.readthedocs.io/en/stable/config-file/v2.html)
+* [Read the Docs Addons](https://docs.readthedocs.io/en/stable/addons.html)
 * [Automation rules](https://docs.readthedocs.io/en/stable/automation-rules.html)
 * [How to create reproducible builds](https://docs.readthedocs.io/en/stable/guides/reproducible-builds.html)
-* [Read the Docs Addons](https://docs.readthedocs.io/en/stable/addons.html)
 
 Build process
 
@@ -36,6 +36,7 @@ Hosting documentation
 * [Localization and Internationalization](https://docs.readthedocs.io/en/stable/localization.html)
 * [URL versioning schemes](https://docs.readthedocs.io/en/stable/versioning-schemes.html)
 * [Custom domains](https://docs.readthedocs.io/en/stable/custom-domains.html)
+* [Documentation notifications](https://docs.readthedocs.io/en/stable/doc-notifications.html)
 * [Canonical URLs](https://docs.readthedocs.io/en/stable/canonical-urls.html)
 * [Content Delivery Network (CDN) and caching](https://docs.readthedocs.io/en/stable/reference/cdn.html)
 * [Sitemap support](https://docs.readthedocs.io/en/stable/reference/sitemaps.html)
@@ -45,6 +46,7 @@ Hosting documentation
 Reading documentation
 
 * [Offline formats (PDF, ePub, HTML)](https://docs.readthedocs.io/en/stable/downloadable-documentation.html)
+* [DocDiff](https://docs.readthedocs.io/en/stable/doc-diff.html)
 * [How to embed content from your documentation](https://docs.readthedocs.io/en/stable/guides/embedding-content.html)
 * [Server side search](https://docs.readthedocs.io/en/stable/server-side-search/index.html)
 * [Search query syntax](https://docs.readthedocs.io/en/stable/server-side-search/syntax.html)
@@ -389,9 +391,9 @@ Project setup and configuration
 
 * [Configuration file overview](https://docs.readthedocs.io/en/stable/config-file/index.html)
 * [Configuration file reference](https://docs.readthedocs.io/en/stable/config-file/v2.html)
+* [Read the Docs Addons](https://docs.readthedocs.io/en/stable/addons.html)
 * [Automation rules](https://docs.readthedocs.io/en/stable/automation-rules.html)
 * [How to create reproducible builds](https://docs.readthedocs.io/en/stable/guides/reproducible-builds.html)
-* [Read the Docs Addons](https://docs.readthedocs.io/en/stable/addons.html)
 
 Build process
 
@@ -410,6 +412,7 @@ Hosting documentation
 * [Localization and Internationalization](https://docs.readthedocs.io/en/stable/localization.html)
 * [URL versioning schemes](https://docs.readthedocs.io/en/stable/versioning-schemes.html)
 * [Custom domains](https://docs.readthedocs.io/en/stable/custom-domains.html)
+* [Documentation notifications](https://docs.readthedocs.io/en/stable/doc-notifications.html)
 * [Canonical URLs](https://docs.readthedocs.io/en/stable/canonical-urls.html)
 * [Content Delivery Network (CDN) and caching](https://docs.readthedocs.io/en/stable/reference/cdn.html)
 * [Sitemap support](https://docs.readthedocs.io/en/stable/reference/sitemaps.html)
@@ -419,6 +422,7 @@ Hosting documentation
 Reading documentation
 
 * [Offline formats (PDF, ePub, HTML)](https://docs.readthedocs.io/en/stable/downloadable-documentation.html)
+* [DocDiff](https://docs.readthedocs.io/en/stable/doc-diff.html)
 * [How to embed content from your documentation](https://docs.readthedocs.io/en/stable/guides/embedding-content.html)
 * [Server side search](https://docs.readthedocs.io/en/stable/server-side-search/index.html)
 * [Search query syntax](https://docs.readthedocs.io/en/stable/server-side-search/syntax.html)
@@ -513,9 +517,9 @@ Project setup and configuration
 
 * [Configuration file overview](https://docs.readthedocs.io/en/stable/config-file/index.html)
 * [Configuration file reference](https://docs.readthedocs.io/en/stable/config-file/v2.html)
+* [Read the Docs Addons](https://docs.readthedocs.io/en/stable/addons.html)
 * [Automation rules](https://docs.readthedocs.io/en/stable/automation-rules.html)
 * [How to create reproducible builds](https://docs.readthedocs.io/en/stable/guides/reproducible-builds.html)
-* [Read the Docs Addons](https://docs.readthedocs.io/en/stable/addons.html)
 
 Build process
 
@@ -534,6 +538,7 @@ Hosting documentation
 * [Localization and Internationalization](https://docs.readthedocs.io/en/stable/localization.html)
 * [URL versioning schemes](https://docs.readthedocs.io/en/stable/versioning-schemes.html)
 * [Custom domains](https://docs.readthedocs.io/en/stable/custom-domains.html)
+* [Documentation notifications](https://docs.readthedocs.io/en/stable/doc-notifications.html)
 * [Canonical URLs](https://docs.readthedocs.io/en/stable/canonical-urls.html)
 * [Content Delivery Network (CDN) and caching](https://docs.readthedocs.io/en/stable/reference/cdn.html)
 * [Sitemap support](https://docs.readthedocs.io/en/stable/reference/sitemaps.html)
@@ -543,6 +548,7 @@ Hosting documentation
 Reading documentation
 
 * [Offline formats (PDF, ePub, HTML)](https://docs.readthedocs.io/en/stable/downloadable-documentation.html)
+* [DocDiff](https://docs.readthedocs.io/en/stable/doc-diff.html)
 * [How to embed content from your documentation](https://docs.readthedocs.io/en/stable/guides/embedding-content.html)
 * [Server side search](https://docs.readthedocs.io/en/stable/server-side-search/index.html)
 * [Search query syntax](https://docs.readthedocs.io/en/stable/server-side-search/syntax.html)
