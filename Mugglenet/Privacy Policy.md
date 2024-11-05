@@ -332,15 +332,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Originally, the Weasleys’ cousin who was a Squib was going to have a child who would be a first year during “Goblet of Fire”. The child, Mafalda, was cut and her role was given to Rita Skeeter.
+Demelza Robins, the Gryffindor Chaser in Harry Potter and the Half-Blood Prince, is named after Daniel Radcliffe’s favorite charity: the Demelza House Children’s Hospice, which cares for terminally ill youngsters in Kent, East Sussex, and South London.
 
 ### Potter History
 
-July 2, 1998 – Harry Potter and the Chamber of Secrets is published in the United Kingdom. The book skyrockets straight to the #1 spot on the BookTrack Best Seller List.
+February 13, 2011 – The Harry Potter film series is awarded a BAFTA for Outstanding British Contribution to Cinema.
 
 ### Potter Quote
 
-“One day you’ll read Hogwarts, A History, and perhaps that will remind you that you can’t Apparate or Disapparate inside Hogwarts.
+“I am alive, but I am an alchemist, and therefore immortal.”
 
 [](#)
 
