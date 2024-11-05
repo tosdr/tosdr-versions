@@ -196,57 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Anri van der Linde
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=192745658)  
-Kaylas Creations
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=97225be1688322f450265072e58fbea0d219c23c72100bc055ecc9ab7d0b5e12&c=6883635)  
+Echo Recording Studio cc
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=112695724)  
-OptaServ
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=97225be1688322f450265072e58fbea0d219c23c72100bc055ecc9ab7d0b5e12&c=119242895)  
+Baby Toddles Infant Care
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=166371497)  
-Repairs In Motion
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=97225be1688322f450265072e58fbea0d219c23c72100bc055ecc9ab7d0b5e12&c=173481495)  
+VIV'S TRUCKS (Pty) Ltd. (651)
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=21321474)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=97225be1688322f450265072e58fbea0d219c23c72100bc055ecc9ab7d0b5e12&c=37663901)  
+Well Hung Art
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=162729235)  
-Printo
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=97225be1688322f450265072e58fbea0d219c23c72100bc055ecc9ab7d0b5e12&c=119079860)  
+PROGRAPHIX PTY LTD
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=137153875)  
-Qothiphango Mining
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=97225be1688322f450265072e58fbea0d219c23c72100bc055ecc9ab7d0b5e12&c=174474167)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=145366980)  
-Cape Adventure Zone
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=97225be1688322f450265072e58fbea0d219c23c72100bc055ecc9ab7d0b5e12&c=162965477)  
+Calonet
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=34093665)  
-Roamfree Boerdery (PTY) LTD
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=97225be1688322f450265072e58fbea0d219c23c72100bc055ecc9ab7d0b5e12&c=35029790)  
+McKaynine Mobility
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=83192367)  
-OXYAIDER (PTY) LTD
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=97225be1688322f450265072e58fbea0d219c23c72100bc055ecc9ab7d0b5e12&c=175655658)  
+Little Nutty Professors
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=55345521)  
-UMVIKELI PRIVATE SECURITY
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=97225be1688322f450265072e58fbea0d219c23c72100bc055ecc9ab7d0b5e12&c=162350321)  
+Firstweb Hosting & Design
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=72993530)  
-Moving Made Easy (PTY) Ltd
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=97225be1688322f450265072e58fbea0d219c23c72100bc055ecc9ab7d0b5e12&c=18775618)  
+Creative Characters
 
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=177088965)  
-FlipDesign - Renovation Contracting Firm
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=97225be1688322f450265072e58fbea0d219c23c72100bc055ecc9ab7d0b5e12&c=13741689)  
+SR Travel Services
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=15485929)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=97225be1688322f450265072e58fbea0d219c23c72100bc055ecc9ab7d0b5e12&c=36940725)  
+SMART GUY PCS (PTY) LTD
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=176930455)  
-CBR Verwe/Paints
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=97225be1688322f450265072e58fbea0d219c23c72100bc055ecc9ab7d0b5e12&c=187438894)  
+Xpress Designs
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=74239425)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=97225be1688322f450265072e58fbea0d219c23c72100bc055ecc9ab7d0b5e12&c=41272155)  
+Cooper Power South Africa (Pty) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
