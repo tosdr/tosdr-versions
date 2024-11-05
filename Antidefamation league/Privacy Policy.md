@@ -1,4 +1,4 @@
-                          Privacy Policy | ADL                                                                        
+                          Privacy Policy | ADL        
 
 [Skip to main content](#main-content)
 
