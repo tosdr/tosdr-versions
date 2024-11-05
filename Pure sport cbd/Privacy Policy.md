@@ -47,7 +47,7 @@ Free UK Shipping with orders over £50
         * [HORMONE BALANCE](https://puresportcbd.com/en-us/collections/hormone-support)
     
     * [APPAREL & ACCESSORIES](https://puresportcbd.com/en-us#)
-    * Shop up to 60% off our apparel for a limited time only.
+    * Performance apparel to propel you forward.
         
     * [APPAREL SALE](https://puresportcbd.com/en-us/collections/apparel-sale)
     * [WATER BOTTLES](https://puresportcbd.com/en-us/collections/water-bottles)
@@ -151,7 +151,7 @@ Free UK Shipping with orders over £50
     
     * [APPAREL & ACCESSORIES](https://puresportcbd.com/en-us#)
         
-        Shop up to 60% off our apparel for a limited time only.
+        Performance apparel to propel you forward.
         
         * [APPAREL SALE](https://puresportcbd.com/en-us/collections/apparel-sale)
         * [WATER BOTTLES](https://puresportcbd.com/en-us/collections/water-bottles)
