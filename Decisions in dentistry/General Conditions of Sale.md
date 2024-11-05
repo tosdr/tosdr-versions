@@ -138,6 +138,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[This case report illustrates the successful applic ![This case report illustrates the successful application of the 10 keys for immediate implant placement in the esthetic zone. By following a meticulous, evidence-based approach, the team delivered optimal esthetic and functional outcomes, with a final follow-up showing long-term stability and patient satisfaction. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DB9CUvFMChH/) 
+
 [Starting January 1, 2025, new legislation will exp ![Starting January 1, 2025, new legislation will expand the duties of dental assistants in California. While aimed at modernizing dental practices, dental hygienists express concern over the impact of these changes on patient care. Link in bio.⁠
 ⁠
 ⁠
@@ -175,13 +182,6 @@ Your Dentist⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBwDgqBv3im/) 
-
-[In this episode of The Art of Dental Finance and M ![In this episode of The Art of Dental Finance and Management,” Art is joined by Laura Nelson, founder of Front Office Rocks. Laura has drawn on firsthand experience as a front office manager to help practices nationwide elevate their culture and advance growth. Now, she’s sharing her insights with our listeners, discussing the critical role of customer service systems, the value of a positive work environment, and the importance of structured training for new employees. Tune in to learn how training a rockstar front office team can transform your dental practice! Listen now via the link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBtetHQsKDl/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
