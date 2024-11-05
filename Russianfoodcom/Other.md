@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_8.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,9 +148,9 @@
 
 Сейчас читают
 
+* [Курица, запечённая с яблоками и болгарским перцем](https://www.russianfood.com/recipes/recipe.php?rid=172925)
 * [Квас морковный](https://www.russianfood.com/recipes/recipe.php?rid=45878)
 * [Рисовые зразы с черносливом](https://www.russianfood.com/recipes/recipe.php?rid=170787)
-* [Котлеты из свинины с грибами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=165915)
 * [Запеканка из макарон с консервированным тунцом и томатным соусом](https://www.russianfood.com/recipes/recipe.php?rid=166078)
 * [Помидоры, запечённые с чесноком](https://www.russianfood.com/recipes/recipe.php?rid=174387)
 * [Печенье с колбасой и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174440)
@@ -178,6 +178,48 @@
 
 |     |     |
 | --- | --- |
+| Для прессы<br><br>[Замечательно-питательно.) Лучшие рецепты ЗАПЕКАНОК (58)](https://www.russianfood.com/reading/?post_id=22828) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/739/sm_738491.jpg)](https://www.russianfood.com/reading/?post_id=22828)
+
+Овощная запеканка с сыром. Картофельная запеканка с рыбой. Рисовая запеканка с грибами и овощами. Творожная запеканка с вишней. Гороховые кексы с фаршем.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22828)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22828#comments) | 05.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Салат оливье на год Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174728) |     |
+
+[![Фото к рецепту: Салат оливье на год Змеи](//img1.russianfood.com/dycontent/images_upl/749/sm_748318.jpg "Фото к рецепту: Салат оливье на год Змеи")](https://www.russianfood.com/recipes/recipe.php?rid=174728)
+
+Салат оливье – одно из самых популярных блюд на новогоднем столе. Оригинальная подача в виде змейки сделает этот салат настоящей звездой новогоднего стола 2025. Его яркие цвета и оригинальная подача сразу привлекут внимание гостей и создадут праздничное настроение!
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174728)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174728#comments) | 05.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Морковное печенье](https://www.russianfood.com/recipes/recipe.php?rid=174732) |     |
+
+[![Фото к рецепту: Морковное печенье](//img1.russianfood.com/dycontent/images_upl/749/sm_748518.jpg "Фото к рецепту: Морковное печенье")](https://www.russianfood.com/recipes/recipe.php?rid=174732)
+
+Морковное печенье с овсяными хлопьями и кокосовой стружкой получается по-домашнему вкусным, не сильно сладким, с кокосовым ароматом. Печенье сверху хрустящее, а внутри мягкое и рассыпчатое. А самое главное, готовится быстро и просто. Приготовьте такое замечательное печенье к чаю.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174732)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174732#comments) | 05.11.24 |     |
+
+|     |     |
+| --- | --- |
 | Рецепты<br><br>[Буженина классическая из свинины](https://www.russianfood.com/recipes/recipe.php?rid=174699) |     |
 
 [![Фото к рецепту: Буженина классическая из свинины](//img1.russianfood.com/dycontent/images_upl/748/sm_747385.jpg "Фото к рецепту: Буженина классическая из свинины")](https://www.russianfood.com/recipes/recipe.php?rid=174699)
@@ -202,7 +244,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_8 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174721#comments) | 04.11.24 |     |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_11 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174721#comments) | 04.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -272,7 +314,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174623#comments) | 03.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174623#comments) | 03.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -286,7 +328,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174607#comments) | 03.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_6 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174607#comments) | 03.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -300,7 +342,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174639#comments) | 03.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174639#comments) | 03.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -314,7 +356,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_8 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174661#comments) | 03.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_10 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174661#comments) | 03.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -343,48 +385,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174475#comments) | 03.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Сырный суп с цветной капустой, грибами и сливками](https://www.russianfood.com/recipes/recipe.php?rid=174534) |     |
-
-[![Фото к рецепту: Сырный суп с цветной капустой, грибами и сливками](//img1.russianfood.com/dycontent/images_upl/745/sm_744486.jpg "Фото к рецепту: Сырный суп с цветной капустой, грибами и сливками")](https://www.russianfood.com/recipes/recipe.php?rid=174534)
-
-Сырно-сливочный суп с цветной капустой и грибами получается кремовым и нежным. Бархатистый, кремовый суп с нежным вкусом цветной капусты, ароматными грибами и, благодаря добавлению и сливок, и сыра, - сливочной ноткой.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174534)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174534#comments) | 03.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Рассольник с перловкой и морской капустой](https://www.russianfood.com/recipes/recipe.php?rid=174526) |     |
-
-[![Фото к рецепту: Рассольник с перловкой и морской капустой](//img1.russianfood.com/dycontent/images_upl/745/sm_744456.jpg "Фото к рецепту: Рассольник с перловкой и морской капустой")](https://www.russianfood.com/recipes/recipe.php?rid=174526)
-
-Эта постная версия супа понравится вам не меньше, чем классический вариант, ведь добавив в него маринованную капусту, вкус станет богаче и ярче. Такая добавка не только разнообразит вкус супа, но и сделает его ещё более полезным.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174526)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174526#comments) | 03.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Вкусное из простого. ПЕЧЕНЬ по-необычному (10)](https://www.russianfood.com/reading/?post_id=22822) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/468/sm_467779.jpg)](https://www.russianfood.com/reading/?post_id=22822)
-
-Жареная картошка с говяжьей печенью. Печёночный рулет с морковью и сыром. Жареные пирожки с печенью и картофелем. Куриная печень, запечённая с овощами.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22822)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22822#comments) | 03.11.24 |     |
 
 |     |
 | --- |
@@ -455,12 +455,10 @@
 
 Новые рецепты:
 
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/746/alt1_745244.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174639) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744422.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174475) | [![](//img1.russianfood.com/dycontent/images_upl/746/alt1_745160.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174623) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743566.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174568) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744486.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174534) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746250.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174664) | [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747385.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174699) |
-| [Свёкла, фаршированная мясным фаршем и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174639) | [Овощной суп с брокколи, рисом и стручковой фасолью](https://www.russianfood.com/recipes/recipe.php?rid=174475) | [Картофельная запеканка с твёрдым сыром и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174623) | [Калачи "Московские"](https://www.russianfood.com/recipes/recipe.php?rid=174568) | [Сырный суп с цветной капустой, грибами и сливками](https://www.russianfood.com/recipes/recipe.php?rid=174534) | [Чили из свинины с тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174664) | [Буженина классическая из свинины](https://www.russianfood.com/recipes/recipe.php?rid=174699) |
-| [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746109.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174661) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744456.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174526) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748222.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174721) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744762.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174607) |
-| [Тыквенный пирог "Три стакана"](https://www.russianfood.com/recipes/recipe.php?rid=174661) | [Рассольник с перловкой и морской капустой](https://www.russianfood.com/recipes/recipe.php?rid=174526) | [Тёртый пирог "Лимонник"](https://www.russianfood.com/recipes/recipe.php?rid=174721) | [Тыквенные кексы с изюмом](https://www.russianfood.com/recipes/recipe.php?rid=174607) |
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748533.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174577) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748518.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174732) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746250.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174664) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748318.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174728) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744456.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174526) | [![](//img1.russianfood.com/dycontent/images_upl/746/alt1_745244.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174639) |
+| [Салат из сельди с картофелем и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174577) | [Морковное печенье](https://www.russianfood.com/recipes/recipe.php?rid=174732) | [Чили из свинины с тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174664) | [Салат оливье на год Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174728) | [Рассольник с перловкой и морской капустой](https://www.russianfood.com/recipes/recipe.php?rid=174526) | [Свёкла, фаршированная мясным фаршем и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174639) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -477,4 +475,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(132)
+(93)
