@@ -88,7 +88,7 @@ Jun **14**
 * [Jun 14, 2024](https://papermc.io/threads/1-21.1221/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 10,060
+* 10,076
 * 2
 
 ### The 1.21 Update​
@@ -204,7 +204,7 @@ May **28**
 * [May 28, 2024](https://papermc.io/threads/paper-velocity-1-20-6.1152/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,401
+* 8,415
 * 6
 
 ### The 1.20.5/6 Update​
@@ -302,7 +302,7 @@ Mar **26**
 * [Mar 26, 2024](https://papermc.io/threads/announcing-the-end-of-life-of-waterfall.1088/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 17,954
+* 17,960
 * 11
 
 Announcing the end of life of Waterfall​
@@ -340,7 +340,7 @@ Mar **22**
 * [Mar 22, 2024](https://papermc.io/threads/important-dev-psa-future-removal-of-cb-package-relocation.1106/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,689
+* 14,700
 * 12
 
 ### Future removal of CB package relocation + moving away from obfuscation at runtime​
@@ -438,7 +438,7 @@ Dec **31**
 * [Dec 31, 2023](https://papermc.io/threads/new-years-post.1009/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 26,591
+* 26,608
 * 6
 
 Happy New Year from PaperMC!​
@@ -582,7 +582,7 @@ Dec **25**
 * [Dec 25, 2023](https://papermc.io/threads/paper-velocity-1-20-4.998/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,741
+* 8,747
 * 1
 
 ### The 1.20.4 Update​
@@ -641,7 +641,7 @@ Oct **10**
 * [Oct 10, 2023](https://papermc.io/threads/paper-velocity-1-20-2.920/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 15,121
+* 15,123
 * 1
 
 ### The 1.20.2 Update​
@@ -761,7 +761,7 @@ Jun **11**
 * [Jun 11, 2023](https://papermc.io/threads/paper-velocity-1-20-1.783/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,921
+* 13,928
 * 9
 
 ### The 1.20(.1) Update​
@@ -834,7 +834,7 @@ Apr **20**
 * [Apr 20, 2023](https://papermc.io/threads/hangar-papermcs-plugin-repository.691/)
 * [MiniDigger](https://papermc.io/home/authors/minidigger.15/)
 
-* 6,613
+* 6,615
 * 1
 
 Once again, we have another exciting announcement for you, this time about PaperMC's own site for uploading and downloading Paper, Velocity, and Waterfall plugins, called [**Hangar**](https://hangar.papermc.io/)! The main reason we started working on this is to finally provide a centralized place for Paper and Velocity plugins. Compared to the Spigot forums, Hangar allows you much more control over your resource in terms of:  
@@ -882,7 +882,7 @@ Mar **15**
 * [Mar 15, 2023](https://papermc.io/threads/paper-velocity-1-19-4.680/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,386
+* 8,388
 * 3
 
 ### The 1.19.4 Update​
@@ -954,7 +954,7 @@ Dec **11**
 * [Dec 11, 2022](https://papermc.io/threads/paper-velocity-1-19-3.592/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,800
+* 13,803
 * 1
 
 ### The 1.19.3 Update​
@@ -1002,7 +1002,7 @@ Sep **29**
 * [Sep 29, 2022](https://papermc.io/threads/malware-announcement.529/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 35,352
+* 35,353
 * 22
 
 We've seen a lot of reports of a new malware going around Minecraft servers. It seems to be spread by compromised Spigot plugin-author accounts, and is somewhat difficult to detect. We do know that the following exception is caused by it:  
@@ -1051,7 +1051,7 @@ Jul **30**
 * [Jul 30, 2022](https://papermc.io/threads/paper-1-19-1.394/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 15,085
+* 15,086
 * 1
 
 ### The 1.19.1 Update​
@@ -1094,7 +1094,7 @@ Jun **12**
 * [Jun 12, 2022](https://papermc.io/threads/paper-1-19.344/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 37,566
+* 37,568
 * 18
 
 ### The 1.19 Update​
@@ -1217,7 +1217,7 @@ Jan **04**
 * [Jan 4, 2022](https://papermc.io/threads/paper-1-18-and-more.6/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 24,231
+* 24,233
 * 17
 
 ### The 1.18 update​
@@ -1318,7 +1318,7 @@ Overall, PaperMC is a community that's excited about Minecraft software and maki
 
 No members online now.
 
-Total: 34 (members: 0, guests: 34)
+Total: 35 (members: 0, guests: 35)
 
 ### [Latest posts](https://papermc.io/whats-new/posts/?skip=1)
 
@@ -1329,7 +1329,7 @@ Total: 34 (members: 0, guests: 34)
 Question [Item despawning upon death](https://papermc.io/threads/item-despawning-upon-death.1433/)
 
 * [Tayshawn](https://papermc.io/members/tayshawn.12268/)
-* [Today at 7:26 PM](https://papermc.io/threads/item-despawning-upon-death.1433/)
+* [Yesterday at 7:26 PM](https://papermc.io/threads/item-despawning-upon-death.1433/)
 * [Help](https://papermc.io/forums/paper-help/)
 
 Replies
@@ -1338,9 +1338,9 @@ Replies
 
 Views
 
-9
+14
 
-[Help](https://papermc.io/forums/paper-help/) [Today at 7:26 PM](https://papermc.io/threads/item-despawning-upon-death.1433/latest)
+[Help](https://papermc.io/forums/paper-help/) [Yesterday at 7:26 PM](https://papermc.io/threads/item-despawning-upon-death.1433/latest)
 
 [Tayshawn](https://papermc.io/members/tayshawn.12268/)
 
@@ -1364,7 +1364,7 @@ Views
 
 1K
 
-[Help](https://papermc.io/forums/paper-help/) [Today at 11:47 AM](https://papermc.io/threads/tnt-behaiving-wierdly-on-papermc.981/latest)
+[Help](https://papermc.io/forums/paper-help/) [Yesterday at 11:47 AM](https://papermc.io/threads/tnt-behaiving-wierdly-on-papermc.981/latest)
 
 [Maplef\_snow](https://papermc.io/members/maplef_snow.12217/)
 
@@ -1408,7 +1408,7 @@ Replies
 
 Views
 
-86
+89
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Thursday at 1:30 PM](https://papermc.io/threads/try-createblockdata-got-java-lang-nullpointerexception-null.1432/latest)
 
@@ -1423,7 +1423,7 @@ Views
 Question [command error](https://papermc.io/threads/command-error.1431/)
 
 * [harttman](https://papermc.io/members/harttman.12079/)
-* [Tuesday at 5:43 AM](https://papermc.io/threads/command-error.1431/)
+* [Oct 29, 2024](https://papermc.io/threads/command-error.1431/)
 * [Help](https://papermc.io/forums/paper-help/)
 
 Replies
@@ -1432,9 +1432,9 @@ Replies
 
 Views
 
-73
+75
 
-[Help](https://papermc.io/forums/paper-help/) [Tuesday at 5:43 AM](https://papermc.io/threads/command-error.1431/latest)
+[Help](https://papermc.io/forums/paper-help/) [Oct 29, 2024](https://papermc.io/threads/command-error.1431/latest)
 
 [harttman](https://papermc.io/members/harttman.12079/)
 
@@ -1456,7 +1456,7 @@ Replies
 
 Views
 
-100
+102
 
 [Help](https://papermc.io/forums/paper-help/) [Oct 27, 2024](https://papermc.io/threads/the-problem-with-the-time-of-despawn-of-discarded-items.1428/latest)
 
@@ -1478,7 +1478,7 @@ Replies
 
 Views
 
-101
+103
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Oct 26, 2024](https://papermc.io/threads/why-do-my-commands-not-work.1427/latest)
 
@@ -1500,7 +1500,7 @@ Replies
 
 Views
 
-258
+260
 
 [Discussion](https://papermc.io/forums/paper-discussion/) [Oct 26, 2024](https://papermc.io/threads/villager-restocking-differences-to-vanilla.1321/latest)
 
