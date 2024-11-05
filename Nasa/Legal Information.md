@@ -263,7 +263,13 @@ article 4 days ago](https://www.nasa.gov/missions/spherex/why-nasas-spherex-miss
 
 ### Highlights
 
-[![NASA astronaut Serena Auñón-Chancellor provides a saliva sample on the International Space Station. Her sample will be used to measure stress hormones and other biomarkers of health that can reveal how her immune system changes in space.](https://www.nasa.gov/wp-content/uploads/2021/12/serena_aunon-chancellor-saliva-sample-immunity-study-space-station.jpg?w=1024)
+[![](https://www.nasa.gov/wp-content/uploads/2024/10/vr.png?w=1024)
+
+3 min read
+
+### Do You Have Proposals for New Human Research Studies Benefiting Spaceflight?
+
+article 6 hours ago](https://www.nasa.gov/hrp/do-you-have-proposals-for-new-human-research-studies-benefiting-spaceflight/)[![NASA astronaut Serena Auñón-Chancellor provides a saliva sample on the International Space Station. Her sample will be used to measure stress hormones and other biomarkers of health that can reveal how her immune system changes in space.](https://www.nasa.gov/wp-content/uploads/2021/12/serena_aunon-chancellor-saliva-sample-immunity-study-space-station.jpg?w=1024)
 
 2 min read
 
@@ -275,17 +281,17 @@ article 4 days ago](https://www.nasa.gov/hrp/research-operations-integration/sam
 
 ### We Are All Made of Cells: Space and the Immune System
 
-article 4 days ago](https://www.nasa.gov/science-research/we-are-all-made-of-cells-space-and-the-immune-system/)[![Exterior view of the International Space Station with Earth visible in the background. The station’s robotic arm and multiple scientific equipment modules are attached to its surface.](https://www.nasa.gov/wp-content/uploads/2024/10/iss061e143436.jpg?w=1024)
-
-2 min read
-
-### Station Science Top News: Oct. 25, 2024
-
-article 6 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-25-2024/)
+article 4 days ago](https://www.nasa.gov/science-research/we-are-all-made-of-cells-space-and-the-immune-system/)
 
 ### Highlights
 
-[![SWOT data visualization](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26420-greenland-tsunami.jpg?w=1024)
+[![Two people stand in a chili field in Punakha, Bhutan.](https://www.nasa.gov/wp-content/uploads/2024/11/field-consult-photo-bhutan.jpg?w=1024)
+
+5 min read
+
+### NASA, Bhutan Conclude Five Years of Teamwork on STEM, Sustainability
+
+article 5 hours ago](https://www.nasa.gov/missions/servir/nasa-bhutan-conclude-five-years-of-teamwork-on-stem-sustainability/)[![SWOT data visualization](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26420-greenland-tsunami.jpg?w=1024)
 
 4 min read
 
@@ -297,13 +303,7 @@ article 4 days ago](https://www.nasa.gov/missions/swot/international-swot-satell
 
 ### NASA, NOAA Rank 2024 Ozone Hole as 7th-Smallest Since Recovery Began
 
-article 5 days ago](https://www.nasa.gov/earth/climate-change/ozone-layer/nasa-noaa-rank-2024-ozone-hole-as-7th-smallest-since-recovery-began/)[![INjected Smoke and PYRocumulonimbus Experiment Expressions of Interest for No-Cost Participation / Contributions and Clarification of A.61 INSPYRE ST.](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/internal_resources/2434/california-wildfires-1.jpg)
-
-2 min read
-
-### INjected Smoke and PYRocumulonimbus Experiment Expressions of Interest for No-Cost Participation / Contributions and Clarification of A.61 INSPYRE ST.
-
-article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-blogs/injected-smoke-and-pyrocumulonimbus-experiment-expressions-of-interest-for-no-cost-participation-contributions-and-clarification-of-a-61-inspyre-st/)
+article 5 days ago](https://www.nasa.gov/earth/climate-change/ozone-layer/nasa-noaa-rank-2024-ozone-hole-as-7th-smallest-since-recovery-began/)
 
 ### Highlights
 
@@ -313,7 +313,7 @@ article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-blo
 
 ### Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass
 
-article 2 hours ago](https://science.nasa.gov/science-research/heliophysics/final-venus-flyby-for-nasas-parker-solar-probe-queues-closest-sun-pass/)[![NASA’s New Edition of Graphic Novel Features Europa Clipper](https://science.nasa.gov/wp-content/uploads/2024/11/clilpperwallpaper.png)
+article 8 hours ago](https://science.nasa.gov/science-research/heliophysics/final-venus-flyby-for-nasas-parker-solar-probe-queues-closest-sun-pass/)[![NASA’s New Edition of Graphic Novel Features Europa Clipper](https://science.nasa.gov/wp-content/uploads/2024/11/clilpperwallpaper.png)
 
 2 min read
 
@@ -351,25 +351,25 @@ article 4 days ago](https://science.nasa.gov/missions/webb/blood-soaked-eyes-nas
 
 ### Highlights
 
-[![NASA’s NEOWISE Spacecraft Re-Enters Atmosphere, But More Discoveries Await!](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/neowise-citizenscience-logos.jpg)
+[![Two people stand in a chili field in Punakha, Bhutan.](https://www.nasa.gov/wp-content/uploads/2024/11/field-consult-photo-bhutan.jpg?w=1024)
+
+5 min read
+
+### NASA, Bhutan Conclude Five Years of Teamwork on STEM, Sustainability
+
+article 5 hours ago](https://www.nasa.gov/missions/servir/nasa-bhutan-conclude-five-years-of-teamwork-on-stem-sustainability/)[![NASA’s NEOWISE Spacecraft Re-Enters Atmosphere, But More Discoveries Await!](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/neowise-citizenscience-logos.jpg)
 
 2 min read
 
 ### NASA’s NEOWISE Spacecraft Re-Enters Atmosphere, But More Discoveries Await!
 
-article 2 hours ago](https://science.nasa.gov/get-involved/citizen-science/nasas-neowise-spacecraft-re-enters-atmosphere-but-more-discoveries-await/)[![Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass](https://science.nasa.gov/wp-content/uploads/2024/11/wispr-magellan-4thflyby.gif)
+article 8 hours ago](https://science.nasa.gov/get-involved/citizen-science/nasas-neowise-spacecraft-re-enters-atmosphere-but-more-discoveries-await/)[![Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass](https://science.nasa.gov/wp-content/uploads/2024/11/wispr-magellan-4thflyby.gif)
 
 4 min read
 
 ### Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass
 
-article 2 hours ago](https://science.nasa.gov/science-research/heliophysics/final-venus-flyby-for-nasas-parker-solar-probe-queues-closest-sun-pass/)[![Sadie Coffin Named Association for Advancing Participatory Sciences/NASA Citizen Science Leaders Series Fellow](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/sadie-coffin.jpg)
-
-2 min read
-
-### Sadie Coffin Named Association for Advancing Participatory Sciences/NASA Citizen Science Leaders Series Fellow
-
-article 2 hours ago](https://science.nasa.gov/get-involved/citizen-science/sadie-coffin-named-association-for-advancing-participatory-sciences-nasa-citizen-science-leaders-series-fellow/)
+article 8 hours ago](https://science.nasa.gov/science-research/heliophysics/final-venus-flyby-for-nasas-parker-solar-probe-queues-closest-sun-pass/)
 
 ### Highlights
 
@@ -423,7 +423,7 @@ article 2 weeks ago](https://science.nasa.gov/technology/rps/after-60-years-nucl
 
 ### Professional Learning: Using Children’s Books to Build STEM Habits of Mind
 
-article 1 hour ago](https://science.nasa.gov/learning-resources/science-activation/professional-learning-using-childrens-books-to-build-stem-habits-of-mind/)[![Three students standing next to an Artemis tree with a bulletin board in the background that reads NASA STEM Artemis Moon Trees](https://www.nasa.gov/wp-content/uploads/2024/10/artemis-moon-trees-spr-24-with-3-girls-rosalee-armstrong-1.png?w=688)
+article 7 hours ago](https://science.nasa.gov/learning-resources/science-activation/professional-learning-using-childrens-books-to-build-stem-habits-of-mind/)[![Three students standing next to an Artemis tree with a bulletin board in the background that reads NASA STEM Artemis Moon Trees](https://www.nasa.gov/wp-content/uploads/2024/10/artemis-moon-trees-spr-24-with-3-girls-rosalee-armstrong-1.png?w=688)
 
 8 min read
 
