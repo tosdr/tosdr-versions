@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 05, 2024](https://www.japantimes.co.jp/archive/2024/11/05/ "archive page")
+[November 06, 2024](https://www.japantimes.co.jp/archive/2024/11/06/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -30,9 +30,9 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [Post-election tumult](https://www.japantimes.co.jp/news/japan/politics/ "Post-election tumult")
-* [North Korea in Ukraine](https://www.japantimes.co.jp/tag/north-korea/ "North Korea in Ukraine")
 * [U.S. Presidential election](https://www.japantimes.co.jp/tag/2024-us-presidential-election/ "U.S. Presidential election")
+* [‘Yami baito’ burglaries](https://www.japantimes.co.jp/tag/theft/ "‘Yami baito’ burglaries")
+* [Japan’s political transition](https://www.japantimes.co.jp/news/japan/politics/ "Japan’s political transition")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
 
@@ -131,52 +131,28 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Tokyo's climate goals rely on a fuel that is falling out of favor](https://www.japantimes.co.jp/environment/2024/11/03/energy/tokyo-hydrogen-decarbonization-plan/ "Tokyo's climate goals rely on a fuel that is falling out of favor")
-
-  [![The Tokyo Hydrogen Museum in the capital's Koto Ward on Thursday. The capital is targeting the “full use” of hydrogen produced using renewable energy “in all fields” by 2050 as part of its decarbonization drive.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/03/431714.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Tokyo Hydrogen Museum in the capital's Koto Ward on Thursday. The capital is targeting the “full use” of hydrogen produced using renewable energy “in all fields” by 2050 as part of its decarbonization drive.")](https://www.japantimes.co.jp/environment/2024/11/03/energy/tokyo-hydrogen-decarbonization-plan/ "Tokyo's climate goals rely on a fuel that is falling out of favor")
-
-[Spate of burglaries in Kanto highlight importance of home security](https://www.japantimes.co.jp/news/2024/11/03/japan/crime-legal/japan-robbery-safeguard/ "Spate of burglaries in Kanto highlight importance of home security")
-
-  [![Police officers investigate near a house in Tokyo where a resident was assaulted by a group of burglars on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/03/431861.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Police officers investigate near a house in Tokyo where a resident was assaulted by a group of burglars on Saturday.")](https://www.japantimes.co.jp/news/2024/11/03/japan/crime-legal/japan-robbery-safeguard/ "Spate of burglaries in Kanto highlight importance of home security")
-
-[Status quo or disruption? Breaking down the U.S. election's impact on Japan](https://www.japantimes.co.jp/news/2024/11/03/japan/politics/us-presidential-election-japan-preview/ "Status quo or disruption? Breaking down the U.S. election's impact on Japan")
-
-  [![Republican presidential candidate Donald Trump and Kamala Harris, the Democratic candidate, face off in an election Tuesday that will have wide-ranging implications for Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/03/431885.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Republican presidential candidate Donald Trump and Kamala Harris, the Democratic candidate, face off in an election Tuesday that will have wide-ranging implications for Japan.")](https://www.japantimes.co.jp/news/2024/11/03/japan/politics/us-presidential-election-japan-preview/ "Status quo or disruption? Breaking down the U.S. election's impact on Japan")
-
 [Horse-trading continues ahead of next week's prime minister vote](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/parties-lobby-prime-minister-election/ "Horse-trading continues ahead of next week's prime minister vote")
 
   [![Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/04/432179.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office on Friday.")](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/parties-lobby-prime-minister-election/ "Horse-trading continues ahead of next week's prime minister vote")
 
-[Tokyo woman arrested over Yokohama robbery-murder](https://www.japantimes.co.jp/news/2024/11/04/japan/crime-legal/woman-arrested-yokohama-robbery-murder/ "Tokyo woman arrested over Yokohama robbery-murder")
+[Gifu police officer arrested over alleged sex with underage girl](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
 
-  [![The Kanagawa Prefectural Police headquarters in Yokohama. Kanagawa police have arrested a 30-year-old woman from Tokyo’s Adachi Ward in connection with a robbery and murder of a 75-year-old Yokohama resident last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/04/432051.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kanagawa Prefectural Police headquarters in Yokohama. Kanagawa police have arrested a 30-year-old woman from Tokyo’s Adachi Ward in connection with a robbery and murder of a 75-year-old Yokohama resident last month.")](https://www.japantimes.co.jp/news/2024/11/04/japan/crime-legal/woman-arrested-yokohama-robbery-murder/ "Tokyo woman arrested over Yokohama robbery-murder")
+  [![The Gifu Prefectural Police headquarters in the city of Gifu](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431571.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Gifu Prefectural Police headquarters in the city of Gifu")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
 
-Editors' Picks
---------------
+[Alleged recruiter of Saitama burglary ring arrested](https://www.japantimes.co.jp/news/2024/11/04/japan/crime-legal/crime-recruiter-arrested/ "Alleged recruiter of Saitama burglary ring arrested")
 
-[ENVIRONMENT](https://www.japantimes.co.jp/environment/ "ENVIRONMENT")
+  [![Yuya Nagura is taken to the Tokorozawa Police Station in Tokorozawa, Saitama Prefecture, on Saturday after being arrested on suspicion of recruiting people to rob a house in the city.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/04/432090.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Yuya Nagura is taken to the Tokorozawa Police Station in Tokorozawa, Saitama Prefecture, on Saturday after being arrested on suspicion of recruiting people to rob a house in the city.")](https://www.japantimes.co.jp/news/2024/11/04/japan/crime-legal/crime-recruiter-arrested/ "Alleged recruiter of Saitama burglary ring arrested")
+
+[Top diplomat says Foreign Ministry will ‘quietly examine’ revising SOFA pact](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/foreign-minister-iwaya-interview/ "Top diplomat says Foreign Ministry will ‘quietly examine’ revising SOFA pact")
+
+  [![In a group interview at the Foreign Ministry in Tokyo on Thursday, Foreign Minister Takeshi Iwaya declined to make predictions about the Liberal Democratic Party’s approach to any revisions to the Status of Forces Agreement, but said he believes “some wisdom will probably come about” from planned talks within the party.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/04/431956.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In a group interview at the Foreign Ministry in Tokyo on Thursday, Foreign Minister Takeshi Iwaya declined to make predictions about the Liberal Democratic Party’s approach to any revisions to the Status of Forces Agreement, but said he believes “some wisdom will probably come about” from planned talks within the party.")](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/foreign-minister-iwaya-interview/ "Top diplomat says Foreign Ministry will ‘quietly examine’ revising SOFA pact")
 
 [Tokyo's climate goals rely on a fuel that is falling out of favor](https://www.japantimes.co.jp/environment/2024/11/03/energy/tokyo-hydrogen-decarbonization-plan/ "Tokyo's climate goals rely on a fuel that is falling out of favor")
 
-By [Chris Russell](https://www.japantimes.co.jp/author/170/chris-russell/ "Chris Russell")  
-
   [![The Tokyo Hydrogen Museum in the capital's Koto Ward on Thursday. The capital is targeting the “full use” of hydrogen produced using renewable energy “in all fields” by 2050 as part of its decarbonization drive.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/03/431714.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Tokyo Hydrogen Museum in the capital's Koto Ward on Thursday. The capital is targeting the “full use” of hydrogen produced using renewable energy “in all fields” by 2050 as part of its decarbonization drive.")](https://www.japantimes.co.jp/environment/2024/11/03/energy/tokyo-hydrogen-decarbonization-plan/ "Tokyo's climate goals rely on a fuel that is falling out of favor")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Spate of burglaries in Kanto highlight importance of home security](https://www.japantimes.co.jp/news/2024/11/03/japan/crime-legal/japan-robbery-safeguard/ "Spate of burglaries in Kanto highlight importance of home security")
-
-By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
-
-  [![Police officers investigate near a house in Tokyo where a resident was assaulted by a group of burglars on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/03/431861.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Police officers investigate near a house in Tokyo where a resident was assaulted by a group of burglars on Saturday.")](https://www.japantimes.co.jp/news/2024/11/03/japan/crime-legal/japan-robbery-safeguard/ "Spate of burglaries in Kanto highlight importance of home security")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Status quo or disruption? Breaking down the U.S. election's impact on Japan](https://www.japantimes.co.jp/news/2024/11/03/japan/politics/us-presidential-election-japan-preview/ "Status quo or disruption? Breaking down the U.S. election's impact on Japan")
-
-By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson") and [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
-
-  [![Republican presidential candidate Donald Trump and Kamala Harris, the Democratic candidate, face off in an election Tuesday that will have wide-ranging implications for Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/03/431885.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Republican presidential candidate Donald Trump and Kamala Harris, the Democratic candidate, face off in an election Tuesday that will have wide-ranging implications for Japan.")](https://www.japantimes.co.jp/news/2024/11/03/japan/politics/us-presidential-election-japan-preview/ "Status quo or disruption? Breaking down the U.S. election's impact on Japan")
+Editors' Picks
+--------------
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -188,9 +164,31 @@ By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric 
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Tokyo woman arrested over Yokohama robbery-murder](https://www.japantimes.co.jp/news/2024/11/04/japan/crime-legal/woman-arrested-yokohama-robbery-murder/ "Tokyo woman arrested over Yokohama robbery-murder")
+[Gifu police officer arrested over alleged sex with underage girl](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
 
-  [![The Kanagawa Prefectural Police headquarters in Yokohama. Kanagawa police have arrested a 30-year-old woman from Tokyo’s Adachi Ward in connection with a robbery and murder of a 75-year-old Yokohama resident last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/04/432051.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kanagawa Prefectural Police headquarters in Yokohama. Kanagawa police have arrested a 30-year-old woman from Tokyo’s Adachi Ward in connection with a robbery and murder of a 75-year-old Yokohama resident last month.")](https://www.japantimes.co.jp/news/2024/11/04/japan/crime-legal/woman-arrested-yokohama-robbery-murder/ "Tokyo woman arrested over Yokohama robbery-murder")
+  [![The Gifu Prefectural Police headquarters in the city of Gifu](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431571.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Gifu Prefectural Police headquarters in the city of Gifu")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Alleged recruiter of Saitama burglary ring arrested](https://www.japantimes.co.jp/news/2024/11/04/japan/crime-legal/crime-recruiter-arrested/ "Alleged recruiter of Saitama burglary ring arrested")
+
+  [![Yuya Nagura is taken to the Tokorozawa Police Station in Tokorozawa, Saitama Prefecture, on Saturday after being arrested on suspicion of recruiting people to rob a house in the city.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/04/432090.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Yuya Nagura is taken to the Tokorozawa Police Station in Tokorozawa, Saitama Prefecture, on Saturday after being arrested on suspicion of recruiting people to rob a house in the city.")](https://www.japantimes.co.jp/news/2024/11/04/japan/crime-legal/crime-recruiter-arrested/ "Alleged recruiter of Saitama burglary ring arrested")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Top diplomat says Foreign Ministry will ‘quietly examine’ revising SOFA pact](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/foreign-minister-iwaya-interview/ "Top diplomat says Foreign Ministry will ‘quietly examine’ revising SOFA pact")
+
+By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
+
+  [![In a group interview at the Foreign Ministry in Tokyo on Thursday, Foreign Minister Takeshi Iwaya declined to make predictions about the Liberal Democratic Party’s approach to any revisions to the Status of Forces Agreement, but said he believes “some wisdom will probably come about” from planned talks within the party.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/04/431956.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In a group interview at the Foreign Ministry in Tokyo on Thursday, Foreign Minister Takeshi Iwaya declined to make predictions about the Liberal Democratic Party’s approach to any revisions to the Status of Forces Agreement, but said he believes “some wisdom will probably come about” from planned talks within the party.")](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/foreign-minister-iwaya-interview/ "Top diplomat says Foreign Ministry will ‘quietly examine’ revising SOFA pact")
+
+[ENVIRONMENT](https://www.japantimes.co.jp/environment/ "ENVIRONMENT")
+
+[Tokyo's climate goals rely on a fuel that is falling out of favor](https://www.japantimes.co.jp/environment/2024/11/03/energy/tokyo-hydrogen-decarbonization-plan/ "Tokyo's climate goals rely on a fuel that is falling out of favor")
+
+By [Chris Russell](https://www.japantimes.co.jp/author/170/chris-russell/ "Chris Russell")  
+
+  [![The Tokyo Hydrogen Museum in the capital's Koto Ward on Thursday. The capital is targeting the “full use” of hydrogen produced using renewable energy “in all fields” by 2050 as part of its decarbonization drive.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/03/431714.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Tokyo Hydrogen Museum in the capital's Koto Ward on Thursday. The capital is targeting the “full use” of hydrogen produced using renewable energy “in all fields” by 2050 as part of its decarbonization drive.")](https://www.japantimes.co.jp/environment/2024/11/03/energy/tokyo-hydrogen-decarbonization-plan/ "Tokyo's climate goals rely on a fuel that is falling out of favor")
 
 Podcast
 -------
@@ -253,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Trump vs. Harris: U.S. voters head to the polls as turbulent campaign concludes](https://www.japantimes.co.jp/news/2024/11/05/world/politics/trump-harris-voters-decide/ "Trump vs. Harris: U.S. voters head to the polls as turbulent campaign concludes")
+
+2 hours ago
+
+[Suzuki unveils first mass-market electric vehicle](https://www.japantimes.co.jp/business/2024/11/05/companies/suzuki-ev-mass-market/ "Suzuki unveils first mass-market electric vehicle")
+
+4 hours ago
+
+[Kioxia sees flash memory demand almost tripling by 2028](https://www.japantimes.co.jp/business/2024/11/05/tech/kioxia-new-iwate-fab/ "Kioxia sees flash memory demand almost tripling by 2028")
+
+4 hours ago
+
 [UNESCO panel recommends sake brewing for intangible cultural heritage list](https://www.japantimes.co.jp/news/2024/11/05/japan/society/sake-brewery-unesco/ "UNESCO panel recommends sake brewing for intangible cultural heritage list")
 
-53 mins ago
+6 hours ago
 
 [From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
 
-56 mins ago
-
-[Mitsubishi Heavy net income falls, but orders still solid](https://www.japantimes.co.jp/business/2024/11/05/companies/mitsubishi-heavy-earnings/ "Mitsubishi Heavy net income falls, but orders still solid")
-
-1 hours ago
-
-[Opposition parties band together to shape Lower House agenda](https://www.japantimes.co.jp/news/2024/11/05/japan/politics/politics-current-state-of-affairs/ "Opposition parties band together to shape Lower House agenda")
-
-1 hours ago
-
-[Harris and Trump conclude historic campaign with dueling rallies](https://www.japantimes.co.jp/news/2024/11/05/world/politics/harris-trump-dueling-rallies/ "Harris and Trump conclude historic campaign with dueling rallies")
-
-2 hours ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
