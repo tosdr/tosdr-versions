@@ -78,11 +78,11 @@
     * [Comics](https://liftoff.io/mobile-heroes/comics/ "Comics")
     * [About Mobile Heroes](https://liftoff.io/mobile-heroes/about/ "About Mobile Heroes")
     
-    [![Betul Ozdemir Product Madness](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/optimized/rev-fefa9d9/liftoff.io/wp-content/uploads/2024/05/Betul-Eser-profile-banner-1200x627-v2-@2x@2x-1024x535.png)](https://liftoff.io/mobile-heroes/hero/betul-ozdemir/)
+    [![Ravid Sela Playstudios](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/optimized/rev-fefa9d9/liftoff.io/wp-content/uploads/2024/10/Ravid-Sela-Profile-Banner-1200x627-1-1024x535.png)](https://liftoff.io/mobile-heroes/hero/ravid-sela/)
     
     ###### FEATURED
     
-    [Meet Betul Ozdemir From Product Madness](https://liftoff.io/mobile-heroes/hero/betul-ozdemir/)
+    [Meet Ravid Sela From Playstudios](https://liftoff.io/mobile-heroes/hero/ravid-sela/)
     
 
 Search for:  
