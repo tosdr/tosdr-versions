@@ -1,19 +1,16 @@
  
 
 * Es noticia:
+* [Alineación Madrid hoy](https://www.marca.com/futbol/champions-league/2024/11/04/alineaciones-probables-real-madrid-milan-champions-league.html)
+* [Arturo Pérez-Reverte](https://www.marca.com/tiramillas/television/2024/11/04/6729438222601da30b8b4573.html)
 * [DANA directo](https://www.marca.com/tiramillas/actualidad/2024/11/02/67252de8dd67d3ed8931cf4e-directo.html)
 * [Celta - Getafe](https://www.marca.com/futbol/laliga-ea-sports/celta-getafe/2024/11/04/01_0101_20241104_176_1450-directo.html)
 * [Real Madrid - Milan dónde ver](https://www.marca.com/futbol/champions-league/2024/11/04/real-madrid-milan-horario-ver-partido-champions-league.html)
-* [Alonso Verstappen](https://www.marca.com/motor/formula1/opinion/2024/11/04/6728f499ca47417e358b459f.html)
+* [Verstappen](https://www.marca.com/motor/formula1/gp-brasil/2024/11/04/672935d9ca47415b6c8b45ae.html)
 * [Topuria](https://www.marca.com/combates-ufc/2024/11/04/grafiti-ilia-topuria-barcelona-convertido-exitazo.html)
-* [Valencia](https://www.marca.com/futbol/copa-rey/2024/11/04/valencia-solicita-aplazar-nuevo-partido-copa-parla-escuela.html)
-* [Popovich](https://www.marca.com/baloncesto/2024/11/04/popovich-deja-forma-indefinida-cargo-tecnico-spurs-problemas-salud.html)
 * [Copa Davis](https://www.marca.com/tenis/copa-davis/2024/11/04/mejor-menu-final-seria-espana-italia-sinner-alcaraz-nadal.html)
-* [Celta - Getafe dónde ver](https://www.marca.com/futbol/celta/2024/11/04/celta-vigo-getafe-horario-ver-tv-partido-laliga.html)
-* [Ruben Gisbert](https://www.marca.com/tiramillas/television/2024/11/04/6728c7b422601d55638b459e.html)
-* [La Revuelta](https://www.marca.com/tiramillas/television/2024/11/04/6728d0d8e2704eb4178b45ba.html)
 * [Rubén Gisbert](https://www.marca.com/tiramillas/television/2024/11/04/6728f976e2704e482a8b45c2.html)
-* [Sandra Golpe](https://www.marca.com/tiramillas/television/2024/11/04/672905a346163f9e1e8b45cb.html)
+* [Arturo Pérez-Reverte](https://www.marca.com/tiramillas/television/2024/11/04/6729438222601da30b8b4573.html)
 * [Iker Jiménez](https://www.marca.com/tiramillas/television/2024/11/04/6728c7b422601d55638b459e.html)
 * [Gonzalo Miró](https://www.marca.com/tiramillas/television/2024/11/04/67288931ca47411b7d8b457b.html)
 * [PC Fútbol 8](https://www.marca.com/videojuegos/juegos/2024/11/04/67289e6e22601d455a8b4586.html)
