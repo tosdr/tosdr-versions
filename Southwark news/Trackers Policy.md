@@ -20,6 +20,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
+    
+    ### [Peckham leaseholders expose costs of £17.3 million major works project as councillors admit ‘something has gone terribly wrong’](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
+    
+    [![Kie Joyce was sentenced to three and a half years' imprisonment (Met Police)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Kie-Joyce--360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
+    
+    ### [Three sentenced as police crackdown on mobile phone thefts in Bermondsey and Greenwich](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
+    
+    [![Councillor Ian Edwards, London Councils’ executive member for children and young people](https://southwarknews.co.uk/wp-content/uploads/2024/11/Councillor-Ian-Edwards-e1730806255754-200x180.jpg)](https://southwarknews.co.uk/area/london/children-with-special-educational-needs-and-disabilities-are-being-failed-a-new-report-has-warned/)
+    
+    ### [Children with special educational needs and disabilities are being failed, a new report has warned](https://southwarknews.co.uk/area/london/children-with-special-educational-needs-and-disabilities-are-being-failed-a-new-report-has-warned/)
+    
     [![CGI of Lewisham Shopping Centre redevelopment. Lewisham High Street in foreground. 
     Image from Lewisham Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/CGI-of-Lewisham-Shopping-Centre-redevelopment-3-360x180.jpg)](https://southwarknews.co.uk/area/south-london/new-photos-show-how-lewisham-town-centre-will-be-changed-forever/)
     
@@ -45,18 +57,6 @@
     [![Shaun Bailey](https://southwarknews.co.uk/wp-content/uploads/2021/04/web-Shaun-Bailey.jpg)](https://southwarknews.co.uk/area/london/proposals-for-a-london-art-trail-linking-all-32-of-the-citys-boroughs/)
     
     ### [Proposals for a ‘London Art Trail’ linking all 32 of the city’s boroughs](https://southwarknews.co.uk/area/london/proposals-for-a-london-art-trail-linking-all-32-of-the-citys-boroughs/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/Artists-impressions-of-Lady-Justice_statue_on_the_Old_Bailey_London-2-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/kacey-clarke-teenager-jailed-for-fatally-stabbing-woman-on-christmas-eve-in-bermondsey/)
-    
-    ### [Kacey Clarke: Teenager jailed for fatally stabbing woman on Christmas Eve in Bermondsey](https://southwarknews.co.uk/area/bermondsey/kacey-clarke-teenager-jailed-for-fatally-stabbing-woman-on-christmas-eve-in-bermondsey/)
-    
-    [![Image credit:  Jim Stephenson](https://southwarknews.co.uk/wp-content/uploads/2024/11/Screenshot_1-11-2024_145520_www.ribaj_.com_-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/)
-    
-    ### [Unique Peckham home could be named House of the Year](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/) 
-    
-    [![Rose with Molly at Royal Parks Half Marathon](https://southwarknews.co.uk/wp-content/uploads/2024/11/Rose-with-Molly-at-Royal-Parks_Credit_Rose-Bainbridge-Photography-1-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/lifesaving-hospital-celebrated-by-marathon-running-mum/)
-    
-    ### [Lifesaving hospital celebrated by marathon running mum](https://southwarknews.co.uk/area/waterloo/lifesaving-hospital-celebrated-by-marathon-running-mum/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -107,6 +107,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
+    
+    ### [Peckham leaseholders expose costs of £17.3 million major works project as councillors admit ‘something has gone terribly wrong’](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
+    
+    [![Kie Joyce was sentenced to three and a half years' imprisonment (Met Police)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Kie-Joyce--360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
+    
+    ### [Three sentenced as police crackdown on mobile phone thefts in Bermondsey and Greenwich](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
+    
+    [![Councillor Ian Edwards, London Councils’ executive member for children and young people](https://southwarknews.co.uk/wp-content/uploads/2024/11/Councillor-Ian-Edwards-e1730806255754-200x180.jpg)](https://southwarknews.co.uk/area/london/children-with-special-educational-needs-and-disabilities-are-being-failed-a-new-report-has-warned/)
+    
+    ### [Children with special educational needs and disabilities are being failed, a new report has warned](https://southwarknews.co.uk/area/london/children-with-special-educational-needs-and-disabilities-are-being-failed-a-new-report-has-warned/)
+    
     [![CGI of Lewisham Shopping Centre redevelopment. Lewisham High Street in foreground. 
     Image from Lewisham Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/CGI-of-Lewisham-Shopping-Centre-redevelopment-3-360x180.jpg)](https://southwarknews.co.uk/area/south-london/new-photos-show-how-lewisham-town-centre-will-be-changed-forever/)
     
@@ -132,18 +144,6 @@ View All Result
     [![Shaun Bailey](https://southwarknews.co.uk/wp-content/uploads/2021/04/web-Shaun-Bailey.jpg)](https://southwarknews.co.uk/area/london/proposals-for-a-london-art-trail-linking-all-32-of-the-citys-boroughs/)
     
     ### [Proposals for a ‘London Art Trail’ linking all 32 of the city’s boroughs](https://southwarknews.co.uk/area/london/proposals-for-a-london-art-trail-linking-all-32-of-the-citys-boroughs/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/Artists-impressions-of-Lady-Justice_statue_on_the_Old_Bailey_London-2-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/kacey-clarke-teenager-jailed-for-fatally-stabbing-woman-on-christmas-eve-in-bermondsey/)
-    
-    ### [Kacey Clarke: Teenager jailed for fatally stabbing woman on Christmas Eve in Bermondsey](https://southwarknews.co.uk/area/bermondsey/kacey-clarke-teenager-jailed-for-fatally-stabbing-woman-on-christmas-eve-in-bermondsey/)
-    
-    [![Image credit:  Jim Stephenson](https://southwarknews.co.uk/wp-content/uploads/2024/11/Screenshot_1-11-2024_145520_www.ribaj_.com_-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/)
-    
-    ### [Unique Peckham home could be named House of the Year](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/) 
-    
-    [![Rose with Molly at Royal Parks Half Marathon](https://southwarknews.co.uk/wp-content/uploads/2024/11/Rose-with-Molly-at-Royal-Parks_Credit_Rose-Bainbridge-Photography-1-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/lifesaving-hospital-celebrated-by-marathon-running-mum/)
-    
-    ### [Lifesaving hospital celebrated by marathon running mum](https://southwarknews.co.uk/area/waterloo/lifesaving-hospital-celebrated-by-marathon-running-mum/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -243,6 +243,18 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Featured Articles
 
+[![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
+
+### [Peckham leaseholders expose costs of £17.3 million major works project as councillors admit ‘something has gone terribly wrong’](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
+
+[5th November 2024](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
+
+[![Kie Joyce was sentenced to three and a half years' imprisonment (Met Police)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Kie-Joyce--120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
+
+### [Three sentenced as police crackdown on mobile phone thefts in Bermondsey and Greenwich](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
+
+[5th November 2024](https://southwarknews.co.uk/area/bermondsey/three-sentenced-as-police-crackdown-on-mobile-phone-thefts-in-bermondsey-and-greenwich/)
+
 [![Residents claim their block suffered persistent leaks months before the water outage](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3006-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/water-outage-leaves-bermondsey-families-living-in-the-stone-age/)
 
 ### [Water outage leaves Bermondsey families ‘living in the Stone Age’](https://southwarknews.co.uk/area/bermondsey/water-outage-leaves-bermondsey-families-living-in-the-stone-age/)
@@ -266,18 +278,6 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [Kacey Clarke: Teenager jailed for fatally stabbing woman on Christmas Eve in Bermondsey](https://southwarknews.co.uk/area/bermondsey/kacey-clarke-teenager-jailed-for-fatally-stabbing-woman-on-christmas-eve-in-bermondsey/)
 
 [4th November 2024](https://southwarknews.co.uk/area/bermondsey/kacey-clarke-teenager-jailed-for-fatally-stabbing-woman-on-christmas-eve-in-bermondsey/)
-
-[![A 1770 King's Bench Prison scene in which a man says: 'You can't suffer when you have powerful friends'. Credit: British Museum (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/08/A-1770-Kings-Bench-Prison-scene-in-which-a-man-says-You-cant-suffer-when-you-have-powerful-friends.-Credit-British-Museum-Creative-Commons-120x86.png)](https://southwarknews.co.uk/area/southwark/southwarks-most-eccentric-laws-past-and-present/)
-
-### [Southwark’s most eccentric laws past and present](https://southwarknews.co.uk/area/southwark/southwarks-most-eccentric-laws-past-and-present/)
-
-[3rd November 2024](https://southwarknews.co.uk/area/southwark/southwarks-most-eccentric-laws-past-and-present/)
-
-[![Image credit:  Jim Stephenson](https://southwarknews.co.uk/wp-content/uploads/2024/11/Screenshot_1-11-2024_145520_www.ribaj_.com_-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/)
-
-### [Unique Peckham home could be named House of the Year](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/) 
-
-[3rd November 2024](https://southwarknews.co.uk/area/peckham/unique-peckham-home-could-be-named-house-of-the-year/)
 
 ### USEFUL PAGES
 
