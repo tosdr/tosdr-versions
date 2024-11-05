@@ -73,6 +73,7 @@
         * [2024 Conference](https://www.casproviders.org/events/2024-conference)
         * [2024 Leadership Summit](https://www.casproviders.org/events/2024-casp-leadership-summit)
         * [2025 CEO Retreat](https://www.casproviders.org/events/2025-ceo-retreat)
+        * [2025 D.C. Fly In](https://www.casproviders.org/events/2025-dc-fly-in)
         * [2025 CASP Conference](https://www.casproviders.org/events/2025-conference)
         * [Past Events](https://www.casproviders.org/past-events)
     * [Blogs & Press Releases](https://www.casproviders.org/news/)
