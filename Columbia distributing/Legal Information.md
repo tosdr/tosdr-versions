@@ -312,7 +312,7 @@ All feedback, comments, requests for technical support, and other communications
 * [Contact](https://www.coldist.com/home/contact/)
 * [Careers](https://www.coldist.com/distributing-careers/)
 
-* [THE FRIDGE](https://www.coldist.com/retailer-portal/)
+* [THE FRIDGE](https://coho.my.site.com/coldist/ccrz__CCSiteLogin)
 * [Employee Tools](https://www.coldist.com/employee-resources/)
 * [COVID-19 RESPONSE](https://www.coldist.com/customer-tools/)
 
