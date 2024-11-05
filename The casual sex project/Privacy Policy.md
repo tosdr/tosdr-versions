@@ -114,6 +114,16 @@ Nov 01 2024
 
 By **[Dan Katz](https://admin.mi52siterestore.com/person/dan-katz/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/comments-on-the-october-employment-report/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/is-academic-wokeness-in-remission.jpg)[](https://admin.mi52siterestore.com/article/is-academic-wokeness-in-remission/ "Read More")
+
+Commentary Education Higher Ed
+
+Oct 31 2024
+
+[Is Academic ‘Wokeness’ in Remission?](https://admin.mi52siterestore.com/article/is-academic-wokeness-in-remission/)
+
+By **[John D. Sailer](https://admin.mi52siterestore.com/person/john-d-sailer/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/is-academic-wokeness-in-remission/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/abigail-shrier-the-kinderfada-revolution.jpg)[](https://admin.mi52siterestore.com/article/the-kinderfada-revolution/ "Read More")
 
 Commentary Education, Culture Pre K-12, Culture & Society
@@ -133,16 +143,6 @@ Oct 30 2024
 [Is Election Betting Bad for Democracy?](https://admin.mi52siterestore.com/article/is-election-betting-bad-for-democracy/)
 
 By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/is-election-betting-bad-for-democracy/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/kamala-harris-donald-trump-turning-to-podcasts-to-woo-uncertain-voters-1.jpg)[](https://admin.mi52siterestore.com/article/why-kamala-and-trump-are-turning-to-podcasts-to-woo-uncertain-voters/ "Read More")
-
-Commentary Governance Elections
-
-Oct 26 2024
-
-[Why Kamala and Trump Are Turning to Podcasts to Woo Uncertain Voters](https://admin.mi52siterestore.com/article/why-kamala-and-trump-are-turning-to-podcasts-to-woo-uncertain-voters/)
-
-By **[Rafael A. Mangual](https://admin.mi52siterestore.com/person/rafael-a-mangual/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/why-kamala-and-trump-are-turning-to-podcasts-to-woo-uncertain-voters/)
 
 Our Policy Areas
 ----------------
