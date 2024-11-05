@@ -22,8 +22,8 @@
     * [Careers](https://www.theihs.org/about-ihs/careers/)
 * [Digital Community](https://digitalcommunity.theihs.org/)
 * [Blog](https://www.theihs.org/blog/)
-* [Donate](https://www.theihs.org/donate-3/)
-    * [Overview](https://www.theihs.org/donate-3/)
+* [Donate](https://www.theihs.org/donate/)
+    * [Overview](https://www.theihs.org/donate/)
     * [Planned Giving](https://ihslegacy.org/)
     * [Donor Events](https://www.theihs.org/donate/events/)
 
@@ -46,8 +46,8 @@
     * [Careers](https://www.theihs.org/about-ihs/careers/)
 * [Digital Community](https://digitalcommunity.theihs.org/)
 * [Blog](https://www.theihs.org/blog/)
-* [Donate](https://www.theihs.org/donate-3/)
-    * [Overview](https://www.theihs.org/donate-3/)
+* [Donate](https://www.theihs.org/donate/)
+    * [Overview](https://www.theihs.org/donate/)
     * [Planned Giving](https://ihslegacy.org/)
     * [Donor Events](https://www.theihs.org/donate/events/)
 
@@ -194,7 +194,7 @@ If you have any questions about our privacy policy or practices, please contact 
 * [Contact](https://www.theihs.org/contact-us/)
 * [Careers](https://www.theihs.org/about-ihs/careers/)
 * [Digital Community](https://digitalcommunity.theihs.org/)
-* [Donate](https://www.theihs.org/donate/)
+* [Donate](https://www.theihs.org/?page_id=17610)
 * [Subscribe](https://www.theihs.org/email-preference-center/)
 * [Privacy Policy](https://www.theihs.org/privacy-policy/)
 
