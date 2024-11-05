@@ -1,4 +1,4 @@
-Lexia Learning Systems https://www.lexialearning.com https://www.lexialearning.com/Assets/img/logo.svg 1984 978-405-6232 info@lexialearning.com 300 Baker Avenue, Suite 320 Concord MA 01742 USA
+Lexia http://www.lexialearning.com http://www.lexialearning.com/img/logo.svg 1984 300 Baker Avenue, Suite 202 Concord Massachusetts 01742 USA
 
 [Skip to main content](#main-content) [Skip to main navigation](#main-nav) [Skip to footer](#footer)
 
@@ -21,7 +21,7 @@ Lexia Learning Systems https://www.lexialearning.com https://www.lexialearning.c
     * [Lexia® Core5® Reading (Pre-K–5)](https://www.lexialearning.com/core5)
     * [Lexia® PowerUp Literacy® (6-12)](https://www.lexialearning.com/powerup)
     * [Lexia® English Language Development™ (K-6)](https://www.lexialearning.com/lexia-english)
-    * [Voyager Sopris Learning®](http://www.voyagersoprislearning.com/)
+    * [Voyager Sopris Learning®](https://www.voyagersopris.com/)
     
     * Professional Learning
     * [Lexia® LETRS® Professional Learning (Pre-K-5)](https://www.lexialearning.com/letrs)
@@ -63,19 +63,19 @@ Lexia Learning Systems https://www.lexialearning.com https://www.lexialearning.c
     [Focused, comprehensive, and confident literacy learning](https://www.lexialearning.com/why-lexia/) 
     
     * [Our Approach](https://www.lexialearning.com/why-lexia/our-approach)
-    * [Customer Success](https://www.lexialearning.com/why-lexia/customer-success)
+    * [Creating Customer Success](https://www.lexialearning.com/why-lexia/customer-success)
     * [Case Studies](https://www.lexialearning.com/why-lexia/case-studies)
     * [Awards](https://www.lexialearning.com/why-lexia/awards)
-    * [The Future of Literacy](https://www.lexialearning.com/why-lexia/the-future-of-literacy)
+    * [Our Vision for Real Literacy Change](https://www.lexialearning.com/why-lexia/the-future-of-literacy)
     
 * Research 
     
     Efficacy Overview
     
-    [Setting a higher standard of efficacy](https://www.lexialearning.com/research/) 
+    [Setting a higher standard of efficacy](https://www.lexialearning.com/Research/) 
     
     * [Product Efficacy](https://www.lexialearning.com/research/product-efficacy)
-    * [ESSA Evidence](https://www.lexialearning.com/research/essa-evidence)
+    * [ESSA Evidence: Strong ESSA Ratings](https://www.lexialearning.com/research/essa-evidence)
     * [Post-Pandemic Acceleration](https://www.lexialearning.com/research/post-pandemic-acceleration)
     
 * Resources 
@@ -84,20 +84,20 @@ Lexia Learning Systems https://www.lexialearning.com https://www.lexialearning.c
     
     [Resources for literacy learning](https://www.lexialearning.com/resources/) 
     
-    * [Research](https://www.lexialearning.com/resources/?resourceType=132)
-    * [White Papers](https://www.lexialearning.com/resources/?resourceType=45)
-    * [Webinars](https://www.lexialearning.com/resources/?resourceType=131)
-    * [Infographics](https://www.lexialearning.com/resources/?resourceType=129)
-    * [Guides](https://www.lexialearning.com/resources/?resourceType=130)
-    * [Podcasts](https://www.lexialearning.com/resources/?resourceType=134)
-    * [Blog Posts](https://www.lexialearning.com/resources/?resourceType=124)
-    * [Videos](https://www.lexialearning.com/resources/?resourceType=169)
+    * [Research](https://www.lexialearning.com/resources/?resourcetype=132)
+    * [White Papers](https://www.lexialearning.com/resources/?resourcetype=45)
+    * [Webinars](https://www.lexialearning.com/resources/?resourcetype=131)
+    * [Infographics](https://www.lexialearning.com/resources/?resourcetype=129)
+    * [Guides](https://www.lexialearning.com/resources/?resourcetype=130)
+    * [Podcasts](https://www.lexialearning.com/resources/?resourcetype=134)
+    * [Blog Posts](https://www.lexialearning.com/resources/?resourcetype=124)
+    * [Videos](https://www.lexialearning.com/resources/?resourcetype=169)
     
 * Company 
     
     Company Overview
     
-    [Lexia is a science of reading leader](https://www.lexialearning.com/company/) 
+    [Lexia is a science of reading leader](https://www.lexialearning.com/Company/) 
     
     * [Careers](https://www.lexialearning.com/company/careers)
     * [History](https://www.lexialearning.com/company/history)
@@ -249,7 +249,7 @@ Copyright© 2023 Lexia, a Cambium Learning Group company. All Rights Reserved.
 * [Lexia Aspire® Professional Learning](https://www.lexialearning.com/aspire)
 * [Success Partnerships](https://www.lexialearning.com/success-partnerships)
 * [Lexia® Academy](https://www.lexialearning.com/success-partnerships)
-* [Voyager Sopris Learning](http://www.voyagersoprislearning.com/)
+* [Voyager Sopris Learning](https://www.voyagersopris.com/)
 
 [Solutions](https://www.lexialearning.com/solutions/)
 
@@ -284,14 +284,14 @@ Copyright© 2023 Lexia, a Cambium Learning Group company. All Rights Reserved.
 
 * * *
 
-* [Research](https://www.lexialearning.com/resources/?resourceType=132)
-* [White Papers](https://www.lexialearning.com/resources/?resourceType=45)
-* [Webinars](https://www.lexialearning.com/resources/?resourceType=131)
-* [Infographics](https://www.lexialearning.com/resources/?resourceType=129)
-* [Guides](https://www.lexialearning.com/resources/?resourceType=130)
-* [Podcasts](https://www.lexialearning.com/resources/?resourceType=134)
-* [Blog Posts](https://www.lexialearning.com/resources/?resourceType=124)
-* [Videos](https://www.lexialearning.com/resources/?resourceType=169)
+* [Research](https://www.lexialearning.com/resources/?resourcetype=132)
+* [White Papers](https://www.lexialearning.com/resources/?resourcetype=45)
+* [Webinars](https://www.lexialearning.com/resources/?resourcetype=131)
+* [Infographics](https://www.lexialearning.com/resources/?resourcetype=129)
+* [Guides](https://www.lexialearning.com/resources/?resourcetype=130)
+* [Podcasts](https://www.lexialearning.com/resources/?resourcetype=134)
+* [Blog Posts](https://www.lexialearning.com/resources/?resourcetype=124)
+* [Videos](https://www.lexialearning.com/resources/?resourcetype=169)
 
 [Company](https://www.lexialearning.com/company/)
 
@@ -335,7 +335,7 @@ For product help and technical assistance.
 
 A Cambium Learning® Group Brand
 
-[![Cambium Learning Group](/Assets/img/CAM-HORIZ-WHITE.svg)](https://www.cambiumlearning.com/)
+[![Cambium Learning Group logo](/img/CAM-HORIZ-WHITE.svg)](https://www.cambiumlearning.com/)
 
 * [Products](https://www.lexialearning.com/products/) Toggle Navigation
     
@@ -344,7 +344,7 @@ A Cambium Learning® Group Brand
         * [Lexia® Core5® Reading (Pre-K–5)](https://www.lexialearning.com/core5)
         * [Lexia® PowerUp Literacy® (6-12)](https://www.lexialearning.com/powerup)
         * [Lexia® English Language Development™ (K-6)](https://www.lexialearning.com/lexia-english)
-        * [Voyager Sopris Learning®](http://www.voyagersoprislearning.com/)
+        * [Voyager Sopris Learning®](https://www.voyagersopris.com/)
     * Professional Learning
         
         * [Lexia® LETRS® Professional Learning (Pre-K-5)](https://www.lexialearning.com/letrs)
@@ -369,7 +369,11 @@ A Cambium Learning® Group Brand
         * [Intervention](https://www.lexialearning.com/solutions/solutions-by-topic/intervention)
         * [Interrupted Learning](https://www.lexialearning.com/solutions/solutions-by-topic/interrupted-learning)
         * [Charter Schools](https://www.lexialearning.com/solutions/solutions-by-topic/charter-schools)
-    * [Solutions By Audience](https://www.lexialearning.com/solutions/solutions-by-audience/)
+    * [Solutions By Audience](https://www.lexialearning.com/solutions/solutions-by-audience/) Toggle Navigation
+        
+        * [District Administrators](https://www.lexialearning.com/solutions/solutions-by-audience/district-administrators)
+        * [Elementary Principals](https://www.lexialearning.com/solutions/solutions-by-audience/elementary-principals)
+        * [Secondary Principals](https://www.lexialearning.com/solutions/solutions-by-audience/secondary-principals)
 * [Lexia by State](https://www.lexialearning.com/lexia-by-state/)
     
 * [Why Lexia](https://www.lexialearning.com/why-lexia/) Toggle Navigation
@@ -389,14 +393,14 @@ A Cambium Learning® Group Brand
 * [Resources](https://www.lexialearning.com/resources/) Toggle Navigation
     
     * [Overview](https://www.lexialearning.com/resources/)
-    * [Research](https://www.lexialearning.com/resources/?resourceType=132)
-    * [White Papers](https://www.lexialearning.com/resources/?resourceType=45)
-    * [Webinars](https://www.lexialearning.com/resources/?resourceType=131)
-    * [Infographics](https://www.lexialearning.com/resources/?resourceType=129)
-    * [Guides](https://www.lexialearning.com/resources/?resourceType=130)
-    * [Podcasts](https://www.lexialearning.com/resources/?resourceType=134)
-    * [Blog Posts](https://www.lexialearning.com/resources/?resourceType=124)
-    * [Videos](https://www.lexialearning.com/resources/?resourceType=169)
+    * [Research](https://www.lexialearning.com/resources/?resourcetype=132)
+    * [White Papers](https://www.lexialearning.com/resources/?resourcetype=45)
+    * [Webinars](https://www.lexialearning.com/resources/?resourcetype=131)
+    * [Infographics](https://www.lexialearning.com/resources/?resourcetype=129)
+    * [Guides](https://www.lexialearning.com/resources/?resourcetype=130)
+    * [Podcasts](https://www.lexialearning.com/resources/?resourcetype=134)
+    * [Blog Posts](https://www.lexialearning.com/resources/?resourcetype=124)
+    * [Videos](https://www.lexialearning.com/resources/?resourcetype=169)
 * [Company](https://www.lexialearning.com/company/) Toggle Navigation
     
     * [Overview](https://www.lexialearning.com/company/)
