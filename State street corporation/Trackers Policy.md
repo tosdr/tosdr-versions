@@ -25,7 +25,7 @@ Cookie Disclosure and Online Tracking
 
 Effective Date: July, 2020
 
-Last Reviewed: October, 2022
+Last Reviewed: October, 2024
 
 At State Street (“we”, “our”, “us”) we are committed to handling cookies and online tracking methods responsibly and transparently. This Cookies and Online Tracking Disclosure (“Cookies Disclosure”) contains the following sections:
 
