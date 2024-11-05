@@ -31,6 +31,203 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+La IA y su debut en las artes visuales
+======================================
+
+El avance de las tecnologías es insofrenable.
+---------------------------------------------
+
+![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
+
+Imagino al **robot** autor de la pieza subastada en octubre de 2024 en Sotheby’s, deslizándose por sus **pasillos**, con una sonrisa entre **soberbia** y despreciativa, luego de que su obra fuera adquirida por algún ‘milmillonario’ o, quién sabe, por alguien de una de las mafias que gobiernan el **mundo**.
+
+¿Adónde va?, rumbo a su secreto **estudio** donde prepara su primera exposición sin el auspicio de Aidan Meller, el creador de un algoritmo de **inteligencia artificial** (IA) para dibujar y pintar, cuyo apoyo fue crucial para su **ópera** prima. (Meller, el geniecillo mentor de la artista, es un personaje que exuda fatuidad, posa con sus robotinas y colecciona arte antiguo con unción).
+
+El rostro aterrado de Alan Turing
+---------------------------------
+
+El valor de inicio de la **subasta** osciló entre 130.000 y 190.000 dólares pagaderos en **criptomonedas**. Arte, **tecnología** y **finanzas** en una sola tríada verdadera, aquella que rige el destino de la **humanidad** ‘ultramodernista’. Pero, si ya ha habido **imágenes** creadas por la IA, ¿por qué el estruendo de este evento? “Lo que hace que esta obra de **arte** sea diferente de otras obras generadas por IA es que con Ai-Da hay una manifestación **física**… y esta es la primera vez que la obra de un **robot** de este tipo sale a subasta”, advirtió Meller.
+
+Juan Martín Prada recuerda que, en los 60 del **siglo XX**, Max Bense, filósofo y **científico alemán**, propuso una definición de “**estética generativa**” en un escenario más amplio de lo alcanzado con **sistemas generativos** de IA en nuestro tiempo; mientras Christian Vinces alerta: “Nuestros ojos apenas están viendo el comienzo de lo que la IA hará en todo lo concerniente a **nuestras vidas**; las artes no escaparán a sus conquistas”…
+
+La robotina ha disertado en **foros** y detenido el **resuello** del **público** al verla tan airosa y dueña de un acervo impresionante de **conocimientos**; su obra fue expuesta en la **cumbre mundial** de la ONU sobre IA. Pero esta vez, ingresó al **firmamento** del **arte plástico**, en medio de toda la parafernalia que merece un **acto semejante**, el primero en la **historia**. La obra de formato “heroico”, 1,6 x 2,3 metros, resuelta en técnica mixta, muestra el **rostro** aterrado de Alan Turing, el célebre **científico informático**, pionero de la IA y la computación, parecido al que debió poner **Oppenheimer** al percatarse de que había inventado la **bomba atómica**.
+
+En 2023 el **célebre** cuadro _La chica de la perla_ de Johannes Vermeer fue intervenido por IA y expuesto en el sacratísimo **Museo Mauritshuis** de **La Haya**. Materialidad y calidad táctil, el **ambiente** intimista labrado por la luz **magistral** del **artista**, la seducción que emerge de la **perfección** del **rostro**, fueron reproducidos por los **impulsores** del osado ejercicio, pero, en el escrutinio final, se hallaron dos **zarcillos** rutilantes en vez de uno, y mejillas y pecas con un halo extraño que lucía “**inhumano**”.
+
+El **estropicio** que generó este hecho dio vuelta al **mundo**. Vermeer (Países Bajos, 1632-1675) es un artista celebrado como un **notable** exponente del Barroco.
+
+Lo axial en el **arte** es una **fusión** entre idea y realización, en **términos kantianos**, esa idoneidad entre dos **facultades mentales**: **imaginación** y **entendimiento**. De ser así, los potenciales de los **sistemas generativos** no deberían verse como una **amenaza** para la **creatividad** **humana**, sino solo para algunas **tecnologías** previas que sí serían reemplazadas. ¿Se cumplirá esta consoladora **hipótesis**?
+
+El **avance** de las **tecnologías** es insofrenable. Nadie puede vaticinar qué puede ocurrir en un tiempo en que es imposible prescindir de la **automatización creativa** y sus **cuestionamientos** éticos. ¿Están preparados los **artistas humanos** para defender sus **creaciones** **visuales**? No. Algunos de los patronos de los recintos de la IA han reconocido su **carencia** de **eticidad** al haber prescindido del consentimiento de los artistas para usarlas en el **adiestramiento** de sus **modelos**. Explotación cruda. “Réplicas o **derivaciones** de la identidad”…
+
+A pesar de la intrusión de la IA en el **mundo** de las **artes plásticas** con esta histórica subasta, queda el respiro de que aún no le es dado crear lenguajes artísticos, ir más allá de las fronteras estilísticas de los **datos e imágenes** con los que ha sido entrenada. Pero proliferan inagotables páginas con **catálogos** de artistas de todas las épocas para su **aplicación** como modelos. Nadie sabe aún cuál será su destino. Sí, en cambio, la **certeza** de que se gestaría un aprovechamiento inmisericorde de **artistas** y arte humanos. Acaso lo que Yuval Harari propone abre un portillo de luz para evitarlo: “Debe ser obligatorio que la IA revele que es una IA”.
+
+“José Luis dibuja/ en cada hoja de cada hora/ una risa/ como un aullido/ desde el fondo del tiempo/ desde el fondo del niño/ cada día/ José Luis dibuja nuestra herida”. Líneas de Octavio Paz, “demasiado humanas”, dedicadas a José Luis Cuevas.
+
+“El amor a la naturaleza”, el legado de Humboldt
+================================================
+
+Las agresiones a la naturaleza deben parar, y substituirse con actitudes de defensa de la vida. Alexander von Humboldt dejó huellas en el Ecuador.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El Ecuador fue uno de los destinos del naturalista Alexander von Humboldt.](https://www.elcomercio.com/wp-content/uploads/2024/10/an-image-of-alexander-von-humboldt-standing-on-a-r-7kSFHOI0TnyTJNbDubRdeg-H6wlTlCoQq-bFOZMdo_ftA.jpeg)
+
+El Ecuador fue uno de los destinos del naturalista Alexander von Humboldt, nacido en 1769 en el seno de una familia acomodada de Prusia. **Explorador desde niño, se dedicó a la observación científica con la idea de “describir cómo funcionaba el mundo”.**
+
+Viajes, aventuras e inventos
+----------------------------
+
+Durante cinco años exploró Latinoamérica, vivió en París y Berlín, caminó por los brazos remotos del río Orinoco, en Venezuela, y las estepas kazakas de Rusia y Mongolia, a los 60 años. **Fue considerado por muchos años como el centro del mundo científico, por su cerebro erudito, sus descripciones, mediciones, y su resistencia física.**
+
+Consideró a América como un **“vértice cartesiano”.** La gente le admiraba y le temía por su lenguaje mordaz, y su vida se llenó de viajes y aventuras porque siempre quería experimentar algo nuevo. **Quería despertar el “amor a la naturaleza”.** Y lo consiguió, en una época en que los científicos buscaban leyes universales.
+
+**Escribió más 50 mil cartas, libros, mapas y dibujó -como nadie- a la naturaleza.** Se le ocurrió la idea que **“las zonas de vegetación y climáticas recorren el mundo”.** Y encontró conexiones. Según sus biógrafos, **Humboldt fue el primer científico que habló, en 1800, del nocivo cambio climático provocado por los seres humanos.**
+
+Inventó las **isotermas** \-líneas de temperatura y presión que vemos en los mapas del tiempo-. Descubrió el denominado **“ecuador magnético”,** al constatar la ubicación geográfica de nuestro país.
+
+Influencia
+----------
+
+Pocos como él influyeron en el pensamiento de artistas, científicos y filósofos de su tiempo. El libro **_“Personal Narrative”,_ de Humboldt**, provocó gran admiración en **Charles Darwin**, quien escribió que **“no se habría embarcado en el Beagle ni concebido “El Origen de las Especies”, sin Humboldt”.**
+
+Algunos escritores encontraron en los libros de Humboldt el dilema de la convergencia entre la naturaleza y la poesía. **Simón Bolívar lo llamó “el descubridor del Nuevo Mundo”.** Y **Johann Wolfgang von Goethe,** el poeta más grande de Alemania, consideró que **“pasar unos días en compañía de Humboldt era como haber vivido varios años”.**
+
+Según **Andrea Wulf**, en el libro **“La invención de la naturaleza: el nuevo mundo de Alexander von Humboldt**”, los ecologistas y los escritores escriben sobre la naturaleza sin saber nada sobre Humboldt: **“Rachel Carson** parte del concepto de la interconexión de Humboldt, y James **Jamen Lovelock** se refiere en la **teoría de la Gaia**, que la Tierra es un organismo vivo, idea desarrollada por Humboldt”.
+
+El pensamiento de Humboldt pervive. La corriente más famosa de América del Sur lleva su nombre. ¿Quién no ha oído de la **Corriente de Humboldt?** Cientos de monumentos, montañas, ríos, parques, cabos, bahías, cataratas, rutas, cadenas montañosas; **más de 100 animales y 300 plantas, minerales, e inclusive una superficie en la Luna se denomina Mar de Humboldt.** Ninguna persona ha contribuido tanto como él para descifrar la naturaleza.
+
+Itinerario
+----------
+
+El viaje de Humboldt a través de América transcurrió entre 1799 y 1804. Salió de La Coruña, en España, pasó por Tenerife, cruzó el “charco”, visitó Cumaná, Angostura, San Carlos, Caracas y embarcó a Cuba; luego retornó a Cartagena, **recorrió Bogotá, Quito, Guayaquil y Lima**. Navegó hacia México, cruzó el Golfo y llegó al Atlántico, bordeó el este de Estados Unidos, hasta Washington y Filadelfia, y desde allí embarcó hasta Europa, Bordeaux, en Francia.
+
+Humboldt en Ecuador
+-------------------
+
+El concepto de naturaleza, como una **“cuerda”** que conecta, nos une inseparable a él, aunque nos hemos olvidado de mencionarlo. Igual las nociones de **“equinoccio”** -refrendadas por las misiones científicas francesas y españolas-, y lo más importante, haber descrito, de manera magistral nuestras plantas y animales, y las montañas más hermosas del Ecuador, en especial el volcán Chimborazo, que escaló el 23 de junio de 1802, con un barómetro, un termómetro, un sextante, un horizonte artificial y un cianómetro para medir el azul del cielo.
+
+Al llegar a los 5.917 metros y disiparse la niebla y mirar el Chimborazo sobre el cielo azul, Humboldt exclamó: **“¡Qué vista más grandiosa!”. “¡Era como mi estuviéramos atrapados en un globo de aire!”.** Nadie había subido tanto y respirado el aire tan enrarecido.
+
+El explorador comenzó a ver el mundo de otra manera, **concibió a la Tierra como un gran organismo vivo**, y que toda la naturaleza estaba relacionada. Hoy se sabe que Humboldt subió al Chimborazo con un pie herido y botas incómodas, cargado de instrumentos y parándose constantemente, según testimonio de la investigadora Andrea Wulf.
+
+**Su legado es grandioso.** Y el Ecuador no ha obrado con justicia. Alexander von Humboldt no necesita monumentos, sino **un gran museo de Historia Natural para continuar las investigaciones de este científico que enseñó a amar la naturaleza de nuestro hermoso país.**
+
+Cartas a Quito / 5 de noviembre de 2024
+=======================================
+
+Estas son las cartas a Quito de este martes 5 de noviembre de 2024
+------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+La ordenanza verde azul y el Valle de Uravía (3)
+------------------------------------------------
+
+La Ordenanza Verde Azul (no. 060 – 2023), aprobada por el Concejo Metropolitano de Quito, el 4 de julio de 2023, en cumplimiento de la sentencia dictada dentro de la acción extraordinaria de protección, seguida a favor del Río Monjas, es un cuerpo normativo “ecocentrista”, lleno de buenas intenciones, pero que, en la práctica, no se las puede llevar a efecto, ya que ninguna de sus nueve disposiciones transitorias ha sido cumplida, dentro de los plazos y términos previstos en la propia ordenanza.
+
+Por ejemplo, la disposición transitoria cuarta, dice: “En el término de trescientos sesenta y cinco (365) días, contados a partir de la fecha de sanción de la presente ordenanza, la autoridad ambiental distrital elaborará el Plan de Gestión y Manejo del de la Infraestructura Verde-Azul.”
+
+Afortunadamente, en estos días, la Secretaría de Ambiente ha publicado una invitación a presentar propuestas para el proceso de “Elaboración del Plan de Infraestructura Verde Azul”, con lo que, finalmente, se pondrá en ejecución esta valiosa ordenanza, en defensa de los derechos de la naturaleza y la Pachamama, en el Distrito Metropolitano de Quito (DMQ).
+
+En la ordenanza verde-azul se habla sobre los tipos de movimientos de masa recurrentes en el Distrito Metropolitano de Quito, como son, los colapsos de taludes naturales (en ríos y quebradas) y taludes antrópicos (viales y residenciales), flujos de lodo y/o escombros (aluviones), deslizamientos (ruptura profunda), y menos frecuente, caídas de rocas
+
+También dice que el área de afectación especial verde-azul será registrada como afectación de conformidad a la normativa vigente, y que la afectación implica la prohibición de edificar.
+
+El valle de Uravía, situado en la parroquia de Checa se encuentra en una quebrada altamente sísmica, donde ya hubo una gran explosión, hace sesenta años, la que se produjo en la falla geológica que atraviesa todo el valle y es justamente sobre esta falla y lugar de explosión que la Empresa Publica Metropolitana de Agua Potable y Saneamiento (EPMAPS) pretende construir una planta de tratamiento de aguas residuales (PTAR), en franca contradicción con los lineamientos de la ordenanza verde-azul, sobre la protección a los ríos y quebradas del  DMQ.
+
+Al respecto, el Plan de Uso y Gestión del Suelo (PUGS) dice que, en quebradas, zonas de protección de cuerpos de agua, zonas de alta protección biofísica, y zonas de alto valor ecosistémico asignadas como Protección de Quebrada (PQ); no se asignará ocupación o edificabilidad alguna, por lo tanto, no se permitirá la edificación, como es precisamente el caso del valle de Uravía.
+
+Esta equivocada decisión municipal sobre la ubicación para la pretendida construcción de la PTAR – Checa, en el valle de Uravía, es claramente atentatoria contra todo tipo de vida existente en el valle, al violar flagrantemente los derechos de la naturaleza, con un potencial daño ambiental de incalculables consecuencias, acción que deben ser evitadas a toda costa, aplicando el “principio precautorio”, previsto en el art. 73 de nuestra Constitución, que dice: “El Estado aplicará medidas de precaución y restricción para las actividades que puedan conducir a la extinción de especies, la destrucción de ecosistemas o la alteración permanente de los ciclos naturales.”
+
+Alfonso López L.
+
+Combatir las causas de la migración forzada en Ecuador
+======================================================
+
+La migración no es un acto caprichoso ni voluntario. Quienes cruzan el Darién lo hacen impulsados por las mismas causas.
+------------------------------------------------------------------------------------------------------------------------
+
+![Migrantes cruzan el río Tuquesa, luego de atravesar la selva del Darién, el pasado jueves 31 de octubre de 2024, en el Darién (Panamá).](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-27.jpg)
+
+La travesía por la selva del **Darién** es una de las **rutas migratorias** más inhóspitas y peligrosas del mundo. Cada día, cientos de personas se aventuran en ella. Es una t**ravesía marcada por la angustia**, el dolor y, en muchos casos, la tragedia en un espacio inhóspito para quienes emprenden este arduo camino[.](https://es.wikipedia.org/wiki/Migraci%C3%B3n_forzosa "https://es.wikipedia.org/wiki/Migraci%C3%B3n_forzosa")
+
+La migración no es un acto caprichoso ni voluntario. Quienes cruzan el Darién lo hacen impulsados por las mismas causas que obligan a tantos otros en el mundo a **dejar sus hogares**. Esta no es una crisis aislada; es un reflejo de las injusticias y **conflictos globales**.
+
+Es necesario, sin embargo, preguntarnos qué se está haciendo para enfrentar esta realidad que no solo afecta a quienes cruzan la **frontera natural entre Colombia y Panamá**, sino a los países que los reciben y a las comunidades indígenas que, sin recursos suficientes, tratan de brindar ayuda. La magnitud de la **crisis** desborda cualquier iniciativa.
+
+> Las cifras que maneja la cooperación internacional dan cuenta de que al menos 285 000 migrantes han atravesado en lo que va de 2024 esa selva, la mayoría son venezolanos, pero también hay nacionales de Colombia, Haití, China, Bangladesh, Palestina, Afganistán, la India, la R.D. Congo o Somalia, entre otros muchos países, con problemáticas que se repiten. A más de ellos, hay compatriotas ecuatorianos que ven en la migración forzada la única salida para una crisis sistémica.
+
+Es común que las historias de quienes logran cruzar el Darién se centren en los números, en la cantidad de migrantes que transitan por la selva cada año. Las cifras que maneja la cooperación internacional dan cuenta de que al menos **285 000 migrantes han atravesado en lo que va de 2024 esa selva**, la mayoría viene de Venezuela, pero también hay nacionales de Colombia, Haití, China, Bangladesh, Palestina, Afganistán, la India, la R.D. Congo o Somalia, entre otros muchos países, con [problemáticas](https://www.elcomercio.com/actualidad/mundo/mas-migrantes-venezuela-ecuador-paises-cruzaron-darien.html "https://www.elcomercio.com/actualidad/mundo/mas-migrantes-venezuela-ecuador-paises-cruzaron-darien.html") que se repiten. A más de ellos, hay **compatriotas ecuatorianos** que ven en la migración forzada la única salida para una crisis sistémica.
+
+La humanidad nos obliga a reconocer que estas situaciones no son **inevitables**. La **migración** forzada es un síntoma de un mundo en el que el bienestar sigue siendo un privilegio y no un derecho. Las personas que arriesgan sus vidas en el **Darién** no buscan oportunidades en un **país** específico. Buscan un espacio seguro para vivir. Enfrentar la crisis migratoria no es solo cuestión de atender a quienes **transitan** por estas rutas, sino de trabajar en las raíces de esta **desesperación**.
+
+Es imperativo recordar que esta crisis no es ajena a quienes se quedan. El **Darién** no es solo una ruta lejana; representa las fronteras invisibles que hemos trazado en el **mundo**, separando a quienes tienen oportunidades de quienes solo tienen esperanza. Combatir las **causas de la migración forzada** en Ecuador es una responsabilidad que debemos asumir todos. La dignidad humana no debe depender de la suerte, y es nuestra obligación **construir un mundo** en el que nadie deba recorrer miles de kilómetros para encontrarla.
+
+Retos del nuevo gobierno de Estados Unidos en su política internacional
+=======================================================================
+
+Ambos candidatos coinciden en mantener la postura actual de EE. UU. en Oriente Medio. Hoy son las elecciones presidenciales en Estados Unidos.
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+![Una mujer acude a la votación anticipada en Virginia (EE. UU.).](https://www.elcomercio.com/wp-content/uploads/2024/10/votacion-estados-unidos-mesa.jpg)
+
+El próximo gobierno de Estados Unidos enfrentará **complejos desafíos** en **Oriente Medio, Ucrania, Venezuela, México y Puerto Rico.**
+
+¿**Cuándo son las elecciones en Estados Unidos**? Las votaciones presidenciales en EE.UU. se efectuarán este martes 5 de noviembre de 2024.
+
+Más noticias
+------------
+
+* [Estas son las 5 propuestas claves de Donald Trump y Kamala Harris](https://www.elcomercio.com/actualidad/mundo/son-5-propuestas-claves-donald-trump-kamala-harris.html "Estas son las 5 propuestas claves de Donald Trump y Kamala Harris")
+* [Donald Trump eleva el tono en la semana final de campaña](https://www.elcomercio.com/actualidad/mundo/donald-trump-eleva-tono-semana-final-campana.html "Donald Trump eleva el tono en la semana final de campaña")
+* [Donald Trump alaba en privado a Nicolás Maduro por ser ‘fuerte’](https://www.elcomercio.com/actualidad/mundo/donald-trump-alaba-privado-nicolas-maduro-fuerte.html "Donald Trump alaba en privado a Nicolás Maduro por ser ‘fuerte’")
+
+Estados Unidos y la política internacional
+------------------------------------------
+
+El **nuevo gobierno** de Estados Unidos se encontrará ante **significativos retos** en su política internacional, especialmente en **Oriente Medio** y en relación con la **guerra en Ucrania**. Estos desafíos no solo impactarán la **estabilidad regional**, sino que también influirán en la **percepción global del liderazgo estadounidense.**
+
+En Oriente Medio, la situación es **compleja**. La administración entrante deberá abordar el **conflicto israelí-palestino**, donde las tensiones siguen siendo altas.
+
+Un **enfoque equilibrado** que busque la **paz y estabilidad es crucial**, ya que las decisiones que tome Estados Unidos pueden afectar no solo a la región, sino también a su **relación con aliados clave**. Además, la creciente influencia de Irán en la región planteará un **desafío adicional,** requiriendo una estrategia clara para contener su expansión y promover la estabilidad.
+
+Guerra en Ucrania
+-----------------
+
+Por otro lado, la guerra en Ucrania es una de las **crisis más desafiantes** para la política exterior estadounidense. La administración saliente proporcionó **apoyo militar y económico a Kiev,** pero la continuidad de este apoyo dependerá de la estrategia que adopte el nuevo gobierno. El fortalecimiento de la OTAN y la **colaboración con aliados europeos** serán fundamentales para responder a Rusia y garantizar la seguridad en Europa del Este.
+
+Además, la **administración** deberá abordar las **consecuencias humanitarias del conflicto.** Con millones de desplazados y una **crisis económica** que afecta a la población civil, es vital que EE. UU. promueva iniciativas que apoyen la recuperación y el bienestar de los ucranianos.
+
+En conclusión, el nuevo gobierno de Estados Unidos enfrentará **retos críticos en Oriente Medio** y Ucrania que definirán su legado en la política internacional.
+
+Desafíos con Venezuela
+----------------------
+
+El nuevo gobierno de **Estados Unidos,** que se elegirá hoy, se enfrentará a importantes retos en su relación con América Latina, especialmente en lo que respecta a **Venezuela**, **México** y **Puerto Rico**. Estos desafíos no solo afectarán la política exterior, sino que también influirán en la estabilidad regional y en la vida de millones de personas.
+
+En el caso de Venezuela, la **crisis humanitaria** y **política** que ha llevado a millones de venezolanos a buscar refugio en otros países, incluido Estados Unidos, **exigirá una respuesta integral**. Se espera que el nuevo gobierno considere una **combinación de sanciones** y diplomacia para abordar la situación, buscando **colaborar con aliados** en la región para fomentar un cambio político en el país.
+
+¿Qué ocurrirá con México?
+-------------------------
+
+México, por su parte, presenta un conjunto de desafíos relacionados con la migración y la seguridad. La **administración entrante deberá trabaja**r en una estrategia que aborde las **causas raíz de la migración,** como la violencia y la pobreza, al tiempo que fortalece la cooperación bilateral en temas de seguridad y comercio. La **relación con México es fundamental** para abordar los flujos migratorios y garantizar la seguridad en la frontera sur de EE. UU.
+
+Estados Unidos y Puerto Rico
+----------------------------
+
+Finalmente, Puerto Rico se enfrenta a un futuro incierto en términos de recuperación económica y política. La administración que asuma en 2024 deberá tomar **decisiones críticas** sobre el **estatus político** de la isla y su relación con el gobierno federal, además de gestionar el apoyo económico necesario para la reconstrucción tras desastres naturales.
+
+En resumen, el **nuevo gobierno de EE. UU.** tendrá que enfrentar una **serie de retos complejos** en América Latina, que requerirán un **enfoque equilibrado** y **colaborativo** para lograr soluciones efectivas y sostenibles.
+
+¿Qué ocurrirá con Argentina y Brasil si Kamala Harris gana?
+-----------------------------------------------------------
+
+Una vez establecido cuándo son las elecciones en Estados Unidos, si Kamala Harris se convierte en la presidenta de Estados Unidos, las relaciones con América Latina, en particular con Argentina y Brasil, podrían experimentar cambios significativos.
+
+En el caso de Venezuela, Harris manifestó su **apoyo a la democracia** y a la restauración de los derechos humanos. Es probable que, bajo su liderazgo, Estados Unidos mantenga o incluso intensifique las sanciones contra el régimen de Nicolás Maduro.
+
+En Argentina, la relación podría estar marcada por un **enfoque más cooperativo.** El gobierno de Harris podría impulsar iniciativas conjuntas en áreas como la **inversión sostenible** y el comercio, lo que beneficiaría a ambos países.
+
 En Quito se realizan obras de renovación de espacios públicos
 =============================================================
 
@@ -817,262 +1014,3 @@ En el 2024, la cita será el jueves 14 de noviembre en el estadio Monumental. El
 
 San viernes – El especial Halloween
 -----------------------------------
-
-Vuelo que cubría la ruta Bogotá-Madrid es tendencia en redes
-============================================================
-
-Avión tuvo que aterrizar con anticipación debido a una emergencia.
-------------------------------------------------------------------
-
-![Un avión que cubría la ruta Bogotá-Madrid tuvo complicaciones. (Foto referencial)](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-25.jpg)
-
-Un vuelo que c**ubría la ruta entre Bogotá y Madrid** atravesó una emergencia que obligó al piloto a aterrizar con anticipación[.](https://es.wikipedia.org/wiki/Bogot%C3%A1)
-
-En la aerolínea se movilizaban **250 pasajeros** y nueve integrantes de la tripulación. El hecho ocurrió el 31 de octubre de 2024.
-
-### Más noticias
-
-* [Huracán Milton afecta a los vuelos, aeropuerto de Quito está a la espera](https://www.elcomercio.com/actualidad/quito/operaciones-aeropuerto-quito-normales-huracan-milton.html "Huracán Milton afecta a los vuelos, aeropuerto de Quito está a la espera")
-* [Cancillería se pronuncia sobre ecuatorianos en España ante las inundaciones](https://www.elcomercio.com/actualidad/ecuador/cancilleria-se-pronuncia-ecuatorianos-espana-fuertes-lluvias.html "Cancillería se pronuncia sobre ecuatorianos en España ante las inundaciones")
-* [Huracán Milton afecta a los vuelos, aeropuerto de Quito está a la espera](https://www.elcomercio.com/actualidad/quito/operaciones-aeropuerto-quito-normales-huracan-milton.html "Huracán Milton afecta a los vuelos, aeropuerto de Quito está a la espera")
-
-Vuelo Bogotá-Madrid enfrentó emergencia
----------------------------------------
-
-El aterrizaje anticipado se dio debido a una dificultad técnica que el avión sufrió durante el recorrido entre ambas ciudades.
-
-Según reportó El País, **el avión presentó una despresurización en la cabina**. Esto se refiere a la pérdida de presión de aire. La aeronave se encontraba en el **océano Atlántico** cuando las alarmas se encendieron.
-
-Nuevo vuelo para los pasajeros
-------------------------------
-
-El vuelo pudo desviarse hacia el aeropuerto de Ponta Delgada, en las Azores, **Portugal**. Ya en el lugar, los pasajeros recibieron asistencia y, además, el avión fue inspeccionado.
-
-El aterrizaje se dio tras la coordinación entre el capitán y el personal de la torre de control, con los protocolos de seguridad correspondientes.
-
-Los ocupantes ocuparon otro vuelo con destino al aeropuerto **Adolfo Suárez de Madrid-Barajas**, el 1 de noviembre de 2024.
-
-El hecho es tendencia en redes
-------------------------------
-
-Las noticias sobre **vuelos con desperfectos técnicos** capturan la atención en redes sociales debido a su alto impacto emocional y la percepción de riesgo que generan.
-
-Los incidentes aéreos evocan **temor y ansiedad**, pues el público asocia la aviación con potenciales peligros catastróficos. En segundos, testigos y pasajeros pueden compartir **imágenes** y **videos** del incidente, intensificando la difusión y el interés general.
-
-Además, la conectividad digital permite que estos eventos se **viralicen rápidamente**, impulsados por el interés en temas de seguridad y experiencias personales intensas. El papel de las redes en amplificar las novedades de estas situaciones contribuye a su rápida propagación y a que el público siga de cerca cada detalle. Esto es lo que sucedió con el vuelo Bogotá-Madrid.
-
-Así está la tabla de posiciones de la LigaPro
-=============================================
-
-La clasificación es clave, ya que determina los cupos a torneos internacionales y los equipos que descenderán a la Serie B.
----------------------------------------------------------------------------------------------------------------------------
-
-![Partido entre Independiente del Valle y El Nacional por una fecha de la LigaPro.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo.jpg)
-
-La tabla de posiciones de la **LigaPro 2024** muestra los resultados acumulados de los equipos en el **campeonato ecuatoriano de fútbol**, tanto en la primera como en la **segunda fase**.
-
-### Más noticias
-
-* [Liga de Quito venció a Emelec y presiona en la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-vencio-a-emelec-y-presiona-en-la-liga-pro.html "Liga de Quito venció a Emelec y presiona en la Liga Pro")
-* [Un golpeado Emelec recibe al favorito Liga de Quito](https://www.elcomercio.com/deportes/futbol/un-golpeado-emelec-recibe-al-favorito-liga-de-quito.html "Un golpeado Emelec recibe al favorito Liga de Quito")
-* [Kendry Páez anotó en la victoria de Independiente del Valle](https://www.elcomercio.com/deportes/futbol/kendry-paez-anoto-en-la-victoria-de-independiente-del-valle.html "Kendry Páez anotó en la victoria de Independiente del Valle")
-
-La clasificación es clave, ya que determina los **cupos a torneos internacionales** y los equipos que descenderán a la **Serie B**. Los únicos equipos que tienen un partido pendiente son T**écnico Universitario y Universidad Católica** que se enfrentarán este 4 de noviembre a las 15:00.
-
-Tabla de posiciones de la segunda fase de la LigaPro
-----------------------------------------------------
-
-La segunda fase de la LigaPro 2024 tiene una competencia cerrada en los primeros lugares. **Independiente del Valle** lidera esta fase con 26 puntos, obtenidos en 12 partidos jugados y con una diferencia de goles de 13, gracias a sus 25 goles a favor y 12 en contra.
-
-**Liga de Quito** le sigue en el segundo puesto también con 26 puntos, pero con una diferencia de goles de 11, resultado de 22 goles anotados y 11 recibidos.
-
-En el tercer lugar se encuentra **Orense SC**, que ha sumado 23 puntos y mantiene una diferencia de goles de 4. Mushuc Runa ocupa la cuarta posición con 21 puntos y una diferencia de +5, mientras que Universidad Católica, con un partido menos, suma 20 puntos y tiene una diferencia de +6.
-
-Más abajo, **Barcelona SC** está en el **sexto puesto** con 20 puntos y una diferencia de +2. **Libertad y Delfín** se encuentran en el **séptimo y octavo lugar respectivamente**, ambos con 16 puntos, aunque Libertad tiene una diferencia de goles de -2 y Delfín de -3.
-
-Los equipos en los últimos lugares de esta fase enfrentan dificultades para avanzar en la tabla. **Deportivo Cuenca y Cumbayá** tienen 9 puntos cada uno, y **Emelec** cierra la clasificación con solo 7 puntos y una diferencia de goles de -7.
-
-Esta segunda fase es clave para los equipos que aspiran a mejorar su posición en la tabla acumulada o a evitar el descenso.
-
-> Tabla de posiciones de la [#LigaPro](https://twitter.com/hashtag/LigaPro?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/QjpX5jv5g0](https://t.co/QjpX5jv5g0)
-> 
-> — Orlando Silva (@osilvaca7) [November 4, 2024](https://twitter.com/osilvaca7/status/1853442392646467625?ref_src=twsrc%5Etfw)
-
-Tabla de posiciones acumulada de la LigaPro
--------------------------------------------
-
-**Independiente del Valle** ocupa el primer lugar en la tabla acumulada con **61 puntos**, después de disputar 27 partidos y con una diferencia de gol de +28. El equipo ha registrado 48 goles a favor y 20 en contra.
-
-Por su parte, **Liga de Quito** se ubica en la segunda posición con **56 puntos** y una diferencia de gol de +20, logrando también 48 goles a favor, pero con 28 en contra.
-
-**Barcelona SC** sigue en la tercera posición con **51 puntos**. El equipo ha marcado 42 goles y recibido 24, lo que le otorga una diferencia de +18 en su cuenta. **Universidad Católica** está en el cuarto puesto con 45 puntos, habiendo disputado un partido menos que los demás equipos en los primeros lugares. Su diferencia de goles es +17, con 52 goles a favor y 35 en contra.
-
-### Zona media de la tabla
-
-En la mitad de la tabla, se encuentran equipos como **SD Aucas y Mushuc Runa**, ambos con 39 puntos. SD Aucas posee una diferencia de gol de +5, mientras que **Mushuc Runa** cuenta con +4.
-
-Más abajo, con 38 puntos, está **Orense SC**, cuya diferencia de goles es -3, producto de sus 26 goles a favor y 29 en contra. **El Nacional** se encuentra en la octava posición con **36 puntos** y una diferencia de -1.
-
-**Emelec y Macará**, ambos con 32 puntos, ocupan el **noveno y décimo lugar respectivamente**. Emelec tiene una diferencia de goles de -2, mientras que **Macará** cuenta con -6 en su saldo de goles. Técnico Universitario sigue de cerca con 31 puntos y una diferencia de goles de 0.
-
-### Zona de descenso
-
-En la parte baja de la tabla, **Deportivo Cuenca y Delfín** suman 25 puntos cada uno. Deportivo Cuenca tiene una diferencia de goles de -2, mientras que Delfín presenta una diferencia negativa de -18.
-
-**Imbabura SC y Cumbayá** también están en la zona de riesgo con 23 puntos cada uno; **Imbabura** tiene una diferencia de -23 y **Cumbayá** de -19. En la última posición se encuentra **Libertad**, con 20 puntos y una diferencia de goles de -19, lo cual lo coloca en una situación comprometida respecto al descenso.
-
-Esta tabla acumulada muestra una **situación peleada en la parte alta**, mientras que en la zona baja, varios equipos luchan por **permanecer en la Serie A**.
-
-> 🇪🇨 [#LigaPro](https://twitter.com/hashtag/LigaPro?src=hash&ref_src=twsrc%5Etfw) TABLA ACUMULADA 2024 📈  
->   
-> ⌛️ Quedan tres fechas y se definen los clasificados a las copas y los dos descensos  
->   
-> ¡Mucho por definirse todavía! 💥 [pic.twitter.com/q6WFWZMkyQ](https://t.co/q6WFWZMkyQ)
-> 
-> — Diario Olé Ecuador (@DiarioOleEc) [November 3, 2024](https://twitter.com/DiarioOleEc/status/1853208501083898170?ref_src=twsrc%5Etfw)
-
-Próximos encuentros de la fecha 13 en la segunda fase de la LigaPro
--------------------------------------------------------------------
-
-La fecha 13 de la **segunda fase de la LigaPro 2024** presenta una serie de encuentros que serán determinantes para definir las posiciones finales. Los partidos iniciarán el viernes 8 de noviembre con el duelo entre **Delfín y Mushuc Runa**, programado para las 19:00.
-
-El sábado 9 de noviembre, **Universidad Católica se enfrentará a SD Aucas** a las 13:30.
-
-Más tarde, a las 16:00, **Macará recibirá a Emelec**. El cierre de la jornada del sábado será a las 19:00, con el enfrentamiento entre **Liga de Quito e Independiente del Valle**, un duelo clave entre los equipos que encabezan la tabla.
-
-El domingo 10 de noviembre, **El Nacional se medirá ante Libertad** a las 13:00, seguido por el partido entre **Orense SC y Técnico Universitario** a las 15:30. La jornada del domingo concluirá a las 18:00 con el encuentro entre **Barcelona SC y Cumbayá**.
-
-Finalmente, el lunes 11 de noviembre, **Imbabura SC recibirá a Deportivo Cuenca** a las 19:00, cerrando así la fecha 13 de la segunda fase.
-
-Estos partidos serán cruciales para los equipos que buscan mejorar sus posiciones en la **tabla acumulada** o asegurar sus puestos en la **clasificación de la segunda fase**.
-
-Sacerdote reportado como desaparecido fue hallado en Panzaleo
-=============================================================
-
-La Fiscalía informó sobre el religioso Enrique Fabián Arcos Sevilla este 4 de noviembre.
-----------------------------------------------------------------------------------------
-
-![El sacerdote Enrique Arcos se encontraba desaparecido.](https://www.elcomercio.com/wp-content/uploads/2024/11/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-3.jpg)
-
-El sacerdote **Enrique Fabián Arcos Sevilla**, reportado como desaparecido desde el 30 de octubre de 2024 en Ambato, ya fue localizado.
-
-La mañana de este lunes, 4 de noviembre de 2024, la **Fiscalía** informó sobre el desenlace de la búsqueda del religioso, tras cuatro días de labores. El punto final fue Panzaleo, provincia de Cotopaxi.
-
-### Más noticias
-
-* [Torrenciales lluvias en España dejan muertos, desaparecidos e inundaciones](https://www.elcomercio.com/actualidad/torrenciales-lluvias-en-espana-dejan-muertos-desaparecidos-e-inundaciones.html "Torrenciales lluvias en España dejan muertos, desaparecidos e inundaciones")
-* [Fiscalía exhumó 75 cadáveres en cementerio de Ambato](https://www.elcomercio.com/actualidad/ecuador/fiscalia-exhumacion-cadaveres-cementerio-ambato.html "Fiscalía exhumó 75 cadáveres en cementerio de Ambato")
-* [Policía localizó a 63 personas desaparecidas en Ecuador, ¿cuáles fueron las causas?](https://www.elcomercio.com/actualidad/seguridad/policia-localizo-63-personas-desaparecidas-ecuador-causas.html "Policía localizó a 63 personas desaparecidas en Ecuador, ¿cuáles fueron las causas?")
-
-> 🚨 AYÚDANOS A ENCONTRARLO 🚨  
->   
-> ARCOS SEVILLA ENRIQUE FABIÁN, reportado como desaparecido el 30 de octubre de 2024, en Ambato, [#Tungurahua](https://twitter.com/hashtag/Tungurahua?src=hash&ref_src=twsrc%5Etfw).  
->   
-> 📞 Si tienes información comunícate al 1800 DELITO (335486).[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/eGDyeXgctY](https://t.co/eGDyeXgctY)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [November 1, 2024](https://twitter.com/PoliciaEcuador/status/1852380525542936639?ref_src=twsrc%5Etfw)
-
-Sacerdote desaparecido en Ambato
---------------------------------
-
-Las autoridades hallaron el cuerpo sin vida del **sacerdote Enrique Fabián Arcos Sevilla**. La última vez que vieron con vida al hombre de 53 años fue en la ciudadela Cristóbal Colón, en Ambato.
-
-El día de la desaparición, el religioso conducía su **vehículo KIA** rojo con placas TBK-4069.
-
-Según se conoció, el **cadáver** presentaba rastros de violencia. Sin embargo, la Fiscalía aún no amplía la información con los detalles del hecho.
-
-El reporte
-----------
-
-La **Diócesis de Ambato** se pronunció cuando se dio la desaparición del sacerdote y emitió un comunicado oficial. En el documento, la institución confirmó la desaparición del padre Arcos Sevilla.
-
-La **organización religiosa,** a la par, pidió a los fieles mantenerse en oración. Además, se solicitó evitar rumores y especulaciones.
-
-Manta cumple 102 años y tiene un deseo: agua potable
-====================================================
-
-Manta celebra hoy 102 años de cantonización con sed. La ciudad, de 260 mil habitantes, sufrió la semana anterior la mayor escasez de agua de este 2024
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El megaparque de Manta será inaugurado este lunes 4 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-24.jpg)
-
-**Manta** celebra este lunes 4 de noviembre de 2024 102 años de **cantonización** con sed. La ciudad, de 260 000 habitantes, sufrió la semana anterior la **mayor escasez de agua potable** de este 2024, y aún no recupera el servicio de redistribución[.](https://es.wikipedia.org/wiki/Manta_(Ecuador) "https://es.wikipedia.org/wiki/Manta_(Ecuador)")
-
-### Más noticias
-
-* [Megaparque Centenario Agustín Intriago aporta al cambio en Manta](https://www.elcomercio.com/actualidad/ecuador/megaparque-centenario-agustin-intriago-siembra-cambio-manta.html "Megaparque Centenario Agustín Intriago aporta  al cambio en Manta")
-* [Llegada de cruceros a Manta dinamiza la economía de la región](https://www.elcomercio.com/actualidad/ecuador/cruceros-manta-temporada-economia.html "Llegada de cruceros a Manta dinamiza la economía de la región")
-
-Manta y el agua potable
------------------------
-
-Miguel Cevallos, gerente de la Empresa Pública Aguas de Manta, informó que el problema surgió por una **avería** en el sistema de bombeo **El Ceibal** y por eso el 70% de la población se quedó sin líquido. Y aunque ya repararon el daño, el servicio sigue con intermitencia en los barrios **bajos de Manta**, mientras que en la zona rural y en los sectores altos aún no se recupera el abastecimiento hasta la próxima semana.
-
-La falta de agua ha sido un problema eterno de Manta. Hace un **siglo**, sus pobladores traían el líquido en burros desde el **cerro de Montecristi,** ubicado a 12 kilómetros. Y actualmente la ciudad se provee desde el cantón **Rocafuerte**, donde cruza el río Portoviejo. Su estación de bombeo queda a 35 kilómetros.
-
-Manta sufre por el agua en **verano**, debido a los niveles bajos (55 centímetros) en los ríos donde se capta el líquido y en invierno por la **turbiedad** y palizadas que generan las lluvias. También existe la escasez por **daño en tuberías** y falta de mantenimiento de los equipos.  
-  
-Cevallos informó que los **cortes de luz** también han **afectado la distribución**. “Los barrios se abastecen de manera progresiva porque la recuperación total del agua toma entre 15 a 30 día”, explicó.
-
-Actualmente, algunas familias de la zona rural reciben el agua por medio de tanqueros de forma gratuita.  
-Manta también se abastece desde el acueducto **La Esperanza** que, pretendía enviar agua al fallido proyecto de la Refinería del Pacífico, pero el líquido se queda en el camino debido a que es captado, a través de pinchazos clandestinos, por agricultores de cinco cantones de Manabí. Por eso Manta ha puesto sus ojos al mar. Con un proyecto de 5.2 millones de dólares, pretende captar el agua del Océano Pacífico y potabilizarla para la población de la zona rural.
-
-Agua potable desde el mar
--------------------------
-
-Un estudio financiado por la **Agencia Francesa de Desarrollo** (AFD) determina que la desalinización es la solución para dotar de líquido a Manta y terminar con su problema eterno: la **escasez**. La alcaldesa de Manta, Marciana Valdivieso, cree que el **agua del Océano** es la **solución definitiva**. “Frente a la ciudad tenemos un gigantesco mar que será la fuente de captación para potabilizar el líquido”, expresó.
-
-Ella informó que la planta se construirá en la playa **La Tiñosa, al sur de Manta**, y comprenderá dos modulares desalinizadores. Dijo que el agua se potabilizará mediante una técnica denominada ósmosis inversa que elimina las partículas de sal y posteriormente la purifica.
-
-Este proyecto busca entregar agua a la zona rural y posteriormente, con la construcción de otras plantas, se pretende abastecer a toda la ciudad. “Le vamos a decir **adiós a un problema que lleva años**”, agregó. La construcción de las primeras plantas **desaladoras** se financiará con 5,2 millones de dólares entregados a la Alcaldía de Manta por el Comité de la Reconstrucción.
-
-Las fiestas de Manta
---------------------
-
-Hoy **Manta** celebra los 102 años de **cantonización** con un acto cívico que arrancó a las 08:40 en la avenida Malecón. Ocho horas después será la Sesión Solemne con el presidente **Daniel Noboa.** En el acto se inaugurará un megaparque, aún en construcción, que lleva el nombre del primer alcalde asesinado de Manta, **Agustín Intriago.**
-
-La obra se levanta a orillas del mar en 16 hectáreas y tendrá piletas, áreas verdes, un mirador y un teatro con capacidad para 4 500 personas. El parque se construye por un financiamiento de Petroecuador que donó **20 millones de dólares al Municipio de Manta** a cambio de que le exonerara los impuestos por 50 años.
-
-Siniestro de tránsito en Quito deja dos personas fallecidas este 4 de noviembre
-===============================================================================
-
-La mañana de este último día de feriado de Difuntos se registró un siniestro de tránsito.
------------------------------------------------------------------------------------------
-
-![Siniestro de tránsito se produjo en la av. Simón Bolívar.](https://www.elcomercio.com/wp-content/uploads/2024/11/siniestro-quito.jpg)
-
-En el último día de **feriado de Difuntos e Independencia de Cuenca**, un siniestro de tránsito se produjo en **Quito**, con un saldo mortal[.](https://es.wikipedia.org/wiki/Quito)
-
-El hecho ocurrió a las 06:20, de este lunes, 4 de noviembre de 2024, según el reporte del **Cuerpo de Bomberos**.
-
-### Más noticias
-
-* [10 fallecidos en siniestro de tránsito en Morona Santiago](https://www.elcomercio.com/actualidad/seguridad/fallecidos-siniestro-transito-morona-santiago.html "10 fallecidos en siniestro de tránsito en Morona Santiago")
-* [Siniestro de tránsito en la avenida Simón Bolívar deja cinco personas heridas](https://www.elcomercio.com/actualidad/quito/siniestro-transito-avenida-simon-bolivar-heridos.html "Siniestro de tránsito en la avenida Simón Bolívar deja cinco personas heridas")
-* [Así funciona el Pico y placa en Quito este lunes 4 de noviembre, en feriado](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-lunes-4-de-noviembre.html "Así funciona el Pico y placa en Quito este lunes 4 de noviembre, en feriado")
-
-> 💥🚗 [#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | Nuestro equipo atiende una emergencia por un siniestro de tránsito en la Av. Simón Bolívar, sector San Juan de Cumbayá, sentido sur – norte.  
->   
-> 🖤🖤 Lamentablemente, se registra dos personas fallecidas.  
->   
-> 🙏Por favor, conduce con precaución.[#BomberosQuito](https://twitter.com/hashtag/BomberosQuito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/FOJuRBsjKw](https://t.co/FOJuRBsjKw)
-> 
-> — Bomberos Quito (@BomberosQuito) [November 4, 2024](https://twitter.com/BomberosQuito/status/1853419659388760496?ref_src=twsrc%5Etfw)
-
-Siniestro de tránsito en Quito y personas fallecidas
-----------------------------------------------------
-
-El **siniestro de tránsito** ocurrió en la **av. Simón Bolívar**, a la altura de San Juan de Cumbayá. Hasta las 08:30, la vía, en sentido sur-norte, permanecía cerrada.
-
-Según información del **Cuerpo de Bomberos**, la restricción podría durar entre una y dos horas, debido al desarrollo de las pericias, como el levantamiento de los cuerpos de las ocupantes del vehículo.
-
-Al sitio, además, acudió personal de la **Policía Nacional**. Se verificó que se trató de un volcamiento de un camión pequeño que transportaba planchas de cartón.
-
-Detalles del siniestro
-----------------------
-
-El chasis del vehículo se desprendió producto del **siniestro**. En la cabina del automotor, los efectivos encontraron a las dos personas.
-
-En el lugar, los uniformados desarrollaron **maniobras de rescate** para extraer a las víctimas y entregarlas a Medicina Legal para los trámites legales pertinentes.
-
-Integrantes de la **Unidad Nacional de Investigación Operativa de Accidentología Vial de la Policía Nacional del Ecuador (SIAT)** acudieron para las investigaciones de la causa del siniestro de tránsito.
