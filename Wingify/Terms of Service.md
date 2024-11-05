@@ -162,6 +162,14 @@
     
     Webinars
     
+    [![Thejas Sridhar](https://static.wingify.com/gcp/uploads/2024/02/image.png?tr=w-60,h-50)
+    
+    Improve Experimentation Velocity by a Leap with AI-Powered Optimization](https://vwo.com/webinars/improve-experiment-velocity-leap-ai-powered-optimization/)
+    
+    [![Ajit Singh](https://static.wingify.com/gcp/uploads/2024/11/1516552969221.jpeg?tr=w-60,h-50)
+    
+    Supercharge Your HubSpot CRM: Unlocking Advanced CRO Capabilities with VWO Integration](https://vwo.com/webinars/supercharge-your-hubspot-crm-unlocking-advanced-cro-capabilities-with-vwo-integration/)
+    
     [![Michael Stineman](https://static.wingify.com/gcp/uploads/2024/10/mike-stineman-PREFERRED-019_modus_2017-1-1-scaled.jpg?tr=w-60,h-50)
     
     Use CRO Like the Pros: Surprising Ways to Nail Your CX](https://vwo.com/webinars/use-cro-like-pros-surprising-ways-nail-your-cx/)
@@ -173,14 +181,6 @@
     [![Ishan Goel](https://static.wingify.com/gcp/uploads/2023/12/speaker-17.png?tr=w-60,h-50)
     
     Fireside Chat: VWO’s Enhanced Stats Engine and More!](https://vwo.com/webinars/fireside-chat-vwo-enhanced-stats-engine-more/)
-    
-    [![Arjun Kunnath](https://static.wingify.com/gcp/uploads/2024/01/Screenshot-2024-01-29-at-7.39.27-PM.png?tr=w-60,h-50)
-    
-    Understanding What Your Visitors Truly Want With VWO Insights – Web](https://vwo.com/webinars/understanding-what-visitors-truly-want-vwo-insights-web/)
-    
-    [![Cameron Calder](https://static.wingify.com/gcp/uploads/2024/07/images.jpeg?tr=w-60,h-50)
-    
-    The No-Budget Conversion Blueprint: Leveraging What You Already Own](https://vwo.com/webinars/no-budget-conversion-blueprint-leveraging-what-already-own/)
     
     [View all webinars](https://vwo.com/webinars)
     
@@ -390,7 +390,7 @@
     
      [![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/learn-more/tab-4/heatmap.svg) Website Heatmaps](https://vwo.com/website-heatmap/)
     
-     [![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/learn-more/tab-4/server-side.svg) Server Side Testing](https://vwo.com/?page_id=15409)
+     [![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/learn-more/tab-4/server-side.svg) Server Side Testing](https://vwo.com/server-side-testing/)
     
      [![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/learn-more/tab-4/mobile-app.svg) Mobile App Testing](https://vwo.com/mobile-app-ab-testing/)
     
@@ -735,7 +735,7 @@ Guides
 * [Multivariate Testing](https://vwo.com/multivariate-testing/)
 
 * [Push Notifications](https://vwo.com/push-notifications/)
-* [Server Side Testing](https://vwo.com/?page_id=15409)
+* [Server Side Testing](https://vwo.com/server-side-testing/)
 * [Session Recording](https://vwo.com/session-recording/)
 * [Usability Testing](https://vwo.com/usability-testing/)
 * [Visitor Behavior Analysis](https://vwo.com/visitor-behavior-analysis/)
