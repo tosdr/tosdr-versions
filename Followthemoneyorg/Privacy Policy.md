@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Gun-Control Groups Loaded in Washington State](/assets/Images/teasers/full/WA-Gun-Control-Measures-2014.png)](http://www.followthemoney.org/research/blog/gun-control-groups-loaded-in-washington-state/)
+[![pro-guncontrol](/assets/logos/NRAGunGIvingProCon201112.png)](http://www.followthemoney.org/research/institute-research/nra-direct-contributions-decline)
+
+Pro-gun-control was dramatically outspent, 2011-12.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
