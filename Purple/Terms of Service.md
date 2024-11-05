@@ -468,7 +468,7 @@ Email
 
 [](https://www.youtube.com/purple)
 
-[](https://twitter.com/Purple)
+[](https://x.com/Purple)
 
 Still have questions? Our Sleep Geniuses are here to help.
 
