@@ -2,7 +2,7 @@
 
   [Distributions](https://fosstorrents.com/distributions/)   [Games](https://fosstorrents.com/games/)   [Software](https://fosstorrents.com/softwares/)   [Search for a Project](https://fosstorrents.com/search/)
 
-[@FossTorrents](https://twitter.com/FossTorrents) [Like us on Facebook](https://www.facebook.com/FossTorrent/) [Join us on Discord](https://discord.gg/XCghTpd) [Latest Releases](https://fosstorrents.com/feed/)[$642.07 CAD (incomes)
+[@FossTorrents](https://twitter.com/FossTorrents) [@FossTorrents](https://bsky.app/profile/fosstorrents.bsky.social) [Join us on Discord](https://discord.gg/XCghTpd) [Latest Releases](https://fosstorrents.com/feed/)[$642.07 CAD (incomes)
 
 2024 Operation Costs
 
@@ -160,14 +160,14 @@ Our representative for all data privacy matters is Mr Cajetan Bouchard and can b
 ### Stay in the Loop
 
 *   [X (ex-Twitter)](https://twitter.com/FossTorrents)
-*   [Facebook](https://www.facebook.com/FossTorrent/)
+*   [Bluesky](https://bsky.app/profile/fosstorrents.bsky.social)
 *   [RSS Feeds](https://fosstorrents.com/feed/)
 *   [Discord](https://discord.gg/XCghTpd)
 *   [Patreon](https://www.patreon.com/fosstorrents)
 *   [Ko-fi](https://ko-fi.com/foss_torrents)
 
 * Follow us on X
-* Follow us on Facebook
+* Follow us on Bluesky
 * Stay updated
 * Chat with us
 * Support us on Patreon
