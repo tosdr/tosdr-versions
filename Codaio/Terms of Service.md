@@ -80,7 +80,7 @@ FEATURED](https://coda.io/resources/webinars)
 
 Connect
 
-[Help center](https://help.coda.io/)[Coda community](https://community.coda.io/)[Hire an expert](https://coda.io/partners/hire-an-expert)[Partner with us](https://coda.io/partners)
+[Help center](https://help.coda.io/)[Coda community](https://community.coda.io/)[Hire a services partner](https://coda.io/partners/hire-a-services-partner)[Partner with us](https://coda.io/partners)
 
 Extend
 
