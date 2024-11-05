@@ -103,7 +103,7 @@ Your use of the Website shall be deemed to constitute your consent to be bound b
     
     We will not be responsible or liable to you or to any third party for the content or accuracy of Your Content. Oral Care Products has the right, but not the obligation, to monitor and edit or remove any activity or content. Oral Care Products takes no responsibility and assumes no liability for Your Content or for any of Your Content posted by a third party.
     
-    Consent to tracking technologies. You consent to the use of tracking technologies on the Website to collect and record your real-time activities and movements across the Website throughout your browsing session, including to track clicks/touches, mouse movements, scrolling, keystrokes, data entered, device information and orientation, and screen size (“session data”), for purposes of our own internal analytics and improving our products, services, and user experience. You also consent our sharing of your session data with our third party service providers for these purposes. Please review our [Privacy Policy](https://www.smileactives.com/privacy-policy.html#Technology_Utilized) for more information about our collection, use, and sharing of session data.
+    Consent to tracking technologies. You consent to the use of tracking technologies on the Website to collect and record your real-time activities and movements across the Website throughout your browsing session, including to track clicks/touches, mouse movements, scrolling, keystrokes, data entered, device information and orientation, and screen size (“session data”), for purposes of our own internal analytics and improving our products, services, and user experience. You also consent our sharing of your session data with our third party service providers for these purposes. Please review our [Privacy Policy](https://smileactives.com/policies/privacy-policy.html#Technology_Utilized) for more information about our collection, use, and sharing of session data.
     
 3. User Conduct
     
@@ -264,7 +264,7 @@ Not all mobile devices or wireless carriers may be supported by our Service and 
 
 To the extent permitted by applicable law, you agree that we will not be liable for failed, delayed, or misdirected delivery of any information sent through the Service, any errors in such information, and/or any action you may or may not take in reliance on the information or Service.
 
-We respect your right to privacy. To see how we collect and use your personal information, please see our [Privacy Policy.](https://www.smileactives.com/privacy-policy)
+We respect your right to privacy. To see how we collect and use your personal information, please see our [Privacy Policy.](https://smileactives.com/policies/privacy-policy.html)
 
 24. **Exclusive Venue for Other Controversies**
 
