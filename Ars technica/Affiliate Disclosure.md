@@ -83,17 +83,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: China’s long-term lunar plans now depend on developing its own Starship](https://cdn.arstechnica.net/wp-content/uploads/2024/11/weibo-LM-9-768x432-1730734778.jpg)](https://arstechnica.com/space/2024/11/chinas-long-term-lunar-plans-now-depend-on-developing-its-own-starship/)
+1. [![Listing image for first story in Most Read: Drugmaker shut down after black schmutz found in injectable weight-loss drug](https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-521777312-768x432.jpg)](https://arstechnica.com/health/2024/11/drugmaker-shut-down-after-black-schmutz-found-in-injectable-weight-loss-drug/)
     
-    1. [China’s long-term lunar plans now depend on developing its own Starship](https://arstechnica.com/space/2024/11/chinas-long-term-lunar-plans-now-depend-on-developing-its-own-starship/)
+    1. [Drugmaker shut down after black schmutz found in injectable weight-loss drug](https://arstechnica.com/health/2024/11/drugmaker-shut-down-after-black-schmutz-found-in-injectable-weight-loss-drug/)
     
-2. 2. [Drugmaker shut down after black schmutz found in injectable weight-loss drug](https://arstechnica.com/health/2024/11/drugmaker-shut-down-after-black-schmutz-found-in-injectable-weight-loss-drug/)
+2. 2. [China’s long-term lunar plans now depend on developing its own Starship](https://arstechnica.com/space/2024/11/chinas-long-term-lunar-plans-now-depend-on-developing-its-own-starship/)
     
-3. 3. [Laptop, smartphone, and game console prices could soar after the election](https://arstechnica.com/tech-policy/2024/11/laptop-smartphone-and-game-console-prices-could-soar-after-the-election/)
+3. 3. [Guy makes “dodgy e-bike” from 130 used vapes to make point about e-waste](https://arstechnica.com/gadgets/2024/11/disposable-vapes-from-a-music-festival-can-power-a-beefy-e-bike-20-miles/)
     
-4. 4. [Guy makes “dodgy e-bike” from 130 used vapes to make point about e-waste](https://arstechnica.com/gadgets/2024/11/disposable-vapes-from-a-music-festival-can-power-a-beefy-e-bike-20-miles/)
+4. 4. [Hundreds of code libraries posted to NPM try to install malware on dev machines](https://arstechnica.com/security/2024/11/javascript-developers-targeted-by-hundreds-of-malicious-code-libraries/)
     
-5. 5. [Endangered bees stop Meta’s plan for nuclear-powered AI data center](https://arstechnica.com/ai/2024/11/endangered-bees-stop-metas-plan-for-nuclear-powered-ai-data-center/)
+5. 5. [Laptop, smartphone, and game console prices could soar after the election](https://arstechnica.com/tech-policy/2024/11/laptop-smartphone-and-game-console-prices-could-soar-after-the-election/)
     
 
 Customize
