@@ -10,7 +10,7 @@ Solutions
 
 [Financial Services](https://flourish.studio/solutions/financial-services) [Professional Services](https://flourish.studio/solutions/professional-services) [Newsrooms](https://flourish.studio/solutions/newsrooms) [Marketing](https://flourish.studio/solutions/marketing) [Nonprofits](https://flourish.studio/solutions/not-for-profit) [Government](https://flourish.studio/solutions/government)
 
-**Usecases**
+**Use cases**
 
 [Elections and polling](https://flourish.studio/resources/elections) [Sports and competitions](https://flourish.studio/resources/sports) [Maps](https://flourish.studio/visualisations/maps) [Survey responses](https://flourish.studio/resources/visualize-survey-data) [Scrollytelling](https://flourish.studio/visualisations/scrollytelling)
 
