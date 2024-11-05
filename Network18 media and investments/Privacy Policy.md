@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Tue, Nov 05, 2024
+Wed, Nov 06, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,11 +128,11 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Trump vs Harris](https://www.news18.com/world/us-elections-2024-race-to-270-electoral-votes-these-are-the-key-states-that-trump-and-harris-must-win-9109713.html)
-    * [US Presidential Elections](https://www.news18.com/world/us-presidential-elections-2024-voting-kamala-harris-donald-trump-ballots-swing-states-november-5-and-6-latest-news-liveblog-9109219.html)
-    * [Aishwarya Rai](https://www.news18.com/movies/when-aishwarya-rai-spoke-about-overcoming-challenges-with-abhishek-if-you-can-shut-the-chapter-9109158.html)
-    * [Imane Khelif](https://www.news18.com/sports/imane-khelif-paris-olympics-gold-medallist-algerian-boxer-identified-as-man-in-leaked-medical-report-9109316.html)
-    * [Meenakshi Seshadri](https://www.news18.com/movies/meenakshi-seshadri-says-rahul-rawail-made-me-cry-refused-to-give-me-my-price-for-sunny-deols-dacait-9108334.html)
+    * [US Election Results Live](https://www.news18.com/world/us-presidential-elections-2024-voting-kamala-harris-donald-trump-ballots-swing-states-november-5-and-6-latest-news-liveblog-9109219.html)
+    * [Trump vs Harris](https://www.news18.com/world/trump-vs-harris-historic-firsts-they-could-achieve-with-us-election-victory-9110062.html)
+    * [Delhi School Holidays](https://www.news18.com/education-career/delhi-school-holidays-educational-institutions-likely-to-be-closed-due-to-pollution-9109503.html)
+    * [Anushka Sharma](https://www.news18.com/movies/anushka-sharma-shares-son-akaays-first-photo-on-virat-kohlis-birthday-he-holds-him-vamika-close-9109828.html)
+    * [Khushi Kapoor](https://www.news18.com/web-stories/entertainment/khushi-kapoor-turns-24-7-of-her-family-photos-with-janhvi-kapoor-and-boney-kapoor-2585804/)
     * [Citadel: Honey Bunny](https://www.news18.com/movies/citadel-honey-bunny-first-review-out-samantha-ruth-prabhu-varun-dhawan-deliver-a-blockbuster-series-9109319.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -169,11 +169,11 @@ Follow us on
 
 In Trends:
 
-* [Trump vs Harris](https://www.news18.com/world/us-elections-2024-race-to-270-electoral-votes-these-are-the-key-states-that-trump-and-harris-must-win-9109713.html)
-* [US Presidential Elections](https://www.news18.com/world/us-presidential-elections-2024-voting-kamala-harris-donald-trump-ballots-swing-states-november-5-and-6-latest-news-liveblog-9109219.html)
-* [Aishwarya Rai](https://www.news18.com/movies/when-aishwarya-rai-spoke-about-overcoming-challenges-with-abhishek-if-you-can-shut-the-chapter-9109158.html)
-* [Imane Khelif](https://www.news18.com/sports/imane-khelif-paris-olympics-gold-medallist-algerian-boxer-identified-as-man-in-leaked-medical-report-9109316.html)
-* [Meenakshi Seshadri](https://www.news18.com/movies/meenakshi-seshadri-says-rahul-rawail-made-me-cry-refused-to-give-me-my-price-for-sunny-deols-dacait-9108334.html)
+* [US Election Results Live](https://www.news18.com/world/us-presidential-elections-2024-voting-kamala-harris-donald-trump-ballots-swing-states-november-5-and-6-latest-news-liveblog-9109219.html)
+* [Trump vs Harris](https://www.news18.com/world/trump-vs-harris-historic-firsts-they-could-achieve-with-us-election-victory-9110062.html)
+* [Delhi School Holidays](https://www.news18.com/education-career/delhi-school-holidays-educational-institutions-likely-to-be-closed-due-to-pollution-9109503.html)
+* [Anushka Sharma](https://www.news18.com/movies/anushka-sharma-shares-son-akaays-first-photo-on-virat-kohlis-birthday-he-holds-him-vamika-close-9109828.html)
+* [Khushi Kapoor](https://www.news18.com/web-stories/entertainment/khushi-kapoor-turns-24-7-of-her-family-photos-with-janhvi-kapoor-and-boney-kapoor-2585804/)
 * [Citadel: Honey Bunny](https://www.news18.com/movies/citadel-honey-bunny-first-review-out-samantha-ruth-prabhu-varun-dhawan-deliver-a-blockbuster-series-9109319.html)
 
 * Follow Us
@@ -302,7 +302,7 @@ If you have questions or concerns about this Policy, please contact Network18 at
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Nov 05, 2024
+Nov 06, 2024
 
 [View All](https://www.news18.com/short-news/)
 
@@ -327,9 +327,9 @@ Latest Blogs
 
 Trending Topics
 
-* [Diwali 2024](https://www.news18.com/topics/diwali/)
-* [US Elections 2024](https://www.news18.com/topics/us-election-2024/)
+* [US Election Results Live](https://www.news18.com/world/us-presidential-elections-2024-voting-kamala-harris-donald-trump-ballots-swing-states-november-5-and-6-latest-news-liveblog-9109219.html)
 * [Maharashtra Elections](https://www.news18.com/elections/)
+* [Diwali 2024](https://www.news18.com/topics/diwali/)
 * [Lawrence Bishnoi](https://www.news18.com/topics/lawrence-bishnoi/)
 * [Salman Khan](https://www.news18.com/topics/salman-khan/)
 * [Shraddha Kapoor](https://www.news18.com/topics/shraddha-kapoor/)
