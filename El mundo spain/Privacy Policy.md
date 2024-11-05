@@ -1,18 +1,20 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZykkSAoAAVAAAABbrs8)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=Zyl4MwoAAVEAAABc4wE)
 
 Es noticia
 
+* [Rambla del Poyo](https://www.elmundo.es/comunidad-valenciana/2024/11/04/67291105e4d4d809668b4581.html)
 * [DANA](https://www.elmundo.es/espana/2024/11/04/672864141ee97cbdb66df4f0-directo.html)
 * [Rubén Gisbert](https://www.elmundo.es/television/2024/11/04/67289c6cfdddffbb678b457f.html)
 * [Carlos Mazón](https://www.elmundo.es/comunidad-valenciana/2024/11/04/6728b81afc6c83f32a8b457d.html)
 * [Sumar](https://www.elmundo.es/espana/2024/11/04/6728d7fafc6c8340308b458c.html)
 * [Inundaciones Cataluña](https://www.elmundo.es/cataluna/2024/11/04/67288a5821efa069498b4585.html)
 * [Elecciones Estados Unidos](https://www.elmundo.es/como/2024/11/04/6728ef65e4d4d8b10d8b4578.html)
-* [Donald Trump](https://www.elmundo.es/yodona/actualidad/2024/11/03/67234341fdddff296a8b4580.html)
+* [Donald Trump](https://www.elmundo.es/internacional/2024/11/04/672921a6e85ece2b398b4589.html)
 * [Ganador elecciones EEUU](https://www.elmundo.es/internacional/2024/11/04/672898f1e4d4d80c338b458d.html)
 * [Amancio Ortega](https://www.elmundo.es/economia/empresas/2024/11/04/672906cee9cf4a3b1c8b4590.html)
 * [Ana Botín](https://www.elmundo.es/economia/empresas/2024/11/04/6728fb65e9cf4ace628b458e.html)
 * [Volkswagen](https://www.elmundo.es/economia/empresas/2024/11/04/6728e80921efa05d078b45a0.html)
+* [Paz Padilla](https://www.elmundo.es/loc/2024/11/04/67293219e9cf4a242b8b456e.html)
 * [Empate Trump Kamala Harris](https://www.elmundo.es/elecciones/elecciones-estados-unidos/2024/11/04/6728efbce9cf4a3b1c8b4581.html)
 * [Pasapalabra](https://www.elmundo.es/television/2024/11/04/6728a46e21efa0c7028b4582.html)
 * [Quincy Jones](https://www.elmundo.es/cultura/musica/2024/11/04/67287f65fdddff5f688b4584.html)
