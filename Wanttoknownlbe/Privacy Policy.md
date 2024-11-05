@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/nederlandse-bilderberggroep-in-de-schijnwerpers/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/even-een-overzichtje/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
