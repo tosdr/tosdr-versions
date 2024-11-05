@@ -30,7 +30,7 @@ Detection of data breaches that involve your personal information.](https://surf
 
 [Alternative ID
 
-A tool that creates a brand-new online identity & email for you.](https://surfshark.com/alternative-id)
+A tool that creates a brand-new online identity, email, & number for you.](https://surfshark.com/alternative-id)
 
 OTHER PRODUCTS
 
@@ -46,7 +46,7 @@ Resources
 
 [About us](https://surfshark.com/about-us)
 
-[Trust Center](https://surfshark.com/trust-center)[Media Center](https://surfshark.com/press)[Career](https://surfshark.com/career)
+[Corporate Social Responsibility](https://surfshark.com/corporate-social-responsibility)[Trust center](https://surfshark.com/trust-center)[Media center](https://surfshark.com/press)[Career](https://surfshark.com/career)
 
 [Blog](https://surfshark.com/blog)
 
@@ -54,11 +54,11 @@ Resources
 
 [Research](https://surfshark.com/research)
 
-[Digital Quality of Life Index 2023](https://surfshark.com/dql2023)[Data breach world map](https://surfshark.com/research/data-breach-monitoring)[Internet shutdowns tracker](https://surfshark.com/research/internet-censorship)[Smart Home Privacy Checker](https://surfshark.com/research/smart-homes)[Data vulnerability thermometer](https://surfshark.com/research/data-breach-impact)
+[Digital Quality of Life Index](https://surfshark.com/dql2023)[Global Data Breach Statistics](https://surfshark.com/research/data-breach-monitoring)[Internet Shutdown Tracker](https://surfshark.com/research/internet-censorship)[Smart Home Privacy Checker](https://surfshark.com/research/smart-homes)[Data Vulnerability Thermometer](https://surfshark.com/research/data-breach-impact)
 
 [Help Center](https://support.surfshark.com/hc/en-us)
 
-[VPN Guides](https://support.surfshark.com/hc/en-us/categories/4412444966930-VPN-Guides)[Surfshark One](https://support.surfshark.com/hc/en-us/categories/4414393390098-Surfshark-One)[My Account](https://support.surfshark.com/hc/en-us/categories/4414393406866-My-Account)
+[VPN guides](https://support.surfshark.com/hc/en-us/categories/4412444966930-VPN-Guides)[Surfshark One](https://support.surfshark.com/hc/en-us/categories/4414393390098-Surfshark-One)[My account](https://support.surfshark.com/hc/en-us/categories/4414393406866-My-Account)
 
 [VPN for Teams](https://surfshark.com/for-teams)
 
@@ -94,7 +94,7 @@ Detection of data breaches that involve your personal information.](https://surf
 
 [Alternative ID
 
-A tool that creates a brand-new online identity & email for you.](https://surfshark.com/alternative-id)
+A tool that creates a brand-new online identity, email, & number for you.](https://surfshark.com/alternative-id)
 
 OTHER PRODUCTS
 
@@ -110,7 +110,7 @@ Resources
 
 [About us](https://surfshark.com/about-us)
 
-[Trust Center](https://surfshark.com/trust-center)[Media Center](https://surfshark.com/press)[Career](https://surfshark.com/career)
+[Corporate Social Responsibility](https://surfshark.com/corporate-social-responsibility)[Trust center](https://surfshark.com/trust-center)[Media center](https://surfshark.com/press)[Career](https://surfshark.com/career)
 
 [Blog](https://surfshark.com/blog)
 
@@ -118,11 +118,11 @@ Resources
 
 [Research](https://surfshark.com/research)
 
-[Digital Quality of Life Index 2023](https://surfshark.com/dql2023)[Data breach world map](https://surfshark.com/research/data-breach-monitoring)[Internet shutdowns tracker](https://surfshark.com/research/internet-censorship)[Smart Home Privacy Checker](https://surfshark.com/research/smart-homes)[Data vulnerability thermometer](https://surfshark.com/research/data-breach-impact)
+[Digital Quality of Life Index](https://surfshark.com/dql2023)[Global Data Breach Statistics](https://surfshark.com/research/data-breach-monitoring)[Internet Shutdown Tracker](https://surfshark.com/research/internet-censorship)[Smart Home Privacy Checker](https://surfshark.com/research/smart-homes)[Data Vulnerability Thermometer](https://surfshark.com/research/data-breach-impact)
 
 [Help Center](https://support.surfshark.com/hc/en-us)
 
-[VPN Guides](https://support.surfshark.com/hc/en-us/categories/4412444966930-VPN-Guides)[Surfshark One](https://support.surfshark.com/hc/en-us/categories/4414393390098-Surfshark-One)[My Account](https://support.surfshark.com/hc/en-us/categories/4414393406866-My-Account)
+[VPN guides](https://support.surfshark.com/hc/en-us/categories/4412444966930-VPN-Guides)[Surfshark One](https://support.surfshark.com/hc/en-us/categories/4414393390098-Surfshark-One)[My account](https://support.surfshark.com/hc/en-us/categories/4414393406866-My-Account)
 
 [VPN for Teams](https://surfshark.com/for-teams)
 
@@ -429,14 +429,14 @@ Programs
 
 Tools
 
-* [What is my IP](https://surfshark.com/what-is-my-ip)
+* [What is my IP?](https://surfshark.com/what-is-my-ip)
 * [DNS leak test](https://surfshark.com/dns-leak-test)
 * [WebRTC leak test](https://surfshark.com/webrtc-leak-test)
 * [Data Leak Checker](https://surfshark.com/alert/data-leak-checker)
 
 Support
 
-* [Help center](https://support.surfshark.com/hc/en-us)
+* [Help Center](https://support.surfshark.com/hc/en-us)
 * [Setup guides](https://support.surfshark.com/hc/en-us/sections/4414400041362-Applications)
 
 [Windows](https://surfshark.com/download/windows)
@@ -459,7 +459,7 @@ Support
 
 [Fire TV](https://surfshark.com/download/amazon-fire-tv)
 
-[Facebook](https://www.facebook.com/SurfsharkPrivacy/)[X (Twitter)](https://x.com/surfshark)[Instagram](https://www.instagram.com/surfshark/)[Youtube](https://www.youtube.com/channel/UCEFFKGOqb1Mtvj3g3gjc6tQ)[Reddit](https://www.reddit.com/r/surfshark/)[TikTok](https://www.tiktok.com/@surfshark)[Pinterest](https://www.pinterest.com/surfsharkVPN/)[Naver](https://blog.naver.com/surfshark_korea)
+[Facebook](https://www.facebook.com/SurfsharkPrivacy/)[X (Twitter)](https://x.com/surfshark)[Threads](https://www.threads.net/@surfshark/)[Instagram](https://www.instagram.com/surfshark/)[Youtube](https://www.youtube.com/channel/UCEFFKGOqb1Mtvj3g3gjc6tQ)[Reddit](https://www.reddit.com/r/surfshark/)[TikTok](https://www.tiktok.com/@surfshark)[Naver](https://blog.naver.com/surfshark_korea)
 
 Mastercard
 
@@ -485,4 +485,4 @@ EnglishDeutschEspañolFrançaisItalianoNederlandsPolskiPortuguêsSuomiTürkçeР
 
 Surfshark B.V., KvK number: 81967985, address: Kabelweg 57, 1014BA Amsterdam, the Netherlands, VAT number NL862287339B01
 
-[Privacy policy](https://surfshark.com/privacy)•[Terms & conditions](https://surfshark.com/terms-of-service)
+[Privacy Policy](https://surfshark.com/privacy)•[Terms of Service](https://surfshark.com/terms-of-service)
