@@ -130,7 +130,11 @@ Bombeiros resgatam cinco pessoas que ficaram isoladas em ilha de Barra Nova](htt
 
 [Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
 
-   [![Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/b/csm_Noah_Verde_234e420532.jpeg)
+   [![Estilo e solidariedade: 10° edição do brechó Luxo no Cabide começa nesta terça-feira, 5](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/c/csm_brecho-destaque-01_4c2c8d742d.jpeg)
+
+Pessoas & Negócios
+
+Estilo e solidariedade: 10° edição do brechó Luxo no Cabide começa nesta terça-feira, 5](https://www.tnh1.com.br/noticia/nid/estilo-e-solidariedade-10-edicao-do-brecho-luxo-no-cabide-comeca-nesta-terca-feira-5/ "Estilo e solidariedade: 10° edição do brechó Luxo no Cabide começa nesta terça-feira, 5")   [![Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/b/csm_Noah_Verde_234e420532.jpeg)
 
 Pessoas & Negócios
 
@@ -208,7 +212,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/1/csm_Record_Time_Transmissao_2f56fe245b.jpg)
+[![Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/1/csm_Record_Time_Transmissao_2f56fe245b.jpg)
 
 Futebol Nacional
 
@@ -216,7 +220,7 @@ Futebol Nacional
 
 Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025
 
-Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025](https://www.tnh1.com.br/noticia/nid/record-monta-time-de-estrelas-para-transmissao-do-paulistao-e-brasileirao-em-2025/ "Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025")[![Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/6/csm_Duplo_Homicidio_Murici_5cdb5404cd.jpg)
+Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025](https://www.tnh1.com.br/noticia/nid/record-monta-time-de-estrelas-para-transmissao-do-paulistao-e-brasileirao-em-2025/ "Record monta time de estrelas para transmissão do Paulistão e Brasileirão em 2025")[![Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/6/csm_Duplo_Homicidio_Murici_5cdb5404cd.jpg)
 
 Polícia
 
@@ -224,15 +228,7 @@ Polícia
 
 Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici
 
-Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici](https://www.tnh1.com.br/noticia/nid/apos-discussao-por-som-alto-tio-e-sobrinho-de-17-anos-sao-assassinados-a-tiros-em-murici/ "Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici")[![Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/e/csm_Suspeito_Esturpo_Espancamento_c04c3f904d.jpg)
-
-Polícia
-
-Polícia
-
-Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho
-
-Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho](https://www.tnh1.com.br/noticia/nid/suspeito-de-estuprar-crianca-de-10-anos-e-espancado-por-populares-no-jacintinho/ "Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho")[![CSA anuncia contratação de atacante alagoano; veja elenco até o momento](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/8/csm_CSA-contrata-Klenisson_7fa975e925.jpg)
+Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici](https://www.tnh1.com.br/noticia/nid/apos-discussao-por-som-alto-tio-e-sobrinho-de-17-anos-sao-assassinados-a-tiros-em-murici/ "Após discussão por som alto, tio e sobrinho de 17 anos são assassinados a tiros em Murici")[![CSA anuncia contratação de atacante alagoano; veja elenco até o momento](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/8/csm_CSA-contrata-Klenisson_7fa975e925.jpg)
 
 Temporada 2025
 
@@ -240,9 +236,17 @@ Temporada 2025
 
 CSA anuncia contratação de atacante alagoano; veja elenco até o momento
 
-CSA anuncia contratação de atacante alagoano; veja elenco até o momento](https://www.tnh1.com.br/noticia/nid/csa-anuncia-contratacao-de-atacante-alagoano-veja-elenco-ate-o-momento/ "CSA anuncia contratação de atacante alagoano; veja elenco até o momento")
+CSA anuncia contratação de atacante alagoano; veja elenco até o momento](https://www.tnh1.com.br/noticia/nid/csa-anuncia-contratacao-de-atacante-alagoano-veja-elenco-ate-o-momento/ "CSA anuncia contratação de atacante alagoano; veja elenco até o momento")[![Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/e/csm_Suspeito_Esturpo_Espancamento_c04c3f904d.jpg)
 
-[![PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/e/csm_pm-apreende-drogas-e-prende-autor-de-violencia-domestica-durante-acoes-no-agreste-e-sertao_32e6835f79.jpeg)
+Polícia
+
+Polícia
+
+Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho
+
+Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho](https://www.tnh1.com.br/noticia/nid/suspeito-de-estuprar-crianca-de-10-anos-e-espancado-por-populares-no-jacintinho/ "Suspeito de estuprar criança de 10 anos é espancado por populares no Jacintinho")
+
+[![PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/e/csm_pm-apreende-drogas-e-prende-autor-de-violencia-domestica-durante-acoes-no-agreste-e-sertao_32e6835f79.jpeg)
 
 Polícia
 
@@ -250,7 +254,7 @@ Polícia
 
 PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão
 
-PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão](https://www.tnh1.com.br/noticia/nid/pm-apreende-drogas-e-prende-autor-de-violencia-domestica-durante-acoes-no-agreste-e-sertao/ "PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão")[![Guerreiros da Criação: maior prêmio da publicidade alagoana abre inscrições](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/7/csm_premiacao_guerreiros_da_criacao_2_foto_matheus_azevedo_tnh1_564941a91d.jpeg)
+PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão](https://www.tnh1.com.br/noticia/nid/pm-apreende-drogas-e-prende-autor-de-violencia-domestica-durante-acoes-no-agreste-e-sertao/ "PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão")[![Guerreiros da Criação: maior prêmio da publicidade alagoana abre inscrições](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/7/csm_premiacao_guerreiros_da_criacao_2_foto_matheus_azevedo_tnh1_564941a91d.jpeg)
 
 Geral
 
@@ -258,7 +262,7 @@ Geral
 
 Guerreiros da Criação: maior prêmio da publicidade alagoana abre inscrições
 
-Guerreiros da Criação: maior prêmio da publicidade alagoana abre inscrições](https://www.tnh1.com.br/noticia/nid/guerreiros-da-criacao-maior-premio-da-publicidade-alagoana-abre-inscricoes/ "Guerreiros da Criação: maior prêmio da publicidade alagoana abre inscrições")[![Governo abre processo contra Tiktok para impedir acesso de crianças à plataforma](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/6/csm_tik-tok-foto_Pixabay_c5ad3f3fde.jpg)
+Guerreiros da Criação: maior prêmio da publicidade alagoana abre inscrições](https://www.tnh1.com.br/noticia/nid/guerreiros-da-criacao-maior-premio-da-publicidade-alagoana-abre-inscricoes/ "Guerreiros da Criação: maior prêmio da publicidade alagoana abre inscrições")[![Governo abre processo contra Tiktok para impedir acesso de crianças à plataforma](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/6/csm_tik-tok-foto_Pixabay_c5ad3f3fde.jpg)
 
 rede social
 
@@ -266,7 +270,7 @@ rede social
 
 Governo abre processo contra Tiktok para impedir acesso de crianças à plataforma
 
-Governo abre processo contra Tiktok para impedir acesso de crianças à plataforma](https://www.tnh1.com.br/noticia/nid/governo-abre-processo-contra-tiktok-para-impedir-acesso-de-criancas-a-plataforma/ "Governo abre processo contra Tiktok para impedir acesso de crianças à plataforma")[![Neymar sai machucado em partida do Al-Hilal no 2º jogo após volta de lesão](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/5/csm_Neymar_lesao_-_foto_Reproducao_68c811b578.jpg)
+Governo abre processo contra Tiktok para impedir acesso de crianças à plataforma](https://www.tnh1.com.br/noticia/nid/governo-abre-processo-contra-tiktok-para-impedir-acesso-de-criancas-a-plataforma/ "Governo abre processo contra Tiktok para impedir acesso de crianças à plataforma")[![Neymar sai machucado em partida do Al-Hilal no 2º jogo após volta de lesão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/5/csm_Neymar_lesao_-_foto_Reproducao_68c811b578.jpg)
 
 Champions da Ásia
 
