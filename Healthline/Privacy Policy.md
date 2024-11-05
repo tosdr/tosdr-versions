@@ -190,15 +190,6 @@
 
 Subscribe
 
-[#### Chronic Kidney Disease](https://www.healthline.com/ckd)
-
-* [Early Stage](https://www.healthline.com/ckd/early-stage)
-* [Late Stage](https://www.healthline.com/ckd/late-stage)
-* [Navigating Dialysis](https://www.healthline.com/ckd/dialysis)
-* [Other Treatment Options](https://www.healthline.com/ckd/treatment)
-* [Mental Well-Being](https://www.healthline.com/ckd/mental-well-being)
-* [Diet & Lifestyle](https://www.healthline.com/ckd/diet-lifestyle)
-
 Privacy Policy
 ==============
 
