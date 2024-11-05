@@ -758,9 +758,10 @@ Still have questions?
 * ### Connect with us
     
 
-* * [Facebook](https://www.facebook.com/Eventbrite)
+* * [X](https://www.x.com/eventbritehelp)
+    * [Facebook](https://www.facebook.com/Eventbrite)
     * [Instagram](https://www.instagram.com/eventbrite/)
-    * [X](https://twitter.com/eventbrite)
+    * [TikTok](https://www.tiktok.com/@eventbrite)
     * [Contact support](https://www.eventbrite.com/help/en-us/contact-us/)
 
 * © 2024 Eventbrite
