@@ -273,6 +273,16 @@ Main
             * [Videos](https://info.badgr.com/resources/videos)
             * [All Resources](https://info.badgr.com/resources)
     * Column
+        *   ![Trends and Insights from K-12 to Career: The Lifelong Learning Report](/sites/default/files/styles/small_hq/public/image/2024-10/2024_Lifelong-Learning-Report-Web-Images-07-min.png?itok=QnR9ZAD-)
+            
+            Lifelong Learning Report:
+            
+            #### 
+            
+            Trends and Insights from K-12 to Career
+            
+            [Read the Report](https://info.badgr.com/research/lifelong-learning)
+            
 * News & Events
     * Column
         * Events
@@ -524,6 +534,16 @@ Main
             * [Videos](https://info.badgr.com/resources/videos)
             * [All Resources](https://info.badgr.com/resources)
     * Column
+        *   ![Trends and Insights from K-12 to Career: The Lifelong Learning Report](/sites/default/files/styles/small_hq/public/image/2024-10/2024_Lifelong-Learning-Report-Web-Images-07-min.png?itok=QnR9ZAD-)
+            
+            Lifelong Learning Report:
+            
+            #### 
+            
+            Trends and Insights from K-12 to Career
+            
+            [Read the Report](https://info.badgr.com/research/lifelong-learning)
+            
 * News & Events
     * Column
         * Events
