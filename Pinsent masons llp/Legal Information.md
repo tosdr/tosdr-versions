@@ -653,7 +653,7 @@ See our [Terms and Conditions](https://www.pinsentmasons.com/legal-notices/term
     
     #### Register of Legal areas
     
-    The lawyers [listed in this file](https://www.pinsentmasons.com/-/media/pdfs/legal-notices/registration-practice-areas---pinsent-masons-netherlands-llp.pdf?rev=672b7b934ce047299fcf13386b76857d&hash=02F0005BD9FE92444F46E23904872727) have registered in the Netherlands Bar’s register of legal areas.
+    The lawyers [listed in this file](https://www.pinsentmasons.com/-/media/pdfs/legal-notices/registration-practice-areas---pinsent-masons-netherlands-llp.pdf?rev=28dcfe84617542489676b78645a54bac&hash=13A935DE4B426CF0577A715495BF3C0F) have registered in the Netherlands Bar’s register of legal areas.
     
     Based on this registration, they are required to obtain ten training credits per calendar year in each registered principal legal practice area in accordance with the standards set by the Netherlands Bar.
     
