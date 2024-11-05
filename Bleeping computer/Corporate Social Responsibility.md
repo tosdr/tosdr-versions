@@ -23,18 +23,18 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Microsoft SharePoint RCE bug exploited to breach corporate network](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Windows Server 2025 released—here are the new features](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft SharePoint RCE bug exploited to breach corporate network](https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-rce-bug-exploited-to-breach-corporate-network/)
-    * [![LastPass warns of fake support centers trying to steal customer data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Windows Server 2025 released—here are the new features](https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-released-here-are-the-new-features/)
+    * [![Schneider Electric confirms dev platform breach after hacker steals data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        LastPass warns of fake support centers trying to steal customer data](https://www.bleepingcomputer.com/news/security/lastpass-warns-of-fake-support-centers-trying-to-steal-customer-data/)
-    * [![ChatGPT-4o can be used for autonomous voice-based scams](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Schneider Electric confirms dev platform breach after hacker steals data](https://www.bleepingcomputer.com/news/security/schneider-electric-confirms-dev-platform-breach-after-hacker-steals-data/)
+    * [![Custom ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        ChatGPT-4o can be used for autonomous voice-based scams](https://www.bleepingcomputer.com/news/security/chatgpt-4o-can-be-used-for-autonomous-voice-based-scams/)
-    * [![Synology hurries out patches for zero-days exploited at Pwn2Own](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Custom "Pygmy Goat" malware used in Sophos Firewall hack on govt network](https://www.bleepingcomputer.com/news/security/custom-pygmy-goat-malware-used-in-sophos-firewall-hack-on-govt-network/)
+    * [![Windows infected with backdoored Linux VMs in new phishing attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Synology hurries out patches for zero-days exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/synology-fixed-two-critical-zero-days-exploited-at-pwn2own-within-days/)
+        Windows infected with backdoored Linux VMs in new phishing attacks](https://www.bleepingcomputer.com/news/security/windows-infected-with-backdoored-linux-vms-in-new-phishing-attacks/)
     
     * [![Nokia investigates breach after hacker claims to steal source code](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
@@ -306,15 +306,15 @@ If you have any questions or concerns regarding these policies, please free to 
 
 Popular Stories
 
-* [![ChatGPT](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![SharePoint](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    OpenAI's new ChatGPT Search Chrome extension feels like a search hijacker](https://www.bleepingcomputer.com/news/security/openais-new-chatgpt-search-chrome-extension-feels-like-a-search-hijacker/)
+    Microsoft SharePoint RCE bug exploited to breach corporate network](https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-rce-bug-exploited-to-breach-corporate-network/)
 * [![Hacker box](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Meet Interlock — The new ransomware targeting FreeBSD servers](https://www.bleepingcomputer.com/news/security/meet-interlock-the-new-ransomware-targeting-freebsd-servers/)
-* [![Azure Virtual Desktop](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Robot Customer Support](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Microsoft warns Azure Virtual Desktop users of black screen issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-azure-virtual-desktop-users-of-black-screen-issues/)
+    ChatGPT-4o can be used for autonomous voice-based scams](https://www.bleepingcomputer.com/news/security/chatgpt-4o-can-be-used-for-autonomous-voice-based-scams/)
 
 ##### Follow us:
 
