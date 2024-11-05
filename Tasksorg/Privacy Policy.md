@@ -1,12 +1,8 @@
-[Skip to main content](#)
+[Skip to main content](#__docusaurus_skipToContent_fallback)
 
 [![My Site Logo](/img/logo.svg)![My Site Logo](/img/logo.svg)
 
 **Tasks.org**](https://tasks.org/)[Docs](https://tasks.org/docs/)[Blog](https://tasks.org/blog)[GitHub](https://github.com/tasks/tasks)
-
-🌜
-
-🌞
 
 * [Documentation](https://tasks.org/docs/)
     
@@ -32,12 +28,16 @@
 * [Troubleshooting](https://tasks.org/docs/notifications)
     
 
+* [](https://tasks.org/)
+* Documentation
+* Privacy Policy
+
 On this page
 
 Privacy Policy
 ==============
 
-### TL;DR[​](#tldr "Direct link to heading")
+### TL;DR[​](#tldr "Direct link to TL;DR")
 
 * **If you have a Tasks.org account:**
     * Your user data is stored in order to provide synchronization service. It is not used for any other purpose, and it is not shared with anyone
@@ -53,60 +53,60 @@ If you have any questions or concerns please contact [\[email protected\]](http
 
 * * *
 
-### Current location[​](#current-location "Direct link to heading")
+### Current location[​](#current-location "Direct link to Current location")
 
 You can give Tasks permission to find your current location on a map. Your location is not transmitted to Tasks.org or shared with third parties
 
-### Background location[​](#background-location "Direct link to heading")
+### Background location[​](#background-location "Direct link to Background location")
 
 You can give Tasks permission to access your location in the background in order to trigger location-based reminders. Your location is not transmitted to Tasks.org or shared with third parties
 
 Google Play only: Use of Google Play Location Services is subject to [Google's privacy policy](https://policies.google.com/privacy?hl=en-US)
 
-### Google Tasks[​](#google-tasks "Direct link to heading")
+### Google Tasks[​](#google-tasks "Direct link to Google Tasks")
 
 If you enable Google Task synchronization: Tasks will download your Google Tasks data directly to your device. Your Google Task data is not transmitted to Tasks.org or shared with third parties
 
 Use of Google Tasks is subject to [Google's privacy policy](https://policies.google.com/privacy?hl=en-US)
 
-### Google Drive backups[​](#google-drive-backups "Direct link to heading")
+### Google Drive backups[​](#google-drive-backups "Direct link to Google Drive backups")
 
 If you enable Google Drive backups: Tasks will upload nightly backup files to Google Drive. Tasks does not have access to any other files stored on your Google Drive. Your Google Drive data is not transmitted to Tasks.org or shared with third parties
 
 Use of Google Drive is subject to [Google's privacy policy](https://policies.google.com/privacy?hl=en-US)
 
-### Mapbox search[​](#mapbox-search "Direct link to heading")
+### Mapbox search[​](#mapbox-search "Direct link to Mapbox search")
 
 Mapbox search results are not transmitted to Tasks.org or shared with third parties
 
 Use of Mapbox is subject to [Mapbox's privacy policy](https://www.mapbox.com/legal/privacy)
 
-### Google Places[​](#google-places "Direct link to heading")
+### Google Places[​](#google-places "Direct link to Google Places")
 
 Google Places search requests are proxied through Tasks.org in order to restrict usage to Tasks.org account holders. Your search results are not stored or shared with third-parties
 
 Use of Google Places is subject to [Google's privacy policy](https://policies.google.com/privacy?hl=en-US)
 
-### OpenStreetMaps[​](#openstreetmaps "Direct link to heading")
+### OpenStreetMaps[​](#openstreetmaps "Direct link to OpenStreetMaps")
 
 Use of OpenStreetMap tiles are subject to [OpenStreetMaps's privacy policy](https://wiki.osmfoundation.org/wiki/Privacy_Policy)
 
 * * *
 
-Google Play[​](#google-play "Direct link to heading")
------------------------------------------------------
+Google Play[​](#google-play "Direct link to Google Play")
+---------------------------------------------------------
 
-### Mapbox reverse geocoding[​](#mapbox-reverse-geocoding "Direct link to heading")
+### Mapbox reverse geocoding[​](#mapbox-reverse-geocoding "Direct link to Mapbox reverse geocoding")
 
 Mapbox reverse geocoding results are not transmitted to Tasks.org or shared with third parties
 
 Use of Mapbox is subject to [Mapbox's privacy policy](https://www.mapbox.com/legal/privacy)
 
-### Google Maps[​](#google-maps "Direct link to heading")
+### Google Maps[​](#google-maps "Direct link to Google Maps")
 
 Use of Google Maps is subject to [Google's privacy policy](https://policies.google.com/privacy?hl=en-US)
 
-### Firebase[​](#firebase "Direct link to heading")
+### Firebase[​](#firebase "Direct link to Firebase")
 
 Tasks uses Google Analytics for Firebase to collect anonymous usage statistics and crash reports
 
@@ -117,10 +117,10 @@ Tasks uses Google Analytics for Firebase to collect anonymous usage statistics a
 
 * * *
 
-F-Droid[​](#f-droid "Direct link to heading")
+F-Droid[​](#f-droid "Direct link to F-Droid")
 ---------------------------------------------
 
-### Nominatim reverse geocoding[​](#nominatim-reverse-geocoding "Direct link to heading")
+### Nominatim reverse geocoding[​](#nominatim-reverse-geocoding "Direct link to Nominatim reverse geocoding")
 
 Nominatim reverse geocoding requests are proxied through Tasks.org in order to comply with the [Nominatim usage policy](https://operations.osmfoundation.org/policies/nominatim/). Tasks.org does not store your reverse geocoding results or share them with third parties
 
@@ -134,9 +134,7 @@ Last updated: March 2, 2021
 
 [Previous
 
-Tasker Plugins](https://tasks.org/docs/tasker)
-
-[Next
+Tasker Plugins](https://tasks.org/docs/tasker)[Next
 
 App passwords](https://tasks.org/docs/app_passwords)
 
