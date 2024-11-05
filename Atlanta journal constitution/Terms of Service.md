@@ -1,6 +1,6 @@
 error: no ad slot id exists: undefined
 
-[Breaking: LIVE UPDATES | Polls open in Georgia as Harris, Trump eye historic election](https://www.ajc.com/politics/polls-open-in-georgia-as-harris-trump-eye-historic-election-live-updates/VDYLODTHGFCOVPAQIW5R64Z7SA/)
+[Breaking: LIVE UPDATES | There’s steady turnout in Ga. What does it mean for the candidates?](https://www.ajc.com/politics/more-than-half-a-million-georgians-have-voted-since-polls-opened-today-live-updates/VDYLODTHGFCOVPAQIW5R64Z7SA/)
 
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1792)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1792)](https://www.ajc.com/)
 
