@@ -215,13 +215,13 @@ Call Now for a FREE Quote! [1-877-OXI-FRESH](tel:18776943737) **OR**
     * [Consideration Request](https://www.oxifresh.com/carpet-cleaning-companies/carpet-cleaning-franchise/considerationrequest/)
 * [Franchisee Login](https://www.oxifresh.com/login/index.html)
 
-![The World's Greenest Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-2.png)
+![Fast 1 Hour Dry Time Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-1.png)
 
 Zip Code  QUOTE & SCHEDULE
 
 Enter your zip/postal code above to find carpet cleaning services in your area, get a free quote or book online!
 
-Average 4.7 Stars Based on 302,780 Reviews
+Average 4.7 Stars Based on 302,829 Reviews
 
 * [Home](https://www.oxifresh.com/)
 * \>
@@ -383,17 +383,17 @@ What Customers Are Saying
 
 ### Average 4.7 stars (Out of 5)
 
-Based on 302,780 Carpet Cleaning Services Reviews
+Based on 302,829 Carpet Cleaning Services Reviews
 
-Good cleaning and friendly people **KH.** - Lakewood , CO - 11/02/2024
-
-(5.0 Out of 5 stars)
-
-Everything **DP.** - San Luis Obispo, CA - 11/02/2024
+What I didn’t like is that it took 3 appointments before I received service, Without a notice or call for cancellation, However; when I did finally receive service, The technician was prompt and on time, He did a great job of explaining everything and taking care of business, **TM.** - Melrose Park, IL - 11/03/2024
 
 (5.0 Out of 5 stars)
 
-GREAT people. Great service! **GL.** - Lake Villa, IL - 11/02/2024
+**MG.** - Fishers, IN - 11/03/2024
+
+(5.0 Out of 5 stars)
+
+**RS.** - Millersville, MD - 11/02/2024
 
 (5.0 Out of 5 stars)
 
