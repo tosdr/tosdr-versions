@@ -40,6 +40,8 @@ Buy PRE
 
 Settings
 
+[Learn](https://www.presearch.org/learn-more)
+
 * * *
 
 Account
