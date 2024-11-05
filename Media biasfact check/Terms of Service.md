@@ -73,11 +73,11 @@
 
 MBFC News
 
+* [November 5, 2024 | MBFC’s Daily Vetted Fact Checks for 11/05/2024](https://mediabiasfactcheck.com/2024/11/05/mbfcs-daily-vetted-fact-checks-for-11-05-2024/ "MBFC’s Daily Vetted Fact Checks for 11/05/2024")
 * [November 4, 2024 | MBFC’s Last Election Sim Shows Harris with a 66.78% Win Rate](https://mediabiasfactcheck.com/2024/11/04/mbfcs-last-election-sim-shows-harris-with-a-66-78-win-rate/ "MBFC’s Last Election Sim Shows Harris with a 66.78% Win Rate")
 * [November 4, 2024 | Media News Daily: Top Stories for 11/04/2024](https://mediabiasfactcheck.com/2024/11/04/media-news-daily-top-stories-for-11-04-2024/ "Media News Daily: Top Stories for 11/04/2024")
 * [November 4, 2024 | MBFC’s Daily Vetted Fact Checks for 11/04/2024](https://mediabiasfactcheck.com/2024/11/04/mbfcs-daily-vetted-fact-checks-for-11-04-2024/ "MBFC’s Daily Vetted Fact Checks for 11/04/2024")
 * [November 3, 2024 | MBFC’s Daily Vetted Fact Checks for 11/03/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/03/mbfcs-daily-vetted-fact-checks-for-11-03-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/03/2024 (Weekend Edition)")
-* [November 2, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of Oct 27th – Nov 2nd](https://mediabiasfactcheck.com/2024/11/02/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-oct-27th-nov-2nd/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of Oct 27th – Nov 2nd")
 
 Search for:  
 
@@ -153,6 +153,14 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [WCMU – NPR – Mount Pleasant – Bias and Credibility](https://mediabiasfactcheck.com/wcmu-npr-mount-pleasant-bias/)
+    
+    November 5, 2024
+    
+* [Warrnambool Standard – Bias and Credibility](https://mediabiasfactcheck.com/warrnambool-standard-bias/)
+    
+    November 5, 2024
+    
 * [Carbon Balance and Management Journal – Bias and Credibility](https://mediabiasfactcheck.com/carbon-balance-and-management-journal-bias/)
     
     November 4, 2024
@@ -177,17 +185,15 @@ No related posts.
     
     November 3, 2024
     
-* [Voice of Rural America – Bias and Credibility](https://mediabiasfactcheck.com/voice-of-rural-america-bias-and-credibility/)
-    
-    November 3, 2024
-    
-* [Rochdale Online – Bias and Credibility](https://mediabiasfactcheck.com/rochdale-online-bias-and-credibility/)
-    
-    November 3, 2024
-    
 
 #### Recently Updated Pages
 
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 5, 2024
+    
+* [WCMU – NPR – Mount Pleasant – Bias and Credibility](https://mediabiasfactcheck.com/wcmu-npr-mount-pleasant-bias/ "View WCMU – NPR – Mount Pleasant – Bias and Credibility") - November 5, 2024
+    
+* [Warrnambool Standard – Bias and Credibility](https://mediabiasfactcheck.com/warrnambool-standard-bias/ "View Warrnambool Standard – Bias and Credibility") - November 5, 2024
+    
 * [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - November 4, 2024
     
 * [Carbon Balance and Management Journal – Bias and Credibility](https://mediabiasfactcheck.com/carbon-balance-and-management-journal-bias/ "View Carbon Balance and Management Journal – Bias and Credibility") - November 4, 2024
@@ -196,17 +202,11 @@ No related posts.
     
 * [Peninsula Clarion – Bias and Credibility](https://mediabiasfactcheck.com/peninsula-clarion-bias/ "View Peninsula Clarion – Bias and Credibility") - November 4, 2024
     
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 4, 2024
-    
 * [Center for Climate Integrity – Bias and Credibility](https://mediabiasfactcheck.com/center-for-climate-integrity-bias-and-credibility/ "View Center for Climate Integrity – Bias and Credibility") - November 4, 2024
     
 * [Valley City Times-Record – Bias and Credibility](https://mediabiasfactcheck.com/valley-city-times-record-bias/ "View Valley City Times-Record – Bias and Credibility") - November 4, 2024
     
 * [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - November 4, 2024
-    
-* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - November 3, 2024
-    
-* [Cicero – Bias and Credibility](https://mediabiasfactcheck.com/cicero-bias-and-credibility/ "View Cicero – Bias and Credibility") - November 3, 2024
     
 
 #### Today’s Top Page Views
@@ -215,8 +215,8 @@ No related posts.
 * [AtlasIntel Polling - Bias and Credibility](https://mediabiasfactcheck.com/atlasintel-polling-bias-and-credibility/)
 * [Emerson College Polling - Bias and Credibility](https://mediabiasfactcheck.com/emerson-college-polling-bias-and-credibility/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
-* [MBFC’s Last Election Sim Shows Harris with a 66.78% Win Rate](https://mediabiasfactcheck.com/2024/11/04/mbfcs-last-election-sim-shows-harris-with-a-66-78-win-rate/)
 * [Electoral College Map 2024 - Harris vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
+* [MBFC’s Last Election Sim Shows Harris with a 66.78% Win Rate](https://mediabiasfactcheck.com/2024/11/04/mbfcs-last-election-sim-shows-harris-with-a-66-78-win-rate/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
