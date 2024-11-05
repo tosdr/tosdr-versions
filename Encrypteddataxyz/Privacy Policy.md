@@ -1,4 +1,4 @@
-[Buy this domain.](https://www.mydomaincontact.com/index.php?domain_name=encrypted-data.xyz)
+[Buy this domain.](https://www.mydomaincontact.com/?domain_name=encrypted-data.xyz)
 
 encrypted-data.xyz
 ==================
