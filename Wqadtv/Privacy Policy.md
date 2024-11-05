@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c05db046-ee17-4597-b317-476c450b2858/20241029T011355/c05db046-ee17-4597-b317-476c450b2858_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c05db046-ee17-4597-b317-476c450b2858/20241029T011355/c05db046-ee17-4597-b317-476c450b2858_360x203.jpg)](https://www.wqad.com/article/news/local/mr-thanksgiving-holiday-dinner-return/526-905ac4a7-461d-4ef0-9ccf-399cc1b72ad7)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/shots-fired-east-moline-arrest-made/526-81a0417f-77a7-4681-a7c2-17134169c934)
         
-        #### [Mr. Thanksgiving's holiday dinner to be held at Mercado on Fifth in Moline](https://www.wqad.com/article/news/local/mr-thanksgiving-holiday-dinner-return/526-905ac4a7-461d-4ef0-9ccf-399cc1b72ad7)
+        #### [East Moline police: Man arrested in shots fired incident](https://www.wqad.com/article/news/local/public-safety/shots-fired-east-moline-arrest-made/526-81a0417f-77a7-4681-a7c2-17134169c934)
         
-    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/lee-county-iowa-crash-fatal/526-5f3917b3-1ce9-42ae-be15-58642a57b94e)
+    *  [![](https://media.tegna-media.com/assets/WUSA/images/c8ffb8b4-0a83-4bb9-8763-9164b1260376/c8ffb8b4-0a83-4bb9-8763-9164b1260376_16x9.jpg) ![](https://media.tegna-media.com/assets/WUSA/images/c8ffb8b4-0a83-4bb9-8763-9164b1260376/c8ffb8b4-0a83-4bb9-8763-9164b1260376_360x203.jpg)](https://www.wqad.com/elections)
         
-        #### [Florida man killed in Lee County, Iowa crash](https://www.wqad.com/article/news/local/lee-county-iowa-crash-fatal/526-5f3917b3-1ce9-42ae-be15-58642a57b94e)
+        #### [Live Election Results | Nov. 5, 2024](https://www.wqad.com/elections)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-63°
+59°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
