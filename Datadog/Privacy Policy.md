@@ -229,7 +229,7 @@ Privacy Policy | Datadog
     
     Use Case
     
-    * [Unified Application Security](https://www.datadoghq.com/solutions/unified-application-security)
+    * [Application Security](https://www.datadoghq.com/solutions/application-security)
     * [Cloud Migration](https://www.datadoghq.com/solutions/cloud-migration/)
     * [Monitoring Consolidation](https://www.datadoghq.com/solutions/monitoring-consolidation/)
     * [Unified Commerce Monitoring](https://www.datadoghq.com/solutions/unified-commerce-monitoring/)
@@ -409,7 +409,7 @@ Toggle navigation
     
     Use Case
     
-    * [Unified Application Security](https://www.datadoghq.com/solutions/unified-application-security)
+    * [Application Security](https://www.datadoghq.com/solutions/application-security)
     * [Cloud Migration](https://www.datadoghq.com/solutions/cloud-migration/)
     * [Monitoring Consolidation](https://www.datadoghq.com/solutions/monitoring-consolidation/)
     * [Unified Commerce Monitoring](https://www.datadoghq.com/solutions/unified-commerce-monitoring/)
@@ -453,15 +453,15 @@ Privacy Policy
 
 Last updated
 
-December 26, 2023
+November 5, 2024
 
-[December 26, 2023](https://www.datadoghq.com/legal/privacy/2023-12-31/) [August 21, 2023](https://www.datadoghq.com/legal/privacy/2023-08-21/) [January 26, 2023](https://www.datadoghq.com/legal/privacy/2023-01-26/) [December 20, 2022](https://www.datadoghq.com/legal/privacy/2022-12-20/) [October 5, 2022](https://www.datadoghq.com/legal/privacy/2022-10-05/) [December 13, 2021](https://www.datadoghq.com/legal/privacy/2021-12-13/) [December 28, 2018](https://www.datadoghq.com/legal/privacy/2018-12-27/) [May 25, 2018](https://www.datadoghq.com/legal/privacy/2018-05-25/) [September 29, 2016](https://www.datadoghq.com/legal/privacy/2016-09-29/) [August 4, 2016](https://www.datadoghq.com/legal/privacy/2016-08-04/) [July 16, 2015](https://www.datadoghq.com/legal/privacy/2015-07-16/) [June 16, 2014](https://www.datadoghq.com/legal/privacy/2014-06-16/) [March 31, 2011](https://www.datadoghq.com/legal/privacy/2011-03-31/)
+[November 5, 2024](https://www.datadoghq.com/legal/privacy/2024-11-05/) [December 26, 2023](https://www.datadoghq.com/legal/privacy/2023-12-31/) [August 21, 2023](https://www.datadoghq.com/legal/privacy/2023-08-21/) [January 26, 2023](https://www.datadoghq.com/legal/privacy/2023-01-26/) [December 20, 2022](https://www.datadoghq.com/legal/privacy/2022-12-20/) [October 5, 2022](https://www.datadoghq.com/legal/privacy/2022-10-05/) [December 13, 2021](https://www.datadoghq.com/legal/privacy/2021-12-13/) [December 28, 2018](https://www.datadoghq.com/legal/privacy/2018-12-27/) [May 25, 2018](https://www.datadoghq.com/legal/privacy/2018-05-25/) [September 29, 2016](https://www.datadoghq.com/legal/privacy/2016-09-29/) [August 4, 2016](https://www.datadoghq.com/legal/privacy/2016-08-04/) [July 16, 2015](https://www.datadoghq.com/legal/privacy/2015-07-16/) [June 16, 2014](https://www.datadoghq.com/legal/privacy/2014-06-16/) [March 31, 2011](https://www.datadoghq.com/legal/privacy/2011-03-31/)
 
 Last updated
 
-December 26, 2023
+November 5, 2024
 
-[December 26, 2023](https://www.datadoghq.com/legal/privacy/2023-12-31/) [August 21, 2023](https://www.datadoghq.com/legal/privacy/2023-08-21/) [January 26, 2023](https://www.datadoghq.com/legal/privacy/2023-01-26/) [December 20, 2022](https://www.datadoghq.com/legal/privacy/2022-12-20/) [October 5, 2022](https://www.datadoghq.com/legal/privacy/2022-10-05/) [December 13, 2021](https://www.datadoghq.com/legal/privacy/2021-12-13/) [December 28, 2018](https://www.datadoghq.com/legal/privacy/2018-12-27/) [May 25, 2018](https://www.datadoghq.com/legal/privacy/2018-05-25/) [September 29, 2016](https://www.datadoghq.com/legal/privacy/2016-09-29/) [August 4, 2016](https://www.datadoghq.com/legal/privacy/2016-08-04/) [July 16, 2015](https://www.datadoghq.com/legal/privacy/2015-07-16/) [June 16, 2014](https://www.datadoghq.com/legal/privacy/2014-06-16/) [March 31, 2011](https://www.datadoghq.com/legal/privacy/2011-03-31/)
+[November 5, 2024](https://www.datadoghq.com/legal/privacy/2024-11-05/) [December 26, 2023](https://www.datadoghq.com/legal/privacy/2023-12-31/) [August 21, 2023](https://www.datadoghq.com/legal/privacy/2023-08-21/) [January 26, 2023](https://www.datadoghq.com/legal/privacy/2023-01-26/) [December 20, 2022](https://www.datadoghq.com/legal/privacy/2022-12-20/) [October 5, 2022](https://www.datadoghq.com/legal/privacy/2022-10-05/) [December 13, 2021](https://www.datadoghq.com/legal/privacy/2021-12-13/) [December 28, 2018](https://www.datadoghq.com/legal/privacy/2018-12-27/) [May 25, 2018](https://www.datadoghq.com/legal/privacy/2018-05-25/) [September 29, 2016](https://www.datadoghq.com/legal/privacy/2016-09-29/) [August 4, 2016](https://www.datadoghq.com/legal/privacy/2016-08-04/) [July 16, 2015](https://www.datadoghq.com/legal/privacy/2015-07-16/) [June 16, 2014](https://www.datadoghq.com/legal/privacy/2014-06-16/) [March 31, 2011](https://www.datadoghq.com/legal/privacy/2011-03-31/)
 
 Privacy Policy
 
@@ -477,57 +477,63 @@ Privacy Policy
 * [Changes to this Privacy Policy](#changes-to-this-privacy-policy)
 * [Contact Us](#contact-us)
 
-Your trust is important to us, and we want to ensure that your personal information is protected. This Privacy Policy explains how we collect and use your personal information in relation to Datadog products, services, events, and websites or applications that link to this Policy (together, the “Datadog Products”). It also describes how you can control or exercise your rights related to your personal information.
+Your trust is important to us, and we want to ensure that your personal information is protected. This Privacy Policy explains how we collect and use your personal information in relation to Datadog products, services, events, websites, and applications that link to this Policy (together, the “Datadog Products”). It also describes how you can control or exercise your rights related to your personal information.
 
 1. Personal Information We Collect
     -------------------------------
     
     We process information about you while providing the Datadog Products. Below, we outline the kinds of information we collect.
     
-    **Information You Give to Us**  
+    **Information You Give to Us**
+    
     We collect information about you when you provide it to us directly.
     
-    * **Your Datadog account.** We collect information about you when you submit it through the Datadog Products, including when you create an account with us. This may include your name, email address, profile picture, company name, postal address, and phone number. This may also include your payment information when you purchase any of the Datadog Products.
-    * **Support.** We collect information you provide to us when you open a support request or otherwise communicate with us (such as through third-party social-media sites). This may include your name, email address, title, company, and any other information you provide in your request.
-    * **Other information submitted by you.** We collect information about you that you submit to us through the Datadog Products, such as when you participate in any interactive features of the Datadog Products or fill out a form on one of our websites. This information may include your name, email address, and mailing address.
+    * **_Account information._** We collect information about you when you create an account with us, such as your name, email address, profile picture, company name, postal address, phone number, and payment information.
+    * **_Support information._** We collect information you provide to us when you open a support request or otherwise communicate with us (such as through third-party social-media sites). This may include your name, email address, title, company, and any other information you provide in your request.
+    * **_Sales and marketing information._** We collect information you provide for promotional communications, including when you submit forms on our websites, such as name, email address, and telephone number.
+    * **_Product information._** We collect personal information submitted to us through the use of the Datadog Products, including the information provided in logs, traces, and metrics. This information may include name, email address, IP address, online identifier, and mailing address.
     
-    **Information We Collect Automatically**  
+    **Information We Collect Automatically**
+    
     We automatically collect information about you when you access or use the Datadog Products.
     
-    * **Your use of the Datadog Products.** We collect information about how you use the Datadog Products, such as your session date, time, and duration; the pages you viewed; and the page you visited before navigating to the products or websites.
-    * **Device information.** We collect information about your computer or device when you access any of the Datadog Products, such as the type of browser you use, your IP address, and the location of your device.
-    * **Cookies and similar technologies.** We use cookies and similar technologies (like web beacons and pixels) to collect information about your interactions with the Datadog Products, including identifiers, usage data, session information, links clicked, pages visited, and mouse movements. For more information about how we use cookies and similar technologies, please see our [Cookie Policy](https://www.datadoghq.com/legal/cookies).
+    * **_Your use of the Datadog Products._** We collect information about how you use the Datadog Products, such as your session date, time, and duration; the pages you viewed; and the page you visited before navigating to the products or websites.
+    * **_Device information._** We collect information about your computer or device when you access any of the Datadog Products, such as the type of browser you use, your IP address, and the location of your device.
+    * **_Cookies and similar technologies._** We use cookies and similar technologies (like web beacons and pixels) to collect information about your interactions with the Datadog Products, including identifiers, usage data, session information, links clicked, pages visited, and mouse movements. For more information about how we use cookies and similar technologies, please see our [Cookie Policy](https://www.datadoghq.com/legal/cookies).
     
-    **Information We Collect from Other Sources**  
+    **Information We Collect from Other Sources**
+    
     We may also obtain information about you from other sources.
     
-    * **Other services linked to your account.** We may collect information about you when you link your Datadog account with other services. For example, if you create or log into your Datadog account using your Google Apps credentials via single sign-on, we will have access to certain information such as your name and email address, as authorized in your Google Apps profile settings.
-    * **Our affiliates.** We may receive information about you from one of our affiliates if you interact with them directly, for example through a support request. This may include your name, email address, and information about your request.
-    * **Third parties.** We may receive information about you from third parties that provide business information to us or from public sources. This information may include things like your name, title, email address, phone number, and social-media profile. We may combine this information with information we collect through other means described above.
+    * **_Other services linked to your account._** We may collect information about you when you link your Datadog account with other services. For example, if you create or log into your Datadog account using your Google Apps credentials via single sign-on, we will have access to certain information such as your name and email address, as authorized in your Google Apps profile settings.
+    * **_Through the Datadog products._** We may receive information about you from other users’ use of the Datadog Products.
+    * **_Our affiliates._** We may receive information about you from one of our affiliates if you interact with them directly, for example through a support request. This may include your name, email address, and information about your request.
+    * **_Third parties._** We may receive information about you from third parties that provide business information to us or from public sources. This information may include things like your name, title, email address, phone number, and social-media profile. We may combine this information with information we collect through other means described above.
 2. How We Use Personal Information
     -------------------------------
     
     We use information about you for the following purposes.
     
-    * **To provide and support your use of the Datadog Products.** We use information about you to provide you with access to the Datadog Products, including to create and manage your Datadog accounts, process transactions with you, and send you invoices, as well as to provide you with customer support.
-    * **For research and to improve the Datadog Products.** We use information about you, including information about your use of Datadog Products, to improve the Datadog Products, including to monitor and analyze trends, usage, and other activities in connection with the Datadog Products so that we can continually improve them. We may also link or combine information about you with information we get from others to help understand your needs and provide you with better service.
-    * **To communicate with you.** We use information about you to communicate with you, including to send you technical notices, product updates, security alerts, support communications, and administrative messages about the Datadog Products (including important changes to the Datadog Products). This also includes sending you information about your account and data, such as when we update our terms or when we materially change how we use your data.
-    * **For security.** We use information about you to maintain and increase the security of the Datadog Products, including to detect, investigate, and prevent fraud and other illegal activities from occurring, as well as to protect the rights and property of Datadog, our customers, and third parties.
-    * **To market and promote the Datadog Products.** We use information about you to send you promotional messages and to show you advertisements. This may also include using information about you to create more personalized advertising and suggest Datadog Products that may be of interest to you. We may also use information about you to facilitate contests, sweepstakes, and promotions, and to process and deliver your entries and rewards.
-    * **To comply with legal obligations.** We may use information about you to comply with our legal requirements. For example, we may process and retain information about your payments to us for tax and accounting purposes.
-    * **With your consent.** Finally, we use information about you for any other purposes that you have consented to. For example, if you agree to be named as a Featured Customer, we might post information about you on one of our public websites.
+    * **_To provide the Datadog Products._** We use information about you to provide you with access to the Datadog Products, including to create and manage your Datadog accounts, process transactions with you, and send you invoices.
+    * **_For research and to improve and create new Datadog Products._** We use the information we collect, including Product information, to improve the Datadog Products, including to monitor and analyze trends, usage, and other activities in connection with the Datadog Products so that we can continually improve them or create new ones. We may also link or combine information about you with information we get from others to help understand your needs and provide you with new and better services.
+    * **_To communicate with you._** We use information about you to communicate with you, including to send you technical notices, product updates, security alerts, support communications, and administrative messages about the Datadog Products (including important changes to the Datadog Products). This also includes sending you information about your account and data, such as when we update our terms or when we materially change how we use your data.
+    * **_For security._** We may use information about you to maintain and increase the security of the Datadog Products, including to detect, investigate, and prevent fraud and other illegal activities from occurring, as well as to protect the rights and property of Datadog, our customers, and third parties.
+    * **_To market and promote the Datadog Products._** We use information about you to send you promotional messages and to show you advertisements. This may also include using information about you to create more personalized advertising and suggest Datadog Products that may be of interest to you. We may also use information about you to facilitate contests, sweepstakes, and promotions, and to process and deliver your entries and rewards.
+    * **_To comply with legal obligations._** We may use information about you to comply with our legal requirements. For example, we may process and retain information about your payments to us for tax and accounting purposes.
+    * **_With your consent._** Finally, we use information about you for any other purposes that you have consented to. For example, if you agree to be named as a Featured Customer, we might post information about you on one of our public websites.
 3. How We Share Personal Information
     ---------------------------------
     
     We may share your personal information as follows.
     
-    * **Service providers.** We use third-party service providers who work on our behalf, including to provide hosting services, authentication services, cybersecurity and anti-fraud services, and advertising, which may require us to share your personal information.
-    * **For legal reasons.** In rare cases, we may share information about you in response to a request for information if we believe disclosure is permitted or required by an applicable law, regulation, or legal process, including to comply with a subpoena or applicable court order. Further, we may share your personal information with any person to whom disclosure is necessary to enable us to enforce our rights under this Privacy Policy or under any agreement we enter with you or to protect the rights, property, or safety of Datadog or third parties.
-    * **Business transfers.** We may share your information in connection with, or during negotiations of, any merger, sale of Datadog assets, financing, or acquisition of all or a portion of our business by another company.
-    * **Affiliates.** We may share your personal information with our affiliate companies who may act for us for any of the purposes set out in this Privacy Policy, including our current and future parents, affiliates, subsidiaries, and other companies under common control and ownership.
-    * **Marketing and analytics.** We may share your personal information with analytics and search-engine providers that assist us in the improvement and optimization of our websites, subject to our [Cookie Policy](https://www.datadoghq.com/legal/cookies/).
-    * **Social Media.** Some of our websites may contain social-sharing widgets or features that let you share information you find on our websites on third-party sites, including, for example, Twitter, LinkedIn, and YouTube. By doing so, you authorize us to facilitate this sharing of information, and you understand that the use of shared information will be governed by the social media provider’s privacy notice.
-    * **Consent.** We may share your personal information with your consent or at your direction.
+    * **_Service providers._** We use third-party service providers who work on our behalf, including to provide hosting services, authentication services, cybersecurity, anti-fraud services, and advertising, which may require us to share your personal information.
+    * **_Payment services._** We use PayPal, Inc.’s Braintree product to receive and process payments in relation to the use of our Services. PayPal acts as an independent controller of the personal information received when it provides these services. More information about how PayPal processes personal information is available in the [Braintree Privacy Statement](https://www.braintreepayments.com/legal/braintree-privacy-policy).
+    * **_For legal reasons._** In rare cases, we may share information about you in response to a request for information if we believe disclosure is permitted or required by an applicable law, regulation, or legal process, including to comply with a subpoena or applicable court order. Further, we may share your personal information with any person to whom disclosure is necessary to enable us to enforce our rights under this Privacy Policy or under any agreement we enter with you or to protect the rights, property, or safety of Datadog or third parties.
+    * **_Business transfers._** We may share your information in connection with, or during negotiations of, any merger, sale of Datadog assets, financing, or acquisition of all or a portion of our business by another company.
+    * **_Affiliates._** We may share your personal information with our affiliate companies who may act for us for any of the purposes set out in this Privacy Policy, including our current and future parents, affiliates, subsidiaries, and other companies under common control and ownership.
+    * **_Marketing and analytics._** We may share your personal information with analytics and search-engine providers that assist us in the improvement and optimization of our websites, subject to our [Cookie Policy](https://www.datadoghq.com/legal/cookies/).
+    * **_Social media._** Some of our websites may contain social-sharing widgets or features that let you share information you find on our websites on third-party sites, including, for example, Twitter, LinkedIn, and YouTube. By doing so, you authorize us to facilitate this sharing of information, and you understand that the use of shared information will be governed by the social media provider’s privacy notice.
+    * **_Consent._** We may share your personal information with your consent or at your direction.
 4. Security
     --------
     
@@ -541,7 +547,7 @@ Your trust is important to us, and we want to ensure that your personal informat
     * the terms of our agreements with you;
     * our legitimate interests (as outlined in this Privacy Policy);
     * our legal obligations; and
-    * the nature of your personal information.
+    * the amount and nature of your personal information.
     
     In some cases, we may anonymize your personal information so that you are no longer identifiable, in which case we may use the resulting information without further notice to you.
     
@@ -555,37 +561,41 @@ Your trust is important to us, and we want to ensure that your personal informat
     
     You have choices about how Datadog collects and uses your personal information.
     
-    * **Account information.** Our customers may access, update, or change personal information they have provided to us by logging into the relevant Datadog application or emailing us at [help@datadoghq.com](mailto:help@datadoghq.com). Subject to the terms of their agreements with us, customers may deactivate their accounts by emailing us at [help@datadoghq.com](mailto:help@datadoghq.com), but we may retain certain personal information as necessary to comply with our legal obligations or for legitimate business purposes, such as to resolve disputes or enforce our agreements. We may also retain cached or archived copies of personal information for a certain period.
-    * **Advertising.** You may opt out of receiving promotional emails from Datadog by following the instructions in those emails or by emailing [help@datadoghq.com](mailto:help@datadoghq.com). If you opt out of receiving promotional communications, we may still send you non-promotional emails, such as those about your account or our ongoing business relationship. If you would like to opt out of receiving promotional phone calls, please contact us as outlined in the “Contact Us” section below
+    * **_Account information._** Our customers may access, update, or change personal information they have provided to us by logging into the relevant Datadog application or emailing us at [help@datadoghq.com](mailto:help@datadoghq.com). Subject to the terms of their agreements with us, customers may deactivate their accounts by emailing us at [help@datadoghq.com](mailto:help@datadoghq.com), but we may retain certain personal information as necessary to comply with our legal obligations or for legitimate business purposes, such as to resolve disputes or enforce our agreements. We may also retain cached or archived copies of personal information for a certain period.
+    * **_Advertising._** You may opt out of receiving promotional emails from Datadog by following the instructions in those emails or by emailing [help@datadoghq.com](mailto:help@datadoghq.com). If you opt out of receiving promotional communications, we may still send you non-promotional emails, such as those about your account or our ongoing business relationship. If you would like to opt out of receiving promotional phone calls, please contact us as outlined in the “Contact Us” section below
 8. Supplemental Notice for the EEA, UK, and Switzerland
     ----------------------------------------------------
     
     This section provides additional details about the personal information we process subject to the General Data Protection Regulation (GDPR) and UK GDPR.
     
-    **Controller of Your Information**  
+    **Controller of Your Information**
+    
     Unless otherwise stated in a supplemental notice, Datadog, Inc. is the data controller of your personal information.
     
-    **Your Rights**  
+    **Your Rights**
+    
     Subject to applicable law, you have the following rights with respect to your personal information.
     
-    * **Right to access.** You have the right to access your personal information that we hold, and receive it in a portable way.
-    * **Right to update.** You have the right to request that we update your personal information.
-    * **Right to delete.** You have the right to have your personal information deleted.
-    * **Right to restrict processing.** You have the right to request us to restrict or suppress the processing of your personal information where our processing is inappropriate.
-    * **Right to object.** You have the right to object to the processing of your personal information.
-    * **Right to withdraw consent.** You have the right to withdraw your consent at any time where we are processing your personal information based on your prior consent.
+    * **_Right of access._** You have the right to access your personal information that we hold, and receive it in a portable way.
+    * **_Right to update._** You have the right to request that we update your personal information.
+    * **_Right to delete._** You have the right to have your personal information deleted.
+    * **_Right to restrict processing._** You have the right to request us to restrict or suppress the processing of your personal information where our processing is inappropriate.
+    * **_Right to object._** You have the right to object to the processing of your personal information.
+    * **_Right to withdraw consent._** You have the right to withdraw your consent at any time where we are processing your personal information based on your prior consent.
     
     To exercise your rights, please complete our [Data Subject Rights intake form](https://submit-irm.trustarc.com/services/validation/46c4566b-b184-4fcc-9dc0-c7afffdd5890) or contact us as outlined in the “Contact Us” section below. Please note that we may ask you to provide us with additional information to confirm your identity.
     
-    **Legal Bases for Processing Personal Information**  
-    We process your personal information on one or more of the following legal bases:
+    **Legal Bases for Processing Personal Information**
+    
+    We process your personal information on one of the following legal bases:
     
     * where necessary to enter into or perform under a contract with you, including to provide the Datadog Products;
     * where necessary for us to comply with a legal obligation;
     * for our legitimate interests, as outlined in this Privacy Policy; or
     * with your consent.
     
-    **International Data Transfers**  
+    **International Data Transfers**
+    
     Your personal information may be collected in, transferred to, accessed from, or stored in a country other than the one you are in, including the United States, which may have data protection rules that are different from those of your country. Your personal information is only transferred out of your country in accordance with applicable data protection law, including, for example, to third countries that adequately safeguard personal data, or under the European Commission-approved Standard Contractual Clauses. Your rights with respect to your personal information are outlined above in the “Your rights” section above.
     
     We comply with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce (together, the “DPF”), and we have certified to the U.S. Department of Commerce that we adhere to the EU-U.S. Data Privacy Framework Principles with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework Principles with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF (together, the “DPF Principles”). A full list of all participating organizations is available on the U.S. Department of Commerce’s [dedicated DPF website](https://www.dataprivacyframework.gov/s/participant-search).
@@ -596,31 +606,36 @@ Your trust is important to us, and we want to ensure that your personal informat
     
     If we transfer your personal data onward to a third party, we will continue to remain liable under the DPF Principles if the information is processed in a manner inconsistent with the DPF Principles.
     
-    **Complaints**  
+    **Complaints**
+    
     You may lodge a complaint with a data protection authority for your country or region where you have your habitual residence, where you work, or where an alleged infringement of applicable data protection law occurs. A list of EEA data protection authorities is available [here](https://ec.europa.eu/newsroom/article29/items/612080), and the contact details for the UK Information Commissioner’s Office is available [here](https://ico.org.uk/global/contact-us/).
     
 9. Supplemental Notice for the United States
     -----------------------------------------
     
-    This section provides additional details about the personal information we collect about individuals and the rights afforded to them under various applicable U.S. state data-protection and privacy laws, including the California Consumer Privacy Act, as amended (CCPA), the Colorado Privacy Act (CPA), the Connecticut Data Privacy Act (CTDPA), the Utah Consumer Privacy Act (UCPA), and the Virginia Consumer Data Protection Act (VCDPA).
+    This section provides additional details about the personal information we collect about individuals and the rights afforded to them under various applicable U.S. state data-protection and privacy laws.
     
-    **Your Rights**  
+    **Your Rights**
+    
     Subject to applicable law, you have the following rights with respect to your personal information.
     
-    * **Right to access.** You have the right to request that we disclose to you in a portable format the personal information we collect, use, disclose, share, and sell about you.
-    * **Right to correct.** You have the right to correct errors in your personal information.
-    * **Right to delete.** You have the right to request that we delete your personal information that we’ve collected.
-    * **Right to update.** You have the right to request that inaccurate personal information we hold about you be corrected.
-    * **Right to opt out.** You have the right to opt out of behavioral or targeted advertising, automated profiling, and sales of personal information.
-    * **Right to restrict the use and disclosure of your sensitive information.** You have the right to request that we limit our use and disclosure of your sensitive personal information.
-    * **Right to nondiscrimination.** You have the right not to receive discriminatory treatment because you’ve exercised any of your rights under the CCPA.
+    * **_Right to access._** You have the right to request that we disclose to you in a portable format the personal information we collect, use, disclose, share, and sell about you.
+    * **_Right to correct._** You have the right to correct errors in your personal information.
+    * **_Right to delete._** You have the right to request that we delete your personal information that we’ve collected.
+    * **_Right to update._** You have the right to request that inaccurate personal information we hold about you be corrected.
+    * **_Right to opt out._** You have the right to opt out of behavioral or targeted advertising, automated profiling, and sales of personal information.
+    * **_Right to restrict the use and disclosure of your sensitive information._** You have the right to request that we limit our use and disclosure of your sensitive personal information.
+    * **_Right to nondiscrimination._** You have the right not to receive discriminatory treatment because you’ve exercised any of your above rights.
     
     If you or your authorized agent wishes to exercise any of these rights, please complete our [Data Subject Rights intake form](https://submit-irm.trustarc.com/services/validation/46c4566b-b184-4fcc-9dc0-c7afffdd5890) or contact us as outlined in the “Contact Us” section below. Please note that we may ask you or your agent to provide us with additional information to confirm your identity.
     
+    You may also opt out of “sharing” of personal information for purposes of cross-context behavioral advertising by clicking on the “Your Privacy Choices” link in the footer of this website and following the instructions. Where required, we also honor requests to opt out submitted via privacy preference signals recognized under applicable law, such as the Global Privacy Control (“GPC”) or any other types of Do Not Track (“DNT”) signals.
+    
     If you submit a request to exercise one of the above rights and you disagree with our decision regarding your request, you may have the right to appeal our decision under applicable law. To do so, please reply to our response.
     
-    **Categories of Personal Information Collected**  
-    The personal information that we’ve collected in the past 12 months fall into the following categories specifically established under the CCPA:
+    **Categories of Personal Information Collected**
+    
+    The personal information that we’ve collected in the past 12 months fall into the following categories specifically established under the California Consumer Privacy Act, as amended (the CCPA):
     
     * Identifiers such as a real name, postal address, unique personal identifier, online identifier, internet protocol address, and email address.
     * Information under Cal. Civ. Code §1798.80(e), such as your name, address, telephone number, or any financial information.
@@ -633,7 +648,8 @@ Your trust is important to us, and we want to ensure that your personal informat
     
     For more information about the categories of personal information we collect, please see the “Personal Information We Collect” section above.
     
-    **Categories of Personal Information Disclosed for a Business Purpose**  
+    **Categories of Personal Information Disclosed for a Business Purpose**
+    
     The personal information that we’ve disclosed for a business purpose (including to our service providers) in the past 12 months fall into the following categories specifically established under the CCPA:
     
     * Identifiers such as a real name, postal address, unique personal identifier, online identifier, internet protocol address, and email address.
@@ -645,10 +661,20 @@ Your trust is important to us, and we want to ensure that your personal informat
     * Inferences drawn on the information above, such as aggregated metrics.
     * Account log-in or credit card number in combination with your credentials allowing access to your account.
     
-    For more information about the categories of personal information we disclose to other parties, including to our services providers, please see the “How We Share Personal Information” section above.
+    For more information about the categories of personal information we disclose to other parties, including to our service providers, please see the “How We Share Personal Information” section above.
     
-    **No Sale or Sharing of Personal Information**  
-    We do not sell or share (for the purpose of cross-context behavioral advertising) your personal information, as those terms are defined under the CCPA.
+    **Categories of Personal Information Shared for Cross-Context Behavioral Advertising**
+    
+    The personal information that we’ve shared with our advertising partners for cross-context behavioral advertising in the past 12 months fall into the following categories specifically established under the CCPA:
+    
+    * Identifiers such as a real name, unique personal identifier, online identifier, internet protocol address, and email address.
+    * Internet or other electronic network activity information, such information regarding your interaction with the Datadog Products.
+    * Geolocation data.
+    * Inferences drawn on the information above, such as aggregated metrics.
+    
+    **Sensitive Personal Information**
+    
+    We do not use or disclose sensitive personal information for purposes other than permitted under applicable law.
     
 10. Changes to this Privacy Policy
     ------------------------------
