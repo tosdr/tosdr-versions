@@ -40,9 +40,9 @@ Check Availability - Mega menu (Upper)
     
     Mobile Description
     
-    Fast, easy Junk Removal - relax and let us take care of everything
+    We do everything - pick up from anywhere.
     
-    * Resources
+    * For Your Needs
         
         * [What We Do](https://www.1800gotjunk.com/us_en/what-we-do/what_we_do)
             
@@ -68,7 +68,7 @@ Check Availability - Mega menu (Upper)
             
         
     
-* [For Business](https://www.1800gotjunk.com/us_en/Commercial/Commercial_Services) Toggle submenu
+* [For Business](https://www.1800gotjunk.com/Commercial/Commercial_Services) Toggle submenu
     
     ### 
     
@@ -86,9 +86,9 @@ Check Availability - Mega menu (Upper)
     
     Mobile Description
     
-    Fast, easy Junk Removal for every type of business - let us do the heavy lifting.
+    We do everything - pick up from anywhere.
     
-    * Resources
+    * For Your Needs
         
         * [Account Request Form](https://www.1800gotjunk.com/us_en/Commercial/contact_national_accounts)
             
@@ -116,11 +116,11 @@ Check Availability - Mega menu (Upper)
             
         
     
-* [Pricing](https://www.1800gotjunk.com/us_en/how-our-pricing-works)
+* [Pricing](https://www.1800gotjunk.com/how-our-pricing-works)
     
-* [What We Take](https://www.1800gotjunk.com/us_en/what-we-take/what_we_take)
+* [What We Take](https://www.1800gotjunk.com/what-we-take/what_we_take)
     
-* [Franchising](https://www.1800gotjunk.com/us_en/franchise/business-opportunity)
+* [Start a Franchise](https://www.1800gotjunk.com/us_en/franchise/business-opportunity)
     
 
 Sub Menu
@@ -442,14 +442,14 @@ Go
 United States Switch Region
 
 * [United States](https://www.1800gotjunk.com/us_en/privacy-notice)
-* [Canada](https://www.1800gotjunk.com/ca_en/privacy-notice)
+* [Canada (English)](https://www.1800gotjunk.com/ca_en/privacy-notice)
 * [Canada (Français)](https://www.1800gotjunk.com/ca_fr/avis-de-confidentialite)
 * [Australia](https://www.1800gotjunk.com.au/)
 
 United States
 
 * [United States](https://www.1800gotjunk.com/us_en/privacy-notice)
-* [Canada](https://www.1800gotjunk.com/ca_en/privacy-notice)
+* [Canada (English)](https://www.1800gotjunk.com/ca_en/privacy-notice)
 * [Canada (Français)](https://www.1800gotjunk.com/ca_fr/avis-de-confidentialite)
 * [Australia](https://www.1800gotjunk.com.au/)
 
@@ -515,14 +515,14 @@ Company
 United States Switch Region
 
 * [United States](https://www.1800gotjunk.com/us_en/privacy-notice)
-* [Canada](https://www.1800gotjunk.com/ca_en/privacy-notice)
+* [Canada (English)](https://www.1800gotjunk.com/ca_en/privacy-notice)
 * [Canada (Français)](https://www.1800gotjunk.com/ca_fr/avis-de-confidentialite)
 * [Australia](https://www.1800gotjunk.com.au/)
 
 United States
 
 * [United States](https://www.1800gotjunk.com/us_en/privacy-notice)
-* [Canada](https://www.1800gotjunk.com/ca_en/privacy-notice)
+* [Canada (English)](https://www.1800gotjunk.com/ca_en/privacy-notice)
 * [Canada (Français)](https://www.1800gotjunk.com/ca_fr/avis-de-confidentialite)
 * [Australia](https://www.1800gotjunk.com.au/)
 
@@ -866,6 +866,30 @@ Bruno Souza Monteregie Metro 16/03/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Jason & Diego very efficient, friendly. Highly recommend.
+
+Rita Flores LA Metro 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Yaseen and Caleb did a nice job. Professional and quick.
+
+James Schuh Wisconsin 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Booked a crew at 9am on Saturday for 2pm arrival. Keone and Connor were quick and professional. Would highly recommend
+
+Kyle Krueger Wisconsin 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Quick, efficient, complete service.
 
 John Blanton Cincinnati 02/11/2024
@@ -898,6 +922,14 @@ Ellie Kozarec Cincinnati 02/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Kaden and Devin were awesome. So quick and helpful :)
+
+x x Madison 02/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Kegan and Jordan were awesome and very professional! We would highly recommend 1-800-got-junk!
 
 R Ward Naples 02/11/2024
@@ -922,41 +954,9 @@ Keaton S Naples 02/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Jason & Diego very efficient, friendly. Highly recommend.
-
-Rita Flores LA Metro 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Yaseen and Caleb did a nice job. Professional and quick.
-
-James Schuh Wisconsin 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Kegan & Jordan were absolutely amazing!! We would give them more than 5 stars if we could.
 
 Haydn Hart Naples 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Booked a crew at 9am on Saturday for 2pm arrival. Keone and Connor were quick and professional. Would highly recommend
-
-Kyle Krueger Wisconsin 02/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Eaton and Bobby were wonderful!!
-
-Deb Andersen Naples 02/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -970,9 +970,9 @@ David Zwiers Seattle 02/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Kaden and Devin were awesome. So quick and helpful :)
+Eaton and Bobby were wonderful!!
 
-x x Madison 02/11/2024
+Deb Andersen Naples 02/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -1002,9 +1002,9 @@ Hanane Ahmed Seattle 01/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Keith and Chris did a great job removing some really heavy and unwieldy items from my basement. Thanks guys.
+Daryl and Montonio were awesome - super friendly, clean, quick and fair!
 
-Casey Stang Wisconsin 01/11/2024
+Jonathan Hoeg LA Metro 01/11/2024
 
 ### 
 
@@ -1022,7 +1022,7 @@ Fast, easy Junk Removal for every type of business - let us do the heavy lifting
 
 Mobile Description
 
-Fast, easy Junk Removal for every type of business - let us do the heavy lifting.
+We do everything - pick up from anywhere.
 
 ### 
 
@@ -1040,7 +1040,7 @@ Fast, easy Junk Removal - relax and let us take care of everything
 
 Mobile Description
 
-Fast, easy Junk Removal - relax and let us take care of everything
+We do everything - pick up from anywhere.
 
 Let's see if we're in your neighborhood.  
 This may take a moment.
