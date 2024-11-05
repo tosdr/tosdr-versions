@@ -134,11 +134,11 @@ If you believe that any information we are holding on you is incorrect or incomp
     
     [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA4AQAAAAA3bDzRAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIwC2gAABGAAAe2S0E4AAAAASUVORK5CYII=)
     
-    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/07/SPA-Virtual-Support-Group-Facebook-Cover-1-150x56.png)](https://washingtonautismalliance.org/events/high-masking-autistic-students-monthly-virtual-parent-support-sessions/?occurrence=2024-11-11)
+    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/07/SPA-Virtual-Support-Group-Facebook-Cover-1-150x56.png)](https://washingtonautismalliance.org/events/supporting-parents-of-autism-spa-2/?occurrence=2024-11-11)
     
     Nov 11 2024
     
-    #### [Supporting Parents of Autism - SPA](https://washingtonautismalliance.org/events/high-masking-autistic-students-monthly-virtual-parent-support-sessions/?occurrence=2024-11-11)
+    #### [Supporting Parents of Autism - SPA](https://washingtonautismalliance.org/events/supporting-parents-of-autism-spa-2/?occurrence=2024-11-11)
     
     Zoom https://zoom.us (please download the app and check your internet connectivity)
     
