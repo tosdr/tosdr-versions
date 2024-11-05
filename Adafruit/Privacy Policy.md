@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ There are a few people out there who really enjoy hacking things...”
+“ This good fun, explore, explore, explore, that's what science is, exploration, finding out new things, so have a good time with it”
 
-[Helen Greiner](http://www.nytimes.com/2006/03/08/technology/08iht-ptbot09.html?_r=0)
+[Charles Townes](http://en.wikipedia.org/wiki/Charles_H._Townes)
 
 [](https://www.adafruit.com/about)
 
