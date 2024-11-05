@@ -66,17 +66,17 @@
         
         By Madison Emily Whisenand [Read More](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
         
-    *  [![gwen stefani and husband](https://www.women.com/img/gallery/the-5-biggest-glow-downs-in-celebrity-fashion-history/intro-1730321365.jpg)](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
+    *  [![Dolly Parton smiling](https://www.women.com/img/gallery/why-dolly-parton-is-childless-by-choice-not-that-we-deserve-to-ask/intro-1730135417.jpg)](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
         
-        [Fashion](https://www.women.com/category/fashion/)
+        [Living](https://www.women.com/category/living/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+        [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
         
-        ### [The 5 Biggest Glow-Downs In Celebrity Fashion History](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
+        ### [Why Dolly Parton Is Childless By Choice (Not That We Deserve To Ask)](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
         
-        Celebrity glow-downs don't have to be bad. As Lady Gaga and Angelina Jolie age, they're leaving behind bold statement pieces in favor of timeless classics.
+        The decision to have or not have a child is a big one. For Dolly Parton, her career played a major role in her choice to not have kids.
         
-        By Amanda Chatel [Read More](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
+        By Madison Emily Whisenand [Read More](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
         
 
 More Stories
@@ -94,17 +94,17 @@ More Stories
     
     By Emily Hutchinson [Read More](https://www.women.com/1700084/what-went-down-solemender-after-shark-tank/)
     
-*  [![Dolly Parton smiling](https://www.women.com/img/gallery/why-dolly-parton-is-childless-by-choice-not-that-we-deserve-to-ask/intro-1730135417.jpg)](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
+*  [![gwen stefani and husband](https://www.women.com/img/gallery/the-5-biggest-glow-downs-in-celebrity-fashion-history/intro-1730321365.jpg)](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
     
-    [Living](https://www.women.com/category/living/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
     
-    ### [Why Dolly Parton Is Childless By Choice (Not That We Deserve To Ask)](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
+    ### [The 5 Biggest Glow-Downs In Celebrity Fashion History](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
     
-    The decision to have or not have a child is a big one. For Dolly Parton, her career played a major role in her choice to not have kids.
+    Celebrity glow-downs don't have to be bad. As Lady Gaga and Angelina Jolie age, they're leaving behind bold statement pieces in favor of timeless classics.
     
-    By Madison Emily Whisenand [Read More](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
+    By Amanda Chatel [Read More](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
     
 *  [![Kourtney Kardashian kissing Travis Barker](https://www.women.com/img/gallery/10-awkward-celebrity-pda-moments-we-wish-we-didnt-have-to-see/intro-1730224757.jpg)](https://www.women.com/1700545/awkward-celebrity-pda-moments/)
     
