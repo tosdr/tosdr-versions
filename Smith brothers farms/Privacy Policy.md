@@ -190,7 +190,7 @@ Hi
         
     * [New! (49)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (28)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (30)](https://www.smithbrothersfarms.com/on-special)
         
     * [Thanksgiving Essentials (24)](https://www.smithbrothersfarms.com/thanksgiving-essentials)
         
