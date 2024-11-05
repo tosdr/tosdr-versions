@@ -439,6 +439,7 @@ Footer menu
     * [Find Stores](https://purple.com/stores/)
     * [Discount Programs](https://purple.com/coupons)
     * [Influencer Program](https://purple.com/ambassador)
+    * [Affiliate Program](https://purple.com/affiliate-program)
     * [Refer a Friend](https://purple.com/invite?traffic_source=site_footer)
     * [Become a Purple Retailer](https://purple.com/become-purple-retailer)
 * Learn
