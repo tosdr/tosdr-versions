@@ -4,7 +4,7 @@ Hit enter to search or ESC to close
 
 [![Advangelists Micro Audience Ad Targeting Technology](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Advangelists Micro Audience Ad Targeting Technology](https://87a7c6.p3cdn1.secureserver.net/wp-content/uploads/2019/01/logo.png?time=1729711225)](https://advangelists.com/)
+![Advangelists Micro Audience Ad Targeting Technology](https://87a7c6.p3cdn1.secureserver.net/wp-content/uploads/2019/01/logo.png?time=1730765259)](https://advangelists.com/)
 
 [](#sidewidgetarea)
 
@@ -26,7 +26,7 @@ Hit enter to search or ESC to close
 
 ![Advangelists Micro Audience Ad Targeting Technology](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Advangelists Micro Audience Ad Targeting Technology](https://87a7c6.p3cdn1.secureserver.net/wp-content/uploads/2019/01/logo.png?time=1729711225)
+![Advangelists Micro Audience Ad Targeting Technology](https://87a7c6.p3cdn1.secureserver.net/wp-content/uploads/2019/01/logo.png?time=1730765259)
 
 [Menu](#)
 
