@@ -121,7 +121,7 @@ Personal email correspondence is also stored securely on our server, whilst back
 Information about advertising and cookies
 -----------------------------------------
 
-A cookie is a very small data file (normally including an anonymous, unique identifier) that is sent to your browser by a web server and subsequently stored on your computer's hard drive. Almost every website with a user account system, and many without, from Amazon to the BBC, use cookies. For a more detailed explanation of what a cookie is please see [Wikipedia](https://en.wikipedia.org/wiki/HTTP_cookie)
+A cookie is a very small data file (normally including an anonymous, unique identifier) that is sent to your browser by a web server and subsequently stored on your computer's hard drive. Almost every website with a user account system, and many without, from Amazon to the BBC, use cookies. For a more detailed explanation of what a cookie is please see [Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)
 
 Like most websites, British Comedy Guide uses cookies to determine whether you are logged in and, if you are, remember you so that you don't have to keep logging in every time your visit the website. _Our cookies contain no personal information._
 
