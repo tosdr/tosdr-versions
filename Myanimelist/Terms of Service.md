@@ -50,6 +50,9 @@ View all results for ${ keyword }
     * [Report](https://myanimelist.net/modules.php?go=report&_location=mal_h_m)
     * [Staff](https://myanimelist.net/staff?_location=mal_h_m)
     * [MAL Supporter](https://myanimelist.net/membership?_location=mal_h_m)
+* [![20th anniversary](https://cdn.myanimelist.net/images/event/20th_anniversary/badge.png)](https://myanimelist.net/20th_anniversary?utm_source=MAL&utm_medium=globalmenu&utm_content=pageopen)
+
+[](#)[🎂 **Celebrate 20 years of MAL with us!** Grab your profile badge and enter our anniversary giveaway](https://myanimelist.net/20th_anniversary?utm_source=MAL&utm_medium=textribbon&utm_content=pageopen)
 
 Terms
 =====
