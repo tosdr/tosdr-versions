@@ -331,7 +331,7 @@
 
 04.11.24
 
-[![«Единая Россия» организует гуманитарную помощь жителям освобождённого посёлка Горняк в ДНР](https://cdn.er.ru/img/stubs/small/4.jpg)](https://er.ru/activity/news/edinaya-rossiya-organizuet-gumanitarnuyu-pomosh-zhitelyam-osvobozhdyonnogo-posyolka-gornyak-v-dnr)
+[![«Единая Россия» организует гуманитарную помощь жителям освобождённого посёлка Горняк в ДНР](https://cdn.er.ru/img/stubs/small/5.jpg)](https://er.ru/activity/news/edinaya-rossiya-organizuet-gumanitarnuyu-pomosh-zhitelyam-osvobozhdyonnogo-posyolka-gornyak-v-dnr)
 
 [«Единая Россия» организует гуманитарную помощь жителям освобождённого посёлка Горняк в ДНР](https://er.ru/activity/news/edinaya-rossiya-organizuet-gumanitarnuyu-pomosh-zhitelyam-osvobozhdyonnogo-posyolka-gornyak-v-dnr)
 
