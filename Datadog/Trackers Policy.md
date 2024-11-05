@@ -229,7 +229,7 @@ Cookie Policy | Datadog
     
     Use Case
     
-    * [Unified Application Security](https://www.datadoghq.com/solutions/unified-application-security)
+    * [Application Security](https://www.datadoghq.com/solutions/application-security)
     * [Cloud Migration](https://www.datadoghq.com/solutions/cloud-migration/)
     * [Monitoring Consolidation](https://www.datadoghq.com/solutions/monitoring-consolidation/)
     * [Unified Commerce Monitoring](https://www.datadoghq.com/solutions/unified-commerce-monitoring/)
@@ -409,7 +409,7 @@ Toggle navigation
     
     Use Case
     
-    * [Unified Application Security](https://www.datadoghq.com/solutions/unified-application-security)
+    * [Application Security](https://www.datadoghq.com/solutions/application-security)
     * [Cloud Migration](https://www.datadoghq.com/solutions/cloud-migration/)
     * [Monitoring Consolidation](https://www.datadoghq.com/solutions/monitoring-consolidation/)
     * [Unified Commerce Monitoring](https://www.datadoghq.com/solutions/unified-commerce-monitoring/)
