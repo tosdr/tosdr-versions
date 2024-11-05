@@ -31,11 +31,445 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-(Video) Kamala Harrys aparece en programa cómico y desata la polémica
+En Quito se realizan obras de renovación de espacios públicos
+=============================================================
+
+Quito sigue transformando sus espacios públicos con la rehabilitación del parque Pío Alvarado en La Kennedy y el asfaltado en el barrio Bello Horizonte 1.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El parque Pío Alvarado, ubicado en La Kennedy, está siendo transformado gracias a un proyecto de rehabilitación. Foto: Municipio de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-10-30-at-16.08.14-800x445-1.jpg)
+
+  
+**Quito impulsa la transformación de sus espacios públicos** con dos grandes obras que beneficiarán a miles de habitantes: la renovación del parque Pío Alvarado en La Kennedy y el asfaltado de calles en el barrio Bello Horizonte 1, en El Quinche.
+
+### Más noticias
+
+* [Hay informantes que dicen que Fito está en Ecuador, pero también lo ubican afuera](https://www.elcomercio.com/actualidad/hay-informantes-que-dicen-que-fito-esta-en-ecuador-pero-tambien-lo-ubican-afuera.html)
+* [Horarios de cortes de luz en Quito para este 5 de noviembre](https://www.elcomercio.com/actualidad/horarios-de-cortes-de-luz-en-quito-para-este-5-de-noviembre.html)
+* [Cortes de luz en Guayaquil este martes 5 de noviembre](https://www.elcomercio.com/actualidad/cortes-de-luz-en-guayaquil-este-martes-5-de-noviembre.html)
+
+  
+Renovación del parque Pío Alvarado en La Kennedy
+---------------------------------------------------
+
+Con una intervención de 874 m², el **parque Pío Alvarado**, ubicado en **La Kennedy**, en el norte de Quito, se encuentra en plena **fase de rehabilitación**. Los trabajos impulsados por el Municipio de Quito, a través de la Empresa Pública Metropolitana de Movilidad y Obras Públicas (Epmmop), incluyen **la poda técnica de árboles**, el corte de la capa vegetal y la **renovación de juegos infantiles** y mobiliario urbano.
+
+**La rehabilitación del parque, que se extenderá durante todo noviembre**, busca convertirlo en un espacio inclusivo, seguro y sustentable. Esta obra se suma a otras renovaciones que se están llevando a cabo en **diferentes sectores de Quito**, como Chillogallo, La Argelia, Calderón, Nayón y La Mariscal, con el fin de mejorar la calidad de vida de los ciudadanos.
+
+  
+Asfaltado en el barrio Bello Horizonte 1 de El Quinche
+---------------------------------------------------------
+
+Al mismo tiempo, en la **parroquia de El Quinche**, se ejecuta un importante proyecto de mejoramiento vial que beneficiará a cerca de 8 000 personas. La obra consiste en el **asfaltado de 9.4 kilómetros** de calles de tierra en el barrio Bello Horizonte 1. La intervención inició en las calles N2, N2A y N2C, y se prevé que los trabajos tengan una **duración de 80 días**.
+
+Francisco Morales, residente del sector, expresó su satisfacción por la obra: “Esto lo hemos esperado por más de 40 años. Vivir en tierra y lodo ha sido una realidad difícil, pero estamos agradecidos por la gestión del alcalde que finalmente nos ha tomado en cuenta”.
+
+  
+Mejoras para la movilidad y seguridad en El Quinche
+------------------------------------------------------
+
+Con esta intervención, la Epmmop busca no solo mejorar la conectividad vial, sino también **garantizar la seguridad de los residentes y visitantes del sector**. Se implementarán cierres viales por tramos para minimizar las molestias, y se llevarán a cabo **jornadas de socialización** para mantener informada a la comunidad sobre los avances de la obra.
+
+Los beneficiarios directos del proyecto ascienden a 4 400 personas, mientras que otros 3 500 serán beneficiados de forma indirecta. La mejora vial en Bello Horizonte 1 es un paso importante para garantizar una mejor movilidad y transformar la vida de los moradores.
+
+  
+Con estas intervenciones, **Quito sigue avanzando** en su objetivo de renovar sus espacios públicos y mejorar la **infraestructura de sectores vulnerables**.
+
+Chris Martin, líder de Coldplay, sufre caída en pleno concierto en Melbourne, Australia
+=======================================================================================
+
+El vocalista de Coldplay, Chris Martin, tuvo un incidente durante su concierto en el Marvel Stadium de Melbourne, Australia.
+----------------------------------------------------------------------------------------------------------------------------
+
+![El incidente ocurrió mientras la banda interpretaba una de sus canciones más emotivas. Foto: Captura de pantalla.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-1-1.jpg)
+
+  
+El l**íder de Coldplay, Chris Martin**, vivió un momento de tensión en el Marvel Stadium de Melbourne durante su gira Music of the Spheres.
+
+### Más noticias
+
+* [(Video) Kamala Harris aparece en programa cómico y desata la polémica](https://www.elcomercio.com/actualidad/mundo/video-kamala-harris-aparece-en-programa-comico-y-desata-la-polemica.html)
+* [El cuerpo de Liam Payne será embalsamado antes del traslado a Londres](https://www.elcomercio.com/tendencias/cuerpo-liam-payne-embalsamado-traslado-londres.html)
+* [Margot Robbie, la Barbie, se estrena como madre](https://www.elcomercio.com/tendencias/entretenimiento/margot-robbie-barbie-estrena-madre.html)
+
+  
+El **incidente ocurrió este fin de semana** mientras Coldplay ofrecía uno de sus conciertos en Australia. Chris Martin, el vocalista de la banda británica, **sufrió una caída inesperada en el escenario**.
+
+  
+La caída de Chris Martin en pleno concierto
+----------------------------------------------
+
+Todo **sucedió mientras Martin se desplazaba por el escenario** tras interpretar la emotiva canción Everglow. Caminando hacia atrás, sin darse cuenta de que se acercaba a una de las trampillas del escenario, **el cantante tropezó y cayó en un agujero**. Afortunadamente, un miembro del equipo técnico de Coldplay reaccionó rápidamente y **logró sujetarlo**, esto evitó lo que pudo haber sido un accidente grave.
+
+Chris Martin, visiblemente sorprendido, pero ileso, se levantó y **bromeó con el público**, diciendo: “Eso no estaba planeado. Gracias, gracias por atraparme. ¡Esto casi se convierte en un momento digno de YouTube!”. La situación, aunque preocupante, **no pasó a mayores** y el espectáculo continuó sin contratiempos.
+
+  
+La reacción de los fans y redes sociales
+-------------------------------------------
+
+  
+El video del momento rápidamente **se volvió viral en redes sociales**, donde los fans expresaron su preocupación y alivio por el estado de salud de **Chris Martin**. Algunos de los comentarios más destacados fueron: “Dios mío, qué peligroso”; “Es un milagro que no haya pasado nada grave” y “¡Cuidado con las trampillas, Chris!”. Las comparaciones con la caída que sufrió Olivia Rodrigo en otro concierto en Australia no tardaron en aparecer.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DB9edvLv9UO/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por E! News (@enews)](https://www.instagram.com/reel/DB9edvLv9UO/?utm_source=ig_embed&utm_campaign=loading)
+
+  
+La seguridad en los escenarios y accidentes similares
+--------------------------------------------------------
+
+  
+El **accidente de Chris Martin** en Melbourne es un recordatorio de los riesgos que los **artistas enfrentan en el escenario**, a pesar de las medidas de seguridad. Recientemente, la cantante Olivia Rodrigo también cayó en una trampilla durante un show en Australia, lo que genera **inquietud sobre la seguridad de los escenarios** en grandes eventos.
+
+  
+Coldplay y su futuro musical
+-------------------------------
+
+  
+En noticias relacionadas, **Chris Martin reveló recientemente los planes a futuro de Coldplay**. La banda tiene previsto lanzar un total de 12 álbumes de estudio, de los cuales han publicado 10 hasta ahora. **Martin mencionó que desean limitar su producción musical** para garantizar la calidad de sus trabajos, una decisión que ha generado diversas reacciones entre los seguidores.
+
+  
+A pesar del incidente, **Chris Martin y Coldplay** siguen adelante con su exitosa gira Music of the Spheres, que continuará por otras ciudades de Australia y el mundo. Sus seguidores, que se sintieron aliviados de que la caída **no resultara en un accidente mayor**, seguirán apoyando a la banda mientras continúan brindando espectáculos inolvidables en **escenarios internacionales**.
+
+Hay informantes que dicen que Fito está en Ecuador, pero también lo ubican afuera
+=================================================================================
+
+La Policía de Ecuador continúa con los operativos de búsqueda para capturar a Adolfo Macías Villamar, alias Fito. Los informantes tienen varias versiones.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Alias 'Fito', antes de fugarse de la cárcel.](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-26.jpg)
+
+La ministra ecuatoriana del Interior, **Mónica Palencia**, aseguró este lunes 4 de noviembre de 2024 que la tasa de homicidios intencionales en lo que va del año se ha reducido en el **17,6 por ciento**, respecto al indicador registrado en el mismo periodo de 2023. También se refirió a la situación de alias ‘**Fito**‘ y los **informantes** que tienen pistas de su paradero[.](https://es.wikipedia.org/wiki/Fito_(criminal) "https://es.wikipedia.org/wiki/Fito_(criminal)")
+
+### Más noticias
+
+* [Alias ‘Fito’, líder de Los Choneros, tiene alerta roja de la Interpol](https://www.elcomercio.com/actualidad/seguridad/alias-fito-choneros-alerta-roja-interpol.html "https://www.elcomercio.com/actualidad/seguridad/alias-fito-choneros-alerta-roja-interpol.html")
+* [¿Dónde está Adolfo Muñoz alias ‘Fito’?](https://www.elcomercio.com/actualidad/seguridad/alias-fito-choneros-alerta-roja-interpol.html "https://www.elcomercio.com/actualidad/seguridad/alias-fito-choneros-alerta-roja-interpol.html")
+
+Fito y los informantes
+----------------------
+
+La Policía continúa con los operativos de búsqueda para capturar a **Adolfo Macías Villamar, alias ‘Fito’,** señalado como el líder de la organización delictiva **Los Choneros**, clasificada como grupo terrorista por el Gobierno. Según informó Mónica Palencia, ministra del Interior, el proceso ha sido complejo debido a **informes contradictorios** que sitúan a Fito en distintas ubicaciones dentro y fuera del país.
+
+Durante una rueda de prensa en Manta, **Palencia** explicó que el trabajo de localización requiere el seguimiento de **varias líneas de investigación** y aseguró que la Policía no solo busca a Fito, sino también a otros individuos con deudas pendientes con la **justicia ecuatoriana**. La ministra destacó el esfuerzo y el compromiso de la Policía en el combate al crimen organizado y al terrorismo en el país.
+
+Además, la **Interpol** ha emitido una notificación roja para el caso de Fito, lo que implica que su búsqueda es ahora una prioridad para las fuerzas de seguridad de **197 países**. Esta notificación permite a la Interpol pedir a las autoridades del mundo su colaboración en la captura y extradición de **Macías** **Villamar**.
+
+“Interpol está en ese trabajo, ya que 197 países tienen reportada la búsqueda del señor **Adolfo Macías**, conocido como ‘Fito’. Además, es importante saber que los esfuerzo no son fáciles, porque hay muchos informantes que afirman haberlo visto en el **interior del país y fuera de él**. Entonces, seguir todas las líneas para la exploración es un **arduo trabajo**“, dijo Palencia.
+
+La situación de los asesinatos en Ecuador
+-----------------------------------------
+
+Palencia indicó que el **Bloque de Seguridad,** una instancia integrada también por jefes policiales y militares para ejecutar acciones contra el crimen organizado, ha efectuado una estadística que sugiere tal reducción en la tasa de muertes violentas en el país.
+
+En 2023, Ecuador fue catalogado como el país más violento de América Latina, con una tasa de homicidios del **47 por ciento por cada 100.000 habitantes**, situación atribuida por las autoridades al accionar de bandas de delincuencia organizada, ahora identificadas por las autoridades como terroristas.
+
+La ministra destacó el indicador en la ciudad costera de **Manta**, en Manabí, y dijo que del 6 de junio al 3 de noviembre de este año se ha registrado una **reducción del 28,6 por ciento** en homicidios intencionales, en comparación al mismo periodo de 2023.
+
+Asimismo, resaltó la situación en **Durán**, uno de los municipios más violentos del país y que es vecino de la urbe portuaria de Guayaquil, y dijo que ahí se ha registrado una **reducción del 23,6 por ciento** en homicidios intencionales, en la comparación entre los dos periodos.
+
+Palencia también indicó en una rueda de prensa que en lo que va del año se han decomisado **248,66 toneladas de drogas**, lo que sugiere un aumento de 34,9 por ciento en el volumen de estupefacientes incautadas respecto a igual lapso de 2023 cuando fue de 184,31 toneladas.
+
+El año pasado, **Ecuador** fue catalogado como el tercer país en el mundo en **incautación de drogas**, solo por detrás de Colombia y Estados Unidos, con 200 toneladas anuales, mientras que en lo que va de 2024 ya ha superado ese volumen.
+
+De su lado, el **comandante** general de Policía, Víctor Hugo **Zárate**, en la misma rueda de prensa, precisó que tras las acciones del Bloque de Seguridad, entre enero y noviembre de este año se han **incautado 8.955 armas de fuego.**
+
+También 326.075 municiones, 19.060 armas blancas, 5.224 **vehículos** **recuperados** al igual que 7.814 motocicletas y 29.832 explosivos con un volumen global de 1.223 kilos.
+
+Zárate indicó que se han detenido **1.312 personas sospechosas** de integrar bandas del crimen organizado y que se ha logrado liberar a 1.964 ciudadanos reportados como secuestrados.
+
+Desde inicios de año, el presidente de Ecuador, **Daniel Noboa**, elevó la lucha contra el crimen organizado a la categoría de “conflicto armado interno”, con lo que pasó a catalogar a las bandas criminales como grupos terroristas y actores beligerantes no estatales.
+
+A las bandas del **crimen organizado**, dedicadas principalmente al narcotráfico, la minería ilegal, la extorsión y el secuestro, se les atribuye la ola de violencia que azota a **Ecuador** desde hace unos cuatro años.
+
+**_Con información de EFE_**
+
+Cortes de luz en Guayaquil este martes 5 de noviembre
+=====================================================
+
+Este martes 5 de noviembre de 2024, Guayaquil enfrentará nuevos cortes de luz programados en varios sectores debido a la crisis energética que afecta a todo el país.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Según la planificación de la CNEL, los cortes afectarán tanto a zonas residenciales como a sectores industriales de Guayaquil. Foto: CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/11/CortesDeLuz2.jpg)
+
+  
+Este martes 5 de noviembre de 2024, **Guayaquil** enfrentará **cortes de energía eléctrica programados** debido a la crisis energética que afecta al país. 
+
+### Más noticias
+
+* [Horarios de cortes de luz en Quito para este 5 de noviembre](https://www.elcomercio.com/actualidad/horarios-de-cortes-de-luz-en-quito-para-este-5-de-noviembre.html)
+* [Vuelo que cubría la ruta Bogotá-Madrid es tendencia en redes](https://www.elcomercio.com/actualidad/mundo/vuelo-ruta-bogota-madrid-aterrizo-emergencia.html)
+* [Sacerdote reportado como desaparecido fue hallado en Panzaleo](https://www.elcomercio.com/actualidad/seguridad/sacerdote-reportado-como-desaparecido-encontrado-panzaleo.html)
+
+  
+**La Corporación Nacional de Electricidad (CNEL)** ha establecido un cronograma de apagones que incluye horarios de entre seis y ocho horas, para diferentes sectores de la ciudad. Estos **cortes de luz** continúan luego del feriado por el Día de Difuntos e Independencia de Cuenca, que finalizó este 4 de noviembre.
+
+  
+Sectores y horarios de los cortes de luz en Guayaquil
+--------------------------------------------------------
+
+  
+El **cronograma de apagones** publicado por la CNEL detalla los sectores y horarios que se verán afectados este 5 de noviembre. 
+
+  
+Para obtener el cronograma completo de los sectores y horarios específicos, los usuarios pueden consultar el **portal web de la CNEL** o comunicarse con sus canales de atención.
+
+  
+Consejos para cuidar los alimentos durante los cortes de luz
+---------------------------------------------------------------
+
+Uno de los mayores desafíos durante los **cortes de energía** es la conservación de los alimentos. Para evitar que se dañen, siga estos consejos:
+
+• **Evite abrir el refrigerador frecuentemente**: Mantenga la puerta cerrada para conservar el frío el mayor tiempo posible. Un refrigerador cerrado puede mantener los alimentos frescos por unas 4 horas.
+
+• Congelación previa: Si es posible, **congele alimentos como carnes y verduras con anticipación**, ya que los congelados duran más tiempo sin electricidad.
+
+• Uso de neveras portátiles: Si tiene una nevera portátil, utilícela para almacenar alimentos perecibles como lácteos o carnes durante los apagones más largos.
+
+  
+Consejos para conducir durante los apagones
+----------------------------------------------
+
+**Conducir en la oscuridad o durante los cortes de luz** puede ser peligroso si no se toman las debidas precauciones. Aquí algunos consejos para conducir de manera segura durante los apagones:
+
+**Revise las luces del vehículo**: Antes de salir, asegúrese de que los faros y luces de freno funcionen correctamente.
+
+**Conduzca a baja velocidad**: Mantener una velocidad moderada le permitirá reaccionar mejor ante cualquier eventualidad.
+
+**Manténgase alerta:** Es crucial prestar atención a peatones y otros vehículos, especialmente en intersecciones donde los semáforos podrían no estar funcionando.
+
+  
+Perspectivas sobre la crisis energética
+------------------------------------------
+
+  
+**Los cortes de luz en Guayaquil**, como en otras ciudades del país, continuarán hasta que se estabilice el suministro de energía en las **principales centrales hidroeléctricas**. Aunque las lluvias recientes en la cuenca hidrográfica oriental han mejorado la situación, **el gobierno aún no ha dado un plazo definitivo para el fin de los apagones**. Manténgase informado a través de los canales oficiales de la CNEL.
+
+Horarios de cortes de luz en Quito para este 5 de noviembre
+===========================================================
+
+Este 5 de noviembre de 2024, Quito enfrentará nuevos cortes de luz debido a la crisis energética que afecta a Ecuador.
+----------------------------------------------------------------------------------------------------------------------
+
+![La Empresa Eléctrica Quito (EEQ) ha proporcionado detalles sobre los horarios. Foto: EEQ.](https://www.elcomercio.com/wp-content/uploads/2024/11/CortesDeLuz1.jpg)
+
+  
+Los **cortes de luz en Quito** continuarán este 5 de noviembre de 2024, tanto en sectores residenciales como industriales. 
+
+### Más noticias
+
+* [(Video) Kamala Harris aparece en programa cómico y desata la polémica](https://www.elcomercio.com/actualidad/mundo/video-kamala-harris-aparece-en-programa-comico-y-desata-la-polemica.html)
+* [Embajada en España tiene noticias del ecuatoriano desaparecido en Valencia](https://www.elcomercio.com/actualidad/embajada-en-espana-tiene-noticias-del-ecuatoriano-desaparecido-en-valencia.html)
+* [Policía libera a mujer víctima de secuestro en Guayas](https://www.elcomercio.com/actualidad/seguridad/policia-libera-mujer-victima-secuestro-guayas.html)
+
+  
+El **racionamiento energético** se debe a la **crisis hídrica** que afecta las principales fuentes de abastecimiento de la central hidroeléctrica **Coca Codo Sinclair**. Aunque las recientes lluvias han ayudado a mejorar los niveles de los ríos, **los cortes aún son necesarios**.
+
+  
+Sectores afectados por los cortes de luz en Quito
+----------------------------------------------------
+
+Para este 5 de noviembre, los cortes de luz afectarán a varias zonas de la capital. Entre los sectores más impactados se encuentran:
+
+• Cotocollao, Carcelén y Ponceano.
+
+• Chillogallo y La Ecuatoriana.
+
+• Valle de Los Chillos y Tumbaco.
+
+Para consultar con precisión los horarios en su sector, puede acceder al portal de la EEQ.
+
+  
+Consejos para enfrentar los apagones
+---------------------------------------
+
+Es importante estar preparados para los cortes de energía que se extenderán por varias horas. Aquí algunos consejos prácticos:
+
+• **Mantener linternas recargables en buen estado** y asegurarse de tener baterías de repuesto.
+
+• **Cargar completamente dispositivos electrónicos** como celulares y laptops antes de los cortes.
+
+• Si tiene vehículo, asegúrese de tener suficiente combustible para emergencias.
+
+• **Almacene agua potable suficiente,** especialmente para tareas básicas como cocinar o higienizar.
+
+  
+Tips para entretener a los pequeños en casa durante los cortes de luz
+------------------------------------------------------------------------
+
+Los **cortes de luz** pueden ser un **desafío para los niños**. Para mantenerlos **ocupados y entretenidos**, aquí algunas actividades:
+
+1\. Juegos de mesa o cartas: Aproveche la ocasión para jugar en familia.
+
+2\. Cuentos o relatos: Crear historias a la luz de las velas puede ser una forma entretenida de pasar el tiempo.
+
+3\. Manualidades: Actividades como dibujar o crear figuras con plastilina son ideales para estimular la creatividad.
+
+  
+Expectativas para los próximos días
+--------------------------------------
+
+  
+Las autoridades no han especificado cuánto más durarán los **racionamientos eléctricos**, pero se espera que las condiciones mejoren a medida que avanza la **temporada de lluvias**. Mientras tanto, es fundamental que los quiteños se mantengan informados a través de los **canales oficiales.**
+
+Universidad Católica tropezó ante Técnico Universitario en Ambato
+=================================================================
+
+Técnico Universitario vence 2-0 a Universidad Católica en Ambato y suma tres puntos clave para mejorar su posición en la LigaPro.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Técnico Universitario recibió a Universidad Católica en la fecha 12 de la LigaPro.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-3.jpg)
+
+**Técnico Universitario y Universidad Católica** finalizaron la primera mitad sin goles en el estadio Bellavista de Ambato, en el partido que cerró la **fecha 12 de la segunda fase de la LigaPro** este 4 de noviembre de 2024.
+
+### Más noticias
+
+* [Técnico Universitario y Universidad Católica cierran la fecha 12 de la LigaPro](https://www.elcomercio.com/deportes/tecnico-universitario-y-universidad-catolica-cieran-fecha-12-ligapro.html "Técnico Universitario y Universidad Católica cierran la fecha 12 de la LigaPro")
+* [Así está la tabla de posiciones de la LigaPro](https://www.elcomercio.com/deportes/asi-esta-la-tabla-de-posiciones-de-la-ligapro.html "Así está la tabla de posiciones de la LigaPro")
+* [¿Cuándo juegan Liga de Quito e Independiente del Valle?](https://www.elcomercio.com/deportes/cuando-juegan-liga-de-quito-independiente-del-valle.html "¿Cuándo juegan Liga de Quito e Independiente del Valle?")
+
+**Universidad Católica** inició el partido con una estrategia ofensiva, utilizando sus extremos para generar peligro en el área rival, aunque sin lograr oportunidades claras de gol.
+
+Por su parte, **Técnico Universitario** apostó por ataques por las bandas, aprovechando la velocidad de jugadores como **Caicedo y Vera**, y la solidez en defensa de **Diego Armas y Elvis Patta**.
+
+La jugada más peligrosa del primer tiempo llegó en el minuto 43, cuando **Técnico Universitario** tuvo un triple remate en el área que, a pesar de los esfuerzos, no pudo concretarse en gol. El primer tiempo terminó con un **empate 0-0** y escasas ocasiones de ambos lados.
+
+> [#LigaProEcuabet](https://twitter.com/hashtag/LigaProEcuabet?src=hash&ref_src=twsrc%5Etfw)  
+>   
+> Comienza el segundo tiempo en el Estadio Bellavista 🏟️  
+>   
+> T. Universitario 0️⃣-0️⃣ U. Católica  
+>   
+> ¡Vamos Cammaratas! 🔵⚪[#FamiliaCammarata](https://twitter.com/hashtag/FamiliaCammarata?src=hash&ref_src=twsrc%5Etfw) [#TodosPorCatólica](https://twitter.com/hashtag/TodosPorCat%C3%B3lica?src=hash&ref_src=twsrc%5Etfw) [#PorLaPrimera](https://twitter.com/hashtag/PorLaPrimera?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/6LXhvHT48L](https://t.co/6LXhvHT48L)
+> 
+> — UNIVERSIDAD CATÓLICA OFICIAL (@UCatolicaEC) [November 4, 2024](https://twitter.com/UCatolicaEC/status/1853544047790444803?ref_src=twsrc%5Etfw)
+
+Técnico Universitario rompe el empate
+-------------------------------------
+
+En la segunda mitad**, Universidad Católica buscó el gol mediante jugadas de Alexander Alvarado**, quien intentó habilitar a **José Fajardo** en dos ocasiones, aunque ambas fueron anuladas por fuera de juego.
+
+A los 66 minutos, el técnico de Universidad Católica realizó cuatro cambios en un intento de mejorar la dinámica del equipo, introduciendo a jugadores como **Facundo Martínez y Luciano Nieto**. A pesar de los cambios, el marcador se mantuvo sin goles.
+
+Fue en el minuto 83 cuando **Diego Ledesma**, tras un tiro libre, conectó un cabezazo cerca del punto penal y abrió el marcador, **poniendo en ventaja a Técnico Universitario**. Poco después, un penal concedido por una mano en el área de Universidad Católica permitió a **Diego Armas sellar el 2-0** desde los once metros en el minuto 90.
+
+> 🔥 ¡G⚽⚽⚽⚽L! 🔥  
+>   
+> 🟥⬜️🟥⬜️🟥⬜️🟥⬜️[#TécnicoPresente](https://twitter.com/hashtag/T%C3%A9cnicoPresente?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/X4UZVx2cmK](https://t.co/X4UZVx2cmK)
+> 
+> — TécnicoUniversitario (@TecnicoUOficial) [November 4, 2024](https://twitter.com/TecnicoUOficial/status/1853555689949364379?ref_src=twsrc%5Etfw)
+
+Situación en la tabla de posiciones
+-----------------------------------
+
+Con este resultado, **Técnico Universitario** suma tres puntos valiosos en la tabla acumulada. Este triunfo les permite acercarse a equipos como **Emelec y Macará**, alejándose de la zona de descenso y manteniendo la esperanza de mejorar su posición en las últimas fechas del torneo.
+
+**Universidad Católica**, que venía con una buena racha en esta segunda fase, se mantiene en la parte media de la tabla acumulada y **pierde una oportunidad de sumar puntos** importantes para asegurar su clasificación a torneos internacionales.
+
+Este partido deja a **Técnico Universitario** en una posición favorable para las siguientes jornadas, mientras que **Universidad Católica** deberá ajustar su estrategia para los próximos encuentros.
+
+Arturo Vidal y jugadores de Colo Colo son investigados por denuncia de agresión sexual
+======================================================================================
+
+Futbolistas del equipo chileno, Colo Colo, investigados por presunto delito de connotación sexual.
+--------------------------------------------------------------------------------------------------
+
+![El futbolista chileno Arturo Vidal y otros compañeros del Colo Colo se encuentran bajo investigación. Foto: Instagram de Colo Colo](https://www.elcomercio.com/wp-content/uploads/2024/11/ArturoVidal1.jpg)
+
+  
+Arturo Vidal, destacado futbolista chileno de 37 años, y varios de sus compañeros del club **Colo Colo** enfrentan una denuncia por presunto delito de connotación sexual. 
+
+### Más noticias
+
+* [Daniel Pintado está entre los finalistas a mejor atleta del año](https://www.elcomercio.com/deportes/atletismo/daniel-pintado-entre-finalistas-mejor-atleta-del-ano.html)
+* [El cuerpo de Liam Payne será embalsamado antes del traslado a Londres](https://www.elcomercio.com/tendencias/cuerpo-liam-payne-embalsamado-traslado-londres.html)
+* [Embajada en España tiene noticias del ecuatoriano desaparecido en Valencia](https://www.elcomercio.com/actualidad/embajada-en-espana-tiene-noticias-del-ecuatoriano-desaparecido-en-valencia.html)
+
+  
+Control de identidad y primeras diligencias
+----------------------------------------------
+
+  
+Según información proporcionada por **Carabineros de Chile**, **Vidal fue llevado a la comisaría** para un control de identidad investigativo, aunque fue liberado poco después. “Fue trasladado dentro del contexto de las primeras diligencias e indagaciones”, señaló el coronel Gerardo Aravena, quien confirmó que aún no hay detenidos en el caso.
+
+  
+Celebración y la denuncia
+----------------------------
+
+  
+Los hechos ocurrieron en la madrugada de este lunes **en un bar de la comuna de Vitacura**, en el nororiente de Santiago, donde los futbolistas celebraban el triunfo ante Deportes Iquique -que los deja a un paso de ser campeones de la liga chilena- y los cumpleaños de los jugadores Lucas Cepeda, de 22 años, y Vicente Pizarro, de 21.
+
+“Sí, es un grupo de deportistas, no les puedo dar mayores antecedentes porque hay diligencias que se están haciendo en este minuto y puede entorpecer el desarrollo de la investigación. No hemos tenido detenidos en la jornada. La denuncia es por un delito de connotación sexual”, agregó Aravena.
+
+  
+Investigación en curso
+-------------------------
+
+En Chile, la Fiscalía Metropolitana Oriente, encabezada por el fiscal Francisco Lanas, comenzó las primeras diligencias para **esclarecer los hechos.** Las autoridades esperan que la víctima acuda al **Servicio Médico Legal** para realizar los exámenes pertinentes y determinar si existen responsabilidades penales en el caso.
+
+  
+Colo Colo en silencio
+------------------------
+
+Hasta el momento, el club **Colo Colo no ha emitido ningún pronunciamiento oficial sobre la situación.** Este incidente se produce en una semana decisiva para el equipo, que está a punto de definir el título de la **liga chilena** en un crucial partido contra su archirrival, la Universidad de Chile.
+
+La investigación continúa mientras el caso genera gran conmoción en el **deporte chileno**, en un contexto en el que otro exjugador, **Jorge Valdivia**, también enfrenta **denuncias por violación.**
+
+Daniel Pintado está entre los finalistas a mejor atleta del año
+===============================================================
+
+Daniel Pintado, campeón olímpico ecuatoriano, compite por el título de Atleta del Año en los World Athletics Awards 2024.
+-------------------------------------------------------------------------------------------------------------------------
+
+![Daniel Pintado, campeón olímpico ecuatoriano en marcha de 20 km, compite por el título de Atleta del Año en los World Athletics Awards.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-5.jpg)
+
+En la antesala de los **World Athletics Awards 2024**, los finalistas para el galardón de **Atleta del Año** quedan confirmados. Los dos atletas más destacados de cada categoría: **pista, campo y fuera de estadio** resultaron seleccionados tras la **primera ronda de votación**. El atleta ecuatoriano **Daniel Pintado** está nominado en una categorí
+
+### Más noticias
+
+* [Daniel Pintado busca el premio al atleta del año en el mundo](https://www.elcomercio.com/deportes/atletismo/daniel-pintado-candidato-atleta-masculino-ano-world-athletics.html "Daniel Pintado busca el premio al atleta del año en el mundo")
+* [Glenda Morejón, medallista olímpica en París 2024, se casó](https://www.elcomercio.com/deportes/glenda-morejon-medallista-olimpica-en-paris-2024-se-caso.html "Glenda Morejón, medallista olímpica en París 2024, se casó")
+* [Daniel Pintado está nominado Atleta Masculino Fuera del Estadio del Año](https://www.elcomercio.com/wp-content/uploads/2024/10/DanielPintadoolimpicos.jpg "Daniel Pintado está nominado Atleta Masculino Fuera del Estadio del Año")
+
+Esta etapa incluyó los votos del **Consejo de World Athletics**, de la **Familia World Athletics** y del público en redes sociales. Ahora, uno de estos dos finalistas recibirá el título como el mejor de su categoría. La elección determinará quién se lleva el premio general de **Atleta del Año**.
+
+Este año introduce una **nueva fase de votación**, en la que los fanáticos decidirán al ganador absoluto en la semana del 4 al 10 de noviembre.
+
+Para participar en la votación lo podrán hacer en el siguiente [link](https://eu.research.net/r/2L2KJFC "https://eu.research.net/r/2L2KJFC").
+
+Daniel Pintado nominado en la categoría ‘fuera de estadio’
+----------------------------------------------------------
+
+En la categoría femenina de pista, **Julien Alfred**, campeona olímpica de 100 metros de **Santa Lucía, y Sydney McLaughlin-Levrone**, campeona olímpica de 400 metros vallas de Estados Unidos, compiten por el galardón.
+
+En la categoría masculina de pista, destacan **Jakob Ingebrigtsen**, campeón olímpico de 5000 metros de Noruega, y Letsile Tebogo, campeón olímpico de 200 metros de Botsuana.
+
+Por su parte, en la categoría femenina de campo, **Yaroslava Mahuchikh**, campeona olímpica de salto alto de Ucrania, y **Nafissatou Thiam**, campeona olímpica de heptatlón de Bélgica, se enfrentan.
+
+En la categoría masculina de campo, los finalistas incluyen a **Mondo Duplantis**, campeón olímpico de salto con pértiga de Suecia, y **Miltiadis Tentoglou**, campeón olímpico de salto largo de Grecia.
+
+Por otro lado, en la categoría de fuera de estadio, **Ruth Chepngetich**, récord mundial en maratón de Kenia, y Sifan Hassan, campeona olímpica de maratón de Países Bajos, competirán en la rama femenina. En la rama masculina, **Daniel Pintado,** campeón olímpico ecuatoriano en marcha de 20 km, y **Tamirat Tola**, campeón olímpico de maratón de Etiopía, disputan el título.
+
+> Finalists for the 2024 Athlete of the Year awards revealed 🤩  
+>   
+> The top two leading athletes in each category – track, field and out of stadium – have been chosen from the first round of voting.  
+>   
+> 🔗 [https://t.co/IzzVbLXsSV](https://t.co/IzzVbLXsSV)[#AthleticsAwards](https://twitter.com/hashtag/AthleticsAwards?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/nu90oNRBJX](https://t.co/nu90oNRBJX)
+> 
+> — World Athletics (@WorldAthletics) [November 4, 2024](https://twitter.com/WorldAthletics/status/1853449824571462023?ref_src=twsrc%5Etfw)
+
+Ceremonia y premios especiales para los fanáticos
+-------------------------------------------------
+
+La votación concluye el **10 de noviembre**. Los ganadores de cada categoría, junto con el vencedor general, se anunciarán el 1 de diciembre en una **ceremonia en Mónaco**. Esto como parte de los World Athletics Awards 2024.
+
+Como incentivo para los seguidores, uno de los participantes en la votación y un acompañante podrán disfrutar de un **viaje VIP a Mónaco**. Esta experiencia incluye tres noches de estadía y la oportunidad de conocer a los mejores atletas de 2024. Otros **10 finalistas recibirán una sesión virtual con los atletas**.
+
+(Video) Kamala Harris aparece en programa cómico y desata la polémica
 =====================================================================
 
-Un regulador de la Comisión Federal de Comunicaciones (FCC, en inglés) de EE. UU. afirmó que la aparición sorpresa en video de la candidata demócrata, Kamala Harris, en el programa ‘Saturday Night Live‘ (SNL) este fin de semana violó las reglas del programa de “tiempo igualitario” entre todos los candidatos a la Casa Blanca. Más \[…\]
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Kamaka Harris apareció por sorpresa junto con su imitadora Maya Rudolph para pedir el voto
+------------------------------------------------------------------------------------------
 
 ![La candidata demócrata a la Presidencia de los Estados Unidos, la vicepresidenta de los Estados Unidos, Kamala Harris, habla durante un acto de campaña este domingo, en East Lansing, Michigan (EE.UU.).](https://www.elcomercio.com/wp-content/uploads/2024/11/a781b884132401b35e4cab68106667bde6418c9d.jpg)
 
@@ -71,8 +505,12 @@ La aparición de Kamala Harris en SNL
 
 El sábado, Harris apareció por sorpresa junto con su imitadora **Maya Rudolph** para pedir voto y hacer chistes sobre su rival.  
   
-Harris hizo un cameo durante unos minutos en el programa de comedia que se emite en vivo desde Nueva York para pedir a los estadounidenses que le ayuden a “poner fin al **drámala**“, un juego de palabras que Rudolph ha popularizado durante la **campaña** haciendo imitaciones de la candidata demócrata.  
-  
+Harris hizo un cameo durante unos minutos en el programa de comedia que se emite en vivo desde Nueva York para pedir a los estadounidenses que le ayuden a “poner fin al **drámala**“, un juego de palabras que Rudolph ha popularizado durante la **campaña** haciendo imitaciones de la candidata demócrata.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DB9okLzBMof/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DB9okLzBMof/?utm_source=ig_embed&utm_campaign=loading)
+
 Como si ambas se enfrentaran en un espejo y **vestidas exactamente iguales**, Harris dijo a su ‘alter ego’: “no te preocupes, tú puedes hacer cosas que tu rival no puede hacer, como abrir puertas”.  
   
 El chiste era en referencia a un video de esta semana en el que **Trump** tiene dificultades para subirse a un **camión de la basura** con el que quería mofarse del comentario del presidente Joe Biden, que llamó a sus seguidores “basura”.  
@@ -638,396 +1076,3 @@ El chasis del vehículo se desprendió producto del **siniestro**. En la cabina 
 En el lugar, los uniformados desarrollaron **maniobras de rescate** para extraer a las víctimas y entregarlas a Medicina Legal para los trámites legales pertinentes.
 
 Integrantes de la **Unidad Nacional de Investigación Operativa de Accidentología Vial de la Policía Nacional del Ecuador (SIAT)** acudieron para las investigaciones de la causa del siniestro de tránsito.
-
-El Delegado de protección de datos en Ecuador, guardián de la privacidad digital
-================================================================================
-
-El avance digital en Ecuador crea el rol del Delegado de Protección de Datos para asegurar la privacidad ciudadana.
--------------------------------------------------------------------------------------------------------------------
-
-![Lorena Naranjo Godoy, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lorena-Naranjo-Godoy.jpg)
-
-El desarrollo exponencial de los **avances tecnológicos** impacta directamente a las personas a través de su **manifestación digital**, sus datos personales. Debido a esta evidente transformación digital que experimenta el Ecuador, la **figura** del Delegado de Protección de Datos (DPD) emerge como un actor fundamental para garantizar el adecuado tratamiento de la información personal de los **ciudadanos**. Esta nueva posición, establecida por la Ley Orgánica de Protección de Datos Personales (LOPDP) y su reglamento, representa un paso significativo hacia la **protección efectiva** de la **privacidad** y la protección de datos personales en el país.
-
-El DPD es un profesional especializado que actúa como intermediario entre los responsables del **tratamiento de datos** que son las personas naturales o jurídicas, públicas o privadas con o sin finalidad de lucro que para su **misión** o **gestión** ordinaria procesan datos de sus usuarios o clientes, como por ejemplo una universidad, un hospital, un banco, una **empresa** de retail, una ONG o una institución pública. Asimismo, el DPD interactúa con los encargados de tratamiento, titulares de los datos y con la **Autoridad de Protección de Datos Personales,** (Superintendencia de Protección de Datos Personales, cuya máxima autoridad es Fabrizzio Peralta), para quien es punto de contacto.
-
-Su principal **misión** es **supervisar** y garantizar el cumplimiento de la **normativa** de protección de datos dentro de las empresas, **organizaciones** e instituciones; para lo cual debe brindar asesoramiento y supervisión en el análisis de riesgo, evaluación de impacto, evaluación de **medidas de seguridad y supervisar su aplicación.**
-
-Es decir, acompañar en la **gestión de riesgos en derechos y libertades** sobre los activos de información que contienen **tratamiento de datos personales** y en esto se distingue del análisis de riesgo en seguridad de la información, el cual se realiza sobre los **activos de información** y asociados para garantizar la **confidencialidad, integridad y disponibilidad de la información**.
-
-Otra de las funciones del DPD es la comunicación y atención de derechos de los titulares, el manejo de incidentes en **datos personales**, incluido la **notificación a las autoridades de protección de datos** en caso de violaciones de seguridad, por ejemplo filtración de datos personales no autorizados; y, la capacitación y el desarrollo de una **cultura de protección de datos**.
-
-La **legislación ecuatoriana** establece que la designación de un DPD es obligatoria para: a) entidades del sector público; b) organizaciones que realicen **tratamiento masivo** o gran escala de datos personales; c) organizaciones que procesen datos sensibles; o, d) cuando el volumen, naturaleza, alcance o finalidades del tratamiento requieran supervisión constante.
-
-**P**ara ser DPD se requiere ser mayor de edad; estar en goce de los **derechos políticos**; tener título de tercer nivel en Derecho, Sistemas de Información, Telecomunicaciones, o de Tecnologías; y, acreditar experiencia profesional de por lo menos cinco años. No podrán ser delegados de protección de datos personales: a) quienes formen parte de los **órganos de administración y control** del responsable y encargado de tratamiento; b) los socios o accionistas del responsable y encargado; c) los cónyuges de los administradores, directores o comisarios de la compañía, en caso de haberlos, del responsable y encargado, o sus parientes hasta el cuarto grado de consanguinidad o segundo de afinidad; y, quienes tengan conflictos de intereses con el responsable y encargado, para lo cual la **Autoridad de Protección de Datos Personales.**
-
-El **delegado de Protección de Datos** se constituye como una figura clave en el nuevo ecosistema digital en Ecuador, su labor diaria impacta directamente en la protección de la privacidad y la protección de **datos personales de los ciudadanos**. Sin embargo, el Delegado de Protección de Datos Personales (DPO) suele confundirse con el Oficial de Seguridad de la Información (OSI), debido a que sus roles tienen como objetivo proteger información; sin embargo, tienen **ámbitos de aplicación distintos y complementarios**.
-
-En el caso del OSI su responsabilidad es **salvaguardar la confidencialidad**, integridad y disponibilidad de la información; implementar y **colaborar con el seguimiento de medidas de seguridad;** realizar auditorías y evaluaciones de riesgo y desarrollar políticas y procedimientos de seguridad. Es decir, el OSI se centra en la **seguridad de la información** en general, mientras que DPO se enfoca en la protección en el tratamiento de los datos personales y debe dar seguimiento de medidas técnicas, tecnológicas, organizativas, administrativas y jurídicas por lo que su enfoque es más regulatorio y/o de cumplimiento.
-
-Por cuanto sus roles son sustanciales no pueden **recaer las delegacione**s de DPD y OSI sobre la misma persona, ya que la ley requiere que no exista conflicto de interés y, por el contrario, los personales que ostenten estos roles deben trabajar juntos para **asegurar una protección integral de la información**.
-
-Es importante destacar que el Delegado de Protección de Datos Personales debe actuar de **manera independiente y objetiva,** y debe tener los conocimientos y habilidades necesarios para cumplir con sus responsabilidades, esto es **conocimientos técnicos y legales** relacionados con el adecuado tratamiento de datos personales.
-
-Sus principales desafíos son la resistencia al **cambio por parte de las empresas**, organizaciones e instituciones que requiere comprender la importancia del manejo adecuado de los datos personales a su cargo; **recursos limitados** para implementar políticas, procesos y procedimientos que mitigan riesgos sobre el tratamiento inadecuado de datos personales.
-
-Al DPD se le debe garantizar total **independencia del responsable** y del encargado del tratamiento de **datos personales**, pues debe ser capaz de proteger al titular y garantizar el cumplimiento de la ley y de asesorar a las directivas para una toma adecuada y oportuna de decisiones sobre el adecuado tratamiento de datos personales.
-
-La **efectiva implementación** de esta figura contribuirá significativamente a la protección de los derechos fundamentales de los ciudadanos en la era digital, alineando a Ecuador con los estándares internacionales en materia de **protección de datos personales**.
-
-Estados Unidos votará por más de 140 iniciativas en las urnas el 5 de noviembre
-===============================================================================
-
-Los estadounidenses no solo elegirán a su futuro presidente, sino que también votarán 146 de estas medidas populares.
----------------------------------------------------------------------------------------------------------------------
-
-![Votantes estadounidenses en un centro electoral en Freedom Freedom, Ohio, EE. UU.](https://www.elcomercio.com/wp-content/uploads/2024/10/elecciones-estados-unidos-aborto-drogas-efe.jpg)
-
-Más de **140 iniciativas populares** se someterán a votación **este noviembre** en 41 estados de [Estados Unidos](https://www.elcomercio.com/actualidad/mundo/elecciones-estados-unidos-realizaran-5-noviembre-2024.html "https://www.elcomercio.com/actualidad/mundo/elecciones-estados-unidos-realizaran-5-noviembre-2024.html"). Se trata de una consulta masiva que abordará temas tan diversos como el **aborto, la inmigración, la legalización de la marihuana** o el **salario mínimo**.
-
-### Más noticias
-
-* [Las elecciones en Estados Unidos se realizarán el 5 de noviembre de 2024](https://www.elcomercio.com/actualidad/mundo/elecciones-estados-unidos-realizaran-5-noviembre-2024.html "Las elecciones en Estados Unidos se realizarán el 5 de noviembre de 2024")
-* [Nicky Jam retira su apoyo a Donald Trump](https://www.elcomercio.com/actualidad/mundo/nicky-jam-retira-apoyo-donald-trump.html "Nicky Jam retira su apoyo a Donald Trump ")
-* [Bad Bunny muestra su apoyo a Kamala Harris](https://www.elcomercio.com/actualidad/mundo/bad-bunny-muestra-apoyo-kamala-harris.html "Bad Bunny muestra su apoyo a Kamala Harris ")
-
-Una **iniciativa popular es una ley**, cuestión o pregunta que se plantea en una **papeleta de un estado** o una ciudad durante unas elecciones y que puede haber sido propuesta por los **propios habitantes** o por los legisladores, según define la página web Ballot Measure.
-
-El martes 5 de noviembre, los estadounidenses no solo elegirán a su **futuro presidente**, sino que también votarán **146 de estas medidas populare**s, de las cuales 77 vienen de legisladores y 57 de ciudadanos.
-
-Estos son los temas principales que se votarán en las urnas:
-
-**1\. Aborto**
---------------
-
-El aborto será el **tema más recurrente en las papeletas** del próximo 5 de noviembre: los votantes decidirán sobre **11 medidas electorales** relativas a este tema, 10 de las cuales fijan derechos constitucionales relacionados con los **derechos reproductivo**s.
-
-En el caso de **Arizona, Florida, Missouri y Dakota del Sur**, las medidas están destinadas a proteger el derecho al aborto hasta la viabilidad fetal -es decir, hasta las **23 o 24 semanas de embarazo**\-, aunque con algunas **excepciones dependiendo** de cada estado.
-
-En Maryland, Montana, Nevada y Nueva York, las propuestas se enfocan en **consolidar el derecho** a abortar hasta la **viabilidad del feto** (algo que ya es legal en estos estados), garantizando este derecho a todas las personas independientemente de factores como su etnia u orientación sexual.
-
-Mientras, en Nebraska se proponen **dos enmiendas constitucionales:** una para proteger el aborto hasta la **viabilidad del feto** y otra para prohibirlo después del **primer trimestre de embarazo** (a excepción de casos de emergencia médica o de agresiones sexuales e incesto).
-
- **2. Salarios**
-----------------
-
-Este 2024, los **salarios de la población estadounidense** también se someterán a votación: en Alaska y Missouri, las iniciativas populares proponen **elevar el salario mínimo a 15 dólares** la hora y fijar una serie de requisitos que permitan la **baja remunerada por enfermedad.**
-
-En California, la medida **elevaría el salario mínimo a 18 dólares por hora;** en Massachusetts se incrementaría el **salario de los trabajadores** que reciben propinas para equipararlo al **salario mínimo** y en Nebraska la propuesta garantizaría la baja por enfermedad remunerada para los empleados.
-
-Por su parte, en **Arizona se someterá a voto si los trabajadores** que reciben propinas deben cobrar un 25 % menos que el salario mínimo por hora.
-
-Entre 1996 y 2022, se presentaron con **éxito 28 iniciativas electorales** para incrementar los salarios mínimos de varios estados, de las cuales un 92 % fueron aprobadas, según la web Ballot Measure.
-
-**3\. Inmigración**
--------------------
-
-Aunque la **inmigración es uno de los temas más comentados por las campañas** de ambos candidatos -especialmente por la del expresidente Donald Trump- solo hay una iniciativa popular que contemple esta cuestión, y es de lo más polémica.
-
-Así, los **ciudadanos de Arizona** votarán por una iniciativa que pretende hacer varios cambios en la **legislación penal y de inmigración**, entre ellos permitir que la policía detenga y deporte a los ciudadanos de países extranjeros que entren en el estado por lugares distintos a los puertos oficiales (algo que compete al gobierno federal).
-
-**4\. Marihuana y otras drogas**
---------------------------------
-
-**Dakota del Norte y Dakota del Sur** votarán por tercera vez **si quieren legalizar o no la marihuana c**on fines recreativos, mientras que los ciudadanos de Florida decidirán si legalizar esta droga para todos los mayores de 21 años.
-
-Por su parte, Nebraska presenta una medida que pretende **legalizar la marihuana** con propósitos médicos.
-
-Más allá del cannabis, **Massachussets decidirá si legalizar o no determinadas sustancias psicodélicas**; de aprobar esta medida, se convertiría en el tercer estado en **legalizar estos productos**, después de Oregón (2020) y Colorado (2022).
-
-**5\. Justicia criminal**
--------------------------
-
-En cuanto a la justicia criminal, California abordará la **cadena perpetua para los culpables de tráfico sexual** de menores y Colorado pretende **aumentar las penas para determinados delitos de drogas** y robos, además de eliminar el derecho a fianza en casos de asesinato en primer grado, entre otras medidas.
-
-Además, Colorado también votará una medida que propone **asignar ingresos estatales** a un nuevo fondo para la **contratación, retención, formación** y prestaciones por fallecimiento de las fuerzas del orden.
-
-**6\. Ciudadanía y sistema electoral**
---------------------------------------
-
-Este año se lleva a las urnas el debate s**obre si los ciudadanos extranjeros pueden votar o no**: en este sentido, Idaho, Iowa, Kentucky, Missouri, Carolina del Norte, Oklahoma, Carolina del Sur y Wisconsin presentan enmiendas constitucionales que **prohibirían el voto de los no ciudadanos.**
-
-Según el **Centro de Estrategia de Iniciativas Electorales**, en las papeletas del 5 de noviembre figuran 39 medidas relacionadas con los procedimientos de votación o la democracia.
-
-Así podrás ver la lluvia de estrellas Táuridas 
-===============================================
-
-La lluvia de estrellas Táuridas alcanzará su pico el 4 y 5 de noviembre, se espera un espectáculo celestial fascinante.
------------------------------------------------------------------------------------------------------------------------
-
-![La lluvia de estrellas Táuridas se originan del cometa 2P/Encke. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/lluvia-de-estrellas-tauridas-1.jpg)
-
-La **Lluvia de estrellas Táuridas** es un **fenómeno astronómico** de gran belleza. Este evento **se produce cuando partículas de polvo y rocas del espacio ingresan a la atmósfera terrestre,** creando impresionantes estrellas fugaces.  
-
-### Más noticias
-
-* [Cuándo y cómo ver la lluvia de meteoros Oriónidas](https://www.elcomercio.com/tendencias/ciencia/lluvia-meteoros-orionidas-astronomia.html "https://www.elcomercio.com/tendencias/ciencia/lluvia-meteoros-orionidas-astronomia.html")
-* [¿Qué es la Luna Llena del Cazador que se podrá ver mañana en Ecuador?](https://www.elcomercio.com/tendencias/ciencia/luna-llena-cazador-astronomia-ecuador.html "https://www.elcomercio.com/tendencias/ciencia/luna-llena-cazador-astronomia-ecuador.html")
-
-En 2024, las **Táuridas** tendrán su **pico de actividad entre el 4 y el 5 de noviembre**, lo que supondrá una oportunidad única para los amantes de la astronomía y la naturaleza. 
-
-**Origen de las Táuridas** 
----------------------------
-
-**Las Táuridas se originan del cometa 2P/Encke**, un cometa periódico que completa su órbita alrededor del Sol cada tres años. Este cometa se desintegró hace millones de años, al **formar un campo de escombros que la Tierra atraviesa cada año**. Esta lluvia tiene dos corrientes: las Táuridas del Norte y las Táuridas del Sur, siendo estas últimas las más visibles en noviembre, de acuerdo con [AS](https://mexico.as.com/actualidad/lluvia-de-estrellas-tauridas-del-sur-2024-cuando-es-a-que-hora-y-como-verlas-en-septiembre-desde-mexico-n/ "https://mexico.as.com/actualidad/lluvia-de-estrellas-tauridas-del-sur-2024-cuando-es-a-que-hora-y-como-verlas-en-septiembre-desde-mexico-n/") y el Observatorio Astronómico de Quito. 
-
-![Foto: Observatorio Astronómico de Quito.  ](https://www.elcomercio.com/wp-content/uploads/2024/10/lluvia-de-estrellas-tauridas-1024x683.jpg)
-
-Foto: Observatorio Astronómico de Quito.
-
-**¿Cuándo y dónde observarlas?** 
----------------------------------
-
-La **actividad de las Táuridas** comenzó el 23 de septiembre y se extenderá hasta el 8 de diciembre de 2024. Sin embargo, **los días más destacados serán el 4 y el 5 de noviembre.** Durante estos días, **se podrán observar hasta diez meteoros por hora** en condiciones óptimas. La mejor hora para verlas será **después de la medianoche**, cuando el cielo esté más oscuro, siguiendo con AS.  
-
-**Consejos para la observación** 
----------------------------------
-
-* **Ubicación:** Busca un lugar alejado de las luces urbanas. 
-
-* **Tiempo:** Las condiciones meteorológicas deben ser favorables; un cielo despejado es ideal. 
-
-* **Equipamiento:** No se necesita equipo especial, pero unas mantas o sillas cómodas pueden mejorar la experiencia. 
-
-**Características del fenómeno** 
----------------------------------
-
-**Las Táuridas son conocidas por sus bolas de fuego brillantes**. A diferencia de otras **lluvias de meteoros**, son menos frecuentes, pero pueden ser más espectaculares debido a su tamaño y velocidad. Se mueven a aproximadamente 29 km/s, lo que les permite ser visibles durante más tiempo en el cielo, de acuerdo con [StarWalk](https://starwalk.space/es/news/southern-and-northern-taurid-meteor-showers "https://starwalk.space/es/news/southern-and-northern-taurid-meteor-showers").  
-
-**Cómo fotografiar las Táuridas** 
-----------------------------------
-
-Para aquellos interesados en capturar este fenómeno, aquí algunos consejos: 
-
-1. **Equipo necesario:** 
-
-* Cámara DSLR o sin espejo. 
-
-* Lente gran angular. 
-
-* Trípode para estabilidad. 
-
-2. **Configuración recomendada:** 
-
-* Apertura amplia (f/2.8 o menor). 
-
-* ISO alto (1600-3200). 
-
-* Velocidad de obturación larga (20-30 segundos). 
-
-3. **Encuadre:** Localiza la **constelación de Tauro** en el cielo, ya que es desde donde parecen originarse los meteoros 
-
-Quincy Jones deja un gran legado en la música popular
-=====================================================
-
-Quincy Jones, el productor detrás del trabajo de Michael Jackson, falleció hoy en California.
----------------------------------------------------------------------------------------------
-
-![El músico y productor Quincy Jones falleció en Los Angeles, Califronia.](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-23.jpg)
-
-**Quincy Jones**, uno de los músicos más polifacéticos de las últimas décadas, con contribuciones importantes a géneros como el jazz, el pop, el funk o el soul y productor de algunas de las más destacadas estrellas de la música, **ha fallecido** en California a los **91 años**.
-
-### Más noticias
-
-* [Quincy Jones dice que Michael Jackson plagió algunas de sus canciones](https://www.elcomercio.com/tendencias/entretenimiento/entrevista-quincyjones-michaeljackson-plagio-canciones.html "https://www.elcomercio.com/tendencias/entretenimiento/entrevista-quincyjones-michaeljackson-plagio-canciones.html")
-* [Michael Jackson marcó una era musical](https://www.elcomercio.com/actualidad/michael-jackson-marco-musical.html)
-
-Quincy Jones y sus récords
---------------------------
-
-El ganador de **27 premios Grammy** (de un récord de 79 nominaciones) y miembro del Salón de la Fama del Rock & Roll murió en la noche del domingo en su casa en el barrio Bel Air de Los Ángeles, rodeado de su familia, que no ha concretado las causas del fallecimiento.  
-  
-Su figura en el **mundo de la música**, con una carrera de más de 60 años, era tan respetada que el artista era conocido solo con el apelativo de **“Q”**.  
-  
-**Jones** rompió barreras creativas: músico, compositor, productor, **director**, arreglista, **artista**, propietario y ejecutivo de un sello discográfico, productor de cine y televisión, editor de revistas e incluso **filántropo**, recuerdan este lunes las revistas especializadas.
-
-Educado en el mundo del jazz, Jones se convirtió en una de las figuras más formidables de la música pop. Recogió seis de sus 27 premios **Grammy** por su álbum de 1990 **“Back on the Block”** y fue tres veces galardonado como productor del año, recuerda la prensa especializada.
-
-El anuncio de la familia de Quincy Jones
-----------------------------------------
-
-“Con el corazón lleno, pero roto, debemos compartir la **noticia del fallecimiento de nuestro padre** y hermano Quincy Jones. Y aunque esta es una pérdida increíble para nuestra familia, celebramos la gran vida que vivió y sabemos que nunca habrá otro como él”, dijo la **familia Jones** en el comunicado emitido por el promotor que difunden medios locales.
-
-“Era verdaderamente único y **lo extrañaremos profundamente**; nos reconforta y enorgullece enormemente saber que el amor y la alegría, que eran la esencia de su ser, fueron compartidos con el mundo a través de todo lo que creó. A través de su música y su amor sin límites, el corazón de Quincy Jones latirá por la eternidad”, agregaron en el comunicado.
-
-Los inicios de Quincy Jones
----------------------------
-
-Quincy Delight Jones, **nació en Chicago,** el 14 de marzo de 1933. Su madre trabajaba en un banco antes de ser ingresada en una institución mental por esquizofrenia; su padre era un carpintero que jugaba **béisbol** semiprofesional.
-
-Se inició en el mundo del espectáculo como **trompetista** y también como pianista, evolucionando pronto a **compositor**, instrumentista y director de orquesta. Además, pasó a desempeñar el cargo de directivo de una importante empresa discográfica norteamericana, convirtiéndose pronto en un **productor discográfico y cinematográfico muy premiado.**
-
-De la amplia gama de actividades realizadas por Quincy Jones destaca la composición sinfónica titulada “Black Requiem” estrenada por la **Orquesta Sinfónica de Houston** con un coro de 80 voces, con Ray Charles como solista, así como la producción de los discos **“Thriller”, en 1987, y “Bad”, dos de los últimos y más premiados trabajos de Michael Jackson.**
-
-Jones ha trabajado siempre en toda clase de **lenguajes musicales,** pero el título de “músico de jazz” es el que más le enorgullecía.
-
-Trabajo como productor
-----------------------
-
-Durante nueve años, 1980 a 1989, Jones se dedicó a **producir discos de sus amigos:** Michael Jackson, Chaka Khan, James Ingram o Patti Austin, y de otros artistas célebres como: **Frank Sinatra** o Donna Summer, así como a componer entre otras, la banda sonora de la película **“El color púrpura”,** de Steven Spielberg.
-
-En 1989, Jones vuelve a publicar discos, nueve años después del éxito espectacular obtenido con “The Dude”, que sirvió para añadir más premios a su colección de **Grammys y Oscars.**
-
-Así, en este año edita “Back on the block”, expresión coloquial para indicar su vuelta con **nombre propio,** trabajo con el que **Jones** repite de nuevo la fórmula de convocar a cantantes e instrumentistas dispares de la música negra, desde el jazz al rap-urbano.  
-  
-En 1990, y en el marco de la XXIV edición del Mercado Internacional del Disco, MIDEM, celebrado en **Cannes** le fue concedida la insignia oficial de la Legión de Honor.
-
-El 20 de febrero de 1991 consiguió **6 “Grammy”** durante la 33 edición de estos premios que concede anualmente la Academia Nacional de Artes y Ciencias Discográficas de Estados Unidos. Con estos nuevos 6 galardones, entre los que figuran los de **mejor álbum, productor,** canción de rap para grupo y arreglo instrumental, Jones suma ya 25 a lo largo de carrera profesional.
-
-We are the world
-----------------
-
-En 1985, Jones llegó a los titulares internacionales como productor de “**We Are the World”** de USA for Africa, el sencillo dedicado a la ayuda a la hambruna en África; Michael Jackson fue coautor de la canción con **Lionel Richie** y lideró su elenco estelar de vocalistas.
-
-Se casó en tres ocasiones, con tres actrices, Peggy Lipton, Ulla Andersson y Jeri Caldwell, y tuvo una relación de siete años con la también intérprete **Nastassja Kinski**.
-
-Así funciona el Pico y placa en Quito este lunes 4 de noviembre, en feriado
-===========================================================================
-
-Revisa los límites del Pico y placa y evita ser sancionado con multas. Recuerda que los estacionamientos de borde son gratuitos.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Los agentes metropolitanos vigilan la aplicación de la medida en la ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/10/Pico-lunes-nov.jpg)
-
-El **Pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
-
-Además, se debe recordar que **durante los feriados y los fines de semana** la medida no aplica.
-
-### Más noticias
-
-* [Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito](https://www.elcomercio.com/actualidad/quito/paradas-de-la-ecovia-registran-nuevos-cierres-por-trabajos-en-quito.html "Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito")
-* [Cajero automático de una farmacia fue extraído con explosivos](https://www.elcomercio.com/actualidad/seguridad/cajero-automatico-farmacia-robo-explosivos-llano-grande.html "Cajero automático de una farmacia fue extraído con explosivos")
-* [Caso Pamela Ati: Fiscalía tomó una decisión final](https://www.elcomercio.com/actualidad/seguridad/caso-pamela-ati-fiscalia-decision-final.html "Caso Pamela Ati: Fiscalía tomó una decisión final")
-
-Así como hay excepciones, **los vehículos que pertenecen a adultos mayores**, personas con discapacidad, vehículos eléctricos y los oficiales pueden circular con normalidad a cualquier hora.
-
-La restricción depende del **último dígito de la placa del vehículo**. Este lunes hay libre movilidad debido a que es feriado.
-
-Horarios del Pico y placa
--------------------------
-
-En la mañana la medida se aplica de **06:00 a 09:30 y en la tarde, de 16:00 a 20:00.**
-
-Las autoridades locales hacen un llamado a la **colaboración ciudadana** y al respeto de estas normativas, en aras de garantizar una mejor movilidad urbana.
-
-Multas por infringir la medida
-------------------------------
-
-La multa por incumplirla es del 15% del **Salario Básico Unificado**, es decir 69 dólares la primera vez.
-
-Si la incumples una segunda vez, la sanción será del **25%, es decir, 115 dólares.**
-
-Y si infringes una tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
-
-Límites en Quito para Pico y placa
-----------------------------------
-
-Esta medida se aplica en el **Distrito Metropolitano.** En el norte la restricción está presente en la avenida de Los Narcisos y teniendo como puntos de referencia la **Escuela Superior de la Policía** y Puente Villorita.
-
-Desde los puntos anteriores esta medida se extiende hasta la avenida **Morán Valverde**. Es decir, todas las vías entre Los Narcisos y Morán Valverde tiene restricción de lunes a viernes.
-
-El otro límite vehicular es la **avenida Simón Bolívar**, donde se acaba la restricción vehicular y sus puntos de referencia son Intercambiador de La Granados e Intercambiador de Carapungo.
-
-Al oeste, la [av. Mariscal Sucre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") hasta la intersección de la av. **Manuel Córdova Galarza** (redondel El Condado).
-
-> ⚠️ ¡No caigas en multas! Conoce por dónde puedes circular en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/VAySmVN9kd](https://t.co/VAySmVN9kd) [pic.twitter.com/Gyso7gkL1O](https://t.co/Gyso7gkL1O)
-> 
-> — El Comercio (@elcomerciocom) [June 9, 2024](https://twitter.com/elcomerciocom/status/1799837694727434657?ref_src=twsrc%5Etfw)
-
-Oportunismo inmoral
-===================
-
-El efecto invernadero produce el calentamiento global y el deshielo de nevados y de los polos y la intensa deforestación.
--------------------------------------------------------------------------------------------------------------------------
-
-![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
-
-La peor demostración de **mezquindad** y **oportunismo** inmoral es el **aprovechamiento** de las **tragedias** y su utilización como **peldaños electorales** o como purificadores de glosas y sentencias justamente impartidas, por la **Contraloría** y por el poder judicial, a una amplia serie de individuos deshonestos, que se apropiaron del dinero de los ecuatorianos.
-
-El país se sacudió sorprendido por el **abrupto ataque** incendiario a la capital y a varias ciudades, las imágenes dantescas de gigantescas **lenguas de fuego** que consumían **árboles** y plantas en parques y laderas y ponían en serio riesgo la integridad de algunas **viviendas** causaron **angustia** y desazón **ciudadana**. Los “linces”, que están a la **expectativa** de todo pretexto que les permita disfrazar su **desprestigio**, aprovecharon esta desesperada **situación** para levantar la **imagen** alicaída del primer personero municipal, haciéndole aparecer como un superhéroe, que vencía al **azaroso suceso**, minimizando la heroica presencia de los **bomberos**, de una **comunidad solidaria** y de otras **autoridades** nacionales, como la ministra del interior. Fueron dirigidos, desde el exterior, por su líder prófugo, a través de **estribillos** y lemas que enaltecían a su muy cuestionado **coideario municipal**. No han faltado ridículas manifestaciones de **correistas pagados** que han gritado, en **Carondelet**, “fuera, Noboa, fuera”, ni tampoco la **presencia** en las **redes** de la **opinión** del abogado del exvicepresidente y también del expresidente prófugo, que manifiestó “hay un ambiente propicio para que **Noboa** sucumba y deje el **poder**”. La gente se pregunta si la **concreción** de estas **absurdas** **provocaciones** oportunistas cambiarían el desastre climático y la **tremenda sequía**. 
-
-El **efecto** **invernadero** produce el **calentamiento global** y el **deshielo** de **nevados** y de los polos y la intensa **deforestación**, con la tala incesante de **árboles en bosques y selvas**, limitan la evaporación natural y la formación de nubes, originando un **cambio climático total** con una **sequía mundial**.
-
-El **Ecuador** ha contado con varias **plantas hidroeléctricas** construidas hace muchos años y que son las que funcionan, hasta ahora, a diferencia de las construidas en el período largo de la **Revolución Ciudadanas, q**ue trabajan en forma parcial, repleta de **defectos**, como la de Coca Codo Sinclair proyectada para que produzca 1500 megavatios, pero en realidad su **generación** no llega a los 500 megas; situada en una zona de inmenso riesgo por la erosión que produce el **Río Coca,** corre el inminente **peligro** de desaparecer y destruir los oleoductos del OCP y suspender la conducción del petróleo.  No es admisible que los gobiernos que han dirigido al país durante 30 años, no hayan tomado medidas preventivas para cambiar la **matriz energética,** como lo hicieron países vecinos. El **gobierno** de los infames, 10 años en el poder, encargó a su **vicepresidente** el “**cambio de matriz energética”** ¿hubo algún cambio? No, Ninguno, se dedicó a reparar refinerías de petróleo con presupuestos iniciales bajos, **costos finales** elevadísimos y resultados muy pobres, a **construir hidroeléctricas** con similar esquema, costo inicial bajo y final muy aumentado, con un apuro inusitado, con **préstamos internacionales** caros. El apresuramiento era justificado (había que acelerar el cobro de coimas y sobornos). Pasó la década en la que se prohibió el **desarrollo** de la **termoeléctrica** para privilegiar los jugosos contratos del **levantamiento** de **hidroeléctricas** y no se previeron alternativas para la **generación** de **electricidad**, como los paneles solares, o la energía eólica (del viento), o lo que acaba de contratar el gobierno actual con el Japón, un **parque geotérmico**.
-
-Con sin igual descaro la **candidata**, representante de los **corruptos**, minimiza la existencia del peor estiaje de la **historia**, no menciona la corruptela de los 10 años de su **gobierno** y se manifiesta **crítica** acérrima con la **gestión**, probablemente no óptima, pero de apenas 1 año del gobierno del presidente Noboa. Miente al plantear que si se mantenía en buen estado las **termoeléctricas** se solucionaba el problema, pues no dice que, en el mejor de los casos, el aporte de esta **generación** no llega al 30%, porcentaje deficitario para **compensar** el **tremendo déficit** que nos agobia, ni tampoco recuerda que fue su presidente el que se opuso al **desarrollo** de estas **plantas** **termoeléctricas**.
-
-En **circunstancias difíciles**, como la actual, el **oportunismo** es **inmoral**, impresiona como **traición a la patria,** al igual que la oferta de liberar a Glas, a pesar de las **sentencias ejecutoriadas** que tiene, en un acto que constituiría burla e **irrespeto a la justicia nacional** y de apoyo traicionero a la p**osición mexicana** en contra del **Ecuador**.
-
-El voto latino impacta, como nunca, en las elecciones de EE. UU.
-================================================================
-
-La votación latina será crucial en las elecciones del 5 de noviembre entre Kamala Harris y Donald Trump.
---------------------------------------------------------------------------------------------------------
-
-![Voluntarios de la organización Hispanic Federation envian mensajes de texto días antes de los comicios electorales promoviendo la intención al voto este viernes, en Nueva York (Estados Unidos).](https://www.elcomercio.com/wp-content/uploads/2024/11/Voto-latino-en-Estados-Unidos.jpg)
-
-Las **elecciones presidenciales de Estados Unidos del 5 de noviembre de 2024** se perfilan como una de las más reñidas en la historia reciente, con **Kamala Harris y Donald Trump** compitiendo por la Casa Blanca en un ambiente marcado por la polarización política. En este contexto, el **voto latino** emerge como un factor decisivo que podría inclinar la balanza en estados clave.
-
-> La comunidad latina, que ha demostrado su creciente influencia electoral, tiene expectativas altas respecto a las políticas migratorias y sociales que podrían implementarse bajo un nuevo gobierno.
-
-La comunidad latina en **Estados Unidos** se ha convertido en un bloque electoral significativo y representa aproximadamente el 18% del electorado.
-
-En comicios pasados, su participación ha sido fundamental para determinar el resultado en estados bisagra como **Arizona, Nevada y Georgia.** En esta ocasión, se espera que el voto latino juegue un papel crucial en la contienda entre **Harris y Trump**, especialmente dado que ambos candidatos han abordado temas que resuenan profundamente en esta comunidad.
-
-Las **campañas de Harris y Trump** han exacerbado la polarización en el país, especialmente en temas económicos, sociales y migratorios.
-
-Trump ha continuado su discurso antiinmigrante, prometiendo reforzar las fronteras y desmantelar políticas que benefician a los inmigrantes. Por el contrario, Harris ha abogado por una reforma migratoria integral que incluya un camino hacia la ciudadanía para millones de indocumentados.
-
-Sin embargo, su administración también enfrenta críticas por no haber cumplido con todas sus promesas respecto a la migración durante su tiempo como vicepresidenta. La retórica de ambos candidatos ha generado divisiones profundas dentro de la sociedad estadounidense.
-
-Según un estudio de **Pew Research Center, el 65% de los latinos** considera que la inmigración es un tema muy importante en su decisión electoral. Esta preocupación se traduce en un deseo de ver cambios significativos en las políticas migratorias y una mayor protección para los derechos de los inmigrantes.
-
-Las comunidades latinas tienen grandes expectativas respecto al nuevo gobierno que emerja tras estas elecciones. Muchos esperan que se tomen medidas concretas para abordar problemas como la falta de acceso a servicios básicos, la discriminación y la violencia racial. Además, hay un fuerte deseo por ver políticas que promuevan la inclusión económica y social.
-
-La **polarización no solo afecta a los votantes**; también repercute en cómo se perciben las campañas electorales. La retórica incendiaria utilizada por Trump ha alimentado tensiones raciales y sociales, mientras que Harris ha tratado de posicionarse como una defensora de los derechos civiles. Sin embargo, ambos candidatos han sido criticados por no abordar adecuadamente las preocupaciones de todos los sectores de la población.
-
-Más remesas llegan al Ecuador durante este 2024
-===============================================
-
-El 73,1% del dinero enviado por los migrantes llegó desde Estados Unidos. Las provincias más beneficiadas con Guayas, Azuay, Pichincha y Cañar.
------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Ecuador recibió 1 611,1 millones millones de dólares por concepto de remesas en el segundo trimestre de 2024. Cortesía: Freepik](https://www.elcomercio.com/wp-content/uploads/2024/04/remesas.jpg)
-
-Durante el segundo trimestre de 2024, **Ecuador** recibió un importante flujo de remesas. Fueron 1 611,1 millones de dólares.
-
-Esa cantidad representó un crecimiento del 15,6% con relación al primer trimestre de 2024, según el informe del **Banco Central del Ecuador.**
-
-En el primer trimestre de 2024 fueron 1 393,7 millones de dólares. Es decir, en el primer trimestre de este 2024 llegaron 3 004,8 millones de dólares.
-
-En el mismo **semestre** de **2023** arribaron 2 545,44 millones de dólares por concepto de **remesas.**
-
-Según la data del **Banco Central del Ecuador**, eso significa un aumento de 459,36 millones de dólares al comparar los dos primeros trimestres de 2023 y 2024,
-
-### Más noticias
-
-* [Perú ratifica que revisará las remesas de los migrantes para combatir la delincuencia](https://www.elcomercio.com/actualidad/mundo/peru-ratifica-revisara-remesas-migrantes-combatir-delincuencia.html "Perú ratifica que revisará las remesas de los migrantes para combatir la delincuencia")
-* [Cuenca tiene dos momentos para proyectar su economía y cultura](https://www.elcomercio.com/opinion/editorial/cuenca-tiene-momentos-proyectar-economia-cultura.html "Cuenca tiene dos momentos para proyectar su economía y cultura")
-
-Giros de remesas y promedio por transacción
--------------------------------------------
-
-En total, durante el segundo trimestre de 2024 se registraron 5 182 926 giros, lo que significa un aumento del 14,7% en comparación con los 4 517 304 giros del primer trimestre de 2024.
-
-En comparación con el mismo periodo del 2023, el crecimiento fue del 19,8%. **Cada giro, en promedio, fue de 310,9 dólares.**
-
-Los países desde donde llegan las remesas
------------------------------------------
-
-El desglose de las **remesas** revela que el 73,1% del total recibido provino de **Estados Unidos**. Desde ese país llegaron 1 177,8 millones en el segundo semestre de 2024.
-
-Este monto representa un incremento del 19,7% en comparación con el **primer trimestre de 2024,** cuando se recibieron 983,8 millones. Comparado con el segundo trimestre de 2023, el crecimiento es del 19,6%.
-
-Las remesas desde **España** alcanzaron 263,8 millones de dólares, equivalentes al 16,4% del flujo total, con un incremento del 15,8% respecto al primer trimestre de 2024.
-
-Los datos del **Banco Central** también muestran que las remesas desde **Italia** alcanzaron 40,2 millones, lo que representa el 2,5% del total.
-
-Las provincias de Ecuador que más reciben remesas
--------------------------------------------------
-
-Las provincias que más concentraron el flujo de remesas durante el segundo trimestre de 2024 fueron **Guayas, Azuay, Pichincha y Cañar**. Entre las cuatro sumaron 1 152,9 millones, lo que representa el 71,6% del total.
-
-Esta concentración es significativa, ya que es 16,2% superior al monto registrado en el primer trimestre de 2024 y un 13,2% más que en el mismo periodo del 2023.
-
-Este fenómeno se debe a la gran cantidad de hogares que dependen de las remesas en estas regiones y a la amplia disponibilidad de servicios financieros, según el **Banco Central de Ecuador.**
