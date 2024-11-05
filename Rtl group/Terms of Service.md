@@ -190,11 +190,11 @@
     
     [Contact](https://www.rtlgroup.com/export/sites/rtlunited/en/media/overview/contact/)
     
-    [![](/.galleries/images/rtl-group/RTL-stories_Amelia-Brown_1920x1080.jpg)
+    [![](/.galleries/images/rtl-group/RTL-stories_Isabell-Ostermann_1920x1080.png)
     
-    20 years at RTL: Amelia Brown
+    10 years at RTL: Isabell Ostermann
     
-    04.09.24 | Fremantle](https://company.rtl.com/export/sites/rtlunited/en/media/overview/rtl-stories-the-podcast/20-years-at-RTL-Amelia-Brown/)
+    05.11.24 | RTL Group](https://company.rtl.com/export/sites/rtlunited/en/media/overview/rtl-stories-the-podcast/10-years-at-RTL-Isabell-Ostermann/)
     
 * [](https://company.rtl.com/en/search/index.html)
 * [EN](#)
@@ -307,6 +307,14 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-10 years at RTL: Isabell Ostermann](/.galleries/images/rtl-group/RTL-stories_Isabell-Ostermann_1920x1080.png?__scale=undefined&description=)
+    
+    10 years at RTL: Isabell Ostermann
+    
+    05.11.2024
+    
+    In the latest episode of _RTL stories – The podcast_, Isabell Ostermann, Senior Director Brand Management and Communications at RTL Group, discusses the RTL United rebranding project and balancing motherhood.](https://www.rtlgroup.com/en/media/overview/rtl-stories-the-podcast/10-years-at-RTL-Isabell-Ostermann/)
+    
 * [![slide-RTL Deutschland goes Eurovision](/.galleries/images/Eurovision_16-9.jpg?__scale=undefined&description=)
     
     RTL Deutschland goes Eurovision
