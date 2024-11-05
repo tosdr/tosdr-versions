@@ -57,6 +57,10 @@ In some special cases we also use cookies provided by trusted third parties. The
 
 Hopefully that has clarified things for you and as was previously mentioned if there is something that you aren’t sure whether you need or not it’s usually safer to leave cookies enabled in case it does interact with one of the features you use on our site.
 
+[![Playwire](https://www.playwire.com/hubfs/Powered-by-Playwire-Badges/Ads-Powered-by-playwire-2021-standalone-small-300px.png)](http://www.playwire.com/)
+
+[Advertise on this site.](https://www.playwire.com/contact-direct-sales)
+
 * [About Us](https://fossbytes.com/about/)
 * [Contact Us](https://fossbytes.com/contact-us/)
 * [Jobs](https://fossbytes.com/jobs/)
