@@ -398,7 +398,7 @@ Follow us
     
     [Investor resources](https://ir.elastic.co/home/default.aspx)[Governance](https://ir.elastic.co/governance/corporate-governance/default.aspx)[Financials](https://ir.elastic.co/financials/quarterly-results/default.aspx)[Stock](https://ir.elastic.co/stock/stock-quote/default.aspx)
     
-* EXCELLENCE AWARDS
+* Excellence Awards
     -----------------
     
     [Previous winners](https://www.elastic.co/blog/2022-elastic-excellence-awards-winners)[ElasticON Tour](https://www.elastic.co/elasticon)[Become a sponsor](https://www.elastic.co/events/sponsor)[All events](https://www.elastic.co/events/)
@@ -429,7 +429,7 @@ Investor relations
 
 [Investor resources](https://ir.elastic.co/home/default.aspx)[Governance](https://ir.elastic.co/governance/corporate-governance/default.aspx)[Financials](https://ir.elastic.co/financials/quarterly-results/default.aspx)[Stock](https://ir.elastic.co/stock/stock-quote/default.aspx)
 
-EXCELLENCE AWARDS
+Excellence Awards
 -----------------
 
 [Previous winners](https://www.elastic.co/blog/2022-elastic-excellence-awards-winners)[ElasticON Tour](https://www.elastic.co/elasticon)[Become a sponsor](https://www.elastic.co/events/sponsor)[All events](https://www.elastic.co/events/)
