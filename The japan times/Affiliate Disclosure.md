@@ -147,9 +147,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/04/432179.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office on Friday.")](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/parties-lobby-prime-minister-election/ "Horse-trading continues ahead of next week's prime minister vote")
 
-[Gifu police officer arrested over alleged sex with underage girl](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
+[Tokyo woman arrested over Yokohama robbery-murder](https://www.japantimes.co.jp/news/2024/11/04/japan/crime-legal/woman-arrested-yokohama-robbery-murder/ "Tokyo woman arrested over Yokohama robbery-murder")
 
-  [![The Gifu Prefectural Police headquarters in the city of Gifu](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431571.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Gifu Prefectural Police headquarters in the city of Gifu")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
+  [![The Kanagawa Prefectural Police headquarters in Yokohama. Kanagawa police have arrested a 30-year-old woman from Tokyo’s Adachi Ward in connection with a robbery and murder of a 75-year-old Yokohama resident last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/04/432051.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kanagawa Prefectural Police headquarters in Yokohama. Kanagawa police have arrested a 30-year-old woman from Tokyo’s Adachi Ward in connection with a robbery and murder of a 75-year-old Yokohama resident last month.")](https://www.japantimes.co.jp/news/2024/11/04/japan/crime-legal/woman-arrested-yokohama-robbery-murder/ "Tokyo woman arrested over Yokohama robbery-murder")
 
 Editors' Picks
 --------------
@@ -188,9 +188,9 @@ By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric 
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Gifu police officer arrested over alleged sex with underage girl](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
+[Tokyo woman arrested over Yokohama robbery-murder](https://www.japantimes.co.jp/news/2024/11/04/japan/crime-legal/woman-arrested-yokohama-robbery-murder/ "Tokyo woman arrested over Yokohama robbery-murder")
 
-  [![The Gifu Prefectural Police headquarters in the city of Gifu](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431571.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Gifu Prefectural Police headquarters in the city of Gifu")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
+  [![The Kanagawa Prefectural Police headquarters in Yokohama. Kanagawa police have arrested a 30-year-old woman from Tokyo’s Adachi Ward in connection with a robbery and murder of a 75-year-old Yokohama resident last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/04/432051.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kanagawa Prefectural Police headquarters in Yokohama. Kanagawa police have arrested a 30-year-old woman from Tokyo’s Adachi Ward in connection with a robbery and murder of a 75-year-old Yokohama resident last month.")](https://www.japantimes.co.jp/news/2024/11/04/japan/crime-legal/woman-arrested-yokohama-robbery-murder/ "Tokyo woman arrested over Yokohama robbery-murder")
 
 Podcast
 -------
@@ -211,9 +211,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,23 +253,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Consumers urged to check heater safety ahead of winter accident surge](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-heater-fire-warning/ "Consumers urged to check heater safety ahead of winter accident surge")
+[UNESCO panel recommends sake brewing for intangible cultural heritage list](https://www.japantimes.co.jp/news/2024/11/05/japan/society/sake-brewery-unesco/ "UNESCO panel recommends sake brewing for intangible cultural heritage list")
 
-12 mins ago
+53 mins ago
 
-[Palau's pro-U.S. president faces election test](https://www.japantimes.co.jp/news/2024/11/05/asia-pacific/politics/palau-us-president-election/ "Palau's pro-U.S. president faces election test")
+[From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
 
-54 mins ago
+56 mins ago
 
-[Meta struggles to curb hate speech before U.S. vote, researchers say](https://www.japantimes.co.jp/news/2024/11/05/world/politics/meta-hate-speech-us-vote/ "Meta struggles to curb hate speech before U.S. vote, researchers say")
+[Mitsubishi Heavy net income falls, but orders still solid](https://www.japantimes.co.jp/business/2024/11/05/companies/mitsubishi-heavy-earnings/ "Mitsubishi Heavy net income falls, but orders still solid")
 
 1 hours ago
 
-[Troops reinforce rescue efforts in flood-hit Spain as anger grows](https://www.japantimes.co.jp/news/2024/11/05/world/troops-rescue-flood-spain-anger/ "Troops reinforce rescue efforts in flood-hit Spain as anger grows")
+[Opposition parties band together to shape Lower House agenda](https://www.japantimes.co.jp/news/2024/11/05/japan/politics/politics-current-state-of-affairs/ "Opposition parties band together to shape Lower House agenda")
 
-2 hours ago
+1 hours ago
 
-[First candidates grilled in parliament test for EU top team](https://www.japantimes.co.jp/news/2024/11/05/world/politics/eu-candidates-parliament/ "First candidates grilled in parliament test for EU top team")
+[Harris and Trump conclude historic campaign with dueling rallies](https://www.japantimes.co.jp/news/2024/11/05/world/politics/harris-trump-dueling-rallies/ "Harris and Trump conclude historic campaign with dueling rallies")
 
 2 hours ago
 
