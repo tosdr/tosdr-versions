@@ -136,21 +136,13 @@ If you have any questions about this Privacy Policy, please contact us: By email
 
 ### holycowfineindianfood](https://www.instagram.com/holycowfineindianfood/ "@holycowfineindianfood")
 
+[Celebrate Guy Fawkes Night with good food, great c ![Celebrate Guy Fawkes Night with good food, great company, and unforgettable moments at Good Choice. Let’s make it a night to remember!  #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![Celebrate Guy Fawkes Night with good food, great company, and unforgettable moments at Good Choice. Let’s make it a night to remember!  #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DB_ShsjIJ_V/) 
+
 [Enjoy your favourites from the comfort of home wit ![Enjoy your favourites from the comfort of home with our takeaway!  #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![Enjoy your favourites from the comfort of home with our takeaway!  #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DB8tu4VI4Ws/) 
-
-[Thank you, Will Shu, CEO @deliveroo for the great ![Thank you, Will Shu, CEO @deliveroo for the great conversation! Your loyalty to Holy Cow over the years means so much to us. Here’s to many more successful years together!
-.
-Cheers,
-@kulacharya32 & Hari Aryal
-#HolyCow #Deliveroo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Thank you, Will Shu, CEO @deliveroo for the great conversation! Your loyalty to Holy Cow over the years means so much to us. Here’s to many more successful years together!
-.
-Cheers,
-@kulacharya32 & Hari Aryal
-#HolyCow #Deliveroo](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DB1WCDWCVzC/) 
 
 [Load More…](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/holycowfineindianfood/)
 
