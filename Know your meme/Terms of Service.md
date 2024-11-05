@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/496/Peanut_the_squirrel_Cover.jpg "Why Was Peanut The Squirrel Euthanized By New York Officials? P'Nut's Death And The Internet's Reaction Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/504/trump_cryystal.jpg "What's With All The Jokes About Donald Trump Trapping Liberals In Crystals? The Bizarre Meme Trend Explained")
     
-    Why Was Peanut The Squirrel Euthanized By New York Officials? P'Nut's Death And The Internet's Reaction Explained](https://knowyourmeme.com/editorials/guides/why-was-peanut-the-squirrel-euthanized-by-new-york-officials-pnuts-death-and-the-internets-reaction-explained)
+    What's With All The Jokes About Donald Trump Trapping Liberals In Crystals? The Bizarre Meme Trend Explained](https://knowyourmeme.com/editorials/guides/whats-with-all-the-jokes-about-donald-trump-trapping-liberals-in-crystals-the-bizarre-meme-trend-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/495/Screenshot_2024-11-04_at_2.10.43_PM.jpg "'The Most Mysterious Song On The Internet' Has Been Identified As 'Subways Of Your Mind' By FEX")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/503/brent-peterson-explainer.jpg "Who Is Brent Peterson And Is He Running For President In 2024? TikTok's Leading Candidate Explained")
     
-    'The Most Mysterious Song On The Internet' Has Been Identified As 'Subways Of Your Mind' By FEX](https://knowyourmeme.com/news/the-most-mysterious-song-on-the-internet-has-been-identified-as-subways-of-your-mind-by-fex)
+    Who Is Brent Peterson And Is He Running For President In 2024? TikTok's Leading Candidate Explained](https://knowyourmeme.com/editorials/guides/who-is-brent-peterson-and-is-he-running-for-president-in-2024-tiktoks-leading-candidate-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/494/tfw.jpg "What's Up With The Blue Grinch Saying 'That Feeling When Knee Surgery Is Tomorrow'? The Oddly Specific Meme Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/502/cybergoth_rave.jpg "What Is The Cybergoth Dance Party Video, And Did Someone Find An Alternate Angle Of It?")
     
-    What's Up With The Blue Grinch Saying 'That Feeling When Knee Surgery Is Tomorrow'? The Oddly Specific Meme Explained](https://knowyourmeme.com/editorials/guides/whats-up-with-the-blue-grinch-saying-that-feeling-when-knee-surgery-is-tomorrow-the-oddly-specific-meme-explained)
+    What Is The Cybergoth Dance Party Video, And Did Someone Find An Alternate Angle Of It?](https://knowyourmeme.com/editorials/guides/what-is-the-cybergoth-dance-party-and-did-someone-find-an-alternate-angle-of-it-the-iconic-viral-video-and-meme-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/493/og_owner_fallenchung.jpg "What's Up With Webcomic Artist Fallen Chungus Getting 'Scammed' Out Of His Account? The 'Liquid Chungus' Takeover Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/501/p2.jpg "Who Is Robert J. O'Neill And What Did He Say About Making Male Harris Voters His 'Concubines?' The Viral Tweet Explained")
     
-    What's Up With Webcomic Artist Fallen Chungus Getting 'Scammed' Out Of His Account? The 'Liquid Chungus' Takeover Explained](https://knowyourmeme.com/editorials/guides/whats-up-with-webcomic-artist-fallenchungus-getting-scammed-out-of-his-account-the-liquid-chungus-takeover-explained)
+    Who Is Robert J. O'Neill And What Did He Say About Making Male Harris Voters His 'Concubines?' The Viral Tweet Explained](https://knowyourmeme.com/editorials/guides/who-is-robert-j-oneill-and-what-did-he-say-about-making-male-kamala-harris-voters-his-concubines-the-viral-twitter-post-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/492/241028-dwayne-wade-mb-0958-5a5873.jpg "Spirit Of '2016 Posting' Returns On Eve Of Election, As Woman Compares Pollsters Nate Silver And Anne Selzer To Feuding Aunt And Uncle")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/500/Keep_Kamala_meme_cover_(2).jpg "What Is The 'Keep Kamala and Carry Onala' Meme? The Kamala Harris Slogan From 'SNL' Explained")
     
-    Spirit Of '2016 Posting' Returns On Eve Of Election, As Woman Compares Pollsters Nate Silver And Anne Selzer To Feuding Aunt And Uncle](https://knowyourmeme.com/news/spirit-of-2016-posting-returns-on-eve-of-election-as-woman-compares-pollsters-nate-silver-and-anne-selzer-to-feuding-aunt-and-uncle)
+    What Is The 'Keep Kamala and Carry Onala' Meme? The Kamala Harris Slogan From 'SNL' Explained](https://knowyourmeme.com/editorials/guides/what-is-the-keep-kamala-and-carry-onala-meme-the-kamala-harris-slogan-from-snl-explained)
     
 
 ##### Also Trending:
 
-[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Robert O'Neill 'Concubines' Post](https://knowyourmeme.com/memes/events/robert-j-oneill-concubines-twitter-post "Robert O'Neill 'Concubines' Post") [Donald Trump Microphone Video](https://knowyourmeme.com/memes/donald-trump-miming-sex-act-on-microphone "Donald Trump Microphone Video") [Today I Will Vote for a Third Party](https://knowyourmeme.com/memes/hmm-today-i-will-vote-for-a-third-party "Today I Will Vote for a Third Party") [Olivia Rodrigo's Space Question](https://knowyourmeme.com/memes/olivia-rodrigos-space-question "Olivia Rodrigo's Space Question")
+[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Write-In Vote Hawk Tuah Girl](https://knowyourmeme.com/memes/write-in-vote-hawk-tuah-girl-for-president "Write-In Vote Hawk Tuah Girl") [Robert O'Neill 'Concubines' Post](https://knowyourmeme.com/memes/events/robert-j-oneill-concubines-twitter-post "Robert O'Neill 'Concubines' Post") [Today I Will Vote for a Third Party](https://knowyourmeme.com/memes/hmm-today-i-will-vote-for-a-third-party "Today I Will Vote for a Third Party") [Trump Trapping Liberals In Crystals](https://knowyourmeme.com/memes/donald-trump-trapping-liberals-in-crystals "Trump Trapping Liberals In Crystals") [Saquon Barkley Backward Hurdle](https://knowyourmeme.com/memes/saquon-barkleys-backward-hurdle "Saquon Barkley Backward Hurdle") [The Most Mysterious Song On The Internet](https://knowyourmeme.com/memes/the-most-mysterious-song-on-the-internet "The Most Mysterious Song On The Internet") [He Doesn't Know How To Turn The Keys](https://knowyourmeme.com/memes/he-doesnt-have-the-faintest-idea-how-to-turn-the-keys "He Doesn't Know How To Turn The Keys")
 
 Terms of Service and Use
 ========================
@@ -263,7 +263,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hello! You must login or signup first!
+### Sup! You must login or signup first!
 
 |     |     |
 | --- | --- |
