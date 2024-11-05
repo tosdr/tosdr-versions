@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Russia’s War in Afghanistan](/wp-content/thumbnails/8664-100x70.jpg?x53432)
+* [![The Story Of Ireland](/wp-content/thumbnails/6240-100x70.jpg?x53432)
     
-    Russia’s War in Afghanistan
+    The Story Of Ireland
     
-    The Soviet war in Afghanistan went on for nine years, starting in December of 1979 and continued until February of 1989. This near decade long war resulted in millions of Afghans fleeing their country](https://documentaryheaven.com/russias-war-in-afghanistan/ "Russia’s War in Afghanistan")
-* [![40 Year Old Child: A New Case](/wp-content/thumbnails/8134-100x70.jpg?x53432)
+    The Story of Ireland - a groundbreaking new series presented by Fergal Keane about the history of Ireland – cultural, social, and economic, and its role on the international stage.The Story Of Ire](https://documentaryheaven.com/the-story-of-ireland/ "The Story Of Ireland")
+* [![Killing Hitler](/wp-content/thumbnails/5942-100x70.jpg?x53432)
     
-    40 Year Old Child: A New Case
+    Killing Hitler
     
-    40 Year Old Child: A New Case - TLC revisits the Williams family in Billings, Montana, whose 8-year-old daughter Gabby suffers a mystery medical condition that slows her rate of aging. The Williams al](https://documentaryheaven.com/40-year-old-child-new-case/ "40 Year Old Child: A New Case")
-* [![Secret Map of Britain](/wp-content/thumbnails/6554-100x70.png?x53432)
+    A drama-documentary about ‘Operation Foxley’, which was a 1944 British plan to assassinate Adolf Hitler, made by the Special Operations Executive (SOE). Although detailed plans were prepared, no attem](https://documentaryheaven.com/killing-hitler/ "Killing Hitler")
+* [![Alcatraz: No Way Out](/wp-content/thumbnails/10187-100x70.jpg?x53432)
     
-    Secret Map of Britain
+    Alcatraz: No Way Out
     
-    Mark Thomas investigates why parts of the UK are fenced off, and in some cases not even shown on any maps.](https://documentaryheaven.com/secret-map-of-britain/ "Secret Map of Britain")
-* [![War on Whistleblowers](/wp-content/thumbnails/9610-100x70.jpg?x53432)
+    Alcatraz was a high security prison built with concrete and steel on an island surrounded by the frigid waters of San Fransisco Bay. For almost 30 years Alcatraz Federal Penitentiary was the coun](https://documentaryheaven.com/alcatraz-no-way-out/ "Alcatraz: No Way Out")
+* [![Overview](/wp-content/thumbnails/7680-100x70.png?x53432)
     
-    War on Whistleblowers
+    Overview
     
-    War on Whistleblowers is a 2013 documentary film made by Robert Greenwald and it highlights several recent cases where employees of the United States government and contractors such as Edward Sno](https://documentaryheaven.com/war-whistleblowers/ "War on Whistleblowers")
-* [![Hofmann’s Potion](/wp-content/thumbnails/6586-100x70.jpg?x53432)
+    On the 40th anniversary of the famous ‘Blue Marble’ photograph taken of Earth from space, Planetary Collective presents a short film documenting astronauts’ life-changing stories of seeing the Earth f](https://documentaryheaven.com/overview/ "Overview")
+* [![Taxi to the Dark Side](/wp-content/thumbnails/491-100x70.png?x53432)
     
-    Hofmann’s Potion
+    Taxi to the Dark Side
     
-    This documentary offers a compassionate, open-minded look at LSD and how it fits into our world. Long before Timothy Leary urged a generation to “tune in, turn on and drop out,” the drug was hailed as](https://documentaryheaven.com/hofmanns-potion/ "Hofmann’s Potion")
+    This documentary murder mystery examines the death of an Afghan taxi driver at Bagram Air Base from injuries inflicted by U.S. soldiers. In an unflinching look at the Bush administration's policy on t](https://documentaryheaven.com/taxi-to-the-dark-side/ "Taxi to the Dark Side")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
