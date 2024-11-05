@@ -343,7 +343,7 @@ For purposes of Applicable State Laws, we do not “sell” personal information
 
 Please note that if you opt out using any of these methods, the opt out will only apply to the specific browser or device from which you opt out. We are not responsible for the effectiveness of, or compliance with, any opt out options or programs, or the accuracy of any other entities’ statements regarding their opt out options or programs. 
 
-You may also opt out by clicking on the “[Do Not Sell or Share My Information](https://docs.google.com/forms/d/e/1FAIpQLScgamt6jlhcpHYYixtzJxkWHVPh6iZZOAV1oUjY2J1biIFYXw/viewform)” link found here, by contacting us as set forth in “[Contact Us](#13-Contact-Us-internal)” below. 
+You may also opt out by clicking on the “[Do Not Sell or Share My Information](https://privacyportal.onetrust.com/webform/93ed5414-73f9-49b4-8f14-02da87353945/a2e6b35a-ee3c-4779-885e-0443e600519f)” link found here, by contacting us as set forth in “[Contact Us](#13-Contact-Us-internal)” below. 
 
 ### C. Right to Know
 
@@ -373,7 +373,7 @@ Under Applicable State Laws, you may have the right to limit our use and disclos
 
 ### H. Exercising Your Rights
 
-To exercise any of these rights, call our toll-free number at [(877) 747-6045](tel:(877) 747-6045), or email us at [datarequest@weathergroup.com](mailto:datarequest@weathergroup.com) or submit the form located [here](https://docs.google.com/forms/d/e/1FAIpQLScgamt6jlhcpHYYixtzJxkWHVPh6iZZOAV1oUjY2J1biIFYXw/viewform). In the request, please specify which right you are seeking to exercise and the scope of the request. We will confirm receipt of your request within 10 days. In order to verify your identity and process your request, we may ask you to provide certain information so that we match that data to you in our systems. If we are unable to verify your identity, we may deny your request to know or delete.
+To exercise any of these rights, call our toll-free number at [(877) 747-6045](tel:(877) 747-6045), or email us at [datarequest@weathergroup.com](mailto:datarequest@weathergroup.com) or submit the form located [here](https://privacyportal.onetrust.com/webform/93ed5414-73f9-49b4-8f14-02da87353945/a2e6b35a-ee3c-4779-885e-0443e600519f). In the request, please specify which right you are seeking to exercise and the scope of the request. We will confirm receipt of your request within 10 days. In order to verify your identity and process your request, we may ask you to provide certain information so that we match that data to you in our systems. If we are unable to verify your identity, we may deny your request to know or delete.
 
 ### I. Authorized Agent
 
