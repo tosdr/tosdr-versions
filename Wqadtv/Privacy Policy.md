@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d41252bc-7163-4612-88de-b73e637fe989/20241105T044757/d41252bc-7163-4612-88de-b73e637fe989_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d41252bc-7163-4612-88de-b73e637fe989/20241105T044757/d41252bc-7163-4612-88de-b73e637fe989_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/muscatine-county-new-land-radio-system-first-responders-iowa-statewide-interoperable-communications-system/526-420ea522-ea2a-4995-9bb3-d4c5f086b5f5)
-        
-        #### [First responders in Muscatine County have a new radio system](https://www.wqad.com/article/news/local/public-safety/muscatine-county-new-land-radio-system-first-responders-iowa-statewide-interoperable-communications-system/526-420ea522-ea2a-4995-9bb3-d4c5f086b5f5)
-        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/c05db046-ee17-4597-b317-476c450b2858/20241029T011355/c05db046-ee17-4597-b317-476c450b2858_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c05db046-ee17-4597-b317-476c450b2858/20241029T011355/c05db046-ee17-4597-b317-476c450b2858_360x203.jpg)](https://www.wqad.com/article/news/local/mr-thanksgiving-holiday-dinner-return/526-905ac4a7-461d-4ef0-9ccf-399cc1b72ad7)
         
-        #### [Mr. Thanksgiving's holiday dinner will return](https://www.wqad.com/article/news/local/mr-thanksgiving-holiday-dinner-return/526-905ac4a7-461d-4ef0-9ccf-399cc1b72ad7)
+        #### [Mr. Thanksgiving's holiday dinner to be held at Mercado on Fifth in Moline](https://www.wqad.com/article/news/local/mr-thanksgiving-holiday-dinner-return/526-905ac4a7-461d-4ef0-9ccf-399cc1b72ad7)
+        
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/lee-county-iowa-crash-fatal/526-5f3917b3-1ce9-42ae-be15-58642a57b94e)
+        
+        #### [Florida man killed in Lee County, Iowa crash](https://www.wqad.com/article/news/local/lee-county-iowa-crash-fatal/526-5f3917b3-1ce9-42ae-be15-58642a57b94e)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d65bd6fd-5e0a-4d38-bc16-2328058a1fef/20241104T234414/d65bd6fd-5e0a-4d38-bc16-2328058a1fef_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d65bd6fd-5e0a-4d38-bc16-2328058a1fef/20241104T234414/d65bd6fd-5e0a-4d38-bc16-2328058a1fef_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b247d452-6c71-496c-84e5-95e0bf3c4a23/20241105T154945/b247d452-6c71-496c-84e5-95e0bf3c4a23_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b247d452-6c71-496c-84e5-95e0bf3c4a23/20241105T154945/b247d452-6c71-496c-84e5-95e0bf3c4a23_360x203.jpg)](https://www.wqad.com/article/weather/three-degree-guarantee/the-colonel-davenport-historical-foundation-has-been-selected-as-the-three-degree-recipient-for-november-2024/526-7355f410-b788-4e46-bddf-fd4d533bd67b)
         
-        #### [A few thunderstorms and showers this evening](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [The Colonel Davenport Historical Foundation has been selected as the Three Degree recipient for November 2024](https://www.wqad.com/article/weather/three-degree-guarantee/the-colonel-davenport-historical-foundation-has-been-selected-as-the-three-degree-recipient-for-november-2024/526-7355f410-b788-4e46-bddf-fd4d533bd67b)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f8b21bfb-928e-4622-924b-2344ac851f64/20241104T221103/f8b21bfb-928e-4622-924b-2344ac851f64_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f8b21bfb-928e-4622-924b-2344ac851f64/20241104T221103/f8b21bfb-928e-4622-924b-2344ac851f64_360x203.jpg)](https://www.wqad.com/article/news/local/usda-disaster-declaration-henry-marshall-putnam-county/526-edc7cadf-3cf9-4ab0-b2aa-921a500ce755)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/3e65ae9b-06ea-43b9-8980-f43073fc7062/20241105T130900/3e65ae9b-06ea-43b9-8980-f43073fc7062_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3e65ae9b-06ea-43b9-8980-f43073fc7062/20241105T130900/3e65ae9b-06ea-43b9-8980-f43073fc7062_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [USDA issues disaster declaration for Henry, Marshall and Putnam counties](https://www.wqad.com/article/news/local/usda-disaster-declaration-henry-marshall-putnam-county/526-edc7cadf-3cf9-4ab0-b2aa-921a500ce755)
+        #### [Scattered showers and gusty winds continue on Election Day](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-64°
+63°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
