@@ -4,7 +4,7 @@
 
 * [Features](https://dayoneapp.com/features/)
 * [Premium](https://dayoneapp.com/premium/)
-* [Blog](https://dayoneapp.com/blog/)
+* [What’s New](https://dayoneapp.com/releases)
 * [Paper Journals](https://dayoneapp.com/paper-journals/)
 * [Get the App](http://dayoneapp.com/download)
 
