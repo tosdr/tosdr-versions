@@ -16,7 +16,7 @@ Amsterdam
 
 Current
 
-10.264 Tb/s
+6.141 Tb/s
 
 Peak
 
@@ -24,7 +24,7 @@ Peak
 
 [ASNS
 
-884](https://www.ams-ix.net/ams/connected-networks)
+885](https://www.ams-ix.net/ams/connected-networks)
 
 [GET STARTED](https://www.ams-ix.net/ams/get-started)
 
@@ -48,6 +48,7 @@ AMS-IX locations
 * [Bangkok](https://www.ams-ix.net/ban)
 * [Bay Area](https://www.ams-ix.net/bay)
 * [Caribbean](https://www.ams-ix.net/car)
+* [Chennai](https://www.ams-ix.net/che)
 * [Chicago](https://www.ams-ix.net/chi)
 * [Djibouti](https://www.ams-ix.net/dji)
 * [Hong Kong](https://www.ams-ix.net/hk)
@@ -56,6 +57,7 @@ AMS-IX locations
 * [Lagos](https://www.ams-ix.net/lag)
 * [Manila](https://www.ams-ix.net/man)
 * [Mumbai](https://www.ams-ix.net/mum)
+* [Noida](https://www.ams-ix.net/noi)
 * [Singapore](https://www.ams-ix.net/sin)
 
 Powered by AMS-IX
@@ -249,6 +251,8 @@ Article 11. Amendment to these conditions
 -----------------------------------------
 
 AMS-IX B.V. is authorized to make modifications and/or additions to these AMS-IX General Terms and Conditions. The amended conditions will come into effect on the stipulated commencement date. If no commencement date has been communicated, the amendments will come into effect in relation to the contracting party as soon as the contracting party is notified of the amended conditions. Such notification may be done by posting the amended conditions on the website of AMS-IX.
+
+#### Subscribe to our newsletter
 
 #### Got a question?
 
