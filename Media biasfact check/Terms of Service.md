@@ -215,12 +215,12 @@ No related posts.
 * [AtlasIntel Polling - Bias and Credibility](https://mediabiasfactcheck.com/atlasintel-polling-bias-and-credibility/)
 * [Emerson College Polling - Bias and Credibility](https://mediabiasfactcheck.com/emerson-college-polling-bias-and-credibility/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
+* [MBFC’s Last Election Sim Shows Harris with a 66.78% Win Rate](https://mediabiasfactcheck.com/2024/11/04/mbfcs-last-election-sim-shows-harris-with-a-66-78-win-rate/)
 * [Electoral College Map 2024 - Harris vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
-* [The Hill - Bias and Credibility](https://mediabiasfactcheck.com/the-hill/)
 
 #### Subscribe via Email
 
