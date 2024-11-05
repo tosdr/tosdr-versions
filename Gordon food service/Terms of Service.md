@@ -59,8 +59,8 @@ Use of the Services is void where prohibited. Your use of the Services constitut
 
 To access the Services or some of the resources it offers you will be asked to provide certain information regarding your business, your contact information, and other personal information. You agree that all information you provide to GFS, its service providers, partners, or affiliates, including but not limited to through the use of any interactive features on the Services, is governed by our Privacy Policy and Cookie Policy, and you consent to all actions we take with respect to your information and the information you provide to GFS while using the Services consistent with our Privacy Policy and Cookie Policy.
 
-If you choose, or are provided with, a user name, password, or any other piece of information as part of our security procedures, you must treat such information as confidential, and you must not disclose it to any other person or entity. You also acknowledge that any GFS account, is personal to you and agree not to provide any other person with access to the Services or portions of it using your user name, password, or other security information. You agree to notify us immediately of any unauthorized access to or use of your user name or password or any other breach of security. You also agree to ensure that you exit from your account at the end of each session. You should use particular caution when accessing your account from a public or shared computer so that others are not able to view or record your password or other personal information.  
-  
+If you choose, or are provided with, a user name, password, or any other piece of information as part of our security procedures, you must treat such information as confidential, and you must not disclose it to any other person or entity. You also acknowledge that any GFS account, is personal to you and agree not to provide any other person with access to the Services or portions of it using your user name, password, or other security information. You agree to notify us immediately of any unauthorized access to or use of your user name or password or any other breach of security. You also agree to ensure that you exit from your account at the end of each session. You should use particular caution when accessing your account from a public or shared computer so that others are not able to view or record your password or other personal information.
+
 We have the right to disable any user name, password, or other identifier, whether chosen by you or provided by us, at any time in our sole discretion for any or no reason, including if, in our opinion, you have violated any provision of these Terms of Use.
 
 ##### **4\. Permitted Use of the Services.**
@@ -120,8 +120,8 @@ All content posted by GFS is protected by copyright laws and may not be reproduc
 
 These Terms of Use permit you to use the Services for your personal, non-commercial use only. You must not reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store, or transmit any of the material on our Services.
 
-GFS and related logos, including those of Gordon Food Service, Inc., are subject to copyright and trademark protections. You must not use such marks without the prior written permission of GFS.  
-  
+GFS and related logos, including those of Gordon Food Service, Inc., are subject to copyright and trademark protections. You must not use such marks without the prior written permission of GFS.
+
 Any and all remarks, suggestions, ideas, creative concepts, graphics, product reviews, or other information communicated through the Services or otherwise sent to GFS, including without limitation, product or advertising ideas (collectively the “Submissions”), will forever be the exclusive property of GFS, who will not be required to treat the Submissions as confidential, and will not be liable for any use whatsoever or disclosure of the Submissions, and need not provide any compensation or acknowledgement for the Submissions. Without limitation, GFS will have exclusive ownership of all present and future existing rights to the Submissions of every kind and nature anywhere.
 
 ##### **11\. Authors and Bloggers**
@@ -134,7 +134,7 @@ Without limiting GFS’s other remedies, we reserve the right to do any of the f
 
 ##### **13\. Online Purchases and Other Terms and Conditions.**
 
-All purchases through our Services, formed through the Services, or resulting from visits made by you, are governed by the following terms \[insert link\], which are hereby incorporated into these Terms of Use. Additional terms and conditions may also apply to specific portions, services, or features of the Services. All such additional terms and conditions are hereby incorporated by this reference into these Terms of Use.
+All purchases through our Services, formed through the Services, or resulting from visits made by you, are governed by the following terms [https://gfs.com/en-us/purchase-terms-and-conditions/](https://gfs.com/en-us/purchase-terms-and-conditions/) which are hereby incorporated into these Terms of Use. Additional terms and conditions may also apply to specific portions, services, or features of the Services. All such additional terms and conditions are hereby incorporated by this reference into these Terms of Use.
 
 ##### **14\. Limitation of Liability and Claims**
 
