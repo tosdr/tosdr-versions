@@ -129,11 +129,11 @@ English
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
     * [Trump vs Harris](https://www.news18.com/world/us-election-2024-donald-trump-kamala-harris-us-presidential-election-polls-survey-who-is-leading-swing-states-iowa-9108363.html)
-    * [US Elections](https://www.news18.com/world/us-election-2024-live-updates-over-41-million-americans-cast-their-votes-in-early-voting-liveblog-9107950.html)
-    * [Canada Temple Attack](https://www.news18.com/world/devotees-attacked-at-hindu-temple-in-canada-by-khalistani-extremists-trudeau-condemns-9108053.html)
+    * [US Presidential Elections](https://www.news18.com/world/us-election-2024-live-updates-over-41-million-americans-cast-their-votes-in-early-voting-liveblog-9107950.html)
+    * [Aishwarya Rai](https://www.news18.com/movies/when-aishwarya-rai-spoke-about-overcoming-challenges-with-abhishek-if-you-can-shut-the-chapter-9109158.html)
+    * [Imane Khelif](https://www.news18.com/sports/imane-khelif-paris-olympics-gold-medallist-algerian-boxer-identified-as-man-in-leaked-medical-report-9109316.html)
     * [Meenakshi Seshadri](https://www.news18.com/movies/meenakshi-seshadri-says-rahul-rawail-made-me-cry-refused-to-give-me-my-price-for-sunny-deols-dacait-9108334.html)
-    * [NTPC Green Energy IPO](https://www.news18.com/business/ipo/ntpc-green-energy-ipo-opening-date-size-price-all-you-need-to-know-9107634.html)
-    * [Rupali Ganguly](https://www.news18.com/movies/rupali-ganguly-stepdaughter-says-she-feeds-her-dad-medications-like-rhea-chakraborty-did-to-sushant-singh-rajput-9108113.html)
+    * [Citadel: Honey Bunny](https://www.news18.com/movies/citadel-honey-bunny-first-review-out-samantha-ruth-prabhu-varun-dhawan-deliver-a-blockbuster-series-9109319.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,11 +170,11 @@ Follow us on
 In Trends:
 
 * [Trump vs Harris](https://www.news18.com/world/us-election-2024-donald-trump-kamala-harris-us-presidential-election-polls-survey-who-is-leading-swing-states-iowa-9108363.html)
-* [US Elections](https://www.news18.com/world/us-election-2024-live-updates-over-41-million-americans-cast-their-votes-in-early-voting-liveblog-9107950.html)
-* [Canada Temple Attack](https://www.news18.com/world/devotees-attacked-at-hindu-temple-in-canada-by-khalistani-extremists-trudeau-condemns-9108053.html)
+* [US Presidential Elections](https://www.news18.com/world/us-election-2024-live-updates-over-41-million-americans-cast-their-votes-in-early-voting-liveblog-9107950.html)
+* [Aishwarya Rai](https://www.news18.com/movies/when-aishwarya-rai-spoke-about-overcoming-challenges-with-abhishek-if-you-can-shut-the-chapter-9109158.html)
+* [Imane Khelif](https://www.news18.com/sports/imane-khelif-paris-olympics-gold-medallist-algerian-boxer-identified-as-man-in-leaked-medical-report-9109316.html)
 * [Meenakshi Seshadri](https://www.news18.com/movies/meenakshi-seshadri-says-rahul-rawail-made-me-cry-refused-to-give-me-my-price-for-sunny-deols-dacait-9108334.html)
-* [NTPC Green Energy IPO](https://www.news18.com/business/ipo/ntpc-green-energy-ipo-opening-date-size-price-all-you-need-to-know-9107634.html)
-* [Rupali Ganguly](https://www.news18.com/movies/rupali-ganguly-stepdaughter-says-she-feeds-her-dad-medications-like-rhea-chakraborty-did-to-sushant-singh-rajput-9108113.html)
+* [Citadel: Honey Bunny](https://www.news18.com/movies/citadel-honey-bunny-first-review-out-samantha-ruth-prabhu-varun-dhawan-deliver-a-blockbuster-series-9109319.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
