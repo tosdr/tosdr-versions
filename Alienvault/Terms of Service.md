@@ -1,8 +1,8 @@
-be\_ixf;ym\_202411 d\_04; ct\_50
+be\_ixf;ym\_202411 d\_05; ct\_150
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
-* https://cybersecurity.att.com/terms/website
-* https://cybersecurity.att.com/terms/website
+* https://levelblue.com/terms/website
+* https://levelblue.com/terms/website
 
 [Welcome to LevelBlue](https://www.alienvault.com/newsroom/press-releases/levelblue-launches-at-rsa)
 
@@ -13,7 +13,7 @@ be\_ixf;ym\_202411 d\_04; ct\_50
 * [Contact](https://www.alienvault.com/contact)
 * [Support](https://www.alienvault.com/support)
 
-[![LevelBlue logo](https://cdn-cybersecurity.att.com/images/uploads/logos/lb-logo-black.svg)](https://www.alienvault.com/)
+[![LevelBlue logo](https://cdn.levelblue.com/images/uploads/logos/lb-logo-black.svg)](https://www.alienvault.com/)
 
 * Products & Services
     
@@ -141,7 +141,7 @@ be\_ixf;ym\_202411 d\_04; ct\_50
             
             ##### LevelBlue Managed Detection and Response
             
-            [Learn more](https://cybersecurity.att.com/resource-center/videos/levelblue-managed-detection-and-response)
+            [Learn more](https://levelblue.com/resource-center/videos/levelblue-managed-detection-and-response)
             
             [View all Videos](https://www.alienvault.com/resource-center#content_video)
             
@@ -163,7 +163,7 @@ be\_ixf;ym\_202411 d\_04; ct\_50
             
             ##### Frost Radar: Americas Managed Security Services 2024
             
-            [Learn more](https://cybersecurity.att.com/resource-center/analyst-reports/frost-radar-americas-managed-security-services-2024)
+            [Learn more](https://levelblue.com/resource-center/analyst-reports/frost-radar-americas-managed-security-services-2024)
             
             [View all Analyst Reports](https://www.alienvault.com/resource-center#content_analyst-reports)
             
@@ -173,7 +173,7 @@ be\_ixf;ym\_202411 d\_04; ct\_50
             
             ##### Ngioweb Remains Active 7 Years Later
             
-            [Learn more](https://cybersecurity.att.com/blogs/labs-research/ngioweb-remains-active-7-years-later)
+            [Learn more](https://levelblue.com/blogs/labs-research/ngioweb-remains-active-7-years-later)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -183,7 +183,7 @@ be\_ixf;ym\_202411 d\_04; ct\_50
             
             ##### Secure Your Inbox, Accelerate Compliance: LevelBlue Email Security with Check Point
             
-            [Learn more](https://cybersecurity.att.com/resource-center/ebook/secure-your-inbox-with-check-point)
+            [Learn more](https://levelblue.com/resource-center/ebook/secure-your-inbox-with-check-point)
             
             [View all eBooks](https://www.alienvault.com/resource-center#content_ebook)
             
@@ -193,7 +193,7 @@ be\_ixf;ym\_202411 d\_04; ct\_50
             
             ##### Elevate Your GRC Game: A Collaborative Approach with LevelBlue and OneTrust
             
-            [Learn more](https://cybersecurity.att.com/resource-center/webcasts/elevate-your-grc-game-a-collaborative-approach-with-levelblue-and-onetrust)
+            [Learn more](https://levelblue.com/resource-center/webcasts/elevate-your-grc-game-a-collaborative-approach-with-levelblue-and-onetrust)
             
             [View all Webcasts](https://www.alienvault.com/resource-center#content_webcast)
             
@@ -203,7 +203,7 @@ be\_ixf;ym\_202411 d\_04; ct\_50
             
             ##### Why Organizations Are Prioritizing Incident Readiness and Response in the Face of Regulatory Scrutiny
             
-            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/orgs-prioritize-incident-response)
+            [Learn more](https://levelblue.com/resource-center/white-papers/orgs-prioritize-incident-response)
             
             [View all Whitepapers](https://www.alienvault.com/resource-center#content_white-paper)
             
@@ -517,7 +517,7 @@ From the Blog
 
 Nov 1, 2024
 
-### [Ngioweb Remains Active 7 Years Later](https://cybersecurity.att.com/blogs/labs-research/ngioweb-remains-active-7-years-later)
+### [Ngioweb Remains Active 7 Years Later](https://levelblue.com/blogs/labs-research/ngioweb-remains-active-7-years-later)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
@@ -579,8 +579,4 @@ Customer Success
 * [Website Terms of Use](https://www.alienvault.com/terms/website)
 * [GDPR](https://www.alienvault.com/legal/gdpr)
 * [Cookie Policy](https://www.alienvault.com/legal/cookie-policy)
-* [Your Privacy Choices](https://about.att.com/privacy/choices-and-controls.html)![California Consumer Privacy Act (CCPA) Opt-Out Icon](https://cdn-cybersecurity.att.com/images/uploads/icons/privacyoptions.svg)
-
-We use cookies to provide you with a great user experience. By using our website, you agree to our [Privacy Policy](https://www.alienvault.com/legal/privacy-policy) and [Website Terms of Use](https://www.alienvault.com/terms/website).
-
-[](#)
+* [Your Privacy Choices](https://about.att.com/privacy/choices-and-controls.html)![California Consumer Privacy Act (CCPA) Opt-Out Icon](https://cdn.levelblue.com/images/uploads/icons/privacyoptions.svg)
