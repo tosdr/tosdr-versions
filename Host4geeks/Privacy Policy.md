@@ -4,36 +4,36 @@ Proudly Hosting over 100,000 Fast Websites since 2010
 
 [Skype](skype:live:.cid.8d40f046dfaeecee?chat)
 
- [![host4geeks-logo](https://host4geeks.com/wp-content/uploads/2021/01/logo-new-red-1.svg)](https://host4geeks.com/)![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
+ [![host4geeks-logo](https://host4geeks.com/wp-content/uploads/2021/01/logo-new-red-1.svg)](https://host4geeks.com/)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 * [Home](https://host4geeks.com/)
 * [Services ![](https://host4geeks.com/wp-content/uploads/unlimited_elements/ic-arrow-down.svg)](#) 
     
-    ###### ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) CPANEL HOSTING
+    ###### ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) CPANEL HOSTING
     
     * [Shared Hosting](https://host4geeks.com/shared-hosting/)
     * [Semi Dedicated Hosting](https://host4geeks.com/semi-dedicated-hosting/)
     * 
     
-    ###### ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) RESELLER HOSTING
+    ###### ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) RESELLER HOSTING
     
     * [Premium Reseller Hosting](https://host4geeks.com/reseller-hosting/)
     * [Budget Reseller Hosting](https://host4geeks.com/cheap-reseller-hosting/)
     * 
     
-    ###### ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) VPS HOSTING
+    ###### ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) VPS HOSTING
     
     * [Managed VPS](https://host4geeks.com/managed-vps/)
     * [Unmanaged VPS](https://host4geeks.com/unmanaged-vps/)
     * 
     
-    ###### ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) DEDICATED SERVER
+    ###### ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) DEDICATED SERVER
     
     * [Managed Dedicated Servers](https://host4geeks.com/dedicated/)
     * 
     * 
     
-    ###### ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) APPLICATION HOSTING
+    ###### ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) APPLICATION HOSTING
     
     * [WordPress Hosting](https://host4geeks.com/managed-wordpress-hosting/)
     * [Odoo Hosting](https://host4geeks.com/odoo-hosting/)
@@ -149,7 +149,7 @@ AWARD-WINNING SUPPORT TEAM
 
 [Knowledgebase](https://kb.host4geeks.com/)
 
-[![logo new white](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= "logo new white")](https://host4geeks.com/)
+[![logo new white](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "logo new white")](https://host4geeks.com/)
 
 14 years in business, hosting over 100,000 websites.
 
