@@ -30,7 +30,7 @@ Company
 
 Search IconA magnifying glass icon.
 
-[Talk to Us](https://www.brightcove.com/en/contact-sales/)
+[Talk to Us](https://www.brightcove.com/en/contact-sales/)[Request a Demo](https://www.brightcove.com/en/get-demo/)
 
 [**Contact us**](#)
 
