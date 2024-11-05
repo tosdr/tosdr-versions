@@ -57,9 +57,9 @@ Language:  
         * [See all use cases …](https://bluespice.com/solutions/)
     * Success Stories
         
+        * [Confluence alternative for BMBF](https://bluespice.com/bluespice-as-a-confluence-alternative-at-bmbf/)
         * [Knowledgebase for Digmesa AG](https://bluespice.com/knowledge-management-at-digmesa-ag/)
         * [Organization manual for Tennet TSO](https://bluespice.com/tennet-tso/)
-        * [Organization manual for terranets bw](https://bluespice.com/terranets-bw-gmbh/)
         * [IMS for Wiener Wohnen](https://bluespice.com/wiener-wohnen/)
         * [IMS for Max Bögl](https://bluespice.com/max-bogl-bauservice-gmbh-co-kg/)
         * [See all stories …](https://bluespice.com/success-stories/)
