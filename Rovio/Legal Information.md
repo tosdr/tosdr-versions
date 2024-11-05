@@ -70,7 +70,7 @@ Page privacy
 
 #### Last updated: December 6, 2023
 
-This notice explains how Rovio Entertainment Corporation (referred to as “we” in this notice) collects, stores, uses, or otherwise processes the personal data of end users of our Services as defined below (referred to as “you” in this notice), and what rights you have if we are processing your personal data.
+This notice explains how Rovio Entertainment Limited (referred to as “we” in this notice) collects, stores, uses, or otherwise processes the personal data of end users of our Services as defined below (referred to as “you” in this notice), and what rights you have if we are processing your personal data.
 
 In this notice, “**Services**” refers to our Games, Websites, and any related services or properties we control; “**Games**” refers to our games, applications, and other products, including Angry Birds games and many others; and “**Websites**” refers to websites and other online properties we control, including https://www.rovio.com, https://www.angrybirds.com, and https://www.redsclub.com. The expression “**your data**” is used when referring to personal data that relates to you as an identified or identifiable individual.
 
@@ -80,7 +80,7 @@ It is important that you read this notice before accessing or using the Services
 
 ### 1 Data controller
 
-By “data controller,” we mean an entity that determines how and why personal data is processed. With regard to the activities described in this notice, we are the data controller. Our company name is Rovio Entertainment Corporation. Our address is Keilaranta 7, FI-02150 Espoo, Finland.
+By “data controller,” we mean an entity that determines how and why personal data is processed. With regard to the activities described in this notice, we are the data controller. Our company name is Rovio Entertainment Limited. Our address is Keilaranta 7, FI-02150 Espoo, Finland.
 
 While operating the Services, we may share your data with partners we work with. Some of these partners are data controllers independently of us and, therefore, independently determine how and why they process your data. For more information on these partners and the ways in which they may process your data, please refer to [section 6](#sec6) of this notice.
 
