@@ -123,5 +123,3 @@ Cancel Send
 Verify your account now!
 
 Cancel Verify
-
-[](https://www.autismdate.com/antispam/ickypointed.php)
