@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-c713d2566f9ba87102e5dde9187f1971
+a5ce2fc38a5219e6a9ec8ce086dfb408
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Colorful glass flower rondels](https://sojourner.biz/images/cache/glass/GL0391.200.jpg)](https://sojourner.biz/beads/glass/colorful-glass-flower-rondels.html "Colorful glass flower rondels")
+[![Pink swirl clasp](https://sojourner.biz/images/cache/SKU0282variations.200.jpg)](https://sojourner.biz/clasps/glass/pink-swirl-clasp.html "Pink swirl clasp")
 
-#### [Colorful glass flower rondels](https://sojourner.biz/beads/glass/colorful-glass-flower-rondels.html "Colorful glass flower rondels")
+#### [Pink swirl clasp](https://sojourner.biz/clasps/glass/pink-swirl-clasp.html "Pink swirl clasp")
 
-$23.00
+$21.00
 
 ### Best Sellers
 
