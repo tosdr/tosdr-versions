@@ -1,5 +1,5 @@
   
-G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                                  
+G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                                             
 
 [Skip to content](#MainContent)  
 
@@ -404,11 +404,11 @@ Rated 4.7 out of 5 stars
 
 11 Reviews
 
-4.0
+4.2
 
-Rated 4.0 out of 5 stars
+Rated 4.2 out of 5 stars
 
-4 Reviews
+5 Reviews
 
 4.7
 
