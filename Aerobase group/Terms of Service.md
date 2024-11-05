@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [Air Force to send bomber task force to Europe](https://www.defensenews.com/air/2024/11/04/air-force-to-send-bomber-task-force-to-europe/)  
+    11/04/24 02:20pm  
+    
+    The Air Force is soon sending a task force of strategic bombers to Europe, but has not said which bombers will be deployed. The service flies B-1 Lancers, B-2 Spirits, and B-52 Stratofortresses. (Air Force)
+    
 * [Marine pilot loses command after ejecting from F-35B that kept flying](https://www.defensenews.com/news/your-marine-corps/2024/10/31/marine-pilot-loses-command-after-ejecting-from-f-35b-that-kept-flying/)  
     10/31/24 04:57pm  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     10/25/24 08:11pm  
     
     Rockets are seen over Jerusalem as a siren sounds a warning of incoming missiles fired from Iran, in Jerusalem, Tuesday, Oct. 1, 2024. (AP Photo/Mahmoud Illean, File)
-    
-* [France, Germany to hammer out next steps for delay-prone FCAS warplane](https://www.defensenews.com/global/europe/2024/10/25/france-germany-to-hammer-out-next-steps-for-delay-prone-fcas-warplane/)  
-    10/25/24 07:22am  
-    
-    A mockup of the New Generation Fighter (NGF) for the Future Combat Air System (FCAS) program is on display at the Paris Air Show in June 2023. (Julien de Rosa/AFP via Getty Images)
     
 
 Recent parts by keyword  
