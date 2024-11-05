@@ -165,67 +165,65 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Creation Science Update
+More Days of Praise
 
-[![](/i/Main%20Stage%20-%201400x1050/dinosaurspider_1400x1050.jpg)](https://www.icr.org/article/dinosaur-spider-still-spider)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/moments-god)
 
-[Dinosaur Spider Is Still a Spider](https://www.icr.org/article/dinosaur-spider-still-spider/)
+[The Moments of God](https://www.icr.org/article/moments-god/)
 
-A giant “dinosaur age” trapdoor spider fossil has been unearthed from McGraths Flat in central New South Wales, Australia. The Zoological...
+“For a small moment have I forsaken thee; but with great mercies will I gather thee. In a little wrath I hid my face from thee for a moment;...
 
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/Main%20Stage%20-%201400x1050/beautyofcreation_1400x1050.jpg)](https://www.icr.org/article/beauty-of-creation)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/wisdom-might-are-his)
 
-[The Beauty of Creation: Created for God's Own Glory](https://www.icr.org/article/beauty-of-creation/)
+[Wisdom and Might Are His](https://www.icr.org/article/wisdom-might-are-his/)
 
-Have you ever wondered why a sunset on a beach is captivating, snowcapped mountains are breathtaking, and a valley filled with wildflowers is enchanting? Scripture,...
+“Daniel answered and said, Blessed be the name of God for ever and ever: for wisdom and might are his.” (Daniel 2:20) Men have sought...
 
-BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/Main%20Stage%20-%201400x1050/retinadesign_1400x1050.jpg)](https://www.icr.org/article/retina-design)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/he-owner)
 
-[Retina Design](https://www.icr.org/article/retina-design/)
+[He Is the Owner](https://www.icr.org/article/he-owner/)
 
-There’s certainly nothing uncomplicated about the eye, simple1 or otherwise. Some of us remember learning about basic vision from...
+“Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul that sinneth, it shall die. But if a...
 
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+BY: [JOHN D. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=26)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/59496549/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/19699742/file.jpg)
 
-Carved in Stone DVD](https://store.icr.org/carved-in-stone-dvd.html)
-
-$21.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/36502300/file.jpg)
-
-Henry Explores the New World](https://store.icr.org/henry-explores-the-new-world.html)
-
-$8.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/9184100/file.jpg)
-
-Big Plans for Henry - eBook](https://store.icr.org/big-plans-for-henry-ebook.html)
+Made in the Image of an Ape? - Download](https://store.icr.org/discover-creation-made-in-the-image-of-an-ape-down.html)
 
 $4.99
 
-$8.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13241008/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/56181428/file.jpg)
+The Design and Complexity of the Cell](https://store.icr.org/dr-jeff-tomkins-the-design-and-complexity-of-the-c.html)
 
-Carved in Stone](https://store.icr.org/carved-in-stone.html)
+$14.99
 
-$39.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/59221727/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/56200791/file.jpg)
+The Fossils Still Say No](https://store.icr.org/the-fossils-still-say-no.html)
 
-Carved in Stone eBook](https://store.icr.org/carved-in-stone-ebook.html)
+$29.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/39324153/file.jpg)
+
+Chimps and Humans - eBook](https://store.icr.org/chimps-and-humans-ebook.html)
+
+$14.99
 
 $19.99
 
-$39.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/26360806/file.jpg)
+
+Made in the Image of an Ape?](https://store.icr.org/discover-creation-made-in-the-image-of-an.html)
+
+$9.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
