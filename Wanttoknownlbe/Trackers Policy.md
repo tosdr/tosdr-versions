@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/yge-visser-een-persoonlijke-ontpopping/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/leven-wij-in-een-simulatie/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -131,6 +131,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![Relahmed](https://secure.gravatar.com/avatar/951fb6da99062a964593d328f1ba9ebe?s=50&d=identicon&r=g)
+
+##### **Relahmed** reacts on:
+
+##### Darmkanker verdwenen door.. Cannabisolie..!
+
+[Hey Guido, ja dat klopt. Ik heb hem een mail gestuurd. Ik da…](https://www.wanttoknow.nl/gezondheid/darmkanker-verdwenen-door-cannabisolie/comment-page-2/#comment-626357)
 
 ![GuidoJ.](https://secure.gravatar.com/avatar/379ae4ab61453c2ebafbbe75126acc17?s=50&d=identicon&r=g)
 
@@ -379,14 +387,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Het kwaad van de wereld..!
 
 [Het verkleinen van alle shit in deze wereld is er natuurlijk…](https://www.wanttoknow.nl/geschiedenis/geloof-religie/het-kwaad-van-de-wereld/comment-page-1/#comment-626326)
-
-![robvdz](https://secure.gravatar.com/avatar/1a031a4277be07cef6901ec8e8af995b?s=50&d=identicon&r=g)
-
-##### **robvdz** reacts on:
-
-##### Kijk: de Pfizer-C-spuit in mRNA- én een FAKE-variant..!!
-
-[Nou, dikke piemel ik dus ook niet. Want ik heb gewacht tot o…](https://www.wanttoknow.nl/gezondheid/corona-kwestie/kijk-de-pfizer-c-spuit-in-mrna-en-een-fake-variant/comment-page-1/#comment-626325)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
