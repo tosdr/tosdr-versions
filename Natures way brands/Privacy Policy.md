@@ -1427,10 +1427,11 @@ Effective: March 31, 2024                   Last updated: April
 Company
 
 * [About Us](https://naturesway.com/pages/about-us)
-* [Quality Transparency](https://naturesway.com/pages/quality)
-* [Careers](https://naturesway.com/pages/careers)
-* [Nature's Way Global](https://naturesway.com/pages/global)
 * [Authorized Resellers](https://naturesway.com/pages/authorized-resellers)
+* [Careers](https://naturesway.com/pages/careers)
+* [Compliance](https://www.schwabe-group.com/en/compliance)
+* [Nature's Way Global](https://naturesway.com/pages/global)
+* [Quality Transparency](https://naturesway.com/pages/quality)
 
 Products
 
@@ -1456,10 +1457,11 @@ More Info
 #### Company
 
 * [About Us](https://naturesway.com/pages/about-us)
-* [Quality Transparency](https://naturesway.com/pages/quality)
-* [Careers](https://naturesway.com/pages/careers)
-* [Nature's Way Global](https://naturesway.com/pages/global)
 * [Authorized Resellers](https://naturesway.com/pages/authorized-resellers)
+* [Careers](https://naturesway.com/pages/careers)
+* [Compliance](https://www.schwabe-group.com/en/compliance)
+* [Nature's Way Global](https://naturesway.com/pages/global)
+* [Quality Transparency](https://naturesway.com/pages/quality)
 
 #### Products
 
@@ -1490,11 +1492,17 @@ More Info
 
 †† These indications are based solely on traditional homeopathic use. They have not been evaluated by the Food & Drug Administration.
 
-Nature's Way Brands | 2024 All Rights Reserved
+© 2024. Nature's Way Brands, LLC. All Rights Reserved.
+
+* [Terms & Conditions](https://naturesway.com/pages/legal/#Terms%20of%20Use)
+* [Privacy Policy](https://naturesway.com/pages/legal)
+* [Sitemap](https://naturesway.com/pages/sitemap)
 
 * Choosing a selection results in a full page refresh.
 
        
+
+Chat not available
 
 #### Hello there, looks like you're located in Canada.
 
