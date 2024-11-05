@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/cfa57821-244a-453b-94d0-fd4d33184c59/20241104T193305/cfa57821-244a-453b-94d0-fd4d33184c59_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cfa57821-244a-453b-94d0-fd4d33184c59/20241104T193305/cfa57821-244a-453b-94d0-fd4d33184c59_360x203.jpg)](https://www.king5.com/article/news/local/ecology-chemicals-priority-consumer-products-regulation/281-a9634b85-af8a-416b-86d5-edebbe35ef07)
+    *  [![](https://media.king5.com/assets/KING/images/70d65392-40bd-4fc8-8d37-fbd150794c90/20241105T021730/70d65392-40bd-4fc8-8d37-fbd150794c90_16x9.jpg) ![](https://media.king5.com/assets/KING/images/70d65392-40bd-4fc8-8d37-fbd150794c90/20241105T021730/70d65392-40bd-4fc8-8d37-fbd150794c90_360x203.jpg)](https://www.king5.com/article/news/local/centralia-restaurant-backs-out-catering-wedding-same-sex-wedding/281-d06bd0d9-dd0d-44c9-83ee-d440a76a190c)
         
-        #### [These 9 products contain chemicals Ecology is targeting this year](https://www.king5.com/article/news/local/ecology-chemicals-priority-consumer-products-regulation/281-a9634b85-af8a-416b-86d5-edebbe35ef07)
+        #### [Centralia restaurant backs out of catering wedding after owner learns its for same-sex marriage](https://www.king5.com/article/news/local/centralia-restaurant-backs-out-catering-wedding-same-sex-wedding/281-d06bd0d9-dd0d-44c9-83ee-d440a76a190c) [![](https://media.king5.com/assets/KING/images/70d65392-40bd-4fc8-8d37-fbd150794c90/20241105T021730/70d65392-40bd-4fc8-8d37-fbd150794c90_16x9.jpg) ![](https://media.king5.com/assets/KING/images/70d65392-40bd-4fc8-8d37-fbd150794c90/20241105T021730/70d65392-40bd-4fc8-8d37-fbd150794c90_360x203.jpg)](https://www.king5.com/article/news/local/centralia-restaurant-backs-out-catering-wedding-same-sex-wedding/281-d06bd0d9-dd0d-44c9-83ee-d440a76a190c)
         
-    *  [![](https://media.king5.com/assets/KING/images/f97dbfe3-18ac-4699-a7fe-fabaa647237e/20241104T165841/f97dbfe3-18ac-4699-a7fe-fabaa647237e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f97dbfe3-18ac-4699-a7fe-fabaa647237e/20241104T165841/f97dbfe3-18ac-4699-a7fe-fabaa647237e_360x203.jpg)](https://www.king5.com/article/news/local/renton/lynden-transport-capitol-christmas-tree/281-c93a28a1-26e8-4922-8e0e-b35f7019e8dc)
+        #### [Centralia restaurant facing backlash after refusing to cater for same-sex wedding](https://www.king5.com/article/news/local/centralia-restaurant-backs-out-catering-wedding-same-sex-wedding/281-d06bd0d9-dd0d-44c9-83ee-d440a76a190c)
+    *  [![](https://media.king5.com/assets/KING/images/03aefb5b-8c8e-41c6-97df-2068d451c870/20241105T015213/03aefb5b-8c8e-41c6-97df-2068d451c870_16x9.jpg) ![](https://media.king5.com/assets/KING/images/03aefb5b-8c8e-41c6-97df-2068d451c870/20241105T015213/03aefb5b-8c8e-41c6-97df-2068d451c870_360x203.jpg)](https://www.king5.com/article/news/politics/elections/how-king-county-voters-ensure-ballot-counted/281-12f95d8f-cf44-41ea-bb1b-15dbdf7f8c57)
         
-        #### [Capitol Christmas tree making stop in western Washington this week](https://www.king5.com/article/news/local/renton/lynden-transport-capitol-christmas-tree/281-c93a28a1-26e8-4922-8e0e-b35f7019e8dc)
+        #### [Is your ballot counted? Here's what King County voters need to know](https://www.king5.com/article/news/politics/elections/how-king-county-voters-ensure-ballot-counted/281-12f95d8f-cf44-41ea-bb1b-15dbdf7f8c57)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +57,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/48c2de9a-b29f-4e90-8e49-675b4ef0bc8a/20241104T202634/48c2de9a-b29f-4e90-8e49-675b4ef0bc8a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/48c2de9a-b29f-4e90-8e49-675b4ef0bc8a/20241104T202634/48c2de9a-b29f-4e90-8e49-675b4ef0bc8a_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/a03fcb14-e560-4e82-b0b4-5f8ea8cfc896/20241105T013445/a03fcb14-e560-4e82-b0b4-5f8ea8cfc896_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a03fcb14-e560-4e82-b0b4-5f8ea8cfc896/20241105T013445/a03fcb14-e560-4e82-b0b4-5f8ea8cfc896_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/KING/images/dc8ed2c2-ff35-4731-8a23-68d0a6361322/20241104T132723/dc8ed2c2-ff35-4731-8a23-68d0a6361322_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dc8ed2c2-ff35-4731-8a23-68d0a6361322/20241104T132723/dc8ed2c2-ff35-4731-8a23-68d0a6361322_360x203.jpg)](https://www.king5.com/article/weather/western-washington-weather-fall-storm-monday-commute/281-3e4c9940-d80f-461d-bf6e-75e17a323982)
+    *  [![](https://media.king5.com/assets/KING/images/bf82c35c-8400-42c9-9da4-aac2f57dd24d/20241105T002811/bf82c35c-8400-42c9-9da4-aac2f57dd24d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bf82c35c-8400-42c9-9da4-aac2f57dd24d/20241105T002811/bf82c35c-8400-42c9-9da4-aac2f57dd24d_360x203.jpg)](https://www.king5.com/article/weather/western-washington-weather-fall-storm-monday-commute/281-3e4c9940-d80f-461d-bf6e-75e17a323982)
         
-        #### [Fall storm could bring steady rain, gusty winds on Monday](https://www.king5.com/article/weather/western-washington-weather-fall-storm-monday-commute/281-3e4c9940-d80f-461d-bf6e-75e17a323982)
+        #### [Fall storm leaves thousands without power](https://www.king5.com/article/weather/western-washington-weather-fall-storm-monday-commute/281-3e4c9940-d80f-461d-bf6e-75e17a323982)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-57°
+50°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
