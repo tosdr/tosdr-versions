@@ -516,6 +516,16 @@ Impact Powered by:
 * Digital communications & marketing
 * Fundraising ideas
 
+![3 Action for Children representatives at an Action for Children event](/sites/default/files/styles/carousel_square_450x450_/public/2024-09/action-for-children-header-photo_0.png.webp?itok=SjLsSKDT)
+
+**Empowering caregivers, improving children’s lives**
+
+By supporting care providers, Action for Children is improving early childhood outcomes throughout central Ohio.
+
+[Read their story onEmpowering caregivers, improving children’s lives](https://www.everyaction.com/case-studies/empowering-caregivers-improving-childrens-lives)
+
+Impact Powered by:
+
 ![Workers at Habitat for Humanity worksite](/sites/default/files/styles/carousel_square_450x450_/public/2024-10/habitat-for-humanity-of-omaha_background-photo.png.webp?itok=rxhpsdOA)
 
 **Habitat for Humanity of Omaha**
@@ -531,16 +541,6 @@ Impact Powered by:
 * Nonprofits
 * Digital communications & marketing
 * Fundraising ideas
-
-![3 Action for Children representatives at an Action for Children event](/sites/default/files/styles/carousel_square_450x450_/public/2024-09/action-for-children-header-photo_0.png.webp?itok=SjLsSKDT)
-
-**Empowering caregivers, improving children’s lives**
-
-By supporting care providers, Action for Children is improving early childhood outcomes throughout central Ohio.
-
-[Read their story onEmpowering caregivers, improving children’s lives](https://www.everyaction.com/case-studies/empowering-caregivers-improving-childrens-lives)
-
-Impact Powered by:
 
 ![Foundry Ministries beneficiary telling his story.](/sites/default/files/styles/carousel_square_450x450_/public/2024-09/foundry-ministries-header-photo.png.webp?itok=kkLPXPw0)
 
@@ -571,6 +571,15 @@ Previous Next
 Social impact insights & information
 ------------------------------------
 
+* ![A female scientist is wearing a lab coat, goggles, gloves, and a mask while looking into a microscope. ](/sites/default/files/styles/card_image_short/public/2024-11/1287080337.jpeg?h=dd617f3c&itok=Cl1rtX68)
+    
+    ### [The medical grants ecosystem: people, programs, and products](https://www.everyaction.com/blog/medical-grants-ecosystem-people-programs-and-products)
+    
+    * Medical affairs
+    * Corporations
+    * Life sciences
+    * Corporate Social Responsibility
+    
 * ![A nurse takes a patients questions while they wait for their appointment.](/sites/default/files/styles/card_image_short/public/2023-05/istock-1267603624.jpg?h=f2fcf546&itok=V15Zc09n)
     
     ### [The case management process: a step-by-step guide to success](https://www.everyaction.com/blog/case-management-process-guide)
@@ -591,16 +600,6 @@ Social impact insights & information
     * Case Management
     * Healthcare
     * Human services
-    
-* ![A team wraps up a meeting standing in front of a laptop](/sites/default/files/styles/card_image_short/public/2024-08/1457878227.jpeg?h=9983af2c&itok=HC0csy8f)
-    
-    ### [3 strategies to unlock your CSR participation potential](https://www.everyaction.com/blog/3-strategies-unlock-your-csr-participation-potential)
-    
-    * Corporate social responsibility
-    * Employee giving
-    * Employee volunteering
-    * Corporations
-    * Corporate Social Responsibility
     
 
 ![Bonterra](/sites/default/files/2022-08/bonterra_footer.svg)
