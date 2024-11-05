@@ -205,6 +205,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+US-Wahl hat begonnen +++ Gleichstand im ersten Wahllokal!
+
+US-Wahl hat begonnen +++ Gleichstand im ersten Wahllokal!
+
+US-Wahl hat begonnen +++ Gleichstand im ersten Wahllokal!
+
+US-Wahl hat begonnen +++ Gleichstand im ersten Wahllokal!
+
+US-Wahl hat begonnen +++ Gleichstand im ersten Wahllokal!
+
+US-Wahl hat begonnen +++ Gleichstand im ersten Wahllokal!
+
+US-Wahl hat begonnen +++ Gleichstand im ersten Wahllokal!
+
+US-Wahl hat begonnen +++ Gleichstand im ersten Wahllokal!
+
+US-Wahl hat begonnen +++ Gleichstand im ersten Wahllokal!
+
+US-Wahl hat begonnen +++ Gleichstand im ersten Wahllokal!](https://www.bild.de/politik/ausland-und-internationales/us-wahl-2024-trump-gegen-harris-hier-oeffnet-das-erste-us-wahllokal-6728de0ef19fac6d15778eb5)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
