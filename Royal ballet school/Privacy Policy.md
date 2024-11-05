@@ -38,7 +38,6 @@
     * [Regional training hub partners](https://www.royalballetschool.org.uk/regional-training-hub-partners/)
 * [Information](https://www.royalballetschool.org.uk/information/) Menu Toggle
     * [Sign up to news](https://www.royalballetschool.org.uk/information/e-news/)
-    * [Summer Performances 2024](https://www.royalballetschool.org.uk/summer-performances/)
     * [About us](https://www.royalballetschool.org.uk/discover/about-us/)
     * [Latest news](https://www.royalballetschool.org.uk/latest-news/)
     * [Work with us](https://www.royalballetschool.org.uk/information/work-with-us/)
@@ -224,7 +223,6 @@ Search for:
     * [Regional training hub partners](https://www.royalballetschool.org.uk/regional-training-hub-partners/)
 * [Information](https://www.royalballetschool.org.uk/information/) Menu Toggle
     * [Sign up to news](https://www.royalballetschool.org.uk/information/e-news/)
-    * [Summer Performances 2024](https://www.royalballetschool.org.uk/summer-performances/)
     * [About us](https://www.royalballetschool.org.uk/discover/about-us/)
     * [Latest news](https://www.royalballetschool.org.uk/latest-news/)
     * [Work with us](https://www.royalballetschool.org.uk/information/work-with-us/)
@@ -273,7 +271,6 @@ Search for:
     * [Regional training hub partners](https://www.royalballetschool.org.uk/regional-training-hub-partners/)
 * [Information](https://www.royalballetschool.org.uk/information/) Menu Toggle
     * [Sign up to news](https://www.royalballetschool.org.uk/information/e-news/)
-    * [Summer Performances 2024](https://www.royalballetschool.org.uk/summer-performances/)
     * [About us](https://www.royalballetschool.org.uk/discover/about-us/)
     * [Latest news](https://www.royalballetschool.org.uk/latest-news/)
     * [Work with us](https://www.royalballetschool.org.uk/information/work-with-us/)
