@@ -382,7 +382,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v121325242.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v121365435.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Hilfe
@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubiose Fest­gelder: Vaduzer Verstecken](https://www.test.de/Dubiose-Festgelder-Vaduzer-Verstecken-6029799-0/ "Dubiose Festgelder - Vaduzer Verstecken")
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
-* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
-* [Cookies: Banner-Blocker einer Verbraucherzentrale](https://www.test.de/Cookies-Banner-Blocker-einer-Verbraucherzentrale-5936842-0/ "Cookies - Banner-Blocker einer Verbraucherzentrale")
-* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
-* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
+* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
+* [Weihnachts­küche: Dünsten, backen, garen – und dabei Energie sparen](https://www.test.de/Weihnachtskueche-Duensten-backen-garen-und-dabei-Energie-sparen-5937736-0/ "Weihnachtsküche - Dünsten, backen, garen – und dabei Energie sparen")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [PC-Anschlüsse: Die 10 wichtigsten Laptop-Anschlüsse](https://www.test.de/PC-Anschluesse-Die-10-wichtigsten-Laptop-Anschluesse-5974253-0/ "PC-Anschlüsse - Die 10 wichtigsten Laptop-Anschlüsse")
+* [Sport­socken im Test: Zwei schrumpfen, drei scheuern durch](https://www.test.de/Sportsocken-im-Test-Zwei-schrumpfen-drei-scheuern-durch-6141956-0/ "Sportsocken im Test - Zwei schrumpfen, drei scheuern durch")
+* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubiose Fest­gelder: Vaduzer Verstecken](https://www.test.de/Dubiose-Festgelder-Vaduzer-Verstecken-6029799-0/ "Dubiose Festgelder - Vaduzer Verstecken")
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
-* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
-* [Cookies: Banner-Blocker einer Verbraucherzentrale](https://www.test.de/Cookies-Banner-Blocker-einer-Verbraucherzentrale-5936842-0/ "Cookies - Banner-Blocker einer Verbraucherzentrale")
-* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
-* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
+* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
+* [Weihnachts­küche: Dünsten, backen, garen – und dabei Energie sparen](https://www.test.de/Weihnachtskueche-Duensten-backen-garen-und-dabei-Energie-sparen-5937736-0/ "Weihnachtsküche - Dünsten, backen, garen – und dabei Energie sparen")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [PC-Anschlüsse: Die 10 wichtigsten Laptop-Anschlüsse](https://www.test.de/PC-Anschluesse-Die-10-wichtigsten-Laptop-Anschluesse-5974253-0/ "PC-Anschlüsse - Die 10 wichtigsten Laptop-Anschlüsse")
+* [Sport­socken im Test: Zwei schrumpfen, drei scheuern durch](https://www.test.de/Sportsocken-im-Test-Zwei-schrumpfen-drei-scheuern-durch-6141956-0/ "Sportsocken im Test - Zwei schrumpfen, drei scheuern durch")
+* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubiose Fest­gelder: Vaduzer Verstecken](https://www.test.de/Dubiose-Festgelder-Vaduzer-Verstecken-6029799-0/ "Dubiose Festgelder - Vaduzer Verstecken")
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
-* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
-* [Cookies: Banner-Blocker einer Verbraucherzentrale](https://www.test.de/Cookies-Banner-Blocker-einer-Verbraucherzentrale-5936842-0/ "Cookies - Banner-Blocker einer Verbraucherzentrale")
-* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
-* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
+* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
+* [Weihnachts­küche: Dünsten, backen, garen – und dabei Energie sparen](https://www.test.de/Weihnachtskueche-Duensten-backen-garen-und-dabei-Energie-sparen-5937736-0/ "Weihnachtsküche - Dünsten, backen, garen – und dabei Energie sparen")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [PC-Anschlüsse: Die 10 wichtigsten Laptop-Anschlüsse](https://www.test.de/PC-Anschluesse-Die-10-wichtigsten-Laptop-Anschluesse-5974253-0/ "PC-Anschlüsse - Die 10 wichtigsten Laptop-Anschlüsse")
+* [Sport­socken im Test: Zwei schrumpfen, drei scheuern durch](https://www.test.de/Sportsocken-im-Test-Zwei-schrumpfen-drei-scheuern-durch-6141956-0/ "Sportsocken im Test - Zwei schrumpfen, drei scheuern durch")
+* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubiose Fest­gelder: Vaduzer Verstecken](https://www.test.de/Dubiose-Festgelder-Vaduzer-Verstecken-6029799-0/ "Dubiose Festgelder - Vaduzer Verstecken")
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
-* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
-* [Cookies: Banner-Blocker einer Verbraucherzentrale](https://www.test.de/Cookies-Banner-Blocker-einer-Verbraucherzentrale-5936842-0/ "Cookies - Banner-Blocker einer Verbraucherzentrale")
-* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
-* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
+* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
+* [Weihnachts­küche: Dünsten, backen, garen – und dabei Energie sparen](https://www.test.de/Weihnachtskueche-Duensten-backen-garen-und-dabei-Energie-sparen-5937736-0/ "Weihnachtsküche - Dünsten, backen, garen – und dabei Energie sparen")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [PC-Anschlüsse: Die 10 wichtigsten Laptop-Anschlüsse](https://www.test.de/PC-Anschluesse-Die-10-wichtigsten-Laptop-Anschluesse-5974253-0/ "PC-Anschlüsse - Die 10 wichtigsten Laptop-Anschlüsse")
+* [Sport­socken im Test: Zwei schrumpfen, drei scheuern durch](https://www.test.de/Sportsocken-im-Test-Zwei-schrumpfen-drei-scheuern-durch-6141956-0/ "Sportsocken im Test - Zwei schrumpfen, drei scheuern durch")
+* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
 
 Service Stiftung Warentest
 
