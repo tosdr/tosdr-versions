@@ -351,8 +351,7 @@ Privacy Policy
 ==============
 
 Last Updated: January 29, 2024  
-You can see our previous Privacy Policies [here](https://airtable.com/appmP5KgnPlmKHR0R/shrRaH0revJH0G1Ii/tblSsVJGmAjzj7jEm/viwdn9g64MUXCkNCO?_gl=1*lac665*_ga*MTEyNTg1OTM1Mi4xNjc0Njk2ODA3*_ga_VJY8J9RFZM*MTcwNjMwMjYyMS4xODcuMS4xNzA2MzAyNzQ1LjU5LjAuMA..).  
-[FR](https://www.airtable.com/company/privacy/fr) | [DE](https://www.airtable.com/company/privacy/de)
+You can see our previous Privacy Policies [here](https://airtable.com/appmP5KgnPlmKHR0R/shrDaAJNwwfacYS2o).
 
 Formagrid Inc, doing business as Airtable ("**we**," "**our**," "**us**," or “**Airtable**”), prepared this Privacy Policy to help you understand our practices with respect to the collection, use, and disclosure of information we collect from you through: (i) airtable.com, its subdomains, and any other website where our [Terms of Service](https://www.airtable.com/tos) are posted; (ii) our online hosted services; and (iii) our “**Software**,” meaning, collectively, our browser extensions, mobile applications, other downloadable apps, application programming interfaces (“**APIs**”), and tools and documentation ((i) through (iii) collectively, our or the “**Services**”).
 
@@ -562,7 +561,7 @@ We use cookies and similar tracking technologies that enable certain advertising
 
 To opt out of these “sales” or “sharing” of personal information (as these terms are defined under the CCPA or other applicable US state privacy laws), you must:
 
-* Toggle cookies off in our or enable Global Privacy Control (“**GPC**”) on your browser; and
+* Toggle cookies off in our Cookie Preference Center, which may be accessed by clicking on "Cookie Preferences" in the footer of this webpage, or enable Global Privacy Control (“**GPC**”) on your browser; and
     
 * Submit a request using [this form](https://airtable.com/shrvJ3n3tfJ5BBYkD) or email [privacy@airtable.com](mailto:privacy@airtable.com).
     
