@@ -23,7 +23,6 @@ Your IP is not hidden by Bright VPN
 * [Why VPN?](https://brightvpn.com/why-to-use-vpn)
 * [VPN locations](https://brightvpn.com/vpn-servers-list)
 * [Referral](https://brightvpn.com/referral-program)
-* [Partner with us!](https://brightvpn.com/partners)
 * [FAQ](https://brightvpn.com/faq)
 * [Blog](https://brightvpn.com/blog)
 
