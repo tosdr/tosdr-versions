@@ -34,10 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [911, what is your \[not\] emergency? (941)](https://forum.nationstates.net/viewtopic.php?t=554757&f=25&view=unread#unread ""911, what is your [not] emergency?" (941 posts)")
-* [Random ~150 legs giveaway :3 (22)](https://forum.nationstates.net/viewtopic.php?t=557958&f=42&view=unread#unread ""Random ~150 legs giveaway :3" (22 posts)")
-* [What triggers you about the AN? (10,299)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (10,299 posts)")
-* [Guess Who BN Is! (6,628)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (6,628 posts)")
+* [Operation: Sand Goijra \[OOC/SIGNUP\] (2)](https://forum.nationstates.net/viewtopic.php?t=557970&f=5&view=unread#unread ""Operation: Sand Goijra [OOC/SIGNUP]" (2 posts)")
+* [What song is stuck in your head at th… (6,880)](https://forum.nationstates.net/viewtopic.php?t=189768&f=19&view=unread#unread ""What song is stuck in your head at the moment?" (6,880 posts)")
+* [What music are you listening to? v19 (188)](https://forum.nationstates.net/viewtopic.php?t=557533&f=25&view=unread#unread ""What music are you listening to? v19" (188 posts)")
+* [F7 Makes A Weird Meal - Ehrmantraut s… (123)](https://forum.nationstates.net/viewtopic.php?t=557898&f=25&view=unread#unread ""F7 Makes A Weird Meal - Ehrmantraut series" (123 posts)")
+* [Your nation's punishment for the abov… (3,201)](https://forum.nationstates.net/viewtopic.php?t=545645&f=25&view=unread#unread ""Your nation's punishment for the above crime V" (3,201 posts)")
 
 Advertisement
 
