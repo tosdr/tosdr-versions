@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [AI for Real-Time, Patient-Focused Insight](https://www.sciencedaily.com/releases/2024/11/241104150638.htm)
+* [Tonga Eruption: Seismic Wave 15 Minutes Earlier](https://www.sciencedaily.com/releases/2024/11/241104150630.htm)
+* [The Secrets of Baseball's Magic Mud](https://www.sciencedaily.com/releases/2024/11/241104150622.htm)
+* [Exploding Neutron-Stars: Dance of Electrons](https://www.sciencedaily.com/releases/2024/11/241104112242.htm)
+* [Synthetic Genes for Medicine and Biotech](https://www.sciencedaily.com/releases/2024/11/241104112240.htm)
 * [Fossil of Huge Terror Bird Discovered](https://www.sciencedaily.com/releases/2024/11/241104112355.htm)
 * [Fastest-Feeding Black Hole in the Early Universe](https://www.sciencedaily.com/releases/2024/11/241104112032.htm)
 * [Indigenous Cultural Burning in Australia](https://www.sciencedaily.com/releases/2024/11/241101123754.htm)
 * [Why No Deep-Diving Crocodiles: Sinuses](https://www.sciencedaily.com/releases/2024/10/241029203003.htm)
 * [Revolutionary High-Speed 3D Bioprinter](https://www.sciencedaily.com/releases/2024/11/241101123841.htm)
-* [First Blueprint of the Human Spliceosome](https://www.sciencedaily.com/releases/2024/10/241031151843.htm)
-* [Bacteria Work Together in Difficult Conditions](https://www.sciencedaily.com/releases/2024/09/240913105250.htm)
-* [Animal Viruses With Potential to Infect Humans](https://www.sciencedaily.com/releases/2024/10/241031130355.htm)
-* [Sugar in Utero and Midlife Chronic Disease](https://www.sciencedaily.com/releases/2024/10/241031185320.htm)
-* [Chemists Just Broke a 100-Year-Old Rule](https://www.sciencedaily.com/releases/2024/10/241031151834.htm)
 
 Trending Topics
 ---------------
@@ -228,25 +228,25 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Wounds and Healing](https://www.sciencedaily.com/news/health_medicine/wounds_and_healing/)
-
 [Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
 
 [Lymphoma](https://www.sciencedaily.com/news/health_medicine/lymphoma/)
 
+[Skin Cancer](https://www.sciencedaily.com/news/health_medicine/skin_cancer/)
+
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
+
+[Big Bang](https://www.sciencedaily.com/news/space_time/big_bang/)
 
 [Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
 
-[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
-
-[Vehicles](https://www.sciencedaily.com/news/matter_energy/vehicles/)
+[Satellites](https://www.sciencedaily.com/news/space_time/satellites/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
 
-[Animal Learning and Intelligence](https://www.sciencedaily.com/news/plants_animals/animal_learning_and_intelligence/)
+[Biotechnology and Bioengineering](https://www.sciencedaily.com/news/plants_animals/biotechnology_and_bioengineering/)
 
 [Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
 
