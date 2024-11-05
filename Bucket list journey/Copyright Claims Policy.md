@@ -243,6 +243,38 @@ Jump right in and you will get your printable ideas by email:
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
+[🌳 Here’s my one-day bucket list itinerary for ![🌳 Here’s my one-day bucket list itinerary for GOLDEN GATE PARK, SAN FRANCISCO 🌳
+(💫 SAVE for planning your trip to Northern #California💫)
+Want to conquer all that Golden Gate Park has to offer in just one day? Challenge accepted! At over 1,000 acres (bigger than Central Park!), this park is a haven of gardens, museums, lakes, and trails. Here’s how to make the most of it:
+1️⃣ Have coffee & Pastries @tartinebakery in the Inner Sunset ☕🥐 This local gem is famous for its pastries (and sourdough bread!)—seriously, their babka is a must-try!
+2️⃣ Explore the California Academy of Sciences (@calacademy) 🐠 Don’t miss the four-story Osher Rainforest (butterflies galore!) or the bioluminescent creatures in the aquarium.
+3️⃣ Stop by @conservatoryofflowers 🌸 They’ve got giant water lilies and rare orchids, plus the building is a 100+ year-old wood-and-glass building.
+4️⃣ See the masterpieces at @deyoungmuseum 🎨  Not a museum lover? Neither am I, but the de Young might have changed my mind. It’s packed with art from the 17th century to today
+5️⃣ Grab lunch @hookfishco🐟🌮 Fuel up with poke bowls, fish tacos, and guac at this laid-back spot near Ocean Beach. Outdoor seating only, so bundle up if it’s chilly!
+6️⃣ Make a Quick Stop at Queen Wilhelmina Garden and the Dutch Windmill 🌷 Spring tulips are a highlight, but even in the off-season (I was there in fall), the windmill is a photo-op.
+7️⃣ Pedal Boat on Blue Heron Lake 🚤 Hop into a pedal or rowboat @blueheronboathouse. Cruise around, enjoy the scenery and get a little leg workout at the same time!
+8️⃣ Walk the JFK Promenade 🚶‍♀️Take a scenic walk along this artsy Promenade toward the Japanese Tea Garden.
+9️⃣ Stroll through the @japaneseteagardensf 🍁 Finish the day in peace at this 5-acre haven of koi ponds, pagodas, and cherry blossoms (in March/April). 
+1️⃣0️⃣ Dinner at @kothaisf 🍽
+End your adventure with a feast at this cozy spot in the Inner Sunset. Their Asian-inspired dishes like Slow Shrooms and Monterey Squid are the perfect way to wrap up a day well-spent.
+#sanfrancisco #sanfranciscocalifornia #california #BucketListAdventures #visitcalifornia#travelbucketlist #GoldenGatePark](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![🌳 Here’s my one-day bucket list itinerary for GOLDEN GATE PARK, SAN FRANCISCO 🌳
+(💫 SAVE for planning your trip to Northern #California💫)
+Want to conquer all that Golden Gate Park has to offer in just one day? Challenge accepted! At over 1,000 acres (bigger than Central Park!), this park is a haven of gardens, museums, lakes, and trails. Here’s how to make the most of it:
+1️⃣ Have coffee & Pastries @tartinebakery in the Inner Sunset ☕🥐 This local gem is famous for its pastries (and sourdough bread!)—seriously, their babka is a must-try!
+2️⃣ Explore the California Academy of Sciences (@calacademy) 🐠 Don’t miss the four-story Osher Rainforest (butterflies galore!) or the bioluminescent creatures in the aquarium.
+3️⃣ Stop by @conservatoryofflowers 🌸 They’ve got giant water lilies and rare orchids, plus the building is a 100+ year-old wood-and-glass building.
+4️⃣ See the masterpieces at @deyoungmuseum 🎨  Not a museum lover? Neither am I, but the de Young might have changed my mind. It’s packed with art from the 17th century to today
+5️⃣ Grab lunch @hookfishco🐟🌮 Fuel up with poke bowls, fish tacos, and guac at this laid-back spot near Ocean Beach. Outdoor seating only, so bundle up if it’s chilly!
+6️⃣ Make a Quick Stop at Queen Wilhelmina Garden and the Dutch Windmill 🌷 Spring tulips are a highlight, but even in the off-season (I was there in fall), the windmill is a photo-op.
+7️⃣ Pedal Boat on Blue Heron Lake 🚤 Hop into a pedal or rowboat @blueheronboathouse. Cruise around, enjoy the scenery and get a little leg workout at the same time!
+8️⃣ Walk the JFK Promenade 🚶‍♀️Take a scenic walk along this artsy Promenade toward the Japanese Tea Garden.
+9️⃣ Stroll through the @japaneseteagardensf 🍁 Finish the day in peace at this 5-acre haven of koi ponds, pagodas, and cherry blossoms (in March/April). 
+1️⃣0️⃣ Dinner at @kothaisf 🍽
+End your adventure with a feast at this cozy spot in the Inner Sunset. Their Asian-inspired dishes like Slow Shrooms and Monterey Squid are the perfect way to wrap up a day well-spent.
+#sanfrancisco #sanfranciscocalifornia #california #BucketListAdventures #visitcalifornia#travelbucketlist #GoldenGatePark](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DB9OT8Fylus/) 
+
 [Ready to tackle 313 stairs down to California’s ![Ready to tackle 313 stairs down to California’s historic Point Reyes Lighthouse... and then 313 stairs back up? 😅 (Yes, your quads will feel it, but it’s worth it!). This beauty sits along the rugged coastline of the Point Reyes National Seashore, offering killer views—if Mother Nature cooperates, that is ☁️ 
 Tip: Check your weather app before heading out! The area is notorious for fog that likes to crash the party, blocking those postcard-worthy ocean views. Your best bet? Visit on a sunny, clear day (afternoons usually give you the best chance).
 Not up for all those stairs? No worries! There’s a great viewing platform near the parking lot where you can still soak in the scenery without the climb (though there is still a .4 mile walk to the platform!).
@@ -312,14 +344,6 @@ Thanks for tagging along to Point Reyes 😊
 9️⃣ Eat dinner @cafereyes_94956 🍕 this place has chill vibes and wood-fired pizza with names inspired by the area. We ordered the Miwok pizza and a fresh mozzarella salad—perfect end to a perfect day! 
 Thanks for tagging along to Point Reyes 😊 
 @pointreyesnps ##pointreyeslighthouse #pointreyes #pointreyesstation #northerncalifornia #pacificcoast #marincounty #visitcalifornia  #california #travelbucketlist #bucketlistadventures](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DBJgZzqPxVw/) 
-
-[The average traveler has seen 3 of these European ![The average traveler has seen 3 of these European cities. How many have you checked off your bucket list?! 🤔
-Drop your number in the comments! 👇 I’m at 20 cities (and counting)! 
-#bucketlisttravel #travelbucketlist #BucketListGoals #Wanderlust #bucketlist #bucketlistcheck #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters #travelmore #collectmemories #traveltheworld #worldtraveler #travelmore #travellover #europe #europeancities](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![The average traveler has seen 3 of these European cities. How many have you checked off your bucket list?! 🤔
-Drop your number in the comments! 👇 I’m at 20 cities (and counting)! 
-#bucketlisttravel #travelbucketlist #BucketListGoals #Wanderlust #bucketlist #bucketlistcheck #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters #travelmore #collectmemories #traveltheworld #worldtraveler #travelmore #travellover #europe #europeancities](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DA_Owu-vy0S/) 
 
 [Follow on Instagram](https://www.instagram.com/bucketlistjourney/)
 
