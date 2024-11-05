@@ -205,28 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Cars 2; Bad Teacher; The Beaver](https://www.somethingawful.com/current-movie-reviews/cars2-bad-teacher/1/)
-* [SkyMall Product Reviews: Giant Male Silverback Gorilla Statue](https://www.somethingawful.com/news/skymall-gorilla-statue/)
-* [SA Forum Goons vs. The Dating Game](https://www.somethingawful.com/feature-articles/sa-forum-goons/1/)
-* [Movies From Memory: The Matrix](https://www.somethingawful.com/news/movies-from-memory-2/)
-* [September 1, 2008](https://www.somethingawful.com/forum-fridays/ff09-01-08/1/)
+* [The Soccer Mystery!](https://www.somethingawful.com/photoshop-phriday/hadji-diouf-gif/1/)
+* [SWARMS OF DOGS](https://www.somethingawful.com/news/dog-classifieds6/)
+* [Celebrity Zoo!](https://www.somethingawful.com/photoshop-phriday/celebrity-zoo/1/)
+* [Baby Bibs](https://www.somethingawful.com/photoshop-phriday/baby-bibs/1/)
+* [The Grim Darkness of Warhammer Fantasy Roleplay Art](https://www.somethingawful.com/dungeons-and-dragons/mordheim-warhammer-art/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/audio.png) [Goooooons! Merry Awful Xmas Music Thread 2K24!](http://forums.somethingawful.com/showthread.php?threadid=4074263 "Goooooons! Merry Awful Xmas Music Thread 2K24!")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [Family meeting!](http://forums.somethingawful.com/showthread.php?threadid=4074281 "Family meeting!")
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [Toadies](http://forums.somethingawful.com/showthread.php?threadid=4074259 "Toadies")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-explosion.gif) [Did you or your friend(s) get hurt replicating wwe/jackass stunts?](http://forums.somethingawful.com/showthread.php?threadid=4074261 "Did you or your friend(s) get hurt replicating wwe/jackass stunts?")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-article.gif) [STOOP KID'S AFRAID TO LEAVE HIS STOOP](http://forums.somethingawful.com/showthread.php?threadid=4074324 "STOOP KID'S AFRAID TO LEAVE HIS STOOP")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [The Mysterious Song On The Internet Has Been Found](http://forums.somethingawful.com/showthread.php?threadid=4074325 "The Mysterious Song On The Internet Has Been Found")
 * ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Post ITT if you didn't update the SA app and you're on ios](http://forums.somethingawful.com/showthread.php?threadid=4074311 "Post ITT if you didn't update the SA app and you're on ios")
 * ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [What's a stereotypical "old person" thing that you do now?](http://forums.somethingawful.com/showthread.php?threadid=4074307 "What's a stereotypical "old person" thing that you do now?")
 
 ### Random Articles
 
-* [OpenBSD release song lyrics](https://www.somethingawful.com/awful-links/awful-link-4154/)
-* [Worth1000](https://www.somethingawful.com/awful-links/awful-link-1391/)
-* [Subj: FRANCHISE OPPORTUNITY!!](https://www.somethingawful.com/news/roamin-dad-39/)
-* [Through the Feeding Tube](https://www.somethingawful.com/news/through-feeding-tube/)
-* [Monstergeddon Forums > Events > Gatherings > Howard's XXXmas Shindig!](https://www.somethingawful.com/news/monstergeddon-xmas/1/)
+* [Muchas Gracias Debbie](https://www.somethingawful.com/awful-links/awful-link-4150/)
+* [BArt Simson thred](https://www.somethingawful.com/comedy-goldmine/bart-simson-thred/1/)
+* [To My Friend Who Is Leaving the Country](https://www.somethingawful.com/news/friend-leaving-country/1/)
+* [Big Sausage Pizza](https://www.somethingawful.com/awful-links/awful-link-2493/)
+* [List of Villians in Codename: Kids Next Door](https://www.somethingawful.com/awful-links/kids-next-door/)
 
 [Random!](https://www.somethingawful.com/random/)
 
