@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![Moça numa sala com o notebook na sua frente atualizando o cartão de crédito no postgrain](https://postgrain.com/wp-content/uploads/2024/11/THUMB-BLOG-Tutorial-Como-atualizar-os-dados-do-seu-cartao-no-Postgrain-580x290.jpg)](https://postgrain.com/?post_type=post&p=12693)
+[![Plano de Marketing Digital - A imagem que ilustra o tema tem o fundo de uma sala de escritório onde aparece uma mulher sentada em frente uma mesa trabalhando.](https://postgrain.com/wp-content/uploads/2024/11/THUMB-BLOG-Guia-Completo-para-criar-um-Plano-de-Marketing-Digital-eficiente-para-2025-O-que-nao-pode-faltar-580x290.jpg)](https://postgrain.com/?post_type=post&p=12700)
 
-[Tutorial: Como atualizar o seu cartão de crédito no Postgrain](https://postgrain.com/?post_type=post&p=12693)
+[Guia Completo para criar um Plano de Marketing Digital em 2025: O que não pode faltar!](https://postgrain.com/?post_type=post&p=12700)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12693)
+[Leia mais](https://postgrain.com/?post_type=post&p=12700)
 
 Ilustração de um dos personagens do Postgrain
 
