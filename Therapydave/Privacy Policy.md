@@ -114,7 +114,7 @@ Changes to This Policy
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date on this policy. We encourage you to review our Privacy Policy whenever you access or otherwise interact with this website so that you can stay informed about our information practices and the ways you can help protect your privacy.
 
-_“I can’t say enough good things about working with Dave Lechnyr. The progress I’m finally making – after years of trying – is improving my life in ways that I was beginning to think was never going to happen. I finally got to the point that I was ready and willing to put the hard work in. Dave has a seamless way of guiding and directing you to help you discover the road to better mental health on your own. An efficient, effective road to self-discovery. But, I learned you have to put the work in. The work you do is the engine propelling you forward. Dave is the Captain guiding you to safety. Put the work in, and Dave will meet you there step for step. He is extremely knowledgeable, professional, encouraging, and compassionate. I have and would HIGHLY recommend Dave.”_
+_“A lot of times I didn’t let myself be happy. After working with Dave, I’ve learned to change my focus. I’m not lying to myself anymore, I’m just allowing myself to just let it happen.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
