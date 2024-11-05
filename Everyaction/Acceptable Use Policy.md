@@ -571,6 +571,16 @@ Previous Next
 Social impact insights & information
 ------------------------------------
 
+* ![A nurse takes a patients questions while they wait for their appointment.](/sites/default/files/styles/card_image_short/public/2023-05/istock-1267603624.jpg?h=f2fcf546&itok=V15Zc09n)
+    
+    ### [The case management process: a step-by-step guide to success](https://www.everyaction.com/blog/case-management-process-guide)
+    
+    * Coordinating social services
+    * Public agencies
+    * Case Management
+    * Healthcare
+    * Human services
+    
 * ![A man points at his laptop while a coworker looks on, demonstrating the research process involved in choosing the right case management software.](/sites/default/files/styles/card_image_short/public/2023-05/istock-1434116614.jpg?h=34e6d3ed&itok=6A2wJMqy)
     
     ### [Choosing the right case management software: FAQs and tips](https://www.everyaction.com/blog/choosing-the-right-case-management-software)
@@ -589,16 +599,6 @@ Social impact insights & information
     * Corporate social responsibility
     * Employee giving
     * Employee volunteering
-    * Corporations
-    * Corporate Social Responsibility
-    
-* ![A group of young colleagues gathers around a desk in an office and reviews information on a laptop screen.](/sites/default/files/styles/card_image_short/public/2024-05/1663298209.jpeg?h=f7d9296c&itok=_DyJhsie)
-    
-    ### [Top 10 questions to evaluate and choose CSR software](https://www.everyaction.com/blog/top-10-questions-evaluate-and-choose-csr-software)
-    
-    * Corporate social responsibility
-    * Employee giving
-    * Grant management & grant making
     * Corporations
     * Corporate Social Responsibility
     
