@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/koninklijk-bloed/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/nederlandse-bilderberggroep-in-de-schijnwerpers/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
