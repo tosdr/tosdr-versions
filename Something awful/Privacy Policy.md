@@ -205,25 +205,21 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Great Energy Drink Review Roundup 2008!](https://www.somethingawful.com/news/energy-drink-review2008/1/)
-* [The Full Version of Roy Batty's "Tears in Rain" Speech](https://www.somethingawful.com/news/blade-runner-speech/1/)
-* [De-synchronized Swimmers!](https://www.somethingawful.com/photoshop-phriday/synchronized-swimming-scary/1/)
-* [Battle Raper 2](https://www.somethingawful.com/hentai-game-reviews/battle-raper-2/)
-* [The 2007 Holiday Skymall Strategy Guide, Part 6](https://www.somethingawful.com/guides/skymall-guide-part6/1/)
+* [Unnecessary Advertisements](https://www.somethingawful.com/photoshop-phriday/unnecessary-advertisements/1/)
+* [A Harrowing Account of One Man's... (Part 2)](https://www.somethingawful.com/comedy-goldmine/harrowing-account-birds/1/)
+* [A Bear Walks into a Diner ...](https://www.somethingawful.com/photoshop-phriday/bear-ginger-ale/1/)
+* [Clowns In Difficult Situations!](https://www.somethingawful.com/photoshop-phriday/ms-paint-clowns/)
+* [GI Army Funnies: Indiana Petraeus and the Crappers of Cairo](https://www.somethingawful.com/news/egypt-patraeus-afghanistan/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Post ITT if you didn't update the SA app and you're on ios](http://forums.somethingawful.com/showthread.php?threadid=4074311 "Post ITT if you didn't update the SA app and you're on ios")
-* ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) [STOOP KID'S AFRAID TO LEAVE HIS STOOP](http://forums.somethingawful.com/showthread.php?threadid=4074375 "STOOP KID'S AFRAID TO LEAVE HIS STOOP")
-* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [What's a stereotypical "old person" thing that you do now?](http://forums.somethingawful.com/showthread.php?threadid=4074307 "What's a stereotypical "old person" thing that you do now?")
-
 ### Random Articles
 
-* [I Hate You Page 203](https://www.somethingawful.com/cliff-yablonski/i-hate-you-203/)
-* [Another Festering, Pathetic, Diseased Year For Me to Live Through](https://www.somethingawful.com/news/another-festering-pathetic/)
-* [Fan Art IS Real Art!](https://www.somethingawful.com/photoshop-phriday/fan-art-zybourne/1/)
-* [Acne Beat: Teens Helping a Friend Overcome Acne](https://www.somethingawful.com/awful-links/awful-link-1171/)
-* [My Future's So Dark, I Gotta Wear Spikes](https://www.somethingawful.com/news/dark-future-80s/)
+* [Moon Patrol: The Erotic Adventures](https://www.somethingawful.com/feature-articles/moon-patrol-erotic/)
+* [The Wonders of IMDB Keywords](https://www.somethingawful.com/news/imdb-keyword-matches/1/)
+* [Today We Learn English! Lesson 4: The Parts of Speech](https://www.somethingawful.com/news/parts-of-speech/1/)
+* [2000 Awful Awards!](https://www.somethingawful.com/news/2000-awful-awards-2/)
+* [Next-Gen Gears of War!](https://www.somethingawful.com/photoshop-phriday/next-gen-gears/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
