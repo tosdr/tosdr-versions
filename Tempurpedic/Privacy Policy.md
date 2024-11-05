@@ -43,13 +43,11 @@ Pillows](https://www.tempurpedic.com/shop-pillows/)[Save 40%
 
 ![The corner of a mattress topper held up to show zipped cover](https://assets-www.tempurpedic.com/media/images/ToppersMobileNavV4.width-300.png)
 
-Toppers](https://www.tempurpedic.com/other-products/tempur-toppers/)[Save 25%
+Toppers](https://www.tempurpedic.com/other-products/tempur-toppers/)[Save up to 50%
 
 ![Tempur Sheet sets](https://assets-www.tempurpedic.com/media/images/368x160_NavBedding.width-300.png)
 
-Bedding](https://www.tempurpedic.com/bedding/)[Save 15%
-
-![Tempur Office Chair](https://assets-www.tempurpedic.com/media/images/368x160_NavAccessories.width-300.png)
+Bedding](https://www.tempurpedic.com/bedding/)[![Tempur Office Chair](https://assets-www.tempurpedic.com/media/images/368x160_NavAccessories.width-300.png)
 
 Accessories](https://www.tempurpedic.com/other-products/)
 
@@ -63,14 +61,14 @@ Accessories](https://www.tempurpedic.com/other-products/)
     
     Finance](https://www.tempurpedic.com/finance-your-purchase/)
 
-Featured
---------
+Veterans Day Sale
+-----------------
 
-[Save 30%
+[Save up to $500
 
-![Breeze 1.0 Mattresses Stacked](https://assets-www.tempurpedic.com/media/images/Stack_872x480_Center_Align.width-300.png)
+![Shop Nav - Breeze® mattress on an adjustable base](https://assets-www.tempurpedic.com/media/images/042823_All_NP_NewBreeze_Mobile_01.width-300.png)
 
-Breeze 1.0 Closeout Collection](https://www.tempurpedic.com/shop-mattresses/breeze-20/)
+on select adjustable mattress sets¶](https://www.tempurpedic.com/shop-mattresses/)
 
 * [![](https://assets-www.tempurpedic.com/media/images/OrdersNavVPV3_pRH2D75.original_1.original.png)
     
@@ -85,77 +83,19 @@ Breeze 1.0 Closeout Collection](https://www.tempurpedic.com/shop-mattresses/bree
 Special Offers
 --------------
 
-[![a cloud mattress with the bag that it ships in standing up against it](https://assets-www.tempurpedic.com/media/images/Offer3MobileNavV3.original.width-300.png)
-
-###### Ends Monday
-
-Save 30%
-
-TEMPUR-Cloud® Mattress](https://www.tempurpedic.com/shop-mattresses/tempur-cloud-mattress/)[![Two stacked Cloud Pillows](https://assets-www.tempurpedic.com/media/images/CloudOfferMobileNavV3.width-300.png)
-
-###### Ends Monday
-
-Buy One, Get One Free
-
-select Tempur-Pedic® Pillows](https://www.tempurpedic.com/pillows)[![Cloud pillow with sheets on top](https://assets-www.tempurpedic.com/media/images/TPUC_300GWP.width-300.png)
-
-###### Ends Monday
-
-Buy One, Get One Free
-
-Pillows & Sheets
-
-Bundles](https://www.tempurpedic.com/shop-pillows/)[![Bundle And Save 300 accessories sheets and pillows](https://assets-www.tempurpedic.com/media/images/BundleAndSave_Module_1.width-300.png)
-
-###### Ends Today
-
-$300 in Free Accessories
-
-with Adapt® & Breeze® mattress purchases
-
-use code 300FREE](https://www.tempurpedic.com/shop-mattresses/)[![a topper supreme rolled](https://assets-www.tempurpedic.com/media/images/Offer1MobileNavV4.original.width-300.png)
+[![a topper supreme rolled](https://assets-www.tempurpedic.com/media/images/Offer1MobileNavV4.original.width-300.png)
 
 ###### Limited-Time Offer
 
 Save 40%
 
-TEMPUR-Cloud® Topper](https://www.tempurpedic.com/other-products/tempur-toppers/)[![a topper supreme rolled](https://assets-www.tempurpedic.com/media/images/Offer1MobileNavV4.original.width-300.png)
-
-###### Ends Monday
-
-Save 40%
-
-TEMPUR-Adapt® Topper](https://www.tempurpedic.com/other-products/tempur-adapt-topper2/)[![Stack of Cloud pillows](https://assets-www.tempurpedic.com/media/images/Cloud_Pillows_SOFO.width-300.png)
-
-###### Ends Monday
-
-Save 25%
-
-select Tempur-Pedic® Pillows](https://www.tempurpedic.com/pillows)[![two cloud adjustable pillows stacked on one another](https://assets-www.tempurpedic.com/media/images/CloudOfferMobileNavV4.width-300.jpg)
+TEMPUR-Cloud® Topper](https://www.tempurpedic.com/other-products/tempur-toppers/)[![two cloud adjustable pillows stacked on one another](https://assets-www.tempurpedic.com/media/images/CloudOfferMobileNavV4.width-300.jpg)
 
 ###### Special Offer
 
 Pillow Bundles
 
-starting at 2 for $69](https://www.tempurpedic.com/pillows)[![two cloud adjustable pillows stacked on one another](https://assets-www.tempurpedic.com/media/images/CloudOfferMobileNavV4.width-300.jpg)
-
-###### Special Offer
-
-Pillow Bundles
-
-starting at 2 for $69](https://www.tempurpedic.com/pillows)[![sheet stack mobile nav offer link](https://assets-www.tempurpedic.com/media/images/Sheetshrthdf.original.width-300.png)
-
-###### Ends Monday
-
-Save 25%
-
-on premium bedding](https://www.tempurpedic.com/bedding/)[![Office Chair](https://assets-www.tempurpedic.com/media/images/Offer_Tile_Image_-_Office_Chair_.width-300.png)
-
-###### Ends Monday
-
-Save 15%
-
-TEMPUR-Lumbar Support™ Office Chair](https://www.tempurpedic.com/other-products/tempur-premium-office-chair/v/3911/)[![ProAir sheet stack](https://assets-www.tempurpedic.com/media/images/ProAir.width-300.png)
+starting at 2 for $69](https://www.tempurpedic.com/pillows)[![ProAir sheet stack](https://assets-www.tempurpedic.com/media/images/ProAir.width-300.png)
 
 ###### Limited-Time Offer
 
@@ -163,13 +103,7 @@ Save 50%
 
 on TEMPUR-ProAir
 
-Sheet Set](https://www.tempurpedic.com/beddingold/tempur-proair-sheet-set/)[![Active Breeze System](https://assets-www.tempurpedic.com/media/images/AB_PromoCard_267x184_1.width-300.png)
-
-###### Special Offer
-
-$300 Instant Gift
-
-with ActiveBreeze® Smart Bed purchase](https://www.tempurpedic.com/shop-mattresses/tempur-active-breeze/)[![Breeze Mattress on Ergo Smart Base Promo Card](https://assets-www.tempurpedic.com/media/images/Ergo_Smart_Breeze_132x88_1.width-300.png)
+Sheet Set](https://www.tempurpedic.com/beddingold/tempur-proair-sheet-set/)[![Breeze Mattress on Ergo Smart Base Promo Card](https://assets-www.tempurpedic.com/media/images/Ergo_Smart_Breeze_132x88_1.width-300.png)
 
 ###### Special Offer
 
@@ -417,6 +351,10 @@ More Ways to Shop
 * [Twitter Tempur-pedic Twitter](https://twitter.com/tempurpedic "Twitter")
 * [Pinterest Tempur-pedic Pinterest](https://www.pinterest.com/TempurPedic/ "Pinterest")
 * [Instagram Tempur-pedic Instagram](https://www.instagram.com/tempurpedic/ "Instagram")
+
+¶ Offer valid November 5–December 3, 2024, while supplies last. Maximum savings of $500 requires purchase of a TEMPUR-Breeze® or TEMPUR-LuxeAdapt® mattress and a TEMPUR-Ergo® Smart Base. Save $500 on any size TEMPUR-ActiveBreeze® system. Save $300 on any size TEMPUR-Breeze® or TEMPUR-LuxeAdapt® mattress. Save $200 on any size TEMPUR-ProAdapt® or TEMPUR-Adapt® mattress. Save $200 on any size TEMPUR-Ergo® ProSmart® Base or TEMPUR-Ergo® Smart Base. Save $100 on any size TEMPUR-Ergo® Power Base. Select adjustable mattress sets only. Savings realized at time of purchase. Certain offers may not be combined. Excludes previous purchases. See store for availability and details. Copyright 2024 Tempur-Pedic North America, LLC. All rights reserved.
+
+†† Offer valid on two TEMPUR-Adapt® or TEMPUR-Breeze® pillows. See store for details.
 
 | At a joint press conference on May 6, 1998, NASA recognized Tempur-Pedic's outstanding achievements in adapting their original technology for everyday use and improving the quality of life for humankind.
 
