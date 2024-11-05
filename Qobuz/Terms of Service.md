@@ -1198,7 +1198,7 @@ XANDRIE SA reserves the right to cancel or refuse any order from a Customer with
 * [Mobile version](https://www.qobuz.com/gb-en/legal/terms)
 
 * Need help
-* [Help](https://intercom-help.eu/qobuz/en)
+* [Help](https://help.qobuz.com/en)
 * [Cookie Settings](#)
 * [Web Player](https://play.qobuz.com/)
 
