@@ -24,6 +24,8 @@ Close window
     
     ![Maple Addon Icon](/images2018/NavIcons/Maple-Addon.png)[### Maple Add-Ons](https://www.maplesoft.com/products/maple/toolboxes/)[• E-Books & Study Guides for Students](https://www.maplesoft.com/products/maple/toolboxes/index.aspx#ebooks) [• Maple Toolboxes](https://www.maplesoft.com/products/maple/toolboxes/index.aspx#toolboxes) [• MapleNet](https://www.maplesoft.com/products/maplenet/index_aca.aspx) [• Free Maple Player](https://www.maplesoft.com/products/maple/Mapleplayer/)
     
+    ![Student Success Platform Icon](/images2018/NavIcons/SSP.png)[### Student Success Platform](https://www.maplesoft.com/student-success-platform/)[#### Improving Retention Rates](https://www.maplesoft.com/student-success-platform/)  
+    
     ![MapleSim Icon](/images2018/NavIcons/MapleSim.png)[### MapleSim](https://www.maplesoft.com/products/maplesim/)
     
     #### Advanced System Level Modeling
