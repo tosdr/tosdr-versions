@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a5ce2fc38a5219e6a9ec8ce086dfb408
+543bdbfa3561850aff5b73ef5248de97
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Pink swirl clasp](https://sojourner.biz/images/cache/SKU0282variations.200.jpg)](https://sojourner.biz/clasps/glass/pink-swirl-clasp.html "Pink swirl clasp")
+[![7 mm gold-plated tube bead](https://sojourner.biz/images/cache/metalbeads/MET011.200.jpg)](https://sojourner.biz/beads/metal/7-mm-gold-plated-tube-bead.html "7 mm gold-plated tube bead")
 
-#### [Pink swirl clasp](https://sojourner.biz/clasps/glass/pink-swirl-clasp.html "Pink swirl clasp")
+#### [7 mm gold-plated tube bead](https://sojourner.biz/beads/metal/7-mm-gold-plated-tube-bead.html "7 mm gold-plated tube bead")
 
-$21.00
+$3.00
 
 ### Best Sellers
 
