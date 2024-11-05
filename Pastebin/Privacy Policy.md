@@ -168,37 +168,37 @@ Questions regarding Pastebin's Privacy Statement or information practices should
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [⭐ FREE giftcards method by Pastebin Team 48](https://pastebin.com/B76FaDwF)
+* [Binance Accounts Leaked](https://pastebin.com/C3HXYfdh)
     
-    JavaScript | 2 sec ago | 0.17 KB
+    JavaScript | 6 sec ago | 0.09 KB
     
-* [⭐ giftcards for free](https://pastebin.com/xLRbAHeV)
+* [⭐ FREE giftcards method](https://pastebin.com/wEhQhLja)
     
-    JavaScript | 3 sec ago | 0.05 KB
+    JavaScript | 7 sec ago | 0.05 KB
     
-* [⭐️ EARN $500 INSTANTLY K2](https://pastebin.com/JrdZ5UwA)
+* [⭐ get any gift card for FREE](https://pastebin.com/wsEsmrpq)
     
-    JavaScript | 4 sec ago | 0.17 KB
+    JavaScript | 13 sec ago | 0.05 KB
     
-* [⭐ Binance Account hack LU](https://pastebin.com/ZRaV2MRg)
+* [⭐ get any gift card for FREE](https://pastebin.com/ik2DFKiH)
     
-    JavaScript | 7 sec ago | 0.17 KB
+    JavaScript | 15 sec ago | 0.05 KB
     
-* [⭐ FREE giftcards method by Pastebin Team RV](https://pastebin.com/b733Zn5a)
+* [⭐ FREE giftcards method](https://pastebin.com/jyYgk4vU)
     
-    JavaScript | 9 sec ago | 0.17 KB
+    JavaScript | 15 sec ago | 0.05 KB
     
-* [⭐ get any gift card for FREE by Pastebin Team...](https://pastebin.com/qzRcfAAe)
+* [⭐ get any gift card for FREE](https://pastebin.com/aKpE7FJS)
     
-    JavaScript | 12 sec ago | 0.17 KB
+    JavaScript | 25 sec ago | 0.05 KB
     
-* [⭐ FREE giftcards method](https://pastebin.com/4Qv8KER5)
+* [⭐ FREE giftcards method](https://pastebin.com/STFjDdpR)
     
-    JavaScript | 12 sec ago | 0.05 KB
+    JavaScript | 30 sec ago | 0.05 KB
     
-* [⭐ Binance Account hack IF](https://pastebin.com/dBejdmf1)
+* [⭐ FREE giftcards method](https://pastebin.com/P88e1t6z)
     
-    JavaScript | 16 sec ago | 0.17 KB
+    JavaScript | 32 sec ago | 0.05 KB
     
 
 [](https://pastebin.com/tools#chrome "Google Chrome Extension")[](https://pastebin.com/tools#firefox "Firefox Extension")[](https://pastebin.com/tools#iphone "iPhone/iPad Application")[](https://pastebin.com/tools#windows "Windows Desktop Application")[](https://pastebin.com/tools#android "Android Application")[](https://pastebin.com/tools#macos "MacOS X Widget")[](https://pastebin.com/tools#opera "Opera Extension")[](https://pastebin.com/tools#pastebincl "Linux Application")
