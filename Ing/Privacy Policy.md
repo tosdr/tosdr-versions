@@ -846,9 +846,7 @@ Write to Australian Financial Complaints Authority GPO Box 3 Melbourne VIC 3001
 If you are not satisfied with how your complaint or concern is resolved by the relevant external dispute resolution body, you can then refer your complaint to the Privacy Commissioner. The Privacy Commissioner can be contacted on the following details:
 
 Visit [www.oaic.gov.au](https://www.oaic.gov.au/)  
-Email [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)  
-Call the Privacy Hotline: 1300 363 992  
-Write to: Office of the Australian Information Commissioner GPO Box 5218 Sydney NSW 2001
+Contact us page: [www.oaic.gov.au/contact-us](https://www.oaic.gov.au/contact-us)
 
 Please go to the "Complaints and Disputes" section of our website for information on how we deal with your complaints that are not privacy related.  
   
