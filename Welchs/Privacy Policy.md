@@ -28,7 +28,7 @@ I Agree
 
 [![Search](/img/search-icon.svg)](https://www.welchs.com/search) Navigation Menu
 
- ![Close of a grapevine in front of a row of fall trees ](https://img2.storyblok.com/filters:format(webp)/f/95109/375x250/d94bcf3223/privacypolicy-header-mobile.jpg)
+ ![](https://img2.storyblok.com/filters:format(webp)/f/95109/375x250/d94bcf3223/privacypolicy-header-mobile.jpg)
 
 Privacy Policy
 ==============
