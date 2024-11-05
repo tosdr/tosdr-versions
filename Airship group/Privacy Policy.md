@@ -45,7 +45,7 @@
         [](#)
         
     
-    [![](https://www.airship.com/wp-content/uploads/2024/10/Airship-2024-LinkedIn-Live-Broadcast-LP-Image-30th-APAC-NAM.png)](https://www.airship.com/events/from-fragmented-to-fluid-how-to-improve-mobile-first-cx-for-2025-emea-nam/)
+    [![](https://www.airship.com/wp-content/uploads/2024/11/airship_altitude_awards_feature_navigation_image_720.png)](https://www.airship.com/events/join-the-altitude-awards-2024-ceremony-livestream/)
     
     * [Build No-Code Experiences](https://www.airship.com/product/experience-editor/)
         
