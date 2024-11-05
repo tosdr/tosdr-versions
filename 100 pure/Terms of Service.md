@@ -82,7 +82,7 @@ ADD TO TOTE
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2405 reviews (2405)
+2409 reviews (2409)
 
 $28.00 $28.00
 
@@ -272,7 +272,7 @@ ADD TO TOTE
 
 ### [Honey Almond Nourishing Body Cream](https://www.100percentpure.com/products/honey-almond-nourishing-body-cream)
 
-388 reviews (388)
+387 reviews (387)
 
 $26.00
 
