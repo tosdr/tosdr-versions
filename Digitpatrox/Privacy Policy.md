@@ -20,16 +20,16 @@ Tuesday, November 5 2024
 
 Latest
 
-* [Schneider Electric confirms breach after hacker claims to have 40GB of stolen data](https://digitpatrox.com/schneider-electric-confirms-breach-after-hacker-claims-to-have-40gb-of-stolen-data/)
-* [The complete guide – Computerworld](https://digitpatrox.com/the-complete-guide-computerworld/)
-* [Apple Will Fix Your iPhone 14 Plus’ Camera for Free](https://digitpatrox.com/apple-will-fix-your-iphone-14-plus-camera-for-free/)
-* [7 Best Free Open-source Hypervisors](https://digitpatrox.com/7-best-free-open-source-hypervisors/)
-* [Best Matching Washer & Dryer Sets](https://digitpatrox.com/best-matching-washer-dryer-sets/)
-* [These Games Prove There’s a “Right Way” to Use Modern AI in Gaming](https://digitpatrox.com/these-games-prove-theres-a-right-way-to-use-modern-ai-in-gaming/)
-* [Data centers will be critical to UK economic growth in the coming decade – but researchers have warned of a ‘data doomsday’ unless energy infrastructure is improved](https://digitpatrox.com/data-centers-will-be-critical-to-uk-economic-growth-in-the-coming-decade-but-researchers-have-warned-of-a-data-doomsday-unless-energy-infrastructure-is-improved/)
-* [Harness the Power of Data Science & Machine Learning from Home](https://digitpatrox.com/harness-the-power-of-data-science-machine-learning-from-home/)
-* [‘Outer Banks’ future on Netflix revealed — there’s good and bad news](https://digitpatrox.com/outer-banks-future-on-netflix-revealed-theres-good-and-bad-news/)
-* [Schneider Electric confirms dev platform breach after hacker steals data](https://digitpatrox.com/schneider-electric-confirms-dev-platform-breach-after-hacker-steals-data/)
+* [Do banks refund scammed money?](https://digitpatrox.com/do-banks-refund-scammed-money/)
+* [Five ways cyber criminals target healthcare and how to stop them](https://digitpatrox.com/five-ways-cyber-criminals-target-healthcare-and-how-to-stop-them/)
+* [Samsung in the lead as the smartphone market grows – Computerworld](https://digitpatrox.com/samsung-in-the-lead-as-the-smartphone-market-grows-computerworld/)
+* [How to Add a Virtual Second Monitor for Mac](https://digitpatrox.com/how-to-add-a-virtual-second-monitor-for-mac/)
+* [Ransomware gang claims responsibility for cyber attack on Georgia hospital](https://digitpatrox.com/ransomware-gang-claims-responsibility-for-cyber-attack-on-georgia-hospital/)
+* [Microsoft may use the ‘Windows Intelligence’ name for its AI features for Windows 11](https://digitpatrox.com/microsoft-may-use-the-windows-intelligence-name-for-its-ai-features-for-windows-11/)
+* [12 Best Home Security Cameras, Lab-Tested and Reviewed](https://digitpatrox.com/12-best-home-security-cameras-lab-tested-and-reviewed/)
+* [Plex Is the Best Way to Search for Movies on Apple TV](https://digitpatrox.com/plex-is-the-best-way-to-search-for-movies-on-apple-tv/)
+* [Windows Server 2025 is now available – but Microsoft warns admins to watch out for three major bugs, including one that causes the dreaded blue screen of death](https://digitpatrox.com/windows-server-2025-is-now-available-but-microsoft-warns-admins-to-watch-out-for-three-major-bugs-including-one-that-causes-the-dreaded-blue-screen-of-death/)
+* [EU Investigates NVIDIA Deal With Run:ai](https://digitpatrox.com/eu-investigates-nvidia-deal-with-runai/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/QZPkN8TuSPnJJnNkbeFYLk-1200-80.jpg)](https://digitpatrox.com/schneider-electric-confirms-breach-after-hacker-claims-to-have-40gb-of-stolen-data/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Do-banks-refund-scammed-money_-1.jpg)](https://digitpatrox.com/do-banks-refund-scammed-money/)
     
-    [Schneider Electric confirms breach after hacker claims to have 40GB of stolen data](https://digitpatrox.com/schneider-electric-confirms-breach-after-hacker-claims-to-have-40gb-of-stolen-data/)
+    [Do banks refund scammed money?](https://digitpatrox.com/do-banks-refund-scammed-money/)
     
-    14 mins ago
+    23 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/1709343-0-70572900-1730809977-protection_privacy_locks_security_cybersecurity-100747430-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/the-complete-guide-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/q5EoJKLUgN9rpRrpBmJqwn-1200-80.jpg)](https://digitpatrox.com/five-ways-cyber-criminals-target-healthcare-and-how-to-stop-them/)
     
-    [The complete guide – Computerworld](https://digitpatrox.com/the-complete-guide-computerworld/)
+    [Five ways cyber criminals target healthcare and how to stop them](https://digitpatrox.com/five-ways-cyber-criminals-target-healthcare-and-how-to-stop-them/)
     
-    35 mins ago
+    54 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01JBWDT8CVKY20SBR3TB00MAPS/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/apple-will-fix-your-iphone-14-plus-camera-for-free/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3599532-0-85864600-1730826731-pexels-fauxels-3184435.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/samsung-in-the-lead-as-the-smartphone-market-grows-computerworld/)
     
-    [Apple Will Fix Your iPhone 14 Plus’ Camera for Free](https://digitpatrox.com/apple-will-fix-your-iphone-14-plus-camera-for-free/)
-    
-    1 hour ago
-    
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Best-Free-Open-source-Hypervisors.jpeg)](https://digitpatrox.com/7-best-free-open-source-hypervisors/)
-    
-    [7 Best Free Open-source Hypervisors](https://digitpatrox.com/7-best-free-open-source-hypervisors/)
+    [Samsung in the lead as the smartphone market grows – Computerworld](https://digitpatrox.com/samsung-in-the-lead-as-the-smartphone-market-grows-computerworld/)
     
     1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729276633/prod/content/dam/CRO-Images-2024/Appliances/CR-Appliances-InlineHero-Matching-Washer-Dryer-Sets-Update-1024)](https://digitpatrox.com/best-matching-washer-dryer-sets/)
+* [![](https://lifehacker.com/imagery/articles/01JBWDXBZEY9B72JZ0CM08B337/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-add-a-virtual-second-monitor-for-mac/)
     
-    [Best Matching Washer & Dryer Sets](https://digitpatrox.com/best-matching-washer-dryer-sets/)
+    [How to Add a Virtual Second Monitor for Mac](https://digitpatrox.com/how-to-add-a-virtual-second-monitor-for-mac/)
     
-    1 hour ago
+    2 hours ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Ransomware-gang-claims-cyber-attack-on-Georgia-Hospital.jpg)](https://digitpatrox.com/ransomware-gang-claims-responsibility-for-cyber-attack-on-georgia-hospital/)
+    
+    [Ransomware gang claims responsibility for cyber attack on Georgia hospital](https://digitpatrox.com/ransomware-gang-claims-responsibility-for-cyber-attack-on-georgia-hospital/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [14 mins ago
+* [23 mins ago
     
-    ### Schneider Electric confirms breach after hacker claims to have 40GB of stolen data](https://digitpatrox.com/schneider-electric-confirms-breach-after-hacker-claims-to-have-40gb-of-stolen-data/)
-* [35 mins ago
+    ### Do banks refund scammed money?](https://digitpatrox.com/do-banks-refund-scammed-money/)
+* [54 mins ago
     
-    ### The complete guide – Computerworld](https://digitpatrox.com/the-complete-guide-computerworld/)
+    ### Five ways cyber criminals target healthcare and how to stop them](https://digitpatrox.com/five-ways-cyber-criminals-target-healthcare-and-how-to-stop-them/)
 * [1 hour ago
     
-    ### Apple Will Fix Your iPhone 14 Plus’ Camera for Free](https://digitpatrox.com/apple-will-fix-your-iphone-14-plus-camera-for-free/)
+    ### Samsung in the lead as the smartphone market grows – Computerworld](https://digitpatrox.com/samsung-in-the-lead-as-the-smartphone-market-grows-computerworld/)
 
 Most Popular Topics
 
-* [October 3, 2024
+* [September 22, 2024
     
-    ### How to upgrade to Windows 11 24H2](https://digitpatrox.com/how-to-upgrade-to-windows-11-24h2/)
-* [October 1, 2024
+    ### Manage Your Outlook Attachments Like a Pro with These 8 Tips](https://digitpatrox.com/manage-your-outlook-attachments-like-a-pro-with-these-8-tips/)
+* [August 23, 2024
     
-    ### Emerson and Nozomi Networks announce expanded partnership](https://digitpatrox.com/emerson-and-nozomi-networks-announce-expanded-partnership/)
-* [September 5, 2024
+    ### Amazon Marketplace facing revived antitrust suit after appeals court reversal](https://digitpatrox.com/amazon-marketplace-facing-revived-antitrust-suit-after-appeals-court-reversal/)
+* [4 weeks ago
     
-    ### How to enable Gamepad keyboard layout on Windows 11](https://digitpatrox.com/how-to-enable-gamepad-keyboard-layout-on-windows-11/)
+    ### 8 Outlook Search Tips to Find Emails Instantly](https://digitpatrox.com/8-outlook-search-tips-to-find-emails-instantly/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### Data centers will be critical to UK economic growth in the coming decade – but researchers have warned of a ‘data doomsday’ unless energy infrastructure is improved](https://digitpatrox.com/data-centers-will-be-critical-to-uk-economic-growth-in-the-coming-decade-but-researchers-have-warned-of-a-data-doomsday-unless-energy-infrastructure-is-improved/)
+    ### 12 Best Home Security Cameras, Lab-Tested and Reviewed](https://digitpatrox.com/12-best-home-security-cameras-lab-tested-and-reviewed/)
 * [2 hours ago
     
-    ### Harness the Power of Data Science & Machine Learning from Home](https://digitpatrox.com/harness-the-power-of-data-science-machine-learning-from-home/)
-* [2 hours ago
+    ### Plex Is the Best Way to Search for Movies on Apple TV](https://digitpatrox.com/plex-is-the-best-way-to-search-for-movies-on-apple-tv/)
+* [3 hours ago
     
-    ### ‘Outer Banks’ future on Netflix revealed — there’s good and bad news](https://digitpatrox.com/outer-banks-future-on-netflix-revealed-theres-good-and-bad-news/)
+    ### Windows Server 2025 is now available – but Microsoft warns admins to watch out for three major bugs, including one that causes the dreaded blue screen of death](https://digitpatrox.com/windows-server-2025-is-now-available-but-microsoft-warns-admins-to-watch-out-for-three-major-bugs-including-one-that-causes-the-dreaded-blue-screen-of-death/)
 
 Most Viewed Topics
 
-* [August 28, 2024
+* [August 11, 2024
     
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
-* [August 12, 2024
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 13, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
