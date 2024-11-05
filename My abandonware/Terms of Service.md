@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Les Oiseaux des Parcs et des Jardins](https://www.myabandonware.com/game/les-oiseaux-des-parcs-et-des-jardins-stq)
+* [Lissy: 50 Pferde-Spiele](https://www.myabandonware.com/game/lissy-50-pferde-spiele-stp)
+* [Who Stole Hanukkah!?](https://www.myabandonware.com/game/who-stole-hanukkah-sto)
 * [Hero Hawk](https://www.myabandonware.com/game/hero-hawk-t7d)
 * [Hash Blocks](https://www.myabandonware.com/game/hash-blocks-t7c)
-* [Super Pang](https://www.myabandonware.com/game/super-pang-t7b)
-* [Happy Race](https://www.myabandonware.com/game/happy-race-t7a)
-* [Happy Pairs](https://www.myabandonware.com/game/happy-pairs-t79)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
