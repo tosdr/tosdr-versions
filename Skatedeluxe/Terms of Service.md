@@ -30,7 +30,7 @@ Country shops All locations & languages
 
 [Österreich](https://www.skatedeluxe.com/de/i/agb?cic=AT)
 
-[Italia](https://www.skatedeluxe.com/it/i/Condizioni-Generali-di-Contratto?cic=IT)
+[Italia](https://www.skatedeluxe.com/it/i/condizioni-generali-di-contratto?cic=IT)
 
 [Belgium](https://www.skatedeluxe.com/en/i/terms-and-conditions?cic=BE)
 
