@@ -95,19 +95,11 @@ Search site
 
 from MON 4:34 PM CST until TUE 6:08 AM CST, Dallas County](https://www.fox4news.com/weather-alerts)
 
-4
+2
 
 [Flash Flood Warning
 
-from MON 6:30 PM CST until MON 10:30 PM CST, Red River County](https://www.fox4news.com/weather-alerts)
-
-[Tornado Watch
-
-until MON 8:00 PM CST, Delta County, Van Zandt County, Rains County, Hopkins County, Lamar County](https://www.fox4news.com/weather-alerts)
-
-[Tornado Watch
-
-from MON 5:30 PM CST until TUE 12:00 AM CST, Red River County](https://www.fox4news.com/weather-alerts)
+until TUE 2:00 AM CST, Red River County](https://www.fox4news.com/weather-alerts)
 
 Terms of Use
 ============
@@ -412,13 +404,45 @@ Nothing contained in this Agreement limits Fox’s right to comply with governme
 
 Please contact the Site Administrator with any questions regarding this Agreement by sending an email to: [**Terms-KDFW@fox.com**](mailto:Terms-KDFW@fox.com)
 
-[![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
+[![Today is Election Day. Here’s what you need to know](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/149/84/219152_You_Decide_2024_Web-Graphic_1280x720_001.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-day-2024-how-do-i-vote)
 
-DOWNLOAD THE FOX LOCAL APP
+ELECTION DAY 2024
 
-[How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://www.fox4news.com/news/how-to-download-fox-local)
+[Today is Election Day. Here’s what you need to know](https://www.fox4news.com/election/election-day-2024-how-do-i-vote)
 
-[The FOX LOCAL app is your source for live FOX 4 news, top stories, Dallas-Fort Worth weather updates, and more local and national coverage, plus 24/7 streaming coverage from across the nation. Here’s how to download.](https://www.fox4news.com/news/how-to-download-fox-local)
+[The polls will open at 7 a.m. across Texas. Here's what you need to know to cast your ballot on Election Day.](https://www.fox4news.com/election/election-day-2024-how-do-i-vote)
+
+[![Where to vote in Dallas County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/05/149/84/NC-voting-booth.jpg?ve=1&tl=1)](https://www.fox4news.com/election/where-vote-dallas-county-election-day)
+
+ELECTION DAY 2024
+
+[Where to vote in Dallas County on Election Day](https://www.fox4news.com/election/where-vote-dallas-county-election-day)
+
+[For Election Day there will be more than 400 Vote Centers across Dallas County, providing you with multiple locations to make your voice heard. You are able to vote at any of these locations within Dallas County.](https://www.fox4news.com/election/where-vote-dallas-county-election-day)
+
+[![Where to vote in Tarrant County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/09/149/84/GettyImages-1058414620-1.jpg?ve=1&tl=1)](https://www.fox4news.com/news/tarrant-county-voting-locations-election-day)
+
+ELECTION DAY 2024
+
+[Where to vote in Tarrant County on Election Day](https://www.fox4news.com/news/tarrant-county-voting-locations-election-day)
+
+[Tarrant County registered voters on Election Day can vote at any polling location in the county from 7 a.m. until 7 p.m. See where you can vote here.](https://www.fox4news.com/news/tarrant-county-voting-locations-election-day)
+
+[![Where to vote in Collin County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/149/84/GettyImages-1338949648.jpg?ve=1&tl=1)](https://www.fox4news.com/election/where-vote-collin-county-election-day)
+
+ELECTION DAY 2024
+
+[Where to vote in Collin County on Election Day](https://www.fox4news.com/election/where-vote-collin-county-election-day)
+
+[Collin County registered voters on Election Day can vote at any polling location within Collin County from 7 a.m. until 7 p.m. Election Day is Tuesday, November 5, 2024.](https://www.fox4news.com/election/where-vote-collin-county-election-day)
+
+[![Where to vote in Denton County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/03/149/84/GettyImages-1206416963.jpg?ve=1&tl=1)](https://www.fox4news.com/election/denton-county-voting-sites-election-day)
+
+ELECTION DAY 2024
+
+[Where to vote in Denton County on Election Day](https://www.fox4news.com/election/denton-county-voting-sites-election-day)
+
+[Denton County registered voters on Election Day can vote at their precinct polling location from 7 a.m. until 7 p.m.](https://www.fox4news.com/election/denton-county-voting-sites-election-day)
 
 ###### [News](https://www.fox4news.com/news)
 
