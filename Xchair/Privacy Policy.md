@@ -1,7 +1,6 @@
 [Skip to content](#MainContent)
 
-25% OFF EVERYTHING >> [SIGN UP NOW!](https://www.xchair.com/pages/vip-cyber-sale "VIP Cyber Sale")
---------------------------------------------------------------------------------------------------
+### NEW X-Tech Vegan Leather Colors || [Shop Now](https://www.xchair.com/pages/xtech-limited-edition "The Limited Edition X-Tech Collection")
 
 [](https://www.xchair.com/)
 
