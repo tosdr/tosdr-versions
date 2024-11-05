@@ -352,10 +352,9 @@ The “**Effective Date**” of this Agreement is the date which is the earlier 
 
 [Twitter](https://twitter.com/getsentry/)[GitHub](https://github.com/getsentry/)[Dribbble](https://dribbble.com/sentry/)[Linkedin](https://linkedin.com/company/getsentry/)[Discord](https://discord.gg/sentry)
 
-© 2024 • Sentry is a registered Trademark  
-of Functional Software, Inc.
+© 2024 • Sentry is a registered Trademark of Functional Software, Inc.
 
-[](https://sentry.io/)
+[](https://opensourcepledge.com/)[](https://sentry.io/)
 
 A peek at your privacy
 ----------------------
