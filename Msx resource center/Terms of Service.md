@@ -153,19 +153,19 @@ Latest reactions
 
 Latest forum posts
 
-* [Modificar menu "built in" de la MSX PICO](https://www.msx.org/forum/msx-talk/hardware/modificar-menu-built-in-de-la-msx-pico "Modificar menu "built in" de la MSX PICO")
+* [Building an Omega MSX, problems with smoke test 1](https://www.msx.org/forum/msx-talk/hardware/building-an-omega-msx-problems-with-smoke-test-1 "Building an Omega MSX, problems with smoke test 1")
+* [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=3 "Sony HB-75AS not displaying")
+* [Power Chupin 2.6 was unleashed!](https://www.msx.org/forum/msx-talk/software/power-chupin-26-was-unleashed "Power Chupin 2.6 was unleashed!")
+* [HDMI to SCART RGB converter](https://www.msx.org/forum/msx-talk/hardware/hdmi-to-scart-rgb-converter "HDMI to SCART RGB converter")
+* [Can't get MoonLightSaga to work](https://www.msx.org/forum/msx-talk/software/cant-get-moonlightsaga-to-work?page=1 "Can't get MoonLightSaga to work")
+* [What tape recorder I need for backup a msx cassette?](https://www.msx.org/forum/msx-talk/general-discussion/what-tape-recorder-i-need-for-backup-a-msx-cassette?page=1 "What tape recorder I need for backup a msx cassette?")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=73 "WonderTANG! Who wants to juice up your MSX?")
+* [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=63 "List of undumped MSX software (PLEASE HELP!)")
+* [Modify menu "built in" of the MSX PICO](https://www.msx.org/forum/msx-talk/hardware/modificar-menu-built-in-de-la-msx-pico "Modify menu "built in" of the MSX PICO")
 * [New V9990 Wolfenstein-3D-Like Interactive Demo](https://www.msx.org/forum/msx-talk/development/new-v9990-wolfenstein-3d-like-interactive-demo "New V9990 Wolfenstein-3D-Like Interactive Demo")
 * [openMSX cartridge type](https://www.msx.org/forum/msx-talk/openmsx/openmsx-cartridge-type?page=1 "openMSX cartridge type")
-* [Can't get MoonLightSaga to work](https://www.msx.org/forum/msx-talk/software/cant-get-moonlightsaga-to-work?page=1 "Can't get MoonLightSaga to work")
-* [HDMI to SCART RGB converter](https://www.msx.org/forum/msx-talk/hardware/hdmi-to-scart-rgb-converter "HDMI to SCART RGB converter")
-* [Power Chupin 2.6 was unleashed!](https://www.msx.org/forum/msx-talk/software/power-chupin-26-was-unleashed "Power Chupin 2.6 was unleashed!")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=6 "vFM (virtual Full Music) MSX universal audio Cartridge")
-* [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=63 "List of undumped MSX software (PLEASE HELP!)")
 * [MSX2+ Upgraded Yamaha .. help needed](https://www.msx.org/forum/msx-talk/hardware/max2-upgraded-yamaha-help-needed "MSX2+ Upgraded Yamaha .. help needed")
-* [What is the best architecture for a MSX 1 disk game? BIN files or a MSX-DOS program?](https://www.msx.org/forum/msx-talk/development/what-is-the-best-architecture-for-a-msx-1-disk-game-bin-files-or-a-msx-do "What is the best architecture for a MSX 1 disk game? BIN files or a MSX-DOS program?")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=73 "WonderTANG! Who wants to juice up your MSX?")
-* [Moonsound OPL4 HOW TO USE?](https://www.msx.org/forum/msx-talk/hardware/moonsound-opl4-how-to-use "Moonsound OPL4 HOW TO USE?")
-* [What I think an MSX 3 Should be ?](https://www.msx.org/forum/msx-talk/hardware/what-i-think-msx-3-should-be?page=23 "What I think an MSX 3 Should be ?")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
