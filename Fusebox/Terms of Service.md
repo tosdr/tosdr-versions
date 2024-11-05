@@ -249,7 +249,7 @@ Footer
 
 ![fusebox logo](/wp-content/themes/fusebox/assets/dist/images/logo.svg)
 
-Copyright 2021 SPI Labs, LLC  
+Copyright 2024 SPI Labs, LLC  
 All rights reserved.
 
 [Log In](https://login.fusebox.fm/) / [Sign Up](https://app.fusebox.fm/register/)
