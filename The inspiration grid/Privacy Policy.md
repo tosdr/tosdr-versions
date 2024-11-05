@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/11/architecture-the-sphinx-feature.jpg)
+
+[](https://theinspirationgrid.com/the-sphinx-a-striking-minimalist-residence/)
+
+### The Sphinx: A Striking Minimalist Residence
+
+![](https://inspgr.id/app/uploads/2024/11/photography-reciprocal-feature.jpg)
+
+[](https://theinspirationgrid.com/reciprocal-ethereal-photos-by-zac-henderson/)
+
+### Reciprocal: Ethereal Photos by Zac Henderson
+
 ![](https://inspgr.id/app/uploads/2024/11/photography-arjun-mark-feature.jpg)
 
 [](https://theinspirationgrid.com/creative-beauty-photography-by-arjun-mark/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/amazing-lettering-creations-by-ben-johnston/)
 
 ### Amazing Lettering Creations by Ben Johnston
-
-![](https://inspgr.id/app/uploads/2024/10/photography-mohammed-zainal-feature.jpg)
-
-[](https://theinspirationgrid.com/1971-desert-fish-plymouth-cuda-striking-photos-by-mohammed-zainal/)
-
-### 1971 Desert-Fish Plymouth Cuda: Striking Photos by Mohammed Zainal
-
-![](https://inspgr.id/app/uploads/2024/10/illustration-amrit-pal-singh-feature.jpg)
-
-[](https://theinspirationgrid.com/adorable-mythical-creature-illustrations-by-amrit-pal-singh/)
-
-### Mythical Creatures Illustrated by Amrit Pal Singh
 
 Awesome products for creatives
 ------------------------------
