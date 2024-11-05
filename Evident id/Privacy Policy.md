@@ -63,7 +63,7 @@ WATCH NOW: [Uncovering Hidden Risks in Your Third-Party Risk Management Program]
                 * [Finance](https://www.evidentid.com/industry/financial-services/)
                 * [Hospitality](https://www.evidentid.com/industry/hospitality/)
                 * [Manufacturing](https://www.evidentid.com/industry/manufacturing/)
-                * [Municipalities](https://www.evidentid.com/industry/municipalities/)
+                * [Public Sector](https://www.evidentid.com/industry/municipalities/)
                 * [Real Estate](https://www.evidentid.com/industry/real-estate/)
                 * [Retail](https://www.evidentid.com/industry/retail/)
                 * [Transportation](https://www.evidentid.com/industry/transportation/)
