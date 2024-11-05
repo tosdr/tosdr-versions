@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-883a295264b83c0613ebf8414f42873f
+e9dbb0276eeab6f59cf7d1c3c775a899
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Square Swarovski sapphire clasp](https://www.sojourner.biz/images/cache/SKU0540front.200.jpg)](https://www.sojourner.biz/clasps/swarovski/square-swarovski-sapphire-clasp.html "Square Swarovski sapphire clasp")
+[![10 mm by 12 mm square Czech wedges](https://www.sojourner.biz/images/cache/glass/GL0031.200.jpg)](https://www.sojourner.biz/beads/glass/10-mm-by-12-mm-square-czech-wedges.html "10 mm by 12 mm square Czech wedges")
 
-#### [Square Swarovski sapphire clasp](https://www.sojourner.biz/clasps/swarovski/square-swarovski-sapphire-clasp.html "Square Swarovski sapphire clasp")
+#### [10 mm by 12 mm square Czech wedges](https://www.sojourner.biz/beads/glass/10-mm-by-12-mm-square-czech-wedges.html "10 mm by 12 mm square Czech wedges")
 
-$21.00
+$5.00
 
 ### Best Sellers
 
