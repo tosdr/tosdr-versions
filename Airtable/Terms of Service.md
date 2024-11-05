@@ -543,7 +543,7 @@ Our Services support log-in using two-factor authentication (“**2FA**”), whi
 10\. Copyright Policy
 ---------------------
 
-We respect the rights of copyright holders, as described in our [Copyright Policy](https://www.airtable.com/company/copyright-policy), as updated from time to time, which is available at [www.airtable.com/copyright-policy](http://www.airtable.com/copyright-policy) and is incorporated into these Terms by reference (the “**Copyright Policy**”). If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement and is accessible via the Services, please use the process outlined in the [Copyright Policy](https://www.airtable.com/company/copyright-policy).
+We respect the rights of copyright holders, as described in our [Copyright Policy](https://www.airtable.com/company/copyright-policy), as updated from time to time, which is available at [https://www.airtable.com/company/copyright-policy](https://www.airtable.com/company/copyright-policy) and is incorporated into these Terms by reference (the “**Copyright Policy**”). If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement and is accessible via the Services, please use the process outlined in the [Copyright Policy](https://www.airtable.com/company/copyright-policy).
 
 11\. Third-Party Services and Marketplace Extensions
 ----------------------------------------------------
