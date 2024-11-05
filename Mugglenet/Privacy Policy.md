@@ -318,15 +318,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The first review of Harry Potter and the Philosopher’s Stone was given by Alice Newton, the daughter of the founder of Bloomsbury, at age 8: “The excitement in this book made me feel warm inside. I think it is possibly one of the best books an 8/9 year old could read.”
+There are about 3,000 wizards in Britain.
 
 ### Potter History
 
-August 5, 2004 – The Dark Lord rises again: Ralph Fiennes is cast for the role of Lord Voldemort in the Harry Potter and the Goblet of Fire film.
+July 25, 2006 – The paperback edition of Harry Potter and the Half-Blood Prince is released in the United States.
 
 ### Potter Quote
 
-“What happened down in the dungeons between you and Professor Quirrell is a complete secret, so, naturally, the whole school knows.”
+“Wild! I can make that old bloke down there pick his nose again . . . and again . . . and again . . .”
 
 [](#)
 
