@@ -14,27 +14,27 @@ Recommendations
 
 Audio
 
-* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
-    
-    Books Bans Are on the Rise in America
-    
-    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
-
-* * *
-
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/10181536/PRH_Site_1200x628_OCT2024.jpg)
-    
-    New Releases
-    
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
-
-* * *
-
 * [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
     
     Browse All Our Lists, Essays, and Interviews
     
     See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
+
+* * *
+
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/10/10135341/PRH_Site_1200x628_NOV2024.jpg)
+    
+    New Releases
+    
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-november/)
+
+* * *
+
+* [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
+    
+    Audiobooks for Kids
+    
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
 
 * <
     
@@ -236,7 +236,7 @@ Popular
 
 [New Releases
 
-Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
+Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-november/)
 
 [Kids](https://www.penguinrandomhouse.com/books/childrens/)
 
