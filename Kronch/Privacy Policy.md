@@ -13,29 +13,29 @@ top of page
     * [OPTIMAL - PUPPYVOER](https://www.kronch.nl/optimal-puppyvoer-met-zalm)
     * [PUPPYPAKKET OPTIMAL - KRONCH](https://www.kronch.nl/puppypakket)
     * [ACTIVE - HIGH ENERGY](https://www.kronch.nl/active-high-energy-hondenvoer)
-    * [GRAANVRIJ - ADULT](https://www.kronch.nl/graanvrij-hondenvoer)
+    * [GRAANVRIJ - ADULT](https://www.kronch.nl/graanvrij-hondenvoer-met-zalm)
     * [LAKSE KRONCH "ORIGINAL" 100% ZALM](https://www.kronch.nl/lakse-kronch-original-100-zalm)
     * [LAKSE KRONCH "POCKET"](https://www.kronch.nl/lakse-kronch-pocket)
-    * [ZALMOLIE](https://www.kronch.nl/zalmolie)
+    * [ZALMOLIE](https://www.kronch.nl/zalmolie-voor-honden)
     * [SALMOCA](https://www.kronch.nl/salmoca)
     * [PEMMIKAN](https://www.kronch.nl/pemmikan)
     * [NON-FOOD](https://www.kronch.nl/nonfood)
 * [KATTEN](https://www.kronch.nl/katten)
-    * [KATTENVOER](https://www.kronch.nl/kattenbrokjes)
-    * [LAKSE MONCH ZALMSNACKS](https://www.kronch.nl/lakse-monch-zalmsnacks)
+    * [KATTENVOER](https://www.kronch.nl/kattenbrokjes-met-zalm)
+    * [LAKSE MONCH ZALMSNACKS](https://www.kronch.nl/kattensnacks-zalm)
     * [ZALMOLIE](https://www.kronch.nl/zalmolie-voor-katten)
 * [VERKOOPPUNTEN](https://www.kronch.nl/verkooppunten)
     * [HONDENVOEDING](https://www.kronch.nl/hondenbrokken)
     * [LAKSE KRONCH ZALMSNACKS](https://www.kronch.nl/lakse-kronch-zalmsnacks-verkooppunt)
     * [ZALMOLIE](https://www.kronch.nl/zalmolie-verkooppunten)
     * [PEMMIKAN](https://www.kronch.nl/pemmikan-verkooppunten)
-    * [KATTENVOER](https://www.kronch.nl/kattenbrokjes-verkooppunten)
+    * [KATTENVOER](https://www.kronch.nl/verkooppunten-kronch-kattenbrokjes)
 * [OVER KRONCH](https://www.kronch.nl/over-kronch)
-    * [INGREDIËNTEN](https://www.kronch.nl/ingredienten)
-    * [OVERSTAPPEN OP KRONCH](https://www.kronch.nl/overstappen)
-    * [DE ZALM IN KRONCH PRODUCTEN](https://www.kronch.nl/de-zalm-in-kronch-producten)
+    * [INGREDIËNTEN](https://www.kronch.nl/ingredienten-kronch)
+    * [OVERSTAPPEN OP KRONCH](https://www.kronch.nl/overstappen-kronch)
+    * [DE ZALM IN KRONCH PRODUCTEN](https://www.kronch.nl/zalm-in-kronch)
     * [DUURZAAMHEID](https://www.kronch.nl/duurzaamheid)
-    * [KRONCH VOOR JACHT- EN WERKHONDEN](https://www.kronch.nl/over-kronch/kronch-voor-jacht-en-werkhonden)
+    * [KRONCH VOOR JACHT- EN WERKHONDEN](https://www.kronch.nl/over-kronch/jacht-en-werkhonden)
     * [SIRIUS PATROL](https://www.kronch.nl/siriuspatrol)
 * [CONTACT](https://www.kronch.nl/contact)
     * [SAMPLES](https://www.kronch.nl/samples-proefverpakkingen)
@@ -240,7 +240,7 @@ Het neusje van de zalm
 
 ​
 
-[Kattenbrokjes](https://www.kronch.nl/kattenbrokjes)
+[Kattenbrokjes](https://www.kronch.nl/kattenbrokjes-met-zalm)
 
 ​
 
@@ -248,7 +248,7 @@ Het neusje van de zalm
 
 ​
 
-[Zalmolie](https://www.kronch.nl/zalmolie)
+[Zalmolie](https://www.kronch.nl/zalmolie-voor-honden)
 
 ​
 
