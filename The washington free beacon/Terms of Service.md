@@ -31,13 +31,13 @@ ADVERTISEMENT
     * [Editorials](https://freebeacon.com/author/washington-free-beacon-editors/)
     * [Men of the Year](https://freebeacon.com/men-of-the-year/)
 
-* [![](https://freebeacon.com/wp-content/uploads/2024/10/MixCollage-24-Oct-2024-03-46-PM-5594.jpg)
+* [![](https://s2.freebeacon.com/up/2024/10/MixCollage-24-Oct-2024-03-46-PM-5594.jpg)
     
     The Foreign Policy Stakes of 2024](https://freebeacon.com/columns/the-foreign-policy-stakes-of-2024/)
-* [![](https://freebeacon.com/wp-content/uploads/2024/10/donald-trump-campaigns-in-the-swing-state-of-wisconsin-scaled-e1730390375147.jpg)
+* [![](https://s2.freebeacon.com/up/2024/10/donald-trump-campaigns-in-the-swing-state-of-wisconsin-scaled-e1730390375147.jpg)
     
     The Trump Flex](https://freebeacon.com/columns/the-trump-flex/)
-* [![](https://freebeacon.com/wp-content/uploads/2024/10/MixCollage-24-Oct-2024-03-46-PM-5594.jpg)
+* [![](https://s2.freebeacon.com/up/2024/10/MixCollage-24-Oct-2024-03-46-PM-5594.jpg)
     
     It Takes Guts To Predict the 2024 Election](https://freebeacon.com/columns/it-takes-guts-to-predict-the-2024-election/)
 
