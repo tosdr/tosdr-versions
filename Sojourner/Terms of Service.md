@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-543bdbfa3561850aff5b73ef5248de97
+0b3d6be67a0d848d56845d5ca4e2d69f
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![7 mm gold-plated tube bead](https://sojourner.biz/images/cache/metalbeads/MET011.200.jpg)](https://sojourner.biz/beads/metal/7-mm-gold-plated-tube-bead.html "7 mm gold-plated tube bead")
+[![Swarovski blue Montana square clasp](https://sojourner.biz/images/cache/SKU0481-2front.200.jpg)](https://sojourner.biz/clasps/swarovski/swarovski-blue-montana-square-clasp.html "Swarovski blue Montana square clasp")
 
-#### [7 mm gold-plated tube bead](https://sojourner.biz/beads/metal/7-mm-gold-plated-tube-bead.html "7 mm gold-plated tube bead")
+#### [Swarovski blue Montana square clasp](https://sojourner.biz/clasps/swarovski/swarovski-blue-montana-square-clasp.html "Swarovski blue Montana square clasp")
 
-$3.00
+$32.00
 
 ### Best Sellers
 
