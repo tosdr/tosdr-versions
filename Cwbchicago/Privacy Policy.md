@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/1200-block-south-prairie-chicago-map-326x245.jpg)](https://cwbchicago.com/2024/11/cops-medical-examiner-continue-investigation-after-woman-was-found-dead-next-to-severed-foot-in-south-loop-stairwell.html "Cops, medical examiner continue investigation after woman was found dead next to severed foot in South Loop stairwell")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Martel-Mason-and-suspect-326x245.jpg)](https://cwbchicago.com/2024/11/man-mugged-red-line-passenger-while-on-pretrial-release-for-3-other-crimes-prosecutors.html "Man mugged Red Line passenger while on pretrial release for 3 other crimes: prosecutors")
 
-South Loop
+CTA
 
-### [Cops, medical examiner continue investigation after woman was found dead next to severed foot in South Loop stairwell](https://cwbchicago.com/2024/11/cops-medical-examiner-continue-investigation-after-woman-was-found-dead-next-to-severed-foot-in-south-loop-stairwell.html "Cops, medical examiner continue investigation after woman was found dead next to severed foot in South Loop stairwell")
+### [Man mugged Red Line passenger while on pretrial release for 3 other crimes: prosecutors](https://cwbchicago.com/2024/11/man-mugged-red-line-passenger-while-on-pretrial-release-for-3-other-crimes-prosecutors.html "Man mugged Red Line passenger while on pretrial release for 3 other crimes: prosecutors")
 
-[November 2, 2024 5:40 AM](https://cwbchicago.com/2024/11)
+[November 2, 2024 7:02 PM](https://cwbchicago.com/2024/11)
 
-Police continue to investigate the death of a woman who was found dead, lying next to her severed foot at the bottom of a luxury high-rise stairwell in the South Loop. [](https://cwbchicago.com/2024/11/cops-medical-examiner-continue-investigation-after-woman-was-found-dead-next-to-severed-foot-in-south-loop-stairwell.html "Cops, medical examiner continue investigation after woman was found dead next to severed foot in South Loop stairwell")
+Prosecutors say a man who participated in a violent robbery aboard the Red Line this summer was on pretrial release for three separate cases at the time of the crime.[](https://cwbchicago.com/2024/11/man-mugged-red-line-passenger-while-on-pretrial-release-for-3-other-crimes-prosecutors.html "Man mugged Red Line passenger while on pretrial release for 3 other crimes: prosecutors")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Jayda-Boatman-Devon-Glass-Jaylen-Sprouts-and-Nigah-Threets-326x245.jpg)](https://cwbchicago.com/2024/11/group-robbed-woman-on-cta-bus-while-one-recorded-it-all-on-their-phone-prosecutors.html "Group robbed woman on CTA bus while one recorded it all on their phone: prosecutors")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Daniel-Perez-326x245.jpg)](https://cwbchicago.com/2024/11/prosecutors-say-he-shot-a-man-in-the-face-while-on-parole-for-2-attempted-murders.html "Prosecutors say he shot a man in the face while on parole for 2 attempted murders")
 
-Gage Park
+Portage Park
 
-### [Group robbed woman on CTA bus while one recorded it all on their phone: prosecutors](https://cwbchicago.com/2024/11/group-robbed-woman-on-cta-bus-while-one-recorded-it-all-on-their-phone-prosecutors.html "Group robbed woman on CTA bus while one recorded it all on their phone: prosecutors")
+### [Prosecutors say he shot a man in the face while on parole for 2 attempted murders](https://cwbchicago.com/2024/11/prosecutors-say-he-shot-a-man-in-the-face-while-on-parole-for-2-attempted-murders.html "Prosecutors say he shot a man in the face while on parole for 2 attempted murders")
 
-[November 1, 2024 7:34 PM](https://cwbchicago.com/2024/11)
+[November 2, 2024 2:57 PM](https://cwbchicago.com/2024/11)
 
-Four individuals face charges of robbery and mob action for allegedly mugging a woman on a CTA bus, with one of them recording the incident on their phone. Two of the accused were on pretrial release for other cases; one was wearing an ankle monitor.[](https://cwbchicago.com/2024/11/group-robbed-woman-on-cta-bus-while-one-recorded-it-all-on-their-phone-prosecutors.html "Group robbed woman on CTA bus while one recorded it all on their phone: prosecutors")
+A Chicago man on parole for shooting someone in 2016 is back in custody, accused of shooting someone else just months after getting out of prison.[](https://cwbchicago.com/2024/11/prosecutors-say-he-shot-a-man-in-the-face-while-on-parole-for-2-attempted-murders.html "Prosecutors say he shot a man in the face while on parole for 2 attempted murders")
 
-[![](https://cwbchicago.com/wp-content/uploads/2023/12/Generic-red-tape-edited-326x245.jpg)](https://cwbchicago.com/2024/11/man-shot-9-year-old-grazed-outside-uptown-school.html "Man shot, 9-year-old grazed outside Uptown school")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Tamer-Refaie-326x245.jpg)](https://cwbchicago.com/2024/11/fake-cab-driver-abucted-passengers-made-them-pay-exhorbinant-fares-for-rides-from-ohare-prosecutors.html "Fake cab driver abucted passengers, made them pay exorbitant fares for rides from O’Hare: prosecutors")
 
-Uptown
+O'Hare
 
-### [Man shot, 9-year-old grazed outside Uptown school](https://cwbchicago.com/2024/11/man-shot-9-year-old-grazed-outside-uptown-school.html "Man shot, 9-year-old grazed outside Uptown school")
+### [Fake cab driver abucted passengers, made them pay exorbitant fares for rides from O’Hare: prosecutors](https://cwbchicago.com/2024/11/fake-cab-driver-abucted-passengers-made-them-pay-exhorbinant-fares-for-rides-from-ohare-prosecutors.html "Fake cab driver abucted passengers, made them pay exorbitant fares for rides from O’Hare: prosecutors")
 
-[November 1, 2024 6:44 PM](https://cwbchicago.com/2024/11)
+[November 2, 2024 7:00 AM](https://cwbchicago.com/2024/11)
 
-A man was shot and a 9-year-old girl was grazed by a bullet when at least two gunmen opened fire near William C. Goudy Technology Academy, 5120 N Winthrop, in Uptown on Friday afternoon.[](https://cwbchicago.com/2024/11/man-shot-9-year-old-grazed-outside-uptown-school.html "Man shot, 9-year-old grazed outside Uptown school")
+Prosecutors have charged a man with kidnapping women and forcing them to withdraw money after picking them up from O’Hare in a fake Uber or taxicab.[](https://cwbchicago.com/2024/11/fake-cab-driver-abucted-passengers-made-them-pay-exhorbinant-fares-for-rides-from-ohare-prosecutors.html "Fake cab driver abucted passengers, made them pay exorbitant fares for rides from O’Hare: prosecutors")
 
 Search
 
