@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[PAK vs AUS - AUS Won](https://www.cricbuzz.com/live-cricket-scores/92012/pak-vs-aus-1st-odi-pakistan-tour-of-australia-2024 "Pakistan v Australia, 1st ODI - AUS Won")[NED vs OMAN - Live](https://www.cricbuzz.com/live-cricket-scores/108931/ned-vs-oman-45th-match-icc-cricket-world-cup-league-two-2023-27 "Netherlands v Oman, 45th Match - Live")[PRSW vs BRHW - Preview](https://www.cricbuzz.com/live-cricket-scores/101327/prsw-vs-brhw-14th-match-womens-big-bash-league-2024 "Perth Scorchers Women v Brisbane Heat Women, 14th Match - Preview")[NEP vs SCO - No Result](https://www.cricbuzz.com/live-cricket-scores/107052/nep-vs-sco-44th-match-icc-cricket-world-cup-league-two-2023-27 "Nepal v Scotland, 44th Match - No Result")[NZ vs IND - NZ Won](https://www.cricbuzz.com/live-cricket-scores/100274/nz-vs-ind-3rd-test-new-zealand-tour-of-india-2024 "New Zealand v India, 3rd Test - NZ Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[PRSW vs BRHW - PRSW Won](https://www.cricbuzz.com/live-cricket-scores/101327/prsw-vs-brhw-14th-match-womens-big-bash-league-2024 "Perth Scorchers Women v Brisbane Heat Women, 14th Match - PRSW Won")[NED vs OMAN - OMAN Won](https://www.cricbuzz.com/live-cricket-scores/108931/ned-vs-oman-45th-match-icc-cricket-world-cup-league-two-2023-27 "Netherlands v Oman, 45th Match - OMAN Won")[AFG vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/108769/afg-vs-ban-1st-odi-afghanistan-v-bangladesh-in-uae-2024 "Afghanistan v Bangladesh, 1st ODI - Preview")[PAK vs AUS - AUS Won](https://www.cricbuzz.com/live-cricket-scores/92012/pak-vs-aus-1st-odi-pakistan-tour-of-australia-2024 "Pakistan v Australia, 1st ODI - AUS Won")[NEP vs SCO - No Result](https://www.cricbuzz.com/live-cricket-scores/107052/nep-vs-sco-44th-match-icc-cricket-world-cup-league-two-2023-27 "Nepal v Scotland, 44th Match - No Result")
 
 AllLive NowToday
 
@@ -62,7 +62,7 @@ AllLive NowToday
     
 * Afghanistan v Bangladesh in UAE, 2024
     
-    [Afghanistan vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/108769/afg-vs-ban-1st-odi-afghanistan-v-bangladesh-in-uae-2024 "Afghanistan v Bangladesh, 1st ODI - Upcoming")
+    [Afghanistan vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/108769/afg-vs-ban-1st-odi-afghanistan-v-bangladesh-in-uae-2024 "Afghanistan v Bangladesh, 1st ODI - Preview")
     
     1st ODI
     
@@ -88,7 +88,7 @@ AllLive NowToday
     
     44th Match
     
-* [Netherlands vs Oman  LIVE](https://www.cricbuzz.com/live-cricket-scores/108931/ned-vs-oman-45th-match-icc-cwc-league-two-2023-27 "Netherlands v Oman, 45th Match - Live")
+* [Netherlands vs Oman](https://www.cricbuzz.com/live-cricket-scores/108931/ned-vs-oman-45th-match-icc-cwc-league-two-2023-27 "Netherlands v Oman, 45th Match - OMAN Won")
     
     45th Match
     
@@ -100,25 +100,29 @@ AllLive NowToday
     
     Ranji Trophy
     
-    [Tripura vs Baroda](https://www.cricbuzz.com/live-cricket-scores/97558/tri-vs-brd-elite-group-a-ranji-trophy "Tripura v Baroda, Elite Group A - Preview")
+    [Meghalaya vs Jammu and Kashmir](https://www.cricbuzz.com/live-cricket-scores/97567/mgly-vs-jk-elite-group-a-ranji-trophy "Meghalaya v Jammu and Kashmir, Elite Group A - Preview")
     
     Elite Group A
     
-* [Gujarat vs Puducherry](https://www.cricbuzz.com/live-cricket-scores/97590/guj-vs-pdc-elite-group-b-ranji-trophy "Gujarat v Puducherry, Elite Group B - Preview")
-    
-    Elite Group B
-    
-* [Assam vs Tamil Nadu](https://www.cricbuzz.com/live-cricket-scores/97646/asm-vs-tn-elite-group-d-ranji-trophy "Assam v Tamil Nadu, Elite Group D - Upcoming")
+* [Assam vs Tamil Nadu](https://www.cricbuzz.com/live-cricket-scores/97646/asm-vs-tn-elite-group-d-ranji-trophy "Assam v Tamil Nadu, Elite Group D - Preview")
     
     Elite Group D
     
-* [Mumbai vs Odisha](https://www.cricbuzz.com/live-cricket-scores/97581/mum-vs-odsa-elite-group-a-ranji-trophy "Mumbai v Odisha, Elite Group A - Preview")
+* [Tripura vs Baroda](https://www.cricbuzz.com/live-cricket-scores/97558/tri-vs-brd-elite-group-a-ranji-trophy "Tripura v Baroda, Elite Group A - Preview")
     
     Elite Group A
     
-* [Kerala vs Uttar Pradesh](https://www.cricbuzz.com/live-cricket-scores/97637/ker-vs-up-elite-group-c-ranji-trophy "Kerala v Uttar Pradesh, Elite Group C - Preview")
+* [Bihar vs Madhya Pradesh](https://www.cricbuzz.com/live-cricket-scores/97626/bih-vs-mp-elite-group-c-ranji-trophy "Bihar v Madhya Pradesh, Elite Group C - Preview")
     
     Elite Group C
+    
+* [Andhra vs Uttarakhand](https://www.cricbuzz.com/live-cricket-scores/97612/ap-vs-utk-elite-group-b-ranji-trophy "Andhra v Uttarakhand, Elite Group B - Preview")
+    
+    Elite Group B
+    
+* [Chhattisgarh vs Railways](https://www.cricbuzz.com/live-cricket-scores/97664/cg-vs-rlys-elite-group-d-ranji-trophy "Chhattisgarh v Railways, Elite Group D - Preview")
+    
+    Elite Group D
     
 * [Maharashtra vs Services](https://www.cricbuzz.com/live-cricket-scores/97576/mah-vs-ser-elite-group-a-ranji-trophy "Maharashtra v Services, Elite Group A - Preview")
     
@@ -128,21 +132,9 @@ AllLive NowToday
     
     Elite Group C
     
-* [Meghalaya vs Jammu and Kashmir](https://www.cricbuzz.com/live-cricket-scores/97567/mgly-vs-jk-elite-group-a-ranji-trophy "Meghalaya v Jammu and Kashmir, Elite Group A - Preview")
-    
-    Elite Group A
-    
-* [Bihar vs Madhya Pradesh](https://www.cricbuzz.com/live-cricket-scores/97626/bih-vs-mp-elite-group-c-ranji-trophy "Bihar v Madhya Pradesh, Elite Group C - Preview")
-    
-    Elite Group C
-    
 * [Karnataka vs Bengal](https://www.cricbuzz.com/live-cricket-scores/97619/kar-vs-ben-elite-group-c-ranji-trophy "Karnataka v Bengal, Elite Group C - Preview")
     
     Elite Group C
-    
-* [Andhra vs Uttarakhand](https://www.cricbuzz.com/live-cricket-scores/97612/ap-vs-utk-elite-group-b-ranji-trophy "Andhra v Uttarakhand, Elite Group B - Preview")
-    
-    Elite Group B
     
 * [Jharkhand vs Saurashtra](https://www.cricbuzz.com/live-cricket-scores/97666/jhkd-vs-saur-elite-group-d-ranji-trophy "Jharkhand v Saurashtra, Elite Group D - Preview")
     
@@ -152,7 +144,7 @@ AllLive NowToday
     
     Elite Group B
     
-* [Chhattisgarh vs Railways](https://www.cricbuzz.com/live-cricket-scores/97664/cg-vs-rlys-elite-group-d-ranji-trophy "Chhattisgarh v Railways, Elite Group D - Upcoming")
+* [Chandigarh vs Delhi](https://www.cricbuzz.com/live-cricket-scores/97655/cdg-vs-del-elite-group-d-ranji-trophy "Chandigarh v Delhi, Elite Group D - Preview")
     
     Elite Group D
     
@@ -160,21 +152,29 @@ AllLive NowToday
     
     Elite Group B
     
-* [Chandigarh vs Delhi](https://www.cricbuzz.com/live-cricket-scores/97655/cdg-vs-del-elite-group-d-ranji-trophy "Chandigarh v Delhi, Elite Group D - Upcoming")
+* [Gujarat vs Puducherry](https://www.cricbuzz.com/live-cricket-scores/97590/guj-vs-pdc-elite-group-b-ranji-trophy "Gujarat v Puducherry, Elite Group B - Preview")
     
-    Elite Group D
+    Elite Group B
+    
+* [Mumbai vs Odisha](https://www.cricbuzz.com/live-cricket-scores/97581/mum-vs-odsa-elite-group-a-ranji-trophy "Mumbai v Odisha, Elite Group A - Preview")
+    
+    Elite Group A
+    
+* [Kerala vs Uttar Pradesh](https://www.cricbuzz.com/live-cricket-scores/97637/ker-vs-up-elite-group-c-ranji-trophy "Kerala v Uttar Pradesh, Elite Group C - Preview")
+    
+    Elite Group C
     
 * Ranji Trophy Plate
     
-    [Arunachal Pradesh vs Manipur](https://www.cricbuzz.com/live-cricket-scores/98143/arnp-vs-mnp-plate-ranji-trophy-plate "Arunachal Pradesh v Manipur, Plate - Upcoming")
+    [Nagaland vs Sikkim](https://www.cricbuzz.com/live-cricket-scores/98157/ngl-vs-skm-plate-ranji-trophy-plate "Nagaland v Sikkim, Plate - Preview")
     
     Plate
     
-* [Nagaland vs Sikkim](https://www.cricbuzz.com/live-cricket-scores/98157/ngl-vs-skm-plate-ranji-trophy-plate "Nagaland v Sikkim, Plate - Upcoming")
+* [Mizoram vs Goa](https://www.cricbuzz.com/live-cricket-scores/98152/miz-vs-goa-plate-ranji-trophy-plate "Mizoram v Goa, Plate - Preview")
     
     Plate
     
-* [Mizoram vs Goa](https://www.cricbuzz.com/live-cricket-scores/98152/miz-vs-goa-plate-ranji-trophy-plate "Mizoram v Goa, Plate - Upcoming")
+* [Arunachal Pradesh vs Manipur](https://www.cricbuzz.com/live-cricket-scores/98143/arnp-vs-mnp-plate-ranji-trophy-plate "Arunachal Pradesh v Manipur, Plate - Preview")
     
     Plate
     
@@ -188,7 +188,7 @@ AllLive NowToday
     
     2nd Match
     
-* [Lions vs Titans](https://www.cricbuzz.com/live-cricket-scores/104748/lions-vs-tit-4th-match-csa-four-day-series-division-one-2024-25 "Lions v Titans, 4th Match - Upcoming")
+* [Lions vs Titans](https://www.cricbuzz.com/live-cricket-scores/104748/lions-vs-tit-4th-match-csa-four-day-series-division-one-2024-25 "Lions v Titans, 4th Match - Toss")
     
     4th Match
     
@@ -196,9 +196,13 @@ AllLive NowToday
     
     5th Match
     
+* [Knights vs North West](https://www.cricbuzz.com/live-cricket-scores/104762/kng-vs-nwest-6th-match-csa-four-day-series-division-one-2024-25 "Knights v North West, 6th Match - Upcoming")
+    
+    6th Match
+    
 * Australia Domestic One-Day Cup 2024-25
     
-    [South Australia vs Victoria](https://www.cricbuzz.com/live-cricket-scores/103186/saus-vs-vic-11th-match-australia-domestic-one-day-cup-2024-25 "South Australia v Victoria, 11th Match - Upcoming")
+    [South Australia vs Victoria](https://www.cricbuzz.com/live-cricket-scores/103186/saus-vs-vic-11th-match-australia-domestic-one-day-cup-2024-25 "South Australia v Victoria, 11th Match - Preview")
     
     11th Match
     
@@ -246,11 +250,23 @@ AllLive NowToday
     
     1st Match
     
+* [Mpumalanga Rhinos vs Northern Cape](https://www.cricbuzz.com/live-cricket-scores/104340/mpr-vs-ncape-5th-match-csa-four-day-series-division-two-2024-25 "Mpumalanga Rhinos v Northern Cape, 5th Match - Upcoming")
+    
+    5th Match
+    
+* [Eastern Storm vs KwaZulu-Natal Inland](https://www.cricbuzz.com/live-cricket-scores/104332/estorm-vs-kznin-4th-match-csa-four-day-series-division-two-2024-25 "Eastern Storm v KwaZulu-Natal Inland, 4th Match - Upcoming")
+    
+    4th Match
+    
+* [Border vs Limpopo](https://www.cricbuzz.com/live-cricket-scores/104330/bor-vs-limpo-3rd-match-csa-four-day-series-division-two-2024-25 "Border v Limpopo, 3rd Match - Upcoming")
+    
+    3rd Match
+    
 * WOMEN
     
     WBBL 2024
     
-    [Perth Scorchers Women vs Brisbane Heat Women](https://www.cricbuzz.com/live-cricket-scores/101327/prsw-vs-brhw-14th-match-wbbl-2024 "Perth Scorchers Women v Brisbane Heat Women, 14th Match - Preview")
+    [Perth Scorchers Women vs Brisbane Heat Women](https://www.cricbuzz.com/live-cricket-scores/101327/prsw-vs-brhw-14th-match-wbbl-2024 "Perth Scorchers Women v Brisbane Heat Women, 14th Match - PRSW Won")
     
     14th Match
     
@@ -261,6 +277,10 @@ AllLive NowToday
 * [Sydney Thunder Women vs Brisbane Heat Women](https://www.cricbuzz.com/live-cricket-scores/101332/sytw-vs-brhw-16th-match-wbbl-2024 "Sydney Thunder Women v Brisbane Heat Women, 16th Match - Upcoming")
     
     16th Match
+    
+* [Perth Scorchers Women vs Melbourne Renegades Women](https://www.cricbuzz.com/live-cricket-scores/101341/prsw-vs-mlrw-17th-match-wbbl-2024 "Perth Scorchers Women v Melbourne Renegades Women, 17th Match - Upcoming")
+    
+    17th Match
     
 * China Womens T20I Quadrangular Series
     
@@ -579,41 +599,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132331/mooney-fifty-king-five-fer-drive-scorchers-to-comprehensive-win "Mooney fifty, King five-fer drive Scorchers to comprehensive win")
+
+[Mooney fifty, King five-fer drive Scorchers to comprehensive win](https://www.cricbuzz.com/cricket-news/132331/mooney-fifty-king-five-fer-drive-scorchers-to-comprehensive-win "Mooney fifty, King five-fer drive Scorchers to comprehensive win")
+
+21m ago
+
   [](https://www.cricbuzz.com/cricket-news/132330/ajaz-patel-credits-new-zealands-adapability-for-historic-success "Ajaz Patel credits New Zealand's adapability for historic success")
 
 [Ajaz Patel credits New Zealand's adapability for historic success](https://www.cricbuzz.com/cricket-news/132330/ajaz-patel-credits-new-zealands-adapability-for-historic-success "Ajaz Patel credits New Zealand's adapability for historic success")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132329/shakib-al-hasan-reported-for-suspect-bowling-action-while-representing-surrey "Shakib Al Hasan reported for suspect bowling action while representing Surrey")
 
 [Shakib Al Hasan reported for suspect bowling action while representing Surrey](https://www.cricbuzz.com/cricket-news/132329/shakib-al-hasan-reported-for-suspect-bowling-action-while-representing-surrey "Shakib Al Hasan reported for suspect bowling action while representing Surrey")
 
-12h ago
+18h ago
 
   [](https://www.cricbuzz.com/cricket-news/132328/the-new-zealand-fellowship-young-and-the-extraordinary "Breaching Bastions: Young and the extraordinary")
 
 [Breaching Bastions: Young and the extraordinary](https://www.cricbuzz.com/cricket-news/132328/the-new-zealand-fellowship-young-and-the-extraordinary "Breaching Bastions: Young and the extraordinary")
 
-14h ago
+20h ago
 
   [](https://www.cricbuzz.com/cricket-news/132327/nasum-nahid-set-to-arrive-late-in-uae-due-to-visa-complications "Nasum, Nahid set to arrive late in UAE due to visa complications")
 
 [Nasum, Nahid set to arrive late in UAE due to visa complications](https://www.cricbuzz.com/cricket-news/132327/nasum-nahid-set-to-arrive-late-in-uae-due-to-visa-complications "Nasum, Nahid set to arrive late in UAE due to visa complications")
 
-15h ago
+21h ago
 
   [](https://www.cricbuzz.com/cricket-news/132326/cummins-sees-off-fiery-rauf-to-seal-tight-win "Cummins sees off fiery Rauf to seal tight win")
 
 [Cummins sees off fiery Rauf to seal tight win](https://www.cricbuzz.com/cricket-news/132326/cummins-sees-off-fiery-rauf-to-seal-tight-win "Cummins sees off fiery Rauf to seal tight win")
 
-20h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132325/more-tests-olympic-cricket-windows-for-t20-leagues-in-womens-ftp-2025-29 "More Tests, Olympic cricket, windows for T20 leagues in women's FTP 2025-29")
-
-[More Tests, Olympic cricket, windows for T20 leagues in women's FTP 2025-29](https://www.cricbuzz.com/cricket-news/132325/more-tests-olympic-cricket-windows-for-t20-leagues-in-womens-ftp-2025-29 "More Tests, Olympic cricket, windows for T20 leagues in women's FTP 2025-29")
-
-20h ago
+1d ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
