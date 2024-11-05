@@ -41,30 +41,30 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Stevie Nicks being photographed](https://www.women.com/img/gallery/stevie-nicks-reason-for-being-childless-by-choice-makes-so-much-sense/intro-1730325609.jpg)](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
+*  [![Lena Dunham](https://www.women.com/img/gallery/5-celebs-who-have-spoken-out-about-how-therapy-has-improved-their-lives/intro-1730383316.jpg)](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
     
-    [Living](https://www.women.com/category/living/)
+    [Wellness](https://www.women.com/category/wellness/)
     
-    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
     
-    [Stevie Nicks's Reason For Being Childless By Choice Makes So Much Sense](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
-    ========================================================================================================================================================================
+    [5 Celebs Who Have Spoken Out About How Therapy Has Improved Their Lives](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
+    ==================================================================================================================================================
     
-    While Stevie Nicks has experienced major success in her career, she joins the ranks of the many celebrities who are unapologetically childfree.
+    Life is hard enough as it is, and managing a mental health issue with therapy is always the best decision anyone can make for themselves.
     
-    By Madison Emily Whisenand [Read More](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
+    By Amanda Chatel [Read More](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
     
-* *  [![Dolly Parton smiling](https://www.women.com/img/gallery/why-dolly-parton-is-childless-by-choice-not-that-we-deserve-to-ask/intro-1730135417.jpg)](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
+* *  [![Stevie Nicks being photographed](https://www.women.com/img/gallery/stevie-nicks-reason-for-being-childless-by-choice-makes-so-much-sense/intro-1730325609.jpg)](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
         
         [Living](https://www.women.com/category/living/)
         
         [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
         
-        ### [Why Dolly Parton Is Childless By Choice (Not That We Deserve To Ask)](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
+        ### [Stevie Nicks's Reason For Being Childless By Choice Makes So Much Sense](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
         
-        The decision to have or not have a child is a big one. For Dolly Parton, her career played a major role in her choice to not have kids.
+        While Stevie Nicks has experienced major success in her career, she joins the ranks of the many celebrities who are unapologetically childfree.
         
-        By Madison Emily Whisenand [Read More](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
+        By Madison Emily Whisenand [Read More](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
         
     *  [![gwen stefani and husband](https://www.women.com/img/gallery/the-5-biggest-glow-downs-in-celebrity-fashion-history/intro-1730321365.jpg)](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
         
@@ -93,6 +93,18 @@ More Stories
     As a young entrepreneur, a lot of doors closed when Ehan Kamat tried to get the word out about Solmender. But all he needed was a little time.
     
     By Emily Hutchinson [Read More](https://www.women.com/1700084/what-went-down-solemender-after-shark-tank/)
+    
+*  [![Dolly Parton smiling](https://www.women.com/img/gallery/why-dolly-parton-is-childless-by-choice-not-that-we-deserve-to-ask/intro-1730135417.jpg)](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+    
+    ### [Why Dolly Parton Is Childless By Choice (Not That We Deserve To Ask)](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
+    
+    The decision to have or not have a child is a big one. For Dolly Parton, her career played a major role in her choice to not have kids.
+    
+    By Madison Emily Whisenand [Read More](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
     
 *  [![Kourtney Kardashian kissing Travis Barker](https://www.women.com/img/gallery/10-awkward-celebrity-pda-moments-we-wish-we-didnt-have-to-see/intro-1730224757.jpg)](https://www.women.com/1700545/awkward-celebrity-pda-moments/)
     
@@ -393,18 +405,6 @@ More Stories
     Zahara Jolie isn't just the daughter of two famous actors, but a young woman coming into her own. And she's doing it on her own terms.
     
     By Amanda Chatel [Read More](https://www.women.com/1693272/zahara-jolie-pitt-gorgeous-transformation/)
-    
-*  [![Ivanka Trump, Lara Trump, and Tiffany Trump](https://www.women.com/img/gallery/the-biggest-makeup-mistakes-from-the-women-in-the-trump-family/intro-1729288659.jpg)](https://www.women.com/1692500/biggest-makeup-mistakes-from-trump-women/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [The Biggest Makeup Mistakes From The Women In The Trump Family](https://www.women.com/1692500/biggest-makeup-mistakes-from-trump-women/)
-    
-    When you're on camera as much as the Trump family is, it's expected that there are going to be some makeup mishaps. We're looking at some of the worst.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1692500/biggest-makeup-mistakes-from-trump-women/)
     
 
 Back
