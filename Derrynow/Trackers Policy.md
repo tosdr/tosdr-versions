@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-04 Nov 2024
+05 Nov 2024
 
 * [Home
     
@@ -259,6 +259,13 @@ Advertise with Us
 
 Most Popular
 
+[![IN PICTURES: Tony 'Toe' O'Connor's 50th birthday celebrations in Link 48](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Tony 'Toe' O'Connor's 50th birthday celebrations in Link 48")](https://www.derrynow.com/story-telling/pictures---videos/1646971/in-pictures-tony-toe-o-connor-s-50th-birthday-celebrations-in-link-48.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Tony 'Toe' O'Connor's 50th birthday celebrations in Link 48](https://www.derrynow.com/story-telling/pictures---videos/1646971/in-pictures-tony-toe-o-connor-s-50th-birthday-celebrations-in-link-48.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Motorists urged to find alternative routes into Derry city centre due to ongoing incident](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Motorists urged to find alternative routes into Derry city centre due to ongoing incident")](https://www.derrynow.com/news/local-news/1646708/motorists-urged-to-find-alternative-routes-into-derry-city-centre-due-to-ongoing-incident.html)
 
 Derry's bywash
@@ -284,6 +291,13 @@ Derry Magistrate's Court
 [Derry Death Notices - Monday, November 4, 2024](https://www.derrynow.com/news/deaths/1645575/derry-death-notices-monday-november-4-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
+[![PICTURES: Derry City fans out in force for Derry v. Shelbourne game](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Derry City fans out in force for Derry v. Shelbourne game")](https://www.derrynow.com/news/derry-sport/1646895/pictures-derry-city-fans-out-in-force-for-derry-v-shelbourne-game.html)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[PICTURES: Derry City fans out in force for Derry v. Shelbourne game](https://www.derrynow.com/news/derry-sport/1646895/pictures-derry-city-fans-out-in-force-for-derry-v-shelbourne-game.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry man charged with burglary of a parochial house remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with burglary of a parochial house remanded")](https://www.derrynow.com/news/local-news/1646861/derry-man-charged-with-burglary-of-a-parochial-house-remanded.html)
 
 St Joseph's Church, Galliagh
@@ -293,19 +307,19 @@ St Joseph's Church, Galliagh
 [Derry man charged with burglary of a parochial house remanded](https://www.derrynow.com/news/local-news/1646861/derry-man-charged-with-burglary-of-a-parochial-house-remanded.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: Derry City fans out in force for Derry v. Shelbourne game](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Derry City fans out in force for Derry v. Shelbourne game")](https://www.derrynow.com/news/derry-sport/1646895/pictures-derry-city-fans-out-in-force-for-derry-v-shelbourne-game.html)
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[PICTURES: Derry City fans out in force for Derry v. Shelbourne game](https://www.derrynow.com/news/derry-sport/1646895/pictures-derry-city-fans-out-in-force-for-derry-v-shelbourne-game.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![IN PICTURES: Fun and excitement as Cullens Halloween Carnival Funfair comes to Ebrington](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Fun and excitement as Cullens Halloween Carnival Funfair comes to Ebrington")](https://www.derrynow.com/story-telling/pictures---videos/1646906/in-pictures-fun-and-excitement-as-cullens-halloween-carnival-funfair-comes-to-ebrington.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
 [IN PICTURES: Fun and excitement as Cullens Halloween Carnival Funfair comes to Ebrington](https://www.derrynow.com/story-telling/pictures---videos/1646906/in-pictures-fun-and-excitement-as-cullens-halloween-carnival-funfair-comes-to-ebrington.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry former viral sensation 'Frostbit Boy' launches company to promote charity and prize giveaways](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry former viral sensation 'Frostbit Boy' launches company to promote charity and prize giveaways")](https://www.derrynow.com/news/home/1647093/derry-former-viral-sensation-frostbit-boy-launches-company-to-promote-charity-and-prize-giveaways.html)
+
+[Home](https://www.derrynow.com/)
+
+[Derry former viral sensation 'Frostbit Boy' launches company to promote charity and prize giveaways](https://www.derrynow.com/news/home/1647093/derry-former-viral-sensation-frostbit-boy-launches-company-to-promote-charity-and-prize-giveaways.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![£65m investment announced for six new community spaces](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£65m investment announced for six new community spaces")](https://www.derrynow.com/news/derry-news/1646875/65m-investment-announced-for-six-new-community-spaces.html)
 
@@ -324,22 +338,6 @@ Mayor of Derry and Strabane at the landing of the first EasyJet flight from Edin
 
 [History as new Edinburgh and Liverpool easyJet flights take off from City of Derry airport](https://www.derrynow.com/news/derry-news/1646939/history-as-new-edinburgh-and-liverpool-easyjet-flights-take-off-from-city-of-derry-airport.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Rally for women's safety to be held in Derry following series of attacks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Rally for women's safety to be held in Derry following series of attacks")](https://www.derrynow.com/news/local-news/1646819/rally-for-women-s-safety-to-be-held-in-derry-following-series-of-attacks.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Rally for women's safety to be held in Derry following series of attacks](https://www.derrynow.com/news/local-news/1646819/rally-for-women-s-safety-to-be-held-in-derry-following-series-of-attacks.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PSNI press conference on the recent attacks to women in the city](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI press conference on the recent attacks to women in the city")](https://www.derrynow.com/news/derry-news/1647164/derry-psni-reassurance-for-women-following-recent-attacks-in-city-area.html)
-
-PSNI press conference on the recent attacks to women in the city
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry PSNI 'reassurance' for women following recent attacks in city area](https://www.derrynow.com/news/derry-news/1647164/derry-psni-reassurance-for-women-following-recent-attacks-in-city-area.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,6 +515,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Police attending security alert in Bogside area of Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police attending security alert in Bogside area of Derry")](https://www.derrynow.com/news/local-news/1647445/police-attending-security-alert-in-bogside-area-of-derry.html)
+
+Police at the scene in Limewood Street, Derry
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police attending security alert in Bogside area of Derry](https://www.derrynow.com/news/local-news/1647445/police-attending-security-alert-in-bogside-area-of-derry.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry former viral sensation 'Frostbit Boy' launches company to promote charity and prize giveaways](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry former viral sensation 'Frostbit Boy' launches company to promote charity and prize giveaways")](https://www.derrynow.com/news/home/1647093/derry-former-viral-sensation-frostbit-boy-launches-company-to-promote-charity-and-prize-giveaways.html)
 
 [Home](https://www.derrynow.com/)
@@ -524,7 +531,7 @@ Advertise with Us
 [Derry former viral sensation 'Frostbit Boy' launches company to promote charity and prize giveaways](https://www.derrynow.com/news/home/1647093/derry-former-viral-sensation-frostbit-boy-launches-company-to-promote-charity-and-prize-giveaways.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Glen Miller](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Glen Miller")](https://www.derrynow.com/news/derry-news/1647166/community-stands-united-local-business-owner-glen-miller-to-distribute-personal-safety-alarms-at-womens-rally-in-the-greater-north-west.html)
+[![Glen Miller](https://www.derrynow.com/resizer/165/93/true/2024_11_04/GlenMiller-1730737309636_1730741472.jpg--.jpg?1730741472567 "Glen Miller")](https://www.derrynow.com/news/derry-news/1647166/community-stands-united-local-business-owner-glen-miller-to-distribute-personal-safety-alarms-at-womens-rally-in-the-greater-north-west.html)
 
 Glen Miller
 
@@ -555,15 +562,6 @@ PSNI press conference on the recent attacks to women in the city
 
 [The British Chancellor’s budget on Wednesday has created anxiety and uncertainty for the farming community in the North](https://www.derrynow.com/news/county-derry-post/1646951/the-british-chancellors-budget-on-wednesday-has-created-anxiety-and-uncertainty-for-the-farming-community-in-the-north.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry to host annual North West Future of Energy Conference](https://www.derrynow.com/resizer/165/93/true/2024_11_04/DSCF0334-min-1730728150419.jpg--.jpg?1730728156607 "Derry to host annual North West Future of Energy Conference")](https://www.derrynow.com/news/local-news/1647017/derry-to-host-annual-north-west-future-of-energy-conference.html)
-
-Speakers at the 2023 North West Future of Energy Conference
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry to host annual North West Future of Energy Conference](https://www.derrynow.com/news/local-news/1647017/derry-to-host-annual-north-west-future-of-energy-conference.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
