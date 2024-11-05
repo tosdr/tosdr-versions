@@ -1,4 +1,4 @@
-[Buy this domain.](https://www.mydomaincontact.com/index.php?domain_name=jacksfilms.shop)
+[Buy this domain.](https://www.mydomaincontact.com/?domain_name=jacksfilms.shop)
 
 jacksfilms.shop
 ===============
