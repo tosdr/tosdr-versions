@@ -299,51 +299,51 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Владимир Путин предложил секретарю реготделения «Единой России», главе ЕАО Ростиславу Гольдштейну стать врио главы Коми](https://cdn.er.ru/media/news/November2024/sK8Rti2qBD7Z2Ya5Ud2E-small.jpg)](https://er.ru/activity/news/vladimir-putin-predlozhil-sekretaryu-regotdeleniya-edinoj-rossii-glave-eao-rostislavu-goldshtejnu-stat-vrio-glavy-komi)
+
+[Владимир Путин предложил секретарю реготделения «Единой России», главе ЕАО Ростиславу Гольдштейну стать врио главы Коми](https://er.ru/activity/news/vladimir-putin-predlozhil-sekretaryu-regotdeleniya-edinoj-rossii-glave-eao-rostislavu-goldshtejnu-stat-vrio-glavy-komi)
+
+[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Гольдштейн](https://er.ru/activity/news?tags%5B0%5D=1795) [#Республика Коми](https://er.ru/activity/news?tags%5B0%5D=1026) [#Еврейская автономная область](https://er.ru/activity/news?tags%5B0%5D=8459) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#губернатор](https://er.ru/activity/news?tags%5B0%5D=1092859) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314)
+
+05.11.24
+
 [![Делегация Союза коммунистической молодёжи Вьетнама посетит Россию с официальным визитом и подпишет соглашение о взаимодействии с «Молодой Гвардией Единой России»](https://cdn.er.ru/media/news/November2024/mC1VRtcUXO6uIlrEEXsB-small.jpg)](https://er.ru/activity/news/delegaciya-soyuza-kommunisticheskoj-molodyozhi-vetnama-posetit-rossiyu-s-oficialnym-vizitom-i-podpishet-soglashenie-o-vzaimodejstvii-s-molodoj-gvardiej-edinoj-rossii)
 
 [Делегация Союза коммунистической молодёжи Вьетнама посетит Россию с официальным визитом и подпишет соглашение о взаимодействии с «Молодой Гвардией Единой России»](https://er.ru/activity/news/delegaciya-soyuza-kommunisticheskoj-molodyozhi-vetnama-posetit-rossiyu-s-oficialnym-vizitom-i-podpishet-soglashenie-o-vzaimodejstvii-s-molodoj-gvardiej-edinoj-rossii)
 
-[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Вьетнам](https://er.ru/activity/news?tags%5B0%5D=2379) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#соглашение](https://er.ru/activity/news?tags%5B0%5D=345) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742)
+[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Вьетнам](https://er.ru/activity/news?tags%5B0%5D=2379) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#соглашение](https://er.ru/activity/news?tags%5B0%5D=345) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742)
 
-Сегодня 13:48
+05.11.24
 
 [![«Единая Россия» проводит неделю приёмов граждан по вопросам ЖКХ](https://cdn.er.ru/media/news/November2024/U599ujq81kSNLMXwlkA1-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provodit-nedelyu-priyomov-grazhdan-po-voprosam-zhkh)
 
 [«Единая Россия» проводит неделю приёмов граждан по вопросам ЖКХ](https://er.ru/activity/news/edinaya-rossiya-provodit-nedelyu-priyomov-grazhdan-po-voprosam-zhkh)
 
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#приемграждан](https://er.ru/activity/news?tags%5B0%5D=103849) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#общественнаяприемная](https://er.ru/activity/news?tags%5B0%5D=60146) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764)
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#приемграждан](https://er.ru/activity/news?tags%5B0%5D=103849) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#неделяприемов](https://er.ru/activity/news?tags%5B0%5D=113281)
 
-Сегодня 12:21
+05.11.24
 
 [![Ольга Занко: По инициативам советов сторонников «Единой России» Госдума приняла 15 законов](https://cdn.er.ru/media/news/November2024/yJplPOmssr2l2Fkk1LoA-small.JPG)](https://er.ru/activity/news/olga-zanko-po-iniciativam-sovetov-storonnikov-edinoj-rossii-gosduma-prinyala-15-zakonov)
 
 [Ольга Занко: По инициативам советов сторонников «Единой России» Госдума приняла 15 законов](https://er.ru/activity/news/olga-zanko-po-iniciativam-sovetov-storonnikov-edinoj-rossii-gosduma-prinyala-15-zakonov)
 
-[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#сторонникиЕР](https://er.ru/activity/news?tags%5B0%5D=1093192) [#семинар](https://er.ru/activity/news?tags%5B0%5D=5508)
+[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#сторонникиЕР](https://er.ru/activity/news?tags%5B0%5D=1093192) [#семинар](https://er.ru/activity/news?tags%5B0%5D=5508) [#инициативы](https://er.ru/activity/news?tags%5B0%5D=2868) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016)
 
-Сегодня 11:24
+05.11.24
 
 [![«Единая Россия»: Выставку «Сила V правде» в Самаре в первый день посетили более 40 тысяч человек](https://cdn.er.ru/media/news/November2024/eO5mQeVTSOHDSZVQMTsY-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vystavku-sila-v-pravde-v-samare-v-pervyj-den-posetili-bolee-40-tysyach-chelovek)
 
 [«Единая Россия»: Выставку «Сила V правде» в Самаре в первый день посетили более 40 тысяч человек](https://er.ru/activity/news/edinaya-rossiya-vystavku-sila-v-pravde-v-samare-v-pervyj-den-posetili-bolee-40-tysyach-chelovek)
 
-[#Макушева](https://er.ru/activity/news?tags%5B0%5D=127600) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#СилаVПравде](https://er.ru/activity/news?tags%5B0%5D=1095874) [#Самарская область](https://er.ru/activity/news?tags%5B0%5D=2275) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566)
+[#Макушева](https://er.ru/activity/news?tags%5B0%5D=127600) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#СилаVПравде](https://er.ru/activity/news?tags%5B0%5D=1095874) [#Самарская область](https://er.ru/activity/news?tags%5B0%5D=2275) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#женскоедвижениеединойроссии](https://er.ru/activity/news?tags%5B0%5D=1093285)
 
-Сегодня 11:00
+05.11.24
 
 [![Владимир Путин назначил депутата Госдумы от «Единой России», участника СВО Евгения Первышова врио главы Тамбовской области](https://cdn.er.ru/media/news/November2024/VC2dcavPMvhRU4SrSYwE-small.jpg)](https://er.ru/activity/news/vladimir-putin-naznachil-deputata-gosdumy-ot-edinoj-rossii-uchastnika-svo-evgeniya-pervyshova-vrio-glavy-tambovskoj-oblasti)
 
 [Владимир Путин назначил депутата Госдумы от «Единой России», участника СВО Евгения Первышова врио главы Тамбовской области](https://er.ru/activity/news/vladimir-putin-naznachil-deputata-gosdumy-ot-edinoj-rossii-uchastnika-svo-evgeniya-pervyshova-vrio-glavy-tambovskoj-oblasti)
 
-[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Первышов](https://er.ru/activity/news?tags%5B0%5D=101048) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872)
-
-04.11.24
-
-[![«Единая Россия», МГЕР и фонд «Наша Правда» передали помощь бойцам на Селидово-Кураховском и Торецком направлениях](https://cdn.er.ru/media/news/November2024/SeSCfEEWTfv8ixkOwzby-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-mger-i-fond-nasha-pravda-peredali-pomosh-bojcam-na-selidovo-kurahovskom-i-toreckom-napravleniyah)
-
-[«Единая Россия», МГЕР и фонд «Наша Правда» передали помощь бойцам на Селидово-Кураховском и Торецком направлениях](https://er.ru/activity/news/edinaya-rossiya-mger-i-fond-nasha-pravda-peredali-pomosh-bojcam-na-selidovo-kurahovskom-i-toreckom-napravleniyah)
-
-[#Амелин](https://er.ru/activity/news?tags%5B0%5D=36283) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#нашаправда](https://er.ru/activity/news?tags%5B0%5D=1094120) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152)
+[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Первышов](https://er.ru/activity/news?tags%5B0%5D=101048) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
 04.11.24
 
