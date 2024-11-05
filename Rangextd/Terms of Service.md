@@ -44,7 +44,7 @@ Search results
 
 [](https://www.rangextd.com/collections/all)
 
-* ![Collection image for: $20 OFF](//savvysmartdeals.com/cdn/shop/collections/20_Off.png?crop=center&height=300&v=1730198905&width=240)
+* ![Collection image for: $20 OFF](//savvysmartdeals.com/cdn/shop/collections/20_Off.png?crop=center&height=300&v=1730789147&width=240)
     
     [$20 OFF](https://www.rangextd.com/collections/20-off) 
     
@@ -61,88 +61,81 @@ Search results
     [62% OFF](https://www.rangextd.com/collections/62-off) 
     
 
-BLACK FRIDAY ENDS
-=================
-
-Save big before Black Friday ends - use SAVVY30FREE at checkout!
-
-Nov 07, 2024 11:59:59
-
-[SHOP ALL DEALS](https://www.rangextd.com/collections/best-selling-items)
-
-[](https://www.rangextd.com/collections/best-selling-items)
-
-*  ![Banner image for: Blaux Portable Bidet](//savvysmartdeals.com/cdn/shop/files/Stack1_94def5ea-9c62-4fb5-86ef-4dd48416026a.png?v=1727165709&width=620) ![Banner image for: Blaux Portable Bidet](//savvysmartdeals.com/cdn/shop/files/after_d4ed7384-7c8b-448d-8891-c0a3e8d69522.jpg?v=1729222761&width=620)
+* ![](//savvysmartdeals.com/cdn/shop/files/preview_images/6b2f0772ddcd44f4a4cc0d311225af84.thumbnail.0000000000_small.jpg?v=1722599448)
     
-    Blaux Portable Bidet
-    ====================
+    ### Personal Essentials
     
-    The Ultimate In Cleanliness & Portable Personal Care
+    [See More Deals](https://www.rangextd.com/collections/personal-essentials) 
     
-    [Shop now](https://www.rangextd.com/products/blaux-bidet-gen-2)
+* ![](//savvysmartdeals.com/cdn/shop/files/preview_images/eeb11ea8fcec4f4aadcf4f3ad61cb4d7.thumbnail.0000000000_small.jpg?v=1730432247)
     
-    [](https://www.rangextd.com/products/blaux-bidet-gen-2)
+    ### Trending Upgrades
     
-*  ![Banner image for: Mini Heater](//savvysmartdeals.com/cdn/shop/files/img_4.png?v=1729223291&width=620) ![Banner image for: Mini Heater](//savvysmartdeals.com/cdn/shop/files/slide_6.png?v=1729223139&width=620)
+    [See More Deals](https://www.rangextd.com/collections/trending-now) 
     
-    Mini Heater
-    ===========
+* ![](//savvysmartdeals.com/cdn/shop/files/preview_images/fbd0669f195d492c8bc200672c5da86e.thumbnail.0000000000_small.jpg?v=1722598662)
     
-    Stay Warm Through Freezing Winter
+    ### Travel
     
-    [Shop now](https://www.rangextd.com/products/blaux-heater-450w)
+    [See More Deals](https://www.rangextd.com/collections/travel-mobility) 
     
-    [](https://www.rangextd.com/products/blaux-heater-450w)
+*  ![Banner image for: Holiday Gift Ideas](//savvysmartdeals.com/cdn/shop/files/Stack1_3974ecd8-4d95-4bdf-8a1b-0c5d0adfdb0f.png?v=1728298400&width=620) ![Banner image for: Holiday Gift Ideas](//savvysmartdeals.com/cdn/shop/files/Review_1_4ff6c745-a5c3-4c5a-9de1-807535fdb732.png?v=1728298704&width=620)
+    
+    ### Holiday Gift Ideas
+    
+    [See Deals](https://www.rangextd.com/collections/50-off) 
+    
+    [](https://www.rangextd.com/collections/50-off)
+    
+* ![Banner image for: Luxury Sleep Upgrade](//savvysmartdeals.com/cdn/shop/files/02.gif?v=1729766345&width=620)
+    
+    ### Luxury Sleep Upgrade
+    
+    [Shop Now!](https://www.rangextd.com/products/miracle-sheet) 
+    
+    [](https://www.rangextd.com/products/miracle-sheet)
     
 
 Most sold this week
-===================
+-------------------
 
 Discover the hottest items flying off the shelves.
 
 [Top 100 most sold](https://www.rangextd.com/collections/best-selling-items) 
 
-* Sale -50% [![Starscope Monocular Master - Enhanced Viewing, Clear and Crisp](//savvysmartdeals.com/cdn/shop/files/bb10b229d0bf5f1d72f8fbb6b2406fd9.png?v=1721296782&width=645)![Starscope Monocular Master - Enhanced Viewing, Clear and Crisp](//savvysmartdeals.com/cdn/shop/files/c1da1a43eb7a8fa6551480dd05ef6448_1bbfbacb-3496-41e4-839e-4be17870793c.jpg?v=1721296782&width=645)](https://www.rangextd.com/products/starscope-ver-3)
+* Sale -50% [![Starscope Monocular Master - Enhanced Viewing, Clear and Crisp](//savvysmartdeals.com/cdn/shop/files/bb10b229d0bf5f1d72f8fbb6b2406fd9.png?v=1721296782&width=465)![Starscope Monocular Master - Enhanced Viewing, Clear and Crisp](//savvysmartdeals.com/cdn/shop/files/c1da1a43eb7a8fa6551480dd05ef6448_1bbfbacb-3496-41e4-839e-4be17870793c.jpg?v=1721296782&width=465)](https://www.rangextd.com/products/starscope-ver-3)
     
     ### [Starscope Monocular Master - Enhanced Viewing, Clear and Crisp](https://www.rangextd.com/products/starscope-ver-3)
-    
-    [15 reviews](https://www.rangextd.com/products/starscope-ver-3)
     
     Next day delivery
     
     $159.99 $79.99
     
-* Sale -59% [![Blaux Bidet - Portable Clean, Convenient, Customizable](//savvysmartdeals.com/cdn/shop/files/hero6.jpg?v=1724830907&width=645)![Blaux Bidet - Portable Clean, Convenient, Customizable](//savvysmartdeals.com/cdn/shop/files/img7.jpg?v=1724830926&width=645)](https://www.rangextd.com/products/blaux-bidet-gen-2)
+* Sale -59% [![Blaux Bidet - Portable Clean, Convenient, Customizable](//savvysmartdeals.com/cdn/shop/files/hero6.jpg?v=1724830907&width=465)![Blaux Bidet - Portable Clean, Convenient, Customizable](//savvysmartdeals.com/cdn/shop/files/img7.jpg?v=1724830926&width=465)](https://www.rangextd.com/products/blaux-bidet-gen-2)
     
     ### [Blaux Bidet - Portable Clean, Convenient, Customizable](https://www.rangextd.com/products/blaux-bidet-gen-2)
-    
-    [12 reviews](https://www.rangextd.com/products/blaux-bidet-gen-2)
     
     Next day delivery
     
     $169.99 $69.99
     
-* Sale -50% [![Blaux Heater - Portable Warmth, Efficient Heating 450W](//savvysmartdeals.com/cdn/shop/files/Stack_6f8e22a8-db39-4f14-8b30-0dbc56e0276a.png?v=1727162144&width=645)![Blaux Heater - Portable Warmth, Efficient Heating 450W](//savvysmartdeals.com/cdn/shop/files/stack1_075b026c-1ddb-4c74-a8aa-04c8d892a4ab.png?v=1727162143&width=645)](https://www.rangextd.com/products/blaux-heater-450w)
+* Sale -50% [![Blaux Heater - Portable Warmth, Efficient Heating 450W](//savvysmartdeals.com/cdn/shop/files/Stack_6f8e22a8-db39-4f14-8b30-0dbc56e0276a.png?v=1727162144&width=465)![Blaux Heater - Portable Warmth, Efficient Heating 450W](//savvysmartdeals.com/cdn/shop/files/stack1_075b026c-1ddb-4c74-a8aa-04c8d892a4ab.png?v=1727162143&width=465)](https://www.rangextd.com/products/blaux-heater-450w)
     
     ### [Blaux Heater - Portable Warmth, Efficient Heating 450W](https://www.rangextd.com/products/blaux-heater-450w)
-    
-    [4 reviews](https://www.rangextd.com/products/blaux-heater-450w)
     
     Next day delivery
     
     $159.99 $79.99
     
-* Sale -50% [![Kore 2.0 Elite Smart Watch - Health Tracker,](//savvysmartdeals.com/cdn/shop/files/45b73ad83fddd9a705b1795e04ee6fb4.png?v=1721296571&width=645)![Kore 2.0 Elite Smart Watch - Health Tracker,](//savvysmartdeals.com/cdn/shop/files/d4377ec58d44e370d98f033038246f58_89c6a325-b2bc-4e7e-a0cf-76c5d97ce655.png?v=1721296571&width=645)](https://www.rangextd.com/products/kore-2-0)
+* Sale -50% [![Kore 2.0 Elite Smart Watch - Health Tracker,](//savvysmartdeals.com/cdn/shop/files/45b73ad83fddd9a705b1795e04ee6fb4.png?v=1721296571&width=465)![Kore 2.0 Elite Smart Watch - Health Tracker,](//savvysmartdeals.com/cdn/shop/files/d4377ec58d44e370d98f033038246f58_89c6a325-b2bc-4e7e-a0cf-76c5d97ce655.png?v=1721296571&width=465)](https://www.rangextd.com/products/kore-2-0)
     
     ### [Kore 2.0 Elite Smart Watch - Health Tracker,](https://www.rangextd.com/products/kore-2-0)
-    
-    [4 reviews](https://www.rangextd.com/products/kore-2-0)
     
     Next day delivery
     
     $179.99 $89.99
     
-* Sale -49% [![FindZ QR Pet Tag - Lost and Found Solution, Quick and Easy Identification](//savvysmartdeals.com/cdn/shop/files/21ba131ff61860c60a2c3bfbf8df7c5c_16903b1f-bf28-4ae3-89d9-87f8b1a57bfc.png?v=1721296741&width=645)![FindZ QR Pet Tag - Lost and Found Solution, Quick and Easy Identification](//savvysmartdeals.com/cdn/shop/files/7631a224fb1d2d168907c2429956350f.jpg?v=1721296741&width=645)](https://www.rangextd.com/products/smart-pet-qr-tag)
+* Sale -49% [![FindZ QR Pet Tag - Lost and Found Solution, Quick and Easy Identification](//savvysmartdeals.com/cdn/shop/files/21ba131ff61860c60a2c3bfbf8df7c5c_16903b1f-bf28-4ae3-89d9-87f8b1a57bfc.png?v=1721296741&width=465)![FindZ QR Pet Tag - Lost and Found Solution, Quick and Easy Identification](//savvysmartdeals.com/cdn/shop/files/7631a224fb1d2d168907c2429956350f.jpg?v=1721296741&width=465)](https://www.rangextd.com/products/smart-pet-qr-tag)
     
     ### [FindZ QR Pet Tag - Lost and Found Solution, Quick and Easy Identification](https://www.rangextd.com/products/smart-pet-qr-tag)
     
@@ -150,17 +143,15 @@ Discover the hottest items flying off the shelves.
     
     $62.99 $31.99
     
-* Sale -55% [![Hajimari Flying Nova Ball - Fun, Skill-Building, Portable Flight](//savvysmartdeals.com/cdn/shop/files/slide-1.png?v=1722601614&width=645)![Hajimari Flying Nova Ball - Fun, Skill-Building, Portable Flight](//savvysmartdeals.com/cdn/shop/files/slide-3.png?v=1722601614&width=645)](https://www.rangextd.com/products/hajimari-by-tesimai-g2)
+* Sale -55% [![Hajimari Flying Nova Ball - Fun, Skill-Building, Portable Flight](//savvysmartdeals.com/cdn/shop/files/slide-1.png?v=1722601614&width=465)![Hajimari Flying Nova Ball - Fun, Skill-Building, Portable Flight](//savvysmartdeals.com/cdn/shop/files/slide-3.png?v=1722601614&width=465)](https://www.rangextd.com/products/hajimari-by-tesimai-g2)
     
     ### [Hajimari Flying Nova Ball - Fun, Skill-Building, Portable Flight](https://www.rangextd.com/products/hajimari-by-tesimai-g2)
-    
-    [4 reviews](https://www.rangextd.com/products/hajimari-by-tesimai-g2)
     
     Next day delivery
     
     $110.99 $49.99
     
-* Sale -52% [![MiSole Compression Socks - Support and Recovery](//savvysmartdeals.com/cdn/shop/files/slide-1.jpg?v=1722601451&width=645)![MiSole Compression Socks - Support and Recovery](//savvysmartdeals.com/cdn/shop/files/slide-2.jpg?v=1722601451&width=645)](https://www.rangextd.com/products/compression-socks)
+* Sale -52% [![MiSole Compression Socks - Support and Recovery](//savvysmartdeals.com/cdn/shop/files/slide-1.jpg?v=1722601451&width=465)![MiSole Compression Socks - Support and Recovery](//savvysmartdeals.com/cdn/shop/files/slide-2.jpg?v=1722601451&width=465)](https://www.rangextd.com/products/compression-socks)
     
     ### [MiSole Compression Socks - Support and Recovery](https://www.rangextd.com/products/compression-socks)
     
@@ -168,7 +159,7 @@ Discover the hottest items flying off the shelves.
     
     $99.99 $47.98
     
-* Sale -49% [![Dryer Morning Star Laundry Masher - Faster, Softer, Efficient Drying](//savvysmartdeals.com/cdn/shop/files/Stack.png?v=1727161715&width=645)![Dryer Morning Star Laundry Masher - Faster, Softer, Efficient Drying](//savvysmartdeals.com/cdn/shop/files/Stack1.png?v=1727161715&width=645)](https://www.rangextd.com/products/dryer-ball)
+* Sale -49% [![Dryer Morning Star Laundry Masher - Faster, Softer, Efficient Drying](//savvysmartdeals.com/cdn/shop/files/Stack.png?v=1727161715&width=465)![Dryer Morning Star Laundry Masher - Faster, Softer, Efficient Drying](//savvysmartdeals.com/cdn/shop/files/Stack1.png?v=1727161715&width=465)](https://www.rangextd.com/products/dryer-ball)
     
     ### [Dryer Morning Star Laundry Masher - Faster, Softer, Efficient Drying](https://www.rangextd.com/products/dryer-ball)
     
@@ -176,37 +167,31 @@ Discover the hottest items flying off the shelves.
     
     $78.99 $39.99
     
-* Sale -50% [![KoreScale Scale - Smarter Weighing](//savvysmartdeals.com/cdn/shop/files/6795ac12443aec661314765c76781104.png?v=1721296591&width=645)![KoreScale Scale - Smarter Weighing](//savvysmartdeals.com/cdn/shop/files/2293165cee4890476334155377155a5c_a4912df0-ad55-4923-961e-60afed608896.png?v=1721296591&width=645)](https://www.rangextd.com/products/korescale)
+* Sale -50% [![KoreScale Scale - Smarter Weighing](//savvysmartdeals.com/cdn/shop/files/6795ac12443aec661314765c76781104.png?v=1721296591&width=465)![KoreScale Scale - Smarter Weighing](//savvysmartdeals.com/cdn/shop/files/2293165cee4890476334155377155a5c_a4912df0-ad55-4923-961e-60afed608896.png?v=1721296591&width=465)](https://www.rangextd.com/products/korescale)
     
     ### [KoreScale Scale - Smarter Weighing](https://www.rangextd.com/products/korescale)
-    
-    [4 reviews](https://www.rangextd.com/products/korescale)
     
     Next day delivery
     
     $218.99 $109.99
     
-* Sale -50% [![Laundry Masher Pineapple Scent Magic & Effortless Laundry](//savvysmartdeals.com/cdn/shop/files/6791804d9c4bfa31ddf85205b6a46c18.png?v=1721296637&width=645)![Laundry Masher Pineapple Scent Magic & Effortless Laundry](//savvysmartdeals.com/cdn/shop/files/a16aefae629a3fe7905835cda87d96e9_585744dd-bb2b-4967-a765-06f807cc54bf.png?v=1721296637&width=645)](https://www.rangextd.com/products/laundry-masher-pineapple)
+* Sale -50% [![Laundry Masher Pineapple Scent Magic & Effortless Laundry](//savvysmartdeals.com/cdn/shop/files/6791804d9c4bfa31ddf85205b6a46c18.png?v=1721296637&width=465)![Laundry Masher Pineapple Scent Magic & Effortless Laundry](//savvysmartdeals.com/cdn/shop/files/a16aefae629a3fe7905835cda87d96e9_585744dd-bb2b-4967-a765-06f807cc54bf.png?v=1721296637&width=465)](https://www.rangextd.com/products/laundry-masher-pineapple)
     
     ### [Laundry Masher Pineapple Scent Magic & Effortless Laundry](https://www.rangextd.com/products/laundry-masher-pineapple)
-    
-    [4 reviews](https://www.rangextd.com/products/laundry-masher-pineapple)
     
     Next day delivery
     
     $110.99 $55.99
     
-* Sale -58% [![MiSole Acupuncture Insoles - Natural Relief](//savvysmartdeals.com/cdn/shop/files/e38b4c1c513f49672a7439b7cacf86be.png?v=1721296649&width=645)![MiSole Acupuncture Insoles - Natural Relief](//savvysmartdeals.com/cdn/shop/files/0d1d67310aa69eaa7426bc3f678e95df_9704dd6b-1048-42ca-a289-0bea7c4b2094.png?v=1721296649&width=645)](https://www.rangextd.com/products/mindinsole)
+* Sale -58% [![MiSole Acupuncture Insoles - Natural Relief](//savvysmartdeals.com/cdn/shop/files/e38b4c1c513f49672a7439b7cacf86be.png?v=1721296649&width=465)![MiSole Acupuncture Insoles - Natural Relief](//savvysmartdeals.com/cdn/shop/files/0d1d67310aa69eaa7426bc3f678e95df_9704dd6b-1048-42ca-a289-0bea7c4b2094.png?v=1721296649&width=465)](https://www.rangextd.com/products/mindinsole)
     
     ### [MiSole Acupuncture Insoles - Natural Relief](https://www.rangextd.com/products/mindinsole)
-    
-    [4 reviews](https://www.rangextd.com/products/mindinsole)
     
     Out of stock
     
     $119.99 $49.99
     
-* Sale -47% [![Neckrelax Neck Massager Magic - Pain-Free Neck](//savvysmartdeals.com/cdn/shop/files/1496ba9fa9c9e9f2e068c281cb03c16c.png?v=1721296666&width=645)![Neckrelax Neck Massager Magic - Pain-Free Neck](//savvysmartdeals.com/cdn/shop/files/d05703396174fd2cb9ece40149f4c6fc_6b5a306e-9c48-4d3d-814f-509cffbde30d.png?v=1721296666&width=645)](https://www.rangextd.com/products/neckrelax-neck-massager-g2)
+* Sale -47% [![Neckrelax Neck Massager Magic - Pain-Free Neck](//savvysmartdeals.com/cdn/shop/files/1496ba9fa9c9e9f2e068c281cb03c16c.png?v=1721296666&width=465)![Neckrelax Neck Massager Magic - Pain-Free Neck](//savvysmartdeals.com/cdn/shop/files/d05703396174fd2cb9ece40149f4c6fc_6b5a306e-9c48-4d3d-814f-509cffbde30d.png?v=1721296666&width=465)](https://www.rangextd.com/products/neckrelax-neck-massager-g2)
     
     ### [Neckrelax Neck Massager Magic - Pain-Free Neck](https://www.rangextd.com/products/neckrelax-neck-massager-g2)
     
@@ -214,17 +199,15 @@ Discover the hottest items flying off the shelves.
     
     $188.99 $99.98
     
-* Sale -50% [![Snapshot Action Cam - Adventure Ready, Capture the Moment](//savvysmartdeals.com/cdn/shop/files/stack.jpg?v=1727161028&width=645)![Snapshot Action Cam - Adventure Ready, Capture the Moment](//savvysmartdeals.com/cdn/shop/files/Stack4.jpg?v=1727161028&width=645)](https://www.rangextd.com/products/snapshot-camera)
+* Sale -50% [![Snapshot Action Cam - Adventure Ready, Capture the Moment](//savvysmartdeals.com/cdn/shop/files/stack.jpg?v=1727161028&width=465)![Snapshot Action Cam - Adventure Ready, Capture the Moment](//savvysmartdeals.com/cdn/shop/files/Stack4.jpg?v=1727161028&width=465)](https://www.rangextd.com/products/snapshot-camera)
     
     ### [Snapshot Action Cam - Adventure Ready, Capture the Moment](https://www.rangextd.com/products/snapshot-camera)
-    
-    [4 reviews](https://www.rangextd.com/products/snapshot-camera)
     
     Next day delivery
     
     $139.99 $69.99
     
-* Sale -46% [![RangeXTD WiFi Extender - Seamless Coverage](//savvysmartdeals.com/cdn/shop/files/67c81fad9ac5ac20a93a1caae3a8ee10.png?v=1721296728&width=645)](https://www.rangextd.com/products/rangextd)
+* Sale -46% [![RangeXTD WiFi Extender - Seamless Coverage](//savvysmartdeals.com/cdn/shop/files/67c81fad9ac5ac20a93a1caae3a8ee10.png?v=1721296728&width=465)](https://www.rangextd.com/products/rangextd)
     
     ### [RangeXTD WiFi Extender - Seamless Coverage](https://www.rangextd.com/products/rangextd)
     
@@ -235,79 +218,40 @@ Discover the hottest items flying off the shelves.
 
 [Top 100 most sold](https://www.rangextd.com/collections/best-selling-items) 
 
-* ![](//savvysmartdeals.com/cdn/shop/files/preview_images/6b2f0772ddcd44f4a4cc0d311225af84.thumbnail.0000000000_small.jpg?v=1722599448)
-    
-    Personal Essentials
-    -------------------
-    
-    [See More Deals](https://www.rangextd.com/collections/personal-essentials)
-    
-* ![](//savvysmartdeals.com/cdn/shop/files/preview_images/eeb11ea8fcec4f4aadcf4f3ad61cb4d7.thumbnail.0000000000_small.jpg?v=1730432247)
-    
-    Personal Essentials
-    -------------------
-    
-    [Home Essentials](https://www.rangextd.com/collections/trending-now)
-    
-* ![](//savvysmartdeals.com/cdn/shop/files/preview_images/fbd0669f195d492c8bc200672c5da86e.thumbnail.0000000000_small.jpg?v=1722598662)
-    
-    ### Travel
-    
-    [See More Deals](https://www.rangextd.com/collections/travel-mobility)
-    
-
 Trending Now
 ============
 
 Don't Miss Out on Must-Have Devices & Unique Items!
 
-* Sale -34% [![ChargeCard - Your Ultimate Portable Charger](//savvysmartdeals.com/cdn/shop/files/81U60BpbryL._AC_UF894_1000_QL80.jpg?v=1730364730&width=645)![ChargeCard - Your Ultimate Portable Charger](//savvysmartdeals.com/cdn/shop/files/mid2_jpg.webp?v=1730364730&width=645)](https://www.rangextd.com/products/chargecard-ultimate-portable)
+* Sale -34% [![ChargeCard - Your Ultimate Portable Charger](//savvysmartdeals.com/cdn/shop/files/81U60BpbryL._AC_UF894_1000_QL80.jpg?v=1730364730&width=465)![ChargeCard - Your Ultimate Portable Charger](//savvysmartdeals.com/cdn/shop/files/mid2_jpg.webp?v=1730364730&width=465)](https://www.rangextd.com/products/chargecard-ultimate-portable)
     
     ### [ChargeCard - Your Ultimate Portable Charger](https://www.rangextd.com/products/chargecard-ultimate-portable)
     
-    Next day delivery
-    
     $60.59 $39.99
     
-* Sale -55% [![Fluffco Zen Pillow - Ultimate Comfort for Restful Sleep](//savvysmartdeals.com/cdn/shop/files/1x1-1.png?v=1730350007&width=645)![Fluffco Zen Pillow - Ultimate Comfort for Restful Sleep](//savvysmartdeals.com/cdn/shop/files/preview_images/4x5-3.png?v=1730350100&width=645)](https://www.rangextd.com/products/fluffco-zen-pillow)
+* Sale -55% [![Fluffco Zen Pillow - Ultimate Comfort for Restful Sleep](//savvysmartdeals.com/cdn/shop/files/1x1-1.png?v=1730350007&width=465)![Fluffco Zen Pillow - Ultimate Comfort for Restful Sleep](//savvysmartdeals.com/cdn/shop/files/preview_images/4x5-3.png?v=1730350100&width=465)](https://www.rangextd.com/products/fluffco-zen-pillow)
     
     ### [Fluffco Zen Pillow - Ultimate Comfort for Restful Sleep](https://www.rangextd.com/products/fluffco-zen-pillow)
     
-    Next day delivery
-    
     $111.09 $49.99
     
-* Sale -50% [![Horse Power Scrubby - The Game-Changer for Effortless Cleaning](//savvysmartdeals.com/cdn/shop/files/image-15-_png.webp?v=1730432137&width=645)![Horse Power Scrubby - The Game-Changer for Effortless Cleaning](//savvysmartdeals.com/cdn/shop/files/img_1-1.gif?v=1730432137&width=645)](https://www.rangextd.com/products/horse-power-scrubby)
+* Sale -50% [![Horse Power Scrubby - The Game-Changer for Effortless Cleaning](//savvysmartdeals.com/cdn/shop/files/image-15-_png.webp?v=1730432137&width=465)![Horse Power Scrubby - The Game-Changer for Effortless Cleaning](//savvysmartdeals.com/cdn/shop/files/img_1-1.gif?v=1730432137&width=465)](https://www.rangextd.com/products/horse-power-scrubby)
     
     ### [Horse Power Scrubby - The Game-Changer for Effortless Cleaning](https://www.rangextd.com/products/horse-power-scrubby)
     
-    Next day delivery
-    
     $110.99 $55.99
     
-* Sale -55% [![PocketHose - The Ultimate Expandable Garden Hose](//savvysmartdeals.com/cdn/shop/files/thumb-drive-op_jpg.webp?v=1730284391&width=645)![PocketHose - The Ultimate Expandable Garden Hose](//savvysmartdeals.com/cdn/shop/files/index-hose-01-s.gif?v=1730284401&width=645)](https://www.rangextd.com/products/pockethose-expandable-hose)
+* Sale -55% [![PocketHose - The Ultimate Expandable Garden Hose](//savvysmartdeals.com/cdn/shop/files/thumb-drive-op_jpg.webp?v=1730284391&width=465)![PocketHose - The Ultimate Expandable Garden Hose](//savvysmartdeals.com/cdn/shop/files/index-hose-01-s.gif?v=1730284401&width=465)](https://www.rangextd.com/products/pockethose-expandable-hose)
     
     ### [PocketHose - The Ultimate Expandable Garden Hose](https://www.rangextd.com/products/pockethose-expandable-hose)
     
-    Next day delivery
-    
     $122.20 $54.99
-    
-* Sale -50% [![Self-cleaning & self-cooling sheets. Transform how you sleep.](//savvysmartdeals.com/cdn/shop/files/m_1.jpg?v=1729766642&width=645)![Self-cleaning & self-cooling sheets. Transform how you sleep.](//savvysmartdeals.com/cdn/shop/files/m_7_0901bb97-96e4-46f7-862c-d4edff9c0700.jpg?v=1729765707&width=645)](https://www.rangextd.com/products/miracle-sheet)
-    
-    ### [Self-cleaning & self-cooling sheets. Transform how you sleep.](https://www.rangextd.com/products/miracle-sheet)
-    
-    Next day delivery
-    
-    $238.00 $119.00
     
 
 Top Savvy Techs
 ===============
 
-[View all collections](https://www.rangextd.com/collections/top-notch-techs) 
-
-*  [![Experience the New iPhone 15 Pro Max 256GB Blue Titanium](//savvysmartdeals.com/cdn/shop/files/nxz54zajpkfqdpidnqn77eto69k0heem.jpg?v=1727853999&width=645)![Experience the New iPhone 15 Pro Max 256GB Blue Titanium](//savvysmartdeals.com/cdn/shop/files/955fc53acec3d5117801815ccfdc0ee6.jpg?v=1727853999&width=645)](https://www.rangextd.com/products/experience-the-iphone-15promax)
+*  [![Experience the New iPhone 15 Pro Max 256GB Blue Titanium](//savvysmartdeals.com/cdn/shop/files/nxz54zajpkfqdpidnqn77eto69k0heem.jpg?v=1727853999&width=465)![Experience the New iPhone 15 Pro Max 256GB Blue Titanium](//savvysmartdeals.com/cdn/shop/files/955fc53acec3d5117801815ccfdc0ee6.jpg?v=1727853999&width=465)](https://www.rangextd.com/products/experience-the-iphone-15promax)
     
     ### [Experience the New iPhone 15 Pro Max 256GB Blue Titanium](https://www.rangextd.com/products/experience-the-iphone-15promax)
     
@@ -315,7 +259,7 @@ Top Savvy Techs
     
     $1,199.99
     
-*  [![Experience the New MacBook Air M3 13-inch](//savvysmartdeals.com/cdn/shop/files/macbook_air_m3_xanh_den_-3_1db46a37c9ab4b8f84009499a17f613b_grande_603f055f-cd84-4d41-b07b-9f2a9063605e.webp?v=1727852448&width=645)![Experience the New MacBook Air M3 13-inch](//savvysmartdeals.com/cdn/shop/files/ezgif.com-webp-to-jpg-2023-04-27T180613.558.jpg?v=1727851987&width=645)](https://www.rangextd.com/products/experience-the-new-macbook-air-m3-13-inch)
+*  [![Experience the New MacBook Air M3 13-inch](//savvysmartdeals.com/cdn/shop/files/macbook_air_m3_xanh_den_-3_1db46a37c9ab4b8f84009499a17f613b_grande_603f055f-cd84-4d41-b07b-9f2a9063605e.webp?v=1727852448&width=465)![Experience the New MacBook Air M3 13-inch](//savvysmartdeals.com/cdn/shop/files/ezgif.com-webp-to-jpg-2023-04-27T180613.558.jpg?v=1727851987&width=465)](https://www.rangextd.com/products/experience-the-new-macbook-air-m3-13-inch)
     
     ### [Experience the New MacBook Air M3 13-inch](https://www.rangextd.com/products/experience-the-new-macbook-air-m3-13-inch)
     
@@ -323,7 +267,7 @@ Top Savvy Techs
     
     $1,099.00
     
-*  [![Experience the New PlayStation 5 Pro](//savvysmartdeals.com/cdn/shop/files/playstation-pro-reveal.jpg?v=1727868252&width=645)![Experience the New PlayStation 5 Pro](//savvysmartdeals.com/cdn/shop/files/sony-playstation-5-ps5-controller-header.webp?v=1727868252&width=645)](https://www.rangextd.com/products/experience-the-new-playstation-5-pro)
+*  [![Experience the New PlayStation 5 Pro](//savvysmartdeals.com/cdn/shop/files/playstation-pro-reveal.jpg?v=1727868252&width=465)![Experience the New PlayStation 5 Pro](//savvysmartdeals.com/cdn/shop/files/sony-playstation-5-ps5-controller-header.webp?v=1727868252&width=465)](https://www.rangextd.com/products/experience-the-new-playstation-5-pro)
     
     ### [Experience the New PlayStation 5 Pro](https://www.rangextd.com/products/experience-the-new-playstation-5-pro)
     
@@ -331,7 +275,7 @@ Top Savvy Techs
     
     $1,099.99
     
-*  [![Galaxy Tab S10 Ultra - Monochrome](//savvysmartdeals.com/cdn/shop/files/1.jpg?v=1727675267&width=645)![Galaxy Tab S10 Ultra - Monochrome](//savvysmartdeals.com/cdn/shop/files/66f664d50b8a811b2e389b56_005-galaxy-tab-s10-series-is-samsungs-ai-ready-tablet__1__high.jpg?v=1727675267&width=645)](https://www.rangextd.com/products/galaxy-tab-s10-ultra-monochrome)
+*  [![Galaxy Tab S10 Ultra - Monochrome](//savvysmartdeals.com/cdn/shop/files/1.jpg?v=1727675267&width=465)![Galaxy Tab S10 Ultra - Monochrome](//savvysmartdeals.com/cdn/shop/files/66f664d50b8a811b2e389b56_005-galaxy-tab-s10-series-is-samsungs-ai-ready-tablet__1__high.jpg?v=1727675267&width=465)](https://www.rangextd.com/products/galaxy-tab-s10-ultra-monochrome)
     
     ### [Galaxy Tab S10 Ultra - Monochrome](https://www.rangextd.com/products/galaxy-tab-s10-ultra-monochrome)
     
@@ -340,10 +284,43 @@ Top Savvy Techs
     $999.99
     
 
-[View all collections](https://www.rangextd.com/collections/top-notch-techs) 
+* ![](//savvysmartdeals.com/cdn/shop/files/logo-fox.png?v=1720582128&width=150)
+* ![](//savvysmartdeals.com/cdn/shop/files/logo-as-seen-cn.png?v=1720582128&width=150)
+* ![](//savvysmartdeals.com/cdn/shop/files/logo-3.png?v=1720582128&width=150)
+* ![](//savvysmartdeals.com/cdn/shop/files/logo-cnn.png?v=1720582128&width=150)
+* ![](//savvysmartdeals.com/cdn/shop/files/logo-yahoo.png?v=1720582147&width=150)
 
-Our latest blog posts
-=====================
+* ![Unleash Your Inner Adventurer](//savvysmartdeals.com/cdn/shop/files/STARSCOPE_-_CU_STILL_02.jpg?v=1727430371&width=620)
+    
+    [](https://www.rangextd.com/products/starscope-ver-3)
+    
+    Unleash Your Inner Adventurer
+    -----------------------------
+    
+    Witness nature's most breathtaking moments in HD with  
+    Starscope Monocular.
+    
+    [Shop now](https://www.rangextd.com/products/starscope-ver-3)
+    
+    [](https://www.rangextd.com/products/starscope-ver-3)
+    
+* ![Join the KoreHealth Revolution](//savvysmartdeals.com/cdn/shop/files/review-4_56a16220-8d17-4ce1-a2aa-81fa4c572a4a.jpg?v=1723028924&width=620)
+    
+    [](https://www.rangextd.com/products/korescale)
+    
+    Join the KoreHealth Revolution
+    ------------------------------
+    
+    Track your progress with KoreScale Gen2 and the KoreHealth  
+    app for real-time health insights.
+    
+    [Shop now](https://www.rangextd.com/products/korescale)
+    
+    [](https://www.rangextd.com/products/korescale)
+    
+
+What You Should Know
+====================
 
 [View all](https://www.rangextd.com/blogs/news) 
 
@@ -381,41 +358,6 @@ Our latest blog posts
     
 
 [View all](https://www.rangextd.com/blogs/news) 
-
-* ![](//savvysmartdeals.com/cdn/shop/files/logo-fox.png?v=1720582128&width=150)
-* ![](//savvysmartdeals.com/cdn/shop/files/logo-as-seen-cn.png?v=1720582128&width=150)
-* ![](//savvysmartdeals.com/cdn/shop/files/logo-3.png?v=1720582128&width=150)
-* ![](//savvysmartdeals.com/cdn/shop/files/logo-cnn.png?v=1720582128&width=150)
-* ![](//savvysmartdeals.com/cdn/shop/files/logo-yahoo.png?v=1720582147&width=150)
-
-* ![Unleash Your Inner Adventurer](//savvysmartdeals.com/cdn/shop/files/STARSCOPE_-_CU_STILL_02.jpg?v=1727430371&width=620)
-    
-    [](https://www.rangextd.com/products/starscope-ver-3)
-    
-    Unleash Your Inner Adventurer
-    -----------------------------
-    
-    Witness nature's most breathtaking moments in HD with  
-    Starscope Monocular.
-    
-    [Shop now](https://www.rangextd.com/products/starscope-ver-3) 
-    
-    [](https://www.rangextd.com/products/starscope-ver-3)
-    
-* ![Join the KoreHealth Revolution](//savvysmartdeals.com/cdn/shop/files/review-4_56a16220-8d17-4ce1-a2aa-81fa4c572a4a.jpg?v=1723028924&width=620)
-    
-    [](https://www.rangextd.com/products/korescale)
-    
-    Join the KoreHealth Revolution
-    ------------------------------
-    
-    Track your progress with KoreScale Gen2 and the KoreHealth  
-    app for real-time health insights.
-    
-    [Shop now](https://www.rangextd.com/products/korescale)
-    
-    [](https://www.rangextd.com/products/korescale)
-    
 
 * **Premium Quality**
 * **No-Hassle Returns**
