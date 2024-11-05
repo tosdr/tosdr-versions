@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/70d65392-40bd-4fc8-8d37-fbd150794c90/20241105T021730/70d65392-40bd-4fc8-8d37-fbd150794c90_16x9.jpg) ![](https://media.king5.com/assets/KING/images/70d65392-40bd-4fc8-8d37-fbd150794c90/20241105T021730/70d65392-40bd-4fc8-8d37-fbd150794c90_360x203.jpg)](https://www.king5.com/article/news/local/centralia-restaurant-backs-out-catering-wedding-same-sex-wedding/281-d06bd0d9-dd0d-44c9-83ee-d440a76a190c)
+    *  [![](https://media.king5.com/assets/KING/images/2e54bc31-c504-4f45-a4e4-6581dadfe8a9/20241105T024516/2e54bc31-c504-4f45-a4e4-6581dadfe8a9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2e54bc31-c504-4f45-a4e4-6581dadfe8a9/20241105T024516/2e54bc31-c504-4f45-a4e4-6581dadfe8a9_360x203.jpg)](https://www.king5.com/article/news/crime/3-injured-shooting-in-seattle-belltown-neighborhood/281-997e5fee-18b4-4b08-9504-9e0c314ed7b0)
         
-        #### [Centralia restaurant backs out of catering wedding after owner learns its for same-sex marriage](https://www.king5.com/article/news/local/centralia-restaurant-backs-out-catering-wedding-same-sex-wedding/281-d06bd0d9-dd0d-44c9-83ee-d440a76a190c)
+        #### [3 injured in shooting in Seattle's Belltown neighborhood](https://www.king5.com/article/news/crime/3-injured-shooting-in-seattle-belltown-neighborhood/281-997e5fee-18b4-4b08-9504-9e0c314ed7b0)
         
-    *  [![](https://media.king5.com/assets/KING/images/b6179b5e-781a-4b60-abef-65cbdf76a559/20241104T225546/b6179b5e-781a-4b60-abef-65cbdf76a559_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b6179b5e-781a-4b60-abef-65cbdf76a559/20241104T225546/b6179b5e-781a-4b60-abef-65cbdf76a559_360x203.jpg)](https://www.king5.com/article/news/politics/elections/live-updated-results-2024-general-election-races-washington-state/281-e69d948e-e896-4743-9efa-a7310fcd589f)
+    *  [![](https://media.king5.com/assets/KING/images/e6323b83-a850-4fdb-9385-7701c7c1ef7b/e6323b83-a850-4fdb-9385-7701c7c1ef7b_16x9.jpeg) ![](https://media.king5.com/assets/KING/images/e6323b83-a850-4fdb-9385-7701c7c1ef7b/e6323b83-a850-4fdb-9385-7701c7c1ef7b_360x203.jpeg)](https://www.king5.com/article/news/crime/man-shot-himself-buttocks-accidentally-police/281-755851b0-823a-4c62-b356-5a7dbb188e77)
         
-        #### [Top races to watch in 2024 general election in Washington](https://www.king5.com/article/news/politics/elections/live-updated-results-2024-general-election-races-washington-state/281-e69d948e-e896-4743-9efa-a7310fcd589f)
+        #### [Man who shot himself in buttocks accidentally in Kent will be arrested, police say](https://www.king5.com/article/news/crime/man-shot-himself-buttocks-accidentally-police/281-755851b0-823a-4c62-b356-5a7dbb188e77)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-45°
+53°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
