@@ -215,13 +215,13 @@ Call Now for a FREE Quote! [1-877-OXI-FRESH](tel:18776943737) **OR**
     * [Consideration Request](https://www.oxifresh.com/carpet-cleaning-companies/carpet-cleaning-franchise/considerationrequest/)
 * [Franchisee Login](https://www.oxifresh.com/login/index.html)
 
-![Fast 1 Hour Dry Time Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-1.png)
+![The World's Greenest Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-2.png)
 
 Zip Code  QUOTE & SCHEDULE
 
 Enter your zip/postal code above to find carpet cleaning services in your area, get a free quote or book online!
 
-Average 4.7 Stars Based on 302,780 Reviews
+Average 4.7 Stars Based on 302,829 Reviews
 
 * [Home](https://www.oxifresh.com/)
 * \>
@@ -441,17 +441,17 @@ What Customers Are Saying
 
 ### Average 4.7 stars (Out of 5)
 
-Based on 302,780 Carpet Cleaning Services Reviews
+Based on 302,829 Carpet Cleaning Services Reviews
 
-Todd did a great job. I would recommend him to anyone who is looking to get their house carpets cleaned. **JL.** - Winchester, MA - 11/02/2024
-
-(5.0 Out of 5 stars)
-
-**MS.** - Chalmette, LA - 11/02/2024
+Super fast! Super clean! Superior service! Loved our technician Frandy; did an amazing job! 5/5 **KG.** - New York, NY - 11/04/2024
 
 (5.0 Out of 5 stars)
 
-**JS.** - Washington, DC - 11/02/2024
+The Floor was Friendly professional and effective with his work **JM.** - Fairburn, GA - 11/03/2024
+
+(5.0 Out of 5 stars)
+
+**TC.** - Brunswick, ME - 11/03/2024
 
 (5.0 Out of 5 stars)
 
