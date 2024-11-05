@@ -194,7 +194,7 @@ Hi
         
     * [Thanksgiving Essentials (24)](https://www.smithbrothersfarms.com/thanksgiving-essentials)
         
-    * [Milk & Cream (56)](https://www.smithbrothersfarms.com/milk-cream)
+    * [Milk & Cream (55)](https://www.smithbrothersfarms.com/milk-cream)
         
         * BACK
         * [Whole Milk (5)](https://www.smithbrothersfarms.com/whole)
@@ -209,7 +209,7 @@ Hi
             
         * [Lactose Free Milk (2)](https://www.smithbrothersfarms.com/lactose-free-3)
             
-        * [Plant-Based Milk (12)](https://www.smithbrothersfarms.com/non-dairy-3)
+        * [Plant-Based Milk (11)](https://www.smithbrothersfarms.com/non-dairy-3)
             
         * [Half & Half, Creamers (17)](https://www.smithbrothersfarms.com/flavored-creamers)
             
@@ -266,7 +266,7 @@ Hi
         * [Prepared Produce (6)](https://www.smithbrothersfarms.com/prepped)
             
         
-    * [Bakery (98)](https://www.smithbrothersfarms.com/bakery)
+    * [Bakery (97)](https://www.smithbrothersfarms.com/bakery)
         
         * BACK
         * [Bread & Buns (32)](https://www.smithbrothersfarms.com/bread)
@@ -281,7 +281,7 @@ Hi
             
         * [Treats (15)](https://www.smithbrothersfarms.com/desserts)
             
-        * [Cookies (5)](https://www.smithbrothersfarms.com/cookie)
+        * [Cookies (4)](https://www.smithbrothersfarms.com/cookie)
             
         
     * [Meat (47)](https://www.smithbrothersfarms.com/meat-poultry)
@@ -310,12 +310,12 @@ Hi
         * [Sauces (6)](https://www.smithbrothersfarms.com/sauces-and-soups)
             
         
-    * [Coffee, Juice & Tea (50)](https://www.smithbrothersfarms.com/coffee-juice-tea)
+    * [Coffee, Juice & Tea (49)](https://www.smithbrothersfarms.com/coffee-juice-tea)
         
         * BACK
         * [Juice & Tea (23)](https://www.smithbrothersfarms.com/juice-3)
             
-        * [Coffee (27)](https://www.smithbrothersfarms.com/coffee-2)
+        * [Coffee (26)](https://www.smithbrothersfarms.com/coffee-2)
             
         
     * [Snacks (36)](https://www.smithbrothersfarms.com/snacks)
