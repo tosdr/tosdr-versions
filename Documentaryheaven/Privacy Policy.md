@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Story Of Ireland](/wp-content/thumbnails/6240-100x70.jpg?x53432)
+* [![Beat This: A History of Hip Hop](/wp-content/thumbnails/118-100x70.png?x53432)
     
-    The Story Of Ireland
+    Beat This: A History of Hip Hop
     
-    The Story of Ireland - a groundbreaking new series presented by Fergal Keane about the history of Ireland – cultural, social, and economic, and its role on the international stage.The Story Of Ire](https://documentaryheaven.com/the-story-of-ireland/ "The Story Of Ireland")
-* [![Killing Hitler](/wp-content/thumbnails/5942-100x70.jpg?x53432)
+    Where did Hip Hop start, how has it evolved and who or what made Hip Hop music popular. In this unique documentary film about the history of Hip Hop is presented like never bevore.Beat this! A Hip H](https://documentaryheaven.com/history-of-hip-hop/ "Beat This: A History of Hip Hop")
+* [![Ice Hotel](/wp-content/thumbnails/890-100x70.jpg?x53432)
     
-    Killing Hitler
+    Ice Hotel
     
-    A drama-documentary about ‘Operation Foxley’, which was a 1944 British plan to assassinate Adolf Hitler, made by the Special Operations Executive (SOE). Although detailed plans were prepared, no attem](https://documentaryheaven.com/killing-hitler/ "Killing Hitler")
-* [![Alcatraz: No Way Out](/wp-content/thumbnails/10187-100x70.jpg?x53432)
+    The Ice Hotel of Sweden is the biggest hotel in the world that is built entirely by ice and snow. This hotel is the brainchild of two close friends who are specialized in Ice architecture, Arne Bergh](https://documentaryheaven.com/ice-hotel/ "Ice Hotel")
+* [![Hofmann’s Potion](/wp-content/thumbnails/6586-100x70.jpg?x53432)
     
-    Alcatraz: No Way Out
+    Hofmann’s Potion
     
-    Alcatraz was a high security prison built with concrete and steel on an island surrounded by the frigid waters of San Fransisco Bay. For almost 30 years Alcatraz Federal Penitentiary was the coun](https://documentaryheaven.com/alcatraz-no-way-out/ "Alcatraz: No Way Out")
-* [![Overview](/wp-content/thumbnails/7680-100x70.png?x53432)
+    This documentary offers a compassionate, open-minded look at LSD and how it fits into our world. Long before Timothy Leary urged a generation to “tune in, turn on and drop out,” the drug was hailed as](https://documentaryheaven.com/hofmanns-potion/ "Hofmann’s Potion")
+* [![Seeking Elvis](/wp-content/thumbnails/6833-100x70.jpg?x53432)
     
-    Overview
+    Seeking Elvis
     
-    On the 40th anniversary of the famous ‘Blue Marble’ photograph taken of Earth from space, Planetary Collective presents a short film documenting astronauts’ life-changing stories of seeing the Earth f](https://documentaryheaven.com/overview/ "Overview")
-* [![Taxi to the Dark Side](/wp-content/thumbnails/491-100x70.png?x53432)
+    American humorist Dave Barry said it best: "Eventually everybody has to die, except Elvis". In many ways in both culture and the law, Elvis Presley never really died. Today, after more than 35 years](https://documentaryheaven.com/seeking-elvis/ "Seeking Elvis")
+* [![The Secret of El Dorado](/wp-content/thumbnails/1001-100x70.jpg?x53432)
     
-    Taxi to the Dark Side
+    The Secret of El Dorado
     
-    This documentary murder mystery examines the death of an Afghan taxi driver at Bagram Air Base from injuries inflicted by U.S. soldiers. In an unflinching look at the Bush administration's policy on t](https://documentaryheaven.com/taxi-to-the-dark-side/ "Taxi to the Dark Side")
+    In 1542, the Spanish Conquistador, Francisco de Orellana ventured along the Rio Negro, one of the Amazon Basin's great rivers. Hunting a hidden city of gold, his expedition found a network of farms, v](https://documentaryheaven.com/the-secret-of-el-dorado/ "The Secret of El Dorado")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
