@@ -306,7 +306,7 @@ If you have questions or concerns, you should first contact the Pulseway Privacy
 
 ### THE PLATFORM
 
-[Monitoring and Management](https://www.pulseway.com/it-management-software)[Business Management](https://www.pulseway.com/solutions/business-management-software)[Antivirus and Endpoint Protection](https://www.pulseway.com/antivirus)[Network Operations Center](https://www.pulseway.com/noc-services)[Integrations](https://www.pulseway.com/integrations)[Security](https://www.pulseway.com/managed-antivirus-endpoint-protection)
+[Monitoring and Management](https://www.pulseway.com/features/it-management-software)[Business Management](https://www.pulseway.com/solutions/business-management-software)[Antivirus and Endpoint Protection](https://www.pulseway.com/antivirus)[Network Operations Center](https://www.pulseway.com/noc-services)[Integrations](https://www.pulseway.com/integrations)[Security](https://www.pulseway.com/managed-antivirus-endpoint-protection)
 
 ### SOLUTIONS
 
