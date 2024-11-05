@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7019d7c9bc3918a37db4c1071c29bd81
+883a295264b83c0613ebf8414f42873f
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Gold Poof bracelet](https://www.sojourner.biz/images/cache/BR0003.200.jpg)](https://www.sojourner.biz/jewelry/bracelets/gold-poof-bracelet.html "Gold Poof bracelet")
+[![Square Swarovski sapphire clasp](https://www.sojourner.biz/images/cache/SKU0540front.200.jpg)](https://www.sojourner.biz/clasps/swarovski/square-swarovski-sapphire-clasp.html "Square Swarovski sapphire clasp")
 
-#### [Gold Poof bracelet](https://www.sojourner.biz/jewelry/bracelets/gold-poof-bracelet.html "Gold Poof bracelet")
+#### [Square Swarovski sapphire clasp](https://www.sojourner.biz/clasps/swarovski/square-swarovski-sapphire-clasp.html "Square Swarovski sapphire clasp")
 
-$80.00
+$21.00
 
 ### Best Sellers
 
