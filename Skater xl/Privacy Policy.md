@@ -168,7 +168,7 @@ Experience unparalleled board control and responsiveness while you skate iconic 
 
 Recent Reviews:
 
-Very Positive (45) \- 88% of the 45 user reviews in the last 30 days are positive.
+Very Positive (41) \- 90% of the 41 user reviews in the last 30 days are positive.
 
 All Reviews:
 
@@ -202,7 +202,7 @@ Very Positive (86% of 18,133) All Time
 
 Recent Reviews:
 
-Very Positive (88% of 45) Recent
+Very Positive (90% of 41) Recent
 
 ![](https://store.fastly.steamstatic.com/public/images/game/game_highlight_image_spacer.gif)
 
@@ -460,7 +460,7 @@ Very Positive (18,133 reviews) ![](https://store.fastly.steamstatic.com/public/s
 
 Recent Reviews:
 
-Very Positive (45 reviews) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (41 reviews) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Review Type
 
