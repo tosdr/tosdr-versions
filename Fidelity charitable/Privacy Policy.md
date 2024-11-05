@@ -196,9 +196,55 @@ For your convenience, Fidelity Charitable offers several options for accessing a
 
 Last Reviewed October 2022
 
+* * *
+
+   [![Fidelity Charitable logo](/content/dam/fc-public/site-design-assets/fc-logos/fidelity-charitable-logo.png/_jcr_content/renditions/viewport-max-p.png)](https://www.fidelitycharitable.org/)
+
+Fidelity Charitable is a 501(c)(3) public charity. We help donors maximize their generosity through our donor-advised fund, called the Giving Account. Established in 1991, we are the nation’s top grantmaker, distributing $11.8 billion to charities in 2023.
+
+   ![Kipplinger Readers' Choice Awards 2024 - Best Overall Donor Advised Fund](/content/dam/fc-public/shared/nfcl/kiplinger-readers-choice-award-badge.svg)
+
+About us
+
+[Who we are](https://www.fidelitycharitable.org/about-us.html)
+
+[Trustees](https://www.fidelitycharitable.org/about-us/governance-board.html)
+
+[Newsroom](https://www.fidelitycharitable.org/about-us/news.html)
+
+Who we serve
+
+[Donors](https://www.fidelitycharitable.org/)
+
+[Advisors](https://www.fidelitycharitable.org/advisors.html)
+
+[Companies](https://www.fidelitycharitable.org/corporate-giving.html)
+
+[Nonprofits](https://www.fidelitycharitable.org/nonprofits.html)
+
+Resources
+
+[Help center](https://www.fidelitycharitable.org/help-center.html)
+
+[FAQs](https://www.fidelitycharitable.org/faqs.html)
+
+[Forms](https://www.fidelitycharitable.org/forms.html)
+
+[Tools & Calculators](https://www.fidelitycharitable.org/tools.html)
+
+[](https://www.facebook.com/FidelityCharitable/)
+
+[](https://www.instagram.com/fidelitycharitable/)
+
+[](https://twitter.com/FidelityChrtbl)
+
+[®](https://www.linkedin.com/company/fidelity-charitable/)
+
+[](https://www.youtube.com/channel/UCuwvrUNA0mvnNUOn8w6KyBA)
+
 Want more info before you open a Giving Account?
 
-Sign up to receive occasional news, information, and tips that support smarter philanthropic impact through a donor-advised fund.
+Sign up to receive occasional news, information, and tips that support smarter giving impact through a donor-advised fund.
 
 Email: 
 
@@ -210,36 +256,16 @@ Subscribe
 
 #### Thank You! You are on your way to making more of a difference.
 
-Check your inbox soon for useful tips on how charitable giving can help you save on taxes this year or over several years.
-
-[FAQs](https://www.fidelitycharitable.org/faqs.html)
-
-[Forms](https://www.fidelitycharitable.org/forms.html)
-
-[For media](https://www.fidelitycharitable.org/about-us/news.html)
-
-[About us](https://www.fidelitycharitable.org/about-us.html)
+Check your inbox soon for our monthly email newsletter.
 
 * * *
 
-[](https://www.facebook.com/FidelityCharitable/)
-
-[](https://www.instagram.com/fidelitycharitable/)
-
-[](https://twitter.com/FidelityChrtbl)
-
-[](https://www.linkedin.com/company/fidelity-charitable/)
-
-[](https://www.youtube.com/channel/UCuwvrUNA0mvnNUOn8w6KyBA)
-
 [Site map](https://www.fidelitycharitable.org/site-map.html)
-
-[Demo](https://www.demo-charitablegift.com/cgfweb/CGFLogon.cgfdo#/demo/)
 
 [Legal note](https://www.fidelitycharitable.org/legal/legal-note.html)
 
-[Privacy Policy](https://www.fidelitycharitable.org/legal/privacy-policy.html)
+[Privacy policy](https://www.fidelitycharitable.org/legal/privacy-policy.html)
 
-_© 1998-2024 FMR LLC. All rights reserved. Portions © 1998-2024 Fidelity Investments Charitable Gift Fund. All rights reserved.   
-By using or logging in to this website, you consent to the use of cookies as described in the Fidelity Charitable [Privacy Policy.](https://www.fidelitycharitable.org/legal/privacy-policy.html)  
-_Fidelity Investments® Charitable Gift Fund is recognized as a tax-exempt public charity as described in Sections 501(c)(3), 509(a)(1), and 170(b)(1)(A)(vi) of the Internal Revenue Code.__
+[Cookie policy](https://www.fidelitycharitable.org/legal/privacy-policy.html#cookies)
+
+©1998-2024 FMR LLC. All rights reserved. Portions © 1998-2024 Fidelity Investments Charitable Gift Fund. All rights reserved. _Fidelity Investments® Charitable Gift Fund is recognized as a tax-exempt public charity as described in Sections 501(c)(3), 509(a)(1), and 170(b)(1)(A)(vi) of the Internal Revenue Code._
