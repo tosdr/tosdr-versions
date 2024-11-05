@@ -265,7 +265,7 @@ Don't Miss
 Don't Miss:
 -----------
 
-* [Elections Central](https://www.gpb.org/politics/election2024)
+* [Election News and Results](https://www.gpb.org/politics/election2024)
 * [Explore GPB Passport](https://www.gpb.org/explore)
 * [TV Highlights This Week](https://www.gpb.org/blogs/topic/television)
 
@@ -274,6 +274,13 @@ Don't Miss:
   [![GPB Passport icon](/themes/custom/ga_forest/assets/images/icons/passport/passport--blue-bright.svg) ![GPB Passport icon](/themes/custom/ga_forest/assets/images/icons/passport/passport--black.svg)Passport](https://www.gpb.org/passport "GPB Passport")
 
   [![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-bright.svg) ![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-sky.svg)Donate](https://www.gpb.org/give-now "Donate to Georgia Public Broadcasting")
+
+![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live.svg)
+
+WATCH: Secretary of State Election Briefing at 9:00am
+-----------------------------------------------------
+
+[WATCH LIVE!](https://www.gpb.org/events/news/2024/11/05/secretary-of-state-election-update)
 
 Messages
 --------
