@@ -36,18 +36,18 @@
         
         Synology hurries out patches for zero-days exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/synology-fixed-two-critical-zero-days-exploited-at-pwn2own-within-days/)
     
+    * [![Nokia investigates breach after hacker claims to steal source code](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Nokia investigates breach after hacker claims to steal source code](https://www.bleepingcomputer.com/news/security/nokia-investigates-breach-after-hacker-claims-to-steal-source-code/)
+    * [![DocuSign's Envelopes API abused to send realistic fake invoices](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        DocuSign's Envelopes API abused to send realistic fake invoices](https://www.bleepingcomputer.com/news/security/docusigns-envelopes-api-abused-to-send-realistic-fake-invoices/)
+    * [![Schneider Electric confirms dev platform breach after hacker steals data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Schneider Electric confirms dev platform breach after hacker steals data](https://www.bleepingcomputer.com/news/security/schneider-electric-confirms-dev-platform-breach-after-hacker-steals-data/)
     * [![Windows Server 2025 released—here are the new features](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Windows Server 2025 released—here are the new features](https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-released-here-are-the-new-features/)
-    * [![Custom ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Custom "Pygmy Goat" malware used in Sophos Firewall hack on govt network](https://www.bleepingcomputer.com/news/security/custom-pygmy-goat-malware-used-in-sophos-firewall-hack-on-govt-network/)
-    * [![Windows infected with backdoored Linux VMs in new phishing attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Windows infected with backdoored Linux VMs in new phishing attacks](https://www.bleepingcomputer.com/news/security/windows-infected-with-backdoored-linux-vms-in-new-phishing-attacks/)
-    * [![Solving the painful password problem with better policies](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Solving the painful password problem with better policies](https://www.bleepingcomputer.com/news/security/solving-the-painful-password-problem-with-better-policies/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
