@@ -61,6 +61,7 @@ Primary Navigation
         * [Stay legally compliant](https://www.sba.gov/business-guide/manage-your-business/stay-legally-compliant)
         * [Buy assets and equipment](https://www.sba.gov/business-guide/manage-your-business/buy-assets-equipment)
         * [Marketing and sales](https://www.sba.gov/business-guide/manage-your-business/marketing-sales)
+        * [AI for small business](https://www.sba.gov/business-guide/manage-your-business/ai-small-business)
         * [Strengthen your cybersecurity](https://www.sba.gov/business-guide/manage-your-business/strengthen-your-cybersecurity)
         * [Prepare for emergencies](https://www.sba.gov/business-guide/manage-your-business/prepare-emergencies)
         * [Recover from disasters](https://www.sba.gov/business-guide/manage-your-business/recover-disasters)
