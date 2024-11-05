@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-doz-finch-uss-gorkonphoenix-award/)
+
+### [Award winner – Doz Finch, USS Gorkon(Phoenix Award)](https://www.starbase118.net/2024/award-winner-doz-finch-uss-gorkonphoenix-award/)
+
+docaharford November 5, 2024
+
+Join us for another in a series of interviews with winners of awards from our 2024 Awards Ceremony. Our goal is to give you insight
+
+[Read More »](https://www.starbase118.net/2024/award-winner-doz-finch-uss-gorkonphoenix-award/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/09/halloween_avatar_contest_community_news-768x768.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/winners-of-the-halloween-avatar-contest-2024-are/)
 
 ### [Winners of the Halloween Avatar Contest 2024 are…](https://www.starbase118.net/2024/winners-of-the-halloween-avatar-contest-2024-are/)
@@ -377,18 +389,6 @@ amackenzie November 3, 2024
 October was a month of profound exploration and storytelling prowess within our distinguished Fleet. We saw a slight dip in our overall averages this month,
 
 [Read More »](https://www.starbase118.net/2024/october-2024-post-counts/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-gnai-uss-artemis-a-sarpeidon-award/)
-
-### [Award Winner – Gnai, USS Artemis-A (Sarpeidon Award)](https://www.starbase118.net/2024/award-winner-gnai-uss-artemis-a-sarpeidon-award/)
-
-Madison Marsh November 1, 2024
-
-Join us for another in a series of interviews with winners of awards from our 2024 Awards Ceremony. Our goal is to give you insight
-
-[Read More »](https://www.starbase118.net/2024/award-winner-gnai-uss-artemis-a-sarpeidon-award/)
 
 Ready to get started?
 ---------------------
