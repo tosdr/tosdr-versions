@@ -377,7 +377,7 @@ Bitrix24 Privacy Policy
 
 [G. YOUR RIGHTS](#g)
 
-Last Updated: June 12, 2024
+Last Updated: October 10, 2024
 
 #### A. INTRODUCTION
 
