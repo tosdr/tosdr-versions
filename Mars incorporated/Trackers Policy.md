@@ -332,9 +332,9 @@ Finland
 
 France
 
-[Français](https://fra.mars.com/)
+[Français](https://www.mars.com/fr-fr)
 
-[Français](https://fra.mars.com/)
+[Français](https://www.mars.com/fr-fr)
 
 Germany
 
