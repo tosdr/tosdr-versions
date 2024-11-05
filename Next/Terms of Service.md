@@ -1,6 +1,6 @@
 5.39.3
 
-1730796574316
+1730817013906
 
                                              
 
@@ -12,9 +12,9 @@ en
 
 3.16.0
 
-1730795460431
+1730817098961
 
- Next Terms & Conditions | T&C's | Next Official Site                                  
+     Next Terms & Conditions | T&C's | Next Official Site                                  
 
                   [Click here to use our accessible website](https://accessible.next.co.uk/)
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1730795476726
+1730817840596
 
 You need to enable JavaScript to run this app.
 
@@ -549,6 +549,78 @@ The use of a nextpay card (formally known as Directory Card) or the nextpay in-a
 Please note the redemption of the 10% welcome offer to credit applies only to Next.co.uk.
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
+
+### Moroccanoil Promotion
+
+The Moroccanoil Free Gift will be automatically added to bag when you buy any 2 selected Moroccanoil products. The Moroccanoil Gift contains:
+
+* Intense Hydrating Mask 75ml
+* Treatment Oil 15ml
+
+To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
+
+The Moroccanoil Gift will be automatically added once 2 qualifying Moroccanoil products have been added to the bag on either the Product or Shopping Bag pages.
+
+The promotion can only be used by the account holder, and you must be logged in to your account to view and shop the promotion.
+
+This offer is not available to staff.
+
+Offer applies while stocks last.
+
+### Rituals Promotion
+
+The Rituals Free Gift will be automatically added to bag when you buy any 2 selected Rituals products. The Rituals Gift contains:
+
+* Ayurveda Recovery Hand Balm 70ml
+* Karma Hand Lotion 70ml
+
+To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
+
+The Rituals Gift will be automatically added once 2 qualifying Rituals products have been added to the bag on either the Product or Shopping Bag pages.
+
+The promotion can only be used by the account holder, and you must be logged in to your account to view and shop the promotion.
+
+This offer is not available to staff.
+
+Offer applies while stocks last.
+
+### BOSS Promotion
+
+The BOSS Free Gift will be automatically added to bag when you buy any selected BOSS products. The BOSS Gift contains:
+
+* BOSS Bottled Eau de Toilette 5ml
+
+To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
+
+The BOSS Gift will be automatically added once 2 qualifying BOSS products have been added to the bag on either the Product or Shopping Bag pages.
+
+The promotion can only be used by the account holder, and you must be logged in to your account to view and shop the promotion.
+
+This offer is not available to staff.
+
+Offer applies while stocks last.
+
+### Benefit Promotion
+
+The Benefit Free Gift will be automatically added to bag when you buy any 2 selected Benefit products. The Benefit Gift contains:
+
+* 24hr Brow Setter Fun Size - 2ml
+* Blush Multishaded Card - 0.12g
+* They're Real! Black Mascara Fun Size - 3g
+* Badgal Bang Mascara Fun Size - 3g
+* Fan Fest Fun Size Mascara - 3g
+* Porefessional Get Unblocked Fun Size Oil Cleanser - 19ml
+* Porefessional Setter Spray Fun Size - 15ml
+
+To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
+
+The Benefit Gift will be automatically added once 2 qualifying Benefit products have been added to the bag on either the Product or Shopping Bag pages.
+
+The promotion can only be used by the account holder, and you must be logged in to your account to view and shop the promotion.
+
+This offer is not available to staff.
+
+Offer applies while stocks last.
 
 ### Bath & Body Works UK Social Media Competition
 
@@ -2743,7 +2815,7 @@ You need to enable JavaScript to run this app.
 
 3.16.0
 
-1730795544863
+1730817843328
 
 ### Our Social Networks
 
