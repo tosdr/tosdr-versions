@@ -26,7 +26,7 @@
 
 RSLT LLC
 
-contact@rslt.io
+[\[email protected\]](https://rslt.io/cdn-cgi/l/email-protection)
 
 229 East 85th Street, #659
 
@@ -193,9 +193,9 @@ Business customers who interact and operate internationally with their consumers
 
 If consumers are from the United States, there are additional privacy protections, including: a) the right to see what data we have about consumers, their computer or device (i.e., the right to know), b) the right to delete the data we have about a consumer, their computer or device (i.e., the right to delete) and c) the right to opt-out of the sale of data about a consumer, their computer or device to certain third parties (i.e., the right to opt-out from sales of consumer information). 
 
-We do not discriminate against consumers if they exercise any of the above rights. Moreover, we may not be able to honor a right if doing so would violate applicable law. If consumers want to see what data we may store, such requests need to be sent directly to RSLT at contact@rslt.io.
+We do not discriminate against consumers if they exercise any of the above rights. Moreover, we may not be able to honor a right if doing so would violate applicable law. If consumers want to see what data we may store, such requests need to be sent directly to RSLT at [\[email protected\]](https://rslt.io/cdn-cgi/l/email-protection).
 
-We do not actively retain any consumer information as listed above, nevertheless consumers are entitled to see and delete any information that we retain or happen to have on them. To do so, please contact us at contact@rslt.io. 
+We do not actively retain any consumer information as listed above, nevertheless consumers are entitled to see and delete any information that we retain or happen to have on them. To do so, please contact us at [\[email protected\]](https://rslt.io/cdn-cgi/l/email-protection). 
 
 16. Changes to our Privacy Policy and practices
     ===========================================
@@ -207,11 +207,11 @@ This Privacy Policy may be updated periodically and without prior notice to refl
     =================
     
 
-If you have any questions or comments about this Privacy Policy, our privacy practices or if you would like to exercise your rights and choices, please contact us through your direct account manager, or at contact@rslt.io or by writing to us at:
+If you have any questions or comments about this Privacy Policy, our privacy practices or if you would like to exercise your rights and choices, please contact us through your direct account manager, or at [\[email protected\]](https://rslt.io/cdn-cgi/l/email-protection) or by writing to us at:
 
 RSLT LLC
 
-CONTACT@RSLT.IO
+[\[email protected\]](https://rslt.io/cdn-cgi/l/email-protection)
 
 229 East 85th Street, #659
 
