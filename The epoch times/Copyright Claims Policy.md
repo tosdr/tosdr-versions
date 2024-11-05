@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Philadelphia Judge Allows Elon Musk’s $1 Million Giveaways to Proceed](https://www.theepochtimes.com/us/philadelphia-judge-allows-elon-musks-1-million-giveaways-to-proceed-5753517)
+* [At UN, US Accuses China, Russia of Protecting North Korea From Reprisal Over Nuclear Aggression](https://www.theepochtimes.com/us/at-un-us-accuses-china-russia-of-protecting-north-korea-from-reprisal-over-nuclear-aggression-5753817)
     
-    NEW By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    NEW By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
     
-    [![Philadelphia Judge Allows Elon Musk’s $1 Million Giveaways to Proceed](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![At UN, US Accuses China, Russia of Protecting North Korea From Reprisal Over Nuclear Aggression](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Philadelphia Judge Allows Elon Musk’s $1 Million Giveaways to Proceed](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751254-GettyImages-2180566045-205x123.jpg.webp)](https://www.theepochtimes.com/us/philadelphia-judge-allows-elon-musks-1-million-giveaways-to-proceed-5753517)
-* [Trump Doesn’t Rule Out Banning Certain Vaccines If He Wins Election](https://www.theepochtimes.com/us/trump-doesnt-rule-out-banning-certain-vaccines-if-he-wins-election-5753812)
+    ![At UN, US Accuses China, Russia of Protecting North Korea From Reprisal Over Nuclear Aggression](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750535-2024-10-30T095625Z_1_LYNXMPEK9T0CK_RTROPTP_4_NORTHKOREA-MISSILES-205x123.jpg.webp)](https://www.theepochtimes.com/us/at-un-us-accuses-china-russia-of-protecting-north-korea-from-reprisal-over-nuclear-aggression-5753817)
+* [New Orlean Saints Fire Head Coach Dennis Allen Amid Losing Streak](https://www.theepochtimes.com/sports/new-orlean-saints-fire-head-coach-dennis-allen-amid-losing-streak-5754098)
     
-    NEW By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    NEW By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
     
-    [![Trump Doesn’t Rule Out Banning Certain Vaccines If He Wins Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![New Orlean Saints Fire Head Coach Dennis Allen Amid Losing Streak](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Doesn’t Rule Out Banning Certain Vaccines If He Wins Election](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750966-Trump-AZ-1_JF_10132024-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-doesnt-rule-out-banning-certain-vaccines-if-he-wins-election-5753812)
-* [22 Pesticides Linked to Prostate Cancer](https://www.theepochtimes.com/health/22-pesticides-linked-to-prostate-cancer-5753620)
+    ![New Orlean Saints Fire Head Coach Dennis Allen Amid Losing Streak](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754099-Image-205x123.jpeg.webp)](https://www.theepochtimes.com/sports/new-orlean-saints-fire-head-coach-dennis-allen-amid-losing-streak-5754098)
+* [More Than 1.1 Million Oregon Ballots Cast Ahead of Election Day](https://www.theepochtimes.com/us/more-than-1-1-million-oregon-ballots-cast-ahead-of-election-day-5754016)
     
-    NEW By [George Citroner](https://www.theepochtimes.com/author/george-citroner), Healthline
+    1hr By [Scottie Barnes](https://www.theepochtimes.com/author/scottie-barnes)
     
-    [![22 Pesticides Linked to Prostate Cancer](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![More Than 1.1 Million Oregon Ballots Cast Ahead of Election Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![22 Pesticides Linked to Prostate Cancer](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753926-shutterstock_432180319_fruits_and_vegetables_fruit_vegetable_capsicum_carrot_organic_water_wash_pesticide-205x123.jpg)](https://www.theepochtimes.com/health/22-pesticides-linked-to-prostate-cancer-5753620)
-* [Trump Says He Would Threaten 25 Percent Tariff on Mexican Imports to Stop Illegal Immigration](https://www.theepochtimes.com/us/trump-says-he-may-impose-new-25-percent-tariff-on-mexican-imports-if-elected-5753793)
+    ![More Than 1.1 Million Oregon Ballots Cast Ahead of Election Day](https://img.theepochtimes.com/assets/uploads/2022/11/08/vote_52291329697_o-205x123.jpeg.webp)](https://www.theepochtimes.com/us/more-than-1-1-million-oregon-ballots-cast-ahead-of-election-day-5754016)
+* [Joe Rogan Endorses Trump on Eve of Election Day](https://www.theepochtimes.com/us/joe-rogan-endorses-trump-on-eve-of-election-day-5754091)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    1hr By [Stephen Katte](https://www.theepochtimes.com/author/stephen-katte)
     
-    [![Trump Says He Would Threaten 25 Percent Tariff on Mexican Imports to Stop Illegal Immigration](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Joe Rogan Endorses Trump on Eve of Election Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Says He Would Threaten 25 Percent Tariff on Mexican Imports to Stop Illegal Immigration](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753649-GettyImages-2182728346-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-says-he-may-impose-new-25-percent-tariff-on-mexican-imports-if-elected-5753793)
-* [Economy Top Factor in Election: Gallup Survey](https://www.theepochtimes.com/us/economy-top-factor-in-election-gallup-survey-5753742)
+    ![Joe Rogan Endorses Trump on Eve of Election Day](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740640-Trump_Rogan-rogan-trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/joe-rogan-endorses-trump-on-eve-of-election-day-5754091)
+* [Judge Dismisses Suit to Block Alleged Inactive Voters in Pennsylvania From Voting](https://www.theepochtimes.com/us/judge-dismisses-suit-to-block-alleged-inactive-voters-in-pennsylvania-from-voting-5753769)
     
-    2hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Economy Top Factor in Election: Gallup Survey](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Judge Dismisses Suit to Block Alleged Inactive Voters in Pennsylvania From Voting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Economy Top Factor in Election: Gallup Survey](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753668-trump-harris-MixCollage-04-Nov-2024-03-40-PM-2765-205x123.jpg.webp)](https://www.theepochtimes.com/us/economy-top-factor-in-election-gallup-survey-5753742)
-* [Oil Extends Rally, Jumps 2 Percent After OPEC Delays Production Hike Again](https://www.theepochtimes.com/business/oil-extends-rally-jumps-2-percent-after-opec-delays-production-hike-again-5753731)
+    ![Judge Dismisses Suit to Block Alleged Inactive Voters in Pennsylvania From Voting](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752791-GettyImages-2177885609-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-dismisses-suit-to-block-alleged-inactive-voters-in-pennsylvania-from-voting-5753769)
+* [Kroger Agrees to $1.37 Billion Opioid Settlement With 30 States](https://www.theepochtimes.com/us/kroger-agrees-to-opioid-settlement-with-30-states-5753883)
     
-    3hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    3hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
     
-    [![Oil Extends Rally, Jumps 2 Percent After OPEC Delays Production Hike Again](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Kroger Agrees to $1.37 Billion Opioid Settlement With 30 States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Oil Extends Rally, Jumps 2 Percent After OPEC Delays Production Hike Again](https://img.theepochtimes.com/assets/uploads/2023/04/17/id5199443-Crude-oil-pump-jack-e1681728018717-205x123.jpg.webp)](https://www.theepochtimes.com/business/oil-extends-rally-jumps-2-percent-after-opec-delays-production-hike-again-5753731)
-* [Lawmakers Urge FTC to Stop Chinese Companies From Undermining US Flag Industry](https://www.theepochtimes.com/china/lawmakers-urge-ftc-to-stop-chinese-companies-from-undermining-us-flag-industry-5753667)
+    ![Kroger Agrees to $1.37 Billion Opioid Settlement With 30 States](https://img.theepochtimes.com/assets/uploads/2024/08/07/id5701630-Kroger-grocery-store-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/kroger-agrees-to-opioid-settlement-with-30-states-5753883)
+* [RNC Sues Milwaukee Over Poll Watcher Access](https://www.theepochtimes.com/us/rnc-sues-milwaukee-over-poll-watcher-access-5753927)
     
-    4hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    3hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
-    [![Lawmakers Urge FTC to Stop Chinese Companies From Undermining US Flag Industry](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![RNC Sues Milwaukee Over Poll Watcher Access](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Lawmakers Urge FTC to Stop Chinese Companies From Undermining US Flag Industry](https://img.theepochtimes.com/assets/uploads/2024/06/21/id5673315-06212024-DSC07025-Rep-Elise-Stefanik-205x123.jpg.webp)](https://www.theepochtimes.com/china/lawmakers-urge-ftc-to-stop-chinese-companies-from-undermining-us-flag-industry-5753667)
-* [Extra Security Fencing Placed at White House, Harris Residence Ahead of Election](https://www.theepochtimes.com/us/extra-security-fencing-placed-at-white-house-harris-residence-ahead-of-election-5753628)
+    ![RNC Sues Milwaukee Over Poll Watcher Access](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752892-EpochImages-9304896424-205x123.jpg.webp)](https://www.theepochtimes.com/us/rnc-sues-milwaukee-over-poll-watcher-access-5753927)
+* [Day in Photos: Ballot-Counting Underway, Strikes Picking Up, and a Volcanic Flare-Up](https://www.theepochtimes.com/article/day-in-photos-ballot-counting-underway-strikes-picking-up-and-a-volcanic-flare-up-5753606)
     
-    4hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    3hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Extra Security Fencing Placed at White House, Harris Residence Ahead of Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Day in Photos: Ballot-Counting Underway, Strikes Picking Up, and a Volcanic Flare-Up](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Extra Security Fencing Placed at White House, Harris Residence Ahead of Election](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753816-GettyImages-2182028756-LSedit-205x123.webp)](https://www.theepochtimes.com/us/extra-security-fencing-placed-at-white-house-harris-residence-ahead-of-election-5753628)
-* [US Zombie Foreclosures Drop Sharply, ‘Little or No Impact’ on Housing Markets: Report](https://www.theepochtimes.com/real-estate/us-zombie-foreclosures-drop-sharply-little-or-no-impact-on-housing-markets-report-5753227)
+    ![Day in Photos: Ballot-Counting Underway, Strikes Picking Up, and a Volcanic Flare-Up](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753930-GettyImages-2182279943-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-ballot-counting-underway-strikes-picking-up-and-a-volcanic-flare-up-5753606)
+* [Missouri Sues DOJ to Block Election Day Poll Monitors](https://www.theepochtimes.com/us/missouri-sues-doj-to-block-election-day-poll-monitors-5753836)
     
-    4hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    4hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![US Zombie Foreclosures Drop Sharply, ‘Little or No Impact’ on Housing Markets: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Missouri Sues DOJ to Block Election Day Poll Monitors](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Zombie Foreclosures Drop Sharply, ‘Little or No Impact’ on Housing Markets: Report](https://img.theepochtimes.com/assets/uploads/2024/07/10/id5683904-GettyImages-80923030KO-205x123.jpg.webp)](https://www.theepochtimes.com/real-estate/us-zombie-foreclosures-drop-sharply-little-or-no-impact-on-housing-markets-report-5753227)
-* [What We’ve Learned From Early Voting Numbers Ahead of Tuesday’s Election](https://www.theepochtimes.com/us/what-weve-learned-from-early-voting-numbers-ahead-of-tuesdays-election-5753605)
+    ![Missouri Sues DOJ to Block Election Day Poll Monitors](https://img.theepochtimes.com/assets/uploads/2024/11/01/id5752253-GettyImages-1058164718-205x123.jpg.webp)](https://www.theepochtimes.com/us/missouri-sues-doj-to-block-election-day-poll-monitors-5753836)
+* [Republicans See Optimistic Signs in Battleground Georgia](https://www.theepochtimes.com/article/republicans-see-optimistic-signs-in-battleground-georgia-5753696)
     
-    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    4hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson) and [John Haughey](https://www.theepochtimes.com/author/john-haughey)
     
-    [![What We’ve Learned From Early Voting Numbers Ahead of Tuesday’s Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Republicans See Optimistic Signs in Battleground Georgia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![What We’ve Learned From Early Voting Numbers Ahead of Tuesday’s Election](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753233-FotoJet-1-205x123.jpg.webp)](https://www.theepochtimes.com/us/what-weve-learned-from-early-voting-numbers-ahead-of-tuesdays-election-5753605)
+    ![Republicans See Optimistic Signs in Battleground Georgia](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5754003-GettyImages-2182074984-205x123.jpg.webp)](https://www.theepochtimes.com/article/republicans-see-optimistic-signs-in-battleground-georgia-5753696)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
