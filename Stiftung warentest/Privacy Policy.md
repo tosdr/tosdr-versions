@@ -382,7 +382,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v121325242.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v121365435.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Daten­schutz­erklärung
@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Gleiche Packung, weniger Inhalt: Ben’s Original Express](https://www.test.de/Verpackungsaerger-Gleiche-Packung-weniger-Inhalt-Bens-Original-Express-6001327-0/ "Verpackungsärger - Gleiche Packung, weniger Inhalt: Ben’s Original Express")
-* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
-* [Unseriöse Broker: Kunden kommen nicht an ihr Geld](https://www.test.de/Unserioese-Broker-Kunden-kommen-nicht-an-ihr-Geld-5934075-0/ "Unseriöse Broker - Kunden kommen nicht an ihr Geld")
-* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
-* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
+* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
+* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
+* [Anla­geausschüsse für grüne Fonds: Unabhängige Experten für nach­haltige Qualität](https://www.test.de/Anlageausschuesse-fuer-gruene-Fonds-Unabhaengige-Experten-fuer-nachhaltige-Qualitaet-6072446-0/ "Anlageausschüsse für grüne Fonds - Unabhängige Experten für nachhaltige Qualität")
+* [Dubioses Fest­geld: KT Investment ignorieren](https://www.test.de/Dubioses-Festgeld-KT-Investment-ignorieren-6062892-0/ "Dubioses Festgeld - KT Investment ignorieren")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Immobilien: Colonia-Anleger wurden wohl geprellt](https://www.test.de/Immobilien-Colonia-Anleger-wurden-wohl-geprellt-6126446-0/ "Immobilien - Colonia-Anleger wurden wohl geprellt")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Gleiche Packung, weniger Inhalt: Ben’s Original Express](https://www.test.de/Verpackungsaerger-Gleiche-Packung-weniger-Inhalt-Bens-Original-Express-6001327-0/ "Verpackungsärger - Gleiche Packung, weniger Inhalt: Ben’s Original Express")
-* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
-* [Unseriöse Broker: Kunden kommen nicht an ihr Geld](https://www.test.de/Unserioese-Broker-Kunden-kommen-nicht-an-ihr-Geld-5934075-0/ "Unseriöse Broker - Kunden kommen nicht an ihr Geld")
-* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
-* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
+* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
+* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
+* [Anla­geausschüsse für grüne Fonds: Unabhängige Experten für nach­haltige Qualität](https://www.test.de/Anlageausschuesse-fuer-gruene-Fonds-Unabhaengige-Experten-fuer-nachhaltige-Qualitaet-6072446-0/ "Anlageausschüsse für grüne Fonds - Unabhängige Experten für nachhaltige Qualität")
+* [Dubioses Fest­geld: KT Investment ignorieren](https://www.test.de/Dubioses-Festgeld-KT-Investment-ignorieren-6062892-0/ "Dubioses Festgeld - KT Investment ignorieren")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Immobilien: Colonia-Anleger wurden wohl geprellt](https://www.test.de/Immobilien-Colonia-Anleger-wurden-wohl-geprellt-6126446-0/ "Immobilien - Colonia-Anleger wurden wohl geprellt")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Gleiche Packung, weniger Inhalt: Ben’s Original Express](https://www.test.de/Verpackungsaerger-Gleiche-Packung-weniger-Inhalt-Bens-Original-Express-6001327-0/ "Verpackungsärger - Gleiche Packung, weniger Inhalt: Ben’s Original Express")
-* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
-* [Unseriöse Broker: Kunden kommen nicht an ihr Geld](https://www.test.de/Unserioese-Broker-Kunden-kommen-nicht-an-ihr-Geld-5934075-0/ "Unseriöse Broker - Kunden kommen nicht an ihr Geld")
-* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
-* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
+* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
+* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
+* [Anla­geausschüsse für grüne Fonds: Unabhängige Experten für nach­haltige Qualität](https://www.test.de/Anlageausschuesse-fuer-gruene-Fonds-Unabhaengige-Experten-fuer-nachhaltige-Qualitaet-6072446-0/ "Anlageausschüsse für grüne Fonds - Unabhängige Experten für nachhaltige Qualität")
+* [Dubioses Fest­geld: KT Investment ignorieren](https://www.test.de/Dubioses-Festgeld-KT-Investment-ignorieren-6062892-0/ "Dubioses Festgeld - KT Investment ignorieren")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Immobilien: Colonia-Anleger wurden wohl geprellt](https://www.test.de/Immobilien-Colonia-Anleger-wurden-wohl-geprellt-6126446-0/ "Immobilien - Colonia-Anleger wurden wohl geprellt")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Gleiche Packung, weniger Inhalt: Ben’s Original Express](https://www.test.de/Verpackungsaerger-Gleiche-Packung-weniger-Inhalt-Bens-Original-Express-6001327-0/ "Verpackungsärger - Gleiche Packung, weniger Inhalt: Ben’s Original Express")
-* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
-* [Unseriöse Broker: Kunden kommen nicht an ihr Geld](https://www.test.de/Unserioese-Broker-Kunden-kommen-nicht-an-ihr-Geld-5934075-0/ "Unseriöse Broker - Kunden kommen nicht an ihr Geld")
-* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
-* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
+* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
+* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
+* [Anla­geausschüsse für grüne Fonds: Unabhängige Experten für nach­haltige Qualität](https://www.test.de/Anlageausschuesse-fuer-gruene-Fonds-Unabhaengige-Experten-fuer-nachhaltige-Qualitaet-6072446-0/ "Anlageausschüsse für grüne Fonds - Unabhängige Experten für nachhaltige Qualität")
+* [Dubioses Fest­geld: KT Investment ignorieren](https://www.test.de/Dubioses-Festgeld-KT-Investment-ignorieren-6062892-0/ "Dubioses Festgeld - KT Investment ignorieren")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Immobilien: Colonia-Anleger wurden wohl geprellt](https://www.test.de/Immobilien-Colonia-Anleger-wurden-wohl-geprellt-6126446-0/ "Immobilien - Colonia-Anleger wurden wohl geprellt")
 
 Service Stiftung Warentest
 
