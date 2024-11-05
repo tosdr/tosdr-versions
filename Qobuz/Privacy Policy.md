@@ -127,7 +127,7 @@ The data that Xandrie collects about you is potentially transmitted outside of t
 
 To secure these transfers, Xandrie can, for example, set up standard clauses defined by the European Commission to regulate these flows.
 
-[Help](https://intercom-help.eu/qobuz/en) [Cookie settings](#)
+[Help](https://help.qobuz.com/en) [Cookie settings](#)
 
 [Web Player](https://play.qobuz.com/)
 
