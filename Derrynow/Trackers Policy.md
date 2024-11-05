@@ -284,13 +284,6 @@ Derry Magistrate's Court
 [Derry man charged with number of serious domestic abuse offences](https://www.derrynow.com/news/local-news/1646866/derry-man-charged-with-number-of-serious-domestic-abuse-offences.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1645575/derry-death-notices-monday-november-4-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, November 4, 2024](https://www.derrynow.com/news/deaths/1645575/derry-death-notices-monday-november-4-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
 [![PICTURES: Derry City fans out in force for Derry v. Shelbourne game](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Derry City fans out in force for Derry v. Shelbourne game")](https://www.derrynow.com/news/derry-sport/1646895/pictures-derry-city-fans-out-in-force-for-derry-v-shelbourne-game.html)
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
@@ -306,6 +299,15 @@ St Joseph's Church, Galliagh
 
 [Derry man charged with burglary of a parochial house remanded](https://www.derrynow.com/news/local-news/1646861/derry-man-charged-with-burglary-of-a-parochial-house-remanded.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police attending security alert in Bogside area of Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police attending security alert in Bogside area of Derry")](https://www.derrynow.com/news/local-news/1647445/police-attending-security-alert-in-bogside-area-of-derry.html)
+
+Police at the scene in Limewood Street, Derry
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police attending security alert in Bogside area of Derry](https://www.derrynow.com/news/local-news/1647445/police-attending-security-alert-in-bogside-area-of-derry.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Fun and excitement as Cullens Halloween Carnival Funfair comes to Ebrington](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Fun and excitement as Cullens Halloween Carnival Funfair comes to Ebrington")](https://www.derrynow.com/story-telling/pictures---videos/1646906/in-pictures-fun-and-excitement-as-cullens-halloween-carnival-funfair-comes-to-ebrington.html)
 
@@ -515,6 +517,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1647313/derry-death-notices-tuesday-november-5-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, November 5, 2024](https://www.derrynow.com/news/deaths/1647313/derry-death-notices-tuesday-november-5-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Police attending security alert in Bogside area of Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police attending security alert in Bogside area of Derry")](https://www.derrynow.com/news/local-news/1647445/police-attending-security-alert-in-bogside-area-of-derry.html)
 
 Police at the scene in Limewood Street, Derry
@@ -524,7 +533,7 @@ Police at the scene in Limewood Street, Derry
 [Police attending security alert in Bogside area of Derry](https://www.derrynow.com/news/local-news/1647445/police-attending-security-alert-in-bogside-area-of-derry.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry former viral sensation 'Frostbit Boy' launches company to promote charity and prize giveaways](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry former viral sensation 'Frostbit Boy' launches company to promote charity and prize giveaways")](https://www.derrynow.com/news/home/1647093/derry-former-viral-sensation-frostbit-boy-launches-company-to-promote-charity-and-prize-giveaways.html)
+[![Derry former viral sensation 'Frostbit Boy' launches company to promote charity and prize giveaways](https://www.derrynow.com/resizer/165/93/true/2024_11_04/465201612_18468325900021196_5546045872718785823_n-1730732927893.jpg--.jpg?1730732927967 "Derry former viral sensation 'Frostbit Boy' launches company to promote charity and prize giveaways")](https://www.derrynow.com/news/home/1647093/derry-former-viral-sensation-frostbit-boy-launches-company-to-promote-charity-and-prize-giveaways.html)
 
 [Home](https://www.derrynow.com/)
 
@@ -555,13 +564,6 @@ PSNI press conference on the recent attacks to women in the city
 
 [Derry PSNI 'reassurance' for women following recent attacks in city area](https://www.derrynow.com/news/derry-news/1647164/derry-psni-reassurance-for-women-following-recent-attacks-in-city-area.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![C](https://www.derrynow.com/resizer/165/93/true/1518086819560.jpg--.jpg?1518086819000 "C")](https://www.derrynow.com/news/county-derry-post/1646951/the-british-chancellors-budget-on-wednesday-has-created-anxiety-and-uncertainty-for-the-farming-community-in-the-north.html)
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[The British Chancellor’s budget on Wednesday has created anxiety and uncertainty for the farming community in the North](https://www.derrynow.com/news/county-derry-post/1646951/the-british-chancellors-budget-on-wednesday-has-created-anxiety-and-uncertainty-for-the-farming-community-in-the-north.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
