@@ -118,6 +118,7 @@ Explore by characteristic or group Select Characteristic or Group Smallest Dog B
     * [AKC Reunite Microchips](https://www.akcreunite.org/)
     * [AKC Veterinary Network](https://webapps.akc.org/vetnet/#/)
     * [AKC S.A.F.E. Grooming Program](https://akc.org/products-services/akc-safe-grooming-program/)
+    * [AKC Vetline](https://www.akc.org/products-services/akc-vetline/)
 * [Breeder Programs & Services](https://akc.org/products-services/breeder-programs/)
     * [Breeder Toolkit](https://www.akc.org/breeder-programs/akc-breeder-toolkit/)
     * [Breeder E-Z Reg](https://www.apps.akc.org/apps/ezreg/index.cfm)
