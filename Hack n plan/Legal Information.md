@@ -119,7 +119,7 @@ This Legal Notice and all those relationships that may arise between the User an
 [Legal notice](http://hacknplan.com/legal-notice-v3)  
 [Privacy policy](http://hacknplan.com/privacy-policy-v4)  
 [Cookie policy](http://hacknplan.com/legal-notice-v2/cookie-policy-v3)  
-[Terms of Service](http://hacknplan.com/terms-of-service-v3)
+[Terms of Service](http://hacknplan.com/terms-of-service-v4)
 
 * [Follow](https://www.twitter.com/hacknplan/ "Follow on Twitter")
 * [Follow](https://www.linkedin.com/company/hacknplan "Follow on LinkedIn")
