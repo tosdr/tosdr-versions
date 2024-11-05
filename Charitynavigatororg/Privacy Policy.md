@@ -410,7 +410,7 @@ Saddle Brook, NJ 07663
 
 [![bbb](/content/experience-fragments/cn/us/en/site/footer/master/_jcr_content/root/container/responsivegrid/image_455696160_copy.coreimg.svg/1657197394245/ac-s-cmyk-h-reversedwhite-w-url-01.svg)](https://give.org/charity-reviews/national/Other/Charity-Navigator-in-Glen-Rock-nj-52820)
 
-[![Candid Guidestar Platinum Seal](/content/experience-fragments/cn/us/en/site/footer/master/_jcr_content/root/container/responsivegrid/image_455696160_copy_1447565194.coreimg.png/1683206827219/candid-seal-platinum-2023.png)](https://www.charitynavigator.org/ein/134148824)
+[![Candid Guidestar Platinum Seal](/content/experience-fragments/cn/us/en/site/footer/master/_jcr_content/root/container/responsivegrid/image_455696160_copy_1447565194.coreimg.png/1730747908297/candid-seal-platinum-2024.png)](https://www.guidestar.org/Profile/13-4148824)
 
 * [Press Room](https://www.charitynavigator.org/about-us/press-room.html)
 * [Financials and Policies](https://www.charitynavigator.org/about-us/financials-and-policies.html)
