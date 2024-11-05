@@ -26,41 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-pelosi-1200x630.jpg)](https://americanwirenews.com/nancy-pelosi-stumbles-with-her-own-communication-while-accusing-trump-of-mental-decline/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-indictment-1200x630.jpg)](https://americanwirenews.com/axios-predicts-prison-in-trumps-future-if-he-loses/)
 
-[Nancy Pelosi stumbles with her own communication while accusing Trump of mental decline](https://americanwirenews.com/nancy-pelosi-stumbles-with-her-own-communication-while-accusing-trump-of-mental-decline/)
+[Axios predicts prison in Trump’s future if he loses](https://americanwirenews.com/axios-predicts-prison-in-trumps-future-if-he-loses/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-charlie-kirk-1200x630.jpg)](https://americanwirenews.com/this-one-is-going-viral-you-almost-feel-sorry-for-this-poor-uneducated-kid-challenging-charlie-kirk/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/pxbay-bacon-cbskam-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/kamala-blew-up-interview-with-muslim-influencer-over-praise-of-bacon/)
 
-[This one is going viral: You almost feel sorry for this poor uneducated kid challenging Charlie Kirk](https://americanwirenews.com/this-one-is-going-viral-you-almost-feel-sorry-for-this-poor-uneducated-kid-challenging-charlie-kirk/)
+[Kamala blew up interview with Muslim influencer over praise of bacon](https://americanwirenews.com/kamala-blew-up-interview-with-muslim-influencer-over-praise-of-bacon/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cardib-1200x630.jpg)](https://americanwirenews.com/she-mad-cardi-b-unloads-on-critics-of-bungled-kamala-rally-speech-with-expletive-rant/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jd-vance-1200x630.png)](https://americanwirenews.com/jd-vance-declares-its-time-to-take-out-the-trash-in-dc-the-trashs-name-is-kamala-harris/)
 
-[She mad! Cardi-B UNLOADS on critics of bungled Kamala rally speech with expletive rant](https://americanwirenews.com/she-mad-cardi-b-unloads-on-critics-of-bungled-kamala-rally-speech-with-expletive-rant/)
+[JD Vance declares it’s time to take out the trash in DC: ‘The trash’s name is Kamala Harris’](https://americanwirenews.com/jd-vance-declares-its-time-to-take-out-the-trash-in-dc-the-trashs-name-is-kamala-harris/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/09/SG-free-speech-1200x630.png)](https://americanwirenews.com/freedom-of-speech-is-on-this-ballot-uk-like-rules-imprisonments-for-violations-seem-imminent-with-kamala/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-chris-cuomo-sg-megyn-kelly-1200x630.jpg)](https://americanwirenews.com/chris-cuomo-refuses-order-to-cut-to-megyn-kellys-trump-rally-speech-takes-cheap-shots-at-her-instead/)
 
-[Freedom of speech is on this ballot. UK-like rules, imprisonments for violations seem imminent with Kamala](https://americanwirenews.com/freedom-of-speech-is-on-this-ballot-uk-like-rules-imprisonments-for-violations-seem-imminent-with-kamala/)
+[Chris Cuomo refuses order to cut to Megyn Kelly’s Trump rally speech, takes cheap shots at her instead](https://americanwirenews.com/chris-cuomo-refuses-order-to-cut-to-megyn-kellys-trump-rally-speech-takes-cheap-shots-at-her-instead/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cnn-trump-mic-1200x630.jpg)](https://americanwirenews.com/cnns-van-jones-sees-trumps-on-stage-behavior-as-obscene-hes-fellating-a-microphone/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-aocbigmouth-1200-x-628-1200x630.jpg)](https://americanwirenews.com/musk-trolls-aoc-after-she-gets-checked-for-promoting-false-puerto-rico-anti-trump-rally/)
 
-[CNN’s Van Jones sees Trump’s on-stage behavior as obscene ‘he’s fellating a microphone’](https://americanwirenews.com/cnns-van-jones-sees-trumps-on-stage-behavior-as-obscene-hes-fellating-a-microphone/)
+[Musk trolls AOC after she gets checked for promoting false Puerto Rico ‘anti-Trump’ rally](https://americanwirenews.com/musk-trolls-aoc-after-she-gets-checked-for-promoting-false-puerto-rico-anti-trump-rally/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hunt-mckinnon-1200x630.jpg)](https://americanwirenews.com/granny-gap-and-pssed-puerto-ricans-could-decide-the-race-says-circus-creator/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-goldberg-cheney-1200x630.jpg)](https://americanwirenews.com/quick-get-the-bucket-whoopi-tells-liz-cheney-her-moral-core-is-magnificent-she-should-lead-fbi-or-cia/)
 
-[‘Granny gap’ and ‘p\*ssed’ Puerto Ricans could decide the race, says ‘Circus’ creator](https://americanwirenews.com/granny-gap-and-pssed-puerto-ricans-could-decide-the-race-says-circus-creator/)
+[Quick, get the bucket! Whoopi tells Liz Cheney her ‘moral core is magnificent,’ she should lead FBI or CIA](https://americanwirenews.com/quick-get-the-bucket-whoopi-tells-liz-cheney-her-moral-core-is-magnificent-she-should-lead-fbi-or-cia/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-times-strike-1200x630.jpg)](https://americanwirenews.com/they-did-it-hundreds-of-new-york-times-staffers-go-on-strike-the-day-before-election/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-oprah-1200x630.png)](https://americanwirenews.com/lying-oprah-say-what-we-will-not-have-the-opportunity-to-ever-cast-a-ballot-again-if-kamala-loses/)
 
-[They did it: Hundreds of New York Times staffers go on strike the day before election](https://americanwirenews.com/they-did-it-hundreds-of-new-york-times-staffers-go-on-strike-the-day-before-election/)
+[Lying Oprah, say what?! ‘We will not have the opportunity to ever cast a ballot again,’ if Kamala loses](https://americanwirenews.com/lying-oprah-say-what-we-will-not-have-the-opportunity-to-ever-cast-a-ballot-again-if-kamala-loses/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ingraham-1200x630.jpg)](https://americanwirenews.com/tearful-moms-riveting-video-goes-viral-for-vivid-picture-of-struggling-america-under-kamala/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-musk-giveaway-1200x630.jpg)](https://americanwirenews.com/pa-judge-spanks-soros-backed-philly-da-over-musk-1-million-giveaways/)
 
-[Tearful mom’s riveting video goes viral for vivid picture of struggling America under Kamala](https://americanwirenews.com/tearful-moms-riveting-video-goes-viral-for-vivid-picture-of-struggling-america-under-kamala/)
+[PA judge spanks Soros-backed Philly DA over Musk $1 million giveaways](https://americanwirenews.com/pa-judge-spanks-soros-backed-philly-da-over-musk-1-million-giveaways/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-nfl-trump-shirt-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kam-joe-split-1200-x-628-1200x630.jpg)
 
-### NFL fan told to remove Trump T-shirt by security at Bills-Dolphins game pushes back](https://americanwirenews.com/nfl-fan-told-to-remove-trump-t-shirt-by-security-at-bills-dolphins-game-pushes-back/)
+### Excuses already being made for potential Kamala loss: ‘It’s Biden’](https://americanwirenews.com/excuses-already-being-made-for-potential-kamala-loss-its-biden/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
