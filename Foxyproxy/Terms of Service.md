@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Hi and many thanks to the entire FoxyProxy team for this ;) You sure know how to make a girl feel special - you rock! :D
+I have been happy with your proxy service and tech support for many years.
 
-Gry Alice
+Paul Kerr
