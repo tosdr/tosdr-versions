@@ -1,9 +1,9 @@
 [Skip to main content](#skipnav)
 
-[](https://www.pinsentmasons.com/ "Pinsent Masons")
+[](https://www.pinsentmasons.com/en-gb "Pinsent Masons")
 
-1. [Legal Notices](https://www.pinsentmasons.com/legal-notices) 
-2. Privacy Policy [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy) 
+1. [Legal Notices](https://www.pinsentmasons.com/en-gb/legal-notices) 
+2. Privacy Policy [Privacy Policy](https://www.pinsentmasons.com/en-gb/legal-notices/privacy-policy) 
 
 [toggle menu](# "Menu")
 
@@ -282,7 +282,7 @@ When we say 'we', 'our', 'us' or 'Pinsent Masons' in this policy, we are referri
 
 Pinsent Masons provides legal and other professional services globally via a number of entities.  These include Pinsent Masons LLP, its subsidiaries and any affiliates which practise under the name Pinsent Masons, or which Pinsent Masons LLP or its partners operate as separate businesses, e.g. Out-Law, Vario and MPillay.  
 
-For country specific information about our business, including a list of our offices and the jurisdictions in which we operate, please click [here](https://www.pinsentmasons.com/legal-notices). 
+For country specific information about our business, including a list of our offices and the jurisdictions in which we operate, please click [here](https://www.pinsentmasons.com/en-gb/legal-notices). 
 
 Our global reach means that we are subject to the differing data protection regimes of the jurisdictions in which we operate.  We strive to achieve uniformity of data protection practices across the Pinsent Masons group, whilst also complying with all data protection laws.  This policy reflects the EU GDPR standard of protection of personal information and references the relevant Articles of the EU GDPR where appropriate.  In those jurisdictions where data protection regimes differ significantly to the EU GDPR, elements of this policy may not apply, for example individuals' rights in relation to their personal information, and this policy does not establish rights or obligations which are additional to those prescribed in the applicable local data protection law.
 
@@ -300,7 +300,7 @@ We want to offer you a means of contacting the right people in our organisation 
 
 You may contact our Privacy specialists with any questions about this policy, or our Privacy practices more generally at [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection). You have rights in respect of the personal information of yours in our care.  More information about these rights is set out in section 8 of this policy.  You may exercise your rights by emailing our Privacy specialists at [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection). Whilst our team of Privacy specialists operate through our centralised business operations in the UK, for which Pinsent Masons LLP is the data controller, the team works closely with information law and data protection specialists working from PM offices across our global network.  As such, our dedicated email addresses have global reach, and your communications are directed to the appropriate data controller within the Pinsent Masons group, as appropriate. 
 
-You are of course welcome to contact any of our offices directly (relevant contact information is found [here](https://www.pinsentmasons.com/office-finder)). In addition, we have a dedicated email address for Privacy matters relating to our operations in South Africa: [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection).  (Please also see section 13.1 of this policy for more information about how we comply with applicable data protection law in South Africa.) 
+You are of course welcome to contact any of our offices directly (relevant contact information is found [here](https://www.pinsentmasons.com/en-gb/office-finder)). In addition, we have a dedicated email address for Privacy matters relating to our operations in South Africa: [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection).  (Please also see section 13.1 of this policy for more information about how we comply with applicable data protection law in South Africa.) 
 
 3.  Transfers of personal information across our business and to our suppliers
 ------------------------------------------------------------------------------
@@ -965,20 +965,20 @@ Dispute processes may vary by criminal record bureau and the relevant criminal r
 Other notices and information
 -----------------------------
 
-* [Accessibility information](https://www.pinsentmasons.com/legal-notices/accessibility)
-* [Anti-facilitation of tax evasion](https://www.pinsentmasons.com/legal-notices/anti-facilitation-of-tax-evasion-statement)
-* [Cookies notice](https://www.pinsentmasons.com/legal-notices/cookie-settings)
-* [Costs Transparency Information](https://www.pinsentmasons.com/legal-notices/costs-transparency-information)
-* [COVID-19 Risk Assessment](https://www.pinsentmasons.com/legal-notices/covid-19-risk-assessment)
-* [Legal Notices](https://www.pinsentmasons.com/legal-notices)
-* [List of members](https://www.pinsentmasons.com/legal-notices/list-of-members)
-* [Modern Slavery statement](https://www.pinsentmasons.com/legal-notices/modern-slavery)
-* [Money Laundering notice](https://www.pinsentmasons.com/legal-notices/money-laundering)
-* [Partnership Tax Strategy](https://www.pinsentmasons.com/legal-notices/partnership-tax-strategy)
-* [Pay Gap Report](https://www.pinsentmasons.com/legal-notices/pay-gap-reporting)
+* [Accessibility information](https://www.pinsentmasons.com/en-gb/legal-notices/accessibility)
+* [Anti-facilitation of tax evasion](https://www.pinsentmasons.com/en-gb/legal-notices/anti-facilitation-of-tax-evasion-statement)
+* [Cookies notice](https://www.pinsentmasons.com/en-gb/legal-notices/cookie-settings)
+* [Costs Transparency Information](https://www.pinsentmasons.com/en-gb/legal-notices/costs-transparency-information)
+* [COVID-19 Risk Assessment](https://www.pinsentmasons.com/en-gb/legal-notices/covid-19-risk-assessment)
+* [Legal Notices](https://www.pinsentmasons.com/en-gb/legal-notices)
+* [List of members](https://www.pinsentmasons.com/en-gb/legal-notices/list-of-members)
+* [Modern Slavery statement](https://www.pinsentmasons.com/en-gb/legal-notices/modern-slavery)
+* [Money Laundering notice](https://www.pinsentmasons.com/en-gb/legal-notices/money-laundering)
+* [Partnership Tax Strategy](https://www.pinsentmasons.com/en-gb/legal-notices/partnership-tax-strategy)
+* [Pay Gap Report](https://www.pinsentmasons.com/en-gb/legal-notices/pay-gap-reporting)
 * [Pinsent Masons Germany Legal notices](#)
-* [Privacy policy](https://www.pinsentmasons.com/legal-notices/privacy-policy)
-* [Statement of ethics](https://www.pinsentmasons.com/legal-notices/statement-of-ethics)
+* [Privacy policy](https://www.pinsentmasons.com/en-gb/legal-notices/privacy-policy)
+* [Statement of ethics](https://www.pinsentmasons.com/en-gb/legal-notices/statement-of-ethics)
 
 * [Sectors and what we do
     ----------------------](#)
