@@ -176,10 +176,6 @@ Recover Password Go Back
 Register
 ========
 
- 
-
-Create Account Log In
-
 Loading...
 
 ![customer account icon](//pourri.com/cdn/shop/t/801/assets/icon--nav-account-v2.svg?v=125546052516818336491730149459)
