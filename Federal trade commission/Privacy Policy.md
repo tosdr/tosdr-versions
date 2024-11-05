@@ -226,7 +226,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Takes Action Against Phantom Debt Collector That Collected Millions In Bogus Debt From Consumers](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-takes-action-against-phantom-debt-collector-collected-millions-bogus-debt-consumers)
+    ### [FTC Sends More Than $17 Million to Consumers Harmed by Brigit’s Deceptive Claims, Junk Fees, and Confusing Cancellation Process](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-sends-more-17-million-consumers-harmed-brigits-deceptive-claims-junk-fees-confusing-cancellation)
     
     November 4, 2024
     
@@ -406,31 +406,6 @@ Breadcrumb
 2. [Policy and Notices](https://www.ftc.gov/policy-notices)
 
 [Vea esta página en español](https://www.ftc.gov/es/politica-de-privacidad-0)
-
-Policy and Notices Menu
------------------------
-
-[Policy and Notices](https://www.ftc.gov/policy-notices)
---------------------------------------------------------
-
-* [Privacy Policy](https://www.ftc.gov/privacy)
-    * [Internet Cookies](https://www.ftc.gov/policy-notices/privacy-policy/internet-cookies)
-    * [Privacy Act Systems](https://www.ftc.gov/policy-notices/privacy-policy/privacy-act-systems)
-    * [Privacy Impact Assessments](https://www.ftc.gov/policy-notices/privacy-policy/privacy-impact-assessments)
-    * [Privacy Policy FAQs](https://www.ftc.gov/policy-notices/privacy-policy/privacy-policy-faqs)
-    * [Third-Party Services](https://www.ftc.gov/policy-notices/privacy-policy/third-party-services)
-    * [Make a Privacy Act Request](https://www.ftc.gov/policy-notices/privacy-policy/make-privacy-act-request)
-* [Website Policy](https://www.ftc.gov/policy-notices/website-policy)
-* [Accessibility](https://www.ftc.gov/policy-notices/accessibility)
-* [Digital Government Strategy](https://www.ftc.gov/policy-notices/digital-government-strategy)
-* [Notification and Federal Employee Antidiscrimination and Retaliation Act (No FEAR) P.L. 107-174](https://www.ftc.gov/policy-notices/no-fear-act)
-* [Open Government](https://www.ftc.gov/policy-notices/open-government)
-* [Artificial Intelligence Compliance Plan](https://www.ftc.gov/ai)
-* [Controlled Unclassified Information (CUI)](https://www.ftc.gov/policy-notices/controlled-unclassified-information)
-* [Plain Writing](https://www.ftc.gov/policy-notices/plain-writing)
-* [Small Business Non-retaliation Policy](https://www.ftc.gov/system/files?file=attachments/site-information/small_business_non-retaliation_policy_3-12-19.pdf)
-* [Transition to Internet Protocol version 6 (IPV6)](https://www.ftc.gov/system/files?file=attachments/site-information/ipv6_memorandum_signed.pdf)
-* [Vulnerability Disclosure Policy](https://www.ftc.gov/policy-notices/vulnerability-disclosure-policy)
 
 What Does the FTC Do with Your Personal Information?
 ----------------------------------------------------
