@@ -351,16 +351,25 @@ Change Log
 1. [](https://1password.com/)
 2. [Terms of Service](https://1password.com/legal/terms-of-service)
 
-* [English](https://1password.com/legal/terms-of-service)
-* [Deutsch](https://1password.com/de/legal/terms-of-service)
-* [Español](https://1password.com/es/legal/terms-of-service)
-* [Français](https://1password.com/fr/legal/terms-of-service)
-* [Italiano](https://1password.com/it/legal/terms-of-service)
-* [日本語](https://1password.com/jp/legal/terms-of-service)
-* [한국어](https://1password.com/ko/legal/terms-of-service)
-* [Português](https://1password.com/pt/legal/terms-of-service)
-* [简体中文](https://1password.com/zh-cn/legal/terms-of-service)
-* [繁體中文](https://1password.com/zh-tw/legal/terms-of-service)
+English
+
+Deutsch
+
+Español
+
+Français
+
+Italiano
+
+日本語
+
+한국어
+
+Português
+
+简体中文
+
+繁體中文
 
 English
 
