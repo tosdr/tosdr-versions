@@ -212,7 +212,7 @@ Company
 * [Shared Responsibility Model](https://render.com/shared-responsibility-model)
 * [Terms Of Use](https://render.com/terms)
 
-* [Twitter](https://twitter.com/render)
+* [X](https://x.com/render)
 * [LinkedIn](https://www.linkedin.com/company/renderco/)
 * [GitHub](https://github.com/renderinc)
 
