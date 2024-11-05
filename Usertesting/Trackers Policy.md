@@ -251,8 +251,6 @@ Main navigation
                 
             * [Costa Coffee](https://www.usertesting.com/resources/customers/subway)
                 
-            * [EssilorLuxottica](https://www.usertesting.com/resources/customers/essilorluxottica-usertesting)
-                
             * [Panera Bread](https://www.usertesting.com/resources/customers/amazon-seller-central)
                 
             
