@@ -73,7 +73,9 @@
                 * [Certification Program](https://www.rainforest-alliance.org/for-business/2020-certification-program/)Designed to deliver most value to the farmers and companies that use Rainforest Alliance Certification.
         * * [More about...](#)
             * [Our Commodities](https://rainforest-alliance.org/commodity)
-            * [UTZ Certification](https://rainforest-alliance.org/utz/)
+            * [Tailored Services](https://rainforest-alliance.org/business/tailored-services/)
+            * [Marketing Sustainability](https://rainforest-alliance.org/business/marketing-sustainability/)
+            * [For Partners](https://rainforest-alliance.org/resources-for-partners/)
             
             * [Why Certification?](https://rainforest-alliance.org/why-certification/)
             * Considering getting certified? Learn how Rainforest Alliance certification can help people, nature, and your business
