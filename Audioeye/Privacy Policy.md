@@ -310,7 +310,7 @@ Start Free Trial
 PRIVACY POLICY
 ==============
 
-**Last Revised: Nov 4, 2023**
+**Last Revised: Nov 4, 2024**
 
 AudioEye® is committed to improving the lives of those with disabilities. Central to this mission is our commitment to transparency about the data we collect, how it is used, and with whom it is shared. Safeguarding the personal information of visitors to our website and websites using the AudioEye products and services is extremely important to us.
 
