@@ -73,7 +73,7 @@ Terms of Service (“TOS”)
 
 ### Welcome.
 
-These terms of service (“**TOS**”) apply to you and Rovio Entertainment Corporation, address Keilaranta 7, 02150 Espoo, Finland, (“**Rovio**”) regarding your use of Rovio´s games, websites, discussion forums, and related services (“**Services**“). Use of the Services is also governed by Rovio’s Privacy Notice (available at [https://www.rovio.com/privacy](https://www.rovio.com/privacy)), which is incorporated by reference.
+These terms of service (“**TOS**”) apply to you and Rovio Entertainment Limited, address Keilaranta 7, 02150 Espoo, Finland, (“**Rovio**”) regarding your use of Rovio´s games, websites, discussion forums, and related services (“**Services**“). Use of the Services is also governed by Rovio’s Privacy Notice (available at [https://www.rovio.com/privacy](https://www.rovio.com/privacy)), which is incorporated by reference.
 
 **For United States residents, these TOS contain a binding arbitration clause in Section “Binding Arbitration / Class Waiver” and a class-action waiver that affects your rights about how to resolve disputes. If you live in the United States, please read it carefully. Except where you opt out, and except for certain types of disputes described in Section** **“Binding Arbitration / Class Waiver”****, you agree that any disputes arising between you and Rovio will be resolved by binding, individual arbitration and you waive your right to participate in any class-action lawsuit or class-wide arbitration.**
 
@@ -188,9 +188,9 @@ then both parties agree that a party may seek injunctive remedies (or an equival
 
 To the extent permissible under applicable law, all Disputes shall be resolved by binding confidential arbitration on an individual basis. You expressly agree that no other Disputes shall be consolidated or joined with your Dispute, whether through class arbitration proceedings or otherwise. **You and Rovio agree that there is no right or authority for any dispute to be arbitrated on a class-action basis or to utilize class action procedures, there is no right or authority for any dispute to be brought in a purported representative capacity or as a private attorney general, and no arbitration shall be joined with any other arbitration.**
 
-You may opt out of this obligation to arbitrate. If you do so, neither you nor Rovio can require the other to participate in an arbitration proceeding. To opt out, you must notify Rovio in writing within 30 days of the date that you first became subject to this arbitration provision. You must use this address to opt out: Rovio Entertainment Corporation, ATTN: Legal Department, Keilaranta 7, 02150 Espoo, Finland. You must include your name and residence address and a clear statement that you want to opt out of this arbitration clause.
+You may opt out of this obligation to arbitrate. If you do so, neither you nor Rovio can require the other to participate in an arbitration proceeding. To opt out, you must notify Rovio in writing within 30 days of the date that you first became subject to this arbitration provision. You must use this address to opt out: Rovio Entertainment Limited, ATTN: Legal Department, Keilaranta 7, 02150 Espoo, Finland. You must include your name and residence address and a clear statement that you want to opt out of this arbitration clause.
 
-To begin an arbitration proceeding, you must send a letter to: Rovio Entertainment Corporation, ATTN: Legal Department, Keilaranta 7, 02150 Espoo, Finland requesting arbitration and describing your claim.
+To begin an arbitration proceeding, you must send a letter to: Rovio Entertainment Limited, ATTN: Legal Department, Keilaranta 7, 02150 Espoo, Finland requesting arbitration and describing your claim.
 
 Rovio will provide 30-days’ notice of any changes to this Section “Binding Arbitration / Class Waiver” through the Services or via other similar means. Changes will become effective on the 30th day and will apply prospectively only to any claims arising after the 30th day.
 
@@ -222,7 +222,7 @@ You agree to indemnify, defend and hold Rovio and its subsidiaries (and Rovio’
 
 ### 13\. Copyright and DMCA
 
-If you believe the Services or any of its content infringes your copyrights, please send a notice to: Rovio Entertainment Corporation, Legal Department, Keilaranta 7, 02150 Espoo, Finland or alternatively via email to: legal@rovio.com. Notices sent to the specified address will reach Rovio’s registered DMCA agent.
+If you believe the Services or any of its content infringes your copyrights, please send a notice to: Rovio Entertainment Limited, Legal Department, Keilaranta 7, 02150 Espoo, Finland or alternatively via email to: legal@rovio.com. Notices sent to the specified address will reach Rovio’s registered DMCA agent.
 
 Please include all of the following in your DMCA notice:
 
