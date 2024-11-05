@@ -59,7 +59,6 @@ Previous Next
     * [Router or Mesh System](https://www.netgear.com/home/discover/router-vs-mesh-wifi/)
     * [WiFi 7](https://www.netgear.com/home/discover/wifi7/)
     * [WiFi 6E](https://www.netgear.com/home/wifi/wifi6e/)
-    * [WiFi 6](https://www.netgear.com/home/discover/wifi6/)
     * [What is Mesh WiFi?](https://www.netgear.com/hub/technology/what-is-mesh-wifi/)
     * [5G Mobile WiFi](https://www.netgear.com/home/mobile-wifi/portable-wifi/)
     * [Tri-Band / Quad-Band WiFi](https://www.netgear.com/home/wifi/mesh/tri-band-quad-band/)
@@ -123,7 +122,6 @@ Previous Next
     
     Support
     
-    * [NETGEAR ProSupport](https://www.netgear.com/business/services/prosupport/)
     * [Pro WiFi Design Services](https://www.netgear.com/av/services/prowifi-designsupport/)
     
     RESOURCES
@@ -369,7 +367,6 @@ Previous Next
 * [Router or Mesh System](https://www.netgear.com/home/discover/router-vs-mesh-wifi/)
 * [WiFi 7](https://www.netgear.com/home/discover/wifi7/)
 * [WiFi 6E](https://www.netgear.com/home/wifi/wifi6e/)
-* [WiFi 6](https://www.netgear.com/home/discover/wifi6/)
 * [What is Mesh WiFi?](https://www.netgear.com/hub/technology/what-is-mesh-wifi/)
 * [5G Mobile WiFi](https://www.netgear.com/home/mobile-wifi/portable-wifi/)
 * [Tri-Band / Quad-Band WiFi](https://www.netgear.com/home/wifi/mesh/tri-band-quad-band/)
@@ -429,7 +426,6 @@ Shop By Brand :
 
 [Support](#navdrop15)
 
-* [NETGEAR ProSupport](https://www.netgear.com/business/services/prosupport/)
 * [Pro WiFi Design Services](https://www.netgear.com/av/services/prowifi-designsupport/)
 
 [RESOURCES](#navdrop16)
