@@ -93,6 +93,18 @@ We use a third party to provide monetization technologies for our site. You can 
 [News](https://www.online-tech-tips.com/category/news/)
 -------------------------------------------------------
 
+[![WhatsApp Messenger on an Android smartphone - whatsapp-messenger-on-an-android-phone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "whatsapp-messenger-on-an-android-phone - Online Tech Tips")
+
+![WhatsApp Messenger on an Android smartphone - whatsapp-messenger-on-an-android-phone](https://www.online-tech-tips.com/wp-content/uploads/2024/11/whatsapp-messenger-on-an-android-phone-300x200.jpg "whatsapp-messenger-on-an-android-phone - Online Tech Tips")](https://www.online-tech-tips.com/whatsapp-introduces-custom-lists-for-better-chat-filtering/)
+
+[News](https://www.online-tech-tips.com/category/news/) · 2 min read
+
+### [WhatsApp Introduces “Custom Lists” for Better Chat Filtering](https://www.online-tech-tips.com/whatsapp-introduces-custom-lists-for-better-chat-filtering/)
+
+WhatsApp’s latest feature, Custom Lists, permits the creation of custom categories for chat filtering. Previously, WhatsApp had only three chat…
+
+Sodiq Olanrewaju · Nov 4, 2024
+
 [![ChatGPT web search icon - chatgpt-web-search-icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "chatgpt-web-search-icon - Online Tech Tips")
 
 ![ChatGPT web search icon - chatgpt-web-search-icon](https://www.online-tech-tips.com/wp-content/uploads/2024/10/chatgpt-web-search-icon-300x200.png "chatgpt-web-search-icon - Online Tech Tips")](https://www.online-tech-tips.com/openai-launches-chatgpt-search-to-battle-google-and-bing-search/)
@@ -117,9 +129,7 @@ WhatsApp is introducing a new way for users to save and manage contacts on their
 
 Sodiq Olanrewaju · Oct 29, 2024
 
-[![Person wearing a Samsung Galaxy Watch whose screen displays a "Watch updated to One UI 6.0 Watch." message - person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch - Online Tech Tips")
-
-![Person wearing a Samsung Galaxy Watch whose screen displays a "Watch updated to One UI 6.0 Watch." message - person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch](https://www.online-tech-tips.com/wp-content/uploads/2024/10/person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch.png "person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch - Online Tech Tips")](https://www.online-tech-tips.com/samsung-releases-stable-one-ui-6-watch-update/)
+[![Person wearing a Samsung Galaxy Watch whose screen displays a "Watch updated to One UI 6.0 Watch." message - person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch](https://www.online-tech-tips.com/wp-content/uploads/2024/10/person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch.png "person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch - Online Tech Tips")](https://www.online-tech-tips.com/samsung-releases-stable-one-ui-6-watch-update/)
 
 [News](https://www.online-tech-tips.com/category/news/) · 2 min read
 
@@ -128,16 +138,6 @@ Sodiq Olanrewaju · Oct 29, 2024
 After several months of development, Samsung is releasing the stable version of the Wear OS 5-based One UI 6 Watch.…
 
 Sodiq Olanrewaju · Oct 28, 2024
-
-[![Android phone with the Google Chrome logo on-screen - android-phone-with-the-google-chrome-logo-on-screen](https://www.online-tech-tips.com/wp-content/uploads/2024/10/android-phone-with-the-google-chrome-logo-on-screen.jpg "android-phone-with-the-google-chrome-logo-on-screen - Online Tech Tips")](https://www.online-tech-tips.com/chrome-for-android-gets-listen-to-this-page-mode-with-background-playback/)
-
-[News](https://www.online-tech-tips.com/category/news/) · 2 min read
-
-### [Chrome for Android Gets “Listen to this page” Mode (with Background Playback)](https://www.online-tech-tips.com/chrome-for-android-gets-listen-to-this-page-mode-with-background-playback/)
-
-Months ago, Google introduced “Listen to this page” mode in Chrome (for Android) as an experimental flag. The accessibility feature…
-
-Sodiq Olanrewaju · Oct 22, 2024
 
 [VIEW MORE POSTS](https://www.online-tech-tips.com/category/news/)
 
@@ -183,6 +183,14 @@ Get daily tips, tricks, guides, and special offers delivered right to your inbox
 
 #### Recent Articles
 
+* [![ - preview-media-1-snapchat-featured](https://www.online-tech-tips.com/wp-content/uploads/2024/11/preview-media-1-snapchat-featured-130x85.png "preview-media-1-snapchat-featured - Online Tech Tips")](https://www.online-tech-tips.com/how-to-see-mutual-friends-on-snapchat/ "How to See Mutual Friends On Snapchat")
+    
+    [How to See Mutual Friends On Snapchat](https://www.online-tech-tips.com/how-to-see-mutual-friends-on-snapchat/ "How to See Mutual Friends On Snapchat")Nov 4, 2024
+    
+* [![WhatsApp Messenger on an Android smartphone - whatsapp-messenger-on-an-android-phone](https://www.online-tech-tips.com/wp-content/uploads/2024/11/whatsapp-messenger-on-an-android-phone-130x85.jpg "whatsapp-messenger-on-an-android-phone - Online Tech Tips")](https://www.online-tech-tips.com/whatsapp-introduces-custom-lists-for-better-chat-filtering/ "WhatsApp Introduces “Custom Lists” for Better Chat Filtering")
+    
+    [WhatsApp Introduces “Custom Lists” for Better Chat Filtering](https://www.online-tech-tips.com/whatsapp-introduces-custom-lists-for-better-chat-filtering/ "WhatsApp Introduces “Custom Lists” for Better Chat Filtering")Nov 4, 2024
+    
 * [![ChatGPT web search icon - chatgpt-web-search-icon](https://www.online-tech-tips.com/wp-content/uploads/2024/10/chatgpt-web-search-icon-130x85.png "chatgpt-web-search-icon - Online Tech Tips")](https://www.online-tech-tips.com/openai-launches-chatgpt-search-to-battle-google-and-bing-search/ "OpenAI Launches ChatGPT Search to Battle Google and Bing Search")
     
     [OpenAI Launches ChatGPT Search to Battle Google and Bing Search](https://www.online-tech-tips.com/openai-launches-chatgpt-search-to-battle-google-and-bing-search/ "OpenAI Launches ChatGPT Search to Battle Google and Bing Search")Nov 1, 2024
@@ -190,14 +198,6 @@ Get daily tips, tricks, guides, and special offers delivered right to your inbox
 * [![WhatsApp application on an Android phone overlayed by a WhatsApp logo - whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo](https://www.online-tech-tips.com/wp-content/uploads/2024/10/whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo-1-130x85.png "whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo - Online Tech Tips")](https://www.online-tech-tips.com/whatsapp-launches-cloud-based-contact-managment-feature/ "WhatsApp Launches Cloud-Based Contact Managment Feature")
     
     [WhatsApp Launches Cloud-Based Contact Managment Feature](https://www.online-tech-tips.com/whatsapp-launches-cloud-based-contact-managment-feature/ "WhatsApp Launches Cloud-Based Contact Managment Feature")Oct 29, 2024
-    
-* [![Person wearing a Samsung Galaxy Watch whose screen displays a "Watch updated to One UI 6.0 Watch." message - person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch](https://www.online-tech-tips.com/wp-content/uploads/2024/10/person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch-130x85.png "person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch - Online Tech Tips")](https://www.online-tech-tips.com/samsung-releases-stable-one-ui-6-watch-update/ "Samsung Releases Stable One UI 6 Watch Update")
-    
-    [Samsung Releases Stable One UI 6 Watch Update](https://www.online-tech-tips.com/samsung-releases-stable-one-ui-6-watch-update/ "Samsung Releases Stable One UI 6 Watch Update")Oct 28, 2024
-    
-* [![Android phone with the Google Chrome logo on-screen - android-phone-with-the-google-chrome-logo-on-screen](https://www.online-tech-tips.com/wp-content/uploads/2024/10/android-phone-with-the-google-chrome-logo-on-screen-130x85.jpg "android-phone-with-the-google-chrome-logo-on-screen - Online Tech Tips")](https://www.online-tech-tips.com/chrome-for-android-gets-listen-to-this-page-mode-with-background-playback/ "Chrome for Android Gets “Listen to this page” Mode (with Background Playback)")
-    
-    [Chrome for Android Gets “Listen to this page” Mode (with Background Playback)](https://www.online-tech-tips.com/chrome-for-android-gets-listen-to-this-page-mode-with-background-playback/ "Chrome for Android Gets “Listen to this page” Mode (with Background Playback)")Oct 22, 2024
     
 
 [![Online Tech Tips](/wp-content/themes/ott/images/ott-banner.png)](https://www.online-tech-tips.com/)
