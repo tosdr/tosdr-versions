@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [American Politics: Judgement Day, Thr… (7,373)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Judgement Day, Thread the First" (7,373 posts)")
-* [Nickname AN's flag (247)](https://forum.nationstates.net/viewtopic.php?t=557547&f=25&view=unread#unread ""Nickname AN's flag" (247 posts)")
-* [Your Nation's Leader Survey (867)](https://forum.nationstates.net/viewtopic.php?t=372815&f=23&view=unread#unread ""Your Nation's Leader Survey" (867 posts)")
-* [The United Powers Assembly Hall (1,398)](https://forum.nationstates.net/viewtopic.php?t=550052&f=5&view=unread#unread ""The United Powers Assembly Hall" (1,398 posts)")
-* [Ukrainian War VII: Everything has a p… (8,650)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (8,650 posts)")
+* [American Politics: Judgement Day, Thr… (7,528)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Judgement Day, Thread the First" (7,528 posts)")
+* [2023-24 Israel-Iran proxy conflict (1,231)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (1,231 posts)")
+* [\[DISCUSSION\] on reclaiming slurs (11)](https://forum.nationstates.net/viewtopic.php?t=557922&f=16&view=unread#unread ""[DISCUSSION] on reclaiming slurs" (11 posts)")
+* [What do you love about AN? (1,760)](https://forum.nationstates.net/viewtopic.php?t=551356&f=25&view=unread#unread ""What do you love about AN?" (1,760 posts)")
+* [Is AN’s flag a flag? (7,923)](https://forum.nationstates.net/viewtopic.php?t=495404&f=25&view=unread#unread ""Is AN’s flag a flag?" (7,923 posts)")
 
 Advertisement
 
