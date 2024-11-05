@@ -136,35 +136,35 @@ For specific information about Mediavine Partners, the data each collects and th
 
 ##### Recent Posts
 
-[](https://ygorganization.com/more-quarter-century-bonanza-reprints-tcg/ "More Quarter Century Bonanza Reprints [TCG]")
+[](https://ygorganization.com/two-alternative-artworks-for-terminal-world-2-tw02/ "Two Alternative Artworks For Terminal World 2 [TW02]")
 
-#### [More Quarter Century Bonanza Reprints \[TCG\]](https://ygorganization.com/more-quarter-century-bonanza-reprints-tcg/)
+#### [Two Alternative Artworks For Terminal World 2 \[TW02\]](https://ygorganization.com/two-alternative-artworks-for-terminal-world-2-tw02/)
 
-October 30, 2024
+November 4, 2024
 
-[](https://ygorganization.com/cdp_pendulumnominon/ "CDP: Supreme King Odd-Eyes Performapal Magician with Odd-Eyes Solblaze Dragon")
+[](https://ygorganization.com/airtosky/ "Take To The Sky With “Air Hummingbird” And “Sky Neos”! [RD/KP19]")
 
-#### [CDP: Supreme King Odd-Eyes Performapal Magician with Odd-Eyes Solblaze Dragon](https://ygorganization.com/cdp_pendulumnominon/)
+#### [Take To The Sky With “Air Hummingbird” And “Sky Neos”! \[RD/KP19\]](https://ygorganization.com/airtosky/)
 
-October 30, 2024
+November 4, 2024
 
-[](https://ygorganization.com/reinforce-your-frontline-with-support-unit-kumamimi-rd-kp19/ "Reinforce Your Frontline With “Support Unit – Kumamimi”! [RD/KP19]")
+[](https://ygorganization.com/redalertlaudryplushie/ "[MERCHANDISE] Yu-Gi-Oh! Card Game 25th Anniversary × Don Quijote collaboration part 4")
 
-#### [Reinforce Your Frontline With “Support Unit – Kumamimi”! \[RD/KP19\]](https://ygorganization.com/reinforce-your-frontline-with-support-unit-kumamimi-rd-kp19/)
+#### [\[MERCHANDISE\] Yu-Gi-Oh! Card Game 25th Anniversary × Don Quijote collaboration part 4](https://ygorganization.com/redalertlaudryplushie/)
 
-October 30, 2024
+November 4, 2024
 
-[](https://ygorganization.com/various-contents-of-quarter-century-bonanza-tcg/ "Various Contents of Quarter Century Bonanza [TCG]")
+[](https://ygorganization.com/cards-from-episode-132-go-rush/ "Cards from Episode 132 [GO RUSH!!]")
 
-#### [Various Contents of Quarter Century Bonanza \[TCG\]](https://ygorganization.com/various-contents-of-quarter-century-bonanza-tcg/)
+#### [Cards from Episode 132 \[GO RUSH!!\]](https://ygorganization.com/cards-from-episode-132-go-rush/)
 
-October 30, 2024
+November 3, 2024
 
-[](https://ygorganization.com/legendary-lord-six-samurai-shi-en-playmat-tcg/ "Legendary Lord Six Samurai – Shi En Playmat [TCG]")
+[](https://ygorganization.com/cdp_vampiredelta/ "CDP: Vampire’s Ghost Fusion, ft. Delta of Temptation and Flying Mary, the Wandering Ghost Ship")
 
-#### [Legendary Lord Six Samurai – Shi En Playmat \[TCG\]](https://ygorganization.com/legendary-lord-six-samurai-shi-en-playmat-tcg/)
+#### [CDP: Vampire’s Ghost Fusion, ft. Delta of Temptation and Flying Mary, the Wandering Ghost Ship](https://ygorganization.com/cdp_vampiredelta/)
 
-October 30, 2024
+November 3, 2024
 
 [Facebook](https://www.facebook.com/ygorganization) [X (Twitter)](https://twitter.com/ygorganization) [YouTube](https://www.youtube.com/@TheOrganization) [Discord](https://discord.gg/theorganization) [RSS](https://ygorganization.com/feed/)
 
