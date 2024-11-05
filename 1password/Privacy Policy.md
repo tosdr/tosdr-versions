@@ -390,16 +390,25 @@ Change log
 2. [Legal](https://1password.com/legal)
 3. [Privacy Policy](https://1password.com/legal/privacy)
 
-* [English](https://1password.com/legal/privacy)
-* [Deutsch](https://1password.com/de/legal/privacy)
-* [Español](https://1password.com/es/legal/privacy)
-* [Français](https://1password.com/fr/legal/privacy)
-* [Italiano](https://1password.com/it/legal/privacy)
-* [日本語](https://1password.com/jp/legal/privacy)
-* [한국어](https://1password.com/ko/legal/privacy)
-* [Português](https://1password.com/pt/legal/privacy)
-* [简体中文](https://1password.com/zh-cn/legal/privacy)
-* [繁體中文](https://1password.com/zh-tw/legal/privacy)
+English
+
+Deutsch
+
+Español
+
+Français
+
+Italiano
+
+日本語
+
+한국어
+
+Português
+
+简体中文
+
+繁體中文
 
 English
 
