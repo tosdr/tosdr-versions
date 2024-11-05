@@ -20,16 +20,16 @@ Tuesday, November 5 2024
 
 Latest
 
-* [Best Buy Is Having a Buy One, Get One Sale on Tech Products](https://digitpatrox.com/best-buy-is-having-a-buy-one-get-one-sale-on-tech-products/)
-* [How to Protect Your Car on Halloween](https://digitpatrox.com/how-to-protect-your-car-on-halloween/)
-* [Today’s NYT Connections Hints and Answer for November 4 (#512)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-4-512/)
-* [All the news and updates as they happen](https://digitpatrox.com/all-the-news-and-updates-as-they-happen-4/)
-* [8 Easy Content Calendar Templates You Can Use for Free](https://digitpatrox.com/8-easy-content-calendar-templates-you-can-use-for-free/)
-* [These 5 moves promise to release tension in your back and hips — here’s what happened when I tried them](https://digitpatrox.com/these-5-moves-promise-to-release-tension-in-your-back-and-hips-heres-what-happened-when-i-tried-them/)
-* [DocuSign’s Envelopes API abused to send realistic fake invoices](https://digitpatrox.com/docusigns-envelopes-api-abused-to-send-realistic-fake-invoices/)
-* [What time do Black Friday deals start at Amazon, Walmart, and other retailers?](https://digitpatrox.com/what-time-do-black-friday-deals-start-at-amazon-walmart-and-other-retailers/)
-* [NYT Strands Today: Hints, Answers & Spangram for November 5](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-5/)
-* [“There is no one model to rule every scenario”: GitHub will now let developers use AI models from Anthropic, Google, and OpenAI](https://digitpatrox.com/there-is-no-one-model-to-rule-every-scenario-github-will-now-let-developers-use-ai-models-from-anthropic-google-and-openai/)
+* [Schneider Electric confirms breach after hacker claims to have 40GB of stolen data](https://digitpatrox.com/schneider-electric-confirms-breach-after-hacker-claims-to-have-40gb-of-stolen-data/)
+* [The complete guide – Computerworld](https://digitpatrox.com/the-complete-guide-computerworld/)
+* [Apple Will Fix Your iPhone 14 Plus’ Camera for Free](https://digitpatrox.com/apple-will-fix-your-iphone-14-plus-camera-for-free/)
+* [7 Best Free Open-source Hypervisors](https://digitpatrox.com/7-best-free-open-source-hypervisors/)
+* [Best Matching Washer & Dryer Sets](https://digitpatrox.com/best-matching-washer-dryer-sets/)
+* [These Games Prove There’s a “Right Way” to Use Modern AI in Gaming](https://digitpatrox.com/these-games-prove-theres-a-right-way-to-use-modern-ai-in-gaming/)
+* [Data centers will be critical to UK economic growth in the coming decade – but researchers have warned of a ‘data doomsday’ unless energy infrastructure is improved](https://digitpatrox.com/data-centers-will-be-critical-to-uk-economic-growth-in-the-coming-decade-but-researchers-have-warned-of-a-data-doomsday-unless-energy-infrastructure-is-improved/)
+* [Harness the Power of Data Science & Machine Learning from Home](https://digitpatrox.com/harness-the-power-of-data-science-machine-learning-from-home/)
+* [‘Outer Banks’ future on Netflix revealed — there’s good and bad news](https://digitpatrox.com/outer-banks-future-on-netflix-revealed-theres-good-and-bad-news/)
+* [Schneider Electric confirms dev platform breach after hacker steals data](https://digitpatrox.com/schneider-electric-confirms-dev-platform-breach-after-hacker-steals-data/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01JBWHFFN3CM55F6QWVJHB3C5F/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/best-buy-is-having-a-buy-one-get-one-sale-on-tech-products/)
+* [![](https://cdn.mos.cms.futurecdn.net/QZPkN8TuSPnJJnNkbeFYLk-1200-80.jpg)](https://digitpatrox.com/schneider-electric-confirms-breach-after-hacker-claims-to-have-40gb-of-stolen-data/)
     
-    [Best Buy Is Having a Buy One, Get One Sale on Tech Products](https://digitpatrox.com/best-buy-is-having-a-buy-one-get-one-sale-on-tech-products/)
+    [Schneider Electric confirms breach after hacker claims to have 40GB of stolen data](https://digitpatrox.com/schneider-electric-confirms-breach-after-hacker-claims-to-have-40gb-of-stolen-data/)
     
-    6 mins ago
+    14 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1570460426/prod/content/dam/CRO%20Images%202019/Cars/October/CR-Cars-Inlinehero-keep-car-safe-on-halloween-1019)](https://digitpatrox.com/how-to-protect-your-car-on-halloween/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/1709343-0-70572900-1730809977-protection_privacy_locks_security_cybersecurity-100747430-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/the-complete-guide-computerworld/)
     
-    [How to Protect Your Car on Halloween](https://digitpatrox.com/how-to-protect-your-car-on-halloween/)
+    [The complete guide – Computerworld](https://digitpatrox.com/the-complete-guide-computerworld/)
     
-    17 mins ago
+    35 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/nyt-connections-game-icon-on-a-phone-screen-and-several-magnifying-glasses-and-question-marks-around-it.jpg)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-4-512/)
+* [![](https://lifehacker.com/imagery/articles/01JBWDT8CVKY20SBR3TB00MAPS/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/apple-will-fix-your-iphone-14-plus-camera-for-free/)
     
-    [Today’s NYT Connections Hints and Answer for November 4 (#512)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-4-512/)
+    [Apple Will Fix Your iPhone 14 Plus’ Camera for Free](https://digitpatrox.com/apple-will-fix-your-iphone-14-plus-camera-for-free/)
     
-    18 mins ago
+    1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/LYWHzTvaR4fdwvepRyb9ig-1200-80.jpg)](https://digitpatrox.com/all-the-news-and-updates-as-they-happen-4/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Best-Free-Open-source-Hypervisors.jpeg)](https://digitpatrox.com/7-best-free-open-source-hypervisors/)
     
-    [All the news and updates as they happen](https://digitpatrox.com/all-the-news-and-updates-as-they-happen-4/)
+    [7 Best Free Open-source Hypervisors](https://digitpatrox.com/7-best-free-open-source-hypervisors/)
     
-    57 mins ago
+    1 hour ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/11/content-calendar-templates-featured-image-11022024-min.png)](https://digitpatrox.com/8-easy-content-calendar-templates-you-can-use-for-free/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729276633/prod/content/dam/CRO-Images-2024/Appliances/CR-Appliances-InlineHero-Matching-Washer-Dryer-Sets-Update-1024)](https://digitpatrox.com/best-matching-washer-dryer-sets/)
     
-    [8 Easy Content Calendar Templates You Can Use for Free](https://digitpatrox.com/8-easy-content-calendar-templates-you-can-use-for-free/)
+    [Best Matching Washer & Dryer Sets](https://digitpatrox.com/best-matching-washer-dryer-sets/)
     
-    59 mins ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [6 mins ago
+* [14 mins ago
     
-    ### Best Buy Is Having a Buy One, Get One Sale on Tech Products](https://digitpatrox.com/best-buy-is-having-a-buy-one-get-one-sale-on-tech-products/)
-* [17 mins ago
+    ### Schneider Electric confirms breach after hacker claims to have 40GB of stolen data](https://digitpatrox.com/schneider-electric-confirms-breach-after-hacker-claims-to-have-40gb-of-stolen-data/)
+* [35 mins ago
     
-    ### How to Protect Your Car on Halloween](https://digitpatrox.com/how-to-protect-your-car-on-halloween/)
-* [18 mins ago
+    ### The complete guide – Computerworld](https://digitpatrox.com/the-complete-guide-computerworld/)
+* [1 hour ago
     
-    ### Today’s NYT Connections Hints and Answer for November 4 (#512)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-4-512/)
+    ### Apple Will Fix Your iPhone 14 Plus’ Camera for Free](https://digitpatrox.com/apple-will-fix-your-iphone-14-plus-camera-for-free/)
 
 Most Popular Topics
 
-* [September 4, 2024
+* [October 3, 2024
     
-    ### It looks like we’re stuck with Windows Recall: Microsoft confirms option to uninstall was just a ‘bug’](https://digitpatrox.com/it-looks-like-were-stuck-with-windows-recall-microsoft-confirms-option-to-uninstall-was-just-a-bug/)
-* [October 2, 2024
+    ### How to upgrade to Windows 11 24H2](https://digitpatrox.com/how-to-upgrade-to-windows-11-24h2/)
+* [October 1, 2024
     
-    ### 5 Best Automotive CRM Software for 2024](https://digitpatrox.com/5-best-automotive-crm-software-for-2024/)
-* [September 7, 2024
+    ### Emerson and Nozomi Networks announce expanded partnership](https://digitpatrox.com/emerson-and-nozomi-networks-announce-expanded-partnership/)
+* [September 5, 2024
     
-    ### The Best Foldable, but for How Long? OnePlus Open 2024 Review](https://digitpatrox.com/the-best-foldable-but-for-how-long-oneplus-open-2024-review/)
+    ### How to enable Gamepad keyboard layout on Windows 11](https://digitpatrox.com/how-to-enable-gamepad-keyboard-layout-on-windows-11/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### DocuSign’s Envelopes API abused to send realistic fake invoices](https://digitpatrox.com/docusigns-envelopes-api-abused-to-send-realistic-fake-invoices/)
-* [3 hours ago
+    ### Data centers will be critical to UK economic growth in the coming decade – but researchers have warned of a ‘data doomsday’ unless energy infrastructure is improved](https://digitpatrox.com/data-centers-will-be-critical-to-uk-economic-growth-in-the-coming-decade-but-researchers-have-warned-of-a-data-doomsday-unless-energy-infrastructure-is-improved/)
+* [2 hours ago
     
-    ### What time do Black Friday deals start at Amazon, Walmart, and other retailers?](https://digitpatrox.com/what-time-do-black-friday-deals-start-at-amazon-walmart-and-other-retailers/)
-* [3 hours ago
+    ### Harness the Power of Data Science & Machine Learning from Home](https://digitpatrox.com/harness-the-power-of-data-science-machine-learning-from-home/)
+* [2 hours ago
     
-    ### NYT Strands Today: Hints, Answers & Spangram for November 5](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-5/)
+    ### ‘Outer Banks’ future on Netflix revealed — there’s good and bad news](https://digitpatrox.com/outer-banks-future-on-netflix-revealed-theres-good-and-bad-news/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
