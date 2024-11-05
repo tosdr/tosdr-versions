@@ -240,24 +240,10 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### DNSSEC
+### 90% Renewals
 
   
-
-#### Our redundant DNS solution is fully supported with DNSSEC
-
-  
-
-  
-
-[Learn more about DNSSEC](https://www.dynu.com/Resources/DNS-Records/DNSSEC)  
-  
-
-  
-
-[Enable DNSSEC for your domain](https://www.dynu.com/ControlPanel/DDNS)  
-  
-
+Over 90% of our clients renew their services for over one year.  
   
 
 ### News
