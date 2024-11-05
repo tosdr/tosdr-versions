@@ -1,10 +1,10 @@
-**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
+**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111666-mid-day-digest-2024-11-04?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111702-mid-day-digest-2024-11-05?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -189,13 +189,13 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111666-mid-day-digest-2024-11-04?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111702-mid-day-digest-2024-11-05?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111668-dont-sit-it-out-2024-11-05)
+     [](https://patriotpost.us/memes/111705-garbage-day-2024-11-05)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -215,6 +215,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Daniel McCarthy How Politics Hasn’t Changed Since Jefferson](https://patriotpost.us/opinion/111682-how-politics-hasnt-changed-since-jefferson-2024-11-05)
 *      [Cal Thomas Is It Too Early to Talk 2028?](https://patriotpost.us/opinion/111684-is-it-too-early-to-talk-2028-2024-11-05)
 *      [Christine Flowers Newspapers Aren’t Giving Liberals the Validation They Need](https://patriotpost.us/opinion/111692-newspapers-arent-giving-liberals-the-validation-they-need-2024-11-05)
+*      [Guest Commentary On Election Integrity](https://patriotpost.us/opinion/111701-on-election-integrity-2024-11-05)
 *      [The Babylon Bee Democrats Warn That if Trump Is Elected It Will Be the End of Bureaucracy as We Know It](https://patriotpost.us/opinion/111679-democrats-warn-that-if-trump-is-elected-it-will-be-the-end-of-bureaucracy-as-we-know-it-2024-11-05)
 
 * [More Opinion >](https://patriotpost.us/opinion)
@@ -229,7 +230,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
