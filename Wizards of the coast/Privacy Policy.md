@@ -7,32 +7,31 @@ Fetching mountains...
 **PRIVACY POLICY**
 ==================
 
-Last Updated: June 29, 2023
+Last Updated: October 29, 2024
 
 **1\. INTRODUCTION**
 --------------------
 
-Wizards of the Coast LLC (“Wizards, “we,” “our,” or “us”) has adopted this privacy policy ("Privacy Policy") to explain how we collect, store, and use your information. This Privacy Policy applies to all online service locations operated or controlled by Wizards that post a link to this Privacy Policy, including our website at [www.wizards.com](http://www.wizards.com/), our apps, our customer service program, and all features, contents, and other services operated or controlled by Wizards through such online service locations (collectively, the “Service”). This Privacy Policy does not apply to our information collection activities outside of the Service (unless otherwise stated below or at the time of collection).
+Wizards of the Coast LLC (“Wizards, “we,” “our,” or “us”) has adopted this privacy policy ("Privacy Policy") to explain how we collect, store, and use your information. This Privacy Policy applies to all online service locations operated or controlled by Wizards that post a link to this Privacy Policy, including our website at [www.wizards.com](http://www.wizards.com/), our apps, our customer service program, and all features, contents, and other services operated or controlled by Wizards through such online service locations (collectively, the “Service”). This Privacy Policy does not apply to our information collection activities outside of the Service (unless otherwise stated below or at the time of collection).
 
-By using the Service, you agree to our [**Terms of Use**](http://company.wizards.com/legal/terms-use) and consent to our processing of information as described in this Privacy Policy. If you do not agree and consent, please do not use the Service.
+By using the Service, you agree to our [**Terms of Use**](http://company.wizards.com/legal/terms-use) and consent to our processing of information as described in this Privacy Policy. If you do not agree and consent, please do not use the Service.
 
-If you are a parent or guardian of a child, please review the section titled **Children’s Information** below.
+If you are a parent or guardian of a child, please review the section titled **Children’s Information** below.
 
-If you are a California resident, Nevada resident, Virginia resident, Colorado resident, Connecticut resident, or data subject in the European Economic Area, Switzerland, or the United Kingdom, please see the following sections at the end of this Privacy Policy or click on the relevant link below:
+If you a California, Colorado, Connecticut, Montana, Oregon, Texas, Utah or Virginia resident, please see the [“Additional State-Specific Disclosures”](#US) section below.
 
-* [**Additional Disclosures for California Residents**](#CA)
-* [**Additional Disclosures for Nevada Residents**](#NV)
-* [**Additional Disclosures for Virginia Residents**](#VA)
-* [**Additional Disclosures for Colorado Residents**](#CO)
-* [**Additional Disclosures for Connecticut Residents**](#CT)
-* [**Additional Disclosures for Data Subjects in the European Economic Area, Switzerland, and United Kingdom**](#EU)
+If you are in the EEA, Switzerland or United Kingdom, please see the [**Additional Disclosures for Data Subjects in the European Economic Area, Switzerland, and United Kingdom**](#EU) section below.
+
+If you are located elsewhere, we may not be subject to the laws in your jurisdiction, but we maintain privacy safeguards that should be substantively consistent with privacy laws in most jurisdictions, particularly where they are similar to the laws in the EEA/UK.
+
+Wizards of the Coast, LLC is the controller of any personal information collected and processed from your use of the Service.
 
 If you have any questions or wish to exercise your rights and choices, please contact us as set out in the “**Contact Us**” section below.
 
 **2\. ESRB PRIVACY CERTIFIED**
 ------------------------------
 
-The ESRB certification seals shown on our Service confirm that Wizards is a valid licensee, and participating member, of the [**Entertainment Software Rating Board’s Privacy Certified Program**](http://www.esrb.org/privacy/faq.aspx#10) (“ESRB Privacy Certified”). To help protect your privacy, we have voluntarily undertaken this privacy initiative and have had all areas of our Service where this Privacy Policy is posted reviewed and certified by ESRB Privacy Certified to meet established online information collection, use, and disclosure practices. As a licensee of this program, we are subject to audits of our Service and other enforcement and accountability mechanisms administered independently by the ESRB.
+The Entertainment Software Rating Board’s Privacy Certified privacy and certification program (“ESRB Privacy Certified”) is approved by the United States Federal Trade Commission (“FTC”) to serve as a Safe Harbor under the Children’s Online Privacy Protection Act (“COPPA”). It permits participating members to display their seals to demonstrate compliance with established online information, collection, use and disclosure practices under COPPA and other U.S. data privacy laws. This Privacy Policy and t he ESRB certification seals shown on the Service confirm Wizards is a valid licensee and participating member of ESRB Privacy Certified. To protect your privacy, we have voluntarily undertaken this privacy initiative and have had the Service reviewed and certified by ESRB Privacy Certified to meet established online information, collection, use and disclosure practices. As a licensee of this privacy program, we are subject to frequent audit of the Service and other online products and services operated by us, and other enforcement and accountability mechanisms administered independently by the ESRB.
 
 **3\. INFORMATION COLLECTION**
 ------------------------------
@@ -57,15 +56,15 @@ Wizards collects information you provide directly via the Service. The data we c
 
 Wizards collects data from you at various points while you are using the Service, including as described below:
 
-* **Account Registration.** To register an account with Wizards, you must, at a minimum, provide your date of birth, location, email, a username and password. To participate in other Wizards offerings, such as organized play, you may be required to provide your first name and last name, city, country, postal code, gender, email address, password, username and screen name.
-* **Profile.** For certain parts of our Service, your personal profile (“Your Profile”) will be automatically populated with the screen name you provided at registration. Where applicable, the information in Your Profile, including any information or content you voluntarily add to Your Profile will be made public by default. To change Your Profile privacy settings for your Wizards account, log in to [myaccounts.wizards.com](https://myaccounts.wizards.com/) and go to your My Account tab, then click “Edit Public Profile & Settings.” In this section, you may also change Your Profile information, who can view your page and activity, and who can contact you on these parts of the Service, as well as control how we communicate with you. Your Profile for these parts of the Service will be searchable by screen name, and you can change the visibility of Your Profile by de-selecting the “Profile is visible to other users” and “Profile is searchable” boxes in Privacy Settings. To change Your Profile privacy settings for your _D&D Beyond_ account, log in to [dndbeyond.com](https://www.dndbeyond.com/) and sign in to your account, hover on your screen name in the top right, and select “Profile.” On the Profile page, click the “Edit Profile” button. From here, you may edit the information that appears on your profile page, including your avatar photo. Please note: The photo you selected (you are not required to upload a personal photo) as your avatar and your screen name for these parts of the Service will always display on your page, posts, and in search results. You are responsible for any information and content you choose to make public either through Your Profile, or by posting on the Service. Profile settings and data processing may differ based on the part of the Service you are using.
-* **Message Boards, Forums, Blogs, and Chats.** Wizards provides message boards, blogs, chats, and other public forums on the Service for exchanging information and communicating with other users. Please note that any information, user content, or any other materials that you post on our Service, including any information from Your Profile, where applicable, that you choose to make public, may be available for any user of the Service to read, and are therefore no longer private and may be disclosed by third parties. If you post information, materials, or other content on the Service, you are providing information that can be collected and used by others that you do not know, for their own purposes, including the distribution of unsolicited communications.
-* **Online Stores.** Visitors purchasing goods and services through our Service will need to provide valid Payment Data, in addition to Contact Data such as name, mailing address, phone number and email address.
-* **Promotions.** To participate in some of our sweepstakes, contests, surveys, or other promotions (“Promotions”), you may be asked to provide an email address or screen name, so that we can let you know if you won a prize. We may also request your name and home address in order to send you products or information by regular mail.
-* **Customer Service.** When you contact customer service you may be asked to provide us with information such as your name, telephone number, address and email. We collect this information as part of our customer service efforts and it is used to confirm your identity, respond to your inquiry or comments, for training purposes, and to assist us in providing better products and services.
-* **Wizards Play Network.** Participants, including store owners and event organizers, have the opportunity to sign up with the Wizards Play Network in order to run organized play events. You must provide certain information to be eligible to participate in organized play.
-* **Job Postings.** Our Service allows for the online submission of resumes, employment and education history, transcript, writing samples, and references which are used solely for the purpose of accepting and evaluating candidate submissions for job postings.
-* **Online Surveys.** In order to improve the user experience at our Service, we may employ online surveys that request for visitors to volunteer information about themselves and provide us feedback about why they visit our Service and suggestions for improvement.
+* **Account Registration.** To register an account with Wizards, you must, at a minimum, provide your date of birth, location, email, a username and password. To participate in other Wizards offerings, such as organized play, you may be required to provide your first name and last name, city, country, postal code, gender, email address, password, username and screen name.
+* **Profile.** For certain parts of our Service, your personal profile (“Your Profile”) will be automatically populated with the screen name you provided at registration. Where applicable, the information in Your Profile, including any information or content you voluntarily add to Your Profile will be made public by default. To change Your Profile privacy settings for your Wizards account, log in to [myaccounts.wizards.com](https://myaccounts.wizards.com/) and go to your My Account tab, then click “Edit Public Profile & Settings.” In this section, you may also change Your Profile information, who can view your page and activity, and who can contact you on these parts of the Service, as well as control how we communicate with you. Your Profile for these parts of the Service will be searchable by screen name, and you can change the visibility of Your Profile by de-selecting the “Profile is visible to other users” and “Profile is searchable” boxes in Privacy Settings. To change Your Profile privacy settings for your _D&D Beyond_ account, log in to [dndbeyond.com](https://www.dndbeyond.com/) and sign in to your account, hover on your screen name in the top right, and select “Profile.” On the Profile page, click the “Edit Profile” button. From here, you may edit the information that appears on your profile page, including your avatar photo. Please note: The photo you selected (you are not required to upload a personal photo) as your avatar and your screen name for these parts of the Service will always display on your page, posts, and in search results. You are responsible for any information and content you choose to make public either through Your Profile, or by posting on the Service. Profile settings and data processing may differ based on the part of the Service you are using.
+* **Message Boards, Forums, Blogs, and Chats.** Wizards provides message boards, blogs, chats, and other public forums on the Service for exchanging information and communicating with other users. Please note that any information, user content, or any other materials that you post on our Service, including any information from Your Profile, where applicable, that you choose to make public, may be available for any user of the Service to read, and are therefore no longer private and may be disclosed by third parties. If you post information, materials, or other content on the Service, you are providing information that can be collected and used by others that you do not know, for their own purposes, including the distribution of unsolicited communications.
+* **Online Stores.** Visitors purchasing goods and services through our Service will need to provide valid Payment Data, in addition to Contact Data such as name, mailing address, phone number and email address.
+* **Promotions.** To participate in some of our sweepstakes, contests, surveys, or other promotions (“Promotions”), you may be asked to provide an email address or screen name, so that we can let you know if you won a prize. We may also request your name and home address in order to send you products or information by regular mail.
+* **Customer Service.** When you contact customer service you may be asked to provide us with information such as your name, telephone number, address and email. We collect this information as part of our customer service efforts and it is used to confirm your identity, respond to your inquiry or comments, for training purposes, and to assist us in providing better products and services.
+* **Wizards Play Network.** Participants, including store owners and event organizers, have the opportunity to sign up with the Wizards Play Network in order to run organized play events. You must provide certain information to be eligible to participate in organized play.
+* **Job Postings.** Our Service allows for the online submission of resumes, employment and education history, transcript, writing samples, and references which are used solely for the purpose of accepting and evaluating candidate submissions for job postings.
+* **Online Surveys.** In order to improve the user experience at our Service, we may employ online surveys that request for visitors to volunteer information about themselves and provide us feedback about why they visit our Service and suggestions for improvement.
 
 Whatever the activity may be, we will only collect information to the extent it is reasonably necessary to fulfill your requests and our legitimate business objectives. If you do not want to submit certain information when requested, you may not be able to access certain areas on our Service or take advantage of certain features of our Service. You may choose to voluntarily submit other information to us through the Service that we do not request, and, in such instances, you are solely responsible for such information.
 
@@ -83,7 +82,7 @@ We use various current – and later – developed technologies to collect this 
 
 * **Log Files.** Log files are files that record website activity and gather statistics about web users' browsing habits. These entries help Wizards determine (among other things) how many and how often users have visited our Service, which pages they've visited, and other similar data. We also use log file entries for our internal marketing and demographic studies, so we can constantly improve the online services we provide you.
 
-* **Cookies**. Cookies are pieces of information placed on your device when you visit a website that act as a unique tag to identify your browser. We use "cookies" to enhance your experience at our Service and to help us understand how you interact with our Service. For example, a cookie may allow us to remember certain things based on your IP address, such as the time and duration of your visits, how you navigated through our content, and where you exited a particular site. To learn more about how we use cookies, please visit our [**Cookie Policy**](http://company.wizards.com/legal/cookies).
+* **Cookies**. Cookies are pieces of information placed on your device when you visit a website that act as a unique tag to identify your browser. We use "cookies" to enhance your experience at our Service and to help us understand how you interact with our Service. For example, a cookie may allow us to remember certain things based on your IP address, such as the time and duration of your visits, how you navigated through our content, and where you exited a particular site. To learn more about how we use cookies, please visit our [**Cookie Policy**](http://company.wizards.com/legal/cookies) or floating cookie icon on the Service.
 * **Clear GIFs**. Clear GIFs, sometimes called “pixel tags,” or “web beacons” are file objects, usually a graphic image such as a transparent one pixel-by-one-pixel GIF, that are placed on a web page, advertisement, or in an email message. The GIF may tell us the IP address of the device that fetched our page, the URL of the page the GIF is on, the time the page was viewed, the type of browser used, and it can also identify a previously set cookie value, and how and where a user accessed a website. We may use this information to count visitors across our Service and understand how they navigate and use our Service.
 * **Location-Identifying Technologies**. GPS, WiFi, Bluetooth, and other location-aware technologies may be used to determine your device’s location, sometimes precisely. Location data may be used for purposes such as verifying your device’s location and delivering or restricting relevant content and advertising based on that location.
 * **Voice Processing Technologies**. Voice processing technologies collect audio through the microphone on your device to effectuate an instruction or request by you. We only collect audio with your consent. We only maintain the audio long enough to complete your instruction or request and then immediately delete it. We may use non-audio data associated with the collection for additional purposes such as data analytics and in accordance with this Privacy Policy.
@@ -153,9 +152,7 @@ Without limiting the foregoing, in our sole discretion, we may disclose aggregat
 
 **A. A Note to Parents**
 
-Wizards has developed its Service to be appropriate for a wide range of audiences and not directed to children under 13 (“Children” or “Child”). In general, Children may access the Service only if Wizards has obtained prior verifiable parental consent from their parent or guardian in compliance with the U.S. Children’s Online Privacy Protection Rule (“COPPA”). If you are a parent or guardian, please discuss this Privacy Policy with your Children so that they will better understand how to use the Service and the information they may be asked to provide when using the Service. If you have any questions or comments about how we treat Children’s information or our compliance with COPPA, please contact us as set forth in the section titled **Contact Us** below.
-
-If your Child is a California resident, review the section titled **Additional Disclosures for California Residents**. If your child is in Colorado or Connecticut, see the sections titled **Additional Disclosures for Colorado Residents** and **Additional Disclosures for Connecticut Residents** below. If your child is in the European Economic Area, Switzerland, or United Kingdom, review the section titled **Additional Disclosures for Data Subjects in the European Economic Area, Switzerland, and the United Kingdom**.
+Wizards has developed its Service to be appropriate for a wide range of audiences and not directed to children under 13 (“Children” or “Child”). In general, Children may access the Service only if Wizards has obtained prior verifiable parental consent from their parent or guardian in compliance with the U.S. Children’s Online Privacy Protection Rule (“COPPA”). If you are a parent or guardian, please discuss this Privacy Policy with your Children so that they will better understand how to use the Service and the information they may be asked to provide when using the Service. If you have any questions or comments about how we treat Children’s information or our compliance with COPPA, please contact us as set forth in the section titled **Contact Us** below.
 
 **B. Services Directed to Children**
 
@@ -181,7 +178,7 @@ A parent or guardian who has already given Wizards permission to collect, use, a
 We offer parts of our Service through websites, locations, platforms, and services operated, owned, or controlled by separate entities. In addition, we integrate technologies operated, owned, or controlled by separate entities into parts of our Service. Some examples include:
 
 * **Links.** Our Service includes links to websites, platforms, and other services not operated or controlled by us.
-* **Social Media.** You can engage with our content on or through social networking services, such as Facebook and Twitter. When you engage with our content (such as through our brand page or via our chatbot on Facebook Messenger) or connect your Wizards account to your social media account, you may allow us to have access to certain information from your social media profile, such as your name, email address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the ‘likes’ you make. We may also obtain other information such as content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on from your interaction with our content. When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our Service, and (3) contact you through the social networking service or directly by sending you the latest news, special offerings, and rewards. If you post information on social media that references our Service (e.g., by using a hashtag associated with Wizards in a tweet or status update), your post may be used on or in connection with our Service. Through some social networking services’ privacy settings, you can control what data you disclose. For more information about how social networking services handle your information, please refer to their respective privacy policies and terms of use.
+* **Social Media.** You can engage with our content on or through social networking services, such as Facebook and X. When you engage with our content (such as through our brand page or via our chatbot on Facebook Messenger) or connect your Wizards account to your social media account, you may allow us to have access to certain information from your social media profile, such as your name, email address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the ‘likes’ you make. We may also obtain other information such as content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on from your interaction with our content. When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our Service, and (3) contact you through the social networking service or directly by sending you the latest news, special offerings, and rewards. If you post information on social media that references our Service (e.g., by using a hashtag associated with Wizards in a tweet or status update), your post may be used on or in connection with our Service. Through some social networking services’ privacy settings, you can control what data you disclose. For more information about how social networking services handle your information, please refer to their respective privacy policies and terms of use.
 * **Gaming Platforms.** You can connect your Wizards account to your gaming account on another platform, such as Steam or Twitch. This linking may allow us to obtain information such as your gaming username, email address, photo, game performance, and high scores. For more information about how these gaming platforms handle your information, please refer to their respective privacy policies and terms of use.
 
 Please note that when you interact with other entities, including when you leave our Service, those entities may independently collect information about you. The information collected and stored by those entities remains subject to their own policies and practices, including what information they disclose to us, your choices on their services and devices, and whether they store information in the U.S. or elsewhere. We encourage our users to read third party privacy policies before submitting any information to such third parties.
@@ -289,155 +286,91 @@ European Requests:
 
 For Europe-specific requests, you can reach our DPO at: [dpo@hasbro.com](mailto:dpo@hasbro.com)
 
-**14\. ADDITIONAL DISCLOSURES FOR CALIFORNIA RESIDENTS**
---------------------------------------------------------
+**14\. US STATE-SPECIFIC DISCLOSURES AND RIGHTS**
+-------------------------------------------------
 
-California provides additional rights to California residents, including through the California Consumer Privacy Act as amended by the California Privacy Rights Act (“CPRA”). This section addresses those rights and only applies to California residents.
+This section provides additional disclosures for individuals who reside in California, Colorado, Connecticut, Montana, Oregon, Texas, Utah, or Virginia. We anticipate expanding these disclosures and rights to residents of additional states in the future.
 
-**A. Notice of Collection**
+The California Consumer Privacy Act, as amended (“CCPA”) and privacy laws in the other states referenced above (collectively, “State Privacy Laws”) provide consumers additional privacy rights, including depending upon the state, the right to access, correct or delete their personal information (subject to certain exceptions), as well as the right to opt out of the selling/sharing of personal information, third party targeted advertising, or certain other activities as described further below (to the extent applicable).
 
-We have collected the following categories of personal information (as described in the CCPA) in the past 12 months:
+**Notice of Collection**
 
-* Identifiers, including name, postal address, email address, and online identifiers (such as IP address);
-* Customer records, including phone number, billing address, and credit or debit card information;
-* Characteristics of protected classifications under California or federal law, including gender;
-* Commercial or transactions information, including records of products or services purchased, obtained, or considered;
-* Internet activity, including browsing history, search history, and interactions with a website, email, application, or advertisement;
-* Non-precise geolocation data, including location derived from an IP address.
-* Professional, employment, or education-related information; and
-* Inferences drawn from any of the information identified in this section.
+In at least the past 12 months, we or our service providers may have collected the categories of personal information described above in this Policy in connection with the Services, and as enumerated in one or more State Privacy Laws, that includes the following in connection with the Apps:
 
-For further details on the personal information we collect and the sources from which we obtain such personal information, please see the section above titled **Information Collection**.
+* Identifiers, including name, address, email address, IP address, and an ID number assigned to your account;
+* Customer records, phone number, billing address, credit or debit card information;
+* Commercial Information, including purchases and engagement with the Services
+* Internet activity, including history of visiting and interacting with our Services, browser type, browser language and other information collected automatically;
+* Geolocation data; and
+* Inferences including information about your interests, preferences and favorite brands and products. 
 
-Wizards collects and uses this personal information set out above for the business and commercial purposes described in the section above titled **Information Use**. We disclose this personal information to the categories of persons set out in the above section titled **Disclosure of Information**. Please visit those sections for further details.
+For more information on information we collect, including the sources we receive information from, review the “**Information Collection**” Section of this Privacy Policy. 
 
-We do not sell your personal information as that term is traditionally understood. However, some of our disclosures of personal information may be considered a “sale” or “share” as those terms are defined under the CCPA. A “sale” is broadly defined under the CCPA to include a disclosure for something of value, and a “share” is broadly defined under the CCPA to include a disclosure for cross-context behavioral advertising. We collect, sell, or share the following categories of personal information for commercial purposes: identifiers, characteristics, commercial or transactions information, internet activity, non-precise geolocation data, and inferences drawn. The categories of third parties to whom we sell or share your personal information include, where applicable, vendors and other parties involved in cross-context behavioral advertising. For details about your rights regarding sales and shares, please see the below section titled **Do Not Sell or Share My Personal Information**.
+Residents in certain states, however, may have the right to opt-out of some of our advertising technology activities under the State Privacy Laws. Accordingly, please review the “Right to Opt-Out” section below, which provides you with information on how to opt-out. When you opt-out, Wizards will stop sharing your information with its advertising partners for the delivery of relevant advertising.
 
-**B. Sensitive Personal Information**
+**Right to Opt-Out**
 
-In addition, we have collected the following categories of sensitive personal information (as described in the CCPA) in the past 12 months:
+Under applicable State Privacy Law, you may have the right to opt out of the sale of your Personal Data by us to third parties and/or the right to opt out of certain types of advertising activity. You may submit a request to opt out by accessing our online [Form](https://docs.hasbro.com/privacy_rights).
 
-* Personal information that reveals your precise geolocation.
+If you are an account holder:
 
-For further details on the sensitive personal information we collect and how we obtain this information, please review the above section titled **Information Collection**.
+* Wizards Account holders may log in to [wizards.com](https://wizards.com/), click “Edit Profile” and check the box “Opt out of targeted data analytics;”
+* DDB Account Holders may navigate to [dndbeyond.com,](https://www.dndbeyond.com/) sign into their account, navigate to “Preferences” and check the appropriate box.
 
-We collect, use, and disclose this sensitive personal information as necessary to provide the Service or products as reasonably expected by an average consumer who accesses the Service or requests such products.
+Otherwise, you may submit opt-out requests by calling our toll-free number at (800) 324-6496 or emailing us at [privacy@wizards.com](mailto:privacy@wizards.com).
 
-We do not use your sensitive personal information for purposes other than permissible business purposes under the CCPA. Additionally, we do not “sell” or “share” your sensitive personal information as those terms are defined by the CCPA.
+**Right to Access or Delete Your Information**
 
-**C. Retention**
+You have the right to request access to, or a copy of, the:
 
-Wizards retains each category of personal information, including sensitive personal information, for the length of time that is reasonably necessary for the purpose for which it was collected, and as necessary to comply with our legal obligations, resolve disputes, prevent fraud, and enforce our agreements.
+* categories of personal information we have collected about you; 
+* categories of sources from which the personal information was collected;
+* categories of personal information about you we have disclosed for a business purpose or sold;
+* categories of third parties to whom the personal information was sold or disclosed for a business purpose;
+* business or commercial purpose for collecting or selling the personal information; and
+* specific pieces of personal information we have collected about you.
 
-**D. Right to Know, Correct, and Delete**
+You also have a right to request that we delete your personal information (subject to certain exceptions), and request that we correct your personal information if it is inaccurate.
 
-If you are a California resident, you have the right to know certain information about our data practices. In particular, you have the right to request the following from us:
+To exercise any of these rights, please submit a request to us by calling our toll-free number at (800) 324-6496, by accessing our online [Form](https://docs.hasbro.com/privacy_rights) or emailing us at [privacy@wizards.com](mailto:privacy@wizards.com). In the request, please specify which right you are seeking to exercise and the scope of the request. We will endeavor to confirm receipt of your request within 10 business days. We may require specific information from you to verify your identity before processing your request, and we may send you a confirmation email that you must respond to before we process the request. If we are unable to verify your identity, we may deny your request.
 
-* The categories of personal information we have collected about you;
-* The categories of sources from which the personal information was collected;
-* The categories of personal information about you that we disclosed for a business purpose or sold or shared;
-* The categories of third parties to whom the personal information was disclosed for a business purpose or sold or shared; and
-* The business or commercial purpose for collecting or selling or sharing your personal information.
+We do not knowingly sell or share information of minors under 18 (eighteen) years of age.
 
-You also have the right to request the specific pieces of personal information we have collected about you.
+We do not engage in impactful profiling activities with respect to user’s personal information, do not use sensitive personal information except for the reasons provided, and do not generally provide a financial incentive in return for the collection or use of personal information (except where disclosed with relevant terms at the time of collection).
 
-In addition, you have the right to correct or delete the personal information we have collected from you. These rights are subject to certain exceptions and also apply to sensitive personal information.
+**Authorized Agent**
 
-To exercise any of these rights, please submit a request through our online form available at [https://docs.hasbro.com/privacy\_rights](https://docs.hasbro.com/privacy_rights) or call our toll-free number at (800) 324-6496. If you have an account with us, we may require you to use the account to submit the request. In the request, please specify which right you are seeking to exercise and the scope of the request. We will confirm receipt of your request within 10 business days and respond to your request within 45 days. We may require specific information from you to help us verify your identity and process your request. If we are unable to verify your identity, we may deny your requests to know, correct, or delete.
+You can designate an authorized agent to submit requests on your behalf. However, we will require written proof of the agent’s permission to do so and verify your identity directly with you.
 
-**E. Right to Opt-Out of Sales and Sharing**
+**Appeals**
 
-To the extent Wizards sells or shares your personal information as the terms “sell” or “share” are defined under the California Consumer Privacy Act, you have the right to opt-out of the sale or sharing of your personal information by us to third parties at any time.
+If we deny a privacy request, you may appeal the decision to us at [privacy@wizards.com](mailto:privacy@wizards.com). To the extent possible, please describe the basis for your appeal and if there is any specific personal information that concern you. We will endeavor to provide a prompt response. If we deny your appeal, you can raise concerns with your state’s Office of the Attorney General.
 
-Wizards account holders, including _Magic: The Gathering Arena_ users, may opt out by clicking **[here](https://myaccounts.wizards.com/protectData)**.
+**Minors**
 
-_D&D Beyond_ account holders may opt out by clicking [**here**](https://www.dndbeyond.com/account/preferences).
+We do not to our knowledge sell or share the personal information of individuals under 18 years of age to third parties without their affirmative authorization, or the affirmative authorization of the parent or guardian of a minor under 13 years of age.  Affirmative authorization can be withdrawn at any time by interacting with the Cookie Settings link on any of our Sites, by emailing us at [privacy@wizards.com](mailto:privacy@wizards.com) or calling our toll-free number at (800) 324-6496.
 
-Note that when you submit an opt-out, your opt-out will only apply to sales and shares of personal information through tracking technologies from the specific browser from which you submitted the opt-out because the connection between your browser identifiers and other personal information we have about you is not known to us. If you want the opt-out to also apply to other personal information we have about you (such as your contact information), please use the link and provide your contact information as requested or make sure you are logged into your account when submitting the opt-out. You may also submit a request to opt out by calling our toll-free number at (800) 324-6496 or emailing us at [privacy@wizards.com](mailto:privacy@wizards.com).
+**Right to Non-Discrimination**
 
-**F. Authorized Agent**
+You have the right not to receive discriminatory treatment by us for the exercise of any of your rights, and we do not discriminate against anyone for exercising such rights.
 
-You can designate an authorized agent to submit requests on your behalf. Requests must be submitted through the methods listed above. Except for opt-out requests, we will require written proof of the agent’s permission to do so and verify your identity directly.
+**California Residents**
 
-**G. Right to Non-Discrimination**
+SHINE THE LIGHT
 
-You have the right not to receive discriminatory treatment by us for the exercise of any of your rights.
+Since 2005, California Civil Code Section 1798.83 permits users who are California residents to request certain information regarding our disclosure of personal information to third-parties for their direct marketing purposes. If you have any questions regarding our disclosure policy, however, please contact us at:
 
-**H. California Minors**
+By Mail:
 
-We do not knowingly sell information of minors under 16 who are residents of California without their affirmative authorization, or the affirmative authorization of their parent or guardian for minors under 13. Affirmative authorization can be withdrawn at any time by emailing us at privacy@wizards.com or calling our toll-free number at (800) 324-6496. If you are a California resident under 18 years old and registered to use the Service, you can ask us to remove any content or information you have posted on the Service. To make a request, email us at privacy@wizards.com with “California Under 18 Content Removal Request” in the subject line, and tell us what you want removed. We will make reasonable good faith efforts to remove the post from prospective public view, although we cannot ensure the complete or comprehensive removal of the content and may retain the content as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Wizards of the Coast
 
-**I. Shine the Light**
+ATTN: Customer Support
 
-Customers who are residents of California may request (1) a list of the categories of personal information disclosed by us to third parties during the immediately preceding calendar year for those third parties’ own direct marketing purposes; and (2) a list of the categories of third parties to whom we disclosed such information. To exercise a request, please write us at the email or postal address set out in the **Contact Us** section above and specify that you are making a “California Shine the Light” request. We may require additional information from you to allow us to verify your identity, and we are only required to respond to requests once during any calendar year.
+P.O. Box 707
 
-**15\. Additional Disclosure for Nevada Residents**
----------------------------------------------------
+Renton, WA 98057-0707
 
-If you are a Nevada consumer, you have the right to direct us not to sell any covered information (as that term is defined by NRS 603A.340) that we have collected or will collect about you. A “sale” under Nevada law is the exchange of covered information for monetary consideration by a business to a third party for the third party to license or sell the covered information to other third parties. If you are a Nevada consumer and wish to exercise this right, please contact us as at [https://docs.hasbro.com/privacy\_rights](https://docs.hasbro.com/privacy_rights).
-
-**16\. ADDITIONAL DISCLOSURES FOR VIRGINIA RESIDENTS**
-------------------------------------------------------
-
-Virginia provides additional rights to Virginia residents through the Virginia Consumer Data Protection Act (“VCDPA”). This section addresses those rights and applies only to Virginia residents. You have the following rights under the VCDPA:
-
-* To confirm whether or not we are processing your personal data;
-* To access your personal data;
-* To correct inaccuracies in your personal data;
-* To delete your personal data;
-* To obtain a copy of your personal data that you previously provided to us in a portable and readily usable format; and
-* To opt out of the processing of personal data for purposes of targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects concerning you.
-
-To exercise any of these rights, please contact us through this [**Form**](https://docs.hasbro.com/privacy_rights). Wizards will respond to your request within 45 days. If you have an account with us, we may require you to use the account to submit the request. We may require specific information from you to help us verify your identity and process your request.
-
-If we refuse to take action on a request, you may appeal our decision within a reasonable period of time by contacting us at [privacy@wizards.com](mailto:privacy@wizards.com) and specifying you wish to appeal. Within 60 days of our receipt of your appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If the appeal is denied, you may submit a complaint to the Virginia Attorney General at [https://www.oag.state.va.us/consumercomplaintform](https://www.oag.state.va.us/consumercomplaintform).
-
-**17\. ADDITIONAL DISCLOSURES FOR COLORADO RESIDENTS**
-------------------------------------------------------
-
-Effective July 1, 2023, the Colorado Privacy Act (“CPA”) provides specific rights to Colorado residents. This section addresses those rights and applies only to Colorado residents.
-
-If you are a Colorado resident, you have a right under the CPA to access all of the personal information we have collected from you and that we maintain about you, to obtain a portable copy of that information, and a right to request deletion or correction of that information.
-
-Under the CPA, we must obtain your clear, affirmative consent for:
-
-* Selling your personal data, as “selling” is defined in the CPA;
-* Processing your personal data for targeted advertising using Matched Ads (defined in the **Analytics and Advertising** section above); and
-* Processing any personal or sensitive information for any Child or Children living in Colorado.
-
-You may additionally opt out of any sales or processing of any data for which we formerly obtained your consent.
-
-Data Minimization: We must also limit the data we store by reviewing no less than annually whether storage of your information serves a legitimate business purpose and removing that data if no legitimate business purpose is identified.
-
-Re-Obtaining Consent: We may re-seek consent from you if you have previously opted out from processing activities. If you have not interacted with us for at least one year, we are required by the CPA to re-obtain your affirmative consent to process any of your information.
-
-For clarification on any of these rights and requirements or to submit a request for us to access, correct, or delete your information, please contact us through this [**Form**](https://docs.hasbro.com/privacy_rights). Wizards will respond to your request within 45 days. If you have an account with us, we may require you to use the account to submit the request. We may require specific information from you to help us verify your identity and process your request.
-
-If we refuse to take action on a request, you may appeal our decision within a reasonable period of time by contacting us at [privacy@wizards.com](mailto:privacy@wizards.com) and specifying you wish to appeal. Within 60 days of our receipt of your appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If the appeal is denied, you may submit a complaint to the Colorado Attorney General at [https://complaints.coag.gov/s/contact-us](https://complaints.coag.gov/s/contact-us) or by phone at (720) 508-6000.
-
-**18\. ADDITIONAL DISCLOSURES FOR CONNECTICUT RESIDENTS**
----------------------------------------------------------
-
-Effective July 1, 2023, the Connecticut Data Privacy Act (“CTDPA”) provides specific rights to Connecticut residents. This section addresses those rights and applies only to Connecticut residents.
-
-Under the CTDPA, you have a right to access, correction, and deletion of your personal information. You further have the right to obtain from us a portable copy of your personal data to the extent it is technically feasible for us to provide such a copy.
-
-You may also opt out of processing for:
-
-* Targeted advertising (“Matched Ads” in **Analytics and Advertising**, above); and
-* Sale of personal data, as “sale” is defined in the CTDPA.
-
-Consent: We must obtain your direct, clear consent for processing of any sensitive personal information, and must provide an effective method to you for revocation of consent. If we receive a revocation request, we must cease processing your data within 15 days.
-
-Data Minimization: We must limit collection of personal data to what is adequate, relevant, and reasonably necessary for the purposes listed in this Privacy Policy.
-
-Children in Connecticut: We may not process children’s personal data for targeted advertising or sell children’s personal data. We must obtain consent to use personal data for targeted advertising or sell personal data from a person aged 13 to 15 when we have actual knowledge that that person is between 13 and 15.
-
-For clarification on any of these rights and requirements or to submit a request for us to access, correct, or delete your information, please contact us through this [**Form**](https://docs.hasbro.com/privacy_rights). Wizards will respond to your request within 45 days. If you have an account with us, we may require you to use the account to submit the request. We may require specific information from you to help us verify your identity and process your request.
-
-If we refuse to take action on a request, you may appeal our decision within a reasonable period of time by contacting us at [privacy@wizards.com](mailto:privacy@wizards.com) and specifying you wish to appeal. Within 60 days of our receipt of your appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If the appeal is denied, you may submit a complaint to the Connecticut Attorney General at [https://www.dir.ct.gov/ag/complaint/](https://www.dir.ct.gov/ag/complaint/) or (860) 808-5420.
-
-**19\. ADDITIONAL DISCLOSURES FOR DATA SUBJECTS IN EUROPEAN ECONOMIC ZONE, SWITZERLAND, AND UNITED KINGDOM**
+**15\. ADDITIONAL DISCLOSURES FOR DATA SUBJECTS IN EUROPEAN ECONOMIC ZONE, SWITZERLAND, AND UNITED KINGDOM**
 ------------------------------------------------------------------------------------------------------------
 
 The European Economic Area, Switzerland, and the United Kingdom (collectively, “Europe”) provide additional rights to individuals located in those jurisdictions, including through the General Data Protection Regulation (“GDPR”). This section addresses those rights and applies only to those individuals.
@@ -454,7 +387,7 @@ Data protection laws in Europe require a “lawful basis” for processing perso
 
 If you are a data subject in Europe, you have the right to access, rectify, or erase any personal data we have collected about you through the Service. You also have the right to data portability, right to be forgotten, and the right to restrict or object to our processing of personal data we have collected about you through the Service. In addition, you have the right to ask us not to process your personal data (or provide it to third parties to process) for marketing purposes or purposes materially different than for which it was originally collected or subsequently authorized by you. You may withdraw your consent at any time for any data processing we do based on consent you have provided to us.
 
-To exercise any of these rights, please submit through this [**Form**](https://docs.hasbro.com/privacy_rights). We will respond to your request within 30 days. We may require additional information from you to allow us to confirm your identity. Please note that we store information as necessary to fulfil the purposes for which it was collected and may continue to retain and use the information even after a data subject request for purposes of our legitimate interests, including as necessary to comply with our legal obligations, resolve disputes, prevent fraud, and enforce our agreements.
+To exercise any of these rights, please submit through this [**Form**](https://docs.hasbro.com/privacy_rights). We will respond to your request within 30 days. We may require additional information from you to allow us to confirm your identity. Please note that we store information as necessary to fulfil the purposes for which it was collected and may continue to retain and use the information even after a data subject request for purposes of our legitimate interests, including as necessary to comply with our legal obligations, resolve disputes, prevent fraud, and enforce our agreements.
 
 If you have any issues with our compliance, you have the right to lodge a complaint with a European supervisory authority.
 
