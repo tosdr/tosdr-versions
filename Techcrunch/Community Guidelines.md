@@ -185,7 +185,7 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [ChatGPT Search](https://techcrunch.com/2024/10/31/openai-launches-its-google-challenger-chatgpt-search/)
 * [Anduril](https://techcrunch.com/2024/11/04/anduril-is-considering-arizona-ohio-or-texas-for-its-massive-manufacturing-facility-source-says/)
 * [Apple Intelligence](https://techcrunch.com/2024/10/28/apple-intelligence-exits-beta/)
-* [Tech Layoffs](https://techcrunch.com/2024/10/30/tech-layoffs-2024-list/)
+* [Tech Layoffs](https://techcrunch.com/2024/11/05/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/11/01/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 © 2024 Yahoo.
