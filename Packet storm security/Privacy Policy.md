@@ -1,6 +1,6 @@
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
 
-what you don't know can hurt you
+exploit the possibilities
 
 [Register](https://packetstormsecurity.com/account/register/) | [Login](https://packetstormsecurity.com/account/login/)
 
@@ -28,9 +28,9 @@ Packet Storm supports full disclosure on all items we add to the site. With our 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 254 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 59 files
-* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 28 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 291 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 63 files
+* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 29 files
 * [indoushka](https://packetstormsecurity.com/files/authors/7697) 20 files
 * [Debian](https://packetstormsecurity.com/files/authors/2821) 19 files
 * [Apple](https://packetstormsecurity.com/files/authors/2397) 10 files
@@ -43,6 +43,22 @@ Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
+
+[Rhysida Ransomware Attack On Columbus Claimed 500k Victims](https://packetstormsecurity.com/news/view/36561/Rhysida-Ransomware-Attack-On-Columbus-Claimed-500k-Victims.html)
+
+Posted [Nov 5, 2024](https://packetstormsecurity.com/news/date/2024-11-05/ "15:13:03 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [malware](https://packetstormsecurity.com/news/tags/malware), [usa](https://packetstormsecurity.com/news/tags/usa), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36561/) | [View](https://www.scworld.com/news/rhysida-ransomware-attack-on-columbus-claimed-500k-victims)
+
+[South Korea Fines Meta About $15 Million Over Collection Of User Data](https://packetstormsecurity.com/news/view/36560/South-Korea-Fines-Meta-About-15-Million-Over-Collection-Of-User-Data.html)
+
+Posted [Nov 5, 2024](https://packetstormsecurity.com/news/date/2024-11-05/ "15:13:00 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [south korea](https://packetstormsecurity.com/news/tags/south_korea), [identity theft](https://packetstormsecurity.com/news/tags/identity_theft), [facebook](https://packetstormsecurity.com/news/tags/facebook)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36560/) | [View](https://www.reuters.com/technology/south-korea-fines-meta-about-15-mln-over-collection-user-data-2024-11-05/)
 
 [CISA Director Easterly Seeks To Quell Concerns About Election Security](https://packetstormsecurity.com/news/view/36555/CISA-Director-Easterly-Seeks-To-Quell-Concerns-About-Election-Security.html)
 
@@ -68,6 +84,38 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](ht
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36553/) | [View](https://www.theregister.com/2024/11/04/why_the_long_name_okta/)
 
+[Hackers Achieve The Inevitable: They Got Nintendo's Alarmo To Play Doom](https://packetstormsecurity.com/news/view/36552/Hackers-Achieve-The-Inevitable-They-Got-Nintendos-Alarmo-To-Play-Doom.html)
+
+Posted [Nov 4, 2024](https://packetstormsecurity.com/news/date/2024-11-04/ "16:07:02 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36552/) | [View](https://gizmodo.com/nintendo-alarmo-doom-2000520102)
+
+[Mickey Mouse Operation Hacked By Former Employee](https://packetstormsecurity.com/news/view/36551/Mickey-Mouse-Operation-Hacked-By-Former-Employee.html)
+
+Posted [Nov 4, 2024](https://packetstormsecurity.com/news/date/2024-11-04/ "16:06:38 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36551/) | [View](https://www.scworld.com/news/mickey-mouse-operation-hacked-by-former-employee)
+
+[US Sentences Nigerian Phisher To 26 Years In Prison](https://packetstormsecurity.com/news/view/36550/US-Sentences-Nigerian-Phisher-To-26-Years-In-Prison.html)
+
+Posted [Nov 4, 2024](https://packetstormsecurity.com/news/date/2024-11-04/ "16:06:28 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [fraud](https://packetstormsecurity.com/news/tags/fraud), [phish](https://packetstormsecurity.com/news/tags/phish)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36550/) | [View](https://www.securityweek.com/us-sentences-nigerian-to-26-years-in-prison-for-stealing-millions-through-phishing/)
+
+[210,000 Impacted By Saint Xavier University Data Breach](https://packetstormsecurity.com/news/view/36549/210-000-Impacted-By-Saint-Xavier-University-Data-Breach.html)
+
+Posted [Nov 4, 2024](https://packetstormsecurity.com/news/date/2024-11-04/ "16:06:23 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36549/) | [View](https://www.securityweek.com/210000-impacted-by-year-old-saint-xavier-university-data-breach/)
+
 [Malware Operators Use Copyright Infringement To Lure In Businesses](https://packetstormsecurity.com/news/view/36548/Malware-Operators-Use-Copyright-Infringement-To-Lure-In-Businesses.html)
 
 Posted [Nov 1, 2024](https://packetstormsecurity.com/news/date/2024-11-01/ "14:34:10 UTC")
@@ -75,54 +123,6 @@ Posted [Nov 1, 2024](https://packetstormsecurity.com/news/date/2024-11-01/ "14:3
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36548/) | [View](https://www.scworld.com/news/malware-operators-use-copyright-notices-to-lure-in-businesses)
-
-[EmeraldWhale Steals 15,000 Credentials From Exposed Git Configurations](https://packetstormsecurity.com/news/view/36547/EmeraldWhale-Steals-15-000-Credentials-From-Exposed-Git-Configurations.html)
-
-Posted [Nov 1, 2024](https://packetstormsecurity.com/news/date/2024-11-01/ "14:34:08 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [password](https://packetstormsecurity.com/news/tags/password)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36547/) | [View](https://www.scworld.com/news/emeraldwhale-steals-15000-credentials-from-exposed-git-configurations)
-
-[Colorado Scrambles To Change Voting System Passwords](https://packetstormsecurity.com/news/view/36546/Colorado-Scrambles-To-Change-Voting-System-Passwords.html)
-
-Posted [Nov 1, 2024](https://packetstormsecurity.com/news/date/2024-11-01/ "14:34:03 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [password](https://packetstormsecurity.com/news/tags/password)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36546/) | [View](https://arstechnica.com/tech-policy/2024/10/colorado-scrambles-to-change-voting-system-passwords-after-accidental-leak/)
-
-[Sophos Used Custom Implants To Surveil Chinese Hackers](https://packetstormsecurity.com/news/view/36545/Sophos-Used-Custom-Implants-To-Surveil-Chinese-Hackers.html)
-
-Posted [Nov 1, 2024](https://packetstormsecurity.com/news/date/2024-11-01/ "14:33:59 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36545/) | [View](https://www.securityweek.com/sophos-used-custom-implants-to-surveil-chinese-hackers-targeting-firewall-zero-days/)
-
-[You Can Hack A Nintendo Alarm Clock](https://packetstormsecurity.com/news/view/36544/You-Can-Hack-A-Nintendo-Alarm-Clock.html)
-
-Posted [Nov 1, 2024](https://packetstormsecurity.com/news/date/2024-11-01/ "14:33:52 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36544/) | [View](https://www.theregister.com/2024/11/01/hack_nintendos_alarmo/)
-
-[FakeCall Malware Menaces Android Devices](https://packetstormsecurity.com/news/view/36543/FakeCall-Malware-Menaces-Android-Devices.html)
-
-Posted [Oct 31, 2024](https://packetstormsecurity.com/news/date/2024-10-31/ "13:54:22 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [phone](https://packetstormsecurity.com/news/tags/phone), [google](https://packetstormsecurity.com/news/tags/google)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36543/) | [View](https://www.scworld.com/news/fakecall-malware-menaces-android-devices)
-
-[Chinese Attackers Accessed Canadian Government Networks For Five Years](https://packetstormsecurity.com/news/view/36542/Chinese-Attackers-Accessed-Canadian-Government-Networks-For-Five-Years.html)
-
-Posted [Oct 31, 2024](https://packetstormsecurity.com/news/date/2024-10-31/ "13:54:20 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [canada](https://packetstormsecurity.com/news/tags/canada), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [spyware](https://packetstormsecurity.com/news/tags/spyware)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36542/) | [View](https://www.theregister.com/2024/10/31/canada_cybersec_threats/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -168,4 +168,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1760059567&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1760059567.1730819404.1730819404.1730819404.1%3B%2B__utmz%3D32867617.1730819404.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1482312835&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1482312835.1730841033.1730841033.1730841033.1%3B%2B__utmz%3D32867617.1730841033.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
