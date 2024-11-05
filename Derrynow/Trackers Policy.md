@@ -266,40 +266,6 @@ Most Popular
 [IN PICTURES: Tony 'Toe' O'Connor's 50th birthday celebrations in Link 48](https://www.derrynow.com/story-telling/pictures---videos/1646971/in-pictures-tony-toe-o-connor-s-50th-birthday-celebrations-in-link-48.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Motorists urged to find alternative routes into Derry city centre due to ongoing incident](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Motorists urged to find alternative routes into Derry city centre due to ongoing incident")](https://www.derrynow.com/news/local-news/1646708/motorists-urged-to-find-alternative-routes-into-derry-city-centre-due-to-ongoing-incident.html)
-
-Derry's bywash
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Motorists urged to find alternative routes into Derry city centre due to ongoing incident](https://www.derrynow.com/news/local-news/1646708/motorists-urged-to-find-alternative-routes-into-derry-city-centre-due-to-ongoing-incident.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man charged with number of serious domestic abuse offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with number of serious domestic abuse offences")](https://www.derrynow.com/news/local-news/1646866/derry-man-charged-with-number-of-serious-domestic-abuse-offences.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man charged with number of serious domestic abuse offences](https://www.derrynow.com/news/local-news/1646866/derry-man-charged-with-number-of-serious-domestic-abuse-offences.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Derry City fans out in force for Derry v. Shelbourne game](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Derry City fans out in force for Derry v. Shelbourne game")](https://www.derrynow.com/news/derry-sport/1646895/pictures-derry-city-fans-out-in-force-for-derry-v-shelbourne-game.html)
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[PICTURES: Derry City fans out in force for Derry v. Shelbourne game](https://www.derrynow.com/news/derry-sport/1646895/pictures-derry-city-fans-out-in-force-for-derry-v-shelbourne-game.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man charged with burglary of a parochial house remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with burglary of a parochial house remanded")](https://www.derrynow.com/news/local-news/1646861/derry-man-charged-with-burglary-of-a-parochial-house-remanded.html)
-
-St Joseph's Church, Galliagh
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man charged with burglary of a parochial house remanded](https://www.derrynow.com/news/local-news/1646861/derry-man-charged-with-burglary-of-a-parochial-house-remanded.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Police attending security alert in Bogside area of Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police attending security alert in Bogside area of Derry")](https://www.derrynow.com/news/local-news/1647445/police-attending-security-alert-in-bogside-area-of-derry.html)
 
 Police at the scene in Limewood Street, Derry
@@ -309,13 +275,6 @@ Police at the scene in Limewood Street, Derry
 [Police attending security alert in Bogside area of Derry](https://www.derrynow.com/news/local-news/1647445/police-attending-security-alert-in-bogside-area-of-derry.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Fun and excitement as Cullens Halloween Carnival Funfair comes to Ebrington](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Fun and excitement as Cullens Halloween Carnival Funfair comes to Ebrington")](https://www.derrynow.com/story-telling/pictures---videos/1646906/in-pictures-fun-and-excitement-as-cullens-halloween-carnival-funfair-comes-to-ebrington.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Fun and excitement as Cullens Halloween Carnival Funfair comes to Ebrington](https://www.derrynow.com/story-telling/pictures---videos/1646906/in-pictures-fun-and-excitement-as-cullens-halloween-carnival-funfair-comes-to-ebrington.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry former viral sensation 'Frostbit Boy' launches company to promote charity and prize giveaways](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry former viral sensation 'Frostbit Boy' launches company to promote charity and prize giveaways")](https://www.derrynow.com/news/home/1647093/derry-former-viral-sensation-frostbit-boy-launches-company-to-promote-charity-and-prize-giveaways.html)
 
 [Home](https://www.derrynow.com/)
@@ -323,29 +282,75 @@ Police at the scene in Limewood Street, Derry
 [Derry former viral sensation 'Frostbit Boy' launches company to promote charity and prize giveaways](https://www.derrynow.com/news/home/1647093/derry-former-viral-sensation-frostbit-boy-launches-company-to-promote-charity-and-prize-giveaways.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![£65m investment announced for six new community spaces](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£65m investment announced for six new community spaces")](https://www.derrynow.com/news/derry-news/1646875/65m-investment-announced-for-six-new-community-spaces.html)
+[![IN PICTURES: Fun and excitement as Cullens Halloween Carnival Funfair comes to Ebrington](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Fun and excitement as Cullens Halloween Carnival Funfair comes to Ebrington")](https://www.derrynow.com/story-telling/pictures---videos/1646906/in-pictures-fun-and-excitement-as-cullens-halloween-carnival-funfair-comes-to-ebrington.html)
 
-Ulster University Dome, artist impression
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Fun and excitement as Cullens Halloween Carnival Funfair comes to Ebrington](https://www.derrynow.com/story-telling/pictures---videos/1646906/in-pictures-fun-and-excitement-as-cullens-halloween-carnival-funfair-comes-to-ebrington.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1647313/derry-death-notices-tuesday-november-5-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, November 5, 2024](https://www.derrynow.com/news/deaths/1647313/derry-death-notices-tuesday-november-5-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Throwback Tuesday: Out and About @ Dormans (2011)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Dormans (2011)")](https://www.derrynow.com/story-telling/pictures---videos/1647312/throwback-tuesday-out-and-about-dormans-2011.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Tuesday: Out and About @ Dormans (2011)](https://www.derrynow.com/story-telling/pictures---videos/1647312/throwback-tuesday-out-and-about-dormans-2011.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[!['Viable suspected pipe bomb' removed from Bogside area following Derry security alert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Viable suspected pipe bomb' removed from Bogside area following Derry security alert")](https://www.derrynow.com/news/local-news/1647542/viable-suspected-pipe-bomb-removed-from-bogside-area-following-derry-security-alert.html)
+
+Police cordon at the scene of last night's security alert in the Limewood Street area of Derry
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+['Viable suspected pipe bomb' removed from Bogside area following Derry security alert](https://www.derrynow.com/news/local-news/1647542/viable-suspected-pipe-bomb-removed-from-bogside-area-following-derry-security-alert.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PSNI press conference on the recent attacks to women in the city](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI press conference on the recent attacks to women in the city")](https://www.derrynow.com/news/derry-news/1647164/derry-psni-reassurance-for-women-following-recent-attacks-in-city-area.html)
+
+PSNI press conference on the recent attacks to women in the city
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[£65m investment announced for six new community spaces](https://www.derrynow.com/news/derry-news/1646875/65m-investment-announced-for-six-new-community-spaces.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry PSNI 'reassurance' for women following recent attacks in city area](https://www.derrynow.com/news/derry-news/1647164/derry-psni-reassurance-for-women-following-recent-attacks-in-city-area.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Mayor of Derry and Strabane at the landing of the first EasyJet flight from Edinburgh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mayor of Derry and Strabane at the landing of the first EasyJet flight from Edinburgh")](https://www.derrynow.com/news/derry-news/1646939/history-as-new-edinburgh-and-liverpool-easyjet-flights-take-off-from-city-of-derry-airport.html)
+[![Trial date for Donegal man charged with rape may not now take place until next year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Trial date for Donegal man charged with rape may not now take place until next year")](https://www.derrynow.com/news/local-news/1647784/trial-date-for-donegal-man-charged-with-rape-may-not-now-take-place-until-next-year.html)
 
-Mayor of Derry and Strabane at the landing of the first EasyJet flight from Edinburgh
+Derry courthouse
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Trial date for Donegal man charged with rape may not now take place until next year](https://www.derrynow.com/news/local-news/1647784/trial-date-for-donegal-man-charged-with-rape-may-not-now-take-place-until-next-year.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Christmas Tree in Guildhall Square](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Christmas Tree in Guildhall Square")](https://www.derrynow.com/poll/derry-news/1647713/poll-is-it-too-early-for-christmas-decorations-to-go-up-in-november.html)
+
+Christmas Tree in Guildhall Square
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[History as new Edinburgh and Liverpool easyJet flights take off from City of Derry airport](https://www.derrynow.com/news/derry-news/1646939/history-as-new-edinburgh-and-liverpool-easyjet-flights-take-off-from-city-of-derry-airport.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Poll: Is it too early for Christmas decorations to go up in November?](https://www.derrynow.com/poll/derry-news/1647713/poll-is-it-too-early-for-christmas-decorations-to-go-up-in-november.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![Throwback Tuesday: Out and About @ Dormans (2011)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Dormans (2011)")](https://www.derrynow.com/story-telling/pictures---videos/1647312/throwback-tuesday-out-and-about-dormans-2011.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Tuesday: Out and About @ Dormans (2011)](https://www.derrynow.com/story-telling/pictures---videos/1647312/throwback-tuesday-out-and-about-dormans-2011.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Tony 'Toe' O'Connor's 50th birthday celebrations in Link 48](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Tony 'Toe' O'Connor's 50th birthday celebrations in Link 48")](https://www.derrynow.com/story-telling/pictures---videos/1646971/in-pictures-tony-toe-o-connor-s-50th-birthday-celebrations-in-link-48.html)
 
@@ -409,13 +414,6 @@ Multimedia
 
 [PICTURES: Spooktacular scenes as Hollybush Primary School host annual Haunt Jaunt](https://www.derrynow.com/news/pictures---videos/1644286/pictures-spooktacular-scenes-as-hollybush-primary-school-host-annual-haunt-jaunt.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Óglach Michael Meenan 50th anniversary commemoration at the Republican Monument in Shantallow](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Óglach Michael Meenan 50th anniversary commemoration at the Republican Monument in Shantallow")](https://www.derrynow.com/story-telling/pictures---videos/1644091/in-pictures-oglach-michael-meenan-50th-anniversary-commemoration-in-derry.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Óglach Michael Meenan 50th anniversary commemoration in Derry](https://www.derrynow.com/story-telling/pictures---videos/1644091/in-pictures-oglach-michael-meenan-50th-anniversary-commemoration-in-derry.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,53 +515,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1647313/derry-death-notices-tuesday-november-5-2024.html)
+[![Claudy firm DA Miller and Sons Transport Ltd](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Claudy firm DA Miller and Sons Transport Ltd")](https://www.derrynow.com/news/county-derry-post/1647802/claudy-business-fears-budget-will-cause-significant-obstacles.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Claudy firm DA Miller and Sons Transport Ltd
 
-[Derry Death Notices - Tuesday, November 5, 2024](https://www.derrynow.com/news/deaths/1647313/derry-death-notices-tuesday-november-5-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[![Police attending security alert in Bogside area of Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police attending security alert in Bogside area of Derry")](https://www.derrynow.com/news/local-news/1647445/police-attending-security-alert-in-bogside-area-of-derry.html)
+[Claudy business fears Budget will cause significant obstacles](https://www.derrynow.com/news/county-derry-post/1647802/claudy-business-fears-budget-will-cause-significant-obstacles.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Police at the scene in Limewood Street, Derry
+[![Harris v Trump](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Harris v Trump")](https://www.derrynow.com/poll/derry-news/1647785/poll-derry-who-will-be-the-next-president-of-the-united-states-of-america-trump-or-harris.html)
+
+Harris v Trump
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Poll: Derry - who will be the next President of the United States of America; Trump or Harris?](https://www.derrynow.com/poll/derry-news/1647785/poll-derry-who-will-be-the-next-president-of-the-united-states-of-america-trump-or-harris.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Chair of the Judging panel Joris Minne and NI Food to Go Association CEO Michael Henderson](https://www.derrynow.com/resizer/165/93/true/2024_11_05/2._Chair_of_the_Judging_Panel_Joris_Minne_and_Michael_Henderson-1730805828111_1730806151.JPG--.JPG?1730806151277 "Chair of the Judging panel Joris Minne and NI Food to Go Association CEO Michael Henderson")](https://www.derrynow.com/news/arts---entertainment/1647752/derry-food-to-go-businesses-announced-as-finalists-for-ni-food-to-go-awards.html)
+
+Chair of the Judging panel Joris Minne and NI Food to Go Association CEO Michael Henderson
+
+[Arts & Entertainment](https://www.derrynow.com/section/2211/arts-entertainment)
+
+[Derry food to go businesses announced as finalists for NI Food to Go Awards](https://www.derrynow.com/news/arts---entertainment/1647752/derry-food-to-go-businesses-announced-as-finalists-for-ni-food-to-go-awards.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Trial date for Donegal man charged with rape may not now take place until next year](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Trial date for Donegal man charged with rape may not now take place until next year")](https://www.derrynow.com/news/local-news/1647784/trial-date-for-donegal-man-charged-with-rape-may-not-now-take-place-until-next-year.html)
+
+Derry courthouse
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Police attending security alert in Bogside area of Derry](https://www.derrynow.com/news/local-news/1647445/police-attending-security-alert-in-bogside-area-of-derry.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Trial date for Donegal man charged with rape may not now take place until next year](https://www.derrynow.com/news/local-news/1647784/trial-date-for-donegal-man-charged-with-rape-may-not-now-take-place-until-next-year.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry former viral sensation 'Frostbit Boy' launches company to promote charity and prize giveaways](https://www.derrynow.com/resizer/165/93/true/2024_11_04/465201612_18468325900021196_5546045872718785823_n-1730732927893.jpg--.jpg?1730732927967 "Derry former viral sensation 'Frostbit Boy' launches company to promote charity and prize giveaways")](https://www.derrynow.com/news/home/1647093/derry-former-viral-sensation-frostbit-boy-launches-company-to-promote-charity-and-prize-giveaways.html)
+[![Derry's biggest ever comedy night for mental health](https://www.derrynow.com/resizer/165/93/true/2024_11_04/Hope_Comedy_lineup-1730738189229.jpg--.jpg?1730738189591 "Derry's biggest ever comedy night for mental health")](https://www.derrynow.com/news/local-news/1647210/derry-s-biggest-ever-comedy-night-for-mental-health.html)
 
-[Home](https://www.derrynow.com/)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry former viral sensation 'Frostbit Boy' launches company to promote charity and prize giveaways](https://www.derrynow.com/news/home/1647093/derry-former-viral-sensation-frostbit-boy-launches-company-to-promote-charity-and-prize-giveaways.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry's biggest ever comedy night for mental health](https://www.derrynow.com/news/local-news/1647210/derry-s-biggest-ever-comedy-night-for-mental-health.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Glen Miller](https://www.derrynow.com/resizer/165/93/true/2024_11_04/GlenMiller-1730737309636_1730741472.jpg--.jpg?1730741472567 "Glen Miller")](https://www.derrynow.com/news/derry-news/1647166/community-stands-united-local-business-owner-glen-miller-to-distribute-personal-safety-alarms-at-womens-rally-in-the-greater-north-west.html)
+[![Christmas Tree in Guildhall Square](https://www.derrynow.com/resizer/165/93/true/2024_11_05/20241105_100214-1730803511607.jpg--.jpg?1730803512521 "Christmas Tree in Guildhall Square")](https://www.derrynow.com/poll/derry-news/1647713/poll-is-it-too-early-for-christmas-decorations-to-go-up-in-november.html)
 
-Glen Miller
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Community Stands United: Local Business Owner Glen Miller to Distribute Personal Safety Alarms at Women’s Rally in the Greater North West](https://www.derrynow.com/news/derry-news/1647166/community-stands-united-local-business-owner-glen-miller-to-distribute-personal-safety-alarms-at-womens-rally-in-the-greater-north-west.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Mayor issues rallying call to Derry City fans ahead of FAI Cup final](https://www.derrynow.com/resizer/165/93/true/2024_11_04/MayorFAICup0411247-1730738932916.jpg--.jpg?1730738933505 "Mayor issues rallying call to Derry City fans ahead of FAI Cup final")](https://www.derrynow.com/news/derry-sport/1647217/mayor-issues-rallying-call-to-derry-city-fans-ahead-of-fai-cup-final.html)
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Mayor issues rallying call to Derry City fans ahead of FAI Cup final](https://www.derrynow.com/news/derry-sport/1647217/mayor-issues-rallying-call-to-derry-city-fans-ahead-of-fai-cup-final.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PSNI press conference on the recent attacks to women in the city](https://www.derrynow.com/resizer/165/93/true/2024_11_04/20241104_135835-1730737140339_1730741442.jpg--.jpg?1730741442072 "PSNI press conference on the recent attacks to women in the city")](https://www.derrynow.com/news/derry-news/1647164/derry-psni-reassurance-for-women-following-recent-attacks-in-city-area.html)
-
-PSNI press conference on the recent attacks to women in the city
+Christmas Tree in Guildhall Square
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Derry PSNI 'reassurance' for women following recent attacks in city area](https://www.derrynow.com/news/derry-news/1647164/derry-psni-reassurance-for-women-following-recent-attacks-in-city-area.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Poll: Is it too early for Christmas decorations to go up in November?](https://www.derrynow.com/poll/derry-news/1647713/poll-is-it-too-early-for-christmas-decorations-to-go-up-in-november.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
