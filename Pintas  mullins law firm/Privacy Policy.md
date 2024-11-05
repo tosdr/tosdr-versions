@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What causes scabies in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-scabies-what-causes-scabies-in-nursing-homes.jpg "What Causes Scabies in Nursing Homes?")](https://www.pintas.com/faq/what-causes-scabies-in-nursing-homes/ "What Causes Scabies in Nursing Homes?")
+[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/faq/can-a-nursing-home-refuse-to-sign-the-death-certificate/ "Can a Nursing Home Refuse to Sign the Death Certificate?")
 
-[#### What Causes Scabies in Nursing Homes?](https://www.pintas.com/faq/what-causes-scabies-in-nursing-homes/)
+[#### Can a Nursing Home Refuse to Sign the Death Certificate?](https://www.pintas.com/faq/can-a-nursing-home-refuse-to-sign-the-death-certificate/)
 
-[![Is small cell lung cancer caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-is-small-cell-lung-cancer-caused-by-asbestos.jpg "Is Small Cell Lung Cancer Caused By Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/is-small-cell-lung-cancer-caused-by-asbestos "Is Small Cell Lung Cancer Caused By Asbestos?")
+[![Why were johnson & johnson’s baby products banned?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-why-were-johnsons-baby-products-banned.jpg "Why Were Johnson & Johnson’s Baby Products Banned?")](https://www.pintas.com/talcum-powder/why-were-johnson-and-johnsons-baby-products-banned/ "Why Were Johnson & Johnson’s Baby Products Banned?")
 
-[#### Is Small Cell Lung Cancer Caused By Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/is-small-cell-lung-cancer-caused-by-asbestos)
+[#### Why Were Johnson & Johnson’s Baby Products Banned?](https://www.pintas.com/talcum-powder/why-were-johnson-and-johnsons-baby-products-banned/)
 
-[![Mormon sexual abuse: why are some in the church protecting sex abuse offenders?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-2-300x201.jpg "Mormon Sexual Abuse: Why Are Some in the Church Protecting Sex Abuse Offenders?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/why-is-the-mormon-church-protecting-sexual-abuse-offenders/ "Mormon Sexual Abuse: Why Are Some in the Church Protecting Sex Abuse Offenders?")
+[![What does mesothelioma do to the lungs?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-what-does-mesothelioma-do-to-the-lungs.jpg "What Does Mesothelioma Do to the Lungs?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-does-mesothelioma-do-to-the-lungs/ "What Does Mesothelioma Do to the Lungs?")
 
-[#### Mormon Sexual Abuse: Why Are Some in the Church Protecting Sex Abuse Offenders?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/why-is-the-mormon-church-protecting-sexual-abuse-offenders/)
+[#### What Does Mesothelioma Do to the Lungs?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-does-mesothelioma-do-to-the-lungs/)
 
 ### Injured?  
 Tell Us What Happened.
