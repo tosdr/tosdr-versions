@@ -95,6 +95,66 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
+More Days of Praise
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/moments-god)
+
+[The Moments of God](https://www.icr.org/article/moments-god/)
+
+“For a small moment have I forsaken thee; but with great mercies will I gather thee. In a little wrath I hid my face from thee for a moment;...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/wisdom-might-are-his)
+
+[Wisdom and Might Are His](https://www.icr.org/article/wisdom-might-are-his/)
+
+“Daniel answered and said, Blessed be the name of God for ever and ever: for wisdom and might are his.” (Daniel 2:20) Men have sought...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/he-owner)
+
+[He Is the Owner](https://www.icr.org/article/he-owner/)
+
+“Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul that sinneth, it shall die. But if a...
+
+BY: [JOHN D. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=26)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/19699742/file.jpg)
+
+Made in the Image of an Ape? - Download](https://store.icr.org/discover-creation-made-in-the-image-of-an-ape-down.html)
+
+$4.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13241008/file.jpg)
+
+The Design and Complexity of the Cell](https://store.icr.org/dr-jeff-tomkins-the-design-and-complexity-of-the-c.html)
+
+$14.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/59221727/file.jpg)
+
+The Fossils Still Say No](https://store.icr.org/the-fossils-still-say-no.html)
+
+$29.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/39324153/file.jpg)
+
+Chimps and Humans - eBook](https://store.icr.org/chimps-and-humans-ebook.html)
+
+$14.99
+
+$19.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/26360806/file.jpg)
+
+Made in the Image of an Ape?](https://store.icr.org/discover-creation-made-in-the-image-of-an.html)
+
+$9.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
