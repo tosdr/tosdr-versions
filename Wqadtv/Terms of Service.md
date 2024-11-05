@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d41252bc-7163-4612-88de-b73e637fe989/20241105T044757/d41252bc-7163-4612-88de-b73e637fe989_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d41252bc-7163-4612-88de-b73e637fe989/20241105T044757/d41252bc-7163-4612-88de-b73e637fe989_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/muscatine-county-new-land-radio-system-first-responders-iowa-statewide-interoperable-communications-system/526-420ea522-ea2a-4995-9bb3-d4c5f086b5f5)
+        
+        #### [First responders in Muscatine County have a new radio system](https://www.wqad.com/article/news/local/public-safety/muscatine-county-new-land-radio-system-first-responders-iowa-statewide-interoperable-communications-system/526-420ea522-ea2a-4995-9bb3-d4c5f086b5f5)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/c05db046-ee17-4597-b317-476c450b2858/20241029T011355/c05db046-ee17-4597-b317-476c450b2858_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c05db046-ee17-4597-b317-476c450b2858/20241029T011355/c05db046-ee17-4597-b317-476c450b2858_360x203.jpg)](https://www.wqad.com/article/news/local/mr-thanksgiving-holiday-dinner-return/526-905ac4a7-461d-4ef0-9ccf-399cc1b72ad7)
         
         #### [Mr. Thanksgiving's holiday dinner will return](https://www.wqad.com/article/news/local/mr-thanksgiving-holiday-dinner-return/526-905ac4a7-461d-4ef0-9ccf-399cc1b72ad7)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a0d91246-8582-482a-91fb-a2dbd3cad480/20241104T233553/a0d91246-8582-482a-91fb-a2dbd3cad480_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a0d91246-8582-482a-91fb-a2dbd3cad480/20241104T233553/a0d91246-8582-482a-91fb-a2dbd3cad480_360x203.jpg)](https://www.wqad.com/article/about-us/shelby-kluver-new-anchor-news-8-at-6-promotion-meet-the-team/526-40ae9947-957a-444c-9acd-9012d9460649)
-        
-        #### [Shelby Kluver named new co-anchor of News 8 at 6 O'clock](https://www.wqad.com/article/about-us/shelby-kluver-new-anchor-news-8-at-6-promotion-meet-the-team/526-40ae9947-957a-444c-9acd-9012d9460649)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-62°
+64°
 
-![Light Rain](/assets/shared-images/weather-icons/drizzle-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
