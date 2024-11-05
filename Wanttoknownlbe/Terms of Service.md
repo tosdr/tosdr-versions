@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/oorlog/agent-zelensky/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/9-11/911-wtc-gebouwen-waren-controlled-demolition/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
