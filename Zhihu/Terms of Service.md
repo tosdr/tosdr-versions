@@ -3,7 +3,7 @@
 * [首页](https://www.zhihu.com/)
 * [知乎知学堂](https://www.zhihu.com/education/learning)
 * [等你来答](https://www.zhihu.com/question/waiting)
-* [](https://www.zhihu.com/zhida)
+* [知乎直答](https://www.zhihu.com/zhida)
 
 ​
 
