@@ -80,7 +80,6 @@ Reddit User Agreement
             * [May 15, 2024](https://redditinc.com/policies/contributor-terms-2-2?hsLang=en)
             * [Sep 25, 2023](https://redditinc.com/policies/contributor-terms-2?hsLang=en)
         * [Developer Data Protection Addendum](https://redditinc.com/policies/developer-dpa?hsLang=en)
-        * [Machine Readable Files](https://redditinc.com/policies/machine-readable-files?hsLang=en)
         * [Impressum](https://redditinc.com/policies/impressum?hsLang=en)
 
 * [Deutsch](https://www.redditinc.com/policies/user-agreement?hsLang=en)
@@ -115,7 +114,6 @@ Reddit User Agreement
             * [15.05.2024](https://redditinc.com/de-de/policies/contributor-terms-de-de-2?hsLang=en)
             * [06.03.2024](https://redditinc.com/de-de/policies/contributor-terms-de-de?hsLang=en)
         * [Developer Data Protection Addendum](https://redditinc.com/policies/developer-dpa?hsLang=en)
-        * [Machine Readable Files](https://redditinc.com/policies/machine-readable-files?hsLang=en)
         * [Impressum](https://redditinc.com/policies/impressum?hsLang=en)
 
 * [Español (ES)](https://www.redditinc.com/policies/user-agreement?hsLang=en)
@@ -150,7 +148,6 @@ Reddit User Agreement
             * [15 may. 2024](https://redditinc.com/es-es/policies/contributor-terms-es-es-2?hsLang=en)
             * [6 mar. 2024](https://redditinc.com/es-es/policies/contributor-terms-es-es?hsLang=en)
         * [Developer Data Protection Addendum](https://redditinc.com/policies/developer-dpa?hsLang=en)
-        * [Machine Readable Files](https://redditinc.com/policies/machine-readable-files?hsLang=en)
         * [Impressum](https://redditinc.com/policies/impressum?hsLang=en)
 
 * [Español (MX)](https://www.redditinc.com/policies/user-agreement?hsLang=en)
@@ -185,7 +182,6 @@ Reddit User Agreement
             * [15 may. 2024](https://redditinc.com/es-mx/policies/contributor-terms-es-mx-2?hsLang=en)
             * [6 mar. 2024](https://redditinc.com/es-mx/policies/contributor-terms-es-mx?hsLang=en)
         * [Developer Data Protection Addendum](https://redditinc.com/policies/developer-dpa?hsLang=en)
-        * [Machine Readable Files](https://redditinc.com/policies/machine-readable-files?hsLang=en)
         * [Impressum](https://redditinc.com/policies/impressum?hsLang=en)
 
 * [Français](https://www.redditinc.com/policies/user-agreement?hsLang=en)
@@ -220,7 +216,6 @@ Reddit User Agreement
             * [15 mai 2024](https://redditinc.com/fr-fr/policies/contributor-terms-fr-fr-2?hsLang=en)
             * [6 mars 2024](https://redditinc.com/fr-fr/policies/contributor-terms-fr-fr?hsLang=en)
         * [Developer Data Protection Addendum](https://redditinc.com/policies/developer-dpa?hsLang=en)
-        * [Machine Readable Files](https://redditinc.com/policies/machine-readable-files?hsLang=en)
         * [Impressum](https://redditinc.com/policies/impressum?hsLang=en)
 
 * [Italiano](https://www.redditinc.com/policies/user-agreement?hsLang=en)
@@ -255,7 +250,6 @@ Reddit User Agreement
             * [15 mag 2024](https://redditinc.com/it-it/policies/contributor-terms-it-it-2?hsLang=en)
             * [6 mar 2024](https://redditinc.com/it-it/policies/contributor-terms-it-it?hsLang=en)
         * [Developer Data Protection Addendum](https://redditinc.com/policies/developer-dpa?hsLang=en)
-        * [Machine Readable Files](https://redditinc.com/policies/machine-readable-files?hsLang=en)
         * [Impressum](https://redditinc.com/policies/impressum?hsLang=en)
 
 * [Nederlands](https://www.redditinc.com/policies/user-agreement?hsLang=en)
@@ -289,7 +283,6 @@ Reddit User Agreement
             * [15 mei 2024](https://redditinc.com/nl-nl/policies/contributor-terms-nl-nl-2?hsLang=en)
             * [6 mrt. 2024](https://redditinc.com/nl-nl/policies/contributor-terms-nl-nl?hsLang=en)
         * [Developer Data Protection Addendum](https://redditinc.com/nl-nl/policies/broadcasting-content-policy-2?hsLang=en)
-        * [Machine Readable Files](https://redditinc.com/policies/machine-readable-files?hsLang=en)
         * [Impressum](https://redditinc.com/policies/impressum?hsLang=en)
 
 * [Português (BR)](https://www.redditinc.com/policies/user-agreement?hsLang=en)
@@ -324,7 +317,6 @@ Reddit User Agreement
             * [15 de mai. de 2024](https://redditinc.com/pt-br/policies/contributor-terms-pt-br-2?hsLang=en)
             * [6 de mar. de 2024](https://redditinc.com/pt-br/policies/contributor-terms-pt-br?hsLang=en)
         * [Developer Data Protection Addendum](https://redditinc.com/policies/developer-dpa?hsLang=en)
-        * [Machine Readable Files](https://redditinc.com/policies/machine-readable-files?hsLang=en)
         * [Impressum](https://redditinc.com/policies/impressum?hsLang=en)
 
 * [Português (PT)](https://www.redditinc.com/policies/user-agreement?hsLang=en)
@@ -359,7 +351,6 @@ Reddit User Agreement
             * [15/05/2024](https://redditinc.com/pt-pt/policies/contributor-terms-pt-pt-may-15-2024?hsLang=en)
             * [06/03/2024](https://redditinc.com/pt-pt/policies/contributor-terms-pt-pt?hsLang=en)
         * [Developer Data Protection Addendum](https://redditinc.com/policies/developer-dpa?hsLang=en)
-        * [Machine Readable Files](https://redditinc.com/policies/machine-readable-files?hsLang=en)
         * [Impressum](https://redditinc.com/policies/impressum?hsLang=en)
 
 * [Svenska](https://www.redditinc.com/policies/user-agreement?hsLang=en)
@@ -392,7 +383,6 @@ Reddit User Agreement
             * [15 maj 2024](https://redditinc.com/sv-se/policies/contributor-terms-sv-se-2?hsLang=en)
             * [6 mars 2024](https://redditinc.com/sv-se/policies/contributor-terms-sv-se?hsLang=en)
         * [Developer Data Protection Addendum](https://redditinc.com/policies/developer-dpa?hsLang=en)
-        * [Machine Readable Files](https://redditinc.com/policies/machine-readable-files?hsLang=en)
         * [Impressum](https://redditinc.com/policies/impressum?hsLang=en)
 
 * [Bengali](https://www.redditinc.com/policies/user-agreement?hsLang=en)
@@ -400,18 +390,29 @@ Reddit User Agreement
         * [Reddit ইউজার এগ্রিমেন্ট](https://redditinc.com/bn/policies/user-agreement?hsLang=en)
         * [Reddit-এর গোপনীয়তা নীতি](https://www.reddit.com/bn-in/policies/privacy-policy)
         * [Reddit-এর কনটেন্ট নীতি](https://redditinc.com/bn/policies/content-policy?hsLang=en)
+        * [Cookie Notice](https://www.reddit.com/bn-in/policies/cookies)
+        * [Transparency](https://redditinc.com/policies/transparency?hsLang=en)
+        * [Guidelines for Law Enforcement](https://redditinc.com/policies/guideline-for-law-enforcement?hsLang=en)
+        * [Reddit's Anti-Slavery & Human Trafficking Statement](https://redditinc.com/policies/reddits-anti-slavery-and-human-trafficking-statement?hsLang=en)
+        * [Developer Data Protection Addendum](https://redditinc.com/policies/developer-dpa?hsLang=en)
 
 * [Hindi](https://www.redditinc.com/policies/user-agreement?hsLang=en)
     * * [All](https://redditinc.com/policies?hsLang=en)
         * [Reddit यूज़र एग्रीमेंट](https://redditinc.com/hi-in/policies/user-agreement?hsLang=en)
         * [Reddit प्राइवेसी पॉलिसी](https://www.reddit.com/hi-in/policies/privacy-policy)
         * [Reddit कॉन्टेंट पॉलिसी](https://redditinc.com/hi-in/policies/content-policy?hsLang=en)
+        * [Cookie Notice](https://www.reddit.com/hi-in/policies/cookies)
+        * [Transparency](https://redditinc.com/policies/transparency?hsLang=en)
+        * [Guidelines for Law Enforcement](https://redditinc.com/policies/guideline-for-law-enforcement?hsLang=en)
+        * [Reddit's Anti-Slavery & Human Trafficking Statement](https://redditinc.com/policies/reddits-anti-slavery-and-human-trafficking-statement?hsLang=en)
+        * [Developer Data Protection Addendum](https://redditinc.com/policies/developer-dpa?hsLang=en)
 
 * [Tagalog](https://www.redditinc.com/policies/user-agreement?hsLang=en)
     * * [Kasunduan sa User ng Reddit](https://redditinc.com/tl/policies/user-agreement?hsLang=en)
         * [Privacy Policy](https://www.reddit.com/fil-ph/policies/privacy-policy)
         * [Patakaran sa Content ng Reddit](https://redditinc.com/tl/policies/content-policy?hsLang=en)
         * [Code of Conduct ng Moderator](https://redditinc.com/tl/policies/moderator-code-of-conduct?hsLang=en)
+        * [Cookie Notice](https://www.reddit.com/fil-ph/policies/cookies)
         * [Mga Tuntunin sa Econ ng Reddit](https://redditinc.com/tl/policies/econ-terms?hsLang=en)
         * [Mga Tuntunin ng Paggamit sa Mga Preview](https://redditinc.com/tl/policies/previews-terms?hsLang=en)
         * [Mga Tuntunin Para sa Creator](https://redditinc.com/tl/policies/creator-terms?hsLang=en)
@@ -419,8 +420,12 @@ Reddit User Agreement
         * [Mga Tuntunin ng Data API](https://redditinc.com/tl/policies/data-api-terms?hsLang=en)
         * [Mga Tuntunin sa Mga Embed sa Reddit](https://redditinc.com/tl/policies/embeds-terms?hsLang=en)
         * [Patakaran sa Paggamit ng Trademark](https://redditinc.com/tl/policies/trademark-use-policy?hsLang=en)
+        * [Transparency](https://redditinc.com/policies/transparency?hsLang=en)
+        * [Guidelines for Law Enforcement](https://redditinc.com/policies/guideline-for-law-enforcement?hsLang=en)
+        * [Reddit's Anti-Slavery & Human Trafficking Statement](https://redditinc.com/policies/reddits-anti-slavery-and-human-trafficking-statement?hsLang=en)
         * [Patakaran sa Kita ng Reddit](https://redditinc.com/tl/policies/earn-policy?hsLang=en)
         * [Mga Tuntunin ng Earn](https://redditinc.com/tl/policies/earn-terms?hsLang=en)
+        * [Developer Data Protection Addendum](https://redditinc.com/policies/developer-dpa?hsLang=en)
 
 * [English](https://redditinc.com/policies/user-agreement)
 * [Deutsch – Deutschland](https://redditinc.com/de-de/policies/user-agreement)
