@@ -168,11 +168,11 @@ Experience unparalleled board control and responsiveness while you skate iconic 
 
 Recent Reviews:
 
-Very Positive (41) \- 90% of the 41 user reviews in the last 30 days are positive.
+Very Positive (42) \- 90% of the 42 user reviews in the last 30 days are positive.
 
 All Reviews:
 
-Very Positive (18,133) \- 86% of the 18,133 user reviews for this game are positive.    
+Very Positive (18,134) \- 86% of the 18,134 user reviews for this game are positive.    
 
 Release Date:
 
@@ -198,11 +198,11 @@ Reviews
 
 All Reviews:
 
-Very Positive (86% of 18,133) All Time
+Very Positive (86% of 18,134) All Time
 
 Recent Reviews:
 
-Very Positive (90% of 41) Recent
+Very Positive (90% of 42) Recent
 
 ![](https://store.fastly.steamstatic.com/public/images/game/game_highlight_image_spacer.gif)
 
@@ -456,27 +456,27 @@ Customer reviews for Skater XL - The Ultimate Skateboarding Game
 
 Overall Reviews:
 
-Very Positive (18,133 reviews) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (18,134 reviews) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Recent Reviews:
 
-Very Positive (41 reviews) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (42 reviews) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Review Type
 
- All (19,273)  
- Positive (16,586)  
+ All (19,274)  
+ Positive (16,587)  
  Negative (2,687)
 
 Purchase Type
 
- All (19,273)  
- Steam Purchasers (18,133) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ All (19,274)  
+ Steam Purchasers (18,134) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
  Other (1,140) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
 
 Language
 
- All Languages (19,273)  
+ All Languages (19,274)  
  Your Languages (13,316) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
 
 [Customize](https://store.steampowered.com//account/languagepreferences)
