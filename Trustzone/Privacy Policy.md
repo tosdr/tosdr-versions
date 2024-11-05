@@ -99,17 +99,17 @@ Home[Why Trust.Zone?](https://trust.zone/trustzone-vpn)[VPN Software](https://tr
 
 ### Latest News
 
+#### 5 November, 2024 18:07:22
+
+#### [BLACK FRIDAY Early Bird! Get 6 Months FREE Today](https://trust.zone/post/trustzone-vpn-special-deal-2-years-plus-1-year-free-vpn)
+
+Black Friday Alert: TrustZone VPN keeps your data hidden from unwanted...  
+
 #### 1 November, 2024 18:57:23
 
 #### [How to set up SOCKS5 with Trust.Zone VPN](https://trust.zone/post/how-to-set-up-socks5--with-trust.zone-vpn)
 
 SOCKS5 is a secure proxy protocol that routes internet traffic through a...  
-
-#### 1 November, 2024 18:52:16
-
-#### [How to set up ShadowSocks with Trust.Zone VPN](https://trust.zone/post/how-to-set-up-shadowsocks-with-trust.zone-vpn)
-
-Shadowsocks is a secured SOCKS5 based protocol designed for censorship...  
 
 [Read News >](https://trust.zone/blog)
 
