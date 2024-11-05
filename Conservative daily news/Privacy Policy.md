@@ -131,6 +131,24 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz110524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/hipocrites/)
+    
+    [Hipocrites](https://www.conservativedailynews.com/2024/11/hipocrites/)
+    
+    November 5, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg110524dAPR-1-220x150.jpg)](https://www.conservativedailynews.com/2024/11/fingers-crossed/)
+    
+    [Fingers Crossed](https://www.conservativedailynews.com/2024/11/fingers-crossed/)
+    
+    November 5, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/Grocery-Stores-empty-closed-220x150.jpg)](https://www.conservativedailynews.com/2024/11/home-prep-guide-what-you-need-to-last-2-weeks-in-an-emergency/)
+    
+    [Home Prep Guide: What You Need to Last 2 Weeks in an Emergency](https://www.conservativedailynews.com/2024/11/home-prep-guide-what-you-need-to-last-2-weeks-in-an-emergency/)
+    
+    November 5, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5741-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/inflation-hits-presidential-campaign-kamalas-cost-1-2-billion/)
     
     [Inflation Hits Presidential Campaign, Kamala’s Cost $1.2 Billion](https://www.conservativedailynews.com/2024/11/inflation-hits-presidential-campaign-kamalas-cost-1-2-billion/)
@@ -161,27 +179,11 @@ Recent Posts
     
     November 4, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-220x150.jpg)](https://www.conservativedailynews.com/2024/11/final-2024-ny-times-siena-college-polls-shows-contradictions-surprising-shifts-in-key-states/)
-    
-    [Final 2024 NY Times/Siena College Polls Shows Contradictions, Surprising Shifts In Key States](https://www.conservativedailynews.com/2024/11/final-2024-ny-times-siena-college-polls-shows-contradictions-surprising-shifts-in-key-states/)
-    
-    November 4, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/voter-for-harris-220x150.jpg)](https://www.conservativedailynews.com/2024/11/voter-says-he-cast-ballot-for-harris-as-he-fears-her-supporters-would-go-nuts-if-she-loses/)
-    
-    [Voter Says He Cast Ballot For Harris As He Fears Her Supporters Would Go Nuts If She Loses](https://www.conservativedailynews.com/2024/11/voter-says-he-cast-ballot-for-harris-as-he-fears-her-supporters-would-go-nuts-if-she-loses/)
-    
-    November 4, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/11/Voter-ID-220x150.jpg)](https://www.conservativedailynews.com/2024/11/washington-gears-up-to-vote-on-policies-blamed-for-high-gas-prices-in-us/)
-    
-    [Washington Gears Up To Vote On Policies Blamed For High Gas Prices In US](https://www.conservativedailynews.com/2024/11/washington-gears-up-to-vote-on-policies-blamed-for-high-gas-prices-in-us/)
-    
-    November 4, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Harris appears confused about how to actually become president](https://www.thegunpage.com/harris-appears-confused-about-how-to-actually-become-president/10611667)
+* [Tandemkross Unveils New 10/22 Barrel Concept](https://www.thegunpage.com/tandemkross-unveils-new-10-22-barrel-concept/10611666)
 * [Ten Weird Guns You Can Buy Today](https://www.thegunpage.com/ten-weird-guns-you-can-buy-today/10611663)
 * [POTD: Noveske Rifleworks 6mm ARC Batwing](https://www.thegunpage.com/potd-noveske-rifleworks-6mm-arc-batwing/10611664)
 * [The Rimfire Report: An (Almost) 100% Aftermarket 10/22](https://www.thegunpage.com/the-rimfire-report-an-almost-100-aftermarket-10-22/10611665)
@@ -190,8 +192,6 @@ Recent Posts
 * [NordArm Introduces Their GEN 3 Blank Firing Adapter for M2 Browning](https://www.thegunpage.com/nordarm-introduces-their-gen-3-blank-firing-adapter-for-m2-browning/10611655)
 * [The Banish Backcountry Suppressor Review](https://www.thegunpage.com/the-banish-backcountry-suppressor-review/10611653)
 * [Heritage Badlander Field Models, For Old-School Hunting](https://www.thegunpage.com/heritage-badlander-field-models-for-old-school-hunting/10611656)
-* [9mm Vs. 10mm: Self-Defense Battle In New Hampshire Parking Lot](https://www.thegunpage.com/9mm-vs-10mm-self-defense-battle-in-new-hampshire-parking-lot/10611650)
-* [Top FIVE 3D Printed Guns ft. Print Shoot Repeat!](https://www.thegunpage.com/top-five-3d-printed-guns-ft-print-shoot-repeat/10611646)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
