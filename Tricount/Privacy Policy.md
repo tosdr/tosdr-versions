@@ -1,12 +1,12 @@
-[![](https://framerusercontent.com/images/yfHppRSMMm5Ph44mPfACixMWP3s.svg)](https://www.tricount.com/en/)
+[![](https://framerusercontent.com/images/yfHppRSMMm5Ph44mPfACixMWP3s.svg)](https://www.tricount.com/)
 
-[Get started](https://www.tricount.com/en/discover)
+[Get started](https://www.tricount.com/discover)
 
-[![](https://framerusercontent.com/images/yfHppRSMMm5Ph44mPfACixMWP3s.svg)](https://www.tricount.com/en/)
+[![](https://framerusercontent.com/images/yfHppRSMMm5Ph44mPfACixMWP3s.svg)](https://www.tricount.com/)
 
 Get started
 
-[![](https://framerusercontent.com/images/yfHppRSMMm5Ph44mPfACixMWP3s.svg)](https://www.tricount.com/en/)
+[![](https://framerusercontent.com/images/yfHppRSMMm5Ph44mPfACixMWP3s.svg)](https://www.tricount.com/)
 
 Get started
 
@@ -27,29 +27,29 @@ August 2024
 
 ##### Table of contents
 
-[1\. About this Policy](https://www.tricount.com/en/privacy#chapter-1)
+1\. About this Policy
 
-[1\. About this Policy](https://www.tricount.com/en/privacy#chapter-1)
+1\. About this Policy
 
-[2\. What Personal Data is collected and why?](https://www.tricount.com/en/privacy#chapter-2)
+2\. What Personal Data is collected and why?
 
-[2\. What Personal Data is collected and why?](https://www.tricount.com/en/privacy#chapter-2)
+2\. What Personal Data is collected and why?
 
-[3\. Who do we share your Personal Data with?](https://www.tricount.com/en/privacy#chapter-3)
+3\. Who do we share your Personal Data with?
 
-[3\. Who do we share your Personal Data with?](https://www.tricount.com/en/privacy#chapter-3)
+3\. Who do we share your Personal Data with?
 
-[4\. How we protect your privacy](https://www.tricount.com/en/privacy#chapter-4)
+4\. How we protect your privacy
 
-[4\. How we protect your privacy](https://www.tricount.com/en/privacy#chapter-4)
+4\. How we protect your privacy
 
-[5\. Your data protection rights](https://www.tricount.com/en/privacy#chapter-5)
+5\. Your data protection rights
 
-[5\. Your data protection rights](https://www.tricount.com/en/privacy#chapter-5)
+5\. Your data protection rights
 
-[6\. Updating this Policy](https://www.tricount.com/en/privacy#chapter-5)
+6\. Updating this Policy
 
-[6\. Updating this Policy](https://www.tricount.com/en/privacy#chapter-5)
+6\. Updating this Policy
 
 1\. About this Policy
 ---------------------
@@ -226,7 +226,7 @@ Download Tricount now
 
 Experience the easiest way to track group expenses, 100% free!
 
-[Get started](https://www.tricount.com/en/discover)
+[Get started](https://www.tricount.com/discover)
 
 ![](https://framerusercontent.com/images/FkRW3PrpNediFI8vi1Mxg4e4iF8.png)
 
@@ -235,7 +235,7 @@ Download Tricount now
 
 Experience the easiest way to track group expenses, 100% free!
 
-[Get started](https://www.tricount.com/en/discover)
+[Get started](https://www.tricount.com/discover)
 
 ![](https://framerusercontent.com/images/FkRW3PrpNediFI8vi1Mxg4e4iF8.png)
 
@@ -244,13 +244,13 @@ Download Tricount now
 
 Experience the easiest way to track group expenses, 100% free!
 
-[Get started](https://www.tricount.com/en/discover)
+[Get started](https://www.tricount.com/discover)
 
 ![](https://framerusercontent.com/images/FkRW3PrpNediFI8vi1Mxg4e4iF8.png)
 
 ![](https://framerusercontent.com/images/pWN3YdYWMkLpNYY0OkHbNh5vTI.svg)
 
-[![](https://framerusercontent.com/images/v4CSbfDepbDAqq6mjcaszZKhhkk.svg)](https://www.tricount.com/en/)
+[![](https://framerusercontent.com/images/v4CSbfDepbDAqq6mjcaszZKhhkk.svg)](https://www.tricount.com/)
 
 [![](https://framerusercontent.com/images/eRrJWOkXnrzE0CRldRULgCfNpU.svg)](https://twitter.com/tricount)[![](https://framerusercontent.com/images/DtLW6cxzCYX9vGWk0IOlZcrrlU.svg)](https://be.linkedin.com/company/tricount)[![](https://framerusercontent.com/images/xtrett7pVimMOKOdWSv4Qae0Y.svg)](https://www.facebook.com/tricount/)[![](https://framerusercontent.com/images/n9udLDqBAn4Xf6HbtREOLT7Zk.svg)](https://www.youtube.com/channel/UCFiidoubjijwtnffSGwwPBA)
 
@@ -260,11 +260,11 @@ English
 
 Help
 
-[Help](https://www.bunq.com/help)[Community](https://together.bunq.com/t/tricount)[Legal Documents](https://www.tricount.com/en/documents)
+[Help](https://www.bunq.com/help)[Community](https://together.bunq.com/t/tricount)[Legal Documents](https://www.tricount.com/documents)
 
 Company
 
-[Discover bunq](https://www.bunq.com/)[Press](https://press.bunq.com/)[Jobs](https://jobs.bunq.com/)[Blog](https://www.tricount.com/en/blog)
+[Discover bunq](https://www.bunq.com/)[Press](https://press.bunq.com/)[Jobs](https://jobs.bunq.com/)[Blog](https://www.tricount.com/blog)
 
 © 2024 Tricount
 
@@ -272,11 +272,11 @@ Cookie Settings
 
 [Privacy](https://www.tricount.com/en/privacy)
 
-[Terms & Conditions](https://www.tricount.com/en/documents/terms-conditions)
+[Terms & Conditions](https://www.tricount.com/en/terms-conditions)
 
 [![Download on the App Store](https://framerusercontent.com/images/4LWGDWPhgKJYFTPcidoyXZ3PKI.svg)](https://itunes.apple.com/app/tricount/id349866256?utm_source=website&utm_medium=home&utm_content=lang%3Aen)[![Get it on Googel Play](https://framerusercontent.com/images/VMY6AWEI33j6YQF2CWdxAsglmXw.svg)](https://play.google.com/store/apps/details?id=com.tribab.tricount.android&utm_source=website&utm_medium=home&utm_content=lang%3Aen)
 
-[![](https://framerusercontent.com/images/v4CSbfDepbDAqq6mjcaszZKhhkk.svg)](https://www.tricount.com/en/)
+[![](https://framerusercontent.com/images/v4CSbfDepbDAqq6mjcaszZKhhkk.svg)](https://www.tricount.com/)
 
 [![](https://framerusercontent.com/images/eRrJWOkXnrzE0CRldRULgCfNpU.svg)](https://twitter.com/tricount)[![](https://framerusercontent.com/images/DtLW6cxzCYX9vGWk0IOlZcrrlU.svg)](https://be.linkedin.com/company/tricount)[![](https://framerusercontent.com/images/xtrett7pVimMOKOdWSv4Qae0Y.svg)](https://www.facebook.com/tricount/)[![](https://framerusercontent.com/images/n9udLDqBAn4Xf6HbtREOLT7Zk.svg)](https://www.youtube.com/channel/UCFiidoubjijwtnffSGwwPBA)
 
@@ -286,11 +286,11 @@ English
 
 Help
 
-[Help](https://www.bunq.com/help)[Community](https://together.bunq.com/t/tricount)[Legal Documents](https://www.tricount.com/en/documents)
+[Help](https://www.bunq.com/help)[Community](https://together.bunq.com/t/tricount)[Legal Documents](https://www.tricount.com/documents)
 
 Company
 
-[Discover bunq](https://www.bunq.com/)[Press](https://press.bunq.com/)[Jobs](https://jobs.bunq.com/)[Blog](https://www.tricount.com/en/blog)
+[Discover bunq](https://www.bunq.com/)[Press](https://press.bunq.com/)[Jobs](https://jobs.bunq.com/)[Blog](https://www.tricount.com/blog)
 
 © 2024 Tricount
 
@@ -298,11 +298,11 @@ Cookie Settings
 
 [Privacy](https://www.tricount.com/en/privacy)
 
-[Terms & Conditions](https://www.tricount.com/en/documents/terms-conditions)
+[Terms & Conditions](https://www.tricount.com/en/terms-conditions)
 
 [![Download on the App Store](https://framerusercontent.com/images/4LWGDWPhgKJYFTPcidoyXZ3PKI.svg)](https://itunes.apple.com/app/tricount/id349866256?utm_source=website&utm_medium=home&utm_content=lang%3Aen)[![Get it on Googel Play](https://framerusercontent.com/images/VMY6AWEI33j6YQF2CWdxAsglmXw.svg)](https://play.google.com/store/apps/details?id=com.tribab.tricount.android&utm_source=website&utm_medium=home&utm_content=lang%3Aen)
 
-[![](https://framerusercontent.com/images/v4CSbfDepbDAqq6mjcaszZKhhkk.svg)](https://www.tricount.com/en/)
+[![](https://framerusercontent.com/images/v4CSbfDepbDAqq6mjcaszZKhhkk.svg)](https://www.tricount.com/)
 
 [![](https://framerusercontent.com/images/eRrJWOkXnrzE0CRldRULgCfNpU.svg)](https://twitter.com/tricount)[![](https://framerusercontent.com/images/DtLW6cxzCYX9vGWk0IOlZcrrlU.svg)](https://be.linkedin.com/company/tricount)[![](https://framerusercontent.com/images/xtrett7pVimMOKOdWSv4Qae0Y.svg)](https://www.facebook.com/tricount/)[![](https://framerusercontent.com/images/n9udLDqBAn4Xf6HbtREOLT7Zk.svg)](https://www.youtube.com/channel/UCFiidoubjijwtnffSGwwPBA)
 
@@ -312,11 +312,11 @@ English
 
 Help
 
-[Help](https://www.bunq.com/help)[Community](https://together.bunq.com/t/tricount)[Legal Documents](https://www.tricount.com/en/documents)
+[Help](https://www.bunq.com/help)[Community](https://together.bunq.com/t/tricount)[Legal Documents](https://www.tricount.com/documents)
 
 Company
 
-[Discover bunq](https://www.bunq.com/)[Press](https://press.bunq.com/)[Jobs](https://jobs.bunq.com/)[Blog](https://www.tricount.com/en/blog)
+[Discover bunq](https://www.bunq.com/)[Press](https://press.bunq.com/)[Jobs](https://jobs.bunq.com/)[Blog](https://www.tricount.com/blog)
 
 © 2024 Tricount
 
@@ -324,6 +324,6 @@ Cookie Settings
 
 [Privacy](https://www.tricount.com/en/privacy)
 
-[Terms & Conditions](https://www.tricount.com/en/documents/terms-conditions)
+[Terms & Conditions](https://www.tricount.com/en/terms-conditions)
 
 [![Download on the App Store](https://framerusercontent.com/images/4LWGDWPhgKJYFTPcidoyXZ3PKI.svg)](https://itunes.apple.com/app/tricount/id349866256?utm_source=website&utm_medium=home&utm_content=lang%3Aen)[![Get it on Googel Play](https://framerusercontent.com/images/VMY6AWEI33j6YQF2CWdxAsglmXw.svg)](https://play.google.com/store/apps/details?id=com.tribab.tricount.android&utm_source=website&utm_medium=home&utm_content=lang%3Aen)
