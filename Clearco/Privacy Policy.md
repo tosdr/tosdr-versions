@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/66fab29e3c22d7d50b55e8bc_clearco-inaugural-ecommerce-awards.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/672a40280175008e533b67e1_Foundermade%20LA%20Blog.png)
 
-###### Calling All Top Ecommerce Merchants and Stores: Apply for Clearco’s Inaugural Ecommerce Awards
+###### Clearco is Sponsoring the FounderMade Executive Summit in LA
 
-[Read now >](https://clear.co/blog/clearco-inaugural-ecommerce-awards)
+[Read now >](https://clear.co/blog/clearco-foundermade-summit)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
