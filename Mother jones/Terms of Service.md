@@ -54,6 +54,19 @@ Smart, Fearless Journalism
 *  
     
 
+membership ticker
+-----------------
+
+[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPR60%7CPAHPR60/)
+
+Do you give a damn about the future of this country?
+
+You wouldn’t be reading this if you didn’t. It’s never been more obvious that American democracy is fragile. And while the corporate media goes all in on horse-race journalism, we're digging for what matters: the ties between right-wing extremism and the GOP, dirty deeds done by billionaire-funded super-PACs, the how-this-affects-you implications of the candidates’ positions. **One thing that can reliably stop liars, grifters, and extremists? Truth-telling independent media.** And right now, we need your support.
+
+We know you give a damn about this country’s future. So while the corporate media goes all in on horse-race journalism, we've spent this election season digging for the stories that matter. **One thing that can reliably stop liars, grifters, and extremists is truth-telling independent media.** And right now, we need your support.
+
+[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPMRV%7CPAHPMRV/)
+
 Terms of Service
 ================
 
