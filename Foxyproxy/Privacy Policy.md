@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Good work, fine product and fine team.
+Brilliant support again!
 
-Dan Revell
+John Smith
