@@ -14,11 +14,19 @@ Recommendations
 
 Audio
 
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/10181536/PRH_Site_1200x628_OCT2024.jpg)
+* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
     
-    New Releases
+    Books Bans Are on the Rise in America
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
+    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
+
+* * *
+
+* [![Children’s & YA Books That Celebrate Native American Heritage](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/04160201/Diversity-Nov-Native-American-Heritage-Month-HL-1500x500-v3.jpg)
+    
+    Children’s & YA Books That Celebrate Native American Heritage
+    
+    Learn More >](https://www.readbrightly.com/native-american-history-experience-kids-teens/)
 
 * * *
 
@@ -27,14 +35,6 @@ Audio
     Join Our Authors for Upcoming Events
     
     Learn More >](https://www.penguinrandomhouse.com/authors/events/)
-
-* * *
-
-* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
-    
-    Books Bans Are on the Rise in America
-    
-    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
 
 * <
     
@@ -236,7 +236,7 @@ Popular
 
 [New Releases
 
-Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
+Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-november/)
 
 [Kids](https://www.penguinrandomhouse.com/books/childrens/)
 
