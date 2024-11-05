@@ -1,6 +1,6 @@
 [Skip to content](#jupiterx-main)
 
-[![Opti Digital]( https://www.optidigital.com/wp-content/uploads/2020/02/negative-blue2-1.png )](https://www.optidigital.com/)
+[![Opti Digital](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.optidigital.com/wp-content/uploads/2020/02/negative-blue2-1.png)](https://www.optidigital.com/)
 
 * [Accueil](https://www.optidigital.com/)
 * [Solutions](https://www.optidigital.com/solutions/)
@@ -150,17 +150,17 @@ OPTI DIGITAL
 * [![Polski](data:image/svg+xml;utf8,%3Csvg width='21' height='15' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient x1='50%' y1='0%' x2='50%' y2='100%' id='a'%3E%3Cstop stop-color='%23FFF' offset='0%'/%3E%3Cstop stop-color='%23F0F0F0' offset='100%'/%3E%3C/linearGradient%3E%3ClinearGradient x1='50%' y1='0%' x2='50%' y2='100%' id='b'%3E%3Cstop stop-color='%23EB2A50' offset='0%'/%3E%3Cstop stop-color='%23DA1B40' offset='100%'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cpath fill='url(%23a)' d='M0 0h21v15H0z'/%3E%3Cpath fill='url(%23b)' d='M0 7h21v8H0z'/%3E%3Cpath fill='url(%23a)' d='M0 0h21v7H0z'/%3E%3C/g%3E%3C/svg%3E)](https://www.optidigital.com/pl/)
 * [![Italiano](data:image/svg+xml;utf8,%3Csvg width='21' height='15' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient x1='50%' y1='0%' x2='50%' y2='100%' id='a'%3E%3Cstop stop-color='%23FFF' offset='0%'/%3E%3Cstop stop-color='%23F0F0F0' offset='100%'/%3E%3C/linearGradient%3E%3ClinearGradient x1='50%' y1='0%' x2='50%' y2='100%' id='b'%3E%3Cstop stop-color='%23E43D4C' offset='0%'/%3E%3Cstop stop-color='%23CC2E3C' offset='100%'/%3E%3C/linearGradient%3E%3ClinearGradient x1='50%' y1='0%' x2='50%' y2='100%' id='c'%3E%3Cstop stop-color='%231BB65D' offset='0%'/%3E%3Cstop stop-color='%23139149' offset='100%'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cpath fill='url(%23a)' d='M0 0h21v15H0z'/%3E%3Cpath fill='url(%23b)' d='M10 0h11v15H10z'/%3E%3Cpath fill='url(%23c)' d='M0 0h7v15H0z'/%3E%3Cpath fill='url(%23a)' d='M7 0h7v15H7z'/%3E%3C/g%3E%3C/svg%3E)](https://www.optidigital.com/it/)
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_578,h_322/https://www.optidigital.com/wp-content/uploads/2020/04/IAB-registered-vendor.png)
 
-![](https://www.optidigital.com/wp-content/uploads/2020/04/IAB-registered-vendor.png)](http://iabeurope.eu/vendor-list/)
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20578%20322%22%3E%3C/svg%3E)](http://iabeurope.eu/vendor-list/)
 
-[![Test-mcm-24](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Test-mcm-24")
+[![Test-mcm-24](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.optidigital.com/wp-content/uploads/elementor/thumbs/Test-mcm-24-1-qjvzx33h4egwnl3rvlzz4ievp15911nk85r3eoswgc.png "Test-mcm-24")
 
-![Test-mcm-24](https://www.optidigital.com/wp-content/uploads/elementor/thumbs/Test-mcm-24-1-qjvzx33h4egwnl3rvlzz4ievp15911nk85r3eoswgc.png "Test-mcm-24")](https://www.optidigital.com/blog/google-mcm-un-tournant-pour-les-editeurs-de-medias/)
+![Test-mcm-24](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E "Test-mcm-24")](https://www.optidigital.com/blog/google-mcm-un-tournant-pour-les-editeurs-de-medias/)
 
-![Logo Occitanie-rectangle-quadri-150x150-72dpi](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Logo Occitanie-rectangle-quadri-150×150-72dpi")
+![Logo Occitanie-rectangle-quadri-150x150-72dpi](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.optidigital.com/wp-content/uploads/elementor/thumbs/OC-1706-instit-logo-rectangle-quadri-150x150-72dpi-pc85gi0yhgwwagsklhl9tryjils9xrwbx06cv7xsuk.png "Logo Occitanie-rectangle-quadri-150×150-72dpi")
 
-![Logo Occitanie-rectangle-quadri-150x150-72dpi](https://www.optidigital.com/wp-content/uploads/elementor/thumbs/OC-1706-instit-logo-rectangle-quadri-150x150-72dpi-pc85gi0yhgwwagsklhl9tryjils9xrwbx06cv7xsuk.png "Logo Occitanie-rectangle-quadri-150×150-72dpi")
+![Logo Occitanie-rectangle-quadri-150x150-72dpi](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E "Logo Occitanie-rectangle-quadri-150×150-72dpi")
 
 * [Politique de confidentialité](https://www.optidigital.com/privacy-policy)
 
