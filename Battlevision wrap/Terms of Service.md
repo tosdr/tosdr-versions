@@ -7,12 +7,12 @@ High-Tech Sunglasses Fit Over Prescriptions!
 * [Contact Us](https://getwraparounds.com/Contact-Us)
 * [Privacy Policy](https://getwraparounds.com/Privacy-Policy)
 * [FAQ](https://getwraparounds.com/FAQ)
-* [Wholesale](https://faire.com/direct/battlevision)
+* [Wholesale](https://www.bulbhead.com/pages/battle-vision-wholesale)
 
 * [Home](https://getwraparounds.com/Home)
 * [Contact Us](https://getwraparounds.com/Contact-Us)
 * [FAQ](https://getwraparounds.com/FAQ)
-* [Wholesale](https://faire.com/direct/battlevision)
+* [Wholesale](https://www.bulbhead.com/pages/battle-vision-wholesale)
 
 Call 1-800-618-5804
 
@@ -247,7 +247,7 @@ Effective Date: October 1, 2016
 * [Contact Us](https://getwraparounds.com/Contact-Us)
 * [Privacy Policy](https://getwraparounds.com/Privacy-Policy)
 * [FAQ](https://getwraparounds.com/FAQ)
-* [Wholesale](https://faire.com/direct/battlevision)
+* [Wholesale](https://www.bulbhead.com/pages/battle-vision-wholesale)
 
 [](https://www.facebook.com/BulbHeadIdeas/)
 
