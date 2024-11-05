@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Делегация Союза коммунистической молодёжи Вьетнама посетит Россию с официальным визитом и подпишет соглашение о взаимодействии с «Молодой Гвардией Единой России»](https://cdn.er.ru/media/news/November2024/mC1VRtcUXO6uIlrEEXsB-small.jpg)](https://er.ru/activity/news/delegaciya-soyuza-kommunisticheskoj-molodyozhi-vetnama-posetit-rossiyu-s-oficialnym-vizitom-i-podpishet-soglashenie-o-vzaimodejstvii-s-molodoj-gvardiej-edinoj-rossii)
+
+[Делегация Союза коммунистической молодёжи Вьетнама посетит Россию с официальным визитом и подпишет соглашение о взаимодействии с «Молодой Гвардией Единой России»](https://er.ru/activity/news/delegaciya-soyuza-kommunisticheskoj-molodyozhi-vetnama-posetit-rossiyu-s-oficialnym-vizitom-i-podpishet-soglashenie-o-vzaimodejstvii-s-molodoj-gvardiej-edinoj-rossii)
+
+[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Вьетнам](https://er.ru/activity/news?tags%5B0%5D=2379) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#соглашение](https://er.ru/activity/news?tags%5B0%5D=345) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742)
+
+Сегодня 13:48
+
 [![«Единая Россия» проводит неделю приёмов граждан по вопросам ЖКХ](https://cdn.er.ru/media/news/November2024/U599ujq81kSNLMXwlkA1-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provodit-nedelyu-priyomov-grazhdan-po-voprosam-zhkh)
 
 [«Единая Россия» проводит неделю приёмов граждан по вопросам ЖКХ](https://er.ru/activity/news/edinaya-rossiya-provodit-nedelyu-priyomov-grazhdan-po-voprosam-zhkh)
@@ -336,14 +344,6 @@
 [«Единая Россия», МГЕР и фонд «Наша Правда» передали помощь бойцам на Селидово-Кураховском и Торецком направлениях](https://er.ru/activity/news/edinaya-rossiya-mger-i-fond-nasha-pravda-peredali-pomosh-bojcam-na-selidovo-kurahovskom-i-toreckom-napravleniyah)
 
 [#Амелин](https://er.ru/activity/news?tags%5B0%5D=36283) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#нашаправда](https://er.ru/activity/news?tags%5B0%5D=1094120) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152)
-
-04.11.24
-
-[![Владимир Якушев передал технику подразделениям группировки войск «Центр» на передовой](https://cdn.er.ru/media/news/November2024/X7F4pzfdVYNBAqECTh6i-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-peredal-tehniku-podrazdeleniyam-gruppirovki-vojsk-centr-na-peredovoj)
-
-[Владимир Якушев передал технику подразделениям группировки войск «Центр» на передовой](https://er.ru/activity/news/vladimir-yakushev-peredal-tehniku-podrazdeleniyam-gruppirovki-vojsk-centr-na-peredovoj)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152)
 
 04.11.24
 
