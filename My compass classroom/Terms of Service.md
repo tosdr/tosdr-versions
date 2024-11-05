@@ -342,14 +342,6 @@ Quick Links
 
 Terms of Service
 
-SHOP NOW
-
-REFORMATION SALE! 20% off with coupon code                     
-
-LUTHER20
-
-   
-
 #### Report
 
 There was a problem reporting this post.
