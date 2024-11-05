@@ -1,4 +1,4 @@
-Valley is impacted by a nationwide shortage of IV fluids as a result of Hurricane Helene. We are watching the situation closely and working hard to conserve available supplies, but because of the shortage, we may need to reschedule non-emergency surgeries or change some of our hospital procedures. We are committed to continuing to give all patients the highest quality of care. We appreciate your understanding and hope to be back to normal operations soon.
+Valley has been working hard to limit the impacts of a nationwide shortage of IV fluids as a result of Hurricane Helene. We are safely conserving supplies where possible and have rescheduled some non-emergent procedures. We appreciate your understanding and hope to be back to normal operations soon.
 
 ![dismiss-icon](/globalassets/valley-medical/images/icons/dismiss-icon.svg)
 
