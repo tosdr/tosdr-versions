@@ -829,35 +829,39 @@ Themenwelten
 
 [Haustiere](https://de.iherb.com/c/pets)
 
-[Nahrungsergänzungsmittel](https://de.iherb.com/c/pet-supplements)
+[Haustierpflege](https://de.iherb.com/c/pet-grooming)
 
-[Omegas und Öle](https://de.iherb.com/c/pet-omegas-oils)
+[Pflegeprodukte Katzen](https://de.iherb.com/c/cat-groomings)
 
-[Probiotika](https://de.iherb.com/c/pet-probiotics)
-
-[Vitamine und Mineralstoffe](https://de.iherb.com/c/pet-vitamins-minerals)
-
-[Gesundheit](https://de.iherb.com/c/pet-health)
-
-[Zahnpflege](https://de.iherb.com/c/pet-dental-care)
-
-[Mittel gegen Flöhe und Zecken](https://de.iherb.com/c/pet-flea-tick-defense)
-
-[Beruhigungsmittel für Haustiere](https://de.iherb.com/c/pet-calming)
-
-[Haut- und Fellpflege](https://de.iherb.com/c/pet-skin-coat-care)
-
-[Pflege](https://de.iherb.com/c/pet-grooming)
-
-[Shampoo und Conditioner](https://de.iherb.com/c/pet-shampoo-conditioner-cleanser)
+[Pflegeprodukte Hunde](https://de.iherb.com/c/dog-grooming)
 
 [Haustierbedarf](https://de.iherb.com/c/pet-supplies)
 
 [Flecken- und Geruchsentferner](https://de.iherb.com/c/pet-stain-odor-removers)
 
+[Hundekotbeutel und Trainingsunterlagen](https://de.iherb.com/c/dog-waste-bags-pads)
+
+[Nahrungsergänzungen für Haustiere](https://de.iherb.com/c/pet-supplements)
+
+[Supplements Katzen](https://de.iherb.com/c/cat-supplementss)
+
+[Supplements Hunde](https://de.iherb.com/c/dog-supplements)
+
 [Leckerlis](https://de.iherb.com/c/pet-treats)
 
-[Spielzeug](https://de.iherb.com/c/pet-toys)
+[Leckerlis Katzen](https://de.iherb.com/c/cat-treats)
+
+[Leckerlis Hunde](https://de.iherb.com/c/dog-treats)
+
+[Gesunde Haustiere](https://de.iherb.com/c/pet-health)
+
+[Kuren und Heilmittel Katzen](https://de.iherb.com/c/cat-treatments-remedies)
+
+[Kuren und Heilmittel Hunde](https://de.iherb.com/c/dog-treatments-remedies)
+
+[Haustierspielzeug](https://de.iherb.com/c/pet-toys)
+
+[Hundespielzeug](https://de.iherb.com/c/dog-toys)
 
 [Alle Haustierprodukte](https://de.iherb.com/c/pets)
 
@@ -1135,11 +1139,11 @@ Marken der Woche
 
 [Specials](https://de.iherb.com/specials)[Neu](https://de.iherb.com/new-products)[Ausprobieren](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/catalog/topsellers)
 
-[\-22% auf Schlafmittel
+[\-22% auf Haarpflege
 
  
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/sleep?pcode=22SLEEP24)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/hair-care?pcode=22HAIR24)
 
       
 
