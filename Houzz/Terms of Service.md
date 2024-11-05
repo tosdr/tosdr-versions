@@ -292,13 +292,6 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Outdoor Chairs](https://www.houzz.com/products/outdoor-chairs)
 * [Outdoor Benches](https://www.houzz.com/products/outdoor-benches)
 
-* [Furniture Sale](https://www.houzz.com/products/furniture/on-sale)
-* [Trending in Furniture](https://www.houzz.com/shop-houzz/furniture)
-* [Living Room](https://www.houzz.com/shop-houzz/living-room-furniture)
-* [Bedroom Furniture](https://www.houzz.com/shop-houzz/bedroom-furniture)
-* [Kitchen & Dining](https://www.houzz.com/shop-houzz/kitchen-and-dining)
-* [View All Furniture](https://www.houzz.com/products/furniture)
-
 * [Bath Vanities](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles)
 * [Single Vanities](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles/number_sink--Single-Sink)
 * [Double Vanities](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles/number_sink--Double-Sink)
@@ -327,18 +320,6 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Bathroom Accessories](https://www.houzz.com/products/bathroom-accessories)
 
 * [Bathroom Storage](https://www.houzz.com/products/bathroom-storage-and-vanities)
-
-* [Bath Sale](https://www.houzz.com/products/bath-products/on-sale)
-* [Trending in Bath](https://www.houzz.com/shop-houzz/bath)
-* [View All Bath](https://www.houzz.com/products/bath-products)
-
-* Designer Picks
-* [Houzz x Jennifer Kizzee](https://www.houzz.com/shop-houzz/jennifer-kizzee-design)
-* [Houzz x Motivo Home](https://www.houzz.com/shop-houzz/motivo-home)
-
-* [How to Choose a Bathroom Vanity](https://www.houzz.com/products/bathroom-vanities/how-to-choose-bathroom-vanity-buying-guide)
-
-[![Shop Curated Bathroom Vanities](https://st.hzcdn.com/static/mp-header-images/shop-curated-bath-vanities_black-label.png)](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles/houzz-curated--houzz-curated)
 
 * [Rugs](https://www.houzz.com/products/rugs)
 * [5 x 7 Rugs](https://www.houzz.com/products/area-rugs/size_rug--5-x-7-Ft.-)
@@ -374,10 +355,6 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Outdoor Cushions & Pillows](https://www.houzz.com/products/outdoor-cushions-and-pillows)
 * [Planters & Pots](https://www.houzz.com/products/outdoor-pots-and-planters)
 
-* [Rugs & Decor Sale](https://www.houzz.com/products/home-decor/on-sale)
-* [Trending in Rugs & Decor](https://www.houzz.com/shop-houzz/home-decor)
-* [View All Rugs & Decor](https://www.houzz.com/products/home-decor)
-
 * [Bathroom Remodel](https://www.houzz.com/products/bathroom-fixtures)
 * [Bathroom Vanities](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles)
 * [Bathroom Faucets](https://www.houzz.com/products/bathroom-faucets)
@@ -406,10 +383,6 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Front Doors](https://www.houzz.com/products/front-doors)
 * [Interior Doors](https://www.houzz.com/products/interior-doors)
 
-* [Home Improvement Sale](https://www.houzz.com/products/home-improvement/on-sale)
-* [Trending in Home Improvement](https://www.houzz.com/shop-houzz/home-improvement)
-* [View All Home Improvement](https://www.houzz.com/products/home-improvement)
-
 * [Ceiling Lighting](https://www.houzz.com/products/ceiling-lighting)
 * [Chandeliers](https://www.houzz.com/products/chandeliers)
 * [Pendant Lights](https://www.houzz.com/products/pendant-lighting)
@@ -431,10 +404,6 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Outdoor Lighting](https://www.houzz.com/products/outdoor-lighting)
 * [Wall Lights & Sconces](https://www.houzz.com/products/outdoor-wall-lights-and-sconces)
 * [Landscape Lighting](https://www.houzz.com/products/landscape-lighting)
-
-* [Lighting Sale](https://www.houzz.com/products/lighting/on-sale)
-* [Trending in Lighting](https://www.houzz.com/shop-houzz/lighting)
-* [View All Lighting](https://www.houzz.com/products/lighting)
 
 * [Tabletop](https://www.houzz.com/products/tabletop)
 * [Dinnerware](https://www.houzz.com/products/dinnerware)
@@ -462,10 +431,6 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Tools & Gadgets](https://www.houzz.com/products/kitchen-tools-and-gadgets)
 
 * [Kitchen Fixtures](https://www.houzz.com/products/kitchen-fixtures)
-
-* [Kitchen & Tabletop Sale](https://www.houzz.com/products/kitchen-and-dining/on-sale)
-* [Trending in Kitchen & Tabletop](https://www.houzz.com/shop-houzz/kitchen)
-* [View All Kitchen & Tabletop](https://www.houzz.com/products/kitchen-and-dining)
 
 * [Holiday Decor](https://www.houzz.com/products/holiday-decorations)
 * [Holiday Accents & Figurines](https://www.houzz.com/products/holiday-accents-and-figurines)
@@ -520,8 +485,6 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Buying Guides](https://www.houzz.com/products/houzz-buying-guides)
 
 * [View All Products](https://www.houzz.com/products)
-
-Looking for the perfect gift? Send a [Houzz Gift Card!](https://www.houzz.com/gift-card)
 
 Cancel
 
@@ -780,52 +743,3 @@ _This section covers a variety of legal notices related to changes to these Term
 Effective February 15, 2024
 
 [Click here for the prior revision (modified June 16, 2023)](https://www.houzz.com/c-doc/8179)
-
-* [](https://www.houzz.com/)
-    
-    United States
-    
-    Select countryUnited StatesUnited KingdomAustraliaDeutschlandFranceРоссия日本ItaliaEspañaDanmarkSverigeIrelandSingaporeNew ZealandIndia
-    
-    © 2024 Houzz Inc.
-    
-* * ### COMPANY
-        
-    * [About Houzz](https://www.houzz.com/aboutUs)
-    * [Houzz Credit Cards](https://www.houzz.com/creditcard)
-    * [Gift Cards](https://www.houzz.com/products/houzz-egift-card-100-prvw-vr~78831602)
-    * [Careers](https://www.houzz.com/jobs)
-    * [Privacy](https://www.houzz.com/privacyPolicy) & [Notice](https://www.houzz.com/privacyPolicy#12)
-    * [Terms](https://www.houzz.com/termsOfUse)
-    * [Cookie Policy](https://www.houzz.com/cookiePolicy)
-    * [Mobile Apps](https://www.houzz.com/mobileApps)
-    * [Copyright & Trademark](https://www.houzz.com/copyrightTrademarkPolicy)
-* * ### BUSINESS SERVICES
-        
-    * [For Professionals](https://www.houzz.com/pro)
-    * [Houzz vs. Houzz Pro](https://www.houzz.com/for-pros/difference-between-houzz-and-houzz-pro)
-    * [Houzz Pro vs. Ivy](https://www.houzz.com/for-pros/difference-between-ivy-and-houzz-pro)
-    * [Houzz Pro Advertising Reviews](https://www.houzz.com/for-pros/advertising-reviews)
-    * [Houzz Pro 3D Floor Planner Reviews](https://www.houzz.com/for-pros/3d-floor-planner-reviews)
-    * [For Brands](https://www.houzz.com/for-brands/advertise)
-    * [Trade Program](https://www.houzz.com/trade-program)
-    * [Buttons & Badges](https://www.houzz.com/buttonsAndBadges)
-* * ### GET HELP
-        
-    * [Your Orders](https://www.houzz.com/browseOrders)
-    * [Shipping & Delivery](https://help.houzz.com/s/topic/0TO44000000Uge8GAC/shipping-delivery-questions?language=en_US)
-    * [Return Policy](https://www.houzz.com/return-policy)
-    * [Houzz Canada](https://www.houzz.com/houzz-canada)
-    * [Review Professionals](https://www.houzz.com/writeReview)
-    * [Suggested Professionals](https://help.houzz.com/s/article/Pros-Shown-on-Houzz?language=en_US)
-    * [Accessibility](https://www.houzz.com/accessibility)
-    * [Houzz Support](https://help.houzz.com/s/?language=en_US)
-    * [Contact](https://help.houzz.com/s/contactsupport?language=en_US)
-    * [Sign In](https://www.houzz.com/houzz-login)
-* * ### CONNECT WITH US
-        
-    * [Houzz Blog](http://blog.houzz.com/)
-    * [Twitter](http://twitter.com/Houzz)
-    * [Facebook](http://www.facebook.com/houzz)
-    * [YouTube](https://www.youtube.com/channel/UC6kpDTAXXNV5SEP5g1HoPTA)
-    * [RSS](http://feeds.feedburner.com/houzz)
