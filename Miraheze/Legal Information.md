@@ -114,7 +114,6 @@ Other languages:
 * [اردو](https://meta.miraheze.org/wiki/Meta:General_disclaimer/ur "میٹا:عام دستبرداری (100% translated)")
 * [हिन्दी](https://meta.miraheze.org/wiki/Meta:General_disclaimer/hi "मेटा:सामान्य अस्वीकरण (100% translated)")
 * [বাংলা](https://meta.miraheze.org/wiki/Meta:General_disclaimer/bn "মেটা:সাধারণ অস্বীকৃতি (100% translated)")
-* [中文（中国大陆）](https://meta.miraheze.org/wiki/Meta:General_disclaimer/zh-cn "元wiki：免责声明 (100% translated)")
 * [中文（简体）](https://meta.miraheze.org/wiki/Meta:General_disclaimer/zh-hans "Meta:免责声明 (100% translated)")
 * [日本語](https://meta.miraheze.org/wiki/Meta:General_disclaimer/ja "Meta:免責事項 (100% translated)")
 
