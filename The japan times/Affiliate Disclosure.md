@@ -253,23 +253,19 @@ Latest News
 
 [Trump vs. Harris: U.S. voters head to the polls as turbulent campaign concludes](https://www.japantimes.co.jp/news/2024/11/05/world/politics/trump-harris-voters-decide/ "Trump vs. Harris: U.S. voters head to the polls as turbulent campaign concludes")
 
-2 hours ago
+8 hours ago
 
 [Suzuki unveils first mass-market electric vehicle](https://www.japantimes.co.jp/business/2024/11/05/companies/suzuki-ev-mass-market/ "Suzuki unveils first mass-market electric vehicle")
 
-4 hours ago
+10 hours ago
 
 [Kioxia sees flash memory demand almost tripling by 2028](https://www.japantimes.co.jp/business/2024/11/05/tech/kioxia-new-iwate-fab/ "Kioxia sees flash memory demand almost tripling by 2028")
 
-4 hours ago
+10 hours ago
 
 [UNESCO panel recommends sake brewing for intangible cultural heritage list](https://www.japantimes.co.jp/news/2024/11/05/japan/society/sake-brewery-unesco/ "UNESCO panel recommends sake brewing for intangible cultural heritage list")
 
-6 hours ago
-
 [From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
