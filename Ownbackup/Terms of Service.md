@@ -132,17 +132,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Salesforce
+
+3 Common Salesforce Org Growing Pains and How to Avoid Them](https://www.ownbackup.com/blog/3-common-salesforce-org-growing-pains-and-how-to-avoid-them)
+
+[Salesforce
+
+Tackling Salesforce Data Overload: Practical Tips from a Senior Salesforce Admin](https://www.ownbackup.com/blog/tackling-salesforce-data-overload-practical-tips-from-a-senior-salesforce-admin)
+
 [Backup and Recovery
 
 Everything You Need to Know About Backing Up & Restoring Salesforce Data](https://www.ownbackup.com/blog/guide-salesforce-backup)
-
-[Salesforce
-
-How Often Does Salesforce Back Up My Data?](https://www.ownbackup.com/blog/how-often-does-salesforce-back-up-my-data)
-
-[Salesforce
-
-Who Is Responsible for Backing Up Salesforce Data?](https://www.ownbackup.com/blog/who-is-responsible-for-backing-up-salesforce-data)
 
 Company
 
@@ -360,17 +360,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Salesforce
+
+3 Common Salesforce Org Growing Pains and How to Avoid Them](https://www.ownbackup.com/blog/3-common-salesforce-org-growing-pains-and-how-to-avoid-them)
+
+[Salesforce
+
+Tackling Salesforce Data Overload: Practical Tips from a Senior Salesforce Admin](https://www.ownbackup.com/blog/tackling-salesforce-data-overload-practical-tips-from-a-senior-salesforce-admin)
+
 [Backup and Recovery
 
 Everything You Need to Know About Backing Up & Restoring Salesforce Data](https://www.ownbackup.com/blog/guide-salesforce-backup)
-
-[Salesforce
-
-How Often Does Salesforce Back Up My Data?](https://www.ownbackup.com/blog/how-often-does-salesforce-back-up-my-data)
-
-[Salesforce
-
-Who Is Responsible for Backing Up Salesforce Data?](https://www.ownbackup.com/blog/who-is-responsible-for-backing-up-salesforce-data)
 
 Company
 
