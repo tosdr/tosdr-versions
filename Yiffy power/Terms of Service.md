@@ -105,23 +105,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 610 1
+0 618 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/lop-star-wars-visions-and-etc-created-by-roadiesky/)
+[](https://yiff-party.com/yiff/red-xiii-final-fantasy-vii-and-etc-created-by-voidpastelchalk/)
 
-[lop (star wars visions and etc) created by roadiesky](https://yiff-party.com/yiff/lop-star-wars-visions-and-etc-created-by-roadiesky/)
+[red xiii (final fantasy vii and etc) created by voidpastelchalk](https://yiff-party.com/yiff/red-xiii-final-fantasy-vii-and-etc-created-by-voidpastelchalk/)
 
-0 85 0
+0 119 0
 
-October 6, 2024
+October 7, 2024
 
-[](https://yiff-party.com/yiff/myrica-created-by-funkybun/)
+[](https://yiff-party.com/yiff-ai-premium/directed-by-denis0k-3/)
 
-[myrica created by funkybun](https://yiff-party.com/yiff/myrica-created-by-funkybun/)
+[directed by denis0k](https://yiff-party.com/yiff-ai-premium/directed-by-denis0k-3/)
 
-0 2 0
+0 1 0
 
 November 5, 2024
 
