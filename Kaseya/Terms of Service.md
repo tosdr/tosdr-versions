@@ -388,6 +388,14 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     
     Blog
     
+    [![](https://www.kaseya.com/wp-content/uploads/2024/10/ransomware-horror-stories-of-2024-and-how-to-avoid-them-600x400.jpg)
+    
+    Ransomware Horror Stories of 2024 and How to Avoid Them
+    
+    October 31
+    
+    9 minute read](https://www.kaseya.com/blog/ransomware-horror-stories-of-2024-and-how-to-avoid-them/)
+    
     [![](https://www.kaseya.com/wp-content/uploads/2024/10/Kaseya-365-USER-Custom-Page.jpg)
     
     Introducing Kaseya 365 User: Going Beyond the Endpoint With SaaS Alerts & Kaseya 365 User
@@ -395,14 +403,6 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     October 29
     
     2 minute read](https://www.kaseya.com/blog/beyond-the-endpoint-with-saas-alerts-kaseya-365-user/)
-    
-    [![](https://www.kaseya.com/wp-content/uploads/2024/10/top-compliance-standards-soc2-pci-iso-nist-thumb-600x400.jpg)
-    
-    Top Compliance Standards and the Differences Between Them: SOC 2, ISO 27001, NIST and PCI DSS
-    
-    October 10
-    
-    11 minute read](https://www.kaseya.com/blog/top-compliance-standards-soc2-pci-iso-nist/)
     
     [View the Full Blog](https://www.kaseya.com/blog/)
     
