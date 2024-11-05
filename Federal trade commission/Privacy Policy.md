@@ -226,7 +226,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Sends More Than $17 Million to Consumers Harmed by Brigit’s Deceptive Claims, Junk Fees, and Confusing Cancellation Process](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-sends-more-17-million-consumers-harmed-brigits-deceptive-claims-junk-fees-confusing-cancellation)
+    ### [FTC Takes Action Against Phantom Debt Collector That Collected Millions In Bogus Debt From Consumers](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-takes-action-against-phantom-debt-collector-collected-millions-bogus-debt-consumers)
     
     November 4, 2024
     
