@@ -1,4 +1,4 @@
-[![](https://assets.prezicdn.net/assets-versioned/staticpages-versioned/5548-c8e149f/common/img/logo/white-34px@2x.png)](https://prezi.com/)
+[![](https://assets.prezicdn.net/assets-versioned/staticpages-versioned/5550-4f9852c/common/img/logo/white-34px@2x.png)](https://prezi.com/)
 
 [Create](https://prezi.com/dashboard/)[Explore](https://prezi.com/explore/)[Learn & support](https://prezi.com/support/)
 
