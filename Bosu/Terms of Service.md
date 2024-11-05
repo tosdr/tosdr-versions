@@ -146,35 +146,25 @@ United States (USD $)
 
 * Free shipping over $100 📦
 * SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
-* please note our warehouse will be closed for inventory 11/04-11/06
 * Free shipping over $100 📦
 * SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
-* please note our warehouse will be closed for inventory 11/04-11/06
 * Free shipping over $100 📦
 * SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
-* please note our warehouse will be closed for inventory 11/04-11/06
 * Free shipping over $100 📦
 * SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
-* please note our warehouse will be closed for inventory 11/04-11/06
 * Free shipping over $100 📦
 * SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
-* please note our warehouse will be closed for inventory 11/04-11/06
 
 * Free shipping over $100 📦
 * SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
-* please note our warehouse will be closed for inventory 11/04-11/06
 * Free shipping over $100 📦
 * SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
-* please note our warehouse will be closed for inventory 11/04-11/06
 * Free shipping over $100 📦
 * SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
-* please note our warehouse will be closed for inventory 11/04-11/06
 * Free shipping over $100 📦
 * SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
-* please note our warehouse will be closed for inventory 11/04-11/06
 * Free shipping over $100 📦
 * SHOP [DEALS](https://www.bosu.com/collections/deals "Deals")
-* please note our warehouse will be closed for inventory 11/04-11/06
 
 Terms of service
 ================
