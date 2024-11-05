@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Let us stand on each other’s shoulders, not each other’s toes”
+“ Be so good they can't ignore you”
 
-[Dennis Allison](http://en.wikipedia.org/wiki/Tiny_BASIC)
+[Steve Martin](http://en.wikipedia.org/wiki/Steve_Martin)
 
 [](https://www.adafruit.com/about)
 
