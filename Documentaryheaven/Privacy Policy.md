@@ -113,16 +113,16 @@ Advertisement
     Prisoners of Katrina
     
     n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
-* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
-    
-    The new world order – Illuminati, Freemasons and other secret societies
-    
-    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
 * [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
     
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
+* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
+    
+    The new world order – Illuminati, Freemasons and other secret societies
+    
+    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
 * [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
     Why The Industrial Revolution Happened Here
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![System Shock: How The Mp3 Changed Music](/wp-content/thumbnails/16453-100x70.jpg?x53432)
+* [![Ireland’s Traveller Women](/wp-content/thumbnails/16378-100x70.jpg?x53432)
     
-    System Shock: How The Mp3 Changed Music
+    Ireland’s Traveller Women
     
-    The '90s was a great time to be in the music industry, things were booming and as a result, there were expensive parties and big album launches, it was just part of the culture. It was the era of NSY](https://documentaryheaven.com/system-shock-how-mp3-changed-music/ "System Shock: How The Mp3 Changed Music")
-* [![The Big Burn](/wp-content/thumbnails/11266-100x70.jpg?x53432)
+    Ireland, it's a place that has been long associated with religion and conservative values, but over the last few years, the country has reinvented itself as a new and progressive Ireland. In 2017, th](https://documentaryheaven.com/irelands-traveller-women/ "Ireland’s Traveller Women")
+* [![Cold War: Inside The KGB](/wp-content/thumbnails/13285-100x70.jpg?x53432)
     
-    The Big Burn
+    Cold War: Inside The KGB
     
-    On August 19th 1910, an assistant forest ranger named Edmund Pulaski emerged out of the smoked filled Bitterroot Mountains, that loomed over the town of Wallace, Idaho. For months himself and his](https://documentaryheaven.com/big-burn/ "The Big Burn")
-* [![Crossover Kids](/wp-content/thumbnails/7542-100x70.jpg?x53432)
+    The the night of August 22, 1991, a crowd of Russians began removing a 14 tone bronze statue in a major Moscow intersection. It was an act that years earlier would surely have cost them their lives, b](https://documentaryheaven.com/cold-war-inside-kgb/ "Cold War: Inside The KGB")
+* [![Newfoundland Through Eyes of A Foreigner](/wp-content/thumbnails/1045-100x70.jpg?x53432)
     
-    Crossover Kids
+    Newfoundland Through Eyes of A Foreigner
     
-    On the surface, Coy Mathis is a typical six-year-old girl. She likes dressing up, gravitates towards the colour pink, and enjoys playing with her dolls. But Coy was born a boy.Recently she won the](https://documentaryheaven.com/crossover-kids/ "Crossover Kids")
-* [![Clearing the Smoke: The Science of Cannabis](/wp-content/thumbnails/6178-100x70.jpg?x53432)
+    Newfoundland through eyes of foreigner is a documentary film capturing our travels in Newfoundland from the summer of 2007. It mentiones some of many interesting places which we had a chance to visit,](https://documentaryheaven.com/newfoundland-through-eyes-of-a-foreigner/ "Newfoundland Through Eyes of A Foreigner")
+* [![China’s dirty secrets](/wp-content/thumbnails/7105-100x70.jpg?x53432)
     
-    Clearing the Smoke: The Science of Cannabis
+    China’s dirty secrets
     
-    Montana PBS’s new documentary, Clearing the Smoke, reveals how cannabis acts on the brain and in the body to treat nausea, pain, epilepsy and potentially even cancer. Extensive interviews with patien](https://documentaryheaven.com/clearing-the-smoke-the-science-of-cannabis/ "Clearing the Smoke: The Science of Cannabis")
-* [![Soviet Top Secret Weapons](/wp-content/thumbnails/7035-100x70.jpg?x53432)
+    China's factories provide low cost products such as computers and cars to the rest of the world. But critics claim such economic progress takes a heavy toll, polluting the country's air, land and rive](https://documentaryheaven.com/chinas-dirty-secrets/ "China’s dirty secrets")
+* [![Here Be Dragons: An Introduction to Critical Thinking](/wp-content/thumbnails/1244-100x70.jpg?x53432)
     
-    Soviet Top Secret Weapons
+    Here Be Dragons: An Introduction to Critical Thinking
     
-    During the period of the Cold War, a large proportion of the Soviet Union’s economy and scientific establishment was dedicated to the development of new and better weapons. The Soviet’s paranoia about](https://documentaryheaven.com/soviet-top-secret-weapons/ "Soviet Top Secret Weapons")
+    Here Be Dragons is a free 40 minute video introduction to critical thinking. It is suitable for general audiences and is licensed for free distribution and public display. Most people fully accept par](https://documentaryheaven.com/here-be-dragons-an-introduction-to-critical-thinking/ "Here Be Dragons: An Introduction to Critical Thinking")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
