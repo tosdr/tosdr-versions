@@ -299,6 +299,30 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» проводит неделю приёмов граждан по вопросам ЖКХ](https://cdn.er.ru/media/news/November2024/U599ujq81kSNLMXwlkA1-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provodit-nedelyu-priyomov-grazhdan-po-voprosam-zhkh)
+
+[«Единая Россия» проводит неделю приёмов граждан по вопросам ЖКХ](https://er.ru/activity/news/edinaya-rossiya-provodit-nedelyu-priyomov-grazhdan-po-voprosam-zhkh)
+
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#приемграждан](https://er.ru/activity/news?tags%5B0%5D=103849) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#общественнаяприемная](https://er.ru/activity/news?tags%5B0%5D=60146) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764)
+
+Сегодня 12:21
+
+[![Ольга Занко: По инициативам советов сторонников «Единой России» Госдума приняла 15 законов](https://cdn.er.ru/media/news/November2024/yJplPOmssr2l2Fkk1LoA-small.JPG)](https://er.ru/activity/news/olga-zanko-po-iniciativam-sovetov-storonnikov-edinoj-rossii-gosduma-prinyala-15-zakonov)
+
+[Ольга Занко: По инициативам советов сторонников «Единой России» Госдума приняла 15 законов](https://er.ru/activity/news/olga-zanko-po-iniciativam-sovetov-storonnikov-edinoj-rossii-gosduma-prinyala-15-zakonov)
+
+[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#сторонникиЕР](https://er.ru/activity/news?tags%5B0%5D=1093192) [#семинар](https://er.ru/activity/news?tags%5B0%5D=5508)
+
+Сегодня 11:24
+
+[![«Единая Россия»: Выставку «Сила V правде» в Самаре в первый день посетили более 40 тысяч человек](https://cdn.er.ru/media/news/November2024/eO5mQeVTSOHDSZVQMTsY-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vystavku-sila-v-pravde-v-samare-v-pervyj-den-posetili-bolee-40-tysyach-chelovek)
+
+[«Единая Россия»: Выставку «Сила V правде» в Самаре в первый день посетили более 40 тысяч человек](https://er.ru/activity/news/edinaya-rossiya-vystavku-sila-v-pravde-v-samare-v-pervyj-den-posetili-bolee-40-tysyach-chelovek)
+
+[#Макушева](https://er.ru/activity/news?tags%5B0%5D=127600) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#СилаVПравде](https://er.ru/activity/news?tags%5B0%5D=1095874) [#Самарская область](https://er.ru/activity/news?tags%5B0%5D=2275) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566)
+
+Сегодня 11:00
+
 [![Владимир Путин назначил депутата Госдумы от «Единой России», участника СВО Евгения Первышова врио главы Тамбовской области](https://cdn.er.ru/media/news/November2024/VC2dcavPMvhRU4SrSYwE-small.jpg)](https://er.ru/activity/news/vladimir-putin-naznachil-deputata-gosdumy-ot-edinoj-rossii-uchastnika-svo-evgeniya-pervyshova-vrio-glavy-tambovskoj-oblasti)
 
 [Владимир Путин назначил депутата Госдумы от «Единой России», участника СВО Евгения Первышова врио главы Тамбовской области](https://er.ru/activity/news/vladimir-putin-naznachil-deputata-gosdumy-ot-edinoj-rossii-uchastnika-svo-evgeniya-pervyshova-vrio-glavy-tambovskoj-oblasti)
@@ -320,30 +344,6 @@
 [Владимир Якушев передал технику подразделениям группировки войск «Центр» на передовой](https://er.ru/activity/news/vladimir-yakushev-peredal-tehniku-podrazdeleniyam-gruppirovki-vojsk-centr-na-peredovoj)
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152)
-
-04.11.24
-
-[![«Единая Россия»: Выставка «Сила V правде – гордость и победа» открылась в Самаре в День народного единства](https://cdn.er.ru/media/news/November2024/F73I0GlwzIGwL4ifS4B5-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-otkrylas-v-samare-v-den-narodnogo-edinstva)
-
-[«Единая Россия»: Выставка «Сила V правде – гордость и победа» открылась в Самаре в День народного единства](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-otkrylas-v-samare-v-den-narodnogo-edinstva)
-
-[#Самарская область](https://er.ru/activity/news?tags%5B0%5D=2275) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Федорищев](https://er.ru/activity/news?tags%5B0%5D=1095521) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#техника](https://er.ru/activity/news?tags%5B0%5D=2305) [#военнаятехника](https://er.ru/activity/news?tags%5B0%5D=136750) [#экспозиция](https://er.ru/activity/news?tags%5B0%5D=3390)
-
-04.11.24
-
-[![«Единая Россия» организует гуманитарную помощь жителям освобождённого посёлка Горняк в ДНР](https://cdn.er.ru/img/stubs/small/5.jpg)](https://er.ru/activity/news/edinaya-rossiya-organizuet-gumanitarnuyu-pomosh-zhitelyam-osvobozhdyonnogo-posyolka-gornyak-v-dnr)
-
-[«Единая Россия» организует гуманитарную помощь жителям освобождённого посёлка Горняк в ДНР](https://er.ru/activity/news/edinaya-rossiya-organizuet-gumanitarnuyu-pomosh-zhitelyam-osvobozhdyonnogo-posyolka-gornyak-v-dnr)
-
-[#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Пушилин](https://er.ru/activity/news?tags%5B0%5D=1092774) [#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978)
-
-04.11.24
-
-[![Владимир Васильев: На переломных этапах истории сплочённость народа поднимала нашу страну на великие ратные подвиги и трудовые свершения](https://cdn.er.ru/media/news/November2024/Wy5rVcMncEiEvxgLsoKl-small.jpg)](https://er.ru/activity/news/vladimir-vasilev-na-perelomnyh-etapah-istorii-splochyonnost-naroda-podnimala-nashu-stranu-na-velikie-ratnye-podvigi-i-trudovye-sversheniya)
-
-[Владимир Васильев: На переломных этапах истории сплочённость народа поднимала нашу страну на великие ратные подвиги и трудовые свершения](https://er.ru/activity/news/vladimir-vasilev-na-perelomnyh-etapah-istorii-splochyonnost-naroda-podnimala-nashu-stranu-na-velikie-ratnye-podvigi-i-trudovye-sversheniya)
-
-[#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172) [#Деньнародногоединства](https://er.ru/activity/news?tags%5B0%5D=124570) [#4ноября](https://er.ru/activity/news?tags%5B0%5D=112331)
 
 04.11.24
 
