@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Wind Up Missing YouTucker Wetmore<br><br>4:39pm |
-| Single Saturday NightCole Swindell<br><br>4:36pm |
-| Try That In A Small TownJason Aldean<br><br>4:33pm |
-| I Never LieZach Top<br><br>4:29pm |
-| Mud On The TiresBrad Paisley<br><br>4:26pm |
+| Bottoms UpBrantley Gilbert<br><br>10:42pm |
+| Am I OkMegan Moroney<br><br>10:38pm |
+| Back Then Right NowTyler Hubbard<br><br>10:34pm |
+| Lies, Lies, LiesMorgan Wallen<br><br>10:22pm |
+| The Kind Of Love We MakeLuke Combs<br><br>10:19pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,6 +358,10 @@ State
 Featured Brands
 ---------------
 
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
+
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
@@ -365,10 +369,6 @@ Spanish • Western
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
