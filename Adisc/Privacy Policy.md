@@ -221,7 +221,7 @@ Reactions: LostMyShy, Robbie2Rosie, Woncrinklz and 1 other person
 
 Share:
 
-[X (Twitter)](#_xfUid-1-1730767475) [LinkedIn](#_xfUid-1-1730767475) [Reddit](#_xfUid-1-1730767475) [Pinterest](#_xfUid-1-1730767475) [Tumblr](#_xfUid-1-1730767475) [WhatsApp](#_xfUid-1-1730767475) [Email](#_xfUid-1-1730767475) [Share](#_xfUid-1-1730767475) [Link](#_xfUid-1-1730767475)
+[X (Twitter)](#_xfUid-1-1730789071) [LinkedIn](#_xfUid-1-1730789071) [Reddit](#_xfUid-1-1730789071) [Pinterest](#_xfUid-1-1730789071) [Tumblr](#_xfUid-1-1730789071) [WhatsApp](#_xfUid-1-1730789071) [Email](#_xfUid-1-1730789071) [Share](#_xfUid-1-1730789071) [Link](#_xfUid-1-1730789071)
 
 * [Forums](https://www.adisc.org/forum/) 
 * [About Us](https://www.adisc.org/forum/#about-us.65) 
@@ -235,7 +235,7 @@ Share:
 * [Help](https://www.adisc.org/forum/help/)
 * [RSS](https://www.adisc.org/forum/forums/-/index.rss "RSS")
 
-[Community platform by XenForo® © 2010-2024 XenForo Ltd.](https://xenforo.com/) | [Xenforo Add-ons © by ©XenTR](https://xentr.net/)
+[Community platform by XenForo® © 2010-2024 XenForo Ltd.](https://xenforo.com/)
 
 [Discord Integration](https://xenforo.com/community/resources/6058/) © Jason Axelrod of [8WAYRUN](https://8wayrun.com/)
 
@@ -246,7 +246,7 @@ Share:
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1730767475%2C9cdd82b6036e1848277d61bc8efd7467) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1730767475%2C9cdd82b6036e1848277d61bc8efd7467)
+    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1730789071%2Ce3328781efb49d75d613243cf8d77885) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1730789071%2Ce3328781efb49d75d613243cf8d77885)
     
     * Essential cookies
     
