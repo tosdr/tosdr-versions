@@ -145,7 +145,7 @@ New & Coming soon
 ### Photos
 
 * [Red Carpet Premieres](https://www.fandango.com/movie-photos/Red-Carpet-Premieres-36)
-* [October Celebrity Birthdays](https://www.fandango.com/movie-photos/october-celebrity-birthdays-351)
+* [November Celebrity Birthdays](https://www.fandango.com/movie-photos/november-celebrity-birthdays-364)
 * [Award Show Galleries](https://www.fandango.com/movie-news/2024-award-show-galleries-755005)
 
 ### Follow Us
