@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-0b3d6be67a0d848d56845d5ca4e2d69f
+c030226686b9d76bbc3c926c9a23d677
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Swarovski blue Montana square clasp](https://sojourner.biz/images/cache/SKU0481-2front.200.jpg)](https://sojourner.biz/clasps/swarovski/swarovski-blue-montana-square-clasp.html "Swarovski blue Montana square clasp")
+[![Vintage miniscule tan square beads](https://sojourner.biz/images/cache/glass/VB0010.200.jpg)](https://sojourner.biz/beads/glass/vintage-miniscule-tan-square-beads.html "Vintage miniscule tan square beads")
 
-#### [Swarovski blue Montana square clasp](https://sojourner.biz/clasps/swarovski/swarovski-blue-montana-square-clasp.html "Swarovski blue Montana square clasp")
+#### [Vintage miniscule tan square beads](https://sojourner.biz/beads/glass/vintage-miniscule-tan-square-beads.html "Vintage miniscule tan square beads")
 
-$32.00
+$5.00
 
 ### Best Sellers
 
@@ -168,8 +168,8 @@ $32.00
     $17.00
 9. [Sterling silver tiny lily clasp](https://sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [Black and white playful cat sauce dish](https://sojourner.biz/tabletop/black-and-white-playful-cat-sauce-dish.html "Black and white playful cat sauce dish")  
-    $7.00
+10. [Electric yellow Swarovski polka dot clasp](https://sojourner.biz/clasps/swarovski/electric-yellow-swarovski-polka-dot-clasp.html "Electric yellow Swarovski polka dot clasp")  
+    $15.00
 
 [Top](#)
 
