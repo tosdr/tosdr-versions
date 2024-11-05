@@ -117,61 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
+> Enjoying Invoices Online
 > ------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
 > 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> I have upgraded to the Gold account in order to support you guys!
 
-Terri Winfield
+Shaun Gartshore
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=9e3b2493b8396b3204c0a284828ede49c34a41343d3fa6d625c2b0ccaa0a124d&c=47294644)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=283d44bfb1828aba3a6410170d58418b6d451b71ede335b75252fd6c2be63342&c=151547481)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=9e3b2493b8396b3204c0a284828ede49c34a41343d3fa6d625c2b0ccaa0a124d&c=119400478)  
-SLOANE STAR MEAT MARKET
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=283d44bfb1828aba3a6410170d58418b6d451b71ede335b75252fd6c2be63342&c=120378880)  
+FX ACCOUNTING
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=9e3b2493b8396b3204c0a284828ede49c34a41343d3fa6d625c2b0ccaa0a124d&c=213301591)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=283d44bfb1828aba3a6410170d58418b6d451b71ede335b75252fd6c2be63342&c=72106384)  
+Import Maaw
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=9e3b2493b8396b3204c0a284828ede49c34a41343d3fa6d625c2b0ccaa0a124d&c=79604389)  
-Vplay Letsheng Mall
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=283d44bfb1828aba3a6410170d58418b6d451b71ede335b75252fd6c2be63342&c=209491117)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=9e3b2493b8396b3204c0a284828ede49c34a41343d3fa6d625c2b0ccaa0a124d&c=70191923)  
-NGB HOLDINGS PTY LTD
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=283d44bfb1828aba3a6410170d58418b6d451b71ede335b75252fd6c2be63342&c=37484518)  
+Meyer Towing & Recovery
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=9e3b2493b8396b3204c0a284828ede49c34a41343d3fa6d625c2b0ccaa0a124d&c=79994296)  
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=283d44bfb1828aba3a6410170d58418b6d451b71ede335b75252fd6c2be63342&c=134020065)  
+OXYAIDER (PTY) LTD
+
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=283d44bfb1828aba3a6410170d58418b6d451b71ede335b75252fd6c2be63342&c=17169992)  
+Tagline Brands
+
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=283d44bfb1828aba3a6410170d58418b6d451b71ede335b75252fd6c2be63342&c=120600914)  
 Dr V Naik Consult
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=9e3b2493b8396b3204c0a284828ede49c34a41343d3fa6d625c2b0ccaa0a124d&c=62641721)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=283d44bfb1828aba3a6410170d58418b6d451b71ede335b75252fd6c2be63342&c=5024314)  
+UniTech Solutions Pty Ltd
 
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=9e3b2493b8396b3204c0a284828ede49c34a41343d3fa6d625c2b0ccaa0a124d&c=169747161)  
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=283d44bfb1828aba3a6410170d58418b6d451b71ede335b75252fd6c2be63342&c=74118306)  
+MR Compressors& Industrial Supplies
+
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=283d44bfb1828aba3a6410170d58418b6d451b71ede335b75252fd6c2be63342&c=145244589)  
+All Trucking Solutions
+
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=283d44bfb1828aba3a6410170d58418b6d451b71ede335b75252fd6c2be63342&c=101325265)  
+Digifax (Pty) Ltd T/A SecurityHyper
+
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=283d44bfb1828aba3a6410170d58418b6d451b71ede335b75252fd6c2be63342&c=81625735)  
+J.M. HUMAN RESOURCES
+
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=283d44bfb1828aba3a6410170d58418b6d451b71ede335b75252fd6c2be63342&c=138004787)  
+Cpower Projects t/a Pro Pure Water
+
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=283d44bfb1828aba3a6410170d58418b6d451b71ede335b75252fd6c2be63342&c=65545091)  
 Know Informatics
-
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=9e3b2493b8396b3204c0a284828ede49c34a41343d3fa6d625c2b0ccaa0a124d&c=7522169)  
-Lion Software Develepment
-
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=9e3b2493b8396b3204c0a284828ede49c34a41343d3fa6d625c2b0ccaa0a124d&c=142695351)  
-Website Café (PTY) LTD
-
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=9e3b2493b8396b3204c0a284828ede49c34a41343d3fa6d625c2b0ccaa0a124d&c=166714550)  
-AMS Ambu Medical Supplies
-
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=9e3b2493b8396b3204c0a284828ede49c34a41343d3fa6d625c2b0ccaa0a124d&c=67890356)  
-Myfinance-Online
-
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=9e3b2493b8396b3204c0a284828ede49c34a41343d3fa6d625c2b0ccaa0a124d&c=131934657)  
-Digifax Pty) Ltd t/a Findfish
-
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=9e3b2493b8396b3204c0a284828ede49c34a41343d3fa6d625c2b0ccaa0a124d&c=39887666)  
-Beyond Laser CNC Cutting Technology South Africa CC
-
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=9e3b2493b8396b3204c0a284828ede49c34a41343d3fa6d625c2b0ccaa0a124d&c=114760904)  
-Redlum Group (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
