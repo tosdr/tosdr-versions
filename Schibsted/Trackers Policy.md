@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-[![Schibsted logo](/wp-content/uploads/2019/09/logo.png)](http://info.privacy.schibsted.com/en/)
+[![Schibsted logo](/wp-content/uploads/2019/09/logo.png)](https://info.privacy.schibsted.com/en/)
 
 Privacy
 
