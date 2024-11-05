@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [US approves sale of four E-7 early-warning planes to South Korea](https://www.defensenews.com/air/2024/11/05/us-approves-sale-of-four-e-7-early-warning-planes-to-south-korea/)  
+    11/05/24 10:54am  
+    
+    Four Boeing E-7 Wedgetail aircraft could be sold to South Korea, according to a U.S. State Department notice. (Boeing Australia)
+    
 * [Air Force to send bomber task force to Europe](https://www.defensenews.com/air/2024/11/04/air-force-to-send-bomber-task-force-to-europe/)  
     11/04/24 02:20pm  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     10/28/24 04:30pm  
     
     Air Force Chief of Staff Gen. David Allvin said the B-21, shown here, could dodge the ballooning costs that can bedevil major programs. (U.S. Air Force)
-    
-* [Israel launches military strikes against Iran](https://www.defensenews.com/flashpoints/israel-palestine/2024/10/26/israel-launches-military-strikes-against-iran/)  
-    10/25/24 08:11pm  
-    
-    Rockets are seen over Jerusalem as a siren sounds a warning of incoming missiles fired from Iran, in Jerusalem, Tuesday, Oct. 1, 2024. (AP Photo/Mahmoud Illean, File)
     
 
 Recent parts by keyword  
