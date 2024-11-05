@@ -1,3 +1,5 @@
+[Skip to content](#content)
+
 [](https://simplisafe.com/)
 
 Shop Packages
@@ -72,8 +74,8 @@ You may receive email offers from us in accordance with our [Privacy Policy](htt
 * Legal
     * [Legal](https://simplisafe.com/legal)
     * [Privacy Policy](https://simplisafe.com/privacy-policy)
-    * [State Licensing](https://simplisafe.com/licenses)
-    * [Accessibility Statement](https://simplisafe.com/accessibility_statement)
+    * [State Licensing](https://simplisafe.com/legal/licenses)
+    * [Accessibility Statement](https://simplisafe.com/legal/accessibility_statement)
 
 Current country is:
 
@@ -91,8 +93,8 @@ USA
 
 * [Legal](https://simplisafe.com/legal)
 * [Privacy Policy](https://simplisafe.com/privacy-policy)
-* [State Licensing](https://simplisafe.com/licenses)
-* [Accessibility Statement](https://simplisafe.com/accessibility_statement)
+* [State Licensing](https://simplisafe.com/legal/licenses)
+* [Accessibility Statement](https://simplisafe.com/legal/accessibility_statement)
 
 Do Not Sell My Personal Information
 
