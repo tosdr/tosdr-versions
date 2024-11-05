@@ -232,6 +232,10 @@ Search  Search
         
         [OTHER SILVER](https://sdbullion.com/silver/other-silver-products) [chevron-right](#/)
         
+        * [chevron-right ❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
+            [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
         * [chevron-right In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
@@ -239,10 +243,6 @@ Search  Search
         * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
             
             [Trump Silver](https://sdbullion.com/silver/trump)
-            
-        * [chevron-right Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
-            
-            [Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
             
         * [chevron-right Commander Series](https://sdbullion.com/shop-commander-coin-series)
             
@@ -262,6 +262,10 @@ Search  Search
             
         
         * [chevron-left OTHER SILVER](#/)
+        * [chevron-right ❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
+            [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
         * [chevron-right In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
@@ -269,10 +273,6 @@ Search  Search
         * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
             
             [Trump Silver](https://sdbullion.com/silver/trump)
-            
-        * [chevron-right Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
-            
-            [Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
             
         * [chevron-right Commander Series](https://sdbullion.com/shop-commander-coin-series)
             
@@ -506,6 +506,10 @@ Search  Search
         
         [OTHER SILVER](https://sdbullion.com/silver/other-silver-products) [chevron-right](#/)
         
+        * [chevron-right ❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
+            [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
         * [chevron-right In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
@@ -513,10 +517,6 @@ Search  Search
         * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
             
             [Trump Silver](https://sdbullion.com/silver/trump)
-            
-        * [chevron-right Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
-            
-            [Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
             
         * [chevron-right Commander Series](https://sdbullion.com/shop-commander-coin-series)
             
@@ -536,6 +536,10 @@ Search  Search
             
         
         * [chevron-left OTHER SILVER](#/)
+        * [chevron-right ❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
+            [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
         * [chevron-right In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
@@ -543,10 +547,6 @@ Search  Search
         * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
             
             [Trump Silver](https://sdbullion.com/silver/trump)
-            
-        * [chevron-right Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
-            
-            [Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
             
         * [chevron-right Commander Series](https://sdbullion.com/shop-commander-coin-series)
             
@@ -732,13 +732,13 @@ Search  Search
             
             [SD24K Gold Jewelry](https://sdbullion.com/jewelry/gold-jewelry)
             
-        * [chevron-right Foil Notes](https://sdbullion.com/gold/foil-notes)
-            
-            [Foil Notes](https://sdbullion.com/gold/foil-notes)
-            
         * [chevron-right Fractional Gold](https://sdbullion.com/gold/fractional-gold)
             
             [Fractional Gold](https://sdbullion.com/gold/fractional-gold)
+            
+        * [chevron-right ❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
+            [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
             
         
         * [chevron-left OTHER GOLD](#/)
@@ -762,13 +762,13 @@ Search  Search
             
             [SD24K Gold Jewelry](https://sdbullion.com/jewelry/gold-jewelry)
             
-        * [chevron-right Foil Notes](https://sdbullion.com/gold/foil-notes)
-            
-            [Foil Notes](https://sdbullion.com/gold/foil-notes)
-            
         * [chevron-right Fractional Gold](https://sdbullion.com/gold/fractional-gold)
             
             [Fractional Gold](https://sdbullion.com/gold/fractional-gold)
+            
+        * [chevron-right ❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
+            [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
             
     
     * [chevron-left Gold](#/)
@@ -936,13 +936,13 @@ Search  Search
             
             [SD24K Gold Jewelry](https://sdbullion.com/jewelry/gold-jewelry)
             
-        * [chevron-right Foil Notes](https://sdbullion.com/gold/foil-notes)
-            
-            [Foil Notes](https://sdbullion.com/gold/foil-notes)
-            
         * [chevron-right Fractional Gold](https://sdbullion.com/gold/fractional-gold)
             
             [Fractional Gold](https://sdbullion.com/gold/fractional-gold)
+            
+        * [chevron-right ❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
+            [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
             
         
         * [chevron-left OTHER GOLD](#/)
@@ -966,13 +966,13 @@ Search  Search
             
             [SD24K Gold Jewelry](https://sdbullion.com/jewelry/gold-jewelry)
             
-        * [chevron-right Foil Notes](https://sdbullion.com/gold/foil-notes)
-            
-            [Foil Notes](https://sdbullion.com/gold/foil-notes)
-            
         * [chevron-right Fractional Gold](https://sdbullion.com/gold/fractional-gold)
             
             [Fractional Gold](https://sdbullion.com/gold/fractional-gold)
+            
+        * [chevron-right ❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
+            [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
             
 * [Platinum](https://sdbullion.com/platinum)
     
@@ -2013,6 +2013,10 @@ Search  Search
         
         [OTHER SILVER](https://sdbullion.com/silver/other-silver-products) [chevron-right](#/)
         
+        * [chevron-right ❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
+            [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
         * [chevron-right In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
@@ -2020,10 +2024,6 @@ Search  Search
         * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
             
             [Trump Silver](https://sdbullion.com/silver/trump)
-            
-        * [chevron-right Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
-            
-            [Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
             
         * [chevron-right Commander Series](https://sdbullion.com/shop-commander-coin-series)
             
@@ -2043,6 +2043,10 @@ Search  Search
             
         
         * [chevron-left OTHER SILVER](#/)
+        * [chevron-right ❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
+            [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
         * [chevron-right In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
@@ -2050,10 +2054,6 @@ Search  Search
         * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
             
             [Trump Silver](https://sdbullion.com/silver/trump)
-            
-        * [chevron-right Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
-            
-            [Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
             
         * [chevron-right Commander Series](https://sdbullion.com/shop-commander-coin-series)
             
@@ -2287,6 +2287,10 @@ Search  Search
         
         [OTHER SILVER](https://sdbullion.com/silver/other-silver-products) [chevron-right](#/)
         
+        * [chevron-right ❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
+            [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
         * [chevron-right In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
@@ -2294,10 +2298,6 @@ Search  Search
         * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
             
             [Trump Silver](https://sdbullion.com/silver/trump)
-            
-        * [chevron-right Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
-            
-            [Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
             
         * [chevron-right Commander Series](https://sdbullion.com/shop-commander-coin-series)
             
@@ -2317,6 +2317,10 @@ Search  Search
             
         
         * [chevron-left OTHER SILVER](#/)
+        * [chevron-right ❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
+            [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
         * [chevron-right In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
@@ -2324,10 +2328,6 @@ Search  Search
         * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
             
             [Trump Silver](https://sdbullion.com/silver/trump)
-            
-        * [chevron-right Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
-            
-            [Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
             
         * [chevron-right Commander Series](https://sdbullion.com/shop-commander-coin-series)
             
@@ -2513,13 +2513,13 @@ Search  Search
             
             [SD24K Gold Jewelry](https://sdbullion.com/jewelry/gold-jewelry)
             
-        * [chevron-right Foil Notes](https://sdbullion.com/gold/foil-notes)
-            
-            [Foil Notes](https://sdbullion.com/gold/foil-notes)
-            
         * [chevron-right Fractional Gold](https://sdbullion.com/gold/fractional-gold)
             
             [Fractional Gold](https://sdbullion.com/gold/fractional-gold)
+            
+        * [chevron-right ❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
+            [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
             
         
         * [chevron-left OTHER GOLD](#/)
@@ -2543,13 +2543,13 @@ Search  Search
             
             [SD24K Gold Jewelry](https://sdbullion.com/jewelry/gold-jewelry)
             
-        * [chevron-right Foil Notes](https://sdbullion.com/gold/foil-notes)
-            
-            [Foil Notes](https://sdbullion.com/gold/foil-notes)
-            
         * [chevron-right Fractional Gold](https://sdbullion.com/gold/fractional-gold)
             
             [Fractional Gold](https://sdbullion.com/gold/fractional-gold)
+            
+        * [chevron-right ❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
+            [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
             
     
     * [chevron-left Gold](#/)
@@ -2717,13 +2717,13 @@ Search  Search
             
             [SD24K Gold Jewelry](https://sdbullion.com/jewelry/gold-jewelry)
             
-        * [chevron-right Foil Notes](https://sdbullion.com/gold/foil-notes)
-            
-            [Foil Notes](https://sdbullion.com/gold/foil-notes)
-            
         * [chevron-right Fractional Gold](https://sdbullion.com/gold/fractional-gold)
             
             [Fractional Gold](https://sdbullion.com/gold/fractional-gold)
+            
+        * [chevron-right ❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
+            [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
             
         
         * [chevron-left OTHER GOLD](#/)
@@ -2747,13 +2747,13 @@ Search  Search
             
             [SD24K Gold Jewelry](https://sdbullion.com/jewelry/gold-jewelry)
             
-        * [chevron-right Foil Notes](https://sdbullion.com/gold/foil-notes)
-            
-            [Foil Notes](https://sdbullion.com/gold/foil-notes)
-            
         * [chevron-right Fractional Gold](https://sdbullion.com/gold/fractional-gold)
             
             [Fractional Gold](https://sdbullion.com/gold/fractional-gold)
+            
+        * [chevron-right ❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+            
+            [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
             
 * [Platinum](https://sdbullion.com/platinum)
     
