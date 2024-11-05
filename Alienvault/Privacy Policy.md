@@ -7,7 +7,7 @@
 * [Contact](https://www.alienvault.com/contact)
 * [Support](https://www.alienvault.com/support)
 
-[![LevelBlue logo](https://cdn-cybersecurity.att.com/images/uploads/logos/lb-logo-black.svg)](https://www.alienvault.com/)
+[![LevelBlue logo](https://cdn.levelblue.com/images/uploads/logos/lb-logo-black.svg)](https://www.alienvault.com/)
 
 * Products & Services
     
@@ -135,7 +135,7 @@
             
             ##### LevelBlue Managed Detection and Response
             
-            [Learn more](https://cybersecurity.att.com/resource-center/videos/levelblue-managed-detection-and-response)
+            [Learn more](https://levelblue.com/resource-center/videos/levelblue-managed-detection-and-response)
             
             [View all Videos](https://www.alienvault.com/resource-center#content_video)
             
@@ -157,7 +157,7 @@
             
             ##### Frost Radar: Americas Managed Security Services 2024
             
-            [Learn more](https://cybersecurity.att.com/resource-center/analyst-reports/frost-radar-americas-managed-security-services-2024)
+            [Learn more](https://levelblue.com/resource-center/analyst-reports/frost-radar-americas-managed-security-services-2024)
             
             [View all Analyst Reports](https://www.alienvault.com/resource-center#content_analyst-reports)
             
@@ -167,7 +167,7 @@
             
             ##### Ngioweb Remains Active 7 Years Later
             
-            [Learn more](https://cybersecurity.att.com/blogs/labs-research/ngioweb-remains-active-7-years-later)
+            [Learn more](https://levelblue.com/blogs/labs-research/ngioweb-remains-active-7-years-later)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -177,7 +177,7 @@
             
             ##### Secure Your Inbox, Accelerate Compliance: LevelBlue Email Security with Check Point
             
-            [Learn more](https://cybersecurity.att.com/resource-center/ebook/secure-your-inbox-with-check-point)
+            [Learn more](https://levelblue.com/resource-center/ebook/secure-your-inbox-with-check-point)
             
             [View all eBooks](https://www.alienvault.com/resource-center#content_ebook)
             
@@ -187,7 +187,7 @@
             
             ##### Elevate Your GRC Game: A Collaborative Approach with LevelBlue and OneTrust
             
-            [Learn more](https://cybersecurity.att.com/resource-center/webcasts/elevate-your-grc-game-a-collaborative-approach-with-levelblue-and-onetrust)
+            [Learn more](https://levelblue.com/resource-center/webcasts/elevate-your-grc-game-a-collaborative-approach-with-levelblue-and-onetrust)
             
             [View all Webcasts](https://www.alienvault.com/resource-center#content_webcast)
             
@@ -197,7 +197,7 @@
             
             ##### Why Organizations Are Prioritizing Incident Readiness and Response in the Face of Regulatory Scrutiny
             
-            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/orgs-prioritize-incident-response)
+            [Learn more](https://levelblue.com/resource-center/white-papers/orgs-prioritize-incident-response)
             
             [View all Whitepapers](https://www.alienvault.com/resource-center#content_white-paper)
             
@@ -383,15 +383,15 @@ The European Union's data privacy regulation called the General Data Protection 
 
 **LevelBlue Customers:**
 
-If you are a customer of LevelBlue, you can access our Customer Data Processing Addendum here: [https://cybersecurity.att.com/legal/gdpr/customers](https://www.alienvault.com/legal/gdpr/customers)
+If you are a customer of LevelBlue, you can access our Customer Data Processing Addendum here: [https://levelblue.com/legal/gdpr/customers](https://www.alienvault.com/legal/gdpr/customers)
 
 **LevelBlue Vendors, Partners, and Data Processors:**
 
-If you handle data on behalf of LevelBlue as a Vendor, Partner, or Data Processor, you can access our Vendor/Partner Data Processing Addendum here: [https://cybersecurity.att.com/legal/gdpr/vendors-partners](https://www.alienvault.com/legal/gdpr/vendors-partners)
+If you handle data on behalf of LevelBlue as a Vendor, Partner, or Data Processor, you can access our Vendor/Partner Data Processing Addendum here: [https://levelblue.com/legal/gdpr/vendors-partners](https://www.alienvault.com/legal/gdpr/vendors-partners)
 
 **Data Processors:**
 
-If you wish to view a current list of all Data Processors, click here: [https://cybersecurity.att.com/legal/gdpr/processors](https://www.alienvault.com/legal/gdpr/processors)
+If you wish to view a current list of all Data Processors, click here: [https://levelblue.com/legal/gdpr/processors](https://www.alienvault.com/legal/gdpr/processors)
 
 [Get price](https://www.alienvault.com/pricing/request-quote?utm_internal=sb_quote) [Free trial](https://www.alienvault.com/products/usm-anywhere/free-trial?utm_internal=sb_freetrial_modal)
 
@@ -405,7 +405,7 @@ From the Blog
 
 Nov 1, 2024
 
-### [Ngioweb Remains Active 7 Years Later](https://cybersecurity.att.com/blogs/labs-research/ngioweb-remains-active-7-years-later)
+### [Ngioweb Remains Active 7 Years Later](https://levelblue.com/blogs/labs-research/ngioweb-remains-active-7-years-later)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
@@ -467,8 +467,4 @@ Customer Success
 * [Website Terms of Use](https://www.alienvault.com/terms/website)
 * [GDPR](https://www.alienvault.com/legal/gdpr)
 * [Cookie Policy](https://www.alienvault.com/legal/cookie-policy)
-* [Your Privacy Choices](https://about.att.com/privacy/choices-and-controls.html)![California Consumer Privacy Act (CCPA) Opt-Out Icon](https://cdn-cybersecurity.att.com/images/uploads/icons/privacyoptions.svg)
-
-We use cookies to provide you with a great user experience. By using our website, you agree to our [Privacy Policy](https://www.alienvault.com/legal/privacy-policy) and [Website Terms of Use](https://www.alienvault.com/terms/website).
-
-[](#)
+* [Your Privacy Choices](https://about.att.com/privacy/choices-and-controls.html)![California Consumer Privacy Act (CCPA) Opt-Out Icon](https://cdn.levelblue.com/images/uploads/icons/privacyoptions.svg)
