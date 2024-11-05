@@ -176,6 +176,14 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Juno Birch. Credit: Emma Jones](https://cdn.comedy.co.uk/images/library/people/300x200/j/juno_birch.jpg "Juno Birch. Credit: Emma Jones")](https://www.comedy.co.uk/live/features/juno-birch-probed-interview/) Live
+
+[Probing Juno Birch about her show](https://www.comedy.co.uk/live/features/juno-birch-probed-interview/)
+
+[![Michael Brunström](https://cdn.comedy.co.uk/images/library/people/300x200/m/michael_brunstrom_headshot.jpg "Michael Brunström")](https://www.comedy.co.uk/live/random8/michael-brunstrom/) Live
+
+[Random 8: Michael Brunström](https://www.comedy.co.uk/live/random8/michael-brunstrom/)
+
 [![A Christmas Carol (ish). Nick Mohammed. Credit: Matt Crockett](https://cdn.comedy.co.uk/images/library/misc/300x200/c/christmas_carol_ish_mr_swallow.jpg "A Christmas Carol (ish). Nick Mohammed. Credit: Matt Crockett")](https://www.comedy.co.uk/live/features/nick-mohammed-mr-swallow-interview/) Live
 
 [Nick Mohammed on bringing Mr Swallow to the West End](https://www.comedy.co.uk/live/features/nick-mohammed-mr-swallow-interview/)
@@ -183,14 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Duggie Small](https://cdn.comedy.co.uk/images/library/people/300x200/d/duggie_small.jpg "Duggie Small")](https://www.comedy.co.uk/features/comedy_chronicles/duggie-small/) Features
 
 [Comedy Chronicles: Up and away - The big fall of Duggie Small](https://www.comedy.co.uk/features/comedy_chronicles/duggie-small/)
-
-[![Joey Page](https://cdn.comedy.co.uk/images/library/people/300x200/j/joey_page_2024.jpg "Joey Page")](https://www.comedy.co.uk/live/fgwg/joey-page/) Live
-
-[First Gig, Worst Gig: Joey Page](https://www.comedy.co.uk/live/fgwg/joey-page/)
-
-[![Image shows left to right: Barry Cryer, Josh Barry](https://cdn.comedy.co.uk/images/library/misc/300x200/b/beyond_the_title_barry_cryer.jpg "Image shows left to right: Barry Cryer, Josh Barry")](https://www.comedy.co.uk/online/features/beyond-the-title-podcast-comedy-top-5/) Online
-
-[Beyond The Title podcast: Comedy top 5](https://www.comedy.co.uk/online/features/beyond-the-title-podcast-comedy-top-5/)
 
 #### Subscribe to our newsletters
 
