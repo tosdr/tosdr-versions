@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![ Top Contributing Sectors to OR govs Kitzhaber and Brown](/assets/Images/teasers/small/KitzhabervBrownPercentbyIndustry.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-john-kitzhaber-and-kate-brown/)
-
-Sector giving to OR govs Kitzhaber and Brown.
+[![Gun-Control Groups Loaded in Washington State](/assets/Images/teasers/full/WA-Gun-Control-Measures-2014.png)](http://www.followthemoney.org/research/blog/gun-control-groups-loaded-in-washington-state/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
