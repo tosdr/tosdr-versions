@@ -200,12 +200,6 @@ Est.
 
 2011](https://pmc.com/our-brands/tvline)
 
-[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/6477f356beb12e601e743369_ATX%20TV.svg)
-
-Est.
-
-2012](https://pmc.com/our-brands/atx-tv)
-
 [![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/6477f4b774c85d877d1f3e2d_LIB.svg)
 
 Est.
@@ -453,12 +447,6 @@ Est.
 Est.
 
 2011](https://pmc.com/our-brands/tvline)
-
-[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/6477f356beb12e601e743369_ATX%20TV.svg)
-
-Est.
-
-2012](https://pmc.com/our-brands/atx-tv)
 
 [![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/6477f4b774c85d877d1f3e2d_LIB.svg)
 
