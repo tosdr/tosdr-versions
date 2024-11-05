@@ -193,7 +193,6 @@ Get the app
 * [Online Courses](https://www.atlasobscura.com/online-courses)
 * [Online Experience FAQ](https://www.atlasobscura.com/experiences/faq)
 * [Online Course FAQ](https://www.atlasobscura.com/online-courses-faq)
-* [Eclipse Festival 2024](https://ecliptic.atlasobscura.com/)
 
  Community
 
