@@ -20,16 +20,16 @@ Tuesday, November 5 2024
 
 Latest
 
-* [Software Makers Encouraged to Stop Using C/C++ by 2026](https://digitpatrox.com/software-makers-encouraged-to-stop-using-c-c-by-2026/)
-* [Samsung’s amazing Q80D QLED TV just hit its lowest price ever in early Black Friday deal](https://digitpatrox.com/samsungs-amazing-q80d-qled-tv-just-hit-its-lowest-price-ever-in-early-black-friday-deal/)
-* [Nokia investigates breach after hacker claims to steal source code](https://digitpatrox.com/nokia-investigates-breach-after-hacker-claims-to-steal-source-code/)
-* [Judge declines to block Musk’s $1 million voter giveaways](https://digitpatrox.com/judge-declines-to-block-musks-1-million-voter-giveaways/)
-* [Today’s Wordle Answer and Hints (November 5, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-5-2024/)
-* [New four-day week trial kicks off for workers across UK](https://digitpatrox.com/new-four-day-week-trial-kicks-off-for-workers-across-uk/)
-* [Europe plans to check Apple’s iPad for DMA compliance – Computerworld](https://digitpatrox.com/europe-plans-to-check-apples-ipad-for-dma-compliance-computerworld/)
-* [My Favorite Amazon Deal of the Day: This Memory-Boosted M3 MacBook Pro](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-this-memory-boosted-m3-macbook-pro/)
-* [Windows 11 update KB5045889 modernizes the Windows Hello experience](https://digitpatrox.com/windows-11-update-kb5045889-modernizes-the-windows-hello-experience/)
-* [5 Ways to Save on Large Appliances This Black Friday](https://digitpatrox.com/5-ways-to-save-on-large-appliances-this-black-friday/)
+* [Best Buy Is Having a Buy One, Get One Sale on Tech Products](https://digitpatrox.com/best-buy-is-having-a-buy-one-get-one-sale-on-tech-products/)
+* [How to Protect Your Car on Halloween](https://digitpatrox.com/how-to-protect-your-car-on-halloween/)
+* [Today’s NYT Connections Hints and Answer for November 4 (#512)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-4-512/)
+* [All the news and updates as they happen](https://digitpatrox.com/all-the-news-and-updates-as-they-happen-4/)
+* [8 Easy Content Calendar Templates You Can Use for Free](https://digitpatrox.com/8-easy-content-calendar-templates-you-can-use-for-free/)
+* [These 5 moves promise to release tension in your back and hips — here’s what happened when I tried them](https://digitpatrox.com/these-5-moves-promise-to-release-tension-in-your-back-and-hips-heres-what-happened-when-i-tried-them/)
+* [DocuSign’s Envelopes API abused to send realistic fake invoices](https://digitpatrox.com/docusigns-envelopes-api-abused-to-send-realistic-fake-invoices/)
+* [What time do Black Friday deals start at Amazon, Walmart, and other retailers?](https://digitpatrox.com/what-time-do-black-friday-deals-start-at-amazon-walmart-and-other-retailers/)
+* [NYT Strands Today: Hints, Answers & Spangram for November 5](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-5/)
+* [“There is no one model to rule every scenario”: GitHub will now let developers use AI models from Anthropic, Google, and OpenAI](https://digitpatrox.com/there-is-no-one-model-to-rule-every-scenario-github-will-now-let-developers-use-ai-models-from-anthropic-google-and-openai/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241104-cisa-fbi-memory-safety-recommendations.jpg)](https://digitpatrox.com/software-makers-encouraged-to-stop-using-c-c-by-2026/)
+* [![](https://lifehacker.com/imagery/articles/01JBWHFFN3CM55F6QWVJHB3C5F/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/best-buy-is-having-a-buy-one-get-one-sale-on-tech-products/)
     
-    [Software Makers Encouraged to Stop Using C/C++ by 2026](https://digitpatrox.com/software-makers-encouraged-to-stop-using-c-c-by-2026/)
+    [Best Buy Is Having a Buy One, Get One Sale on Tech Products](https://digitpatrox.com/best-buy-is-having-a-buy-one-get-one-sale-on-tech-products/)
     
-    9 seconds ago
+    6 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/QqorFw39y5d2S4xfZFL8eU-1200-80.jpg)](https://digitpatrox.com/samsungs-amazing-q80d-qled-tv-just-hit-its-lowest-price-ever-in-early-black-friday-deal/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1570460426/prod/content/dam/CRO%20Images%202019/Cars/October/CR-Cars-Inlinehero-keep-car-safe-on-halloween-1019)](https://digitpatrox.com/how-to-protect-your-car-on-halloween/)
     
-    [Samsung’s amazing Q80D QLED TV just hit its lowest price ever in early Black Friday deal](https://digitpatrox.com/samsungs-amazing-q80d-qled-tv-just-hit-its-lowest-price-ever-in-early-black-friday-deal/)
+    [How to Protect Your Car on Halloween](https://digitpatrox.com/how-to-protect-your-car-on-halloween/)
     
-    4 mins ago
+    17 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/11/04/nokia-blue.jpg)](https://digitpatrox.com/nokia-investigates-breach-after-hacker-claims-to-steal-source-code/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/nyt-connections-game-icon-on-a-phone-screen-and-several-magnifying-glasses-and-question-marks-around-it.jpg)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-4-512/)
     
-    [Nokia investigates breach after hacker claims to steal source code](https://digitpatrox.com/nokia-investigates-breach-after-hacker-claims-to-steal-source-code/)
+    [Today’s NYT Connections Hints and Answer for November 4 (#512)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-4-512/)
     
-    1 hour ago
+    18 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/rodkS6uNARTTLbhlWar9QAXmZCQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23390589/VRG_Illo_STK022_K_Radtke_Musk_Thumbs_Up.jpg)](https://digitpatrox.com/judge-declines-to-block-musks-1-million-voter-giveaways/)
+* [![](https://cdn.mos.cms.futurecdn.net/LYWHzTvaR4fdwvepRyb9ig-1200-80.jpg)](https://digitpatrox.com/all-the-news-and-updates-as-they-happen-4/)
     
-    [Judge declines to block Musk’s $1 million voter giveaways](https://digitpatrox.com/judge-declines-to-block-musks-1-million-voter-giveaways/)
+    [All the news and updates as they happen](https://digitpatrox.com/all-the-news-and-updates-as-they-happen-4/)
     
-    2 hours ago
+    57 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-5-2024/)
+* [![](https://assets.techrepublic.com/uploads/2024/11/content-calendar-templates-featured-image-11022024-min.png)](https://digitpatrox.com/8-easy-content-calendar-templates-you-can-use-for-free/)
     
-    [Today’s Wordle Answer and Hints (November 5, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-5-2024/)
+    [8 Easy Content Calendar Templates You Can Use for Free](https://digitpatrox.com/8-easy-content-calendar-templates-you-can-use-for-free/)
     
-    2 hours ago
+    59 mins ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [9 seconds ago
+* [6 mins ago
     
-    ### Software Makers Encouraged to Stop Using C/C++ by 2026](https://digitpatrox.com/software-makers-encouraged-to-stop-using-c-c-by-2026/)
-* [4 mins ago
+    ### Best Buy Is Having a Buy One, Get One Sale on Tech Products](https://digitpatrox.com/best-buy-is-having-a-buy-one-get-one-sale-on-tech-products/)
+* [17 mins ago
     
-    ### Samsung’s amazing Q80D QLED TV just hit its lowest price ever in early Black Friday deal](https://digitpatrox.com/samsungs-amazing-q80d-qled-tv-just-hit-its-lowest-price-ever-in-early-black-friday-deal/)
-* [1 hour ago
+    ### How to Protect Your Car on Halloween](https://digitpatrox.com/how-to-protect-your-car-on-halloween/)
+* [18 mins ago
     
-    ### Nokia investigates breach after hacker claims to steal source code](https://digitpatrox.com/nokia-investigates-breach-after-hacker-claims-to-steal-source-code/)
+    ### Today’s NYT Connections Hints and Answer for November 4 (#512)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-4-512/)
 
 Most Popular Topics
 
-* [August 23, 2024
+* [September 4, 2024
     
-    ### 2024 Acura ZDX First Drive Review](https://digitpatrox.com/2024-acura-zdx-first-drive-review/)
-* [August 19, 2024
+    ### It looks like we’re stuck with Windows Recall: Microsoft confirms option to uninstall was just a ‘bug’](https://digitpatrox.com/it-looks-like-were-stuck-with-windows-recall-microsoft-confirms-option-to-uninstall-was-just-a-bug/)
+* [October 2, 2024
     
-    ### You Can Get This USB-C Apple Pencil on Sale for $59 Right Now](https://digitpatrox.com/you-can-get-this-usb-c-apple-pencil-on-sale-for-59-right-now/)
-* [3 weeks ago
+    ### 5 Best Automotive CRM Software for 2024](https://digitpatrox.com/5-best-automotive-crm-software-for-2024/)
+* [September 7, 2024
     
-    ### NCSC warns organizations of cyber threat from Russian Foreign Intelligence](https://digitpatrox.com/ncsc-warns-organizations-of-cyber-threat-from-russian-foreign-intelligence/)
+    ### The Best Foldable, but for How Long? OnePlus Open 2024 Review](https://digitpatrox.com/the-best-foldable-but-for-how-long-oneplus-open-2024-review/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [2 hours ago
     
-    ### Europe plans to check Apple’s iPad for DMA compliance – Computerworld](https://digitpatrox.com/europe-plans-to-check-apples-ipad-for-dma-compliance-computerworld/)
-* [4 hours ago
+    ### DocuSign’s Envelopes API abused to send realistic fake invoices](https://digitpatrox.com/docusigns-envelopes-api-abused-to-send-realistic-fake-invoices/)
+* [3 hours ago
     
-    ### My Favorite Amazon Deal of the Day: This Memory-Boosted M3 MacBook Pro](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-this-memory-boosted-m3-macbook-pro/)
-* [4 hours ago
+    ### What time do Black Friday deals start at Amazon, Walmart, and other retailers?](https://digitpatrox.com/what-time-do-black-friday-deals-start-at-amazon-walmart-and-other-retailers/)
+* [3 hours ago
     
-    ### Windows 11 update KB5045889 modernizes the Windows Hello experience](https://digitpatrox.com/windows-11-update-kb5045889-modernizes-the-windows-hello-experience/)
+    ### NYT Strands Today: Hints, Answers & Spangram for November 5](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-5/)
 
 Most Viewed Topics
 
