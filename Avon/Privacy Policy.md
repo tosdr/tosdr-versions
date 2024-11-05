@@ -386,8 +386,6 @@ COMPANY
 
 [Avon Worldwide (API)](https://www.avonworldwide.com/)
 
-Temporary Title
-
 [SUPPORT](https://www.avon.com/support)
 
 [Contact Us](https://www.avon.com/support/faqs)
