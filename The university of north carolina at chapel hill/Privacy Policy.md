@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/11/SerenitySpaceHERO-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/11/EPAHeroOption-250x141.jpg)
     
-    Serenity now available for students](https://www.unc.edu/posts/2024/11/04/serenity-now-available-for-students/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/VotingHero-250x141.jpg)
+    Library science and EPA partnership thrives at 50](https://www.unc.edu/posts/2024/11/04/library-science-and-epa-partnership-thrives-at-50/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/11/GaryKayyeHero-250x141.jpg)
     
-    What to know about voting on Election Day](https://www.unc.edu/posts/2024/11/04/what-to-know-about-voting-on-election-day/)
+    The force of storytelling is strong in Gary Kayye](https://www.unc.edu/posts/2024/11/04/the-force-of-storytelling-is-strong-in-gary-kayye/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=b9f417822b&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=f2bf595933&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
