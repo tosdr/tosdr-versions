@@ -127,7 +127,7 @@
         
     * [**Journeys ↗**
         
-        Protect the integrity of your data](https://segment.com/product/twilio-engage/journeys)
+        Orchestrate multichannel customer journeys](https://segment.com/product/twilio-engage/journeys)
     
     [See all products](https://www.twilio.com/en-us/products)
     
@@ -489,7 +489,7 @@ Data is collected based on search terms. [Privacy Policy](https://www.twilio.co
         
     * [**Journeys ↗**
         
-        Protect the integrity of your data](https://segment.com/product/twilio-engage/journeys)
+        Orchestrate multichannel customer journeys](https://segment.com/product/twilio-engage/journeys)
     
     [See all products](https://www.twilio.com/en-us/products)
     
