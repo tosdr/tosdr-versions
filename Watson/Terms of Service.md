@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)6°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)7°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
-* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
-* [France](https://www.watson.ch/fr/france/)
-* [Femmes](https://www.watson.ch/fr/femmes/)
-* [Argent](https://www.watson.ch/fr/argent/)
-* [People](https://www.watson.ch/fr/people/)
-* [Chine](https://www.watson.ch/fr/chine/)
 * [Musique](https://www.watson.ch/fr/musique/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [Russie](https://www.watson.ch/fr/russie/)
 * [Poutine](https://www.watson.ch/fr/poutine/)
 * [Insolite](https://www.watson.ch/fr/insolite/)
 * [Immobilier](https://www.watson.ch/fr/immobilier/)
 * [Best of watson](https://www.watson.ch/fr/best-of-watson/)
+* [Paris](https://www.watson.ch/fr/paris/)
 * [Coupe du monde](https://www.watson.ch/fr/coupe-du-monde/)
 * [Logement](https://www.watson.ch/fr/logement/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
-* [Paris](https://www.watson.ch/fr/paris/)
 * [Politique](https://www.watson.ch/fr/politique/)
-* [Russie](https://www.watson.ch/fr/russie/)
+* [People](https://www.watson.ch/fr/people/)
+* [Chine](https://www.watson.ch/fr/chine/)
+* [Argent](https://www.watson.ch/fr/argent/)
+* [Femmes](https://www.watson.ch/fr/femmes/)
+* [France](https://www.watson.ch/fr/france/)
+* [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
+* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
+* [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
