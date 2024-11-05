@@ -91,16 +91,6 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
-[River Flood Warning
-
-from MON 4:34 PM CST until TUE 6:08 AM CST, Dallas County](https://www.fox4news.com/weather-alerts)
-
-2
-
-[Flash Flood Warning
-
-until TUE 2:00 AM CST, Red River County](https://www.fox4news.com/weather-alerts)
-
 Privacy Policy
 ==============
 
@@ -412,35 +402,39 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Today is Election Day. Here’s what you need to know](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/219152_You_Decide_2024_Web-Graphic_1280x720_001.jpg?ve=1&tl=1)
+ [![Roughly 82 million voted early in the 2024 election – here are some takeaways](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2182314841.jpg?ve=1&tl=1)
 
- ![Today is Election Day. Here’s what you need to know](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/592/333/219152_You_Decide_2024_Web-Graphic_1280x720_001.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/election-day-2024-how-do-i-vote)
+ ![Roughly 82 million voted early in the 2024 election – here are some takeaways](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2182314841.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/early-voting-data-2024-election-takeaways)
 
-### [Today is Election Day. Here’s what you need to know](https://www.fox4news.com/election/election-day-2024-how-do-i-vote)
+### [Roughly 82 million voted early in the 2024 election – here are some takeaways](https://www.fox4news.com/news/early-voting-data-2024-election-takeaways)
 
- [![Dodgers fan who fell off roof during World Series celebration in critical condition, family says](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/snapshot-2024-11-01t133629.821.jpg?ve=1&tl=1)
+ [![Live Updates: 2024 Election Day in North Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/32/18/V_DALCO-VOTING-MACHINE-TESTING-MONDAY-6_30A_KDFWb7_00.00.36.16.jpg?ve=1&tl=1)
 
- ![Dodgers fan who fell off roof during World Series celebration in critical condition, family says](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/592/333/snapshot-2024-11-01t133629.821.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dodgers-fan-falls-off-roof-world-series-parade-celebration)
+ ![Live Updates: 2024 Election Day in North Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/32/18/592/333/V_DALCO-VOTING-MACHINE-TESTING-MONDAY-6_30A_KDFWb7_00.00.36.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/2024-election-live-updates-dallas-fort-worth)
 
-### [Dodgers fan who fell off roof during World Series celebration in critical condition, family says](https://www.fox4news.com/news/dodgers-fan-falls-off-roof-world-series-parade-celebration)
+Live Now
 
- [![Is Tarrant County turning purple? Political expert weighs in.](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-david-election-preview-tarrant-county-9p_00.00.07.18.jpg?ve=1&tl=1)
+### [Live Updates: 2024 Election Day in North Texas](https://www.fox4news.com/election/2024-election-live-updates-dallas-fort-worth)
 
- ![Is Tarrant County turning purple? Political expert weighs in.](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-david-election-preview-tarrant-county-9p_00.00.07.18.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/is-tarrant-county-turning-purple-political-expert-weighs)
+ [![Attorney General Ken Paxton sues to keep federal election monitors out of Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/05/32/18/snapshot-2023-05-26T160732.060.jpg?ve=1&tl=1)
 
-### [Is Tarrant County turning purple? Political expert weighs in.](https://www.fox4news.com/news/is-tarrant-county-turning-purple-political-expert-weighs)
+ ![Attorney General Ken Paxton sues to keep federal election monitors out of Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/05/32/18/592/333/snapshot-2023-05-26T160732.060.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/ken-paxton-sues-election-monitors-texas)
 
- [![Podcaster Joe Rogan endorses Donald Trump for President](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/trump-joe-rogan.jpg?ve=1&tl=1)
+### [Attorney General Ken Paxton sues to keep federal election monitors out of Texas](https://www.fox4news.com/election/ken-paxton-sues-election-monitors-texas)
 
- ![Podcaster Joe Rogan endorses Donald Trump for President](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/592/333/trump-joe-rogan.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/podcaster-joe-rogan-endorses-donald-trump-president)
+ [![LIVE UPDATES: Texas election news, races, voting results](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/GettyImages-1354285743-1.jpg?ve=1&tl=1)
 
-### [Podcaster Joe Rogan endorses Donald Trump for President](https://www.fox4news.com/news/podcaster-joe-rogan-endorses-donald-trump-president)
+ ![LIVE UPDATES: Texas election news, races, voting results](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/592/333/GettyImages-1354285743-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/election-updates-texas-news-race-winners)
 
- [![Bandmates of sole survivor of Fort Worth wrong way crash organize benefit concert](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-dionne-nw-loop-820-fatal-wrong-way-crash_00.00.28.14.jpg?ve=1&tl=1)
+Live Now
 
- ![Bandmates of sole survivor of Fort Worth wrong way crash organize benefit concert](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-dionne-nw-loop-820-fatal-wrong-way-crash_00.00.28.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/evan-ranallo-musician-concert-fundraiser-loop-820-deadly-crash)
+### [LIVE UPDATES: Texas election news, races, voting results](https://www.fox4news.com/election/election-updates-texas-news-race-winners)
 
-### [Bandmates of sole survivor of Fort Worth wrong way crash organize benefit concert](https://www.fox4news.com/news/evan-ranallo-musician-concert-fundraiser-loop-820-deadly-crash)
+ [![When will Texas election results start coming in?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/06/32/18/GettyImages-1229447616.jpg?ve=1&tl=1)
+
+ ![When will Texas election results start coming in?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/06/32/18/592/333/GettyImages-1229447616.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/when-will-election-results-start-coming-in)
+
+### [When will Texas election results start coming in?](https://www.fox4news.com/election/when-will-election-results-start-coming-in)
 
 [![Today is Election Day. Here’s what you need to know](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/149/84/219152_You_Decide_2024_Web-Graphic_1280x720_001.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-day-2024-how-do-i-vote)
 
