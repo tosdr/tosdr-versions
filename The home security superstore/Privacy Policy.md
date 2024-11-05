@@ -29,7 +29,6 @@ All
 * Cree LED Flashlights
 * Data Media Safes
 * Data Recovery
-* Disguised Pepper Spray
 * Disguised Stun Guns
 
  Reset 
@@ -143,21 +142,9 @@ Menu
         * [![Stun Batons - Electric Baton](//www.thehomesecuritysuperstore.com/cdn/shop/collections/StunBatons_500x500_0fdb027e-8661-4c80-9c31-42ff128bacbb.jpg?v=1626708970&width=300)
             
             Stun Batons - Electric Baton](https://www.thehomesecuritysuperstore.com/collections/stun-batons)
-        * [![Push Button Batons](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PushButtonBatons_500x500_b374dfd2-c626-452d-b9f1-d787ad9810a2.jpg?v=1563416070&width=300)
+        * [![Push Button Baton](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PushButtonBatons_500x500_b374dfd2-c626-452d-b9f1-d787ad9810a2.jpg?v=1563416070&width=300)
             
-            Push Button Batons](https://www.thehomesecuritysuperstore.com/collections/ez-close-push-button-batons)
-        * [![Baton Accessories & Attachments](//www.thehomesecuritysuperstore.com/cdn/shop/collections/BatonAccessories_500x500_f04b67c3-16bd-46de-91e3-d884dfd7e104.jpg?v=1563419411&width=300)
-            
-            Baton Accessories & Attachments](https://www.thehomesecuritysuperstore.com/collections/baton-accessories)
-        * [![ASP® Baton](//www.thehomesecuritysuperstore.com/cdn/shop/collections/ASPBatons_500x500_dd133db6-4362-4d1c-835a-8c61d316a84f.jpg?v=1563419891&width=300)
-            
-            ASP® Baton](https://www.thehomesecuritysuperstore.com/collections/asp-police-batons)
-        * [![Police Force Tactical Batons](//www.thehomesecuritysuperstore.com/cdn/shop/collections/CE-PFlogo3.png?v=1563410196&width=300)
-            
-            Police Force Tactical Batons](https://www.thehomesecuritysuperstore.com/collections/police-force-tactical-batons)
-        * [![Streetwise Batons](//www.thehomesecuritysuperstore.com/cdn/shop/collections/StreetwiseLogo_500x500_e688b18a-42b5-4897-a554-c856d0c79af2.jpg?v=1626709605&width=300)
-            
-            Streetwise Batons](https://www.thehomesecuritysuperstore.com/collections/streetwise-batons)
+            Push Button Baton](https://www.thehomesecuritysuperstore.com/collections/ez-close-push-button-batons)
         
     * [Pepper Spray](https://www.thehomesecuritysuperstore.com/collections/pepper-spray)
         
@@ -185,9 +172,6 @@ Menu
         * [![Bear Pepper Spray](//www.thehomesecuritysuperstore.com/cdn/shop/collections/photo2.jpg?v=1563419293&width=300)
             
             Bear Pepper Spray](https://www.thehomesecuritysuperstore.com/collections/bear-pepper-spray)
-        * [![Disguised Pepper Spray](//www.thehomesecuritysuperstore.com/cdn/shop/collections/DisguisedPepperSpray_500x500_c11dad92-441a-4c86-b2ed-76d87f35a5cd.jpg?v=1626713330&width=300)
-            
-            Disguised Pepper Spray](https://www.thehomesecuritysuperstore.com/collections/disguised-pepper-spray)
         * [![Pepper Spray Throwing Grenades](//www.thehomesecuritysuperstore.com/cdn/shop/collections/19501_xl_more_whitespace_500x500_fb08f7f6-bc23-4227-8009-2b3c9b224f35.jpg?v=1626713573&width=300)
             
             Pepper Spray Throwing Grenades](https://www.thehomesecuritysuperstore.com/collections/pepper-spray-throwing-grenades)
@@ -379,21 +363,9 @@ Menu
     * [![Stun Batons - Electric Baton](//www.thehomesecuritysuperstore.com/cdn/shop/collections/StunBatons_500x500_0fdb027e-8661-4c80-9c31-42ff128bacbb.jpg?crop=center&height=300&v=1626708970&width=300)
         
         Stun Batons - Electric Baton](https://www.thehomesecuritysuperstore.com/collections/stun-batons)
-    * [![Push Button Batons](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PushButtonBatons_500x500_b374dfd2-c626-452d-b9f1-d787ad9810a2.jpg?crop=center&height=300&v=1563416070&width=300)
+    * [![Push Button Baton](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PushButtonBatons_500x500_b374dfd2-c626-452d-b9f1-d787ad9810a2.jpg?crop=center&height=300&v=1563416070&width=300)
         
-        Push Button Batons](https://www.thehomesecuritysuperstore.com/collections/ez-close-push-button-batons)
-    * [![Baton Accessories & Attachments](//www.thehomesecuritysuperstore.com/cdn/shop/collections/BatonAccessories_500x500_f04b67c3-16bd-46de-91e3-d884dfd7e104.jpg?crop=center&height=300&v=1563419411&width=300)
-        
-        Baton Accessories & Attachments](https://www.thehomesecuritysuperstore.com/collections/baton-accessories)
-    * [![ASP® Baton](//www.thehomesecuritysuperstore.com/cdn/shop/collections/ASPBatons_500x500_dd133db6-4362-4d1c-835a-8c61d316a84f.jpg?crop=center&height=300&v=1563419891&width=300)
-        
-        ASP® Baton](https://www.thehomesecuritysuperstore.com/collections/asp-police-batons)
-    * [![Police Force Tactical Batons](//www.thehomesecuritysuperstore.com/cdn/shop/collections/CE-PFlogo3.png?crop=center&height=300&v=1563410196&width=300)
-        
-        Police Force Tactical Batons](https://www.thehomesecuritysuperstore.com/collections/police-force-tactical-batons)
-    * [![Streetwise Batons](//www.thehomesecuritysuperstore.com/cdn/shop/collections/StreetwiseLogo_500x500_e688b18a-42b5-4897-a554-c856d0c79af2.jpg?crop=center&height=300&v=1626709605&width=300)
-        
-        Streetwise Batons](https://www.thehomesecuritysuperstore.com/collections/streetwise-batons)
+        Push Button Baton](https://www.thehomesecuritysuperstore.com/collections/ez-close-push-button-batons)
     
     * [![Fox Labs® Police Spray](//www.thehomesecuritysuperstore.com/cdn/shop/collections/FOXLabsPepperSpray_500x500_b7442927-eb76-488e-87b6-f1dec790aa27.jpg?crop=center&height=300&v=1563415342&width=300)
         
@@ -419,9 +391,6 @@ Menu
     * [![Bear Pepper Spray](//www.thehomesecuritysuperstore.com/cdn/shop/collections/photo2.jpg?crop=center&height=300&v=1563419293&width=300)
         
         Bear Pepper Spray](https://www.thehomesecuritysuperstore.com/collections/bear-pepper-spray)
-    * [![Disguised Pepper Spray](//www.thehomesecuritysuperstore.com/cdn/shop/collections/DisguisedPepperSpray_500x500_c11dad92-441a-4c86-b2ed-76d87f35a5cd.jpg?crop=center&height=300&v=1626713330&width=300)
-        
-        Disguised Pepper Spray](https://www.thehomesecuritysuperstore.com/collections/disguised-pepper-spray)
     * [![Pepper Spray Throwing Grenades](//www.thehomesecuritysuperstore.com/cdn/shop/collections/19501_xl_more_whitespace_500x500_fb08f7f6-bc23-4227-8009-2b3c9b224f35.jpg?crop=center&height=300&v=1626713573&width=300)
         
         Pepper Spray Throwing Grenades](https://www.thehomesecuritysuperstore.com/collections/pepper-spray-throwing-grenades)
