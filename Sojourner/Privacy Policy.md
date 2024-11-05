@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-eaf5c1bc71ea10c1123d3815c3656104
+7019d7c9bc3918a37db4c1071c29bd81
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![2 mm micro-faceted rose quartz beads](https://www.sojourner.biz/images/cache/rose_quartz/RQ0016one.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/rose-quartz/2-mm-micro-faceted-rose-quartz-beads.html "2 mm micro-faceted rose quartz beads")
+[![Gold Poof bracelet](https://www.sojourner.biz/images/cache/BR0003.200.jpg)](https://www.sojourner.biz/jewelry/bracelets/gold-poof-bracelet.html "Gold Poof bracelet")
 
-#### [2 mm micro-faceted rose quartz beads](https://www.sojourner.biz/beads/stone-m-z/rose-quartz/2-mm-micro-faceted-rose-quartz-beads.html "2 mm micro-faceted rose quartz beads")
+#### [Gold Poof bracelet](https://www.sojourner.biz/jewelry/bracelets/gold-poof-bracelet.html "Gold Poof bracelet")
 
-$14.00
+$80.00
 
 ### Best Sellers
 
