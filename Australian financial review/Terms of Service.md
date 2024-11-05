@@ -310,7 +310,6 @@ Advertise
 
 ### [Why retail was the Bunnings MD’s third career choice, and why he stayed](https://www.afr.com/work-and-careers/leaders/why-retail-was-the-bunnings-md-s-third-career-choice-and-why-he-stayed-20241104-p5knqm)
 
-* 56 mins ago
 * Sally Patten and Lap Phan
 
 * ### [How Victoria Racing Club’s new boss plans to turn around its fortunes](https://www.afr.com/work-and-careers/workplace/how-victoria-racing-club-s-new-boss-plans-to-turn-around-its-fortunes-20241010-p5khfb)
@@ -325,7 +324,6 @@ Advertise
 
 ### [Can technology actually improve your sleep?](https://www.afr.com/technology/can-technology-actually-improve-your-sleep-20241031-p5kmsy)
 
-* 56 mins ago
 * John Davidson
 
 * ### [This Swiss Alps hotel is so luxurious, you needn’t leave. But you will](https://www.afr.com/life-and-luxury/travel/this-swiss-alps-hotel-is-so-luxurious-you-needn-t-leave-but-you-will-20241024-p5kl51)
