@@ -226,9 +226,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Monday, November 4, 2024**
+**Tuesday, November 5, 2024**
 
-**...High Pressure Continues to Dominate Statewide Keeping Conditions Mostly Dry Across North and West Florida...Isolated Showers to Drift Onshore Along East Coast Then Quickly Move Westward Throughout the Day; Activity to Remain Light and Brief...Breezy Wind Gusts to Continue Nearly Statewide, Especially Across Central and South Florida...Above Normal Temperatures Statewide this Afternoon...Plume of Moisture Moving Westward from Bahamas Toward Southeast Florida and Keys to Bring Isolated to Scattered Showers With Possible Thunderstorms Late Overnight or Early Tuesday Morning...High Risk for Rip Currents Along All Panhandle and East Coast Beaches Due to Dangerous Surf and Onshore Winds...Minor to Moderate Riverine Flooding Continues for Withlacoochee and St. Johns...NHC Continues to Monitor Two (2) Named/Numbered Systems and One (1) Potential Disturbance in the Atlantic Basin...**
+**...Increased Moisture to Bring Elevated Rain Chances Across Peninsula and Coastal Panhandle; Greatest Chance Across South Florida and Keys...Breezy Winds To Develop South of I-4 Corridor through Key; Breezy Wind Gusts to Develop Statewide By Mid-Afternoon...Wind Advisories for Coastal Southeast Florida Due to Gusty Winds Through Early Wednesday Morning...Above Normal High Temperatures Statewide...Increasing Rain Chances Expanding Overnight Due to Tropical Moisture...High Risk for Rip Currents Along All Panhandle and East Coast Beaches Due to Dangerous Surf and Onshore Winds...Minor to Moderate Riverine Flooding Continues for Withlacoochee and St. Johns...NHC Continues to Monitor One (1) Named/Numbered Systems and One (1) Potential Disturbance in the Atlantic Basin; Tropical Storm Watches for Lower and Middle Keys...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
