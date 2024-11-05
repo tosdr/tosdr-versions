@@ -105,23 +105,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 590 1
+0 598 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/zipp-storm-directed-by-ponystalker/)
+[](https://yiff-party.com/yiff-gif/izzy-created-by-janslobonejo/)
 
-[zipp storm directed by ponystalker](https://yiff-party.com/yiff-ai-premium/zipp-storm-directed-by-ponystalker/)
+[izzy created by janslobonejo](https://yiff-party.com/yiff-gif/izzy-created-by-janslobonejo/)
 
-0 48 0
+0 134 0
 
 October 6, 2024
 
-[](https://yiff-party.com/yiff/70549/)
+[](https://yiff-party.com/yiff/marnie-nintendo-and-etc-created-by-bymetalala/)
 
-[#70549](https://yiff-party.com/yiff/70549/)
+[marnie (nintendo and etc) created by bymetalala](https://yiff-party.com/yiff/marnie-nintendo-and-etc-created-by-bymetalala/)
 
-0 2 0
+0 1 0
 
 November 5, 2024
 
