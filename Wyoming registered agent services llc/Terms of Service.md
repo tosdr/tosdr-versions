@@ -30,7 +30,7 @@
 Our Terms of Service
 ====================
 
-_Last Updated: December 2023_
+_Last Updated: November 2024_
 
 By subscribing to the Services provided by **Wyoming Registered Agent Services LLC** (collectively “company,” “we,” “us,” or “our”) or using our website, you agree to follow our house rules or Terms of Service, as described below, as well as the terms contained in our Privacy Policy. These Terms are a legal agreement between you and Wyoming Registered Agent Services LLC that covers your use and access to the services, products, software and websites (“Services”) we provide.
 
@@ -225,27 +225,32 @@ Cancellation can be requested at any time. There are no fees to cancel, but upon
 Electing to Use Auto-Pay
 ------------------------
 
-Some of our Services are billed via an automatic payment feature unless you choose to opt out of this feature within your client account. Customers who opt-out will be invoiced for payment. All accounts using auto-payment must provide us with valid and current credit card information and you agree that we are authorized to charge such credit card for all purchased Services as well as fees incurred in providing you with Services.
+Some of our Services are billed via an automatic payment feature unless you choose to opt out of this feature within your client account. Clients who opt-out will be invoiced for payment. All accounts using auto-payment must provide us with valid and current credit card information and you agree that we are authorized to charge such credit card for all purchased Services as well as fees incurred in providing you with Services.
 
-### Specifics Regarding Auto-Pay:
+As of November 1, 2024, Compliance Service been added to our list of services paid via auto-pay. All customers enrolled in both auto-pay and Compliance Service will see their associated invoices processed via auto-pay as detailed in this section. Compliance Services as used in this section includes but is not limited to annual reports, biennial reports, franchise tax reports, or other recurrent filing required by a state Secretary of State, or equivalent agency.
 
-* all auto-payments will be charged to the credit or debit card on file for the business entity or individual.
-* all auto-payment services must be canceled at least one (1) day before the next charge date to avoid paying for the next month of Services, or year of annual Service. All cancellations must be handled through your online account.
-* customers enrolling in our Virtual Office Services must enroll in monthly automatic payments and you authorize us to charge your account for Services every thirty days.
-* annual auto-pay charges that fail to process will be rendered an unpaid invoice in your online account and subject to the fees and procedures outlined in these Terms.
-* monthly subscription or auto-pay charges that fail to process will result in the cancellation of all applicable Services and features.
+**Specifics Regarding Auto-Pay Features:**
 
-### Declined Payments/Collections:
+* All auto-payments will be charged to the credit or debit card on file for the business entity or individual.
+* Customers enrolling in our call forwarding, mail forwarding, or Virtual Office Services must enroll in monthly automatic payments and you authorize us to charge your account for Services every thirty days.
+* Annual auto-pay charges that fail to process will be rendered an unpaid invoice in your online account and subject to the fees and procedures outlined in these Terms.
+* All customers that purchase registered agent service as either a standalone service or in conjunction with business formation or registration services are automatically enrolled in our Compliance Services. Compliance Services will appear on your initial invoice that includes Registered Agent Service and be included in your annual auto-pay charges but you will not be billed for Compliance Services at that time. Invoices for Compliance Services will generate at least (90) days prior to the due date of your compliance filing and be processed via auto-pay as detailed in this section. Cancellation of Compliance Services must be completed through your online account. Enrollment in our Compliance Services does not guarantee submission of your compliance filing. You are still required to log into your online account to provide required information in order to complete your Compliance Services filing before its due date.
 
-Like any other functioning business, we try to collect the money owed to us. That being said, we will always do our best to treat each client with the respect they deserve. To that end, this section addresses how we handle declined payments and collections, and also outlines what you’re agreeing to as our client.
+\* Please Note: Compliance Service filing fees are determined by each respective state, meaning there may be year to year fluctuation in associated invoices and auto-pay amounts. Changes in state fees will be communicated to you via email as soon as we are made aware of said change.
 
-If you’re enrolled in an autopay service, we’ll charge whatever payment methods are stored in your online account. If all methods fail or there is not a valid method saved, we may suspend your account and require payment in order to reinstate services or in order to cancel your services. While we personally find the idea of collections revolting, we reserve our right to use legal action and collection agencies if deemed necessary.
+**Declined Payments/Collections**
 
-To keep our lawyers satisfied, this is the more technical and detailed version:
+Like any other business, we do try to collect on money owed. While we will always do our best to treat each client with the respect they deserve, this section addresses how we handle declined payments and collections, and outlines what you’re agreeing to as our client.
 
-If we don’t receive payment (“Non-Payment”), you agree to pay all amounts due upon demand to resume or cancel your Service(s). You also authorize the Company to charge any and all outstanding fees and penalties that become due as a result from such Non-Payment. Additionally, following any such Non-Payment, you will not be eligible for monthly-billing or partial payments until your account is brought current. Non-Payment may also result in delayed services which include but are not limited to: locked documents, non-filing of compliance documents and the processing of additional orders.
+If you’re enrolled in an auto-pay service, like our Compliance Service, we’ll charge whatever payment methods are stored in your online account. If all methods fail or there is not a valid method saved, we may suspend your account and require payment in order to reinstate services or in order to cancel your services. While we personally find the idea of collections revolting, we reserve our right to use legal action and collection agencies if deemed necessary.
 
-You agree that you are liable for all third-party collection agency recovery fees and charges. You are solely responsible for any and all fees charged to your credit card by the issuer, bank, or financial institution including, but not limited to, membership, overdraft, insufficient funds, and over the credit limit fees. By failing to notify the Company of billing problems or discrepancies you agree that you waive your right to dispute such billing discrepancies. We may modify the price, content, or nature of the Service(s) at any time. We may provide notice of any such changes by email, notice to you upon log-in, or by publishing them on our website.
+**This is the long version, which our lawyers tell us is necessary to have here:**
+
+If we don’t receive payment (“Non-Payment”), you agree to pay all amounts due upon demand to resume or cancel your service. You also authorize the Company to charge any and all outstanding fees and penalties that become due as a result from such Non-Payment. Additionally, following any such Non-Payment, you will not be eligible for monthly-billing or partial payments until your account is brought current. Non-Payment may also result in delayed services which include but are not limited to: locked documents, non-filing of compliance documents and the processing of additional orders.
+
+You agree that you are liable for all third-party collection agency recovery fees and charges. You are solely responsible for any and all fees charged to your credit card by the issuer, bank, or financial institution including, but not limited to, membership, overdraft, insufficient funds, and over the credit limit fees. By failing to notify the Company of billing problems or discrepancies you agree that you waive your right to dispute such billing discrepancies. We may modify the price, content, or nature of services at any time. We may provide notice of any such changes by email, notice to you upon log-in, or by publishing them on our website.
+
+\*Please note, Non-Payment of Compliance Service will prevent us from submitting your compliance filing, which may result in your entity being suspended or administratively dissolved by the applicable State Governing Authority. Payment of past due invoices does not guarantee that your entity will be brought back into good standing with its respective state. Additional filings and fees may be required.
 
 Refunds
 -------
