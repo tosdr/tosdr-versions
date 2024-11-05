@@ -2,8 +2,6 @@ This site needs Javascript for some functionality to work properly
 
 [Skip to main content](#main)
 
-We're planning maintenance on our Bitcoin server and expect to have BTC payments up and running again 2024-nov-05 12:00 UTC.
-
 [![Mullvad logo](/_app/immutable/assets/logo.Ba5MUFAA.svg)](https://mullvad.net/en/)
 
 * [About](https://mullvad.net/en/about)
