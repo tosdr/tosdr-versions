@@ -91,13 +91,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [The ‘midlife crisis’ is too simple a story, scientists say](https://www.sciencenews.org/article/midlife-crisis-mental-health-happiness)
             
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")15 hours ago
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")21 hours ago
             
         * [Humans](https://www.sciencenews.org/topic/humans)
             
             ### [A phone app could help people have lucid dreams](https://www.sciencenews.org/article/phone-app-help-lucid-dreams)
             
-            By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")17 hours ago
+            By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")23 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A zombie star’s spiky filaments shed light on a 12th century supernova](https://www.sciencenews.org/article/zombie-star-supernova-filaments)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")19 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")November 4, 2024
             
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
