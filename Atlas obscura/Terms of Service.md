@@ -24,29 +24,7 @@ Loading...
 
 Loading...
 
-Recent Stories
-
-[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
-
-Most Recent Stories
-
-[View All Stories »](https://www.atlasobscura.com/articles)
-
-   [![Granola bars are a nice travel food, but why not bring some cake instead? ](https://img.atlasobscura.com/DRsZUKlLTLPd3clfx2YihLfuMMj5I5cyw0XO0ZJY_KA/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy80MDcwNWYyMi0x/MDE1LTQ0ZmEtYmQy/ZS03ZDYwODczZWFl/NGFkM2FiODFjMjI2/YjAzNmRmMWNfZ2F0/ZWF1IGRlIHZveWFn/ZS5qcGVn.jpg)
-
-Make 'Travel Cake' for Your Next Journey](https://www.atlasobscura.com/articles/travel-food-ideas)
-
-   [![View from the overlook on Kuwohi of the mountain peaks and ridges of Great Smoky Mountains National Park.](https://img.atlasobscura.com/0hut3npUOFGbZAda6j1utVanzRDUt5KMjjy5J58oWx0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy82ZGYwZDlkZGM2/NzZhMmUxYTBfS3V3/b2hpXzAxLmpwZw.jpg)
-
-The Tallest of the Great Smoky Mountains Is—Officially—Kuwohi](https://www.atlasobscura.com/articles/kuwohi-not-clingmans-dome)
-
-   [![The Resolute Desk is considered the greatest of the presidential desks.](https://img.atlasobscura.com/fYV5xg1uuIrzVEsoO5ACJxXeTt6FeQo3qCG7Y8YkID8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8wN2IwOTQzNy01/NWY0LTRlN2YtYTA0/OC0wZTk5NjdjZmNl/YWI2YjFiNDliMDU0/ZDVhYmJlMjlfMWFj/YmJlYTQyYTM4ZTJm/Yzk5X0JhcmFja19P/YmFtYV9zaXR0aW5n/X2F0X3RoZV9SZXNv/bHV0ZV9kZXNrXzIw/MDkuanBn.jpg)
-
-7 Presidential Stories They Don't Teach in History Class](https://www.atlasobscura.com/articles/weird-president-stories)
-
-   [![Like some political issues, Watergate salad can be polarizing.](https://img.atlasobscura.com/rMYBm5_90JP9afI_wgupmXs9veJlIOn1PCHGMZGk8gc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy84NzVjOGQyZS01/ZDRlLTQyODEtYmIz/YS0yNGFiM2ZmY2Mx/ODdjYzk2YjJkZTBj/OWJlNDkxNzFfODA0/NDRlMjQtNzdkYy00/M2MxLWJlYmItN2Q1/ZTlkZjM3NzdjNmQ0/MGE4ZGRhNjgzYTgw/ZDk3X0lNR185ODI2/IDIuanBn.jpg)
-
-7 Candidates for Your Election Day Menu](https://www.atlasobscura.com/articles/political-food-election-recipes)
+Loading...
 
 No search results found for  
 “”
