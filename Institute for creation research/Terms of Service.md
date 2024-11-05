@@ -165,65 +165,61 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Days of Praise
+More Creation Q&A
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/moments-god)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/how_do_hominids_fit.jpg)](https://www.icr.org/article/how-do-hominids-fit-with-the-bible)
 
-[The Moments of God](https://www.icr.org/article/moments-god/)
+[How Do Hominids Fit with the Bible?](https://www.icr.org/article/how-do-hominids-fit-with-the-bible/)
 
-“For a small moment have I forsaken thee; but with great mercies will I gather thee. In a little wrath I hid my face from thee for a moment;...
+A recent survey showed that the most persuasive argument for evolution comes from the iconic drawing of the apes-to-man parade.1 This popular...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/wisdom-might-are-his)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/why_mosquitoes.jpg)](https://www.icr.org/article/why-did-god-make-mosquitos)
 
-[Wisdom and Might Are His](https://www.icr.org/article/wisdom-might-are-his/)
+[Why Did God Make Mosquitos?](https://www.icr.org/article/why-did-god-make-mosquitos/)
 
-“Daniel answered and said, Blessed be the name of God for ever and ever: for wisdom and might are his.” (Daniel 2:20) Men have sought...
+My wife and I enjoy evening walks with our dog when the Texas weather lets us. Unfortunately, mosquitos seem to like good weather too. And they recognize...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/he-owner)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/medieval_dinos.jpg)](https://www.icr.org/article/did-medieval-artists-see-real-dinosaurs)
 
-[He Is the Owner](https://www.icr.org/article/he-owner/)
+[Did Medieval Artists See Real Dinosaurs?](https://www.icr.org/article/did-medieval-artists-see-real-dinosaurs/)
 
-“Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul that sinneth, it shall die. But if a...
+Figure 1. The ancient choir hall in Carlisle Cathedral, UK. The blue rug in the center aisle covers the fascinating decorations on Bishop Bell’s...
 
-BY: [JOHN D. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=26)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/19699742/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/6697896/file.jpg)
 
-Made in the Image of an Ape? - Download](https://store.icr.org/discover-creation-made-in-the-image-of-an-ape-down.html)
+How Darwinism Corrodes Morality](https://store.icr.org/dr-jerry-bergman-how-darwinism-corrodes-morality.html)
 
-$4.99
+$25.00
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13241008/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/26201921/file.jpg)
 
-The Design and Complexity of the Cell](https://store.icr.org/dr-jeff-tomkins-the-design-and-complexity-of-the-c.html)
+Poor Design: An Invalid Argument Against Intelligent Design](https://store.icr.org/poor-design-an-invalid-argument-against-intelligen.html)
 
-$14.99
+$14.95
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/59221727/file.jpg)
+[](https://store.icr.org/.html)
 
-The Fossils Still Say No](https://store.icr.org/the-fossils-still-say-no.html)
+$
 
-$29.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/6414663/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/39324153/file.jpg)
+Evolution's Blunders, Frauds And Forgeries](https://store.icr.org/dr-jerry-bergman-evolutions-blunders-frauds-and-fo.html)
 
-Chimps and Humans - eBook](https://store.icr.org/chimps-and-humans-ebook.html)
+$15.00
 
-$14.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/26201913/file.jpg)
 
-$19.99
+Useless Organs: The Rise and Fall of a Central Claim of Evolution](https://store.icr.org/useless-organs-the-rise-and-fall-of-a-central-clai.html)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/26360806/file.jpg)
-
-Made in the Image of an Ape?](https://store.icr.org/discover-creation-made-in-the-image-of-an.html)
-
-$9.99
+$14.95
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
