@@ -63,6 +63,11 @@ Registered users give their consent to the processing of personal data, under th
         
     *  Español (España)
         
+* [Theme](#elNavTheme_menu)
+    *  Elegant - Light (Default)
+        
+    *  Villain - Dark Theme
+        
 * [Privacy Policy](https://android-zone.ws/privacy/)
 * [Contact Us](https://android-zone.ws/contact/)
 
@@ -100,6 +105,6 @@ Important Information
 
 This website uses cookies. To learn more, visit our [Privacy Policy](https://android-zone.ws/privacy/).
 
-  [I accept](https://android-zone.ws/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9hbmRyb2lkLXpvbmUud3Mv&csrfKey=c7d0ef3f41c9722ad9be7f874483726c)
+  [I accept](https://android-zone.ws/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9hbmRyb2lkLXpvbmUud3Mv&csrfKey=ab93e73bf13cac8f4a9fee031344f203)
 
  Change theme
