@@ -1,6 +1,6 @@
 [Skip to main content](#skipnav)
 
-[](https://www.pinsentmasons.com/en-gb "Pinsent Masons")
+[](https://www.pinsentmasons.com/ "Pinsent Masons")
 
 1. [Legal Notices](https://www.pinsentmasons.com/legal-notices) 
 2. Cookie Policy [Cookie Policy](https://www.pinsentmasons.com/legal-notices/cookie-settings) 
@@ -462,20 +462,20 @@ If you use your browser settings to block all cookies, which would include block
 Other notices and information
 -----------------------------
 
-* [Accessibility information](https://www.pinsentmasons.com/en-gb/legal-notices/accessibility)
-* [Anti-facilitation of tax evasion](https://www.pinsentmasons.com/en-gb/legal-notices/anti-facilitation-of-tax-evasion-statement)
-* [Cookies notice](https://www.pinsentmasons.com/en-gb/legal-notices/cookie-settings)
-* [Costs Transparency Information](https://www.pinsentmasons.com/en-gb/legal-notices/costs-transparency-information)
-* [COVID-19 Risk Assessment](https://www.pinsentmasons.com/en-gb/legal-notices/covid-19-risk-assessment)
-* [Legal Notices](https://www.pinsentmasons.com/en-gb/legal-notices)
-* [List of members](https://www.pinsentmasons.com/en-gb/legal-notices/list-of-members)
-* [Modern Slavery statement](https://www.pinsentmasons.com/en-gb/legal-notices/modern-slavery)
-* [Money Laundering notice](https://www.pinsentmasons.com/en-gb/legal-notices/money-laundering)
-* [Partnership Tax Strategy](https://www.pinsentmasons.com/en-gb/legal-notices/partnership-tax-strategy)
-* [Pay Gap Report](https://www.pinsentmasons.com/en-gb/legal-notices/pay-gap-reporting)
+* [Accessibility information](https://www.pinsentmasons.com/legal-notices/accessibility)
+* [Anti-facilitation of tax evasion](https://www.pinsentmasons.com/legal-notices/anti-facilitation-of-tax-evasion-statement)
+* [Cookies notice](https://www.pinsentmasons.com/legal-notices/cookie-settings)
+* [Costs Transparency Information](https://www.pinsentmasons.com/legal-notices/costs-transparency-information)
+* [COVID-19 Risk Assessment](https://www.pinsentmasons.com/legal-notices/covid-19-risk-assessment)
+* [Legal Notices](https://www.pinsentmasons.com/legal-notices)
+* [List of members](https://www.pinsentmasons.com/legal-notices/list-of-members)
+* [Modern Slavery statement](https://www.pinsentmasons.com/legal-notices/modern-slavery)
+* [Money Laundering notice](https://www.pinsentmasons.com/legal-notices/money-laundering)
+* [Partnership Tax Strategy](https://www.pinsentmasons.com/legal-notices/partnership-tax-strategy)
+* [Pay Gap Report](https://www.pinsentmasons.com/legal-notices/pay-gap-reporting)
 * [Pinsent Masons Germany Legal notices](#)
-* [Privacy policy](https://www.pinsentmasons.com/en-gb/legal-notices/privacy-policy)
-* [Statement of ethics](https://www.pinsentmasons.com/en-gb/legal-notices/statement-of-ethics)
+* [Privacy policy](https://www.pinsentmasons.com/legal-notices/privacy-policy)
+* [Statement of ethics](https://www.pinsentmasons.com/legal-notices/statement-of-ethics)
 
 * [Sectors and what we do
     ----------------------](#)
@@ -498,7 +498,7 @@ Other notices and information
     * [Your risks and regulatory environment](https://www.pinsentmasons.com/what-we-do/your-risks-and-regulatory-environment)
     
 
-[](https://www.pinsentmasons.com/en-gb "Pinsent Masons")
+[](https://www.pinsentmasons.com/ "Pinsent Masons")
 
 * [Legal Notices](https://www.pinsentmasons.com/legal-notices)
 * [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy)
