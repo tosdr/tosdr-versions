@@ -136,16 +136,17 @@ Clemson University
     ### Services On Campus
     
     * [Housing & Dining](https://housing.clemson.edu/)
-    * [Campus Recreation](https://www.clemson.edu/campus-life/campus-recreation/)
-    * [Parking and Transportation](https://www.clemson.edu/campus-life/parking/)
-    * [Student Health Services](https://www.clemson.edu/campus-life/student-health/)
+    * [Clemson University Bookstore](https://www.clemson.edu/campus-life/campus-services/book-store/index.html)
+    * [Campus Recreation](https://www.clemson.edu/studentaffairs/get-involved/cr/index.html)
+    * [Parking and Transportation](https://www.clemson.edu/campus-life/parking/index.html)
+    * [Student Health Services](https://www.clemson.edu/studentaffairs/find-support/shs/index.html)
     * [TigerOne Card Services](https://www.clemson.edu/campus-life/tigerone/)
     * [Clemson Athletics](https://clemsontigers.com/)
     
     ### Get Involved
     
     * [Clubs and Organizations](https://www.clemson.edu/campus-life/student-orgs/index.html)
-    * [Fraternity and Sorority Life](https://www.clemson.edu/campus-life/fraternity-sorority-life/)
+    * [Fraternity and Sorority Life](https://www.clemson.edu/studentaffairs/get-involved/fsl/index.html)
     * [Orientation Ambassadors](https://www.clemson.edu/studentaffairs/get-involved/csle/orientation/orientation-ambassadors/index.html)
     * [Tiger Media](https://www.clemson.edu/cbshs/departments/communication/tiger-media/)
     * [Graduate Student Government](https://gsg.people.clemson.edu/)
@@ -352,17 +353,18 @@ Forward Arrow Icon Back Arrow Icon Back
     ------------------
     
     * [Housing & Dining](https://housing.clemson.edu/)
-    * [Campus Recreation](https://www.clemson.edu/campus-life/campus-recreation/)
-    * [Parking and Transportation](https://www.clemson.edu/campus-life/parking/)
-    * [Student Health Services](https://www.clemson.edu/campus-life/student-health/)
-    * [TigerOne Card Services](https://www.clemson.edu/campus-life/tigerone/)
+    * [Clemson University Bookstore](https://www.clemson.edu/campus-life/campus-services/book-store/index.html)
+    * [Campus Recreation](https://www.clemson.edu/studentaffairs/get-involved/cr/index.html)
+    * [Parking and Transportation](https://www.clemson.edu/campus-life/parking/index.html)
+    * [Student Health Services](https://www.clemson.edu/studentaffairs/find-support/shs/index.html)
+    * [TigerOne Card Services](https://www.clemson.edu/campus-life/tigerone/index.html)
     * [Clemson Athletics](https://clemsontigers.com/)
     
     Get Involved
     ------------
     
     * [Clubs and Organizations](https://www.clemson.edu/campus-life/student-orgs/index.html)
-    * [Fraternity and Sorority Life](https://www.clemson.edu/campus-life/fraternity-sorority-life/)
+    * [Fraternity and Sorority Life](https://www.clemson.edu/studentaffairs/get-involved/fsl/index.html)
     * [Orientation Ambassadors](https://www.clemson.edu/studentaffairs/get-involved/csle/orientation/orientation-ambassadors/index.html)
     * [Tiger Media](https://www.clemson.edu/cbshs/departments/communication/tiger-media/)
     * [Graduate Student Government](https://gsg.people.clemson.edu/)
