@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![This Man From 'The Boondocks' Easily Avoids Ragebait With One Simple Trick](https://i.kym-cdn.com/featured_items/icons/wide/000/026/491/cover3.jpg "This Man From 'The Boondocks' Easily Avoids Ragebait With One Simple Trick")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/496/Peanut_the_squirrel_Cover.jpg "Why Was Peanut The Squirrel Euthanized By New York Officials? P'Nut's Death And The Internet's Reaction Explained")
     
-    This Man From 'The Boondocks' Easily Avoids Ragebait With One Simple Trick](https://knowyourmeme.com/memes/wait-a-minute-im-white)
+    Why Was Peanut The Squirrel Euthanized By New York Officials? P'Nut's Death And The Internet's Reaction Explained](https://knowyourmeme.com/editorials/guides/why-was-peanut-the-squirrel-euthanized-by-new-york-officials-pnuts-death-and-the-internets-reaction-explained)
     
-* [![earlier that day.. IDONTCARE FOR il" Dicky FOR Lil' Dicky ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/490/8675309.jpg "21 Years Ago, Lucille Bluth Said She Doesn't Care For Gob, Inspiring Memes")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/495/Screenshot_2024-11-04_at_2.10.43_PM.jpg "'The Most Mysterious Song On The Internet' Has Been Identified As 'Subways Of Your Mind' By FEX")
     
-    21 Years Ago, Lucille Bluth Said She Doesn't Care For Gob, Inspiring Memes](https://knowyourmeme.com/memes/i-dont-care-for-x)
+    'The Most Mysterious Song On The Internet' Has Been Identified As 'Subways Of Your Mind' By FEX](https://knowyourmeme.com/news/the-most-mysterious-song-on-the-internet-has-been-identified-as-subways-of-your-mind-by-fex)
     
-* [![Use The 'I Know X Got Me' Snowclone To Shout Out Your Coping Mechanisms](https://i.kym-cdn.com/featured_items/icons/wide/000/026/489/cover4.jpg "It's The Birthday Of 'If Nobody Got Me, I Know God Got Me'")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/494/tfw.jpg "What's Up With The Blue Grinch Saying 'That Feeling When Knee Surgery Is Tomorrow'? The Oddly Specific Meme Explained")
     
-    It's The Birthday Of 'If Nobody Got Me, I Know God Got Me'](https://knowyourmeme.com/memes/if-nobody-got-me-i-know-god-got-me)
+    What's Up With The Blue Grinch Saying 'That Feeling When Knee Surgery Is Tomorrow'? The Oddly Specific Meme Explained](https://knowyourmeme.com/editorials/guides/whats-up-with-the-blue-grinch-saying-that-feeling-when-knee-surgery-is-tomorrow-the-oddly-specific-meme-explained)
     
-* [![The Humble Japanese Kei Truck Becomes A Cult Car Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/488/1.jpg "The Humble Japanese Kei Truck Becomes A Cult Car Meme")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/493/og_owner_fallenchung.jpg "What's Up With Webcomic Artist Fallen Chungus Getting 'Scammed' Out Of His Account? The 'Liquid Chungus' Takeover Explained")
     
-    The Humble Japanese Kei Truck Becomes A Cult Car Meme](https://knowyourmeme.com/memes/subcultures/kei-trucks)
+    What's Up With Webcomic Artist Fallen Chungus Getting 'Scammed' Out Of His Account? The 'Liquid Chungus' Takeover Explained](https://knowyourmeme.com/editorials/guides/whats-up-with-webcomic-artist-fallenchungus-getting-scammed-out-of-his-account-the-liquid-chungus-takeover-explained)
     
-* [![Johnny Somali's picture and a screenshot of him getting attacked](https://i.kym-cdn.com/featured_items/icons/wide/000/026/487/Johnny_Somali_hunt_down_Cover.jpg "Korean Streamers Hunt Down American Kick Streamer Johnny Somali After His Actions In The Country")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/492/241028-dwayne-wade-mb-0958-5a5873.jpg "Spirit Of '2016 Posting' Returns On Eve Of Election, As Woman Compares Pollsters Nate Silver And Anne Selzer To Feuding Aunt And Uncle")
     
-    Korean Streamers Hunt Down American Kick Streamer Johnny Somali After His Actions In The Country](https://knowyourmeme.com/memes/events/johnny-somalis-south-korea-hunt-down-controversy)
+    Spirit Of '2016 Posting' Returns On Eve Of Election, As Woman Compares Pollsters Nate Silver And Anne Selzer To Feuding Aunt And Uncle](https://knowyourmeme.com/news/spirit-of-2016-posting-returns-on-eve-of-election-as-woman-compares-pollsters-nate-silver-and-anne-selzer-to-feuding-aunt-and-uncle)
     
 
 ##### Also Trending:
 
-[Olivia Rodrigo's Space Question](https://knowyourmeme.com/memes/olivia-rodrigos-space-question "Olivia Rodrigo's Space Question") [Peanut the Squirrel](https://knowyourmeme.com/memes/peanut-the-squirrel-pnut "Peanut the Squirrel") [AI-Generated Minecraft](https://knowyourmeme.com/memes/ai-generated-minecraft "AI-Generated Minecraft") [The Most Mysterious Song On The Internet](https://knowyourmeme.com/memes/the-most-mysterious-song-on-the-internet "The Most Mysterious Song On The Internet") [Hmm Today I Will Vote for a Third Party](https://knowyourmeme.com/memes/hmm-today-i-will-vote-for-a-third-party "Hmm Today I Will Vote for a Third Party")
+[Robert O'Neill 'Concubines' Post](https://knowyourmeme.com/memes/events/robert-j-oneill-concubines-twitter-post "Robert O'Neill 'Concubines' Post") [Today I Will Vote for a Third Party](https://knowyourmeme.com/memes/hmm-today-i-will-vote-for-a-third-party "Today I Will Vote for a Third Party") [Peanut the Squirrel](https://knowyourmeme.com/memes/peanut-the-squirrel-pnut "Peanut the Squirrel") [Donald Trump Microphone Video](https://knowyourmeme.com/memes/donald-trump-miming-sex-act-on-microphone "Donald Trump Microphone Video") [Ahoo Daryaei Stripping In Iran Protest](https://knowyourmeme.com/memes/events/ahoo-daryaei-stripping-in-iran-protest "Ahoo Daryaei Stripping In Iran Protest") [Crip Walk Fortnite Emote](https://knowyourmeme.com/memes/events/snoop-dogg-crip-walk-fortnite-emote-controversy "Crip Walk Fortnite Emote") [2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [The Most Mysterious Song On The Internet](https://knowyourmeme.com/memes/the-most-mysterious-song-on-the-internet "The Most Mysterious Song On The Internet")
 
 Copyright Infringement Notice
 =============================
@@ -188,7 +188,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### O HAI! You must login or signup first!
+### Hauu! You must login or signup first!
 
 |     |     |
 | --- | --- |
