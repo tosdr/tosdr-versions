@@ -1,7 +1,3 @@
-[🎃 Spook-tacular Savings Await! 🕸️ No Tricks, Just Treats: 50% Off Over $100! 👻](https://www.playmobil.com/en-us/web-shop/offers/50-years/)
-
-[🎃 Spook-tacular Savings Await! 🕸️ No Tricks, Just Treats: 50% Off Over $100! 👻](https://www.playmobil.com/en-us/web-shop/offers/50-years/)
-
 [](https://www.playmobil.us/en-us/)
 
 [Sign in](https://www.playmobil.us/en-us/login/)
