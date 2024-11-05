@@ -205,25 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Lets Ruin Emotional Movie Moments!](https://www.somethingawful.com/photoshop-phriday/ruin-emotional-movies/1/)
-* [Honest Reviews of Scotch Whisky](https://www.somethingawful.com/news/whisky-reviews-gross/1/)
-* [The 2007 Holiday Skymall Strategy Guide, Part 5](https://www.somethingawful.com/guides/skymall-guide-part5/1/)
-* [Classic Literature: Modernized!](https://www.somethingawful.com/comedy-goldmine/modern-literary-works/)
-* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
+* [The Great Energy Drink Review Roundup 2008!](https://www.somethingawful.com/news/energy-drink-review2008/1/)
+* [The Full Version of Roy Batty's "Tears in Rain" Speech](https://www.somethingawful.com/news/blade-runner-speech/1/)
+* [De-synchronized Swimmers!](https://www.somethingawful.com/photoshop-phriday/synchronized-swimming-scary/1/)
+* [Battle Raper 2](https://www.somethingawful.com/hentai-game-reviews/battle-raper-2/)
+* [The 2007 Holiday Skymall Strategy Guide, Part 6](https://www.somethingawful.com/guides/skymall-guide-part6/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [What's a stereotypical "old person" thing that you do now?](http://forums.somethingawful.com/showthread.php?threadid=4074307 "What's a stereotypical "old person" thing that you do now?")
 * ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Post ITT if you didn't update the SA app and you're on ios](http://forums.somethingawful.com/showthread.php?threadid=4074311 "Post ITT if you didn't update the SA app and you're on ios")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [The Mysterious Song On The Internet Has Been Found](http://forums.somethingawful.com/showthread.php?threadid=4074325 "The Mysterious Song On The Internet Has Been Found")
+* ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) [STOOP KID'S AFRAID TO LEAVE HIS STOOP](http://forums.somethingawful.com/showthread.php?threadid=4074375 "STOOP KID'S AFRAID TO LEAVE HIS STOOP")
+* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [What's a stereotypical "old person" thing that you do now?](http://forums.somethingawful.com/showthread.php?threadid=4074307 "What's a stereotypical "old person" thing that you do now?")
 
 ### Random Articles
 
-* [For Male Gamers Only](https://www.somethingawful.com/feature-articles/male-gamers-only/1/)
-* [Swap grandparents and babies heads!](https://www.somethingawful.com/comedy-goldmine/swap-grandparents-babies/1/)
-* [Klingon Gallery](https://www.somethingawful.com/awful-links/awful-link-1535/)
-* [Daily Dirt BLAMMY](https://www.somethingawful.com/daily-dirt/daily-dirt-blammy/)
-* [Ask Emily!](https://www.somethingawful.com/feature-articles/ask-emily/1/)
+* [I Hate You Page 203](https://www.somethingawful.com/cliff-yablonski/i-hate-you-203/)
+* [Another Festering, Pathetic, Diseased Year For Me to Live Through](https://www.somethingawful.com/news/another-festering-pathetic/)
+* [Fan Art IS Real Art!](https://www.somethingawful.com/photoshop-phriday/fan-art-zybourne/1/)
+* [Acne Beat: Teens Helping a Friend Overcome Acne](https://www.somethingawful.com/awful-links/awful-link-1171/)
+* [My Future's So Dark, I Gotta Wear Spikes](https://www.somethingawful.com/news/dark-future-80s/)
 
 [Random!](https://www.somethingawful.com/random/)
 
