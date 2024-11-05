@@ -298,7 +298,7 @@ Complete Licensing Limited is a company registered in England and Wales.
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20281%20300'%3E%3C/svg%3E)
 
-![](https://completelicensing.uk/wp-content/uploads/2020/05/GBC-LOGO-accredited-stamp-281x300.png)](https://registry.blockmarktech.com/certificates/15c19be6-e562-4231-8484-0206e33fa373/)
+![](https://completelicensing.uk/wp-content/uploads/2020/05/GBC-LOGO-accredited-stamp-281x300.png)](https://accreditation.goodbusinesscharter.com/directory?name=Complete+Licensing)
 
 **Company Number:** [12611128](https://beta.companieshouse.gov.uk/company/12611128)  
 **VAT Number:** [350480616](https://www.tax.service.gov.uk/check-vat-number/known)
