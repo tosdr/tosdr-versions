@@ -395,13 +395,13 @@ Reddit User Agreement
         * [Machine Readable Files](https://redditinc.com/policies/machine-readable-files?hsLang=en)
         * [Impressum](https://redditinc.com/policies/impressum?hsLang=en)
 
-* [বাংলা](https://www.redditinc.com/policies/user-agreement?hsLang=en)
+* [Bengali](https://www.redditinc.com/policies/user-agreement?hsLang=en)
     * * [All](https://redditinc.com/policies?hsLang=en)
         * [Reddit ইউজার এগ্রিমেন্ট](https://redditinc.com/bn/policies/user-agreement?hsLang=en)
         * [Reddit-এর গোপনীয়তা নীতি](https://www.reddit.com/bn-in/policies/privacy-policy)
         * [Reddit-এর কনটেন্ট নীতি](https://redditinc.com/bn/policies/content-policy?hsLang=en)
 
-* [हिन्दी](https://www.redditinc.com/policies/user-agreement?hsLang=en)
+* [Hindi](https://www.redditinc.com/policies/user-agreement?hsLang=en)
     * * [All](https://redditinc.com/policies?hsLang=en)
         * [Reddit यूज़र एग्रीमेंट](https://redditinc.com/hi-in/policies/user-agreement?hsLang=en)
         * [Reddit प्राइवेसी पॉलिसी](https://www.reddit.com/hi-in/policies/privacy-policy)
