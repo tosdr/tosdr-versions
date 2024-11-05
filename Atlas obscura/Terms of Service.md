@@ -14,63 +14,44 @@ Force Open Search
 
 Open main menu
 
-Loading...
+![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
 
-Upcoming Experiences
+Take your next trip with Atlas Obscura!
+---------------------------------------
 
-[View All Experiences »](https://www.atlasobscura.com/events)
+Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
 
-   [![](https://img.atlasobscura.com/47GmlwimpzPiGelKZ8NPUfhFPGMn4DXU85l8m12kxFo/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9hNjg3/MmE5NS05ZmZjLTRm/YzQtYTg3NS03M2Q3/ZjJjZTIxOTA4MTEx/N2MxZTk1MWE0NmQy/OTBfYXJuZS12ZXJi/aXN0LTB3dTVXYWlL/NnBVLXVuc3BsYXNo/LmpwZw.jpg)
+[Visit Adventures](https://www.atlasobscura.com/adventures/)
 
-Members Only
+Trips Highlight
 
-Monster of the Month w/ Colin Dickey: The Albatwitch](https://www.atlasobscura.com/experiences/monster-of-the-month-w-colin-dickey-the-albatwitch)
+   [![Iceland - Northern Lights Aurora Borealis](https://img.atlasobscura.com/IyfPPV5wjzkxDQgpZ2TrTeys3Qwfd6OINBjYZ-z_oys/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy81MTA5/ZGM1YS01NmNjLTRh/MzUtOThhNC02Yzc1/MDEzN2Y3YzdhYzkx/ZmNlNTMwODk5NDE1/MGZfSWNlbGFuZCAx/IC0gTWFuIExvb2tp/bmcgYXQgTm9ydGhl/cm4gTGlnaHRzLnBu/Zw.png)](https://www.atlasobscura.com/adventures/trips/iceland-winter)
 
-   [![](https://img.atlasobscura.com/iBmYQnBuFHN6USDGinknmm1IrzJw7Y2XxZIT_GHYChg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy82OGVh/ZmQzZi01NzEyLTQz/Y2MtOTU3OS0zMWE3/ZTQ4MzdjYTQxZTlj/OTNiYjNhYTM2OWVk/MmJfdWMzeGtqa1Eu/anBn.jpg)
+Iceland • 8 days, 7 nights
 
-Wild Life: An Explorer's Guide to the World's Living Wonders](https://www.atlasobscura.com/experiences/wild-life-book-event-toronto)
+[Iceland in Winter: Northern Lights & Geothermal Marvels](https://www.atlasobscura.com/adventures/trips/iceland-winter)
 
-   [![](https://img.atlasobscura.com/rHgWDyNgbn2PLJ4fPnve5r--YDSMfBkSbNDqnDrd6NE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8xODAz/Mjk3OS0xYThiLTQ1/YjQtYjFkMC1hNDhk/MTcxZmUxNTBhZjcx/MWI1MGE0MjY5NTAy/ZjZfanVuaW9yLWZl/cnJlaXJhLTdlc1JQ/VHQzOG5JLXVuc3Bs/YXNoLmpwZw.jpg)
+from
 
-Members Only
+   [![West Africa djembe](https://img.atlasobscura.com/7bKepEPqLJz5bMfvNetIHSXGyU6GJH_5ZmRGiBK8yvo/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy83OGU0/YWIzZS0xNDM5LTRi/ZDctOWRlZC0zZTcw/YzhlNTYxNTJkMjA5/NzIzN2M3MWU1YTk2/NWJfV2VzdCBBZnJp/Y2EgNCAtIGFmcmlj/YW4gZHJ1bW1pbmcu/cG5n.png)](https://www.atlasobscura.com/adventures/trips/west-africa)
 
-Accidental Discoveries](https://www.atlasobscura.com/experiences/accidental-discoveries-6)
+Benin • 13 days, 12 nights
 
-   [![](https://img.atlasobscura.com/BtMUa2zrDFXc-OVssjz_wOvaZew_1XXphWiyJnyDX48/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81YjU4/YTZlMS1jMDk3LTRh/M2EtOTVmZi1lMTI5/NDE0ZWQwYTBiY2I5/NDY5NjcwMDM3MmUw/MjdfVW50aXRsZWQu/anBn.jpg)
+[NEW - Rhythms & Rituals: West Africa's Spiritual Traditions](https://www.atlasobscura.com/adventures/trips/west-africa)
 
-Members Only
+from
 
-Monster of the Month w/ Colin Dickey: Frankenstein](https://www.atlasobscura.com/experiences/monster-of-the-month-w-colin-dickey-frankenstein)
-
-Loading...
-
-Loading...
+[View all trips](https://www.atlasobscura.com/adventures/trips)
 
 Loading...
 
-Recent Stories
+Loading...
 
-[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
+Loading...
 
-Most Recent Stories
+Loading...
 
-[View All Stories »](https://www.atlasobscura.com/articles)
-
-   [![Granola bars are a nice travel food, but why not bring some cake instead? ](https://img.atlasobscura.com/DRsZUKlLTLPd3clfx2YihLfuMMj5I5cyw0XO0ZJY_KA/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy80MDcwNWYyMi0x/MDE1LTQ0ZmEtYmQy/ZS03ZDYwODczZWFl/NGFkM2FiODFjMjI2/YjAzNmRmMWNfZ2F0/ZWF1IGRlIHZveWFn/ZS5qcGVn.jpg)
-
-Make 'Travel Cake' for Your Next Journey](https://www.atlasobscura.com/articles/travel-food-ideas)
-
-   [![View from the overlook on Kuwohi of the mountain peaks and ridges of Great Smoky Mountains National Park.](https://img.atlasobscura.com/0hut3npUOFGbZAda6j1utVanzRDUt5KMjjy5J58oWx0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy82ZGYwZDlkZGM2/NzZhMmUxYTBfS3V3/b2hpXzAxLmpwZw.jpg)
-
-The Tallest of the Great Smoky Mountains Is—Officially—Kuwohi](https://www.atlasobscura.com/articles/kuwohi-not-clingmans-dome)
-
-   [![The Resolute Desk is considered the greatest of the presidential desks.](https://img.atlasobscura.com/fYV5xg1uuIrzVEsoO5ACJxXeTt6FeQo3qCG7Y8YkID8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8wN2IwOTQzNy01/NWY0LTRlN2YtYTA0/OC0wZTk5NjdjZmNl/YWI2YjFiNDliMDU0/ZDVhYmJlMjlfMWFj/YmJlYTQyYTM4ZTJm/Yzk5X0JhcmFja19P/YmFtYV9zaXR0aW5n/X2F0X3RoZV9SZXNv/bHV0ZV9kZXNrXzIw/MDkuanBn.jpg)
-
-7 Presidential Stories They Don't Teach in History Class](https://www.atlasobscura.com/articles/weird-president-stories)
-
-   [![Like some political issues, Watergate salad can be polarizing.](https://img.atlasobscura.com/rMYBm5_90JP9afI_wgupmXs9veJlIOn1PCHGMZGk8gc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy84NzVjOGQyZS01/ZDRlLTQyODEtYmIz/YS0yNGFiM2ZmY2Mx/ODdjYzk2YjJkZTBj/OWJlNDkxNzFfODA0/NDRlMjQtNzdkYy00/M2MxLWJlYmItN2Q1/ZTlkZjM3NzdjNmQ0/MGE4ZGRhNjgzYTgw/ZDk3X0lNR185ODI2/IDIuanBn.jpg)
-
-7 Candidates for Your Election Day Menu](https://www.atlasobscura.com/articles/political-food-election-recipes)
+Loading...
 
 No search results found for  
 “”
@@ -225,7 +206,6 @@ Get the app
 * [Online Courses](https://www.atlasobscura.com/online-courses)
 * [Online Experience FAQ](https://www.atlasobscura.com/experiences/faq)
 * [Online Course FAQ](https://www.atlasobscura.com/online-courses-faq)
-* [Eclipse Festival 2024](https://ecliptic.atlasobscura.com/)
 
  Community
 
