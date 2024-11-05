@@ -95,19 +95,11 @@ Search site
 
 from MON 4:34 PM CST until TUE 6:08 AM CST, Dallas County](https://www.fox4news.com/weather-alerts)
 
-4
+2
 
 [Flash Flood Warning
 
-from MON 6:30 PM CST until MON 10:30 PM CST, Red River County](https://www.fox4news.com/weather-alerts)
-
-[Tornado Watch
-
-until MON 8:00 PM CST, Delta County, Van Zandt County, Rains County, Hopkins County, Lamar County](https://www.fox4news.com/weather-alerts)
-
-[Tornado Watch
-
-from MON 5:30 PM CST until TUE 12:00 AM CST, Red River County](https://www.fox4news.com/weather-alerts)
+until TUE 2:00 AM CST, Red River County](https://www.fox4news.com/weather-alerts)
 
 Privacy Policy
 ==============
@@ -420,43 +412,75 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Today is Election Day. Here’s what you need to know](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/219152_You_Decide_2024_Web-Graphic_1280x720_001.jpg?ve=1&tl=1)
+
+ ![Today is Election Day. Here’s what you need to know](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/592/333/219152_You_Decide_2024_Web-Graphic_1280x720_001.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/election-day-2024-how-do-i-vote)
+
+### [Today is Election Day. Here’s what you need to know](https://www.fox4news.com/election/election-day-2024-how-do-i-vote)
+
+ [![Dodgers fan who fell off roof during World Series celebration in critical condition, family says](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/snapshot-2024-11-01t133629.821.jpg?ve=1&tl=1)
+
+ ![Dodgers fan who fell off roof during World Series celebration in critical condition, family says](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/592/333/snapshot-2024-11-01t133629.821.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dodgers-fan-falls-off-roof-world-series-parade-celebration)
+
+### [Dodgers fan who fell off roof during World Series celebration in critical condition, family says](https://www.fox4news.com/news/dodgers-fan-falls-off-roof-world-series-parade-celebration)
+
+ [![Is Tarrant County turning purple? Political expert weighs in.](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-david-election-preview-tarrant-county-9p_00.00.07.18.jpg?ve=1&tl=1)
+
+ ![Is Tarrant County turning purple? Political expert weighs in.](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-david-election-preview-tarrant-county-9p_00.00.07.18.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/is-tarrant-county-turning-purple-political-expert-weighs)
+
+### [Is Tarrant County turning purple? Political expert weighs in.](https://www.fox4news.com/news/is-tarrant-county-turning-purple-political-expert-weighs)
+
+ [![Podcaster Joe Rogan endorses Donald Trump for President](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/trump-joe-rogan.jpg?ve=1&tl=1)
+
+ ![Podcaster Joe Rogan endorses Donald Trump for President](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/592/333/trump-joe-rogan.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/podcaster-joe-rogan-endorses-donald-trump-president)
+
+### [Podcaster Joe Rogan endorses Donald Trump for President](https://www.fox4news.com/news/podcaster-joe-rogan-endorses-donald-trump-president)
+
  [![Bandmates of sole survivor of Fort Worth wrong way crash organize benefit concert](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-dionne-nw-loop-820-fatal-wrong-way-crash_00.00.28.14.jpg?ve=1&tl=1)
 
  ![Bandmates of sole survivor of Fort Worth wrong way crash organize benefit concert](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-dionne-nw-loop-820-fatal-wrong-way-crash_00.00.28.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/evan-ranallo-musician-concert-fundraiser-loop-820-deadly-crash)
 
 ### [Bandmates of sole survivor of Fort Worth wrong way crash organize benefit concert](https://www.fox4news.com/news/evan-ranallo-musician-concert-fundraiser-loop-820-deadly-crash)
 
- [![Greetings from Cancun?: Texas Dems take shot at Ted Cruz with postcard](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/cancun-cruz-1-front_.jpg?ve=1&tl=1)
+[![Today is Election Day. Here’s what you need to know](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/149/84/219152_You_Decide_2024_Web-Graphic_1280x720_001.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-day-2024-how-do-i-vote)
 
- ![Greetings from Cancun?: Texas Dems take shot at Ted Cruz with postcard](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/cancun-cruz-1-front_.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/greetings-from-cancun-texas-dems-take-shot-ted-cruz-postcard)
+ELECTION DAY 2024
 
-### [Greetings from Cancun?: Texas Dems take shot at Ted Cruz with postcard](https://www.fox4news.com/election/greetings-from-cancun-texas-dems-take-shot-ted-cruz-postcard)
+[Today is Election Day. Here’s what you need to know](https://www.fox4news.com/election/election-day-2024-how-do-i-vote)
 
- [![City of Dallas unveils robotic lawnmowers that will replace gas-powered lawn equipment](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-lori-dallas-robotic-maintenance-530p_00.00.00.38.jpg?ve=1&tl=1)
+[The polls will open at 7 a.m. across Texas. Here's what you need to know to cast your ballot on Election Day.](https://www.fox4news.com/election/election-day-2024-how-do-i-vote)
 
- ![City of Dallas unveils robotic lawnmowers that will replace gas-powered lawn equipment](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-lori-dallas-robotic-maintenance-530p_00.00.00.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/city-dallas-unveils-robotic-lawnmowers-will-replace-gas-powered-lawn-equipment)
+[![Where to vote in Dallas County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/05/149/84/NC-voting-booth.jpg?ve=1&tl=1)](https://www.fox4news.com/election/where-vote-dallas-county-election-day)
 
-### [City of Dallas unveils robotic lawnmowers that will replace gas-powered lawn equipment](https://www.fox4news.com/news/city-dallas-unveils-robotic-lawnmowers-will-replace-gas-powered-lawn-equipment)
+ELECTION DAY 2024
 
- [![Severe weather threat over for DFW; Storms moving through Northeast Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gbk-qvgwaaa18cv.jpg?ve=1&tl=1)
+[Where to vote in Dallas County on Election Day](https://www.fox4news.com/election/where-vote-dallas-county-election-day)
 
- ![Severe weather threat over for DFW; Storms moving through Northeast Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gbk-qvgwaaa18cv.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/weather)
+[For Election Day there will be more than 400 Vote Centers across Dallas County, providing you with multiple locations to make your voice heard. You are able to vote at any of these locations within Dallas County.](https://www.fox4news.com/election/where-vote-dallas-county-election-day)
 
-### [Severe weather threat over for DFW; Storms moving through Northeast Texas](https://www.fox4news.com/weather/weather)
+[![Where to vote in Tarrant County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/09/149/84/GettyImages-1058414620-1.jpg?ve=1&tl=1)](https://www.fox4news.com/news/tarrant-county-voting-locations-election-day)
 
- [![Texas election results likely to be final before midnight Tuesday](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/110424-pb-election-night-returns-vosot-dial_kdfw05_00.00.01.38.jpg?ve=1&tl=1)
+ELECTION DAY 2024
 
- ![Texas election results likely to be final before midnight Tuesday](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/110424-pb-election-night-returns-vosot-dial_kdfw05_00.00.01.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/when-will-texas-election-results-final)
+[Where to vote in Tarrant County on Election Day](https://www.fox4news.com/news/tarrant-county-voting-locations-election-day)
 
-### [Texas election results likely to be final before midnight Tuesday](https://www.fox4news.com/news/when-will-texas-election-results-final)
+[Tarrant County registered voters on Election Day can vote at any polling location in the county from 7 a.m. until 7 p.m. See where you can vote here.](https://www.fox4news.com/news/tarrant-county-voting-locations-election-day)
 
-[![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
+[![Where to vote in Collin County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/149/84/GettyImages-1338949648.jpg?ve=1&tl=1)](https://www.fox4news.com/election/where-vote-collin-county-election-day)
 
-DOWNLOAD THE FOX LOCAL APP
+ELECTION DAY 2024
 
-[How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://www.fox4news.com/news/how-to-download-fox-local)
+[Where to vote in Collin County on Election Day](https://www.fox4news.com/election/where-vote-collin-county-election-day)
 
-[The FOX LOCAL app is your source for live FOX 4 news, top stories, Dallas-Fort Worth weather updates, and more local and national coverage, plus 24/7 streaming coverage from across the nation. Here’s how to download.](https://www.fox4news.com/news/how-to-download-fox-local)
+[Collin County registered voters on Election Day can vote at any polling location within Collin County from 7 a.m. until 7 p.m. Election Day is Tuesday, November 5, 2024.](https://www.fox4news.com/election/where-vote-collin-county-election-day)
+
+[![Where to vote in Denton County on Election Day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/03/149/84/GettyImages-1206416963.jpg?ve=1&tl=1)](https://www.fox4news.com/election/denton-county-voting-sites-election-day)
+
+ELECTION DAY 2024
+
+[Where to vote in Denton County on Election Day](https://www.fox4news.com/election/denton-county-voting-sites-election-day)
+
+[Denton County registered voters on Election Day can vote at their precinct polling location from 7 a.m. until 7 p.m.](https://www.fox4news.com/election/denton-county-voting-sites-election-day)
 
 ###### [News](https://www.fox4news.com/news)
 
