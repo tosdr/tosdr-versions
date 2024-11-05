@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_8.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,11 +148,9 @@
 
 Сейчас читают
 
-* [Торт "Наполеон" из рубленого теста, с масляным кремом со сгущёнкой](https://www.russianfood.com/recipes/recipe.php?rid=173593)
-* [Сладкий перец с фаршем, запечённый в томатном соусе](https://www.russianfood.com/recipes/recipe.php?rid=174614)
-* [Калачи "Московские"](https://www.russianfood.com/recipes/recipe.php?rid=174568)
-* [Курица со стручковой фасолью в соево-томатном соусе](https://www.russianfood.com/recipes/recipe.php?rid=172677)
-* [Жаркое из курицы с тыквой, в рукаве](https://www.russianfood.com/recipes/recipe.php?rid=172397)
+* [Жареная брокколи с грибами](https://www.russianfood.com/recipes/recipe.php?rid=171497)
+* [Медовый бисквитный рулет с кремом из сгущёнки и сливочного сыра](https://www.russianfood.com/recipes/recipe.php?rid=174597)
+* [Морковный салат с чесноком](https://www.russianfood.com/recipes/recipe.php?rid=124921)
 * [Курица, запечённая с яблоками и болгарским перцем](https://www.russianfood.com/recipes/recipe.php?rid=172925)
 * [Помидоры, запечённые с чесноком](https://www.russianfood.com/recipes/recipe.php?rid=174387)
 
@@ -176,6 +174,48 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Медовый бисквитный рулет с кремом из сгущёнки и сливочного сыра](https://www.russianfood.com/recipes/recipe.php?rid=174597) |     |
+
+[![Фото к рецепту: Медовый бисквитный рулет с кремом из сгущёнки и сливочного сыра](//img1.russianfood.com/dycontent/images_upl/750/sm_749348.jpg "Фото к рецепту: Медовый бисквитный рулет с кремом из сгущёнки и сливочного сыра")](https://www.russianfood.com/recipes/recipe.php?rid=174597)
+
+Для теста мёд прогревается с растительным маслом и содой, затем соединяется с взбитыми яйцами и мукой. Бисквит получается мягким и прекрасно сочетается с кремом из сливочного сыра и варёной сгущёнки. Рулет украшается "чешуйками" из мяты, глазками из маслины, короной из груши и язычком из красного перца. Получилась довольная жизнью царевна-змейка!
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174597)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174597#comments) | 05.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Заливной пирог на кефире, с яйцами, брынзой и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=173514) |     |
+
+[![Фото к рецепту: Заливной пирог на кефире, с яйцами, брынзой и зеленью](//img1.russianfood.com/dycontent/images_upl/738/sm_737012.jpg "Фото к рецепту: Заливной пирог на кефире, с яйцами, брынзой и зеленью")](https://www.russianfood.com/recipes/recipe.php?rid=173514)
+
+Легкий в приготовлении заливной пирог из теста на кефире. Для начинки используются яйца, зелень и брынза. На этот раз яйца для начинки предварительно отваривать не будем - они приготовятся прямо в пироге.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173514)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173514#comments) | 05.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Салат со свёклой, брокколи и болгарским перцем](https://www.russianfood.com/recipes/recipe.php?rid=174342) |     |
+
+[![Фото к рецепту: Салат со свёклой, брокколи и болгарским перцем](//img1.russianfood.com/dycontent/images_upl/749/sm_748254.jpg "Фото к рецепту: Салат со свёклой, брокколи и болгарским перцем")](https://www.russianfood.com/recipes/recipe.php?rid=174342)
+
+Полезный, необычный и яркий салат со свёклой, брокколи и болгарским перцем. Небольшой набор основных ингредиентов салата дополняется необычным медово-соевым соусом с имбирем, чесноком и красным острым перцем.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174342)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174342#comments) | 05.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -231,7 +271,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174728#comments) | 05.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=174728#comments) | 05.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -245,7 +285,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174732#comments) | 05.11.24 |     |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174732#comments) | 05.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -273,7 +313,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_20 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174721#comments) | 04.11.24 |     |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_25 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174721#comments) | 04.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -343,49 +383,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174623#comments) | 03.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Тыквенные кексы с изюмом](https://www.russianfood.com/recipes/recipe.php?rid=174607) |     |
-
-[![Фото к рецепту: Тыквенные кексы с изюмом](//img1.russianfood.com/dycontent/images_upl/745/sm_744762.jpg "Фото к рецепту: Тыквенные кексы с изюмом")](https://www.russianfood.com/recipes/recipe.php?rid=174607)
-
-Тыквенные кексы с изюмом обладают нежной текстурой и приятным сладковатым вкусом. Кексы имеют яркий оранжевый цвет, который придает им тыквенное пюре. Мякиш получается влажным и насыщенным. Изюм добавляет легкую кислинку, которая идеально дополняет сладкий вкус, а также делает кексы еще интересней.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174607)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_7 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174607#comments) | 03.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Свёкла, фаршированная мясным фаршем и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174639) |     |
-
-[![Фото к рецепту: Свёкла, фаршированная мясным фаршем и сыром](//img1.russianfood.com/dycontent/images_upl/746/sm_745244.jpg "Фото к рецепту: Свёкла, фаршированная мясным фаршем и сыром")](https://www.russianfood.com/recipes/recipe.php?rid=174639)
-
-Оригинальные бочонки из свеклы, внутри которых аппетитная начинка из отварного куриного мяса со сметаной и сырной корочкой сверху. Свёкла, фаршированная отварным мясом и сыром, – это вкусное и сытное блюдо, которое не только радует глаз своим ярким цветом, но и удивляет благородным сочетанием вкусов свёклы, мяса и сыра. Оно подходит как для повседневного стола, так и для праздничного угощения.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174639)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174639#comments) | 03.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Тыквенный пирог "Три стакана"](https://www.russianfood.com/recipes/recipe.php?rid=174661) |     |
-
-[![Фото к рецепту: Тыквенный пирог "Три стакана"](//img1.russianfood.com/dycontent/images_upl/747/sm_746109.jpg "Фото к рецепту: Тыквенный пирог "Три стакана"")](https://www.russianfood.com/recipes/recipe.php?rid=174661)
-
-Вкусный и ароматный тыквенный пирог "Три стакана" сочетает в себе нежную тыквенную начинку и рассыпчатую основу. Его готовят с использованием свежей тыквы, которая вместе с апельсиновой цедрой, корицей и мускатным орехом придают пирогу яркий и насыщенный вкус. Пирог готовится без замеса теста, вместо теста в форму выкладывается смесь муки, манки, сахара и сливочного масла, которая при выпекании образует рыхлое, песочное, чуть хрустящее тесто. Такое тесто отлично сочетается с ароматной тыквенной начинкой.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174661)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_11 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174661#comments) | 03.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174623#comments) | 03.11.24 |     |
 
 |     |
 | --- |
@@ -456,10 +454,12 @@
 
 Новые рецепты:
 
-|     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748533.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174577) | [![](//img1.russianfood.com/dycontent/images_upl/746/alt1_745244.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174639) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746250.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174664) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748518.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174732) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748318.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174728) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744456.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174526) |
-| [Салат из сельди с картофелем и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174577) | [Свёкла, фаршированная мясным фаршем и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174639) | [Чили из свинины с тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174664) | [Морковное печенье](https://www.russianfood.com/recipes/recipe.php?rid=174732) | [Салат оливье на год Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174728) | [Рассольник с перловкой и морской капустой](https://www.russianfood.com/recipes/recipe.php?rid=174526) |
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748254.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174342) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748464.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174574) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744456.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174526) | [![](//img1.russianfood.com/dycontent/images_upl/746/alt1_745244.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174639) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746250.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174664) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749348.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174597) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748518.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174732) |
+| [Салат со свёклой, брокколи и болгарским перцем](https://www.russianfood.com/recipes/recipe.php?rid=174342) | [Тартар из сельди с авокадо](https://www.russianfood.com/recipes/recipe.php?rid=174574) | [Рассольник с перловкой и морской капустой](https://www.russianfood.com/recipes/recipe.php?rid=174526) | [Свёкла, фаршированная курицей и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174639) | [Чили из свинины с тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174664) | [Медовый бисквитный рулет с кремом из сгущёнки и сливочного сыра](https://www.russianfood.com/recipes/recipe.php?rid=174597) | [Морковное печенье](https://www.russianfood.com/recipes/recipe.php?rid=174732) |
+| [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748318.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174728) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748533.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174577) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744099.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174532) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737012.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173514) |
+| [Салат оливье на год Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174728) | [Салат из сельди с картофелем и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174577) | [Салат из печёной тыквы и куриного филе](https://www.russianfood.com/recipes/recipe.php?rid=174532) | [Заливной пирог на кефире, с яйцами, брынзой и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=173514) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -476,4 +476,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(144)
+(122)
