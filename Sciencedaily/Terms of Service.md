@@ -249,25 +249,25 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Wounds and Healing](https://www.sciencedaily.com/news/health_medicine/wounds_and_healing/)
-
 [Lymphoma](https://www.sciencedaily.com/news/health_medicine/lymphoma/)
 
-[Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
+[Skin Cancer](https://www.sciencedaily.com/news/health_medicine/skin_cancer/)
+
+[Wounds and Healing](https://www.sciencedaily.com/news/health_medicine/wounds_and_healing/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
+
 [Big Bang](https://www.sciencedaily.com/news/space_time/big_bang/)
 
-[Satellites](https://www.sciencedaily.com/news/space_time/satellites/)
-
-[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
+[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
-
 [Biotechnology and Bioengineering](https://www.sciencedaily.com/news/plants_animals/biotechnology_and_bioengineering/)
+
+[Developmental Biology](https://www.sciencedaily.com/news/plants_animals/developmental_biology/)
 
 [Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
 
