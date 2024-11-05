@@ -280,7 +280,7 @@ Where we process personal data about you (subject to laws such as the EU General
 
 * **Right to be informed**: You have the right to know what personal data we process about you and why, together with information about your rights. We explain this via our product privacy policies and/or contextual privacy notices.
 * **Right of access**: Where we process personal data about you, you have the right to request a copy of it.
-* **Right to delete**: When certain grounds apply, you can ask us to delete personal data we are processing about you. Please note, we have a separate global policy for Brave Search results and the [right to be forgotten](https://search.brave.com/help/brave-search-index-right-to-be-forgotten).
+* **Right to delete**: When certain grounds apply, you can ask us to delete personal data we are processing about you. Please note, we have a separate global policy for Brave Search results and the [right to be forgotten](https://search.brave.com/).
 * **Right to rectification**: You can ask us to correct inaccurate personal data and/or to update incomplete data.
 * **Right to restriction**: In certain circumstances, you can request that we refrain from processing your personal data.
 * **Right to object**: In certain circumstances, you can object to the processing of your personal data (for example to object to the use of your data for profiling and/or purely automated decision making). Please note that we do not buy or sell personal data about consumers.
