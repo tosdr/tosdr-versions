@@ -16,7 +16,7 @@ Amsterdam
 
 Current
 
-10.264 Tb/s
+12.544 Tb/s
 
 Peak
 
@@ -48,6 +48,7 @@ AMS-IX locations
 * [Bangkok](https://www.ams-ix.net/ban)
 * [Bay Area](https://www.ams-ix.net/bay)
 * [Caribbean](https://www.ams-ix.net/car)
+* [Chennai](https://www.ams-ix.net/che)
 * [Chicago](https://www.ams-ix.net/chi)
 * [Djibouti](https://www.ams-ix.net/dji)
 * [Hong Kong](https://www.ams-ix.net/hk)
@@ -56,6 +57,7 @@ AMS-IX locations
 * [Lagos](https://www.ams-ix.net/lag)
 * [Manila](https://www.ams-ix.net/man)
 * [Mumbai](https://www.ams-ix.net/mum)
+* [Noida](https://www.ams-ix.net/noi)
 * [Singapore](https://www.ams-ix.net/sin)
 
 Powered by AMS-IX
@@ -240,6 +242,8 @@ The Netherlands.
 Email address : [info@ams-ix.net](mailto:info@ams-ix.net)  
 Phone number : +31 20 305 89 99.  
 Chamber of Commerce number : 34128666
+
+#### Subscribe to our newsletter
 
 #### Got a question?
 
