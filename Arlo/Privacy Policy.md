@@ -125,7 +125,7 @@ Wired Floodlight
 
 Security Light and Camera
 
-From $149.99](https://www.arlo.com/en-us/light/arlo-wired-floodlight.html)
+$149.99](https://www.arlo.com/en-us/light/arlo-wired-floodlight.html)
 
 [![Arlo Pro 3 Floodlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwef65b31e/Products/HiRes%20Images/Pro%203%20Floodlight/2023/07%20-%20Pro%203%20Floodlight%20-%20Wireless%20Camera.png?sw=840&sh=723&sm=fit)
 
@@ -256,7 +256,7 @@ Wired Floodlight
 
 Security Light and Camera
 
-From $149.99](https://www.arlo.com/en-us/light/arlo-wired-floodlight.html)
+$149.99](https://www.arlo.com/en-us/light/arlo-wired-floodlight.html)
 
 [![Arlo Pro 3 Floodlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwef65b31e/Products/HiRes%20Images/Pro%203%20Floodlight/2023/07%20-%20Pro%203%20Floodlight%20-%20Wireless%20Camera.png?sw=840&sh=723&sm=fit "Arlo Pro 3 Floodlight Camera")
 
@@ -414,7 +414,7 @@ Security Plans
             
             Security Light and Camera
             
-            From $149.99](https://www.arlo.com/en-us/light/arlo-wired-floodlight.html)
+            $149.99](https://www.arlo.com/en-us/light/arlo-wired-floodlight.html)
             
         * [![Arlo Pro 3 Floodlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwef65b31e/Products/HiRes%20Images/Pro%203%20Floodlight/2023/07%20-%20Pro%203%20Floodlight%20-%20Wireless%20Camera.png?sw=840&sh=723&sm=fit "Arlo Pro 3 Floodlight Camera")
             
