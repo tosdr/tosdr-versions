@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Building a strong security posture: Managing compliance, risk, and business engagement in a dynamic landscape](https://www.onetrust.com/resources/building-a-strong-security-posture-managing-compliance-risk-and-business-engagement-in-a-dynamic-landscape-webinar/)
 * [Building a strong security posture: managing compliance, risk and business engagement in a dynamic landscape](https://www.onetrust.com/resources/building-a-strong-security-posture-managing-compliance-risk-and-business-engagement-in-a-dynamic-landscape/)
 * [EU-US DPF self-certification and compliance checklist](https://www.onetrust.com/resources/eu-us-dpf-self-certification-and-compliance-checklist/)
-* [Building a strong security posture: Managing compliance, risk, and business engagement in a dynamic landscape](https://www.onetrust.com/resources/building-a-strong-security-posture-managing-compliance-risk-and-business-engagement-in-a-dynamic-landscape-webinar/)
 
 ### Platform
 
