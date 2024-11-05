@@ -143,13 +143,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Republican presidential candidate Donald Trump and Kamala Harris, the Democratic candidate, face off in an election Tuesday that will have wide-ranging implications for Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/03/431885.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Republican presidential candidate Donald Trump and Kamala Harris, the Democratic candidate, face off in an election Tuesday that will have wide-ranging implications for Japan.")](https://www.japantimes.co.jp/news/2024/11/03/japan/politics/us-presidential-election-japan-preview/ "Status quo or disruption? Breaking down the U.S. election's impact on Japan")
 
+[Horse-trading continues ahead of next week's prime minister vote](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/parties-lobby-prime-minister-election/ "Horse-trading continues ahead of next week's prime minister vote")
+
+  [![Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/04/432179.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office on Friday.")](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/parties-lobby-prime-minister-election/ "Horse-trading continues ahead of next week's prime minister vote")
+
 [Gifu police officer arrested over alleged sex with underage girl](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
 
   [![The Gifu Prefectural Police headquarters in the city of Gifu](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431571.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Gifu Prefectural Police headquarters in the city of Gifu")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
-
-[At Japan’s hottest festival, crowds threaten to smother the flames](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
-
-  [![The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431318.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.")](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
 
 Editors' Picks
 --------------
@@ -180,17 +180,17 @@ By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
+[Horse-trading continues ahead of next week's prime minister vote](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/parties-lobby-prime-minister-election/ "Horse-trading continues ahead of next week's prime minister vote")
+
+By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
+
+  [![Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/04/432179.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office on Friday.")](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/parties-lobby-prime-minister-election/ "Horse-trading continues ahead of next week's prime minister vote")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 [Gifu police officer arrested over alleged sex with underage girl](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
 
   [![The Gifu Prefectural Police headquarters in the city of Gifu](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431571.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Gifu Prefectural Police headquarters in the city of Gifu")](https://www.japantimes.co.jp/news/2024/11/01/japan/crime-legal/police-officer-arrested/ "Gifu police officer arrested over alleged sex with underage girl")
-
-[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
-
-[At Japan’s hottest festival, crowds threaten to smother the flames](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
-
-By [Shawn B. Swinger](https://www.japantimes.co.jp/author/5552/shawn-b-swinger/ "Shawn B. Swinger")  
-
-  [![The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/01/431318.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kurama Fire Festival is one of Japan's most visceral 'matsuri' (festivals), but growing throngs of spectators could bring changes in the future.")](https://www.japantimes.co.jp/life/2024/11/02/travel/kurama-fire-festival-kyoto/ "At Japan’s hottest festival, crowds threaten to smother the flames")
 
 Podcast
 -------
@@ -253,15 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Fifth time’s a charm as H3 rocket puts defense satellite in orbit](https://www.japantimes.co.jp/news/2024/11/04/japan/h3-rocket-x-band-satellite/ "Fifth time’s a charm as H3 rocket puts defense satellite in orbit")
+[Consumers urged to check heater safety ahead of winter accident surge](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-heater-fire-warning/ "Consumers urged to check heater safety ahead of winter accident surge")
 
-[Sikh activists see it as freedom. India calls it terrorism.](https://www.japantimes.co.jp/news/2024/11/04/asia-pacific/politics/sikh-activists-india-terrorism/ "Sikh activists see it as freedom. India calls it terrorism.")
+12 mins ago
 
-[Indonesia volcano eruption kills six and sets villages aflame](https://www.japantimes.co.jp/news/2024/11/04/asia-pacific/indonesia-volcano-eruption/ "Indonesia volcano eruption kills six and sets villages aflame")
+[Palau's pro-U.S. president faces election test](https://www.japantimes.co.jp/news/2024/11/05/asia-pacific/politics/palau-us-president-election/ "Palau's pro-U.S. president faces election test")
 
-[Horse-trading continues ahead of next week's prime minister vote](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/parties-lobby-prime-minister-election/ "Horse-trading continues ahead of next week's prime minister vote")
+54 mins ago
 
-[Alleged recruiter of Saitama burglary ring arrested](https://www.japantimes.co.jp/news/2024/11/04/japan/crime-legal/crime-recruiter-arrested/ "Alleged recruiter of Saitama burglary ring arrested")
+[Meta struggles to curb hate speech before U.S. vote, researchers say](https://www.japantimes.co.jp/news/2024/11/05/world/politics/meta-hate-speech-us-vote/ "Meta struggles to curb hate speech before U.S. vote, researchers say")
+
+1 hours ago
+
+[Troops reinforce rescue efforts in flood-hit Spain as anger grows](https://www.japantimes.co.jp/news/2024/11/05/world/troops-rescue-flood-spain-anger/ "Troops reinforce rescue efforts in flood-hit Spain as anger grows")
+
+2 hours ago
+
+[First candidates grilled in parliament test for EU top team](https://www.japantimes.co.jp/news/2024/11/05/world/politics/eu-candidates-parliament/ "First candidates grilled in parliament test for EU top team")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
