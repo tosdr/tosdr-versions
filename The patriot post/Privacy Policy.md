@@ -1,10 +1,10 @@
-**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
+**Did you know?** _The Patriot Post_ is funded 100% by its readers. Help us stay front and center in the fight for Liberty and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us).
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111666-mid-day-digest-2024-11-04?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111702-mid-day-digest-2024-11-05?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -108,13 +108,13 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111666-mid-day-digest-2024-11-04?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111702-mid-day-digest-2024-11-05?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111668-dont-sit-it-out-2024-11-05)
+     [](https://patriotpost.us/memes/111705-garbage-day-2024-11-05)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -134,6 +134,7 @@ Last Updated: November 15, 2011.
 *      [Daniel McCarthy How Politics Hasn’t Changed Since Jefferson](https://patriotpost.us/opinion/111682-how-politics-hasnt-changed-since-jefferson-2024-11-05)
 *      [Cal Thomas Is It Too Early to Talk 2028?](https://patriotpost.us/opinion/111684-is-it-too-early-to-talk-2028-2024-11-05)
 *      [Christine Flowers Newspapers Aren’t Giving Liberals the Validation They Need](https://patriotpost.us/opinion/111692-newspapers-arent-giving-liberals-the-validation-they-need-2024-11-05)
+*      [Guest Commentary On Election Integrity](https://patriotpost.us/opinion/111701-on-election-integrity-2024-11-05)
 *      [The Babylon Bee Democrats Warn That if Trump Is Elected It Will Be the End of Bureaucracy as We Know It](https://patriotpost.us/opinion/111679-democrats-warn-that-if-trump-is-elected-it-will-be-the-end-of-bureaucracy-as-we-know-it-2024-11-05)
 
 * [More Opinion >](https://patriotpost.us/opinion)
@@ -148,7 +149,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
