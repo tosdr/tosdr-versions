@@ -399,11 +399,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [Learn Something New: 100 Most Popular Courses For November](https://www.classcentral.com/report/most-popular-november-2024/)
-2. [6 Best Photography Courses for 2024](https://www.classcentral.com/report/best-photography-courses/)
-3. [9 Best Adobe Lightroom Courses for 2024](https://www.classcentral.com/report/best-adobe-lightroom-courses/)
-4. [10 Best English Grammar Courses for 2024](https://www.classcentral.com/report/best-english-grammar-courses/)
-5. [7 Best Email Marketing Courses for 2024](https://www.classcentral.com/report/best-email-marketing-courses/)
+1. [330+ Free University Courses to Learn a New Language](https://www.classcentral.com/report/language-learning-online-courses/)
+2. [Learn Something New: 100 Most Popular Courses For November](https://www.classcentral.com/report/most-popular-november-2024/)
+3. [6 Best Photography Courses for 2024](https://www.classcentral.com/report/best-photography-courses/)
+4. [9 Best Adobe Lightroom Courses for 2024](https://www.classcentral.com/report/best-adobe-lightroom-courses/)
+5. [10 Best English Grammar Courses for 2024](https://www.classcentral.com/report/best-english-grammar-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,11 +414,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. psychology
+1. digital marketing
     
-2. machine learning
+2. sql
     
-3. cyber security
+3. harvard
     
 
 Popular subjects
