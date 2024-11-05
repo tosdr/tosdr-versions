@@ -107,69 +107,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Екатерина Гридчина](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1506869-1625830787.png)](https://lyricstranslate.com/en/translator/%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0-%D0%B3%D1%80%D0%B8%D0%B4%D1%87%D0%B8%D0%BD%D0%B0 "Екатерина Гридчина")
+[![Wrath Redoran](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1566872-1679610207.jpg)](https://lyricstranslate.com/en/translator/wrath-redoran "Wrath Redoran")
+
+New song
+
+[კონტრაბანდა - ერთი იყო](https://lyricstranslate.com/en/kontrabanda-erti-iqo-lyrics)
+
+Georgian
+
+[![wuhuahua089](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1176962-1730035239.png)](https://lyricstranslate.com/en/translator/wuhuahua089 "wuhuahua089")
 
 New translation
 
-[Marko Škugor - Ti budi ti](https://lyricstranslate.com/en/marko-skugor-ti-budi-ti-russian)
+[Cairokee - أحلامنا (Ahlamna)](https://lyricstranslate.com/en/cairokee-ahlamna-transliteration)
 
-Croatian → Russian
+Arabic (Egyptian) → Transliteration
 
-[![𝟕𝐭𝐡𝐖𝐚𝐫𝐝𝐋𝐨𝐫𝐝](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1528888-1730142440.png)](https://lyricstranslate.com/en/translator/%F0%9D%9F%95%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%96%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9D%F0%9D%90%8B%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%9D "𝟕𝐭𝐡𝐖𝐚𝐫𝐝𝐋𝐨𝐫𝐝")
+[![Tal Ramati](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1265040.jpg)](https://lyricstranslate.com/en/translator/tal-ramati "Tal Ramati")
 
 New song
 
-[BONES - FoundFootage](https://lyricstranslate.com/en/bones-foundfootage-lyrics)
+[Unknown Artist (Hebrew) - אין לי ארץ אחרת](https://lyricstranslate.com/en/unknown-artist-hebrew-no-other-land-me-lyrics)
 
-English
+Hebrew
 
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+[![sortilegi0](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110101-1475695379.jpg)](https://lyricstranslate.com/en/translator/sortilegi0 "sortilegi0")
 
 New translation
 
-[Peer Tasi - הלב שמח (HaLev Sameach)](https://lyricstranslate.com/en/peer-tasi-halev-sameach-arabic)
+[Ritam Srca - Чија ли си чија (Čija li si čija)](https://lyricstranslate.com/en/ritam-srca-cija-li-si-cija-turkish)
 
-Hebrew → Arabic
+Serbian → Turkish
 
-[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1725792559.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
+[![Fary](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1097876-1552844503.jpg)](https://lyricstranslate.com/en/translator/fary "Fary")
+
+New comment
+
+No, incomplete lyrics aren't allowed so you should...  [more](https://lyricstranslate.com/en/comment/1173887#comment-1173887)
+
+[![osiris71](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1421017-1557781113.jpg)](https://lyricstranslate.com/en/translator/osiris71 "osiris71")
+
+New song
+
+[Mihai Eminescu - Când va fi pe la ogină](https://lyricstranslate.com/en/mihai-eminescu-cand-va-fi-pe-la-ogina-lyrics)
+
+Romanian
+
+[![FrostNova7122](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1627717-1728405694.jpg)](https://lyricstranslate.com/en/translator/frostnova7122 "FrostNova7122")
+
+New song
+
+[Koji Tamaki - Will...](https://lyricstranslate.com/en/koji-tamaki-will-lyrics)
+
+Japanese
+
+[![Gunda412](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1459212-1593362012.jpg)](https://lyricstranslate.com/en/translator/gunda412 "Gunda412")
 
 New translation
 
-[BABYMONSTER - Woke Up In Tokyo](https://lyricstranslate.com/en/babymonster-woke-tokyo-english-0)
+[The Andrews Sisters - Her Bathing Suit never got Wet](https://lyricstranslate.com/en/andrews-sisters-her-bathing-suit-never-go-german)
 
-English → English
-
-[![𝟕𝐭𝐡𝐖𝐚𝐫𝐝𝐋𝐨𝐫𝐝](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1528888-1730142440.png)](https://lyricstranslate.com/en/translator/%F0%9D%9F%95%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%96%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9D%F0%9D%90%8B%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%9D "𝟕𝐭𝐡𝐖𝐚𝐫𝐝𝐋𝐨𝐫𝐝")
-
-New song
-
-[BONES - TrespassersWillBeShot,SurvivorsWillBeShotAgain](https://lyricstranslate.com/en/bones-trespasserswillbeshotsur-lyrics)
-
-English
-
-[![𝟕𝐭𝐡𝐖𝐚𝐫𝐝𝐋𝐨𝐫𝐝](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1528888-1730142440.png)](https://lyricstranslate.com/en/translator/%F0%9D%9F%95%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%96%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9D%F0%9D%90%8B%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%9D "𝟕𝐭𝐡𝐖𝐚𝐫𝐝𝐋𝐨𝐫𝐝")
-
-New song
-
-[BONES - PoorSport](https://lyricstranslate.com/en/bones-poorsport-lyrics)
-
-English
-
-[![Ivan Luden](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1408270-1553443086.jpg)](https://lyricstranslate.com/en/translator/ivan-luden "Ivan Luden")
-
-New request
-
-[Leonid Kaganov - Если б Путин... (Yesli b Putin...)](https://lyricstranslate.com/en/request/%D0%B5%D1%81%D0%BB%D0%B8-%D0%B1-%D0%BF%D1%83%D1%82%D0%B8%D0%BD-1)
-
-Russian → Serbian
-
-[![𝟕𝐭𝐡𝐖𝐚𝐫𝐝𝐋𝐨𝐫𝐝](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1528888-1730142440.png)](https://lyricstranslate.com/en/translator/%F0%9D%9F%95%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%96%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9D%F0%9D%90%8B%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%9D "𝟕𝐭𝐡𝐖𝐚𝐫𝐝𝐋𝐨𝐫𝐝")
-
-New song
-
-[BONES - FoDa94'](https://lyricstranslate.com/en/bones-foda94-lyrics)
-
-English
+English → German
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
