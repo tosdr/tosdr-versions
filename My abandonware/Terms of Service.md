@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Super Tennis](https://www.myabandonware.com/game/super-tennis-atj)
+* [Super Bubble Pop](https://www.myabandonware.com/game/super-bubble-pop-hxl)
 * [World Championship Soccer](https://www.myabandonware.com/game/world-championship-soccer-2c7)
 * [Net Cribbage](https://www.myabandonware.com/game/net-cribbage-ssu)
 * [Net Gin Rummy](https://www.myabandonware.com/game/net-gin-rummy-sst)
-* [Recycle Design](https://www.myabandonware.com/game/recycle-design-t6t)
-* [Popo Team](https://www.myabandonware.com/game/popo-team-t6s)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
