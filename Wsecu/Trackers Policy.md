@@ -26,7 +26,7 @@ WSECU Routing Number: **325181028**
     ### Checking
     
     * [Personal Checking](https://wsecu.org/checking-and-savings/checking)
-    * [Youth Checking](https://wsecu.org/checking-and-savings/youth-accounts-ages-18-25)
+    * [Youth Checking](https://wsecu.org/checking-and-savings/youth-checking)
     
     ### Savings
     
@@ -278,7 +278,7 @@ Go back to the search field
     ### Checking
     
     * [Personal Checking](https://wsecu.org/checking-and-savings/checking)
-    * [Youth Checking](https://wsecu.org/checking-and-savings/youth-accounts-ages-18-25)
+    * [Youth Checking](https://wsecu.org/checking-and-savings/youth-checking)
     
     ### Savings
     
@@ -599,7 +599,7 @@ Banking
 * [Checking](https://wsecu.org/checking-and-savings/checking)
 * [Credit Cards](https://wsecu.org/credit-cards)
 * [Share Certificates](https://wsecu.org/checking-and-savings/share-certificates)
-* [Youth Accounts](https://wsecu.org/checking-and-savings/youth-accounts-ages-18-25)
+* [Youth Accounts](https://wsecu.org/checking-and-savings/youth-checking)
 
 Loans
 -----
