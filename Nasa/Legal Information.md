@@ -18,7 +18,7 @@ Search
     * [Upcoming Launches & Landings](https://www.nasa.gov/event-type/launch-schedule/)
     * [Virtual Guest Program](https://www.nasa.gov/nasa-virtual-guest-program/)
 * Multimedia
-    [### Multimedia](https://www.nasa.gov/multimedia/)* [NASA+](https://plus.nasa.gov/)
+    [### Multimedia](https://www.nasa.gov/multimedia/)* [NASA+](https://plus.nasa.gov/scheduled-video/nasas-spacex-31st-cargo-resupply-services-launch/#fullscreen-player)
     * [Images](https://www.nasa.gov/images/)
     * [NASA Live](https://www.nasa.gov/live)
     * [NASA Apps](https://www.nasa.gov/apps/)
@@ -228,7 +228,7 @@ Back
 
 [### Multimedia](https://www.nasa.gov/multimedia/)
 
-* [NASA+](https://plus.nasa.gov/)
+* [NASA+](https://plus.nasa.gov/scheduled-video/nasas-spacex-31st-cargo-resupply-services-launch/#fullscreen-player)
 * [Images](https://www.nasa.gov/images/)
 * [NASA Live](https://www.nasa.gov/live)
 * [NASA Apps](https://www.nasa.gov/apps/)
@@ -269,7 +269,7 @@ article 4 days ago](https://www.nasa.gov/missions/spherex/why-nasas-spherex-miss
 
 ### Do You Have Proposals for New Human Research Studies Benefiting Spaceflight?
 
-article 6 hours ago](https://www.nasa.gov/hrp/do-you-have-proposals-for-new-human-research-studies-benefiting-spaceflight/)[![NASA astronaut Serena Auñón-Chancellor provides a saliva sample on the International Space Station. Her sample will be used to measure stress hormones and other biomarkers of health that can reveal how her immune system changes in space.](https://www.nasa.gov/wp-content/uploads/2021/12/serena_aunon-chancellor-saliva-sample-immunity-study-space-station.jpg?w=1024)
+article 7 hours ago](https://www.nasa.gov/hrp/do-you-have-proposals-for-new-human-research-studies-benefiting-spaceflight/)[![NASA astronaut Serena Auñón-Chancellor provides a saliva sample on the International Space Station. Her sample will be used to measure stress hormones and other biomarkers of health that can reveal how her immune system changes in space.](https://www.nasa.gov/wp-content/uploads/2021/12/serena_aunon-chancellor-saliva-sample-immunity-study-space-station.jpg?w=1024)
 
 2 min read
 
@@ -291,7 +291,7 @@ article 4 days ago](https://www.nasa.gov/science-research/we-are-all-made-of-cel
 
 ### NASA, Bhutan Conclude Five Years of Teamwork on STEM, Sustainability
 
-article 5 hours ago](https://www.nasa.gov/missions/servir/nasa-bhutan-conclude-five-years-of-teamwork-on-stem-sustainability/)[![SWOT data visualization](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26420-greenland-tsunami.jpg?w=1024)
+article 6 hours ago](https://www.nasa.gov/missions/servir/nasa-bhutan-conclude-five-years-of-teamwork-on-stem-sustainability/)[![SWOT data visualization](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26420-greenland-tsunami.jpg?w=1024)
 
 4 min read
 
@@ -313,7 +313,7 @@ article 5 days ago](https://www.nasa.gov/earth/climate-change/ozone-layer/nasa-n
 
 ### Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass
 
-article 8 hours ago](https://science.nasa.gov/science-research/heliophysics/final-venus-flyby-for-nasas-parker-solar-probe-queues-closest-sun-pass/)[![NASA’s New Edition of Graphic Novel Features Europa Clipper](https://science.nasa.gov/wp-content/uploads/2024/11/clilpperwallpaper.png)
+article 9 hours ago](https://science.nasa.gov/science-research/heliophysics/final-venus-flyby-for-nasas-parker-solar-probe-queues-closest-sun-pass/)[![NASA’s New Edition of Graphic Novel Features Europa Clipper](https://science.nasa.gov/wp-content/uploads/2024/11/clilpperwallpaper.png)
 
 2 min read
 
@@ -357,19 +357,19 @@ article 4 days ago](https://science.nasa.gov/missions/webb/blood-soaked-eyes-nas
 
 ### NASA, Bhutan Conclude Five Years of Teamwork on STEM, Sustainability
 
-article 5 hours ago](https://www.nasa.gov/missions/servir/nasa-bhutan-conclude-five-years-of-teamwork-on-stem-sustainability/)[![NASA’s NEOWISE Spacecraft Re-Enters Atmosphere, But More Discoveries Await!](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/neowise-citizenscience-logos.jpg)
+article 6 hours ago](https://www.nasa.gov/missions/servir/nasa-bhutan-conclude-five-years-of-teamwork-on-stem-sustainability/)[![NASA’s NEOWISE Spacecraft Re-Enters Atmosphere, But More Discoveries Await!](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/neowise-citizenscience-logos.jpg)
 
 2 min read
 
 ### NASA’s NEOWISE Spacecraft Re-Enters Atmosphere, But More Discoveries Await!
 
-article 8 hours ago](https://science.nasa.gov/get-involved/citizen-science/nasas-neowise-spacecraft-re-enters-atmosphere-but-more-discoveries-await/)[![Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass](https://science.nasa.gov/wp-content/uploads/2024/11/wispr-magellan-4thflyby.gif)
+article 9 hours ago](https://science.nasa.gov/get-involved/citizen-science/nasas-neowise-spacecraft-re-enters-atmosphere-but-more-discoveries-await/)[![Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass](https://science.nasa.gov/wp-content/uploads/2024/11/wispr-magellan-4thflyby.gif)
 
 4 min read
 
 ### Final Venus Flyby for NASA’s Parker Solar Probe Queues Closest Sun Pass
 
-article 8 hours ago](https://science.nasa.gov/science-research/heliophysics/final-venus-flyby-for-nasas-parker-solar-probe-queues-closest-sun-pass/)
+article 9 hours ago](https://science.nasa.gov/science-research/heliophysics/final-venus-flyby-for-nasas-parker-solar-probe-queues-closest-sun-pass/)
 
 ### Highlights
 
@@ -423,7 +423,7 @@ article 2 weeks ago](https://science.nasa.gov/technology/rps/after-60-years-nucl
 
 ### Professional Learning: Using Children’s Books to Build STEM Habits of Mind
 
-article 7 hours ago](https://science.nasa.gov/learning-resources/science-activation/professional-learning-using-childrens-books-to-build-stem-habits-of-mind/)[![Three students standing next to an Artemis tree with a bulletin board in the background that reads NASA STEM Artemis Moon Trees](https://www.nasa.gov/wp-content/uploads/2024/10/artemis-moon-trees-spr-24-with-3-girls-rosalee-armstrong-1.png?w=688)
+article 9 hours ago](https://science.nasa.gov/learning-resources/science-activation/professional-learning-using-childrens-books-to-build-stem-habits-of-mind/)[![Three students standing next to an Artemis tree with a bulletin board in the background that reads NASA STEM Artemis Moon Trees](https://www.nasa.gov/wp-content/uploads/2024/10/artemis-moon-trees-spr-24-with-3-girls-rosalee-armstrong-1.png?w=688)
 
 8 min read
 
