@@ -91,15 +91,23 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
+[River Flood Warning
+
+from MON 4:34 PM CST until TUE 6:08 AM CST, Dallas County](https://www.fox4news.com/weather-alerts)
+
+4
+
+[Flash Flood Warning
+
+from MON 6:30 PM CST until MON 10:30 PM CST, Red River County](https://www.fox4news.com/weather-alerts)
+
 [Tornado Watch
 
-until MON 6:00 PM CST, Collin County, Somervell County, Johnson County, Hood County, Fannin County, Kaufman County, Denton County, Hunt County, Parker County, Dallas County, Wise County, Rockwall County, Delta County, Erath County, Van Zandt County, Rains County, Cooke County, Hopkins County, Lamar County, Tarrant County, Ellis County](https://www.fox4news.com/weather-alerts)
-
-2
+until MON 8:00 PM CST, Delta County, Van Zandt County, Rains County, Hopkins County, Lamar County](https://www.fox4news.com/weather-alerts)
 
 [Tornado Watch
 
-from MON 10:56 AM CST until MON 6:00 PM CST, Red River County](https://www.fox4news.com/weather-alerts)
+from MON 5:30 PM CST until TUE 12:00 AM CST, Red River County](https://www.fox4news.com/weather-alerts)
 
 Privacy Policy
 ==============
@@ -412,35 +420,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Dak Prescott to miss 'multiple weeks' with hamstring injury, reports say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2182716450-scaled.jpg?ve=1&tl=1)
+ [![Bandmates of sole survivor of Fort Worth wrong way crash organize benefit concert](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-dionne-nw-loop-820-fatal-wrong-way-crash_00.00.28.14.jpg?ve=1&tl=1)
 
- ![Dak Prescott to miss 'multiple weeks' with hamstring injury, reports say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2182716450-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dak-prescott-injury-multiple-weeks)
+ ![Bandmates of sole survivor of Fort Worth wrong way crash organize benefit concert](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-dionne-nw-loop-820-fatal-wrong-way-crash_00.00.28.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/evan-ranallo-musician-concert-fundraiser-loop-820-deadly-crash)
 
-### [Dak Prescott to miss 'multiple weeks' with hamstring injury, reports say](https://www.fox4news.com/sports/dak-prescott-injury-multiple-weeks)
+### [Bandmates of sole survivor of Fort Worth wrong way crash organize benefit concert](https://www.fox4news.com/news/evan-ranallo-musician-concert-fundraiser-loop-820-deadly-crash)
 
- [![Plano motorcyclist killed in Saturday crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/ambulance.jpg?ve=1&tl=1)
+ [![Greetings from Cancun?: Texas Dems take shot at Ted Cruz with postcard](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/cancun-cruz-1-front_.jpg?ve=1&tl=1)
 
- ![Plano motorcyclist killed in Saturday crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/ambulance.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/plano-motorcyclist-killed-saturday-crash)
+ ![Greetings from Cancun?: Texas Dems take shot at Ted Cruz with postcard](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/cancun-cruz-1-front_.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/greetings-from-cancun-texas-dems-take-shot-ted-cruz-postcard)
 
-### [Plano motorcyclist killed in Saturday crash](https://www.fox4news.com/news/plano-motorcyclist-killed-saturday-crash)
+### [Greetings from Cancun?: Texas Dems take shot at Ted Cruz with postcard](https://www.fox4news.com/election/greetings-from-cancun-texas-dems-take-shot-ted-cruz-postcard)
 
- [![How many electoral votes does each state have?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/screenshot-2024-11-04-124641.png?ve=1&tl=1)
+ [![City of Dallas unveils robotic lawnmowers that will replace gas-powered lawn equipment](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-lori-dallas-robotic-maintenance-530p_00.00.00.38.jpg?ve=1&tl=1)
 
- ![How many electoral votes does each state have?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/screenshot-2024-11-04-124641.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/how-many-electoral-votes-does-each-state-have)
+ ![City of Dallas unveils robotic lawnmowers that will replace gas-powered lawn equipment](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-lori-dallas-robotic-maintenance-530p_00.00.00.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/city-dallas-unveils-robotic-lawnmowers-will-replace-gas-powered-lawn-equipment)
 
-### [How many electoral votes does each state have?](https://www.fox4news.com/election/how-many-electoral-votes-does-each-state-have)
+### [City of Dallas unveils robotic lawnmowers that will replace gas-powered lawn equipment](https://www.fox4news.com/news/city-dallas-unveils-robotic-lawnmowers-will-replace-gas-powered-lawn-equipment)
 
- [![Tropical Depression 18 forms, expected to become Rafael before moving into Gulf of Mexico](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/11/32/18/td-18-monday-1pm-track.jpg?ve=1&tl=1)
+ [![Severe weather threat over for DFW; Storms moving through Northeast Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gbk-qvgwaaa18cv.jpg?ve=1&tl=1)
 
- ![Tropical Depression 18 forms, expected to become Rafael before moving into Gulf of Mexico](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/11/32/18/592/333/td-18-monday-1pm-track.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/potential-tropical-cyclone-18-expected-become-rafael-before-moving-gulf-mexico)
+ ![Severe weather threat over for DFW; Storms moving through Northeast Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gbk-qvgwaaa18cv.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/weather)
 
-### [Tropical Depression 18 forms, expected to become Rafael before moving into Gulf of Mexico](https://www.fox4news.com/news/potential-tropical-cyclone-18-expected-become-rafael-before-moving-gulf-mexico)
+### [Severe weather threat over for DFW; Storms moving through Northeast Texas](https://www.fox4news.com/weather/weather)
 
- [![More northern lights could come as sun hits solar maximum, NASA says](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2151878499.jpg?ve=1&tl=1)
+ [![Texas election results likely to be final before midnight Tuesday](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/110424-pb-election-night-returns-vosot-dial_kdfw05_00.00.01.38.jpg?ve=1&tl=1)
 
- ![More northern lights could come as sun hits solar maximum, NASA says](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2151878499.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/northern-lights-nasa-sun-solar-maximum)
+ ![Texas election results likely to be final before midnight Tuesday](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/110424-pb-election-night-returns-vosot-dial_kdfw05_00.00.01.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/when-will-texas-election-results-final)
 
-### [More northern lights could come as sun hits solar maximum, NASA says](https://www.fox4news.com/news/northern-lights-nasa-sun-solar-maximum)
+### [Texas election results likely to be final before midnight Tuesday](https://www.fox4news.com/news/when-will-texas-election-results-final)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
