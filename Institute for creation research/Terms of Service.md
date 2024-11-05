@@ -165,6 +165,68 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
+More Creation Science Update
+
+[![](/i/Main%20Stage%20-%201400x1050/dinosaurspider_1400x1050.jpg)](https://www.icr.org/article/dinosaur-spider-still-spider)
+
+[Dinosaur Spider Is Still a Spider](https://www.icr.org/article/dinosaur-spider-still-spider/)
+
+A giant “dinosaur age” trapdoor spider fossil has been unearthed from McGraths Flat in central New South Wales, Australia. The Zoological...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/beautyofcreation_1400x1050.jpg)](https://www.icr.org/article/beauty-of-creation)
+
+[The Beauty of Creation: Created for God's Own Glory](https://www.icr.org/article/beauty-of-creation/)
+
+Have you ever wondered why a sunset on a beach is captivating, snowcapped mountains are breathtaking, and a valley filled with wildflowers is enchanting? Scripture,...
+
+BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
+
+[![](/i/Main%20Stage%20-%201400x1050/retinadesign_1400x1050.jpg)](https://www.icr.org/article/retina-design)
+
+[Retina Design](https://www.icr.org/article/retina-design/)
+
+There’s certainly nothing uncomplicated about the eye, simple1 or otherwise. Some of us remember learning about basic vision from...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/59496549/file.jpg)
+
+Carved in Stone DVD](https://store.icr.org/carved-in-stone-dvd.html)
+
+$21.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/36502300/file.jpg)
+
+Henry Explores the New World](https://store.icr.org/henry-explores-the-new-world.html)
+
+$8.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9184100/file.jpg)
+
+Big Plans for Henry - eBook](https://store.icr.org/big-plans-for-henry-ebook.html)
+
+$4.99
+
+$8.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/56181428/file.jpg)
+
+Carved in Stone](https://store.icr.org/carved-in-stone.html)
+
+$39.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/56200791/file.jpg)
+
+Carved in Stone eBook](https://store.icr.org/carved-in-stone-ebook.html)
+
+$19.99
+
+$39.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
