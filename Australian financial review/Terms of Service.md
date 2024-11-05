@@ -336,7 +336,7 @@ Advertise
 
 [![Anglo American chief executive Duncan Wanblad is selling his company’s coal assets in Queensland.](https://static.ffx.io/images/$zoom_0.2294%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1eafcbf8f021726be192122a46bffba5bed8dd1e)](https://www.afr.com/companies/mining/billionaire-sam-chong-pays-1-6b-for-anglo-s-stake-in-queensland-mines-20241104-p5knub)
 
-### [Billionaire Sam Chong pays $1.6b for Anglo’s stake in Queensland mines](https://www.afr.com/companies/mining/billionaire-sam-chong-pays-1-6b-for-anglo-s-stake-in-queensland-mines-20241104-p5knub)
+### [Billionaire pays $1.6b for Anglo’s stake in Qld mines](https://www.afr.com/companies/mining/billionaire-sam-chong-pays-1-6b-for-anglo-s-stake-in-queensland-mines-20241104-p5knub)
 
 * Peter Ker
 
