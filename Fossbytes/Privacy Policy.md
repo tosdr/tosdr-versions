@@ -68,6 +68,8 @@ Users may find advertising or other content on our Site that link to the sites a
 
 **Advertising**
 
+All or partial advertising on this Website or App is managed by Playwire LLC. If Playwire publisher advertising services are used, Playwire LLC may collect and use certain aggregated and anonymized data for advertising purposes. To learn more about the types of data collected, how data is used and your choices as a user, please visit [https://www.playwire.com/privacy-policy](https://www.playwire.com/privacy-policy).
+
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non-personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
 You may opt out of personalised advertising from Google by visiting  
@@ -86,13 +88,13 @@ Further information and browser/mobile advertising opt outs can be found here:
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at
 
-[https://www.google.com/privacy\_ads.html](https://www.google.com/privacy_ads.html)
+https://www.google.com/privacy\_ads.html
 
 **Push Notifications**
 
 When you visit Fossbytes.com, you might receive a pop-up asking for your permission to send you push notifications on your device. In case you choose not to agree, you can continue using our website. If you choose to agree to receive push notifications on your device, you can later opt-out of the notifications by searching for “Notifications” in your web browser’s “Settings” section. Find more information on One Signal’s push notification service here:
 
-[https://onesignal.com/privacy\_policy](https://onesignal.com/privacy_policy)
+https://onesignal.com/privacy\_policy
 
 **Reproduction and use:**
 
@@ -113,6 +115,10 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 Fossbytes Media Private Limited is committed to providing secure and transparent experience to our Users. Protecting our Users’ privacy and data is extremely important to us. If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [\[email protected\]](https://fossbytes.com/cdn-cgi/l/email-protection)
+
+[![Playwire](https://www.playwire.com/hubfs/Powered-by-Playwire-Badges/Ads-Powered-by-playwire-2021-standalone-small-300px.png)](http://www.playwire.com/)
+
+[Advertise on this site.](https://www.playwire.com/contact-direct-sales)
 
 * [About Us](https://fossbytes.com/about/)
 * [Contact Us](https://fossbytes.com/contact-us/)
