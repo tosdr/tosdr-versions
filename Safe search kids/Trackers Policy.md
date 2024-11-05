@@ -834,6 +834,7 @@ Share This Article
 
 ### Internet Filtering & Security
 
+* [Don’t Fall for Coupon Scams This Shopping Season](https://www.safesearchkids.com/dont-fall-for-coupon-scams-this-shopping-season/)
 * [Gamer Security | Protect and Play Safer](https://www.safesearchkids.com/gamer-security/)
 * [Biometric Security and Its Uncharted Pitfalls](https://www.safesearchkids.com/the-future-of-biometric-security-and-its-uncharted-pitfalls/)
 * [Teaching Kids About Cybersecurity](https://www.safesearchkids.com/teaching-kids-about-cybersecurity-engaging-methods-for-young-minds/)
