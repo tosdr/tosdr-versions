@@ -63,7 +63,7 @@ Support
 
 ©2024 FreeYourMusic.com
 
-[](https://twitter.com/freeyourmusic)[](https://www.facebook.com/freeyourmusicapp)[![YouTube](https://stamp.imgix.net/images/youtube/yt_logo_mono_dark.png?auto=compress%2Cformat&fit=fillmax&ch=Save-Data)](https://www.youtube.com/channel/UCqqPiCbVgFOZwbckZq_2tug)[](https://instagram.com/freeyourmusic_com)[](https://www.tiktok.com/@freeyourmusic_com)
+[](https://twitter.com/freeyourmusic)[](https://www.facebook.com/freeyourmusicapp)[](https://instagram.com/freeyourmusic_com)[](https://www.tiktok.com/@freeyourmusic_com)
 
 !['s flag](/statics/images/flags/4x3/gb.svg)
 
