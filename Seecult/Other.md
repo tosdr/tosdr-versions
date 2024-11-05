@@ -434,11 +434,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![Zoran Popovic, Autoportret Tri svetilista](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-crtezidrawings/zoran-popovic-crtezi/drawings/autoportret-tri-svetilista.?itok=ttDAhvPu)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-crtezidrawings/zoran-popovic-13)
+[![Zoran Popović, Performance Axioms, SKC, Belgrade 1972](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-performansiperformances/zoran-popovic-aksiomi/axioms/zoran-popovic-aksiomi-kristina-stiles-moma.jpg?itok=AgVa1YYZ)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-performansiperformances/zoran-3)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/efekat-tito/sletovi-i-stafete/brigadiri-stafeta.jpg?itok=XeSUA2Vz)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/efekat-tito/sletovi-i-%C5%A1tafete)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/alex-chilton-foto.jpg?itok=5fmEpesq)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -454,6 +454,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Zabrana radova na Beogradskoj tvrđavi](http://seecult.org/vest/zabrana-radova-na-beogradskoj-tvrdavi)
 * [Mogućnost raja Mladena Kovačevića na 30. FAF-u](http://seecult.org/vest/mogucnost-raja-mladena-kovacevica-na-30-faf-u)
 * [Retrospektiva Jovana Kratohvila](http://seecult.org/vest/retrospektiva-jovana-kratohvila)
 * [28\. FKM – Mesto naše slodode](http://seecult.org/vest/28-fkm-mesto-nase-slodode)
@@ -463,7 +464,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Odloženi brojni događaji zbog žalosti](http://seecult.org/vest/odlozeni-brojni-dogadaji-zbog-zalosti)
 * [Legat Milana Mladenovića u NBS](http://seecult.org/vest/legat-milana-mladenovica-u-nbs)
 * [Automatski crtež](http://seecult.org/vest/automatski-crtez)
-* [Tragovima jugoslovenskih glumica: Željka Cvjetan-Gortinski](http://seecult.org/vest/tragovima-jugoslovenskih-glumica-zeljka-cvjetan-gortinski)
 
 * [Konkursi](#tab1_1)
 
