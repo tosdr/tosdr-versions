@@ -16,6 +16,18 @@
         
         Keep up-to-date with changes and improvements to Formspree. A weekly log of Formspree updates.](https://formspree.io/changelog)
     
+* Solutions
+    
+    * [JavaScript Forms
+        
+        Build dynamic forms with our JavaScript library](https://formspree.io/javascript)
+    * [HTML Forms
+        
+        Simple forms integration with just HTML.](https://formspree.io/html/)
+    * [Formbutton
+        
+        Easy popup forms for any website.](https://formspree.io/formbutton)
+    
 * [Blog](https://formspree.io/blog)
 * [Help](https://help.formspree.io/)
 
