@@ -113,8 +113,13 @@ MENUMENU
     * [Apple iPhone](https://www.vpnuk.net/setup/setup-iphone/)
     * [All Setup Guides](https://www.vpnuk.net/setup/)
 * [Order VPN Account](https://www.vpnuk.net/shop/)
+    * [Free Trial Account](https://www.vpnuk.net/product-category/free-trial/)
+    * [Dedicated IP Account](https://www.vpnuk.net/product/dedicated-ip-vpn-account/)
+    * [Shared IP Account](https://www.vpnuk.net/product/shared-ip-vpn-account/)
 * [Help & Support](https://www.vpnuk.net/contact-us/)
 * [Members Area](https://www.vpnuk.net/my-account/)
+    * [VPN Login Details](https://www.vpnuk.net/clientcp1/)
+    * [Manage Your Subscriptions](https://www.vpnuk.net/my-account/subscriptions/)
 
 [Home](https://www.vpnuk.net/ "VPNUK") » Terms of Service & Privacy Policy
 
