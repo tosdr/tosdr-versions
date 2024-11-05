@@ -122,7 +122,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Robert O'Neill 'Concubines' Post](https://knowyourmeme.com/memes/events/robert-j-oneill-concubines-twitter-post "Robert O'Neill 'Concubines' Post") [2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Donald Trump Microphone Video](https://knowyourmeme.com/memes/donald-trump-miming-sex-act-on-microphone "Donald Trump Microphone Video")
+[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Robert O'Neill 'Concubines' Post](https://knowyourmeme.com/memes/events/robert-j-oneill-concubines-twitter-post "Robert O'Neill 'Concubines' Post") [Donald Trump Microphone Video](https://knowyourmeme.com/memes/donald-trump-miming-sex-act-on-microphone "Donald Trump Microphone Video") [Today I Will Vote for a Third Party](https://knowyourmeme.com/memes/hmm-today-i-will-vote-for-a-third-party "Today I Will Vote for a Third Party") [Olivia Rodrigo's Space Question](https://knowyourmeme.com/memes/olivia-rodrigos-space-question "Olivia Rodrigo's Space Question")
 
 Terms of Service and Use
 ========================
@@ -263,7 +263,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hey! You must login or signup first!
+### Hello! You must login or signup first!
 
 |     |     |
 | --- | --- |
