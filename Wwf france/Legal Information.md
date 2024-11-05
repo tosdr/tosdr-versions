@@ -143,10 +143,10 @@ Partager cette page
 * [Politique de cookies](https://www.wwf.fr/politique-cookies)
 * [Gestion des cookies](#rgpd)
 
-66 % du montant de votre don au profit du WWF peut être déduit de votre impôt sur le revenu.  
-  
+* 66 % du montant de votre don au profit du WWF peut être déduit de votre impôt sur le revenu.
+* 75% peuvent être déduits de l’IFI (Impôt sur la Fortune Immobilière)
+
 Le Fonds Mondial pour la Nature France, dit WWF France est une Fondation reconnue d'utilité publique.  
-  
 Numéro d’enregistrement et SIREN : 302 518 667.
 
 * * *
