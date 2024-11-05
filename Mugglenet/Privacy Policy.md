@@ -244,20 +244,6 @@ MuggleNet Archive Select Month November 2024  (2) October 2024  (27) September
 
 ### November 2024
 
-#### Mon, Nov 4
-
-Binns tells class about the Chamber of Secrets
-
-Recurs yearly
-
-1992
-
-Harry Potter and the Philosopher's Stone movie (London premiere)
-
-Recurs yearly
-
-2001
-
 #### Tue, Nov 5
 
 Harry Potter and the Philosopher's Stone Deluxe Illustrated Edition (UK)
@@ -332,15 +318,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Demelza Robins, the Gryffindor Chaser in Harry Potter and the Half-Blood Prince, is named after Daniel Radcliffe’s favorite charity: the Demelza House Children’s Hospice, which cares for terminally ill youngsters in Kent, East Sussex, and South London.
+Jason Isaacs, who portrays Lucius Malfoy, believes that Lucius is cold to Draco because Lucius was raised in a similar way.
 
 ### Potter History
 
-February 13, 2011 – The Harry Potter film series is awarded a BAFTA for Outstanding British Contribution to Cinema.
+November 10, 2008 – Publishers Weekly reveals that Scholastic will print 3.5 million copies of The Tales of Beedle the Bard in the United States.
 
 ### Potter Quote
 
-“I am alive, but I am an alchemist, and therefore immortal.”
+“I think they think I’m a bit odd, you know. Some people call me ‘Loony’ Lovegood, actually.”
 
 [](#)
 
