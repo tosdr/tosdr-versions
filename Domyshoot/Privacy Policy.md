@@ -449,11 +449,11 @@ WORK TYPES
 
 RESOURCES
 
-[Blogs](https://www.domyshoot.com/blog)[Case Studies](https://www.domyshoot.com/customer-stories)[Tutorials](#)[FAQs](https://www.domyshoot.com/faq)[Book a Demo](https://www.domyshoot.com/book-demo)
+[Blogs](https://www.domyshoot.com/blog)[Case Studies](https://www.domyshoot.com/customer-stories)[Tutorials](https://www.domyshoot.com/tutorials)[FAQs](https://www.domyshoot.com/faq)[Book a Demo](https://www.domyshoot.com/book-demo)
 
 COMPANY
 
-[About Us](https://www.domyshoot.com/about-us)[Pricing](#)[Contact](https://www.domyshoot.com/contact)[Partners](https://www.domyshoot.com/partners)[Vendor Program](#)[Terms & Conditions](https://www.domyshoot.com/terms-of-use)[Privacy Policy](https://www.domyshoot.com/privacy-policy)
+[About Us](https://www.domyshoot.com/about-us)[Pricing](https://www.domyshoot.com/pricing)[Contact](https://www.domyshoot.com/contact)[Partners](https://www.domyshoot.com/partners)[Vendor Program](https://www.domyshoot.com/vendor-partner-program)[Terms & Conditions](https://www.domyshoot.com/terms-of-use)[Privacy Policy](https://www.domyshoot.com/privacy-policy)
 
 ![](https://cdn.prod.website-files.com/66e28da2135dc201d50ee880/66f8abed6904acf1030b8e61_dresma_logo2.png)[](#)
 
