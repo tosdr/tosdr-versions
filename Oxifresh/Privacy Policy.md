@@ -385,15 +385,15 @@ What Customers Are Saying
 
 Based on 302,829 Carpet Cleaning Services Reviews
 
-I feel it is a better way to clean my carpets. I've used your company for many years and this last time I got same day service, amazing a **EW.** - Maricopa, AZ - 11/03/2024
+Left my carpet very clean and the nap fluffy. It really did dry in less than a hour! Jordan was very thorough and pleasant to deal with. **RK.** - Marion, IN - 11/03/2024
 
 (5.0 Out of 5 stars)
 
-They do a great job of cleaning the carpet and carpet is usually dry in about an hour. Tyler is very professional and friendly! **DR.** - Evansville, IN - 11/03/2024
+**AC.** - Lewis Center, OH - 11/03/2024
 
 (5.0 Out of 5 stars)
 
-The service is effective, quick, gentle to the carpet, and appropriately priced. **LT.** - Parker, CO - 11/03/2024
+**LG.** - New City, NY - 11/02/2024
 
 (5.0 Out of 5 stars)
 
