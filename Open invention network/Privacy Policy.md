@@ -210,45 +210,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> We see incredible value in the Free and Open Source Software (FOSS) communities. Our work in collecting, preserving and making source code available to developers, academics and government entities, will enable developers to continue to innovate. We are very pleased for OIN’s sponsorship and its support in maintaining the technical and scientific knowledge that may be lost without preservation and may be further useful to developers from an intellectual property perspective.  
+> The OpenWrt developers believe that openness and collaboration across domains is the groundwork which nurtures Linux development. The new partnership with Open Invention Network will be one of the building blocks pushing OpenWrt forward and advance Linux innovation in general.  
 
-Robert DiCosmoFounder & CEOSoftware Heritage
+Gregers PetersenRelationship Manager and DeveloperOpenWrt
 
-> Open Invention Network is a unique organization. For 15 years, it has protected the Linux and open source community from patent aggression, while fostering a community that understands that value of shared technological development. It has been an honor to have worked with the OIN team, and fellow OIN Board members, to plan and implement the strategic initiatives that have provided protection for open source.  
+> Improving little by little every day is not just a slogan for Great Wall Motor. We believe in daily advances in our in-vehicle systems to improve our customers’ overall driving experience. Harnessing the benefits inherent in open source software to help do so completely aligns with our goals. By joining OIN, we are demonstrating our commitment to open source software, and supporting it with a pledge of patent non-aggression.  
 
-Tim KowalskiChairman of the BoardOpen Invention Network
+Xiaozu WangHead of Intellectual PropertyGreat Wall Motor Company Limited
 
-> Linux and open source are driving innovation in cloud and mobile computing, and emerging technologies such as the Internet of Things. These are developments that are very close to our hearts at Sage. We applaud the Open Invention Network’s efforts to promote openness and innovation for the benefit of the technical community and our wider society and would encourage our partners to support their work.  
+> We continuously look for ways to integrate the best technologies in our appliances, which helps to shape living for the better. It also helps us achieve our goal of continuous improvement in appliance sustainability. We are pleased to join the Open Invention Network and support its role in protecting open source software.
 
-Klaus-Michael VogelbergChief Technology OfficerSage
+ElectroluxFabio Albanese, Head of Engineering, Connected Electronics Platform
 
-> UnionPay focuses on Fintech innovation and is committed to building an open platform that provides integrated payment services with global influence. Under the frame of legal and regulatory compliance, we are pleased to provide service and conduct active cooperation. We look forward to working with OIN and community members to protect our global business and the open source projects that encourage innovation.  
+> Although TAIYO YUDEN does not directly incorporate open source software in our products, our customers do, and it is important for us to support open source initiatives that are critical to the continued success of our clients.  
 
-UnionPayIntellectual Property ManagerUnionPay
+Shigetoshi AkinoGeneral Manager, Intellectual Property DivisionTAIYO YUDEN
 
-> Open source technology enables new levels of innovation and helps to underpin our ongoing growth, as we fuse physical and digital technologies in cyber-physical systems. By joining OIN, we are demonstrating our commitment to contribute to open source technology and supporting it with patent non-aggression in Linux.  
+> With the Industrial Internet of Things (IIOT) reshaping what is possible in industrial settings — improving productivity, enhancing operational efficiency and increasing customer choice — we view Linux and other open source projects as key enablers in the IIOT. The success of the IIOT is predicated on the ability to connect and manage widely distributed sensors and devices across numerous vertical industries and compute the data effectively on an industrial scale.  
 
-Dr. Shiro SaitoExecutive Officer, Corporate EVP, General Executive for TechnologyToshiba
+Peter KohlschmidtCTOMoxa
 
-> Infosys is actively taking open source, and open source based products, to all our enterprise customers, and so we are extremely excited to become part of OIN, and we encourage others to join OIN as well to support this very important initiative.  
+> The Mercari Group’s systems are supported by a variety of open source software. As a beneficiary of the enormous contributions made by the open source software community, we believe making a contribution to innovation in the world by publishing technology accumulated through the development and operation of our services, such as Mercari and Merpay, as open source is the right choice. Hence, the Mercari Group endorses the activities of OIN which protects innovations with open source from patent… [Read more](https://openinventionnetwork.com/testimonial/mercari/ "Complete testimonial by Mercari")
 
-Navin BudhirajaSVP, Head of Architecture & TechnologyInfosys
+Mercari
 
-> We believe the protection OIN offers the open source community helps increase global contributions to and adoption of open source technologies. We are honored to stand with OIN as an active participant in its program to protect against patent aggression in core Linux and other important OSS technologies.  
+> More than 70% of D-Link’s networking and communication solutions have implemented open source software since the beginning phase of research and development. We have and will continue to advocate for OSS and patent non-aggression, and we look forward to making our contributions to the OIN community to encourage innovation.  
 
-Erich AndersenCorporate Vice President and Chief IP CounselMicrosoft
+Mark ChenPresidentD-Link
 
-> Open source technology, especially Linux, has led to profound increases in capabilities across a number of key industries, while increasing overall product and service efficiency. By joining Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux.  
+> Over its history, the automotive industry has undergone periods of significant innovation. We are now undergoing a fundamental shift in the way automotive platforms are used by consumers and businesses. Automotive Grade Linux and other OSS projects are helping the industry rapidly transform. By protecting them from patent risk, OIN has enabled automotive manufacturers to effectively integrate new kinds of software-based technologies into cars.  
 
-Hideki SanatakeExecutive Officer, Deputy Group Executive of Corporate Intellectual Properties & LegalCanon
+Yosuke IidaGeneral Manager - Intellectual Property DivisionToyota
 
-> OIN has created a safe space of innovation in a world which has become increasingly dependent on Linux and open source software technologies. Participation in the OIN community has enabled Microsoft to further enhance our partnerships with developers around the world.  
+> The OpenChain Project is part of a broad global community engaging with all aspects of intellectual property around open source.  
 
-Jennifer YokoyamaVP & Chief IP CounselMicrosoft
+Shane CoughlanProgram ManagerOpenChain Project
 
-> _Having OpenStack in the core of our product, FishOS,_  _we highly appreciate the value and importance of shared knowledge, experience, and technology of open source communities. Joining OIN emphasizes our commitment to developing and distributing open source technology. Thanks to expertise, software companies can mitigate the global patent risk to open source software like FishOS for all the market players – developers, vendors, customers, and end-users._
+> Linux Defenders is dedicated to protecting the Linux and the broader open-source community from poor-quality patents, through prior art activities and patent claim scope reduction.  
 
-Kenneth TanCEO, Sardina Systems
+Keith BergeltCEOOpen Invention Network
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
