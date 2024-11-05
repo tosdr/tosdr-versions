@@ -137,67 +137,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
+[![CyC Productions](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1635930-1730774545.png)](https://lyricstranslate.com/en/translator/cyc-productions "CyC Productions")
+
+New request
+
+[P'tit Belliveau - Demain](https://lyricstranslate.com/en/request/demain-10)
+
+English → Spanish
+
 [![fatix](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1590177-1721597011.png)](https://lyricstranslate.com/en/translator/fatix "fatix")
+
+Transcription request fulfilled
+
+[Stuff I Said (Dutch)](https://lyricstranslate.com/en/big-city-greens-movie-stuff-i-said-dutch-lyrics)
+
+Dutch
+
+[![fatix](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1590177-1721597011.png)](https://lyricstranslate.com/en/translator/fatix "fatix")
+
+New song
+
+[Big City Greens the Movie: Spacecation (OST) - Stuff I Said (Dutch)](https://lyricstranslate.com/en/big-city-greens-movie-stuff-i-said-dutch-lyrics)
+
+Dutch
+
+[![Joe Váradi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1567095-1679779584.jpg)](https://lyricstranslate.com/en/translator/joe-v%C3%A1radi "Joe Váradi")
+
+New song
+
+[Judit Ágnes Kiss - Isten anyja lehetni](https://lyricstranslate.com/en/judit-agnes-kiss-isten-anyja-lehetni-lyrics)
+
+Hungarian
+
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+
+New translation
+
+[Teddy Reno - Arrivederci, Roma](https://lyricstranslate.com/en/teddy-reno-arrivederci-roma-english-0)
+
+English → English
+
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+
+New translation
+
+[Teddy Reno - Arrivederci, Roma](https://lyricstranslate.com/en/teddy-reno-arrivederci-roma-italian)
+
+English → Italian
+
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+
+New song
+
+[Teddy Reno - Arrivederci](https://lyricstranslate.com/en/teddy-reno-arrivederci-lyrics)
+
+English
+
+[![pesnya](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1615167-1713696156.jpg)](https://lyricstranslate.com/en/translator/pesnya "pesnya")
 
 New comment
 
-the lyrics are updated as a result of my request ...  [more](https://lyricstranslate.com/en/comment/1173857#comment-1173857)
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
-
-New translation
-
-[Alberto Rabagliati - Lascia cantare il cuore](https://lyricstranslate.com/en/alberto-rabagliati-lascia-cantare-il-cuore-spanish)
-
-Italian → Spanish
-
-[![Matthew Bofenkamp](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1275342-1660789961.png)](https://lyricstranslate.com/en/translator/matthew-bofenkamp "Matthew Bofenkamp")
-
-New song
-
-[Stacy Kamatu - Coka Mucie](https://lyricstranslate.com/en/stacy-kamatu-coka-mucie-lyrics)
-
-English
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
-
-New translation
-
-[Alberto Rabagliati - Lascia cantare il cuore](https://lyricstranslate.com/en/alberto-rabagliati-lascia-cantare-il-cuore-english)
-
-Italian → English
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
-
-New song
-
-[Alberto Rabagliati - Lascia cantare il cuore](https://lyricstranslate.com/en/alberto-rabagliati-lascia-cantare-il-cuore-lyrics)
-
-Italian
-
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New song
-
-[Karin Park - Shine](https://lyricstranslate.com/en/karin-park-shine-lyrics)
-
-English
-
-[![floraamy](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/floraamy "floraamy")
-
-New translation
-
-[BABYMONSTER - CLIK CLAK](https://lyricstranslate.com/en/babymonster-clik-clak-turkish-0)
-
-English → Turkish
-
-[![floraamy](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/floraamy "floraamy")
-
-New translation
-
-[Rosé - APT.](https://lyricstranslate.com/en/rose-apt-turkish-3)
-
-English → Turkish
+i was not sure either, but it made a sense to me ...  [more](https://lyricstranslate.com/en/comment/1174399#comment-1174399)
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
