@@ -4,15 +4,15 @@ Search
 
 * backDownloads
     
-    * [### Download Liberica Native Image Kit
-        
-        A perfect tool for turning applications into native images](https://bell-sw.com/pages/downloads/native-image-kit/)
-    * [### Download Liberica JDK
-        
-        Download the performant and secure runtime](https://bell-sw.com/pages/downloads/)
     * [### Download Alpaquita Linux
         
         A Linux OS fine-tuned for Java apps](https://bell-sw.com/pages/downloads/alpaquita/)
+    * [### Download Liberica JDK
+        
+        Download the performant and secure runtime](https://bell-sw.com/pages/downloads/)
+    * [### Download Liberica Native Image Kit
+        
+        A perfect tool for turning applications into native images](https://bell-sw.com/pages/downloads/native-image-kit/)
     
 * backProducts
     
