@@ -713,7 +713,7 @@ Folgen Sie uns
 Kontakt
 -------
 
-### Servicehotline:
+**Servicehotline:**
 
 Sie haben Fragen? Rufen Sie uns an!
 
@@ -725,7 +725,7 @@ Mo. - Fr.: 09:00 - 16:30 Uhr
 
 oder kundenservice@talk-point.de
 
-### Ladengeschäft:
+**Ladengeschäft:**
 
 Komm doch einfach mal vorbei:
 
