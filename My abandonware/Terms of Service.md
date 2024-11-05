@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
-* [Soccer Champion](https://www.myabandonware.com/game/soccer-champion-t6y)
-* [Eagle Plan](https://www.myabandonware.com/game/eagle-plan-t6x)
-* [Scaffolder](https://www.myabandonware.com/game/scaffolder-t6w)
-* [Dream World](https://www.myabandonware.com/game/dream-world-t6v)
-* [Delta Hero](https://www.myabandonware.com/game/delta-hero-t6u)
+* [Hero Hawk](https://www.myabandonware.com/game/hero-hawk-t7d)
+* [Hash Blocks](https://www.myabandonware.com/game/hash-blocks-t7c)
+* [Super Pang](https://www.myabandonware.com/game/super-pang-t7b)
+* [Happy Race](https://www.myabandonware.com/game/happy-race-t7a)
+* [Happy Pairs](https://www.myabandonware.com/game/happy-pairs-t79)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
