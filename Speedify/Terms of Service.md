@@ -145,9 +145,9 @@ Nov 13
 
 #### Popular Posts
 
+* [\[VIDEO\] How to Fix It when WhatsApp Calls Are Not Working](https://speedify.com/blog/fix-whatsapp-calls-not-working/)
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
 * [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
-* [\[VIDEO\] How to Fix It when WhatsApp Calls Are Not Working](https://speedify.com/blog/fix-whatsapp-calls-not-working/)
 
 ### Bonding Apps
 
