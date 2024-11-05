@@ -112,11 +112,12 @@ Support
 
 Bensound’s [Royalty Free Music](https://www.bensound.com/royalty-free-music "Bensound’s Royalty Free Music") \- Copyright © 2012-2024
 
-Cookies Preferences
+Yes, we use cookies !
 
-We use cookies for analytics, and to offer you a better browsing experience.
+We use cookies to improve your experience, measure our audience, and optimize our marketing campaigns.  
+You can accept all cookies or manage your preferences in settings.
 
-Manage OK
+Settings Accept
 
 Cookies Preferences
 
@@ -124,15 +125,10 @@ When visiting our website, we load cookies into your computer. These « Cookies 
 
 Cookies we are using :
 
-* \- Cookies essential to the proper functioning of our website :
+* Cookies essential to the proper functioning of our website: These cookies are always active.
+* Optional cookies :
     
-    These cookies are always active.
-    
-* \- Optional cookies :
-    
-     Website Performance Insights
-    
-    Website Performance Insights
+     Website Performance Insights Website Performance Insights
     
 
 Reject Optional Cookies Save Accept Cookies
