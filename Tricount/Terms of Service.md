@@ -3,7 +3,7 @@ Terms of Use
 
 [![](https://framerusercontent.com/images/yfHppRSMMm5Ph44mPfACixMWP3s.svg)](https://www.tricount.com/)
 
-[Get started](https://www.tricount.com/discover)
+Get started
 
 [![](https://framerusercontent.com/images/yfHppRSMMm5Ph44mPfACixMWP3s.svg)](https://www.tricount.com/)
 
