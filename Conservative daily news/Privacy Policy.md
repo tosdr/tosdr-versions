@@ -1,15 +1,15 @@
-Monday, November 4 2024
+Tuesday, November 5 2024
 
 Breaking News
 
+* [Inflation Hits Presidential Campaign, Kamala’s Cost $1.2 Billion](https://www.conservativedailynews.com/2024/11/inflation-hits-presidential-campaign-kamalas-cost-1-2-billion/)
+* [Tuesday’s election will be a referendum on American capitalism](https://www.conservativedailynews.com/2024/11/tuesdays-election-will-be-a-referendum-on-american-capitalism/)
 * [Melania Trump — Just What The Country Needs](https://www.conservativedailynews.com/2024/11/melania-trump-just-what-the-country-needs/)
 * [Biden-Harris Policies Left American Workers In The Lurch](https://www.conservativedailynews.com/2024/11/biden-harris-policies-left-american-workers-in-the-lurch/)
 * [Final 2024 NY Times/Siena College Polls Shows Contradictions, Surprising Shifts In Key States](https://www.conservativedailynews.com/2024/11/final-2024-ny-times-siena-college-polls-shows-contradictions-surprising-shifts-in-key-states/)
 * [Voter Says He Cast Ballot For Harris As He Fears Her Supporters Would Go Nuts If She Loses](https://www.conservativedailynews.com/2024/11/voter-says-he-cast-ballot-for-harris-as-he-fears-her-supporters-would-go-nuts-if-she-loses/)
 * [Washington Gears Up To Vote On Policies Blamed For High Gas Prices In US](https://www.conservativedailynews.com/2024/11/washington-gears-up-to-vote-on-policies-blamed-for-high-gas-prices-in-us/)
 * [American Adversaries Pull Out The Stops To Derail Trump’s White House Bid](https://www.conservativedailynews.com/2024/11/american-adversaries-pull-out-the-stops-to-derail-trumps-white-house-bid/)
-* [Nevada Reporter Tells MSNBC Republicans’ Statewide Lead In Early Voting ‘Has Caused A Lot Of Concern For Democrats’](https://www.conservativedailynews.com/2024/11/nevada-reporter-tells-msnbc-republicans-statewide-lead-in-early-voting-has-caused-a-lot-of-concern-for-democrats/)
-* [Here’s What Experts Expect — And Hope — To See From Trump’s Government Efficiency Agency](https://www.conservativedailynews.com/2024/11/heres-what-experts-expect-and-hope-to-see-from-trumps-government-efficiency-agency/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -131,6 +131,24 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5741-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/inflation-hits-presidential-campaign-kamalas-cost-1-2-billion/)
+    
+    [Inflation Hits Presidential Campaign, Kamala’s Cost $1.2 Billion](https://www.conservativedailynews.com/2024/11/inflation-hits-presidential-campaign-kamalas-cost-1-2-billion/)
+    
+    November 4, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/kamala-220x150.webp)](https://www.conservativedailynews.com/2024/11/tuesdays-election-will-be-a-referendum-on-american-capitalism/)
+    
+    [Tuesday’s election will be a referendum on American capitalism](https://www.conservativedailynews.com/2024/11/tuesdays-election-will-be-a-referendum-on-american-capitalism/)
+    
+    November 4, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv110424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/thats-worse/)
+    
+    [That’s Worse](https://www.conservativedailynews.com/2024/11/thats-worse/)
+    
+    November 4, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2020/07/Melania-Trump-roundtable-2.jpg)](https://www.conservativedailynews.com/2024/11/melania-trump-just-what-the-country-needs/)
     
     [Melania Trump — Just What The Country Needs](https://www.conservativedailynews.com/2024/11/melania-trump-just-what-the-country-needs/)
@@ -161,27 +179,12 @@ Recent Posts
     
     November 4, 2024
     
-* [![China Russia Iran Hamas](https://www.conservativedailynews.com/wp-content/uploads/2023/10/image-36-220x150.png)](https://www.conservativedailynews.com/2024/11/american-adversaries-pull-out-the-stops-to-derail-trumps-white-house-bid/)
-    
-    [American Adversaries Pull Out The Stops To Derail Trump’s White House Bid](https://www.conservativedailynews.com/2024/11/american-adversaries-pull-out-the-stops-to-derail-trumps-white-house-bid/)
-    
-    November 4, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/11/Counting-ballots-220x150.jpg)](https://www.conservativedailynews.com/2024/11/nevada-reporter-tells-msnbc-republicans-statewide-lead-in-early-voting-has-caused-a-lot-of-concern-for-democrats/)
-    
-    [Nevada Reporter Tells MSNBC Republicans’ Statewide Lead In Early Voting ‘Has Caused A Lot Of Concern For Democrats’](https://www.conservativedailynews.com/2024/11/nevada-reporter-tells-msnbc-republicans-statewide-lead-in-early-voting-has-caused-a-lot-of-concern-for-democrats/)
-    
-    November 4, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Donald-Trump-sign-executive-order-Air-Force-One.png)](https://www.conservativedailynews.com/2024/11/heres-what-experts-expect-and-hope-to-see-from-trumps-government-efficiency-agency/)
-    
-    [Here’s What Experts Expect — And Hope — To See From Trump’s Government Efficiency Agency](https://www.conservativedailynews.com/2024/11/heres-what-experts-expect-and-hope-to-see-from-trumps-government-efficiency-agency/)
-    
-    November 4, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Ten Weird Guns You Can Buy Today](https://www.thegunpage.com/ten-weird-guns-you-can-buy-today/10611663)
+* [POTD: Noveske Rifleworks 6mm ARC Batwing](https://www.thegunpage.com/potd-noveske-rifleworks-6mm-arc-batwing/10611664)
+* [The Rimfire Report: An (Almost) 100% Aftermarket 10/22](https://www.thegunpage.com/the-rimfire-report-an-almost-100-aftermarket-10-22/10611665)
 * [Decision 2024: The Choice is Clear, Gun Owners Must Oppose Kamala Harris and Her Extreme Anti-Gun Agenda](https://www.thegunpage.com/decision-2024-the-choice-is-clear-gun-owners-must-oppose-kamala-harris-and-her-extreme-anti-gun-agenda/10611660)
 * [Why Gun Owners Can’t Sit Out This Election](https://www.thegunpage.com/why-gun-owners-cant-sit-out-this-election/10611657)
 * [NordArm Introduces Their GEN 3 Blank Firing Adapter for M2 Browning](https://www.thegunpage.com/nordarm-introduces-their-gen-3-blank-firing-adapter-for-m2-browning/10611655)
@@ -189,9 +192,6 @@ Recent Posts
 * [Heritage Badlander Field Models, For Old-School Hunting](https://www.thegunpage.com/heritage-badlander-field-models-for-old-school-hunting/10611656)
 * [9mm Vs. 10mm: Self-Defense Battle In New Hampshire Parking Lot](https://www.thegunpage.com/9mm-vs-10mm-self-defense-battle-in-new-hampshire-parking-lot/10611650)
 * [Top FIVE 3D Printed Guns ft. Print Shoot Repeat!](https://www.thegunpage.com/top-five-3d-printed-guns-ft-print-shoot-repeat/10611646)
-* [Ohio City Drops Park Gun Ban Thanks To Alert Citizen](https://www.thegunpage.com/ohio-city-drops-park-gun-ban-thanks-to-alert-citizen/10611644)
-* [Silencer Central, Guns.com Join Forces For Suppressor Fulfillment](https://www.thegunpage.com/silencer-central-guns-com-join-forces-for-suppressor-fulfillment/10611654)
-* [TFB Weekly Web Deals 112: Deals for November 4th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-112-deals-for-november-4th-2024/10611647)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
