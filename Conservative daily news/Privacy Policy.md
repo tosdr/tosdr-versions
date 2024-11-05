@@ -2,14 +2,14 @@ Tuesday, November 5 2024
 
 Breaking News
 
+* [Joe Rogan Endorses Trump On Election Eve](https://www.conservativedailynews.com/2024/11/joe-rogan-endorses-trump-on-election-eve/)
+* [CNN’s John King Breaks Down Candidates’ ‘Easiest’ Paths To Victory On Election Day](https://www.conservativedailynews.com/2024/11/cnns-john-king-breaks-down-candidates-easiest-paths-to-victory-on-election-day/)
+* [Megyn Kelly’s Powerful Trump Endorsement](https://www.conservativedailynews.com/2024/11/megyn-kellys-powerful-trump-endorsement/)
+* [President Joe Biden’s Schedule for Tuesday, November 5, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-tuesday-november-5-2024/)
+* [Americans Might Kick Slew Of Soft-On-Crime Prosecutors To The Curb On Election Day](https://www.conservativedailynews.com/2024/11/americans-might-kick-slew-of-soft-on-crime-prosecutors-to-the-curb-on-election-day/)
+* [And Without Firing a Single Shot, America’s Infidels Are Now Atheists](https://www.conservativedailynews.com/2024/11/and-without-firing-a-single-shot-americas-infidels-are-now-atheists/)
 * [Inflation Hits Presidential Campaign, Kamala’s Cost $1.2 Billion](https://www.conservativedailynews.com/2024/11/inflation-hits-presidential-campaign-kamalas-cost-1-2-billion/)
 * [Tuesday’s election will be a referendum on American capitalism](https://www.conservativedailynews.com/2024/11/tuesdays-election-will-be-a-referendum-on-american-capitalism/)
-* [Melania Trump — Just What The Country Needs](https://www.conservativedailynews.com/2024/11/melania-trump-just-what-the-country-needs/)
-* [Biden-Harris Policies Left American Workers In The Lurch](https://www.conservativedailynews.com/2024/11/biden-harris-policies-left-american-workers-in-the-lurch/)
-* [Final 2024 NY Times/Siena College Polls Shows Contradictions, Surprising Shifts In Key States](https://www.conservativedailynews.com/2024/11/final-2024-ny-times-siena-college-polls-shows-contradictions-surprising-shifts-in-key-states/)
-* [Voter Says He Cast Ballot For Harris As He Fears Her Supporters Would Go Nuts If She Loses](https://www.conservativedailynews.com/2024/11/voter-says-he-cast-ballot-for-harris-as-he-fears-her-supporters-would-go-nuts-if-she-loses/)
-* [Washington Gears Up To Vote On Policies Blamed For High Gas Prices In US](https://www.conservativedailynews.com/2024/11/washington-gears-up-to-vote-on-policies-blamed-for-high-gas-prices-in-us/)
-* [American Adversaries Pull Out The Stops To Derail Trump’s White House Bid](https://www.conservativedailynews.com/2024/11/american-adversaries-pull-out-the-stops-to-derail-trumps-white-house-bid/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -116,82 +116,82 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/10/Joe-Rogan-220x150.png)](https://www.conservativedailynews.com/2024/11/joe-rogan-endorses-trump-on-election-eve/)
+    
+    [Joe Rogan Endorses Trump On Election Eve](https://www.conservativedailynews.com/2024/11/joe-rogan-endorses-trump-on-election-eve/)
+    
+    November 5, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-220x150.jpg)](https://www.conservativedailynews.com/2024/11/final-2024-ny-times-siena-college-polls-shows-contradictions-surprising-shifts-in-key-states/)
     
     [Final 2024 NY Times/Siena College Polls Shows Contradictions, Surprising Shifts In Key States](https://www.conservativedailynews.com/2024/11/final-2024-ny-times-siena-college-polls-shows-contradictions-surprising-shifts-in-key-states/)
     
     November 4, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5735-220x150.png)](https://www.conservativedailynews.com/2024/11/sorry-joe-rogan-i-have-to-do-saturday-night-live/)
-    
-    [Sorry, Joe Rogan. I Have To Do Saturday Night Live](https://www.conservativedailynews.com/2024/11/sorry-joe-rogan-i-have-to-do-saturday-night-live/)
-    
-    November 4, 2024
-    
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/10/Joe-Rogan-220x150.png)](https://www.conservativedailynews.com/2024/11/joe-rogan-endorses-trump-on-election-eve/)
+    
+    [Joe Rogan Endorses Trump On Election Eve](https://www.conservativedailynews.com/2024/11/joe-rogan-endorses-trump-on-election-eve/)
+    
+    November 5, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-220x150.jpg)](https://www.conservativedailynews.com/2024/11/cnns-john-king-breaks-down-candidates-easiest-paths-to-victory-on-election-day/)
+    
+    [CNN’s John King Breaks Down Candidates’ ‘Easiest’ Paths To Victory On Election Day](https://www.conservativedailynews.com/2024/11/cnns-john-king-breaks-down-candidates-easiest-paths-to-victory-on-election-day/)
+    
+    November 5, 2024
+    
+* [![Megyn Kelly](https://www.conservativedailynews.com/wp-content/uploads/2018/06/Megyn-Kelly.jpg)](https://www.conservativedailynews.com/2024/11/megyn-kellys-powerful-trump-endorsement/)
+    
+    [Megyn Kelly’s Powerful Trump Endorsement](https://www.conservativedailynews.com/2024/11/megyn-kellys-powerful-trump-endorsement/)
+    
+    November 5, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/01-famrisk-dt-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/11/families-at-risk/)
+    
+    [Families At Risk](https://www.conservativedailynews.com/2024/11/families-at-risk/)
+    
+    November 5, 2024
+    
+* [![Biden Sleeping who running the country](https://www.conservativedailynews.com/wp-content/uploads/2024/08/06-runnincoun-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-tuesday-november-5-2024/)
+    
+    [President Joe Biden’s Schedule for Tuesday, November 5, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-tuesday-november-5-2024/)
+    
+    November 5, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/Dennis-Prager-220x150.jpg)](https://www.conservativedailynews.com/2024/11/calling-trump-hitler-has-done-permanent-damage-to-the-moral-realm/)
+    
+    [Calling Trump ‘Hitler’ Has Done Permanent Damage to the Moral Realm](https://www.conservativedailynews.com/2024/11/calling-trump-hitler-has-done-permanent-damage-to-the-moral-realm/)
+    
+    November 5, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/09/trump-thumbs-up-rally-toledo-ohio-2020-getty-640x480-1.jpg)](https://www.conservativedailynews.com/2024/11/americans-might-kick-slew-of-soft-on-crime-prosecutors-to-the-curb-on-election-day/)
+    
+    [Americans Might Kick Slew Of Soft-On-Crime Prosecutors To The Curb On Election Day](https://www.conservativedailynews.com/2024/11/americans-might-kick-slew-of-soft-on-crime-prosecutors-to-the-curb-on-election-day/)
+    
+    November 5, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz110524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/hipocrites/)
     
     [Hipocrites](https://www.conservativedailynews.com/2024/11/hipocrites/)
     
     November 5, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg110524dAPR-1-220x150.jpg)](https://www.conservativedailynews.com/2024/11/fingers-crossed/)
-    
-    [Fingers Crossed](https://www.conservativedailynews.com/2024/11/fingers-crossed/)
-    
-    November 5, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/Grocery-Stores-empty-closed-220x150.jpg)](https://www.conservativedailynews.com/2024/11/home-prep-guide-what-you-need-to-last-2-weeks-in-an-emergency/)
-    
-    [Home Prep Guide: What You Need to Last 2 Weeks in an Emergency](https://www.conservativedailynews.com/2024/11/home-prep-guide-what-you-need-to-last-2-weeks-in-an-emergency/)
-    
-    November 5, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5741-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/inflation-hits-presidential-campaign-kamalas-cost-1-2-billion/)
-    
-    [Inflation Hits Presidential Campaign, Kamala’s Cost $1.2 Billion](https://www.conservativedailynews.com/2024/11/inflation-hits-presidential-campaign-kamalas-cost-1-2-billion/)
-    
-    November 4, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/kamala-220x150.webp)](https://www.conservativedailynews.com/2024/11/tuesdays-election-will-be-a-referendum-on-american-capitalism/)
-    
-    [Tuesday’s election will be a referendum on American capitalism](https://www.conservativedailynews.com/2024/11/tuesdays-election-will-be-a-referendum-on-american-capitalism/)
-    
-    November 4, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv110424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/thats-worse/)
-    
-    [That’s Worse](https://www.conservativedailynews.com/2024/11/thats-worse/)
-    
-    November 4, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/07/Melania-Trump-roundtable-2.jpg)](https://www.conservativedailynews.com/2024/11/melania-trump-just-what-the-country-needs/)
-    
-    [Melania Trump — Just What The Country Needs](https://www.conservativedailynews.com/2024/11/melania-trump-just-what-the-country-needs/)
-    
-    November 4, 2024
-    
-* [![Joe Biden job creation inflation recession economy Bidenomics](https://www.conservativedailynews.com/wp-content/uploads/2022/08/gv080822dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/biden-harris-policies-left-american-workers-in-the-lurch/)
-    
-    [Biden-Harris Policies Left American Workers In The Lurch](https://www.conservativedailynews.com/2024/11/biden-harris-policies-left-american-workers-in-the-lurch/)
-    
-    November 4, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Charges Dropped Against Georgia Gun Owner Over Illegal Storage Ordinance](https://www.thegunpage.com/charges-dropped-against-georgia-gun-owner-over-illegal-storage-ordinance/10611676)
+* [Biden-Harris Action Seeks to Close Shooting Access on 1.3 Million Acres of Public Land in Utah](https://www.thegunpage.com/biden-harris-action-seeks-to-close-shooting-access-on-1-3-million-acres-of-public-land-in-utah/10611673)
+* [Walther Arms Announces New Promo Deals](https://www.thegunpage.com/walther-arms-announces-new-promo-deals/10611678)
+* [Gun Owners, Remember to Vote Today](https://www.thegunpage.com/gun-owners-remember-to-vote-today/10611669)
 * [Harris appears confused about how to actually become president](https://www.thegunpage.com/harris-appears-confused-about-how-to-actually-become-president/10611667)
+* [Hillsdale College ‘Citizenship And Shooting’ Event Celebrates USA Shooting Olympians, Importance Of Second Amendment In The Constitution](https://www.thegunpage.com/hillsdale-college-citizenship-and-shooting-event-celebrates-usa-shooting-olympians-importance-of-second-amendment-in-the-constitution/10611675)
 * [Tandemkross Unveils New 10/22 Barrel Concept](https://www.thegunpage.com/tandemkross-unveils-new-10-22-barrel-concept/10611666)
 * [Ten Weird Guns You Can Buy Today](https://www.thegunpage.com/ten-weird-guns-you-can-buy-today/10611663)
 * [POTD: Noveske Rifleworks 6mm ARC Batwing](https://www.thegunpage.com/potd-noveske-rifleworks-6mm-arc-batwing/10611664)
 * [The Rimfire Report: An (Almost) 100% Aftermarket 10/22](https://www.thegunpage.com/the-rimfire-report-an-almost-100-aftermarket-10-22/10611665)
-* [Decision 2024: The Choice is Clear, Gun Owners Must Oppose Kamala Harris and Her Extreme Anti-Gun Agenda](https://www.thegunpage.com/decision-2024-the-choice-is-clear-gun-owners-must-oppose-kamala-harris-and-her-extreme-anti-gun-agenda/10611660)
-* [Why Gun Owners Can’t Sit Out This Election](https://www.thegunpage.com/why-gun-owners-cant-sit-out-this-election/10611657)
-* [NordArm Introduces Their GEN 3 Blank Firing Adapter for M2 Browning](https://www.thegunpage.com/nordarm-introduces-their-gen-3-blank-firing-adapter-for-m2-browning/10611655)
-* [The Banish Backcountry Suppressor Review](https://www.thegunpage.com/the-banish-backcountry-suppressor-review/10611653)
-* [Heritage Badlander Field Models, For Old-School Hunting](https://www.thegunpage.com/heritage-badlander-field-models-for-old-school-hunting/10611656)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
