@@ -89,11 +89,11 @@ Most Read
     
 2. 2. [Laptop, smartphone, and game console prices could soar after the election](https://arstechnica.com/tech-policy/2024/11/laptop-smartphone-and-game-console-prices-could-soar-after-the-election/)
     
-3. 3. [Endangered bees stop Meta’s plan for nuclear-powered AI data center](https://arstechnica.com/ai/2024/11/endangered-bees-stop-metas-plan-for-nuclear-powered-ai-data-center/)
+3. 3. [Drugmaker shut down after black schmutz found in injectable weight-loss drug](https://arstechnica.com/health/2024/11/drugmaker-shut-down-after-black-schmutz-found-in-injectable-weight-loss-drug/)
     
-4. 4. [iPod fans evade Apple’s DRM to preserve 54 lost clickwheel-era games](https://arstechnica.com/gaming/2024/11/ipod-fans-evade-apples-drm-to-preserve-54-lost-clickwheel-era-games/)
+4. 4. [Endangered bees stop Meta’s plan for nuclear-powered AI data center](https://arstechnica.com/ai/2024/11/endangered-bees-stop-metas-plan-for-nuclear-powered-ai-data-center/)
     
-5. 5. [Sick of supersized EVs? The 2025 Hyundai Kona Electric hits the spot.](https://arstechnica.com/cars/2024/11/sick-of-supersized-evs-the-2025-hyundai-kona-electric-hits-the-spot/)
+5. 5. [Guy makes “dodgy e-bike” from 130 used vapes to make point about e-waste](https://arstechnica.com/gadgets/2024/11/disposable-vapes-from-a-music-festival-can-power-a-beefy-e-bike-20-miles/)
     
 
 Customize
