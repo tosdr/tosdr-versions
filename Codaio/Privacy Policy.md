@@ -80,7 +80,7 @@ FEATURED](https://coda.io/resources/webinars)
 
 Connect
 
-[Help center](https://help.coda.io/)[Coda community](https://community.coda.io/)[Hire an expert](https://coda.io/partners/hire-an-expert)[Partner with us](https://coda.io/partners)
+[Help center](https://help.coda.io/)[Coda community](https://community.coda.io/)[Hire a services partner](https://coda.io/partners/hire-a-services-partner)[Partner with us](https://coda.io/partners)
 
 Extend
 
@@ -642,7 +642,7 @@ Copyright © 2024 Coda. All rights reserved.[Privacy](https://coda.io/trust/priv
 Want to print your doc?  
 This is not the way.
 
-![](https://cdn.coda.io/assets/285a2b2d651c/img/import_google_docs.png)
+![](https://cdn.coda.io/assets/5f1688d318c0/img/import_google_docs.png)
 
 Try clicking the ⋯ next to your doc name or using a keyboard shortcut (
 
