@@ -205,26 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Soccer Mystery!](https://www.somethingawful.com/photoshop-phriday/hadji-diouf-gif/1/)
-* [SWARMS OF DOGS](https://www.somethingawful.com/news/dog-classifieds6/)
-* [Celebrity Zoo!](https://www.somethingawful.com/photoshop-phriday/celebrity-zoo/1/)
-* [Baby Bibs](https://www.somethingawful.com/photoshop-phriday/baby-bibs/1/)
-* [The Grim Darkness of Warhammer Fantasy Roleplay Art](https://www.somethingawful.com/dungeons-and-dragons/mordheim-warhammer-art/1/)
+* [Lets Ruin Emotional Movie Moments!](https://www.somethingawful.com/photoshop-phriday/ruin-emotional-movies/1/)
+* [Honest Reviews of Scotch Whisky](https://www.somethingawful.com/news/whisky-reviews-gross/1/)
+* [The 2007 Holiday Skymall Strategy Guide, Part 5](https://www.somethingawful.com/guides/skymall-guide-part5/1/)
+* [Classic Literature: Modernized!](https://www.somethingawful.com/comedy-goldmine/modern-literary-works/)
+* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/LF-article.gif) [STOOP KID'S AFRAID TO LEAVE HIS STOOP](http://forums.somethingawful.com/showthread.php?threadid=4074324 "STOOP KID'S AFRAID TO LEAVE HIS STOOP")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [The Mysterious Song On The Internet Has Been Found](http://forums.somethingawful.com/showthread.php?threadid=4074325 "The Mysterious Song On The Internet Has Been Found")
-* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Post ITT if you didn't update the SA app and you're on ios](http://forums.somethingawful.com/showthread.php?threadid=4074311 "Post ITT if you didn't update the SA app and you're on ios")
 * ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [What's a stereotypical "old person" thing that you do now?](http://forums.somethingawful.com/showthread.php?threadid=4074307 "What's a stereotypical "old person" thing that you do now?")
+* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Post ITT if you didn't update the SA app and you're on ios](http://forums.somethingawful.com/showthread.php?threadid=4074311 "Post ITT if you didn't update the SA app and you're on ios")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [The Mysterious Song On The Internet Has Been Found](http://forums.somethingawful.com/showthread.php?threadid=4074325 "The Mysterious Song On The Internet Has Been Found")
 
 ### Random Articles
 
-* [Muchas Gracias Debbie](https://www.somethingawful.com/awful-links/awful-link-4150/)
-* [BArt Simson thred](https://www.somethingawful.com/comedy-goldmine/bart-simson-thred/1/)
-* [To My Friend Who Is Leaving the Country](https://www.somethingawful.com/news/friend-leaving-country/1/)
-* [Big Sausage Pizza](https://www.somethingawful.com/awful-links/awful-link-2493/)
-* [List of Villians in Codename: Kids Next Door](https://www.somethingawful.com/awful-links/kids-next-door/)
+* [For Male Gamers Only](https://www.somethingawful.com/feature-articles/male-gamers-only/1/)
+* [Swap grandparents and babies heads!](https://www.somethingawful.com/comedy-goldmine/swap-grandparents-babies/1/)
+* [Klingon Gallery](https://www.somethingawful.com/awful-links/awful-link-1535/)
+* [Daily Dirt BLAMMY](https://www.somethingawful.com/daily-dirt/daily-dirt-blammy/)
+* [Ask Emily!](https://www.somethingawful.com/feature-articles/ask-emily/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
