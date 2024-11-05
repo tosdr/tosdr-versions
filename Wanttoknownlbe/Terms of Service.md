@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/9-11/911-wtc-gebouwen-waren-controlled-demolition/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/het-verschijnsel-meervoudige-chaotische-knooppunten/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
@@ -183,6 +183,30 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![GuidoJ.](https://secure.gravatar.com/avatar/379ae4ab61453c2ebafbbe75126acc17?s=50&d=identicon&r=g)
+
+##### **GuidoJ.** reacts on:
+
+##### Darmkanker verdwenen door.. Cannabisolie..!
+
+[Je kunt hem een mail sturen toch?…](https://www.wanttoknow.nl/gezondheid/darmkanker-verdwenen-door-cannabisolie/comment-page-2/#comment-626356)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### Fleur Agema moet/wil KLEUR BEKENNEN…!!
+
+[Zowat alles draait rondom Oekraïne waar Rutte zijn poten voo…](https://www.wanttoknow.nl/overige/fleur-agema-moet-wil-kleur-bekennen/comment-page-1/#comment-626355)
+
+![Relahmed](https://secure.gravatar.com/avatar/951fb6da99062a964593d328f1ba9ebe?s=50&d=identicon&r=g)
+
+##### **Relahmed** reacts on:
+
+##### Darmkanker verdwenen door.. Cannabisolie..!
+
+[Hallo, ben je nog actief op deze website?…](https://www.wanttoknow.nl/gezondheid/darmkanker-verdwenen-door-cannabisolie/comment-page-2/#comment-626354)
 
 ![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
 
@@ -415,30 +439,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Kijk: de Pfizer-C-spuit in mRNA- én een FAKE-variant..!!
 
 [Nou, dikke piemel ik dus ook niet. Want ik heb gewacht tot o…](https://www.wanttoknow.nl/gezondheid/corona-kwestie/kijk-de-pfizer-c-spuit-in-mrna-en-een-fake-variant/comment-page-1/#comment-626325)
-
-![Ron](https://secure.gravatar.com/avatar/1b04eec12e302b86452b78c026422be2?s=50&d=identicon&r=g)
-
-##### **Ron** reacts on:
-
-##### Kijk: de Pfizer-C-spuit in mRNA- én een FAKE-variant..!!
-
-[Ik kan zeggen hooggeplaatste mensen in de samenleving en het…](https://www.wanttoknow.nl/gezondheid/corona-kwestie/kijk-de-pfizer-c-spuit-in-mrna-en-een-fake-variant/comment-page-1/#comment-626324)
-
-![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
-
-##### **arnold2** reacts on:
-
-##### Het kwaad van de wereld..!
-
-[Harriet Algra. Harriet wanneer u gelijk heeft dat de cabal s…](https://www.wanttoknow.nl/geschiedenis/geloof-religie/het-kwaad-van-de-wereld/comment-page-1/#comment-626323)
-
-![Republikein](https://secure.gravatar.com/avatar/395018877d25c29ed8c4b9d99816de9f?s=50&d=identicon&r=g)
-
-##### **Republikein** reacts on:
-
-##### Wat is tijd..??
-
-[Indien interesse, lees de artikelen van Alfred Webre . https…](https://www.wanttoknow.nl/inspiratie/wat-is-tijd/comment-page-1/#comment-626322)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
