@@ -118,6 +118,12 @@
     
     [OpenWRT SDK](https://github.com/gl-inet/sdk/) [Security Updates](https://www.gl-inet.com/security-updates/) [PSTI Statement](https://www.gl-inet.com/psti/)
     
+    ##### Upgrade to GL.iNet Firmware v4.7 (Beta)
+    
+    Unlock Better User Experience and More Functionality
+    
+    [Learn More](https://www.gl-inet.com/support/firmware-features/)
+    
 * [Store](https://store-us.gl-inet.com/)
 
 1. [Home](https://www.gl-inet.com/)
