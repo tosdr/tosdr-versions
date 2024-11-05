@@ -113,16 +113,16 @@ Advertisement
     Prisoners of Katrina
     
     n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
-* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
-    
-    Objectified
-    
-    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 * [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
     
     The new world order – Illuminati, Freemasons and other secret societies
     
     Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
+* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
+    
+    Objectified
+    
+    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 * [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
     Why The Industrial Revolution Happened Here
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Ireland’s Traveller Women](/wp-content/thumbnails/16378-100x70.jpg?x53432)
+* [![Russia’s War in Afghanistan](/wp-content/thumbnails/8664-100x70.jpg?x53432)
     
-    Ireland’s Traveller Women
+    Russia’s War in Afghanistan
     
-    Ireland, it's a place that has been long associated with religion and conservative values, but over the last few years, the country has reinvented itself as a new and progressive Ireland. In 2017, th](https://documentaryheaven.com/irelands-traveller-women/ "Ireland’s Traveller Women")
-* [![Cold War: Inside The KGB](/wp-content/thumbnails/13285-100x70.jpg?x53432)
+    The Soviet war in Afghanistan went on for nine years, starting in December of 1979 and continued until February of 1989. This near decade long war resulted in millions of Afghans fleeing their country](https://documentaryheaven.com/russias-war-in-afghanistan/ "Russia’s War in Afghanistan")
+* [![40 Year Old Child: A New Case](/wp-content/thumbnails/8134-100x70.jpg?x53432)
     
-    Cold War: Inside The KGB
+    40 Year Old Child: A New Case
     
-    The the night of August 22, 1991, a crowd of Russians began removing a 14 tone bronze statue in a major Moscow intersection. It was an act that years earlier would surely have cost them their lives, b](https://documentaryheaven.com/cold-war-inside-kgb/ "Cold War: Inside The KGB")
-* [![Newfoundland Through Eyes of A Foreigner](/wp-content/thumbnails/1045-100x70.jpg?x53432)
+    40 Year Old Child: A New Case - TLC revisits the Williams family in Billings, Montana, whose 8-year-old daughter Gabby suffers a mystery medical condition that slows her rate of aging. The Williams al](https://documentaryheaven.com/40-year-old-child-new-case/ "40 Year Old Child: A New Case")
+* [![Secret Map of Britain](/wp-content/thumbnails/6554-100x70.png?x53432)
     
-    Newfoundland Through Eyes of A Foreigner
+    Secret Map of Britain
     
-    Newfoundland through eyes of foreigner is a documentary film capturing our travels in Newfoundland from the summer of 2007. It mentiones some of many interesting places which we had a chance to visit,](https://documentaryheaven.com/newfoundland-through-eyes-of-a-foreigner/ "Newfoundland Through Eyes of A Foreigner")
-* [![China’s dirty secrets](/wp-content/thumbnails/7105-100x70.jpg?x53432)
+    Mark Thomas investigates why parts of the UK are fenced off, and in some cases not even shown on any maps.](https://documentaryheaven.com/secret-map-of-britain/ "Secret Map of Britain")
+* [![War on Whistleblowers](/wp-content/thumbnails/9610-100x70.jpg?x53432)
     
-    China’s dirty secrets
+    War on Whistleblowers
     
-    China's factories provide low cost products such as computers and cars to the rest of the world. But critics claim such economic progress takes a heavy toll, polluting the country's air, land and rive](https://documentaryheaven.com/chinas-dirty-secrets/ "China’s dirty secrets")
-* [![Here Be Dragons: An Introduction to Critical Thinking](/wp-content/thumbnails/1244-100x70.jpg?x53432)
+    War on Whistleblowers is a 2013 documentary film made by Robert Greenwald and it highlights several recent cases where employees of the United States government and contractors such as Edward Sno](https://documentaryheaven.com/war-whistleblowers/ "War on Whistleblowers")
+* [![Hofmann’s Potion](/wp-content/thumbnails/6586-100x70.jpg?x53432)
     
-    Here Be Dragons: An Introduction to Critical Thinking
+    Hofmann’s Potion
     
-    Here Be Dragons is a free 40 minute video introduction to critical thinking. It is suitable for general audiences and is licensed for free distribution and public display. Most people fully accept par](https://documentaryheaven.com/here-be-dragons-an-introduction-to-critical-thinking/ "Here Be Dragons: An Introduction to Critical Thinking")
+    This documentary offers a compassionate, open-minded look at LSD and how it fits into our world. Long before Timothy Leary urged a generation to “tune in, turn on and drop out,” the drug was hailed as](https://documentaryheaven.com/hofmanns-potion/ "Hofmann’s Potion")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
