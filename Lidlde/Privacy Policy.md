@@ -157,7 +157,7 @@ Brand Navigation
         
         1. [ ] 
             
-            [Gebührenfrei Bargeld abheben - Lidl.de](https://www.lidl.de/c/gebuehrenfrei-bargeld-abheben/s10005290)
+            [Gebührenfrei Bargeld abheben](https://www.lidl.de/c/gebuehrenfrei-bargeld-abheben/s10005290)
             
         2. [ ] 
             
