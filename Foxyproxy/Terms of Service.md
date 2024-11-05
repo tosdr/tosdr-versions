@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I'm happy with your service, since I couldn't extend the subscription I set up a new one (for 6 months, after which I'll be back in the US). I particularly liked that you responded so quickly in the help forum (I had a problem with needing to move the cursor to keep the video streaming smoothly, I'm not sure it's working any better but I appreciate the effort).
+Many thanks for your very swift action.
 
-Ken
+Philip Cochrane Ralph
