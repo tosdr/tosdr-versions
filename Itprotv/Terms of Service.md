@@ -1,22 +1,3 @@
-[Skip to main content](#main)
-
-[](https://www.itpro.tv/itpro/)[For Businesses](https://www.itpro.tv/)[For Individuals](https://www.itpro.tv/itpro/)
-
-[Platform Logins](#)
-
-[Buy now](#contact-sales)
-
-Site navigation
----------------
-
-[For Businesses](https://www.itpro.tv/)[For Individuals](https://www.itpro.tv/itpro/)
-
-[Learning & Talent Solutions](#)
-
-[Learning Styles](#)
-
-[Plans](https://www.itpro.tv/business-pricing/)[Explore Courses](https://www.itpro.tv/catalog/)[Resources](https://www.itpro.tv/resources/)
-
 ![ITPro logo](/static/8181d915d7f21bcb1482e893bffd0111/itpro_logo_831fcd69b8.svg)
 
 Video on-demand IT training courses & labs
