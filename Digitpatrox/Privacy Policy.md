@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Monday, November 4 2024
+Tuesday, November 5 2024
 
 Latest
 
-* [Guide: What is hypervisor?](https://digitpatrox.com/guide-what-is-hypervisor/)
-* [Wasabi Technologies promotes Jon Howes to SVP of global sales](https://digitpatrox.com/wasabi-technologies-promotes-jon-howes-to-svp-of-global-sales/)
-* [You Can Now Search the Internet With ChatGPT](https://digitpatrox.com/you-can-now-search-the-internet-with-chatgpt/)
-* [Best TV Antennas Review – Consumer Reports](https://digitpatrox.com/best-tv-antennas-review-consumer-reports/)
-* [Is the Excel Mobile App Worth Using?](https://digitpatrox.com/is-the-excel-mobile-app-worth-using/)
-* [5 top new TV shows to stream this week on Netflix, Prime Video and more (Nov. 4-10)](https://digitpatrox.com/5-top-new-tv-shows-to-stream-this-week-on-netflix-prime-video-and-more-nov-4-10/)
-* [Cisco says DevHub site leak won’t enable future breaches](https://digitpatrox.com/cisco-says-devhub-site-leak-wont-enable-future-breaches/)
-* [Rolls-Royce Spectre review: the ultimate electric experience](https://digitpatrox.com/rolls-royce-spectre-review-the-ultimate-electric-experience/)
-* [All Hidden Gnomes Locations in Fortnite Chapter 2 Remix](https://digitpatrox.com/all-hidden-gnomes-locations-in-fortnite-chapter-2-remix/)
-* [Why You Cough When You Exercise in the Cold](https://digitpatrox.com/why-you-cough-when-you-exercise-in-the-cold/)
+* [Software Makers Encouraged to Stop Using C/C++ by 2026](https://digitpatrox.com/software-makers-encouraged-to-stop-using-c-c-by-2026/)
+* [Samsung’s amazing Q80D QLED TV just hit its lowest price ever in early Black Friday deal](https://digitpatrox.com/samsungs-amazing-q80d-qled-tv-just-hit-its-lowest-price-ever-in-early-black-friday-deal/)
+* [Nokia investigates breach after hacker claims to steal source code](https://digitpatrox.com/nokia-investigates-breach-after-hacker-claims-to-steal-source-code/)
+* [Judge declines to block Musk’s $1 million voter giveaways](https://digitpatrox.com/judge-declines-to-block-musks-1-million-voter-giveaways/)
+* [Today’s Wordle Answer and Hints (November 5, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-5-2024/)
+* [New four-day week trial kicks off for workers across UK](https://digitpatrox.com/new-four-day-week-trial-kicks-off-for-workers-across-uk/)
+* [Europe plans to check Apple’s iPad for DMA compliance – Computerworld](https://digitpatrox.com/europe-plans-to-check-apples-ipad-for-dma-compliance-computerworld/)
+* [My Favorite Amazon Deal of the Day: This Memory-Boosted M3 MacBook Pro](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-this-memory-boosted-m3-macbook-pro/)
+* [Windows 11 update KB5045889 modernizes the Windows Hello experience](https://digitpatrox.com/windows-11-update-kb5045889-modernizes-the-windows-hello-experience/)
+* [5 Ways to Save on Large Appliances This Black Friday](https://digitpatrox.com/5-ways-to-save-on-large-appliances-this-black-friday/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/What-is-a-hypervisor.jpeg)](https://digitpatrox.com/guide-what-is-hypervisor/)
+* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241104-cisa-fbi-memory-safety-recommendations.jpg)](https://digitpatrox.com/software-makers-encouraged-to-stop-using-c-c-by-2026/)
     
-    [Guide: What is hypervisor?](https://digitpatrox.com/guide-what-is-hypervisor/)
+    [Software Makers Encouraged to Stop Using C/C++ by 2026](https://digitpatrox.com/software-makers-encouraged-to-stop-using-c-c-by-2026/)
     
-    2 mins ago
+    9 seconds ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/BnyqqkobFWvzs4RGBAV4Sd-1200-80.jpg)](https://digitpatrox.com/wasabi-technologies-promotes-jon-howes-to-svp-of-global-sales/)
+* [![](https://cdn.mos.cms.futurecdn.net/QqorFw39y5d2S4xfZFL8eU-1200-80.jpg)](https://digitpatrox.com/samsungs-amazing-q80d-qled-tv-just-hit-its-lowest-price-ever-in-early-black-friday-deal/)
     
-    [Wasabi Technologies promotes Jon Howes to SVP of global sales](https://digitpatrox.com/wasabi-technologies-promotes-jon-howes-to-svp-of-global-sales/)
+    [Samsung’s amazing Q80D QLED TV just hit its lowest price ever in early Black Friday deal](https://digitpatrox.com/samsungs-amazing-q80d-qled-tv-just-hit-its-lowest-price-ever-in-early-black-friday-deal/)
     
-    33 mins ago
+    4 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01JBHSWS4XQBGDZ862Y6YYK2J7/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/you-can-now-search-the-internet-with-chatgpt/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/11/04/nokia-blue.jpg)](https://digitpatrox.com/nokia-investigates-breach-after-hacker-claims-to-steal-source-code/)
     
-    [You Can Now Search the Internet With ChatGPT](https://digitpatrox.com/you-can-now-search-the-internet-with-chatgpt/)
+    [Nokia investigates breach after hacker claims to steal source code](https://digitpatrox.com/nokia-investigates-breach-after-hacker-claims-to-steal-source-code/)
     
     1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1727109694/prod/content/dam/CRO-Images-2024/Electronics/CR-Electronics-InlineHero-TV-Antenna-Review-Top-Picks-for-Getting-Free-Over-the-Air-Channels-0924)](https://digitpatrox.com/best-tv-antennas-review-consumer-reports/)
+* [![](https://cdn.vox-cdn.com/thumbor/rodkS6uNARTTLbhlWar9QAXmZCQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23390589/VRG_Illo_STK022_K_Radtke_Musk_Thumbs_Up.jpg)](https://digitpatrox.com/judge-declines-to-block-musks-1-million-voter-giveaways/)
     
-    [Best TV Antennas Review – Consumer Reports](https://digitpatrox.com/best-tv-antennas-review-consumer-reports/)
+    [Judge declines to block Musk’s $1 million voter giveaways](https://digitpatrox.com/judge-declines-to-block-musks-1-million-voter-giveaways/)
     
     2 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-phone-with-an-excel-spreadsheet-and-a-paper-with-the-same-spreadsheet-printed.jpg)](https://digitpatrox.com/is-the-excel-mobile-app-worth-using/)
+* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-5-2024/)
     
-    [Is the Excel Mobile App Worth Using?](https://digitpatrox.com/is-the-excel-mobile-app-worth-using/)
+    [Today’s Wordle Answer and Hints (November 5, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-5-2024/)
     
     2 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [2 mins ago
+* [9 seconds ago
     
-    ### Guide: What is hypervisor?](https://digitpatrox.com/guide-what-is-hypervisor/)
-* [33 mins ago
+    ### Software Makers Encouraged to Stop Using C/C++ by 2026](https://digitpatrox.com/software-makers-encouraged-to-stop-using-c-c-by-2026/)
+* [4 mins ago
     
-    ### Wasabi Technologies promotes Jon Howes to SVP of global sales](https://digitpatrox.com/wasabi-technologies-promotes-jon-howes-to-svp-of-global-sales/)
+    ### Samsung’s amazing Q80D QLED TV just hit its lowest price ever in early Black Friday deal](https://digitpatrox.com/samsungs-amazing-q80d-qled-tv-just-hit-its-lowest-price-ever-in-early-black-friday-deal/)
 * [1 hour ago
     
-    ### You Can Now Search the Internet With ChatGPT](https://digitpatrox.com/you-can-now-search-the-internet-with-chatgpt/)
+    ### Nokia investigates breach after hacker claims to steal source code](https://digitpatrox.com/nokia-investigates-breach-after-hacker-claims-to-steal-source-code/)
 
 Most Popular Topics
 
-* [September 24, 2024
+* [August 23, 2024
     
-    ### Best Refrigerators of 2024 – Consumer Reports](https://digitpatrox.com/best-refrigerators-of-2024-consumer-reports/)
-* [4 weeks ago
+    ### 2024 Acura ZDX First Drive Review](https://digitpatrox.com/2024-acura-zdx-first-drive-review/)
+* [August 19, 2024
     
-    ### Google Photos Might Soon Let You Detect AI-Generated Photos](https://digitpatrox.com/google-photos-might-soon-let-you-detect-ai-generated-photos/)
-* [September 13, 2024
+    ### You Can Get This USB-C Apple Pencil on Sale for $59 Right Now](https://digitpatrox.com/you-can-get-this-usb-c-apple-pencil-on-sale-for-59-right-now/)
+* [3 weeks ago
     
-    ### Apple gets ready for app sideloading on EU iPads – Computerworld](https://digitpatrox.com/apple-gets-ready-for-app-sideloading-on-eu-ipads-computerworld/)
+    ### NCSC warns organizations of cyber threat from Russian Foreign Intelligence](https://digitpatrox.com/ncsc-warns-organizations-of-cyber-threat-from-russian-foreign-intelligence/)
 
 Last Modified Topics
 
 * [4 hours ago
     
-    ### Cisco says DevHub site leak won’t enable future breaches](https://digitpatrox.com/cisco-says-devhub-site-leak-wont-enable-future-breaches/)
+    ### Europe plans to check Apple’s iPad for DMA compliance – Computerworld](https://digitpatrox.com/europe-plans-to-check-apples-ipad-for-dma-compliance-computerworld/)
 * [4 hours ago
     
-    ### Rolls-Royce Spectre review: the ultimate electric experience](https://digitpatrox.com/rolls-royce-spectre-review-the-ultimate-electric-experience/)
+    ### My Favorite Amazon Deal of the Day: This Memory-Boosted M3 MacBook Pro](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-this-memory-boosted-m3-macbook-pro/)
 * [4 hours ago
     
-    ### All Hidden Gnomes Locations in Fortnite Chapter 2 Remix](https://digitpatrox.com/all-hidden-gnomes-locations-in-fortnite-chapter-2-remix/)
+    ### Windows 11 update KB5045889 modernizes the Windows Hello experience](https://digitpatrox.com/windows-11-update-kb5045889-modernizes-the-windows-hello-experience/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 12, 2024
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+* [August 28, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
