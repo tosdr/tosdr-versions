@@ -1,9 +1,17 @@
 [![TrilbyTV logo](//cdn.trilbytv.co.uk/public/website-assets/TrilbyTV_logo.png)](https://www.trilbytv.co.uk/)
 
+* [Education](#)
+
+[MAT](https://www.trilbytv.co.uk/mat) [Primary](https://www.trilbytv.co.uk/primary) [Secondary](https://www.trilbytv.co.uk/secondary) [Independent](https://www.trilbytv.co.uk/independent) [FE/HE](https://www.trilbytv.co.uk/fe-he) [SEN](https://www.trilbytv.co.uk/sen)
+
 * [Features](https://www.trilbytv.co.uk/features)
 * [Players](https://www.trilbytv.co.uk/players)
 * [Pricing](https://www.trilbytv.co.uk/pricing)
-* [Support](https://www.trilbytv.co.uk/support)
+
+* [Support](#)
+
+[Training](https://www.trilbytv.co.uk/training) [Knowledge base](https://support.trilbytv.co.uk/) [Contact](https://www.trilbytv.co.uk/contact)
+
 * [Blog](https://www.trilbytv.co.uk/blog)
 * [Login](https://app.trilbytv.co.uk/)
 * [Free Demo](https://www.trilbytv.co.uk/demo)
@@ -11,10 +19,26 @@
 [![Navigation Dropdown](//cdn.trilbytv.co.uk/public/website-assets/mobile-nav.svg)](#)
 
 * [Home](https://www.trilbytv.co.uk/)
-* [Features](https://www.trilbytv.co.uk/features)
+
+Education
+
+* [\- MAT](https://www.trilbytv.co.uk/mat)
+* [\- Primary](https://www.trilbytv.co.uk/mat)
+* [\- Secondary](https://www.trilbytv.co.uk/mat)
+* [\- Independent](https://www.trilbytv.co.uk/mat)
+* [\- FE/HE](https://www.trilbytv.co.uk/mat)
+* [\- SEN](https://www.trilbytv.co.uk/mat)* [Features](https://www.trilbytv.co.uk/features)
 * [Players](https://www.trilbytv.co.uk/players)
 * [Pricing](https://www.trilbytv.co.uk/pricing)
-* [Support](https://www.trilbytv.co.uk/support)
+
+Support
+
+* [\- Training](https://www.trilbytv.co.uk/training)
+* [\- Knowledge base](https://support.trilbytv.co.uk/)
+* [\- Contact](https://www.trilbytv.co.uk/contact)
+
+* * *
+
 * [Log in](https://app.trilbytv.co.uk/?utm_source=trilbytv&utm_medium=website&utm_campaign=trilbytv-header)
 * [Free Demo](https://www.trilbytv.co.uk/demo)
 
@@ -92,25 +116,45 @@ Get set up in less than 10 minutes, no payment details required.
 
 ![TrilbyTV white hat icon logo on a square background](//cdn.trilbytv.co.uk/public/website-assets/trilbytv-icon.png)
 
-Copyright © 2024 [Trilby Multimedia Ltd](https://www.trilby.co.uk/)
-
-[Terms of Service](https://www.trilbytv.co.uk/terms-of-service/)   |   [EULA](https://www.trilbytv.co.uk/eula)   |   [Privacy Notice](https://www.trilbytv.co.uk/privacy-notice/)   |   [Acceptable Content Policy](https://www.trilbytv.co.uk/acceptable-content-policy/)
+* [info@trilbytv.co.uk](mailto:info@trilbytv.co.uk)
+* [support@trilbytv.co.uk](mailto:support@trilbytv.co.uk)
+* [+44 (0)121 333 6860](tel:+441213336860)
 
 * [](https://twitter.com/trilbytv)
 * [](https://instagram.com/trilbytv)
 * [](https://facebook.com/trilbytv)
 * [](https://www.linkedin.com/company/trilbytv)
-* [](https://www.youtube.com/@trilbytv)
+* [](http://youtube.com/@trilbytv)
 
-* [Blog](https://www.trilbytv.co.uk/blog/)
-* [Trailblazers](https://www.trilbytv.co.uk/trailblazers/)
-* [Business Signage](https://www.trilbytv.co.uk/business/)
-* [Contact](https://www.trilbytv.co.uk/contact/)
-* [Press](https://www.trilbytv.co.uk/press/)
-* [Free Trial](https://auth.trilbytv.co.uk/trial?utm_source=trilbytv&utm_campaign=website-footer&utm_medium=web&utm-content=footer-menu)
+Company
 
-* [info@trilbytv.co.uk](mailto:info@trilbytv.co.uk)
-* [support@trilbytv.co.uk](mailto:support@trilbytv.co.uk)
-* [+44 (0)121 333 6860](tel:+441213336860)
+* [Blog](https://www.trilbytv.co.uk/blog)
+* [Not a school?](https://www.trilbytv.co.uk/business)
+* [Press](https://www.trilbytv.co.uk/press)
+* [Free trial](https://auth.trilbytv.co.uk/trial/start)
+
+Education
+
+* [MAT](https://www.trilbytv.co.uk/mat)
+* [Primary](https://www.trilbytv.co.uk/primary)
+* [Secondary](https://www.trilbytv.co.uk/secondary)
+* [Independent](https://www.trilbytv.co.uk/independent)
+* [FE/HE](https://www.trilbytv.co.uk/fehe)
+* [SEN](https://www.trilbytv.co.uk/sen)
+
+Support
+
+* [Training](https://www.trilbytv.co.uk/training)
+* [Knowlegde Base](https://support.trilbytv.co.uk/)
+* [Contact](https://www.trilbytv.co.uk/contact)
+
+Get started
+
+* [Free demo](https://www.trilbytv.co.uk/demo)
+* [30 day trial](https://auth.trilbytv.co.uk/trial/start)
+
+Copyright © 2024 [Trilby Multimedia Ltd](https://www.trilby.co.uk/)
+
+[Terms of Service](https://www.trilbytv.co.uk/terms-of-service/)   |   [EULA](https://www.trilbytv.co.uk/eula)   |   [Privacy Notice](https://www.trilbytv.co.uk/privacy-notice/)   |   [Acceptable Content Policy](https://www.trilbytv.co.uk/acceptable-content-policy/)
 
 ×
