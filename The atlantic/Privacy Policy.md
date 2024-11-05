@@ -76,6 +76,8 @@
 * [Sign In](https://accounts.theatlantic.com/login/) [My Account](https://accounts.theatlantic.com/accounts/details/)
 * [Subscribe](https://www.theatlantic.com/subscribe/navbar/)
 
+[Find all of _The Atlantic_’s election coverage here, from across the country and up and down the ballot.](https://www.theatlantic.com/projects/2024-elections/)
+
 Privacy Policy
 ==============
 
