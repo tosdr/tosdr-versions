@@ -1,4 +1,4 @@
-SAME DAY SHIPPING MADE IN THE USA FREE US SHIPPING $79+
+SAME DAY SHIPPING MADE IN THE USA FREE US SHIPPING $99+
 
   
 [Store Finder](https://hugeminis.com/store-finder/)
@@ -117,7 +117,7 @@ We’re proud to make all our
 products in house by hand.
 
 **Free Shipping**  
-Spend $79+ for  
+Spend $99+ for  
 free US shipping.
 
 **Same Day Shipping**Orders placed before 12PM EST ship same day.
@@ -126,7 +126,7 @@ free US shipping.
 
 **Hand Made in the USA**All of our products are made in house by hand.
 
-**Free Shipping**Orders over $79 qualify for free US shipping.
+**Free Shipping**Orders over $99 qualify for free US shipping.
 
 EST. 2017 ![Logo](/wp-content/uploads/HM-footer-logo.png) ![SSL icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20154%2034'%3E%3C/svg%3E)
 
