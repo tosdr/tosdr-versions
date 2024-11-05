@@ -20,6 +20,15 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Next stop - La La Land (the sign in question)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5255-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
+    
+    ### [Rotherhithe road sign points to LA, leaving locals amused and council unaware for 15 years](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
+    
+    [![Fenstanton Primary School in Tulse Hill, South London will close from September 2026 under council plans.
+    Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/09/Fenstanton-Primary-School-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/councillors-have-rubberstamped-plans-to-close-two-primary-schools-in-south-london/)
+    
+    ### [Councillors have rubberstamped plans to close two primary schools in South London](https://southwarknews.co.uk/area/camberwell/councillors-have-rubberstamped-plans-to-close-two-primary-schools-in-south-london/)
+    
     [![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
     
     ### [Peckham leaseholders expose costs of £17.3 million major works project as councillors admit ‘something has gone terribly wrong’](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
@@ -48,15 +57,6 @@
     [![Canada Water British Land, boardwalk opening © Tom Campbell](https://southwarknews.co.uk/wp-content/uploads/2024/11/Canada-Water-British-Land-Asif-Khan-boardwalk-opening-©-Tom-Campbell-4-2-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/canada-water-boardwalk-is-now-open-connecting-shops-library-and-future-homes/)
     
     ### [Canada Water boardwalk is now open, connecting shops, library and future homes](https://southwarknews.co.uk/area/rotherhithe/canada-water-boardwalk-is-now-open-connecting-shops-library-and-future-homes/)
-    
-    [![Amy Lamé, London's Night Czar. 
-    Credit: Greater London Authority](https://southwarknews.co.uk/wp-content/uploads/2024/10/Amy-lame-360x180.jpg)](https://southwarknews.co.uk/area/london/ongoing-mystery-over-whether-there-will-be-a-new-night-czar-for-london/)
-    
-    ### [Ongoing mystery over whether there will be a new night czar for London](https://southwarknews.co.uk/area/london/ongoing-mystery-over-whether-there-will-be-a-new-night-czar-for-london/)
-    
-    [![Shaun Bailey](https://southwarknews.co.uk/wp-content/uploads/2021/04/web-Shaun-Bailey.jpg)](https://southwarknews.co.uk/area/london/proposals-for-a-london-art-trail-linking-all-32-of-the-citys-boroughs/)
-    
-    ### [Proposals for a ‘London Art Trail’ linking all 32 of the city’s boroughs](https://southwarknews.co.uk/area/london/proposals-for-a-london-art-trail-linking-all-32-of-the-citys-boroughs/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -107,6 +107,15 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Next stop - La La Land (the sign in question)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5255-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
+    
+    ### [Rotherhithe road sign points to LA, leaving locals amused and council unaware for 15 years](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
+    
+    [![Fenstanton Primary School in Tulse Hill, South London will close from September 2026 under council plans.
+    Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/09/Fenstanton-Primary-School-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/councillors-have-rubberstamped-plans-to-close-two-primary-schools-in-south-london/)
+    
+    ### [Councillors have rubberstamped plans to close two primary schools in South London](https://southwarknews.co.uk/area/camberwell/councillors-have-rubberstamped-plans-to-close-two-primary-schools-in-south-london/)
+    
     [![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
     
     ### [Peckham leaseholders expose costs of £17.3 million major works project as councillors admit ‘something has gone terribly wrong’](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
@@ -135,15 +144,6 @@ View All Result
     [![Canada Water British Land, boardwalk opening © Tom Campbell](https://southwarknews.co.uk/wp-content/uploads/2024/11/Canada-Water-British-Land-Asif-Khan-boardwalk-opening-©-Tom-Campbell-4-2-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/canada-water-boardwalk-is-now-open-connecting-shops-library-and-future-homes/)
     
     ### [Canada Water boardwalk is now open, connecting shops, library and future homes](https://southwarknews.co.uk/area/rotherhithe/canada-water-boardwalk-is-now-open-connecting-shops-library-and-future-homes/)
-    
-    [![Amy Lamé, London's Night Czar. 
-    Credit: Greater London Authority](https://southwarknews.co.uk/wp-content/uploads/2024/10/Amy-lame-360x180.jpg)](https://southwarknews.co.uk/area/london/ongoing-mystery-over-whether-there-will-be-a-new-night-czar-for-london/)
-    
-    ### [Ongoing mystery over whether there will be a new night czar for London](https://southwarknews.co.uk/area/london/ongoing-mystery-over-whether-there-will-be-a-new-night-czar-for-london/)
-    
-    [![Shaun Bailey](https://southwarknews.co.uk/wp-content/uploads/2021/04/web-Shaun-Bailey.jpg)](https://southwarknews.co.uk/area/london/proposals-for-a-london-art-trail-linking-all-32-of-the-citys-boroughs/)
-    
-    ### [Proposals for a ‘London Art Trail’ linking all 32 of the city’s boroughs](https://southwarknews.co.uk/area/london/proposals-for-a-london-art-trail-linking-all-32-of-the-citys-boroughs/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -379,13 +379,26 @@ Website
 
 [30th October 2024](https://southwarknews.co.uk/news/news-plus/exclusive-collisions-have-almost-tripled-on-lower-road-since-cycle-lane-was-installed-data-suggests/)
 
-[![Tony Macklin died on 6 November 2015.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_6539-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Battersea-Park-Fireworks2-copy-120x86.jpeg)](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/)
 
-### [Minute’s applause at Millwall game to honour lifelong fan who died of cancer](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
+### [Where to watch the best fireworks displays in south London this Bonfire Night](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/) 
 
-[31st October 2024](https://southwarknews.co.uk/area/bermondsey/minutes-applause-at-millwall-game-to-honour-lifelong-fan-who-died-of-cancer/)
+[20th October 2024](https://southwarknews.co.uk/news/community/where-to-watch-the-best-fireworks-displays-in-south-london-this-bonfire-night/)
 
 ### Featured Articles
+
+[![Next stop - La La Land (the sign in question)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5255-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
+
+### [Rotherhithe road sign points to LA, leaving locals amused and council unaware for 15 years](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
+
+[5th November 2024](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
+
+[![Fenstanton Primary School in Tulse Hill, South London will close from September 2026 under council plans.
+Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/09/Fenstanton-Primary-School-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/councillors-have-rubberstamped-plans-to-close-two-primary-schools-in-south-london/)
+
+### [Councillors have rubberstamped plans to close two primary schools in South London](https://southwarknews.co.uk/area/camberwell/councillors-have-rubberstamped-plans-to-close-two-primary-schools-in-south-london/)
+
+[5th November 2024](https://southwarknews.co.uk/area/camberwell/councillors-have-rubberstamped-plans-to-close-two-primary-schools-in-south-london/)
 
 [![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-leaseholders-expose-costs-of-17-3-million-major-works-project-as-councillors-admit-something-has-gone-terribly-wrong/)
 
@@ -410,18 +423,6 @@ Website
 ### [Phone-snatching teen stabbed woman in laughing gas-fuelled argument on Christmas Eve in Bermondsey](https://southwarknews.co.uk/area/bermondsey/phone-snatching-teen-stabbed-woman-in-laughing-gas-fuelled-argument-on-christmas-eve-in-bermondsey/)
 
 [4th November 2024](https://southwarknews.co.uk/area/bermondsey/phone-snatching-teen-stabbed-woman-in-laughing-gas-fuelled-argument-on-christmas-eve-in-bermondsey/)
-
-[![Canada Water British Land, boardwalk opening © Tom Campbell](https://southwarknews.co.uk/wp-content/uploads/2024/11/Canada-Water-British-Land-Asif-Khan-boardwalk-opening-©-Tom-Campbell-4-2-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/canada-water-boardwalk-is-now-open-connecting-shops-library-and-future-homes/)
-
-### [Canada Water boardwalk is now open, connecting shops, library and future homes](https://southwarknews.co.uk/area/rotherhithe/canada-water-boardwalk-is-now-open-connecting-shops-library-and-future-homes/)
-
-[4th November 2024](https://southwarknews.co.uk/area/rotherhithe/canada-water-boardwalk-is-now-open-connecting-shops-library-and-future-homes/)
-
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/11/Artists-impressions-of-Lady-Justice_statue_on_the_Old_Bailey_London-2-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/kacey-clarke-teenager-jailed-for-fatally-stabbing-woman-on-christmas-eve-in-bermondsey/)
-
-### [Kacey Clarke: Teenager jailed for fatally stabbing woman on Christmas Eve in Bermondsey](https://southwarknews.co.uk/area/bermondsey/kacey-clarke-teenager-jailed-for-fatally-stabbing-woman-on-christmas-eve-in-bermondsey/)
-
-[4th November 2024](https://southwarknews.co.uk/area/bermondsey/kacey-clarke-teenager-jailed-for-fatally-stabbing-woman-on-christmas-eve-in-bermondsey/)
 
 ### USEFUL PAGES
 
