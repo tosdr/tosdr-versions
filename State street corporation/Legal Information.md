@@ -5,7 +5,7 @@ Global Privacy Notice
 
 Effective Date: July 2020
 
-Last Reviewed: October, 2022
+Last Reviewed: October, 2024
 
   
 [Privacy Notice - Chinese](https://www.statestreet.com/disclosures-and-disclaimers/cn/privacy-chinese)  
