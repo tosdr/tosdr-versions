@@ -153,6 +153,14 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [Defence Blog – Bias and Credibility](https://mediabiasfactcheck.com/defence-blog-bias-and-credibility/)
+    
+    November 5, 2024
+    
+* [Public Policy Institute of California (PPIC) – Bias and Credibility](https://mediabiasfactcheck.com/public-policy-institute-of-california-ppic-bias-and-credibility/)
+    
+    November 5, 2024
+    
 * [WCMU – NPR – Mount Pleasant – Bias and Credibility](https://mediabiasfactcheck.com/wcmu-npr-mount-pleasant-bias/)
     
     November 5, 2024
@@ -177,17 +185,19 @@ No related posts.
     
     November 4, 2024
     
-* [Cicero – Bias and Credibility](https://mediabiasfactcheck.com/cicero-bias-and-credibility/)
-    
-    November 3, 2024
-    
-* [Citizen Watch Report (CWR) – Bias and Credibility](https://mediabiasfactcheck.com/citizen-watch-report-cwr-bias-and-credibility/)
-    
-    November 3, 2024
-    
 
 #### Recently Updated Pages
 
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 5, 2024
+    
+* [Defence Blog – Bias and Credibility](https://mediabiasfactcheck.com/defence-blog-bias-and-credibility/ "View Defence Blog – Bias and Credibility") - November 5, 2024
+    
+* [Credible Pollsters Used By MBFC](https://mediabiasfactcheck.com/credible-pollsters-used-by-mbfc/ "View Credible Pollsters Used By MBFC") - November 5, 2024
+    
+* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - November 5, 2024
+    
+* [Public Policy Institute of California (PPIC) – Bias and Credibility](https://mediabiasfactcheck.com/public-policy-institute-of-california-ppic-bias-and-credibility/ "View Public Policy Institute of California (PPIC) – Bias and Credibility") - November 5, 2024
+    
 * [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 5, 2024
     
 * [WCMU – NPR – Mount Pleasant – Bias and Credibility](https://mediabiasfactcheck.com/wcmu-npr-mount-pleasant-bias/ "View WCMU – NPR – Mount Pleasant – Bias and Credibility") - November 5, 2024
@@ -198,16 +208,6 @@ No related posts.
     
 * [Carbon Balance and Management Journal – Bias and Credibility](https://mediabiasfactcheck.com/carbon-balance-and-management-journal-bias/ "View Carbon Balance and Management Journal – Bias and Credibility") - November 4, 2024
     
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 4, 2024
-    
-* [Peninsula Clarion – Bias and Credibility](https://mediabiasfactcheck.com/peninsula-clarion-bias/ "View Peninsula Clarion – Bias and Credibility") - November 4, 2024
-    
-* [Center for Climate Integrity – Bias and Credibility](https://mediabiasfactcheck.com/center-for-climate-integrity-bias-and-credibility/ "View Center for Climate Integrity – Bias and Credibility") - November 4, 2024
-    
-* [Valley City Times-Record – Bias and Credibility](https://mediabiasfactcheck.com/valley-city-times-record-bias/ "View Valley City Times-Record – Bias and Credibility") - November 4, 2024
-    
-* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - November 4, 2024
-    
 
 #### Today’s Top Page Views
 
@@ -216,11 +216,11 @@ No related posts.
 * [Emerson College Polling - Bias and Credibility](https://mediabiasfactcheck.com/emerson-college-polling-bias-and-credibility/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Electoral College Map 2024 - Harris vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
-* [MBFC’s Last Election Sim Shows Harris with a 66.78% Win Rate](https://mediabiasfactcheck.com/2024/11/04/mbfcs-last-election-sim-shows-harris-with-a-66-78-win-rate/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [MBFC’s Last Election Sim Shows Harris with a 66.78% Win Rate](https://mediabiasfactcheck.com/2024/11/04/mbfcs-last-election-sim-shows-harris-with-a-66-78-win-rate/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
-* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [270toWin - Bias and Credibility](https://mediabiasfactcheck.com/270towin-bias-and-credibility/)
 
 #### Subscribe via Email
 
