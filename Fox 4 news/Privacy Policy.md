@@ -402,39 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Roughly 82 million voted early in the 2024 election – here are some takeaways](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2182314841.jpg?ve=1&tl=1)
+ [![Amber Alert: 12-year-old Kaufman County boy found safe](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/amber-alert.jpg?ve=1&tl=1)
 
- ![Roughly 82 million voted early in the 2024 election – here are some takeaways](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2182314841.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/early-voting-data-2024-election-takeaways)
+ ![Amber Alert: 12-year-old Kaufman County boy found safe](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/amber-alert.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-alert-12-year-old-connor-young-found-safe)
 
-### [Roughly 82 million voted early in the 2024 election – here are some takeaways](https://www.fox4news.com/news/early-voting-data-2024-election-takeaways)
+### [Amber Alert: 12-year-old Kaufman County boy found safe](https://www.fox4news.com/news/amber-alert-12-year-old-connor-young-found-safe)
 
- [![Live Updates: 2024 Election Day in North Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/32/18/V_DALCO-VOTING-MACHINE-TESTING-MONDAY-6_30A_KDFWb7_00.00.36.16.jpg?ve=1&tl=1)
+ [![5 tips to ease Election Day anxiety](https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/11/32/18/gettyimages-643067734.jpg?ve=1&tl=1)
 
- ![Live Updates: 2024 Election Day in North Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/32/18/592/333/V_DALCO-VOTING-MACHINE-TESTING-MONDAY-6_30A_KDFWb7_00.00.36.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/2024-election-live-updates-dallas-fort-worth)
+ ![5 tips to ease Election Day anxiety](https://images.foxtv.com/images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/11/32/18/592/333/gettyimages-643067734.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/steps-take-ease-election-anxiety)
 
-Live Now
+### [5 tips to ease Election Day anxiety](https://www.fox4news.com/news/steps-take-ease-election-anxiety)
 
-### [Live Updates: 2024 Election Day in North Texas](https://www.fox4news.com/election/2024-election-live-updates-dallas-fort-worth)
+ [![First-time homebuyers are older than ever before, National Association of Realtors survey finds](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/house-for-sale.jpg?ve=1&tl=1)
 
- [![Attorney General Ken Paxton sues to keep federal election monitors out of Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/05/32/18/snapshot-2023-05-26T160732.060.jpg?ve=1&tl=1)
+ ![First-time homebuyers are older than ever before, National Association of Realtors survey finds](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/house-for-sale.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/first-time-homebuyers-older-than-before-survey)
 
- ![Attorney General Ken Paxton sues to keep federal election monitors out of Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/05/32/18/592/333/snapshot-2023-05-26T160732.060.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/ken-paxton-sues-election-monitors-texas)
+### [First-time homebuyers are older than ever before, National Association of Realtors survey finds](https://www.fox4news.com/news/first-time-homebuyers-older-than-before-survey)
 
-### [Attorney General Ken Paxton sues to keep federal election monitors out of Texas](https://www.fox4news.com/election/ken-paxton-sues-election-monitors-texas)
+ [![When do polls close in Texas on Election Day?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/477b050b-Still0613_00024_1497396389972_3513222_ver1.0.jpg?ve=1&tl=1)
 
- [![LIVE UPDATES: Texas election news, races, voting results](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/GettyImages-1354285743-1.jpg?ve=1&tl=1)
+ ![When do polls close in Texas on Election Day?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/477b050b-Still0613_00024_1497396389972_3513222_ver1.0.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/when-do-polls-close-texas-election-day)
 
- ![LIVE UPDATES: Texas election news, races, voting results](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/592/333/GettyImages-1354285743-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/election-updates-texas-news-race-winners)
+### [When do polls close in Texas on Election Day?](https://www.fox4news.com/news/when-do-polls-close-texas-election-day)
 
-Live Now
+ [![Can you bring kids to vote in Texas?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2182405904.jpg?ve=1&tl=1)
 
-### [LIVE UPDATES: Texas election news, races, voting results](https://www.fox4news.com/election/election-updates-texas-news-race-winners)
+ ![Can you bring kids to vote in Texas?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2182405904.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/can-you-bring-kids-vote-texas)
 
- [![When will Texas election results start coming in?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/06/32/18/GettyImages-1229447616.jpg?ve=1&tl=1)
-
- ![When will Texas election results start coming in?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/06/32/18/592/333/GettyImages-1229447616.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/when-will-election-results-start-coming-in)
-
-### [When will Texas election results start coming in?](https://www.fox4news.com/election/when-will-election-results-start-coming-in)
+### [Can you bring kids to vote in Texas?](https://www.fox4news.com/election/can-you-bring-kids-vote-texas)
 
 [![Today is Election Day. Here’s what you need to know](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/149/84/219152_You_Decide_2024_Web-Graphic_1280x720_001.jpg?ve=1&tl=1)](https://www.fox4news.com/election/election-day-2024-how-do-i-vote)
 
