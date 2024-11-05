@@ -55,6 +55,8 @@ GET 10% OFF YOUR FIRST ORDER](https://www.artspace.com/account_creation)
         * [Art 101](https://www.artspace.com/magazine/art_101)
         * [Contributors](https://www.artspace.com/magazine/contributors)
         
+    * [The Holiday Store](https://www.artspace.com/collections/artful-holiday-event)
+        
     
 * [ART](https://www.artspace.com/art)
     
@@ -87,6 +89,8 @@ GET 10% OFF YOUR FIRST ORDER](https://www.artspace.com/account_creation)
     * [News & Events](https://www.artspace.com/magazine/news_events)
     * [Art 101](https://www.artspace.com/magazine/art_101)
     * [Contributors](https://www.artspace.com/magazine/contributors)
+    
+* [The Holiday Store](https://www.artspace.com/collections/artful-holiday-event)
     
 
 Sign up for our Newsletter
