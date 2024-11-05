@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [North Korea Has Sent Troops to Aid Russia. What Comes Next for NATO?](https://www.theepochtimes.com/world/north-korea-has-sent-troops-to-aid-russia-what-comes-next-for-nato-5751818)
+* [Vance Casts Ballot in Ohio, Feels ‘Good’ About Race](https://www.theepochtimes.com/us/vance-casts-ballot-in-ohio-feels-good-about-race-5754382)
     
-    NEW By [Cindy Li](https://www.theepochtimes.com/author/cindy-li)
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![North Korea Has Sent Troops to Aid Russia. What Comes Next for NATO?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Vance Casts Ballot in Ohio, Feels ‘Good’ About Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![North Korea Has Sent Troops to Aid Russia. What Comes Next for NATO?](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751245-GettyImages-2157787216-205x123.jpg.webp)](https://www.theepochtimes.com/world/north-korea-has-sent-troops-to-aid-russia-what-comes-next-for-nato-5751818)
-* [Trump, Republicans Pin Hopes on Record Early Voting in North Carolina](https://www.theepochtimes.com/us/trump-republicans-pin-hopes-on-record-early-voting-in-north-carolina-5754134)
+    ![Vance Casts Ballot in Ohio, Feels ‘Good’ About Race](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754422-GettyImages-2182399351-205x123.jpg.webp)](https://www.theepochtimes.com/us/vance-casts-ballot-in-ohio-feels-good-about-race-5754382)
+* [FDA Warns Against ‘Life-Threatening’ Weight Loss Drugs From California Facility](https://www.theepochtimes.com/health/fda-warns-against-life-threatening-weight-loss-drugs-from-california-facility-5754271)
     
-    2hr By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
+    1hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Trump, Republicans Pin Hopes on Record Early Voting in North Carolina](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![FDA Warns Against ‘Life-Threatening’ Weight Loss Drugs From California Facility](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump, Republicans Pin Hopes on Record Early Voting in North Carolina](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754157-GettyImages-2182880228-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-republicans-pin-hopes-on-record-early-voting-in-north-carolina-5754134)
-* [Boeing Strike Ends as Workers Approve New Labor Contract](https://www.theepochtimes.com/business/boeing-strike-ends-after-union-approves-new-labor-contract-5753785)
+    ![FDA Warns Against ‘Life-Threatening’ Weight Loss Drugs From California Facility](https://img.theepochtimes.com/assets/uploads/2024/01/04/id5558662-Ozempic-1482908413-1200x859-e1687553633840-205x123.jpg.webp)](https://www.theepochtimes.com/health/fda-warns-against-life-threatening-weight-loss-drugs-from-california-facility-5754271)
+* [French Families Sue Tiktok Over Children’s Exposure to Harmful Content](https://www.theepochtimes.com/china/french-families-sue-tiktok-over-childrens-exposure-to-harmful-content-5753596)
     
-    4hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    1hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
     
-    [![Boeing Strike Ends as Workers Approve New Labor Contract](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![French Families Sue Tiktok Over Children’s Exposure to Harmful Content](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Boeing Strike Ends as Workers Approve New Labor Contract](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744382-Boeing-strike-GettyImages-2177902765-205x123.jpg.webp)](https://www.theepochtimes.com/business/boeing-strike-ends-after-union-approves-new-labor-contract-5753785)
-* [North Korea Fires Multiple Ballistic Missiles Amid Heightened Tensions](https://www.theepochtimes.com/world/north-korea-fires-multiple-ballistic-missiles-amid-heightened-tensions-5754066)
+    ![French Families Sue Tiktok Over Children’s Exposure to Harmful Content](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721855-EpochImages-8212753885-xl-205x123.jpg.webp)](https://www.theepochtimes.com/china/french-families-sue-tiktok-over-childrens-exposure-to-harmful-content-5753596)
+* [Homeowership Rates Remain Stable in United States: Report](https://www.theepochtimes.com/us/homeowership-rates-remain-stable-in-united-states-report-5754214)
     
-    5hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    1hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![North Korea Fires Multiple Ballistic Missiles Amid Heightened Tensions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Homeowership Rates Remain Stable in United States: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![North Korea Fires Multiple Ballistic Missiles Amid Heightened Tensions](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754142-GettyImages-2182314707-205x123.jpg.webp)](https://www.theepochtimes.com/world/north-korea-fires-multiple-ballistic-missiles-amid-heightened-tensions-5754066)
-* [Oregonians to Vote on Universal Basic Income, Ranked Choice Voting](https://www.theepochtimes.com/us/oregonians-to-vote-on-universal-basic-income-ranked-choice-voting-5753355)
+    ![Homeowership Rates Remain Stable in United States: Report](https://img.theepochtimes.com/assets/uploads/2024/01/15/id5566414-GettyImages-1739426931-205x123.jpeg.webp)](https://www.theepochtimes.com/us/homeowership-rates-remain-stable-in-united-states-report-5754214)
+* [Georgian Activists Mount 2nd Protest after Ruling Party’s Electoral Win](https://www.theepochtimes.com/world/georgian-activists-mount-2nd-protest-after-ruling-partys-electoral-win-5754272)
     
-    6hr By [Scottie Barnes](https://www.theepochtimes.com/author/scottie-barnes)
+    1hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
     
-    [![Oregonians to Vote on Universal Basic Income, Ranked Choice Voting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Georgian Activists Mount 2nd Protest after Ruling Party’s Electoral Win](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Oregonians to Vote on Universal Basic Income, Ranked Choice Voting](https://img.theepochtimes.com/assets/uploads/2022/11/18/Ballot-early-voting-1244623019--205x123.jpg.webp)](https://www.theepochtimes.com/us/oregonians-to-vote-on-universal-basic-income-ranked-choice-voting-5753355)
-* [At UN, US Accuses China, Russia of Protecting North Korea From Reprisal Over Nuclear Aggression](https://www.theepochtimes.com/us/at-un-us-accuses-china-russia-of-protecting-north-korea-from-reprisal-over-nuclear-aggression-5753817)
+    ![Georgian Activists Mount 2nd Protest after Ruling Party’s Electoral Win](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753954-GettyImages-2182229546-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/georgian-activists-mount-2nd-protest-after-ruling-partys-electoral-win-5754272)
+* [Top Georgia Election Official Says Most Georgia Results Will Likely Be in by 8pm](https://www.theepochtimes.com/us/top-georgia-election-official-says-most-georgia-results-will-likely-be-in-by-8pm-5754326)
     
-    6hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
+    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![At UN, US Accuses China, Russia of Protecting North Korea From Reprisal Over Nuclear Aggression](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Top Georgia Election Official Says Most Georgia Results Will Likely Be in by 8pm](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![At UN, US Accuses China, Russia of Protecting North Korea From Reprisal Over Nuclear Aggression](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750535-2024-10-30T095625Z_1_LYNXMPEK9T0CK_RTROPTP_4_NORTHKOREA-MISSILES-205x123.jpg.webp)](https://www.theepochtimes.com/us/at-un-us-accuses-china-russia-of-protecting-north-korea-from-reprisal-over-nuclear-aggression-5753817)
-* [New Orlean Saints Fire Head Coach Dennis Allen Amid Losing Streak](https://www.theepochtimes.com/sports/new-orlean-saints-fire-head-coach-dennis-allen-amid-losing-streak-5754098)
+    ![Top Georgia Election Official Says Most Georgia Results Will Likely Be in by 8pm](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752938-Election_2024_Absentee_Ballots_Georgia_24307721220522-205x123.jpg.webp)](https://www.theepochtimes.com/us/top-georgia-election-official-says-most-georgia-results-will-likely-be-in-by-8pm-5754326)
+* [Ukraine Says It Has Fired on North Korean Troops in Kursk](https://www.theepochtimes.com/world/ukraine-says-it-has-fired-on-north-korean-troops-in-kursk-5754183)
     
-    6hr By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
+    3hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
     
-    [![New Orlean Saints Fire Head Coach Dennis Allen Amid Losing Streak](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Ukraine Says It Has Fired on North Korean Troops in Kursk](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![New Orlean Saints Fire Head Coach Dennis Allen Amid Losing Streak](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754099-Image-205x123.jpeg.webp)](https://www.theepochtimes.com/sports/new-orlean-saints-fire-head-coach-dennis-allen-amid-losing-streak-5754098)
-* [More Than 1.1 Million Oregon Ballots Cast Ahead of Election Day](https://www.theepochtimes.com/us/more-than-1-1-million-oregon-ballots-cast-ahead-of-election-day-5754016)
+    ![Ukraine Says It Has Fired on North Korean Troops in Kursk](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753952-GettyImages-2182217411-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/ukraine-says-it-has-fired-on-north-korean-troops-in-kursk-5754183)
+* [Judges Deny Requests to Block DOJ Election Monitors](https://www.theepochtimes.com/us/judge-denies-missouri-request-to-block-doj-election-day-poll-monitors-5754239)
     
-    7hr By [Scottie Barnes](https://www.theepochtimes.com/author/scottie-barnes)
+    4hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![More Than 1.1 Million Oregon Ballots Cast Ahead of Election Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Judges Deny Requests to Block DOJ Election Monitors](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![More Than 1.1 Million Oregon Ballots Cast Ahead of Election Day](https://img.theepochtimes.com/assets/uploads/2022/11/08/vote_52291329697_o-205x123.jpeg.webp)](https://www.theepochtimes.com/us/more-than-1-1-million-oregon-ballots-cast-ahead-of-election-day-5754016)
-* [Joe Rogan Endorses Trump on Eve of Election Day](https://www.theepochtimes.com/us/joe-rogan-endorses-trump-on-eve-of-election-day-5754091)
+    ![Judges Deny Requests to Block DOJ Election Monitors](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754250-GettyImages-1412512152-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-denies-missouri-request-to-block-doj-election-day-poll-monitors-5754239)
+* [Dixville Notch Midnight Vote Kicks Off Election Day With Trump-Harris Tie](https://www.theepochtimes.com/us/trump-harris-tie-in-new-hampshires-dixville-notch-midnight-vote-5754173)
     
-    7hr By [Stephen Katte](https://www.theepochtimes.com/author/stephen-katte)
+    6hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
     
-    [![Joe Rogan Endorses Trump on Eve of Election Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Dixville Notch Midnight Vote Kicks Off Election Day With Trump-Harris Tie](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Joe Rogan Endorses Trump on Eve of Election Day](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740640-Trump_Rogan-rogan-trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/joe-rogan-endorses-trump-on-eve-of-election-day-5754091)
-* [Judge Dismisses Suit to Block Alleged Inactive Voters in Pennsylvania From Voting](https://www.theepochtimes.com/us/judge-dismisses-suit-to-block-alleged-inactive-voters-in-pennsylvania-from-voting-5753769)
+    ![Dixville Notch Midnight Vote Kicks Off Election Day With Trump-Harris Tie](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754259-first-votes-GettyImages-2182349034-LS-205x123.webp)](https://www.theepochtimes.com/us/trump-harris-tie-in-new-hampshires-dixville-notch-midnight-vote-5754173)
+* [Harris, Trump Offer Visions of Future During Closing Rallies in Battleground States](https://www.theepochtimes.com/us/trump-harris-offer-visions-of-future-during-closing-rallies-in-battleground-states-5732832)
     
-    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    6hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson) and [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
     
-    [![Judge Dismisses Suit to Block Alleged Inactive Voters in Pennsylvania From Voting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Harris, Trump Offer Visions of Future During Closing Rallies in Battleground States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Judge Dismisses Suit to Block Alleged Inactive Voters in Pennsylvania From Voting](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752791-GettyImages-2177885609-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-dismisses-suit-to-block-alleged-inactive-voters-in-pennsylvania-from-voting-5753769)
+    ![Harris, Trump Offer Visions of Future During Closing Rallies in Battleground States](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753868-Kamala-Harris-Donald-Trump-Candidates-2-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-harris-offer-visions-of-future-during-closing-rallies-in-battleground-states-5732832)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
