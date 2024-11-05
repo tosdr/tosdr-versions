@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can asbestos cause pancreatic cancer?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-can-asbestos-cause-pancreatic-cancer.jpg "Can Asbestos Cause Pancreatic Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-asbestos-cause-pancreatic-cancer/ "Can Asbestos Cause Pancreatic Cancer?")
+[![Do all asbestos workers get cancer?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-mesothelioma-lawyer-do-all-asbestos-workers-get-cancer-scaled.jpg "Do All Asbestos Workers Get Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/do-all-asbestos-workers-get-cancer/ "Do All Asbestos Workers Get Cancer?")
 
-[#### Can Asbestos Cause Pancreatic Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-asbestos-cause-pancreatic-cancer/)
+[#### Do All Asbestos Workers Get Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/do-all-asbestos-workers-get-cancer/)
 
-[![Is talc the same as talcum powder?](https://www.pintas.com/wp-content/uploads/2020/03/johnson-and-johnson-talcum-powder-lawsuit-lawyer-is-talc-the-same-as-talcum-powder.jpg "Is Talc the Same as Talcum Powder?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-the-same-as-talcum-powder/ "Is Talc the Same as Talcum Powder?")
+[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/faq/can-a-nursing-home-refuse-to-sign-the-death-certificate/ "Can a Nursing Home Refuse to Sign the Death Certificate?")
 
-[#### Is Talc the Same as Talcum Powder?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-the-same-as-talcum-powder/)
+[#### Can a Nursing Home Refuse to Sign the Death Certificate?](https://www.pintas.com/faq/can-a-nursing-home-refuse-to-sign-the-death-certificate/)
 
-[![What are signs of sepsis in the elderly?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-what-are-signs-of-sepsis-in-the-elderly-scaled-1.jpg "What Are Signs of Sepsis in the Elderly?")](https://www.pintas.com/faq/what-are-signs-of-sepsis-in-the-elderly/ "What Are Signs of Sepsis in the Elderly?")
+[![Can you have lung cancer with no symptoms?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancercan-you-have-lung-cancer-with-no-symptoms-scaled.jpg "Can You Have Lung Cancer With No Symptoms?")](https://www.pintas.com/practice-areas/lung-cancer/can-you-have-lung-cancer-with-no-symptoms/ "Can You Have Lung Cancer With No Symptoms?")
 
-[#### What Are Signs of Sepsis in the Elderly?](https://www.pintas.com/faq/what-are-signs-of-sepsis-in-the-elderly/)
+[#### Can You Have Lung Cancer With No Symptoms?](https://www.pintas.com/practice-areas/lung-cancer/can-you-have-lung-cancer-with-no-symptoms/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
