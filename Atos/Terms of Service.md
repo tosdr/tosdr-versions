@@ -141,15 +141,15 @@ Atos homepage](https://atos.net/en/)
         Press releases
         --------------
         
+        * [Atos signs binding agreement to sell Worldgrid to ALTEN for an enterprise value of €270 million](https://atos.net/en/2024/press-release_2024_11_05/atos-signs-binding-agreement-to-sell-worldgrid-to-alten-for-an-enterprise-value-of-e270-million)
         * [Atos Sustainable Workplace research finds device lifespan can double while still delighting users](https://atos.net/en/2024/press-release_2024_11_04/atos-sustainable-workplace-research-finds-device-lifespan-can-double-while-still-delighting-users)
         * [Eviden manages co-ordination of CYDERCO project for the European Cybersecurity Competence Center (ECCC)](https://atos.net/en/2024/press-release_2024_10_28/eviden-manages-co-ordination-of-cyderco-project-for-the-european-cybersecurity-competence-center-eccc)
-        * [US District Court for the Southern District of New York orders a new trial on compensatory damages in Atos’ litigation with TriZetto](https://atos.net/en/2024/press-release/financial-information-press-releases_2024_10_25/us-district-court-for-the-southern-district-of-new-york-orders-a-new-trial-on-compensatory-damages-in-atos-litigation-with-trizetto)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Nov 4, 2024
+        Nov 5, 2024
         
-        ### Atos Sustainable Workplace research finds device lifespan can double while still delighting users
+        ### Atos signs binding agreement to sell Worldgrid to ALTEN for an enterprise value of €270 million
         
     * [Atos Research Community](https://atos.net/en/atos-research-community)
         
