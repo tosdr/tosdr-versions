@@ -434,11 +434,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/katarina-radovic/zene/women/014.jpg?itok=SDu6ceU9)](http://seecult.org/galerija/galerija-umetnika/katarina-radovic/zenewomen)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/arhiva-skc-beograd/remek-dela-savremene-srpske-umetnosti-od-1968-do-danas/dragan-papic-0.?itok=cLDG7WHK)](http://seecult.org/galerija/galerija-umetnika/arhiva-skc-beograd/remek-dela-savremene-srpske-umetnosti-od-1968-do-danas)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![digitalizacija, nbs](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/digitalizacija/narodna-biblioteka-srbije/nbs-digi-17.jpg?itok=gp__agRe "digitalizacija, nbs")](http://seecult.org/galerija/foto-galerija/digitalizacija/narodna-biblioteka-srbije)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/supa.jpg?itok=X3IKKIUW)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
