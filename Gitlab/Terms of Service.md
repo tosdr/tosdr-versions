@@ -1256,6 +1256,7 @@
             * [ ]  [The Infrastructure Platforms Section](https://handbook.gitlab.com/handbook/engineering/infrastructure/platforms/)
                 * [ ]  [Infrastructure Platforms Tools Index](https://handbook.gitlab.com/handbook/engineering/infrastructure/platforms/tools/)
                     * [ ]  [Runway](https://handbook.gitlab.com/handbook/engineering/infrastructure/platforms/tools/runway/)
+                * [ ]  [SaaS Platforms Processes](https://handbook.gitlab.com/handbook/engineering/infrastructure/platforms/processes/)
                 * [ ]  [The Infrastructure SaaS Platforms Hiring Process](https://handbook.gitlab.com/handbook/engineering/infrastructure/platforms/hiring/)
                 * [ ]  [The Infrastructure SaaS Platforms OKRs](https://handbook.gitlab.com/handbook/engineering/infrastructure/platforms/okrs/)
                 * [ ]  [The Infrastructure SaaS Platforms Project Management](https://handbook.gitlab.com/handbook/engineering/infrastructure/platforms/project-management/)
