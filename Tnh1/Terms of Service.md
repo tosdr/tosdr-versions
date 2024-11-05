@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Vídeo: caminhão fica preso em fios elétricos e deixa postes danificados](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/7/csm_caminhao-preso-fios_d75f25eb37.jpg)
+   [![ Associação Comercial de Maceió lança nesta terça-feira, 05, a 12ª edição do Natal Premiado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/2/csm_Lancamento_Natal_Premiado_3adeb2bcbf.jpeg)
+
+Maceió
+
+Associação Comercial de Maceió lança nesta terça-feira, 05, a 12ª edição do Natal Premiado](https://www.tnh1.com.br/noticia/nid/associacao-comercial-de-maceio-lanca-nesta-terca-feira-05-a-12a-edicao-do-natal-premiado/ " Associação Comercial de Maceió lança nesta terça-feira, 05, a 12ª edição do Natal Premiado")   [![Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/4/csm_Jovens_sao_encontradas_em_Delmiro_Gouveia_-_foto_MPAL_d7e9721c16.jpeg)
+
+Interior
+
+Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia](https://www.tnh1.com.br/noticia/nid/crianca-e-adolescente-que-fugiram-de-casa-em-maceio-sao-encontradas-em-delmiro-gouveia/ "Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia")   [![Vídeo: caminhão fica preso em fios elétricos e deixa postes danificados](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/7/csm_caminhao-preso-fios_d75f25eb37.jpg)
 
 AL-101 Norte
 
-Vídeo: caminhão fica preso em fios elétricos e deixa postes danificados](https://www.tnh1.com.br/noticia/nid/video-caminhao-fica-preso-em-fios-eletricos-e-deixa-postes-danificados/ "Vídeo: caminhão fica preso em fios elétricos e deixa postes danificados")   [![Menina de 11 anos deixa bilhete para mãe após fugir de casa: “fui viver minha vida”](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/3/csm_bilhete_meninas_que_fugiram_aa7224b3bb.jpg)
+Vídeo: caminhão fica preso em fios elétricos e deixa postes danificados](https://www.tnh1.com.br/noticia/nid/video-caminhao-fica-preso-em-fios-eletricos-e-deixa-postes-danificados/ "Vídeo: caminhão fica preso em fios elétricos e deixa postes danificados")   [![Menina de 11 anos deixa bilhete para mãe após fugir de casa: “fui viver minha vida”](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/3/csm_bilhete_meninas_que_fugiram_aa7224b3bb.jpg)
 
 FAMÍLIA PREOCUPADA
 
-Menina de 11 anos deixa bilhete para mãe após fugir de casa: “fui viver minha vida”](https://www.tnh1.com.br/noticia/nid/menina-de-11-anos-deixa-bilhete-para-mae-apos-fugir-de-casa-fui-viver-minha-vida/ "Menina de 11 anos deixa bilhete para mãe após fugir de casa: “fui viver minha vida”")   [![Garota de programa leva tiro em frente a hotel na Pajuçara; suspeito fugiu](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/1/csm_viatura_pm_-_foto_arquivo_004c932c1b.jpg)
+Menina de 11 anos deixa bilhete para mãe após fugir de casa: “fui viver minha vida”](https://www.tnh1.com.br/noticia/nid/menina-de-11-anos-deixa-bilhete-para-mae-apos-fugir-de-casa-fui-viver-minha-vida/ "Menina de 11 anos deixa bilhete para mãe após fugir de casa: “fui viver minha vida”")   [![Garota de programa leva tiro em frente a hotel na Pajuçara; suspeito fugiu](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/1/csm_viatura_pm_-_foto_arquivo_004c932c1b.jpg)
 
 Foi socorrida
 
-Garota de programa leva tiro em frente a hotel na Pajuçara; suspeito fugiu](https://www.tnh1.com.br/noticia/nid/garota-de-programa-leva-tiro-em-frente-a-hotel-na-pajucara-suspeito-fugiu/ "Garota de programa leva tiro em frente a hotel na Pajuçara; suspeito fugiu")   [![MP-AL tenta localizar criança de 11 anos e adolescente de 16 que podem ter sumido juntas em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/a/csm_Ministerio_Publico_de_Alagoas_-_foto_MPAL_b04b6ae044.jpg)
+Garota de programa leva tiro em frente a hotel na Pajuçara; suspeito fugiu](https://www.tnh1.com.br/noticia/nid/garota-de-programa-leva-tiro-em-frente-a-hotel-na-pajucara-suspeito-fugiu/ "Garota de programa leva tiro em frente a hotel na Pajuçara; suspeito fugiu")   [![MP-AL tenta localizar criança de 11 anos e adolescente de 16 que podem ter sumido juntas em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/a/csm_Ministerio_Publico_de_Alagoas_-_foto_MPAL_b04b6ae044.jpg)
 
 Desaparecidas
 
-MP-AL tenta localizar criança de 11 anos e adolescente de 16 que podem ter sumido juntas em Maceió](https://www.tnh1.com.br/noticia/nid/mp-al-tenta-localizar-crianca-de-11-anos-e-adolescente-de-16-que-podem-ter-sumido-juntas-em-maceio/ "MP-AL tenta localizar criança de 11 anos e adolescente de 16 que podem ter sumido juntas em Maceió")   [![Veja quais bairros vão receber decoração natalina em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/d/csm_decoracao_natalina_-_foto_Jonathan_Lins_-_Secom_Maceio_5f6b2cafbe.jpeg)
-
-fim de ano
-
-Veja quais bairros vão receber decoração natalina em Maceió](https://www.tnh1.com.br/noticia/nid/veja-quais-bairros-vao-receber-decoracao-natalina-em-maceio/ "Veja quais bairros vão receber decoração natalina em Maceió")   [![Moradores dos Flexais ocupam canteiro de obras da Braskem em protesto por realocação](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/1/csm_prostesto_flexais_8b1215e5d8.png)
-
-em bebedouro
-
-Moradores dos Flexais ocupam canteiro de obras da Braskem em protesto por realocação](https://www.tnh1.com.br/noticia/nid/moradores-dos-flexais-ocupam-canteiro-de-obras-da-braskem-em-protesto-por-realocacao/ "Moradores dos Flexais ocupam canteiro de obras da Braskem em protesto por realocação")
+MP-AL tenta localizar criança de 11 anos e adolescente de 16 que podem ter sumido juntas em Maceió](https://www.tnh1.com.br/noticia/nid/mp-al-tenta-localizar-crianca-de-11-anos-e-adolescente-de-16-que-podem-ter-sumido-juntas-em-maceio/ "MP-AL tenta localizar criança de 11 anos e adolescente de 16 que podem ter sumido juntas em Maceió")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,7 +50,19 @@ Moradores dos Flexais ocupam canteiro de obras da Braskem em protesto por realoc
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Concurso da Prefeitura de Viçosa tem inscrições prorrogadas; veja nova data](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/d/csm_vicosa_alaogoas_cidades_89d5ac9cc4.jpeg)
+   [![MPF ajuíza 19 ações para regularização e segurança de barragens do DNOCS em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/5/csm_Barragem_Jaramataia_d2a22a7a99.jpg)
+
+Alagoas
+
+MPF ajuíza 19 ações para regularização e segurança de barragens do DNOCS em Alagoas](https://www.tnh1.com.br/noticia/nid/mpf-ajuiza-19-acoes-para-regularizacao-e-seguranca-de-barragens-do-dnocs-em-alagoas/ "MPF ajuíza 19 ações para regularização e segurança de barragens do DNOCS em Alagoas")   [![Aeromédico do Samu transporta paciente de MG para Maceió em trajeto de 18h](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/d/csm_Aeromedico_do_Samu_transporta_paciente_de_MG_para_Maceio_em_trajeto_de_18h_-_foto_Samu_AL_43207bdc82.jpg)
+
+57 anos
+
+Aeromédico do Samu transporta paciente de MG para Maceió em trajeto de 18h](https://www.tnh1.com.br/noticia/nid/aeromedico-do-samu-transporta-paciente-de-mg-para-maceio-em-trajeto-de-18h/ "Aeromédico do Samu transporta paciente de MG para Maceió em trajeto de 18h")   [![Pré Black Friday: Procon divulga preços para você se preparar para as promoções](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/c/csm_black-friday_5e9bc1b880.jpg)
+
+Economia
+
+Pré Black Friday: Procon divulga preços para você se preparar para as promoções](https://www.tnh1.com.br/noticia/nid/pre-black-friday-procon-divulga-precos-para-voce-se-preparar-para-as-promocoes/ "Pré Black Friday: Procon divulga preços para você se preparar para as promoções")   [![Concurso da Prefeitura de Viçosa tem inscrições prorrogadas; veja nova data](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/d/csm_vicosa_alaogoas_cidades_89d5ac9cc4.jpeg)
 
 176 vagas
 
@@ -62,19 +74,7 @@ Veja imagens do resgate das cinco pessoas que ficaram ilhadas na praia de Barra 
 
 Alagoas
 
-Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió](https://www.tnh1.com.br/noticia/nid/policia-combate-crimes-de-trafico-e-de-receptacao-em-sao-jose-da-tapera-e-maceio/ "Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió")   [![Jovem morre após se afogar na praia de Lagoa do Pau, em Coruripe](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/2/csm_corpo-de-bombeiros-salva-quatro-turistas-argentinos-de-afogamento-na-praia-do-frances_-_foto_Corpo_de_Bombeiros_a78260941c.jpg)
-
-Alagoas
-
-Jovem morre após se afogar na praia de Lagoa do Pau, em Coruripe](https://www.tnh1.com.br/noticia/nid/jovem-morre-apos-se-afogar-na-praia-de-lagoa-do-pau-em-coruripe/ "Jovem morre após se afogar na praia de Lagoa do Pau, em Coruripe")   [![Confira os ganhadores da edição deste domingo, 3, do Alagoas dá Sorte](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
-
-Alagoas
-
-Confira os ganhadores da edição deste domingo, 3, do Alagoas dá Sorte](https://www.tnh1.com.br/noticia/nid/confira-os-ganhadores-da-edicao-deste-domingo-3-do-alagoas-da-sorte/ "Confira os ganhadores da edição deste domingo, 3, do Alagoas dá Sorte")   [![Alagoas tem sete trechos de praias impróprios para banho; veja quais](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/8/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_c379360075.jpeg)
-
-balneabilidade
-
-Alagoas tem sete trechos de praias impróprios para banho; veja quais](https://www.tnh1.com.br/noticia/nid/alagoas-tem-sete-trechos-de-praias-improprios-para-banho-veja-quais/ "Alagoas tem sete trechos de praias impróprios para banho; veja quais")
+Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió](https://www.tnh1.com.br/noticia/nid/policia-combate-crimes-de-trafico-e-de-receptacao-em-sao-jose-da-tapera-e-maceio/ "Polícia combate crimes de tráfico e de receptação em São José da Tapera e Maceió")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,7 +82,19 @@ Alagoas tem sete trechos de praias impróprios para banho; veja quais](https://w
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![PF indicia militar da Marinha e irmão por ameaças de morte à família de Moraes](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/4/csm_alexandre_moraes_agencia_5f0cc6400c.png)
+   [![PM prende duas pessoas por suspeita de tráfico de drogas no interior do estado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/f/csm_policia-militar-prende-duas-pessoas-por-suspeita-de-trafico-de-drogas-no-interior_96d00d39a9.jpg)
+
+Polícia
+
+PM prende duas pessoas por suspeita de tráfico de drogas no interior do estado](https://www.tnh1.com.br/noticia/nid/pm-prende-duas-pessoas-por-suspeita-de-trafico-de-drogas-no-interior-do-estado/ "PM prende duas pessoas por suspeita de tráfico de drogas no interior do estado")   [![Suspeito de estuprar menino de 11 anos a caminho da escola é preso em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/d/csm_PC_prende_suspeito_de_estupro_de_vulneravel_contra_menino_de_11_anos_-_foto_Reproducao_PCAL_c1ab2f3d9e.jpg)
+
+47 anos
+
+Suspeito de estuprar menino de 11 anos a caminho da escola é preso em Maceió](https://www.tnh1.com.br/noticia/nid/suspeito-de-estuprar-menino-de-11-anos-a-caminho-da-escola-e-preso-em-maceio/ "Suspeito de estuprar menino de 11 anos a caminho da escola é preso em Maceió")   [![Flagrado por videomonitoramento, homem é preso suspeito de furtar fios de cobre](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/e/csm_suspeito_fios_53191ac504.jpg)
+
+Benedito Bentes
+
+Flagrado por videomonitoramento, homem é preso suspeito de furtar fios de cobre](https://www.tnh1.com.br/noticia/nid/flagrado-por-videomonitoramento-homem-e-preso-suspeito-de-furtar-fios-de-cobre/ "Flagrado por videomonitoramento, homem é preso suspeito de furtar fios de cobre")   [![PF indicia militar da Marinha e irmão por ameaças de morte à família de Moraes](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/4/csm_alexandre_moraes_agencia_5f0cc6400c.png)
 
 Por e-mail
 
@@ -94,19 +106,7 @@ Filha é apreendida após invadir casa da mãe e agredi-la com tapas no rosto, n
 
 'SPOT-FIXING"
 
-Bruno Henrique é alvo de operação após investigação apontar manipulação em jogo](https://www.tnh1.com.br/noticia/nid/bruno-henrique-e-alvo-de-operacao-apos-investigacao-apontar-manipulacao-em-jogo/ "Bruno Henrique é alvo de operação após investigação apontar manipulação em jogo")   [![Garota de programa leva tiro em frente a hotel na Pajuçara; suspeito fugiu](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/1/csm_viatura_pm_-_foto_arquivo_004c932c1b.jpg)
-
-Foi socorrida
-
-Garota de programa leva tiro em frente a hotel na Pajuçara; suspeito fugiu](https://www.tnh1.com.br/noticia/nid/garota-de-programa-leva-tiro-em-frente-a-hotel-na-pajucara-suspeito-fugiu/ "Garota de programa leva tiro em frente a hotel na Pajuçara; suspeito fugiu")   [![PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/e/csm_pm-apreende-drogas-e-prende-autor-de-violencia-domestica-durante-acoes-no-agreste-e-sertao_28c058043b.jpeg)
-
-Polícia
-
-PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão](https://www.tnh1.com.br/noticia/nid/pm-apreende-drogas-e-prende-autor-de-violencia-domestica-durante-acoes-no-agreste-e-sertao/ "PM apreende drogas e prende autor de violência doméstica durante ações no Agreste e Sertão")   [![Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/f/csm_mulher-agredida-tentativa-estupro-jacintinho_03a50416af.jpg)
-
-no jacintinho
-
-Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió](https://www.tnh1.com.br/noticia/nid/policia-prende-suspeito-que-agrediu-e-tentou-estuprar-mulher-na-porta-de-casa-em-maceio/ "Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió")
+Bruno Henrique é alvo de operação após investigação apontar manipulação em jogo](https://www.tnh1.com.br/noticia/nid/bruno-henrique-e-alvo-de-operacao-apos-investigacao-apontar-manipulacao-em-jogo/ "Bruno Henrique é alvo de operação após investigação apontar manipulação em jogo")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -212,15 +212,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![CSA anuncia contratação de atacante alagoano; veja elenco até o momento](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/8/csm_CSA-contrata-Klenisson_7fa975e925.jpg)
-
-Temporada 2025
-
-Temporada 2025
-
-CSA anuncia contratação de atacante alagoano; veja elenco até o momento
-
-CSA anuncia contratação de atacante alagoano; veja elenco até o momento](https://www.tnh1.com.br/noticia/nid/csa-anuncia-contratacao-de-atacante-alagoano-veja-elenco-ate-o-momento/ "CSA anuncia contratação de atacante alagoano; veja elenco até o momento")[![Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/5/csm_pesticida-saude-reproducao-freepik_0968393968.png)
+[![Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/5/csm_pesticida-saude-reproducao-freepik_0968393968.png)
 
 Exposição
 
@@ -228,7 +220,23 @@ Exposição
 
 Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais
 
-Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais](https://www.tnh1.com.br/noticia/nid/estudo-encontra-22-pesticidas-ligados-ao-cancer-de-prostata-veja-quais/ "Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais ")[![Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/8/csm_aguinaldo_rayol_59ea4ec98a.jpeg)
+Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais](https://www.tnh1.com.br/noticia/nid/estudo-encontra-22-pesticidas-ligados-ao-cancer-de-prostata-veja-quais/ "Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais ")[![CSA anuncia contratação de atacante alagoano; veja elenco até o momento](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/8/csm_CSA-contrata-Klenisson_7fa975e925.jpg)
+
+Temporada 2025
+
+Temporada 2025
+
+CSA anuncia contratação de atacante alagoano; veja elenco até o momento
+
+CSA anuncia contratação de atacante alagoano; veja elenco até o momento](https://www.tnh1.com.br/noticia/nid/csa-anuncia-contratacao-de-atacante-alagoano-veja-elenco-ate-o-momento/ "CSA anuncia contratação de atacante alagoano; veja elenco até o momento")[![Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/4/csm_Jovens_sao_encontradas_em_Delmiro_Gouveia_-_foto_MPAL_42636616d7.jpeg)
+
+Interior
+
+Interior
+
+Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia
+
+Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia](https://www.tnh1.com.br/noticia/nid/crianca-e-adolescente-que-fugiram-de-casa-em-maceio-sao-encontradas-em-delmiro-gouveia/ "Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia")[![Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/8/csm_aguinaldo_rayol_59ea4ec98a.jpeg)
 
 tinha 86 anos
 
@@ -236,49 +244,41 @@ tinha 86 anos
 
 Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa
 
-Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa](https://www.tnh1.com.br/noticia/nid/agnaldo-rayol-cantor-e-apresentador-morre-apos-levar-queda-em-casa/ "Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa ")[![Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/f/csm_mulher-agredida-tentativa-estupro-jacintinho_2f4484dbfe.jpg)
+Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa](https://www.tnh1.com.br/noticia/nid/agnaldo-rayol-cantor-e-apresentador-morre-apos-levar-queda-em-casa/ "Agnaldo Rayol, cantor e apresentador, morre após levar queda em casa ")
 
-no jacintinho
+[![Alagoas já registrou mais de 100 casos de febre Oropouche em 2024](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_Saude_confirma_obito_fetal_por_transmissao_vertical_de_Oropouche_-_foto_Sociedade_Brasileira_de_Medicina_Tropical_-_Divulgacao_fb3cab45d2.jpg)
 
-no jacintinho
+Saúde
 
-Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió
+Saúde
 
-Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió](https://www.tnh1.com.br/noticia/nid/policia-prende-suspeito-que-agrediu-e-tentou-estuprar-mulher-na-porta-de-casa-em-maceio/ "Polícia prende suspeito que agrediu e tentou estuprar mulher na porta de casa, em Maceió")
+Alagoas já registrou mais de 100 casos de febre Oropouche em 2024
 
-[![Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/c/csm_Praia-do-Sonho-Verde_divulgacao_f8d3e4d94c.jpg)
+Alagoas já registrou mais de 100 casos de febre Oropouche em 2024](https://www.tnh1.com.br/noticia/nid/alagoas-ja-registrou-mais-de-100-casos-de-febre-oropouche-em-2024/ "Alagoas já registrou mais de 100 casos de febre Oropouche em 2024")[![Dermatite atópica: novo medicamento é opção para casos moderados e graves](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/1/csm_hands-patient-suffering-from-psoriasis__1__4c9799eaf9.jpg)
 
-LEVADO A HOSPITAL
+fármaco injetável
 
-LEVADO A HOSPITAL
+fármaco injetável
 
-Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas
+Dermatite atópica: novo medicamento é opção para casos moderados e graves
 
-Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas](https://www.tnh1.com.br/noticia/nid/bombeiro-e-atacado-por-caes-em-praia-do-litoral-norte-de-alagoas/ "Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas")[![Kate Middleton e William ficaram chocados com repercussão de imagem editada dela com filhos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/a/csm_PRINCE_WILLIAM_AND_KATE_MIDDLETON_REPROCUCAO_REDES_SOCIAIS__be87053c83.jpg)
+Dermatite atópica: novo medicamento é opção para casos moderados e graves](https://www.tnh1.com.br/noticia/nid/dermatite-atopica-novo-medicamento-e-opcao-para-casos-moderados-e-graves/ "Dermatite atópica: novo medicamento é opção para casos moderados e graves")[![PM prende duas pessoas por suspeita de tráfico de drogas no interior do estado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/f/csm_policia-militar-prende-duas-pessoas-por-suspeita-de-trafico-de-drogas-no-interior_2c11948cc1.jpg)
 
-'Desproporcional'
+Polícia
 
-'Desproporcional'
+Polícia
 
-Kate Middleton e William ficaram chocados com repercussão de imagem editada dela com filhos
+PM prende duas pessoas por suspeita de tráfico de drogas no interior do estado
 
-Kate Middleton e William ficaram chocados com repercussão de imagem editada dela com filhos](https://www.tnh1.com.br/noticia/nid/kate-middleton-e-william-ficaram-chocados-com-repercussao-de-imagem-editada-dela-com-filhos/ "Kate Middleton e William ficaram chocados com repercussão de imagem editada dela com filhos")[!['A Fazenda 16': Sacha Bali desabafa e chora após provocações](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/4/csm_sacha-fazenda-reproducao_387082e290.jpg)
+PM prende duas pessoas por suspeita de tráfico de drogas no interior do estado](https://www.tnh1.com.br/noticia/nid/pm-prende-duas-pessoas-por-suspeita-de-trafico-de-drogas-no-interior-do-estado/ "PM prende duas pessoas por suspeita de tráfico de drogas no interior do estado")[![MPF ajuíza 19 ações para regularização e segurança de barragens do DNOCS em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/5/csm_Barragem_Jaramataia_ad8e890477.jpg)
 
-Discussão
+Alagoas
 
-Discussão
+Alagoas
 
-'A Fazenda 16': Sacha Bali desabafa e chora após provocações
+MPF ajuíza 19 ações para regularização e segurança de barragens do DNOCS em Alagoas
 
-'A Fazenda 16': Sacha Bali desabafa e chora após provocações](https://www.tnh1.com.br/noticia/nid/a-fazenda-16-sacha-bali-desabafa-e-chora-apos-provocacoes/ "'A Fazenda 16': Sacha Bali desabafa e chora após provocações")[![PF indicia militar da Marinha e irmão por ameaças de morte à família de Moraes](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/4/csm_alexandre_moraes_agencia_899bf5c347.png)
-
-Por e-mail
-
-Por e-mail
-
-PF indicia militar da Marinha e irmão por ameaças de morte à família de Moraes
-
-PF indicia militar da Marinha e irmão por ameaças de morte à família de Moraes](https://www.tnh1.com.br/noticia/nid/pf-indicia-militar-da-marinha-e-irmao-por-ameacas-de-morte-a-familia-de-moraes/ "PF indicia militar da Marinha e irmão por ameaças de morte à família de Moraes")
+MPF ajuíza 19 ações para regularização e segurança de barragens do DNOCS em Alagoas](https://www.tnh1.com.br/noticia/nid/mpf-ajuiza-19-acoes-para-regularizacao-e-seguranca-de-barragens-do-dnocs-em-alagoas/ "MPF ajuíza 19 ações para regularização e segurança de barragens do DNOCS em Alagoas")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
