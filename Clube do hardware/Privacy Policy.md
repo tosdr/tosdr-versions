@@ -134,35 +134,95 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Juizo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1231409.thumb.jpeg.2270bcfb0966a1d4c2148d987541c334.jpeg)](https://www.clubedohardware.com.br/profile/1231409-juizo/ "Ir ao perfil de Juizo")
+    * [![ratodeskate144p](https://www.clubedohardware.com.br/uploads/members/monthly_2021_10/126501781_ndice.thumb.jpg.ee5f7461dbd4a400dda05518b954c4db.jpg)](https://www.clubedohardware.com.br/profile/1113801-ratodeskate144p/ "Ir ao perfil de ratodeskate144p")
         
         0
+        
+        [RX 6600 XT, bom upgrade para A520M e Ryzen 5 4600g?](https://www.clubedohardware.com.br/forums/topic/1701532-rx-6600-xt-bom-upgrade-para-a520m-e-ryzen-5-4600g/?do=getNewComment "RX 6600 XT, bom upgrade para A520M e Ryzen 5 4600g?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [ratodeskate144p](https://www.clubedohardware.com.br/profile/1113801-ratodeskate144p/ "Ir ao perfil de ratodeskate144p")  
+        3 horas atrás
+        
+    * [![ArthurRX](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255570.thumb.png.6bdae3b81c9d45ecd75951701bf88f52.png)](https://www.clubedohardware.com.br/profile/1255570-arthurrx/ "Ir ao perfil de ArthurRX")
+        
+        3
+        
+        [Recomendação de placa-mãe para Ryzen 5 5600x com margem para upgrade no futuro](https://www.clubedohardware.com.br/forums/topic/1701531-recomenda%C3%A7%C3%A3o-de-placa-m%C3%A3e-para-ryzen-5-5600x-com-margem-para-upgrade-no-futuro/?do=getNewComment "Recomendação de placa-mãe para Ryzen 5 5600x com margem para upgrade no futuro")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [ArthurRX](https://www.clubedohardware.com.br/profile/1255570-arthurrx/ "Ir ao perfil de ArthurRX")  
+        5 horas atrás
+        
+    * [![Juninn](https://www.clubedohardware.com.br/uploads/members/monthly_2022_09/imported-photo-1197709.thumb.png.cde9323994d702b117dfb348b662eb5a.png)](https://www.clubedohardware.com.br/profile/1197709-juninn/ "Ir ao perfil de Juninn")
+        
+        3
+        
+        [Compensa comprar 4060 ti?](https://www.clubedohardware.com.br/forums/topic/1701530-compensa-comprar-4060-ti/?do=getNewComment "Compensa comprar 4060 ti?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Juninn](https://www.clubedohardware.com.br/profile/1197709-juninn/ "Ir ao perfil de Juninn")  
+        5 horas atrás
+        
+    * [![Pedron Fonsecon](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255569.thumb.jpeg.3a99efd9e5a646b09ef1f5dc65d3e521.jpeg)](https://www.clubedohardware.com.br/profile/1255569-pedron-fonsecon/ "Ir ao perfil de Pedron Fonsecon")
+        
+        6
+        
+        [Pc liga, não dá vídeo com processador, somente com placa de Vídeo](https://www.clubedohardware.com.br/forums/topic/1701529-pc-liga-n%C3%A3o-d%C3%A1-v%C3%ADdeo-com-processador-somente-com-placa-de-v%C3%ADdeo/?do=getNewComment "Pc liga, não dá vídeo com processador, somente com placa de Vídeo")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Pedron Fonsecon](https://www.clubedohardware.com.br/profile/1255569-pedron-fonsecon/ "Ir ao perfil de Pedron Fonsecon")  
+        5 horas atrás
+        
+    * [![taki26](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23626dc4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/361584-taki26/ "Ir ao perfil de taki26")
+        
+        3
+        
+        [Acabei de montar um PC e está saindo cheiro forte](https://www.clubedohardware.com.br/forums/topic/1701528-acabei-de-montar-um-pc-e-est%C3%A1-saindo-cheiro-forte/?do=getNewComment "Acabei de montar um PC e está saindo cheiro forte")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [taki26](https://www.clubedohardware.com.br/profile/361584-taki26/ "Ir ao perfil de taki26")  
+        5 horas atrás
+        
+    * [![Fabrício Serra](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23bb62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EFS%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255521-fabr%C3%ADcio-serra/ "Ir ao perfil de Fabrício Serra")
+        
+        1
+        
+        [Placa de vídeo apresentado artefatos em teste com API Vulkan](https://www.clubedohardware.com.br/forums/topic/1701527-placa-de-v%C3%ADdeo-apresentado-artefatos-em-teste-com-api-vulkan/?do=getNewComment "Placa de vídeo apresentado artefatos em teste com API Vulkan")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Fabrício Serra](https://www.clubedohardware.com.br/profile/1255521-fabr%C3%ADcio-serra/ "Ir ao perfil de Fabrício Serra")  
+        5 horas atrás
+        
+    * [![Juizo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1231409.thumb.jpeg.2270bcfb0966a1d4c2148d987541c334.jpeg)](https://www.clubedohardware.com.br/profile/1231409-juizo/ "Ir ao perfil de Juizo")
+        
+        1
         
         [TRAVAZAP, não consigo mais abrir o app](https://www.clubedohardware.com.br/forums/topic/1701526-travazap-n%C3%A3o-consigo-mais-abrir-o-app/?do=getNewComment "TRAVAZAP, não consigo mais abrir o app")
         
         [Vírus, malware, invasões e afins](https://www.clubedohardware.com.br/forums/forum/88-v%C3%ADrus-malware-invas%C3%B5es-e-afins/ "Vírus, malware, invasões e afins")  
         Por [Juizo](https://www.clubedohardware.com.br/profile/1231409-juizo/ "Ir ao perfil de Juizo")  
-        6 minutos atrás
+        6 horas atrás
         
     * [![epixeuzin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255568.thumb.jpeg.5d995d3febc6c2b04cef98a60d9d091e.jpeg)](https://www.clubedohardware.com.br/profile/1255568-epixeuzin/ "Ir ao perfil de epixeuzin")
         
-        1
+        2
         
         [placa-mãe ga-h61m-s1 funciona o xeon e3-1240-v2?](https://www.clubedohardware.com.br/forums/topic/1701525-placa-m%C3%A3e-ga-h61m-s1-funciona-o-xeon-e3-1240-v2/?do=getNewComment "placa-mãe ga-h61m-s1 funciona o xeon e3-1240-v2?")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
         Por [epixeuzin](https://www.clubedohardware.com.br/profile/1255568-epixeuzin/ "Ir ao perfil de epixeuzin")  
-        17 minutos atrás
+        6 horas atrás
         
     * [![pedro13s](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255565.thumb.jpeg.d1bd29c4952f999f237bf2be32eadd26.jpeg)](https://www.clubedohardware.com.br/profile/1255565-pedro13s/ "Ir ao perfil de pedro13s")
         
-        0
+        1
         
         [meu fps fica caindo o valorant rx6600 Ryzen 5600g](https://www.clubedohardware.com.br/forums/topic/1701524-meu-fps-fica-caindo-o-valorant-rx6600-ryzen-5600g/?do=getNewComment "meu fps fica caindo o valorant rx6600 Ryzen 5600g")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
         Por [pedro13s](https://www.clubedohardware.com.br/profile/1255565-pedro13s/ "Ir ao perfil de pedro13s")  
-        48 minutos atrás
+        6 horas atrás
         
     * [![Raivos](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254912.thumb.jpeg.f40c9465dbe7b41f4d7a2634e326e044.jpeg)](https://www.clubedohardware.com.br/profile/1254912-raivos/ "Ir ao perfil de Raivos")
         
@@ -172,67 +232,7 @@ Política de privacidade
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
         Por [Raivos](https://www.clubedohardware.com.br/profile/1254912-raivos/ "Ir ao perfil de Raivos")  
-        54 minutos atrás
-        
-    * [![isaias lucas azevedo](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1092155.thumb.jpeg.03e0d742f38630f8adfc0a6d367ae092.jpeg)](https://www.clubedohardware.com.br/profile/1092155-isaias-lucas-azevedo/ "Ir ao perfil de isaias lucas azevedo")
-        
-        0
-        
-        [precisso de parafusos pra preender minha rx 550 4gb vram no gabinete tgt erion .](https://www.clubedohardware.com.br/forums/topic/1701522-precisso-de-parafusos-pra-preender-minha-rx-550-4gb-vram-no-gabinete-tgt-erion/?do=getNewComment "precisso de parafusos pra preender minha rx 550 4gb vram no gabinete tgt erion .")
-        
-        [Quais jogos meu PC roda?](https://www.clubedohardware.com.br/forums/forum/277-quais-jogos-meu-pc-roda/ "Quais jogos meu PC roda?")  
-        Por [isaias lucas azevedo](https://www.clubedohardware.com.br/profile/1092155-isaias-lucas-azevedo/ "Ir ao perfil de isaias lucas azevedo")  
-        1 hora atrás
-        
-    * [![lucas12201abc](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1249559.thumb.png.fba6c3cf6df881bb735c72a8563b670d.png)](https://www.clubedohardware.com.br/profile/1249559-lucas12201abc/ "Ir ao perfil de lucas12201abc")
-        
-        0
-        
-        [Armazenamento com espaço sendo consumido sozinho](https://www.clubedohardware.com.br/forums/topic/1701521-armazenamento-com-espa%C3%A7o-sendo-consumido-sozinho/?do=getNewComment "Armazenamento com espaço sendo consumido sozinho")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [lucas12201abc](https://www.clubedohardware.com.br/profile/1249559-lucas12201abc/ "Ir ao perfil de lucas12201abc")  
-        1 hora atrás
-        
-    * [![MaatMDS](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251480.thumb.png.3637dfb98ba1a52fa0238af68d514af1.png)](https://www.clubedohardware.com.br/profile/1251480-maatmds/ "Ir ao perfil de MaatMDS")
-        
-        0
-        
-        [Alto uso da CPU: RX 6600 + i5 8400](https://www.clubedohardware.com.br/forums/topic/1701518-alto-uso-da-cpu-rx-6600-i5-8400/?do=getNewComment "Alto uso da CPU: RX 6600 + i5 8400")
-        
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [MaatMDS](https://www.clubedohardware.com.br/profile/1251480-maatmds/ "Ir ao perfil de MaatMDS")  
-        1 hora atrás
-        
-    * [![Rafael_001](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1233408.thumb.png.f5994847efa56997965732a1a24d3075.png)](https://www.clubedohardware.com.br/profile/1233408-rafael_001/ "Ir ao perfil de Rafael_001")
-        
-        1
-        
-        [Intel Core i5 11500, nunca ouvi falar, é bom?](https://www.clubedohardware.com.br/forums/topic/1701517-intel-core-i5-11500-nunca-ouvi-falar-%C3%A9-bom/?do=getNewComment "Intel Core i5 11500, nunca ouvi falar, é bom?")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Rafael\_001](https://www.clubedohardware.com.br/profile/1233408-rafael_001/ "Ir ao perfil de Rafael_001")  
-        1 hora atrás
-        
-    * [![ViFe](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47a62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1247837-vife/ "Ir ao perfil de ViFe")
-        
-        1
-        
-        [Qual gpu combina melhor com i5 quarta geração?](https://www.clubedohardware.com.br/forums/topic/1701516-qual-gpu-combina-melhor-com-i5-quarta-gera%C3%A7%C3%A3o/?do=getNewComment "Qual gpu combina melhor com i5 quarta geração?")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [ViFe](https://www.clubedohardware.com.br/profile/1247837-vife/ "Ir ao perfil de ViFe")  
-        1 hora atrás
-        
-    * [![Kai-que](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253646.thumb.png.52d5cd1a75692469d4900238585c2df6.png)](https://www.clubedohardware.com.br/profile/1253646-kai-que/ "Ir ao perfil de Kai-que")
-        
-        0
-        
-        [A imagem é som do computador some do nada depois de um tempo](https://www.clubedohardware.com.br/forums/topic/1701515-a-imagem-%C3%A9-som-do-computador-some-do-nada-depois-de-um-tempo/?do=getNewComment "A imagem é som do computador some do nada depois de um tempo")
-        
-        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
-        Por [Kai-que](https://www.clubedohardware.com.br/profile/1253646-kai-que/ "Ir ao perfil de Kai-que")  
-        2 horas atrás
+        6 horas atrás
         
     
 
@@ -268,7 +268,7 @@ Política de privacidade
         
         [Vídeo](https://www.clubedohardware.com.br/artigos/video/ "Vídeo")  
         Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")  
-        2 horas atrás
+        8 horas atrás
         
     * ![Tabela comparativa dos chips GeForce da NVIDIA (notebooks)](https://www.clubedohardware.com.br/uploads/cms/monthly_2023_04/36351_icone.thumb.jpg.9600505388de928d543e36160574c511.jpg "Tabela comparativa dos chips GeForce da NVIDIA (notebooks)")
         
@@ -278,7 +278,7 @@ Política de privacidade
         
         [Vídeo](https://www.clubedohardware.com.br/artigos/video/ "Vídeo")  
         Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")  
-        2 horas atrás
+        8 horas atrás
         
     * ![Tabela comparativa dos chips Radeon da AMD (notebooks)](https://www.clubedohardware.com.br/uploads/cms/monthly_2024_03/36443_icone.thumb.jpg.282dc0932c52c6fb2cff7c4fb1218a3e.jpg "Tabela comparativa dos chips Radeon da AMD (notebooks)")
         
