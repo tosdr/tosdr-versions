@@ -239,6 +239,8 @@ COMPANY
 
 [Insider Blog](https://www.avon.com/blog)
 
+[Studio 1886 LA](https://www.avon.com/studio-1886)
+
 [Careers](https://www.avon.com/careers/working-at-avon)
 
 [Press](https://www.avon.com/information/press)
@@ -246,6 +248,8 @@ COMPANY
 [Corporate Responsibility](https://www.avon.com/information/corporate-responsibility)
 
 [Avon Worldwide (API)](https://www.avonworldwide.com/)
+
+Temporary Title
 
 [SUPPORT](https://www.avon.com/support)
 
