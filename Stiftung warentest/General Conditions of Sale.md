@@ -585,21 +585,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
-* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
-* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
-* [Long Covid: Von Corona ausgebremst – Wo Sie Hilfe finden](https://www.test.de/Long-Covid-Ploetzlich-ausgebremst-5933790-0/ "Long Covid - Von Corona ausgebremst – Wo Sie Hilfe finden")
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
-* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
+* [Dubiose Fest­gelder: Vaduzer Verstecken](https://www.test.de/Dubiose-Festgelder-Vaduzer-Verstecken-6029799-0/ "Dubiose Festgelder - Vaduzer Verstecken")
+* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
+* [Cookies: Banner-Blocker einer Verbraucherzentrale](https://www.test.de/Cookies-Banner-Blocker-einer-Verbraucherzentrale-5936842-0/ "Cookies - Banner-Blocker einer Verbraucherzentrale")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
 
 Fußbereich
 
@@ -2720,21 +2720,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
-* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
-* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
-* [Long Covid: Von Corona ausgebremst – Wo Sie Hilfe finden](https://www.test.de/Long-Covid-Ploetzlich-ausgebremst-5933790-0/ "Long Covid - Von Corona ausgebremst – Wo Sie Hilfe finden")
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
-* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
+* [Dubiose Fest­gelder: Vaduzer Verstecken](https://www.test.de/Dubiose-Festgelder-Vaduzer-Verstecken-6029799-0/ "Dubiose Festgelder - Vaduzer Verstecken")
+* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
+* [Cookies: Banner-Blocker einer Verbraucherzentrale](https://www.test.de/Cookies-Banner-Blocker-einer-Verbraucherzentrale-5936842-0/ "Cookies - Banner-Blocker einer Verbraucherzentrale")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2776,39 +2776,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
-* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
-* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
-* [Long Covid: Von Corona ausgebremst – Wo Sie Hilfe finden](https://www.test.de/Long-Covid-Ploetzlich-ausgebremst-5933790-0/ "Long Covid - Von Corona ausgebremst – Wo Sie Hilfe finden")
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
-* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
+* [Dubiose Fest­gelder: Vaduzer Verstecken](https://www.test.de/Dubiose-Festgelder-Vaduzer-Verstecken-6029799-0/ "Dubiose Festgelder - Vaduzer Verstecken")
+* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
+* [Cookies: Banner-Blocker einer Verbraucherzentrale](https://www.test.de/Cookies-Banner-Blocker-einer-Verbraucherzentrale-5936842-0/ "Cookies - Banner-Blocker einer Verbraucherzentrale")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
 
 Neueste Tests
 
+* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
-* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
-* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
-* [Long Covid: Von Corona ausgebremst – Wo Sie Hilfe finden](https://www.test.de/Long-Covid-Ploetzlich-ausgebremst-5933790-0/ "Long Covid - Von Corona ausgebremst – Wo Sie Hilfe finden")
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
-* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
+* [Dubiose Fest­gelder: Vaduzer Verstecken](https://www.test.de/Dubiose-Festgelder-Vaduzer-Verstecken-6029799-0/ "Dubiose Festgelder - Vaduzer Verstecken")
+* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
+* [Cookies: Banner-Blocker einer Verbraucherzentrale](https://www.test.de/Cookies-Banner-Blocker-einer-Verbraucherzentrale-5936842-0/ "Cookies - Banner-Blocker einer Verbraucherzentrale")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
 
 Service Stiftung Warentest
 
