@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)7°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)8°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,24 +54,24 @@
 
 Thèmes du moment
 
-* [Musique](https://www.watson.ch/fr/musique/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Russie](https://www.watson.ch/fr/russie/)
+* [Animaux](https://www.watson.ch/fr/animaux/)
+* [Analyse](https://www.watson.ch/fr/analyse/)
 * [Poutine](https://www.watson.ch/fr/poutine/)
-* [Insolite](https://www.watson.ch/fr/insolite/)
 * [Immobilier](https://www.watson.ch/fr/immobilier/)
 * [Best of watson](https://www.watson.ch/fr/best-of-watson/)
 * [Paris](https://www.watson.ch/fr/paris/)
+* [Vidéo](https://www.watson.ch/fr/video/)
 * [Coupe du monde](https://www.watson.ch/fr/coupe-du-monde/)
-* [Logement](https://www.watson.ch/fr/logement/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [Politique](https://www.watson.ch/fr/politique/)
+* [Environnement](https://www.watson.ch/fr/environnement/)
+* [élections](https://www.watson.ch/fr/elections/)
+* [voiture](https://www.watson.ch/fr/voiture/)
+* [Ecole](https://www.watson.ch/fr/ecole/)
 * [People](https://www.watson.ch/fr/people/)
 * [Chine](https://www.watson.ch/fr/chine/)
-* [Argent](https://www.watson.ch/fr/argent/)
-* [Femmes](https://www.watson.ch/fr/femmes/)
-* [France](https://www.watson.ch/fr/france/)
 * [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
+* [France](https://www.watson.ch/fr/france/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
