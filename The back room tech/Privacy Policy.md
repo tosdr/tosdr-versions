@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2043'%3E%3C/svg%3E)
+    
+    ![](https://s11921.pcdn.co/wp-content/uploads/task-scheduler-80x43.png)](https://thebackroomtech.com/2009/04/22/fix-0x80070005-access-is-denied-when-running-scheduled-task-as-a-non-administrator/ "Fix: 0×80070005: Access is denied when running scheduled task as a non-administrator")[Fix: 0×80070005: Access is denied when running scheduled task as a non-administrator](https://thebackroomtech.com/2009/04/22/fix-0x80070005-access-is-denied-when-running-scheduled-task-as-a-non-administrator/ "Fix: 0×80070005: Access is denied when running scheduled task as a non-administrator")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2040'%3E%3C/svg%3E)
+    
+    ![](https://s11921.pcdn.co/wp-content/uploads/remove-framepkg-exe-80x40.png)](https://thebackroomtech.com/2009/02/17/reinstalling-the-mcafee-common-management-agent-framework-framepkgexe-without-a-reboot/ "Reinstalling the McAfee Common Management Agent Framework (framepkg.exe) without a reboot")[Reinstalling the McAfee Common Management Agent Framework (framepkg.exe) without a reboot](https://thebackroomtech.com/2009/02/17/reinstalling-the-mcafee-common-management-agent-framework-framepkgexe-without-a-reboot/ "Reinstalling the McAfee Common Management Agent Framework (framepkg.exe) without a reboot")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2027'%3E%3C/svg%3E)
+    
+    ![](https://s11921.pcdn.co/wp-content/uploads/nginx-80x27.png)](https://thebackroomtech.com/2019/01/28/configure-nginx-reverse-proxy-step-by-step/ "Configure NGINX Reverse Proxy – Step by Step")[Configure NGINX Reverse Proxy – Step by Step](https://thebackroomtech.com/2019/01/28/configure-nginx-reverse-proxy-step-by-step/ "Configure NGINX Reverse Proxy – Step by Step")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2042'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/Cisco-VPN-Setup-main-80x42.jpg.optimal.jpg)](https://thebackroomtech.com/2019/08/19/how-to-set-up-a-vpn-with-cisco/ "How To Set Up a VPN With Cisco")[How To Set Up a VPN With Cisco](https://thebackroomtech.com/2019/08/19/how-to-set-up-a-vpn-with-cisco/ "How To Set Up a VPN With Cisco")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2047'%3E%3C/svg%3E)
-    
-    ![](https://s11921.pcdn.co/wp-content/uploads/dell-idrac-80x47.png)](https://thebackroomtech.com/2009/01/06/howto-change-the-ip-address-of-a-dell-4p-drac-from-the-command-line-without-rebooting-the-server/ "Howto: Change the IP Address of a Dell 4/P DRAC from the Command Line Without Rebooting")[Howto: Change the IP Address of a Dell 4/P DRAC from the Command Line Without Rebooting](https://thebackroomtech.com/2009/01/06/howto-change-the-ip-address-of-a-dell-4p-drac-from-the-command-line-without-rebooting-the-server/ "Howto: Change the IP Address of a Dell 4/P DRAC from the Command Line Without Rebooting")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2037'%3E%3C/svg%3E)
-    
-    ![](https://s11921.pcdn.co/wp-content/uploads/script-code-80x37.jpg.optimal.jpg)](https://thebackroomtech.com/2009/12/07/script-to-remotely-list-windows-local-administrator-group-membership/ "Script to Remotely List Windows Local Administrator Group Membership")[Script to Remotely List Windows Local Administrator Group Membership](https://thebackroomtech.com/2009/12/07/script-to-remotely-list-windows-local-administrator-group-membership/ "Script to Remotely List Windows Local Administrator Group Membership")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2045%2052'%3E%3C/svg%3E)
-    
-    ![](https://s11921.pcdn.co/wp-content/uploads/permission-entries-45x52.jpg.optimal.jpg)](https://thebackroomtech.com/2009/07/01/howto-delegate-the-enabledisable-accounts-permission-in-active-directory/ "Howto: Delegate the Enable/Disable Accounts Permission in Active Directory")[Howto: Delegate the Enable/Disable Accounts Permission in Active Directory](https://thebackroomtech.com/2009/07/01/howto-delegate-the-enabledisable-accounts-permission-in-active-directory/ "Howto: Delegate the Enable/Disable Accounts Permission in Active Directory")
+    ![](https://s11921.pcdn.co/wp-content/uploads/usb-device-80x42.jpg.optimal.jpg)](https://thebackroomtech.com/2019/03/19/attach-a-usb-device-to-a-virtual-machine-in-vmware/ "Attach a USB Device to a Virtual Machine in VMware")[Attach a USB Device to a Virtual Machine in VMware](https://thebackroomtech.com/2019/03/19/attach-a-usb-device-to-a-virtual-machine-in-vmware/ "Attach a USB Device to a Virtual Machine in VMware")
 
 #### Our Publishing Family
 
