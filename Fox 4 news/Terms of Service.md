@@ -91,16 +91,6 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
-[River Flood Warning
-
-from MON 4:34 PM CST until TUE 6:08 AM CST, Dallas County](https://www.fox4news.com/weather-alerts)
-
-2
-
-[Flash Flood Warning
-
-until TUE 2:00 AM CST, Red River County](https://www.fox4news.com/weather-alerts)
-
 Terms of Use
 ============
 
