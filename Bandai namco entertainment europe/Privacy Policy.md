@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [Uncover the truth or deceive to win in DEATH NOTE KILLER WITHIN, available now](https://en.bandainamcoent.eu/death-note/news/uncover-the-truth-or-deceive-win-death-note-killer-within-available-now)
 * [DEATH NOTE Killer Within – The Official Rules to survive](https://en.bandainamcoent.eu/death-note/news/death-note-killer-within-the-official-rules-survive)
-* [DEATH NOTE Killer Within coming to PlayStation and PC on November 5](https://en.bandainamcoent.eu/death-note/news/death-note-killer-within-coming-playstation-and-pc-november-5)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
