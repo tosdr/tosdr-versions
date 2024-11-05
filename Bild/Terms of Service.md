@@ -205,6 +205,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+Israel-Premier Netanjahu feuert Verteidigungsminister
+
+Israel-Premier Netanjahu feuert Verteidigungsminister
+
+Israel-Premier Netanjahu feuert Verteidigungsminister
+
+Israel-Premier Netanjahu feuert Verteidigungsminister
+
+Israel-Premier Netanjahu feuert Verteidigungsminister
+
+Israel-Premier Netanjahu feuert Verteidigungsminister
+
+Israel-Premier Netanjahu feuert Verteidigungsminister
+
+Israel-Premier Netanjahu feuert Verteidigungsminister
+
+Israel-Premier Netanjahu feuert Verteidigungsminister
+
+Israel-Premier Netanjahu feuert Verteidigungsminister](https://www.bild.de/politik/ausland-und-internationales/israel-hammer-netanjahu-feuert-seinen-verteidigungsminister-672a5e8aebdb8724738e98c7)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
