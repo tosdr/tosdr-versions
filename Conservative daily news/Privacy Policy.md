@@ -182,16 +182,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Decision 2024: The Choice is Clear, Gun Owners Must Oppose Kamala Harris and Her Extreme Anti-Gun Agenda](https://www.thegunpage.com/decision-2024-the-choice-is-clear-gun-owners-must-oppose-kamala-harris-and-her-extreme-anti-gun-agenda/10611660)
+* [Why Gun Owners Can’t Sit Out This Election](https://www.thegunpage.com/why-gun-owners-cant-sit-out-this-election/10611657)
+* [NordArm Introduces Their GEN 3 Blank Firing Adapter for M2 Browning](https://www.thegunpage.com/nordarm-introduces-their-gen-3-blank-firing-adapter-for-m2-browning/10611655)
 * [The Banish Backcountry Suppressor Review](https://www.thegunpage.com/the-banish-backcountry-suppressor-review/10611653)
+* [Heritage Badlander Field Models, For Old-School Hunting](https://www.thegunpage.com/heritage-badlander-field-models-for-old-school-hunting/10611656)
 * [9mm Vs. 10mm: Self-Defense Battle In New Hampshire Parking Lot](https://www.thegunpage.com/9mm-vs-10mm-self-defense-battle-in-new-hampshire-parking-lot/10611650)
 * [Top FIVE 3D Printed Guns ft. Print Shoot Repeat!](https://www.thegunpage.com/top-five-3d-printed-guns-ft-print-shoot-repeat/10611646)
 * [Ohio City Drops Park Gun Ban Thanks To Alert Citizen](https://www.thegunpage.com/ohio-city-drops-park-gun-ban-thanks-to-alert-citizen/10611644)
+* [Silencer Central, Guns.com Join Forces For Suppressor Fulfillment](https://www.thegunpage.com/silencer-central-guns-com-join-forces-for-suppressor-fulfillment/10611654)
 * [TFB Weekly Web Deals 112: Deals for November 4th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-112-deals-for-november-4th-2024/10611647)
-* [2024 NSCA National Championship: Team Winchester’s Matarese Secures Third Place In Main Event](https://www.thegunpage.com/2024-nsca-national-championship-team-winchesters-matarese-secures-third-place-in-main-event/10611652)
-* [Magpul’s New PMAG 20 LR/SR GEN M3 Magazine Has Round Count Verification Window](https://www.thegunpage.com/magpuls-new-pmag-20-lr-sr-gen-m3-magazine-has-round-count-verification-window/10611645)
-* [Foxtrot Mike and KAK Suppressed .45 ACP Build](https://www.thegunpage.com/foxtrot-mike-and-kak-suppressed-45-acp-build/10611638)
-* [Texas AG, Fairgoers Sue Over State Fair Carry Ban](https://www.thegunpage.com/texas-ag-fairgoers-sue-over-state-fair-carry-ban/10611636)
-* [CMP Class Teaches Advanced M1 Garand Rifle Maintenance](https://www.thegunpage.com/cmp-class-teaches-advanced-m1-garand-rifle-maintenance/10611631)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -233,6 +233,7 @@ Contact Us
 
 Recent Comments
 
+* Not\_Represented on [Voter Says He Cast Ballot For Harris As He Fears Her Supporters Would Go Nuts If She Loses](https://www.conservativedailynews.com/2024/11/voter-says-he-cast-ballot-for-harris-as-he-fears-her-supporters-would-go-nuts-if-she-loses/#comment-783024)
 * charles wilkins on [Turning the Page](https://www.conservativedailynews.com/2024/11/turning-the-page/#comment-783017)
 * Richard McDonough on [Ana Kasparian the Latest “Progressive” to Leave the “Cruel” Intolerant Left](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/#comment-783016)
 * Sundevil75 on [Legalizing Pot In Florida Is A Bad Idea — Just Ask Colorado and California](https://www.conservativedailynews.com/2024/11/legalizing-pot-in-florida-is-a-bad-idea-just-ask-colorado-and-california/#comment-783007)
@@ -241,7 +242,6 @@ Recent Comments
 * TMann on [President Joe Biden’s Schedule for Saturday, November 2, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-saturday-november-2-2024/#comment-782998)
 * Stanley Warner on [Court Orders Swing State To Release List Of Over 200,000 Registered Voters Who Did Not Provide Proof Of Citizenship](https://www.conservativedailynews.com/2024/11/court-orders-swing-state-to-release-list-of-over-200000-registered-voters-who-did-not-provide-proof-of-citizenship/#comment-782997)
 * Stanley Warner on [Problem-Riddled Boeing Axes Entire Diversity Division](https://www.conservativedailynews.com/2024/11/problem-riddled-boeing-axes-entire-diversity-division/#comment-782996)
-* Stanley Warner on [Ana Kasparian the Latest “Progressive” to Leave the “Cruel” Intolerant Left](https://www.conservativedailynews.com/2024/11/ana-kasparian-the-latest-progressive-to-leave-the-cruel-intolerant-left/#comment-782995)
 
 [Close](#)
 
