@@ -26,7 +26,6 @@ The username/email and password combination you entered was not found. Please tr
 * [Political Quiz](https://www.theadvocates.org/quiz/)
 * [Political Surveys](https://www.theadvocates.org/single-issue-surveys/)
 * [Compare Political Types](https://www.theadvocates.org/political-type-comparison/)
-* [Human Respect Tests](https://www.theadvocates.org/human-respect-tests/)
 * [Articles](https://www.theadvocates.org/articles/)
 * [Our Mission](https://www.theadvocates.org/about/)
 * [Shop](https://shop.theadvocates.org/)
@@ -54,12 +53,6 @@ Enable Dark Mode
     
     Read more](https://www.theadvocates.org/human-respect-tests/)
     
-    [Political Surveys
-    
-    Survey and compare your beliefs
-    
-    Read more](https://www.theadvocates.org/single-issue-surveys/)
-    
     [Compare Political Types
     
     Learn About The Nolan Chart
@@ -67,6 +60,99 @@ Enable Dark Mode
     Read more](https://www.theadvocates.org/political-type-comparison/)
     
     Most Popular
+    
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/05/asg-whitehouse-resized.jpeg)
+        
+        ### The World’s Smallest Political Quiz
+        
+        Discover your political type and what your answers mean
+        
+        Read more
+        
+        23242153 Respondents  
+        by **The Advocates**
+        
+        Duration
+        
+        2.5 Min](https://www.theadvocates.org/qep/the-worlds-smallest-political-quiz/)
+        
+    * [![](https://www.theadvocates.org/wp-content/uploads/2020/07/FB_graphics_Progressive-resized.png)
+        
+        ### Human Respect Test for Progressives
+        
+        Explore the dynamics of political persuasion and coercion… Which do you prefer?
+        
+        Read more
+        
+        13330 Respondents  
+        by **The Advocates**
+        
+        Duration
+        
+        12 Min](https://www.theadvocates.org/qep/hrt-progressive/)
+        
+    * [![](https://www.theadvocates.org/wp-content/uploads/2020/07/FB_graphics_Conservative-resized.png)
+        
+        ### Human Respect Test for Conservatives
+        
+        Explore the dynamics of political persuasion and coercion… Which do you prefer?
+        
+        Read more
+        
+        1140 Respondents  
+        by **The Advocates**
+        
+        Duration
+        
+        5 Min](https://www.theadvocates.org/qep/hrt-conservative/)
+        
+    * [![](https://www.theadvocates.org/wp-content/uploads/2020/07/FB_graphics_Moderate-resized.png)
+        
+        ### Human Respect Test for Moderates
+        
+        Explore the dynamics of political persuasion and coercion… Which do you prefer?
+        
+        Read more
+        
+        13850 Respondents  
+        by **The Advocates**
+        
+        Duration
+        
+        5 Min](https://www.theadvocates.org/qep/hrt-moderate/)
+        
+    * [![](https://www.theadvocates.org/wp-content/uploads/2020/07/FB_graphics_Authoritarian-resized.png)
+        
+        ### Human Respect Test for Authoritarians
+        
+        Explore the dynamics of political persuasion and coercion… Which do you prefer?
+        
+        Read more
+        
+        610 Respondents  
+        by **The Advocates**
+        
+        Duration
+        
+        5 Min](https://www.theadvocates.org/qep/hrt-authoritarian/)
+        
+    * [![](https://www.theadvocates.org/wp-content/uploads/2020/07/FB_graphics_Libertarian-resized.png)
+        
+        ### Human Respect Test for Libertarians
+        
+        Explore the dynamics of political persuasion and coercion… Which do you prefer?
+        
+        Read more
+        
+        13020 Respondents  
+        by **The Advocates**
+        
+        Duration
+        
+        5 Min](https://www.theadvocates.org/qep/hrt-libertarian/)
+        
+    
+    [](#)[](#)
     
     [See All Quizzes](https://www.theadvocates.org/quizzes/)
     
