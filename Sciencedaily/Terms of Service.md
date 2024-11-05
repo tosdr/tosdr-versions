@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 4, 2024**
+**November 5, 2024**
 
 * * *
 
@@ -249,19 +249,19 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
+[Wounds and Healing](https://www.sciencedaily.com/news/health_medicine/wounds_and_healing/)
 
 [Lymphoma](https://www.sciencedaily.com/news/health_medicine/lymphoma/)
 
-[Skin Cancer](https://www.sciencedaily.com/news/health_medicine/skin_cancer/)
+[Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Big Bang](https://www.sciencedaily.com/news/space_time/big_bang/)
 
-[Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
-
 [Satellites](https://www.sciencedaily.com/news/space_time/satellites/)
+
+[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
