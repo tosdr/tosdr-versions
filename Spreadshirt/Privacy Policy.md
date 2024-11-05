@@ -775,4 +775,4 @@ English (US)
 * [Polski](https://service.spreadshirt.com/hc/change_language/pl?return_to=%2Fhc%2Fpl%2Farticles%2F115000978409-Ochrona-danych-osobowych%3Fplatform%3Dna%26shop_id%3D100590805%26shop_name%3Dtechmanpat)
 * [svenska](https://service.spreadshirt.com/hc/change_language/sv?return_to=%2Fhc%2Fsv%2Farticles%2F115000978409-Dataskydd%3Fplatform%3Dna%26shop_id%3D100590805%26shop_name%3Dtechmanpat)
 
-[![Spreadgroup Logo](https://www.spreadshop.com/content/assets/spreadgroup_logo)](https://www.spreadshirt.com/)
+[![Spreadgroup Logo](https://images.spod.com/image/upload/spreadgroup-logo.svg)](https://www.spreadshirt.com/)
