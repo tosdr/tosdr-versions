@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/de-mazelenvaccinaties-ten-aanval/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/verkiezingen/doen-petitie-tekenen-tegen-de-walvisjacht/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
