@@ -186,6 +186,16 @@
     * [Dell Comics](https://www.pricecharting.com/brand/comic-books/dell)
     * [Image Comics](https://www.pricecharting.com/brand/comic-books/image)
     * [Other Comics](https://www.pricecharting.com/brand/comic-books/other)
+* [Funko Pops](https://www.pricecharting.com/category/funko-pops) [Funko](#)
+    * [All Funko Sets](https://www.pricecharting.com/category/funko-pops)
+    * [Funko Star Wars](https://www.pricecharting.com/console/funko-pop-star-wars)
+    * [Funko Animation](https://www.pricecharting.com/console/funko-pop-animation)
+    * [Funko Comics](https://www.pricecharting.com/console/funko-pop-comics)
+    * [Funko Disney](https://www.pricecharting.com/console/funko-pop-disney)
+    * [Funko Games](https://www.pricecharting.com/console/funko-pop-games)
+    * [Funko Marvel](https://www.pricecharting.com/console/funko-pop-television)
+    * [Funko Movies](https://www.pricecharting.com/console/funko-pop-movies)
+    * [Funko TV](https://www.pricecharting.com/console/funko-pop-television)
 * [LEGO Sets](https://www.pricecharting.com/category/lego-sets) [LEGO](#)
     * [All LEGO Sets](https://www.pricecharting.com/category/lego-sets)
     * [LEGO Star Wars](https://www.pricecharting.com/console/lego-star-wars)
@@ -214,6 +224,7 @@
     * [UFC Cards](https://www.sportscardspro.com/category/ufc-cards)
     * [Wrestling Cards](https://www.sportscardspro.com/category/wrestling-cards)
 * [More](#)
+    * [Funko Pops](https://www.pricecharting.com/funko-pops)
     * [Comics](https://www.pricecharting.com/comic-books)
     * [Coins](https://www.pricecharting.com/category/coins)
     * [LEGO Sets](https://www.pricecharting.com/category/lego-sets)
@@ -232,6 +243,8 @@
     * [Expanded User Profile](https://www.pricecharting.com/edit-profile)
     * [Grading Recommendations](https://www.pricecharting.com/page/grading-recommendations)
     * [Trends](https://www.pricecharting.com/compare)
+
+NEW: [Funko Pop Figures](https://www.pricecharting.com/category/funko-pops)
 
 Search  Prices Collection Market 
 
@@ -314,10 +327,10 @@ If you don't have an account, you will see ads on the site. Those users will hav
 
 * Categories
 * [Video Game Prices](https://www.pricecharting.com/category/video-games)
+* [Funko Pop Prices](https://www.pricecharting.com/category/funko-pops)
 * [Coin Prices](https://www.pricecharting.com/category/coins)
 * [Comic Book Prices](https://www.pricecharting.com/category/comic-books)
 * [Pokemon Card Prices](https://www.pricecharting.com/category/pokemon-cards)
-* [LEGO Set Prices](https://www.pricecharting.com/category/lego-sets)
 * [Baseball Card Prices](https://www.sportscardspro.com/category/baseball-cards)
 * [Basketball Card Prices](https://www.sportscardspro.com/category/basketball-cards)
 * [Football Card Prices](https://www.sportscardspro.com/category/football-cards)
