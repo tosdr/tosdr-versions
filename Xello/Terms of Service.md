@@ -62,7 +62,7 @@ If you have a specific question, fill in the comments box and our support team w
 
 What can we help you with today?\*
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
