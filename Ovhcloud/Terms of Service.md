@@ -472,7 +472,7 @@ Log in to order, manage your products and services, and track your orders.
             
         * Hosted Private Cloud
             
-            * Nutanix on OVHcloud Our scalable, hyperconverged platform (HCI), ready-to-use in just a few hours
+            * [Nutanix on OVHcloud](https://www.ovhcloud.com/en-ie/hosted-private-cloud/nutanix/) Our scalable, hyperconverged platform (HCI), ready-to-use in just a few hours
             * [Veeam Enterprise for all your backups](https://www.ovhcloud.com/en-ie/storage-solutions/veeam-enterprise/) A dedicated Veeam Backup Replication solution for all your backups
         * Use cases
             
