@@ -18,14 +18,24 @@ FOX SCORES
     
 * [Women's BBL
     
-    5/11 20:10 AEST
+    PER won by 28 runs
     
     |     |     |
     | --- | --- |
-    | PER | –   |
-    | BRI | –   |
+    | PER | 8 /142 |
+    | BRI | 114 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250114)
+* [One-Day Cup
+    
+    6/11 10:35 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SA  | –   |
+    | VIC | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250111)
 * NRL
     
 * [Women's PC
@@ -276,16 +286,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010160/box-score)
 * Football
     
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | FUL | 2   |
-    | BRE | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251008)
 * [UCL
     
     6/11 4:45 AEST
@@ -1109,7 +1109,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre)
+[Scores](https://www.foxsports.com.au/score-centre/live-now)
 
 * [Video](https://www.foxsports.com.au/video)
 * [Melbourne Cup](https://www.foxsports.com.au/horse-racing/melbourne-cup)
