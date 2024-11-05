@@ -196,57 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Anri van der Linde
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=121572420)  
-APTV Telecoms CC
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=192745658)  
+Kaylas Creations
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=201720510)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=112695724)  
+OptaServ
 
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=173123681)  
-Wiselink Broadband Vryheid
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=166371497)  
+Repairs In Motion
 
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=82404969)  
-Konsortium Operations ( Roamfree Meats )
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=21321474)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=21332439)  
-NWET Pty LTD
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=162729235)  
+Printo
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=92398574)  
-Karino Merinos ( PTY ) LTD
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=137153875)  
+Qothiphango Mining
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=193784605)  
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=145366980)  
+Cape Adventure Zone
+
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=34093665)  
+Roamfree Boerdery (PTY) LTD
+
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=83192367)  
+OXYAIDER (PTY) LTD
+
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=55345521)  
+UMVIKELI PRIVATE SECURITY
+
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=72993530)  
+Moving Made Easy (PTY) Ltd
+
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=177088965)  
+FlipDesign - Renovation Contracting Firm
+
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=15485929)  
+Cooper Power Cape Town (Pty) Ltd
+
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=176930455)  
 CBR Verwe/Paints
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=132460684)  
-West Coast Horse Trails
-
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=128837718)  
-Prosper Park
-
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=133599194)  
-Westside Car Audio CC
-
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=159733167)  
-Dr V Naik Consult
-
-![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=112180580)  
-Cooper Power
-
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=140408652)  
-Norton Medical & Consult - Namibia
-
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=46213057)  
-MSPCloud (Pty) Ltd
-
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=b1271947a9ec15ff52d39fd7b5ce6c8fab72b0ba681cb07665a28ad88df84c6c&c=188276159)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=fb00fc78393d72c2b381c352f283c738d4f5733242e050fd9311dc0e7ed470b6&c=74239425)  
+BEE SURE CONSULTING (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
