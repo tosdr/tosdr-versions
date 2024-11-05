@@ -475,6 +475,16 @@ This privacy policy was last modified on April 24, 2024.
 
 ### Featured Articles
 
+[![Study a Week Before an Exam](https://www.wikihow.com/images/thumb/6/6e/Study-a-Week-Before-an-Exam-Step-18-Version-2.jpg/-crop-126-120-126px-Study-a-Week-Before-an-Exam-Step-18-Version-2.jpg)
+
+How to  
+Study a Week Before an Exam](https://www.wikihow.com/Study-a-Week-Before-an-Exam)
+
+[![Stop Taking Things Personally](https://www.wikihow.com/images/thumb/d/de/LR23-D-Ping-Listens-to-Sad-Beth.png/-crop-126-120-126px-LR23-D-Ping-Listens-to-Sad-Beth.png)
+
+How to  
+Stop Taking Things Personally](https://www.wikihow.com/Stop-Taking-Things-Personally)
+
 [![Signs Your Friends with Benefits Is Falling for You](https://www.wikihow.com/images/thumb/1/1c/Signs-Your-Friends-with-Benefits-Is-Falling-for-You-Step-13.jpg/-crop-126-120-126px-Signs-Your-Friends-with-Benefits-Is-Falling-for-You-Step-13.jpg)
 
 13 Signs Your Friends with Benefits Is Falling For You](https://www.wikihow.com/Signs-Your-Friends-with-Benefits-Is-Falling-for-You)
@@ -483,15 +493,6 @@ This privacy policy was last modified on April 24, 2024.
 
 How to  
 Love an Overthinker](https://www.wikihow.com/Love-an-Overthinker)
-
-[![Rizz Quiz](https://www.wikihow.com/images/thumb/3/31/Rizz_quiz.png/-crop-126-120-126px-Rizz_quiz.png)
-
-Do I Have Rizz Quiz](https://www.wikihow.com/Rizz-Quiz)
-
-[![Improve Your Personality](https://www.wikihow.com/images/thumb/2/28/Improve-Your-Personality-Step-20.jpg/-crop-126-120-126px-Improve-Your-Personality-Step-20.jpg)
-
-How to  
-Improve Your Personality](https://www.wikihow.com/Improve-Your-Personality)
 
   
 
@@ -534,4 +535,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-189
+177
