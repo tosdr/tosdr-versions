@@ -36,6 +36,9 @@
         
         Windows infected with backdoored Linux VMs in new phishing attacks](https://www.bleepingcomputer.com/news/security/windows-infected-with-backdoored-linux-vms-in-new-phishing-attacks/)
     
+    * [![This Babbel deal gives you access to courses in 14 languages](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        This Babbel deal gives you access to courses in 14 languages](https://www.bleepingcomputer.com/offer/deals/this-babbel-deal-gives-you-access-to-courses-in-14-languages/)
     * [![Nokia investigates breach after hacker claims to steal source code](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Nokia investigates breach after hacker claims to steal source code](https://www.bleepingcomputer.com/news/security/nokia-investigates-breach-after-hacker-claims-to-steal-source-code/)
@@ -45,9 +48,6 @@
     * [![Schneider Electric confirms dev platform breach after hacker steals data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Schneider Electric confirms dev platform breach after hacker steals data](https://www.bleepingcomputer.com/news/security/schneider-electric-confirms-dev-platform-breach-after-hacker-steals-data/)
-    * [![Windows Server 2025 released—here are the new features](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Windows Server 2025 released—here are the new features](https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-released-here-are-the-new-features/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
