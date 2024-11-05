@@ -91,15 +91,23 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
+[River Flood Warning
+
+from MON 4:34 PM CST until TUE 6:08 AM CST, Dallas County](https://www.fox4news.com/weather-alerts)
+
+4
+
+[Flash Flood Warning
+
+from MON 6:30 PM CST until MON 10:30 PM CST, Red River County](https://www.fox4news.com/weather-alerts)
+
 [Tornado Watch
 
-until MON 6:00 PM CST, Collin County, Somervell County, Johnson County, Hood County, Fannin County, Kaufman County, Denton County, Hunt County, Parker County, Dallas County, Wise County, Rockwall County, Delta County, Erath County, Van Zandt County, Rains County, Cooke County, Hopkins County, Lamar County, Tarrant County, Ellis County](https://www.fox4news.com/weather-alerts)
-
-2
+until MON 8:00 PM CST, Delta County, Van Zandt County, Rains County, Hopkins County, Lamar County](https://www.fox4news.com/weather-alerts)
 
 [Tornado Watch
 
-from MON 10:56 AM CST until MON 6:00 PM CST, Red River County](https://www.fox4news.com/weather-alerts)
+from MON 5:30 PM CST until TUE 12:00 AM CST, Red River County](https://www.fox4news.com/weather-alerts)
 
 Terms of Use
 ============
