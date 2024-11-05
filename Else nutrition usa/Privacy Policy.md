@@ -47,9 +47,10 @@ NEW! Lower Everyday Pricing on Toddler Products & Subscriptions! [Get 50% OFF Ba
     * [Mealtime Tips](https://elsenutrition.com/a/resources/mealtime-tips)
     * [Recipes](https://elsenutrition.com/blogs/else-recipes)
     
-    * [Blog](https://elsenutrition.com/a/resources/)
-    * [Video Hub](https://elsenutrition.com/pages/video)
     * [FAQs](https://elsenutrition.com/apps/frequently-asked-questions)
+    * [Blog](https://elsenutrition.com/a/resources/)
+    * [Ingredients](https://elsenutrition.com/pages/ingredients)
+    * [Video Hub](https://elsenutrition.com/pages/video)
     * [Pediatrician Approved](https://elsenutrition.com/pages/meet-our-experts)
     
     [All resources](https://elsenutrition.com/a/resources/nutrition)
@@ -221,7 +222,9 @@ Menu
 * [Take the Quiz](https://else-nutrition.myshopify.com/tools/perfect-product-finder/best-product-for-you)
 * Learn
     
+    * [FAQs](https://elsenutrition.com/apps/frequently-asked-questions)
     * [Blog](https://elsenutrition.com/a/resources/)
+    * [Ingredients](https://elsenutrition.com/pages/ingredients)
     * Top Picks
         
         * [Best Baby Cereals](https://elsenutrition.com/a/resources/nutrition/best-baby-cereals-with-no-heavy-metals)
@@ -270,7 +273,6 @@ Menu
         * [SEE ALL](https://elsenutrition.com/blogs/else-recipes)
         
     * [Video Hub](https://elsenutrition.com/pages/video)
-    * [FAQs](https://elsenutrition.com/apps/frequently-asked-questions)
     * [Pediatrician Approved](https://elsenutrition.com/pages/meet-our-experts)
     
 * Collaborate with us
@@ -320,7 +322,9 @@ Menu
 * [Take the Quiz](https://else-nutrition.myshopify.com/tools/perfect-product-finder/best-product-for-you)
 * Learn
     
+    * [FAQs](https://elsenutrition.com/apps/frequently-asked-questions)
     * [Blog](https://elsenutrition.com/a/resources/)
+    * [Ingredients](https://elsenutrition.com/pages/ingredients)
     * Top Picks
         
         * [Best Baby Cereals](https://elsenutrition.com/a/resources/nutrition/best-baby-cereals-with-no-heavy-metals)
@@ -369,7 +373,6 @@ Menu
         * [SEE ALL](https://elsenutrition.com/blogs/else-recipes)
         
     * [Video Hub](https://elsenutrition.com/pages/video)
-    * [FAQs](https://elsenutrition.com/apps/frequently-asked-questions)
     * [Pediatrician Approved](https://elsenutrition.com/pages/meet-our-experts)
     
 * Collaborate with us
