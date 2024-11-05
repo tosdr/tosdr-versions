@@ -672,8 +672,6 @@ Thank you, you have been added to our list.
 
 MyNETGEAR
 
-* [Manage Profile](https://store.netgear.com/profile?lang=en_us)
-* [My Orders](https://store.netgear.com/orderhistory?lang=en_us)
 * [Track Orders](https://store.netgear.com/trackorder?lang=en_us)
 * [Returns](https://store.netgear.com/returns)
 * [Register Product](https://my.netgear.com/register.aspx)
@@ -699,6 +697,7 @@ COMPANY
 * [Investor Relations](https://investor.netgear.com/)
 * [Press Room](https://www.netgear.com/hub/pressroom/)
 * [Blog](https://www.netgear.com/hub/)
+* [Reseller Policy](https://downloads1.netgear.com/files/netgear/documents/netgear-reseller-policy.pdf)
 * [Certified Refurbished](https://store.netgear.com/refurbished-info/?lang=en_us&referrerpageurl=)
 * [Where To Buy](https://www.netgear.com/home/where-to-buy/)
 
