@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### LIVE UPDATES
+
+[Trump casts his ballot in Florida, urges voters to 'STAY IN LINE!'](https://nypost.com/2024/11/05/us-news/election-day-2024-live-updates-results-from-swing-states-and-across-us/)
+
 Terms Of Use
 ============
 
