@@ -83,17 +83,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: Laptop, smartphone, and game console prices could soar after the election](https://cdn.arstechnica.net/wp-content/uploads/2024/10/brick-mosaiac-tariff-tech-768x432.jpg)](https://arstechnica.com/tech-policy/2024/11/laptop-smartphone-and-game-console-prices-could-soar-after-the-election/)
+1. [![Listing image for first story in Most Read: China’s long-term lunar plans now depend on developing its own Starship](https://cdn.arstechnica.net/wp-content/uploads/2024/11/weibo-LM-9-768x432-1730734778.jpg)](https://arstechnica.com/space/2024/11/chinas-long-term-lunar-plans-now-depend-on-developing-its-own-starship/)
     
-    1. [Laptop, smartphone, and game console prices could soar after the election](https://arstechnica.com/tech-policy/2024/11/laptop-smartphone-and-game-console-prices-could-soar-after-the-election/)
+    1. [China’s long-term lunar plans now depend on developing its own Starship](https://arstechnica.com/space/2024/11/chinas-long-term-lunar-plans-now-depend-on-developing-its-own-starship/)
     
-2. 2. [US Space Force warns of “mind-boggling” build-up of Chinese capabilities](https://arstechnica.com/space/2024/11/us-space-force-warns-of-mind-boggling-build-up-of-chinese-capabilities/)
+2. 2. [Laptop, smartphone, and game console prices could soar after the election](https://arstechnica.com/tech-policy/2024/11/laptop-smartphone-and-game-console-prices-could-soar-after-the-election/)
     
-3. 3. [iPod fans evade Apple’s DRM to preserve 54 lost clickwheel-era games](https://arstechnica.com/gaming/2024/11/ipod-fans-evade-apples-drm-to-preserve-54-lost-clickwheel-era-games/)
+3. 3. [Endangered bees stop Meta’s plan for nuclear-powered AI data center](https://arstechnica.com/ai/2024/11/endangered-bees-stop-metas-plan-for-nuclear-powered-ai-data-center/)
     
-4. 4. [China’s long-term lunar plans now depend on developing its own Starship](https://arstechnica.com/space/2024/11/chinas-long-term-lunar-plans-now-depend-on-developing-its-own-starship/)
+4. 4. [iPod fans evade Apple’s DRM to preserve 54 lost clickwheel-era games](https://arstechnica.com/gaming/2024/11/ipod-fans-evade-apples-drm-to-preserve-54-lost-clickwheel-era-games/)
     
-5. 5. [Dystopika is a beautiful cyberpunk city builder without the ugly details](https://arstechnica.com/gaming/2024/11/dystopika-takes-all-the-management-out-of-a-cyberpunk-city-simulator/)
+5. 5. [Sick of supersized EVs? The 2025 Hyundai Kona Electric hits the spot.](https://arstechnica.com/cars/2024/11/sick-of-supersized-evs-the-2025-hyundai-kona-electric-hits-the-spot/)
     
 
 Customize
