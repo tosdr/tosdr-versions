@@ -318,15 +318,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Jason Isaacs, who portrays Lucius Malfoy, believes that Lucius is cold to Draco because Lucius was raised in a similar way.
+The first review of Harry Potter and the Philosopher’s Stone was given by Alice Newton, the daughter of the founder of Bloomsbury, at age 8: “The excitement in this book made me feel warm inside. I think it is possibly one of the best books an 8/9 year old could read.”
 
 ### Potter History
 
-November 10, 2008 – Publishers Weekly reveals that Scholastic will print 3.5 million copies of The Tales of Beedle the Bard in the United States.
+August 5, 2004 – The Dark Lord rises again: Ralph Fiennes is cast for the role of Lord Voldemort in the Harry Potter and the Goblet of Fire film.
 
 ### Potter Quote
 
-“I think they think I’m a bit odd, you know. Some people call me ‘Loony’ Lovegood, actually.”
+“What happened down in the dungeons between you and Professor Quirrell is a complete secret, so, naturally, the whole school knows.”
 
 [](#)
 
