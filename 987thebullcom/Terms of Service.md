@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Bottoms UpBrantley Gilbert<br><br>10:42pm |
-| Am I OkMegan Moroney<br><br>10:38pm |
-| Back Then Right NowTyler Hubbard<br><br>10:34pm |
-| Lies, Lies, LiesMorgan Wallen<br><br>10:22pm |
-| The Kind Of Love We MakeLuke Combs<br><br>10:19pm |
+| Next Thing You KnowJordan Davis<br><br>4:38am |
+| Single AgainJosh Ross<br><br>4:35am |
+| Truck BedHardy<br><br>4:32am |
+| Forever To MeCole Swindell<br><br>4:29am |
+| Ain'T No Love In OklahomaLuke Combs<br><br>4:26am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,10 +358,6 @@ State
 Featured Brands
 ---------------
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
-
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
@@ -370,9 +366,13 @@ Spanish • Western
 
 Top 40 • Eastern
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Country • Western
+Top 40 • Pacific NW
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
