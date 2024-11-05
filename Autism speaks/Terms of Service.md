@@ -289,6 +289,38 @@ Autism news
 
 All the latest that matters to our community
 
+![Autism Digest logo](/sites/default/files/styles/content_list/public/Autism%20Digest%20logo.jpg.webp?itok=pmzzVnN0)
+
+11.5.24
+
+[### Autism Digest shares Tyler and Tonya’s journey to employment](https://guide.autismspeaks.org/news/autism-digest-shares-tyler-and-tonyas-journey-employment)
+
+Autism Digest shares the journey to employment for Autism Speaks Champions of Change, Tonya and Tyler Haynes.
+
+![Bernie Marcus](/sites/default/files/styles/content_list/public/Bernie_Marcus_0.jpg.webp?itok=XfWH3Vi_)
+
+11.5.24
+
+[### Honoring the legacy of Bernie Marcus](https://guide.autismspeaks.org/news/honoring-legacy-bernie-marcus)
+
+Bernie Marcus was a visionary and trailblazer whose boundless compassion reshaped the autism community and empowered millions to reach their potential
+
+![People Magazine logo](/sites/default/files/styles/content_list/public/People%20Mag%20logo.jpg.webp?itok=5VIudaKN)
+
+11.5.24
+
+[### Rumer Willis celebrates sister Tallulah Willis at Autism Speaks Los Angeles Gala](https://guide.autismspeaks.org/news/rumer-willis-celebrates-tallulah-willis)
+
+People spotlights Tallulah and Rumer Willis, daughters of Demi Moore and Bruce Willis, as Tallulah is recognized by her sister at the Autism Speaks
+
+![Forbes logo](/sites/default/files/styles/content_list/public/Forbes-logo.jpg.webp?itok=fanI2Qlf)
+
+11.5.24
+
+[### Forbes shares tips from Autism Speaks on creating an inclusive Halloween for kids with autism](https://guide.autismspeaks.org/news/forbes-shares-tips-inclusive-halloween)
+
+Victoria Handy shares how she and her daughter make adjustments so they can celebrate Halloween as autistic individuals, highlighting businesses that
+
 ![three girls looking at a field of flowers with their arms around each other](/sites/default/files/styles/content_list/public/three-girls-looking-at-a-field-of-flowers-with-their-arms-around-each-other.jpg.webp?itok=Irv6vU-t)
 
 11.1.24
@@ -304,38 +336,6 @@ A new study shows the number of children and adults diagnosed with autism spectr
 [### Autism Speaks’ director of data science speaks at APHA conference](https://guide.autismspeaks.org/science-news/autism-speaks-director-data-science-speaks-apha-conference)
 
 Vijay Vasudevan, Autism Speaks’ director of data science and evaluation research, is taking the stage at the annual American Public Health Association
-
-![WHO Mental Health Forum panel](/sites/default/files/styles/content_list/public/WHO-Mental-Health-Forum-panel.jpg.webp?itok=EDHBNtM_)
-
-10.16.24
-
-[### Broadening our approach to neurodiversity](https://guide.autismspeaks.org/science-news/broadening-our-approach-neurodiversity)
-
-This year’s WHO Mental Health Forum marked a historic moment, as it was the first time the organization directly engaged in a conversation about
-
-![adults sitting in an auditorium](/sites/default/files/styles/content_list/public/adults-sitting-in-an-auditorium.jpg.webp?itok=Q9PYy4Ja)
-
-10.8.24
-
-[### Chief Science Officer Andy Shih speaks at WHO Mental Health Forum in Geneva](https://guide.autismspeaks.org/science-news/andy-shih-mental-health-forum)
-
-Dr. Andy Shih, chief science officer at Autism Speaks, will be participating in a session at the 2024 WHO Mental Health Forum, taking place in Geneva,
-
-![California state flag next to capitol dome](/sites/default/files/styles/content_list/public/California%20flag%20and%20dome_0.png.webp?itok=yxkg0TN4)
-
-10.3.24
-
-[### Legislative wins in California strengthen supports, opportunities and safety of autistic individuals](https://guide.autismspeaks.org/advocacy-news/legislative-wins-california-strengthen-supports-opportunities-and-safety-autistic)
-
-Governor Gavin Newsom recently signed several bills that Autism Speaks supported, which will strengthen supports for autistic students and help
-
-![United States Capitol building](/sites/default/files/styles/content_list/public/United-States-Capitol-building.jpg.webp?itok=EuXvBdb9)
-
-10.1.24
-
-[### Short-term extension protects federal autism programs](https://guide.autismspeaks.org/advocacy-news/short-term-extension-protects-federal-autism-programs)
-
-With widespread bipartisan agreement that the programs under the Autism CARES Act should continue, an extension of funding through December 20 was
 
 [Read more news](https://guide.autismspeaks.org/articles?article_type%5B981%5D=981&article_type%5B2181%5D=2181&article_type%5B2186%5D=2186&article_type%5B986%5D=986)
 
