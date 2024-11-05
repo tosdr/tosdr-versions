@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. digital marketing
+1. psychology
     
-2. marketing
+2. machine learning
     
-3. law
+3. cyber security
     
 
 Popular subjects
 ----------------
 
-1. [Psychology
+1. [Web Development
     
-    2,475 courses](https://www.classcentral.com/subject/psychology)
-2. [Web Development
+    13,463 courses](https://www.classcentral.com/subject/web-development)
+2. [Data Analysis
     
-    13,432 courses](https://www.classcentral.com/subject/web-development)
-3. [Python
+    8,547 courses](https://www.classcentral.com/subject/data-analysis)
+3. [Computer Science
     
-    9,752 courses](https://www.classcentral.com/subject/python)
+    42,054 courses](https://www.classcentral.com/subject/cs)
 
 Popular courses
 ---------------
 
-1. [Introduction to HTML5
+1. [Financial Markets
     
-    University of Michigan](https://www.classcentral.com/course/introhtml-4307)
-2. [Project Management: The Basics for Success
+    Yale University](https://www.classcentral.com/course/financialmarkets-912)
+2. [CS50's Introduction to Computer Science
     
-    University of California, Irvine](https://www.classcentral.com/course/basicprojmanage-2782)
-3. [Python for Data Science
+    Harvard University](https://www.classcentral.com/course/computer-science-harvard-university-cs50-s-introd-442)
+3. [Functional Foods and Nutraceuticals
     
-    University of California, San Diego](https://www.classcentral.com/course/python-the-university-of-california-san-diego-pyt-8209)
+    Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur](https://www.classcentral.com/course/swayam-functional-foods-and-nutraceuticals-14069)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
