@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/is-janet-ossebaard-nog-in-leven/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/de-mazelenvaccinaties-ten-aanval/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
