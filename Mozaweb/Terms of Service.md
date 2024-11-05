@@ -23,7 +23,7 @@ Total:
 * [Shop](https://www.mozaweb.com/en/Shop/main)
 * [Try it now](https://www.mozaweb.com/en/portal.php?cmd=tryit)
 
-Search [Close](#)
+ Search [Close](#)
 
 Search 
 
@@ -89,7 +89,7 @@ Search
 * [Products](https://www.mozaweb.com/en/shop.php?cmd=software_list)
 * [Shop](https://www.mozaweb.com/en/Shop/main)
 
-Search [Close](#)
+ Search [Close](#)
 
 Search 
 
