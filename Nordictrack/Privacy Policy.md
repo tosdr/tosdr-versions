@@ -1013,4 +1013,4 @@ Will I be charged fees if I checkout with TD Fit Loan?
 
 No, there are no fees with this TD Fit Loan we are offering at checkout, with participating retailers. That means no late fees, no prepayment fees, no annual fees, and no fees to open or close your account.
 
-prdblc19
+prdblc17
