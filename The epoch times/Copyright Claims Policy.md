@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Vance Casts Ballot in Ohio, Feels ‘Good’ About Race](https://www.theepochtimes.com/us/vance-casts-ballot-in-ohio-feels-good-about-race-5754382)
+* [Cutting Sugar in First 1,000 Days of Life Reduces Late-Adulthood Disease Risk](https://www.theepochtimes.com/health/cutting-sugar-in-first-1000-days-of-life-reduces-late-adulthood-disease-risk-5753469)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    1hr By [Rachel Ann T. Melegrito](https://www.theepochtimes.com/author/rachel-ann-t-melegrito)
     
-    [![Vance Casts Ballot in Ohio, Feels ‘Good’ About Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Cutting Sugar in First 1,000 Days of Life Reduces Late-Adulthood Disease Risk](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Vance Casts Ballot in Ohio, Feels ‘Good’ About Race](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754422-GettyImages-2182399351-205x123.jpg.webp)](https://www.theepochtimes.com/us/vance-casts-ballot-in-ohio-feels-good-about-race-5754382)
-* [FDA Warns Against ‘Life-Threatening’ Weight Loss Drugs From California Facility](https://www.theepochtimes.com/health/fda-warns-against-life-threatening-weight-loss-drugs-from-california-facility-5754271)
+    ![Cutting Sugar in First 1,000 Days of Life Reduces Late-Adulthood Disease Risk](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754698-shutterstock_2483564373_sugar_candy_toddler_child_carbohydrate_sweet-205x123.jpg.webp)](https://www.theepochtimes.com/health/cutting-sugar-in-first-1000-days-of-life-reduces-late-adulthood-disease-risk-5753469)
+* [Voters in Arizona’s Maricopa County Share Their Views](https://www.theepochtimes.com/us/voters-in-arizonas-maricopa-county-share-their-views-5754683)
     
-    1hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    1hr By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
     
-    [![FDA Warns Against ‘Life-Threatening’ Weight Loss Drugs From California Facility](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Voters in Arizona’s Maricopa County Share Their Views](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![FDA Warns Against ‘Life-Threatening’ Weight Loss Drugs From California Facility](https://img.theepochtimes.com/assets/uploads/2024/01/04/id5558662-Ozempic-1482908413-1200x859-e1687553633840-205x123.jpg.webp)](https://www.theepochtimes.com/health/fda-warns-against-life-threatening-weight-loss-drugs-from-california-facility-5754271)
-* [French Families Sue Tiktok Over Children’s Exposure to Harmful Content](https://www.theepochtimes.com/china/french-families-sue-tiktok-over-childrens-exposure-to-harmful-content-5753596)
+    ![Voters in Arizona’s Maricopa County Share Their Views](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754791-J_K_9291-Cave-Creek-Arizona-Jason-Koster-1200x675-LS-205x123.webp)](https://www.theepochtimes.com/us/voters-in-arizonas-maricopa-county-share-their-views-5754683)
+* [Doctors Face Medicare Payment Cut Under New Rules](https://www.theepochtimes.com/us/doctors-face-medicare-payment-cut-under-new-rules-5754473)
     
-    1hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
+    1hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
     
-    [![French Families Sue Tiktok Over Children’s Exposure to Harmful Content](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Doctors Face Medicare Payment Cut Under New Rules](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![French Families Sue Tiktok Over Children’s Exposure to Harmful Content](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721855-EpochImages-8212753885-xl-205x123.jpg.webp)](https://www.theepochtimes.com/china/french-families-sue-tiktok-over-childrens-exposure-to-harmful-content-5753596)
-* [Homeowership Rates Remain Stable in United States: Report](https://www.theepochtimes.com/us/homeowership-rates-remain-stable-in-united-states-report-5754214)
+    ![Doctors Face Medicare Payment Cut Under New Rules](https://img.theepochtimes.com/assets/uploads/2023/12/19/id5549857-GettyImages-1157263234-205x123.jpg.webp)](https://www.theepochtimes.com/us/doctors-face-medicare-payment-cut-under-new-rules-5754473)
+* [Harris in Washington Awaiting Election Results](https://www.theepochtimes.com/us/harris-in-washington-awaiting-election-results-5754616)
     
-    1hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    2hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
-    [![Homeowership Rates Remain Stable in United States: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Harris in Washington Awaiting Election Results](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Homeowership Rates Remain Stable in United States: Report](https://img.theepochtimes.com/assets/uploads/2024/01/15/id5566414-GettyImages-1739426931-205x123.jpeg.webp)](https://www.theepochtimes.com/us/homeowership-rates-remain-stable-in-united-states-report-5754214)
-* [Georgian Activists Mount 2nd Protest after Ruling Party’s Electoral Win](https://www.theepochtimes.com/world/georgian-activists-mount-2nd-protest-after-ruling-partys-electoral-win-5754272)
+    ![Harris in Washington Awaiting Election Results](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754624-Harris_flight-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-in-washington-awaiting-election-results-5754616)
+* [National Guard Activated for Election Day Support in Multiple States: Pentagon](https://www.theepochtimes.com/us/national-guard-activated-for-election-day-support-in-multiple-states-pentagon-5754555)
     
-    1hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Georgian Activists Mount 2nd Protest after Ruling Party’s Electoral Win](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![National Guard Activated for Election Day Support in Multiple States: Pentagon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Georgian Activists Mount 2nd Protest after Ruling Party’s Electoral Win](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753954-GettyImages-2182229546-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/georgian-activists-mount-2nd-protest-after-ruling-partys-electoral-win-5754272)
-* [Top Georgia Election Official Says Most Georgia Results Will Likely Be in by 8pm](https://www.theepochtimes.com/us/top-georgia-election-official-says-most-georgia-results-will-likely-be-in-by-8pm-5754326)
+    ![National Guard Activated for Election Day Support in Multiple States: Pentagon](https://img.theepochtimes.com/assets/uploads/2021/08/08/razor-1230606901-205x123.jpg.webp)](https://www.theepochtimes.com/us/national-guard-activated-for-election-day-support-in-multiple-states-pentagon-5754555)
+* [Georgia Secretary of State Says Bomb Threat Temporarily Closed Fulton Polling Sites](https://www.theepochtimes.com/us/georgia-secretary-of-state-says-bomb-threat-closed-fulton-polling-sites-5754603)
     
-    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Top Georgia Election Official Says Most Georgia Results Will Likely Be in by 8pm](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Georgia Secretary of State Says Bomb Threat Temporarily Closed Fulton Polling Sites](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Top Georgia Election Official Says Most Georgia Results Will Likely Be in by 8pm](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752938-Election_2024_Absentee_Ballots_Georgia_24307721220522-205x123.jpg.webp)](https://www.theepochtimes.com/us/top-georgia-election-official-says-most-georgia-results-will-likely-be-in-by-8pm-5754326)
-* [Ukraine Says It Has Fired on North Korean Troops in Kursk](https://www.theepochtimes.com/world/ukraine-says-it-has-fired-on-north-korean-troops-in-kursk-5754183)
+    ![Georgia Secretary of State Says Bomb Threat Temporarily Closed Fulton Polling Sites](https://img.theepochtimes.com/assets/uploads/2024/08/27/id5713872-brad-raffenspergerKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-secretary-of-state-says-bomb-threat-closed-fulton-polling-sites-5754603)
+* [Netanyahu Fires Defense Minister](https://www.theepochtimes.com/world/netanyahu-fires-defense-minister-5754610)
     
-    3hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    2hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
     
-    [![Ukraine Says It Has Fired on North Korean Troops in Kursk](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Netanyahu Fires Defense Minister](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Ukraine Says It Has Fired on North Korean Troops in Kursk](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753952-GettyImages-2182217411-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/ukraine-says-it-has-fired-on-north-korean-troops-in-kursk-5754183)
-* [Judges Deny Requests to Block DOJ Election Monitors](https://www.theepochtimes.com/us/judge-denies-missouri-request-to-block-doj-election-day-poll-monitors-5754239)
+    ![Netanyahu Fires Defense Minister](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754792-GALLANT-NETANYAHULS-205x123.webp)](https://www.theepochtimes.com/world/netanyahu-fires-defense-minister-5754610)
+* [Trump Casts Ballot in Florida, Encourages Voters to ‘Stay in Line’](https://www.theepochtimes.com/us/trump-casts-ballot-in-florida-encourages-voters-to-stay-in-line-5754503)
     
-    4hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Judges Deny Requests to Block DOJ Election Monitors](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Casts Ballot in Florida, Encourages Voters to ‘Stay in Line’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Judges Deny Requests to Block DOJ Election Monitors](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754250-GettyImages-1412512152-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-denies-missouri-request-to-block-doj-election-day-poll-monitors-5754239)
-* [Dixville Notch Midnight Vote Kicks Off Election Day With Trump-Harris Tie](https://www.theepochtimes.com/us/trump-harris-tie-in-new-hampshires-dixville-notch-midnight-vote-5754173)
+    ![Trump Casts Ballot in Florida, Encourages Voters to ‘Stay in Line’](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754513-trump-votes-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-casts-ballot-in-florida-encourages-voters-to-stay-in-line-5754503)
+* [The Next US President Needs to Confront Threats Posed by ‘Axis of Evil,’ Says House Intelligence Chair](https://www.theepochtimes.com/china/the-next-us-president-needs-to-confront-threats-posed-by-axis-of-evil-says-house-intelligence-chair-5754418)
     
-    6hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    4hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
     
-    [![Dixville Notch Midnight Vote Kicks Off Election Day With Trump-Harris Tie](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![The Next US President Needs to Confront Threats Posed by ‘Axis of Evil,’ Says House Intelligence Chair](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Dixville Notch Midnight Vote Kicks Off Election Day With Trump-Harris Tie](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754259-first-votes-GettyImages-2182349034-LS-205x123.webp)](https://www.theepochtimes.com/us/trump-harris-tie-in-new-hampshires-dixville-notch-midnight-vote-5754173)
-* [Harris, Trump Offer Visions of Future During Closing Rallies in Battleground States](https://www.theepochtimes.com/us/trump-harris-offer-visions-of-future-during-closing-rallies-in-battleground-states-5732832)
+    ![The Next US President Needs to Confront Threats Posed by ‘Axis of Evil,’ Says House Intelligence Chair](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754419-GettyImages-2078854512-205x123.jpg.webp)](https://www.theepochtimes.com/china/the-next-us-president-needs-to-confront-threats-posed-by-axis-of-evil-says-house-intelligence-chair-5754418)
+* [We Spoke to the Voters Who Were First in Line on Election Day](https://www.theepochtimes.com/article/we-spoke-to-the-voters-who-were-first-in-line-on-election-day-5754285)
     
-    6hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson) and [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    4hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke), [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez), [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback), [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester), [Richard Moore](https://www.theepochtimes.com/author/richard-moore), [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson), [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro), [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman) and [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
     
-    [![Harris, Trump Offer Visions of Future During Closing Rallies in Battleground States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![We Spoke to the Voters Who Were First in Line on Election Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris, Trump Offer Visions of Future During Closing Rallies in Battleground States](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753868-Kamala-Harris-Donald-Trump-Candidates-2-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-harris-offer-visions-of-future-during-closing-rallies-in-battleground-states-5732832)
+    ![We Spoke to the Voters Who Were First in Line on Election Day](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754612-lead-205x123.jpg.webp)](https://www.theepochtimes.com/article/we-spoke-to-the-voters-who-were-first-in-line-on-election-day-5754285)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
