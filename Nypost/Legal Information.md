@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Joe Rogan makes 2024 presidential endorsement while promoting Elon Musk interview on X](https://nypost.com/2024/11/04/us-news/joe-rogan-announces-endorsement-of-trump-while-promoting-elon-musk-interview-on-x/)
-
 Privacy Notice Highlights
 =========================
 
