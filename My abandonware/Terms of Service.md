@@ -5,7 +5,7 @@ Terms of use
 
 [MyAbandonware](https://www.myabandonware.com/)
 
-More than 32000 old games to download for free!
+More than 32100 old games to download for free!
 
  
 
@@ -105,20 +105,20 @@ Top downloads
 
 Latest releases
 
-* [Super Tennis](https://www.myabandonware.com/game/super-tennis-atj)
-* [Super Bubble Pop](https://www.myabandonware.com/game/super-bubble-pop-hxl)
-* [World Championship Soccer](https://www.myabandonware.com/game/world-championship-soccer-2c7)
-* [Net Cribbage](https://www.myabandonware.com/game/net-cribbage-ssu)
-* [Net Gin Rummy](https://www.myabandonware.com/game/net-gin-rummy-sst)
+* [Soccer Champion](https://www.myabandonware.com/game/soccer-champion-t6y)
+* [Eagle Plan](https://www.myabandonware.com/game/eagle-plan-t6x)
+* [Scaffolder](https://www.myabandonware.com/game/scaffolder-t6w)
+* [Dream World](https://www.myabandonware.com/game/dream-world-t6v)
+* [Delta Hero](https://www.myabandonware.com/game/delta-hero-t6u)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Games That Didn't Make It](https://www.myabandonware.com/game/games-that-didn-t-make-it-3kd)
-* [Judge Dredd](https://www.myabandonware.com/game/judge-dredd-sg2)
-* [Phantomas en la luna](https://www.myabandonware.com/game/phantomas-en-la-luna-k7h)
+* [Missile-X](https://www.myabandonware.com/game/missile-x-sp2)
+* [Imagine: Pet Hospital](https://www.myabandonware.com/game/imagine-pet-hospital-hfk)
+* [Nekkyū Kōshien](https://www.myabandonware.com/game/nekkyu-koshien-p4e)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
