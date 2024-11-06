@@ -75,7 +75,7 @@ New York, NY 10017
 * [](https://instagram.com/manhattaninstitute/)
 * [](https://casualsexproject.com/rss.xml)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/OctoberOp4-1.jpg)
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/november-4.jpg)
 
 ### The Manhattan Institute works to keep America and its great cities prosperous, safe, and free.
 
@@ -103,6 +103,16 @@ Oct 31 2024
 ### [Publics and Place](https://admin.mi52siterestore.com/article/leadership-development-by-state-run-and-state-based-universities/) Leadership Development by State-Run and State-Based Universities
 
 By **[Andy Smarick](https://admin.mi52siterestore.com/person/andy-smarick/)** Read time **52 mins** [Read More](https://admin.mi52siterestore.com/article/leadership-development-by-state-run-and-state-based-universities/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/opinion-prop-1-will-greenlight-anti-asian-discrimination-new-york.jpg)[](https://admin.mi52siterestore.com/article/prop-1-will-greenlight-anti-asian-discrimination-in-new-york/ "Read More")
+
+Commentary Governance, Cities New York, New York City, Elections
+
+Nov 04 2024
+
+[Prop 1 Will Greenlight Anti-Asian Discrimination in New York](https://admin.mi52siterestore.com/article/prop-1-will-greenlight-anti-asian-discrimination-in-new-york/)
+
+By **[Renu Mukherjee](https://admin.mi52siterestore.com/person/renu-mukherjee/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/prop-1-will-greenlight-anti-asian-discrimination-in-new-york/)
 
     ![](https://media4.manhattan-institute.org/wp-content/uploads/october-employment-report.jpg)[](https://admin.mi52siterestore.com/article/comments-on-the-october-employment-report/ "Read More")
 
@@ -133,16 +143,6 @@ Oct 31 2024
 [The Kinderfada Revolution](https://admin.mi52siterestore.com/article/the-kinderfada-revolution/)
 
 By **[Abigail Shrier](https://admin.mi52siterestore.com/person/abigail-shrier/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-kinderfada-revolution/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/election-betting-bad-for-democracy-trump-kamala-polymarket-kalshi.jpg)[](https://admin.mi52siterestore.com/article/is-election-betting-bad-for-democracy/ "Read More")
-
-Commentary Governance Elections
-
-Oct 30 2024
-
-[Is Election Betting Bad for Democracy?](https://admin.mi52siterestore.com/article/is-election-betting-bad-for-democracy/)
-
-By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/is-election-betting-bad-for-democracy/)
 
 Our Policy Areas
 ----------------
