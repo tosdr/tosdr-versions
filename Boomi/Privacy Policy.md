@@ -378,7 +378,7 @@ cross
     
     Boomi World 2025
     
-    Discover how Boomi’s intelligent integration and automation platform is helping organizations tame IT complexity, drive radical innovation, and synchronize everything, everywhere. Seize digital modernization opportunities and learn how to unleash the power of AI to accelerate your business.](https://boomiworld.com/)
+    Join us at our flagship event in Dallas to connect, learn, and discover how to unleash the power of AI to accelerate your business with the Boomi Enterprise Platform.](https://boomiworld.com/)
     
       [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E)
     
