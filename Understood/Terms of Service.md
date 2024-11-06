@@ -1,4 +1,4 @@
-[Skip to content](#target-skip-to-content)
+[Skip to content](#maincontent)
 
 [](https://www.understood.org/en "Understood homepage")
 
