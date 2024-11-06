@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/ajax/site-search/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/52SCFE_EVI_77658_1532/vani-elkhishin/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/ajax/site-search/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/52SCFE_EVI_77658_1532/vani-elkhishin/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
@@ -75,7 +75,7 @@ Language [English](#) [Māori](https://www.parliament.nz/mi/ajax/site-search/)
     * [History and buildings](https://www.parliament.nz/en/visit-and-learn/history-and-buildings/)
     * [Parliament in Election Year](https://www.parliament.nz/en/visit-and-learn/parliament-in-election-year/)
     * [MPs and parliaments, 1854 onwards](https://www.parliament.nz/en/visit-and-learn/mps-and-parliaments-1854-onwards/)
-    * [Speaker's Outreach Programme](https://www.parliament.nz/en/visit-and-learn/speakers-outreach-programme/)
+    * [Outreach Programme](https://www.parliament.nz/en/visit-and-learn/outreach-programme/)
     * [Parliament webinars](https://www.parliament.nz/en/visit-and-learn/parliament-webinars/)
     * [Resources about New Zealand Parliament](https://www.parliament.nz/en/visit-and-learn/resources-about-new-zealand-parliament/)
     
