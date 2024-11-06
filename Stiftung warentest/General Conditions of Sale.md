@@ -382,7 +382,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v121365435.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v121445878.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Hilfe
@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
-* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
-* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
-* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
+* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
+* [Produktrück­ruf: Bissell ruft Akkuwischer zurück](https://www.test.de/Produktrueckruf-Bissell-ruft-Akkuwischer-zurueck-5965308-0/ "Produktrückruf - Bissell ruft Akkuwischer zurück")
+* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
+* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
-* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
-* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
-* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
+* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
+* [Produktrück­ruf: Bissell ruft Akkuwischer zurück](https://www.test.de/Produktrueckruf-Bissell-ruft-Akkuwischer-zurueck-5965308-0/ "Produktrückruf - Bissell ruft Akkuwischer zurück")
+* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
+* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
-* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
-* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
-* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
+* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
+* [Produktrück­ruf: Bissell ruft Akkuwischer zurück](https://www.test.de/Produktrueckruf-Bissell-ruft-Akkuwischer-zurueck-5965308-0/ "Produktrückruf - Bissell ruft Akkuwischer zurück")
+* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
+* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
-* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
-* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
-* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
+* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
+* [Produktrück­ruf: Bissell ruft Akkuwischer zurück](https://www.test.de/Produktrueckruf-Bissell-ruft-Akkuwischer-zurueck-5965308-0/ "Produktrückruf - Bissell ruft Akkuwischer zurück")
+* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
+* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt")
 
 Service Stiftung Warentest
 
