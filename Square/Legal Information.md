@@ -333,9 +333,9 @@ If you have any questions or concerns regarding this Privacy Notice, please reac
 
 [Terms of Service](https://squareup.com/legal/general/ua)
 
-[Government](https://squareup.com/legal/general/gov)
-
 [Licenses](https://squareup.com/legal/general/licenses)
+
+[Government](https://squareup.com/legal/general/gov)
 
 [Additional Point of Sale Terms](https://squareup.com/legal/general/pos)
 
@@ -347,9 +347,9 @@ If you have any questions or concerns regarding this Privacy Notice, please reac
 
 [Hardware Compliance Certifications](https://squareup.com/legal/general/dc)
 
-[Bill Pay Terms](https://squareup.com/legal/general/billpay)
-
 [Square Checking Terms of Service](https://squareup.com/legal/general/sqchecking-tos)
+
+[Square Buyer Account Terms of Use](https://squareup.com/legal/general/buyer-account-terms)
 
 [Developer Terms of Service](https://squareup.com/legal/general/developers)
 
@@ -369,8 +369,6 @@ If you have any questions or concerns regarding this Privacy Notice, please reac
 
 [Additional Payroll Terms of Service](https://squareup.com/legal/general/payroll)
 
-[Square Buyer Account Terms of Use](https://squareup.com/legal/general/buyer-account-terms)
-
 [Intellectual Property Policy](https://squareup.com/legal/general/copyright)
 
 [HIPAA Business Associate Agreement](https://squareup.com/legal/general/hipaa)
@@ -378,6 +376,8 @@ If you have any questions or concerns regarding this Privacy Notice, please reac
 [Square Cardholder Agreement and Terms of Service](https://squareup.com/legal/general/squarecard)
 
 [Afterpay Merchant Terms of Service](https://squareup.com/legal/general/afterpay-merchant-terms)
+
+[Bill Pay Terms](https://squareup.com/legal/general/billpay)
 
 [Products](#)
 
