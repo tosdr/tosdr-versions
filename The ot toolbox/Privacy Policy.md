@@ -89,48 +89,16 @@ Search  Search
 * [](https://www.theottoolbox.com/cart/)
 * [](https://www.theottoolbox.com/my-account/)
 
-Privacy Policy
-==============
+Blog Post
+---------
 
-Privacy Policy
+#### Members: Search for related downloads inside The Membership Club:
 
-To keep up with FTC regulations, we offer the following disclosure policy:
+[Level 1](https://www.theottoolbox.com/membership-dashboard-level-1/)
 
-Privacy Policy for www.theottoolbox.com
+[Level 2](https://www.theottoolbox.com/membership-dashboard-level-2/)
 
-The privacy of visitors to www.theottoolbox.com is important to us.
-
-At www.theottoolbox.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit www.theottoolbox.com, and how we safeguard your information. We never sell your personal information to third parties.
-
-Log Files  
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider), the browser you used to visit our site (such as Google Chrome or Firefox), the time you visited our site and which pages you visited throughout our site.
-
-Cookies  
-We use third party advertisements on www.theottoolbox.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
-
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in your browser. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
-
-**Advertising.**  
-This Site is affiliated with CMI Marketing, Inc., d/b/a CafeMedia (“CafeMedia”) for the purposes of placing advertising on the Site, and CafeMedia will collect and use certain data for advertising purposes. To learn more about CafeMedia’s data usage, click here: [www.cafemedia.com/publisher-advertising-privacy-policy](http://www.cafemedia.com/publisher-advertising-privacy-policy)
-
-Affiliate links  
-We apply Amazon affiliate links and other affiliates into blog posts where appropriate to the post.  This means that purchases made through the links on this blog will make us money.  We only link products if they are appropriate to the activity or craft.  This in no way affects our opinions or ideas. 
-
-Products Reviews and Giveaways  
-Occasionally, we receive products or materials from companies for review, use, or giveaway.  This does not affect our opinions in any way.
-
-Sponsored Posts  
-We accept sponsored posts in exchange for compensation.  All opinions are our own.
-
-Ads:  
-We promote ads from advertising networks in exchange for a small percentage of money. 
-
-Disclosure Policy:  
-This policy is valid beginning 20 November 2012.  
-This blog is a collaborative blog written by a group of individuals. This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.  
- This blog abides by word of mouth marketing standards. We believe in honesty of relationship, opinion and identity. The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post will be clearly identified as paid or sponsored content.  
- The owner(s) of this blog is compensated to provide opinion on products, services, websites and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers’ own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.  
- This blog does not contain any content which might present a conflict of interest.
+[Level 2](https://www.theottoolbox.com/tools-from-the-shop/)
 
 ##### Quick Links
 
