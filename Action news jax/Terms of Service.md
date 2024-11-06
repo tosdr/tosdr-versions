@@ -6,7 +6,7 @@ Sections
 
 [76°
 
-![Mostly Cloudy](/pf/resources/images/weather/status-icons/27.png?d=859)](https://www.actionnewsjax.com/weather/)
+![Cloudy](/pf/resources/images/weather/status-icons/26.png?d=859)](https://www.actionnewsjax.com/weather/)
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
