@@ -1,9 +1,9 @@
 Privacy Policy
 --------------
 
-Astrologycraft.com is a product offered by ![Name](//astrologycraft.com/common/images/entity_name.png) ("we," "us," or "our")
+Astrologycraft.com is a product offered by ![Innover Online Media Group Ltd](//astrologycraft.com/common/images/entity_name.png) ("we," "us," or "our")
 
-At ![Name](//astrologycraft.com/common/images/entity_name.png), we provide our users with feature-focused websites, browser extensions & applications that are geared to customized and more specific browsing experiences. Our products facilitate specific functionality and provide ease of access to information and widgets that can be accessed from the new tab, start page and/or via browser search settings.
+At ![Innover Online Media Group Ltd](//astrologycraft.com/common/images/entity_name.png), we provide our users with feature-focused websites, browser extensions & applications that are geared to customized and more specific browsing experiences. Our products facilitate specific functionality and provide ease of access to information and widgets that can be accessed from the new tab, start page and/or via browser search settings.
 
 We are committed to safeguarding the privacy of persons ("you(r)") who visit, access our website, download, install and/or use our browser extensions/add-ons (the "Extension") for search applications installed on your computer or mobile device.
 
@@ -164,7 +164,7 @@ We strive to respond to all verifiable requests within 45 days, though we may ta
 
 1. Data Controller / Data Processor
 
-The GDPR classifies organizations that handle personal information into two groups: Data controllers (that process personal information for their own purposes) and data processors (that process personal information on behalf of other organizations). ![Name](//astrologycraft.com/common/images/entity_name.png) is a Data Controller located at the address mentioned in our Contact Us section.
+The GDPR classifies organizations that handle personal information into two groups: Data controllers (that process personal information for their own purposes) and data processors (that process personal information on behalf of other organizations). ![Innover Online Media Group Ltd](//astrologycraft.com/common/images/entity_name.png) is a Data Controller located at the address mentioned in our Contact Us section.
 
 3. Legal Bases for Processing Personal Data
 
