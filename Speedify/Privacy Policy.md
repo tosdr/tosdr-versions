@@ -150,7 +150,7 @@ Nov 13
 #### Popular Posts
 
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
-* [\[VIDEO\] How to Fix It when WhatsApp Calls Are Not Working](https://speedify.com/blog/fix-whatsapp-calls-not-working/)
+* [Waze No Network Connection Issue Solved in One Easy Step](https://speedify.com/blog/better-internet-anywhere/waze-no-network-connection-solved/)
 * [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
 
 ### Bonding Apps
