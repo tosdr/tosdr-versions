@@ -31,7 +31,6 @@
 * [Get Involved](https://www.uwkc.org/get-involved/)
     * [Events](https://www.uwkc.org/events/)
         * [Eat, Drink & Be Generous](https://www.uwkc.org/events/eat-drink-be-generous/)
-        * [Annual Community BBQ](https://www.uwkc.org/events/annual-community-bbq/)
     * [Volunteer](https://www.uwkc.org/volunteer/)
         * [Free Tax Preparation](https://www.uwkc.org/volunteer/free-tax-prep/)
         * [Celebrating Dr. King’s Legacy](https://www.uwkc.org/volunteer/mlk-day-of-service/)
