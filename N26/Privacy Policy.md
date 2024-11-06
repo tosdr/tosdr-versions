@@ -2,7 +2,7 @@ Privacy Policy
 
 
 
-(Version 9.9., Date 28.10.2024)
+(Version 10.0., Date 06.11.2024)
 
 
 
@@ -1576,7 +1576,7 @@ objection under Section X. 2.
 
 
 
-VII. N26 Social Media Pages and Online Advertising
+VII. N26 Social Media Pages
 
 
 
@@ -1910,110 +1910,6 @@ this purpose or to comply with any applicable statutory requirements.
 
 
 
-3\. Online Advertising
-
-Online advertising helps us promote our products and services on the internet. In this context, we process
-
-personal data about your use of N26 services to deliver personalised advertisements to you and other internet
-
-users online and to measure and optimise their performance. We only process personal data for online
-
-advertising purposes if you consent to such processing, in accordance with Art. 6 (1) a) GDPR and Section 25 (1)
-
-of the German Act on Data Protection and Privacy in Telecommunications and Digital Services (TDDDG)
-
-together with Art. 5 (3) of the EU Directive on Privacy and Electronic Communications (Directive 2002/58/EC) and
-
-the respective national act of implementation. You can revoke your consent at any time in the N26 App via My
-
-Account \> App-Settings \> Marketing Communications \> “Advertising Partners” (disable toggle) or in the N26 Web
-
-App under My Account \> Personal Details \> “Advertising Partners” (disable toggle). The data processing for
-
-online advertising purposes is described in more detail further down in each section.
-
-
-
-1. Custom and lookalike audiences
-
-We process your data to create so-called custom and lookalike audiences. Custom audiences consist of N26
-
-customers and internet users and are created to display personalised content to both groups. This permits us
-
-to exclude N26 customers from the delivery of advertisements that we believe are not relevant to them.
-
-Lookalike audiences consist of internet users that share certain characteristics with N26 customers, which
-
-enables us to define target groups that are more similar to N26 customers than the average internet user and
-
-deliver more relevant advertisements to them.
-
-
-
-To create custom and lookalike audiences, we use the services of our Advertising Partners below:
-
-
-
-● Google Ireland Ltd, Google Building Gordon House, 4 Barrow St, dublin, Ireland (“Google”);
-
-● Meta Platforms Ireland Ltd, 4 Grand Canal Square, Grand Canal Harbour, dublin 2, Ireland ("Meta");
-
-● TikTok Technology Ltd, 10 Earlsfort Terrace, Dublin, D02 T380, Ireland (“TikTok”).
-
-
-
-For the purposes described above, we transfer your pseudonymised email address to Google and Meta.
-
-Furthermore we transfer your IDFA (advertising identifier) or Google ID to TikTok. They then match this data
-
-against a potential account you might have on their services. For this purpose, and regardless of whether the
-
-matching is successful or not, the data is retained by Google for up to 48 hours, by Meta for up to 8 hours and
-
-by TikTok for up to 14 days, after which it is deleted. You can find further information on how these
-
-technologies work under How Google uses Customer Match data, in the terms of Facebook Custom Audiences
-
-and in the terms of TikTok Custom Audiences.
-
-
-
-2. Conversion tracking
-
-
-
-We process your data to capture specific actions that take place inside the N26 App and Web App, specifically
-
-the sign-up, acceptance of T\&Cs, identification procedure of new customers and completion of a first
-
-transaction (so-called “conversions”). This enables us to measure and optimise the performance of our online
-
-advertisements and to deliver them to internet users that we infer are more likely to complete these
-
-conversions.
-
-
-
-For the purposes described above, we use the services of Google and Meta (as identified in the previous
-
-section). We transfer conversion data, including date and time, to Google and Meta together with the following
-
-personal data, which is transmitted with encryption: email address, first name, last name, phone number,
-
-gender, city, zip code and country of residence, IP address, customer ID and predicted customer lifetime value.
-
-
-
-These data points are associated with other personal data collected on our website (see the section on
-
-Personalisation/Targeting Cookies in our Cookie Policies for N26 websites and apps). Google and Meta are able
-
-to associate these data with your account on their services, if existent. The data is deleted by Google after a
-
-maximum of 18 months and by Meta after a maximum of 2 years.
-
-
-
 VIII. International transfers of personal data
 
 Insofar as N26 transmits data to entities located outside the European Economic Area and in order to ensure an
@@ -2223,8 +2119,6 @@ direct marketing purposes, your personal data is not processed any longer for th
 your personal data remains justified until the date of your objection. You can exercise your right of objection
 
 through our webform.
-
-
 
 XI. Deletion and retention periods
 
