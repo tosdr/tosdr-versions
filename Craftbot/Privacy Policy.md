@@ -10,7 +10,7 @@
     
 * [3D printers](#)
     
-    [Craftbot PLUS PRO](https://craftbot.com/products/craftbot-plus-pro) [Craftbot FLOW](https://craftbot.com/products/craftbot-flow) [Craftbot FLOW XL](https://craftbot.com/products/craftbot-flow-xl) [Craftbot FLOW IDEX](https://craftbot.com/products/craftbot-flow-idex) [Craftbot FLOW IDEX XL](https://craftbot.com/products/craftbot-flow-idex-xl) [Craftbot FLOW Wide XL](https://craftbot.com/products/craftbot-flow-wide-xl)
+    [Craftbot PLUS PRO](https://craftbot.com/products/craftbot-plus-pro) [Craftbot FLOW](https://craftbot.com/products/craftbot-flow) [Craftbot FLOW XL](https://craftbot.com/products/craftbot-flow-xl) [Craftbot FLOW IDEX](https://craftbot.com/products/craftbot-flow-idex) [Craftbot FLOW IDEX XL](https://craftbot.com/products/craftbot-flow-idex-xl) [Craftbot FLOW Wide XL](https://craftbot.com/products/craftbot-flow-wide-xl) [Craftbot FLOW IDEX MK2](https://craftbot.com/products/craftbot-flow-idex-mk2)
     
 * [software](#)
     
