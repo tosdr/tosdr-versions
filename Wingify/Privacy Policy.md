@@ -170,6 +170,10 @@
     
     Supercharge Your HubSpot CRM: Unlocking Advanced CRO Capabilities with VWO Integration](https://vwo.com/webinars/supercharge-your-hubspot-crm-unlocking-advanced-cro-capabilities-with-vwo-integration/)
     
+    [![Deborah O'Malley](https://static.wingify.com/gcp/uploads/2024/01/1680726941193.jpeg?tr=w-60,h-50)
+    
+    Maximizing Revenue with A/B Testing During Black Friday & Cyber Monday: Opportunities, Challenges, and Risks](https://vwo.com/webinars/maximizing-revenue-a-b-testing-during-black-friday-cyber-monday-opportunities-challenges-risks/)
+    
     [![Michael Stineman](https://static.wingify.com/gcp/uploads/2024/10/mike-stineman-PREFERRED-019_modus_2017-1-1-scaled.jpg?tr=w-60,h-50)
     
     Use CRO Like the Pros: Surprising Ways to Nail Your CX](https://vwo.com/webinars/use-cro-like-pros-surprising-ways-nail-your-cx/)
@@ -177,10 +181,6 @@
     [![Evelina Jörhov](https://static.wingify.com/gcp/uploads/2024/10/evelinajorhov-1.jpg?tr=w-60,h-50)
     
     Heatmaps: Visualizing User Engagement for Maximum Conversions](https://vwo.com/webinars/heatmaps-visualizing-user-engagement-maximum-conversions/)
-    
-    [![Ishan Goel](https://static.wingify.com/gcp/uploads/2023/12/speaker-17.png?tr=w-60,h-50)
-    
-    Fireside Chat: VWO’s Enhanced Stats Engine and More!](https://vwo.com/webinars/fireside-chat-vwo-enhanced-stats-engine-more/)
     
     [View all webinars](https://vwo.com/webinars)
     
@@ -957,6 +957,26 @@ Password: \*
 
 Password
 
+#### What are you looking to optimize?\*
+
+ 🌐 Websites
+
+ 📱 Mobile Apps
+
+ 🚀 Feature Releases
+
+A value for this field is required.
+
+#### Select optimization capabilities you like to explore
+
+ Analyze visitor behavior
+
+ Design and run experiments
+
+ Personalize visitor experiences
+
+ Rollout and rollback features
+
  I agree to VWO's [Privacy Policy](https://vwo.com/privacy-policy/) & [Terms](https://vwo.com/terms/)
 
 Create Account
@@ -983,21 +1003,41 @@ Thank you, for sharing your details.
 
 To begin, tell us a bit about yourself
 
-First Name 
+First Name\* 
 
 Invalid First Name
 
-Last Name 
+Last Name\* 
 
 Invalid Last Name
 
-Business Email 
+Business Email\* 
 
 Invalid Email
 
-Phone Number 
+Phone Number\* 
 
 Invalid Phone Number
+
+#### What are you looking to optimize?\*
+
+ 🌐 Websites
+
+ 📱 Mobile Apps
+
+ 🚀 Feature Releases
+
+A value for this field is required.
+
+#### Select optimization capabilities you like to explore
+
+ Analyze visitor behavior
+
+ Design and run experiments
+
+ Personalize visitor experiences
+
+ Rollout and rollback features
 
  I agree to VWO's [Privacy Policy](https://vwo.com/privacy-policy/) & [Terms](https://vwo.com/terms/)
 
@@ -1009,14 +1049,6 @@ Confirm schedule later
 
 While we will deliver a demo that covers the entire VWO platform, please share a few details for us to **personalize the demo for you.**
 ----------------------------------------------------------------------------------------------------------------------------------------
-
-### Select the capabilities that you would like us to emphasise on during the demo.
-
-   Mobile App Heatmaps  Mobile App Session Recordings  A/B Testing  Split Testing  Surveys  Multivariate Testing  Multi-Arm Bandit Testing  Personalization  Form Analysis  Funnel Analysis  Mobile App Testing  Server Side Testing  Web Session Recordings  Web Heatmaps  Rollouts/Deploy  User Segmentation  Feature Management
-
-Next Skip
-
-Back
 
 ### Which of these sounds like you?
 
@@ -1034,11 +1066,17 @@ Next Skip
 
 Back
 
-### Please share the URL of your website.
+### Please provide your website URL or links to your application.
 
-We will come prepared with a demo environment for this specific website.
+We will come prepared with a demo environment for this specific website or application.
 
  
+
+Website URL 
+
+Invalid URL
+
+Application URL 
 
 Invalid URL
 
