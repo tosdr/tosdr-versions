@@ -341,16 +341,6 @@ Enable Dark Mode
         
         Read more](https://www.theadvocates.org/anything-peaceful/)
         
-    *    [![](/wp-content/themes/yootheme/cache/13/Screenshot-2024-08-27-at-12.26.38%E2%80%AFPM-132f9227.png) ![](/wp-content/themes/yootheme/cache/13/Screenshot-2024-08-27-at-12.26.38%E2%80%AFPM-132f9227.png)
-        
-        Underthrow Series
-        
-        What’s So Great About Polycentricity?
-        
-        by **Max Borders**
-        
-        Read more](https://www.theadvocates.org/whats-so-great-about-polycentricity/)
-        
     
     [](#)[](#)
     
@@ -632,16 +622,6 @@ Articles
     by **Max Borders**
     
     Read more](https://www.theadvocates.org/anything-peaceful/)
-    
-*    [![](/wp-content/themes/yootheme/cache/13/Screenshot-2024-08-27-at-12.26.38%E2%80%AFPM-132f9227.png) ![](/wp-content/themes/yootheme/cache/13/Screenshot-2024-08-27-at-12.26.38%E2%80%AFPM-132f9227.png)
-    
-    Underthrow Series
-    
-    What’s So Great About Polycentricity?
-    
-    by **Max Borders**
-    
-    Read more](https://www.theadvocates.org/whats-so-great-about-polycentricity/)
     
 
 ### Terms & Conditions
