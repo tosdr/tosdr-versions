@@ -318,15 +318,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-There are about 3,000 wizards in Britain.
+The Golden Snitch was invented by Bowman Wright, a metal charmer who lived during the Middle Ages.
 
 ### Potter History
 
-July 25, 2006 – The paperback edition of Harry Potter and the Half-Blood Prince is released in the United States.
+March 23, 2007 – Warner Bros. announces that Daniel Radcliffe, Rupert Grint, and Emma Watson are all signed on for the final two Harry Potter films.
 
 ### Potter Quote
 
-“Wild! I can make that old bloke down there pick his nose again . . . and again . . . and again . . .”
+“He knows what you were born, not who you are.”
 
 [](#)
 
