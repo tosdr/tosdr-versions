@@ -17,12 +17,12 @@ Login with username, password and session length
 News:
 -----
 
-[Donations](https://www.thefurryforum.com/forums/index.php?action=treasury) keep our forum going! You get some nifty [perks](https://www.thefurryforum.com/forums/index.php?topic=15189.0) with it too!
+**Any thread that is unlocked** is free to be posted in! Threads are not considered "dead" until they are locked.
 
   
   
 
-[![Juliet](adverts/juliet.png "Juliet")](https://www.furaffinity.net/user/julietthewhitewitch)
+[![Your ad here](adverts/tff_ad_blank.jpg "Your ad here")](https://www.thefurryforum.com/forums/index.php?topic=18442.0)
 
   
 
