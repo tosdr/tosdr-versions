@@ -46,6 +46,26 @@ FOX SCORES
     | SYD6 | 7 /155 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250115)
+* [Women's BBL
+    
+    7/11 17:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SYDT | –   |
+    | BRI | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250116)
+* [Women's BBL
+    
+    7/11 20:35 AEST
+    
+    |     |     |
+    | --- | --- |
+    | PER | –   |
+    | MELR | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250117)
 * NRL
     
 * [Women's PC
@@ -142,6 +162,36 @@ FOX SCORES
     | TWN | 84  |
     
     Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25020001/play-by-play)
+* [WNBL
+    
+    7/11 19:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | GEE | –   |
+    | SOU | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25020002)
+* [NBL
+    
+    7/11 19:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BRI | –   |
+    | MEL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25080001)
+* [NBL
+    
+    7/11 21:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | PER | –   |
+    | TAS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25080002)
 * [NBA
     
     7/11 11:00 AEST
@@ -266,22 +316,22 @@ FOX SCORES
     
 * [UCL
     
-    7/11 4:45 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | CB  | –   |
-    | AVL | –   |
+    | CB  | 1   |
+    | AVL | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250419)
 * [UCL
     
-    7/11 4:45 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | DON | –   |
-    | YB  | –   |
+    | DON | 2   |
+    | YB  | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250421)
 * [UCL
@@ -306,12 +356,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250429)
 * [UCL
     
-    7/11 7:00 AEST
+    Other Delay
     
     |     |     |
     | --- | --- |
-    | BAY | –   |
-    | BEN | –   |
+    | BAY | 0   |
+    | BEN | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250435)
 * [UCL
@@ -1087,7 +1137,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre)
+[Scores](https://www.foxsports.com.au/score-centre/live-now)
 
 * [Video](https://www.foxsports.com.au/video)
 * [Melbourne Cup](https://www.foxsports.com.au/horse-racing/melbourne-cup)
