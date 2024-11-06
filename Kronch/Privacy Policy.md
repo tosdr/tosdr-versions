@@ -17,8 +17,8 @@ top of page
     * [LAKSE KRONCH "ORIGINAL" 100% ZALM](https://www.kronch.nl/lakse-kronch-original-100-zalm)
     * [LAKSE KRONCH "POCKET"](https://www.kronch.nl/lakse-kronch-pocket)
     * [ZALMOLIE](https://www.kronch.nl/zalmolie-voor-honden)
-    * [SALMOCA](https://www.kronch.nl/salmoca)
-    * [PEMMIKAN](https://www.kronch.nl/pemmikan)
+    * [SALMOCA](https://www.kronch.nl/salmoca-zalmolie-hennepzaadolie-hond)
+    * [PEMMIKAN](https://www.kronch.nl/pemmikan-energiereep-honden)
     * [NON-FOOD](https://www.kronch.nl/nonfood)
 * [KATTEN](https://www.kronch.nl/katten)
     * [KATTENVOER](https://www.kronch.nl/kattenbrokjes-met-zalm)
@@ -252,7 +252,7 @@ Het neusje van de zalm
 
 ​
 
-[Pemmikan](https://www.kronch.nl/pemmikan)
+[Pemmikan](https://www.kronch.nl/pemmikan-energiereep-honden)
 
 ###### Bezoekadres
 
