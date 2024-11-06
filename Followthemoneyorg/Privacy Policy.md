@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Lobbyists](/assets/Images/teasers/small/company-lobbyists-pie-chart-new3.png)](https://www.followthemoney.org/research/institute-research/buying-broadband-a-boost)
-
-Telecom companies hire 1,000s of state lobbyists.
+[![Gun-Control Groups Loaded in Washington State](/assets/Images/teasers/full/WA-Gun-Control-Measures-2014.png)](http://www.followthemoney.org/research/blog/gun-control-groups-loaded-in-washington-state/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
