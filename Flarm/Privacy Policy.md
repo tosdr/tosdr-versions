@@ -344,7 +344,7 @@ Wir nutzen insbesondere:
 * **[Google Tag Manager:](https://marketingplatform.google.com/about/tag-manager/)** Einbindung und Verwaltung von sonstigen Diensten für die Erfolgs- und Reichweitenmessung sowie weiteren Diensten von Google als auch von Dritten; Anbieterin: Google; Google Tag Manager-spezifische Angaben: [«Mit Google Tag Manager erfasste Daten»](https://support.google.com/tagmanager/answer/9323295?hl=de); weitere Angaben zum Datenschutz finden sich bei den einzelnen eingebundenen und verwalteten Diensten.
 * **[Matomo:](https://matomo.org/free-software/)** Erfolgs- und Reichweitenmessung; Anbieterin: Matomo (freie Open Source-Software); Angaben zum Datenschutz: Verwendung auf eigener Server-Infrastruktur sowie mit pseudonymisierten Internet Protocol (IP)-Adressen, [«Liste aller Matomo-Funktionen» («List of all Matomo Features»)](https://matomo.org/features/).
 
-### \+ 60’000  
+### \+ 85’000  
 Aircraft  
 trust FLARM
 
