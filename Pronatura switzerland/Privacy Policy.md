@@ -136,6 +136,14 @@ Pronatura Main
     * [Sauvegarde des réserves naturelles](https://www.pronatura.ch/fr/reserves-naturelles)
     * [Autres thèmes](https://www.pronatura.ch/fr/nos-themes)
     
+* [Participer](https://www.pronatura.ch/fr/mitmachen)
+    
+    * [Bénévolat](https://www.pronatura.ch/fr/engagement-benevole)
+    * [Enfants et jeunes](https://www.pronatura.ch/fr/juniors)
+    * [Corps enseignant](https://www.pronatura.ch/fr/enseignant-e-s)
+    * [Conseils nature](https://www.pronatura.ch/fr/trucs-astuces-nature)
+    * [Soutien financier](https://www.pronatura.ch/fr/votre-engagement)
+    
 * [Visiter](https://www.pronatura.ch/fr/nos-offres)
     
     * [Manifestations](https://www.pronatura.ch/fr/calendrier)
