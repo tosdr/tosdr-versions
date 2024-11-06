@@ -22,7 +22,7 @@ Share
 
 The #1 AI Video Platform
 
-Explore all the Syntehsia features to easily produce your training, marketing and internal videos.
+Explore all the Synthesia features to easily produce your training, marketing and internal videos.
 
 Explore all features](https://www.synthesia.io/features)
 
