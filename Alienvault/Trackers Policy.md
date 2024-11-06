@@ -113,9 +113,9 @@
             
             Product Brief
             
-            ##### LevelBlue API Security is the Intelligent Way to Protect Your APIs from Business Logic Abuse and Data Theft
+            ##### LevelBlue Consulting Adversary Simulation Service
             
-            [Learn more](https://cyber.levelblue.com/m/a4ce2dcca22a5bd/original/PB-API-Security.pdf)
+            [Learn more](https://cyber.levelblue.com/m/7a567d558a6a2208/original/PB-Adversary-Simulation-Consulting.pdf)
             
             [View all Product Briefs](https://www.alienvault.com/resource-center#content_product-brief)
             
@@ -163,11 +163,11 @@
             
         * [Blog Read the latest coverage on security matters](https://www.alienvault.com/blogs)
             
-            blog
+            Blog: Security Essentials
             
-            ##### Ngioweb Remains Active 7 Years Later
+            ##### Enhancing Cyber Resilience in Energy and Utilities Organizations
             
-            [Learn more](https://levelblue.com/blogs/labs-research/ngioweb-remains-active-7-years-later)
+            [Learn more](https://levelblue.com/blogs/security-essentials/enhancing-cyber-resilience-in-energy-and-utilities-organizations)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -433,13 +433,13 @@ If you have any queries regarding this Cookie Policy please contact us at [dl-cy
 
 From the Blog
 
-![Fernando Martinez](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Theresa Lanowitz](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Fernando Martinez
+#### Theresa Lanowitz
 
-Nov 1, 2024
+Nov 6, 2024
 
-### [Ngioweb Remains Active 7 Years Later](https://levelblue.com/blogs/labs-research/ngioweb-remains-active-7-years-later)
+### [Enhancing Cyber Resilience in Energy and Utilities Organizations](https://levelblue.com/blogs/security-essentials/enhancing-cyber-resilience-in-energy-and-utilities-organizations)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
