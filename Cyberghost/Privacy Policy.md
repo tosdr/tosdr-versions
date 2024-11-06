@@ -397,15 +397,14 @@ Connect with us
 
 ×
 
-HALLOWEEN SALE
+![](https://assets.cyberghostvpn.com/photos/cg/campaigns/july2022/ei-default-image.png)
 
-OFF
----
+### Time to Step up Your Digital Protection
 
-Slash online threats with **4 months FREE!**
+The 2-Year Plan Is Now  
+Available for only /mo
+-----------------------------------------------
 
-**Get It Now | /mo**
+**Save Now**
 
-![undefined](https://assets.cyberghostvpn.com/photos/cg/Custom-Checked-Shield.svg) 45-Day Money-Back Guarantee
-
-![](https://assets.cyberghostvpn.com/photos/cg/campaigns/halloween24/exit-intent/pumpkin.svg)
+![undefined](https://assets.cyberghostvpn.com/photos/cg/campaigns/july2022/cg-fp-small-shield.svg) 45-Day Money-Back Guarantee
