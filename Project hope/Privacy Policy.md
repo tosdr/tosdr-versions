@@ -1,11 +1,5 @@
 [Skip to main content](#maincontent)
 
-URGENT ALERT
-
-Hurricane Update - Responding in North Carolina and Florida
-
-[DONATE](https://secure.projecthope.org/site/SPageNavigator/FY24_10_Hurricane_Helene_Milton_Web_LO_12316.html "DONATE") Close
-
 [Donate](https://secure.projecthope.org/site/SPageNavigator/2024_Multistep_Main.html?autologin=true&mfc_pref=T&frequency=monthly&amount=50 "Donate")
 
 [![Project Hope Logo](/wp-content/themes/projecthope/assets/images/logo.svg)](https://www.projecthope.org/)
