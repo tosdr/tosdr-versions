@@ -280,19 +280,6 @@
 
 * [GitHub](https://github.com/npm/documentation)
 
-### Table of contents
-
-* [tl;dr](#tldr)
-* [Scope](#scope)
-* [Friendly Harassment-Free Space](#friendly-harassment-free-space)
-* [Acceptable Use](#acceptable-use)
-* [Reporting Violations of this Code of Conduct](#reporting-violations-of-this-code-of-conduct)
-* [Consequences](#consequences)
-* [Appeal and Reinstatement](#appeal-and-reinstatement)
-* [Contact Info](#contact-info)
-* [Changes](#changes)
-* [Credit and License](#credit-and-license)
-
 1. [Policies](https://www.npmjs.com/policies)
 2. [Code of Conduct](https://www.npmjs.com/policies/conduct)
 
@@ -412,3 +399,16 @@ This is a living document and may be updated from time to time. Please refer to 
 This Code of Conduct borrows heavily from the Stumptown Syndicate [Citizen's Code of Conduct](http://citizencodeofconduct.org/), and the [Rust Project Code of Conduct](https://www.rust-lang.org/conduct.html).
 
 This document may be reused under a [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+### Table of contents
+
+* [tl;dr](#tldr)
+* [Scope](#scope)
+* [Friendly Harassment-Free Space](#friendly-harassment-free-space)
+* [Acceptable Use](#acceptable-use)
+* [Reporting Violations of this Code of Conduct](#reporting-violations-of-this-code-of-conduct)
+* [Consequences](#consequences)
+* [Appeal and Reinstatement](#appeal-and-reinstatement)
+* [Contact Info](#contact-info)
+* [Changes](#changes)
+* [Credit and License](#credit-and-license)
