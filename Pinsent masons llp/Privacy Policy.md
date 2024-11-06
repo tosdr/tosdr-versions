@@ -1,6 +1,6 @@
 [Skip to main content](#skipnav)
 
-[](https://www.pinsentmasons.com/en-gb "Pinsent Masons")
+[](https://www.pinsentmasons.com/ "Pinsent Masons")
 
 1. [Legal Notices](https://www.pinsentmasons.com/legal-notices) 
 2. Privacy Policy [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy) 
@@ -109,8 +109,8 @@ Please enter a search term
         * [Insurance](https://www.pinsentmasons.com/sectors/financial-services/insurance)
         * [Private Equity](https://www.pinsentmasons.com/sectors/financial-services/private-equity)
         * [All Financial Services](https://www.pinsentmasons.com/sectors/financial-services)
-    * [Real Estate](https://www.pinsentmasons.com/sectors/real-estate)
     * [Infrastructure](https://www.pinsentmasons.com/sectors/infrastructure)
+    * [Real Estate](https://www.pinsentmasons.com/sectors/real-estate)
     * [Technology, Science & Industry](https://www.pinsentmasons.com/sectors/technology-science-industry)
         * [Technology, Science & Industry](https://www.pinsentmasons.com/sectors/technology-science-industry)
         * [Diversified Industrial](https://www.pinsentmasons.com/sectors/technology-science-industry/diversified-industrial)
@@ -175,6 +175,7 @@ Please enter a search term
     * [Biotech Express - biotech startup documentation](https://www.pinsentmasons.com/solutions/biotech-express)
     * [Carry Scheme Automation](https://www.pinsentmasons.com/solutions/carry-scheme-automation)
     * [CLM Maturity Assessment - contract management maturity](https://www.pinsentmasons.com/solutions/clm-assessment)
+    * [CSDDD Self Check](https://www.pinsentmasons.com/solutions/csddd-self-check)
     * [CSRD Self Check](https://www.pinsentmasons.com/solutions/csrd-self-check)
     * [Cyturion - cyber readiness](https://www.pinsentmasons.com/solutions/cyturion)
     * [Datalis](https://www.pinsentmasons.com/solutions/datalis)
@@ -184,6 +185,7 @@ Please enter a search term
     * [Employment Law +](https://www.pinsentmasons.com/solutions/employment-law-plus)
     * [Human Cyber Index - security culture development](https://www.pinsentmasons.com/solutions/human-cyber-index)
     * [Medtech Express - medtech startup documentation](https://www.pinsentmasons.com/solutions/medtech-express)
+    * [Pay Equity Solution](https://www.pinsentmasons.com/solutions/pay-equity-solution)
     * [Pensions Solutions](https://www.pinsentmasons.com/solutions/pensions-services)
     * [P2C: Procurement to Completion](https://www.pinsentmasons.com/solutions/construction-procurement-contracts)
     * [Schrems II Managed Legal Service](https://www.pinsentmasons.com/solutions/schrems-ii-managed-legal-service)
@@ -985,23 +987,23 @@ Other notices and information
     
     ### Sectors we work in
     
-    * [Energy](https://www.pinsentmasons.com/en-gb/sectors/energy)
-    * [Financial Services](https://www.pinsentmasons.com/en-gb/sectors/financial-services)
-    * [Infrastructure](https://www.pinsentmasons.com/en-gb/sectors/infrastructure)
-    * [Technology, Science & Industry](https://www.pinsentmasons.com/en-gb/sectors/technology-science-industry)
-    * [Real Estate](https://www.pinsentmasons.com/en-gb/sectors/real-estate)
+    * [Energy](https://www.pinsentmasons.com/sectors/energy)
+    * [Financial Services](https://www.pinsentmasons.com/sectors/financial-services)
+    * [Infrastructure](https://www.pinsentmasons.com/sectors/infrastructure)
+    * [Technology, Science & Industry](https://www.pinsentmasons.com/sectors/technology-science-industry)
+    * [Real Estate](https://www.pinsentmasons.com/sectors/real-estate)
     
     ### What we do
     
-    * [Your assets](https://www.pinsentmasons.com/en-gb/what-we-do/your-assets)
-    * [Your company](https://www.pinsentmasons.com/en-gb/what-we-do/your-company)
-    * [Your finance](https://www.pinsentmasons.com/en-gb/what-we-do/your-finance)
-    * [Your legal team and resource](https://www.pinsentmasons.com/en-gb/what-we-do/your-legal-team-and-resource)
-    * [Your people](https://www.pinsentmasons.com/en-gb/what-we-do/your-people)
-    * [Your risks and regulatory environment](https://www.pinsentmasons.com/en-gb/what-we-do/your-risks-and-regulatory-environment)
+    * [Your assets](https://www.pinsentmasons.com/what-we-do/your-assets)
+    * [Your company](https://www.pinsentmasons.com/what-we-do/your-company)
+    * [Your finance](https://www.pinsentmasons.com/what-we-do/your-finance)
+    * [Your legal team and resource](https://www.pinsentmasons.com/what-we-do/your-legal-team-and-resource)
+    * [Your people](https://www.pinsentmasons.com/what-we-do/your-people)
+    * [Your risks and regulatory environment](https://www.pinsentmasons.com/what-we-do/your-risks-and-regulatory-environment)
     
 
-[](https://www.pinsentmasons.com/en-gb "Pinsent Masons")
+[](https://www.pinsentmasons.com/ "Pinsent Masons")
 
 * [Legal Notices](https://www.pinsentmasons.com/legal-notices)
 * [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy)
