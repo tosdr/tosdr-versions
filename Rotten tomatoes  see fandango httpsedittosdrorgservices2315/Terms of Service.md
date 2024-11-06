@@ -6,6 +6,7 @@
 
 * [Movies](https://www.fandango.com/movies-in-theaters)
 * [Theaters](https://www.fandango.com/movietimes)
+* [FanStore](https://store.fandango.com/)
 * [At Home](https://www.vudu.com/?cmp=fandango_globalnav_web)
 * [Movie News](https://www.fandango.com/movie-news)
 * [Sign In/Join](https://www.fandango.com/accounts/join-now?from=https%3A%2F%2Fwww.fandango.com%2Fpolicies%2Fterms-and-policies)
