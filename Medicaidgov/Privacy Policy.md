@@ -123,7 +123,15 @@ MainMenu
     [View all in Medicaid](https://www.medicaid.gov/medicaid/index.html)
     
     * [Medicaid State Plan Amendments](https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments/index.html)
-    * [Access to Care](https://www.medicaid.gov/medicaid/access-care/index.html)
+    * Access to Care
+        
+        [View all in Access to Care](https://www.medicaid.gov/medicaid/access-care/index.html)
+        
+        * [Medicaid Advisory Committees & Beneficiary Advisory Councils](https://www.medicaid.gov/medicaid/access-care/medicaid-advisory-committees-and-beneficiary-advisory-councils/index.html)
+        * [Home and Community-Based Services (HCBS) Provisions](https://www.medicaid.gov/medicaid/access-care/home-and-community-based-services-provisions/index.html)
+        * [Documentation of Access to Care and Service Payment Rates](https://www.medicaid.gov/medicaid/access-care/documentation-of-access-care-and-service-payment-rates/index.html)
+        * [Previous Rules and RFIs](https://www.medicaid.gov/medicaid/access-care/previous-rules-and-rfis/index.html)
+        * [Other Resources](https://www.medicaid.gov/medicaid/access-care-new/other-resources/index.html)
     * Program Integrity
         
         [View all in Program Integrity](https://www.medicaid.gov/medicaid/program-integrity/index.html)
@@ -459,7 +467,15 @@ MainMenu Desktop
     [View all in Medicaid](https://www.medicaid.gov/medicaid/index.html)
     
     * [Medicaid State Plan Amendments](https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments/index.html)
-    * [Access to Care](https://www.medicaid.gov/medicaid/access-care/index.html)
+    * Access to Care
+        
+        [View all in Access to Care](https://www.medicaid.gov/medicaid/access-care/index.html)
+        
+        * [Medicaid Advisory Committees & Beneficiary Advisory Councils](https://www.medicaid.gov/medicaid/access-care/medicaid-advisory-committees-and-beneficiary-advisory-councils/index.html)
+        * [Home and Community-Based Services (HCBS) Provisions](https://www.medicaid.gov/medicaid/access-care/home-and-community-based-services-provisions/index.html)
+        * [Documentation of Access to Care and Service Payment Rates](https://www.medicaid.gov/medicaid/access-care/documentation-of-access-care-and-service-payment-rates/index.html)
+        * [Previous Rules and RFIs](https://www.medicaid.gov/medicaid/access-care/previous-rules-and-rfis/index.html)
+        * [Other Resources](https://www.medicaid.gov/medicaid/access-care-new/other-resources/index.html)
     * Program Integrity
         
         [View all in Program Integrity](https://www.medicaid.gov/medicaid/program-integrity/index.html)
