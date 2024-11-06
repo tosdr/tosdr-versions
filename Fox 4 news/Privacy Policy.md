@@ -402,39 +402,39 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Live swing state election results maps](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/swing-states-live-results.jpg?ve=1&tl=1)
+ [![Election Day 2024: Live updates](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183154530.jpg?ve=1&tl=1)
 
- ![Live swing state election results maps](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/swing-states-live-results.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/presidential-election-results-swing-states-live)
-
-Live Now
-
-### [Live swing state election results maps](https://www.fox4news.com/election/presidential-election-results-swing-states-live)
-
- [![Craig Goldman wins U.S. House District 12 seat](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/P-DIAL-TX-DISTRICT-12-AND-26-RACE_KDFW4e6e_146_mxf_00.00.49.50.jpg?ve=1&tl=1)
-
- ![Craig Goldman wins U.S. House District 12 seat](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/592/333/P-DIAL-TX-DISTRICT-12-AND-26-RACE_KDFW4e6e_146_mxf_00.00.49.50.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/craig-goldman-house-district-12-kay-granger)
-
-### [Craig Goldman wins U.S. House District 12 seat](https://www.fox4news.com/election/craig-goldman-house-district-12-kay-granger)
-
- [![Election Day 2024: Live updates](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/people-at-the-voting-polls.jpg?ve=1&tl=1)
-
- ![Election Day 2024: Live updates](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/people-at-the-voting-polls.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/election-day-live-updates-2024)
+ ![Election Day 2024: Live updates](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183154530.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/election-day-live-updates-2024)
 
 Live Now
 
 ### [Election Day 2024: Live updates](https://www.fox4news.com/news/election-day-live-updates-2024)
 
- [![Brandon Gill, son-in-law of conservative filmmaker Dinesh D'Souza, wins U.S. House District 26](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/brandon-gill.jpg?ve=1&tl=1)
+ [![Election 2024: Live swing state updates](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2182509392.jpg?ve=1&tl=1)
 
- ![Brandon Gill, son-in-law of conservative filmmaker Dinesh D'Souza, wins U.S. House District 26](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/592/333/brandon-gill.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/brandon-gill-dinesh-dsouza-son-in-law-wins-u-s-house-district-26)
+ ![Election 2024: Live swing state updates](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2182509392.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/swing-states-live-updates-president)
 
-### [Brandon Gill, son-in-law of conservative filmmaker Dinesh D'Souza, wins U.S. House District 26](https://www.fox4news.com/election/brandon-gill-dinesh-dsouza-son-in-law-wins-u-s-house-district-26)
+Live Now
 
- [![Marc Veasey wins reelection in Texas' 33rd Congressional District](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/0527b662-H-S-VEASEY20POLICE20TRANSPARE_1475547319621_2125605_ver1.0.jpg?ve=1&tl=1)
+### [Election 2024: Live swing state updates](https://www.fox4news.com/news/swing-states-live-updates-president)
 
- ![Marc Veasey wins reelection in Texas' 33rd Congressional District](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/0527b662-H-S-VEASEY20POLICE20TRANSPARE_1475547319621_2125605_ver1.0.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/marc-veasey-wins-reelection-north-texas-33rd-congressional-district)
+ [![Watch live: FOX News projects Trump will win race for White House](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183209475.jpg?ve=1&tl=1)
 
-### [Marc Veasey wins reelection in Texas' 33rd Congressional District](https://www.fox4news.com/election/marc-veasey-wins-reelection-north-texas-33rd-congressional-district)
+ ![Watch live: FOX News projects Trump will win race for White House](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183209475.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-wins-presidency-fox-news-projects)
+
+### [Watch live: FOX News projects Trump will win race for White House](https://www.fox4news.com/news/trump-wins-presidency-fox-news-projects)
+
+ [![How many electoral votes does each swing state have? PA, GA, NC called for Trump](https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2020/08/32/18/GettyImages-1058414620.jpg?ve=1&tl=1)
+
+ ![How many electoral votes does each swing state have? PA, GA, NC called for Trump](https://images.foxtv.com/images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2020/08/32/18/592/333/GettyImages-1058414620.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/how-many-electoral-votes-does-each-swing-state-have)
+
+### [How many electoral votes does each swing state have? PA, GA, NC called for Trump](https://www.fox4news.com/news/how-many-electoral-votes-does-each-swing-state-have)
+
+ [![U.S. Rep. Colin Allred: 'You can't just be a patriot when your side wins'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/abe37dacce96846e75008dfc4c9d7023.jpg?ve=1&tl=1)
+
+ ![U.S. Rep. Colin Allred: 'You can't just be a patriot when your side wins'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/abe37dacce96846e75008dfc4c9d7023.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/colin-allred-concession-speech)
+
+### [U.S. Rep. Colin Allred: 'You can't just be a patriot when your side wins'](https://www.fox4news.com/election/colin-allred-concession-speech)
 
 [![Live Texas Election Results 2024](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/texas-results.jpg?ve=1&tl=1)](https://www.fox4news.com/election/texas-election-results-2024)
 
