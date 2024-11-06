@@ -1,3 +1,4 @@
-[About Us](https://www.samacsys.com/aboutus/) [Contact Us](https://componentsearchengine.com/contact-us) [Terms of Service](https://www.supplyframe.com/company/terms/) [Privacy Policy](https://componentsearchengine.com/privacyPolicy) [Digital Services Act](https://supplyframe.com/digital-services-act/) [Library Loader](https://componentsearchengine.com/learn-more) [ECAD Part Wizard](https://www.samacsys.com/epw) [Twitter](https://hubs.la/H0-1T2j0) [LinkedIn](https://hubs.la/H0-1Tbq0)
+Privacy Policy
+==============
 
-All content Copyright © 2020, [Supplyframe.com](https://supplyframe.com/). All rights reserved. [Back to top ↑](#header)
+Last updated on October 14, 2019
