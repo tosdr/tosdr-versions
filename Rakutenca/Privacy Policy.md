@@ -624,13 +624,7 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn 10% Cash Back from Rakuten.ca with HP Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/301736/en-stickyfooter-1170x60_hp.png "HP Canada Coupons, Promo Codes")
-
-was 2%, now
-
-10% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/hp-canada?sourceName=stickyfooter1)
+[![](//static.rakuten.ca/img/campaign_entity/258100/en_stickyfooter-1170x60_new_stores.png)](https://www.rakuten.ca/new-stores)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
