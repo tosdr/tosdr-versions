@@ -346,13 +346,13 @@ Privacy & Security
 Related Insights
 ----------------
 
-[How to get more out of your bank’s app](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/maximize-your-mobile-phone-phone-for-smart-financial-planning)
+[4 Easy Steps to Financial Management](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/4-steps-to-take-charge-of-your-accounts)
+
+[Financial Fraud Prevention](https://www.regions.com/insights/personal/personal-finances/managing-credit-and-debt/how-lockit-can-help-lock-out-financial-fraud)
 
 [4 Factors to Opening a Checking Account for Teens](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/should-your-teen-have-a-student-checking-account)
 
 [Easy Money Management](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/easy-money-management-with-or-without-a-checking-account)
-
-[Checking Account Alternatives](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/checking-account--alternatives)
 
 [See All Insights](https://www.regions.com/Insights/InsightsLibrary)
 
