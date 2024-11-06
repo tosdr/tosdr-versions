@@ -63,6 +63,8 @@
         * [Chrome](https://hide.me/en/software/chrome-vpn)
         * [Firefox](https://hide.me/en/software/firefox-vpn)
         * [Edge](https://hide.me/en/software/edge-vpn)
+    * Others
+        * [Volla OS](https://hide.me/en/software/volla-os)
 * [Servers](https://hide.me/en/network)
 * [Pricing](https://hide.me/en/pricing)
 * [Help](https://hide.me/en/support)
