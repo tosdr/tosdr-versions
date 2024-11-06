@@ -25,12 +25,12 @@
 Cookie Policy
 =============
 
-Effective Date: September 30, 2024
+Effective Date: December 12, 2023
 
 Set your cookies preferences
 ----------------------------
 
-We use Essential Cookies which are necessary to make the site work and the product function for you. We use Non-Essential Cookies to improve your experience, perform analytics, and serve relevant ads. Please select your Non-Essential Cookies preferences below. If you click “Accept,” we will use Non-Essential Cookies. If you click “Deny,” we will not use Non-Essential Cookies. You can change this preference at any time.
+We use Non-Essential Third-Party Cookies to improve your experience, perform analytics, and serve relevant ads. Please select your Non-Essential Third-Party Cookies preferences below. If you click “Accept” we will use Non-Essential Third-Party Cookies. If you click “Deny,” we will not use Non-Essential Third-Party Cookies. You can change this preference at any time.
 
  Accept
 
@@ -39,84 +39,45 @@ We use Essential Cookies which are necessary to make the site work and the produ
 What is a cookie?
 -----------------
 
-A cookie is a small data file that may be stored in the browser you use to access Strava services, which enables features and functionality. It allows our website or app to “remember” your activity or preferences over a length of time or during a particular session. If you're signed in to Strava, cookies allow us to show you the right information and personalize your experience in accordance with your preferences.
+A cookie is a piece of data that may be stored in the browser you use to access Strava, which enables features and functionality. It allows our website to “remember” your activity or preferences over a length of time or during a particular session. If you're signed in to Strava, cookies allow us to show you the right information and personalize your experience.
 
-Some of the cookies we use facilitate our provision of the service. These are known as first-party cookies. We also utilize third-party cookies, which are set by other sites (for example, Google) and employed on our website or app, and are explained further below.
-
-In addition to cookies, we use similar technologies such as web pixels, local storage, and mobile analytics, for example using SDKs. Collectively, we refer to these technologies as “cookies” throughout this Cookie Policy.
-
-Unless otherwise stated in this Cookie Policy, our [Strava Privacy Policy](https://www.strava.com/legal/privacy) applies to the data we collect via cookies.
+Some of the cookies we use are set by us (strava.com) to facilitate our provision of the service. These are known as First Party Cookies. We also utilize Third-Party Cookies, which are set by other sites (for example, google.com) and employed on our website, and are explained further below.
 
 How does Strava use cookies?
 ----------------------------
 
-We use session cookies and persistent cookies. Session cookies are temporary cookies that are not stored in your browser or mobile device beyond the session in question. They are used for authentication and security purposes and to ensure the effective and necessary functioning of the Strava features you are utilizing. We may also use a session cookie to remember your preferences when viewing the site. These session cookies are erased when you exit your browser.
+We use session cookies and persistent cookies. Session cookies are temporary cookies that are not stored in your browser beyond the session in question. They are used for authentication and security purposes and to ensure the effective and necessary functioning of the Strava features which you are utilizing. We may also use a session cookie to remember your preferences when viewing the site. These session cookies are erased when you exit your browser.
 
-Persistent cookies are those placed on your browser or mobile device for a predetermined length of time when you visit our site or use our app. They expire on a set expiration date, or when they are deleted manually. To learn more about how you can delete cookies manually, read the section below entitled “[Managing and refusing the use of cookies](#managing-cookies).”
+Persistent cookies are those placed on your browser for a pre-determined length of time when you visit this site. They expire on a set expiration date, or when they are deleted manually. To learn more about how you can delete cookies manually, read the section below entitled “Managing and refusing the use of cookies.”
 
-Strictly Necessary Cookies
---------------------------
-
-Strictly Necessary Cookies, also referred to as Essential Cookies, are necessary for the Strava site or app to function and provide you with the services you’ve requested from us. We store Strictly Necessary Cookies only as long as needed to provide that service or for the site or app to function. We develop and use Strictly Necessary Cookies via our website, for example, to:
-
-* authenticate users,
-* block malicious use of login credentials, and
-* shield unauthorized access to member data.
-
-For example, we use session cookies to pin a logged-in session to a browser and store them for the duration of your session as needed to keep you logged in in accordance with your preferences.
-
-You cannot decline these cookies because they are essential for the functioning of the Strava site, app and services you have requested.
-
-Non-Essential Cookies
----------------------
-
-Non-Essential Cookies are, as their name implies, not strictly necessary for the functioning of the Strava site or app or for providing services you’ve requested from us. Strava uses Non-Essential Cookies, including third party cookies, to collect information on website and app usage in order to:
-
-* understand and improve your experience,
-* perform analytics,
-* serve relevant ads, and
-* to allow you to navigate our site and use its services and features, for example, when you sign up and login using a third-party account.
-
-We further classify Non-Essential Cookies into the following categories: Functional, Performance, and Targeting.
-
-Functional Cookies
-------------------
-
-Functional cookies are cookies used to enhance how Strava’s website works and your user experience–for example, to remember your preferences.
-
-Performance Cookies
+First-Party Cookies
 -------------------
 
-Performance Cookies help us learn how well our website and apps operate across different locations and identify any issues in the operation and provision of our products. We use Performance Cookies, including from third parties, to assist us in measuring and understanding how our products are used and how they can be optimized, as well as to perform business research and to inform targeted advertising. We may also receive other analytics information from these third parties.
+We develop and use cookies via our website to authenticate users, block malicious use of login credentials and shield unauthorized access to member data. We also develop and use cookies to collect information on website and app usage in order to understand and improve Strava. These cookies also help us learn how well our website and app operate across different locations and identify any issues in the operation and provision of our products.
 
-**We use the following cookies for performance, analytics and research purposes: Meta Pixel, Google Analytics, Firebase, Snap and Branch.**
+Third-Party Cookies
+-------------------
 
-Targeting Cookies
------------------
+We also permit the setting of Third-Party Cookies on our website. Some of these cookies are necessary to provide you with services you have requested (“Essential Third-Party Cookies”), whereas others are not necessary to provide you with services you have requested (“Non-Essential Third-Party Cookies”).
 
-We use Targeting Cookies, also referred to as Advertising cookies, to serve relevant ads, including targeted advertising, to users who have already visited our website. These cookies remember that you’ve visited a website, a particular web page, and/or track your activities on the site, including clicking on or otherwise engaging with advertising content. This information is sometimes shared with third party advertisers to advertise Strava on third-party websites (i) for serving targeted online advertising or other personalized content, (ii) for ad measurement and (iii) aggregated and used to analyze website traffic and trends.
+### _Essential Third-Party Cookies_
 
-**We use the following cookies for advertising purposes: Meta Pixel, Google Ads, Firebase, Snap and Branch.**
+We use Essential Third-Party Cookies to allow you to navigate our site and use its services and features. For example, we allow you to sign up and log in using accounts you create with third-party products and services, such as Facebook, Google, or Apple (collectively, “Third-Party Accounts”). When you sign up or log in using Third-Party Accounts, we use Essential Third-Party Cookies which are necessary to authenticate you.
 
-We classify the cookies into the four broad categories described below.
+### _Non-Essential Third Party Cookies_
 
-| Type | Classification | Description | Example |
-| --- | --- | --- | --- |
-| 1   | Strictly Necessary | These cookies are necessary for the proper functioning of the community, such as tracking a user session, or accessing secure areas. | Session cookie used to pin a logged-in session to a browser |
-| 2   | Functional | These cookies are used to enhance the functionality of Strava’s website and your user experience. | Cookie used to identify if fonts are loaded. |
-| 3   | Performance | These cookies are used to collect and analyze information about how users use the website, including information about the pages users visit. | Cookie delivered by Google Analytics for purposes of aggregate reporting on page views |
-| 4   | Tracking, targeting and sharing | These cookies remember that you've visited a website, a particular web page, and/or track your activities on the site. This information is sometimes shared with third party advertisers for serving targeted online advertising or other personalized content. | Cookie used to track visitor activity on an individual basis and can be used by third party business partners to serve personalized content and/or later aggregated and used to analyze website traffic and trends. |
+We use Non-Essential Third-Party Cookies to assist us in measuring and understanding how our products are used and how they can be optimized. We may also receive other analytics information from these third parties.
+
+Some of these cookies are advertising cookies, which we employ to serve relevant ads to users who have already visited our website. We use the following cookies for advertising purposes: Meta Pixel, Google Ads, Snap and Branch.
+
+Other cookies are used to assess performance and analytics, or to perform business research. We use the following cookies for performance, analytics and research purposes: Meta Pixel, Google Analytics, Snap and Branch.
 
 Managing and refusing the use of cookies
 ----------------------------------------
 
-When you first visit our site, you will see a banner asking whether you would like to accept the use of cookies. By clicking “I accept,” you agree to the use of all cookies as described here, including Non-Essential Cookies.
+When you first visit our site, you will see a banner asking whether you would like to accept the use of cookies. By clicking “I accept,” you agree to the use of all cookies as described here, including Non-Essential Third-Party Cookies.
 
-We will only use Non-Essential Cookies if you click “I accept” on the cookies banner, or in your cookies preferences. You can manage your cookies preferences at any time by toggling the radio button at the top of this policy. If you click “Deny” in your cookies preferences or “Reject” on the cookies banner, we will not use Non-Essential Cookies.
-
-If you access Strava through our app, you may also control interest-based advertising on an iOS or Android device by selecting the “Limit Ad Tracking” option in the privacy section of the Settings App on iOS or via advertising preferences on Android-based devices (usually in the Google Settings app). This will not prevent you from seeing advertisements but will limit the use of device advertising identifiers to personalize ads based on your interests.
-
-There are also additional tools available to manage third party cookies. Residents of the EEA, UK and Switzerland may opt-out of online behavioral advertising served by the European Interactive Digital Advertising Alliance’s participating member organizations by visiting [https://www.youronlinechoices.eu/](https://www.youronlinechoices.eu/) or through your mobile device settings, where available and the DAA’s AppChoices mobile application opt-out offering here: [https://youradchoices.com/appchoices](https://youradchoices.com/appchoices).
+We will only use Non-Essential Third-Party Cookies if you click “I accept” on the cookies banner, or in your cookies preferences. You can manage your cookies preferences at any time by toggling the radio button at the top of this policy. If you click “deny” in your cookies preferences or on the cookies banner, we will not use Non-Essential Third-Party Cookies.
 
 Most browsers allow you to choose whether you wish to accept cookies. Different browsers make different controls available to you and so we provide links below to popular browser instructions on how you can do this. Generally, your browser will offer you the choice to accept, refuse or delete all cookies, or third-party cookies on a website, or those from specific websites. However, if you restrict our capability to set cookies, you may limit the full functionality of Strava, which will make some of our services and features unavailable to you.
 
@@ -144,7 +105,7 @@ We may not recognize Do-Not-Track (“DNT”) signals from your web browsers or 
 Changes to this policy
 ----------------------
 
-This policy may change from time to time, so it should be reviewed frequently for the most up to date cookie information. We will notify you in advance of material changes to this policy.
+This policy may change from time to time, so it should be reviewed frequently for the most up to date cookie information. We will notify you of any changes by updates to this page.
 
 If you have questions about this policy, you may reach us at DPO@strava.com.
 
