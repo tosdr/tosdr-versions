@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Egg or Chicken? Ancient Unicellular Says Egg](https://www.sciencedaily.com/releases/2024/11/241106132114.htm)
+* [Interstellar Methane: Progenitor of Amino Acids?](https://www.sciencedaily.com/releases/2024/11/241106132453.htm)
+* [Outer Solar System's Origins and Asteroid Grains](https://www.sciencedaily.com/releases/2024/11/241106132119.htm)
+* [Mighty Radio Bursts Linked to Massive Galaxies](https://www.sciencedaily.com/releases/2024/11/241106132116.htm)
 * [AI Doesn't Really Understand the World](https://www.sciencedaily.com/releases/2024/11/241105191826.htm)
 * [When Earth Was Slushy](https://www.sciencedaily.com/releases/2024/11/241105174745.htm)
 * [Bio-Based Fibers May Be Worse Than Plastics](https://www.sciencedaily.com/releases/2024/11/241105114318.htm)
 * [Towards a Hydrogen-Powered Future](https://www.sciencedaily.com/releases/2024/11/241105114155.htm)
 * [Deaf Male Mosquitoes Don't Mate](https://www.sciencedaily.com/releases/2024/11/241105113844.htm)
 * [AI for Real-Time, Patient-Focused Insight](https://www.sciencedaily.com/releases/2024/11/241104150638.htm)
-* [Tonga Eruption: Seismic Wave 15 Minutes Earlier](https://www.sciencedaily.com/releases/2024/11/241104150630.htm)
-* [The Secrets of Baseball's Magic Mud](https://www.sciencedaily.com/releases/2024/11/241104150622.htm)
-* [Exploding Neutron-Stars: Dance of Electrons](https://www.sciencedaily.com/releases/2024/11/241104112242.htm)
-* [Synthetic Genes for Medicine and Biotech](https://www.sciencedaily.com/releases/2024/11/241104112240.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Lymphoma](https://www.sciencedaily.com/news/health_medicine/lymphoma/)
+[Workplace Health](https://www.sciencedaily.com/news/health_medicine/workplace_health/)
 
-[Skin Cancer](https://www.sciencedaily.com/news/health_medicine/skin_cancer/)
+[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
 
-[Wounds and Healing](https://www.sciencedaily.com/news/health_medicine/wounds_and_healing/)
+[Insomnia](https://www.sciencedaily.com/news/mind_brain/insomnia/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
+[Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
 
-[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
+[Nebulae](https://www.sciencedaily.com/news/space_time/nebulae/)
 
-[Quantum Computers](https://www.sciencedaily.com/news/computers_math/quantum_computers/)
+[Cosmic Rays](https://www.sciencedaily.com/news/space_time/cosmic_rays/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
-
-[Biotechnology and Bioengineering](https://www.sciencedaily.com/news/plants_animals/biotechnology_and_bioengineering/)
+[Developmental Biology](https://www.sciencedaily.com/news/plants_animals/developmental_biology/)
 
 [Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
+
+[Environmental Awareness](https://www.sciencedaily.com/news/earth_climate/environmental_awareness/)
 
   
 
