@@ -37,6 +37,7 @@ Veygo is part of the Admiral Group and operates under our shared group privacy p
 * [Experienced driver insurance](https://www.veygo.com/experienced-driver-insurance/)
 * [Pay-as-you-go cover](https://www.veygo.com/temporary-car-insurance/)
 * [Monthly rolling cover](https://www.veygo.com/monthly-subscriptions/)
+* [Make a claim](https://account.veygo.com/purchases)
 
 ##### Company
 
