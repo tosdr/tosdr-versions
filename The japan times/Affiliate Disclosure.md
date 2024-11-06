@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 06, 2024](https://www.japantimes.co.jp/archive/2024/11/06/ "archive page")
+[November 07, 2024](https://www.japantimes.co.jp/archive/2024/11/07/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,66 +131,68 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Nearly half of Japanese married couples are 'sexless,' survey finds](https://www.japantimes.co.jp/news/2024/03/18/japan/society/japan-sexless-survey/ "Nearly half of Japanese married couples are 'sexless,' survey finds")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-  [![Nearly half of married couples in Japan are “sexless,” a recent survey shows.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/18/286784.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nearly half of married couples in Japan are “sexless,” a recent survey shows.")](https://www.japantimes.co.jp/news/2024/03/18/japan/society/japan-sexless-survey/ "Nearly half of Japanese married couples are 'sexless,' survey finds")
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-[Yen is the first of many Japanese assets set to pivot on U.S. election](https://www.japantimes.co.jp/business/2024/11/05/economy/yen-swing-on-us-election/ "Yen is the first of many Japanese assets set to pivot on U.S. election")
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-  [![A screen showing the yen's exchange rate against the U.S. dollar in July](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432252.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "A screen showing the yen's exchange rate against the U.S. dollar in July")](https://www.japantimes.co.jp/business/2024/11/05/economy/yen-swing-on-us-election/ "Yen is the first of many Japanese assets set to pivot on U.S. election")
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-[Horse-trading continues ahead of next week's prime minister vote](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/parties-lobby-prime-minister-election/ "Horse-trading continues ahead of next week's prime minister vote")
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-  [![Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/04/432179.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office on Friday.")](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/parties-lobby-prime-minister-election/ "Horse-trading continues ahead of next week's prime minister vote")
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-[Harris and Trump conclude historic campaign with dueling rallies](https://www.japantimes.co.jp/news/2024/11/05/world/politics/harris-trump-dueling-rallies/ "Harris and Trump conclude historic campaign with dueling rallies")
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-  [![Donald Trump and Kamala Harris concluded their presidential campaigns on Monday with closing arguments that mirrored, in tone and in substance, the competing visions they have offered a deeply divided nation. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432307.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Donald Trump and Kamala Harris concluded their presidential campaigns on Monday with closing arguments that mirrored, in tone and in substance, the competing visions they have offered a deeply divided nation. ")](https://www.japantimes.co.jp/news/2024/11/05/world/politics/harris-trump-dueling-rallies/ "Harris and Trump conclude historic campaign with dueling rallies")
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-[From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
+[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
-  [![The topics nominated for this year’s buzzwords of the year ranged from new banknotes and Olympian quips to political scandals and rice shortages. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432409.png?v=3.1&w=400&q=100&f=jpg&t=1.51 "The topics nominated for this year’s buzzwords of the year ranged from new banknotes and Olympian quips to political scandals and rice shortages. ")](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
+  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
 Editors' Picks
 --------------
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
-[Nearly half of Japanese married couples are 'sexless,' survey finds](https://www.japantimes.co.jp/news/2024/03/18/japan/society/japan-sexless-survey/ "Nearly half of Japanese married couples are 'sexless,' survey finds")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-  [![Nearly half of married couples in Japan are “sexless,” a recent survey shows.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/18/286784.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nearly half of married couples in Japan are “sexless,” a recent survey shows.")](https://www.japantimes.co.jp/news/2024/03/18/japan/society/japan-sexless-survey/ "Nearly half of Japanese married couples are 'sexless,' survey finds")
+By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Yen is the first of many Japanese assets set to pivot on U.S. election](https://www.japantimes.co.jp/business/2024/11/05/economy/yen-swing-on-us-election/ "Yen is the first of many Japanese assets set to pivot on U.S. election")
-
-By [Hideyuki Sano](https://www.japantimes.co.jp/author/2121/hideyuki-sano/ "Hideyuki Sano") and [Mia Glass](https://www.japantimes.co.jp/author/3540/mia-glass/ "Mia Glass")  
-
-  [![A screen showing the yen's exchange rate against the U.S. dollar in July](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432252.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "A screen showing the yen's exchange rate against the U.S. dollar in July")](https://www.japantimes.co.jp/business/2024/11/05/economy/yen-swing-on-us-election/ "Yen is the first of many Japanese assets set to pivot on U.S. election")
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Horse-trading continues ahead of next week's prime minister vote](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/parties-lobby-prime-minister-election/ "Horse-trading continues ahead of next week's prime minister vote")
-
-By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
-
-  [![Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/04/432179.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office on Friday.")](https://www.japantimes.co.jp/news/2024/11/04/japan/politics/parties-lobby-prime-minister-election/ "Horse-trading continues ahead of next week's prime minister vote")
-
-[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
-
-[Harris and Trump conclude historic campaign with dueling rallies](https://www.japantimes.co.jp/news/2024/11/05/world/politics/harris-trump-dueling-rallies/ "Harris and Trump conclude historic campaign with dueling rallies")
-
-By [Nancy Cook](https://www.japantimes.co.jp/author/3427/nancy-cook/ "Nancy Cook"), [Akayla Gardner](https://www.japantimes.co.jp/author/3022/akayla-gardner/ "Akayla Gardner"), [Jennifer Epstein](https://www.japantimes.co.jp/author/580/jennifer-epstein/ "Jennifer Epstein") and [Jenny Leonard](https://www.japantimes.co.jp/author/1029/jenny-leonard/ "Jenny Leonard")  
-
-  [![Donald Trump and Kamala Harris concluded their presidential campaigns on Monday with closing arguments that mirrored, in tone and in substance, the competing visions they have offered a deeply divided nation. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432307.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Donald Trump and Kamala Harris concluded their presidential campaigns on Monday with closing arguments that mirrored, in tone and in substance, the competing visions they have offered a deeply divided nation. ")](https://www.japantimes.co.jp/news/2024/11/05/world/politics/harris-trump-dueling-rallies/ "Harris and Trump conclude historic campaign with dueling rallies")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
 By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
-  [![The topics nominated for this year’s buzzwords of the year ranged from new banknotes and Olympian quips to political scandals and rice shortages. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/05/432409.png?v=3.1&w=400&q=100&f=jpg&t=1.51 "The topics nominated for this year’s buzzwords of the year ranged from new banknotes and Olympian quips to political scandals and rice shortages. ")](https://www.japantimes.co.jp/news/2024/11/05/japan/society/japan-buzzword-nominations-2024/ "From cat memes to Olympians with too much rizz, these are Japan's 2024 buzzword nominations")
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+
+[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
+
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+
+By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
+
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+
+[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+
+By F.D. Flam  
+
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
 Podcast
 -------
@@ -253,25 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Trump claims victory in U.S. election after wins in key swing states](https://www.japantimes.co.jp/news/2024/11/06/world/politics/us-election-trump-harris/ "Trump claims victory in U.S. election after wins in key swing states")
+[Trump defeats Harris, returning U.S. to era of uncertainty](https://www.japantimes.co.jp/news/2024/11/06/world/politics/us-election-trump-harris/ "Trump defeats Harris, returning U.S. to era of uncertainty")
 
-22 mins ago
+2 hours ago
+
+[Obesity drug maker Novo Nordisk posts strong profit](https://www.japantimes.co.jp/business/2024/11/06/obesity-drugmaker-novo-nordisk-profit/ "Obesity drug maker Novo Nordisk posts strong profit")
+
+3 hours ago
+
+[White House win gives Trump a legal reprieve](https://www.japantimes.co.jp/news/2024/11/06/world/white-house-win-legal-reprieve/ "White House win gives Trump a legal reprieve")
+
+4 hours ago
 
 [Nintendo Switch sales drop as successor console looms](https://www.japantimes.co.jp/business/2024/11/06/companies/nintendo-switch-sales/ "Nintendo Switch sales drop as successor console looms")
 
-42 mins ago
+6 hours ago
 
 [American voters in Japan reflect divisions in home country](https://www.japantimes.co.jp/news/2024/11/06/japan/japan-us-election/ "American voters in Japan reflect divisions in home country")
 
-42 mins ago
-
-[Tokyo stocks rally and yen falls as Trump nears election win](https://www.japantimes.co.jp/business/2024/11/06/markets/trump-victory-markets/ "Tokyo stocks rally and yen falls as Trump nears election win")
-
-1 hours ago
-
-[Seven & I is said to plan reducing stake in banking unit to 38%](https://www.japantimes.co.jp/business/2024/11/06/companies/seven-bank-stake-reduce/ "Seven & I is said to plan reducing stake in banking unit to 38%")
-
-1 hours ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
