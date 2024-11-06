@@ -23,7 +23,7 @@ Products Education  ![altText](/on/demandware.static/Sites-1800petmeds-Site/-/de
 
 * [Contact Us](https://www.1800petmeds.com/)
     
-    Call or text:
+    Call toll-free:
     
     1-800-PetMeds [(1-800-738-6337)](tel:+18007386337)
     
@@ -60,7 +60,7 @@ Products Education
     
     * [Flea & Tick](https://www.1800petmeds.com/flea++ti+ck-cat10.html?prefn1=species&prefv1=Dog)
     * [Heartworm](https://www.1800petmeds.com/heartworm-cat11.html?prefn1=species&prefv1=Dog)
-    * [Pain](https://www.1800petmeds.com/pain-cat60004.html?prefn1=species&prefv1=Dog)
+    * [Pain Dog & Cat](https://www.1800petmeds.com/pain++dog+%26+cat-cat60004.html?prefn1=species&prefv1=Dog)
     * [Bone & Joints](https://www.1800petmeds.com/joints-cat12.html?prefn1=species&prefv1=Dog)
     * [Medications](https://www.1800petmeds.com/medications-cat14.html?prefn1=species&prefv1=Dog)
     * [Skin & Coat](https://www.1800petmeds.com/skin+++coat-cat68.html?prefn1=species&prefv1=Dog)
@@ -82,7 +82,7 @@ Products Education
     
     * [Flea & Tick](https://www.1800petmeds.com/flea++ti+ck-cat10.html?prefn1=species&prefv1=Cat)
     * [Heartworm](https://www.1800petmeds.com/heartworm-cat11.html?prefn1=species&prefv1=Cat)
-    * [Pain](https://www.1800petmeds.com/pain-cat60004.html?prefn1=species&prefv1=Cat)
+    * [Pain Dog & Cat](https://www.1800petmeds.com/pain++dog+%26+cat-cat60004.html?prefn1=species&prefv1=Cat)
     * [Bone & Joints](https://www.1800petmeds.com/joints-cat12.html?prefn1=species&prefv1=Cat)
     * [Medications](https://www.1800petmeds.com/medications-cat14.html?prefn1=species&prefv1=Cat)
     * [Skin & Coat](https://www.1800petmeds.com/skin+++coat-cat68.html?prefn1=species&prefv1=Cat)
@@ -109,7 +109,7 @@ Products Education
     * [Insulin & Hormonal Endocrine](https://www.1800petmeds.com/horse+insulin+++hormonal+endocrine-cat5160029.html?prefn1=species&prefv1=Horse)
     * [Joint Supplements](https://www.1800petmeds.com/horse+joint+supplements-cat5160026.html?prefn1=species&prefv1=Horse)
     * [Medications](https://www.1800petmeds.com/horse+medications-cat5160030.html?prefn1=species&prefv1=Horse)
-    * [Pain](https://www.1800petmeds.com/horse+pain-cat5160024.html?prefn1=species&prefv1=Horse)
+    * [Pain Horse](https://www.1800petmeds.com/horse+pain-cat5160024.html?prefn1=species&prefv1=Horse)
     * [Training Aids](https://www.1800petmeds.com/horse+training+aids-cat5160027.html?prefn1=species&prefv1=Horse)
     * [Vitamins & Supplements](https://www.1800petmeds.com/horse+vitamins+++supplements-cat5160035.html?prefn1=species&prefv1=Horse)
     * [Dewormers](https://www.1800petmeds.com/horse+wormers-cat5160022.html?prefn1=species&prefv1=Horse)
@@ -184,7 +184,7 @@ Products Education
     * [Heart & Blood Pressure](https://www.1800petmeds.com/heart+++blood+pressure-cat85.html)
     * [Heartworm](https://www.1800petmeds.com/heartworm-cat11.html)
     * [Hormonal / Endocrine](https://www.1800petmeds.com/hormonal+endocrine-cat87.html)
-    * [Pain](https://www.1800petmeds.com/pain-cat60004.html)
+    * [Pain Dog & Cat](https://www.1800petmeds.com/pain++dog+%26+cat-cat60004.html)
     * [Skin & Coat](https://www.1800petmeds.com/skin+++coat-cat68.html)
     * [Urinary Tract & Kidneys](https://www.1800petmeds.com/urinary+tract+++kidneys-cat94.html)
     * [Weight Loss & Management](https://www.1800petmeds.com/weight+loss+++management-cat240009.html)
@@ -209,7 +209,7 @@ Navigation [×](javascript:void(0))
     * [Shop Dog](#)
         * [Flea & Tick](https://www.1800petmeds.com/flea++ti+ck-cat10.html?prefn1=species&prefv1=Dog)
         * [Heartworm](https://www.1800petmeds.com/heartworm-cat11.html?prefn1=species&prefv1=Dog)
-        * [Pain](https://www.1800petmeds.com/pain-cat60004.html?prefn1=species&prefv1=Dog)
+        * [Pain Dog & Cat](https://www.1800petmeds.com/pain++dog+%26+cat-cat60004.html?prefn1=species&prefv1=Dog)
         * [Bone & Joints](https://www.1800petmeds.com/joints-cat12.html?prefn1=species&prefv1=Dog)
         * [Medications](https://www.1800petmeds.com/medications-cat14.html?prefn1=species&prefv1=Dog)
         * [Skin & Coat](https://www.1800petmeds.com/skin+++coat-cat68.html?prefn1=species&prefv1=Dog)
@@ -230,7 +230,7 @@ Navigation [×](javascript:void(0))
     * [Shop Cat](#)
         * [Flea & Tick](https://www.1800petmeds.com/flea++ti+ck-cat10.html?prefn1=species&prefv1=Cat)
         * [Heartworm](https://www.1800petmeds.com/heartworm-cat11.html?prefn1=species&prefv1=Cat)
-        * [Pain](https://www.1800petmeds.com/pain-cat60004.html?prefn1=species&prefv1=Cat)
+        * [Pain Dog & Cat](https://www.1800petmeds.com/pain++dog+%26+cat-cat60004.html?prefn1=species&prefv1=Cat)
         * [Bone & Joints](https://www.1800petmeds.com/joints-cat12.html?prefn1=species&prefv1=Cat)
         * [Medications](https://www.1800petmeds.com/medications-cat14.html?prefn1=species&prefv1=Cat)
         * [Skin & Coat](https://www.1800petmeds.com/skin+++coat-cat68.html?prefn1=species&prefv1=Cat)
@@ -256,7 +256,7 @@ Navigation [×](javascript:void(0))
         * [Insulin & Hormonal Endocrine](https://www.1800petmeds.com/horse+insulin+++hormonal+endocrine-cat5160029.html)
         * [Joint Supplements](https://www.1800petmeds.com/horse+joint+supplements-cat5160026.html)
         * [Medications](https://www.1800petmeds.com/horse+medications-cat5160030.html)
-        * [Pain](https://www.1800petmeds.com/horse+pain-cat5160024.html)
+        * [Pain Horse](https://www.1800petmeds.com/horse+pain-cat5160024.html)
         * [Training Aids](https://www.1800petmeds.com/horse+training+aids-cat5160027.html)
         * [Vitamins & Supplements](https://www.1800petmeds.com/horse+vitamins+++supplements-cat5160035.html)
         * [Dewormers](https://www.1800petmeds.com/horse+wormers-cat5160022.html)
@@ -347,7 +347,7 @@ Navigation [×](javascript:void(0))
     
     [Hormonal / Endocrine](https://www.1800petmeds.com/hormonal+endocrine-cat87.html)
     
-    [Pain](https://www.1800petmeds.com/pain-cat60004.html)
+    [Pain Dog & Cat](https://www.1800petmeds.com/pain++dog+%26+cat-cat60004.html)
     
     [Skin & Coat](https://www.1800petmeds.com/skin+++coat-cat68.html)
     
@@ -370,7 +370,7 @@ Navigation [×](javascript:void(0))
 
 * [Contact Us](https://www.1800petmeds.com/help.html)
 
-Call or text:
+Call toll-free:
 
 1-800-PetMeds [(1-800-738-6337)](tel:+18007386337)
 
@@ -511,7 +511,7 @@ You're in good hands with our team! Send us a message, and we'll get back to you
 
 ![Contact Us Number](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwd7f6e0e5/contact-phone.png)
 
-Call or Text
+Call toll-free:
 
 1-800-PetMeds
 
