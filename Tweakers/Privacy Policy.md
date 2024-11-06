@@ -98,4 +98,4 @@ Tweakers is onderdeel van DPG Media B.V. DPG Media is de verantwoordelijke voor 
 * [Tweakers Discord](https://discord.gg/tweakers)
 
 [Tweakers](https://tweakers.net/) is onderdeel van [DPG Media B.V.](https://www.dpgmediagroup.com/nl-NL/tweakers)  
-[Alle rechten voorbehouden - Auteursrecht](https://tweakers.net/info/auteursrecht/) © 1998 - 2024 • Hosting door [True](https://www.true.nl/?utm_source=tweakers&utm_medium=referral&utm_campaign=2023_H2_Awareness&utm_content=Awareness "VPS hosting")
+[Alle rechten voorbehouden - Auteursrecht](https://tweakers.net/info/auteursrecht/) © 1998 - 2024 • Hosting door [TrueFullStaq](https://www.truefullstaq.com/?utm_medium=referral&utm_source=tweakers&utm_campaign=hostedby&utm_term=partner&utm_content=logo "VPS hosting")
