@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-4702bdcd5eff87ca50de1ebbaba2956d
+7a2ffb1d1edd257f27c0c990fe1605c1
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Purple scarab clasp](https://sojourner.biz/images/cache/SKU0100front.200.jpg)](https://sojourner.biz/clasps/glass/purple-scarab-clasp.html "Purple scarab clasp")
+[![5 mm round greenish brown pearls](https://sojourner.biz/images/cache/pearls/PE0097.200.jpg)](https://sojourner.biz/beads/pearls/5-mm-round-greenish-brown-pearls.html "5 mm round greenish brown pearls")
 
-#### [Purple scarab clasp](https://sojourner.biz/clasps/glass/purple-scarab-clasp.html "Purple scarab clasp")
+#### [5 mm round greenish brown pearls](https://sojourner.biz/beads/pearls/5-mm-round-greenish-brown-pearls.html "5 mm round greenish brown pearls")
 
-$20.00
+$13.00
 
 ### Best Sellers
 
