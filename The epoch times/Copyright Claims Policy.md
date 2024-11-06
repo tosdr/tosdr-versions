@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Bay Area Voters Recall Big City Mayor, County’s District Attorney](https://www.theepochtimes.com/us/bay-area-voters-recall-big-city-mayor-countys-district-attorney-5753973)
+* [What to Expect From the Senate’s New GOP Majority](https://www.theepochtimes.com/us/what-to-expect-from-the-senates-new-gop-majority-5755391)
     
-    NEW By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
+    NEW By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
     
-    [![Bay Area Voters Recall Big City Mayor, County’s District Attorney](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![What to Expect From the Senate’s New GOP Majority](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Bay Area Voters Recall Big City Mayor, County’s District Attorney](https://img.theepochtimes.com/assets/uploads/2024/06/26/id5675438-GettyImages-2151163507-205x123.jpeg.webp)](https://www.theepochtimes.com/us/bay-area-voters-recall-big-city-mayor-countys-district-attorney-5753973)
-* [Trump Has Sweeping Plans for His 2nd Administration: Here’s What He Has Proposed](https://www.theepochtimes.com/us/trump-has-sweeping-plans-for-his-2nd-administration-heres-what-he-has-proposed-5755289)
+    ![What to Expect From the Senate’s New GOP Majority](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755548-GettyImages-862049436-205x123.jpg.webp)](https://www.theepochtimes.com/us/what-to-expect-from-the-senates-new-gop-majority-5755391)
+* [GOP Rep. Mike Lawler Retains NY US House Seat Amid Mixed Results for Other NY Republicans](https://www.theepochtimes.com/us/gop-rep-mike-lawler-retains-ny-us-house-seat-amid-mixed-results-for-other-ny-republicans-5755447)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    NEW By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
     
-    [![Trump Has Sweeping Plans for His 2nd Administration: Here’s What He Has Proposed](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![GOP Rep. Mike Lawler Retains NY US House Seat Amid Mixed Results for Other NY Republicans](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Has Sweeping Plans for His 2nd Administration: Here’s What He Has Proposed](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754696-GettyImages-2183109481-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-has-sweeping-plans-for-his-2nd-administration-heres-what-he-has-proposed-5755289)
-* [Nvidia Dethrones Apple as Most Valuable Company in World](https://www.theepochtimes.com/business/nvidia-dethrones-apple-as-most-valuable-company-in-world-5755280)
+    ![GOP Rep. Mike Lawler Retains NY US House Seat Amid Mixed Results for Other NY Republicans](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755521-GettyImages-1492671387-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/gop-rep-mike-lawler-retains-ny-us-house-seat-amid-mixed-results-for-other-ny-republicans-5755447)
+* [Bezos, Zuckerberg, Other Business Leaders Respond to Trump’s Presidential Win](https://www.theepochtimes.com/us/bezos-zuckerberg-other-business-leaders-respond-to-trumps-presidential-win-5755478)
     
-    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Nvidia Dethrones Apple as Most Valuable Company in World](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Bezos, Zuckerberg, Other Business Leaders Respond to Trump’s Presidential Win](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Nvidia Dethrones Apple as Most Valuable Company in World](https://img.theepochtimes.com/assets/uploads/2024/04/24/id5636796-Artificial-Intelligence-205x123.jpg.webp)](https://www.theepochtimes.com/business/nvidia-dethrones-apple-as-most-valuable-company-in-world-5755280)
-* [Abortion on the Ballot: Here’s What Voters Decided](https://www.theepochtimes.com/us/abortion-on-the-ballot-heres-what-voters-decided-5750544)
+    ![Bezos, Zuckerberg, Other Business Leaders Respond to Trump’s Presidential Win](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755606-Tech-CEOs-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/bezos-zuckerberg-other-business-leaders-respond-to-trumps-presidential-win-5755478)
+* [Tammy Baldwin Defeats Republican Challenger to Retain Wisconsin Senate Seat](https://www.theepochtimes.com/us/tammy-baldwin-defeats-republican-challenger-to-retain-wisconsin-senate-seat-5751173)
     
-    NEW By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    1hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
-    [![Abortion on the Ballot: Here’s What Voters Decided](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Tammy Baldwin Defeats Republican Challenger to Retain Wisconsin Senate Seat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Abortion on the Ballot: Here’s What Voters Decided](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751445-Yes-on-4-supporters-205x123.jpg.webp)](https://www.theepochtimes.com/us/abortion-on-the-ballot-heres-what-voters-decided-5750544)
-* [House Control Too Close to Call](https://www.theepochtimes.com/us/house-too-close-to-call-5754548)
+    ![Tammy Baldwin Defeats Republican Challenger to Retain Wisconsin Senate Seat](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755596-09242024-DSC00793-Tammy-BaldwinKO-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/tammy-baldwin-defeats-republican-challenger-to-retain-wisconsin-senate-seat-5751173)
+* [Pennsylvania Rep. Matt Cartwright Concedes](https://www.theepochtimes.com/us/pennsylvania-rep-matt-cartwright-concedes-5753666)
     
-    1hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    2hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
-    [![House Control Too Close to Call](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Pennsylvania Rep. Matt Cartwright Concedes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![House Control Too Close to Call](https://img.theepochtimes.com/assets/uploads/2024/07/25/id5693263-GettyImages-1769333224-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-too-close-to-call-5754548)
-* [Protests Erupt in Israel After Netanyahu Sacks Defense Minister Gallant](https://www.theepochtimes.com/world/protests-erupt-in-israel-after-netanyahu-sacks-defense-minister-gallant-5755214)
+    ![Pennsylvania Rep. Matt Cartwright Concedes](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753807-GettyImages-2147856360-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-rep-matt-cartwright-concedes-5753666)
+* [Voters in Multiple States Projected to Approve Measures Forbidding Noncitizen Voting](https://www.theepochtimes.com/us/voters-in-multiple-states-projected-to-approve-measures-forbidding-noncitizen-voting-5755291)
     
-    3hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    2hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![Protests Erupt in Israel After Netanyahu Sacks Defense Minister Gallant](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Voters in Multiple States Projected to Approve Measures Forbidding Noncitizen Voting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Protests Erupt in Israel After Netanyahu Sacks Defense Minister Gallant](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755261-Israel_Politics_24310709882999-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/protests-erupt-in-israel-after-netanyahu-sacks-defense-minister-gallant-5755214)
-* [GOP Newcomer Ousts 3-Term Democrat From Montana US Senate Seat](https://www.theepochtimes.com/us/gop-newcomer-ousts-3-term-democrat-from-montana-us-senate-seat-5754164)
+    ![Voters in Multiple States Projected to Approve Measures Forbidding Noncitizen Voting](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755472-GettyImages-2183144052-205x123.jpg.webp)](https://www.theepochtimes.com/us/voters-in-multiple-states-projected-to-approve-measures-forbidding-noncitizen-voting-5755291)
+* [After Trump Win, RFK Jr. Says ‘Entire Departments’ at the FDA ‘Have to Go’](https://www.theepochtimes.com/us/after-trump-win-rfk-jr-says-entire-departments-at-the-fda-have-to-go-5755435)
     
-    4hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![GOP Newcomer Ousts 3-Term Democrat From Montana US Senate Seat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![After Trump Win, RFK Jr. Says ‘Entire Departments’ at the FDA ‘Have to Go’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![GOP Newcomer Ousts 3-Term Democrat From Montana US Senate Seat](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755258-Sheehy-Three-Forks-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/gop-newcomer-ousts-3-term-democrat-from-montana-us-senate-seat-5754164)
-* [7 Takeaways From Election Night as Trump Retakes White House](https://www.theepochtimes.com/us/7-takeaways-from-election-night-as-trump-retakes-white-house-5755200)
+    ![After Trump Win, RFK Jr. Says ‘Entire Departments’ at the FDA ‘Have to Go’](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752916-GettyImages-2167258635-205x123.jpg.webp)](https://www.theepochtimes.com/us/after-trump-win-rfk-jr-says-entire-departments-at-the-fda-have-to-go-5755435)
+* [Asked About Dropping Trump Charges, DOJ Says Policy Is to Not Prosecute Presidents](https://www.theepochtimes.com/us/calls-grow-for-jack-smith-local-prosecutors-to-end-trump-cases-5755462)
     
-    4hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg), [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman), [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo) and [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips) and [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
-    [![7 Takeaways From Election Night as Trump Retakes White House](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Asked About Dropping Trump Charges, DOJ Says Policy Is to Not Prosecute Presidents](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![7 Takeaways From Election Night as Trump Retakes White House](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755263-Trump-VANCE-Win-11_JF_11052024-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/7-takeaways-from-election-night-as-trump-retakes-white-house-5755200)
-* [US House Races in California Hold Narrowing Path for Democrats as Republicans Sweep Senate](https://www.theepochtimes.com/us/us-house-races-in-california-hold-narrowing-path-for-democrats-as-republicans-sweep-senate-5754877)
+    ![Asked About Dropping Trump Charges, DOJ Says Policy Is to Not Prosecute Presidents](https://img.theepochtimes.com/assets/uploads/2024/01/04/id5558659-smith-trump-composite-205x123.jpg.webp)](https://www.theepochtimes.com/us/calls-grow-for-jack-smith-local-prosecutors-to-end-trump-cases-5755462)
+* [Republican Congressman Holds Seat in Tight California Election](https://www.theepochtimes.com/us/republican-congressman-holds-seat-in-tight-california-election-5753791) 
     
-    5hr By [Beige Luciano-Adams](https://www.theepochtimes.com/author/beige-luciano-adams)
+    3hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
     
-    [![US House Races in California Hold Narrowing Path for Democrats as Republicans Sweep Senate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Republican Congressman Holds Seat in Tight California Election ](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US House Races in California Hold Narrowing Path for Democrats as Republicans Sweep Senate](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5754962-California-Voters-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-house-races-in-california-hold-narrowing-path-for-democrats-as-republicans-sweep-senate-5754877)
-* [Bolivians Say Private Interest Groups Are Causing Record Fire Devastation in Forests](https://www.theepochtimes.com/world/bolivians-say-private-interest-groups-are-causing-record-fire-devastation-in-forests-5746358)
+    ![Republican Congressman Holds Seat in Tight California Election ](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755590-john-duarte-walking-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/republican-congressman-holds-seat-in-tight-california-election-5753791)
+* [Harris Concedes Election to Trump](https://www.theepochtimes.com/us/harris-concedes-to-trump-aide-5755476)
     
-    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![Bolivians Say Private Interest Groups Are Causing Record Fire Devastation in Forests](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Harris Concedes Election to Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Bolivians Say Private Interest Groups Are Causing Record Fire Devastation in Forests](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755262-WhatsApp-Image-2024-10-23-at-10.12.44-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/bolivians-say-private-interest-groups-are-causing-record-fire-devastation-in-forests-5746358)
+    ![Harris Concedes Election to Trump](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753237-FotoJet-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-concedes-to-trump-aide-5755476)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
