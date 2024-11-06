@@ -107,6 +107,7 @@ Error
 * [Wallet Authorization en-GB](#contract-hzugruzvb)
 * [Applicant Terms of Use](#contract-skxc4ktljx)
 * [mg - la - con-648](#contract-xmifpf3vk)
+* [Income Verification Terms of Use](#contract-sjctngdzke)
 
 Test Contract 2
 ---------------
@@ -2642,7 +2643,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective October 31st 2024
+##### Effective November 5th 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
@@ -6359,6 +6360,148 @@ mg - la - con-648
 * * *
 
 ![](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/assets/lP6ACd3PS.jpg) ![](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/assets/vlQ4qk4v6.jpg)
+
+Income Verification Terms of Use
+--------------------------------
+
+### Version 1.0
+
+##### Effective November 5th 2024
+
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/672a74c6466de8a013ffcc97.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+Income Verification Terms of Use
+================================
+
+By completing this income verification request and/or creating a verifiable credential regarding your income verification (“**Services**”), you’re agreeing to follow a few additional terms (“**Terms**”).
+
+**Using our Services.**
+
+You agree and confirm that:
+
+* You will use the Services in accordance with the Terms and all applicable laws.
+* You are of legal age in your jurisdiction.
+* You have the right to provide the information submitted to Certn.
+* You are the individual the information pertains to.
+* The information does not infringe any third-party legal obligations or rights, including intellectual property or privacy rights.
+
+**Restrictions**.
+
+You agree not to access or use this Service for any unlawful purpose or for any other purpose other than that for which Certn makes it available.
+
+You specifically acknowledge that you shall not:
+
+* Provide or transmit data that is illegal, harmful, threatening, insulting, disturbing, injurious, obscene, defamatory, unacceptable from a racial or ethnic perspective.
+* Violate any of Certn’s intellectual property rights.
+* Unlawfully gather or disclose information about others through the Services.
+* Use any information obtained from these Services in order to harass, abuse, or harm another person.
+* Attempt to impersonate another user or person or use the username of another user.
+* Transmit malicious software or any programs designed to disrupt Certn’s systems. Publish or otherwise transmit any malicious software or other computer codes, files or programs designed to interrupt, disrupt or restrict the operation of these Services, Certn’s computer software, hardware, telecommunications equipment or to disrupt the normal transactions on the Services.
+* Misuse Certn's support services or submit false requests or background check orders. Make improper use of Certn’s support services, submit false requests, or make any speculative or fraudulent background request orders.
+* Disassemble, decompile, or reverse engineer any part of the Services or otherwise attempt to derive any source code or underlying ideas or algorithms of any part of the Services or create derivative works based on it.
+* Use, or attempt to use, the Services for unauthorized purposes.
+* Use the Services for the benefit of any third party without Certn’s prior written permission.
+* Create derivative works based on the Services or use the Services to develop a competitive product offering.
+* Modify, remove, or obscure any copyright, trademark, patent or other notices or legends that appear in the Services.
+* Create liability for us or our service providers or cause us to lose the services of our service providers.
+* Rent, lease, sub-license, or make the Services available to others without prior written consent from Certn.
+
+**Your Income Verification Request.**
+
+You agree to provide accurate, current, and complete information during the check process, and to update such information as necessary to keep it accurate, current, and complete. Certn will not be responsible for any inaccuracies resulting from incorrect or incomplete information submitted by you.
+
+You are responsible for maintaining the confidentiality of your account, username, and password and for restricting unauthorized access thereto. You agree to accept responsibility for all activities that occur with your permission or authorization under your account. You agree to notify Certn immediately of any unauthorized use of your account or password, or any other breach of security.
+
+The personal information collected for this income verification request will be used exclusively for the purpose of conducting the Services. Certn will not disclose this information to third parties without your explicit consent, except as required by law.
+
+Certn is acting independently, and not on behalf of any third party, in providing its application or Services.
+
+**Your Privacy.**
+
+In accordance with applicable data protection legislation, we are required to provide you with certain information about who we are, how we process your personal information and for what purposes and your rights in relation to your personal information and how to exercise them. This information is provided within the Certn [Privacy Policy](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-byeg-ihlj).
+
+By providing your personal information and requesting income verification, you consent to Certn sharing your information with the necessary service providers, required to fulfill your request to complete the Services. You may revoke this authorization at any time. Your data (passwords, usernames, PINS, personal information) can be used for the Services, to offer products and services, and for other permissible business purposes. The service providers may reproduce, display, adapt, enhance, aggregate, transmit, distribute and otherwise use your data as necessary or reasonable to provide the Services or to use your data in anonymized and aggregated form to improve the Services provided. The service providers shall be entitled to rely on this consent to collect information about you, solely for the purpose of fulfilling the Services.
+
+If you wish to dispute any information contained in your income verification results or request to have any identified inaccuracies associated with your personal information corrected, you can submit your request to [support@certn.co](mailto:support@certn.co) or within your applicable Certn platform. You may also ask Certn to delete any information that was previously provided to a third party.
+
+In the event that Certn or a third party ceases operating or otherwise ceases to make available the Services to you, your personal information will be purged from our systems, upon notice to you and any third party with whom you shared your information, in accordance with applicable data protection legislation.
+
+**Security.**
+
+Your information, which may include personal information, financial information, login credentials, communication data, and sensitive personal data, that we hold on our servers is encrypted at rest using the industry standard AES-256 encryption algorithm, and encrypted in flight using TLS 1.2 as a minimum. We only store your information as long as it is needed, in accordance with applicable laws and regulations.
+
+You are responsible for maintaining the confidentiality of your account, username, and password and for restricting unauthorized access thereto. You agree to accept responsibility for all activities that occur with your permission or authorization under your account. You agree to notify Certn immediately of any unauthorized use of your account or password, or any other breach of security.
+
+**Income Verification Limitations.**
+
+Income verification does not represent an official record of your account, may not reflect your most recent transactions, and should not be relied on for transactional purposes.
+
+**Intellectual Property Rights.**
+
+All intellectual property rights in the Services are owned by us or our licensors and are licensed to you under a limited, non-exclusive license. This license grants you the right to use the Services solely in accordance with these terms. You do not acquire any ownership or other intellectual property rights in the Services beyond this limited right of use. You agree that Certn and our service providers, as applicable, retain all ownership and proprietary rights in the Services, associated content, technology, mobile applications and websites.
+
+**Responsibilities.**
+
+The Services are not intended to provide legal, tax or financial advice. The Services, or certain portions and/or functionalities thereof, are provided with the understanding that neither we nor our service providers are engaged in rendering accounting, investment, tax, legal, or other professional services. If legal or other professional advice including financial, is required, the services of a competent professional person should be sought. We and our service providers specifically disclaim any liability, loss, or risk which is incurred as a consequence, directly or indirectly, of the use and application of any of the content contained in your income verification result. Further, we and our service providers are not responsible for any credit, insurance, employment or investment decisions or any damages or other losses resulting from decisions that arise in any way from the use of the Services or any materials or information accessible through it. Past performance does not guarantee future results.
+
+YOU AGREE YOUR USE OF THE SERVICES AND ALL INFORMATION AND CONTENT (INCLUDING THAT OF THIRD PARTIES) IS AT YOUR RISK AND IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. WE, AND OUR SERVICE PROVIDERS, DISCLAIM ALL WARRANTIES OF ANY KIND AS TO THE USE OF THE SERVICES, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. WE, AND OUR SERVICE PROVIDERS, MAKE NO WARRANTY THAT THE SERVICES (i) WILL MEET YOUR REQUIREMENTS, (ii) WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (iii) THE RESULTS THAT MAY BE OBTAINED FROM THE SERVICES WILL BE ACCURATE OR RELIABLE, (iv) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL OBTAINED BY YOU THROUGH THE SERVICES WILL MEET YOUR EXPECTATIONS, OR (v) ANY ERRORS IN THE SERVICES OR TECHNOLOGY WILL BE CORRECTED. ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICES IS DONE AT YOUR OWN DISCRETION AND RISK AND YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF SUCH MATERIAL. WE, ON BEHALF OF OURSELVES AND ALL THIRD-PARTY SERVICE PROVIDERS, EXPRESSLY DISCLAIM ANY TYPE OF REPRESENTATION OR WARRANTY REGARDING THE AVAILABILITY OR RESPONSE TIME OF THE SERVICES OR CONTENT OR INFORMATION OBTAINED THROUGH THE SERVICES OR THAT SUCH ACCESS WILL BE UNINTERRUPTED OR ERROR-FREE AND, EXCEPT AS EXPRESSLY PROVIDED FOR HEREIN, EXPRESSLY DISCLAIM THE ACCURACY, COMPLETENESS AND CURRENCY OF ALL INFORMATION COLLECTED ON YOUR BEHALF. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM US OR OUR SERVICE PROVIDERS THROUGH OR FROM THE SERVICES WILL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THESE TERMS.
+
+YOU AGREE THAT WE (INCLUDING OUR OFFICERS, DIRECTORS, EMPLOYEES AND AGENTS) AND OUR THIRD-PARTY SERVICE PROVIDERS WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE, TORT, OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER LOSSES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, RESULTING FROM (i) THE USE OR THE INABILITY TO USE THE SERVICES AT OUR WEBSITE/MOBILE APPLICATION OR OF ANY THIRD PARTY ACCOUNT PROVIDER’S WEBSITE/MOBILE APPLICATION; (ii) THE COST OF GETTING SUBSTITUTE GOODS AND SERVICES, (iii) ANY PRODUCTS, DATA, INFORMATION OR SERVICES PURCHASED OR OBTAINED OR MESSAGES RECEIVED OR TRANSACTIONS ENTERED INTO, THROUGH OR FROM THE SERVICES, (iv) UNLESS CAUSED BY CERTN, UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSION OR DATA, (v) STATEMENTS OR CONDUCT OF ANYONE ON THE SERVICES, (vi) THE USE, INABILITY TO USE, UNAUTHORIZED USE, PERFORMANCE OR NON-PERFORMANCE OF ANY THIRD PARTY SITE, EVEN IF THE PROVIDER HAS BEEN ADVISED PREVIOUSLY OF THE POSSIBILITY OF SUCH DAMAGES, (vii) YOUR DATA MADE AVAILABLE THROUGH THE US DATA ACCESS METHOD, OR (viii) ANY OTHER MATTER RELATING TO THE SERVICES. YOU ACKNOWLEDGE AND AGREE THAT WHEN CERTN OR ITS SERVICE PROVIDERS ACCESS AND RETRIEVE INFORMATION FROM THIRD PARTIES, SUCH ACTS ARE AT YOUR REQUEST AND WITH YOUR PERMISSION AND AUTHORIZATION, AND NOT ON BEHALF OF THE THIRD PARTIES THEMSELVES.
+
+CERTN’S LIABILITY TO YOU OR ANY THIRD PARTY FOR ANY CLAIM ARISING OUT OF OR IN CONNECTION WITH YOUR USE THIS INCOME VERIFICATION REQUEST SHALL BE LIMITED TO CAD $1,000.
+
+Service providers do not warrant that the Services comply with the requirements of the FINRA or those of any other organization anywhere in the world.
+
+Notwithstanding the foregoing, we do not limit or exclude our liability to you where it would be unlawful to do so.
+
+To the extent permitted by law, we and our service providers are not responsible for delays, delivery failures, or other loss or damage resulting from the transmission of data over communications networks, including the internet. You acknowledge that using the internet, mobile networks, and other communications media involves risks, such as viruses, data security issues, piracy, service availability, and data transmission reliability. If our provision of the Services or support is delayed due to an event outside our control, we will inform you as soon as possible and take steps to minimize the impact of the delay.
+
+**Third-Party Accounts.**
+
+With respect to any third-party sites you may access through the Services or with respect to any non-financial institution accounts you include in the Services, you agree:
+
+* You are responsible for all fees charged by the third party in connection with any non- Financial Institution accounts and transactions.
+* You agree to comply with the terms and conditions of those accounts and agree that this Agreement does not amend any of those terms and conditions.
+* If you have a dispute or question about any transaction on a non- Financial Institution account, you agree to direct these to the account provider.
+* Any links to third party sites that we may provide are for your convenience only, and we and our service providers do not sponsor or endorse those sites.
+* Any third-party services, which you may be able to access through the Services, are services of those third parties.
+* Neither Certn nor our service providers have any responsibility for any transactions and inquiries you initiate at third party sites.
+* You are solely responsible for any services you select on third-party sites.
+* Certn and our service providers are not liable for any damages or costs of any type arising out of or in any way connected with your use of those third-party services.
+
+**Export Restrictions.**
+
+The Services comply with U.S. export regulations, and you must adhere to these laws.
+
+**Termination and Changes.**
+
+Certn and our service providers reserve the right to change, suspend or discontinue any or all of the Services at any time without prior notice. If the Services are discontinued, your information shall be retained in accordance with applicable data privacy laws and our privacy policies.
+
+**Electronic Transaction**.
+
+By using the Services you warrant that you have agreed to transact electronically. You agree that an electronic signature is the legal equivalent of a manual signature. You further warrant that the use of a keypad, mouse or other device to select an item, button, icon or similar act/action, constitutes a valid signature as if actually signed in writing. You also warrant that no certification authority or other third-party verification is necessary to validate an electronic signature, and that the lack of such certification or third-party verification will not in any way affect the enforceability of the electronic signature. After authorizing the use of your electronic signature, you may still withdraw your consent by reaching out to support@certn.co.
+
+**Governing Law**.
+
+All matters relating to the Services and your access to, and use of, the Services, will be governed by the laws in the province of British Columbia and the federal laws of Canada applicable therein.
+
+**Miscellaneous.**
+
+This Agreement is not assignable. A determination that any provision of this Agreement is unenforceable or invalid shall not render any other provision of this Agreement unenforceable or invalid.
+
+These terms of use are subject to change from time to time. Certn will notify you of any material change. Your continued use of the Services will indicate your acceptance of the revised terms.
+
+**Notices and Consent to Receive Notices Electronically.**
+
+You consent to receive any agreements, notices, disclosures and other communications (collectively, “**Notices**”) to which these Terms refer electronically including without limitation by e-mail or by posting notices with the Services. You agree that all Notices provided electronically satisfy any legal requirement that such communications be in writing.
+
+If you have any questions about these Terms, you can contact customer support via email at [support@certn.co](mailto:support@certn.co).
 
 * * *
 
