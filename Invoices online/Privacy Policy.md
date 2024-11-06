@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Jannie Schutte - myFinance-Online.co.za
+Anri van der Linde
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=104fb2c4ac17672a5e3a8e65dd62dd7c316f97bc1ed3d670a53f2c3f06f19208&c=184805513)  
-Electro-Heat
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=73027969)  
+Enhle Oarabile Kea
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=104fb2c4ac17672a5e3a8e65dd62dd7c316f97bc1ed3d670a53f2c3f06f19208&c=68626996)  
-Three Moons Emporium
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=209837713)  
+Nilbet T/A Waterman
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=104fb2c4ac17672a5e3a8e65dd62dd7c316f97bc1ed3d670a53f2c3f06f19208&c=191770067)  
-Little Nutty Professors
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=164432368)  
+M's Frozen Delights
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=104fb2c4ac17672a5e3a8e65dd62dd7c316f97bc1ed3d670a53f2c3f06f19208&c=64423833)  
-Baby Toddles Infant Care
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=158167784)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=104fb2c4ac17672a5e3a8e65dd62dd7c316f97bc1ed3d670a53f2c3f06f19208&c=71318464)  
-Frequency Fanatics (Pty) Ltd
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=81474892)  
+Henry's Home Renovations
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=104fb2c4ac17672a5e3a8e65dd62dd7c316f97bc1ed3d670a53f2c3f06f19208&c=139950236)  
-Lily Fern & Co
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=161345846)  
+VIR Electrical (PTY) LTD
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=104fb2c4ac17672a5e3a8e65dd62dd7c316f97bc1ed3d670a53f2c3f06f19208&c=98299125)  
-Oukraal Merino's
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=74429139)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=104fb2c4ac17672a5e3a8e65dd62dd7c316f97bc1ed3d670a53f2c3f06f19208&c=77221750)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=200655649)  
+NIMAWELL
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=104fb2c4ac17672a5e3a8e65dd62dd7c316f97bc1ed3d670a53f2c3f06f19208&c=166550303)  
-National Elite Security Services (PTY) LTD
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=130282296)  
+Tiny Cuddles Photography
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=104fb2c4ac17672a5e3a8e65dd62dd7c316f97bc1ed3d670a53f2c3f06f19208&c=192022892)  
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=33873624)  
 Roamfree Boerdery (PTY) LTD
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=104fb2c4ac17672a5e3a8e65dd62dd7c316f97bc1ed3d670a53f2c3f06f19208&c=7275284)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=212194757)  
+Gemini-IT Group
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=104fb2c4ac17672a5e3a8e65dd62dd7c316f97bc1ed3d670a53f2c3f06f19208&c=111560695)  
-NGB HOLDINGS PTY LTD
+![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=19267052)  
+MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=104fb2c4ac17672a5e3a8e65dd62dd7c316f97bc1ed3d670a53f2c3f06f19208&c=121737292)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=159423130)  
+Creative Characters
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=104fb2c4ac17672a5e3a8e65dd62dd7c316f97bc1ed3d670a53f2c3f06f19208&c=96171068)  
-Redlum Group (Pty) Ltd
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=132639696)  
+All Trucking Solutions
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=104fb2c4ac17672a5e3a8e65dd62dd7c316f97bc1ed3d670a53f2c3f06f19208&c=176754519)  
-Lizzy Pop PTY(Ltd)
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=bcb116b690d797c209f994d2d238297a22e5e7a987584bc31e85328ecd8194e5&c=82865231)  
+Forgotten Goods (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
