@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
-* [Weihnachts­küche: Dünsten, backen, garen – und dabei Energie sparen](https://www.test.de/Weihnachtskueche-Duensten-backen-garen-und-dabei-Energie-sparen-5937736-0/ "Weihnachtsküche - Dünsten, backen, garen – und dabei Energie sparen")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
-* [PC-Anschlüsse: Die 10 wichtigsten Laptop-Anschlüsse](https://www.test.de/PC-Anschluesse-Die-10-wichtigsten-Laptop-Anschluesse-5974253-0/ "PC-Anschlüsse - Die 10 wichtigsten Laptop-Anschlüsse")
-* [Sport­socken im Test: Zwei schrumpfen, drei scheuern durch](https://www.test.de/Sportsocken-im-Test-Zwei-schrumpfen-drei-scheuern-durch-6141956-0/ "Sportsocken im Test - Zwei schrumpfen, drei scheuern durch")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
+* [Gesetzliche Renten­versicherung: 2023 steigt der Mindest­beitrag](https://www.test.de/Gesetzliche-Rentenversicherung-2023-steigt-der-Mindestbeitrag-5945205-0/ "Gesetzliche Rentenversicherung - 2023 steigt der Mindestbeitrag")
+* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
+* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
+* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
+* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
-* [Weihnachts­küche: Dünsten, backen, garen – und dabei Energie sparen](https://www.test.de/Weihnachtskueche-Duensten-backen-garen-und-dabei-Energie-sparen-5937736-0/ "Weihnachtsküche - Dünsten, backen, garen – und dabei Energie sparen")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
-* [PC-Anschlüsse: Die 10 wichtigsten Laptop-Anschlüsse](https://www.test.de/PC-Anschluesse-Die-10-wichtigsten-Laptop-Anschluesse-5974253-0/ "PC-Anschlüsse - Die 10 wichtigsten Laptop-Anschlüsse")
-* [Sport­socken im Test: Zwei schrumpfen, drei scheuern durch](https://www.test.de/Sportsocken-im-Test-Zwei-schrumpfen-drei-scheuern-durch-6141956-0/ "Sportsocken im Test - Zwei schrumpfen, drei scheuern durch")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
+* [Gesetzliche Renten­versicherung: 2023 steigt der Mindest­beitrag](https://www.test.de/Gesetzliche-Rentenversicherung-2023-steigt-der-Mindestbeitrag-5945205-0/ "Gesetzliche Rentenversicherung - 2023 steigt der Mindestbeitrag")
+* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
+* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
+* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
+* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
-* [Weihnachts­küche: Dünsten, backen, garen – und dabei Energie sparen](https://www.test.de/Weihnachtskueche-Duensten-backen-garen-und-dabei-Energie-sparen-5937736-0/ "Weihnachtsküche - Dünsten, backen, garen – und dabei Energie sparen")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
-* [PC-Anschlüsse: Die 10 wichtigsten Laptop-Anschlüsse](https://www.test.de/PC-Anschluesse-Die-10-wichtigsten-Laptop-Anschluesse-5974253-0/ "PC-Anschlüsse - Die 10 wichtigsten Laptop-Anschlüsse")
-* [Sport­socken im Test: Zwei schrumpfen, drei scheuern durch](https://www.test.de/Sportsocken-im-Test-Zwei-schrumpfen-drei-scheuern-durch-6141956-0/ "Sportsocken im Test - Zwei schrumpfen, drei scheuern durch")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
+* [Gesetzliche Renten­versicherung: 2023 steigt der Mindest­beitrag](https://www.test.de/Gesetzliche-Rentenversicherung-2023-steigt-der-Mindestbeitrag-5945205-0/ "Gesetzliche Rentenversicherung - 2023 steigt der Mindestbeitrag")
+* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
+* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
+* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
+* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
-* [Weihnachts­küche: Dünsten, backen, garen – und dabei Energie sparen](https://www.test.de/Weihnachtskueche-Duensten-backen-garen-und-dabei-Energie-sparen-5937736-0/ "Weihnachtsküche - Dünsten, backen, garen – und dabei Energie sparen")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
-* [PC-Anschlüsse: Die 10 wichtigsten Laptop-Anschlüsse](https://www.test.de/PC-Anschluesse-Die-10-wichtigsten-Laptop-Anschluesse-5974253-0/ "PC-Anschlüsse - Die 10 wichtigsten Laptop-Anschlüsse")
-* [Sport­socken im Test: Zwei schrumpfen, drei scheuern durch](https://www.test.de/Sportsocken-im-Test-Zwei-schrumpfen-drei-scheuern-durch-6141956-0/ "Sportsocken im Test - Zwei schrumpfen, drei scheuern durch")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
+* [Gesetzliche Renten­versicherung: 2023 steigt der Mindest­beitrag](https://www.test.de/Gesetzliche-Rentenversicherung-2023-steigt-der-Mindestbeitrag-5945205-0/ "Gesetzliche Rentenversicherung - 2023 steigt der Mindestbeitrag")
+* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
+* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
+* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
+* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Ganzjahresreifen-im-Test-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
 
 Service Stiftung Warentest
 
