@@ -208,15 +208,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/5/csm_pesticida-saude-reproducao-freepik_0968393968.png)
-
-Exposição
-
-Exposição
-
-Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais
-
-Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais](https://www.tnh1.com.br/noticia/nid/estudo-encontra-22-pesticidas-ligados-ao-cancer-de-prostata-veja-quais/ "Estudo encontra 22 pesticidas ligados ao câncer de próstata; veja quais ")[![Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/4/csm_Jovens_sao_encontradas_em_Delmiro_Gouveia_-_foto_MPAL_42636616d7.jpeg)
+[![Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/4/csm_Jovens_sao_encontradas_em_Delmiro_Gouveia_-_foto_MPAL_42636616d7.jpeg)
 
 Interior
 
@@ -224,15 +216,15 @@ Interior
 
 Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia
 
-Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia](https://www.tnh1.com.br/noticia/nid/crianca-e-adolescente-que-fugiram-de-casa-em-maceio-sao-encontradas-em-delmiro-gouveia/ "Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia")[![Trocadas no nascimento: como duas mulheres descobriram aos 55 anos que não eram quem pensavam ser](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/6/csm_bebes-trocadas-maternidade-pexels_64221c8ccd.jpg)
+Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia](https://www.tnh1.com.br/noticia/nid/crianca-e-adolescente-que-fugiram-de-casa-em-maceio-sao-encontradas-em-delmiro-gouveia/ "Criança e adolescente que fugiram de casa em Maceió são encontradas em Delmiro Gouveia")[![Médico descobre que 'obeso' tratado com Ozempic tinha na verdade um tumor de 27kg](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/d/csm_homem-diagnosticado-obesidade-uso-ozempic-reproducao_12b1c90a22.jpg)
 
-NA INGLATERRA
+Saúde debilitada
 
-NA INGLATERRA
+Saúde debilitada
 
-Trocadas no nascimento: como duas mulheres descobriram aos 55 anos que não eram quem pensavam ser
+Médico descobre que 'obeso' tratado com Ozempic tinha na verdade um tumor de 27kg
 
-Trocadas no nascimento: como duas mulheres descobriram aos 55 anos que não eram quem pensavam ser](https://www.tnh1.com.br/noticia/nid/trocadas-no-nascimento-como-duas-mulheres-descobriram-aos-55-anos-que-nao-eram-quem-pensavam-ser/ "Trocadas no nascimento: como duas mulheres descobriram aos 55 anos que não eram quem pensavam ser")[![Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/c/csm_Praia-do-Sonho-Verde_divulgacao_f8d3e4d94c.jpg)
+Médico descobre que 'obeso' tratado com Ozempic tinha na verdade um tumor de 27kg](https://www.tnh1.com.br/noticia/nid/medico-descobre-que-obeso-tratado-com-ozempic-tinha-na-verdade-um-tumor-de-27kg/ "Médico descobre que 'obeso' tratado com Ozempic tinha na verdade um tumor de 27kg")[![Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/c/csm_Praia-do-Sonho-Verde_divulgacao_f8d3e4d94c.jpg)
 
 LEVADO A HOSPITAL
 
@@ -240,9 +232,25 @@ LEVADO A HOSPITAL
 
 Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas
 
-Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas](https://www.tnh1.com.br/noticia/nid/bombeiro-e-atacado-por-caes-em-praia-do-litoral-norte-de-alagoas/ "Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas")
+Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas](https://www.tnh1.com.br/noticia/nid/bombeiro-e-atacado-por-caes-em-praia-do-litoral-norte-de-alagoas/ "Bombeiro é atacado por cães em praia do Litoral Norte de Alagoas")[![Ana Hickmann desabafa sobre pressão após engordar 12kg: ‘Muito cruel’](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/2/csm_Ana-Hickmann_f993928c05.jpeg)
 
-[![Bruno Mars passeia em BH, compra cerveja e dá gorjeta 'gorda' para dono de bar](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/d/csm_bruno-mars-passeio-BH-reproducao_0bbcd7dff4.jpg)
+Negou gravidez
+
+Negou gravidez
+
+Ana Hickmann desabafa sobre pressão após engordar 12kg: ‘Muito cruel’
+
+Ana Hickmann desabafa sobre pressão após engordar 12kg: ‘Muito cruel’](https://www.tnh1.com.br/noticia/nid/ana-hickmann-desabafa-sobre-pressao-apos-engordar-12kg-muito-cruel/ "Ana Hickmann desabafa sobre pressão após engordar 12kg: ‘Muito cruel’")
+
+[![Comunicado TNH1](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/7/csm_DESTAQUE_TNH1_385278721d.png)
+
+Geral
+
+Geral
+
+Comunicado TNH1
+
+Comunicado TNH1](https://www.tnh1.com.br/noticia/nid/comunicado-tnh1/ "Comunicado TNH1")[![Bruno Mars passeia em BH, compra cerveja e dá gorjeta 'gorda' para dono de bar](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/d/csm_bruno-mars-passeio-BH-reproducao_0bbcd7dff4.jpg)
 
 Gente Famosa
 
@@ -250,7 +258,7 @@ Gente Famosa
 
 Bruno Mars passeia em BH, compra cerveja e dá gorjeta 'gorda' para dono de bar
 
-Bruno Mars passeia em BH, compra cerveja e dá gorjeta 'gorda' para dono de bar](https://www.tnh1.com.br/noticia/nid/bruno-mars-passeia-em-bh-compra-cerveja-e-da-gorjeta-gorda-para-dono-de-bar/ "Bruno Mars passeia em BH, compra cerveja e dá gorjeta 'gorda' para dono de bar")[![Cabeça de porco, dentadura e até moto: relembre objetos atirados em campo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/f/csm_objetos-jogados-campo-reproducao_1a38626892.png)
+Bruno Mars passeia em BH, compra cerveja e dá gorjeta 'gorda' para dono de bar](https://www.tnh1.com.br/noticia/nid/bruno-mars-passeia-em-bh-compra-cerveja-e-da-gorjeta-gorda-para-dono-de-bar/ "Bruno Mars passeia em BH, compra cerveja e dá gorjeta 'gorda' para dono de bar")[![Cabeça de porco, dentadura e até moto: relembre objetos atirados em campo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/f/csm_objetos-jogados-campo-reproducao_1a38626892.png)
 
 Futebol Nacional
 
@@ -258,7 +266,7 @@ Futebol Nacional
 
 Cabeça de porco, dentadura e até moto: relembre objetos atirados em campo
 
-Cabeça de porco, dentadura e até moto: relembre objetos atirados em campo](https://www.tnh1.com.br/noticia/nid/cabeca-de-porco-dentadura-e-ate-moto-relembre-objetos-atirados-em-campo/ "Cabeça de porco, dentadura e até moto: relembre objetos atirados em campo")[![Justiça suspende norma que obriga médicos a emitirem atestados por plataforma digital do CFM ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/2/csm_medicos-agencia-brasil_75396f3dd9.jpg)
+Cabeça de porco, dentadura e até moto: relembre objetos atirados em campo](https://www.tnh1.com.br/noticia/nid/cabeca-de-porco-dentadura-e-ate-moto-relembre-objetos-atirados-em-campo/ "Cabeça de porco, dentadura e até moto: relembre objetos atirados em campo")[![Justiça suspende norma que obriga médicos a emitirem atestados por plataforma digital do CFM ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/2/csm_medicos-agencia-brasil_75396f3dd9.jpg)
 
 nova plataforma
 
@@ -266,15 +274,7 @@ nova plataforma
 
 Justiça suspende norma que obriga médicos a emitirem atestados por plataforma digital do CFM
 
-Justiça suspende norma que obriga médicos a emitirem atestados por plataforma digital do CFM](https://www.tnh1.com.br/noticia/nid/justica-suspende-norma-que-obriga-medicos-a-emitirem-atestados-por-plataforma-digital-do-cfm/ "Justiça suspende norma que obriga médicos a emitirem atestados por plataforma digital do CFM ")[![Flamengo se manifesta sobre Bruno Henrique, alvo de operação da Polícia Federal](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/5/csm_Bruno_Henrique_-_foto_Alexandre_Vidal_-_Flamengo_0655eac4dd.jpg)
-
-Futebol Nacional
-
-Futebol Nacional
-
-Flamengo se manifesta sobre Bruno Henrique, alvo de operação da Polícia Federal
-
-Flamengo se manifesta sobre Bruno Henrique, alvo de operação da Polícia Federal](https://www.tnh1.com.br/noticia/nid/flamengo-se-manifesta-sobre-bruno-henrique-alvo-de-operacao-da-policia-federal/ "Flamengo se manifesta sobre Bruno Henrique, alvo de operação da Polícia Federal")
+Justiça suspende norma que obriga médicos a emitirem atestados por plataforma digital do CFM](https://www.tnh1.com.br/noticia/nid/justica-suspende-norma-que-obriga-medicos-a-emitirem-atestados-por-plataforma-digital-do-cfm/ "Justiça suspende norma que obriga médicos a emitirem atestados por plataforma digital do CFM ")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
