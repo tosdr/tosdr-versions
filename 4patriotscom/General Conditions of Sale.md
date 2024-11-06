@@ -1,6 +1,6 @@
-[America Loves This Delicious 4-Week Survival Food Kit![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
+[🇺🇸 Veteran's Day Deal: Survival Food + FREE Water Filtration![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
 
-Learn More](https://4patriots.com/product/4-week-emergency-survival-food-kit)![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
+Learn More](https://products.4patriots.com/holiday/veterans-day/improved-3month-kit?afid=mkt&aff_sub=20241104_cam_4p_ecom_announce_3moplatuwf-vet-4pevent&utm_campaign=mkt_ecom_3moplatuwf-vet-4pevent_20241104&utm_medium=ecom&utm_source=cam&utm_content=announce&utm_term=4p&nb_klid={{)![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
 
 [SHOP](https://4patriots.com/category/shop-all)
 
