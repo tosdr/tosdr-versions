@@ -10,6 +10,7 @@
     
     * [Smart-ID](https://www.skidsolutions.eu/services/smart-id/)
     * [Mobile-ID](https://www.skidsolutions.eu/services/mobile-id/)
+    * [Authentigate](https://www.skidsolutions.eu/services/authentigate/)
     * [Timestamping](https://www.skidsolutions.eu/services/timestamping/)
     * [Certificates](https://www.skidsolutions.eu/services/certificates/)
     
@@ -129,6 +130,7 @@ E-mail: [info@skidsolutions.eu](mailto:info@skidsolutions.eu)
 
 * [Smart-ID](https://www.skidsolutions.eu/services/smart-id/)
 * [Mobile-ID](https://www.skidsolutions.eu/services/mobile-id/)
+* [Authentigate](https://www.skidsolutions.eu/services/authentigate/)
 * [Timestamping](https://www.skidsolutions.eu/services/timestamping/)
 * [Certificates](https://www.skidsolutions.eu/services/certificates/)
 
