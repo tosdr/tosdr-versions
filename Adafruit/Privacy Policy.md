@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Only through an inner spiritual transformation do we gain the strength to fight vigorously the evils of the world in a humble and loving spirit”
+“ I would rather entertain and hope that people learned something than educate people and hope they were entertained”
 
-[Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
+[Walt Disney](http://en.wikipedia.org/wiki/Walt_Disney)
 
 [](https://www.adafruit.com/about)
 
