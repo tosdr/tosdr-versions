@@ -1,4 +1,4 @@
-[![Goodreads Celebrates Native American Heritage Month](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1730408458i/459.jpg)](https://www.goodreads.com/blog/show/2852?ref=nahm24_eb)
+[![10 Years of Beloved Books](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1730839394i/475.jpg)](https://www.goodreads.com/blog/show/2837?ref=belovedbks24_eb)
 
 [](https://www.goodreads.com/ "Goodreads Home")
 
