@@ -1008,9 +1008,7 @@ method wolfbet.com verified as belonging solely to the User.
 
 §2
 
-In each case the level of seriousness of the breach shall be determined exclusively by
-
-wolfbet.com and the User agrees not to appeal against such wolfbet.com decisions.
+In each case the level of seriousness of the breach shall be determined exclusively bywolfbet.com and the User agrees not to appeal against such wolfbet.com decisions.
 
 
 
@@ -1018,11 +1016,7 @@ wolfbet.com and the User agrees not to appeal against such wolfbet.com decisions
 
 
 
-If wolfbet.com suspends the Account, then during the period of that suspension the User will
-
-not be able to access and/or use the Account and/or the Service. If wolfbet.com closes the
-
-Account, then the User will never be able to access the Account and wolfbet.com may also
+If wolfbet.com suspends the Account, then during the period of that suspension the User willnot be able to access and/or use the Account and/or the Service. If wolfbet.com closes theAccount, then the User will never be able to access the Account and wolfbet.com may also
 
 
 
@@ -1038,13 +1032,9 @@ Wolfbet.com shall also reserve the right to modify or discontinue the Service at
 
 
 
-(including, without limitation, by limiting or discontinuing certain features) without notice to the
+(including, without limitation, by limiting or discontinuing certain features) without notice to theUser. wolfbet.com shall have no liability whatsoever on an account of any change to
 
-User. wolfbet.com shall have no liability whatsoever on an account of any change to
-
-the Service or any suspension or termination of the User’s access to or use of the
-
-Service.
+the Service or any suspension or termination of the User’s access to or use of theService.
 
 
 
@@ -1052,11 +1042,7 @@ Service.
 
 
 
-Wolfbet.com shall reserve the right to shut down the Account, on which the User
-
-has not deposited any deposit in the event the Account has been inactive for over
-
-3 months.
+Wolfbet.com shall reserve the right to shut down the Account, on which the Userhas not deposited any deposit in the event the Account has been inactive for over3 months.
 
 
 
@@ -1064,11 +1050,7 @@ has not deposited any deposit in the event the Account has been inactive for ove
 
 
 
-Wolfbet.com shall reserve the right to shut down the Account, on which the User has
-
-deposited any deposit in the event the Account has been inactive for over 12 months
-
-and retain any associated Cryptocurrency.
+Wolfbet.com shall reserve the right to shut down the Account, on which the User hasdeposited any deposit in the event the Account has been inactive for over 12 monthsand retain any associated Cryptocurrency.
 
 13\. RESTRICTIONS
 
@@ -1084,33 +1066,15 @@ The User shall be forbidden:
 
 ● to have more than one Account;
 
-
-
 ● to give access to the Account to any third parties;
-
-
 
 ● to make the User’s login and password details available to the public
 
-
-
 ● to use double-spend transactions;
 
-
-
-● to exploit any vulnerability of Cryptocurrency such as but not limited to Tether, USD
-
-Coin, Binance USD, Bitcoin, Ethereum, XRP, DogeCoin, Binance Coin, Tron, Shiba
-
-Inu, Litecoin, Stellar, SushiCoin, Uniswap, Ethereum Classic, Bitcoin Cash,
-
-Cardano, Polkadot, SushiCoin, Optimism, Polygon;
-
-
+● to exploit any vulnerability of Cryptocurrency such as but not limited to Tether, USDCoin, Bitcoin, Ethereum, XRP, DogeCoin, Binance Coin, Tron, Shiba Inu, Litecoin,Stellar, SushiCoin, Unicoin, Ethereum Classic, Bitcoin Cash, Cardano, Polkadot,Optimism L2, Polygon;
 
 ● to make automatic bets not through Wolfbet’s software;
-
-
 
 ● to use any scripts for automating any aspect of a registration, game, features
 
@@ -1660,19 +1624,13 @@ and business systems used within this Website.
 
 
 
-The contents and structure of Wolfbet ́ s Website pages are subject to copyright © and
-
-database rights in the name of PixelPulse N.V. All rights reserved. The copyright in this
-
-Website including all text, graphics, code, files and links belongs to PixelPulse N.V. and the
+The contents and structure of Wolfbet ́ s Website pages are subject to copyright © anddatabase rights in the name of PixelPulse N.V. All rights reserved. The copyright in thisWebsite including all text, graphics, code, files and links belongs to PixelPulse N.V. and the
 
 
 
 site may not be reproduced, transmitted or stored in whole or in part without our written
 
-consent. The User’s registration and use of our system does therefore not confer any
-
-rights whatsoever to the intellectual property contained in our system.
+consent. The User’s registration and use of our system does therefore not confer anyrights whatsoever to the intellectual property contained in our system.
 
 
 
@@ -1680,9 +1638,9 @@ rights whatsoever to the intellectual property contained in our system.
 
 
 
-Links to the Website and any of the pages therein may not be included in any other
+Links
 
-website without the prior written consent of Wolfbet.com.
+ to the Website and any of the pages therein may not be included in any otherwebsite without the prior written consent of Wolfbet.com.
 
 
 
@@ -1694,7 +1652,7 @@ The User shall agree not to use any automatic or manual device to monitor or Wol
 
 pages or any content therein. Any unauthorized use or reproduction may be prosecuted.
 
-23\. INTEGRATED CRYPTOCURRENCIES
+23. INTEGRATED CRYPTOCURRENCIES
 
 
 
@@ -1708,13 +1666,13 @@ The list of following Cryptocurrencies is implemented on the Service - Tether (U
 
 Shiba Inu (SHIB), Litecoin (LTC), Stellar (XLM), SushiCoin (SUSHI), Uniswap (UNI),
 
-Ethereum Classic (ETC), Bitcoin Cash (BCH), Cardano (ADA), Polkadot (DOT), Optimism
+Ethereum Classic (ETC), Bitcoin Cash (BCH), Cardano (ADA), Polkadot (DOT), Optimism(OP), Polygon (MATIC), USD Coin (USDC). The list might be modified and new
 
-(OP), Polygon (MATIC), USD Coin (USDC), Binance USD (USDB). The list might be modified
+Cryptocurrencies might be added.
 
-and new Cryptocurrencies might be added.
+24.
 
-24\. RESPONSIBLE GAMBLING
+ RESPONSIBLE GAMBLING
 
 
 
@@ -1724,9 +1682,7 @@ and new Cryptocurrencies might be added.
 
 Wolfbet.com supports responsible gaming and is committed to providing the best gaming
 
-experience to everyone. At the same time, Wolfbet.com is committed to excluding cases
-
-of gaming while underage or letting gaming control lives. Wolfbet.com highlights that
+experience to everyone. At the same time, Wolfbet.com is committed to excluding casesof gaming while underage or letting gaming control lives. Wolfbet.com highlights that
 
 Cryptocurrencies’ value can change dramatically depending on the market value.
 
@@ -1742,11 +1698,7 @@ The User’s ExclusionIf it will come to Wolfbet.com notice that
 
 ● playing wolfbet.com affect User’s family welfare
 
-
-
 ● User skips job or studying due to playing
-
-
 
 ● Spending last funds while playing
 
