@@ -55,6 +55,8 @@
 Terms of Use
 ============
 
+_Last Updated: October 14, 2024_
+
 User Responsibility
 -------------------
 
