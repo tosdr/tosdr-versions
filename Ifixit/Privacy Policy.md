@@ -579,12 +579,12 @@ If you have any questions about this Privacy Policy, please [contact us](https:/
 
 **View Statistics:**
 
-Past 24 Hours: 226
+Past 24 Hours: 230
 
-Past 7 Days: 953
+Past 7 Days: 972
 
-Past 30 Days: 2,909
+Past 30 Days: 2,928
 
-All Time: 85,160
+All Time: 85,179
 
 ![](https://ping.ifixit.com/pp/tick.gif?key=ifixit%2Finfo%2F263%2Fen)
