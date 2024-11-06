@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/actief-meehelpen-aan-een-nieuwe-wereld/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/newspiration-com-de-internationale-opvolger-van-zinfo-nl-online/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
