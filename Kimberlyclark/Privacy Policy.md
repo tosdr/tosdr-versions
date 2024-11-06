@@ -468,7 +468,7 @@ We are committed to earning and maintaining trust by honoring the following prin
 GLOBAL PRIVACY POLICY
 =====================
 
-Last Updated : 10/30/2024
+Last Updated : 11/06/2024
 
 [](javascript:void(0))
 
@@ -490,7 +490,7 @@ If you have any questions, we want to hear from you. You can find our contact in
   
 **Brands.** Our Site is owned, operated, and maintained by KIMBERLY-CLARK CORPORATION and our affiliated companies and [brands](https://www.kimberly-clark.com/brands/our-brands) (“Kimberly-Clark”, “we”, “our” or “us”).    
   
-**State- or Country-Specific Disclosures.** This Policy includes additional state- or country-specific information (such as the specific rights regarding your personal information that may be available in your jurisdiction) within the [State- or Country-Specific Disclosures](#disclosures) section. If there is a conflict between this Policy and the State- or Country-Specific Disclosures section, the latter will control only as to the extent of the conflict. This policy does not apply to personal information of users located in the Russian Federation; the privacy policy for users in the Russian Federation is located [here](https://www.huggies.ru/privacy-policy).  
+**State- or Country-Specific Disclosures.** This Policy includes additional state- or country-specific information (such as the specific rights regarding your personal information that may be available in your jurisdiction) within the [State- or Country-Specific Disclosures](#disclosures) section. If there is a conflict between this Policy and the State- or Country-Specific Disclosures section, the latter will control only as to the extent of the conflict. For Russia, this Policy will not apply and Russian policy is located [here](https://www.huggies.ru/privacy-policy).  
   
 **Other Policies.** In addition to this Policy, there may be other specific Kimberly-Clark products, services or promotions that are governed by additional policies or terms of use. In those cases, we’ll notify you of these additional terms.   
   
