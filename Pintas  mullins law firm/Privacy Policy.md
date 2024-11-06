@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Who can i sue for a wrongful death in an assisted living facility?](https://www.pintas.com/wp-content/uploads/2021/02/practice-areas-personal-injury-assisted-living-accident-lawyer-who-can-i-sue-for-a-wrongful-death-in-an-assisted-living-facility-300x200.jpg "Who Can I Sue for a Wrongful Death in an Assisted Living Facility?")](https://www.pintas.com/practice-areas/personal-injury/assisted-living-accident-lawyer/who-can-i-sue-for-a-wrongful-death-in-an-assisted-living-facility/ "Who Can I Sue for a Wrongful Death in an Assisted Living Facility?")
+[![How do you know if you have stage 1 lung cancer?](https://www.pintas.com/wp-content/uploads/2020/11/how-do-you-know-if-you-have-stage-1-lung-cancer.jpg "How Do You Know if You Have Stage 1 Lung Cancer?")](https://www.pintas.com/lung-cancer/how-do-you-know-if-you-have-stage-1-lung-cancer/ "How Do You Know if You Have Stage 1 Lung Cancer?")
 
-[#### Who Can I Sue for a Wrongful Death in an Assisted Living Facility?](https://www.pintas.com/practice-areas/personal-injury/assisted-living-accident-lawyer/who-can-i-sue-for-a-wrongful-death-in-an-assisted-living-facility/)
+[#### How Do You Know if You Have Stage 1 Lung Cancer?](https://www.pintas.com/lung-cancer/how-do-you-know-if-you-have-stage-1-lung-cancer/)
 
-[![What damages can i collect in a mormon (lds) church sex abuse settlement?](https://www.pintas.com/wp-content/uploads/2019/12/blog-img.jpg "What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-damages-can-i-collect-in-a-mormon-church-sexual-abuse-settlement/ "What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?")
+[![Can lungs get rid of asbestos?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-lungs-get-rid-of-asbestos.jpg "Can Lungs Get Rid of Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/can-lungs-get-rid-of-asbestos/ "Can Lungs Get Rid of Asbestos?")
 
-[#### What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-damages-can-i-collect-in-a-mormon-church-sexual-abuse-settlement/)
+[#### Can Lungs Get Rid of Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/can-lungs-get-rid-of-asbestos/)
 
-[![How do you get lung cancer without smoking?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-how-do-you-get-lung-cancer-without-smoking.jpg "How Do You Get Lung Cancer without Smoking?")](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-get-lung-cancer-without-smoking/ "How Do You Get Lung Cancer without Smoking?")
+[![How do you get mesothelioma lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-how-do-you-get-mesothelioma-lung-cancer.jpg "How Do You Get Mesothelioma Lung Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-mesothelioma-lung-cancer/ "How Do You Get Mesothelioma Lung Cancer?")
 
-[#### How Do You Get Lung Cancer without Smoking?](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-get-lung-cancer-without-smoking/)
+[#### How Do You Get Mesothelioma Lung Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-mesothelioma-lung-cancer/)
 
 ### Injured?  
 Tell Us What Happened.
