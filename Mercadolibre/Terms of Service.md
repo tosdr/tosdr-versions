@@ -1,6 +1,6 @@
 [Saltar al contenido](#root-app)[Comentar sobre accesibilidad](https://www.mercadolibre.com.ar/accesibilidad/feedback)[Mercado Libre Argentina - Donde comprar y vender de todo](https://www.mercadolibre.com.ar/)
 
-[Creá tu cuenta](https://www.mercadolibre.com.ar/registration?confirmation_url=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fayuda%2Fterminos-y-condiciones-de-uso_991#nav-header)[Ingresá](https://www.mercadolibre.com/jms/mla/lgz/login?platform_id=ML&go=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fayuda%2Fterminos-y-condiciones-de-uso_991&loginType=explicit#nav-header)[Ayuda](https://www.mercadolibre.com.ar/ayuda#nav-header)
+* [Creá tu cuenta](https://www.mercadolibre.com.ar/registration?confirmation_url=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fayuda%2Fterminos-y-condiciones-de-uso_991#nav-header)[Ingresá](https://www.mercadolibre.com/jms/mla/lgz/login?platform_id=ML&go=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fayuda%2Fterminos-y-condiciones-de-uso_991&loginType=explicit#nav-header)[Ayuda](https://www.mercadolibre.com.ar/ayuda#nav-header)
 
 1. [Ayuda](https://www.mercadolibre.com.ar/ayuda)
     
