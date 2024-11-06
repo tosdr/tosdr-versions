@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/1-tornado-1-verwoeste-truck-en-5-ufos/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/actief-meehelpen-aan-een-nieuwe-wereld/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
