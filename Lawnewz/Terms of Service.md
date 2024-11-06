@@ -279,25 +279,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Inset: Ashley Rowland (Moore, Oklahoma Police Department). Background: The home where Rowland lived with her now-missing child (KOCO).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/asdfadfadf-432x243.jpg)](https://lawandcrime.com/crime/heartbreaking-and-unimaginable-mom-gave-2-year-old-daughter-to-drug-dealer-while-buying-meth-girl-hasnt-been-seen-since-police-say/)
-    
-    ### ['Heartbreaking and unimaginable': Mom gave 2-year-old daughter to drug dealer while buying meth, girl hasn’t been seen since, police say](https://lawandcrime.com/crime/heartbreaking-and-unimaginable-mom-gave-2-year-old-daughter-to-drug-dealer-while-buying-meth-girl-hasnt-been-seen-since-police-say/)
-    
-2. [![Republican presidential nominee former President Donald Trump speaks at the National Guard Association of the United States' 146th General Conference, Monday, Aug. 26, 2024, in Detroit.](https://am23.mediaite.com/lc/cnt/uploads/2024/08/AP24239735079503-432x243.jpg)](https://lawandcrime.com/crime/i-have-a-stolen-ar15-and-a-target-man-threatens-to-carry-out-an-attack-if-trump-wins-election-feds-say/)
+1. [![Republican presidential nominee former President Donald Trump speaks at the National Guard Association of the United States' 146th General Conference, Monday, Aug. 26, 2024, in Detroit.](https://am23.mediaite.com/lc/cnt/uploads/2024/08/AP24239735079503-432x243.jpg)](https://lawandcrime.com/crime/i-have-a-stolen-ar15-and-a-target-man-threatens-to-carry-out-an-attack-if-trump-wins-election-feds-say/)
     
     ### ['I have a stolen ar15 and a target': Man threatens to 'carry out an attack' if Trump wins election, feds say](https://lawandcrime.com/crime/i-have-a-stolen-ar15-and-a-target-man-threatens-to-carry-out-an-attack-if-trump-wins-election-feds-say/)
     
-3. [![Background: Joshua Hunsucker in court (WSOC-TV/YouTube). Inset: Stacy Hunsucker's parents, John and Susie Robinson (WSOC-TV/YouTube).](https://am23.mediaite.com/lc/cnt/uploads/2024/11/Joshua-Hunsucker-North-Carolina-poison-killer-432x243.jpg)](https://lawandcrime.com/uncategorized/former-paramedic-accused-of-poisoning-wife-with-visine-gets-bail-yanked-after-allegedly-tainting-daughters-drink-to-frame-in-laws/)
+2. [![Left to right: Ulise DeLao (Randall County Jail), Brittney A. Torres (GoFundMe).](https://am23.mediaite.com/lc/cnt/uploads/2024/11/Left-to-right-Ulise-DeLao-Randall-County-Jail-and-Brittney-A.-Torres-GoFundMe-1-432x243.jpg)](https://lawandcrime.com/crime/dad-accused-of-running-down-killing-mother-of-his-child-will-retain-parental-rights-ahead-of-trial-judge-rules/)
     
-    ### [Former paramedic accused of poisoning wife with Visine gets bail yanked after allegedly tainting daughter's drink to frame in-laws](https://lawandcrime.com/uncategorized/former-paramedic-accused-of-poisoning-wife-with-visine-gets-bail-yanked-after-allegedly-tainting-daughters-drink-to-frame-in-laws/)
+    ### [Dad accused of running down, killing mother of his child will retain parental rights ahead of trial, judge rules](https://lawandcrime.com/crime/dad-accused-of-running-down-killing-mother-of-his-child-will-retain-parental-rights-ahead-of-trial-judge-rules/)
     
-4. [![Jordan L. Boggess and Baby Waylon](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Jordan-L.-Boggess-and-Baby-Waylon-432x243.jpg)](https://lawandcrime.com/crime/reset-to-a-newborn-moms-fiance-bear-hugged-her-infant-son-to-get-him-to-stop-crying-police-say/)
+3. [![Yvonne St. Cyr appears inset in two images against one image of former president Donald Trump at the Jan. 6, 2021 rally in Washington, D.C.](https://am21.mediaite.com/lc/cnt/uploads/2024/11/St-Cyr-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/you-can-witness-history-by-obstructing-appeals-court-in-jan-6-case-doesnt-seem-to-care-trump-video-was-excluded/)
     
-    ### ['Reset to a newborn': Mom's fiance 'bear hugged' her infant son to get him to stop crying, police say](https://lawandcrime.com/crime/reset-to-a-newborn-moms-fiance-bear-hugged-her-infant-son-to-get-him-to-stop-crying-police-say/)
+    ### ['You can witness history by obstructing': Appeals court in Jan. 6 case doesn't seem to care Trump video was excluded](https://lawandcrime.com/high-profile/you-can-witness-history-by-obstructing-appeals-court-in-jan-6-case-doesnt-seem-to-care-trump-video-was-excluded/)
     
-5. [![Left: FILE - Texas Attorney General Ken Paxton speaks at a rally in support of President Donald Trump called the ](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Ken-Paxton-Kamala-Harris-432x243.jpg)](https://lawandcrime.com/high-profile/ken-paxton-sues-biden-harris-administration-over-plans-to-send-federal-officials-to-monitor-polls-in-texas/)
+4. [![Inset: Ashley Rowland (Moore, Oklahoma Police Department). Background: The home where Rowland lived with her now-missing child (KOCO).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/asdfadfadf-432x243.jpg)](https://lawandcrime.com/crime/heartbreaking-and-unimaginable-mom-gave-2-year-old-daughter-to-drug-dealer-while-buying-meth-girl-hasnt-been-seen-since-police-say/)
     
-    ### [Ken Paxton sues Biden-Harris administration over plans to send federal officials to monitor polls in Texas](https://lawandcrime.com/high-profile/ken-paxton-sues-biden-harris-administration-over-plans-to-send-federal-officials-to-monitor-polls-in-texas/)
+    ### ['Heartbreaking and unimaginable': Mom gave 2-year-old daughter to drug dealer while buying meth, girl hasn’t been seen since, police say](https://lawandcrime.com/crime/heartbreaking-and-unimaginable-mom-gave-2-year-old-daughter-to-drug-dealer-while-buying-meth-girl-hasnt-been-seen-since-police-say/)
+    
+5. [![Rudy Giuliani makes appearance at RNC.](https://am21.mediaite.com/lc/cnt/uploads/2024/07/AP24198792449520-432x243.jpg)](https://lawandcrime.com/high-profile/secreted-away-giuliani-emptied-nyc-apartment-of-virtually-all-valuables-before-surrendering-assets-to-defamed-election-workers-lawyers-say/)
+    
+    ### ['Secreted away': Giuliani emptied NYC apartment of 'virtually all' valuables before surrendering assets to defamed election workers, lawyers say](https://lawandcrime.com/high-profile/secreted-away-giuliani-emptied-nyc-apartment-of-virtually-all-valuables-before-surrendering-assets-to-defamed-election-workers-lawyers-say/)
     
 
 [](http://eepurl.com/c89Jdb)
