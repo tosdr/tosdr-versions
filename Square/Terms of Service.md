@@ -308,9 +308,9 @@ These General Terms, and any applicable Additional Terms or Policies, are a comp
 
 [Terms of Service](https://squareup.com/legal/general/ua)
 
-[Government](https://squareup.com/legal/general/gov)
-
 [Licenses](https://squareup.com/legal/general/licenses)
+
+[Government](https://squareup.com/legal/general/gov)
 
 [Additional Point of Sale Terms](https://squareup.com/legal/general/pos)
 
@@ -322,9 +322,9 @@ These General Terms, and any applicable Additional Terms or Policies, are a comp
 
 [Hardware Compliance Certifications](https://squareup.com/legal/general/dc)
 
-[Bill Pay Terms](https://squareup.com/legal/general/billpay)
-
 [Square Checking Terms of Service](https://squareup.com/legal/general/sqchecking-tos)
+
+[Square Buyer Account Terms of Use](https://squareup.com/legal/general/buyer-account-terms)
 
 [Developer Terms of Service](https://squareup.com/legal/general/developers)
 
@@ -344,8 +344,6 @@ These General Terms, and any applicable Additional Terms or Policies, are a comp
 
 [Additional Payroll Terms of Service](https://squareup.com/legal/general/payroll)
 
-[Square Buyer Account Terms of Use](https://squareup.com/legal/general/buyer-account-terms)
-
 [Intellectual Property Policy](https://squareup.com/legal/general/copyright)
 
 [HIPAA Business Associate Agreement](https://squareup.com/legal/general/hipaa)
@@ -353,6 +351,8 @@ These General Terms, and any applicable Additional Terms or Policies, are a comp
 [Square Cardholder Agreement and Terms of Service](https://squareup.com/legal/general/squarecard)
 
 [Afterpay Merchant Terms of Service](https://squareup.com/legal/general/afterpay-merchant-terms)
+
+[Bill Pay Terms](https://squareup.com/legal/general/billpay)
 
 [Products](#)
 
