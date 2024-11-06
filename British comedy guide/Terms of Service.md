@@ -176,6 +176,14 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Image shows left to right: Austentatious, Cariad Lloyd, Graham Dickson, Rachel Parris](https://cdn.comedy.co.uk/images/library/misc/300x200/a/austentatious_2024.jpg "Image shows left to right: Austentatious, Cariad Lloyd, Graham Dickson, Rachel Parris")](https://www.comedy.co.uk/live/features/austentatious-rachel-parris-interview/) Live
+
+[Amusement and adventures with Austentatious: Q&A with Rachel Parris](https://www.comedy.co.uk/live/features/austentatious-rachel-parris-interview/)
+
+[![The Full Monty. Image shows from L to R: Nathan (William Snape), Dave (Mark Addy), Gaz (Robert Carlyle), Lomper (Steve Huison), Gerald (Tom Wilkinson)](https://cdn.comedy.co.uk/images/library/comedies/300x200/t/the_full_monty.jpg "The Full Monty. Image shows from L to R: Nathan (William Snape), Dave (Mark Addy), Gaz (Robert Carlyle), Lomper (Steve Huison), Gerald (Tom Wilkinson)")](https://www.comedy.co.uk/quiz/331/) Quiz
+
+[British Comedy Quiz #331](https://www.comedy.co.uk/quiz/331/)
+
 [![Juno Birch. Credit: Emma Jones](https://cdn.comedy.co.uk/images/library/people/300x200/j/juno_birch.jpg "Juno Birch. Credit: Emma Jones")](https://www.comedy.co.uk/live/features/juno-birch-probed-interview/) Live
 
 [Probing Juno Birch about her show](https://www.comedy.co.uk/live/features/juno-birch-probed-interview/)
@@ -183,14 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Michael Brunström](https://cdn.comedy.co.uk/images/library/people/300x200/m/michael_brunstrom_headshot.jpg "Michael Brunström")](https://www.comedy.co.uk/live/random8/michael-brunstrom/) Live
 
 [Random 8: Michael Brunström](https://www.comedy.co.uk/live/random8/michael-brunstrom/)
-
-[![A Christmas Carol (ish). Nick Mohammed. Credit: Matt Crockett](https://cdn.comedy.co.uk/images/library/misc/300x200/c/christmas_carol_ish_mr_swallow.jpg "A Christmas Carol (ish). Nick Mohammed. Credit: Matt Crockett")](https://www.comedy.co.uk/live/features/nick-mohammed-mr-swallow-interview/) Live
-
-[Nick Mohammed on bringing Mr Swallow to the West End](https://www.comedy.co.uk/live/features/nick-mohammed-mr-swallow-interview/)
-
-[![Duggie Small](https://cdn.comedy.co.uk/images/library/people/300x200/d/duggie_small.jpg "Duggie Small")](https://www.comedy.co.uk/features/comedy_chronicles/duggie-small/) Features
-
-[Comedy Chronicles: Up and away - The big fall of Duggie Small](https://www.comedy.co.uk/features/comedy_chronicles/duggie-small/)
 
 #### Subscribe to our newsletters
 
