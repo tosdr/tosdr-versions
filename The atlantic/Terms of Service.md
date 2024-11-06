@@ -76,7 +76,7 @@
 * [Sign In](https://accounts.theatlantic.com/login/) [My Account](https://accounts.theatlantic.com/accounts/details/)
 * [Subscribe](https://www.theatlantic.com/subscribe/navbar/)
 
-[Find all of _The Atlantic_’s election coverage here, from across the country and up and down the ballot.](https://www.theatlantic.com/projects/2024-elections/)
+[Donald Trump has won the 2024 U.S. presidential election. Read more from our writers on what happens next:](https://www.theatlantic.com/projects/2024-elections/)
 
 Terms & Conditions
 ==================
