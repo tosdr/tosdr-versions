@@ -12,6 +12,13 @@ Menü
 
 [](#)[](#)[](#)
 
+Empfehlungen für dich
+
+* [Smartphones - Beste B-Ware](https://talk-point.de/collections/b-ware-smartphones)
+* [Tablets - Beste B-Ware](https://talk-point.de/collections/b-ware-tablets)
+* [Smartwatches - Beste B-Ware](https://talk-point.de/collections/b-ware-smartwatches)
+* [Top-Seller](https://talk-point.de/collections/top-seller)
+
 * [Anmelden](https://talk-point.de/customer_authentication/redirect?locale=de&region_country=DE)
 
 [Warenkorb anzeigen](https://talk-point.de/cart)
@@ -279,23 +286,7 @@ Menü
         * [TP Zelte](https://talk-point.de/collections/tp-zelte)
         * [TP Kofferset](https://talk-point.de/collections/tp-hartschalen-reisekoffer)
     
-* Trinkbares
-    
-    * [Alle Spirituosen](https://talk-point.de/collections/spirituosen)
-    * [Rotwein](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Rotwein)
-    * [Weißwein](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Wei%C3%9Fwein)
-    * [Roséwein](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Ros%C3%A9wein)
-    * [Champagner](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Champagner)
-    * [Sekt](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Sekt)
-    * [Whiskey](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Whisky)
-    * [Rum](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Rum)
-    * [Wodka](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Vodka)
-    * [Wermut](https://talk-point.de/collections/getranke-wermut)
-    * [Gin](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Gin)
-    * [Likör](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Lik%C3%B6r)
-    * [Brandy](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Brandy)
-    * [Gläser](https://talk-point.de/collections/glaser)
-    
+* [Top-Seller](https://talk-point.de/collections/top-seller)
 
 * [Anmelden](https://talk-point.de/customer_authentication/redirect?locale=de&region_country=DE)
 
@@ -579,24 +570,7 @@ Menü
         * [TP Zelte](https://talk-point.de/collections/tp-zelte)
         * [TP Kofferset](https://talk-point.de/collections/tp-hartschalen-reisekoffer)
     
-* [Trinkbares](https://talk-point.de/collections/spirituosen)
-    
-    Trinkbares
-    
-    * [Alle Spirituosen](https://talk-point.de/collections/spirituosen)
-    * [Rotwein](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Rotwein)
-    * [Weißwein](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Wei%C3%9Fwein)
-    * [Roséwein](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Ros%C3%A9wein)
-    * [Champagner](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Champagner)
-    * [Sekt](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Sekt)
-    * [Whiskey](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Whisky)
-    * [Rum](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Rum)
-    * [Wodka](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Vodka)
-    * [Wermut](https://talk-point.de/collections/getranke-wermut)
-    * [Gin](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Gin)
-    * [Likör](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Lik%C3%B6r)
-    * [Brandy](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Brandy)
-    * [Gläser](https://talk-point.de/collections/glaser)
+* [Top-Seller](https://talk-point.de/collections/top-seller)
 
 Datenschutzerklärung
 ====================
@@ -1016,7 +990,6 @@ Soweit Sie einen Vertrag mit uns schließen möchten oder sich mit einer Anfrage
 Nach oben Nach oben
 
 Info
-----
 
 * [AGB](https://talk-point.de/policies/terms-of-service)
 * [Impressum](https://talk-point.de/policies/legal-notice)
@@ -1029,7 +1002,6 @@ Info
 * [Checkliste Speditionslieferung](https://talk-point.de/pages/checkliste-speditionslieferung)
 
 Service & Informationen
------------------------
 
 * [Retoure & Service](https://service.talk-point.de/core/home/de/)
 * [Versandinformationen](https://talk-point.de/pages/versandinformationen)
@@ -1053,7 +1025,6 @@ Folgen Sie uns
 [![Geizhals Preisvergleich](https://cdn.shopify.com/s/files/1/0550/1236/0351/files/geizhals_logo_official.png?v=1708095568 "Geizhals Preisvergleich")](https://geizhals.de/)
 
 Kontakt
--------
 
 **Servicehotline:**
 
@@ -1141,10 +1112,7 @@ Bahnhofstraße 21
 
 Land aktualisieren
 
-Land
-----
-
-Deutschland (EUR €)
+Land Deutschland (EUR €)
 
 * [Belgien (EUR €)](#)
 * [Bulgarien (EUR €)](#)
@@ -1246,10 +1214,7 @@ Powered by Shopcloud
 
 Land aktualisieren
 
-Land
-----
-
-Deutschland (EUR €)
+Land Deutschland (EUR €)
 
 * [Belgien (EUR €)](#)
 * [Bulgarien (EUR €)](#)
