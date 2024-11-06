@@ -8,6 +8,7 @@
     -------------------
     
     * [All Products](https://www.epsilon.com/us/products-and-services)
+    * [Epsilon Accelerate](https://www.epsilon.com/us/products-and-services/accelerate)
     * [Epsilon Digital](https://www.epsilon.com/us/products-and-services/epsilon-digital)
     * [Epsilon Retail Media](https://www.epsilon.com/us/products-and-services/retail-media-network)
     * Epsilon PeopleCloud
@@ -132,6 +133,7 @@ Select a region (US)United States中国Deutschland日本EMEAAPACUnited KingdomFr
 * Products & Services
     -------------------
     
+    * [Epsilon Accelerate](https://www.epsilon.com/us/products-and-services/accelerate)
     * [Epsilon Digital](https://www.epsilon.com/us/products-and-services/epsilon-digital)
     * [Epsilon Retail Media](https://www.epsilon.com/us/products-and-services/retail-media-network)
     * [Epsilon PeopleCloud](https://www.epsilon.com/us/products-and-services/epsilon-peoplecloud)
