@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f25a4a15-c5f8-405e-8e97-b7e5713151f2/20241105T182155/f25a4a15-c5f8-405e-8e97-b7e5713151f2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f25a4a15-c5f8-405e-8e97-b7e5713151f2/20241105T182155/f25a4a15-c5f8-405e-8e97-b7e5713151f2_360x203.jpg)](https://www.wqad.com/article/news/politics/elections/how-to-watch-wqad-news-8-live-coverage-on-election-night-2024/526-6d1852f3-71e4-4a9f-8711-513e224e775a)
+    *  [![](https://media.tegna-media.com/assets/WUSA/images/c8ffb8b4-0a83-4bb9-8763-9164b1260376/c8ffb8b4-0a83-4bb9-8763-9164b1260376_16x9.jpg) ![](https://media.tegna-media.com/assets/WUSA/images/c8ffb8b4-0a83-4bb9-8763-9164b1260376/c8ffb8b4-0a83-4bb9-8763-9164b1260376_360x203.jpg)](https://www.wqad.com/elections)
         
-        #### [Watch Now: Live Election Night coverage on WQAD News 8+, available on Roku, Amazon Fire TV and Apple TV](https://www.wqad.com/article/news/politics/elections/how-to-watch-wqad-news-8-live-coverage-on-election-night-2024/526-6d1852f3-71e4-4a9f-8711-513e224e775a)
+        #### [Live Election Results | Nov. 5, 2024](https://www.wqad.com/elections)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b295850c-4744-4ec7-a4b6-5b524c6e4534/20241105T171549/b295850c-4744-4ec7-a4b6-5b524c6e4534_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b295850c-4744-4ec7-a4b6-5b524c6e4534/20241105T171549/b295850c-4744-4ec7-a4b6-5b524c6e4534_360x203.jpg)](https://www.wqad.com/article/news/local/moline-missing-davenport-woman/526-e29c34db-4e5e-4e43-89b8-7468dc21ef21)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
         
-        #### [Moline police seek help finding missing Davenport woman](https://www.wqad.com/article/news/local/moline-missing-davenport-woman/526-e29c34db-4e5e-4e43-89b8-7468dc21ef21)
+        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WVEC/images/d1a456b7-49c1-4ef6-b319-c67bd00c56f8/20241105T180117/d1a456b7-49c1-4ef6-b319-c67bd00c56f8_16x9.jpg) ![](https://media.tegna-media.com/assets/WVEC/images/d1a456b7-49c1-4ef6-b319-c67bd00c56f8/20241105T180117/d1a456b7-49c1-4ef6-b319-c67bd00c56f8_360x203.jpg)](https://www.wqad.com/article/weather/taurid-meteor-shower-peaks-this-week/291-3325c2b8-a61c-4837-9cae-98981a328f87)
+        
+        #### [Taurid meteor shower peaks this week](https://www.wqad.com/article/weather/taurid-meteor-shower-peaks-this-week/291-3325c2b8-a61c-4837-9cae-98981a328f87)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/cfc26164-6723-4f88-abb7-5706600a1374/20241106T130721/cfc26164-6723-4f88-abb7-5706600a1374_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cfc26164-6723-4f88-abb7-5706600a1374/20241106T130721/cfc26164-6723-4f88-abb7-5706600a1374_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Sunshine, light winds return for Wednesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-    *  [![](https://media.tegna-media.com/assets/KIII/images/dd45741b-76ed-413b-aa9c-d7820d210933/20241106T130405/dd45741b-76ed-413b-aa9c-d7820d210933_16x9.jpg) ![](https://media.tegna-media.com/assets/KIII/images/dd45741b-76ed-413b-aa9c-d7820d210933/20241106T130405/dd45741b-76ed-413b-aa9c-d7820d210933_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/tropical-update/503-98a38232-f648-4949-9a49-1e963935f5b6)
-        
-        #### [TROPICAL UPDATE: Hurricane Rafael set to land in Cuba Wednesday, then move into the Gulf of Mexico](https://www.wqad.com/article/weather/hurricane/tropical-update/503-98a38232-f648-4949-9a49-1e963935f5b6)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-49°
+52°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
