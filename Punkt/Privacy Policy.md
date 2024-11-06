@@ -33,8 +33,8 @@ please sign in to access them.
 Punkt. Data Protection Policy
 =============================
 
-Valid from the 14th of November 2023
-------------------------------------
+Valid from the 6th of November 2024
+-----------------------------------
 
 Punkt. is committed to protecting and respecting your privacy; for this reason, we collect and manage your personal data carefully and take specific measures to keep it safe.  
 We have updated our privacy policy; below you will find information on how we collect, gather and use your personal data in relation to your browsing of or purchasing via our website [www.punkt.ch](https://www.punkt.ch/).  
@@ -150,7 +150,17 @@ Your personal data is stored in compliance with the following terms and criteria
 7. Data used for commercial communication activities regarding Users who purchase products on punkt.ch: this data is kept until the termination of service or the exercise of the opposition by unsubscription by the user;
 8. Data used for carrying out market research and surveys for satisfaction surveys: up to the request by the user to interrupt the activity. In any case, for technical reasons, the termination of the processing and the subsequent ultimate cancellation or irreversible anonymisation of the related personal data will be finalised within thirty days from the terms specified above.
 
-### 10\. Your rights
+### 10\. Affiliate Marketing Programs
+
+We participate in an affiliate marketing programs as an advertiser, which allows us to promote our products through third-party affiliates and publishers who may earn commissions for driving traffic and sales to our website. In connection with this program:
+
+1. Data Collection and Sharing: we may share certain non-identifiable or aggregated information with our affiliates and publishers to help track and optimize marketing campaigns. We do not share personal information directly with these affiliates and publishers unless expressly authorized or required by applicable law.
+2. Tracking: our website may use cookies or similar tracking technologies provided by our affiliate platforms to monitor the success of affiliate marketing efforts and attribute sales to specific affiliates. These technologies allow us to recognize when you have accessed our website through an affiliate link and may collect information like your IP address, device information, and browsing activity.
+3. Third-Party Privacy Policies: affiliates and publishers that promote our products have their own privacy policies, which we do not control. We encourage you to review their policies to understand how they collect, use, and process your information when you visit their websites or interact with their content.
+4. Opt-Out: if you wish to limit or opt out of tracking through cookies or similar technologies related to affiliate marketing, you may adjust your browser settings to refuse cookies or use privacy settings offered by our website where available.
+    
+
+### 11\. Your rights
 
 We guarantee you all the rights under the FADP. In particular, you can exercise your rights at any time with reference to the specific processing of your personal data by Punkt.:
 
@@ -165,25 +175,25 @@ We guarantee you all the rights under the FADP. In particular, you can exercise 
 We may suspend, limit or refuse the exercise your rights to the extent permitted by law. We may draw your attention to any requirements that must be met in order to exercise your rights under the FADP. For example, we may refuse to provide information, in whole or in part, with regard to business secrets or the protection of other persons. We may also, for example, refuse to delete personal data in whole or in part with reference to statutory retention obligations.  
 When you request information or assert other rights we are obliged to take reasonable measures to identify you. You are obliged to cooperate.
 
-### 11\. Security measures
+### 12\. Security measures
 
 We protect your personal data with specific technical and organisational security measures, aimed at preventing your personal data from being used illegitimately or fraudulently. In particular, we use security measures that guarantee: the pseudo-anonymisation or the encryption of your data; the confidentiality, integrity, and availability of your data as well as the resilience of the systems and services that process them; the ability to restore data in the event of a data breach. However, despite these measures, the processing of personal data on the Internet can always have security gaps. We can therefore not guarantee absolute data security. Access to our website is via transfer encryption (SSL/TLS, in particular with Hypertext Transfer Protocol Secure, abbreviated HTTPS). Most browsers mark the transfer encryption with a padlock in the address bar. Access to our website is subject - as it is basically the case for all Internet surfing - to constant and suspicion-free sweeping and other checks by security authorities in Switzerland, the European Union (EU), the United States of America (USA) and other countries. We cannot exert any direct influence on the proper handling of personal data by intelligence services, police forces and other security authorities.
 
-### 12\. Complaints
+### 13\. Complaints
 
 If you believe that the processing of your personal data has been carried out unlawfully, you can lodge a complaint to one of the supervisory authorities responsible for compliance with the rules on personal data protection. The data protection supervisory authority for private data controllers and federal agencies in Switzerland is the Federal Data Protection and Information Commissioner (FDPIC). You have the right - if and insofar as the GDPR applies - to lodge a complaint with a competent European data protection supervisory authority.
 
-### 13\. Remote Communication Software
+### 14\. Remote Communication Software
 
 We may use specialised audio and video conferencing services to communicate online. For participation in audio and video conferences, the legal provisions of each individual services, such as data protection policies and conditions of use, also apply. Depending on the situation, we recommend deactivating the microphone by default when participating in audio or video conferences, as well as blurring the background or imposing a virtual background. We use in particular:  
 Microsoft Skype: among others; provider: Microsoft; specific information on Skype: 'Microsoft Privacy Statement’
 
-### 14\. Klarna payments
+### 15\. Klarna payments
 
 In order to offer you Klarna’s payment methods, we might in the checkout pass your personal data in the form of contact and order details to Klarna, in order for Klarna to assess whether you qualify for their payment methods and to tailor those payment methods for you. Your personal data transferred is processed in line with [Klarna’s own privacy notice](https://www.klarna.com/international/privacy-policy/).  
 Billpay’s/Klarna’s payment options: In order to be able to offer you Klarna’s payment options and to assess whether you qualify for their payment options and tailor the payment options for you, we might in the checkout pass your personal data in the form of contact and order details to Klarna and Billpay. Your personal data is handled in accordance with applicable data protection law and in accordance with the information in Klarna’s \[[de](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_ch/privacy_bp), [fr](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/fr_ch/privacy_bp), [it](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/it_ch/privacy_bp) or [en](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_ch/privacy_bp) versions\] and Billpay’s \[[de](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_ch/invoice), [fr](https://cdn.klarna.com/1.0/shared/content/legal/terms/EID/fr_ch/invoice), [it](https://cdn.klarna.com/1.0/shared/content/legal/terms/EID/it_ch/invoice) or [en](https://cdn.klarna.com/1.0/shared/content/legal/terms/EID/en_ch/invoice) versions\] privacy notices.
 
-### 15\. Legislative references and useful links
+### 16\. Legislative references and useful links
 
 The processing of your personal data is carried out by Punkt. in full compliance with the regulations on the matter pursuant to the Federal Data Protection Act and the Regulation (EU) 2016/679 General Data Protection Regulation.   
 The full version of the Punkt mobile devices End-user Licence Agreement (EULA) can be accessed [**here**](https://www.punkt.ch/en/eula/), please read this before Punkt. Mobile devices.  
@@ -192,7 +202,7 @@ The full Punkt mobile devices Data Protection Policy is available [**here**](htt
 The full Pigeon Data Protection Policy is available [**here.**](https://www.punkt.ch/en/privacy-policy-pigeon/)  
 The Cookie Policy is available **[here](https://www.punkt.ch/en/cookies/)**.
 
-### 16\. Final provisions
+### 17\. Final provisions
 
 We reserve the right to adapt and supplement this Data Protection Policy at any time. We will provide information on such adaptations and supplements in an appropriate form, by publishing the updated version of the Data Protection Policy on our website.
 
