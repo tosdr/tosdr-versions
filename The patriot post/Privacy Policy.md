@@ -4,7 +4,7 @@
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111702-mid-day-digest-2024-11-05?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111752-mid-day-digest-2024-11-06?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -108,7 +108,7 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111702-mid-day-digest-2024-11-05?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111752-mid-day-digest-2024-11-06?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -126,14 +126,14 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Mark Alexander Thank God!](https://patriotpost.us/alexander/111757-thank-god-2024-11-06)
+*      [Cal Thomas Democracy Lives in Brightness](https://patriotpost.us/opinion/111755-democracy-lives-in-brightness-2024-11-06)
 *      [The Washington Stand Florida’s Pro-Abortion Amendment 4 Ballot Initiative Fails](https://patriotpost.us/opinion/111733-floridas-pro-abortion-amendment-4-ballot-initiative-fails-2024-11-06)
 *      [John Stossel The Best of Life](https://patriotpost.us/opinion/111717-the-best-of-life-2024-11-06)
 *      [Byron York Amid Poll Flap, Celebrities Rush Contributions to Harris Campaign](https://patriotpost.us/opinion/111715-amid-poll-flap-celebrities-rush-contributions-to-harris-campaign-2024-11-06)
 *      [Betsy McCaughey TB — The Silent Killer Crossing Our Border](https://patriotpost.us/opinion/111711-tb-the-silent-killer-crossing-our-border-2024-11-06)
 *      [Tim Graham The Media Are Egotistical Exaggerators and Liars](https://patriotpost.us/opinion/111710-the-media-are-egotistical-exaggerators-and-liars-2024-11-06)
 *      [The Babylon Bee America Unburdens Itself From What Has Been](https://patriotpost.us/opinion/111716-america-unburdens-itself-from-what-has-been-2024-11-06)
-*      [Allen West November 6, 2024](https://patriotpost.us/opinion/111714-november-6-2024-2024-11-05)
-*      [Rich Lowry The Media on the Ballot](https://patriotpost.us/opinion/111713-the-media-on-the-ballot-2024-11-05)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
