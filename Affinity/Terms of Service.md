@@ -116,6 +116,7 @@ Help & Support
 * [Forum](https://forum.affinity.serif.com/)
 * [Store & Account Help](https://store.serif.com/en-us/help/)
 * [Returns & Refunds](https://store.serif.com/en-us/help/#returns)
+* [Reviews](https://affinity.serif.com/en-us/reviews/)
 
 Information
 
@@ -136,6 +137,8 @@ Follow us
     
 
 © 2024 Serif (Europe) Ltd, All rights reserved
+
+[![Feefo logo](https://api.feefo.com/api/logo?merchantidentifier=serif-europe-limited&template=Service-Stars-Grey)](https://www.feefo.com/reviews/serif-europe-limited)
 
 1. “Serif” and “Affinity” are both registered trademarks of Serif Europe Ltd.
 2. Apple, the Apple logo, MacBook Pro, iPad, and iMac are trademarks of Apple Inc., registered in the U.S. and other countries.
