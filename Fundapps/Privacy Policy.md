@@ -65,7 +65,7 @@ You have the right to make a complaint at any time to the relevant regulator for
 
 ### Changes to the privacy policy and your duty to inform us of changes
 
-We keep our privacy policy under regular review. This version was last updated in April 2024. It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
+We keep our privacy policy under regular review. This version was last updated in November 2024. It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
 ### Third-party links
 
@@ -190,7 +190,7 @@ Outside of the FundApps group we also use the following external third parties:�
 | Shortcut Software   <br>Company<br><br>  <br>Address: 201 Allen St, Unit #10004, New York, NY 10002 | Software that allows our engineers to monitor ticket status relating to issues raised by clients and to project manage effectively. | USA | DPA incorporating EU   <br>SCC’s and UK IDTA<br><br>* EU-US DPF certified<br>* UK Extension to EU-US DPF certified<br>* Swiss-US DPF   <br>    certified |
 | The Rocket Science   <br>Group LLC d/b/a Mailchimp  Intuit Inc  <br>Address: 2700 Coast   <br>Ave, Mountain View, CA 94043 | Email marketing and automation tool that assists with client engagement via   <br>email and general advertising | USA | DPA incorporating EU   <br>SCC’s and UK IDTA<br><br>* EU-US DPF certified<br>* Swiss-US DPF   <br>    certified |
 | Xero UK Limited<br><br>  <br>Address: 5th Floor,   <br>100 Avebury Boulevard, Milton Keynes, MK9 1FH | Accounting software for processing invoices and payments from clients and suppliers. | UK  | DPA incorporating EU   <br>SCC’s and UK IDTA |
-| Zendesk Inc<br><br>  <br>Address: 1019 Market Street San Francisco California 94103 | Client support ticketing system for responding to and dealing with client   <br>support emails and queries. | USA | DPA incorporating EU   <br>SCC’s and UK IDTA  <br><br>* EU-US DPF certified<br>* UK Extension to EU-US DPF certified<br>* Swiss-US DPF certified |
+| Intercom Inc   <br>   <br>Address:  55 2nd   <br>Street, Suite 400   <br>San   <br>Francisco, CA 94105 | Client support ticketing system for responding to and dealing with client   <br>support emails and queries. | USA | DPA incorporating EU   <br>SCC’s and UK IDTA  <br><br>* EU-US DPF certified<br>* UK Extension to EU-US DPF certified<br>* Swiss-US DPF certified |
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -416,7 +416,7 @@ We do not sell or share (for the purpose of cross-context behavioural advertisin
 
  [![LinkedIn icon](https://www.fundapps.co/hubfs/raw_assets/public/FundApps%20theme/images/icons/linkedin-icon.svg)](https://www.linkedin.com/company/fundapps)[![Facebook icon](https://www.fundapps.co/hubfs/raw_assets/public/FundApps%20theme/images/icons/facebook-icon.svg)](https://www.facebook.com/FundApps)[![Twitter icon](https://www.fundapps.co/hubfs/raw_assets/public/FundApps%20theme/images/icons/twitter-icon.svg)](https://twitter.com/FundApps)
 
-![Bcorp logo_partners](https://www.fundapps.co/hubfs/Logo%20Images/Accreditations/B-corp%20logo_partners.svg) ![AICA-logo-fundapps-Accreditation](https://www.fundapps.co/hs-fs/hubfs/Logo%20Images/Accreditations/AICA-logo.png?width=200&height=199&name=AICA-logo.png) ![ISO-logo](https://www.fundapps.co/hs-fs/hubfs/Logo%20Images/Accreditations/ISO-logo.png?width=200&height=199&name=ISO-logo.png)
+![Bcorp logo_partners](https://www.fundapps.co/hubfs/Logo%20Images/Accreditations/B-corp%20logo_partners.svg) ![SOC_CPA_Black](https://www.fundapps.co/hs-fs/hubfs/SOC_CPA_Black.png?width=359&height=357&name=SOC_CPA_Black.png) ![ISO-logo](https://www.fundapps.co/hs-fs/hubfs/Logo%20Images/Accreditations/ISO-logo.png?width=200&height=199&name=ISO-logo.png)
 
 © 2024 FundApps. All rights reserved.
 
