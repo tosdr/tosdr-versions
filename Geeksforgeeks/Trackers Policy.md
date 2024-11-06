@@ -374,7 +374,6 @@
         * [Bootstrap Cheat Sheet](https://www.geeksforgeeks.org/bootstrap-cheatsheet-a-basic-guide-to-bootstrap/?ref=outind)
     * [Learn Complete Web Development](https://www.geeksforgeeks.org/web-development/?ref=outind)
 * Courses
-    * [Coding for Everyone](https://www.geeksforgeeks.org/courses/coding-for-everyone?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
     * [DSA to Development](https://www.geeksforgeeks.org/courses/dsa-to-development-coding-guide?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
     * [Machine Learning & Data Science](https://www.geeksforgeeks.org/courses/data-science-live?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
     * [Generative AI & ChatGPT](https://www.geeksforgeeks.org/courses/mastering-generative-ai-and-chat-gpt?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
@@ -1156,5 +1155,3 @@ What kind of Experience do you want to share?
 ---------------------------------------------
 
 [Interview Experiences](https://write.geeksforgeeks.org/posts-new?cid=e8fc46fe-75e7-4a4b-be3c-0c862d655ed0)[Admission Experiences](https://write.geeksforgeeks.org/posts-new?cid=82536bdb-84e6-4661-87c3-e77c3ac04ede)[Career Journeys](https://write.geeksforgeeks.org/posts-new?cid=5219b0b2-7671-40a0-9bda-503e28a61c31)[Work Experiences](https://write.geeksforgeeks.org/posts-new?cid=22ae3354-15b6-4dd4-a5b4-5c7a105b8a8f)[Campus Experiences](https://write.geeksforgeeks.org/posts-new?cid=c5e1ac90-9490-440a-a5fa-6180c87ab8ae)[Competitive Exam Experiences](https://write.geeksforgeeks.org/posts-new?cid=5ebb8fe9-b980-4891-af07-f2d62a9735f2)
-
-[Can't choose a topic to write? click here for suggested topics](https://write.geeksforgeeks.org/pick-article?taxonomy=10261&page=1)[Write and publish your own Article](https://write.geeksforgeeks.org/posts-new)
