@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/11/EPAHeroOption-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/11/OUR101HERO-250x141.png)
     
-    Library science and EPA partnership thrives at 50](https://www.unc.edu/posts/2024/11/04/library-science-and-epa-partnership-thrives-at-50/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/11/GaryKayyeHero-250x141.jpg)
+    Undergraduates can do research](https://www.unc.edu/posts/2024/11/05/undergraduates-can-do-research/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/11/NEW_JacksHero-250x141.jpg)
     
-    The force of storytelling is strong in Gary Kayye](https://www.unc.edu/posts/2024/11/04/the-force-of-storytelling-is-strong-in-gary-kayye/)
+    Air Force veteran joins Student Affairs](https://www.unc.edu/posts/2024/11/05/air-force-veteran-joins-student-affairs/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=f2bf595933&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=ed45600cb9&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
