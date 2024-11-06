@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Where It EndsBailey Zimmerman<br><br>10:40am |
-| Lies, Lies, LiesMorgan Wallen<br><br>10:37am |
-| Heartache MedicationJon Pardi<br><br>10:34am |
-| Ain'T No Love In OklahomaLuke Combs<br><br>10:30am |
-| Heart Like A TruckLainey Wilson<br><br>10:27am |
+| Broken HalosChris Stapleton<br><br>4:39pm |
+| You Look Like You Love MeElla Langley Ft Riley Green<br><br>4:34pm |
+| Need A FavorJelly Roll<br><br>4:31pm |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:28pm |
+| Something Like ThatTim Mcgraw<br><br>4:25pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Sports • Midwest
+Top 40 • Eastern
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Spanish • Western
+Sports • Midwest
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Top 40 • Pacific NW
+News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
