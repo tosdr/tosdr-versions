@@ -2,8 +2,8 @@
 
 [](https://www.pinsentmasons.com/ "Pinsent Masons")
 
-1. [Legal Notices](https://www.pinsentmasons.com/en-gb/legal-notices) 
-2. Cookie Policy [Cookie Policy](https://www.pinsentmasons.com/en-gb/legal-notices/cookie-settings) 
+1. [Legal Notices](https://www.pinsentmasons.com/legal-notices) 
+2. Cookie Policy [Cookie Policy](https://www.pinsentmasons.com/legal-notices/cookie-settings) 
 
 [toggle menu](# "Menu")
 
@@ -304,7 +304,7 @@ Your cookies settings were saved
 
 \*Your selections will be automatically saved and you may navigate away from the Cookie Policy.
 
-If you have any queries concerning our use of your personal information, please email [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection). Please also visit our [Privacy Policy](https://www.pinsentmasons.com/en-gb/legal-notices/privacy-policy), which explains how we collect your personal information, what we do with it and your rights in respect of it.
+If you have any queries concerning our use of your personal information, please email [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection). Please also visit our [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy), which explains how we collect your personal information, what we do with it and your rights in respect of it.
 
 1\. What are cookies?
 ---------------------
@@ -316,7 +316,7 @@ You can find more information about cookies and similar technologies at [www.a
 2\. The types of cookies that we use
 ------------------------------------
 
-This section sets out information about the cookie technology that we use on our site for which we are responsible. Where 'personal data' is processed by these cookies, Pinsent Masons LLP is the 'data controller' of that information, within the meaning of applicable data protection legislation. For an explanation of the meaning of these and other data protection legislation terms, and for comprehensive information about our responsibilities when handling personal data - including transfers of personal data across the Pinsent Masons business worldwide - and your rights in respect of any personal information of yours that we process, please see our [Privacy Policy](https://www.pinsentmasons.com/en-gb/legal-notices/privacy-policy).
+This section sets out information about the cookie technology that we use on our site for which we are responsible. Where 'personal data' is processed by these cookies, Pinsent Masons LLP is the 'data controller' of that information, within the meaning of applicable data protection legislation. For an explanation of the meaning of these and other data protection legislation terms, and for comprehensive information about our responsibilities when handling personal data - including transfers of personal data across the Pinsent Masons business worldwide - and your rights in respect of any personal information of yours that we process, please see our [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy).
 
 Third party providers of the cookie technology that we use may process data collected by the cookies on our site, in an aggregated form, for their own purposes. If this is the case in respect of any of the third party cookie providers that we use, we have indicated as much in the tables set out in this section.
 
@@ -500,18 +500,18 @@ Other notices and information
 
 [](https://www.pinsentmasons.com/ "Pinsent Masons")
 
-* [Legal Notices](https://www.pinsentmasons.com/en-gb/legal-notices)
-* [Privacy Policy](https://www.pinsentmasons.com/en-gb/legal-notices/privacy-policy)
-* [Cookie Policy](https://www.pinsentmasons.com/en-gb/legal-notices/cookie-settings)
-* [Accessibility](https://www.pinsentmasons.com/en-gb/legal-notices/accessibility)
-* [Careers](https://www.pinsentmasons.com/en-gb/careers)
-* [Modern Slavery](https://www.pinsentmasons.com/en-gb/legal-notices/modern-slavery)
+* [Legal Notices](https://www.pinsentmasons.com/legal-notices)
+* [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy)
+* [Cookie Policy](https://www.pinsentmasons.com/legal-notices/cookie-settings)
+* [Accessibility](https://www.pinsentmasons.com/legal-notices/accessibility)
+* [Careers](https://www.pinsentmasons.com/careers)
+* [Modern Slavery](https://www.pinsentmasons.com/legal-notices/modern-slavery)
 
 ### We have over 27 offices across 4 continents
 
 ![carte du monde](/-/media/images/footer-map.png?h=308&w=597&rev=1a2a199976de4266b464b21b8b260f26&hash=08C7A71833F0A0B043FC2CC883536235)
 
-[Find your nearest office](https://www.pinsentmasons.com/en-gb/office-finder)
+[Find your nearest office](https://www.pinsentmasons.com/office-finder)
 
 2024 Copyright Pinsent Masons LLP
 
