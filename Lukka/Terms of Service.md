@@ -98,7 +98,7 @@ Menu
 
 [Contact Us](https://lukka.tech/contact-us/)
 
-[![](https://lukka.tech/wp-content/uploads/2021/06/Lukka-Blue.svg "Lukka-Blue")](https://lukka.tech/)
+[![Lukka-Blue](https://lukka.tech/wp-content/uploads/2021/06/Lukka-Blue.svg "Lukka-Blue")](https://lukka.tech/)
 
 * Who We Serve
     * [Funds and Fund Administrators](https://lukka.tech/who-we-serve/funds-and-fund-administrators/)
