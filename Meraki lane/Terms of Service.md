@@ -41,17 +41,17 @@ Main Menu
     
     [Fashion](https://www.merakilane.com/category/fashion/)
     
+    [![How to Style Face Framing Layers | 11 Tips & Tutorials | Ready to elevate your look with face framing layers? This trendy cut highlights your features and adds depth to your hair. Ideal for a laid-back yet fashionable vibe, these layers flatter every face shape and they are perfect for short hair, medium length hair, and long layered hair. Explore these tips and tutorials on the different ways to style them with ease. Plus, discover key considerations before choosing this cut!](https://www.merakilane.com/wp-content/uploads/2024/11/2.png)](https://www.merakilane.com/how-to-style-face-framing-layers-11-tips-tutorials/)
+    
+    ### [How to Style Face Framing Layers: 11 Tips & Tutorials](https://www.merakilane.com/how-to-style-face-framing-layers-11-tips-tutorials/)
+    
+    [![9 Ways to Prevent Age Spots & How to Hide Them | An anti-aging skincare routine is key in preventing wrinkles, fine lines, and age spots. Age spots, also called liver spots, are flat, rounded dark areas on the skin that are associated with aging and exposure to UV rays from the sun. They typically appear on the face, shoulders, and on the back of the hands. Want to know how to prevent them, get rid of them, and hide them? This post has all the tips, treatments, remedies, and makeup hacks!](https://www.merakilane.com/wp-content/uploads/2024/11/8-copy-6.png)](https://www.merakilane.com/9-ways-to-prevent-age-spots-how-to-hide-them/)
+    
+    ### [9 Ways to Prevent Age Spots & How to Hide Them](https://www.merakilane.com/9-ways-to-prevent-age-spots-how-to-hide-them/)
+    
     [![How to Apply Cream Contour | 10 Tips and Tutorials | If you want a more lifted, sculpted appearance, learning how to contour your face will really elevate your makeup routine (and look)! Applying contour and highlight instantly enhances your face, giving the appearance of a mini face lift. Cream contour sticks, palettes, and bronzers are extremely blendable and easy to use, even for beginners. Click to learn how to contour your cheeks, forehead, nose, and jawline with cream makeup products.](https://www.merakilane.com/wp-content/uploads/2024/11/7-copy-6.png)](https://www.merakilane.com/how-to-apply-cream-contour-10-tips-and-tutorials/)
     
     ### [How to Apply Cream Contour: 10 Tips and Tutorials](https://www.merakilane.com/how-to-apply-cream-contour-10-tips-and-tutorials/)
-    
-    [![25 Low Maintenance Hairstyles for Curly Hair | Curly hair isn’t always the easiest to style, but when you have the right hair haircut hair products, and styling techniques, the options are endless. Whether you have a pixie haircut, bob, lob, medium length, or long curly hair that's thin, fine, or thick, this post is a great how-to guide for curly hair! Click to learn what hair cut is best for your face shape plus simple and easy curly hair updos for all hair lengths with step-by-step tutorials!](https://www.merakilane.com/wp-content/uploads/2024/10/3-4.png)](https://www.merakilane.com/25-low-maintenance-hairstyles-for-curly-hair/)
-    
-    ### [25 Low Maintenance Hairstyles for Curly Hair](https://www.merakilane.com/25-low-maintenance-hairstyles-for-curly-hair/)
-    
-    [![Contour Placement 101 | 31 Things to Know | Face contouring can transform your entire look, lifting your cheekbones and sculpting your face, or in some cases, softening your most angular features. Cream contour sticks, contour wands, and creamy contour palettes work best, and we're sharing all the tips and hacks you need for round faces, oval faces, square faces, diamond faces, and heart-shaped faces in this post. Click to learn where to apply contour, highlight, and blush for your face shape!](https://www.merakilane.com/wp-content/uploads/2024/10/8-3.png)](https://www.merakilane.com/contour-placement-101-31-things-to-know/)
-    
-    ### [Contour Placement 101: 31 Things to Know](https://www.merakilane.com/contour-placement-101-31-things-to-know/)
     
 * [Wellness](https://www.merakilane.com/category/wellness/)
     
@@ -91,6 +91,10 @@ Main Menu
     
     [Everything Else](https://www.merakilane.com/category/mental-health/)
     
+    [![75 Growth Mindset Quotes to Inspire You | Unlock your potential with a growth mindset! Embracing the belief that abilities can be developed through learning and effort helps you face challenges and persevere through setbacks. Discover motivating growth mindset quotes that will inspire your journey of self-improvement. Let these uplifting words shift your thinking, reminding you that with positivity and persistence, you can achieve more than you ever imagined!](https://www.merakilane.com/wp-content/uploads/2024/11/7.png)](https://www.merakilane.com/75-growth-mindset-quotes-to-inspire-you/)
+    
+    ### [75 Growth Mindset Quotes to Inspire You](https://www.merakilane.com/75-growth-mindset-quotes-to-inspire-you/)
+    
     [![How to Make Yourself a Priority: 7 Self-Love Tips & Ideas | If your busy schedule has you feeling burnt out, exhausted, and emotionally spent, this post is for you. Prioritizing self-care and self-love activities isn't selfish –– it helps you recharge so you can show up well for others. From setting boundaries to scheduling self-care activities, these tips will help you feel more balanced and fulfilled. From taking an everything shower, to journaling, to doing something artsy, click for inspo!](https://www.merakilane.com/wp-content/uploads/2024/09/1-4.png)](https://www.merakilane.com/how-to-make-yourself-a-priority-7-self-love-tips-ideas/)
     
     ### [How to Make Yourself a Priority: 7 Self-Love Tips & Ideas](https://www.merakilane.com/how-to-make-yourself-a-priority-7-self-love-tips-ideas/)
@@ -98,10 +102,6 @@ Main Menu
     [![7 Ways to Cope as a Highly Sensitive Person | If you experience physical, emotional, and social stimuli on a deeper level and are often described as being "too sensitive", you may be a HSP. This term was coined by Elaine Aron and Arthur Aron to describe people with sensory processing sensitivity (SPS) -- people who are emphatic and tend to feel emotions and sensations more intensely than others. Click to learn common traits of highly sensitive people, plus coping strategies and self-care tips.](https://www.merakilane.com/wp-content/uploads/2024/09/6-1.png)](https://www.merakilane.com/7-ways-to-cope-as-a-highly-sensitive-person/)
     
     ### [7 Ways to Cope as a Highly Sensitive Person](https://www.merakilane.com/7-ways-to-cope-as-a-highly-sensitive-person/)
-    
-    [![How to Set Intentions for a Positive Life | Intention setting is the process of creating a clear intention for a specific desired goal. It helps you align your goals and vision for your life with your day-to-day routine. Think of intentions as an aim, purpose, or resolution -- something you plan to do or achieve in a given timeframe. By putting intentions behind your goals, you are more likely to follow through. Click for examples of intentions plus tips to stay accountable and be successful.](https://www.merakilane.com/wp-content/uploads/2024/09/2-2.png)](https://www.merakilane.com/intention-setting-101-how-to-set-intentions-for-a-positive-life/)
-    
-    ### [Intention Setting 101: How to Set Intentions for a Positive Life](https://www.merakilane.com/intention-setting-101-how-to-set-intentions-for-a-positive-life/)
     
 * [Family](https://www.merakilane.com/category/family/)
     
