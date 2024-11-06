@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2043'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2046'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/task-scheduler-80x43.png)](https://thebackroomtech.com/2009/04/22/fix-0x80070005-access-is-denied-when-running-scheduled-task-as-a-non-administrator/ "Fix: 0×80070005: Access is denied when running scheduled task as a non-administrator")[Fix: 0×80070005: Access is denied when running scheduled task as a non-administrator](https://thebackroomtech.com/2009/04/22/fix-0x80070005-access-is-denied-when-running-scheduled-task-as-a-non-administrator/ "Fix: 0×80070005: Access is denied when running scheduled task as a non-administrator")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2040'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/vmware-workstation-80x46.png)](https://thebackroomtech.com/2009/04/02/fix-for-vmware-error-could-not-open-virtual-machine-this-virtual-machine-appears-to-be-in-use/ "Fix for VMWare error: Could not open virtual machine, this virtual machine appears to be in use")[Fix for VMWare error: Could not open virtual machine, this virtual machine appears to be in use](https://thebackroomtech.com/2009/04/02/fix-for-vmware-error-could-not-open-virtual-machine-this-virtual-machine-appears-to-be-in-use/ "Fix for VMWare error: Could not open virtual machine, this virtual machine appears to be in use")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2037'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/remove-framepkg-exe-80x40.png)](https://thebackroomtech.com/2009/02/17/reinstalling-the-mcafee-common-management-agent-framework-framepkgexe-without-a-reboot/ "Reinstalling the McAfee Common Management Agent Framework (framepkg.exe) without a reboot")[Reinstalling the McAfee Common Management Agent Framework (framepkg.exe) without a reboot](https://thebackroomtech.com/2009/02/17/reinstalling-the-mcafee-common-management-agent-framework-framepkgexe-without-a-reboot/ "Reinstalling the McAfee Common Management Agent Framework (framepkg.exe) without a reboot")
+    ![](https://s11921.pcdn.co/wp-content/uploads/windows-linux-1-80x37.png)](https://thebackroomtech.com/2019/03/13/how-to-run-linux-on-windows-10/ "How to Run Linux on Windows 10")[How to Run Linux on Windows 10](https://thebackroomtech.com/2019/03/13/how-to-run-linux-on-windows-10/ "How to Run Linux on Windows 10")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2027'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/nginx-80x27.png)](https://thebackroomtech.com/2019/01/28/configure-nginx-reverse-proxy-step-by-step/ "Configure NGINX Reverse Proxy – Step by Step")[Configure NGINX Reverse Proxy – Step by Step](https://thebackroomtech.com/2019/01/28/configure-nginx-reverse-proxy-step-by-step/ "Configure NGINX Reverse Proxy – Step by Step")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2042'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/verify-freeradius-installation-80x27.png)](https://thebackroomtech.com/2018/08/16/how-to-install-freeradius-on-ubuntu/ "How to Install FreeRADIUS on Ubuntu")[How to Install FreeRADIUS on Ubuntu](https://thebackroomtech.com/2018/08/16/how-to-install-freeradius-on-ubuntu/ "How to Install FreeRADIUS on Ubuntu")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2048'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/usb-device-80x42.jpg.optimal.jpg)](https://thebackroomtech.com/2019/03/19/attach-a-usb-device-to-a-virtual-machine-in-vmware/ "Attach a USB Device to a Virtual Machine in VMware")[Attach a USB Device to a Virtual Machine in VMware](https://thebackroomtech.com/2019/03/19/attach-a-usb-device-to-a-virtual-machine-in-vmware/ "Attach a USB Device to a Virtual Machine in VMware")
+    ![](https://s11921.pcdn.co/wp-content/uploads/driver-signing-80x48.png)](https://thebackroomtech.com/2007/11/05/howto-disabling-driver-signing-in-windows-vista-64-bit/ "Howto: Disabling Driver Signing in Windows Vista 64 bit")[Howto: Disabling Driver Signing in Windows Vista 64 bit](https://thebackroomtech.com/2007/11/05/howto-disabling-driver-signing-in-windows-vista-64-bit/ "Howto: Disabling Driver Signing in Windows Vista 64 bit")
 
 #### Our Publishing Family
 
