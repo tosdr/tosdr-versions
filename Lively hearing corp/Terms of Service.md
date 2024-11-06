@@ -40,7 +40,7 @@ With our advanced hearing aids and recommended expert care, you'll be hearing be
 
 [Start your 100-day trial](https://www.listenlively.com/survey)[Shop for hearing aids ›](https://www.listenlively.com/product)
 
-![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop-test1.292815d0.jpg)
+![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop-test2.dd0b3ca5.jpg)
 
 [Our clearest  
 sound, our most discreet design](https://www.listenlively.com/product)[Our clearest  
@@ -125,9 +125,6 @@ Your new hearing aids work right out of the box, whether you choose custom-progr
 ### Enjoy 3 years of convenient follow-up care
 
 With our **Premium Package**, our Audiology Team works with you remotely to improve your hearing.
-
-**Need more information?**  
-Visit our [How it Works page](https://www.listenlively.com/how-it-works) to watch an explainer video, or to read the answers to the video's key questions.
 
 [Get started](https://www.listenlively.com/survey)
 
@@ -275,7 +272,7 @@ Shop
 
 Why Jabra Enhance
 
-[Expert care & support](https://www.listenlively.com/hearing-care) [How it works](https://www.listenlively.com/how-it-works) [Customer reviews](https://www.listenlively.com/reviews)
+[Expert care & support](https://www.listenlively.com/hearing-care) [How it works](https://www.listenlively.com/#how_it_works) [Customer reviews](https://www.listenlively.com/reviews)
 
 Hearing resources
 
