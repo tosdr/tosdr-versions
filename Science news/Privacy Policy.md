@@ -87,7 +87,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Anthropology](https://www.sciencenews.org/topic/anthropology)
+    * * [Archaeology](https://www.sciencenews.org/topic/archaeology)
+            
+            ### [A huge, ancient Maya city has been found in southern Mexico](https://www.sciencenews.org/article/ancient-maya-city-found-southern-mexico)
+            
+            By [Meghie Rodrigues](https://www.sciencenews.org/author/meghie-rodrigues "Posts by Meghie Rodrigues")1 hour ago
+            
+        * [Anthropology](https://www.sciencenews.org/topic/anthropology)
             
             ### [The ‘midlife crisis’ is too simple a story, scientists say](https://www.sciencenews.org/article/midlife-crisis-mental-health-happiness)
             
@@ -98,12 +104,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [A phone app could help people have lucid dreams](https://www.sciencenews.org/article/phone-app-help-lucid-dreams)
             
             By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")November 4, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Why finding bird flu in a U.S. pig for the first time is raising new worries](https://www.sciencenews.org/article/influenza-pig-bird-flu-us)
-            
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")November 1, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Putting vampire bats on treadmills reveals an unusual metabolism](https://www.sciencenews.org/article/vampire-bats-treadmills-metabolism)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")15 hours ago
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")16 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Exploiting a genetic quirk in potatoes may cut fertilizer needs](https://www.sciencenews.org/article/potatoes-genetic-quirk-less-fertilizer)
             
-            By [Javier Barbuzano](https://www.sciencenews.org/author/javier-barbuzano "Posts by Javier Barbuzano")7 hours ago
+            By [Javier Barbuzano](https://www.sciencenews.org/author/javier-barbuzano "Posts by Javier Barbuzano")8 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Feather-inspired airplane flaps could boost flight performance](https://www.sciencenews.org/article/feather-inspired-airplane-flaps)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")23 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")24 hours ago
             
         * [Space](https://www.sciencenews.org/topic/space)
             
