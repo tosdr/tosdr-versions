@@ -9,6 +9,7 @@ Search for:  Search
 * [Shows & Podcasts](https://therealnews.com/our-shows-podcasts)
 * [About](https://therealnews.com/about)
 
+* [Elections 2024](https://therealnews.com/tag/elections-2024)
 * [Israel’s War on Palestine](https://therealnews.com/tag/palestine)
 * [Under the Shadow](https://therealnews.com/under-the-shadow)
 * [Killer Water](https://therealnews.com/killer-water-the-toxic-legacy-of-canadas-oil-sands-industry-for-indigenous-communities)
@@ -73,6 +74,7 @@ Trending Posts
 --------------
 
 * [Who are the real Trump supporters? The answers might surprise you](https://therealnews.com/who-are-the-real-trump-supporters)
+* ['Join a union': Boeing workers ratify contract with over 43% wage hike](https://therealnews.com/boeing-workers-ratify-contract-with-over-43-wage-hike)
 * [North Carolina failed to evacuate prisoners during Hurricane Helene](https://therealnews.com/north-carolina-failed-to-evacuate-prisoners-during-hurricane-helene)
 * [UN votes 187-2 to lift US blockade of Cuba—and Washington ignores it](https://therealnews.com/un-votes-187-2-to-lift-us-blockade-of-cuba-and-washington-ignores-it)
 * [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
@@ -81,7 +83,6 @@ Trending Posts
 * [How will railroad workers vote after Biden and Congress blocked their strike?](https://therealnews.com/how-will-railroad-workers-vote-after-biden-and-congress-blocked-their-strike)
 * [Billionaires spew more CO2 pollution in 90 minutes than average person in a lifetime](https://therealnews.com/billionaires-spew-more-co2-pollution-in-90-minutes-than-average-person-in-a-lifetime)
 * [Trump could win this election. Here's what MAGA has in store.](https://therealnews.com/trump-could-win-this-election-heres-what-maga-has-in-store)
-* ['I'm not interested in changing hearts and minds': The work of an anti-Zionist rabbi](https://therealnews.com/the-work-of-an-anti-zionist-rabbi)
 
 Close
 
@@ -137,6 +138,7 @@ Trending Posts
 --------------
 
 * [Who are the real Trump supporters? The answers might surprise you](https://therealnews.com/who-are-the-real-trump-supporters)
+* ['Join a union': Boeing workers ratify contract with over 43% wage hike](https://therealnews.com/boeing-workers-ratify-contract-with-over-43-wage-hike)
 * [North Carolina failed to evacuate prisoners during Hurricane Helene](https://therealnews.com/north-carolina-failed-to-evacuate-prisoners-during-hurricane-helene)
 * [UN votes 187-2 to lift US blockade of Cuba—and Washington ignores it](https://therealnews.com/un-votes-187-2-to-lift-us-blockade-of-cuba-and-washington-ignores-it)
 * [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
@@ -145,10 +147,10 @@ Trending Posts
 * [How will railroad workers vote after Biden and Congress blocked their strike?](https://therealnews.com/how-will-railroad-workers-vote-after-biden-and-congress-blocked-their-strike)
 * [Billionaires spew more CO2 pollution in 90 minutes than average person in a lifetime](https://therealnews.com/billionaires-spew-more-co2-pollution-in-90-minutes-than-average-person-in-a-lifetime)
 * [Trump could win this election. Here's what MAGA has in store.](https://therealnews.com/trump-could-win-this-election-heres-what-maga-has-in-store)
-* ['I'm not interested in changing hearts and minds': The work of an anti-Zionist rabbi](https://therealnews.com/the-work-of-an-anti-zionist-rabbi)
 
 [Skip to content](#main)
 
+* [Elections 2024](https://therealnews.com/tag/elections-2024)
 * [Israel’s War on Palestine](https://therealnews.com/tag/palestine)
 * [Under the Shadow](https://therealnews.com/under-the-shadow)
 * [Killer Water](https://therealnews.com/killer-water-the-toxic-legacy-of-canadas-oil-sands-industry-for-indigenous-communities)
@@ -179,6 +181,7 @@ Search for:  Search
 [Donate](https://support.therealnews.com/-/XNTZXPCB) Menu
 
 * Blank (needed for hamburger alignment)
+* [Elections 2024](https://therealnews.com/tag/elections-2024)
 * [Israel’s War on Palestine](https://therealnews.com/tag/palestine)
 * [Under the Shadow](https://therealnews.com/under-the-shadow)
 * [Killer Water](https://therealnews.com/killer-water-the-toxic-legacy-of-canadas-oil-sands-industry-for-indigenous-communities)
