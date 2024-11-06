@@ -196,8 +196,6 @@ For your convenience, Fidelity Charitable offers several options for accessing a
 
 Last Reviewed October 2022
 
-* * *
-
    [![Fidelity Charitable logo](/content/dam/fc-public/site-design-assets/fc-logos/fidelity-charitable-logo.png/_jcr_content/renditions/viewport-max-p.png)](https://www.fidelitycharitable.org/)
 
 Fidelity Charitable is a 501(c)(3) public charity. We help donors maximize their generosity through our donor-advised fund, called the Giving Account. Established in 1991, we are the nation’s top grantmaker, distributing $11.8 billion to charities in 2023.
