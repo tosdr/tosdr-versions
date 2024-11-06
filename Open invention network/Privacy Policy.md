@@ -210,45 +210,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> We remain focused on leveraging the best technologies for our platforms and are excited to join the Open Invention Network (OIN), that supports protection from patent infringement claims for the greater good of the wider innovation community.  
+> As a global leader in open source, SUSE enables innovation from the largest data centers in the world to cloud environments, and our technology is embedded in every day devices like cars, points of sale and MRIs. Open source infrastructure is the power behind the cloud and digital transformation, and our customers rely on us for mission critical business outcomes and for innovation. As a leader in bringing open source solutions to enterprises, including enterprise Linux, we see firsthand why … [Read more](https://www.openinventionnetwork.com/testimonial/thomas-di-giacomo-suse/ "Complete testimonial by Thomas Di Giacomo")
 
-Josh DeathIP & Patentable Innovations LeadTD Bank
-
-> At Rakuten, our businesses continue to evolve as we address new market opportunities. Because of this, we are a user and strong advocate of open source software. We are building the first 100% fully virtualized mobile network, enabling us to scale rapidly and offer the best Quality-of-Service (QoS) available. By joining OIN, we are demonstrating our commitment to Open Source Software (OSS) and supporting it with a pledge of patent non-aggression.  
-
-Tareq AminCAO, Group Executive Vice PresidentRakuten, Inc.
+Thomas Di GiacomoPresident of Engineering & InnovationSUSE
 
 > Embecosm has joined OIN, an industry consortium with an ever-growing patent pool that facilitates cross-licensing, for mutual defense against those who would use patents against the Linux ecosystem. All members are protected, even companies like Embecosm which bring no patents to the table. I don’t like the world we are in, but at least Embecosm is now in a stronger position to protect free software.  
 
 Jeremy BennettFounder and Chief ExecutiveEmbecosm
 
-> More than 70% of D-Link’s networking and communication solutions have implemented open source software since the beginning phase of research and development. We have and will continue to advocate for OSS and patent non-aggression, and we look forward to making our contributions to the OIN community to encourage innovation.  
+> Today, with open source software, we are quickly creating robust and long-lasting solutions for our customers. In addition to the technical implementation, we also take care that our customers do not worry about potential license violations.  
 
-Mark ChenPresidentD-Link
+Andreas PfeifferHead of Customer Advice and MarketingGinzinger
 
-> The OIN membership supports Kontron on many levels. With our focus on building out our IoT framework, it makes perfect sense to be a part of an open source community that protects the rights of all members within the community, especially to reduce our patent risk around Linux related technology.  
+> _RBC recognizes open source as a significant enabler of innovation and it was important for us to join the Open Invention Network and support its role in protecting Linux system open source software from patent litigation risk._
 
-Jens WiegandCTO / EVP Software & ElectronicsKontron
+Lucille D’SouzaVP & Associate General Counsel, RBC Strategy & Operations
 
-> OIN is an organization which helps protect the Linux ecosystem by building a variety of defenses against patent attacks. By joining, Mozilla receives cross-licenses from other OIN licensees, but more importantly, for the long term, it affords us a chance to work with OIN in reducing IP threats to open source development and innovation.  
+> Since WSO2 was founded, we have been committed to delivering a completely open source platform that takes advantage of the Linux ecosystem. As an OIN member, we look forward not only to taking advantage of the cross-licensing opportunities, but also working with OIN to expand the scope of technologies in the patent pool.  
 
-Harvey AndersonVP & General CounselMozilla
+Jonathan MarshVP, StrategyWSO2
 
-> Over its history, the automotive industry has undergone periods of significant innovation. We are now undergoing a fundamental shift in the way automotive platforms are used by consumers and businesses. Automotive Grade Linux and other OSS projects are helping the industry rapidly transform. By protecting them from patent risk, OIN has enabled automotive manufacturers to effectively integrate new kinds of software-based technologies into cars.  
+> Open source technology enables new levels of innovation and helps to underpin our ongoing growth, as we fuse physical and digital technologies in cyber-physical systems. By joining OIN, we are demonstrating our commitment to contribute to open source technology and supporting it with patent non-aggression in Linux.  
 
-Yosuke IidaGeneral Manager - Intellectual Property DivisionToyota
+Dr. Shiro SaitoExecutive Officer, Corporate EVP, General Executive for TechnologyToshiba
 
-> Open Source technologies, especially Embedded Linux, have enabled the rapid development of intelligent products that can be found throughout the infrastructure of homes. LIXIL’s participation in the OIN community shows our consistent commitment to open source innovation.  
+> At Rakuten, our businesses continue to evolve as we address new market opportunities. Because of this, we are a user and strong advocate of open source software. We are building the first 100% fully virtualized mobile network, enabling us to scale rapidly and offer the best Quality-of-Service (QoS) available. By joining OIN, we are demonstrating our commitment to Open Source Software (OSS) and supporting it with a pledge of patent non-aggression.  
 
-Yugo KanazawaChief Digital OfficerLIXIL
+Tareq AminCAO, Group Executive Vice PresidentRakuten, Inc.
 
-> Open source platforms enable the rapid deployment of advanced computing, storage and communications solutions. We recognize the value in shared innovation, a fundamental characteristic of open source communities. OIN membership is strategically important for YADRO in terms of patents management, R&D, marketing, and overall company reputation. Our participation in the OIN community demonstrates our commitment to support collaborative technology development and the ongoing success of the open sour… [Read more](https://openinventionnetwork.com/testimonial/yadro/ "Complete testimonial by Anna Egorova")
+> We recognize the value in shared innovation, a fundamental characteristic of open source communities. In addition to joining OIN, Square is one of the founders of the Crypto Open Patent Alliance (COPA), a collaborative consortium in which members pledge not to use their crypto technology patents, except for defensive purposes. Our participation in the OIN community demonstrates our commitment to support collaborative technology development.
 
-Anna EgorovaChief Delivery Officer, YADRO
+Max SillsCounsel at Square and General Manager of COPA
 
-> Companies building products using open source technologies must help protect open source communities from threats posed by abusers of low quality patents.We applaud the innovative approach taken by the OS Zone and call on other companies to support solutions that protect open source innovation from targeted threats.
+> Linux and open source are driving innovation in cloud and mobile computing, and emerging technologies such as the Internet of Things. These are developments that are very close to our hearts at Sage. We applaud the Open Invention Network’s efforts to promote openness and innovation for the benefit of the technical community and our wider society and would encourage our partners to support their work.  
 
-MicrosoftJustin Colannino, Associate General Counsel for Open Source at Microsoft
+Klaus-Michael VogelbergChief Technology OfficerSage
+
+> With the Industrial Internet of Things (IIOT) reshaping what is possible in industrial settings — improving productivity, enhancing operational efficiency and increasing customer choice — we view Linux and other open source projects as key enablers in the IIOT. The success of the IIOT is predicated on the ability to connect and manage widely distributed sensors and devices across numerous vertical industries and compute the data effectively on an industrial scale.  
+
+Peter KohlschmidtCTOMoxa
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
@@ -262,7 +262,7 @@ Your Name\*
 
 Email\*
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
