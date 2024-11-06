@@ -43,6 +43,7 @@ Runtimes
 * [PHP](https://docs.render.com/deploy-php-laravel-docker)
 
 * [Pricing](https://render.com/pricing)
+* [Customers](https://render.com/customers)
 * [Blog](https://render.com/blog)
 * [Docs](https://docs.render.com/)
 * [Changelog](https://render.com/changelog)
