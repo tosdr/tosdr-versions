@@ -30,7 +30,7 @@
     
 * [About the Fed](https://www.atlantafed.org/about)
     
-    [The Atlanta Fed](https://www.atlantafed.org/about/atlantafed) [Careers](https://www.atlantafed.org/about/careers) [FAQ](https://www.atlantafed.org/about/faq) [The Fed Explained](https://www.atlantafed.org/education/teach/infographic-posters/the-fed-explained) [Federal Reserve System](https://www.atlantafed.org/about/federal-reserve-system) [Holidays](https://www.atlantafed.org/about/holidays) [Diversity, Equity, & Inclusion](https://www.atlantafed.org/cqer/research/wu-xia-shadow-federal-funds-rate) [Transparency](https://www.atlantafed.org/cqer/research/gdpbased_RII) [Publications](https://www.atlantafed.org/about/publications) [Visit](https://www.atlantafed.org/about/visit)
+    [The Atlanta Fed](https://www.atlantafed.org/about/atlantafed) [Careers](https://www.atlantafed.org/about/careers) [FAQ](https://www.atlantafed.org/about/faq) [The Fed Explained](https://www.atlantafed.org/education/teach/infographic-posters/the-fed-explained) [Federal Reserve System](https://www.atlantafed.org/about/federal-reserve-system) [Holidays](https://www.atlantafed.org/about/holidays) [Diversity, Equity, & Inclusion](https://www.atlantafed.org/about/atlantafed/diversity-and-inclusion) [Transparency](https://www.atlantafed.org/about/atlantafed/transparency) [Publications](https://www.atlantafed.org/about/publications) [Visit](https://www.atlantafed.org/about/visit)
     
 
         
