@@ -79,10 +79,10 @@ Trending Posts
 * [Back in the crosshairs of GOP hate, many migrants plan to vote defensively](https://therealnews.com/migrants-plan-to-vote-defensively-in-election)
 * [How will railroad workers vote after Biden and Congress blocked their strike?](https://therealnews.com/how-will-railroad-workers-vote-after-biden-and-congress-blocked-their-strike)
 * [Trump could win this election. Here's what MAGA has in store.](https://therealnews.com/trump-could-win-this-election-heres-what-maga-has-in-store)
+* [Democrats chose backing a genocide over defeating Trump](https://therealnews.com/democrats-chose-backing-a-genocide-over-defeating-trump)
 * [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
-* [Kaiser workers’ strike enters second week in Southern California](https://therealnews.com/kaiser-workers-strike-enters-second-week-in-southern-california)
-* [North Carolina failed to evacuate prisoners during Hurricane Helene](https://therealnews.com/north-carolina-failed-to-evacuate-prisoners-during-hurricane-helene)
 * [Trump, Project 2025, and the plan to bring autocracy to the US](https://therealnews.com/trump-project-2025-and-the-plan-to-bring-autocracy-to-the-us)
+* [Kaiser workers’ strike enters second week in Southern California](https://therealnews.com/kaiser-workers-strike-enters-second-week-in-southern-california)
 
 Close
 
@@ -143,10 +143,10 @@ Trending Posts
 * [Back in the crosshairs of GOP hate, many migrants plan to vote defensively](https://therealnews.com/migrants-plan-to-vote-defensively-in-election)
 * [How will railroad workers vote after Biden and Congress blocked their strike?](https://therealnews.com/how-will-railroad-workers-vote-after-biden-and-congress-blocked-their-strike)
 * [Trump could win this election. Here's what MAGA has in store.](https://therealnews.com/trump-could-win-this-election-heres-what-maga-has-in-store)
+* [Democrats chose backing a genocide over defeating Trump](https://therealnews.com/democrats-chose-backing-a-genocide-over-defeating-trump)
 * [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
-* [Kaiser workers’ strike enters second week in Southern California](https://therealnews.com/kaiser-workers-strike-enters-second-week-in-southern-california)
-* [North Carolina failed to evacuate prisoners during Hurricane Helene](https://therealnews.com/north-carolina-failed-to-evacuate-prisoners-during-hurricane-helene)
 * [Trump, Project 2025, and the plan to bring autocracy to the US](https://therealnews.com/trump-project-2025-and-the-plan-to-bring-autocracy-to-the-us)
+* [Kaiser workers’ strike enters second week in Southern California](https://therealnews.com/kaiser-workers-strike-enters-second-week-in-southern-california)
 
 [Skip to content](#main)
 
