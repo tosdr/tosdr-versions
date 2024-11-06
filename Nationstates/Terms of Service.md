@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Operation: Sand Goijra \[OOC/SIGNUP\] (2)](https://forum.nationstates.net/viewtopic.php?t=557970&f=5&view=unread#unread ""Operation: Sand Goijra [OOC/SIGNUP]" (2 posts)")
-* [What song is stuck in your head at th… (6,880)](https://forum.nationstates.net/viewtopic.php?t=189768&f=19&view=unread#unread ""What song is stuck in your head at the moment?" (6,880 posts)")
-* [What music are you listening to? v19 (188)](https://forum.nationstates.net/viewtopic.php?t=557533&f=25&view=unread#unread ""What music are you listening to? v19" (188 posts)")
-* [F7 Makes A Weird Meal - Ehrmantraut s… (123)](https://forum.nationstates.net/viewtopic.php?t=557898&f=25&view=unread#unread ""F7 Makes A Weird Meal - Ehrmantraut series" (123 posts)")
-* [Your nation's punishment for the abov… (3,201)](https://forum.nationstates.net/viewtopic.php?t=545645&f=25&view=unread#unread ""Your nation's punishment for the above crime V" (3,201 posts)")
+* [Guess AU's favorite irl country (625)](https://forum.nationstates.net/viewtopic.php?t=554724&f=25&view=unread#unread ""Guess AU's favorite irl country" (625 posts)")
+* [American Politics: Judgement Day, Thr… (8,920)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Judgement Day, Thread the First" (8,920 posts)")
+* [Grant AN's wish then curse it (946)](https://forum.nationstates.net/viewtopic.php?t=555678&f=25&view=unread#unread ""Grant AN's wish then curse it" (946 posts)")
+* [2 Lies & a Truth (10)](https://forum.nationstates.net/viewtopic.php?t=557808&f=25&view=unread#unread ""2 Lies & a Truth" (10 posts)")
+* [Favorite line from AN's Factbooks II (11,857)](https://forum.nationstates.net/viewtopic.php?t=510652&f=25&view=unread#unread ""Favorite line from AN's Factbooks II" (11,857 posts)")
 
 Advertisement
 
