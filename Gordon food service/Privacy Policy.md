@@ -208,7 +208,23 @@ For “Gordon NOW” ETA SMS Services: 
 * If you wish to opt-out or unsubscribe from the SMS Service, reply with “STOP”to any mobile message sent from us or use the unsubscribe link we provided you within any of our messages. You understand and agree that alternative methods of opting out, such as using alternative words or requests, will not be an effective means of opting out. 
 * For any questions, please text HELP to 35171 or the number you received the messages from. 
 
+For Job Applicants/Candidates using our “Olivia” Chatbot Assistant:
+
+If you wish to sign up to receive text messages as part of the job application/recruitment process, you may opt-in to by engaging with our Olivia chatbot assistant, powered by Paradox.ai, or by following the text to apply instructions.
+
+* If you wish to opt-out or unsubscribe, text “STOP” to any message that you receive or text “PREF” to update your communication preferences.
+* If you wish to opt-out or unsubscribe from the SMS Service, reply with “STOP” to any mobile message sent from us or use the unsubscribe link we provided you within any of our messages. You understand and agree that alternative methods of opting out, such as using alternative words or requests, will not be an effective means of opting out. 
+* For any questions, please text HELP to 62387 or the number you received the messages from or email smshelp@paradox.ai.
+
 We do not charge for the SMS Service, but you are responsible for all charges and fees associated with text messaging imposed by your wireless provider. The SMS Service may not be available on certain wireless providers. Message frequency varies. Message and data rates may apply. You can also contact us at privacy@gfs.com for more information.
+
+##### Usage of Artificial Intelligence in Employment
+
+GFS may leverage Conversational AI platforms to enable natural language conversations with candidates for purposes of assisting in the employment application process. These platforms assist with identifying opportunities at GFS that may be a good fit for you based on your responses, including the personal information you provide to GFS in your employment application, to the Conversational AI. These platforms also assist us with scheduling interviews, uploading resumes, and related activities. For example, if you tell us that you live in a certain location, the Conversational AI may recommend employment opportunities near you.  However, GFS does not rely on these Conversational AI platforms to substantially assist in making employment decisions. As always if you prefer to speak directly with human resources at GFS about your application, please contact us at: talent@gfs.com.
+
+As a matter of good practice, these platform providers regularly test platform functionality to ensure that their functionality do not have unknown biases that affect fairness of selection processes.  Further, GFS routinely and regularly conducts internal reviews of these platforms and their outcomes to ensure that there are no unknown biases. 
+
+Employment decisions are made by GFS’s leaders, not technology platforms.
 
 ##### Blogs and Other Social Networking Mediums
 
