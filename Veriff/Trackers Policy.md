@@ -1,6 +1,6 @@
-[Biometric Intelligence Report Is Now Live](https://www.veriff.com/resources/ebooks/biometric-intelligence-report)[Get report now](https://www.veriff.com/resources/ebooks/biometric-intelligence-report)
+[Biometric Intelligence Report Is Now Live](https://www.veriff.com/resources/ebooks/biometric-intelligence-report)
 
-[![Veriff](https://veriff.cdn.prismic.io/veriff/1565ec7d-5815-4d28-ac00-5094d1714d4c_Logo.svg)](https://www.veriff.com/)
+[![Veriff](https://veriff.cdn.prismic.io/veriff/1565ec7d-5815-4d28-ac00-5094d1714d4c_Logo.svg?auto=compress,format)](https://www.veriff.com/)
 
 * Veriff’s Cookie Notice
 * [1\. General](#anchor-h2-1)
@@ -118,7 +118,7 @@ _Here you can find information about changes made to the Cookie Notice._
 * _Valid from: June 3, 2020_
 * _Last update: October 16, 2024_
 
-![Veriff logo](https://veriff.cdn.prismic.io/veriff/df61698d-814b-4926-93be-08c7fce84c72_logo.svg)
+![Veriff logo](https://veriff.cdn.prismic.io/veriff/df61698d-814b-4926-93be-08c7fce84c72_logo.svg?auto=compress,format)
 
 ###### Products
 
