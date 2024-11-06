@@ -40,25 +40,27 @@ Search for:
 
 [Where’s Joe? Where the hell is our CURRENT president? Just let Trump start early!](https://americanwirenews.com/wheres-joe-where-the-hell-is-our-current-president-just-let-trump-start-early/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2182527048-1200x630.jpg)](https://americanwirenews.com/zelenskyy-netanyahu-other-leaders-rush-to-congratulate-trump-on-impressive-election-victory/)
+
+(Getty Images)
+
+[Zelenskyy, Netanyahu other leaders rush to congratulate Trump on ‘impressive election victory’](https://americanwirenews.com/zelenskyy-netanyahu-other-leaders-rush-to-congratulate-trump-on-impressive-election-victory/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-election-call-fox-news-1200x630.jpg)](https://americanwirenews.com/the-greatest-comeback-in-history-the-moment-the-big-networks-announced/)
 
 [The greatest comeback in history! The moment the big networks announced](https://americanwirenews.com/the-greatest-comeback-in-history-the-moment-the-big-networks-announced/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kilmeade-buttigieg-1200x630.jpg)](https://americanwirenews.com/excuse-me-kilmeade-holds-buttigiegs-feet-to-the-fire-for-spewing-fallacies-in-tense-interview/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-white-trump-1200x630.jpg)](https://americanwirenews.com/fans-want-a-role-for-dana-white-in-trumps-white-house-after-election-night-speech/)
 
-[‘Excuse me?’ Kilmeade holds Buttigieg’s feet to the fire for spewing ‘fallacies’ in TENSE interview](https://americanwirenews.com/excuse-me-kilmeade-holds-buttigiegs-feet-to-the-fire-for-spewing-fallacies-in-tense-interview/)
+[Fans want a role for Dana White in Trump’s White House after election night speech](https://americanwirenews.com/fans-want-a-role-for-dana-white-in-trumps-white-house-after-election-night-speech/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-scarborough-1200x630.jpg)](https://americanwirenews.com/who-raised-them-joe-scarborough-chastises-trump-voters-spews-lies-in-elitist-rant-for-the-ages/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-supporters-1200x630.png)](https://americanwirenews.com/witnessing-this-as-i-left-the-trump-victory-party-moved-me-to-tears/)
 
-[‘Who raised them?’ Joe Scarborough chastises Trump voters, spews lies in elitist rant for the ages](https://americanwirenews.com/who-raised-them-joe-scarborough-chastises-trump-voters-spews-lies-in-elitist-rant-for-the-ages/)
+[‘Witnessing this as I left the Trump victory party moved me to tears’](https://americanwirenews.com/witnessing-this-as-i-left-the-trump-victory-party-moved-me-to-tears/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gw-request-for-information-1200x630.jpg)](https://americanwirenews.com/propaganda-press-upset-conservatives-are-filing-thousands-of-foia-requests-for-biden-admin-emails/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fl4-rond-1200-x-628-1200x630.jpg)](https://americanwirenews.com/body-blow-for-dems-as-fl-voters-reject-abortion-dope-amendments-desantis-cheers-big-win/)
 
-[‘Propaganda press’ upset conservatives are filing thousands of FOIA requests for Biden admin emails](https://americanwirenews.com/propaganda-press-upset-conservatives-are-filing-thousands-of-foia-requests-for-biden-admin-emails/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-reid-1200x630.jpg)](https://americanwirenews.com/joy-reid-finally-reaches-peak-tds-with-completely-unhinged-pre-election-screed/)
-
-[Joy Reid finally reaches peak TDS with ‘completely unhinged’ pre-election screed](https://americanwirenews.com/joy-reid-finally-reaches-peak-tds-with-completely-unhinged-pre-election-screed/)
+[Body blow for Dems as FL voters reject abortion, dope amendments, DeSantis cheers big win](https://americanwirenews.com/body-blow-for-dems-as-fl-voters-reject-abortion-dope-amendments-desantis-cheers-big-win/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-drano_bette-split-1200-x-628-1200x630.jpg)
 
@@ -66,119 +68,123 @@ Search for:
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Squad member declines to endorse Kamala as Muslim mutiny over Gaza persists](https://americanwirenews.com/squad-member-declines-to-endorse-kamala-as-muslim-mutiny-over-gaza-persists/)
+### [FBI thwarts alleged white supremacist attack on Nashville power grid on Election Day eve](https://americanwirenews.com/fbi-thwarts-alleged-white-supremacist-attack-on-nashville-power-grid-on-election-day-eve/)
 
-### [Tulsi sets the record straight on ‘cowardly’ Dick and Liz Cheney](https://americanwirenews.com/tulsi-sets-the-record-straight-on-cowardly-dick-and-liz-cheney/)
+### [Former Obama spox tells Megyn Kelly he’s ‘so sad’ that she fell for Russian disinformation about Doug Emhoff](https://americanwirenews.com/former-obama-spox-tells-megyn-kelly-hes-so-sad-that-she-fell-for-russian-disinformation-about-doug-emhoff/)
 
-### [Experts don’t buy ‘shock poll’ that says Kamala Harris is suddenly ahead in Iowa](https://americanwirenews.com/experts-dont-buy-shock-poll-that-says-kamala-harris-is-suddenly-ahead-in-iowa/)
+### [Maricopa County voting office defends restoring voter registration status of 98,000 unconfirmed citizens](https://americanwirenews.com/arizona-voting-office-defends-restoring-voter-registration-status-of-98000-unconfirmed-citizens/)
 
-### [Could this be the next White House Press Secretary?](https://americanwirenews.com/could-this-be-the-next-white-house-press-secretary-trumps-national-spokeswoman-gives-masterclass-in-handling-regime-media/)
+### [Actor Chris Pratt under fire after sharing his views on the election](https://americanwirenews.com/actor-chris-pratt-under-fire-after-sharing-his-views-on-the-election/)
 
-### [Lawmakers want answers from Pentagon over failure to send absentee ballots to active-duty service members](https://americanwirenews.com/lawmakers-want-answers-from-pentagon-over-failure-to-send-absentee-ballots-to-active-duty-service-members/)
+### [Failed Trump assassin sends letter from jail with pre-election warning](https://americanwirenews.com/failed-trump-assassin-sends-letter-from-jail-in-pre-election-warning/)
 
-### [Republicans call on Mayorkas to return to COVID-era border policy amid rapid surge in tuberculosis](https://americanwirenews.com/republicans-call-on-mayorkas-to-return-to-covid-era-border-policy-amid-rapid-surge-in-tuberculosis/)
+### [Meghan McCain gets nasty ambush, called a ‘closet Trumper’ after remarks about women](https://americanwirenews.com/meghan-mccain-gets-nasty-ambush-called-a-closet-trumper-after-remarks-about-women/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2182527048-220x180.jpg)](https://americanwirenews.com/zelenskyy-netanyahu-other-leaders-rush-to-congratulate-trump-on-impressive-election-victory/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hostin-220x180.jpg)](https://americanwirenews.com/sunny-hostin-whines-trumps-victory-a-referendum-on-cultural-resentment/)
 
-[Zelenskyy, Netanyahu other leaders rush to congratulate Trump on ‘impressive election victory’](https://americanwirenews.com/zelenskyy-netanyahu-other-leaders-rush-to-congratulate-trump-on-impressive-election-victory/)
+[Sunny Hostin whines Trump’s victory a ‘referendum on cultural resentment’](https://americanwirenews.com/sunny-hostin-whines-trumps-victory-a-referendum-on-cultural-resentment/)
 
-(Getty Images)
+[![](https://americanwirenews.com/wp-content/uploads/2022/12/SG-Woods-220x180.jpg)](https://americanwirenews.com/james-woods-envisions-ceremony-to-rid-america-of-mayorkas/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-puerto-rican-voter-220x180.jpg)](https://americanwirenews.com/cnn-reporter-questions-puerto-rican-womans-vote-for-trump-i-want-a-better-life/)
+[James Woods envisions ceremony to rid America of Mayorkas](https://americanwirenews.com/james-woods-envisions-ceremony-to-rid-america-of-mayorkas/)
 
-[CNN reporter questions Puerto Rican woman’s vote for Trump: I want ‘a better life’](https://americanwirenews.com/cnn-reporter-questions-puerto-rican-womans-vote-for-trump-i-want-a-better-life/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bill-barr-220x180.jpg)](https://americanwirenews.com/bill-barr-calls-on-prosecutors-to-heed-voters-message-dismiss-pending-trump-cases-do-the-right-thing/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kelly-bash-1-220x180.jpg)](https://americanwirenews.com/dana-bash-not-happy-when-she-learns-megyn-kellys-stumping-for-trump/)
+[Bill Barr calls on prosecutors to heed voters’ message, dismiss pending Trump cases: ‘Do the right thing’](https://americanwirenews.com/bill-barr-calls-on-prosecutors-to-heed-voters-message-dismiss-pending-trump-cases-do-the-right-thing/)
 
-[Dana Bash NOT happy when she learns Megyn Kelly’s stumping for Trump](https://americanwirenews.com/dana-bash-not-happy-when-she-learns-megyn-kellys-stumping-for-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-stock-exchange-220x180.jpg)](https://americanwirenews.com/there-was-relief-trumps-historic-win-drives-record-highs-on-wall-street/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-maddow-220x180.jpg)](https://americanwirenews.com/rachel-maddow-says-govt-must-break-ties-with-musks-space-programs-in-conspiracy-filled-tirade/)
+[‘There was relief’: Trump’s historic win drives record highs on Wall Street](https://americanwirenews.com/there-was-relief-trumps-historic-win-drives-record-highs-on-wall-street/)
 
-[Rachel Maddow says gov’t must break ties with Musk’s space programs in conspiracy-filled tirade](https://americanwirenews.com/rachel-maddow-says-govt-must-break-ties-with-musks-space-programs-in-conspiracy-filled-tirade/)
+(Official White House Photo by Andrea Hanks)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/08/GettyImages-1206255813-e1628187824176-220x180.jpg)](https://americanwirenews.com/voters-urged-to-stay-in-line-as-tech-issues-plague-pennsylvania-counties/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rubio-220x180.jpg)](https://americanwirenews.com/rubio-dodges-sec-of-state-inquiry-says-us-to-pursue-pragmatic-foreign-policy-under-trump/)
 
-[Voters urged to ‘STAY IN LINE’ as tech issues stall Pennsylvania counties](https://americanwirenews.com/voters-urged-to-stay-in-line-as-tech-issues-plague-pennsylvania-counties/)
+[Rubio dodges Sec of State inquiry, says US to pursue ‘pragmatic foreign policy’ under Trump](https://americanwirenews.com/rubio-dodges-sec-of-state-inquiry-says-us-to-pursue-pragmatic-foreign-policy-under-trump/)
 
-Getty Images
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-clooney-220x180.jpg)](https://americanwirenews.com/fox-friends-crows-over-trump-victory-suggests-wellness-check-on-obama-clooney-and-oprah/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-saraswati-benoka-220x180.jpg)](https://americanwirenews.com/faith-leaders-from-across-the-world-pray-for-a-trump-victory-and-for-peace/)
+[Fox & Friends crows over Trump victory, suggests ‘wellness check’ on Obama, Clooney and Oprah](https://americanwirenews.com/fox-friends-crows-over-trump-victory-suggests-wellness-check-on-obama-clooney-and-oprah/)
 
-[Faith leaders from across the world pray for a Trump victory and for peace](https://americanwirenews.com/faith-leaders-from-across-the-world-pray-for-a-trump-victory-and-for-peace/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg_bannon-220x180.jpg)](https://americanwirenews.com/unfinished-business-bannon-says-doj-fbi-will-pay-the-price-for-trying-to-destroy-america/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-musk-220x180.jpg)](https://americanwirenews.com/musk-tells-rogan-how-kamala-regime-will-end-x/)
+[Unfinished business: Bannon says DOJ, FBI will ‘pay the price’ for trying to destroy America](https://americanwirenews.com/unfinished-business-bannon-says-doj-fbi-will-pay-the-price-for-trying-to-destroy-america/)
 
-[Musk tells Rogan how Kamala regime will end X](https://americanwirenews.com/musk-tells-rogan-how-kamala-regime-will-end-x/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-barbara-heineback-220x180.jpg)](https://americanwirenews.com/sore-loser-ex-carter-white-house-staffer-unloads-on-classless-kamala-harris/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/skyler-robert-philippi-220x180.jpg)](https://americanwirenews.com/fbi-thwarts-alleged-white-supremacist-attack-on-nashville-power-grid-on-election-day-eve/)
+[‘Sore loser’: Ex-Carter White House staffer unloads on ‘classless’ Kamala Harris](https://americanwirenews.com/sore-loser-ex-carter-white-house-staffer-unloads-on-classless-kamala-harris/)
 
-[FBI thwarts alleged white supremacist attack on Nashville power grid on Election Day eve](https://americanwirenews.com/fbi-thwarts-alleged-white-supremacist-attack-on-nashville-power-grid-on-election-day-eve/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-schumer-pelosi-220x180.jpg)](https://americanwirenews.com/kevin-oleary-obama-pelosi-and-schumer-will-have-no-influence-on-dems-in-4-years/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-megyn-kelly-2-220x180.jpg)](https://americanwirenews.com/former-obama-spox-tells-megyn-kelly-hes-so-sad-that-she-fell-for-russian-disinformation-about-doug-emhoff/)
+[Kevin O’Leary: Obama, Pelosi and Schumer will have NO influence on Dems in 4 years](https://americanwirenews.com/kevin-oleary-obama-pelosi-and-schumer-will-have-no-influence-on-dems-in-4-years/)
 
-[Former Obama spox tells Megyn Kelly he’s ‘so sad’ that she fell for Russian disinformation about Doug Emhoff](https://americanwirenews.com/former-obama-spox-tells-megyn-kelly-hes-so-sad-that-she-fell-for-russian-disinformation-about-doug-emhoff/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liz-cheney-220x180.jpg)](https://americanwirenews.com/liz-cheney-speaks-out-on-trump-win-but-nobody-is-buying-what-shes-selling/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-pexels-man-filling-out-ballot-220x180.jpg)](https://americanwirenews.com/arizona-voting-office-defends-restoring-voter-registration-status-of-98000-unconfirmed-citizens/)
+[Liz Cheney speaks out on Trump win but NOBODY is buying what she’s selling](https://americanwirenews.com/liz-cheney-speaks-out-on-trump-win-but-nobody-is-buying-what-shes-selling/)
 
-[Maricopa County voting office defends restoring voter registration status of 98,000 unconfirmed citizens](https://americanwirenews.com/arizona-voting-office-defends-restoring-voter-registration-status-of-98000-unconfirmed-citizens/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-harris-220x180.jpg)](https://americanwirenews.com/kamala-harris-mum-campaign-says-there-are-still-votes-to-count/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-pratt-220x180.jpg)](https://americanwirenews.com/actor-chris-pratt-under-fire-after-sharing-his-views-on-the-election/)
+[Kamala Harris mum, campaign says there are still ‘votes to count’](https://americanwirenews.com/kamala-harris-mum-campaign-says-there-are-still-votes-to-count/)
 
-[Actor Chris Pratt under fire after sharing his views on the election](https://americanwirenews.com/actor-chris-pratt-under-fire-after-sharing-his-views-on-the-election/)
+(Official White House Photo by Lawrence Jackson)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-routhvid-1200-x-628-220x180.jpg)](https://americanwirenews.com/failed-trump-assassin-sends-letter-from-jail-in-pre-election-warning/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-don-fires-whoopi-220x180.jpg)](https://americanwirenews.com/jubilant-trump-supporter-just-fired-whoopi-from-the-view/)
 
-[Failed Trump assassin sends letter from jail with pre-election warning](https://americanwirenews.com/failed-trump-assassin-sends-letter-from-jail-in-pre-election-warning/)
+[Jubilant Trump supporter just fired Whoopi from ‘The View’](https://americanwirenews.com/jubilant-trump-supporter-just-fired-whoopi-from-the-view/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mccain-rant-470x260-1200-x-628-220x180.jpg)](https://americanwirenews.com/meghan-mccain-gets-nasty-ambush-called-a-closet-trumper-after-remarks-about-women/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kamalas-failure-220x180.jpg)](https://americanwirenews.com/literally-not-one-county-tapper-floored-by-map-comparing-kamalas-abysmal-failure-to-2020/)
 
-[Meghan McCain gets nasty ambush, called a ‘closet Trumper’ after remarks about women](https://americanwirenews.com/meghan-mccain-gets-nasty-ambush-called-a-closet-trumper-after-remarks-about-women/)
+[‘Literally not one county?’ Tapper FLOORED by map comparing Kamala’s abysmal failure to 2020](https://americanwirenews.com/literally-not-one-county-tapper-floored-by-map-comparing-kamalas-abysmal-failure-to-2020/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-randi-mahomes-220x180.jpg)](https://americanwirenews.com/patrick-mahomes-mom-endorses-trump-at-monday-night-football-game/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-morning-joe-220x180.jpg)](https://americanwirenews.com/moping-morning-joe-panel-admits-trump-knows-our-country-better-than-we-do/)
 
-[Patrick Mahomes’ mom endorses Trump at Monday Night Football game](https://americanwirenews.com/patrick-mahomes-mom-endorses-trump-at-monday-night-football-game/)
+[Moping ‘Morning Joe’ panel admits Trump ‘knows our country better than we do’](https://americanwirenews.com/moping-morning-joe-panel-admits-trump-knows-our-country-better-than-we-do/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sg-kamala-harris-donald-trump-split-220x180.jpg)](https://americanwirenews.com/republicans-in-california-furious-trump-is-not-at-top-of-ballot-you-have-to-click-to-find/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-lara-trump-220x180.jpg)](https://americanwirenews.com/lara-trump-hailed-as-a-hero-you-saved-the-election-process-in-this-country/)
 
-[Republicans in California furious Trump is not at top of ballot, you have to click to find](https://americanwirenews.com/republicans-in-california-furious-trump-is-not-at-top-of-ballot-you-have-to-click-to-find/)
+[Lara Trump hailed as a hero: ‘You saved the election process in this country’](https://americanwirenews.com/lara-trump-hailed-as-a-hero-you-saved-the-election-process-in-this-country/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-tarlov-220x180.png)](https://americanwirenews.com/you-got-something-against-my-mom-tarlov-triggered-as-tensions-rise-on-the-five/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2182894075-1-220x180.jpg)](https://americanwirenews.com/bill-oreilly-tells-maga-to-embrace-a-no-gloat-zone-and-avoid-retribution/)
 
-[‘You got something against my mom?’ Tarlov triggered as tensions rise on ‘The Five’](https://americanwirenews.com/you-got-something-against-my-mom-tarlov-triggered-as-tensions-rise-on-the-five/)
+[Bill O’Reilly tells MAGA to ’embrace a no gloat zone’ and avoid ‘retribution’](https://americanwirenews.com/bill-oreilly-tells-maga-to-embrace-a-no-gloat-zone-and-avoid-retribution/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-musk-giveaway-220x180.jpg)](https://americanwirenews.com/pa-judge-spanks-soros-backed-philly-da-over-musk-1-million-giveaways/)
+(Photo by Chip Somodevilla/Getty Images)
 
-[PA judge spanks Soros-backed Philly DA over Musk $1 million giveaways](https://americanwirenews.com/pa-judge-spanks-soros-backed-philly-da-over-musk-1-million-giveaways/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-chris-stirewalt-220x180.png)](https://americanwirenews.com/trump-owes-one-person-a-big-wet-kiss-for-his-win-stirewalt-says/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-oprah-220x180.png)](https://americanwirenews.com/lying-oprah-say-what-we-will-not-have-the-opportunity-to-ever-cast-a-ballot-again-if-kamala-loses/)
+[Trump owes one person a ‘big wet kiss’ for his win, Stirewalt says](https://americanwirenews.com/trump-owes-one-person-a-big-wet-kiss-for-his-win-stirewalt-says/)
 
-[Lying Oprah, say what?! ‘We will not have the opportunity to ever cast a ballot again,’ if Kamala loses](https://americanwirenews.com/lying-oprah-say-what-we-will-not-have-the-opportunity-to-ever-cast-a-ballot-again-if-kamala-loses/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-empire-state-building-220x180.jpg)](https://americanwirenews.com/liberals-horrified-as-empire-state-building-turns-red-to-celebrate-donald-trumps-victory-i/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-goldberg-cheney-220x180.jpg)](https://americanwirenews.com/quick-get-the-bucket-whoopi-tells-liz-cheney-her-moral-core-is-magnificent-she-should-lead-fbi-or-cia/)
+[Liberals horrified as Empire State Building turns red to celebrate Donald Trump’s victory](https://americanwirenews.com/liberals-horrified-as-empire-state-building-turns-red-to-celebrate-donald-trumps-victory-i/)
 
-[Quick, get the bucket! Whoopi tells Liz Cheney her ‘moral core is magnificent,’ she should lead FBI or CIA](https://americanwirenews.com/quick-get-the-bucket-whoopi-tells-liz-cheney-her-moral-core-is-magnificent-she-should-lead-fbi-or-cia/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/04/sg-aoc-cbs-1200-x-628-220x180.jpg)](https://americanwirenews.com/aoc-dragged-for-election-day-tweet/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-aocbigmouth-1200-x-628-220x180.jpg)](https://americanwirenews.com/musk-trolls-aoc-after-she-gets-checked-for-promoting-false-puerto-rico-anti-trump-rally/)
+[AOC dragged for election day tweet](https://americanwirenews.com/aoc-dragged-for-election-day-tweet/)
 
-[Musk trolls AOC after she gets checked for promoting false Puerto Rico ‘anti-Trump’ rally](https://americanwirenews.com/musk-trolls-aoc-after-she-gets-checked-for-promoting-false-puerto-rico-anti-trump-rally/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fauci-rf-pexels-handcuffs-220x180.jpg)](https://americanwirenews.com/this-will-not-go-well-for-fauci-americans-look-forward-to-trump-holding-doctor-death-accountable/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-chris-cuomo-sg-megyn-kelly-220x180.jpg)](https://americanwirenews.com/chris-cuomo-refuses-order-to-cut-to-megyn-kellys-trump-rally-speech-takes-cheap-shots-at-her-instead/)
+[‘This will not go well for Fauci’: Americans look forward to Trump holding ‘Doctor Death’ accountable](https://americanwirenews.com/this-will-not-go-well-for-fauci-americans-look-forward-to-trump-holding-doctor-death-accountable/)
 
-[Chris Cuomo refuses order to cut to Megyn Kelly’s Trump rally speech, takes cheap shots at her instead](https://americanwirenews.com/chris-cuomo-refuses-order-to-cut-to-megyn-kellys-trump-rally-speech-takes-cheap-shots-at-her-instead/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djt-cuban-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/top-kamala-surrogate-mark-cuban-quick-to-congratulate-trump-and-musk/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jd-vance-220x180.png)](https://americanwirenews.com/jd-vance-declares-its-time-to-take-out-the-trash-in-dc-the-trashs-name-is-kamala-harris/)
+[Top Kamala surrogate Mark Cuban quick to congratulate Trump and Musk](https://americanwirenews.com/top-kamala-surrogate-mark-cuban-quick-to-congratulate-trump-and-musk/)
 
-[JD Vance declares it’s time to take out the trash in DC: ‘The trash’s name is Kamala Harris’](https://americanwirenews.com/jd-vance-declares-its-time-to-take-out-the-trash-in-dc-the-trashs-name-is-kamala-harris/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2162326648-1-220x180.jpg)](https://americanwirenews.com/dems-chased-moderate-joe-manchin-out-now-lose-his-senate-seat/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/pxbay-bacon-cbskam-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/kamala-blew-up-interview-with-muslim-influencer-over-praise-of-bacon/)
+[Dems chased moderate Joe Manchin out, now lose his Senate seat](https://americanwirenews.com/dems-chased-moderate-joe-manchin-out-now-lose-his-senate-seat/)
 
-[Kamala blew up interview with Muslim influencer over praise of bacon](https://americanwirenews.com/kamala-blew-up-interview-with-muslim-influencer-over-praise-of-bacon/)
+(Photo by Chip Somodevilla/Getty Images)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-indictment-220x180.jpg)](https://americanwirenews.com/axios-predicts-prison-in-trumps-future-if-he-loses/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-musk-sink-220x180.jpg)](https://americanwirenews.com/musk-trolls-trump-haters-over-victory-with-photo-of-himself-in-oval-office/)
 
-[Axios predicts prison in Trump’s future if he loses](https://americanwirenews.com/axios-predicts-prison-in-trumps-future-if-he-loses/)
+[Musk trolls Trump-haters over victory with photo of himself in Oval office](https://americanwirenews.com/musk-trolls-trump-haters-over-victory-with-photo-of-himself-in-oval-office/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cardib-1200-x-628-220x180.jpg)](https://americanwirenews.com/cardi-b-leads-melodramatic-celebrity-meltdowns-as-trump-clobbers-kamala/)
+
+[Cardi B leads melodramatic celebrity meltdowns as Trump clobbers Kamala](https://americanwirenews.com/cardi-b-leads-melodramatic-celebrity-meltdowns-as-trump-clobbers-kamala/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -240,9 +246,13 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [BUSINESS](https://www.commdiginews.com/category/featured-business/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-dcmickeyd-1200-x-628-1200x630.jpg)](https://americanwirenews.com/deep-blue-city-business-owners-board-up-prepare-for-possible-election-violence/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-times-strike-1200x630.jpg)](https://americanwirenews.com/they-did-it-hundreds-of-new-york-times-staffers-go-on-strike-the-day-before-election/)
 
-[Deep blue city business owners board up, prepare for possible election violence](https://americanwirenews.com/deep-blue-city-business-owners-board-up-prepare-for-possible-election-violence/)
+[They did it: Hundreds of New York Times staffers go on strike the day before election](https://americanwirenews.com/they-did-it-hundreds-of-new-york-times-staffers-go-on-strike-the-day-before-election/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-times-strike-220x180.jpg)](https://americanwirenews.com/they-did-it-hundreds-of-new-york-times-staffers-go-on-strike-the-day-before-election/)
+
+[They did it: Hundreds of New York Times staffers go on strike the day before election](https://americanwirenews.com/they-did-it-hundreds-of-new-york-times-staffers-go-on-strike-the-day-before-election/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-dcmickeyd-1200-x-628-220x180.jpg)](https://americanwirenews.com/deep-blue-city-business-owners-board-up-prepare-for-possible-election-violence/)
 
@@ -260,35 +270,31 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Researchers find riches beneath one US state to possibly meet worldwide demand nine times over](https://americanwirenews.com/researchers-find-riches-beneath-one-us-state-to-possibly-meet-worldwide-demand-nine-times-over/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-pizza2-220x180.png)](https://americanwirenews.com/dc-pizza-chain-declared-racist-over-hella-disrespectful-dessert-named-after-former-mayor/)
-
-[DC pizza chain declared ‘racist’ over ‘hella disrespectful’ dessert named after former mayor](https://americanwirenews.com/dc-pizza-chain-declared-racist-over-hella-disrespectful-dessert-named-after-former-mayor/)
-
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-california-voting-1200x630.jpg)](https://americanwirenews.com/voter-records-his-experience-at-poll-to-show-how-easy-it-is-to-lie-i-take-your-word-for-it-its-california/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-randi-mahomes-1200x630.jpg)](https://americanwirenews.com/patrick-mahomes-mom-endorses-trump-at-monday-night-football-game/)
 
-[Voter records his experience at poll to show how easy it is to lie: ‘I take your word for it — it’s California’](https://americanwirenews.com/voter-records-his-experience-at-poll-to-show-how-easy-it-is-to-lie-i-take-your-word-for-it-its-california/)
+[Patrick Mahomes’ mom endorses Trump at Monday Night Football game](https://americanwirenews.com/patrick-mahomes-mom-endorses-trump-at-monday-night-football-game/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-california-voting-220x180.jpg)](https://americanwirenews.com/voter-records-his-experience-at-poll-to-show-how-easy-it-is-to-lie-i-take-your-word-for-it-its-california/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-randi-mahomes-220x180.jpg)](https://americanwirenews.com/patrick-mahomes-mom-endorses-trump-at-monday-night-football-game/)
 
-[Voter records his experience at poll to show how easy it is to lie: ‘I take your word for it — it’s California’](https://americanwirenews.com/voter-records-his-experience-at-poll-to-show-how-easy-it-is-to-lie-i-take-your-word-for-it-its-california/)
+[Patrick Mahomes’ mom endorses Trump at Monday Night Football game](https://americanwirenews.com/patrick-mahomes-mom-endorses-trump-at-monday-night-football-game/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-ad-220x180.jpg)](https://americanwirenews.com/the-best-for-last-new-trump-ad-blows-away-any-political-ad-made-in-the-last-decade/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sg-kamala-harris-donald-trump-split-220x180.jpg)](https://americanwirenews.com/republicans-in-california-furious-trump-is-not-at-top-of-ballot-you-have-to-click-to-find/)
 
-[The best for last: New Trump ad BLOWS AWAY any political ad made in the last decade!](https://americanwirenews.com/the-best-for-last-new-trump-ad-blows-away-any-political-ad-made-in-the-last-decade/)
+[Republicans in California furious Trump is not at top of ballot, you have to click to find](https://americanwirenews.com/republicans-in-california-furious-trump-is-not-at-top-of-ballot-you-have-to-click-to-find/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-roganfetterman-1200-x-628-220x180.jpg)](https://americanwirenews.com/rogan-pushes-fetterman-to-answer-why-dems-are-flooding-swing-states-with-illegals/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-tarlov-220x180.png)](https://americanwirenews.com/you-got-something-against-my-mom-tarlov-triggered-as-tensions-rise-on-the-five/)
 
-[Rogan pushes Fetterman to answer why Dems are flooding swing states with illegals](https://americanwirenews.com/rogan-pushes-fetterman-to-answer-why-dems-are-flooding-swing-states-with-illegals/)
+[‘You got something against my mom?’ Tarlov triggered as tensions rise on ‘The Five’](https://americanwirenews.com/you-got-something-against-my-mom-tarlov-triggered-as-tensions-rise-on-the-five/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-snlkam-1200-x-628-220x180.jpg)](https://americanwirenews.com/kamala-too-chicken-to-sit-down-with-joe-rogan-but-drops-everything-to-go-on-snl/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-musk-giveaway-220x180.jpg)](https://americanwirenews.com/pa-judge-spanks-soros-backed-philly-da-over-musk-1-million-giveaways/)
 
-[Kamala too chicken to sit down with Joe Rogan but drops everything to go on SNL](https://americanwirenews.com/kamala-too-chicken-to-sit-down-with-joe-rogan-but-drops-everything-to-go-on-snl/)
+[PA judge spanks Soros-backed Philly DA over Musk $1 million giveaways](https://americanwirenews.com/pa-judge-spanks-soros-backed-philly-da-over-musk-1-million-giveaways/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-biden-220x180.jpg)](https://americanwirenews.com/joe-wants-to-smack-trump-in-the-ass-in-latest-outburst/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-oprah-220x180.png)](https://americanwirenews.com/lying-oprah-say-what-we-will-not-have-the-opportunity-to-ever-cast-a-ballot-again-if-kamala-loses/)
 
-[Joe wants to smack Trump ‘in the ass’ in latest outburst](https://americanwirenews.com/joe-wants-to-smack-trump-in-the-ass-in-latest-outburst/)
+[Lying Oprah, say what?! ‘We will not have the opportunity to ever cast a ballot again,’ if Kamala loses](https://americanwirenews.com/lying-oprah-say-what-we-will-not-have-the-opportunity-to-ever-cast-a-ballot-again-if-kamala-loses/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
