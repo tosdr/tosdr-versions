@@ -140,28 +140,35 @@ We welcome questions, concerns, and feedback about this policy at legal@radiopub
 
 [](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F549250c61572&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fradio-public%2Fradiopublic-privacy-policy-549250c61572&source=---footer_actions--549250c61572---------------------bookmark_footer-----------)
 
-[![Jake Shapiro](https://miro.medium.com/v2/resize:fill:144:144/1*Ls6MBG8vGKwQgvWDBkVGRg.jpeg)](https://medium.com/@jakeshapiro?source=post_page---post_author_info--549250c61572--------------------------------)
+[![RadioPublic](https://miro.medium.com/v2/resize:fill:96:96/1*2eRJrmOCx_zJvAmKNjXQkQ.png)](https://medium.com/radio-public?source=post_page---post_publication_info--549250c61572--------------------------------)
 
-[![RadioPublic](https://miro.medium.com/v2/resize:fill:64:64/1*2eRJrmOCx_zJvAmKNjXQkQ.png)](https://medium.com/radio-public?source=post_page---post_author_info--549250c61572--------------------------------)
+[![RadioPublic](https://miro.medium.com/v2/resize:fill:128:128/1*2eRJrmOCx_zJvAmKNjXQkQ.png)](https://medium.com/radio-public?source=post_page---post_publication_info--549250c61572--------------------------------)
+
+[Published in RadioPublic
+------------------------](https://medium.com/radio-public?source=post_page---post_publication_info--549250c61572--------------------------------)
+
+[1.7K Followers](https://medium.com/radio-public/followers?source=post_page---post_publication_info--549250c61572--------------------------------)
+
+·[Last published Jan 31, 2020](https://medium.com/radio-public/audience-growth-isnt-an-accident-your-podcast-needs-a-web-strategy-ce62eb4a9b26?source=post_page---post_publication_info--549250c61572--------------------------------)
+
+We help podcasters build their business and listeners discover great stories
+
+[![Jake Shapiro](https://miro.medium.com/v2/resize:fill:96:96/1*Ls6MBG8vGKwQgvWDBkVGRg.jpeg)](https://medium.com/@jakeshapiro?source=post_page---post_author_info--549250c61572--------------------------------)
+
+[![Jake Shapiro](https://miro.medium.com/v2/resize:fill:128:128/1*Ls6MBG8vGKwQgvWDBkVGRg.jpeg)](https://medium.com/@jakeshapiro?source=post_page---post_author_info--549250c61572--------------------------------)
 
 Follow
-
-[](https://medium.com/m/signin?actionUrl=%2F_%2Fapi%2Fsubscriptions%2Fnewsletters%2Fa3853af1e53f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fradio-public%2Fradiopublic-privacy-policy-549250c61572&newsletterV3=f749d6550ff2&newsletterV3Id=a3853af1e53f&user=Jake+Shapiro&userId=f749d6550ff2&source=---post_author_info--549250c61572---------------------subscribe_user-----------)
 
 [Written by Jake Shapiro
 -----------------------](https://medium.com/@jakeshapiro?source=post_page---post_author_info--549250c61572--------------------------------)
 
 [2.3K Followers](https://medium.com/@jakeshapiro/followers?source=post_page---post_author_info--549250c61572--------------------------------)
 
-·Editor for
-
-[RadioPublic](https://medium.com/radio-public?source=post_page---post_author_info--549250c61572--------------------------------)
+·[2K Following](https://medium.com/@jakeshapiro/following?source=post_page---post_author_info--549250c61572--------------------------------)
 
 Head of Creator Partnerships @applepodcasts; previously @radiopublic @podfunding @prx @mattervc
 
 Follow
-
-[](https://medium.com/m/signin?actionUrl=%2F_%2Fapi%2Fsubscriptions%2Fnewsletters%2Fa3853af1e53f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fradio-public%2Fradiopublic-privacy-policy-549250c61572&newsletterV3=f749d6550ff2&newsletterV3Id=a3853af1e53f&user=Jake+Shapiro&userId=f749d6550ff2&source=---post_author_info--549250c61572---------------------subscribe_user-----------)
 
 [Help](https://help.medium.com/hc/en-us?source=post_page-----549250c61572--------------------------------)
 
