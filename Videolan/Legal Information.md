@@ -1,5 +1,3 @@
-[Mastodon](https://floss.social/@VLC_Android) [Mastodon](https://floss.social/@videolan)               
-
  [![VideoLAN association](//images.videolan.org/images/logoGreen.png)](https://www.videolan.org/)Toggle navigation
 
 * [VideoLAN](https://www.videolan.org/videolan/)
@@ -213,7 +211,7 @@ VideoLAN élabore et fournit des logiciels audiovisuels. L'association décline 
 
 [![Association VideoLAN](//images.videolan.org/images/logoGrey.png)](https://www.videolan.org/)
 
-[](https://www.facebook.com/vlc.media.player)[](https://www.twitter.com/videolan)
+[](https://www.facebook.com/vlc.media.player)[](https://www.twitter.com/videolan)[](https://floss.social/@videolan)
 
 VLC media player
 
