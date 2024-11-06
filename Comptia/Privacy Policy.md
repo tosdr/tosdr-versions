@@ -117,8 +117,6 @@
         
         [Podcasts](https://www.comptia.org/events/podcasts)
     * [Channel Training](https://www.comptia.org/events/channel-training/) [Event Archives](https://www.comptia.org/events/archives/)
-    *  [![11047_EMEA24_MainSiteNavBannerAd_300x160px](/images/default-source/default-album/11047_emea24_mainsitenavbannerad_300x160px.png?sfvrsn=5da82a1e_0 "11047_EMEA24_MainSiteNavBannerAd_300x160px")](https://connect.comptia.org/emea)
-        
 * [Resources](https://www.comptia.org/resources)
     * [](#0)[Resources](https://www.comptia.org/resources)
     * [Trends & Analysis](https://www.comptia.org/resources)
