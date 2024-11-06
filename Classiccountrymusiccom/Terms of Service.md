@@ -1,6 +1,4 @@
-[![Classic Country Music | Legendary Stories and Songs Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![Classic Country Music | Legendary Stories and Songs Logo](https://classiccountrymusic.com/wp-content/themes/brm-music-premium-rock/assets/images/ccm-desktop-logo.png)](https://classiccountrymusic.com/)
+[![Classic Country Music | Legendary Stories and Songs Logo](https://classiccountrymusic.com/wp-content/themes/brm-music-premium-rock/assets/images/ccm-desktop-logo.png)](https://classiccountrymusic.com/)
 
 * [Home](https://classiccountrymusic.com/)
 * [Artists](#)
@@ -100,7 +98,7 @@ Main Menu
 
 * [Hear A Previously Unreleased Recording Of...](https://classiccountrymusic.com/hear-a-previously-unreleased-recording-of-george-jones-tender-years/)
 * [Dolly Parton Addresses Rumors That She...](https://classiccountrymusic.com/dolly-parton-addresses-rumors-that-she-is-retiring-after-her-next-album/)
-* [Jamey Johnson Explains How Toby Keith’s...](https://classiccountrymusic.com/jamey-johnson-explains-how-toby-keiths-death-motivated-him-to-release-his-new-album/)
+* [Trace Adkins Salutes Military Veterans In...](https://classiccountrymusic.com/trace-adkins-salutes-military-veterans-in-music-video-for-still-a-soldier/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
