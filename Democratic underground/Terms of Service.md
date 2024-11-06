@@ -56,12 +56,12 @@ Search](https://www.democraticunderground.com/?com=search)
 
 Welcome to DU! The truly grassroots left-of-center political community where regular people, not algorithms, drive the discussions and set the standards. Join the community: [Create a free account](https://www.democraticunderground.com/?com=login&create=1) Support DU (and get rid of ads!): [Become a Star Member](https://www.democraticunderground.com/star) [Latest Breaking News](https://www.democraticunderground.com/?com=forum&id=1014) [Editorials & Other Articles](https://www.democraticunderground.com/?com=forum&id=1016) [General Discussion](https://www.democraticunderground.com/?com=forum&id=1002) [The DU Lounge](https://www.democraticunderground.com/?com=forum&id=1018) [All Forums](https://www.democraticunderground.com/?com=forums) [Issue Forums](https://www.democraticunderground.com/?com=forum&id=1311) [Culture Forums](https://www.democraticunderground.com/?com=forum&id=1312) [Alliance Forums](https://www.democraticunderground.com/?com=forum&id=1313) [Region Forums](https://www.democraticunderground.com/?com=forum&id=1314) [Support Forums](https://www.democraticunderground.com/?com=forum&id=1315) [Help & Search](https://www.democraticunderground.com/?com=search)
 
-Due to very high traffic, Democratic Underground is currently open to registered members only
-=============================================================================================
+Due to extremely high traffic, Democratic Underground is currently open to Star members only
+============================================================================================
 
-At this time, only registered members of Democratic Underground can fully access the site.
+If you are a Star Member and you are seeing this message, you can [sign into your account here](https://www.democraticunderground.com/?com=login) in order to access the site as normal. If you are already a registered member and would like to become a Star Member, please sign in to your account and then [visit this page](https://www.democraticunderground.com/star).
 
-If you are a registered member of DU and you are seeing this message, you can [sign into your account here](https://www.democraticunderground.com/?com=login) in order to access the site as normal. If you do not have an account yet, you can [create one here](https://www.democraticunderground.com/?com=login&create=1) in order to access the site.
+If you are not a registered member and would like to become a Star Member, please [visit this page](https://www.democraticunderground.com/?com=login&create=1).
 
 We apologize for the inconvenience during this time. This situation is temporary, but could continue for anywhere from a few hours to a few days.
 
