@@ -101,8 +101,6 @@ Customer Services Helpline
             
         * [Ready Meals](https://www.ethicalsuperstore.com/category/groceries-and-everyday/ready-meals/)
             
-        * [Dairy Free Cheese](https://www.ethicalsuperstore.com/category/groceries-and-everyday/cheese/)
-            
         * [World Food](https://www.ethicalsuperstore.com/category/groceries-and-everyday/world-food/)
             * [African](https://www.ethicalsuperstore.com/category/groceries-and-everyday/world-food/african/)
             * [Mexican](https://www.ethicalsuperstore.com/category/groceries-and-everyday/world-food/mexican/)
@@ -142,9 +140,9 @@ Customer Services Helpline
             
         * [Bin Bags & Foils](https://www.ethicalsuperstore.com/category/cleaning-and-household/bin-bags-and-foils/)
             
-        * [Utility & DIY](https://www.ethicalsuperstore.com/category/cleaning-and-household/diy/)
-            
         * [Tissues & Towels](https://www.ethicalsuperstore.com/category/cleaning-and-household/tissues-and-towels/)
+            
+        * [Utility & DIY](https://www.ethicalsuperstore.com/category/cleaning-and-household/diy/)
             
         * [Shopping & Storage Bags](https://www.ethicalsuperstore.com/category/cleaning-and-household/shopping-and-storage-bags/)
             
@@ -170,8 +168,8 @@ Customer Services Helpline
         
         * [Mens](https://www.ethicalsuperstore.com/category/fashion/mens/)
             * [Tops & T-Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/t_shirts/)
-            * [Graphic Tees](https://www.ethicalsuperstore.com/category/fashion/mens/graphic-tees/)
             * [Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/shirts/)
+            * [Graphic Tees](https://www.ethicalsuperstore.com/category/fashion/mens/graphic-tees/)
             * [Trousers & Shorts](https://www.ethicalsuperstore.com/category/fashion/mens/trousers-and-shorts/)
             * [Jackets & Jumpers](https://www.ethicalsuperstore.com/category/fashion/mens/jackets-and-jumpers/)
             * [Pyjamas & Underwear](https://www.ethicalsuperstore.com/category/fashion/mens/underwear/)
@@ -327,33 +325,33 @@ Customer Services Helpline
             * [Wooden Toys](https://www.ethicalsuperstore.com/category/baby-child-and-toys/toys/wooden-toys/)
         
 * [Christmas Gifts](https://www.ethicalsuperstore.com/ethical-gifts/)
-    * * [Christmas Cards](https://www.ethicalsuperstore.com/ethical-gifts/christmas-cards/)
+    * * [Advent Calendars](https://www.ethicalsuperstore.com/ethical-gifts/advent-calendars/)
+        * [Christmas](https://www.ethicalsuperstore.com/ethical-gifts/christmas/)
+        * [Festive Food](https://www.ethicalsuperstore.com/ethical-gifts/festive-food/)
+        * [Christmas Decorations](https://www.ethicalsuperstore.com/ethical-gifts/christmas-decorations/)
+        * [Stocking Fillers](https://www.ethicalsuperstore.com/ethical-gifts/stocking-fillers/)
+        * [Christmas Cards](https://www.ethicalsuperstore.com/ethical-gifts/christmas-cards/)
+        * [Christmas Gift Wrap](https://www.ethicalsuperstore.com/ethical-gifts/christmas-wrap/)
+        
+        * [For Her](https://www.ethicalsuperstore.com/ethical-gifts/for-her/)
+        * [For Him](https://www.ethicalsuperstore.com/ethical-gifts/for-him/)
+        * [For Kids](https://www.ethicalsuperstore.com/ethical-gifts/for-kids/)
+        * [For Animal Lovers](https://www.ethicalsuperstore.com/ethical-gifts/for-animal-lovers/)
+        * [For Foodies](https://www.ethicalsuperstore.com/ethical-gifts/gifts-for-foodies/)
+        * [For Green Gardeners](https://www.ethicalsuperstore.com/ethical-gifts/garden-gift-ideas/)
+        * [For Weddings](https://www.ethicalsuperstore.com/ethical-gifts/for-weddings/)
+        
+        * [Beauty Gifts](https://www.ethicalsuperstore.com/ethical-gifts/beauty-gift-sets/)
+        * [Chocolate Gifts](https://www.ethicalsuperstore.com/ethical-gifts/chocolate-gifts/)
+        * [Fair Trade Gifts](https://www.ethicalsuperstore.com/ethical-gifts/fair-trade-gifts/)
+        * [Plastic Free Gifts](https://www.ethicalsuperstore.com/ethical-gifts/plastic-free-gifts/)
+        * [Vegan Gifts](https://www.ethicalsuperstore.com/ethical-gifts/vegan-gifts/)
+        
         * [Gifts Below £10](https://www.ethicalsuperstore.com/ethical-gifts/gifts-below-10/)
         * [Gifts Below £20](https://www.ethicalsuperstore.com/ethical-gifts/gifts-below-20/)
         * [Gifts Below £30](https://www.ethicalsuperstore.com/ethical-gifts/gifts-below-30/)
-        
-        * [For Him](https://www.ethicalsuperstore.com/ethical-gifts/for-him/)
-        * [For Her](https://www.ethicalsuperstore.com/ethical-gifts/for-her/)
-        * [For Kids](https://www.ethicalsuperstore.com/ethical-gifts/for-kids/)
-        * [Vouchers](https://www.ethicalsuperstore.com/ethical-gifts/vouchers/)
-        
-        * [Chocolate Gifts](https://www.ethicalsuperstore.com/ethical-gifts/chocolate-gifts/)
-        * [Fair Trade Gifts](https://www.ethicalsuperstore.com/ethical-gifts/fair-trade-gifts/)
-        * [Beauty Gifts](https://www.ethicalsuperstore.com/ethical-gifts/beauty-gift-sets/)
-        * [Plastic Free Gifts](https://www.ethicalsuperstore.com/ethical-gifts/plastic-free-gifts/)
         * [Cards & Wrap](https://www.ethicalsuperstore.com/ethical-gifts/cards-and-wrap/)
-        
-        * [Advent Calendars](https://www.ethicalsuperstore.com/ethical-gifts/advent-calendars/)
-        * [Christmas](https://www.ethicalsuperstore.com/ethical-gifts/christmas/)
-        * [Christmas Cards & Wrap](https://www.ethicalsuperstore.com/ethical-gifts/christmas-gift-wrap/)
-        * [Festive Food](https://www.ethicalsuperstore.com/ethical-gifts/festive-food/)
-        * [Stocking Fillers](https://www.ethicalsuperstore.com/ethical-gifts/stocking-fillers/)
-        * [Christmas Decorations](https://www.ethicalsuperstore.com/ethical-gifts/christmas-decorations/)
-        * [Vegan Gifts](https://www.ethicalsuperstore.com/ethical-gifts/vegan-gifts/)
-        * [For Foodies](https://www.ethicalsuperstore.com/ethical-gifts/gifts-for-foodies/)
-        * [For Animal Lovers](https://www.ethicalsuperstore.com/ethical-gifts/for-animal-lovers/)
-        * [For Weddings](https://www.ethicalsuperstore.com/ethical-gifts/for-weddings/)
-        * [For Green Gardeners](https://www.ethicalsuperstore.com/ethical-gifts/garden-gift-ideas/)
+        * [Vouchers](https://www.ethicalsuperstore.com/ethical-gifts/vouchers/)
         
 * [Pets](https://www.ethicalsuperstore.com/category/pet-care/)
     * * [Dog Food](https://www.ethicalsuperstore.com/category/pet-care/dog-food/)
