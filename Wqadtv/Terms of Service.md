@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/shots-fired-east-moline-arrest-made/526-81a0417f-77a7-4681-a7c2-17134169c934)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f25a4a15-c5f8-405e-8e97-b7e5713151f2/20241105T182155/f25a4a15-c5f8-405e-8e97-b7e5713151f2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f25a4a15-c5f8-405e-8e97-b7e5713151f2/20241105T182155/f25a4a15-c5f8-405e-8e97-b7e5713151f2_360x203.jpg)](https://www.wqad.com/article/news/politics/elections/how-to-watch-wqad-news-8-live-coverage-on-election-night-2024/526-6d1852f3-71e4-4a9f-8711-513e224e775a)
         
-        #### [East Moline police: Man arrested in shots fired incident](https://www.wqad.com/article/news/local/public-safety/shots-fired-east-moline-arrest-made/526-81a0417f-77a7-4681-a7c2-17134169c934)
+        #### [Watch Now: Live Election Night coverage on WQAD News 8+, available on Roku, Amazon Fire TV and Apple TV](https://www.wqad.com/article/news/politics/elections/how-to-watch-wqad-news-8-live-coverage-on-election-night-2024/526-6d1852f3-71e4-4a9f-8711-513e224e775a)
         
-    *  [![](https://media.tegna-media.com/assets/WUSA/images/c8ffb8b4-0a83-4bb9-8763-9164b1260376/c8ffb8b4-0a83-4bb9-8763-9164b1260376_16x9.jpg) ![](https://media.tegna-media.com/assets/WUSA/images/c8ffb8b4-0a83-4bb9-8763-9164b1260376/c8ffb8b4-0a83-4bb9-8763-9164b1260376_360x203.jpg)](https://www.wqad.com/elections)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b295850c-4744-4ec7-a4b6-5b524c6e4534/20241105T171549/b295850c-4744-4ec7-a4b6-5b524c6e4534_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b295850c-4744-4ec7-a4b6-5b524c6e4534/20241105T171549/b295850c-4744-4ec7-a4b6-5b524c6e4534_360x203.jpg)](https://www.wqad.com/article/news/local/moline-missing-davenport-woman/526-e29c34db-4e5e-4e43-89b8-7468dc21ef21)
         
-        #### [Live Election Results | Nov. 5, 2024](https://www.wqad.com/elections)
+        #### [Moline police seek help finding missing Davenport woman](https://www.wqad.com/article/news/local/moline-missing-davenport-woman/526-e29c34db-4e5e-4e43-89b8-7468dc21ef21)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/4c62ad05-766e-47fb-8596-206a35ee40e1/20241105T233958/4c62ad05-766e-47fb-8596-206a35ee40e1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/4c62ad05-766e-47fb-8596-206a35ee40e1/20241105T233958/4c62ad05-766e-47fb-8596-206a35ee40e1_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [A break from the rain ahead](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/b247d452-6c71-496c-84e5-95e0bf3c4a23/20241105T154945/b247d452-6c71-496c-84e5-95e0bf3c4a23_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b247d452-6c71-496c-84e5-95e0bf3c4a23/20241105T154945/b247d452-6c71-496c-84e5-95e0bf3c4a23_360x203.jpg)](https://www.wqad.com/article/weather/three-degree-guarantee/the-colonel-davenport-historical-foundation-has-been-selected-as-the-three-degree-recipient-for-november-2024/526-7355f410-b788-4e46-bddf-fd4d533bd67b)
         
         #### [The Colonel Davenport Historical Foundation has been selected as the Three Degree recipient for November 2024](https://www.wqad.com/article/weather/three-degree-guarantee/the-colonel-davenport-historical-foundation-has-been-selected-as-the-three-degree-recipient-for-november-2024/526-7355f410-b788-4e46-bddf-fd4d533bd67b)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/3e65ae9b-06ea-43b9-8980-f43073fc7062/20241105T130900/3e65ae9b-06ea-43b9-8980-f43073fc7062_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3e65ae9b-06ea-43b9-8980-f43073fc7062/20241105T130900/3e65ae9b-06ea-43b9-8980-f43073fc7062_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [Scattered showers and gusty winds continue on Election Day](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-59°
+52°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
