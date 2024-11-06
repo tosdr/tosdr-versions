@@ -122,7 +122,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Today I Will Vote for a Third Party](https://knowyourmeme.com/memes/hmm-today-i-will-vote-for-a-third-party "Today I Will Vote for a Third Party") [Trump Trapping Liberals In Crystals](https://knowyourmeme.com/memes/donald-trump-trapping-liberals-in-crystals "Trump Trapping Liberals In Crystals") [Robert O'Neill 'Concubines' Post](https://knowyourmeme.com/memes/events/robert-j-oneill-concubines-twitter-post "Robert O'Neill 'Concubines' Post") [@America Twitter Account](https://knowyourmeme.com/memes/sites/elon-musks-america-twitter-x-account "@America Twitter Account") [Dragon Age Veilguard Reviews Controversy](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-reviews-controversy "Dragon Age Veilguard Reviews Controversy") [Jane Doe (Zenless Zone Zero)](https://knowyourmeme.com/memes/jane-doe-zenless-zone-zero "Jane Doe (Zenless Zone Zero)") [No Full Auto in Buildings](https://knowyourmeme.com/memes/no-full-auto-in-buildings "No Full Auto in Buildings")
+[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Trump Trapping Liberals In Crystals](https://knowyourmeme.com/memes/donald-trump-trapping-liberals-in-crystals "Trump Trapping Liberals In Crystals")
 
 Copyright Infringement Notice
 =============================
@@ -188,7 +188,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hello! You must login or signup first!
+### Namaste! You must login or signup first!
 
 |     |     |
 | --- | --- |
